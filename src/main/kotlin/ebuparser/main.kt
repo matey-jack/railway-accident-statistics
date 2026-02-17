@@ -31,8 +31,13 @@ fun extract(
             .message(ChatMessage.UserMessage.of("$prompt\n$fullText"))
             .build()
 
-    val response = llmServer.chatCompletions().create(chatRequest).join()
-    val content = response.firstContent() ?: ""
+    val streamResponse = llmServer.chatCompletions().createStream(chatRequest).join()
+    val content =
+        streamResponse
+            .filter { it.choices.isNotEmpty() && it.firstContent() != null }
+            .map { it.firstContent().orEmpty() }
+            .toList()
+            .joinToString("")
 
     // separate the 'thinking' part (if there is any) from the result
     val thinkingPattern = Regex(".*?</thinking>\\s*(.*)", RegexOption.DOT_MATCHES_ALL)
