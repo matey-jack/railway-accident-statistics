@@ -1,0 +1,3608 @@
+Untersuchungsbericht
+Aktenzeichen:
+
+BEU-uu2024-11/005-3323
+
+Stand:
+
+25.11.2025
+
+Erstveröﬀentlichung:
+
+20.11.2025
+
+Version 1.1
+
+Gefährliches Ereignis im Eisenbahnbetrieb
+
+Ereignisart:
+
+Zugkollision
+
+Datum:
+
+22.11.2024
+
+Zeit:
+
+01:06 Uhr
+
+Betriebsstelle:
+
+Bf Dorsfeld
+
+Gleis:
+
+2
+
+Kilometer:
+
+25,8
+
+Untersuchungsbericht
+Zugkollision, 22.11.2024, Bf Dorsfeld
+
+Veröﬀentlicht durch:
+Bundesstelle für Eisenbahnunfalluntersuchung
+Heinemannstraße 6
+53175 Bonn
+
+Untersuchungsbericht
+Zugkollision, 22.11.2024, Bf Dorsfeld
+
+Inhaltsverzeichnis
+I.
+
+Änderungsverzeichnis: ......................................................................................... III
+
+II.
+
+Abbildungsverzeichnis: ........................................................................................ IV
+
+III.
+
+Tabellenverzeichnis: ............................................................................................ IV
+
+IV.
+
+Abkürzungsverzeichnis: ....................................................................................... VI
+
+0
+
+Vorbemerkung...................................................................................................... 1
+
+1
+
+Zusammenfassung ................................................................................................ 2
+
+1.1
+
+Kurzbeschreibung des Ereignisses ......................................................................... 2
+
+1.2
+
+Folgen .................................................................................................................... 2
+
+1.3
+
+Ursachen ................................................................................................................ 2
+
+1.4
+
+Sicherheitsempfehlungen ...................................................................................... 3
+
+2
+
+Die Untersuchung und ihr Kontext ........................................................................ 4
+
+3
+
+Beschreibung des Ereignisses................................................................................ 6
+
+3.1
+
+Informationen über das Ereignis und seine Hintergründe ..................................... 6
+
+3.1.1
+
+Lage und Beschreibung des Ereignisortes .............................................................. 6
+
+3.1.2
+
+Beteiligte ................................................................................................................ 8
+
+3.1.3
+
+Äußere Bedingungen ............................................................................................. 8
+
+3.1.4
+
+Todesopfer, Verletzte und Sachschäden ................................................................ 8
+
+3.2
+
+Sachliche Beschreibung der Vorkommnisse......................................................... 11
+
+3.2.1
+
+Hergangsbeschreibung ........................................................................................ 11
+
+3.2.2
+
+Notfallmanagement ............................................................................................. 12
+
+4
+
+Auswertung des Ereignisses ................................................................................ 13
+
+4.1
+
+Aufgaben und Pflichten ....................................................................................... 13
+
+4.1.1
+
+Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers ................. 13
+
+I
+
+Untersuchungsbericht
+Zugkollision, 22.11.2024, Bf Dorsfeld
+
+4.1.2
+
+Untersuchung der betrieblichen Abläufe der EVU ............................................... 38
+
+4.2
+
+Fahrzeuge und technische Einrichtungen ............................................................ 39
+
+4.2.1
+
+Beteiligte Fahrzeuge ............................................................................................ 39
+
+4.2.2
+
+Untersuchung der bautechnischen Infrastruktur ................................................. 40
+
+4.2.3
+
+Untersuchung der Leit- und Sicherungstechnik ................................................... 41
+
+4.3
+
+Menschliche Faktoren.......................................................................................... 42
+
+4.3.1
+
+Beteiligte des Infrastrukturbetreibers.................................................................. 42
+
+4.3.2
+
+Qualifikation und Handlungen des BÜB ............................................................... 46
+
+4.3.3
+
+Beteiligte der EVU ................................................................................................ 47
+
+4.4
+
+Feedback- und Kontrollmechanismen ................................................................. 47
+
+4.4.1
+
+SMS des EIU ......................................................................................................... 48
+
+4.4.2
+
+Überwachung Stellwerkspersonal........................................................................ 49
+
+4.4.3
+
+Aufsichtsführung .................................................................................................. 49
+
+4.4.4
+
+Präqualifikationsverfahren Auftragnehmer ......................................................... 50
+
+4.5
+
+Frühere Ereignisse ähnlicher Art .......................................................................... 52
+
+5
+
+Schlussfolgerungen ............................................................................................. 55
+
+5.1
+
+Zusammenfassung und Schlussfolgerung ............................................................ 55
+
+5.2
+
+Seit dem Ereignis getroffene Maßnahmen .......................................................... 59
+
+5.3
+
+Zusätzliche Bemerkungen .................................................................................... 59
+
+6
+
+Sicherheitsempfehlungen ................................................................................... 59
+
+II
+
+Untersuchungsbericht
+Zugkollision, 22.11.2024, Bf Dorsfeld
+
+I.
+
+Änderungsverzeichnis:
+Änderung
+
+Stand
+
+Redak onelle Änderungen
+
+25.11.2025
+
+III
+
+Untersuchungsbericht
+Zugkollision, 22.11.2024, Bf Dorsfeld
+
+II.
+
+Abbildungsverzeichnis:
+Abbildung 1: Übersichtsplan..................................................................................................... 7
+Abbildung 2: Lageplan .............................................................................................................. 7
+Abbildung 3: Luftbildaufnahme ................................................................................................ 9
+Abbildung 4: Tfz 98 80 0650 103-1 nach der Kollision ............................................................ 10
+Abbildung 5: Tfz 91 88 7186 214-2 nach der Kollision ............................................................ 10
+Abbildung 6: Umfang der Sperrungen 2.2.1 und 2.2.2 während Betra Nr. F35 6634 24......... 15
+Abbildung 7: Umfang der Sperrungen 2.2.3 während Betra Nr. F35 6634 24 ........................ 16
+Abbildung 8: Umfang der Sperrungen 2.2.4 während Betra Nr. F35 6634 24 ........................ 16
+Abbildung 9: Lupenansicht Bf Dorsfeld ab 00:53:30 Uhr ........................................................ 31
+Abbildung 10: Lupenansicht Bf Dorsfeld ab 00:54:29 Uhr ...................................................... 32
+
+III.
+
+Tabellenverzeichnis:
+Tabelle 1: Zusammenfassung Einflussfaktoren ......................................................................... 3
+Tabelle 2: Übersicht der äußeren Bedingungen ....................................................................... 8
+Tabelle 3: Übersicht der Personenschäden .............................................................................. 9
+Tabelle 4: Übersicht der geschätzten Schadenshöhe ............................................................... 9
+Tabelle 5: Übersicht der nach Betra erforderlichen Gleissperrungen..................................... 15
+Tabelle 6: Betriebliche Handlungen von 20:30 Uhr bis 21:02 Uhr .......................................... 19
+Tabelle 7: Betriebliche Handlungen von 21:24 Uhr bis 22:34 Uhr .......................................... 22
+Tabelle 8: Betriebliche Handlungen von 22:35 Uhr bis 22:45 Uhr .......................................... 25
+Tabelle 9: Betriebliche Handlungen von 22:53 Uhr bis 23:16 Uhr .......................................... 26
+Tabelle 10: Betriebliche Handlungen von 22:53 Uhr bis 00:38 Uhr ........................................ 27
+Tabelle 11: Transkript GSM-R Gespräch um 00:49 Uhr .......................................................... 28
+Tabelle 12: Betriebliche Handlungen von 00:50 Uhr bis 00:54 Uhr ........................................ 29
+
+IV
+
+Untersuchungsbericht
+Zugkollision, 22.11.2024, Bf Dorsfeld
+
+Tabelle 13: Betriebliche Handlung um 00:54:29 Uhr .............................................................. 31
+Tabelle 14: Betriebliche Handlungen von 00:59 Uhr bis 01:18 Uhr ........................................ 34
+Tabelle 15: Betriebliche Angaben zur Zugfahrt DGS 42506 .................................................... 38
+Tabelle 16: Betriebliche Angaben zur Zugfahrt DGV 34156 .................................................... 39
+Tabelle 17: Technische Daten Tfz 91 88 7186 214-2............................................................... 40
+Tabelle 18: Technische Daten Tfz 98 80 0650 103-1............................................................... 40
+Tabelle 19: Festgestellte Defizite bei Durchführung betrieblicher Handlungen ..................... 45
+
+V
+
+Untersuchungsbericht
+Zugkollision, 22.11.2024, Bf Dorsfeld
+
+IV.
+
+Abkürzungsverzeichnis:
+AEG
+
+Allgemeines Eisenbahngesetz
+
+Asig
+
+Ausfahrsignal
+
+AZG
+
+Achszählgrundstellung
+
+Betra
+
+Betriebs- und Bauanweisung
+
+BEU
+
+Bundesstelle für Eisenbahnunfalluntersuchung
+
+Bf
+
+Bahnhof
+
+BMR
+
+Busmithörrechner
+
+BÜB
+
+Bauüberwacher Bahn
+
+BZ
+
+Betriebszentrale
+
+EBA
+
+Eisenbahn-Bundesamt
+
+EBO
+
+Eisenbahnbahn-Bau- und Betriebsordnung
+
+ECM
+
+En ty in Charge of Maintenance
+
+EFR
+
+Elektronischen Fahrtenregistrierung
+
+EIU
+
+Eisenbahninfrastrukturunternehmen
+
+Esig
+
+Einfahrsignal
+
+ESiV
+
+Verordnung über die Sicherheit des Eisenbahnsystems
+
+ESTW
+
+Elektronisches Stellwerk
+
+EU
+
+Europäische Union
+
+EUV
+
+Eisenbahn-Unfalluntersuchungsverordnung
+
+EVU
+
+Eisenbahnverkehrsunternehmen
+
+Fdl/Fdl-in
+
+Fahrdienstleiter/Fahrdienstleiterin
+
+Fplo
+
+Fahrplananordnung
+
+GSM-R
+
+Global System for Mobile Communica ons Rail
+
+KF
+
+Kommando-Freigabe
+
+Leidis
+
+Leitsystem Disposi on
+
+LZB
+
+Linienförmige Zugbeeinflussung
+
+VI
+
+Untersuchungsbericht
+Zugkollision, 22.11.2024, Bf Dorsfeld
+
+ME
+
+Merkhinweis für ein Fahrwegelement eingeben
+
+ML
+
+Merkhinweis löschen
+
+PSD
+
+Protokoll- und Störungsdrucker
+
+PZB
+
+Punk örmige Zugbeeinflussung
+
+Ril
+
+Richtlinie
+
+SMS
+
+Sicherheitsmanagementsystem
+
+TB
+
+Technisch Berech gter
+
+Tf
+
+Triebfahrzeugführer
+
+Tfz
+
+Triebfahrzeug
+
+VzG
+
+Verzeichnis der örtlich zulässigen Geschwindigkeiten
+
+WUE
+
+Gegen Umstellen gesperrte Weiche entsperren
+
+WUS
+
+Weiche gegen Umstellen sperren
+
+VII
+
+Untersuchungsbericht
+Zugkollision, 22.11.2024, Bf Dorsfeld
+
+0 Vorbemerkung
+Auf der Grundlage des Ar kel 24 der Richtlinie (EU) 2016/798 hat die europäische Kommission
+mit
+
+der
+
+Inkra setzung
+
+der
+
+Durchführungsverordnung
+
+(EU)
+
+2020/572
+
+die
+
+Untersuchungsberichtsstruktur festgelegt. Diese Vorgaben sind grundsätzlich einzuhalten. Die
+Berichtsstruktur muss der Art und Schwere des gefährlichen Ereignisses angepasst sein.
+Mit Verkündung der Verordnung und Inkra setzung am zwanzigsten Tag nach der
+Veröﬀentlichung im Amtsbla
+
+der Europäischen Union (EU) ist diese verbindlich und
+
+unmi elbar auf alle ab dem 17.05.2020 eingeleiteten Untersuchungen anzuwenden.
+
+Seite 1 von 59
+
+Untersuchungsbericht
+Zugkollision, 22.11.2024, Bf Dorsfeld
+
+1 Zusammenfassung
+Das erste Kapitel enthält eine Kurzbeschreibung des Ereignisses sowie Informa onen zu den
+Folgen, Ursachen sowie zu im Einzelfall ausgesprochenen Sicherheitsempfehlungen.
+
+1.1 Kurzbeschreibung des Ereignisses
+Am 22.11.2024 gegen 01:06 Uhr kollidierte der Güterzug DGS 42506 auf der Fahrt von
+Germersheim nach Antwerpen-Zuid (Belgien) in km 25,8 in Gleis 2 des Bahnhofs (Bf) Dorsfeld
+mit einem Bauzug.
+
+1.2 Folgen
+Eine Person wurde schwer und zwei Personen leicht verletzt. Es entstanden erhebliche
+Sachschäden in Höhe von ca. 4.900.000 Euro an den beteiligten Eisenbahnfahrzeugen und an
+der Infrastruktur.
+
+1.3 Ursachen
+Im Rahmen der Untersuchung des Ereignisses wurden die folgenden Handlungen,
+Unterlassungen, Vorkommnisse oder Umstände als sicherheitskri sche Faktoren iden fiziert.
+Diese werden gemäß Durchführungsverordnung 2020/572 in ursächliche oder beitragende,
+und systemische Faktoren unterschieden. Zusätzlich werden ermi elte Defizite des
+No allmanagements behandelt.
+Zur besseren Übersichtlichkeit der Faktoren und Aspekte des No allmanagements wird eine
+Systema k mit Kennzeichnungen in eckigen Klammern verwendet.
+Eine detaillierte Auswertung des Ereignisses unter Einordnung als sicherheitskri sche
+Faktoren wird in den folgenden Kapiteln gegeben.
+
+Seite 2 von 59
+
+Untersuchungsbericht
+Zugkollision, 22.11.2024, Bf Dorsfeld
+
+Geschehen:
+Datum/Uhrzeit, sowie
+Handlung / Unterlassen
+/ Umstand /
+Vorkommnis
+
+Ursächlicher
+Faktor
+
+Beitragender
+Faktor
+
+Systemischer
+Faktor
+
+21.11.24/23:10 Uhr
+Gleisbelegung nach dem
+Ende der Arbeiten
+gemäß Betriebs‐ und
+Bauanweisung
+unbekannt
+
+Übersicht über
+Gleisbelegungen [F1]
+
+‐
+
+Korrekte
+Sicherheitsinforma on
+über Gleisbelegungen
+[S1]
+
+22.11.24/00:52 Uhr
+Nach dem Ende der
+Arbeiten gemäß
+Betriebs‐ und
+Bauanweisung bleibt
+eine Rotausleuchtung
+des Gleises 2 zurück
+
+Durchführung der
+Abschni sprüfung
+durch die
+Fahrdienstleiterin [F2]
+
+‐
+
+‐
+
+22.11.24/00:59 Uhr
+Treﬀen der Feststellung
+und Meldung über das
+„Freisein“ des Gleises 2
+im Bf Dorsfeld durch den
+Bauüberwacher Bahn
+
+Feststellung des
+„Freiseins“ und
+Abgabe der Meldung
+durch den
+Bauüberwacher Bahn
+[F3]
+
+‐
+
+‐
+
+Tabelle 1: Zusammenfassung Einflussfaktoren
+
+1.4 Sicherheitsempfehlungen
+Gemäß § 6 EUV und Art. 26 Abs. 2 der Richtlinie (EU) 2016/798 ergeht nachfolgende
+Sicherheitsempfehlung Nr. 15/2025:
+Es wird empfohlen, die Verwaltung der Informa on einer verbleibenden Besetzung von
+Hauptgleisen, insbesondere nach Sperrungen aufgrund schri licher Anweisungen,
+Baugleiszuständen, Gleissperrungen, Flügelungen von Zügen bzw. Übergang auf andere
+Zugfahrten hinsichtlich der Anforderungen gemäß Delegierter Verordnung (EU) Nr. 2016/762,
+Anhang II, Kriterium 4.4.3a) bis g) zu verbessern. Neben der Übermi lung der Informa on,
+dem Zeitpunkt, ggf. einzuhaltenden Wortlauten und Zuständigkeiten sind auch die
+Speicherung und Einbeziehung in weitere Betriebsprozesse von Relevanz.
+
+Seite 3 von 59
+
+Untersuchungsbericht
+Zugkollision, 22.11.2024, Bf Dorsfeld
+
+2 Die Untersuchung und ihr Kontext
+Die Bundesstelle für Eisenbahnunfalluntersuchung (BEU) ist für die Untersuchung von
+gefährlichen
+
+Ereignissen
+
+im
+
+Eisenbahnbetrieb
+
+im
+
+Sinne
+
+des
+
+Kapitels V
+
+der
+
+Richtlinie (EU) 2016/798 auf Eisenbahninfrastrukturen des Bundes und auf nicht
+bundeseigenen Eisenbahninfrastrukturen des übergeordneten Netzes gemäß § 2b
+Allgemeines Eisenbahngesetz (AEG) zuständig.
+Ziel und Zweck der eingeleiteten Untersuchungen ist es, die Ursachen des gefährlichen
+Ereignisses aufzuklären und hieraus Hinweise zur Verbesserung der Sicherheit abzuleiten.
+Untersuchungen der BEU dienen nicht dazu, ein Verschulden festzustellen oder Fragen der
+Ha ung oder sons ger zivilrechtlicher Ansprüche zu klären und werden unabhängig von jeder
+gerichtlichen Untersuchung durchgeführt.
+Sicherheitsempfehlungen der BEU zur Vermeidung von gefährlichen Ereignissen und
+Verbesserung der Eisenbahnsicherheit werden an die na onale Sicherheitsbehörde, sofern es
+die Art der Empfehlung erfordert an die Eisenbahnagentur der Europäischen Union und an
+andere Stellen oder Behörden adressiert. Im Allgemeinen sind die Sicherheitsempfehlungen
+auch an
+
+die
+
+unmi elbar
+
+bzw. mi elbar betroﬀenen sowie
+
+alle
+
+einschlägigen
+
+Eisenbahnunternehmen gerichtet.
+Zu schweren Unfällen leitet die BEU stets Untersuchungen gem. Ar kel 20 Abs. 1 Richtlinie
+(EU) 2016/798 ein. Unter einem schweren Unfall sind insbesondere Zugkollisionen oder
+Zugentgleisungen mit mindestens einem Todesopfer oder mindestens fünf Schwerverletzten
+oder mit beträchtlichem Schaden (≥ 2 Mio. Euro) sowie sons ge Unfälle mit den gleichen
+Folgen und mit oﬀensichtlichen Auswirkungen auf die Regelung der Eisenbahnsicherheit oder
+das Sicherheitsmanagementsystem zu verstehen. Bei allen sons gen gefährlichen Ereignissen
+im Eisenbahnbetrieb liegt es im Ermessen der BEU Untersuchungen einzuleiten. Bei der
+Entscheidung werden neben den zum Ereigniszeitpunkt verfügbaren Ressourcen weitere
+Kriterien gem. Ar kel 20 Abs. 2 Richtlinie (EU) 2016/798 herangezogen.
+Aufgrund des gegebenen Schadensausmaßes bzw. der Folgen bei dem vorliegenden
+gefährlichen Ereignis wurden Untersuchungen auf Grundlage des Ar kels 20 Abs. 1 Richtlinie
+(EU) 2016/798 eingeleitet.
+Die Unfalluntersuchungshandlungen werden strukturiert in vier definierten Kernprozessen
+durchgeführt, die mit der Entscheidung zur Aufnahme einer Untersuchung beginnen und mit
+
+Seite 4 von 59
+
+Untersuchungsbericht
+Zugkollision, 22.11.2024, Bf Dorsfeld
+
+der
+
+Veröﬀentlichung
+
+Ursachenermi lung
+
+des
+
+werden
+
+Untersuchungsberichtes
+ergebnisoﬀene
+
+abgeschlossen
+
+Untersuchungen
+
+in
+
+werden.
+
+allen
+
+Zur
+
+beteiligten
+
+Fachdisziplinen angestellt und hierbei insbesondere Fehler-Ursachen-Analysen und Soll-IstVergleiche durchgeführt.
+Vom
+
+örtlich
+
+zuständigen
+
+Untersuchungsbezirk
+
+Nordwest
+
+wurden
+
+die
+
+Untersuchungshandlungen federführend geleitet.
+Sofern im Einzelfall geboten, werden die jeweiligen Untersuchungsteams bezirksübergreifend
+unterstützt und notwendige Sachverständigenleistungen extern beau ragt.
+Im Rahmen der Sachverhaltsermi lung und Ursachenforschung wurden neben den
+beteiligten Unternehmen keine weiteren Stellen einbezogen.
+Die Durchführung der Unfalluntersuchung setzt voraus, dass alle an dem gefährlichen Ereignis
+Beteiligten den jeweiligen Meldeverpflichtungen gem. § 2 Abs. 3 EUV nachkommen. Die
+relevanten Informa onen sind durch die zur Meldung Verpflichteten auf dem neuesten Stand
+zu halten.
+Auf Grundlage des § 5b AEG werden i. d. R. weitergehende zur Untersuchungsdurchführung
+erforderliche Informa onen, Auskün e und Nachweise abgefordert. Diese notwendigen
+Zuarbeiten konnten mi els Auskun sersuchen gewonnen werden.
+Darüber hinaus können nach § 5b Abs. 4 AEG von den an gefährlichen Ereignissen beteiligten
+Eisenbahnen Unterstützungsleistungen eingefordert werden. Bei dem vorliegenden
+gefährlichen Ereignis wurden keine Unterstützungsleistungen eingefordert.
+Die infrastruktursei ge Freigabe der Unfallstelle erfolgte durch die BEU am 22.11.2024 um
+12:30 Uhr.
+
+Seite 5 von 59
+
+Untersuchungsbericht
+Zugkollision, 22.11.2024, Bf Dorsfeld
+
+3 Beschreibung des Ereignisses
+Im dri en Kapitel wird das gefährliche Ereignis in zwei vorgegebenen Unterkapiteln näher
+beschrieben. In Kapitel 3.1 sind neben den Grunddaten weitere Informa onen zum
+Ereignisort, den äußeren Bedingungen, den Beteiligten und den Folgen enthalten. Die
+Ereignisrekonstruk on sowie Informa onen zur Auslösung und dem Ablauf der
+Re ungsmaßnahmen sind im Kapitel 3.2 dargestellt. Die Beschreibungen beziehen sich
+grundsätzlich
+
+auf
+
+die
+
+zum
+
+Ereigniszeitpunkt
+
+vorherrschenden
+
+Bedingungen
+
+und
+
+vorgefundenen Sachverhalte.
+
+3.1 Informationen über das Ereignis und seine Hintergründe
+Bei dem Ereignis handelt es sich um eine Kollision eines Zuges mit einem Schienenfahrzeug im
+Sinne der Richtlinie (EU) 2016/798.
+Die BEU führt das Ereignis na onal unter der Ereignisart Zugkollision.
+3.1.1 Lage und Beschreibung des Ereignisortes
+Die Zugkollision ereignete sich in ca. km 25,8 in Gleis 2 des Bf Dorsfeld. Durch den Bf Dorsfeld
+führte unter anderem die laut dem Verzeichnis der zulässigen Geschwindigkeiten (VzG)
+benannte Strecke 2600. Die Strecke 2600 war eine elektrifizierte, zweigleisige Hauptbahn von
+Köln Hbf nach Staatsgrenze (– Welkenraedt/Belgien). Bei der Einfahrt in den Bf Dorsfeld wies
+das VzG eine Höchstgeschwindigkeit von 250 km/h mit einem Bremsweg von 1.000 m aus.
+Sowohl die Strecke als auch der Bf waren mit den Zugsicherungssystemen Punk örmige
+Zugbeeinflussung (PZB) und Linienförmiger Zugbeeinflussung (LZB) sowie dem digitalen
+Zugfunk Global System for Mobile Communica ons Rail (GSM-R) ausgerüstet.
+Die Betriebsdurchführung auf der Strecke erfolgte nach den Regeln der Fahrdienstvorschri ,
+Richtlinie (Ril) 408. Der Arbeitsplatz des zuständigen Fdl befand sich im Steuerbezirk 03 KölnEhrenfeld in der Betriebszentrale (BZ) in Duisburg. Der Steuerbezirk umfasste die drei
+Bedienplätze Köln-Ehrenfeld, Horrem I und Horrem II. Insgesamt waren drei zuständige Fdl
+mit unterschiedlichen Besetzungszeiten im Einsatz. Durchgehend besetzt waren die
+Bedienplätze Köln-Ehrenfeld und Horrem I. Zeitweise wurde auch der Bedienplatz Horrem II
+besetzt. Die Ereignisstelle lag im Zuständigkeitsbereich des zuständigen Fdl Horrem I des
+Elektronischen Stellwerks (ESTW) Köln-Ehrenfeld.
+Die nachfolgende Abbildung gibt einen Überblick zur Lage der Ereignisstelle.
+
+Seite 6 von 59
+
+Untersuchungsbericht
+Zugkollision, 22.11.2024, Bf Dorsfeld
+
+Abbildung 1: Übersichtsplan1
+
+Die Zugkollision ereignete sich in Gleis 2 des Bf Dorsfeld, ca. in km 25,8. Durch die Kollision
+wurde der in Gleis 2 stehende Bauzug um ca. 200 m verschoben. Der Bauzug aus dem
+DGV 34156 und das führende Tfz des DGS 42506 befanden sich nach der Kollision ca. in
+km 26,1, siehe folgende Abbildung. Als Folge der Kollision waren auch die übrigen Gleise des
+Bf Dorsfeld beschädigt und unbefahrbar geworden.
+
+Abbildung 2: Lageplan2
+
+1
+
+Geobasisdaten: © GeoBasis-DE / BKG 2025, bearbeitet durch BEU
+
+2
+
+DB InfraGO AG, bearbeitet durch BEU
+
+Seite 7 von 59
+
+Untersuchungsbericht
+Zugkollision, 22.11.2024, Bf Dorsfeld
+
+3.1.2 Beteiligte
+Die am Ereignis Beteiligten ha en die folgenden Funk onen:
+Für das EIU DB InfraGO AG:
+ Fahrdienstleiterin (Fdl-in) Horrem I im Stellwerk Köln-Ehrenfeld
+ Au ragnehmendes Ingenieurbüro des EIU zum Einsatz des Bauüberwachers Bahn (BÜB)
+und Technisch Berech gten nach Kap. 4.2. der Betriebs- und Bauanweisung (Betra)
+Für das Eisenbahnverkehrsunternehmen (EVU) Schweerbau GmbH & Co. KG:
+ Ein Triebfahrzeugführer (Tf) und ein Rangierbegleiter Bau des Bauzuges aus DGV 34156
+Für das EVU Medway Belgium:
+ Tf des DGS 42506
+3.1.3 Äußere Bedingungen
+Zum Zeitpunkt des Ereignisses herrschten folgende Bedingungen:
+Lichtverhältnisse
+
+Dunkelheit
+
+Sicht
+
+klar
+
+Bedeckung
+
+bewölkt
+
+Temperaturen
+
+0°C
+
+fallender Niederschlag
+
+leichter Schnee
+
+Niederschlagshäufigkeit
+
+vereinzelt
+
+Untergrund / gefallener Niederschlag
+
+vereist
+
+Tabelle 2: Übersicht der äußeren Bedingungen
+
+3.1.4 Todesopfer, Verletzte und Sachschäden
+Es wurden zwei Personen leicht und eine Person schwer verletzt. Es entstanden erhebliche
+Sachschäden an den beteiligten Eisenbahnfahrzeugen und an der Infrastruktur im Bf Dorsfeld.
+Unter anderem wurden die Anlagen der Oberleitung zerstört. Es mussten 5.600 m Fahrdrähte
+und Seile sowie die Oberleitungsausleger erneuert werden. Durch diese Beschädigungen der
+Infrastruktur wurde der Zugverkehr bis zum 24.02.2025 beeinträch gt.
+Wie der folgenden Tabelle zu entnehmen ist, wurde der Tf des DGS 42506 schwer verletzt.
+Der Tf sowie der Rangierbegleiter Bau des Bauzuges wurden bei dem Ereignis leicht verletzt.
+
+Seite 8 von 59
+
+Untersuchungsbericht
+Zugkollision, 22.11.2024, Bf Dorsfeld
+
+Anzahl Tote
+
+Anzahl schwer Verletzte
+
+Anzahl leicht Verletzte
+
+Reisende
+
+-
+
+-
+
+-
+
+Mitarbeiter
+
+-
+
+1
+
+2
+
+Benutzer von
+Bahnübergängen
+
+-
+
+-
+
+-
+
+Dri e
+
+-
+
+-
+
+-
+
+Summe
+
+0
+
+1
+
+2
+
+Tabelle 3: Übersicht der Personenschäden
+
+Die geschätzte Höhe der Sachschäden in Euro setzt sich wie folgt zusammen:
+geschätzte Kosten in Euro
+Fahrzeuge
+
+4.650.000,-
+
+Infrastruktur
+
+250.000,-
+
+Dri e
+Gesamtschadenshöhe
+
+4.900.000,-
+
+Tabelle 4: Übersicht der geschätzten Schadenshöhe
+
+Die folgende Abbildung zeigt eine Lu bildaufnahme der Unfallstelle.
+
+Abbildung 3: Lu bildaufnahme3
+
+3
+
+Bundespolizeidirektion Köln, bearbeitet durch BEU
+
+Seite 9 von 59
+
+Untersuchungsbericht
+Zugkollision, 22.11.2024, Bf Dorsfeld
+
+Die folgenden Abbildungen zeigen die Beschädigungen des Triebfahrzeugs (Tfz)
+98 80 0650 103-1 des EVU Schweerbau GmbH & Co. KG und des Tfz 91 88 7186 214-3 des EVU
+Medway Belgium nach der Kollision.
+
+Abbildung 4: Tfz 98 80 0650 103-1 nach der Kollision
+
+Abbildung 5: Tfz 91 88 7186 214-2 nach der Kollision
+
+Seite 10 von 59
+
+Untersuchungsbericht
+Zugkollision, 22.11.2024, Bf Dorsfeld
+
+3.2 Sachliche Beschreibung der Vorkommnisse
+Zur
+
+Rekonstruk on
+
+des
+
+gefährlichen
+
+Ereignisses
+
+sowie
+
+zur
+
+Beschreibung
+
+der
+
+No allmaßnahmen werden insbesondere auch die in Kapitel 4 enthaltenen Aufzeichnungen,
+Auswertungen und Feststellungen etc. herangezogen.
+3.2.1 Hergangsbeschreibung
+Am 21.11.2024 sollten im Bf Dorsfeld von 21:30 Uhr bis 05:30 Uhr des Folgetages Arbeiten
+gemäß Betra Nr. F35 6634 24 ausgeführt werden. Zur Durchführung der Betra – und um die
+Arbeiten beginnen zu können – waren ein Bauzug, bestehend aus einem Tfz und zwei mit
+Scho er beladenen oﬀenen Schü gutwagen sowie eine Stopfmaschine erforderlich. Diese
+sollten dem Bf Dorsfeld aus Richtung Horrem zugeführt werden. Zwecks Durchführung der
+Arbeiten gemäß Betra sollten in vier Phasen nacheinander bes mmte Gleisabschni e und
+Weichen im Bf Dorsfeld gesperrt werden.
+Die vorgesehenen Stopfarbeiten konnten wi erungsbedingt nicht durchgeführt werden. Als
+Ergebnis der bis zu diesem Zeitpunkt durchgeführten Arbeiten befanden sich sowohl der
+Bauzug als auch die Stopfmaschine im Gleis 2 des Bf Dorsfeld, um von dort als Zugfahrt wieder
+ausfahren zu können. Der Technisch Berech gte meldete der zuständigen Fdl-in Horrem I um
+00:49 Uhr das Ende der Arbeiten und die Befahrbarkeit der zuvor gesperrten Gleisabschni e
+und Weichen per GSM-R. Die Stopfmaschine fuhr kurz darauf in Richtung Horrem aus dem Bf
+Dorsfeld aus. Der Bauzug blieb noch in Gleis 2 zurück, da die geplante Ausfahrt erst für
+01:46 Uhr vorgesehen war. Die Fdl-in erkannte in der Lupenansicht ihres Bedienplatzes eine
+nach der Ausfahrt der Stopfmaschine, ihrer Ansicht nach nicht eindeu g zuzuordnende,
+bestehende Besetztanzeige in Form einer Rotausleuchtung in Gleis 2 des Bf Dorsfeld. Grund
+für diese Rotausleuchtung war der dort noch stehende Bauzug. Darau in rief sie den ihr durch
+die sta gefundenen Betra-Arbeiten bekannten BÜB an und forderte von diesem eine Meldung
+über das Freisein des Gleises 2 des Bf Dorsfeld an. Der BÜB meldete darau in, dass das Gleis 2
+im Bf Dorsfeld frei von Fahrzeugen sei. Ein darau in durch die Fdl-in ausgeführter
+Achszählgrundstellungsversuch war erfolgreich, sodass die Rotausleuchtung in Gleis 2 erlosch
+und sich die Gleisfreimeldeanlage wieder in der Grundstellung befand. Der Fdl-in war es nun
+möglich, dem Güterzug DGS 42506 eine regulär gesicherte Einfahrzugstraße unter Bedienung
+der zugehörigen Hauptsignale aus Richtung Horrem in das Gleis 2 des Bf Dorsfeld einzustellen.
+Der DGS 42506 kollidierte gegen 01:06 Uhr mit dem noch in Gleis 2 des Bf Dorsfeld stehenden
+Bauzug aus DGV 34156.
+
+Seite 11 von 59
+
+Untersuchungsbericht
+Zugkollision, 22.11.2024, Bf Dorsfeld
+
+3.2.2 Notfallmanagement
+Nach § 4 Abs. 3 AEG haben die Eisenbahnen die Verpflichtung, an Maßnahmen des
+Brandschutzes und der technischen Hilfeleistung mitzuwirken. Die Innenministerien der
+Länder und die DB AG haben sich auf folgende Verfahrensweise verständigt. Für die
+DB InfraGO AG gelten die entsprechenden Brand- und Katastrophenschutzgesetze der Länder.
+Das No allmanagement der DB AG ist in der Konzernrichtlinie 123, das der DB InfraGO AG in
+der Ril 423 näher beschrieben und geregelt.
+Die Zugkollision ereignete sich gegen 01:09 Uhr. In unmi elbarem zeitlichem Zusammenhang
+setzte der Tf des Bauzuges einen Nothaltau rag ab, und informierte die Fdl-in Horrem I über
+das Ereignis. Gegen 01:12 Uhr setzte die Fdl-in Horrem I die Meldung der Zugkollision an die
+No allleitstelle Duisburg ab, welche weitere Alarmierungen auslöste. Unter anderem wurde
+der No allmanager der DB InfraGO AG gegen 01:23 Uhr informiert.
+Die Feuerwehrleitstelle Kerpen wurde um 01:23 Uhr alarmiert. Von hier erfolgte um 01:24 Uhr
+die Alarmierung der Einsatzkrä e gemäß Alarm- und Ausrückeordnung der Feuerwehr
+Kerpen. Gegen 01:30 Uhr trafen erste Einsatzkrä e am Unfallort ein. Die folgende Erkundung
+der Unfallstelle in Richtung Zugspitze war aufgrund der beschädigten Oberleitung nicht
+vollständig möglich, Teile des abgerissenen Fahrdrahtes lagen auf den Fahrzeugen. Zwei
+Mitarbeiter des EVU Schweerbau GmbH & Co. KG befanden sich in der Kabine des Tfz und
+konnten aufgrund der noch nicht geerdeten Oberleitung zunächst nicht geborgen werden. Der
+Tf des Güterzuges DGS 42506 konnte sein Tfz selbständig verlassen. Gegen 01:58 Uhr traf der
+No allmanager der DB InfraGO AG am Ereignisort ein, und wurde von den Einsatzkrä en der
+Feuerwehr eingewiesen. Der No allmanager der DB InfraGO AG gab die Unfallstelle nach dem
+Erden der Oberleitung frei, so dass die Personenre ung möglich war.
+Die weitere Lageerkundung wurde gegen 02:00 Uhr mi els eines Drohneneinsatzes mit
+Wärmebildkamera fortgeführt, um anhand von auﬀälligen Temperaturerhöhungen
+festzustellen, ob sich weitere Personen im Bereich der Unfallstelle befanden. Dies war jedoch
+nicht der Fall.
+Die BEU stellte im Rahmen der Unfalluntersuchung und Ereignisrekonstruk on keine
+Unregelmäßigkeiten oder Verzögerungen bei dem Einleiten der Re ungs- und
+Bergungsmaßnahmen fest.
+
+Seite 12 von 59
+
+Untersuchungsbericht
+Zugkollision, 22.11.2024, Bf Dorsfeld
+
+4 Auswertung des Ereignisses
+In diesem Kapitel werden insbesondere die im Rahmen der Unfalluntersuchung ermi elten
+maßgeblichen sicherheitskri schen Faktoren dargestellt. Hierbei wird im jeweiligen Einzelfall
+auf die Aufgaben und Pflichten einzelner Personen und Stellen, auf beteiligte Fahrzeuge und
+technische Einrichtungen genauso eingegangen wie auf konkrete menschliche Handlungen
+sowie auf Feedback- und Kontrollmechanismen. Sofern Informa onen zu früheren Ereignissen
+vorliegen, werden diese in einem weiteren Unterkapitel dargestellt.
+
+4.1 Aufgaben und Pflichten
+In diesem Kapitel werden unbeschadet des Ar kels 20 Abs. 4 der Richtlinie (EU) 2016/798 die
+Aufgaben und Pflichten von Personen und Stellen behandelt, die an dem Ereignis beteiligt
+waren. Untersuchungen zu Schuld- oder Ha ungsfragen sind explizit ausgeschlossen und nicht
+Untersuchungsgegenstand.
+4.1.1 Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers
+Das
+
+EIU
+
+DB InfraGO AG
+
+verfügte
+
+am
+
+Tag
+
+des
+
+Ereignisses
+
+über
+
+eine
+
+gül ge
+
+Sicherheitsgenehmigung gemäß § 7c AEG. Das EIU war damit zum Betreiben von
+Eisenbahninfrastruktur im übergeordneten Netz berech gt.
+Gemäß § 4 Abs. 3 AEG sind Eisenbahnen verpflichtet, ihren Betrieb sicher zu führen, die
+Eisenbahninfrastruktur sicher zu bauen und in betriebssicherem Zustand zu halten. Zudem
+muss gemäß § 4 Abs. 4 AEG i. V. m. der Richtlinie (EU) 2016/798 ein SMS eingerichtet werden.
+Die inhaltlichen Maßstäbe für die Aufstellung und Einhaltung waren die in der Verordnung
+(EU) 2018/762 genannten Anforderungen.
+Als
+
+Teil
+
+des
+
+SMS
+
+der
+
+DB InfraGO AG
+
+waren
+
+auch
+
+alle
+
+Anforderungen
+
+der
+
+Durchführungsverordnung (EU) 2019/773 über die technische Spezifika on für die
+Interoperabilität
+
+des
+
+Teilsystems
+
+„Verkehrsbetrieb
+
+und
+
+Verkehrssteuerung“
+
+des
+
+Eisenbahnsystems in der Europäischen Union (TSI OPE) umzusetzen. Darüber hinaus war ein
+im Kontext des Ereignisses wesentlicher Grundsatz gemäß Durchführungsverordnung
+(EU) 2023/1693, Anlage B/B1, FOP Nr. 1: „Das Verfahren zur Zulassung einer Zugfahrt muss
+einen sicheren Abstand zwischen den Zügen gewährleisten.“
+Zur sicheren Durchführung der Fahrten auf der Infrastruktur der DB InfraGO AG ha e die
+beteiligte Fdl-in als Bedienerin des Stellwerks Köln-Ehrenfeld, Bedienplatz Horrem I hierzu
+
+Seite 13 von 59
+
+Untersuchungsbericht
+Zugkollision, 22.11.2024, Bf Dorsfeld
+
+untersetzende und ergänzende unternehmensinterne Arbeitsvorgaben zu beachten und
+umzusetzen, unter anderem die Ril 408, das Betriebsstellenbuch und im Au ragsbuch
+ausliegende Au räge sowie betriebliche Mi eilungen. Die für die Fdl maßgeblichen Fahrpläne
+wurden seitens des EIU durch den Fahrplan für Zugmeldestellen (Regelzüge) und in
+Fahrplananordnungen (Fplo) für Züge des Gelegenheitsverkehrs bereitgestellt. Diese konnte
+elektronisch oder in gedruckter Form zur Verfügung gestellt werden. Hierzu zählten auch die
+Fplo für die Ein- und Ausfahrten der an der Betra beteiligten Zugfahrten. Diese waren auf dem
+Stellwerk digital zugänglich vorhanden.
+Des Weiteren lag die Betra Nr. F35 6634 24 für das Bauprojekt „Maschinelle Stopfarbeiten
+einschließlich Scho er abladen, Bahnhof Dorsfeld“ auf dem Stellwerk aus. Die Vorlagefrist von
+fünf Tagen gemäß Ril 406.1201 Abschni 5 Abs. 6 auf dem Stellwerk wurde eingehalten und
+die Fdl-in ha e die Möglichkeit, von der Betra Kenntnis zu nehmen. Die beteiligten
+Fahrdienstleiter (Fdl) der Betriebsstelle sollten sich nach der Vorlage einer Betra selbstständig
+mit deren Inhalten beschä igen. Eine schri liche Unterweisung von Betriebspersonalen war
+gemäß Ril 406.1201 Abschni 5 Abs. 7 durch Einzelfallentscheidung durch den Leiter Betrieb
+Netz/Fahrdienst BZ zu treﬀen. Eine schri liche Unterrichtung der Fdl-in Horrem I war nicht
+erfolgt.
+Inhalt und Erstellung der Betra Nr. F35 6634 24
+Als verantwortliches EIU war die DB InfraGO AG für die Erstellung der Betra Nr. F35 6634 24
+verantwortlich. Die Betra entsprach in ihrem formalen Au au den Vorgaben der Ril 406 und
+wurde
+
+durch
+
+die
+
+Region
+
+West,
+
+Organisa onseinheit
+
+„Anlagen-
+
+und
+
+Instandhaltungsmanagement Köln für Betra und Sicherungsplanung“ der DB InfraGO AG
+erstellt. Die Durchführung der Maßnahme war für die Zeit vom 21.11.2024, 20:00 Uhr, bis
+22.11.2024, 10:00 Uhr, geplant. Gleissperrungen im Zusammenhang mit den Arbeiten sollten
+gemäß Kap. 2.2 der o. g. Betra zwischen dem in Kap. 4.2 genannten Technisch Berech gtem
+und dem zuständigen Fdl vereinbart werden. Die Betra sah folgende Zeiträume, siehe
+Tabelle 5, für die zu vereinbarenden Gleissperrungen zwischen den Einfahrsignalen (Esig) und
+Ausfahrsignalen (Asig) für die Arbeiten vor.
+
+Seite 14 von 59
+
+Untersuchungsbericht
+Zugkollision, 22.11.2024, Bf Dorsfeld
+
+Abschni
+lt. Betra
+
+Umfang der Gleissperrungen
+
+Zeitraum
+
+2.2.1
+
+Bf Dorsfeld Gleis 2
+Esig 30A – Asig 30N2
+
+21.11.24
+21:30 Uhr – 23:45 Uhr
+
+2.2.2
+
+Bf Dorsfeld Gleis 3
+Asig 30N3 – Esig 30AA
+
+21.11.24, 23:45 Uhr –
+22.11.24, 02:00 Uhr
+
+2.2.3
+
+Bf Dorsfeld Gleis 2 + 3
+Esig 30A / Esig 30AA – Asig 30N2/ Asig 30N3
+
+22.11.24
+02:00 Uhr – 02:40 Uhr
+
+2.2.4
+
+Bf Dorsfeld Gleis 1 + 2
+Esig 30A – Asig 30N1 / Asig 30N2
+
+22.11.24
+02:40 Uhr – 05:30 Uhr
+
+Tabelle 5: Übersicht der nach Betra erforderlichen Gleissperrungen
+
+Die folgende Abbildung zeigt die von den o. g. Sperrungen Abschni 2.2.1 und Abschni 2.2.2
+betroﬀenen Bereiche im Bf Dorsfeld anhand eines schema schen Lageplans.
+Während der Dauer der Gleissperrung gemäß Abschni 2.2.1 sollten alle Züge der Richtung
+Köln – Aachen von Horrem bis Dorsfeld auf dem Gegengleis und im Bf Dorsfeld abweichend
+vom Fahrplan für Zugmeldestellen durch Gleis 3 oder 4 fahren. Während der Gleissperrung
+gemäß Abschni 2.2.2 sollten alle Züge der Richtung Aachen – Köln auf dem Gegengleis und
+im Bf Dorsfeld abweichend vom Fahrplan für Zugmeldestellen durch Gleis 1 oder 2 fahren.
+Von Dorsfeld nach Horrem sollten die Züge das Gegengleis befahren. Eventuell notwendige
+Abweichungen sollten gemäß Regelungen der Betra im Benehmen mit der BZ getroﬀen
+werden.
+Die in der Abbildung dargestellten Sperrungen wurden während der Ausführung der Arbeiten
+am 22.11.2024 im Bf Dorsfeld zwischen Technisch Berech gten und der Fdl-in Horrem I
+vereinbart.
+
+Abbildung 6: Umfang der Sperrungen 2.2.1 und 2.2.2 während Betra Nr. F35 6634 244
+
+4
+
+DB InfraGO AG, Betra Nr. F35 6634 24, bearbeitet durch BEU
+
+Seite 15 von 59
+
+Untersuchungsbericht
+Zugkollision, 22.11.2024, Bf Dorsfeld
+
+Die beiden folgenden Abbildungen geben einen schema schen Überblick der gemäß Betra als
+Sperrung Abschni 2.2.3 und Abschni 2.2.4 weiterhin zu sperrender Bereiche. Beide
+Sperrungen kamen in der Ereignisnacht nicht zu Stande, da die Arbeiten wi erungsbedingt
+vorzei g beendet wurden.
+
+Abbildung 7: Umfang der Sperrungen 2.2.3 während Betra Nr. F35 6634 245
+
+Abbildung 8: Umfang der Sperrungen 2.2.4 während Betra Nr. F35 6634 246
+
+Betriebssitua on
+Zum Ereigniszeitpunkt waren die zuständigen Fdl Köln-Ehrenfeld und Horrem I im Dienst. Im
+Stellbereich der zuständigen Fdl-in Horrem I lag seit 20:05 Uhr eine Weichenstörung der
+Weiche 27W5 im Bf Düren vor, die Zugeinfahrten aus Richtung Dorsfeld nach Düren im
+Regelgleis unmöglich machte. Die Fdl-in musste die Zugfahrten von Dorsfeld in Richtung Düren
+daher auf dem Gegengleis mi els Gleiswechselbetrieb durchführen. Weitere Störungen im
+Stellbereich waren nicht bekannt.
+Alle wesentlichen Meldungen wurden dem Fdl im ESTW auf der Kommunika onsanzeige im
+Protokoll- und Störungsdrucker (PSD) fortlaufend angezeigt und im Dokumenta onsrechner
+gespeichert. Zur Auswertung der Handlungen der Fdl-in Horrem I wurden die im
+Busmithörrechner (BMR) des ESTW gespeicherten Bedienhandlungen der Fdl durch die BEU
+herangezogen. Zur Rekonstruk on und Einordnung der Handlungen der Fdl-in Horrem I zum
+5
+
+DB InfraGO AG, Betra Nr. F35 6634 24, bearbeitet durch BEU
+
+6
+
+DB InfraGO AG, Betra Nr. F35 6634 24, bearbeitet durch BEU
+
+Seite 16 von 59
+
+Untersuchungsbericht
+Zugkollision, 22.11.2024, Bf Dorsfeld
+
+Betriebsablauf vor dem Ereignis wurden im Au rag der DB InfraGO AG vom Hersteller des
+Stellwerks aus den Lupendaten des ESTW sowie der an das Leitsystem Disposi on (LeiDis)
+übermi elten Daten Ablaufvideos erstellt. Alle registrierten Uhrzeiten wurden auf die
+Realzeiten normiert. Die in diesem Kapitel folgende Rekonstruk on der betrieblichen
+Handlungen der zuständigen Betriebspersonale basierte auf der Auswertung des BMR des
+ESTW, der betrieblichen Unterlagen und der aufgezeichneten GSM-R-Gespräche. Die in
+untenstehender Tabelle aufgeführten manuellen Bedienhandlungen und Eingaben wurden
+vom Bedienplatz des Fdl Horrem I in der BZ Duisburg aus getä gt.
+Betriebliche Handlungen im Zusammenhang mit der Betra Nr. F35 6634 24
+Der Mitarbeiter, der sich in der Funk on des Technisch Berech gten erstmalig am 21.11.2024
+um 20:31 Uhr bei der Fdl-in Horrem I meldete war in Kap. 4.2 der Betra Nr. F35 6634 24
+genannt und somit für Gespräche mit der zuständigen Fdl-in Horrem I legi miert. Während
+der Dauer der Arbeiten gemäß Betra war dieser Mitarbeiter in der Funk on des zuständigen
+Technisch Berech gte für die Fdl-in ansprechbar. Außerhalb dieser Zeiten verfügte er über die
+Aufgabe und Qualifika on eines BÜB.
+Zu den Aufgaben des Technisch Berech gtem zählte u. a. das Treﬀen betrieblicher
+Vereinbarungen mit dem Fdl einschließlich der seinerseits zugehörigen Dokumenta on sowie
+die Abgabe der Befahrbarkeitsmeldung der Gleise aufgrund einer schri lichen Anweisung im
+gesperrten Gleis. In Rahmen seiner Tä gkeiten war der Mitarbeiter für die Überwachung des
+sicheren Baustellenbetriebs verantwortlich. Gemäß Rahmenrichtlinie 132.0118 (3) war er
+befähigt, die Funk on der Sicherungsüberwachung auszuüben.
+Um 20:31 Uhr meldete er über GSM-R die geplanten Arbeiten gemäß Betra Nr. F35 6634 24
+im Bf Dorsfeld bei der zuständigen Fdl-in Horrem I an. Die mit der Fdl-in zu diesem Zweck
+geführten GSM-R Gespräche dokumen erte er in seinem persönlichen Fernsprechbuch.
+Im Zeitraum von 20:31 Uhr bis 00:58 Uhr wurden zwischen dem Technisch Berech gten und
+der Fdl-in Horrem I 17 Gespräche mit einer Gesamtdauer von ca. 19 Minuten geführt.
+Vor dem Beginn der Arbeiten gemäß Betra wurden um 20:31 Uhr und um 20:42 Uhr
+Gespräche über GSM-R zwischen der Fdl-in und dem Technisch Berech gtem geführt. Da die
+Betra den Beginn der Arbeiten um 21:30 Uhr vorsah, beabsich gte der Technisch Berech gte
+sich zu vergewissern, ob die Arbeiten auch früher starten könnten. Der für die Arbeiten
+notwendige Bauzug DGV 34156 befand sich bei diesen Gesprächen noch nicht im Zulauf auf
+
+Seite 17 von 59
+
+Untersuchungsbericht
+Zugkollision, 22.11.2024, Bf Dorsfeld
+
+den Bf Dorsfeld. Um 21:00 Uhr führten beide erneut ein Gespräch über GSM-R, in welchem
+über die geplanten Arbeiten gesprochen wurde. Diese Gespräche sind in der untenstehenden
+Tabelle aufgeführt.
+Die in dieser und den folgenden Tabellen in eckigen Klammern dargestellten Vorgänge sind
+Schlussfolgerungen der BEU, die sich aus den miteinander korrespondierenden Daten des
+BMR und den betrieblichen Unterlagen in Verbindung mit der Infrastruktur und gemäß
+Regelwerk durchzuführenden Handlungen der Beteiligten ergaben. In den untenstehenden
+Tabellen wird der Technisch Berech gte aus Gründen der besseren Übersicht als „TB“
+abgekürzt. Wörtliche Rede oder direkte Zitate sind kursiv dargestellt.
+Uhrzeit
+
+Handlung
+
+Quelle
+
+21.11.24/
+
+Fdl-in trug Anmeldung der Betra Nr. F35 6634 24 in das
+Fernsprechbuch ein.
+
+Fernsprechbuch
+
+20:30 Uhr
+
+20:31:38 –
+20:33:23 Uhr
+
+20:43:05 –
+20:43:35 Uhr
+
+Anmeldung der Betra Nr. F35 6634 24; Nachfrage der
+GSM-R
+Fdl-in, was gemacht werden müsse; TB erläuterte die
+geplante Vorgehensweise nach Kap. 2.2 der Betra in vier
+Sperrabschni en; disposi ve Abs mmung bzgl. des
+erwarteten mit Scho er beladenen Bauzuges, der nach
+Gleis 1 eingelassen werden sollte.
+Frage der Fdl-in, wann der TB mit den Arbeiten
+GSM-R
+beginnen wolle. Dieser erwiderte, dass die Betra den
+Start ab 21:30 Uhr vorsehen würde, wenn es früher
+gehen würde sei das auch in Ordnung. Fdl-in wies den
+TB auf die noch anliegende Weichenstörung im
+Bf Düren hin und gab den Hinweis, dass, solange dort
+die Weiche gestört sei, nicht mit den Arbeiten begonnen
+werden könne.
+Fdl-in: Ja (Nennt Namen des TB)?
+
+GSM-R
+
+TB: Ja, genau. Ich wollte dir unsere Zugnummer
+durchgeben, für den Bauzug, der nach Gleis 1 kommen
+soll. Das ist 34156.
+21:00:31 –
+21:02:49 Uhr
+
+Fdl-in: (Wiederholt)
+TB: Genau, der soll nach Gleis 1 dann kommen.
+Fdl-in: Alles klar, dann weiß ich Bescheid.
+TB: Und, ist der Schaden weg? Oder immer noch?
+Fdl-in: Nee, nee, nee, und wie es aussieht dauert es noch
+ein bisschen, die kriegen die nicht repariert. Dauert
+noch, dauert noch.
+
+Seite 18 von 59
+
+Untersuchungsbericht
+Zugkollision, 22.11.2024, Bf Dorsfeld
+
+TB: Ja, nur ich hab’ ja die Order bekommen, dass auf
+jeden Fall die Weiche zu Ende gemacht werden muss von
+Frankfurt aus.
+Fdl-in: Welche Weiche?
+TB: Die wir stopfen heute hier in Dorsfeld.
+Fdl-in: Ja, ja, nur, mmpf, also ihr könnt nicht arbeiten,
+weil dann die ganzen Pz’s [red. Anmerkung:
+Personenzüge] fahren ja auch…wir haben ja sowieso, ich
+weiß gar nicht, wie wir das machen wollen jetzt. Weil,
+wenn ich mit dir sperre, dann sperre ich ja
+wahrscheinlich alle Weichen und dann ist Totalsperrung
+und äh…
+TB: Nee, nee. Nee, nee. Wir arbeiten erstmal eine Seite.
+Das ist die Sperrung 2.2.1, dann können wir nebenan
+fahren.
+Fdl‐in: Okay?
+TB: Wenn ich einmal die 23, 25 und 27 stopfen, dann
+fahren wir nebenan. Genau, und dann, wenn wir mit
+einer Seite fer g sind dann gib ich dir die 23, also gemäß
+Sperrung 2.2.1, dann gib ich dir die Seite frei und dann
+wechseln wir und stopfen die Weiche 24, dann kannst du
+nebenan dann fahren.
+Fdl-in: Alles klar.
+TB: Nur dann bei Totalsperrung, wenn wir die
+Verbindung Weiche 24 und 25 stopfen. Das ist Sperrung
+2.2.3. Dann ist für eine ca. halbe Stunde
+Bereichssperrung, du hast aber immer eine Möglichkeit
+zu fahren.
+Fdl-in: Okay, Mmh, kann man ja sowieso nicht… alles
+klar.
+Tabelle 6: Betriebliche Handlungen von 20:30 Uhr bis 21:02 Uhr
+
+Aus den um 20:31 Uhr und um 21:00 Uhr geführten GSM-R Gesprächen zwischen der Fdl-in
+und dem Technisch Berech gten entstand der Eindruck, dass die Fdl-in die Inhalte der Betra
+nicht im Detail kannte. Sie fürchtete während der Arbeiten gemäß Betra nach eigener Aussage
+eine „Totalsperrung“ des Bahnhofs. Die Betra sah eine Totalsperrung allerdings nur am
+22.11.2024 von 02:00 Uhr bis 02:40 Uhr vor (Sperrung nach Abschni 2.2.3 der Betra, siehe
+Tabelle 5). In den o. g. Gesprächen nutzte der Technisch Berech gte den Zugfunk über GSMR, um die Abläufe und Details zu den Sperrungen sehr detailliert zu erörtern. Dies verstärkte
+den Eindruck, dass die Fdl-in mit den ihr bevorstehenden Abläufen der Betra nicht im Detail
+
+Seite 19 von 59
+
+Untersuchungsbericht
+Zugkollision, 22.11.2024, Bf Dorsfeld
+
+vertraut war bzw. sie fürchtete, dass die bevorstehenden Abläufe der Betra in Verbindung mit
+der Weichenstörung und der dichten Zugfolge nicht bewäl gt würden können.
+Die Arbeiten gemäß Betra ha en Geschwindigkeitseinschränkungen für Zugfahrten zur Folge.
+Gemäß Kap. 3.1.1 der Betra waren LZB-Eingaben für Züge im Gleis Köln – Aachen und
+Gegenrichtung einzugeben. Die Betra enthielt in der Anlage 2 Vordrucke mit LZBEingabetexten zum Einrichten dieser vorübergehenden Langsamfahrstellen. Der in der Betra
+unter Kap. 4.2 genannte Technisch Berech gte war als verantwortliche Person zur
+Beantragung der Langsamfahrstellen beim Fdl benannt. Die Eingabe, der Nachweis und die
+Löschung der LZB-Eingaben sollte durch den Fdl Köln-Ehrenfeld als LZB-Bediener auf
+Veranlassung des zuständigen Fdl erfolgen. Dem Technisch Berech gten war anschließend der
+Vollzug über die LZB-Eingaben durch den zuständigen Fdl zu bestä gen. Diese Meldung bzgl.
+der LZB-Eingaben wurde durch den Technisch Berech gten um 21:24 Uhr an die zuständige
+Fdl-in Horrem I abgegeben. Die in der Folge abzugebende Vollzugsmeldung der Fdl-in an den
+Technisch Berech gten blieb danach aus.
+Danach folgten von 22:25 Uhr bis 22:32 Uhr disposi ve Gespräche bzgl. der Betra zwischen
+beiden Beteiligten. Diese Gespräche sind in der folgenden Tabelle aufgeführt.
+Uhrzeit
+
+21:24:10 –
+21:24:52 Uhr
+
+22:19:12 Uhr
+
+Handlung
+
+Quelle
+
+TB rief Fdl-in bzgl. der vorzunehmenden LZB-Eingaben an
+und fragte nach dem Stand der Entstörung der Weiche
+im Bf Düren. Fdl-in teilte mit, dass die Stopfmaschine
+noch nicht da sei, TB korrigierte diese Aussage, man
+warte auf den Bauzug.
+
+GSM-R
+
+Fahrstraße 30A.30N1
+[Einstellen Fahrstraße von Esig 30A bis Asig 30N1, für
+Bauzug DGV 34156 nach Gleis 1]
+
+BMR
+
+Fdl-in: (Nennt Namen des TB)?
+
+GSM-R
+
+TB: (Lacht) Ja, ist unser Bauzug irgendwo schon da?
+
+22:25:17 –
+22:26:43 Uhr
+
+Fdl-in: Ähm, der kommt gleich in 5 bis ... ähm … paar
+Minuten dann ist der in Gleis 1.
+TB: Ah, dann kann ich die Leute schon … hinschicken. Äh,
+wir fangen nämlich von da aus an mit der Weiche 27. Da
+kann er eigentlich Richtung Weiche 27 dann fahren, ’ne?
+Von Gleis 1 aus? Oder wenn wir erstmal gesperrt haben?
+Fdl-in: Ähm, mir ist das egal, also ... wenn der da drauf,
+er kann auch da drauf stehen bleiben, warte…
+
+Seite 20 von 59
+
+Untersuchungsbericht
+Zugkollision, 22.11.2024, Bf Dorsfeld
+
+TB: Genau genau, ... dann kann er ...
+Fdl-in: Ja, dann soll ich, dann ist okay, dann soll der auf
+der Weiche 27 stehen bleiben.
+TB: Genau, also nich’ ... 250 Meter dann, damit wir,
+steigen wir auf, dann fahren wir ... Scho ern wir die 27.
+Fdl-in: Okay, also der fährt jetzt quasi in das Gleis 1 rein,
+aber bleibt auf der Weiche 27 dann stehen, ja?
+TB: Genau, und da kann er von der Gleis 1, auf Gleis 1
+Richtung Weiche 27 fahren, genau.
+Fdl-in: Du hast mich nicht verstanden. Der ‐ nee, ich
+meine, soll der, die Fahrstraße steht jetzt gerade, soll der
+auf, bevor der in das Gleis 1 eingefahren ist, soll der auf
+der 27 stehen bleiben? Oder soll der erst nach Gleis 1 und
+dann auf der…
+[Abbruch der Aufzeichnung]
+[Fortsetzung des o. g. Gesprächs]
+22:27:04 –
+22:27:17 Uhr
+
+GSM-R
+
+Tb: Der soll direkt auf die Weiche 27 fahren.
+Fdl-in: Der soll direkt auf der Weiche 27 fahren, ja?
+TB: Genau
+Fdl-in: Dann drück ich den jetzt an. Alles klar, okay. ciao.
+TB: Genau, hat ja gut geklappt. Jetzt sind alle, die Jungs,
+drauf auf der Lok
+
+GSM-R
+
+Fdl-in: Ja, Moment, du hast ja auch gesagt 27, das ist die
+24. Aber ist nicht schlimm.
+TB: Ja sind zurückgelaufen. Jetzt meine Frage: können wir
+schon sperren? … Weil ...
+Fdl-in: Welche Weiche denn?
+22:32:45 –
+22:34:40 Uhr
+
+TB: Genau. Dann können wir eigentlich sogar ‐ da
+brauchen wir gar nich’ jetzt mal so rein; dann können
+’wa; mit 23 hinten anfangen, von der 23 auf die 25, von
+der 25 auf die 27 ‐ und dann in Richtung Gleis 1…
+Fdl-in: Okay, ihr wollt jetzt die 23?
+TB: Genau
+Fdl-in: Die 25 und die 27 sperren?
+TB: Genau, die 27 aber in Richtung ähh Gleis 1.
+Fdl-in: Ja, warte mal ganz kurz.
+TB: Dann müssten wir zurücksetzen hinter Weiche 23
+dann.
+
+Seite 21 von 59
+
+Untersuchungsbericht
+Zugkollision, 22.11.2024, Bf Dorsfeld
+
+Fdl-in: Wie, ihr müsst zurücksetzen hinter die Weiche 23?
+TB: Äh, du bist jetzt ...Wir sind jetzt auf …
+[red. Anmerkung: TB fragt einen Mitarbeiter: Welche
+Weiche sind wir jetzt? Antwort des Mitarbeiters ist nicht
+zu verstehen]
+Fdl-in: Auf der 23 seid ihr drauf.
+TB: 23, Okay. Jawoll’, da muss der dann zurückfahren ca.
+50 Meter hinter 23, und von da aus können wir dann
+anfangen zu scho ern
+Fdl-in: Alles klar, okay – warte.
+TB: Dann wär’ das glaub ich Sperrung 2.2.1., ne?
+Fdl-in: Weiß ich nicht, warte mal.
+TB: Ja, in der Betra ist das, das wär’ dann 2.2.1 und 2.2.2,
+genau.
+[ca. 11 Sekunden Pause, Fdl-in schaute vermutlich in die
+Betra oder wird durch ein anderes Gespräch abgelenkt]
+Fdl-in: Ähm, ich ruf dich sofort an, ja? Ich muss einmal
+kurz Telefon.
+TB: Jo, bis gleich.
+Fdl-in: Jo, ciao.
+Tabelle 7: Betriebliche Handlungen von 21:24 Uhr bis 22:34 Uhr
+
+Diese in o. g. Tabelle aufgeführten GSM-R Gespräche entsprachen nicht der gemäß
+Ril 481.0205 Abschni 6 (2) geforderten Sprechdisziplin. Die Fdl-in nahm das Gespräch um
+22:25:17 Uhr erneut sta
+
+mit der vorgeschriebenen Nennung ihrer Betriebsstelle unter
+
+Nennung des Namens des Technisch Berech gten entgegen. Das Gespräch wurde nicht
+kurzgefasst und beruhte u. a. nicht auf kurzen, eindeu gen Sätzen.
+Als Resultat dieses Gesprächs entstand die Vereinbarung zwischen Fdl-in und Technisch
+Berech gtem,
+
+dass
+
+der
+
+Bauzug
+
+DGV
+
+34156,
+
+entgegen
+
+des
+
+Regelwerks
+
+Ril 408.0488 Abschni 2, seine Fahrstraße bis zum gewöhnlichen Halteplatz in Gleis 1 nicht
+ausfahren sollte. Sta dessen sollte der Zug nach der Einfahrt in den Bf Dorsfeld vorzei g auf
+der Weiche 27 zum Halten kommen. Diese Absprache ha e für die Fdl-in die Durchführung
+einer zählpflich gen Hilfsbedienhandlung zur Folge, um die Fahrstraße nach Gleis 1 wieder
+aufzulösen. Neben der o. g. Abweichung vom Regelwerk wäre diese zählpflich ge
+Bedienhandlung zu vermeiden gewesen. Tatsächlich kam der Zug dann auf der Weiche 24 zum
+Halten, wo die Zugfahrt des DGV 34156 dann vorzei g beendet wurde.
+
+Seite 22 von 59
+
+Untersuchungsbericht
+Zugkollision, 22.11.2024, Bf Dorsfeld
+
+Um 22:37 Uhr beantragte der Technisch Berech gte die Sperrung des Gleises 2 zwischen
+Esig 30A und Asig 30N2 bei der Fdl-in Horrem I. Dies entsprach der Sperrung nach
+Abschni 2.1.1 der Betra und wurde gemäß Ril 408.0471 Abschni 2 Abs. 1 b) von der Fdl-in
+mit dem Wortlaut gemäß Ril 408.0471 Abschni 2 Abs. 7 durchgeführt. Dabei ergänzte sie die
+Angabe der Uhrzeit, was im Sinne der Ril 408 nicht regelkonform war. Der Technisch
+Berech gte wiederholte ihre Meldung. Die in der Folge durch die Fdl-in erfolgte
+Merkhinweiseingabe (ME), siehe Tabelle 8, entsprachen den Vorgaben der Ril 408.0402 Nr. 8.
+Der in den untenstehenden Tabellen genannte Merkhinweis „X“ steht für die Sperrung eines
+Elements, wie beispielsweise einer Weiche, seitens der Fdl-in. Die Abkürzung „WUS“
+bezeichnet ein Sperren einer Weiche gegen Umstellen.
+Quelle
+
+Uhrzeit
+
+Handlung
+
+22:35:49 –
+22:36:37 Uhr
+
+ME,X,30W23; ME,X,30W25; ME,X,30GA
+BMR
+[Eingabe Merkhinweis „X“ für Weichen 23 und 25 sowie
+für den Gleisabschni 30GA als Resultat aus dem GSM-R
+Gespräch um 22:32 Uhr mit dem TB]
+
+22:37:11 –
+22:37:19 Uhr
+
+ME,X,30G22; ME,X,30W25; ME,X,30GA
+[Eingabe Merkhinweise „X“ für die Gleisabschni e
+30G22 und 30G12 als Resultat aus dem untenstehenden
+GSM-R Gespräch um 22:37 Uhr mit dem TB]
+
+BMR
+
+Fdl-in: So, ähm dann, du hast gesagt, 2. ‐ 2.2.1, ’ne?
+
+GSM-R
+
+TB: Genau, und 2.2 auch
+Fdl-in: Äh, 2 ... Moment 2.2 ist aber der große Abschni .
+2.2.1 ist von Esig 30 Anton (TB: genau) bis Asig Nordpol
+2. Also, sag mir mal, was Du gesperrt haben möchtest?
+TB: Ähm ... einmal unter 2.2.1 so, einen Moment.
+Fdl-in: Ja.
+22:37:35 –
+22:41:12 Uhr
+
+TB: Erstmal von 2.2.1, dann hä en wir nämlich die 23
+drin, die 25 und die 27 ähh…
+Fdl-in: Die 27 .... gar nicht ... ach nee, warte mal, ganz
+kurz…
+TB: Da könntest du mir auch ... das Gleis 1 sperren, dann
+können wir die 27 nämlich auch direkt mit machen.
+Fdl-in: Hier die 2.2.4 ist doch das!
+TB: Genau, rich g. Also 2.2.1 und 2.4.
+[ca. 13 Sekunden Pause]
+Fdl-in: So, alles klar, dann ist mit jetziger Uhrzeit 22:39 ‐
+ähm, ja, quasi das Gleis 2 von dem 3 ‐ 30 Anton bis zum
+
+Seite 23 von 59
+
+Untersuchungsbericht
+Zugkollision, 22.11.2024, Bf Dorsfeld
+
+30; ach Quatsch; ja doch, 30 Nordpol 2 gesperrt und
+Sicherungsmaßnahmen durchgeführt.
+TB: Ab jetziger Uhrzeit ist das Gleis 2 zwischen Esig 30
+Anton und Asig 30 Nordpol 2 gesperrt und
+Sicherungsmaßnahmen durchgeführt, jawoll!
+Fdl-in: Das ist rich g, ja und dann, ja, Sagen wir mal
+Gleis 1 von der Weiche 30W27 bis zum 30 Nordpol1
+auch gesperrt und Sicherungsmaßnahmen durchgeführt.
+TB: Dann ist das Gleis 1 von der Weiche 30W27 bis 30
+Nordpol1 gesperrt und Sicherungsmaßnahmen sind
+durchgeführt.
+Fdl-in: Das ist rich g ... So jetzt ’ne Frage: ihr habt ja den
+Bauzug, äh, die Fahrstraße steht noch, sozusagen. Nee,
+wollt ihr jetzt zurücksetzen?
+TB: Genau, 50 Meter hinter Weiche 23.
+Fdl-in: Und dann wollt ihr quasi hochstopfen nach
+Gleis 1, ne?
+TB: Erst mal scho ern, Richtung, genau, Richtung
+Gleis 1, dass du uns den Fahrweg stellst von der
+Weiche 23 über 25 und 27, aber 27 in Richtung Gleis 1.
+Fdl-in: Ja, ich sperr’ die Weichen, weil die Fahrstraße, die
+steht zwar, also die Fahrstraße steht. Ich hab’ keine
+Rangiersignale, ne? Also ich hab’ die Weichen so
+gesperrt, ihr könnt anfangen, da zu arbeiten.
+TB: Okay ... den Fahrweg hast du uns zurückgestellt, ne?
+Fdl-in: Ja ja, ich hab’ den gesichert, da wird nix
+passieren, ihr könnt da arbeiten. Scho ern ...
+TB: Also von 23 auf 4 ‐ 25, und dann von 25 auf die 27,
+gut, dann sind wir wieder zurück.
+Fdl-in: Alles klar.
+22:39:02 –
+22:40:39
+
+ME,X,30G21; ME,X,30W27;
+WUS,30W25; WUS,30W27, WUS,30W23
+[Eingabe Merkhinweise „X“ für den Gleisabschni
+30G21 sowie die Weiche 27; Weichen 23, 25 und 27
+wurden gegen Umstellen gesperrt als Resultat aus dem
+GSM-R Gespräch um 22:37 Uhr mit dem Technisch
+Berech gtem]
+
+BMR
+
+22:39 Uhr
+
+Eintrag Sperrung Gleis 1 Bf Dorsfeld von 30N1 bis
+30W27 sowie Gleis 2 von 30N2 bis 30A, Eintrag, dass
+Merkhinweise/Sperre eingegeben ist
+
+Fernsprechbuch
+
+22:43:45 –
+
+Frage Fdl-in an TB, ob Zugnummer 91775 die
+Stopfmaschine sei. Weitere Frage an den TB, wann und
+
+GSM-R
+
+Seite 24 von 59
+
+Untersuchungsbericht
+Zugkollision, 22.11.2024, Bf Dorsfeld
+
+22:45:02 Uhr
+
+wie die Stopfmaschine kommen solle.
+TB sagte, dass die Stopfmaschine nach Gleis 1 müsse.
+Fdl-in antwortete, dass sie dann aber nicht „drumherum
+käme“, was der TB bestä gte. Beide einigten sich, dass
+die Stopfmaschine ins gesperrte Gleis einfahren soll,
+damit direkt hinter dem Bauzug die Stopfarbeiten
+beginnen können.
+
+Tabelle 8: Betriebliche Handlungen von 22:35 Uhr bis 22:45 Uhr
+
+Von 22:43 Uhr bis 00:37 Uhr wurden disposi ve Gespräche mit dem Technisch Berech gten
+geführt. Inhalte waren u. a eine benö gte Sperrung gemäß Ril 408.0471 Abschni 2 Abs. 1d)
+im Rahmen der Arbeiten sowie ein Gespräch mit dem Tf des Bauzuges DGV 34156, siehe
+folgende Tabelle. Im Weiteren wurden durch die Fdl-in Bedienkommandos durchgeführt, die
+eine Kommando-Freigabe (KF) in Form einer KF 1 und KF 2- Bedienung erforderten, bevor sie
+ausgeführt werden konnten. Diese Freigabe war stellwerkssei g notwendig, um
+sicherzustellen, dass die Fdl-in die Ausführung des Befehls bewusst veranlasst und nicht
+versehentlich ausgelöst ha e. Das Löschen von Merkhinweisen wird im BMR als „ML“
+angezeigt.
+Uhrzeit
+
+Gesprächsinhalt
+
+Quelle
+
+22:53:25 –
+22:53:30
+
+FHA,30N1, KF 1&KF 2 in der Folge
+[Fahrstraßenhilfsauflösung für DGV 34156; KF1 u. KF2
+betä gt; Bauzug DGV 34156 kam vorzei g auf der
+Weiche 24 zum Halten, wo die Zugfahrt beendet
+wurde, Resultat aus GSM-R Gespräch um 22:25 Uhr]
+
+BMR
+
+22:55:18
+
+Fahrstraße 32B.32HOSI
+[Fahrstraße in Horrem von Esig 32B bis Asig für
+Stopfmaschine eingestellt, Zugnummer 91757]
+
+BMR
+
+22:57:51 –
+22:57:55
+
+ML,X,30W25; KF 1&KF 2 in der Folge
+[Merkhinweis „X“ für Weiche 25 gelöscht]
+
+BMR
+
+22:57:59 –
+22:58:04
+
+WUE,30W25, KF 1&KF 2 in der Folge
+[Gegen Umstellen gesperrte Weiche 25 entsperren]
+
+BMR
+
+22:58:12
+
+ME,X,30W25
+[Eingabe Merkhinweis „X“ für Sperrung der Weiche 25]
+
+BMR
+
+22:58:24 –
+22:59:24
+
+Sechs Bedienhandlungen: WU,30W25
+[Sechs Versuche, die Weiche 25 umzustellen,
+Scho erstein verhinderte, dass Weiche 25 in die
+Endlage kam]
+
+BMR
+
+22:59:41
+
+WUS,30W25
+[Weiche 25 gegen Umstellen sperren]
+
+BMR
+
+Seite 25 von 59
+
+Untersuchungsbericht
+Zugkollision, 22.11.2024, Bf Dorsfeld
+
+23:01:03
+
+23:09:52 –
+23:10:12 Uhr
+
+Fahrstraße 30061.30SIDO eingestellt
+[Zug 91757 fährt aus Richtung Sindorf auf den Bf
+Dorsfeld zu]
+
+Der Tf des Bauzuges DGV 34156 meldet sich bei der Fdl- GSM-R
+in und teilte dieser mit, dass er jetzt ins Gleis 2 einfährt
+und ein bisschen Platz lassen würde, damit er die
+Stopfmaschine nicht störe. Fdl-in bestä gte diese
+Meldung.
+Fdl-in informierte den TB, dass Stopfmaschine nun vor
+der Einfahrt stehe. Frage an den TB, was die
+Stopfmaschine nun machen solle.
+
+23:10:21 –
+23:11:33 Uhr
+
+23:16:03 –
+23:16:37
+
+BMR
+
+GSM-R
+
+TB sagte, die Stopfmaschine solle in Gleis 2 einfahren
+und dann werde von der Weiche 25 in Richtung
+Weiche 23 gestop . Ursprünglich sollte eigentlich von
+Weiche 23 aus angefangen werden, aber aufgrund der
+Arbeitsrichtung der Stopfmaschine solle nun ab
+Weiche 25 begonnen werden.
+BHA,30A, KF1&KF 2 in der Folge
+[Bedienung der Blockhilfsauflösung; Zug 91757 wurde
+mit hoher Wahrscheinlichkeit auf mündlichen Au rag
+einfahren gelassen und löste den Block daher nicht auf]
+
+BMR
+
+Tabelle 9: Betriebliche Handlungen von 22:53 Uhr bis 23:16 Uhr
+
+Der Stopfmaschine mit Zugnummer 91757 wurde um 23:12 Uhr die Einfahrt in den Bf Dorsfeld
+auf mündlichen Au rag durch die Fdl-in gesta et. Dieses Vorgehen stand den Regelungen der
+Ril 408.0488 Abschni 2 entgegen. Der Zug war weder am gewöhnlichen Halteplatz im Bf
+Dorsfeld angekommen, noch erfolgte eine Einfahrt in ein Baugleis, was dieses Vorgehen
+seitens der Fdl-in gesta et hä e. Das erneute, vorzei ge Beenden der Zugfahrt ha e
+wiederum eine zählpflich ge Bedienhandlung in Form einer Blockhilfsauflösung zur Folge.
+Zehn Minuten später meldete sich der Technisch Berech gte erneut bei der Fdl-in, um eine
+Sperrung für das Gleis 3 zu beantragen. Das Geschehen ist in der folgenden Tabelle aufgeführt.
+Uhrzeit
+
+Gesprächsinhalt
+
+Quelle
+
+23:43:45 –
+
+TB vereinbart eine Sperrung für das Gleis 3 im Bf
+Dorsfeld mit der Fdl-in.
+
+GSM-R
+
+ME,X,30G23
+[Eingabe Merkhinweis „X“ gemäß Ril 408.0471
+Abschni 2 Abs. 5 für Sperrung Gleis 3 Bf Dorsfeld als
+Resultat der beantragten Sperrung des TB]
+
+BMR
+
+23:44:29 Uhr
+23:44:15 Uhr
+
+Seite 26 von 59
+
+Untersuchungsbericht
+Zugkollision, 22.11.2024, Bf Dorsfeld
+
+23:47:02 –
+23:47:23 Uhr
+23:47:17 Uhr
+
+00:27:44 –
+00:28:33 Uhr
+
+00:37:29 –
+00:38:06 Uhr
+
+Meldung TB, dass die Anlässe für die Sperrung
+aufgehoben seien, Fdl-in hebt Sperrung des Gleises 3
+auf.
+
+GSM-R
+
+ML,X,30G23
+[Merkhinweis „X“ in Gleisabschni 30G23 gelöscht;
+Au ebung der Sperrung des Gleises 3]
+
+BMR
+
+TB benö gt erneut eine Sperrung des Gleises 3 im Bf
+Dorsfeld, Fdl Köln-Ehrenfeld vertri Fdl-in Horrem I in
+diesem Gespräch und teilt mit, dass Sperrung aufgrund
+der Fahrt eines Personenzuges nicht möglich sei.
+
+GSM-R
+
+Erneute Anfrage des TB bzgl. einer dreiminü gen
+Sperrung, es ginge schnell und „dann sei man danach
+auch schon weg“. Fdl Köln-Ehrenfeld vertri Fdl-in
+Horrem I und lehnte Sperrung aufgrund der dichten
+Zugfolge erneut ab.
+
+GSM-R
+
+Tabelle 10: Betriebliche Handlungen von 22:53 Uhr bis 00:38 Uhr
+
+Um 00:49 Uhr wurde mit dem folgenden GSM-R Gespräch die Befahrbarkeit der Gleise 1 und 2
+durch den Technisch Berech gten an die Fdl-in gemeldet. Dieses Vorgehen entsprach den
+Vorgaben der Ril 408.0471 Abschni 2 Abs. 4a) und 4b) und den Vorgaben der
+Ril 406.1201A02 Abschni 4.2., wonach dem Fdl die Befahrbarkeit der von einer Sperrung
+durch schri liche Anweisung betroﬀenen Gleise durch eine Fachkra zu melden war. Zudem
+wurde der Fdl-in das Ende der Betra-Arbeiten durch den Technisch Berech gten gemeldet,
+siehe Transkript des GSM-R Gesprächs in der folgenden Tabelle.
+Uhrzeit
+
+00:49:51 –
+00:52:08 Uhr
+
+Gesprächsinhalt
+
+Quelle
+
+Fdl-in Horrem I meldet sich bei TB bzgl. der benö gten
+Sperrung. TB sagte, er benö ge die Sperrung jetzt doch
+nicht mehr. TB antwortete auf Nachfrage der Fdl-in,
+dass man „alles au eben“ könne. Es sei heute zu kalt
+für die Maschine gewesen, daher sei das Stopfen nicht
+möglich gewesen. (Technisch Berech gter läu
+während dieses Gesprächs lt. eigener Aussage in einen
+Bereich, wo er ein „bisschen Sicht“ habe)
+
+GSM-R
+
+TB: Gleis 2 zwischen 31 Anton und 30 (..) wieder
+befahrbar
+Fdl-in: Ja, ich wiederhole. Das ist einmal das Gleis 2 in
+Dorsfeld zwischen dem 30 Nordpol 2 und dem 30 Anton
+wieder befahrbar. Dann ist die Sperrung auch
+aufgehoben und die Sicherungsmaßnahmen sind
+aufgehoben
+
+Seite 27 von 59
+
+Untersuchungsbericht
+Zugkollision, 22.11.2024, Bf Dorsfeld
+
+TB: Dann ist einmal das Gleis 2 zwischen 30Anton und
+30Nordpol 2 wieder befahrbar
+Fdl-in: Ja, ich wiederhole, dann ist einmal das Gleis 2 in
+Dorsfeld zwischen dem 30 Nordpol 2 und dem 30 Anton
+wieder befahrbar, dann ist die Sperrung auch
+aufgehoben und Sicherungsmaßnahmen sind
+aufgehoben.
+TB: Also dann ist die Sperrung von Gleis 2 zwischen
+30Anton und 30Nordpol aufgehoben,
+Sicherungsmaßnahmen aufgehoben
+TB: Dann ha ‘ ich das Gleis 1 gesperrt von der Weiche
+27 bis 30 Nordpol 1 gesperrt; ist wieder befahrbar.
+Fdl-in: ja, dann wiederhol ich einmal, dass das Gleis 1 in
+Dorsfeld zwischen 30 Nordpol 1 und der Weiche 30 W 27
+wieder befahrbar ist, und dann ist die Sperrung auch
+aufgehoben und Sicherungsmaßnahmen sind
+aufgehoben.
+TB: Sperrung von Gleis 1 Weiche 27 und 30 Nordpol 1
+aufgehoben, Sicherungsmaßnahmen aufgehoben. Und
+ich melde auch die Betra ab
+Fdl-in: Dann meldest du die Betra ab, alles klar
+Es folgt Verabschiedung.
+Tabelle 11: Transkript GSM-R Gespräch um 00:49 Uhr
+
+Die in dem GSM-R Gespräch in obenstehender Tabelle 11 getä gte Aussage über die
+Befahrbarkeit der Gleise 1 und 2 lag gemäß Ril 408.0471 Abschni 2 Abs. 4b) und
+Ril 406.1201A02 Abschni 4.2 in der Zuständigkeit des Technisch Berech gten. Mit dieser
+Meldung über die Befahrbarkeit der Gleise 1 und 2 konnte die Fdl-in von einem für Zugfahrten
+wieder
+
+sicheren
+
+Zustand
+
+der
+
+zuvor
+
+gesperrten
+
+Abschni e
+
+ausgehen.
+
+Gemäß
+
+Ril 406.1201A02 Abschni 4.2 war der Belegungszustand hingegen kein Umstand, den der
+Technisch Berech gte nach dem Ende der Arbeiten in einem gesperrten Gleis an die Fdl-in zu
+melden ha e.
+Die Fdl-in hob nach dem o. g. GSM-R Gespräch die Sperrungen der betroﬀenen Bereiche auf.
+Hierzu waren die in der folgenden Tabelle dargestellten Handlungen der Fdl-in in
+Fernsprechbuch und BMR registriert.
+
+Seite 28 von 59
+
+Untersuchungsbericht
+Zugkollision, 22.11.2024, Bf Dorsfeld
+
+Uhrzeit
+
+Gesprächsinhalt
+
+Quelle
+
+00:50 Uhr
+
+Einträge, dass Gleis 1 von 30N1 bis 30W27 befahrbar u.
+dass in Gleis 1 von 30N1 bis 30W27 die Sperrung
+aufgehoben ist.
+
+Fernsprechbuch
+
+00:51 Uhr
+
+Einträge, dass Gleis 2 von 30N2 bis 30A befahrbar u. in
+Gleis 2 von 30N2 bis 30A die Sperrung aufgehoben ist.
+
+Fernsprechbuch
+
+00:51:28 –
+00:51:32 Uhr
+
+WUE,30W25, KF 1&KF 2 in der Folge
+[Gegen Umstellen gesperrte Weiche 25 entsperren]
+
+BMR
+
+00:51:44 –
+00:51:49 Uhr
+
+WUE,30W23, KF 1&KF 2 in der Folge
+[Gegen Umstellen gesperrte Weiche 23 entsperren]
+
+BMR
+
+00:51:53 –
+00:51:57 Uhr
+
+WUE,30W27, KF 1&KF 2 in der Folge
+[Gegen Umstellen gesperrte Weiche 27 entsperren]
+
+BMR
+
+00:52 Uhr
+
+Eintrag, dass Betra Nr. F356634 abgemeldet ist
+
+Fernsprechbuch
+
+00:52:06 –
+00:52:11 Uhr
+
+ML,X,30G21, KF 1&KF 2 in der Folge
+[Merkhinweis „X“ für Gleisabschni 30G21 gelöscht;
+Sperrung Gleisabschni 3021 (Gleis 1) aufgehoben]
+
+BMR
+
+00:52:21 –
+00:52:25 Uhr
+
+ML,X,30W27, KF 1&KF 2 in der Folge
+[Merkhinweis „X“ für Weiche 27 gelöscht]
+
+BMR
+
+00:52:42 –
+00:52:46 Uhr
+
+ML,X,30W25, KF 1&KF 2 in der Folge
+[Merkhinweis „X“ für Weiche 25 gelöscht]
+
+BMR
+
+00:52:52 –
+00:52:56 Uhr
+
+ML,X,30G22, KF 1&KF 2 in der Folge
+[Merkhinweis „X“ für Gleisabschni 30G22 gelöscht;
+Sperrung Gleisabschni 3022 (Gleis 2) aufgehoben]
+
+BMR
+
+00:53:04 –
+00:53:08 Uhr
+
+ML,X,30G12, KF 1&KF 2 in der Folge
+[Merkhinweis „X“ für Gleisabschni 30G12 gelöscht;
+Sperrung Gleisabschni 3012 (zwischen Signal 30P2 und
+Weiche 25) aufgehoben]
+
+BMR
+
+00:53:14 –
+00:53:19 Uhr
+
+ML,X,30W23, KF 1&KF 2 in der Folge
+[Merkhinweis „X“ der Weiche 23 gelöscht]
+
+BMR
+
+00:53:26 –
+00:53:30 Uhr
+
+ML,X,30GA, KF 1&KF 2 in der Folge
+[Merkhinweis „X“ für Gleisabschni 30GA gelöscht;
+Sperrung Gleisabschni 30A, Gefahrpunktabstand
+hinter Esig 30A, aufgehoben]
+
+BMR
+
+Tabelle 12: Betriebliche Handlungen von 00:50 Uhr bis 00:54 Uhr
+
+Nach Abmeldung der Arbeiten gemäß Betra und vor Au ebung der zugehörigen Sperrungen
+lagen der Fdl-in keine eindeu gen Informa onen über den tatsächlichen Belegungszustand
+des Gleises 2 im Bf Dorsfeld vor. Eigene Aufschreibungen oder einen digitalen Hinweis mi els
+Merktext vorzunehmen war gemäß Regelwerk des EIU für die Fdl-in nicht obligatorisch
+
+Seite 29 von 59
+
+Untersuchungsbericht
+Zugkollision, 22.11.2024, Bf Dorsfeld
+
+gewesen. Dieser Umstand wurde durch die BEU als ursächlicher Faktor [F1] gewertet, da keine
+eindeu ge Übersicht über die Gleisbelegungen vor dem Au eben der Gleissperrung mehr
+bestand.
+Die Sperrungen der durch die Betra und der daraus resul erenden Meldung des Technisch
+Berech gten betroﬀenen Bereiche ha e die Fdl-in als Folge des GSM-R Gesprächs um
+00:49:51 Uhr, entgegen der Vorgaben der Ril 408.0471 Abschni 2 Abs. 4, vollumfänglich
+aufgehoben. Gemäß der Abs. 4a) bis 4c) vorgenannten Regelwerks war eine Au ebung der
+Gleissperrung mit der vorherigen Feststellung der folgenden Bedingungen verbunden:
+„a) Der Fahrdienstleiter muss festgestellt haben oder es muss ihm gemeldet worden
+sein, dass alle Anlässe für die Gleissperrung weggefallen sind und er muss dies im
+Zugmeldebuch oder Fernsprechbuch eingetragen haben.
+b) Wenn Arbeiten wegen der Anlässe nach Absatz (1) a) oder (1) b) [red. Anmerkung:
+Gleis unbefahrbar oder Sperrung aufgrund einer schri lichen Anweisung beantragt]
+ausgeführt worden sind – muss der Fahrdienstleiter die Meldung der Fachkra über
+die Befahrbarkeit des Gleises (einschließlich Regellichtraum) im Zugmeldebuch oder
+Fernsprechbuch eingetragen haben.
+c) Wenn ein gesperrtes Gleis mit Gleisfreimeldeanlage mit Achszählern befahren
+worden ist oder in das Gleis Fahrzeuge eingesetzt worden sind, muss der
+Fahrdienstleiter durch eine Abschni sprüfung festgestellt haben, dass das Gleis frei ist
+und dies im Zugmeldebuch oder Fernsprechbuch eingetragen haben […].“7
+Der Fdl-in oblag es also, eine Aussage über die Belegung oder das Freisein beider ehemals
+gesperrten Gleise 1 und 2 zu treﬀen, bevor eine Au ebung der Gleissperrungen der
+betroﬀenen Gleise hä e erfolgen dürfen. Dies war in Form einer Abschni sprüfung gemäß
+Ril 408.0471 Abschni 2 Abs. 4c) vorgeschrieben.
+Bei einer Abschni sprüfung muss durch Hinsehen an der Außenanlage festgestellt werden,
+dass im betroﬀenen Abschni
+
+bis zu den begrenzenden Weichen, Sperrsignalen,
+
+Wartezeichen, Hauptsignalen oder Signalen Ne 14 keine Fahrzeuge stehen. Diese Prüfung war
+der Fdl-in selbst nicht möglich, da sich ihr Arbeitsplatz in der BZ in Duisburg befand. Um diese
+Feststellung dennoch treﬀen zu können, war es gemäß Ril 408.0233 auch zulässig,
+7
+
+Ril 408.0471 Abschnitt 2 Abs. 4a) bis 4c)
+
+Seite 30 von 59
+
+Untersuchungsbericht
+Zugkollision, 22.11.2024, Bf Dorsfeld
+
+„Mitarbeiter der Fachlinie Leit‐ und Sicherungstechnik, Fahrbahn sowie Elektrotechnik oder
+von der DB InfraGO AG beau ragte Helfer im Bahnbetrieb oder No allmanager“8
+unterstützend zu beau ragen.
+Auf ihrer Lupenansicht wurde ihr nach Au ebung der Gleissperrungen nun noch eine
+Rotausleuchtung des Gleises 2 angezeigt, die auf eine Besetzung durch ein Fahrzeug
+hindeuten konnte. Diese Rotausleuchtung resul erte aus dem noch in Gleis 2 stehenden
+Bauzug in Verbindung mit der Stopfmaschine, die sich gemeinsam im Gleisabschni 30G22
+befanden, siehe folgende Abbildung. Der betroﬀene Gleisabschni befand sich zwischen dem
+Asig 30N2 und dem Asig 30P2 der Gegenrichtung.
+
+Abbildung 9: Lupenansicht Bf Dorsfeld ab 00:53:30 Uhr9
+
+Um 00:54:29 Uhr stellte die Fdl-in zunächst der Stopfmaschine mit der Zugnummer 24146
+eine Ausfahrzugstraße ins Gegengleis nach Horrem ein, siehe Tabelle 13.
+Uhrzeit
+
+Gesprächsinhalt
+
+Quelle
+
+00:54:29 Uhr
+
+30P2.30DOSIG
+[Ausfahrt der Stopfmaschine mit Zugnummer 24146 im
+Gegengleis Dorsfeld – Sindorf, Ziel: Bonntor]
+
+BMR
+
+Tabelle 13: Betriebliche Handlung um 00:54:29 Uhr
+
+Diese Handlung stellte sich in der Lupenansicht am Bedienplatz Horrem I wie in der folgenden
+Abbildung ersichtlich dar. Dabei ist das Einstellen der Ausfahrzugstraße von Dorsfeld in
+Richtung Horrem und die nach der Ausfahrt des Zuges 24146 in Gleis 2 weiterhin bestehende
+Rotausleuchtung zu erkennen.
+
+8
+
+Ril 408.0233 Abschnitt 2 Abs. 1
+
+9
+
+DB InfraGO AG, bearbeitet durch BEU
+
+Seite 31 von 59
+
+Untersuchungsbericht
+Zugkollision, 22.11.2024, Bf Dorsfeld
+
+Abbildung 10: Lupenansicht Bf Dorsfeld ab 00:54:29 Uhr10
+
+Diese in Gleis 2 angezeigte Rotausleuchtung des Gleisabschni s 30G22 wurde von der
+Gleisfreimeldeanlage durch den dort stehenden Bauzug hervorgerufen. Zum Erlangen der
+Informa onen über das Freisein des Gleises 2 im Bf Dorsfeld musste die Fdl-in nun
+zwangsläufig eine Abschni sprüfung nach Ril 408.0625 Abschni 2 des betroﬀenen
+Gleisabschni s des Bf Dorsfeld durchführen.
+Die Fdl-in entschied sich zum Treﬀen der Feststellung, dass „Fahrweg, Durchrutschweg,
+einmündende Gleisabschni e und Flankenschutzräume frei von Fahrzeugen sind“11, den BÜB
+gemäß der o. g Regelung aus Ril 408.0233 Abschni 2 Abs. 1 zu beau ragen. Der BÜB war in
+der o. g. Auflistung der Ril 408.0233 nicht explizit aufgeführt. Durch seine Qualifika on und
+örtliche Einweisung, siehe Kapitel 4.3.2, war sein Mitwirken an der Fahrwegprüfung nach
+Einschätzung des EIU zulässig und in der Praxis in vergleichbaren Szenarien üblich.
+Alterna v zu diesem Verfahren der Einbindung eines Mitarbeiters bestand eine weitere
+Op on darin, den nächsten Zug, der das Gleis 2 befahren sollte, mit besonderem Au rag in
+den Bf Dorsfeld einfahren zu lassen. Die Ril 408.0231 Abschni 3 Abs. 10) sah vor, dass der Fdl
+den Tf des nächsten Zuges, der den betroﬀenen Abschni befahren soll, beau ragen dur e,
+mit Befehl 12 – Grund Nr. 1 – auf Sicht zu fahren, und zwar „…bis zum nächsten Hauptsignal,
+
+10
+
+DB InfraGO AG, bearbeitet durch BEU
+
+11
+
+408.0233 Abschnitt 2 Abs. 1
+
+Seite 32 von 59
+
+Untersuchungsbericht
+Zugkollision, 22.11.2024, Bf Dorsfeld
+
+bei Ausfahrten bis zum Ende des anschließenden Weichenbereichs oder, wenn noch ein
+besonderer Bahnhofsabschni ohne Weichen folgt, bis zu dessen Ende (…)“12.
+Um 00:58 Uhr rief sie den ihr zuvor während der Betra in der Funk on des Technisch
+Berech gten bekannten BÜB an, der sich nach dem Ende der Arbeiten zufällig noch vor Ort im
+Bf Dorsfeld befand, siehe Tabelle 14.
+Uhrzeit
+
+Gesprächsinhalt
+
+Quelle
+
+BÜB: Hier die Polizei!
+
+GSM-R
+
+Fdl-in: Nee, Polizei nich
+[Beide lachen und tauschen lockere Späße aus]
+Fdl-in: Hör mal, bist du noch vor Ort?
+BÜB: Ja, ich bin noch, ja.
+Fdl-in: Äh, In Gleis 2, steht da noch was drin?
+BÜB: In Gleis 2, nein, da steht gar nichts drin. Nicht mehr
+drin.
+Fdl-in: Dann musst du mir das einmal befahrbar melden,
+bi e.
+00:59:06 –
+01:00:07 Uhr
+
+BÜB: So, das ist das Gleis 2 in ähm Bahnhof äh Dorsfeld
+wieder befahrbar. Ja, frei und befahrbar.
+Fdl-in: Beziehungsweise frei von Fahrzeugen.
+BÜB: Frei von Fahrzeugen, genau.
+Fdl-in: Ist also, also das Gleis 2 in Dorsfeld ist auch frei
+von Fahrzeugen, ja?
+BÜB: Rich g, Gleis 2 in Dorsfeld ist frei von Fahrzeugen.
+Fdl-in: Okay, dann drück ich einmal AZG, weil da hab‘ ich
+noch ’ne Rotausleuchtung drin
+BÜB: Alles raus.
+Fdl-in: Ja, ist raus. perfekt, ich danke Dir
+(Namensnennung des BÜB und Verabschiedung
+
+00:59:56 Uhr
+
+12
+
+AZG,30G22
+[Bedienung der Achszählgrundstellung für Gleisabschni
+3022 [red. Anmerkung: betroﬀener Abschni in Gleis 2].
+Der Gleisabschni wies danach keine Rotausleuchtung
+mehr auf]
+
+BMR
+
+Ril 408.0625 Abschnitt 2 Abs. 2a)
+
+Seite 33 von 59
+
+Untersuchungsbericht
+Zugkollision, 22.11.2024, Bf Dorsfeld
+
+01:00 Uhr
+
+Eintrag, dass Gleisabschni 30G22 frei von Fahrzeugen
+ist und Bedienung AZG erfolgreich war.
+
+Fernsprechbuch
+
+22.11.24/
+01:01:51 Uhr
+
+32N7.32HOSI
+[Einstellen der Ausfahrzugstraße für Güterzug
+DGS 42506 in Horrem]
+
+BMR
+
+01:18
+
+Eintrag über Sperrung des Bf Dorsfeld
+
+Fernsprechbuch
+
+Tabelle 14: Betriebliche Handlungen von 00:59 Uhr bis 01:18 Uhr
+
+Dieses GSM-R Gespräch wurde entgegen der Ril 481.0205 Abschni 6 (2) erneut nicht unter
+Nennung der jeweiligen Funk on bzw. Betriebsstelle eingeleitet.
+Der von der Fdl-in in diesem Gespräch gewählte Wortlaut passte zunächst nicht zu ihrer
+Absicht, eine Informa on über den Belegungszustand bzw. das „Freisein“ des noch rot
+ausgeleuchteten Gleisabschni s 30G22 des Gleises 2 zu erhalten. Ihre an den BÜB gerichtete
+Frage, ob das Gleis 2 „befahrbar“ sei, war bereits im zuvor geführten GSM-R Gespräch um
+00:49 Uhr durch den Technisch Berech gten gemeldet und durch die Fdl-in im
+Fernsprechbuch dokumen ert worden. Als ihr dies durch die Antwort des BÜB scheinbar
+bewusst wurde, ergänzte sie, dass sie auch eine Meldung über das Freisein von Fahrzeugen
+des Gleises 2 von ihm benö gen würde. Dabei wurde sie jedoch entgegen der
+Ril 408.0233 Abschni 2 Abs. 1 nicht konkreter, was den konkret zu prüfenden Abschni im
+Gleis 2 anbelangte. Eine in der Ril 408 geforderte Nennung markanter Punkte, wie zum
+Beispiel die Signale, die den Gleisabschni
+
+begrenzten, unterließ sie. Sie forderte für das
+
+gesamte Gleis 2 mit einer Nutzlänge von 700 m eine Freimeldung beim BÜB an.
+Der BÜB bestä gte ihr darau in unverzüglich, dass das gesamte Gleis 2 neben der
+Befahrbarkeit auch frei von Fahrzeugen sei, was die Fdl-in wiederholte. In der Folge nahm sie
+dann die Bedienung der Achszählgrundstellung erfolgreich vor und stellte im betroﬀenen
+Gleisabschni 30G22 des Gleises 2 wieder eine Grundstellung der Gleisfreimeldeanlage her.
+Der Abschni wurde von nun an sicherungstechnisch als frei verwaltet, obwohl er durch die
+Fahrzeuge des Bauzuges besetzt blieb.
+Die, aus ihrer Anfrage resul erende, unverzügliche Feststellung des Freiseins des Gleises 2
+durch den BÜB war in der Dunkelheit nach Auﬀassung der BEU nicht sachgerecht leistbar,
+ohne dass der BÜB das Gleis in weiten Teilen in der vorherrschenden Dunkelheit abschri .
+
+Seite 34 von 59
+
+Untersuchungsbericht
+Zugkollision, 22.11.2024, Bf Dorsfeld
+
+Die Fdl-in stellte dem Güterzug DGS 42506 schließlich um 01:01:51 Uhr eine Ausfahrzugstraße
+aus dem Bf Horrem ein. Der DGS 42506 fuhr auf einer regulären Einfahrzugstraße in den Bf
+Dorsfeld ein und kollidierte gegen 01:06 Uhr in Gleis 2 mit dem dort stehenden Bauzug.
+Die Fdl-in wurde nach dem Ereignis erst gegen 02:30 Uhr durch den zuständigen Bezirksleiter
+Betrieb abgelöst. Bis zur Ablösung führte sie weiterhin betriebliche Bedienhandlungen durch
+und führte GSM-R Gespräche. Diese Feststellung belegten nach dem Ereignis durch die Fdl-in
+getroﬀene Bedienhandlungen, Eintragungen in betriebliche Unterlagen und GSM-R
+Gespräche.
+Zusammenfassung aus der Untersuchung der betrieblichen Abläufe des EIU
+Unter Berücksich gung der Untersuchungsergebnisse erfolgt die Feststellung, dass die Fdl-in
+nach dem gemeldeten Ende der Betra-Arbeiten keine Übersicht über den tatsächlichen
+Zustand der Gleisbelegungen im Bf Dorsfeld ha e. Aufgrund der eigenen Beteiligung an der
+Betra und den auf dem Stellwerk verfügbaren, zugehörigen Fplo konnte ihr bekannt gewesen
+sein, dass zur Durchführung der Betra und nach dem Wegfall der Anlässe für die Gleissperrung
+durch die Beendigung der Arbeiten zwei Fahrten für die Baulogis k beteiligt waren und als
+Zugfahrten den Bf Dorsfeld wieder verlassen sollten. Der tatsächliche Verbleib der Fahrzeuge
+im Hauptgleis stand jedoch im zugrundeliegenden Betriebsprozess nicht eindeu g als
+bereitgestellte Informa on zur Verfügung. Daraus wurde es möglich, dass die Fdl-in zunächst,
+eigentlich hinfällige, disposi ve Planungen zur Benutzung des Gleises für Zugfahrten tä gte,
+die sich erst und nur noch in der Phase der sicherheitsrelevanten Durchführung der Fahrten
+als nicht machbar erwiesen.
+Dieser Umstand wurde durch die BEU als ursächlicher Faktor [F1] innerhalb der
+Ereignisrekonstruk on gewertet. Wäre dieser Umstand ausgeschlossen worden, hä e das
+Ereignis, z. B. durch das zeitrich ge und explizite zur Verfügung stellen der Informa on über
+den Verbleib der Fahrzeuge im Hauptgleis vor Au ebung der Gleissperrung, verhindert
+werden können.
+Darüber hinaus erscheint die gemäß Ril 408.0471 Abschni 2 Abs. 4c) vor der Au ebung der
+Gleissperrung durchzuführende Abschni sprüfung als unmi elbarer Arbeitsau rag in
+denjenigen Betriebssitua onen fragwürdig, wo ohnehin nach dem Ende der Baumaßnahme
+Fahrzeuge in einem Hauptgleis verbleiben. Beim vorliegenden Ereignis trat diese Situa on
+sogar geplant auf. Die vorgegebenen Regeln stellen jedoch nicht klar, ob und wie aufgrund
+
+Seite 35 von 59
+
+Untersuchungsbericht
+Zugkollision, 22.11.2024, Bf Dorsfeld
+
+unterschiedlicher Ausgangslagen die Vorgabe der durchzuführenden Abschni sprüfung
+betrieblich zweckmäßig ist. Nach der beschriebenen Regelwerksvorgabe wäre es somit trotz
+erkannter Besetztanzeige, aber ohne bewusste Kenntnis über verbliebene Fahrzeuge im Gleis
+möglich, eine zulaufende Zugfahrt, wie oben geschildert, auf Sicht einfahren zu lassen. Diese
+würde dann bestenfalls vor den Fahrzeugen im Gleis zum Stehen kommen.
+Da diesbezüglich im Zuge der Untersuchung durch die BEU kein plausibles und hinsichtlich der
+Handhabung der Sicherheitsinforma on „Fahrzeuge verbleiben im Gleis“ wirksames
+Verfahren nachvollzogen werden konnte, stellte die BEU zudem das Vorliegen eines
+systemischen Faktors [S1] fest. Dieser war organisatorischer Art, da die Vorgaben zu
+Betriebsprozessen je nach Ausgangssitua on nicht plausibel bzgl. der Handhabung von
+Sicherheitsinforma onen wirksam waren respek ve sich als unplausibel in ihrer For ührung
+darstellten. Dies könnte sich in der Zukun
+
+auf ähnliche Ereignisse auswirken. Dem EIU
+
+oblagen gemäß Delegierter Verordnung (EU) 2018/762, Anhang II, Kriterium 4.4.3 folgende
+Sorgepflichten:
+„Die Organisa on sorgt dafür, dass sicherheitsrelevante Informa onen a) relevant,
+vollständig und für die vorgesehenen Nutzer verständlich sind; b) gül g sind; c) korrekt
+sind; d) konsistent sind; e) kontrolliert werden (siehe 4.5.3 Kontrolle dokumen erter
+Informa onen); f) vor ihrem Wirksamwerden mitgeteilt werden; g) empfangen und
+verstanden werden.“13
+Insbesondere ist hervorzuheben, dass die Sicherheitsinforma on über im Hauptgleis
+verbliebene Fahrzeuge entsprechend diesen Anforderungen beherrscht werden muss und
+sich nicht in einem Plausibilitätskonflikt mit angelagerten Vorgaben befindet.
+Die Fdl-in führte die nach Regelwerk Ril 408.0471 Abschni 2 Abs. 4c) obligatorische
+Abschni sprüfung nicht unmi elbar im zeitlichen Zusammenhang mit der Meldung über den
+Wegfall der Anlässe für die Gleissperrungen durch, sondern erst nachdem die
+Stopfmaschine 24146 um 00:54:29 Uhr aus dem Bf Dorsfeld ausgefahren war. Dies belegte die
+Durchführung weiterer Betriebshandlungen sowie einer erst ca. acht Minuten nach dem
+gemeldeten Ende der Arbeiten dokumen erte Abschni sprüfung sowie der zugehörige
+Eintrag im Fernsprechbuch. Dieses Unterlassen wurde durch die BEU als ursächlicher Faktor
+
+13
+
+Delegierte Verordnung (EU) 2018/762, Anhang II, Kriterium 4.4.3
+
+Seite 36 von 59
+
+Untersuchungsbericht
+Zugkollision, 22.11.2024, Bf Dorsfeld
+
+[F2] mit Einfluss auf das Geschehen gewertet. Eine unmi elbar nach dem gemeldeten Ende
+der Arbeiten durchgeführte Abschni sprüfung vor Au ebung der Gleissperrungen hä e das
+Ereignis aller Wahrscheinlichkeit nach verhindert, da der Fdl-in erst in der Folge einer korrekt
+durchgeführten
+
+Abschni sprüfung
+
+eine
+
+plausible
+
+Informa on
+
+des
+
+tatsächlichen
+
+Belegungszustandes des Gleises 2 vorgelegen hä e. Diese erforderliche Abschni sprüfung
+führte sie zu einem späteren Zeitpunkt mi els unpräziser Anfrage unter Beteiligung des BÜB
+aus.
+
+Die
+
+Fdl-in
+
+zeigte
+
+bei
+
+der
+
+Durchführung
+
+dieser
+
+Abschni sprüfung
+
+Handlungsunsicherheiten, indem sie vom BÜB zunächst erneut eine Meldung über die
+Befahrbarkeit des Gleises 2 anforderte und es dann unterließ, diesem den auf Freisein zu
+prüfenden Abschni anhand markanter Punkte innerhalb der Örtlichkeit zu beschreiben.
+Die Durchführung der Abschni sprüfung durch die Fdl-in wurde durch die BEU als ursächlicher
+Faktor mit Bezug auf den Eintri des Ereignisses gewertet [F2]. Dessen Ausschluss, Korrektur
+oder Vermeidung hä e das Ereignis aller Wahrscheinlichkeit nach verhindert. Ob der BÜB bei
+Nennung markanter Punkte sta dessen eine ausführliche Feststellung über den
+Belegungszustand des Gleises 2 getroﬀen hä e, kann nicht bewertet werden.
+Der Technisch Berech gte gab in seiner Stellungnahme an, dass die Arbeiten gemäß Betra
+nach Rücksprache mit dem zuständigen Planer wi erungsbedingt nicht vollständig
+durchgeführt werden konnten. Er habe den Gleisbereich verlassen, um Stundenze el und
+Bautagesberichte der Sicherung der Arbeiter zu unterzeichnen. Währenddessen habe er
+wahrgenommen, dass die Stopfmaschine in Richtung Horrem ausgefahren sei. Er sei davon
+ausgegangen, dass auch der Bauzug die Baustelle unterdessen verlassen habe. Kurz darauf
+hä en sich die Arbeiter en ernt und er sei allein vor Ort gewesen. Er habe der Fdl-in auf
+Nachfrage schließlich die Gleise 1 und 2 befahrbar gemeldet, da er sicher gewesen sei, dass
+alle Maschinen und Personen die Baustelle verlassen hä en.
+Der BÜB traf demnach die unpräzise beau ragte Feststellung des Freiseins des Gleises 2
+lediglich aufgrund seiner eigenen Interpreta on des wahrgenommenen Betriebsgeschehens
+und zeitlich-örtlich bereits entkoppelt von seiner zuvor definierten Tä gkeit. Darau in gab er
+die Meldung zu seiner getroﬀenen Feststellung an die Fdl-in ab. Die getroﬀene Feststellung
+des „Freiseins“ und Abgabe der Meldung durch den BÜB wurde durch die BEU als ursächlicher
+Faktor [F3] gewertet, dessen Ausschluss das Ereignis aller Wahrscheinlichkeit nach verhindert
+hä e.
+
+Seite 37 von 59
+
+Untersuchungsbericht
+Zugkollision, 22.11.2024, Bf Dorsfeld
+
+4.1.2 Untersuchung der betrieblichen Abläufe der EVU
+Die am Ereignis beteiligten EVU Medway Belgium und Schweerbau GmbH & Co. KG verfügten
+am Tag des Ereignisses über eine gül ge Sicherheitsbescheinigung gemäß § 7a AEG. Die EVU
+waren damit zur Teilnahme am Eisenbahnbetrieb berech gt.
+DGS 42506
+Der Zug DGS 42506 des EVU Medway Belgium verkehrte gemäß Fahrplan von Germersheim
+über Köln Eifeltor und Aachen West nach Antwerpen Zuid. Entsprechend der Angaben aus
+dem Bremsze el und der Wagenliste bestand der Güterzug DGS 42506 aus 23 beladenen
+Containertragwagen. Der Güterzug ha e eine Gesamtlänge von 634 m und ein
+Gesamtzuggewicht von 1.589 t. Es waren 99 Bremshundertstel, gegenüber den laut Fahrplan
+geforderten 72 Mindestbremshundertsteln, vorhanden. Die Trak on erfolgte durch ein
+elektrisch betriebenes Tfz der Baureihe 186 mit der Fahrzeugnummer 91 88 7186 214-2. Die
+untenstehende Tabelle enthält die betrieblichen Angaben zum Güterzug DGS 42506.
+Zugnummer
+
+42506
+
+Zugga ung
+
+DGS
+
+Laufweg (von / nach)
+
+Germersheim
+
+Antwerpen Zuid
+
+Bremshundertstel (tatsächlich / Mbrh)
+
+99
+
+72
+
+Bremsstellung (tatsächlich / gefordert)
+
+G
+
+G
+
+Tabelle 15: Betriebliche Angaben zur Zugfahrt DGS 42506
+
+Die Daten der Elektronischen Fahrtenregistrierung (EFR) wurden gesichert und durch die BEU
+ausgewertet. Die Auswertung ergab, dass die Geschwindigkeit des DGS 42506 zum
+Kollisionszeitpunkt ca. 89 km/h betrug, was der zulässigen Fahrplangeschwindigkeit des
+Güterzuges entsprach.
+DGV 34156
+Entsprechend der Angaben aus dem Bremsze el und der Wagenliste bestand der Güterzug
+DGV 34156 des EVU Schweerbau GmbH &Co. KG aus zwei beladenen, oﬀenen
+Schü gutwagen der Ga ungen Facs/Facns und einem Tfz Vossloh G 6, Baureihe 0650. Der
+Güterzug ha e eine Gesamtlänge von 46 m und verfügte über 85 Bremshundertstel bei einem
+Gesamtzuggewicht von 206 t. Die untenstehende Tabelle enthält die betrieblichen Angaben
+zur Zugfahrt.
+
+Seite 38 von 59
+
+Untersuchungsbericht
+Zugkollision, 22.11.2024, Bf Dorsfeld
+
+Zugnummer
+
+34156
+
+Zugga ung
+
+DGV
+
+Laufweg (von / nach)
+
+Köln-Kalk Nord
+
+Dorsfeld
+
+Bremshundertstel (tatsächlich / Mbrh)
+
+85
+
+48
+
+Bremsstellung (tatsächlich / gefordert)
+
+P
+
+P
+
+Tabelle 16: Betriebliche Angaben zur Zugfahrt DGV 34156
+
+Der Bauzug DGV 34156 befand sich lt. EFR-Auswertung seit 23:11 Uhr stehend im Gleis 2, etwa
+350 m vor dem Asig 30N2. Eine Meldung über die Einfahrt in das Gleis 2 im Rahmen der
+Baumaßnahme ha e der Tf zuvor an die Fdl-in Horrem I über GSM-R abgegeben. Der Bauzug
+sollte um 01:46 Uhr als DGV 34361 von Dorsfeld zurück nach Köln-Kalk Nord fahren. Die
+zugehörige Fplo war vorhanden.
+Durch die Kollision wurde um 01:08 Uhr [red. Anmerkung: Zeit der Datenspeicherkasse e mit
+Abweichung von der Realzeit] ein Vorschub des Tfz um ca. 200 m registriert.
+Zusammenfassung aus der Untersuchung der betrieblichen Abläufe der EVU
+Die Untersuchungen ergaben, dass die Betriebsführung der am Ereignis beteiligten EVU keine
+ereignisrelevanten Faktoren darstellte. Weitergehende Untersuchungen wurden daher nicht
+durchgeführt.
+
+4.2 Fahrzeuge und technische Einrichtungen
+In diesem Kapitel sind die Erkenntnisse aus der Untersuchung beteiligter Fahrzeuge, der
+Eisenbahninfrastruktur und weiterer technischer Einrichtungen einschließlich damit eventuell
+verbundener Tä gkeiten und Entscheidungen dargestellt.
+4.2.1 Beteiligte Fahrzeuge
+Führendes Fahrzeug des DGS 42506 war eine Mehrsystem-Lokomo ve des Herstellers
+Bombardier Transporta on (Alstom). Halter des Tfz war Alpha Trains Luxembourg S.à r.l. Die
+folgende Tabelle gibt einen Überblick der technischen Daten des beteiligten Tfz.
+Hersteller
+
+Bombardier Transporta on/Alstom
+
+Halter
+
+Alpha Trains Luxembourg S.à r.l.
+
+Für die Instandhaltung zuständige Stelle
+
+Bombardier Transporta on Belgium nv
+
+Antriebsart
+
+elektrisch
+
+Seite 39 von 59
+
+Untersuchungsbericht
+Zugkollision, 22.11.2024, Bf Dorsfeld
+
+Leistung
+
+5.600 kW
+
+Gesamtlänge (LüP)
+
+18,90 m
+
+Masse
+
+84 t
+
+Höchstgeschwindigkeit
+
+140 km/h
+
+Radsatzfolge
+
+Bo’Bo‘
+
+Tabelle 17: Technische Daten Tfz 91 88 7186 214-2
+
+Seitens des EVU Schweerbau GmbH & Co. KG kam ein Tfz Vossloh G 6, Baureihe 0650, zum
+Einsatz. Die untenstehende Tabelle enthält die technischen Daten dieses Tfz.
+Hersteller
+
+Vossloh Kiel (MAK)
+
+Halter
+
+Schweerbau GmbH & Co. KG
+
+Für die Instandhaltung zuständige Stelle
+
+Schweerbau GmbH & Co. KG
+
+Antriebsart
+
+Diesel
+
+Leistung
+
+671 kW
+
+Gesamtlänge (LüP)
+
+10,35 m
+
+Masse
+
+60 t
+
+Höchstgeschwindigkeit
+
+40/80 km/h
+
+Radsatzfolge
+
+C
+
+Tabelle 18: Technische Daten Tfz 98 80 0650 103-1
+
+Die Untersuchungen ergaben, dass die an den Tfz entstandenen Schäden eine Folge des
+Ereignisses waren. Ein ursächlicher oder beitragender Faktor ist den Gegebenheiten der
+beteiligten Eisenbahnfahrzeuge nicht zuzuschreiben. Weitere Untersuchungen wurden aus
+diesem Grund nicht durchgeführt.
+4.2.2 Untersuchung der bautechnischen Infrastruktur
+Die Untersuchungen ergaben, dass die an Infrastruktur im Bf Dorsfeld entstandenen Schäden
+eine Folge des Ereignisses waren. Einen ursächlichen oder beitragenden Faktor stellte die
+bautechnische Infrastruktur, bezogen auf das Ereignis, nicht dar. Weitere Untersuchungen
+wurden aus diesem Grund nicht durchgeführt.
+
+Seite 40 von 59
+
+Untersuchungsbericht
+Zugkollision, 22.11.2024, Bf Dorsfeld
+
+4.2.3 Untersuchung der Leit‐ und Sicherungstechnik
+Im gesamten Zuständigkeitsbereich des Fdl Horrem I bestanden die selbs ä gen
+Gleisfreimeldeanlagen aus Achszählkreisen. Gleisfreimeldetechnik, die auf Achszähltechnik
+basiert, detek ert Zugfahrten, in dem die Achsen der Züge in einen Abschni ein- und wieder
+ausgezählt werden. Durch eine Auswertebaugruppe wird diese erhobene Informa on
+verarbeitet und dem Fdl stellwerkssei g als Informa on über den Belegungszustand eines
+Gleises op sch angezeigt.
+Erschwerte Achszählgrundstellung
+Die Bedienung der Achszählgrundstellung (AZG) ist eine zähl- und nachweispflich ge
+Hilfsbedienhandlung, mit der Achszählkreise nach Störungen wieder in die Grundstellung
+gebracht werden können. Die sogenannte erschwerte Achszählgrundstellung bedeutet, dass
+ein als belegt angezeigter Gleisfreimeldeabschni nur dann in Grundstellung gebracht werden
+kann, wenn die letzte Zählung im Gleisfreimeldeabschni eine Auszählung war. Dies dient
+dem Schutzziel, dass eine in einen Abschni nur eingezählte Fahrt nicht durch den Bediener
+„gelöscht“ werden kann. Durch das anlagensei ge Auszählen der Achsen der zuvor in Richtung
+Horrem ausgefahrenen Stopfmaschine als Zugfahrt 24146 war die Bedienung der
+Achszählgrundstellung durch die Fdl-in Horrem I für den Gleisabschni
+
+30G22, Gleis 2 Bf
+
+Dorsfeld, demnach technisch möglich. Die Fdl-in konnte durch die Bedienung der
+Achszählgrundstellung eine Grundstellung der Anlage herstellen. In der Folge war es der Fdlin möglich, eine reguläre Einfahrzugstraße in das Gleis 2 des Bf Dorsfeld einzustellen, da der
+Gleisabschni in der Stellwerksanlage als frei registriert war, obwohl er tatsächlich noch durch
+die Fahrzeuge des zur Ausfahrt verbliebenen Bauzuges DGV 34361 besetzt war.
+Im Rahmen der Ereignisrekonstruk on wurden keine Sachverhalte festgestellt, die einen
+ereignisrelevanten Faktor im Zusammenhang mit der betriebenen Leit- und Sicherungstechnik
+darstellten.
+
+Seite 41 von 59
+
+Untersuchungsbericht
+Zugkollision, 22.11.2024, Bf Dorsfeld
+
+4.3 Menschliche Faktoren
+In diesem Kapitel werden Untersuchungserkenntnisse zu menschlichen Handlungen und/oder
+Entscheidungen am gefährlichen Ereignis beteiligter Personen dargestellt. Entsprechende
+Erkenntnisse können sich hierbei insbesondere im Bereich menschlicher und individueller
+Merkmale sowie organisatorischer und Arbeitsplatzfaktoren ergeben.
+4.3.1 Beteiligte des Infrastrukturbetreibers
+Qualifika on der Fdl‐in
+Die Fdl-in schloss ihre staatlich anerkannte Ausbildung zur Eisenbahnerin im Betriebsdienst Fachrichtung Fahrweg- am 03.02.2023 ab. Mit Nachweis 482.0046V02 wurde seitens des EIU
+am 22.03.2023 die Kenntnisse und Fer gkeiten als zuständige Fdl-in auf der Betriebsstelle „BZ
+Duisburg, Steuerbezirk Ehrenfeld, Arbeitsplatz özf Ehrenfeld“ festgestellt. Am 20.02.2024
+erlangte sie die Kenntnisse und Fer gkeiten für Bediener von Signalanlagen gemäß
+Ril 482.0046V02 für die Betriebsstelle Horrem. Diese Feststellung basierte auf einer zuvor
+erfolgreich durchgeführten Prüfung zu den Themenbereichen Signalanlagen und sons ge
+Einrichtungen der Betriebsstelle, Beschreibung der Örtlichkeit, Regelwerk, fahrdienstliche
+Unterlagen und Arbeitsmi el und sons ge örtlich relevante Prüfinhalte. Mit diesem Nachweis
+wurde seitens des EIU bestä gt, dass die Fdl-in für die Anforderungen des Bedienplatzes
+Horrem befähigt war.
+Die Nachweise über die in den Jahren 2023 und 2024 durchgeführten Fortbildungen mit
+Inhalten gemäß Themenkatalog Ril 046.2002A05 in Form von Praxistraining wurden der BEU
+ebenfalls vorgelegt.
+Die Fdl-in war gemäß Ril 412.9111 Abschni 4 Abs. 3 der Funk onsstufe „A“ mit betrieblicher
+Komplexität „a“ zugeordnet.
+Aus dieser Zuordnung resul erte, dass die Überwachungshäufigkeit durch eine sogenannte
+Betriebskontrolle am Arbeitsplatz eines Fdl im Stellwerk Köln-Ehrenfeld durch das EIU gemäß
+Ril 412.9111 Abschni 4 Abs. 5 auf acht Überwachungen pro Jahr festgelegt wurde. Als
+Betriebskontrolle wurde laut Ril 412.9111 Abschni 2 Abs. 4 die direkte Überwachung der
+Mitarbeiter oder das Training an einer Simula onsanlage im Rahmen der Fortbildung
+definiert. Bei der direkten Überwachung sollen u. a. die Handlungen des Stellwerkspersonals,
+die Einträge in betrieblichen Unterlagen und das Fachwissen mi els Durchführung von
+Lehrgesprächen durch eine Aufsicht führende Person überprü werden.
+
+Seite 42 von 59
+
+Untersuchungsbericht
+Zugkollision, 22.11.2024, Bf Dorsfeld
+
+Im Jahr 2023 wurden neun Betriebskontrollen durch einen Bezirksleiter Betrieb durchgeführt.
+Entsprechend der Vorgabe aus Ril 412.9111 Abschni 5 Abs. 2 wurden im Kalenderjahr 2023
+mindestens zwei der Betriebskontrollen als besondere Betriebskontrollen, das heißt am
+Wochenende, außerhalb der gewöhnlichen Arbeitszeit oder in der Situa on der
+Abweichungen vom Regelbetrieb, durchgeführt. Für das Jahr 2024 konnten durch das EIU die
+Durchführung von neun Betriebskontrollen durch Vorlage der zugehörigen Protokolle
+nachgewiesen werden, darunter zwei besondere Betriebskontrolle.
+Aus den in diesem Kapitel getroﬀenen Feststellungen zu Ausbildung, Training und
+Überwachung der Fdl-in resul erte, dass das EIU die gemäß Ril 412.9111 Abschni 4 Abs. 5
+geforderte Anzahl an Betriebskontrollen der Fdl-in für die Kalenderjahre 2023 und 2024
+belegen konnte. Die gemäß Ril 412.9111 Abschni 4 Abs. 5 jährlich im Unternehmen
+vorgeschriebene Anzahl an Überwachungen der Fdl-in war quan ta v für die Kalenderjahre
+2023 und 2024 erfüllt. Das EIU teilte der BEU anhand vorgelegter Nachweise mit, dass bei den
+übrigen, vor dem Ereignis sta gefundenen Überwachungen gemäß Ril 412.9111 (4) keine
+Auﬀälligkeiten bei der Nachweisführung, den durchgeführten Handlungen oder den
+zählpflich gen Hilfsbedienhandlungen der Fdl-in festgestellt wurden. Ebenso war der gemäß
+Ril 481.0205Z01 einmal jährlich durchzuführende Nothaltau rag in den vorgelegten
+Protokollen als Pflich hema nachgewiesen.
+Die letzte Betriebskontrolle der Fdl-in vor dem Ereignis wurde am 30.10.2024 ebenfalls ohne
+Beanstandungen durchgeführt.
+Handlungen der Fdl‐in
+Die Auswertung der GSM-R Gespräche erweckten den Eindruck, dass die Fdl-in mit den
+geplanten Abläufen der Betra nicht ausreichend vertraut war. Über GSM-R schilderte der
+Technisch Berech gte sehr detailliert, wie die Arbeiten ablaufen sollten – ein
+Zusammenhangswissen und eine Transferleistung, die sich die Fdl-in im Vorfeld selbstständig
+aus der Betra hä e aneignen müssen. Dieses Vorgehen wird seitens des EIU einhergehend mit
+der Befähigung eines Fdl für einen Bedienplatz vorausgesetzt, denn eine schri liche
+Unterweisung von Betriebspersonalen war gemäß Ril 406.1201 Abschni 5 Abs. 7 nur in
+Einzelfallentscheidungen vorgesehen.
+Das Handeln der Fdl–in oﬀenbarte in Bezug auf den Übergang einer Zugfahrt in eine
+Rangierfahrt Arbeitsfehler und Verstöße gegen die Vorgaben der Regelungen aus
+
+Seite 43 von 59
+
+Untersuchungsbericht
+Zugkollision, 22.11.2024, Bf Dorsfeld
+
+Ril 408.0488 Abschni 2. Neben dem DGV 31565 ließ sie auch die Stopfmaschine als Zugfahrt
+91757 unerlaubterweise noch vor dem Erreichen des gewöhnlichen Halteplatzes am Esig 30A
+in eine Rangierfahrt für das gesperrte Gleis im Bf Dorsfeld übergehen. Beide
+Bedienhandlungen zogen Hilfsbedienhandlungen nach sich, waren zählpflich g und wären zu
+vermeiden gewesen. Die Analyse des Unfallgeschehens zeigte auch, dass die Fdl-in – zwecks
+Durchführung einer Abschni sprüfung nach Ausfahrt der Stopfmaschine und da ihr selbst der
+Belegungszustand des Gleises 2 unklar war – den BÜB zur Fahrwegprüfung mit einbezog. Die
+vorgeschriebene Nennung von Grenzen des zu prüfenden Bereichs unter Berücksich gung
+markanter Punkte unterließ die Fdl-in vollständig. Des Weiteren wurde in den zugehörigen
+GSM-R Gesprächen die Sprechdisziplin nicht ausreichend beachtet. Um 20:30 Uhr führte die
+Fdl-in zudem das Zurücksetzen eines ICE nicht regelkonform gemäß den Vorgaben der Ril 408
+durch.
+Die untenstehende Tabelle enthält eine Übersicht der oben beschriebenen Vorkommnisse.
+Handlung / Unterlassen /
+Umstand / Vorkommnis
+
+Sicherheitsaspekt
+
+Um 20:30 Uhr wurde durch die Fdlin Horrem I an den Tf des ICE 10
+aufgrund der Weichenstörung in
+Düren ein schri licher Befehl zum
+Zurücksetzen des Zuges nach
+Horrem übermi elt. Der Befehl
+wurde übermi elt, obwohl die
+Voraussetzungen zum
+Zurücksetzen dieses Zuges nicht
+erfüllt waren.
+
+Gemäß Ril 408.0572 waren:
+- beim Zurücksetzen Merkhinweise „RP“ nach
+Ril 408.0402 Nummer 2 und Sperre nach
+Ril 408.0403 Nummer 8 anzubringen bzw.
+einzugeben
+- Selbststellbetrieb/Zuglenkung auszuschalten
+- Sperre nach Ril 408.0403 Nummer 7 anzubringen
+- Dokumenta onen im Zugmeldebuch gem. Ril
+408.0203 über Nachweise/Sperrungen vorzunehmen
+
+Einhaltung der Sprechdisziplin
+gemäß Ril 481.0205 Abschni 6 (2)
+
+Die GSM-R Gespräche entsprachen überwiegend
+nicht der durch das EIU geforderten Sprechdisziplin.
+Diese Feststellung bezog sich sowohl auf die Fdl-in
+Horrem I als auch auf den BÜB in der Funk on des
+Technisch Berech gten während der Dauer der
+Betra und darüber hinaus. So wurden Gespräche
+u. a. nicht unter Nennung der Funk on oder
+Betriebsstelle eingeleitet und die Gespräche
+bestanden o mals nicht aus kurzen und präzisen
+Sätzen. Dies kann sicherheitsrelevante
+Missverständnisse erzeugen.
+
+Diese obligatorischen Handlungen wurden durch die
+Fdl-in Horrem I nicht durchgeführt.
+
+Es wird auf die Sicherheitsempfehlung Nr. 10/2018
+der BEU verwiesen:
+
+Seite 44 von 59
+
+Untersuchungsbericht
+Zugkollision, 22.11.2024, Bf Dorsfeld
+
+„Die Einhaltung vorgeschriebener Wortlaute im
+Rahmen von Meldungen und Au rägen und die
+Wahrung einer generellen Fernsprechdisziplin
+sollten noch stärker in das Bewusstsein der
+Beteiligten gerückt werden und durch Auswertung
+aufgezeichneter GSM-R-Gespräche regelmäßig
+geprü werden.“
+Handlungssicherheit zu Vorgaben
+der Betra
+
+Eine schri liche Unterweisung in den Vorgaben der
+Betra war gemäß Ril 406.1201 Abschni 5 Abs. 7
+durch Einzelfallentscheidung durch den Leiter
+Betrieb Netz/Fahrdienst BZ zu treﬀen und für die
+Fdl-in nicht vorgesehen. Die beteiligten
+Fahrdienstleiter der Betriebsstelle sollten sich im
+Regelfall nach der Vorlage einer Betra auf dem
+Stellwerk selbstständig mit deren Inhalten
+beschä igen. Das Selbststudium wurde nicht
+überprü . Der vorliegende Fall zeigt den Eintri
+eines erheblich geringen Lernerfolgs.
+
+Übergang einer Zugfahrt in eine
+Rangierfahrt
+
+Beim Übergang der an der Betra beteiligten
+Zugfahrten wurden die Regelungen aus Ril 408.0488
+Abschni 2 nicht beachtet.
+
+Tabelle 19: Festgestellte Defizite bei Durchführung betrieblicher Handlungen
+
+Organisatorische‐ und Arbeitsplatzfaktoren
+Für die Fdl-in wirkte sich erschwerend aus, dass sich ihr Arbeitsplatz nicht vor Ort im Bf
+Dorsfeld befand. Dadurch standen der Fdl-in ausschließlich die Informa onen zur Verfügung,
+die durch die Gleisfreimeldeanlage angezeigt wurden und die als Teil der sicheren Anzeige
+ausgewertet werden dur en. Sie musste während und auch nach dem Ende der Arbeiten
+gemäß Betra auf die Meldungen des Technisch Berech gten über GSM-R vertrauen, da sie
+selbst den Bf nicht einsehen konnte. Zusätzlich ist festzuhalten, dass bei ESTW die Stellbezirke
+tendenziell größer ausgelegt sind, wodurch insbesondere in außergewöhnlichen
+Betriebssitua onen eine erhöhte Arbeitsbelastung für das Betriebspersonal entsteht. In der
+Ereignisnacht lag zusätzlich zu den Arbeiten gemäß Betra eine unvorhergesehene Störung der
+Weiche 27W5 im Bf Düren vor. Dies betraf zusätzlich die Fdl-in für den Stellbereich Horrem I.
+Bedingt durch diese Störung mussten Zugfahrten von Dorsfeld in Richtung Düren mi els
+Gleiswechselbetrieb im Gegengleis abgewickelt werden. Dieses Verfahren führte zu einer
+Leistungseinschränkung der Infrastruktur und erforderte von der Fdl-in erhöhte
+Aufmerksamkeit und betriebliche Gespräche mit anderen Beteiligten.
+
+Seite 45 von 59
+
+Untersuchungsbericht
+Zugkollision, 22.11.2024, Bf Dorsfeld
+
+Zusätzlich wurden um 20:31 Uhr die Arbeiten gemäß Betra Nr. F35 6634 24 durch den
+Technisch Berech gten angemeldet. Die Anmeldung der Betra bedeutete für die Fdl-in
+weitere, temporäre Einschränkungen der Infrastruktur im Bf Dorsfeld. Im Rahmen von
+Arbeiten werden o mals eine Vielzahl an, teils disposi ven, GSM-R Gesprächen mit dem
+zuständigen Technisch Berech gten geführt. Dies hat zur Folge, dass ein Fdl im Rahmen von
+Arbeiten gemäß Betra phasenweise stärker belastet wird. Die Anforderungen an die sichere
+Abwicklung des Bahnbetriebs steigen in der Folge an, da neben der Durchführung des
+Bahnbetriebs noch betriebliche Meldungen, Gleissperrungen oder Rangierfahrten
+abgewickelt werden müssen, bevor wieder in den Regelbetrieb zurückgegangen wird.
+Das EIU teilte mit, dass die Bewertung der Belastung gemäß Prozess R.01.02.10.02 mit dem
+Verfahren Stern-E sowie gemäß Ril 406.1103 4 (4) im Rahmen der Mitwirkung zum BetraAntrag erfolgte. Eine übermäßige Belastung durch die Betra-Arbeiten war gemäß dieser
+Bewertung in der Ereignisnacht jedoch nicht gegeben.
+4.3.2 Qualifikation und Handlungen des BÜB
+Das au ragnehmende Ingenieurbüro des EIU verfügte über eine gül ge Präqualifizierung als
+Au ragnehmer des EIU mit Gül gkeit bis zum 20.01.2025. Diese Präqualifizierung wurde mit
+Auflagen, siehe Kapitel 4.4.2, erteilt und erstreckte sich über die Leistungen „Bauüberwacher
+Bahn Oberbau/Konstruk ver Ingenieurbau sowie Fachbauüberwacher Oberbau“.
+Gemäß Befähigungsausweis, ausgestellt am 02.01.2015 durch die DB InfraGO AG, war der
+eingesetzte BÜB für das Fachgebiet Oberbau/Konstruk ver Ingenieurbau befähigt. Darüber
+hinaus dur e er die Funk on „Technisch Berech gter“ gemäß Ril 406.1201 wahrnehmen und
+war zur Ausübung der Funk on Betra-Antragsteller gemäß Ril 406.1201 befugt. Zudem dur e
+er auch die Aufgaben der Sicherungsüberwachung gemäß Ril 132.0118 ausüben. Die
+Durchführung seiner Ausbildung, weiterer erworbener Befähigungen sowie die Teilnahme an
+regelmäßigen Fortbildungen und die medizinische Tauglichkeit waren in seinem
+Befähigungsausweis
+
+dokumen ert.
+
+Zuletzt
+
+ha e
+
+er
+
+am
+
+26.01.2024
+
+eine
+
+Fortbildungsveranstaltung besucht.
+Organisatorische‐ und Arbeitsplatzfaktoren
+Der BÜB war durch das EIU für seine Tä gkeit bevollmäch gt und wurde am 30.08.2024
+seitens des EIU in die Örtlichkeit des Bf Dorsfeld und die bahnbetrieblichen Gegebenheiten
+eingewiesen. Am selben Datum wurde er seitens des EIU mit Aufgaben des
+
+Seite 46 von 59
+
+Untersuchungsbericht
+Zugkollision, 22.11.2024, Bf Dorsfeld
+
+Anlagenverantwortlichen für Arbeiten an oder in der Nähe von ak ven Teilen der
+Oberleitungsanlage beau ragt. Demzufolge war er auf seinem für die Dauer der Arbeiten
+gemäß Betra definierten Arbeitsplatz eingewiesen und ortskundig.
+Das Treﬀen einer Feststellung über das Freisein eines Gleisabschni s war ein Teil seiner
+gemäß Ril 406.1201 vorhandenen Qualifika on, die Funk on des Technisch Berech gten
+ausüben zu dürfen. So obliegt es einem BÜB in der Funk on eines Technisch Berech gten
+regelmäßig, z. B. nach Baugleiszuständen, eine Aussage über das Freisein und die
+Befahrbarkeit von zuvor gesperrten Bereichen an den zuständigen Fdl abzugeben. Vor diesem
+Hintergrund kann davon ausgegangen werden, dass dem BÜB die Anfrage der Fdl-in Horrem I
+geläufig war und er diese, trotz des unpräzise formulierten Anliegens der Fdl-in, in der
+Örtlichkeit umzusetzen wusste. Es ist anzunehmen, dass dem Mitarbeiter die hohe
+Sicherheitsbedeutung einer Meldung über das Freisein von Gleisabschni en an den
+zuständigen Fdl grundsätzlich bekannt war.
+Trotz der in der Nacht des Ereignisses vorliegenden Umstände wie einsetzender Schneeregen
+wäre es dem BÜB, beispielsweise durch ein Ablaufen des Gleises 2, möglich gewesen eine
+Prüfung auf Freisein ausführlich durchzuführen.
+4.3.3 Beteiligte der EVU
+Die beteiligten Tf beider am Ereignis beteiligter EVU verfügten über die erforderlichen
+Qualifika onen, u. a. gemäß Triebfahrzeugführerscheinverordnung, die sie zur Durchführung
+der Zugfahrten befähigten. Zugehörige Nachweisdokumente wurden durch die beteiligten
+EVU vorgelegt. Auf weitergehende Untersuchungen konnte aufgrund des Ereignishergangs
+verzichtet werden.
+
+4.4 Feedback‐ und Kontrollmechanismen
+In diesem Kapitel wird insbesondere auf Bedingungen, Feedback- und Kontrollmechanismen
+im Eisenbahnsystem eingegangen, denen ein ak ver Einfluss auf die Entstehung ähnlicher
+Ereignisse zugeschrieben werden könnte. Diese Mechanismen schließen Faktoren des Risikound Sicherheitsmanagement sowie Überwachungsverfahren mit ein.
+
+Seite 47 von 59
+
+Untersuchungsbericht
+Zugkollision, 22.11.2024, Bf Dorsfeld
+
+4.4.1 SMS des EIU
+Untersuchung des Ereignisses
+Dem EIU war gemäß Delegierter Verordnung (EU) 2018/762, Anhang II, Kriterium 6.3.1.
+Buchstabe c) ii) auferlegt, die Wirksamkeit des SMS u. a. auf der Grundlage von internen
+Untersuchungen von Unfällen hin überprüfen und gemäß Kriterium 7.1.3. Lehren aus diesen
+ziehen. Diese Durchführung der Unfalluntersuchung ha e das EIU in der Arbeitsanweisung
+„M.01.05.03 AA Gefährliche Ereignisse im Eisenbahnbetrieb untersuchen“ festgelegt, welche
+ein Teil des zugehörigen Prozess M.01.05.03 zur Untersuchung gefährlicher Ereignisse war.
+Die DB InfraGO AG führte nach dem Ereignis eigene Untersuchungen durch, die in einem
+bisher nur vorläufigen Untersuchungsbericht an die BEU übermi elt wurden. Die Ergebnisse
+der Untersuchung eines möglichen Einflusses menschlicher und organisatorischer Faktoren
+analog zu Verordnung (EU) 2018/762 Kap. 4.6 auf das Ereignis blieben oﬀen. Eine den
+Untersuchungen der BEU gleichwer g efgründige Betrachtung des Betriebsgeschehens samt
+zugrundeliegender Handlungen und Plausibilität von Regelwerksvorgaben war hierin nicht zu
+finden. Der zum Zeitpunkt der Berichterstellung vorläufige Bericht des EIU enthielt noch keine
+Schlussfolgerungen zu Ursachen und Maßnahmen, die durch das EIU abgeleitet wurden. Die
+Durchführung eines gemäß o. g. Prozesses des EIU obligatorischen, dokumen erten,
+Sicherheitsgesprächs zwischen Verantwortlichen des EIU und der Fdl-in war zum Zeitpunkt der
+Berichterstellung nicht nachweislich durchgeführt worden. Die DB InfraGO AG teilte mit, dass
+das Sicherheitsgespräch ein Instrument der Ereignisaufarbeitung sei, welches erst nach
+Abschluss der vorhergehenden Untersuchungsschri e eingeleitet und umgesetzt werden
+könne.
+Die Fachstelle Bauüberwachung der DB InfraGO AG sprach eine Tä gkeitsuntersagung für den
+BÜB aus. Darüber hinaus wurden der BEU keine diﬀerenzierte Betrachtung des Ereignisses
+durch das EIU oder von ihm abgeleitete Lehren oder Verbesserungen aus der Untersuchung
+der Zugkollision bekannt.
+Die Dienstschicht der Fdl-in wurde erst gegen 02:30 Uhr beendet. Die Fdl-in verrichtete noch
+knapp 1,5 Std. ihren Dienst auf dem Bedienplatz, führte Bedienhandlungen durch und
+betriebliche Funkgespräche. Die Beendigung und Ablösung der Fdl-in erfolgte entgegen den
+Angaben des EIU gegenüber der BEU mit zeitlicher Verzögerung und entsprach nicht dem
+üblichen Prozess.
+
+Seite 48 von 59
+
+Untersuchungsbericht
+Zugkollision, 22.11.2024, Bf Dorsfeld
+
+4.4.2 Überwachung Stellwerkspersonal
+Entsprechend Verordnung (EU) 2018/762 Anhang II Kap. 6.1.2 muss eine Organisa on die
+Erfüllung sicherheitsrelevanter Aufgaben überwachen. Mangelnde Überwachung kann dazu
+führen, dass entgegen vorgenannter Verordnung Anhang II Punkt 4.3 das Bewusstsein für die
+korrekte
+
+Anwendung
+
+von
+
+Arbeitsvorgaben
+
+schwindet
+
+und
+
+das
+
+Risiko
+
+nicht
+
+vorschri engerechten Handelns steigt. Gemäß Kap. 2.1.1e) i. V. m. Kap. 2.3.2 vorgenannter
+Verordnung müssen hierfür die notwendigen Ressourcen zur Verfügung gestellt werden.
+Entsprechend Verordnung (EU) 2018/762 Anhang II Punkt 4.2.1 sind Mitarbeitern mit
+sicherheitsrelevanten Aufgaben die notwendigen Kompetenzen zu vermi eln. Diese sind
+gemäß Punkt 4.2.1 der Verordnung vorab im SMS zu definieren, sowie ihr Vorliegen zu
+bewerten und ihre Erhaltung ist dauerha sicherzustellen. Ergänzend ist gemäß Punkt 4.2.2
+regelmäßig und nachweislich zu schulen. Dies bedeutet auch, dass die Kenntnisse ausreichend
+vor
+
+Zuweisung
+
+einer
+
+Tä gkeit
+
+vorliegen
+
+müssen.
+
+Gemäß
+
+§ 54 Abs. 1 EBO
+
+sind
+
+Betriebsbeamten die Kenntnisse und Fer gkeiten zu vermi eln, die sie zur ordnungsgemäßen
+Ausübung ihres Dienstes befähigen. Gemäß§ 54 Abs. 2 EBO haben sich die Eisenbahnen durch
+Prüfungen oder in sonst geeigneter Weise vor dem Einsatz vom Vorhandensein der
+geforderten Kenntnisse und Fer gkeiten zu überzeugen.
+In Bezug auf die Durchführung der regelmäßigen Betriebskontrollen der Fdl-in wurde deutlich,
+dass seitens des EIU die Nachweise gemäß Ril 412.9111 bezüglich der quan ta v zu
+erbringenden Anzahl an Betriebskontrollen für die Kalenderjahre 2023 und 2024 vorgelegt
+werden konnten. Die Nachweise enthielten keinerlei Auﬀälligkeiten in Bezug auf die
+wiederholt und ausführlich begleitete Dienstausübung der Fdl-in seitens der überprüfenden
+Stelle. Dem gegenüber stehen die in diesem Untersuchungsbericht festgestellten
+Unsicherheiten und Fehlhandlungen der Fdl-in, welche eine ca. fünfstündige Dienstausübung
+betreﬀen, siehe Kapitel 4.1.1 und Kapitel 4.3.1.
+4.4.3 Aufsichtsführung
+Entsprechend Verordnung (EU) 2018/762 Anhang II Punkt 4.3 ist innerhalb einer Organisa on
+sicherzustellen, dass die mit sicherheitsrelevanten Aufgaben betrauten Mitarbeiter sich der
+Relevanz, Bedeutung und Folgen ihrer Tä gkeit bewusst sind. Gemäß Punkt 5.1.6
+vorgenannter Verordnung muss Arbeitsanweisungen Folge geleistet werden. Die Erfüllung
+
+Seite 49 von 59
+
+Untersuchungsbericht
+Zugkollision, 22.11.2024, Bf Dorsfeld
+
+sicherheitsrelevanter Aufgaben muss gemäß Punkt 6.1.2 überwacht und eingegriﬀen werden,
+wenn diese Aufgaben nicht ordnungsgemäß erfüllt werden.
+Für den zum Ereigniszeitpunkt für das Stellwerk Köln-Ehrenfeld verantwortlichen Bezirksleiter
+Betrieb wurden Qualifika onsunterlagen über die Funk onsausbildung und Prüfung gemäß
+Ril 046.2841 zum Bezirksleiter Betrieb zur Einsichtnahme angefordert.
+Bezirksleiter
+
+Betrieb
+
+unterliegen
+
+der
+
+Überwachung
+
+durch
+
+den
+
+zuständigen
+
+Arbeitsgebietsleiter. Die DB InfraGO AG teilte in Bezug auf durchgeführte Überwachungen des
+zuständigen Bezirksleiters Betrieb mit, dass die durchgeführten Überwachungen gemäß
+Prozess L.02.02 durchgeführt wurden. Nachweisdokumente über die Durchführung dieses
+Verfahrens wurden nach Aussage des EIU ausschließlich digital vorgehalten und konnten
+seitens des EIU nicht vorgelegt werden.
+4.4.4 Präqualifikationsverfahren Auftragnehmer
+Die Einkaufsrichtlinien der DB InfraGO AG legten die Anforderungen fest, die die
+Au ragnehmer zur Erbringung der vertraglich vereinbarten Bauleistung erfüllen mussten.
+Eine Präqualifizierung konnte für den BÜB als sogenannte „Präqualifika on mit Auflagen“ mit
+Gül gkeit bis zum 20.01.2025 nachgewiesen werden. Die Erteilung einer „Präqualifika on mit
+Auflagen“ war im Kapitel 6.8 Buchstabe E der Verfahrensregeln zum Präqualifika onssystem
+der Deutschen Bahn AG beschrieben, welches auch für Au ragnehmerverhältnisse des EIU zur
+Anwendung kommt.
+„[…] Alle Unternehmen, die in der Kategorie Bauüberwachung einen Antrag auf
+Präqualifizierung stellen und noch keine gül ge Präqualifika on in der beantragten
+Warengruppe besitzen, erhalten nach erfolgreichem Durchlaufen des Verfahrens eine
+Präqualifika on „mit Auflagen. […]“14
+Diese Voraussetzungen waren für das Au ragnehmerverhältnis des vom EIU eingesetzten BÜB
+gegeben.
+Zur Ablösung dieser Präqualifika on mit Auflagen mussten gemäß den Verfahrensregeln zum
+Präqualifika onssystem der Deutschen Bahn AG
+
+14
+
+Auszug Präqualifikationssystem Kap. 6.8 E
+
+Seite 50 von 59
+
+Untersuchungsbericht
+Zugkollision, 22.11.2024, Bf Dorsfeld
+
+„mindestens 2 Referenzen als Nachweise der Beurteilung seiner Fachkunde in der
+jeweiligen Warengruppe nach Pkt. 6 Bst. A (1) von dem Antragsteller eingereicht
+werden.“
+Um die Präqualifika on aufrecht zu erhalten, musste das au ragnehmende Ingenieurbüro die
+Requalifika on (Verlängerung der bestehenden Präqualifika on) spätestens bis zum
+20.01.2025 beantragen.
+
+Seite 51 von 59
+
+Untersuchungsbericht
+Zugkollision, 22.11.2024, Bf Dorsfeld
+
+4.5 Frühere Ereignisse ähnlicher Art
+Der BEU sind aus der Vergangenheit ähnlich gelagerte Fälle bekannt, bei denen Mitarbeiter
+mit Aufgaben der Fahrwegprüfung beau ragt wurden oder beau ragte Mitarbeiter die
+Feststellung über das Freisein von Gleisen nicht ordnungsgemäß trafen. Die nachfolgende
+Aufzählung ist nicht als abschließend anzusehen.
+ Am 31.05.2017 war der Achszähler der Weiche 25 im Bf Groß Gleidingen gestört, dies
+wurde dem Fdl durch eine Rotausleuchtung angezeigt. Der Fdl beau ragte den Tf des
+Zuges 89243, bei der Fahrwegprüfung mitzuwirken. Nach dem Bekanntwerden dieser
+Handlungen beim EBA erging am 17.08.2017 ein Bescheid (Gz.: 58413-554aüb/0593400#091) in dessen Folge die Ril 408.0232 Abschni 2 Abs. 1 geändert wurde. Die
+Feststellung, dass der Fahrweg frei von Fahrzeugen ist, dur e seitdem nur noch von
+entsprechend
+
+qualifizierten,
+
+geprü en
+
+und
+
+eingewiesenen
+
+Mitarbeitern
+
+im
+
+Bahnbetrieb, im Sinne eines Betriebsbeamten nach § 47 EBO, getroﬀen werden. In der
+Umsetzung dieses Bescheides durch das EIU wurden u. a. Fachkrä e der Fachlinie
+Fahrbahn des EIU oder vom EIU beau ragte Helfer im Bahnbetrieb zu diesem
+Personenkreis bes mmt.
+ Am 19.10.2021 gegen 06:42 Uhr kollidierte der Güterzug GAG 68432 auf der Fahrt von
+Oberhausen West nach Flandersbach mit einer entlaufenen Fahrzeuggruppe, bestehend
+aus einem Eisenbahnkran und zwei Schutzwagen, auf der Weiche 01W3 des Bf
+Flandersbach. Nach Arbeiten gemäß Betra ha e der zuständige Technisch Berech gte
+alle Gleise des Bf Flandersbach mi els der Meldung „Frei und Befahrbar“
+fälschlicherweise an den zuständigen Fdl frei von Fahrzeugen und befahrbar gemeldet.
+Zum Zeitpunkt der Meldung befand sich die Fahrzeuggruppe noch in Gleis 3. Der Fdl
+dur e sich gemäß Ril 408.4851 Abschni 1 Abs. 5c) auf diese Aussage des Technisch
+Berech gten verlassen und stellte mi els Bedienung der Achszählgrundstellung wieder
+die Grundstellung der Gleisfreimeldeanlage im Bf Flandersbach her. Die erste Zugfahrt
+nach dem Ende der Betra-Arbeiten kollidierte mit der auf der Weiche 01W3 stehenden
+Fahrzeuggruppe.
+ Am 05.11.2021 gegen 18:10 Uhr wurde der Personenzug DPN 84270 in das mit dem
+Güterzug EZ 51746 besetzte Gleis 3 des Bf Neuburg (Donau) eingelassen. Die Einfahrt
+erfolgte durch Fahrtstellung des Esig A des Bf Neuburg (Donau). Der einfahrende Zug
+
+Seite 52 von 59
+
+Untersuchungsbericht
+Zugkollision, 22.11.2024, Bf Dorsfeld
+
+DPN 84270 kam ca. 50 m vor der Zugspitze des EZ 51746 zum Halten. Aufgrund
+we erbedingt schlechter Sichtbedingungen ha en Fdl und Weichenwärter zuvor das
+mi elbare Feststellen eingeführt. Bei der Dienstablösung und dem zugehörigen
+Übergabegespräch der Fdl wurde das noch vom EZ 51746 besetzte Gleis 3 durch die
+beteiligten Betriebspersonale verwechselt und dem Zug DPN 84270 die Einfahrt in das
+besetzte Gleis 3 gestellt.
+
+Bezüglich der Durchführung von Hilfsbedienhandlungen mi els der Nutzung der
+Achszählgrundstellung sind der BEU aus der Vergangenheit u. a. folgende Ereignisse bekannt.
+Auch diese Auflistung ist nicht abschließend.
+ Am 01.02.2017 gegen 22:54 Uhr fuhr der ICE 1522 in das durch DPN 32490 besetzte
+Gleis 507 des Bf Gruiten ein. Der zuständige Fdl ha e zuvor durch Bedienung der Taste
+AZG die Gleisfreimeldeeinrichtung des Gleises 507 wieder in Grundstellung gebracht.
+Dem Fdl war die entscheidende Sicherheitsinforma on nicht rechtzei g bekannt, sodass
+er keine Kenntnis von der geplanten Zugtrennung in Gruiten und dass Fahrzeuge im
+Gleis 507 verblieben ha e.
+Aus diesem Ereignis resul erte die Sicherheitsempfehlung Nr. 2017/04 der EisenbahnUntersuchungsstelle des Bundes:
+„Die Sicherheitsbehörde sollte das betriebliche Regelwerk der DB Netz AG hinsichtlich
+des Themas „Abschni sprüfung“ auf dessen Anwendungssicherheit überprüfen und
+ggf. auf Änderungen hinwirken, die etwaige Fehlinterpreta onen durch den Anwender
+möglichst ausschließen.“
+Das EIU änderte zur Verbesserung der Kontrolle von Risiken die zugrundeliegenden
+betrieblichen Verfahren. Die Richtlinie 408 wurde zum Dezember 2021 angepasst; das
+Verfahren der indirekten Fahrwegprüfung wurde vereinfacht und von der Meldung bei
+Abstellung auf alle Änderungen der Zugkonfigura on erweitert. Das EBA bewertete
+diese Änderung als ausreichend.
+
+
+Am 19.05.2022 ereignete sich zwischen dem Haltepunkt Altheim (Hess) und dem Bf
+Dieburg eine Zugkollision. Im Ereignisverlauf stellte der Fdl Dieburg u. a. schließlich die
+Grundstellung für den noch durch DGS 42174 unerkannt belegten Blockabschnitt
+
+Seite 53 von 59
+
+Untersuchungsbericht
+Zugkollision, 22.11.2024, Bf Dorsfeld
+
+mittels Bedienung der AZG wieder her. In der Folge befuhr der nachfolgende
+GAG 60101 den Blockabschnitt auf Signalstellung und kollidierte gegen 04:04 Uhr mit
+dem in diesem Blockabschnitt stehenden DGS 42174. Aus diesem Ereignis resultierte
+u. a. die Sicherheitsempfehlung Nr. 05/2023 der BEU:
+„Es wird empfohlen, die technischen Bedingungen zur Wirksamkeit der
+Bedienhandlung einer Achszählgrundstellung weiter zu entwickeln um hierdurch die
+Risiken aus erfolgreichen, unzei gen Bedienhandlungen weiter zu minimieren bzw.
+auszuschließen. Bis zur technischen Umsetzung und zur Minimierung eines
+potenziellen Schadensausmaßes wird empfohlen, kompensierende verfahrensbasierte
+Lösungen zu implemen eren.“
+Auf die Relevanz dieser Sicherheitsempfehlung wird im Kontext der Ergebnisse dieses
+Untersuchungsberichts erneut verwiesen.
+
+Seite 54 von 59
+
+Untersuchungsbericht
+Zugkollision, 22.11.2024, Bf Dorsfeld
+
+5 Schlussfolgerungen
+Das folgende Kapitel enthält eine Zusammenfassung der ermi elten ursächlichen,
+beitragenden und systemischen Faktoren. Zusätzlich sind zwei weitere Unterkapitel
+vorgesehen, um Informa onen zu bereits ergriﬀenen Maßnahmen und zu zusätzlichen
+Bemerkungen zu teilen.
+
+5.1 Zusammenfassung und Schlussfolgerung
+Es wurden drei ursächliche und ein systemischer Faktor mit Einfluss auf das Ereignis durch die
+BEU ermi elt. Diese im vorliegenden Untersuchungsbericht ermi elten Handlungen,
+Unterlassungen, Vorkommnisse oder Umstände führten zur Zugkollision im Bf Dorsfeld.
+Zu ursächlichem Faktor „Übersicht über Gleisbelegungen“ [F1]:
+Zusammenfassend ist festzustellen, dass für die Fdl-in Horrem I nach dem gemeldeten Ende
+der Arbeiten gemäß Betra keine Übersicht über die Gleisbelegung im Bf Dorsfeld bestand.
+Nach der Ausfahrt der Stopfmaschine als Zugfahrt 24146 in Richtung Horrem ging sie bzgl. der
+im Gleis 2 angezeigten Rotausleuchtung von einer fehlerha en Anzeige nach dem Ende der
+Arbeiten aus, da sie diese Rotausleuchtung keinem Zug zuordnen konnte. Sie ha e die
+Meldung des Tf der Rangierfahrt aus DGV 34156 um 23:09 Uhr nicht mehr präsent und auch
+nicht dokumen ert, dass diese Fahrzeuge in Gleis 2 verblieben, um später als Zugfahrt
+auszufahren. Ein Vermerken dieser Informa on, wie es bei ESTW-Arbeitsplätzen
+beispielsweise als Merktext in der Bedienanzeige erfolgen kann, hä e die Fdl-in in der
+Situa on unterstützt, um das Gleis bereits disposi v als besetzt zu berücksich gen und nicht
+für anstehende andere Zugfahrten zu verplanen. Ein Merktext wäre zwar alleine nicht
+aussagekrä ig genug gewesen, um eine spätere, sicherheitsrelevante Abschni sprüfung
+analog der Vorgaben der Ril 408 vollumfänglich durchführen zu können. Jedoch hä e sich
+damit eine Gleisbelegung nicht erst dann im Arbeitsprozess oﬀenbaren müssen, als nach
+disposi ven
+
+Entscheidungen
+
+anschließende
+
+sicherheitsrelevante
+
+Maßnahmen
+
+zur
+
+Fahrtdurchführung folgten.
+Durch die anschließende Ereigniske e kam es nach Zus mmung der Fdl-in für die Fahrt des
+Güterzuges DGS 42506 zur Nichteinhaltung des „Fundamental Opera onal Principle“ gem.
+Durchführungsverordnung (EU) 2023/1693, Anlage B/B1, FOP Nr. 1. Demnach muss „das
+Verfahren zur Zulassung einer Zugfahrt […] einen sicheren Abstand zwischen den Zügen
+
+Seite 55 von 59
+
+Untersuchungsbericht
+Zugkollision, 22.11.2024, Bf Dorsfeld
+
+gewährleisten“. In das noch von Fahrzeugen besetzte Gleis 2 des Bf Dorsfeld dur e der
+DGS 42506 nicht eingelassen werden.
+Zu systemischem Faktor „Korrekte Sicherheitsinforma on über Gleisbelegung“ [S1]:
+Die nicht abschließende Auflistung in Kapitel 4.5 dieses Berichts zu früheren Ereignissen
+ähnlicher Art zeigt eine Anzahl von Kollisionen, bei denen die Informa on über die bestehende
+Besetzung eines Hauptgleises durch Fahrzeuge an Fdl nicht mitgeteilt bzw. nicht sicher
+vorgehalten wurden. Im Fortgang des Betriebsgeschehens wurden daraus Gleise fehlerha als
+frei angenommen. Zwar war beispielsweise für das Rangieren auf Hauptgleisen gemäß
+Ril 408.4841 festgelegt, dass ein Fdl von der Besetzung von Hauptgleisen durch Rangierfahrten
+hierzu gemäß Ril 408.4841 „Vorwissen“ erhalten muss. Demgegenüber ist eine zeitrich ge
+Informa onsweitergabe und beständige Speicherung der Informa on bzgl. Besetzung von
+Hauptgleisen nach Baugleiszuständen, Sperrungen, nach dem Flügeln oder Übergang von
+Fahrzeugen auf andere Zugfahrten nicht systema sch für den Fdl geregelt. So kam es in der
+Vergangenheit wiederholt zu gefährlichen Ereignissen im Eisenbahnverkehr, weil die Kenntnis
+über den Belegungszustand eines Gleises von der tatsächlichen Belegung des Gleises mit
+Fahrzeugen fehlerha abwich.
+Der BEU ist hinsichtlich der verschiedenen Stellwerksbauformen kein einheitliches System des
+EIU bekannt, womit eine solche Informa on unverzüglich und rechtzei g an den Fdl
+übergeben um von ihm jederzeit in die weitere Betriebsführung einbeziehbar verwaltet
+werden zu können. Bzgl. der Praxis ist der BEU lediglich bekannt, dass sich die Fdl zuweilen
+mit individuellen Aufschreibungen auf No zze eln behelfen, die z. B. an der
+Stellwerksbedieneinrichtung angebracht werden oder am Arbeitsplatz auﬃndbar sind. Diese
+Aufzeichnungen alleine wären im vorliegenden Fall allenfalls unterstützend für das Feststellen
+der verbliebenen Fahrzeuge in Gleis 2, jedoch in Verbindung mit den Vorgaben der Ril
+408.0471 bzw. Ril 408.0231 Abschni
+
+2 nicht allein ausreichend zur Durchführung einer
+
+Abschni sprüfung gewesen. Hinzu kommt, dass die bestehende Vorgabe des EIU an seine Fdl,
+vor dem Au eben einer Gleissperrung gemäß Ril 408.0471 Abschni 2 Abs. 4c) eine
+Abschni sprüfung durchzuführen, als verbindliche Vorbedingung für das Au eben der
+Gleissperrung nicht plausibel erscheint. Dies gilt allgemein für den Fall tatsächlich im Gleis
+verbliebener Fahrzeuge nach dem Ende von z. B. Baumaßnahmen. Im vorliegenden Ereignis
+erfolgte der Verbleib der Fahrzeuge im Bf Dorsfeld temporär geplant. Nach Regelwerkslage
+war der Fdl-in, in der sich ihr dargestellten Situa on nach dem vorzei gem Au eben der
+Seite 56 von 59
+
+Untersuchungsbericht
+Zugkollision, 22.11.2024, Bf Dorsfeld
+
+Gleissperrung, sogar eröﬀnet, die angeordnete Abschni sprüfung per auf Sicht angewiesenes
+Befahren durch eine Zugfahrt durchzuführen. Danach wäre der Betriebsprozess zum Erliegen
+gekommen, weil diese Zugfahrt bestenfalls vor den beiden Fahrzeugen im Gleis angehalten
+hä e. Dies veranschaulicht, welche Relevanz das Mi eilen von Sicherheitsinforma onen
+bereits vor ihrem Wirksamwerden hat, vgl. Delegierte Verordnung (EU) Nr. 2016/762,
+Anhang II, Kriterium 4.4.3f).
+Vor diesem Hintergrund spricht die BEU die Sicherheitsempfehlung Nr. 15/2025 aus, dass das
+EIU die Verwaltung der Informa on einer verbleibenden Besetzung von Hauptgleisen,
+insbesondere nach Sperrungen aufgrund schri licher Anweisungen, Baugleiszuständen,
+Gleissperrungen, Flügelungen von Zügen bzw. Übergang auf andere Zugfahrt hinsichtlich der
+Anforderungen gemäß Delegierter Verordnung (EU) Nr. 2016/762, Anhang II, Kriterium
+4.4.3a) bis g) verbessern sollte. Da neben der Übermi lung der Informa on, dem Zeitpunkt,
+ggf. einzuhaltenden Wortlauten und Zuständigkeiten auch die Speicherung und Einbeziehung
+in weitere Betriebsprozesse von Belang sind, wird auf das erforderliche Beachten aller
+genannten Unterkriterien a) bis g) verwiesen. Dies bedingt mi elbar, dass Arbeitsvorgaben
+grundsätzlich widerspruchsfrei leistbar und in den zu beherrschenden Betriebssitua onen
+plausibel anwendbar sein müssen. In der Situa on des vorliegenden Ereignisses war eine
+Abschni sprüfung gemäß Ril 408.0471 Abschni 2 Abs. 4c) nicht plausibel nachvollziehbar,
+da die Fahrzeuge nach dem Ende der Arbeiten bis zur geplanten Ausfahrt zunächst planmäßig
+und temporär im Bf verblieben.
+Zu ursächlichem Faktor „Durchführung der Abschni sprüfung durch die Fdl‐in“ [F2]:
+Gemäß Ril 408.0471 Abschni 2 Abs. 4c) war es obligatorisch für die Fdl-in, nach dem Ende
+der Arbeiten gemäß Betra und vor Au ebung der Gleissperrungen eine Abschni sprüfung
+durchzuführen. Da die Fdl-in selbst keinen Überblick über die tatsächliche Belegung des
+Gleises 2 ha e und auch keine Feststellung dazu unmi elbar durch Hinsehen treﬀen konnte,
+ha e sie sich entschieden, eine Prüfung unter Beau ragung anderer Personen durchführen
+zu lassen. Dieses Vorgehen wählte sie jedoch erst nach der Ausfahrt der Stopfmaschine mit
+Zugnummer 24146. Dazu bediente sich die Fdl-in des vor Ort im Bf Dorsfeld zufällig noch
+anwesenden BÜB, um von diesem eine Freimeldung des Gleises 2 des Bf Dorsfeld
+einzufordern. Die Fdl-in war zur Einbindung einer beau ragten Person gemäß
+Ril 408.0233 Abschni 2 Abs. 1 hinsichtlich des dort genannten Personenkreises befugt. Der
+BÜB wurde in vorgenanntem Regelwerk nicht explizit erwähnt, konnte aufgrund seiner
+Seite 57 von 59
+
+Untersuchungsbericht
+Zugkollision, 22.11.2024, Bf Dorsfeld
+
+Qualifika on und vorhandenen örtlichen Einweisung, bzw. derart durchzuführender
+Tä gkeiten im Kontext als Technisch Berech gter als Teil dieses Personenkreises verstanden
+werden.
+Bei Anwendung dieses Verfahrens der beau ragten Prüfung durch einen Mitarbeiter hä e die
+Fdl-in diesem die Lage des zu prüfenden Abschni s und dessen Grenzen gemäß Regelwerk
+anhand Nennung markanter Punkte beschreiben müssen. Dies unterließ die Fdl-in und
+forderte verallgemeinert für das Gleis 2 eine Informa on über die Gleisbelegung vom BÜB an.
+Vor dem Hintergrund der zahlreichen festgestellten Handlungsdefizite der Fdl-in (siehe Kapitel
+4.1.1, 4.3.1 und 5.3) verweist die BEU auf die zum Ereignis der Zugkollision vom 17.11.2022
+zwischen Bf Meinersen und Hp Leiferde (b Gi orn) ausgesprochene Sicherheitsempfehlung
+Nr. 04/2025:
+„Es wird empfohlen, zur Verstärkung des risikoorien erten Ansatzes in allen Phasen des
+Kompetenzmanagements
+
+die
+
+Verfahren
+
+für
+
+Erhalt
+
+und
+
+Aktualisierung
+
+der
+
+sicherheitsrelevanten Kenntnisse und Fer gkeiten arbeitsplatzbezogen zu überprüfen und
+soweit notwendig zu verbessern. Hierbei sind die Tä gkeiten der Mitarbeiter mit
+sicherheitsrelevanten Funk onen und mit leitenden Aufgaben auf allen relevanten Ebenen
+einzubeziehen (Verordnung (EU) 2018/762, Anhang II, Kap. 4.2.1 und 6.1.1 a))“.
+Zu ursächlichem Faktor „Feststellung des „Freiseins“ und Abgabe der Meldung durch den
+BÜB“ [F3]:
+Der BÜB oﬀenbarte entgegen den Anforderungen an seine Qualifika on und Tä gkeit bei der
+Feststellung, ob das Gleis 2 frei von Fahrzeugen war, mangelnde Handlungssicherheit, als er
+zeitlich-örtlich seine Tä gkeit im Bf Dorsfeld gemäß Betra bereits beendet ha e, aber
+nochmals in das Betriebsgeschehen einbezogen wurde. Auf die unpräzise Nachfrage der Fdlin gab er einzig aufgrund seiner subjek ven Annahme eine Meldung ab, dass das Gleis 2 frei
+von Fahrzeugen sei. Ein ausführliches Feststellen des Freiseins unterließ er. Das Treﬀen
+solcher Feststellungen war regelmäßig ein Teil seiner betrieblichen Aufgaben als Technischer
+Berech gter innerhalb von Arbeiten gemäß Betra. Dementsprechend ist auch von
+entsprechendem
+
+Bewusstsein
+
+über
+
+die
+
+Sicherheitsrelevanz
+
+derar ger
+
+Meldungen
+
+auszugehen.
+Hinsichtlich der Handlungssicherheit von BÜB wird ebenfalls nochmals auf die bereits oben
+zi erte Sicherheitsempfehlung Nr. 04/2025 verwiesen.
+
+Seite 58 von 59
+
+Untersuchungsbericht
+Zugkollision, 22.11.2024, Bf Dorsfeld
+
+5.2 Seit dem Ereignis getroffene Maßnahmen
+Die Fdl-in wurde gemäß Aussage des EIU nach der Durchführung eines nicht dokumen erten,
+sogenannten „Sicherheitsgesprächs“ unter Beteiligung des Leiters Fahrdienst der BZ und des
+Eisenbahnbetriebsleiters West ab dem 05.12.2024 wieder auf dem Bedienplatz eingesetzt.
+Das EIU gab an nach Hinweis der BEU zu prüfen, den in der Ril 408.0233 genannten
+Mitarbeiterkreis, der an der Fahrwegprüfung mitwirken darf, hinsichtlich der Mitwirkung des
+Bauüberwachers Bahn zu präzisieren.
+Die
+
+Fachstelle
+
+Bauüberwachung
+
+der
+
+DB InfraGO AG
+
+sprach
+
+unterdessen
+
+eine
+
+Tä gkeitsuntersagung für den BÜB aus.
+Darüber hinaus wurden der BEU keine weiteren durch das EIU getroﬀenen Maßnahmen
+bekannt. Abschließend weist die BEU für die Zwecke der behördlichen Eisenbahnaufsicht
+ausdrücklich auf die Feststellungen betreﬀend Ausführlichkeit und Ergebnisentschlossenheit
+der internen Unfalluntersuchung des EIU hin, siehe Kapitel 4.4.1.
+
+5.3 Zusätzliche Bemerkungen
+En ällt.
+
+6 Sicherheitsempfehlungen
+Gemäß § 6 EUV und Art. 26 Abs. 2 der Richtlinie (EU) 2016/798 ergeht nachfolgende
+Sicherheitsempfehlung:
+Lfd. Nr.
+
+Adressat und Sicherheitsempfehlung
+
+Betri
+
+15/2025
+
+Sicherheitsbehörde:
+
+EIU
+
+Unternehmen
+
+Es wird empfohlen, die Verwaltung der
+Informa on einer verbleibenden Besetzung von
+Hauptgleisen, insbesondere nach Sperrungen
+aufgrund schri licher Anweisungen,
+Baugleiszuständen, Gleissperrungen, Flügelungen
+von Zügen bzw. Übergang auf andere Zugfahrten
+hinsichtlich der Anforderungen gemäß Delegierter
+Verordnung (EU) Nr. 2016/762, Anhang II,
+Kriterium 4.4.3a) bis g) zu verbessern. Neben der
+Übermi lung der Informa on, dem Zeitpunkt, ggf.
+einzuhaltenden Wortlauten und Zuständigkeiten
+sind auch die Speicherung und Einbeziehung in
+weitere Betriebsprozesse von Relevanz.
+
+Seite 59 von 59
+
+

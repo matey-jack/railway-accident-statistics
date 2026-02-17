@@ -1,0 +1,1553 @@
+Untersuchungsbericht
+Aktenzeichen:
+
+BEU‐uu2021‐05/004‐3323
+
+Stand:
+
+23.01.2026
+
+Erstveröﬀentlichung:
+
+05.02.2026
+
+Version 1.0
+
+Gefährliches Ereignis im Eisenbahnbetrieb
+
+Ereignisart:
+
+Zugentgleisung
+
+Datum:
+
+12.05.2021
+
+Zeit:
+
+00:32 Uhr
+
+Betriebsstelle:
+
+Bf Berlin‐Lichtenberg
+
+Streckennummer:
+
+6139
+
+Kilometer:
+
+1,350
+
+Untersuchungsbericht
+Zugentgleisung, 12.05.2021, Bf Berlin‐Lichtenberg
+
+Veröﬀentlicht durch:
+Bundesstelle für Eisenbahnunfalluntersuchung
+Heinemannstraße 6
+53175 Bonn
+
+Untersuchungsbericht
+Zugentgleisung, 12.05.2021, Bf Berlin‐Lichtenberg
+
+Inhaltsverzeichnis
+I.
+
+Änderungsverzeichnis: .......................................................................................... II
+
+II.
+
+Abbildungsverzeichnis: ........................................................................................ III
+
+III.
+
+Tabellenverzeichnis: ............................................................................................ III
+
+IV.
+
+Abkürzungsverzeichnis: ....................................................................................... IV
+
+0
+
+Vorbemerkung...................................................................................................... 1
+
+1
+
+Zusammenfassung ................................................................................................ 2
+
+1.1
+
+Kurzbeschreibung des Ereignisses ......................................................................... 2
+
+1.2
+
+Folgen .................................................................................................................... 2
+
+1.3
+
+Ursachen ................................................................................................................ 2
+
+1.4
+
+Sicherheitsempfehlungen ...................................................................................... 3
+
+2
+
+Die Untersuchung und ihr Kontext ........................................................................ 4
+
+3
+
+Beschreibung des Ereignisses................................................................................ 6
+
+3.1
+
+Informationen über das Ereignis und seine Hintergründe ..................................... 6
+
+3.1.1
+
+Lage und Beschreibung des Ereignisortes .............................................................. 6
+
+3.1.2
+
+Beteiligte ................................................................................................................ 9
+
+3.1.3
+
+Äußere Bedingungen ........................................................................................... 10
+
+3.1.4
+
+Todesopfer, Verletzte und Sachschäden .............................................................. 10
+
+3.2
+
+Sachliche Beschreibung der Vorkommnisse......................................................... 13
+
+3.2.1
+
+Hergangsbeschreibung ........................................................................................ 13
+
+3.2.2
+
+Notfallmanagement ............................................................................................. 14
+
+4
+
+Auswertung des Ereignisses ................................................................................ 15
+
+4.1
+
+Aufgaben und Pflichten ....................................................................................... 15
+
+4.1.1
+
+Untersuchung der betrieblichen Abläufe des EIU ................................................ 15
+
+I
+
+Untersuchungsbericht
+Zugentgleisung, 12.05.2021, Bf Berlin‐Lichtenberg
+
+I.
+
+4.1.2
+
+Untersuchung der betrieblichen Abläufe der EVU ............................................... 25
+
+4.2
+
+Fahrzeuge und technische Einrichtungen ............................................................ 27
+
+4.2.1
+
+Untersuchung von Fahrzeugen ............................................................................ 28
+
+4.2.2
+
+Untersuchung der bautechnischen Infrastruktur ................................................. 29
+
+4.2.3
+
+Untersuchung der Leit‐ und Sicherungstechnik ................................................... 29
+
+4.3
+
+Menschliche Faktoren.......................................................................................... 30
+
+4.3.1
+
+Beteiligte des Infrastrukturbetreibers.................................................................. 30
+
+4.3.2
+
+Beteiligte der EVU ................................................................................................ 31
+
+4.4
+
+Feedback‐ und Kontrollmechanismen ................................................................. 31
+
+4.4.1
+
+SMS des EIU ......................................................................................................... 31
+
+4.4.2
+
+SMS der EVU ........................................................................................................ 32
+
+4.5
+
+Frühere Ereignisse ähnlicher Art .......................................................................... 32
+
+5
+
+Schlussfolgerungen ............................................................................................. 34
+
+5.1
+
+Zusammenfassung und Schlussfolgerung ............................................................ 34
+
+5.2
+
+Seit dem Ereignis getroffene Maßnahmen .......................................................... 35
+
+5.3
+
+Zusätzliche Bemerkungen .................................................................................... 35
+
+6
+
+Sicherheitsempfehlungen ................................................................................... 36
+
+Änderungsverzeichnis:
+Änderung
+
+Stand
+
+II
+
+Untersuchungsbericht
+Zugentgleisung, 12.05.2021, Bf Berlin‐Lichtenberg
+
+II.
+
+Abbildungsverzeichnis:
+Abbildung 1: Lageplan .............................................................................................................. 7
+Abbildung 2: Systemskizze........................................................................................................ 8
+Abbildung 3: Auszug Signallageplan Ereignisortes .................................................................... 8
+Abbildung 4: Luftbild Ereignisort .............................................................................................. 9
+Abbildung 5: Kollisionsstelle Behälterwagen .......................................................................... 11
+Abbildung 6: Kollisionsstelle Leerreisezug .............................................................................. 12
+Abbildung 7: Blick in Fahrtrichtung Weiche S163 ................................................................... 13
+Abbildung 8: Zugnummerndruck Stw B6 ................................................................................ 16
+Abbildung 9: Hebelbank Fahrstraßensignalhebel ................................................................... 17
+Abbildung 10: Hebelbank Weichenhebel ............................................................................... 18
+Abbildung 11: Gleisbildtafel Stw B6........................................................................................ 19
+Abbildung 12: Nachweis der Zählwerke ................................................................................. 20
+Abbildung 13: Auszug aus Verschlussplan Stw B6 .................................................................. 20
+Abbildung 14: Auszug aus dem Betriebsstellenbuch, Zugschlussstellen B6............................ 22
+Abbildung 15: Blick aus dem Stw B6 in Richtung Ereignisort .................................................. 24
+Abbildung 16: Auswertung EFR des DGS 91017 ..................................................................... 26
+Abbildung 17: Auswertung EFR des DLr 62220 ....................................................................... 27
+
+III.
+
+Tabellenverzeichnis:
+Tabelle 1: Zusammenfassung Einflussfaktoren ......................................................................... 3
+Tabelle 2: Übersicht der äußeren Bedingungen ..................................................................... 10
+Tabelle 3: Übersicht der geschätzten Schadenshöhe ............................................................. 10
+Tabelle 4: Technische Daten Wagen 33 80 9319 042‐3 .......................................................... 28
+
+III
+
+Untersuchungsbericht
+Zugentgleisung, 12.05.2021, Bf Berlin‐Lichtenberg
+
+IV.
+
+Abkürzungsverzeichnis:
+AEG
+
+Allgemeines Eisenbahngesetz
+
+AMEHT
+
+ArcelorMi al Eisenhü enstadt Transport GmbH
+
+Asig
+
+Ausfahrsignal
+
+BEU
+
+Bundesstelle für Eisenbahnunfalluntersuchung
+
+Bf
+
+Bahnhof
+
+EFR
+
+elektronische Fahrtenregistrierung
+
+EIU
+
+Eisenbahninfrastrukturunternehmen
+
+EU
+
+Europäische Union
+
+EUV
+
+Eisenbahn‐Unfalluntersuchungsverordnung
+
+EVU
+
+Eisenbahnverkehrsunternehmen
+
+Fdl
+
+Fahrdienstleiter
+
+GSM‐R
+
+Global System for Mobile Communica ons Rail
+
+ODEG
+
+Ostdeutsche Eisenbahn GmbH
+
+RID
+
+Ordnung über die interna onale Eisenbahnbeförderung gefährlicher
+Güter
+
+Ril
+
+Richtlinie
+
+SMS
+
+Sicherheitsmanagementsystem
+
+SOB
+
+Stellwerke op mal besetzen
+
+Stw
+
+Stellwerk
+
+Tf
+
+Triebfahrzeugführer
+
+TfV
+
+Triebfahrzeugführerscheinverordnung
+
+Tfz
+
+Triebfahrzeug
+
+TSI‐OPE
+
+Technische Spezifika on für die Interoperabilität des Teilsystems
+„Verkehrsbetrieb und Verkehrssteuerung“
+
+VzG
+
+Verzeichnis der örtlich zulässigen Geschwindigkeiten
+
+Zsig
+
+Zwischensignal
+
+IV
+
+Untersuchungsbericht
+Zugentgleisung, 12.05.2021, Bf Berlin‐Lichtenberg
+
+0 Vorbemerkung
+Auf der Grundlage des Ar kel 24 der Richtlinie (EU) 2016/798 hat die europäische Kommission
+mit der Inkra setzung der Durchführungsverordnung (EU) 2020/572 die Untersuchungs‐
+berichtsstruktur festgelegt. Diese Vorgaben sind grundsätzlich einzuhalten und müssen der
+Art und Schwere des gefährlichen Ereignisses angepasst sein.
+Mit Verkündung der Verordnung und Inkra setzung am zwanzigsten Tag nach der
+Veröﬀentlichung im Amtsbla
+
+der Europäischen Union (EU) ist diese verbindlich und
+
+unmi elbar auf alle ab dem 17.05.2020 eingeleiteten Untersuchungen anzuwenden.
+
+Seite 1 von 36
+
+Untersuchungsbericht
+Zugentgleisung, 12.05.2021, Bf Berlin‐Lichtenberg
+
+1 Zusammenfassung
+Das erste Kapitel enthält eine Kurzbeschreibung des Ereignisses sowie Informa onen zu den
+Folgen, Ursachen sowie zu im Einzelfall ausgesprochenen Sicherheitsempfehlungen.
+
+1.1 Kurzbeschreibung des Ereignisses
+Am 12.05.2021 gegen 00:35 Uhr fuhr im Bahnhof (Bf) Berlin‐Lichtenberg der an 19. Stelle
+laufende Wagen des Güterzugs DGS 91017 ab der Weiche S163 zweispurig und kollidierte
+anschließend mit der im Gleis 203 stehenden Zugfahrt DLr 62220.
+
+1.2 Folgen
+Es wurden keine Personen verletzt. Ein Kohlestaub‐Behälterwagen entgleiste, wurde
+aufgerissen und kippte um. Das führende Fahrzeug des DLr wurde an der Frontpar e stark
+beschädigt.
+An den Fahrzeugen und an der Infrastruktur entstanden Sachschäden in geschätzter Höhe von
+ca. 527.000 Euro.
+
+1.3 Ursachen
+Im Rahmen der Untersuchung des Ereignisses wurden die folgenden Handlungen,
+Unterlassungen, Vorkommnisse oder Umstände als sicherheitskri sche Faktoren iden fiziert.
+Diese werden gemäß Durchführungsverordnung 2020/572 in ursächliche oder beitragende,
+und systemische Faktoren unterschieden.
+Zur besseren Übersichtlichkeit der Faktoren wird eine Systema k mit Kennzeichnungen in
+eckigen Klammern verwendet.
+Eine detaillierte Auswertung des Ereignisses unter Einordnung als sicherheitskri sche
+Faktoren wird in den folgenden Kapiteln gegeben.
+
+Seite 2 von 36
+
+Untersuchungsbericht
+Zugentgleisung, 12.05.2021, Bf Berlin‐Lichtenberg
+
+Geschehen:
+Datum/Uhrzeit, sowie
+Handlung / Unterlassen /
+Umstand / Vorkommnis
+12.05.2021 00:30 Uhr
+Handlung:
+Fdl B6 bediente die
+Hilfsauflösung für die
+Fahrstraße l22/B1
+obwohl DGS 91017 die
+Fahrstraßenzugschluss‐
+stelle noch nicht geräumt
+ha e
+12.05.2021 00:30 Uhr
+Handlung:
+Fdl B6 legte mi els
+Hilfstastenbedienung die
+belegte Weiche S163
+unter einem Fahrzeug um
+
+Ursächlicher
+Faktor
+
+Beitragender
+Faktor
+
+Systemischer
+Faktor
+
+Unzei ge
+Hilfsbedienung zur
+Fahrstraßenauflösung
+[F1]
+
+Unzei ge
+Hilfsbedienung zur
+Weichenumstellung
+[F2]
+
+Tabelle 1: Zusammenfassung Einflussfaktoren
+
+1.4 Sicherheitsempfehlungen
+Es wird keine Sicherheitsempfehlung ausgesprochen.
+
+Seite 3 von 36
+
+Untersuchungsbericht
+Zugentgleisung, 12.05.2021, Bf Berlin‐Lichtenberg
+
+2 Die Untersuchung und ihr Kontext
+Die Bundesstelle für Eisenbahnunfalluntersuchung (BEU) ist für die Untersuchung von
+gefährlichen Ereignissen im Eisenbahnbetrieb im Sinne des Kapitels V der Richtlinie (EU)
+2016/798 auf Eisenbahninfrastrukturen des Bundes und auf nicht bundeseigenen Eisenbahn‐
+infrastrukturen des übergeordneten Netzes gemäß § 2b Allgemeines Eisenbahngesetz (AEG)
+zuständig.
+Ziel und Zweck der eingeleiteten Untersuchungen ist es, die Ursachen des gefährlichen
+Ereignisses aufzuklären und hieraus Hinweise zur Verbesserung der Sicherheit abzuleiten.
+Untersuchungen der BEU dienen nicht dazu, ein Verschulden festzustellen oder Fragen der
+Ha ung oder sons ger zivilrechtlicher Ansprüche zu klären und werden unabhängig von jeder
+gerichtlichen Untersuchung durchgeführt.
+Sicherheitsempfehlungen der BEU zur Vermeidung von gefährlichen Ereignissen und
+Verbesserung der Eisenbahnsicherheit werden an die na onale Sicherheitsbehörde, sofern es
+die Art der Empfehlung erfordert an die Eisenbahnagentur der Europäischen Union und an
+andere Stellen oder Behörden adressiert. Im Allgemeinen sind die Sicherheitsempfehlungen
+auch an die unmi elbar bzw. mi elbar betroﬀenen sowie alle einschlägigen Eisenbahn‐
+unternehmen gerichtet.
+Zu schweren Unfällen leitet die BEU stets Untersuchungen gem. Ar kel 20 Abs. 1 Richtlinie
+(EU) 2016/798 ein. Unter einem schweren Unfall sind insbesondere Zugkollisionen oder
+Zugentgleisungen mit mindestens einem Todesopfer oder mindestens fünf Schwerverletzten
+oder mit beträchtlichem Schaden (≥ 2 Mio. Euro) sowie sons ge Unfälle mit den gleichen
+Folgen und mit oﬀensichtlichen Auswirkungen auf die Regelung der Eisenbahnsicherheit oder
+das Sicherheitsmanagementsystem (SMS) zu verstehen. Bei allen sons gen gefährlichen
+Ereignissen im Eisenbahnbetrieb liegt es im Ermessen der BEU, Untersuchungen einzuleiten.
+Bei der Entscheidung werden neben den zum Ereigniszeitpunkt verfügbaren Ressourcen
+weitere Kriterien gem. Ar kel 20 Abs. 2 Richtlinie (EU) 2016/798 herangezogen.
+Bei dem vorliegenden gefährlichen Ereignis wurden Untersuchungen auf Grundlage des
+Ar kels 20 Abs. 2 Richtlinie (EU) 2016/798 eingeleitet.
+Die Unfalluntersuchungshandlungen werden strukturiert in vier definierten Kernprozessen
+durchgeführt, die mit der Entscheidung zur Aufnahme einer Untersuchung beginnen und mit
+der
+
+Veröﬀentlichung
+
+des
+
+Untersuchungsberichtes
+
+abgeschlossen
+
+werden.
+
+Zur
+
+Seite 4 von 36
+
+Untersuchungsbericht
+Zugentgleisung, 12.05.2021, Bf Berlin‐Lichtenberg
+
+Ursachenermi lung werden ergebnisoﬀene Untersuchungen im Ausschlussverfahren in allen
+beteiligten Fachdisziplinen angestellt und hierbei insbesondere Fehler‐Ursachen‐Analysen
+und Soll‐Ist‐Vergleiche durchgeführt.
+Vom örtlich zuständigen Untersuchungsbezirk Nordost wurden die Untersuchungs‐
+handlungen federführend geleitet.
+Sofern im Einzelfall geboten, werden die jeweiligen Untersuchungsteams bezirksübergreifend
+unterstützt und notwendige Sachverständigenleistungen extern beau ragt.
+Neben den beteiligten Unternehmen wirkte an der Untersuchung folgende weitere Stelle mit:
+
+
+Bundespolizeiinspektion Berlin‐Ostbahnhof
+
+Die Durchführung der Unfalluntersuchung setzt voraus, dass alle an dem gefährlichen Ereignis
+Beteiligten
+
+den
+
+jeweiligen
+
+Meldeverpflichtungen
+
+gem.
+
+§2
+
+Abs. 3
+
+Eisenbahn‐
+
+Unfalluntersuchungsverordnung (EUV) nachkommen. Die relevanten Informa onen sind
+durch die zur Meldung Verpflichteten auf dem neuesten Stand zu halten.
+Auf Grundlage des § 5a AEG werden i. d. R. weitergehende zur Untersuchungsdurchführung
+erforderliche Informa onen, Auskün e und Nachweise abgefordert. Diese notwendigen
+Zuarbeiten konnten mi els Auskun sersuchen gewonnen werden.
+Darüber hinaus können nach § 5b Abs. 4 AEG von den an gefährlichen Ereignissen beteiligten
+Eisenbahnen Unterstützungsleistungen eingefordert werden. Bei dem vorliegenden
+gefährlichen Ereignis wurden keine Unterstützungsleistungen eingefordert.
+Die infrastruktursei ge Freigabe der Unfallstelle erfolgte durch die BEU am 12.05.2021.
+
+Seite 5 von 36
+
+Untersuchungsbericht
+Zugentgleisung, 12.05.2021, Bf Berlin‐Lichtenberg
+
+3 Beschreibung des Ereignisses
+Im dri en Kapitel wird das gefährliche Ereignis in zwei vorgegebenen Unterkapiteln näher
+beschrieben. In Kapitel 3.1 sind neben den Grunddaten weitere Informa onen zum
+Ereignisort, den äußeren Bedingungen, den Beteiligten und den Folgen enthalten. Die
+Ereignisrekonstruk on sowie Informa onen zur Auslösung und dem Ablauf der
+Re ungsmaßnahmen sind im Kapitel 3.2 dargestellt. Die Beschreibungen beziehen sich
+grundsätzlich
+
+auf
+
+die
+
+zum
+
+Ereigniszeitpunkt
+
+vorherrschenden
+
+Bedingungen
+
+und
+
+vorgefundenen Sachverhalte.
+
+3.1 Informationen über das Ereignis und seine Hintergründe
+Bei dem Ereignis handelt es sich um eine Zugentgleisung im Sinne der Richtlinie
+(EU) 2016/798.
+Die BEU führt das Ereignis na onal unter der Ereignisart Zugentgleisung.
+3.1.1 Lage und Beschreibung des Ereignisortes
+Die Zugentgleisung ereignete sich auf der zweigleisigen elektrifizierten Hauptbahn
+Berlin Ostkreuz – Berlin‐Lichtenberg im Bf Berlin‐Lichtenberg. Diese Strecke wird im
+Verzeichnis der örtlich zulässigen Geschwindigkeiten (VzG) unter der Streckennummer 6139
+geführt. Im Bf Berlin‐Lichtenberg kreuzen bzw. verbinden sich zudem die VzG‐Strecken 6072,
+6078 und 6140. Auf allen benannten Strecken stand der digitale Zugfunk Global System for
+Mobile Communica ons Rail (GSM‐R) zur Verfügung. Als Zugsicherung kam die punk örmige
+Zugbeeinflussung zur Anwendung. Der Bf Berlin‐Lichtenberg war mit Lichthaupt‐ und
+Lichtvorsignalen des Signalsystems HI (DV 301) ausgerüstet.
+
+Seite 6 von 36
+
+Untersuchungsbericht
+Zugentgleisung, 12.05.2021, Bf Berlin‐Lichtenberg
+
+Abbildung 1: Lageplan 1
+
+Die Weiche S163 des Bf Berlin‐Lichtenberg befand sich in Streckenkilometer 1,350 der VzG‐
+Strecke 6139. Hier begann der zweispurige Lauf eines Wagens des DGS 91017. Diese Stelle
+wird im Folgenden als Entgleisungsstelle bezeichnet. Die Kollision mit dem DLr 62220 fand ca.
+in km 1,195 statt. Diese Stelle wird im Weiteren als Kollisionsstelle bezeichnet. Der Bereich
+der Ereignisstelle durfte gemäß VzG mit einer zulässigen Geschwindigkeit von 50 km/h
+befahren werden und war auf einen Bremsweg von 700 m ausgelegt.
+Der Bf Berlin‐Lichtenberg war in die Fahrdienstleiterbezirke B1, B6 und B9, sowie die
+Wärterbezirke R8 und W3 unterteilt. Zuständig für die Ereignisstelle war der
+Fahrdienstleiter (Fdl) auf dem Stellwerk (Stw) B6. Bei diesem Stw handelte es sich um ein
+elektromechanisches Stw der Bauart VES 1912 mit Farbscheibenüberwachung. Im Stw war
+zudem eine Gleisbildanzeige der Bauform GS II in der Funktion einer Meldetafel vorhanden.
+Die Gleisfreimeldung im Bf wurde über isolierte Gleis‐ und Weichenabschnitte mittels 42 Hz‐
+Gleisstromkreisen realisiert. Die durchgehenden Hauptgleise 203 und 204 des Bf Berlin‐
+Lichtenberg waren mit Streckenblock ausgerüstet. Es handelte sich um Bahnhofsblock‐
+strecken.
+
+1
+
+Quelle: Geobasisdaten: © GeoBasis‐DE / BKG [2021], bearbeitet durch BEU
+
+Seite 7 von 36
+
+Untersuchungsbericht
+Zugentgleisung, 12.05.2021, Bf Berlin‐Lichtenberg
+
+Die nachfolgenden Abbildungen geben auszugsweise einen Überblick über die relevanten
+Fahrwege und Fahrwegelemente im Bf Berlin‐Lichtenberg.
+
+Abbildung 2: Systemskizze 2
+
+Abbildung 3: Auszug Signallageplan Ereignisortes 3
+
+Das nachfolgende Lu bild gibt einen Überblick über die Ereignisstelle.
+
+2
+
+Quelle: DB Netz AG; bearbeitet durch BEU
+
+3
+
+Quelle: DB Netz AG; bearbeitet durch BEU
+
+Seite 8 von 36
+
+Untersuchungsbericht
+Zugentgleisung, 12.05.2021, Bf Berlin‐Lichtenberg
+
+Abbildung 4: Lu bild Ereignisort 4
+
+3.1.2 Beteiligte
+Die am Ereignis Beteiligten ha en folgende Funk onen:
+Für das Eisenbahninfrastrukturunternehmen (EIU) DB Netz AG (zum 01.01.2024 umfirmiert zu
+DB InfraGO AG)
+
+
+Fdl im Stw B6
+
+Für das Eisenbahnverkehrsunternehmen (EVU) ArcelorMi al Eisenhü enstadt Transport
+GmbH (AMEHT)
+
+4
+
+Quelle: unbekannt; bearbeitet durch BEU
+
+Seite 9 von 36
+
+Untersuchungsbericht
+Zugentgleisung, 12.05.2021, Bf Berlin‐Lichtenberg
+
+
+
+Triebfahrzeugführer (Tf) des DGS 91017
+
+Für das EVU Ostdeutsche Eisenbahn GmbH (ODEG)
+
+
+Tf des DLr 62220
+
+3.1.3 Äußere Bedingungen
+Zum Zeitpunkt des Ereignisses herrschten folgende Bedingungen:
+Lichtverhältnisse
+
+Dunkelheit
+
+Sicht
+
+leicht diesig
+
+Bedeckung
+
+bewölkt
+
+Temperaturen
+
+10°C – 12°C
+
+fallender Niederschlag
+
+leichter Regen
+
+Niederschlagshäufigkeit
+
+vereinzelt
+
+Untergrund / gefallener Niederschlag
+
+feucht
+
+Tabelle 2: Übersicht der äußeren Bedingungen
+
+3.1.4 Todesopfer, Verletzte und Sachschäden
+Bei dem Ereignis traten keine Personenschäden ein.
+Die geschätzte Höhe der Sachschäden in Euro setzt sich wie folgt zusammen:
+geschätzte Kosten in Euro
+Fahrzeuge
+
+445.000
+
+Infrastruktur
+
+82.150
+
+Dri e
+
+‐
+
+Gesamtschadenshöhe
+
+527.150
+
+Tabelle 3: Übersicht der geschätzten Schadenshöhe
+
+Der Behälter des entgleisten Wagens wurde seitlich aufgerissen, so dass ca. 2 m³ des noch
+enthaltenen Restladeguts (Steinkohlestaub) austraten. Der Triebzug wurde im Frontbereich
+stark beschädigt. Die nachfolgenden Abbildungen geben einen Eindruck der Unfallstelle und
+des Schadensausmaßes.
+
+Seite 10 von 36
+
+Untersuchungsbericht
+Zugentgleisung, 12.05.2021, Bf Berlin‐Lichtenberg
+
+Abbildung 5: Kollisionsstelle Behälterwagen
+
+Seite 11 von 36
+
+Untersuchungsbericht
+Zugentgleisung, 12.05.2021, Bf Berlin‐Lichtenberg
+
+Abbildung 6: Kollisionsstelle Leerreisezug
+
+Nachfolgende Abbildung verdeutlicht den Fahrweg des DGS 91017 (orange) bzw. des hinteren
+Zugteils (rot gestrichelt) ab der Weiche S163 sowie die vorgefundene Weichenstellung.
+
+Seite 12 von 36
+
+Untersuchungsbericht
+Zugentgleisung, 12.05.2021, Bf Berlin‐Lichtenberg
+
+Abbildung 7: Blick in Fahrtrichtung Weiche S163
+
+3.2 Sachliche Beschreibung der Vorkommnisse
+Zur
+
+Rekonstruk on
+
+des
+
+gefährlichen
+
+Ereignisses
+
+sowie
+
+zur
+
+Beschreibung
+
+der
+
+No allmaßnahmen werden insbesondere auch die in Kapitel 4 enthaltenen Aufzeichnungen,
+Auswertungen und Feststellungen etc. herangezogen.
+3.2.1 Hergangsbeschreibung
+Vom 11.05.2021 auf den 12.05.2021 sollte der Güterzug DGS 91017 von Ziltendorf EKO über
+Co bus, Berlin‐Grünau, Berlin‐Lichtenberg, Berlin‐Moabit, Lehrte nach Lünen Süd verkehren.
+Nach der Durchfahrt des Stellbereiches B9 des Bf Berlin‐Lichtenberg und der Einfahrt in den
+Stellbereich B6 am 12.05.2021 gegen 00:05 Uhr, kam der Zug gegen 00:13 Uhr vor dem
+Ausfahrsignal (Asig) E zum Halten. Der 19. Wagen des DGS 91017 stand dabei noch auf der
+Weiche S163, die sich entsprechend der eingestellten Fahrstraße in der Stellung zur Fahrt nach
+rechts in Richtung Gleis 204 befand und durch die Fahrstraßenfestlegung unter Verschluss
+war. Während der Standzeit des Zuges DGS 91017 löste der Fdl im Stw B6 dessen Fahrstraße
+vorzei g auf und stellte die Weiche S163 unter dem 19. Wagen des Zugverbandes zur Fahrt
+nach links um.
+
+Seite 13 von 36
+
+Untersuchungsbericht
+Zugentgleisung, 12.05.2021, Bf Berlin‐Lichtenberg
+
+Gegen 00:31 Uhr wurde dem Tf des DGS 91017 mi els Signalbild Hl 12a (Geschwindigkeit
+40 km/h ermäßigen, Halt erwarten) am Asig E die Weiterfahrt in Richtung der Abzweigstelle
+Berlin Frankfurter Allee signalisiert.
+Bei Anfahrt des DGS 91017 befuhr das zweite Drehgestell des 19. Wagens die sich nun in
+Linkslage befindliche Weiche S163, wodurch es zum zweispurigen Lauf dieses Fahrzeugs kam.
+Alle nachfolgenden Wagen befuhren nun die Weiche S163 in Linkslage in Richtung Gleis 203.
+Der Tf des DGS 91017 bemerkte seiner eigenen Aussage nach zwar ein „ziemlich schweres
+Anfahren“, setzte die Fahrt aber fort.
+Gegen 00:32 Uhr kollidierte der zweispurig im Gleis 204 und 203 fahrende 19. Wagen des
+DGS 91017 mit dem im Gleis 203 vor dem Zwischensignal (Zsig) G stehenden Leerreisezug
+DLr 62220. Aufgrund der Kollision riss die Hauptlu leitung des DGS 91017 zwischen dem 18.
+und 19. Wagen und der Zug kam nach etwa 20 Metern zum S llstand. Der Tf des DGS 91017
+informierte den Fdl B1 sofort über den plötzlichen Drucklu verlust in der Hauptlu leitung.
+3.2.2 Notfallmanagement
+Nach § 4 Abs. 3 AEG haben die Eisenbahnen die Verpflichtung, an Maßnahmen des
+Brandschutzes und der technischen Hilfeleistung mitzuwirken. Die Innenministerien der
+Länder und die DB AG haben sich auf folgende Verfahrensweise verständigt. Für die
+DB Netz AG gelten die entsprechenden Brand‐ und Katastrophenschutzgesetze der Länder.
+Das No allmanagement der DB AG ist in der Konzernrichtlinie 123, das der DB Netz AG in der
+Richtlinie (Ril) 423 näher beschrieben und geregelt.
+Die BEU stellte im Rahmen der Unfalluntersuchung und Ereignisrekonstruk on keine
+Unregelmäßigkeiten und Verzögerungen in Bezug auf das Einleiten von Re ungsmaßnahmen
+fest. Der No allmanager des EIU war gegen 01:20 Uhr an der Unfallstelle. Personen mussten
+nicht gere et werden.
+
+Seite 14 von 36
+
+Untersuchungsbericht
+Zugentgleisung, 12.05.2021, Bf Berlin‐Lichtenberg
+
+4 Auswertung des Ereignisses
+In diesem Kapitel werden insbesondere die im Rahmen der Unfalluntersuchung ermi elten
+maßgeblichen sicherheitskri schen Faktoren dargestellt. Hierbei wird im jeweiligen Einzelfall
+auf die Aufgaben und Pflichten einzelner Personen und Stellen, auf beteiligte Fahrzeuge und
+technische Einrichtungen genauso eingegangen wie auf konkrete menschliche Handlungen
+sowie auf Feedback‐ und Kontrollmechanismen. Sofern Informa onen zu früheren Ereignissen
+vorliegen, werden diese in einem weiteren Unterkapitel dargestellt.
+
+4.1 Aufgaben und Pflichten
+In diesem Kapitel werden unbeschadet des Ar kels 20 Abs. 4 der Richtlinie (EU) 2016/798 die
+Aufgaben und Pflichten von Personen und Stellen behandelt, die an dem Ereignis beteiligt
+waren. Untersuchungen zu Schuld‐ oder Ha ungsfragen sind explizit ausgeschlossen und nicht
+Untersuchungsgegenstand.
+4.1.1 Untersuchung der betrieblichen Abläufe des EIU
+Für das verantwortliche EIU lag eine Sicherheitsgenehmigung des Eisenbahn‐Bundesamts
+gemäß § 7c AEG mit einer Gül gkeit bis zum 19.10.2021 vor.
+Gemäß § 4 Abs. 3 AEG sind Eisenbahnen verpflichtet, ihren Betrieb sicher zu führen, die
+Eisenbahninfrastruktur sicher zu bauen und in betriebssicherem Zustand zu halten. Diese
+Anforderungen gelten als erfüllt, wenn u. a. ein SMS entsprechend § 4 Abs. 4 AEG i. V. m. der
+Richtlinie (EU) 2016/798 eingerichtet war. Inhaltliche Maßstäbe für ein SMS waren die
+Aufstellung und Einhaltung der in der Verordnung (EU) 2018/762 genannten Anforderungen
+an ein SMS.
+Als Teil des SMS der DB Netz AG waren auch alle Anforderungen der Durchführungs‐
+verordnung (EU) 2019/773 über die technische Spezifika on für die Interoperabilität des
+Teilsystems „Verkehrsbetrieb und Verkehrssteuerung“ des Eisenbahnsystems in der
+Europäischen Union (TSI OPE) umzusetzen. Einer der im Kontext des Ereignisses wesentlichen
+Grundsätze gemäß TSI OPE Anlage B Kapitel B.1 Nr. 5 lautete: „Ein Zug muss am Befahren
+eines Streckenabschni s gehindert werden, wenn bekannt ist oder vermutet wird, dass das
+Befahren nicht sicher wäre, bis Maßnahmen getroﬀen worden sind, die eine sichere
+Fortsetzung der Zugfahrt ermöglichen“.
+
+Seite 15 von 36
+
+Untersuchungsbericht
+Zugentgleisung, 12.05.2021, Bf Berlin‐Lichtenberg
+
+Zur sicheren Durchführung der Fahrten auf der Infrastruktur der DB Netz AG ha e der Fdl im
+Bf Berlin‐Lichtenberg als Bediener des Stw B6 untersetzende, unternehmensinterne
+Arbeitsvorgaben zu beachten und umzusetzen, unter anderem die Fahrdienstvorschri Ril 408
+sowie die örtlichen Regelungen im Betriebsstellenbuch des Bahnhofs.
+Betriebssitua on
+Der DGS 91017 sollte im Bf Berlin‐Lichtenberg vom Zsig L22 bis zum Asig E auf der Fahrstraße
+32 (l22/B1) und weiter zur Abzweigstelle Berlin Frankfurter Allee fahren. Der DLr 62220 sollte
+vom Zsig G nach Gleis 20 auf der Fahrstraße 41 (g/20) fahren. Die Fahrstraße 41 besaß laut
+Verschlussplan einen natürlichen Ausschluss mit der Fahrstraße 32. Daher sollte zuerst der
+DGS 91017 fahren.
+Im Zugnummerndrucker im Stw B6 waren folgende Zeiten dokumentiert:
+
+Abbildung 8: Zugnummerndruck Stw B6 5
+
+Der DGS 91017 wurde um 00:10 Uhr von B6 an B1 abgemeldet (VorAnkündigung). Um
+00:12 Uhr fiel mit dem Zeitpunkt der Gleisbelegung im Gleis 204 das Zsig L22 auf Halt zurück
+(AUsfahrt, Zeitpunkt des Beginns der Belegung der Bahnhofsblockstrecke). Der DGS 91017
+fuhr in das Gleis 204 ein und kam vor dem noch Halt zeigenden Asig E im Gleis 204 wieder zum
+Halten. Gegen 00:22 Uhr wurde der DLr 62220 von B1 an B6 abgemeldet und gegen 00:24 Uhr
+wurde die entsprechende Abfahrt übermi elt. Der DLr 62220 kam anschließend vor dem
+Zsig G im Gleis 203 zum Halten.
+
+5
+
+Quelle: DB Netz AG, bearbeitet durch BEU
+
+Seite 16 von 36
+
+Untersuchungsbericht
+Zugentgleisung, 12.05.2021, Bf Berlin‐Lichtenberg
+
+Zugfolgebedingt musste der DGS 91017 vor dem Asig E eine längere Zeit auf die Weiterfahrt
+warten. Der hintere Teil des Wagenzuges stand nach dem S llstand des Zuges noch auf den
+Fahrwegweichen S163, S164 und S168. Diese Weichen waren durch die Fahrstraße in der
+jeweils erforderlichen Stellung festgelegt und konnten nicht umgestellt werden. Der
+DLr 62220 musste daher noch vor dem Zsig G warten, bis der DGS 91017 die Weichen
+freigefahren ha e und die Fahrstraße zugbewirkt aufgelöst wurde.
+Vorgefundene Situa on nach dem Ereignis
+Der für die Fahrt relevante Fahrstraßensignalhebel war beim Eintreffen der BEU am
+Ereignisort in Grundstellung. Die Fahrstraße war aufgelöst.
+
+Abbildung 9: Hebelbank Fahrstraßensignalhebel
+
+Der Bedienhebel der Fahrwegweiche S163 war nicht mehr im Fahrstraßenverschluss und
+konnte bedient werden. Der Weichenhebel S163 befand sich in Grundstellung, d. h. die
+Weiche S163 war zur Fahrt nach rechts nach Gleis 204 eingestellt. An der Hebelbank war
+erkennbar, dass das Siegel an der Weichenhebelsperren‐Hilfstaste der Weiche S163 gelöst
+war.
+
+Seite 17 von 36
+
+Untersuchungsbericht
+Zugentgleisung, 12.05.2021, Bf Berlin‐Lichtenberg
+
+Abbildung 10: Hebelbank Weichenhebel
+
+Im Arbeits‐ und Störungsbuch fand sich dazu unter der laufenden Nummer 220 ein Eintrag mit
+der Uhrzeit 00:41 Uhr, dass dieses Siegel gelöst wurde. Eine Begründung war nicht angegeben.
+Durch das Bedienen der Weichenhebelsperren‐Hilfstaste konnte eine Weiche auch dann
+umgestellt werden, wenn durch die Gleisfreimeldeanlage eine Besetztmeldung angezeigt
+wurde. Der dokumentierte Zeitpunkt dieser Hilfsbedienung lag nach dem Unfallereignis.
+Obwohl sich der hintere Teil des Wagenparks des DGS 91017 im Gleis 203 befand, war die
+Fahrwegweiche S163 zur Fahrt nach rechts nach Gleis 204 eingestellt. Die Weichenmelder
+zeigten keine Störmeldungen. Es war daher anzunehmen, dass diese Weiche nach dem
+Ereignis wieder in diese vorgefundene und für die ursprüngliche Fahrstraße erforderliche
+Stellung gebracht worden ist. Somit war davon auszugehen, dass der vorgefundene Zustand
+an der Hebelbank nicht vollumfänglich dem zum Ereigniszeitpunkt entsprach.
+Die Weiche S162 befand sich dagegen in Stellung zur Fahrt nach links in Richtung der Weiche
+S163. Als Flankenschutzweiche für die Zugfahrstraße des DGS 91017 hätte sie sich dagegen in
+der Stellung zur Fahrt nach rechts befinden müssen. Da der Weichenmelder keine
+Auffahrmeldung zeigte muss davon ausgegangen werden, dass diese Weiche bereits vor dem
+
+Seite 18 von 36
+
+Untersuchungsbericht
+Zugentgleisung, 12.05.2021, Bf Berlin‐Lichtenberg
+
+Ereignis in diese Lage gebracht wurde. Das war nur möglich, wenn sich der
+Fahrstraßensignalhebel der Zugstraße l22/B1 in Grundstellung befand, die Zugstraße des
+DGS 91017 also aufgelöst war.
+Der Zugschluss bzw. der letzte Wagen des DGS 91017 befand sich nach dem Ereignis noch auf
+der Weiche S162. Entsprechend zeigte auf der Gleisbildtafel im Stw B6 für die Weiche S162
+eine Besetztmeldung an, ebenso die Gleisabschnitte 203 und 204. Die Weiche S163 zeigte
+keine Besetztmeldung an. Die Anzeigen zeigten den vor Ort vorgefundenen Zustand korrekt
+an.
+Die nachfolgende Abbildung zeigt die Gleisbildtafel im Stw B6 nach dem Ereignis.
+
+Abbildung 11: Gleisbildtafel Stw B6
+
+Die im Nachweis der Zählwerke zuletzt dokumentierte Zählwerksnummer für die
+Fahrstraßenhilfsauflösung der Fahrstraße l22/B1, die auch für den DGS 91017 benutzt wurde,
+stimmte mit dem Zählwerksstand überein. Der letzte dokumentierte Eintrag stammte vom
+Vortag 11.05.2021 um 22:10 Uhr für Zug 71914. Nach der Dokumentenlage zu urteilen fand
+somit augenscheinlich zum Ereigniszeitpunkt keine Fahrstraßenhilfsauflösung für die
+Fahrstraße l22/B1 des Zuges DGS 91017 statt.
+
+Seite 19 von 36
+
+Untersuchungsbericht
+Zugentgleisung, 12.05.2021, Bf Berlin‐Lichtenberg
+
+Abbildung 12: Nachweis der Zählwerke6
+
+Festzuhalten war zudem, dass sich der Zugschluss des DGS 91017 auch nach dem Ereignis
+räumlich gesehen noch vor der Fahrstraßenzugschlussstelle für diese Fahrtrichtung befand,
+jedoch im Gleis 203 statt im Gleis 204.
+Feststellungen
+Aus dem Verschlussplan ging u. a. hervor, dass mit Befahren des Gleiskontaktes zwischen den
+Spitzen der Weichen S191 und S177 das Signal L22 auf Halt fiel und mit Besetzen, Befahren
+und Wiederfreifahren des Weichenabschni s W161 die Fahrstraße l22/B1 zugbewirkt
+aufgelöst wurde. Zudem ertönte ein akus sches Weckersignal.
+
+Abbildung 13: Auszug aus Verschlussplan Stw B6 7
+
+Der für die zugbewirkte Fahrstraßenauflösung relevante Isolierabschni
+
+endete, in
+
+Fahrtrichtung des DGS 91017 betrachtet, etwa 4 Meter hinter dem Grenzzeichen der Weiche
+S161 im km 1,240, welches sich laut sicherungstechnischem Lageplan etwa 21 Meter vor dem
+
+6
+
+Quelle: DB Netz AG, bearbeitet durch BEU
+
+7
+
+Quelle: DB Netz AG, bearbeitet durch BEU
+
+Seite 20 von 36
+
+Untersuchungsbericht
+Zugentgleisung, 12.05.2021, Bf Berlin‐Lichtenberg
+
+Rangiersignal Rs 161 im km 1,257 befand. Dieser Isolierabschni war nach dem Ereignis durch
+den vorderen Zugteil des DGS 91017 freigefahren.
+Demgegenüber war dieser Isolierabschni vor dem Ereignis wegen des Halts des DGS 91017
+vor dem Asig E aufgrund der Zuglänge noch belegt. Somit konnte vor dem Unfallereignis keine
+zugbewirkte Fahrstraßenauflösung erfolgt sein.
+Es war stellwerkstechnisch ausgeschlossen, dass die Weiche S163 bedient werden konnte,
+solange diese integraler Bestandteil einer gesicherten Fahrstraße war. Das mechanische
+Verschlusswerk verhinderte ein Betätigen des Weichenhebels bei umgelegtem Fahrstraßen‐
+signalhebel.
+Um die Weiche S163 zum Zeitpunkt der Belegung durch den 19. Wagen des DGS 91017
+umzustellen, wäre es somit erforderlich gewesen, zum einen die Fahrstraße mittels
+Fahrstraßenhilfsauflösung aufzulösen und zum anderen die besetzte Weiche S163 durch
+Bedienen der Weichenhebelsperren‐Hilfstaste umzustellen.
+Fahrstraßenauflösung
+Um in Ausnahmefällen für eine Fahrstraße eine Hilfsauflösung durchzuführen, war diese
+zählpflich ge Handlung erst dann auszuführen, wenn gemäß Ril 408.0251 Abschn. 4 der Zug
+am gewöhnlichen Halteplatz zum Halten gekommen oder an der Fahrstraßenzugschlussstelle
+vorbeigefahren war. Gemäß den Angaben im Betriebsstellenbuch des Bf befand sich die
+Fahrstraßenzugschlussstelle für diese Fahrstraße am Rangiersignal Rs 161 in km 1,257.
+Zutreﬀend war hier die Vorbeifahrt an der Fahrstraßenzugschlussstelle, da ein gewöhnlicher
+Halteplatz im Weichenbereich nicht vorgesehen war.
+
+Seite 21 von 36
+
+Untersuchungsbericht
+Zugentgleisung, 12.05.2021, Bf Berlin‐Lichtenberg
+
+Abbildung 14: Auszug aus dem Betriebsstellenbuch, Zugschlussstellen B6 8
+
+Der Zugschluss des DGS 91017 befand sich zum Zeitpunkt der möglichen hilfsweisen
+Fahrstraßenauflösung etwa in km 1,485 und somit rund 230 Meter vor dem Rs 161. Weder
+waren die Zugeinwirkungsstelle für die zugbewirkte Fahrstraßenauflösung freigefahren noch
+die Fahrstraßenzugschlussstelle für eine hilfsweise Auflösung mit Zugschluss befahren
+worden. Eine technische Auflösung der Zugstraße war nicht erfolgt. Eine hilfsweise Auflösung
+war zu diesem Zeitpunkt nicht zulässig.
+Eine genauere Analyse des Eintrags im Nachweis der Zählwerke zur hilfsweisen
+Fahrstraßenauflösung am Vortag ergab, dass der schri lich dokumen erte Zeitpunkt mit der
+Begründung „nicht aufgelöst“ im Gegensatz zu den im Zugnummerndrucker dokumen erten
+Zeiten des genannten Zugs 71914 stand. Der niedergeschriebene Zeitpunkt lag ca. 7 Minuten
+vor dem Zeitpunkt, zu dem die Fahrstraße frühestens hä e freigefahren sein können. Im
+Arbeits‐ und Störungsbuch war dazu kein Störungseintrag vermerkt. Es ist daher zu vermuten,
+dass die Zählwerksnummer nicht zu der Zugfahrt 71914 am 11.05.2021 gehörte, sondern erst
+nach dem Ereignis entstanden war.
+Es ist daher davon auszugehen, dass der Fdl B6 durch Bedienung der Hilfsauflösung die noch
+durch den DGS 91017 besetzte Zugfahrstraße unzulässig aufgelöst hat. Diese Handlung wird
+als ursächlicher Faktor [F1] gewertet. Ein Unterlassen dieser Handlung hä e das Ereignis
+verhindert.
+
+8
+
+Quelle: DB Netz AG, bearbeitet durch BEU
+
+Seite 22 von 36
+
+Untersuchungsbericht
+Zugentgleisung, 12.05.2021, Bf Berlin‐Lichtenberg
+
+Umstellung Weiche S163
+Nach Ril 408.0131 Abschn. 2 musste ein Bediener bevor er eine Weiche umstellt feststellen,
+dass die Weiche nicht mit Fahrzeugen besetzt war. Für die Weiche S163 war die Feststellung
+einer Belegung über die Meldungen der Gleisbildanzeige möglich. Die Feststellung über das
+Freisein der Weiche musste gemäß Betriebsstellenbuch durch Hinsehen getroﬀen werden.
+Laut vorliegendem Aufnahmeprotokoll gefährlicher Ereignisse gemäß Ril 423.0410V01 sagte
+der Fdl gegenüber dem Notfallmanager aus, dass die eingestellte Fahrstraße l22/B1
+automatisch aufgelöst habe und die Gleisbesetzungsmeldung der Gleisbildanzeige auf dem
+Stw erloschen gewesen sei. Er habe zudem eine Fahrwegprüfung mittels Augenscheinprüfung
+durch das Stellwerksfenster durchgeführt und die Weiche S163 als frei und befahrbar erkannt.
+In nachfolgender Abbildung ist der Blick auf den zu prüfenden Fahrweg aus dem Stellwerk B6
+dargestellt. Der ermi elte Standort des Zugschlusses des DGS 91017 ist gekennzeichnet. Der
+Zugschluss bestand aus dem Signal Zg 2 mit zwei reflek erenden Schildern. Das Gleisfeld war
+ausgeleuchtet. Zusätzlich stand dem Fdl ein Scheinwerfer zur Verfügung. Festzustellen ist,
+dass bei einem Blick aus dem Fenster der Zugschluss auch bei Dunkelheit zu erkennen war.
+Die Feststellung, ob der Zug die Fahrstraßenzugschlussstelle passiert ha e, konnte demnach
+durchgeführt werden.
+
+Seite 23 von 36
+
+Untersuchungsbericht
+Zugentgleisung, 12.05.2021, Bf Berlin‐Lichtenberg
+
+Abbildung 15: Blick aus dem Stw B6 in Richtung Ereignisort
+
+Allerdings war es infrastrukturell kaum möglich, vom Stw B6 aus das Freisein der Weiche S163
+bei Nacht direkt per Augenschein zu prüfen. Der Zugschluss war, wie zuvor ausgeführt,
+erkennbar. Daher muss davon ausgegangen werden, dass die Angaben des Fdl zur
+Augenscheinprüfung nicht seiner Vorgehensweise zum Ereigniszeitpunkt entsprechen
+konnten.
+Eine genauere Betrachtung des Eintrags zum Lösen des Siegels an der Weichenhebelsperren‐
+Hilfstaste der Weiche S163 zeigte, dass zum dokumentierten Zeitpunkt 00:41 Uhr
+entsprechend der Ereignislage eine Hilfsbedienung der Weiche S163 gar nicht erforderlich
+war. Zu diesem Zeitpunkt nach dem Ereignis war die Weiche bereits freigefahren und konnte,
+sofern sich der Fahrstraßensignalhebel in Grundstellung befand, frei bedient werden. Diesen
+Sachverhalt bestätigte der Fdl selbst in einem GSM‐R‐Gespräch kurz darauf um 00:45 Uhr.
+
+Seite 24 von 36
+
+Untersuchungsbericht
+Zugentgleisung, 12.05.2021, Bf Berlin‐Lichtenberg
+
+In einem zuvor erfolgten GSM‐R‐Gespräch ab 00:31 Uhr, das unmittelbar zum
+Ereigniszeitpunkt stattfand, teilte der Fdl mit, dass er „komplett Rotausleuchtung da hinten
+hat, obwohl da gar nichts ist.“ Insofern ist die spätere Aussage des Fdl anzuzweifeln, bei der
+er angab, dass die Gleisbesetztmeldung der Weiche S163 auf der Gleisbildtafel erloschen
+gewesen wäre.
+Zusammenfassend ist festzustellen, dass die Aussagen des Fdl gegenüber dem No allmanager
+hinsichtlich einer technisch erfolgten Fahrstraßenauflösung nicht zutreﬀend sein konnten und
+auch die Fahrwegweiche S163 vor dem Ereignis noch als besetzt angezeigt wurde. Es ist daher
+davon auszugehen, dass der Fdl B6 durch Bedienung der Weichenhebelsperren‐Hilfstaste die
+noch durch den DGS 91017 belegte Weiche S163 unter einem Fahrzeug unzulässig umstellte.
+Diese Handlung wird als ursächlicher Faktor [F2] gewertet. Ein Unterlassen dieser Handlung
+hä e das Ereignis verhindert.
+4.1.2 Untersuchung der betrieblichen Abläufe der EVU
+In den nachfolgenden Abschni en werden die betrieblichen Abläufe der am Ereignis
+beteiligten Zugfahrten DGS 91017 und DLr 62220 dargestellt.
+Zugfahrt DGS 91017
+Die AMEHT war das für die Zugfahrt DGS 91017 verantwortliche EVU. Sie verfügte über eine
+Sicherheitsbescheinigung gemäß § 7a AEG mit einer Gül gkeit bis zum 25.02.2024 und war
+damit zur Teilnahme am Eisenbahnbetrieb auf dem übergeordneten Netz berech gt.
+Die Zugfahrt DGS 91017 verkehrte am Ereignistag von Ziltendorf EKO nach Lünen Süd. Der Zug
+bestand aus einem Triebfahrzeug (Tfz) der Baureihe 145 und 26 leeren Steinkohlestaub‐
+Behälterwagen der Ga ungen Uacs und Uacns. Die Behälterwagen waren durch die beidsei g
+angebrachten orangefarbenen Gefahren‐ und UN‐Nummerntafel 40/1361 als gefahrgut‐
+tragende Wagen gekennzeichnet. Gemäß Frachtbrief waren die Wagen nach den
+Bes mmungen des RID9 als „leer, ungereinigt, letztes Ladegut 40 UN 1361 Kohle oder Ruß“
+deklariert. Der Zug ha e eine Gesamtlänge von 518 m. Das Gesamtzuggewicht lag bei 768 t,
+das Gesamtbremsgewicht bei 844 t. Der DGS 91017 verfügte über 109 Bremshundertstel
+gegenüber 87 Mindestbremshundertsteln.
+
+9
+
+Règlement concernant le transport international ferroviaire de marchandises Dangereuses, dt.: Ordnung über
+
+die internationale Eisenbahnbeförderung gefährlicher Güter
+
+Seite 25 von 36
+
+Untersuchungsbericht
+Zugentgleisung, 12.05.2021, Bf Berlin‐Lichtenberg
+
+Die in der elektronischen Fahrtenregistrierung (EFR) gespeicherten Fahrdaten des führenden
+Tfz des DGS 91017 wurden durch die BEU ausgewertet. Die Rohdaten waren vollständig und
+fehlerfrei aufgezeichnet. Die im Fahrzeug registrierten Uhrzeiten und Datumsangaben
+deckten sich nicht mit den in den betrieblichen Systemen der DB Netz AG registrierten Zeiten.
+Die EFR‐Daten wurden daher mit den bekannten Systemzeiten synchronisiert.
+Die zulässigen Höchstgeschwindigkeiten des Zuges wurden im Betrachtungszeitraum nicht
+überschri en.
+Der DGS 91017 passierte das Zsig L22 im Stellbereich B6 um 00:11:57 Uhr synchronisierter Zeit
+mit ca. 38 km/h. Bei der Vorbeifahrt wurde eine 1.000 Hz‐Beeinflussung registriert, die der Tf
+mit der Bedienung der Wachsamkeitstaste qui erte. Im weiteren Verlauf kam der Zug um
+00:13:50 Uhr ca. 18 Meter vor dem Asig E zum S llstand.
+
+Abbildung 16: Auswertung EFR des DGS 91017
+
+Nach einer Haltezeit von 17 Minuten und 42 Sekunden fuhr der DGS 91017 um 00:31:42 Uhr
+synchronisierter Zeit wieder an und beschleunigte bis auf 15 km/h. Nach einer zurückgelegten
+Wegstrecke von 205 Metern kam der Zug nach 65 Sekunden um 00:32:47 Uhr nach einem
+Druckverlust in der Hauptlu leitung wieder zum S llstand.
+Seite 26 von 36
+
+Untersuchungsbericht
+Zugentgleisung, 12.05.2021, Bf Berlin‐Lichtenberg
+
+Zugfahrt DLr 62220
+Die ODEG war das für die Zugfahrt DLr 62220 verantwortliche EVU. Sie verfügte über eine
+Sicherheitsbescheinigung gemäß § 7a AEG mit einer Gül gkeit bis zum 25.06.2024 und war
+damit zur Teilnahme am Eisenbahnbetrieb auf dem übergeordneten Netz berech gt.
+Bei dem DLr 62220 handelte es sich um die Überführungsfahrt eines elektrischen
+Doppelstock‐Triebzugs der Baureihe 445 als Leerreisezug von Berlin Hauptbahnhof nach
+Berlin‐Lichtenberg.
+Die in der EFR gespeicherten Daten des DLr 62220 wurden durch die BEU ausgewertet. Die
+Rohdaten waren vollständig und fehlerfrei aufgezeichnet. Die im Fahrzeug registrierten
+Uhrzeiten wurden mit den bekannten Systemzeiten synchronisiert.
+Der DLr 62220 passierte das „Halt erwarten“ zeigende Einfahrsignal B des Bf Berlin‐
+Lichtenberg um 00:24:29 Uhr mit ca. 30 km/h. Der Tf qui erte die 1.000 Hz‐Beeinflussung mit
+der Bedienung der Wachsamkeitstaste.
+
+Abbildung 17: Auswertung EFR des DLr 62220
+
+Nach weiteren 735 Metern kam der DLr 62220 ca. 22 Meter vor dem haltzeigenden Zsig G um
+00:26:36 Uhr zum S llstand. Um 00:32:37 Uhr wurde eine Wegstreckenzunahme um ca.
+5 Meter registriert. Es ist anzunehmen, dass der DLr 62220 zu diesem Zeitpunkt durch die
+Kollision um eine geringe Wegstrecke „zurückgeschoben“ wurde.
+
+4.2 Fahrzeuge und technische Einrichtungen
+In diesem Kapitel sind die Erkenntnisse aus der Untersuchung beteiligter Fahrzeuge, der
+Eisenbahninfrastruktur und weiterer technischer Einrichtungen einschließlich damit eventuell
+verbundener Tä gkeiten und Entscheidungen dargestellt.
+
+Seite 27 von 36
+
+Untersuchungsbericht
+Zugentgleisung, 12.05.2021, Bf Berlin‐Lichtenberg
+
+4.2.1 Untersuchung von Fahrzeugen
+Das führende Tfz des DGS 91017 mit der Fahrzeugnummer 91 80 6 145 099‐8 wurde aufgrund
+des Ereignishergangs nicht näher untersucht. Fahrzeughalter war die Alpha Trains
+Luxembourg.
+Der an 19 Stelle im Zugverband laufende Güterwagen mit der Fahrzeugnummer
+33 80 9319 042‐3 lief ab der Weiche S163 zweispurig und kollidierte anschließend mit dem
+stehenden DLr 62220. Bei diesem Wagen handelte es sich um einen 4‐achsigen
+Behälterwagen der Gattung Uacs, der auch für die Beförderung von Gefahrgütern der Klasse 4
+zugelassen war. In der nachfolgenden Tabelle sind die technischen Daten des Fahrzeugs
+zusammengestellt.
+Wagennummer
+
+33 80 9319 042‐3
+
+Baujahr/Hersteller
+
+1983/ELH Waggonbau Niesky GmbH
+
+Halter
+
+VTG AG
+
+Ga ungszeichen
+
+Uacs
+
+Eigengewicht
+
+26.000 kg
+
+Länge (LüP)
+
+19.040 mm
+
+Drehzapfenabstand
+
+14.000 mm
+
+Anzahl der Radsätze
+
+4
+
+Lastgrenzen
+
+A 38,0 t, B 46,0 t, C 54,0 t
+
+Max. zul. Fahrzeuggeschwindigkeit
+(beladen; unbeladen)
+
+100 km/h; 120 km/h
+
+Behältervolumen
+
+90 m³
+
+Tabelle 4: Technische Daten Wagen 33 80 9319 042‐3
+
+Unfallursächliche Einflüsse aus dem entgleisten Behälterwagen konnten nicht festgestellt
+werden.
+Der DLr 62220 bestand aus einem vierteiligen Stadler‐Doppelstock‐Triebzug mit der
+Fahrzeugnummer 94 80 0445 104‐3. Fahrzeughalter war die ODEG. Aufgrund des
+Ereignishergangs wurde dieses Fahrzeug nicht näher untersucht.
+
+Seite 28 von 36
+
+Untersuchungsbericht
+Zugentgleisung, 12.05.2021, Bf Berlin‐Lichtenberg
+
+4.2.2 Untersuchung der bautechnischen Infrastruktur
+Die ereignisrelevante Weiche S163 im Bf Berlin‐Lichtenberg war eine einfache Weiche der
+Bauform IBW 54‐300‐1:9. Nach dem Ereignis befand sich die Weiche S163 zur Fahrt nach
+rechts in Richtung Gleis 204. Die Weiche befand sich in Endlage. Anzeichen für eine
+Fehlfunk on der Weiche wurden nicht festgestellt.
+Die Weiche S163 wurde zuletzt am 05.01.2021 im Rahmen der Regelinspek on überprü .
+Mängel waren nicht dokumen ert.
+Im Verlauf der Gleise 203 und 204 wurden im Bereich der Kollisionsstelle Beschädigungen an
+der Gleislage und an den Schwellen festgestellt. Diese wurden jedoch sämtlich als Folgen der
+Entgleisung iden fiziert. Für das Ereignis ursächliche Einflüsse aus der bautechnischen
+Infrastruktur konnten im Rahmen der Untersuchung ausgeschlossen werden.
+4.2.3 Untersuchung der Leit‐ und Sicherungstechnik
+Hinsichtlich der LST‐Anlagen lagen keine Hinweise auf Unregelmäßigkeiten oder Störungen
+vor. Die Signalanlagen wurden regelmäßig inspiziert.
+Unmi elbar vor dem Ereignis wurden neben den Inspek onsarbeiten an den Weichen S150,
+S151, S174, S184 und S191 auch Arbeiten an der Stromversorgungsanlage durchgeführt. Diese
+Arbeiten waren am Vortag 11.05.2021 gegen 23:00 Uhr abgeschlossen. Auswirkungen dieser
+Arbeiten auf das Unfallereignis konnten nicht festgestellt werden.
+Für die Zugfahrt DGS 91017 war die Fahrstraße l22/B1 vom Zsig L22 nach Asig E erforderlich.
+Das signalisierte Signalbild wurde vor Ort nachvollzogen und entsprach den Schaltungsplänen.
+Das relevante Signal L22 zeigte für die Fahrstraße bis zum Asig E das Signalbild Hl 12a.
+Aufgrund der Aussagen des Fdl, dass sich die Fahrstraße aufgelöst habe, wurden die
+Funk onalitäten des Stw B6 insbesondere hinsichtlich der Auflösekriterien der betroﬀenen
+Fahrstraße l22/B1 durch Fachpersonale des EIU im Beisein der BEU eingehend überprü .
+Störungen oder Fehlfunk onen im Stw B6 konnten nicht festgestellt werden.
+Der Weichenhebel der Weiche S163 konnte nur bewegt werden, wenn sich der
+Fahrstraßensignalhebel in Grundstellung befand (mechanischer Verschluss).
+Die Weiche S163 war mit einer Weichenhebelsperre ausgerüstet. Solange die Weiche S163
+durch ein Fahrzeug besetzt war, verhinderte die Weichenhebelsperre ein Umstellen der
+Weiche. Eine Störung war hierbei ebenfalls nicht feststellbar.
+
+Seite 29 von 36
+
+Untersuchungsbericht
+Zugentgleisung, 12.05.2021, Bf Berlin‐Lichtenberg
+
+Die Signalanlagen arbeiteten bes mmungsgemäß. Hinweise auf Störungen lagen nicht vor.
+
+4.3 Menschliche Faktoren
+In diesem Kapitel werden Untersuchungserkenntnisse zu menschlichen Handlungen und/oder
+Entscheidungen am gefährlichen Ereignis beteiligter Personen dargestellt. Entsprechende
+Erkenntnisse können sich hierbei insbesondere im Bereich menschlicher und individueller
+Merkmale sowie organisatorischer und Arbeitsplatzfaktoren ergeben.
+4.3.1 Beteiligte des Infrastrukturbetreibers
+Der Fdl im Stw B6 absolvierte am 18.12.2019 seine örtliche Prüfung gemäß Ril 482.0046V02
+für die Funk on als Fdl im Stw B6 im Bf Berlin‐Lichtenberg. Er besaß alle notwendigen
+Qualifika onen, um diese Tä gkeit ausführen zu dürfen. Ein aktueller Tauglichkeitsnachweis
+wurde zur Einsichtnahme vorgelegt. Die Teilnahme an Fortbildungsunterrichten sowie die
+regelmäßig durchzuführenden Überwachungen bei der Arbeitsausführung wurden nachge‐
+wiesen. Die Überprüfung der Schichteinteilung ergab bezüglich der Einhaltung der Ruhezeiten
+keine Auﬀälligkeiten.
+Aus einer vorgelegten grafischen Belastungskurve nach SOB (Stellwerke op mal besetzen)
+war für den Ereigniszeitraum nur eine geringe Arbeitsbelastung für den Arbeitsplatz Fdl im
+Stw B6 ermi elt worden. Es standen ausreichende Reserven zur Verfügung.
+In einem GSM‐R‐Gespräch um 00:21 Uhr mit dem Tf des DLr 62220 zeigte sich der Fdl B6
+überrascht über die Zugfahrt und urteilte selbst, dass er „total verpeilt“ sei. In einem weiteren
+Gespräch um 00:29 Uhr teilte die Fdl im Stw B1 dem Fdl B6 mit, dass sie ihm einen Zug, den
+DLr 62220, gegeben hä e. Darau in erwiderte der Fdl B6, dass er das wisse, aber die Weiche
+S163 nicht umstellen könne. Die Hebelsperre sei irgendwie ak v. Darau in empfahl die Fdl
+auf Stw B1 dem Fdl B6, die Hilfstaste zu verwenden. Der Fdl B6 antwortete, dass er das
+probieren wolle. Augenscheinlich baute sich durch den Anruf für den Fdl im Stw B6 ein
+Zeitdruck auf, die Zugfahrt des DLr 62220 nicht weiter zu verzögern.
+Es war anzunehmen, dass der Fdl B6 zum Zeitpunkt der Gespräche den Überblick über die
+aktuelle Betriebssitua on verloren ha e. Trotz der Belegtanzeigen der Gleisbildanzeige ha e
+er den vor ca. 15 Minuten bis zum Asig E vorgerückten DGS 91017 aus dem Blick verloren.
+Ursachen ließen sich nicht ermi eln. Weitere Zugfahrten waren ab 00:00 Uhr bis zum
+Ereigniszeitpunkt nicht im Zugnummerndrucker dokumen ert. Inwieweit Rangierfahrten
+
+Seite 30 von 36
+
+Untersuchungsbericht
+Zugentgleisung, 12.05.2021, Bf Berlin‐Lichtenberg
+
+durchzuführen waren, konnte nicht mehr nachvollzogen werden. Eine Überlastung des Fdl
+war aus den betrieblichen Unterlagen heraus nicht erkennbar.
+Ausgelöst durch den zeitlichen Druck und den fehlenden Überblick über die tatsächliche
+Betriebssitua on wurden durch den Fdl im Stw B6 im Folgenden die zwei entscheidenden
+Fehlhandlungen begangen. Zunächst löste er die Fahrstraße des DGS 91017 auf, obwohl diese
+noch durch den Zug besetzt war. Im Anschluss stellte er die Weiche S163 mi els
+Hilfsbedienung unter dem DGS 91017 um.
+4.3.2 Beteiligte der EVU
+Der Tf des DGS 91017 war im Besitz eines gül gen Triebfahrzeugführerscheins gemäß
+Triebfahrzeugführerscheinverordnung (TfV). Für das Führen von Eisenbahnfahrzeugen erhielt
+er von der AMEHT eine Zusatzbescheinigung, in der auch die Befähigung zum Führen des
+eingesetzten Tfz der Baureihe 145 nachgewiesen wurde. Der Tf besaß die für den betroﬀenen
+Streckenabschni
+
+nö ge Streckenkenntnis. Ein aktueller Tauglichkeitsnachweis nach den
+
+Kriterien der TfV wurde zur Einsichtnahme vorgelegt. Die Überwachung bei der
+Dienstausübung am Arbeitsplatz wurde nachgewiesen. Die Ruhezeiten waren eingehalten.
+Der Tf des DLr 62220 war ebenfalls im Besitz eines gül gen Triebfahrzeugführerscheins gemäß
+TfV. Für das Führen von Eisenbahnfahrzeugen erhielt er von der ODEG eine
+Zusatzbescheinigung, in der auch die Befähigung zum Führen des eingesetzten Triebzuges
+nachgewiesen wurde. Der Tf besaß die für den betroﬀenen Streckenabschni
+
+nö ge
+
+Streckenkenntnis. Ein aktueller Tauglichkeitsnachweis nach den Kriterien der TfV wurde zur
+Einsichtnahme vorgelegt. Die Überwachung bei der Dienstausübung am Arbeitsplatz wurde
+nachgewiesen. Die Ruhezeiten waren eingehalten.
+
+4.4 Feedback‐ und Kontrollmechanismen
+In diesem Kapitel wird insbesondere auf Bedingungen, Feedback‐ und Kontrollmechanismen
+im Eisenbahnsystem eingegangen, denen ein ak ver Einfluss auf die Entstehung ähnlicher
+Ereignisse zugeschrieben werden könnte. Diese Mechanismen schließen Faktoren des Risiko‐
+und Sicherheitsmanagement sowie Überwachungsverfahren mit ein.
+4.4.1 SMS des EIU
+Gemäß § 4 Abs. 3 AEG sind Eisenbahnen verpflichtet, ihren Betrieb sicher zu führen, die
+Eisenbahninfrastruktur sicher zu bauen und in betriebssicherem Zustand zu halten. Diese
+
+Seite 31 von 36
+
+Untersuchungsbericht
+Zugentgleisung, 12.05.2021, Bf Berlin‐Lichtenberg
+
+Anforderungen gelten als erfüllt, wenn u. a. ein SMS entsprechend § 4 Abs. 4 AEG i. V. m. der
+Richtlinie (EU) 2016/798 eingerichtet war. Inhaltliche Maßstäbe für ein SMS waren die
+Aufstellung und Einhaltung der in der Verordnung (EU) 2018/762 genannten Anforderungen
+an ein SMS.
+Hinweise auf Mängel im SMS des EIU bezogen auf das Ereignis waren nicht festzustellen.
+4.4.2 SMS der EVU
+Gemäß § 4 Abs. 3 AEG war ein EVU verpflichtet, den Betrieb sicher zu führen. Insbesondere
+bestand eine Verpflichtung zur sicheren Durchführung von Zugfahrten. Zur Gewährleitung der
+systema sch sicheren Betriebsführung gehört u. a. das Aufstellen und Einhalten eines den
+gesetzlichen Anforderungen genügenden SMS entsprechend § 4 Abs. 4 AEG i. V. m. der
+Richtlinie (EU) 2016/798.
+
+Inhaltliche
+
+Maßstäbe
+
+für
+
+ein
+
+SMS
+
+waren
+
+die
+
+in
+
+der
+
+Verordnung (EU) 2018/762 genannten Anforderungen. Zur sicheren Durchführung der
+Zugfahrten auf der Infrastruktur der DB Netz AG ha en die Tf untersetzende, unternehmens‐
+interne Arbeitsvorgaben zu beachten und umzusetzen, unter anderem die Fahrdienst‐
+vorschri Ril 408 sowie die Regelungen des jeweiligen EVU im Betriebsregelwerk.
+Da ein entsprechender Zusammenhang zum Ereignis nicht gegeben war, wurde auf eine
+nähere Prüfung des SMS der EVU verzichtet.
+
+4.5 Frühere Ereignisse ähnlicher Art
+Im Zusammenhang mit dem vorzei gen Auflösen von Fahrstraßen bzw. dem Umstellen von
+Fahrwegelementen unter dem rollenden Rad wurden in der Vergangenheit folgende
+Entgleisungsereignisse durch die BEU untersucht:
+
+
+23.02.2022: Die Zugfahrt S 35968 entgleiste im Bf Rüsselsheim auf der Weiche 74 mit
+den letzten beiden Drehgestellen, nachdem der Fdl die Hilfsfahrstraße nicht regel‐
+konform gesichert und die Weiche unzeitig unter dem Zug umgestellt hatte.
+
+
+
+23.01.2020: IC 2382 entgleiste bei der Einfahrt in den Bf Horb auf der Weiche 65 mit
+dem zweiten und dritten Wagen. Die Zugentgleisung ist auf das unzeitige Umstellen
+der Weiche 65 unter dem sich bewegenden Fahrzeugen des einfahrenden IC 2382 in
+Verbindung mit der fehlenden Sicherung der Hilfsfahrstraße zurückzuführen.
+
+
+
+12.04.2019: DPN 61357 entgleist im Bf Joachimsthal auf der Weiche 1. Das Nicht‐
+beachten der Fahrstraßenzugschlussstelle für die Einfahrt des DPN 61357 führte zum
+unzeitigen Umstellen der Weiche 1 unter dem Zug und damit zur Entgleisung.
+Seite 32 von 36
+
+Untersuchungsbericht
+Zugentgleisung, 12.05.2021, Bf Berlin‐Lichtenberg
+
+
+
+04.10.2018: Der letzte Wagen des Güterzuges GB 47182 entgleiste bei der Einfahrt
+nach Gleis 114 auf der Weiche 74 des Güterbahnhofs Neuss und kollidierte
+anschließend mit einer in Gleis 113 abgestellten Wagengruppe. Der Fdl des Stw Ngf
+bediente die Weiche 74 nach einer mangelhaften Fahrwegsicherung zur Unzeit und
+stellte diese um, obwohl der Güterzug GB 47182 sie noch nicht geräumt hatte.
+
+Seite 33 von 36
+
+Untersuchungsbericht
+Zugentgleisung, 12.05.2021, Bf Berlin‐Lichtenberg
+
+5 Schlussfolgerungen
+Das folgende Kapitel enthält eine Zusammenfassung der ermi elten ursächlichen,
+beitragenden und systemischen Faktoren Zusätzlich sind zwei weitere Unterkapitel
+vorgesehen, um Informa onen zu bereits ergriﬀenen Maßnahmen und zu zusätzlichen
+Bemerkungen zu teilen.
+
+5.1 Zusammenfassung und Schlussfolgerung
+Das Ereignis wurde durch Arbeitsfehler des verantwortlichen Fdl im Stw B6 ausgelöst.
+Entgegen den Regeln der Ril 408 löste er die Fahrstraße des Zuges DGS 91017 vorzei g auf
+[F1] und legte die Weiche S163 unter dem 19. Wagen des Güterzugs ohne Prüfung auf Freisein
+um [F2].
+Zu ursächlichen Faktoren „Unzei ge Hilfsbedienung zur Fahrstraßenauflösung“ [F1] und
+„Unzei ge Hilfsbedienung zur Weichenumstellung“ [F2]
+Unter Berücksich gung der störungsfreien Funk onsweise des Stw B6 und den Wider‐
+sprüchlichkeiten in der Dokumenta on der letzten Fahrstraßenhilfsauflösung kann davon
+ausgegangen werden, dass der Fdl im Stw B6 entgegen den Vorgaben der Ril 408.0251
+Abschn. 4 die Fahrstraße des DGS 91017 unzulässig vorzei g aufgelöst ha e. Der Zug ha e
+weder die Zugeinwirkungsstelle freigefahren noch die Fahrstraßenzugschlussstelle mit
+Zugschluss geräumt. Es wäre dem Fdl problemlos möglich gewesen, den Zugschluss des Zuges
+durch Augenschein festzustellen und den Standort des DGS 91017 über die Besetztmelder der
+Gleisbildanzeige zu lokalisieren.
+Entgegen den Bes mmungen der Ril 408.0131 Abschn. 2 ha e der Fdl sich vor dem Umstellen
+der Weiche S163 nicht davon überzeugt, dass diese frei von Fahrzeugen war. Entgegen den
+Vorgaben ha e er das Siegel der Weichenhebelsperren‐Hilfstaste gelöst und die Weiche ohne
+weitere Überprüfung auf Freisein unter einem Fahrzeug umgestellt.
+Im Stw B6 waren sowohl eine zugbewirkte Fahrstraßenauflösung als auch eine
+Gleisfreimeldeanlage mit Weichenhebelsperren vorhanden und die Möglichkeit der
+Fahrwegprüfung durch Augenschein gegeben. Weshalb der Fdl diese technischen und
+betrieblichen Sicherungseinrichtungen nicht nutzte, sondern diese durch Hilfsbedienungen
+umging, konnte nicht nachvollzogen werden. Es war davon auszugehen, dass der Fdl die
+Übersicht über das Betriebsgeschehen verloren ha e. Hinzu kam ein subjek ver Zeitdruck bei
+der Durchführung der wartenden Zugfahrt DLr 62220. Beides führte zu fehlerha en
+
+Seite 34 von 36
+
+Untersuchungsbericht
+Zugentgleisung, 12.05.2021, Bf Berlin‐Lichtenberg
+
+Annahmen zum Freisein von Fahrwegelementen in seinem Stellbezirk. In der Folge
+missachtete er mehrere eindeu ge Regelwerksvorgaben, die bei korrekter Beachtung jeweils
+geeignet waren, derar ge fehlerha e Annahmen zu korrigieren. Die betrieblichen Regelungen
+zu Fahrstraßenauflösung und Umstellen von Weichen sowie zu Hilfsbedienungen waren
+eindeu g. In Verbindung mit den vorhandenen technischen Sicherungseinrichtungen in Form
+der Gleisfreimeldeanlage und der Weichenhebel‐Hilfssperre waren diese durchaus geeignet,
+derar ge Vorkommnisse zu vermeiden. Generell kann aber eine höhere Automa sierung
+durch
+
+modernisierte
+
+Stellwerksanlagen
+
+zum
+
+Ausschluss
+
+menschlicher
+
+Fehler
+
+im
+
+Betriebsprozess beitragen. Diese Zusammenhänge sind dem EIU bekannt, wozu es ein
+Programm zur Modernisierung der Stellwerksanlagen verfolgt. Auf das Aussprechen einer
+Sicherheitsempfehlung wird daher verzichtet.
+
+5.2 Seit dem Ereignis getroffene Maßnahmen
+Der diensthabende Fdl auf B6 wurde nach dem Ereignis aus dem Dienst genommen. Er wurde
+nicht wieder in der Region Ost als Fdl eingesetzt.
+Die Stellwerkstechnik wurde einer intensiven Prüfung durch Erdschluss‐Simula onen,
+Querspannungs‐ und Erdungseinflüssen, sowie Versagen der Versorgungsspannung zu jedem
+Zeitpunkt der Zugfahrt und deren Auflösezyklus unterzogen.
+Trotz Nachweis einer fehlerfreien Funk on der LST‐Anlage wurden nachstehende betriebliche
+Ersatzmaßnahmen getroﬀen:
+Für alle Zugfahrten von B6 nach B1 und von B1 nach B6 wurden durch den
+Eisenbahnbetriebsleiter Ost des EIU ergänzend Abschni sprüfungen angeordnet, um die
+Sicherstellung des Freiseins der Abschni e vor dem Befahren und nochmalig vor der
+Rücknahme der Fahrstraßensignalhebel der beschriebenen Zugfahrten zu gewährleisten. Mit
+dieser Maßnahme sollte sichergestellt werden, dass keine unzei gen Fahrstraßenauflösungen
+und Weichenumstellungen vom Fdl im Stellbereich B6 bezüglich vorgenannter Zugfahrten
+vorgenommen werden können.
+
+5.3 Zusätzliche Bemerkungen
+En ällt.
+
+Seite 35 von 36
+
+Untersuchungsbericht
+Zugentgleisung, 12.05.2021, Bf Berlin‐Lichtenberg
+
+6 Sicherheitsempfehlungen
+Es wurde keine Sicherheitsempfehlung ausgesprochen.
+
+Seite 36 von 36
+
+

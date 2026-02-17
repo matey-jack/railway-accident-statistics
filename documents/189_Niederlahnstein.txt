@@ -1,0 +1,2180 @@
+Untersuchungsbericht
+Aktenzeichen:
+
+BEU-uu2020-08/011-3323
+
+Stand:
+
+29.08.2022 Version: 1.0
+
+Erstveröﬀentlichung:
+
+30.08.2022
+
+Gefährliches Ereignis im Eisenbahnbetrieb
+
+Ereignisart:
+
+Zugentgleisung
+
+Datum:
+
+30.08.2020
+
+Zeit:
+
+18:35 Uhr
+
+Bahnhof:
+
+Niederlahnstein
+
+Streckennummer:
+
+3710/3507
+
+Kilometer:
+
+99,45/124,1
+
+Untersuchungsbericht
+Zugentgleisung, 30.08.2020, Niederlahnstein
+
+Veröﬀentlicht durch:
+Bundesstelle für Eisenbahnunfalluntersuchung
+Heinemannstraße 6
+53175 Bonn
+
+Untersuchungsbericht
+Zugentgleisung, 30.08.2020, Niederlahnstein
+
+Inhaltsverzeichnis
+I.
+
+Änderungsverzeichnis: ......................................................................................... III
+
+II.
+
+Abbildungsverzeichnis: ........................................................................................ IV
+
+III.
+
+Tabellenverzeichnis: ............................................................................................. V
+
+IV.
+
+Abkürzungsverzeichnis: ....................................................................................... VI
+
+0
+
+Vorbemerkung...................................................................................................... 1
+
+1
+
+Zusammenfassung ................................................................................................ 2
+
+1.1
+
+Kurzbeschreibung des Ereignisses........................................................................... 2
+
+1.2
+
+Folgen ...................................................................................................................... 2
+
+1.3
+
+Ursachen.................................................................................................................. 2
+
+1.4
+
+Sicherheitsempfehlungen ....................................................................................... 2
+
+2
+
+Die Untersuchung und ihr Kontext ........................................................................ 4
+
+3
+
+Beschreibung des Ereignisses................................................................................ 6
+
+3.1
+
+Informationen über das Ereignis und seine Hintergründe ..................................... 6
+
+3.1.1
+
+Lage und Beschreibung des Ereignisortes ............................................................... 6
+
+3.1.2
+
+Beteiligte.................................................................................................................. 8
+
+3.1.3
+
+Äußere Bedingungen ............................................................................................... 8
+
+3.1.4
+
+Todesopfer, Verletzte und Sachschäden................................................................. 9
+
+3.2
+
+Sachliche Beschreibung der Vorkommnisse ......................................................... 12
+
+3.2.1
+
+Hergangsbeschreibung .......................................................................................... 12
+
+3.2.2
+
+Notfallmanagement .............................................................................................. 14
+
+4
+
+Auswertung des Ereignisses ................................................................................ 15
+
+4.1
+
+Aufgaben und Pflichten ......................................................................................... 15
+
+4.1.1
+
+Untersuchung der betrieblichen Abläufe des EVU ............................................... 15
+
+I
+
+Untersuchungsbericht
+Zugentgleisung, 30.08.2020, Niederlahnstein
+
+4.1.2
+
+Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers ................. 22
+
+4.2
+
+Fahrzeuge und technische Einrichtungen ............................................................. 24
+
+4.2.1
+
+Untersuchung des Tfz ............................................................................................ 24
+
+4.2.2
+
+Untersuchung der Kesselwagen ............................................................................ 27
+
+4.2.3
+
+Untersuchung der bautechnischen Infrastruktur ................................................. 31
+
+4.2.4
+
+Untersuchung der Leit- und Sicherungstechnik (LST) ........................................... 42
+
+4.3
+
+Menschliche Faktoren ........................................................................................... 44
+
+4.3.1
+
+Qualifikation und Tauglichkeit Tf .......................................................................... 44
+
+4.3.2
+
+Zuverlässigkeit Tf ................................................................................................... 45
+
+4.3.3
+
+Fahrbahn und LST .................................................................................................. 47
+
+4.4
+
+Feedback- und Kontrollmechanismen .................................................................. 48
+
+4.4.1
+
+Sicherheitsmanagementsystem (SMS) des EVU ................................................... 48
+
+4.4.2
+
+SMS des EIU ........................................................................................................... 50
+
+4.5
+
+Frühere Ereignisse ähnlicher Art ........................................................................... 51
+
+5
+
+Schlussfolgerungen ............................................................................................. 52
+
+5.1
+
+Zusammenfassung und Schlussfolgerung ............................................................. 52
+
+5.1.1
+
+EIU ......................................................................................................................... 53
+
+5.1.2
+
+Fdl .......................................................................................................................... 54
+
+5.1.3
+
+EVU ........................................................................................................................ 55
+
+5.1.4
+
+Tf ............................................................................................................................ 55
+
+5.1.5
+
+Ausrüstung Kesselwagen ....................................................................................... 56
+
+5.2
+
+Seit dem Ereignis getroffene Maßnahmen ........................................................... 57
+
+5.3
+
+Zusätzliche Bemerkungen ..................................................................................... 57
+
+5.3.1
+
+Auffälligkeiten Tf ................................................................................................... 57
+
+5.3.2
+
+Tf-Nummer ............................................................................................................ 58
+
+II
+
+Untersuchungsbericht
+Zugentgleisung, 30.08.2020, Niederlahnstein
+
+6
+
+I.
+
+Sicherheitsempfehlungen ................................................................................... 60
+
+Änderungsverzeichnis:
+Änderung
+
+Stand
+
+III
+
+Untersuchungsbericht
+Zugentgleisung, 30.08.2020, Niederlahnstein
+
+II.
+
+Abbildungsverzeichnis:
+Abbildung 1: Lageplan ................................................................................................................ 7
+Abbildung 2: Gleislageskizze ...................................................................................................... 8
+Abbildung 3: Luftbild ................................................................................................................ 10
+Abbildung 4: Blick vom Stellwerk ............................................................................................. 10
+Abbildung 5: Unfalleinwirkungen............................................................................................. 11
+Abbildung 6: Tank perforiert, Erdreich verunreinigt................................................................ 11
+Abbildung 7: Kopfdaten Fahrplan 49077 ................................................................................. 16
+Abbildung 8: Auszug Fahrplan DGS 49077 ............................................................................... 16
+Abbildung 9: EFR Zugdateneingabe ......................................................................................... 19
+Abbildung 10: EFR-Daten Vorlauf Köln - Koblenz..................................................................... 20
+Abbildung 11: EFR-Grafik Ereignisort ....................................................................................... 21
+Abbildung 12: EFR und IVL-Plan ............................................................................................... 22
+Abbildung 13: Tfz Ansicht von hinten ...................................................................................... 25
+Abbildung 14: Wagen 7 beschädigte Tankwand durch Puffereinwirkung............................... 30
+Abbildung 15: Entgleisungsstelle ............................................................................................. 31
+Abbildung 16: Entgleisungsverlauf in der Weiche 18 .............................................................. 32
+Abbildung 17: Auszug Trassierungsplan Bestand .................................................................... 33
+Abbildung 18: Auszug Ril 800.0110 Tabelle 10 (Stand 01.08.2009) ........................................ 33
+Abbildung 19: Auszug tabellarisches Messprotokoll KRABBE.................................................. 36
+Abbildung 20: Auszug grafische Darstellung KRABBE Messung .............................................. 37
+Abbildung 21: Zoomansicht Bogeneinlauf rechte Schiene ...................................................... 38
+Abbildung 22: Signalstellung Zsig S105 .................................................................................... 43
+
+IV
+
+Untersuchungsbericht
+Zugentgleisung, 30.08.2020, Niederlahnstein
+
+III.
+
+Tabellenverzeichnis:
+Tabelle 1: Übersicht der äußeren Bedingungen ........................................................................ 9
+Tabelle 2: Übersicht der Personenschäden ............................................................................... 9
+Tabelle 3: Übersicht der geschätzten Schadenshöhe ................................................................ 9
+Tabelle 4: EFR-Zugdaten ........................................................................................................... 18
+Tabelle 5: Technische Daten Tfz ............................................................................................... 24
+Tabelle 6: Technische und betriebliche Daten Kesselwagen ................................................... 28
+
+V
+
+Untersuchungsbericht
+Zugentgleisung, 30.08.2020, Niederlahnstein
+
+IV.
+
+Abkürzungsverzeichnis:
+AEG
+
+Allgemeines Eisenbahngesetz
+
+BEU
+
+Bundesstelle für Eisenbahnunfalluntersuchung
+
+BEVVG
+
+Bundeseisenbahnverkehrsverwaltungsgesetz
+
+BRA
+
+Bremsart
+
+BRH
+
+Bremshundertstel
+
+CCD
+
+Control and Command Display
+
+DAS
+
+Digitales Auswertesystem
+
+EBA
+
+Eisenbahn-Bundesamt
+
+E-Bremse
+
+Elektrodynamische Bremse
+
+EFR
+
+Elektronische Fahrtenregistrierung
+
+EIU
+
+Eisenbahninfrastrukturunternehmen
+
+Esig
+
+Einfahrsignal
+
+EU
+
+Europäische Union
+
+EUV
+
+Eisenbahn-Unfalluntersuchungsverordnung
+
+EVU
+
+Eisenbahnverkehrsunternehmen
+
+Fdl
+
+Fahrdienstleiter/Fahrdienstleiterin
+
+GGVSEB
+
+Gefahrgutverordnung Straße, Eisenbahn und Binnenschiﬀfahrt
+
+HLL
+
+Hauptlu leitung
+
+La
+
+Zusammenstellung der vorübergehenden Langsamfahrstellen
+
+LST
+
+Leit- und Sicherungstechnik
+
+MBR
+
+Mindestbremshundertstel
+
+NFLS
+
+No allleitstelle
+
+Nmg
+
+No allmanager
+
+PZB
+
+Punk örmige Zugbeeinflussung
+
+RID
+
+Ordnung für die interna onale Eisenbahnbeförderung gefährlicher Güter
+
+Ril
+
+Richtlinie
+
+VI
+
+Untersuchungsbericht
+Zugentgleisung, 30.08.2020, Niederlahnstein
+
+SMS
+
+Sicherheitsmanagementsystem
+
+Tf
+
+Triebfahrzeugführer/Triebfahrzeugführerin
+
+TFS
+
+Triebfahrzeugführerscheinstelle
+
+TfV
+
+Triebfahrzeugführerscheinverordnung
+
+Tfz
+
+Triebfahrzeug
+
+THW
+
+Technisches Hilfswerk
+
+TRU
+
+Train Recording Unit
+
+TUIS
+
+Transport-Unfall-Informa ons- und Hilfeleistungssystem
+
+VzG
+
+Verzeichnis der örtlich zulässigen Geschwindigkeiten
+
+Zsig
+
+Zwischensignal
+
+VII
+
+Untersuchungsbericht
+Zugentgleisung, 30.08.2020, Niederlahnstein
+
+0 Vorbemerkung
+Auf der Grundlage des Ar kel 24 der Richtlinie (EU) 2016/798 hat die europäische Kommission
+mit der Inkra setzung der Durchführungsverordnung (EU) 2020/572 die zu befolgende Untersuchungsberichtsstruktur festgelegt. Diese Vorgaben sind grundsätzlich einzuhalten und müssen der Art und Schwere des gefährlichen Ereignisses angepasst sein.
+Mit Verkündung der Verordnung und Inkra setzung am zwanzigsten Tag nach der Veröﬀentlichung im Amtsbla der Europäischen Union ist diese verbindlich und unmi elbar auf alle ab
+dem 17.05.2020 eingeleiteten Untersuchungen anzuwenden.
+
+Seite 1 von 60
+
+Untersuchungsbericht
+Zugentgleisung, 30.08.2020, Niederlahnstein
+
+1 Zusammenfassung
+Das erste Kapitel enthält eine Kurzbeschreibung des Ereignisses sowie Informa onen zu den
+Folgen, Primärursachen und zu im Einzelfall ausgesprochenen Sicherheitsempfehlungen.
+
+1.1 Kurzbeschreibung des Ereignisses
+Am 30.08.2020 gegen 18:35 Uhr entgleiste der mit Dieselkra stoﬀ beladene Kesselwagenzug
+DGS 49077 auf der Fahrt von Ro erdam nach Basel im Bahnhof Niederlahnstein in der Weichenverbindung W 35 – W 18.
+
+1.2 Folgen
+Eine Person wurde leicht verletzt. Das Triebfahrzeug (Tfz) sowie acht Mineralölkesselwagen
+entgleisten. Sechs der entgleisten Kesselwagen kippten um. Mehrere Kesselwagen wurden
+beschädigt. An zwei Kesselwagen wurde durch Puﬀereinwirkung die Tankwand perforiert, so
+dass in großen Mengen Dieselkra stoﬀ austrat und das Erdreich verunreinigte. Darüber hinaus entstanden massive Zerstörungen der Infrastruktur.
+
+1.3 Ursachen
+Die Zugentgleisung des DSG 49077 war auf eine Überpuﬀerung zwischen Tfz und erstem Kesselwagen zurück zu führen. Verursacht wurde die Überpuﬀerung durch eine nach DB-Regelwerk im Entgleisungsbereich unzulässige Gleisgeometrie in Verbindung mit einer Überschreitung der signalisierten Geschwindigkeit. Begüns gend wirkten sich die durch eine Bremsung
+au retenden Längsdruckkrä e im Zugverband sowie der durch Betriebseinflüsse ungüns g
+veränderte Oberbauzustand der Weichenverbindung aus.
+
+1.4 Sicherheitsempfehlungen
+Gemäß § 6 Eisenbahn-Unfalluntersuchungsverordnung (EUV) und Art. 26 Abs. 2 der Richtlinie
+(EU) 2016/798 ergehen nachfolgende Sicherheitsempfehlungen. Es wird empfohlen
+
+
+die strikte Einhaltung von Geschwindigkeitsvorgaben und die korrekte Bedienung von
+Sicherheitseinrichtungen durch Triebfahrzeugführer (Tf) stärker in den Fokus der unternehmerischen und behördlichen Überwachung zu rücken.
+
+
+
+zur Beherrschung von Risiken im Zusammenhang mit der Instandhaltung entsprechend den Anforderungen der Delegierten Verordnung (EU) 2018/762 Anhang II
+Punkt 5.2.4 die Verfahren zur Inspektion des Oberbaus in „sonstigen Hauptgleisen“ zu
+prüfen und ggf. zu verbessern.
+
+Seite 2 von 60
+
+Untersuchungsbericht
+Zugentgleisung, 30.08.2020, Niederlahnstein
+
+
+
+die Einführung einer einheitlichen und individuell zugeteilten Tf-Nummer zu überprüfen, um die Überwachung der Personale durch die Eisenbahnverkehrsunternehmen
+(EVU) und Aufsichtsbehörden zu verbessern bzw. zu ermöglichen.
+
+
+
+zur Begrenzung von Folgeschäden die Ausrüstung von Mineralölkesselwagen mit zusätzlichen Sicherheitselementen zu überprüfen.
+
+Seite 3 von 60
+
+Untersuchungsbericht
+Zugentgleisung, 30.08.2020, Niederlahnstein
+
+2 Die Untersuchung und ihr Kontext
+Die Bundesstelle für Eisenbahnunfalluntersuchung (BEU) ist für die Untersuchung von gefährlichen Ereignissen im Eisenbahnbetrieb im Sinne des Kapitels V der Richtlinie (EU) 2016/798
+auf Eisenbahninfrastrukturen des Bundes und auf nicht bundeseigenen Eisenbahninfrastrukturen des übergeordneten Netzes gemäß § 2b Allgemeines Eisenbahngesetz (AEG) zuständig.
+Ziel und Zweck der eingeleiteten Untersuchungen ist es, die Ursachen des gefährlichen Ereignisses aufzuklären und hieraus Hinweise zur Verbesserung der Sicherheit abzuleiten. Untersuchungen der BEU dienen nicht dazu, ein Verschulden festzustellen oder Fragen der Ha ung
+oder sons ger zivilrechtlicher Ansprüche zu klären und werden unabhängig von jeder gerichtlichen Untersuchung durchgeführt.
+Sicherheitsempfehlungen der BEU zur Vermeidung von gefährlichen Ereignissen und Verbesserung der Eisenbahnsicherheit werden an die na onale Sicherheitsbehörde, sofern es die Art
+der Empfehlung erfordert an die Eisenbahnagentur der europäischen Union und an andere
+Stellen oder Behörden adressiert. Im Allgemeinen sind die Sicherheitsempfehlungen auch an
+die unmi elbar bzw. mi elbar betroﬀenen Eisenbahnunternehmen gerichtet.
+Zu schweren Unfällen leitet die BEU stets Untersuchungen gem. Ar kel 20 Abs. 1 Richtlinie
+(EU) 2016/798 ein. Unter einem schweren Unfall sind insbesondere Zugkollisionen oder Zugentgleisungen mit mindestens einem Todesopfer oder mindestens fünf Schwerverletzten oder mit beträchtlichem Schaden (≥ 2 Mio. Euro) sowie sons ge Unfälle mit den gleichen Folgen und mit oﬀensichtlichen Auswirkungen auf die Regelung der Eisenbahnsicherheit oder das
+Sicherheitsmanagementsystem zu verstehen. Bei allen sons gen gefährlichen Ereignissen im
+Eisenbahnbetrieb liegt es im Ermessen der BEU Untersuchungen einzuleiten. Bei der Entscheidung werden neben den zum Ereigniszeitpunkt verfügbaren Ressourcen weitere Kriterien
+gem. Ar kel 20 Abs. 2 Richtlinie (EU) 2016/798 herangezogen.
+Bei dem vorliegenden gefährlichen Ereignis wurden Untersuchungen insbesondere auf Grundlage des Ar kels 20 Abs. 1 Richtlinie (EU) 2016/798 eingeleitet.
+Die Unfalluntersuchungshandlungen werden strukturiert in vier definierten Kernprozessen
+durchgeführt, die mit der Entscheidung zur Aufnahme einer Untersuchung beginnen und mit
+der Veröﬀentlichung des Untersuchungsberichtes abgeschlossen werden. Zur Ursachener-
+
+Seite 4 von 60
+
+Untersuchungsbericht
+Zugentgleisung, 30.08.2020, Niederlahnstein
+
+mi lung werden ergebnisoﬀene Untersuchungen in allen beteiligten Fachdisziplinen angestellt und hierbei insbesondere Fehler-Ursachen-Analysen und Soll-Ist-Vergleiche durchgeführt.
+Vom örtlich zuständigen Untersuchungsbezirk Südwest wurden die Untersuchungshandlungen federführend geleitet. Sofern im Einzelfall geboten, werden die jeweiligen Untersuchungsteams bezirksübergreifend unterstützt und notwendige Sachverständigenleistungen
+extern beau ragt.
+Im Rahmen der Sachverhaltsermi lung und Ursachenerforschung wurden neben den beteiligten Unternehmen folgende weitere Stellen einbezogen:
+
+
+Bundespolizeiinspektion Trier, Ermittlungsdienst Koblenz
+
+
+
+Eisenbahn-Bundesamt (EBA), Triebfahrzeugführerscheinstelle (TFS)
+
+
+
+Sachverständiger für Mehrkörpersimulationen, Simtes KG Bielefeld
+
+Die Durchführung der Unfalluntersuchung setzt voraus, dass alle an dem gefährlichen Ereignis
+Beteiligten den jeweiligen Meldeverpflichtungen gem. § 2 Abs. 3 EUV nachkommen und gefährliche Ereignisse ordnungsgemäß melden. Die relevanten Informa onen sind durch die zur
+Meldung Verpflichteten auf dem neuesten Stand halten. Auf Grundlage des § 5a AEG werden
+i. d. R. weitergehende zur Untersuchungsdurchführung erforderliche Informa onen, Auskün e und Nachweise abgefordert. Diese notwendigen Zuarbeiten konnten mi els Auskun sersuchen gewonnen werden.
+Darüber hinaus können nach § 5b Abs. 4 AEG von den an gefährlichen Ereignissen beteiligten
+Eisenbahnen Unterstützungsleistungen eingefordert werden. Bei dem vorliegenden gefährlichen Ereignis wurden folgende Unterstützungsleistungen eingefordert:
+
+
+Auslesung der Daten der Elektronischen Fahrtenregistrierung (EFR) des Tfz durch den
+Halter BLS Cargo AG in Zusammenarbeit mit der Fa. Siemens Mobility GmbH
+
+
+
+Vermessung der Gleislage durch Swietelsky AG im Auftrag der DB Netz AG
+
+
+
+Bereitstellung von Werkstattkapazität zur Untersuchung der Kesselwagen
+
+Die infrastruktursei ge Freigabe der Unfallstelle erfolgte durch die BEU am 03.09.2020.
+
+Seite 5 von 60
+
+Untersuchungsbericht
+Zugentgleisung, 30.08.2020, Niederlahnstein
+
+3 Beschreibung des Ereignisses
+Das Kapitel beinhaltet die Beschreibung des Ereignisortes und der relevanten Bahnanlagen
+zum Ereigniszeitpunkt. Des Weiteren werden die am Ereignis beteiligten Stellen, die äußeren
+Bedingungen und die Folgen des Ereignisses aufgeführt. Die Ereignisrekonstruk on wird im
+Unterkapitel Hergangsbeschreibung dargestellt. Informa onen zum No allmanagement und
+dem Ablauf der Re ungsmaßnahmen sind im letzten Abschni des Kapitels beschrieben.
+
+3.1 Informationen über das Ereignis und seine Hintergründe
+Bei dem Ereignis handelt es sich um eine Zugentgleisung im Sinne der Richtlinie (EU) 2016/798.
+Die BEU führt das Ereignis na onal unter der Ereignisart Zugentgleisung.
+3.1.1 Lage und Beschreibung des Ereignisortes
+Die Zugentgleisung ereignete sich in Niederlahnstein, einem Knotenbahnhof an der stark befahrenen zweigleisigen elektrifizierten rechten Rheinstrecke. Die Strecke wird im Verzeichnis
+der örtlich zulässigen Geschwindigkeiten (VzG) von Wiesbaden bis einschließlich Niederlahnstein im Regionalbereich Mi e der DB Netz AG unter der Streckennummer 3507 und weiter
+Richtung Bonn-Beuel und Köln unter der Streckennummer 2324 des Regionalbereichs West
+geführt.
+In den Bahnhof Niederlahnstein mündet die ein- und zweigleisige nichtelektrifizierte, als Lahntalbahn bezeichnete Hauptbahn von Wetzlar ein. Diese Strecke wird unter der VzG-Nummer
+3710 geführt. Die Strecke führt ab Niederlahnstein zweigleisig elektrifiziert weiter über die
+Horchheimer Rheinbrücke nach Koblenz. Die Höchstgeschwindigkeit im Streckenabschni
+Niederlahnstein – Koblenz betrug in beiden Fahrtrichtungen 60 km/h bei einem Bremsweg
+von 1.000 m. Alle Strecken waren mit Punk örmiger Zugbeeinflussung (PZB) und digitalem
+Zugfunk (GSM-R) ausgerüstet.
+Der DGS 49077 sollte von Koblenz auf der Strecke 3710 über die Horchheimer Brücke kommend im Bahnhof Niederlahnstein auf die Rheinstrecke 3507 in Richtung Oberlahnstein wechseln. Der Regelfahrweg für die Fahrtrichtung nach Oberlahnstein und dem damit verbundenen
+Streckenwechsel war über Gleis 5 und die Gleisverbindung Kreuzung 1/Weiche 1 eingerichtet.
+Dieser Fahrweg war für 60 km/h ausgelegt. Ein weiterer Streckenwechsel war über die Weichenverbindung W 35 – W 18/17/16 – W 15/14 und Gleis 8 mit 40 km/h möglich. Dieser Fahrweg war für den verunfallten DGS 49077 eingestellt.
+
+Seite 6 von 60
+
+Untersuchungsbericht
+Zugentgleisung, 30.08.2020, Niederlahnstein
+
+Der nachfolgende Lageplan veranschaulicht die geografische Lage des Ereignisortes.
+
+Abbildung 1: Lageplan1
+
+Die Abbildung 2 zeigt die Fahrmöglichkeiten im Bahnhof Niederlahnstein. Die maßgeblichen
+Fahrwegelemente sind gekennzeichnet.
+
+1
+
+Quelle: Geobasisdaten: © GeoBasis-DE / BKG 2020, bearbeitet durch BEU
+
+Seite 7 von 60
+
+Untersuchungsbericht
+Zugentgleisung, 30.08.2020, Niederlahnstein
+
+Abbildung 2: Gleislageskizze2
+
+3.1.2 Beteiligte
+Am Ereignis waren folgende Unternehmen beteiligt:
+
+
+Laeger&Wöstenhöfer GmbH & Co. KG, EVU
+
+
+
+DB Netz AG, Eisenbahninfrastrukturunternehmen (EIU)
+
+Das EVU verfügte über eine Sicherheitsbescheinigung gemäß § 7a AEG des EBA mit einer Gülgkeit bis zum 05.12.2021 und war damit zur Teilnahme am Eisenbahnbetrieb auf dem hier
+befahrenen übergeordneten Netz berech gt.
+Für das EIU lag eine Sicherheitsgenehmigung gemäß § 7c AEG des EBA mit Gül gkeit bis zum
+19.10.2021 vor.
+3.1.3 Äußere Bedingungen
+Zum Zeitpunkt des Ereignisses herrschten folgende Bedingungen:
+
+2
+
+Lichtverhältnisse
+
+Tageslicht
+
+Sicht
+
+klar
+
+Bedeckung
+
+leicht bewölkt
+
+Temperaturen
+
+15°C – 18°C
+
+Quelle: DB Netz AG, bearbeitet durch BEU
+
+Seite 8 von 60
+
+Untersuchungsbericht
+Zugentgleisung, 30.08.2020, Niederlahnstein
+
+fallender Niederschlag
+
+Nein
+
+Niederschlagshäufigkeit
+
+--
+
+Untergrund / gefallener Niederschlag
+
+trocken
+
+Tabelle 1: Übersicht der äußeren Bedingungen
+
+3.1.4 Todesopfer, Verletzte und Sachschäden
+Bei dem Ereignis traten folgend aufgeführte Personenschäden ein:
+Anzahl Tote
+
+Anzahl schwer Verletzte
+
+Anzahl leicht Verletzte
+
+Reisende
+
+-
+
+-
+
+-
+
+Mitarbeiter
+
+-
+
+-
+
+1
+
+Benutzer von
+Bahnübergängen
+
+-
+
+-
+
+-
+
+Dri e
+
+-
+
+-
+
+-
+
+Summe
+
+-
+
+-
+
+1
+
+Tabelle 2: Übersicht der Personenschäden
+
+Die geschätzte Höhe der Sachschäden in Euro setzt sich wie folgt zusammen:
+geschätzte Kosten in Euro
+Fahrzeuge
+
+1.200.000
+
+Infrastruktur
+
+1.700.000
+
+Folgekosten Umweltschäden
+
+16.300.000
+
+Gesamtschadenshöhe
+
+19.200.000
+
+Tabelle 3: Übersicht der geschätzten Schadenshöhe
+
+Eine abschließende Beziﬀerung der Folgekosten Umweltschäden, die insbesondere durch den
+Austri von ca. 180.000 Litern Dieselkra stoﬀ entstanden sind, ist zum Zeitpunkt der Berichterstellung nicht möglich und stellt lediglich einen Schätzwert dar.
+Die nachfolgenden Abbildungen geben einen Überblick über die Ereignisstelle und die entstandenen Schäden.
+
+Seite 9 von 60
+
+Untersuchungsbericht
+Zugentgleisung, 30.08.2020, Niederlahnstein
+
+Abbildung 3: Lu bild3
+
+Abbildung 4: Blick vom Stellwerk
+
+3
+
+Quelle: Bundespolizei, bearbeitet durch BEU
+
+Seite 10 von 60
+
+Untersuchungsbericht
+Zugentgleisung, 30.08.2020, Niederlahnstein
+
+Abbildung 5: Unfalleinwirkungen
+
+Abbildung 6: Tank perforiert, Erdreich verunreinigt
+
+Seite 11 von 60
+
+Untersuchungsbericht
+Zugentgleisung, 30.08.2020, Niederlahnstein
+
+3.2 Sachliche Beschreibung der Vorkommnisse
+Zur Rekonstruk on des gefährlichen Ereignisses sowie zur Beschreibung der No allmaßnahmen werden insbesondere auch die in Kapitel 4 enthaltenen Aufzeichnungen, Auswertungen
+und Feststellungen etc. herangezogen.
+3.2.1 Hergangsbeschreibung
+Der DGS 49077 durchfuhr am 30.08.2020 um 14:16 Uhr von Ro erdam kommend die Grenzbetriebsstelle Kaldenkirchen-Grenze und erreichte um 15:38 Uhr mit 26 Minuten Verspätung
+den Bahnhof Köln-Ehrenfeld Gbf. Dort wurde der planmäßige Wechsel des Tf vorgenommen.
+Der übernehmende Tf überprü e bei der Übernahme die Wagenreihung und erstellte einen
+neuen Bremsze el für die weitere Zugfahrt ab Köln-Ehrenfeld. Entsprechend der aufgezeichneten EFR-Daten gab der Tf um 16:59 Uhr im Fahrzeugdisplay die für die Zugfahrt notwendigen Eingabedaten der PZB ein. Dabei wurden die Regelwerksvorgaben nicht beachtet. Entsprechend der fehlerha en Eingabedaten ergab sich für die anstehende Zugfahrt die mi lere
+Zugart „M“. Als Zughöchstgeschwindigkeit ha e der Tf 100 km/h eingegeben. Um 17:10 Uhr
+setzte der Tf den Zug mit 116 Minuten Verspätung wieder in Bewegung. Im weiteren Verlauf
+der Zugfahrt überschri der Tf mehrfach und anhaltend die fahrplanmäßig zulässige Höchstgeschwindigkeit von 90 km/h (Spitze: 107 km/h) und erreichte gegen 18:25 Uhr mit 76 Minuten Verspätung den Knoten Koblenz. Die Bahnhofsteile Koblenz-Lützel und Koblenz Hbf wurden entsprechend der örtlichen Signalisierung mit 40 km/h bis 58 km/h durchfahren. Um
+18:33 Uhr befuhr der Zug die Horchheimer Rheinbrücke und passierte mit ca. 55 km/h das
+Hp 1/Vr 2 zeigende Einfahrsignal (Esig) G1 des Bahnhofs Niederlahnstein. Der Zug erhielt am
+Vsig am Standort des Esig eine 1.000 Hz-Beeinflussung. Die zulässige Geschwindigkeit betrug
+bis zum nachfolgenden Zwischensignal (Zsig) S105 maximal 60 km/h.
+Der Fahrdienstleiter (Fdl) Niederlahnstein stellte die Fahrstraße für den DGS 49077 nicht über
+den Regelweg durch Gleis 5 zur Weiterfahrt in Richtung Oberlahnstein ein, sondern ab dem
+Zsig S105 über die mit 40 km/h signalisierte Weichenverbindung W 35 – W 18/17/16 –
+W 15/14 nach Gleis 8.
+Trotz der am Vorsignal am Standort des Esig G1 angekündigten Signalstellung Hp 2 am nachfolgenden Zsig S105 mit einer entsprechend zu erwartenden Geschwindigkeit von 40 km/h
+beschleunigte der Tf den Zug nach der Vorbeifahrt am Esig G1 wieder. Bedingt durch die ein-
+
+Seite 12 von 60
+
+Untersuchungsbericht
+Zugentgleisung, 30.08.2020, Niederlahnstein
+
+gestellte Zugart „M“ in der PZB-Fahrzeugeinrichtung überwachte die interne Geschwindigkeitsprüfung im Tfz nach der 1.000 Hz-Beeinflussung am Esig G1 die Zielgeschwindigkeit
+70 km/h (sta 55 km/h für Zugart „U“). Die Vorbeifahrt am Hp 2 zeigenden Zsig S105 erfolgte
+um 18:34 Uhr sta mit 40 km/h mit 61 km/h. Die erneute 1.000 Hz-Beeinflussung am Standort
+des Zsig S105 wurde vom Tf mit der Wachsamkeitstaste bedient. Entgegen der Signalisierung
+Hp 2 am Zsig S105 erhöhte sich die Geschwindigkeit des Zuges bis zur Weiche 35 weiter auf
+62 km/h.
+Mit Befahren der sich in abzweigender Lage befindlichen Weiche 35 ak vierte der Tf zunächst
+die elektrodynamische Bremse (E-Bremse) des Zuges und bediente unmi elbar darauf das
+Führerbremsven l für eine Betriebsbremsung. Während sich die Bremswirkung der E-Bremse
+im Tfz au aute, entwickelte sich die Bremswirkung der in Bremsstellung G eingestellten Kesselwagen systembedingt langsamer. Im nachfolgenden S-förmigen Gleisbogen liefen daher die
+schweren mit Dieselkra stoﬀ beladenen Kesselwagen auf das bereits stärker abbremsende
+Tfz auf. Durch die einwirkenden Druckkrä e der weiteren Kesselwagen, der besonderen Gleisgeometrie sowie deren Oberbauzustand in Verbindung mit der zu hohen Geschwindigkeit
+überpuﬀerte der erste Kesselwagen mit dem Tfz und verlor im engen Gleisbogen vor der Weiche 18 die Spurführung. Der Tf leitete darau in eine Schnellbremsung ein.
+Der entgleiste erste Kesselwagen beschädigte die im Fahrweg folgenden Weichen 18 und 17
+erheblich wonach weitere Kesselwagen entgleisten. Bedingt durch die fehlende Spurführung
+und die noch nicht voll entwickelte Bremswirkung wurden die entgleisten vorderen Kesselwagen durch den nachschiebenden Zugverband abgedrängt und zum Umkippen gebracht. Der
+Gleiskörper wurde ab der Fahrwegweiche 18 zerstört. An zwei Kesselwagen wurde durch Puffereinwirkung die Tankwand perforiert. Der umkippende erste Kesselwagen hob das Tfz mit
+dem hinteren Drehgestell vom Gleis. Nachdem die Kupplung zum Tfz getrennt war, kam das
+sich nun alleine weiterbewegende Tfz zwischen der Weiche 15 und 14 um 18:35 Uhr ca. in km
+123,95 der Strecke 3507 zum S llstand. Aus den beiden leckgeschlagenen Kesselwagen traten
+große Mengen an Dieselkra stoﬀ aus und sickerten ins Erdreich ein. An weiteren fünf liegenden Kesselwagen war ebenfalls Ladegutaustri durch entstandene Undich gkeiten zu verzeichnen.
+
+Seite 13 von 60
+
+Untersuchungsbericht
+Zugentgleisung, 30.08.2020, Niederlahnstein
+
+3.2.2 Notfallmanagement
+Nach § 4 Abs. 3 AEG haben die Eisenbahnen die Verpflichtung, an Maßnahmen des Brandschutzes und der technischen Hilfeleistung mitzuwirken. Für die DB Netz AG gelten die entsprechenden Brand- und Katastrophenschutzgesetze der Länder. Außerdem exis ert eine Vereinbarung zwischen den Innenministerien / -senatoren der Länder und der DB AG über eine
+Zusammenarbeit im Rahmen der Gefahrenabwehr. Das No allmanagement der DB AG ist in
+der Konzernrichtlinie 123, das der DB Netz AG in der Richtlinie (Ril) 423 näher beschrieben und
+geregelt.
+Die Entgleisung ereignete sich unmi elbar im Sichtbereich des Fdl Niederlahnstein. Dieser verständigte umgehend die No allleitstelle (NFLS), sperrte alle Gleise im Bahnhof Niederlahnstein und veranlasste die Abschaltung der Oberleitung. Bedingt durch die sich in unmi elbarer
+Nachbarscha befindliche Feuerwache erreichten die ersten von der NFLS um 18:38 Uhr alarmierten Re ungskrä e umgehend die Unfallstelle. Der No allmanager (Nmg) war um
+19:10 Uhr an der Unfallstelle und erdete die bereits abgeschaltete Oberleitung. Personen
+mussten nicht gere et werden. Um weitere Bodenverunreinigungen zu verhindern, versuchte
+die Feuerwehr den auslaufenden Dieselkra stoﬀ aufzufangen bzw. zu binden. Der Notdienst
+des EVU war ebenfalls an der Unfallstelle. Zum Abpumpen des noch in den beschädigten Kesselwagen befindlichen Dieselkra stoﬀs und zur Bergung der havarierten Kesselwagen wurde
+das technische Hilfswerk (THW) hinzugezogen. Das Transport-Unfall-Informa ons- und Hilfeleistungssystem (TUIS) leistete bezüglich der Behandlung des Gefahrgutes technische und beratende Hilfestellung. Zur Begutachtung der Bodenverunreinigungen war die untere Wasserbehörde der Kreisverwaltung des Rhein-Lahn-Kreises zugegen.
+Unregelmäßigkeiten oder Verzögerungen in Bezug auf das Einleiten von Re ungsmaßnahmen
+wurden der BEU im Rahmen der Unfalluntersuchung nicht bekannt.
+
+Seite 14 von 60
+
+Untersuchungsbericht
+Zugentgleisung, 30.08.2020, Niederlahnstein
+
+4 Auswertung des Ereignisses
+In diesem Kapitel werden insbesondere die im Rahmen der Unfalluntersuchung ermi elten
+maßgeblichen sicherheitskri schen Faktoren in bis zu vier zugehörigen Unterkapiteln dargestellt. Hierbei wird im jeweiligen Einzelfall auf die Aufgaben und Pflichten einzelner Personen
+und Stellen, auf beteiligte Fahrzeuge und technische Einrichtungen genauso eingegangen, wie
+auf konkrete menschliche Handlungen sowie auf Feedback- und Kontrollmechanismen. Sofern
+Informa onen zu früheren Ereignissen vorliegen, werden diese in einem weiteren Unterkapitel dargestellt.
+
+4.1 Aufgaben und Pflichten
+In diesem Kapitel werden unbeschadet des Ar kels 20 Abs. 4 der Richtlinie (EU) 2016/798 die
+Aufgaben und Pflichten von Personen und Stellen behandelt, die an dem Ereignis beteiligt waren. Untersuchungen zu Schuld- und Ha ungsfragen sind explizit ausgeschlossen und nicht
+Untersuchungsgegenstand.
+4.1.1 Untersuchung der betrieblichen Abläufe des EVU
+Die zulässigen Geschwindigkeiten eines signalgeführten Zuges sind gemäß Ril 408.2341 Abschn. 2 Abs. 1 im Fahrplan des Zuges und der Zusammenstellung der vorübergehenden Langsamfahrstellen (La) vorgeschrieben. Entsprechend Abs. 4 dieser Ril können die zulässigen Geschwindigkeiten u. a. durch Signale eingeschränkt sein. Gemäß Ril 408.2341 Abschn. 2 Abs. 5
+gilt bei mehreren gleichzei gen Einschränkungen, dass die jeweils niedrigste Geschwindigkeit
+die zulässige Geschwindigkeit des Zuges ist.
+In den in der nachfolgenden Abbildung dargestellten Kopfdaten des Fahrplans für den
+DGS 49077 war als Höchstgeschwindigkeit 90 km/h vorgegeben.
+
+Seite 15 von 60
+
+Untersuchungsbericht
+Zugentgleisung, 30.08.2020, Niederlahnstein
+
+Abbildung 7: Kopfdaten Fahrplan 490774
+
+Die nachfolgende Abbildung zeigt einen Auszug aus dem Fahrplan des Zuges für den relevanten Abschni . Von Koblenz bis einschließlich Niederlahnstein galten 60 km/h.
+
+Abbildung 8: Auszug Fahrplan DGS 490775
+
+4
+
+Quelle: EVU, bearbeitet durch BEU
+
+5
+
+Quelle: EVU, bearbeitet durch BEU
+
+Seite 16 von 60
+
+Untersuchungsbericht
+Zugentgleisung, 30.08.2020, Niederlahnstein
+
+Das Zsig S105 zeigte den Fahrtbegriﬀ Hp 2 für die vom Fdl eingestellte Fahrstraße. Gemäß
+Ril 301.0101 Abschn. 4 Abs. 4 gilt bei Hp 2 ohne weitere Zusätze maximal 40 km/h, wenn der
+Infrastrukturbetreiber nichts anderes im Fahrplan vorschreibt. Da dieser keine Zusätze vorgegeben ha e, waren ab dem Zsig S105 maximal 40 km/h zulässig. Die signalisierte Geschwindigkeit galt gemäß Ril 301.0002 Abschn. 5 Abs. 1 bis zum folgenden Hauptsignal, hier bis zum
+Ausfahrsignal P8.
+Gemäß Ril 483.0101 Abschn. 3 Abs. 4 mussten vor Beginn der Zugfahrt die Zugdaten entsprechend der für das Tfz geltenden Einstelltabelle eingegeben werden. Da das Tfz mit einer
+LZB 80E Fahrzeugeinrichtung ausgesta et war und im weiteren Fahrtverlauf die Fahrt als anzeigegeführter Zug unter LZB-Führung vorgesehen war, war für die Dateneingabe die
+Ril 483.0113 anzuwenden. Bei Personalwechsel war die Tf-Nummer neu einzugeben. Bei Änderung von Zugdaten während des Zuglaufs waren diese entsprechend anzupassen.
+Die Zugdaten waren beim ankommenden Zug in Köln vorschri enkonform eingestellt. Da der
+ankommende Tf keine Qualifika on für LZB-Betrieb ha e, war der LZB-Störschalter im Tfz eingelegt. Im weiteren Verlauf der Zugfahrt war mit der LZB-Führung zu rechnen. Der übernehmende Tf besaß die erforderliche Qualifika on für LZB-geführte Zugfahrten. Er ak vierte die
+LZB. Bei der Bedienung des LZB-Störschalters werden technisch bedingt die PZB-Daten im Tfz
+auf die Grunddaten zurückgesetzt, so dass eine Neueingabe der Zugdaten durch den übernehmenden Tf erforderlich war.
+Die Einstellwerte für die Bremsart (BRA) und Bremshundertstel (BRH) waren der Einstelltabelle des Fahrzeugs zu entnehmen. Für die Eingabe der Zuggeschwindigkeit (VMZ) galt hier
+die Eingabe der größten zulässigen Geschwindigkeit im Fahrplan. Die nachfolgende Tabelle
+stellt die notwendige Dateneingabe im Soll-Ist-Vergleich dar. Ergänzend sind die vor der Dateneingabe durch den Tf in Köln beim ankommenden Zug ursprünglich vorhandenen Zugdaten
+aufgeführt.
+
+Seite 17 von 60
+
+Untersuchungsbericht
+Zugentgleisung, 30.08.2020, Niederlahnstein
+
+Soll
+
+Ist ab Köln
+
+Vorlauf bis Köln
+
+Tf-Nummer
+
+vom EVU vorzugegeben
+
+Herkun der eingegebe- Herkun unklar (sienen Tf-Nr. unklar
+benstellig)
+
+BRA
+
+2
+
+4
+
+2
+
+BRH
+
+70
+
+70
+
+60
+
+VMZ
+
+90
+
+100
+
+90
+
+Zugart
+
+U
+
+M
+
+U
+
+Zuglänge
+
+340
+
+350
+
+350
+
+Tabelle 4: EFR-Zugdaten
+
+Entgegen den Vorgaben waren für die weiterführende Zugfahrt DGS 49077 ab Köln nun die
+mi lere Zugart „M“ ak viert sowie als Zughöchstgeschwindigkeit 100 km/h eingegeben.
+Nach Angaben des verantwortlichen EVU habe der Tf bei der Übernahme des Zuges (hier in
+Köln-Ehrenfeld Gbf) die Wagenreihung zu überprüfen gehabt. Dies sei vom EVU bei aus dem
+Ausland übernommenen Zügen vorgegeben. Ein entsprechendes Zei enster für diese Tä gkeit war gemäß Fahrplan nicht vorgesehen.
+Die dem Frachtbrief beiliegende Wagenliste des Absenders ab Ro erdam s mmte hinsichtlich
+der Wagenreihung nicht mit der tatsächlichen Wagenreihung überein. Die vom EVU vorgelegte und auf dem Tfz zum Zeitpunkt des Ereignisses mitgeführte Wagenliste entsprach der
+tatsächlichen Wagenreihung des Zuges. Diese Wagenliste wurde um 11:35 Uhr, also vor Abfahrt des Zuges in Venlo, berich gt. Vor der Abfahrt in Köln-Ehrenfeld Gbf wurde vom Tf handschri lich ein neuer Bremsze el mit Gül gkeit ab Köln gefer gt. Der Bremsze el war korrekt
+erstellt.
+Auswertung EFR
+Zur Untersuchung der Abläufe wurden die in der EFR gespeicherten Daten des führenden Tfz
+193 496 des DGS 49077 durch die BEU ausgewertet. Die Auslesung wurde durch einen hinzugezogenen Techniker der Fa. Siemens Mobility im Beisein der BEU und der Bundespolizei
+durchgeführt. Im Fahrzeug war eine Datenspeichereinheit (TRU) der Fa. Alstom verbaut. Das
+PZB-Fahrzeuggerät des Tfz war eingeschaltet. Die Rohdaten waren vollständig und fehlerfrei
+
+Seite 18 von 60
+
+Untersuchungsbericht
+Zugentgleisung, 30.08.2020, Niederlahnstein
+
+aufgezeichnet. Die im Fahrzeug registrierten Uhrzeiten deckten sich mit den in den betrieblichen Systemen der DB Netz AG registrierten Zeiten.
+Um 14:08 Uhr war der Wechsel in das deutsche Zugsicherungssystem, Betriebsart PZB, sowie
+der Wechsel der Fahrdrahtspannung bei einer Geschwindigkeit von ca. 25 km/h registriert.
+Die nachfolgende Zugfahrt bis Köln verlief ohne auﬀällige Registrierungen. Die zulässige
+Höchstgeschwindigkeit des Zuges von 90 km/h wurde an zwei Stellen punktuell bis auf
+93 km/h überschri en. Um 15:38 Uhr kam der Zug zum S llstand. Nach dem S llstand waren
+bis 16:55 Uhr keine weiteren Registrierungen verzeichnet.
+Um 16:55 Uhr wurde der LZB-Störschalter deak viert. Dadurch wurden die vorhandenen Zugdaten auf die Grunddaten zurückgesetzt. Um 16:59 Uhr wurden eine neue Tf-Nummer (Spalte
+TFN) und um 17:00 Uhr die Bremsart und Bremshundertstel (Spalten BRA und BRH), die
+Höchstgeschwindigkeit des Zuges (VMZ) sowie die Zuglänge (ZL) entsprechend der o. a. Tabelle 4 neu eingegeben. Die nachfolgende Abbildung zeigt auszugsweise die in der EFR gespeicherten Abläufe zur Dateneingabe.
+
+Abbildung 9: EFR Zugdateneingabe
+
+Entsprechend den Eingaben wechselte im PZB-Fahrzeuggerät die Zugart von „U“ nach „M“
+(Spalten Zu_Unter/Zu_Mi l).
+Um 17:10:43 Uhr interner Zeit, nach einer Standzeit von insgesamt 92 Minuten, setzte sich
+der Zug wieder in Bewegung.
+Die nächste Abbildung zeigt den Fahrtverlauf von Köln bis Koblenz. Daraus ist ersichtlich, dass
+die fahrplanmäßige Höchstgeschwindigkeit des Zuges von 90 km/h mehrfach und länger andauernd in der Spitze um bis zu 17 km/h überschri en wurde.
+
+Seite 19 von 60
+
+Untersuchungsbericht
+Zugentgleisung, 30.08.2020, Niederlahnstein
+
+Abbildung 10: EFR-Daten Vorlauf Köln - Koblenz
+
+Um 18:25:48 Uhr erhielt der Zug bei 75 km/h in Koblenz-Lützel eine 1.000 Hz-Beeinflussung in
+Höhe des Signals R2, worau in der Tf den Zug bis auf ca. 22 km/h abbremste. Aus einer erneuten 1.000 Hz-Beeinflussung am Signal N2 in Koblenz-Lützel befreite sich der Tf zulässiger
+Weise 821 m nach der Beeinflussung aus der internen Überwachung. Den Bahnhof Koblenz Hbf durchfuhr der Tf mit ca. 40 km/h. Sodann beschleunigte der Zug in Richtung des nachfolgenden Blocksignals Bk 50 wieder bis auf ca. 58 km/h. Die Vorbeifahrt qui erte er mit der
+Bedienung der Wachsamkeitstaste. Die Horchheimer Rheinbrücke überquerte der Tf mit einer
+bis auf 50 km/h fallenden Geschwindigkeit. In Richtung des Einfahrsignals G1 des Bahnhofs
+Niederlahnstein beschleunigte der Zug wieder.
+Das Esig G1 passierte der Zug um 18:33:49 Uhr mit 54 km/h. Die dort aufgenommene
+1.000 Hz-Beeinflussung qui erte der Tf mit der Bedienung der Wachsamkeitstaste. Im weiteren Verlauf erhöhte sich die Geschwindigkeit des Zuges weiter. Ein Anstoß an die Tfz-interne
+Geschwindigkeitsprüfung nach der 1.000 Hz-Beeinflussung erfolgte aufgrund der eingestellten
+Zugart „M“ nicht.
+Die Vorbeifahrt am Zsig S105 erfolgte um 18:34:49 Uhr mit 61 km/h. Es wurde eine erneute
+1.000 Hz-Beeinflussung registriert, die mit der Bedienung der Wachsamkeitstaste qui ert
+wurde. Nach 380 m bei einer Geschwindigkeit von nun 62 km/h wurde um 18:35:11 Uhr zuerst
+die E-Bremse ak viert (Spur Loc_19) und 24 m weiter um 18:35:12 Uhr das Führerbremsven l
+
+Seite 20 von 60
+
+Untersuchungsbericht
+Zugentgleisung, 30.08.2020, Niederlahnstein
+
+(Spur BedFbr) der pneuma schen Bremse in Bremsstellung (erste Bremsstufe) gebracht. Der
+registrierte Druck in der Hauptlu leitung (Spur HLL) sank in Folge der eingeleiteten Betriebsbremsung (Spur ZlLu ) auf 4,6 bar. Um 18:35:17 Uhr nach weiteren 85 m wurde bei 57 km/h
+eine Schnellbremsung durch den Tf ausgelöst (Spur BedBremse). Der Druck in der HLL fällt
+darau in um 18:35:18 Uhr schlagar g unter 3,5 bar und in der Folgezeit weiter (Spuren
+ZLLu HL, ZlLu ). Die nachfolgende Abbildung visualisiert die beschriebenen Abläufe. Die relevanten Bedienhandlungen sind aus den dargestellten Spuren ersichtlich.
+
+Abbildung 11: EFR-Grafik Ereignisort
+
+Zwei Sekunden nach der eingeleiteten Schnellbremsung ist in der dargestellten Geschwindigkeitskurve bei ca. 49 km/h um 18:35:20 Uhr ein kleiner Sprung sichtbar, der infolge des Rucks
+durch den Abriss der Kupplung vom Tfz zum ersten Kesselwagen entstanden sein dür e.
+Nach weiteren 82 m kam das Tfz um 18:35:33 Uhr interner Zeit zum S llstand. Zur Verdeutlichung der Abläufe sind in der nächsten Abbildung die relevanten Punkte der EFR-Auswertung
+in einen Lageplan übertragen.
+
+Seite 21 von 60
+
+Untersuchungsbericht
+Zugentgleisung, 30.08.2020, Niederlahnstein
+
+Abbildung 12: EFR und IVL-Plan6
+
+Der Tf fuhr in den Bahnhof Niederlahnstein ein, ohne die Geschwindigkeit des Zuges auf die
+am Zsig S105 signalisierten 40 km/h zu reduzieren. Aufgrund der eingestellten Zugart „M“ reagierte die interne Überwachung der PZB nach der 1.000 Hz-Beeinflussung am Esig G1 nicht
+auf die zu hohe Geschwindigkeit. Obwohl der Tf bereits das Zsig S105 erheblich zu schnell
+passierte, leitete er nach Befahren der Weiche 35 zunächst nur eine Betriebsbremsung ein.
+Erst nach Befahren der Weiche 18 reagierte er mit einer Schnellbremsung.
+4.1.2 Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers
+Der Arbeitsplatz des verantwortlichen Fdl war im Stellwerk in Niederlahnstein eingerichtet. Es
+handelte sich um ein Stellwerk der Bauart DrS60 mit Stell sch. Gemäß Ril 408.0211 war die
+Benutzung der Gleise in einem Bahnhof im Fahrplan für Zugmeldestellen vorgeschrieben. Für
+den DGS 49077 war darin die Durchfahrt über das Gleis 5 vorgegeben. Gemäß Ril 408.0461
+dur e der Fdl vom Fahrplan für Zugmeldestellen unter Beachtung Ril 408.0211 Abschn. 2 abweichen. Die für die Zugfahrt DGS 49077 eingestellte Fahrstraße war durchgehend signalisiert.
+Im Betriebsstellenbuch waren keine Einschränkungen getroﬀen. Die Fahrt über die gewählte
+Zugstraße nach Gleis 8 war betrieblich zulässig.
+Weshalb der Fdl diesen Fahrweg gewählt ha e, ließ sich im Nachhinein nicht nachvollziehbar
+rekonstruieren. Zugfolgegründe lagen entsprechend den Ausdrucken des Zugnummerndruckers nicht vor. Der DGS 49077 war zu diesem Zeitpunkt die einzige Zugfahrt im Bahnhof Niederlahnstein.
+
+6
+
+Quelle: Geobasisdaten: © GeoBasis-DE / BKG 2019, bearbeitet durch BEU
+
+Seite 22 von 60
+
+Untersuchungsbericht
+Zugentgleisung, 30.08.2020, Niederlahnstein
+
+Gemäß Ril 482.9001 Abschn. 7 Abs. 6 mussten Abschni e einer Gleisfreimeldeanlage mit
+Gleisstromkreisen innerhalb von 24 Stunden einmal befahren werden. Die betroﬀenen Abschni e und Maßnahmen waren gemäß Ril 408.0231 Abschn. 3 Abs. 4 im Betriebsstellenbuch
+zu benennen. Im Betriebsstellenbuch war zu dieser Fundstelle unter anderem auch die relevante Gleisverbindung über die Weichen 35/18/17/16 aufgeführt. Daher war diese mindestens einmal pro Tag zu befahren. Gemäß Zugnummerndrucker war eine derar ge Fahrt kurz
+vor dem Ereignis um 18:07 Uhr bei Zug 47063 über die genannte Weichenverbindung durchgeführt worden. Diese Fahrt war im „Nachweis der Entrostungsfahrten“ im Stellwerk Niederlahnstein entsprechend nachgewiesen. Hinweise auf Unregelmäßigkeiten bei dieser Zugfahrt
+lagen nicht vor.
+Nicht näher betrachtet wurde der Einfluss einer möglicherweise zum Ereigniszeitpunkt auf
+dem Stellwerk befindlichen weiteren Person. Hinweise auf eine Ablenkung oder Einflussnahme des diensthabenden Fdl durch diese Person liegen der BEU nicht vor und wurden mangels Erheblichkeit im vorliegendem Ereignis nicht ak v ermi elt.
+Am 27.08.2020, d. h. drei Tage vor dem Ereignis, meldete um 15:38 Uhr ein auf dem Zug 48931
+mi ahrender Ausbilder über GSM-R dem zu diesem Zeitpunkt diensthabenden Fdl Niederlahnstein, dass „beim Querfahren“ im Bahnhof ein deutlicher Schlag wahrnehmbar gewesen
+sei. Der Zug 48931 befuhr denselben Fahrweg wie der Ereigniszug. Auf Nachfrage des Fdl konkre sierte der Ausbilder seine Feststellung auf einen Abschni der „(…) eben befahrenen Weichen- und Gleisverbindung im Bereich des Stellwerks (…)“. Der Fdl teilte dem Ausbilder auf
+Zug 48931 mit, dass der Sachverhalt zum einen bekannt sei und zudem die Stelle vor ca. einem
+halben Jahr gerichtet worden sei. Gemäß Ril 408.0641 Abschn. 2 Abs. 1 musste der Fdl bei
+einer Meldung zu Mängeln am Oberbau Maßnahmen bei Gefahr treﬀen und das Gleis gegen
+Befahren zu sperren. Vor einer weiteren Befahrung muss das Gleis durch eine Fachkra untersucht und für befahrbar erklärt werden. Die Meldung war entsprechend Ril 408.0641 Abschn. 2 in den betrieblichen Unterlagen des Stellwerks zu dokumen eren.
+Entgegen diesen Vorgaben fer gte der Fdl Niederlahnstein zu dieser Meldung weder eine Eintragung in den betrieblichen Unterlagen, noch gab es Hinweise darauf, dass er die Mängelmeldung an die zuständige Fachabteilung weitergegeben ha e.
+
+Seite 23 von 60
+
+Untersuchungsbericht
+Zugentgleisung, 30.08.2020, Niederlahnstein
+
+4.2 Fahrzeuge und technische Einrichtungen
+In diesem Kapitel sind die Erkenntnisse aus der Untersuchung beteiligter Fahrzeuge, der Eisenbahninfrastruktur und weiterer technischer Einrichtungen einschließlich damit eventuell
+verbundener Tä gkeiten und Entscheidungen dargestellt.
+Der Zug DGS 49077 verkehrte gemäß Fahrplan von Ro erdam Waalhaven nach Basel Mu enz.
+Im Fahrplan war als Höchstgeschwindigkeit 90 km/h in Bremsstellung G bei 63 Mindestbremshundertstel (MBR) vorgegeben. Der Zug bestand aus 19 mit Dieselkra stoﬀ beladenen Drehgestellkesselwagen. Der Dieselkra stoﬀ war gemäß Frachtbrief als Gefahrgut Klasse 3, III, umweltgefährdend, mit der Gefahren- und UN-Nummer 30/1202 deklariert. Das Wagenzuggewicht betrug 1.652 t. Gemäß Bremsze el verfügte der Zug über 66 BRH.
+4.2.1 Untersuchung des Tfz
+Das führende Tfz war eine Mehrsystemlok der Baureihe 193 des Herstellers Siemens. Aus der
+folgenden Tabelle lassen sich die technischen Fahrzeugdaten entnehmen:
+Fahrzeugnummer
+
+91 80 6193 496-7
+
+Bezeichnung
+
+X4-E Vectron BR 193
+
+Halter und ECM
+
+BLS Cargo AG
+
+Antrieb
+
+elektrisch
+
+Nennleistung
+
+6.400 kW
+
+Gesamtlänge (LüP)
+
+18.980 mm
+
+Masse
+
+90 t
+
+Höchstgeschwindigkeit
+
+160 km/h
+
+Radsatzfolge
+
+Bo`Bo`
+
+Zugsicherungssystem (für D)
+
+ETCS Level 0 und 2, PZB 90, LZB 80E
+
+Bremsbauart
+
+KE-GPR-E-mZ (D)
+
+Elektrische Bremskra
+
+max. 240 kN
+
+Revisionsanschri
+
+MMAL 03.07.18
+
+Einsatzgebiet
+
+D, A, CH, I, NL
+
+Tabelle 5: Technische Daten Tfz
+
+Halter von Eisenbahnfahrzeugen unterliegen der allgemeinen Sicherheitsverpflichtung nach
+§ 4 Abs. 3 AEG und sind gemäß § 4a Abs. 1 AEG grundsätzlich zuständig für die Instandhaltung
+
+Seite 24 von 60
+
+Untersuchungsbericht
+Zugentgleisung, 30.08.2020, Niederlahnstein
+
+ihrer Eisenbahnfahrzeuge. Für das Tfz wurden die Zulassungs- und Werksta unterlagen angefordert. Regelmäßig erforderliche Inspek onen waren nachgewiesen. Hinweise auf Mängel
+am Tfz lagen nicht vor.
+Das Tfz war mit dem hinteren Drehgestell entgleist. Der in Fahrrichtung hintere linke Puﬀerteller an der dem ersten Kesselwagen zugewandten Seite des Tfz zeigte eine deutliche Abgleitspur nach links unten. Das Schadensbild zeigte Beschädigungen am Lokrahmen, die augenscheinlich durch massive Puﬀereinwirkung des nachfolgenden auflaufenden ersten Kesselwagens verursacht wurden. Weder der Zughaken am Tfz noch der Kupplungsbügel am ersten
+Kesselwagen hinter dem Tfz waren gerissen. Die Spurenlage deutet darauf hin, dass der erste
+Kesselwagen nach dem Abgleiten des linken Puﬀers stark versetzt (Überpuﬀerung) auf das Tfz
+aufgelaufen ist. Die deutliche Verformung des Lokrahmens im Bereich des Zughakens mit einer massiven Kra einwirkung nach oben lässt darauf schließen, dass der im weiteren Verlauf
+des Unfallereignisses kippende Kesselwagen das Tfz mit dem hinteren Drehgestell aus der
+Spur gehoben hat.
+
+Abbildung 13: Tfz Ansicht von hinten7
+
+7
+
+Zustand nach Aufgleisung Tfz
+
+Seite 25 von 60
+
+Untersuchungsbericht
+Zugentgleisung, 30.08.2020, Niederlahnstein
+
+Es fanden sich keine Hinweise darauf, dass ggf. das hintere Drehgestell des Tfz zuerst entgleiste bevor die folgenden Kesselwagen entgleisten.
+Ergänzend zu den EFR-Daten wurde noch der Diagnosespeicher des Tfz vom Hersteller Siemens Mobility AG ausgelesen und vom Halter BLS Cargo AG der BEU in lesbarer Form zur Verfügung gestellt. Die Daten bestä gten und ergänzten die im EFR-Speicher registrierten Ereignisse. Beide Zeiten waren nicht synchronisiert und wichen ca. zwei Sekunden voneinander ab.
+Erwähnenswert ist der um 18:34:52 Uhr im Diagnosespeicher registrierte Datensatz zum Zustand des Leuchtmelders „70“ auf dem Control and Command Display (CCD). Ab diesem Zeitpunkt blinkte dieser Leuchtmelder. Das direkt im Blickfeld des Tf angebrachte CCD dient der
+Visualisierung von wesentlichen Informa onen, die zum Fahren benö gt werden, z. B. der Geschwindigkeit, Zug- und Bremskrä e und Anzeigen des Zugsicherungssystems. Der Leuchtmelder „70“ zeigte dem Tf nach der 1.000 Hz-Beeinflussung am Esig G1 die nachfolgende interne
+Überwachungsgeschwindigkeit an. Entsprechend der (fehlerha ) eingestellten Zugart „M“
+wurde demnach die Zielgeschwindigkeit 70 km/h angezeigt und intern überwacht.
+Am Tfz war zum Ereigniszeitpunkt die sog. „erhöhte Bremskra “ der E-Bremse eingestellt.
+Dies war in Deutschland zulässig bei Zügen, die ausschließlich aus Drehgestellwagen gebildet
+werden. Die maximale Bremskra der E-Bremse beträgt bei dieser Baureihe 240 kN. Die tatsächlich wirksame Bremskra wurde über den Bremsrechner gesteuert und war von mehreren Faktoren abhängig. Sie wurde nach Anforderung durch den Tf schri weise aufgebaut. Die
+E-Bremskra wurde gemäß Bedienungsanleitung dem Tf direkt auf dem CCD angezeigt. Die
+tatsächlich wirksame Kra wird nach Angaben des Herstellers nicht protokolliert. Aus Umfelddaten eines Diagnoseeintrags konnte der Hersteller ermi eln, dass zum Zeitpunkt
+18:35:23 Uhr über den Fahr-/E-Bremshebel 100% E-Bremse angefordert waren und 107 kN
+wirksam waren. Welcher Wert kurz vor oder zum Entgleisungszeitpunkt wirksam war, ließ sich
+nicht ermi eln.
+Gemäß Ril 915.0107 Abschn. 1 Abs. 11 darf beim alleinigen Einsatz der dynamischen Bremse,
+d. h. hier der E-Bremse, die gesamte Bremskra der an der Spitze arbeitenden Tfz beim Durchfahren von Weichen im gebogenen Zweig bis 60 km/h 150 kN nicht überschreiten. Hinweise
+auf eine Überschreitung dieses Grenzwertes liegen nicht vor. Nach dem Einsatz der E-Bremse
+wurde auch die pneuma sche Bremse ak viert. Die schneller wirkende E-Bremse bewirkte ein
+Auflaufen des Wagenzuges auf das Tfz mit entsprechenden Druckkrä en auf die Puﬀer.
+
+Seite 26 von 60
+
+Untersuchungsbericht
+Zugentgleisung, 30.08.2020, Niederlahnstein
+
+Die Funk onalität der PZB 90 bewirkt bei Einstellung der Zugart „U“ nach einer 1.000 Hz-Beeinflussung eine interne zeitabhängige Überwachung der Geschwindigkeitskurve des Tfz. Die
+Geschwindigkeit des Zuges muss innerhalb von 38 Sekunden nach der Beeinflussung vom Tf
+auf maximal 55 km/h reduziert sein, ansonsten wird eine Zwangsbremsung ausgelöst. Da der
+Tf jedoch die Zugart „M“ eingestellt ha e, betrug die Überwachungsgeschwindigkeit nach
+29 Sekunden noch 70 km/h. Bei korrekter Einstellung der Zugart hä e der Tf die Zuggeschwindigkeit ca. 340 m vor dem Zsig S105 bereits auf max. 55 km/h reduzieren müssen.
+Zusammenfassend ist festzustellen, dass ein das Ereignis ursächlich auslösender Mangel am
+Tfz nicht vorlag. Die Unfallspuren deuten darauf hin, dass es zu einer Überpuﬀerung gekommen ist. Das Tfz wurde mit dem hinteren Drehgestell durch den kippenden nachfolgenden
+Kesselwagen aus der Spur gehoben. Im Ereignisbereich wurde durch die fehlerha e Einstellung der Zugart durch den Tf die Überwachungsfunk on der PZB nach der 1.000 Hz-Beeinflussung am Esig G1 unterlaufen. Die Ak vierung der E-Bremse bewirkte im Bogenbereich ein Auflaufen des Zugverbandes auf das Tfz.
+4.2.2 Untersuchung der Kesselwagen
+Der Wagenzug bestand aus 19 beladenen vierachsigen Kesselwagen verschiedener Halter. Am
+Wagenzug waren, soweit durch Unfalleinwirkungen noch ermi elbar, alle Bremsen eingeschaltet und die HLL durchgehend gekuppelt. Nach dem Ereignis waren alle Bremsen der hinteren nicht entgleisten Wagen angelegt. Die HLL war durch das Unfallereignis getrennt worden. Da zuvor schon Bremsvorgänge in der EFR-Aufzeichnung registriert waren, kann davon
+ausgegangen werden, dass zuvor keine Unterbrechung der HLL vorlag und die pneuma sche
+Bremse des Zugverbands durchgängig und voll funk onsfähig war.
+Der DGS 49077 befuhr ab Köln-Ehrenfeld mehrere Heißläufer- und Festbremsortungsanlagen,
+zuletzt um 18:09 Uhr in km 63,060 im Gleis Sinzig – Brohl. Keine der Anlagen erzeugte eine
+Alarmmeldung. Zum Zeitpunkt des Befahrens der Anlagen wurden keine festen Bremsen oder
+Heißläufer am Wagenzug detek ert.
+Die ersten beiden Kesselwagen wurden einer genaueren Untersuchung unterzogen. In der
+nachfolgenden Tabelle sind die technischen und betrieblichen Daten der beiden Kesselwagen
+zusammengestellt.
+
+Seite 27 von 60
+
+Untersuchungsbericht
+Zugentgleisung, 30.08.2020, Niederlahnstein
+
+Wagen 1
+
+Wagen 2
+
+Wagennummer
+
+33 87 7837 238-7
+
+33 80 7843 796-3
+
+Baujahr
+
+2005
+
+1999
+
+Hersteller
+
+Astra Vagoane arad S.A. Romania
+
+PAFAWAG WROCŁAW Poland
+
+Halter
+
+Ermewa SA
+
+GATX Rail Germany GmbH
+
+Ga ungszeichen
+
+Zans
+
+Zans
+
+Eigengewicht
+
+23.650 kg
+
+24.300 kg
+
+Länge (LüP)
+
+17,0 m
+
+16,74 m
+
+Drehgestellbauart
+
+628-Y25 LSD1
+
+Y25
+
+Anzahl der Radsätze
+
+4
+
+4
+
+Letzte Revision
+
+08.08.2017
+
+16.07.2017
+
+Lastgrenzen
+
+D: 66,3 t
+
+D: 65,7 t
+
+Max. zul. Fahrzeuggeschwindigkeit
+
+100 km/h
+
+100 km/h
+
+Bremsbauart
+
+KE-GP
+
+KE-GP-A
+
+Bremssohlen
+
+LL
+
+LL
+
+Tankcodierung
+
+L4BH
+
+L1,5BN
+
+Letzte Tankprüfung
+
+07/2017
+
+08/2017
+
+Rauminhalt Tank
+
+95.067 l
+
+95.700 l
+
+Ladungsgewicht
+
+63.061 kg
+
+62.449 kg
+
+Füllgrad bei 20°C
+
+82,05 %
+
+81,16 %
+
+Tabelle 6: Technische und betriebliche Daten Kesselwagen
+
+Die wiederkehrenden Prüfungen an den beiden Kesselwagen sowie die letzten Tankprüfungen
+waren nachgewiesen. Entsprechend der Tankcodierung auf den Tankschildern waren diese für
+die Beladung mit Dieselkra stoﬀ zugelassen.
+Die Fahrzeuguntersuchungen wurden nach der Bergung, Sicherstellung und Zuordnung der
+Wagenteile am 08.10.2020 in Niederlahnstein sowie am 22.10.2020 an einem für die Untersuchung geeigneten Gelände in Neuwied durchgeführt. Die Schraubenfedern, Gleitstücke und
+Gleitstückfedern sowie die Radsätze und Achslager wiesen keine erkennbaren Vorschädigun-
+
+Seite 28 von 60
+
+Untersuchungsbericht
+Zugentgleisung, 30.08.2020, Niederlahnstein
+
+gen auf. Aufgrund der deformierten Drehgestelle war eine vollständige Laufwerksuntersuchung nicht mehr möglich. Ungeachtet der Unfalleinwirkungen ergaben sich bei der Vermessung der Radsätze keine darüber hinaus gehenden Abweichungen von den zugelassenen Maßen. Alle verwertbaren Messergebnisse bewegten sich innerhalb der zulässigen Toleranzen.
+An den Drehpfannen waren außer gebrauchsüblichen Verschleißspuren keine Schäden zu erkennen.
+Der in Fahrtrichtung linke vordere Puﬀer des ersten Kesselwagens zeigte eine zu den Abgleitspuren am Tfz korrespondierende Auflaufspur sowie Überpuﬀerungsmerkmale an der äußeren rechten Kante. Der in Fahrtrichtung rechte Puﬀerteller zeigte Beschädigungen, die dem
+Kontakt mit dem Lokrahmen zugeordnet werden konnten.
+Gemäß Punkt 1.4.3. der Ordnung für die interna onale Eisenbahnbeförderung gefährlicher
+Güter (RID) ist der Befüller für die ordnungsgemäße Befüllung der Kesselwagen und die Sicherung der Verschlusseinrichtungen vor dem Versand verantwortlich. Hinweise auf Unregelmäßigkeiten oder Undich gkeiten an den Verschlusseinrichtungen sowie auf Überfüllung oder
+Überladung lagen nicht vor. Der Füllgrad der beiden Kesselwagen lag, je nach Temperatur des
+Ladegutes, bei 81 % bzw. 82 %. Die Lastgrenzen waren weitgehend ausgeschöp . Für Kesselwagen gab es gemäß RID lediglich Vorgaben zum maximalen Füllungsgrad. Dieser dur e bei
+Tanks der Codierung „L4BH“ 97 % (erster Kesselwagen) nicht überschreiten. Weitere Begrenzungen waren nicht vorgegeben. Schwallbleche sind für Eisenbahnkesselwagen im Gefahrgutrecht generell nicht vorgeschrieben.
+Eine Auswertung des EBA über eine größere Anzahl behördlich geprü er Kesselwagen hinweg
+hat ergeben, dass sich der Füllgrad für Mineralölkesselwagen zwischen 73,3 % und 95,4 % bei
+einem Median von 84,4 % bewegte. Der vorgefundene Füllgrad entsprach der üblichen Beladung und den einschlägigen Gefahrgutvorschri en. Insbesondere bei deutlichen Richtungswechseln in engen Weichenbereichen sind Schwallbewegungen im Tank eines Kesselwagens
+möglich. Diese werden üblicherweise durch Laufwerksauslegung und Federelemente ausgeglichen. Starke Schwallbewegungen könnten jedoch durch Schwerpunktverlagerung in Extremsitua onen die Entlastung eines Radsatzes und damit ggf. den Verlust der Spurführung
+begüns gen.
+Bezüglich der weiteren Ausrüstung von Mineralölkesselwagen für UN 1202 sah das RID keine
+Energieverzehrelemente („Crashpuﬀer“) oder Einrichtungen zum Schutz vor Überpuﬀerung
+
+Seite 29 von 60
+
+Untersuchungsbericht
+Zugentgleisung, 30.08.2020, Niederlahnstein
+
+bzw. zur Begrenzung von Schäden durch Überpuﬀerung vor. Die entsprechenden Vorgaben
+nach TE 22 und TE 25 des RID fordern diese Ausrüstung nur für besonders aufgeführte Stoﬀund Gefahrgutklassen. Das beförderte Gefahrgut gehört nicht dazu. Beim Unfallereignis wurden die Tanks des zweiten und siebten Kesselwagens jeweils oberhalb der Puﬀerlinie durch
+Puﬀereinwirkung des gegengekuppelten Wagens massiv beschädigt, so dass es an diesen Wagen zum vollständigen Lagegutaustri kam (Abbildungen 6 und 14).
+
+Abbildung 14: Wagen 7 beschädigte Tankwand durch Puﬀereinwirkung
+
+Zusammenfassend ist festzustellen, dass keine Hinweise auf Mängel an den Kesselwagen vorlagen. Es kann davon ausgegangen werden, dass die im Zug beförderten Fahrzeuge keinen
+ursächlichen Einfluss auf das Ereignis ha en. Am Puﬀer des ersten Kesselwagens waren Spuren einer Überpuﬀerung erkennbar. Schwallbewegungen in den Kesselwagen könnten das Abheben eines Radsatzes im Zusammenspiel mit den im weiteren beschriebenen ungüns gen
+Einflussfaktoren aus Geschwindigkeit und Trassierung begüns gt haben.
+
+Seite 30 von 60
+
+Untersuchungsbericht
+Zugentgleisung, 30.08.2020, Niederlahnstein
+
+4.2.3 Untersuchung der bautechnischen Infrastruktur
+Der DSG 49077 entgleiste beim Befahren der mit 40 km/h signalisierten Gleis- und Weichenverbindung Weiche 35 – Weichen 18/17/16 – Weichen 15/14 nach Gleis 8. Die ersten Entgleisungsspuren waren im Fahrweg des Zuges nach dem abzweigenden Strang der Weiche 35 ca.
+15 m vor dem Herzstück der stumpf befahrenen Weiche 18 festzustellen. Die nachfolgende
+Abbildung zeigt die Gleisgeometrie und den Entgleisungsbereich nach Abzug der hinteren
+nicht entgleisten Kesselwagen.
+
+Abbildung 15: Entgleisungsstelle
+
+Die Entgleisung mindestens eines Radsatzes des ersten Kesselwagens erfolgte im beginnenden Linksbogen nach links. Der entgleiste Radsatz prallte anschließend gegen die Flügelschiene der Weiche 18, wurde angehoben und überfuhr diese. Im weiteren Verlauf wurde der
+Radsatz durch die einmündende Zungenschiene der Weiche 18 nach links abgedrängt. Der
+weitere Entgleisungsverlauf war aufgrund der starken Zerstörungen nicht mehr rekonstruierbar.
+
+Seite 31 von 60
+
+Untersuchungsbericht
+Zugentgleisung, 30.08.2020, Niederlahnstein
+
+Abbildung 16: Entgleisungsverlauf in der Weiche 18
+
+Die Weiche 18 war ab dem beweglichen Zungenteil massiv zerstört, die nachfolgende Weiche 17 vollständig zerstört.
+Eine Entgleisungsrichtung zur bogeninneren Seite ist im Gleisbogen eher untypisch. Dies
+konnte ein Indiz dafür sein, dass die zu hohe Fahrgeschwindigkeit des Zuges nicht die alleinige
+Ursache der Entgleisung darstellte. Daher wurde die Gleisverbindung einer eingehenden Untersuchung unterzogen.
+Trassierung der Gleisverbindung Weiche 35 – Weiche 18
+Die Gleisverbindung begann in Fahrtrichtung des Zuges gesehen mit der abzweigenden Weiche 35 und einem daran anschließenden Rechtsbogen mit Radius r=350 m. Es folgte eine ca.
+14 m lange Zwischengerade, an die sich ein Linksbogen mit Radius r=150 m zur Weiche 18 hin
+anschloss. Bei der Weiche 35 handelte es sich um eine einfache Weiche der Bauart EW54-1901:7,5-WITEC-re, die im abzweigenden Strang mit maximal 40 km/h befahrbar war. Die Weiche
+wurde im Januar 2010 erneuert. Bei der Weiche 18 handelte es sich um eine einfache Weiche
+der Bauart EW54-190-1:9 die im abzweigenden Strang mit maximal 40 km/h befahrbar war.
+Diese Weiche wurde im Jahr 1996 verbaut. Der nachfolgende Auszug aus dem Bestandsplan
+verdeutlicht die Trassierung dieses Teils der signaltechnisch mit 40 km/h befahrbaren Gleisverbindung.
+
+Seite 32 von 60
+
+Untersuchungsbericht
+Zugentgleisung, 30.08.2020, Niederlahnstein
+
+Abbildung 17: Auszug Trassierungsplan Bestand8
+
+Bei dem Gleisbogen mit r=150 m handelte es sich gemäß Ril 800.0110 Abschn. 6 Abs. 4 um
+den Mindestradius, der in Gleisen vorgesehen werden muss, die im Rahmen der Freizügigkeit
+von allen Schienenfahrzeugen befahren werden dürfen. Der Radius lag gemäß Tabelle 10 in
+Ril 800.0110 Abschn. 9 Abs. 3 zum Zeitpunkt der Erneuerung der Weiche 35 im Bereich der
+Zus mmungswerte. Zus mmungswerte fallen in den sog. Genehmigungsbereich. Gemäß Abschn. 4 Abs. 3 dieser Ril sollten Werte im Genehmigungsbereich vermieden werden bzw. nur
+zur Anwendung kommen, wenn es planerisch keine andere Möglichkeit gibt. Begründete Abweichungen bedur en der Zus mmung der Zentrale der DB Netz AG. Ungeachtet der erforderlichen Genehmigung war die Anwendung dieses Radius im DB-Regelwerk entsprechend
+nachfolgender Tabelle für den Geschwindigkeitsbereich 25 km/h bis maximal 30 km/h vorgesehen.
+
+Abbildung 18: Auszug Ril 800.0110 Tabelle 10 (Stand 01.08.2009)9
+
+8
+
+Quelle: DB Netz AG, bearbeitet durch BEU
+
+9
+
+Quelle: DB Netz AG, bearbeitet durch BEU
+
+Seite 33 von 60
+
+Untersuchungsbericht
+Zugentgleisung, 30.08.2020, Niederlahnstein
+
+Die entsprechende unternehmensinterne Zus mmung sowie die dieser Zus mmung zugrundeliegenden fahrdynamischen Berechnungen für die Anwendung des Radius r=150 m in dieser
+mit 40 km/h signalisierten Zugfahrstraße wurden von der BEU abgefordert. Diese Unterlagen
+konnten von der DB Netz AG nicht vorgelegt werden. Der Einbauzeitpunkt des Gleisbogens
+mit dem genannten Radius r=150 m konnte nicht mehr nachvollzogen werden.
+Eine vorgelegte Weichenskizze zur Erneuerung der Weiche 18 im Jahr 1996 sah eine DB-regelwerkskonforme Trassierung mit Radius r=190 m vor. Augenscheinlich wurde diese Planung
+nicht umgesetzt. Gründe für einen von der Planung abweichenden Bau wurden nicht genannt
+bzw. ließen sich seitens der DB Netz AG nicht recherchieren. Ein rechnerischer Nachweis für
+den ursprünglich nicht vorgesehenen Einbau des Gleisbogens mit Radius r=150 m konnte von
+der DB Netz AG nicht vorgelegt werden. Gleichzei g wurde die für die geplante Trassierung
+r= 190 m vorgesehene Signalisierung von 40 km/h für die tatsächliche Trassierung r = 150 m
+beibehalten.
+Die Regeln für die zulässigen Geschwindigkeiten bei unvermi eltem Krümmungswechsel entsprachen zum Erneuerungszeitpunkt der Weiche 18 den in Abbildung 18 genannten Werten.
+In einer späteren Weichenskizze aus dem Jahr 2008 zu einer geplanten Erneuerung der Weichen 35 ﬀ war entgegen der Planungsskizze aus 1996 der Mindestradius r=150 m enthalten.
+Die plansei g geprü e und genehmigte Geschwindigkeit für das Zweiggleis der Weiche 35 in
+Richtung dieses Gleisbogens und der Weiche 18 war in diesem Dokument mit 25 km/h festgeschrieben. Diese planerische Vorgabe wurde im Rahmen der Erneuerung der Weiche 35 im
+Januar 2010 nicht umgesetzt. Trotz mehrfach dokumen erter Prüf- und Genehmigungsschri e wurde die Abweichung von der planerischen Vorgabe (25 km/h) zur vorhandenen Signalisierung (40 km/h) nicht beachtet und ha e bis zum Unfallereignis Bestand.
+Im Rahmen einer geplanten Erneuerung der Weiche 17 im Jahr 2020 wurde von der DB Netz
+AG ein Trassierungsentwurf mit Stand 03/2020 erstellt, in dem der vorhandene Gleisbogen
+mit Radius r=150 m auf den für das Geschwindigkeitsprofil vorschri ensei g zugelassenen Radius r=190 m zurückgeführt werden sollte. Diese Planung kam ereignisbedingt nicht mehr zur
+Ausführung.
+Im Nachgang zur Unfalluntersuchung begründete die DB Netz AG die Zulässigkeit der signalisierten Geschwindigkeit von 40 km/h über den Gleisbogen mit Radius r=150 m mit einer Be-
+
+Seite 34 von 60
+
+Untersuchungsbericht
+Zugentgleisung, 30.08.2020, Niederlahnstein
+
+rechnung nach § 40 Abs. 7 der Eisenbahn-Bau- und Betriebsordnung (EBO) und unter Anwendung des außergewöhnlichen Grenzwertes für den unvermi elten Krümmungswechsel nach
+DIN EN 13803. Nach der DIN EN 13803 soll diese Ausnahme jedoch nur zur Anwendung kommen, wenn es planerisch keine andere Möglichkeit mehr gibt. Zudem wird die Einhaltung besonderer Bedingungen wie z. B. ein angepasstes Instandhaltungskonzept vorausgesetzt. Die
+hier relevanten inhaltlichen Regelungen der DIN EN 13803 dür en insoweit anerkannte Regeln der Technik und einen Mindeststandard für die erfassten Sachverhalte darstellen. Hierin
+sind Mindeststandards vorgegeben, die einen diskriminierungsfreien Zugang zum europäischen Eisenbahnverkehr gewährleisten sollen. Die DB Netz AG hat diese Minimalvorgaben
+nicht vollumfänglich in ihr Regelwerk übernommen und speziell im Punkt Mindestradius/Fahrgeschwindigkeit entsprechend Abbildung 18 engere Grenzen definiert.
+Zusammenfassend ist festzustellen, dass der Einbau und die Ausführung der an der Entgleisungsstelle vorgefundenen Trassierung nicht den Vorgaben und der Vorgehensweise des Regelwerks der DB Netz AG entsprachen. Die signalisierte Geschwindigkeit von 40 km/h war
+nach dem Regelwerk der DB Netz AG für die vorgefundene Trassierung unzulässig. Unter Anwendung der aktuell geltenden DIN EN 13803, wäre v=40 km/h als Ausnahme unter Einhaltung besonderer Bedingungen, z. B. einem angepassten Instandhaltungskonzept, in einem Bogen mit r=150 m technisch möglich.
+Gleislagemessungen nach dem Ereignis
+Zur Bewertung des Oberbauzustands wurde am Folgetag 01.09.2020 sowohl eine Messung
+mit dem Handmessgerät KRABBE als auch eine belastete Messung mit dem digitalen Auswertesystem (DAS) durch ein Gleismessfahrzeug für die Gleisverbindung ab der Weiche 35 durch
+die BEU veranlasst. Die verwendeten Messsysteme sind gemäß Regelwerk der DB Netz AG
+zugelassen. Beide Messungen wurden von dafür autorisierten Fachleuten durchgeführt und
+ausgewertet.
+Die unbelastete Messung mit dem Handmessgerät KRABBE schloss die Entgleisungsstelle mit
+ein. Der nachfolgende Auszug aus dem tabellarischen Messprotokoll zeigt sowohl für den Gesamtzustand (EF-GES) als auch bei der Pfeilhöhe (PH) drei Überschreitungen von SR100 im
+Bereich der Entgleisungsstelle.
+
+Seite 35 von 60
+
+Untersuchungsbericht
+Zugentgleisung, 30.08.2020, Niederlahnstein
+
+Abbildung 19: Auszug tabellarisches Messprotokoll KRABBE
+
+In der grafischen Darstellung des Messprotokolls waren zudem gegenläufige PH-Fehler (Richtungsfehler) in der Zwischengeraden am Übergang zum Linksbogen dokumen ert. Die Richtungsfehler lagen unterhalb der Eingriﬀsschwelle nach Ril 821.2001. Die Abfolge stellte jedoch
+für das untersuchte Ereignis eine ungüns ge Fehlerkombina on mit einer Richtungsumkehr
+auf kurzer Wirklänge dar. Am Beginn des engen Linksbogens bewirkte diese Gleislageverschiebung eine deutliche Fahrzeugreak on.
+
+Seite 36 von 60
+
+Untersuchungsbericht
+Zugentgleisung, 30.08.2020, Niederlahnstein
+
+Abbildung 20: Auszug grafische Darstellung KRABBE Messung10
+
+Das Messprotokoll des digitalen Auswertesystems (DAS) der belasteten Messung beleuchtet
+im Wesentlichen den Zulauf auf die Entgleisungsstelle. Aufgrund der Zerstörungen ab der Weiche 18 konnte bei dieser Messung die Entgleisungsstelle messtechnisch nur teilweise aufgenommen werden, so dass die ermi elten Ergebnisse für den Entgleisungsbereich nur bedingt
+aussagekrä ig waren. Vom Weichenende der Weiche 35 bis zur Entgleisungsstelle waren
+mehrere Abweichungen von der Soll-Lage des Gleises, sogenannte Richtungsfehler, erkennbar. Unmi elbar vor der Entgleisungsstelle wurde eine nega ve Überhöhungsdiﬀerenz im
+Linksbogen ausgewiesen. Diese bewirkte das Eintauchen des bogenbedingt stark belasteten
+
+10
+
+Quelle: DB Netz AG, bearbeitet durch BEU
+
+Seite 37 von 60
+
+Untersuchungsbericht
+Zugentgleisung, 30.08.2020, Niederlahnstein
+
+führenden vorderen rechten Rades. Durch die Fahrzeugverwindung wird das hintere linke Rad
+entlastet.
+Beide Messverfahren deuten darauf hin, dass der Gleiszustand insgesamt, also die Kombinaon der Gleislageabweichungen auﬀällig, jedoch gemäß Ril 821.2001 nicht unmi elbar zu besei gen waren.
+Vor dem Hintergrund dieser Messergebnisse verdichtete sich der Hinweis auf eine relevante
+Unregelmäßigkeit im Bereich des Übergangs von der Zwischengeraden zum Gleisbogen mit
+r=150 m. Darau in wurden die an der Ereignisstelle von der BEU angefer gte Fotodokumenta on des Fahrspiegels der rechten und linken Schiene näher analysiert. Die nachfolgende Abbildung zeigt den Gleisspiegel der rechten Außenschiene nach dem Unfallereignis von der Zwischengeraden aus in Fahrtrichtung zum Bogen mit Radius r=150 m hin.
+
+Abbildung 21: Zoomansicht Bogeneinlauf rechte Schiene
+
+Die gezoomte Ansicht bestä gt die aus den Messergebnissen heraus gewonnenen Erkenntnisse, dass der sensible Einlau ereich von der Zwischengeraden zum unvermi elten und engen Gleisbogen durch die vorgenannten Abweichungen von der Soll-Lage gestört war. Der
+Richtungsfehler in Fahrtrichtung nach rechts lag am Anfang des 150er Linksbogens und bewirkte bei der Befahrung eine Anregung des Fahrzeugs, die die sichere Spurführung beeinträch gen konnte.
+Oberbauinspek onen
+Der nach dem Unfallereignis untersuchte Oberbau wies bezüglich des Instandhaltungszustands SR100-Überschreitungen und mehrere unterschiedlich ausgeprägte Abweichungen
+vom Sollzustand auf, für die nach Ril 821.2001 keine Sofortmaßnahmen erforderlich waren.
+
+Seite 38 von 60
+
+Untersuchungsbericht
+Zugentgleisung, 30.08.2020, Niederlahnstein
+
+Es bedur e nach Ril 821.2001 einer Instandsetzung spätestens bis zur nächsten Regelinspekon. Um erkennen zu können, ob und wann Abweichungen erstmals in Erscheinung traten,
+wurden Unterlagen zu Inspek onen dieses Bereichs vor dem Unfallereignis angefordert.
+Die ab 2017 nachgewiesenen Weicheninspek onen der Weiche 35 wurden fristgerecht durchgeführt. Am 21.04.2020 wurden Arbeiten an der Herzstückspitze dieser Weiche durchgeführt.
+Die letzte Inspek on vor dem Ereignis wurde gemäß Weichenprü la am 06.05.2020 ausgeführt. Die darin dokumen erten Messwerte für das Zweiggleis liegen alle innerhalb der nach
+Regelwerk erlaubten Toleranzbereiche.
+Bei der letzten Weicheninspek on der Weiche 18 am 17.08.2020, also kurz vor dem Unfallereignis, fanden sich keine nach Regelwerk unmi elbar zu besei genden Mängel. Für das hier
+relevante Zweiggleis wurde jedoch am Messpunkt „üse4z“ eine Abweichung in der gegenseigen Höhenlage (-12,1 mm) knapp unterhalb von SR100 (-13 mm) dokumen ert. Der Messpunkt befand sich am Weichenende in Richtung des Gleisbogens mit Radius r=150 m und liegt
+im Bereich der bei der KRABBE-Messung ebenfalls festgestellten Überhöhungsdiﬀerenz.
+Entsprechend den vorgelegten Inspek onsunterlagen fanden sich innerhalb der Weichen 35
+und 18 keine bzw. nur solche Abweichungen von der Soll-Lage, die nach Ril 821.2001 unterhalb der Eingriﬀsschwelle lagen. Beide Unterlagen treﬀen keine Aussagen zum Gleisabschni
+zwischen diesen beiden Weichen.
+Zur Begutachtung des Zustands dieses Gleisabschni s zwischen den Weichen wurden daher
+weitere Mess- und Überwachungsprotokolle zur Darstellung des Ist-Zustands vor dem Ereignis
+abgefordert. Dazu teilte der Infrastrukturbetreiber mit, dass durchgehende regelmäßig durchgeführte Messungen mit dem Gleismesszug gemäß Ril 821.2001 nur für durchgehende Hauptgleise erforderlich seien. Die vom Ereigniszug befahrene relevante Gleisverbindung ist als
+sons ges Hauptgleis eingestu . Inspek onen erfolgen dort nach Ril 821.2003 durch Gleisbegehung bzw. Überwachung durch Augenschein. Gemäß Ril 821.2001 Abschn. 3 Abs. 1 können
+sons ge Hauptgleise unter Berücksich gung des Zustands und der betrieblichen Nutzung nach
+Bedarf ergänzend mit Gleismesszug inspiziert werden. Der Anlagenverantwortliche entscheidet nach Regelwerk über die Notwendigkeit ergänzender Inspek onen mit einem Gleismesszug eigenverantwortlich.
+Zu den sons gen Hauptgleisen im Bahnhof Niederlahnstein waren jährliche Inspek onsaufträge der Art I 70 (visuelle Zustandsaufnahme), zuletzt am 24.04.2020 im SAP-System der
+
+Seite 39 von 60
+
+Untersuchungsbericht
+Zugentgleisung, 30.08.2020, Niederlahnstein
+
+DB Netz AG hinterlegt. Welche konkreten Gleisabschni e mit welchem Ergebnis geprü wurden, geht aus der Zusammenstellung nicht hervor. Inspek onsprotokolle oder sons ge relevante Aufzeichnungen wurden nicht vorgelegt.
+Zur Beurteilung des Zustands der relevanten Gleisverbindung zwischen der Weiche 35 und der
+Weiche 18 wurde der BEU ein Soll-Ist-Vergleichsplan mit Erstellungsdatum 09/2020 vorgelegt,
+in dem Verschiebewerte und Hebewerte der Ist-Trasse eingetragen waren. Die Daten bezogen
+sich auf eine Gleisvermessung vom 20.11.2019, die im Zuge eines geplanten Umbaus der Weiche 17 durchgeführt wurde. Aus diesen detaillierten Vermessungsdaten heraus war erkennbar, dass sich die Ist-Lage im Bogen mit Radius r=150 m und der vorgelagerten Zwischengeraden gegenüber der Soll-Lage durch die betriebliche Beanspruchung zur ungüns gen Seite hin
+verändert ha e. So waren gegenläufige horizontale Verschiebungen bis zu 20 mm festgestellt
+worden. Aus dieser vermessungstechnisch dokumen erten Verschiebung des Gleisrostes war
+abzuleiten, dass zum Zeitpunkt der Vermessung durch die Verformung u. a. der minimale Sollwert des Gleisbogens mit Radius r=150 m unzulässiger Weise weiter unterschri en wurde. Die
+DB Netz AG räumte diesen Sachverhalt im Nachhinein ein. Instandhaltungsmaßnahmen zur
+Besei gung dieser Gleislageabweichungen wurden nicht nachgewiesen.
+Es ist anzunehmen, dass die laufende betriebliche Beanspruchung vom Zeitpunkt dieser
+Vermessung bis zum Unfallereignis die Situa on weiter ungüns g beeinflusst hat. Demzufolge
+ist davon auszugehen, dass der minimale Sollwert des Gleisbogens mit Radius r=150 m zum
+Zeitpunkt des Unfallereignisses unzulässig unterschri en war. Insofern konnte die aus
+§ 21 Abs. 1 EBO ableitbare Mindestanforderung, mindestens einen Radius von r = 150 m vorzusehen, nicht gewährleistet werden.
+Zusammenfassend ist festzustellen, dass die Weicheninspek onen keine, und die Gleisinspekonen aufgrund der Methodik, unzureichende Erkenntnisse zu Gleislageabweichungen ergaben. Eine vermessungstechnische Bestandsaufnahme ca. acht Monate vor dem Ereignis zeigte
+relevante Gleislageabweichungen.
+Simula on
+Zur weiteren Gewichtung der Einflussparameter Trassierung und überhöhte Geschwindigkeit
+wurden von der DB Netz AG Simula onen mit der Mehrkörpersimula onsso ware SIMPACK
+durchgeführt. Mit diesen simula onstheore schen Betrachtungen wird versucht, sich mit
+Hilfe von Rechenmodellen den komplexen Vorgängen im Rad-Schiene-System zu nähern und
+
+Seite 40 von 60
+
+Untersuchungsbericht
+Zugentgleisung, 30.08.2020, Niederlahnstein
+
+Aussagen zum Fahrverhalten von Fahrzeugen zu treﬀen. Dazu wurde ein beladener Kesselwagen entsprechend der beteiligten Bauart modelliert. Die zu Grunde liegenden Gleisdaten
+stammten aus den vorliegenden Weichenumbauplänen. Anhand verschiedener Variantenrechnungen wurde das Fahrverhalten des Kesselwagens bei verschiedenen Geschwindigkeiten und Trassierungen der relevanten Gleisverbindung simuliert. Die Varianten waren mit der
+BEU und dem externen Sachverständigen für Mehrkörpersimula on der FH Bielefeld abges mmt. Der externe Sachverständige wurde von der BEU eingebunden, um die korrekte Anwendung der Simula on zu überwachen und im Bedarfsfall korrigierend einzuschreiten.
+Bei Einhaltung der signalisierten Geschwindigkeit von 40 km/h liegen im Soll-Zustand der Trassierung mit Radius r=150 m alle betrachteten Fahrzeugreak onen im zulässigen Bereich. Bei
+der tatsächlich gefahrenen, stark überhöhten Geschwindigkeit von 62 km/h wurden die linken
+bogeninneren Räder der jeweils nachlaufenden Radsätze beider Drehgestelle des Kesselwagens kurzzei g vollständig entlastet und leicht um etwa 2 mm angehoben. Eine vollständige
+Entgleisung, also das Abgleiten von der Schiene, war in der Simula on jedoch nicht zu beobachten.
+Bei Betrachtung der regelwerkskonformen Trassierung mit Radius r=190 m ergaben sich erwartungsgemäß geringere Krä e zwischen Rad und Schiene und somit eine höhere Sicherheit
+gegen Entgleisen als im vorgefundenen Trassierungszustand. Selbst bei einer Geschwindigkeit
+von 62 km/h wurden alle gängigen Kriterien für die Sicherheit gegen Entgleisen vollständig
+eingehalten.
+In einer Folgeuntersuchung war auf der Basis einer idealen Soll-Trassierung der Gleisbogenradius zu bes mmen, bei dem mit v=62 km/h erstmals der kri sche Wert für das Radau le ern
+überschri en wurde. Das war bereits bei einem Radius von r=144 m ausgehend vom Radius
+r=150 m bei einer Radiusreduzierung von 6 m der Fall. In einem weiteren Schri wurde das
+Fahrverhalten auf der Basis der Soll-Trassierung mit Gleisbogenradius r=150 m und gleichzeiger Au ringung von Gleislagestörungen untersucht. Dazu wurden u. a. die Daten des Handmessgeräts KRABBE herangezogen und soweit möglich berücksich gt. Bei Befahrung mit
+v=62 km/h ergaben sich in diesen Fällen z. T. deutliche Überschreitungen der zulässigen Fahrzeugreak onen aufgrund des wesentlichen Ans egs des Überhöhungsfehlbetrags.
+
+Seite 41 von 60
+
+Untersuchungsbericht
+Zugentgleisung, 30.08.2020, Niederlahnstein
+
+Beide letztgenannten simula onstheore schen Grenzbetrachtungen lassen erkennen, dass
+die Trassierung mit Radius r=150 m im nicht dafür vorgesehenen (überhöhten) Geschwindigkeitsbereich von 62 km/h keine Sicherheitsreserven mehr aufwies bzw. je nach simulierter
+Gleislageabweichung wesentliche Entgleisungsparameter überschri en wurden.
+Fazit:
+Zusammenfassend ergaben die umfangreichen Untersuchungen der fahrbahntechnischen Gegebenheiten an der Ereignisstelle, dass die vorgefundene Trassierung im Entgleisungsbereich
+in Bezug auf die signalisierte Geschwindigkeit von 40 km/h nicht dem Regelwerk der
+DB Netz AG entsprach. Die Anwendung der DIN EN 13803 war für diese Trassierung weder
+begründbar noch intern geprü und genehmigt. Zudem waren keine der in der DIN EN 13803
+erwähnten Anpassungen aufgrund der Trassierung bei den Instandhaltungs- und Eingriﬀsparametern definiert und dokumen ert. Entsprechend den Messergebnissen vor und nach dem
+Ereignis waren in der Gleisverbindung relevante Abweichungen von der Soll-Lage vorhanden,
+die darauf hindeuteten, dass der Minimalradius von r=150 m im Gleisbogen unzulässiger
+Weise unterschri en war und zudem das Ereignis begüns gende Gleislagefehler vorlagen.
+4.2.4 Untersuchung der Leit‐ und Sicherungstechnik (LST)
+Hinsichtlich der LST-Anlagen lagen keine Hinweise auf Unregelmäßigkeiten oder Störungen
+vor. Arbeiten an den Signalanlagen wurden unmi elbar vor dem Ereignis nicht durchgeführt.
+Die Fahrstraßen des DGS 49077 erfolgten auf Signalstellung. Die signalisierten Signalbilder
+wurden vor Ort nachvollzogen und entsprachen den Schaltungsplänen. Das relevante Zsig
+S105 zeigte für die Fahrstraße nach Gleis 8 das Signalbild Hp 2. Der Geschwindigkeitsanzeiger
+Zs 3 war dunkel. Das Ausfahrsignal P8 zeigte bei einer Fahrstraße aus Richtung Zsig S105, aufgrund der im Fahrweg rückliegenden abzweigenden Mi elweiche 14, immer Hp 2. Daher signalisierte das Vorsignal am Zsig S105 ebenfalls Vr 2. Die nachfolgende Abbildung visualisiert
+die Signalstellung am Zsig S105 für die Fahrstraße des DGS 49077. Die signalisierte Geschwindigkeit betrug 40 km/h ab diesem Signal.
+
+Seite 42 von 60
+
+Untersuchungsbericht
+Zugentgleisung, 30.08.2020, Niederlahnstein
+
+Abbildung 22: Signalstellung Zsig S105
+
+Im Nachhinein wurde festgestellt, dass der Geschwindigkeitsanzeiger Zs 3 signaltechnisch abgeklemmt war, da er für keine Fahrstraße mehr erforderlich war. Formal wäre ein nicht in
+Betrieb befindliches Signal auszukreuzen. Da ein Geschwindigkeitsanzeiger jedoch auch in
+Stellung „Dunkel“ d. h. ohne Geschwindigkeitsvorgabe angetroﬀen werden kann, ha e dieser
+Sachverhalt keinen Einfluss auf das Ereignis.
+Die Signalisierung der Fahrstraße war eindeu g.
+
+Seite 43 von 60
+
+Untersuchungsbericht
+Zugentgleisung, 30.08.2020, Niederlahnstein
+
+4.3 Menschliche Faktoren
+In diesem Kapitel werden Untersuchungserkenntnisse zu menschlichen Handlungen und/oder
+Entscheidungen am gefährlichen Ereignis beteiligter Personen dargestellt. Entsprechende Erkenntnisse können sich hierbei insbesondere im Bereich menschlicher und individueller Merkmale sowie organisatorischer und Arbeitsplatzfaktoren ergeben.
+4.3.1 Qualifikation und Tauglichkeit Tf
+Der Tf war im Besitz eines gül gen EU-Führerscheins, ausgestellt am 04.07.2017 durch die TFS
+des EBA. Für das Führen von Eisenbahnfahrzeugen erhielt er vom verantwortlichen EVU mit
+Datum vom 20.02.2020 eine Zusatzbescheinigung der Klassen A (Rangierfahrten) und B (Zugfahrten), in der die Befähigung zum Führen des eingesetzten Tfz der Baureihe 193 sowie weitere Zusatzqualifika onen wie z. B. zu PZB, LZB und GGVSEB eingetragen waren. Die zugrundeliegenden Ausbildungs- und Prüfungsbescheinigungen wurden vorgelegt. Die Erstausbildung, Zusatzqualifika onen und Prüfungen wurden jeweils von einer nach § 14 und 15 TfV
+anerkannten Ausbildungs- und Prüfungsorganisa on durchgeführt und nachgewiesen.
+Der Tf verfügte gemäß dem vom EVU vorgelegten Nachweis der Streckenkenntnis auf dem
+betroﬀenen Streckenabschni
+
+über die nö ge Streckenkenntnis. Der vorgelegte Nachweis
+
+wurde vom Tf selbst geführt. Der auf dem verwendeten Vordruck Nachweis der Streckenkenntnis vorgesehene Prüfvermerk war nicht unterschrieben.
+Die gesundheitliche Eignung nach § 5 Abs. 1 Nr. 3 TfV wurde durch einen aktuellen Tauglichkeitsnachweis einer nach § 16 TfV anerkannten Stelle nachgewiesen. Die psychologische Eignung des Tf nach § 5 Abs. 1 Nr. 4 TfV wurde durch eine psychologische Tauglichkeitsuntersuchung entsprechend den Anforderungen der TfV Anlage 4 durchgeführt und war gemäß
+§ 5 Abs. 1 Nr. 4 TfV Voraussetzung für die Erteilung des Triebfahrzeugführerscheins.
+Ein Nachweis der letzten durchgeführten Fortbildung einschließlich einer regelmäßigen Unterweisung nach Kap. 1.3.2.4 des RID für Gefahrgutbeförderung wurde vorgelegt.
+Nachweise der letzten vier durchgeführten Überwachungen bei der Dienstausübung wurden
+ebenfalls vorgelegt. Alle Überwachungen wurden nicht vom verantwortlichen EVU selbst, sondern von anderen EVU und Dienstleistern durchgeführt. Zwei Überwachungen bezogen sich
+ausschließlich auf Reisezugfahrten mit deren spezifischer Thema k. Bei einer weiteren Überwachung blieb oﬀen, ob eine Zugfahrt Gegenstand der Überprüfung war, wobei hier Bean-
+
+Seite 44 von 60
+
+Untersuchungsbericht
+Zugentgleisung, 30.08.2020, Niederlahnstein
+
+standungen bezüglich der Bedienung der PZB und der Einhaltung der Geschwindigkeiten dokumen ert wurden. Die vierte vorgelegte Überprüfung war als direkte Überprüfung nach Unregelmäßigkeiten ausgewiesen.
+Der Tf war bei einem Personaldienstleister teilzeitbeschä igt und kam bei mindestens einem
+weiteren Unternehmen einer Tä gkeit als Tf nach. Personaldienstleister vermi eln Tf an EVU,
+die den Tf einsetzen. Die einsetzenden EVU stellen jeweils eine Zusatzbescheinigung für den
+Einsatz in ihrem Unternehmen aus, die für die Fahrberech gung neben einem Triebfahrzeugführerschein nach der TfV erforderlich ist. Insgesamt waren Zusatzbescheinigungen für sieben
+EVU ermi elbar. Schon vor dem Unfallereignis waren dem Tf die Zusatzbescheinigungen von
+zwei dieser EVU wegen fahrdienstlicher Unregelmäßigkeiten wieder entzogen worden.
+Vom für die Zugfahrt verantwortlichen EVU wurden Schichtpläne für den Tf vorgelegt. Darin
+waren jedoch nur die für das eigene Unternehmen relevanten Einsätze des Tf, zuletzt am
+21.08.2020 enthalten. Ob und falls ja welche Einsätze der Tf in unmi elbarer zeitlicher Nähe
+des Ereignisses für andere EVU wahrnahm, konnte das verantwortliche EVU nicht darlegen. Es
+konnte daher keine Aussage zur Einhaltung der Ruhezeiten vor der relevanten Schicht am Ereignistag treﬀen.
+Gemäß Fahrplan des Zuges waren neben mehreren kurzen Betriebshalten längere Halte über
+je ca. 30 Minuten in Karlsruhe Gbf, Oﬀenburg Gbf und Lahr vorgesehen. Nach Angaben des
+verantwortlichen EVU seien darin die innerhalb der Schicht erforderlichen Pausenzeiten enthalten gewesen.
+Der Tf konnte die gesetzlich vorgesehenen Nachweise zum Erfüllen der Voraussetzungen an
+Qualifika on und Tauglichkeit gemäß TfV zum Zeitpunkt des Ereignisses vorweisen. Aus den
+vorgelegten Überwachungsnachweisen ging nicht hervor, ob die speziellen Themen des Güterverkehrs vom EVU ausreichend überwacht worden waren. Eigene Überwachungen hat das
+verantwortliche EVU nicht nachgewiesen. Durch die Einsätze bei verschiedenen EVU und Arbeitgebern ließ sich kein Gesamtbild der Schichten des Tf vor dem Ereignis ermi eln.
+4.3.2 Zuverlässigkeit Tf
+Um die Folgen von menschlichen Fehlhandlungen zu minimieren, exis eren im Eisenbahnbetrieb verschiedene Sicherheitseinrichtungen. Die PZB ist eine für den Zugfahrbetrieb wich ge
+Sicherheitseinrichtung. Mit ihr wird das Verhalten des Tf gegenüber der von außen einwirken-
+
+Seite 45 von 60
+
+Untersuchungsbericht
+Zugentgleisung, 30.08.2020, Niederlahnstein
+
+den Signalisierung sowie die Einhaltung von Geschwindigkeitseinschränkungen und Höchstgeschwindigkeiten überwacht und im Falle von Fehlhandlungen ggf. beeinflusst. Diese Sicherheitseinrichtung kann durch die Einstellung einer Zugart durch den Tf an verschiedene Betriebssitua onen angepasst werden. Diese manuelle Anpassung setzt neben der im Rahmen
+der Ausbildung vermi elten Handhabung und Verständnis zudem Akzeptanz und Gewissenha igkeit des Bedieners voraus. Der Tf ha e durch die fehlerha e Dateneingabe die Überwachungsfunk onen der PZB unterlaufen, wodurch für diese Zugfahrt höhere Fahrgeschwindigkeiten, insbesondere im Ereignisbereich möglich wurden.
+Der Tf leitete am Beginn der abzweigenden Weiche 35 eine Betriebsbremsung ein. Diese
+Bremsung war nicht geeignet, den Zug kurzfris g auf die zuvor signalisierten 40 km/h hin abzubremsen. Daraus könnte gefolgert werden, dass der Tf der irrtümlichen Meinung war, dass
+ab dem Zsig S105 tatsächlich 60 km/h zulässig waren. Durch die zuvor erfolgte fehlerha e
+Dateneingabe wurde diese mutmaßlich falsche Annahme des Tf durch die PZB nicht korrigiert.
+Das H/V-Signalsystem basiert i. d. R. auf einem Bremswegabstand von 1.000 m. Zur Erreichung
+des Ziels den Bremsweg einzuhalten sind im Fahrplan eines Zuges das erforderliche Bremsvermögen in Form von MBR und die jeweils zulässigen Höchstgeschwindigkeiten vorgegeben. Anhand der Mindener Bremswegformel konnte der Bremsweg des Zuges näherungsweise ermittelt werden. Für den DGS 49077 ergab sich in der Bremsstellung G bei den gemäß Bremsze el
+vorhandenen 66 BRH ein errechneter Bremsweg von 761 m aus 90 km/h. Bei der gemäß EFRAuswertung höchsten festgestellten Geschwindigkeit von 107 km/h verlängerte sich der rechnerische Bremsweg um 41 % auf ca. 1.076 m. Die ermi elten Werte gelten dabei unter Idealbedingungen in der Ebene ohne Reak onszeiten. Erkennbar ist, dass der Tf durch die mitunter
+deutlichen und anhaltenden Geschwindigkeitsüberschreitungen bereits im Vorlauf bis zum Ereignisort ein erhebliches Risiko einer Signalverfehlung bewusst oder unbewusst in Kauf genommen ha e.
+Der Tf war bereits vor dem Unfallereignis bezüglich Geschwindigkeitsüberschreitungen und
+Signalverfehlungen auﬀällig. Zwei EVU ha en darau in von weiteren Einsätzen des Tf abgesehen und ihm die jeweilige unternehmensbezogene Zusatzbescheinigung entzogen. Das EBA
+war gemäß § 2 TfV die zuständige Behörde für die Erteilung von Triebfahrzeugführerscheinen
+nach den Kriterien der §§ 5 ﬀ TfV. Die TFS beim EBA erlangte Kenntnis von einem aufsichtsrelevanten Fall einer Geschwindigkeitsüberschreitung und ordnete eine fachbezogene Nach-
+
+Seite 46 von 60
+
+Untersuchungsbericht
+Zugentgleisung, 30.08.2020, Niederlahnstein
+
+schulung an. Die angeordnete Nachschulung wurde durchgeführt und entsprechend dokumen ert. Nach Erfüllung der Anordnungen der TFS wurde der Tf von mehreren EVU wieder
+eingesetzt.
+Nach dem Unfallereignis gingen bei der BEU Hinweise ein, die darauf hindeuteten, dass der Tf
+während seiner Fahrtä gkeit Gebrauch von privaten elektronischen Medien machte. Im BRW
+ist geregelt, dass der Betrieb elektronischer Endgeräte während der Tä gkeit nur zulässig ist,
+wenn es die zu verrichtende Tä gkeit erfordert. Der Gebrauch von elektronischen Endgeräten
+oder die Nutzung elektronischer Medien zu privaten Zwecken war nicht zulässig. Dessen ungeachtet postete der Tf in den sozialen Medien öﬀentlich Videos seines regelwidrigen Verhaltens während seiner Dienstausübung. Ob dies auch zum Ereigniszeitpunkt der Fall war, konnte
+im Nachhinein nicht mehr geklärt werden. Die PZB und Sifa wurden jeweils zeitgerecht bedient
+und gaben keine Hinweise auf eine Ablenkung.
+Das Berufsbild des Tf ist geprägt durch Alleindienst und fordert aufgrund der hohen Verantwortung und des besonderen Gefahrenpoten als neben der körperlichen Tauglichkeit eine
+besondere Zuverlässigkeit gemäß § 5 Abs. 1 Nr. 6 TfV. Entsprechend der ständigen Rechtsprechung der Verwaltungsgerichte gilt als zuverlässig, wer nach dem Gesamteindruck seines Verhaltens die Gewähr dafür bietet, dass er seine Tä gkeit kün ig ordnungsgemäß ausfüllen
+wird. Die dargestellten wiederholten Regelverstöße könnten ein Indiz für die fehlende Zuverlässigkeit des Tf sein.
+4.3.3 Fahrbahn und LST
+Der Zeitpunkt des Einbaus des Gleisbogens mit r=150 m ließ sich im Rahmen der Unfalluntersuchung nicht klar eingrenzen. An den verschiedenen Planungsprozessen der Weichenerneuerungen durch die DB Netz AG waren Personale mehrerer Fachrichtungen beteiligt, die durch
+Prüf- und Genehmigungsvermerke in den der BEU vorliegenden Planunterlagen teilweise namentlich dokumen ert waren. Hinsichtlich der fehlerha en Umsetzung der geplanten Maßnahmen liegen der BEU keine aussagekrä igen Unterlagen vor. Insofern können im Rahmen
+dieser Unfalluntersuchung keine belastbaren Aussagen getroﬀen werden, an welchen Stellen
+und weshalb menschliche Fehlhandlungen im Zusammenhang mit dem Einbau der nicht DBregelwerkskonformen Trassierung vorlagen.
+
+Seite 47 von 60
+
+Untersuchungsbericht
+Zugentgleisung, 30.08.2020, Niederlahnstein
+
+4.4 Feedback‐ und Kontrollmechanismen
+In diesem Kapitel wird insbesondere auf Bedingungen, Feedback- und Kontrollmechanismen
+im Eisenbahnsystem eingegangen, denen ein ak ver Einfluss auf die Entstehung ähnlicher Ereignisse zugeschrieben werden könnte. Diese Mechanismen schließen Faktoren des Risikound Sicherheitsmanagement sowie Überwachungsverfahren mit ein.
+4.4.1 Sicherheitsmanagementsystem (SMS) des EVU
+Das für die Zugfahrt verantwortliche EVU war gemäß § 4 Abs. 3 AEG u. a. verpflichtet, den
+Betrieb sicher zu führen, insbesondere besteht eine Verpflichtung zur sicheren Durchführung
+von Zugfahrten. Zur Gewährleistung der systema sch sicheren Betriebsführung gehört u. a.
+das Aufstellen und Einhalten eines den gesetzlichen Anforderungen genügenden SMS, entsprechend § 4 Abs. 4 AEG i. V. m. der Richtlinie (EU) 2016/798. Inhaltliche Maßstäbe für ein
+SMS sind die Aufstellung und Einhaltung der in der seit dem 16.06.2020 geltenden Delegierten
+Verordnung (EU) 2018/762 genannten Anforderungen. Die inhaltlichen Anforderungen an ein
+SMS aus der Delegierten Verordnung (EU) 2018/762 sind, bezogen auf die hier relevanten Anforderungen im Wesentlichen deckungsgleich mit den Anforderungen der Verordnung (EU) 1158/2010. Bezogen auf das vorliegende Ereignis waren im SMS des EVU vornehmlich folgende Sachverhalte relevant. Die aufgeführten und s chwortar g inhaltlich dargestellten Fundstellen beziehen sich auf den Anhang I der genannten Verordnung (EU) 2018/762:
+
+
+Zu Kap 4.2.1: Die Kompetenz der Mitarbeiter muss sichergestellt sein.
+
+
+
+Zu Kap 5.1.6: Den Arbeitsanweisungen ist Folge zu leisten und Abweichungen müssen
+ggf. korrigiert werden.
+
+
+
+Zu Kap 5.3: Die Sicherheitsrisiken von ausgelagerten Tätigkeiten müssen ermittelt und
+beherrscht werden.
+
+
+
+Zu Kap 6.1.2 Die Erfüllung sicherheitsrelevanter Aufgaben muss überwacht werden.
+
+Das EVU ist zudem verpflichtet, dafür zu sorgen, dass die in § 48 EBO genannten Anforderungen an die körperliche Tauglichkeit und Eignung von Betriebsbeamten erfüllt sind und die notwendigen Kenntnisse und Fer gkeiten zur Ausübung des Dienstes gemäß § 54 EBO beim einsetzenden und verantwortlichen EVU vorliegen. Im Verlauf der Untersuchung wurde auch betrachtet, ob das verantwortliche EVU den genannten Verpflichtungen in ausreichendem Maße
+nachgekommen war.
+
+Seite 48 von 60
+
+Untersuchungsbericht
+Zugentgleisung, 30.08.2020, Niederlahnstein
+
+Im Rahmen der Erteilung einer Sicherheitsbescheinigung müssen EVU nachweisen, dass sie
+ein SMS eingerichtet haben, welches den EU-rechtlichen Anforderungen genügt. Dies wird
+durch die zuständige Sicherheitsbehörde regelmäßig audi ert. Am 08.10.2020 führte das EBA
+beim verantwortlichen EVU ein Prozessaudit durch. Hierbei wurden mehrere Mängelpunkte
+iden fiziert, die eine systemische Relevanz für das Unfallereignis zeigten:
+
+
+Ein durchgängiger Prozess Personalüberwachung konnte nicht vorgewiesen werden.
+Um sicherzustellen, dass Personal mit sicherheitsrelevanten Tätigkeiten die übertragenen Aufgaben ordnungsgemäß erfüllt, muss gemäß Verordnung (EU) 2018/762 Anhang I Punkt 6.1.2 im SMS des EVU ein Verfahren eingerichtet sein, in dem regelmäßig
+die Erfüllung sicherheitsrelevanter Aufgaben überwacht wird. Die Überwachung der
+Arbeitsausführung von Personalen mit sicherheitsrelevanten Aufgaben dient dazu, das
+Sicherheitsbewusstsein zu schärfen und sicherzustellen, dass die in Aus- und Fortbildung erworbenen Kenntnisse und Fertigkeiten auch im Praxisalltag sicher umgesetzt
+werden.
+
+
+
+Im Rahmen der Personalüberwachung erfolgte keine grundsätzliche Auswertung von
+EFR-Daten. Ein Prozess oder Verfahren war hierzu im EVU nicht vorhanden. Mit dieser
+Maßnahme können auch im Nachhinein anhand der aufgezeichneten Daten stichprobenhaft sicherheitsrelevantes Verhalten überwacht und bei Auffälligkeiten Korrekturmaßnahmen eingeleitet werden.
+
+
+
+Das EVU bediente sich bei der Überwachung des eingesetzten Tf externer Dienstleister. Entgegen der Verordnung (EU) 2018/762 Anhang I Punkt 5.3.2 waren die zu erfüllenden Aufgaben und zu erfüllende Sicherheitsleistungen nicht näher definiert. Funktions- und Tätigkeitsbeschreibungen für diese Dienstleister lagen nicht vor.
+
+Entsprechend § 54 Abs. 2 EBO haben sich die Eisenbahnen durch Prüfungen oder in sonst geeigneter Weise vor dem Einsatz von Betriebsbeamten vom Vorhandensein der geforderten
+Kenntnisse und Fer gkeiten zu überzeugen. Nähere Kriterien zur Sicherstellung der Kompetenz
+
+von
+
+Mitarbeitern
+
+mit
+
+sicherheitsrelevanten
+
+Aufgaben
+
+nennt
+
+die
+
+Verord-
+
+nung (EU) 2018/762 Anhang I in Punkt 4.2. Das verantwortliche EVU hat dazu einen Prozess
+aus seinem SMS vorgelegt, der sich auf eine Papierprüfung von Qualifika onsunterlagen beschränkt. Über eine Papierprüfung hinausgehende Prüfungsschri e ha e das verantwortliche
+EVU für das Ausstellen einer Zusatzbescheinigung im SMS nicht implemen ert.
+
+Seite 49 von 60
+
+Untersuchungsbericht
+Zugentgleisung, 30.08.2020, Niederlahnstein
+
+Das EVU ha e als Beförderer von gefährlichen Gütern zudem gemäß Punkt 1.4.2.2.1 des RID
+u. a. die Verpflichtung zu prüfen, ob an Wagen und Ladung keine oﬀensichtlichen Mängel und
+Undich gkeiten vorlagen, dass die Fristen für die nächste Tankprüfung nicht überschri en und
+die Wagen nicht überladen waren. Hinweise auf Versäumnisse bezüglich der Anforderungen
+des RID waren nicht festzustellen.
+Zusammenfassend war das SMS des EVU in mehreren Punkten nicht geeignet, eine wirksame
+Überwachung des eingesetzten Tf zu gewährleisten. Zudem geht aus den vorliegenden Unterlagen nicht hervor, inwieweit sich das EVU vor Ausstellung der Zusatzbescheinigung über eine
+reine Papierprüfung hinaus ausreichend von der Qualifika on und Eignung des Tf für den Einsatz im Unternehmen überzeugt hat.
+4.4.2 SMS des EIU
+Gemäß § 4 Abs. 3 AEG sind Eisenbahnen verpflichtet, ihren Betrieb sicher zu führen, die Eisenbahninfrastruktur sicher zu bauen und in betriebssicherem Zustand zu halten. Gemäß
+§ 2 Abs. 1 EBO müssen Bahnanlagen so beschaﬀen sein, dass sie den Anforderungen der Sicherheit und Ordnung genügen. Diese Anforderungen gelten als erfüllt, wenn die Bahnanlagen
+den Vorschri en der EBO und, soweit diese keine ausdrücklichen Vorschri en enthält, anerkannten Regeln der Technik entsprechen. Die inhaltlichen und sicherheitsrelevanten Regelungen der bei der DB Netz AG geltenden Richtlinien können anerkannte Regeln der Technik darstellen.
+Bezüglich der Trassierung der Gleisverbindung Weiche 35 – Weiche 18 waren die anzuwendenden Regeln und Prozesse für Planung, unternehmensinterner Genehmigung und Umsetzung in den einschlägigen Richtlinien 800 ﬀ der DB Netz AG detailliert geregelt. Die planerischen Vorgaben wurden nicht korrekt umgesetzt. Aufgrund der unvollständig vorgelegten Unterlagen aus früheren Umbauten konnte nicht nachvollzogen werden, an welcher Stelle die
+vorgeschriebenen Prozesse nicht oder fehlerha umgesetzt wurden. Der Infrastrukturbetreiber ist daher gehalten, entsprechend der Delegierten Verordnung (EU) 2018/762 Anhang II
+Punkt 6.1.1 a) und d) die anzuwendenden Prozesse auf Mängel hin zu durchleuchten und ggf.
+nachzusteuern.
+
+Seite 50 von 60
+
+Untersuchungsbericht
+Zugentgleisung, 30.08.2020, Niederlahnstein
+
+4.5 Frühere Ereignisse ähnlicher Art
+Ein vergleichbares Ereignis in der Kombina on von überhöhter Zuggeschwindigkeit mit unzulässiger Gleistrassierung wurde von der BEU in den letzten Jahren nicht untersucht. Jedoch
+waren wiederholt Einzelereignisse in Bezug auf zu hohe Fahrgeschwindigkeit im Weichenbereich oder Entgleisungen aufgrund von Oberbaumängeln Gegenstand von Unfalluntersuchungen.
+
+Seite 51 von 60
+
+Untersuchungsbericht
+Zugentgleisung, 30.08.2020, Niederlahnstein
+
+5 Schlussfolgerungen
+Das folgende Kapitel enthält eine Zusammenfassung der ermi elten ursächlichen, beitragenden und systemischen Faktoren. Zusätzlich sind zwei weitere Unterkapitel vorgesehen, um
+Informa onen zu bereits ergriﬀenen Maßnahmen und zu zusätzlichen Bemerkungen zu teilen.
+
+5.1 Zusammenfassung und Schlussfolgerung
+Das Ereignis war auf eine Überpuﬀerung zwischen Tfz und erstem Kesselwagen des DSG 49077
+während der Befahrung einer Gleis- und Weichenverbindung im Bahnhof Niederlahnstein zurück zu führen. Verursacht wurde die Überpuﬀerung durch eine nach DB-Regelwerk im Entgleisungsbereich unzulässige Gleisgeometrie in Verbindung mit einer Überschreitung der signalisierten Geschwindigkeit von 40 km/h um bis zu 22 km/h.
+Mit Hilfe der Simula on wurde festgestellt, dass es durch die Befahrung der Gleisverbindung
+Weiche 35 – Weiche 18 mit 62 km/h bei einer idealen Soll-Gleislage zum leichten Abheben
+der jeweils hinteren bogeninnen laufenden Räder der Drehgestelle des simulierten Kesselwagens kam. Da die tatsächliche Ist-Gleislage jedoch Störungen in Form von Gleislagefehlern und
+einer Radiusverkleinerung aufwies, kann von einem noch höheren Abhebewert des jeweiligen
+Rades ausgegangen werden. Bedingt durch die besondere Trassierung sowie die zusätzliche
+Richtungsabweichung (PH-Fehler) am Übergang von der Zwischengeraden zum Bogen mit
+r=150 m kam es aufgrund der dynamischen Fahrzeugreak onen zu einer maximalen gegenläufigen Auslenkung der Puﬀer zwischen Tfz und erstem Wagen. Begüns gt durch die zeitgleiche Einwirkung von Zuglängskrä en aus der vom Tf eingeleiteten Bremsung kam es an den
+bogeninneren stark belasteten Puﬀern aufgrund des kurzzei g gestörten Fahrtverlaufs zum
+festgestellten Abgleiten des Puﬀers des ersten Kesselwagens nach links. Die folgende Überpuﬀerung bewirkte in Verbindung mit der Radanhebung die Entgleisung entsprechend den
+vorgefundenen Entgleisungsspuren nach links zur bogeninneren Seite.
+Durch die fehlerha eingegebenen Zugdaten in die PZB-Fahrzeugeinrichtung konnte das Überwachungssystem PZB die Überschreitung der Geschwindigkeit in Niederlahnstein nach der
+1.000 Hz-Beeinflussung am Esig G1 bis zum Zsig S105 nicht mi els einer Zwangsbremsung korrigieren. Ebenfalls nachteilig wirkte sich aus, dass durch die nach DB-Regelwerk nicht vorgesehene Gleisgeometrie und weitere ungüns ge Veränderungen der Gleislage durch regelmäßige betriebliche Beanspruchungen die sonst im Eisenbahnsystem vorhandenen infrastruktur-
+
+Seite 52 von 60
+
+Untersuchungsbericht
+Zugentgleisung, 30.08.2020, Niederlahnstein
+
+sei gen Sicherheitsreserven erheblich reduziert waren. Durch nicht geeignete Inspek onsverfahren und nicht angepasste Instandhaltungsvorgaben wurde der veränderte Anlagenzustand
+vom Infrastrukturbetreiber weder erkannt noch rechtzei g korrigiert.
+5.1.1 EIU
+Die ursprünglichen Umbauplanungen aus dem Jahr 1996 für die Weiche 18 sahen einen anschließenden Gleisbogen mit r=190 m vor. Entgegen dieser Planungsvorgaben wurde zu einem nicht näher benannten Zeitpunkt ein Gleisbogen mit r=150 m eingebaut. Entsprechend
+des Regelwerks der DB Netz AG war der Einbau eines Gleisbogens mit einem Radius von
+r=150 m in Zugfahrstraßen mit einer Geschwindigkeit von 40 km/h nicht zulässig. Sollte die
+Anwendung aus topografischen Gründen dennoch unumgänglich sein, bedur e es eines internen Genehmigungsverfahrens zum Nachweis der mindestens gleichen Sicherheit. Ein entsprechendes Verfahren wurde von der DB Netz AG weder zum damaligen und noch zu einem
+späteren Zeitpunkt durchgeführt. Zudem war die topografische Notwendigkeit nicht gegeben,
+was die ursprüngliche Planung verdeutlicht. Die Einbindung der vorgefundenen Trassierung in
+eine Zugfahrstraße mit v=40 km/h war daher nicht DB-regelwerkskonform. Auch beim Umbauprozess für die Erneuerung der Weiche 35 in den Jahren 2008 bis 2010 wurden Planungsvorgaben zu den zulässigen Geschwindigkeiten dieser Gleisverbindung nicht umgesetzt.
+Die nachträglich zum Unfallereignis theore sch erfolgte Anwendung des außergewöhnlichen
+Grenzwertes nach der aktuell geltenden DIN EN 13803 ergab eine rechnerische Zulässigkeit
+für 40 km/h. Diese Anwendung bei der Trassierung bedeutet aber, dass die Grenzen des technisch Machbaren erreicht sind. Entsprechend schrumpfen die vorhandenen Sicherheitsreserven, die zum einen eine ausreichende Sicherheit aber auch einen ausreichenden Abnutzungsvorrat gewährleisten müssen. Daher ist es unerlässlich und von der DIN EN 13803 auch gefordert, dass etwaige Risiken aus der Anwendung heraus zu definieren und durch geeignete
+Schutzmaßnahmen zu begrenzen sind. Diese Anforderung ergibt sich ebenfalls aus Punkt 5.2.4
+des Anhangs II der Verordnung (EU) 2018/762, wonach zur Beherrschung der relevanten Risiken der Instandhaltungsbedarf von Sachanlagen u. a. auf der Grundlage der Konstruk onsmerkmale ermi elt werden muss, um sie in sicherem Betriebszustand zu halten.
+Das nach Ril 821 für die Gleisverbindung zwischen den Weichen 35 und 18 anzuwendende
+allgemeine Inspek onsverfahren beruhte ausschließlich auf einer visuellen Zustandsauf-
+
+Seite 53 von 60
+
+Untersuchungsbericht
+Zugentgleisung, 30.08.2020, Niederlahnstein
+
+nahme (Inspek onsart I 70) und war nicht an die Besonderheiten der Trassierung dieser Gleisverbindung angepasst. Die sich aus der betrieblichen Beanspruchung heraus ergebenden Abweichungen der Gleislage konnten durch die vorschri ensei g vorgesehenen rein visuellen
+Inspek onsverfahren systema sch nicht sicher erkannt werden. Zudem gab es formal nach
+Regelwerk keine unzulässigen Überschreitungen von Instandhaltungsparametern in der Gleisverbindung. Obwohl bei der Trassierung außergewöhnliche Grenzwerte in Anspruch genommen wurden, wurde die Instandhaltungsstrategie nicht entsprechend angepasst. Dies ermöglichte letztendlich die Unterschreitung des zulässigen Mindestradius durch fortlaufende Betriebsbeanspruchung. Vor dem Hintergrund von verbesserten und weiterentwickelten digitalen Messmethoden ist zu prüfen, ob sons ge Hauptgleise in über visuelle Begutachtung hinausgehenden Inspek onsverfahren mit einbezogen werden müssen, um die Anforderungen
+zur Gewährleistung eines sicheren Eisenbahnbetriebs auch kün ig zu erfüllen.
+Die Simula onsergebnisse zeigen, dass zum einen bei einer regelkonformen Gleistrassierung
+mit Radius r=190 m auch bei unzulässig überhöhter Geschwindigkeit (62 km/h) ausreichend
+Sicherheitsreserven vorhanden gewesen wären, so dass es aller Wahrscheinlichkeit nach nicht
+zur Entgleisung gekommen wäre. Zum anderen zeigen sie, dass der Zug bei Einhaltung der
+signalisierten Geschwindigkeit (40 km/h) auch bei Trassierung mit r=150 m mit aller Wahrscheinlichkeit ebenfalls nicht entgleist wäre.
+5.1.2 Fdl
+Auch wenn nicht mehr nachvollzogen werden kann, weshalb der Fdl für die verunfallte Zugfahrt DGS 49077 von den Vorgaben des Fahrplans für Zugmeldestellen abgewichen war, ha e
+er einen betrieblich zugelassenen Fahrweg gewählt. Für die gewählte Fahrstraße gab es aus
+fahrdienstlicher Sicht keine betrieblichen Einschränkungen.
+Der Ausbilder auf dem Zug 48931 ha e beim Befahren der Gleisverbindung drei Tage zuvor
+am 27.08.2020 einen aus seiner Sicht heraus auﬀälligen Sachverhalt zur Gleislage an den Fdl
+gemeldet. Eine weitere Einschätzung war dem Ausbilder aus dem fahrenden Zug heraus nicht
+möglich. Diese gemeldete Unregelmäßigkeit am Fahrweg hat den zu diesem Zeitpunkt zuständigen Fdl nicht dazu veranlasst weitere Maßnahmen einzuleiten. Die Qualifika on eines Fdl
+beinhaltet nicht die Kompetenz zur Bewertung von Fahrwegmängeln. Die Regelung der
+Ril 408.0641 Abschn. 2 gibt daher eine klare Handlungsanweisung für derar ge Sachverhalte
+an Fdl vor, die besagt, dass eine Fachkra die Stelle im Gleis zu begutachten und für befahrbar
+
+Seite 54 von 60
+
+Untersuchungsbericht
+Zugentgleisung, 30.08.2020, Niederlahnstein
+
+zu erklären hat, bevor weitere Zugfahrten sta inden dürfen. Eine entsprechende Meldung
+bei einer solchen Fachkra ist nicht erfolgt.
+Die DB Netz AG begründete das Verhalten des Fdl damit, dass der diensthabende Fdl keine
+Veranlassung für weitere Maßnahmen gesehen habe, weil der Ausbilder keinen expliziten
+Mangel am Oberbau gemeldet habe. Diese Begründung entspricht nicht dem eigenen Regelwerk, da entsprechend der Schilderung des Ausbilders auf dem Zug 48931 bei fachgerechter
+Abarbeitung der Meldung ein Mangel am Oberbau in Betracht gezogen werden musste.
+5.1.3 EVU
+Das EVU hat sich vor der Erteilung der Zusatzbescheinigung für den Tf, also der Erlaubnis zum
+Führen von Tfz für das eigene EVU, auf eine reine Papierprüfung der Unterlagen des Tf gestützt. Dadurch konnte sich das EVU entgegen § 54 Abs. 2 EBO kein ausreichendes eigenes
+Bild hinsichtlich der Qualifika on und Eignung des Tf machen. Zudem wurden die vom EVU
+durchzuführenden Überwachungen der Dienstausübung des Tf auf einen Dienstleister verlagert ohne im eigenen SMS Prozesse zu installieren, die geeignet sind, die Aufgabenstellung
+der Dienstleister genauer zu definieren und die gelieferten Ergebnisse zu überwachen. Eine
+eigene Überwachung des Tf durch das EVU wurde bis zum Unfallereignis nicht nachgewiesen.
+Entsprechende Prozesse waren im SMS ebenfalls nur unzureichend abgebildet. Entgegen dem
+Kriterium 4.6 der Verordnung (EU) 2018/762 Anhang I konnte das EVU nicht nachweisen, dass
+es innerhalb seines SMS einen systema schen Ansatz zur Beherrschung der Risiken beim Einsatz von externen Mitarbeitern verfolgte. Das EVU hat sich weitgehend ungeprü auf die Tägkeiten des vertraglich beau ragten Personaldienstleisters verlassen und ist somit seiner
+Verpflichtung zur systema sch sicheren Betriebsführung nach § 4 Abs. 3 AEG nicht vollumfänglich nachgekommen.
+Unklar bleibt, ob das verantwortliche EVU Informa onen zu den früheren Auﬀälligkeiten des
+Tf ha e.
+5.1.4 Tf
+Die betrieblichen Regelungen zu den zulässigen Höchstgeschwindigkeiten und den einzugebenden Daten in das PZB-Fahrzeuggerät waren eindeu g und wurden vom Tf nicht korrekt
+umgesetzt.
+
+Seite 55 von 60
+
+Untersuchungsbericht
+Zugentgleisung, 30.08.2020, Niederlahnstein
+
+Der Einhaltung von vorgeschriebenen Geschwindigkeiten kommt im Eisenbahnbetrieb aufgrund der hohen bewegten Massen, den systembedingten langen Bremswegen und dem daraus resul erenden Gefahrenpoten al eine erhebliche Relevanz zu. Zudem können nicht alle
+Geschwindigkeitsvarianten technisch ohne Mitwirkung des Tf beeinflusst und überwacht werden. Daher obliegt dem Tf eine besondere Verantwortung beim Beachten und Einhalten von
+Geschwindigkeitsvorgaben. Entsprechend muss der Überwachung der Tf-Personale bezüglich
+der korrekten Einhaltung von Geschwindigkeitsvorgaben eine große Bedeutung zugeordnet
+werden.
+Aufgrund der menschlichen Fehlerwahrscheinlichkeiten kommen technischen Überwachungseinrichtungen eine hohe Bedeutung in Bezug auf die Sicherheit zu. Die PZB kann Handlungen des Tf durch Meldungen unterstützen und Fehler im Verhalten durch Zwangsbremsungen korrigieren. Diese Funk onalität setzt die ordnungsgemäße Einstellung und Bedienung
+dieser Fahrzeugeinrichtung voraus. Entsprechend ist es unerlässlich, den Fokus der Überwachung der Tf-Personale verstärkt auf die korrekte Einstellung und Bedienung der PZB-Fahrzeugeinrichtung auszurichten.
+5.1.5 Ausrüstung Kesselwagen
+Als Folge der Entgleisung wurden zwei Tanks durch Puﬀereinwirkung massiv beschädigt, so
+dass in großem Umfang Ladegut unkontrolliert austreten konnte und das Erdreich verunreinigte. Es kam zu erheblichen Beeinträch gungen der Umwelt. Bedingt durch den rela v hohen
+Flammpunkt von Dieselkra stoﬀ kam es zu keiner Entzündung.
+Die Wirksamkeit von zusätzlichen Sicherheitselementen konnte bei früheren Ereignissen bestä gt werden. Die Wahrscheinlichkeit einer Perfora on der Tankwand wäre entsprechend
+dem Schutzziel dieser Ausrüstung deutlich gemindert gewesen. Es ist anzunehmen, dass zumindest die Unfallfolgen bei Vorhandensein derar ger Sicherheitseinrichtungen an den verunfallten Kesselwagen minimiert worden wären. Dadurch hä e das Ereignis geringere Auswirkungen auf die Umwelt gehabt. Ob dadurch bereits die erste Überpuﬀerung und somit das
+Ereignis an sich hä e verhindert werden können, kann nicht mit Bes mmtheit gesagt werden.
+Einzelne Wagenhalter sind dazu übergegangen, Kesselwagen weiterer Gefahrgutgruppen
+über die gesetzlichen Vorgaben hinaus mit zusätzlichen Sicherheitselementen auszurüsten.
+
+Seite 56 von 60
+
+Untersuchungsbericht
+Zugentgleisung, 30.08.2020, Niederlahnstein
+
+5.2 Seit dem Ereignis getroffene Maßnahmen
+Der Tf wird vom EVU nicht mehr eingesetzt. Die TFS hat gegenüber dem Tf Maßnahmen zum
+Verbot des Führens von Triebfahrzeugen gemäß § 19 Abs. 5 TfV angeordnet, die gerichtlich
+bestä gt wurden.
+Das EBA forderte nach einer Audi erung des EVU zahlreiche Korrekturmaßnahmen zum SMS
+des Unternehmens ein. Zwischenzeitlich ist die Gül gkeit der Sicherheitsbescheinigung abgelaufen und die Voraussetzung zur Teilnahme am Eisenbahnbetrieb auf dem übergeordneten
+Netz nicht mehr gegeben.
+Die Trassierung der Gleisverbindung zwischen der Weiche 35 und der Weiche 18 wurde nach
+dem Ereignis an die Regelwerksvorgaben der DB Netz AG angepasst. Der Radius beträgt nun
+wie ursprünglich geplant wieder r=190 m.
+
+5.3 Zusätzliche Bemerkungen
+Im Rahmen der Unfalluntersuchung wurden Faktoren erkannt, die Auswirkungen auf das Sicherheitsniveau des Systems Eisenbahn haben könnten und daher einer näheren Betrachtung
+und Bewertung bedur en.
+5.3.1 Auffälligkeiten Tf
+Die TFS erlangte Kenntnis über eine Signalverfehlung des Tf bei einem EVU im Zusammenhang
+mit erheblichen Geschwindigkeitsüberschreitungen und ordnete auf der Grundlage der TfV
+Nachschulungsmaßnahmen an. Die Durchführung einer Nachschulung wurde nachgewiesen.
+Der Tf wurde anschließend wieder eingesetzt. Die Erkenntnisse blieben im Einklang mit der
+TfV auf den beteiligten Unternehmerkreis und die Behörde beschränkt. Andere, ebenfalls den
+Tf einsetzende EVU erhielten somit formal keine Kenntnis über diese Unregelmäßigkeiten.
+Für den Fall, dass ein Tf die Sicherheit des Eisenbahnverkehrs erheblich gefährdet oder die
+Eignungsvoraussetzungen zur Erteilung eines Triebfahrzeugscheines nicht mehr erfüllt, kann
+die TFS auf der Grundlage der TfV dem Tf das Führen eines Tfz untersagen und den Triebfahrzeugführerschein aussetzen oder entziehen. Für Arbeitsfehler unterhalb der genannten Eingriﬀsschwelle enthält die TfV für die TFS gegenwär g keine besonderen Regelungen.
+In dem zur Teilnahme am Eisenbahnbetrieb auf dem übergeordneten Netz notwendigen SMS
+müssen Eisenbahnen insbesondere alle Risiken, die sich aus ihrer Tä gkeit ergeben, beherrschen. Hierzu müssen EVU die Anforderungen gemäß Anhang I, Punkt 3.1 „Maßnahmen zur
+
+Seite 57 von 60
+
+Untersuchungsbericht
+Zugentgleisung, 30.08.2020, Niederlahnstein
+
+Beherrschung von Risiken“ der Delegierten Verordnung (EU) 2018/762 erfüllen. Dies bedeutet, dass auch mögliche Risiken aus einer Triebfahrzeugführertä gkeit iden fiziert, bewertet,
+Sicherheitsmaßnahmen ergriﬀen und überwacht werden müssen. Daneben sind Mitarbeiter
+und externe Beteiligte über Risiken zu informieren und müssen EVU, in Bezug auf gemeinsame
+Risiken, mit anderen Beteiligten zusammenarbeiten.
+Zu erwartende oder poten elle Triebfahrzeugführerfehlhandlungen sollen innerhalb des unternehmensinternen SMS abgearbeitet werden können.
+Oﬀen und bisher nicht abschließend geklärt ist die Frage, ob und wenn ja wie, Informa onen
+zu Arbeitsfehlern unter Beachtung der Persönlichkeitsrechte der Tf grundsätzlich zwischen
+EVU auszutauschen sind und wie – im Bedarfsfall – die Rolle der TFS für diese Konstella onen
+aussehen könnte.
+5.3.2 Tf‐Nummer
+Die Tf-Nummer ist gemäß Verordnung (EU) 2019/773 (TSI OPE) Punkt 4.2.3.5 geforderter Bestandteil der Datenaufzeichnung durch das EVU und dient der verschlüsselten Darstellung der
+Iden tät des Tf. Diese Tf-Nummer erhält der Tf meist von seinem EVU. Wie diese generiert
+und vergeben wird, unterliegt keinen rechtlichen Vorgaben. Mit der Eingabe der sechsstelligen Tf-Nummer in das PZB-Fahrzeuggerät sollen bei späteren Auswertungen Ereignisse und
+Handlungen während einer Zug- oder Rangierfahrt einer verantwortlichen Person zugeordnet
+werden können.
+Das für die Zugfahrt verantwortliche EVU vergab nach eigenen Angaben für externe Tf keine
+eigenen Tf-Nummern. Ersatzweise sollten die Tf ihr Geburtsdatum verwenden. Die vom verantwortlichen Tf verwendete Nummer stellte weder sein Geburtsdatum noch die letzten Ziffern seines Führerscheins dar. Es ließ sich durch das EVU nicht nachvollziehen, woher diese
+Nummer kam. Auch die Herkun der Tf-Nummer des in Köln ankommenden Tf, der für dasselbe EVU tä g war, konnte nicht geklärt werden.
+Die Tf-Nummern zur Eingabe in das PZB-Fahrzeuggerät werden generell vom jeweiligen EVU
+eigenverantwortlich vergeben. Bei Einsätzen für verschiedene EVU kann ein Tf daher auch
+über mehrere Nummern verfügen. Ein Wechsel der Nummer beim Wechsel des verantwortlichen EVU war dabei möglich oder sogar vorgesehen. Die Auswertung von EFR-Daten hat durch
+die verantwortlichen EVU zu erfolgen und kann zu Aufsichtszwecken auch von der zuständigen
+Aufsichtsbehörde angefordert werden. Die Zuordnung von Fahrtverlaufsdaten zu einem Tf bei
+
+Seite 58 von 60
+
+Untersuchungsbericht
+Zugentgleisung, 30.08.2020, Niederlahnstein
+
+S chproben kann durch mehrere mögliche Tf-Nummern erschwert sein. Die verpflichtende
+Verwendung einer individuell zugeordneten bundesweit gül gen Tf-Nummer zur Eingabe in
+das PZB-Fahrzeuggerät könnte die Möglichkeiten der Überprüfung von Tf durch EVU oder Aufsichtsbehörden über verschiedene einsetzende EVU hinweg verbessern. Das EBA hat bereits
+mit Schreiben vom 19.04.2021 AZ 3340-333üb/002-3400#006 einen Vorstoß diesbezüglich gegenüber Akteuren im Eisenbahnsystem unternommen.
+
+Seite 59 von 60
+
+Untersuchungsbericht
+Zugentgleisung, 30.08.2020, Niederlahnstein
+
+6 Sicherheitsempfehlungen
+Gemäß § 6 EUV und Art. 26 Abs. 2 der Richtlinie (EU) 2016/798 ergehen nachfolgende Sicherheitsempfehlungen.
+Lfd. Nr.
+
+Adressat und Sicherheitsempfehlung
+
+Betri
+
+05/2022
+
+Sicherheitsbehörde:
+
+EVU
+
+Unternehmen
+
+Es wird empfohlen, die strikte Einhaltung von Geschwindigkeitsvorgaben und die korrekte Bedienung von Sicherheitseinrichtungen durch Triebfahrzeugführer stärker in den Fokus der unternehmerischen und behördlichen Überwachung zu rücken.
+06/2022
+
+Sicherheitsbehörde:
+
+DB Netz AG
+
+Es wird empfohlen, zur Beherrschung von Risiken
+im Zusammenhang mit der Instandhaltung entsprechend den Anforderungen der Delegierten
+Verordnung (EU) 2018/762 Anhang II Punkt 5.2.4
+die Verfahren zur Inspek on des Oberbaus in
+„sons gen Hauptgleisen“ zu prüfen und ggf. zu
+verbessern.
+07/2022
+
+Sicherheitsbehörde:
+
+EVU
+
+Es wird empfohlen, die Einführung einer einheitlichen und individuell zugeteilten Triebfahrzeugführernummer zu überprüfen, um die Überwachung
+der Personale durch die Eisenbahnverkehrsunternehmen und Aufsichtsbehörden zu verbessern
+bzw. zu ermöglichen.
+08/2022
+
+Sicherheitsbehörde:
+
+Fahrzeughalter
+
+Es wird empfohlen, zur Begrenzung von Folgeschäden die Ausrüstung von Mineralölkesselwagen mit
+zusätzlichen Sicherheitselementen zu überprüfen.
+
+Seite 60 von 60
+
+

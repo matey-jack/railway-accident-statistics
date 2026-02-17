@@ -1,0 +1,979 @@
+Untersuchungsbericht �
+Aktenzeichen:
+
+BEU-uu2019-02/008-3323
+
+Stand:
+
+08.11.2019 Version: 1.0
+
+Erstveröﬀentlichung: 08.11.2019
+
+Gefährliches Ereignis im Eisenbahnbetrieb
+
+Ereignisart:
+
+Zugentgleisung
+
+Datum:
+
+25.02.2019
+
+Zeit:
+
+07:32 Uhr
+
+Bahnhof:
+
+Moers Gbf
+
+Gleis:
+
+501
+
+Kilometer:
+
+7,3
+
+Untersuchungsbericht
+Zugentgleisung, 25.02.2019, Moers Gbf
+
+Veröﬀentlicht durch:
+Bundesstelle für Eisenbahnunfalluntersuchung
+Heinemannstraße 6
+53175 Bonn
+
+Untersuchungsbericht
+Zugentgleisung, 25.02.2019, Moers Gbf
+
+Inhaltsverzeichnis: �
+I.
+
+Änderungsverzeichnis: ........................................................................................ II �
+
+II.
+
+Abbildungsverzeichnis: ...................................................................................... III �
+
+III.
+
+Tabellenverzeichnis: .......................................................................................... III �
+
+IV.
+
+Abkürzungsverzeichnis:...................................................................................... IV �
+
+1
+
+Vorbemerkungen................................................................................................ 1 �
+
+1.1
+
+Organisatorischer Hinweis ...................................................................................... 1 ­
+
+1.2
+
+Ziel der Eisenbahn-Unfalluntersuchung.................................................................. 1 ­
+
+2
+
+Zusammenfassung .............................................................................................. 3 �
+
+2.1
+
+Kurzbeschreibung des Ereignisses........................................................................... 3 ­
+
+2.2
+
+Folgen ...................................................................................................................... 3 ­
+
+2.3
+
+Ursachen.................................................................................................................. 3 ­
+
+2.4
+
+Sicherheitsempfehlungen ....................................................................................... 3 ­
+
+3
+
+Allgemeine Angaben ........................................................................................... 4 �
+
+3.1
+
+Lage der Örtlichkeit ................................................................................................. 4 ­
+
+3.2
+
+Beteiligte und Mitwirkende..................................................................................... 5 ­
+
+3.3
+
+Äußere Bedingungen............................................................................................... 5 ­
+
+3.4
+
+Todesopfer, Verletzte und Sachschäden................................................................. 6 ­
+
+4
+
+Untersuchungsprotokoll ..................................................................................... 8 �
+
+4.1
+
+Zusammenfassung von Aussagen und Stellungnahmen......................................... 8 ­
+
+4.1.1
+
+Stellungnahme des Tf DGS 52760 ........................................................................... 8 ­
+
+4.1.2
+
+Stellungnahme Fdl-Helfers ...................................................................................... 8 ­
+
+4.1.3
+
+Stellungnahme des Fdl ............................................................................................ 8 ­
+
+4.2
+
+Notfallmanagement ................................................................................................ 8 ­
+
+4.3
+
+Untersuchung der Infrastruktur .............................................................................. 9 ­
+
+I
+
+Untersuchungsbericht
+Zugentgleisung, 25.02.2019, Moers Gbf
+
+4.4
+
+Untersuchung der Leit- und Sicherungstechnik (LST) ........................................... 11 ­
+
+4.5
+
+Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers................. 15 ­
+
+4.6
+
+Untersuchung der betrieblichen Abläufe des EVU ............................................... 17 ­
+
+4.7
+
+Untersuchung von Fahrzeugen ............................................................................. 19 ­
+
+5
+
+Auswertung und Schlussfolgerungen..................................................................20 �
+
+5.1
+
+Ereignisrekonstruktion .......................................................................................... 20 ­
+
+5.2
+
+Feststellungen und Bewertungen ......................................................................... 20 ­
+
+I.
+
+Änderungsverzeichnis:
+Änderung
+
+Stand
+
+II
+
+Untersuchungsbericht
+Zugentgleisung, 25.02.2019, Moers Gbf
+
+II.
+
+Abbildungsverzeichnis:
+
+Abbildung 1: Lageplan................................................................................................................ 4 ­
+Abbildung 2: Gleislageskizze ...................................................................................................... 4 ­
+Abbildung 3: Unfallstelle ............................................................................................................ 7 ­
+Abbildung 4: Luftaufnahme Unfallstelle .................................................................................... 7 ­
+Abbildung 5: Entgleisungsspuren............................................................................................. 10 ­
+Abbildung 6: Teil der Einfahrzugstraße an der Stelltafel (1).................................................... 12 ­
+Abbildung 7: Teil der Einfahrzugstraße an der Stelltafel (2).................................................... 12 ­
+Abbildung 8: Registrierung des Störungsdruckers................................................................... 13 ­
+Abbildung 9: Anzeige der Zugnummernmeldeanlage.............................................................. 14 ­
+Abbildung 10: Ausdruck der Zugnummernmeldeanlage ......................................................... 14 ­
+Abbildung 11: Streckenspiegel der Bz Duisburg ...................................................................... 14 ­
+Abbildung 12: grafische Darstellung der EFR-Daten................................................................ 18 ­
+
+III.
+
+Tabellenverzeichnis:
+
+Tabelle 1: Übersicht der äußeren Bedingungen ........................................................................ 5 ­
+Tabelle 2: Übersicht der Personenschäden ............................................................................... 6 ­
+Tabelle 3: Übersicht der geschätzten Schadenshöhe ................................................................ 6 ­
+
+III
+
+Untersuchungsbericht
+Zugentgleisung, 25.02.2019, Moers Gbf
+
+IV.
+
+Abkürzungsverzeichnis: �
+AEG
+
+Allgemeines Eisenbahngesetz
+
+Asig
+
+Ausfahrsignal
+
+BEU
+
+Bundesstelle für Eisenbahnunfalluntersuchung
+
+BEVVG
+
+Bundeseisenbahnverkehrsverwaltungsgesetz
+
+BMVI
+
+Bundesministerium für Verkehr und digitale Infrastruktur
+
+DET
+
+Dateneingabetastatur
+
+DSK
+
+Datenspeicherkassete
+
+BR
+
+Baureihe
+
+EBA
+
+Eisenbahn-Bundesamt
+
+EBO
+
+Eisenbahn- Bau- und Betriebsordnung
+
+EFR
+
+Elektronische Fahrtenregistrierung
+
+EIU
+
+Eisenbahninfrastrukturunternehmen
+
+Esig
+
+Einfahrsignal
+
+EU
+
+Europäische Union
+
+EUB
+
+Eisenbahn-Unfalluntersuchungsstelle des Bundes
+
+EUV
+
+Eisenbahn-Unfalluntersuchungsverordnung
+
+EVU
+
+Eisenbahnverkehrsunternehmen
+
+Fdl
+
+Fahrdienstleiter / Fahrdienstleiterin
+
+Gbf
+
+Güterbahnhof
+
+GSM-R
+
+Global System for Mobile Communica/ons Railway
+
+HLL
+
+Hauptlu/leitung
+
+LST
+
+Leit- und Sicherungstechnik
+
+Ne
+
+Nichtbundeseigene
+
+Nmg
+
+No/allmanager
+
+IV
+
+Untersuchungsbericht
+Zugentgleisung, 25.02.2019, Moers Gbf
+
+Pbf
+
+Personenbahnhof
+
+PZB
+
+Punk/örmige Zugbeeinﬂussung
+
+Ril
+
+Richtlinie
+
+Sig
+
+Signal
+
+SMS
+
+Sicherheitsmanagementsystem
+
+Tf
+
+Triebfahrzeugführer / Triebfahrzeugführerin
+
+Tfz
+
+Triebfahrzeug
+
+Vsig
+
+Vorsignal
+
+ZES
+
+regionale Zentralschaltstelle für Bahnstrom
+
+V
+
+Untersuchungsbericht
+Zugentgleisung, 25.02.2019, Moers Gbf
+
+1 Vorbemerkungen
+Das Kapitel Vorbemerkungen befasst sich mit allgemeinen Informa/onen zur Bundesstelle
+für Eisenbahnunfalluntersuchung (BEU). Dabei wird die gesetzliche Grundlage genannt und
+die Au/auorganisa/on kurz umrissen.
+
+1.1 Organisatorischer Hinweis
+Mit der Richtlinie (EU) 2016/798/EG zur Eisenbahnsicherheit in der Gemeinscha/ (Eisenbahnsicherheitsrichtlinie) wurden die Mitgliedstaaten der europäischen Union verpﬂichtet,
+unabhängige Untersuchungsstellen für die Untersuchung bes/mmter gefährlicher Ereignisse
+einzurichten.
+Diese Richtlinie wurde mit dem Gesetz zur Neuordnung der Eisenbahnunfalluntersuchung
+vom 27. Juni 2017 umgesetzt. Die Bundesstelle für Eisenbahnunfalluntersuchung ist eine
+Bundesoberbehörde im Geschä/sbereich des Bundesministeriums für Verkehr und digitale
+Infrastruktur.
+Die Anforderungen an den Au/au, die Gliederung und die Untersuchungsdurchführung
+wurden mit dem Organisa/onserlass zur Einrichtung der Bundesstelle für Eisenbahnunfalluntersuchung (BEU) gemäß § 6 Bundeseisenbahnverkehrsverwaltungsgesetz (BEVVG) des Bundesministeriums für Verkehr und digitale Infrastruktur vom 14.07.2017 untersetzt und verfeinert.
+Näheres hierzu ist im Internet unter www.beu.bund.de eingestellt.
+
+1.2 Ziel der Eisenbahn-Unfalluntersuchung
+Ziel und Zweck der Untersuchungen ist es, die Ursachen von gefährlichen Ereignissen aufzuklären und hieraus Hinweise zur Verbesserung der Sicherheit abzuleiten. Untersuchungen
+der BEU dienen nicht dazu, ein Verschulden festzustellen oder Fragen der Ha/ung oder
+sons/ger zivilrechtlicher Ansprüche zu klären und werden unabhängig von jeder gerichtlichen Untersuchung durchgeführt.
+Die Untersuchung umfasst die Sammlung und Auswertung von Informa/onen, die Erarbeitung von Schlussfolgerungen einschließlich der Feststellung der Ursachen und gegebenenfalls die Abgabe von Sicherheitsempfehlungen. Die Vorschläge der Untersuchungsstelle zur
+Vermeidung von Unfällen und Verbesserung der Sicherheit im Eisenbahnverkehr werden der
+
+Seite 1 von 21
+
+Untersuchungsbericht
+Zugentgleisung, 25.02.2019, Moers Gbf
+
+Sicherheitsbehörde, der Eisenbahnagentur der Europäischen Union und, soweit erforderlich,
+anderen Stellen und Behörden oder anderen Mitgliedstaaten der Europäischen Union (EU) in
+Form von Sicherheitsempfehlungen mitgeteilt.
+
+Seite 2 von 21
+
+Untersuchungsbericht
+Zugentgleisung, 25.02.2019, Moers Gbf
+
+2 Zusammenfassung
+Das Kapitel Zusammenfassung befasst sich einleitend mit einer kurzen Beschreibung des
+Ereignishergangs. Die entstandenen Folgen werden in dem darauﬀolgenden Abschnit kurz
+dargestellt. Im vorletzten Abschnit dieses Kapitels wird die primäre Ereignisursache benannt. Das Kapitel schließt mit eventuell erteilten Sicherheitsempfehlungen zum untersuchten Ereignis.
+
+2.1 Kurzbeschreibung des Ereignisses
+Am 25.02.2019 gegen 07:32 Uhr entgleisten die ersten drei Wagen des Güterzuges
+DGS 52760 (EVU: Hafen Krefeld GmbH & Co KG) während der Einfahrt in den Bahnhof Moers Gbf.
+
+2.2 Folgen
+Infolge des Unfalls wurden keine Personen getötet oder schwer verletzt. Der Triebfahrzeugführer (Tf) erlit bei dem Unfall einen Schock. ­
+Die geschätzten Sachschäden belaufen sich auf ca. 1.890.000,00 Euro. ­
+
+2.3 Ursachen
+Die Entgleisung des Zuges 52760 wurde durch einen Arbeitsfehler des Fahrdienstleiters (Fdl)
+des Bahnhofs Moers verursacht.
+
+2.4 Sicherheitsempfehlungen
+Es wurde keine Sicherheitsempfehlung ausgesprochen.
+
+Seite 3 von 21
+
+Untersuchungsbericht
+Zugentgleisung, 25.02.2019, Moers Gbf
+
+3 Allgemeine Angaben
+Im ersten Abschnit dieses Kapitels wird die Örtlichkeit des Ereignisses beschrieben. Die an
+der Unfalluntersuchung beteiligten und mitwirkenden Stellen werden im nächsten Abschnit
+aufgezählt. Des Weiteren werden die am Ereignistag aufgetretenen äußeren Bedingungen
+wie beispielsweise das Weter oder Lichtverhältnisse dargestellt. Der letzte Abschnit benennt die Anzahl der Todesopfer und Verletzten sowie die Art und Höhe der Folgeschäden.
+
+3.1 Lage der Örtlichkeit
+
+Abbildung 1: Lageplan
+
+1
+
+Abbildung 2: Gleislageskizze ­
+1
+
+Geobasisdaten: © GeoBasis-DE / BKG [2019] ­
+
+Seite 4 von 21
+
+Untersuchungsbericht
+Zugentgleisung, 25.02.2019, Moers Gbf
+
+3.2 Beteiligte und Mitwirkende
+Am Ereignis waren folgende Stellen beteiligt:
+•
+
+DB Netz AG als Eisenbahninfrastrukturunternehmen (EIU)
+
+•
+
+Hafen Krefeld GmbH & Co KG als Eisenbahnverkehrsunternehmen (EVU)
+
+Für das EIU liegt eine Sicherheitsgenehmigung gemäß § 7c AEG des Eisenbahn-Bundesamts
+vom 13.09.2016 vor.
+Das EVU verfügt über eine Sicherheitsbescheinigung gemäß § 7a AEG mit einer Gül/gkeit bis
+zum 16.02.2022 und ist damit zur der Teilnehme am Eisenbahnbetrieb berech/gt.
+Im Rahmen der Sachverhaltsermitlung und Ursachenerforschung wurden neben den o.g.
+Beteiligten keine weiteren Stellen einbezogen.
+
+3.3 Äußere Bedingungen
+Zum Zeitpunkt des Ereignisses herrschten folgende Bedingungen:
+Lichtverhältnisse
+
+Dämmerung
+
+Sicht
+
+klar
+
+Bedeckung
+
+wolkenlos
+
+Temperaturen
+
+ca. 5°C
+
+fallender Niederschlag
+
+Nein
+
+Niederschlagshäuﬁgkeit
+
+--
+
+Untergrund / gefallender Niederschlag
+
+trocken
+
+Tabelle 1: Übersicht der äußeren Bedingungen
+
+Feststellung zu den äußeren Bedingungen
+1
+
+Die Weterbedingungen stehen in keinem erkennbaren kausalen Zusammenhang mit
+der Ereignisursache.
+
+Seite 5 von 21
+
+Untersuchungsbericht
+Zugentgleisung, 25.02.2019, Moers Gbf
+
+3.4 Todesopfer, Verletzte und Sachschäden
+Den letzten Erkenntnissen der BEU nach traten folgend aufgeführte Personenschäden ein.
+Anzahl Tote
+
+Anzahl schwer
+
+Anzahl leicht
+
+Reisende
+
+-
+
+Verletzte
+-
+
+Verletzte
+-
+
+Mitarbeiter
+
+-
+
+-
+
+1
+
+Benutzer von Bahn-
+
+-
+
+-
+
+-
+
+übergängen
+Drite
+
+-
+
+-
+
+-
+
+Summe
+
+Keine
+
+Keine
+
+1
+
+Tabelle 2: Übersicht der Personenschäden ­
+
+Die geschätzte Höhe der Sachschäden in Euro setzt sich wie folgt zusammen: ­
+Schäden
+
+geschätzte Kosten in Euro (€)
+
+Fahrzeuge
+
+300.000,00 Euro
+
+Infrastruktur
+
+1.590.000,00 Euro
+
+Drite
+
+Nicht bekannt
+
+Gesamtschadenshöhe
+
+1.890.000,00 Euro
+
+Tabelle 3: Übersicht der geschätzten Schadenshöhe
+
+Seite 6 von 21
+
+Untersuchungsbericht
+Zugentgleisung, 25.02.2019, Moers Gbf
+
+Abbildung 3: Unfallstelle
+
+Abbildung 4: Lu/aufnahme Unfallstelle
+
+2
+
+2
+
+Quelle: Bundespolizei
+
+Seite 7 von 21
+
+Untersuchungsbericht
+Zugentgleisung, 25.02.2019, Moers Gbf
+
+4 Untersuchungsprotokoll
+In diesem Kapitel werden die ermitelten Ergebnisse zu einzelnen in Zusammenhang mit
+dem Ereignis stehenden Teilbereichen des Eisenbahnwesens dargestellt. Die jeweilig relevanten Erkenntnisse werden fortlaufend aufgeführt.
+
+4.1
+
+Zusammenfassung von Aussagen und Stellungnahmen
+
+In den folgenden Abschniten werden die wich/gsten Aussagen und Stellungnahmen einiger
+Beteiligter zusammengefasst dargestellt. Diese wurden gegenüber dem jeweiligen Arbeitgeber abgelegt.
+4.1.1 Stellungnahme des Tf DGS 52760
+Der Tf gab an, er hate am 25.02.2019 den Au/rag Zug 52760 von Krefeld Linn nach Moers Gbf zu fahren. Vor dem Einfahrsignal (Esig) 501 des Bahnhofs Moes Gbf habe er halten
+müssen, weil ein Personenzug aus der Gegenrichtung an ihm vorbeigefahren sei. Danach
+habe der Fdl das Signal auf Fahrt mit Halt erwarten, Hp2/Vr0, gestellt. Nachdem er die Fahrt
+weitergeführt habe, bemerkte er nach ca. 150 m ein Rucken oder Schwappen im Zug. Außerdem habe er in Fahrtrichtung rechts ein Wackeln der Oberleitung gesehen. Er habe darauvin sofort die Schnellbremsung eingeleitet. Als er sich umdrehte habe er die Kesselwagen gesehen, die schräg hinter ihm standen. Er habe sofort den Notruf über Zugfunk abgesetzt.
+4.1.2 Stellungnahme Fdl-Helfers
+Der Helfer gab an, dass er am Ereignistag als Fdl-Helfer auf dem Stellwerk Mf Moers im Einsatz war. Nach der Einstellung der Fahrstraße für Zug 52760 durch den Fdl, habe er den
+Störwecker von der Stelltafel wahrgenommen. Als er auf die Stelltafel schaute habe der
+Melder der Weiche 1 eine Auﬀahrmeldung angezeigt. Das Esig 501 sei in Haltstellung gewesen. Die weitere Abarbeitung der Störung durch den Fdl habe er nicht wahrgenommen, weil
+der Fdl zwischen ihm und der Stellwand stand.
+4.1.3 Stellungnahme des Fdl
+Der Fdl des Stellwerks Mf selbst machte keine Angaben zum Unfallgeschehen.
+
+4.2 Notfallmanagement
+Nach § 4 Abs. 3 Allgemeines Eisenbahngesetz (AEG) haben die Eisenbahnen die Verpﬂichtung, an Maßnahmen des Brandschutzes und der technischen Hilfeleistung mitzuwirken. In
+
+Seite 8 von 21
+
+Untersuchungsbericht
+Zugentgleisung, 25.02.2019, Moers Gbf
+
+einer Vereinbarung zwischen den Innenministerien der Länder und der DB AG hat man sich
+auf eine Verfahrensweise verständigt. Für die DB Netz AG gelten die entsprechenden Brandund Katastrophenschutzgesetze der Länder. Das No/allmanagement der DB AG ist in der
+Richtlinie (Ril) Konzern Ril 123, jenes der DB Netz AG in der Ril 423 näher beschrieben und
+geregelt.
+Feststellungen zum No/allmanagement
+Lfd. Nr. 2
+Auf die Untersuchung wurde verzichtet, da weder Personen zu reten, noch Folgesach- oder
+Umweltschäden abzuwenden waren
+
+4.3 Untersuchung der Infrastruktur
+Die Zugentgleisung ereignete sich auf der zweigleisigen Hauptbahn Rheinhausen - Rheinkamp im Bahnhof Moers Gbf. Die Strecke mit der VZG-Streckennummer 2330 verläu/ ab
+Rheinkamp weiter als eingleisige Nebenbahn bis Xanten. Die Unfallstelle befand sich auf der
+Einfahrweiche 001 des Gbf in Moers, etwa in Streckenkilometer 7,3. Dieser Abschnit darf
+gemäß Verzeichnis der maximal zulässigen Geschwindigkeiten (VzG) mit einer maximal zulässigen Geschwindigkeit von 100 km/h befahren werden und ist auf einen Bremsweg von
+700 m ausgelegt. Das Esig 501 ließ durch die Stellung „Langsamfahrt“ eine Höchstgeschwindigkeit vom max. 40 km/h zu.
+Auf der Strecke 2330 steht digitaler Zugfunk (Global System for Mobile Communica/ons
+Railway – GSM-R) zur Verfügung. Als Zugsicherung kommt die punk/örmige Zugbeeinﬂussung (PZB) zur Anwendung.
+Die Fahrbahn wies in der Weiche 001 starke Schäden, sowohl im Stammgleis, als auch im
+Zweiggleis auf. Hierbei handelte es sich um Schäden, die durch entgleiste Fahrzeuge entstanden sind und sich bis zum endgül/gen Halteplatz dieser Fahrzeuge fortsetzten. Im Bereich der Weichenspitze waren an den Zungen keine Auﬀälligkeiten erkennbar. Die Weiche
+001 befand sich in Rechtslage und somit in der für die geplante Einfahrt rich/gen Stellung.
+Auf weiterführende Untersuchungen der Fahrbahn wurde verzichtet.
+
+Seite 9 von 21
+
+Untersuchungsbericht
+Zugentgleisung, 25.02.2019, Moers Gbf
+
+Abbildung 5: Entgleisungsspuren
+
+Zug 52760 stand vollständig hinter dem Esig 501. Der Zugschluss befand sich in Höhe des
+Herzstücks der Weiche 001. Das Triebfahrzeug (Tfz) des Zuges stand auf der Weiche 004. Der
+nachlaufende Wagen war nicht entgleist und befand sich in der Gleisverbindung zwischen
+den Weichen 003 und 004. Die Wagen 2 und 3 standen auch in dieser Gleisverbindung und
+waren beide entgleist. Im Bereich der Kuppelstelle waren diese Wagen stark nach rechts
+vom vorgesehenen Fahrweg abgekommen, so dass diese hier im Streckengleis der Gegenrichtung (Gleis 502) zum Stehen kamen. Der 4. Wagen war mit dem vorderen Drehgestell
+entgleist, folgte jedoch, wie auch die restlichen Fahrzeuge im Zugverband, dem vorgesehenen Fahrweg.
+Feststellung zur Untersuchung der Infrastruktur
+Lfd. Nr. 3
+Die Überprüfung der Infrastruktur ergab keine Hinweise auf Mängel oder anderen Auﬀälligkeiten. Die Schäden an der Fahrbahn waren zweifellos Folgeschäden des Ereignisses. Die
+Entgleisungsspuren und die Lage der Fahrzeuge, insbesondere der Wagen 2 und 3, erweckten den Anschein, dass eine Weiche beim Überfahren durch diese Fahrzeuge zunächst in die
+Linkslage und danach in die Rechtslage gestellt wurde.
+
+Seite 10 von 21
+
+Untersuchungsbericht
+Zugentgleisung, 25.02.2019, Moers Gbf
+
+Die Einﬂüsse aus der Infrastruktur sind somit weder als ereignisursächlich noch als ereignisbegüns/gend einzustufen.
+
+4.4 Untersuchung der Leit- und Sicherungstechnik (LST)
+Die Zug- und Rangierstraßen im Bahnhof Moers Gbf werden durch den Fdl des Stellwerks Mf
+eingestellt. Das Stellwerk beﬁndet sich im Bereich des Bahnhofs Moers Personenbahnhof
+(Pbf). Eine Sichtverbindung vom Stellwerk zur Unfallstelle besteht nicht. Diese ist nicht erforderlich, da es sich um ein Spurplanstellwerk vom Typ Dr S 600 mit der üblichen technischen Ausstatung (Gleisfreimeldeeinrichtung usw.) handelt.
+Regelbedienhandlungen, wie bspw. das Einstellen von Zug- und Rangierstraßen können über
+eine Dateneingabetastatur (DET) vorgenommen werden. Außerdem steht ein Kontrollmonitor zur Verfügung. Bes/mmte nachweispﬂich/ge Bedienungen müssen an der Stelltafel vorgenommen werden. Auf dieser werden der schema/sche Gleislageplan und die Fahrwegelemente dargestellt.
+Im Rahmen der Unfalluntersuchung wurden die Melder der Stelltafel geprü/. Außerdem
+wurden der Ausdruck des Störungsdruckers und die Kontrollmonitoranzeige sowie die Aufzeichnungen des Zugnummerndruckers ausgewertet.
+Nach dem Unfall sollen an den Fahrwegelementen der eingestellten Zugstraße keine Veränderungen vorgenommen worden sein. Beim Eintreﬀen der BEU auf dem Stellwerk Mf gaben
+die Melder der Stelltafel folgendes Bild:
+Vom Esig 501 war eine Zugstraße nach Gleis 102 eingestellt. Das Esig 501 befand sich in Haltstellung. Das am gleichen Mast beﬁndliche Vorsignal war dunkel. Der Fahrstraßenfestlegemelder war dunkel. Die ersten Gleismelder sowie entsprechenden Melder der Weichen hinter dem Esig 501 leuchteten rot und zeigten diesen Bereich als besetzt an. Ab der Weiche 008 leuchteten diese Melder bis zum Sperrsignal Ls 102II gelb. Dieser Abschnit war bei
+eingestellter Zugstraße frei von Fahrzeugen. Der Durchrutschwegmelder leuchtete gelb. Der
+Verschlussmelder der Weiche 001 war dunkel. An den anderen Weichen der Zugstraße
+leuchteten diese Melder gelb. Diese Weichen waren im Gegensatz zur Weiche 001 unter
+Verschluss der Zugstraße.
+
+Seite 11 von 21
+
+Untersuchungsbericht
+Zugentgleisung, 25.02.2019, Moers Gbf
+
+Abbildung 6: Teil der Einfahrzugstraße an der Stelltafel (1)
+
+Abbildung 7: Teil der Einfahrzugstraße an der Stelltafel (2)
+
+Auf dem Ausdruck des Störungsdruckers sowie auf dem Kontrollmonitor waren im Zusammenhang mit dem Unfall folgende Meldungen registriert:
+97
+
+07:30
+
+FHTE 1
+
+98
+
+07:30
+
+WAT 1
+
+99
+
+07:31
+
+WAT 1
+
+Unter den laufenden Nummern 97 bis 99 wurden drei nachweispﬂich/ge Bedienhandlungen
+aufgezeichnet. Um 07:30 Uhr wurde zunächst die Taste FHTE bedient. Hierbei handelt es sich
+um die Fahrstraßen-Hilfstaste für Einzelauﬂösung. Diese wird zusammen mit einer Gleisoder Weichentaste bedient und ﬁndet Anwendung, um die Festlegung eines einzelnen
+Fahrwegelements aufzulösen, wenn bspw. die Gesamtauﬂösung einer Fahrstraße nicht möglich ist. Eine Bedienhandlung zur Haltstellung des Esig 501 mithilfe der Signalhaltgruppentaste (HaGT) wurde zuvor nicht aufgezeichnet.
+Ebenfalls um 07:30 Uhr wurde nach der FHTE-Bedienung auch die Taste WAT bedient. Die
+Weichenauﬀahrtaste wird zusammen mit einer Weichentaste bedient, wenn die Stellungsund Überwachungsmelder blinken und eine Auﬀahrmeldung der Weiche signalisieren.
+Eine Weiche wurde aufgefahren, wenn diese stumpf, von der Herzstückseite her befahren
+
+Seite 12 von 21
+
+Untersuchungsbericht
+Zugentgleisung, 25.02.2019, Moers Gbf
+
+wurde und sich die Weichenzungen in der für diese Fahrt falschen Lage befanden. Die Weiche wird quasi dabei vom Eisenbahnfahrzeug umgestellt und beﬁndet sich danach in keiner
+Endlage. Mitels WAT-Bedienung kann die Weiche wieder in eine Endlage gebracht werden.
+Die WAT wurde um 07:31 Uhr erneut bedient.
+
+Abbildung 8: Registrierung des Störungsdruckers
+
+Die Zugnummernmeldeanlage, die der Abgabe und Dokumenta/on der Zugmeldungen dient,
+ließ folgenden Sachverhalt erkennen. Im Zugnummernfeld des Gleises 501, vor dem Esig 501, wurde die Zugnummer 52760 angezeigt. Im Ausdruck der Zugnummernmeldeanlage
+wurde um 07:30 Uhr die Einfahrt des Zuges 52760 aus Richtung Trompet nach Gleis 102 registriert. Diese Aufzeichnung, die durch den Hal/all des Esig 501 bewirkt wird, stand jedoch
+im Widerspruch zur Anzeige im Zugnummernfeld vor dem Esig 501. Mit dem Hal/all dieses
+Signals häte die Zugnummer in das Zugnummernfeld des Gleises 102 wechseln müssen. Der
+im Ausdruck registrierte Hal/all des Esig 501 ließ auch darauf schließen, dass dieses Signal
+für die Fahrt des 52760 auf Fahrt gestanden haben muss. Eine spätere Auswertung des Streckenspiegels, der in der Betriebszentrale (Bz) der DB Netz AG in Duisburg aufgezeichnet
+wurde, ließ erkennen, dass das Esig 501 für die Zugfahrt 52760 nach Gleis 102 um 07:32 Uhr
+in Fahrtstellung war. Mit Vorbeifahrt des Zuges an diesem Signal und dem damit verbundenen Hal/all des Signals wurde auch die Zugnummer nach Gleis 102 automa/sch weitergeschaltet. Der Umstand, dass die Zugnummer, beim Eintreﬀen der BEU im Stellwerk, im Zugnummernfeld vor dem Esig angezeigt wurde, kann letztendlich nur auf eine manuelle Eingabe nach dem Ereignis zurückzuführen sein. Auf /efergreifende Untersuchungen dahingehend wurde jedoch verzichtet, da dieser Sachverhalt auf die Entstehung des Unfalls keinen
+Einﬂuss hate. Der in den Aufzeichnungen registrierte Zeitversatz ist systembedingt und war
+in diesem Zusammenhang zu vernachlässigen.
+
+Seite 13 von 21
+
+Untersuchungsbericht
+Zugentgleisung, 25.02.2019, Moers Gbf
+
+Abbildung 9: Anzeige der Zugnummernmeldeanlage
+
+Abbildung 10: Ausdruck der Zugnummernmeldeanlage
+
+Abbildung 11: Streckenspiegel der Bz Duisburg
+
+Im Arbeits- und Störungsbuch des Stellwerks Mf wurde die vom Helfer des Fdl beschriebene
+Störung an der Weiche 001 (Auﬀahrmeldung) nicht eingetragen. Möglicherweise wurde dies
+aufgrund des eingetretenen Unfalls nicht durchgeführt. Am Vortag, dem 24.02.19, wurde um
+10:20 Uhr eine Auﬀahrmeldung der Weiche 001 i.V.m. einer Auﬂösestörung verzeichnet.
+Diese Störung wurde um 12:14 Uhr durch einen LST-Mitarbeiter besei/gt. Die Arbeiten wurden mit dem Vermerk „Fahrstraße 501 Grundstellung hergestellt, W1 Prüfer eingestellt“
+beendet.
+Im Verlauf der Untersuchungen wurde der PZB-Gleismagnet am Esig 501 hinsichtlich seiner
+Funk/onsfähigkeit durch entsprechende Messungen überprü/. Diese waren nicht zu beanstanden. Die Funk/onsfähigkeit dieses Gleismagnets war gegeben.
+Feststellung zur Untersuchung der Leit- und Sicherungstechnik
+Lfd. Nr. 4
+Die Überprüfung der Leit- und Sicherungstechnik ergab, dass für die Zugfahrt des DGS
+52760 eine Zugstraße vom Esig 501 nach Gleis 102 eingestellt war und dass das Esig einen
+Fahrtbegriﬀ zeigte. Der Angabe des Fdl - Helfers entsprechend signalisierten die Melder der
+Weiche 001 nach Einstellung der Fahrstraße eine Auﬀahrmeldung. Es wurde mit Bedienung
+der FHTE die Festlegung der Weiche 001 hilfsweise aufgelöst und anschließend diese
+
+Seite 14 von 21
+
+Untersuchungsbericht
+Zugentgleisung, 25.02.2019, Moers Gbf
+
+Weiche mitels WAT zweimal umgestellt. ­
+
+4.5 Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers
+Die Betriebsabwicklung auf der Strecke wird nach den Bes/mmungen der Fahrdienstvorschri/ DB Netz AG, Richtlinie (Ril) 408 durchgeführt. Verantwortlich dafür ist im Bahnhof
+Moers Gbf der Fdl des Stellwerks Mf. Diesem wurde zur Unterstützung ein Helfer zur Seite
+gestellt. Nach den Erkenntnissen der BEU war der Helfer an der Durchführung der Zugfahrt
+52760 nicht beteiligt. Es wird also davon ausgegangen, dass der Fdl selbst alle Bedienhandlungen im Zusammenhang mit dieser Fahrt und dem anschließenden Ereignis durchgeführt
+hat. Demnach wird hier auch nur auf den Fdl und dessen betrieblichen Handlungen eingegangen.
+Der Fdl ist bei der DB Netz AG beschä/igt. Er hat eine Funk/onsausbildung zum Fdl absolviert. Danach wurde er auf dem Stellwerk Mf örtlich eingewiesen und geprü/. Seit Dezember 2017 war der Fdl ständig auf diesem Stellwerk im Einsatz. Die körperliche Eignung für
+diese Tä/gkeit wurde nachgewiesen. Umstände, die dem Einsatz als Fdl entgegensprachen
+wurden der BEU nicht bekannt. An den regelmäßigen Fortbildungen nahm er teil und wurde
+im Rahmen der netzinternen Vorgaben entsprechend bei der Dienstausführung überwacht.
+Die Dienstplangestaltung für den Fdl stellte die Einhaltung der nö/gen Ruhephasen zwischen
+den Dienstschichten sicher. Die letzte Dienstschicht vor dem Ereignistag absolvierte der Fdl
+am 18.02.2019 im Spätdienst. Weder die Länge der Dienstschichten, noch die Nachtdiensthäuﬁgkeit waren formal zu beanstanden.
+Die betrieblichen Handlungen des Fdl im Zusammenhang mit der Zugfahrt 52760 lassen sich
+im Wesentlichen aus den Untersuchungsergebnissen der LST im Abschnit 4.4 ableiten. Die
+Auswertung der aufgezeichneten GSM-R Gespräche brachte zusätzliche Erkenntnisse, die
+hier auszugsweise oder sinngemäß wiedergegeben werden.
+Der Fdl ließ zunächst die Zugfahrt 75091 von Moers Pbf in Richtung Trompet am Gbf vorbeifahren. Aus diesem Grund musste der DGS 52760 vor dem Esig 501 kurz anhalten. Nachdem
+die Zugstraße für den durchfahrenden Zug aufgelöst war, lief die Zugstraße für Zug 52760
+nach Gleis 102 ein. Diese hate der Fdl zuvor vermutlich über die DET eingegeben. Das Esig 501 kam in Fahrtstellung (Hp2 – Langsamfahrt). Danach muss es zur beschriebenen
+Auﬀahrmeldung der Weiche 001 gekommen sein. Der Fdl bediente darauvin die FHTE und
+
+Seite 15 von 21
+
+Untersuchungsbericht
+Zugentgleisung, 25.02.2019, Moers Gbf
+
+löste damit die Festlegung für diese Weiche auf. Er hat zuvor weder das Esig 501 auf Halt
+gestellt, noch hat er mitels Zugfunk, den Tf des Zuges zum Halten aufgefordert. Statdessen
+hat er nach der Auﬂösung der Weiche 001 diese zweimal mit Hilfe der WAT umgestellt. Kurz
+darauf meldete ihm der Tf des 52760, dass sein Zug entgleist sei und die Oberleitung auf den
+Kesselwagen liege. Der Fdl antwortete darauvin: „ ja das Signal ist auf Halt gefallen, genau.“
+Der Tf befürchtete einen Brand wegen der heruntergefallenen Oberleitung. Der Fdl antwortete darauf, dass er gleich die ZES [red. Anmerkung BEU: regionale Zentralschaltstelle für
+Bahnstrom] verständigen wolle. Dies tat er dann auch im Anschluss und beantragte bei der
+ZES, den Strom auf der Strecke Trompet – Moers abzuschalten. Dabei erhielt er die Antwort,
+dass die Strecke kurzschlussbeha/et und deshalb bereits abgeschaltet sei. Unmitelbar danach verständigte der Fdl die No/allleitstelle der DB Netz AG. Dabei gab er an, dass Zug
+52716 (Anmerkung BEU: gemeint war Zug 52760) Einfahrt in den Güterbahnhof hate und es
+dabei zu einer Auﬀahrmeldung der Weiche 001 gekommen sei, obwohl der Zug noch nicht
+die Weiche befahren habe. Darauvin sei das Signal auf Halt gefallen, aber der Zug sei irgendwie weitergefahren und sei dabei mit dem vorderen Zugteil entgleist. Auf Nachfrage
+wiederholte der Fdl, dass die Weiche 001 eine Auﬀahrmeldung anzeigte aber, betonte der
+Fdl, dass zu diesem Zeitpunkt der Zug noch nicht am Signal vorbeigefahren sei. Daraus
+schloss die Mitarbeiterin der No/allleitstelle, dass der Zug nach dem Hal/all dann nicht
+mehr zum Halten gekommen und deshalb entgleist sei. Der Fdl bestä/gte, dies müsse anscheinend so sein, denn bei ihm sei die Weiche noch weiß gewesen als die Auﬀahrmeldung
+kam.
+Feststellung zur Untersuchung betrieblichen Abläufe des Infrastrukturbetreibers
+Lfd. Nr. 5
+Die Überprüfung der betrieblichen Abläufe des Infrastrukturbetreibers ergab, dass die
+Handlungen des Fdl im Stellwerk Mf im kausalen Zusammenhang mit dem Ereignis stehen.
+Der Fdl bemerkte die Auﬀahrmeldung der Weiche 001. Er wusste, dass das Esig 501 auf
+Fahrt stand und bemerkte dessen Hal/all. Der Fdl löste die Festlegung der Weiche 001
+mitels FHTE auf und stellte die Weiche zweimal mit der WAT um.
+
+Seite 16 von 21
+
+Untersuchungsbericht
+Zugentgleisung, 25.02.2019, Moers Gbf
+
+4.6 Untersuchung der betrieblichen Abläufe des EVU
+An den betrieblichen Handlungen des EVU war nur der Tf des DGS 52760 beteiligt. Dieser
+war im Besitz eines Triebfahrzeugführerscheins und entsprechender Zusatzbescheinigung. Er
+war berech/gt die Zugleistung mit dem Triebfahrzeug 92 80 1271 026-7 auf der Infrastruktur
+der DB Netz AG zu erbringen. Die gesundheitliche Eignung wurde für den Tf nachgewiesen.
+Er nahm an Fortbildungsmaßnahmen teil. Gründe, die dem Einsatz als Tf entgegenstanden
+wurden nicht iden/ﬁziert.
+Das betriebliche Handeln des Tf spiegelte sich in den Aufzeichnungen der elektronischen
+Fahrtenregistrierung (EFR) wieder. Diese Daten wurden vor Ort auf dem Tfz aus einer elektronischen Datenspeicherkassete (DSK) von einem BEU-Mitarbeiter ausgelesen. Die in den
+Daten hinterlegten Zeitangaben (DSK-Zeit) sind systemintern und können von der tatsächlichen Uhrzeit abweichen. Im folgenden Abschnit werden nur die DSK-Zeiten angegeben. Die
+durch die BEU ermitelte Zeitdiﬀerenz lag bei ca. +14 s DSK-Zeit vor Realzeit.
+Zur besseren Veranschaulichung werden nachfolgend die EFR-Daten graﬁsch dargestellt und
+mit entsprechenden Hinweisen durch die BEU versehen. Der aufgezeichnete Weg wurde an
+die tatsächliche Streckenkilometrierung angepasst. Als Referenzpunkt wurde der Standort
+des Esig 501 gewählt.
+Die Auswertung der Daten lässt erkennen, dass Zug 52760 mit einer Geschwindigkeit von ca.
+45 km/h am Vorsignal (Vsig) zum Esig 501 vorbeifuhr. Wegen der Signalstellung „Halt erwarten“ kam es hierbei um 07:29:01 Uhr zu einer Beeinﬂussung durch einen 1000 Hz – Gleismagnet. Diese quióerte der Tf mit Bedienung der Taste „Wachsam“. Nach anschließend
+leichter Geschwindigkeitserhöhung wurde der Zug durch eine Betriebsbremsung abgebremst. Dabei wurde bei einer Geschwindigkeit von ca. 21 km/h um 07:30:13 Uhr eine Beeinﬂussung durch einen 500 Hz – Magnet registriert, weil das Esig 501 zu diesem Zeitpunkt
+noch „Halt“ zeigte. Im weiteren Verlauf wurde der Zug bis zum S/llstand abgebremst und
+kam um 07:30:55 Uhr ca. 75 m vor dem Signal zum Halten. Mit dem S/llstand wurde die
+durch die PZB bewirkte Geschwindigkeitsüberwachung des Zuges restrik/v.
+Um 07:31:18 Uhr wurde die Fahrt des Zuges fortgesetzt. Während der Vorbeifahrt am Esig
+501 hate der Zug eine Geschwindigkeit von ca. 14 km/h. Wegen des am Signalmast verbauten Vsig, das „Halt erwarten“ zeigte, kam es um 07:31:52 Uhr erneut zu einer 1000 Hz – Beeinﬂussung, die der Tf erneut mit Bedienung der Taste „Wachsam“ quióerte. Im Folgenden
+erreichte Zug 52760 eine maximale Geschwindigkeit von ca. 32 km/h. Danach ﬁel die Ge-
+
+Seite 17 von 21
+
+Untersuchungsbericht
+Zugentgleisung, 25.02.2019, Moers Gbf
+
+schwindigkeit erst langsam und später abrupt ab. Bei ca. 13 km/h wurde die Entlü/ung der
+Hauptlu/leitung (Hll) auf unter 2,2 bar registriert. Nach einem Weg von ca. 465 m kam das
+Tfz des Zuges um 07:33:05 Uhr hinter dem Esig 501 zum S/llstand.
+
+Abbildung 12: graﬁsche Darstellung der EFR-Daten
+
+Die Aufzeichnungen sprechen für ein ordnungsgemäßes Handeln des Tf. Dieser hate den
+Zug zunächst vor dem haltzeigenden Esig angehalten. Nachdem dieses Signal in die Fahrtstellung (Langsamfahrt) kam, hat der Tf die Fahrt fortgesetzt. Die zulässige Geschwindigkeit
+wurde durch ihn nicht überschriten. Er hat durch das Einleiten einer Schnellbremsung den
+Zug so schnell wie möglich zum Halten gebracht. Danach hat er mitels GSM-R einen Notruf
+abgesetzt und einen Nothaltau/rag erteilt. Auf die Wiedergabe dieses Gesprächs wird hier
+verzichtet.
+Die Auswertung der EFR-Daten macht zweifelsfrei deutlich, dass zum Zeitpunkt der Vorbeifahrt des Tfz am Esig 501 dieses Signal einen Fahrtbegriﬀ zeigte und dem Tf die Weiterfahrt
+somit erlaubte.
+
+Seite 18 von 21
+
+Untersuchungsbericht
+Zugentgleisung, 25.02.2019, Moers Gbf
+
+Feststellung zur Untersuchung betrieblichen Abläufe des EVU ­
+Lfd. Nr. 6
+Die Überprüfung der betrieblichen Abläufe des EVU ergab keine Hinweise auf Mängel oder
+andere Auﬀälligkeiten. Die Einﬂüsse aus den betrieblichen Abläufen des EVU sind somit weder ereignisursächlich noch ereignisbegüns/gend einzustufen.
+
+4.7 Untersuchung von Fahrzeugen
+Entsprechend den Angaben aus Bremszetel und Wagenliste bestand Zug 52760 aus einer
+Zuglokomo/ve (92 80 1271 026-7) und 10 beladenen Druckgaskesselwagen der Gatung
+Zags. Das Ladegut Propen (UN 23/1077) ist durch den Unfall nicht entwichen.
+Der Zug hate eine Gesamtlänge von 195 m. Das Gesamtzuggewicht lag bei 863 t, das Gesamtbremsgewicht bei 626 t. DGS 52760 verfügte über 72 Bremshundertstel gegenüber 34
+Mindestbremshundertstel.
+Bei den an zweiter bis vierte Stelle laufenden, entgleisten Wagen handelte es sich um die
+Fahrzeuge: 37 84 7818 114-2, 37 84 7818 105-0 und 33 87 7818-040.
+Die teils massiven Schäden an den Laufwerken dieser Fahrzeuge waren als Folgeschäden der
+Entgleisung einzustufen.
+
+Feststellung zur Untersuchung der Fahrzeuge
+Lfd. Nr. 7
+Die Überprüfung der Fahrzeuge ergab keine Hinweise auf Mängel oder anderen Auﬀälligkeiten. Die Einﬂüsse aus den Fahrzeugen sind somit weder ereignisursächlich noch ereignisbegüns/gend einzustufen. Aufgrund der in den vorangegangenen Abschniten beschriebenen
+Feststellungen wurde auf weiterführende Untersuchungen der Fahrzeuge verzichtet.
+
+Seite 19 von 21
+
+Untersuchungsbericht
+Zugentgleisung, 25.02.2019, Moers Gbf
+
+5 Auswertung und Schlussfolgerungen
+5.1 Ereignisrekonstruktion
+Zug 52760 sollte aus Richtung Trompet kommend in den Bahnhof Moers Gbf nach Gleis 102
+einfahren. Wegen eines Gegenzuges und der sich kreuzenden Fahrwege musste der Zug vor
+dem Esig 501 halten. Nach Durchfahrt des Gegenzuges wurde die Zugstraße für DGS 52760
+nach Gleis 102 eingestellt und das Esig 501 kam in Fahrtstellung. Der Tf setzte darauvin seine Fahrt fort. Kurz danach signalisierte die Weiche 001 im Stellwerk des Fdl Moers eine
+Auﬀahrmeldung. Der Fdl stellte dabei fest, dass sich das Esig wieder in Haltstellung befand
+und die Weiche nicht besetzt war. Er führte darauvin eine Einzelauﬂösung der Weiche 001
+durch und stellte die Weiche um. Zu diesem Zeitpunkt befand sich Zug 52760 bereits auf der
+Weiche, so dass der Umstellvorgang unter dem zweiten Wagen erfolgte. Dies führte zur Entgleisung dieses und des nachfolgenden Wagens. Hierbei liefen die beiden Wagen an der
+Kuppelstelle nach rechts in das Gegengleis der Strecke Moers Pbf – Trompet und stellten sich
+quer. Durch das erneute Umstellen der Weiche 001 unter dem driten Wagen, liefen das
+hintere Drehgestell dieses Wagens und die restlichen Fahrzeuge in die ursprünglich vorgesehene Richtung. Durch das Querstehen des driten Wagens wurde am vierten Wagen der vordere Radsatz des vorlaufenden Drehgestells rechtssei/g um wenige Zen/meter von der
+Schiene angehoben. Somit war auch dieses Fahrzeug als entgleist zu bewerten.
+
+5.2 Feststellungen und Bewertungen
+Die Entgleisung des DGS 52760 wurde durch den Fdl des Bahnhofs Moers verursacht. Er hat
+die Festlegung der Weiche 001 aufgelöst und die Weiche umgestellt, obwohl darüber eine
+Zugstraße eingestellt war und das dazugehörige Esig 501 bereits auf Fahrt stand (Feststellungen lfd. Nummern 4 und 5). Allein die Feststellung, dass das Signal zum Zeitpunkt der
+Auﬀahrmeldung wieder in die Haltstellung gekommen war, reichte nicht aus. Der Fdl häte
+damit rechnen müssen, dass der Zug, nachdem das Signal Fahrt zeigte, weitergefahren ist
+und zum Zeitpunkt des Hal/alls bereits mit der Zugspitze am Signal vorbeigefahren war. Dass
+dies auch so geschehen war, häte der Fdl an den rot leuchtenden Gleismeldern hinter dem
+Esig erkennen können. Diese zeigten das besetzte Gleis und damit das Weiterfahren des Zuges an. Auch ohne diese Feststellung häte der Fdl, selbst wenn er im Glauben war, der Zuge
+stehe noch vor dem Esig 501, die Einfahrzugstraße bzw. Teile davon, nicht auﬂösen dürfen.
+Das Esig zeigte zuvor einen Fahrtbegriﬀ und ließ die Weiterfahrt zu, was der Fdl auch wusste.
+
+Seite 20 von 21
+
+Untersuchungsbericht
+Zugentgleisung, 25.02.2019, Moers Gbf
+
+Er häte dann jedoch die Bestä/gung des Tf einholen müssen, dass dieser Halten bleibt. Dabei häte der Fdl in diesem Fall erfahren, dass der Tf mit seinem Zug bereits weiter und am
+Esig 501 vorbeigefahren war. Durch das unzulässige Auﬂösen der Weiche 001 wurde es ihm
+möglich, die Weiche mitels WAT umzustellen, auch wenn diese zwischenzeitlich durch Fahrzeuge besetzt war. Die sicherungstechnischen Einrichtungen konnten unter den gegebenen
+Umständen das Umstellen der Weiche und somit die Zugentgleisung nicht verhindern.
+Die Auﬀahrmeldung war mit hoher Wahrscheinlichkeit auf einen Fehler in der Überwachungseinrichtung zurückzuführen. Da keine weiteren Fahrten im Bereich der Weiche
+staóanden, konnte die Weiche 001 nicht aufgefahren worden sein. Auch Zug 52760 hate
+die Weiche noch nicht befahren und wenn, wäre ein Auﬀahren der Weiche nicht möglich, da
+der Zug diese von der Weichenspitze her befuhr. Der am Vortag im Arbeits- und Störungsbuch verzeichnete Eintrag über eine gleichlautende Störung der Weiche 001 und der Vermerk „Prüfer eingestellt“ lassen vermuten, dass hier eine Überwachungsstörung vorlag. Die
+Weiche selbst befand sich ordnungsgemäß in der vorgesehenen Endlage und unter Verschluss der Einfahrzugstraße. Die Ril 482.9001 – Signalanlagen bedienen – Allgemeines –
+führt hierzu aus: „Eine Weiche gilt als nicht aufgefahren, wenn die Auﬀahrmeldung während
+einer Zugfahrt au/rat, die durch Fahrtstellung eines Hauptsignals zugelassen wurde“.
+Der Tf des 52760 konnte den Hal/all des Esig 501 nicht bemerken, weil er zu diesem Zeitpunkt bereits am Standort des Signals vorbeigefahren war. Ungeachtet dessen ist ohnehin
+unklar, ob der Hal/all durch die Auﬀahrmeldung oder durch die Vorbeifahrt der Zugspitze
+(Regelfall) bewirkt wurde. Für den Tf ist dies jedoch ohne Bedeutung. Ihm wurde die Fahrt
+durch Fahrtstellung des Esig 501 erlaubt. Das belegen die aufgezeichneten EFR-Daten zweifelsfrei.
+
+Seite 21 von 21
+
+

@@ -1,0 +1,1457 @@
+Untersuchungsbericht
+Aktenzeichen:
+
+BEU-uu2020-07/006-3323
+
+Stand:
+
+31.03.2022 Version: 1.0
+
+Erstveröﬀentlichung:
+
+07.04.2022
+
+Gefährliches Ereignis im Eisenbahnbetrieb
+
+Ereignisart:
+
+Fahrzeugbrand
+
+Datum:
+
+09.07.2020
+
+Zeit:
+
+11:04 Uhr
+
+Benachbarte Betriebsstellen:
+
+Bf Hausach – Bf Haslach
+
+Streckennummer:
+
+4250
+
+Kilometer:
+
+30,5
+
+Untersuchungsbericht
+Fahrzeugbrand, 09.07.2020, Bf Hausach – Bf Haslach
+
+Veröﬀentlicht durch:
+Bundesstelle für Eisenbahnunfalluntersuchung
+Heinemannstraße 6
+53175 Bonn
+
+Untersuchungsbericht
+Fahrzeugbrand, 09.07.2020, Bf Hausach – Bf Haslach
+
+Inhaltsverzeichnis
+I.
+
+Änderungsverzeichnis: .......................................................................................... II
+
+II.
+
+Abbildungsverzeichnis: ........................................................................................ III
+
+III.
+
+Tabellenverzeichnis: ............................................................................................ III
+
+IV.
+
+Abkürzungsverzeichnis: ....................................................................................... IV
+
+0
+
+Vorbemerkung...................................................................................................... 1
+
+1
+
+Zusammenfassung ................................................................................................ 2
+
+1.1
+
+Kurzbeschreibung des Ereignisses........................................................................... 2
+
+1.2
+
+Folgen ...................................................................................................................... 2
+
+1.3
+
+Ursachen.................................................................................................................. 2
+
+1.4
+
+Sicherheitsempfehlungen ....................................................................................... 2
+
+2
+
+Die Untersuchung und ihr Kontext ........................................................................ 3
+
+3
+
+Beschreibung des Ereignisses................................................................................ 5
+
+3.1
+
+Informationen über das Ereignis und seine Hintergründe ..................................... 5
+
+3.1.1
+
+Lage und Beschreibung des Ereignisortes ............................................................... 5
+
+3.1.2
+
+Beteiligte.................................................................................................................. 8
+
+3.1.3
+
+Äußere Bedingungen ............................................................................................... 9
+
+3.1.4
+
+Todesopfer, Verletzte und Sachschäden................................................................. 9
+
+3.2
+
+Sachliche Beschreibung der Vorkommnisse ......................................................... 11
+
+3.2.1
+
+Hergangsbeschreibung .......................................................................................... 11
+
+3.2.2
+
+Notfallmanagement .............................................................................................. 12
+
+4
+
+Auswertung des Ereignisses ................................................................................ 14
+
+4.1
+
+Aufgaben und Pflichten ......................................................................................... 14
+
+4.1.1
+
+Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers ................. 14
+
+I
+
+Untersuchungsbericht
+Fahrzeugbrand, 09.07.2020, Bf Hausach – Bf Haslach
+
+I.
+
+4.1.2
+
+Untersuchung der betrieblichen Abläufe des EVU ............................................... 15
+
+4.2
+
+Fahrzeuge und technische Einrichtungen ............................................................. 19
+
+4.2.1
+
+Untersuchung von Fahrzeugen ............................................................................. 19
+
+4.2.2
+
+Untersuchung der bautechnischen Infrastruktur ................................................. 32
+
+4.2.3
+
+Untersuchung der Leit- und Sicherungstechnik .................................................... 32
+
+4.3
+
+Menschliche Faktoren ........................................................................................... 33
+
+4.3.1
+
+Beteiligte des Infrastrukturbetreibers................................................................... 33
+
+4.3.2
+
+Beteiligte des EVU ................................................................................................. 34
+
+4.4
+
+Feedback- und Kontrollmechanismen .................................................................. 35
+
+4.5
+
+Frühere Ereignisse ähnlicher Art ........................................................................... 35
+
+5
+
+Schlussfolgerungen ............................................................................................. 36
+
+5.1
+
+Zusammenfassung und Schlussfolgerung ............................................................. 36
+
+5.2
+
+Seit dem Ereignis getroffene Maßnahmen ........................................................... 37
+
+5.3
+
+Zusätzliche Bemerkungen ..................................................................................... 39
+
+6
+
+Sicherheitsempfehlungen ................................................................................... 40
+
+Änderungsverzeichnis:
+Änderung
+
+Stand
+
+II
+
+Untersuchungsbericht
+Fahrzeugbrand, 09.07.2020, Bf Hausach – Bf Haslach
+
+II.
+
+Abbildungsverzeichnis:
+Abbildung 1: Lageplan ................................................................................................................ 6
+Abbildung 2: Höhenprofil ........................................................................................................... 7
+Abbildung 3: Gleislageskizze Bf Gengenbach ............................................................................. 7
+Abbildung 4: Brennender TVT nach Entgleisung in Gengenbach .............................................. 8
+Abbildung 5: Ausgebrannter TVT nach den Löscharbeiten...................................................... 10
+Abbildung 6: Brandeinwirkung im Werkstattraum TVT ........................................................... 10
+Abbildung 7: Grafische Darstellung Fahrtverlauf bis Hausach................................................. 16
+Abbildung 8: Zeit-Weg-Linie Zwangsbremsung ....................................................................... 17
+Abbildung 9: Auszug EFR-Registrierungen bei Zwangsbremsung ............................................ 18
+Abbildung 10: Fahrzeugaufbau ................................................................................................ 20
+Abbildung 11: Zustand Führerpult ........................................................................................... 24
+Abbildung 12: Bremsschauzeichen am Fahrzeugrahmen ........................................................ 25
+Abbildung 13: Geborstener Bremsschlauch............................................................................. 26
+Abbildung 14: Systemskizze Druckluftbremssystem (Auszug) ................................................. 27
+Abbildung 15: Undichter Hydrauliklüftermotor ....................................................................... 28
+Abbildung 16: Brandausbreitung ............................................................................................. 29
+
+III.
+
+Tabellenverzeichnis:
+Tabelle 1: Übersicht der äußeren Bedingungen ........................................................................ 9
+Tabelle 2: Übersicht der geschätzten Schadenshöhe ................................................................ 9
+Tabelle 3: Technische Daten TVT 711 112-3 ............................................................................ 21
+Tabelle 4: Befahrene Bahnübergänge ...................................................................................... 33
+
+III
+
+Untersuchungsbericht
+Fahrzeugbrand, 09.07.2020, Bf Hausach – Bf Haslach
+
+IV.
+
+Abkürzungsverzeichnis:
+AEG
+
+Allgemeines Eisenbahngesetz
+
+BEU
+
+Bundesstelle für Eisenbahnunfalluntersuchung
+
+Bf
+
+Bahnhof
+
+EBA
+
+Eisenbahn-Bundesamt
+
+EBO
+
+Eisenbahn-Bau- und Betriebsordnung
+
+EFR
+
+Elektronische Fahrtenregistrierung
+
+EIU
+
+Eisenbahninfrastrukturunternehmen
+
+Ep-Bremse
+
+Elektropneuma sche Bremse
+
+EU
+
+Europäische Union
+
+EUV
+
+Eisenbahn-Unfalluntersuchungsverordnung
+
+EVU
+
+Eisenbahnverkehrsunternehmen
+
+Fdl
+
+Fahrdienstleiter/Fahrdienstleiterin
+
+Fplo
+
+Fahrplananordnung
+
+FST
+
+Führerstand
+
+Gs
+
+Gleissperre
+
+GSM-R
+
+Global System for Mobile Communica ons Railway
+
+Hst
+
+Haltestelle
+
+Mg-Bremse
+
+Magnetschienenbremse
+
+NbZ
+
+Züge für Zwecke des Netzes
+
+NFLS
+
+No allleitstelle
+
+NSB
+
+Na onale Sicherheitsbehörde
+
+PZB
+
+Punk örmige Zugbeeinflussung
+
+Ril
+
+Richtlinie
+
+Tf
+
+Triebfahrzeugführer/Triebfahrzeugführerin
+
+TVT
+
+Turmverbrennungstriebwagen
+
+VzG
+
+Verzeichnis der örtlich zulässigen Geschwindigkeiten
+
+IV
+
+Untersuchungsbericht
+Fahrzeugbrand, 09.07.2020, Bf Hausach – Bf Haslach
+
+0 Vorbemerkung
+Auf der Grundlage des Ar kel 24 der Richtlinie (EU) 2016/798 hat die europäische Kommission
+mit der Inkra setzung der Durchführungsverordnung (EU) 2020/572 die Untersuchungsberichtsstruktur festgelegt. Diese Vorgaben sind grundsätzlich einzuhalten und müssen der Art
+und Schwere des gefährlichen Ereignisses angepasst sein.
+Mit Verkündung der Verordnung und Inkra setzung am zwanzigsten Tag nach der Veröﬀentlichung im Amtsbla der Europäischen Union (EU) ist diese verbindlich und unmi elbar auf
+alle ab dem 17.05.2020 eingeleiteten Untersuchungen anzuwenden.
+
+Seite 1 von 40
+
+Untersuchungsbericht
+Fahrzeugbrand, 09.07.2020, Bf Hausach – Bf Haslach
+
+1 Zusammenfassung
+Das erste Kapitel enthält eine Kurzbeschreibung des Ereignisses sowie Informa onen zu den
+Folgen, Primärursachen sowie zu im Einzelfall ausgesprochenen Sicherheitsempfehlungen.
+
+1.1 Kurzbeschreibung des Ereignisses
+Am 09.07.2020 kam der als NbZ 19964 verkehrende Turmverbrennungstriebwagen (TVT) gegen 11:04 Uhr wegen eines Fahrzeugbrandes im Streckengleis zwischen den Bahnhöfen Hausach und Haslach zum S llstand. Im weiteren Ereignisverlauf setzte sich das brennende Fahrzeug selbstständig in Bewegung und rollte führerlos ca. 22 km talwärts.
+
+1.2 Folgen
+Personen kamen bei dem Ereignis nicht zu Schaden. Das abrollende Fahrzeug wurde durch
+eine gezielte Entgleisung im Bahnhof (Bf) Gengenbach gestoppt. Am Fahrzeug entstand Totalschaden. Die Infrastruktur wurde im Entgleisungsbereich punktuell beschädigt. Das brennende Fahrzeug verursachte bis zur Entgleisung mehrere Böschungsbrände an der Strecke.
+
+1.3 Ursachen
+Aufgrund eines undichten Hydraulikmotors gerieten Bauteile im Unterflurbereich des TVT in
+Brand. Durch die Brandeinwirkungen wurden die Bremssysteme in ihrer Funk on erheblich
+beeinträch gt, so dass es nach dem Verlassen des TVT durch die Triebfahrzeugführer (Tf) zum
+unkontrollierten Abrollen des Fahrzeugs kam.
+
+1.4 Sicherheitsempfehlungen
+Gemäß § 6 Eisenbahn-Unfalluntersuchungsverordnung (EUV) und Art. 26 Abs. 2 der Richtlinie
+(EU) 2016/798 ergeht nachfolgende Sicherheitsempfehlung:
+Es wird empfohlen bei den Fahrzeugen der Baureihe 711.1 risikominimierende Maßnahmen
+gegen einen unkontrollierten Ablauf zu erarbeiten und in einem Ak onsplan umzusetzen.
+Hierbei sollten insbesondere Maßnahmen in den Bereichen Brandentstehung und -detek on
+sowie Op mierung der Bremsanlage in Erwägung gezogen werden.
+
+Seite 2 von 40
+
+Untersuchungsbericht
+Fahrzeugbrand, 09.07.2020, Bf Hausach – Bf Haslach
+
+2 Die Untersuchung und ihr Kontext
+Die Bundesstelle für Eisenbahnunfalluntersuchung (BEU) ist für die Untersuchung von gefährlichen Ereignissen im Eisenbahnbetrieb im Sinne des Kapitels V der Richtlinie (EU) 2016/798
+auf Eisenbahninfrastrukturen des Bundes und auf nicht bundeseigenen Eisenbahninfrastrukturen des übergeordneten Netzes gemäß § 2b Allgemeines Eisenbahngesetz (AEG) zuständig.
+Ziel und Zweck der eingeleiteten Untersuchungen ist es, die Ursachen des gefährlichen Ereignisses aufzuklären und hieraus Hinweise zur Verbesserung der Sicherheit abzuleiten. Untersuchungen der BEU dienen nicht dazu, ein Verschulden festzustellen oder Fragen der Ha ung
+oder sons ger zivilrechtlicher Ansprüche zu klären und werden unabhängig von jeder gerichtlichen Untersuchung durchgeführt.
+Sicherheitsempfehlungen der BEU zur Vermeidung von gefährlichen Ereignissen und Verbesserung der Eisenbahnsicherheit werden an die na onale Sicherheitsbehörde, sofern es die Art
+der Empfehlung erfordert an die Eisenbahnagentur der Europäischen Union und an andere
+Stellen oder Behörden adressiert. Im Allgemeinen sind die Sicherheitsempfehlungen auch an
+die betroﬀenen Eisenbahnunternehmen gerichtet.
+Zu schweren Unfällen leitet die BEU stets Untersuchungen gem. Ar kel 20 Abs. 1 Richtlinie
+(EU) 2016/798 ein. Unter einem schweren Unfall sind insbesondere Zugkollisionen oder Zugentgleisungen mit mindestens einem Todesopfer oder mindestens fünf Schwerverletzten oder mit beträchtlichem Schaden (≥ 2 Mio. Euro) sowie sons ge Unfälle mit den gleichen Folgen und mit oﬀensichtlichen Auswirkungen auf die Regelung der Eisenbahnsicherheit oder das
+Sicherheitsmanagementsystem zu verstehen. Bei allen sons gen gefährlichen Ereignissen im
+Eisenbahnbetrieb liegt es im Ermessen der BEU Untersuchungen einzuleiten. Bei der Entscheidung werden neben den zum Ereigniszeitpunkt verfügbaren Ressourcen weitere Kriterien
+gem. Ar kel 20 Abs. 2 Richtlinie (EU) 2016/798 herangezogen.
+Bei dem vorliegenden gefährlichen Ereignis wurden Untersuchungen auf Grundlage des Ar kels 20 Abs. 1 Richtlinie (EU) 2016/798 eingeleitet.
+Die Unfalluntersuchungshandlungen werden strukturiert in vier definierten Kernprozessen
+durchgeführt, die mit der Entscheidung zur Aufnahme einer Untersuchung beginnen und mit
+der Veröﬀentlichung des Untersuchungsberichtes abgeschlossen werden. Zur Ursachenermi lung werden ergebnisoﬀene Untersuchungen im Ausschlussverfahren in allen beteiligten
+
+Seite 3 von 40
+
+Untersuchungsbericht
+Fahrzeugbrand, 09.07.2020, Bf Hausach – Bf Haslach
+
+Fachdisziplinen angestellt und hierbei insbesondere Fehler-Ursachen-Analysen und Soll-IstVergleiche durchgeführt.
+Vom örtlich zuständigen Untersuchungsbezirk Südwest wurden die Untersuchungshandlungen federführend geleitet.
+Sofern im Einzelfall geboten, werden die jeweiligen Untersuchungsteams bezirksübergreifend
+unterstützt und notwendige Sachverständigenleistungen extern beau ragt.
+Neben den beteiligten Unternehmen wirkten an der Untersuchung folgende weitere Stellen
+mit:
+
+
+Eisenbahn-Bundesamt (EBA) als nationale Sicherheitsbehörde (NSB)
+
+
+
+TÜV Süd Rail GmbH, Brandgutachter
+
+
+
+Bundespolizei Offenburg, Ermittlungsdienst
+
+Die Durchführung der Unfalluntersuchung setzt voraus, dass alle an dem gefährlichen Ereignis
+Beteiligten den jeweiligen Meldeverpflichtungen gem. § 2 Abs. 3 EUV nachkommen und gefährliche Ereignisse ordnungsgemäß melden sowie die Informa onen auf dem neuesten Stand
+halten. Auf Grundlage des § 5a AEG werden i. d. R. weitergehende zur Untersuchungsdurchführung erforderliche Informa onen, Auskün e und Nachweise abgefordert. Diese notwendigen Zuarbeiten konnten mi els Auskun sersuchen gewonnen werden.
+Darüber hinaus können nach § 5b Abs. 4 AEG von den an gefährlichen Ereignissen beteiligten
+Eisenbahnen Unterstützungsleistungen eingefordert werden. Bei dem vorliegenden gefährlichen Ereignis wurden folgende Unterstützungsleistungen eingefordert und durchgesetzt:
+
+
+Bereitstellung von Werkstattkapazität durch DB Netz AG Maschinenpool zur eingehenden Untersuchung des betroffenen Fahrzeugs
+
+Die infrastruktursei ge Freigabe der Unfallstelle erfolgte durch die BEU am 09.07.2020.
+
+Seite 4 von 40
+
+Untersuchungsbericht
+Fahrzeugbrand, 09.07.2020, Bf Hausach – Bf Haslach
+
+3 Beschreibung des Ereignisses
+Im dri en Kapitel wird das gefährliche Ereignis in zwei vorgegebenen Unterkapiteln näher beschrieben. In Kapitel 3.1 sind neben den Grunddaten weitere Informa onen zum Ereignisort,
+den äußeren Bedingungen, den Folgen und den Beteiligten enthalten. Die Ereignisrekonstrukon sowie Informa onen zur Auslösung und dem Ablauf der Re ungsmaßnahmen sind im
+Kapitel 3.2 dargestellt. Die Beschreibungen beziehen sich grundsätzlich auf die zum Ereigniszeitpunkt vorherrschenden Bedingungen und vorgefundenen Sachverhalte.
+
+3.1 Informationen über das Ereignis und seine Hintergründe
+Bei dem Ereignis handelt es sich um einen Fahrzeugbrand im Sinne der Richtlinie
+(EU) 2016/798.
+Die BEU führt das Ereignis na onal unter der Ereignisart Fahrzeugbrand.
+3.1.1 Lage und Beschreibung des Ereignisortes
+Bei der Strecke von Oﬀenburg über Villingen (Schwarzw) nach Singen (Hohentwiel) handelt es
+sich um eine zweigleisige elektrifizierte Hauptbahn, die als Schwarzwaldbahn bezeichnet wird.
+Die Strecke wird im Verzeichnis der örtlich zulässigen Geschwindigkeiten (VzG) unter der Streckennummer 4250 geführt. Die zulässige Streckenhöchstgeschwindigkeit beträgt 140 km/h
+bei einem Bremswegabstand vom 1.000 m. Die Strecke ist durchgehend mit Punk örmiger
+Zugbeeinflussung (PZB) und digitalem Zugfunk GSM-R ausgesta et. Bedingt durch die starken
+Höhenunterschiede zwischen Rheintal, Schwarzwald und Bodenseeregion bestehen auf der
+Strecke starke Steigungs- und Gefälleabschni e mit bis zu 25 ‰ sowie zahlreiche Tunnel.
+Der Brand des TVT wurde bei einer Zwangsbremsung nach dem Bf Hausach ca. in km 30,5
+festgestellt. Dieser Bereich liegt in einem Gefälle von -5,2 ‰. Die Abrollbewegung verlief im
+weiteren Streckenverlauf durch den Bf Haslach, die Haltestelle (Hst) Steinach, den Bf Biberach
+(Baden) bis ca. km 8,75 im Bf Gengenbach. Dieser Streckenabschni folgt ab Hausach mit einem wechselnden Gefälle zwischen -5 ‰ und -2 ‰ dem Kinzigtal. Die zulässige Streckenhöchstgeschwindigkeit lag in diesem Abschni zwischen 80 km/h und 130 km/h.
+Die nachfolgenden Abbildungen zeigen die geografische Lage der Ereignisstelle sowie ein vereinfachtes Höhenprofil des Streckenabschni s Villingen – Oﬀenburg. Die Gleislageskizze verdeutlicht die Entgleisungsstelle im Bf Gengenbach.
+
+Seite 5 von 40
+
+Untersuchungsbericht
+Fahrzeugbrand, 09.07.2020, Bf Hausach – Bf Haslach
+
+Abbildung 1: Lageplan1
+
+1
+
+Quelle: Geobasisdaten: © GeoBasis-DE / BKG [2020], bearbeitet durch BEU
+
+Seite 6 von 40
+
+Untersuchungsbericht
+Fahrzeugbrand, 09.07.2020, Bf Hausach – Bf Haslach
+
+Abbildung 2: Höhenprofil
+
+Abbildung 3: Gleislageskizze Bf Gengenbach2
+
+2
+
+Quelle: DB Netz AG, bearbeitet durch BEU
+
+Seite 7 von 40
+
+Untersuchungsbericht
+Fahrzeugbrand, 09.07.2020, Bf Hausach – Bf Haslach
+
+Abbildung 4: Brennender TVT nach Entgleisung in Gengenbach3
+
+3.1.2 Beteiligte
+Am Ereignis waren folgende Unternehmen beteiligt:
+
+
+DB Netz AG, Eisenbahnverkehrsunternehmen (EVU)
+
+
+
+DB Netz AG Maschinenpool, Fahrzeughalter
+
+
+
+DB Netz AG, Eisenbahninfrastrukturunternehmen (EIU)
+
+Die DB Netz AG verfügte über eine Sicherheitsbescheinigung als nichtöﬀentliches EVU gemäß
+§ 7a AEG des EBA und über eine Sicherheitsgenehmigung gemäß § 7c AEG als EIU jeweils mit
+einer Gül gkeit bis zum 19.10.2021. Die DB Netz AG war das für die Zugfahrt NbZ 19964 verantwortliche EVU.
+
+3
+
+Quelle: Bundespolizei
+
+Seite 8 von 40
+
+Untersuchungsbericht
+Fahrzeugbrand, 09.07.2020, Bf Hausach – Bf Haslach
+
+3.1.3 Äußere Bedingungen
+Zum Zeitpunkt des Ereignisses herrschten folgende Bedingungen:
+Lichtverhältnisse
+
+Tageslicht
+
+Sicht
+
+klar
+
+Bedeckung
+
+sonnig
+
+Temperaturen
+
+25°C – 32°C
+
+fallender Niederschlag
+
+Nein
+
+Niederschlagshäufigkeit
+
+--
+
+Untergrund / gefallener Niederschlag
+
+trocken
+
+Tabelle 1: Übersicht der äußeren Bedingungen
+
+Die trockene und heiße We erlage begüns gte das Entstehen von Böschungsbränden als
+Folge des Fahrzeugbrandes.
+3.1.4 Todesopfer, Verletzte und Sachschäden
+Bei dem Ereignis traten keine Personenschäden ein.
+Die geschätzte Höhe der Sachschäden in Euro setzt sich wie folgt zusammen:
+geschätzte Kosten in Euro
+Fahrzeuge
+
+2.500.000
+
+Infrastruktur
+
+12.000
+
+Dri e
+Gesamtschadenshöhe
+
+2.512.000
+
+Tabelle 2: Übersicht der geschätzten Schadenshöhe
+
+Am TVT entstand Totalschaden. Die nachfolgenden Abbildungen geben einen Überblick über
+die Brandauswirkungen am und im Fahrzeug.
+
+Seite 9 von 40
+
+Untersuchungsbericht
+Fahrzeugbrand, 09.07.2020, Bf Hausach – Bf Haslach
+
+Abbildung 5: Ausgebrannter TVT nach den Löscharbeiten4
+
+Abbildung 6: Brandeinwirkung im Werksta raum TVT
+
+4
+
+Quelle: DB Netz AG
+
+Seite 10 von 40
+
+Untersuchungsbericht
+Fahrzeugbrand, 09.07.2020, Bf Hausach – Bf Haslach
+
+3.2 Sachliche Beschreibung der Vorkommnisse
+Zur Rekonstruk on des gefährlichen Ereignisses sowie zur Beschreibung der No allmaßnahmen werden insbesondere auch die in Kapitel 4 enthaltenen Aufzeichnungen, Auswertungen
+und Feststellungen etc. herangezogen.
+3.2.1 Hergangsbeschreibung
+Am 09.07.2020 sollte der TVT 711 112-3 als NbZ 19964 gemäß besonderer Fahrplananordnung
+(Fplo) von Villingen (Schwarzw) über Oﬀenburg nach Freiburg (Breisgau) fahren. Der TVT war
+mit einem Tf und einem Triebfahrzeugbegleiter besetzt. Die Zugfahrt diente der Erlangung von
+Streckenkunde und Fahrzeugkenntnissen für den Triebfahrzeugbegleiter.
+Der Nbz fuhr um 10:21 Uhr mit 103 Minuten vor der fahrplanmäßigen Zeit in Villingen ab. Die
+Fahrt verlief zunächst ohne Auﬀälligkeiten. Nachdem der Zug den Scheiteltunnel passiert
+ha e, befuhr er die anschließende lange Gefällestrecke vom Sommerautunnel bis nach Hausach mit wechselnden Geschwindigkeiten zwischen 57 km/h und 75 km/h. Die zulässige
+Höchstgeschwindigkeit von 70 km/h wurde dabei mehrfach punktuell überschri en.
+Um 11:02 Uhr durchfuhr der Zug den Bf Hausach ohne Halt und beschleunigte nach dem dorgen Geschwindigkeitswechsel in km 32,7 auf ca. 125 km/h. Um 11:04:26 Uhr erhielt der Zug
+bei einer registrierten Geschwindigkeit von 123 km/h ohne eine für das Personal erkennbare
+Ursache eine Zwangsbremsung. Noch in der Bremsphase fiel die Lei echnik des Führerstands
+(FST) 2 aus. Der TVT kam nach ca. 410 m gegen 11:04:45 Uhr ca. bei km 30,5 zum S llstand.
+Nach Angabe des Tf erkannte dieser durch das Seitenfenster eine starke Rauchentwicklung
+und verließ zusammen mit dem Triebfahrzeugbegleiter das Fahrzeug zur weiteren Erkundung
+der Ursache. Zuvor sicherte er das durch die wirkende Zwangsbremsung angebremste Fahrzeug durch Bedienen des Tasters der Federspeicherbremse. Der Tf stellte eine Rauchentwicklung und einen Brand mi g im Unterflurbereich des TVT mit Ausdehnung auf den hinteren
+FST 1 fest. Der Tf des entgegenkommenden Reisezugs SWE 87369 erkannte das im Nachbargleis stehende und rauchende Fahrzeug und blieb in ausreichendem Abstand vor dem TVT stehen. Nachdem er sich über den Sachverhalt kundig gemacht ha e, verständigte er über Zugfunk den zuständigen Fahrdienstleiter (Fdl) Hausach. Während sich der Tf des TVT und der
+Triebfahrzeugbegleiter noch außerhalb des Fahrzeugs befanden, setzte sich dieses unbeabsich gt selbstständig in Bewegung. Der Tf begab sich darau in wieder auf den vorderen FST
+und versuchte das Fahrzeug durch Betä gung von Brems- und Notbremseinrichtungen zum
+
+Seite 11 von 40
+
+Untersuchungsbericht
+Fahrzeugbrand, 09.07.2020, Bf Hausach – Bf Haslach
+
+Stehen zu bringen. Nachdem dies nicht gelang, sprang er bei niedriger Geschwindigkeit wieder
+ab. Weitere Anhalteversuche von außen durch Auflegen von Steinen misslangen.
+Nachdem der Fdl Hausach über die NFLS Kenntnis über den führerlos abrollenden TVT erlangt
+ha e, sicherte er den Fahrweg im nachfolgenden Bf Haslach über das Überholgleis 503. Er
+stellte bewusst die Hauptsignale nicht auf Fahrt um eine 2.000 Hz-Zwangsbremsung zu erzwingen. Die Zugbeeinflussungseinrichtung des TVT reagierte jedoch nicht auf den Gleismagneten
+des Hauptsignals, so dass die Maßnahme erfolglos blieb. Zudem wurden die im Bf Haslach
+anwesenden Mitarbeiter LST verständigt. Diese ha en jedoch keine Möglichkeit, dort das
+Fahrzeug zu stoppen. Der TVT rollte von 11:25 Uhr bis 11:27 Uhr mit geringer Geschwindigkeit
+durch den Bf Haslach.
+Um 11:32 Uhr durchfuhr der Zug mit zwischenzeitlich starker Rauchentwicklung und sichtbaren Flammen die Haltestelle (Hst) Steinach. Dort eingetroﬀene Mitarbeiter LST versuchten
+mi els Hemmschuhen aus dem Anschlussgleis den TVT zu stoppen. Dies misslang. Darau in
+wurde der örtliche Fdl in Biberach verständigt. Er sollte ebenfalls versuchen, den anrollenden
+TVT mi els Hemmschuhen aufzuhalten. Um 11:39 Uhr rollte der TVT in den nachfolgenden Bf
+Biberach. Die aufgelegten Hemmschuhe wurden auch hier abgeworfen. Um 11:44 Uhr erhielt
+der Fdl Gengenbach vom Arbeitsgebietsleiter Betrieb des Regionalnetzes Südbaden der
+DB Netz AG den Au rag, den TVT auf das Nebengleis 807 zu leiten und mi els der Gleissperre
+(Gs) eine zielgerichtete Entgleisung des TVT vorzunehmen. Um 11:52 Uhr rollte der TVT in den
+Bf Gengenbach ein. Um 11:58 Uhr teilte der Fdl der NFLS mit, dass der TVT mit allen vier Achsen im Bf Gengenbach an der Gs 808 entgleist sei.
+3.2.2 Notfallmanagement
+Nach § 4 Abs. 3 AEG haben die Eisenbahnen die Verpflichtung, an Maßnahmen des Brandschutzes und der technischen Hilfeleistung mitzuwirken. In einer Vereinbarung zwischen den
+Innenministerien der Länder und der DB AG hat man sich auf eine Verfahrensweise verständigt. Für die DB Netz AG gelten die entsprechenden Brand- und Katastrophenschutzgesetze
+der Länder. Das No allmanagement der DB AG ist in der Konzernrichtlinie 123, das der DB
+Netz AG in der Richtlinie (Ril) 423 näher beschrieben und geregelt.
+Unregelmäßigkeiten oder Verzögerungen in Bezug auf das Einleiten von Re ungsmaßnahmen
+wurden der BEU im Rahmen der Unfalluntersuchung nicht bekannt. Personen waren nicht zu
+
+Seite 12 von 40
+
+Untersuchungsbericht
+Fahrzeugbrand, 09.07.2020, Bf Hausach – Bf Haslach
+
+re en. Um 11:06 Uhr erhielt der Fdl Hausach vom Tf 87369 Kenntnis von dem Ereignis. Zeitgleich wurde die NFLS von der Re ungsleitstelle über den per Mobiltelefon abgesetzten Notruf des Tf informiert. Eine Kontaktaufnahme mit dem NbZ 19964 misslang. Um 11:14 Uhr
+wurde von der NFLS der No allmanager, die Feuerwehr und die Bundespolizei verständigt.
+Während des unbeabsich gten Abrollens des TVT wurden sukzessive die entsprechenden
+Gleise gesperrt, Züge zurückgehalten und die Oberleitungen abgeschaltet. Die örtlichen Feuerwehren löschten die entlang der Strecke entstandenen Böschungsbrände. Die Bundespolizei
+sicherte zusätzlich die ordnungsgemäß wirkenden Bahnübergänge.
+
+Seite 13 von 40
+
+Untersuchungsbericht
+Fahrzeugbrand, 09.07.2020, Bf Hausach – Bf Haslach
+
+4 Auswertung des Ereignisses
+In diesem Kapitel werden insbesondere, die im Rahmen der Unfalluntersuchung ermi elten
+maßgeblichen sicherheitskri schen Faktoren in bis zu vier zugehörigen Unterkapitel dargestellt. Hierbei wird im jeweiligen Einzelfall auf die Aufgaben und Pflichten einzelner Personen
+und Stellen, auf beteiligte Fahrzeuge und technische Einrichtungen genauso eingegangen wie
+auf konkrete menschliche Handlungen sowie auf Feedback- und Kontrollmechanismen. Sofern
+Informa onen zu früheren Ereignissen vorliegen, werden diese in einem weiteren Unterkapitel dargestellt.
+
+4.1 Aufgaben und Pflichten
+In diesem Kapitel werden unbeschadet des Ar kels 20 Abs. 4 der Richtlinie (EU) 2016/798 die
+Aufgaben und Pflichten von Personen und Stellen behandelt, die an dem Ereignis beteiligt waren. Untersuchungen zu Schuld- oder Ha ungsfragen sind explizit ausgeschlossen und nicht
+Untersuchungsgegenstand.
+4.1.1 Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers
+Der brennende TVT durchfuhr die Zuständigkeitsbereiche mehrerer Fdl. Der Bf Hausach war
+örtlich besetzt und wurde von einem Stellwerk der Bauart SpDrS 60 gesteuert. Der Bf Haslach
+sowie die Hst Steinach (Baden) wurden vom Stellwerk Hausach aus ferngesteuert. Der Bf Biberach (Baden) war örtlich besetzt und mit einem Stellwerk der Bauart DrS 2 ausgerüstet. Der
+Arbeitsplatz des Fdl Gengenbach befand sich im Empfangsgebäude des Bf, der ebenfalls von
+einem Stellwerk der Bauform DrS 2 gesteuert wurde.
+Im Zugnummerndrucker des Fdl Hausach war die Durchfahrt des NbZ 19964 um 11:02 Uhr im
+durchgehenden Gleis 2 registriert und mit der gleichen Uhrzeit die Ausfahrt auf die Strecke
+Richtung Haslach. Weitere Registrierungen zu dieser Zugfahrt waren im Stellbereich des Fdl
+Hausach nicht vorhanden. Nach Angaben des Fdl Hausach ha e dieser die Signale in Haslach
+nicht auf Fahrt gestellt. Bei fehlender Fahrtstellung von Signalen wird die Zugnummer nicht
+automa sch weitergeschaltet. Durch diese fehlende Weiterschaltung wird kein Zugnummerndruck erzeugt. Auch die Zugnummerndrucker bei den Fdl Biberach und Gengenbach enthielten keine Dokumenta on des abrollenden TVT. Ursache war auch hier die jeweils fehlende
+Fahrtstellung der Signale.
+
+Seite 14 von 40
+
+Untersuchungsbericht
+Fahrzeugbrand, 09.07.2020, Bf Hausach – Bf Haslach
+
+Der Gegenzug SWE 87369 war um 11:04 Uhr aus dem Bf Haslach in Richtung Hausach ausgefahren. Der Fdl Hausach wurde um 11:06 Uhr vom Tf dieses Zuges über Zugfunk darüber informiert, dass ein brennender TVT im Streckengleis ca. bei km 30,4 stünde. Der Fdl Hausach
+leitete aufgrund dieser Meldung entsprechend Ril 408.0553 Maßnahmen bei Gefahr ein,
+sperrte das Streckengleis, verständigte die NFLS und versuchte den Tf des NbZ zu erreichen.
+Der NbZ 19964 war über GSM-R nicht erreichbar.
+Die ab 11:10 Uhr bis 12:09 Uhr schri weise durchgeführten Gleissperrungen und Abschaltungen der Oberleitung zur Durchführung von Löscharbeiten durch die Feuerwehr waren in allen
+Zugmeldebüchern der Fdl Hausach, Biberach und Gengenbach dokumen ert. Mit 11:50 Uhr
+war im Fernsprechbuch des Fdl Biberach vermerkt, dass Hemmschuhe ausgelegt wurden, die
+keine Wirkung gezeigt hä en.
+Während der Zeit des Abrollens wurden weitere zahlreiche Gespräche der beteiligten Betriebspersonale über GSM-R geführt. Die Gespräche wurden aufgezeichnet. Anhand der Zeitstempel sowie der Gesprächsinhalte war der Lauf des abrollenden TVT zeitlich näherungsweise nachvollziehbar.
+Die betrieblichen Abläufe des Infrastrukturbetreibers waren schlüssig und dem Ereignis entsprechend nachvollziehbar. Mängel bzw. Versäumnisse konnten nicht festgestellt werden.
+4.1.2 Untersuchung der betrieblichen Abläufe des EVU
+Der TVT verkehrte am 09.07.2020 zunächst als Sonderfahrt von Freiburg (Breisgau) nach Villingen (Schwarzw) und dann gemäß Fplo 0709-19964-SW-00 als NbZ 19964 zurück von Villingen (Schwarzw) nach Freiburg (Breisgau) Hbf. Zweck der Fahrten waren Einweisungs- und
+Streckenkundefahrten für einen in Ausbildung befindlichen Mitarbeiter der DB Netz AG. Weitere Arbeits- oder Begleitpersonale waren nicht im Zug. Alle Fahrplanunterlagen lagen vor. Die
+erforderlichen 191 Mindestbremshundertstel wurden erreicht. Alle weiteren Handlungen des
+Tf ergeben sich im Sachzusammenhang mit der nachfolgenden Auswertung der EFR und den
+betrieblichen Regelungen.
+Auswertung Elektronische Fahrtenregistrierung (EFR)
+Zur Untersuchung der Abläufe des EVU wurden die registrierten Fahrdaten der EFR des TVT
+ausgewertet. Im Fahrzeug war ein Datenspeicher der Bauart Deuta DSK 10 verbaut. Aufgrund
+der Brandeinwirkungen war ein unmi elbares Auslesen im Fahrzeug nicht mehr möglich. Die
+
+Seite 15 von 40
+
+Untersuchungsbericht
+Fahrzeugbrand, 09.07.2020, Bf Hausach – Bf Haslach
+
+Datenspeicherkasse e wurde ausgebaut. Trotz leichter Beschädigungen war das Speichermedium intakt und die vorhandenen Daten auslesbar.
+Die intern registrierten En ernungsangaben wurden auf die Streckenkilometer normiert. Das
+Fahrzeuggerät war eingeschaltet, der FST 2 ak v. Es waren die Tf-Nummer und die Zugnummer eingegeben. Das Fahrzeug verkehrte in der oberen Zugart. Die registrierten Uhrzeiten
+entsprachen näherungsweise den dokumen erten Zeiten des Zugnummerndruckers beim Fdl
+Hausach.
+Die Abfahrt in Villingen erfolgte um 10:21:41 Uhr. Vor dem Sommerautunnel reduzierte der
+Zug die Geschwindigkeit auf zunächst ca. 60 km/h. Die nachfolgende lange Gefällestrecke
+durchfuhr der Zug mit regelmäßig wechselnden registrierten Geschwindigkeiten zwischen
+mindestens 57 km/h und maximal 75 km/h. Die zulässige Höchstgeschwindigkeit von 70 km/h
+wurde dabei mehrfach punktuell leicht überschri en.
+
+Abbildung 7: Grafische Darstellung Fahrtverlauf bis Hausach
+
+Der Bf Hausach wurde mit ca. 83 km/h (zulässig 90 km/h) durchfahren. Ab dem Geschwindigkeitswechsel in km 32,7 von 90 km/h auf 130 km/h wurde der Zug von 79 km/h bis auf maximal 125 km/h beschleunigt. Um 11:04:26 Uhr war bei einer registrierten Geschwindigkeit von
+123 km/h die Spur „FST 2“ nicht mehr gezeichnet. Das Signal zeigte an, dass der FST deak viert
+wurde. Aufgrund des deak vierten FST löste die PZB systembedingt eine Zwangsbremsung mit
+
+Seite 16 von 40
+
+Untersuchungsbericht
+Fahrzeugbrand, 09.07.2020, Bf Hausach – Bf Haslach
+
+Druckabsenkung in der Hauptlu leitung aus. Die Spur „Z“ war im Folgenden gezeichnet und
+die Spur „L“ endete. Die anschließende Datenaufzeichnung der Bremskurve endete unvermittelt nach 17 Sekunden und 390 Metern um 11:04:43 Uhr bei zuletzt registrierten 55 km/h.
+Zeitgleich erfolgte eine Registrierung „Wendezugbetrieb“. Die nachfolgenden Abbildungen
+zeigen die Zeit-Weg-Linie der Zwangsbremsung sowie die dabei registrierten Daten.
+
+Abbildung 8: Zeit-Weg-Linie Zwangsbremsung
+
+Seite 17 von 40
+
+Untersuchungsbericht
+Fahrzeugbrand, 09.07.2020, Bf Hausach – Bf Haslach
+
+Abbildung 9: Auszug EFR-Registrierungen bei Zwangsbremsung
+
+Nach Angaben der Herstellerfirma der DSK deutete der spontane Abbruch der Aufzeichnung
+ohne abschließenden „Default-Datensatz“ darauf hin, dass die DSK ab diesem Zeitpunkt keine
+Spannungsversorgung mehr ha e.
+Die Ursachen für die ungewöhnliche Registrierung „Wendezugbetrieb“ sowie die Deak vierung des FST 2 waren aus den gespeicherten Daten nicht erkennbar. Bedienhandlungen zur
+Deak vierung des FST und Einschalten von Wendezugbetrieb erfolgen üblicher Weise im S llstand und nicht während der Fahrt.
+Aus der interpolierten Bremskurve lässt sich für die Zwangsbremsung näherungsweise eine
+mi lere Bremsverzögerung von ca. 1,13 m/s2 ermi eln. Dieser für Schienenfahrzeuge hohe
+Wert entsprach einer starken Bremsung unter Einbeziehung der Magnetschienenbremse (MgBremse) ohne mitzubremsende Lasten. Dies lässt den Schluss zu, dass die Bremsanlage des
+TVT zum Zeitpunkt der Zwangsbremsung funk onsfähig war.
+Betriebliche Regelungen EVU
+Gemäß Ril 915.0105 Abschn. 3 Abs. 3 hat der Tf Zwangsbremsungen durch eine Schnellbremsung zu unterstützen. Die in Abbildung 11 fotografierten Bedieneinrichtungen auf dem FST 2
+
+Seite 18 von 40
+
+Untersuchungsbericht
+Fahrzeugbrand, 09.07.2020, Bf Hausach – Bf Haslach
+
+bestä gen die unterstützenden Handlungen des Tf. Der Fahr- und Bremshebel im FST 2 war
+nach dem Ereignis in Schnellbremsstellung, der Kippschalter für die Mg-Bremse/Retarder in
+Stellung „ein“ und der Kipptastschalter Sanden eingerastet.
+Gemäß Ril 408.2651 Abschn. 3 hat der Tf bei einer PZB-Zwangsbremsung den Fdl zu verständigen und mit diesem gemeinsam festzustellen, wo die Zwangsbremsung aufgetreten ist. Bedingt durch den Ausfall der elektrischen Versorgung des FST 2 war auch das GSM-R-Gerät nicht
+mehr funk onsfähig, so dass eine Verständigung mit dem Fdl nicht mehr möglich war. Entsprechend waren dem Tf ein Notruf und Anforderung von Hilfe über GSM-R nicht mehr möglich. Der Notruf wurde vom Tf entsprechend Ril 408.2581 Abschn. 3 Abs. 3 über eine andere
+Fernsprechverbindung, hier ein Mobiltelefon, gegenüber der Re ungsleitstelle abgegeben.
+Gemäß Ril 408.2553 Abschn. 1 hat der Tf bei Unregelmäßigkeiten das Fahrzeug nach dem Anhalten zu untersuchen. Das Verlassen des Fahrzeugs zur Lokalisierung der Rauchentwicklung
+war daher vorschri enkonform und zielführend.
+Gemäß Ril 915.0101 Abschn. 9 Abs. 2 gilt grundsätzlich, dass beim Verlassen des Triebfahrzeugs eine Vollbremsung auszuführen ist und zusätzlich die Feststellbremse – hier die Federspeicherbremse - des Triebfahrzeugs anzulegen ist. Durch die zuvor erfolgte Zwangsbremsung
+war das Fahrzeug bereits festgebremst. Die Federspeicherbremse wird im TVT mi els Taster
+elektronisch angesteuert. Der Taster fällt nach Bedienung in die Mi elstellung zurück, d. h.
+nach dem Ereignis konnte die Bedienung an der Stellung des Tasters nicht zwingend nachvollzogen werden. Bedingt durch den Ausfall der Stromversorgung im FST 2 wäre die Bedienung
+des Tasters jedoch wirkungslos gewesen (s. Kap. 4.2.1).
+
+4.2 Fahrzeuge und technische Einrichtungen
+In diesem Kapitel sind die Erkenntnisse aus der Untersuchung beteiligter Fahrzeuge, der Eisenbahninfrastruktur und weiterer technischer Einrichtungen einschließlich damit eventuell
+verbundener Tä gkeiten und Entscheidungen dargestellt.
+4.2.1 Untersuchung von Fahrzeugen
+Aufgrund der Feststellungen am Ereignisort lag der Fokus der Untersuchungen auf den Themen Brandentstehung und -ausbreitung sowie auf der Frage nach den Gründen des unkontrollierten Abrollens des Fahrzeugs.
+
+Seite 19 von 40
+
+Untersuchungsbericht
+Fahrzeugbrand, 09.07.2020, Bf Hausach – Bf Haslach
+
+Fahrzeugbeschreibung
+Das verunfallte Fahrzeug war ein vierachsiges dieselgetriebenes Instandhaltungsfahrzeug für
+Oberleitungsanlagen der Baureihe 711.1, die umgangssprachlich auch als TVT bezeichnet werden. Gemäß Anschri entafel handelte es sich um ein schweres Nebenfahrzeug in Regelbauart
+mit der Fahrzeugnummer 711 112-3. Für die Montagearbeiten verfügte das Fahrzeug über
+eine frei schwenkbare Hubarbeitsbühne sowie über eine Hubbühne. Zur Prüfung und Erdung
+der Fahrleitung war ein Messstromabnehmer vorhanden. Für den Streckenfahrbetrieb verfügte das Fahrzeug über zwei im Unterflurbereich angeordnete Dieselmotoren mit hydrodynamischem Getriebe. Für den Arbeitsbetrieb war ein separater Dieselmotor als Antrieb für die
+Hydraulikpumpen installiert. Damit wurden u. a. die Hubarbeitsbühnen sowie der hydraulische Arbeitsfahrantrieb versorgt. Die nachfolgende Skizze zeigt den prinzipiellen Au au des
+Fahrzeugs mit den verschiedenen Komponenten.
+
+Abbildung 10: Fahrzeugau au5
+
+5
+
+Quelle: DB Netz AG, bearbeitet durch BEU
+
+Seite 20 von 40
+
+Untersuchungsbericht
+Fahrzeugbrand, 09.07.2020, Bf Hausach – Bf Haslach
+
+Die nachfolgende Tabelle gibt die relevanten Fahrzeugdaten wieder:
+Halter und ECM
+
+DB Netz AG Maschinenpool
+
+Hersteller
+
+GBM Gleisbaumechanik
+Brandenburg/Havel GmbH
+
+Baujahr
+
+2003
+
+Zulässige Gesamtmasse
+
+84,0 t
+
+Gesamtlänge (LüP)
+
+24.640 mm
+
+Höchstgeschwindigkeit
+
+160 km/h
+
+Radsatzfolge
+
+B´B´
+
+Fahrmotoren
+
+2x 4-Takt-Diesel je 588 kW
+
+Arbeitsmotor
+
+4-Takt-Diesel 130 kW
+
+Energieversorgung
+
+Diesel-Bordstromaggregat 20,8 kW
+
+Bremsbauart
+
+KB C-KE-PR-H-Mg mZ (D)
+
+Vorhandene Bremshundertstel
+
+200 (R+Mg)
+
+Besatzung
+
+max. 11 Personen (incl. Tf)
+
+Fahrzeugbestand
+
+22
+
+Tabelle 3: Technische Daten TVT 711 112-3
+
+Das Fahrzeug war steilstreckenfähig. Wegen des häufigen Einsatzes auf stark geneigten Strecken im Schwarzwald verfügte dieses Fahrzeug im Gegensatz zu den übrigen Fahrzeugen dieser Bauserie über eine angepasste Bremsausrüstung, die u. a. Sinterbremsbeläge und Stahlgussbremsscheiben vorsah. Das Fahrzeug war mit vier Radvorlegern zur Sicherung bei Ausfall
+von Bremskomponenten bestückt. Die Radvorleger befanden sich im Werksta raum.
+Das Fahrzeug verfügte über eine gül ge Abnahme nach § 32 Abs. 1 Eisenbahn-Bau- und Betriebsordnung (EBO) zuletzt mit Umbaubescheid des EBA vom 11.06.2010 Aktenzeichen
+3212 tl 02F02A. Lt. Anschri enfeld wurde das Fahrzeug zuletzt am 30.11.2018 einer Untersuchung nach § 32 Abs. 2 EBO unterzogen. Die Betriebsfreigabe wurde nachgewiesen. Darüber
+hinaus war das Fahrzeug wiederholt zur Durchführung von Wartungsarbeiten und Besei gung
+von Störungen in der Werksta Karlsruhe der DB Netz AG Maschinenpool. Die Arbeiten waren
+nachgewiesen und zeigten keine Auﬀälligkeiten, die im Zusammenhang mit dem Ereignis gestanden haben könnten.
+
+Seite 21 von 40
+
+Untersuchungsbericht
+Fahrzeugbrand, 09.07.2020, Bf Hausach – Bf Haslach
+
+Funk onalität Bremsanlage
+Das Fahrzeug besaß eine durchgehende indirekt und selbs ä g wirkende Drucklu scheibenbremse der Bauart KE, zwei hydrodynamische Bremsen (Retarder), eine direkt wirkende
+Drucklu bremse als Zusatzbremse, eine direkt wirkende elektropneuma sche Bremse (epBremse), eine Mg-Bremse sowie eine Federspeicherbremse als Feststellbremse.
+Die Bremsausrüstung wurde durch ein Bremssteuergerät computergesteuert, das im Steuerschrank im FST 1 untergebracht war. Dort befand sich auch der PZB-Rechner. Die wich gsten
+pneuma schen Bauteile der Bremsausrüstung waren im Bremsgeräteschrank im Werksta raum hinter dem FST 1 untergebracht.
+Die hydrodynamische Bremse (Retarder) stellt als verschleißlose Bremse das bevorzugte System dar, welches bei Betriebsbremsungen genutzt wird. Die direkte ep-Bremse sowie die indirekte Drucklu bremse werden vom Bremssteuergerät entsprechend der Bremskra anforderung vom Fahr- und Bremshebel fallweise zugeschaltet, wenn die Retarderbremskra nicht
+ausreicht. Die Mg-Bremse wirkt nur bis 43 km/h. Im Gefahrfall zum Erreichen möglichst kurzer
+Anhaltewege auf einer Steilstrecke ist der Schalter „Mg-Bremse/Retarder“ einzulegen. Die
+Mg-Bremse wirkt dann bis zum Fahrzeugs llstand.
+Die Feststellbremse sollte ein unbeabsich gtes Wegrollen des abgestellten Fahrzeugs verhindern. Sie war so dimensioniert, dass das beladene Fahrzeug in Neigungen bis 40 ‰ sicher gegen Wegrollen gesichert werden konnte. Betä gt wurde sie durch den Taster „Federspeicher“
+auf dem Führerpult. Eine Federspeicherbremse funk oniert nach dem umgekehrten Wirkprinzip der Drucklu bremse und muss ak v mit Druck beaufschlagt werden, um die Bremsen zu
+lösen. Im drucklosen Zustand ist die Federspeicherbremse angelegt und agiert daher als „Failsafe“ Bremse. Das Funk onskonzept der Federspeicherbremse bei dieser Fahrzeugbauart war
+auf Grund des speziellen Fahrzeug- und Arbeitskonzepts auf eine rein elektrische Betä gung
+der Federspeicherbremse mi els eines Magnetven ls (Impulsven l) ausgerichtet. Diese Art
+der Betä gung ha e im Normalbetrieb den Vorteil, dass die Federspeicherbremse als Feststellbremse von jedem Arbeitsplatz, d. h. auch von den Hubarbeitsbühnen aus, betä gt werden konnte. Der Zustand „Federspeicher angelegt“ wird auf dem Führerpult durch das Leuchten des roten Leuchtmelders „P“ (Federspeicherbremse) angezeigt.
+Die elektrische Ansteuerung des Magnetven ls der Federspeicherbremse wurde zentral vom
+Fahrzeugleitgerät realisiert. Das Fahrzeugleitgerät empfing die per elektrischem Tas mpuls
+
+Seite 22 von 40
+
+Untersuchungsbericht
+Fahrzeugbrand, 09.07.2020, Bf Hausach – Bf Haslach
+
+ausgelösten Befehle zum Lösen bzw. Anlegen der Federspeicherbremse über das Einlesen dezidierter Eingänge der Lei echnik. Die Verkabelung von den Tastern zu den Input-/OutputModulen der Lei echnik im FST 1 erfolgte über den zentralen Kabelkanal des Fahrzeugs im
+Untergestell. Dieser Kabelkanal war die zentrale Verteilung aller elektrischen Verkabelungen
+im Fahrzeug.
+Sofern es zu einem Defekt der elektrischen Ansteuerung der Federspeicherbremse kommt,
+besteht als Rückfallebene die Möglichkeit der manuellen Bedienung am Impulsven l im
+Bremsgeräteschrank im Werksta raum.
+Feststellungen am Ereignisort
+Das Fahrzeug verkehrte mit dem FST 2 voraus. Es war mit allen vier Achsen auf dem Gs 808 im
+Bf Gengenbach entgleist. Der Ba eriehauptschalter außen am Fahrzeug wurde durch einen
+Vertreter des EVU für die Löscharbeiten ausgeschaltet. Der hintere FST 1 war durch Rauchund Hitzeeinwirkungen stark beeinträch gt, der Werksta raum durch unmi elbare Brandeinwirkung zerstört. Der Sozialraum sowie der FST 2 waren durch Brandgase in geringerem Umfang ebenfalls beeinträch gt.
+Folgende Feststellungen am Ereignisort wurden durch die Bundespolizei nach Beendigung der
+Löscharbeiten getroﬀen und fotografisch dokumen ert: Im FST 2 waren auf dem Bedienpult
+der Fahr-Bremsschalter in Schnellbremsstellung und der Fahrtrichtungsschalter in Stellung
+„R“. Der Schalter „Retarderak vierung/Mg-Bremse“ war eingelegt. Der Kipptastschalter „Sanden“ war eingerastet, der Taster „Federspeicherbremse“ befand sich in Mi elstellung, der
+Tastschalter „Zusatzbremse“ war ebenfalls in Mi elstellung. Der Betä gungshebel für das
+Notbremsven l unterhalb des rechten Führerstandfensters befand sich in senkrechter Stellung (ak viert).
+
+Seite 23 von 40
+
+Untersuchungsbericht
+Fahrzeugbrand, 09.07.2020, Bf Hausach – Bf Haslach
+
+Abbildung 11: Zustand Führerpult6
+
+Die Bremsschauzeichen außen am Fahrzeugrahmen zeigten gemäß der nächsten Abbildung
+für die Drucklu bremsen der beiden Drehgestelle ein grünes Feld. Die Drucklu bremsen waren gelöst. Das Schauzeichen für die Federspeicherbremse zeigte ein schwarzes Kreuz. Gemäß
+Bedienungsanleitung des Fahrzeugs bedeutet dies eine ungül ge Anzeige bzw. einen undefinierten Zustand.
+
+6
+
+Quelle: Bundespolizei, bearbeitet durch BEU
+
+Seite 24 von 40
+
+Untersuchungsbericht
+Fahrzeugbrand, 09.07.2020, Bf Hausach – Bf Haslach
+
+Abbildung 12: Bremsschauzeichen am Fahrzeugrahmen7
+
+Nach Anheben des Fahrzeugs zeigte eine Rollprobe, dass die Federspeicherbremsen beider
+Drehgestelle angelegt waren. Erst nach Bedienung der Notlöseeinrichtungen war das Fahrzeug wieder rollfähig. Die mechanische Festhaltefunk on der Federspeicherbremse war nach
+dem Unfallereignis somit gegeben.
+Das Fahrzeug wurde nach Abschluss der Untersuchungsarbeiten vor Ort in einen provisorischen rollfähigen Zustand versetzt und zur näheren Untersuchung in die Werksta der DB
+Netz Maschinenpool nach Karlsruhe überführt. Dort wurde das Fahrzeug einer eingehenden
+Untersuchung durch einen Brandsachverständigen des TÜV Süd und einen Bremssachverständigen des EBA unterzogen.
+Untersuchung in der Werksta
+Nahezu alle Sicherungen im 24 V Versorgungsschrank hinter dem FST 1 waren im ausgelösten
+Zustand. Dadurch war u. a. die Spannungsversorgung des PZB-Rechners, des Bremsrechners
+
+7
+
+Quelle: Bundespolizei, bearbeitet durch BEU
+
+Seite 25 von 40
+
+Untersuchungsbericht
+Fahrzeugbrand, 09.07.2020, Bf Hausach – Bf Haslach
+
+sowie des FST 2 nicht mehr gegeben. Im Bremsgeräteschrank im Werksta raum waren deutliche Beschädigungen an Absperrven len im C-Druck-Kreislauf feststellbar, die auf einen massiven und spontanen Druckans eg im System hindeuteten.
+Im Rahmen der Erstbegehung des Fahrzeugs im Unterflurbereich wurde entsprechend nachfolgender Abbildung vom Bremssachverständigen festgestellt, dass ein Bremsschlauch der Zuleitung zum Bremszylinder am Radsatz 1 (Drehgestell 1, links) geborsten war. Der Bremsschlauch war zum Zeitpunkt der Aufnahme bereits einsei g vom Bremszylinder en ernt worden, um ein unbeabsich gtes Anlegen der Bremsen während der Überführung zur Werksta
+zu verhindern.
+
+Abbildung 13: Geborstener Bremsschlauch8
+
+In der nachfolgenden Abbildung ist die Lage des geborstenen Bremsschlauchs im Drucklu bremssystem des Fahrzeugs skizziert. Der Bremsschlauch stellte die Verbindung zu einem
+Bremszylinder her. Die dazugehörenden Drucklu leitungen (C-Druck) sind farblich rot hinterlegt. Aus der Skizze ist ersichtlich, dass alle acht Bremszylinder der Drehgestelle 1 bis 4 lu seig parallel miteinander verbunden waren.
+
+8
+
+Quelle: EBA, bearbeitet durch BEU
+
+Seite 26 von 40
+
+Untersuchungsbericht
+Fahrzeugbrand, 09.07.2020, Bf Hausach – Bf Haslach
+
+Spätestens nach der Erschöpfung der Nachspeisung führte das Loch im geborstenen Bremsschlauch sowie die Beschädigungen im Bremsgeräteschrank zur Entlü ung aller Bremszylinder
+und somit zur Entbremsung des Fahrzeugs nach der Zwangsbremsung.
+Das Drucklu system der Federspeicherbremse (orange) war von dieser Leckage nicht betroffen.
+
+Abbildung 14: Systemskizze Drucklu bremssystem (Auszug)9
+
+Des Weiteren wurde festgestellt, dass am Radsatz 4 (führender Radsatz) der Drucklu anschluss am Federspeicherbremszylinder abgerissen war. Aufgrund der mechanischen Einwirkungsspuren konnte davon ausgegangen werden, dass es sich hierbei um eine Folge der Entgleisung in Gengenbach handelte. Der En all der Druckbeaufschlagung des Bremszylinders
+der Federspeicherbremse führte nach der Entgleisung zum automa schen, mechanischen Anlegen der Federspeicherbremse durch Federkra . Bei fehlendem Druck im Gesamtsystem
+zeigt das Bremsschauzeichen der Federspeicherbremse ein Kreuz.
+Die Federspeicherbremse war funk onsfähig und wurde erst nach der Entgleisung durch Beschädigung der Drucklu versorgung dieses Teilsystems ak viert.
+Die Auswertung der Protokolldaten des fahrzeugtechnischen Displays ergab keine zusätzlichen Erkenntnisse. Nach dem En all der Spannungsversorgung waren auch hier keine Daten
+mehr aufgezeichnet.
+
+9
+
+Quelle: DB Netz AG, bearbeitet durch BEU
+
+Seite 27 von 40
+
+Untersuchungsbericht
+Fahrzeugbrand, 09.07.2020, Bf Hausach – Bf Haslach
+
+Feststellungen des Brandsachverständigen
+Das Fahrzeug wurde einer eingehenden Untersuchung durch einen Brandsachverständigen
+des TÜV Süd in Zusammenarbeit mit dem Bremssachverständigen des EBA unterzogen. Das
+Gutachten des TÜV Süd liegt der BEU vor und ist Grundlage für die nachfolgend auszugsweise
+skizzierten Erkenntnisse zur Brandentstehung und -ausbreitung, die letztlich auch Auswirkungen auf die Bremsanlage ha en.
+Die nachfolgende Abbildung zeigt den Hydrauliklü ermotor 3, an dem nach dem Ereignis bei
+genauerer Untersuchung Verunreinigungen durch Hydrauliköl festgestellt wurden. Der Lü ermotor wurde deshalb einer Druckprüfung unterzogen. Bei der ersten Belastung mit ca. 90 bar
+zeigte sich eine deutliche Undich gkeit im Bereich zwischen dem Gehäuse und der angeschraubten Abdeckpla e.
+
+Abbildung 15: Undichter Hydrauliklü ermotor10
+
+Die Kerbe zur Fixierung der Dichtung wurde analysiert. Dabei wurden leichte Unebenheiten
+sowie leichte Abflachungen der Kerbe an der Außenkante der Dich läche festgestellt. Durch
+diese Abweichungen konnte sich die Dichtung in Abhängigkeit vom herrschenden Druck im
+Hydrauliksystem aus ihrer Dich läche verschieben. Dieser nicht bes mmungsgemäße Freiheitsgrad hat bei der Druckprüfung und zuvor beim Brandereignis für die Freisetzung von Hydrauliköl gesorgt.
+Das Fahrzeug war zum Zeitpunkt des Brandes ca. 30 Minuten mit rela v konstanter Geschwindigkeit auf einer abschüssigen Strecke unterwegs. Die Fahrzeugsteuerung sieht für eine solche
+
+10
+
+Quelle: TÜV Süd Brandgutachten
+
+Seite 28 von 40
+
+Untersuchungsbericht
+Fahrzeugbrand, 09.07.2020, Bf Hausach – Bf Haslach
+
+konstante Bremsleistung die vorrangige Nutzung der Retarderbremse vor. Bei Nutzung der
+Retarderbremse wird das Hydrauliköl im Hilfsbetriebekreis der Fahrmotoren durch die Abwärme erwärmt, weshalb die Fahrmotorlü er unter Last standen. Anhand der Geschwindigkeitskurve der PZB lässt sich ein sägezahnar ger Geschwindigkeitsverlauf erkennen, was auf
+ein schwellendes Abbremsen des Fahrzeugs hinweist. Diese Veränderung der Bremskra sorgt
+für entsprechende Lastwechsel in der Retarderbremse bzw. auch zu Lastwechseln in Bezug
+auf die notwendige Kühlleistung für das Hydrauliköl. Diese Lastwechsel haben nach Ansicht
+des Brandgutachters das Verschieben der Dichtung begüns gt und für die Freisetzung von
+Hydrauliköl gesorgt.
+Das freigesetzte und durch die Lü er verwirbelte Hydraulikölaerosol entzündete sich an den
+heißen Oberflächen des naheliegenden Turboladers und des Abgaskrümmers des Fahrmotors 2. Von der Zündquelle aus breitete sich der Brand durch induzierte Lu strömungen zunächst im Unterflurbereich in Richtung des Arbeitsmotors und des dahinterliegenden Fahrmotors 1 aus. Durch die weitere Schädigung von Schläuchen und Leitungen intensivierte sich
+der Brand.
+
+Abbildung 16: Brandausbreitung11
+
+Die Zwangsbremsung durch die PZB als ersten für die Personale wahrnehmbaren Hinweis auf
+den Brandfall wurde durch den En all des Ak vsignals vom besetzten FST 2 ausgelöst. Auf
+
+11
+
+Quelle: TÜV Süd Brandgutachten
+
+Seite 29 von 40
+
+Untersuchungsbericht
+Fahrzeugbrand, 09.07.2020, Bf Hausach – Bf Haslach
+
+Grund der Spurenlage war dies mit einer Zerstörung der Verkabelung verbunden, die das Akvsignal vom FST 2 durch den zentralen Kabelkanal im Untergestell hin zum PZB-Zentralgerät
+im FST 1 leitete. Durch den Brandfall wurden weitere Kabelverbindungen zum ak ven FST 2
+zerstört, was in der Folge zu einem vollständigen Ausfall des FST 2 führte.
+Nach Ansicht des Gutachters ha e das Brandereignis verschiedene Auswirkungen auf das
+Bremssystem, wobei sich die zwei maßgeblichen wie folgt darstellen:
+
+
+Durch die beim Brand freigesetzten Aerosole wurden größeren Mengen an Öl-Luft-Gemisch über die Luftansaugung der Luftpresser im Unterflurbereich in das Druckluftsystem eingebracht. Das Gemisch wurde durch die ausgelöste Zwangsbremsung im gesamten Druckluftbremssystem verteilt. Die Schläuche und Rohrleitungen wurden durch die
+Brandeinwirkung nach dem Stillstand punktuell erwärmt. Auf Grund des im Bremssystem herrschenden Drucks verringerte sich die Zündtemperatur des eingebrachten ÖlLuftgemisches für eine Entzündung. Das Ölaerosol entzündete sich im erwärmten
+Bremsschlauch zum Bremszylinder am Radsatz 1, was zu einer Deflagration mit punktueller Zerstörung dieses Bremsschlauchs und den festgestellten weiteren Beschädigungen im Drucksystem führten. Die ungewollte Entlüftung des C-Drucksystems führte
+zum schnellen Verlust der Bremskraft der gesamten Druckluftbremse nach der Zwangsbremsung.
+
+
+
+Aufgrund der Brandeinwirkung wurden elektrische Verbindungen und Signalkabel im
+zentralen Kabelkanal zerstört, so dass nicht alle Signale vom FST 2 von den jeweiligen
+Steuergeräten bzw. Aktoren im Schaltschrank im FST 1 empfangen werden konnten.
+Die bei dieser Fahrzeugbauart durch einen elektrischen Impuls angesteuerten Federspeicherbremse konnte auf Grund der geschädigten Verkabelung nicht mehr aktiviert
+werden. Eine manuelle Notbetätigung des Impulsventils im Bremsgeräteschrank im
+Werkstattraum war auf Grund der brandbedingten Unzugänglichkeit nicht mehr möglich. Das Fahrzeug war daher nicht durch die vorgesehene Feststellbremse gesichert.
+
+Der geborstene Bremsschlauch wurde einer Untersuchung im Kunststoﬄabor der TÜV SÜD
+Industrie Service unterzogen um zu prüfen, ob der Schlauch ggf. mechanische Vorschäden
+bzw. Materialfehler aufwies. Die analy sche Untersuchung der verwendeten Materialien
+zeigte keine Abweichungen zu den spezifizierten Materialien des Herstellers. Sowohl ein Material- oder Produk onsfehler als auch eine mechanische Schädigung von außen konnte als
+
+Seite 30 von 40
+
+Untersuchungsbericht
+Fahrzeugbrand, 09.07.2020, Bf Hausach – Bf Haslach
+
+Grund für das Bersten des Bremsschlauchs ausgeschlossen werden. Ebenso ausgeschlossen
+werden konnte ein Bersten des Schlauches auf Grund des normalen Betriebsdrucks in der
+Bremsanlage unter ausschließlichem Einfluss der ermittelten Temperaturen in der Umgebung
+des Bremsschlauchs. Die ermittelten Indizien sprechen für eine spontane örtliche Entzündung
+des in den Bremsschlauch eingebrachten Ölaerosol-Luftgemisches durch äußere Erwärmung
+mit der Folge der punktuellen Deflagration.
+Der Brandgutachter schlägt eine Reihe von Maßnahmen zur Verhinderung ähnlich gelagerter
+Brandereignisse vor. Diese sind im Kap 5.2 dieses Berichts eingearbeitet.
+Erkenntnisse des Bremssachverständigen
+Ergänzend zu den Feststellungen des Brandgutachters hat der Bremssachverständige des EBA
+die Erkenntnisse bezüglich der Funk onalität der Bremsanlage und des unbeabsich gten Entlaufens des TVT bewertet.
+Auf die vorgenannten acht Bremszylinder in den Drehgestellen wirken sowohl die indirekte
+Bremse via Steuerven l als auch die direkte Bremse. Somit war nach dem Fahrzeugs llstand
+in Folge der Zwangsbremsung und der nachfolgenden Beschädigung des C-Drucksystems
+zwangsläufig keine dauerha e Bremswirkung weder der indirekten als auch der direkten
+Bremse vorhanden. Somit war das Fahrzeug nach dem Fahrzeugs llstand auf Grund der PZBZwangsbremsung nur temporär gegen Wegrollen gesichert. Auch die Betä gung verschiedener Bedienelemente im FST durch den beim Beginn der Fahrzeugbewegung wieder aufgesprungenen Tf konnte somit nicht zu einer weiteren oder erneuten Bremswirkung führen.
+Aus den Feststellungen ergibt sich die Erkenntnis, dass die in dieser Fahrzeugbaureihe ausgeführte Anordnung der pneuma schen Bremse in Form der Parallelschaltung aller Bremszylinder in einem Bremskreis keine Rückfallebene bei einem Schlauchbruch bietet. Hier wäre eine
+Au eilung auf zwei Bremskreise mit zwei Steuerven len oder mindestens zwei Relaisven len
+sinnvoll, so dass ein Fehler wie im vorliegenden Fall maximal zu einem Bremskra verlust von
+50 % führen kann.
+Auch die Ausführung zur Ansteuerung der Federspeicherbremse zeigt Verbesserungspotenal. Hier ist das Prinzip „Fail Safe“ nicht vollumfänglich umgesetzt. Falls aus irgendeinem
+Grund die Energieversorgung der Bedienelemente bzw. des Bremssteuergeräts ausfällt, oder
+eine Kontaktunterbrechung beispielsweise durch Kabelbruch vorliegt, ist eine Betä gung der
+
+Seite 31 von 40
+
+Untersuchungsbericht
+Fahrzeugbrand, 09.07.2020, Bf Hausach – Bf Haslach
+
+Federspeicherbremse vom Führerpult nicht mehr möglich. Zudem zeigen gemäß der Beschreibung des Fahrzeugherstellers die Leuchtmelder „Federspeicherbremse“ (Federspeicher angelegt) auf den jeweiligen Bedienpulten entweder den angeforderten oder den tatsächlichen
+Zustand an. Das Signal „Federspeicher angefordert“ wirkt dabei vorrangig. Somit ist die Anzeige nicht eindeu g und zeigt nicht zwingend den tatsächlichen Zustand. Es kann also der Fall
+eintreten, dass trotz Bedienung des Tasters „Federspeicherbremse anlegen“ und dem darauffolgenden Aufleuchten des Leuchtmelders die Federspeicherbremse keine Wirkung zeigt. Hier
+ist dringender Handlungsbedarf vorhanden. Der Leuchtmelder muss den tatsächlichen Zustand der Feststellbremse anzeigen, um das Fahrzeug sicher betreiben zu können.
+4.2.2 Untersuchung der bautechnischen Infrastruktur
+Aufgrund der Erkenntnisse zum Ereignishergang und der Sachverhaltsermi lung konnte auf
+weiterführende oberbautechnische Untersuchungen der Gleise verzichtet werden. Instandhaltungsdefizite im Zusammenhang mit dem Ereignis waren auszuschließen.
+4.2.3 Untersuchung der Leit‐ und Sicherungstechnik
+Aufgrund der Erkenntnisse zum Ereignishergang und der Sachverhaltsermi lung konnte auf
+weiterführende Untersuchungen der signaltechnischen Anlagen verzichtet werden. Diese arbeiteten zum Zeitpunkt des Ereignisses fehlerfrei, Hinweise auf Störungen lagen nicht vor. Die
+in der nachfolgenden Tabelle aufgelisteten technisch gesicherten Bahnübergänge wurden
+vom brennenden TVT in führerlosem Zustand befahren. Die Bahnübergänge wurden zugbewirkt eingeschaltet oder vom jeweils zuständigen Fdl geschlossen. Es wurden keine Straßenverkehrsteilnehmer gefährdet.
+
+Seite 32 von 40
+
+Untersuchungsbericht
+Fahrzeugbrand, 09.07.2020, Bf Hausach – Bf Haslach
+
+km
+
+Bezeichnung
+
+Bauform
+
+19,250
+
+Biberach
+
+Fü 2H/60
+
+Zustand bei
+Befahren
+technisch gesichert
+
+Bemerkungen
+
+(zugbewirkte Einschaltung)
+
+15,825
+
+15,715
+
+15,018
+
+Schönberg II/2
+
+Schönberg II/1
+
+Schönberg I
+
+Fü 2H/60
+
+Fü 2H/60
+
+Fü 2H/60
+
+technisch gesichert
+
+nach Befahren gestört
+
+(zugbewirkte Einschaltung)
+
+(dauerha e Einschaltung)
+
+zusätzlich durch Bundespolizei abgesperrt
+technisch gesichert
+
+nach Befahren gestört
+
+(zugbewirkte Einschaltung)
+
+(dauerha e Einschaltung)
+
+zusätzlich durch Bundespolizei abgesperrt
+technisch gesichert
+(zugbewirkte Einschaltung)
+
+12,083
+
+Schwaibach
+
+LzFü 2H/60
+
+9,994
+
+Wp 8
+
+4 el. Schranken,
+nahbedient Fdl,
+Lzw, SpM+Tv
+
+zusätzlich durch Bundespolizei abgesperrt
+technisch gesichert
+(zugbewirkte Einschaltung)
+
+technisch gesichert
+(durch Fdl vor Befahren
+geschlossen)
+
+Tabelle 4: Befahrene Bahnübergänge12
+
+4.3 Menschliche Faktoren
+In diesem Kapitel werden Untersuchungserkenntnisse zu menschlichen Handlungen und/oder
+Entscheidungen am gefährlichen Ereignis beteiligter Personen dargestellt. Entsprechende Erkenntnisse können sich hierbei insbesondere im Bereich menschlicher und individueller Merkmale sowie organisatorischer und Arbeitsplatzfaktoren ergeben.
+4.3.1 Beteiligte des Infrastrukturbetreibers
+Die Qualifika onen der beteiligten Fdl wurden nicht näher untersucht, da diese keinen nachteiligen Einfluss auf die Entstehung und die Entwicklung des Ereignisses ha en.
+Die vom Fdl angestellten Überlegungen, die Signale trotz gesichertem Fahrweg nicht in Fahrtstellung zu bringen um eine Wirkungsweise des 2000 HZ Magneten auf das unkontrolliert rollende Schienenfahrzeug zu erzielen, war grundsätzlich rich g und nachvollziehbar. Die bei der
+Vorbeifahrt an Halt zeigenden Signalen ausgelöste Zwangsbremsung wirkt jedoch nur, wenn
+die Bremsanlage des Schienenfahrzeuges an sich funk onsfähig ist. Der Fdl wusste nicht, dass
+diese zum Zeitpunkt des unkontrollierten Abrollens des TVT bereits druck- und funk onslos
+
+12
+
+Datenquelle: DB Netz AG
+
+Seite 33 von 40
+
+Untersuchungsbericht
+Fahrzeugbrand, 09.07.2020, Bf Hausach – Bf Haslach
+
+war. Die weiteren Sicherungsmaßnahmen, andere Züge nicht zu gefährden und die Bahnübergänge zu sichern wurden trotz der Stresssitua on sicher, schnell und vorschri enkonform
+durchgeführt
+Der Versuch von örtlichen Personalen, das Fahrzeug durch aufgelegte Hemmschuhe aufzuhalten war nicht erfolgreich, da die vor der führenden Achse angebrachten Sandstreurohre die
+Hemmschuhe abwarfen.
+Die in Absprache mit dem Arbeitsgebietsleiter Betrieb getroﬀene Entscheidung, eine kontrollierte Entgleisung im Bf Gegenbach durchzuführen, kann unter Abwägung größerer potenzieller Gefährdungen für Menschen und Sachwerte als angemessen und rich g angesehen werden. Die Handlungen der Infrastrukturpersonale waren dem Ereignis angemessen.
+4.3.2 Beteiligte des EVU
+Der verantwortliche Tf war im Besitz eines gül gen EU-Triebfahrzeugführerscheins. Für das
+Führen von Eisenbahnfahrzeugen erhielt er von der DB Netz AG eine Zusatzbescheinigung der
+Klassen A (Rangierfahrten) und B2 (Güterzüge), in der auch die Befähigung zum Führen des
+eingesetzten TVT der Baureihe 711.1 nachgewiesen wurde. Der Tf besaß für den betroﬀenen
+Streckenabschni die nö ge Streckenkenntnis. Ein aktueller Tauglichkeitsnachweis nach den
+Kriterien der Triebfahrzeugführerscheinverordnung wurde zur Einsichtnahme vorgelegt. Die
+Überwachung bei der Dienstausübung am Arbeitsplatz wurde nachgewiesen. Es waren keine
+Beanstandungen vermerkt. Die Ruhezeiten wurden eingehalten. Die Voraussetzungen der
+Triebfahrzeugführerscheinverordnung für den Einsatz des Tf auf dem TVT waren erfüllt.
+Der Tf und der Triebfahrzeugbegleiter wurden zum Ereignishergang befragt. Deren Aussagen
+stehen im Einklang mit den übrigen Untersuchungsergebnissen. Die Ursache der Zwangsbremsung war für das Zugpersonal nicht erkennbar. Nach dem S llstand war das Fahrzeug durch
+die Drucklu bremse und die bediente Federspeicherbremse aus ihrer Sicht ausreichend gesichert, so dass sie das Fahrzeug zur weiteren Untersuchung verlassen konnten. Nachdem sich
+der TVT unbeabsich gt wieder in Bewegung gesetzt ha e, versuchten die Personale mit den
+ihnen zur Verfügung stehenden Mi eln das weitere Entlaufen zu verhindern, was misslang.
+
+Seite 34 von 40
+
+Untersuchungsbericht
+Fahrzeugbrand, 09.07.2020, Bf Hausach – Bf Haslach
+
+4.4 Feedback‐ und Kontrollmechanismen
+In diesem Kapitel wird insbesondere auf Bedingungen, Feedback‐ und Kontrollmechanismen
+im Eisenbahnsystem eingegangen, denen ein ak ver Einfluss auf die Entstehung ähnlicher Er‐
+eignisse zugeschrieben werden könnte. Diese Mechanismen schließen Faktoren des Risiko‐
+und Sicherheitsmanagement sowie Überwachungsverfahren mit ein.
+Die Instandhaltungswerksta war ECM‐zer fiziert. Die regelmäßige Überprüfung der gesam‐
+ten Hydraulikkomponenten, insbesondere bezüglich deren Dichtheit, war Bestandteil des
+Wartungs‐ und Inspek onsplans der Fahrzeuge. Die Hydraulikmotoren waren dabei nicht ex‐
+plizit erwähnt. Die durchgeführten Arbeiten wurden dokumen ert und deren Durchführung
+überwacht.
+Die materiellen Anforderungen an den vorbeugenden Brandschutz gemäß der zum Zeitpunkt
+der Zulassung geltenden DIN 5510 waren erfüllt. Eine explizite Betrachtung des Brandrisikos
+im Rahmen einer Risikoanalyse nach Verordnung (EU) 2018/762 Anhang I Punkt 3.1 lag nicht
+vor. Bei früheren Brandereignissen wurde jedoch eine Untersuchung mit Ableitung von not‐
+wendigen organisatorischen und technischen Maßnahmen zur Senkung der Brandgefahr
+durchgeführt.
+
+4.5 Frühere Ereignisse ähnlicher Art
+Bereits beim Brand des TVT 711 120 am 16.02.2012 in Bad Bevensen derselben Bauserie
+wurde eine Leckage an einem Hydrauliklü ermotor mit anschließender Entzündung des aus‐
+tretenden Ölaerosols als Brandursache iden fiziert.
+
+Seite 35 von 40
+
+Untersuchungsbericht
+Fahrzeugbrand, 09.07.2020, Bf Hausach – Bf Haslach
+
+5 Schlussfolgerungen
+Das folgende Kapitel enthält eine Zusammenfassung der ermi elten ursächlichen, beitragenden und systemischen Faktoren Zusätzlich sind zwei weitere Unterkapitel vorgesehen, um Informa onen zu bereits ergriﬀenen Maßnahmen und zu zusätzlichen Bemerkungen zu teilen.
+
+5.1 Zusammenfassung und Schlussfolgerung
+Zusammenfassend ist festzustellen, dass ursächlich für das Brandereignis eine Hydraulikölfreisetzung am Hydrauliklü ermotor 3 der Fahrmotorkühlanlage für den Fahrmotor 2 war, ausgelöst durch eine nicht spezifika onsgerecht funk onierende Dichtung. Begüns gend wirkte
+sich die örtliche Nähe des Hydrauliklü ermotors 3 zum Turbolader des Fahrmotors 2 aus,
+wodurch die Zündung des Aerosols bewirkt wurde. Durch den Austri unter Druck und die
+vom Lü er induzierte Lu strömung unterhalb des Fahrzeugs ergab sich nachfolgend eine vom
+Fahrpersonal unbemerkte Brandintensivierung und –ausbreitung in den Bereich des Arbeitsmotors und des hinteren Fahrmotors 1. Das Fehlen einer Brandmeldeanlage begüns gte die
+unbemerkte Brandintensivierung.
+Ursächlich für das unkontrollierte Abrollen des Fahrzeugs war die Beeinträch gung der elektrischen Anlage im zentralen Kabelkanal. Dadurch wurde zwar zunächst eine Zwangsbremsung
+ausgelöst, die dem Fahrpersonal das Vorhandensein einer Störung oﬀenbarte. Unklar blieben
+jedoch die Ursache und das Ausmaß der Störung. Begüns gt durch die bereits unbemerkt weit
+fortgeschri ene Brandausbreitung wurde die Bremswirkung der Zwangsbremsung durch die
+brandverursachte Deflagra on eines Bremsschlauchs am Drehgestell 1 nach dem S llstand
+des Fahrzeugs kurzfris g wieder aufgehoben. Zudem war die Ak vierung der Feststellbremse
+wegen des nicht mehr wirksamen elektrischen Tasters im FST 2 nicht mehr möglich. Da der
+Bremszylinder der Federspeicherbremse unabhängig vom fehlenden C-Druck noch mit Lu
+beaufschlagt war, wurde deren mechanische Festhaltefunk on nicht ak viert. Die genannten
+Faktoren bewirkten das unbeabsich gte Abrollen des TVT nach der Zwangsbremsung.
+Gemäß Ril 915.0107 Abschn. 2 Abs. 1 ist auf Gefällestrecken so zu bremsen, dass die zulässige
+Geschwindigkeit möglichst gleichmäßig gehalten wird. Gründe für das auﬀallend sägezahnarge Fahrverhalten des Tf sind nicht bekannt. Nach Ansicht des Brandgutachters könnte dieses
+Fahrverhalten in der Gefällestrecke durch zahlreiche Lastwechsel im Hydraulikkreislauf das
+Brandereignis begüns gt, nicht jedoch verursacht haben.
+
+Seite 36 von 40
+
+Untersuchungsbericht
+Fahrzeugbrand, 09.07.2020, Bf Hausach – Bf Haslach
+
+Das Verlassen des Fahrzeugs nach der Zwangsbremsung zur näheren Untersuchung und zum
+Eigenschutz war notwendig. Beiden Personalen war zu diesem Zeitpunkt die Tragweite der
+Brandeinwirkungen insbesondere auf die Energieversorgung und Bremsanlage des TVT nicht
+bekannt. Entsprechend war nicht zu erwarten, dass die wirkende Drucklu bremse nach der
+Zwangsbremsung derar g schnell wieder auslöst. Zudem war dem Tf mit großer Wahrscheinlichkeit nicht bewusst, dass die Federspeicherbremse trotz Tastenbedienung nicht mehr angelegt ha e bzw. nicht mehr anlegen konnte. Insofern bestand auch keine Veranlassung, den
+Zustand der Federspeicherbremse am Bremsschauzeichen außen am Fahrzeugrahmen zu
+überprüfen. Zudem war die manuelle Betä gung der Federspeicherbremse direkt am Impulsven l auf Grund der Unzugänglichkeit des Bremsgeräteschranks im Werksta bereich (Rauchentwicklung im Innenraum) nicht mehr möglich. Ebenso waren die dort gelagerten Radvorleger nicht mehr grei ar.
+Nach dem unbeabsich gten Wegrollen bediente der wieder aufgesprungene Mitarbeiter die
+Notbremseinrichtung. Die Bedienung des Notbremshebels blieb jedoch wirkungslos, da das
+Drucklu system zu diesem Zeitpunkt bereits drucklos war. Die Betä gung der Zusatzbremse
+(direkte Bremse) blieb ebenfalls wirkungslos, da diese über ein Steuerven l im Bereich der
+Drehgestelle dasselbe (geborstene und entlü ete) C-Drucklu system nutzte. Durch den Ausfall der Energieversorgung des FST 2 waren weitere elektrisch zu betä genden Einrichtungen
+wirkungslos.
+Fazit:
+Die Analyse des Brandereignisses hat eindeu ge Indizien für eine technische Fehlerursache
+der Brandentstehung geliefert. Die detaillierte Untersuchung des Au aus und der Funk onalität der Bremsanlage des TVT hat gezeigt, dass die Brandentwicklung und -ausbreitung den
+Ausfall der elektrischen Anlage und mehrerer Komponenten der Bremsanlage verursacht hat.
+Die Handlungen der beteiligten Personale ha en weder Einfluss auf die Brandentstehung
+noch auf das unbeabsich gte Abrollen des TVT.
+
+5.2 Seit dem Ereignis getroffene Maßnahmen
+Das vorliegende Ereignis war das zweite Brandgeschehen an einem Fahrzeug dieser Bauserie
+mit ähnlicher Ursache. Daher waren zur Gewährsleitung eines sicheren Eisenbahnbetriebs
+weitergehende Abhilfemaßnahmen angesagt, die das Risiko weiterer ähnlicher Brandereig-
+
+Seite 37 von 40
+
+Untersuchungsbericht
+Fahrzeugbrand, 09.07.2020, Bf Hausach – Bf Haslach
+
+nisse mit entsprechenden Folgen kurz- und mi elfris g nachhal g reduzieren. Seitens des Halters DB Netz AG Maschinenpool wurde entsprechend den Empfehlungen des Brandgutachters
+regelmäßig wiederkehrend alle 30 Tage eine Dichtheitsprüfung der Hydraulikkomponenten
+der betroﬀenen Fahrzeuge vorgeschrieben. Diese Sofortmaßnahme gilt so lange, bis bauliche
+Veränderungen umgesetzt sind. An die Tf ging als betriebliche Erstmaßnahme eine Informaon und Handlungsanweisung für ähnliche Fälle, die insbesondere auch die Besonderheit des
+Leuchtmelders „Federspeicherbremse angelegt“ beinhaltet. Die Tf wurden verpflichtet, beim
+Verlassen des Fahrzeugs den Anlegezustand der Federspeicherbremse außen am Bremsschauzeichen zu prüfen.
+Entsprechend den Empfehlungen des Brandgutachters des TÜV Süd und den Erkenntnissen
+des EBA wurden eine Reihe von möglichen Verbesserungsmaßnahmen festgelegt, die geeignet wären, auch kün ig das sichere Betreiben dieser Fahrzeugbaureihe zu gewährleisten. Im
+Fokus standen dabei Maßnahmen zur Reduzierung des Risikos einer Brandentstehung durch
+Besei gung der erkannten Fehlerquellen sowie die Verminderung des Risikos von unbeabsichgten Folgen einer unbemerkten Brandausbreitung durch eine möglichst frühe Detek on von
+Brandereignissen.
+Themenkomplex Brand:
+
+
+Tausch Hydraulikmotoren für die Fahrmotorlüfter
+
+
+
+Nachrüstung Brandfrüherkennungsanlage
+
+Im Zusammenhang mit der Konzep onierung der Brandfrüherkennungsanlage wurde die Erstellung einer Brandrisikoanalyse angestoßen. Damit soll sichergestellt werden, dass mögliche
+Zündquellen und Brandlasten bei der Auslegung der Brandfrüherkennungsanlage ausreichend
+Beachtung finden.
+Bezüglich der im Rahmen der Ereignisuntersuchung erkannten systemischen Mängel zum Themenkomplex Bremsanlage wurden weitere Maßnahmen angestoßen:
+
+
+Veränderte Ansteuerung der Federspeicherbremse
+
+
+
+Pneumatische Entkopplung der Druckluftbremsen beider Drehgestelle (C-Druck)
+
+Das EBA begleitet und überwacht die Umsetzung der Maßnahmen im Rahmen der Fahrzeugaufsicht und Gefahrenabwehr.
+
+Seite 38 von 40
+
+Untersuchungsbericht
+Fahrzeugbrand, 09.07.2020, Bf Hausach – Bf Haslach
+
+Zum Themenkomplex Bremse hat die Firma Knorr-Bremse in Zusammenarbeit mit dem Hersteller GBM eine Umbauvariante entwickelt, die geeignet scheint, die erkannten Probleme bei
+der Ansteuerung der Federspeicherbremse zu verbessern und das Ausfallszenario bei Undichgkeiten im C-Druck-Kreis zu minimieren. Derzeit wird geprü , ob die Maßnahme die aktuellen Anforderungen an Bremssysteme der Technischen Spezifika on für die Interoperabilität
+Teilsystem „Fahrzeuge – Lokomo ven und Personenwagen“ (TSI LOC&PAS) erfüllt.
+
+5.3 Zusätzliche Bemerkungen
+Die durchgeführten Untersuchungen lieferten keinen Beitrag zu diesem Punkt.
+
+Seite 39 von 40
+
+Untersuchungsbericht
+Fahrzeugbrand, 09.07.2020, Bf Hausach – Bf Haslach
+
+6 Sicherheitsempfehlungen
+Gemäß § 6 EUV und Art. 26 Abs. 2 der Richtlinie (EU) 2016/798 ergehen nachfolgende Sicherheitsempfehlungen:
+Lfd. Nr.
+
+Adressat und Sicherheitsempfehlung
+
+Betri
+
+Unternehmen
+
+2/2022
+
+Na onale Sicherheitsbehörde:
+
+Halter/EVU
+
+Es wird empfohlen bei den Fahrzeugen der Baureihe
+711.1 risikominimierende Maßnahmen gegen einen
+unkontrollierten Ablauf zu erarbeiten und in einem
+Ak onsplan umzusetzen. Hierbei sollten insbesondere Maßnahmen in den Bereichen Brandentstehung und -detek on sowie Op mierung der Bremsanlage in Erwägung gezogen werden.
+
+Seite 40 von 40
+
+

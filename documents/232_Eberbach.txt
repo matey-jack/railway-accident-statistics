@@ -1,0 +1,1142 @@
+Untersuchungsbericht
+Aktenzeichen:
+
+BEU-uu2024-07/013-3323
+
+Stand:
+
+23.05.2025
+
+Erstveröﬀentlichung:
+
+04.06.2025
+
+Version 1.0
+
+Gefährliches Ereignis im Eisenbahnbetrieb
+
+Ereignisart:
+
+Personenunfall
+
+Datum:
+
+22.07.2024
+
+Zeit:
+
+20:14 Uhr
+
+Betriebsstelle:
+
+Bf Eberbach
+
+Gleis:
+
+Gleis 3
+
+Kilometer:
+
+21,10
+
+Untersuchungsbericht
+Personenunfall, 22.07.2024, Bf Eberbach
+
+Veröﬀentlicht durch:
+Bundesstelle für Eisenbahnunfalluntersuchung
+Heinemannstraße 6
+53175 Bonn
+
+Untersuchungsbericht
+Personenunfall, 22.07.2024, Bf Eberbach
+
+Inhaltsverzeichnis
+I.
+
+Änderungsverzeichnis: .......................................................................................... II
+
+II.
+
+Abbildungsverzeichnis: ........................................................................................ III
+
+III.
+
+Tabellenverzeichnis: ............................................................................................ III
+
+IV.
+
+Abkürzungsverzeichnis: ....................................................................................... IV
+
+0
+
+Vorbemerkung...................................................................................................... 1
+
+1
+
+Zusammenfassung ................................................................................................ 2
+
+1.1
+
+Kurzbeschreibung des Ereignisses........................................................................... 2
+
+1.2
+
+Folgen ...................................................................................................................... 2
+
+1.3
+
+Ursachen.................................................................................................................. 2
+
+1.4
+
+Sicherheitsempfehlungen ....................................................................................... 3
+
+2
+
+Die Untersuchung und ihr Kontext ........................................................................ 4
+
+3
+
+Beschreibung des Ereignisses................................................................................ 6
+
+3.1
+
+Informationen über das Ereignis und seine Hintergründe ..................................... 6
+
+3.1.1
+
+Lage und Beschreibung des Ereignisortes ............................................................... 6
+
+3.1.2
+
+Beteiligte.................................................................................................................. 9
+
+3.1.3
+
+Äußere Bedingungen ............................................................................................. 10
+
+3.1.4
+
+Todesopfer, Verletzte und Sachschäden............................................................... 10
+
+3.2
+
+Sachliche Beschreibung der Vorkommnisse ......................................................... 11
+
+3.2.1
+
+Hergangsbeschreibung .......................................................................................... 11
+
+3.2.2
+
+Notfallmanagement .............................................................................................. 11
+
+4
+
+Auswertung des Ereignisses ................................................................................ 12
+
+4.1
+
+Aufgaben und Pflichten ......................................................................................... 12
+
+4.1.1
+
+Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers ................. 12
+
+I
+
+Untersuchungsbericht
+Personenunfall, 22.07.2024, Bf Eberbach
+
+I.
+
+4.1.2
+
+Untersuchung der betrieblichen Abläufe des EVU ............................................... 14
+
+4.2
+
+Fahrzeuge und technische Einrichtungen ............................................................. 15
+
+4.2.1
+
+Untersuchung von Fahrzeugen ............................................................................. 15
+
+4.2.2
+
+Untersuchung der bautechnischen Infrastruktur ................................................. 16
+
+4.2.3
+
+Untersuchung der Leit- und Sicherungstechnik .................................................... 18
+
+4.3
+
+Menschliche Faktoren ........................................................................................... 19
+
+4.3.1
+
+Beteiligte des Infrastrukturbetreibers................................................................... 19
+
+4.3.2
+
+Beteiligte der EVU ................................................................................................. 19
+
+4.3.3
+
+Reisende ................................................................................................................ 19
+
+4.4
+
+Feedback- und Kontrollmechanismen .................................................................. 20
+
+4.5
+
+Frühere Ereignisse ähnlicher Art ........................................................................... 25
+
+5
+
+Schlussfolgerungen ............................................................................................. 26
+
+5.1
+
+Zusammenfassung und Schlussfolgerung ............................................................. 26
+
+5.2
+
+Seit dem Ereignis getroffene Maßnahmen ........................................................... 27
+
+5.3
+
+Zusätzliche Bemerkungen ..................................................................................... 27
+
+6
+
+Sicherheitsempfehlungen ................................................................................... 28
+
+Änderungsverzeichnis:
+Änderung
+
+Stand
+
+II
+
+Untersuchungsbericht
+Personenunfall, 22.07.2024, Bf Eberbach
+
+II.
+
+Abbildungsverzeichnis:
+Abbildung 1: Lageplan ................................................................................................................ 7
+Abbildung 2: RÜ nach dem Unfallereignis ................................................................................. 8
+Abbildung 3: Gleislageskizze Bf Eberbach .................................................................................. 9
+Abbildung 4: Grafische EFR-Auswertung ................................................................................. 15
+Abbildung 5: Blick zum RÜ aus Fahrtrichtung des Zuges ......................................................... 16
+Abbildung 6: geschlossene Schiebeschranke mit Warnschildern ............................................ 17
+
+III.
+
+Tabellenverzeichnis:
+Tabelle 1: Zusammenfassung Einflussfaktoren .......................................................................... 3
+Tabelle 2: Übersicht der äußeren Bedingungen ...................................................................... 10
+Tabelle 3: Übersicht der Personenschäden ............................................................................. 10
+
+III
+
+Untersuchungsbericht
+Personenunfall, 22.07.2024, Bf Eberbach
+
+IV.
+
+Abkürzungsverzeichnis:
+AEG
+
+Allgemeines Eisenbahngesetz
+
+BEU
+
+Bundesstelle für Eisenbahnunfalluntersuchung
+
+Bf
+
+Bahnhof
+
+CSM-RA
+
+Common Safety Methods – Risk Evalua on
+
+EBA
+
+Eisenbahn-Bundesamt
+
+EBO
+
+Eisenbahn-Bau- und Betriebsordnung
+
+EFR
+
+Elektronische Fahrtenregistrierung
+
+EiTB
+
+Eisenbahnspezifische Technische Baubes mmungen
+
+EIU
+
+Eisenbahninfrastrukturunternehmen
+
+Esig
+
+Einfahrsignal
+
+EU
+
+Europäische Union
+
+EUV
+
+Eisenbahn-Unfalluntersuchungsverordnung
+
+EVU
+
+Eisenbahnverkehrsunternehmen
+
+Fdl
+
+Fahrdienstleiter
+
+GSM-R
+
+Global System for Mobile Communica ons Rail
+
+PZB
+
+Punk örmige Zugbeeinflussung
+
+Ril
+
+Richtlinie
+
+RÜ
+
+Reisendenübergang
+
+RÜ-BE
+
+Reisendenübergang-Berechnung
+
+SMS
+
+Sicherheitsmanagementsystem
+
+Stw
+
+Stellwerk
+
+Tf
+
+Triebfahrzeugführer
+
+Tfz
+
+Triebfahrzeug
+
+TSI-PRM
+
+Technische Spezifika on für Interoperabilität – Persons with Reduced
+Mobility
+
+VzG
+
+Verzeichnis der örtlich zulässigen Geschwindigkeiten
+
+IV
+
+Untersuchungsbericht
+Personenunfall, 22.07.2024, Bf Eberbach
+
+0 Vorbemerkung
+Auf der Grundlage des Ar kel 24 der Richtlinie (EU) 2016/798 hat die europäische Kommission
+mit der Inkra setzung der Durchführungsverordnung (EU) 2020/572 die Untersuchungsberichtsstruktur festgelegt. Diese Vorgaben sind grundsätzlich einzuhalten. Die Berichtsstruktur
+muss der Art und Schwere des gefährlichen Ereignisses angepasst sein.
+Mit Verkündung der Verordnung und Inkra setzung am zwanzigsten Tag nach der Veröﬀentlichung im Amtsbla der Europäischen Union (EU) ist diese verbindlich und unmi elbar auf
+alle ab dem 17.05.2020 eingeleiteten Untersuchungen anzuwenden.
+
+Seite 1 von 28
+
+Untersuchungsbericht
+Personenunfall, 22.07.2024, Bf Eberbach
+
+1 Zusammenfassung
+Das erste Kapitel enthält eine Kurzbeschreibung des Ereignisses sowie Informa onen zu den
+Folgen, Primärursachen sowie zu im Einzelfall ausgesprochenen Sicherheitsempfehlungen.
+
+1.1 Kurzbeschreibung des Ereignisses
+Am 22.07.2024 um 20:14 Uhr erfasste der EZ 51978 bei der Durchfahrt durch Gleis 3 im Bahnhof (Bf) Eberbach an dem durch eine elektrische Schiebeschranke gesicherten höhengleichen
+Reisendenübergang (RÜ) ein Kind auf einem Fahrrad.
+
+1.2 Folgen
+Durch die Kollision wurde das Kind tödlich verletzt. Die begleitende Mu er und der Triebfahrzeugführer (Tf) des EZ 51978 wurden durch Schock leicht verletzt.
+
+1.3 Ursachen
+Im Rahmen der Untersuchung des Ereignisses wurden die folgenden Handlungen, Unterlassungen, Vorkommnisse oder Umstände als sicherheitskri sche Faktoren iden fiziert. Diese
+werden gemäß Durchführungsverordnung (EU) 2020/572 in ursächliche oder beitragende,
+und systemische Faktoren unterschieden.
+Zur besseren Übersichtlichkeit der Faktoren wird eine Systema k mit Kennzeichnungen in
+eckigen Klammern verwendet.
+Eine detaillierte Auswertung des Ereignisses unter Einordnung als sicherheitskri sche Faktoren wird in den folgenden Kapiteln gegeben.
+
+Seite 2 von 28
+
+Untersuchungsbericht
+Personenunfall, 22.07.2024, Bf Eberbach
+
+Geschehen:
+Datum/Uhrzeit, sowie
+Handlung / Unterlassen
+/ Umstand / Vorkommnis
+22.07.2024, 20:14 Uhr
+Vorkommnis
+Kind geriet in den Gefahrenbereich des RÜ
+Umstand
+Geschlossene Schranke
+zwischen den Gleisen
+
+Ursächlicher
+Faktor
+
+Beitragender
+Faktor
+
+Systemischer
+Faktor
+
+Betreten des RÜ
+während der
+Durchführung einer Zugfahrt [F1]
+
+Gefahrenbewusstsein
+und –wahrnehmung
+durch Benutzer [S1]
+
+Ausgestaltung des
+RÜ schützt nicht
+alle Reisende hinreichend vor den
+Gefahren des
+Bahnbetriebs [F2]
+
+Rechtliche Zulässigkeit
+[S2a] und unternehmensinterner Bestandsschutz [S2b]
+
+Tabelle 1: Zusammenfassung Einflussfaktoren
+
+1.4 Sicherheitsempfehlungen
+Gemäß § 6 Eisenbahn-Unfalluntersuchungsverordnung (EUV) und Art. 26 Abs. 2 der Richtlinie (EU) 2016/798 ergeht nachfolgende Sicherheitsempfehlung:
+Es wird empfohlen, zur Gewährleistung der Sicherheit von Reisenden entsprechend der Verpflichtung aus § 13 Abs. 4 Eisenbahn-Bau- und Betriebsordnung (EBO), die Risiken von bestehenden RÜ, mindestens solcher mit einsei gen Absperrungen, entsprechend Verordnung (EU)
+2018/762 Anhang II Punkt 3.1.1.1 neu zu bewerten und ggf. Sicherheitsmaßnahmen zu entwickeln.
+
+Seite 3 von 28
+
+Untersuchungsbericht
+Personenunfall, 22.07.2024, Bf Eberbach
+
+2 Die Untersuchung und ihr Kontext
+Die Bundesstelle für Eisenbahnunfalluntersuchung (BEU) ist für die Untersuchung von gefährlichen Ereignissen im Eisenbahnbetrieb im Sinne des Kapitels V der Richtlinie (EU) 2016/798
+auf Eisenbahninfrastrukturen des Bundes und auf nicht bundeseigenen Eisenbahninfrastrukturen des übergeordneten Netzes gemäß § 2b Allgemeines Eisenbahngesetz (AEG) zuständig.
+Ziel und Zweck der eingeleiteten Untersuchungen ist es, die Ursachen des gefährlichen Ereignisses aufzuklären und hieraus Hinweise zur Verbesserung der Sicherheit abzuleiten. Untersuchungen der BEU dienen nicht dazu, ein Verschulden festzustellen oder Fragen der Ha ung
+oder sons ger zivilrechtlicher Ansprüche zu klären und werden unabhängig von jeder gerichtlichen Untersuchung durchgeführt.
+Sicherheitsempfehlungen der BEU zur Vermeidung von gefährlichen Ereignissen und Verbesserung der Eisenbahnsicherheit werden an die na onale Sicherheitsbehörde, sofern es die Art
+der Empfehlung erfordert an die Eisenbahnagentur der Europäischen Union und an andere
+Stellen oder Behörden adressiert. Im Allgemeinen sind die Sicherheitsempfehlungen auch an
+die unmi elbar bzw. mi elbar betroﬀenen sowie alle einschlägigen Eisenbahnunternehmen
+gerichtet.
+Zu schweren Unfällen leitet die BEU stets Untersuchungen gem. Ar kel 20 Abs. 1 Richtlinie (EU) 2016/798 ein. Unter einem schweren Unfall sind insbesondere Zugkollisionen oder
+Zugentgleisungen mit mindestens einem Todesopfer oder mindestens fünf Schwerverletzten
+oder mit beträchtlichem Schaden (≥ 2 Mio. Euro) sowie sons ge Unfälle mit den gleichen Folgen und mit oﬀensichtlichen Auswirkungen auf die Regelung der Eisenbahnsicherheit oder das
+Sicherheitsmanagementsystem zu verstehen. Bei allen sons gen gefährlichen Ereignissen im
+Eisenbahnbetrieb liegt es im Ermessen der BEU Untersuchungen einzuleiten. Bei der Entscheidung werden neben den zum Ereigniszeitpunkt verfügbaren Ressourcen weitere Kriterien
+gem. Ar kel 20 Abs. 2 Richtlinie (EU) 2016/798 herangezogen.
+Aufgrund des gegebenen Schadensausmaßes bzw. der Folgen bei dem vorliegenden gefährlichen Ereignis wurden Untersuchungen auf Grundlage des Ar kels 20 Abs. 1 Richtlinie (EU)
+2016/798 eingeleitet.
+Die Unfalluntersuchungshandlungen werden strukturiert in vier definierten Kernprozessen
+durchgeführt, die mit der Entscheidung zur Aufnahme einer Untersuchung beginnen und mit
+
+Seite 4 von 28
+
+Untersuchungsbericht
+Personenunfall, 22.07.2024, Bf Eberbach
+
+der Veröﬀentlichung des Untersuchungsberichtes abgeschlossen werden. Zur Ursachenermi lung werden ergebnisoﬀene Untersuchungen in allen beteiligten Fachdisziplinen angestellt und hierbei insbesondere Fehler-Ursachen-Analysen und Soll-Ist-Vergleiche durchgeführt.
+Vom örtlich zuständigen Untersuchungsbezirk Südwest wurden die Untersuchungshandlungen federführend geleitet.
+Sofern im Einzelfall geboten, werden die jeweiligen Untersuchungsteams bezirksübergreifend
+unterstützt und notwendige Sachverständigenleistungen extern beau ragt.
+Neben den beteiligten Unternehmen wirkten an der Untersuchung folgende weitere Stellen
+mit:
+
+
+Bundespolizeiinspektion Karlsruhe,
+
+
+
+Eisenbahn-Bundesamt (EBA).
+
+Die Durchführung der Unfalluntersuchung setzt voraus, dass alle an dem gefährlichen Ereignis
+Beteiligten den jeweiligen Meldeverpflichtungen gem. § 2 Abs. 3 EUV nachkommen. Die relevanten Informa onen sind durch die zur Meldung Verpflichteten auf dem neuesten Stand zu
+halten.
+Auf Grundlage des § 5b AEG werden i. d. R. weitergehende zur Untersuchungsdurchführung
+erforderliche Informa onen, Auskün e und Nachweise abgefordert. Diese notwendigen Zuarbeiten konnten mi els Auskun sersuchen gewonnen werden.
+Darüber hinaus können nach § 5b Abs. 4 AEG von den an gefährlichen Ereignissen beteiligten
+Eisenbahnen Unterstützungsleistungen eingefordert werden. Bei dem vorliegenden gefährlichen Ereignis wurden keine Unterstützungsleistungen eingefordert.
+
+Seite 5 von 28
+
+Untersuchungsbericht
+Personenunfall, 22.07.2024, Bf Eberbach
+
+3 Beschreibung des Ereignisses
+Im dri en Kapitel wird das gefährliche Ereignis in zwei vorgegebenen Unterkapiteln näher beschrieben. In Kapitel 3.1 sind neben den Grunddaten weitere Informa onen zum Ereignisort,
+den äußeren Bedingungen, den Beteiligten und den Folgen enthalten. Die Ereignisrekonstrukon sowie Informa onen zur Auslösung und dem Ablauf der Re ungsmaßnahmen sind im
+Kapitel 3.2 dargestellt. Die Beschreibungen beziehen sich grundsätzlich auf die zum Ereigniszeitpunkt vorherrschenden Bedingungen und vorgefundenen Sachverhalte.
+
+3.1 Informationen über das Ereignis und seine Hintergründe
+Bei dem Ereignis handelt es sich um einen Unfall mit Personenschaden im Sinne der Richtlinie (EU) 2016/798.
+Die BEU führt das Ereignis na onal unter der Ereignisart Personenunfall.
+3.1.1 Lage und Beschreibung des Ereignisortes
+Der Ereignisort befand sich im Bf Eberbach, einem Knotenbahnhof der zweigleisigen elektrifizierten Hauptbahn von Neckargemünd über Mosbach-Neckarelz nach Bad Friedrichshall Hbf
+(Neckartalbahn). Die Strecke wurde im Verzeichnis der örtlich zulässigen Geschwindigkeiten (VzG) unter der Streckennummer 4111 geführt. Die Strecke war mit punk örmiger Zugbeeinflussung (PZB) als Zugsicherungssystem und dem digitalen Zugfunk Global System for Mobile Communica ons – Rail (GSM-R) ausgerüstet. Der Bremswegabstand betrug 1.000 m bei
+einer zulässigen Streckenhöchstgeschwindigkeit von 130 km/h. In Eberbach begann die eingleisige nicht elektrifizierte Hauptbahn nach Hanau (Hessische Odenwaldbahn). Diese Strecke
+wurde im VzG unter der Streckennummer 4113 geführt. Die nachfolgende Abbildung zeigt die
+verkehrsgeografische Lage des Bf Eberbach mit dem Fahrweg des EZ 51978.
+
+Seite 6 von 28
+
+Untersuchungsbericht
+Personenunfall, 22.07.2024, Bf Eberbach
+
+Abbildung 1: Lageplan1
+
+Die Ereignisstelle befand sich auf dem RÜ im Gleis 3 des Bf Eberbach in km 21,10. Der höhengleiche RÜ ermöglichte Reisenden die Überquerung der Bahnhofsgleise 3 und 4, um vom
+Bahnsteig B zum Bahnsteig C oder umgekehrt zu gelangen. Der RÜ war mit einer elektrisch
+fernbedienten Schiebeschranke zwischen den Gleisen 3 und 4 gesichert. Die Bedienung erfolgte durch den Fahrdienstleiter (Fdl) Eberbach. Der Gefahrenbereich des RÜ war vom Fdl
+über eine TV-Anlage einsehbar. Der RÜ war über eine Rampe an das nordwestliche Ende des
+Bahnsteigs B angebunden. Die nachfolgende Abbildung zeigt den RÜ vom Bahnsteig B aus gesehen mit geschlossener Schiebeschranke und der Bewegungsrichtung des verunfallten Kindes. Erkennbar sind die an der Schiebeschranke angebrachten Verbotsschilder zum Betreten
+des Gefahrenbereichs. Zum Zeitpunkt der Aufnahme ha e bereits die Dunkelheit eingesetzt.
+
+1
+
+Quelle: Geobasisdaten: © GeoBasis-DE / BKG 2024, bearbeitet durch BEU
+
+Seite 7 von 28
+
+Untersuchungsbericht
+Personenunfall, 22.07.2024, Bf Eberbach
+
+Abbildung 2: RÜ nach dem Unfallereignis2
+
+Das vom EZ 51978 befahrene Gleis 3 war das durchgehende Hauptgleis der Fahrtrichtung
+Mosbach-Neckarelz nach Neckargemünd (- Heidelberg). Die signalisierte Einfahrgeschwindigkeit bei Hp 1 betrug 70 km/h. Die zulässige Geschwindigkeit nach dem VzG betrug 80 km/h im
+Bereich des RÜ.
+Der Bf Eberbach wurde örtlich vom Stellwerk (Stw) „Ef“ gesteuert. Dabei handelte es sich um
+ein Drucktastenstellwerk der Bauart SpDrS 60. Das Stw befand sich am südöstlichen Ende des
+Bahnsteigs A. Die Bedienung erfolgte durch den Fdl Eberbach.
+Die nachfolgende Abbildung zeigt die Gleislageskizze des Bf Eberbach.
+
+2
+
+Quelle: DB InfraGO AG, bearbeitet durch BEU
+
+Seite 8 von 28
+
+Untersuchungsbericht
+Personenunfall, 22.07.2024, Bf Eberbach
+
+Abbildung 3: Gleislageskizze Bf Eberbach3
+
+Die Bahnsteige A (Gleis 1) und B (Gleise 2 und 3) waren durch eine Personenunterführung miteinander verbunden. Über einen Fußgängersteg mit Aufzügen war der Bahnsteig B zudem barrierefrei von beiden Seiten des Bahnhofsareals aus erreichbar. Beide Bahnsteige dienten den
+Zügen der S-Bahn Rhein-Neckar sowie dem Regionalverkehr der Neckartalbahn.
+Über Gleis 3 verkehrten werktäglich 26 S-Bahnen und neun Züge des Regionalverkehrs jeweils
+mit Halt in Eberbach. Der Halteplatz dieser Züge befand sich kurz vor dem RÜ. Diese wieder
+anfahrenden Züge befuhren den RÜ nach dem Halt entsprechend mit niedriger Geschwindigkeit. Zusätzlich verkehrten werktäglich planmäßig sechs durchfahrende Güterzüge über
+Gleis 3.
+Über Gleis 4 fanden keine planmäßigen Zugfahrten sta .
+Der Bahnsteig C (Gleise 4 und 5) konnte weder durch die Unterführung noch über den Fußgängersteg erreicht werden. Der RÜ über die Gleise 3 und 4 war der einzige Zugang. Dieser
+Bahnsteig diente dem Verkehr von und nach Erbach (Odenwald) mit werktäglich je acht endenden und beginnenden Zügen.
+3.1.2 Beteiligte
+Die am Ereignis Beteiligten ha en die folgenden Funk onen:
+Für das Eisenbahninfrastrukturunternehmen (EIU) DB InfraGO AG
+
+3
+
+Quelle: DB InfraGO AG, bearbeitet durch BEU
+
+Seite 9 von 28
+
+Untersuchungsbericht
+Personenunfall, 22.07.2024, Bf Eberbach
+
+
+
+Fdl Eberbach im Stw Eberbach
+
+Für das Eisenbahnverkehrsunternehmen (EVU) DB Cargo AG
+
+
+Tf des EZ 51978
+
+Benutzer des RÜ
+
+
+Reisende mit Kind
+
+3.1.3 Äußere Bedingungen
+Zum Zeitpunkt des Ereignisses herrschten folgende Bedingungen:
+Lichtverhältnisse
+
+Tageslicht
+
+Sicht
+
+klar
+
+Bedeckung
+
+heiter
+
+Temperaturen
+
+23°C
+
+fallender Niederschlag
+
+Nein
+
+Niederschlagshäufigkeit
+
+--
+
+Untergrund / gefallener Niederschlag
+
+trocken
+
+Tabelle 2: Übersicht der äußeren Bedingungen
+
+3.1.4 Todesopfer, Verletzte und Sachschäden
+Bei dem Ereignis traten folgend aufgeführte Personenschäden ein:
+Anzahl Tote
+Reisende
+
+Anzahl schwer Verletzte
+
+1
+
+Anzahl leicht Verletzte
+1
+
+Mitarbeiter
+
+1
+
+Dri e
+Summe
+
+1
+
+-
+
+2
+
+Tabelle 3: Übersicht der Personenschäden
+
+Ein fün ähriges Kind verstarb. Die Mu er des Kindes und der Tf des EZ 51978 erli en einen
+Schock und werden als leicht verletzt aufgeführt. Der BEU wurden keine Sachschäden bekannt.
+
+Seite 10 von 28
+
+Untersuchungsbericht
+Personenunfall, 22.07.2024, Bf Eberbach
+
+3.2 Sachliche Beschreibung der Vorkommnisse
+Zur Rekonstruk on des gefährlichen Ereignisses sowie zur Beschreibung der No allmaßnahmen werden insbesondere auch die in Kapitel 4 enthaltenen Aufzeichnungen, Auswertungen
+und Feststellungen etc. herangezogen.
+3.2.1 Hergangsbeschreibung
+Der EZ 51978 kam gegen 20:10 Uhr vor dem Halt zeigenden Einfahrsignal (Esig) F des Bf Eberbach zum S llstand. Nachdem der Fdl das Esig zur Fahrt durch Gleis 3 auf Fahrt gestellt ha e,
+nahm der Zug ab 20:12 Uhr wieder Fahrt auf. Der Zug fuhr mit zunehmender Geschwindigkeit
+durch den Scheuerbergtunnel und weiter über Gleis 3 am Bahnsteig B entlang in Richtung des
+RÜ. Zeitgleich bewegte sich eine Rad fahrende Reisende mit ihrem ebenso Rad fahrenden Kind
+auf dem Bahnsteig B in Richtung des RÜ. Das Kind fuhr der Mu er voraus. Beide beabsich gten, mit dem um 20:38 Uhr auf Gleis 5 abfahrenden Zug in Richtung Erbach (Odenwald) zu
+fahren. Die Schiebeschranke zwischen Bahnsteig B und Bahnsteig C war zu diesem Zeitpunkt
+geschlossen.
+Auf dem Bahnsteig B vergrößerte sich der Abstand zwischen dem Rad fahrenden Kind und der
+begleitenden Mu er. Das Kind befuhr die leicht abschüssige Rampe Richtung RÜ und geriet in
+den Gefahrenbereich des RÜ während sich der EZ 51978 näherte. Ein Eingreifen der Mu er
+war durch den räumlichen Abstand und die zeitliche Abfolge des Geschehens nicht mehr möglich. Der Tf erkannte unmi elbar vor sich die Kollisionsgefahr und leitete eine Schnellbremsung ein. Das Kind wurde gegen 20:14 Uhr bei einer Geschwindigkeit von 67 km/h vorne links
+vom Triebfahrzeug (Tfz) erfasst und durch den Aufprall weggeschleudert. Es erli dabei tödliche Verletzungen. Der Zug kam nach einem zurückgelegten Weg von ca. 200 m zum S llstand.
+3.2.2 Notfallmanagement
+Nach § 4 Abs. 3 AEG haben die Eisenbahnen die Verpflichtung, an Maßnahmen des Brandschutzes und der technischen Hilfeleistung mitzuwirken. Die Innenministerien der Länder und
+die DB AG haben sich auf folgende Verfahrensweise verständigt. Für die DB InfraGO AG gelten
+die entsprechenden Brand- und Katastrophenschutzgesetze der Länder. Das No allmanagement der DB AG ist in der Konzernrichtlinie 123, das der DB InfraGO AG in der Richtlinie (Ril)
+423 näher beschrieben und geregelt.
+Die Re ungskrä e wurden von den beteiligten Personen umgehend verständigt. Der BEU sind
+keine Verzögerungen bekannt geworden.
+
+Seite 11 von 28
+
+Untersuchungsbericht
+Personenunfall, 22.07.2024, Bf Eberbach
+
+4 Auswertung des Ereignisses
+In diesem Kapitel werden insbesondere die im Rahmen der Unfalluntersuchung ermi elten
+maßgeblichen sicherheitskri schen Faktoren dargestellt. Hierbei wird im jeweiligen Einzelfall
+auf die Aufgaben und Pflichten einzelner Personen und Stellen, auf beteiligte Fahrzeuge und
+technische Einrichtungen genauso eingegangen wie auf konkrete menschliche Handlungen
+sowie auf Feedback- und Kontrollmechanismen. Sofern Informa onen zu früheren Ereignissen
+vorliegen, werden diese in einem weiteren Unterkapitel dargestellt.
+
+4.1 Aufgaben und Pflichten
+In diesem Kapitel werden unbeschadet des Ar kels 20 Abs. 4 der Richtlinie (EU) 2016/798 die
+Aufgaben und Pflichten von Personen und Stellen behandelt, die an dem Ereignis beteiligt waren. Untersuchungen zu Schuld- oder Ha ungsfragen sind explizit ausgeschlossen und nicht
+Untersuchungsgegenstand.
+4.1.1 Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers
+Das verantwortliche EIU DB InfraGO AG verfügte über eine Sicherheitsgenehmigung gemäß
+§ 7c AEG mit einer Gül gkeit bis zum 19.10.2026.
+Gemäß § 4 Abs. 3 AEG sind Eisenbahnen verpflichtet, ihren Betrieb sicher zu führen, die Eisenbahninfrastruktur sicher zu bauen und in betriebssicherem Zustand zu halten. Zudem muss
+gemäß § 4 Abs. 4 AEG i. V. m. der Richtlinie (EU) 2016/798 ein Sicherheitsmanagementsystem (SMS) eingerichtet sein. Inhaltliche Maßstäbe für ein SMS waren die Aufstellung und Einhaltung der in der Verordnung (EU) 2018/762 genannten Anforderungen.
+Zur sicheren Durchführung der Fahrten auf der Infrastruktur der DB InfraGO AG hatte der Fdl
+im Bf Eberbach als Bediener des Stw unternehmensinterne Arbeitsvorgaben zu beachten und
+umzusetzen. Diese fanden sich u. a. in der Fahrdienstvorschrift Ril 408. Ergänzende Regelungen zu örtlichen Besonderheiten wurden im Betriebsstellenbuch des Bf getroffen.
+Die Regelungen zur Sicherung des höhengleichen Übergangs waren im Betriebsstellenbuch
+unter der Fundstelle 408.0491 zu finden. Danach war festgelegt, dass die elektrische Schiebeschranke in Grundstellung geschlossen zu sein ha e. Sie dur e erst geöﬀnet werden, wenn
+keine Fahrten über den RÜ zugelassen waren bzw. zugelassene Fahrten diesen befahren hatten. Zur Absicherung dieser betrieblichen Festlegungen waren in geöﬀnetem Zustand der
+
+Seite 12 von 28
+
+Untersuchungsbericht
+Personenunfall, 22.07.2024, Bf Eberbach
+
+Schiebeschranke durch den Fdl Hilfssperren an den Tasten für Zugstraßen für die betreﬀenden
+Gleise 3 und 4 nach Ril 408.0403 Nr. 1 am Stell sch anzubringen.
+Unternehmenssei g festgelegtes Kriterium für das Öﬀnen der Schiebeschranke war die Ankun oder Abfahrt eines Zuges am Gleis 5. Die Schiebeschranke musste nach Regelwerk in
+„angemessener Zeit“ vor Ankun eines beginnenden oder endenden Reisezuges der Rela on
+Eberbach – Erbach (Odenwald) am Gleis 5 geöﬀnet werden, um Personen den Zugang zum
+Bahnsteig C zu ermöglichen.
+Relevant für das Ereignis war gemäß dem Fahrplan für Zugmeldestellen die vorgesehene Ankun des RE 25181 aus Richtung Erbach (Odenwald) um 20:18 Uhr am Gleis 5 in Eberbach.
+Der Zug verkehrte planmäßig. Die planmäßige Durchfahrtszeit für den EZ 51978 war um
+21:16 Uhr über Gleis 3 vorgesehen. Dieser Zug verkehrte 62 Minuten vor Plan.
+Der EZ 51978 kam zunächst vor dem Esig F des Bf Eberbach zum Halten, da dieses aus nicht
+näher ermi elbaren Gründen noch nicht auf Fahrt stand. Die Einfahr- und die Ausfahrzugstraße über Gleis 3 in Richtung Neckargemünd wurden um ca. 20:11 Uhr gestellt. Der Zug fuhr
+um 20:12 Uhr an und passierte das Esig. Der Einfahrdruck für den EZ 51978 nach dem Hal all
+des Esig war mit 20:13 Uhr im Zugnummerndrucker dokumen ert. Die Durchfahrt am Gleis 3
+in Richtung des RÜ erfolgte um 20:14 Uhr.
+Die Bedienung der elektrischen Schiebeschranke erfolgte durch den Fdl vom Stw aus. Eine
+direkte Sichtverbindung auf den RÜ sowie auf die Annäherungswege war vom Standort des
+Stw aus nicht gegeben. Der Fdl konnte über eine TV-Anlage den Gefahrenbereich des RÜ einsehen. Direkte Lautsprecheransagen durch den Fdl waren seit der Umstellung der Durchsagen
+für Reisende auf ein automa sches System nicht mehr möglich.
+Durch den Halt vor dem Esig verzögerte sich die Fahrt des EZ 51978 durch den Bf Eberbach.
+Dadurch geriet die Durchfahrt des Güterzuges in zeitliche Nähe zur geplanten Ankun des
+RE 25181 auf Gleis 5. Die Handlungen des Fdl waren dennoch im Einklang mit den unternehmenssei g vorgegebenen Regeln:
+
+
+Die Durchfahrt des EZ 51978 war gemäß dem Fahrplan für Zugmeldestellen über
+Gleis 3 vorgesehen.
+
+
+
+Die Schranke war zum Ereigniszeitpunkt geschlossen.
+
+
+
+Der unbestimmte Begriff des „angemessenen“ Zeitraums zum Öffnen der Schiebeschranke vor Zugfahrten am Gleis 5 war zum Ereigniszeitpunkt nicht näher definiert.
+
+Seite 13 von 28
+
+Untersuchungsbericht
+Personenunfall, 22.07.2024, Bf Eberbach
+
+
+
+Vom Stw aus war dem Fdl Eberbach ein Erkennen der gefährlichen Situation oder ein
+aktives Eingreifen nicht gegeben.
+
+4.1.2 Untersuchung der betrieblichen Abläufe des EVU
+Die DB Cargo AG war das für die Zugfahrt EZ 51978 verantwortliche EVU. Sie verfügte über
+eine Sicherheitsbescheinigung gemäß § 7a AEG mit einer Gül gkeit bis zum 13.12.2025 und
+war damit zur Teilnahme am Eisenbahnbetrieb berech gt.
+Die Zugfahrt EZ 51978 verkehrte am Ereignistag gemäß Fahrplan von Heilbronn Gbf nach
+Mannheim Rbf. Planmäßige Durchfahrt in Eberbach war um 21:16 Uhr. Der Zug verkehrte
+62 Minuten vor Plan. Der Zug bestand aus einem Tfz der Baureihe 152 und 26 Güterwagen
+verschiedener Bauarten mit einer Gesamtzugmasse von 892 t und einer Gesamtzuglänge von
+482 m. Die Höchstgeschwindigkeit betrug laut Fahrplan 100 km/h. Im relevanten Abschni
+waren im Fahrplan 70 km/h bzw. ab km 21,3 folgend 80 km/h zugelassen. Der Zug ha e ausreichend Bremshundertstel.
+Die Fahrdaten des Zuges wurden in der elektronischen Fahrtenregistrierung (EFR) des Tfz aufgezeichnet. Die Rohdaten wurden nach dem Ereignis durch die DB Cargo AG ausgelesen und
+der BEU zur Auswertung übergeben.
+Die Normierung der Streckenkilometrierung (fallend) erfolgte anhand der 1.000 Hz-Beeinflussung am Vorsignal f in km 23,417 des Bf Eberbach. Die in der EFR gespeicherten Zeitdaten
+passten zu den im Zugnummerndrucker registrierten Zeiten. Die zulässigen Höchstgeschwindigkeiten wurden im betrachteten Zeitraum nicht überschri en.
+Die nachfolgende Abbildung zeigt eine grafische Darstellung der EFR-Daten des EZ 51978 für
+den Bereich der Ereignisörtlichkeit.
+
+Seite 14 von 28
+
+Untersuchungsbericht
+Personenunfall, 22.07.2024, Bf Eberbach
+
+Abbildung 4: Grafische EFR-Auswertung
+
+Der EZ 51978 erhielt am Vorsignal f eine 1.000 Hz-Beeinflussung, reduzierte darau in weiter
+seine Geschwindigkeit und kam gegen 20:10 Uhr ca. 90 m vor dem Halt zeigenden Esig F des
+Bf Eberbach zum Stehen. Um 20:12 Uhr fuhr der Zug wieder an und passierte das Esig ohne
+weitere Beeinflussungen. Anschließend beschleunigte der Zug gleichmäßig bis auf max.
+67 km/h. Um 20:14:20 Uhr interner Zeit ca. bei km 21,095, bezogen auf die Zugspitze etwa
+5 m nach dem RÜ, war ein Druckverlust in der Hauptlu leitung registriert. Dies war die Folge
+einer zuvor vom Tf eingeleiteten Schnellbremsung. Unter Berücksich gung einer Ansprechzeit
+der Bremsanlage hat der Tf ca. in km 21,11, also unmi elbar vor dem RÜ die gefährliche Situa on erkannt und eine Schnellbremsung eingeleitet. Die Kollision war aus Sicht des Tf unvermeidlich. Der Zug kam nach 18 Sekunden und einem zurückgelegten Weg von ca. 200 m ab
+Beginn der Bremswirkung um 20:14:38 Uhr interner EFR-Zeit zum S llstand. Anschließend
+setzte der Tf einen Notruf ab.
+
+4.2 Fahrzeuge und technische Einrichtungen
+In diesem Kapitel sind die Erkenntnisse aus der Untersuchung beteiligter Fahrzeuge, der Eisenbahninfrastruktur und weiterer technischer Einrichtungen einschließlich damit eventuell
+verbundener Tä gkeiten und Entscheidungen dargestellt.
+4.2.1 Untersuchung von Fahrzeugen
+Aufgrund des Ereignishergangs wurde auf eine nähere Untersuchung des beteiligten Tfz verzichtet. Hinweise auf einen Einfluss auf das Geschehen lagen nicht vor.
+
+Seite 15 von 28
+
+Untersuchungsbericht
+Personenunfall, 22.07.2024, Bf Eberbach
+
+4.2.2 Untersuchung der bautechnischen Infrastruktur
+Der RÜ in km 21,10 im Bf Eberbach schloss an das nordwestliche Ende des Bahnsteigs B an.
+Der RÜ bestand in dieser Form mit elektrischer Schiebeschranke zwischen den Gleisen seit
+Mi e der 1970er Jahre. Die bauliche Ausgestaltung des RÜ orien erte sich, soweit ermi elbar,
+an der damaligen Ril 818. Mit Eröﬀnung der Linie S1 der S-Bahn Rhein-Neckar im Jahre 2003
+wurde der Bahnsteig B auf eine Systemhöhe von 76 cm über Schienenoberkante erhöht und
+zur Anbindung des RÜ eine Rampe hinab zum alten Bahnsteigniveau angelegt. Zusammen mit
+der vorhandenen Absenkung im alten Bahnsteigbereich zum Niveau der Schienenoberkante
+ergab sich eine Gesamthöhendiﬀerenz von 76 cm auf einer Länge von ca. 12 m. Die Rampenneigung entsprach dem geltenden Regelwerk. Das Gefälle endete unmi elbar am Gefahrenbereich des Gleises. Die nachfolgende Abbildung zeigt die Situa on ungefähr aus der Sicht
+eines Tf. Die Neigungsverhältnisse sind gut erkennbar.
+
+Abbildung 5: Blick zum RÜ aus Fahrtrichtung des Zuges
+
+Zur Kennzeichnung des Gefahrenbereichs war vor dem RÜ auf der Zugangsseite vom Bahnsteig B eine weiße, als Warnlinie gedachte Linie am Boden aufgebracht. Diese war zum Ereigniszeitpunkt stark verblichen (siehe Abbildung 2; Anmerkung: Zum Zeitpunkt der Aufnahme
+der Abbildung 5 und Abbildung 6 waren die Bodenmarkierungen bereits umfassend erneuert).
+Die nachfolgende Abbildung zeigt einen Blick auf die geschlossene Schiebeschranke.
+
+Seite 16 von 28
+
+Untersuchungsbericht
+Personenunfall, 22.07.2024, Bf Eberbach
+
+Abbildung 6: geschlossene Schiebeschranke mit Warnschildern
+
+An der Schiebeschranke waren Verbotsschilder angebracht, die im geschlossenen Zustand das
+Betretungsverbot der Gleisanlagen verbal „Betreten der Gleise bei geschlossener Absperrung
+verboten“ und mi els Piktogramm symbolisierten. Das vorhandene Piktogramm bzw. Schild
+lehnte sich an das in den einschlägigen Normen verankerte Schild D-P006 an. Es zeigte ein
+entsprechend anerkanntes Symbol nach DIN EN ISO 7010 sowie der früheren DIN 4844.2. Die
+Schiebeschranke war zwischen den Gleisen 3 und 4 installiert und sollte im geschlossenen Zustand in Kombina on mit dem vorhandenen Piktogramm ein Überschreiten beider Gleise verhindern. Sie verhinderte jedoch nicht das Betreten des davorliegenden Gefahrenbereichs von
+der jeweiligen Bahnsteigseite aus. Dieser Sachverhalt wird als ursächlicher Faktor [F2] für das
+Geschehen angesehen.
+Bodenindikatoren als Orien erungshilfe für blinde oder sehbehinderte Personen nach
+DIN 18040-3 bzw. Ril 813.0205 waren am RÜ nicht vorhanden. Insbesondere fehlte ein tak les
+Aufmerksamkeitsfeld vor dem Gefahrenbereich des RÜ, mit dem dieser Personenkreis üblicherweise auf Gefahren und Hindernisse im Gehbereich hingewiesen wird. Insofern ist fraglich, ob der RÜ aufgrund fehlender visueller und tak ler Markierungen die Anforderungen aus
+Kapitel 4.2.1.15 Abs. 3 der Verordnung (EU) 1300/2014 über die technischen Spezifika onen
+für die Interoperabilität bezüglich der Zugänglichkeit des Eisenbahnsystems der Union für
+Menschen mit Behinderungen und Menschen mit eingeschränkter Mobilität (TSI-PRM) ausreichend berücksich gt.
+
+Seite 17 von 28
+
+Untersuchungsbericht
+Personenunfall, 22.07.2024, Bf Eberbach
+
+Für den RÜ wurde ein RÜ-Pass entsprechend dem seit April 2020 geltenden neuen Regelwerk
+Ril 816 erstellt und der BEU zur Einsichtnahme vorgelegt. Der RÜ-Pass spiegelte die vor Ort
+vorgefundenen Gegebenheiten und die im Betriebsstellenbuch getroﬀenen Regeln wider. Entsprechend der Festlegung des EIU in Ril 816.0000 Abs. 18 galt für Anlagen, die vor der Einführung dieser Ril errichtet wurden ein unternehmensinterner Bestandsschutz (siehe hierzu Kapitel 4.4). Hierdurch kamen lediglich die Bes mmungen aus den Instandhaltungsvorgaben der
+neuen Ril 816 für die Bestandsanlage in Eberbach zur Anwendung.
+Gemäß den Vorgaben dieser Ril waren alle RÜ, also Alt- und Neuanlagen, wiederkehrend auf
+verkehrliche Änderungen zu prüfen sowie regelmäßigen Inspek onen zu unterziehen. Entsprechende Inspek onsnachweise wurden zur Einsichtnahme vorgelegt. Die letzte Inspek on
+des RÜ seitens der Fachlinie Fahrbahn fand am 26.03.2024 sta . Mängel wurden nicht festgestellt, obwohl die Warnlinien augenscheinlich einer Nachbearbeitung bedur en, was auch bereits bei der Inspek on hä e auﬀallen müssen. Die Prüfung auf verkehrliche Änderungen wurden nach Angaben der DB InfraGO AG „im Detail nicht dokumen ert“. Allerdings habe es keinerlei Hinweise auf etwaige Veränderungen gegeben, die eine Besei gung des RÜ erfordert
+hä en. Die Verkehrszahlen lägen deutlich unterhalb der eigenen vorschri ensei g gesetzten
+Grenze von 5.000 Reisenden/Tag.
+4.2.3 Untersuchung der Leit‐ und Sicherungstechnik
+Die elektrische Schiebeschranke war nicht signalabhängig und wurde durch einen Tastschalter
+im Stw-Raum bedient. Die Kontrolle des Zustands der Schiebeschranke erfolgte über den TVMonitor durch den Fdl.
+Die Einfahrzugstraße vom Esig F über Gleis 3 bis zum Ausfahrsignal P3 war mit dem Signalbegriﬀ Hp1 in Verbindung mit dem Geschwindigkeitsanzeiger Zs3 Kz 7 signalisiert. Die signalisierte Geschwindigkeit von 70 km/h galt für durchfahrende Züge bis zum Ausfahrsignal P3 in
+km 21,022 und somit auch für das Befahren des vor dem Ausfahrsignal liegenden RÜ.
+Die sicherungs- und elektrotechnischen Anlagen von RÜ sind auch durch die Fachlinie Leitund Sicherungstechnik und Elektrotechnik zu inspizieren. Die letzte diesbezügliche Inspek on
+der Schiebeschranke fand am 28.06.2024 sta .
+Hinweise auf einen Einfluss der signaltechnischen Anlagen auf das Ereignis lagen nicht vor.
+
+Seite 18 von 28
+
+Untersuchungsbericht
+Personenunfall, 22.07.2024, Bf Eberbach
+
+4.3 Menschliche Faktoren
+In diesem Kapitel werden Untersuchungserkenntnisse zu menschlichen Handlungen und oder
+Entscheidungen am gefährlichen Ereignis beteiligter Personen dargestellt. Entsprechende Erkenntnisse können sich hierbei insbesondere im Bereich menschlicher und individueller Merkmale sowie organisatorischer und Arbeitsplatzfaktoren ergeben.
+4.3.1 Beteiligte des Infrastrukturbetreibers
+Der Fdl absolvierte im Februar 2023 erfolgreich die Prüfung zum Fdl und war zunächst in
+Neckargemünd im Einsatz. Im Mai 2024 absolvierte er die örtliche Verwendungsprüfung für
+das Stw Eberbach und war anschließend überwiegend dort eingesetzt. Die Teilnahme des Fdl
+an den vorgeschriebenen regelmäßigen Fortbildungsunterrichten wurde nachgewiesen. Ein
+aktueller Tauglichkeitsnachweis wurde zur Einsichtnahme vorgelegt. Der Fdl wurde regelmäßig und nachweislich bei seiner Dienstausübung überwacht.
+4.3.2 Beteiligte der EVU
+Der Tf war im Besitz eines gül gen EU-Triebfahrzeugführerscheins sowie einer vom EVU ausgestellten Zusatzbescheinigung, die ihn berech gte, das Tfz zu führen. Die erforderlichen Qualifika onsunterlagen sowie ein Tauglichkeitsnachweis wurden zur Einsichtnahme vorgelegt.
+Der Tf war im relevanten Bereich streckenkundig. Im Rahmen der durchgeführten Überwachungsfahrten durch seinen Arbeitgeber wurden keine Unregelmäßigkeiten dokumen ert.
+4.3.3 Reisende
+Die Reisende beabsich gte, mit ihrem Kind um 20:38 Uhr mit dem Zug RE 25188 von Gleis 5
+in Richtung Erbach (Odenwald) zu fahren. Beide Personen befuhren jeweils mit einem Fahrrad
+den Bahnsteig B parallel zur Fahrtrichtung des EZ 51978 in Richtung des RÜ. Das Kind fuhr der
+Mu er voraus. Die aushängende Hausordnung des zuständigen Bahnhofsmanagements der
+DB InfraGO AG untersagte das Befahren von Bahnsteigen mit dem Fahrrad. Fahrräder dur en
+lediglich geschoben mitgeführt werden. Die Hausordnung untersagte zudem generell das
+Überschreiten der Gleise mit dem in Klammern gesetzten Zusatz „Ausnahmen sind örtlich geregelt“. Näheres wurde dazu nicht ausgeführt.
+Inwieweit die Regelungen der Hausordnung der Reisenden gegenwär g und verständlich waren, sowie deren Verhalten beeinflussten, wurde in die weitere Betrachtung nicht einbezogen.
+
+Seite 19 von 28
+
+Untersuchungsbericht
+Personenunfall, 22.07.2024, Bf Eberbach
+
+Das Kind befuhr im Beisein der Mu er mit dem Fahrrad die leicht abschüssige Rampe zum RÜ
+und geriet unmi elbar vor der Zugfahrt in den Gefahrenbereich des RÜ. Dieser Sachverhalt
+wird als ursächlicher Faktor [F1] des Ereignisses angesehen. Der Ausschluss dieses Handelns
+hä e das Ereignis aller Wahrscheinlichkeit nach verhindert. Durch den entstandenen räumlichen Abstand des Kindes zur Mu er und die zeitliche Abfolge des Geschehens war ein Eingreifen dieser nicht mehr möglich.
+Entsprechend der in Kapitel 2 genannten Zielsetzung der Unfalluntersuchungsstelle kommt es
+im Rahmen der hier vorliegenden Unfalluntersuchung nicht auf Schuld- oder Ha ungsfragen
+an. Diese waren nicht Gegenstand der Ermi lungen und sind nicht Gegenstand der Darstellung im Untersuchungsbericht. Insoweit erfolgen im Zuge dieser Untersuchung auch keine Betrachtungen zu möglichen Aufsichtspflichten.
+
+4.4 Feedback‐ und Kontrollmechanismen
+In diesem Kapitel wird insbesondere auf Bedingungen, Feedback- und Kontrollmechanismen
+im Eisenbahnsystem eingegangen, denen ein Einfluss auf die Entstehung ähnlicher Ereignisse
+zugeschrieben werden könnte. Diese Mechanismen schließen Faktoren des Risiko- und Sicherheitsmanagement sowie Überwachungsverfahren mit ein.
+Rahmenbedingungen
+Entsprechend der in Kapitel 2 genannten Zielsetzung der Unfalluntersuchungsstelle erfolgen
+im Zuge der Darstellung der Rahmenbedingungen auch keine Betrachtungen zu möglichen
+Verkehrssicherungspflichten.
+Gemäß § 11 Abs. 1 EBO galten zum Ereigniszeitpunkt Übergänge für Reisende nicht als Bahnübergänge. Insofern waren die für die technische Sicherung der Bahnübergänge geltenden
+umfangreichen Bes mmungen nicht auf RÜ anzuwenden. Daher bes mmte der Verordnungsgeber in § 13 Abs. 4 EBO ausdrücklich, dass für den Schutz von Reisenden, die RÜ überschreiten müssen, zu sorgen ist. Konkrete Vorgaben oder Maßnahmen, wie der Schutz erreicht werden sollte, waren nicht angeordnet. Die erforderlichen Maßnahmen waren demzufolge nach
+allen Umständen des Einzelfalls zu bes mmen und zu ergreifen.
+
+Seite 20 von 28
+
+Untersuchungsbericht
+Personenunfall, 22.07.2024, Bf Eberbach
+
+Gleichzei g ha e der Verordnungsgeber in § 63 Abs. 2 EBO Reisenden eine unmi elbare Mitwirkungspflicht auferlegt. Danach galten geschlossene Absperrungen an Übergängen für Reisende als Verbot, die Gleise zu überschreiten, auch bei einer zwischen oder hinter den Gleisen
+angebrachten Absperrung.
+Aus der Benennung dieser Art der Sicherung durch den Verordnungsgeber dür e sich mi elbar eine grundsätzliche Zulässigkeit einer geschlossenen Absperrung zwischen den Gleisen als
+zulässige Sicherungsmaßnahme nach der EBO ableiten lassen. Denn wäre diese Art der Sicherung nicht EBO-konform im Sinne der Anforderungen an die Bahnanlagen, dür en an die Reisenden keine entsprechenden Ge- oder Verbote zur Nutzung genau dieser Anlagen gerichtet
+werden. Der § 63 Abs. 2 EBO wurde 1967 als Ergänzung der in der Betriebsordnung von 1928
+bestehenden Regelungen zum Verhalten der Reisenden auf dem Gebiet der Bahnanlagen in
+die EBO eingefügt. Maßgeblich für die Ergänzung waren ausweislich der amtlichen Begründung prak sche Erfahrungen. Die Bes mmung war seitdem unverändert in der EBO enthalten.
+Diese bestehende rechtliche Benennung und mi elbare Zulässigkeit dieser Sicherungsart nach
+EBO wird als systemischer Faktor [S2a] für das Geschehen angesehen, da sich diese rechtlichen
+Rahmenbedingungen auf zukün ige und ähnliche Ereignisse auswirken dür en.
+Der RÜ in Eberbach wurde seitens des Betreibers DB InfraGO AG als eine mitarbeiterbediente
+Absperrung nach Ril 408.1491 eingestu . Für diese Anlagen gab es zum Ereigniszeitpunkt
+keine einheitlich vorgegebenen bautechnischen Vorgaben zur Gestaltung des RÜ. Die unternehmensinterne Zulässigkeit dieser RÜ-Sicherung mit Schiebeschranke zwischen den beiden
+Gleisen gründete sich neben den vorgenannten Regelungen in der EBO auf das innerbetriebliche Regelwerk der früheren Fahrdienstvorschri DS 408 § 24 der Deutschen Bundesbahn
+bzw. weitergeführt im aktuellen Regelwerk Ril 408.1491 der DB InfraGO AG. Demnach war
+eine geschlossene Absperrung unmi elbar vor, zwischen oder unmi elbar hinter den Gleisen
+als Sicherung eines RÜ ausreichend.
+Sowohl das vorgenannte, in der EBO verankerte Betretungsverbot eines RÜ bei geschlossener
+Absperrung als auch die geschlossene Schiebeschranke zwischen den Gleisen schützt aber beispielsweise nicht systema sch Personen,
+
+
+die Hinweise und Örtlichkeiten sowie das daraus gebotene Verhalten nicht erfassen
+können (z. B. Kinder),
+
+
+
+die unaufmerksam sind (z. B. Reisende in Eile, Handynutzer) und
+
+Seite 21 von 28
+
+Untersuchungsbericht
+Personenunfall, 22.07.2024, Bf Eberbach
+
+
+
+die Hinweise und Anlagen nicht erkennen können (Blinde, Sehbehinderte).
+
+Für diese Personenkreise besteht die Gefahr, den RÜ unbeabsich gt oder unbewusst zu betreten. Die vorhandene Ausgestaltung des RÜ verlangte vom Benutzer sowohl Gefahrenbewusstsein als auch Gefahrenwahrnehmung. Dieser Sachverhalt wird als systemischer Faktor
+[S1] für das Geschehen bewertet. Die so verwirklichte Reisendensicherung dür e sich in der
+Zukun auf ähnliche und damit zusammenhängende Ereignisse auswirken. Zudem bedeutet
+die vorliegende Sicherungsart des RÜ bei einem Fehlverhalten eine erhebliche Gefahr für Leib
+und Leben des Reisenden, da eine Kollision mit einem durchfahrenden Eisenbahnfahrzeug
+durchaus wahrscheinlich ist.
+Risikobetrachtung, Weiterentwicklung
+Unter der Federführung der Universität Karlsruhe wurden im Jahr 2002 anhand wissenscha licher Methoden die Risiken verschiedener Sicherungsmaßnahmen für RÜ ermi elt und in einer umfassenden Risikoanalyse bewertet. Auf dieser Grundlage wurde im Jahr 2004 von der
+damaligen DB Netz AG die Ril 413.0502, später Ril 408.0504, erstellt. Diese Herangehensweise
+ermöglichte eine standardisierte Auswahl von Sicherungsmaßnahmen für höhengleiche RÜ,
+die unter Berücksich gung örtlicher Gegebenheiten geeignet waren, die örtlich gegebenen
+Risiken auf ein akzeptables Niveau zu senken.
+Wesentliches Element war das Berechnungsprogramm RÜ-BE, mit dem nach Eingabe verschiedener örtlicher Parameter eine geeignete und verbindlich anzuwendende Sicherungsart
+für einen RÜ ermi elt werden konnte. Dieses Berechnungsprogramm wurde im Jahr 2019 von
+der RWTH Aachen gutachterlich überprü . Ziel war der unabhängige Nachweis, dass das bestehende Berechnungsmodell zur Risikobewertung durch das Programm RÜ-BE korrekt abgebildet wurde.
+Eine geeignete Sicherung eines RÜ nach Ril 816 berücksich gte zwei Aspekte. Zum einen war
+dies die Verhinderung des Betretens des Gefahrenbereichs durch eine physische Absperrung
+(Schranke) oder eine Aufmerksamkeitserhöhung durch op sche und akus sche Hinweise
+(z. B. Licht- und Tonsignal). Zum anderen sollten durch Anpassungen der Modalitäten für das
+Befahren von RÜ durch Eisenbahnfahrzeuge die Auswirkungen von poten ellen Fehlhandlungen von Reisenden reduziert werden. Dies wurde erreicht durch deutliche Geschwindigkeitsreduzierungen für das Befahren eines RÜ ggf. in Verbindung mit z. B. einem zwingenden Halt
+
+Seite 22 von 28
+
+Untersuchungsbericht
+Personenunfall, 22.07.2024, Bf Eberbach
+
+vor dem RÜ. Damit sollten im Gegensatz zu Bahnübergängen die besonderen Risiken an RÜ
+wirksam abgefangen werden.
+Das EBA sowie einschlägige Verbände waren mit dieser Weiterentwicklung der Sicherungsmöglichkeiten von RÜ befasst bzw. in die Erarbeitung der Festlegungen eingebunden.
+Ergänzend zu den betrieblichen Regeln sollte die bauliche und technische Ausgestaltung von
+technisch und nich echnisch gesicherten RÜ in die Ril 819 aufgenommen werden. Ab 2014
+wurde hingegen angestrebt, alle für die Planung, Bau und Instandhaltung notwendigen Informa onen fortzuentwickeln und in einer Ril zu bündeln. Diese neue Ril 816 wurde zum
+01.04.2020 herausgegeben und war am Ereignistag gül g. Sie basierte inhaltlich auf den zuvor
+entwickelten, risikoorien erten Regeln. Für die vorgenannten fortlaufenden Änderungen der
+Ril 819 bis hin zur Ril 816 wurden die Risikobetrachtungen nach Durchführungsverordnung (EU) 402/2013 über die gemeinsamen Sicherheitsmethoden für die Evaluierung und Bewertung von Risiken (CSM-RA) durchgeführt.
+Durch diese langjährige Weiterentwicklung der Vorschri en für die Ausgestaltung von RÜ
+wurden zum einen die den RÜ innewohnenden besonderen Risiken umfassend ermi elt und
+benannt, und zum anderen ein standardisiertes Maßnahmenpaket zur Reduzierung dieser Risiken für Planung, Bau und Betrieb von RÜ bereitgestellt.
+Bestandsschutz
+Die DB InfraGO AG wies ausdrücklich darauf hin, dass RÜ mit Sicherung durch Mitarbeiter (hier
+vorliegend) und RÜ nach der neuen Ril 816 unterschiedlich und getrennt voneinander zu betrachten waren. Die vorgenannte neue Ril ist nach eigener Festlegung des EIU in
+Ril 816.0000 Abs. 1 nur für Neubauten von RÜ sowie bei wesentlichen Änderungen an RÜ anzuwenden. Als wesentliche Änderungen galten dabei z. B. Änderungen der Ein- und Ausfahrgeschwindigkeiten, Änderung des RÜ-Typs oder Änderungen der Standorte von Signalen. In
+der Ril 816.0000 Abs. 18 war ausdrücklich festgelegt, dass für RÜ, die vor der Einführung dieser Ril errichtet wurden, grundsätzlich Bestandsschutz gelte. Gleichlautende Festlegungen
+fanden sich bereits in den Vorgängerversionen Ril 408.0504. Das bedeutet, dass die bis zur
+Entwicklung der neuen Ril 816 vorhandenen Altanlagen nach Auﬀassung des EIU ohne bauliche Veränderungen auch über den Ereignistag hinweg weiter betrieben werden dur en. Dieser Sachverhalt wird ebenfalls als systemischer Faktor für das Geschehen angesehen [S2b].
+
+Seite 23 von 28
+
+Untersuchungsbericht
+Personenunfall, 22.07.2024, Bf Eberbach
+
+Dieses managementspezifische Herangehen dür e sich in der Zukun auf ähnliche und damit
+zusammenhängende Ereignisse auswirken.
+Genaue Informa onen zur Erstellung des RÜ in Eberbach waren nicht mehr ermi elbar. Der
+RÜ bestand in dieser Form mit elektrischer Schiebeschranke zwischen den Gleisen bereits über
+mehrere Jahrzehnte. Wesentliche Änderungen im Umfeld des RÜ waren nach Angaben des
+EIU nicht erfolgt. Der RÜ fiel daher unter die vom EIU selbst gesetzte Defini on einer Altanlage
+mit Bestandsschutz.
+Nach Angaben des EIU gab es für die Erstellung und den Betrieb dieser Altanlagen im Allgemeinen und des betroﬀenen RÜ in Eberbach im Speziellen keine Risikobewertung und keine
+Risikoanalyse. Der RÜ exis ere bereits seit mehreren Jahrzehnten. Eine bauliche Veränderung
+habe seit Vorhandensein der Regeln für eine Risikobetrachtung nicht sta gefunden. Damit
+bestünde kein Anlass, eine Risikobetrachtung für den konkreten RÜ durchzuführen.
+Allerdings würden Risiken bezogen auf das Kriterium 3.1.1.1 der Verordnung (EU) 2018/762
+Anhang II über interne Sicherheitsprozesse im Allgemeinen iden fiziert und geprü . Das EIU
+hat dargelegt, dass diese im SMS hinterlegte Vorgehensweise die betroﬀene Sicherungsart
+zwar inkludiere, aber nicht explizit und detailliert auﬀühre.
+Festzuhalten bleibt, dass die Risiken des unter unternehmensintern festgelegtem Bestandsschutz stehenden RÜ Eberbach mit der vorgefundenen Sicherungsart „Schranke zwischen den
+Gleisen“ durch das EIU nicht ausführlich erfasst und bewertet wurden.
+Betreiberverantwortung
+Im öﬀentlich-rechtlichen Eisenbahnrecht ist an die Eisenbahn auf gesetzlicher Ebene eine dynamische Betreiberverantwortung nach § 4 Abs. 3 AEG gerichtet. Danach sind Eisenbahnen
+verpflichtet, die Eisenbahninfrastruktur sicher zu bauen und dauerha in betriebssicherem
+Zustand zu halten. Präzisiert wird dies auch durch die Begriﬀsbes mmung in § 2 Abs. 7f AEG,
+wonach begriﬄich von der Unterhaltung einer Betriebsanlage auch die Anpassung an geltendes Recht oder die anerkannten Regeln der Technik umfasst ist. Auch § 2 Abs. 1 EBO regelt,
+dass Bahnanlagen so beschaﬀen sein müssen, dass sie den Anforderungen der Sicherheit und
+Ordnung genügen. Diese Anforderungen gelten hiernach als erfüllt, wenn die Bahnanlagen, in
+Ermangelung expliziter Vorgaben in der EBO, den anerkannten Regeln der Technik entsprechen.
+
+Seite 24 von 28
+
+Untersuchungsbericht
+Personenunfall, 22.07.2024, Bf Eberbach
+
+In der Summe bedeutet dies, dass zwar keine ständigen Anpassungen von Anlagen erforderlich, aber regelmäßige Überprüfungen notwendig sind, ob eine Regelung noch angemessen ist
+oder eine Anlage weiterhin der Sicherheit und Ordnung genügt. Durch die Entwicklung der
+Ril 816 und deren Aufnahme in die Eisenbahnspezifischen Technischen Baubes mmungen
+(EiTB) des EBA wurden die Vorgaben der Ril 816 als technische Baubes mmung etabliert und
+wurden zuletzt von maßgeblichen Akteuren des Eisenbahnsystems als anerkannte Regeln der
+Technik angesehen.
+Eine überschlägige Betrachtung durch die BEU mit dem Berechnungstool RÜ-BE der neuen
+Ril 816 für den RÜ Eberbach zeigt hypothe sch betrachtet, dass die vorgefundene technische
+Ausgestaltung des RÜ nicht den Vorgaben der neuen Ril 816 entsprechen würde. Dies begründet sich insbesondere durch die zugelassenen Zugdurchfahrten. Zudem ist die Sicherungsart
+„Absperrung zwischen den Gleisen“ im neuen Regelwerk als Variante einer Altanlage zwar
+noch aufgeführt, bei Um- und Neubauten aber generell nicht mehr vorgesehen.
+
+4.5 Frühere Ereignisse ähnlicher Art
+Der BEU sind keine vergleichbaren Ereignisse bekannt.
+
+Seite 25 von 28
+
+Untersuchungsbericht
+Personenunfall, 22.07.2024, Bf Eberbach
+
+5 Schlussfolgerungen
+Das folgende Kapitel enthält eine Zusammenfassung der ermi elten ursächlichen, beitragenden und systemischen Faktoren. Zusätzlich sind zwei weitere Unterkapitel vorgesehen, um
+Informa onen zu bereits ergriﬀenen Maßnahmen und zu zusätzlichen Bemerkungen zu teilen.
+
+5.1 Zusammenfassung und Schlussfolgerung
+Ursächlich für das Ereignis war, dass das Kind auf dem RÜ in den Gefahrenbereich des Gleises
+geraten war und dadurch vom durchfahrenden EZ 51978 erfasst wurde [F1]. Die Ausgestaltung der Altanlage war nicht geeignet, um Fehlhandlungen von Reisenden im Allgemeinen und
+des Kindes im Speziellen systema sch sicher zu vermeiden oder deren Folgen abzufangen [F2].
+Dies hat organisatorische bzw. managementspezifische Hintergründe [S1] bzw. [S2].
+Mit der Entwicklung der Ril 816 bzw. deren Vorläufern ab 2002 wurde deutlich, dass erhebliche Risiken bei den bis dahin angewandten vielfäl gen Sicherungsmaßnahmen an RÜ zu beherrschen waren. Zwischenzeitlich wurden die Vorgaben der Ril 816 als anerkannte Regeln
+der Technik angesehen. Demgegenüber ha e das EIU ohne Befristung bes mmt, dass diese
+weiterentwickelten Regeln nicht auf Altanlagen wie z. B. den RÜ in Eberbach anzuwenden waren, obwohl die Regeln geeignet waren, die Risiken an RÜ auf ein akzeptables und vertretbares
+Maß zu senken. Die in § 4 Abs. 3 AEG definierte dynamische Betreiberverantwortung bedeutet
+im Kern, dass Anlagen regelmäßig auf deren Sicherheit hin kri sch zu überprüfen und bei Vorliegen neuer Erkenntnisse oder konkreter Ereignisse anzupassen sind. Eine entsprechende
+Überprüfung und an der Entwicklung der einschlägigen Regeln gespiegelte Betrachtung durch
+das EIU war für die Bestandsanlage im Bf Eberbach vorliegend nicht dokumen ert. Vor diesem
+Hintergrund wäre eine Überprüfung der etablierten Praxis zum Bestandsschutz von RÜ-Altanlagen dringend geboten.
+Zudem trägt der gesellscha liche Wandel zu einer geänderten Wahrnehmung derar ger Anlagen und den daraus entstandenen Risiken bei. Insofern dür e es fraglich sein, ob die untergesetzlichen Regelungen der EBO mit Stand von 1967 vor dem Hintergrund des Ereignisses
+noch als zeitgemäß angesehen werden können. Dies gilt umso mehr, da in der Vergangenheit
+gewonnene, prak sche Erfahrungen zu entsprechenden Anpassungen der EBO geführt haben.
+Das in der EBO verankerte Betretungsverbot eines RÜ bei geschlossener Absperrung zwischen
+den Gleisen schützt nicht systema sch den in Kapitel 4.4 genannten Personenkreis und ist
+daher in seiner Wirksamkeit zu hinterfragen.
+
+Seite 26 von 28
+
+Untersuchungsbericht
+Personenunfall, 22.07.2024, Bf Eberbach
+
+Das vorliegende Ereignis verdeutlicht die Notwendigkeit, die seitens des EIU unternehmensintern getroﬀene, generelle Festlegung eines Bestandsschutzes von RÜ-Altanlagen kri sch zu
+überprüfen. Auch für diese Altanlagen und dem damit verbundenen Betrieb sind gemäß Verordnung (EU) 2018/762, Anhang II, Kapitel 3.1.1.1 alle betrieblichen, organisatorischen und
+technischen Risiken, die für die Art und den Umfang der von der Organisa on durchgeführten
+Tä gkeiten relevant sind, zu erfassen, zu analysieren und zu evaluieren sowie Sicherheitsmaßnahmen zu entwickeln. Hierzu spricht die BEU eine Sicherheitsempfehlung aus, siehe Kapitel 6.
+Entsprechend den Anforderungen aus § 4 Abs. 3 AEG und dem Umfang der Unterhaltung von
+Betriebsanlagen nach § 2 Abs. 7f AEG kann es erforderlich sein, die als anerkannte Regeln der
+Technik geltenden, weiterentwickelten Grundsätze der Ril 816 auf bestehende Altanlagen
+bzw. –typen auszuweiten oder inhaltlich zu erweitern, um die Risiken, auch solche aus erwartbaren Fehlhandlungen von Reisenden, an RÜ weiter zu minimieren.
+
+5.2 Seit dem Ereignis getroffene Maßnahmen
+Das EIU hat nach dem Ereignis die weißen Sicherheitslinien auf dem Boden zur Kennzeichnung
+des Gefahrenbereichs des RÜ erneuert. Weitere Maßnahmen insbesondere baulicher Art sind
+nach Angaben des EIU nicht vorgesehen, da nach dessen Ansicht ansonsten der in Ril 816 formulierte Bestandsschutz erlöschen würde.
+Die Regelungen im Betriebsstellenbuch des Bf Eberbach zum RÜ wurden präzisiert. Unter anderem wurde für das Öﬀnen der Schiebeschranke nun eine konkrete Zeitvorgabe von mindestens fünf Minuten vor Zugankun am Gleis 5 vorgegeben.
+Gegenüber dem EBA hat das EIU mitgeteilt, dass vor dem Hintergrund des Ereignisses und
+unter Berücksich gung menschlich-organisatorischer Faktoren eine Bewertung dieser Sicherungsart (-en) im Einklang mit der Verordnung (EU) 402/2013 vorgenommen werden solle.
+Die Bundespolizeiinspek on Karlsruhe hat mit Schreiben vom 16.01.2025 ihre Sicherheitsbedenken bezüglich des Weiterbetriebs des RÜ gegenüber dem EBA ausgesprochen.
+Seit dem 06.02.2025 hat das EIU die über den RÜ führenden Gleise 3 und 4 vorläufig betrieblich gesperrt.
+
+5.3 Zusätzliche Bemerkungen
+Keine.
+
+Seite 27 von 28
+
+Untersuchungsbericht
+Personenunfall, 22.07.2024, Bf Eberbach
+
+6 Sicherheitsempfehlungen
+Gemäß § 6 EUV und Art. 26 Abs. 2 der Richtlinie (EU) 2016/798 ergeht nachfolgende Sicherheitsempfehlung:
+Lfd. Nr.
+
+Adressat und Sicherheitsempfehlung
+
+Betri
+
+12/2025
+
+Sicherheitsbehörde:
+
+EIU
+
+Unternehmen
+
+Es wird empfohlen, zur Gewährleistung der Sicherheit von Reisenden entsprechend der Verpflichtung aus § 13 Abs. 4 EBO, die Risiken von bestehenden RÜ, mindestens solcher mit einsei gen
+Absperrungen, entsprechend Verordnung (EU)
+2018/762 Anhang II Punkt 3.1.1.1 neu zu bewerten und ggf. Sicherheitsmaßnahmen zu entwickeln.
+
+Seite 28 von 28
+
+

@@ -1,0 +1,1368 @@
+Untersuchungsbericht
+Aktenzeichen:
+
+BEU-uu2020-02/004-3323
+
+Stand:
+
+07.01.2025 Version: 1.0
+
+Erstveröﬀentlichung:
+
+14.01.2025
+
+Gefährliches Ereignis im Eisenbahnbetrieb
+
+Ereignisart:
+
+Zugkollision
+
+Datum:
+
+16.02.2020
+
+Zeit:
+
+22:02 Uhr
+
+Betriebsstelle:
+
+Bf Würzburg Hbf
+
+Gleis:
+
+231
+
+Weiche:
+
+377
+
+Untersuchungsbericht
+Zugkollision, 16.02.2020, Bf Würzburg Hbf
+
+Veröﬀentlicht durch:
+Bundesstelle für Eisenbahnunfalluntersuchung
+Heinemannstraße 6
+53175 Bonn
+
+Untersuchungsbericht
+Zugkollision, 16.02.2020, Bf Würzburg Hbf
+
+Inhaltsverzeichnis
+I.
+
+Änderungsverzeichnis: .......................................................................................... II
+
+II.
+
+Abbildungsverzeichnis: ........................................................................................ III
+
+III.
+
+Tabellenverzeichnis: ............................................................................................ III
+
+IV.
+
+Abkürzungsverzeichnis: ....................................................................................... IV
+
+1
+
+Vorbemerkungen .................................................................................................. 1
+
+1.1
+
+Organisatorischer Hinweis ...................................................................................... 1
+
+1.2
+
+Ziel der Eisenbahnunfalluntersuchung.................................................................... 1
+
+2
+
+Zusammenfassung ................................................................................................ 3
+
+2.1
+
+Kurzbeschreibung des Ereignisses........................................................................... 3
+
+2.2
+
+Folgen ...................................................................................................................... 3
+
+2.3
+
+Ursachen.................................................................................................................. 3
+
+2.4
+
+Sicherheitsempfehlungen ....................................................................................... 3
+
+3
+
+Allgemeine Angaben ............................................................................................. 4
+
+3.1
+
+Lage und Beschreibung des Ereignisortes ............................................................... 4
+
+3.2
+
+Beteiligte und Mitwirkende..................................................................................... 5
+
+3.3
+
+Äußere Bedingungen ............................................................................................... 6
+
+3.4
+
+Todesopfer, Verletzte und Sachschäden................................................................. 6
+
+4
+
+Untersuchungsprotokoll ....................................................................................... 8
+
+4.1
+
+Zusammenfassung von Aussagen und Stellungnahmen ......................................... 8
+
+4.1.1
+
+Stellungnahme des Tf der Rf ................................................................................... 8
+
+4.1.2
+
+Stellungnahme des Tf des Güterzuges .................................................................... 8
+
+4.1.3
+
+Stellungnahme des Ww des Bf Würzburg Hbf ........................................................ 9
+
+4.2
+
+Notfallmanagement ................................................................................................ 9
+
+4.3
+
+Untersuchung der bautechnischen Infrastruktur ................................................. 10
+
+I
+
+Untersuchungsbericht
+Zugkollision, 16.02.2020, Bf Würzburg Hbf
+
+I.
+
+4.4
+
+Untersuchung der Leit- und Sicherungstechnik .................................................... 10
+
+4.5
+
+Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers ................. 11
+
+4.6
+
+Untersuchung der betrieblichen Abläufe der EVU ................................................ 12
+
+4.6.1
+
+Untersuchung der betrieblichen Abläufe der Zugfahrt DGS 48959 ...................... 12
+
+4.6.2
+
+Untersuchung der betrieblichen Abläufe der Rf ................................................... 13
+
+4.7
+
+Untersuchung von Fahrzeugen ............................................................................. 14
+
+4.7.1
+
+Fahrzeuge der Zugfahrt DGS 48959 ...................................................................... 14
+
+4.7.2
+
+Fahrzeuge der Rf ................................................................................................... 16
+
+5
+
+Auswertung ........................................................................................................ 20
+
+5.1
+
+Ereignisrekonstruktion .......................................................................................... 20
+
+5.2
+
+Bewertung und Schlussfolgerung .......................................................................... 21
+
+6
+
+Bisher getroffene Maßnahmen ........................................................................... 23
+
+7
+
+Sicherheitsempfehlungen ................................................................................... 24
+
+Änderungsverzeichnis:
+Änderung
+
+Stand
+
+II
+
+Untersuchungsbericht
+Zugkollision, 16.02.2020, Bf Würzburg Hbf
+
+II.
+
+Abbildungsverzeichnis:
+Abbildung 1: Lageplan mit Fahrtverlauf des Güterzuges DGS 48959 ........................................ 4
+Abbildung 2: Gleislageskizze mit Fahrtverlauf der beteiligten Fahrzeugbewegungen. ............. 5
+Abbildung 3: Kollisionsstelle ...................................................................................................... 7
+Abbildung 4: Überpufferung zwischen ersten und zweiten Wagen des Güterzuges ................ 7
+Abbildung 5: Fahrzeug Zusammensetzung der Rf.................................................................... 16
+Abbildung 6: Sicht des Tf auf das Zielsignal Ls 231I.................................................................. 17
+Abbildung 7: Sicht des Tf in sitzender Position auf das Ls 231II ............................................... 18
+Abbildung 8: Sicht des Tf aus stehender Position auf das Ls 231II ........................................... 18
+
+III.
+
+Tabellenverzeichnis:
+Tabelle 1: Übersicht der äußeren Bedingungen ........................................................................ 6
+Tabelle 2: Übersicht der geschätzten Schadenshöhe ................................................................ 6
+Tabelle 3: Technische Daten Tfz 91 80 6187 315-7.................................................................. 15
+Tabelle 4: Technische Daten Wagen 33 80 7848 723-2 D-GATXA ........................................... 15
+Tabelle 5: Fahrzeug Zusammensetzung der Rf ........................................................................ 16
+Tabelle 6: Technische Daten Triebwagen 91 80 0 445 059-2 D-DB ......................................... 17
+
+III
+
+Untersuchungsbericht
+Zugkollision, 16.02.2020, Bf Würzburg Hbf
+
+IV.
+
+Abkürzungsverzeichnis:
+AEG
+
+Allgemeines Eisenbahngesetz
+
+BEU
+
+Bundesstelle für Eisenbahnunfalluntersuchung
+
+BEVVG
+
+Bundeseisenbahnverkehrsverwaltungsgesetz
+
+Bf
+
+Bahnhof
+
+EFR
+
+Elektronische Fahrdatenregistrierung
+
+EIU
+
+Eisenbahninfrastrukturunternehmen
+
+EU
+
+Europäische Union
+
+EUV
+
+Eisenbahn-Unfalluntersuchungsverordnung
+
+EVU
+
+Eisenbahnverkehrsunternehmen
+
+FbrV
+
+Führerbremsven l
+
+Fdl
+
+Fahrdienstleiter
+
+GSM-R
+
+Global System for Mobile Communica ons – Rail
+
+HL
+
+Hauptlu leitung
+
+Ls
+
+Lichtsperrsignal
+
+LST
+
+Leit- und Sicherungstechnik
+
+Rf
+
+Rangierfahrt
+
+Ril
+
+Richtlinie
+
+SMS
+
+Sicherheitsmanagementsystem
+
+Stw
+
+Stellwerk
+
+Tf
+
+Triebfahrzeugführer
+
+Tfz
+
+Triebfahrzeug
+
+VzG
+
+Verzeichnis der örtlich zulässigen Geschwindigkeiten
+
+Ww
+
+Weichenwärter
+
+Zsig
+
+Zwischensignal
+
+IV
+
+Untersuchungsbericht
+Zugkollision, 16.02.2020, Bf Würzburg Hbf
+
+1 Vorbemerkungen
+Das Kapitel Vorbemerkungen befasst sich mit allgemeinen Informa onen zur Bundesstelle für
+Eisenbahnunfalluntersuchung (BEU). Dabei wird die gesetzliche Grundlage genannt und die
+Au auorganisa on kurz umrissen.
+
+1.1 Organisatorischer Hinweis
+Mit der Richtlinie (EU) 2016/798 des Europäischen Parlaments und des Rates zur
+Eisenbahnsicherheit in der Gemeinschaft (Eisenbahnsicherheitsrichtlinie) wurden die
+Mitgliedstaaten der Europäischen Union (EU) verpflichtet, unabhängige Untersuchungsstellen
+für die Untersuchung bestimmter gefährlicher Ereignisse einzurichten.
+Diese Richtlinie wurde mit dem Gesetz zur Neuordnung der Eisenbahnunfalluntersuchung
+vom 27. Juni 2017 und der Eisenbahn-Unfalluntersuchungsverordnung vom 05.07.2007, die
+durch Artikel 1 der Verordnung vom 26.11.2019 geändert worden ist, umgesetzt. Die BEU ist
+eine Bundesoberbehörde im Geschäftsbereich des Bundesministeriums für Digitales und
+Verkehr.
+Gemäß § 6 Abs. 2 des Bundeseisenbahnverkehrsverwaltungsgesetzes (BEVVG) wurde der Sitz
+und Aufbau der BEU im „Organisationserlass zur Errichtung der Bundesstelle für
+Eisenbahnunfalluntersuchung“ des Bundesministeriums für Verkehr und digitale Infrastruktur
+festgelegt und die BEU zum 14.07.2017 errichtet.
+Näheres hierzu ist im Internet unter www.beu.bund.de eingestellt.
+
+1.2 Ziel der Eisenbahnunfalluntersuchung
+Ziel und Zweck der Untersuchungen ist es, die Ursachen von gefährlichen Ereignissen
+aufzuklären und hieraus Hinweise
+
+zur Verbesserung der Sicherheit abzuleiten.
+
+Untersuchungen der BEU dienen nicht dazu, ein Verschulden festzustellen oder Fragen der
+Haftung oder sonstiger zivilrechtlicher Ansprüche zu klären und werden unabhängig von jeder
+gerichtlichen Untersuchung durchgeführt.
+Die Untersuchung umfasst die Sammlung und Auswertung von Informationen, die Erarbeitung
+von Schlussfolgerungen einschließlich der Feststellung der Ursachen und gegebenenfalls die
+Abgabe von Sicherheitsempfehlungen. Die Vorschläge der Untersuchungsstelle zur
+Vermeidung von Unfällen und Verbesserung der Sicherheit im Eisenbahnverkehr werden der
+
+Seite 1 von 26
+
+Untersuchungsbericht
+Zugkollision, 16.02.2020, Bf Würzburg Hbf
+
+Sicherheitsbehörde und, soweit erforderlich, anderen Stellen und Behörden oder anderen
+Mitgliedstaaten der EU in Form von Sicherheitsempfehlungen mitgeteilt.
+
+Seite 2 von 26
+
+Untersuchungsbericht
+Zugkollision, 16.02.2020, Bf Würzburg Hbf
+
+2 Zusammenfassung
+Das Kapitel befasst sich mit einer kurzen Darstellung des Ereignisherganges, den Folgen und
+den Primärursachen. Abschließend werden eventuell erteilte Sicherheitsempfehlungen
+aufgeführt.
+
+2.1 Kurzbeschreibung des Ereignisses
+Am 16.02.2020 gegen 22:02 Uhr kollidierte eine Rangierfahrt (Rf) nach einem Fahrtrichtungswechsel mit dem Güterzug DGS 48959 (Gelsenkirchen-Bismarck – Linz Verschiebebahnhof)
+auf der Weiche W377 des Bahnhofs (Bf) Würzburg Hbf.
+
+2.2 Folgen
+Personen wurden nicht verletzt. Es entstanden an den betroﬀenen Fahrzeugen, am Oberbau
+und an den Anlagen der Leit- und Sicherungstechnik (LST) Sachschäden in geschätzter Höhe
+von insgesamt 2.000.000 Euro.
+
+2.3 Ursachen
+Die Kollision ist darauf zurückzuführen, dass der Triebfahrzeugführer (Tf) der Rf das für ihn
+gül ge „Halt“ signalisierende Lichtsperrsignal (Ls) 231II nicht wahrgenommen ha e. Da er die
+darauﬀolgenden Ls, die für die Fahrstraße des Güterzuges DGS 48959 die Signalstellung
+Sh 1 – „Fahrverbot aufgehoben“ signalisierten, für sich gül g interpre erte, missachte er in
+der Folge das Ls 231II.
+
+2.4 Sicherheitsempfehlungen
+Gemäß § 6 EUV und Art. 26 Abs. 2 der Richtlinie (EU) 2016/798 ergehen nachfolgende
+Sicherheitsempfehlungen an die na onale Sicherheitsbehörde EBA.
+Lfd. Nr.
+
+Sicherheitsempfehlung
+
+Betri
+
+Unternehmen
+
+01/2025
+
+Es wird empfohlen, gem. Delegierter Verordnung
+(EU) 2018/762, Anhang I, Kapitel 3.1.1
+Sicherheitsmaßnahmen zu entwickeln, damit
+unabhängig vom begrenzten Sich eld am
+gewohnten Arbeitsplatz des Tf ein durch Signal
+gebotener Haltbegriﬀ gesehen und beachtet wird.
+
+Eisenbahnverkehrsunternehmen /
+Eisenbahninfrastrukturunternehmen
+
+Seite 3 von 26
+
+Untersuchungsbericht
+Zugkollision, 16.02.2020, Bf Würzburg Hbf
+
+3 Allgemeine Angaben
+Das Kapitel beinhaltet allgemeine Angaben zur Beschreibung des Ereignisortes und der
+relevanten Bahnanlagen. Des Weiteren werden die an der Unfalluntersuchung beteiligten und
+mitwirkenden Stellen, die äußeren Bedingungen, die Anzahl der ggf. bei dem Ereignis
+verletzten und getöteten Personen sowie Art und Höhe der Folgeschäden benannt.
+
+3.1 Lage und Beschreibung des Ereignisortes
+Der Bf Würzburg Hbf wurde von insgesamt sechs Strecken tangiert. Die Zugkollision ereignete
+sich im Einfahrbereich der Strecke 5201 aus Richtung Veitshöchheim auf der Weiche W377.
+Bei dieser Strecke handelte es sich um die zweigleisige elektrifizierte Hauptbahn
+Würzburg Hbf – Veitshöchheim. Die Strecke wurde im Verzeichnis der örtlich zulässigen
+Geschwindigkeiten (VzG) unter der Streckennummer 5201 geführt. Alle Strecken waren
+durchgängig mit punk örmiger Zugbeeinflussung (PZB) und digitalem Zugfunk Global System
+for Mobile Communica ons – Rail (GSM-R) ausgerüstet.
+Der Güterzug DGS 48959 befuhr vor dem Ereignis, kommend von der Strecke 5200
+Aschaﬀenburg Hbf – Würzburg Hbf, ein Verbindungsgleis, um in das Gleis 203 zu gelangen.
+Die Rf für die spätere Zugfahrt RE-D 4636 wechselte auf dem Gleis 231 die Fahrtrichtung um
+anschließend an eines der Bahnsteiggleise zu fahren.
+Die folgenden Abbildungen veranschaulichen die geografische Lage des Ereignisortes.
+
+Abbildung 1: Lageplan mit Fahrtverlauf des Güterzuges DGS 489591
+
+1
+
+Quelle: Geobasisdaten: © GeoBasis-DE / BKG 2024, bearbeitet durch BEU
+
+Seite 4 von 26
+
+Untersuchungsbericht
+Zugkollision, 16.02.2020, Bf Würzburg Hbf
+
+Abbildung 2: Gleislageskizze mit Fahrtverlauf der beteiligten Fahrzeugbewegungen.2
+
+3.2 Beteiligte und Mitwirkende
+Am Ereignis waren folgende Stellen beteiligt:
+
+
+DB Netz AG, Eisenbahninfrastrukturunternehmen (EIU)
+(seit 01.01.2024 DB InfraGO AG)
+
+
+
+DB Regio AG, Eisenbahnverkehrsunternehmen (EVU)
+
+
+
+IGE Bahntouristik GmbH & Co. KG (EVU)
+
+Für das EIU lag eine Sicherheitsgenehmigung gemäß § 7c Allgemeines Eisenbahngesetz (AEG)
+des Eisenbahn-Bundesamtes vor.
+Beide EVU verfügten über eine Sicherheitsbescheinigung gemäß § 7a AEG und waren damit
+zur Teilnahme am Eisenbahnbetrieb berech gt.
+Im Rahmen der Sachverhaltsermi lung und Ursachenerforschung wurden neben den o. g.
+Beteiligten das Bundespolizeirevier Bamberg mit einbezogen.
+
+2
+
+Quelle: DB Netz AG: Bildkartei für Regelzugstraßen 08/2012, bearbeitet durch BEU
+
+Seite 5 von 26
+
+Untersuchungsbericht
+Zugkollision, 16.02.2020, Bf Würzburg Hbf
+
+3.3 Äußere Bedingungen
+Zum Zeitpunkt des Ereignisses herrschten folgende Bedingungen:
+Lichtverhältnisse
+
+Dunkelheit
+
+Sicht
+
+klar
+
+Bedeckung
+
+wolkenlos
+
+Temperaturen
+
+6°C
+
+fallender Niederschlag
+
+Nein
+
+Niederschlagshäufigkeit
+
+--
+
+Untergrund / gefallener Niederschlag
+
+trocken
+
+Tabelle 1: Übersicht der äußeren Bedingungen
+
+Feststellung zu den äußeren Bedingungen
+Lfd. Nr. 1
+Die äußeren Bedingungen, wie z. B. das We er, standen in keinem erkennbaren
+unmi elbarem Zusammenhang mit der Ereignisursache.
+
+3.4 Todesopfer, Verletzte und Sachschäden
+Bei dem Ereignis wurden keine Personen verletzt oder getötet. Bedingt durch die Entgleisung
+des Triebfahrzeuges (Tfz) des Güterzuges DGS 48959 traten ca. 200 Liter Dieselkra stoﬀ aus
+dem Tank des Last-Mile Tfz aus. Des Weiteren entgleiste der erste Mineralölkesselwagen des
+Güterzug DGS 48959 sowie ein Doppelstockwagen der Rf.
+Die geschätzte Höhe der Sachschäden in Euro setzt sich wie folgt zusammen:
+geschätzte Kosten in Euro
+Fahrzeuge
+
+1.200.000
+
+Infrastruktur
+
+800.000
+
+Dri e
+
+--
+
+Gesamtschadenshöhe
+
+2.000.000
+
+Tabelle 2: Übersicht der geschätzten Schadenshöhe
+
+Seite 6 von 26
+
+Untersuchungsbericht
+Zugkollision, 16.02.2020, Bf Würzburg Hbf
+
+Die folgenden Abbildungen zeigen die beiden Züge nach der Kollision und geben einen
+Überblick über die entstandenen Sachschäden.
+
+Abbildung 3: Kollisionsstelle
+
+Abbildung 4: Überpuﬀerung zwischen ersten und zweiten Wagen des Güterzuges
+
+Seite 7 von 26
+
+Untersuchungsbericht
+Zugkollision, 16.02.2020, Bf Würzburg Hbf
+
+4 Untersuchungsprotokoll
+In diesem Kapitel werden die ermi elten Ergebnisse zu einzelnen in Zusammenhang mit dem
+Ereignis stehenden Teilbereichen des Eisenbahnwesens dargestellt. Daneben werden auch die
+entsprechenden Schni stellen sowie das Sicherheitsmanagement (SMS) im betroﬀenen
+Bereich betrachtet. Die jeweilig relevanten Erkenntnisse werden fortlaufend aufgeführt.
+
+4.1 Zusammenfassung von Aussagen und Stellungnahmen
+In den folgenden Abschni en werden die relevanten Aussagen und Stellungnahmen einiger
+beteiligter Mitarbeiter zusammengefasst dargestellt. Diese wurden gegenüber dem jeweiligen
+Arbeitgeber oder der Bundespolizei abgegeben. Verschiedene Ergänzungen wurden im
+Rahmen der Unfalluntersuchung im Nachgang bei den Beteiligten abgefragt.
+4.1.1 Stellungnahme des Tf der Rf
+Der Tf der Rf für den Zug RE-D 4636 gab sinngemäß folgenden Sachverhalt bei einer
+Stellungnahme am 19.02.2020 gegenüber seinem Arbeitgeber der DB Regio AG an:
+Der Tf sagte aus, er führte zunächst an dem aus vier Fahrzeugen bestehenden
+Doppelstocktriebwagen der Baureihe 445 einen Vorbereitungsdienst aus. Dann habe er sich
+um ca. 21:50 Uhr beim Weichenwärter (Ww) Würzburg Hbf fahrbereit gemeldet. Nach der
+Vereinbarung mit dem Ww habe er sofort Signal Sh 1 erhalten. Mit der Zus mmung begann
+er die Rf in Richtung Gleis 231. Dabei sei dem Tf bewusst gewesen, dass das Gleis 231, in dem
+ein Fahrrichtungswechsel erforderlich war, für den Doppelstocktriebwagen sehr kurz sei. Er
+fuhr sehr nahe an das Zielsignal Ls 231I heran und sicherte das Fahrzeug gegen unbeabsich gte
+Bewegung. Der Tf gab an, dass er auf dem Weg zum anderen Führerraum durch den
+Fahrgastraum des Zuges lief. Dort angekommen habe er schon in einiger En ernung mehrere
+Ls mit dem Signalbegriﬀ Sh 1 gesehen. Einen Signalbegriﬀ Hp 0 habe er nicht wahrgenommen.
+Darau in habe er den Führerstand aufgerüstet, die Bremsprobe durchgeführt und die Rf in
+Richtung Gleis 11 begonnen. Kurz danach habe er wahrgenommen, dass eine der zugehörigen
+Weichen nicht in der rich gen Stellung lag. Er habe sofort eine Schnellbremsung eingeleitet.
+Als er die Kollision mit dem Güterzug DGS 48959 bemerkte, habe er umgehend einen
+Nothaltau rag abgegeben.
+4.1.2 Stellungnahme des Tf des Güterzuges
+Der Tf des Güterzuges DGS 48959 gab sinngemäß folgenden Sachverhalt bei seiner
+Stellungnahme am 16.02.2020 gegenüber der Bundespolizei an:
+
+Seite 8 von 26
+
+Untersuchungsbericht
+Zugkollision, 16.02.2020, Bf Würzburg Hbf
+
+Der Tf sagte aus, er sei mit einer Geschwindigkeit von etwa 60 km/h am Zwischensignal (Zsig)
+vorbeigefahren. Das am Zsig angebrachte Vorsignal zeigte den Signalbegriﬀ Vr 0. Im
+Einfahrweichenbereich sei links parallel eine Rf gefahren, zu diesem Zeitpunkt habe die
+Geschwindigkeit seines Zuges ca. 30 km/h betragen. Als er bemerkte, dass sich die Rf in
+seinem Fahrweg befände, habe er sofort eine Schnellbremsung eingeleitet.
+4.1.3 Stellungnahme des Ww des Bf Würzburg Hbf
+Der Ww Würzburg Hbf gab sinngemäß folgenden Sachverhalt bei seiner Befragung am
+26.02.2020 gegenüber seinem Arbeitgeber der DB Netz AG an:
+Der Ww gab an, er sei in der Nacht vom Sonntag, den 16.02.2020 von 20:30 Uhr bis auf
+Montag, den 17.02.2020 um 05:30 Uhr als Ww auf dem Stellwerk (Stw) Würzburg Hbf tä g
+gewesen.
+In der Schicht habe sich der Tf der Rf für den Zug RE-D 4636 bei ihm gemeldet. Er habe das
+Gespräch entgegengenommen, die Rangiervereinbarung mit dem Tf der Rf getroﬀen und die
+Rf von Gleis 192 nach Gleis 231 mit dem Einvernehmen des Fahrdienstleiters (Fdl)
+durchgeführt. Eine Zus mmung nach dem Fahrtrichtungswechsel im Gleis 231 habe er nicht
+erteilt. Der Ww sei auf die Zugkollision aufmerksam geworden, weil er die Auﬀahrmeldung
+der Weiche W377 bemerkt habe und kurze Zeit später einen Notruf gehört habe.
+
+4.2 Notfallmanagement
+Nach § 4 Abs. 3 AEG haben die Eisenbahnen die Verpflichtung, an Maßnahmen des Brandschutzes und der technischen Hilfeleistung mitzuwirken. In einer Vereinbarung zwischen den
+Innenministerien der Länder und der DB AG hat man sich auf eine Verfahrensweise
+verständigt.
+
+Für
+
+die
+
+DB
+
+Netz
+
+AG
+
+gelten
+
+die
+
+entsprechenden
+
+Brand-
+
+und
+
+Katastrophenschutzgesetze der Länder. Das No allmanagement der DB AG ist in der
+Konzernrichtlinie 123, das der DB Netz AG in der Richtlinie (Ril) 423 näher beschrieben und
+geregelt.
+Die No allleitstelle der DB Netz AG, die für die weitere Alarmierung der Re ungskrä e
+verantwortlich war, wurde unverzüglich durch den Fdl Würzburg Hbf verständigt.
+Die Bergung der entgleisten Fahrzeuge wurde bei diesem Ereignis durch die DB Netz AG
+durchgeführt.
+
+Seite 9 von 26
+
+Untersuchungsbericht
+Zugkollision, 16.02.2020, Bf Würzburg Hbf
+
+Feststellungen zum No allmanagement
+Lfd. Nr. 2
+Unregelmäßigkeiten
+
+oder
+
+Verzögerungen
+
+in
+
+Bezug
+
+auf
+
+das
+
+Einleiten
+
+von
+
+Re ungsmaßnahmen wurden der BEU im Rahmen der Unfalluntersuchung nicht bekannt.
+
+4.3 Untersuchung der bautechnischen Infrastruktur
+Bei der Besich gung der bautechnischen Infrastruktur vor Ort ergaben sich keine
+Anhaltspunkte, die für einen Mangel am Oberbau sprachen. Alle erkennbaren
+Beschädigungen waren Folgeschäden, die durch die Entgleisung hervorgerufen wurden. Des
+Weiteren gab es keine Hinweise auf Instandhaltungsdefizite, die im Zusammenhang mit dem
+Ereignis standen.
+Das zum Wenden der Rf genutzte Gleis 231 wurde durch die Ls 231I und Ls 231II begrenzt. Bei
+einer durch die BEU durchgeführten Messung ergab sich zwischen den beiden Ls eine Länge
+von 116,95 m.
+Der aus vier Fahrzeugen gebildete Fahrzeugverband war insgesamt 105,55 m lang und somit
+kürzer als die zum Wenden zwischen den maßgeblichen Signalen vorhandene Länge des
+Gleises 231.
+Feststellung zur bautechnischen Infrastruktur
+Lfd. Nr. 3
+Die bautechnische Infrastruktur ha e keinen Einfluss auf das Unfallgeschehen.
+
+4.4 Untersuchung der Leit‐ und Sicherungstechnik
+Der Bf Würzburg Hbf wurde durch ein örtlich besetztes Spurplanstellwerk der Bauform
+Sp Dr S 600, Baujahr 1984, mit der Bezeichnung Whf gesteuert.
+Sämtliche Haupt- und Vorsignale waren als Lichtsignale im H/V-System ausgeführt. Die
+Einfahrt des Güterzuges DGS 48959 erfolgte mi els eingestellter Zugstraße unter
+Fahrtstellung der Hauptsignale. Das „Halt“ signalisierende Ls 231II diente für die verwendete
+Fahrstraße als Flankenschutz. Diese Möglichkeit war gemäß Ril 819.0505 5 (1) i. V. m.
+
+Seite 10 von 26
+
+Untersuchungsbericht
+Zugkollision, 16.02.2020, Bf Würzburg Hbf
+
+Ril 819.0505 9 (1) als ausreichender Flankenschutz zugelassen. Der Mindestabstand gemäß
+Ril. 819.0505 9 (2) von mindestens sechs Metern vom Grenzzeichen der Weiche W 377 zum
+Ls 231II wurde eingehalten. Beim Gleis 231 handelte es sich um einen Gleisabschni , über den
+regelmäßig Zugfahrten erfolgten. Daher waren direkte Elemente des Flankenschutzes gemäß
+den Planungsregelwerken des EIU nicht vorgesehen. Eine Gleissperre war in das Gleis 231 als
+Hauptgleis nicht einzubauen und eine Schutzweiche topologisch und wirtscha lich nicht
+verhältnismäßig.
+Es ergaben sich keine Hinweise, dass eine eventuelle Störung oder Fehlfunk on der LST zum
+Ereignis beigetragen hä e.
+Feststellung zur Untersuchung der Leit‐ und Sicherungstechnik
+Lfd. Nr. 4
+Die LST arbeitete zum Zeitpunkt des Ereignisses ordnungsgemäß. Ein Einfluss auf den
+Unfallhergang wurde nicht festgestellt.
+Der Flankenschutz war gemäß Ril. 891.0505 ausreichend.
+
+4.5 Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers
+Die Betriebsabwicklung auf dem Bf und den angrenzenden Strecken erfolgte nach den
+Vorgaben der Fahrdienstvorschri
+
+der DB Netz AG. Örtliche Besonderheiten waren im
+
+Betriebsstellenbuch für den Bf Würzburg Hbf dokumen ert.
+Das Stw war zum Zeitpunkt des Ereignisses mit drei Fdl besetzt. Für die Durchführung der
+Zugfahrt DGS 48959 war der Fdl West zuständig. Für diese Zugfahrt erfolgte die Fahrt vom
+Zsig S 106 zum Zielsignal Asig P 203 auf einer gesicherten Zugstraße.
+Die Meldung des Tf über die Fahrbereitscha der Rf nahm der Ww um 21:53 Uhr über GSM-R
+entgegen. Hierbei erfolgte auch die Verständigung gemäß Ril 408.4813 über das Ziel und den
+Zweck der Rf. Ein Austausch über Besonderheiten bei der Durchführung der Rf erfolgte nicht.
+Darau in s mmte der Ww der Rf vom Ls 192I im Gleis 192 bis zum Ls 231I im Gleis 231 mit
+Sh 1 zu. Eine Zus mmung zur Fahrt aus Gleis 231 an das für die spätere Abfahrt des Zuges
+RE-D 4636 vorgesehene Gleis wurde nicht erteilt.
+
+Seite 11 von 26
+
+Untersuchungsbericht
+Zugkollision, 16.02.2020, Bf Würzburg Hbf
+
+Feststellung zur Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers
+Lfd. Nr. 5
+Bei den Handlungen der Mitarbeiter des EIU konnten keine Abweichungen vom Regelwerk
+festgestellt werden.
+Im Rahmen der Verständigung bei der Vorbereitung der Rf wurden keine Besonderheiten
+genannt.
+
+4.6 Untersuchung der betrieblichen Abläufe der EVU
+Im den folgenden Kapiteln werden die betrieblichen Abläufe der am Ereignis beteiligten EVU
+beschrieben.
+4.6.1 Untersuchung der betrieblichen Abläufe der Zugfahrt DGS 48959
+Der Güterzug DGS 48959 verkehrte von Gelsenkirchen-Bismarck nach Linz Verschiebebahnhof. Für den Bf Würzburg Hbf war ein Betriebshalt zum Personalwechsel vorgesehen.
+Zur Untersuchung der Abläufe wurden die registrierten Fahrdaten der elektronischen
+Fahrdatenregistrierung (EFR) durch die zentrale Auswertestelle der DB AG ausgewertet. Die
+Ergebnisse wurden durch die BEU verifiziert.
+Um 21:59:41 Uhr EFR-Systemzeit wurde am Standort des Zsig S 106 bei einer Geschwindigkeit
+von ca. 34 km/h eine 1.000 Hz Beeinflussung und die Bedienung der Wachsamkeitstaste
+registriert. Das Verlegen des Führerbremsven ls (FbrV) in die Schnellbremsstellung sowie eine
+anschließende starke Druckabsenkung auf <2,2 bar in der Hauptlu leitung (HL) wurden um
+22:00:46 Uhr registriert. Ab 22:00:51 Uhr konnten ein starker Geschwindigkeitsabfall sowie
+mehrere nicht plausible Beeinflussungen in der Fahrtenregistrierung festgestellt werden.
+Der Tf war im Besitz eines gül gen EU-Triebfahrzeugführerscheins sowie einer durch das EVU
+ausgestellten Zusatzbescheinigung.
+Feststellung zur Untersuchung der betrieblichen Abläufe der Zugfahrt DGS 48959
+Lfd. Nr. 6
+Bei der Untersuchung der betrieblichen Abläufe der Zugfahrt DGS 48959 konnten keine
+Unregelmäßigkeiten festgestellt werden.
+
+Seite 12 von 26
+
+Untersuchungsbericht
+Zugkollision, 16.02.2020, Bf Würzburg Hbf
+
+4.6.2 Untersuchung der betrieblichen Abläufe der Rf
+Die Rf war eine regelmäßig wiederkehrende Fahrzeugbewegung, der Zweck war das
+Bereitstellen des Fahrzeugverbandes für die spätere Zugfahrt RE-D 4636 (Würzburg Hbf –
+Frankfurt (Main) Hbf). Für die Durchführung dieser Rangierbewegung wurde die punk örmige
+Zugbeeinflussung (PZB) nicht abgeschaltet.
+Der Tf der Rf ha e den dienstlichen Au rag den Doppelstocktriebwagen für die spätere
+Zugfahrt vorzubereiten. Nach Abschluss der Vorbereitungsarbeiten, meldete er sich über
+GSM-R beim Ww Würzburg Hbf um diesem die Fahrbereitscha
+
+der Rf zum Bahnsteig
+
+mitzuteilen. Hierbei erfolgte auch die Verständigung gemäß Ril 408.4813 über das Ziel und
+Zweck der Rf. Ein Austausch über Besonderheiten bei der Durchführung der Rf erfolgte nicht.
+Im Anschluss erteilte der Ww die Zus mmung zur Rf mi els Signalbegriﬀ Sh 1 am Ls 192I.
+Zur Rekonstruk on des Ereignisses wurde die EFR des betroﬀenen Tfz durch die zentrale
+Auswertstelle der DB AG ausgewertet. Die Ergebnisse wurden durch die BEU verifiziert.
+Um 21:54:12 Uhr EFR-Systemzeit setzte sich die Rf in Bewegung. Nach einer Wegstrecke von
+457 m kam die Rf nach 2 min und 22 s im Gleis 231 vor dem Ls 231 I zum S llstand. Hierbei
+wurde die maximal zulässige Geschwindigkeit von 25 km/h zu keiner Zeit überschri en. Der
+darauf folgende Führerstandwechsel dauerte etwa 4 min. Um 22:00:32 Uhr setzte sich die Rf
+in die entgegensetzte Richtung in Bewegung, ohne das eine erneute Zus mmung des Ww
+vorlag. Gemäß Ril 408.4813 Abschni 3 Absatz (3) war nach dem Wechsel der Fahrtrichtung
+für die Weiterfahrt eine neue Zus mmung erforderlich. Unmi elbar darauﬀolgend fuhr die Rf
+am „Halt“ signalisierenden Ls 231II vorbei. Da Ls in der Regel nicht mit einer PZBStreckeneinrichtung ausgerüstet waren, wurde die Vorbeifahrt nicht in der EFR aufgezeichnet.
+Nach einer Wegstrecke von 65 m wurde um 22:00:49 Uhr eine starke Absenkung des Drucks
+in der HL unter 3,4 bar registriert, bevor um 22:00:55 Uhr der letzte gül ge
+Geschwindigkeitswert von 2 km/h aufgezeichnet wurde. Gemäß der Stellungnahme des Tf der
+Rf ist die starke Absenkung des Druckes in der HL auf die von ihm zu diesem Zeitpunkt
+eingeleitete Schnellbremsung zurückzuführen.
+
+Seite 13 von 26
+
+Untersuchungsbericht
+Zugkollision, 16.02.2020, Bf Würzburg Hbf
+
+Feststellung zur Untersuchung der betrieblichen Abläufe der Rf für RE‐D 4636
+Lfd. Nr. 7
+Im Rahmen der Verständigung bei der Vorbereitung der Rf wurden keine Besonderheiten
+genannt.
+Die Rf fuhr am Halt signalisierenden Ls 231II vorbei.
+
+4.7 Untersuchung von Fahrzeugen
+Im den folgenden Kapiteln werden die Fahrzeuge der beteiligten EVU betrachtet.
+4.7.1 Fahrzeuge der Zugfahrt DGS 48959
+Der Güterzug DGS 48959 war aus einer elektrischen Lokomo ve der Baureihe 187 der
+Fahrzeugfamilie Bombardier Traxx AC3 Last Mile sowie 18 mit Dieselkra stoﬀ beladenen
+Mineralölkesselwagen gebildet.
+Das Tfz ha e die Fahrzeugnummer 91 80 6187 315-7 und befand sich im Fahrzeugbestand des
+Halters Railpool GmbH. Das Fahrzeug erhielt die notwendige Trak onsenergie primär in Form
+von elektrischer Energie über die Oberleitung, kann bei fehlender Oberleitung jedoch auch
+über einen Last Mile Dieselmotor versorgt werden.
+Die Gesamtmasse des Güterzuges betrug 1.696 t bei einer Gesamtzuglänge von 322 m. Der
+Güterzug verkehrte in der Bremsstellung P, wobei an dem arbeitenden Tfz und den ersten fünf
+Wagen die Bremsstellung G eingestellt waren. Daraus resul erte ein Bremsgewicht von
+1.035 t, was zu 61 vorhandenen Bremshundertstel führte. Gemäß den Fahrplanangaben
+waren 60 Mindestbremshundertstel gefordert.
+Aus den folgenden Tabellen lassen sich die technischen Daten des Tfz und des entgleisten
+Mineralölkesselwagens entnehmen:
+
+Seite 14 von 26
+
+Untersuchungsbericht
+Zugkollision, 16.02.2020, Bf Würzburg Hbf
+
+Fahrzeugnummer
+
+91 80 6187 315-7
+
+Bezeichnung
+
+Traxx AC3 Last Mile
+
+Antriebsart
+
+elektrisch
+
+dieselelektrisch
+
+Leistung
+
+5.600 kW
+
+180 kW
+
+Höchstgeschwindigkeit
+
+160 km/h
+
+60 km/h
+
+Masse
+
+86 t
+
+Gesamtlänge (LüP)
+
+18.900 mm
+
+Radsatzfolge
+
+Bo´Bo´
+
+Verwendetes Zugsicherungssystem
+
+PZB 90
+
+Bremsbauart
+
+SW-GPR-E mZ
+
+Tabelle 3: Technische Daten Tfz 91 80 6187 315-7
+
+Wagennummer
+
+33 80 7848 723-2
+
+Halter
+
+GATX Rail Austria GmbH
+
+Ga ungszeichen
+
+Zans
+
+Eigengewicht
+
+23.950 kg
+
+Gewicht der Ladung
+
+65.420 kg
+
+Länge (LüP)
+
+17.000 mm
+
+Anzahl der Radsätze
+
+4
+
+Achsabstand
+
+6.000 mm
+
+Lastgrenzen
+
+A 40,0 t, B 48,0 t, C 58,0 t, D 66,0 t
+
+Rauminhalt Tank
+
+95.251 l
+
+Max. zul. Fahrzeuggeschwindigkeit
+
+100 km/h
+
+Bremsbauart
+
+KE-GP
+
+Bremssohlen
+
+LL
+
+Nummer der Gefahr / UN-Nummer
+
+30
+
+1202
+
+Tabelle 4: Technische Daten Wagen 33 80 7848 723-2 D-GATXA
+
+Seite 15 von 26
+
+Untersuchungsbericht
+Zugkollision, 16.02.2020, Bf Würzburg Hbf
+
+4.7.2 Fahrzeuge der Rf
+Der Fahrzeugverband der Rf war aus zwei Triebwagen der Baureihe 445 der Fahrzeugfamilie
+Bombardier Twindexx Vario und zwei nicht angetriebenen Mi elwagen gebildet.
+Die folgende Abbildung zeigt die genaue Zusammenstellung der Fahrzeuge auf:
+
+Abbildung 5: Fahrzeug Zusammensetzung der Rf3
+
+Die folgende Tabelle zeigt die genaue Zusammenstellung der Fahrzeuge auf:
+Art
+
+Nummer
+
+Beschreibung
+
+Doppelstocktriebwagen
+
+91 80 0 445 059-2 D-DB
+
+Twindexx Vario / DBpzfa 445
+
+Doppelstock-Wagen
+
+50 80 26-81 501-1 D-DB
+
+DOSTO 2010 / DBpza 782.1
+
+Doppelstock-Wagen
+
+50 80 36-81 165-3 D-DB
+
+DOSTO 2010 / DABpbza 787.2
+
+Doppelstocktriebwagen
+
+91 80 0 445 045-1 D-DB
+
+Twindexx Vario / DBpzfa 445
+
+Tabelle 5: Fahrzeug Zusammensetzung der Rf
+
+Der aus vier Fahrzeugen gebildete Fahrzeugverband war insgesamt 105,55 m lang und besaß
+eine Gesamtmasse von 268 t. Im Zuge des Vorbereitungsdienstes wurden der Zustand sowie
+die Funk on der Bremsen aller Fz geprü . In den Angaben für das Streckenbuch gab es für die
+Rf keine zusätzlichen bremstechnischen Vorgaben.
+Die folgende Tabelle enthält einen Überblick über die technischen Daten des führenden
+Triebwagens:
+
+3
+
+Quelle: DB Regio AG, Ril 494.9768, bearbeitet durch BEU
+
+Seite 16 von 26
+
+Untersuchungsbericht
+Zugkollision, 16.02.2020, Bf Würzburg Hbf
+
+Fahrzeugnummer
+
+91 80 0 445 059-2
+
+Bezeichnung
+
+Twindexx Vario
+
+Antriebsart
+
+elektrisch
+
+Antriebsleistung
+
+1.800 kW
+
+Höchstgeschwindigkeit
+
+160 km/h
+
+Masse
+
+71,5 t
+
+Gesamtlänge (LüP)
+
+25.975 mm
+
+Radsatzfolge
+
+Bo´Bo´
+
+Verwendetes Zugsicherungssystem
+
+PZB 90
+
+Bremsbauart
+
+KE-R-A-E-Mg mZ
+
+Tabelle 6: Technische Daten Triebwagen 91 80 0 445 059-2 D-DB
+
+Die genaue Posi on der Rf im Wendevorgang in Gleis 231 und damit des Führerstands des
+ersten Triebwagens mit dem Tf in Bezug zum Ls 231II konnte nicht exakt ermi elt werden.
+Durch die BEU wurde in Zusammenarbeit mit der DB Netz AG und der DB Regio AG eine Rf in
+das Gleis 231 durchgeführt um die Sichtgegebenheiten auf das Ls 231II zu überprüfen. Dabei
+wurde so vor dem Zielsignal Ls 231I angehalten, dass der Tf das Signalbild Hp 0 des Ls 231I aus
+seiner normalen Sitzposi on noch erkennen konnte. Die folgende Abbildung zeigt die Sicht
+des Tf auf das Zielsignal Ls 231I.
+
+Abbildung 6: Sicht des Tf auf das Zielsignal Ls 231I
+
+Seite 17 von 26
+
+Untersuchungsbericht
+Zugkollision, 16.02.2020, Bf Würzburg Hbf
+
+Anschließend wurde im Rahmen der Nachstellung der Situa on auf den entgegengesetzten
+Führerstand gewechselt. Die Überprüfung des Sich eldes des Tf in sitzender Posi on ergab,
+dass das Ls 231II vollständig durch den Führer sch und den Anschlusskasten der elektrischen
+Scheibenheizung verdeckt war. Die nachfolgende Abbildung zeigt die Sicht des Tf auf das
+Ls 231II in sitzender Posi on.
+
+Abbildung 7: Sicht des Tf in sitzender Posi on auf das Ls 231II
+
+Während die Sicht auf das Ls 231II in sitzender Posi on eingeschränkt war, konnte das Ls aus
+einer stehenden Posi on des Tf wahrgenommen werden. Die nachfolgende Abbildung zeigt
+das Sich eld des Tf aus stehender Posi on.
+
+Abbildung 8: Sicht des Tf aus stehender Posi on auf das Ls 231II
+
+Seite 18 von 26
+
+Untersuchungsbericht
+Zugkollision, 16.02.2020, Bf Würzburg Hbf
+
+Da die genaue Halteposi on der Rf am Ereignistag nicht bekannt war, wurde im Rahmen der
+Nachstellung ein möglichst realis scher Halteort gewählt. Die genaue Fahrzeugposi on hat
+dabei einen direkten Einfluss auf die Sichtgegebenheiten auf das Ls 231II. Ein weiteres
+Heranfahren an das Ls 231I hä e die Sicht auf das Ls 231II verbessert, während ein größerer
+Abstand zum Ls 231I die Sicht auf das Ls 231II verschlechtert hä e.
+Die Gestaltung der Führerräume entsprach in Bezug auf die Sichtbedingungen den
+Anforderungen der DIN EN 16186-1. Aufgrund der Sitzposi on des Tf im Führerraum ergab
+sich ein flacher Blickwinkel nach vorn, der zu einer Sichteinschränkung auf niedrige Signale in
+Nähe zum Fahrzeug führte.
+Feststellung zur Untersuchung der Fahrzeuge
+Lfd. Nr. 8
+Bei der Untersuchung der Fahrzeuge konnten keine Unregelmäßigkeiten festgestellt
+werden.
+Die genaue Fahrzeugposi on und die Sicht- oder Standposi on des Tf ha en einen Einfluss
+auf die Sichtbarkeit des Ls 231II.
+Die Sitzposi on des Tf im Führerraum führt zu einem flachen Blinkwinkel und zu einem
+begrenzten Sich eld, das niedrige Signale am Gleis nicht enthält.
+
+Seite 19 von 26
+
+Untersuchungsbericht
+Zugkollision, 16.02.2020, Bf Würzburg Hbf
+
+5 Auswertung
+Das Kapitel 5 Auswertung befasst sich mit der Ereignisrekonstruk on. Anhand der oben
+genannten Feststellungen wird ein plausibler Ablauf des gefährlichen Ereignisses
+zusammengetragen. Relevante Erkenntnisse werden anschließend bewertet und führen ggf.
+zu entsprechenden Schlussfolgerungen.
+
+5.1 Ereignisrekonstruktion
+Am 16.02.2020 gegen 22:02 Uhr kollidierte eine Rf nach einem Fahrtrichtungswechsel mit
+dem Güterzug DGS 48959 (Gelsenkirchen-Bismarck – Linz Verschiebebahnhof) auf der Weiche
+W377 des Bf Würzburg Hbf.
+Der Tf der Rf meldete sich nach den Vorbereitungsarbeiten für die Rf über GSM-R beim Ww
+Würzburg Hbf fahrbereit. Die Rf sollte von Gleis 192, mit einem Fahrtrichtungswechsel in Gleis
+231, in das für die spätere Abfahrt des Personenzuges RE-D 4636 vorgesehene Gleis fahren.
+Nachdem der Ww die erforderliche Zus mmung des zuständigen Fdl erhalten ha e, s mmte
+er der Rf bis zum Zielsignal Ls 231I im Gleis 231 zu. Dort angekommen sicherte der Tf den Zug
+gegen unbeabsich gtes Bewegen und wechselte den Führerstand. Zwischenzeitlich wurde für
+den Güterzug DGS 48959 die Zugstraße von dem Zsig S 106 bis zum Asig P 203 durch den
+Fdl Würzburg Hbf eingestellt. Als der Tf der Rf auf dem anderen Führerstand ankam, erkannte
+er vor der Spitze seiner Rf im Gleisfeld mehrere Ls, die den Signalbegriﬀ Sh 1 zeigten. Dies
+interpre erte er als Zus mmung des Ww für die vorgesehene Rf zum Bahnsteiggleis und
+setzte den Fahrzeugverband in Bewegung. Das unmi elbar seitlich unterhalb der Spitze der
+Rf stehende Halt gebietende Ls 231II war aus der gewohnten Arbeitsposi on des Tf nicht
+einsehbar, da es durch die Fahrzeugau auten verdeckt war. Ungefähr zu diesem Zeitpunkt
+fuhr der Güterzuges DGS 48959 am Zsig 106, mit einer Geschwindigkeit von 34 km/h vorbei.
+Im dem anschließenden Weichenbereich des Zsig reduzierte sich die Geschwindigkeit des
+Güterzuges auf ca. 27 km/h. Der Tf der Rf erkannte zur selben Zeit, dass sich die Weiche W377
+für seinen Fahrweg nicht in der rich gen Lage befand. Darau in leitete er eine
+Schnellbremsung ein. Unmi elbar danach erkannte der Tf des Güterzuges, dass sich die Rf in
+seinem Fahrweg befand und leitete ebenfalls eine Schnellbremsung ein. Die Kollision mit der
+Rf konnte jedoch nicht mehr verhindert werden. Bei der Kollision entgleiste das Tfz und der
+erste Mineralölkesselwagen des Güterzuges DGS 48959 sowie einer der Mi elwagen der Rf.
+
+Seite 20 von 26
+
+Untersuchungsbericht
+Zugkollision, 16.02.2020, Bf Würzburg Hbf
+
+5.2 Bewertung und Schlussfolgerung
+Die Gleisnutzlänge im Gleis 231 betrug 106,95 m und war somit für den 105,55 m langen
+Fahrzeugverband der Rf ausreichend. Es konnten keine Abweichungen zu den gül gen
+Regelwerksvorgaben festgestellt werden.
+Gemäß Ril 891.0505 war der Haltbegriﬀ am Ls 231II als alleiniges Flankenschutzelement für die
+Zugfahrt DGS 48959 ausreichend. Ein Ls als einziges Flankenschutzelement kann jedoch nicht
+sicher Flankenfahrten bei Missachtung des Haltbegriﬀes verhindern.
+In der Rangiervereinbarung zwischen dem Ww und dem Tf der Rf wurden von beiden
+Mitarbeitern keine Besonderheiten genannt. Im Falle des Tf der Rf wäre es jedoch gemäß Ril
+408.4813 vorgeschrieben gewesen, den Ww über die im Fahrzeugverband befindlichen Fz mit
+abweichender Fahrzeugbegrenzungslinie, gekennzeichnet durch die Ga ungsbuchstaben
+„DAB“ und „DB“, zu informieren. Gemäß Ril 408.4813 waren für den Ww keine expliziten
+Besonderheiten aufgeführt, die auf die geplante Rf zutreﬀend gewesen wären. Auch die
+Mi eilung der disposi ven Besonderheit des Ww an den Tf der Rf, dass nach dem
+Richtungswechsel im Gleis 231 am Ls 231II zunächst noch eine vorrangige Zugfahrt abzuwarten
+war, hä e möglicherweise die Aufmerksamkeit des Tf erhöht. Dies war jedoch nicht in den
+Regelwerken vorgegeben. Der Begriﬀ Besonderheiten in Ril 408.4813 ist, abgesehen von
+einigen Beispielen, nicht genauer definiert, um au retende Gegebenheiten nicht
+regelwerkssei g auszuschließen.
+Für die Kollision ursächlich war die Vorbeifahrt der Rf am weiterhin „Halt“ signalisierenden
+Ls 231II nach der erfolgten Wende in Gleis 231. Gemäß Ril 408.4813, Abschni 3, Abs. 1 ist (in
+der Regel) die Zus mmung des Ww erforderlich, bevor Fahrzeuge bewegt werden. Ril
+408.4813, Abschni 3, Absatz 3a) gibt für den hier gegenständlichen Wendevorgang im Gleis
+231 ergänzend vor, dass beim Wechsel der Fahrtrichtung für die Weiterfahrt stets eine neue
+Zus mmung erforderlich ist. Aus der Rolle des Ww war jedoch das Ls 231II dasjenige, was für
+die erneute Zus mmung nach dem Wendevorgang am nächsten vor der Spitze der Rf lag und
+aufgrund der Funk onalitäten des Stw daher zur Übermi lung der Zus mmung relevant war.
+Es ist davon auszugehen, dass die Posi on des Fz in Bezug auf die Gleislänge und die
+begrenzenden Ls eine direkte Einsehbarkeit des Ls 231II vom Arbeitsplatz des Tf aus
+verhinderten. Dies ergab sich aus dem Design des Führerstandes. Die Fahrzeugkonstruk on
+entsprach den Anforderungen an die anthropometrischen Daten und Sichtbedingungen
+
+Seite 21 von 26
+
+Untersuchungsbericht
+Zugkollision, 16.02.2020, Bf Würzburg Hbf
+
+gemäß DIN EN 16186-1. Dem Tf hä e aufgrund seiner Fahrzeug- und Ortskenntnis bewusst
+sein müssen, dass er in dieser Konstella on von Fahrzeug, Rangierablauf und
+Anlagentopologie das „Halt“ gebietende Ls 231II hä e beachten müssen. Die im
+vorausliegenden Gleisfeld für eine andere Fahrt gezeigten Signale konnten hingegen ebenfalls
+vom Tf gesehen und fehlerha als geltende Zus mmung nach dem Wendevorgang aufgefasst
+werden, da das weiter „Halt“ gebietende Ls 231II unmi elbar vor ihm ungesehen blieb und
+daher nicht beachtet wurde.
+Vergleichbare Ereignisse
+Die Nichtbeachtung eines niedrigstehenden Ls führte am 08.11.2019 im Bf. Augsburg Hbf, am
+31.03.2021 im Bf Fallersleben und am 16.09.2024 im B
+
+Lindau-Reu n zu vergleichbaren
+
+Zugkollisionen.
+
+Seite 22 von 26
+
+Untersuchungsbericht
+Zugkollision, 16.02.2020, Bf Würzburg Hbf
+
+6 Bisher getroffene Maßnahmen
+Die DB Regio AG gab in ihrem Sicherheitsreport Nr. 01/2020 folgende Anweisungen heraus,
+um vergleichbare Vorkommnisse in Zukun zu vermeiden:
+„Während der Kommunika on zwischen dem Ww (Fdl) und dem Tf / Rb ist das Wende‐Ls
+eindeu g mit entsprechender Signalbezeichnung zu kommunizieren. Der Fahrweg ist bei
+einem Richtungswechsel / Wendevorgang immer weit genug auszufahren. Gerade bei
+mehreren Wende‐Ls im späteren Fahrweg, ist ggf. mit einem Blick aus dem Seitenfenster
+zu kontrollieren, ob die Rangierfahrt auch hinter dem vereinbarten Wende‐Ls steht. Es
+muss defini v bis hinter das vereinbarte Wende‐Ls gefahren werden.“4
+Ferner war die Auswertung dieses Ereignisses Bestandteil der regelmäßigen Fortbildung aller
+Tf bei der DB Regio AG im Jahr 2021.
+
+4
+
+Quelle: DB Regio AG, Sicherheitsreport DB Regio Bayern Nr. 01/2020
+
+Seite 23 von 26
+
+Untersuchungsbericht
+Zugkollision, 16.02.2020, Bf Würzburg Hbf
+
+7 Sicherheitsempfehlungen
+Im vorliegenden Ereignis und in den genannten vergleichbaren Ereignissen oﬀenbarte sich das
+Risiko, ein unmi elbar vor der Spitze einer zuvor gewendeten Rf befindliches, haltzeigendes
+Signal durch den rangierenden Tf von seinem üblichen Arbeitsplatz aus zu übersehen und
+daraus den gebotenen Haltau rag zum Schutz einer anderen Fahrt nicht zu beachten. Als
+begüns ge Einflüsse konnte die im Fahrzeugdesign begründete Begrenzung des Sich eldes
+sowie die spezifische Konstella on der Länge des Fahrzeugverbandes, der Rangierablauf
+sowie die Anlagentopologie ausgemacht werden. Das parallele Betriebsgeschehen, mit den
+für den Tf einsehbaren, aber anderen Fahrten zus mmenden Signalen konnte das fehlerha e
+Aufnehmen einer Zus mmung zur Rf bestärken.
+Zur Verbesserung der Sicherheit könnte zum einen eine intensivierte Ortskenntnis der Tf bzgl.
+der Standorte der Ls sowie der Länge zum Wenden benutzter Gleisabschni e unterstützen.
+Dies würde die Sicherheit jedoch nur für eine regelmäßig wiederkehrende Betriebssitua on
+bzgl. Zusammentreﬀen von Personal, Fahrzeug und Betriebsanlage erhöhen. Auch bliebe dies
+weiterhin von der situa ven Leistung des Betriebspersonals abhängig, erlernte Kenntnisse
+rich g und vollständig in das Bewusstsein zu rufen und in das gebotene Handeln auf die
+situa ven Gegebenheiten zu übertragen.
+Zum anderen würde eine ausführlichere Kommunika on der Besonderheiten bzgl. der
+Konstella on der Länge des Fahrzeugverbandes in Bezug zu den nutzbaren Gleislängen sowie
+des für eine erneute Zus mmung des Ww nach dem Wenden relevanten Ls in der gem.
+Ril 408.4813 Abschni 1 obligatorisch zu führenden Verständigung das rich ge Handeln des
+Tf unterstützen. Dem sind jedoch bereits beim außerplanmäßigen Rangieren in einer
+Betriebsstelle
+
+Grenzen
+
+in
+
+der
+
+Umsetzbarkeit
+
+gesetzt,
+
+da
+
+ein
+
+ausführlicher
+
+Informa onsaustausch zu Fahrzeug- und Gleislängen und deren Konsequenzen auf die
+Sichtgegebenheiten des Tf auf einzelne Signale mäßig wirksam erscheint. Zudem ergibt sich
+erst während der tatsächlichen Durchführung der Rf die spätere Posi on der Spitze der Rf und
+daraus das nach dem Wendevorgang für die erneute Zus mmung relevante Sperrsignal.
+Hierbei fließen das Abschätzen eines Anhaltepunktes durch den Tf sowie der letztendlich
+realisierte Halteplatz ein. Überdies ist ein immer ausreichendes Einbeziehen in den
+fortzuführenden Arbeitsprozess durch den rangierenden Tf ohne ggf. zuvor erfolgtes Erfassen
+der Örtlichkeit in Zweifel zu ziehen. Es blieben Gefahren von Missverständnissen oder
+
+Seite 24 von 26
+
+Untersuchungsbericht
+Zugkollision, 16.02.2020, Bf Würzburg Hbf
+
+Verwechslungen von Gleis- und Signalbezeichnungen bzw. Signalstandorten in der
+Betriebsanlage.
+Die bereits vom beteiligten EVU DB Regio AG intern empfohlene zusätzliche Handlung, nach
+dem Führerstandswechsel das Vorhandensein eines Ls unmi elbar vor der Spitze der Rf
+zunächst durch einen zusätzlichen Seitenblick aus dem Führerstand zu kontrollieren, bewirkt
+hingegen eine unmi elbare Erhöhung der Sicherheit. Diese ist unabhängig von der Güte der
+Ortskenntnis und dem vorausgegangenen Vorbereiten des Rangierens.
+Eine solche in den Arbeitsablauf integrierte, bewusst zu leistende Handlung erscheint daher
+sehr wirksam und einfach, um direkt vor der Spitze einer Rf Halt gebietende, vom gewohnten
+Arbeitsplatz des Tf nicht einsehbare Signale zu beachten und das Risiko von Handlungsfehlern
+zu reduzieren. Zudem wirkt diese bewusst ausgeführte Handlung für den Tf zusätzlich
+unterstützend, um die Erteilung einer erneuten Zus mmung gem. Ril 408.4813 Abschni 3,
+Abs. 3a) und die für diese Situa on bereits bedeutsame, gem. Ril 408.4814 Abschni 4 Abs. 1
+gebotene Beobachtung u. a. der Signale beim Rangieren bewusst zu entscheiden. Auch für die
+vorausliegenden ersten Meter der Rf ist der Fahrweg vollständig zu beobachten. Hierunter
+fällt implizit auch, dass nicht erst das erste im Sich eld erkennbare Sperrsignal das Rangieren
+regelt, sondern bereits das zur Spitze der Rf nächste Sperrsignal.
+Die BEU spricht eine Sicherheitsempfehlung dahingehend aus, dass die EVU eine Ergänzung
+der Arbeitsabläufe beim Rangieren zur Berücksich gung des in mehreren Ereignissen
+oﬀenbarten Risikos vornehmen. Der Arbeitsablauf sollte derart ergänzt werden, dass
+unabhängig vom begrenzten Sich eld am gewohnten Arbeitsplatz des Tf sichergestellt ist,
+dass ein vor der Spitze einer Rf durch Signal gebotener Haltbegriﬀ vom Tf gesehen und
+beachtet wird. Dies bedeutet in erster Linie das vollständige Einsehen des vorausliegenden
+Fahrweges, um nach einem Wendevorgang das für die erneute Zus mmung maßgebliche
+Signal zu beachten. Zusätzlich können die Sicherheit zusätzlich erhöhende Maßnahmen wie
+eine präzise Vorbereitung des Rangierens unterstützen.
+Hierzu ist das oﬀenbarte Risiko gemäß Delegierter Verordnung (EU) 2018/762 „über
+gemeinsame Sicherheitsmethoden bezüglich der Anforderungen an Sicherheitsmanagementsysteme“, Anhang I, Kapitel 3.1.1 in die Risikobewertung der EVU einzubeziehen und es sind
+diesbezügliche Sicherheitsmaßnahmen zur Kontrolle zu entwickeln.
+
+Seite 25 von 26
+
+Untersuchungsbericht
+Zugkollision, 16.02.2020, Bf Würzburg Hbf
+
+Die von Tf anzuwendenden Arbeitsvorgaben für das Rangieren auf den Infrastrukturen im
+Zuständigkeitsbereich der BEU werden gegenwär g von den EIU als integriert verfasster Teil
+der betrieblichen Regelwerke herausgegeben. Dies dient auch der Einheitlichkeit der
+Betriebsführung durch die Eisenbahnen. Daher empfiehlt sich zur Berücksich gung dieser
+Sicherheitsempfehlung eine Zusammenarbeit der EVU mit den EIU.
+Gemäß § 6 EUV und Art. 26 Abs. 2 der Richtlinie (EU) 2016/798 ergehen nachfolgende
+Sicherheitsempfehlungen an die na onale Sicherheitsbehörde EBA.
+Lfd. Nr.
+
+Sicherheitsempfehlung
+
+Betri
+
+Unternehmen
+
+01/2025
+
+Es wird empfohlen, gem. Delegierter Verordnung
+(EU) 2018/762, Anhang I, Kapitel 3.1.1
+Sicherheitsmaßnahmen zu entwickeln, damit
+unabhängig vom begrenzten Sich eld am
+gewohnten Arbeitsplatz des Tf ein durch Signal
+gebotener Haltbegriﬀ gesehen und beachtet wird.
+
+Eisenbahnverkehrsunternehmen /
+Eisenbahninfrastrukturunternehmen
+
+Seite 26 von 26
+
+

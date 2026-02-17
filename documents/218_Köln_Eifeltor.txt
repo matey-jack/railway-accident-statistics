@@ -1,0 +1,1428 @@
+Untersuchungsbericht
+Aktenzeichen:
+
+BEU-uu2020-09/004-3323
+
+Stand:
+
+30.01.2024
+
+Erstveröﬀentlichung:
+
+05.02.2024
+
+Version 1.0
+
+Gefährliches Ereignis im Eisenbahnbetrieb
+
+Ereignisart:
+
+Zugentgleisung
+
+Datum:
+
+05.09.2020
+
+Zeit:
+
+01:25 Uhr
+
+Betriebsstelle:
+
+Bf Köln Eifeltor
+
+Gleis:
+
+11
+
+Weiche:
+
+12
+
+Untersuchungsbericht
+Zugentgleisung, 05.09.2020, Bf Köln Eifeltor
+
+Veröﬀentlicht durch:
+Bundesstelle für Eisenbahnunfalluntersuchung
+Heinemannstraße 6
+53175 Bonn
+
+Untersuchungsbericht
+Zugentgleisung, 05.09.2020, Bf Köln Eifeltor
+
+Inhaltsverzeichnis
+I.
+
+Änderungsverzeichnis: .......................................................................................... II
+
+II.
+
+Abbildungsverzeichnis: ........................................................................................ III
+
+III.
+
+Tabellenverzeichnis: ............................................................................................ IV
+
+IV.
+
+Abkürzungsverzeichnis: ........................................................................................ V
+
+0
+
+Vorbemerkung...................................................................................................... 1
+
+1
+
+Zusammenfassung ................................................................................................ 2
+
+1.1
+
+Kurzbeschreibung des Ereignisses........................................................................... 2
+
+1.2
+
+Folgen ...................................................................................................................... 2
+
+1.3
+
+Ursachen.................................................................................................................. 2
+
+1.4
+
+Sicherheitsempfehlungen ....................................................................................... 2
+
+2
+
+Die Untersuchung und ihr Kontext ........................................................................ 3
+
+3
+
+Beschreibung des Ereignisses................................................................................ 5
+
+3.1
+
+Informationen über das Ereignis und seine Hintergründe ..................................... 5
+
+3.1.1
+
+Lage und Beschreibung des Ereignisortes ............................................................... 5
+
+3.1.2
+
+Beteiligte.................................................................................................................. 7
+
+3.1.3
+
+Äußere Bedingungen ............................................................................................... 7
+
+3.1.4
+
+Todesopfer, Verletzte und Sachschäden................................................................. 7
+
+3.2
+
+Sachliche Beschreibung der Vorkommnisse ........................................................... 9
+
+3.2.1
+
+Hergangsbeschreibung ............................................................................................ 9
+
+3.2.2
+
+Notfallmanagement .............................................................................................. 10
+
+4
+
+Auswertung des Ereignisses ................................................................................ 12
+
+4.1
+
+Aufgaben und Pflichten ......................................................................................... 12
+
+4.1.1
+
+Untersuchung der betrieblichen Abläufe des EVU ............................................... 12
+
+I
+
+Untersuchungsbericht
+Zugentgleisung, 05.09.2020, Bf Köln Eifeltor
+
+I.
+
+4.1.2
+
+Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers ................. 17
+
+4.2
+
+Fahrzeuge und technische Einrichtungen ............................................................. 18
+
+4.2.1
+
+Untersuchung von Fahrzeugen ............................................................................. 18
+
+4.2.2
+
+Untersuchung der bautechnischen Infrastruktur ................................................. 25
+
+4.2.3
+
+Untersuchung der LST ........................................................................................... 31
+
+4.3
+
+Menschliche Faktoren ........................................................................................... 32
+
+4.3.1
+
+Qualifikation und Tauglichkeit Fdl ......................................................................... 32
+
+4.3.2
+
+Qualifikation und Tauglichkeit des Tf .................................................................... 32
+
+4.3.3
+
+Handlungen Stellwerkspersonal ............................................................................ 33
+
+4.3.4
+
+Handlungen Tf ....................................................................................................... 33
+
+4.4
+
+Feedback- und Kontrollmechanismen .................................................................. 33
+
+4.5
+
+Frühere Ereignisse ähnlicher Art ........................................................................... 34
+
+5
+
+Schlussfolgerungen ............................................................................................. 35
+
+5.1
+
+Zusammenfassung und Schlussfolgerung ............................................................. 35
+
+5.2
+
+Seit dem Ereignis getroffene Maßnahmen ........................................................... 36
+
+5.3
+
+Zusätzliche Bemerkungen ..................................................................................... 36
+
+6
+
+Sicherheitsempfehlungen ................................................................................... 36
+
+Änderungsverzeichnis:
+Änderung
+
+Stand
+
+II
+
+Untersuchungsbericht
+Zugentgleisung, 05.09.2020, Bf Köln Eifeltor
+
+II.
+
+Abbildungsverzeichnis:
+Abbildung 1: Lageplan ................................................................................................................ 6
+Abbildung 2: Laufweg des Zuges und Entgleisungsstelle ........................................................... 6
+Abbildung 3: Schienenbruch hinter der Weiche 12 ................................................................... 8
+Abbildung 4: Beschädigungen des Oberbaus............................................................................. 9
+Abbildung 5: Auszug aus dem Fahrplan ................................................................................... 13
+Abbildung 6: Kopfangaben des Fahrplans des GS 60711 ......................................................... 13
+Abbildung 7: Grafische Auswertung der EFR-Daten von GS 60711 ......................................... 16
+Abbildung 8: Rekonstruierte Position des 23. Wagens nach der Zwangsbremsung ............... 16
+Abbildung 9: Revisionsanschrift ............................................................................................... 19
+Abbildung 10: Lauffläche und Spurkranz mit Entgleisungsspuren Wagen 31 80 4871 375-0 . 21
+Abbildung 11: Radsatzhaltersteg Wagen 31 80 4871 375-0 .................................................... 21
+Abbildung 12: Beschädigter Puffer an Wagen 31 80 4871 375-0 ............................................ 22
+Abbildung 13: Verschweißstellen in den Drehpfannenkomponenten .................................... 23
+Abbildung 14: Materialveränderungen an den Drehpfannenkomponenten .......................... 23
+Abbildung 15: Entgleisungsstelle in Weiche 12 ....................................................................... 25
+Abbildung 16: Detail der Entgleisungsspur am Radlenker im Abzweig der Weiche 12 ........... 26
+Abbildung 17: Messwerte im Bereich der Entgleisungsstelle .................................................. 27
+Abbildung 18: Abgenutzte Flügelschiene und Herzstückspitze ............................................... 28
+Abbildung 19: Auszug aus dem Weichenprüfblatt .................................................................. 29
+
+III
+
+Untersuchungsbericht
+Zugentgleisung, 05.09.2020, Bf Köln Eifeltor
+
+III.
+
+Tabellenverzeichnis:
+Tabelle 1: Übersicht der äußeren Bedingungen ........................................................................ 7
+Tabelle 2: Übersicht der Personenschäden ............................................................................... 7
+Tabelle 3: Übersicht der geschätzten Schadenshöhe ................................................................ 8
+Tabelle 4: Eingegebene EFR-Zugdaten ..................................................................................... 15
+Tabelle 5: Auszug aus dem GSM-R Gespräch zwischen Ww des Stellwerks R3 und dem Tf ... 17
+Tabelle 6: Auszug aus dem GSM-R Gespräch zwischen Fdl Enf und dem Tf............................ 18
+Tabelle 7: Technische Daten Wagen 31 80 4871 375-0 ........................................................... 20
+
+IV
+
+Untersuchungsbericht
+Zugentgleisung, 05.09.2020, Bf Köln Eifeltor
+
+IV.
+
+Abkürzungsverzeichnis:
+AEG
+
+Allgemeines Eisenbahngesetz
+
+Asig
+
+Ausfahrsignal
+
+BEU
+
+Bundesstelle für Eisenbahnunfalluntersuchung
+
+BEVVG
+
+Bundeseisenbahnverkehrsverwaltungsgesetz
+
+Bf
+
+Bahnhof
+
+BR
+
+Baureihe
+
+BRA
+
+Bremsart
+
+BRH
+
+Bremshundertstel
+
+BRW
+
+Betriebsregelwerk
+
+DG
+
+Drehgestell
+
+ECM
+
+En ty in Charge of Maintenance
+
+EFR
+
+Elektronische Fahrtenregistrierung
+
+EIU
+
+Eisenbahninfrastrukturunternehmen
+
+EKW
+
+Einfache Kreuzungsweiche
+
+Esig
+
+Einfahrsignal
+
+ESiV
+
+Verordnung über die Sicherheit des Eisenbahnsystems
+
+EU
+
+Europäische Union
+
+EUV
+
+Eisenbahn-Unfalluntersuchungsverordnung
+
+EVU
+
+Eisenbahnverkehrsunternehmen
+
+EVZS
+
+Für die Entstörungsveranlassung verantwortliche Stelle
+
+Fdl
+
+Fahrdienstleiter
+
+GSM-R
+
+Global System for Mobile Communica ons-Rail
+
+Hs
+
+Hauptsperrsignal
+
+LST
+
+Leit- und Sicherungstechnik
+
+PZB
+
+Punk örmige Zugbeeinflussung
+
+Ril
+
+Richtlinie
+
+V
+
+Untersuchungsbericht
+Zugentgleisung, 05.09.2020, Bf Köln Eifeltor
+
+SMS
+
+Sicherheitsmanagementsystem
+
+SR
+
+Störgröße/Reak on
+
+Tf
+
+Triebfahrzeugführer
+
+TFS
+
+Triebfahrzeugführerscheinstelle
+
+TfV
+
+Triebfahrzeugführerscheinverordnung
+
+Tfz
+
+Triebfahrzeug
+
+UT
+
+Ultraschallprüfung
+
+Vsig
+
+Vorsignal
+
+VzG
+
+Verzeichnis der örtlich zulässigen Geschwindigkeiten
+
+Ww
+
+Weichenwärter
+
+VI
+
+Untersuchungsbericht
+Zugentgleisung, 05.09.2020, Bf Köln Eifeltor
+
+0 Vorbemerkung
+Auf der Grundlage des Ar kel 24 der Richtlinie (EU) 2016/798 hat die europäische Kommission
+mit der Inkra setzung der Durchführungsverordnung (EU) 2020/572 die Untersuchungsberichtsstruktur festgelegt. Diese Vorgaben sind grundsätzlich einzuhalten und müssen der Art
+und Schwere des gefährlichen Ereignisses angepasst sein.
+Mit Verkündung der Verordnung und Inkra setzung am zwanzigsten Tag nach der Veröﬀentlichung im Amtsbla der Europäischen Union (EU) ist diese verbindlich und unmi elbar auf
+alle ab dem 17.05.2020 eingeleiteten Untersuchungen anzuwenden.
+
+Seite 1 von 36
+
+Untersuchungsbericht
+Zugentgleisung, 05.09.2020, Bf Köln Eifeltor
+
+1 Zusammenfassung
+Das erste Kapitel enthält eine Kurzbeschreibung des Ereignisses sowie Informa onen zu den
+Folgen, Primärursachen sowie zu im Einzelfall ausgesprochenen Sicherheitsempfehlungen.
+
+1.1 Kurzbeschreibung des Ereignisses
+Am 05.09.2020 gegen 01:25 Uhr entgleiste der Güterzug GS 60711 auf der Fahrt von Oberhausen West nach Andernach bei der Fahrt durch den Bahnhof (Bf) Köln Eifeltor mit dem 23.
+Wagen in der Weiche 12.
+
+1.2 Folgen
+Personen wurden weder verletzt noch getötet.
+In Folge der Entgleisung entstanden erhebliche Schäden an dem betroﬀenen sowie an dem
+vor- und nachlaufenden Wagen. Der Oberbau sowie die Leit- und Sicherungstechnik wurden
+in der Folge stark beschädigt. Es entstanden Sachschäden in geschätzter Höhe von
+1.140.000 Euro.
+
+1.3 Ursachen
+Ursächlich für das Ereignis war ein in seiner Bewegungsfreiheit eingeschränktes Drehgestell
+am 23. Wagen. Als begünstigender Umstand wurden die Trassierung, der regelwerkskonforme
+Zustand des Oberbaus sowie die durch eine Zwangsbremsung ausgelösten Kräfte, die auf das
+Drehgestell bei der Überfahrt der Weiche 12 einwirkten, identifiziert.
+
+1.4 Sicherheitsempfehlungen
+Es wurden keine Sicherheitsempfehlungen ausgesprochen.
+
+Seite 2 von 36
+
+Untersuchungsbericht
+Zugentgleisung, 05.09.2020, Bf Köln Eifeltor
+
+2 Die Untersuchung und ihr Kontext
+Die Bundesstelle für Eisenbahnunfalluntersuchung (BEU) ist für die Untersuchung von gefährlichen Ereignissen im Eisenbahnbetrieb im Sinne des Kapitels V der Richtlinie (EU) 2016/798
+auf Eisenbahninfrastrukturen des Bundes und auf nicht bundeseigenen Eisenbahninfrastrukturen des übergeordneten Netzes gemäß § 2b Allgemeines Eisenbahngesetz (AEG) zuständig.
+Ziel und Zweck der eingeleiteten Untersuchungen ist es, die Ursachen des gefährlichen Ereignisses aufzuklären und hieraus Hinweise zur Verbesserung der Sicherheit abzuleiten. Untersuchungen der BEU dienen nicht dazu, ein Verschulden festzustellen oder Fragen der Ha ung
+oder sons ger zivilrechtlicher Ansprüche zu klären und werden unabhängig von jeder gerichtlichen Untersuchung durchgeführt.
+Sicherheitsempfehlungen der BEU zur Vermeidung von gefährlichen Ereignissen und Verbesserung der Eisenbahnsicherheit werden an die na onale Sicherheitsbehörde, sofern es die Art
+der Empfehlung erfordert an die Eisenbahnagentur der Europäischen Union und an andere
+Stellen oder Behörden adressiert. Im Allgemeinen sind die Sicherheitsempfehlungen auch an
+die betroﬀenen Eisenbahnunternehmen gerichtet.
+Zu schweren Unfällen leitet die BEU stets Untersuchungen gem. Ar kel 20 Abs. 1 Richtlinie
+(EU) 2016/798 ein. Unter einem schweren Unfall sind insbesondere Zugkollisionen oder Zugentgleisungen mit mindestens einem Todesopfer oder mindestens fünf Schwerverletzten oder mit beträchtlichem Schaden (≥ 2 Mio. Euro) sowie sons ge Unfälle mit den gleichen Folgen und mit oﬀensichtlichen Auswirkungen auf die Regelung der Eisenbahnsicherheit oder das
+Sicherheitsmanagementsystem zu verstehen. Bei allen sons gen gefährlichen Ereignissen im
+Eisenbahnbetrieb liegt es im Ermessen der BEU Untersuchungen einzuleiten. Bei der Entscheidung werden neben den zum Ereigniszeitpunkt verfügbaren Ressourcen weitere Kriterien
+gem. Ar kel 20 Abs. 2 Richtlinie (EU) 2016/798 herangezogen.
+Bei dem vorliegenden gefährlichen Ereignis wurden Untersuchungen auf Grundlage des Ar kels 20 Abs. 2 Richtlinie (EU) 2016/798 eingeleitet.
+Die Unfalluntersuchungshandlungen werden strukturiert in vier definierten Kernprozessen
+durchgeführt, die mit der Entscheidung zur Aufnahme einer Untersuchung beginnen und mit
+der Veröﬀentlichung des Untersuchungsberichtes abgeschlossen werden. Zur Ursachenermi lung werden ergebnisoﬀene Untersuchungen im Ausschlussverfahren in allen beteiligten
+
+Seite 3 von 36
+
+Untersuchungsbericht
+Zugentgleisung, 05.09.2020, Bf Köln Eifeltor
+
+Fachdisziplinen angestellt und hierbei insbesondere Fehler-Ursachen-Analysen und Soll-IstVergleiche durchgeführt.
+Vom örtlich zuständigen Untersuchungsbezirk Nordwest wurden die Untersuchungshandlungen federführend geleitet.
+Sofern im Einzelfall geboten, werden die jeweiligen Untersuchungsteams bezirksübergreifend
+unterstützt und notwendige Sachverständigenleistungen extern beau ragt.
+Neben den beteiligten Unternehmen wirkte an der Untersuchung folgende weitere Stelle mit:
+
+
+DB Systemtechnik GmbH zur Untersuchung der Drehgestelle BA 710.1
+
+Die Durchführung der Unfalluntersuchung setzt voraus, dass alle an dem gefährlichen Ereignis
+Beteiligten den jeweiligen Meldeverpflichtungen gem. § 2 Abs. 3 EUV nachkommen und gefährliche Ereignisse ordnungsgemäß melden sowie die Informa onen auf dem neuesten Stand
+halten. Auf Grundlage des § 5a AEG werden i. d. R. weitergehende zur Untersuchungsdurchführung erforderliche Informa onen, Auskün e und Nachweise abgefordert. Diese notwendigen Zuarbeiten konnten mi els Auskun sersuchen gewonnen werden.
+Darüber hinaus können nach § 5b Abs. 4 AEG von den an gefährlichen Ereignissen beteiligten
+Eisenbahnen Unterstützungsleistungen eingefordert werden. Bei dem vorliegenden gefährlichen Ereignis wurden folgende Unterstützungsleistungen eingefordert und durchgesetzt:
+
+
+Durch das beteiligte Eisenbahnverkehrsunternehmen (EVU) DB Cargo AG wurden die
+Daten der elektronischen Fahrtenregistrierung (EFR) des Tfz ausgelesen und der BEU
+zur Auswertung übergeben.
+
+Die infrastruktursei ge Freigabe der Unfallstelle erfolgte durch die BEU am 05.09.2020 um
+16:30 Uhr.
+
+Seite 4 von 36
+
+Untersuchungsbericht
+Zugentgleisung, 05.09.2020, Bf Köln Eifeltor
+
+3 Beschreibung des Ereignisses
+Im dri en Kapitel wird das gefährliche Ereignis in zwei vorgegebenen Unterkapiteln näher beschrieben. In Kapitel 3.1 sind neben den Grunddaten weitere Informa onen zum Ereignisort,
+den äußeren Bedingungen, den Folgen und den Beteiligten enthalten. Die Ereignisrekonstrukon sowie Informa onen zur Auslösung und dem Ablauf der Re ungsmaßnahmen sind im
+Kapitel 3.2 dargestellt. Die Beschreibungen beziehen sich grundsätzlich auf die zum Ereigniszeitpunkt vorherrschenden Bedingungen und vorgefundenen Sachverhalte.
+
+3.1 Informationen über das Ereignis und seine Hintergründe
+Bei dem Ereignis handelte es sich um eine Zugentgleisung im Sinne der Richtlinie
+(EU) 2016/798.
+Die BEU führt das Ereignis na onal unter der Ereignisart Zugentgleisung.
+3.1.1 Lage und Beschreibung des Ereignisortes
+Die Zugentgleisung ereignete sich im Bf Köln Eifeltor. Der Bf Köln Eifeltor war ein Güter- und
+Containerbahnhof, durch den unter anderem die laut Verzeichnis der zulässigen Geschwindigkeiten (VzG) benannte Strecke 2643 führte. Bei dieser Strecke handelte es sich um eine elektrifizierte, zweigleisige Hauptbahn von Köln Bonntor nach Köln Eifeltor des Eisenbahninfrastrukturunternehmens (EIU) DB Netz AG. Die Höchstgeschwindigkeit bei der Einfahrt in den Bf Köln
+Eifeltor betrug 40 km/h bei einem Bremsweg von 700 m. Die Strecke und der Bf waren mit
+dem Zugsicherungssystem Punk örmige Zugbeeinflussung (PZB) sowie dem digitalen Zugfunk
+Global System for Mobile Communica ons-Rail (GSM-R) ausgerüstet. Die Signale im Fahrweg
+des Güterzug GS 60711 waren als Formsignale ausgeführt.
+Der nachfolgende Lageplan veranschaulicht die geografische Lage des Ereignisortes.
+
+Seite 5 von 36
+
+Untersuchungsbericht
+Zugentgleisung, 05.09.2020, Bf Köln Eifeltor
+
+Abbildung 1: Lageplan1
+
+Abbildung 2: Laufweg des Zuges und Entgleisungsstelle2
+
+1
+
+Quelle: Geobasisdaten: © GeoBasis-DE / BKG [2020], bearbeitet durch BEU
+
+2
+
+Quelle: DB Netz AG, bearbeitet durch BEU
+
+Seite 6 von 36
+
+Untersuchungsbericht
+Zugentgleisung, 05.09.2020, Bf Köln Eifeltor
+
+3.1.2 Beteiligte
+Am Ereignis waren folgende Unternehmen beteiligt:
+
+
+DB Netz AG als EIU
+
+
+
+DB Cargo AG als EVU
+
+Für das EIU lag eine Sicherheitsgenehmigung gemäß § 7c AEG des Eisenbahn-Bundesamts mit
+Gül gkeit bis 19.10.2021 vor.
+Das zum Ereigniszeitpunkt verantwortliche EVU verfügte über eine Sicherheitsbescheinigung
+gemäß § 7a AEG mit einer Gül gkeit bis zum 13.12.2020 und war damit zur der Teilnahme am
+Eisenbahnbetrieb berech gt.
+3.1.3 Äußere Bedingungen
+Zum Zeitpunkt des Ereignisses herrschten folgende Bedingungen:
+Lichtverhältnisse
+
+Dunkelheit
+
+Sicht
+
+klar
+
+Bedeckung
+
+leicht bewölkt
+
+Temperaturen
+
+18 °C
+
+fallender Niederschlag
+
+Nein
+
+Niederschlagshäufigkeit
+
+--
+
+Untergrund / gefallener Niederschlag
+
+trocken
+
+Tabelle 1: Übersicht der äußeren Bedingungen
+
+3.1.4 Todesopfer, Verletzte und Sachschäden
+Bei dem Ereignis traten folgend aufgeführte Personenschäden ein:
+Anzahl Tote
+
+Anzahl schwer Verletzte
+
+Anzahl leicht Verletzte
+
+Reisende
+
+-
+
+-
+
+-
+
+Mitarbeiter
+
+-
+
+-
+
+-
+
+Benutzer von
+Bahnübergängen
+
+-
+
+-
+
+Dri e
+
+-
+
+-
+
+-
+
+Summe
+
+0
+
+0
+
+0
+
+Tabelle 2: Übersicht der Personenschäden
+
+Seite 7 von 36
+
+Untersuchungsbericht
+Zugentgleisung, 05.09.2020, Bf Köln Eifeltor
+
+Die geschätzte Höhe der Sachschäden in Euro setzt sich wie folgt zusammen:
+geschätzte Kosten in Euro
+Fahrzeuge
+
+40.000
+
+Infrastruktur
+
+1.100.000
+
+Dri e
+Gesamtschadenshöhe
+
+1.140.000
+
+Tabelle 3: Übersicht der geschätzten Schadenshöhe
+
+Die beiden nachfolgenden Abbildungen geben einen Einblick in die durch das Ereignis hervorgerufenen Beschädigungen des Oberbaus über eine Länge von ca. 500 m. Außerdem führte
+die Entgleisung zu Störungen an den Weichen 13 und 14.
+
+Abbildung 3: Schienenbruch hinter der Weiche 123
+
+3
+
+Quelle: DB Cargo AG
+
+Seite 8 von 36
+
+Untersuchungsbericht
+Zugentgleisung, 05.09.2020, Bf Köln Eifeltor
+
+Abbildung 4: Beschädigungen des Oberbaus4
+
+3.2 Sachliche Beschreibung der Vorkommnisse
+Zur Rekonstruk on des gefährlichen Ereignisses sowie zur Beschreibung der No allmaßnahmen werden insbesondere auch die in Kapitel 4 enthaltenen Aufzeichnungen, Auswertungen
+und Feststellungen etc. herangezogen.
+3.2.1 Hergangsbeschreibung
+Der Güterzug GS 60711 fuhr am 05.09.2020 um 01:25 Uhr aus Richtung Köln Bonntor kommend mit einer Geschwindigkeit von ca. 40 km/h vorbei am Einfahrsignal (Esig) B, mit Signalbegriﬀ Hp 2, „Langsamfahrt“, in das Gleis 11 des Bf Köln Eifeltor ein. Ab dem Gruppensignal U
+sollte der Güterzug GS 60711 auf die VzG-Strecke 2640 in Richtung Hürth-Kalscheuren zur
+Weiterfahrt in Richtung Andernach übergehen.
+Bei der Einfahrt in den Bf Köln Eifeltor befuhr der Zug die Weichenverbindung hinter dem
+Esig B. Im Gleis 11 erhielt der Zug 250 m vor dem Hauptsperrsignal (Hs) 11III, bei einer Geschwindigkeit von 37 km/h eine 500 Hz-Beeinflussung. Da der Tf die Geschwindigkeit jedoch
+zu diesem Zeitpunkt nicht entsprechend der restrik ven Überwachung der PZB reduzierte,
+erfolgte eine Zwangsbremsung. Zum Zeitpunkt der 500 Hz-Beeinflussung befand sich der an
+23. Stelle des Zuges laufende Wagen wenige Meter vor dem Weichenanfang der Weiche 10.
+
+4
+
+Quelle: DB Cargo AG
+
+Seite 9 von 36
+
+Untersuchungsbericht
+Zugentgleisung, 05.09.2020, Bf Köln Eifeltor
+
+Als die Bremswirkung am Triebfahrzeug einsetzte, ha e Wagen 23 den Übergang zwischen
+Weiche 10 und Weiche 11 erreicht. Wenige Meter später, etwa zwischen dem Weichenende
+der Weiche 11 und dem Weichenanfang der Weiche 12, setzte die volle Bremswirkung auch
+bei Wagen 23 ein. Erste Entgleisungsspuren am Radlenker der Weiche 12 und die Entgleisungsspuren am Fahrzeug ließen den Schluss zu, dass zunächst der letzte Radsatz des nachlaufenden Drehgestells des Wagens auf Höhe des Herzstücks nach links entgleiste, als die
+Längskrä e, entstanden durch die Zwangsbremsung des Zuges, voll wirksam wurden. Durch
+die Entgleisung des 23. Wagens wurden sowohl der vorlaufende 22. Wagen als auch der nachlaufende 24. Wagen beschädigt.
+In der Weiche 42 gleiste sich der 23. Wagen wieder selbstständig ein. Die Entgleisung des Zuges und sein selbstständiges Wiedereingleisen blieben vom Tf unbemerkt. Erst nach der Ankun im Zielbahnhof Andernach wurde der Tf über die Entgleisung informiert und erhielt den
+Au rag, den Zug zu untersuchen. Dabei stellte er die Spuren der Entgleisung an den betroﬀenen Wagen fest.
+3.2.2 Notfallmanagement
+Nach § 4 Abs. 3 AEG haben die Eisenbahnen die Verpflichtung, an Maßnahmen des Brandschutzes und der technischen Hilfeleistung mitzuwirken. Die Innenministerien der Länder und
+die DB AG haben sich auf folgende Verfahrensweise verständigt. Für die DB Netz AG gelten
+die entsprechenden Brand- und Katastrophenschutzgesetze der Länder. Das No allmanagement der DB AG ist in der Konzernrichtlinie 123, das der DB Netz AG in der Richtlinie (Ril) 423
+näher beschrieben und geregelt.
+Dass der Güterzug GS 60711 bei seiner Durchfahrt durch den Bf Köln Eifeltor um 01:25 Uhr
+entgleist war, wurde von den beteiligten Betriebspersonalen zunächst nicht festgestellt. Um
+die Ursache der eingetretenen Weichenstörungen zu ermi eln, informierte der Fahrdienstleiter (Fdl) gegen 01:36 Uhr die für die Entstörungsveranlassung verantwortliche Stelle (EVZS).
+Gegen 02:05 Uhr stellte die eingetroﬀene Fachkra Leit- und Sicherungstechnik (LST) fest,
+dass die Ursache der Weichenstörungen auf eine Zugentgleisung zurückzuführen war. Der Fdl
+informierte darau in gegen 02:33 Uhr die No allleitstelle Duisburg über das Ereignis. Der
+No allmanager wurde um 02:38 Uhr von der No allleitstelle informiert. Er erreichte den Ereignisort gegen 03:05 Uhr. Aufgrund des selbstständigen Wiedereingleisens von Zug GS 60711
+wurden keine Bergungs- und Re ungsmaßnahmen eingeleitet.
+
+Seite 10 von 36
+
+Untersuchungsbericht
+Zugentgleisung, 05.09.2020, Bf Köln Eifeltor
+
+Unregelmäßigkeiten oder Verzögerungen in Bezug auf das Einleiten von Re ungsmaßnahmen
+wurden der BEU im Rahmen der Unfalluntersuchung nicht bekannt.
+
+Seite 11 von 36
+
+Untersuchungsbericht
+Zugentgleisung, 05.09.2020, Bf Köln Eifeltor
+
+4 Auswertung des Ereignisses
+In diesem Kapitel werden insbesondere die im Rahmen der Unfalluntersuchung ermi elten
+maßgeblichen sicherheitskri schen Faktoren in bis zu vier zugehörigen Unterkapiteln dargestellt. Hierbei wird im jeweiligen Einzelfall auf die Aufgaben und Pflichten einzelner Personen
+und Stellen, auf beteiligte Fahrzeuge und technische Einrichtungen genauso eingegangen wie
+auf konkrete menschliche Handlungen sowie auf Feedback- und Kontrollmechanismen. Sofern
+Informa onen zu früheren Ereignissen vorliegen, werden diese in einem weiteren Unterkapitel dargestellt.
+
+4.1 Aufgaben und Pflichten
+In diesem Kapitel werden unbeschadet des Ar kels 20 Abs. 4 der Richtlinie (EU) 2016/798 die
+Aufgaben und Pflichten von Personen und Stellen behandelt, die an dem Ereignis beteiligt waren. Untersuchungen zu Schuld- oder Ha ungsfragen sind explizit ausgeschlossen und nicht
+Untersuchungsgegenstand.
+4.1.1 Untersuchung der betrieblichen Abläufe des EVU
+Das verantwortliche EVU ist gemäß § 4 Abs. 3 AEG 1. verpflichtet, den Betrieb sicher zu führen. Regeln für die Durchführung von Zugfahrten und zur Planung und Überwachung des Betriebes durch den Unternehmer sind im Betriebsregelwerk (BRW) umgesetzt. Außerdem galten Zusatzmodule des EVU DB Cargo AG, die zusammen mit dem o. g. Regelwerk im „Regelbuch – Basisteil für Mitarbeiter im Bahnbetrieb DBCDE-003“ zusammengeführt waren. Darüber hinaus gehört zur Gewährleistung der sicheren Betriebsführung u. a. das Aufstellen und
+Einhalten eines, den nach gesetzlichen Anforderungen gemäß § 4 Abs. 4 AEG i. V. m. dem Arkel 9 Absatz 1 bis 5 der Ril (EU) 2016/798 entsprechenden Sicherheitsmanagementsystems
+(SMS). Inhaltliche Maßstäbe für ein SMS bilden die Aufstellung und Einhaltung der in der Delegierte Verordnung (DV) (EU) 2018/762 genannten Anforderungen.
+Im Rahmen der Erteilung einer Sicherheitsbescheinigung müssen EVU nachweisen, dass ein
+SMS eingerichtet wurde, welches den EU-rechtlichen Anforderungen genügt. Diese Verpflichtung ist auch im Hinblick auf die Beherrschung von Risiken im Anhang I Ziﬀer 3.1, insbesondere
+Ziﬀer 3.1.1 Delegierte Verordnung (EU) 2018/762 über gemeinsame Sicherheitsmethoden bezüglich der Anforderungen an Sicherheitsmanagementsysteme gemäß der Ril (EU) 2016/798
+umzusetzen.
+
+Seite 12 von 36
+
+Untersuchungsbericht
+Zugentgleisung, 05.09.2020, Bf Köln Eifeltor
+
+Die zulässigen Geschwindigkeiten eines signalgeführten Zuges sind gemäß Ril 408.2341 Abschni 2 Abs. 1 im Fahrplan des Zuges und der Zusammenstellung der vorübergehenden Langsamfahrstellen vorgeschrieben. Diese zulässigen Geschwindigkeiten können gemäß Abs. 4 der
+Ril u. a. durch Signale eingeschränkt sein. In der nachfolgenden Abbildung ist ein Auszug aus
+dem Fahrplan des Zuges für den Bereich Köln Eifeltor dargestellt. Hieraus ist zu entnehmen,
+dass für den Zug bei der Einfahrt in den Bf Köln Eifeltor eine Geschwindigkeit von 40 km/h
+vorgegeben war.
+
+Abbildung 5: Auszug aus dem Fahrplan
+
+In der nachfolgenden Abbildung sind die Kopfangaben des Fahrplans für den GS 60711 dargestellt. Hier war für diese Zugfahrt eine Höchstgeschwindigkeit von 90 km/h vorgegeben.
+
+Abbildung 6: Kopfangaben des Fahrplans des GS 60711
+
+Seite 13 von 36
+
+Untersuchungsbericht
+Zugentgleisung, 05.09.2020, Bf Köln Eifeltor
+
+In Gleis 11 erhielt der GS 60711 aufgrund der restrik ven Überwachung der PZB eine Zwangsbremsung infolge der 500 Hz-Beeinflussung, resul erend aus der angehängten Überwachungskurve der PZB in der eingestellten Zugart „U“, die der Tf bei der Annäherung an den
+Haltbegriﬀ des Hs 11III überschri . Die gemäß Ril 408.2651 Abschni 3 (1) geforderte Kontaktaufnahme zu dem Fdl, mit dem Ziel, gemeinsam mit ihm festzustellen, wo die Zwangsbremsung eingetreten ist, unterließ der Tf.
+In einem sich unmi elbar an die Zwangsbremsung anschließenden, vom Weichenwärter (Ww)
+des Stellwerks R3 ini ierten, GSM-R-Gesprächs erhielt der Tf den fernmündlichen Au rag, am
+haltzeigenden Signal Hs 11III vorbei und weiter als Rangierfahrt in das Gleis 51 zu fahren. Sieben Minuten später wurde der Tf vom Fdl des Stellwerks Enf per GSM-R-Gespräch nach Besonderheiten bei der Weiterfahrt seines Zuges gefragt, da sowohl Fdl als auch der Ww Weichenstörungen in ihrem Stellbezirk bemerkt ha en. Der Tf verneinte diese Nachfrage und erwähnte auch in diesem Gespräch die Zwangsbremsung in Gleis 11 nicht.
+Auswertung der EFR
+Zur Rekonstruk on der betrieblichen Abläufe des EVU wertete die BEU die Daten aus, die das
+führende Triebfahrzeug (Tfz) 185 180-7 des GS 60711 gespeichert ha e. Die Auslesung der
+Daten erfolgte durch einen Mitarbeiter des EVU. Im Fahrzeug war eine Datenspeicherkasse e
+des Typs DSK 20 der Firma DEUTA-Werke GmbH verbaut.
+Das PZB-Fahrzeuggerät des Tfz war eingeschaltet, die Rohdaten waren vollständig und fehlerfrei aufgezeichnet. Die im folgenden genannten Zeiten sind systeminterne Zeiten der PZBFahrzeugeinrichtung, die von der tatsächlichen Uhrzeit abweichen können. Bei diesem Ereignis wichen die registrierten Uhrzeiten um ca. 5 Minuten von der tatsächlichen Uhrzeit ab.
+In den EFR-Daten waren gemäß Ril 493.0100Z03, Einstelltabelle für Baureihe (BR) 185, neben
+der Tf-Nummer auch die Zugnummer sowie die Zuglänge, die vorhandenen Bremshundertstel
+(BRH) und die Bremsart (BRA) einzugeben.
+Durch den Tf wurde der Wert 070 für die vorhandenen BRH in Verbindung mit dem Wert 2 für
+die BRA eingegeben. Dies führte dazu, dass die PZB-Zugart „U“ eingestellt war. Gemäß den
+laut Bremsze el für den Güterzug GS 60711 vorhandenen 74 BRH wäre unter Beachtung der
+Ril 483.0112Z03 in Verbindung mit der einzustellenden Bremsstellung P die Zugart „M“, durch
+Eingabe des Wertes 4 als BRA, einzustellen gewesen. Die eingegebenen Zugdaten können der
+untenstehenden Tabelle entnommen werden.
+
+Seite 14 von 36
+
+Untersuchungsbericht
+Zugentgleisung, 05.09.2020, Bf Köln Eifeltor
+
+Parameter
+
+Eingegebener Wert
+
+Tf-Nummer
+
+vom EVU vorgegeben
+
+BRA
+
+2
+
+BRH
+
+070
+
+VMZ
+
+90
+
+Zugart
+
+U
+
+Zuglänge
+
+540
+
+Tabelle 4: Eingegebene EFR-Zugdaten
+
+Um 01:23:24 Uhr erhielt der Zug bei einer Geschwindigkeit von 38 km/h auf Höhe des Standortes des Vsig b eine 1.000 Hz-Beeinflussung, die der Tf mit Bedienung der Taste „Wachsam“
+bestä gte. Um ca. 01:24:26 Uhr passierte der Zug das Esig B des Bf Köln Eifeltor mit einer
+Geschwindigkeit von ca. 40 km/h, Tendenz leicht fallend. Um 01:25:15 Uhr wurde 250 m vor
+dem haltzeigenden Hs 11III eine 500 Hz-Beeinflussung bei einer Geschwindigkeit von 37 km/h
+registriert. Um 01:25:18 Uhr wurde durch den Anstoß an die Tfz-interne Geschwindigkeitsprüfung nach der 500 Hz-Beeinflussung eine PZB-Zwangsbremsung registriert, zeitgleich bediente
+der Tf das Führerbremsven l. Um 01:25:35 Uhr erfolgte der S llstand des GS 60711 nach einer
+Wegstrecke von ca. 150 m. Die Spitze des Zuges befand sich ca. 95 m vor dem Signal Hs 11III.
+Um 01:28:02 Uhr setzte der Tf die Fahrt fort und beschleunigte seinen Zug langsam. Um
+01:29:14 Uhr wurde bei einer Geschwindigkeit von ca. 8 km/h die Bedienung der Taste „Befehl“ registriert. Diese Bedienung geschah für die Vorbeifahrt des Zuges am haltzeigenden
+Hs 11III. Der Tf beschleunigte den Zug bis auf eine Geschwindigkeit von ca. 21 km/h und fuhr
+durch den Bf Köln Eifeltor weiter in Richtung Andernach aus. Die nachfolgende Abbildung zeigt
+die grafische Auswertung der EFR-Daten.
+
+Seite 15 von 36
+
+Untersuchungsbericht
+Zugentgleisung, 05.09.2020, Bf Köln Eifeltor
+
+Abbildung 7: Grafische Auswertung der EFR-Daten von GS 60711
+
+Abgeleitet aus der Auswertung der EFR-Daten i. V. m. der Zugkonstella on wurde durch die
+BEU die Posi on des 23. Wagens zum Zeitpunkt des Einsetzens der Zwangsbremsung rekonstruiert, siehe nachfolgende Abbildung.
+
+Abbildung 8: Rekonstruierte Posi on des 23. Wagens nach der Zwangsbremsung5
+
+Demnach befand sich der entgleiste 23. Wagen hinter der Weiche 12, als der Zug, bedingt
+durch die Zwangsbremsung, zum Halten kam.
+
+5
+
+Quelle: DB Netz AG, bearbeitet durch BEU
+
+Seite 16 von 36
+
+Untersuchungsbericht
+Zugentgleisung, 05.09.2020, Bf Köln Eifeltor
+
+4.1.2 Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers
+Bei der Durchführung der Zugfahrt des GS 60711 waren das Wärterstellwerk „R3“ sowie das
+Fahrdienstleiterstellwerk „Enf“ im Bf Köln Eifeltor beteiligt. Bei dem Stellwerk R3 handelte es
+sich um ein elektromechanisches Weichenwärterstellwerk der Einheitsbauform VES E 43.
+Der Arbeitsplatz des zuständigen Fdl war im Stellwerk Enf eingerichtet. Es handelte sich um
+ein elektromechanisches Stellwerk der Bauform S&H 1912 des Herstellers Siemens & Halske,
+das 1936 in Betrieb genommen wurde. Die Lage dieses Stellwerkes ermöglichte den direkten
+Blick auf die Entgleisungsstelle in der Weiche 12.
+Aufgrund einer dem Ereignis vorausgegangenen sons gen Entgleisung während Rangierarbeiten am 26.08.2020 war es dem Fdl nicht möglich, den geplanten Fahrweg durch das Gleis 14
+in den Bf Köln Eifeltor einzustellen. Daher wurde der GS 60711 vom Fdl Enf mit Signalstellung
+Hp 2, Langsamfahrt, des Esig B in das Gleis 11 des Bf Köln Eifeltor zugelassen. Kurz nachdem
+der Zug vor dem haltzeigenden Hs 11III, zum S llstand gekommen war, nahm der Ww des
+Stellwerks R3 um 01:20:42 Uhr per GSM-R Kontakt mit dem Tf auf. Ein Auszug dieses Gespräches ist in der untenstehenden Tabelle aufgeführt.
+Ww
+
+„Du bist ein bisschen zu lang. Du fährst weiter als Rangierfahrt durch Gleis 51 und
+am haltzeigenden Hs vorbei.“
+
+Tf
+
+„Ich kann auch ein bisschen vorziehen, ich bin ein bisschen zu früh zum Stehen
+gekommen. Wenn dir das weiterhil ?“
+
+Ww
+
+„Ja, ich äähh (….) Das wird so nicht reichen. Fahr am haltzeigenden vorbei; weiter
+als Rangierfahrt nach 51.“
+
+Tf
+
+„Weiter als Rangierfahrt nach 51, alles klar.“
+
+Tabelle 5: Auszug aus dem GSM-R Gespräch zwischen Ww des Stellwerks R3 und dem Tf
+
+Das Gleis 11 war ein nicht durchgehendes Hauptgleis, in dem Zugdurchfahrten nicht zugelassen waren. Der Ww ließ die Zugfahrt GS 60711 am haltzeigenden Hs 11III gemäß
+DB Ril 408.0488 Abschni 2 (1) b) in eine Rangierfahrt übergehen.
+Der vom Ww in dem GSM-R Gespräch mit dem Tf gewählte Wortlaut mit dem Au rag zur
+Vorbeifahrt am haltzeigenden Hs 11III entsprach nicht den Vorgaben der Ril 408.4813 Abschni 3. Der Ww hä e die Zus mmung zur Rangierfahrt primär gemäß Ril 408.4813 Abschni 3 (1) d) mi els Signalbegriﬀ Sh 1 am Hs 11III geben müssen, ansta
+
+dem Güterzug
+
+GS 60711 die mündliche Zus mmung zu erteilen.
+
+Seite 17 von 36
+
+Untersuchungsbericht
+Zugentgleisung, 05.09.2020, Bf Köln Eifeltor
+
+Um 01:33:00 Uhr nahm der Fdl Enf per GSM-R Kontakt zum Tf des GS 60711 auf, siehe nachfolgende Tabelle. In diesem Gespräch fragte der Fdl den Tf, ob ihm bei der Durchfahrt durch
+den Bf Köln Eifeltor Besonderheiten aufgefallen waren.
+Fdl
+
+„Ja, grüß dich. Du bist doch bei Stellwerk 3 weitergefahren, jetzt ja? (…) Ist dir irgendwas aufgefallen bei dir?“
+
+Tf
+
+„Nee.“
+
+Fdl
+
+„Während der Durchfahrt sind bei uns die Weichen durchgeflogen irgendwie. Es
+war ja alles so festgelegt, du bist als Zugfahrt ja ganz normal auf Signal eingefahren.“
+
+Tf
+
+„Ja.“
+
+Fdl
+
+„Die Weichen waren alle festgelegt, auf einmal gab es bei uns irgendwie, ähh, auf
+dem Fahrweg nach Gleis 11 irgendwie keine Überwachung der Weichen mehr.
+[…] Keine Fahrstraßenauflösung und beim Stellwerk 3 genau dasselbe vorne. Der
+kann jetzt zum Beispiel auch die Weichen irgendwie nicht mehr bewegen, ganz
+komisch. Der Fahrweg war ja eingestellt, du bist normal drübergefahren, aber irgendwie sind die Weichen jetzt nicht mehr stellbar. Es war ja alles festgelegt soweit, keine Ahnung, ich weiß nicht was da los ist. Bei dir ist aber auch nichts aufgefallen, ne irgendwie?“
+
+Tf
+
+„Mir is nix aufgefallen.“
+
+Tabelle 6: Auszug aus dem GSM-R Gespräch zwischen Fdl Enf und dem Tf
+
+Im Anschluss an das Gespräch fer gte der Fdl Enf einen Eintrag im Arbeits- und Störungsbuch
+an und verständigte gegen 01:36 Uhr die EVZS zwecks der Entstörung der Weichen.
+
+4.2 Fahrzeuge und technische Einrichtungen
+In diesem Kapitel sind die Erkenntnisse aus der Untersuchung beteiligter Fahrzeuge, der Eisenbahninfrastruktur und weiterer technischer Einrichtungen, einschließlich damit eventuell
+verbundener Tä gkeiten und Entscheidungen, dargestellt.
+4.2.1 Untersuchung von Fahrzeugen
+Der Güterzug GS 60711 verkehrte gemäß Fahrplan von Oberhausen West nach Andernach. Im
+Fahrplan war als Höchstgeschwindigkeit 90 km/h in Bremsstellung P bei 55 Mindestbremshundertstel vorgegeben.
+Entsprechend der Angaben aus Bremsze el und Wagenliste bestand der Güterzug GS 60711
+aus 33 sechsachsigen Drehgestellwagen der Ga ung Sahmms-t, DB Bauart 710.1 und 711 und
+zwei in Doppeltrak on fahrenden Triebfahrzeugen der BR 185. Die zur Aufnahme von Stahlrollen (Coils) ausgerüsteten Wagen waren beladen. Der Güterzug ha e eine Gesamtlänge von
+
+Seite 18 von 36
+
+Untersuchungsbericht
+Zugentgleisung, 05.09.2020, Bf Köln Eifeltor
+
+520 m und ein Wagenzuggewicht von 3.393 t. Der Güterzug verfügte über 74 BRH. Das Ereignis blieb vom Tf unbemerkt, infolgedessen setzte der Zug seine Fahrt bis zum Zielbahnhof Andernach fort. Nachdem die Zugentgleisung von Betriebspersonalen im Bf Köln Eifeltor bemerkt
+wurde, konnte der zwischenzeitlich bereits im Zielbahnhof angekommene GS 60711 als betroﬀener Zug iden fiziert werden. Die drei durch das Ereignis beschädigten Fahrzeuge befanden sich an 22. bis 24. Stelle des Zuges mit den Fahrzeugnummern 31 80 4868 333-4,
+31 80 4871 375-0 und 31 80 4871 090-5. Zur Unfalluntersuchung wurde die genannten Fahrzeuge am 01.10.2020 in ein Instandhaltungswerk des Bf Gremberg überführt. Da die Rekonstruk on dieses Ereignisses zeigte, dass der an 23. Stelle laufende Wagen entgleiste und die
+Schäden am 22. und 24. Wagen in der Folge entstanden, konzentrierten sich die weiteren Untersuchungen auf den 23. Wagen mit der Fahrzeugnummer 31 80 4871 375-0.
+Aus den der BEU vorgelegten Instandhaltungsunterlagen war ersichtlich, dass, zuletzt am
+09.05.2019, eine Revision mit Umfang G4.2 in Maschen durchgeführt wurde. Der Instandhaltungsau rag beinhaltete Arbeiten an der Drehpfanne einschließlich einer Sichtprüfung des
+Drehpfannenoberteils. Das Drehgestell wurde zur Durchführung der Revisionsarbeiten vom
+Wagenkasten getrennt und die Drehpfanne gereinigt. In den Instandhaltungsunterlagen wurden bei dieser Revision keine Hinweise auf Schäden oder Mängel dokumen ert. Laut Instandhaltungsplan war die nächste Revision für den 09.05.2025 angesetzt.
+Nachfolgende Abbildung zeigt die Revisionsanschri , welche sich auf dem Untersuchungsschild am Längsträger des Wagens befand.
+
+Abbildung 9: Revisionsanschri
+
+Die nachfolgende Tabelle enthält Angaben zu den technischen Daten des ursächlich entgleisten 23. Wagens:
+
+Seite 19 von 36
+
+Untersuchungsbericht
+Zugentgleisung, 05.09.2020, Bf Köln Eifeltor
+
+Wagennummer
+
+3180 4871 375-0
+
+Baujahr
+
+1968
+
+Revision
+
+09.05.2019
+
+Halter und ECM
+
+DB Cargo AG
+
+Ga ungszeichen
+
+Sahmms-t
+
+Eigengewicht
+
+35.080 t
+
+Länge (LüP)
+
+16.400 mm
+
+Wagenhöhe über SO
+
+1.060 mm
+
+Anzahl der Radsätze
+
+6
+
+Achsabstand
+
+1.700 mm
+
+Lastgrenzen
+
+A=39,5t/B1=46,5t/B2=51,5t/C=60,5t/D=69,5t
+
+Max. zul. Fahrzeuggeschwindigkeit
+
+120 km/h
+
+Bremsbauart
+
+KE-GP
+
+Tabelle 7: Technische Daten Wagen 31 80 4871 375-0
+
+Zur Untersuchung der Unfallursache wurde die DB Systemtechnik GmbH durch das EVU
+DB Cargo AG mit hinzugezogen. Die Ergebnisse der DB Systemtechnik GmbH wurden in einem
+Bericht zusammengefasst und sind im Folgenden ohne besondere Kenntlichmachung in den
+Text mit eingeflossen. Direkte Zitate aus dem Ergebnisbericht wurden gekennzeichnet.
+Der Schwerpunkt der Untersuchung im Instandhaltungswerk lag auf der Sichtprüfung der äußeren Bauteile. Während das in Fahrtrichtung führende Drehgestell (DG) 2 keine sichtbaren
+Beschädigungen aufwies, die Bremseinrichtungen einschließlich der bodenbedienbaren Feststellbremse intakt waren, fanden sich eindeutige Entgleisungsspuren am DG 1. Das dreiachsige DG der Bauart DB 710.1 (Lenkachsdrehgestell) zeigte deutliche Entgleisungsspuren an allen Radsätzen sowie zerbrochene bzw. fehlende Bremssohlen, siehe folgende Abbildung.
+
+Seite 20 von 36
+
+Untersuchungsbericht
+Zugentgleisung, 05.09.2020, Bf Köln Eifeltor
+
+Abbildung 10: Lauﬄäche und Spurkranz mit Entgleisungsspuren Wagen 31 80 4871 375-0
+
+Auﬀällig waren die Beschädigungen an einem Radsatzhaltersteg und den Puﬀern auf der Seite
+des betroﬀenen DG siehe folgende und nachfolgende Abbildung.
+
+Abbildung 11: Radsatzhaltersteg Wagen 31 80 4871 375-0
+
+Seite 21 von 36
+
+Untersuchungsbericht
+Zugentgleisung, 05.09.2020, Bf Köln Eifeltor
+
+Abbildung 12: Beschädigter Puﬀer an Wagen 31 80 4871 375-0
+
+Weitere Untersuchungen wurden am 04.11.2020 durch die DB Systemtechnik GmbH durchgeführt. Zuvor war der Wagenkasten von den DG getrennt worden, so dass die Wagenunterseite sowie die DG separat voneinander untersucht werden konnten.
+Bei der Vermessung der Radsätze wurden keine Auﬀälligkeiten festgestellt. Hingegen wurden
+Abweichungen vom Sollwert bei der Vermessung des Federspiels „z3“, beim Puﬀerstand „z11“
+sowie beim Gleitstückspiel „z8“ erkannt. Die weitere Sichtprüfung ließ neben den deformierten Radsatzhalterstegen auch Aufsetzspuren vom Wagenkasten erkennen, die als Indiz für die
+Fahrt durch das Gleisbe zu werten waren. Die oberen und unteren Gleitstücke wiesen keine
+übermäßigen Verschleißspuren auf. Das DG 2 zeigte keine Auﬀälligkeiten.
+Bei der Untersuchung der Drehpfanne am betroﬀenen DG 1 wurde folgendes festgestellt:
+„Im Bereich der Drehpfanne ist eine Art Verschweißung der drei Einzelkomponenten auf‐
+fällig. Es ist hier zu einer Materialanhäufung gekommen, die alle drei Schichten der
+Drehpfanne (obere Drehpfanne, Verschleißpla e und untere Drehpfanne) verbindet. Beim
+Trennen der Drehpfannenbauteile ist zu beobachten, dass im Bereich der unteren
+Drehpfanne eine hühnereigroße Materialansammlung, in der Verschleißpla e an gleicher
+
+Seite 22 von 36
+
+Untersuchungsbericht
+Zugentgleisung, 05.09.2020, Bf Köln Eifeltor
+
+Posi on ein Loch in gleicher Größe mit ausgefranstem Rand und an der oberen
+Drehpfanne eine Abzehrung an ebenfalls gleicher Posi on vorhanden ist.“6
+Die beiden folgenden, aus dem Bericht der DB Systemtechnik GmbH entnommenen, Abbildungen zeigen die markanten Stellen auf den Drehpfannenkomponenten.
+
+Abbildung 13: Verschweißstellen in den Drehpfannenkomponenten7
+
+Abbildung 14: Materialveränderungen an den Drehpfannenkomponenten8
+
+Weiterführende Materialprüfungen zeigten auf, dass
+„…es zu einem massiven, lokal eingeschränkten Wärmeeintrag (Stromdurchgang) gekom‐
+men sein muss, der die Bauteile miteinander verschweißt hat.“9
+
+6
+
+Quelle: Bericht DB Systemtechnik GmbH, 21-66269-TT.TVE33(1) -BA710.1-2060-067
+
+7
+
+Quelle: Bericht DB Systemtechnik GmbH, 21-66269-TT.TVE33(1) -BA710.1-2060-067
+
+8
+
+Quelle: Bericht DB Systemtechnik GmbH, 21-66269-TT.TVE33(1) -BA710.1-2060-067
+
+9
+
+Quelle: Bericht DB Systemtechnik GmbH, 21-66269-TT.TVE33(1) -BA710.1-2060-067
+
+Seite 23 von 36
+
+Untersuchungsbericht
+Zugentgleisung, 05.09.2020, Bf Köln Eifeltor
+
+Zusammenfassend kommt der Bericht der DB Systemtechnik GmbH zu folgendem Ergebnis:
+„Es ist davon auszugehen, dass die drei Komponenten der Drehpfanne durch äußere Ein‐
+flüsse miteinander verschweißt wurden und somit eine Drehbewegung des Drehgestells 1
+zum Wagenkasten nicht weiter möglich war.
+Die genaue Ursache dieses massiven, lokalen Wärmeeintrags steht nicht fest. Eine Mög‐
+lichkeit ist ein Stromdurchgang z. B. ein Blitzschlag bei Gewi er. Wann es zu dieser Be‐
+schädigung des Fahrzeugs gekommen ist, konnte nicht geklärt werden. Die Beschädigung
+war nicht zu erkennen, solange Wagenkasten und Drehgestelle verbunden waren.
+Das Fahrzeug konnte trotz Beschädigung (Blockade der Ausdrehbewegung des Drehge‐
+stells) auf gerader Strecke anfahren und gewisse Bogengrößen in Bewegung durch vor‐
+handenes Spiel im Fahrwerk ausgleichen. Diese Annahme wird durch den erhöhten Ver‐
+schleiß an den Gleitböcken untermauert. Durch die Anfahrt im engen Bogen der Wei‐
+che 12 war das im Fahrwerk vorhandene Spiel der Radsätze nicht ausreichend groß, so
+dass die Radsätze sich nicht mehr radial einstellen konnten und der große Anlaufwinkel
+durch die Zwangsführung des nicht ausdrehenden Drehgestells zum Au le ern der
+Radsätze und somit zur Entgleisung führte.
+Schleifspuren an den festen Gleitpla en an Drehgestellrahmen und Wagenkasten lassen
+darauf schließen, dass das Fahrzeug nach der letzten Revision in diesem Drehgestell ein‐
+wandfrei drehbar gelagert war.
+Die von den Sollwerten abweichenden Messwerte am Radsatz zum Feder‐ und Gleitstück‐
+spiel sind auf die Fahrt im Gleisbe und die daraus folgenden Beschädigungen am Fahr‐
+werk und dessen Komponenten zurückzuführen.“10
+Zusammenfassend ist festzustellen, dass die Bewegungseinschränkung des DG durch die Verschweißung der Drehpfannenkomponenten als ein ursächlicher Faktor für das Ereignis iden fiziert wurde. Die Untersuchungen der BEU ergaben darüber hinaus, dass zunächst ein Radsatz
+des DG 1 entgleiste.
+
+10
+
+Quelle: Bericht DB Systemtechnik GmbH, 21-66269-TT.TVE33(1) -BA710.1-2060-067
+
+Seite 24 von 36
+
+Untersuchungsbericht
+Zugentgleisung, 05.09.2020, Bf Köln Eifeltor
+
+4.2.2 Untersuchung der bautechnischen Infrastruktur
+Der Laufweg des Zuges führte von Köln Bonntor kommend über die Weiche 10, das Zweiggleis
+der Weiche 11 in den Abzweig der Weiche 12. Die ersten Entgleisungspuren waren am Radlenker auf Höhe des Herzstücks in der Weiche 12 erkennbar.
+Die Weiche 12 wurde in der Oberbauart EWR- 54-0190-1:7,5-H auf Bongossi Hartholzschwellen mit Schienenbefestigung KS eingebaut, wobei die letzte Erneuerung der Weiche aus Anfang 1997 datiert war. Die Länge der Weiche 11 betrug 27,14 m, die der Weiche 12 25,86 m.
+Zwischen den beiden Weichen lag trassierungsbedingt eine Zwischengerade von 6,00 m. Die
+befahrenen Radien im Abzweig betrugen jeweils 190 m und durften mit einer zulässigen
+Höchstgeschwindigkeit von 40 km/h befahren werden. Die Belastung der für den Güterverkehr vorgesehenen Infrastruktur war mit 15.000 t/Tag angegeben.
+Die gemäß Planungsrichtlinie 800.110 der DB Netz AG vorgegebenen Trassierungselemente
+wurden im Bereich der Entgleisungsstelle eingehalten.
+Während der ersten Feststellungen vor Ort erschien der Oberbau an der Unfallstelle im Bereich der Weiche 12 optisch intakt.
+Bei der weiteren Detailbetrachtung wurden am rechten Radlenker erste und im nachfolgenden Fahrweg weitere Entgleisungsspuren erkennbar, siehe die beiden nachfolgenden Abbildungen 14 und 15. Der Radlenker wies eine Gratbildung auf.
+
+Abbildung 15: Entgleisungsstelle in Weiche 12
+
+Seite 25 von 36
+
+Untersuchungsbericht
+Zugentgleisung, 05.09.2020, Bf Köln Eifeltor
+
+Weiterhin waren auf den Schwellen und im Scho er abgefräste Metallspäne erkennbar, die
+vermutlich von Radscheiben stammten. Die Flügelschiene und das Herzstück wiesen ebenfalls
+Entgleisungsspuren sowie unterschiedliche Profilabnutzungen auf. Einzelne Holzschwellen in
+der Weiche 12 ließen einen unterschiedlich ausgeprägten biologischen Verfall erkennen, wobei die Verspannung der Schiene intakt war.
+
+Abbildung 16: Detail der Entgleisungsspur am Radlenker im Abzweig der Weiche 12
+
+Seite 26 von 36
+
+Untersuchungsbericht
+Zugentgleisung, 05.09.2020, Bf Köln Eifeltor
+
+Inspek onen und Gleisbegehung gemäß Ril 821.2003
+Die letzte vom EIU vorgelegte Gleisbegehung nach Ril 821.2003 vor dem Ereignis war auf den
+26.05.2019 datiert. In der dazugehörigen Inspektionsniederschrift wurden keine befundungswürdigen Mängel dokumentiert.
+Gleisbegehungen müssen in sonstigen Hauptgleisen gemäß Ril 821.2003 Tabelle 1 mindestens
+einmal jährlich durchgeführt werden. Für den Zeitraum Mai 2019 bis zur Entgleisung im September 2020 wurde kein weiterer Inspektionsnachweis für eine Gleisbegehung vorgelegt und
+somit die Inspektionsfrist, auch bei Anwendung der Ausnahmeregelung (+ 2 Monate), nicht
+eingehalten.
+Weicheninspek on am 09.09.2020 nach dem Ereignis
+Die Messdaten der letzten Regelinspektion vom 17.12.2019 gemäß Ril 821.2005 vor der Entgleisung zeigten im relevanten Bereich der Weiche 12 keine unzulässigen Überschreitungen.
+Bei mehreren Messpunkten war der Abnutzungsvorrat aufgrund von Überschreitungen des
+Beurteilungsmaßstabes SR (Störgröße/Reaktion) von SR 100 (Schwellenwert für technisch/wirtschaftlichen Abnutzungsvorrat) eingeschränkt.
+Nach dem Ereignis wurde am 09.09.2020 eine Sonderinspektion in der Weiche 12 durchgeführt. In der nachfolgenden Abbildung sind die Messwerte im Stammgleis an der Entgleisungsstelle dargestellt.
+
+Abbildung 17: Messwerte im Bereich der Entgleisungsstelle11
+
+11
+
+Quelle: DB Netz AG bearbeitet durch BEU
+
+Seite 27 von 36
+
+Untersuchungsbericht
+Zugentgleisung, 05.09.2020, Bf Köln Eifeltor
+
+Die Sollspurweite s von 1.435 mm wurde bei den Messwerten „s13“, „sh“, „sh1“ und „se“
+unterschritten, befand sich allerdings im zulässigen Bereich. Der Wert „sh1“ lag mit
+1.430,3 mm dicht am EBO Grenzwert von 1.430 mm.
+Die Sollüberhöhung „ü“ betrug 0 mm. Der Messwert „üsh“ überschritt mit 14,7 mm den Wert
+für SR 100 deutlich und lag nur 3 mm unter dem zulässigen Grenzwert.
+Erklärbar war die Differenz von Soll zu Ist beim Messwert „ü“ an der fortgeschrittenen Abnutzung der Flügelschiene und der Herzstückspitze, siehe nachfolgende Abbildung. Es war weiterhin möglich, dass hierdurch die Messung im Punkt MP150 verfälscht wurden.
+
+Abbildung 18: Abgenutzte Flügelschiene und Herzstückspitze
+
+Auch alle anderen Messwerte lagen deutlich entfernt von den Sollwerten aber innerhalb der
+zulässigen Toleranzen der Ril.
+In der nachfolgenden Abbildung sind die Messwerte im Abzweig an der Entgleisungsstelle dargestellt.
+
+Seite 28 von 36
+
+Untersuchungsbericht
+Zugentgleisung, 05.09.2020, Bf Köln Eifeltor
+
+Abbildung 19: Auszug aus dem Weichenprü la 12
+
+Die Sollspurweite „s“ von 1.435 mm überschritt bei den Werten „se2z“ und „se1z“ den Grenzwert, was als Entgleisungsfolge einzustufen war.
+Die Messwerte „shz“, „lz“ und „hz“ lagen unterhalb des Sollwerts. Sie waren allerdings im zulässigen Bereich, wobei „lz“ mit 1.390,1 mm SR 100 (1.390) erreicht hatte.
+Die Sollüberhöhung „ü“ betrug 0 mm. Der Messwert „üshz“ unterschritt diesen mit -11,0 mm
+deutlich und lag nur 2 bzw. 4 mm unter den jeweiligen zulässigen Grenzwerten.
+Auch hier lagen relevante Messwerte deutlich unterhalb der Sollwerte aber noch innerhalb
+der zulässigen Toleranzen der Ril 821.2005.
+Ultraschallprüfung (UT)
+Am 18.05.2020 wurde am Herzstück der Weiche 12 bei der Regelinspektion gemäß
+Ril 821.2007 durch UT-Prüfung ein Ausbruch festgestellt. Es handelte sich hierbei um eine
+Flachstelle sowie einen Anriss an der Herzstückspitze, deren Instandsetzungsfrist bis
+30.10.2020 eingetragen war. Eine Instandsetzung war bis zum Entgleisungstag nicht durchgeführt, da Flachstelle und Anriss im Rahmen der Unfalluntersuchung noch erkennbar waren.
+Weder Ausriss noch Anriss selbst hatten die Entgleisung ausgelöst oder begünstigt.
+Inspek on der Gleisgeometrie
+Gemäß den Vorgaben der Ril 821.2001 war die Gleislage bei sonstigen Hauptgleisen wie bei
+Nebengleisen zu inspizieren. Eine Pflicht zur Inspektion besteht nicht, über die Notwendigkeit
+
+12
+
+Quelle: DB Netz AG bearbeitet durch BEU
+
+Seite 29 von 36
+
+Untersuchungsbericht
+Zugentgleisung, 05.09.2020, Bf Köln Eifeltor
+
+entscheidet der Anlagenverantwortliche eigenverantwortlich nach dem Anlagenzustand. Hieraus begründet lag für die Weiche 12 keine Messung der Gleisgeometrie vor. Aufgrund der
+Entgleisungsspuren wurde deshalb von der BEU nach dem Ereignis eine Messung der Gleisgeometrie vom EIU eingefordert. Eine zeitnah durchgeführte unbelastete Messung mit dem System KRABBE lieferte keine brauchbaren Erkenntnisse. Diese sollten durch eine Messung unter
+Belastung erzielt werden. Die Messung erfolgte etliche Wochen nach der Entgleisung mit einer
+Stopfmaschine und wies keine für die Entgleisung relevanten Überschreitungen auf.
+Zusammenfassend ist festzustellen, dass die Weiche 12 im Bf Köln Eifeltor seit 1997 befahren
+wurde. Die Hartholzschwellen wiesen einen dem Alter entsprechenden biologischen Zerfall
+auf, waren aber insgesamt überwiegend noch intakt.
+Eine kraftschlüssige Verspannung des KS-Oberbaus war nahezu durchgehend gegeben. Eine
+Ausnahme stellten zwei Rippenplatten zwischen den Messpunkten S 12 und S 13 im Stammgleis rechts dar. Diese waren in die Schwellen eingefahren und die zugehörigen vier Schwellenschrauben waren an dieser Stelle nicht kraftschlüssig verspannt.
+Das Weichengestänge stammte bis auf die linke Zungenvorrichtung und den rechten Radlenker noch Original aus dem Einbaujahr (Thyssen 96 S54 R260) und befand sich insgesamt in
+einem normalen Gebrauchszustand. Lediglich der bogeninnere Strang im Abzweig wies Abweichungen im Schienenkopfquerprofil auf.
+Die Schienen hier waren leicht platt gefahren bzw. verbreitert. Es konnten an den Weichenschienen keine Schienenfehler festgestellt werden. Da die Weiche 12 in einem sonstigen
+Hauptgleis lag, lagen für diese Anlage keine UT-Regelinspektionsergebnisse gemäß Ril
+821.2007 vor.
+Bei dem einfachen starren Herzstück (Thyssen 93 S54 R260) konnte an der Herzstückspitze im
+Stammgleis eine Materialabnutzung mit einem Querriss festgestellt werden. Beide Flügelschienen waren eingefahren, jedoch im Toleranzbereich.
+Der Radlenker im Abzweig wurde am 24.01.2017 erneuert und zwischenzeitig wieder reguliert. Die Stützböcke 4, 5 und 6 waren leicht in die Schwellen eingefahren. In fünf Schwellenfeldern wurden auffällige Mengen an metallischen Abriebpartikeln vorgefunden.
+Die Bettung sowie der Bettungsquerschnitt waren im ordnungsgemäßen Zustand. Augenscheinlich waren keine Unregelmäßigkeiten oder Schlammstellen vorhanden.
+
+Seite 30 von 36
+
+Untersuchungsbericht
+Zugentgleisung, 05.09.2020, Bf Köln Eifeltor
+
+Die Weiche 12 lag in einem sonstigen Hauptgleis, sodass keine Messergebnisse der Gleisgeometrie nach 821.2001 vorlagen. Augenscheinlich waren keine relevanten Gleislagefehler erkennbar.
+Bei der Auswertung der letzten Messergebnisse der Regelinspektionen nach 821.2005 konnten einzelne Überschreitungen von SR 100 Werten festgestellt werden.
+Die letzte Weicheninspektion nach Ril 821.2005 wurde durch den Teamleiter am 17.12.2019
+ohne Befund rückgemeldet.
+Nach der Begutachtung vor Ort und der erfolgten Schadens-/Ursachenforschung konnten am
+Oberbau keine Mängel festgestellt werden, die als ursächlich für die Entgleisung einzustufen
+wären. Die bei der Weichenmessung insbesondere im Abzweig festgestellten Abweichungen
+vom Sollwert im Herzstück- und Radlenkerbereich könnten als begünstigend eingestuft werden. Die Spurweite „shz“ am Herzstück der Weiche 12 lag mit 1.433 mm unterhalb des Sollwerts. Die sich daraus ergebende Leitweite „lz“ lag bei 1.390,1 mm und die Rillenbreite „hz“
+bei 42,7 mm. Die Intention dieser Einstellung war es, die bereits geschädigte Herzstückspitze
+zu entlasten. Durch diese zulässige Einstellung verringerte sich das Spiel des Rades am Radlenker, was an dieser Stelle im Zusammenwirken mit der Sollabweichung in der gegenseitigen
+Höhenlage von -11 mm bei „üshz“ zu höherem Verschleiß führte und durch die vor Ort vorgefundenen Metallspäne untermauert wurde.
+4.2.3 Untersuchung der LST
+Hinsichtlich der LST-Anlagen lagen keine Hinweise auf Unregelmäßigkeiten oder Störungen
+vor. Arbeiten an den Signalanlagen wurden unmi elbar vor dem Ereignis nicht durchgeführt.
+Im Arbeits- und Störungsbuch des Fdl Enf waren zum Ereigniszeitpunkt keine oﬀenen Einträge
+vorhanden. Die Einfahrt des GS 60711 erfolgte unter Bedienung des Esig B und ordnungsgemäß wirkender Fahrstraßenfestlegung in das Gleis 11. Der Zulassung dieser Zugfahrt gingen
+keine zählpflich gen Bedienhandlungen voraus. Nach dem Ereignis trat eine Weichenstörung
+an den Weichen 13 und 14 auf. Diese war eine Folge der Entgleisung des Zuges.
+
+Seite 31 von 36
+
+Untersuchungsbericht
+Zugentgleisung, 05.09.2020, Bf Köln Eifeltor
+
+4.3 Menschliche Faktoren
+In diesem Kapitel werden Untersuchungserkenntnisse zu menschlichen Handlungen und/oder
+Entscheidungen am gefährlichen Ereignis beteiligter Personen dargestellt. Entsprechende Erkenntnisse können sich hierbei insbesondere im Bereich menschlicher und individueller Merkmale sowie organisatorischer und Arbeitsplatzfaktoren ergeben.
+4.3.1 Qualifikation und Tauglichkeit Fdl
+Der Fdl sowie der Ww waren im Besitz der für ihren Dienst auf den Stellwerken R3 und Enf
+notwendigen Qualifika onen. Die medizinische Eignung konnte seitens des EIU nachgewiesen
+werden.
+4.3.2 Qualifikation und Tauglichkeit des Tf
+Der Tf war im Besitz eines gül gen EU-Führerscheines, der am 19.12.2018 durch die Triebfahrzeugführerscheinstelle (TFS) des Eisenbahn-Bundesamtes ausgestellt worden war und bis zum
+18.12.2028 gül g war.
+Vom verantwortlichen EVU erhielt er eine Zusatzbescheinigung der Klassen A (Rangierfahrten)
+und B (Zugfahrten). Die Befähigung zum Führen von elektrischen Tfz war vermerkt. Für die
+BR 185 wurde die Prüfungsbescheinigungen zur Zusatzbescheinigung vorgelegt.
+Durch den vom EVU vorgelegten Nachweis der Streckenkenntnis konnte die Streckenkenntnis
+des Tf für den Bf Köln Eifeltor nachgewiesen werden.
+Die gesundheitliche Eignung gemäß Triebfahrzeugführerscheinverordnung (TfV) wurde durch
+eine Tauglichkeitsbescheinigung und eine Bescheinigung über die psychologische Eignungsuntersuchung seitens des EVU nachgewiesen.
+Das EVU legte für das Jahr 2018 insgesamt fünf Nachweise über Trainings- und Weiterbildungsmaßnahmen vor. Nachweise über die letzten vier direkten und indirekten Überwachungen vor dem Ereignis wurden der BEU ebenfalls vorgelegt.
+Auch der Schichtplan des Tf wurde vorgelegt. Mängel oder Verstöße gegen arbeitszeitliche
+Regeln waren nicht festzustellen.
+Das EVU konnte die gesetzlich geforderten Nachweise zum Erfüllen der Voraussetzungen an
+Qualifika on und Tauglichkeit gemäß TfV zum Zeitpunkt des Ereignisses nachweisen.
+
+Seite 32 von 36
+
+Untersuchungsbericht
+Zugentgleisung, 05.09.2020, Bf Köln Eifeltor
+
+4.3.3 Handlungen Stellwerkspersonal
+Der Ww hä e die Zus mmung zur Rangierfahrt gemäß Ril 408.4813 Abschni 3 (1) d) primär
+mi els Signalbegriﬀ Sh 1 geben müssen, sta dem Güterzug GS 60711 die mündliche Zus mmung zu erteilen. Zudem enthielt die mündliche Zus mmung des Ww nicht die konkrete Signalbezeichnung „Hs 11III“.
+Eine Rangiervereinbarung zwischen Tf und Ww wurde darüber hinaus nicht getroﬀen.
+4.3.4 Handlungen Tf
+Um die Folgen von menschlichen Fehlhandlungen zu minimieren, exis eren im Eisenbahnbetrieb verschiedene Sicherheitseinrichtungen. Die PZB ist eine für den Zugfahrbetrieb wich ge
+Sicherheitseinrichtung. Mit ihr wird das Verhalten des Tf gegenüber der von außen einwirkenden Signalisierung in Bezug auf Geschwindigkeitseinschränkungen und Höchstgeschwindigkeiten punktuell überwacht und im Falle von Fehlhandlungen ggf. beeinflusst.
+Nach den Regelungen der Ril 408.2651 Abschni 3 (1) muss ein Tf, dessen Zug infolge einer
+PZB-Zwangsbremsung zum Halten gekommen ist, sofort den Fdl verständigen um gemeinsam
+mit dem Fdl festzustellen, wo die Zwangsbremsung eingetreten ist. Dieses Gespräch unterließ
+der Tf.
+
+4.4 Feedback‐ und Kontrollmechanismen
+In diesem Kapitel wird insbesondere auf Bedingungen, Feedback- und Kontrollmechanismen
+im Eisenbahnsystem eingegangen, denen ein ak ver Einfluss auf die Entstehung ähnlicher Ereignisse zugeschrieben werden könnte. Diese Mechanismen schließen Faktoren des Risikound Sicherheitsmanagement sowie Überwachungsverfahren mit ein.
+Gemäß § 4 Abs. 3 AEG sind Eisenbahnen verpflichtet, ihren Betrieb sicher zu führen, die Eisenbahninfrastruktur sicher zu bauen und in betriebssicherem Zustand zu halten. Gemäß
+§ 2 Abs. 1 EBO müssen Bahnanlagen so beschaﬀen sein, dass sie den Anforderungen der Sicherheit und Ordnung genügen. Diese Anforderungen gelten als erfüllt, wenn die Bahnanlagen
+den Vorschri en der EBO und, soweit diese keine ausdrücklichen Vorschri en enthält, anerkannten Regeln der Technik entsprechen. Die inhaltlichen und sicherheitsrelevanten Regelungen der bei der DB Netz AG geltenden Richtlinien können anerkannte Regeln der Technik darstellen. Bezüglich der Durchführung von Zugfahrten, dem Übergang einer Zugfahrt in eine
+Rangierfahrt waren die einschlägigen Regelungen der Fahrdienstvorschri , Ril 408.0488 Abschni 2 (1) b) durch den Fdl Enf und den Ww R3 zu beachten.
+
+Seite 33 von 36
+
+Untersuchungsbericht
+Zugentgleisung, 05.09.2020, Bf Köln Eifeltor
+
+4.5 Frühere Ereignisse ähnlicher Art
+Eine Abfrage der Unfalldatenbank der BEU ergab, dass keine vergleichbaren Ereignisse mit
+ähnlichen Rahmenbedingungen in der Vergangenheit bekannt wurden. Explizit sind keine Ereignisse erfasst, bei der die Drehbewegung eines Drehgestells durch Verschweißen der einzelnen Komponenten nicht mehr möglich war.
+
+Seite 34 von 36
+
+Untersuchungsbericht
+Zugentgleisung, 05.09.2020, Bf Köln Eifeltor
+
+5 Schlussfolgerungen
+Das folgende Kapitel enthält eine Zusammenfassung der ermi elten ursächlichen, beitragenden und systemischen Faktoren des Ereignisses. Zusätzlich sind zwei weitere Unterkapitel vorgesehen, um Informa onen zu bereits ergriﬀenen Maßnahmen und zu zusätzlichen Bemerkungen zu teilen.
+
+5.1 Zusammenfassung und Schlussfolgerung
+Ursächlich für das Ereignis war eine Materialveränderung an den Drehpfannenkomponenten,
+vermutlich durch einen Stromdurchgang ausgelöst. Dieser ging einher mit einem massiven,
+lokal eingeschränkten, Wärmeeintrag. Dadurch wurden die Bauteile der Drehpfanne miteinander verschweißt. Trotz dieser Blockade, die die Ausdrehbewegung des Drehgestells verhinderte, war es durch das vorhandene Fahrwerkspiel noch möglich, dass das Fahrzeug auf
+geraden Strecken und in größeren Bogenradien ohne Auswirkungen fahren konnte.
+Begüns gend für die Entgleisung wirkten die zulässige Trassierung aus Bogen und Gegenbogen sowie die eingestellten, noch im zulässigen Minusbereich liegenden, Toleranzwerte im
+Bereich Herzstück / Radlenker der Weiche 12. Durch den Verlust der Bewegungsfreiheit des
+DG am 23. Wagen und dem dadurch veränderten Anlaufwinkel erhöhten sich die Zwängungen
+bei Rad, Radlenker und Schiene während der Durchfahrt an dieser Stelle nochmals wesentlich.
+Die Zwangsbremsung am 500 Hz-Magneten in Gleis 11 wirkte ebenfalls begüns gend auf das
+Ereignis ein, da der Wagen aufgrund der Blockade im Drehgestell die durch die Zwangsbremsung einwirkenden Krä e in der Weiche 12 nicht mehr aufnehmen konnte.
+Die Kombina on dieser drei Faktoren am Radlenker der Weiche 12 führte schlussendlich zur
+Entgleisung des 23. Wagens.
+Bei dem vorliegenden Ereignis wurden aufgrund der gewonnenen Erkenntnisse keine Verbesserungsmöglichkeiten an den Prozessen des SMS der beteiligten Eisenbahnunternehmen
+durch die BEU ermi elt. Für die Wagen der Ga ung Sahmms-t, Bauart 710.1, sieht die DB
+Cargo AG als ECM einen Instandhaltungsplan vor. Für den betroﬀenen Wagen wurde der
+Nachweis über ein vorhandenes Instandhaltungsmanagement erbracht. Die planmäßigen Revisionen wurden durchgeführt, zuletzt am 09.05.2019. Der massive Energieeintrag, vermutlich
+durch Stromeinwirkung, ereignete sich in der zeitlichen Spanne zwischen diesem Werkstattaufenthalt und dem Ereignisdatum und konnte nicht genau da ert werden.
+
+Seite 35 von 36
+
+Untersuchungsbericht
+Zugentgleisung, 05.09.2020, Bf Köln Eifeltor
+
+5.2 Seit dem Ereignis getroffene Maßnahmen
+Das Ereignis wurde DB intern an das Gremium für die Erstellung der Themen für das fachliche
+Training weitergegeben, um überregional auf den Zusammenhang von Auswirkungen an der
+Signalanlage und Zugfahrten hinzuweisen.
+Seitens der DB Cargo AG wurde das Ereignis als Einzelfall bewertet. Ähnliche Schadbilder an
+Drehpfannenkomponenten wurden seitens der DB Cargo AG aus der jüngsten Vergangenheit
+nicht iden fiziert.
+
+5.3 Zusätzliche Bemerkungen
+Die durchgeführten Untersuchungen lieferten keinen Beitrag zu diesem Punkt.
+
+6 Sicherheitsempfehlungen
+Sicherheitsempfehlungen wurden in Folge dieser Zugentgleisung vom 05.09.2020 im Bf Köln
+Eifeltor durch die BEU nicht ausgesprochen.
+
+Seite 36 von 36
+
+
