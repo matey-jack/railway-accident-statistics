@@ -1,0 +1,58 @@
+
+RAM usage 21GB.
+
+=== Telemetry ===
+Input tokens:  21352
+Output tokens: 1219
+TTFT (s):      423.096
+TPS:           4.95
+
+Best result, differing from Qwen-3-8b mostly by adding some relevant details. 
+
+
+# Thinking
+
+Okay, I need to compare LZB and TVM based on the provided information. Let me start by going through both sections again to pick out the key points about each system.
+
+First, LZB (Linienzugbeeinflussung) is a cab signaling and train protection system used in Germany, Austria, Spain, and some other places. It’s being phased out in favor of ETCS. TVM (Transmission voie-machine) is a French system mainly used on high-speed lines, part of the TGV project. Both are cab signaling systems, but they have different origins and implementations.
+
+LZB uses conductor cables between the tracks, crossed every 100 meters. The system communicates through these cables, sending data packets called telegrams. It has features like automatic train protection (ATP), automatic train operation (AFB), and integrates with Indusi for non-LZB lines. It’s used on high-speed lines up to 300 km/h and also on some urban rail systems. The control centers manage blocks of track, up to 30-40 km, and calculate movement authority based on track conditions.
+
+TVM, on the other hand, uses track circuits with alternating current signals. It has different versions like TVM-300 and TVM-430. TVM-430 is more advanced, with continuous speed control, gradient info, block length, and network codes. It uses carrier frequencies (1700, 2000, 2300, 2600 Hz) and modulates them with audio frequencies. There’s also intermittent signaling via inductive loops (BSP) for specific commands. TVM-430 has redundancy and a network code to handle different speed limits, like in the Channel Tunnel vs. LGV lines.
+
+Both systems provide speed and distance information to the driver, but TVM seems to have more detailed data, like gradients and continuous speed profiles. LZB has automatic driving features (AFB), which TVM doesn’t mention explicitly. TVM uses a network code to adjust speed limits based on the line, which might be a key difference.
+
+Also, the technical implementations differ: LZB uses cables with loops, while TVM uses track circuits and inductive loops. Both have safety mechanisms, like emergency brakes, but the specifics of their control methods are different.
+
+I need to make sure I don’t mix up the details. The comparison should highlight their purposes, technologies, regions of use, and key features like speed handling, integration with other systems, and evolution towards newer standards like ETCS.
+
+# Result
+
+Comparison of LZB and TVM:
+
+Purpose and Use:
+
+LZB (Germany, Austria, Spain): A cab signaling and train protection system for high-speed (up to 300 km/h) and urban rail lines, with a focus on continuous train control and safety. It is being phased out in favor of ETCS.
+TVM (France): A cab signaling system for high-speed lines (TGV) and the Channel Tunnel. TVM-430 is advanced, offering continuous speed control, gradient data, and block-specific parametrization.
+Technology and Communication:
+
+LZB uses conductor cables between tracks (crossed every 100 m) to transmit data packets (telegrams) for movement authority. It relies on track circuits and axle counters for block occupancy.
+TVM employs track circuits with alternating current (AC) signals on rails, using carrier frequencies (1700–2600 Hz). It also uses inductive loops (BSP) for intermittent commands and integrates redundancy via solid-state processors.
+Key Features:
+
+LZB includes automatic train protection (ATP), automatic train operation (AFB), and compatibility with traditional Indusi/PZB systems. It provides target speed, distance, and braking curves to drivers.
+TVM-430 offers continuous speed profiles, gradient data, block length, and network-specific parametrization. It uses a network code (e.g., for speed limits) and has a “dead man’s switch” for driver vigilance.
+Safety and Automation:
+
+LZB allows fully automatic driving (AFB) and has emergency braking for overspeed. It supports shorter blocks (up to 300 m) in modern versions.
+TVM emphasizes driver oversight despite automation, with strict overspeed thresholds (5–15 km/h tolerance). It uses redundant systems and a “black box” for data logging.
+Integration and Evolution:
+
+LZB is being replaced by ETCS (2023–2030) in Germany. It coexists with legacy systems and has variants like CIR-ELKE for enhanced capacity.
+TVM coexists with other systems (e.g., KVB on conventional lines) and is part of broader European signaling standards. TVM-430 is used in South Korea (KTX) and the Channel Tunnel.
+Regional Focus:
+
+LZB is dominant in Germany, Austria, and Spain, with historical use in urban and high-speed contexts.
+TVM is exclusive to French high-speed networks (LGVs) and the Channel Tunnel, with no direct overlap in deployment areas.
+Summary: Both systems prioritize safety and cab signaling for high-speed rail, but LZB emphasizes automation (AFB) and cable-based communication, while TVM-430 focuses on continuous data transmission, gradient integration, and network-specific parametrization. TVM is more tightly integrated into France’s high-speed infrastructure, whereas LZB spans multiple European countries and urban systems.
+

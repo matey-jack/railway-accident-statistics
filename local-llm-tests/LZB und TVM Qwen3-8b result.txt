@@ -1,0 +1,49 @@
+
+=== Telemetry ===
+Input tokens:  21352
+Output tokens: 1002
+TTFT (s):      259.649
+TPS:           6.71
+
+RAM usage on the order of 14.5GB.
+
+Much slower than the 4B models.
+Like Qwen 3-4B, this 8B answer is better than Gemma and Ministral mostly because it has less information nd therefore also less hallucinations.
+
+
+# Thinking
+
+Okay, let’s tackle this query. The user wants a brief comparison of LZB and TVM based on the provided documents. First, I need to extract the key points from both systems.
+
+Starting with LZB: It’s a cab signaling system used in Germany, Austria, and Spain. It’s being phased out in favor of ETCS. LZB uses conductor cables with telegrams for communication between the control center and trains. It allows for higher speeds, up to 300 km/h, and has features like Automatic Train Protection (ATP) and Automatic Train Operation (ATO). It’s part of the European Train Control System (ETCS) transition.
+
+Now, TVM: This is a French system, mainly for high-speed lines like the TGV. TVM-300 and TVM-430 are the versions mentioned. TVM uses track-to-train transmission with AC signals and has a more advanced system with continuous speed control. It also has redundancy and uses different frequencies. TVM is used in the Channel Tunnel and other high-speed lines, with a focus on automation and safety features like VACMA for driver vigilance.
+
+Comparing them, both are cab signaling systems for high-speed rail. LZB is more widely used in Germany and Austria, while TVM is specific to France. LZB is being replaced by ETCS, whereas TVM is part of the broader ERTMS system. TVM has more advanced features like continuous speed control and better handling of gradients. Both have safety mechanisms, but TVM includes driver vigilance systems. The documents mention that TVM-430 provides more detailed information, including track gradients and block lengths, leading to smoother speed adjustments. LZB has a different approach with its telegrams and block management.
+
+Need to ensure the comparison is brief, focusing on key differences like countries of use, speed capabilities, communication methods, and safety features. Also, note the replacement status of LZB with ETCS and TVM’s role in ERTMS. Highlight that both are part of the transition to modern systems but have distinct implementations and regional applications.
+
+# Answer
+
+Comparison of LZB and TVM:
+
+Purpose: Both LZB (Linienzugbeeinflussung) and TVM (Transmission voie-machine) are cab signaling systems for high-speed rail, providing train protection and speed control.
+Countries of Use:
+LZB is used in Germany, Austria, and Spain (e.g., high-speed lines like the Hanover-Würzburg and Madrid-Seville routes).
+TVM is primarily used in France (e.g., TGV networks) and the Channel Tunnel, with some applications in South Korea (KTX).
+Technology:
+LZB uses conductor cables with telegrams for bidirectional communication between the control center and trains, enabling precise speed and distance control.
+TVM relies on track-to-train AC signals and inductive loops, with advanced features like continuous speed curves and gradient profiling.
+Speed Capabilities:
+LZB supports speeds up to 300 km/h (e.g., on German and Spanish high-speed lines).
+TVM is designed for high-speed lines (e.g., TGV up to 300 km/h) and includes dynamic speed adjustments based on track conditions.
+Redundancy & Safety:
+Both systems use redundant hardware and redundant data transmission (e.g., telegrams in LZB, frequency modulation in TVM).
+TVM includes a driver vigilance system (VACMA) to ensure alertness, while LZB relies on automatic train protection (ATP) and manual overrides.
+Replacement Status:
+LZB is being phased out in favor of ETCS (European Train Control System) by 2030.
+TVM is part of the ERTMS (European Rail Traffic Management System) and is integrated with ETCS for interoperability.
+Key Differences:
+LZB focuses on block-based signaling with fixed zones, while TVM uses continuous speed control and dynamic block adjustments.
+TVM provides more detailed data (e.g., track gradients, block lengths) for smoother speed transitions, whereas LZB emphasizes braking distance calculations and safety margins.
+Both systems are critical for high-speed rail operations but differ in regional implementation, technical design, and integration with modern control systems.

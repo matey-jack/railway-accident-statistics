@@ -1,0 +1,664 @@
+
+You are a document processor and summarizer. 
+Your output is based solely on the information given as the input and your basic understanding of language; not your knowledge about any facts. 
+Whenever some input is ambiguous, ignore it in your answer. If the ambiguous input seems important for the answer, then include your statement of the ambiguity instead of your interpretation.
+Your input contains the descriptions of LZB and TVM, separated by "---\n".
+Please ouput a brief comparison of LZB and TVM.
+
+---
+
+# Linienzugbeeinflussung (LZB)
+
+{{italic title}}
+{{Short description|In-cab signalling and train protection system}}
+{{Use British English|date=June 2022}}
+[[Image:Feste Fahrbahn FFBögl.jpg|thumb|Track equipped with LZB loops. 
+Notice the second cable on the lower part of the left rail.]]
+
+'''''Linienzugbeeinflussung''''' (or '''LZB''') is a [[cab signalling]] and [[train protection system]] used on selected [[Deutsche Bundesbahn|German]] and [[Austrian Federal Railways|Austrian railway]] lines as well as on the [[AVE]] and some commuter rail lines in [[Rail transport in Spain|Spain]]. The system was mandatory where trains were allowed to exceed speeds of {{convert|160|km/h|abbr=on}} in Germany and {{convert|220|km/h|abbr=on}} in Spain. It is also used on some slower railway and urban [[rapid transit]] lines to increase capacity. In [[German (language)|German]], the word ''Linienzugbeeinflussung'' translates to ''continuous train control'', or more literally: ''linear train influencing''. It is also occasionally called '''''linienförmige Zugbeeinflussung'''''.
+
+LZB is deprecated, and is to be replaced with the [[European Train Control System]] (ETCS) between 2023 and 2030. It is referenced by [[European Union Agency for Railways]] (ERA) as a Class B ''train protection system'' in ''National Train Control'' (NTC).<ref>{{Cite web|url=http://www.era.europa.eu/Document-Register/Documents/ERA_TD_2011-11%20v30.pdf|title=LIST OF CLASS B SYSTEMS|date=2016-06-01|website=European Union Agency for Railways|format=PDF, 234 kB|access-date=2017-04-04}}</ref> Driving cars mostly have to replace classical control logic to ETCS ''Onboard Units'' (OBU) with common ''[[European Train Control System#Man Machine Interface|Driver Machine Interface]]'' (DMI).<ref>{{Cite web|url=http://www.uic.org/cdrom/2012/10_ERTMS-Conference2012/docs/E5-OpenETCS-abstractV2.pdf|title=New Approach for ETCS Onboard Units Based on Open Source Principles|date=2011-03-01|website=UIC, the worldwide railway organisation|format=PDF; 553 MB|access-date=2017-04-04}}</ref> Because high performance trains are often not scrapped or reused on second order lines, special ''Specific Transmission Modules'' (STM) for LZB were developed for further support of LZB installation.<ref>{{Cite web|url=http://www.uic.org/cdrom/2003/ertms_conference_2003/docs/etcs_report_1.pdf|title=Implementing the European Train Control System ETCS - Opportunities for European Rail Corridors|date=2003-12-31|website=UIC, the worldwide railway organisation|format=PDF; 1,6 MB|access-date=2017-04-04|archive-url=https://web.archive.org/web/20140421050552/http://www.uic.org/cdrom/2003/ertms_conference_2003/docs/etcs_report_1.pdf|archive-date=2014-04-21|url-status=dead}}</ref>
+
+== Overview ==
+[[Image:Ice2 mfa on lzb.jpg|thumb|right|360px|Main console of an [[DBAG Class 402|ICE 2]] train in LZB mode. The current, the maximum and the target speed is 250&nbsp;km/h. The target distance is 9.8&nbsp;km]]
+[[File:ICE 4, Führerstands-Display LZB.jpg|thumb|right|360px|The Driver Machine Interface (DMI) panel of an [[ICE 4 (Deutsche Bahn)|ICE 4]] train in LZB (STM) mode, showing a maximum target speed of 200&nbsp;km/h]]
+In Germany the standard distance from a distant [[Railway signal|signal]] to its home signal is {{convert|1000|m}}. On a train with strong brakes, this is the [[braking distance]] from 160&nbsp;km/h. In the 1960s Germany evaluated various options to increase speeds, including increasing the distance between distant and home signals, and [[cab signalling]]. Increasing the distance between the home and distant signals would decrease capacity. Adding another aspect would make the signals harder to recognize. In either case, changes to the conventional signals wouldn't solve the problem of the difficulty of seeing and reacting to the signals at higher speeds. To overcome these problems, Germany chose to develop continuous cab signalling.
+
+The LZB cab signalling system was first demonstrated in 1965, enabling daily trains at the International Transport Exhibition in Munich to run at 200&nbsp;km/h. The system was further developed throughout the 1970s, then released on various lines in Germany in the early 1980s and on German, Spanish, and Austrian high-speed lines in the 1990s with trains running up to {{convert|300|km/h|abbr=on}}. Meanwhile, additional capabilities were built into the system.
+
+LZB consists of equipment on the line as well as on the trains. A 30–40&nbsp;km segment of track is controlled by a LZB control centre.<ref name="GermanSignalling">Signalling System for German High Speed Lines, by H. Uebel, [[Standard Elektrik Lorenz]] A.G., Stuttgart, Germany, presented in the "1989 International Conference on Main Line Railway Electrification", p 36-39.</ref> The control centre computer receives information about occupied blocks from [[track circuit]]s or [[axle counter]]s and locked routes from interlockings. It is programmed with the track configuration including the location of points, turnouts, gradients, and curve speed limits. With this, it has sufficient information to calculate how far each train may proceed and at what speed.
+
+The control centre communicates with the train using two conductor cables that run between the tracks and are crossed every 100 m. The control centre sends data packets, known as telegrams, to the vehicle which give it its movement authority (how far it can proceed and at what speed) and the vehicle sends back data packets indicating its configuration, braking capabilities, speed, and position.
+
+The train's on-board computer processes the packets and displays the following information to the driver:
+* <u>Current speed</u>: locally derived from speed sensing equipment - shown with a standard speedometer
+* <u>Permitted speed</u>: maximum allowed speed now - shown with a red line or triangle on the outside of the speedometer
+* <u>Target speed</u>: maximum speed at a certain distance - shown with LED numbers at the bottom of the speedometer
+* <u>Target distance</u>: distance for target speed - shown with LED bars showing up to 4000 m, with numbers for longer distances
+
+If there is a long distance free in front of the train the driver will see the target speed and permitted speed equal to the maximum line speed, with the distance showing the maximum distance, between 4&nbsp;km and 13.2&nbsp;km depending on the unit, train, and line.
+
+As the train approaches a speed restriction, such as one for a curve or turnout, LZB will sound a buzzer and display the distance to and speed of the restriction. As the train continues the target distance will decrease. As the train nears the speed restriction the permitted speed will start to decrease, ending up at the target speed at the restriction. At that point the display will change to the next target.
+
+The LZB system treats a red signal or the beginning of a block containing a train as a speed restriction of 0 speed. The driver will see the same sequence as approaching a speed restriction except the target speed is 0.
+
+LZB includes [[Automatic Train Protection]]. If the driver exceeds the permitted speed plus a margin LZB will activate the buzzer and an overspeed light. If the driver fails to slow the train the LZB system can apply the brakes itself, bringing the train to a halt if necessary.
+
+LZB also includes an [[Automatic Train Operation]] system known as AFB (Automatische Fahr- und Bremssteuerung, automatic driving and braking control), which enables the driver to let the computer drive the train on auto-pilot, automatically driving at the maximum speed currently allowed by the LZB. In this mode, the driver only monitors the train and watches for unexpected obstacles on the tracks.
+
+Finally, the LZB vehicle system includes the conventional [[Indusi]] (or PZB) train protection system for use on lines not equipped with LZB.
+
+== History ==
+=== Choice of cab signalling ===
+In the 1960s, the German railways wanted to increase the speeds of some of their railway lines. One issue in doing so is signalling. German signals are placed too close to allow high-speed trains to stop between them, and signals may be difficult for train drivers to see at high speeds.
+
+Germany uses distant signals placed {{convert|1,000|m|ft|abbr=on}} before the main signal. Trains with conventional brakes, decelerating at {{convert|0.76|m/s2|abbr=on}}, can stop from {{convert|140|km/h|mph|abbr=on}} in that distance. Trains with strong brakes, usually including electromagnetic [[track brake]]s, decelerating at {{convert|1|m/s2|abbr=on}} can stop from {{convert|160|km/h|mph|abbr=on}} and are allowed to travel that speed. However, even with strong brakes and the same deceleration, a train travelling {{convert|200|km/h|mph|abbr=on}} would require {{convert|1,543|m|ft|abbr=on}} to stop, exceeding the signalling distance. Furthermore, as the energy dissipated at a given acceleration increases with speed, higher speeds may require lower decelerations to avoid overheating the brakes, further increasing the distance.
+
+One possibility to increase speed would be to increase the distance between the main and distant signal. But, this would require longer blocks, which would decrease line capacity for slower trains. Another solution would be to introduce multiple aspect signalling. A train travelling at {{convert|200|km/h|mph|abbr=on}} would see a "slow to 160" signal in the first block and then a stop signal in the 2nd block.
+
+Introducing multi-aspect signalling would require substantial reworking for the existing lines, as additional distant signals would need to be added onto long blocks and the signals reworked on shorter ones. In addition, it wouldn't solve the other problem with high-speed operation, the difficulty of seeing signals as a train rushes past, especially in marginal conditions such as rain, snow, and fog.
+
+Cab signalling solves these problems. For existing lines it can be added on top of the existing signalling system with little, if any, modifications to the existing system. Bringing the signals inside the cab makes it easy for the driver to see them. On top of these, the LZB cab signalling system has other advantages:
+
+* The driver is immediately aware of signalling changes.
+** This allows a driver to stop slowing down if a signal at the end of a block improves, saving energy and time.
+** It also allows the control centre to instantly signal stop in the case of dangerous conditions such as a derailment or avalanche.
+* The driver can electronically "see" a long distance (up to 13&nbsp;km) down the track, allowing them to drive the train more smoothly.
+* A train following a slower train can "see" the slower train well in advance, coasting or using regenerative braking to slow and thereby save  energy.
+* It can signal a variety of speeds. (Conventional German signals in the 1960s could only signal {{convert|40|or|60|km/h|mph|abbr=on}} for turnouts. Modern conventional German signals can signal any {{convert|10|km/h|mph|abbr=on}} increment, but LZB can signal even finer increments.)
+* It allows the track to be divided up into a large number of small blocks if necessary to increase capacity.
+* It enables a more capable [[Automatic Train Protection]] system.
+* It enables the AFB [[Automatic Train Operation]] system.
+
+Given all of these advantages, in the 1960s, the German railways chose to go with LZB cab signalling instead of increasing the signal spacing or adding aspects.
+
+=== Development ===
+The first prototype system was developed by [[Deutsche Bundesbahn|German Federal Railways]] in conjunction with [[Siemens]] and tested in 1963. It was installed in Class 103 locomotives and presented in 1965 with {{convert|200|km/h|mph|abbr=on}} runs on trains to the International Exhibition in Munich. From this Siemens developed the LZB 100 system and introduced it on the Munich-Augsburg-Donauwörth and Hanover-Celle-Uelzen lines, all in Class 103 locomotives.<ref name="LZB80">
+Continuous Automatic Train Control and Cab Signalling with the LZB 80, by H. Sporleder, Siemens, AG, published in the
+"1989 International Conference on Main Line Railway Electrification", p 40-46.</ref> The system was overlaid on the existing signal system. All trains would obey the standard signals, but LZB-equipped trains could run faster than normal as long as the track was clear ahead for a sufficient distance. LZB 100 could display up to {{convert|5|km|mi|abbr=on}} in advance.
+
+The original installations were all hard-wired logic. However, as the 1970s progressed [[Standard Elektrik Lorenz]] (SEL) developed the computer-based  LZB L72 central controllers and equipped other lines with them.
+
+By the late 1970s, with the development of microprocessors, the 2-out-of-3 computers could be applied to on-board equipment. Siemens and SEL jointly developed the LZB 80 on-board system and equipped all locomotives and trains that travel over {{convert|160|km/h|mph|abbr=on}} plus some heavy haul locomotives. By 1991, Germany replaced all LZB 100 equipment with LZB 80/L 72.<ref name="GermanSignalling"/><ref name="LZB80"/>
+
+When Germany built its high-speed lines, beginning with the Fulda-Würzburg segment that started operation in 1988, it incorporated LZB into the lines. The lines were divided into blocks about {{convert|1.5|to|2.5|km|mi|abbr=on}} long, but instead of having a signal for every block, there are only fixed signals at switches and stations, with approximately {{convert|7|km|mi|abbr=on}} between them. If there was no train for the entire distance the entry signal would be green. If the first block was occupied it would be red as usual. Otherwise, if the first block was free and a LZB train approached the signal would be dark and the train would proceed on LZB indications alone.
+
+The system has spread to other countries. The Spanish equipped their first high-speed line, operating at {{convert|300|km/h|mph|abbr=on}}, with LZB. It opened in 1992 and connects [[Madrid]], [[Córdoba, Andalusia|Cordoba]], and [[Seville]]. In 1987 the [[Austrian Federal Railways|Austrian railways]] introduced LZB into their systems, and with the 23 May 1993 timetable change introduced EuroCity trains running {{convert|200|km/h|mph|abbr=on}} on a {{convert|25|km|mi|abbr=on}}-long section of the [[Western Railway (Austria)|Westbahn]] between [[Linz]] and [[Wels]].
+
+Siemens continued to develop the system, with "Computer Integrated Railroading", or "CIR ELKE", lineside equipment in 1999. This permitted shorter blocks and allowed speed restrictions for switches to start at the switch instead of at a block boundary. See [[#CIR ELKE|CIR ELKE]] below for details.
+
+=== Development timeline ===
+
+{| class="wikitable" 
+|- class="hintergrundfarbe6"
+! width="80" | Date || Description || width="130" | Control centres / Length
+|-
+| align="center" | 1963 || Testing on [[Nuremberg–Bamberg railway|Forchheim–Bamberg line]] ||
+|-
+| align="center" | 1965 || 200&nbsp;km/h presentation trips on the [[Munich–Augsburg railway|Munich–Augsburg line]] installed in [[DB Class 103|Class 103]] locomotives<ref name="bachtech-2006-1-24">''Der ICE – ein Produkt des Systemverbundes Bahn''. 
+    In: [[Deutsche Bahn]] AG: ([https://web.archive.org/web/20081206114203/https://www.deutschebahn.com/site/shared/de/dateianhaenge/publikationen__broschueren/bahntech/bahntech200601.pdf http://www.db.de/site/shared/de/dateianhaenge/publikationen__broschueren/bahntech/bahntech200601.pdf]) 
+    ''bahntech'', Nr. 1/06], S.&nbsp;24&nbsp;f.</ref> ||
+|-
+| align="center" | 1974–1976 || Operations testing on the [[Wanne-Eickel–Hamburg railway|Bremen–Hamburg line]] || 3 controllers / {{convert|90|km|mi|abbr=on|disp=or}}
+|-
+| align="center" | 1976 || Expanded the trial to the [[Hamm–Minden railway|Hamm–Gütersloh line]]. ||
+|-
+| align="center" | 1978–1980 || S-Bahn pilot project in Madrid ([[RENFE]]) || 1 controller / {{convert|28|km|mi|abbr=on|disp=or}}
+|-
+| align="center" | 1980–1985 || Operations start on some [[Deutsche Bundesbahn|Deutschen Bundesbahn]] (DB) lines || 7 controllers / {{convert|309|km|mi|abbr=on|disp=or}}
+|-
+| align="center" | 1987 || Operations start on new high-speed lines [[Hanover–Würzburg high-speed railway|Fulda–Würzburg]] and [[Mannheim–Stuttgart high-speed railway|Mannheim–Hockenheim]] || 4 controllers / {{convert|125|km|mi|abbr=on|disp=or}}
+|-
+| align="center" | 1987 || [[Austrian Federal Railways]] decides to introduce LZB ||
+|-
+| align="center" | 1988–1990 || Further expansion to new routes in Germany || 2 controllers / {{convert|190|km|mi|abbr=on|disp=or}}
+|-
+| align="center" | 1991 || Commissioning of the remainder of the [[Hanover–Würzburg high-speed railway]], the [[Mannheim–Stuttgart high-speed railway]] and additional routes || 10 controllers / {{convert|488|km|mi|abbr=on|disp=or}}
+|-
+| align="center" | 1992 || Opening of the [[Madrid-Sevilla high-speed rail line]] in Spain || 8 controllers / {{convert|480|km|mi|abbr=on|disp=or}}
+|-
+| align="center" | 1992 || First section [[Western Railway (Austria)|Wien–Salzburg]] route in Austria || 1 controller / {{convert|30|km|mi|abbr=on|disp=or}}
+|-
+| align="center" | 1995 || Commissioning of the [[Madrid]] C5 [[Cercanias]] (suburban rail) line || 2 controllers / {{convert|45|km|mi|abbr=on|disp=or}}
+|-
+| align="center" | 1998 || Commissioning of the [[Hanover–Berlin high-speed railway]] and expansion of the [[Nuremberg–Würzburg railway]], paired with electronic interlockings.  || 6 controllers
+|-
+| align="center" | 1999 || Commissioning of the [[#CIR ELKE|CIR ELKE]] pilot project on the [[Mannheim–Karlsruhe–Basel railway|Offenburg–Basel line]], with CE1 system software || 4 controllers
+|-
+| align="center" | 2001 || Commissioning of the [[#CIR ELKE|CIR ELKE]] pilot project at [[Achern]] || 1 controller
+|-
+| align="center" | 2002 || Commissioning of the [[Cologne–Frankfurt high-speed rail line]] using [[#CIR ELKE-II|CE2]] system software || 4 controllers
+|-
+| align="center" | 2003 || Commissioning of the upgrades to the [[Cologne–Aachen high-speed railway|Cologne–Düren(–Aachen)]] rail line (LZB with CE2-Software)|| 1 controller / {{convert|40|km|mi|abbr=on|disp=or}}
+|-
+| align="center" | 2004 || Commissioning of the upgrades to the [[Berlin–Hamburg Railway|Hamburg–Berlin line]] (LZB with CE2 system software)|| 5 controllers
+|-
+| align="center" | 2004 || Commissioning on the upgrades to the [[Munich S-Bahn]] using (CE2 software and shorter blocks) || 1 controller
+|-
+| align="center" | 2006 || Commissioning on the upgrades to the [[Anhalt Railway|Berlin–Halle]]/[[Leipzig]] line where LZB (CE2) and [[European Train Control System|ETCS]] are combined for the first time. || 4 controllers
+|-
+| align="center" | 2006 || Commissioning of the [[Nuremberg–Munich high-speed railway]] (LZB with CE2 system software with turnout extension) || 2 controllers
+|}
+
+== Line equipment ==
+
+=== Cable loops ===
+[[Image:Lininenleiter im Gleis mit Kreuzungsstelle.jpg|thumb|Cable loop]]
+
+The LZB control centre communicates with the train using conductor cable loops. Loops can be as short as 50 metres long, as used at the entrance and exit to LZB controlled track, or as long as {{convert|12.7|km|mi|abbr=on}}. Where the loops are longer than {{convert|100|m|ft|0|abbr=on}} they are crossed every {{convert|100|m|ft|0|abbr=on}}. At the crossing the signal [[Phasor|phase angle]] is changed by 180° reducing electrical interference between the track and the train as well as long-distance radiation of the signal. The train detects this crossing and uses it to help determine its position. Longer loops are generally fed from the middle rather than an end.
+
+One disadvantage of very long loops is that any break in the cable will disable LZB transmission for the entire section, up to {{convert|12.7|km|mi|abbr=on}}. Thus, newer LZB installations, including all high-speed lines, break the cable loops into {{convert|300|m|ft|0|abbr=on}} physical cables. Each cable is fed from a repeater, and all of the cables in a section will transmit the same information.
+
+[[Image:LL-Verlegung.png|thumb|640px|center|Short loop cable configuration.]]
+
+=== LZB route centre (central controller) ===
+The core of the LZB route centre, or central controller, consists of a 2-of-3 computer system with two computers connected to the outputs and an extra for standby. Each computer has its own power supply and is in its own frame.<ref name="LZB80"/> All 3 computers receive and process inputs and interchange their outputs and important intermediate results. If one disagrees it is disabled and the standby computer takes its place.
+
+The computers are programmed with fixed information from the route such as speed limits, gradients, and the
+location of block boundaries, switches, and signals. They are linked by LAN or cables to the interlocking system from which they receive indications of switch positions, signal indications, and track circuit or axle counter occupancy. Finally, the route centre's computers communicates with controlled trains via the cable loops previously described.
+
+=== Other equipment ===
+[[Image:LZB Bereichskennzeichnungswechsel.jpg|thumb|right|Start of LZB sign]]
+[[Image:LZB-Blockkennzeichen.jpg|thumb|Sign indicating a new (virtual) LZB block]]
+* ''Repeaters'': Repeaters connect individual {{convert|300|m|ft|0|abbr=on}} long loop sections to the primary communication links, strengthening the signal from the route centre and sending the vehicle responses.
+* ''Fixed loops'': Fixed loops, typically about {{convert|50|m|ft|0|abbr=on}} long, are placed at the ends of the controlled section. They transmit fixed telegrams which allow entering trains to receive an address.
+* ''Isolation cabinets'': A long communication link will consist of multiple individual cables connected in "isolation cabinets" which serve to prevent the low-frequency voltage which is coupled from the catenary from accumulating on the cable.
+* ''Signs'': Signs indicate the LZB block boundaries (if not at a signal) and the entrance and exit from the LZB controlled area.
+
+== Vehicle equipment ==
+[[File: AFB Vsoll-Steller.jpg|thumb|The AFB (cruise control) lever in the driver's cab of an [[ICE 1]] train, with predefined maximum speed limits in km/h (V<sub>soll</sub>) labelled on the right. When in operation on LZB-enabled track, the AFB system automatically maintains the maximum speed that is defined by said power lever, as well as automatic speed reduction and braking of the train if necessary.]]
+The vehicle equipment in the original LZB80 designed consisted of:<ref name="LZB80"/>
+
+* ''Computers'': The on-board equipment centred around a 2-of-3 computer system. The original LZB 80 design used [[Intel 8085|8085 microprocessors]] programmed in [[assembly language]]. The programs were interrupt driven, with interrupts generated by a 70 ms clock, the track receivers and transmitters, the serial interface, and also within the program itself. Interrupts triggered comparison and output programs. Peripheral equipment was arranged around the computers with all interfaces electrically separated and all grounds tied to the cabinet frame which was tied to the vehicle chassis.
+* ''Redundant power supply'': The computers and peripheral equipment were supplied with a redundant power supply based on two identical voltage transformers. Each was capable of supplying the power necessary for all of the equipment. They were normally alternately switched, but if one failed the other would take over. On-board batteries could also supply temporary power.
+* ''Odometry'': The vehicle speed and distance travelled is measured on two independent channels by two pulse generators mounted on different axles. Each is linked to a separate micro-controller based unit used to correct any inaccuracies. The central logic polls the two units as well as an accelerometer, compares the values and checks for plausibility.
+* ''Receiver'': Two pairs of receiving [[Antenna (radio)|antennas]] are each fed to selective, self-regulating [[amplifiers]] whose output is fed to a [[demodulator]] and then a serial-parallel transformer. The received telegrams are then fed byte by byte to the central logic computer. The receivers also indicate transition points and whether the signal is present.
+* ''Transmitter'': The 2 out putting computers feed serial-parallel transformers. They are compared after conversion, and transmission is only allowed if they are identical. Only one signal is actually transmitted, with the transmitter transmitting the two signals at 56&nbsp;kHz with the signals displaced by a 90° phase angle.
+* ''[[Emergency brake (train)|Emergency brake]] connection'': The computers are connected to the brake via a relay. A computer command or loss of current will release the air from the brake pipe applying the emergency brake.
+* ''Indusi horn connection'': The horn signalling the driver is also connected by a relay.
+* ''[[Serial interface]]'': A serial interface is used to connect the rest of the components, including the driver inputs, display unit, logger, and the automatic drive and brake control (AFB) to the computers. Telegrams are transmitted cyclically both from and to the computers.
+* ''Driver input unit'': The driver inputs train related data such as the type of braking (passenger/freight), braking potential, maximum train speed, and train length on the driver interface unit. This is then displayed to the driver to verify that it is correct.
+* ''Modular cab display (MFA)'': The modular cab display shows the relevant speeds and distances to the driver as described in the [[#Overview|overview]].
+* ''Automatic drive/brake control'': When enabled by the driver, the automatic drive/brake control unit (AFB) will drive the train following the permitted speed. When not operating on an LZB equipped line, i.e. under Indusi operation, the AFB acts mainly as a "[[cruise control]]", driving according to the speed set by the driver.
+
+The equipment in newer trains is similar, although the details may vary. For example, some vehicles use radar rather than accelerometers to aid in their odometry. The number of antennas may vary by vehicle. Finally, some newer vehicles use a full-screen computer generated "Man-machine interface" (MMI) display rather than the separate dials of the "Modular cab display" (MFA).
+
+== Operation ==
+=== Telegrams ===
+LZB operates by exchanging telegrams between the central controller and the trains. The central controller transmits a "call telegram" using [[Frequency-shift keying]] (FSK) signalling at 1200 bits per second on a 36&nbsp;kHz&nbsp;±&nbsp;0.4&nbsp;kHz. The train replies with a "response telegram" at 600 bits per second at 56&nbsp;kHz ±&nbsp;0.2&nbsp;kHz.<ref name="TSI_HSR_CommandControl">
+Directive 96/48/EC, Interoperability of the trans-European
+high speed rail system, Draft Technical Specification for Interoperability,
+Part 3, annexes to the TSI, "Control-Command and Signalling" Sub-System, 
+19.05.2006.
+</ref>
+
+==== Call telegram format ====
+Call telegrams are 83.5 bits long:
+* Start sequence: Synchronization: 5.5 bits, Start element + baker code: 3 bits
+* Address: Section ID: A-E, A1-A3, Location: 1-127 or 255-128
+* Vehicle information: Travel direction: up/down, Braking type: passenger/freight, Brake curve number: 1-10, A-B
+* Braking information: Distance to brake application: {{convert|0|–|1550|m|ft|0|abbr=on}}
+* Nominal distance XG: {{convert|0|–|12775|m|ft|0|abbr=on}}, Target information, Distance: {{convert|0|–|2700|m|ft|0|abbr=on}}, Speed: {{convert|0|–|320|km/h|mph|abbr=on}}
+* Display information, Signal information: 3 bits, Additional information: 5 bits
+* Auxiliary information: Group identity: 1-4 - Indicates response type required, Line identity: new high-speed/normal main lines, Central controller type: LZB 100/72
+* [[Cyclic redundancy check]] (CRC): 8 bits
+
+One might note that there is no "train identification" field in the telegram. Instead, a train is identified by position. See [[#Entry into LZB, zones and addressing|Zones and Addressing]] for more details.
+
+==== Response telegram format ====
+There are 4 types of response telegrams, each 41 bits long. The exact type of telegram a train sends depends on the "Group identity" in the call telegram.
+
+The most common type of telegram is type 1, which is used to signal a train's position and speed to the central controller. It contains the following fields: {LZB p3}
+* Synchronization and start sequence: 6 bits
+* Group identity: 1-4 - Indicates response type
+* Vehicle location acknowledgement: number of zones advanced = ±0, ±1, ±2
+* Location within zone: {{convert|0|–|87.5|m|ft|0|abbr=on}} (in {{convert|12.5|m|ft|abbr=on|disp=or}} increments)
+* Braking type: passenger/freight
+* Brake curve number: 16 possible brake curves
+* Actual speed: {{convert|0|–|320|km/h|mph|abbr=on}}
+* Operational and diagnostic information: 5 bits
+* Cyclic redundancy check (CRC): 7 bits
+
+The other telegrams are used primarily when a train enters the LZB controlled section. They all start with the same synchronization and start sequence and a "group identity" to identify the telegram type, and end with the CRC. Their data fields vary as follows:
+* Type 2: Vehicle location acknowledgement, location within zone, braking type, brake curve number, maximum train speed, train length
+* Type 3: Railway, train number
+* Type 4: Locomotive/train series, serial number, train length
+
+=== Entry into LZB, zones and addressing ===
+Before entering an LZB controlled section the driver must enable the train by entering the required information on the [[#Driver Input Unit|Driver Input Unit]] and enabling LZB. When enabled the train will light a "B" light.
+
+[[Image:LZB-Topologie.png|thumb|450px|LZB Topology]]
+
+A controlled section of track is divided into up to 127 zones, each {{convert|100|m|ft|0|abbr=on}} long. The zones are consecutively numbered, counting up from 1 in one direction and down from 255 in the opposite.
+
+When a train enters a LZB controlled section of track, it will normally pass over a fixed loop that transmits a "change of section identification" (BKW) telegram. This telegram indicates to the train the section identification number as well as the starting zone, either 1 or 255. The train sends back an acknowledgement telegram. At that time the LZB indications are switched on, including the "Ü" light to indicate that LZB is running.
+
+From that point on the train's location is used to identify a train. When a train enters a new zone it sends a response telegram with the "vehicle location acknowledgement" filed indicating that it has advanced into a new zone. The central controller will then use the new zone when addressing the train in the future. Thus a trains address will gradually increase or decrease, depending on its direction, as it travels along the track. A train identifies that it has entered a new zone by either detecting the cable transposition point in the cable or when it has travelled {{convert|100|m|ft|0}}.<ref name="LZB80"/> A train can miss detecting up to 3 transposition points and still remain under LZB control.
+
+The procedure for entering LZB controlled track is repeated when a train transitions from one controlled section to another. The train receives a new "change of section identification" telegram and gets a new address.
+
+Until the train knows its address it will ignore any telegrams received. Thus, if a train doesn't properly enter into the controlled section it won't be under LZB control until the next section.
+
+=== Speed signalling ===
+The main task of LZB is signalling to the train the speed and distance it is allowed to travel. It does this by transmitting periodic call telegrams to each train one to five times per second, depending on the number of trains present. Four fields in the call telegram are particularly relevant:
+* Target distance.
+* Target speed.
+* Nominal stopping distance, known as "XG" (See below).
+* Distance to brake application point.
+
+The target speed and location are used to display the target speed and distance to the driver. The train's permitted speed is calculated using the trains braking curve, which can vary by train type, and the XG location, which is the distance from the start of the {{convert|100|m|ft|0|abbr=on}} zone that is used to address the train. If the train is approaching a red signal or the beginning of an occupied block the location will match the location of the signal or block boundary. The on-board equipment will calculate the permitted speed at any point so that the train, decelerating at the deceleration indicated by its braking curve, will stop by the stopping point.
+
+A train will have a parabolic braking curve as follows:
+
+: <math>V_{\rm permitted} = \sqrt{ 2 \cdot decel \cdot (XG-dist)} </math>
+
+where:
+* decel = deceleration
+* dist = distance from beginning of {{convert|100|m|ft|0|abbr=on}} zone
+
+Where a train is approaching a speed restriction the control centre will transmit a packet with an XG location set to a point behind the speed restriction such that a train, decelerating based on its braking curve, will arrive at the correct speed at the start of the speed restriction. This, as well as deceleration to zero speed, is illustrated with the green line in the "Permitted and supervised speed calculation" figure.
+
+[[Image:LZB Speed Calculation.png|thumb|500px|left|Permitted and supervised speed calculation]]
+
+The red line in the figure shows the "monitoring speed", which is the speed which, if exceeded, the train will automatically apply the emergency brakes. When running at constant speed this is {{convert|8.75|km/h|mph|abbr=on}} above the permitted speed for transited emergency braking (until speed is reduced) or {{convert|13.75|km/h|mph|abbr=on}} above the permitted speed for continuous emergency braking. When approaching a stopping point, the monitoring speed follows a braking curve similar to the permitted speed, but with a higher deceleration, that will bring it to zero at the stopping point. When approaching a speed restriction, the monitoring speed braking curve intersects the speed restriction point at {{convert|8.75|km/h|mph|abbr=on}} above the constant speed.
+
+[[Image:ICE3 LZB decel.png|thumb|ICE full-service braking and LZB deceleration]]
+
+Deceleration rates are more conservative with LZB than with conventional German signalling. A typical passenger train braking curve might have a "permitted speed" deceleration of {{convert|0.5|m/s2|ft/s2|abbr=on}} and a "monitoring speed" deceleration of {{convert|0.71|m/s2|ft/s2|abbr=on}} 42% higher than the deceleration for the permitted speed, but lower than the {{convert|0.76|m/s2|ft/s2|abbr=on}} required to stop from {{convert|140|km/h|mph|abbr=on}} in {{convert|1000|m|ft|0|abbr=on}} used in conventional signalling. The ICE3, which has a full service braking deceleration of {{convert|1.1|m/s2|ft/s2|abbr=on}} below {{convert|160|km/h|mph|abbr=on}}, dropping to {{convert|0.65|m/s2|ft/s2|abbr=on}} <!-- ? --> by {{convert|300|km/h|mph|abbr=on}}, has a LZB target speed deceleration of only {{convert|0.68|m/s2|ft/s2|abbr=on}} to {{convert|120|km/h|mph|abbr=on}}, {{convert|0.55|m/s2|ft/s2|abbr=on}} between {{convert|120|and|170|km/h|mph|abbr=on}}, and {{convert|0.5|m/s2|ft/s2|abbr=on}} at higher speeds.<ref name="ICE3 brake">"The Linear Eddy-Current Brake of the ICE 3" 
+by Dr.-Ing. Wolf-Dieter Meler-Credner and Dipl.-Ing. Johannes Gräber, 
+published in Railway Technical Review (RTR), April, 2003</ref>
+
+In between the permitted speed and monitoring speed is a warning speed, normally {{convert|5|km/h|mph|abbr=on}} above the permitted speed. If the train exceeds that speed LZB will flash the "G" light on the train's display and sound a horn.
+
+=== Leaving LZB ===
+About {{Convert|1700|m|ft|0|abbr=on}} before the end of the LZB controlled section the central controller will send a telegram to announce the end of LZB control. The train will flash the "ENDE" light which the driver must acknowledge within 10 seconds. The display will normally give the distance and target speed at the end of the controlled section, which will depend on the signal at that point.
+
+When the train reaches the end of LZB control the "Ü" and "ENDE" lights go off and the conventional Indusi (or PZB) system takes over automatic train protection.
+
+=== Special operating modes ===
+Special conditions not covered by the full LZB system or failures can put LZB into one of the special operating modes.
+
+==== Crossover to opposite track ====
+As a train approaches a crossover to a normally opposite direction track the display will flash the "E/40" light. The driver confirms the indication and the permitted speed drops following the braking curve to {{convert|40|km/h|mph|abbr=on}}. When the crossover section is reached the displays are switched off and the driver can proceed through the crossover at {{convert|40|km/h|mph|abbr=on}}.
+
+==== Drive by sight signal ====
+German signalling systems have a "drive by sight" signal that consists of 3 white lights forming a triangle with one light at the top. This signal, labelled "Zs 101", is placed with a fixed line side signal and, when lighted, permits the driver to pass a fixed red or defective signal and drive by sight to the end of the interlocking no faster than {{convert|40|km/h|mph|abbr=on}}.
+
+When approaching such a signal in LZB territory the "E/40" light will be lit until {{convert|250|m|ft|0|abbr=on}} before the signal, then the "E/40" will go dark and "V40" will flash. The "V40" signal indicates the ability to drive by sight.
+
+==== Transmission failure ====
+If data exchange is interrupted, the trains distance measurement system fails, or the train fails to detect 4 or more cable transposition points the LZB system will go into a failure state. It will light the "Stör" indicator and then flash "Ü". The driver must acknowledge the indications within 10 seconds. The driver must slow the train to no more than {{convert|85|km/h|mph|abbr=on}} or lower; the exact speed depends on the backup signalling system in place.
+
+== Extensions ==
+=== CIR ELKE-I ===
+CIR-ELKE is an improvement on the basic LZB system. It uses the same physical interface and packets as standard LZB but upgrades its software, adding capabilities and modifying some procedures. It is designed to increase line capacity by up to 40% and to further shorten travel times. The name is an abbreviation of the English/German project title ''<u>C</u>omputer <u>I</u>ntegrated <u>R</u>ailroading - <u>E</u>rhöhung der <u>L</u>eistungsfähigkeit im <u>K</u>ernnetz der <u>E</u>isenbahn'' (Computer Integrated Railroading - Increase Capacity in the Core Railway Network). Being an extension of LZB it is also called LZB-CIR-ELKE further abbreviated into LZB-CE.
+
+CIR-ELKE includes the following improvements:
+* ''Shorter blocks'' - CIR-ELKE blocks can be as short as {{convert|300|m|ft|0}}, or even shorter for S-Bahn systems. The [[Munich S-Bahn]] system has blocks as short as {{convert|50|m|ft|0}} at the beginning of the platform, allowing a train to pull into the platform as another is leaving and making it capable of running 30 trains per hour.
+* ''Speed changes at any location'' - The standard LZB system required that speed restrictions start at block boundaries. With CIR-ELKE speed restrictions can start at any point, such as at a turnout. This means a train doesn't have to slow down as soon, increasing average speeds.
+* ''Telegram evaluation changes'' - In order to increase safety on a system with shorter intervals between trains CIR-ELKE sends identical telegrams twice. The train will only act on a telegram if it receives two identical valid telegrams. In order to compensate for the increase in the number of telegrams CIR-ELKE sends telegrams to non-moving trains less frequently.
+
+=== CIR ELKE-II ===
+The original LZB system was designed for permitted speeds up to {{convert|280|km/h|mph|abbr=on}} and [[Grade (slope)|gradients]] up to 1.25%. The [[Cologne–Frankfurt high-speed rail line]] was designed for {{convert|300|km/h|mph|abbr=on}} operation and has 4% gradients; thus, it needed a new version of LZB, and CIR ELKE-II was developed for this line.
+
+CIR ELKE-II has the following features:
+* Maximum speed of {{convert|300|km/h|mph|abbr=on}}.
+* Support for braking curves with higher decelerations and curves taking into account the actual altitude profile of the distance ahead instead of assuming the maximum down slope of the section. This makes operation on 4% gradients practical.
+* Support for target distances of up to {{convert|35000|m|ft|0|abbr=on}} to a stopping or speed restriction point. If there is no such point within that distance the system will display a target distance of {{convert|13000|m|ft|0|abbr=on}} and a target speed of the line speed.
+* Support for enabling the [[Eddy current brake]] of the ICE3 trains. By default, the eddy current brake is enabled for emergency braking only. With CE2 it is possible to enable it for service braking, too.
+* Signalling voltage or phase changes.
+* Audible warning signals 8 seconds before the point of braking, or 4 seconds for the Munich S-Bahn, instead of {{convert|1000|m|ft|0|abbr=on}} before or with a {{convert|30|km/h|mph|abbr=on}} speed difference done previously.
+
+== Malfunctions ==
+The LZB system has been quite safe and reliable; so much so that there have been no collisions on LZB equipped lines because of the failure of the LZB system. However, there have been some malfunctions that could have potentially resulted in accidents. They are:
+
+* On 29 June 1991, after a disturbance, the train driver had the LZB system off and passed a stop signal with two trains in the tunnel at [[Jühnde]] on the [[Hanover–Würzburg high-speed railway|Hanover-Würzburg]] high-speed line.
+* On 29 June 2001, there was nearly a serious accident at the [[Oschatz]] crossover on the [[Leipzig–Dresden railway|Leipzig-Dresden]] railway line. The crossover was set to diverging with a {{convert|100|km/h|mph|abbr=on}} speed limit but the LZB system displayed a {{convert|180|km/h|mph|0|abbr=on}} limit. The driver of ICE 1652 recognized the diverging signal and managed to slow down to {{convert|170|km/h|mph|0|abbr=on}} before the crossing and the train did not derail. A software error in the LZB computer was suspected as the cause.
+* A similar near-accident occurred on 17 November 2001 in [[Bienenbüttel]] on the [[Hanover–Hamburg railway|Hamburg-Hanover]] rail line. In order to pass a failed freight train an ICE train crossed over to the opposite track going {{convert|185|km/h|mph|abbr=on}} through a crossover that was rated at {{convert|80|km/h|mph|abbr=on}}. The suspected cause was the faulty execution of a change to the interlocking system where the crossover speed was increased from {{convert|60|to|80|km/h|mph|abbr=on}}. Without that speed restriction the LZB system did continue to show the {{convert|200|km/h|mph|abbr=on}} pass-through line speed on the in-cab display - the train driver applied the brakes on recognizing the line-side signal lights set to diverge and the train did not derail.
+* On 9 April 2002 on the [[Hanover-Berlin high-speed rail line]], a fault in the LZB line centre computer brought four LZB controlled trains to a stop with two trains in each line direction being halted in the same signalling block (Teilblockmodus - divided block control). When the computer was rebooted it signalled {{convert|0|km/h|mph|abbr=on}} to the trains in front and {{convert|160|km/h|mph|abbr=on}} to the following trains. The drivers of the following trains did not proceed however - one driver saw the train in front of him and the other driver double-checked with the operations centre which had warned him prior to departure, so two possible collisions were averted. As a consequence of this incident, the two mainline train operators ([[DB Cargo]] and [[DB Fernverkehr|DB Passenger Transport]]) issued an instruction to their drivers to be especially cautious during periods of LZB outage when the system is running in divided block mode. The cause turned out to be a software error.
+
+== Equipped lines ==
+=== DB (Germany) ===
+[[File:Zugbeeinflussungssysteme Deutschland Karte.svg|thumb|300px|Lines equipped with Linienzugbeeinflussung (red) and ETCS (blue) in Germany (as of December 2020)]]
+The following lines of '''[[Deutsche Bahn]]''' are equipped with LZB, allowing for speeds in excess of 160&nbsp;km/h (providing the general suitability of the track):
+
+* [[Augsburg]] - ''[[Dinkelscherben]]'' - [[Ulm]] (km&nbsp;7.3 -&nbsp;km&nbsp;28.5)
+* [[Berlin]] - ''[[Nauen]]'' - ''[[Glöwen]]'' - ''[[Wittenberge]]'' - ''[[Hagenow Land]]'' - ''[[Rothenburgsort]]'' - [[Hamburg]] (km&nbsp;16.5 - km&nbsp;273.1)
+* [[Bremen (city)|Bremen]] - [[Hamburg]] (km&nbsp;253.9 - km&nbsp;320.1)
+* [[Dortmund]] - [[Hamm, North Rhine-Westphalia|Hamm (Westf)]] - [[Bielefeld]] (except for the station of Hamm)
+* [[Frankfurt am Main]] - ''[[Gelnhausen]]'' - [[Fulda]] (km&nbsp;24.8 - km&nbsp;40.3)
+* [[Hannover]] - ''[[Stadthagen]]'' - [[Minden]] (km&nbsp;4.4 - km&nbsp;53.4)
+* [[Hannover]] - ''[[Celle]]'' - [[Uelzen]] - ''[[Lüneburg]]'' - [[Hamburg]] (km&nbsp;4.0 - km&nbsp;166.5)
+* [[Hannover]] - ''[[Göttingen]]'' - ''[[Kassel|Kassel-Wilhelmshöhe]]'' - ''[[Fulda]]'' - ''[[Würzburg]]'' (km&nbsp;4.2 - km&nbsp;325.6)
+* [[Karlsruhe]] - ''[[Achern]]'' - ''[[Offenburg]]'' - ''[[Kenzingen]]'' - ''[[Schallstadt|Leutersberg]]'' - ''[[Weil am Rhein]]'' - [[Basel|Basel Bad. Bf.]] (km&nbsp;102.2 - km&nbsp;270.6)
+* ''[[Köln]]'' - [[Aachen]] (km&nbsp;1,9 - km&nbsp;41,8)
+* [[Köln]] - ''[[Düsseldorf]]'' - [[Duisburg]] (km&nbsp;6.7 - km&nbsp;37.3 and km&nbsp;40.1 - km&nbsp;62.2; [[Düsseldorf Hauptbahnhof|Düsseldorf main station]] is not equipped)
+*[[Köln]] - ''[[Troisdorf]]'' - ''[[Montabaur]]'' - [[Limburg a.d. Lahn]] - [[Frankfurt am Main]] (km&nbsp;8.7 - km&nbsp;172.6)
+*[[Leipzig]] - ''[[Wurzen]]'' - [[Dresden]] (km&nbsp;3.6 - km&nbsp;59.5)
+*[[Lengerich (Westfalen)|Lengerich (Westf)]] - [[Münster (Westfalen)|Münster (Westf)]]
+*[[Lehrte]] - [[Stendal]] - [[Berlin-Spandau]]
+*[[Mannheim]] - [[Karlsruhe]]
+*[[Mannheim]] - ''[[Vaihingen an der Enz]]'' - [[Stuttgart]] (km&nbsp;2.1 - km&nbsp;99.5)
+*[[München]] - ''[[Augsburg]]'' - [[Donauwörth]] (km&nbsp;9,2 - km&nbsp;56.3 and km&nbsp;2.7 - km&nbsp;39.8; [[Augsburg Hauptbahnhof|Augsburg main station]] is not equipped)
+*[[Nürnberg]] - [[Allersberg]] - ''[[Kinding]]'' - [[Ingolstadt]]-Nord ('''ABS:''' km&nbsp;97.9 - km&nbsp;91.6; '''NBS:''' km&nbsp;9.0 - km&nbsp;88.7)
+*[[Nürnberg]] - ''[[Neustadt an der Aisch]]'' - [[Würzburg]] (km&nbsp;34.8 - km 62.7)
+*[[Osnabrück]] - [[Bremen (city)|Bremen]] (km&nbsp;139.7 - km&nbsp;232.0)
+*[[Paderborn]] - [[Lippstadt]] - ''[[Soest, Germany|Soest]]'' - [[Hamm, North Rhine-Westphalia|Hamm (Westf)]] ('''Strecke 1760:''' km&nbsp;125.2 - km&nbsp;180.8; '''Strecke 2930:''' km&nbsp;111.5 - km&nbsp;135.6)
+*[[Zeppelinheim station|Zeppelinheim]] bei Frankfurt/Main - [[Mannheim]]
+
+'''Note:''' ''italics'' indicate the physical location of an LZB control centre.
+
+=== ÖBB (Austria) ===
+The [[West railway (Austria)|West railway]] ([[Vienna]]–[[Salzburg]]) is equipped with LZB in three sections:
+
+*[[Sankt Pölten|St. Pölten]]–[[Ybbs an der Donau]] (km&nbsp;62.4–km&nbsp;108.6)
+*[[Amstetten, Lower Austria|Amstetten]]–[[Sankt Valentin|St. Valentin]] (km&nbsp;125.9–km&nbsp;165.0)
+*[[Linz]]–[[Attnang-Puchheim]] (km&nbsp;190.5–km&nbsp;241.6)
+
+=== RENFE (Spain) ===
+* [[Madrid]] - ''[[Córdoba, Spain|Córdoba]]'' - [[Sevilla]] (9 centres / 480&nbsp;km), operational since 1992. Since 2004, the terminus [[Madrid Atocha railway station|Madrid Atocha]] is also equipped with LZB. In November 2005, a branch line to [[Toledo, Spain|Toledo]] was opened. (20&nbsp;km).
+* [[Cercanías Madrid]] line C5 from [[Humanes de Madrid|Humanes]] via Madrid Atocha to [[Móstoles-El Soto railway station|Móstoles-El Soto]], operational since 1995. It is 45&nbsp;km long with two LZB centres and 76 Series 446 vehicles.
+* All of the [[Euskotren]] network with the exception of the [[Euskotren Tranbia]] tramways.
+
+=== United Kingdom ===
+A modified version of LZB is installed on the [[Chiltern Main Line|Chiltern Mainline]] as [[Automatic Train Protection (United Kingdom)|Chiltern ATP]].<ref>{{Cite web|title=Chiltern ATP obsolescence {{!}} Rail Engineer|date=16 October 2020 |url=https://www.railengineer.co.uk/chiltern-atp-obsolescence/|access-date=2021-08-21|language=en-GB}}</ref>
+
+== Non-mainline uses ==
+In addition to mainline railways, versions of the LZB system are also used in suburban (S-Bahn) railways and subways.
+
+=== Dusseldorf, Duisburg, Krefeld, Mülheim an der Ruhr ===
+Tunnels in the [[Düsseldorf Stadtbahn|Düsseldorf]] and [[Duisburg Stadtbahn]] (light rail) systems, and some tunnels of the [[Essen Stadtbahn]] around the [[Mülheim|Mülheim an der Ruhr]] area are equipped with LZB.
+
+=== Vienna (Wien) ===
+With the exception of line [[U6 (Vienna U-Bahn)|U6]], the entire [[Vienna U-Bahn]] is equipped with LZB since it was first built and includes the capability of automatic driving with the operator monitoring the train.
+
+=== Munich ===
+The [[Munich U-Bahn]] was built with LZB control. During regular daytime operations the trains are automatically driven with the operator simply starting the train. Stationary signals remain dark during that time.
+
+In the evenings from 9:00&nbsp;p.m. until end of service and on Sundays the operators drive the trains manually according to the stationary signals in order to remain in practice. There are plans to automate the placement and reversal of empty trains.
+
+The [[Munich S-Bahn]] uses LZB on its [[Stammstrecke (Munich S-Bahn)|core mainline tunnel section (Stammstrecke)]].
+
+=== Nuremberg ===
+The [[Nuremberg U-Bahn]] U3 line uses LZB for fully automatic (driverless) operation. The system was jointly developed by [[Siemens]] and [[Verkehrs-Aktiengesellschaft Nürnberg|VAG Nuremberg]] and is the first system where driverless trains and conventional trains share a section of line. The existing, conventionally driven U2 line trains shares a segment with the automatic U3 line trains. Currently, an employee still accompanies the automatically driven trains, but later the trains will travel unaccompanied.
+
+After several years of delays, the final three-month test run was successfully completed on 20 April 2008, and the operating licence granted on 30 April 2008. A few days later the driverless trains started operating with passengers, first on Sundays and public holidays, then weekdays at peak hours, and finally after the morning rush hour which has a tight sequence of U2 trains. The official opening ceremony for the U3 line was held on 14 June 2008 in the presence of the Bavarian Prime Minister and Federal Minister of Transport, the regular operation began with the schedule change on 15 June 2008. The Nuremberg U-bahn plans to convert U2 to automatic operation in about a year.
+
+=== London ===
+The [[Docklands Light Railway]] in east London uses the [[SelTrac]] technology which was derived from LZB to run automated trains. The trains are accompanied by an employee who closes the doors and signals the train to start, but then is mainly dedicated to customer service and ticket control. In case of failure the train can be driven manually by the on train staff.
+
+==See also==
+* [[Automatic Train Protection]]
+* [[Train protection system]]
+* [[European Train Control System]]
+
+== References ==
+<references />{{Commons category|Linienzugbeeinflussung}}
+
+[[Category:Train protection systems]]
+[[Category:Railway signalling in Germany]]
+
+---
+
+# Transmission voie-machine (TVM)
+
+{{short description|Railway cab signaling technology used on high-speed rail}}
+{{italic title}}
+[[File:RepereBoard.svg|thumb|TVM Block Marker. This sign marks the end of each block section on high-speed lines signalled with TVM cab signalling.]]
+'''''Transmission voie-machine''''' ({{IPA|fr|tʁɑ̃smisjɔ̃ vwamaʃin|lang}}; TVM; 'Track-to-train transmission') is a form of in-[[cab signalling]] originally deployed in [[France]] and is mainly used on [[high-speed rail]]way lines. '''TVM-300''' was the first version, followed by '''TVM-430'''.
+
+TVM-300 was developed in the 1970s as part of the [[TGV]] project. At speeds faster than 220 kilometres per hour, TGV trains only run along dedicated tracks designated as {{lang|fr|lignes à grande vitesse}} (LGV). When travelling at high speed, it is not possible for the driver to accurately see colour-light [[railway signal]]s at the side of the track. Signalling information is instead transmitted to the train and displayed on the train driver's dashboard. The driver is shown the safe operating speed, measured in [[kilometres per hour]].
+
+The 1980s-developed TVM-430 system provides more information than traditional signalling systems would allow, including [[Grade (slope)|track gradient]] profiles and information about the state of signalling blocks further ahead.  This high degree of automation does not remove the train from driver control, although there are special safety mechanisms that can safely bring the train to a stop in the event of driver error.
+
+== Background ==
+
+=== History ===
+The TVM system was developed by the French group Compagnie de Signaux et d'Entreprises Electriques (CSEE), now part of [[Hitachi Rail STS]].
+
+Two versions of TVM signalling, TVM-430 and TVM-300, are in use on the LGV.  TVM-430, a newer system, was first installed on the [[LGV Nord]] to the [[Channel Tunnel]] and Belgium, and supplies trains with more information than TVM-300.  Amongst other benefits, TVM-430 allows a train's onboard computer system to generate a continuous speed control curve in the event of an emergency brake activation, effectively forcing the driver to reduce speed safely without releasing the brake. TVM-430 is also utilized on the [[KTX]] network in South Korea, further enhancing high-speed rail operations in the region.
+
+TVM-430 was presented from an intended "modular and flexible" range of signalling system levels from TVM-400 up to TVM-440 (optional automatic train control) and TVM-450 (full driverless control).<ref>{{cite web|url=http://www.infotransport.pl/admin/viewArticle.php?article_id=111&sesClientID=0|title=Sympozjum CS Transport w CNTK|language=pl|access-date=2009-05-18|archive-date=2018-06-26|archive-url=https://web.archive.org/web/20180626082807/http://www.infotransport.pl/admin/viewArticle.php?article_id=111&sesClientID=0|url-status=dead}}</ref><ref name="modular">{{cite journal|title=TVM 400-a modular and flexible ATC system|last=Gruere|first=Y|year=1989}}</ref>
+
+=== Implementation ===
+The line is divided into signal block sections of about 1,500&nbsp;metres (~1&nbsp;mi), the boundaries of which are indicated by blue square signs printed with a yellow-on-white triangle. A digital display on the train driver's dashboard shows the maximum permitted speed for a train's current block, as well as a target speed based on the status of the line ahead. The maximum permitted speed is based on factors such as the proximity of trains ahead (with steadily decreasing maximum permitted speeds in blocks closer to the rear of the next train), [[junction (rail)|junction]] placement, speed restrictions, the top speed of the train and distance from the end of LGV route. Trains at high-speed take several kilometres to stop. Since trains will require more than one signal block to slow down, drivers are alerted to reduce speed gradually, several blocks before any required stop.
+
+The signalling system is permissive; the driver of a train is permitted to proceed into an occupied block section without first obtaining authorisation. Speed in this situation is limited to 30&nbsp;kilometres per hour (19&nbsp;mph) and if speed exceeds 35&nbsp;km/h (22&nbsp;mph), the emergency brake is applied and the train stops. If the board marking the entrance to the block section is accompanied by a sign marked Nf, the block section is not permissive, and the driver must obtain authorisation from the Signalling and Control Centre ({{lang|fr|Poste d'Aiguillage et de Régulation}}) before entering the block. Once a route is set, or the signalling centre has provided authorisation, a white lamp below the marker board is lit to inform the driver. The driver then acknowledges the authorization using a button on the train's control panel. This temporarily overrides the emergency braking system, which would otherwise stop the train when proceeding past the non-permissive marker's ground loop.
+
+When trains enter or leave the LGV from {{lang|fr|lignes classiques}}, they pass over a ground loop which automatically switches the driver's dashboard indicators to the appropriate signalling system. For example, a train leaving the LGV onto a French ''ligne classique'' would have its TVM signalling system deactivated and its traditional KVB ({{lang|fr|Contrôle Vitesse par Balise}}, English: beacon speed control) system enabled.
+
+==== Electronics ====
+It is one of the more advanced railway signalling systems in the world,{{Citation needed|date=July 2020}} although the implementation itself is still based on [[relay]]s rather than solid state electronics.
+
+There are two components to the TVM-430 system: one ground-based, the other on board the train. Both run using [[Motorola 68020]] class [[central processing unit|processors]], and are programmed in [[Ada programming language|Ada]], a computer language often used in [[Life-critical system|safety critical systems]]. The system makes extensive use of [[redundancy (engineering)|redundancy]].
+
+The ground-based segment of TVM-430 resides in trackside boxes, which control stretches of track about 15&nbsp;km (9.3&nbsp;mi) long. Each one is linked to the line's centralized traffic control centre, and directly controls about ten blocks of track, each with its own [[track circuit]]. Signaling information is encoded in [[alternating current|AC]] signals which are fed into the rails of each block. There are four different [[Carrier frequency|carrier frequencies]] available in TVM-430 and they are used alternately in pairs on both tracks of the TGV line. On one track, blocks use alternately 1,700&nbsp;[[Hertz|Hz]] and 2,300&nbsp;Hz, while on the other track blocks use alternately 2,000&nbsp;Hz and 2,600&nbsp;Hz.  Upon these carrier frequencies can be modulated 27 separate audio frequencies, any combination of which can be present at one time; the earlier TVM-300 used eighteen separate frequencies, only one of which could be present at any time. Each block has a receiver at the opposite end to the transmitter, and the loss of the track circuit signal (owing to shorting by train wheels or due to a failure) is interpreted as an indication that the block is occupied. Signalling block boundaries are equipped with electrical separation joints that prevent adjacent blocks from interfering with each other, whilst still letting the traction return current (at 50&nbsp;Hz) pass through. These tracks circuits are referred as a UM71&nbsp;C track circuit.
+
+The signals which are present in the rail are detected by antennas mounted underneath the front airdam of TGV trains, approximately 1&nbsp;metre (3&nbsp;ft) forward of the front [[axle]]. These antennas work by inductively coupling to the AC signal shunted between the rails by the first axle. There are four redundant antennas per train, two at each end. Only the two at the "front" of the train (in the direction of travel) are used. The signal from the track circuit is filtered, conditioned, and decoded on board the train by two redundant digital signal processors.
+
+===== Radio interface =====
+'''Continuous signal'''
+
+For the continuous signal an analogue bandpass filter is applied to isolate the range of TVM frequencies between 1,600–2,640&nbsp;Hz.<ref name="train-control" />  Within this, each of the four 1,700/2,000/2,300/2,600&nbsp;Hz carrier-frequencies are tested for the presence of a frequency-modulated 25.68&nbsp;Hz signal.  The 25.68&nbsp;Hz signal is necessary for the track-circuit function and for the activation of relays within the train TVM430 equipment.  The data bits themselves are frequency modulated at 0.64&nbsp;Hz intervals between 0.88&nbsp;Hz and 17.52&nbsp;Hz.<ref name="eurotunnel-tsi-notifcation">{{cite report |url=http://www.era.europa.eu/Document-Register/Documents/Appendix%203_The%20text%20of%20notification%20according%20to%20Art%207_4_1%20of%20the%20SRT%20TSI.pdf |archive-url=https://web.archive.org/web/20140207221315/http://www.era.europa.eu/Document-Register/Documents/Appendix%203_The%20text%20of%20notification%20according%20to%20Art%207_4_1%20of%20the%20SRT%20TSI.pdf |archive-date=2014-02-07 |title=List of Standards and Technical Specifications Contained within Agreements Specific to the Channel Tunnel Notified Under Article 7.4.1 of TSI SRT |publisher=European Union|author=Eurotunnel |at=p. 5 §3.2.3 |section=§3.2 – Signalling |date=16 January 2009|access-date=6 April 2012}}</ref>
+
+'''Intermittent signal'''
+
+At fixed locations cable loops are used between the tracks.  A reference signal of 62.5&nbsp;kHz is transmitted, along with two 125&nbsp;kHz carrier frequencies, out-of-phase with each other.<ref name="eurotunnel-tsi-notifcation" />  A 4,800-baud message is transmitted<ref name="eurotunnel-tsi-notifcation" /> using phase jumps.<ref name="train-control" /><!--page 14-->
+
+===== Network code =====
+The network code is stored in bits 25–27 giving a value between 1–7.<ref name="tvm430-exam-paper">{{cite web|url=http://www.iufmrese.cict.fr/concours/2011/CGSTI/GE_2011_Partie_D.pdf|title=Valeurs des bits du mot|work=Etude de la Transmission Voie-Machine|pages=14–16|date=4 December 2010|access-date=6 April 2012|url-status=dead|archive-url=https://web.archive.org/web/20160401130501/http://www.iufmrese.cict.fr/concours/2011/CGSTI/GE_2011_Partie_D.pdf|archive-date=1 April 2016}}</ref>
+
+{| class="wikitable" style="float:right"
+!align="center"| Code
+!align="left"| Railway Line<ref>{{cite web |date=25 April 2016 |title=Système de signalisation de classe B : Transmission Voie Machine (TVM 430 et bi-standard ERTMS/TVM) Équipement bord – SAM S 706 |url=https://securite-ferroviaire.fr/sites/default/files/users/reglementations/pdf/sam-s706-v2-mac.pdf |url-status=dead |archive-url=https://web.archive.org/web/20211006173121/https://www.securite-ferroviaire.fr/sites/default/files/users/reglementations/pdf/sam-s706-v2-mac.pdf |archive-date=6 October 2021 |access-date=27 November 2022 |publisher=Établissement public de sécurité ferroviaire |pages=72–73 |language=fr}}</ref>
+|-
+|align="center"| 0 ||
+|-
+|align="center"|1 || [[Channel Tunnel|Eurotunnel]]
+|-
+|align="center"|2 || [[High Speed 1#Section 1|CTRL1]] (UK)
+|-
+|align="center"|3 || [[High Speed 1#Section 2|CTRL2]] (UK)
+|-
+|align="center"|4 || ''unknown, probably reserved''
+|-
+|align="center"|5 || ''unknown, probably reserved''
+|-
+|align="center"|6 || [[LGV Méditerranée|LN5]]
+|-
+|align="center"|7 || [[LGV Nord|LN3]] – [[LGV Rhône-Alpes|LN4]]
+|}
+
+===== LGV Nord =====
+Nine-bits contain the network identification code and checksum.  The exactly meaning of the remaining 18-bits depends on the particular network code and is known as the "parametrisation".  For the first deployment on the [[LGV Nord]], 8-bits are assigned for the speed information, 6-bits for the current block length and 4-bits for the gradient of the current block:<ref name="train-control">{{cite web |url=http://www.bv.transports.gouv.qc.ca/mono/0986183.pdf <!-- |pages=10, 23 --> |at=Figure 6: North TGV |title=Train Control on French Railroads|date=May 1991 |author=SNCF}}</ref>
+
+{| class="wikitable"
+|
+! TVM 430
+!colspan="3"| LGV Nord usage
+! TVM 430
+|-
+!align="left" width="12em"| Bits&nbsp;used
+|align="center" width="6em"| 3
+|align="center" width="16em"| 8
+|align="center" width="12em"| 6
+|align="center" width="8em"| 4
+|align="center" width="12em"| 6
+|-
+!align="left"| Purpose
+|align="center"| network&nbsp;code
+|align="center"| speed
+|align="center"| distance
+|align="center"| gradient
+|align="center"| checksum
+|}
+
+==== Encoding ====
+The decoded signal takes the form of a 27-bit digital word, with each bit corresponding to one of the 27 frequencies modulated onto the carrier frequency in the track circuits. The presence of a particular frequency indicates a "1" bit and lack of corresponds to a "0". The resulting word contains several fields, in the following order:
+
+* '''Speed Codes''' containing three pieces of information: the current maximum safe speed in the block, the target speed at the end of the block, and the target speed at the end of the next block. Each of these can take on six different values; in the case of a high speed line these are (in km/h) 320, 300, 270, 230, 170, 80 and 0, roughly corresponding to a typical braking and deceleration profile.
+* '''Gradient''' information, averaged over the length of the block. This allows the train's signalling computers to account for this in speed calculations.
+* '''Block Length''', which can vary quite a bit, and is also important in speed calculations. For example, on a flat stretch of high speed track, a block can be a full 1500&nbsp;metres long, while in the terminal areas of the [[Channel Tunnel]], blocks are one-tenth as long.
+* '''Network Code''', a number which determines the interpretation of the speed codes which should be taken by the train's computer. For example, on high speed lines where the maximum allowable speed is 300&nbsp;km/h (186&nbsp;mph), a different network code is used from that in the Channel Tunnel, where the speed limit is 160&nbsp;km/h (100&nbsp;mph). [[British Rail Class 373|Eurostar trains]] need this information since they operate both on high speed tracks and in the tunnel.
+* '''Error-Checking''' code, allowing the integrity of the entire 27-bit word to be checked if the information has been misread. This allows error correcting as well as error detection in most cases. The code takes the form of a 6-bit [[cyclic redundancy check]] (CRC).
+
+These 27&nbsp;bits of information are used as an input to the train's signalling computer, the onboard part of the TVM-430 system. In older versions of TVM, the target speed was updated only at every block boundary, resulting in a "staircase" style speed profile which is not representative of the continuous speed changes effected by the driver. However, with the additional information of block length and profile, TVM-430 is able to generate a continuously varying target speed through calculations performed in the onboard signalling computer, thus giving a much more realistic speed profile of continuous acceleration or deceleration for the driver to follow.
+
+In addition to the continuous speed control afforded by TVM-430, single instructions can be passed to the train by inductive loops located between the rails, which couple to a corresponding sensor under the train. Using the same frequency encoding principle, 28&nbsp;bits of information can be recovered from a beacon, at speeds up to 400&nbsp;kilometres per hour (250&nbsp;mph). They come in two lengths depending on the line speed, 7&nbsp;metres and 4.5 metres. These are called BSP ({{lang|fr|boucle à saut de phase}}) Intermittent Transmission Loops (ITL). They consist of two half loops, which together transmit the message via a 125&nbsp;kHz frequency, phase shifted with a 62.5&nbsp;kHz carrier frequency. The information passed along concerns a variety of events or actions required:
+
+* Entry or exit from a high-speed line
+* Arming or disarming the TVM-430 system
+* Closing [[air conditioning]] [[Flue|vents]] before entering a tunnel
+* Raising or lowering the [[pantograph (rail)|pantographs]]
+* Switching to a different electrical supply voltage
+
+=== Oversight ===
+A "black box" similar to an aircraft [[flight data recorder]], passively watches over the entire process, monitoring a variety of parameters and recording the events.  In TVM-430-equipped trainsets, older paper-strip recording equipment has been replaced by the ATESS digital recording system. Every action taken by the driver (throttle, brakes, pantographs) as well as signalling aspects (for TVM-430, KVB, and conventional signals) are recorded on [[magnetic tape]] for later analysis using a desktop computer.
+
+Another system, known as [[Dead-man's vigilance device|VACMA]], oversees the driver's alertness. It consists of a [[Dead man's switch|foot pedal control]] that the driver needs to hold down for the TGV to move.  This pedal must be released then re-pressed once every 60 seconds if no other activity takes place.  There is one period of time before a buzzer sounds, and another period of time before the automatic emergency brakes come on.  The control can be released for a very short period of time before a buzzer sounds, and another very short period of time before the automatic emergency brakes come on.
+
+==== Overspeed ====
+A small amount of over-speed allowance is made before the train's emergency brakes are applied.  At speeds below 80&nbsp;km/h, the allowance is five kilometres per hour.  At nominal speeds of 80–160&nbsp;km/h, the tolerance is ten kilometres per hour and at speeds in excess of 160&nbsp;km/h, it is fifteen kilometres per hour.
+
+=== Cab display ===
+
+In the centre of the driver's desk in a TGV cab, just below the windscreen, there is a double or triple row of square indicators. This is where target speeds for the current and subsequent blocks are displayed to the driver, in the form of numbers (in kilometres per hour) on a colour-coded background. Full line speed is indicated in black numerals on a green background, while slower aspects are indicated in white numerals on a black background and a full stop is indicated as "000" on a red background. Below this display is the [[speedometer]], where the continuously varying target speed is indicated as well as the current speed. Speed is measured by the train's redundant [[tachometer]]s to a precision of ±2%.  The allowable variation between target speed and actual speed is dependent on speed.
+
+All the in-cab signalling displays must be very reliable, since they are critical to safety. They have relay-based position sensors which feed back to the signalling computer the current aspect being displayed to the driver. If there is a failure in the display unit, appropriate action is taken to stop the train.
+
+In order to reduce stress on the driver, speeds are displayed over several blocks ahead of the train. When a block is followed by a more restrictive (slower) block, the display for that block flashes so the driver can better anticipate the speed change without releasing the brake. Restrictive indications can only be updated at block boundaries, except in emergencies. They are accompanied by an audible in-cab horn signal. Restrictions can however be lifted at any time within a block.
+
+TVM-430 has extensive redundancy built into it, and one might wonder why it is not used to control the train directly. However, in view of the lack of adaptability of the system to unexpected situations, it is considered desirable to retain a [[human]] in the loop. Driving a TGV is therefore done entirely manually, but the signalling system keeps a very close watch to ensure maximum safety.
+
+{| align=center class="wikitable"
+|+
+! colspan="5" style="background-color:#aaddff;" | Cab signals
+|-
+! rowspan="2" style="background-color:#aaddff;" | Name
+! rowspan="2" style="background-color:#aaddff;" | Signal
+! colspan="3" style="background-color:#aaddff;" | Speed limitation
+|-
+! style="background-color:#aaddff;" | Current
+! style="background-color:#aaddff;" | Penalty brake from
+! style="background-color:#aaddff;" | Expect
+|-
+| rowspan="2" bgcolor="#aaddff" |'''Rouge'''
+''(Stop, track section is occupied or end of line)''
+| rowspan="2" bgcolor="#ffffff" |{{center|[[File:Cab Speed 000E.svg]]}}
+| colspan="2" bgcolor="#aaddff" |{{center|'''Nf''' marker: '''0&nbsp;km/h'''}}
+| rowspan="4" bgcolor="#aaddff" |{{center|'''0&nbsp;km/h or 30&nbsp;km/h'''<br />('''Nf''' or '''F''' marker)}}
+|-
+| bgcolor="#aaddff" |{{center|'''F''' marker: '''30&nbsp;km/h'''}}
+|bgcolor="#aaddff" |{{center|'''35&nbsp;km/h'''}}
+|-
+| rowspan="2" bgcolor="#aaddff" |'''Zéro'''
+''(Avertissement 0; stop at next signal)''
+| rowspan="2" bgcolor="#ffffff" |{{center|[[File:Cab Speed 000A.svg]]}}
+| bgcolor="#aaddff" |{{center|1=Previous signal = '''160A''': '''160&nbsp;km/h'''}}
+| bgcolor="#aaddff" |{{center|'''170&nbsp;km/h'''}}
+|-
+| bgcolor="#aaddff" |{{center|1=Previous signal = '''80A''': '''80&nbsp;km/h'''}}
+| rowspan="2" bgcolor="#aaddff" |{{center|'''90&nbsp;km/h'''}}
+|-
+| bgcolor="#aaddff" |'''080E'''
+''(Exécution 80; do not exceed 80&nbsp;km/h)''
+| bgcolor="#ffffff" |{{center|[[File:Cab Speed 080E.svg]]}}
+| bgcolor="#aaddff" |{{center|'''80&nbsp;km/h'''}}
+| rowspan="2" bgcolor="#aaddff" |{{center|'''80&nbsp;km/h'''}}
+|-
+| bgcolor="#aaddff" |'''080A'''
+''(Avertissement 80, speed change to 80&nbsp;km/h ahead)''
+| bgcolor="#ffffff" |{{center|[[File:Cab Speed 080A.svg]]}}
+| rowspan="2" bgcolor="#aaddff" |{{center|'''160&nbsp;km/h'''}}
+| rowspan="2" bgcolor="#aaddff" |{{center|'''170&nbsp;km/h'''}}
+|-
+| bgcolor="#aaddff" |'''160E'''
+''(Exécution 160, do not exceed 160&nbsp;km/h)''
+| bgcolor="#ffffff" |{{center|[[File:Cab Speed 160E.svg]]}}
+| rowspan="2" bgcolor="#aaddff" |{{center|'''160&nbsp;km/h'''}}
+|-
+| bgcolor="#aaddff" |'''160A'''
+''(Avertissement 160; speed change to 160&nbsp;km/h ahead)''
+| bgcolor="#ffffff" |{{center|[[File:Cab Speed 160A.svg]]}}
+| rowspan="2" bgcolor="#aaddff" |{{center|'''220&nbsp;km/h'''}}
+| rowspan="2" bgcolor="#aaddff" |{{center|'''235&nbsp;km/h'''}}
+|-
+| bgcolor="#aaddff" |'''220E'''
+''(Exécution 220; do not exceed 220&nbsp;km/h)''
+| bgcolor="#ffffff" |{{center|[[File:Cab Speed 220E.svg]]}}
+| rowspan="2" bgcolor="#aaddff" |{{center|'''220&nbsp;km/h'''}}
+|-
+| bgcolor="#aaddff" |'''220A'''
+''(Avertissement 220; speed change to 220&nbsp;km/h ahead)''
+| bgcolor="#ffffff" |{{center|[[File:Cab Speed 220A.svg]]}}
+| rowspan="3" bgcolor="#aaddff" |{{center|'''270&nbsp;km/h'''}}
+| rowspan="3" bgcolor="#aaddff" |{{center|'''285&nbsp;km/h'''}}
+|-
+| bgcolor="#aaddff" |'''''270V'''''
+| bgcolor="#ffffff" |{{center|[[File:Cab signal 270V blink.gif|110px]]}}
+| rowspan="3" bgcolor="#aaddff" |{{center|'''270&nbsp;km/h'''}}
+|-
+| bgcolor="#aaddff" |'''270VL'''
+''(Voie Libre 270&nbsp;km/h; proceed at 270&nbsp;km/h)''
+| bgcolor="#ffffff" |{{center|[[File:Cab Speed 270V.svg]]}}
+|-
+| bgcolor="#aaddff" |'''270A'''
+''(Avertissement 270; speed change to 270&nbsp;km/h ahead)''
+| bgcolor="#ffffff" |{{center|[[File:Cab Speed 270A.svg]]}}
+| rowspan="3" bgcolor="#aaddff" |{{center|'''300&nbsp;km/h'''}}
+| rowspan="3" bgcolor="#aaddff" |{{center|'''315&nbsp;km/h'''}}
+|-
+| bgcolor="#aaddff" |'''''300V'''''
+| bgcolor="#ffffff" |{{center|[[File:Cab signal 300V blink.gif|110px]]}}
+| rowspan="2" bgcolor="#aaddff" |{{center|'''300&nbsp;km/h'''}}
+|-
+| bgcolor="#aaddff" |'''300VL'''
+''(Voie Libre 300&nbsp;km/h; proceed at 300&nbsp;km/h)''
+| bgcolor="#ffffff" |{{center|[[File:Cab Speed 300V.svg]]}}
+|}
+
+== Other signalling systems ==
+
+The TVM system is used only on high-speed lines and in the [[Channel Tunnel]]. Outside of the high-speed lines, other signalling systems are used. Every TGV train is equipped with the KVB ({{lang|fr|Contrôle Vitesse par Balise}}, "Beacon Speed Control") which is used throughout the French {{lang|fr|ligne classique}} network. In addition to TVM, the following systems are used in various combinations:
+
+* [[Contrôle de vitesse par balises|KVB]], the French signalling system (electro-mechanical with radio beacons)
+* [[Automatische treinbeïnvloeding|ATB]], the [[Netherlands|Dutch]] signalling system (induction based)
+* [[Automatische treinbeïnvloeding|ATB-NG]] a newer version of ATB (beacon based)
+* [[Automatic Train Control|ATC]]  the [[Japan]]ese signalling system (induction based)
+*[[Blocco Automatico a Correnti Codificate]], the [[Rail transport in Italy|Italian]] induction-based protection system used on some lines with speed limits above 200 km/h
+* [[MEMOR]], the [[Belgium|Belgian]] signalling system (electro-mechanical)
+* [[Transmission Beacon-Locomotive|TBL]], a newer version of MEMOR (electro-mechanical with radio beacons)
+* [[Punktförmige Zugbeeinflussung|InduSi/PZB]] the [[Germany|German]] signalling system (induction based)
+* [[Linienzugbeeinflussung|LZB]], the German system for high-speed lines (also induction based)
+* [[Automatic Warning System|AWS]], the [[United Kingdom|British]] signalling system (induction based)
+* [[Train Protection & Warning System|TPWS]], the warning system which supplements AWS
+* [[European Train Control System|ETCS]], the European Train Control System is a signalling and control system designed to replace the 14 incompatible safety systems currently used by European railways, especially on high-speed lines.
+* [[Integra-Signum]] the Swiss induction based signalling system.
+* [[Continuous Automatic Warning System|CAWS]], a similar form of in-cab signalling system used in Ireland.
+
+== See also ==
+* [[Automatic train protection]]
+
+== Notes and references ==
+{{TGVweb}}
+{{reflist}}
+
+{{refbegin}}
+*{{cite book|last1=Kichenside|first1=G.|last2=Williams|first2=A.|year=1998|title=Two Centuries of Railway Signalling|publisher=Oxford Publishing Co.|pages=215–220|isbn=0-86093-541-8}}
+*{{cite report|series=Railway Group Standard|year=1996|work=GK/RT0036:Transition Between Lineside Signalling Systems and Other Systems of Train Control|issue=1|title=Appendix C: Illustration of application to Eurotunnel Cab Signalling|pages=10–12|location=London|author=Safety & Standards Directorate|publisher=Railtrack PLC|url=http://www.rgsonline.co.uk/Railway_Group_Standards/Control%20Command%20and%20Signalling/Railway%20Group%20Standards/GKRT0036%20Iss%201.pdf|access-date=15 December 2008|url-status=dead|archive-url=https://web.archive.org/web/20110717112738/http://www.rgsonline.co.uk/Railway_Group_Standards/Control%20Command%20and%20Signalling/Railway%20Group%20Standards/GKRT0036%20Iss%201.pdf|archive-date=17 July 2011}}
+{{refend}}
+
+== External links ==
+{{Commons category|Transmission voie-machine}}
+* [https://web.archive.org/web/20071016190548/http://www.carreweb.fr/stfr/cstgv_en.html LGV signalling]
+
+{{TGV navbox}}
+{{High-speed rail in France}}
+{{Railwaysignalling}}
+
+[[Category:High-speed rail in France]]
+[[Category:Train protection systems]]
+[[Category:TGV]]
+
+---
+
