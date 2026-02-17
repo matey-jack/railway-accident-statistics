@@ -24,7 +24,7 @@ data class SimpleSummary(
         get() = "file: $filename\n\n$summary"
 }
 
-enum class SectionCategory{
+enum class SectionCategory {
     WHAT_HAPPENED,
     DAMAGES,
     CAUSES,

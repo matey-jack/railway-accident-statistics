@@ -2,31 +2,87 @@ package ebuparser
 
 import io.github.sashirestela.cleverclient.client.OkHttpClientAdapter
 import io.github.sashirestela.openai.SimpleOpenAI
+import io.github.sashirestela.openai.domain.chat.ChatMessage
+import io.github.sashirestela.openai.domain.chat.ChatRequest
+import java.io.File
+import java.time.LocalDateTime
 
 val lemonadeAddress = "http://127.0.0.1:8001"
 
-val llmServer = SimpleOpenAI.builder()
-    .apiKey("lemonade")  // dummy key for local server
-    .baseUrl(lemonadeAddress)  // point at Lemonade
-    .clientAdapter(OkHttpClientAdapter())
-    .build()
+val llmServer =
+    SimpleOpenAI.builder()
+        .apiKey("lemonade") // dummy key for local server
+        .baseUrl(lemonadeAddress)
+        .clientAdapter(OkHttpClientAdapter())
+        .build()
 
-// TODO: use proper function
-val prompt = readFile('src/main/resources/extraction-prompt.txt')
+val prompt = File("src/main/resources/extraction-prompt.txt").readText()
 
-fun extract(fileName: String, fullText: String): SimpleSummary {
+private const val model = "Qwen3-14B-GGUF"
+
+fun extract(
+    fileName: String,
+    fullText: String,
+): SimpleSummary {
     // send the prompt concatenated with the fullText to Lemonade
-    llmServer.completions()
+    val chatRequest =
+        ChatRequest.builder()
+            .model(model)
+            .message(ChatMessage.UserMessage.of("$prompt\n$fullText"))
+            .build()
+
+    val response = llmServer.chatCompletions().create(chatRequest).join()
+    val content = response.firstContent() ?: ""
+
     // separate the 'thinking' part (if there is any) from the result
-    // and append it with the current time and filename to "thoughts.log"
-    return SimpleSummary(fileName, // here the non-thinking part
-        )
+    val thinkingPattern = Regex(".*?</thinking>\\s*(.*)", RegexOption.DOT_MATCHES_ALL)
+    val match = thinkingPattern.find(content)
+    val finalContent =
+        if (match != null) {
+            match.groupValues[1].trim()
+        } else {
+            content
+        }
+
+    // append thinking part with the current time and filename to "thoughts.log"
+    val thinkingContent =
+        if (content.contains("</thinking>")) {
+            content.substring(0, content.indexOf("</thinking>") + 10)
+        } else {
+            ""
+        }
+
+    if (thinkingContent.isNotEmpty()) {
+        val timestamp = LocalDateTime.now()
+        File("thoughts.log").appendText("[$timestamp] $fileName:\n$thinkingContent\n\n")
+    }
+
+    return SimpleSummary(fileName, finalContent)
 }
 
 val outputFilename = "summaries.txt"
 
 fun main() {
     // list the directory ./documents and sort the files by size ascending
-    // for each file, call the extract() function with the file's text content
-    // store the results in File(outputFilename) separated by '\n---\n'
+    val documentsDir = File("documents")
+    val files =
+        documentsDir.listFiles { file -> file.isFile && file.extension == "txt" }
+            ?.sortedBy { it.length() }
+            ?: emptyList()
+
+    val outputFile = File(outputFilename)
+    outputFile.writeText("") // clear the file
+
+    for (file in files) {
+        try {
+            val content = file.readText()
+            val summary = extract(file.name, content)
+            outputFile.appendText(summary.asOutput + "\n---\n")
+            println("Processed: ${file.name}")
+        } catch (e: Exception) {
+            println("Error processing ${file.name}: ${e.message}")
+        }
+    }
+
+    println("Summary written to $outputFilename")
 }
