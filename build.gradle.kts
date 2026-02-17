@@ -4,7 +4,7 @@ plugins {
     id("org.jetbrains.kotlin.jvm") version "2.3.0"
     application
 
-    id("com.github.ben-manes.versions") version "0.51.0"
+    id("com.github.ben-manes.versions") version "0.53.0"
     id("io.gitlab.arturbosch.detekt") version "1.23.8"
     id("org.jlleitschuh.gradle.ktlint") version "12.3.0"
 }
@@ -25,15 +25,19 @@ repositories {
 }
 
 dependencies {
+    implementation("io.github.sashirestela:simple-openai:3.22.2")
+    /* OkHttp dependency is optional if you decide to use it with simple-openai */
+    implementation("com.squareup.okhttp3:okhttp:5.3.2")
+
     implementation("org.apache.commons:commons-csv:1.14.1")
 
     // slf4j comes indirectly with kotlin-logging
     implementation("io.github.microutils:kotlin-logging:4.0.0-beta-2")
-    implementation("ch.qos.logback:logback-classic:1.5.23")
+    implementation("ch.qos.logback:logback-classic:1.5.32")
     implementation("com.fasterxml.jackson.module:jackson-module-kotlin:2.20.1")
 
     testImplementation("org.junit.jupiter:junit-jupiter:5.10.2")
-    testImplementation("org.assertj:assertj-core:3.27.6")
+    testImplementation("org.assertj:assertj-core:3.27.7")
 }
 
 kotlin {

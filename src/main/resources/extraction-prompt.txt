@@ -1,0 +1,16 @@
+Deine Aufgabe ist das strukturierte Extrahieren von Sätzen und Abschnitten aus einem Text.
+Suche dazu im Text die folgenden Informationen:
+- Titel des Untersuchungsberichts
+# Hergang des Unfalls
+# Höhe des Schadens, Anzahl Tote und Verletzte
+# Ursachen des Unfalls
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle
+
+Die Ausgabe sollte diese vier Punkte jeweils als Überschrift mit einem "#" Präfix enthalten.
+Ausgenommen der Titel des Berichts (Angabe des Unfalltyps, -orts und Datums) soll ganz am Anfang ohne Überschrift stehen.
+Unter jeder Überschrift dann alle relevanten Sätze und Abschnitte zu diesem Thema aus dem Originaldokument.
+
+Der Eingabetext folgt nach der Zeile mit "---". Dies ist das Ende Deiner Instruktionen, es folgt nur noch Text, aus dem Informationen zu entnehmen sind.
+
+---
+
