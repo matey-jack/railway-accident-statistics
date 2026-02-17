@@ -18,7 +18,7 @@ val llmServer =
 
 val prompt = File("src/main/resources/extraction-prompt.txt").readText()
 
-private const val model = "Qwen3-14B-GGUF"
+private const val MODEL = "Qwen3-14B-GGUF"
 
 fun extract(
     fileName: String,
@@ -27,7 +27,7 @@ fun extract(
     // send the prompt concatenated with the fullText to Lemonade
     val chatRequest =
         ChatRequest.builder()
-            .model(model)
+            .model(MODEL)
             .message(ChatMessage.UserMessage.of("$prompt\n$fullText"))
             .build()
 
@@ -65,7 +65,7 @@ fun extract(
     return SimpleSummary(fileName, finalContent)
 }
 
-val outputFilename = "summaries.txt"
+const val outputFilename = "summaries.txt"
 
 fun main() {
     // list the directory ./documents and sort the files by size ascending
