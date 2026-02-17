@@ -26,12 +26,12 @@ repositories {
 
 dependencies {
     implementation("io.github.sashirestela:simple-openai:3.22.2")
-    /* OkHttp dependency is optional if you decide to use it with simple-openai */
     implementation("com.squareup.okhttp3:okhttp:5.3.2")
 
     implementation("org.apache.commons:commons-csv:1.14.1")
 
     // slf4j comes indirectly with kotlin-logging
+    // TODO: this relocated to io.github.oshai:kotlin-logging-jvm
     implementation("io.github.microutils:kotlin-logging:4.0.0-beta-2")
     implementation("ch.qos.logback:logback-classic:1.5.32")
     implementation("com.fasterxml.jackson.module:jackson-module-kotlin:2.20.1")
