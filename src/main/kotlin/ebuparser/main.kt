@@ -91,9 +91,9 @@ fun main() {
             val content = file.readText()
             println("Starting: ${file.name}")
             val summary = extract(file.name, content)
-            outputFile.appendText(summary.asOutput + "\n---\n")
-            println("Processed: ${file.name}")
+            outputFile.appendText(summary.asOutput + "\n\n---\n")
             statsWriter.writeFor(file.name)
+            println("Processed: ${file.name}")
         } catch (e: Exception) {
             println("Error processing ${file.name}: ${e.message}")
         }
