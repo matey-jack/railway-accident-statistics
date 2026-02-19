@@ -29,6 +29,7 @@ dependencies {
     implementation("com.squareup.okhttp3:okhttp:5.3.2")
 
     implementation("org.apache.commons:commons-csv:1.14.1")
+    implementation("net.java.dev.jna:jna-platform:5.14.0")
 
     // slf4j comes indirectly with kotlin-logging
     // TODO: this relocated to io.github.oshai:kotlin-logging-jvm

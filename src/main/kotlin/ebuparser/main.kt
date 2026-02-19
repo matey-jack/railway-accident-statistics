@@ -5,6 +5,7 @@ import io.github.sashirestela.openai.SimpleOpenAI
 import io.github.sashirestela.openai.domain.chat.ChatMessage
 import io.github.sashirestela.openai.domain.chat.ChatRequest
 import okhttp3.OkHttpClient
+import windows.SleepPreventer
 import java.io.File
 import java.util.concurrent.TimeUnit
 
@@ -22,8 +23,8 @@ val llmServer =
                     .connectTimeout(30, TimeUnit.SECONDS)
                     .readTimeout(0, TimeUnit.SECONDS) // No timeout for streaming
                     .writeTimeout(30, TimeUnit.SECONDS)
-                    .build()
-            )
+                    .build(),
+            ),
         )
         .build()
 
@@ -78,6 +79,9 @@ fun main() {
             ?.sortedBy { it.length() }
             ?: emptyList()
 
+    if (System.getProperty("os.name").lowercase().contains("win")) {
+        SleepPreventer.preventSleep()
+    }
     var errorCount = 0
     for (file in files) {
         try {
@@ -91,7 +95,7 @@ fun main() {
             println("Error processing ${file.name}: ${e.message}")
             errorCount++
             if (errorCount == 3) {
-                throw e;
+                throw e
             }
         }
     }
