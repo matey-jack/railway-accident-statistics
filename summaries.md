@@ -26,3 +26,28 @@ Weitere Veranlassungen durch das EIU DB Netz AG:
 - vmax erst nach Beseitigung der Unregelmäßigkeiten  
 - zur zukünftigen Vermeidung von Horizontalrissen wurde die Rezeptur für die Herstellung der Absorberplatten verändert um eine bessere Wasserdurchlässigkeit zu erzielen.
 ---
+file: 191_Treben-Lehma.txt
+
+Untersuchungsbericht Zugentgleisung, 11.11.2015, Treben‐Lehma
+
+# Hergang des Unfalls  
+Am 11.11.2015 gegen 23:40 Uhr entgleiste die Zugfahrt GA 52805 des Eisenbahnverkehrsunternehmens DB Schenker Rail auf der Fahrt von Bahnhof (Bf) Braunschweig Rbf nach Bf Mosel in der Überleitstelle (Üst) Treben‐Lehma in der Weiche 20 mit zwei Wagen.  
+Die Zugentgleisung ereignete sich auf der zweigleisigen elektrifizierten Strecke Leipzig Hbf – Hof, die vom Eisenbahninfrastrukturunternehmen DB Netz AG betrieben wird. Die zulässige Höchstgeschwindigkeit auf diesem Streckenabschnitt beträgt 120 km/h.  
+Die betrieblichen Handlungen der Fdl wurden beeinflusst durch Arbeiten im Rahmen der Betriebs- und Bauanweisung Nr. F 441605 15 mit dem Inhalt „Isolierstoß wechseln in km 30,2 im Streckengleis Regis-Breinigen – Treben-Lehma“. Zwischen dem Bf Regis-Breinigen und der Üst Treben-Lehma war das Streckengleis von km 29,907 bis km 32,865 in den Nächten vom 11.11.2015 zum 12.11.2015 und vom 12.11.2015 zum 13.11.2015 jeweils von 23:00 Uhr bis 05:00 Uhr gesperrt.  
+Die Fdl erteilte, laut dem vorliegenden ausgefüllten Befehlsvordruck um 23:38 Uhr, dem Triebfahrzeugführer des Zuges GA 52805 über Zugfunk den Befehl Nr. 1 zur Weiterfahrt ohne Hauptsignal. Danach setzte sich der Zug in Bewegung, um über die Weichen 20 in ca. km 33,08 und 21 in ca. km 33,18 in das Streckengleis Treben-Lehma – Altenburg und weiter in Richtung Bf Altenburg zu fahren.  
+Als sich das in der Wagenreihung elfte Fahrzeug, ein Autotransportwagen der Gaung Laaeks, Fahrzeugnummer 25 80 4367 389-0 auf der Weiche 20 befand, stellte die Fdl diese um. Daraufhin entgleisten das elfte und auch das zwölfte Wagen, ebenfalls ein Fahrzeug der Gaung Laaeks, mit der Fahrzeugnummer 25 80 4367 127-4.
+
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Es wurden keine Personen getötet oder verletzt. An der Infrastruktur und den beteiligten Fahrzeugen entstanden Sachschäden, die sich wie folgt zusammensetzten:  
+- geschätzte Kosten in Euro:  
+  - Fahrzeuge: 5.900  
+  - Infrastruktur: 108.700  
+  - Gesamtschadenshöhe: 114.600  
+
+# Ursachen des Unfalls  
+Der Ursprung für das Ereignis lag in einem Verstoß gegen die Ril 408 – Fahrdienstvorschrift. Die Fdl brachte die Hilfssperren zur Sicherung der Hilfsfahrstraße nicht an oder entfernte sie, bevor der GA 52805 die Weichen passierte. Deshalb war der Fahrweg des Zuges nicht mehr gesichert und das anschließende ungeplante Umstellen der Weiche 20 unter dem Zug möglich.  
+Gemäß Ril 408.0232 – Züge fahren; Fahrweg sichern –, Abschnitt 4, galt für Zugfahrten mit besonderem Auftrag: „Die vorgeschriebenen Maßnahmen zur Sicherung des Fahrwegs sind so lange erforderlich, bis der Zug die Weichen durchfahren hat (…)“.  
+
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+Der BEU wurden keine Maßnahmen bekannt, die infolge des Ereignisses durch die beteiligten Eisenbahnunternehmen oder durch die Sicherheitsbehörde getroffen wurden.
+---

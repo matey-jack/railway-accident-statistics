@@ -4,7 +4,9 @@ import io.github.sashirestela.cleverclient.client.OkHttpClientAdapter
 import io.github.sashirestela.openai.SimpleOpenAI
 import io.github.sashirestela.openai.domain.chat.ChatMessage
 import io.github.sashirestela.openai.domain.chat.ChatRequest
+import okhttp3.OkHttpClient
 import java.io.File
+import java.util.concurrent.TimeUnit
 
 const val LEMONADE_URL = "http://127.0.0.1:8000"
 const val MODEL = "Qwen3-14B-GGUF"
@@ -14,7 +16,15 @@ val llmServer =
     SimpleOpenAI.builder()
         .apiKey("lemonade") // dummy key for local server
         .baseUrl(LEMONADE_URL)
-        .clientAdapter(OkHttpClientAdapter())
+        .clientAdapter(
+            OkHttpClientAdapter(
+                OkHttpClient.Builder()
+                    .connectTimeout(30, TimeUnit.SECONDS)
+                    .readTimeout(0, TimeUnit.SECONDS) // No timeout for streaming
+                    .writeTimeout(30, TimeUnit.SECONDS)
+                    .build()
+            )
+        )
         .build()
 
 val prompt = File("src/main/resources/extraction-prompt.txt").readText()
