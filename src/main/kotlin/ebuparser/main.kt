@@ -5,20 +5,19 @@ import io.github.sashirestela.openai.SimpleOpenAI
 import io.github.sashirestela.openai.domain.chat.ChatMessage
 import io.github.sashirestela.openai.domain.chat.ChatRequest
 import java.io.File
-import java.time.LocalDateTime
 
-val lemonadeAddress = "http://127.0.0.1:8001"
+const val LEMONADE_URL = "http://127.0.0.1:8001"
+const val MODEL = "Qwen3-14B-GGUF"
+const val OUTPUT_FILENAME = "summaries.txt"
 
 val llmServer =
     SimpleOpenAI.builder()
         .apiKey("lemonade") // dummy key for local server
-        .baseUrl(lemonadeAddress)
+        .baseUrl(LEMONADE_URL)
         .clientAdapter(OkHttpClientAdapter())
         .build()
 
 val prompt = File("src/main/resources/extraction-prompt.txt").readText()
-
-private const val MODEL = "Qwen3-14B-GGUF"
 
 fun extract(
     fileName: String,
@@ -39,44 +38,18 @@ fun extract(
             .toList()
             .joinToString("")
 
-    // separate the 'thinking' part (if there is any) from the result
-    val thinkingPattern = Regex(".*?</thinking>\\s*(.*)", RegexOption.DOT_MATCHES_ALL)
-    val match = thinkingPattern.find(content)
-    val finalContent =
-        if (match != null) {
-            match.groupValues[1].trim()
-        } else {
-            content
-        }
-
-    // append thinking part with the current time and filename to "thoughts.log"
-    val thinkingContent =
-        if (content.contains("</thinking>")) {
-            content.substring(0, content.indexOf("</thinking>") + 10)
-        } else {
-            ""
-        }
-
-    if (thinkingContent.isNotEmpty()) {
-        val timestamp = LocalDateTime.now()
-        File("thoughts.log").appendText("[$timestamp] $fileName:\n$thinkingContent\n\n")
-    }
-
-    return SimpleSummary(fileName, finalContent)
+    return SimpleSummary(fileName, content)
 }
 
-const val outputFilename = "summaries.txt"
-
 fun main() {
-    // list the directory ./documents and sort the files by size ascending
+    val statsWriter = StatsWriter(LEMONADE_URL, "stats.txt")
     val documentsDir = File("documents")
     val files =
         documentsDir.listFiles { file -> file.isFile && file.extension == "txt" }
             ?.sortedBy { it.length() }
             ?: emptyList()
 
-    val outputFile = File(outputFilename)
-    outputFile.writeText("") // clear the file
+    val outputFile = File(OUTPUT_FILENAME)
 
     for (file in files) {
         try {
@@ -84,10 +57,11 @@ fun main() {
             val summary = extract(file.name, content)
             outputFile.appendText(summary.asOutput + "\n---\n")
             println("Processed: ${file.name}")
+            statsWriter.writeFor(file.name)
         } catch (e: Exception) {
             println("Error processing ${file.name}: ${e.message}")
         }
     }
 
-    println("Summary written to $outputFilename")
+    println("Summary written to $OUTPUT_FILENAME")
 }
