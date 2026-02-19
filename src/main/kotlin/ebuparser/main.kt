@@ -19,6 +19,29 @@ val llmServer =
 
 val prompt = File("src/main/resources/extraction-prompt.txt").readText()
 
+fun getAlreadyProcessedFilenames(outputFile: File): Set<String> {
+    if (!outputFile.exists()) {
+        return emptySet()
+    }
+    
+    val processedFiles = mutableSetOf<String>()
+    val fileContent = outputFile.readText()
+    
+    // Match the very first filename (without ---)
+    val firstPattern = Regex("""^file: (.+)$""", RegexOption.MULTILINE)
+    val firstMatch = firstPattern.find(fileContent)
+    if (firstMatch != null) {
+        processedFiles.add(firstMatch.groupValues[1])
+    }
+    
+    // Match all subsequent filenames (with ---)
+    val pattern = Regex("""---\nfile: (.+)$""", RegexOption.MULTILINE)
+    val matches = pattern.findAll(fileContent)
+    processedFiles.addAll(matches.map { it.groupValues[1] })
+    
+    return processedFiles
+}
+
 fun extract(
     fileName: String,
     fullText: String,
@@ -44,12 +67,14 @@ fun extract(
 fun main() {
     val statsWriter = StatsWriter(LEMONADE_URL, "stats.txt")
     val documentsDir = File("documents")
+    val outputFile = File(OUTPUT_FILENAME)
+    
+    val processedFiles = getAlreadyProcessedFilenames(outputFile)
+
     val files =
-        documentsDir.listFiles { file -> file.isFile && file.extension == "txt" }
+        documentsDir.listFiles { file -> file.isFile && file.extension == "txt" && file.name !in processedFiles }
             ?.sortedBy { it.length() }
             ?: emptyList()
-
-    val outputFile = File(OUTPUT_FILENAME)
 
     for (file in files) {
         try {
