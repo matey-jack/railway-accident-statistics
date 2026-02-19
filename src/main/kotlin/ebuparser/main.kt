@@ -6,7 +6,7 @@ import io.github.sashirestela.openai.domain.chat.ChatMessage
 import io.github.sashirestela.openai.domain.chat.ChatRequest
 import java.io.File
 
-const val LEMONADE_URL = "http://127.0.0.1:8001"
+const val LEMONADE_URL = "http://127.0.0.1:8000"
 const val MODEL = "Qwen3-14B-GGUF"
 const val OUTPUT_FILENAME = "summaries.txt"
 
