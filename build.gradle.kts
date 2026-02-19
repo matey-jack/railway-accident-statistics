@@ -13,6 +13,8 @@ group = "robertw"
 version = "1.0-SNAPSHOT"
 
 application {
+	// IMPORTANT: when running in Powershell, call "chcp 65001" to actually use UTF-8 in the Shell.
+    applicationDefaultJvmArgs = listOf("-Dstdout.encoding=UTF-8")
     mainClass.set("ebuparser.MainKt")
 }
 
