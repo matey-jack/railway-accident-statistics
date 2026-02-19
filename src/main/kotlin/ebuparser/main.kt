@@ -8,7 +8,7 @@ import java.io.File
 
 const val LEMONADE_URL = "http://127.0.0.1:8000"
 const val MODEL = "Qwen3-14B-GGUF"
-const val OUTPUT_FILENAME = "summaries.txt"
+const val OUTPUT_FILENAME = "summaries.md"
 
 val llmServer =
     SimpleOpenAI.builder()
@@ -23,22 +23,22 @@ fun getAlreadyProcessedFilenames(outputFile: File): Set<String> {
     if (!outputFile.exists()) {
         return emptySet()
     }
-    
+
     val processedFiles = mutableSetOf<String>()
     val fileContent = outputFile.readText()
-    
+
     // Match the very first filename (without ---)
     val firstPattern = Regex("""^file: (.+)$""", RegexOption.MULTILINE)
     val firstMatch = firstPattern.find(fileContent)
     if (firstMatch != null) {
         processedFiles.add(firstMatch.groupValues[1])
     }
-    
+
     // Match all subsequent filenames (with ---)
     val pattern = Regex("""---\nfile: (.+)$""", RegexOption.MULTILINE)
     val matches = pattern.findAll(fileContent)
     processedFiles.addAll(matches.map { it.groupValues[1] })
-    
+    println("Skipping ${processedFiles.size} already processed files.")
     return processedFiles
 }
 
@@ -68,7 +68,7 @@ fun main() {
     val statsWriter = StatsWriter(LEMONADE_URL, "stats.txt")
     val documentsDir = File("documents")
     val outputFile = File(OUTPUT_FILENAME)
-    
+
     val processedFiles = getAlreadyProcessedFilenames(outputFile)
 
     val files =
@@ -79,6 +79,7 @@ fun main() {
     for (file in files) {
         try {
             val content = file.readText()
+            println("Starting: ${file.name}")
             val summary = extract(file.name, content)
             outputFile.appendText(summary.asOutput + "\n---\n")
             println("Processed: ${file.name}")
