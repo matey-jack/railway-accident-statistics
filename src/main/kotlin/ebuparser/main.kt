@@ -37,14 +37,6 @@ fun getAlreadyProcessedFilenames(outputFile: File): Set<String> {
     val processedFiles = mutableSetOf<String>()
     val fileContent = outputFile.readText()
 
-    // Match the very first filename (without ---)
-    val firstPattern = Regex("""^file: (.+)$""", RegexOption.MULTILINE)
-    val firstMatch = firstPattern.find(fileContent)
-    if (firstMatch != null) {
-        processedFiles.add(firstMatch.groupValues[1])
-    }
-
-    // Match all subsequent filenames (with ---)
     val pattern = Regex("""---\nfile: (.+)$""", RegexOption.MULTILINE)
     val matches = pattern.findAll(fileContent)
     processedFiles.addAll(matches.map { it.groupValues[1] })
@@ -86,6 +78,7 @@ fun main() {
             ?.sortedBy { it.length() }
             ?: emptyList()
 
+    var errorCount = 0
     for (file in files) {
         try {
             val content = file.readText()
@@ -96,6 +89,10 @@ fun main() {
             println("Processed: ${file.name}")
         } catch (e: Exception) {
             println("Error processing ${file.name}: ${e.message}")
+            errorCount++
+            if (errorCount == 3) {
+                throw e;
+            }
         }
     }
 
