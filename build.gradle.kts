@@ -13,7 +13,7 @@ group = "robertw"
 version = "1.0-SNAPSHOT"
 
 application {
-    mainClass.set("MainKt")
+    mainClass.set("ebuparser.MainKt")
 }
 
 tasks.test {
