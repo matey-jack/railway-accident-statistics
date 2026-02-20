@@ -38,7 +38,7 @@ Untersuchungsbericht Zugentgleisung, 11.11.2015, Treben‐Lehma
 # Hergang des Unfalls  
 Am 11.11.2015 gegen 23:40 Uhr entgleiste die Zugfahrt GA 52805 des Eisenbahnverkehrsunternehmens DB Schenker Rail auf der Fahrt von Bahnhof (Bf) Braunschweig Rbf nach Bf Mosel in der Überleitstelle (Üst) Treben‐Lehma in der Weiche 20 mit zwei Wagen.  
 Die Zugentgleisung ereignete sich auf der zweigleisigen elektrifizierten Strecke Leipzig Hbf – Hof, die vom Eisenbahninfrastrukturunternehmen DB Netz AG betrieben wird. Die zulässige Höchstgeschwindigkeit auf diesem Streckenabschnitt beträgt 120 km/h.  
-Die betrieblichen Handlungen der Fdl wurden beeinflusst durch Arbeiten im Rahmen der Betriebs- und Bauanweisung Nr. F 441605 15 mit dem Inhalt „Isolierstoß wechseln in km 30,2 im Streckengleis Regis-Breinigen – Treben-Lehma“. Zwischen dem Bf Regis-Breinigen und der Üst Treben-Lehma war das Streckengleis von km 29,907 bis km 32,865 in den Nächten vom 11.11.2015 zum 12.11.2015 und vom 12.11.2015 zum 13.11.2015 jeweils von 23:00 Uhr bis 05:00 Uhr gesperrt.  
+Die betrieblichen Handlungen der Fdl wurden beeinflusst durch Arbeiten im Rahmen der Betriebs- und Bauanweisung Nr. F 441605 15 mit dem Inhalt "Isolierstoß wechseln in km 30,2 im Streckengleis Regis-Breinigen – Treben-Lehma". Zwischen dem Bf Regis-Breinigen und der Üst Treben-Lehma war das Streckengleis von km 29,907 bis km 32,865 in den Nächten vom 11.11.2015 zum 12.11.2015 und vom 12.11.2015 zum 13.11.2015 jeweils von 23:00 Uhr bis 05:00 Uhr gesperrt.  
 Die Fdl erteilte, laut dem vorliegenden ausgefüllten Befehlsvordruck um 23:38 Uhr, dem Triebfahrzeugführer des Zuges GA 52805 über Zugfunk den Befehl Nr. 1 zur Weiterfahrt ohne Hauptsignal. Danach setzte sich der Zug in Bewegung, um über die Weichen 20 in ca. km 33,08 und 21 in ca. km 33,18 in das Streckengleis Treben-Lehma – Altenburg und weiter in Richtung Bf Altenburg zu fahren.  
 Als sich das in der Wagenreihung elfte Fahrzeug, ein Autotransportwagen der Gaung Laaeks, Fahrzeugnummer 25 80 4367 389-0 auf der Weiche 20 befand, stellte die Fdl diese um. Daraufhin entgleisten das elfte und auch das zwölfte Wagen, ebenfalls ein Fahrzeug der Gaung Laaeks, mit der Fahrzeugnummer 25 80 4367 127-4.
 
@@ -51,7 +51,7 @@ Es wurden keine Personen getötet oder verletzt. An der Infrastruktur und den be
 
 # Ursachen des Unfalls  
 Der Ursprung für das Ereignis lag in einem Verstoß gegen die Ril 408 – Fahrdienstvorschrift. Die Fdl brachte die Hilfssperren zur Sicherung der Hilfsfahrstraße nicht an oder entfernte sie, bevor der GA 52805 die Weichen passierte. Deshalb war der Fahrweg des Zuges nicht mehr gesichert und das anschließende ungeplante Umstellen der Weiche 20 unter dem Zug möglich.  
-Gemäß Ril 408.0232 – Züge fahren; Fahrweg sichern –, Abschnitt 4, galt für Zugfahrten mit besonderem Auftrag: „Die vorgeschriebenen Maßnahmen zur Sicherung des Fahrwegs sind so lange erforderlich, bis der Zug die Weichen durchfahren hat (…)“.  
+Gemäß Ril 408.0232 – Züge fahren; Fahrweg sichern –, Abschnitt 4, galt für Zugfahrten mit besonderem Auftrag: "Die vorgeschriebenen Maßnahmen zur Sicherung des Fahrwegs sind so lange erforderlich, bis der Zug die Weichen durchfahren hat (…)".  
 
 # Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
 Der BEU wurden keine Maßnahmen bekannt, die infolge des Ereignisses durch die beteiligten Eisenbahnunternehmen oder durch die Sicherheitsbehörde getroffen wurden.
@@ -97,7 +97,7 @@ Gesamtschadenshöhe: 982.000
 # Ursachen des Unfalls
 Das Ereignis war auf eine Vorbeifahrt des DGS 42722 am Halt zeigenden Signal 206 ohne Zusmmung des Fdl des Stellwerkbezirks B1 zurückzuführen. Der Tf begann die Fahrt am Signal 206, obwohl der Befehl 2 in Verbindung mit den Befehlen 4 und 7 des Fdl noch keine Gültigkeit hatte.  
 ...  
-Die in diesem Zusammenhang durchgeführten betrieblichen Ersatzhandlungen entsprachen den Anforderungen an eine sichere Betriebsführung. Das hierbei angewandte Vorbereiten eines Befehls ist ein laut Ril 408.0411 Abschni 2 Abs. 4 zulässiges Verfahren. Erst mit Übermittlung von Ort, Datum, Uhrzeit, Übermittlungsart und Namen des Fdl und dem Eintrag des Fdl mit Zusatz „gez.“ sowie dem Unterzeichnen mit Zusatz „i. A.“ durch den Tf gilt der Befehl für den Fdl als übermittelt. Für den Tf ist dieser damit gül g. Im vorliegenden Falle war der Befehl aus den vorgenannten Gründen weder vollständig übermittelt, noch für den Tf gül g.
+Die in diesem Zusammenhang durchgeführten betrieblichen Ersatzhandlungen entsprachen den Anforderungen an eine sichere Betriebsführung. Das hierbei angewandte Vorbereiten eines Befehls ist ein laut Ril 408.0411 Abschni 2 Abs. 4 zulässiges Verfahren. Erst mit Übermittlung von Ort, Datum, Uhrzeit, Übermittlungsart und Namen des Fdl und dem Eintrag des Fdl mit Zusatz "gez." sowie dem Unterzeichnen mit Zusatz "i. A." durch den Tf gilt der Befehl für den Fdl als übermittelt. Für den Tf ist dieser damit gül g. Im vorliegenden Falle war der Befehl aus den vorgenannten Gründen weder vollständig übermittelt, noch für den Tf gül g.
 
 # Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle
 Sicherheitsempfehlungen wurden nicht ausgesprochen.  
@@ -137,7 +137,7 @@ Am 06.04.2017 gegen 14:43 Uhr ereignete sich auf der Fahrt von Au (Sieg) nach Ho
 Personen wurden weder verletzt noch getötet. Es entstanden Sachschäden am Fahrzeug in geschätzter Höhe von 58.000 Euro.  
 
 # Ursachen des Unfalls  
-Im Rahmen der Sachverhaltsermittlung und Ursachenerforschung wurde die DB Systemtechnik GmbH zur Erstellung eines Gutachtens und der Klärung der Unfallursache einbezogen. Zum Zeitpunkt des Ereignisses bestand der Zug S 33211 aus zwei elektrischen Triebzügen der Baureihe 423 mit den Fahrzeugnummern 94 80 0423 052-9 und 94 80 0423 055-3. Entsprechend der Angaben aus dem Dauerbremszeitenheft hatte der gesamte Zug eine Länge von 135 m. Die Gesamtzugmasse lag bei 258 t, das Gesamtbremsgewicht bei 368 t. Den geforderten 142 Bremshundertstel standen ebenfalls 142 vorhandene Bremshundertstel gegenüber. An dem in Fahrtrichtung führenden, schadhaften, vierteiligen Triebzug 94 80 0423 052-9 wurde die letzte Untersuchung nach Richtlinie 900.0002 „Schienenfahrzeuge nach §32 Eisenbahnbau und Betriebsordnung untersuchen“ am 26.01.2016 durchgeführt. Die Ausführung der Untersuchungsinhalte wurde in dem Instandhaltungsraster bestätigt. Hinweise auf Vorschädigungen von Bauteilen am betroffenen Radsatz wurden durch die BEU nicht festgestellt. Der Zug S 33211 war planmäßig um 14:20 Uhr als S-Bahn der Linie S 12 in Au (Sieg) abgefahren. Gegen 14:44 Uhr, unmittelbar vor dem Halt im B Merten, bemerkte der Tf bei einer Betriebsbremsung starke Ruckbewegungen im gesamten Zug. Es ist davon auszugehen, dass in diesem Augenblick das Radsatzlager blockierte. Nach erfolgtem Halt wurde der Tf durch Reisende auf eine Rauchentwicklung am Zug aufmerksam gemacht. Die Untersuchungen am Fahrzeug zeigten, dass ein Radsatzlager beschädigt war und sich ein Teil der Primärfederung an der in Fahrtrichtung linken Seite des siebten Radsatzes gelöst hatte. Das schadhafte Radsatzlager war auf dem Treibradsatz (Radsatznummer 27006084) montiert und in einem Jakobsdrehgestell eingebaut. Weitere Untersuchungen des beschädigten Radsatzlagers wurden am 24.04.2017 im DB Instandhaltungswerk Krefeld gemeinsam mit der DB Systemtechnik GmbH durchgeführt. Die Ergebnisse wurden der BEU in einem Gutachten zur Verfügung gestellt. Zusammengefasst wurden im Gutachten folgende Feststellungen getroffen:  
+Im Rahmen der Sachverhaltsermittlung und Ursachenerforschung wurde die DB Systemtechnik GmbH zur Erstellung eines Gutachtens und der Klärung der Unfallursache einbezogen. Zum Zeitpunkt des Ereignisses bestand der Zug S 33211 aus zwei elektrischen Triebzügen der Baureihe 423 mit den Fahrzeugnummern 94 80 0423 052-9 und 94 80 0423 055-3. Entsprechend der Angaben aus dem Dauerbremszeitenheft hatte der gesamte Zug eine Länge von 135 m. Die Gesamtzugmasse lag bei 258 t, das Gesamtbremsgewicht bei 368 t. Den geforderten 142 Bremshundertstel standen ebenfalls 142 vorhandene Bremshundertstel gegenüber. An dem in Fahrtrichtung führenden, schadhaften, vierteiligen Triebzug 94 80 0423 052-9 wurde die letzte Untersuchung nach Richtlinie 900.0002 "Schienenfahrzeuge nach §32 Eisenbahnbau und Betriebsordnung untersuchen" am 26.01.2016 durchgeführt. Die Ausführung der Untersuchungsinhalte wurde in dem Instandhaltungsraster bestätigt. Hinweise auf Vorschädigungen von Bauteilen am betroffenen Radsatz wurden durch die BEU nicht festgestellt. Der Zug S 33211 war planmäßig um 14:20 Uhr als S-Bahn der Linie S 12 in Au (Sieg) abgefahren. Gegen 14:44 Uhr, unmittelbar vor dem Halt im B Merten, bemerkte der Tf bei einer Betriebsbremsung starke Ruckbewegungen im gesamten Zug. Es ist davon auszugehen, dass in diesem Augenblick das Radsatzlager blockierte. Nach erfolgtem Halt wurde der Tf durch Reisende auf eine Rauchentwicklung am Zug aufmerksam gemacht. Die Untersuchungen am Fahrzeug zeigten, dass ein Radsatzlager beschädigt war und sich ein Teil der Primärfederung an der in Fahrtrichtung linken Seite des siebten Radsatzes gelöst hatte. Das schadhafte Radsatzlager war auf dem Treibradsatz (Radsatznummer 27006084) montiert und in einem Jakobsdrehgestell eingebaut. Weitere Untersuchungen des beschädigten Radsatzlagers wurden am 24.04.2017 im DB Instandhaltungswerk Krefeld gemeinsam mit der DB Systemtechnik GmbH durchgeführt. Die Ergebnisse wurden der BEU in einem Gutachten zur Verfügung gestellt. Zusammengefasst wurden im Gutachten folgende Feststellungen getroffen:  
 - Das Radsatzlagergehäuse zeigte farbliche Anlaufspuren.  
 - Es konnte auch unter Aufbringung einer Abzugskraft von fast 500 kN an einer hydraulischen Presse nicht bewegt werden. Es musste durch Plasmaschneiden getrennt werden.  
 - Am Übergang zwischen Radsatzlagergehäuse und Radkörper war Schmierfett ausgetreten.  
@@ -147,7 +147,7 @@ Im Rahmen der Sachverhaltsermittlung und Ursachenerforschung wurde die DB System
 Darüber hinaus ereigneten sich im Zeitraum Februar 2017 bis April 2017 insgesamt drei Ereignisse mit nahezu identischen Schadbildern. Die Untersuchungen, die auf Betreiben des Fahrzeughalters durchgeführt wurden, ergaben, dass es in allen Fällen durch einen verbogenen Lamellenring zum Versagen der Radsatzlager gekommen war.  
 
 # Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
-Diese Ereignisse führten zu weiteren Untersuchungen durch die DB Regio AG als Halter der elektrischen Triebzüge der Baureihe 423. Die Überprüfungen einzelner Arbeitsschritte bei der Montage von Radsatzlagern waren Schwerpunkte dieser Untersuchungen. Dabei wurde festgestellt, dass es bei der Montage des Lagerdeckels, insbesondere bei Lagerdeckeln mit Erdungskontakten, zu einem fehlerhaften Einbau der Lamellenringe gekommen war. Der fehlerhafte Einbau von Lamellenringen im Radsatzlager führte in der Folge zur Undichtigkeit und zum Verlassen der vorgesehenen Position. Anhand dieser Ergebnisse wurden die Arbeitsanweisungen, „S-Erdungskontakte: Sicht- und Funktionsprüfung“ und „Radsatzlager anbauen“, überarbeitet. Dabei wurden schärfere Qualitätsanforderungen, beim Einbau sowie den durchzuführenden Maßnahmen bei erkennbaren Beschädigungen von Lamellenringen, hinterlegt. In einer weiteren Maßnahme des Fahrzeughalters war vorgesehen, sämtliche Radsatzlager der Baureihe 423 durch Radsatzlager mit einem geschlossenen Lagerkäfig zu ersetzen.
+Diese Ereignisse führten zu weiteren Untersuchungen durch die DB Regio AG als Halter der elektrischen Triebzüge der Baureihe 423. Die Überprüfungen einzelner Arbeitsschritte bei der Montage von Radsatzlagern waren Schwerpunkte dieser Untersuchungen. Dabei wurde festgestellt, dass es bei der Montage des Lagerdeckels, insbesondere bei Lagerdeckeln mit Erdungskontakten, zu einem fehlerhaften Einbau der Lamellenringe gekommen war. Der fehlerhafte Einbau von Lamellenringen im Radsatzlager führte in der Folge zur Undichtigkeit und zum Verlassen der vorgesehenen Position. Anhand dieser Ergebnisse wurden die Arbeitsanweisungen, "S-Erdungskontakte: Sicht- und Funktionsprüfung" und "Radsatzlager anbauen", überarbeitet. Dabei wurden schärfere Qualitätsanforderungen, beim Einbau sowie den durchzuführenden Maßnahmen bei erkennbaren Beschädigungen von Lamellenringen, hinterlegt. In einer weiteren Maßnahme des Fahrzeughalters war vorgesehen, sämtliche Radsatzlager der Baureihe 423 durch Radsatzlager mit einem geschlossenen Lagerkäfig zu ersetzen.
 
 ---
 file: 186_Gröbers.txt
@@ -195,7 +195,7 @@ Heinemannstraße 6
 # Hergang des Unfalls  
 Am 15.11.2017 gegen 07:09 Uhr entgleiste der Personenzug RE 11004 des Eisenbahnverkehrsunternehmens DB Regio AG auf der Fahrt von Hamburg-Altona nach Westerland (Sylt) bei der Ausfahrt aus Gleis 101 des Bahnhofs (Bf) Elmshorn in der Weichenverbindung W113/W114 mit acht Achsen.  
 Die Zugentgleisung ereignete sich auf der, vom Eisenbahninfrastrukturunternehmen DB Netz AG betriebenen, zweigleisigen Hauptbahn Hamburg-Altona – Kiel Hbf. Diese wurde im Verzeichnis der örtlich zulässigen Geschwindigkeiten (VzG) unter der Streckennummer 1220 geführt. Des Weiteren begann im Bf Elmshorn die VzG-Strecke 1210 mit km 30,7. Hierbei handelte es sich ebenfalls um eine zweigleisige elektrifizierte Hauptbahn, welche in Richtung Westerland (Sylt) abzweigte. Die Unfallstelle befand sich in der Weichenverbindung W113/W114 im Bf Elmshorn etwa in km 30,7.  
-Die Zug- und Rangierfahrstraßen im Bf Elmshorn wurden durch die Fahrdienstleiter (Fdl) im Stellwerk „Elf“ gesteuert. Dieses Stellwerk war ein Elektronisches Stellwerk der Bauform Siemens. Sowohl Bf als auch Strecke waren mit Lichtsignalen des H/V-Signalsystems ausgestattet. Es war eine selbständige Gleisfreimeldeanlage vorhanden.  
+Die Zug- und Rangierfahrstraßen im Bf Elmshorn wurden durch die Fahrdienstleiter (Fdl) im Stellwerk "Elf" gesteuert. Dieses Stellwerk war ein Elektronisches Stellwerk der Bauform Siemens. Sowohl Bf als auch Strecke waren mit Lichtsignalen des H/V-Signalsystems ausgestattet. Es war eine selbständige Gleisfreimeldeanlage vorhanden.  
 
 # Höhe des Schadens, Anzahl Tote und Verletzte  
 Eine Person wurde schwer und zwei weitere Personen leicht verletzt. Der Steuerwagen und ein Reisezugwagen entgleisten jeweils mit allen vier Achsen beider Drehgestelle.  
@@ -208,12 +208,12 @@ Gesamtschadenshöhe: 705.000
 # Ursachen des Unfalls  
 Um eine bessere Vorstellung von der in Abbildung 1 dargestellten Unfallstelle zu haben, ist die Örtlichkeit des Bf Elmshorn in nachfolgender Abbildung 2 detaillierter dargestellt.  
 In Rahmen von Bauarbeiten, gemäß Betriebs- und Bauanweisung (Betra) Nr. F 244181, entstand eine Gleislücke, die sich in der eingestellten Fahrstraße für den RE 11004 befand. Durch weitere geplante Bauarbeiten gemäß Betra Nr. F 244182, welche u. a. die Erneuerung der unmittelbar an den fehlenden Gleisabschnitt angrenzenden Weichen W113 und W114 beinhalteten, war dieser Gleisabschnitt gesperrt und somit nicht befahrbar. Diese Sperrung sollte bis zum Abschluss beider Betren aufrechterhalten werden.  
-Die Betra Nr. F 244182 trat jedoch nicht, wie ursprünglich vorgesehen, unmittelbar nach Beendigung der Arbeiten entsprechend der Betra Nr. F 244181 in Kraft. Aufgrund der um ca. 161 Minuten verspäteten Fertigstellung der „ersten Bauphase“ war die Betriebslage auf den einmündenden Strecken stark angespannt. Daher wurde in der Betriebszentrale Hannover auf der dispositiven Ebene der DB Netz AG entschieden, dass der Beginn der Betra Nr. F 244182 verschoben wird. Daraufhin nahm der Fdl u. a. die Sperrung für alle Weichen zurück. Von dieser Entsperrung waren auch die Weichen W113 und W114 betroffen, die eigentlich hätten gesperrt bleiben müssen.  
+Die Betra Nr. F 244182 trat jedoch nicht, wie ursprünglich vorgesehen, unmittelbar nach Beendigung der Arbeiten entsprechend der Betra Nr. F 244181 in Kraft. Aufgrund der um ca. 161 Minuten verspäteten Fertigstellung der "ersten Bauphase" war die Betriebslage auf den einmündenden Strecken stark angespannt. Daher wurde in der Betriebszentrale Hannover auf der dispositiven Ebene der DB Netz AG entschieden, dass der Beginn der Betra Nr. F 244182 verschoben wird. Daraufhin nahm der Fdl u. a. die Sperrung für alle Weichen zurück. Von dieser Entsperrung waren auch die Weichen W113 und W114 betroffen, die eigentlich hätten gesperrt bleiben müssen.  
 Für die Entgleisung des RE 11004 war eine betriebliche Fehlhandlung des Fdl ursächlich. Gemäß Ril 408.0471 Abs. 2 (1) hätte der Fdl das Gleis bzw. den Gleisabschnitt sperren und gemäß Abs. 2 (2) für das Abriegeln der betroffenen Weiche sorgen müssen. Definitionsgemäß hätte sich hierzu die Zugangsweiche W106 in abweisender Stellung befinden müssen. Der Fahrweg des Zuges wurde über die zurückgebaute Weichenverbindung W113/W114 eingestellt. Die korrekte Umsetzung der Betra Nr. F 244181, nach der die Weichenverbindung W113/W114 bis zur Erneuerung der Weiche W113 gesperrt bleiben sollte, hätte das Ereignis verhindert.  
 
 # Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
 Seitens des Eisenbahninfrastrukturunternehmens wurde nach dem gefährlichen Ereignis eine gesundheitliche Überprüfung der betroffenen Mitarbeiter veranlasst. Es wurden eine Belehrung durchgeführt und die Vorkommnisse im Rahmen einer Schulung aufgearbeitet, zu dessen Teilnehmerkreis auch alle Bauüberwacher der beauftragten Firma gehörten.  
-Des Weiteren wurde für die Erstellung ähnlicher Fälle zukünftiger Bauvorhaben festgelegt, dass eine Sperrung von Weichenverbindungen immer gleichfalls unter Punkt 2.2 (Dauer der Gleissperrungen / gesperrte Gleise / Weichen) der Betra zu benennen ist. Ein nahtloser Übergang in eine Folge-Betra soll zukünftig durch eine „…Erholungsphase“ für Abwicklungsaktivitäten wie techn. Herstellung von bestimmten Anlagenzuständen, Meldungen sowie Nachweisen in den entsprechenden Unterlagen …“ verhindert werden.
+Des Weiteren wurde für die Erstellung ähnlicher Fälle zukünftiger Bauvorhaben festgelegt, dass eine Sperrung von Weichenverbindungen immer gleichfalls unter Punkt 2.2 (Dauer der Gleissperrungen / gesperrte Gleise / Weichen) der Betra zu benennen ist. Ein nahtloser Übergang in eine Folge-Betra soll zukünftig durch eine "…Erholungsphase" für Abwicklungsaktivitäten wie techn. Herstellung von bestimmten Anlagenzuständen, Meldungen sowie Nachweisen in den entsprechenden Unterlagen …" verhindert werden.
 
 ---
 file: 193_Joachimsthal.txt
@@ -314,7 +314,7 @@ Zeit: 15:35 Uhr – Rangierbewegung um 200 m zur Bremsprobeanlage.
 Zeit: 15:38 – 16:35 Uhr – Volle Bremsprobe, bis dahin keine Entgleisung festgestellt.  
 Zeit: 19:12 Uhr – Triebfahrzeug dem Zug zugeführt und gekuppelt, anschließend vereinfachte Bremsprobe durchgeführt.  
 Zeit: 19:36 – 20:30 Uhr – Wagentechnische Behandlung nach Ril 936.0101.  
-Zeit: 20:52 Uhr – Meldung des Wgm an den Triebfahrzeugführer (Tf): „Bremse und Zugschluss in Ordnung“.  
+Zeit: 20:52 Uhr – Meldung des Wgm an den Triebfahrzeugführer (Tf): "Bremse und Zugschluss in Ordnung".  
 Zeit: 21:13 Uhr – Abfahrt des KT 62902.  
 Zeit: 21:15 Uhr – Tf hält den Zug wegen außergewöhnlicher Geräusche an.  
 
@@ -379,16 +379,16 @@ Heinemannstraße 6
 53175 Bonn  
 
 # Hergang des Unfalls  
-Am 30.06.2015 gegen 12:25 Uhr entgleiste am Güterzug DGS 44676 des Eisenbahnverkehrsunternehmens (EVU) SBB Cargo Deutschland GmbH der an Position 24 laufende Wagen mit dem führenden Drehgestell (DG) bei der Fahrt von Mannheim Hbf nach Ludwigshafen (Rhein) Hbf. Die Entgleisungsstelle befand sich auf der Rampe zur „Konrad-Adenauer-Brücke“, welche einen Abschnitt der zweigleisigen elektrifizierten Hauptbahn zwischen Mannheim Hbf und Ludwigshafen (Rhein) Hbf bildet. Die Entgleisung ereignete sich ca. in km 107,128 noch im Bf Mannheim Hbf. Die Ereignisstelle durfte in diesem Bereich mit einer maximal zulässigen Geschwindigkeit von 80 km/h befahren werden. Der Güterzug DGS 44676 befuhr die Rampe zur „Konrad-Adenauer-Brücke“ mit einer Geschwindigkeit von weniger als 30 km/h. Das erste Drehgestell des in Fahrtrichtung an Position 24 laufenden Wagens entgleiste nach rechts beim Befahren eines Linksbogens mit einem Radius R= 300 m.  
+Am 30.06.2015 gegen 12:25 Uhr entgleiste am Güterzug DGS 44676 des Eisenbahnverkehrsunternehmens (EVU) SBB Cargo Deutschland GmbH der an Position 24 laufende Wagen mit dem führenden Drehgestell (DG) bei der Fahrt von Mannheim Hbf nach Ludwigshafen (Rhein) Hbf. Die Entgleisungsstelle befand sich auf der Rampe zur "Konrad-Adenauer-Brücke", welche einen Abschnitt der zweigleisigen elektrifizierten Hauptbahn zwischen Mannheim Hbf und Ludwigshafen (Rhein) Hbf bildet. Die Entgleisung ereignete sich ca. in km 107,128 noch im Bf Mannheim Hbf. Die Ereignisstelle durfte in diesem Bereich mit einer maximal zulässigen Geschwindigkeit von 80 km/h befahren werden. Der Güterzug DGS 44676 befuhr die Rampe zur "Konrad-Adenauer-Brücke" mit einer Geschwindigkeit von weniger als 30 km/h. Das erste Drehgestell des in Fahrtrichtung an Position 24 laufenden Wagens entgleiste nach rechts beim Befahren eines Linksbogens mit einem Radius R= 300 m.  
 
 # Höhe des Schadens, Anzahl Tote und Verletzte  
 Es wurden keine Personen verletzt. Es entstand erheblicher Sachschaden an der Infrastruktur und geringer Sachschaden am Fahrzeug. Aufgrund der Sonderanfertigung der durch die Entgleisung beschädigten Spezialschwellen blieb das betroffene Gleis mehrere Wochen gesperrt.  
 
 # Ursachen des Unfalls  
-Die Ursache für die Entgleisung lag im individuellen Zusammenwirken von Wagen und Oberbau. Die plötzlichen Veränderungen der Gleisparameter in Längshöhe, Richtung und Verwindung im Bereich der Entgleisungsstelle nahm das erste Drehgestell des an Position 24 laufenden Wagens bei der langsamen Fahrt aufgrund des verwindungssteifen und torsionsträgen Wagens einzig durch die Drehgestelle nicht mehr auf, so dass es zum Verlust der Spurführung kam. Die Instandhaltungshistorie des Oberbaus der vergangenen Jahre zeigte im Ereignisbereich mehrfach Außfalligkeiten in den jeweiligen Messschrieben der Regelinspektionen. Das „Gesamtsignal Gleislage“, welches mit dem RAILab (Messzug) aufgezeichnet wurde, war in diesem Streckenabschnitt bereits längere Zeit außfallig. Die vorgefundenen Mängel bei den Einzelfehlern wurden jeweils innerhalb der Fristen abgearbeitet. Die nach dem Ereignis ermittelten Messwerte wiesen jedoch darauf hin, dass die Gleislagestörungen trotz wiederholter Instandhaltungsmaßnahmen nicht nachhaltig beseitigt wurden.  
+Die Ursache für die Entgleisung lag im individuellen Zusammenwirken von Wagen und Oberbau. Die plötzlichen Veränderungen der Gleisparameter in Längshöhe, Richtung und Verwindung im Bereich der Entgleisungsstelle nahm das erste Drehgestell des an Position 24 laufenden Wagens bei der langsamen Fahrt aufgrund des verwindungssteifen und torsionsträgen Wagens einzig durch die Drehgestelle nicht mehr auf, so dass es zum Verlust der Spurführung kam. Die Instandhaltungshistorie des Oberbaus der vergangenen Jahre zeigte im Ereignisbereich mehrfach Außfalligkeiten in den jeweiligen Messschrieben der Regelinspektionen. Das "Gesamtsignal Gleislage", welches mit dem RAILab (Messzug) aufgezeichnet wurde, war in diesem Streckenabschnitt bereits längere Zeit außfallig. Die vorgefundenen Mängel bei den Einzelfehlern wurden jeweils innerhalb der Fristen abgearbeitet. Die nach dem Ereignis ermittelten Messwerte wiesen jedoch darauf hin, dass die Gleislagestörungen trotz wiederholter Instandhaltungsmaßnahmen nicht nachhaltig beseitigt wurden.  
 
 # Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
-Nach Auskunft der DB Netz AG wurden nach dem Ereignis auf mehreren Metern im Bereich der Rampe zur „Konrad-Adenauer-Brücke“ kopfgehärtete Schienen verbaut, um die Riffelbildungen in den Schienenköpfen zu minimieren. Mit der Sicherheitsempfehlung 3/2017 vom 31.01.2017 hat die BEU auf die Problemakademie von kombiniert auftretenden Gleislagefehlern hingewiesen. Die DB Netz AG hat daraufhin die technische Mitteilung TM 1-2017-10135 erlassen, mit der die Behandlung von kombinierten Einzelfehlern präzisiert wurde. Diese TM wurde zwischenzeitlich in die Ril 821.2001 überführt.
+Nach Auskunft der DB Netz AG wurden nach dem Ereignis auf mehreren Metern im Bereich der Rampe zur "Konrad-Adenauer-Brücke" kopfgehärtete Schienen verbaut, um die Riffelbildungen in den Schienenköpfen zu minimieren. Mit der Sicherheitsempfehlung 3/2017 vom 31.01.2017 hat die BEU auf die Problemakademie von kombiniert auftretenden Gleislagefehlern hingewiesen. Die DB Netz AG hat daraufhin die technische Mitteilung TM 1-2017-10135 erlassen, mit der die Behandlung von kombinierten Einzelfehlern präzisiert wurde. Diese TM wurde zwischenzeitlich in die Ril 821.2001 überführt.
 
 ---
 file: 188_Eisenach.txt
@@ -441,7 +441,7 @@ Bei dem Zusammenprall wurde ein Reisender im Zug leicht verletzt. Am Eisenbahn- 
 Der Sattelzug befuhr den BÜ von der Bundesstraße B 30 kommend mit geringer Geschwindigkeit. Beim Überqueren des BÜ setzte der Sattelaufhänger mit seiner unteren Rahmenkante auf der Kuppe der Fahrbahn im Bereich des BÜ stark auf, so dass der Sattelzugmaschine den BÜ-Bereich nicht mehr räumen konnte. Der Fahrer des Sattelzugs konnte bei seiner Fahrt die fehlende Bodenfreiheit in Bezug auf seinen Radstand aus seinem Fahrerhaus nicht erkennen. Zudem erreichte der überwachende Fahrdienstleiter (Fdl) die Störmeldung über den defekten Schrankenbaum erst nach dem Zusammenprall. Die Störmeldung verhinderte nicht das Befahren des BÜ durch den Zug.  
 
 # Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
-Als Sofortmaßnahme wurde die Kuppe vor dem BÜ abgefräst, um den Straßenverkehr flacher zu gestalten. Die Straßenverkehrsbehörde erließ eine verkehrslenkende Maßnahme mit Verkehrszeichen Z 250 in Verbindung mit den Zusatzzeichen Z 1048-14 „Verbot der Durchfahrt für Sattelfahrzeuge“. Durch die Technische Mitteilung TM: 1-2017-10643 I.NPF 1 vom 29.11.2017 wurden Regelungen zur Mindesthalbmessern und einer Messmethode für die Ausrundungsradien von Fahrbahnkuppen eingeführt. Zudem wurde der BÜ in Kehlen umfangreich umgebaut, um die Straßengradiente flacher auszubilden.
+Als Sofortmaßnahme wurde die Kuppe vor dem BÜ abgefräst, um den Straßenverkehr flacher zu gestalten. Die Straßenverkehrsbehörde erließ eine verkehrslenkende Maßnahme mit Verkehrszeichen Z 250 in Verbindung mit den Zusatzzeichen Z 1048-14 "Verbot der Durchfahrt für Sattelfahrzeuge". Durch die Technische Mitteilung TM: 1-2017-10643 I.NPF 1 vom 29.11.2017 wurden Regelungen zur Mindesthalbmessern und einer Messmethode für die Ausrundungsradien von Fahrbahnkuppen eingeführt. Zudem wurde der BÜ in Kehlen umfangreich umgebaut, um die Straßengradiente flacher auszubilden.
 
 ---
 file: 195_Blumenberg.txt
@@ -492,7 +492,7 @@ Der Fdl Jossa ließ darau in, nach der Zugschlussmeldung des Fdl Burgsinn, die F
 # Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
 Der zuständige Bezirksleiter Betrieb veranlasste die Aktualisierung der aufliegenden betrieblichen Unterlagen auf den Stw Burgsinn und Jossa.  
 Der Fdl Jossa erhielt im Anschluss an das Ereignis eine Nachschulung.  
-Die DB Netz AG erließ die Betriebliche / Fahrzeugtechnische Meldung BM 2016-004/BBW154 für den Empfängerkreis der Bediener von ZN. Diese hatte einen Weisungscharakter und galt ergänzend zu den entsprechenden Ril für die Bedienung von ZN zu den Themen „Ersetzen von Zugnummern oder Fehlnummern“, „Zugnummern löschen“ und „Störung der Zugnummernmeldeanlage“.  
+Die DB Netz AG erließ die Betriebliche / Fahrzeugtechnische Meldung BM 2016-004/BBW154 für den Empfängerkreis der Bediener von ZN. Diese hatte einen Weisungscharakter und galt ergänzend zu den entsprechenden Ril für die Bedienung von ZN zu den Themen "Ersetzen von Zugnummern oder Fehlnummern", "Zugnummern löschen" und "Störung der Zugnummernmeldeanlage".  
 Im Jahr 2018 erging zudem nach weiteren Unregelmäßigkeiten und Unfällen aufgrund einer Sicherheitsempfehlung der BEU die Weisung BM 2018-037/B-BW der DB Netz AG an alle Mitarbeiter im Bahnbetrieb, dass bei Fahrten mit besonderem Auftrag der erste von dieser Maßnahme betroffene Zug grundsätzlich zu beauftragen ist, bis zum folgenden Hauptsignal auf Sicht zu fahren.
 
 ---
@@ -504,13 +504,13 @@ Untersuchungsbericht
 # Hergang des Unfalls  
 Am 05.06.2014 gegen 19:20 Uhr entgleiste die S-Bahn S 30294 des Eisenbahnverkehrsunternehmens (EVU) DB Regio AG auf der Fahrt von Dortmund Hbf nach Recklinghausen Hbf bei der Einfahrt nach Gleis 7 des Bahnhofs (Bf) Herne in der Doppelkreuzungsweiche (DKW) 77 mit zwei Drehgestellen.  
 Die Zugentgleisung ereignete sich auf der, vom Eisenbahninfrastrukturunternehmen (EIU) DB Netz AG betriebenen, zweigleisigen Strecke Köln-Deutz (Ferngleis) – Hamm Pbf Hauptbahn. Diese wird im Verzeichnis der örtlich zulässigen Geschwindigkeiten (VzG) unter der Streckennummer 2650 geführt. Die Unfallstelle befand sich in der DKW 77 c/d des Bf Herne, etwa in Streckenkilometer 99,0. Dieser Abschnitt darf gemäß VzG mit einer zulässigen Geschwindigkeit von 120 km/h befahren werden und ist auf einen Bremsweg von 1.000 m ausgelegt.  
-Die Zug- und Rangierstraßen im Bf Herne wurden durch den Fahrdienstleiter im Stellwerk „Hf“ gestellt. Dieses Stellwerk ist ein Spurplanstellwerk der Bauform SpDrS60. Es wurde am 09.05.1982 in Betrieb genommen. Sowohl Bf als auch Strecke sind mit Signalen des H/V-Signalsystems sowie punktförmige Zugbeeinflussung ausgestattet. Es sind selbständige Gleisfreimeldeanlagen, basierend auf Gleisstromkreisen, vorhanden.  
+Die Zug- und Rangierstraßen im Bf Herne wurden durch den Fahrdienstleiter im Stellwerk "Hf" gestellt. Dieses Stellwerk ist ein Spurplanstellwerk der Bauform SpDrS60. Es wurde am 09.05.1982 in Betrieb genommen. Sowohl Bf als auch Strecke sind mit Signalen des H/V-Signalsystems sowie punktförmige Zugbeeinflussung ausgestattet. Es sind selbständige Gleisfreimeldeanlagen, basierend auf Gleisstromkreisen, vorhanden.  
 
 # Höhe des Schadens, Anzahl Tote und Verletzte  
 Zum Zeitpunkt des Ereignisses befanden sich ca. 60 Reisende im Zug. Es waren keine Toten oder Verletzte zu beklagen. An den Fahrzeugen und der Bahnanlage entstanden geschätzte Sachschäden in Höhe von ca. 570.000 €.  
 
 # Ursachen des Unfalls  
-Für die Entgleisung der S 30294 war der Verlust der Endlage der Zungen der DKW 77 c/d ursächlich. Dies entspricht im konkreten Fall der rechten äußeren Zunge analog Abbildung 4, an welcher vor Ort eindeutige Anfahrspuren erkennbar waren. Vor Ort wurde ebenfalls festgestellt, dass die Kuppelstange zwischen der äußeren und der inneren rechten Zungenschiene (in Abbildung 4 mit Kuppelstange der anliegenden Zunge/n bezeichnet) gebrochen war. Dieser Bruch konnte als Ereignisursache jedoch ausgeschlossen werden, da die korrespondierende Zunge im Verschluss des Weichenantriebes lag und die gekuppelte anliegende Zunge zum Zeitpunkt der Einstellung der Zugfahrt rein signaltechnisch als „in Endlage überwacht“ gemeldet wurde.  
+Für die Entgleisung der S 30294 war der Verlust der Endlage der Zungen der DKW 77 c/d ursächlich. Dies entspricht im konkreten Fall der rechten äußeren Zunge analog Abbildung 4, an welcher vor Ort eindeutige Anfahrspuren erkennbar waren. Vor Ort wurde ebenfalls festgestellt, dass die Kuppelstange zwischen der äußeren und der inneren rechten Zungenschiene (in Abbildung 4 mit Kuppelstange der anliegenden Zunge/n bezeichnet) gebrochen war. Dieser Bruch konnte als Ereignisursache jedoch ausgeschlossen werden, da die korrespondierende Zunge im Verschluss des Weichenantriebes lag und die gekuppelte anliegende Zunge zum Zeitpunkt der Einstellung der Zugfahrt rein signaltechnisch als "in Endlage überwacht" gemeldet wurde.  
 Die Untersuchung des betreffenden Weichenantriebes ergab, dass dieser Spuren hohen Verschleißes und starker Verschmutzung infolge von Abrieb und Rostablagerung aufzeigte. Besonders auffällig waren stark abgenutzte Prüferriegelhaken und ausgeschlagene Prüferschieber. Beim manuellen Ausheben der Riegelhaken zeigte sich, dass die elektrischen Kontaktsätze geschlossen blieben und somit eine gesicherte Endlage vorgaben, obgleich die reale Situation dem nicht entsprach. Die gesicherte Meldung der Endlage ist Gegenstand jeder Funktionsprüfung im Rahmen von Wartungs- und Inspektionsarbeiten. Eine diesbezügliche Fehlfunktion hätte somit bemerkt, protokolliert und sofort behoben werden müssen.  
 Im Rahmen der Erkundungen fiel auf, dass Fristen der Inspektion und Wartung der örtlichen Anlagen, insbesondere der Weichen und Kreuzungen, sehr großzügig ausgelegt wurden. Das Verschleppen von notwendigen Arbeiten wurde dokumentiert. Beispielsweise wurden bei der, im August 2013 angesetzten Inspektion, welche erst im Oktober 2013 durchgeführt wurde, Mängel an der Flügelschiene betreffender Weiche festgestellt, welche mit Terminsetzung bis November 2013 zu erledigen gewesen wären. Festgestellten Mängeln an Schwellen- und Schienenkleineisen, welche nicht kräftefreisch verspannt waren, wurde eine Frist bis März 2014 eingeräumt. Unter der Bedingung, dass die Gegenzeichnung entsprechenden Inspektions-Dokuments den Zeitpunkt des Abschlusses aller enthaltenen Instandsetzungsarbeiten kennzeichnet, geschah dies zum 10. Juni 2014; fünf Tage nach dem Ereignis.  
 Die Richtlinie 892.9303.01 gibt für Drehstrom-Antriebe vor, wie bei der Montage und Instandhaltung von Weichenantrieben zu verfahren ist. Fernerhin gibt die Einbau- und Montageanweisung des Herstellers beispielsweise vor, dass beim verwendeten Weichenantrieb S700 zwischen Getriebekupplung und Lagerplatte sowie zwischen Getriebekupplung und Gehäuse Ausgleichsscheiben zu verbauen sind. In der Komponentenliste dieser Unterlage werden zwei unterschiedliche Ausgleichsscheiben mit einer Stärke von 0,1 mm oder 0,2 mm aufgeführt. Diese dienen zur Reduzierung der mechanischen Beanspruchungen der Bauteile und fördern eine verschleißarme Betriebsweise. Diese Ausgleichsscheiben wurden bei der Untersuchung des relevanten Antriebs nicht vorgefunden. Da theoretisch ein Verzicht auf diese Ausgleichsscheiben möglich wäre, was keine erhöhte mechanische Beanspruchung der vor Ort vorgefundenen Bauteile vorausgesetzt hätte, konnte ihr Fehlen nicht zweifelsfrei als Mangel eingeordnet werden. Andererseits könnte ihr Fehlen ein Grund für den starken Kupplungsabrieb sein.  
@@ -523,56 +523,56 @@ Fernerhin wurde mittels technischer Mitteilung5 seitens der DB Netz AG verfügt,
 ---
 file: 011_München_Lochhausen.txt
 
-Zugkollision mit sich anschlieÃŸender Entgleisung, MÃ¼nchen Lochhausen - Olching, 24.07.2007
+Zugkollision mit sich anschließender Entgleisung, München Lochhausen - Olching, 24.07.2007
 
 # Hergang des Unfalls  
-Am Dienstag, 24.07.2007, 12:10 Uhr, prallt die Zugfahrt IC 2298 (Laufweg: Salzburg Hbfâ€“Frankfurt (Main) Hbf, Eisenbahnverkehrsunternehmen (EVU): DB Fernverkehr AG), auf der Fahrt zwischen MÃ¼nchen und Augsburg zwischen den BahnhÃ¶fen MÃ¼nchen Lochhausen und Olching, (VzG-Strecke 5503), in km 13+300, auf eine Altschiene im Regellichtraum des Betriebsgleises.  
-Am Dienstag, 24.07.2007, gegen 12:10 Uhr, prallt IC 2298 auf der Fahrt von MÃ¼nchen Hbf nach Frankfurt (Main) Hbf etwa in km 13,3 (VzG-Strecke 5503: MÃ¼nchen Augsburg) zwischen MÃ¼nchen Lochhausen und Olching auf eine Altschiene, welche in Fahrtrichtung rechts in den Gleisbereich ragt und entgleist mit vier Achsen.  
+Am Dienstag, 24.07.2007, 12:10 Uhr, prallt die Zugfahrt IC 2298 (Laufweg: Salzburg Hbf–Frankfurt (Main) Hbf, Eisenbahnverkehrsunternehmen (EVU): DB Fernverkehr AG), auf der Fahrt zwischen München und Augsburg zwischen den Bahnhöfen München Lochhausen und Olching, (VzG-Strecke 5503), in km 13+300, auf eine Altschiene im Regellichtraum des Betriebsgleises.  
+Am Dienstag, 24.07.2007, gegen 12:10 Uhr, prallt IC 2298 auf der Fahrt von München Hbf nach Frankfurt (Main) Hbf etwa in km 13,3 (VzG-Strecke 5503: München Augsburg) zwischen München Lochhausen und Olching auf eine Altschiene, welche in Fahrtrichtung rechts in den Gleisbereich ragt und entgleist mit vier Achsen.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
-Bei der an den Aufprall sich anschlieÃŸenden Entgleisung entstand Personenschaden: Ein Mitarbeiter (TriebfahrzeugfÃ¼hrer, Tf) der DB Fernverkehr AG und acht Reisende wurden leicht verletzt.  
-An den Fahrzeugen und der Infrastruktur entstand ein geschÃ¤tzter Sachschaden von insgesamt 2.560.000 Euro, der sich wie folgt zusammensetzt:  
-â€¢ Schienenfahrzeuge: 500.000 Euro  
-â€¢ Bauliche Anlagen: 2.000.000 Euro  
-â€¢ Sicherungs- und Telekommunikationsanlagen: 30.000 Euro  
-â€¢ Maschinen- und elektrotechnische Anlagen: 20.000 Euro  
-â€¢ Sonstige SachschÃ¤den: 10.000 Euro  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Bei der an den Aufprall sich anschließenden Entgleisung entstand Personenschaden: Ein Mitarbeiter (Triebfahrzeugführer, Tf) der DB Fernverkehr AG und acht Reisende wurden leicht verletzt.  
+An den Fahrzeugen und der Infrastruktur entstand ein geschätzter Sachschaden von insgesamt 2.560.000 Euro, der sich wie folgt zusammensetzt:  
+• Schienenfahrzeuge: 500.000 Euro  
+• Bauliche Anlagen: 2.000.000 Euro  
+• Sicherungs- und Telekommunikationsanlagen: 30.000 Euro  
+• Maschinen- und elektrotechnische Anlagen: 20.000 Euro  
+• Sonstige Sachschäden: 10.000 Euro  
 
 # Ursachen des Unfalls  
-Der Eintritt des Ereignisses ist zurÃ¼ckzufÃ¼hren auf die Nichtbeachtung der "ErgÃ¤nzenden Vertragsbedingungen der der DB AG zur Vermeidung von UnfÃ¤llen auf Bahngebiet" durch den Auftragnehmer.  
-Die AuslÃ¶sung des Ereignisses wirkte von auÃŸen auf den Eisenbahnbetrieb ein: Beim Kranen von Altschienenteilen hatte sich ein Schienenteil aus dem Greifer (5-teilig) gelÃ¶st und gelangte dadurch in das Profil des durch IC 2298 befahrenen Gleises.  
-GrundsÃ¤tzlich fanden die Arbeiten â€žSchneiden, Kranen und Verladen der Altschienenâ€œ auÃŸerhalb des Gleisbereichs statt. Der Stapel der zu schneidenden, zu kranenden und zu verladenden Altschienen lag in einem Abstand von 3 m von der rechten Schiene des Betriebsgleises, an der gedachten Fluchtlinie â€žFahrleitungsmaste des Betriebsgleisesâ€œ, feldseitig an, mithin auÃŸerhalb des Gefahrenraums des Betriebsgleises. Sowohl eine Sicherung (Absperrung) des Arbeitsplatzes (Altschienenlagerplatz/Verladeplatz) gegen die Gefahren aus dem Bahnbetrieb als auch eine Sicherung (Fanggitter o. Ã¤.) des Bahnbetriebs aus der Gefahr der Arbeit (Altschienenlagerplatz/Verladeplatz) war nicht eingerichtet. Ebenso wenig war eine Sicherungsaufsichtskraft und/oder Absperrposten an der Arbeitsstelle vorgesehen oder eingerichtet.  
+Der Eintritt des Ereignisses ist zurückzuführen auf die Nichtbeachtung der "Ergänzenden Vertragsbedingungen der der DB AG zur Vermeidung von Unfällen auf Bahngebiet" durch den Auftragnehmer.  
+Die Auslösung des Ereignisses wirkte von außen auf den Eisenbahnbetrieb ein: Beim Kranen von Altschienenteilen hatte sich ein Schienenteil aus dem Greifer (5-teilig) gelöst und gelangte dadurch in das Profil des durch IC 2298 befahrenen Gleises.  
+Grundsätzlich fanden die Arbeiten "Schneiden, Kranen und Verladen der Altschienen" außerhalb des Gleisbereichs statt. Der Stapel der zu schneidenden, zu kranenden und zu verladenden Altschienen lag in einem Abstand von 3 m von der rechten Schiene des Betriebsgleises, an der gedachten Fluchtlinie "Fahrleitungsmaste des Betriebsgleises", feldseitig an, mithin außerhalb des Gefahrenraums des Betriebsgleises. Sowohl eine Sicherung (Absperrung) des Arbeitsplatzes (Altschienenlagerplatz/Verladeplatz) gegen die Gefahren aus dem Bahnbetrieb als auch eine Sicherung (Fanggitter o. ä.) des Bahnbetriebs aus der Gefahr der Arbeit (Altschienenlagerplatz/Verladeplatz) war nicht eingerichtet. Ebenso wenig war eine Sicherungsaufsichtskraft und/oder Absperrposten an der Arbeitsstelle vorgesehen oder eingerichtet.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
-Bei Einhaltung der in den ergÃ¤nzenden Vertragbedingungen der DB Netz AG enthaltenden UnfallverhÃ¼tungsvorschriften wÃ¤re das Ereignis vermeidbar gewesen.  
-Entweder wurden die ergÃ¤nzenden Vertragbedingungen vom letztlich die Arbeiten ausfÃ¼hrenden Unterauftragnehmer nicht umgesetzt oder sind dort nicht angekommen.  
-Die seitens Auftragnehmer geplanten Arbeiten fanden ohne Wissen der DB Netz AG (BzS) statt. Seitens Auftraggeber fand eine PrÃ¼fung des Auftragnehmers hinsichtlich ErfÃ¼llung der â€žErgÃ¤nzenden Vertragsbedingungen der DB AG zur Vermeidung von UnfÃ¤llen auf Bahngebietâ€œ aber ebenso wenig statt.
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+Bei Einhaltung der in den ergänzenden Vertragbedingungen der DB Netz AG enthaltenden Unfallverhütungsvorschriften wäre das Ereignis vermeidbar gewesen.  
+Entweder wurden die ergänzenden Vertragbedingungen vom letztlich die Arbeiten ausführenden Unterauftragnehmer nicht umgesetzt oder sind dort nicht angekommen.  
+Die seitens Auftragnehmer geplanten Arbeiten fanden ohne Wissen der DB Netz AG (BzS) statt. Seitens Auftraggeber fand eine Prüfung des Auftragnehmers hinsichtlich Erfüllung der "Ergänzenden Vertragsbedingungen der DB AG zur Vermeidung von Unfällen auf Bahngebiet" aber ebenso wenig statt.
 
 ---
 file: 184_Enzisweiler.txt
 
-UnzulÃ¤ssige Einfahrt in einen besetz. Gleisabsch., 03.03.2015, Bf Enzisweiler  
+Unzulässige Einfahrt in einen besetz. Gleisabsch., 03.03.2015, Bf Enzisweiler  
 
 # Hergang des Unfalls  
 Am 03.03.2015 gegen 09:09 Uhr fuhr der Personenzug IRE 4226 der DB ZugBus Regionalverkehr Alb-Bodensee GmbH (RAB) in das noch durch den Personenzug RE 3245 der RAB besetzte Gleis 2 des Bahnhofs (Bf) Enzisweiler ein und kam etwa 20 m vor diesem zum Stillstand.  
-Der Bf Enzisweiler befand sich an der eingleisigen, nicht elektrifizierten Hauptbahn Friedrichshafen Stadt, W 105 â€“ Abzw Lindau-Aeschach, W 2. [...]  
+Der Bf Enzisweiler befand sich an der eingleisigen, nicht elektrifizierten Hauptbahn Friedrichshafen Stadt, W 105 – Abzw Lindau-Aeschach, W 2. [...]  
 Der Zug RE 3245 kam aus Richtung Friedrichshafen und stand im Bf Enzisweiler im Gleis 2 vor dem haltzeigenden Ausfahrsignal (Asig) D. Der IRE 4226 kam aus Richtung Lindau und fuhr von der freien Strecke nach Gleis 2 ein. [...]  
-Der Tf des IRE 4226 erkannte bei der AnnÃ¤herung an den Bahnhof, dass sein Fahrweg durch den RE 3245 besetzt war und leitete eine Schnellbremsung ein. Der IRE 4226 kam in HÃ¶he des Asig D im Abstand von ca. 20 m zum RE 3245 im Gleis 2 zum Stehen.  
+Der Tf des IRE 4226 erkannte bei der Annäherung an den Bahnhof, dass sein Fahrweg durch den RE 3245 besetzt war und leitete eine Schnellbremsung ein. Der IRE 4226 kam in Höhe des Asig D im Abstand von ca. 20 m zum RE 3245 im Gleis 2 zum Stehen.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
-Personen wurden weder verletzt noch getÃ¶tet. Es entstanden keine SachschÃ¤den.  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Personen wurden weder verletzt noch getötet. Es entstanden keine Sachschäden.  
 
 # Ursachen des Unfalls  
-UrsÃ¤chlich fÃ¼r die Entstehung des Ereignisses war die nicht korrekte Anwendung der mittelbaren FahrwegprÃ¼fung in Verbindung mit der Nichtanbringung der erforderlichen Hilfssperren nach dem Halt des Zuges RE 3245 vor dem Asig D. [...]  
-Beitragender Faktor war die fehlende technische Ãœberwachung der nicht einsehbaren Bereiche im Stellbereich des Stw Enzisweiler. [...]  
-Hinzu kamen die Unsicherheiten des Fdl im Umgang mit der ungewohnten Betriebssituation, die durch die Defizite in Ausbildung und Ã¶rtlicher Einarbeitung begÃ¼nstigt wurden. [...]  
-Die Ausbildung des Fdl Enzisweiler erfolgte mit Spurplantechnik, obwohl der Fdl nach Abschluss seiner Ausbildung auf einem mechanischen Stellwerk eingesetzt wurde. Damit wurde die Bestimmung der Ril 046.2501 nicht beachtet, nach der die Ausbildung auf der Technik erfolgen soll, auf der der spÃ¤tere Einsatz erfolgt. [...]  
-Die Ausbildungsdauer und -inhalte waren unzureichend: Der Zeitumfang fÃ¼r das Praxistraining betrug lediglich 93,5 Stunden anstelle der vorgesehenen 129 Sollstunden.  
+Ursächlich für die Entstehung des Ereignisses war die nicht korrekte Anwendung der mittelbaren Fahrwegprüfung in Verbindung mit der Nichtanbringung der erforderlichen Hilfssperren nach dem Halt des Zuges RE 3245 vor dem Asig D. [...]  
+Beitragender Faktor war die fehlende technische Überwachung der nicht einsehbaren Bereiche im Stellbereich des Stw Enzisweiler. [...]  
+Hinzu kamen die Unsicherheiten des Fdl im Umgang mit der ungewohnten Betriebssituation, die durch die Defizite in Ausbildung und örtlicher Einarbeitung begünstigt wurden. [...]  
+Die Ausbildung des Fdl Enzisweiler erfolgte mit Spurplantechnik, obwohl der Fdl nach Abschluss seiner Ausbildung auf einem mechanischen Stellwerk eingesetzt wurde. Damit wurde die Bestimmung der Ril 046.2501 nicht beachtet, nach der die Ausbildung auf der Technik erfolgen soll, auf der der spätere Einsatz erfolgt. [...]  
+Die Ausbildungsdauer und -inhalte waren unzureichend: Der Zeitumfang für das Praxistraining betrug lediglich 93,5 Stunden anstelle der vorgesehenen 129 Sollstunden.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
-Der Fdl Enzisweiler wurde nach erfolgter Nachschulung vorÃ¼bergehend als WeichenwÃ¤rter eingesetzt. Ferner wurden die in Enzisweiler eingesetzten Fdl noch einmal konkret auf die Bestimmungen der Ril 408.0231 Abschn. 3 Abs. 8a in Kombination mit dem Anhang 15 zu den Ã¶rtlichen Richtlinien fÃ¼r Mitarbeiter auf den Betriebsstellen fÃ¼r den Bf Enzisweiler zum Anbringen der Hilfssperren bei besetzten Einfahrgleisen unterwiesen. [...]  
-Seit 2019 rÃ¼stet die DB Netz AG ausgewÃ¤hlte mechanische und elektromechanische Stellwerke mit dem Assistenzsystem â€žTechnische Ãœberwachung Fahrwegâ€œ (TÃ¼Fa) aus. Zudem werden seit 2018 Virtual Reality-Werkzeuge zur virtuellen Simulation mechanischer Stellwerke in die Aus- und Weiterbildung der Fdl eingefÃ¼hrt, die eine bessere Ausbildung und StÃ¶rfallschulung der Fdl ermÃ¶glichen. [...]  
-Im Zuge der Modernisierung der BodenseegÃ¼rtelbahn ist eine UmrÃ¼stung des Bf Enzisweiler auf ein elektronisches Stellwerk geplant. Infolge dieser Planung wurde keine technische NachrÃ¼stung mit TÃ¼Fa vorgenommen.
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+Der Fdl Enzisweiler wurde nach erfolgter Nachschulung vorübergehend als Weichenwärter eingesetzt. Ferner wurden die in Enzisweiler eingesetzten Fdl noch einmal konkret auf die Bestimmungen der Ril 408.0231 Abschn. 3 Abs. 8a in Kombination mit dem Anhang 15 zu den örtlichen Richtlinien für Mitarbeiter auf den Betriebsstellen für den Bf Enzisweiler zum Anbringen der Hilfssperren bei besetzten Einfahrgleisen unterwiesen. [...]  
+Seit 2019 rüstet die DB Netz AG ausgewählte mechanische und elektromechanische Stellwerke mit dem Assistenzsystem "Technische Überwachung Fahrweg" (TüFa) aus. Zudem werden seit 2018 Virtual Reality-Werkzeuge zur virtuellen Simulation mechanischer Stellwerke in die Aus- und Weiterbildung der Fdl eingeführt, die eine bessere Ausbildung und Störfallschulung der Fdl ermöglichen. [...]  
+Im Zuge der Modernisierung der Bodenseegürtelbahn ist eine Umrüstung des Bf Enzisweiler auf ein elektronisches Stellwerk geplant. Infolge dieser Planung wurde keine technische Nachrüstung mit TüFa vorgenommen.
 
 ---
 file: 095_Borna_b_Leipzig.txt
@@ -580,44 +580,44 @@ file: 095_Borna_b_Leipzig.txt
 Zugentgleisung, 02.12.2014, Borna (b Leipzig)  
 
 # Hergang des Unfalls  
-Am 02.12.2014 gegen 19:43 Uhr entgleisten drei Wagen des DGS 99659. Zum Zeitpunkt der Einfahrt des DGS 99659 gab es auf dem elektromechanischen Stellwerk des Fahrdienstleiters eine StÃ¶rung, so dass die Einfahrt des Zuges auf Zs 1 erfolgte. Auf Gleis 2 stand ein Personenzug zur Abfahrt bereit. Der Fahrdienstleiter wollte die Ausfahrt des Personenzuges aus Gleis 2 in Richtung Frohburg vorbereiten und stellte die Weiche 56 an Stelle der Weiche 55 um.  
+Am 02.12.2014 gegen 19:43 Uhr entgleisten drei Wagen des DGS 99659. Zum Zeitpunkt der Einfahrt des DGS 99659 gab es auf dem elektromechanischen Stellwerk des Fahrdienstleiters eine Störung, so dass die Einfahrt des Zuges auf Zs 1 erfolgte. Auf Gleis 2 stand ein Personenzug zur Abfahrt bereit. Der Fahrdienstleiter wollte die Ausfahrt des Personenzuges aus Gleis 2 in Richtung Frohburg vorbereiten und stellte die Weiche 56 an Stelle der Weiche 55 um.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
-Todesopfer sind keine zu beklagen. Der TriebfahrzeugfÃ¼hrer wird bei dem Ereignis leicht verletzt und erleidet einen Schock. Die SachschÃ¤den setzen sich wie folgt zusammen:  
-- Gleisanlage: ca. 350.000 â‚¬  
-- Leit- und Sicherungstechnik: ca. 30.000 â‚¬  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Todesopfer sind keine zu beklagen. Der Triebfahrzeugführer wird bei dem Ereignis leicht verletzt und erleidet einen Schock. Die Sachschäden setzen sich wie folgt zusammen:  
+- Gleisanlage: ca. 350.000 €  
+- Leit- und Sicherungstechnik: ca. 30.000 €  
 
 # Ursachen des Unfalls  
-Der Fahrdienstleiter hat in Vorbereitung der Zugfahrt eines Personenzuges aus Gleis 2, nicht wie notwendig die Weiche 55 bedient, sondern die Weiche 56 und damit die Weiche unter dem Fahrzeug umgestellt. Es hÃ¤tte die Weiche 56 durch das Anbringen einer Hilfssperre gegen das Umlegen gesichert werden mÃ¼ssen. Bei Ankunft des Notfallmanagers auf dem Stellwerk B 2 war keine Hilfssperre am Weichenhebel der Weiche 56 angebracht. Vermutlich wurde schon wÃ¤hrend der Einfahrt des DGS 99659 der Fahrweg, fÃ¼r den im Gleis 2 stehenden Personenzug, zur Ausfahrt vorbereitet. Nach den vorliegenden Erkenntnissen sollte dafÃ¼r die Weiche 55 umgestellt werden. Dabei wurde dann versehentlich die Weiche 56 gegriffen und somit unter dem Zug umgestellt.  
+Der Fahrdienstleiter hat in Vorbereitung der Zugfahrt eines Personenzuges aus Gleis 2, nicht wie notwendig die Weiche 55 bedient, sondern die Weiche 56 und damit die Weiche unter dem Fahrzeug umgestellt. Es hätte die Weiche 56 durch das Anbringen einer Hilfssperre gegen das Umlegen gesichert werden müssen. Bei Ankunft des Notfallmanagers auf dem Stellwerk B 2 war keine Hilfssperre am Weichenhebel der Weiche 56 angebracht. Vermutlich wurde schon während der Einfahrt des DGS 99659 der Fahrweg, für den im Gleis 2 stehenden Personenzug, zur Ausfahrt vorbereitet. Nach den vorliegenden Erkenntnissen sollte dafür die Weiche 55 umgestellt werden. Dabei wurde dann versehentlich die Weiche 56 gegriffen und somit unter dem Zug umgestellt.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
-Es wÃ¤re vermutlich durch das Anbringen einer Hilfssperre verhindert worden, dass die Weiche versehentlich umgestellt wurde. Die VorschlÃ¤ge der Untersuchungsstelle zur Vermeidung von UnfÃ¤llen und Verbesserung der Sicherheit im Eisenbahnverkehr werden der SicherheitsbehÃ¶rde und, soweit erforderlich, anderen Stellen und BehÃ¶rden oder anderen Mitgliedstaaten der EU in Form von Sicherheitsempfehlungen mitgeteilt. Der Fahrdienstleiter wurde bis zur Auswertung des Ereignisses nicht mehr eingesetzt. Die erste Dienstschicht auf dem Dienstposten wurde als Ãœberwachungsschicht durchgefÃ¼hrt. Das gefÃ¤hrliche Ereignis wurde im ersten FIT 2015 zur Auswertung mit aufgenommen.
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+Es wäre vermutlich durch das Anbringen einer Hilfssperre verhindert worden, dass die Weiche versehentlich umgestellt wurde. Die Vorschläge der Untersuchungsstelle zur Vermeidung von Unfällen und Verbesserung der Sicherheit im Eisenbahnverkehr werden der Sicherheitsbehörde und, soweit erforderlich, anderen Stellen und Behörden oder anderen Mitgliedstaaten der EU in Form von Sicherheitsempfehlungen mitgeteilt. Der Fahrdienstleiter wurde bis zur Auswertung des Ereignisses nicht mehr eingesetzt. Die erste Dienstschicht auf dem Dienstposten wurde als Überwachungsschicht durchgeführt. Das gefährliche Ereignis wurde im ersten FIT 2015 zur Auswertung mit aufgenommen.
 
 ---
 file: 185_München_Hbf.txt
 
-Untersuchungsbericht Zugentgleisung, 22.11.2019, Bf MÃ¼nchen Hbf  
+Untersuchungsbericht Zugentgleisung, 22.11.2019, Bf München Hbf  
 
 # Hergang des Unfalls  
-Am 22.11.2019 gegen 16:10 Uhr entgleiste der Personenzug DPE 79497 auf der Fahrt von MÃ¼nchen Hbf nach Kufstein bei der Fahrt aus dem Bahnhof (Bf) MÃ¼nchen Hbf auf der Weiche (W) 101 mit dem nachlaufenden Drehgestell des vorletzten Wagens und den beiden Drehgestellen des letzten Wagens in Fahrtrichtung nach rechts. Der Ereignisort wird aus der folgenden Abbildung ersichtlich.  
+Am 22.11.2019 gegen 16:10 Uhr entgleiste der Personenzug DPE 79497 auf der Fahrt von München Hbf nach Kufstein bei der Fahrt aus dem Bahnhof (Bf) München Hbf auf der Weiche (W) 101 mit dem nachlaufenden Drehgestell des vorletzten Wagens und den beiden Drehgestellen des letzten Wagens in Fahrtrichtung nach rechts. Der Ereignisort wird aus der folgenden Abbildung ersichtlich.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
-Bei der Entgleisung wurde eine Person leicht verletzt. An der Infrastruktur entstand erheblicher Sachschaden in HÃ¶he von ca. 2,5 Millionen Euro. Die beiden letzten Wagen wiesen starke BeschÃ¤digungen auf. Am Triebfahrzeug entstanden leichte SchÃ¤den im Bereich der Puï¬€er.  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Bei der Entgleisung wurde eine Person leicht verletzt. An der Infrastruktur entstand erheblicher Sachschaden in Höhe von ca. 2,5 Millionen Euro. Die beiden letzten Wagen wiesen starke Beschädigungen auf. Am Triebfahrzeug entstanden leichte Schäden im Bereich der Puffer.  
 
 # Ursachen des Unfalls  
-Die ersten Entgleisungsspuren waren in der stumpf befahrenen W 101 erkennbar. Auf der SchienenfahrflÃ¤che der Ã¤uÃŸeren Zwischenschiene (BogenauÃŸenseite) des Zweiggleises der W 101 war eine Spur der Spurkranzkuppe eines Rades erkennbar. Die tatsÃ¤chliche Trassierung vor Ort wurde nach erfolgter Instandsetzung der Infrastruktur vermessen. Dabei wurde festgestellt, dass eine 6,92 m lange Zwischengerade zwischen linken und rechten Gleisbogen vorhanden war.  
+Die ersten Entgleisungsspuren waren in der stumpf befahrenen W 101 erkennbar. Auf der Schienenfahrfläche der äußeren Zwischenschiene (Bogenaußenseite) des Zweiggleises der W 101 war eine Spur der Spurkranzkuppe eines Rades erkennbar. Die tatsächliche Trassierung vor Ort wurde nach erfolgter Instandsetzung der Infrastruktur vermessen. Dabei wurde festgestellt, dass eine 6,92 m lange Zwischengerade zwischen linken und rechten Gleisbogen vorhanden war.  
 
-Die unzureichende Schmierung der Pufferteller und PufferhÃ¼lsen, insbesondere an dem sich in Fahrtrichtung links befindlichen Pufferpaar zwischen den Wagen Nr. 6 und Nr. 7, fÃ¼hrte im Betrieb der stÃ¤ndig miteinander gekuppelten Fahrzeuge zu einer erhÃ¶hten Reibung der KontaktflÃ¤chen sowie zur Riefenbildung im Bereich der Pufferteller. Die Riefenbildung fÃ¼hrte zusÃ¤tzlich zur ErhÃ¶hung der Reibung zwischen den KontaktflÃ¤chen.  
+Die unzureichende Schmierung der Pufferteller und Pufferhülsen, insbesondere an dem sich in Fahrtrichtung links befindlichen Pufferpaar zwischen den Wagen Nr. 6 und Nr. 7, führte im Betrieb der ständig miteinander gekuppelten Fahrzeuge zu einer erhöhten Reibung der Kontaktflächen sowie zur Riefenbildung im Bereich der Pufferteller. Die Riefenbildung führte zusätzlich zur Erhöhung der Reibung zwischen den Kontaktflächen.  
 
-Beim Befahren des Bogens im Zweiggleis der W 101 wirkten die DruckkrÃ¤fte des Tfz auf der in Fahrtrichtung linken Pufferverbindung zwischen den Wagen Nr. 6 und Nr. 7. Da ein kontinuierliches Gleiten der Pufferteller verhindert wurde, setzte die Querbewegung impulsartig ein, nachdem die ansteigende Querkraft (Y) die entgegenwirkende Kraft in der Pufferverbindung Ã¼berwunden hatte.  
+Beim Befahren des Bogens im Zweiggleis der W 101 wirkten die Druckkräfte des Tfz auf der in Fahrtrichtung linken Pufferverbindung zwischen den Wagen Nr. 6 und Nr. 7. Da ein kontinuierliches Gleiten der Pufferteller verhindert wurde, setzte die Querbewegung impulsartig ein, nachdem die ansteigende Querkraft (Y) die entgegenwirkende Kraft in der Pufferverbindung überwunden hatte.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
-Der Wagenhalter TRI setzte in Folge des Ereignisses einen anderen Haushaltschmierstoff zur Schmierung der Puï¬€er ein. Die Zeitintervalle zur Schmierung der Puï¬€er wurden auf 14 Tage herabgesetzt. ZusÃ¤tzlich gab TRI eine Weisung heraus, das Gleis 5 im Bf MÃ¼nchen Hbf nicht mehr mit den betroï¬€enen Fahrzeugen zu befahren.
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+Der Wagenhalter TRI setzte in Folge des Ereignisses einen anderen Haushaltschmierstoff zur Schmierung der Puffer ein. Die Zeitintervalle zur Schmierung der Puffer wurden auf 14 Tage herabgesetzt. Zusätzlich gab TRI eine Weisung heraus, das Gleis 5 im Bf München Hbf nicht mehr mit den betroffenen Fahrzeugen zu befahren.
 
 ---
 file: 025_Neustrelitz.txt
 
-GefÃ¤hrliches Ereignis im Eisenbahnbetrieb  
+Gefährliches Ereignis im Eisenbahnbetrieb  
 Ereignisart: Sonstige Kollision  
 Datum: 28.11.2010  
 Zeit: 02:52  
@@ -626,22 +626,22 @@ Benachbarte Betriebsstellen: Neustrelitz - Kratzeburg
 Kilometer: 100,163  
 
 #Hergang des Unfalls  
-Am 28.11.2010 fanden im Streckenabschnitt Neustrelitz - WarnemÃ¼nde Bauarbeiten entsprechend der Betra Nr. F 195260 statt. Im Gleis 1 befand sich eine vor dem Einfahrsignal GG Bahnhof Neustrelitz stehende Rangierfahrt. Die Rangierfahrt war eine geschobene Einheit mit einer Lok 285 und 32 beladenen Wagen der Gattung Uas und Ua. Die Spitze der Rangierfahrt war mit einem Rangierbegleiter besetzt. Zu diesem Zeitpunkt kam gleichzeitig eine gezogene Rangierfahrt mit einer Lok 214 und 20 Wagen der Gattung Fas und Fakks aus Richtung Kratzeburg und fuhr auf die am Einfahrsignal stehende Rangierfahrt auf.  
+Am 28.11.2010 fanden im Streckenabschnitt Neustrelitz - Warnemünde Bauarbeiten entsprechend der Betra Nr. F 195260 statt. Im Gleis 1 befand sich eine vor dem Einfahrsignal GG Bahnhof Neustrelitz stehende Rangierfahrt. Die Rangierfahrt war eine geschobene Einheit mit einer Lok 285 und 32 beladenen Wagen der Gattung Uas und Ua. Die Spitze der Rangierfahrt war mit einem Rangierbegleiter besetzt. Zu diesem Zeitpunkt kam gleichzeitig eine gezogene Rangierfahrt mit einer Lok 214 und 20 Wagen der Gattung Fas und Fakks aus Richtung Kratzeburg und fuhr auf die am Einfahrsignal stehende Rangierfahrt auf.  
 
-Am Sonntag, 28.11.2010, um 02:52 Uhr, kollidierte im gesperrten und zum Baugleis erklÃ¤rten Streckengleis Neustrelitz â€“ Kratzeburg die gezogene Rangierfahrt (Tfz 214 020-0) mit der vor dem ESig GG, Bf Neustrelitz, stehenden Rangierfahrt (Tfz 285 111-1).  
+Am Sonntag, 28.11.2010, um 02:52 Uhr, kollidierte im gesperrten und zum Baugleis erklärten Streckengleis Neustrelitz – Kratzeburg die gezogene Rangierfahrt (Tfz 214 020-0) mit der vor dem ESig GG, Bf Neustrelitz, stehenden Rangierfahrt (Tfz 285 111-1).  
 
-#HÃ¶he des Schadens, Anzahl Tote und Verletzte  
-PersonenschÃ¤den traten entsprechend der ErgÃ¤nzungsmeldung nicht ein. Der Sachschaden an Eisenbahnfahrzeugen und Infrastruktur wird auf ca. 2.351 T EUR geschÃ¤tzt.  
+#Höhe des Schadens, Anzahl Tote und Verletzte  
+Personenschäden traten entsprechend der Ergänzungsmeldung nicht ein. Der Sachschaden an Eisenbahnfahrzeugen und Infrastruktur wird auf ca. 2.351 T EUR geschätzt.  
 
 #Ursachen des Unfalls  
-Die Untersuchung ergab, dass eine fahrende Rangierfahrt auf die am Einfahrsignal GG, Bahnhof Neustrelitz, stehende Rangierfahrt auffuhr. UnfallursÃ¤chlich waren:  
-- Eine unzureichende Fahrwegbeobachtung wÃ¤hrend der Rangierfahrt (Abweichung von Modul 408.0821, Abschnitt 4, (1) 1. in Verbindung mit Betra Nr. F 195 260, Pkt. 5.3.3.7).  
-- Eine mit um etwa 25 km/h Ã¼berhÃ¶hte Geschwindigkeit gegenÃ¼ber der im Baugleis zugelassenen Geschwindigkeit von Vmax. = 20 km/h (Abweichung von Modul 408.0821, Abschnitt 3, (1) b) in Verbindung mit Betra Nr. F 195 260, Pkt. 5.3.3.7).  
+Die Untersuchung ergab, dass eine fahrende Rangierfahrt auf die am Einfahrsignal GG, Bahnhof Neustrelitz, stehende Rangierfahrt auffuhr. Unfallursächlich waren:  
+- Eine unzureichende Fahrwegbeobachtung während der Rangierfahrt (Abweichung von Modul 408.0821, Abschnitt 4, (1) 1. in Verbindung mit Betra Nr. F 195 260, Pkt. 5.3.3.7).  
+- Eine mit um etwa 25 km/h überhöhte Geschwindigkeit gegenüber der im Baugleis zugelassenen Geschwindigkeit von Vmax. = 20 km/h (Abweichung von Modul 408.0821, Abschnitt 3, (1) b) in Verbindung mit Betra Nr. F 195 260, Pkt. 5.3.3.7).  
 
 Nach Auswertung der Fahrtverlaufsaufzeichnung der auffahrenden Rangierfahrt wurde festgestellt, dass die Kollision mit der stehenden Rangierfahrt bei einer Geschwindigkeit von ca. 45 km/h erfolgte.  
 
-#Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
-Die Auswertung und Schlussfolgerung des Berichts erwÃ¤hnen nicht explizit empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle. Die Ursachenanalyse konzentriert sich auf die UnvollstÃ¤ndigkeit der Fahrwegbeobachtung und die GeschwindigkeitsÃ¼berschreitung. Es gibt jedoch keine konkreten VorschlÃ¤ge fÃ¼r PrÃ¤ventionsmaÃŸnahmen in der Schlussfolgerung des Berichts.
+#Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+Die Auswertung und Schlussfolgerung des Berichts erwähnen nicht explizit empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle. Die Ursachenanalyse konzentriert sich auf die Unvollständigkeit der Fahrwegbeobachtung und die Geschwindigkeitsüberschreitung. Es gibt jedoch keine konkreten Vorschläge für Präventionsmaßnahmen in der Schlussfolgerung des Berichts.
 
 ---
 file: 080_Feucht.txt
@@ -649,24 +649,24 @@ file: 080_Feucht.txt
 Personenunfall, 31.01.2015, Feucht  
 
 # Hergang des Unfalls  
-Am 31.01.2015 gegen 19:41 Uhr schleifte die Zugfahrt S 39661 (lokbespannt) des Eisenbahnverkehrsunternehmens DB Regio AG, Region Bayern (S-Bahn), auf der Fahrt von NÃ¼rnberg nach Altdorf im Bf Feucht Gleis 4 eine mÃ¤nnliche Person mit, nachdem diese Person in der TÃ¼r vermutlich mit der Hand oder Finger eingeklemmt war. Die mÃ¤nnliche Person geriet zwischen Bahnsteigkante und Zug.  
+Am 31.01.2015 gegen 19:41 Uhr schleifte die Zugfahrt S 39661 (lokbespannt) des Eisenbahnverkehrsunternehmens DB Regio AG, Region Bayern (S-Bahn), auf der Fahrt von Nürnberg nach Altdorf im Bf Feucht Gleis 4 eine männliche Person mit, nachdem diese Person in der Tür vermutlich mit der Hand oder Finger eingeklemmt war. Die männliche Person geriet zwischen Bahnsteigkante und Zug.  
 
-Bei der Rekonstruktion des Ereignisses am 06.02.2015 schilderte ein Zeuge, dass er nach der Einfahrt der S-Bahn aus dieser ausgestiegen sei und sich in die UnterfÃ¼hrung begeben habe. Dort sei ihm der spÃ¤ter verunfallte Reisende entgegengerannt und habe mitgeteilt, dass er die S-Bahn noch unbedingt erreichen mÃ¼sse. Beide seien zum Bahnsteig gegangen. Der Zeuge stellte seinen FuÃŸ in die sich schlieÃŸende TÃ¼r, wÃ¤hrend der Mann versuchte, die TÃ¼r wieder aufzudrÃ¼cken. Dabei sei der Mann eingeklemmt und von der dann anfahrenden S-Bahn mitgezogen worden. Der Zeuge versuchte lautstark und mit Gesten sich dem TriebfahrzeugfÃ¼hrer (Tf) bemerkbar zu machen und zum Anhalten zu bewegen.  
+Bei der Rekonstruktion des Ereignisses am 06.02.2015 schilderte ein Zeuge, dass er nach der Einfahrt der S-Bahn aus dieser ausgestiegen sei und sich in die Unterführung begeben habe. Dort sei ihm der später verunfallte Reisende entgegengerannt und habe mitgeteilt, dass er die S-Bahn noch unbedingt erreichen müsse. Beide seien zum Bahnsteig gegangen. Der Zeuge stellte seinen Fuß in die sich schließende Tür, während der Mann versuchte, die Tür wieder aufzudrücken. Dabei sei der Mann eingeklemmt und von der dann anfahrenden S-Bahn mitgezogen worden. Der Zeuge versuchte lautstark und mit Gesten sich dem Triebfahrzeugführer (Tf) bemerkbar zu machen und zum Anhalten zu bewegen.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
-Die mÃ¤nnliche Person wurde vom Eisenbahnfahrzeug Ã¼berrollt. Der Mann verstarb noch an der Unfallstelle. Der Tf erlitt einen Schock.  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Die männliche Person wurde vom Eisenbahnfahrzeug überrollt. Der Mann verstarb noch an der Unfallstelle. Der Tf erlitt einen Schock.  
 Betriebserschwernisse:  
 - Gleissperrung im Bf Feucht bis 21:30 Uhr  
 
 # Ursachen des Unfalls  
-Die PrimÃ¤rursache lag in dem Versuch des Reisenden, wÃ¤hrend des TÃ¼rschlieÃŸprozesses in die im Abfertigungsprozess befindliche S-Bahn einzusteigen und dabei eingeklemmt zu werden. Das Abfertigungsverfahren â€žSelbstabfertigung TriebfahrzeugfÃ¼hrer (SAT)â€œ wurde angewendet, da das Einklemmen kleiner GegenstÃ¤nde von bis zu 3 cm durch die TÃ¼reinrichtung nicht detektiert wird. Nach dem SchlieÃŸen der TÃ¼ren und vor der Abfahrt muss der Tf durch Kontrollblick prÃ¼fen, ob die AuÃŸentÃ¼ren geschlossen und keine GegenstÃ¤nde oder Personen eingeklemmt sind. Dieser PrÃ¼fschritt misslang, wobei der genaue Grund nicht ermittelt werden konnte.  
+Die Primärursache lag in dem Versuch des Reisenden, während des Türschließprozesses in die im Abfertigungsprozess befindliche S-Bahn einzusteigen und dabei eingeklemmt zu werden. Das Abfertigungsverfahren "Selbstabfertigung Triebfahrzeugführer (SAT)" wurde angewendet, da das Einklemmen kleiner Gegenstände von bis zu 3 cm durch die Türeinrichtung nicht detektiert wird. Nach dem Schließen der Türen und vor der Abfahrt muss der Tf durch Kontrollblick prüfen, ob die Außentüren geschlossen und keine Gegenstände oder Personen eingeklemmt sind. Dieser Prüfschritt misslang, wobei der genaue Grund nicht ermittelt werden konnte.  
 
-Die betroffene EinstiegstÃ¼r lag ca. 70 m von der Beobachtungsposition des Tf (Blick aus dem linken Seitenfenster) entfernt. Nachdem die Leuchtmelder â€žTÃ¼renâ€œ dunkel waren, setzte der Tf den Zug in Bewegung und fuhr ab. Zu diesem Zeitpunkt war in der geschlossenen AuÃŸentÃ¼r die Person eingeklemmt.  
+Die betroffene Einstiegstür lag ca. 70 m von der Beobachtungsposition des Tf (Blick aus dem linken Seitenfenster) entfernt. Nachdem die Leuchtmelder "Türen" dunkel waren, setzte der Tf den Zug in Bewegung und fuhr ab. Zu diesem Zeitpunkt war in der geschlossenen Außentür die Person eingeklemmt.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
-Vorbeugend wird bei den Ãœberwachungsfahrten nach Ril 408.1111 das Abfertigungsverfahren SAT nach Ril 494.252 / Ril 494.252.0 von DB Regio Bayern (S-Bahn) nochmals durchgesprochen und in den Ãœberwachungsprotokollen entsprechend dokumentiert.  
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+Vorbeugend wird bei den Überwachungsfahrten nach Ril 408.1111 das Abfertigungsverfahren SAT nach Ril 494.252 / Ril 494.252.0 von DB Regio Bayern (S-Bahn) nochmals durchgesprochen und in den Überwachungsprotokollen entsprechend dokumentiert.  
 
-Weitere MaÃŸnahmen wurden im Bericht nicht explizit genannt, jedoch wird auf die Notwendigkeit der Verbesserung der Abfertigungsverfahren und der Aufmerksamkeit des Tf wÃ¤hrend der PrÃ¼fung der TÃ¼ren hingewiesen.
+Weitere Maßnahmen wurden im Bericht nicht explizit genannt, jedoch wird auf die Notwendigkeit der Verbesserung der Abfertigungsverfahren und der Aufmerksamkeit des Tf während der Prüfung der Türen hingewiesen.
 
 ---
 file: 048_Augsburg.txt
@@ -677,23 +677,23 @@ Zugentgleisung, 04.07.2010, Augsburg
 Am 04.07.2010 entgleist gegen 01:29 Uhr die Zugfahrt CS 49906 im Hbf Augsburg im Bereich der spitz befahrenen Weiche 559 in km 0,68 mit einem an 10. Stelle fahrenden Kesselwagen.  
 Am 04.07.2010 gegen 01:29 Uhr entgleisen im Bf Augsburg Hbf, im Bereich der spitz befahrenen Weiche 559, die Wagen 10 -14 des Zuges CS 49906 in Fahrtrichtung rechts mit allen Achsen. Es kommt hierbei zur Zugtrennung zwischen dem neunten und zehnten Wagen.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
 Personen kommen bei der Entgleisung nicht zu Schaden.  
-Die SachschÃ¤den wurden auf insgesamt ca. 1.165.000 Euro geschÃ¤tzt und setzen sich wie folgt zusammen:  
-â€¢ Kesselwagen ca. 193.000 â‚¬  
-â€¢ Gleisanlage Leit- und Sicherungstechnik ca. 899.000 â‚¬  
-â€¢ Bergungskosten, Sonstiges ca. 73.000 â‚¬  
+Die Sachschäden wurden auf insgesamt ca. 1.165.000 Euro geschätzt und setzen sich wie folgt zusammen:  
+• Kesselwagen ca. 193.000 €  
+• Gleisanlage Leit- und Sicherungstechnik ca. 899.000 €  
+• Bergungskosten, Sonstiges ca. 73.000 €  
 
 # Ursachen des Unfalls  
-Anhand der vorliegenden Erkenntnisse ist davon auszugehen, dass sich der etwa zu 47 % mit Marmormehl beladene Kesselwagen beim Befahren der hintereinander liegenden Weichenverbindungen 254-257-456-457-557-559 aufschaukelte und dies zu kritischen Radentlastungen fÃ¼hrte. DarÃ¼ber hinaus wirkten die im Drehgestell vorhandenen und festgestellten SchÃ¤digungen aufgrund fehlerhaft erstellter SchweiÃŸnÃ¤hte zumindest begÃ¼nstigend.  
-Die in dem Gutachten dargestellten Ergebnisse der Untersuchung lassen den Schluss zu, dass das Drehgestell mit seinen vielfachen Bindefehlern und Ã¼ber die Zeit gewachsenen BrÃ¼chen immer instabiler wurde. Das Schwappen des schweren Ladegutes und die dadurch wechselseitige Belastung des Drehgestells begÃ¼nstigten das Risswachstum.  
-Die SchweiÃŸnahtausfÃ¼hrungen wurden aufgrund zahlreicher Bindefehler und unverschweiÃŸter Nahtwurzelbereiche als mangelhaft bewertet. Lokal konnten von den Nahtfehlern ausgehende Schwingbruchanrisse identifiziert werden, die eine QuerschnittsschwÃ¤chung bewirkten.  
-Die speziell fÃ¼r das Ereignis durchfÃ¼hrten Untersuchungen zum FÃ¼llstand der Kesselwagen und dem damit unmittelbar zusammenhÃ¤ngenden Schwallverhalten zeigten, dass durch eine Geschwindigkeitsreduktion auf etwa 40 km/h oder FÃ¼llstÃ¤nde grÃ¶ÃŸer 80 % das Entgleisungsrisiko rechnerisch deutlich zu reduzieren war.  
+Anhand der vorliegenden Erkenntnisse ist davon auszugehen, dass sich der etwa zu 47 % mit Marmormehl beladene Kesselwagen beim Befahren der hintereinander liegenden Weichenverbindungen 254-257-456-457-557-559 aufschaukelte und dies zu kritischen Radentlastungen führte. Darüber hinaus wirkten die im Drehgestell vorhandenen und festgestellten Schädigungen aufgrund fehlerhaft erstellter Schweißnähte zumindest begünstigend.  
+Die in dem Gutachten dargestellten Ergebnisse der Untersuchung lassen den Schluss zu, dass das Drehgestell mit seinen vielfachen Bindefehlern und über die Zeit gewachsenen Brüchen immer instabiler wurde. Das Schwappen des schweren Ladegutes und die dadurch wechselseitige Belastung des Drehgestells begünstigten das Risswachstum.  
+Die Schweißnahtausführungen wurden aufgrund zahlreicher Bindefehler und unverschweißter Nahtwurzelbereiche als mangelhaft bewertet. Lokal konnten von den Nahtfehlern ausgehende Schwingbruchanrisse identifiziert werden, die eine Querschnittsschwächung bewirkten.  
+Die speziell für das Ereignis durchführten Untersuchungen zum Füllstand der Kesselwagen und dem damit unmittelbar zusammenhängenden Schwallverhalten zeigten, dass durch eine Geschwindigkeitsreduktion auf etwa 40 km/h oder Füllstände größer 80 % das Entgleisungsrisiko rechnerisch deutlich zu reduzieren war.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
-Die DB Schenker Rail Deutschland AG teilte mit, dass das Ladegut mit der NHM-Nummer 27174100 (Marmormehl (Slurry)) nicht mehr in Kesselwagen befÃ¶rdert werden wÃ¼rde, die Ã¼ber ein FassungsvermÃ¶gen von mehr als 45 mÂ³ verfÃ¼gen.  
-GrundsÃ¤tzlich kann diesem Entgleisungsszenario auch mit der Verwendung von kleineren Wagen oder dem Einbau von Schwallblechen entgegen gewirkt werden.  
-In Anlage 10 zum Allgemeinen Vertrag fÃ¼r die Verwendung von GÃ¼terwagen (AVV) sind Anforderungen an Drehgestelle aller Bauarten enthalten. In Abschnitt 4.1.12 sind explizit folgende Anforderungen an SchweiÃŸnÃ¤hte enthalten: â€žSchweiÃŸnÃ¤hte, die QuertrÃ¤ger und LangtrÃ¤ger des Drehgestellrahmens miteinander verbinden, dÃ¼rfen keine Anrisse zeigen. [...] Weder Lang- noch QuertrÃ¤ger noch Pendel der WiegenaufhÃ¤ngungen der Drehgestelle dÃ¼rfen angerissen sein.â€œ
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+Die DB Schenker Rail Deutschland AG teilte mit, dass das Ladegut mit der NHM-Nummer 27174100 (Marmormehl (Slurry)) nicht mehr in Kesselwagen befördert werden würde, die über ein Fassungsvermögen von mehr als 45 m³ verfügen.  
+Grundsätzlich kann diesem Entgleisungsszenario auch mit der Verwendung von kleineren Wagen oder dem Einbau von Schwallblechen entgegen gewirkt werden.  
+In Anlage 10 zum Allgemeinen Vertrag für die Verwendung von Güterwagen (AVV) sind Anforderungen an Drehgestelle aller Bauarten enthalten. In Abschnitt 4.1.12 sind explizit folgende Anforderungen an Schweißnähte enthalten: "Schweißnähte, die Querträger und Langträger des Drehgestellrahmens miteinander verbinden, dürfen keine Anrisse zeigen. [...] Weder Lang- noch Querträger noch Pendel der Wiegenaufhängungen der Drehgestelle dürfen angerissen sein."
 
 ---
 file: 085_Halle_Hbf.txt
@@ -701,100 +701,100 @@ file: 085_Halle_Hbf.txt
 Zugkollision, 18.06.2015, Halle (Saale) Hbf
 
 # Hergang des Unfalls
-Eine Rangierfahrt, bestehend aus der Rangierlok und zwei schadhaften Triebfahrzeugen der Baureihe 143, sollte von Gleis 35 in den Stellwerksbereich des Stellwerkes Hp 5 fahren. Nachdem der TriebfahrzeugfÃ¼hrer den WeichenwÃ¤rter des Stellwerkes Hs 2 unterrichtet hatte, erhielt er die Zustimmung zur Fahrt in Richtung des Stellwerkbezirkes Hp 4. Im Stellwerksbezirk Hp 4 musste der TriebfahrzeugfÃ¼hrer ca. eine Stunde auf die Weiterfahrt in den Stellwerksbezirk Hp 5 warten. Bevor die Zustimmung zur Weiterfahrt in den Stellwerksbereich Hp 5 erteilt wurde, informierte der WeichenwÃ¤rter den TriebfahrzeugfÃ¼hrer, dass das Gleis 2w mit einem Reisezug besetzt ist. Daraufhin setzte der TriebfahrzeugfÃ¼hrer seine Rangierfahrt in das Gleis 2w fort. Zum Zeitpunkt der Einleitung des Bremsvorgangs reicht der Bremsweg nicht mehr aus, um die Rangierfahrt vor dem Personenzug anhalten zu kÃ¶nnen.
+Eine Rangierfahrt, bestehend aus der Rangierlok und zwei schadhaften Triebfahrzeugen der Baureihe 143, sollte von Gleis 35 in den Stellwerksbereich des Stellwerkes Hp 5 fahren. Nachdem der Triebfahrzeugführer den Weichenwärter des Stellwerkes Hs 2 unterrichtet hatte, erhielt er die Zustimmung zur Fahrt in Richtung des Stellwerkbezirkes Hp 4. Im Stellwerksbezirk Hp 4 musste der Triebfahrzeugführer ca. eine Stunde auf die Weiterfahrt in den Stellwerksbezirk Hp 5 warten. Bevor die Zustimmung zur Weiterfahrt in den Stellwerksbereich Hp 5 erteilt wurde, informierte der Weichenwärter den Triebfahrzeugführer, dass das Gleis 2w mit einem Reisezug besetzt ist. Daraufhin setzte der Triebfahrzeugführer seine Rangierfahrt in das Gleis 2w fort. Zum Zeitpunkt der Einleitung des Bremsvorgangs reicht der Bremsweg nicht mehr aus, um die Rangierfahrt vor dem Personenzug anhalten zu können.
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte
+# Höhe des Schadens, Anzahl Tote und Verletzte
 Durch die Kollision wurden 5 Reisende leicht verletzt. Es entstand ein Sachschaden von ca. 5000.00 Euro. Die Regionalbahn wurde um ca. 16 Meter verschoben.
 
 # Ursachen des Unfalls
-Bei der Einfahrt der Rangierfahrt in das Gleis 2w wurde der Bremsvorgang zu spÃ¤t eingeleitet. Dadurch konnte eine Kollision mit dem noch im Gleis 2w stehenden Personenzug nicht verhindert werden. Dem TriebfahrzeugfÃ¼hrer der Rangierfahrt war offensichtlich nicht bekannt, dass bei beiden Schad-Triebfahrzeugen die Bremsen nicht mehr funktionstÃ¼chtig waren. Bei der DurchfÃ¼hrung der Bremsprobe hÃ¤tte ihm auffallen mÃ¼ssen, dass die Bremsen der beiden Triebfahrzeuge nicht funktionsfÃ¤hig waren.
+Bei der Einfahrt der Rangierfahrt in das Gleis 2w wurde der Bremsvorgang zu spät eingeleitet. Dadurch konnte eine Kollision mit dem noch im Gleis 2w stehenden Personenzug nicht verhindert werden. Dem Triebfahrzeugführer der Rangierfahrt war offensichtlich nicht bekannt, dass bei beiden Schad-Triebfahrzeugen die Bremsen nicht mehr funktionstüchtig waren. Bei der Durchführung der Bremsprobe hätte ihm auffallen müssen, dass die Bremsen der beiden Triebfahrzeuge nicht funktionsfähig waren.
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle
-Der TriebfahrzeugfÃ¼hrer wurde in folgenden Themen nachgeschult:  
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle
+Der Triebfahrzeugführer wurde in folgenden Themen nachgeschult:  
 - Rangieren von Fahrzeugen ohne Druckluftbremse,  
 - Vorbereitung von Fahrzeugen mit Hochleistungsbremse in Schleppfahrt.  
-Es erfolgten Weisungen an die Werkstatt Ã¼ber die Kennzeichnung von Schadfahrzeugen. Die Fahrzeugleitstellen wurden unterwiesen, AuftrÃ¤ge zum ÃœberfÃ¼hren von Schadfahrzeugen aus dem Werkstattbereich heraus nur beim Vorliegen einer LauffÃ¤higkeitsbescheinigung in der Leitstelle zu erteilen.
+Es erfolgten Weisungen an die Werkstatt über die Kennzeichnung von Schadfahrzeugen. Die Fahrzeugleitstellen wurden unterwiesen, Aufträge zum Überführen von Schadfahrzeugen aus dem Werkstattbereich heraus nur beim Vorliegen einer Lauffähigkeitsbescheinigung in der Leitstelle zu erteilen.
 
 ---
 file: 042_Stedesand - Langenhorn.txt
 
-Zugkollision, Stedesand â€“ Langenhorn, 13.01.2012
+Zugkollision, Stedesand – Langenhorn, 13.01.2012
 
 # Hergang des Unfalls  
 Am 13.01.2012 um 17:40 Uhr kollidierte der DPN 81817, trotz eingeleiteter Schnellbremsung, auf der Fahrt von Westerland nach Hamburg im km 188,300 zwischen Stedesand und Langenhorn mit einer Rinderherde.  
-Die Rinderherde ist aus einem Stall entlaufen und unmittelbar in der NÃ¤he des BahnÃ¼bergangs Sande, im km 189,076 auf die Gleise geraten und hat sich dann entlang der Gleise in Fahrtrichtung Hamburg bewegt.  
-In der Dunkelheit konnte der TriebfahrzeugfÃ¼hrer die Rinderherde nicht rechtzeitig erkennen. Trotz eingeleiteter Schnellbremsung konnte eine Kollision mit der Rinderherde nicht verhindert werden.
+Die Rinderherde ist aus einem Stall entlaufen und unmittelbar in der Nähe des Bahnübergangs Sande, im km 189,076 auf die Gleise geraten und hat sich dann entlang der Gleise in Fahrtrichtung Hamburg bewegt.  
+In der Dunkelheit konnte der Triebfahrzeugführer die Rinderherde nicht rechtzeitig erkennen. Trotz eingeleiteter Schnellbremsung konnte eine Kollision mit der Rinderherde nicht verhindert werden.
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
-Bei der Zugkollision wurde **1 Person getÃ¶tet** und **4 Personen leicht verletzt**.  
-Weiterhin wurden **14 Rinder** durch die Zugkollision getÃ¶tet.  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Bei der Zugkollision wurde **1 Person getötet** und **4 Personen leicht verletzt**.  
+Weiterhin wurden **14 Rinder** durch die Zugkollision getötet.  
 Der Steuerwagen kippte um und blieb neben dem Gleis liegen, der zweite Wagen entgleiste ebenfalls.  
-Der entstandene Sachschaden wird auf ca. **2 Millionen Euro** geschÃ¤tzt.
+Der entstandene Sachschaden wird auf ca. **2 Millionen Euro** geschätzt.
 
 # Ursachen des Unfalls  
-Die Rinderherde ist aus einem Stall entlaufen und unmittelbar in der NÃ¤he des BahnÃ¼bergangs Sande, im km 189,076 auf die Gleise geraten und hat sich dann entlang der Gleise in Fahrtrichtung Hamburg bewegt.  
-Auf Grund der Dunkelheit wurden die Tiere durch den TriebfahrzeugfÃ¼hrer nicht rechtzeitig erkannt.  
+Die Rinderherde ist aus einem Stall entlaufen und unmittelbar in der Nähe des Bahnübergangs Sande, im km 189,076 auf die Gleise geraten und hat sich dann entlang der Gleise in Fahrtrichtung Hamburg bewegt.  
+Auf Grund der Dunkelheit wurden die Tiere durch den Triebfahrzeugführer nicht rechtzeitig erkannt.  
 Trotz eingeleiteter Schnellbremsung konnte eine Kollision mit der Rinderherde nicht verhindert werden.  
-Die Untersuchung ergab keine MÃ¤ngel in der Infrastruktur, an den Fahrzeugen oder im Fahrverhalten des TriebfahrzeugfÃ¼hrers.
+Die Untersuchung ergab keine Mängel in der Infrastruktur, an den Fahrzeugen oder im Fahrverhalten des Triebfahrzeugführers.
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
-Die Auswertung und Schlussfolgerungen des Berichts betonen, dass die Ursache fÃ¼r die Zugkollision nicht auf MÃ¤ngel aus dem Eisenbahnbetrieb zurÃ¼ckzufÃ¼hren ist.  
-Es werden keine expliziten MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle im Bericht genannt. Die Schlussfolgerung lautet, dass die Beteiligten der Eisenbahnunternehmen keinen Einfluss auf das AusmaÃŸ des Ereignisses hatten.  
-Implizit kÃ¶nnte eine StÃ¤rkung der SchutzmaÃŸnahmen fÃ¼r BahnÃ¼bergÃ¤nge und der AufklÃ¤rung Ã¼ber Risiken von Tieren auf den Gleisen im Dunklen als Vorschlag gedeutet werden.
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+Die Auswertung und Schlussfolgerungen des Berichts betonen, dass die Ursache für die Zugkollision nicht auf Mängel aus dem Eisenbahnbetrieb zurückzuführen ist.  
+Es werden keine expliziten Maßnahmen zur Verhinderung zukünftiger Unfälle im Bericht genannt. Die Schlussfolgerung lautet, dass die Beteiligten der Eisenbahnunternehmen keinen Einfluss auf das Ausmaß des Ereignisses hatten.  
+Implizit könnte eine Stärkung der Schutzmaßnahmen für Bahnübergänge und der Aufklärung über Risiken von Tieren auf den Gleisen im Dunklen als Vorschlag gedeutet werden.
 
 ---
 file: 026_Wuppertal.txt
 
-Untersuchungsbericht Zugkollision, 26.07.2007, Wuppertal Hbf â€“ Wuppertal Oberbarmen  
+Untersuchungsbericht Zugkollision, 26.07.2007, Wuppertal Hbf – Wuppertal Oberbarmen  
 
 # Hergang des Unfalls  
-Am 26.07.2007, um 02:35 Uhr, prallte die Zugfahrt FIR 51104 (Laufweg: Hagen-Vorhalle â€“ Gremberg, EVU: Railion Deutschland AG) auf ein im Ferngleis (VzG-Strecke 2550) Wuppertal Oberbarmen â€“ Wuppertal Hbf, an der StraÃŸenÃ¼berfÃ¼hrung â€žFingscheidâ€œ, etwa in Streckenkilometer 117,760, stehendes BaugerÃ¼st.  
+Am 26.07.2007, um 02:35 Uhr, prallte die Zugfahrt FIR 51104 (Laufweg: Hagen-Vorhalle – Gremberg, EVU: Railion Deutschland AG) auf ein im Ferngleis (VzG-Strecke 2550) Wuppertal Oberbarmen – Wuppertal Hbf, an der Straßenüberführung "Fingscheid", etwa in Streckenkilometer 117,760, stehendes Baugerüst.  
 
-Im ZustÃ¤ndigkeitsbereich des Fahrdienstleiters (Fdl) Wuppertal Oberbarmen, Stellwerk (Stw) â€žOfâ€œ, fanden zeitgleich Arbeiten gemÃ¤ÃŸ Betra Nr. 26286 und Nr. 26317 statt.  
-a) Betra Nr. 26286: Arbeiten im Ferngleis Wuppertal Hbf â€“ Wuppertal Oberbarmen und Gegenrichtung. Hier sollte fÃ¼r Arbeiten an der StraÃŸenÃ¼berfÃ¼hrung â€žFingscheidâ€œ unter anderem auch die Oberleitung ausgeschaltet werden.  
+Im Zuständigkeitsbereich des Fahrdienstleiters (Fdl) Wuppertal Oberbarmen, Stellwerk (Stw) "Of", fanden zeitgleich Arbeiten gemäß Betra Nr. 26286 und Nr. 26317 statt.  
+a) Betra Nr. 26286: Arbeiten im Ferngleis Wuppertal Hbf – Wuppertal Oberbarmen und Gegenrichtung. Hier sollte für Arbeiten an der Straßenüberführung "Fingscheid" unter anderem auch die Oberleitung ausgeschaltet werden.  
 b) Betra Nr. 26317: Arbeiten im Bf Wuppertal Oberbarmen, Gleis 6.  
 
-Der Technisch Berechtigte (TB) verabschiedete sich gemÃ¤ÃŸ Betra Nr. 26317 beim Fdl â€žOfâ€œ ab. Der Fdl setzte die â€žVerabschiedungâ€œ des Bautrupps im Bf Wuppertal Oberbarmen, Gleis 6, sowohl einer Meldung Ã¼ber die Beendigung der Arbeiten gemÃ¤ÃŸ Betra Nr. 26286 fÃ¼r das Streckengleis als auch einer Meldung Ã¼ber die Befahrbarkeit des Gleises gleich und hob die Sperrung des Streckengleises auf.  
+Der Technisch Berechtigte (TB) verabschiedete sich gemäß Betra Nr. 26317 beim Fdl "Of" ab. Der Fdl setzte die "Verabschiedung" des Bautrupps im Bf Wuppertal Oberbarmen, Gleis 6, sowohl einer Meldung über die Beendigung der Arbeiten gemäß Betra Nr. 26286 für das Streckengleis als auch einer Meldung über die Befahrbarkeit des Gleises gleich und hob die Sperrung des Streckengleises auf.  
 
-Um 02:35 Uhr lÃ¶ste der Stromabnehmer der Zuglok FIR 51104, im Verlauf der Fahrt aus der SpannungsfÃ¼hrenden in die spannungsfreie und geerdete Schaltgruppe, einen Kurzschluss aus. Der Knall wurde von Arbeitern auf dem BaugerÃ¼st an der StraÃŸenÃ¼berfÃ¼hrung â€žFingscheidâ€œ wahrgenommen. Als die Arbeiter den Zug in dem vermeintlich gesperrten Gleis auf sich zukommen sahen, sprangen sie vom GerÃ¼st.  
+Um 02:35 Uhr löste der Stromabnehmer der Zuglok FIR 51104, im Verlauf der Fahrt aus der Spannungsführenden in die spannungsfreie und geerdete Schaltgruppe, einen Kurzschluss aus. Der Knall wurde von Arbeitern auf dem Baugerüst an der Straßenüberführung "Fingscheid" wahrgenommen. Als die Arbeiter den Zug in dem vermeintlich gesperrten Gleis auf sich zukommen sahen, sprangen sie vom Gerüst.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
-Todesopfer sind keine zu beklagen. Durch das Ereignis wurden 4 Personen leicht und eine Person schwer verletzt. SachschÃ¤den traten an Fahrzeugen und Bahnanlagen ein. Das Ereignis zog Betriebserschwernisse nach sich.  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Todesopfer sind keine zu beklagen. Durch das Ereignis wurden 4 Personen leicht und eine Person schwer verletzt. Sachschäden traten an Fahrzeugen und Bahnanlagen ein. Das Ereignis zog Betriebserschwernisse nach sich.  
 
 # Ursachen des Unfalls  
-FÃ¼r den Eintritt des Ereignisses waren KommunikationsmÃ¤ngel zwischen dem Fdl, Stw â€žOfâ€œ und dem Technisch Berechtigten (TB) gemÃ¤ÃŸ Betra Nr. 26317, Abschnitt 4.2, nach dem Ende der Arbeiten im Bf Wuppertal Oberbarmen, Gleis 6, ursÃ¤chlich (VerstoÃŸ gegen Ril 481, Sprechdisziplin).  
+Für den Eintritt des Ereignisses waren Kommunikationsmängel zwischen dem Fdl, Stw "Of" und dem Technisch Berechtigten (TB) gemäß Betra Nr. 26317, Abschnitt 4.2, nach dem Ende der Arbeiten im Bf Wuppertal Oberbarmen, Gleis 6, ursächlich (Verstoß gegen Ril 481, Sprechdisziplin).  
 
-Der TB hatte bei der GesprÃ¤chsabwicklung nicht beachtet, dass er sich zu GesprÃ¤chsbeginn mit Funktion und bei Bedarf mit Ortsangabe zu melden hat. Allein anhand des Klangs der Stimme war dem Fdl die sichere Zuordnung des Meldenden (TB) zur Betra Nr. 26317 nicht mÃ¶glich. Eine Nachfrage des Fdl, wer denn jetzt sein GesprÃ¤chspartner sei und welche Arbeitsstelle sich verabschiedet habe, fand nicht statt.  
+Der TB hatte bei der Gesprächsabwicklung nicht beachtet, dass er sich zu Gesprächsbeginn mit Funktion und bei Bedarf mit Ortsangabe zu melden hat. Allein anhand des Klangs der Stimme war dem Fdl die sichere Zuordnung des Meldenden (TB) zur Betra Nr. 26317 nicht möglich. Eine Nachfrage des Fdl, wer denn jetzt sein Gesprächspartner sei und welche Arbeitsstelle sich verabschiedet habe, fand nicht statt.  
 
-Der Fdl â€žOfâ€œ verwechselte den TB der Betra Nr. 26317 mit dem TB der Betra Nr. 26286 und setzte die Abmeldung des Bautrupps im Bf Wuppertal Oberbarmen mit einer Befahrbarkeitsmeldung fÃ¼r das Streckengleis gleich. Der TB/Schaltantragsteller (SAS) nach Betra Nr. 26286 hatte zwar die Ausschaltung der Oberleitung ordnungsgemÃ¤ÃŸ dokumentiert, eine Information an den zustÃ¤ndigen Fdl â€žOfâ€œ gab er nicht ab.  
+Der Fdl "Of" verwechselte den TB der Betra Nr. 26317 mit dem TB der Betra Nr. 26286 und setzte die Abmeldung des Bautrupps im Bf Wuppertal Oberbarmen mit einer Befahrbarkeitsmeldung für das Streckengleis gleich. Der TB/Schaltantragsteller (SAS) nach Betra Nr. 26286 hatte zwar die Ausschaltung der Oberleitung ordnungsgemäß dokumentiert, eine Information an den zuständigen Fdl "Of" gab er nicht ab.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
-Bisher getroffene MaÃŸnahmen der Beteiligten:  
-Als betriebliche SofortmaÃŸnahme wurde der Fdl â€žOfâ€œ abgelÃ¶st und nachgeschult. Die beiden zustÃ¤ndigen Technisch Berechtigten wurden, hinsichtlich der Meldungen und Anordnungen in der Betra, belehrt.  
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+Bisher getroffene Maßnahmen der Beteiligten:  
+Als betriebliche Sofortmaßnahme wurde der Fdl "Of" abgelöst und nachgeschult. Die beiden zuständigen Technisch Berechtigten wurden, hinsichtlich der Meldungen und Anordnungen in der Betra, belehrt.  
 
-Im Rahmen der Untersuchung wurden keine expliziten Sicherheitsempfehlungen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle im Text genannt. Die Auswertung betont jedoch die Notwendigkeit der Einhaltung von Sprechdisziplin (Ril 481) und die korrekte Kommunikation zwischen Fdl und TB bei der Abmeldung von Arbeiten.
+Im Rahmen der Untersuchung wurden keine expliziten Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle im Text genannt. Die Auswertung betont jedoch die Notwendigkeit der Einhaltung von Sprechdisziplin (Ril 481) und die korrekte Kommunikation zwischen Fdl und TB bei der Abmeldung von Arbeiten.
 
 ---
 file: 021_Marsberg - Messinghausen.txt
 
-BahnÃ¼bergangsunfall, Messinghausen - Marsberg, 13.04.2010
+Bahnübergangsunfall, Messinghausen - Marsberg, 13.04.2010
 
 # Hergang des Unfalls
-Am 13.04.2010, um 08:05 Uhr, prallte die Zugfahrt RE 29206 der DB Regio NRW GmbH, auf dem Weg von Warburg nach Hagen zwischen Marsberg und Bredelar auf dem BÃœ â€žBÃœ 83, Giershagener StraÃŸeâ€œ in km 261,414 mit dem AnhÃ¤nger (2-achsig, jeweils zwillingsbereift) eines mit zwei gefÃ¼llten Altpapiercontainern beladenen Lastzugs (Halter: Lobbe Entsorgung GmbH, Iserlohn) zusammen.  
-Der Lkw 01 (3-achsig, 2. Achse zwillingsbereift, Lenkachse hinten, beladen) mit AnhÃ¤nger (2-achsig, zwillingsbereift, beladen) ist von der B 7 kommend auf die L 870 in Richtung Giershagen abgebogen.  
-Als der Lkw 01 den BahnÃ¼bergang mit der Zugmaschine befahren hatte, begegneten sich die beiden Lkw in der scharfen Linkskurve, welche die StraÃŸe direkt hinter dem BahnÃ¼bergang beschreibt. Da ein Begegnungsverkehr in der ausgeschilderten Engstelle unmÃ¶glich erschien, und die Beschilderung in diesem Bereich auÃŸerdem den Vorrang der StraÃŸenverkehrsteilnehmer in der Weise regelt, dass der Lkw 01 dem Lkw 02 Vorrang zu gewÃ¤hren hat, setzte der Lkw 01 zurÃ¼ck, um dem Entgegenkommenden auszuweichen. Beim ZurÃ¼cksetzen rutschte das zwillingsbereifte rechte Hinterrad des AnhÃ¤ngers von der StraÃŸenfahrbahn in das Gleisbett ab.  
-Zum selben Zeitpunkt schaltete sich das Blinklicht des BahnÃ¼bergangs zugbewirkt ein. Als der Lkw-Fahrer 01 im RÃ¼ckspiegel sah, dass rotes Blinklicht leuchtete und sich der Schrankenbaum (Halbschranke) gesenkt hatte, prallte unmittelbar darauf die Zugfahrt RE 29206 aus Richtung Warburg kommend, in HÃ¶he der lenkbaren Achse des AnhÃ¤ngers, mit dem Lkw-Gespann zusammen.  
+Am 13.04.2010, um 08:05 Uhr, prallte die Zugfahrt RE 29206 der DB Regio NRW GmbH, auf dem Weg von Warburg nach Hagen zwischen Marsberg und Bredelar auf dem BÜ "BÜ 83, Giershagener Straße" in km 261,414 mit dem Anhänger (2-achsig, jeweils zwillingsbereift) eines mit zwei gefüllten Altpapiercontainern beladenen Lastzugs (Halter: Lobbe Entsorgung GmbH, Iserlohn) zusammen.  
+Der Lkw 01 (3-achsig, 2. Achse zwillingsbereift, Lenkachse hinten, beladen) mit Anhänger (2-achsig, zwillingsbereift, beladen) ist von der B 7 kommend auf die L 870 in Richtung Giershagen abgebogen.  
+Als der Lkw 01 den Bahnübergang mit der Zugmaschine befahren hatte, begegneten sich die beiden Lkw in der scharfen Linkskurve, welche die Straße direkt hinter dem Bahnübergang beschreibt. Da ein Begegnungsverkehr in der ausgeschilderten Engstelle unmöglich erschien, und die Beschilderung in diesem Bereich außerdem den Vorrang der Straßenverkehrsteilnehmer in der Weise regelt, dass der Lkw 01 dem Lkw 02 Vorrang zu gewähren hat, setzte der Lkw 01 zurück, um dem Entgegenkommenden auszuweichen. Beim Zurücksetzen rutschte das zwillingsbereifte rechte Hinterrad des Anhängers von der Straßenfahrbahn in das Gleisbett ab.  
+Zum selben Zeitpunkt schaltete sich das Blinklicht des Bahnübergangs zugbewirkt ein. Als der Lkw-Fahrer 01 im Rückspiegel sah, dass rotes Blinklicht leuchtete und sich der Schrankenbaum (Halbschranke) gesenkt hatte, prallte unmittelbar darauf die Zugfahrt RE 29206 aus Richtung Warburg kommend, in Höhe der lenkbaren Achse des Anhängers, mit dem Lkw-Gespann zusammen.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte
-In Folge des Zusammenpralls entgleiste das fÃ¼hrende Eisenbahnfahrzeug (Steuerwagen 928 536-1) mit dem zweiten Radsatz des ersten Drehgestells. Bei dem Zusammenprall wurden insgesamt 19 Menschen leicht verletzt. Durch das Ereignis entstand Sachschaden am Eisenbahnfahrzeug und an Bahnanlagen in HÃ¶he von ca. 150.000 EUR.  
-An dem Fahrzeug und den Einrichtungen der Eisenbahnen entstand ein Sachschaden in HÃ¶he von ca. 150.000 EUR. Dieser setzt sich zusammen aus den SchÃ¤den am Triebwagen in HÃ¶he von ca. 100.000 Euro, SchÃ¤den am Oberbau der Strecke in HÃ¶he von ca. 35.000 Euro und den SchÃ¤den an den Telekommunikationseinrichtungen bzw. der Leit- und Sicherungstechnik in HÃ¶he von etwa 15.000 Euro.  
+# Höhe des Schadens, Anzahl Tote und Verletzte
+In Folge des Zusammenpralls entgleiste das führende Eisenbahnfahrzeug (Steuerwagen 928 536-1) mit dem zweiten Radsatz des ersten Drehgestells. Bei dem Zusammenprall wurden insgesamt 19 Menschen leicht verletzt. Durch das Ereignis entstand Sachschaden am Eisenbahnfahrzeug und an Bahnanlagen in Höhe von ca. 150.000 EUR.  
+An dem Fahrzeug und den Einrichtungen der Eisenbahnen entstand ein Sachschaden in Höhe von ca. 150.000 EUR. Dieser setzt sich zusammen aus den Schäden am Triebwagen in Höhe von ca. 100.000 Euro, Schäden am Oberbau der Strecke in Höhe von ca. 35.000 Euro und den Schäden an den Telekommunikationseinrichtungen bzw. der Leit- und Sicherungstechnik in Höhe von etwa 15.000 Euro.  
 
 # Ursachen des Unfalls
-UnfallursÃ¤chlich ist das unzeitige RÃ¤umen des BahnÃ¼bergangs (Freifahren durch ZurÃ¼cksetzen Ã¼ber den BÃœ) durch den StraÃŸenverkehrsteilnehmer. BegÃ¼nstigend auf den Eintritt des Ereignisses haben die wetterbedingt stark eingeschrÃ¤nkten SichtverhÃ¤ltnisse sowie die engen StraÃŸenverhÃ¤ltnisse (sich Ã¼berschneidende Schleppkurven je Fahrtrichtung) eingewirkt. Wahrscheinlich wurde das Ereignis auch durch die fÃ¼r den StraÃŸenverkehrsteilnehmer angewandte Vorrangregelung begÃ¼nstigt.  
-Die Missachtung der StraÃŸenverkehrsordnung (StVO) durch den Lkw 01 verbunden mit den geringen Sichtweiten durch Nebel lÃ¶ste das Ereignis aus. BegÃ¼nstigend wirkten die geringe Bemessung der Fahrbahnbreite sowie die sich Ã¼berschneidenden Schleppkurven. Wahrscheinlich wird die angewandte Vorrangregelung ebenfalls begÃ¼nstigend auf das Ereignis gewirkt haben.  
+Unfallursächlich ist das unzeitige Räumen des Bahnübergangs (Freifahren durch Zurücksetzen über den BÜ) durch den Straßenverkehrsteilnehmer. Begünstigend auf den Eintritt des Ereignisses haben die wetterbedingt stark eingeschränkten Sichtverhältnisse sowie die engen Straßenverhältnisse (sich überschneidende Schleppkurven je Fahrtrichtung) eingewirkt. Wahrscheinlich wurde das Ereignis auch durch die für den Straßenverkehrsteilnehmer angewandte Vorrangregelung begünstigt.  
+Die Missachtung der Straßenverkehrsordnung (StVO) durch den Lkw 01 verbunden mit den geringen Sichtweiten durch Nebel löste das Ereignis aus. Begünstigend wirkten die geringe Bemessung der Fahrbahnbreite sowie die sich überschneidenden Schleppkurven. Wahrscheinlich wird die angewandte Vorrangregelung ebenfalls begünstigend auf das Ereignis gewirkt haben.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle
-Nach dem Ereignis vom 13.04.2010 wurde durch den Infrastrukturbetreiber fÃ¼r den Eisenbahnverkehr eine Langsamfahrstelle (La) 20 km/h eingerichtet. Am 29.07.2010 fand eine Sonderverkehrsschau am BÃœ 83 in km 261,414 statt. Teilnehmer waren Vertreter von Polizei, StraÃŸen NRW, Eisenbahn-Bundesamt, Hochsauerlandkreis und DB Netz AG. Ergebnis dieser Verkehrsschau ist, dass die LandstraÃŸe 870 (r d B), aus Fahrtrichtung Giershagen kommend um 2,50 Meter zum Gleisbereich hin, aufgeweitet wurde. Dies ermÃ¶glicht nun das Aufstellen der LKW im Begegnungsfall und vergrÃ¶ÃŸert nach Angaben der DB Netz AG die Schleppkurve. AuÃŸerdem wurden die SichtverhÃ¤ltnisse durch ZurÃ¼ckschneiden der Vegetation verbessert. Des Weiteren wurde die Verkehrszeichen (VZ) 208 und VZ 308, StVO, zur Vorrangregelung gedreht und die Haltlinie, VZ 294, aus Fahrtrichtung Giershagen weiter entfernt vom BÃœ markiert. Diese MaÃŸnahmen wurden von allen Beteiligten fÃ¼r die beste und schnellstmÃ¶glich zu realisierenden MaÃŸnahmen zur Gefahrenabwehr befunden. Der Infrastrukturbetreiber gab gegenÃ¼ber der EUB an, dass der geplante Komplettumbau des BahnÃ¼bergangs im FrÃ¼hjahr 2012 abgeschlossen sein soll. Im Rahmen dieses Umbaus wird die Schleppkurve abermals vergrÃ¶ÃŸert.
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle
+Nach dem Ereignis vom 13.04.2010 wurde durch den Infrastrukturbetreiber für den Eisenbahnverkehr eine Langsamfahrstelle (La) 20 km/h eingerichtet. Am 29.07.2010 fand eine Sonderverkehrsschau am BÜ 83 in km 261,414 statt. Teilnehmer waren Vertreter von Polizei, Straßen NRW, Eisenbahn-Bundesamt, Hochsauerlandkreis und DB Netz AG. Ergebnis dieser Verkehrsschau ist, dass die Landstraße 870 (r d B), aus Fahrtrichtung Giershagen kommend um 2,50 Meter zum Gleisbereich hin, aufgeweitet wurde. Dies ermöglicht nun das Aufstellen der LKW im Begegnungsfall und vergrößert nach Angaben der DB Netz AG die Schleppkurve. Außerdem wurden die Sichtverhältnisse durch Zurückschneiden der Vegetation verbessert. Des Weiteren wurde die Verkehrszeichen (VZ) 208 und VZ 308, StVO, zur Vorrangregelung gedreht und die Haltlinie, VZ 294, aus Fahrtrichtung Giershagen weiter entfernt vom BÜ markiert. Diese Maßnahmen wurden von allen Beteiligten für die beste und schnellstmöglich zu realisierenden Maßnahmen zur Gefahrenabwehr befunden. Der Infrastrukturbetreiber gab gegenüber der EUB an, dass der geplante Komplettumbau des Bahnübergangs im Frühjahr 2012 abgeschlossen sein soll. Im Rahmen dieses Umbaus wird die Schleppkurve abermals vergrößert.
 
 ---
 file: 068_Hagen-Vorhalle.txt
@@ -802,152 +802,152 @@ file: 068_Hagen-Vorhalle.txt
 Untersuchungsbericht Sonstige Entgleisung, 29.10.2014, Bf Hagen-Vorhalle  
 
 # Hergang des Unfalls  
-Am 29.10.2014 wurde um ca. 05:25 Uhr mit dem Zerlegen von Zug 51120 am Ablaufberg 1 des Bf Hagen-Vorhalle begonnen. Der Ablauf 5 bestand aus zwei leeren Rmms-Wagen mit den Wagennummern 31 80 3961 742-4 und 31 80 3961 499-1. Die Wagen waren fÃ¼r Zug EZ 52201 bestimmt, der im Zugbildungsgleis 643 zusammengestellt wurde. Nach dem AbdrÃ¼cken wurden die Wagen in der Talbremse und anschlieÃŸend in der Richtungsgleisbremse fÃ¼r Gleis 643 abgebremst. Vermutlich war der Bremsvorgang dabei so stark, dass die Wagen in der Richtungsgleisbremse fast zum Stehen gekommen sind. Nachfolgend war Ablauf 7 ebenfalls fÃ¼r Zug EZ 52201 vorgesehen. Dieser setzte sich zusammen aus einem leeren Wagen 31 80 3962 532-8 und einem beladenen Wagen 31 80 4865 582-9 mit einem Gesamtgewicht von 113 t. Nach vorliegender Wagenliste bestand fÃ¼r den beladenen Wagen Ablaufverbot. Bei dem Aufprall entgleiste der noch unmittelbar in der Richtungsgleisbremse befindliche Wagen 31 80 3961 742-4 mit der ersten Achse des vorderen Drehgestells. Diese Entgleisung wurde auch wÃ¤hrend der weiteren Arbeitsschritte im Rahmen der Zugbildung nicht bemerkt. Um ca. 23.37 Uhr erhielt der GÃ¼terzug EZ 52201, des EVU DB Schenker Rail AG, fÃ¼r die Fahrt von Bf Hagen-Vorlage nach Bf Kreuztal, Ausfahrt aus Gleis 643. Der zuvor entgleiste Wagen 31 80 3961 742-4 befand sich an 11. Stelle des Zuges. Die weitere Zugentgleisung ereignete sich bei der Ausfahrt des Zuges im anschlieÃŸenden Weichenbereich. Dabei entgleiste ein weiterer Wagen 31 80 3961 499-1 Rmms vollstÃ¤ndig, drei Wagen 31 80 4725 391-5 Snps-x, 31 80 3962 532-8 Rmms, 31 80 4865 582-9 Samms Ã¼berpufferten und wurden dabei beschÃ¤digt.  
+Am 29.10.2014 wurde um ca. 05:25 Uhr mit dem Zerlegen von Zug 51120 am Ablaufberg 1 des Bf Hagen-Vorhalle begonnen. Der Ablauf 5 bestand aus zwei leeren Rmms-Wagen mit den Wagennummern 31 80 3961 742-4 und 31 80 3961 499-1. Die Wagen waren für Zug EZ 52201 bestimmt, der im Zugbildungsgleis 643 zusammengestellt wurde. Nach dem Abdrücken wurden die Wagen in der Talbremse und anschließend in der Richtungsgleisbremse für Gleis 643 abgebremst. Vermutlich war der Bremsvorgang dabei so stark, dass die Wagen in der Richtungsgleisbremse fast zum Stehen gekommen sind. Nachfolgend war Ablauf 7 ebenfalls für Zug EZ 52201 vorgesehen. Dieser setzte sich zusammen aus einem leeren Wagen 31 80 3962 532-8 und einem beladenen Wagen 31 80 4865 582-9 mit einem Gesamtgewicht von 113 t. Nach vorliegender Wagenliste bestand für den beladenen Wagen Ablaufverbot. Bei dem Aufprall entgleiste der noch unmittelbar in der Richtungsgleisbremse befindliche Wagen 31 80 3961 742-4 mit der ersten Achse des vorderen Drehgestells. Diese Entgleisung wurde auch während der weiteren Arbeitsschritte im Rahmen der Zugbildung nicht bemerkt. Um ca. 23.37 Uhr erhielt der Güterzug EZ 52201, des EVU DB Schenker Rail AG, für die Fahrt von Bf Hagen-Vorlage nach Bf Kreuztal, Ausfahrt aus Gleis 643. Der zuvor entgleiste Wagen 31 80 3961 742-4 befand sich an 11. Stelle des Zuges. Die weitere Zugentgleisung ereignete sich bei der Ausfahrt des Zuges im anschließenden Weichenbereich. Dabei entgleiste ein weiterer Wagen 31 80 3961 499-1 Rmms vollständig, drei Wagen 31 80 4725 391-5 Snps-x, 31 80 3962 532-8 Rmms, 31 80 4865 582-9 Samms überpufferten und wurden dabei beschädigt.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
-PersonenschÃ¤den sind keine zu beklagen. Die SachschÃ¤den an Fahrzeugen, LST-Anlagen und Oberbau belaufen sich auf insgesamt ca. 30.000 â‚¬. Detaillierte Angaben liegen nicht vor.  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Personenschäden sind keine zu beklagen. Die Sachschäden an Fahrzeugen, LST-Anlagen und Oberbau belaufen sich auf insgesamt ca. 30.000 €. Detaillierte Angaben liegen nicht vor.  
 
 # Ursachen des Unfalls  
-Die Ursache der Zugentgleisung liegt in der vorherigen Entgleisung eines GÃ¼terwagens bereits in der Richtungsgleisbremse im Rahmen der Zugbildung. Ohne, dass die Entgleisung erkannt wurde, fuhr der Zug EZ 52201 aus Gleis 643 aus und entgleiste im anschlieÃŸenden Weichenbereich. PrimÃ¤re Ereignisursache fÃ¼r die Zugentgleisung von EZ 52201 war die Entgleisung des Wagens 3180 3961 742-4 bereits wÃ¤hrend der Zugbildung in der Richtungsgleisbremse fÃ¼r Gleis 643. Dies belegen Unfallspuren an der Gleisbremse und der FÃ¶rderanlage. Nach der Entgleisung wurde der verunfallte Wagen durch die automatische FÃ¶rderanlage an die bereits im Gleis 643 befindlichen Wagen beidrÃ¼ckt. Dabei wurden weitere Gleiskontakte sowie Teile des Oberbaus beschÃ¤digt.  
+Die Ursache der Zugentgleisung liegt in der vorherigen Entgleisung eines Güterwagens bereits in der Richtungsgleisbremse im Rahmen der Zugbildung. Ohne, dass die Entgleisung erkannt wurde, fuhr der Zug EZ 52201 aus Gleis 643 aus und entgleiste im anschließenden Weichenbereich. Primäre Ereignisursache für die Zugentgleisung von EZ 52201 war die Entgleisung des Wagens 3180 3961 742-4 bereits während der Zugbildung in der Richtungsgleisbremse für Gleis 643. Dies belegen Unfallspuren an der Gleisbremse und der Förderanlage. Nach der Entgleisung wurde der verunfallte Wagen durch die automatische Förderanlage an die bereits im Gleis 643 befindlichen Wagen beidrückt. Dabei wurden weitere Gleiskontakte sowie Teile des Oberbaus beschädigt.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
-Eine stÃ¤rkere ÃœberprÃ¼fung und Ãœberwachung der ArbeitsablÃ¤ufe im Ablaufbetrieb und der weiteren Zugbildung sind in Hagen-Vorhalle auch aufgrund der EreignishÃ¤ufigkeit zwingend geboten.
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+Eine stärkere Überprüfung und Überwachung der Arbeitsabläufe im Ablaufbetrieb und der weiteren Zugbildung sind in Hagen-Vorhalle auch aufgrund der Ereignishäufigkeit zwingend geboten.
 
 ---
 file: 113_Neumünster.txt
 
-GefÃ¤hrliches Ereignis im Eisenbahnbetrieb  
-Zugkollision, 25.05.2014, NeumÃ¼nster  
+Gefährliches Ereignis im Eisenbahnbetrieb  
+Zugkollision, 25.05.2014, Neumünster  
 
 # Hergang des Unfalls  
-Der Reisezug DPN 81869 verkehrte am 25.05.2014 auf der Strecke 1042 NeumÃ¼nster â€“ Heide(Holst) â€“ BÃ¼sum. Bei der planmÃ¤ÃŸigen Ankunft des Zuges im Bahnhof NeumÃ¼nster um 16:25 Uhr informierte ein Mitarbeiter der DB Netz AG den TriebfahrzeugfÃ¼hrer Ã¼ber eine starke Rauchentwicklung am Radsatz. Nach einer erfolgreichen BrandbekÃ¤mpfung an diesem Radsatz wurde ein abgetrennter Wellenschenkel am Rad 1R festgestellt. Das Fahrzeug war auf Grund des Schadens zuvor mit sicherungstechnischen Einrichtungen, wie Schienenkontakten und PZB-Magneten am Gleis kollidiert und hatte diese stark beschÃ¤digt.  
-Die erste Kollision erfolgte im Bahn-km 1,535 mit dem PZB-Magneten am Ãœberwachungssignal des BÃœ CarlstraÃŸe vor der Einfahrt in den Bahnhof NeumÃ¼nster. Nach der Schadensanalyse an Hand der Unfallspuren ist davon auszugehen, dass der Fahrzeugschaden, der zur Kollision mit den LST-Anlagen fÃ¼hrte, nach der Abfahrt aus dem Bahnhof BÃ¼sum entstand. Das Fahrzeug war nicht entgleist und wurde nach dem Ereignis zum Betriebsbahnhof nach NeumÃ¼nster SÃ¼d Ã¼berfÃ¼hrt.  
+Der Reisezug DPN 81869 verkehrte am 25.05.2014 auf der Strecke 1042 Neumünster – Heide(Holst) – Büsum. Bei der planmäßigen Ankunft des Zuges im Bahnhof Neumünster um 16:25 Uhr informierte ein Mitarbeiter der DB Netz AG den Triebfahrzeugführer über eine starke Rauchentwicklung am Radsatz. Nach einer erfolgreichen Brandbekämpfung an diesem Radsatz wurde ein abgetrennter Wellenschenkel am Rad 1R festgestellt. Das Fahrzeug war auf Grund des Schadens zuvor mit sicherungstechnischen Einrichtungen, wie Schienenkontakten und PZB-Magneten am Gleis kollidiert und hatte diese stark beschädigt.  
+Die erste Kollision erfolgte im Bahn-km 1,535 mit dem PZB-Magneten am Überwachungssignal des BÜ Carlstraße vor der Einfahrt in den Bahnhof Neumünster. Nach der Schadensanalyse an Hand der Unfallspuren ist davon auszugehen, dass der Fahrzeugschaden, der zur Kollision mit den LST-Anlagen führte, nach der Abfahrt aus dem Bahnhof Büsum entstand. Das Fahrzeug war nicht entgleist und wurde nach dem Ereignis zum Betriebsbahnhof nach Neumünster Süd überführt.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
 Todesopfer und Verletzte sind keine zu beklagen.  
-Die SachschÃ¤den setzen sich wie folgt zusammen:  
-- Triebfahrzeuge: ca. 80.000 â‚¬  
-- Leit- und Sicherungstechnik: ca. 5.000 â‚¬  
+Die Sachschäden setzen sich wie folgt zusammen:  
+- Triebfahrzeuge: ca. 80.000 €  
+- Leit- und Sicherungstechnik: ca. 5.000 €  
 - Betriebserschwernisse: keine Angaben  
 
 # Ursachen des Unfalls  
-Die StÃ¶rung am Fahrzeug wurde verursacht durch einen Montagefehler der Druckkappenverschraubung, der zu einem HeiÃŸlÃ¤ufer in Verbindung mit einem Abscheren eines Teils des Wellenschenkels am in Fahrtrichtung letzten Radsatz des Dieseltriebwagens VT 2.77, der Baureihe 648.4, fÃ¼hrte.  
-Trotz der Kenntnis eines mÃ¶glichen Montagefehlers an der Druckkappenverschraubung der Radsatzlager, wurde der Fahrzeughalter bzw. Fahrzeugbetreiber durch den Fahrzeughersteller nicht informiert.  
-Der Ausgangspunkt fÃ¼r die in deren Folge aufgetretenen SchÃ¤den am Radlager 1R war eine lose Druckkappenverschraubung. Im Lagerdeckel fanden sich die gelÃ¶sten Druckkappenverschraubungen, die Druckkappe, BruchstÃ¼cke der Bordscheibe und des Innenrings sowie eine Vielzahl von WÃ¤lzkÃ¶rpern des Ã¤uÃŸeren Lagers. Aufgrund der Hitzeeinwirkung war der LagerkÃ¤fig beider Lager verbrannt. Erkennbar war weiterhin, dass das innere Lager in der Folge blockierte und der Wellenschenkel im Innenring als Gleitlager mit groÃŸem Materialabtrag weiterlief. Der Ã¤uÃŸere Bereich des Wellenschenkels ist im GehÃ¤use ReibverschweiÃŸt. Der verbleibende Rest des Wellenschenkels hat sich in der Folge durch das RadsatzlagergehÃ¤use nach oben durchgeschliffen. Dadurch kam es zum Bruch des Lagerinnenrings und in deren Folge zum unkontrollierten Laufen der WÃ¤lzkÃ¶rper. Dies hatte zur Folge, dass die Bordscheibe gesprengt sowie die Befestigungsschrauben der Druckklappe abscherten.  
+Die Störung am Fahrzeug wurde verursacht durch einen Montagefehler der Druckkappenverschraubung, der zu einem Heißläufer in Verbindung mit einem Abscheren eines Teils des Wellenschenkels am in Fahrtrichtung letzten Radsatz des Dieseltriebwagens VT 2.77, der Baureihe 648.4, führte.  
+Trotz der Kenntnis eines möglichen Montagefehlers an der Druckkappenverschraubung der Radsatzlager, wurde der Fahrzeughalter bzw. Fahrzeugbetreiber durch den Fahrzeughersteller nicht informiert.  
+Der Ausgangspunkt für die in deren Folge aufgetretenen Schäden am Radlager 1R war eine lose Druckkappenverschraubung. Im Lagerdeckel fanden sich die gelösten Druckkappenverschraubungen, die Druckkappe, Bruchstücke der Bordscheibe und des Innenrings sowie eine Vielzahl von Wälzkörpern des äußeren Lagers. Aufgrund der Hitzeeinwirkung war der Lagerkäfig beider Lager verbrannt. Erkennbar war weiterhin, dass das innere Lager in der Folge blockierte und der Wellenschenkel im Innenring als Gleitlager mit großem Materialabtrag weiterlief. Der äußere Bereich des Wellenschenkels ist im Gehäuse Reibverschweißt. Der verbleibende Rest des Wellenschenkels hat sich in der Folge durch das Radsatzlagergehäuse nach oben durchgeschliffen. Dadurch kam es zum Bruch des Lagerinnenrings und in deren Folge zum unkontrollierten Laufen der Wälzkörper. Dies hatte zur Folge, dass die Bordscheibe gesprengt sowie die Befestigungsschrauben der Druckklappe abscherten.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
-Um zu vermeiden, dass auf Grund einer fehlerhaften Serie dieser RadsÃ¤tze Ã¤hnliche Probleme auftreten, wurden alle RadsÃ¤tze des Unfallfahrzeugs getauscht. AuÃŸerdem wurden alle anderen Fahrzeuge gleichen Typs nochmals Ã¼berprÃ¼ft.  
-Der Hersteller ALSTOM hatte bereits seit 2012 von losen Druckkappenverschraubungen in Radsatzlagern Kenntnis und veranlasste eine ÃœberprÃ¼fung aller betroffenen Fahrzeuge der Flotten 648.3 und 648.4. Die Nordbahn Eisenbahngesellschaft mbH & Co. KG (1 Fahrzeug) wurde jedoch nicht in diese ÃœberprÃ¼fung einbezogen. Die Fa. Alstom erklÃ¤rt dies mit der separaten Projektstruktur und rÃ¤umlich getrennten Einsatzorten.
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+Um zu vermeiden, dass auf Grund einer fehlerhaften Serie dieser Radsätze ähnliche Probleme auftreten, wurden alle Radsätze des Unfallfahrzeugs getauscht. Außerdem wurden alle anderen Fahrzeuge gleichen Typs nochmals überprüft.  
+Der Hersteller ALSTOM hatte bereits seit 2012 von losen Druckkappenverschraubungen in Radsatzlagern Kenntnis und veranlasste eine Überprüfung aller betroffenen Fahrzeuge der Flotten 648.3 und 648.4. Die Nordbahn Eisenbahngesellschaft mbH & Co. KG (1 Fahrzeug) wurde jedoch nicht in diese Überprüfung einbezogen. Die Fa. Alstom erklärt dies mit der separaten Projektstruktur und räumlich getrennten Einsatzorten.
 
 ---
 file: 034_Schlüchtern.txt
 
-Personenunfall, 12.11.2007, SchlÃ¼chtern
+Personenunfall, 12.11.2007, Schlüchtern
 
 # Hergang des Unfalls  
-Am 12.11.2007, um 13:23 Uhr, prallte die Zugfahrt ICE 75 (Laufweg: Hamburg â€“ ZÃ¼rich) bei der Durchfahrt im Bahnhof SchlÃ¼chtern, Gleis 204, etwa in km 75,2 auf eine von drei Personen. Die Gruppe fÃ¼hrte in planmÃ¤ÃŸigen Zugpausen SchweiÃŸarbeiten an der Weiche W 227 aus.  
-Am 12.11.2007, um 13:23 Uhr, erfasst die Zugfahrt ICE 75 (Laufweg: Hamburg Altona â€“ ZÃ¼rich HB, EVU: DB Fernverkehr, fÃ¼hrendes Fahrzeug: 401 581-4) bei der Durchfahrt im Bf SchlÃ¼chtern, Gleis 204, etwa in km 75,200, einen OberbauschweiÃŸer, aus einer an der spitz befahrenen Weiche W 227 arbeitenden Gruppe von 3 Personen.  
-Der Tf des ICE 75 berichtete um 13:23 Uhr, dass er im Bereich der Arbeitsstelle eine Person erfasst habe und den Notarzt verstÃ¤ndigen solle.  
-Bedingt durch den engen Gleisbogen, im Verlauf der Einfahrt auf Zwischensignal â€žS 271â€œ in den Bf SchlÃ¼chtern, war die Sicht des TriebfahrzeugfÃ¼hrers eingeschrÃ¤nkt. Die Arbeitsstelle an der W 227 war fÃ¼r ihn relativ spÃ¤t einsehbar.
+Am 12.11.2007, um 13:23 Uhr, prallte die Zugfahrt ICE 75 (Laufweg: Hamburg – Zürich) bei der Durchfahrt im Bahnhof Schlüchtern, Gleis 204, etwa in km 75,2 auf eine von drei Personen. Die Gruppe führte in planmäßigen Zugpausen Schweißarbeiten an der Weiche W 227 aus.  
+Am 12.11.2007, um 13:23 Uhr, erfasst die Zugfahrt ICE 75 (Laufweg: Hamburg Altona – Zürich HB, EVU: DB Fernverkehr, führendes Fahrzeug: 401 581-4) bei der Durchfahrt im Bf Schlüchtern, Gleis 204, etwa in km 75,200, einen Oberbauschweißer, aus einer an der spitz befahrenen Weiche W 227 arbeitenden Gruppe von 3 Personen.  
+Der Tf des ICE 75 berichtete um 13:23 Uhr, dass er im Bereich der Arbeitsstelle eine Person erfasst habe und den Notarzt verständigen solle.  
+Bedingt durch den engen Gleisbogen, im Verlauf der Einfahrt auf Zwischensignal "S 271" in den Bf Schlüchtern, war die Sicht des Triebfahrzeugführers eingeschränkt. Die Arbeitsstelle an der W 227 war für ihn relativ spät einsehbar.
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
-Eine Person wurde bei dem Ereignis getÃ¶tet, zwei Personen wurden schwer verletzt (Schockeinwirkung).  
-Die SachschÃ¤den an Eisenbahnfahrzeugen beliefen sich auf ca. 1.000 EUR.
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Eine Person wurde bei dem Ereignis getötet, zwei Personen wurden schwer verletzt (Schockeinwirkung).  
+Die Sachschäden an Eisenbahnfahrzeugen beliefen sich auf ca. 1.000 EUR.
 
 # Ursachen des Unfalls  
-Fehlverhalten Mitarbeiter, Fahrweg nicht gesichert (VerstoÃŸ gegen Ril 408.0472 Abschnitt 5 und Abschnitt 8).  
-Fahrwegsicherung mangelhaft, Vorbedingungen zur Fahrt nicht erfÃ¼llt â€“ Der Fahrdienstleiter erteilte die Zustimmung zur Fahrt fÃ¼r ICE 75, obwohl die Weiche 227 noch gesperrt war.  
-Es ist davon auszugehen, dass entweder der Selbststellbetrieb nicht ausgeschaltet oder die erforderlichen Merkhinweise und Sperren am Stelltisch durch den diensthabenden Fahrdienstleiter nicht angebracht waren. Es handelt sich um ein Fehlverhalten des Fahrdienstleiters durch VerstoÃŸ gegen Ril 408.0472 Abschn. 5 und Abschn. 8.
+Fehlverhalten Mitarbeiter, Fahrweg nicht gesichert (Verstoß gegen Ril 408.0472 Abschnitt 5 und Abschnitt 8).  
+Fahrwegsicherung mangelhaft, Vorbedingungen zur Fahrt nicht erfüllt – Der Fahrdienstleiter erteilte die Zustimmung zur Fahrt für ICE 75, obwohl die Weiche 227 noch gesperrt war.  
+Es ist davon auszugehen, dass entweder der Selbststellbetrieb nicht ausgeschaltet oder die erforderlichen Merkhinweise und Sperren am Stelltisch durch den diensthabenden Fahrdienstleiter nicht angebracht waren. Es handelt sich um ein Fehlverhalten des Fahrdienstleiters durch Verstoß gegen Ril 408.0472 Abschn. 5 und Abschn. 8.
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
-DB Netz: Personenbezogene MaÃŸnahme: ZurÃ¼ckziehen vom bisherigen Arbeitsplatz. Der Fahrdienstleiter wurde aufgrund des Ereignisses sofort von seinem bisherigen Arbeitsplatz zurÃ¼ckgezogen. Nach Mitteilung des Leiters der Ã¶rtlichen ProduktionsdurchfÃ¼hrung in Kassel wird der Mitarbeiter kÃ¼nftig nicht mehr als Fahrdienstleiter eingesetzt.
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+DB Netz: Personenbezogene Maßnahme: Zurückziehen vom bisherigen Arbeitsplatz. Der Fahrdienstleiter wurde aufgrund des Ereignisses sofort von seinem bisherigen Arbeitsplatz zurückgezogen. Nach Mitteilung des Leiters der örtlichen Produktionsdurchführung in Kassel wird der Mitarbeiter künftig nicht mehr als Fahrdienstleiter eingesetzt.
 
 ---
 file: 019_Braunschweig - Bad Harzburg.txt
 
-Zugkollision, Strecke Braunschweig â€“ Bad Harzburg am 20.01.2010
+Zugkollision, Strecke Braunschweig – Bad Harzburg am 20.01.2010
 
 # Hergang des Unfalls
-Am 20.01.2010 kollidierte um 7:37 Uhr die Regionalbahn 14955 auf der Strecke Braunschweig Hbf â€“ Bad Harzburg, zwischen der Abzweigstelle Leiferde und Braunschweig Hbf, im km 4,3, mit einem im Gleis stehenden Lkw.  
-Der Fahrer eines mit Getreide beladenen Lkw-Gespanns wollte im Ortsteil RÃ¼ningen auf das GelÃ¤nde der GetreidemÃ¼hle fahren. Da die Einfahrt durch ein geschlossenes Tor versperrt war, befuhr er gegen 07:30 Uhr den unmittelbar neben der Einfahrt befindlichen BahnÃ¼bergang im Kilometer 4,353. Zwischen den Schranken bog der Fahrer dann mit seinem Fahrzeug in Richtung Braunschweig ab und fuhr im Gleis weiter, um so die geschlossene Einfahrt zur GetreidemÃ¼hle zu umfahren. In etwa km 4,300 blieb der Lkw im Gleis stecken und blockierte beide Streckengleise. Der Fahrer verlieÃŸ daraufhin sein Fahrzeug, um Hilfe herbeizurufen. Kurz darauf nÃ¤herte sich aus Salgitter kommend die Regionalbahn 14955. Auf Grund von Dunkelheit und leichtem Nebel konnte der TriebfahrzeugfÃ¼hrer den im Gleis stehenden Lkw erst sehr spÃ¤t erkennen. Trotz eingeleiteter Schnellbremsung fuhr die Regionalbahn gegen 07:37 Uhr mit einer Geschwindigkeit von ca. 107 km/h auf den Lkw auf.
+Am 20.01.2010 kollidierte um 7:37 Uhr die Regionalbahn 14955 auf der Strecke Braunschweig Hbf – Bad Harzburg, zwischen der Abzweigstelle Leiferde und Braunschweig Hbf, im km 4,3, mit einem im Gleis stehenden Lkw.  
+Der Fahrer eines mit Getreide beladenen Lkw-Gespanns wollte im Ortsteil Rüningen auf das Gelände der Getreidemühle fahren. Da die Einfahrt durch ein geschlossenes Tor versperrt war, befuhr er gegen 07:30 Uhr den unmittelbar neben der Einfahrt befindlichen Bahnübergang im Kilometer 4,353. Zwischen den Schranken bog der Fahrer dann mit seinem Fahrzeug in Richtung Braunschweig ab und fuhr im Gleis weiter, um so die geschlossene Einfahrt zur Getreidemühle zu umfahren. In etwa km 4,300 blieb der Lkw im Gleis stecken und blockierte beide Streckengleise. Der Fahrer verließ daraufhin sein Fahrzeug, um Hilfe herbeizurufen. Kurz darauf näherte sich aus Salgitter kommend die Regionalbahn 14955. Auf Grund von Dunkelheit und leichtem Nebel konnte der Triebfahrzeugführer den im Gleis stehenden Lkw erst sehr spät erkennen. Trotz eingeleiteter Schnellbremsung fuhr die Regionalbahn gegen 07:37 Uhr mit einer Geschwindigkeit von ca. 107 km/h auf den Lkw auf.
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte
-In Folge der Kollision entgleiste die Regionalbahn. Der vordere Teil des zweiteiligen Triebwagens rutsche eine BÃ¶schung hinab und kam auf einem angrenzenden Feld zum Stehen. Hierbei wurden 3 der ca. 60 Insassen des Zuges schwer und 13 weitere Personen leicht verletzt. Der Triebwagen wurde durch den Aufprall stark beschÃ¤digt. Es liefen ca. 800 Liter Dieselkraftstoff aus und kontaminierten das Erdreich. An den Bahnanlagen entstand erheblicher Sachschaden. Der Lkw wurde bei der Kollision nahezu vÃ¶llig zerstÃ¶rt.  
-Durch die Deutsche Bahn AG wird der geschÃ¤tzte Sachschaden wie folgt beziffert:  
-- Schienenfahrzeuge: 1.200.000,00 â‚¬  
-- Bauliche Anlagen: 1.000.000,00 â‚¬  
-- Betriebserschwerniskosten: 26.945,00 â‚¬  
-- Sonstige SchÃ¤den der Bahn: 22.000,00 â‚¬  
-- Fahrzeuge Dritter: 15.000,00 â‚¬
+# Höhe des Schadens, Anzahl Tote und Verletzte
+In Folge der Kollision entgleiste die Regionalbahn. Der vordere Teil des zweiteiligen Triebwagens rutsche eine Böschung hinab und kam auf einem angrenzenden Feld zum Stehen. Hierbei wurden 3 der ca. 60 Insassen des Zuges schwer und 13 weitere Personen leicht verletzt. Der Triebwagen wurde durch den Aufprall stark beschädigt. Es liefen ca. 800 Liter Dieselkraftstoff aus und kontaminierten das Erdreich. An den Bahnanlagen entstand erheblicher Sachschaden. Der Lkw wurde bei der Kollision nahezu völlig zerstört.  
+Durch die Deutsche Bahn AG wird der geschätzte Sachschaden wie folgt beziffert:  
+- Schienenfahrzeuge: 1.200.000,00 €  
+- Bauliche Anlagen: 1.000.000,00 €  
+- Betriebserschwerniskosten: 26.945,00 €  
+- Sonstige Schäden der Bahn: 22.000,00 €  
+- Fahrzeuge Dritter: 15.000,00 €
 
 # Ursachen des Unfalls
-Der Fahrer des Lkw fuhr mit seinem Fahrzeug vom BahnÃ¼bergang in km 4,353 innerhalb des Gleises in Fahrtrichtung Braunschweig. Nach ca. 50 Meter Fahrt blieb der Lkw im Gleis stecken. Der TriebfahrzeugfÃ¼hrer der wenige Minuten spÃ¤ter herannahenden Regionalbahn konnte den Lkw im Gleis nicht rechtzeitig erkennen und seinen Zug anhalten. Daraufhin kam es zwangslÃ¤ufig zur Kollision.  
-Es liegen keine Anzeichen vor, dass betriebliche Fehlhandlungen das Ereignis begÃ¼nstigt haben kÃ¶nnten. Die Unfallursache ist zweifelsfrei auf das Fehlverhalten des Lkw-Fahrers zurÃ¼ckzufÃ¼hren.
+Der Fahrer des Lkw fuhr mit seinem Fahrzeug vom Bahnübergang in km 4,353 innerhalb des Gleises in Fahrtrichtung Braunschweig. Nach ca. 50 Meter Fahrt blieb der Lkw im Gleis stecken. Der Triebfahrzeugführer der wenige Minuten später herannahenden Regionalbahn konnte den Lkw im Gleis nicht rechtzeitig erkennen und seinen Zug anhalten. Daraufhin kam es zwangsläufig zur Kollision.  
+Es liegen keine Anzeichen vor, dass betriebliche Fehlhandlungen das Ereignis begünstigt haben könnten. Die Unfallursache ist zweifelsfrei auf das Fehlverhalten des Lkw-Fahrers zurückzuführen.
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle
-GemÃ¤ÃŸ Â§ 6 Eisenbahn-Unfalluntersuchungsverordnung (EUV) sowie Art. 25 Abs. 2 der Richtlinie 2004/49/EG erging am 29.01.2010 wie folgt tenorierte Sicherheitsempfehlung: â€žUm im Notfall eine zÃ¼gige und sichere Evakuierung von Reisenden zu gewÃ¤hrleisten, sollten die Anforderungen an die Notein- und Notausstiegfenster (NEA) der Komponentenzulassung: EBA 05 G 08A (10/05) sowie bauartgleiche NEA hinsichtlich FunktionsfÃ¤higkeit (Kennzeichnung, Handhabung und Verletzungsgefahr) Ã¼berprÃ¼ft werden.â€œ  
-Da sich die Ã¤uÃŸere Scheibe nicht gemÃ¤ÃŸ des Piktogramms herausdrÃ¼cken lieÃŸ, sind an dieser Stelle KorrekturmaÃŸnahmen angezeigt. Diese kÃ¶nnten von der grundsÃ¤tzlichen Ãœberarbeitung der Ã–ffnung der Ã¤uÃŸeren Scheibe inklusive Piktogramms bis zur Anpassung der Scheibenspannung nach vollstÃ¤ndiger Durchschlagung des roten Punktes reichen.  
-Die Piktogramme sollten durch eine zusÃ¤tzliche, kurze, mehrsprachige Handlungsanleitung der Form â€žScheibe vollstÃ¤ndig durchschlagenâ€œ konkretisiert werden.
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle
+Gemäß § 6 Eisenbahn-Unfalluntersuchungsverordnung (EUV) sowie Art. 25 Abs. 2 der Richtlinie 2004/49/EG erging am 29.01.2010 wie folgt tenorierte Sicherheitsempfehlung: "Um im Notfall eine zügige und sichere Evakuierung von Reisenden zu gewährleisten, sollten die Anforderungen an die Notein- und Notausstiegfenster (NEA) der Komponentenzulassung: EBA 05 G 08A (10/05) sowie bauartgleiche NEA hinsichtlich Funktionsfähigkeit (Kennzeichnung, Handhabung und Verletzungsgefahr) überprüft werden."  
+Da sich die äußere Scheibe nicht gemäß des Piktogramms herausdrücken ließ, sind an dieser Stelle Korrekturmaßnahmen angezeigt. Diese könnten von der grundsätzlichen Überarbeitung der Öffnung der äußeren Scheibe inklusive Piktogramms bis zur Anpassung der Scheibenspannung nach vollständiger Durchschlagung des roten Punktes reichen.  
+Die Piktogramme sollten durch eine zusätzliche, kurze, mehrsprachige Handlungsanleitung der Form "Scheibe vollständig durchschlagen" konkretisiert werden.
 
 ---
 file: 035_Rotenburg_Wümme.txt
 
-Zugentgleisung, 28.02.2007, Rotenburg/WÃ¼mme
+Zugentgleisung, 28.02.2007, Rotenburg/Wümme
 
 # Hergang des Unfalls  
-Am 28.02.2007 um 12:13 Uhr entgleiste der GÃ¼terzug FIR 51284 auf der Fahrt von Seelze nach Maschen Rbf bei der Durchfahrt im Bahnhof Rotenburg/WÃ¼mme, Gleis 2 mit dem 23. Wagen.  
-Am 28.02.2007 um 12:13 Uhr kam es bei der hauptsignalmÃ¤ÃŸigen Durchfahrt durch Gleis 2 etwa in km 280,4 (Einfahrbereich) zu einer Entgleisung des 23. Wagens des GÃ¼terzuges FIR 51284.  
+Am 28.02.2007 um 12:13 Uhr entgleiste der Güterzug FIR 51284 auf der Fahrt von Seelze nach Maschen Rbf bei der Durchfahrt im Bahnhof Rotenburg/Wümme, Gleis 2 mit dem 23. Wagen.  
+Am 28.02.2007 um 12:13 Uhr kam es bei der hauptsignalmäßigen Durchfahrt durch Gleis 2 etwa in km 280,4 (Einfahrbereich) zu einer Entgleisung des 23. Wagens des Güterzuges FIR 51284.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
-Ein sich im Bahnsteigbereich aufhaltender Bauarbeiter wurde wÃ¤hrend der Vorbeifahrt des FIR 51284 durch ein aufgewirbeltes Eisenteil getroffen und leicht verletzt.  
-Entstandene SachschÃ¤den:  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Ein sich im Bahnsteigbereich aufhaltender Bauarbeiter wurde während der Vorbeifahrt des FIR 51284 durch ein aufgewirbeltes Eisenteil getroffen und leicht verletzt.  
+Entstandene Sachschäden:  
 - Schienenfahrzeuge: 400.000 Euro  
 - Bauliche Anlagen: 1.160.000 Euro  
 - Sicherungs-/Telekommunikationsanlagen: 140.000 Euro  
 - Maschinen- u. elektrotechnische Anlagen: 520.000 Euro  
 - Betriebserschwerniskosten: 600.000 Euro  
-- Sonstige SachschÃ¤den der Bahn: 1.200.000 Euro  
-- Sonstige SachschÃ¤den Dritter: 50.000 Euro  
-Der Sachschaden wird auf Ã¼ber 4 Millionen Euro geschÃ¤tzt.  
+- Sonstige Sachschäden der Bahn: 1.200.000 Euro  
+- Sonstige Sachschäden Dritter: 50.000 Euro  
+Der Sachschaden wird auf über 4 Millionen Euro geschätzt.  
 
 # Ursachen des Unfalls  
-Die Zugentgleisung des Zuges FIR 51284 im Bf Rotenburg/WÃ¼mme ist zweifelsfrei auf einen HeiÃŸlÃ¤ufer bedingten Radsatzschenkelbruch am 23. Wagen zurÃ¼ck zu fÃ¼hren.  
-Bei der Demontage der Innenringe waren nur am vorderen Innenring WÃ¤rmerisse Ã¼ber den Umfang verteilt erkennbar. Sowohl der vordere als auch der hintere Innenring wiesen einen Gewaltbruch auf, der jeweils in der gleichen Ebene lag.  
-Die wÃ¤hrend des Betriebes erfolgten GewaltbrÃ¼che sind auf eine VorschÃ¤digung zurÃ¼ckzufÃ¼hren, die aufgrund des Schadbildes durch eine auÃŸergewÃ¶hnliche, schlagartige Belastung ausgelÃ¶st worden sein kÃ¶nnte.  
+Die Zugentgleisung des Zuges FIR 51284 im Bf Rotenburg/Wümme ist zweifelsfrei auf einen Heißläufer bedingten Radsatzschenkelbruch am 23. Wagen zurück zu führen.  
+Bei der Demontage der Innenringe waren nur am vorderen Innenring Wärmerisse über den Umfang verteilt erkennbar. Sowohl der vordere als auch der hintere Innenring wiesen einen Gewaltbruch auf, der jeweils in der gleichen Ebene lag.  
+Die während des Betriebes erfolgten Gewaltbrüche sind auf eine Vorschädigung zurückzuführen, die aufgrund des Schadbildes durch eine außergewöhnliche, schlagartige Belastung ausgelöst worden sein könnte.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
-Im Rahmen der Unfalluntersuchung wurde bereits im Jahr 2008 nachfolgende Sicherheitsempfehlung ausgesprochen: Unter BerÃ¼cksichtigung der Feststellungen im Rahmen der Unfalluntersuchung sowie der Erkenntnisse aus dem Gutachten der metallurgischen Untersuchung dÃ¼rften in Fachkreisen Ãœberlegungen anzustellen sein, ob und inwieweit der Abstand zwischen HeiÃŸlÃ¤uferortungsanlagen (HOA) optimiert werden kann bzw. muss, um dem Umstand sich relativ schnell entwickelnder HeiÃŸlÃ¤ufer wirkungsvoller begegnen zu kÃ¶nnen.  
-Die Verbesserung der Umsetzung der Sicherheitsmanagementsysteme unter der Verantwortung der Eisenbahnen und die Verbesserung der Umsetzung des GÃ¼terwageninstandhaltungssystems unter der Verantwortung der sog. Entities in Charge of Maintenance (ECM) stellen die maÃŸgeblichen MaÃŸnahmen zur Reduzierung des GÃ¼terzugentgleisungsrisikos in der europÃ¤ischen Union dar.
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+Im Rahmen der Unfalluntersuchung wurde bereits im Jahr 2008 nachfolgende Sicherheitsempfehlung ausgesprochen: Unter Berücksichtigung der Feststellungen im Rahmen der Unfalluntersuchung sowie der Erkenntnisse aus dem Gutachten der metallurgischen Untersuchung dürften in Fachkreisen Überlegungen anzustellen sein, ob und inwieweit der Abstand zwischen Heißläuferortungsanlagen (HOA) optimiert werden kann bzw. muss, um dem Umstand sich relativ schnell entwickelnder Heißläufer wirkungsvoller begegnen zu können.  
+Die Verbesserung der Umsetzung der Sicherheitsmanagementsysteme unter der Verantwortung der Eisenbahnen und die Verbesserung der Umsetzung des Güterwageninstandhaltungssystems unter der Verantwortung der sog. Entities in Charge of Maintenance (ECM) stellen die maßgeblichen Maßnahmen zur Reduzierung des Güterzugentgleisungsrisikos in der europäischen Union dar.
 
 ---
 file: 134_Hohenlimburg_-_Letmathe.txt
 
 Untersuchungsbericht
-Personenunfall, 07.04.2008, Hohenlimburg â€� Letmathe
+Personenunfall, 07.04.2008, Hohenlimburg � Letmathe
 
 # Hergang des Unfalls
-Am 07.04.2008 prallte gegen 04:10 Uhr die Zugfahrt 98520 des Eisenbahnverkehrsunternehmens (EVU) DB Netz AG, auf der Fahrt von Letmathe nach Dortmund-Kley, zwischen Letmathe und Hohenlimburg, auf eine Gruppe im Gleis arbeitender Mitarbeiter einer Gleisbauï¬�rma.  
-Nach Abschluss der Oberleitungsarbeiten beantragte der TriebfahrzeugfÃ¼hrer (Tf) des TVT beim Fdl Hohenlimburg die RÃ¼ckfahrt als Zug 98520. Der Fdl stellte daraufhin das Esig G191 und das Ausfahrsignal (Asig) P142 des Bahnhofs Letmathe sowie das Esig F034 auf Fahrt und lieÃŸ damit die Zugfahrt 98520 bis in den Bahnhof Hohenlimburg zu. Zu diesem Zeitpunkt waren die Gleise in Letmathe und Hohenlimburg noch immer gesperrt und zu Baugleisen erklÃ¤rt.  
+Am 07.04.2008 prallte gegen 04:10 Uhr die Zugfahrt 98520 des Eisenbahnverkehrsunternehmens (EVU) DB Netz AG, auf der Fahrt von Letmathe nach Dortmund-Kley, zwischen Letmathe und Hohenlimburg, auf eine Gruppe im Gleis arbeitender Mitarbeiter einer Gleisbau�rma.  
+Nach Abschluss der Oberleitungsarbeiten beantragte der Triebfahrzeugführer (Tf) des TVT beim Fdl Hohenlimburg die Rückfahrt als Zug 98520. Der Fdl stellte daraufhin das Esig G191 und das Ausfahrsignal (Asig) P142 des Bahnhofs Letmathe sowie das Esig F034 auf Fahrt und ließ damit die Zugfahrt 98520 bis in den Bahnhof Hohenlimburg zu. Zu diesem Zeitpunkt waren die Gleise in Letmathe und Hohenlimburg noch immer gesperrt und zu Baugleisen erklärt.  
 Als der Tf des TVT beim Durchfahren eines Rechtsbogens die in seinem Gleis arbeitenden Personen erkannte, leitete dieser bei einer Geschwindigkeit von ca. 62 km/h eine Schnellbremsung ein. Kurz darauf prallte der Zug mit einer Geschwindigkeit von ca. 59 km/h auf die Gruppe der Gleisbauarbeiter.
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte
-Bei dem Unfall wurde eine Person getÃ¶tet. AuÃŸerdem wurde eine Person schwer und zwei weitere Personen leicht verletzt.  
+# Höhe des Schadens, Anzahl Tote und Verletzte
+Bei dem Unfall wurde eine Person getötet. Außerdem wurde eine Person schwer und zwei weitere Personen leicht verletzt.  
 Anzahl  
 Tote: 1  
 schwer Verletzte: 1  
 leicht Verletzte: 2  
 Reisende: -  
 Mitarbeiter: -  
-DriÆ©e: -  
+DriƩe: -  
 Summe: 1 Toter, 1 schwer Verletzter, 2 leicht Verletzte.  
-Die geschÃ¤tzte HÃ¶he der SachschÃ¤den in Euro setzt sich wie folgt zusammen:  
-Betriebserschwernis: 1.000,00 â‚¬  
+Die geschätzte Höhe der Sachschäden in Euro setzt sich wie folgt zusammen:  
+Betriebserschwernis: 1.000,00 €  
 
 # Ursachen des Unfalls
-Die Ursache des Unfalls ist in einem Arbeitsfehler des Fahrdienstleiters (Fdl) Hohenlimburg begrÃ¼ndet. Dieser haÆ©e die Zugfahrt in das nach Betriebs- und Bauanweisung (Betra) gesperrte und zum Baugleis erklÃ¤rte Gleis Letmathe â€“ Hohenlimburg eingelassen.  
-Der Personenunfall am 07.04.2008 zwischen Letmathe und Hohenlimburg wurde verursacht durch das betriebliche Handeln des Fdl in Hohenlimburg im Zusammenhang mit der Zugfahrt 98520. Schwerwiegende VerstÃ¶ÃŸe gegen die betrieblichen Regeln im Umgang mit Gleissperrungen und Baugleisen fÃ¼hrten letztendlich zu dem Ereignis.
+Die Ursache des Unfalls ist in einem Arbeitsfehler des Fahrdienstleiters (Fdl) Hohenlimburg begründet. Dieser haƩe die Zugfahrt in das nach Betriebs- und Bauanweisung (Betra) gesperrte und zum Baugleis erklärte Gleis Letmathe – Hohenlimburg eingelassen.  
+Der Personenunfall am 07.04.2008 zwischen Letmathe und Hohenlimburg wurde verursacht durch das betriebliche Handeln des Fdl in Hohenlimburg im Zusammenhang mit der Zugfahrt 98520. Schwerwiegende Verstöße gegen die betrieblichen Regeln im Umgang mit Gleissperrungen und Baugleisen führten letztendlich zu dem Ereignis.
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle
 Es wurden keine Sicherheitsempfehlungen ausgesprochen.
 
 ---
@@ -956,27 +956,27 @@ file: 037_Montabaur_-_Limburg.txt
 Sonstiger Unfall im Eisenbahnbetrieb, 17.04.2010, Montabaur - Limburg
 
 # Hergang des Unfalls
-WÃ¤hrend der Fahrt durch den Dickheck Tunnel am 17.04.2010 Ã¶ffnete sich am Wagen 403 225-6 des ICE 105 das TÃ¼rblatt 1 R und riss aus der Halterung. Etwa zeitgleich befuhr ICE 612 den Tunnel in entgegen gesetzter Richtung auf dem Nachbargleis. Das abgerissene TÃ¼rblatt wurde schlieÃŸlich in km 93,7 gefunden.  
-Im ICE 105 bemerkte die Zugbegleiterin, dass sich die AuÃŸentÃ¼r 1R des Reisezugwagens in dem sie sich befand, Ã¶ffnete und wegschleuderte. Die Zugbegleiterin verstÃ¤ndigte den TriebfahrzeugfÃ¼hrer Ã¼ber Mobilfunk. Dieser leitete eine Bremsung ein und kam mit der Zugspitze des ICE 105 in km 97,2 zum Stehen. Nach dem Halt des Zuges wurden die Reisenden aus dem hinteren in den vorderen Zugteil evakuiert. Der ICE 105 wurde nach Limburg (Lahn) SÃ¼d an den Bahnsteig, Gleis 1, gefahren.  
-Im ICE 61 2 wurde unmittelbar nach Eintritt des Ereignisses die Notbremse betÃ¤tigt. Der Zug kam im Bahnhof Montabaur, durchgehendes Hauptgleis, zum Stehen und wurde an den Bahnsteig, Gleis 1, umgesetzt. Die Reisenden wurden aus dem beschÃ¤digten hinteren Zugteil in den vorderen Zugteil evakuiert und um 13:35 Uhr in Richtung KÃ¶ln weiterbefÃ¶rdert.
+Während der Fahrt durch den Dickheck Tunnel am 17.04.2010 öffnete sich am Wagen 403 225-6 des ICE 105 das Türblatt 1 R und riss aus der Halterung. Etwa zeitgleich befuhr ICE 612 den Tunnel in entgegen gesetzter Richtung auf dem Nachbargleis. Das abgerissene Türblatt wurde schließlich in km 93,7 gefunden.  
+Im ICE 105 bemerkte die Zugbegleiterin, dass sich die Außentür 1R des Reisezugwagens in dem sie sich befand, öffnete und wegschleuderte. Die Zugbegleiterin verständigte den Triebfahrzeugführer über Mobilfunk. Dieser leitete eine Bremsung ein und kam mit der Zugspitze des ICE 105 in km 97,2 zum Stehen. Nach dem Halt des Zuges wurden die Reisenden aus dem hinteren in den vorderen Zugteil evakuiert. Der ICE 105 wurde nach Limburg (Lahn) Süd an den Bahnsteig, Gleis 1, gefahren.  
+Im ICE 61 2 wurde unmittelbar nach Eintritt des Ereignisses die Notbremse betätigt. Der Zug kam im Bahnhof Montabaur, durchgehendes Hauptgleis, zum Stehen und wurde an den Bahnsteig, Gleis 1, umgesetzt. Die Reisenden wurden aus dem beschädigten hinteren Zugteil in den vorderen Zugteil evakuiert und um 13:35 Uhr in Richtung Köln weiterbefördert.
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte
-Im ICE 612 werden 5 Reisende und ein Mitarbeiter der Zuggastronomie durch den Aufprall der TÃ¼r auf die Scheiben des Bordbistrowagens (Glassplitter) leicht verletzt.  
-Die entstandenen SachschÃ¤den an Eisenbahnfahrzeugen und Infrastruktur betrugen ca. 1.615.000 Euro.
+# Höhe des Schadens, Anzahl Tote und Verletzte
+Im ICE 612 werden 5 Reisende und ein Mitarbeiter der Zuggastronomie durch den Aufprall der Tür auf die Scheiben des Bordbistrowagens (Glassplitter) leicht verletzt.  
+Die entstandenen Sachschäden an Eisenbahnfahrzeugen und Infrastruktur betrugen ca. 1.615.000 Euro.
 
 # Ursachen des Unfalls
-Aufgrund einer falsch eingestellten Koppelstange war die TÃ¼r 1R am Wagen 403 225-6 zwar geschlossen, jedoch nicht ordnungsgemÃ¤ÃŸ verriegelt und wurde durch die sich aufbauenden KrÃ¤fte im Tunnel bei der Begegnung der beiden ICE aus der Halterung gerissen.  
-Die Untersuchung des TÃ¼rblatts 1R des Wagens 403 225, ICE 3 (1. Bauserie) ergab, dass die Koppelstange der TÃ¼r zu kurz eingestellt und die Schlossschraube unsachgemÃ¤ÃŸ gesichert war. Die obere Kontermutter war lose und der Siegellack an oberer und unterer Kontermutter beschÃ¤digt.  
-Durch die fehlerhafte Einstellung im Rahmen der Instandhaltung konnte die mittlere und untere Drehfalle nicht durch die Klinken in Hauptraststellung verriegelt werden. Da die TÃ¼r nur an der oberen Drehfallenverriegelung mit einem Verriegelungskontrollschalter (VKS) ausgestattet ist und an dieser Stelle ordnungsgemÃ¤ÃŸ verriegelt war, wurde dieser Fehler durch den VKS nicht registriert und folglich nicht auf der MFA angezeigt. Durch die sich, insbesondere im Tunnel planmÃ¤ÃŸig aufbauenden KrÃ¤fte bei der Zugbegegnung in Kombination mit der reduzierten TÃ¼rhaltekraft im mittleren und unteren Bereich fÃ¼hrte dazu, dass die TÃ¼r herausgedrÃ¼ckt wurde und letztlich abriss.
+Aufgrund einer falsch eingestellten Koppelstange war die Tür 1R am Wagen 403 225-6 zwar geschlossen, jedoch nicht ordnungsgemäß verriegelt und wurde durch die sich aufbauenden Kräfte im Tunnel bei der Begegnung der beiden ICE aus der Halterung gerissen.  
+Die Untersuchung des Türblatts 1R des Wagens 403 225, ICE 3 (1. Bauserie) ergab, dass die Koppelstange der Tür zu kurz eingestellt und die Schlossschraube unsachgemäß gesichert war. Die obere Kontermutter war lose und der Siegellack an oberer und unterer Kontermutter beschädigt.  
+Durch die fehlerhafte Einstellung im Rahmen der Instandhaltung konnte die mittlere und untere Drehfalle nicht durch die Klinken in Hauptraststellung verriegelt werden. Da die Tür nur an der oberen Drehfallenverriegelung mit einem Verriegelungskontrollschalter (VKS) ausgestattet ist und an dieser Stelle ordnungsgemäß verriegelt war, wurde dieser Fehler durch den VKS nicht registriert und folglich nicht auf der MFA angezeigt. Durch die sich, insbesondere im Tunnel planmäßig aufbauenden Kräfte bei der Zugbegegnung in Kombination mit der reduzierten Türhaltekraft im mittleren und unteren Bereich führte dazu, dass die Tür herausgedrückt wurde und letztlich abriss.
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle
-Die Untersuchungen ergaben, dass das Ereignis auf einen Instandhaltungsfehler bei der Einstellung der Koppelstange an der TÃ¼r 1R zurÃ¼ckzufÃ¼hren war, der darÃ¼ber hinaus durch die an der TÃ¼r vorhandenen Ãœberwachungseinrichtungen nicht erkannt wurde.  
-Bei der GegenÃ¼berstellung der TÃ¼rschlieÃŸ- und zugehÃ¶rigen Ãœberwachungseinrichtungen wurden bei den ICE-Generationen folgende konstruktiven Unterschiede festgestellt:  
-- Bei der ICE 3 der 1. Bauserie besteht ein â€ždoppelter konstruktiver Schwachpunktâ€œ, da nur an einem Verriegelungspunkt die SchlieÃŸkraft unmittelbar durch einen Zylinder beaufschlagt wird und die mittelbare SchlieÃŸkraftÃ¼bertragung (Verriegelungspunkt 2 und 3) keiner Ãœberwachung unterliegt.  
-Da es sich bei den TÃ¼ren an HochgeschwindigkeitszÃ¼gen um sehr sensible, hochbeanspruchte, sicherheitsrelevante Bauteile handelt ist die ÃœberprÃ¼fung des Instandhaltungsregelwerkes einerseits, aber auch eine technische NachrÃ¼stung des ICE 3, 1. Bauserie angezeigt.  
-Im Nachgang des Ereignisses wurden unternehmensintern alle AuÃŸentÃ¼ren der im Betrieb eingesetzten ICE 3, Bauserie 1, einer ÃœberprÃ¼fung unterzogen. Bei der ÃœberprÃ¼fung wurden keine weiteren fehlerhaft eingestellten Koppelstangen festgestellt.  
-Nach dem Umbau der TÃ¼rverriegelungen der ICE 3, Bauserie 1, wurde die BetÃ¤tigung der untersten Verriegelungsnocke Ã¼ber einen separaten Druckluftzylinder erfolgen und durch einen eigenen Verriegelungskontrollschalter Ã¼berwacht.  
-ZusÃ¤tzlich wurden die gefahrenen Geschwindigkeiten auf bestimmten Tunnelstrecken vorÃ¼bergehend reduziert, bis die Nachbesserungen durchgefÃ¼hrt wurden.
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle
+Die Untersuchungen ergaben, dass das Ereignis auf einen Instandhaltungsfehler bei der Einstellung der Koppelstange an der Tür 1R zurückzuführen war, der darüber hinaus durch die an der Tür vorhandenen Überwachungseinrichtungen nicht erkannt wurde.  
+Bei der Gegenüberstellung der Türschließ- und zugehörigen Überwachungseinrichtungen wurden bei den ICE-Generationen folgende konstruktiven Unterschiede festgestellt:  
+- Bei der ICE 3 der 1. Bauserie besteht ein "doppelter konstruktiver Schwachpunkt", da nur an einem Verriegelungspunkt die Schließkraft unmittelbar durch einen Zylinder beaufschlagt wird und die mittelbare Schließkraftübertragung (Verriegelungspunkt 2 und 3) keiner Überwachung unterliegt.  
+Da es sich bei den Türen an Hochgeschwindigkeitszügen um sehr sensible, hochbeanspruchte, sicherheitsrelevante Bauteile handelt ist die Überprüfung des Instandhaltungsregelwerkes einerseits, aber auch eine technische Nachrüstung des ICE 3, 1. Bauserie angezeigt.  
+Im Nachgang des Ereignisses wurden unternehmensintern alle Außentüren der im Betrieb eingesetzten ICE 3, Bauserie 1, einer Überprüfung unterzogen. Bei der Überprüfung wurden keine weiteren fehlerhaft eingestellten Koppelstangen festgestellt.  
+Nach dem Umbau der Türverriegelungen der ICE 3, Bauserie 1, wurde die Betätigung der untersten Verriegelungsnocke über einen separaten Druckluftzylinder erfolgen und durch einen eigenen Verriegelungskontrollschalter überwacht.  
+Zusätzlich wurden die gefahrenen Geschwindigkeiten auf bestimmten Tunnelstrecken vorübergehend reduziert, bis die Nachbesserungen durchgeführt wurden.
 
 ---
 file: 149_Winterhausen.txt
@@ -984,63 +984,63 @@ file: 149_Winterhausen.txt
 Untersuchungsbericht Zugentgleisung, 25.07.2012, Winterhausen  
 
 # Hergang des Unfalls  
-Am 25.07.2012 gegen 09:15 Uhr entgleiste DGS 43101 auf der Fahrt von Wanne-Eickel nach Verona Quadrante Europa im Bahnhof (Bf) Winterhausen im Gleis 404 etwa in km 126,62 mit dem fÃ¼hrenden Drehgestell des zehnten Wagens.  
-Der TriebfahrzeugfÃ¼hrer (Tf) stellte einen leichten Druckverlust von ca. 0,2 â€“ 0,4 bar in der Hauptluftleitung sowie einen Ruck im Zugverband fest. Er leitete daraufhin eine Schnellbremsung ein und informierte den zustÃ¤ndigen Fahrdienstleiter Ochsenfurt. Infolge der eingeleiteten Schnellbremsung kam der Zug mit der Zugspitze im km 125,67 des durchgehenden Hauptgleises 404 im Bf Winterhausen zum Stehen. Bei der anschlieÃŸenden Untersuchung des Zuges stellte der Tf die Entgleisung des fÃ¼hrenden Drehgestells des zehnten Wagens fest.  
+Am 25.07.2012 gegen 09:15 Uhr entgleiste DGS 43101 auf der Fahrt von Wanne-Eickel nach Verona Quadrante Europa im Bahnhof (Bf) Winterhausen im Gleis 404 etwa in km 126,62 mit dem führenden Drehgestell des zehnten Wagens.  
+Der Triebfahrzeugführer (Tf) stellte einen leichten Druckverlust von ca. 0,2 – 0,4 bar in der Hauptluftleitung sowie einen Ruck im Zugverband fest. Er leitete daraufhin eine Schnellbremsung ein und informierte den zuständigen Fahrdienstleiter Ochsenfurt. Infolge der eingeleiteten Schnellbremsung kam der Zug mit der Zugspitze im km 125,67 des durchgehenden Hauptgleises 404 im Bf Winterhausen zum Stehen. Bei der anschließenden Untersuchung des Zuges stellte der Tf die Entgleisung des führenden Drehgestells des zehnten Wagens fest.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
-Der TriebfahrzeugfÃ¼hrer (Tf) wurde bei dem Ereignis leicht verletzt und erlitt einen Schock.  
-Bei dem Ereignis traten folgende PersonenschÃ¤den ein:  
-Anzahl Tote: â€“  
-Anzahl schwer Verletzte: â€“  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Der Triebfahrzeugführer (Tf) wurde bei dem Ereignis leicht verletzt und erlitt einen Schock.  
+Bei dem Ereignis traten folgende Personenschäden ein:  
+Anzahl Tote: –  
+Anzahl schwer Verletzte: –  
 Anzahl leicht Verletzte: 1 (Mitarbeiter)  
-Summe: â€“ Tote, â€“ schwer Verletzte, 1 leicht Verletzter.  
-Die geschÃ¤tzte HÃ¶he der SachschÃ¤den in Euro setzt sich wie folgt zusammen:  
+Summe: – Tote, – schwer Verletzte, 1 leicht Verletzter.  
+Die geschätzte Höhe der Sachschäden in Euro setzt sich wie folgt zusammen:  
 - Fahrzeuge: keine Angaben  
-- Infrastruktur: 500.000 â‚¬  
-- Dritter: 109.000 â‚¬  
-GesamtschadenshÃ¶he: 609.000 â‚¬  
+- Infrastruktur: 500.000 €  
+- Dritter: 109.000 €  
+Gesamtschadenshöhe: 609.000 €  
 
 # Ursachen des Unfalls  
-Die Entgleisung war auf einen Radscheibenbruch infolge thermischer Ãœberbeanspruchungen beim bisherigen Betriebseinsatz des Wagens zurÃ¼ckzufÃ¼hren.  
-Bei den verwendeten RÃ¤dern handelte es sich um thermostabile, klotzgebremste VollrÃ¤der mit einem Nennlaufkreisdurchmesser von 920 mm. Durch im Betriebseinsatz auftretende wiederholte Aufheiz- und AbkÃ¼hlungsvorgÃ¤nge wurden Zugeigenspannungen im Bereich der LaufflÃ¤che aufgebaut, die in Verbindung mit dem dort vorherrschenden sprÃ¶deren MischgefÃ¼ge zur Entstehung eines Netzwerkes von Thermorissen auf der LaufflÃ¤che fÃ¼hrten. Aufgrund der vorangegangenen thermischen Ãœberbeanspruchung entstand an den betroffenen RÃ¤dern auch in spÃ¤teren Schichten ein sprÃ¶des MischgefÃ¼ge, das zur radialen Ausbildung von Thermorissen von der LaufflÃ¤che beginnend in den Radkranz fÃ¼hrte. In der Folge konnte sich ein ausbreitungsfÃ¤higer ErmÃ¼dungsriss in der LaufflÃ¤che bilden, der senkrecht durch den Radkranz in den Radsteg hineinwuchs. Letztendlich verzweigte sich der Riss im Bereich des Spannungsmaximums im Radsteg und fÃ¼hrte zum Gewaltbruch des Rades und zum Herausbrechen eines Radsegmentes, das ca. ein Viertel des Radumfanges umfasste.  
+Die Entgleisung war auf einen Radscheibenbruch infolge thermischer Überbeanspruchungen beim bisherigen Betriebseinsatz des Wagens zurückzuführen.  
+Bei den verwendeten Rädern handelte es sich um thermostabile, klotzgebremste Vollräder mit einem Nennlaufkreisdurchmesser von 920 mm. Durch im Betriebseinsatz auftretende wiederholte Aufheiz- und Abkühlungsvorgänge wurden Zugeigenspannungen im Bereich der Lauffläche aufgebaut, die in Verbindung mit dem dort vorherrschenden spröderen Mischgefüge zur Entstehung eines Netzwerkes von Thermorissen auf der Lauffläche führten. Aufgrund der vorangegangenen thermischen Überbeanspruchung entstand an den betroffenen Rädern auch in späteren Schichten ein sprödes Mischgefüge, das zur radialen Ausbildung von Thermorissen von der Lauffläche beginnend in den Radkranz führte. In der Folge konnte sich ein ausbreitungsfähiger Ermüdungsriss in der Lauffläche bilden, der senkrecht durch den Radkranz in den Radsteg hineinwuchs. Letztendlich verzweigte sich der Riss im Bereich des Spannungsmaximums im Radsteg und führte zum Gewaltbruch des Rades und zum Herausbrechen eines Radsegmentes, das ca. ein Viertel des Radumfanges umfasste.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
 Es wurden keine Sicherheitsempfehlungen ausgesprochen.  
-Der Halter des Wagens, die AAE Ahaus AlstÃ¤tter Eisenbahn AG, Ã¼berprÃ¼fte infolge des Radbruchs des Wagens 33 68 4956 309-1 im Bf Winterhausen drei weitere RadsÃ¤tze mit Radscheiben aus der gleichen Materialcharge. Die zerstÃ¶rungsfreie PrÃ¼fung der Radscheiben erfolgte im Werk Knielfeld der Ã–sterreichischen Bundesbahnen. Die visuelle ÃœberprÃ¼fung sowie die Eigenspannungsmessung, die MagnetpulverrissprÃ¼fung, die UltraschallprÃ¼fung und die WirbelstromprÃ¼fung wurden ohne negativen Befund durchgefÃ¼hrt.
+Der Halter des Wagens, die AAE Ahaus Alstätter Eisenbahn AG, überprüfte infolge des Radbruchs des Wagens 33 68 4956 309-1 im Bf Winterhausen drei weitere Radsätze mit Radscheiben aus der gleichen Materialcharge. Die zerstörungsfreie Prüfung der Radscheiben erfolgte im Werk Knielfeld der Österreichischen Bundesbahnen. Die visuelle Überprüfung sowie die Eigenspannungsmessung, die Magnetpulverrissprüfung, die Ultraschallprüfung und die Wirbelstromprüfung wurden ohne negativen Befund durchgeführt.
 
 ---
 file: 079_Angern-Rogaetz.txt
 
-Zugkollision, 28.06.2014, Angern-RogÃ¤tz
+Zugkollision, 28.06.2014, Angern-Rogätz
 
 # Hergang des Unfalls
-Am 27.06.2014 fuhr der DGS 90968 im Auftrag des EVU HSL Logistik GmbH von Hamburg Bft Dradenau nach Hof Hbf. Nach Passieren des Bahnhofes Angern-RogÃ¤tz kam der Zug an einer Steigung zum Stehen und rollte zurÃ¼ck. Mit ca. 30 km/h fuhr der DGS 90968 Zug auf den DGS 95620 auf und rollte noch 40 m bis er zum Stehen kam. Ein bewusstes RÃ¼ckwÃ¤rtsfahren kann ausgeschlossen werden, da der Richtungsschalter laut Aufzeichnung in der Stellung â€žVorwÃ¤rtsâ€œ stand.  
+Am 27.06.2014 fuhr der DGS 90968 im Auftrag des EVU HSL Logistik GmbH von Hamburg Bft Dradenau nach Hof Hbf. Nach Passieren des Bahnhofes Angern-Rogätz kam der Zug an einer Steigung zum Stehen und rollte zurück. Mit ca. 30 km/h fuhr der DGS 90968 Zug auf den DGS 95620 auf und rollte noch 40 m bis er zum Stehen kam. Ein bewusstes Rückwärtsfahren kann ausgeschlossen werden, da der Richtungsschalter laut Aufzeichnung in der Stellung "Vorwärts" stand.  
 Legende  
-Fahrtrichtung DGS 90968 (ursprÃ¼nglich)  
-Fahrtrichtung DGS 90968 (rÃ¼ckwÃ¤rts)  
+Fahrtrichtung DGS 90968 (ursprünglich)  
+Fahrtrichtung DGS 90968 (rückwärts)  
 Fahrtrichtung DGS 95620  
 Unfallstelle  
 Standort Tfz DGS 90968 nach der Kollision  
-Abb. 8: Lageplan Bahnhof Angern-RogÃ¤tz  
+Abb. 8: Lageplan Bahnhof Angern-Rogätz  
 Quelle: DB, bearbeitet durch EUB  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte
-Todesopfer sind keine zu beklagen. Der TriebfahrzeugfÃ¼hrer des DGS 95620 (EVU: PRESS) wurde bei dem Ereignis leicht verletzt. Die SachschÃ¤den setzen sich wie folgt zusammen:  
-- DB Station & Service AG ca. 22.500 â‚¬  
-- DB Netz AG ca. 300.000 â‚¬  
-- HSL ca. 1.179.620 â‚¬  
-- Pressnitztalbahn ca. 1,9 bis 2,2 Mio â‚¬ (nur fÃ¼r die Lokomotive)  
-- UmweltschÃ¤den keine Angaben  
+# Höhe des Schadens, Anzahl Tote und Verletzte
+Todesopfer sind keine zu beklagen. Der Triebfahrzeugführer des DGS 95620 (EVU: PRESS) wurde bei dem Ereignis leicht verletzt. Die Sachschäden setzen sich wie folgt zusammen:  
+- DB Station & Service AG ca. 22.500 €  
+- DB Netz AG ca. 300.000 €  
+- HSL ca. 1.179.620 €  
+- Pressnitztalbahn ca. 1,9 bis 2,2 Mio € (nur für die Lokomotive)  
+- Umweltschäden keine Angaben  
 - Betriebserschwernisse keine Angaben  
 
 # Ursachen des Unfalls
-Die Zugfahrt DGS 90968 (EVU: HSL) kam am 28.06.2014 00:00 Uhr nach Durchfahrt des Bahnhofs Angern-RogÃ¤tz auf freier Strecke zum Stehen und rollte zurÃ¼ck. Die zurÃ¼ckrollende Zugfahrt kollidierte mit dem am haltzeigenden Ausfahrsignal des Bahnhofs Angern-RogÃ¤tz, Gleis 1, stehenden DGS 95620 (EVU: Press).  
-Die Ursache der Zugkollision mit anschlieÃŸender Entgleisung ist im Fehlverhalten des TriebfahrzeugfÃ¼hrers des DGS 90968 zu sehen. Dieser stand unter Einfluss von Alkohol und verstieÃŸ somit gegen die Bestimmungen der Richtlinien 492.0753, â€žTriebfahrzeuge fÃ¼hrenâ€œ und 132.0128, â€žArbeitsschutz und UnfallverhÃ¼tungâ€œ. In beiden Vorschriften ist der Genuss von Alkohol vor und nach Antritt der Arbeit strengstens untersagt.  
-Trotz seines alkoholisierten Zustandes war der TriebfahrzeugfÃ¼hrer in der Lage den Warnton der Sifa zu hÃ¶ren und so zu reagieren, dass es zu keiner Zwangsbremsung kam.  
+Die Zugfahrt DGS 90968 (EVU: HSL) kam am 28.06.2014 00:00 Uhr nach Durchfahrt des Bahnhofs Angern-Rogätz auf freier Strecke zum Stehen und rollte zurück. Die zurückrollende Zugfahrt kollidierte mit dem am haltzeigenden Ausfahrsignal des Bahnhofs Angern-Rogätz, Gleis 1, stehenden DGS 95620 (EVU: Press).  
+Die Ursache der Zugkollision mit anschließender Entgleisung ist im Fehlverhalten des Triebfahrzeugführers des DGS 90968 zu sehen. Dieser stand unter Einfluss von Alkohol und verstieß somit gegen die Bestimmungen der Richtlinien 492.0753, "Triebfahrzeuge führen" und 132.0128, "Arbeitsschutz und Unfallverhütung". In beiden Vorschriften ist der Genuss von Alkohol vor und nach Antritt der Arbeit strengstens untersagt.  
+Trotz seines alkoholisierten Zustandes war der Triebfahrzeugführer in der Lage den Warnton der Sifa zu hören und so zu reagieren, dass es zu keiner Zwangsbremsung kam.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle
-Die Untersuchung ergab, dass der TriebfahrzeugfÃ¼hrer des DGS 90968 unter Alkoholeinfluss stand und die Sicherheitsvorschriften verletzte. Es wird empfohlen, die Richtlinien zur VerhÃ¼tung von UnfÃ¤llen und die SicherheitsmaÃŸnahmen beim FÃ¼hren von Triebfahrzeugen streng zu beachten. Dazu gehÃ¶rt insbesondere die Einhaltung der Regelungen zur Alkoholverboten vor und nach der Arbeit sowie die regelmÃ¤ÃŸige ÃœberprÃ¼fung der Sicherheitsfahrschaltung (Sifa) und der Fahrdienstleiter.  
-ZusÃ¤tzlich wurde empfohlen, die Kunden-Lieferantenbeziehungen zwischen dem EVU HSL Logistik und der OLEG-mbH zu Ã¼berprÃ¼fen, um sicherzustellen, dass betriebsfremde Mitarbeiter entsprechend geschult und Ã¼berwacht werden.
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle
+Die Untersuchung ergab, dass der Triebfahrzeugführer des DGS 90968 unter Alkoholeinfluss stand und die Sicherheitsvorschriften verletzte. Es wird empfohlen, die Richtlinien zur Verhütung von Unfällen und die Sicherheitsmaßnahmen beim Führen von Triebfahrzeugen streng zu beachten. Dazu gehört insbesondere die Einhaltung der Regelungen zur Alkoholverboten vor und nach der Arbeit sowie die regelmäßige Überprüfung der Sicherheitsfahrschaltung (Sifa) und der Fahrdienstleiter.  
+Zusätzlich wurde empfohlen, die Kunden-Lieferantenbeziehungen zwischen dem EVU HSL Logistik und der OLEG-mbH zu überprüfen, um sicherzustellen, dass betriebsfremde Mitarbeiter entsprechend geschult und überwacht werden.
 
 ---
 file: 086_Offenburg_-_Gengenbach.txt
@@ -1048,74 +1048,74 @@ file: 086_Offenburg_-_Gengenbach.txt
 Zugentgleisung, 09.10.2015, Offenburg - Gengenbach
 
 # Hergang des Unfalls  
-Am 09.10.2015 um 12:10 Uhr Ã¼berpufferte bei der Ausfahrt aus dem Bf Gengenbach (Strecke 4250) der erste Wagen des IRE 4270 in der Weichenverbindung W802/W801. Der Zug kam in km 7,800 zum Halten. Das Regelgleis war zur Beseitigung eines Schienenfehlers zum Ereigniszeitpunkt gesperrt. Ab Gengenbach erfolgte die Fahrt im Gegengleis.  
+Am 09.10.2015 um 12:10 Uhr überpufferte bei der Ausfahrt aus dem Bf Gengenbach (Strecke 4250) der erste Wagen des IRE 4270 in der Weichenverbindung W802/W801. Der Zug kam in km 7,800 zum Halten. Das Regelgleis war zur Beseitigung eines Schienenfehlers zum Ereigniszeitpunkt gesperrt. Ab Gengenbach erfolgte die Fahrt im Gegengleis.  
 ...  
-Der Tf fuhr an, befreite sich aus der GeschwindigkeitsÃ¼berwachung und beschleunigte den IRE 4270 konstant auf eine Geschwindigkeit von ca. 130 km/h. Bei seiner Fahrt missachtete der Tf das fÃ¼r den Zug IRE 4270 gÃ¼ltige Hauptsignal (Ausfahrsignal P801) in km 8,924 in Verbindung mit dem in km 8,619 alleinstehenden Signal Zs 6. Er durchfuhr die Weichenverbindungen W802/W801 mit einer registrierten Geschwindigkeit von ca. 118 km/h. Die zulÃ¤ssige Geschwindigkeit in den Weichenverbindungen W802/W801 im Gleiswechselbetrieb betrÃ¤gt gemÃ¤ÃŸ VZG 60 km/h. Bei der Durchfahrt der Weichenverbindung W 802/W801 Ã¼berpufferte der zweite Wagen des IRE 4270 und kam ca. in km 7,800 durch eine eingeleitete Schnellbremsung des Tf zum Halten.  
+Der Tf fuhr an, befreite sich aus der Geschwindigkeitsüberwachung und beschleunigte den IRE 4270 konstant auf eine Geschwindigkeit von ca. 130 km/h. Bei seiner Fahrt missachtete der Tf das für den Zug IRE 4270 gültige Hauptsignal (Ausfahrsignal P801) in km 8,924 in Verbindung mit dem in km 8,619 alleinstehenden Signal Zs 6. Er durchfuhr die Weichenverbindungen W802/W801 mit einer registrierten Geschwindigkeit von ca. 118 km/h. Die zulässige Geschwindigkeit in den Weichenverbindungen W802/W801 im Gleiswechselbetrieb beträgt gemäß VZG 60 km/h. Bei der Durchfahrt der Weichenverbindung W 802/W801 überpufferte der zweite Wagen des IRE 4270 und kam ca. in km 7,800 durch eine eingeleitete Schnellbremsung des Tf zum Halten.  
 ...  
-Durch das plÃ¶tzliche Anwachsen der Seitenbeschleunigung (Ruck) wurde der Wagenkasten hin und her geschleudert. Als Ergebnis des zweiten Rucks landete dabei der rechte Puffer des zweiten Wagens auf dem Puffer des zuvor laufenden Steuerwagens.  
+Durch das plötzliche Anwachsen der Seitenbeschleunigung (Ruck) wurde der Wagenkasten hin und her geschleudert. Als Ergebnis des zweiten Rucks landete dabei der rechte Puffer des zweiten Wagens auf dem Puffer des zuvor laufenden Steuerwagens.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
 Durch das Ereignis wurden durch die DB Netz AG zuerst 2 Reisende als leicht verletzt gemeldet. Nach einer Befragung durch Bundespolizei meldeten sich insgesamt 7 Reisende als leicht verletzt und wurden zur weiteren Untersuchung in verschiedene Kliniken gebracht. Einige Personen standen zudem unter Schock.  
 ...  
-Die SachschÃ¤den setzen sich wie folgt zusammen:  
-- Steuerwagen ca. 200.000 â‚¬  
-- Dosto-Wagen ca. 43.000 â‚¬  
-- Betriebserschwernisse: Insgesamt wurden 10 ZÃ¼ge (9x Nahverkehr und 1x Fernverkehr) mit 101 Minuten verspÃ¤tet. Ein Zug des Fernverkehrs wurde Ã¼ber eine andere Strecke umgeleitet. 17 ZÃ¼ge des Nahverkehrs waren im Teilausfall und weitere 5 ZÃ¼ge waren im Ausfall. 12 ErsatzzÃ¼ge im SPNV wurden durchgefÃ¼hrt.  
+Die Sachschäden setzen sich wie folgt zusammen:  
+- Steuerwagen ca. 200.000 €  
+- Dosto-Wagen ca. 43.000 €  
+- Betriebserschwernisse: Insgesamt wurden 10 Züge (9x Nahverkehr und 1x Fernverkehr) mit 101 Minuten verspätet. Ein Zug des Fernverkehrs wurde über eine andere Strecke umgeleitet. 17 Züge des Nahverkehrs waren im Teilausfall und weitere 5 Züge waren im Ausfall. 12 Ersatzzüge im SPNV wurden durchgeführt.  
 
 # Ursachen des Unfalls  
-Ursache fÃ¼r die Ãœberpufferung des Wagens mit der Fz-Nr.: 508036-81037-4 ist die mangelnde Signalbeobachtung durch den Tf. Der Tf hatte die Signalstellung und das Zs 6 nicht rechtzeitig aufgenommen. Er bemerkte zu spÃ¤t, dass der Gleiswechselanzeiger (Zs 6) fÃ¼r seinen Zug GÃ¼ltigkeit hatte. Dadurch fuhr der IRE 4270 mit stark Ã¼berhÃ¶hter Geschwindigkeit in die Weichenverbindung W802/W801 und Ã¼berpufferte hierbei.  
+Ursache für die Überpufferung des Wagens mit der Fz-Nr.: 508036-81037-4 ist die mangelnde Signalbeobachtung durch den Tf. Der Tf hatte die Signalstellung und das Zs 6 nicht rechtzeitig aufgenommen. Er bemerkte zu spät, dass der Gleiswechselanzeiger (Zs 6) für seinen Zug Gültigkeit hatte. Dadurch fuhr der IRE 4270 mit stark überhöhter Geschwindigkeit in die Weichenverbindung W802/W801 und überpufferte hierbei.  
 ...  
-Die eingeleitete Schnellbremsung ist auf ein spÃ¤tes Erkennen des Signalbildes Hp 2 zurÃ¼ckzufÃ¼hren. Die Entgleisung und Ãœberpufferung ist auf einen Arbeitsfehler des Tf zurÃ¼ckzufÃ¼hren.  
+Die eingeleitete Schnellbremsung ist auf ein spätes Erkennen des Signalbildes Hp 2 zurückzuführen. Die Entgleisung und Überpufferung ist auf einen Arbeitsfehler des Tf zurückzuführen.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
 Der Tf wurde nach dem Ereignis bis auf weiteres nicht wieder eingesetzt. Erst nach erfolgter und erfolgreich absolvierter Nachschulung ist der Tf wieder im Dienst.
 
 ---
 file: 157_Tapfheim_-_Blindheim.txt
 
-GefÃ¤hrliches Ereignis im Eisenbahnbetrieb  
-Zugentgleisung, 02.08.2015, Tapfheim â€“ Blindheim  
+Gefährliches Ereignis im Eisenbahnbetrieb  
+Zugentgleisung, 02.08.2015, Tapfheim – Blindheim  
 
 # Hergang des Unfalls  
-Am 02.08.2015 gegen 05:06 Uhr entgleiste der Zug DGS 61970 auf der Fahrt von NÃ¼rnberg Ost nach TÃ¼bingen Gbf zwischen den BahnhÃ¶fen Tapfheim und Blindheim etwa in Kilometer 65,9.  
-Nach der Entgleisung fuhr die Schallschotterplaniere SSP 110 SW des Zuges in der Folge auf beiden Gleisen (zweispurig) weiter. Sie kam in Kilometer 67,1 quer Ã¼ber die Gleise 520 und 510 zum Stillstand.  
+Am 02.08.2015 gegen 05:06 Uhr entgleiste der Zug DGS 61970 auf der Fahrt von Nürnberg Ost nach Tübingen Gbf zwischen den Bahnhöfen Tapfheim und Blindheim etwa in Kilometer 65,9.  
+Nach der Entgleisung fuhr die Schallschotterplaniere SSP 110 SW des Zuges in der Folge auf beiden Gleisen (zweispurig) weiter. Sie kam in Kilometer 67,1 quer über die Gleise 520 und 510 zum Stillstand.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
-Bei dem Ereignis wurden keine Personen verletzt oder getÃ¶tet.  
-Die SchÃ¤den an der Infrastruktur und an der Schallschotterplaniere SSP 110 SW betrugen ca. 1.2 Millionen Euro, wobei die SchÃ¤den an der Infrastruktur (1.1 Millionen Euro) und an der Maschine (100.000 Euro) zusammengerechnet wurden.  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Bei dem Ereignis wurden keine Personen verletzt oder getötet.  
+Die Schäden an der Infrastruktur und an der Schallschotterplaniere SSP 110 SW betrugen ca. 1.2 Millionen Euro, wobei die Schäden an der Infrastruktur (1.1 Millionen Euro) und an der Maschine (100.000 Euro) zusammengerechnet wurden.  
 
 # Ursachen des Unfalls  
-Die Entgleisung war auf einen ErmÃ¼dungsbruch der hinteren Treibradsatzwelle der Schallschotterplaniere SSP 110 SW zurÃ¼ckzufÃ¼hren. Die Ursache lag in einem Materialmangel der Radsatzwelle, der durch eine geringfÃ¼gig unterschreitende Magnesiumkonzentration und eine unzureichende Zugfestigkeit des Werkstoffs verursacht wurde. Der Bruch entstand in einem durch Reibkorrosion geschÃ¤digten Bereich und fÃ¼hrte schlieÃŸlich zum Restgewaltbruch der Radsatzwelle.  
+Die Entgleisung war auf einen Ermüdungsbruch der hinteren Treibradsatzwelle der Schallschotterplaniere SSP 110 SW zurückzuführen. Die Ursache lag in einem Materialmangel der Radsatzwelle, der durch eine geringfügig unterschreitende Magnesiumkonzentration und eine unzureichende Zugfestigkeit des Werkstoffs verursacht wurde. Der Bruch entstand in einem durch Reibkorrosion geschädigten Bereich und führte schließlich zum Restgewaltbruch der Radsatzwelle.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
-Es wurden keine Sicherheitsempfehlungen ausgesprochen. Jedoch wurden nach der Untersuchung folgende MaÃŸnahmen durchgefÃ¼hrt:  
-- Eine ÃœberprÃ¼fung aller RadsÃ¤tze gleichartiger Fahrzeuge durch Swietelsky Baugesellschaft m.b.H. durchgefÃ¼hrt.  
-- Die Firma Deutsche Plasser Bahnbau Maschinen GmbH erhielt eine Serviceinformation zur UltraschallprÃ¼fung der Radsatzwellen sowie zur Austauschvorgaben nach maximal 6 Jahren oder 250.000 km Laufleistung.  
-- Eine neue PrÃ¼fverfahrensbeschreibung fÃ¼r die UltraschallprÃ¼fung der Radsatzwellen wurde von DB Systemtechnik GmbH erstellt.
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+Es wurden keine Sicherheitsempfehlungen ausgesprochen. Jedoch wurden nach der Untersuchung folgende Maßnahmen durchgeführt:  
+- Eine Überprüfung aller Radsätze gleichartiger Fahrzeuge durch Swietelsky Baugesellschaft m.b.H. durchgeführt.  
+- Die Firma Deutsche Plasser Bahnbau Maschinen GmbH erhielt eine Serviceinformation zur Ultraschallprüfung der Radsatzwellen sowie zur Austauschvorgaben nach maximal 6 Jahren oder 250.000 km Laufleistung.  
+- Eine neue Prüfverfahrensbeschreibung für die Ultraschallprüfung der Radsatzwellen wurde von DB Systemtechnik GmbH erstellt.
 
 ---
 file: 112_Neuwied.txt
 
 Fahrzeugbrand, 18.09.2014, Neuwied  
 # Hergang des Unfalls  
-Am 18.09.2014 wird der KT 51315 (Gremberg â€“ Mannheim Rbf) im Bf Neuwied wegen eines Brandes des 36. Wagens 23 87 436 228-9 gestellt. Der Brand entstand durch angebremste Bremsen, die an allen vier RadsÃ¤tzen einen Funkenflug verursachten. Ãœber den RadsÃ¤tzen 1 und 3 wurde das Bodenblech auf dem die Pkw-Reifen standen so stark erhitzt, dass die Reifen ihre SelbstentzÃ¼ndungstemperatur erreichten. Nach dem Halt des Zuges im Bf Neuwied, Gleis 071, versuchte der LokrangierfÃ¼hrer mit einem HandfeuerlÃ¶scher den Brand zu lÃ¶schen. Da dies nicht gelang, wurde der dahinter laufende Kesselwagen (mit Gefahrgut beladen) abgekuppelt, und der Zug wurde vorgezogen, um Schlimmeres zu verhindern.  
+Am 18.09.2014 wird der KT 51315 (Gremberg – Mannheim Rbf) im Bf Neuwied wegen eines Brandes des 36. Wagens 23 87 436 228-9 gestellt. Der Brand entstand durch angebremste Bremsen, die an allen vier Radsätzen einen Funkenflug verursachten. Über den Radsätzen 1 und 3 wurde das Bodenblech auf dem die Pkw-Reifen standen so stark erhitzt, dass die Reifen ihre Selbstentzündungstemperatur erreichten. Nach dem Halt des Zuges im Bf Neuwied, Gleis 071, versuchte der Lokrangierführer mit einem Handfeuerlöscher den Brand zu löschen. Da dies nicht gelang, wurde der dahinter laufende Kesselwagen (mit Gefahrgut beladen) abgekuppelt, und der Zug wurde vorgezogen, um Schlimmeres zu verhindern.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
 Personen wurden bei dem Fahrzeugbrand nicht verletzt. Der Schadensumfang setzt sich wie folgt zusammen:  
-- Autotransportwagen: ca. 31.500 â‚¬  
-- Elf Personenkraftwagen: ca. 150.000 â‚¬  
-- Oberleitung: ca. 3.750 â‚¬  
-- Betriebserschwernisse: ca. 60.070 â‚¬  
+- Autotransportwagen: ca. 31.500 €  
+- Elf Personenkraftwagen: ca. 150.000 €  
+- Oberleitung: ca. 3.750 €  
+- Betriebserschwernisse: ca. 60.070 €  
 
 # Ursachen des Unfalls  
-Der Brand wurde durch eine feste Bremse verursacht, die zu einem Funkenflug an allen vier RadsÃ¤tzen fÃ¼hrte. Die durch die feste Bremse verursachten hohen Temperaturen entzÃ¼ndeten die Pkw-Reifen, die auf den Bodenblechen Ã¼ber den RadsÃ¤tzen 1 und 3 platziert waren. Die Ursachen fÃ¼r die feste Bremse liegen in der fehlerhaften Einstellung des BremsgestÃ¤nges und erhÃ¶hten BremszylinderdrÃ¼cken, die wÃ¤hrend der Untersuchung festgestellt wurden. Die letzte Wartung des Fahrzeugs lag nur zwei Monate zurÃ¼ck, was den Instandhaltungszustand als ungenÃ¼gend bewertet wird.  
+Der Brand wurde durch eine feste Bremse verursacht, die zu einem Funkenflug an allen vier Radsätzen führte. Die durch die feste Bremse verursachten hohen Temperaturen entzündeten die Pkw-Reifen, die auf den Bodenblechen über den Radsätzen 1 und 3 platziert waren. Die Ursachen für die feste Bremse liegen in der fehlerhaften Einstellung des Bremsgestänges und erhöhten Bremszylinderdrücken, die während der Untersuchung festgestellt wurden. Die letzte Wartung des Fahrzeugs lag nur zwei Monate zurück, was den Instandhaltungszustand als ungenügend bewertet wird.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
-- PrÃ¼fung der Bremsanlagen und sicherstellung der korrekten Einstellung des BremsgestÃ¤nges.  
-- RegelmÃ¤ÃŸige ÃœberprÃ¼fung der BremszylinderdrÃ¼cke und ihrer KonformitÃ¤t mit den technischen Vorgaben.  
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+- Prüfung der Bremsanlagen und sicherstellung der korrekten Einstellung des Bremsgestänges.  
+- Regelmäßige Überprüfung der Bremszylinderdrücke und ihrer Konformität mit den technischen Vorgaben.  
 - Sicherstellung, dass Fahrzeuge den technischen Empfehlungen des UIC-Merkblattes 543-1 entsprechen.  
-- ErhÃ¶hung der Schwerpunkte auf die Instandhaltung von Bremsanlagen und deren FunktionstÃ¼chtigkeit.  
-- Dokumentation und Weitergabe der Untersuchungsergebnisse an die zustÃ¤ndigen Stellen (z. B. DB Schenker an den Fahrzeughalter STVA).
+- Erhöhung der Schwerpunkte auf die Instandhaltung von Bremsanlagen und deren Funktionstüchtigkeit.  
+- Dokumentation und Weitergabe der Untersuchungsergebnisse an die zuständigen Stellen (z. B. DB Schenker an den Fahrzeughalter STVA).
 
 ---
 file: 058_Maschen Rbf.txt
@@ -1123,37 +1123,37 @@ file: 058_Maschen Rbf.txt
 Zugentgleisung, 20.03.2014, Maschen Rbf
 
 # Hergang des Unfalls  
-Am 20.03.2014 fuhr DGV 93505 aus Gleis 2472 des Bf Maschen Rbf auf Hauptsignal (Hp 2), in Richtung Hamburg-Harburg. Der 36,5 m lange Zug, bestehend aus einem fÃ¼hrenden Gleiskraftwagen SKL 26, drei folgenden GleiskraftwagenanhÃ¤ngern Kla 03 und einem den Zugschluss bildenden Gleiskraftwagen Klv 53, war dazu kurz zuvor in Gleis 2472 mit den fahrzeugeigenen KrÃ¤nen von den TriebfahrzeugfÃ¼hrern (Tf) mit sechs Langschienen S 54 (LÃ¤nge 30m) beladen worden. Die Langschienen wurden in zwei Lagen zu je drei Schienen auf den Ã¤uÃŸerst rechten Seiten der Fahrzeuge verstaut. Nachdem der Tf den Abschluss der Zugvorbereitung an den Fahrdienstleiter gemeldet hatte, erteilte dieser seine Zustimmung zur Abfahrt des Zuges mittels Signal Hp 2 bzw. Signal Sh 1 (Fahrverbot aufgehoben). Unmittelbar nach Beginn der Zugfahrt entgleiste der erste Wagen hinter dem fÃ¼hrenden SKL 26 im ersten Rechtsbogen des Gleises 2472 vor der Weiche 2635 mit beiden RadsÃ¤tzen nach links. Nach der eingeleiteten Schnellbremsung kam der Zug mit seiner Spitze ca. 50 m nach den ersten Entgleisungsspuren, kurz hinter Weiche 2635, zum Stillstand.
+Am 20.03.2014 fuhr DGV 93505 aus Gleis 2472 des Bf Maschen Rbf auf Hauptsignal (Hp 2), in Richtung Hamburg-Harburg. Der 36,5 m lange Zug, bestehend aus einem führenden Gleiskraftwagen SKL 26, drei folgenden Gleiskraftwagenanhängern Kla 03 und einem den Zugschluss bildenden Gleiskraftwagen Klv 53, war dazu kurz zuvor in Gleis 2472 mit den fahrzeugeigenen Kränen von den Triebfahrzeugführern (Tf) mit sechs Langschienen S 54 (Länge 30m) beladen worden. Die Langschienen wurden in zwei Lagen zu je drei Schienen auf den äußerst rechten Seiten der Fahrzeuge verstaut. Nachdem der Tf den Abschluss der Zugvorbereitung an den Fahrdienstleiter gemeldet hatte, erteilte dieser seine Zustimmung zur Abfahrt des Zuges mittels Signal Hp 2 bzw. Signal Sh 1 (Fahrverbot aufgehoben). Unmittelbar nach Beginn der Zugfahrt entgleiste der erste Wagen hinter dem führenden SKL 26 im ersten Rechtsbogen des Gleises 2472 vor der Weiche 2635 mit beiden Radsätzen nach links. Nach der eingeleiteten Schnellbremsung kam der Zug mit seiner Spitze ca. 50 m nach den ersten Entgleisungsspuren, kurz hinter Weiche 2635, zum Stillstand.
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
-Todesopfer oder Verletzte sind nicht zu beklagen. An der Gleisanlage entstand ein Schaden von ca. 4000 Euro, am entgleisten Wagen des EVU Die-Lei GmbH ein Schaden in HÃ¶he von ca. 1.200 Euro.
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Todesopfer oder Verletzte sind nicht zu beklagen. An der Gleisanlage entstand ein Schaden von ca. 4000 Euro, am entgleisten Wagen des EVU Die-Lei GmbH ein Schaden in Höhe von ca. 1.200 Euro.
 
 # Ursachen des Unfalls  
-Der Zug mit einer GesamtlÃ¤nge von 36,5m war mit sechs Langschienen S 54 beladen. Die 30m langen Schienen reichten Ã¼ber die gesamte nutzbare LadelÃ¤nge des Fahrzeugverbands, alle LadeflÃ¤chen der Fahrzeuge waren eingebunden, was aufgrund der Verbiegesteifigkeit des Schienenpakets eine verminderte BogenlÃ¤ufigkeit des Zuges zur Folge hatte. Die Langschienen waren in Fahrtrichtung des Zuges gesehen auf der Ã¤uÃŸerst rechten Seite der LadeflÃ¤chen positioniert. Hierbei waren auf drei unten liegenden Schienen drei weitere aufgestapelt. Auf der gegenÃ¼berliegenden Seite der LadeflÃ¤chen war keine Ladung mit entsprechendem Gewicht verstaut, so dass eine einseitige Belastung der Fahrzeuge auf der rechten Seite anzunehmen ist. Der fÃ¼hrende SKL 26 hatte eine grÃ¶ÃŸere LadehÃ¶he als der ihm nachfolgende (entgleistete) Wagen. Folge hiervon war, dass neben der hÃ¶heren Belastung der rechten Fahrzeugseite eine unterschiedliche Belastung der RadsÃ¤tze dieses Wagens gegeben war.  
-Hauptursache fÃ¼r die Entgleisung war jedoch die ungleichmÃ¤ÃŸige Verladeweise der sechs Langschienen, die in zwei Lagen zu je drei Schienen auf der Ã¤uÃŸerst rechten Seite des ca. 36 m langen Zuges verladen waren. Damit lagen die 30 m langen Schienen Ã¼ber die gesamte nutzbare LadelÃ¤nge auf den LadeflÃ¤chen aller Fahrzeuge ganz oder teilweise auf. Weil auf der linken Seite der LadeflÃ¤chen keine Ladung mit entsprechendem Gewicht verstaut war, fÃ¼hrte die Art der Verladung zu einer einseitigen Belastung der rechten Fahrzeugseiten. Zwischen dem fÃ¼hrenden SKL 26 und dem ihm nachfolgenden AnhÃ¤nger Kla 03 gab es bauartbedingt einen HÃ¶henunterschied der LadeflÃ¤chen von ca. 15 cm. Durch diese LadehÃ¶henunterschied wurde der in Fahrtrichtung gesehene vordere rechte Teil des Kla 03 weniger belastet, da der Schienenstapel auf der hÃ¶heren LadeflÃ¤che des vorausfahrenden SKL abgestÃ¼tzt wurde. Dies fÃ¼hrte dazu, dass die hÃ¶here Last auf dem hinteren rechten Rad des Kla 03 ruhte, was zugleich eine Entlastung der linken RadsÃ¤tze, insbesondere des vorderen linken Rades nach sich zog. Weil die Langschienen zum Teil direkt auf den LadeflÃ¤chen der Fahrzeuge auflagen und auftretende QuerkrÃ¤fte kaum ausgeglichen werden konnten, wurde durch die hohe Biegesteifigkeit der Schienen eine Versteifung des gesamten Zugverbandes begÃ¼nstigt. Aufgrund dessen war die KurvenlÃ¤ufigkeit des Zuges stark eingeschrÃ¤nkt. Durch diese EinschrÃ¤nkung der KurvenlÃ¤ufigkeit wurden bei dem Befahren des Rechtsbogens QuerkrÃ¤fte frei, die den ersten Kla 03 nach links drÃ¼ckten. Die ungleiche Lastverteilung in Verbindung mit den nun im Rechtsbogen nach links auftretenden QuerkrÃ¤ften bewirkte, dass die SpurfÃ¼hrung der linken RadsÃ¤tze verloren ging, was letztlich zur Entgleisung des Wagens fÃ¼hrte.
+Der Zug mit einer Gesamtlänge von 36,5m war mit sechs Langschienen S 54 beladen. Die 30m langen Schienen reichten über die gesamte nutzbare Ladelänge des Fahrzeugverbands, alle Ladeflächen der Fahrzeuge waren eingebunden, was aufgrund der Verbiegesteifigkeit des Schienenpakets eine verminderte Bogenläufigkeit des Zuges zur Folge hatte. Die Langschienen waren in Fahrtrichtung des Zuges gesehen auf der äußerst rechten Seite der Ladeflächen positioniert. Hierbei waren auf drei unten liegenden Schienen drei weitere aufgestapelt. Auf der gegenüberliegenden Seite der Ladeflächen war keine Ladung mit entsprechendem Gewicht verstaut, so dass eine einseitige Belastung der Fahrzeuge auf der rechten Seite anzunehmen ist. Der führende SKL 26 hatte eine größere Ladehöhe als der ihm nachfolgende (entgleistete) Wagen. Folge hiervon war, dass neben der höheren Belastung der rechten Fahrzeugseite eine unterschiedliche Belastung der Radsätze dieses Wagens gegeben war.  
+Hauptursache für die Entgleisung war jedoch die ungleichmäßige Verladeweise der sechs Langschienen, die in zwei Lagen zu je drei Schienen auf der äußerst rechten Seite des ca. 36 m langen Zuges verladen waren. Damit lagen die 30 m langen Schienen über die gesamte nutzbare Ladelänge auf den Ladeflächen aller Fahrzeuge ganz oder teilweise auf. Weil auf der linken Seite der Ladeflächen keine Ladung mit entsprechendem Gewicht verstaut war, führte die Art der Verladung zu einer einseitigen Belastung der rechten Fahrzeugseiten. Zwischen dem führenden SKL 26 und dem ihm nachfolgenden Anhänger Kla 03 gab es bauartbedingt einen Höhenunterschied der Ladeflächen von ca. 15 cm. Durch diese Ladehöhenunterschied wurde der in Fahrtrichtung gesehene vordere rechte Teil des Kla 03 weniger belastet, da der Schienenstapel auf der höheren Ladefläche des vorausfahrenden SKL abgestützt wurde. Dies führte dazu, dass die höhere Last auf dem hinteren rechten Rad des Kla 03 ruhte, was zugleich eine Entlastung der linken Radsätze, insbesondere des vorderen linken Rades nach sich zog. Weil die Langschienen zum Teil direkt auf den Ladeflächen der Fahrzeuge auflagen und auftretende Querkräfte kaum ausgeglichen werden konnten, wurde durch die hohe Biegesteifigkeit der Schienen eine Versteifung des gesamten Zugverbandes begünstigt. Aufgrund dessen war die Kurvenläufigkeit des Zuges stark eingeschränkt. Durch diese Einschränkung der Kurvenläufigkeit wurden bei dem Befahren des Rechtsbogens Querkräfte frei, die den ersten Kla 03 nach links drückten. Die ungleiche Lastverteilung in Verbindung mit den nun im Rechtsbogen nach links auftretenden Querkräften bewirkte, dass die Spurführung der linken Radsätze verloren ging, was letztlich zur Entgleisung des Wagens führte.
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
-Nach der Entgleisung hat das EVU eine auf den 22.04.2014 datierte Betriebs- und Dienstanweisung Ã¼ber den Transport von Langschienen erstellt, die allerdings sehr allgemein formuliert ist. Auf Nachfrage der EUB gab das EVU hierzu an, dass eine Konkretisierung dieser Dienstanweisung auf Grundlage der UIC-Verladerichtlinien erfolgen und die Nachschulung der Mitarbeiter auf dieser Basis erfolgen werde. Weiter gab das EVU an, im Nachgang zu diesem gefÃ¤hrlichen Ereignis den Tf des fÃ¼hrenden SKL intern ausdrÃ¼cklich und mehrfach Ã¼ber die Vorschriftenlage zum Betrieb der PZB-Fahrzeugeinrichtung hingewiesen und arbeitsrechtlich abgemahnt zu haben. Beide beteiligten Tf seien mehrfach firmenintern Ã¼ber die Be- und Entladung von Fahrzeugen sowie Ladungssicherung belehrt worden. Weiter beabsichtigt die Firma Die-Lei, durch die VerstÃ¤rkung unangekÃ¼ndigter Ãœberwachungsfahrten derartige VorfÃ¤lle zu vermeiden.
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+Nach der Entgleisung hat das EVU eine auf den 22.04.2014 datierte Betriebs- und Dienstanweisung über den Transport von Langschienen erstellt, die allerdings sehr allgemein formuliert ist. Auf Nachfrage der EUB gab das EVU hierzu an, dass eine Konkretisierung dieser Dienstanweisung auf Grundlage der UIC-Verladerichtlinien erfolgen und die Nachschulung der Mitarbeiter auf dieser Basis erfolgen werde. Weiter gab das EVU an, im Nachgang zu diesem gefährlichen Ereignis den Tf des führenden SKL intern ausdrücklich und mehrfach über die Vorschriftenlage zum Betrieb der PZB-Fahrzeugeinrichtung hingewiesen und arbeitsrechtlich abgemahnt zu haben. Beide beteiligten Tf seien mehrfach firmenintern über die Be- und Entladung von Fahrzeugen sowie Ladungssicherung belehrt worden. Weiter beabsichtigt die Firma Die-Lei, durch die Verstärkung unangekündigter Überwachungsfahrten derartige Vorfälle zu vermeiden.
 
 ---
 file: 159_Bebra.txt
 
-GefÃ¤hrliches Ereignis im Eisenbahnbetrieb  
+Gefährliches Ereignis im Eisenbahnbetrieb  
 Zgentgleisung, 16.04.2012, Bebra  
 
 # Hergang des Unfalls  
-Am 16.04.2012 gegen 21:23 Uhr eingleiste der GÃ¼terzug DGS 75731 auf der Fahrt von Bremen Rbf nach Regensburg Ost im Bahnhof Bebra in km 2,69 mit den letzten fÃ¼nf von insgesamt 22 Autotransportwagen.  
-Der Zug bestand aus einem elektrischen Triebfahrzeug der Baureihe 185 und 22 beladenen Autotransportwagen. Die letzte fÃ¼f im Zuglauf laufenden GÃ¼terwagen eingleiste. Der Zug verkehrte in Bremsstellung P mit einem Gesamtbremsgewicht von 751 t und einem BremsvermÃ¶gen von 95 BremszÃ¼ge.  
-Bei der Untersuchung der Wagen wurde festgestellt, dass am letzten Wagen die in Fahrtrichtung liegende Tragfeder der ersten Achse gebrochen war. Dies fÃ¼hrte zu einer Entlastung des Radsatzes und einer Verringerung der Radauflastkraft Q, wodurch der Eingleisungskoeffizient Y/Q Ã¼berschritten wurde. Die Eingleisung wurde durch die Verwindung des Gleises im Bereich der Eingleisungsstelle und die Abnutzung des Schienenkopfes auf der BogenauÃŸenseite begÃ¼nstigt.  
+Am 16.04.2012 gegen 21:23 Uhr eingleiste der Güterzug DGS 75731 auf der Fahrt von Bremen Rbf nach Regensburg Ost im Bahnhof Bebra in km 2,69 mit den letzten fünf von insgesamt 22 Autotransportwagen.  
+Der Zug bestand aus einem elektrischen Triebfahrzeug der Baureihe 185 und 22 beladenen Autotransportwagen. Die letzte füf im Zuglauf laufenden Güterwagen eingleiste. Der Zug verkehrte in Bremsstellung P mit einem Gesamtbremsgewicht von 751 t und einem Bremsvermögen von 95 Bremszüge.  
+Bei der Untersuchung der Wagen wurde festgestellt, dass am letzten Wagen die in Fahrtrichtung liegende Tragfeder der ersten Achse gebrochen war. Dies führte zu einer Entlastung des Radsatzes und einer Verringerung der Radauflastkraft Q, wodurch der Eingleisungskoeffizient Y/Q überschritten wurde. Die Eingleisung wurde durch die Verwindung des Gleises im Bereich der Eingleisungsstelle und die Abnutzung des Schienenkopfes auf der Bogenaußenseite begünstigt.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
-Es wurden keine Personen verletzt oder getÃ¶tet. Es entstanden erhebliche SachschÃ¤den an der Infrastruktur und an den Fahrzeugen. Die geschÃ¤tzte HÃ¶he der SachschÃ¤den betrug 2.000.000 Euro.  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Es wurden keine Personen verletzt oder getötet. Es entstanden erhebliche Sachschäden an der Infrastruktur und an den Fahrzeugen. Die geschätzte Höhe der Sachschäden betrug 2.000.000 Euro.  
 
 # Ursachen des Unfalls  
-Die Eingleisung ist auf eine Entlastung des Radsatzes infolge eines Tragfederbruchs zurÃ¼ckzufÃ¼hren. Der Bruch der Tragfeder fÃ¼hrte zu einer Verringerung der Radauflastkraft Q. Die Verwindung des Gleises im Bereich der Eingleisungsstelle und die Abnutzung des Schienenkopfes auf der BogenauÃŸenseite begÃ¼nstigten die Eingleisung. Der Bruch der Tragfeder wurde durch fortschreitende RostschÃ¤den am Federblatt verursacht. Die konkrete Ursache fÃ¼r den Bruch konnte im Rahmen der Untersuchung nicht mehr festgestellt werden.  
+Die Eingleisung ist auf eine Entlastung des Radsatzes infolge eines Tragfederbruchs zurückzuführen. Der Bruch der Tragfeder führte zu einer Verringerung der Radauflastkraft Q. Die Verwindung des Gleises im Bereich der Eingleisungsstelle und die Abnutzung des Schienenkopfes auf der Bogenaußenseite begünstigten die Eingleisung. Der Bruch der Tragfeder wurde durch fortschreitende Rostschäden am Federblatt verursacht. Die konkrete Ursache für den Bruch konnte im Rahmen der Untersuchung nicht mehr festgestellt werden.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
-Es wurden keine Sicherheitsempfehlungen ausgesprochen. Die Untersuchung ergab keine Fehlfunktionen der Leit- und Sicherungstechnik, und die beteiligten Betriebspersonal waren grundsÃ¤tzlich befÃ¤higt und qualifiziert. Die SchadenshÃ¶he wurde auf 2.000.000 Euro geschÃ¤tzt, wobei keine weiteren MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle empfohlen wurden.
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+Es wurden keine Sicherheitsempfehlungen ausgesprochen. Die Untersuchung ergab keine Fehlfunktionen der Leit- und Sicherungstechnik, und die beteiligten Betriebspersonal waren grundsätzlich befähigt und qualifiziert. Die Schadenshöhe wurde auf 2.000.000 Euro geschätzt, wobei keine weiteren Maßnahmen zur Verhinderung zukünftiger Unfälle empfohlen wurden.
 
 ---
 file: 117_Laurenburg_Lahn.txt
@@ -1164,21 +1164,21 @@ Stand: 28.01.2019
 Version: 1.0  
 
 # Hergang des Unfalls  
-Am 28.09.2014 gegen 18:18 Uhr wurde der Zug DPN 25582 (Limburg (Lahn) â€“ Koblenz Hbf) in Laurenburg (Lahn) (VzG-Strecke 3710 Wetzlar â€“ Koblenz Hbf) mit dem Triebwagen VT 251 (Fahrzeugregisternummer 95 80 0648151-8) der Vectus Verkehrsgesellschaft mbH aufgrund Rauchentwicklung am ersten Drehgestell gestellt. Bei nÃ¤herer Untersuchung der Rauchentwicklung wurden Flammen unter dem Fahrzeug festgestellt und mit HandfeuerlÃ¶scher gelÃ¶scht. Das Drehgestell war durch den Schaden blockiert, eine Weiterfahrt des Fahrzeugs daher nicht mÃ¶glich. Der Triebwagen konnte erst am Folgetag nach Anbringen eines Hilfsdrehgestells aus eigener Kraft (zweiter Powerblock) in die Werkstatt nach Limburg (Lahn) fahren.  
+Am 28.09.2014 gegen 18:18 Uhr wurde der Zug DPN 25582 (Limburg (Lahn) – Koblenz Hbf) in Laurenburg (Lahn) (VzG-Strecke 3710 Wetzlar – Koblenz Hbf) mit dem Triebwagen VT 251 (Fahrzeugregisternummer 95 80 0648151-8) der Vectus Verkehrsgesellschaft mbH aufgrund Rauchentwicklung am ersten Drehgestell gestellt. Bei näherer Untersuchung der Rauchentwicklung wurden Flammen unter dem Fahrzeug festgestellt und mit Handfeuerlöscher gelöscht. Das Drehgestell war durch den Schaden blockiert, eine Weiterfahrt des Fahrzeugs daher nicht möglich. Der Triebwagen konnte erst am Folgetag nach Anbringen eines Hilfsdrehgestells aus eigener Kraft (zweiter Powerblock) in die Werkstatt nach Limburg (Lahn) fahren.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
-Todesopfer oder Verletzte sind keine zu beklagen. Die SachschÃ¤den setzen sich wie folgt zusammen:  
-- Triebfahrzeug: ca. 11.200 â‚¬  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Todesopfer oder Verletzte sind keine zu beklagen. Die Sachschäden setzen sich wie folgt zusammen:  
+- Triebfahrzeug: ca. 11.200 €  
 - Betriebserschwernisse: keine Angaben  
 
 # Ursachen des Unfalls  
-Als AuslÃ¶ser konnte ein Lagerschaden am rechten Radsatzlager der zweiten Achse des fÃ¼hrenden Drehgestells festgestellt werden. Der Lagerschaden wurde offenbar durch sich nacheinander aus den Gewinden lÃ¶sende Befestigungsschrauben der Druckkappe verursacht. Grund fÃ¼r das LÃ¶sen der Schrauben war vermutlich ein sich verminderndes Anzugs-Drehmoment der Schrauben aufgrund eines Montagefehlers (verminderte Vorspannung der Druckkappe durch Nachsetzung der Lagerinnenschalen).  
+Als Auslöser konnte ein Lagerschaden am rechten Radsatzlager der zweiten Achse des führenden Drehgestells festgestellt werden. Der Lagerschaden wurde offenbar durch sich nacheinander aus den Gewinden lösende Befestigungsschrauben der Druckkappe verursacht. Grund für das Lösen der Schrauben war vermutlich ein sich verminderndes Anzugs-Drehmoment der Schrauben aufgrund eines Montagefehlers (verminderte Vorspannung der Druckkappe durch Nachsetzung der Lagerinnenschalen).  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
-Bisher getroffene MaÃŸnahmen umfassen:  
-- Eine zusÃ¤tzliche MaÃŸnahme im DB-Werk Kassel, bei der Lagerinnenringe bei der Montage nachgesetzt werden, um deren richtigen Sitz auf der Radsatzwelle sicher zu gewÃ¤hrleisten. Dies verhindert, dass sich die Druckkappe auf die Lagerinnenringe abstÃ¼tzt statt bÃ¼ndig mit der Radsatzwelle verschraubt zu werden.  
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+Bisher getroffene Maßnahmen umfassen:  
+- Eine zusätzliche Maßnahme im DB-Werk Kassel, bei der Lagerinnenringe bei der Montage nachgesetzt werden, um deren richtigen Sitz auf der Radsatzwelle sicher zu gewährleisten. Dies verhindert, dass sich die Druckkappe auf die Lagerinnenringe abstützt statt bündig mit der Radsatzwelle verschraubt zu werden.  
 - Die Empfehlung des Herstellers Alstom, die Lagerinnenringe zu pressen, wurde ab August 2012 umgesetzt. Seit dieser Zeit sind an den betroffenen Fahrzeugen keine weiteren Probleme mehr aufgetreten.  
-- Die Fahrzeuge der Unterbaureihen 648.3 und 648.4 wurden Mitte 2012 vom Hersteller Ã¼berprÃ¼ft und entsprechende Hinweise an die Instandhaltungswerke der LINT-Baureihen herausgegeben.
+- Die Fahrzeuge der Unterbaureihen 648.3 und 648.4 wurden Mitte 2012 vom Hersteller überprüft und entsprechende Hinweise an die Instandhaltungswerke der LINT-Baureihen herausgegeben.
 
 ---
 file: 110_Eschhofen.txt
@@ -1188,113 +1188,113 @@ Zugentgleisung, 07.04.2015, Eschhofen
 Zugentgleisung, 07.04.2015, Eschhofen  
 
 # Hergang des Unfalls  
-Am 07.04.2015 gegen 11:23 Uhr entgleist der RB 15423 bei der Ausfahrt aus dem Bf Eschhofen mit dem nachlaufenden Drehgestell des Tfz in der Weiche 611. WÃ¤hrend der Fahrt von Limburg (Lahn) nach Frankfurt bricht zwischen den Betriebsstellen Limburg und Eschhofen am fÃ¼hrenden Triebfahrzeug 91 80 6143 021-4 in Laufrichtung am 3. Radsatz 276 1704 die Radsatzwelle. Nach dem planmÃ¤ÃŸigen Halt in Eschhofen kommt es bei der anschlieÃŸenden Weiterfahrt in der Weiche 611 des Bf Eschhofen bei einer Geschwindigkeit von ca. 40 km/h zur Entgleisung. Das Tfz kommt mit der Spitze in km 66,210 zum Stehen. Weitere Wagen entgleisen nicht.  
+Am 07.04.2015 gegen 11:23 Uhr entgleist der RB 15423 bei der Ausfahrt aus dem Bf Eschhofen mit dem nachlaufenden Drehgestell des Tfz in der Weiche 611. Während der Fahrt von Limburg (Lahn) nach Frankfurt bricht zwischen den Betriebsstellen Limburg und Eschhofen am führenden Triebfahrzeug 91 80 6143 021-4 in Laufrichtung am 3. Radsatz 276 1704 die Radsatzwelle. Nach dem planmäßigen Halt in Eschhofen kommt es bei der anschließenden Weiterfahrt in der Weiche 611 des Bf Eschhofen bei einer Geschwindigkeit von ca. 40 km/h zur Entgleisung. Das Tfz kommt mit der Spitze in km 66,210 zum Stehen. Weitere Wagen entgleisen nicht.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
-Ein Reisender wird leicht verletzt. Die SachschÃ¤den setzen sich wie folgt zusammen:  
-- Triebfahrzeug ca. 250.000 â‚¬  
-- Gleisanlage ca. 350.000 â‚¬  
-- Leit- und Sicherungstechnik ca. 1.500 â‚¬  
-- E/M-Technik ca. 1.800 â‚¬  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Ein Reisender wird leicht verletzt. Die Sachschäden setzen sich wie folgt zusammen:  
+- Triebfahrzeug ca. 250.000 €  
+- Gleisanlage ca. 350.000 €  
+- Leit- und Sicherungstechnik ca. 1.500 €  
+- E/M-Technik ca. 1.800 €  
 
 # Ursachen des Unfalls  
-Der Radsatzwellenbruch war die Folge eines fortgeschrittenen ErmÃ¼dungsrisses, der aufgrund von herstellungsbedingten LÃ¤ngstrennungen im Material (A4T) der Welle entstanden ist. Ã„hnliche Untersuchungsergebnisse wurden parallel bei zwei weiteren Radsatzwellen der BR 143 im Jahre 2003 und 2014 ermittelt. Die chemische Zusammensetzung des Werkstoffes erfÃ¼llte die Forderungen des UIC-Merkblattes 811-1 VE, jedoch enthielt das Merkblatt zu diesem Zeitpunkt keine Angaben zum Reinheitsgrad nach DIN EN 13261.  
+Der Radsatzwellenbruch war die Folge eines fortgeschrittenen Ermüdungsrisses, der aufgrund von herstellungsbedingten Längstrennungen im Material (A4T) der Welle entstanden ist. Ähnliche Untersuchungsergebnisse wurden parallel bei zwei weiteren Radsatzwellen der BR 143 im Jahre 2003 und 2014 ermittelt. Die chemische Zusammensetzung des Werkstoffes erfüllte die Forderungen des UIC-Merkblattes 811-1 VE, jedoch enthielt das Merkblatt zu diesem Zeitpunkt keine Angaben zum Reinheitsgrad nach DIN EN 13261.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
-- Die Weisung IW-P (S) 137/2015 ersetzt die IW-P (S) 422/2014, um Rissbildungen an der Radsatzwelle frÃ¼hzeitig zu erkennen.  
-- Eine Softwareanpassung erweitert den PrÃ¼fbereich und ermÃ¶glicht die PrÃ¼fung mit Axialeinschallung, wodurch zusÃ¤tzliche PrÃ¼fung nach IW-P 422/2014 Ã¼berflÃ¼ssig wird.  
-- Die Weisung W-R-012/2015 sensibilisiert das Triebfahrzeugpersonal fÃ¼r das Erkennen von RadsatzwellenbrÃ¼chen im laufenden Betrieb.  
-- Die DB Regio AG hat MaÃŸnahmen eingeleitet, um die PrÃ¼fung der Radsatzwellen zu verbessern, z. B. durch Testwellen mit Vergleichsreflektoren und neue PrÃ¼fprogramme.
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+- Die Weisung IW-P (S) 137/2015 ersetzt die IW-P (S) 422/2014, um Rissbildungen an der Radsatzwelle frühzeitig zu erkennen.  
+- Eine Softwareanpassung erweitert den Prüfbereich und ermöglicht die Prüfung mit Axialeinschallung, wodurch zusätzliche Prüfung nach IW-P 422/2014 überflüssig wird.  
+- Die Weisung W-R-012/2015 sensibilisiert das Triebfahrzeugpersonal für das Erkennen von Radsatzwellenbrüchen im laufenden Betrieb.  
+- Die DB Regio AG hat Maßnahmen eingeleitet, um die Prüfung der Radsatzwellen zu verbessern, z. B. durch Testwellen mit Vergleichsreflektoren und neue Prüfprogramme.
 
 ---
 file: 158_Neustadt_Aisch_-_Bad_Windsheim.txt
 
-GefÃ¤hrliches Ereignis im Eisenbahnbetrieb  
-BahnÃ¼bergangsfall, 07.03.2015, Neustadt (Aisch) â€“ Bad Windsheim  
+Gefährliches Ereignis im Eisenbahnbetrieb  
+Bahnübergangsfall, 07.03.2015, Neustadt (Aisch) – Bad Windsheim  
 
 # Hergang des Unfalls  
-Am 07.03.2015 um 21:52 Uhr prallte der Zug RB 58690 auf der Fahrt von Neustadt (Aisch) nach Bad Windsheim auf dem nicht technisch gesicherten BahnhÃ¶f (BÃœ) in Ipsheim im km 9,290 mit einem Personenkraftwagen (Pkw) zusammen. Der Fahrer des Pkw missachtete die Vorgabe des Schiebverkehrs und fuhr von links kommend in den BÃœ hinein.  
+Am 07.03.2015 um 21:52 Uhr prallte der Zug RB 58690 auf der Fahrt von Neustadt (Aisch) nach Bad Windsheim auf dem nicht technisch gesicherten Bahnhöf (BÜ) in Ipsheim im km 9,290 mit einem Personenkraftwagen (Pkw) zusammen. Der Fahrer des Pkw missachtete die Vorgabe des Schiebverkehrs und fuhr von links kommend in den BÜ hinein.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
-Drei Personen im Pkw wurden leicht verletzt. Es entstanden SachschÃ¤den in geschÃ¤tzter HÃ¶he von 22.500 Euro.  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Drei Personen im Pkw wurden leicht verletzt. Es entstanden Sachschäden in geschätzter Höhe von 22.500 Euro.  
 - **Anzahl Tote:** 0  
 - **Anzahl schwer Verletzte:** 0  
 - **Anzahl leicht Verletzte:** 3  
-- **SachschÃ¤den:** ca. 22.500 Euro  
+- **Sachschäden:** ca. 22.500 Euro  
 
 # Ursachen des Unfalls  
-Der Fahrer des Pkw missachtete die Vorgaben des Schiebverkehrs und fuhr von links kommend in den BÃœ hinein. Zudem wurde die zulÃ¤ssige Geschwindigkeit fÃ¼r StraÃŸenverkehrsteilnehmer am BÃœ (10 km/h) nicht eingehalten. Die Ursache wird auf die VerstÃ¶ÃŸe gegen die StraÃŸenverkehrsordnung (StVO) Â§ 19 â€žBahnhÃ¶feâ€œ sowie Â§ 41 â€žVorschriftzeichenâ€œ zurÃ¼ckgefÃ¼hrt.  
+Der Fahrer des Pkw missachtete die Vorgaben des Schiebverkehrs und fuhr von links kommend in den BÜ hinein. Zudem wurde die zulässige Geschwindigkeit für Straßenverkehrsteilnehmer am BÜ (10 km/h) nicht eingehalten. Die Ursache wird auf die Verstöße gegen die Straßenverkehrsordnung (StVO) § 19 "Bahnhöfe" sowie § 41 "Vorschriftzeichen" zurückgeführt.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
-Es wurden keine Sicherheitsempfehlungen ausgesprochen. Allerdings wurden folgende MaÃŸnahmen getroffen:  
-- Einer zusÃ¤tzlichen Warntafel fÃ¼r die Nutzer der KreisstraÃŸe NEA 35.  
-- Die Ausstattung des BÃœ mit einer technischen Sicherung ist fÃ¼r das Jahr 2024 geplant.  
-- In der Vergangenheit (19 Jahre vor dem Unfall) ereigneten sich elf BahnÃ¼bergangsunfÃ¤lle an diesem BÃœ, vier davon innerhalb der letzten sieben Monate. Die HÃ¤ufigkeit der UnfÃ¤lle deutet auf ein strukturelles Problem hin, das durch eine bessere Sichtbarkeit und klare GeschwindigkeitsbeschrÃ¤nkungen abzustellen wÃ¤re.
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+Es wurden keine Sicherheitsempfehlungen ausgesprochen. Allerdings wurden folgende Maßnahmen getroffen:  
+- Einer zusätzlichen Warntafel für die Nutzer der Kreisstraße NEA 35.  
+- Die Ausstattung des BÜ mit einer technischen Sicherung ist für das Jahr 2024 geplant.  
+- In der Vergangenheit (19 Jahre vor dem Unfall) ereigneten sich elf Bahnübergangsunfälle an diesem BÜ, vier davon innerhalb der letzten sieben Monate. Die Häufigkeit der Unfälle deutet auf ein strukturelles Problem hin, das durch eine bessere Sichtbarkeit und klare Geschwindigkeitsbeschränkungen abzustellen wäre.
 
 ---
 file: 144_Oberasbach_-_Anwanden.txt
 
-BahnÃ¼bergangsunfall, 21.05.2014, Oberasbach â€“ Anwanden
+Bahnübergangsunfall, 21.05.2014, Oberasbach – Anwanden
 
 # Hergang des Unfalls
-Am 21.05.2014 gegen 11:36 Uhr prallte Zug T 63511 als Triebfahrzeugleerfahrt auf der Fahrt von NÃ¼rnberg Rbf nach Ansbach auf dem technisch gesicherten BahnÃ¼bergang (BÃœ) zwischen den Haltepunkten (Hp) Oberasbach und Anwanden in km 9,406 mit einem LastkraÅŒwagen (Lkw) zusammen. Vor dem Ereignis staute sich der Verkehr am BÃœ Oberasbach, da der BÃœ fÃ¼r einen zuvor verkehrenden Zug gesichert war. Nachdem der Zug den BÃœ gerÃ¤umt haÆ©e, Ã¶ï¬€neten sich die Schranken und es fuhren zunÃ¤chst mehrere Fahrzeuge von der BachstraÃŸe Ã¼ber den BÃœ in Richtung RudolfstraÃŸe, darunter auch ein Bus und ein Lkw. Nachdem der Gegenverkehr den BÃœ passiert haÆ©e, holte der spÃ¤ter am Ereignis beteiligte Lkw in der RudolfstraÃŸe nach Zeugenaussagen zunÃ¤chst nach links aus, um dann nach rechts den BÃœ in Richtung BachstraÃŸe zu befahren. Als der Lkw das Blinklicht der BÃœSA passierte, war dieses noch nicht wieder eingeschaltet. Da es dem Fahrer des Lkw nicht gelang diesen in einem Zug Ã¼ber den BÃœ zu fahren, musste er anhalten und begann zu rangieren. WÃ¤hrend dieser RangiertÃ¤ÆŸgkeiten senkten sich die SchrankenbÃ¤ume und der Fahrer des Lkw konnte den BÃœ nicht mehr rÃ¤umen ohne die SchrankenbÃ¤ume abzureiÃŸen. Der auf dem AnhÃ¤nger auï¬‚iegende Schrankenbaum fÃ¼hrte zu einem Diagnoseeintrag Ã¼ber einen Langsamlauf beim SchlieÃŸen des Schrankenbaumes H2 im Ablaufspeicher der BÃœSA.
+Am 21.05.2014 gegen 11:36 Uhr prallte Zug T 63511 als Triebfahrzeugleerfahrt auf der Fahrt von Nürnberg Rbf nach Ansbach auf dem technisch gesicherten Bahnübergang (BÜ) zwischen den Haltepunkten (Hp) Oberasbach und Anwanden in km 9,406 mit einem LastkraŌwagen (Lkw) zusammen. Vor dem Ereignis staute sich der Verkehr am BÜ Oberasbach, da der BÜ für einen zuvor verkehrenden Zug gesichert war. Nachdem der Zug den BÜ geräumt haƩe, öffneten sich die Schranken und es fuhren zunächst mehrere Fahrzeuge von der Bachstraße über den BÜ in Richtung Rudolfstraße, darunter auch ein Bus und ein Lkw. Nachdem der Gegenverkehr den BÜ passiert haƩe, holte der später am Ereignis beteiligte Lkw in der Rudolfstraße nach Zeugenaussagen zunächst nach links aus, um dann nach rechts den BÜ in Richtung Bachstraße zu befahren. Als der Lkw das Blinklicht der BÜSA passierte, war dieses noch nicht wieder eingeschaltet. Da es dem Fahrer des Lkw nicht gelang diesen in einem Zug über den BÜ zu fahren, musste er anhalten und begann zu rangieren. Während dieser RangiertäƟgkeiten senkten sich die Schrankenbäume und der Fahrer des Lkw konnte den BÜ nicht mehr räumen ohne die Schrankenbäume abzureißen. Der auf dem Anhänger aufliegende Schrankenbaum führte zu einem Diagnoseeintrag über einen Langsamlauf beim Schließen des Schrankenbaumes H2 im Ablaufspeicher der BÜSA.
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte
-Bei dem Unfall wurde eine Person getÃ¶tet und eine Person leicht verletzt. Es entstand hoher Sachschaden. Die geschÃ¤tzte HÃ¶he der SachschÃ¤den in Euro setzt sich wie folgt zusammen: geschÃ¤tzte Kosten in Euro Fahrzeuge 539.658, Infrastruktur 207.073, DriÆ©e keine Angaben, GesamtschadenshÃ¶he 746.731.
+# Höhe des Schadens, Anzahl Tote und Verletzte
+Bei dem Unfall wurde eine Person getötet und eine Person leicht verletzt. Es entstand hoher Sachschaden. Die geschätzte Höhe der Sachschäden in Euro setzt sich wie folgt zusammen: geschätzte Kosten in Euro Fahrzeuge 539.658, Infrastruktur 207.073, DriƩe keine Angaben, Gesamtschadenshöhe 746.731.
 
 # Ursachen des Unfalls
-Der Lkw befuhr den BÃœ, obwohl dieser aufgrund der Ã¶rtlichen Gegebenheiten und der vorherrschenden VerkehrssituaÆŸon nicht zÃ¼gig zu rÃ¤umen war. In der Folge stand der Lkw auf dem BÃœ als sich die SchrankenbÃ¤ume senkten. FÃ¼r das Befahren des BÃœ durch den Lkw mit einer LÃ¤nge von mehr als 9 m waren im Bereich des BÃœ keine einschrÃ¤nkenden Verkehrssignalisierungen vorhanden. Aufgrund der Gestaltung des BÃœ und seiner ZufahrtsstraÃŸen war der BÃœ jedoch fÃ¼r die fahrgeometrischen Anforderungen von Fahrzeugen mit einer GesamtlÃ¤nge von mehr als 9 m nicht uneingeschrÃ¤nkt befahrbar. LÃ¤ngere Fahrzeuge konnten den BÃœ nur unter Ausnutzung der Gegenfahrbahn oder Rangierbewegungen Ã¼berqueren. DarÃ¼ber hinaus fÃ¼hrten SichteinschrÃ¤nkungen durch Pï¬‚anzenbewuchs in den Quadranten I und II dazu, dass entgegenkommender Verkehr nicht vor dem eigentlichen Befahren des BÃœ erkennbar war. Eine Gegenverkehrsregelung durch Lichtzeichenanlage oder Verkehrszeichen exisÆŸierte nicht. Verkehrsbedingt konnte der Fahrer des Lkw nicht weit genug nach links ausschwenken, um einen ausreichend groÃŸen Radius beim Befahren der Kurve zum BÃœ zu erreichen.
+Der Lkw befuhr den BÜ, obwohl dieser aufgrund der örtlichen Gegebenheiten und der vorherrschenden VerkehrssituaƟon nicht zügig zu räumen war. In der Folge stand der Lkw auf dem BÜ als sich die Schrankenbäume senkten. Für das Befahren des BÜ durch den Lkw mit einer Länge von mehr als 9 m waren im Bereich des BÜ keine einschränkenden Verkehrssignalisierungen vorhanden. Aufgrund der Gestaltung des BÜ und seiner Zufahrtsstraßen war der BÜ jedoch für die fahrgeometrischen Anforderungen von Fahrzeugen mit einer Gesamtlänge von mehr als 9 m nicht uneingeschränkt befahrbar. Längere Fahrzeuge konnten den BÜ nur unter Ausnutzung der Gegenfahrbahn oder Rangierbewegungen überqueren. Darüber hinaus führten Sichteinschränkungen durch Pflanzenbewuchs in den Quadranten I und II dazu, dass entgegenkommender Verkehr nicht vor dem eigentlichen Befahren des BÜ erkennbar war. Eine Gegenverkehrsregelung durch Lichtzeichenanlage oder Verkehrszeichen exisƟierte nicht. Verkehrsbedingt konnte der Fahrer des Lkw nicht weit genug nach links ausschwenken, um einen ausreichend großen Radius beim Befahren der Kurve zum BÜ zu erreichen.
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle
-Es wurden keine Sicherheitsempfehlungen ausgesprochen. Nach einer SonderbahnÃ¼bergangsschau am 28.05.2014 wurde der BÃœ fÃ¼r Fahrzeuge mit einer GesamtlÃ¤nge Ã¼ber 9 m gesperrt. Am Anfang der ZufahrtsstraÃŸen zum BÃœ wurden die entsprechenden Verkehrszeichen Nr. 266 (Verbot fÃ¼r Fahrzeuge Ã¼ber angegebene LÃ¤nge) mit der LÃ¤ngenangabe 9 m aufgestellt. Der landwirtschaÅŒliche Verkehr wurde vom Verbot ausgenommen. Der BÃœ Oberasbach wurde im Jahr 2015 zurÃ¼ckgebaut und durch eine EisenbahnÃ¼berfÃ¼hrung sowie eine FuÃŸgÃ¤ngerunterfÃ¼hrung ersetzt.
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle
+Es wurden keine Sicherheitsempfehlungen ausgesprochen. Nach einer Sonderbahnübergangsschau am 28.05.2014 wurde der BÜ für Fahrzeuge mit einer Gesamtlänge über 9 m gesperrt. Am Anfang der Zufahrtsstraßen zum BÜ wurden die entsprechenden Verkehrszeichen Nr. 266 (Verbot für Fahrzeuge über angegebene Länge) mit der Längenangabe 9 m aufgestellt. Der landwirtschaŌliche Verkehr wurde vom Verbot ausgenommen. Der BÜ Oberasbach wurde im Jahr 2015 zurückgebaut und durch eine Eisenbahnüberführung sowie eine Fußgängerunterführung ersetzt.
 
 ---
 file: 050_Bad Laasphe - Erndtebrück.txt
 
-BahnÃ¼bergangsunfall, 22.06.2013, Bad Laasphe - ErndtebrÃ¼ck  
+Bahnübergangsunfall, 22.06.2013, Bad Laasphe - Erndtebrück  
 Untersuchungsbericht der Eisenbahn-Unfalluntersuchungsstelle des Bundes  
 
 # Hergang des Unfalls  
-Am 22.06.2013 befuhr die Regionalbahn (RB) 23156 die Strecke 2870, Kreuztal - CÃ¶lbe, entgegen der Streckenkilometrierung mit dem Steuerwagen 928 244 voran. Gegen 9:28 Uhr nÃ¤herte sich der Zug kurz vor der Ortschaft SaÃŸmannshausen den BahnÃ¼bergÃ¤ngen (BÃœ) in km 47,418 und 47,010. Durch Befahren der Gleisschaltmittel wurden die BahnÃ¼bersicherungsanlagen (BÃœSA) der Bauart BUESS 2000-Bli-ÃœS eingeschaltet. Kurz bevor der Zug den zweiten BÃœ in km 47,010 erreichte, nÃ¤herte sich ein aus Richtung SaÃŸmannshausen kommender Lkw, der den BÃœ trotz eingeschalteter Blinklichter befuhr. Der TriebfahrzeugfÃ¼hrer (Tf) der RB 23156 erkannte den Lkw quasi im letzten Moment und leitete eine Schnellbremsung ein. Den folgenden Zusammenprall konnte er dadurch jedoch nicht mehr verhindern.  
+Am 22.06.2013 befuhr die Regionalbahn (RB) 23156 die Strecke 2870, Kreuztal - Cölbe, entgegen der Streckenkilometrierung mit dem Steuerwagen 928 244 voran. Gegen 9:28 Uhr näherte sich der Zug kurz vor der Ortschaft Saßmannshausen den Bahnübergängen (BÜ) in km 47,418 und 47,010. Durch Befahren der Gleisschaltmittel wurden die Bahnübersicherungsanlagen (BÜSA) der Bauart BUESS 2000-Bli-ÜS eingeschaltet. Kurz bevor der Zug den zweiten BÜ in km 47,010 erreichte, näherte sich ein aus Richtung Saßmannshausen kommender Lkw, der den BÜ trotz eingeschalteter Blinklichter befuhr. Der Triebfahrzeugführer (Tf) der RB 23156 erkannte den Lkw quasi im letzten Moment und leitete eine Schnellbremsung ein. Den folgenden Zusammenprall konnte er dadurch jedoch nicht mehr verhindern.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
-Der Fahrer des Lkw wurde bei dem Ereignis getÃ¶tet, der Tf wurde schwer verletzt und mittels Rettungshubschrauber ins Krankenhaus nach Siegen verbracht. Die 30 Reisenden des Zuges wurden leicht verletzt bzw. erlitten einen Schock. Sie wurden durch RettungskrÃ¤fte an der Unfallstelle medizinisch versorgt und betreut. Infolge des Zusammenpralls entgleiste der vordere Zugteil mit beiden Drehgestellen und stellte sich schrÃ¤g zur Fahrtrichtung. Der Lkw, ein Sattelgespann mit Kippauflieger, wurde in zwei Teile gerissen. Dabei verkeilte sich die Zugmaschine unter dem Reisezug und der Auflieger stÃ¼rzte um. Die HÃ¶he des gesamten Sachschadens wurde durch das EIU auf ca. 600.000,00 Euro geschÃ¤tzt.  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Der Fahrer des Lkw wurde bei dem Ereignis getötet, der Tf wurde schwer verletzt und mittels Rettungshubschrauber ins Krankenhaus nach Siegen verbracht. Die 30 Reisenden des Zuges wurden leicht verletzt bzw. erlitten einen Schock. Sie wurden durch Rettungskräfte an der Unfallstelle medizinisch versorgt und betreut. Infolge des Zusammenpralls entgleiste der vordere Zugteil mit beiden Drehgestellen und stellte sich schräg zur Fahrtrichtung. Der Lkw, ein Sattelgespann mit Kippauflieger, wurde in zwei Teile gerissen. Dabei verkeilte sich die Zugmaschine unter dem Reisezug und der Auflieger stürzte um. Die Höhe des gesamten Sachschadens wurde durch das EIU auf ca. 600.000,00 Euro geschätzt.  
 
 # Ursachen des Unfalls  
-Der Unfall wurde durch den Fahrer des Lkw verursacht. Dieser hatte den BÃœ trotz eingeschalteter Blinklichter mit seinem Fahrzeug befahren. Die BÃœSA der Bauart BUESS 2000-Bli-ÃœS funktionierte ordnungsgemÃ¤ÃŸ, die Blinklichter waren aktiv. Der Tf erkannte die Gefahr erst unmittelbar vor dem Zusammenprall und hatte keine MÃ¶glichkeit, das Ereignis abzuwenden oder die Folgen daraus zu mildern.  
+Der Unfall wurde durch den Fahrer des Lkw verursacht. Dieser hatte den BÜ trotz eingeschalteter Blinklichter mit seinem Fahrzeug befahren. Die BÜSA der Bauart BUESS 2000-Bli-ÜS funktionierte ordnungsgemäß, die Blinklichter waren aktiv. Der Tf erkannte die Gefahr erst unmittelbar vor dem Zusammenprall und hatte keine Möglichkeit, das Ereignis abzuwenden oder die Folgen daraus zu mildern.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
-Zum gegenwÃ¤rtigen Zeitpunkt laufen Bauarbeiten mit dem Ziel des Ausbaus und der Verlegung der BundesstraÃŸe 62 in nordÃ¶stliche Richtung. Damit werden die beiden BahnÃ¼bergÃ¤nge im Zuge der jetzigen B 62 in SaÃŸmannshausen beseitigt. In der Ortslage SaÃŸmannshausen ist zur Querung der Bahnstrecke ein neuer BÃœ in km 47,094 vorgesehen. Dieser wird kÃ¼nftig durch eine BÃœSA der Bauart BUESS 2000 LzH/F gesichert. Mit Abschluss der Bauarbeiten ist eine deutliche Verbesserung der Verkehrssicherheit bezÃ¼glich der hÃ¶hengleichen Kreuzung der Bahnstrecke 2870 im Bereich SaÃŸmannshausen zu erwarten.
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+Zum gegenwärtigen Zeitpunkt laufen Bauarbeiten mit dem Ziel des Ausbaus und der Verlegung der Bundesstraße 62 in nordöstliche Richtung. Damit werden die beiden Bahnübergänge im Zuge der jetzigen B 62 in Saßmannshausen beseitigt. In der Ortslage Saßmannshausen ist zur Querung der Bahnstrecke ein neuer BÜ in km 47,094 vorgesehen. Dieser wird künftig durch eine BÜSA der Bauart BUESS 2000 LzH/F gesichert. Mit Abschluss der Bauarbeiten ist eine deutliche Verbesserung der Verkehrssicherheit bezüglich der höhengleichen Kreuzung der Bahnstrecke 2870 im Bereich Saßmannshausen zu erwarten.
 
 ---
 file: 016_Lövenich-Horrem.txt
 
 Untersuchungsbericht
-Sonstiger Unfall im Eisenbahnbetrieb, LÃ¶venich-Horrem, 27.06.2009
+Sonstiger Unfall im Eisenbahnbetrieb, Lövenich-Horrem, 27.06.2009
 
 # Hergang des Unfalls
-Am 27.06.2009 um 20:25 Uhr kommt Regionalexpress (RE) 10132 aufgrund einer festen Bremse und hieraus resultierenden Rauchentwicklung im Fahrgastraum in km 13,8 zwischen KÃ¶ln-LÃ¶venich und Horrem auf der freien Strecke zum Stehen.  
-Anhand der Zeugenaussagen, der Auswertung der FunkgesprÃ¤che, der Fahrtverlaufsauswertungen sowie der EintrÃ¤ge in ZugmeldebÃ¼chern der beteiligten Stellwerke konnte folgender Unfallhergang rekonstruiert werden:  
-RE 10132 befand sich mit dem Steuerwagen voraus auf der Fahrt von Hamm (Westfalen) Hbf nach Aachen Hbf. Der letzte planmÃ¤ÃŸige Verkehrshalt vor dem Ereignis war KÃ¶ln-Ehrenfeld. Der Zug erreichte um 20:21 Uhr mit einer VerspÃ¤tung von 3 Minuten den Bahnhof KÃ¶ln-Ehrenfeld. Nach einem Halt von 50 Sekunden wurde die Zugfahrt mit dreiminÃ¼tiger VerspÃ¤tung fortgesetzt.  
-Im weiteren Fahrtverlauf erhielt der Tf auf dem FÃ¼hrerstand einen Notruf aus dem Wagenpark, den er zunÃ¤chst nicht eindeutig zuordnen konnte. Er erhielt hierdurch allerdings die Information, dass im Zug etwas nicht in Ordnung sei. Fast zur gleichen Zeit meldete sich ein mitreisender Polizist auf dem FÃ¼hrerstand, wies auf eine starke Rauchentwicklung hin und forderte den Tf auf, den Zug sofort anzuhalten.  
-Daraufhin leitete der Tf eine Betriebsbremsung ein und brachte den Zug an einer geeigneten Stelle, in der NÃ¤he des auf der parallel gefÃ¼hrten S-Bahnstrecke befindlichen Haltepunktes Frechen-KÃ¶nigsdorf in km 13,8 zum Halten.
+Am 27.06.2009 um 20:25 Uhr kommt Regionalexpress (RE) 10132 aufgrund einer festen Bremse und hieraus resultierenden Rauchentwicklung im Fahrgastraum in km 13,8 zwischen Köln-Lövenich und Horrem auf der freien Strecke zum Stehen.  
+Anhand der Zeugenaussagen, der Auswertung der Funkgespräche, der Fahrtverlaufsauswertungen sowie der Einträge in Zugmeldebüchern der beteiligten Stellwerke konnte folgender Unfallhergang rekonstruiert werden:  
+RE 10132 befand sich mit dem Steuerwagen voraus auf der Fahrt von Hamm (Westfalen) Hbf nach Aachen Hbf. Der letzte planmäßige Verkehrshalt vor dem Ereignis war Köln-Ehrenfeld. Der Zug erreichte um 20:21 Uhr mit einer Verspätung von 3 Minuten den Bahnhof Köln-Ehrenfeld. Nach einem Halt von 50 Sekunden wurde die Zugfahrt mit dreiminütiger Verspätung fortgesetzt.  
+Im weiteren Fahrtverlauf erhielt der Tf auf dem Führerstand einen Notruf aus dem Wagenpark, den er zunächst nicht eindeutig zuordnen konnte. Er erhielt hierdurch allerdings die Information, dass im Zug etwas nicht in Ordnung sei. Fast zur gleichen Zeit meldete sich ein mitreisender Polizist auf dem Führerstand, wies auf eine starke Rauchentwicklung hin und forderte den Tf auf, den Zug sofort anzuhalten.  
+Daraufhin leitete der Tf eine Betriebsbremsung ein und brachte den Zug an einer geeigneten Stelle, in der Nähe des auf der parallel geführten S-Bahnstrecke befindlichen Haltepunktes Frechen-Königsdorf in km 13,8 zum Halten.
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte
+# Höhe des Schadens, Anzahl Tote und Verletzte
 24 Reisende wurden leicht verletzt.  
-Die SachschÃ¤den setzen sich wie folgt zusammen:  
-- Schienenfahrzeuge: ca. 4.500 â‚¬  
-- Betriebserschwernisse: ca. 600 â‚¬  
+Die Sachschäden setzen sich wie folgt zusammen:  
+- Schienenfahrzeuge: ca. 4.500 €  
+- Betriebserschwernisse: ca. 600 €  
 
 # Ursachen des Unfalls
-Eine angelegte bzw. nicht vollstÃ¤ndig gelÃ¶ste Zusatzbremse des Steuerwagens hat zu dem Vorfall gefÃ¼hrt.  
-Es ist davon auszugehen, dass nach dem letzten planmÃ¤ÃŸigen Halt in KÃ¶ln-Ehrenfeld die Zusatzbremse nicht oder nicht vollstÃ¤ndig gelÃ¶st war.  
-Die indirekte Bremse sowie die Zusatzbremse wurden durch den Lehrstuhl und Institut fÃ¼r Schienenfahrzeuge und FÃ¶rdertechnik der RWTH Aachen einer FunktionsprÃ¼fung unterzogen. Beide Ã¼berprÃ¼ften Bremsen zeigten eine einwandfreie Funktion. Eine ÃœberprÃ¼fung der Funktionen mittels einer Bremsprobe ergab die einwandfreie FunktionalitÃ¤t sowohl der indirekten- als auch der Zusatzbremse. In der LÃ¶sestellung war ein hinreichendes Luftspiel zwischen Bremsscheibe und Bremsbelag vorhanden. Es wurde jedoch keine technische StÃ¶rung festgestellt, die den Vorfall verursacht hÃ¤tte.
+Eine angelegte bzw. nicht vollständig gelöste Zusatzbremse des Steuerwagens hat zu dem Vorfall geführt.  
+Es ist davon auszugehen, dass nach dem letzten planmäßigen Halt in Köln-Ehrenfeld die Zusatzbremse nicht oder nicht vollständig gelöst war.  
+Die indirekte Bremse sowie die Zusatzbremse wurden durch den Lehrstuhl und Institut für Schienenfahrzeuge und Fördertechnik der RWTH Aachen einer Funktionsprüfung unterzogen. Beide überprüften Bremsen zeigten eine einwandfreie Funktion. Eine Überprüfung der Funktionen mittels einer Bremsprobe ergab die einwandfreie Funktionalität sowohl der indirekten- als auch der Zusatzbremse. In der Lösestellung war ein hinreichendes Luftspiel zwischen Bremsscheibe und Bremsbelag vorhanden. Es wurde jedoch keine technische Störung festgestellt, die den Vorfall verursacht hätte.
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle
-1. Es sollte mindestens geprÃ¼ft werden, ob eine NachrÃ¼stung von Leuchtmeldern im Blickfeld des TriebfahrzeugfÃ¼hrers erforderlich ist, die ihm eine angelegte bzw. nicht vollstÃ¤ndig gelÃ¶ste Zusatzbremse auf dem Steuerwagen signalisiert.  
-2. Ob betriebliche MaÃŸnahmen bis hin zu einem Nutzungsverbot der Zusatzbremse im Fahrbetrieb â€“ Steuerwagen voraus â€“ anzustoÃŸen sind.  
-3. Ob der Ansaugschacht der Klimaanlage an anderer geeigneten Stelle â€“ auÃŸerhalb des Bereichs der Bremsanlage â€“ anzubringen ist.  
-Im Nachgang des Ereignisses wurde der beteiligte Tf durch die DB Regio AG sensibilisiert, kÃ¼nftig besonders auf das LÃ¶sen der Zusatzbremse zu achten. Eine sukzessive NachrÃ¼stung von entsprechenden Leuchtmeldern auf den FÃ¼hrerstÃ¤nden, um dem Tf die optische Wahrnehmung einer angelegten bzw. nicht vollstÃ¤ndig gelÃ¶sten Zusatzbremse deutlich zu erleichtern, sei eingeleitet.
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle
+1. Es sollte mindestens geprüft werden, ob eine Nachrüstung von Leuchtmeldern im Blickfeld des Triebfahrzeugführers erforderlich ist, die ihm eine angelegte bzw. nicht vollständig gelöste Zusatzbremse auf dem Steuerwagen signalisiert.  
+2. Ob betriebliche Maßnahmen bis hin zu einem Nutzungsverbot der Zusatzbremse im Fahrbetrieb – Steuerwagen voraus – anzustoßen sind.  
+3. Ob der Ansaugschacht der Klimaanlage an anderer geeigneten Stelle – außerhalb des Bereichs der Bremsanlage – anzubringen ist.  
+Im Nachgang des Ereignisses wurde der beteiligte Tf durch die DB Regio AG sensibilisiert, künftig besonders auf das Lösen der Zusatzbremse zu achten. Eine sukzessive Nachrüstung von entsprechenden Leuchtmeldern auf den Führerständen, um dem Tf die optische Wahrnehmung einer angelegten bzw. nicht vollständig gelösten Zusatzbremse deutlich zu erleichtern, sei eingeleitet.
 
 ---
 file: 136_Dillenburg.txt
@@ -1302,30 +1302,30 @@ file: 136_Dillenburg.txt
 Untersuchungsbericht Zugkollision, 05.11.2008, Dillenburg
 
 # Hergang des Unfalls  
-Am 05.11.2008 gegen 00:21 Uhr kollidierte der nach Gleis 131 in den Bf Dillenburg einfahrende GÃ¼terzug CR 64218 auf der Weiche (W) 434 mit den letzten Wagen des im Gleis 132 stehenden GÃ¼terzugs CSQ 60046.  
-Die Einfahrt des CR 64218 wurde zugelassen, obwohl der Einfahrweg nicht durchgehend frei von Fahrzeugen war. Zuvor lÃ¶ste die WeichenwÃ¤rterin (Ww) im WÃ¤rterstellwerk Ds des Bf Dillenburg die FahrstraÃŸe nach der Einfahrt des CSQ 60046 auf, obwohl dieser Zug die FahrstraÃŸenzugschlussstelle noch nicht vollstÃ¤ndig gerÃ¤umt hatte.  
+Am 05.11.2008 gegen 00:21 Uhr kollidierte der nach Gleis 131 in den Bf Dillenburg einfahrende Güterzug CR 64218 auf der Weiche (W) 434 mit den letzten Wagen des im Gleis 132 stehenden Güterzugs CSQ 60046.  
+Die Einfahrt des CR 64218 wurde zugelassen, obwohl der Einfahrweg nicht durchgehend frei von Fahrzeugen war. Zuvor löste die Weichenwärterin (Ww) im Wärterstellwerk Ds des Bf Dillenburg die Fahrstraße nach der Einfahrt des CSQ 60046 auf, obwohl dieser Zug die Fahrstraßenzugschlussstelle noch nicht vollständig geräumt hatte.  
 Der Tf des CR 64218 fuhr auf Signalstellung Hp 2 in den Bf Dillenburg ein. Unmittelbar vor der Kollision erkannte der Tf die im Fahrweg stehenden Wagen und leitete eine Schnellbremsung ein. Der Zug CR 64218 kollidierte gegen 00:21 Uhr mit ca. 23 km/h mit den auf der W 434 stehenden letzten Wagen des CSQ 60046.
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
-Nach letzten Erkenntnissen traten folgende PersonenschÃ¤den ein:  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Nach letzten Erkenntnissen traten folgende Personenschäden ein:  
 - Anzahl Tote: 0  
 - Anzahl schwer Verletzte: 0  
 - Anzahl leicht Verletzte: 1 (Mitarbeiter)  
-Die geschÃ¤tzte HÃ¶he der SachschÃ¤den in Euro setzt sich wie folgt zusammen:  
+Die geschätzte Höhe der Sachschäden in Euro setzt sich wie folgt zusammen:  
 - Fahrzeuge: 2.600.000 Euro  
 - Infrastruktur: 274.000 Euro  
 - Dritter: k. A.  
-GesamtschadenshÃ¶he: 2.874.000 Euro.
+Gesamtschadenshöhe: 2.874.000 Euro.
 
 # Ursachen des Unfalls  
-Die Zugkollision wurde durch einen Arbeitsfehler im Rahmen der FahrwegprÃ¼fung verursacht.  
-Die Ww im Stw Ds lÃ¶ste die FahrstraÃŸe auf, ohne sich entsprechend den Bestimmungen der Ril 408.0251 und 482.9003 durch Hinsehen davon zu Ã¼berzeugen, dass der Zug vollstÃ¤ndig die FahrstraÃŸenzugschlussstelle gerÃ¤umt hatte.  
-Entgegen den Vorgaben der Ril 408.0131 legte die Ww die noch belegte W 434 unter den letzten Wagen des CSQ 60046 um, ohne zuvor durch Hinsehen vom Freisein der W 434 Ã¼berzeugt zu sein.  
-Die Ursache der Kollision lag in mehreren Arbeitsfehlern der Ww auf dem Stw Ds. Sie missachtete bei mehreren Arbeitsschritten die Vorgabe, Fahrwegelemente der AuÃŸenanlage durch Hinsehen auf RÃ¤umung und Freisein zu prÃ¼fen.
+Die Zugkollision wurde durch einen Arbeitsfehler im Rahmen der Fahrwegprüfung verursacht.  
+Die Ww im Stw Ds löste die Fahrstraße auf, ohne sich entsprechend den Bestimmungen der Ril 408.0251 und 482.9003 durch Hinsehen davon zu überzeugen, dass der Zug vollständig die Fahrstraßenzugschlussstelle geräumt hatte.  
+Entgegen den Vorgaben der Ril 408.0131 legte die Ww die noch belegte W 434 unter den letzten Wagen des CSQ 60046 um, ohne zuvor durch Hinsehen vom Freisein der W 434 überzeugt zu sein.  
+Die Ursache der Kollision lag in mehreren Arbeitsfehlern der Ww auf dem Stw Ds. Sie missachtete bei mehreren Arbeitsschritten die Vorgabe, Fahrwegelemente der Außenanlage durch Hinsehen auf Räumung und Freisein zu prüfen.
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
 Es wurden keine Sicherheitsempfehlungen ausgesprochen.  
-Die Mitarbeiterin wurde nach dem Ereignis nicht mehr auf diesem Arbeitsplatz eingesetzt. Weitere MaÃŸnahmen, die infolge des Ereignisses durch die beteiligten Eisenbahnunternehmen oder durch die SicherheitsbehÃ¶rde getroffen wurden, sind der BEU nicht bekannt.
+Die Mitarbeiterin wurde nach dem Ereignis nicht mehr auf diesem Arbeitsplatz eingesetzt. Weitere Maßnahmen, die infolge des Ereignisses durch die beteiligten Eisenbahnunternehmen oder durch die Sicherheitsbehörde getroffen wurden, sind der BEU nicht bekannt.
 
 ---
 file: 087_Emden_Rbf.txt
@@ -1333,48 +1333,48 @@ file: 087_Emden_Rbf.txt
 Zugkollision, 20.11.2015, Emden Rbf
 
 # Hergang des Unfalls  
-Am 20.11.2015 fuhr zunÃ¤chst Zug GA 52871 (Emden Hbf VW-Werk â€“ Ingolstadt) gegen 12:05 Uhr nach Gleis 144 des Bahnhofsteils Emden Rbf. Der Zug hatte dort einen Betriebshalt bis 13:36 Uhr zwecks Tfz-Wechsel. Das anbringende Tfz 294 761 wurde durch den LokrangierfÃ¼hrer (Lrf) in Abstimmung mit dem Stellwerkspersonal des Stellwerks Ef hinter dem Zugschluss des GA 52871 ca. 20 m vor dem Lichtsperrsignal Ls144II in Gleis 144 abgestellt. Nachdem Zug 52871 mit einem anderen Tfz bespannt war, fuhr dieser um 13:36 Uhr in Richtung Leer/Ostfriesland ab. Das abgestellte Tfz verblieb indes im Gleis 144. Der Fdl, der seinen SpÃ¤tdienst gegen 12:30 Uhr begann, bemerkte nach der Ausfahrt des GA 52871, dass die Melder der Gleisfreimeldeeinrichtung das Gleis 144 weiterhin als besetzt zeigten. Da er von dem in der FrÃ¼hschicht abgestellten Tfz keine Kenntnis hatte, vermutete er eine StÃ¶rung in der Gleisfreimeldeanlage. Bei der anschlieÃŸenden AbschnittsprÃ¼fung wurde das abgestellte Tfz im Gleis 144 nicht bemerkt. Der Fdl bediente deshalb um 13:39 Uhr die AchszÃ¤hlgrundstellungstaste (AzGrT). AnschlieÃŸend stimmte er der Einfahrt des GA 52835 nach Gleis 144 durch Fahrtstellen des Einfahrsignals (Esig) E57 und des folgenden Zwischensignals (Zsig) U155 (Hp2/Vr0) zu. Der Lrf des Zuges 52835, der vor dem Esig E57 auf die Weiterfahrt wartete, beschleunigte daraufhin seinen Zug und fuhr mit ca. 36 km/h in den Bahnhofsteil Emden Rbf ein. Wegen der Bogenlage der Gleise erkannte er das in Gleis 144 abgestellte Tfz erst in einer Entfernung von ca. 100 m. Die eingeleitete Schnellbremsung reichte jedoch nicht mehr aus, den Zug rechtzeitig zum Halten zu bringen. Zug 52835 fuhr deshalb mit einer Geschwindigkeit von ca. 30 km/h auf die im Gleis stehende Lokomotive auf.
+Am 20.11.2015 fuhr zunächst Zug GA 52871 (Emden Hbf VW-Werk – Ingolstadt) gegen 12:05 Uhr nach Gleis 144 des Bahnhofsteils Emden Rbf. Der Zug hatte dort einen Betriebshalt bis 13:36 Uhr zwecks Tfz-Wechsel. Das anbringende Tfz 294 761 wurde durch den Lokrangierführer (Lrf) in Abstimmung mit dem Stellwerkspersonal des Stellwerks Ef hinter dem Zugschluss des GA 52871 ca. 20 m vor dem Lichtsperrsignal Ls144II in Gleis 144 abgestellt. Nachdem Zug 52871 mit einem anderen Tfz bespannt war, fuhr dieser um 13:36 Uhr in Richtung Leer/Ostfriesland ab. Das abgestellte Tfz verblieb indes im Gleis 144. Der Fdl, der seinen Spätdienst gegen 12:30 Uhr begann, bemerkte nach der Ausfahrt des GA 52871, dass die Melder der Gleisfreimeldeeinrichtung das Gleis 144 weiterhin als besetzt zeigten. Da er von dem in der Frühschicht abgestellten Tfz keine Kenntnis hatte, vermutete er eine Störung in der Gleisfreimeldeanlage. Bei der anschließenden Abschnittsprüfung wurde das abgestellte Tfz im Gleis 144 nicht bemerkt. Der Fdl bediente deshalb um 13:39 Uhr die Achszählgrundstellungstaste (AzGrT). Anschließend stimmte er der Einfahrt des GA 52835 nach Gleis 144 durch Fahrtstellen des Einfahrsignals (Esig) E57 und des folgenden Zwischensignals (Zsig) U155 (Hp2/Vr0) zu. Der Lrf des Zuges 52835, der vor dem Esig E57 auf die Weiterfahrt wartete, beschleunigte daraufhin seinen Zug und fuhr mit ca. 36 km/h in den Bahnhofsteil Emden Rbf ein. Wegen der Bogenlage der Gleise erkannte er das in Gleis 144 abgestellte Tfz erst in einer Entfernung von ca. 100 m. Die eingeleitete Schnellbremsung reichte jedoch nicht mehr aus, den Zug rechtzeitig zum Halten zu bringen. Zug 52835 fuhr deshalb mit einer Geschwindigkeit von ca. 30 km/h auf die im Gleis stehende Lokomotive auf.
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
-Personen wurden durch das Ereignis weder getÃ¶tet noch verletzt. Der entstandene Sachschaden wird von den beteiligten Eisenbahnunternehmen auf ca. 64.585,00 Euro geschÃ¤tzt. Die Kosten setzen sich wie folgt zusammen:  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Personen wurden durch das Ereignis weder getötet noch verletzt. Der entstandene Sachschaden wird von den beteiligten Eisenbahnunternehmen auf ca. 64.585,00 Euro geschätzt. Die Kosten setzen sich wie folgt zusammen:  
 - Tfz 294 714 (Zuglok 52835): 25.025,00 Euro  
 - Tfz 294 761 (abgestelltes Tfz): 18.530,00 Euro  
-- GÃ¼terwagen: 530,00 Euro  
+- Güterwagen: 530,00 Euro  
 - Personal-/Betriebserschwerniskosten: 20.500,00 Euro  
 
 # Ursachen des Unfalls  
-Die Zugkollision wurde verursacht durch eine mangelhafte Vorbereitung des Fahrwegs durch den zustÃ¤ndigen Fdl des Stellwerks Ef im Bahnhofsteil Emden Rbf. Dieser hatte das Freisein des Einfahrgleises 144 vor DurchfÃ¼hrung der Zugfahrt nicht festgestellt. Weitere Ursachen sind:  
-- Der Fdl hatte keine Kenntnis von dem in Gleis 144 abgestellten Tfz, was auf MÃ¤ngel bei der ArbeitsÃ¼bergabe/-Ã¼bernahme schlieÃŸen lÃ¤sst.  
-- Der Disponent des ZBA Emden, der das Gleis 144 auf Freisein prÃ¼fte, konnte aufgrund der SichtverhÃ¤ltnisse den Teil des Gleises nicht vollstÃ¤ndig einsehen, auf dem das Tfz stand.  
-- Der Fdl ging fÃ¤lschlicherweise davon aus, dass das Gleis vollstÃ¤ndig frei sei, nachdem der Disponent dies bestÃ¤tigt hatte.  
+Die Zugkollision wurde verursacht durch eine mangelhafte Vorbereitung des Fahrwegs durch den zuständigen Fdl des Stellwerks Ef im Bahnhofsteil Emden Rbf. Dieser hatte das Freisein des Einfahrgleises 144 vor Durchführung der Zugfahrt nicht festgestellt. Weitere Ursachen sind:  
+- Der Fdl hatte keine Kenntnis von dem in Gleis 144 abgestellten Tfz, was auf Mängel bei der Arbeitsübergabe/-übernahme schließen lässt.  
+- Der Disponent des ZBA Emden, der das Gleis 144 auf Freisein prüfte, konnte aufgrund der Sichtverhältnisse den Teil des Gleises nicht vollständig einsehen, auf dem das Tfz stand.  
+- Der Fdl ging fälschlicherweise davon aus, dass das Gleis vollständig frei sei, nachdem der Disponent dies bestätigt hatte.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
-In Auswertung der Unfallursache wurden durch die Verantwortlichen der DB Netz AG und der DB Schenker Rail AG mit allen Fdl und Disponenten im Bereich Emden Rbf ereignisbezogene FachgesprÃ¤che (LehrgesprÃ¤che) gefÃ¼hrt. Der verursachende Fdl erhielt zusÃ¤tzlich eine Nachschulung durch einen Praxistrainer.  
-ZusÃ¤tzlich wurden folgende MaÃŸnahmen empfohlen:  
-- Verbesserung der ArbeitsÃ¼bergabe/-Ã¼bernahme zwischen Schichtwechseln, insbesondere bei der Kommunikation Ã¼ber besetzte Gleise.  
-- ÃœberprÃ¼fung und Optimierung der SichtverhÃ¤ltnisse fÃ¼r Disponenten und Fdls, um sicherzustellen, dass kritische Bereiche vollstÃ¤ndig einsehbar sind.  
-- ErhÃ¶hung der Schulungen und Sensibilisierung fÃ¼r die korrekte Handhabung von Gleisfreimeldeanlagen sowie die Verantwortung bei der Sicherstellung des Freiseins von Gleisen.
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+In Auswertung der Unfallursache wurden durch die Verantwortlichen der DB Netz AG und der DB Schenker Rail AG mit allen Fdl und Disponenten im Bereich Emden Rbf ereignisbezogene Fachgespräche (Lehrgespräche) geführt. Der verursachende Fdl erhielt zusätzlich eine Nachschulung durch einen Praxistrainer.  
+Zusätzlich wurden folgende Maßnahmen empfohlen:  
+- Verbesserung der Arbeitsübergabe/-übernahme zwischen Schichtwechseln, insbesondere bei der Kommunikation über besetzte Gleise.  
+- Überprüfung und Optimierung der Sichtverhältnisse für Disponenten und Fdls, um sicherzustellen, dass kritische Bereiche vollständig einsehbar sind.  
+- Erhöhung der Schulungen und Sensibilisierung für die korrekte Handhabung von Gleisfreimeldeanlagen sowie die Verantwortung bei der Sicherstellung des Freiseins von Gleisen.
 
 ---
 file: 063_Iversheim_-_Arloff.txt
 
-BahnÃ¼bergangsunfall, 15.05.2014, Iversheim - Arloff  
+Bahnübergangsunfall, 15.05.2014, Iversheim - Arloff  
 
 # Hergang des Unfalls  
-Am 15.05.2014 gegen 17:04 Uhr befuhr die Fahrerin eines PKW die StraÃŸe â€žKalkarer Wegâ€œ, um auf die BundesstraÃŸe 51 zu gelangen. Dazu musste sie die eingleisige Bahnstrecke VzG 2634 Euskirchen - Bad MÃ¼nstereifel am technisch nicht gesicherten BahnÃ¼bergang in km 10,590 kreuzen. Ohne den PKW auf HÃ¶he des Andreaskreuzes anzuhalten, fuhr die verunfallte Person mit langsamer Geschwindigkeit auf den BÃœ zu. Zum gleichen Zeitpunkt nÃ¤herte sich aus Richtung Bad MÃ¼nstereifel Zug RB 11671 dem BahnÃ¼bergang. Unmittelbar vor Erreichen des BÃœ erkannte der Tf, dass der PKW den BÃœ befahren wÃ¼rde, und leitete eine Schnellbremsung ein. Trotz Beschleunigung des PKWs kam es zum Zusammenprall mit dem Eisenbahnfahrzeug.  
+Am 15.05.2014 gegen 17:04 Uhr befuhr die Fahrerin eines PKW die Straße "Kalkarer Weg", um auf die Bundesstraße 51 zu gelangen. Dazu musste sie die eingleisige Bahnstrecke VzG 2634 Euskirchen - Bad Münstereifel am technisch nicht gesicherten Bahnübergang in km 10,590 kreuzen. Ohne den PKW auf Höhe des Andreaskreuzes anzuhalten, fuhr die verunfallte Person mit langsamer Geschwindigkeit auf den BÜ zu. Zum gleichen Zeitpunkt näherte sich aus Richtung Bad Münstereifel Zug RB 11671 dem Bahnübergang. Unmittelbar vor Erreichen des BÜ erkannte der Tf, dass der PKW den BÜ befahren würde, und leitete eine Schnellbremsung ein. Trotz Beschleunigung des PKWs kam es zum Zusammenprall mit dem Eisenbahnfahrzeug.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
-Die Fahrerin des beteiligten PKW wurde schwer verletzt. Der TriebfahrzeugfÃ¼hrer erlitt einen Schock. Beide Personen wurden ins Krankenhaus eingeliefert. Der geschÃ¤tzte Sachschaden belÃ¤uft sich auf ca. 27.000,00 Euro.  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Die Fahrerin des beteiligten PKW wurde schwer verletzt. Der Triebfahrzeugführer erlitt einen Schock. Beide Personen wurden ins Krankenhaus eingeliefert. Der geschätzte Sachschaden beläuft sich auf ca. 27.000,00 Euro.  
 
 # Ursachen des Unfalls  
-UnfallursÃ¤chlich war die Nichtbeachtung der StraÃŸenverkehrsordnung (StVO) Â§Â§ 19 â€žBahnÃ¼bergÃ¤ngeâ€œ und Â§ 41 â€žVorschriftenzeichenâ€œ durch die Fahrerin des verunfallten PKW. Eine mÃ¶gliche sekundÃ¤re Ereignisursache kann, von den sich im Laufe der Jahre verÃ¤nderten Rahmenbedingungen, abgeleitet werden. Mittlerweile sind verschiedene Handwerksbetriebe sowie ein Wohnhaus in unmittelbarer NÃ¤he des BÃœ entstanden. Weiterhin erreicht man Ã¼ber den BÃœ hinweg ein Ã¼berregional bekanntes touristisches Ausflugsziel. Diese Hinweise deuten auf einen mittlerweile angestiegenen Verkehrsstrom hin. Es liegt nahe, dass sich seit der ursprÃ¼nglichen StraÃŸenwidmung â€žFeldwegâ€œ und der damit verbundenen Sicherungsart die Anzahl der Verkehrsteilnehmer und damit die Eintrittswahrscheinlichkeit eines gefÃ¤hrlichen Ereignisses erhÃ¶ht hat.  
+Unfallursächlich war die Nichtbeachtung der Straßenverkehrsordnung (StVO) §§ 19 "Bahnübergänge" und § 41 "Vorschriftenzeichen" durch die Fahrerin des verunfallten PKW. Eine mögliche sekundäre Ereignisursache kann, von den sich im Laufe der Jahre veränderten Rahmenbedingungen, abgeleitet werden. Mittlerweile sind verschiedene Handwerksbetriebe sowie ein Wohnhaus in unmittelbarer Nähe des BÜ entstanden. Weiterhin erreicht man über den BÜ hinweg ein überregional bekanntes touristisches Ausflugsziel. Diese Hinweise deuten auf einen mittlerweile angestiegenen Verkehrsstrom hin. Es liegt nahe, dass sich seit der ursprünglichen Straßenwidmung "Feldweg" und der damit verbundenen Sicherungsart die Anzahl der Verkehrsteilnehmer und damit die Eintrittswahrscheinlichkeit eines gefährlichen Ereignisses erhöht hat.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
-Am 06.11.2014 wurde eine Verkehrsschau am BÃœ durchgefÃ¼hrt. Beteiligt waren Vertreter des EBA, EIU, Gemeinde, Kreis- und Bundespolizei. Nachfolgend werden die vereinbarten MaÃŸnahmen aus dem Besichtigungsprotokoll aufgefÃ¼hrt:  
-- Antrag der Gemeinde Bad MÃ¼nstereifel auf Anbringung einer technischen BahnÃ¼bergangssicherung.  
-- Der Abstand zwischen B 51 und BahnÃ¼bergang ist so gering, dass eine sofortige RÃ¤umung des BahnÃ¼bergangs nicht fÃ¼r alle Fahrzeuge sichergestellt ist. Eine sichere RÃ¤umung kann nur fÃ¼r Fahrzeuge bis zu einer LÃ¤nge von 12 m als sicher angenommen werden. Die Durchfahrt ist daher zu beschrÃ¤nken. Auf dem Kalkarer Weg ist an der Abzweigung von der B 51 zu beschildern mit Verkehrszeichen 266 StVO mit der Aufschrift â€ž12 mâ€œ.  
-- Die Hinweisbeschilderung vor dem BahnÃ¼bergang aus Richtung B 51, bestehend aus Verkehrszeichen 151 StVO, und einer Geschwindigkeitsreduzierung auf 10 km/h mit Verkehrszeichen 274 StVO ist verblasst und erneuerungsbedÃ¼rftig. Bei der Erneuerung ist der Standort etwas zu drehen, damit aus Fahrtrichtung B 51 Bad MÃ¼nstereifel eine bessere Sicht auf die Verkehrszeichen gegeben ist.  
-- Die Sicht auf den herannahenden Zug ist sowohl in Richtung Bad MÃ¼nstereifel als auch in Richtung Arloff durch Bewuchs stark eingeschrÃ¤nkt. Der Bewuchs ist zurÃ¼ckzuschneiden, es muss aus beiden Fahrtrichtungen vor dem BahnÃ¼bergang in beide Richtungen bis zum stehenden Hinweis â€žPfeifsignalâ€œ eine Sichtbeziehung gegeben sein. MaÃŸgeblicher Standort fÃ¼r die Bemessung der Strecke liegt dabei in einer Entfernung von 6 m ab Andreaskreuz. Es zeigt sich, dass u.a. das StraÃŸenbegleitgrÃ¼n der B 51 zurÃ¼ckgeschnitten werden muss.
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+Am 06.11.2014 wurde eine Verkehrsschau am BÜ durchgeführt. Beteiligt waren Vertreter des EBA, EIU, Gemeinde, Kreis- und Bundespolizei. Nachfolgend werden die vereinbarten Maßnahmen aus dem Besichtigungsprotokoll aufgeführt:  
+- Antrag der Gemeinde Bad Münstereifel auf Anbringung einer technischen Bahnübergangssicherung.  
+- Der Abstand zwischen B 51 und Bahnübergang ist so gering, dass eine sofortige Räumung des Bahnübergangs nicht für alle Fahrzeuge sichergestellt ist. Eine sichere Räumung kann nur für Fahrzeuge bis zu einer Länge von 12 m als sicher angenommen werden. Die Durchfahrt ist daher zu beschränken. Auf dem Kalkarer Weg ist an der Abzweigung von der B 51 zu beschildern mit Verkehrszeichen 266 StVO mit der Aufschrift "12 m".  
+- Die Hinweisbeschilderung vor dem Bahnübergang aus Richtung B 51, bestehend aus Verkehrszeichen 151 StVO, und einer Geschwindigkeitsreduzierung auf 10 km/h mit Verkehrszeichen 274 StVO ist verblasst und erneuerungsbedürftig. Bei der Erneuerung ist der Standort etwas zu drehen, damit aus Fahrtrichtung B 51 Bad Münstereifel eine bessere Sicht auf die Verkehrszeichen gegeben ist.  
+- Die Sicht auf den herannahenden Zug ist sowohl in Richtung Bad Münstereifel als auch in Richtung Arloff durch Bewuchs stark eingeschränkt. Der Bewuchs ist zurückzuschneiden, es muss aus beiden Fahrtrichtungen vor dem Bahnübergang in beide Richtungen bis zum stehenden Hinweis "Pfeifsignal" eine Sichtbeziehung gegeben sein. Maßgeblicher Standort für die Bemessung der Strecke liegt dabei in einer Entfernung von 6 m ab Andreaskreuz. Es zeigt sich, dass u.a. das Straßenbegleitgrün der B 51 zurückgeschnitten werden muss.
 
 ---
 file: 033_Obervellmar.txt
@@ -1382,133 +1382,133 @@ file: 033_Obervellmar.txt
 Zugkollision, 01.11.2006, Obervellmar  
 
 # Hergang des Unfalls  
-Der GÃ¼terzug CFN 44983 stÃ¶ÃŸt im Bahnhof Obervellmar im Bereich der Kreuzung I mit einer aus dem Baugleis kommenden Rangierabteilung zusammen.  
-Im Bahnhof Obervellmar werden gemÃ¤ÃŸ Betriebs- und Bauanweisung (Betra 6565) Arbeiten zwischen Obervellmar und Kassel Hbf durchgefÃ¼hrt. Das Gleis 2 (Einfahrabschnitt vom ESig G bis zur Kreuzung I) im Bf Obervellmar wird zum Baugleis erklÃ¤rt. WÃ¤hrend einer Zugfahrt Ã¼ber die Kreuzung und/oder Ã¼ber die Weiche 4 darf im Gleis 2 zwischen der ersten und zweiten WÃ¤rterhaltscheibe nicht rangiert werden. Am 01.11.2006 gegen 2:30 Uhr erhielt der ArbeitszugfÃ¼hrer (AZ) den Auftrag eine Rangierabteilung Ã¼ber Kassel Rbf nach Kassel Hbf zu Ã¼berfÃ¼hren. Gemeinsam mit dem TriebfahrzeugfÃ¼hrer (Tf) der Rangierabteilung wurden vorbereitende GesprÃ¤che fÃ¼r eine Rangiervereinbarung mit dem Fahrdienstleiter (Fdl) Obervellmar getroffen. AnschlieÃŸend verlieÃŸ der AZ das Triebfahrzeug und entfernte die WÃ¤rterhaltscheiben. Nach Erkennen der drohenden Gefahr durch den Flankenschutzposten versuchte dieser die in Richtung Kreuzung I fahrende Rangierabteilung mittels Kreissignals zu stellen. Die Rangierabteilung kam im Bereich des Grenzzeichens der Kreuzung I zum Stehen. Unmittelbar danach stieÃŸ Zug CFN 44983 mit der Rangierabteilung zusammen.  
+Der Güterzug CFN 44983 stößt im Bahnhof Obervellmar im Bereich der Kreuzung I mit einer aus dem Baugleis kommenden Rangierabteilung zusammen.  
+Im Bahnhof Obervellmar werden gemäß Betriebs- und Bauanweisung (Betra 6565) Arbeiten zwischen Obervellmar und Kassel Hbf durchgeführt. Das Gleis 2 (Einfahrabschnitt vom ESig G bis zur Kreuzung I) im Bf Obervellmar wird zum Baugleis erklärt. Während einer Zugfahrt über die Kreuzung und/oder über die Weiche 4 darf im Gleis 2 zwischen der ersten und zweiten Wärterhaltscheibe nicht rangiert werden. Am 01.11.2006 gegen 2:30 Uhr erhielt der Arbeitszugführer (AZ) den Auftrag eine Rangierabteilung über Kassel Rbf nach Kassel Hbf zu überführen. Gemeinsam mit dem Triebfahrzeugführer (Tf) der Rangierabteilung wurden vorbereitende Gespräche für eine Rangiervereinbarung mit dem Fahrdienstleiter (Fdl) Obervellmar getroffen. Anschließend verließ der AZ das Triebfahrzeug und entfernte die Wärterhaltscheiben. Nach Erkennen der drohenden Gefahr durch den Flankenschutzposten versuchte dieser die in Richtung Kreuzung I fahrende Rangierabteilung mittels Kreissignals zu stellen. Die Rangierabteilung kam im Bereich des Grenzzeichens der Kreuzung I zum Stehen. Unmittelbar danach stieß Zug CFN 44983 mit der Rangierabteilung zusammen.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
-â€¢ 2 Personen (beide TriebfahrzeugfÃ¼hrer) schwer verletzt  
-â€¢ 1 Person (Rangierbegleiter) leicht verletzt  
-â€¢ SchÃ¤den an Schienenfahrzeugen: ca. 1.260.000 â‚¬.  
-â€¢ Bauliche Anlagen: ca. 300.000 â‚¬.  
-â€¢ Betriebserschwerniskosten: ca. 4160 â‚¬.  
-â€¢ Sonstige SachschÃ¤den der Bahn: ca. 500.000 â‚¬.  
-â€¢ Bodenverunreinigung: ca. 20.000 â‚¬.  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+• 2 Personen (beide Triebfahrzeugführer) schwer verletzt  
+• 1 Person (Rangierbegleiter) leicht verletzt  
+• Schäden an Schienenfahrzeugen: ca. 1.260.000 €.  
+• Bauliche Anlagen: ca. 300.000 €.  
+• Betriebserschwerniskosten: ca. 4160 €.  
+• Sonstige Sachschäden der Bahn: ca. 500.000 €.  
+• Bodenverunreinigung: ca. 20.000 €.  
 
 # Ursachen des Unfalls  
-Auf Grund mangelhafter Kommunikation zwischen Betriebsstelle, Rangierpersonal und dem TriebfahrzeugfÃ¼hrer der Rangierabteilung verlieÃŸ die Rangierabteilung das Baugleis ohne Zustimmung des Fahrdienstleiters.  
-Die rangierdienstlichen GesprÃ¤che zwischen Fdl, Tf der Rangierabteilung sowie dem AZ wurden nicht eindeutig und damit fÃ¼r alle Beteiligten nicht zweifelfrei gefÃ¼hrt. Die Untersuchungen zeigten, dass die Beteiligten der Rangierfahrt das vorbereitende GesprÃ¤ch zwischen AZ und Fdl als Rangiervereinbarung mit Zustimmung zur Fahrt werteten. Durch das konkludente Handeln des AZ, indem er unmittelbar nach dem GesprÃ¤ch mit dem Fdl das Triebfahrzeug verlieÃŸ und die WÃ¤rterhaltscheiben entfernte, wurde diese FehleinschÃ¤tzung noch untermauert.  
-In der Betra 6565 fehlte der gemÃ¤ÃŸ Modul 406.1201 â€“ Fahren und Bauen â€“ geforderte Textbaustein: â€žFahren in das und aus dem Baugleisâ€œ. Dieser Textbaustein beschreibt exakt, welche MaÃŸnahmen durch die Beteiligten vorzunehmen sind, u.a. der Zeitpunkt des Entfernens der WÃ¤rterhaltscheiben und der Zustimmung zur Fahrt aus dem Baugleis.  
+Auf Grund mangelhafter Kommunikation zwischen Betriebsstelle, Rangierpersonal und dem Triebfahrzeugführer der Rangierabteilung verließ die Rangierabteilung das Baugleis ohne Zustimmung des Fahrdienstleiters.  
+Die rangierdienstlichen Gespräche zwischen Fdl, Tf der Rangierabteilung sowie dem AZ wurden nicht eindeutig und damit für alle Beteiligten nicht zweifelfrei geführt. Die Untersuchungen zeigten, dass die Beteiligten der Rangierfahrt das vorbereitende Gespräch zwischen AZ und Fdl als Rangiervereinbarung mit Zustimmung zur Fahrt werteten. Durch das konkludente Handeln des AZ, indem er unmittelbar nach dem Gespräch mit dem Fdl das Triebfahrzeug verließ und die Wärterhaltscheiben entfernte, wurde diese Fehleinschätzung noch untermauert.  
+In der Betra 6565 fehlte der gemäß Modul 406.1201 – Fahren und Bauen – geforderte Textbaustein: "Fahren in das und aus dem Baugleis". Dieser Textbaustein beschreibt exakt, welche Maßnahmen durch die Beteiligten vorzunehmen sind, u.a. der Zeitpunkt des Entfernens der Wärterhaltscheiben und der Zustimmung zur Fahrt aus dem Baugleis.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
-Die Kommunikation zwischen Betriebsstelle, Rangierpersonal und TriebfahrzeugfÃ¼hrern muss eindeutig und fÃ¼r alle Beteiligten zweifelsfrei gefÃ¼hrt werden. Die Rangiervereinbarungen sollten klar definiert und dokumentiert werden, insbesondere der Zeitpunkt der Zustimmung zur Fahrt aus dem Baugleis.  
-Die Betra-6565-Datei muss den erforderlichen Textbaustein â€žFahren in das und aus dem Baugleisâ€œ enthalten, um die notwendigen Schritte und Verantwortlichkeiten wÃ¤hrend des Bauablaufs prÃ¤zise festzulegen. Dies schlieÃŸt die klare Regelung des Entfernens der WÃ¤rterhaltscheiben und der Zustimmung zur Fahrt aus dem Baugleis ein.
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+Die Kommunikation zwischen Betriebsstelle, Rangierpersonal und Triebfahrzeugführern muss eindeutig und für alle Beteiligten zweifelsfrei geführt werden. Die Rangiervereinbarungen sollten klar definiert und dokumentiert werden, insbesondere der Zeitpunkt der Zustimmung zur Fahrt aus dem Baugleis.  
+Die Betra-6565-Datei muss den erforderlichen Textbaustein "Fahren in das und aus dem Baugleis" enthalten, um die notwendigen Schritte und Verantwortlichkeiten während des Bauablaufs präzise festzulegen. Dies schließt die klare Regelung des Entfernens der Wärterhaltscheiben und der Zustimmung zur Fahrt aus dem Baugleis ein.
 
 ---
 file: 097_Karlsruhe_Gbf.txt
 
-GefÃ¤hrliches Ereignis im Eisenbahnbetrieb  
+Gefährliches Ereignis im Eisenbahnbetrieb  
 
 # Hergang des Unfalls  
-Am 15.04.2015 gegen 10:20 Uhr werden sechs Druckgas-Kesselwagen aus sÃ¼dlicher Richtung nach Gleis 103 rangiert. Diese Wagengruppe wird luftgebremst hinter einer stehenden Wagengruppe, bestehend aus zehn Wagen, mit geringem Abstand (nicht gekuppelt) abgestellt, vgl. Abb. 3.  
-Um 17:52 Uhr fÃ¤hrt die Rangierlok vom Signal 41L207X in das mit 10 Kesselwagen besetzte Gleis 102. Nach dem Ankuppeln der Wagengruppe setzt die Rabt von Gleis 102 nach Gleis 103 um. HierfÃ¼r zieht die Rangierlok die Wagengruppe um 18:02 Uhr bis hinter das â€žWende-Lsâ€œ Ls41L206X, vgl. Abb. 4.  
-AnschlieÃŸend erfolgt das ZurÃ¼cksetzen dieser Rabt vom Ls 41L206X in das Gleis 103 aus nÃ¶rdlicher Richtung. Gegen 18:07 Uhr drÃ¼ckt die Rabt, bestehend aus zehn Kesselwagen, auf die im Gleis 103 abgestellten beiden Wagengruppen auf. Die Spitze der Rabt steht zu diesem Zeitpunkt ca. vier FahrzeuglÃ¤ngen Ã¼ber das Signal 41ZV103 hinaus, vgl. Abb. 5.  
-Gegen 18:29 Uhr drÃ¼ckt der Lrf die Rabt hinter das Signal 41ZV10.Categories: 103. Die im Gleis 103 nicht gekuppelten sechs Druckgaswagen aus der Vormittagsabstellung werden durch die schiebende Rabt angestoÃŸen und entlaufen in Richtung Weiche 800, 801, 809.  
-Zeitgleich erhÃ¤lt DGS 43014 am Zwischensignal 41ZU406 die Zustimmung zur Fahrt nach Gleis 104 aus sÃ¼dlicher Richtung. Das Zwischensignal 41ZV104 steht nicht auf Fahrt. Das fÃ¼hrende Fahrzeug des DGS 43014 fÃ¤hrt mit ca. 35 km/h am Zwischensignal 41ZU406 vorbei und kommt bei konstant fallender Geschwindigkeit ca. 200 m vor dem Zwischensignal 41ZV104 gegen 18:34 Uhr zum Halten. GemÃ¤ÃŸ Signaltabelle dÃ¼rfte die Einfahrgeschwindigkeit maximal 50 km/h betragen.  
-WÃ¤hrend dieser Einfahrt kollidiert der letzte abgelaufene Wagen mit der Fz-Nr.: 33-80 7933 032-4 der Wagengruppe mit den vier am Schluss laufenden Wagen des einfahrenden DGS 43014. Trotz der Flankenfahrt kommt es nicht zu einer Entgleisung des Zuges und der Wagengruppe.  
+Am 15.04.2015 gegen 10:20 Uhr werden sechs Druckgas-Kesselwagen aus südlicher Richtung nach Gleis 103 rangiert. Diese Wagengruppe wird luftgebremst hinter einer stehenden Wagengruppe, bestehend aus zehn Wagen, mit geringem Abstand (nicht gekuppelt) abgestellt, vgl. Abb. 3.  
+Um 17:52 Uhr fährt die Rangierlok vom Signal 41L207X in das mit 10 Kesselwagen besetzte Gleis 102. Nach dem Ankuppeln der Wagengruppe setzt die Rabt von Gleis 102 nach Gleis 103 um. Hierfür zieht die Rangierlok die Wagengruppe um 18:02 Uhr bis hinter das "Wende-Ls" Ls41L206X, vgl. Abb. 4.  
+Anschließend erfolgt das Zurücksetzen dieser Rabt vom Ls 41L206X in das Gleis 103 aus nördlicher Richtung. Gegen 18:07 Uhr drückt die Rabt, bestehend aus zehn Kesselwagen, auf die im Gleis 103 abgestellten beiden Wagengruppen auf. Die Spitze der Rabt steht zu diesem Zeitpunkt ca. vier Fahrzeuglängen über das Signal 41ZV103 hinaus, vgl. Abb. 5.  
+Gegen 18:29 Uhr drückt der Lrf die Rabt hinter das Signal 41ZV10.Categories: 103. Die im Gleis 103 nicht gekuppelten sechs Druckgaswagen aus der Vormittagsabstellung werden durch die schiebende Rabt angestoßen und entlaufen in Richtung Weiche 800, 801, 809.  
+Zeitgleich erhält DGS 43014 am Zwischensignal 41ZU406 die Zustimmung zur Fahrt nach Gleis 104 aus südlicher Richtung. Das Zwischensignal 41ZV104 steht nicht auf Fahrt. Das führende Fahrzeug des DGS 43014 fährt mit ca. 35 km/h am Zwischensignal 41ZU406 vorbei und kommt bei konstant fallender Geschwindigkeit ca. 200 m vor dem Zwischensignal 41ZV104 gegen 18:34 Uhr zum Halten. Gemäß Signaltabelle dürfte die Einfahrgeschwindigkeit maximal 50 km/h betragen.  
+Während dieser Einfahrt kollidiert der letzte abgelaufene Wagen mit der Fz-Nr.: 33-80 7933 032-4 der Wagengruppe mit den vier am Schluss laufenden Wagen des einfahrenden DGS 43014. Trotz der Flankenfahrt kommt es nicht zu einer Entgleisung des Zuges und der Wagengruppe.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
-Verletzte sind nicht zu beklagen. Die vier am Schluss laufenden Wagen des DGS 43014 werden durch den seitlichen Anprall in Fahrtrichtung des Zuges - rechts - beschÃ¤digt. Der Wagen 33-80 7933 032-4 der Wagengruppe wird erheblich beschÃ¤digt. Es kommt nicht zum Gefahrgutaustritt.  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Verletzte sind nicht zu beklagen. Die vier am Schluss laufenden Wagen des DGS 43014 werden durch den seitlichen Anprall in Fahrtrichtung des Zuges - rechts - beschädigt. Der Wagen 33-80 7933 032-4 der Wagengruppe wird erheblich beschädigt. Es kommt nicht zum Gefahrgutaustritt.  
 
 # Ursachen des Unfalls  
-VerstoÃŸ gegen die VDV Schrift 757 Teil B i.V.m. Ril 408.0811 Abs. 2ff, wonach gemeinsam zu bewegende Fahrzeuge erst untereinander gekuppelt werden mÃ¼ssen, bevor diese bewegt werden dÃ¼rfen. AuÃŸerdem wurde beim ZurÃ¼ckdrÃ¼cken der Rangierabteilung im Gleis 103 gegen die Ril 408.0821 Abschnitt 4 (1) verstoÃŸen. Der Lrf befand sich bei dieser Fahrzeugbewegung in HÃ¶he seines schiebenden Triebfahrzeuges. Der Lrf konnte folglich seinen Fahrweg nicht stÃ¤ndig beobachten.  
-Nach Aussage des Lrf FrÃ¼hschicht L1 habe dieser die Wagen â€žauf Luftâ€œ abgestellt. Von einer Feststellbremse wurde im Protokoll nichts erwÃ¤hnt. GemÃ¤ÃŸ Ril 915 (s. Diagramm Abb. 7) musste der Lrf FrÃ¼hschicht L1 davon ausgehen, dass die Wagengruppe Ã¼ber 60 Minuten abgestellt bleiben wÃ¼rde. Folglich hÃ¤tten die abgestellten Wagen mit einer Feststellbremse gesichert werden mÃ¼ssen.  
-Rangierverbote waren nach den geltenden Regelungen fÃ¼r die Zugfahrt DGS 43014 nicht auszusprechen. Nach Aussage des Lrf SpÃ¤tschicht L2 habe er sich beim ZurÃ¼ckdrÃ¼cken auf seinem Tfz befunden. Nach seiner Aussage habe er auch so die Fahrwegbeobachtung durchfÃ¼hren kÃ¶nnen. Der Lrf hat sich beim ZurÃ¼ckdrÃ¼cken von Wagen, bzw. Wagengruppen so zu positionieren, dass die Fahrwegbeobachtung stets sichergestellt wird. Das Ablaufen der Wagengruppe wÃ¤re folglich bei richtiger Positionierung des Lrf L 2 nicht unbemerkt geblieben.  
+Verstoß gegen die VDV Schrift 757 Teil B i.V.m. Ril 408.0811 Abs. 2ff, wonach gemeinsam zu bewegende Fahrzeuge erst untereinander gekuppelt werden müssen, bevor diese bewegt werden dürfen. Außerdem wurde beim Zurückdrücken der Rangierabteilung im Gleis 103 gegen die Ril 408.0821 Abschnitt 4 (1) verstoßen. Der Lrf befand sich bei dieser Fahrzeugbewegung in Höhe seines schiebenden Triebfahrzeuges. Der Lrf konnte folglich seinen Fahrweg nicht ständig beobachten.  
+Nach Aussage des Lrf Frühschicht L1 habe dieser die Wagen "auf Luft" abgestellt. Von einer Feststellbremse wurde im Protokoll nichts erwähnt. Gemäß Ril 915 (s. Diagramm Abb. 7) musste der Lrf Frühschicht L1 davon ausgehen, dass die Wagengruppe über 60 Minuten abgestellt bleiben würde. Folglich hätten die abgestellten Wagen mit einer Feststellbremse gesichert werden müssen.  
+Rangierverbote waren nach den geltenden Regelungen für die Zugfahrt DGS 43014 nicht auszusprechen. Nach Aussage des Lrf Spätschicht L2 habe er sich beim Zurückdrücken auf seinem Tfz befunden. Nach seiner Aussage habe er auch so die Fahrwegbeobachtung durchführen können. Der Lrf hat sich beim Zurückdrücken von Wagen, bzw. Wagengruppen so zu positionieren, dass die Fahrwegbeobachtung stets sichergestellt wird. Das Ablaufen der Wagengruppe wäre folglich bei richtiger Positionierung des Lrf L 2 nicht unbemerkt geblieben.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
-Der Lrf SpÃ¤tdienst L 2 wurde nach dem Ereignis bis auf weiteres nicht wieder eingesetzt. Erst nach erfolgter und erfolgreich absolvierter Nachschulung wird der Lrf wieder eingesetzt.  
-GemÃ¤ÃŸ Ril 915.0107 V03 waren die Wagen folgendermaÃŸen zu sichern: (siehe Diagramm Abb. 07). Je 600 t oder je angefangene 30 Achsen eine Feststellbremse anziehen.  
-Rangierverbote waren nach den geltenden Regelungen fÃ¼r die Zugfahrt DGS 43014 nicht auszusprechen. Nach Aussage des Lrf SpÃ¤tschicht L2 habe er sich beim ZurÃ¼ckdrÃ¼cken auf seinem Tfz befunden. Nach seiner Aussage habe er auch so die Fahrwegbeobachtung durchfÃ¼hren kÃ¶nnen. Der Lrf hat sich beim ZurÃ¼ckdrÃ¼cken von Wagen, bzw. Wagengruppen so zu positionieren, dass die Fahrwegbeobachtung stets sichergestellt wird. Das Ablaufen der Wagengruppe wÃ¤re folglich bei richtiger Positionierung des Lrf L 2 nicht unbemerkt geblieben.  
-AuÃŸerdem ist darauf zu achten, dass sich keine Fahrzeuge unbeabsichtigt bewegen und Ã¼ber das Grenzzeichen oder Isolierzeichen am anderen Ende des Gleises gelangen.
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+Der Lrf Spätdienst L 2 wurde nach dem Ereignis bis auf weiteres nicht wieder eingesetzt. Erst nach erfolgter und erfolgreich absolvierter Nachschulung wird der Lrf wieder eingesetzt.  
+Gemäß Ril 915.0107 V03 waren die Wagen folgendermaßen zu sichern: (siehe Diagramm Abb. 07). Je 600 t oder je angefangene 30 Achsen eine Feststellbremse anziehen.  
+Rangierverbote waren nach den geltenden Regelungen für die Zugfahrt DGS 43014 nicht auszusprechen. Nach Aussage des Lrf Spätschicht L2 habe er sich beim Zurückdrücken auf seinem Tfz befunden. Nach seiner Aussage habe er auch so die Fahrwegbeobachtung durchführen können. Der Lrf hat sich beim Zurückdrücken von Wagen, bzw. Wagengruppen so zu positionieren, dass die Fahrwegbeobachtung stets sichergestellt wird. Das Ablaufen der Wagengruppe wäre folglich bei richtiger Positionierung des Lrf L 2 nicht unbemerkt geblieben.  
+Außerdem ist darauf zu achten, dass sich keine Fahrzeuge unbeabsichtigt bewegen und über das Grenzzeichen oder Isolierzeichen am anderen Ende des Gleises gelangen.
 
 ---
 file: 028_Bad_Endorf_-_Landl.txt
 
-Zugentgleisung, Bad Endorf â€“ Landl, 08.04.2011
+Zugentgleisung, Bad Endorf – Landl, 08.04.2011
 
 # Hergang des Unfalls  
-Am 08.04.2011, um 00:25 Uhr, entgleist zwischen Bad Endorf (Oberbay) und Landl (Oberbay) Abzw, etwa in km 11,633 in der Zugfahrt TEC 41810, der an 21. Position in den Wagenzug eingestellte Tragwagen fÃ¼r GroÃŸcontainer und WechselbehÃ¤lter mit zwei RadsÃ¤tzen in Fahrtrichtung nach links.  
-Anhand der Auswertung der ZugfunkgesprÃ¤che (ZF-GesprÃ¤che) und der Fahrtverlaufsauswertung konnte folgender Unfallhergang rekonstruiert werden.  
-Der GÃ¼terzug TEC 41810 befand sich auf der Fahrt von Salzburg Hbf nach Hamburg-Maschen.  
-Um 00:21:39 Uhr informierte der TriebfahrzeugfÃ¼hrer des dem TEC 41810 in HÃ¶he Bad Endorf entgegenkommenden Zuges 42831 die Betriebsleitung, dass im hinteren Drittel des TEC 41810 vermutlich eine Bremse fest sei, da eine Achse ziemlich geschleift habe.  
-Diese Meldung wurde um 00:22:41 Uhr von der ZugÃ¼berwachung an den LokfÃ¼hrer des TEC 41810 weitergegeben, wobei der TriebfahrzeugfÃ¼hrer mitteilte, dass er bislang keine UnregelmÃ¤ÃŸigkeiten feststellen konnte. Das GesprÃ¤ch wurde um 00:23:48 Uhr von der ZugÃ¼berwachung an den Fahrdienstleiter Rosenheim Ã¼bergeben.  
-Der Fahrdienstleiter schlÃ¤gt dem TriebfahrzeugfÃ¼hrer vor, noch vor dem nÃ¤chsten BahnÃ¼bergang anzuhalten, worauf der TriebfahrzeugfÃ¼hrer sich nach dem Standort der nÃ¤chsten HeiÃŸlÃ¤uferortungsanlage erkundigt. Diese befindet sich erst in Grafing. Der TriebfahrzeugfÃ¼hrer entscheidet, in Rosenheim die Untersuchung am Zug durchzufÃ¼hren.  
-Um 00:26:11 Uhr meldet auch der dem TEC 41810 entgegenkommende TriebfahrzeugfÃ¼hrer des Zuges 463 die UnregelmÃ¤ÃŸigkeit (vmtl. feste Bremse) dem Fahrdienstleiter Rosenheim. Der Fahrdienstleiter ordnet nun den Halt des TEC 41810 vor dem Blocksignal 322 an.  
-Der TriebfahrzeugfÃ¼hrer des TEC 41810 teilt um 00:26:43 Uhr dem Fahrdienstleiter Rosenheim mit, dass er bereits zum Stehen gekommen sei. Der TriebfahrzeugfÃ¼hrer des Zuges 463 unterrichtet den Fahrdienstleiter Rosenheim Ã¼ber vorgefundene Entgleisungsspuren am Gleis Freilassing â€“ Rosenheim, worauf dieser um 00:33 Uhr beide Gleise sperrt.  
-Unter der Annahme, dass sich die ZÃ¼ge 41810 und 42831 am Asig Bf Bad Endorf km 16,4 begegneten und der Zug 41810 mit einer konstanten Geschwindigkeit von ca. 95 km weitergefahren ist, mÃ¼sste den TriebfahrzeugfÃ¼hrer des TEC 41810 die erste Meldung der Betriebsleitung ca. in km 14,763 erreicht haben. Hieraus ergibt sich ein rechnerischer Abstand bis zur Entgleisungsstelle von ca. 3.130 m bei einer Fahrzeit von ca. 2 Minuten.
+Am 08.04.2011, um 00:25 Uhr, entgleist zwischen Bad Endorf (Oberbay) und Landl (Oberbay) Abzw, etwa in km 11,633 in der Zugfahrt TEC 41810, der an 21. Position in den Wagenzug eingestellte Tragwagen für Großcontainer und Wechselbehälter mit zwei Radsätzen in Fahrtrichtung nach links.  
+Anhand der Auswertung der Zugfunkgespräche (ZF-Gespräche) und der Fahrtverlaufsauswertung konnte folgender Unfallhergang rekonstruiert werden.  
+Der Güterzug TEC 41810 befand sich auf der Fahrt von Salzburg Hbf nach Hamburg-Maschen.  
+Um 00:21:39 Uhr informierte der Triebfahrzeugführer des dem TEC 41810 in Höhe Bad Endorf entgegenkommenden Zuges 42831 die Betriebsleitung, dass im hinteren Drittel des TEC 41810 vermutlich eine Bremse fest sei, da eine Achse ziemlich geschleift habe.  
+Diese Meldung wurde um 00:22:41 Uhr von der Zugüberwachung an den Lokführer des TEC 41810 weitergegeben, wobei der Triebfahrzeugführer mitteilte, dass er bislang keine Unregelmäßigkeiten feststellen konnte. Das Gespräch wurde um 00:23:48 Uhr von der Zugüberwachung an den Fahrdienstleiter Rosenheim übergeben.  
+Der Fahrdienstleiter schlägt dem Triebfahrzeugführer vor, noch vor dem nächsten Bahnübergang anzuhalten, worauf der Triebfahrzeugführer sich nach dem Standort der nächsten Heißläuferortungsanlage erkundigt. Diese befindet sich erst in Grafing. Der Triebfahrzeugführer entscheidet, in Rosenheim die Untersuchung am Zug durchzuführen.  
+Um 00:26:11 Uhr meldet auch der dem TEC 41810 entgegenkommende Triebfahrzeugführer des Zuges 463 die Unregelmäßigkeit (vmtl. feste Bremse) dem Fahrdienstleiter Rosenheim. Der Fahrdienstleiter ordnet nun den Halt des TEC 41810 vor dem Blocksignal 322 an.  
+Der Triebfahrzeugführer des TEC 41810 teilt um 00:26:43 Uhr dem Fahrdienstleiter Rosenheim mit, dass er bereits zum Stehen gekommen sei. Der Triebfahrzeugführer des Zuges 463 unterrichtet den Fahrdienstleiter Rosenheim über vorgefundene Entgleisungsspuren am Gleis Freilassing – Rosenheim, worauf dieser um 00:33 Uhr beide Gleise sperrt.  
+Unter der Annahme, dass sich die Züge 41810 und 42831 am Asig Bf Bad Endorf km 16,4 begegneten und der Zug 41810 mit einer konstanten Geschwindigkeit von ca. 95 km weitergefahren ist, müsste den Triebfahrzeugführer des TEC 41810 die erste Meldung der Betriebsleitung ca. in km 14,763 erreicht haben. Hieraus ergibt sich ein rechnerischer Abstand bis zur Entgleisungsstelle von ca. 3.130 m bei einer Fahrzeit von ca. 2 Minuten.
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
-Verletzte und Todesopfer sind nicht zu beklagen, die SachschÃ¤den werden auf ca. 2.000.000,00 EUR benannt.  
-Aufgrund der Entgleisung kommt es zu SachschÃ¤den an dem entgleisten Wagen und an der Infrastruktur. Diese SchÃ¤den betragen ca. 2.000.000 EUR.
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Verletzte und Todesopfer sind nicht zu beklagen, die Sachschäden werden auf ca. 2.000.000,00 EUR benannt.  
+Aufgrund der Entgleisung kommt es zu Sachschäden an dem entgleisten Wagen und an der Infrastruktur. Diese Schäden betragen ca. 2.000.000 EUR.
 
 # Ursachen des Unfalls  
-Die Entgleisung ist ursÃ¤chlich auf einen Lagerschaden am Radsatz Nr. 138 602 des Tragwagens (Fzg.-Nr.: 2180 4426 671-4, Gattung/Bauart: Lgs 580, 2-achsig, beladen) zurÃ¼ckzufÃ¼hren.  
-Eine Entgleisung hÃ¤tte mÃ¶glicherweise nach dem Erkennen der UnregelmÃ¤ÃŸigkeit an einem Fahrzeug bzw. Erlangung dieser Information durch die beteiligten Betriebspersonale bei konsequenter Anwendung des betrieblichen Regelwerkes (MaÃŸnahmen bei Gefahr) vermieden werden kÃ¶nnen.  
-Die Untersuchungen zeigten, dass zeichnungsgerechte Komponenten eingebaut waren und keine MÃ¤ngel an der Verschraubung vorlagen. Hierin begrÃ¼ndet sind keine weiteren Aussagen zur Ursache des Versagens des Radsatzlagers mÃ¶glich.  
-Aufgrund des Schadbildes, insbesondere dem nahezu vollstÃ¤ndigem VerschleiÃŸ des Nutmuttergewindes, ist davon auszugehen, dass sich die Nutmutter lÃ¶ste und sich hierbei der vordere Innenring mitgedreht hat.
+Die Entgleisung ist ursächlich auf einen Lagerschaden am Radsatz Nr. 138 602 des Tragwagens (Fzg.-Nr.: 2180 4426 671-4, Gattung/Bauart: Lgs 580, 2-achsig, beladen) zurückzuführen.  
+Eine Entgleisung hätte möglicherweise nach dem Erkennen der Unregelmäßigkeit an einem Fahrzeug bzw. Erlangung dieser Information durch die beteiligten Betriebspersonale bei konsequenter Anwendung des betrieblichen Regelwerkes (Maßnahmen bei Gefahr) vermieden werden können.  
+Die Untersuchungen zeigten, dass zeichnungsgerechte Komponenten eingebaut waren und keine Mängel an der Verschraubung vorlagen. Hierin begründet sind keine weiteren Aussagen zur Ursache des Versagens des Radsatzlagers möglich.  
+Aufgrund des Schadbildes, insbesondere dem nahezu vollständigem Verschleiß des Nutmuttergewindes, ist davon auszugehen, dass sich die Nutmutter löste und sich hierbei der vordere Innenring mitgedreht hat.
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
-Durch konsequente, vollstÃ¤ndige HOA-AusrÃ¼stung, auch der mit Zs 6 befahrbaren Gleise entgegen der gewÃ¶hnlichen Fahrtrichtung, bestÃ¼nde die MÃ¶glichkeit HeiÃŸlÃ¤ufer frÃ¼hzeitiger zu erkennen.  
-Am 24.04.2012 hat die europÃ¤ische Eisenbahnagentur (ERA) einen Abschlussbericht â€žPrevention and mitigation of freight train derailments at short and medium termsâ€œ zur Entgleisung von GÃ¼terzÃ¼gen verÃ¶ffentlicht. Dieser ist unter www.era-europa.eu abrufbar. Unter AbwÃ¤gung aller im Bericht dargestellten Rahmenbedingungen kommt die Agentur zu dem Schluss, dass die Verbesserung der Umsetzung der Sicherheitsmanagementsysteme unter der Verantwortung der Eisenbahnen und die Verbesserung der Umsetzung des GÃ¼terwageninstandhaltungssystems unter der Verantwortung der sog. Entities in Charge of Maintenance (ECM) die maÃŸgeblichen MaÃŸnahmen zur Reduzierung des GÃ¼terzugentgleisungsrisikos in der europÃ¤ischen Union darstellen wÃ¼rden.  
-Weiterhin ist festzuhalten, dass das SchadensausmaÃŸ bei konsequenter Einhaltung und Umsetzung, insbesondere der Anforderungen aus Ril 408.0553 - ZÃ¼ge fahren - UnregelmÃ¤ÃŸigkeiten an Fahrzeugen oder Ladungen und Ril 408.0581 - ZÃ¼ge fahren - Verhalten bei Gefahr geringer gewesen und es mÃ¶glicherweise nicht zu einer Entgleisung gekommen wÃ¤re.  
-Auch wenn der Begriff â€žfeste Bremseâ€œ nicht explizit in der lediglich beispielhaften AufzÃ¤hlung von UnregelmÃ¤ÃŸigkeiten an Fahrzeugen oder Ladungen gemÃ¤ÃŸ Ril 40
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+Durch konsequente, vollständige HOA-Ausrüstung, auch der mit Zs 6 befahrbaren Gleise entgegen der gewöhnlichen Fahrtrichtung, bestünde die Möglichkeit Heißläufer frühzeitiger zu erkennen.  
+Am 24.04.2012 hat die europäische Eisenbahnagentur (ERA) einen Abschlussbericht "Prevention and mitigation of freight train derailments at short and medium terms" zur Entgleisung von Güterzügen veröffentlicht. Dieser ist unter www.era-europa.eu abrufbar. Unter Abwägung aller im Bericht dargestellten Rahmenbedingungen kommt die Agentur zu dem Schluss, dass die Verbesserung der Umsetzung der Sicherheitsmanagementsysteme unter der Verantwortung der Eisenbahnen und die Verbesserung der Umsetzung des Güterwageninstandhaltungssystems unter der Verantwortung der sog. Entities in Charge of Maintenance (ECM) die maßgeblichen Maßnahmen zur Reduzierung des Güterzugentgleisungsrisikos in der europäischen Union darstellen würden.  
+Weiterhin ist festzuhalten, dass das Schadensausmaß bei konsequenter Einhaltung und Umsetzung, insbesondere der Anforderungen aus Ril 408.0553 - Züge fahren - Unregelmäßigkeiten an Fahrzeugen oder Ladungen und Ril 408.0581 - Züge fahren - Verhalten bei Gefahr geringer gewesen und es möglicherweise nicht zu einer Entgleisung gekommen wäre.  
+Auch wenn der Begriff "feste Bremse" nicht explizit in der lediglich beispielhaften Aufzählung von Unregelmäßigkeiten an Fahrzeugen oder Ladungen gemäß Ril 40
 
-08.0553 enthalten ist, ist eine feste Bremse hier unterzubringen und es sind MaÃŸnahmen bei Gefahr zu treffen. Durch keines der beteiligten Betriebspersonale, begonnen bei den TriebfahrzeugfÃ¼hrern der entgegenkommenden ZÃ¼ge, der ZugÃ¼berwachung, dem Fahrdienstleiter noch dem TriebfahrzeugfÃ¼hrer des entgleisten Zuges, wurde diese Information â€žfeste Bremseâ€œ als solche identifiziert und entsprechend mit Nothaltauftrag / sofortigem Anhalten reagiert. Diese Verhaltensmuster, die auch bei anderen Ereignissen grundsÃ¤tzlich festzustellen sind, kÃ¶nnen ein Indiz dafÃ¼r sein, dass betriebliche Regelungen bzw. deren Bedeutung in ihrer vollen Tiefe nicht bekannt bzw. eine Hemmschwelle bestehen kÃ¶nnte, diese entsprechend umzusetzen.
+08.0553 enthalten ist, ist eine feste Bremse hier unterzubringen und es sind Maßnahmen bei Gefahr zu treffen. Durch keines der beteiligten Betriebspersonale, begonnen bei den Triebfahrzeugführern der entgegenkommenden Züge, der Zugüberwachung, dem Fahrdienstleiter noch dem Triebfahrzeugführer des entgleisten Zuges, wurde diese Information "feste Bremse" als solche identifiziert und entsprechend mit Nothaltauftrag / sofortigem Anhalten reagiert. Diese Verhaltensmuster, die auch bei anderen Ereignissen grundsätzlich festzustellen sind, können ein Indiz dafür sein, dass betriebliche Regelungen bzw. deren Bedeutung in ihrer vollen Tiefe nicht bekannt bzw. eine Hemmschwelle bestehen könnte, diese entsprechend umzusetzen.
 
 ---
 file: 098_Hosena.txt
 
-GefÃ¤hrliches Ereignis im Eisenbahnbetrieb  
+Gefährliches Ereignis im Eisenbahnbetrieb  
 Untersuchungsbericht Zugkollision, 11.11.2013, Hosena  
 
 # Hergang des Unfalls  
-Am 11.11.2013 kam es gegen 18:26 Uhr im Bahnhof (Bf) Hosena, Gleis 4 etwa in km 88,485 zu einer Kollision zweier GÃ¼terzÃ¼ge. Hierbei fuhr der einfahrende GM 61649 auf den aus dem Bf Hosena ausfahrenden DGS 90981 auf. Der GÃ¼terzug DGS 90981 wurde zuvor im Anschlussgleis des Bf Hosena mit Schotter beladen und fuhr gegen 16:51 Uhr nach Senftenberg. Dort wurde der Zug umgespannt, um anschlieÃŸend wieder Ã¼ber Hosena nach Schwarzkollm fahren zu kÃ¶nnen. Dieser Zuglauf wurde notwendig, da nach einem gefÃ¤hrlichen Ereignis 2012 im Bahnhof Hosena aufgrund des Bauzustandes ein Umspannen des Triebfahrzeuges hier nicht mÃ¶glich war. Der GÃ¼terzug fuhr gegen 18:14 Uhr in den Bf Hosena nach Gleis 4 und sollte nach Ãœberholung durch den RE 26057 nach Schwarzkollm weiterfahren. Obwohl das Gleis 4 durch den gerade in der Ausfahrt befindlichen DGS 90981 noch besetzt war, erhielt der ebenfalls aus Richtung Brieske kommende GM 61649 zwischenzeitlich Einfahrt nach Gleis 4 in den Bf Hosena.  
+Am 11.11.2013 kam es gegen 18:26 Uhr im Bahnhof (Bf) Hosena, Gleis 4 etwa in km 88,485 zu einer Kollision zweier Güterzüge. Hierbei fuhr der einfahrende GM 61649 auf den aus dem Bf Hosena ausfahrenden DGS 90981 auf. Der Güterzug DGS 90981 wurde zuvor im Anschlussgleis des Bf Hosena mit Schotter beladen und fuhr gegen 16:51 Uhr nach Senftenberg. Dort wurde der Zug umgespannt, um anschließend wieder über Hosena nach Schwarzkollm fahren zu können. Dieser Zuglauf wurde notwendig, da nach einem gefährlichen Ereignis 2012 im Bahnhof Hosena aufgrund des Bauzustandes ein Umspannen des Triebfahrzeuges hier nicht möglich war. Der Güterzug fuhr gegen 18:14 Uhr in den Bf Hosena nach Gleis 4 und sollte nach Überholung durch den RE 26057 nach Schwarzkollm weiterfahren. Obwohl das Gleis 4 durch den gerade in der Ausfahrt befindlichen DGS 90981 noch besetzt war, erhielt der ebenfalls aus Richtung Brieske kommende GM 61649 zwischenzeitlich Einfahrt nach Gleis 4 in den Bf Hosena.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
-Todesopfer sind keine zu beklagen. Der TriebfahrzeugfÃ¼hrer wird bei dem Ereignis leicht verletzt und erleidet einen Schock. Die SachschÃ¤den werden auf ca. 1,85 Mio. Euro geschÃ¤tzt und setzen sich wie folgt zusammen:  
-- Triebfahrzeuge und Wagen: ca. 1.500.000 â‚¬  
-- Gleisanlage: ca. 50.000 â‚¬  
-- Leit- und Sicherungstechnik: ca. 20.000 â‚¬  
-- EM-Technik: ca. 83.000 â‚¬  
-- DB Netz: ca. 126.000 â‚¬  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Todesopfer sind keine zu beklagen. Der Triebfahrzeugführer wird bei dem Ereignis leicht verletzt und erleidet einen Schock. Die Sachschäden werden auf ca. 1,85 Mio. Euro geschätzt und setzen sich wie folgt zusammen:  
+- Triebfahrzeuge und Wagen: ca. 1.500.000 €  
+- Gleisanlage: ca. 50.000 €  
+- Leit- und Sicherungstechnik: ca. 20.000 €  
+- EM-Technik: ca. 83.000 €  
+- DB Netz: ca. 126.000 €  
 
 # Ursachen des Unfalls  
-UrsÃ¤chlich fÃ¼r die Zugkollision im Gleis 4 des Bahnhofs Hosena war die Einfahrt des GM 61649 in den vom Zug DGS 90981 noch besetzten Gleisabschnitt. Dies wurde durch betriebliche Fehlhandlungen der Ã¶rtlichen Mitarbeiter auf dem Befehlsstellwerk B1 und dem WeichenwÃ¤rterstellwerk W3 verursacht. Der Fahrdienstleiter forderte beim WeichenwÃ¤rter fernmÃ¼ndlich die Zustimmungsabgabe z4 fÃ¼r die Einfahrt des GM 61649 an, obwohl das Gleis 4 in seinem FahrwegprÃ¼fbezirk noch besetzt war. Der WeichenwÃ¤rter gab dem Fahrdienstleiter die Zustimmung z4 zur Einfahrt in das Gleis 4, obwohl das Gleis 4 in seinem FahrwegprÃ¼fbezirk noch besetzt war. Da es zu dieser Zeit dunkel war, war der FahrwegprÃ¼fbezirk vom Stellwerk W3 aus nicht vollstÃ¤ndig einsehbar.  
+Ursächlich für die Zugkollision im Gleis 4 des Bahnhofs Hosena war die Einfahrt des GM 61649 in den vom Zug DGS 90981 noch besetzten Gleisabschnitt. Dies wurde durch betriebliche Fehlhandlungen der örtlichen Mitarbeiter auf dem Befehlsstellwerk B1 und dem Weichenwärterstellwerk W3 verursacht. Der Fahrdienstleiter forderte beim Weichenwärter fernmündlich die Zustimmungsabgabe z4 für die Einfahrt des GM 61649 an, obwohl das Gleis 4 in seinem Fahrwegprüfbezirk noch besetzt war. Der Weichenwärter gab dem Fahrdienstleiter die Zustimmung z4 zur Einfahrt in das Gleis 4, obwohl das Gleis 4 in seinem Fahrwegprüfbezirk noch besetzt war. Da es zu dieser Zeit dunkel war, war der Fahrwegprüfbezirk vom Stellwerk W3 aus nicht vollständig einsehbar.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
-Durch die DB Netz AG wurden alle Fahrdienstleiter und WeichenwÃ¤rter der ProduktionsdurchfÃ¼hrung im Rahmen des Fit und bei Dienstpostenkontrollen mit einer Sonderbelehrung â€žFahrwegprÃ¼fungâ€œ und â€žZeitpunkt der Abgabe von Zustimmungen zur Fahrtâ€œ auf die Problematik hingewiesen. Im Zusammenhang mit der Errichtung des Elektronischen Stellwerks im Bahnhof Hosena wurde dieser mittlerweile mit einer selbsttÃ¤tigen Gleisfreimeldeanlage ausgerÃ¼stet und die Beleuchtung der Bahnhofsgleise wurde nach dem Ereignis angepasst.
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+Durch die DB Netz AG wurden alle Fahrdienstleiter und Weichenwärter der Produktionsdurchführung im Rahmen des Fit und bei Dienstpostenkontrollen mit einer Sonderbelehrung "Fahrwegprüfung" und "Zeitpunkt der Abgabe von Zustimmungen zur Fahrt" auf die Problematik hingewiesen. Im Zusammenhang mit der Errichtung des Elektronischen Stellwerks im Bahnhof Hosena wurde dieser mittlerweile mit einer selbsttätigen Gleisfreimeldeanlage ausgerüstet und die Beleuchtung der Bahnhofsgleise wurde nach dem Ereignis angepasst.
 
 ---
 file: 030_Herlasgrün.txt
 
-Zugentgleisung, 05.03.2010, HerlasgrÃ¼n
+Zugentgleisung, 05.03.2010, Herlasgrün
 
 # Hergang des Unfalls  
-Am 05.03.2010 gegen 21:07 Uhr entgleist der GÃ¼terzug FIR 51649 bei der Durchfahrt durch den Bahnhof HerlasgrÃ¼n. Hierbei entgleist der an dritter Position in den Wagenzug eingeÂ­stellte, mit Methanol beladene Kesselwagen.  
-Der GÃ¼terzug FIR 51649 befuhr am 05.03.2010 die Strecke Leipzig - Hof, Streckennummer 6362. Bei der Durchfahrt durch Gleis 2 (betrieblich 8302) des Bahnhofs HerlasgrÃ¼n, km 101,970 entgleiste der dritte Wagen. Die Entgleisung erfolgte etwa gegen 21:07 Uhr. Der dahinter laufende, mit Wasserstoffperoxid, wÃ¤sserige LÃ¶sung (UN 2014), beladene Kesselwagen Ã¼berpufferte.  
+Am 05.03.2010 gegen 21:07 Uhr entgleist der Güterzug FIR 51649 bei der Durchfahrt durch den Bahnhof Herlasgrün. Hierbei entgleist der an dritter Position in den Wagenzug einge­stellte, mit Methanol beladene Kesselwagen.  
+Der Güterzug FIR 51649 befuhr am 05.03.2010 die Strecke Leipzig - Hof, Streckennummer 6362. Bei der Durchfahrt durch Gleis 2 (betrieblich 8302) des Bahnhofs Herlasgrün, km 101,970 entgleiste der dritte Wagen. Die Entgleisung erfolgte etwa gegen 21:07 Uhr. Der dahinter laufende, mit Wasserstoffperoxid, wässerige Lösung (UN 2014), beladene Kesselwagen überpufferte.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
 Bei der Entgleisung kamen keine Personen zu Schaden.  
-Durch die Entgleisung wurde der Oberbau auf eine LÃ¤nge von ca. 330 m stark beschÃ¤digt und die Weichen 83W22, 83W23 und 83W24 mussten komplett erneuert werden. Die SachschÃ¤den an den Eisenbahnfahrzeugen und Bahnanlagen belaufen sich nach EinschÃ¤tzung des Infrastrukturbetreibers auf ca. 573.000 EUR. Zu einem Austritt von Gefahrgut ist es nicht gekommen.  
+Durch die Entgleisung wurde der Oberbau auf eine Länge von ca. 330 m stark beschädigt und die Weichen 83W22, 83W23 und 83W24 mussten komplett erneuert werden. Die Sachschäden an den Eisenbahnfahrzeugen und Bahnanlagen belaufen sich nach Einschätzung des Infrastrukturbetreibers auf ca. 573.000 EUR. Zu einem Austritt von Gefahrgut ist es nicht gekommen.  
 
 # Ursachen des Unfalls  
-Die Ursache fÃ¼r die Entgleisung ist eindeutig in der ZerstÃ¶rung des Achslagers am 3. RadÂ­satz des 3. Wagens durch KÃ¤figbruch mit anschlieÃŸendem HeiÃŸlÃ¤ufer und AchsschenkelÂ­bruch begrÃ¼ndet.  
-Bei dem verwendeten WÃ¤lzlager der A-Seite handelte es sich um die Bauart WJ/WJP 120x240x80. Aufgrund des ZerstÃ¶rungsgrades war nur noch der Hersteller (Firma Poland, Baujahr 1972) des vorderen AuÃŸenringes erkennbar. Die WÃ¤lzlager waren mit stahlstiftverÂ­nietetem MessingkÃ¤fig ausgerÃ¼stet, wobei dieser auf der Schadradseite gebrochen war.  
-Durch den Austausch stahlstiftvernieteter MessingkÃ¤fige durch KunststoffkÃ¤fige kÃ¶nnte die Notlaufeigenschaft von Lagern grundsÃ¤tzlich erhÃ¶ht und ein spontanes Versagen von stahlstiftvernieteten MessingkÃ¤figen generell vermieden werden.  
+Die Ursache für die Entgleisung ist eindeutig in der Zerstörung des Achslagers am 3. Rad­satz des 3. Wagens durch Käfigbruch mit anschließendem Heißläufer und Achsschenkel­bruch begründet.  
+Bei dem verwendeten Wälzlager der A-Seite handelte es sich um die Bauart WJ/WJP 120x240x80. Aufgrund des Zerstörungsgrades war nur noch der Hersteller (Firma Poland, Baujahr 1972) des vorderen Außenringes erkennbar. Die Wälzlager waren mit stahlstiftver­nietetem Messingkäfig ausgerüstet, wobei dieser auf der Schadradseite gebrochen war.  
+Durch den Austausch stahlstiftvernieteter Messingkäfige durch Kunststoffkäfige könnte die Notlaufeigenschaft von Lagern grundsätzlich erhöht und ein spontanes Versagen von stahlstiftvernieteten Messingkäfigen generell vermieden werden.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
-Zur Detektion von HeiÃŸlÃ¤ufern ist die Strecke mit HO-Anlagen ausgerÃ¼stet. Die Entgleisung erfolgte zwischen den HOA Neukieritzsch und Liebau, die ca. 86,228 km voneinander entfernt angeordnet sind.  
-Eine Reduktion der Versagenswahrscheinlichkeit von stahlstiftvernieteten MessingkÃ¤figen kÃ¶nnte auch durch die VerkÃ¼rzung der Wartungsintervalle der Lager bis hin zu den RadsÃ¤tzen - zur Vermeidung versagensbegÃ¼nstigender BegleitumstÃ¤nde wie Unrundheiten der RÃ¤der etc. â€“ selbst erreicht werden.  
-Die Verbesserung der Umsetzung der Sicherheitsmanagementsysteme unter der Verantwortung der Eisenbahnen und die Verbesserung der Umsetzung des GÃ¼terwageninstandhaltungssystems unter der Verantwortung der sog. Entities in Charge of Maintenance (ECM) stellen maÃŸgebliche MaÃŸnahmen zur Reduzierung des GÃ¼terzugentgleisungsrisikos in der europÃ¤ischen Union dar.
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+Zur Detektion von Heißläufern ist die Strecke mit HO-Anlagen ausgerüstet. Die Entgleisung erfolgte zwischen den HOA Neukieritzsch und Liebau, die ca. 86,228 km voneinander entfernt angeordnet sind.  
+Eine Reduktion der Versagenswahrscheinlichkeit von stahlstiftvernieteten Messingkäfigen könnte auch durch die Verkürzung der Wartungsintervalle der Lager bis hin zu den Radsätzen - zur Vermeidung versagensbegünstigender Begleitumstände wie Unrundheiten der Räder etc. – selbst erreicht werden.  
+Die Verbesserung der Umsetzung der Sicherheitsmanagementsysteme unter der Verantwortung der Eisenbahnen und die Verbesserung der Umsetzung des Güterwageninstandhaltungssystems unter der Verantwortung der sog. Entities in Charge of Maintenance (ECM) stellen maßgebliche Maßnahmen zur Reduzierung des Güterzugentgleisungsrisikos in der europäischen Union dar.
 
 ---
 file: 107_Schleswig.txt
@@ -1516,76 +1516,76 @@ file: 107_Schleswig.txt
 Zugkollision, 17.11.2015, Schleswig
 
 # Hergang des Unfalls
-Der RE-D 69552 kollidierte bei der Ausfahrt aus dem Gleis 803 des Bahnhofs Schleswig mit einer Baumaschine (Schnellschotterplaniermaschine â€“ SSP) in der Weiche 816. Die Baumaschine war in der Weiche 816 abgestellt, wobei ihr nÃ¶rdliches Ende in das Profil des Gleises 802 ragte. Beim Durchfahren des Weichenbereichs hinter dem Ausfahrsignal N803 erfasste der RE-D 69552 die Baumaschine. Die Kollision geschah trotz der Dunkelheit und starken RegenfÃ¤lle, wobei der TriebfahrzeugfÃ¼hrer die Gefahrensituation erkennen konnte, eine Kollision jedoch nicht vermeiden konnte.
+Der RE-D 69552 kollidierte bei der Ausfahrt aus dem Gleis 803 des Bahnhofs Schleswig mit einer Baumaschine (Schnellschotterplaniermaschine – SSP) in der Weiche 816. Die Baumaschine war in der Weiche 816 abgestellt, wobei ihr nördliches Ende in das Profil des Gleises 802 ragte. Beim Durchfahren des Weichenbereichs hinter dem Ausfahrsignal N803 erfasste der RE-D 69552 die Baumaschine. Die Kollision geschah trotz der Dunkelheit und starken Regenfälle, wobei der Triebfahrzeugführer die Gefahrensituation erkennen konnte, eine Kollision jedoch nicht vermeiden konnte.
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte
-Es wurden keine Todesopfer gemeldet. Die SachschÃ¤den belaufen sich auf etwa 7000 Euro. BeschÃ¤digt wurden die rechte Seite des Triebfahrzeugs, wobei die Fahrzeuglackierung abgerieben und Haltestangen verbogen bzw. abgerissen wurden. Es kam nicht zur Entgleisung der Fahrzeuge.
+# Höhe des Schadens, Anzahl Tote und Verletzte
+Es wurden keine Todesopfer gemeldet. Die Sachschäden belaufen sich auf etwa 7000 Euro. Beschädigt wurden die rechte Seite des Triebfahrzeugs, wobei die Fahrzeuglackierung abgerieben und Haltestangen verbogen bzw. abgerissen wurden. Es kam nicht zur Entgleisung der Fahrzeuge.
 
 # Ursachen des Unfalls
-Die Ursache fÃ¼r die Kollision lag in der mangelhaften FahrwegprÃ¼fung. Vor der Zugfahrt hÃ¤tte die BestÃ¤tigung des Freiseins des Flankenschutzraums an der Weiche 816 durch den Flankenschutzposten erfolgen mÃ¼ssen. Eine Kommunikation mit dem Flankenschutzposten vor der Zulassung der Ausfahrt konnte nicht nachgewiesen werden. Zudem war die WÃ¤rterhaltscheibe nicht an der vorgeschriebenen Stelle aufgestellt, sondern in der Weiche 816. Das Grenzzeichen der Weiche 816 war nicht an der richtigen Stelle platziert, was zur falschen Abstellung der Baumaschine fÃ¼hrte.
+Die Ursache für die Kollision lag in der mangelhaften Fahrwegprüfung. Vor der Zugfahrt hätte die Bestätigung des Freiseins des Flankenschutzraums an der Weiche 816 durch den Flankenschutzposten erfolgen müssen. Eine Kommunikation mit dem Flankenschutzposten vor der Zulassung der Ausfahrt konnte nicht nachgewiesen werden. Zudem war die Wärterhaltscheibe nicht an der vorgeschriebenen Stelle aufgestellt, sondern in der Weiche 816. Das Grenzzeichen der Weiche 816 war nicht an der richtigen Stelle platziert, was zur falschen Abstellung der Baumaschine führte.
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle
-Die Untersuchung empfahl die DurchfÃ¼hrung von FahrwegprÃ¼fungen durch Flankenschutzposten, wie in der Betra vorgeschrieben. Zudem sollte sichergestellt werden, dass WÃ¤rterhaltscheiben und Grenzzeichen korrekt aufgestellt sind. Die Kommunikation zwischen Fahrdienstleiter und Flankenschutzposten muss verbessert werden, um das Freisein des Flankenschutzraums sicherzustellen. Bisher wurden nach dem Unfall mit dem Fahrdienstleiter ein belehrendes GesprÃ¤ch durchgefÃ¼hrt, und das bahnfremde Unternehmen fÃ¼r die Auswertung des Ereignisses mit dem Flankenschutzposten verantwortlich gemacht.
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle
+Die Untersuchung empfahl die Durchführung von Fahrwegprüfungen durch Flankenschutzposten, wie in der Betra vorgeschrieben. Zudem sollte sichergestellt werden, dass Wärterhaltscheiben und Grenzzeichen korrekt aufgestellt sind. Die Kommunikation zwischen Fahrdienstleiter und Flankenschutzposten muss verbessert werden, um das Freisein des Flankenschutzraums sicherzustellen. Bisher wurden nach dem Unfall mit dem Fahrdienstleiter ein belehrendes Gespräch durchgeführt, und das bahnfremde Unternehmen für die Auswertung des Ereignisses mit dem Flankenschutzposten verantwortlich gemacht.
 
 ---
 file: 145_Nienberge_-_Altenberge.txt
 
-Zugentgleisung, 22.11.2008, Nienberge â€� Altenberge
+Zugentgleisung, 22.11.2008, Nienberge � Altenberge
 
 # Hergang des Unfalls  
-Am 22.11.2008 entgleiste um 03:54 Uhr die Sperrfahrt 92628, bestehend aus einem Zweiwegebagger und einem geschobenen zweiachsigen Materialwagen, auf der freien Strecke zwischen dem Haltepunkt Nienberge (heute MÃ¼nsterâ€�HÃ¤ger) und Altenberge.  
+Am 22.11.2008 entgleiste um 03:54 Uhr die Sperrfahrt 92628, bestehend aus einem Zweiwegebagger und einem geschobenen zweiachsigen Materialwagen, auf der freien Strecke zwischen dem Haltepunkt Nienberge (heute Münster�Häger) und Altenberge.  
 (...)  
-Gegen 00:40 Uhr fuhr die Sperrfahrt in Altenberge in Richtung Nienberge ab. In der Kabine des Zweiwegebaggers befanden sich der BaggerfÃ¼hrer und der hinter ihm sitzende ArbeitszugfÃ¼hrer. Der Materialwagen wurde vom Zweiwegebagger gezogen. WÃ¤hrend dieser Fahrt wurden die im Rahmen der Betra zurÃ¼ckgebauten Signalmasten auf den Materialwagen geladen. Am Hp Nienberge wurden die Masten dann abgelegt und ein Vorarbeiter stieg ebenfalls in die Fahrzeugkabine ein. Wegen des sehr geringen Platzangebots in der Kabine, stellte sich der Vorarbeiter links in gebeugter Haltung neben den Ef. Der ArbeitszugfÃ¼hrer saÃŸ dahinter. WÃ¤hrend der RÃ¼ckfahrt nach Altenberge wurde der Ã¼ber eine Kupplungsstange verbundene Materialwagen vom Zweiwegebagger geschoben. Die Greifertasche des Baggers war dabei Ã¼ber den ausgestreckten Ausleger auf dem Materialwagen abgelegt.  
+Gegen 00:40 Uhr fuhr die Sperrfahrt in Altenberge in Richtung Nienberge ab. In der Kabine des Zweiwegebaggers befanden sich der Baggerführer und der hinter ihm sitzende Arbeitszugführer. Der Materialwagen wurde vom Zweiwegebagger gezogen. Während dieser Fahrt wurden die im Rahmen der Betra zurückgebauten Signalmasten auf den Materialwagen geladen. Am Hp Nienberge wurden die Masten dann abgelegt und ein Vorarbeiter stieg ebenfalls in die Fahrzeugkabine ein. Wegen des sehr geringen Platzangebots in der Kabine, stellte sich der Vorarbeiter links in gebeugter Haltung neben den Ef. Der Arbeitszugführer saß dahinter. Während der Rückfahrt nach Altenberge wurde der über eine Kupplungsstange verbundene Materialwagen vom Zweiwegebagger geschoben. Die Greifertasche des Baggers war dabei über den ausgestreckten Ausleger auf dem Materialwagen abgelegt.  
 (...)  
-Gegen 03:54 Uhr hoben sich in km 12,2 bei einer Geschwindigkeit von ca. 15 km/h die vorderen RÃ¤der des Zweiwegebaggers an. Das Fahrzeug entgleiste und stÃ¼rzte nach links die BÃ¶schung hinab. Dabei riss die Kupplung zum Materialwagen ab. Der Materialwagen blieb im entgleisten Zustand auf dem Bahndamm stehen.  
+Gegen 03:54 Uhr hoben sich in km 12,2 bei einer Geschwindigkeit von ca. 15 km/h die vorderen Räder des Zweiwegebaggers an. Das Fahrzeug entgleiste und stürzte nach links die Böschung hinab. Dabei riss die Kupplung zum Materialwagen ab. Der Materialwagen blieb im entgleisten Zustand auf dem Bahndamm stehen.  
 (...)  
-Aus Sicht des Gutachterteams hat sich folgendes technisches Ereignis zugetragen: WÃ¤hrend der ÃœberfÃ¼hrungsfahrt senkte sich der Ausleger des Zweiwegebaggers ab und stÃ¼tzte sich auf dem geschobenen Materialwagen ab. Die Vorderachse des Baggers (in Fahrtrichtung) hob sich vom Gleis ab. In dieser Situation stÃ¼tzt sich der Bagger vorn auf dem beweglich gelagerten Greifer ab. In dieser angehobenen Stellung des Baggers gab es durch den Lagerpunkt am Greifer und/oder durch eine kurze Drehbewegung des Oberwagens (nicht eingelegter Verriegelungsbolzen) einen Impuls, der den Bagger in eine standsicherheitskritische Situation brachte und diesen dadurch umstÃ¼rzen lies [sic!].
+Aus Sicht des Gutachterteams hat sich folgendes technisches Ereignis zugetragen: Während der Überführungsfahrt senkte sich der Ausleger des Zweiwegebaggers ab und stützte sich auf dem geschobenen Materialwagen ab. Die Vorderachse des Baggers (in Fahrtrichtung) hob sich vom Gleis ab. In dieser Situation stützt sich der Bagger vorn auf dem beweglich gelagerten Greifer ab. In dieser angehobenen Stellung des Baggers gab es durch den Lagerpunkt am Greifer und/oder durch eine kurze Drehbewegung des Oberwagens (nicht eingelegter Verriegelungsbolzen) einen Impuls, der den Bagger in eine standsicherheitskritische Situation brachte und diesen dadurch umstürzen lies [sic!].
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
-Infolge der Entgleisung stÃ¼rzte der Zweiwegebagger die BÃ¶schung hinunter. Eine Person wurde dabei getÃ¶tet, eine Person wurde schwer und eine weitere Person leicht verletzt. Der entstandene Sachschaden wurde auf ca. 250.000 Euro geschÃ¤tzt.  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Infolge der Entgleisung stürzte der Zweiwegebagger die Böschung hinunter. Eine Person wurde dabei getötet, eine Person wurde schwer und eine weitere Person leicht verletzt. Der entstandene Sachschaden wurde auf ca. 250.000 Euro geschätzt.  
 (...)  
-Nach letzten Erkenntnissen traten folgend aufgefÃ¼hrte PersonenschÃ¤den ein:  
+Nach letzten Erkenntnissen traten folgend aufgeführte Personenschäden ein:  
 Anzahl Tote: 1  
 Anzahl schwer Verletzte: 1  
 Anzahl leicht Verletzte: 1  
 (...)  
-Die geschÃ¤tzte HÃ¶he der SachschÃ¤den in Euro setzt sich wie folgt zusammen:  
+Die geschätzte Höhe der Sachschäden in Euro setzt sich wie folgt zusammen:  
 Fahrzeuge: 250.000 Euro  
-Infrastruktur: â€“  
-GesamtschadenshÃ¶he: 250.000 Euro
+Infrastruktur: –  
+Gesamtschadenshöhe: 250.000 Euro
 
 # Ursachen des Unfalls  
-Die Entgleisung wurde durch eine unbeabsichtigte Bewegung des Baggerauslegers wÃ¤hrend der Fahrt verursacht.  
+Die Entgleisung wurde durch eine unbeabsichtigte Bewegung des Baggerauslegers während der Fahrt verursacht.  
 (...)  
-Die Gutachter kamen u. a. zu folgenden Ergebnissen: â€ž(...) 4. Am Ausleger des Baggers war ein am Befestigungspunkt beweglicher Greifer montiert. Durch diesen ist, in dem Fall, dass sich der Bagger auf dem Wagen abstÃ¼tzt und die in Fahrtrichtung vordere Achse aushebt, keine sichere 3-Punkt Auflage vorhanden. (...) 7. (...) ist zu erkennen, dass sich das Auslegerende (Befestigungs-/Drehpunkt Greifer) nach dem Unfall annÃ¤hernd auf HÃ¶he des Schienenfahrwerks befindet. (...)  
+Die Gutachter kamen u. a. zu folgenden Ergebnissen: "(...) 4. Am Ausleger des Baggers war ein am Befestigungspunkt beweglicher Greifer montiert. Durch diesen ist, in dem Fall, dass sich der Bagger auf dem Wagen abstützt und die in Fahrtrichtung vordere Achse aushebt, keine sichere 3-Punkt Auflage vorhanden. (...) 7. (...) ist zu erkennen, dass sich das Auslegerende (Befestigungs-/Drehpunkt Greifer) nach dem Unfall annähernd auf Höhe des Schienenfahrwerks befindet. (...)  
 (...)  
-Eine freie Drehbewegung des Oberwagens mit ausgestrecktem Ausleger mit leerem Greifer ist nach Angaben der Fa. Liebherr selbst bei HÃ¶chstgeschwindigkeit (20 km/h) ohne Gefahr mÃ¶glich. Ist der Greifer aber auf dem Oberwagen aufgelegt (Festpunkt) entsteht ein Drehmoment in Bezug auf die Drehachse des Oberwagens, welches sich negativ auf die Laufeigenschaften des Baggers auswirkt (dies gleicht einem Ausdrehversuch). (...)  
+Eine freie Drehbewegung des Oberwagens mit ausgestrecktem Ausleger mit leerem Greifer ist nach Angaben der Fa. Liebherr selbst bei Höchstgeschwindigkeit (20 km/h) ohne Gefahr möglich. Ist der Greifer aber auf dem Oberwagen aufgelegt (Festpunkt) entsteht ein Drehmoment in Bezug auf die Drehachse des Oberwagens, welches sich negativ auf die Laufeigenschaften des Baggers auswirkt (dies gleicht einem Ausdrehversuch). (...)  
 (...)  
-Die Mitnahme einer 3. Person stehend neben dem FahrzeugfÃ¼hrerplatz ist nicht gestattet. Die Fahrzeugkabine ist fÃ¼r 2 Personen (FahrzeugfÃ¼hrer und ArbeitszugfÃ¼hrer) zugelassen.  
+Die Mitnahme einer 3. Person stehend neben dem Fahrzeugführerplatz ist nicht gestattet. Die Fahrzeugkabine ist für 2 Personen (Fahrzeugführer und Arbeitszugführer) zugelassen.  
 (...)  
-Da die Gutachter keine Anhaltspunkte fÃ¼r eine technische Fehlfunktion am Zweiwegebagger identifizieren konnten und eine bewusste Bedienhandlung in dieser Situation als unwahrscheinlich anzusehen ist, ist davon auszugehen, dass es bedingt durch die rÃ¤umliche Enge in der Fahrzeugkabine zu einer unbeabsichtigten Bedienung des linken Kreuzschalthebels gekommen ist. Die Entgleisung wurde letztlich durch die unkontrollierte Bewegung des Auslegers ausgelÃ¶st.
+Da die Gutachter keine Anhaltspunkte für eine technische Fehlfunktion am Zweiwegebagger identifizieren konnten und eine bewusste Bedienhandlung in dieser Situation als unwahrscheinlich anzusehen ist, ist davon auszugehen, dass es bedingt durch die räumliche Enge in der Fahrzeugkabine zu einer unbeabsichtigten Bedienung des linken Kreuzschalthebels gekommen ist. Die Entgleisung wurde letztlich durch die unkontrollierte Bewegung des Auslegers ausgelöst.
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
 Es wurden keine Sicherheitsempfehlungen ausgesprochen.  
 (...)  
-Die DB Netz AG erstellte interne Prozesse, die den Einsatz von Fremdfahrzeugen und externen TriebfahrzeugfÃ¼hrern regeln. Weiterhin wurde bahnÃ¼bergreifendes Regelwerk erstellt, in dem der Einsatz von Fremdfahrzeugen und externen TriebfahrzeugfÃ¼hrern geregelt wird.
+Die DB Netz AG erstellte interne Prozesse, die den Einsatz von Fremdfahrzeugen und externen Triebfahrzeugführern regeln. Weiterhin wurde bahnübergreifendes Regelwerk erstellt, in dem der Einsatz von Fremdfahrzeugen und externen Triebfahrzeugführern geregelt wird.
 
 ---
 file: 052_Düsseldorf_Derendorf.txt
 
-Zugentgleisung, 02.07.2013, DÃ¼sseldorf-Derendorf  
+Zugentgleisung, 02.07.2013, Düsseldorf-Derendorf  
 
 # Hergang des Unfalls  
-Am 02.07.2013 fuhr gegen 17:24 Uhr der GÃ¼terzug DGS 95740 aus Gleis 12 des Bahnhofs DÃ¼sseldorf-Derendorf in Richtung Abzw DÃ¼sseldorf-Rethel aus. Die Zustimmung zur Abfahrt wurde durch die Fahrdienstleiterin (Fdl) des Stellwerks Dnf durch Fahrtstellung des Ausfahrsignals N12 (Hp 2; vmax= 40 km/h) erteilt. Der aus 12 Wagen bestehende Zug, der ausschlieÃŸlich aus Druckgaskesselwagen gebildet wurde, die mit Propen (UN: 23/1077) beladen waren, setzte sich daraufhin in Bewegung. Als der Zug eine Geschwindigkeit von ca. 20 km/h erreicht hatte, entgleiste in einem Linksbogen in HÃ¶he des Signals N12 der an 8. Stelle laufende Wagen, vermutlich mit dem vorderen Drehgestell zuerst, nach rechts. Im weiteren Verlauf entgleisten auch die an 9., 10. und 12. Stelle laufenden Wagen. Der 8. Wagen geriet zunehmend von der Fahrbahn ab, neigte sich nach rechts und kippte schlieÃŸlich um. Zwischen den Wagen acht und neun kam es zur Zugtrennung. Der DGS 95740 kam daraufhin, infolge der mit der Zugtrennung verbundenen Zwangsbremsung, nach einem Fahrweg von ca. 250 m zum Stillstand.  
+Am 02.07.2013 fuhr gegen 17:24 Uhr der Güterzug DGS 95740 aus Gleis 12 des Bahnhofs Düsseldorf-Derendorf in Richtung Abzw Düsseldorf-Rethel aus. Die Zustimmung zur Abfahrt wurde durch die Fahrdienstleiterin (Fdl) des Stellwerks Dnf durch Fahrtstellung des Ausfahrsignals N12 (Hp 2; vmax= 40 km/h) erteilt. Der aus 12 Wagen bestehende Zug, der ausschließlich aus Druckgaskesselwagen gebildet wurde, die mit Propen (UN: 23/1077) beladen waren, setzte sich daraufhin in Bewegung. Als der Zug eine Geschwindigkeit von ca. 20 km/h erreicht hatte, entgleiste in einem Linksbogen in Höhe des Signals N12 der an 8. Stelle laufende Wagen, vermutlich mit dem vorderen Drehgestell zuerst, nach rechts. Im weiteren Verlauf entgleisten auch die an 9., 10. und 12. Stelle laufenden Wagen. Der 8. Wagen geriet zunehmend von der Fahrbahn ab, neigte sich nach rechts und kippte schließlich um. Zwischen den Wagen acht und neun kam es zur Zugtrennung. Der DGS 95740 kam daraufhin, infolge der mit der Zugtrennung verbundenen Zwangsbremsung, nach einem Fahrweg von ca. 250 m zum Stillstand.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
-PersonenschÃ¤den waren infolge des Unfalls nicht zu beklagen. Es wurden ca. 150 m Gleis und zwei Weichen teils erheblich beschÃ¤digt. Der an 8. Stelle des Wagenzuges laufende Wagen war entgleist und umgestÃ¼rzt. AuÃŸerdem entgleisten die Wagen 9, 10 und 12. An den Wagen 7 und 11 kam es zu BeschÃ¤digungen. Das transportierte Gefahrgut ist nicht ausgetreten. Die SachschÃ¤den setzen sich wie folgt zusammen: Die DB Netz AG schÃ¤tzte den am Oberbau entstandenen Sachenschaden auf ca. 450.000,00 Euro. Die SchÃ¤den an Leit- und Sicherungstechnik betragen ca. 15.000,00 Euro. Die SchÃ¤tzung der beteiligten Fahrzeughalter fÃ¼r die an den Fahrzeugen entstandenen SchÃ¤den belaufen sich insgesamt auf ca. 90.000,00 Euro. Das EVU bezifferte die Kosten fÃ¼r Reparaturen vor Ort und Bergungskosten mit ca. 95.000,00 Euro. Demnach errechnet sich nach ersten groben SchÃ¤tzungen der beteiligten Unternehmen ein Gesamtschaden von ca. 650.000,00 Euro.  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Personenschäden waren infolge des Unfalls nicht zu beklagen. Es wurden ca. 150 m Gleis und zwei Weichen teils erheblich beschädigt. Der an 8. Stelle des Wagenzuges laufende Wagen war entgleist und umgestürzt. Außerdem entgleisten die Wagen 9, 10 und 12. An den Wagen 7 und 11 kam es zu Beschädigungen. Das transportierte Gefahrgut ist nicht ausgetreten. Die Sachschäden setzen sich wie folgt zusammen: Die DB Netz AG schätzte den am Oberbau entstandenen Sachenschaden auf ca. 450.000,00 Euro. Die Schäden an Leit- und Sicherungstechnik betragen ca. 15.000,00 Euro. Die Schätzung der beteiligten Fahrzeughalter für die an den Fahrzeugen entstandenen Schäden belaufen sich insgesamt auf ca. 90.000,00 Euro. Das EVU bezifferte die Kosten für Reparaturen vor Ort und Bergungskosten mit ca. 95.000,00 Euro. Demnach errechnet sich nach ersten groben Schätzungen der beteiligten Unternehmen ein Gesamtschaden von ca. 650.000,00 Euro.  
 
 # Ursachen des Unfalls  
-Ursache fÃ¼r die Entgleisung war eine unzulÃ¤ssige Spurerweiterung, ausgelÃ¶st durch fortgeschrittenen biologischen Zerfall der Holzschwellen. Die SpurhaltefÃ¤higkeit des Gleises war dadurch nicht mehr gegeben. Die Schwellen waren sowohl im geraden Gleisabschnitt vor der Unfallstelle, als auch insbesondere im anschlieÃŸenden Gleisbogen von teils starkem biologischen Zerfall geprÃ¤gt. Das fÃ¼hrte dazu, dass die Schwellenschrauben nicht mehr kraftschlÃ¼ssig mit den Rippenplatten verschraubt waren. Eine groÃŸe Zahl von Schwellenschrauben hatte sich gelÃ¶st und konnte teilweise mit der Hand ohne Ã¼bermÃ¤ÃŸige Kraftanwendung herausgezogen bzw. herausgedreht werden. Durch den fortschreitenden biologischen Zerfall haben sich die ursprÃ¼nglich senkrechten Bohrungen in den Holzschwellen im Laufe der Zeit stark aufgeweitet. Die Rippenplatten haben sich aufgrund der nun fehlenden kraftschlÃ¼ssigen Verspannung in die AuflageflÃ¤che eingearbeitet. Durch die Krafteinwirkung aus den Zugfahrten haben sich die Rippenplatten dann sowohl an der rechten als auch der linken Schiene seitlich verschoben. Die vor Ort gemessene einseitige maximale Verschiebung betrug 55 mm. Das Gleis war dadurch zunehmend nicht mehr in der Lage, die Belastungen des Eisenbahnverkehrs aufzunehmen, was letztendlich zum Versagen der SpurhaltefÃ¤higkeit fÃ¼hrte.  
+Ursache für die Entgleisung war eine unzulässige Spurerweiterung, ausgelöst durch fortgeschrittenen biologischen Zerfall der Holzschwellen. Die Spurhaltefähigkeit des Gleises war dadurch nicht mehr gegeben. Die Schwellen waren sowohl im geraden Gleisabschnitt vor der Unfallstelle, als auch insbesondere im anschließenden Gleisbogen von teils starkem biologischen Zerfall geprägt. Das führte dazu, dass die Schwellenschrauben nicht mehr kraftschlüssig mit den Rippenplatten verschraubt waren. Eine große Zahl von Schwellenschrauben hatte sich gelöst und konnte teilweise mit der Hand ohne übermäßige Kraftanwendung herausgezogen bzw. herausgedreht werden. Durch den fortschreitenden biologischen Zerfall haben sich die ursprünglich senkrechten Bohrungen in den Holzschwellen im Laufe der Zeit stark aufgeweitet. Die Rippenplatten haben sich aufgrund der nun fehlenden kraftschlüssigen Verspannung in die Auflagefläche eingearbeitet. Durch die Krafteinwirkung aus den Zugfahrten haben sich die Rippenplatten dann sowohl an der rechten als auch der linken Schiene seitlich verschoben. Die vor Ort gemessene einseitige maximale Verschiebung betrug 55 mm. Das Gleis war dadurch zunehmend nicht mehr in der Lage, die Belastungen des Eisenbahnverkehrs aufzunehmen, was letztendlich zum Versagen der Spurhaltefähigkeit führte.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
-RegelmÃ¤ÃŸige Inspektionen von fachkundigem Personal dienen dazu, den biologischen Zerfall der Schwellen zu begleiten und den vorgefundenen Zustand zu bewerten. Bei rechtzeitiger Instandsetzung bzw. Erneuerung geschÃ¤digter Schwellen ist dies auch unkritisch. Unterbleiben solche MaÃŸnahmen, kann es am Ende des SchÃ¤digungsprozesses zum plÃ¶tzlichen Versagen der SpurhaltefÃ¤higkeit kommen. Es wird empfohlen, Schwellen in regelmÃ¤ÃŸigen AbstÃ¤nden zu prÃ¼fen und bei AuffÃ¤lligkeiten umgehend zu ersetzen.
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+Regelmäßige Inspektionen von fachkundigem Personal dienen dazu, den biologischen Zerfall der Schwellen zu begleiten und den vorgefundenen Zustand zu bewerten. Bei rechtzeitiger Instandsetzung bzw. Erneuerung geschädigter Schwellen ist dies auch unkritisch. Unterbleiben solche Maßnahmen, kann es am Ende des Schädigungsprozesses zum plötzlichen Versagen der Spurhaltefähigkeit kommen. Es wird empfohlen, Schwellen in regelmäßigen Abständen zu prüfen und bei Auffälligkeiten umgehend zu ersetzen.
 
 ---
 file: 075_Saalfeld_Saale.txt
@@ -1593,60 +1593,60 @@ file: 075_Saalfeld_Saale.txt
 Zugkollision, 05.09.2013, Bahnhof Saalfeld (Saale)
 
 # Hergang des Unfalls  
-Durch den TriebfahrzeugfÃ¼hrer der Rangierfahrt und dem Fahrdienstleiter wurde die Rangierfahrt vom Nahbedienbereich I Ã¼ber den sÃ¼dlichen Bahnhofskopf zum Nahbedienbereich II vereinbart. Die Rangierfahrt fuhr mit Zustimmung aus Gleis 2584 nach Gleis 2574. Im Gleis 2574 stand das Signal 2574Y auf Halt, da der IC 2208 bereits Einfahrt aus Richtung Hockeroda nach Gleis 2564 hatte. Der TriebfahrzeugfÃ¼hrer der Rangierfahrt fuhr am haltzeigenden Signal 2574Y vorbei und hielt im Bereich der Weiche 2554 an. Der TriebfahrzeugfÃ¼hrer hatte erkannt, dass sich die Weiche fÃ¼r seine Fahrt nicht in der richtigen Lage befand. Der TriebfahrzeugfÃ¼hrer des IC 2208 bemerkte den Triebwagen in seinem Fahrweg und leitete eine Schnellbremsung ein. Eine Kollision mit dem Triebwagen konnte durch die Schnellbremsung nicht verhindert werden. Durch die Kollision entgleiste der Triebwagen mit einem Drehgestell.
+Durch den Triebfahrzeugführer der Rangierfahrt und dem Fahrdienstleiter wurde die Rangierfahrt vom Nahbedienbereich I über den südlichen Bahnhofskopf zum Nahbedienbereich II vereinbart. Die Rangierfahrt fuhr mit Zustimmung aus Gleis 2584 nach Gleis 2574. Im Gleis 2574 stand das Signal 2574Y auf Halt, da der IC 2208 bereits Einfahrt aus Richtung Hockeroda nach Gleis 2564 hatte. Der Triebfahrzeugführer der Rangierfahrt fuhr am haltzeigenden Signal 2574Y vorbei und hielt im Bereich der Weiche 2554 an. Der Triebfahrzeugführer hatte erkannt, dass sich die Weiche für seine Fahrt nicht in der richtigen Lage befand. Der Triebfahrzeugführer des IC 2208 bemerkte den Triebwagen in seinem Fahrweg und leitete eine Schnellbremsung ein. Eine Kollision mit dem Triebwagen konnte durch die Schnellbremsung nicht verhindert werden. Durch die Kollision entgleiste der Triebwagen mit einem Drehgestell.
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
-Todesopfer und Verletzte sind keine zu beklagen. Die SachschÃ¤den setzen sich wie folgt zusammen:  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Todesopfer und Verletzte sind keine zu beklagen. Die Sachschäden setzen sich wie folgt zusammen:  
 - Triebfahrzeuge: ca. 279.000 Euro  
 - Betriebserschwernisse: ca. 58.000 Euro  
 - Sonstige Kosten: ca. 1.400 Euro  
 
 # Ursachen des Unfalls  
-Die aus Gleis 2584 kommende Rangierfahrt fuhr am haltzeigenden Sperrsignal 2574Y unzulÃ¤ssig vorbei und fuhr bis zur Weiche 2554. Der IC 2208 hatte Einfahrt aus Richtung Hockeroda nach Gleis 4. Im Fahrweg des IC liegt die Weiche 2554 auf der es zur Kollision kam.  
+Die aus Gleis 2584 kommende Rangierfahrt fuhr am haltzeigenden Sperrsignal 2574Y unzulässig vorbei und fuhr bis zur Weiche 2554. Der IC 2208 hatte Einfahrt aus Richtung Hockeroda nach Gleis 4. Im Fahrweg des IC liegt die Weiche 2554 auf der es zur Kollision kam.  
 ...  
-Trotz fehlender Zustimmung durch den Ã¶zF fuhr die Rangierfahrt an dem haltzeigenden Signal Ls 2574Y vorbei und kam im Bereich der Weiche 2554 zum halten. Kollision mit IC 2208.  
+Trotz fehlender Zustimmung durch den özF fuhr die Rangierfahrt an dem haltzeigenden Signal Ls 2574Y vorbei und kam im Bereich der Weiche 2554 zum halten. Kollision mit IC 2208.  
 ...  
-Die ÃœberprÃ¼fung ergab, dass sich die ZugfahrstraÃŸe nicht einstellen lieÃŸ, wenn die RangierfahrstraÃŸe eingestellt wurde. Auch lieÃŸ sich die RangierfahrstraÃŸe nicht einstellen, wenn bereits die ZugfahrstraÃŸe eingestellt war.  
+Die Überprüfung ergab, dass sich die Zugfahrstraße nicht einstellen ließ, wenn die Rangierfahrstraße eingestellt wurde. Auch ließ sich die Rangierfahrstraße nicht einstellen, wenn bereits die Zugfahrstraße eingestellt war.  
 ...  
-Die betrieblichen Handlungen des TriebfahrzeugfÃ¼hrers der Rangierfahrt:  
-- Nach Zustimmung des Ã¶rtlich zustÃ¤ndigen Fahrdienstleiters durch Ra 12 fuhr der TriebfahrzeugfÃ¼hrer am Signal 2584Y vorbei.  
+Die betrieblichen Handlungen des Triebfahrzeugführers der Rangierfahrt:  
+- Nach Zustimmung des örtlich zuständigen Fahrdienstleiters durch Ra 12 fuhr der Triebfahrzeugführer am Signal 2584Y vorbei.  
 - Die Weiterfahrt erfolgte in das Gleis 2574 bis zum Signal 2574Y.  
-- Der Ã¶zF stimmte der Fahrt nicht zu. Das Signal Ls 2574Y zeigte nicht Ra 12.  
+- Der özF stimmte der Fahrt nicht zu. Das Signal Ls 2574Y zeigte nicht Ra 12.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
-Durch den Eisenbahnbetriebsleiter und Ã¶rtlichen Betriebsleiter wurden im Rahmen von Kontrollfahrten auf die Bedeutung der Rangiersignale und deren Auswirkung bei Nichtbeachtung hingewiesen. Im Rahmen des Wiedereinsatzes des TriebfahrzeugfÃ¼hrers wurden durch mehrere Lehr- und AusbildungstriebfahrzeugfÃ¼hrer Kontrollfahrten durchgefÃ¼hrt.
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+Durch den Eisenbahnbetriebsleiter und örtlichen Betriebsleiter wurden im Rahmen von Kontrollfahrten auf die Bedeutung der Rangiersignale und deren Auswirkung bei Nichtbeachtung hingewiesen. Im Rahmen des Wiedereinsatzes des Triebfahrzeugführers wurden durch mehrere Lehr- und Ausbildungstriebfahrzeugführer Kontrollfahrten durchgeführt.
 
 ---
 file: 103_Köln-Eifeltor.txt
 
-GefÃ¤hrliches Ereignis im Eisenbahnbetrieb  
-Zugkollision, 28.10.2016, KÃ¶ln-Eifeltor  
+Gefährliches Ereignis im Eisenbahnbetrieb  
+Zugkollision, 28.10.2016, Köln-Eifeltor  
 
 # Hergang des Unfalls  
-Am 28.10.2016 um ca. 06:04 Uhr kam es bei der Einfahrt des Zuges KT 43258 in den Bf KÃ¶ln-Eifeltor zu einer Zugkollision. Der Zug war auf dem Weg von MÃ¼nchen Ost nach KÃ¶ln-Eifeltor und sollte in das Gleis 163 der sÃ¼dlichen Einfahrgruppe einfahren. Die Kollision ereignete sich auf der Weiche 407 mit einem nicht grenzzeichenfrei stehenden Triebfahrzeug (Tfz).  
+Am 28.10.2016 um ca. 06:04 Uhr kam es bei der Einfahrt des Zuges KT 43258 in den Bf Köln-Eifeltor zu einer Zugkollision. Der Zug war auf dem Weg von München Ost nach Köln-Eifeltor und sollte in das Gleis 163 der südlichen Einfahrgruppe einfahren. Die Kollision ereignete sich auf der Weiche 407 mit einem nicht grenzzeichenfrei stehenden Triebfahrzeug (Tfz).  
 
-Zuvor waren das Tfz gemeinsam mit zwei weiteren Tfz, die als nicht arbeitende Tfz Ã¼berfÃ¼hrt werden sollten, aus der Abstellung in Gleis 62 nach Gleis 164 rangiert worden. WÃ¤hrend dieser Zeit fand die ArbeitsÃ¼bergabe auf Stw Esf zwischen dem Fdl des Nachtdienstes und dem Fdl des FrÃ¼hdienstes statt. Die tatsÃ¤chliche Ãœbergabe verzÃ¶gerte sich jedoch. Aufgrund dessen erteilte der Fdl Nachtdienst noch die Zustimmung zur Rangierfahrt bis zum Sperrsignal 429 fÃ¼r die drei Tfz. Nach dem die Tfz beigefahren waren, wurde der Wagenpark durch den TriebfahrzeugfÃ¼hrer (Tf) gekuppelt und fÃ¼r die bevorstehende Zugfahrt vorbereitet. Auf Grund der LÃ¤nge der drei Tfz stand der Zug nun Ã¼ber das hochstehende Sperrsignal 164 und das anschlieÃŸende Grenzeichen Ra 12 der Weiche 407 hinaus.  
+Zuvor waren das Tfz gemeinsam mit zwei weiteren Tfz, die als nicht arbeitende Tfz überführt werden sollten, aus der Abstellung in Gleis 62 nach Gleis 164 rangiert worden. Während dieser Zeit fand die Arbeitsübergabe auf Stw Esf zwischen dem Fdl des Nachtdienstes und dem Fdl des Frühdienstes statt. Die tatsächliche Übergabe verzögerte sich jedoch. Aufgrund dessen erteilte der Fdl Nachtdienst noch die Zustimmung zur Rangierfahrt bis zum Sperrsignal 429 für die drei Tfz. Nach dem die Tfz beigefahren waren, wurde der Wagenpark durch den Triebfahrzeugführer (Tf) gekuppelt und für die bevorstehende Zugfahrt vorbereitet. Auf Grund der Länge der drei Tfz stand der Zug nun über das hochstehende Sperrsignal 164 und das anschließende Grenzeichen Ra 12 der Weiche 407 hinaus.  
 
-Um ca. 06:00 Uhr wurde die Einfahrt von Zug KT 43258 durch die Signalisierung Hp 2 des Esig Y nach Gleis 163 erlaubt. Nach dem der Zug zuvor vor dem Esig Y zum Halten gekommen war, beschleunigte der Tf den Zug auf ca. 34 km/h. Um ca. 06:04 Uhr kam es zur Zugkollision zwischen dem einfahrenden Zug KT 43258 und der nicht grenzzeichenfrei stehenden Zuglok von Zug 69547 auf der Weiche 407. Unmittelbar nach der Kollision informierte der Tf von Zug KT 43258 den Fdl Stw Esf Ã¼ber das Ereignis.  
+Um ca. 06:00 Uhr wurde die Einfahrt von Zug KT 43258 durch die Signalisierung Hp 2 des Esig Y nach Gleis 163 erlaubt. Nach dem der Zug zuvor vor dem Esig Y zum Halten gekommen war, beschleunigte der Tf den Zug auf ca. 34 km/h. Um ca. 06:04 Uhr kam es zur Zugkollision zwischen dem einfahrenden Zug KT 43258 und der nicht grenzzeichenfrei stehenden Zuglok von Zug 69547 auf der Weiche 407. Unmittelbar nach der Kollision informierte der Tf von Zug KT 43258 den Fdl Stw Esf über das Ereignis.  
 
-Bei der Kollision kam es zu BeschÃ¤digungen an beiden Zugloks sowie den ersten beiden Wagen des einfahrenden Zuges KT 43258.  
+Bei der Kollision kam es zu Beschädigungen an beiden Zugloks sowie den ersten beiden Wagen des einfahrenden Zuges KT 43258.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
-Bei diesem Ereignis kam es ausschlieÃŸlich zu SachschÃ¤den an zwei Tfz sowie an zwei GÃ¼terwagen. Ferner fÃ¼hrte das Ereignis zu geringfÃ¼gigen Betriebserschwernissen.  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Bei diesem Ereignis kam es ausschließlich zu Sachschäden an zwei Tfz sowie an zwei Güterwagen. Ferner führte das Ereignis zu geringfügigen Betriebserschwernissen.  
 
 Es wurden keine Personen verletzt.  
 
 # Ursachen des Unfalls  
-Die Ursache fÃ¼r das Ereignis war die fehlerhafte FahrwegprÃ¼fung des Fahrdienstleiters (Fdl) des Stellwerks (Stw) Esf. Dieser hatte das Freisein des Gleises nicht vollstÃ¤ndig geprÃ¼ft.  
+Die Ursache für das Ereignis war die fehlerhafte Fahrwegprüfung des Fahrdienstleiters (Fdl) des Stellwerks (Stw) Esf. Dieser hatte das Freisein des Gleises nicht vollständig geprüft.  
 
-Nach der Rekonstruktion der Geschehnisse machte sich deutlich, dass der Fdl Esf die FahrwegprÃ¼fung durch Hinsehen vom Stw Esf durchfÃ¼hrte, wobei weder das Freisein der Weiche 407 noch des Gleisabschnitts von Weiche 407 bis zum Sperrsignal 164 zu erkennen war. Die drei Tfz, die zum Teil Ã¼ber Sperrsignal 164 und das anschlieÃŸende Signal Ra12 hinaus standen, waren dem Fdl nicht gegenwÃ¤rtig und wurden von ihm nicht erkannt.  
+Nach der Rekonstruktion der Geschehnisse machte sich deutlich, dass der Fdl Esf die Fahrwegprüfung durch Hinsehen vom Stw Esf durchführte, wobei weder das Freisein der Weiche 407 noch des Gleisabschnitts von Weiche 407 bis zum Sperrsignal 164 zu erkennen war. Die drei Tfz, die zum Teil über Sperrsignal 164 und das anschließende Signal Ra12 hinaus standen, waren dem Fdl nicht gegenwärtig und wurden von ihm nicht erkannt.  
 
-Hinzu kam, dass der Bereich der Weiche 407 durch einen davor stehenden Zug vom Standort des Fdl nicht einsehbar war. Da eine nach Betriebsstellenbuch erlaubte mittelbare FahrwegprÃ¼fung fÃ¼r nicht einsehbare Gleisabschnitte nicht mÃ¶glich war, hÃ¤tte der Fdl in anderer geeigneter Weise das Freisein des Gleises feststellen mÃ¼ssen. Dazu hÃ¤tte er andere Mitarbeiter zur PrÃ¼fung beauftragen dÃ¼rfen oder sich selbst an Ort und Stelle vom Freisein des Gleises Ã¼berzeugen mÃ¼ssen.  
+Hinzu kam, dass der Bereich der Weiche 407 durch einen davor stehenden Zug vom Standort des Fdl nicht einsehbar war. Da eine nach Betriebsstellenbuch erlaubte mittelbare Fahrwegprüfung für nicht einsehbare Gleisabschnitte nicht möglich war, hätte der Fdl in anderer geeigneter Weise das Freisein des Gleises feststellen müssen. Dazu hätte er andere Mitarbeiter zur Prüfung beauftragen dürfen oder sich selbst an Ort und Stelle vom Freisein des Gleises überzeugen müssen.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
-Die Frage, warum der Fdl die ordnungsgemÃ¤ÃŸe FahrwegprÃ¼fung nicht durchfÃ¼hrte, konnte im Rahmen der Untersuchung nicht beantwortet werden. Es wird jedoch empfohlen, dass bei der Vorbereitung von Zugfahrten durch die FahrwegprÃ¼fung nicht nur auf die sichtbaren Gleisabschnitte RÃ¼cksicht genommen werden sollte, sondern auch die MÃ¶glichkeit berÃ¼cksichtigt werden mÃ¼sse, dass nicht grenzzeichenfreie Abstellungen durch andere Mittel erkannt werden kÃ¶nnten.  
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+Die Frage, warum der Fdl die ordnungsgemäße Fahrwegprüfung nicht durchführte, konnte im Rahmen der Untersuchung nicht beantwortet werden. Es wird jedoch empfohlen, dass bei der Vorbereitung von Zugfahrten durch die Fahrwegprüfung nicht nur auf die sichtbaren Gleisabschnitte Rücksicht genommen werden sollte, sondern auch die Möglichkeit berücksichtigt werden müsse, dass nicht grenzzeichenfreie Abstellungen durch andere Mittel erkannt werden könnten.  
 
-Der Fdl hÃ¤tte sich nach dem Standort der Tfz erkundigen und folglich das Einfahrgleis 163 mittels Hilfssperre sichern mÃ¼ssen. Die Einfahrt des KT 43258 nach Gleis 163 wÃ¤re dann gar nicht erst mÃ¶glich gewesen. Es wird empfohlen, dass bei der FahrwegprÃ¼fung auch mittelbare PrÃ¼fmethoden angewandt werden, wenn sichtbare PrÃ¼fung nicht mÃ¶glich ist, und dass die Verantwortlichen fÃ¼r solche PrÃ¼fungen besser geschult und Ã¼ber die mÃ¶glichen Risiken informiert werden sollten.
+Der Fdl hätte sich nach dem Standort der Tfz erkundigen und folglich das Einfahrgleis 163 mittels Hilfssperre sichern müssen. Die Einfahrt des KT 43258 nach Gleis 163 wäre dann gar nicht erst möglich gewesen. Es wird empfohlen, dass bei der Fahrwegprüfung auch mittelbare Prüfmethoden angewandt werden, wenn sichtbare Prüfung nicht möglich ist, und dass die Verantwortlichen für solche Prüfungen besser geschult und über die möglichen Risiken informiert werden sollten.
 
 ---
 file: 122_Augsburg.txt
@@ -1654,29 +1654,29 @@ file: 122_Augsburg.txt
 Zugkollision, 18.09.2017, Augsburg Hbf
 
 # Hergang des Unfalls
-Am 18.09.2017 um 12:30 Uhr endet der aus NÃ¼rnberg Hbf kommende RE 59119 in Augsburg Hbf auf Gleis 7. Der Zug besteht aus vier Doppelstockwagen und dem fÃ¼hrenden Steuerwagen sowie der Elektrolokomotive mit der Fahrzeugnummer 9180 6111 123-6 D-DB. Dieser Fahrzeugverband soll um 13:27 Uhr als RE 59124 aus Gleis 4 zurÃ¼ck nach NÃ¼rnberg Hbf fahren. Dazu wechselt der Tf vom Steuerwagen auf die Lokomotive, um als gezogene Rangierfahrt nach Gleis 660 hinter das Ls 660I zu fahren. Von dort aus soll die Rangierfahrt nach Gleis 4 rangieren, wobei der Kundenbetreuer (KiN) als Rb eingesetzt ist. Der Tf fÃ¤hrt den Fahrzeugverband als Rangierfahrt mit der Lokomotive voraus von Gleis 7 nach Gleis 660 und kommt so zum Halten, dass sich der FÃ¼hrerstand des am Ende befindlichen Steuerwagens in HÃ¶he des Ls 660I befindet. Als das vom Steuerwagen Richtung Augsburg Hbf sichtbare Ls 659 auf Sh 1 wechselt, gibt der Rb im FÃ¼hrerstand des Steuerwagens dem auf der Lokomotive befindlichen Tf den Fahrauftrag. Daraufhin setzt sich die Rangierfahrt in Richtung Hbf in Bewegung. Zur gleichen Zeit nÃ¤hert sich von Augsburg-Oberhausen kommend die RB 86523 der Bayerischen Regiobahn (BRB) auf dem parallel verlaufenden Gleis 970, um Ã¼ber die Weichenverbindung 967/659 nach Gleis 660 zu wechseln und weiter in den Bahnhofsteil (Bft) Hauptbahnhof einzufahren. Der Triebwagen der BRB kollidiert auf der Weiche 659 mit dem Steuerwagen der Rangierfahrt und drÃ¼ckt diesen aus dem Gleis.
+Am 18.09.2017 um 12:30 Uhr endet der aus Nürnberg Hbf kommende RE 59119 in Augsburg Hbf auf Gleis 7. Der Zug besteht aus vier Doppelstockwagen und dem führenden Steuerwagen sowie der Elektrolokomotive mit der Fahrzeugnummer 9180 6111 123-6 D-DB. Dieser Fahrzeugverband soll um 13:27 Uhr als RE 59124 aus Gleis 4 zurück nach Nürnberg Hbf fahren. Dazu wechselt der Tf vom Steuerwagen auf die Lokomotive, um als gezogene Rangierfahrt nach Gleis 660 hinter das Ls 660I zu fahren. Von dort aus soll die Rangierfahrt nach Gleis 4 rangieren, wobei der Kundenbetreuer (KiN) als Rb eingesetzt ist. Der Tf fährt den Fahrzeugverband als Rangierfahrt mit der Lokomotive voraus von Gleis 7 nach Gleis 660 und kommt so zum Halten, dass sich der Führerstand des am Ende befindlichen Steuerwagens in Höhe des Ls 660I befindet. Als das vom Steuerwagen Richtung Augsburg Hbf sichtbare Ls 659 auf Sh 1 wechselt, gibt der Rb im Führerstand des Steuerwagens dem auf der Lokomotive befindlichen Tf den Fahrauftrag. Daraufhin setzt sich die Rangierfahrt in Richtung Hbf in Bewegung. Zur gleichen Zeit nähert sich von Augsburg-Oberhausen kommend die RB 86523 der Bayerischen Regiobahn (BRB) auf dem parallel verlaufenden Gleis 970, um über die Weichenverbindung 967/659 nach Gleis 660 zu wechseln und weiter in den Bahnhofsteil (Bft) Hauptbahnhof einzufahren. Der Triebwagen der BRB kollidiert auf der Weiche 659 mit dem Steuerwagen der Rangierfahrt und drückt diesen aus dem Gleis.
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte
-Durch die Kollision kommt es zu folgenden PersonenschÃ¤den:  
-PersonenschÃ¤den  
-- tÃ¶dlich verletzt: 0  
+# Höhe des Schadens, Anzahl Tote und Verletzte
+Durch die Kollision kommt es zu folgenden Personenschäden:  
+Personenschäden  
+- tödlich verletzt: 0  
 - schwer verletzt: 0  
-- leicht verletzt: 4 (drei FahrgÃ¤ste, ein Bahnbetriebspersonal)  
+- leicht verletzt: 4 (drei Fahrgäste, ein Bahnbetriebspersonal)  
 
-Die SachschÃ¤den setzen sich wie folgt zusammen:  
+Die Sachschäden setzen sich wie folgt zusammen:  
 Entstandener Sachschaden  
-- Schienenfahrzeuge DB Regio: 60.000 â‚¬  
-- Schienenfahrzeuge BRB: 295.000 â‚¬  
-- Gleisanlagen, Leit- u. Sicherungstechnik: 50.000 â‚¬  
-- Fahrleitungsanlagen: 15.000 â‚¬  
-- SofortentstÃ¶rung: 15.000 â‚¬  
-Summe: **435.000 â‚¬**
+- Schienenfahrzeuge DB Regio: 60.000 €  
+- Schienenfahrzeuge BRB: 295.000 €  
+- Gleisanlagen, Leit- u. Sicherungstechnik: 50.000 €  
+- Fahrleitungsanlagen: 15.000 €  
+- Sofortentstörung: 15.000 €  
+Summe: **435.000 €**
 
 # Ursachen des Unfalls
-Das Ereignis ist auf eine unzulÃ¤ssige Fahrt einer Rangiereinheit in die FahrstraÃŸe eines einfahrenden Zuges zurÃ¼ckzufÃ¼hren. Der an der Spitze der Rangierfahrt befindliche Rangierbegleiter (Rb) hat nach einem Fahtrichtungswechsel das fÃ¼r die Rangierfahrt maÃŸgebliche und haltzeigende Lichtsperrsignal (Ls) 660I von seiner Position im FÃ¼hrerstand des Steuerwagens nicht wahrgenommen. Stattdessen hat er das nÃ¤chstfolgende Ls 659 beobachtet. Nach dem Wechsel des Signalbegriffs des Ls 659 auf Signal Sh1 (Fahrverbot aufgehoben nach Ril 301) fÃ¼r die Zugfahrt BRB 86523 interpretiert der Rb dies fÃ¤lschlich als Zustimmung des WeichenwÃ¤rters fÃ¼r die Rangierfahrt. Daraufhin erteilt der Rb dem Tf den Fahrauftrag.
+Das Ereignis ist auf eine unzulässige Fahrt einer Rangiereinheit in die Fahrstraße eines einfahrenden Zuges zurückzuführen. Der an der Spitze der Rangierfahrt befindliche Rangierbegleiter (Rb) hat nach einem Fahtrichtungswechsel das für die Rangierfahrt maßgebliche und haltzeigende Lichtsperrsignal (Ls) 660I von seiner Position im Führerstand des Steuerwagens nicht wahrgenommen. Stattdessen hat er das nächstfolgende Ls 659 beobachtet. Nach dem Wechsel des Signalbegriffs des Ls 659 auf Signal Sh1 (Fahrverbot aufgehoben nach Ril 301) für die Zugfahrt BRB 86523 interpretiert der Rb dies fälschlich als Zustimmung des Weichenwärters für die Rangierfahrt. Daraufhin erteilt der Rb dem Tf den Fahrauftrag.
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle
-Das EVU DB Regio AG hat den Vorfall in seine regelmÃ¤ÃŸigen Schulungen aufgenommen, um die am Rangieren ihrer Fahrzeuge beteiligten Mitarbeiter fÃ¼r die Problematik der richtigen Zuordnung der fÃ¼r die Rangierfahrt geltenden Signale zu sensibilisieren. Ferner werden die KiN der betroffenen Einsatzstelle aktuell nicht zum Rangieren eingesetzt.
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle
+Das EVU DB Regio AG hat den Vorfall in seine regelmäßigen Schulungen aufgenommen, um die am Rangieren ihrer Fahrzeuge beteiligten Mitarbeiter für die Problematik der richtigen Zuordnung der für die Rangierfahrt geltenden Signale zu sensibilisieren. Ferner werden die KiN der betroffenen Einsatzstelle aktuell nicht zum Rangieren eingesetzt.
 
 ---
 file: 031_Lambrecht.txt
@@ -1684,82 +1684,82 @@ file: 031_Lambrecht.txt
 Zugkollision, 17.08.2010, Neustadt (Weinstr.) - Lambrecht (Pfalz)
 
 # Hergang des Unfalls  
-Am Dienstag, 17.08.2010, um 10:06 Uhr, kollidierte der ICE-W 9556 zwischen Neustadt (Weinstr.) und Lambrecht (Pfalz) in km 71,828 mit einem von der Lambrechter StraÃŸe abgekommenen MÃ¼llentsorgungsfahrzeug (Lkw, > 7,5 t, 3-achsig, 3. Achse zwillingsbereift, Spurbreite 2,5 m).  
+Am Dienstag, 17.08.2010, um 10:06 Uhr, kollidierte der ICE-W 9556 zwischen Neustadt (Weinstr.) und Lambrecht (Pfalz) in km 71,828 mit einem von der Lambrechter Straße abgekommenen Müllentsorgungsfahrzeug (Lkw, > 7,5 t, 3-achsig, 3. Achse zwillingsbereift, Spurbreite 2,5 m).  
 
-Am Dienstag, 17.08.2010, gegen 10:00 Uhr, befuhr das Fahrzeug eines privaten Entsorgungsunternehmens im Anschluss an die MÃ¼llentsorgung in der DÃ¶rrental-Siedlung, die parallel zur Bahnstrecke (VzG-Strecke 3280, zweigleisige Hauptbahn Homburg (Saar) Hbf nach Ludwigshafen (Rhein) Hbf), verlaufende LambrechterstraÃŸe in Richtung Gemeinde Lindenberg.  
+Am Dienstag, 17.08.2010, gegen 10:00 Uhr, befuhr das Fahrzeug eines privaten Entsorgungsunternehmens im Anschluss an die Müllentsorgung in der Dörrental-Siedlung, die parallel zur Bahnstrecke (VzG-Strecke 3280, zweigleisige Hauptbahn Homburg (Saar) Hbf nach Ludwigshafen (Rhein) Hbf), verlaufende Lambrechterstraße in Richtung Gemeinde Lindenberg.  
 
-Beim Befahren der LambrechterstraÃŸe geriet das Fahrzeug schlieÃŸlich mit den rechten RÃ¤dern auf den unbefestigten und feuchten Seitenstreifen. Dem Fahrer des MÃ¼llfahrzeugs gelang es offenbar nicht mehr das MÃ¼llfahrzeug auf den befestigten Teil der StraÃŸe (Teerdecke) zurÃ¼ckzufahren und rutsche beim weiteren Versuch auf dem feuchten Untergrund die BÃ¶schung hinunter. Der aufgeweichte Boden der BÃ¶schung gab nach und das MÃ¼llfahrzeug stÃ¼rzte in Bahnkilometer 71,828, die an dieser Stelle ca. 2,50 m hohe BÃ¶schung hinunter. Das Fahrzeug kam im Graben am FuÃŸ der BÃ¶schung, noch im Profil des Gleises Neustadt â€“ Lambrecht, zum Liegen.  
+Beim Befahren der Lambrechterstraße geriet das Fahrzeug schließlich mit den rechten Rädern auf den unbefestigten und feuchten Seitenstreifen. Dem Fahrer des Müllfahrzeugs gelang es offenbar nicht mehr das Müllfahrzeug auf den befestigten Teil der Straße (Teerdecke) zurückzufahren und rutsche beim weiteren Versuch auf dem feuchten Untergrund die Böschung hinunter. Der aufgeweichte Boden der Böschung gab nach und das Müllfahrzeug stürzte in Bahnkilometer 71,828, die an dieser Stelle ca. 2,50 m hohe Böschung hinunter. Das Fahrzeug kam im Graben am Fuß der Böschung, noch im Profil des Gleises Neustadt – Lambrecht, zum Liegen.  
 
-Um 10:06 Uhr kollidierte der Triebzug (Tz) 4681 (Laufweg: Frankfurt - Paris) mit dem FÃ¼hrerhaus und den weiteren Aufbauten (Presse) des Entsorgungsfahrzeugs. Der Endwagen (Fzg.-Nr. 93 80 5406 081-0 D-DB) entgleiste mit dem fÃ¼hrenden Drehgestell nach rechts, der folgende Wagen (Fzg.-Nr. 93 80 5406 181-8 D-DB) mit beiden Drehgestellen nach links.  
+Um 10:06 Uhr kollidierte der Triebzug (Tz) 4681 (Laufweg: Frankfurt - Paris) mit dem Führerhaus und den weiteren Aufbauten (Presse) des Entsorgungsfahrzeugs. Der Endwagen (Fzg.-Nr. 93 80 5406 081-0 D-DB) entgleiste mit dem führenden Drehgestell nach rechts, der folgende Wagen (Fzg.-Nr. 93 80 5406 181-8 D-DB) mit beiden Drehgestellen nach links.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
-Durch die Zugkollision wurden 15 Reisende, der TriebfahrzeugfÃ¼hrer sowie zwei Mitarbeiter des Zugbegleitpersonals leicht verletzt. Es entstanden erhebliche SchÃ¤den an den Fahrzeugen, dem Oberbau-, den Signal-, den Telekommunikations- sowie Oberleitungsanlagen einschlieÃŸlich AufrÃ¤umungs- und Betriebserschwerniskosten, die Ã¼berschlÃ¤gig wie folgt abgeschÃ¤tzt wurden:  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Durch die Zugkollision wurden 15 Reisende, der Triebfahrzeugführer sowie zwei Mitarbeiter des Zugbegleitpersonals leicht verletzt. Es entstanden erhebliche Schäden an den Fahrzeugen, dem Oberbau-, den Signal-, den Telekommunikations- sowie Oberleitungsanlagen einschließlich Aufräumungs- und Betriebserschwerniskosten, die überschlägig wie folgt abgeschätzt wurden:  
 
-SachschÃ¤den:  
-- Schienenfahrzeuge: 1.200.000 â‚¬  
-- Oberbau: 150.000 â‚¬  
-- LST- Anlagen: 30.000 â‚¬  
-- Oberleitung: 24.650 â‚¬  
-- Betriebserschwerniskosten: 100.000 â‚¬  
+Sachschäden:  
+- Schienenfahrzeuge: 1.200.000 €  
+- Oberbau: 150.000 €  
+- LST- Anlagen: 30.000 €  
+- Oberleitung: 24.650 €  
+- Betriebserschwerniskosten: 100.000 €  
 
 # Ursachen des Unfalls  
-Das MÃ¼llentsorgungsfahrzeug war von der StraÃŸe abgekommen, stÃ¼rzte die ca. 2,50 m hohe BÃ¶schung an der Lambrechter StraÃŸe hinunter und blieb im Profil des Gleises Neustadt (Weinstr.) - Lambrecht (Pfalz) liegen.  
+Das Müllentsorgungsfahrzeug war von der Straße abgekommen, stürzte die ca. 2,50 m hohe Böschung an der Lambrechter Straße hinunter und blieb im Profil des Gleises Neustadt (Weinstr.) - Lambrecht (Pfalz) liegen.  
 
-Im Rahmen der Untersuchung konnten keine UnregelmÃ¤ÃŸigkeiten im unmittelbaren Bereich des BahnkÃ¶rpers und des Signalsystems festgestellt werden. Die Ursache der Druckabsenkung in der Hauptluftleitung war das Einleiten einer Schnellbremsung durch den TriebfahrzeugfÃ¼hrer. Die zeitgleiche Registrierung der induktiven Beeinflussungen 500 Hz, 1000 Hz und 2000 Hz ist als Folge von SchÃ¤den an der PZB-Fahrzeugeinrichtung durch den Ereigniseintritt (Kollision mit dem MÃ¼llfahrzeug) zu bewerten.  
+Im Rahmen der Untersuchung konnten keine Unregelmäßigkeiten im unmittelbaren Bereich des Bahnkörpers und des Signalsystems festgestellt werden. Die Ursache der Druckabsenkung in der Hauptluftleitung war das Einleiten einer Schnellbremsung durch den Triebfahrzeugführer. Die zeitgleiche Registrierung der induktiven Beeinflussungen 500 Hz, 1000 Hz und 2000 Hz ist als Folge von Schäden an der PZB-Fahrzeugeinrichtung durch den Ereigniseintritt (Kollision mit dem Müllfahrzeug) zu bewerten.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
-Es ist festzuhalten, dass die Zugkollision des ICE-W 9556 mit dem MÃ¼llfahrzeug hÃ¶chst wahrscheinlich vermeidbar gewesen wÃ¤re, wenn die Lambrechter StraÃŸe im Bereich des bahnparallelen Verlaufs mit Schutzeinrichtungen ausgerÃ¼stet gewesen wÃ¤re.  
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+Es ist festzuhalten, dass die Zugkollision des ICE-W 9556 mit dem Müllfahrzeug höchst wahrscheinlich vermeidbar gewesen wäre, wenn die Lambrechter Straße im Bereich des bahnparallelen Verlaufs mit Schutzeinrichtungen ausgerüstet gewesen wäre.  
 
-Eine Beibehaltung des Status Quo ist vor dem Hintergrund der geringen StraÃŸenbreite von 2,5 m ohne seitlich befestigte Bankette und des offensichtlich zu jeder Jahreszeit â€žregelmÃ¤ÃŸigâ€œ in beide Richtungen stattfindenden Schwerverkehrs ohne BeschrÃ¤nkung des Gewichts oder der Fahrzeugbreite nicht angezeigt. Zur Vermeidung eines weiteren gleichartig gelagerten Ereignisses bieten sich strassenseitig zwei grundsÃ¤tzliche Vorgehensweisen an: Konsequente Unterbindung und BeschrÃ¤nkung der Befahrung der Lambrechter StraÃŸe durch Gefahr indizierende Fahrzeuge oder Errichtung von - auf den Verkehr abgestimmter - Schutzeinrichtungen.  
+Eine Beibehaltung des Status Quo ist vor dem Hintergrund der geringen Straßenbreite von 2,5 m ohne seitlich befestigte Bankette und des offensichtlich zu jeder Jahreszeit "regelmäßig" in beide Richtungen stattfindenden Schwerverkehrs ohne Beschränkung des Gewichts oder der Fahrzeugbreite nicht angezeigt. Zur Vermeidung eines weiteren gleichartig gelagerten Ereignisses bieten sich strassenseitig zwei grundsätzliche Vorgehensweisen an: Konsequente Unterbindung und Beschränkung der Befahrung der Lambrechter Straße durch Gefahr indizierende Fahrzeuge oder Errichtung von - auf den Verkehr abgestimmter - Schutzeinrichtungen.  
 
-Nach dem Ereignis wurde die Zufahrt der LambrechterstraÃŸe von beiden Seiten gesperrt und das Befahren der StraÃŸe vollstÃ¤ndig unterbunden. Mittlerweile seien auch entsprechende Schutzplanken montiert.
+Nach dem Ereignis wurde die Zufahrt der Lambrechterstraße von beiden Seiten gesperrt und das Befahren der Straße vollständig unterbunden. Mittlerweile seien auch entsprechende Schutzplanken montiert.
 
 ---
 file: 094_Schweinsberg_Anst_-_Kirchhain.txt
 
-BahnÃ¼bergangsunfall, 02.09.2014, Schweinsberg Anst. - Kirchhain
+Bahnübergangsunfall, 02.09.2014, Schweinsberg Anst. - Kirchhain
 
 # Hergang des Unfalls  
-Auf der Strecke Kirchhain - Nieder Ofleiden kollidierte die Rangierlok, als Sperrfahrt aus 55327 (Laufweg: Kirchhain - Nieder Ofleiden) auf dem durch Pfeifen gemÃ¤ÃŸ Â§ 7 (EBO) nicht-technisch gesicherten BahnÃ¼bergang (BÃœ) in Kirchhain im km 18,103 (Vzg 3950), mit einem Traktor.  
-Der Fahrer der landwirtschaftlichen Zugmaschine (Traktor) mit AnhÃ¤nger wollte den nicht-technisch gesicherten BÃœ Ã¼berqueren. Beim Befahren des BÃœ wurde die herannahende Sperrfahrt nicht bemerkt. In der Folge kam es zu einer Kollision zwischen dem Schienenfahrzeug und dem Traktor.  
+Auf der Strecke Kirchhain - Nieder Ofleiden kollidierte die Rangierlok, als Sperrfahrt aus 55327 (Laufweg: Kirchhain - Nieder Ofleiden) auf dem durch Pfeifen gemäß § 7 (EBO) nicht-technisch gesicherten Bahnübergang (BÜ) in Kirchhain im km 18,103 (Vzg 3950), mit einem Traktor.  
+Der Fahrer der landwirtschaftlichen Zugmaschine (Traktor) mit Anhänger wollte den nicht-technisch gesicherten BÜ überqueren. Beim Befahren des BÜ wurde die herannahende Sperrfahrt nicht bemerkt. In der Folge kam es zu einer Kollision zwischen dem Schienenfahrzeug und dem Traktor.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
 Der Traktorfahrer zog sich bei der Kollision leichte Verletzungen zu und wurde in eine Klinik verbracht.  
-Die SachschÃ¤den setzen sich wie folgt zusammen:  
-- Triebfahrzeug: ca. 7.000 â‚¬  
-- Gleisanlage: ca. 80.000 â‚¬  
-- UmweltschÃ¤den: ca. 70 l Ã–l ausgelaufen  
+Die Sachschäden setzen sich wie folgt zusammen:  
+- Triebfahrzeug: ca. 7.000 €  
+- Gleisanlage: ca. 80.000 €  
+- Umweltschäden: ca. 70 l Öl ausgelaufen  
 
 # Ursachen des Unfalls  
-Der Fahrer der landwirtschaftlichen Zugmaschine beachtete mehrere Pfeifsignale der Rangierlok und das Andreaskreuz zur Sicherung des BÃœ nicht. Beim Heranfahren an den BÃœ Ã¼bersah er auch die Rangierlok von Kirchhain kommend.  
-ZusÃ¤tzlich wurden folgende Faktoren erwÃ¤hnt:  
-- Der BÃœ war nicht-technisch gesichert, was die Sicht auf das herannahende Schienenfahrzeug behinderte.  
+Der Fahrer der landwirtschaftlichen Zugmaschine beachtete mehrere Pfeifsignale der Rangierlok und das Andreaskreuz zur Sicherung des BÜ nicht. Beim Heranfahren an den BÜ übersah er auch die Rangierlok von Kirchhain kommend.  
+Zusätzlich wurden folgende Faktoren erwähnt:  
+- Der BÜ war nicht-technisch gesichert, was die Sicht auf das herannahende Schienenfahrzeug behinderte.  
 - Die Andreaskreuze waren zwar vorhanden, doch der Fahrer des Traktors ignorierte sie.  
-- Die Pfeifsignale wurden zwar abgegeben, aber durch UmgebungsgerÃ¤usche und die Isolierung des Fahrzeuginneren mÃ¶glicherweise nicht wahrgenommen.  
+- Die Pfeifsignale wurden zwar abgegeben, aber durch Umgebungsgeräusche und die Isolierung des Fahrzeuginneren möglicherweise nicht wahrgenommen.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
-- Die Sicherung von BahnÃ¼bergÃ¤ngen ohne technische Sicherung (ntg) sollte Ã¼berprÃ¼ft und ggf. durch technische LÃ¶sungen ergÃ¤nzt werden.  
-- RegelmÃ¤ÃŸige VerkehrszÃ¤hlungen an BahnÃ¼bergÃ¤ngen sind notwendig, um VerÃ¤nderungen im Verkehrsverhalten zu erkennen.  
-- Die HÃ¶rbarkeit von Pfeifsignalen und die Wahrnehmbarkeit durch Fahrzeuglenker unter verschiedenen UmstÃ¤nden (z. B. GerÃ¤uschpegel, Fahrzeugisolierung) sollten weiter untersucht werden.  
-- Die Vorschriften zur Sicherung von BahnÃ¼bergÃ¤ngen (Â§ 11 EBO) kÃ¶nnten angepasst werden, um moderne technische und verkehrspsychologische Erkenntnisse zu berÃ¼cksichtigen.  
-- Die DB Netz AG hat bereits MaÃŸnahmen ergriffen, z. B. das Aufstellen von Andreaskreuzen auf beiden Seiten der Bahn und die Erneuerung des BahnÃ¼bergangsbereichs.
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+- Die Sicherung von Bahnübergängen ohne technische Sicherung (ntg) sollte überprüft und ggf. durch technische Lösungen ergänzt werden.  
+- Regelmäßige Verkehrszählungen an Bahnübergängen sind notwendig, um Veränderungen im Verkehrsverhalten zu erkennen.  
+- Die Hörbarkeit von Pfeifsignalen und die Wahrnehmbarkeit durch Fahrzeuglenker unter verschiedenen Umständen (z. B. Geräuschpegel, Fahrzeugisolierung) sollten weiter untersucht werden.  
+- Die Vorschriften zur Sicherung von Bahnübergängen (§ 11 EBO) könnten angepasst werden, um moderne technische und verkehrspsychologische Erkenntnisse zu berücksichtigen.  
+- Die DB Netz AG hat bereits Maßnahmen ergriffen, z. B. das Aufstellen von Andreaskreuzen auf beiden Seiten der Bahn und die Erneuerung des Bahnübergangsbereichs.
 
 ---
 file: 088_Forchheim_Trubachbrücke_Abzw_-_Ebermannstadt.txt
 
-BahnÃ¼bergangsunfall, 28.02.2014, Forchheim TrubbachbrÃ¼cke Abzw - Ebermannstadt
+Bahnübergangsunfall, 28.02.2014, Forchheim Trubbachbrücke Abzw - Ebermannstadt
 
 # Hergang des Unfalls
-Am 28.02.2014 gegen 18:54 Uhr befuhr die Zugfahrt DPN 87085 des Eisenbahnverkehrsunternehmens agilis Verkehrsgesellschaft mbH & Co. KG auf der Fahrt von Forchheim nach Ebermannstadt den gesicherten BahnÃ¼bergang (BÃœ) â€žPretzfeldâ€œ in km 12,401 und prallte dort mit einem Pkw zusammen. Der TriebfahrzeugfÃ¼hrer (Tf) schaltete die BÃœ-Sicherungsanlage fÃ¼r den BÃœ km 12,401 mit Hilfe der Infraroteinschaltung (IRE) an, die roten Blinklichter leuchteten. Nach dem Fahrgastwechsel fuhr der Zug weiter in Richtung Ebermannstadt. Ein von rechts kommender Pkw beachtete die roten Blinklichter nicht und prallte auf dem BÃœ mit DPN 87085 zusammen. Der Pkw wurde von der Dieseltriebwagengeschwindigkeit erfasst und Ã¼ber 28 m mitgeschleift, ehe der Zug zum Stehen kam.
+Am 28.02.2014 gegen 18:54 Uhr befuhr die Zugfahrt DPN 87085 des Eisenbahnverkehrsunternehmens agilis Verkehrsgesellschaft mbH & Co. KG auf der Fahrt von Forchheim nach Ebermannstadt den gesicherten Bahnübergang (BÜ) "Pretzfeld" in km 12,401 und prallte dort mit einem Pkw zusammen. Der Triebfahrzeugführer (Tf) schaltete die BÜ-Sicherungsanlage für den BÜ km 12,401 mit Hilfe der Infraroteinschaltung (IRE) an, die roten Blinklichter leuchteten. Nach dem Fahrgastwechsel fuhr der Zug weiter in Richtung Ebermannstadt. Ein von rechts kommender Pkw beachtete die roten Blinklichter nicht und prallte auf dem BÜ mit DPN 87085 zusammen. Der Pkw wurde von der Dieseltriebwagengeschwindigkeit erfasst und über 28 m mitgeschleift, ehe der Zug zum Stehen kam.
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte
-Der Pkw-Fahrer wurde tÃ¶dlich verletzt. Die 15 FahrgÃ¤ste im Zug blieben unverletzt, der TriebfahrzeugfÃ¼hrer erlitt einen Schock. Das Eisenbahninfrastrukturunternehmen DB Netz AG benannte SachschÃ¤den von ca. 10.000.- Euro, das Eisenbahnverkehrsunternehmen agilis Verkehrsgesellschaft mbH & Co. KG bezifferte die SachschÃ¤den auf etwa 50.000.- Euro.
+# Höhe des Schadens, Anzahl Tote und Verletzte
+Der Pkw-Fahrer wurde tödlich verletzt. Die 15 Fahrgäste im Zug blieben unverletzt, der Triebfahrzeugführer erlitt einen Schock. Das Eisenbahninfrastrukturunternehmen DB Netz AG benannte Sachschäden von ca. 10.000.- Euro, das Eisenbahnverkehrsunternehmen agilis Verkehrsgesellschaft mbH & Co. KG bezifferte die Sachschäden auf etwa 50.000.- Euro.
 
 # Ursachen des Unfalls
-Der Pkw-Fahrer missachtete aus ungeklÃ¤rten GrÃ¼nden das rote Blinklicht der technischen BÃœ-Sicherung. Die Untersuchung der technischen Infrastruktur und der BÃœ-Sicherungsanlage ergab, dass keine technischen MÃ¤ngel vorliegen. Es wurden keine Fehlhandlungen des TriebfahrzeugfÃ¼hrers erkennbar, weder im Hinblick auf die Verhinderung des Zusammenpralls noch die Minderung der Unfallfolgen.
+Der Pkw-Fahrer missachtete aus ungeklärten Gründen das rote Blinklicht der technischen BÜ-Sicherung. Die Untersuchung der technischen Infrastruktur und der BÜ-Sicherungsanlage ergab, dass keine technischen Mängel vorliegen. Es wurden keine Fehlhandlungen des Triebfahrzeugführers erkennbar, weder im Hinblick auf die Verhinderung des Zusammenpralls noch die Minderung der Unfallfolgen.
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle
-Die weiteren Sicherheitsverpflichtungen gemÃ¤ÃŸ Â§ 4 AEG liegen beim Eisenbahninfrastrukturunternehmen DB Netz AG. Zur Verbesserung der Sicherheit und Nachvollziehbarkeit an zuggesteuerten BÃœ-Anlagen wird empfohlen, die Ãœs-Wiederholer nÃ¤her an den gewÃ¶hnlichen HalteplÃ¤tzen anzustellen und diese mit einem 1000Hz-GM nachzurÃ¼sten. Zudem sollte die Bedienungsanweisung der BÃœ-Sicherung aktualisiert werden, da die vorhandene Anleitung nicht mehr aktuell war und wichtige Informationen fehlte.
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle
+Die weiteren Sicherheitsverpflichtungen gemäß § 4 AEG liegen beim Eisenbahninfrastrukturunternehmen DB Netz AG. Zur Verbesserung der Sicherheit und Nachvollziehbarkeit an zuggesteuerten BÜ-Anlagen wird empfohlen, die Üs-Wiederholer näher an den gewöhnlichen Halteplätzen anzustellen und diese mit einem 1000Hz-GM nachzurüsten. Zudem sollte die Bedienungsanweisung der BÜ-Sicherung aktualisiert werden, da die vorhandene Anleitung nicht mehr aktuell war und wichtige Informationen fehlte.
 
 ---
 file: 062_Hagen_Gbf.txt
@@ -1767,56 +1767,56 @@ file: 062_Hagen_Gbf.txt
 Zugentgleisung, 02.07.2014, Hagen Gbf
 
 # Hergang des Unfalls
-Am 02.07.2014 verkehrte der GÃ¼terzug KT 50017 von Bf Wuppertal Langerfeld nach Bf Landshut/Bayern. Der Zug bestand aus dem elektrischen Triebfahrzeug der BR 152 Tfz-Nr. 152 147-5 des Eisenbahnverkehrsunternehmens (EVU) DB Schenker Rail AG und 20 Containerwagen der Gattung Sgns und Sggmrs. Der Zug hatte eine ZuglÃ¤nge von 685 Metern und ein Gesamtzuggewicht von 1385t. Die HÃ¶chstgeschwindigkeit lag bei Vmax 120 km/h. Der Zug verkehrte ab Zugbildungsbahnhof Bf Wuppertal-Langerfeld im Betriebsverfahren â€žZÃ¼ge fahren und Rangierenâ€œ (Ril 408) nach Vorgabe des Eisenbahninfrastrukturunternehmen (EIU) DB Netz AG.  
-Der GÃ¼terzug KT 50017 sollte planmÃ¤ÃŸig die Strecke VzG 2811/2823 Ã¼ber das durchgehende Hauptgleis 241 vorbei am Ausfahrtsignal N241 Richtung Abzweig Hengstey befahren. Wegen einer vorher bekanntgegebenen Personalaufnahme wurde der Zug nach Gleis 190 im Bf Hagen Gbf geleitet. Dort wurde nach ca. 30 Minuten weiteres Personal aufgenommen. Der Tf erhielt daraufhin den Auftrag als Rangierfahrt nach Gleis 224 vorzuziehen um von dort als Zugfahrt auf Ersatzsignal Zs1 auszufahren. Kurz nach der Abfahrt erkannte der Tf, dass das Ls 230 Hp0 zeigte und sich die dahinterliegende Weiche 457 in der falschen Lage befand. Auf Anordnung des Fdl wurde der Zug mit Hilfe eines Rangierbegleiters wieder zurÃ¼ck nach Gleis 190 rangiert (siehe Bahnhofskizze Seite 17).  
-Nach Auftrag des Fdl sollte der Zug nun als Rangierfahrt nach Gleis 216 vorziehen und ab Asig N216 als Zugfahrt ausfahren. Die dafÃ¼r notwendige ZugfahrstraÃŸe war jedoch wegen der ZuglÃ¤nge und damit verbundener Belegung von Fahrwegelementen nicht einzustellen. Der Fdl erteilte daraufhin die Ausfahrt auf Ersatzsignal Zs1 (siehe Bahnhofskizze Seite 19). Unmittelbar hinter dem Ausfahrsignal N216, in Weiche 446, entgleiste der Zug KT 50017 mit der Zuglokomotive und dem ersten Drehgestell des nachfolgenden Wagens. Zum Zeitpunkt der Entgleisung betrug die Zuggeschwindigkeit ca. 17 km/h. Die Ermittlungen ergaben, dass sich die Weiche 446 bei der Befahrung nicht in Endlage befand.
+Am 02.07.2014 verkehrte der Güterzug KT 50017 von Bf Wuppertal Langerfeld nach Bf Landshut/Bayern. Der Zug bestand aus dem elektrischen Triebfahrzeug der BR 152 Tfz-Nr. 152 147-5 des Eisenbahnverkehrsunternehmens (EVU) DB Schenker Rail AG und 20 Containerwagen der Gattung Sgns und Sggmrs. Der Zug hatte eine Zuglänge von 685 Metern und ein Gesamtzuggewicht von 1385t. Die Höchstgeschwindigkeit lag bei Vmax 120 km/h. Der Zug verkehrte ab Zugbildungsbahnhof Bf Wuppertal-Langerfeld im Betriebsverfahren "Züge fahren und Rangieren" (Ril 408) nach Vorgabe des Eisenbahninfrastrukturunternehmen (EIU) DB Netz AG.  
+Der Güterzug KT 50017 sollte planmäßig die Strecke VzG 2811/2823 über das durchgehende Hauptgleis 241 vorbei am Ausfahrtsignal N241 Richtung Abzweig Hengstey befahren. Wegen einer vorher bekanntgegebenen Personalaufnahme wurde der Zug nach Gleis 190 im Bf Hagen Gbf geleitet. Dort wurde nach ca. 30 Minuten weiteres Personal aufgenommen. Der Tf erhielt daraufhin den Auftrag als Rangierfahrt nach Gleis 224 vorzuziehen um von dort als Zugfahrt auf Ersatzsignal Zs1 auszufahren. Kurz nach der Abfahrt erkannte der Tf, dass das Ls 230 Hp0 zeigte und sich die dahinterliegende Weiche 457 in der falschen Lage befand. Auf Anordnung des Fdl wurde der Zug mit Hilfe eines Rangierbegleiters wieder zurück nach Gleis 190 rangiert (siehe Bahnhofskizze Seite 17).  
+Nach Auftrag des Fdl sollte der Zug nun als Rangierfahrt nach Gleis 216 vorziehen und ab Asig N216 als Zugfahrt ausfahren. Die dafür notwendige Zugfahrstraße war jedoch wegen der Zuglänge und damit verbundener Belegung von Fahrwegelementen nicht einzustellen. Der Fdl erteilte daraufhin die Ausfahrt auf Ersatzsignal Zs1 (siehe Bahnhofskizze Seite 19). Unmittelbar hinter dem Ausfahrsignal N216, in Weiche 446, entgleiste der Zug KT 50017 mit der Zuglokomotive und dem ersten Drehgestell des nachfolgenden Wagens. Zum Zeitpunkt der Entgleisung betrug die Zuggeschwindigkeit ca. 17 km/h. Die Ermittlungen ergaben, dass sich die Weiche 446 bei der Befahrung nicht in Endlage befand.
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte
-Todesopfer und Verletzte sind keine zu beklagen. Die SachschÃ¤den setzen sich wie folgt zusammen:  
+# Höhe des Schadens, Anzahl Tote und Verletzte
+Todesopfer und Verletzte sind keine zu beklagen. Die Sachschäden setzen sich wie folgt zusammen:  
 - Triebfahrzeug: keine Angaben  
-- Gleisanlage: ca. 250.000 â‚¬  
-- Leit- und Sicherungstechnik: ca. 40.000 â‚¬  
-- Betriebserschwernisse: Die Weichen 446, 447 sowie die Verbindung zur Weiche 451 bis zur Beseitigung der OberbauschÃ¤den gesperrt.
+- Gleisanlage: ca. 250.000 €  
+- Leit- und Sicherungstechnik: ca. 40.000 €  
+- Betriebserschwernisse: Die Weichen 446, 447 sowie die Verbindung zur Weiche 451 bis zur Beseitigung der Oberbauschäden gesperrt.
 
 # Ursachen des Unfalls
 Die Untersuchungen ergaben, dass sich die Weiche 446 nicht in Endlage befand.  
-ZusÃ¤tzlich wurden folgende Fehlhandlungen identifiziert:  
-- Der Fahrdienstleiter (Fdl) fÃ¼hrte keine FahrwegprÃ¼fung durch, obwohl nach Richtlinie 408.0231 eine solche PrÃ¼fung vorgeschrieben war.  
-- Die notwendigen SchutzmaÃŸnahmen wie das Anbringen von Schutzkappen (Richtlinie 408.0403) wurden nicht durchgefÃ¼hrt.  
-- Die RÃ¤umungsprÃ¼fung zur Sicherstellung des Freiseins des Zugfolgeabschnitts (Richtlinie 408.0241) wurde nicht durchgefÃ¼hrt.  
-- Befehl 9 und 11 wurden nicht ausgehÃ¤ndigt, obwohl der Fdl dies nach betrieblichem Auftrag 02/2014 tun sollte.  
+Zusätzlich wurden folgende Fehlhandlungen identifiziert:  
+- Der Fahrdienstleiter (Fdl) führte keine Fahrwegprüfung durch, obwohl nach Richtlinie 408.0231 eine solche Prüfung vorgeschrieben war.  
+- Die notwendigen Schutzmaßnahmen wie das Anbringen von Schutzkappen (Richtlinie 408.0403) wurden nicht durchgeführt.  
+- Die Räumungsprüfung zur Sicherstellung des Freiseins des Zugfolgeabschnitts (Richtlinie 408.0241) wurde nicht durchgeführt.  
+- Befehl 9 und 11 wurden nicht ausgehändigt, obwohl der Fdl dies nach betrieblichem Auftrag 02/2014 tun sollte.  
 - Der Fdl zeigte erhebliche Wissensdefizite, was die Einhaltung von Richtlinien und Sicherheitsvorschriften betraf.
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle
-MaÃŸnahmen zur Handlungssicherheit und zur ErhÃ¶hung der Eisenbahnsicherheit sollten umgehend Anwendung finden. Dazu zÃ¤hlen:  
-- StÃ¤rkung der Sicherheitskultur und der Einhaltung von Richtlinien durch regelmÃ¤ÃŸige Schulungen und PrÃ¼fungen.  
-- Verbesserung der Kommunikation zwischen Fdl und TriebfahrzeugfÃ¼hrern (Tf), insbesondere bei abweichenden Fahrwegen oder besonderen AuftrÃ¤gen.  
-- DurchfÃ¼hrung von FahrwegprÃ¼fen und RÃ¤umungsprÃ¼fungen gemÃ¤ÃŸ den Richtlinien auch bei Ersatzsignalen.  
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle
+Maßnahmen zur Handlungssicherheit und zur Erhöhung der Eisenbahnsicherheit sollten umgehend Anwendung finden. Dazu zählen:  
+- Stärkung der Sicherheitskultur und der Einhaltung von Richtlinien durch regelmäßige Schulungen und Prüfungen.  
+- Verbesserung der Kommunikation zwischen Fdl und Triebfahrzeugführern (Tf), insbesondere bei abweichenden Fahrwegen oder besonderen Aufträgen.  
+- Durchführung von Fahrwegprüfen und Räumungsprüfungen gemäß den Richtlinien auch bei Ersatzsignalen.  
 - Sicherstellung, dass Schutzkappen bei Handweichenbereichen angebracht werden, um Verwechslungen zu vermeiden.  
-- Optimierung der PrÃ¼f- und Instandhaltungsprozesse fÃ¼r Weichen, insbesondere bei Weichen mit technischen MÃ¤ngeln.  
-- Dokumentation aller Schritte im Zugmeldebuch und Vermeidung von Unterlassungen durch systematische Ãœberwachung.  
+- Optimierung der Prüf- und Instandhaltungsprozesse für Weichen, insbesondere bei Weichen mit technischen Mängeln.  
+- Dokumentation aller Schritte im Zugmeldebuch und Vermeidung von Unterlassungen durch systematische Überwachung.  
 Durch die Infrastrukturbetreiber DB Netz AG wurden unmittelbar nach der Entgleisung die Weichen 445 sowie 457 instandgesetzt. Das Gleis 216 und die Weiche 446 sind weiterhin gesperrt.
 
 ---
 file: 070_Witten_Hbf_-_Witten-Annen_Nord.txt
 
-BahnÃ¼bergangsunfall, 02.12.2014, Witten Hbf - Bf Witten-Annen Nord  
+Bahnübergangsunfall, 02.12.2014, Witten Hbf - Bf Witten-Annen Nord  
 #Hergang des Unfalls  
-Am 02.12.2014 um 18:07 Uhr kam es am BÃœ â€žPferdebachstraÃŸeâ€œ zu einem Zusammenprall zwischen einem S-Bahnzug der Linie 5 und einem PKW. Der BÃœ war ursprÃ¼nglich mit einer technischen Sicherung ausgestattet, doch dieser war wegen eines Kabelbrandes am 21.11.2014 auÃŸer Betrieb. Die Sicherung erfolgte durch einen BÃœP und zwei HP. Zum Zeitpunkt des Zusammenpralls war eine Seite des BÃœ nicht gesichert. Der S-Bahnzug befand sich in diesem Moment bereits auf dem BÃœ, als der PKW den BÃœ befuhr und auf HÃ¶he des ersten Drehgestells mit dem Zug kollidierte.  
+Am 02.12.2014 um 18:07 Uhr kam es am BÜ "Pferdebachstraße" zu einem Zusammenprall zwischen einem S-Bahnzug der Linie 5 und einem PKW. Der BÜ war ursprünglich mit einer technischen Sicherung ausgestattet, doch dieser war wegen eines Kabelbrandes am 21.11.2014 außer Betrieb. Die Sicherung erfolgte durch einen BÜP und zwei HP. Zum Zeitpunkt des Zusammenpralls war eine Seite des BÜ nicht gesichert. Der S-Bahnzug befand sich in diesem Moment bereits auf dem BÜ, als der PKW den BÜ befuhr und auf Höhe des ersten Drehgestells mit dem Zug kollidierte.  
 
-#HÃ¶he des Schadens, Anzahl Tote und Verletzte  
-Bei dem Ereignis wurde der Fahrer des verunfallten PKW schwer verletzt. Der Gesamtschaden belÃ¤uft sich auf ca. 60.000 â‚¬.  
+#Höhe des Schadens, Anzahl Tote und Verletzte  
+Bei dem Ereignis wurde der Fahrer des verunfallten PKW schwer verletzt. Der Gesamtschaden beläuft sich auf ca. 60.000 €.  
 
 #Ursachen des Unfalls  
-Die technische Sicherung des BÃœ â€žPferdebachstraÃŸeâ€œ war wegen eines vorausgegangenen Kabelbrandes auÃŸer Betrieb. Die Sicherung erfolgte durch BÃœP und HP, doch zum Zeitpunkt des Zusammenpralls war eine Seite des BÃœ nicht gesichert. Die Ursache des Unfalls lag zweifelsfrei in der mangelhaften DurchfÃ¼hrung der BÃœ-Sicherung durch die eingesetzten HP. Die nÃ¶tigen Zeichen zur Anhalterforderung wurden nicht gegeben, und das Hilfsmittel Warnband wurde auf der unfallrelevanten Seite nicht angebracht. Zudem wurden die fÃ¼r HP vorgeschriebenen Mindestanforderungen und Qualifikationen nicht erfÃ¼llt.  
+Die technische Sicherung des BÜ "Pferdebachstraße" war wegen eines vorausgegangenen Kabelbrandes außer Betrieb. Die Sicherung erfolgte durch BÜP und HP, doch zum Zeitpunkt des Zusammenpralls war eine Seite des BÜ nicht gesichert. Die Ursache des Unfalls lag zweifelsfrei in der mangelhaften Durchführung der BÜ-Sicherung durch die eingesetzten HP. Die nötigen Zeichen zur Anhalterforderung wurden nicht gegeben, und das Hilfsmittel Warnband wurde auf der unfallrelevanten Seite nicht angebracht. Zudem wurden die für HP vorgeschriebenen Mindestanforderungen und Qualifikationen nicht erfüllt.  
 
-#Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
-Nach dem Ereignis wurde eine TH-BÃœP installiert, um die Sicherung des BÃœ zu verbessern. Es wird empfohlen, bei der Sicherung von BÃœP und HP mindestens die gleichen Anforderungen an Qualifikation und TauglichkeitsprÃ¼fung wie fÃ¼r BÃœP zu stellen. Zudem sollten die Einweisungen fÃ¼r HP durch den Bezirksleiter Betrieb durchgefÃ¼hrt und dokumentiert werden. Die EUB hat bereits in der Auswertung des BÃœ-Unfalls vom 09.01.2013 Sicherheitsempfehlungen formuliert, die die Notwendigkeit der zeitnahen Installation von TH-BÃœP und die Verbesserung der Sicherungsprozesse betonen.
+#Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+Nach dem Ereignis wurde eine TH-BÜP installiert, um die Sicherung des BÜ zu verbessern. Es wird empfohlen, bei der Sicherung von BÜP und HP mindestens die gleichen Anforderungen an Qualifikation und Tauglichkeitsprüfung wie für BÜP zu stellen. Zudem sollten die Einweisungen für HP durch den Bezirksleiter Betrieb durchgeführt und dokumentiert werden. Die EUB hat bereits in der Auswertung des BÜ-Unfalls vom 09.01.2013 Sicherheitsempfehlungen formuliert, die die Notwendigkeit der zeitnahen Installation von TH-BÜP und die Verbesserung der Sicherungsprozesse betonen.
 
 ---
 file: 121_Frankfurt_M-Griesheim.txt
 
-GefÃ¤hrliches Ereignis im Eisenbahnbetrieb  
+Gefährliches Ereignis im Eisenbahnbetrieb  
 Ereignisart: Zugkollision  
 Datum: 17.02.2017  
 Zeit: 01:39 Uhr  
@@ -1826,21 +1826,21 @@ Gleis: 207
 # Untersuchungsbericht Zugkollision, 17.02.2017, Frankfurt/M-Griesheim  
 
 # Hergang des Unfalls  
-Am 17.02.2017 gegen 01:39 Uhr kollidiert LPFT-T 78730 (Lw: Frankfurt/Main Hbf â€“ Frankfurt/M-Griesheim) bei der Einfahrt nach Gleis 207 im Bahnhof (Bf) Frankfurt/M-Griesheim mit dem Gleisabschluss. Der Zug entgleist mit drei Achsen und kommt auf dem Bahnsteig zum Stehen.  
+Am 17.02.2017 gegen 01:39 Uhr kollidiert LPFT-T 78730 (Lw: Frankfurt/Main Hbf – Frankfurt/M-Griesheim) bei der Einfahrt nach Gleis 207 im Bahnhof (Bf) Frankfurt/M-Griesheim mit dem Gleisabschluss. Der Zug entgleist mit drei Achsen und kommt auf dem Bahnsteig zum Stehen.  
 ...  
-Der Tf des LPFT-T 78730 hat vÃ¶llig Ã¼bersehen, dass der Fahrweg ins Stumpfgleis an den Prellbock fÃ¼hrt. Durch den Regen habe er sich bei der Einfahrt durch die Bahnsteigbeleuchtung leicht geblendet gefÃ¼hlt. Als er bemerkt habe, dass er mit zu hoher Geschwindigkeit gegen den Prellbock fÃ¤hrt, habe er sofort eine Schnellbremsung mit SandunterstÃ¼tzung eingeleitet. Er habe trotz dieser MaÃŸnahmen den Aufprall nicht mehr verhindern kÃ¶nnen und sofort einen Notruf eingeleitet.  
+Der Tf des LPFT-T 78730 hat völlig übersehen, dass der Fahrweg ins Stumpfgleis an den Prellbock führt. Durch den Regen habe er sich bei der Einfahrt durch die Bahnsteigbeleuchtung leicht geblendet gefühlt. Als er bemerkt habe, dass er mit zu hoher Geschwindigkeit gegen den Prellbock fährt, habe er sofort eine Schnellbremsung mit Sandunterstützung eingeleitet. Er habe trotz dieser Maßnahmen den Aufprall nicht mehr verhindern können und sofort einen Notruf eingeleitet.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
-Personen werden bei dem Ereignis nicht verletzt. Bei der Zugentgleisung entstanden SachschÃ¤den, die durch den Infrastrukturbetreiber wie folgt beziffert wurden:  
-Sachschaden Infrastruktur und Fahrzeug: ca. 1.565.555 â‚¬  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Personen werden bei dem Ereignis nicht verletzt. Bei der Zugentgleisung entstanden Sachschäden, die durch den Infrastrukturbetreiber wie folgt beziffert wurden:  
+Sachschaden Infrastruktur und Fahrzeug: ca. 1.565.555 €  
 
 # Ursachen des Unfalls  
-UrsÃ¤chlich fÃ¼r die Zugkollision war das Fehlverhalten des Tf, der seine Aufgaben wÃ¤hrend der Fahrt nicht mit der gebotenen Sorgfalt durchfÃ¼hrte. Er hat als Tf, an der Spitze des Zuges stÃ¤ndig u.a. die zu befahrende Strecke, die Signale, die BahnÃ¼bergÃ¤nge und die Oberleitung zu beobachten. Er hat auf UnregelmÃ¤ÃŸigkeiten, die den Zug gefÃ¤hrden kÃ¶nnten zuachten, vgl. Ril 418.3312 Abs. 7 (1). Letztendlich wurde der Bremsvorgang zu spÃ¤t eingeleitet.  
+Ursächlich für die Zugkollision war das Fehlverhalten des Tf, der seine Aufgaben während der Fahrt nicht mit der gebotenen Sorgfalt durchführte. Er hat als Tf, an der Spitze des Zuges ständig u.a. die zu befahrende Strecke, die Signale, die Bahnübergänge und die Oberleitung zu beobachten. Er hat auf Unregelmäßigkeiten, die den Zug gefährden könnten zuachten, vgl. Ril 418.3312 Abs. 7 (1). Letztendlich wurde der Bremsvorgang zu spät eingeleitet.  
 ...  
-Zwischen dem Einfahrsignal A237 und Prellbock wird die Geschwindigkeit unzulÃ¤ssig um ca. 9 km/h Ã¼berschritten. Die Zugkollision ist auf das nicht rechtzeitige Einleiten einer Betriebsbremsung des Tf vor dem Gleisabschluss zurÃ¼ckzufÃ¼hren.  
+Zwischen dem Einfahrsignal A237 und Prellbock wird die Geschwindigkeit unzulässig um ca. 9 km/h überschritten. Die Zugkollision ist auf das nicht rechtzeitige Einleiten einer Betriebsbremsung des Tf vor dem Gleisabschluss zurückzuführen.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
-Als SofortmaÃŸnahme wurde der am Ereignis beteiligte Tf zunÃ¤chst nicht mehr als Tf im Bahnbetrieb eingesetzt. Nach der Feststellung der Ursache wurde der Tf, entsprechend dem Fehlverhalten, durch einen zertifizierten Trainer und PrÃ¼fer fÃ¼r EFF nachgeschult.
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+Als Sofortmaßnahme wurde der am Ereignis beteiligte Tf zunächst nicht mehr als Tf im Bahnbetrieb eingesetzt. Nach der Feststellung der Ursache wurde der Tf, entsprechend dem Fehlverhalten, durch einen zertifizierten Trainer und Prüfer für EFF nachgeschult.
 
 ---
 file: 018_Bielefeld.txt
@@ -1848,50 +1848,50 @@ file: 018_Bielefeld.txt
 Untersuchungsbericht Sonstiger Unfall im Eisenbahnbetrieb, Bf Bielefeld Hbf Pbf, Gleis 4, 10.07.2010
 
 # Hergang des Unfalls  
-Am 10.07.2010, auf der Fahrt des ICE 846/856 von Berlin nach KÃ¶ln, kam es zum Ausfall der Klimaanlagen in mehreren Wagen. Der ICE bestand aus den ICE-2-Einheiten ET 402 001-2 (fÃ¼hrend) und 402 013-7 (gefÃ¼hrt). Aufgrund der hohen AuÃŸentemperaturen (bis zu 38Âº C), des Ausfalls der Klimaanlagen in mehreren Wagen, der fehlenden Frischluftzufuhr in den letzten drei Wagen des hinteren Zugteils und der maximalen Auslastung des Zuges (bis zu 200 % ab Hannover Hbf), kam es zu einem Hitzestau im Inneren der Wagen.  
+Am 10.07.2010, auf der Fahrt des ICE 846/856 von Berlin nach Köln, kam es zum Ausfall der Klimaanlagen in mehreren Wagen. Der ICE bestand aus den ICE-2-Einheiten ET 402 001-2 (führend) und 402 013-7 (geführt). Aufgrund der hohen Außentemperaturen (bis zu 38º C), des Ausfalls der Klimaanlagen in mehreren Wagen, der fehlenden Frischluftzufuhr in den letzten drei Wagen des hinteren Zugteils und der maximalen Auslastung des Zuges (bis zu 200 % ab Hannover Hbf), kam es zu einem Hitzestau im Inneren der Wagen.  
 
-Bei der Fahrt von Berlin bis Hannover Hbf fielen in mehreren Wagen die Klimaanlagen aus. An drei Wagen der hinteren Einheit wurden die Leistungsselbstschalter (LSS) Klimaanlage ausgelÃ¶st, wodurch die Zuluftventilatoren ausgeschaltet und die Frischluftzufuhr unterbrochen wurde. Im Bahnhof Hannover Hbf stiegen Reisende von zwei vorher ausgesetzten ZÃ¼gen zu, wodurch der ICE 846/856 bis zu 200 % ausgelastet war. WÃ¤hrend der Fahrt von Hannover Hbf bis Bielefeld Hbf kam es bei mehreren Reisenden zu Atemnot, Kreislaufbeschwerden und KreislaufzusammenbrÃ¼chen.  
+Bei der Fahrt von Berlin bis Hannover Hbf fielen in mehreren Wagen die Klimaanlagen aus. An drei Wagen der hinteren Einheit wurden die Leistungsselbstschalter (LSS) Klimaanlage ausgelöst, wodurch die Zuluftventilatoren ausgeschaltet und die Frischluftzufuhr unterbrochen wurde. Im Bahnhof Hannover Hbf stiegen Reisende von zwei vorher ausgesetzten Zügen zu, wodurch der ICE 846/856 bis zu 200 % ausgelastet war. Während der Fahrt von Hannover Hbf bis Bielefeld Hbf kam es bei mehreren Reisenden zu Atemnot, Kreislaufbeschwerden und Kreislaufzusammenbrüchen.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
-Bei 27 Reisenden traten Atemnot, Kreislaufbeschwerden und KreislaufzusammenbrÃ¼che auf. Neun Personen wurden in KrankenhÃ¤user eingeliefert. Es wurden keine Tote gemeldet.  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Bei 27 Reisenden traten Atemnot, Kreislaufbeschwerden und Kreislaufzusammenbrüche auf. Neun Personen wurden in Krankenhäuser eingeliefert. Es wurden keine Tote gemeldet.  
 
 # Ursachen des Unfalls  
-Der AuslÃ¶ser des Ereignisses lag in der Ãœberlastung der Klimaanlagen in Verbindung mit der manuellen Abschaltung der Frischluftzufuhr und LuftumwÃ¤lzung zum Reset der Anlage. Das Ereignis begÃ¼nstigte zudem die Ãœberlastung des Zuges durch zwei zuvor im Bahnhof ausgesetzte ZÃ¼ge, die den Fahrgastandrang zusÃ¤tzlich erhÃ¶hten.  
+Der Auslöser des Ereignisses lag in der Überlastung der Klimaanlagen in Verbindung mit der manuellen Abschaltung der Frischluftzufuhr und Luftumwälzung zum Reset der Anlage. Das Ereignis begünstigte zudem die Überlastung des Zuges durch zwei zuvor im Bahnhof ausgesetzte Züge, die den Fahrgastandrang zusätzlich erhöhten.  
 
-Die Auslegung der LSS erfolgte, um einen manuellen Reset durchzufÃ¼hren. Es konnte jedoch nicht geklÃ¤rt werden, warum die Wiedereinlegung der LSS nicht erfolgte. Die AusfÃ¤lle der Klimaanlagen wurden auf die Ãœberlastung der Anlagen (hohe AuÃŸentemperaturen bei niedrig eingestellter Fahrzeuginnentemperatur) zurÃ¼ckgefÃ¼hrt.  
+Die Auslegung der LSS erfolgte, um einen manuellen Reset durchzuführen. Es konnte jedoch nicht geklärt werden, warum die Wiedereinlegung der LSS nicht erfolgte. Die Ausfälle der Klimaanlagen wurden auf die Überlastung der Anlagen (hohe Außentemperaturen bei niedrig eingestellter Fahrzeuginnentemperatur) zurückgeführt.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
-UnabhÃ¤ngig von den MaÃŸnahmen der DB Fernverkehr AG ergeht die Sicherheitsempfehlung:  
-**Technische VerÃ¤nderung der Klimaanlage**, so dass bei einem notwendigen Reset oder Defekt des Heizungs- oder KÃ¤lteteils die Frischluftzufuhr und LuftumwÃ¤lzung im Wagen erhalten bleibt.  
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+Unabhängig von den Maßnahmen der DB Fernverkehr AG ergeht die Sicherheitsempfehlung:  
+**Technische Veränderung der Klimaanlage**, so dass bei einem notwendigen Reset oder Defekt des Heizungs- oder Kälteteils die Frischluftzufuhr und Luftumwälzung im Wagen erhalten bleibt.  
 
-ZusÃ¤tzlich wurden von der DB Fernverkehr AG MaÃŸnahmen eingeleitet, darunter:  
-- Anpassung des Abschaltpunktes fÃ¼r die HochdruckÃ¼berwachung und Reinigung der Luftansaugung.  
-- Kontrolle der KÃ¤ltemittelmengen und Anpassung der Reinigungsintervalle.  
-- Austausch von Teilkomponenten (Verdichter-Aggregate und LÃ¼fter) sowie Softwareanpassung (Abschaltung der Nachheizung bei AuÃŸentemperaturen > 30Â°C).
+Zusätzlich wurden von der DB Fernverkehr AG Maßnahmen eingeleitet, darunter:  
+- Anpassung des Abschaltpunktes für die Hochdrucküberwachung und Reinigung der Luftansaugung.  
+- Kontrolle der Kältemittelmengen und Anpassung der Reinigungsintervalle.  
+- Austausch von Teilkomponenten (Verdichter-Aggregate und Lüfter) sowie Softwareanpassung (Abschaltung der Nachheizung bei Außentemperaturen > 30°C).
 
 ---
 file: 101_Pinneberg_-_Hamburg-Eidelstedt.txt
 
-GefÃ¤hrliches Ereignis im Eisenbahnbetrieb  
-UnzulÃ¤ssige Einfahrt in einen besetz. Gleisabsch., 23.02.2016, Pinneberg - Hamburg-Eidelstedt  
+Gefährliches Ereignis im Eisenbahnbetrieb  
+Unzulässige Einfahrt in einen besetz. Gleisabsch., 23.02.2016, Pinneberg - Hamburg-Eidelstedt  
 
 # Hergang des Unfalls  
-Gegen 14:40 Uhr durchfuhr eine Messfahrt (NbZ 91965) den Bahnhof Pinneberg aus Richtung Tornesch kommend, in Richtung Hamburg-Eidelstedt und hinterlieÃŸ sowohl einfahr- als auch ausfahrseitig GleisfreimeldestÃ¶rungen in den achszÃ¤hlergesteuerten Abschnitten, welche sich in Form einer dauerhaften Besetztmeldung Ã¤uÃŸerten. Die nachfolgenden 4 Zugfahrten in Richtung Hamburg-Eidelstedt wurden auf Ersatzsignal durchgefÃ¼hrt.  
-Die Bedienung des gestÃ¶rten (haltzeigenden) Ausfahrsignals P5, als auch die der Blocksignale (Sbk 34 und Sbk 32) fand mittels Zs 1-Bedienung statt.  
-Gegen 15:47 Uhr meldete sich der TriebfahrzeugfÃ¼hrer der RE 21073 Ã¼ber Zugfunk beim Fahrdienstleiter Pinneberg und teilte ihm mit, dass vor ihm ein anderer Zug (DPN 83825) stÃ¼nde. Die Zugspitze befÃ¤nde sich ca. bei km 14,500 und die Entfernung zum Ende des vor ihm stehenden Zuges betrÃ¼ge ca. 150 m.  
+Gegen 14:40 Uhr durchfuhr eine Messfahrt (NbZ 91965) den Bahnhof Pinneberg aus Richtung Tornesch kommend, in Richtung Hamburg-Eidelstedt und hinterließ sowohl einfahr- als auch ausfahrseitig Gleisfreimeldestörungen in den achszählergesteuerten Abschnitten, welche sich in Form einer dauerhaften Besetztmeldung äußerten. Die nachfolgenden 4 Zugfahrten in Richtung Hamburg-Eidelstedt wurden auf Ersatzsignal durchgeführt.  
+Die Bedienung des gestörten (haltzeigenden) Ausfahrsignals P5, als auch die der Blocksignale (Sbk 34 und Sbk 32) fand mittels Zs 1-Bedienung statt.  
+Gegen 15:47 Uhr meldete sich der Triebfahrzeugführer der RE 21073 über Zugfunk beim Fahrdienstleiter Pinneberg und teilte ihm mit, dass vor ihm ein anderer Zug (DPN 83825) stünde. Die Zugspitze befände sich ca. bei km 14,500 und die Entfernung zum Ende des vor ihm stehenden Zuges betrüge ca. 150 m.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
-Todesopfer sind keine zu beklagen. Der TriebfahrzeugfÃ¼hrer des RE 21073 blieb unverletzt,lieÃŸ sich jedoch ablÃ¶sen. SachschÃ¤den entstanden keine.  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Todesopfer sind keine zu beklagen. Der Triebfahrzeugführer des RE 21073 blieb unverletzt,ließ sich jedoch ablösen. Sachschäden entstanden keine.  
 
 # Ursachen des Unfalls  
-Auf Grund einer BlockstÃ¶rung zwischen Pinneberg und Hamburg-Eidelstedt wurde dem Zug RE 21073 im Bf Pinneberg, ohne sich zu versichern ob der Zugfolgeabschnitt noch durch einen anderen Zug belegt ist, die Zustimmung zur Ausfahrt durch Bedienung des Ersatzsignals unzulÃ¤ssig erteilt.  
-Im Rahmen der Unfalluntersuchung wurde deutlich, dass es zu fehlerhaften fahrdienstlichen Bedienhandlungen kam, insbesondere ab dem Zeitpunkt, zu dem die Stellwerkstechnik in den signaltechnisch sicheren StÃ¶rbetrieb ging. Hiernach hÃ¤tten die Blocksignale gesperrt und Merkhinweise an entsprechender Stelle auf dem Stelltisch angebracht werden mÃ¼ssen. Erforderliche betriebliche ErsatzmaÃŸnahmen, beispielsweise die EinzelrÃ¤umungsprÃ¼fung, wurden nicht durchgefÃ¼hrt. Auf die vorgeschriebenen Handlungen im Fehlerfall laut Ril 408 bzw. Ril 482 (genaue Bezeichnung der relevanten Kapitel siehe voranstehende tabellarische Darstellung) wurde verzichtet.  
-Der Fdl orientierte sich hinsichtlich des Standortes der ZÃ¼ge vermutlich unzulÃ¤ssiger Weise an der Zugnummernmeldeanlage, um den Raumabstand zwischen den ZÃ¼gen zu gewÃ¤hrleisten. Mit dem Ausfall dieser Anlage (gegen 15:20 Uhr), der in keinem technischen Zusammenhang mit der StÃ¶rung der AchszÃ¤hlanlagen stand, verlor dieser vermutlich den Ãœberblick Ã¼ber die Standorte der jeweiligen ZÃ¼ge und den Besetztzustand der gestÃ¶rten Blockabschnitte, vergaÃŸ den vor Sbk 34 stehenden Zug DPN 83825 und lieÃŸ Zug RE 21073 in den Abschnitt ein.  
+Auf Grund einer Blockstörung zwischen Pinneberg und Hamburg-Eidelstedt wurde dem Zug RE 21073 im Bf Pinneberg, ohne sich zu versichern ob der Zugfolgeabschnitt noch durch einen anderen Zug belegt ist, die Zustimmung zur Ausfahrt durch Bedienung des Ersatzsignals unzulässig erteilt.  
+Im Rahmen der Unfalluntersuchung wurde deutlich, dass es zu fehlerhaften fahrdienstlichen Bedienhandlungen kam, insbesondere ab dem Zeitpunkt, zu dem die Stellwerkstechnik in den signaltechnisch sicheren Störbetrieb ging. Hiernach hätten die Blocksignale gesperrt und Merkhinweise an entsprechender Stelle auf dem Stelltisch angebracht werden müssen. Erforderliche betriebliche Ersatzmaßnahmen, beispielsweise die Einzelräumungsprüfung, wurden nicht durchgeführt. Auf die vorgeschriebenen Handlungen im Fehlerfall laut Ril 408 bzw. Ril 482 (genaue Bezeichnung der relevanten Kapitel siehe voranstehende tabellarische Darstellung) wurde verzichtet.  
+Der Fdl orientierte sich hinsichtlich des Standortes der Züge vermutlich unzulässiger Weise an der Zugnummernmeldeanlage, um den Raumabstand zwischen den Zügen zu gewährleisten. Mit dem Ausfall dieser Anlage (gegen 15:20 Uhr), der in keinem technischen Zusammenhang mit der Störung der Achszählanlagen stand, verlor dieser vermutlich den Überblick über die Standorte der jeweiligen Züge und den Besetztzustand der gestörten Blockabschnitte, vergaß den vor Sbk 34 stehenden Zug DPN 83825 und ließ Zug RE 21073 in den Abschnitt ein.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
-Der betroffene Fahrdienstleiter wird in dieser Funktion nicht mehr eingesetzt. Ein Einsatz als WeichenwÃ¤rter wurde betreiberseitig befÃ¼rwortet.  
-Es wurde mit GÃ¼ltigkeit ab 03.03.2016 eine betriebliche Weisung (BM 2016-006/B-BW) durch die DB Netz AG verÃ¶ffentlicht, in der gemÃ¤ÃŸ dem Titel auf das Thema der â€œVoraussetzungen vor Zulassung einer Zugfahrt mit besonderem Auftrag fÃ¼r LehrgesprÃ¤che in Betriebskontrollenâ€œ eingegangen wurde.  
-Die im Rahmen der Untersuchung gewonnenen Erkenntnisse lassen erkennen, dass trotz lÃ¤ngerer Einweisung und mehrerer EinsÃ¤tze auf der Ã–rtlichkeit keine Handlungssicherheit bei StÃ¶rungen bestand. Eine, auf fundiertem Wissen aufsetzende Kenntnis der betrieblichen AblÃ¤ufe hÃ¤tte die notwendige Handlungssicherheit gegeben, um auch im StÃ¶rungsfall den Eisenbahnbetrieb sicher durchfÃ¼hren zu kÃ¶nnen und hÃ¤tte dadurch zur Vermeidung des Ereignisses beigetragen.
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+Der betroffene Fahrdienstleiter wird in dieser Funktion nicht mehr eingesetzt. Ein Einsatz als Weichenwärter wurde betreiberseitig befürwortet.  
+Es wurde mit Gültigkeit ab 03.03.2016 eine betriebliche Weisung (BM 2016-006/B-BW) durch die DB Netz AG veröffentlicht, in der gemäß dem Titel auf das Thema der "Voraussetzungen vor Zulassung einer Zugfahrt mit besonderem Auftrag für Lehrgespräche in Betriebskontrollen" eingegangen wurde.  
+Die im Rahmen der Untersuchung gewonnenen Erkenntnisse lassen erkennen, dass trotz längerer Einweisung und mehrerer Einsätze auf der Örtlichkeit keine Handlungssicherheit bei Störungen bestand. Eine, auf fundiertem Wissen aufsetzende Kenntnis der betrieblichen Abläufe hätte die notwendige Handlungssicherheit gegeben, um auch im Störungsfall den Eisenbahnbetrieb sicher durchführen zu können und hätte dadurch zur Vermeidung des Ereignisses beigetragen.
 
 ---
 file: 069_Dahlbruch.txt
@@ -1899,50 +1899,50 @@ file: 069_Dahlbruch.txt
 Zugentgleisung, 30.10.2014, Dahlbruch
 
 # Hergang des Unfalls
-Am 30.10.2014 sollte der GÃ¼terzug EK 54514 auf der VzG-Strecke 2870 planmÃ¤ÃŸig um 07:10 Uhr in das Gleis 4 des Bf Dahlbruch einfahren. Die FdlÂ´in hatte die Weichen- und Riegelhebel gemÃ¤ÃŸ Verschlussplan eingestellt und das Esig F in Fahrtstellung gebracht. Nachdem der Tf am Esig F vorbeigefahren war, fuhr er Ã¼ber Weiche 17 in das Gleis 4 ein. Etwa auf HÃ¶he eines ReisendenÃ¼berweges hielt er seine Lok ca. 250 m vor dem Asig P 4 an, um einen Befehl Ã¼ber eine Langsamfahrstelle zu empfangen. Nach Ãœbergabe des Befehls lÃ¶ste die FdlÂ´in die FahrstraÃŸe a 4 auf und stellte die Weiche 17 zurÃ¼ck. Dies hatte zur Folge, dass sich Weiche 17 unter dem fÃ¼nften Wagen umstellte, wodurch dieser zweispurig fuhr und mit dem Asig N 3 kollidierte.
+Am 30.10.2014 sollte der Güterzug EK 54514 auf der VzG-Strecke 2870 planmäßig um 07:10 Uhr in das Gleis 4 des Bf Dahlbruch einfahren. Die Fdl´in hatte die Weichen- und Riegelhebel gemäß Verschlussplan eingestellt und das Esig F in Fahrtstellung gebracht. Nachdem der Tf am Esig F vorbeigefahren war, fuhr er über Weiche 17 in das Gleis 4 ein. Etwa auf Höhe eines Reisendenüberweges hielt er seine Lok ca. 250 m vor dem Asig P 4 an, um einen Befehl über eine Langsamfahrstelle zu empfangen. Nach Übergabe des Befehls löste die Fdl´in die Fahrstraße a 4 auf und stellte die Weiche 17 zurück. Dies hatte zur Folge, dass sich Weiche 17 unter dem fünften Wagen umstellte, wodurch dieser zweispurig fuhr und mit dem Asig N 3 kollidierte.
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte
-PersonenschÃ¤den sind nicht zu beklagen. Der Sachschaden wird insgesamt auf 30.582 Euro geschÃ¤tzt, wobei 24.719 Euro fÃ¼r Leit- und Sicherungstechnik, 5.296 Euro fÃ¼r Fahrzeuge und 567 Euro fÃ¼r Betriebserschwernisse anfallen.
+# Höhe des Schadens, Anzahl Tote und Verletzte
+Personenschäden sind nicht zu beklagen. Der Sachschaden wird insgesamt auf 30.582 Euro geschätzt, wobei 24.719 Euro für Leit- und Sicherungstechnik, 5.296 Euro für Fahrzeuge und 567 Euro für Betriebserschwernisse anfallen.
 
 # Ursachen des Unfalls
-Die FdlÂ´in hatte das Esig F auf Halt gestellt, obwohl der Zug noch nicht an der Signal-Zugschlussstelle vorbeigefahren war. Sie lÃ¶ste die FahrstraÃŸe auf, ohne dass der Zug die Weiche 17 gerÃ¤umt oder an seiner FahrstraÃŸen-Zugschlussstelle zum Halten gekommen war. Dies fÃ¼hrte dazu, dass Weiche 17 unter dem fÃ¼nften Wagen umgestellt wurde und der Zug zweispurig fuhr.
+Die Fdl´in hatte das Esig F auf Halt gestellt, obwohl der Zug noch nicht an der Signal-Zugschlussstelle vorbeigefahren war. Sie löste die Fahrstraße auf, ohne dass der Zug die Weiche 17 geräumt oder an seiner Fahrstraßen-Zugschlussstelle zum Halten gekommen war. Dies führte dazu, dass Weiche 17 unter dem fünften Wagen umgestellt wurde und der Zug zweispurig fuhr.
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle
-Der Arbeitgeber fÃ¼hrte mit dem Tf ein LehrgesprÃ¤ch durch. Die betroffene FdlÂ´in wurde intern nachgeschult zu Themen wie FahrwegprÃ¼fung, Fahrwegsicherung und Zugschlussstellen. Ein FeststellungsgesprÃ¤ch fÃ¼r den Einsatz als FdlÂ´in folgte, mit Fokus auf die genannten Themen.
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle
+Der Arbeitgeber führte mit dem Tf ein Lehrgespräch durch. Die betroffene Fdl´in wurde intern nachgeschult zu Themen wie Fahrwegprüfung, Fahrwegsicherung und Zugschlussstellen. Ein Feststellungsgespräch für den Einsatz als Fdl´in folgte, mit Fokus auf die genannten Themen.
 
 ---
 file: 170_Bonn_Gbf.txt
 
 Zugkollision, 28.10.2015, Bonn Gbf  
 # Hergang des Unfalls  
-Am 28.10.2015 gegen 05:26 Uhr kollidierte der Reisezug DPN 25409 auf der Fahrt von KÃ¶ln-Deutzerfeld nach Koblenz Hbf bei der Einfahrt in den Bahnhof (Bf) Bonn Hbf, Bahnhofsteil (B) Bonn Gbf, nach Gleis 205 mit einem aus Gleis 126 kommenden Zweiwegebagger.  
+Am 28.10.2015 gegen 05:26 Uhr kollidierte der Reisezug DPN 25409 auf der Fahrt von Köln-Deutzerfeld nach Koblenz Hbf bei der Einfahrt in den Bahnhof (Bf) Bonn Hbf, Bahnhofsteil (B) Bonn Gbf, nach Gleis 205 mit einem aus Gleis 126 kommenden Zweiwegebagger.  
 
 Das Ereignisrekonstruktion (5.1) beschreibt:  
-Im Zuge von Gleisbauarbeiten mussten Zugfahrten zwischen KÃ¶ln Hbf und Koblenz in der Nacht vom 27.10.2015 auf den 28.10.2015 durch die Gleise 205 bis 208 des B Bonn Gbf durchgefÃ¼hrt werden. Um 05:15 Uhr vereinbarte der Tf des Zweiwegebaggers mit dem Fdl eine Rangierbewegung in das Gleis 126. Gegen 05:20 Uhr fragte der Tf beim Fdl an, ob er zur Weiche 74 umsetzen dÃ¼rfe. Diese Rangierbewegung lieÃŸ der Fdl nicht zu, da erst die Zugfahrt DPN 25409 stattfinden sollte. Der Fdl stellte die ZugfahrstraÃŸe fÃ¼r den DPN 25409 ein. Als dabei das zu dieser FahrstraÃŸe zugehÃ¶rige Ls 233 Sh 1 zeigte, nahm der Tf des Zweiwegebaggers dieses Signal als Zustimmung zu seiner geplanten Rangierfahrt auf und setzte sein Fahrzeug in Bewegung. Kurz zuvor war DPN 25409 am Esig A 902 vorbeigefahren und kollidierte gegen 05:26 Uhr mit dem Zweiwegebagger in der Weiche 51.  
+Im Zuge von Gleisbauarbeiten mussten Zugfahrten zwischen Köln Hbf und Koblenz in der Nacht vom 27.10.2015 auf den 28.10.2015 durch die Gleise 205 bis 208 des B Bonn Gbf durchgeführt werden. Um 05:15 Uhr vereinbarte der Tf des Zweiwegebaggers mit dem Fdl eine Rangierbewegung in das Gleis 126. Gegen 05:20 Uhr fragte der Tf beim Fdl an, ob er zur Weiche 74 umsetzen dürfe. Diese Rangierbewegung ließ der Fdl nicht zu, da erst die Zugfahrt DPN 25409 stattfinden sollte. Der Fdl stellte die Zugfahrstraße für den DPN 25409 ein. Als dabei das zu dieser Fahrstraße zugehörige Ls 233 Sh 1 zeigte, nahm der Tf des Zweiwegebaggers dieses Signal als Zustimmung zu seiner geplanten Rangierfahrt auf und setzte sein Fahrzeug in Bewegung. Kurz zuvor war DPN 25409 am Esig A 902 vorbeigefahren und kollidierte gegen 05:26 Uhr mit dem Zweiwegebagger in der Weiche 51.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
-Bei dem Ereignis traten folgende PersonenschÃ¤den ein:  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Bei dem Ereignis traten folgende Personenschäden ein:  
 - Anzahl Tote: 0  
 - Anzahl schwer Verletzte: 0  
 - Anzahl leicht Verletzte: 0  
 
-Die geschÃ¤tzte HÃ¶he der SachschÃ¤den in Euro setzt sich wie folgt zusammen:  
-- Fahrzeuge: 60.000 â‚¬  
-- Infrastruktur: 0 â‚¬  
-- Dri e: 0 â‚¬  
-- GesamtschadenshÃ¶he: 60.000 â‚¬  
+Die geschätzte Höhe der Sachschäden in Euro setzt sich wie folgt zusammen:  
+- Fahrzeuge: 60.000 €  
+- Infrastruktur: 0 €  
+- Dri e: 0 €  
+- Gesamtschadenshöhe: 60.000 €  
 
 # Ursachen des Unfalls  
-Der TriebfahrzeugfÃ¼hrer (Tf) des in Gleis 126 stehenden Zweiwegebaggers fasste das fÃ¼r Zug DPN 25409 Sh 1 zeigende Lichtsperrsignal (Ls) 233 als Zustimmung des WeichenwÃ¤rters zu seiner geplanten Rangierbewegung auf und setzte sich in Bewegung. Dadurch kam es zur Kollision mit dem einfahrenden Zug. AuÃŸerdem trugen das Handeln des Fdl und MÃ¤ngel bei der signaltechnischen und betrieblichen Anbindung des Gleises 126 zur Entstehung des Unfalls bei.  
+Der Triebfahrzeugführer (Tf) des in Gleis 126 stehenden Zweiwegebaggers fasste das für Zug DPN 25409 Sh 1 zeigende Lichtsperrsignal (Ls) 233 als Zustimmung des Weichenwärters zu seiner geplanten Rangierbewegung auf und setzte sich in Bewegung. Dadurch kam es zur Kollision mit dem einfahrenden Zug. Außerdem trugen das Handeln des Fdl und Mängel bei der signaltechnischen und betrieblichen Anbindung des Gleises 126 zur Entstehung des Unfalls bei.  
 
-Die Bewertung und Schlussfolgerung (5.2) ergÃ¤nzen dies:  
-AusgelÃ¶st wurde die Zugkollision durch Fehlhandlungen der am Bahnbetrieb unmittelbar beteiligten Mitarbeiter, begÃ¼nstigt durch die unterlassene signaltechnische und betriebliche Anbindung des Gleises 126 an den B Gbf seitens der DB Netz AG. Das Handeln des Fdl 1 trug zur Entstehung des Unfalls bei, da das vom Zweiwegebagger besetzte Gleis 126 keinen Flankenschutz fÃ¼r die EinfahrzugstraÃŸe des DPN 25409 bot. Der Tf des Zweiwegebaggers beging einen Fehler, als er das Sh 1 zeigende Ls 233 irrtÃ¼mlich als Zustimmung des WeichenwÃ¤rters wertete und sein Fahrzeug ohne Rangiervereinbarung in Bewegung setzte.  
+Die Bewertung und Schlussfolgerung (5.2) ergänzen dies:  
+Ausgelöst wurde die Zugkollision durch Fehlhandlungen der am Bahnbetrieb unmittelbar beteiligten Mitarbeiter, begünstigt durch die unterlassene signaltechnische und betriebliche Anbindung des Gleises 126 an den B Gbf seitens der DB Netz AG. Das Handeln des Fdl 1 trug zur Entstehung des Unfalls bei, da das vom Zweiwegebagger besetzte Gleis 126 keinen Flankenschutz für die Einfahrzugstraße des DPN 25409 bot. Der Tf des Zweiwegebaggers beging einen Fehler, als er das Sh 1 zeigende Ls 233 irrtümlich als Zustimmung des Weichenwärters wertete und sein Fahrzeug ohne Rangiervereinbarung in Bewegung setzte.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
 Es wurden keine Sicherheitsempfehlungen ausgesprochen.  
 
-Bisher getroffene MaÃŸnahmen (6):  
-Seitens des EIU DB Netz AG wurde im Zuge von Umbauten im B Bonn Gbf in Gleis 126 eine fernbedienbare Gleissperre eingebaut und ein hochstehendes Ls errichtet. Ein Befahren dieses Gleises ist nur noch im Rahmen von BaumaÃŸnahmen zulÃ¤ssig, wenn dies laut Vorgaben der Betra unbedingt erforderlich ist.
+Bisher getroffene Maßnahmen (6):  
+Seitens des EIU DB Netz AG wurde im Zuge von Umbauten im B Bonn Gbf in Gleis 126 eine fernbedienbare Gleissperre eingebaut und ein hochstehendes Ls errichtet. Ein Befahren dieses Gleises ist nur noch im Rahmen von Baumaßnahmen zulässig, wenn dies laut Vorgaben der Betra unbedingt erforderlich ist.
 
 ---
 file: 135_Emden.txt
@@ -1950,121 +1950,121 @@ file: 135_Emden.txt
 Untersuchungsbericht: Zugkollision, 05.04.2019, Emden Rbf  
 
 # Hergang des Unfalls  
-Am 05.04.2019 gegen 11:24 Uhr kollidierte der GÃ¼terzug EZ 50783 der DB Cargo AG bei der Abfahrt aus Gleis 145 des Bahnhofs Emden Rangierbahnhof (Rbf) mit einem im Stumpfgleis 179 stehenden Triebfahrzeug (Tfz) der DB Cargo AG.  
+Am 05.04.2019 gegen 11:24 Uhr kollidierte der Güterzug EZ 50783 der DB Cargo AG bei der Abfahrt aus Gleis 145 des Bahnhofs Emden Rangierbahnhof (Rbf) mit einem im Stumpfgleis 179 stehenden Triebfahrzeug (Tfz) der DB Cargo AG.  
 
-Der Tf des Zuges meldete sich um ca. 10:30 Uhr beim Fdl/WeichenwÃ¤rter und erhielt die Zustimmung, den Wagenzug von Gleis 109 nach Gleis 145 zu rangieren. Um 11:08 Uhr fuhr der Tf das Tfz vom Fs 1 vorwÃ¤rts an den Wagenzug. Um 11:10 Uhr wechselte er auf den in Fahrtrichtung der bevorstehenden Zugfahrt vorderen Fs 2. Nach einer vereinfachten Bremsprobe mit dem Rb wurde der Zug um ca. 5 m zurÃ¼ckgedrÃ¼ckt. Um 11:15 Uhr legte der Tf den Richtungsschalter in die Stellung rÃ¼ckwÃ¤rts.  
+Der Tf des Zuges meldete sich um ca. 10:30 Uhr beim Fdl/Weichenwärter und erhielt die Zustimmung, den Wagenzug von Gleis 109 nach Gleis 145 zu rangieren. Um 11:08 Uhr fuhr der Tf das Tfz vom Fs 1 vorwärts an den Wagenzug. Um 11:10 Uhr wechselte er auf den in Fahrtrichtung der bevorstehenden Zugfahrt vorderen Fs 2. Nach einer vereinfachten Bremsprobe mit dem Rb wurde der Zug um ca. 5 m zurückgedrückt. Um 11:15 Uhr legte der Tf den Richtungsschalter in die Stellung rückwärts.  
 
-Nach der Meldung der Abfahrbereitschaft durch den Tf um ca. 11:16 Uhr gab der Rb diese an den Fdl Ef weiter. Der Fdl stellte um ca. 11:23 Uhr die AusfahrzugstraÃŸe ein und stimmte der Abfahrt des Zuges durch den Signalbegriff Sh 1 am Ls 145 I und Hp 2 am Asig P 14:5-147 zu. Der Tf nahm den Fahrbegriff der Signale um ca. 11:24 Uhr auf und setzte den Zug fÃ¤lschlicherweise rÃ¼ckwÃ¤rts in Bewegung. Er beschleunigte auf ca. 21 km/h. Durch das ZurÃ¼ckschieben der Wagen wurden die Weichen 194 und 197 c/d aufgefahren. Der letzte Wagen kollidierte nach einer Fahrtstrecke von ca. 235 Meter mit dem im Stumpfgleis 179 stehenden Tfz der BR 294.  
+Nach der Meldung der Abfahrbereitschaft durch den Tf um ca. 11:16 Uhr gab der Rb diese an den Fdl Ef weiter. Der Fdl stellte um ca. 11:23 Uhr die Ausfahrzugstraße ein und stimmte der Abfahrt des Zuges durch den Signalbegriff Sh 1 am Ls 145 I und Hp 2 am Asig P 14:5-147 zu. Der Tf nahm den Fahrbegriff der Signale um ca. 11:24 Uhr auf und setzte den Zug fälschlicherweise rückwärts in Bewegung. Er beschleunigte auf ca. 21 km/h. Durch das Zurückschieben der Wagen wurden die Weichen 194 und 197 c/d aufgefahren. Der letzte Wagen kollidierte nach einer Fahrtstrecke von ca. 235 Meter mit dem im Stumpfgleis 179 stehenden Tfz der BR 294.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
-Infolge des Unfalls wurden keine Personen getÃ¶tet. Der TriebfahrzeugfÃ¼hrer (Tf) des im Gleis 179 stehenden Tfz wurde leicht verletzt. Die geschÃ¤tzten SachschÃ¤den belaufen sich auf ca. 295.000 Euro.  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Infolge des Unfalls wurden keine Personen getötet. Der Triebfahrzeugführer (Tf) des im Gleis 179 stehenden Tfz wurde leicht verletzt. Die geschätzten Sachschäden belaufen sich auf ca. 295.000 Euro.  
 
-Anzahl Tote: â€“  
-Anzahl schwer Verletzte: â€“  
+Anzahl Tote: –  
+Anzahl schwer Verletzte: –  
 Anzahl leicht Verletzte: 1  
-Reisende: â€“  
-Mitarbeiter: â€“  
-ÃœbergÃ¤ngen/Dritter: â€“  
+Reisende: –  
+Mitarbeiter: –  
+Übergängen/Dritter: –  
 
-SchÃ¤den:  
+Schäden:  
 Fahrzeuge: ca. 84.000 Euro  
 Infrastruktur: ca. 161.000 Euro  
 Dritter: ca. 50.000 Euro  
-GesamtschadenshÃ¶he: ca. 295.000 Euro  
+Gesamtschadenshöhe: ca. 295.000 Euro  
 
 # Ursachen des Unfalls  
-Die Kollision des GÃ¼terzuges mit dem stehenden Tfz wurde durch einen Arbeitsfehler des Tf des Zuges 50783 verursacht. Dieser habe den Zug rÃ¼ckwÃ¤rts in Bewegung gesetzt.  
+Die Kollision des Güterzuges mit dem stehenden Tfz wurde durch einen Arbeitsfehler des Tf des Zuges 50783 verursacht. Dieser habe den Zug rückwärts in Bewegung gesetzt.  
 
-Nach der Zustimmung des Fdl zur Abfahrt aus Gleis 145 setzte der Tf den Zug fÃ¤lschlicherweise rÃ¼ckwÃ¤rts in Bewegung. Da er den Irrtum nicht bemerkte, konnte die Kollision mit dem in Gleis 179 abgestellten Tfz der Baureihe (BR) 294 nicht mehr verhindert werden.  
+Nach der Zustimmung des Fdl zur Abfahrt aus Gleis 145 setzte der Tf den Zug fälschlicherweise rückwärts in Bewegung. Da er den Irrtum nicht bemerkte, konnte die Kollision mit dem in Gleis 179 abgestellten Tfz der Baureihe (BR) 294 nicht mehr verhindert werden.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
 Es wurden keine Sicherheitsempfehlungen ausgesprochen.  
 
-Bisher getroffene MaÃŸnahmen:  
-Seitens des EVU DB Cargo AG wurden weitergehende MaÃŸnahmen zur KlÃ¤rung des Ereignisses eingeleitet. Der Tf wurde seit dem Ereignis nicht weiter an seinem Arbeitsplatz eingesetzt.
+Bisher getroffene Maßnahmen:  
+Seitens des EVU DB Cargo AG wurden weitergehende Maßnahmen zur Klärung des Ereignisses eingeleitet. Der Tf wurde seit dem Ereignis nicht weiter an seinem Arbeitsplatz eingesetzt.
 
 ---
 file: 202_Wunstorf_-_Haste.txt
 
-Untersuchungsbericht: Zugkollision, 19.05.2016, Bf Wunstorf â€“ Bf Haste  
+Untersuchungsbericht: Zugkollision, 19.05.2016, Bf Wunstorf – Bf Haste  
 # Hergang des Unfalls  
-Am 19.05.2016 kollidierten gegen 14:51 Uhr der ICE 548, auf dem Weg von Berlin-Gesundbrunnen nach DÃ¼sseldorf Hbf, und gegen 15:20 Uhr der ICE 549, auf dem Weg von DÃ¼sseldorf Hbf nach Berlin-Gesundbrunnen, im Streckengleis Wunstorf - Haste mit einem Ausbruch an der FlÃ¼gelschiene eines VersuchsherzstÃ¼cks im km 24,954.  
-Es handelte sich um einen Zugkollision im Streckengleis Wunstorf - Haste, bei der ein Ausbruch an der FlÃ¼gelschiene eines VersuchsherzstÃ¼cks ausgelÃ¶st wurde.  
-Der ICE 548 befuhr das VersuchsherzstÃ¼ck 02 und beschÃ¤digte dabei die RadsÃ¤tze der linken Fahrzeugseite. Der ICE 549, der aufgrund einer StÃ¶rung im Regelgleis das Gegengleis nahm, passierte das defekte VersuchsherzstÃ¼ck und meldete anschlieÃŸend einen Schlag.  
+Am 19.05.2016 kollidierten gegen 14:51 Uhr der ICE 548, auf dem Weg von Berlin-Gesundbrunnen nach Düsseldorf Hbf, und gegen 15:20 Uhr der ICE 549, auf dem Weg von Düsseldorf Hbf nach Berlin-Gesundbrunnen, im Streckengleis Wunstorf - Haste mit einem Ausbruch an der Flügelschiene eines Versuchsherzstücks im km 24,954.  
+Es handelte sich um einen Zugkollision im Streckengleis Wunstorf - Haste, bei der ein Ausbruch an der Flügelschiene eines Versuchsherzstücks ausgelöst wurde.  
+Der ICE 548 befuhr das Versuchsherzstück 02 und beschädigte dabei die Radsätze der linken Fahrzeugseite. Der ICE 549, der aufgrund einer Störung im Regelgleis das Gegengleis nahm, passierte das defekte Versuchsherzstück und meldete anschließend einen Schlag.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
-PersonenschÃ¤den waren nicht zu beklagen. An den RadsÃ¤tzen der betroffenen ZÃ¼ge entstanden SachschÃ¤den, der Oberbau wurde leicht beschÃ¤digt.  
-Die geschÃ¤tzte HÃ¶he der SachschÃ¤den in Euro setzt sich wie folgt zusammen:  
-- Fahrzeuge: 650.000 â‚¬  
-- Infrastruktur: 1.000 â‚¬  
-- GesamtschadenshÃ¶he: 651.000 â‚¬  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Personenschäden waren nicht zu beklagen. An den Radsätzen der betroffenen Züge entstanden Sachschäden, der Oberbau wurde leicht beschädigt.  
+Die geschätzte Höhe der Sachschäden in Euro setzt sich wie folgt zusammen:  
+- Fahrzeuge: 650.000 €  
+- Infrastruktur: 1.000 €  
+- Gesamtschadenshöhe: 651.000 €  
 
 # Ursachen des Unfalls  
-Ein im Rahmen einer Betriebserprobung verbautes VersuchsherzstÃ¼ck und die dazugehÃ¶rige FlÃ¼gelschiene haben den dynamischen Belastungen des Eisenbahnbetriebs nicht standgehalten. In der Folge kam es offensichtlich zu Rissbildungen und spÃ¤ter zu einem groÃŸflÃ¤chigen Ausbruch an der FlÃ¼gelschiene.  
-Die Ursachen des Unfalls liegen in der unzulÃ¤nglichen Verschraubung der FlÃ¼gelschiene sowie in der Verwendung von CrB1400-Material, das sprÃ¶de und anfÃ¤llig fÃ¼r ErmÃ¼dungsbrÃ¼che war. Die losen Verschraubungen fÃ¼hrten zu erhÃ¶hter dynamischer Beanspruchung und Anrissbildung.  
-Zugeigenspannungen von 347 N/mmÂ², die deutlich Ã¼ber die zulÃ¤ssigen 250 N/mmÂ² lagen, begÃ¼nstigten den Gewaltbruch.  
+Ein im Rahmen einer Betriebserprobung verbautes Versuchsherzstück und die dazugehörige Flügelschiene haben den dynamischen Belastungen des Eisenbahnbetriebs nicht standgehalten. In der Folge kam es offensichtlich zu Rissbildungen und später zu einem großflächigen Ausbruch an der Flügelschiene.  
+Die Ursachen des Unfalls liegen in der unzulänglichen Verschraubung der Flügelschiene sowie in der Verwendung von CrB1400-Material, das spröde und anfällig für Ermüdungsbrüche war. Die losen Verschraubungen führten zu erhöhter dynamischer Beanspruchung und Anrissbildung.  
+Zugeigenspannungen von 347 N/mm², die deutlich über die zulässigen 250 N/mm² lagen, begünstigten den Gewaltbruch.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
 Es wurden keine Sicherheitsempfehlungen ausgesprochen.  
-Bisher getroffene MaÃŸnahmen umfassen:  
-- Sonderinspektionen der vollbainischen HerzstÃ¼cke im Netz (jeweils alle drei Monate),  
-- ÃœberprÃ¼fung der Verschraubungen und UltraschallprÃ¼fung der FlÃ¼gelschienenbohrungen,  
-- Meldepflicht zwischen DB Netz AG und EBA bei sicherheitsrelevanten StÃ¶rungen,  
-- Weiteres Verbleiben der verbauten VersuchsherzstÃ¼cke im Netz bis zum Erreichen des Abnutzungsvorrats.
+Bisher getroffene Maßnahmen umfassen:  
+- Sonderinspektionen der vollbainischen Herzstücke im Netz (jeweils alle drei Monate),  
+- Überprüfung der Verschraubungen und Ultraschallprüfung der Flügelschienenbohrungen,  
+- Meldepflicht zwischen DB Netz AG und EBA bei sicherheitsrelevanten Störungen,  
+- Weiteres Verbleiben der verbauten Versuchsherzstücke im Netz bis zum Erreichen des Abnutzungsvorrats.
 
 ---
 file: 067_Köln-Kalk_Nord.txt
 
-Zugentgleisung, 10.07.2014, KÃ¶ln-Kalk Nord  
+Zugentgleisung, 10.07.2014, Köln-Kalk Nord  
 # Hergang des Unfalls  
-Am 10.07.2014 gegen 01:02 Uhr entgleiste bei Zug EK 52102 (EVU DB Schenker Rail Deutschland AG) von Gremberg kommend nach Einfahrt in den Bf KÃ¶ln-Kalk Nord auf Weiche 631 der zweite Wagen mit beiden Achsen des hinteren Drehgestells und der dritte Wagen mit der ersten Achse des ersten Drehgestells.  
-Der Fdl (Fahrdienstleiter) hatte festgestellt, dass die Weiche 631 gestÃ¶rt war, aber keine SicherungsmaÃŸnahmen getroffen. Er lieÃŸ den Zug mit Ersatzsignal Zs 1 in den Bf einfahren. Die Weichenzunge der gestÃ¶rten Weiche hatte keine Endlage, wodurch der Zug in den gebogenen Zweig einfuhr. Der Tf (TriebfahrzeugfÃ¼hrer) bemerkte die falsche Weichenstellung und leitete eine Betriebsbremsung ein. Die Weichenzunge kam unter dem Zug in Bewegung, wodurch der zweite und dritte Wagen entgleisten.  
+Am 10.07.2014 gegen 01:02 Uhr entgleiste bei Zug EK 52102 (EVU DB Schenker Rail Deutschland AG) von Gremberg kommend nach Einfahrt in den Bf Köln-Kalk Nord auf Weiche 631 der zweite Wagen mit beiden Achsen des hinteren Drehgestells und der dritte Wagen mit der ersten Achse des ersten Drehgestells.  
+Der Fdl (Fahrdienstleiter) hatte festgestellt, dass die Weiche 631 gestört war, aber keine Sicherungsmaßnahmen getroffen. Er ließ den Zug mit Ersatzsignal Zs 1 in den Bf einfahren. Die Weichenzunge der gestörten Weiche hatte keine Endlage, wodurch der Zug in den gebogenen Zweig einfuhr. Der Tf (Triebfahrzeugführer) bemerkte die falsche Weichenstellung und leitete eine Betriebsbremsung ein. Die Weichenzunge kam unter dem Zug in Bewegung, wodurch der zweite und dritte Wagen entgleisten.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
-Todesopfer oder Verletzte sind nicht zu beklagen. Der zweite Wagen entgleiste mit 2 Achsen am hinteren Drehgestell, und der dritte Wagen mit einer Achse am ersten Drehgestell. Die entstandenen SachschÃ¤den setzen sich wie folgt zusammen:  
-- Oberbau: ca. 8.000 â‚¬  
-- Leit- und Sicherungstechnik: ca. 600 â‚¬  
-- Fahrzeuge: ca. 12.000 â‚¬  
-- Betriebserschwernisse: ca. 4.000 â‚¬  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Todesopfer oder Verletzte sind nicht zu beklagen. Der zweite Wagen entgleiste mit 2 Achsen am hinteren Drehgestell, und der dritte Wagen mit einer Achse am ersten Drehgestell. Die entstandenen Sachschäden setzen sich wie folgt zusammen:  
+- Oberbau: ca. 8.000 €  
+- Leit- und Sicherungstechnik: ca. 600 €  
+- Fahrzeuge: ca. 12.000 €  
+- Betriebserschwernisse: ca. 4.000 €  
 Es entstand ein Sachschaden von insgesamt ca. 24.600 Euro.  
 
 # Ursachen des Unfalls  
-Zum Zeitpunkt des Ereignisses war Weiche 631 im Bf KÃ¶ln-Kalk Nord gestÃ¶rt. Der Fdl lieÃŸ den Zug kurz nach Feststellung der WeichenstÃ¶rung Ã¼ber die gestÃ¶rte Weiche einfahren, obwohl keine SicherungsmaÃŸnahmen getroffen wurden. Die Weichenzunge der gestÃ¶rten Weiche hatte offensichtlich keine Endlage, wodurch der Zug in den falschen Zweig einfuhr.  
-Die Ursache fÃ¼r die Entgleisung ist das Fehlverhalten des Fdl, der den Zug ohne Kenntnis von Art und Umfang der WeichenstÃ¶rung Ã¼ber die gestÃ¶rte Weiche 631 fahren lieÃŸ. Zudem war die Weiche aufgrund unzureichender Schmierung nicht vollstÃ¤ndig umlaufbar.  
+Zum Zeitpunkt des Ereignisses war Weiche 631 im Bf Köln-Kalk Nord gestört. Der Fdl ließ den Zug kurz nach Feststellung der Weichenstörung über die gestörte Weiche einfahren, obwohl keine Sicherungsmaßnahmen getroffen wurden. Die Weichenzunge der gestörten Weiche hatte offensichtlich keine Endlage, wodurch der Zug in den falschen Zweig einfuhr.  
+Die Ursache für die Entgleisung ist das Fehlverhalten des Fdl, der den Zug ohne Kenntnis von Art und Umfang der Weichenstörung über die gestörte Weiche 631 fahren ließ. Zudem war die Weiche aufgrund unzureichender Schmierung nicht vollständig umlaufbar.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
-MaÃŸnahmen zur Ã¶rtlichen Sicherung der gestÃ¶rten Weiche 631 wurden nicht getroffen. Es wÃ¤re notwendig, die Weiche mit einem Handverschluss mit Sperrvorrichtung zu sichern, falls die StÃ¶rung nicht kurzfristig beseitigt werden konnte. Die Stell- und Ãœberwachungssicherung am Weichenhebel sollten herausgenommen werden, und der Hebel mÃ¼sste durch eine Hilfssperre in Verbindung mit einem Weckerstromunterbrecher fixiert werden.  
-Der betroffene Fdl erhielt fallspezifischen Nachschulung und auÃŸerplanmÃ¤ÃŸigen Fortbildungsunterricht. Zudem wird er vorÃ¼bergehend ausschlieÃŸlich als WeichenwÃ¤rter eingesetzt.
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+Maßnahmen zur örtlichen Sicherung der gestörten Weiche 631 wurden nicht getroffen. Es wäre notwendig, die Weiche mit einem Handverschluss mit Sperrvorrichtung zu sichern, falls die Störung nicht kurzfristig beseitigt werden konnte. Die Stell- und Überwachungssicherung am Weichenhebel sollten herausgenommen werden, und der Hebel müsste durch eine Hilfssperre in Verbindung mit einem Weckerstromunterbrecher fixiert werden.  
+Der betroffene Fdl erhielt fallspezifischen Nachschulung und außerplanmäßigen Fortbildungsunterricht. Zudem wird er vorübergehend ausschließlich als Weichenwärter eingesetzt.
 
 ---
 file: 132_Remscheid_Hbf.txt
 
-BahnÃ¼bergangsunfall, 25.01.2016, Remscheid Hbf  
-VerÃ¶ffentlicht durch: Bundesstelle fÃ¼r Eisenbahnunfalluntersuchung  
+Bahnübergangsunfall, 25.01.2016, Remscheid Hbf  
+Veröffentlicht durch: Bundesstelle für Eisenbahnunfalluntersuchung  
 
 # Hergang des Unfalls  
-Am 25.01.2016 gegen 18:05 Uhr prallte die Zugfahrt DPN 90127 im Bahnhof Remscheid Hbf auf dem BahnÃ¼bergang (BÃœ) â€žBlumentalstraÃŸeâ€œ, im km 17,056, mit einem Pkw zusammen.  
-Der TriebfahrzeugfÃ¼hrer (Tf) des Zuges DPN 90127 fuhr unzulÃ¤ssig, ohne die Zustimmung des Fahrdienstleiters (Fdl), am haltzeigenden Ausfahrsignal (Asig) N2 vorbei. Auf dem BÃœ in km 17,056 kam es zum Zusammenprall mit einem PKW, da die FahrstraÃŸe des Zuges nicht eingestellt und die zugehÃ¶rige BahnÃ¼bergangssicherungsanlage (BÃœSA) nicht eingeschaltet war.  
-Der Tf lÃ¶ste eine Schnellbremsung ein, als er den Pkw auf dem BÃœ erkannte, doch der Zusammenprall war nicht mehr zu vermeiden.  
+Am 25.01.2016 gegen 18:05 Uhr prallte die Zugfahrt DPN 90127 im Bahnhof Remscheid Hbf auf dem Bahnübergang (BÜ) "Blumentalstraße", im km 17,056, mit einem Pkw zusammen.  
+Der Triebfahrzeugführer (Tf) des Zuges DPN 90127 fuhr unzulässig, ohne die Zustimmung des Fahrdienstleiters (Fdl), am haltzeigenden Ausfahrsignal (Asig) N2 vorbei. Auf dem BÜ in km 17,056 kam es zum Zusammenprall mit einem PKW, da die Fahrstraße des Zuges nicht eingestellt und die zugehörige Bahnübergangssicherungsanlage (BÜSA) nicht eingeschaltet war.  
+Der Tf löste eine Schnellbremsung ein, als er den Pkw auf dem BÜ erkannte, doch der Zusammenprall war nicht mehr zu vermeiden.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
 Todesopfer sind keine zu beklagen. Der Fahrer des Pkw wurde leicht verletzt.  
-Die SachschÃ¤den setzen sich wie folgt zusammen:  
-- Triebfahrzeug: ca. 20.000 â‚¬  
+Die Sachschäden setzen sich wie folgt zusammen:  
+- Triebfahrzeug: ca. 20.000 €  
 - Gleisanlage: keine Angaben  
 - Betriebserschwernisse: keine Angaben  
 - Pkw: keine Angaben  
 
 # Ursachen des Unfalls  
-Der Tf des DPN 90127 fuhr unzulÃ¤ssig am haltzeigenden Asig N2 vorbei, ohne Zustimmung des Fdl. Die technische Sicherung fÃ¼r den BÃœ in km 17,056 war nicht hergestellt, und der Fdl konnte die Schranken nicht rechtzeitig schlieÃŸen.  
+Der Tf des DPN 90127 fuhr unzulässig am haltzeigenden Asig N2 vorbei, ohne Zustimmung des Fdl. Die technische Sicherung für den BÜ in km 17,056 war nicht hergestellt, und der Fdl konnte die Schranken nicht rechtzeitig schließen.  
 Der Tf setzte die Fahrt fort, obwohl er die Zwangsbremsung durch das Zugsicherungssystem (PZB) nicht korrekt interpretierte und den Fdl nicht kontaktierte.  
 Die Schutzfunktion der Zugsicherung wurde durch das Nichtbeachten weiterer betrieblicher Regeln wirkungslos.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
-Es wird empfohlen, die betrieblichen Regeln nach einer PZB-Zwangsbremsung strenger umzusetzen, insbesondere den Kontakt zum Fdl zu gewÃ¤hrleisten.  
-Die Ausbildung der TriebfahrzeugfÃ¼hrer sollte sicherstellen, dass sie die Regeln zur Sicherung von BahnÃ¼bergÃ¤ngen korrekt anwenden.  
-Technische LÃ¶sungen zur Verbesserung der Sicherung von BahnÃ¼bergÃ¤ngen wurden nicht umgesetzt, obwohl Sicherheitsempfehlungen der BEU dies vorgeschlagen hatten.  
-Die SicherheitsbehÃ¶rde betont die Notwendigkeit von verstÃ¤rkten Kontrollen zur Verhinderung solcher Fehlverhalten.
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+Es wird empfohlen, die betrieblichen Regeln nach einer PZB-Zwangsbremsung strenger umzusetzen, insbesondere den Kontakt zum Fdl zu gewährleisten.  
+Die Ausbildung der Triebfahrzeugführer sollte sicherstellen, dass sie die Regeln zur Sicherung von Bahnübergängen korrekt anwenden.  
+Technische Lösungen zur Verbesserung der Sicherung von Bahnübergängen wurden nicht umgesetzt, obwohl Sicherheitsempfehlungen der BEU dies vorgeschlagen hatten.  
+Die Sicherheitsbehörde betont die Notwendigkeit von verstärkten Kontrollen zur Verhinderung solcher Fehlverhalten.
 
 ---
 file: 081_Wilhelmshaven.txt
@@ -2072,128 +2072,128 @@ file: 081_Wilhelmshaven.txt
 Fahrzeugbrand, 25.04.2015, Bf Wilhelmshaven
 
 # Hergang des Unfalls
-Am 25.04.2015 befuhr Zug 82305 die VzG-Strecke 1522 von OsnabrÃ¼ck nach Wilhelmshaven. Der Zug bestand aus zwei Einheiten der BR 648 mit jeweils einem A- und einem B-Wagen. Auf der Fahrt wurde der TriebfahrzeugfÃ¼hrer (Tf) durch den Zugbegleiter Ã¼ber einen Ã¼bel riechenden Geruch in der gefÃ¼hrten Zugeinheit informiert. Nach einer ÃœberprÃ¼fung im Bf Oldenburg wurde die gefÃ¼hrte Zugeinheit gerÃ¤umt, da der Tf aufgrund der Geruchsbildung vermutete, dass das HeizgerÃ¤t defekt sei. Beim Halt in Bf Rastede wurde eine StÃ¶rung des HeizgerÃ¤tes am hinteren Motor des fÃ¼hrenden Fahrzeugs festgestellt und abgeschaltet. Erst kurz vor der Einfahrt in Bf Wilhelmshaven erkannte der Tf den Brand am Powerpack B des B-Wagens. Nach der Ankunft wurde der Zug gerÃ¤umt und zum BahnÃ¼bergang LuisenstraÃŸe rangiert, wo der Brand durch die Feuerwehr gelÃ¶scht wurde.
+Am 25.04.2015 befuhr Zug 82305 die VzG-Strecke 1522 von Osnabrück nach Wilhelmshaven. Der Zug bestand aus zwei Einheiten der BR 648 mit jeweils einem A- und einem B-Wagen. Auf der Fahrt wurde der Triebfahrzeugführer (Tf) durch den Zugbegleiter über einen übel riechenden Geruch in der geführten Zugeinheit informiert. Nach einer Überprüfung im Bf Oldenburg wurde die geführte Zugeinheit geräumt, da der Tf aufgrund der Geruchsbildung vermutete, dass das Heizgerät defekt sei. Beim Halt in Bf Rastede wurde eine Störung des Heizgerätes am hinteren Motor des führenden Fahrzeugs festgestellt und abgeschaltet. Erst kurz vor der Einfahrt in Bf Wilhelmshaven erkannte der Tf den Brand am Powerpack B des B-Wagens. Nach der Ankunft wurde der Zug geräumt und zum Bahnübergang Luisenstraße rangiert, wo der Brand durch die Feuerwehr gelöscht wurde.
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte
-Bei dem Ereignis kam es zu keinen PersonenschÃ¤den. Der Sachschaden durch den Fahrzeugbrand wurde auf ca. 500.000â‚¬ beziffert. Angaben zu kostenrelevanten Betriebserschwernissen oder UmweltschÃ¤den liegen nicht vor.
+# Höhe des Schadens, Anzahl Tote und Verletzte
+Bei dem Ereignis kam es zu keinen Personenschäden. Der Sachschaden durch den Fahrzeugbrand wurde auf ca. 500.000€ beziffert. Angaben zu kostenrelevanten Betriebserschwernissen oder Umweltschäden liegen nicht vor.
 
 # Ursachen des Unfalls
-Bei der Rekonstruktion stellte sich heraus, dass sich der Brandherd am Powerpack B des B-Wagens befand. Ursache war eine undichte Stelle der Diesel-Leckleitung, die zu einer Bildung eines Aerosols mit hohem thermischem Energieanteil fÃ¼hrte. Das Aerosol driftete in Richtung Abgasrohr/Turbolader, wo es zur ZÃ¼ndung kam und einen andauernden Abbrand des austretenden Kraftstoffs nach sich zog. Die Untersuchungen zeigten, dass die Leckage der Diesel-Leckleitung in Kombination mit der RÃ¼ckfÃ¼hrungsleitung zur massiven Kraftstoffverlagerung und Brandentstehung fÃ¼hrte.
+Bei der Rekonstruktion stellte sich heraus, dass sich der Brandherd am Powerpack B des B-Wagens befand. Ursache war eine undichte Stelle der Diesel-Leckleitung, die zu einer Bildung eines Aerosols mit hohem thermischem Energieanteil führte. Das Aerosol driftete in Richtung Abgasrohr/Turbolader, wo es zur Zündung kam und einen andauernden Abbrand des austretenden Kraftstoffs nach sich zog. Die Untersuchungen zeigten, dass die Leckage der Diesel-Leckleitung in Kombination mit der Rückführungsleitung zur massiven Kraftstoffverlagerung und Brandentstehung führte.
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle
-GemÃ¤ÃŸ den Sicherheitsempfehlungen:
-1. **Einsatz von nicht entflammbarem und verschleiÃŸfestem Material** fÃ¼r die Diesel-Leckleitung mit einer maximalen Verwendungsdauer.  
-2. **Brandverhindernde MaÃŸnahmen** am Turbolader und Abgasrohr durchfÃ¼hren.  
-3. **Konstruktive Anpassung der KraftstoffrÃ¼ckfÃ¼hrung** um zu verhindern, dass groÃŸe Mengen Kraftstoff in die Freie gelangen.  
-4. **NachrÃ¼stung von Branddetektoren mit automatischer Motorabschaltung** bei allen DieseltriebzÃ¼gen der Bauart LINT.
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle
+Gemäß den Sicherheitsempfehlungen:
+1. **Einsatz von nicht entflammbarem und verschleißfestem Material** für die Diesel-Leckleitung mit einer maximalen Verwendungsdauer.  
+2. **Brandverhindernde Maßnahmen** am Turbolader und Abgasrohr durchführen.  
+3. **Konstruktive Anpassung der Kraftstoffrückführung** um zu verhindern, dass große Mengen Kraftstoff in die Freie gelangen.  
+4. **Nachrüstung von Branddetektoren mit automatischer Motorabschaltung** bei allen Dieseltriebzügen der Bauart LINT.
 
 ---
 file: 160_Frankfurt_Main_Süd.txt
 
-Untersuchungsbericht: GefÃ¤hrliches Ereignis im Eisenbahnbetrieb am 10.05.2013 in Frankfurt (Main) SÃ¼d  
+Untersuchungsbericht: Gefährliches Ereignis im Eisenbahnbetrieb am 10.05.2013 in Frankfurt (Main) Süd  
 
 # Hergang des Unfalls  
-Am 10.05.2013 gegen 20:05 Uhr entgleiste der Zug Lr 73543 der DB Regio AG auf dem Weg von Aschaffenburg nach Frankfurt (Main) Hbf im Bahnhof Frankfurt (Main) SÃ¼d im Gleis 510 mit dem dritten und vierten Wagen.  
-Die Einfahrt erfolgte im Gleis 510, wobei der ZugfÃ¼hrer (Tf) die Geschwindigkeit reduzierte und durch BremsvorgÃ¤nge im Gleisbogen vor der Weiche 255 und bei der Weiche 257 den Unfall verursachte.  
-Der Unfall entstand durch dynamische LÃ¤ngsdruckkrÃ¤fte im Zugverbund wÃ¤hrend der BremsvorgÃ¤nge im Bogen, kombiniert mit der Zugbildung und der Gleisgeometrie.  
+Am 10.05.2013 gegen 20:05 Uhr entgleiste der Zug Lr 73543 der DB Regio AG auf dem Weg von Aschaffenburg nach Frankfurt (Main) Hbf im Bahnhof Frankfurt (Main) Süd im Gleis 510 mit dem dritten und vierten Wagen.  
+Die Einfahrt erfolgte im Gleis 510, wobei der Zugführer (Tf) die Geschwindigkeit reduzierte und durch Bremsvorgänge im Gleisbogen vor der Weiche 255 und bei der Weiche 257 den Unfall verursachte.  
+Der Unfall entstand durch dynamische Längsdruckkräfte im Zugverbund während der Bremsvorgänge im Bogen, kombiniert mit der Zugbildung und der Gleisgeometrie.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
-Bei dem Ereignis wurden keine Personen verletzt oder getÃ¶tet.  
-Der geschÃ¤tzte SchadenshÃ¶he betrÃ¤gt 90.000 Euro, wobei ausschlieÃŸlich die Infrastruktur beschÃ¤digt wurde (Tabelle 1).  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Bei dem Ereignis wurden keine Personen verletzt oder getötet.  
+Der geschätzte Schadenshöhe beträgt 90.000 Euro, wobei ausschließlich die Infrastruktur beschädigt wurde (Tabelle 1).  
 
 # Ursachen des Unfalls  
-Die Entgleisung ist auf dynamische LÃ¤ngsdruckkrÃ¤fte im Zugverbund im Zusammenhang mit der Zugbildung und BremsvorgÃ¤ngen wÃ¤hrend der Bahnfahrt in den Gleisbogen nach Gleis 510 im Bahnhof Frankfurt (Main) SÃ¼d zurÃ¼ckzufÃ¼hren.  
-Weitere Faktoren, die den Unfall begÃ¼nstigten, sind die Zugkomposition, die BremsvorgÃ¤nge sowie die Gleisgeometrie.  
+Die Entgleisung ist auf dynamische Längsdruckkräfte im Zugverbund im Zusammenhang mit der Zugbildung und Bremsvorgängen während der Bahnfahrt in den Gleisbogen nach Gleis 510 im Bahnhof Frankfurt (Main) Süd zurückzuführen.  
+Weitere Faktoren, die den Unfall begünstigten, sind die Zugkomposition, die Bremsvorgänge sowie die Gleisgeometrie.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
 Es wurden keine Sicherheitsempfehlungen ausgesprochen.  
-Die beteiligten Fahrzeuge wurden nach dem Unfall Ã¼berprÃ¼ft, es wurden jedoch keine fahrzeugtechnischen MÃ¤ngel festgestellt, die ursÃ¤chlich fÃ¼r die Entgleisung gewesen wÃ¤ren.
+Die beteiligten Fahrzeuge wurden nach dem Unfall überprüft, es wurden jedoch keine fahrzeugtechnischen Mängel festgestellt, die ursächlich für die Entgleisung gewesen wären.
 
 ---
 file: 060_Langenselbold - Hailer-Meerholz.txt
 
 Zugentgleisung, 21.01.2012, Langenselbold - Hailer-Meerholz  
 # Hergang des Unfalls  
-Am 21.01.2012 um 16:15 Uhr entgleist der 6. Wagen und der 7. Wagen mit jeweils 2 RadsÃ¤tzen des GÃ¼terzuges Kt 41969 zwischen den Betriebsstellen Langenselbold und Hailer-Meerholz in km 35,985. Vom 6. Wagen des Zugverbandes fÃ¤llt in km 41,2 ein Container in den Gleisbereich. Der Zug kommt in km 42,0 zum Halten.  
+Am 21.01.2012 um 16:15 Uhr entgleist der 6. Wagen und der 7. Wagen mit jeweils 2 Radsätzen des Güterzuges Kt 41969 zwischen den Betriebsstellen Langenselbold und Hailer-Meerholz in km 35,985. Vom 6. Wagen des Zugverbandes fällt in km 41,2 ein Container in den Gleisbereich. Der Zug kommt in km 42,0 zum Halten.  
 
 Bei der Entgleisungspuren wurde auf eine gesamthafte Untersuchung des gesamten Zuges verzichtet und der Untersuchungsfokus lag auf dem an sechster Stelle laufenden Wagen.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
 Personen kamen bei dem Ereignis nicht zu Schaden.  
-Die SachschÃ¤den setzen sich wie folgt zusammen:  
-- Oberbau, Anlagen der Leit- und Sicherungstechnik: ca. 2.920.000,00 â‚¬  
-- FahrzeugschÃ¤den: ca. 38.000,00 â‚¬  
-- Bergungskosten: ca. 17.096,00 â‚¬  
+Die Sachschäden setzen sich wie folgt zusammen:  
+- Oberbau, Anlagen der Leit- und Sicherungstechnik: ca. 2.920.000,00 €  
+- Fahrzeugschäden: ca. 38.000,00 €  
+- Bergungskosten: ca. 17.096,00 €  
 
 # Ursachen des Unfalls  
-Die Entgleisung des Kt 41969 ist auf einen Radsatzlagerschaden an der vierten Radsatzwelle in Fahrtrichtung des Fahrzeuges 21 81 436 1 075-4 (Laagss) zurÃ¼ckzufÃ¼hren.  
+Die Entgleisung des Kt 41969 ist auf einen Radsatzlagerschaden an der vierten Radsatzwelle in Fahrtrichtung des Fahrzeuges 21 81 436 1 075-4 (Laagss) zurückzuführen.  
 
-Die Entgleisung des Kt 41969 auf der freien Strecke zwischen Langenselbold und Hailer-Meerholz ist auf ein Versagen eines Radsatzlagers des Wagens 21 81 4361 075-4 infolge eines HeiÃŸlÃ¤ufers zurÃ¼ckzufÃ¼hren.  
+Die Entgleisung des Kt 41969 auf der freien Strecke zwischen Langenselbold und Hailer-Meerholz ist auf ein Versagen eines Radsatzlagers des Wagens 21 81 4361 075-4 infolge eines Heißläufers zurückzuführen.  
 
-Die durch die Rail Cargo Austria AG vorgelegte Auftragsliste zur IS 3 bildet eine lÃ¼ckenlose Darstellung der Instandhaltungs- und Montageschritte ab. Aufgrund der durchgefÃ¼hrten Radsatz- und Radsatzlageruntersuchungen ist davon auszugehen, dass es zur Aufhebung der Vorspannung der Nutmutter gegenÃ¼ber dem Lager gekommen ist und sich die Nutmutter - nachdem das Nutmuttergewinde verschlissen war - lÃ¶ste. Eine eindeutige Ursache des Vorspannungsverlustes konnte nicht ermittelt werden. Als mÃ¶gliche ErklÃ¤rungsursache kÃ¶nnen Montagefehler hinsichtlich der (Nicht)-einhaltung der SpaltmaÃŸe der Innenringe und des Labyrinthringes sowie die Aufbringung eines zu geringen Vorspannmomentes in Betracht gezogen werden.  
+Die durch die Rail Cargo Austria AG vorgelegte Auftragsliste zur IS 3 bildet eine lückenlose Darstellung der Instandhaltungs- und Montageschritte ab. Aufgrund der durchgeführten Radsatz- und Radsatzlageruntersuchungen ist davon auszugehen, dass es zur Aufhebung der Vorspannung der Nutmutter gegenüber dem Lager gekommen ist und sich die Nutmutter - nachdem das Nutmuttergewinde verschlissen war - löste. Eine eindeutige Ursache des Vorspannungsverlustes konnte nicht ermittelt werden. Als mögliche Erklärungsursache können Montagefehler hinsichtlich der (Nicht)-einhaltung der Spaltmaße der Innenringe und des Labyrinthringes sowie die Aufbringung eines zu geringen Vorspannmomentes in Betracht gezogen werden.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
-Die Untersuchungen der Infrastruktur fÃ¼hrten zu keinen entgleisungsursÃ¤chlichen Feststellungen.  
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+Die Untersuchungen der Infrastruktur führten zu keinen entgleisungsursächlichen Feststellungen.  
 
-Die Untersuchungen der Leit- und Sicherungstechnik fÃ¼hrten zu keinen entgleisungsursÃ¤chlichen Feststellungen.  
+Die Untersuchungen der Leit- und Sicherungstechnik führten zu keinen entgleisungsursächlichen Feststellungen.  
 
-Die Untersuchungen der betrieblichen Handlungen fÃ¼hrten zu keinen entgleisungsursÃ¤chlichen Feststellungen.  
+Die Untersuchungen der betrieblichen Handlungen führten zu keinen entgleisungsursächlichen Feststellungen.  
 
-Die Untersuchungen der betrieblichen Handlungen fÃ¼hrten zu keinen entgleisungsursÃ¤chlichen Feststellungen.  
+Die Untersuchungen der betrieblichen Handlungen führten zu keinen entgleisungsursächlichen Feststellungen.  
 
-Die Untersuchungen der Fahrzeuge fÃ¼hrten zu keinen entgleisungsursÃ¤chlichen Feststellungen.  
+Die Untersuchungen der Fahrzeuge führten zu keinen entgleisungsursächlichen Feststellungen.  
 
-Die Untersuchungen der Fahrzeuge fÃ¼hrten zu keinen entgleisungsursÃ¤chlichen Feststellungen.  
+Die Untersuchungen der Fahrzeuge führten zu keinen entgleisungsursächlichen Feststellungen.  
 
-Es wird empfohlen, die Einhaltung der SpaltmaÃŸe der Innenringe und des Labyrinthringes sowie die Aufbringung eines ausreichenden Vorspannmomentes bei der Montage zu Ã¼berprÃ¼fen und ggf. anzupassen.
+Es wird empfohlen, die Einhaltung der Spaltmaße der Innenringe und des Labyrinthringes sowie die Aufbringung eines ausreichenden Vorspannmomentes bei der Montage zu überprüfen und ggf. anzupassen.
 
 ---
 file: 120_Köln_Hbf.txt
 
-Zugentgleisung, 09.07.2008, KÃ¶ln Hbf
+Zugentgleisung, 09.07.2008, Köln Hbf
 
 # Hergang des Unfalls  
-Am 09.07.2008 verkehrte ICE 518 des EVU DB Fernverkehr AG von MÃ¼nchen Hbf nach Dortmund Hbf. Der Zug befuhr dabei u. a. die Strecke (VzG 2639) KÃ¶ln Hbf â€“ KÃ¶ln-Deutz und die Neubaustrecke (NBS) (VzG 2690) KÃ¶ln SteinstraÃŸe â€“ Frankfurt/Main Stadion des Eisenbahninfrastrukturunternehmens (EIU) DB Netz AG. Um 16:05 Uhr fuhr der Zug Ã¼ber die HohenzollernbrÃ¼cke in KÃ¶ln Hbf nach Gleis 5 ein. Nach planmÃ¤ÃŸigem Fahrtrichtungswechsel fuhr ICE 518 um 16:11 Uhr erneut in Richtung HohenzollernbrÃ¼cke zur Weiterfahrt nach Dortmund Hbf. WÃ¤hrend der Ausfahrt um 16:12 Uhr aus KÃ¶ln Hbf entgleiste der Wagen 403 710-7 (Stromrichterwagen 2. Klasse) bei einer Geschwindigkeit von ca. 19 km/h und einer zurÃ¼ckgelegten Fahrstrecke von 206 Metern mit dem in Fahrtrichtung nachlaufenden Drehgestell des dritten Wagens. Unbemerkt legte der Wagen im entgleisten Zustand noch eine Strecke von weiteren 36 Metern zurÃ¼ck bis beide RadsÃ¤tze des Drehgestells im HerzstÃ¼ck der doppelten Kreuzungsweiche 11 wieder eingleisten. Im Anschluss kletterte dann das linke Rad des Radsatzes 2, in Fahrtrichtung die vorlaufende Achse im nachlaufenden Drehgestell, die wegen eines Achsbruches nicht mehr spurgefÃ¼hrt war, Ã¼ber den Schienenkopf zur Gleisinnenseite. Der ICE 518 wurde um 16:12 Uhr bei einer Geschwindigkeit von ca. 19 km/h durch Bedienung von zwei Fahrgastnotbremsen zum Halten gebracht. ZunÃ¤chst wurde die Fahrgastnotbremse im entgleisten Wagen, anschlieÃŸend im Nachbarwagen 403 810-5 bedient. Infolge der Entgleisung ragte der Wagen 403 710-7 aus der Umgrenzungslinie des Lichtraumprofils heraus und erfasste zwei zuvor profilfrei abgelegte GleisarbeitsgerÃ¤te.
+Am 09.07.2008 verkehrte ICE 518 des EVU DB Fernverkehr AG von München Hbf nach Dortmund Hbf. Der Zug befuhr dabei u. a. die Strecke (VzG 2639) Köln Hbf – Köln-Deutz und die Neubaustrecke (NBS) (VzG 2690) Köln Steinstraße – Frankfurt/Main Stadion des Eisenbahninfrastrukturunternehmens (EIU) DB Netz AG. Um 16:05 Uhr fuhr der Zug über die Hohenzollernbrücke in Köln Hbf nach Gleis 5 ein. Nach planmäßigem Fahrtrichtungswechsel fuhr ICE 518 um 16:11 Uhr erneut in Richtung Hohenzollernbrücke zur Weiterfahrt nach Dortmund Hbf. Während der Ausfahrt um 16:12 Uhr aus Köln Hbf entgleiste der Wagen 403 710-7 (Stromrichterwagen 2. Klasse) bei einer Geschwindigkeit von ca. 19 km/h und einer zurückgelegten Fahrstrecke von 206 Metern mit dem in Fahrtrichtung nachlaufenden Drehgestell des dritten Wagens. Unbemerkt legte der Wagen im entgleisten Zustand noch eine Strecke von weiteren 36 Metern zurück bis beide Radsätze des Drehgestells im Herzstück der doppelten Kreuzungsweiche 11 wieder eingleisten. Im Anschluss kletterte dann das linke Rad des Radsatzes 2, in Fahrtrichtung die vorlaufende Achse im nachlaufenden Drehgestell, die wegen eines Achsbruches nicht mehr spurgeführt war, über den Schienenkopf zur Gleisinnenseite. Der ICE 518 wurde um 16:12 Uhr bei einer Geschwindigkeit von ca. 19 km/h durch Bedienung von zwei Fahrgastnotbremsen zum Halten gebracht. Zunächst wurde die Fahrgastnotbremse im entgleisten Wagen, anschließend im Nachbarwagen 403 810-5 bedient. Infolge der Entgleisung ragte der Wagen 403 710-7 aus der Umgrenzungslinie des Lichtraumprofils heraus und erfasste zwei zuvor profilfrei abgelegte Gleisarbeitsgeräte.
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
-Es sind weder Todesopfer noch verletzte Personen zu beklagen. Die SachschÃ¤den setzen sich wie folgt zusammen:  
-- **Schienenfahrzeuge**: ca. 310.000 â‚¬  
-- **Bauliche Anlagen**: ca. 82.000 â‚¬  
-- **Leit- und Sicherungstechnik**: ca. 6.000 â‚¬  
-- **Sonstige SachschÃ¤den**: ca. 5.000 â‚¬  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Es sind weder Todesopfer noch verletzte Personen zu beklagen. Die Sachschäden setzen sich wie folgt zusammen:  
+- **Schienenfahrzeuge**: ca. 310.000 €  
+- **Bauliche Anlagen**: ca. 82.000 €  
+- **Leit- und Sicherungstechnik**: ca. 6.000 €  
+- **Sonstige Sachschäden**: ca. 5.000 €  
 - **Betriebserschwernisse**: keine Angaben  
 
 # Ursachen des Unfalls  
-Die Ursache fÃ¼r die Entgleisung war eine gebrochene Treibradsatzwelle am Wagen 403 710-7. Die Radsatzwelle aus dem Werkstoff 34CrNiMo6 brach durch einen Schwingbruch, der an einer Stelle an oder kurz unterhalb der OberflÃ¤che eines taillierten Bereichs der Welle unmittelbar neben einem der beiden auf die Welle gepressten RÃ¤der begann. Die Metallographische Untersuchung der Bundesanstalt fÃ¼r Materialforschung und -prÃ¼fung (BAM) zeigte einen unzulÃ¤ssig groÃŸen, nichtmetallischen Einschluss im Bereich der Rissstartstelle auf. Dieser Einschluss war bei der wiederkehrenden UltraschallprÃ¼fung der DB Fernverkehr AG nicht erkannt worden. Zudem waren die Inspektionsintervalle fÃ¼r die RissfreiheitsprÃ¼fung der Radsatzwellen zu groÃŸ angesetzt, da die Rissfortschrittsgeschwindigkeit nicht ausreichend berÃ¼cksichtigt worden war.
+Die Ursache für die Entgleisung war eine gebrochene Treibradsatzwelle am Wagen 403 710-7. Die Radsatzwelle aus dem Werkstoff 34CrNiMo6 brach durch einen Schwingbruch, der an einer Stelle an oder kurz unterhalb der Oberfläche eines taillierten Bereichs der Welle unmittelbar neben einem der beiden auf die Welle gepressten Räder begann. Die Metallographische Untersuchung der Bundesanstalt für Materialforschung und -prüfung (BAM) zeigte einen unzulässig großen, nichtmetallischen Einschluss im Bereich der Rissstartstelle auf. Dieser Einschluss war bei der wiederkehrenden Ultraschallprüfung der DB Fernverkehr AG nicht erkannt worden. Zudem waren die Inspektionsintervalle für die Rissfreiheitsprüfung der Radsatzwellen zu groß angesetzt, da die Rissfortschrittsgeschwindigkeit nicht ausreichend berücksichtigt worden war.
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
-- Die SicherheitsbehÃ¶rde ordnete an, Fahrzeuge der Baureihe 403/406 mit Treibradsatzwellen aus 34CrNiMo6 nach einer Laufleistung von mehr als 60.000 km seit der letzten UltraschallprÃ¼fung auÃŸer Betrieb zu nehmen. Die Ultraschalluntersuchungsschritte wurden von 300.000 km auf 60.000 km und spÃ¤ter weiter auf 30.000 km verkÃ¼rzt.  
-- Alle Radsatzwellen sollen regelmÃ¤ÃŸig durch ZerstÃ¶rungsfreie PrÃ¼fungen (ZfP) auf Rissfreiheit Ã¼berprÃ¼ft werden.  
-- Die Treibradsatzwellen aus 34CrNiMo6 der betroffenen TriebzÃ¼ge wurden durch Radsatzwellen aus A4T ersetzt.  
-- Die Eingangsdaten der Werkstoffe bei der Auslegung der Welle hinsichtlich des Dauerfestigkeitsnachweises sind zu Ã¼berprÃ¼fen.  
-- Der EVU teilte mit, dass der Tausch der Treibradsatzwellen der BR 403 bis MÃ¤rz 2019 abgeschlossen war.
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+- Die Sicherheitsbehörde ordnete an, Fahrzeuge der Baureihe 403/406 mit Treibradsatzwellen aus 34CrNiMo6 nach einer Laufleistung von mehr als 60.000 km seit der letzten Ultraschallprüfung außer Betrieb zu nehmen. Die Ultraschalluntersuchungsschritte wurden von 300.000 km auf 60.000 km und später weiter auf 30.000 km verkürzt.  
+- Alle Radsatzwellen sollen regelmäßig durch Zerstörungsfreie Prüfungen (ZfP) auf Rissfreiheit überprüft werden.  
+- Die Treibradsatzwellen aus 34CrNiMo6 der betroffenen Triebzüge wurden durch Radsatzwellen aus A4T ersetzt.  
+- Die Eingangsdaten der Werkstoffe bei der Auslegung der Welle hinsichtlich des Dauerfestigkeitsnachweises sind zu überprüfen.  
+- Der EVU teilte mit, dass der Tausch der Treibradsatzwellen der BR 403 bis März 2019 abgeschlossen war.
 
 ---
 file: 106_Neufahrn_Niederbay_-_Eggmühl.txt
 
-Zugkollision, 20.03.2016, Neufahrn (Ndb.) - EggmÃ¼hl  
+Zugkollision, 20.03.2016, Neufahrn (Ndb.) - Eggmühl  
 
 # Hergang des Unfalls  
-Am 20.03.2016 gegen 08:07 Uhr kollidiert der in Fahrtrichtung Neufahrn (MNFR) â€“ EggmÃ¼hl (MEGM) auf dem Streckengleis MNFR-MEGM fahrende Personenzug DPN 84102 der LÃ¤nderbahn GmbH in km 100,7 mit dem fÃ¼hrenden Triebfahrzeug den rechten Flankenpflug einer im Nachbargleis arbeitenden Schotterplaniermaschine.  
-Zum Aufnehmen von Ã¼berschÃ¼ssigem Schotter auÃŸerhalb des festgelegten Arbeitsbereichs und zum Ausweichen vor einem Hindernis wurde der rechte Flankenpflug der Schotterplaniermaschine nach Deaktivierung der Schwenkbegrenzung kurzzeitig angehoben und seitlich weiter ausgeschwenkt. Der Bediener des Flankenpflugs Ã¼bersah dabei die Warnung durch die blinkende Warnanlage vor dem herannahenden DPN 84102. Entgegen der betrieblichen Vorgabe lÃ¤sst der Bediener des Flankenpfluges keine Gleissperrung beantragen, sondern schwenkt den Pflug eigenmÃ¤chtig in das benachbarte Lichtraumprofil. Der in das Lichtraumprofil des DPN 84102 ragende Flankenpflug kollidierte mit dem auf der Ã¤uÃŸeren Spitze des Flankenpflugs obenauf montierten Warngeber mit der linken Trittstufe der fÃ¼hrenden Lokomotive 9180 6183 002-5.  
-Die BerÃ¼hrung wurde zunÃ¤chst nur vom Tf des DPN 84102 wahrgenommen und umgehend dem zustÃ¤ndigen Fahrdienstleiter (Ã¶zF Neufahrn) Ã¼ber Zugfunk gemeldet.  
+Am 20.03.2016 gegen 08:07 Uhr kollidiert der in Fahrtrichtung Neufahrn (MNFR) – Eggmühl (MEGM) auf dem Streckengleis MNFR-MEGM fahrende Personenzug DPN 84102 der Länderbahn GmbH in km 100,7 mit dem führenden Triebfahrzeug den rechten Flankenpflug einer im Nachbargleis arbeitenden Schotterplaniermaschine.  
+Zum Aufnehmen von überschüssigem Schotter außerhalb des festgelegten Arbeitsbereichs und zum Ausweichen vor einem Hindernis wurde der rechte Flankenpflug der Schotterplaniermaschine nach Deaktivierung der Schwenkbegrenzung kurzzeitig angehoben und seitlich weiter ausgeschwenkt. Der Bediener des Flankenpflugs übersah dabei die Warnung durch die blinkende Warnanlage vor dem herannahenden DPN 84102. Entgegen der betrieblichen Vorgabe lässt der Bediener des Flankenpfluges keine Gleissperrung beantragen, sondern schwenkt den Pflug eigenmächtig in das benachbarte Lichtraumprofil. Der in das Lichtraumprofil des DPN 84102 ragende Flankenpflug kollidierte mit dem auf der äußeren Spitze des Flankenpflugs obenauf montierten Warngeber mit der linken Trittstufe der führenden Lokomotive 9180 6183 002-5.  
+Die Berührung wurde zunächst nur vom Tf des DPN 84102 wahrgenommen und umgehend dem zuständigen Fahrdienstleiter (özF Neufahrn) über Zugfunk gemeldet.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
-Es entstehen keine PersonenschÃ¤den.  
-Die SachschÃ¤den an der fÃ¼hrenden Lok 9180 6183 002-5 sind geringfÃ¼gig und werden auf ca. 2.500 â‚¬ beziffert. An der beteiligten Schotterplaniermaschine 9980 9125 006-3 ist aufgrund der Gebrauchsspuren auÃŸer dem abgerissenen Warngeber kein zugehÃ¶riger Schaden identifizierbar. Die Instandsetzung des Warngebers wird auf ca. 1.000 â‚¬ geschÃ¤tzt.  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Es entstehen keine Personenschäden.  
+Die Sachschäden an der führenden Lok 9180 6183 002-5 sind geringfügig und werden auf ca. 2.500 € beziffert. An der beteiligten Schotterplaniermaschine 9980 9125 006-3 ist aufgrund der Gebrauchsspuren außer dem abgerissenen Warngeber kein zugehöriger Schaden identifizierbar. Die Instandsetzung des Warngebers wird auf ca. 1.000 € geschätzt.  
 
 # Ursachen des Unfalls  
-Der Bediener des rechten Flankenpflugs hat sich bei seinem Handeln ganz auf den unmittelbaren Arbeitsprozess konzentriert. Dabei Ã¼bersah er die eigentlich von seiner Position aus wahrnehmbare Warnung durch die blinkende Warnanlage vor der fÃ¼r ihn von hinten kommenden Zugfahrt. Ohne zuvor gemÃ¤ÃŸ Betra eine Sperrung des Nachbargleises vornehmen zu lassen, hob er die funktionierende Ausschwenkbegrenzung fÃ¼r den Flankenpflug auf und schwenkte ihn aus dem zulÃ¤ssigen Arbeitsraum heraus in das Lichtraumprofil des Nachbargleises.  
-Der Bediener des rechten Flankenpflugs hat zielorientiert auf ein gutes Arbeitsergebnis und einen zÃ¼gigen Arbeitsfortschritt hin agiert. Den Sicherheitsaspekt, der sich durch die Aufhebung der Ausschwenkbegrenzung ergab, hat er dabei unzureichend berÃ¼cksichtigt, da er die Warnung vor der herannahenden Zugfahrt Ã¼bersehen hatte.  
-Als Ursache fÃ¼r die Kollision ist daher ein individueller Arbeitsfehler durch fehlerhafte AbwÃ¤gung anzusehen.  
+Der Bediener des rechten Flankenpflugs hat sich bei seinem Handeln ganz auf den unmittelbaren Arbeitsprozess konzentriert. Dabei übersah er die eigentlich von seiner Position aus wahrnehmbare Warnung durch die blinkende Warnanlage vor der für ihn von hinten kommenden Zugfahrt. Ohne zuvor gemäß Betra eine Sperrung des Nachbargleises vornehmen zu lassen, hob er die funktionierende Ausschwenkbegrenzung für den Flankenpflug auf und schwenkte ihn aus dem zulässigen Arbeitsraum heraus in das Lichtraumprofil des Nachbargleises.  
+Der Bediener des rechten Flankenpflugs hat zielorientiert auf ein gutes Arbeitsergebnis und einen zügigen Arbeitsfortschritt hin agiert. Den Sicherheitsaspekt, der sich durch die Aufhebung der Ausschwenkbegrenzung ergab, hat er dabei unzureichend berücksichtigt, da er die Warnung vor der herannahenden Zugfahrt übersehen hatte.  
+Als Ursache für die Kollision ist daher ein individueller Arbeitsfehler durch fehlerhafte Abwägung anzusehen.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
-Seitens der betroffenen Baufirma wurde der Bediener (unter vorÃ¼bergehendem Einzug seines EisenbahnfahrzeugfÃ¼hrerscheins) beim Fahrzeughersteller nachgeschult und erneut unterwiesen.
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+Seitens der betroffenen Baufirma wurde der Bediener (unter vorübergehendem Einzug seines Eisenbahnfahrzeugführerscheins) beim Fahrzeughersteller nachgeschult und erneut unterwiesen.
 
 ---
 file: 173_Ruhland.txt
@@ -2201,28 +2201,28 @@ file: 173_Ruhland.txt
 Untersuchungsbericht Zugentgleisung, 26.04.2015, Ruhland  
 
 # Hergang des Unfalls  
-Am 26.04.2015 gegen 18:02 Uhr entgleiste die Zugfahrt S 37461 auf der Fahrt von Hoyerswerda nach Geithain wÃ¤hrend der Ausfahrt aus dem Bahnhof (Bf) Ruhland auf der doppelten Kreuzungsweiche (DKW) 17 mit einem Drehgestell der zweiten Triebzugeinheit.  
+Am 26.04.2015 gegen 18:02 Uhr entgleiste die Zugfahrt S 37461 auf der Fahrt von Hoyerswerda nach Geithain während der Ausfahrt aus dem Bahnhof (Bf) Ruhland auf der doppelten Kreuzungsweiche (DKW) 17 mit einem Drehgestell der zweiten Triebzugeinheit.  
 
-Der Fahrdienstleiter (Fdl) gab an, dass er dem WeichenwÃ¤rter (Ww) auf Stellwerk (Stw) W2 den Auftrag gegeben habe, um 17:57 Uhr den Fahrweg fÃ¼r S 37461 aus Gleis 4 in Richtung Lauchhammer in das Gegengleis einzustellen und zu sichern. Um 17:58 Uhr habe er vom Ww die Fahrwegsicherungsmeldung erhalten. Danach habe er am Ausfahrsignal (Asig) F4 das Ersatzsignal Zs 1 freigegeben.  
+Der Fahrdienstleiter (Fdl) gab an, dass er dem Weichenwärter (Ww) auf Stellwerk (Stw) W2 den Auftrag gegeben habe, um 17:57 Uhr den Fahrweg für S 37461 aus Gleis 4 in Richtung Lauchhammer in das Gegengleis einzustellen und zu sichern. Um 17:58 Uhr habe er vom Ww die Fahrwegsicherungsmeldung erhalten. Danach habe er am Ausfahrsignal (Asig) F4 das Ersatzsignal Zs 1 freigegeben.  
 
-Der Ww gab an, um 17:57 Uhr den Auftrag zur Fahrwegsicherung von Gleis 4 in das Gegengleis nach Lauchhammer fÃ¼r den Zug S 37461 erhalten zu haben. Er habe den Fahrweg gemÃ¤ÃŸ Verzeichnis der HilfsfahrstraÃŸen eingestellt und durch Hilfssperren gesichert. Um 18:01 Uhr habe er das Signal Zs 1 am Asig F4 betÃ¤tigt. Er habe angenommen, der Zug S 37461 wÃ¤re an dem Stw vorbeigefahren und das Gleis in HÃ¶he der Weiche 3 sei frei. Danach habe er die Hilfssperren entfernt und die HilfsfahrstraÃŸe aufgelÃ¶st. AnschlieÃŸend habe er die DKW 17 fÃ¼r eine bevorstehende Fahrt von zwei Baufahrzeugen aus dem Baugleis in den Bf Ruhland umgestellt. Allerdings sei der Zug S 37461 noch gar nicht an ihm vorbeigefahren, sondern RE 18413 in Richtung Ortrand. Diesen Zug habe er mit S 37461 verwechselt. Als er seinen Irrtum bemerkte, habe er die DKW 17 reflexÃ¤r wieder zurÃ¼ckgestellt. Zu diesem Zeitpunkt habe die Zugfahrt S 37461 jedoch die Weiche bereits mit sechs Drehgestellen passiert gehabt und sei dann mit dem zweitletzten Drehgestell der zweiten Triebzugeinheit entgleist (zweispuriger Lauf).  
+Der Ww gab an, um 17:57 Uhr den Auftrag zur Fahrwegsicherung von Gleis 4 in das Gegengleis nach Lauchhammer für den Zug S 37461 erhalten zu haben. Er habe den Fahrweg gemäß Verzeichnis der Hilfsfahrstraßen eingestellt und durch Hilfssperren gesichert. Um 18:01 Uhr habe er das Signal Zs 1 am Asig F4 betätigt. Er habe angenommen, der Zug S 37461 wäre an dem Stw vorbeigefahren und das Gleis in Höhe der Weiche 3 sei frei. Danach habe er die Hilfssperren entfernt und die Hilfsfahrstraße aufgelöst. Anschließend habe er die DKW 17 für eine bevorstehende Fahrt von zwei Baufahrzeugen aus dem Baugleis in den Bf Ruhland umgestellt. Allerdings sei der Zug S 37461 noch gar nicht an ihm vorbeigefahren, sondern RE 18413 in Richtung Ortrand. Diesen Zug habe er mit S 37461 verwechselt. Als er seinen Irrtum bemerkte, habe er die DKW 17 reflexär wieder zurückgestellt. Zu diesem Zeitpunkt habe die Zugfahrt S 37461 jedoch die Weiche bereits mit sechs Drehgestellen passiert gehabt und sei dann mit dem zweitletzten Drehgestell der zweiten Triebzugeinheit entgleist (zweispuriger Lauf).  
 
-Die Sicherung der HilfsfahrstraÃŸe wurde entgegen den Regelungen der Richtlinie (Ril) 408 aufgehoben, bevor der Zug die FahrstraÃŸen-Zugschlussstelle passiert hatte. Durch das anschlieÃŸende unzeitige Umstellen der DKW 17 entgleiste der Triebwagen.  
+Die Sicherung der Hilfsfahrstraße wurde entgegen den Regelungen der Richtlinie (Ril) 408 aufgehoben, bevor der Zug die Fahrstraßen-Zugschlussstelle passiert hatte. Durch das anschließende unzeitige Umstellen der DKW 17 entgleiste der Triebwagen.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
-Es wurden keine Personen verletzt oder getÃ¶tet. SchÃ¤den am Oberbau und den Fahrzeugen entstanden nicht.  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Es wurden keine Personen verletzt oder getötet. Schäden am Oberbau und den Fahrzeugen entstanden nicht.  
 
 # Ursachen des Unfalls  
-Die Sicherung der HilfsfahrstraÃŸe wurde entgegen den Regelungen der Richtlinie (Ril) 408 aufgehoben, bevor der Zug die FahrstraÃŸen-Zugschlussstelle passiert hatte. Durch das anschlieÃŸende unzeitige Umstellen der DKW 17 entgleiste der Triebwagen.  
+Die Sicherung der Hilfsfahrstraße wurde entgegen den Regelungen der Richtlinie (Ril) 408 aufgehoben, bevor der Zug die Fahrstraßen-Zugschlussstelle passiert hatte. Durch das anschließende unzeitige Umstellen der DKW 17 entgleiste der Triebwagen.  
 
-UrsÃ¤chlich fÃ¼r das Ereignis war ein Arbeitsfehler des Ww auf Stw W2. Er lÃ¶ste die HilfsfahrstraÃŸe fÃ¼r die Zugfahrt S 37461 auf, obwohl diese die FahrstraÃŸen-Zugschlussstelle noch nicht passiert hatte. Dadurch konnte der Ww die DKW 17 umstellen. Als der Ww seinen Fehler erkannte, stellte er die DKW 17 wieder in die Ausgangsrichtung, ohne sich durch Hinsehen vom Freisein der DKW 17 zu Ã¼berzeugen. Mittlerweile befand sich der Zug bereits auf der DKW 17.  
+Ursächlich für das Ereignis war ein Arbeitsfehler des Ww auf Stw W2. Er löste die Hilfsfahrstraße für die Zugfahrt S 37461 auf, obwohl diese die Fahrstraßen-Zugschlussstelle noch nicht passiert hatte. Dadurch konnte der Ww die DKW 17 umstellen. Als der Ww seinen Fehler erkannte, stellte er die DKW 17 wieder in die Ausgangsrichtung, ohne sich durch Hinsehen vom Freisein der DKW 17 zu überzeugen. Mittlerweile befand sich der Zug bereits auf der DKW 17.  
 
-Der Ww auf dem Stw W2 erklÃ¤rte in seiner Stellungnahme, die ZÃ¼ge verwechselt zu haben. Er habe einen anderen Zug, der seinen Stellwerksbezirk durchfuhr, fÃ¼r â€žseinenâ€œ Zug gehalten. Offensichtlich habe er sich nicht ausreichend auf die von ihm zugelassene Zugfahrt konzentriert und entgegen den Vorgaben im Regelwerk weder die Zugfahrt S 7461 noch die FahrstraÃŸen-Zugschlussstelle auf HÃ¶he der Spitze von Weiche 3 beobachtet.  
+Der Ww auf dem Stw W2 erklärte in seiner Stellungnahme, die Züge verwechselt zu haben. Er habe einen anderen Zug, der seinen Stellwerksbezirk durchfuhr, für "seinen" Zug gehalten. Offensichtlich habe er sich nicht ausreichend auf die von ihm zugelassene Zugfahrt konzentriert und entgegen den Vorgaben im Regelwerk weder die Zugfahrt S 7461 noch die Fahrstraßen-Zugschlussstelle auf Höhe der Spitze von Weiche 3 beobachtet.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
 Es ergehen keine Sicherheitsempfehlungen.  
 
-Allerdings wurden in der Folge MaÃŸnahmen getroffen: Die Planungen fÃ¼r den Bau einer ESTW â€“ AuÃŸeneinheit im Bf Ruhland, die signaltechnisch in die ESTW-UZ Hoyerswerda integriert werden sollte, waren bereits im vollen Gange. Bestandteile dieses Vorhabens waren eine Bereinigung des Gleisfeldes und die Installation von Gleisfreimeldeanlagen, die das Risiko eines vorzeitigen Umstellens der Weiche technisch reduzieren wÃ¼rden. Die Stw B1, W2 und W3 sollten damit ersetzt werden. Im Jahre 2018 erfolgte die Inbetriebnahme. Eine Fehlhandlung des Bedieners in der hier aufgetretenen Form wurde durch die Realisierung der ESTW Technik faktisch ausgeschlossen.
+Allerdings wurden in der Folge Maßnahmen getroffen: Die Planungen für den Bau einer ESTW – Außeneinheit im Bf Ruhland, die signaltechnisch in die ESTW-UZ Hoyerswerda integriert werden sollte, waren bereits im vollen Gange. Bestandteile dieses Vorhabens waren eine Bereinigung des Gleisfeldes und die Installation von Gleisfreimeldeanlagen, die das Risiko eines vorzeitigen Umstellens der Weiche technisch reduzieren würden. Die Stw B1, W2 und W3 sollten damit ersetzt werden. Im Jahre 2018 erfolgte die Inbetriebnahme. Eine Fehlhandlung des Bedieners in der hier aufgetretenen Form wurde durch die Realisierung der ESTW Technik faktisch ausgeschlossen.
 
 ---
 file: 084_Oldenburg_Oldb_Hbf.txt
@@ -2230,19 +2230,19 @@ file: 084_Oldenburg_Oldb_Hbf.txt
 Zugentgleisung, 19.04.2015, Oldenburg (Oldb) Hbf  
 
 # Hergang des Unfalls  
-Am 19.04.2015 fuhr DPN 83387, ein Zug der Regioâ€“S-Bahnâ€“Linie 3, auf seiner Fahrt von Bad Zwischenahn nach Bremen Hbf gegen 23:07 Uhr im Gleis 7 des Bahnhofs Oldenburg (Oldb) Hbf ab. Wegen einer zuvor eingetretenen StÃ¶rung der Gleisfreimeldeanlage, bei der die im Fahrweg liegenden Weichen 163 und 164a/b als besetzt angezeigt blieben, wurde die Zugfahrt des DPN 83387 am Ausfahrsignal (Asig) N7 mit Bedienung des Ersatzsignals Zs1 durch die zustÃ¤ndige Fdl-in zugelassen.  
-WÃ¤hrend der Zug aus dem Bahnhof ausfuhr, erkannte der TriebfahrzeugfÃ¼hrer (Tf) an seinem Fahrweg das Hp0 (â€žHaltâ€œ) zeigende Lichtsperrsignal Ls8V und hielt seinen Zug deshalb vor diesem Signal an. Daraufhin diktierte die Fdl-in dem Tf mittels GSM-R Zugfunk einen Befehl Nr. 2 zur Vorbeifahrt am Signal Ls8V. Dann setzte der Tf die Fahrt fort. Nur kurze Zeit spÃ¤ter meldete sich die Fdl-in erneut beim Tf und bat ihn â€žnoch mal stehen zu bleibenâ€œ. Der Tf bremste deshalb seinen Zug abermals, wobei die Zugspitze des Triebzuges auf der Weiche 164a/b zum Stillstand kam.  
-In einem weiteren ZugfunkgesprÃ¤ch teilte der Tf der Fdl-in auf deren Nachfrage den Standort seines Zuges mit. Im Anschluss setzte der Tf gegen 23:16 Uhr im Einvernehmen mit der Fdl-in die Fahrt des Zuges erneut fort. Noch wÃ¤hrend des Anfahrens bemerkte der Tf ungewÃ¶hnliche GerÃ¤usche an seinem Zug und hielt diesen mit einer Schnellbremsung an. Danach stellte er die Entgleisung des Zuges fest.  
+Am 19.04.2015 fuhr DPN 83387, ein Zug der Regio–S-Bahn–Linie 3, auf seiner Fahrt von Bad Zwischenahn nach Bremen Hbf gegen 23:07 Uhr im Gleis 7 des Bahnhofs Oldenburg (Oldb) Hbf ab. Wegen einer zuvor eingetretenen Störung der Gleisfreimeldeanlage, bei der die im Fahrweg liegenden Weichen 163 und 164a/b als besetzt angezeigt blieben, wurde die Zugfahrt des DPN 83387 am Ausfahrsignal (Asig) N7 mit Bedienung des Ersatzsignals Zs1 durch die zuständige Fdl-in zugelassen.  
+Während der Zug aus dem Bahnhof ausfuhr, erkannte der Triebfahrzeugführer (Tf) an seinem Fahrweg das Hp0 ("Halt") zeigende Lichtsperrsignal Ls8V und hielt seinen Zug deshalb vor diesem Signal an. Daraufhin diktierte die Fdl-in dem Tf mittels GSM-R Zugfunk einen Befehl Nr. 2 zur Vorbeifahrt am Signal Ls8V. Dann setzte der Tf die Fahrt fort. Nur kurze Zeit später meldete sich die Fdl-in erneut beim Tf und bat ihn "noch mal stehen zu bleiben". Der Tf bremste deshalb seinen Zug abermals, wobei die Zugspitze des Triebzuges auf der Weiche 164a/b zum Stillstand kam.  
+In einem weiteren Zugfunkgespräch teilte der Tf der Fdl-in auf deren Nachfrage den Standort seines Zuges mit. Im Anschluss setzte der Tf gegen 23:16 Uhr im Einvernehmen mit der Fdl-in die Fahrt des Zuges erneut fort. Noch während des Anfahrens bemerkte der Tf ungewöhnliche Geräusche an seinem Zug und hielt diesen mit einer Schnellbremsung an. Danach stellte er die Entgleisung des Zuges fest.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
-Personen wurden bei dem Unfall nicht verletzt. Die ca. 15 Reisenden konnten den Zug kÃ¶rperlich unbeschadet verlassen und wurden Ã¼ber einen nahegelegenen BahnÃ¼bergang evakuiert. Entgleisungsbedingt entstanden am Oberbau geringfÃ¼gige SachschÃ¤den. Der NWB entstanden, eigenen Angaben zufolge, SachschÃ¤den am Fahrzeug in HÃ¶he von 185.000 Euro.  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Personen wurden bei dem Unfall nicht verletzt. Die ca. 15 Reisenden konnten den Zug körperlich unbeschadet verlassen und wurden über einen nahegelegenen Bahnübergang evakuiert. Entgleisungsbedingt entstanden am Oberbau geringfügige Sachschäden. Der NWB entstanden, eigenen Angaben zufolge, Sachschäden am Fahrzeug in Höhe von 185.000 Euro.  
 
 # Ursachen des Unfalls  
 Die Zugentgleisung war Folge einer unzeitigen Weichenbedienung durch die Fahrdienstleiterin (Fdl-in) des Stellwerks Opf. Diese hatte die spitz befahrene Weiche 164a umgestellt, obwohl die Weiche mit DPN 83387 besetzt war.  
-Die Fdl-in hatte bei der Zulassung der Zufahrt mit besonderem Auftrag (Signal Zs1) es zunÃ¤chst versÃ¤umt, den Fahrweg richtig einzustellen und zu sichern. So zeigte das am Fahrweg befindliche Sperrsignal Ls8V anstatt des Signals Sh1 das Signal Hp0. Der Tf hatte diese UnregelmÃ¤ÃŸigkeit rechtzeitig bemerkt und konnte seinen Zug noch gefahrlos vor dem Signal anhalten. Nachdem auch die Fdl-in dies bemerkte, erteilte sie dem Tf die Erlaubnis zur Vorbeifahrt am haltzeigenden Sperrsignal mittels Befehl 2. Offensichtlich stellte sie erst danach fest, dass sich die Weiche 164a noch in der Linkslage, also in der Stellung, in der sie zuvor fÃ¼r den einfahrenden DPN 83384 benÃ¶tigt wurde, befand. Sie forderte den Tf deshalb auf, noch mal stehen zu bleiben. Der Tf, der mit seinem Zug berechtigter Weise zwischenzeitlich weitergefahren war, hielt nach 95 m Fahrweg erneut an. Zu diesem Zeitpunkt stand die Zugspitze bereits auf der Weiche 164a/b. Das vordere Drehgestell hatte die Zungenvorrichtung 164a passiert und war in den linken Strang der Weiche eingefahren. Das zweite Drehgestell des Zuges hielt noch vor der Zungenspitze. In dieser Position konnte der Tf die Fehlleitung in Richtung Gegengleis noch nicht bemerken. Die Fdl-in indes war mÃ¶glicherweise in der Annahme, der Zug stehe noch vor dem Sperrsignal. Sie lieÃŸ sich aber dennoch vom Tf den Standort des Zuges geben. SpÃ¤testens jetzt, als der Tf den Standort mit km 0,71 recht genau benannte, hÃ¤tte sie bemerken kÃ¶nnen, dass der Zug um ca. 100 m weitergefahren war. Sie selbst hatte zuvor bei der BefehlsÃ¼bermittlung den Standort des Zuges vor dem Sperrsignal Ls8V mit km 0,6 angegeben. Die mehrmalige Aussage des Tf, dass sein Zug auf einer Weiche stehe und er nicht erkennen kÃ¶nne, um welche Weiche es sich dabei handele, ignorierte die Fdl-in offensichtlich vÃ¶llig. Sie stellte in der Folge die Weiche 164a mithil: WHT in die Rechtslage und damit in die fÃ¼r die Zugfahrt richtige Stellung um. Da die Kreuzungsweiche bereits zuvor durch die StÃ¶rung als besetzt gekennzeichnet war, konnte sie anhand der Melder ihres Stelltisches auch nicht erkennen, dass die Weiche jetzt tatsÃ¤chlich besetzt war und somit erschien das Umstellen mit der WHT fÃ¼r sie auch folgerichtig. Dass sie dabei aber die Weiche 164a unter dem vorderen Zugteil und zwar zwischen dem ersten und zweiten Drehgestell umstellte, ahnte die Fdl-in offensichtlich nicht. Sie stimmte deshalb der erneuten Weiterfahrt des Zuges zu. Durch das Umstellen der Weiche fuhr der Zug fortan mit dem zweiten Drehgestell im rechten Strang der Weiche 164a weiter und entgleiste schlieÃŸlich.  
+Die Fdl-in hatte bei der Zulassung der Zufahrt mit besonderem Auftrag (Signal Zs1) es zunächst versäumt, den Fahrweg richtig einzustellen und zu sichern. So zeigte das am Fahrweg befindliche Sperrsignal Ls8V anstatt des Signals Sh1 das Signal Hp0. Der Tf hatte diese Unregelmäßigkeit rechtzeitig bemerkt und konnte seinen Zug noch gefahrlos vor dem Signal anhalten. Nachdem auch die Fdl-in dies bemerkte, erteilte sie dem Tf die Erlaubnis zur Vorbeifahrt am haltzeigenden Sperrsignal mittels Befehl 2. Offensichtlich stellte sie erst danach fest, dass sich die Weiche 164a noch in der Linkslage, also in der Stellung, in der sie zuvor für den einfahrenden DPN 83384 benötigt wurde, befand. Sie forderte den Tf deshalb auf, noch mal stehen zu bleiben. Der Tf, der mit seinem Zug berechtigter Weise zwischenzeitlich weitergefahren war, hielt nach 95 m Fahrweg erneut an. Zu diesem Zeitpunkt stand die Zugspitze bereits auf der Weiche 164a/b. Das vordere Drehgestell hatte die Zungenvorrichtung 164a passiert und war in den linken Strang der Weiche eingefahren. Das zweite Drehgestell des Zuges hielt noch vor der Zungenspitze. In dieser Position konnte der Tf die Fehlleitung in Richtung Gegengleis noch nicht bemerken. Die Fdl-in indes war möglicherweise in der Annahme, der Zug stehe noch vor dem Sperrsignal. Sie ließ sich aber dennoch vom Tf den Standort des Zuges geben. Spätestens jetzt, als der Tf den Standort mit km 0,71 recht genau benannte, hätte sie bemerken können, dass der Zug um ca. 100 m weitergefahren war. Sie selbst hatte zuvor bei der Befehlsübermittlung den Standort des Zuges vor dem Sperrsignal Ls8V mit km 0,6 angegeben. Die mehrmalige Aussage des Tf, dass sein Zug auf einer Weiche stehe und er nicht erkennen könne, um welche Weiche es sich dabei handele, ignorierte die Fdl-in offensichtlich völlig. Sie stellte in der Folge die Weiche 164a mithil: WHT in die Rechtslage und damit in die für die Zugfahrt richtige Stellung um. Da die Kreuzungsweiche bereits zuvor durch die Störung als besetzt gekennzeichnet war, konnte sie anhand der Melder ihres Stelltisches auch nicht erkennen, dass die Weiche jetzt tatsächlich besetzt war und somit erschien das Umstellen mit der WHT für sie auch folgerichtig. Dass sie dabei aber die Weiche 164a unter dem vorderen Zugteil und zwar zwischen dem ersten und zweiten Drehgestell umstellte, ahnte die Fdl-in offensichtlich nicht. Sie stimmte deshalb der erneuten Weiterfahrt des Zuges zu. Durch das Umstellen der Weiche fuhr der Zug fortan mit dem zweiten Drehgestell im rechten Strang der Weiche 164a weiter und entgleiste schließlich.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
-Eigenen Angaben zufolge hat zwischenzeitlich der Bereich â€žBetriebssteuerungâ€œ der DB Netz AG MaÃŸnahmen in der Form eingeleitet, dass eine â€žBetriebliche Mitteilungâ€œ bezÃ¼glich der Intensivierung von Schwerpunktthemen bei LehrgesprÃ¤chen gemÃ¤ÃŸ Ril 412.9111 zu â€žFahrwegsicherung und FahrstraÃŸenauflÃ¶sungâ€œ ergangen ist. Diese â€žBetriebliche Mitteilungâ€œ richtet sich lt. DB Netz AG an Betriebszentralen, sowie insbesondere an Arbeitsgebietsleiter, Teamleiter und Fachbeauftragte Betrieb und an Leiter von Regionalnetzen.
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+Eigenen Angaben zufolge hat zwischenzeitlich der Bereich "Betriebssteuerung" der DB Netz AG Maßnahmen in der Form eingeleitet, dass eine "Betriebliche Mitteilung" bezüglich der Intensivierung von Schwerpunktthemen bei Lehrgesprächen gemäß Ril 412.9111 zu "Fahrwegsicherung und Fahrstraßenauflösung" ergangen ist. Diese "Betriebliche Mitteilung" richtet sich lt. DB Netz AG an Betriebszentralen, sowie insbesondere an Arbeitsgebietsleiter, Teamleiter und Fachbeauftragte Betrieb und an Leiter von Regionalnetzen.
 
 ---
 file: 078_Olching.txt
@@ -2251,179 +2251,179 @@ Zugkollision, 07.05.2014, Olching
 Untersuchungsbericht der Eisenbahn-Unfalluntersuchungsstelle des Bundes  
 
 # Hergang des Unfalls  
-Am 07.05.2014 gegen 04:20 Uhr kollidierte die Leerzugfahrt Lt 38982 des EVU DB Regio AG (S-Bahn MÃ¼nchen) auf der Fahrt vom S-Bahn-Betriebsbahnhof MÃ¼nchen-Steinhausen nach Maisach im Bf Olching, Gleis 2, in km 18,4 mit dem Ausleger eines Zweiwegebaggers. Die Bauarbeiten sollten um 04:30 Uhr eingestellt werden. Das Gleis 1 (auf diesem befand sich der Zweiwegebagger) war zum Unfallzeitpunkt gesperrt. Gleis 2 war zum Unfallzeitpunkt nicht gesperrt, obwohl es gemÃ¤ÃŸ Betra zu sperren war. Der belastete Auslegearm des Zweiwegebaggers (mit Plattenwagen) wurde in den nicht gesperrten Gleisbereich geschwenkt.  
+Am 07.05.2014 gegen 04:20 Uhr kollidierte die Leerzugfahrt Lt 38982 des EVU DB Regio AG (S-Bahn München) auf der Fahrt vom S-Bahn-Betriebsbahnhof München-Steinhausen nach Maisach im Bf Olching, Gleis 2, in km 18,4 mit dem Ausleger eines Zweiwegebaggers. Die Bauarbeiten sollten um 04:30 Uhr eingestellt werden. Das Gleis 1 (auf diesem befand sich der Zweiwegebagger) war zum Unfallzeitpunkt gesperrt. Gleis 2 war zum Unfallzeitpunkt nicht gesperrt, obwohl es gemäß Betra zu sperren war. Der belastete Auslegearm des Zweiwegebaggers (mit Plattenwagen) wurde in den nicht gesperrten Gleisbereich geschwenkt.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
-Bei der Zugkollision erlitt der TriebfahrzeugfÃ¼hrer (Tf) schwere Verletzungen und wurde mit einem Hubschrauber ins Krankenhaus gebracht. FÃ¼nf Bauarbeiter wurden ebenfalls leicht verletzt und mit Krankenwagen ins Krankenhaus gebracht. Die kollisionsbedingten SachschÃ¤den betragen mehr als 4 Millionen Euro.  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Bei der Zugkollision erlitt der Triebfahrzeugführer (Tf) schwere Verletzungen und wurde mit einem Hubschrauber ins Krankenhaus gebracht. Fünf Bauarbeiter wurden ebenfalls leicht verletzt und mit Krankenwagen ins Krankenhaus gebracht. Die kollisionsbedingten Sachschäden betragen mehr als 4 Millionen Euro.  
 
 # Ursachen des Unfalls  
-Der belastete Auslegearm eines Zweiwegebaggers (mit Plattenwagen) wurde in den nicht gesperrten Gleisbereich (Gleis 2) geschwenkt. Gleis 2 war zum Unfallzeitpunkt nicht gesperrt, obwohl es gemÃ¤ÃŸ Betra zu sperren war. Es gibt unterschiedliche und widersprÃ¼chliche Aussagen der Beteiligten, ob das Gleis 2 zum Unfallzeitpunkt gesperrt war oder nicht. Die Kommunikation auf der Baustelle zwischen allen Beteiligten war von groÃŸer Bedeutung. Zudem wurden schwerwiegende MÃ¤ngel von Handlungen einzelner Beteiligter (bis hin zu einer Betriebsgefahr) aufgedeckt.  
+Der belastete Auslegearm eines Zweiwegebaggers (mit Plattenwagen) wurde in den nicht gesperrten Gleisbereich (Gleis 2) geschwenkt. Gleis 2 war zum Unfallzeitpunkt nicht gesperrt, obwohl es gemäß Betra zu sperren war. Es gibt unterschiedliche und widersprüchliche Aussagen der Beteiligten, ob das Gleis 2 zum Unfallzeitpunkt gesperrt war oder nicht. Die Kommunikation auf der Baustelle zwischen allen Beteiligten war von großer Bedeutung. Zudem wurden schwerwiegende Mängel von Handlungen einzelner Beteiligter (bis hin zu einer Betriebsgefahr) aufgedeckt.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
-Die Planung der BaumaÃŸnahme hÃ¤tte bereits auffallen mÃ¼ssen, dass die Betra und der Sicherungsplan nicht aufeinander abgestimmt waren. Sicherheitsrelevante GesprÃ¤che wurden nicht Ã¼ber GSM-R gefÃ¼hrt, und die notwendigen AuftrÃ¤ge und Meldungen wurden nicht nachgewiesen. Es wurden Empfehlungen zur Verbesserung der Sicherheit abgeleitet, insbesondere zur Sicherstellung der Abstimmung zwischen Planung und SicherungsmaÃŸnahmen, zur Dokumentation von Prozessen sowie zur Schaffung von Klarheit Ã¼ber Gefahren im Eisenbahnbetrieb.
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+Die Planung der Baumaßnahme hätte bereits auffallen müssen, dass die Betra und der Sicherungsplan nicht aufeinander abgestimmt waren. Sicherheitsrelevante Gespräche wurden nicht über GSM-R geführt, und die notwendigen Aufträge und Meldungen wurden nicht nachgewiesen. Es wurden Empfehlungen zur Verbesserung der Sicherheit abgeleitet, insbesondere zur Sicherstellung der Abstimmung zwischen Planung und Sicherungsmaßnahmen, zur Dokumentation von Prozessen sowie zur Schaffung von Klarheit über Gefahren im Eisenbahnbetrieb.
 
 ---
 file: 156_Bad_Oldesloe_-_Bargteheide.txt
 
-GefÃ¤hrliches Ereignis im Eisenbahnbetrieb  
-BahnÃ¼bergangs nfall, 25.11.2014, Bad Oldesloe â€“ Bargteheide  
+Gefährliches Ereignis im Eisenbahnbetrieb  
+Bahnübergangs nfall, 25.11.2014, Bad Oldesloe – Bargteheide  
 
 # Hergang des Unfalls  
-Am 25.11.2014 gegen 18:29 Uhr prallte der RE-D 21429 auf der Fahrt von LÃ¼beck-TravemÃ¼nde nach Hamburg Hbf zwischen Bad Oldesloe â€“ Bargteheide auf dem BahnÃ¼bergang (BÃœ) km 28,153 mit einem PKW zusammen.  
-Zum Zeitpunkt des Unfalls verkehrten auf der zweigleisigen Strecke zwischen den benachbarten Betriebsstellen Bargteheide und Bad Oldesloe zwei ZÃ¼ge: Der RE-D 21428 aus Richtung Bargteheide und der RE-D 21429 (Unfallzug) aus Richtung Bad Oldesloe. Der Fdl Bargteheide meldete dem Fdl Bad Oldesloe die Durchfahrtzeit des Zuges RE-D 21428 fÃ¼r 18:23 Uhr. Der Fdl Bad Oldesloe meldete dem Fdl Bargteheide den Zug RE-D 21429 laut den Eintragungen in den ZugmeldebÃ¼chern fÃ¼r 18:26 Uhr ab. Der BÃœP hÃ¶rte die Zugmeldungen mit. Er notierte den RE-D 21428 mit der Zeit 18:23 Uhr und den RE-D 21429 mit der Zeit 18:29 Uhr. Nachdem der RE-D 21428 aus Richtung Bargteheide den BÃœ befahren hatte, Ã¶ffnete der BÃœP um 18:29:17 Uhr die Schranken des TH-BÃœP durch Bedienung des SchlÃ¼sselschalters. Sechs Sekunden spÃ¤ter betÃ¤tigte der BÃœP den SchlÃ¼sselschalter zum SchlieÃŸen der Schranken, um die BÃœ-Sicherung abzubrechen. In der Zwischenzeit fuhr ein wartender PKW in Richtung der Ortslage Rohlfshage auf den BÃœ. Kurz darauf prallte dieser PKW mit dem aus Richtung Bad Oldesloe herannahenden RE-D 21429 zusammen.  
+Am 25.11.2014 gegen 18:29 Uhr prallte der RE-D 21429 auf der Fahrt von Lübeck-Travemünde nach Hamburg Hbf zwischen Bad Oldesloe – Bargteheide auf dem Bahnübergang (BÜ) km 28,153 mit einem PKW zusammen.  
+Zum Zeitpunkt des Unfalls verkehrten auf der zweigleisigen Strecke zwischen den benachbarten Betriebsstellen Bargteheide und Bad Oldesloe zwei Züge: Der RE-D 21428 aus Richtung Bargteheide und der RE-D 21429 (Unfallzug) aus Richtung Bad Oldesloe. Der Fdl Bargteheide meldete dem Fdl Bad Oldesloe die Durchfahrtzeit des Zuges RE-D 21428 für 18:23 Uhr. Der Fdl Bad Oldesloe meldete dem Fdl Bargteheide den Zug RE-D 21429 laut den Eintragungen in den Zugmeldebüchern für 18:26 Uhr ab. Der BÜP hörte die Zugmeldungen mit. Er notierte den RE-D 21428 mit der Zeit 18:23 Uhr und den RE-D 21429 mit der Zeit 18:29 Uhr. Nachdem der RE-D 21428 aus Richtung Bargteheide den BÜ befahren hatte, öffnete der BÜP um 18:29:17 Uhr die Schranken des TH-BÜP durch Bedienung des Schlüsselschalters. Sechs Sekunden später betätigte der BÜP den Schlüsselschalter zum Schließen der Schranken, um die BÜ-Sicherung abzubrechen. In der Zwischenzeit fuhr ein wartender PKW in Richtung der Ortslage Rohlfshage auf den BÜ. Kurz darauf prallte dieser PKW mit dem aus Richtung Bad Oldesloe herannahenden RE-D 21429 zusammen.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
-Es trat die folgende PersonenschÃ¤den auf:  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Es trat die folgende Personenschäden auf:  
 - Anzahl Tote: 1 (Fahrer des PKW)  
 - Anzahl schwer Verletzte: 0  
 - Anzahl leicht Verletzte: 2 (Eisenbahnpersonal)  
 - Reisende: 0  
 - Mitarbeiter: 0  
-- Benutzer von BahnÃ¼bergÃ¤ngen: 1 (Fahrer des PKW)  
+- Benutzer von Bahnübergängen: 1 (Fahrer des PKW)  
 - Dreher: 0  
 
-Die geschÃ¤tzte HÃ¶he der SachschÃ¤den in Euro setzt sich wie folgt zusammen:  
-- Fahrzeuge: 30.000 â‚¬  
-- Infrastruktur: 5.000 â‚¬  
-- Dreher: 15.000 â‚¬  
-**GesamtschadenshÃ¶he**: 50.000 â‚¬  
+Die geschätzte Höhe der Sachschäden in Euro setzt sich wie folgt zusammen:  
+- Fahrzeuge: 30.000 €  
+- Infrastruktur: 5.000 €  
+- Dreher: 15.000 €  
+**Gesamtschadenshöhe**: 50.000 €  
 
 # Ursachen des Unfalls  
-Vor dem Passieren des Zuges RE-D 21429 wurde die Ausnahmebehandlung der Sicherung des BÃœ (Postensicherung) gemÃ¤ÃŸ Â§ 11 Abs. 19 der Eisenbahn-Bau- und Betriebsordnung (EBO) vorzeitig eingeleitet.  
-Die Ursache fÃ¼r den ZusammenstoÃŸ war das unzeitige Einleiten der AuflÃ¶sung der BÃœ-Sicherung zu einem Zeitpunkt, als sich der Zug RE-D 21429 aus Richtung Bad Oldesloe noch in der AnnÃ¤herung auf den BÃœ befand.  
-Die BÃœSA des BÃœ in Rohlfshagen war bereits seit Mai 2013 gestÃ¶rt. Obwohl die Sicherung des BÃœ durch den BÃœP gemÃ¤ÃŸ EBO Â§ 11 Regelkonform war, stieg das Risiko fÃ¼r Fehlhandlungen mit der Dauer des Einsatzes von BÃœP als Ersatz fÃ¼r die technische Sicherung.  
-Der BÃœP trug die falsche Uhrzeit (18:29 Uhr) fÃ¼r den Zug RE-D 21429 in den Nachweis der Benachrichtigungen ein, was die korrekte Sicherung des BÃœ behinderte.  
+Vor dem Passieren des Zuges RE-D 21429 wurde die Ausnahmebehandlung der Sicherung des BÜ (Postensicherung) gemäß § 11 Abs. 19 der Eisenbahn-Bau- und Betriebsordnung (EBO) vorzeitig eingeleitet.  
+Die Ursache für den Zusammenstoß war das unzeitige Einleiten der Auflösung der BÜ-Sicherung zu einem Zeitpunkt, als sich der Zug RE-D 21429 aus Richtung Bad Oldesloe noch in der Annäherung auf den BÜ befand.  
+Die BÜSA des BÜ in Rohlfshagen war bereits seit Mai 2013 gestört. Obwohl die Sicherung des BÜ durch den BÜP gemäß EBO § 11 Regelkonform war, stieg das Risiko für Fehlhandlungen mit der Dauer des Einsatzes von BÜP als Ersatz für die technische Sicherung.  
+Der BÜP trug die falsche Uhrzeit (18:29 Uhr) für den Zug RE-D 21429 in den Nachweis der Benachrichtigungen ein, was die korrekte Sicherung des BÜ behinderte.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
 Es wurden keine Sicherheitsempfehlungen ausgesprochen.  
-Die BEU hat jedoch zu der Sicherung von BÃœ durch BÃœP die Sicherheitsempfehlungen 07/2018 bis 11/2018 ausgesprochen. Der Umsetzungsstand der Sicherheitsempfehlungen kann in den aktuellen Jahresberichten der BEU entnommen werden.
+Die BEU hat jedoch zu der Sicherung von BÜ durch BÜP die Sicherheitsempfehlungen 07/2018 bis 11/2018 ausgesprochen. Der Umsetzungsstand der Sicherheitsempfehlungen kann in den aktuellen Jahresberichten der BEU entnommen werden.
 
 ---
 file: 137_Düsseldorf_Abstellbahnhof.txt
 
-Zugkollision, 13.04.2019, DÃ¼sseldorf Abstellbahnhof
+Zugkollision, 13.04.2019, Düsseldorf Abstellbahnhof
 
 # Hergang des Unfalls
-Am 13.04.2019 gegen ca. 13:23 Uhr kollidierte der Leerreisezug RE-D 5106 wÃ¤hrend der Ausfahrt aus dem Bahnhof (Bf) DÃ¼sseldorf Abstellbahnhof in Richtung DÃ¼sseldorf Hbf, auf der Weiche 17, mit dem zur gleichen Zeit ausfahrenden Zug DLr 92365.  
+Am 13.04.2019 gegen ca. 13:23 Uhr kollidierte der Leerreisezug RE-D 5106 während der Ausfahrt aus dem Bahnhof (Bf) Düsseldorf Abstellbahnhof in Richtung Düsseldorf Hbf, auf der Weiche 17, mit dem zur gleichen Zeit ausfahrenden Zug DLr 92365.  
 ...  
 Zu diesem Zeitpunkt hatte der Fdl den Zug RE-D 5106 noch nicht in die Zugnummernmeldeanlage eingegeben.  
 ...  
-Der zustÃ¤ndige Fdl bemerkte, dass sich auÃŸer dem Zug DLr 92365 in Gleis 19 auch Zug RE-D 5106 in Gleis 17 in Bewegung setzte, brachte er, um eine drohende Kollision zu verhindern, das Gruppenausfahrsignal sofort in Haltstellung. Die Kollision beider ZÃ¼ge konnte er dennoch nicht abwenden.  
+Der zuständige Fdl bemerkte, dass sich außer dem Zug DLr 92365 in Gleis 19 auch Zug RE-D 5106 in Gleis 17 in Bewegung setzte, brachte er, um eine drohende Kollision zu verhindern, das Gruppenausfahrsignal sofort in Haltstellung. Die Kollision beider Züge konnte er dennoch nicht abwenden.  
 ...  
-Ohne einen Fahrauftrag erhalten zu haben wurde unmittelbar darauf Zug RE-D 5106 in Gleis 17 durch den Tf in Bewegung gesetzt. Trotz des haltzeigenden Formsperrsignals ð��»ð�‘ 17à¯‚ beschleunigte er den Zug auf ca. 40 km/h.  
+Ohne einen Fahrauftrag erhalten zu haben wurde unmittelbar darauf Zug RE-D 5106 in Gleis 17 durch den Tf in Bewegung gesetzt. Trotz des haltzeigenden Formsperrsignals ��17ூ beschleunigte er den Zug auf ca. 40 km/h.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte
-Bei dem Ereignis wurden keine Personen verletzt. Die HÃ¶he des Sachschadens wurde mit ca. 530.000 Euro beziffert.  
+# Höhe des Schadens, Anzahl Tote und Verletzte
+Bei dem Ereignis wurden keine Personen verletzt. Die Höhe des Sachschadens wurde mit ca. 530.000 Euro beziffert.  
 ...  
-Nach den letzten Erkenntnissen traten folgend aufgefÃ¼hrte PersonenschÃ¤den ein.  
+Nach den letzten Erkenntnissen traten folgend aufgeführte Personenschäden ein.  
 Anzahl Tote: -  
 Anzahl schwer Verletzte: -  
 Anzahl leicht Verletzte: -  
 ...  
-Die geschÃ¤tzte HÃ¶he der SachschÃ¤den in Euro setzt sich wie folgt zusammen:  
-SchÃ¤den: Fahrzeuge (400.000 â‚¬), Infrastruktur (130.000 â‚¬), Dritter (-), GesamtschadenshÃ¶he: 530.000 â‚¬.
+Die geschätzte Höhe der Sachschäden in Euro setzt sich wie folgt zusammen:  
+Schäden: Fahrzeuge (400.000 €), Infrastruktur (130.000 €), Dritter (-), Gesamtschadenshöhe: 530.000 €.
 
 # Ursachen des Unfalls
-UrsÃ¤chlich fÃ¼r das Ereignis war die Abfahrt des Zuges RE-D 5106 aus Gleis 17 ohne Zustimmung des Fahrdienstleiters (Fdl).  
+Ursächlich für das Ereignis war die Abfahrt des Zuges RE-D 5106 aus Gleis 17 ohne Zustimmung des Fahrdienstleiters (Fdl).  
 ...  
-Die Ursache fÃ¼r dieses Ereignis war der VerstoÃŸ gegen die Fahrdienstvorschriften, Ril 408.2331 Abschn. 1, durch den Tf des Zuges RE-D 5106. Demnach darf ein Zug in einem Bahnhof nur abfahren, wenn der Fdl der Fahrt zustimmt.  
+Die Ursache für dieses Ereignis war der Verstoß gegen die Fahrdienstvorschriften, Ril 408.2331 Abschn. 1, durch den Tf des Zuges RE-D 5106. Demnach darf ein Zug in einem Bahnhof nur abfahren, wenn der Fdl der Fahrt zustimmt.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle
 Es wurden keine Sicherheitsempfehlungen ausgesprochen.  
 ...  
-MÃ¶glicherweise hÃ¤tte die PZB 90 Ausgestaltung der PZB-StreckenausrÃ¼stung mit 500 Hz Gleismagneten die Unfallfolgen verringern oder den Unfall gar vermeiden kÃ¶nnen.
+Möglicherweise hätte die PZB 90 Ausgestaltung der PZB-Streckenausrüstung mit 500 Hz Gleismagneten die Unfallfolgen verringern oder den Unfall gar vermeiden können.
 
 ---
 file: 074_Cham_Oberpf_-_Bad_Kötzing.txt
 
-BahnÃ¼bergangsunfall, 10.06.2015, Cham/Oberpf - Bad KÃ¶tzting  
+Bahnübergangsunfall, 10.06.2015, Cham/Oberpf - Bad Kötzting  
 
 # Hergang des Unfalls  
-Am 10.06.2015 fuhr ein Kleintransporter auf der im Beschilderungsplan/Systemskizze (siehe Abb. 12) als Fabrikeinfahrt bezeichneten StraÃŸe, bog am Vorfahrt achten nach rechts ab und fuhr dann unzulÃ¤ssig in den BÃœ km 5,564 hinein. Der Zug 74181 war in Streckenrichtung unterwegs, so dass der Kleintransporter und der Zug vor dem BÃœ parallel zueinander unterwegs waren. Erneut war der Quadrant II des BÃœ der unfallrelevante Quadrant.  
+Am 10.06.2015 fuhr ein Kleintransporter auf der im Beschilderungsplan/Systemskizze (siehe Abb. 12) als Fabrikeinfahrt bezeichneten Straße, bog am Vorfahrt achten nach rechts ab und fuhr dann unzulässig in den BÜ km 5,564 hinein. Der Zug 74181 war in Streckenrichtung unterwegs, so dass der Kleintransporter und der Zug vor dem BÜ parallel zueinander unterwegs waren. Erneut war der Quadrant II des BÜ der unfallrelevante Quadrant.  
 
-Der TriebfahrzeugfÃ¼hrer (Tf) des DPN 74181 gab die erforderlichen Pfeifsignale, erkannte unmittelbar vor dem Erreichen des BÃœ, dass der Kleintransporter den BÃœ befahren wÃ¼rde, gab wiederholte Pfeifsignale und leitete eine Schnellbremsung ein.  
+Der Triebfahrzeugführer (Tf) des DPN 74181 gab die erforderlichen Pfeifsignale, erkannte unmittelbar vor dem Erreichen des BÜ, dass der Kleintransporter den BÜ befahren würde, gab wiederholte Pfeifsignale und leitete eine Schnellbremsung ein.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
-Am 21.01.2009 wurde die Fahrerin des Pkw tÃ¶dlich verletzt, am 16.04.2015 gab es nur SachschÃ¤den. Beim Zusammenprall am 10.06.2015 wurde der StraÃŸenverkehrsteilnehmer leicht verletzt und es waren etwa 10.000.-â‚¬ SachschÃ¤den am Schienenfahrzeug plus ca. 10.000.-â‚¬ SachschÃ¤den am StraÃŸenfahrzeug zu verzeichnen.  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Am 21.01.2009 wurde die Fahrerin des Pkw tödlich verletzt, am 16.04.2015 gab es nur Sachschäden. Beim Zusammenprall am 10.06.2015 wurde der Straßenverkehrsteilnehmer leicht verletzt und es waren etwa 10.000.-€ Sachschäden am Schienenfahrzeug plus ca. 10.000.-€ Sachschäden am Straßenfahrzeug zu verzeichnen.  
 
 # Ursachen des Unfalls  
-Der Fahrer des Kleintransporters missachtete den Vorrang des Schienenverkehrs und fuhr von links kommend in den BÃœ hinein.  
+Der Fahrer des Kleintransporters missachtete den Vorrang des Schienenverkehrs und fuhr von links kommend in den BÜ hinein.  
 
-Die BahnÃ¼bergangsunfÃ¤lle vom 16.04. und vom 10.06.2015 wurden durch die FÃ¼hrer der StraÃŸenfahrzeuge verursacht, dies gilt mit hoher Wahrscheinlichkeit auch fÃ¼r den Unfall mit einem tÃ¶dlich verletzten StraÃŸenverkehrsteilnehmer am 21.01.2009.  
+Die Bahnübergangsunfälle vom 16.04. und vom 10.06.2015 wurden durch die Führer der Straßenfahrzeuge verursacht, dies gilt mit hoher Wahrscheinlichkeit auch für den Unfall mit einem tödlich verletzten Straßenverkehrsteilnehmer am 21.01.2009.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
-Dem EIU DB Netz AG wird, im Rahmen seiner Sicherheitsverpflichtung nach den Bestimmungen des Â§ 4 AEG, dringend empfohlen, weitere MaÃŸnahmen zur ErhÃ¶hung der Sicherheit an diesem BÃœ zu verfolgen. Aktuell stellt sich als gÃ¼nstigste Variante wohl eine BÃœ-Auflassung durch eine StraÃŸenverlegung in nÃ¶rdlicher Richtung dar.  
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+Dem EIU DB Netz AG wird, im Rahmen seiner Sicherheitsverpflichtung nach den Bestimmungen des § 4 AEG, dringend empfohlen, weitere Maßnahmen zur Erhöhung der Sicherheit an diesem BÜ zu verfolgen. Aktuell stellt sich als günstigste Variante wohl eine BÜ-Auflassung durch eine Straßenverlegung in nördlicher Richtung dar.  
 
-Von den in der Sonderverkehrsschau am 19.05.2015 abgesprochenen MaÃŸnahmen waren bis zum 21.08.2015 umgesetzt:  
-- Die Gemeinde Runding hat eine Geschwindigkeitsmess-/Anzeigenanlage fÃ¼r den StraÃŸenverkehr, der sich dem BÃœ von links nÃ¤hert, aufgestellt.  
-- Die Gemeinde Runding hat Markierungen, insbesondere Haltelinien am BÃœ aufgebracht.  
-- Eine aktuelle ZÃ¤hlung des Kfz-Aufkommens ist erfolgt, den BÃœ quert StraÃŸenverkehr mit mÃ¤ÃŸigen Aufkommen.  
-- Eine verstÃ¤rkte Ãœberwachung der Geschwindigkeit des Kfz-Verkehrs durch die Polizei ist erfolgt, die Polizei hat Geschwindigkeiten am BÃœ kontrolliert und Verwarnungen ausgesprochen.  
+Von den in der Sonderverkehrsschau am 19.05.2015 abgesprochenen Maßnahmen waren bis zum 21.08.2015 umgesetzt:  
+- Die Gemeinde Runding hat eine Geschwindigkeitsmess-/Anzeigenanlage für den Straßenverkehr, der sich dem BÜ von links nähert, aufgestellt.  
+- Die Gemeinde Runding hat Markierungen, insbesondere Haltelinien am BÜ aufgebracht.  
+- Eine aktuelle Zählung des Kfz-Aufkommens ist erfolgt, den BÜ quert Straßenverkehr mit mäßigen Aufkommen.  
+- Eine verstärkte Überwachung der Geschwindigkeit des Kfz-Verkehrs durch die Polizei ist erfolgt, die Polizei hat Geschwindigkeiten am BÜ kontrolliert und Verwarnungen ausgesprochen.  
 
 Offen:  
-- Aktuell favorisiert: BÃœ-Auflassung mittels Ausbau einer nÃ¶rdlich gelegenen StraÃŸenalternativlÃ¶sung.  
-- Eine technische Sicherung wird nicht errichtet. Sollte, aus welchem Grund auch immer, eine BÃœ-Auflassung in absehbarer Zeit nicht realisiert werden kÃ¶nnen, so muss diese Alternative wieder verfolgt werden.
+- Aktuell favorisiert: BÜ-Auflassung mittels Ausbau einer nördlich gelegenen Straßenalternativlösung.  
+- Eine technische Sicherung wird nicht errichtet. Sollte, aus welchem Grund auch immer, eine BÜ-Auflassung in absehbarer Zeit nicht realisiert werden können, so muss diese Alternative wieder verfolgt werden.
 
 ---
 file: 064_Kamen_-_Üst_Nordbögge.txt
 
-Fahrzeugbrand, 04.06.2014, Kamen - Ãœst NordbÃ¶gge
+Fahrzeugbrand, 04.06.2014, Kamen - Üst Nordbögge
 
 # Hergang des Unfalls
-Am 04.06.2014 verkehrte der Zug RE-D 10637 bestehend aus dem Tfz 112 134 und fÃ¼nf Doppelstockreisezugwagen. GemÃ¤ÃŸ Fahrplan sollte der Zug von DÃ¼sseldorf Abstellbahnhof nach Hamm(Westf.) Pbf laufen. Nach den Angaben des Tf verlief die Zugfahrt bis zum Ereigniseintritt ohne nennenswerte Besonderheiten. Der Tf brachte den Zug aufgrund des planmÃ¤ÃŸigen Verkehrshalts im Bahnhof Kamen am Bahnsteig zum Halten. WÃ¤hrend er seinen Zug nach dem Halt wieder beschleunigte, kam es auf dem besetzten FÃ¼hrerstand 1 zu einer Explosion im Bereich der Fahrmotorklemmstellen mit Stichflamme in den FÃ¼hrerraum. In der Folge entstand eine starke Rauchentwicklung. Der Tf brachte daraufhin den Zug vor dem Selbstblocksignal (Sbk) 55 in Streckenkilometer 137,8 zum Stehen und verstÃ¤ndigte den Fdl. Der relativ kleine Brandherd wurde durch die herbeigerufene Feuerwehr gelÃ¶scht.
+Am 04.06.2014 verkehrte der Zug RE-D 10637 bestehend aus dem Tfz 112 134 und fünf Doppelstockreisezugwagen. Gemäß Fahrplan sollte der Zug von Düsseldorf Abstellbahnhof nach Hamm(Westf.) Pbf laufen. Nach den Angaben des Tf verlief die Zugfahrt bis zum Ereigniseintritt ohne nennenswerte Besonderheiten. Der Tf brachte den Zug aufgrund des planmäßigen Verkehrshalts im Bahnhof Kamen am Bahnsteig zum Halten. Während er seinen Zug nach dem Halt wieder beschleunigte, kam es auf dem besetzten Führerstand 1 zu einer Explosion im Bereich der Fahrmotorklemmstellen mit Stichflamme in den Führerraum. In der Folge entstand eine starke Rauchentwicklung. Der Tf brachte daraufhin den Zug vor dem Selbstblocksignal (Sbk) 55 in Streckenkilometer 137,8 zum Stehen und verständigte den Fdl. Der relativ kleine Brandherd wurde durch die herbeigerufene Feuerwehr gelöscht.
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte
-Todesopfer sind keine zu beklagen. Der TriebfahrzeugfÃ¼hrer wird bei dem Ereignis leicht verletzt und erleidet einen Schock. Der Sachschaden belÃ¤uft sich auf mehrere 1.000 Euro.
+# Höhe des Schadens, Anzahl Tote und Verletzte
+Todesopfer sind keine zu beklagen. Der Triebfahrzeugführer wird bei dem Ereignis leicht verletzt und erleidet einen Schock. Der Sachschaden beläuft sich auf mehrere 1.000 Euro.
 
 # Ursachen des Unfalls
-Die mangelhafte ArbeitsausfÃ¼hrung durch die Nichtbeachtung von vorgeschriebenen Instandhaltungsanweisungen durch die Mitarbeiter der zustÃ¤ndigen Werkstatt Dortmund fÃ¼hrte letztendlich zum Brand des Tfz. BegÃ¼nstigt wurde dies durch die konstruktive AusfÃ¼hrung der Aluminiumstromschienen mit den vier einzeln geklemmten Leitungen je Fahrmotoranschluss in Verbindung mit dem beengten Einbauraum und den dadurch erforderlichen erhÃ¶hten Instandhaltungsaufwand.
+Die mangelhafte Arbeitsausführung durch die Nichtbeachtung von vorgeschriebenen Instandhaltungsanweisungen durch die Mitarbeiter der zuständigen Werkstatt Dortmund führte letztendlich zum Brand des Tfz. Begünstigt wurde dies durch die konstruktive Ausführung der Aluminiumstromschienen mit den vier einzeln geklemmten Leitungen je Fahrmotoranschluss in Verbindung mit dem beengten Einbauraum und den dadurch erforderlichen erhöhten Instandhaltungsaufwand.
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle
-Die genaueste Einhaltung der Vorgaben des IHB 901 10, der Arbeitsanweisungen, der IW-P (z.B. 146/2012, 309/2013) bzw. der Zeichnungsdokumentation ist notwendig, um zukÃ¼nftig derartige Ereignisse vermeiden zu kÃ¶nnen. Empfohlene MaÃŸnahmen umfassen:
-- Ã„nderung der Zeichnung zur VergrÃ¶ÃŸerung der Bohrung in den Klemmstellen.
-- Verwendung von Al/Cu-Unterlegscheiben zur Reduzierung elektrochemischer EinflÃ¼sse.
-- Reinigung und VorsichtsmaÃŸnahmen (z. B. Verwendung von Vaseline statt Kupferpaste) bei der Wartung der Fahrmotorklemmstellen.
-- DurchfÃ¼hrung von Laboruntersuchungen zur ÃœberprÃ¼fung der Strombelastbarkeit und Temperaturverteilung.
-- Sensibilisierung des Werkstattpersonals fÃ¼r die Einhaltung von Anzugsmomenten und Vorgaben.
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle
+Die genaueste Einhaltung der Vorgaben des IHB 901 10, der Arbeitsanweisungen, der IW-P (z.B. 146/2012, 309/2013) bzw. der Zeichnungsdokumentation ist notwendig, um zukünftig derartige Ereignisse vermeiden zu können. Empfohlene Maßnahmen umfassen:
+- Änderung der Zeichnung zur Vergrößerung der Bohrung in den Klemmstellen.
+- Verwendung von Al/Cu-Unterlegscheiben zur Reduzierung elektrochemischer Einflüsse.
+- Reinigung und Vorsichtsmaßnahmen (z. B. Verwendung von Vaseline statt Kupferpaste) bei der Wartung der Fahrmotorklemmstellen.
+- Durchführung von Laboruntersuchungen zur Überprüfung der Strombelastbarkeit und Temperaturverteilung.
+- Sensibilisierung des Werkstattpersonals für die Einhaltung von Anzugsmomenten und Vorgaben.
 
 ---
 file: 051_Düsseldorf_Rath.txt
 
-BahnÃ¼bergangsunfall, 19.12.2012, Bahnhof DÃ¼sseldorf-Rath und Bahnhof DÃ¼sseldorf-Eller  
+Bahnübergangsunfall, 19.12.2012, Bahnhof Düsseldorf-Rath und Bahnhof Düsseldorf-Eller  
 
 # Hergang des Unfalls  
-Am 19.12.2012 befuhr ein Bus der Firma Rheinbahn AG in DÃ¼sseldorf die StraÃŸe Eller Kamp in Richtung â€žAm Hackenbruchâ€œ. Auf dem BÃœ in km 27,764 der Bahnstrecke DÃ¼sseldorf-Rath â€“ DÃ¼sseldorf-Eller kam der Bus, vermutlich wegen eines technischen Defekts, zum Halten. Der Fahrer des Busses versuchte mehrfach den Motor zu starten. Da ihm dies offensichtlich nicht gelang, konnte er sein Fahrzeug nicht vom Gleis bewegen. Er und drei weitere Insassen verlieÃŸen daraufhin das Fahrzeug. Gegen 20:13 Uhr nÃ¤herte sich aus Richtung DÃ¼sseldorf-Rath Zug KT 41953. Durch Befahren der Fahrzeugsensoren in km 26,930 wurde die BÃœSA am BÃœ â€žAm Hackenbruchâ€œ eingeschaltet. Daraufhin leuchteten die Lichtzeichen, erst gelb danach rot, und die Schranken senkten sich. Aus der Gegenrichtung erfolgte die Einschaltung der Anlage durch Zug EZ 45722 ca. 16 Sekunden spÃ¤ter, ebenfalls durch Befahren der Fahrzeugsensoren. Zug 41953 erreichte den BÃœ ca. 36 Sekunden nach Einschalten der BÃœSA und prallte dort mit einer Geschwindigkeit von ca. 82 km/h auf den Bus. Infolge des Zusammenpralls entgleisten das Tfz und die beiden nachfolgenden Wagen. Das Tfz glitt dadurch nach links von der Fahrbahn ab. Zur Kollision mit dem entgegenkommenden Zug, der nur wenige Zentimeter am entgleisten Tfz vorbei fuhr, kam es hierbei nicht. GroÃŸe Teile des Busses blieben nach dem Zusammenprall im Gegengleis liegen. Zug 45722 prallte ca. 20 Sekunden nach dem ersten Zusammenprall, rund 15 Meter vor dem BÃœ, auf das Wrack des Busses. Dadurch entgleisten die beiden Tfz des Zuges. Das fÃ¼hrende Tfz kam hierbei zunehmend nach rechts von der Fahrbahn ab, fuhr eine BÃ¶schung hinab und zerstÃ¶rte anschlieÃŸend ein Gartenhaus eines anliegenden GartengrundstÃ¼cks. Das nachfolgende Tfz blieb auf dem BahnkÃ¶rper stehen. Die nachlaufenden, teils mit Gefahrgut beladenen Wagen entgleisten nicht. Gefahrgut trat nicht aus. Der Bus wurde durch die Kollisionen in mehrere groÃŸe Teile zerrissen, von denen sich einige auch zwischen beiden ZÃ¼gen verkeilten. Dies fÃ¼hrte dann letztendlich dazu, dass die an 12. und 14. Stelle laufenden Wagen des Zuges 41953 entgleisten und die Wagen einschlieÃŸlich deren Ladung im mittleren Teil dieses Zuges beschÃ¤digt wurden.  
+Am 19.12.2012 befuhr ein Bus der Firma Rheinbahn AG in Düsseldorf die Straße Eller Kamp in Richtung "Am Hackenbruch". Auf dem BÜ in km 27,764 der Bahnstrecke Düsseldorf-Rath – Düsseldorf-Eller kam der Bus, vermutlich wegen eines technischen Defekts, zum Halten. Der Fahrer des Busses versuchte mehrfach den Motor zu starten. Da ihm dies offensichtlich nicht gelang, konnte er sein Fahrzeug nicht vom Gleis bewegen. Er und drei weitere Insassen verließen daraufhin das Fahrzeug. Gegen 20:13 Uhr näherte sich aus Richtung Düsseldorf-Rath Zug KT 41953. Durch Befahren der Fahrzeugsensoren in km 26,930 wurde die BÜSA am BÜ "Am Hackenbruch" eingeschaltet. Daraufhin leuchteten die Lichtzeichen, erst gelb danach rot, und die Schranken senkten sich. Aus der Gegenrichtung erfolgte die Einschaltung der Anlage durch Zug EZ 45722 ca. 16 Sekunden später, ebenfalls durch Befahren der Fahrzeugsensoren. Zug 41953 erreichte den BÜ ca. 36 Sekunden nach Einschalten der BÜSA und prallte dort mit einer Geschwindigkeit von ca. 82 km/h auf den Bus. Infolge des Zusammenpralls entgleisten das Tfz und die beiden nachfolgenden Wagen. Das Tfz glitt dadurch nach links von der Fahrbahn ab. Zur Kollision mit dem entgegenkommenden Zug, der nur wenige Zentimeter am entgleisten Tfz vorbei fuhr, kam es hierbei nicht. Große Teile des Busses blieben nach dem Zusammenprall im Gegengleis liegen. Zug 45722 prallte ca. 20 Sekunden nach dem ersten Zusammenprall, rund 15 Meter vor dem BÜ, auf das Wrack des Busses. Dadurch entgleisten die beiden Tfz des Zuges. Das führende Tfz kam hierbei zunehmend nach rechts von der Fahrbahn ab, fuhr eine Böschung hinab und zerstörte anschließend ein Gartenhaus eines anliegenden Gartengrundstücks. Das nachfolgende Tfz blieb auf dem Bahnkörper stehen. Die nachlaufenden, teils mit Gefahrgut beladenen Wagen entgleisten nicht. Gefahrgut trat nicht aus. Der Bus wurde durch die Kollisionen in mehrere große Teile zerrissen, von denen sich einige auch zwischen beiden Zügen verkeilten. Dies führte dann letztendlich dazu, dass die an 12. und 14. Stelle laufenden Wagen des Zuges 41953 entgleisten und die Wagen einschließlich deren Ladung im mittleren Teil dieses Zuges beschädigt wurden.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
-Bei dem Unfall wurden die TriebfahrzeugfÃ¼hrer (Tf) beider ZÃ¼ge leicht verletzt. Beide Tf und die vier Insassen des Busses standen nach dem Ereignis unter Schock. Durch die Entgleisung beider ZÃ¼ge wurden ca. 400 Meter Gleis erheblich beschÃ¤digt. Teile der BÃœSA wurden zerstÃ¶rt, die Oberleitung wurde heruntergerissen. Die Tfz wurden stark beschÃ¤digt. Der Bus wurde in mehrere groÃŸe Teile zerrissen, die sich teils zwischen den ZÃ¼gen verkeilten und dadurch Wagen und deren Ladung beschÃ¤digten. Das Abgleiten des fÃ¼hrenden Tfz von Zug 45722 vom BahnkÃ¶rper verursachte erhebliche SchÃ¤den auf einem anliegenden GartengrundstÃ¼ck. Ein Gartenhaus wurde dabei vollstÃ¤ndig zerstÃ¶rt. Die DB Netz AG schÃ¤tzte ihre SachschÃ¤den an Bahnanlagen und Leit- und Sicherungstechnik auf ca. 676.000 â‚¬. Durch die DB Schenker Rail AG wurde der voraussichtliche Sachschaden an den Eisenbahnfahrzeugen auf ca. 4.000.000 â‚¬ geschÃ¤tzt. FÃ¼r die SachschÃ¤den am StraÃŸenfahrzeug und im angrenzenden PrivatgrundstÃ¼ck, sowie fÃ¼r Bergungskosten liegen der EUB keine Angaben vor. Es wird daher von einer Gesamtschadenssumme von ca. 5.000.000 Euro ausgegangen.  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Bei dem Unfall wurden die Triebfahrzeugführer (Tf) beider Züge leicht verletzt. Beide Tf und die vier Insassen des Busses standen nach dem Ereignis unter Schock. Durch die Entgleisung beider Züge wurden ca. 400 Meter Gleis erheblich beschädigt. Teile der BÜSA wurden zerstört, die Oberleitung wurde heruntergerissen. Die Tfz wurden stark beschädigt. Der Bus wurde in mehrere große Teile zerrissen, die sich teils zwischen den Zügen verkeilten und dadurch Wagen und deren Ladung beschädigten. Das Abgleiten des führenden Tfz von Zug 45722 vom Bahnkörper verursachte erhebliche Schäden auf einem anliegenden Gartengrundstück. Ein Gartenhaus wurde dabei vollständig zerstört. Die DB Netz AG schätzte ihre Sachschäden an Bahnanlagen und Leit- und Sicherungstechnik auf ca. 676.000 €. Durch die DB Schenker Rail AG wurde der voraussichtliche Sachschaden an den Eisenbahnfahrzeugen auf ca. 4.000.000 € geschätzt. Für die Sachschäden am Straßenfahrzeug und im angrenzenden Privatgrundstück, sowie für Bergungskosten liegen der EUB keine Angaben vor. Es wird daher von einer Gesamtschadenssumme von ca. 5.000.000 Euro ausgegangen.  
 
 # Ursachen des Unfalls  
-Der Fahrer des Busses hatte den BÃœ bei ausgeschalteter BahnÃ¼bergangssicherungsanlage (BÃœSA) befahren. Wegen eines technischen Defekts an seinem Fahrzeug konnte er den Kreuzungsbereich nicht rechtzeitig rÃ¤umen. Bei der AnnÃ¤herung der GÃ¼terzÃ¼ge wurde die BÃœSA eingeschaltet. Systembedingt konnten die Tf ihre ZÃ¼ge nicht mehr anhalten und somit die Zusammenpralle mit dem Bus nicht verhindern. Die Ursache fÃ¼r das Halten des Busses mit an Sicherheit grenzender Wahrscheinlichkeit auf einen technischen Defekt am Fahrzeug zurÃ¼ckzufÃ¼hren. Die beteiligten Mitarbeiter der Eisenbahnen (Tf und Fdl) hatten keine MÃ¶glichkeit das Ereignis abzuwenden. Die BÃœSA hatte einwandfrei funktioniert und den BÃœ damit ordnungsgemÃ¤ÃŸ gesichert.  
+Der Fahrer des Busses hatte den BÜ bei ausgeschalteter Bahnübergangssicherungsanlage (BÜSA) befahren. Wegen eines technischen Defekts an seinem Fahrzeug konnte er den Kreuzungsbereich nicht rechtzeitig räumen. Bei der Annäherung der Güterzüge wurde die BÜSA eingeschaltet. Systembedingt konnten die Tf ihre Züge nicht mehr anhalten und somit die Zusammenpralle mit dem Bus nicht verhindern. Die Ursache für das Halten des Busses mit an Sicherheit grenzender Wahrscheinlichkeit auf einen technischen Defekt am Fahrzeug zurückzuführen. Die beteiligten Mitarbeiter der Eisenbahnen (Tf und Fdl) hatten keine Möglichkeit das Ereignis abzuwenden. Die BÜSA hatte einwandfrei funktioniert und den BÜ damit ordnungsgemäß gesichert.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
-Im Rahmen der Planung und Zulassung von BÃœSA, Eisenbahninfrastrukturunternehmen sollte im Ergebnis einer Risikobetrachtung die Anwendung der technischen BÃœ-Sicherungen gemÃ¤ÃŸ Â§ 11 Abs. 6 EBO konkretisiert und â€“ mit der Zielstellung SchadensausmaÃŸe aufgrund liegengebliebener Fahrzeuge im Gefahrenraum des BÃœ mÃ¶glichst zu minimieren â€“ modifiziert werden. Vor dem Hintergrund des hohen Gefahrenpotenzials, das von im Gefahrenraum des BÃœ liegengebliebenen StraÃŸenfahrzeugen ausgehen kann, sollte insbesondere bei dem Neu- oder Umbau von automatischen BÃœSA, der Einsatz von â€žGefahrenraum â€“ Freimeldeeinrichtungenâ€œ nicht nur bei der technischen Sicherungsart â€žLichtzeichen mit Schrankeâ€œ zur Anwendung kommen, sondern diese oder Ã¤hnlich wirkende Einrichtungen auch bei den weiteren technischen Sicherungsarten â€“ mit der Zielstellung mÃ¶gliche SchadensausmaÃŸe mÃ¶glichst zu minimieren â€“ in Betracht gezogen werden.
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+Im Rahmen der Planung und Zulassung von BÜSA, Eisenbahninfrastrukturunternehmen sollte im Ergebnis einer Risikobetrachtung die Anwendung der technischen BÜ-Sicherungen gemäß § 11 Abs. 6 EBO konkretisiert und – mit der Zielstellung Schadensausmaße aufgrund liegengebliebener Fahrzeuge im Gefahrenraum des BÜ möglichst zu minimieren – modifiziert werden. Vor dem Hintergrund des hohen Gefahrenpotenzials, das von im Gefahrenraum des BÜ liegengebliebenen Straßenfahrzeugen ausgehen kann, sollte insbesondere bei dem Neu- oder Umbau von automatischen BÜSA, der Einsatz von "Gefahrenraum – Freimeldeeinrichtungen" nicht nur bei der technischen Sicherungsart "Lichtzeichen mit Schranke" zur Anwendung kommen, sondern diese oder ähnlich wirkende Einrichtungen auch bei den weiteren technischen Sicherungsarten – mit der Zielstellung mögliche Schadensausmaße möglichst zu minimieren – in Betracht gezogen werden.
 
 ---
 file: 143_Mühlacker.txt
 
-Zugentgleisung, 14.11.2017, MÃ¼hlacker  
+Zugentgleisung, 14.11.2017, Mühlacker  
 
 # Hergang des Unfalls  
-Am 14.11.2017 gegen 13:25 Uhr entgleiste der Zug DPNâ€�L 85229 auf dem Weg von Breiten nach MÃ¼hlacker wÃ¤hrend der Einfahrt in den Bahnhof MÃ¼hlacker auf der Weiche (W) 91.  
-Der Fdl MÃ¼hlacker hatte die EinfahrzugstraÃŸe fÃ¼r DPNâ€�L 85229 vorzeitig aufgelÃ¶st und die im Fahrweg befindliche W 91 unter dem sich bewegenden Schienenfahrzeug umgestellt.  
-Der Tf DPNâ€�L 85229 fuhr am Halt zeigenden Ls W91 vorbei und entgleiste dabei mit dem ersten Drehgestell.  
+Am 14.11.2017 gegen 13:25 Uhr entgleiste der Zug DPN�L 85229 auf dem Weg von Breiten nach Mühlacker während der Einfahrt in den Bahnhof Mühlacker auf der Weiche (W) 91.  
+Der Fdl Mühlacker hatte die Einfahrzugstraße für DPN�L 85229 vorzeitig aufgelöst und die im Fahrweg befindliche W 91 unter dem sich bewegenden Schienenfahrzeug umgestellt.  
+Der Tf DPN�L 85229 fuhr am Halt zeigenden Ls W91 vorbei und entgleiste dabei mit dem ersten Drehgestell.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
-Es traten keine PersonenschÃ¤den ein. Am Triebwagen entstanden SachschÃ¤den in HÃ¶he von ca. 20.000 Euro. An der Infrastruktur entstand nur sehr geringer Schaden, der auf unter 1.000 Euro beziffert wurde.  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Es traten keine Personenschäden ein. Am Triebwagen entstanden Sachschäden in Höhe von ca. 20.000 Euro. An der Infrastruktur entstand nur sehr geringer Schaden, der auf unter 1.000 Euro beziffert wurde.  
 
 # Ursachen des Unfalls  
-Der Fdl MÃ¼hlacker hatte die EinfahrzugstraÃŸe fÃ¼r DPNâ€�L 85229 vorzeitig aufgelÃ¶st und die im Fahrweg befindliche W 91 unter dem sich bewegenden Schienenfahrzeug umgestellt.  
-GemÃ¤ÃŸ Ril 408.0251, Abschnitt 4 (1) muss der Zug zum Halten gekommen sein, bevor eine FahrstraÃŸe aufgelÃ¶st wird. Dies wurde vom Fdl versÃ¤umt.  
-Der Fdl hatte zwingende Voraussetzungen der Ril 408 nicht beachtet, was zur Entgleisung fÃ¼hrte.  
+Der Fdl Mühlacker hatte die Einfahrzugstraße für DPN�L 85229 vorzeitig aufgelöst und die im Fahrweg befindliche W 91 unter dem sich bewegenden Schienenfahrzeug umgestellt.  
+Gemäß Ril 408.0251, Abschnitt 4 (1) muss der Zug zum Halten gekommen sein, bevor eine Fahrstraße aufgelöst wird. Dies wurde vom Fdl versäumt.  
+Der Fdl hatte zwingende Voraussetzungen der Ril 408 nicht beachtet, was zur Entgleisung führte.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
-Der verantwortliche Fdl wurde abgelÃ¶st und einer Nachschulung unterzogen. Nach zusÃ¤tzlichen Einweisungsschichten erfolgte eine erneute EinweisungsprÃ¼fung fÃ¼r das Stw MÃ¼hlacker.  
-Die AblÃ¤ufe der betrieblichen Vorgaben (z.â€¯B. FHT-Bedienung) sollten Ã¼berprÃ¼ft und ggf. ergÃ¤nzt werden, um RegelverstÃ¶ÃŸe zu vermeiden.
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+Der verantwortliche Fdl wurde abgelöst und einer Nachschulung unterzogen. Nach zusätzlichen Einweisungsschichten erfolgte eine erneute Einweisungsprüfung für das Stw Mühlacker.  
+Die Abläufe der betrieblichen Vorgaben (z. B. FHT-Bedienung) sollten überprüft und ggf. ergänzt werden, um Regelverstöße zu vermeiden.
 
 ---
 file: 047_Berlin-Tegel.txt
@@ -2431,84 +2431,84 @@ file: 047_Berlin-Tegel.txt
 Zugentgleisung, 21.08.2012, Berlin-Tegel
 
 # Hergang des Unfalls
-Am 21.08.2012 um 11:42 Uhr kam es auf der Strecke 630, Berlin-SchÃ¶nholz â€“ Tegel â€“ Hennigsdorf, im Bahnhof Tegel in Richtung Hennigsdorf zu einer Entgleisung der S-Bahn, S25068 der Linie 25/5. Dabei entgleisten die beiden in der Zugmitte befindlichen Wagen auf der Weiche 74 im Gleis 1 in km 11, 214.
+Am 21.08.2012 um 11:42 Uhr kam es auf der Strecke 630, Berlin-Schönholz – Tegel – Hennigsdorf, im Bahnhof Tegel in Richtung Hennigsdorf zu einer Entgleisung der S-Bahn, S25068 der Linie 25/5. Dabei entgleisten die beiden in der Zugmitte befindlichen Wagen auf der Weiche 74 im Gleis 1 in km 11, 214.
 
-Nach dem Befahren der Weiche 74 mit den ersten beiden Wagen lief die Weiche 74 unter dem fahrenden Zug vollstÃ¤ndig in die Linkslage um, wodurch die nachfolgenden Fahrzeuge in Richtung Stumpfgleis der Niederbarnimer Eisenbahn abgeleitet wurden. Dabei entgleisten der 3. und 4. Wagen des Zuges mit allen RadsÃ¤tzen und der 3. Wagen kam in SchrÃ¤glage. Der TriebfahrzeugfÃ¼hrer setzte einen Notruf ab.
+Nach dem Befahren der Weiche 74 mit den ersten beiden Wagen lief die Weiche 74 unter dem fahrenden Zug vollständig in die Linkslage um, wodurch die nachfolgenden Fahrzeuge in Richtung Stumpfgleis der Niederbarnimer Eisenbahn abgeleitet wurden. Dabei entgleisten der 3. und 4. Wagen des Zuges mit allen Radsätzen und der 3. Wagen kam in Schräglage. Der Triebfahrzeugführer setzte einen Notruf ab.
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte
+# Höhe des Schadens, Anzahl Tote und Verletzte
 Todesopfer sind keine zu beklagen. 6 Reisende wurden durch die Entgleisung leicht verletzt.
 
-Der Fahrzeugverband bestand aus 3 S-Bahn-ViertelzÃ¼gen mit je 2 Wagen. Die S-Bahn Berlin GmbH machte fÃ¼r die Regulierung der SchÃ¤den an den Fahrzeugen folgende Angaben, wobei diese, Betriebserschwerniskosten und Kosten fÃ¼r Personal und Busnotverkehr enthalten:
-- Fahrzeuge insgesamt ca. 741.000 â‚¬
-- Gleisanlage ca. 500.000 â‚¬
-- Leit- und Sicherungstechnik ca. 65.000 â‚¬
+Der Fahrzeugverband bestand aus 3 S-Bahn-Viertelzügen mit je 2 Wagen. Die S-Bahn Berlin GmbH machte für die Regulierung der Schäden an den Fahrzeugen folgende Angaben, wobei diese, Betriebserschwerniskosten und Kosten für Personal und Busnotverkehr enthalten:
+- Fahrzeuge insgesamt ca. 741.000 €
+- Gleisanlage ca. 500.000 €
+- Leit- und Sicherungstechnik ca. 65.000 €
 
 # Ursachen des Unfalls
-UrsÃ¤chlich fÃ¼r die Entgleisung im Gleis 1 des Bahnhofs Tegel war das Umstellen der Weiche 74 unter dem S-Bahnzug S25068.
+Ursächlich für die Entgleisung im Gleis 1 des Bahnhofs Tegel war das Umstellen der Weiche 74 unter dem S-Bahnzug S25068.
 
-Am 20.08.2012 trat um 16.00 im Stellwerk Tegel des Bahnhofes Berlin-Tegel eine StÃ¶rung der Sicherungsanlagen ein, die offensichtlich durch einen Blitzschlag ausgelÃ¶st wurde. Die zu dieser Zeit arbeitende Fahrdienstleiterin meldete die StÃ¶rung der Betriebszentrale S-Bahn.
+Am 20.08.2012 trat um 16.00 im Stellwerk Tegel des Bahnhofes Berlin-Tegel eine Störung der Sicherungsanlagen ein, die offensichtlich durch einen Blitzschlag ausgelöst wurde. Die zu dieser Zeit arbeitende Fahrdienstleiterin meldete die Störung der Betriebszentrale S-Bahn.
 
-Am 21.08.2012 trat gegen 05:15 Uhr an der BahnÃ¼bergangssicherungsanlage GorkistraÃŸe (Po 5) des Bahnhofes Tegel eine StÃ¶rung ein (Schranken blieben nach einer Zugfahrt geschlossen), die vom Fahrdienstleiter an die EVzS gemeldet und im Arbeits- und StÃ¶rungsbuch nachgewiesen wurde. Die EntstÃ¶rung war zum Zeitpunkt des Unfalles noch nicht abgeschlossen.
+Am 21.08.2012 trat gegen 05:15 Uhr an der Bahnübergangssicherungsanlage Gorkistraße (Po 5) des Bahnhofes Tegel eine Störung ein (Schranken blieben nach einer Zugfahrt geschlossen), die vom Fahrdienstleiter an die EVzS gemeldet und im Arbeits- und Störungsbuch nachgewiesen wurde. Die Entstörung war zum Zeitpunkt des Unfalles noch nicht abgeschlossen.
 
-Die Handlungsweise im StÃ¶rungsfall ist in der Ã¶rtlichen Richtlinie festgelegt, diese lag mit allen aktuellen Berichtigungen vor. Da das Freisein des Gleises 1 und der Weichen fÃ¼r die eingestellte FahrstraÃŸe fÃ¼r Zug S 25068 nicht durch Hinsehen unmittelbar mÃ¶glich war, muss die RÃ¼ckmeldung des Zuges zur DurchfÃ¼hrung der mittelbaren FahrwegprÃ¼fung abgewartet werden. Also erst nach Ankunft des S 25068 im Bf Berlin-Heiligensee erhÃ¤lt der Fdl. Berlin-Tegel die RÃ¼ckmeldung wodurch das Freisein der Weichen im nicht einsehbaren Nordbereich des Bf. Berlin-Tegel bestÃ¤tigt wird.
+Die Handlungsweise im Störungsfall ist in der örtlichen Richtlinie festgelegt, diese lag mit allen aktuellen Berichtigungen vor. Da das Freisein des Gleises 1 und der Weichen für die eingestellte Fahrstraße für Zug S 25068 nicht durch Hinsehen unmittelbar möglich war, muss die Rückmeldung des Zuges zur Durchführung der mittelbaren Fahrwegprüfung abgewartet werden. Also erst nach Ankunft des S 25068 im Bf Berlin-Heiligensee erhält der Fdl. Berlin-Tegel die Rückmeldung wodurch das Freisein der Weichen im nicht einsehbaren Nordbereich des Bf. Berlin-Tegel bestätigt wird.
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle
-Nach RÃ¼cksprache mit der S-Bahn Berlin GmbH wurden personelle MaÃŸnahmen vorgenommen, insbesondere wurden Schulungen und PrÃ¼fungen hinsichtlich des Verhaltens im StÃ¶rungsfall vorgenommen.
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle
+Nach Rücksprache mit der S-Bahn Berlin GmbH wurden personelle Maßnahmen vorgenommen, insbesondere wurden Schulungen und Prüfungen hinsichtlich des Verhaltens im Störungsfall vorgenommen.
 
 ---
 file: 093_Hameln.txt
 
-StÃ¶rung durch betriebliche Fehlhandlung, 24.02.2016, Bahnhof Hameln  
+Störung durch betriebliche Fehlhandlung, 24.02.2016, Bahnhof Hameln  
 # Hergang des Unfalls  
-Am 24.02.2016 kam es gegen 14:31 Uhr und gegen 16:43 Uhr im Gleis 103 des Bahnhofs Hameln je zur gegenseitigen GefÃ¤hrdung der RegionalzÃ¼ge DPN 82971 und DPN 82968, sowie DPN 82975 und DPN 82972 (alle ZÃ¼ge gehÃ¶ren zum EVU: Nordwestbahn GmbH (NWB)).  
-Der fÃ¼r die Zugfahrten zustÃ¤ndige Fahrdienstleiter (Fdl) hatte jeweils die Ausfahrten der Zugfahrten DPN 82971 und DPN 82975 aus dem Bahnhof Hameln mit besonderem Auftrag nach Voldagsen in Richtung der eingleisigen Strecke zugelassen, ohne die hierzu zwingend notwendigen betrieblichen Vorbedingungen erfÃ¼llt zu haben.  
-Im Bahnhof Hameln kreuzen planmÃ¤ÃŸig die RegionalzÃ¼ge der Nordwestbahn GmbH auf der Linie BÃ¼nde (Westf) â€“ Hildesheim Hbf â€“ BÃ¼nde (Westf). Die jeweiligen Zugpaare erreichen den Bahnhof Hameln stÃ¼ndlich zur Minute 27. Der aus Hildesheim Hbf / Voldagsen (letzter Bahnhof vor Hameln) kommende Zug fÃ¤hrt dabei von der eingleisigen Strecke vom Einfahrsignal (Esig) A Ã¼ber die Weichen 5 und 6 nach Gleis 102 bzw. 105, am Zwischensignal (Zsig) R102 bzw. R105 vorbei, nach Gleis 6. Der aus BÃ¼nde (Westf) kommende Zug fÃ¤hrt aus Richtung Hessisch Oldendorf (letzter Bahnhof vor Hameln) nach Gleis 5 ein.  
-Am 24.02.16 fuhr DPN 82971 aus Hessisch Oldendorf um 14:28 Uhr in Hameln ein und hielt am Bahnsteig 5, ca. 75m vor dem Zsig S65. Der aus der Gegenrichtung kommende DPN 82968 war an diesem Tag etwas verspÃ¤tet und zu diesem Zeitpunkt noch nicht in Hameln eingefahren. Wegen einer StÃ¶rung im Streckenblock zwischen Hameln und Voldagsen konnte durch den Fdl Hameln das Asig P103 nicht auf Fahrt gestellt werden. Aus diesem Grund diktierte der Fdl dem TriebfahrzeugfÃ¼hrer (Tf) des am Bahnsteig stehenden Zuges DPN 82971 einen Befehl Nr. 2, der die Vorbeifahrt am Halt zeigenden Asig P10:3, einem nachfolgenden Sperrsignal Ls193I und dem auf der Strecke befindlichen Selbstblocksignal (SBK) 612 zulieÃŸ. AnschlieÃŸend stellte der Fdl die ZugstraÃŸe vom Zsig S65 zum Asig P103 ein und damit das vor dem Zug stehende Zsig S65 auf Fahrt. Hierdurch hatte der Fdl dem Tf des DPN 82971 die Zustimmung zur Ab- und Ausfahrt des Zuges nach Voldagsen erteilt. Zu diesem Zeitpunkt befand sich der aus der Gegenrichtung kommende DPN 82968 noch auf der eingleisigen Strecke. DarÃ¼ber hinaus war der Fahrweg vom Asig P103 in Richtung Voldagsen weder eingestellt noch gesichert. Gegen 14:31 Uhr fuhr DPN 82971 am Bahnsteig in Hameln ab. Kurz darauf fuhr der aus Voldagsen kommende DPN 82968 von der eingleisigen Strecke nach Gleis 105 ein, fÃ¼r den der Fdl zuvor das Einfahrsignal (Esig) A auf Fahrt gestellt hatte. Beide ZÃ¼ge begegneten sich bei der Durchfahrt des Gleises 103 bzw. des Gleises 105. Der Fdl hatte zwischenzeitlich, nachdem er den aus Voldagsen kommenden Zug im Gleis 105 erkannte, den Fahrweg fÃ¼r Zug DPN 82971 vom Asig P103 nach Voldagsen entsprechend eingestellt. Auf vergleichbare Art und Weise verfuhr der Fdl dann ca. zwei Stunden spÃ¤ter bei der Kreuzung der ZÃ¼ge DPN 82975 und DPN 82972. Auch hier erteilte er dem Tf des im Gleis 5 stehenden DPN 82975 den o.g. schriftlichen Befehl und stellte anschlieÃŸend das Zsig S65 auf Fahrt. Dadurch wurde auch diesem Zug die Fahrt auf die eingleisige Strecke erlaubt, obwohl, wie beim ersten Mal, der Gegenzug DPN 82972 noch nicht in den Bahnhof Hameln eingefahren war und der Fahrweg demzufolge fÃ¼r Zug DPN 82975 ab dem Asig P103 nicht eingestellt und gesichert war.  
+Am 24.02.2016 kam es gegen 14:31 Uhr und gegen 16:43 Uhr im Gleis 103 des Bahnhofs Hameln je zur gegenseitigen Gefährdung der Regionalzüge DPN 82971 und DPN 82968, sowie DPN 82975 und DPN 82972 (alle Züge gehören zum EVU: Nordwestbahn GmbH (NWB)).  
+Der für die Zugfahrten zuständige Fahrdienstleiter (Fdl) hatte jeweils die Ausfahrten der Zugfahrten DPN 82971 und DPN 82975 aus dem Bahnhof Hameln mit besonderem Auftrag nach Voldagsen in Richtung der eingleisigen Strecke zugelassen, ohne die hierzu zwingend notwendigen betrieblichen Vorbedingungen erfüllt zu haben.  
+Im Bahnhof Hameln kreuzen planmäßig die Regionalzüge der Nordwestbahn GmbH auf der Linie Bünde (Westf) – Hildesheim Hbf – Bünde (Westf). Die jeweiligen Zugpaare erreichen den Bahnhof Hameln stündlich zur Minute 27. Der aus Hildesheim Hbf / Voldagsen (letzter Bahnhof vor Hameln) kommende Zug fährt dabei von der eingleisigen Strecke vom Einfahrsignal (Esig) A über die Weichen 5 und 6 nach Gleis 102 bzw. 105, am Zwischensignal (Zsig) R102 bzw. R105 vorbei, nach Gleis 6. Der aus Bünde (Westf) kommende Zug fährt aus Richtung Hessisch Oldendorf (letzter Bahnhof vor Hameln) nach Gleis 5 ein.  
+Am 24.02.16 fuhr DPN 82971 aus Hessisch Oldendorf um 14:28 Uhr in Hameln ein und hielt am Bahnsteig 5, ca. 75m vor dem Zsig S65. Der aus der Gegenrichtung kommende DPN 82968 war an diesem Tag etwas verspätet und zu diesem Zeitpunkt noch nicht in Hameln eingefahren. Wegen einer Störung im Streckenblock zwischen Hameln und Voldagsen konnte durch den Fdl Hameln das Asig P103 nicht auf Fahrt gestellt werden. Aus diesem Grund diktierte der Fdl dem Triebfahrzeugführer (Tf) des am Bahnsteig stehenden Zuges DPN 82971 einen Befehl Nr. 2, der die Vorbeifahrt am Halt zeigenden Asig P10:3, einem nachfolgenden Sperrsignal Ls193I und dem auf der Strecke befindlichen Selbstblocksignal (SBK) 612 zuließ. Anschließend stellte der Fdl die Zugstraße vom Zsig S65 zum Asig P103 ein und damit das vor dem Zug stehende Zsig S65 auf Fahrt. Hierdurch hatte der Fdl dem Tf des DPN 82971 die Zustimmung zur Ab- und Ausfahrt des Zuges nach Voldagsen erteilt. Zu diesem Zeitpunkt befand sich der aus der Gegenrichtung kommende DPN 82968 noch auf der eingleisigen Strecke. Darüber hinaus war der Fahrweg vom Asig P103 in Richtung Voldagsen weder eingestellt noch gesichert. Gegen 14:31 Uhr fuhr DPN 82971 am Bahnsteig in Hameln ab. Kurz darauf fuhr der aus Voldagsen kommende DPN 82968 von der eingleisigen Strecke nach Gleis 105 ein, für den der Fdl zuvor das Einfahrsignal (Esig) A auf Fahrt gestellt hatte. Beide Züge begegneten sich bei der Durchfahrt des Gleises 103 bzw. des Gleises 105. Der Fdl hatte zwischenzeitlich, nachdem er den aus Voldagsen kommenden Zug im Gleis 105 erkannte, den Fahrweg für Zug DPN 82971 vom Asig P103 nach Voldagsen entsprechend eingestellt. Auf vergleichbare Art und Weise verfuhr der Fdl dann ca. zwei Stunden später bei der Kreuzung der Züge DPN 82975 und DPN 82972. Auch hier erteilte er dem Tf des im Gleis 5 stehenden DPN 82975 den o.g. schriftlichen Befehl und stellte anschließend das Zsig S65 auf Fahrt. Dadurch wurde auch diesem Zug die Fahrt auf die eingleisige Strecke erlaubt, obwohl, wie beim ersten Mal, der Gegenzug DPN 82972 noch nicht in den Bahnhof Hameln eingefahren war und der Fahrweg demzufolge für Zug DPN 82975 ab dem Asig P103 nicht eingestellt und gesichert war.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
-Bei beiden Ereignissen kam es nicht zu einem Unfall. Es sind daher weder Personen- noch SachschÃ¤den entstanden. FÃ¼r beide Zugpaare bestand jedoch eine konkrete GefÃ¤hrdung, die unter leicht verÃ¤nderten Voraussetzungen zu einem schweren Unfall hÃ¤tten fÃ¼hren kÃ¶nnen.  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Bei beiden Ereignissen kam es nicht zu einem Unfall. Es sind daher weder Personen- noch Sachschäden entstanden. Für beide Zugpaare bestand jedoch eine konkrete Gefährdung, die unter leicht veränderten Voraussetzungen zu einem schweren Unfall hätten führen können.  
 
 # Ursachen des Unfalls  
-Der fÃ¼r die Zugfahrten zustÃ¤ndige Fahrdienstleiter (Fdl) hatte jeweils die Ausfahrten der Zugfahrten DPN 82971 und DPN 82975 aus dem Bahnhof Hameln mit besonderem Auftrag nach Voldagsen in Richtung der eingleisigen Strecke zugelassen, ohne die hierzu zwingend notwendigen betrieblichen Vorbedingungen erfÃ¼llt zu haben.  
-Die grundlegenden Vorbedingungen fÃ¼r das Zulassen der Zugfahrten DPN 82971 und DPN 82975 hatte der Fdl nicht erfÃ¼llt. Er hat somit gleich mehrfach gegen die betrieblichen Regeln der Richtlinie 408, Fahrdienstvorschrift, verstoÃŸen.  
-Der Fdl hat die ZÃ¼ge abgelassen, obwohl diese dem Fdl Voldagsen zuvor nicht angeboten und von diesem folglich nicht angenommen wurden. Beim Nachweisen der Zugmeldungen im Zugmeldebuch machte er falsche Angaben.  
-Bei der Bewertung der Handlungsfehler des Fdl entsteht zwangslÃ¤ufig der Verdacht, dass hier nicht von einem Augenblicksversagen auszugehen ist, sondern vielmehr der Fdl die Zugkreuzungen bewusst so durchfÃ¼hrte. Ein mÃ¶gliches Motiv kÃ¶nnte hierbei eine Beschleunigung der BetriebsablÃ¤ufe zur Verringerung der VerspÃ¤tungszeit sein.  
+Der für die Zugfahrten zuständige Fahrdienstleiter (Fdl) hatte jeweils die Ausfahrten der Zugfahrten DPN 82971 und DPN 82975 aus dem Bahnhof Hameln mit besonderem Auftrag nach Voldagsen in Richtung der eingleisigen Strecke zugelassen, ohne die hierzu zwingend notwendigen betrieblichen Vorbedingungen erfüllt zu haben.  
+Die grundlegenden Vorbedingungen für das Zulassen der Zugfahrten DPN 82971 und DPN 82975 hatte der Fdl nicht erfüllt. Er hat somit gleich mehrfach gegen die betrieblichen Regeln der Richtlinie 408, Fahrdienstvorschrift, verstoßen.  
+Der Fdl hat die Züge abgelassen, obwohl diese dem Fdl Voldagsen zuvor nicht angeboten und von diesem folglich nicht angenommen wurden. Beim Nachweisen der Zugmeldungen im Zugmeldebuch machte er falsche Angaben.  
+Bei der Bewertung der Handlungsfehler des Fdl entsteht zwangsläufig der Verdacht, dass hier nicht von einem Augenblicksversagen auszugehen ist, sondern vielmehr der Fdl die Zugkreuzungen bewusst so durchführte. Ein mögliches Motiv könnte hierbei eine Beschleunigung der Betriebsabläufe zur Verringerung der Verspätungszeit sein.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
-Die DB Netz AG hat das Ereignis ausgewertet und dies regional zum Gegenstand von BelehrungsgesprÃ¤chen fÃ¼r Mitarbeiter auf Stellwerken gemacht. Der betroffene Fdl wird gegenwÃ¤rtig nicht in seiner Funktion eingesetzt.
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+Die DB Netz AG hat das Ereignis ausgewertet und dies regional zum Gegenstand von Belehrungsgesprächen für Mitarbeiter auf Stellwerken gemacht. Der betroffene Fdl wird gegenwärtig nicht in seiner Funktion eingesetzt.
 
 ---
 file: 174_Düsseldorf_Flughafen_Terminal.txt
 
-Zugkollision, 13.11.2014, DÃ¼sseldorf Flughafen Terminal  
+Zugkollision, 13.11.2014, Düsseldorf Flughafen Terminal  
 
 # Hergang des Unfalls  
-Am 13.11.2014 kollidierte gegen 04:18 Uhr der Personenzug S 30601, auf der Fahrt von KÃ¶ln Hbf nach DÃ¼sseldorf Flughafen Terminal, im Bahnhof (Bf) DÃ¼sseldorf Flughafen Terminal mit einem im Lichtraum des Einfahrgleises 882 stehenden KleinwagenanhÃ¤nger (Kla).  
-Die mangelhafte VerstÃ¤ndigung zwischen dem zustÃ¤ndigen Fahrdienstleiter (Fdl) und dem TriebfahrzeugfÃ¼hrer (Tf) eines Schwerkleinwagens (Skl) lÃ¶ste den Eintritt des Ereignisses aus. Der Tf des Skl setzte sein Fahrzeuggespann entgegen der vom Fdl zum Rangieren vorgesehenen Fahrtrichtung in Bewegung. Dabei entgleisten beide Kla auf der stumpf befahrenen Weiche 884. Diese befand sich fÃ¼r die Fahrtrichtung des Skl in der falschen Stellung. Der Zug S 30601 kollidierte mit dem nun im Regellichtraum ihres Fahrweges stehenden fÃ¼hrenden Kla des Skl.  
-Gegen 04:14 Uhr, nach Abschluss der Arbeiten, beabsichtigte der Tf des Skl, zu seinem Heimatbahnhof nach Neuss Gbf zurÃ¼ckzufahren und teilte dies dem Fdl mit. Der Fdl stimmte daraufhin mÃ¼ndlich der Fahrt bis â€žhoch zum Bahnsteigâ€œ zu. Gegen 04:16 Uhr fuhr der Personenzug S 30601 in DÃ¼sseldorf-Unterrath in das Gegengleis nach DÃ¼sseldorf Flughafen Terminal aus. Zwischenzeitlich war auch der Tf des Skl abgefahren. Entgegen der Absicht des Fdl bewegte dieser seinen Fahrzeugverband in Richtung Ls 885weiter in den Bf DÃ¼sseldorf Flughafen Terminal hinein. Der Fahrzeugverband entgleiste auf der Weiche 884. Nachdem der Fdl von dieser Entgleisung erfuhr, setzte er einen Nothaltaufruf fÃ¼r den Zug S 30601 ab. Gegen 04:18 Uhr kollidierte Zug S 30601 mit dem fÃ¼hrenden, im Lichtraum des Einfahrgleises stehenden, Kla des Skl.  
+Am 13.11.2014 kollidierte gegen 04:18 Uhr der Personenzug S 30601, auf der Fahrt von Köln Hbf nach Düsseldorf Flughafen Terminal, im Bahnhof (Bf) Düsseldorf Flughafen Terminal mit einem im Lichtraum des Einfahrgleises 882 stehenden Kleinwagenanhänger (Kla).  
+Die mangelhafte Verständigung zwischen dem zuständigen Fahrdienstleiter (Fdl) und dem Triebfahrzeugführer (Tf) eines Schwerkleinwagens (Skl) löste den Eintritt des Ereignisses aus. Der Tf des Skl setzte sein Fahrzeuggespann entgegen der vom Fdl zum Rangieren vorgesehenen Fahrtrichtung in Bewegung. Dabei entgleisten beide Kla auf der stumpf befahrenen Weiche 884. Diese befand sich für die Fahrtrichtung des Skl in der falschen Stellung. Der Zug S 30601 kollidierte mit dem nun im Regellichtraum ihres Fahrweges stehenden führenden Kla des Skl.  
+Gegen 04:14 Uhr, nach Abschluss der Arbeiten, beabsichtigte der Tf des Skl, zu seinem Heimatbahnhof nach Neuss Gbf zurückzufahren und teilte dies dem Fdl mit. Der Fdl stimmte daraufhin mündlich der Fahrt bis "hoch zum Bahnsteig" zu. Gegen 04:16 Uhr fuhr der Personenzug S 30601 in Düsseldorf-Unterrath in das Gegengleis nach Düsseldorf Flughafen Terminal aus. Zwischenzeitlich war auch der Tf des Skl abgefahren. Entgegen der Absicht des Fdl bewegte dieser seinen Fahrzeugverband in Richtung Ls 885weiter in den Bf Düsseldorf Flughafen Terminal hinein. Der Fahrzeugverband entgleiste auf der Weiche 884. Nachdem der Fdl von dieser Entgleisung erfuhr, setzte er einen Nothaltaufruf für den Zug S 30601 ab. Gegen 04:18 Uhr kollidierte Zug S 30601 mit dem führenden, im Lichtraum des Einfahrgleises stehenden, Kla des Skl.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
-Bei dem Ereignis traten folgende PersonenschÃ¤den ein: Der Tf des Personenzuges erlitt einen Schock.  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Bei dem Ereignis traten folgende Personenschäden ein: Der Tf des Personenzuges erlitt einen Schock.  
 Anzahl Tote: 0  
 Anzahl schwer Verletzte: 0  
 Anzahl leicht Verletzte: 1  
-Tabelle 1: Ãœbersicht der PersonenschÃ¤den  
-Die geschÃ¤tzte HÃ¶he der SachschÃ¤den in Euro setzt sich wie folgt zusammen:  
-geschÃ¤tzte Kosten in Euro  
+Tabelle 1: Übersicht der Personenschäden  
+Die geschätzte Höhe der Sachschäden in Euro setzt sich wie folgt zusammen:  
+geschätzte Kosten in Euro  
 Fahrzeuge: 9.000  
 Infrastruktur: k. A.  
 Dri e: k. A.  
-GesamtschadenshÃ¶he: 9.000  
-Tabelle 2: Ãœbersicht der geschÃ¤tzten SchadenshÃ¶he  
+Gesamtschadenshöhe: 9.000  
+Tabelle 2: Übersicht der geschätzten Schadenshöhe  
 
 # Ursachen des Unfalls  
-Die mangelhafte VerstÃ¤ndigung zwischen dem zustÃ¤ndigen Fahrdienstleiter (Fdl) und dem TriebfahrzeugfÃ¼hrer (Tf) eines Schwerkleinwagens (Skl) lÃ¶ste den Eintritt des Ereignisses aus.  
-Der Tf des Skl setzte sein Fahrzeuggespann entgegen der vom Fdl zum Rangieren vorgesehenen Fahrtrichtung in Bewegung. Dabei entgleisten beide Kla auf der stumpf befahrenen Weiche 884. Diese befand sich fÃ¼r die Fahrtrichtung des Skl in der falschen Stellung.  
-Die Ursache der Zugkollision am 13.11.2014 im Bf DÃ¼sseldorf Flughafen Terminal ist auf Arbeitsfehler des beteiligten Fdl und des Tf des Skl zurÃ¼ckzufÃ¼hren. Die Vorgaben zum FÃ¼hren betriebswichtiger GesprÃ¤che wurden nicht oder nur unzureichend angewandt, wonach mÃ¼ndliche AufrÃ¤ge und Meldungen zu wiederholen sind und die wesentlichen Angaben enthalten sein mÃ¼ssen.  
-Der Tf des Skl glaubte, dass er mit der Erlaubnis, â€žzum Bahnsteig hochkommenâ€œ kÃ¶nne, von der Arbeitsstelle durch den Tunnel und â€žhochâ€œ bis an den Bahnsteig in DÃ¼sseldorf-Unterrath fahren wÃ¼rde. Der Fdl hatte jedoch nicht gemeint, dass eine Rangierfahrt in die Richtung des Signals N881 erlaubt sei.  
-Die Aussage des Fdl, dass der Tf â€žzum Bahnsteig hochkommen kÃ¶nneâ€œ, wurde offensichtlich als Zusage zu einer Rangierfahrt gewertet. Aufgrund der Tatsache, dass das Streckengleis nach DÃ¼sseldorf Unterrath nicht zum Baugleis erklÃ¤rt worden war und folglich keine Rangierfahrten im Streckengleis betrieblich zulÃ¤ssig waren, ist davon auszugehen, dass der Fdl dieses GesprÃ¤ch nicht als Zusage zu einer Rangierfahrt respektive Sperrfahrt in Richtung Bf DÃ¼sseldorf Flughafen Terminal ansah.  
+Die mangelhafte Verständigung zwischen dem zuständigen Fahrdienstleiter (Fdl) und dem Triebfahrzeugführer (Tf) eines Schwerkleinwagens (Skl) löste den Eintritt des Ereignisses aus.  
+Der Tf des Skl setzte sein Fahrzeuggespann entgegen der vom Fdl zum Rangieren vorgesehenen Fahrtrichtung in Bewegung. Dabei entgleisten beide Kla auf der stumpf befahrenen Weiche 884. Diese befand sich für die Fahrtrichtung des Skl in der falschen Stellung.  
+Die Ursache der Zugkollision am 13.11.2014 im Bf Düsseldorf Flughafen Terminal ist auf Arbeitsfehler des beteiligten Fdl und des Tf des Skl zurückzuführen. Die Vorgaben zum Führen betriebswichtiger Gespräche wurden nicht oder nur unzureichend angewandt, wonach mündliche Aufräge und Meldungen zu wiederholen sind und die wesentlichen Angaben enthalten sein müssen.  
+Der Tf des Skl glaubte, dass er mit der Erlaubnis, "zum Bahnsteig hochkommen" könne, von der Arbeitsstelle durch den Tunnel und "hoch" bis an den Bahnsteig in Düsseldorf-Unterrath fahren würde. Der Fdl hatte jedoch nicht gemeint, dass eine Rangierfahrt in die Richtung des Signals N881 erlaubt sei.  
+Die Aussage des Fdl, dass der Tf "zum Bahnsteig hochkommen könne", wurde offensichtlich als Zusage zu einer Rangierfahrt gewertet. Aufgrund der Tatsache, dass das Streckengleis nach Düsseldorf Unterrath nicht zum Baugleis erklärt worden war und folglich keine Rangierfahrten im Streckengleis betrieblich zulässig waren, ist davon auszugehen, dass der Fdl dieses Gespräch nicht als Zusage zu einer Rangierfahrt respektive Sperrfahrt in Richtung Bf Düsseldorf Flughafen Terminal ansah.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
 Es wurden keine Sicherheitsempfehlungen ausgesprochen.
 
 ---
@@ -2517,157 +2517,157 @@ file: 171_Ruhland.txt
 Vorbeifahrt eines Zuges am Haltbegriff, 24.04.2015, Ruhland
 
 # Hergang des Unfalls
-Am 24.04.2015 gegen 22:45 Uhr fuhr der Zug DGS 95312 auf der Fahrt von StraÃŸgrÃ¤bchen-Bernsdorf (Oberlausitz) nach Consrade unzulÃ¤ssig am Halt zeigenden Ausfahrsignal (Asig) F5 des Bahnhofs (Bf) Ruhland vorbei und gefÃ¤hrdete dadurch die Zugfahrt Bauz 63009. Beide ZÃ¼ge wurden durch Nothaltauftrag gestellt und kamen ca. 25 m voneinander entfernt zum Halten.  
-Der Fdl auf dem Befehlsstellwerk B1 im Bf Ruhland gab an, dass der DGS 95312 aus Richtung Schwarzbach kommend gegen 22:37 Uhr Einfahrt nach Gleis 5 erhielt. Dieser Zug sollte im Bf Ruhland mit dem aus Lauchhammer kommenden Bauz 63009 kreuzen. Der Fdl erklÃ¤rte, dass er nach Ankunft des DGS 95312 die FahrstraÃŸe fÃ¼r den Bauz 63009 zur Durchfahrt Ã¼ber Gleis 7 eingestellt habe. AnschlieÃŸend habe er bemerkt, dass der DGS 95312 am Haltzeigenden Signal F5 vorbei- und auf die DKW 7 zugefahren wÃ¤re, die bereits fÃ¼r die Durchfahrt des Bauz 63009 gestellt gewesen sei. Er habe nun die WeichenwÃ¤rterin (Ww) beauftragt, den DGS 95312 mit Signal Sh 3 (Kreissignal) zu stoppen, wÃ¤hrend er selbst Ã¼ber Zugfunk einen Nothaltauftrag gegeben habe.  
-Die Ww auf dem WÃ¤rterstellwerk W2 im Bf Ruhland sagte aus, dass sie gegen 22:43 Uhr die Einfahrt des DGS 95312 auf Gleis 5 des Bf Ruhland beobachtet habe. Sie sei davon ausgegangen, dass der DGS 95312 vor dem Asig stehen bleiben wÃ¼rde. Nachdem sie bemerkt hatte, dass der DGS 95312 am haltzeigenden Signal F5 vorbeigefahren sei, habe sie unter Zuhilfenahme einer Lampe das Signal Sh 3 ausgefÃ¼hrt und den DGS 95312 zum Halt aufgefordert.  
-Der Tf des DGS 95312 erklÃ¤rte, er sei gegen 22:45 Uhr in den Bf Ruhland eingefahren. Er habe etwa eine LÃ¤nge vor dem das Signalbild Hp 0 zeigenden Asig F5 das Zusatzsignal Zs 6 erkannt und geglaubt, er kÃ¶nne mit Ersatzsignal Zs 1 in das Gegengleis fahren. AnschlieÃŸend habe er die Befehlstaste gedrÃ¼ckt und sei am Signal F5 vorbeigerollt. Dann habe er das Kreissignal im Fenster des Fdl erkannt und angehalten. Ihm sei sofort bewusst gewesen, dass er etwas falsch gemacht habe. Nach dem Halt habe er Ã¼ber Zugfunk den Nothaltauftrag des Fdl empfangen und nach ÃœberprÃ¼fung der durch ihn aufgefahrenen Weiche den Zug zurÃ¼ckgesetzt und mit Zustimmung seines EVU und des Nothelfers seine Fahrt fortgesetzt.
+Am 24.04.2015 gegen 22:45 Uhr fuhr der Zug DGS 95312 auf der Fahrt von Straßgräbchen-Bernsdorf (Oberlausitz) nach Consrade unzulässig am Halt zeigenden Ausfahrsignal (Asig) F5 des Bahnhofs (Bf) Ruhland vorbei und gefährdete dadurch die Zugfahrt Bauz 63009. Beide Züge wurden durch Nothaltauftrag gestellt und kamen ca. 25 m voneinander entfernt zum Halten.  
+Der Fdl auf dem Befehlsstellwerk B1 im Bf Ruhland gab an, dass der DGS 95312 aus Richtung Schwarzbach kommend gegen 22:37 Uhr Einfahrt nach Gleis 5 erhielt. Dieser Zug sollte im Bf Ruhland mit dem aus Lauchhammer kommenden Bauz 63009 kreuzen. Der Fdl erklärte, dass er nach Ankunft des DGS 95312 die Fahrstraße für den Bauz 63009 zur Durchfahrt über Gleis 7 eingestellt habe. Anschließend habe er bemerkt, dass der DGS 95312 am Haltzeigenden Signal F5 vorbei- und auf die DKW 7 zugefahren wäre, die bereits für die Durchfahrt des Bauz 63009 gestellt gewesen sei. Er habe nun die Weichenwärterin (Ww) beauftragt, den DGS 95312 mit Signal Sh 3 (Kreissignal) zu stoppen, während er selbst über Zugfunk einen Nothaltauftrag gegeben habe.  
+Die Ww auf dem Wärterstellwerk W2 im Bf Ruhland sagte aus, dass sie gegen 22:43 Uhr die Einfahrt des DGS 95312 auf Gleis 5 des Bf Ruhland beobachtet habe. Sie sei davon ausgegangen, dass der DGS 95312 vor dem Asig stehen bleiben würde. Nachdem sie bemerkt hatte, dass der DGS 95312 am haltzeigenden Signal F5 vorbeigefahren sei, habe sie unter Zuhilfenahme einer Lampe das Signal Sh 3 ausgeführt und den DGS 95312 zum Halt aufgefordert.  
+Der Tf des DGS 95312 erklärte, er sei gegen 22:45 Uhr in den Bf Ruhland eingefahren. Er habe etwa eine Länge vor dem das Signalbild Hp 0 zeigenden Asig F5 das Zusatzsignal Zs 6 erkannt und geglaubt, er könne mit Ersatzsignal Zs 1 in das Gegengleis fahren. Anschließend habe er die Befehlstaste gedrückt und sei am Signal F5 vorbeigerollt. Dann habe er das Kreissignal im Fenster des Fdl erkannt und angehalten. Ihm sei sofort bewusst gewesen, dass er etwas falsch gemacht habe. Nach dem Halt habe er über Zugfunk den Nothaltauftrag des Fdl empfangen und nach Überprüfung der durch ihn aufgefahrenen Weiche den Zug zurückgesetzt und mit Zustimmung seines EVU und des Nothelfers seine Fahrt fortgesetzt.
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte
-Bei dem Ereignis wurden keine Personen verletzt oder getÃ¶tet. Die doppelte Kreuzungsweiche (DKW) 7 wurde aufgefahren. SachschÃ¤den an der vorhandenen Infrastruktur oder an den beteiligten Fahrzeugen entstanden nicht.
+# Höhe des Schadens, Anzahl Tote und Verletzte
+Bei dem Ereignis wurden keine Personen verletzt oder getötet. Die doppelte Kreuzungsweiche (DKW) 7 wurde aufgefahren. Sachschäden an der vorhandenen Infrastruktur oder an den beteiligten Fahrzeugen entstanden nicht.
 
 # Ursachen des Unfalls
-Das Ereignis wurde durch einen VerstoÃŸ gegen die Richtlinie (Ril) 301 - Signalbuch ausgelÃ¶st.  
-Die Ursache fÃ¼r das Ereignis war ein Arbeitsfehler des Tf des DGS 95312, der am Halt zeigenden Asig F5 ohne Zustimmung des Fdl vorbeifuhr.  
-Die AuslÃ¶sung einer Zwangsbremsung durch den am Asig F5 liegenden 2.000 Hz-Magneten wurde durch den Tf mit der im Fahrtverlauf nachgewiesenen BetÃ¤tigung der Befehlstaste verhindert.  
-Die Untersuchung der bautechnischen Infrastruktur, der Leit- und Sicherungstechnik sowie der betrieblichen AblÃ¤ufe ergab keine ursÃ¤chlichen oder begÃ¼nstigenden MÃ¤ngel.
+Das Ereignis wurde durch einen Verstoß gegen die Richtlinie (Ril) 301 - Signalbuch ausgelöst.  
+Die Ursache für das Ereignis war ein Arbeitsfehler des Tf des DGS 95312, der am Halt zeigenden Asig F5 ohne Zustimmung des Fdl vorbeifuhr.  
+Die Auslösung einer Zwangsbremsung durch den am Asig F5 liegenden 2.000 Hz-Magneten wurde durch den Tf mit der im Fahrtverlauf nachgewiesenen Betätigung der Befehlstaste verhindert.  
+Die Untersuchung der bautechnischen Infrastruktur, der Leit- und Sicherungstechnik sowie der betrieblichen Abläufe ergab keine ursächlichen oder begünstigenden Mängel.
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle
 Durch die BEU ergehen keine Sicherheitsempfehlungen.  
-Nach den bei der BEU vorliegenden Informationen wurden weder seitens des EVU noch des EIU in der unmittelbaren Folge des Ereignisses MaÃŸnahmen getroffen.  
-Zum Zeitpunkt des gefÃ¤hrlichen Ereignisses gab es bereits Planungen fÃ¼r ein elektronisches Stellwerk im Bf Ruhland, das in die Unterzentrale Hoyerswerda integriert werden sollte. Im Jahr 2018 erfolgte die Inbetriebnahme.
+Nach den bei der BEU vorliegenden Informationen wurden weder seitens des EVU noch des EIU in der unmittelbaren Folge des Ereignisses Maßnahmen getroffen.  
+Zum Zeitpunkt des gefährlichen Ereignisses gab es bereits Planungen für ein elektronisches Stellwerk im Bf Ruhland, das in die Unterzentrale Hoyerswerda integriert werden sollte. Im Jahr 2018 erfolgte die Inbetriebnahme.
 
 ---
 file: 141_Recklinghausen_Ost.txt
 
-GefÃ¤hrliches Ereignis im Eisenbahnbetrieb  
+Gefährliches Ereignis im Eisenbahnbetrieb  
 Zugentgleisung, 05.01.2013, Recklinghausen Ost  
 
 # Hergang des Unfalls  
-Der GÃ¼terzug DGS 95748 des EVU HSL Logistik GmbH befand sich am 05.01.2013 auf der Fahrt von Neuss Gbf nach Bad Schandau Ost. WÃ¤hrend der Einfahrt in den Bahnhof Recklinghausen Ost entgleisten gegen 16:32 Uhr, bei einer Geschwindigkeit von ca. 55 km/h, zwei leere Kesselwagen, die sich in Fahrtrichtung an sechster und siebter Stelle im Zugverband befanden. Die Entgleisungspuren wurden kurz hinter der BrÃ¼cke OvelgÃ¶nnestraÃŸe (km 4,75) gefunden. Der Zug war aus 25 leeren Kesselwagen gebildet.  
+Der Güterzug DGS 95748 des EVU HSL Logistik GmbH befand sich am 05.01.2013 auf der Fahrt von Neuss Gbf nach Bad Schandau Ost. Während der Einfahrt in den Bahnhof Recklinghausen Ost entgleisten gegen 16:32 Uhr, bei einer Geschwindigkeit von ca. 55 km/h, zwei leere Kesselwagen, die sich in Fahrtrichtung an sechster und siebter Stelle im Zugverband befanden. Die Entgleisungspuren wurden kurz hinter der Brücke Ovelgönnestraße (km 4,75) gefunden. Der Zug war aus 25 leeren Kesselwagen gebildet.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
-Bei dem Ereignis wurde niemand verletzt. Die SachschÃ¤den setzten sich wie folgt zusammen:  
-- **Kesselwagen**: ca. 50.000 â‚¬  
-- **Fahrbahn**: ca. 700.000 â‚¬  
-- **Leit- und Sicherungstechnik**: ca. 25.000 â‚¬  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Bei dem Ereignis wurde niemand verletzt. Die Sachschäden setzten sich wie folgt zusammen:  
+- **Kesselwagen**: ca. 50.000 €  
+- **Fahrbahn**: ca. 700.000 €  
+- **Leit- und Sicherungstechnik**: ca. 25.000 €  
 
 # Ursachen des Unfalls  
-Ein fehlerhafter Einbau von BrÃ¼ckenquerbalken fÃ¼hrte zu unzulÃ¤ssigen Abweichungen der Gleislage. Im Zusammenwirken mit einer weiteren GleislagestÃ¶rung, resultierend aus instabilem Unterbau an einem BrÃ¼ckenwiderlager, fÃ¼hrten diese OberbaumÃ¤ngel zur Entgleisung der beiden Wagen.  
-- **SchlÃ¼sselursache**: Falsche Installation der BrÃ¼ckenbalken im April 2011, die zu unzulÃ¤ssigen Gleislagefehlern (Verwindung und gegenseitige HÃ¶henlage) fÃ¼hrte.  
-- **Weitere Faktoren**: Instabile Unterbau an dem westlichen BrÃ¼ckenwiderlager, fehlende ordnungsgemÃ¤ÃŸe Instandsetzung nach der GrenzwertÃ¼berschreitung im April 2012 (nur Handstopfarbeiten, keine Sperrung), und unzulÃ¤ssige Nachbesserungsarbeiten nach der Entgleisung, die den ursprÃ¼nglichen Zustand verÃ¤nderten.  
+Ein fehlerhafter Einbau von Brückenquerbalken führte zu unzulässigen Abweichungen der Gleislage. Im Zusammenwirken mit einer weiteren Gleislagestörung, resultierend aus instabilem Unterbau an einem Brückenwiderlager, führten diese Oberbaumängel zur Entgleisung der beiden Wagen.  
+- **Schlüsselursache**: Falsche Installation der Brückenbalken im April 2011, die zu unzulässigen Gleislagefehlern (Verwindung und gegenseitige Höhenlage) führte.  
+- **Weitere Faktoren**: Instabile Unterbau an dem westlichen Brückenwiderlager, fehlende ordnungsgemäße Instandsetzung nach der Grenzwertüberschreitung im April 2012 (nur Handstopfarbeiten, keine Sperrung), und unzulässige Nachbesserungsarbeiten nach der Entgleisung, die den ursprünglichen Zustand veränderten.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
-- **Verbesserung der QualitÃ¤tssicherung bei Bauarbeiten**: Fehlereinbau von Bauteilen (z. B. BrÃ¼ckenbalken) muss bei der Abnahme und Inbetriebnahme erkannt und korrigiert werden.  
-- **DurchfÃ¼hrung von Sperrungen bei GrenzwertÃ¼berschreitungen**: Nachweislich wurde die DB Richtlinie 821 verletzt, indem bei GrenzwertÃ¼berschreitungen keine Sperrung erfolgte, sondern lediglich eine Langsamfahrstelle eingerichtet.  
-- **Dokumentation von InstandsetzungsmaÃŸnahmen**: Nachweis der durchgefÃ¼hrten Arbeiten (z. B. Abnahmeprotokolle) ist erforderlich, um die Einhaltung von Vorgaben sicherzustellen.  
-- **RegelmÃ¤ÃŸige PrÃ¼fungen und MesstÃ¤tigkeiten**: UnregelmÃ¤ÃŸigkeiten im Oberbau (z. B. Verwindung, HÃ¶henlage) sind durch kontinuierliche Messfahrten (z. B. mit GMTZ/Railab) zu Ã¼berwachen und gegebenenfalls zu beheben.  
-- **Bessere Kommunikation zwischen Betreiber und Untersuchungsstellen**: Die Nachweisbarkeit von MÃ¤ngeln und deren Korrektur ist kritisch fÃ¼r die Sicherheit.  
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+- **Verbesserung der Qualitätssicherung bei Bauarbeiten**: Fehlereinbau von Bauteilen (z. B. Brückenbalken) muss bei der Abnahme und Inbetriebnahme erkannt und korrigiert werden.  
+- **Durchführung von Sperrungen bei Grenzwertüberschreitungen**: Nachweislich wurde die DB Richtlinie 821 verletzt, indem bei Grenzwertüberschreitungen keine Sperrung erfolgte, sondern lediglich eine Langsamfahrstelle eingerichtet.  
+- **Dokumentation von Instandsetzungsmaßnahmen**: Nachweis der durchgeführten Arbeiten (z. B. Abnahmeprotokolle) ist erforderlich, um die Einhaltung von Vorgaben sicherzustellen.  
+- **Regelmäßige Prüfungen und Messtätigkeiten**: Unregelmäßigkeiten im Oberbau (z. B. Verwindung, Höhenlage) sind durch kontinuierliche Messfahrten (z. B. mit GMTZ/Railab) zu überwachen und gegebenenfalls zu beheben.  
+- **Bessere Kommunikation zwischen Betreiber und Untersuchungsstellen**: Die Nachweisbarkeit von Mängeln und deren Korrektur ist kritisch für die Sicherheit.  
 
-Bisher getroffene MaÃŸnahmen: Im Februar 2013 wurde der regelkonforme Zustand des Oberbaus im betroffenen Bereich wiederhergestellt.
+Bisher getroffene Maßnahmen: Im Februar 2013 wurde der regelkonforme Zustand des Oberbaus im betroffenen Bereich wiederhergestellt.
 
 ---
 file: 147_Buxtehude_-_Horneburg.txt
 
-BahnÃ¼bergangsunfall, 16.09.2015, Buxtehude - Horneburg  
+Bahnübergangsunfall, 16.09.2015, Buxtehude - Horneburg  
 # Hergang des Unfalls  
-Am 16.09.2015 gegen 07:43 Uhr prallte der Nahverkehrszug DPN 83467 des Eisenbahnverkehrsunternehmens (EVU) Metronom Eisenbahngesellschaft mbH auf dem Laufweg Hamburg Hbf âˆ’ Cuxhaven zwischen den Betriebsstellen Buxtehude und Horneburg auf dem technisch gesicherten BahnÃ¼bergang (BÃœ) mit einem Gelenkbus zusammen.  
-Der Zug 83467 des EVU Metronom Eisenbahngesellschaft mbH befuhr am Ereignistag, 16.09.2015, das Regelgleis der Strecke 1720 von Buxtehude in Richtung Horneburg. Der Tf beschleunigte den Zug nach dem letzten planmÃ¤ÃŸigen Halt in Buxtehude bis auf eine Geschwindigkeit von ca. 138 km/h. Der Gelenkbus â€žKOM 977â€œ (amtl. Kennzeichen: LG-KV 977) der KVG Stade GmbH & Co. KG befuhr im Ortsteil Buxtehude-Hedendorf in nÃ¶rdlicher Richtung die MÃ¼hlenkampstraÃŸe, um hinter dem BÃœ (â€žMÃ¼hlenkampstraÃŸeâ€œ / Bahnkilometer 195,138) nach rechts in die StraÃŸe â€žAm MÃ¼hlenbachâ€œ abzubiegen. Der Gelenkbus war zur BefÃ¶rderung von SchÃ¼lern auf einer Umleitungsstrecke zur Schule eingesetzt. Am Ereignistag war der KOM 977 mit etwa 60 SchÃ¼lern besetzt. Im Bereich des BÃœ kam der Gelenkbus so zum Halten, dass das Heck noch in das Regellichtraumprofil der Eisenbahnstrecke hineinragte. Etwa in Streckenkilometer 194,617 und somit etwa 520 m vor dem BÃœ, hatte der Tf offensichtlich den sich auf dem BÃœ befindlichen Gelenkbus erkannt und mit dem Einleiten einer Schnellbremsung reagiert. Der Tf setzte bei AnnÃ¤herung an den BÃœ einen langen Achtungspfiff -Zp 1-ab. Auf dem BÃœ prallte der Zug mit dem Gelenkbus zusammen. Nach einem Anhalteweg von etwa 560 m kam der Zug etwa in Streckenkilometer 195,177 zum Stehen.  
+Am 16.09.2015 gegen 07:43 Uhr prallte der Nahverkehrszug DPN 83467 des Eisenbahnverkehrsunternehmens (EVU) Metronom Eisenbahngesellschaft mbH auf dem Laufweg Hamburg Hbf − Cuxhaven zwischen den Betriebsstellen Buxtehude und Horneburg auf dem technisch gesicherten Bahnübergang (BÜ) mit einem Gelenkbus zusammen.  
+Der Zug 83467 des EVU Metronom Eisenbahngesellschaft mbH befuhr am Ereignistag, 16.09.2015, das Regelgleis der Strecke 1720 von Buxtehude in Richtung Horneburg. Der Tf beschleunigte den Zug nach dem letzten planmäßigen Halt in Buxtehude bis auf eine Geschwindigkeit von ca. 138 km/h. Der Gelenkbus "KOM 977" (amtl. Kennzeichen: LG-KV 977) der KVG Stade GmbH & Co. KG befuhr im Ortsteil Buxtehude-Hedendorf in nördlicher Richtung die Mühlenkampstraße, um hinter dem BÜ ("Mühlenkampstraße" / Bahnkilometer 195,138) nach rechts in die Straße "Am Mühlenbach" abzubiegen. Der Gelenkbus war zur Beförderung von Schülern auf einer Umleitungsstrecke zur Schule eingesetzt. Am Ereignistag war der KOM 977 mit etwa 60 Schülern besetzt. Im Bereich des BÜ kam der Gelenkbus so zum Halten, dass das Heck noch in das Regellichtraumprofil der Eisenbahnstrecke hineinragte. Etwa in Streckenkilometer 194,617 und somit etwa 520 m vor dem BÜ, hatte der Tf offensichtlich den sich auf dem BÜ befindlichen Gelenkbus erkannt und mit dem Einleiten einer Schnellbremsung reagiert. Der Tf setzte bei Annäherung an den BÜ einen langen Achtungspfiff -Zp 1-ab. Auf dem BÜ prallte der Zug mit dem Gelenkbus zusammen. Nach einem Anhalteweg von etwa 560 m kam der Zug etwa in Streckenkilometer 195,177 zum Stehen.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
-Bei dem Ereignis wurden drei Personen leicht verletzt. Es entstand Sachschaden an der Bahnanlage und den Eisenbahn- und StraÃŸenfahrzeugen in HÃ¶he von 1.360.000 Euro.  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Bei dem Ereignis wurden drei Personen leicht verletzt. Es entstand Sachschaden an der Bahnanlage und den Eisenbahn- und Straßenfahrzeugen in Höhe von 1.360.000 Euro.  
 Anzahl Tote: -  
 Anzahl schwer Verletzte: -  
 Anzahl leicht Verletzte: 3 (2 Mitarbeiter, 1 Reisender)  
-GesamtschadenshÃ¶he: 1.360.000 Euro  
+Gesamtschadenshöhe: 1.360.000 Euro  
 
 # Ursachen des Unfalls  
-Durch einen Fahrfehler der Busfahrerin, der von der Ã¶rtlichen StraÃŸenfÃ¼hrung begÃ¼nstigt wurde, kam der Gelenkbus bei ausgeschalteter BahnÃ¼bergangssicherungsanlage (BÃœSA) auf dem BÃœ zum Halten. Es gelang der Fahrerin nicht, den BÃœ rechtzeitig zu rÃ¤umen.  
-Ein geringer Fahrfehler der Busfahrerin beim Anfahren der hinter dem BÃœ liegenden scharfen Rechtskurve in die StraÃŸe â€žAm MÃ¼hlenbachâ€œ fÃ¼hrte dazu, dass der Bus auf dem Gleis stehen blieb. Das anschlieÃŸende ZurÃ¼cksetzen der Fahrerin, mit dem Ziel erneut an die Kurve heranzufahren, verhinderte der im Gelenkbus verbaute Knickschutz. Dadurch wurde das erneute Anfahren fahrzeugseitig blockiert. MÃ¶glicherweise wurde in dieser Situation von der Fahrerin fÃ¤lschlicherweise angenommen, dass der Motor aus sei. Die GerÃ¤uschkulisse durch die anwesenden FahrgÃ¤ste fÃ¼hrte vermutlich dazu, dass sie die MotorgerÃ¤usche nicht wahrnahm.  
-Die Verkehrszeichenregelung hÃ¤tte den Bus den BahnÃ¼bergang grundsÃ¤tzlich nicht befahren lassen dÃ¼rfen. Eine Eignung als Umleitungsstrecke war aufgrund der nicht ausreichenden Schleppkurve nicht gegeben.  
+Durch einen Fahrfehler der Busfahrerin, der von der örtlichen Straßenführung begünstigt wurde, kam der Gelenkbus bei ausgeschalteter Bahnübergangssicherungsanlage (BÜSA) auf dem BÜ zum Halten. Es gelang der Fahrerin nicht, den BÜ rechtzeitig zu räumen.  
+Ein geringer Fahrfehler der Busfahrerin beim Anfahren der hinter dem BÜ liegenden scharfen Rechtskurve in die Straße "Am Mühlenbach" führte dazu, dass der Bus auf dem Gleis stehen blieb. Das anschließende Zurücksetzen der Fahrerin, mit dem Ziel erneut an die Kurve heranzufahren, verhinderte der im Gelenkbus verbaute Knickschutz. Dadurch wurde das erneute Anfahren fahrzeugseitig blockiert. Möglicherweise wurde in dieser Situation von der Fahrerin fälschlicherweise angenommen, dass der Motor aus sei. Die Geräuschkulisse durch die anwesenden Fahrgäste führte vermutlich dazu, dass sie die Motorgeräusche nicht wahrnahm.  
+Die Verkehrszeichenregelung hätte den Bus den Bahnübergang grundsätzlich nicht befahren lassen dürfen. Eine Eignung als Umleitungsstrecke war aufgrund der nicht ausreichenden Schleppkurve nicht gegeben.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
 Es wurden keine Sicherheitsempfehlungen ausgesprochen.  
-Keine MaÃŸnahmen wurden nach dem Ereignis durch die beteiligten Eisenbahnunternehmen oder die SicherheitsbehÃ¶rde getroffen.
+Keine Maßnahmen wurden nach dem Ereignis durch die beteiligten Eisenbahnunternehmen oder die Sicherheitsbehörde getroffen.
 
 ---
 file: 061_Voerde_-_Dinslaken.txt
 
-Zugentgleisung, 25.03.2010, Ãœst Voerde - Bf. Dinslaken  
+Zugentgleisung, 25.03.2010, Üst Voerde - Bf. Dinslaken  
 
 # Hergang des Unfalls  
-Am 25.03.2010 verkehrte der GÃ¼terzug CIL 48741 von Rotterdam-Maasvlakte (Niederlande) nach Dillingen im Saarland. Der Zug bestand aus 44 beladenen Kohlenstaubwagen (Falns) und zwei Zuglokomotiven der Baureihe 189. Als sich der Zug auf der Strecke 2270 dem Bf Dinslaken im Regelgleis nÃ¤herte, entgleiste der vorlaufende Radsatz am vorderen Drehgestells des 13. Wagens (81 80 6643 352-0) im km 15,600, infolge eines Bruchs des rechten Wellenschenkels, in Fahrtrichtung nach rechts. Dabei fiel das zugehÃ¶rige Achslager vom Fahrzeug ab und blieb ca. 65 m hinter der Entgleisungsstelle rechts neben dem Gleis, nur wenige Meter hinter der StraÃŸenÃ¼berfÃ¼hrung â€žDianastraÃŸeâ€œ, liegen. Der TriebfahrzeugfÃ¼hrer (Tf) bemerkte die Entgleisung nicht. Offenbar gleiste sich im Bereich der Weiche 365 des Bf Dinslaken der Radsatz nach einem Fahrweg von ca. 1500 m, ca. in km 14,1, selbsttÃ¤tig wieder ein, so dass zunÃ¤chst keine weiteren Entgleisungsspuren erkennbar waren. Im Bereich der Abzweigstelle (Abzw) Obn ging die Zugfahrt auf die Strecke 2321 (Oberhausen Hbf Obn â€“ Duisburg-Wedau) Ã¼ber. WÃ¤hrend der anschlieÃŸenden Einfahrt in den Bahnhof Oberhausen West entgleiste dann der Wagen im km 13,110 erneut. Infolge dieser zweiten Entgleisung kam es neben den BeschÃ¤digungen am Oberbau auch zur Zugtrennung und somit zu einer Zwangsbremsung. Der Zug kam daraufhin nach wenigen Metern zum Stillstand. Das unfallverursachende Fahrzeug kam dabei etwa in HÃ¶he des Stellwerks Oro zum Halten.  
+Am 25.03.2010 verkehrte der Güterzug CIL 48741 von Rotterdam-Maasvlakte (Niederlande) nach Dillingen im Saarland. Der Zug bestand aus 44 beladenen Kohlenstaubwagen (Falns) und zwei Zuglokomotiven der Baureihe 189. Als sich der Zug auf der Strecke 2270 dem Bf Dinslaken im Regelgleis näherte, entgleiste der vorlaufende Radsatz am vorderen Drehgestells des 13. Wagens (81 80 6643 352-0) im km 15,600, infolge eines Bruchs des rechten Wellenschenkels, in Fahrtrichtung nach rechts. Dabei fiel das zugehörige Achslager vom Fahrzeug ab und blieb ca. 65 m hinter der Entgleisungsstelle rechts neben dem Gleis, nur wenige Meter hinter der Straßenüberführung "Dianastraße", liegen. Der Triebfahrzeugführer (Tf) bemerkte die Entgleisung nicht. Offenbar gleiste sich im Bereich der Weiche 365 des Bf Dinslaken der Radsatz nach einem Fahrweg von ca. 1500 m, ca. in km 14,1, selbsttätig wieder ein, so dass zunächst keine weiteren Entgleisungsspuren erkennbar waren. Im Bereich der Abzweigstelle (Abzw) Obn ging die Zugfahrt auf die Strecke 2321 (Oberhausen Hbf Obn – Duisburg-Wedau) über. Während der anschließenden Einfahrt in den Bahnhof Oberhausen West entgleiste dann der Wagen im km 13,110 erneut. Infolge dieser zweiten Entgleisung kam es neben den Beschädigungen am Oberbau auch zur Zugtrennung und somit zu einer Zwangsbremsung. Der Zug kam daraufhin nach wenigen Metern zum Stillstand. Das unfallverursachende Fahrzeug kam dabei etwa in Höhe des Stellwerks Oro zum Halten.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
-Es waren weder Todesopfer noch Verletzte zu beklagen. Durch die Entgleisung wurden in den BahnhÃ¶fen Dinslaken und Oberhausen West mehrere hundert Schwellen, sowie Weichen, Gleise und sicherungstechnische Einrichtungen teils stark beschÃ¤digt bzw. zerstÃ¶rt. Die SachschÃ¤den wurden von den beteiligten Eisenbahnunternehmen geschÃ¤tzt und setzen sich wie folgt zusammen: Die DB Netz AG als EIU bezifferte die SchÃ¤den im Bereich der Fahrbahn (Gleise und Weichen) mit ca. 1.300.000,00 Euro und die SchÃ¤den an den Einrichtungen der Leit- und Sicherungstechnik mit ca. 50.000,00 Euro. Das EVU, die DB Schenker Rail Deutschland AG gab einen Betrag von 2.250,00 Euro fÃ¼r die SchÃ¤den am entgleisten Wagen an.  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Es waren weder Todesopfer noch Verletzte zu beklagen. Durch die Entgleisung wurden in den Bahnhöfen Dinslaken und Oberhausen West mehrere hundert Schwellen, sowie Weichen, Gleise und sicherungstechnische Einrichtungen teils stark beschädigt bzw. zerstört. Die Sachschäden wurden von den beteiligten Eisenbahnunternehmen geschätzt und setzen sich wie folgt zusammen: Die DB Netz AG als EIU bezifferte die Schäden im Bereich der Fahrbahn (Gleise und Weichen) mit ca. 1.300.000,00 Euro und die Schäden an den Einrichtungen der Leit- und Sicherungstechnik mit ca. 50.000,00 Euro. Das EVU, die DB Schenker Rail Deutschland AG gab einen Betrag von 2.250,00 Euro für die Schäden am entgleisten Wagen an.  
 
 # Ursachen des Unfalls  
-Die Zugentgleisung wurde verursacht durch einen HeiÃŸlÃ¤ufer in Verbindung mit dem Bruch des Wellenschenkels am vorderen Radsatz des vorlaufenden Drehgestells des 13. Wagens (81 80 6643 352-0, Falns). Die Gutachter stellten fest, dass der HeiÃŸlÃ¤ufer vermutlich aufgrund von VerschleiÃŸ der Lagerbauteile und der SchwÃ¤chung der Schmiermitteleigenschaften entstanden ist. Der VerschleiÃŸ oder auch der Bruch von Teilen des LagerkÃ¤figs oder/und der WalzkÃ¶rper kÃ¶nnte zu einer erhÃ¶hten Reibung und damit zum HeiÃŸlaufen des Lagers gefÃ¼hrt haben. Daraufhin kann dann das Fett im Lager verdampft sein, so dass die Schmierung des Lagers nicht mehr gegeben war. Der weitere Temperaturanstieg innerhalb des Lagers fÃ¼hrte letztendlich zum Schmelzen der Radsatzwelle und deren Bruch.  
+Die Zugentgleisung wurde verursacht durch einen Heißläufer in Verbindung mit dem Bruch des Wellenschenkels am vorderen Radsatz des vorlaufenden Drehgestells des 13. Wagens (81 80 6643 352-0, Falns). Die Gutachter stellten fest, dass der Heißläufer vermutlich aufgrund von Verschleiß der Lagerbauteile und der Schwächung der Schmiermitteleigenschaften entstanden ist. Der Verschleiß oder auch der Bruch von Teilen des Lagerkäfigs oder/und der Walzkörper könnte zu einer erhöhten Reibung und damit zum Heißlaufen des Lagers geführt haben. Daraufhin kann dann das Fett im Lager verdampft sein, so dass die Schmierung des Lagers nicht mehr gegeben war. Der weitere Temperaturanstieg innerhalb des Lagers führte letztendlich zum Schmelzen der Radsatzwelle und deren Bruch.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
 Die EUB empfahl:  
-- Austausch vernieteter MessingkÃ¤fige durch LagerkÃ¤fige aus Kunststoff.  
-- ÃœberprÃ¼fung, ob der Anbau von Entgleisungsdetektoren bzw. Sensoren zur HeiÃŸlÃ¤ufererkennung zu einer messbaren ErhÃ¶hung der Entgleisungssicherheit beitragen kÃ¶nnen.  
-ZusÃ¤tzlich wird auf den Abschlussbericht der europÃ¤ischen Eisenbahnagentur (ERA) verwiesen, der die Verbesserung der Umsetzung der Sicherheitsmanagementsysteme und der GÃ¼terwageninstandhaltung als maÃŸgebliche MaÃŸnahmen zur Reduzierung des GÃ¼terzugentgleisungsrisikos hervorhebt. Die DB Netz AG hat zwischenzeitlich die sicherungstechnischen Anlagen der Strecke und BahnhÃ¶fe zwischen der niederlÃ¤ndischen Grenze und Oberhausen-Sterkrade umgebaut. Im Zuge der Umbauten wurden HOA/FBOA in km 7,0 (Fahrtrichtung Emmerich), 10,2 (Fahrtrichtung Oberhausen) und km 53,612 (beide Fahrtrichtungen) in Betrieb genommen.
+- Austausch vernieteter Messingkäfige durch Lagerkäfige aus Kunststoff.  
+- Überprüfung, ob der Anbau von Entgleisungsdetektoren bzw. Sensoren zur Heißläufererkennung zu einer messbaren Erhöhung der Entgleisungssicherheit beitragen können.  
+Zusätzlich wird auf den Abschlussbericht der europäischen Eisenbahnagentur (ERA) verwiesen, der die Verbesserung der Umsetzung der Sicherheitsmanagementsysteme und der Güterwageninstandhaltung als maßgebliche Maßnahmen zur Reduzierung des Güterzugentgleisungsrisikos hervorhebt. Die DB Netz AG hat zwischenzeitlich die sicherungstechnischen Anlagen der Strecke und Bahnhöfe zwischen der niederländischen Grenze und Oberhausen-Sterkrade umgebaut. Im Zuge der Umbauten wurden HOA/FBOA in km 7,0 (Fahrtrichtung Emmerich), 10,2 (Fahrtrichtung Oberhausen) und km 53,612 (beide Fahrtrichtungen) in Betrieb genommen.
 
 ---
 file: 172_Angern_Rogaetz.txt
 
-Untersuchungsbericht Zugentgleisung, 08.09.2015, Angernâ€�RogÃ¤tz  
+Untersuchungsbericht Zugentgleisung, 08.09.2015, Angern�Rogätz  
 
 # Hergang des Unfalls  
-Am 08.09.2015 gegen 23:47 Uhr entgleiste die Zugfahrt RB 17842 von Magdeburg Hauptbahnhof (Hbf) nach Stendal. Beim Vorziehen des Zuges von Gleis 1 nach Gleis 3 im Bahnhof (Bf) Angernâ€�RogÃ¤tz fuhr dieser auf der Weiche S3 mit den beiden RadsÃ¤tzen des zweiten Drehgestells der Triebzugeinheit zweigleisig und entgleiste anschlieÃŸend.  
-Die FahrstraÃŸe des Zuges RB 17842 wurde entgegen den Regelungen gemÃ¤ÃŸ Richtlinie (Ril) 408 â€“ ZÃ¼ge fahren und Rangieren â€“ aufgelÃ¶st, bevor der Zug die FahrstraÃŸen-Zugschlussstelle passiert hatte. Durch unzeitige Umstellung der Weiche S3 unter dem Zug kam es zum zweispurigen Lauf und damit zur Entgleisung der Triebzugeinheit.  
-Der Zug RB 17842 fuhr am 08.09.2015 nach einem Halt am Einfahrsignal A gegen 23:46:40 Uhr (Systemzeit) auf dem Regelgleis aus Richtung Zielitz kommend in den Bf Angern-RogÃ¤tz ein. Da zu diesem Zeitpunkt ein GÃ¼terzug auf dem Bahnhofsgleis 2 stand, fand die Einfahrt Ã¼ber die Weichen S1 und S2 nach Gleis 1 statt. Der Tf erhielt von der Fdl Ã¼ber Zugfunk den Auftrag, nach dem planmÃ¤ÃŸigen Halt im Bf Angern-RogÃ¤tz selbstÃ¤ndig nach Gleis 3 bis zum Halt zeigenden Ausfahrsignal G vorzuziehen.  
-Die Fdl erteilte gemÃ¤ÃŸ ihrer eigenen Aussage unmittelbar nach Abfahrt des Zuges RB 17842 an die Ww auf Stw W2 die Aufforderung, die FahrstraÃŸe a/3 aufzulÃ¶sen. Die Zugfahrt hatte zu diesem Zeitpunkt die FahrstraÃŸen-Zugschlussstelle, wie aus der folgenden Abbildung ersichtlich die Spitze der Weiche S4, noch nicht passiert.  
+Am 08.09.2015 gegen 23:47 Uhr entgleiste die Zugfahrt RB 17842 von Magdeburg Hauptbahnhof (Hbf) nach Stendal. Beim Vorziehen des Zuges von Gleis 1 nach Gleis 3 im Bahnhof (Bf) Angern�Rogätz fuhr dieser auf der Weiche S3 mit den beiden Radsätzen des zweiten Drehgestells der Triebzugeinheit zweigleisig und entgleiste anschließend.  
+Die Fahrstraße des Zuges RB 17842 wurde entgegen den Regelungen gemäß Richtlinie (Ril) 408 – Züge fahren und Rangieren – aufgelöst, bevor der Zug die Fahrstraßen-Zugschlussstelle passiert hatte. Durch unzeitige Umstellung der Weiche S3 unter dem Zug kam es zum zweispurigen Lauf und damit zur Entgleisung der Triebzugeinheit.  
+Der Zug RB 17842 fuhr am 08.09.2015 nach einem Halt am Einfahrsignal A gegen 23:46:40 Uhr (Systemzeit) auf dem Regelgleis aus Richtung Zielitz kommend in den Bf Angern-Rogätz ein. Da zu diesem Zeitpunkt ein Güterzug auf dem Bahnhofsgleis 2 stand, fand die Einfahrt über die Weichen S1 und S2 nach Gleis 1 statt. Der Tf erhielt von der Fdl über Zugfunk den Auftrag, nach dem planmäßigen Halt im Bf Angern-Rogätz selbständig nach Gleis 3 bis zum Halt zeigenden Ausfahrsignal G vorzuziehen.  
+Die Fdl erteilte gemäß ihrer eigenen Aussage unmittelbar nach Abfahrt des Zuges RB 17842 an die Ww auf Stw W2 die Aufforderung, die Fahrstraße a/3 aufzulösen. Die Zugfahrt hatte zu diesem Zeitpunkt die Fahrstraßen-Zugschlussstelle, wie aus der folgenden Abbildung ersichtlich die Spitze der Weiche S4, noch nicht passiert.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
-Bei dem Ereignis traten keine PersonenschÃ¤den ein.  
-Die geschÃ¤tzte HÃ¶he der SachschÃ¤den in Euro setzt sich wie folgt zusammen:  
-- Fahrzeuge: 5.000 â‚¬  
-- Infrastruktur: 48.000 â‚¬  
-- GesamtschadenshÃ¶he: 53.000 â‚¬  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Bei dem Ereignis traten keine Personenschäden ein.  
+Die geschätzte Höhe der Sachschäden in Euro setzt sich wie folgt zusammen:  
+- Fahrzeuge: 5.000 €  
+- Infrastruktur: 48.000 €  
+- Gesamtschadenshöhe: 53.000 €  
 
 # Ursachen des Unfalls  
-Die Ursache fÃ¼r die Entgleisung war eine betriebliche Fehlhandlung. Die Fdl erteilte den Auftrag zur FahrstraÃŸenauflÃ¶sung an die Ww zu frÃ¼h. Die eingestellte und festgelegte FahrstraÃŸe a/3 fÃ¼r die Zugfahrt wurde dadurch entgegen den Regelungen der Ril 408.0251 aufgelÃ¶st, bevor der Zug an der FahrstraÃŸen-Zugschlussstelle, der Spitze der Weiche S4 im Gleis 3, vorbeigefahren war. Deshalb war es fÃ¼r die Fdl mÃ¶glich, die Weiche S3 umzustellen, wÃ¤hrend diese durch den Zug befahren wurde.  
-Die Fdl stellte die Weiche S3 um, wÃ¤hrend das erste Drehgestell der Triebzugeinheit die Spitze der Weiche S3 in Linkslage passiert hatte. Das zweite Drehgestell der Triebzugeinheit befuhr die Weiche wÃ¤hrend dieser Umstellung und fuhr daher zweispurig.  
+Die Ursache für die Entgleisung war eine betriebliche Fehlhandlung. Die Fdl erteilte den Auftrag zur Fahrstraßenauflösung an die Ww zu früh. Die eingestellte und festgelegte Fahrstraße a/3 für die Zugfahrt wurde dadurch entgegen den Regelungen der Ril 408.0251 aufgelöst, bevor der Zug an der Fahrstraßen-Zugschlussstelle, der Spitze der Weiche S4 im Gleis 3, vorbeigefahren war. Deshalb war es für die Fdl möglich, die Weiche S3 umzustellen, während diese durch den Zug befahren wurde.  
+Die Fdl stellte die Weiche S3 um, während das erste Drehgestell der Triebzugeinheit die Spitze der Weiche S3 in Linkslage passiert hatte. Das zweite Drehgestell der Triebzugeinheit befuhr die Weiche während dieser Umstellung und fuhr daher zweispurig.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
 Es wurden keine Sicherheitsempfehlungen ausgesprochen.  
-Durch den Bereich Betrieb der ProduktionsdurchfÃ¼hrung Magdeburg wurde eine schriftliche Weisung an alle Mitarbeiter auf den Betriebsstellen im ZustÃ¤ndigkeitsbereich erteilt (MaÃŸnahme zur Stabilisierung der Betriebssicherheit). Die Mitarbeiterinnen und Mitarbeiter wurden Ã¼ber das gefÃ¤hrliche Ereignis informiert und auf die aufmerksame und konzentrierte Arbeitsweise auf der Grundlage der vorgegebenen Regelwerke zur GewÃ¤hrleistung der Betriebssicherheit hingewiesen.  
-Im Rahmen des regelmÃ¤ÃŸigen Fortbildungsunterrichts wurden mit allen Fdl, die im Bereich des Bf Angern-RogÃ¤tz und der benachbarten Betriebsstellen zum Einsatz kamen, LehrgesprÃ¤che zur Fahrwegsicherung und FahrstraÃŸenauflÃ¶sung gefÃ¼hrt.
+Durch den Bereich Betrieb der Produktionsdurchführung Magdeburg wurde eine schriftliche Weisung an alle Mitarbeiter auf den Betriebsstellen im Zuständigkeitsbereich erteilt (Maßnahme zur Stabilisierung der Betriebssicherheit). Die Mitarbeiterinnen und Mitarbeiter wurden über das gefährliche Ereignis informiert und auf die aufmerksame und konzentrierte Arbeitsweise auf der Grundlage der vorgegebenen Regelwerke zur Gewährleistung der Betriebssicherheit hingewiesen.  
+Im Rahmen des regelmäßigen Fortbildungsunterrichts wurden mit allen Fdl, die im Bereich des Bf Angern-Rogätz und der benachbarten Betriebsstellen zum Einsatz kamen, Lehrgespräche zur Fahrwegsicherung und Fahrstraßenauflösung geführt.
 
 ---
 file: 154_Rheydt-Gbf.txt
 
-GefÃ¤hrliches Ereignis im Eisenbahnbetrieb â€“ Zuge tgleisung, 26.05.2010, Rheydt Gbf  
+Gefährliches Ereignis im Eisenbahnbetrieb – Zuge tgleisung, 26.05.2010, Rheydt Gbf  
 
 # Hergang des Unfalls  
-Am 26.05.2010 gegen 15:20 Uhr e tgleiste Zug CFN 47595 auf dem Weg von Aachen West nach Dortmund-OberebrÃ¼ck im Bahnhofsteil (BM) Rheydt Gbf in km 11,55.  
-Der Zug CFN 47595 bestand aus einem Triebfahrzeug der Baureihe 185 und 25 GÃ¼terwagen. Bei dem 20. Waggon im Zugverband lief der e tgleiste Waggon, der Fahrzeugnummer 31 88 395 1 780-8 der Gaugruppe Remms (Halter: SNCB) hatte. Der Waggon war mit Stahlbramme beladen und hatte ein Gesamtgewicht von 72 t.  
-Der TriebfahrzeugfÃ¼hrer (Tf) des RE 10220 des EVU DB Regio AG bemerkte wÃ¤hrend der Vorbeifahrt die e tgleiste Waggon und lÃ¶ste durch einen Notruf mit Nothaltezeichen die Weiterfahrt des Zuges CFN 47595 ab.  
+Am 26.05.2010 gegen 15:20 Uhr e tgleiste Zug CFN 47595 auf dem Weg von Aachen West nach Dortmund-Oberebrück im Bahnhofsteil (BM) Rheydt Gbf in km 11,55.  
+Der Zug CFN 47595 bestand aus einem Triebfahrzeug der Baureihe 185 und 25 Güterwagen. Bei dem 20. Waggon im Zugverband lief der e tgleiste Waggon, der Fahrzeugnummer 31 88 395 1 780-8 der Gaugruppe Remms (Halter: SNCB) hatte. Der Waggon war mit Stahlbramme beladen und hatte ein Gesamtgewicht von 72 t.  
+Der Triebfahrzeugführer (Tf) des RE 10220 des EVU DB Regio AG bemerkte während der Vorbeifahrt die e tgleiste Waggon und löste durch einen Notruf mit Nothaltezeichen die Weiterfahrt des Zuges CFN 47595 ab.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
-PersÃ¶nliche wurden weder verletzt noch getÃ¶tet. Es entstanden SachschÃ¤den in HÃ¶he von ca. 8.060.000 Euro.  
-Tabelle 1: Ãœbersicht der Personen schÃ¤den:  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Persönliche wurden weder verletzt noch getötet. Es entstanden Sachschäden in Höhe von ca. 8.060.000 Euro.  
+Tabelle 1: Übersicht der Personen schäden:  
 - Anzahl Tote: -  
 - Anzahl schwer Verletzte: -  
 - Anzahl leicht Verletzte: -  
-Tabelle 2: Ãœbersicht der geschÃ¤tzten SchadenshÃ¶he:  
-- SachschÃ¤den: 8.060.000 Euro  
+Tabelle 2: Übersicht der geschätzten Schadenshöhe:  
+- Sachschäden: 8.060.000 Euro  
 
 # Ursachen des Unfalls  
-Die Zuge tgleisung ist auf das AblÃ¶sen eines Radreifes vom RadkÃ¶rper zurÃ¼ckzufÃ¼hren.  
-Bei der Untersuchung des Unfallradsatzes wurde festgestellt, dass der Radreifen von Rad B gelÃ¶st war. Er saÃŸ locker beweglich auf der BÃ¶rdelkante am RadkÃ¶rper. Der Radreifen und der Sprengring fehlten hier. Der Spalt zwischen RadkÃ¶rper und -reifen wurde bei allen untersuchten RÃ¤dern festgestellt. Dieser Spalt fÃ¼hrte zur Rissbildung und -ausbreitung an der BÃ¶rdelkante. Bei dem Unfallrad wuchs dieser Riss so weit, dass die BÃ¶rdelkante schlieÃŸlich abbrach.  
+Die Zuge tgleisung ist auf das Ablösen eines Radreifes vom Radkörper zurückzuführen.  
+Bei der Untersuchung des Unfallradsatzes wurde festgestellt, dass der Radreifen von Rad B gelöst war. Er saß locker beweglich auf der Bördelkante am Radkörper. Der Radreifen und der Sprengring fehlten hier. Der Spalt zwischen Radkörper und -reifen wurde bei allen untersuchten Rädern festgestellt. Dieser Spalt führte zur Rissbildung und -ausbreitung an der Bördelkante. Bei dem Unfallrad wuchs dieser Riss so weit, dass die Bördelkante schließlich abbrach.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
 Es wurden keine Sicherheitsempfehlungen ausgesprochen.  
-Es wurden keine MaÃŸnahmen in Folge des Ereignisses durch die beteiligten Eisenbahnbetriebe oder die SicherheitsbehÃ¶rde getroffen.
+Es wurden keine Maßnahmen in Folge des Ereignisses durch die beteiligten Eisenbahnbetriebe oder die Sicherheitsbehörde getroffen.
 
 ---
 file: 090_Dillingen_Saar.txt
 
 Zugkollision, 13.11.2014, Dillingen (Saar)  
-GefÃ¤hrliches Ereignis im Eisenbahnbetrieb  
+Gefährliches Ereignis im Eisenbahnbetrieb  
 Ereignisart: Zugkollision  
 Datum: 13.11.2014  
 Zeit: 11:14 Uhr  
@@ -2676,28 +2676,28 @@ Gleis: 1
 Kilometer: 19,834  
 
 # Hergang des Unfalls  
-Am 13.11.2014 um 11:14 Uhr erhÃ¤lt RB 13765 Einfahrt nach Gleis 1 in den Bf Dillingen (Saar). Die Zustimmung zur Fahrt erfolgt auf Hauptsignal am Esig G (Hp2; 40km/h). Der Fahrweg des Zuges fÃ¼hrt Ã¼ber die Weichen 97,81,80 und 78 nach Gleis 1. Unmittelbar vor Zulassung der Zugfahrt bewegt sich die geschobene Rabt vom Gleis 25 am Lichtsperrsignal Ls 25II in Richtung Weiche 78. Vor der aufgestellten Sh 2 Scheibe (10m vor dem Grenzeichen der Weiche 78) bleibt die Rabt stehen. Durch den RbBau wird die Sh 2 Scheibe entfernt. AnschlieÃŸend bewegt sich die geschobene Rabt in Richtung Weiche 78 und bleibt in km 19,864 ca. 5 min stehen. WÃ¤hrend des ZurÃ¼cksetzens der Rabt nach Gleis 26 kollidiert RB 13765 auf der Weiche 78 in km 19,834 mit dem Facs124 Wagen. Die Zugkollision ist in der Elektronischen-Fahrten-Registrierung (EFR) des RB 13765 mit 11:14:44 Uhr (DSK-Zeit) registriert.  
+Am 13.11.2014 um 11:14 Uhr erhält RB 13765 Einfahrt nach Gleis 1 in den Bf Dillingen (Saar). Die Zustimmung zur Fahrt erfolgt auf Hauptsignal am Esig G (Hp2; 40km/h). Der Fahrweg des Zuges führt über die Weichen 97,81,80 und 78 nach Gleis 1. Unmittelbar vor Zulassung der Zugfahrt bewegt sich die geschobene Rabt vom Gleis 25 am Lichtsperrsignal Ls 25II in Richtung Weiche 78. Vor der aufgestellten Sh 2 Scheibe (10m vor dem Grenzeichen der Weiche 78) bleibt die Rabt stehen. Durch den RbBau wird die Sh 2 Scheibe entfernt. Anschließend bewegt sich die geschobene Rabt in Richtung Weiche 78 und bleibt in km 19,864 ca. 5 min stehen. Während des Zurücksetzens der Rabt nach Gleis 26 kollidiert RB 13765 auf der Weiche 78 in km 19,834 mit dem Facs124 Wagen. Die Zugkollision ist in der Elektronischen-Fahrten-Registrierung (EFR) des RB 13765 mit 11:14:44 Uhr (DSK-Zeit) registriert.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
-Der EF des Zweiwegefahrzeuges wird durch die Kollision leicht verletzt. Die SachschÃ¤den setzen sich wie folgt zusammen:  
-- FahrzeugschÃ¤den DB Regio SÃ¼dwest: ca. 300.000,00 â‚¬  
-- Zweiwegbagger Firma Monti: ca. 30.000,00 â‚¬  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Der EF des Zweiwegefahrzeuges wird durch die Kollision leicht verletzt. Die Sachschäden setzen sich wie folgt zusammen:  
+- Fahrzeugschäden DB Regio Südwest: ca. 300.000,00 €  
+- Zweiwegbagger Firma Monti: ca. 30.000,00 €  
 - Facs124 Wagen: keine Angaben  
-- Infrastrukturanlagen (LST): ca. 4.000,00 â‚¬  
+- Infrastrukturanlagen (LST): ca. 4.000,00 €  
 
 # Ursachen des Unfalls  
-Der Facs124-Wagen der Rangierabteilung stand bei der signalmÃ¤ÃŸig durchgefÃ¼hrten Einfahrt des RB 13765 nach Gleis 1 nicht grenzeichenfrei auf der Weiche 78.  
-ZusÃ¤tzliche Ursachen:  
+Der Facs124-Wagen der Rangierabteilung stand bei der signalmäßig durchgeführten Einfahrt des RB 13765 nach Gleis 1 nicht grenzeichenfrei auf der Weiche 78.  
+Zusätzliche Ursachen:  
 - Die Sh 2-Scheiben wurden ohne Zustimmung des Technischen Berechtigten entfernt, obwohl ein Flankenschutzposten nicht vor Ort war.  
-- Der Flankenschutzposten war nicht an der Weiche 78 stationiert und Ã¼berwachte den Schutzraum nicht dauerhaft.  
-- Es gab keine rangierdienstliche Vereinbarung Ã¼ber das GSM-R-Funksystem fÃ¼r das Vorziehen aus Gleis 25 in Richtung Sh 2-Scheibe zwischen 11:07 Uhr und 11:13 Uhr.  
-- Die SchutzmaÃŸnahmen zur Grenzzeichenfreimeldung der Weiche 78 wurden nicht ordnungsgemÃ¤ÃŸ durchgefÃ¼hrt.  
+- Der Flankenschutzposten war nicht an der Weiche 78 stationiert und überwachte den Schutzraum nicht dauerhaft.  
+- Es gab keine rangierdienstliche Vereinbarung über das GSM-R-Funksystem für das Vorziehen aus Gleis 25 in Richtung Sh 2-Scheibe zwischen 11:07 Uhr und 11:13 Uhr.  
+- Die Schutzmaßnahmen zur Grenzzeichenfreimeldung der Weiche 78 wurden nicht ordnungsgemäß durchgeführt.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
-- Sicherstellung der Einhaltung der Vorgaben der Betra F 632186, insbesondere der Dokumentation der Aufstellung von WÃ¤rterhaltscheiben durch den Technischen Berechtigten.  
-- DurchfÃ¼hrung von rangierdienstlichen Vereinbarungen Ã¼ber das GSM-R-Funksystem und Vermeidung von ungenehmigten Entfernungen von Sh 2-Scheiben.  
-- StÃ¤ndige PrÃ¤senz von Flankenschutzposten am Schutzraum der Weiche 78 und DurchfÃ¼hrung der erforderlichen Dokumentation.  
-- ÃœberprÃ¼fung und Umsetzung der sicherungstechnischen MaÃŸnahmen gemÃ¤ÃŸ den Vorgaben der Betra F 632186.
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+- Sicherstellung der Einhaltung der Vorgaben der Betra F 632186, insbesondere der Dokumentation der Aufstellung von Wärterhaltscheiben durch den Technischen Berechtigten.  
+- Durchführung von rangierdienstlichen Vereinbarungen über das GSM-R-Funksystem und Vermeidung von ungenehmigten Entfernungen von Sh 2-Scheiben.  
+- Ständige Präsenz von Flankenschutzposten am Schutzraum der Weiche 78 und Durchführung der erforderlichen Dokumentation.  
+- Überprüfung und Umsetzung der sicherungstechnischen Maßnahmen gemäß den Vorgaben der Betra F 632186.
 
 ---
 file: 140_Neuss_Gbf.txt
@@ -2705,23 +2705,23 @@ file: 140_Neuss_Gbf.txt
 Zugentgleisung, 04.10.2018, Neuss Gbf
 
 # Hergang des Unfalls
-Am 04.10.2018 gegen 13:55 Uhr entgleiste der letzte Wagen des GÃ¼terzuges GB 47182 bei der Einfahrt nach Gleis 114 auf der Weiche 74 des GÃ¼terbahnhofs (Gbf) Neuss und kollidierte anschlieÃŸend mit einer in Gleis 113 abgestellten Wagengruppe aus Zug 42030.  
-Der Fahrdienstleiter (Fdl) des Stellwerkes Ngf bediente die Weiche 74 nach einer fehlerhaften Fahrwegsicherung zur Unzeit, und stellte diese um, obwohl der GÃ¼terzug GB 47182 diese noch nicht gerÃ¤umt hatte.  
-Beim Einfahren des Zuges Ã¼berfuhr der Fdl Ngf die Weiche 74 zwischen den Drehgestellen des an letzter Stelle laufenden Wagens, was zur Entgleisung fÃ¼hrte. Der Wagen fuhr zweispurig in den Gleisen 113 und 114 und kollidierte mit einem dort abgestellten Wagen.  
+Am 04.10.2018 gegen 13:55 Uhr entgleiste der letzte Wagen des Güterzuges GB 47182 bei der Einfahrt nach Gleis 114 auf der Weiche 74 des Güterbahnhofs (Gbf) Neuss und kollidierte anschließend mit einer in Gleis 113 abgestellten Wagengruppe aus Zug 42030.  
+Der Fahrdienstleiter (Fdl) des Stellwerkes Ngf bediente die Weiche 74 nach einer fehlerhaften Fahrwegsicherung zur Unzeit, und stellte diese um, obwohl der Güterzug GB 47182 diese noch nicht geräumt hatte.  
+Beim Einfahren des Zuges überfuhr der Fdl Ngf die Weiche 74 zwischen den Drehgestellen des an letzter Stelle laufenden Wagens, was zur Entgleisung führte. Der Wagen fuhr zweispurig in den Gleisen 113 und 114 und kollidierte mit einem dort abgestellten Wagen.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte
-PersonenschÃ¤den sind nicht zu beklagen.  
-Die geschÃ¤tzte HÃ¶he der SachschÃ¤den in Euro setzt sich wie folgt zusammen:  
-SchÃ¤den: Fahrzeuge (50.000 â‚¬), Infrastruktur (165.000 â‚¬), GesamtschadenshÃ¶he (215.000 â‚¬).  
+# Höhe des Schadens, Anzahl Tote und Verletzte
+Personenschäden sind nicht zu beklagen.  
+Die geschätzte Höhe der Sachschäden in Euro setzt sich wie folgt zusammen:  
+Schäden: Fahrzeuge (50.000 €), Infrastruktur (165.000 €), Gesamtschadenshöhe (215.000 €).  
 
 # Ursachen des Unfalls
-Der Fahrdienstleiter (Fdl) des Stellwerkes Ngf bediente die Weiche 74 nach einer fehlerhaften Fahrwegsicherung zur Unzeit, und stellte diese um, obwohl der GÃ¼terzug GB 47182 diese noch nicht gerÃ¤umt hatte.  
-Die Fehlhandlung des Fdls wurde durch das Fehlen von Hilfssperren im Stellwerk Ngf begÃ¼nstigt, wodurch der Fahrweg nicht gesichert war.  
-Es ist davon auszugehen, dass die Einfahrt von Zug 47182 dispositive GrÃ¼nde hatte und ein freies Einfahrgleis, fÃ¼r das eine ZugfahrstraÃŸe vorhanden ist, nicht zur VerfÃ¼gung stand.  
+Der Fahrdienstleiter (Fdl) des Stellwerkes Ngf bediente die Weiche 74 nach einer fehlerhaften Fahrwegsicherung zur Unzeit, und stellte diese um, obwohl der Güterzug GB 47182 diese noch nicht geräumt hatte.  
+Die Fehlhandlung des Fdls wurde durch das Fehlen von Hilfssperren im Stellwerk Ngf begünstigt, wodurch der Fahrweg nicht gesichert war.  
+Es ist davon auszugehen, dass die Einfahrt von Zug 47182 dispositive Gründe hatte und ein freies Einfahrgleis, für das eine Zugfahrstraße vorhanden ist, nicht zur Verfügung stand.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle
 Es wurden keine Sicherheitsempfehlungen ausgesprochen.  
-Dennoch wird in der Bewertung darauf hingewiesen, dass Zugfahrten mit besonderem Auftrag kÃ¼nftig auf das nÃ¶tigste MaÃŸ zu begrenzen sind, um das Risiko menschlicher Fehlhandlungen zu minimieren.
+Dennoch wird in der Bewertung darauf hingewiesen, dass Zugfahrten mit besonderem Auftrag künftig auf das nötigste Maß zu begrenzen sind, um das Risiko menschlicher Fehlhandlungen zu minimieren.
 
 ---
 file: 131_Hoppegarten_Mark.txt
@@ -2729,10 +2729,10 @@ file: 131_Hoppegarten_Mark.txt
 Zugentgleisung, 29.06.2015, Hoppegarten (Mark)
 
 # Hergang des Unfalls  
-Am 29.06.2015 gegen 21:46 Uhr entgleiste im Bahnhof Hoppegarten auf der S-Bahnstrecke Berlin Ostbahnhof â€“ Strausberg Nord in HÃ¶he der Weiche 49 (km 16,950) Zug S 5130 mit allen Drehgestellen der letzten drei Wagen. Der Zug befuhr die zu diesem Zeitpunkt im Bahnhof Hoppegarten eingestellte FahrstraÃŸe von Signal X (km 17,232) nach Gleis 5 (in Richtung Mahlsdorf). Gegen 21:46 Uhr befuhr der Zug S 5130, mit ca. 35 km/h bis 40 km/h und einer VerspÃ¤tung von ca. 5 bis 6 Minuten die Weiche 49 in km 16,950. Zu diesem Zeitpunkt wurde, trotz noch nicht beendeter Zugfahrt nach Gleis 5, die FahrstraÃŸe x/5 durch BetÃ¤tigen der HilfsauflÃ¶setaste vorzeitig aufgelÃ¶st. AnschlieÃŸend wurde die Weiche 49 unter dem Zug umgestellt. Infolgedessen entgleisten die drei letzten Wagen.  
+Am 29.06.2015 gegen 21:46 Uhr entgleiste im Bahnhof Hoppegarten auf der S-Bahnstrecke Berlin Ostbahnhof – Strausberg Nord in Höhe der Weiche 49 (km 16,950) Zug S 5130 mit allen Drehgestellen der letzten drei Wagen. Der Zug befuhr die zu diesem Zeitpunkt im Bahnhof Hoppegarten eingestellte Fahrstraße von Signal X (km 17,232) nach Gleis 5 (in Richtung Mahlsdorf). Gegen 21:46 Uhr befuhr der Zug S 5130, mit ca. 35 km/h bis 40 km/h und einer Verspätung von ca. 5 bis 6 Minuten die Weiche 49 in km 16,950. Zu diesem Zeitpunkt wurde, trotz noch nicht beendeter Zugfahrt nach Gleis 5, die Fahrstraße x/5 durch Betätigen der Hilfsauflösetaste vorzeitig aufgelöst. Anschließend wurde die Weiche 49 unter dem Zug umgestellt. Infolgedessen entgleisten die drei letzten Wagen.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
-Todesopfer waren keine zu beklagen. Der TriebfahrzeugfÃ¼hrer (Tf) wurde bei dem Ereignis leicht verletzt und erlitt einen Schock. Von den 53 FahrgÃ¤sten wurde keiner verletzt. Die SachschÃ¤den setzen sich wie folgt zusammen:  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Todesopfer waren keine zu beklagen. Der Triebfahrzeugführer (Tf) wurde bei dem Ereignis leicht verletzt und erlitt einen Schock. Von den 53 Fahrgästen wurde keiner verletzt. Die Sachschäden setzen sich wie folgt zusammen:  
 - Fahrzeuge und Betriebserschwernisse: ca. 2.000.000 Euro  
 - Oberbau: ca. 245.000 Euro  
 - Gleisanlage: ca. 59.000 Euro  
@@ -2740,85 +2740,85 @@ Todesopfer waren keine zu beklagen. Der TriebfahrzeugfÃ¼hrer (Tf) wurde bei de
 Der Gesamtschaden kann somit auf ca. 2.310.000 Euro beziffert werden.  
 
 # Ursachen des Unfalls  
-Die Zugentgleisung war Folge einer unzeitigen Weichenbedienung durch den Fahrdienstleiter des Stellwerks â€žHobâ€œ. Dieser hatte die spitz befahrene Weiche 49 umgestellt, obwohl die Weiche durch S 5130 befahren wurde. Die FahrstraÃŸe x/5 wurde vorzeitig durch HilfsauflÃ¶sung aufgelÃ¶st, was dazu fÃ¼hrte, dass die Weiche 49 unter dem fahrenden Zug umgestellt wurde. Die Weiche 49 wurde ohne PrÃ¼fung auf Freisein umgestellt.  
+Die Zugentgleisung war Folge einer unzeitigen Weichenbedienung durch den Fahrdienstleiter des Stellwerks "Hob". Dieser hatte die spitz befahrene Weiche 49 umgestellt, obwohl die Weiche durch S 5130 befahren wurde. Die Fahrstraße x/5 wurde vorzeitig durch Hilfsauflösung aufgelöst, was dazu führte, dass die Weiche 49 unter dem fahrenden Zug umgestellt wurde. Die Weiche 49 wurde ohne Prüfung auf Freisein umgestellt.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
 - Die Bedienung der Stellwerkstechnik muss den in Ril 408 vorgegebenen Regeln entsprechen.  
-- Die FahrstraÃŸe x/5 darf erst aufgelÃ¶st werden, wenn der Zug die FahrstraÃŸenzugschlussstelle (in HÃ¶he des Stellwerks Hob) mit Zugschluss passiert hat.  
+- Die Fahrstraße x/5 darf erst aufgelöst werden, wenn der Zug die Fahrstraßenzugschlussstelle (in Höhe des Stellwerks Hob) mit Zugschluss passiert hat.  
 - Die Vermeidung von Eingriffen in ein sicher arbeitendes Stellwerkssystem ohne betriebliche Notwendigkeit ist entscheidend.  
-- Eine ordnungsgemÃ¤ÃŸe PrÃ¼fung der Freisein der Weichen vor der Bedienung ist erforderlich.  
-- Die Dokumentation von Bedienhandlungen, insbesondere der ZÃ¤hlpflichtigen Bedienungen, muss vollstÃ¤ndig und nachvollziehbar erfolgen.
+- Eine ordnungsgemäße Prüfung der Freisein der Weichen vor der Bedienung ist erforderlich.  
+- Die Dokumentation von Bedienhandlungen, insbesondere der Zählpflichtigen Bedienungen, muss vollständig und nachvollziehbar erfolgen.
 
 ---
 file: 023_Hordorf.txt
 
-Zugkollision, Ãœberleitstelle Hordorf / Strecke Magdeburg Hbf - Halberstadt am 29.01.2011  
+Zugkollision, Überleitstelle Hordorf / Strecke Magdeburg Hbf - Halberstadt am 29.01.2011  
 
 # Hergang des Unfalls  
-Am 29.01.2011 kam es um ca. 22:28 Uhr in der Ãœberleitstelle Hordorf im Bahn-Kilometer 42,702 zur frontalen Zugkollision zwischen dem in Richtung Oschersleben fahrenden GÃ¼terzug DGS 69192 und dem in Richtung Halberstadt fahrenden Personenzug DPN 80876. Die Strecke Magdeburg â€“ Halberstadt (Strecke Nr. 6404) ist in diesem Streckenabschnitt eingleisig.  
+Am 29.01.2011 kam es um ca. 22:28 Uhr in der Überleitstelle Hordorf im Bahn-Kilometer 42,702 zur frontalen Zugkollision zwischen dem in Richtung Oschersleben fahrenden Güterzug DGS 69192 und dem in Richtung Halberstadt fahrenden Personenzug DPN 80876. Die Strecke Magdeburg – Halberstadt (Strecke Nr. 6404) ist in diesem Streckenabschnitt eingleisig.  
 
-Der Personenzug DPN 80876, VT 810 des Typs LINT 41, wurde durch den GÃ¼terzug DGS 69192 in Richtung Oschersleben geschoben und entgleiste vollstÃ¤ndig. Der GÃ¼terzug war mit Kalk beladen und wurde von zwei Diesellokomotiven vom Typ Vossloh G 1700-2 BB gezogen.  
+Der Personenzug DPN 80876, VT 810 des Typs LINT 41, wurde durch den Güterzug DGS 69192 in Richtung Oschersleben geschoben und entgleiste vollständig. Der Güterzug war mit Kalk beladen und wurde von zwei Diesellokomotiven vom Typ Vossloh G 1700-2 BB gezogen.  
 
-Der Personenzug der Harz-Elbe-Express (HEX) der Veolia Verkehr GmbH sollte aus Richtung Oschersleben kommend in der Ãœberleitstelle Hordorf vom eingleisigen Streckenabschnitt Oschersleben â€“ Hordorf auf den zweigleisigen Streckenabschnitt in Richtung Halberstadt Ã¼bergeleitet werden. FÃ¼r diese Fahrt war die FahrstraÃŸe eingestellt, alle Vorbedingungen waren erfÃ¼llt, das heiÃŸt, Weiche 1 war gestellt und durch Riegel I verriegelt und das Hauptsignal A stand auf Fahrt.  
+Der Personenzug der Harz-Elbe-Express (HEX) der Veolia Verkehr GmbH sollte aus Richtung Oschersleben kommend in der Überleitstelle Hordorf vom eingleisigen Streckenabschnitt Oschersleben – Hordorf auf den zweigleisigen Streckenabschnitt in Richtung Halberstadt übergeleitet werden. Für diese Fahrt war die Fahrstraße eingestellt, alle Vorbedingungen waren erfüllt, das heißt, Weiche 1 war gestellt und durch Riegel I verriegelt und das Hauptsignal A stand auf Fahrt.  
 
-Der GÃ¼terzug DGS 69192 kam aus Richtung Halberstadt, nach Angaben der DB Netz AG mit einer ca. zweistÃ¼ndigen VerspÃ¤tung. GemÃ¤ÃŸ Buchfahrplan wird der GÃ¼terzug DGS 69192 planmÃ¤ÃŸig ohne Halt von der zweigleisigen Strecke auf den eingleisigen Streckenabschnitt in Richtung Oschersleben Ã¼bergeleitet.  
+Der Güterzug DGS 69192 kam aus Richtung Halberstadt, nach Angaben der DB Netz AG mit einer ca. zweistündigen Verspätung. Gemäß Buchfahrplan wird der Güterzug DGS 69192 planmäßig ohne Halt von der zweigleisigen Strecke auf den eingleisigen Streckenabschnitt in Richtung Oschersleben übergeleitet.  
 
-Anstatt nun auf Grund der VerspÃ¤tung die Durchfahrt des Personenzuges 80876 abzuwarten, passierte der Zug die in â€žHalt erwartenâ€œ und auf â€žHaltâ€œ stehenden Signale Vb und B. Dabei wurde die fÃ¼r den Personenzug gestellte Weiche 1 aufgefahren.  
+Anstatt nun auf Grund der Verspätung die Durchfahrt des Personenzuges 80876 abzuwarten, passierte der Zug die in "Halt erwarten" und auf "Halt" stehenden Signale Vb und B. Dabei wurde die für den Personenzug gestellte Weiche 1 aufgefahren.  
 
-Der ZusammenstoÃŸ beider ZÃ¼ge erfolgte kurz hinter der Ãœberleitstelle Hordorf in Richtung Oschersleben ca. km 42,702. Durch den kurz vorher erteilten Nothaltauftrag des Fdl lieÃŸ sich die Kollision nicht mehr verhindern.  
+Der Zusammenstoß beider Züge erfolgte kurz hinter der Überleitstelle Hordorf in Richtung Oschersleben ca. km 42,702. Durch den kurz vorher erteilten Nothaltauftrag des Fdl ließ sich die Kollision nicht mehr verhindern.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
-Zum Zeitpunkt des Unfalls befanden sich 32 Personen im Personenzug. Zehn Personen wurden tÃ¶dlich verletzt, darunter der TriebfahrzeugfÃ¼hrer des Personenzuges und eine Zugbegleiterin. Dreiundzwanzig Personen wurden zum Teil schwer verletzt, darunter auch der TriebfahrzeugfÃ¼hrer des GÃ¼terzuges.  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Zum Zeitpunkt des Unfalls befanden sich 32 Personen im Personenzug. Zehn Personen wurden tödlich verletzt, darunter der Triebfahrzeugführer des Personenzuges und eine Zugbegleiterin. Dreiundzwanzig Personen wurden zum Teil schwer verletzt, darunter auch der Triebfahrzeugführer des Güterzuges.  
 
-Der Personenzug DPN 80876 der Veolia Sachsen-Anhalt GmbH wurde durch die Wucht des ZusammenstoÃŸes aus dem Gleis geschleudert und lag schwer beschÃ¤digt neben dem Gleis.  
+Der Personenzug DPN 80876 der Veolia Sachsen-Anhalt GmbH wurde durch die Wucht des Zusammenstoßes aus dem Gleis geschleudert und lag schwer beschädigt neben dem Gleis.  
 
-Der GÃ¼terzug DGS 69192 der VPS (Verkehrsbetriebe Peine-Salzgitter) blieb vollstÃ¤ndig im Gleis. Nach dem ZusammenstoÃŸ wurde die erste der beiden Zugloks des GÃ¼terzuges vom Zug abgerissen und stand ca. 130 m entfernt im Gleis. Diese Lok wurde sehr stark beschÃ¤digt.  
+Der Güterzug DGS 69192 der VPS (Verkehrsbetriebe Peine-Salzgitter) blieb vollständig im Gleis. Nach dem Zusammenstoß wurde die erste der beiden Zugloks des Güterzuges vom Zug abgerissen und stand ca. 130 m entfernt im Gleis. Diese Lok wurde sehr stark beschädigt.  
 
-Die HÃ¶he der SachschÃ¤den wurde von dem Eisenbahninfrastrukturunternehmen auf ca. 7 Millionen Euro geschÃ¤tzt.  
+Die Höhe der Sachschäden wurde von dem Eisenbahninfrastrukturunternehmen auf ca. 7 Millionen Euro geschätzt.  
 
 # Ursachen des Unfalls  
-Die Untersuchung unmittelbar nach Eintreffen an der Unfallstelle, ca. 04:00 Uhr, ergab, dass die vom GÃ¼terzug DGS 69192 passierten Signale, das Vorsignal Vb, â€žHalt erwartenâ€œ und das Blocksignal, â€žHaltâ€œ (Hp0), zeigten und die Weiche 1 in der Ãœberleitstelle Hordorf aufgefahren wurde. Der GÃ¼terzug fuhr in einen besetzten Gleisabschnitt und kollidierte in Folge mit dem im eingleisigen Streckenabschnitt entgegenkommenden Personenzug.  
+Die Untersuchung unmittelbar nach Eintreffen an der Unfallstelle, ca. 04:00 Uhr, ergab, dass die vom Güterzug DGS 69192 passierten Signale, das Vorsignal Vb, "Halt erwarten" und das Blocksignal, "Halt" (Hp0), zeigten und die Weiche 1 in der Überleitstelle Hordorf aufgefahren wurde. Der Güterzug fuhr in einen besetzten Gleisabschnitt und kollidierte in Folge mit dem im eingleisigen Streckenabschnitt entgegenkommenden Personenzug.  
 
-Nach vorliegenden Erkenntnissen kommt es im Monat zu durchschnittlich 33 unzulÃ¤ssigen Vorbeifahrten an Halt zeigenden Signalen. Das Risiko der unzulÃ¤ssigen Vorbeifahrten an Halt zeigenden Signalen ohne streckenseitige Zugbeeinflussungseinrichtungen kÃ¶nnte bis zu deren NachrÃ¼stung durch die Einleitung weiterer MaÃŸnahmen minimiert werden.  
+Nach vorliegenden Erkenntnissen kommt es im Monat zu durchschnittlich 33 unzulässigen Vorbeifahrten an Halt zeigenden Signalen. Das Risiko der unzulässigen Vorbeifahrten an Halt zeigenden Signalen ohne streckenseitige Zugbeeinflussungseinrichtungen könnte bis zu deren Nachrüstung durch die Einleitung weiterer Maßnahmen minimiert werden.  
 
-Aufgrund der durchgefÃ¼hrten Untersuchung ist davon auszugehen, dass mit einer strecken- sowie fahrzeugseitigen Zugbeeinflussungseinrichtung das Ereignis nicht eingetreten wÃ¤re.  
+Aufgrund der durchgeführten Untersuchung ist davon auszugehen, dass mit einer strecken- sowie fahrzeugseitigen Zugbeeinflussungseinrichtung das Ereignis nicht eingetreten wäre.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
-GemÃ¤ÃŸ Â§ 6 Eisenbahn-Unfalluntersuchungsverordnung (EUV) sowie Art. 25 Abs. 2 der Richtlinie 2004/49/EG ergehen nachfolgende Sicherheitsempfehlungen:  
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+Gemäß § 6 Eisenbahn-Unfalluntersuchungsverordnung (EUV) sowie Art. 25 Abs. 2 der Richtlinie 2004/49/EG ergehen nachfolgende Sicherheitsempfehlungen:  
 
-1. NachrÃ¼stung aller Strecken mit Zugbeeinflussung, durch die ein Zug bei unzulÃ¤ssiger Vorbeifahrt an einem Halt zeigenden Signal selbsttÃ¤tig zum Halten gebracht werden kann, auf Hauptbahnen zusÃ¤tzlich ein unzulÃ¤ssiges Anfahren gegen Halt zeigende Signale selbsttÃ¤tig verhindert werden kann.  
-2. Bis zur NachrÃ¼stung der Strecken mit Zugbeeinflussung gemÃ¤ÃŸ lfd. Nr. 1 sollten zusÃ¤tzliche MaÃŸnahmen getroffen werden, die im jeweiligen Einzelfall geeignet sind, die Eintrittswahrscheinlichkeit und/oder das SchadensausmaÃŸ bei einer unzulÃ¤ssigen Vorbeifahrt am Halt zeigenden Signal zu reduzieren.  
+1. Nachrüstung aller Strecken mit Zugbeeinflussung, durch die ein Zug bei unzulässiger Vorbeifahrt an einem Halt zeigenden Signal selbsttätig zum Halten gebracht werden kann, auf Hauptbahnen zusätzlich ein unzulässiges Anfahren gegen Halt zeigende Signale selbsttätig verhindert werden kann.  
+2. Bis zur Nachrüstung der Strecken mit Zugbeeinflussung gemäß lfd. Nr. 1 sollten zusätzliche Maßnahmen getroffen werden, die im jeweiligen Einzelfall geeignet sind, die Eintrittswahrscheinlichkeit und/oder das Schadensausmaß bei einer unzulässigen Vorbeifahrt am Halt zeigenden Signal zu reduzieren.  
 
-Insbesondere folgende MaÃŸnahmen bzw. deren Kombination unter BerÃ¼cksichtigung der Verkehrarten erÃ¶ffnen die MÃ¶glichkeit, die Eintrittswahrscheinlichkeit und/oder das SchadensausmaÃŸ einer unzulÃ¤ssigen Vorbeifahrt am Halt zeigenden Signal bis zur technischen StreckenausrÃ¼stung zu reduzieren:  
+Insbesondere folgende Maßnahmen bzw. deren Kombination unter Berücksichtigung der Verkehrarten eröffnen die Möglichkeit, die Eintrittswahrscheinlichkeit und/oder das Schadensausmaß einer unzulässigen Vorbeifahrt am Halt zeigenden Signal bis zur technischen Streckenausrüstung zu reduzieren:  
 - Geschwindigkeitsreduktion  
-- Entzerrung der Zugfolge bspw. durch â€ždoppelte BlockabstÃ¤ndeâ€œ  
-- Doppelte Besetzung von Triebfahrzeugen mit TriebfahrzeugfÃ¼hrer oder Triebfahrzeugbegleiter zur Strecken- und Signalbeobachtung.
+- Entzerrung der Zugfolge bspw. durch "doppelte Blockabstände"  
+- Doppelte Besetzung von Triebfahrzeugen mit Triebfahrzeugführer oder Triebfahrzeugbegleiter zur Strecken- und Signalbeobachtung.
 
 ---
 file: 099_Rbf_Wustermark.txt
 
 Zugkollision, 16.11.2015, Rbf Wustermark  
-VerÃ¶ffentlicht durch: Bundesstelle fÃ¼r Eisenbahnunfalluntersuchung  
+Veröffentlicht durch: Bundesstelle für Eisenbahnunfalluntersuchung  
 
 # Hergang des Unfalls  
-Am 16.11.2015 kollidierte um 17:01 Uhr das einzeln fahrende Triebfahrzeug 9180 6186 423-0 mit der Zugfahrt DPN 79473. Der TriebfahrzeugfÃ¼hrer des Tfz 9180 6186 423-0 wechselte den FÃ¼hrerstand und fuhr anschlieÃŸend in die falsche Richtung. Auf der Weiche 220 kollidierte er mit der Zugfahrt DPN 79473, die aus Richtung Berlin Staaken kam und Ã¼ber Gleis 58 in den Bahnhof Wustermark einfuhr. Der TriebfahrzeugfÃ¼hrer glaubte, das Rangiersignal Ra 12 zu erkennen, unterdrÃ¼ckte die Beeinflussung durch den 2000-Hz-Magneten und fuhr weiter, bis die Kollision stattfand.  
+Am 16.11.2015 kollidierte um 17:01 Uhr das einzeln fahrende Triebfahrzeug 9180 6186 423-0 mit der Zugfahrt DPN 79473. Der Triebfahrzeugführer des Tfz 9180 6186 423-0 wechselte den Führerstand und fuhr anschließend in die falsche Richtung. Auf der Weiche 220 kollidierte er mit der Zugfahrt DPN 79473, die aus Richtung Berlin Staaken kam und über Gleis 58 in den Bahnhof Wustermark einfuhr. Der Triebfahrzeugführer glaubte, das Rangiersignal Ra 12 zu erkennen, unterdrückte die Beeinflussung durch den 2000-Hz-Magneten und fuhr weiter, bis die Kollision stattfand.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
 Todesopfer: Keine.  
-SachschÃ¤den:  
-- Triebfahrzeug 9180 6186 423-0: ca. 330.000 â‚¬  
-- Triebzug ET 445 109: ca. 4.000.000 â‚¬  
-- Gleisanlage: ca. 60.000 â‚¬  
+Sachschäden:  
+- Triebfahrzeug 9180 6186 423-0: ca. 330.000 €  
+- Triebzug ET 445 109: ca. 4.000.000 €  
+- Gleisanlage: ca. 60.000 €  
 
 # Ursachen des Unfalls  
-Die Ursache der Zugkollision ist auf die unzulÃ¤ssige Vorbeifahrt der Rangierfahrt am â€žHaltâ€œ zeigenden Ausfahrsignal F 58 zurÃ¼ckzufÃ¼hren. Der TriebfahrzeugfÃ¼hrer des Tfz 9180 6186 423-0 verlor die Orientierung, obwohl er den FÃ¼hrerstand wechselte und sich nicht bewusst war, dass er in die falsche Richtung fuhr. Zudem wurden AuftrÃ¤ge und Meldungen zwischen dem TriebfahrzeugfÃ¼hrer und dem Fahrdienstleiter nicht wiederholt, was zu einem MissverstÃ¤ndnis fÃ¼hrte.  
+Die Ursache der Zugkollision ist auf die unzulässige Vorbeifahrt der Rangierfahrt am "Halt" zeigenden Ausfahrsignal F 58 zurückzuführen. Der Triebfahrzeugführer des Tfz 9180 6186 423-0 verlor die Orientierung, obwohl er den Führerstand wechselte und sich nicht bewusst war, dass er in die falsche Richtung fuhr. Zudem wurden Aufträge und Meldungen zwischen dem Triebfahrzeugführer und dem Fahrdienstleiter nicht wiederholt, was zu einem Missverständnis führte.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
-- Verpflichtung zur Wiederholung von AuftrÃ¤gen und Meldungen im Zugfunk (Ril 481.0302).  
-- Erweiterung der Streckenkenntnis um Bahnhofskenntnis in Zuganfangs- und ZugendbahnhÃ¶fen.  
-- RegelmÃ¤ÃŸige Fortbildungen und Nachschulungen fÃ¼r TriebfahrzeugfÃ¼hrer, insbesondere bei Wechsel der Fahrer und Loktausch.  
-- Verbesserung der Kommunikation und VerstÃ¤ndigung zwischen Fahrdienstleitern und TriebfahrzeugfÃ¼hrern.  
-- StÃ¤rkung der Vorgaben zur Rangiervereinbarung und Kontrolle der Signalbelegung.  
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+- Verpflichtung zur Wiederholung von Aufträgen und Meldungen im Zugfunk (Ril 481.0302).  
+- Erweiterung der Streckenkenntnis um Bahnhofskenntnis in Zuganfangs- und Zugendbahnhöfen.  
+- Regelmäßige Fortbildungen und Nachschulungen für Triebfahrzeugführer, insbesondere bei Wechsel der Fahrer und Loktausch.  
+- Verbesserung der Kommunikation und Verständigung zwischen Fahrdienstleitern und Triebfahrzeugführern.  
+- Stärkung der Vorgaben zur Rangiervereinbarung und Kontrolle der Signalbelegung.  
 - Integration von Bahnhofskenntnis in das Betriebsregelwerk und Fortbildungsunterricht der EVU.
 
 ---
@@ -2827,55 +2827,55 @@ file: 155_Hannover-Linden.txt
 Zugentgleisung, 02.03.2013, Hannover-Linden  
 
 # Hergang des Unfalls  
-Am 02.03.2013 gegen 01:37 Uhr entgleiste zwei Wagen des GÃ¼terzugs KT 50528 auf dem Weg von Bebra nach Hamburg in der Weiche 13 im Bahnhof (Bf) Hannover-Linden. Der Zug war unter der Signaleinrichtung (Esig) A 53 mit Fahrtstelle (Laugsamfahrt) zugelassen und sollte Ã¼ber die Gleise 13, 43 sowie die Weichenverbindung 10 bis 17 und Ã¼ber Gleis 46 nach Gleis 6 einfahren. Der Ereignisablauf im Rahmen der Untersuchung ist maÃŸgeblich durch die Fahrt Ã¼ber die Weichen 11, 12 und 13 bestimmt.  
+Am 02.03.2013 gegen 01:37 Uhr entgleiste zwei Wagen des Güterzugs KT 50528 auf dem Weg von Bebra nach Hamburg in der Weiche 13 im Bahnhof (Bf) Hannover-Linden. Der Zug war unter der Signaleinrichtung (Esig) A 53 mit Fahrtstelle (Laugsamfahrt) zugelassen und sollte über die Gleise 13, 43 sowie die Weichenverbindung 10 bis 17 und über Gleis 46 nach Gleis 6 einfahren. Der Ereignisablauf im Rahmen der Untersuchung ist maßgeblich durch die Fahrt über die Weichen 11, 12 und 13 bestimmt.  
 
-Bei der Ereignisrekonstruktion wurde festgestellt, dass die beiden entgleisten Wagen (Stelle 18 und 19 des Zuges) am Anfang der Weiche 12/Weiche 13 entgleist sind. Dies fÃ¼hrte zur Verlagerung des leeren Containers des 18. Wagens in den Regelungstrakt der durchgÃ¤ngigen Hauptgleise 43 und 44 sowie zur Zugtreppung zwischen den Wagen 18 und 19. Die Druckabfall in der Hauptluftleitung (HL) lÃ¶ste eine Zwangsbremsung aus, wodurch die Bremsen des Zuges wirksam wurden.  
+Bei der Ereignisrekonstruktion wurde festgestellt, dass die beiden entgleisten Wagen (Stelle 18 und 19 des Zuges) am Anfang der Weiche 12/Weiche 13 entgleist sind. Dies führte zur Verlagerung des leeren Containers des 18. Wagens in den Regelungstrakt der durchgängigen Hauptgleise 43 und 44 sowie zur Zugtreppung zwischen den Wagen 18 und 19. Die Druckabfall in der Hauptluftleitung (HL) löste eine Zwangsbremsung aus, wodurch die Bremsen des Zuges wirksam wurden.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
-Keine Personen wurden verletzt oder getÃ¶tet. Es entstanden SachschÃ¤den an der Infrastruktur sowie an den beteiligten Fahrzeugen.  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Keine Personen wurden verletzt oder getötet. Es entstanden Sachschäden an der Infrastruktur sowie an den beteiligten Fahrzeugen.  
 
-Die geschÃ¤tzte HÃ¶he der SachschÃ¤den in Euro setzt sich wie folgt zusammen:  
+Die geschätzte Höhe der Sachschäden in Euro setzt sich wie folgt zusammen:  
 - Fahrzeuge: 16.000 Euro  
 - Infrastruktur: 990.000 Euro  
-- Dritter: â€“  
-**GesamtschadenshÃ¶he:** 1.006.000 Euro  
+- Dritter: –  
+**Gesamtschadenshöhe:** 1.006.000 Euro  
 
 # Ursachen des Unfalls  
-Die Ursache fÃ¼r die Entgleisung der beiden GÃ¼terwagen waren Abweichungen von der Gleissolllage sowie daraus resultierende kombinierte Gleislagefehler im Bereich der Weichenverbindung der Weichen 11 und 12 des Bf Hannover-Linden.  
+Die Ursache für die Entgleisung der beiden Güterwagen waren Abweichungen von der Gleissolllage sowie daraus resultierende kombinierte Gleislagefehler im Bereich der Weichenverbindung der Weichen 11 und 12 des Bf Hannover-Linden.  
 
 Weitere Faktoren waren:  
-- UnvollstÃ¤ndige oder fehlerhafte Inspektionen (z. B. falsche SOLL-Werte in den WeichenprÃ¼fblÃ¤ttern)  
+- Unvollständige oder fehlerhafte Inspektionen (z. B. falsche SOLL-Werte in den Weichenprüfblättern)  
 - Unzureichende Instandsetzung (Stopf- und Richtarbeiten) im Bereich der Weichenverbindung  
-- Dynamische Lasten der Zugfahrt (Geschwindigkeit von 36 km/h bei zulÃ¤ssiger Geschwindigkeit von 40 km/h)  
-- Fehlende AusfÃ¼hrung der Auslaufarme (Auslauframpe) bei der Instandsetzung  
+- Dynamische Lasten der Zugfahrt (Geschwindigkeit von 36 km/h bei zulässiger Geschwindigkeit von 40 km/h)  
+- Fehlende Ausführung der Auslaufarme (Auslauframpe) bei der Instandsetzung  
 
-Die MÃ¤ngel in der Gleisgeometrie fÃ¼hrten zu einer unzulÃ¤ssigen HÃ¶henunterschiede zwischen den parallelen Gleisen 43 und 44 der Strecken 1750-2 und 1760-2.  
+Die Mängel in der Gleisgeometrie führten zu einer unzulässigen Höhenunterschiede zwischen den parallelen Gleisen 43 und 44 der Strecken 1750-2 und 1760-2.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
 Es wurden keine expliziten Sicherheitsempfehlungen ausgesprochen. Allerdings wurden folgende Implikationen aus der Untersuchung abgeleitet:  
-- RegelmÃ¤ÃŸige und fachmÃ¤nnische Inspektionen (z. B. gemÃ¤ÃŸ Ril 821) mit korrekten SOLL-Werten  
-- VollstÃ¤ndige Instandsetzung von Weichenverbindungen, einschlieÃŸlich der Auslaufarme  
-- DurchfÃ¼hrung von Messfahrten mit Belastung zur Beurteilung der Gleislage unter Zugbetriebsbedingungen  
+- Regelmäßige und fachmännische Inspektionen (z. B. gemäß Ril 821) mit korrekten SOLL-Werten  
+- Vollständige Instandsetzung von Weichenverbindungen, einschließlich der Auslaufarme  
+- Durchführung von Messfahrten mit Belastung zur Beurteilung der Gleislage unter Zugbetriebsbedingungen  
 - Strenge Einhaltung von Vorgaben zur Instandsetzung (z. B. Ril 824)  
-- ÃœberprÃ¼fung der HÃ¶henunterschiede in Weichenverbindungen vor der Freigabe fÃ¼r den Betrieb  
+- Überprüfung der Höhenunterschiede in Weichenverbindungen vor der Freigabe für den Betrieb  
 
-Die vorliegende Analyse unterstreicht die Notwendigkeit von umfassenden und fachgerechten InstandhaltungsmaÃŸnahmen sowie einer strengen Kontrolle der Gleisgeometrie im Bereich von Weichenverbindungen.
+Die vorliegende Analyse unterstreicht die Notwendigkeit von umfassenden und fachgerechten Instandhaltungsmaßnahmen sowie einer strengen Kontrolle der Gleisgeometrie im Bereich von Weichenverbindungen.
 
 ---
 file: 077_Hannover_Hbf.txt
 
 Zugentgleisung, 01.12.2012, Hannover Hbf  
 # Hergang des Unfalls  
-Am 01.12.2012 befuhr der GÃ¼terzug EZ 51648 der DB Schenker Rail AG auf der Fahrt von NÃ¼rnberg Rbf nach Seelze Rbf den Streckenabschnitt Hannover-WÃ¼lfel â€“ Hannover Hbf der Strecke 1733. Nach Einfahrt in den Bahnhof Hannover Hbf hielt der Zug zwischen den Bahnhofsteilen BismarckstraÃŸe und dem Personenbahnhof betriebsbedingt vor dem Halt zeigenden Zwischensignal (Zsig) S43 an. Nachdem dieses Signal auf Fahrt gestellt wurde, setzte der Zug, nach einer Standzeit von 52 Sekunden, die Fahrt fort. WÃ¤hrend der anschlieÃŸenden Weiterfahrt nach Gleis 2 entgleiste bei einer Geschwindigkeit von ca. 20 km/h die erste Achse am vorderen Drehgestell des an 21. Stelle laufenden Wagens, Uacs - Nr. 3380 9324 326-3, in Fahrtrichtung nach rechts. Die Entgleisungsstelle befand sich ca. in km 1,500 und somit ca. 500 Meter vor dem Zsig S43. Im weiteren Verlauf der Fahrt lief der entgleiste Wagen ca. 900 Meter rechts neben dem Gleis her. Beim Befahren der Kreuzungsweiche 39 a/b stellte sich der Wagen dann quer zur Fahrtrichtung. Daraufhin entgleisten die nachfolgenden Wagen 22 und 23 ebenfalls. Der 22. Wagen kippte dabei nach links auf die Seite. Bei einer Geschwindigkeit von ca. 32 km/h kam es zwischen den Wagen 20 und 21 zur Zugtrennung mit anschlieÃŸender Zwangsbremsung, woraufhin der EZ 51648 nach einem Bremsweg von ca. 30 Meter anhielt.  
+Am 01.12.2012 befuhr der Güterzug EZ 51648 der DB Schenker Rail AG auf der Fahrt von Nürnberg Rbf nach Seelze Rbf den Streckenabschnitt Hannover-Wülfel – Hannover Hbf der Strecke 1733. Nach Einfahrt in den Bahnhof Hannover Hbf hielt der Zug zwischen den Bahnhofsteilen Bismarckstraße und dem Personenbahnhof betriebsbedingt vor dem Halt zeigenden Zwischensignal (Zsig) S43 an. Nachdem dieses Signal auf Fahrt gestellt wurde, setzte der Zug, nach einer Standzeit von 52 Sekunden, die Fahrt fort. Während der anschließenden Weiterfahrt nach Gleis 2 entgleiste bei einer Geschwindigkeit von ca. 20 km/h die erste Achse am vorderen Drehgestell des an 21. Stelle laufenden Wagens, Uacs - Nr. 3380 9324 326-3, in Fahrtrichtung nach rechts. Die Entgleisungsstelle befand sich ca. in km 1,500 und somit ca. 500 Meter vor dem Zsig S43. Im weiteren Verlauf der Fahrt lief der entgleiste Wagen ca. 900 Meter rechts neben dem Gleis her. Beim Befahren der Kreuzungsweiche 39 a/b stellte sich der Wagen dann quer zur Fahrtrichtung. Daraufhin entgleisten die nachfolgenden Wagen 22 und 23 ebenfalls. Der 22. Wagen kippte dabei nach links auf die Seite. Bei einer Geschwindigkeit von ca. 32 km/h kam es zwischen den Wagen 20 und 21 zur Zugtrennung mit anschließender Zwangsbremsung, woraufhin der EZ 51648 nach einem Bremsweg von ca. 30 Meter anhielt.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
-PersonenschÃ¤den waren infolge des Unfalls nicht zu beklagen. Die SachschÃ¤den wurden durch die DB Netz AG insgesamt auf ca. 1,4 Mio Euro geschÃ¤tzt.  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Personenschäden waren infolge des Unfalls nicht zu beklagen. Die Sachschäden wurden durch die DB Netz AG insgesamt auf ca. 1,4 Mio Euro geschätzt.  
 
 # Ursachen des Unfalls  
-Die Entgleisung des 21. Wagens wurde durch einen Bruch des Wellenschenkels an der ersten Achse des vorderen Drehgestells in Fahrtrichtung rechts verursacht. Der Bruch war Folge einer thermischen Ãœberbeanspruchung des Wellenschenkels im Radsatzlager (HeiÃŸlÃ¤ufer).  
+Die Entgleisung des 21. Wagens wurde durch einen Bruch des Wellenschenkels an der ersten Achse des vorderen Drehgestells in Fahrtrichtung rechts verursacht. Der Bruch war Folge einer thermischen Überbeanspruchung des Wellenschenkels im Radsatzlager (Heißläufer).  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
-Wegen der besseren Notlaufeigenschaften eines Lagers mit PolyamidkÃ¤fig gegenÃ¼ber denen eines stahlstiftvernieteten MessingkÃ¤figs haben mehrere Fahrzeughalter, so auch das hier betroffene Unternehmen Ermewa SA, vor einigen Jahren bereits damit begonnen, die Radsatzlager ihrer Eisenbahnfahrzeuge mit PolyamidkÃ¤figen auszurÃ¼sten.
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+Wegen der besseren Notlaufeigenschaften eines Lagers mit Polyamidkäfig gegenüber denen eines stahlstiftvernieteten Messingkäfigs haben mehrere Fahrzeughalter, so auch das hier betroffene Unternehmen Ermewa SA, vor einigen Jahren bereits damit begonnen, die Radsatzlager ihrer Eisenbahnfahrzeuge mit Polyamidkäfigen auszurüsten.
 
 ---
 file: 115_Einsiedlerhof.txt
@@ -2883,235 +2883,235 @@ file: 115_Einsiedlerhof.txt
 Untersuchungsbericht Zugentgleisung, 16.05.2015, Bf Einsiedlerhof
 
 # Hergang des Unfalls  
-Am 16.05.2015 gegen 09:16 Uhr entgleist der EZ 51904 in km 36,680 bei der Fahrt von Mannheim Rbf nach SaarbrÃ¼cken Rbf im Bahnhof Einsiedlerhof. Aufgrund eines Radlagerschadens am zweiachsigen GÃ¼terwagen 2180 2469 010-7 kommt es in Folge zum Bruch des Wellenschenkels an der in Fahrtrichtung nachlaufenden Achse.  
+Am 16.05.2015 gegen 09:16 Uhr entgleist der EZ 51904 in km 36,680 bei der Fahrt von Mannheim Rbf nach Saarbrücken Rbf im Bahnhof Einsiedlerhof. Aufgrund eines Radlagerschadens am zweiachsigen Güterwagen 2180 2469 010-7 kommt es in Folge zum Bruch des Wellenschenkels an der in Fahrtrichtung nachlaufenden Achse.  
 
-Nach der Entgleisung durchfÃ¤hrt der Zug die spitz befahrene Weiche 38, wodurch die Weichenzungen aufgebogen werden. Die nachfolgenden Wagen werden abgelenkt, wodurch der 13. GÃ¼terwagen umkippt und der 14. GÃ¼terwagen in Schieflage gerÃ¤t.  
+Nach der Entgleisung durchfährt der Zug die spitz befahrene Weiche 38, wodurch die Weichenzungen aufgebogen werden. Die nachfolgenden Wagen werden abgelenkt, wodurch der 13. Güterwagen umkippt und der 14. Güterwagen in Schieflage gerät.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
-PersonenschÃ¤den sind keine zu beklagen. Die SachschÃ¤den setzen sich wie folgt zusammen:  
-- Gleisanlage: ca. 700.000 â‚¬  
-- GÃ¼terwagen: ca. 90.000 â‚¬  
-- Leit- und Sicherungstechnik: ca. 200.000 â‚¬  
-- EM-Technik: ca. 100.000 â‚¬  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Personenschäden sind keine zu beklagen. Die Sachschäden setzen sich wie folgt zusammen:  
+- Gleisanlage: ca. 700.000 €  
+- Güterwagen: ca. 90.000 €  
+- Leit- und Sicherungstechnik: ca. 200.000 €  
+- EM-Technik: ca. 100.000 €  
 
 # Ursachen des Unfalls  
-Die Ursache der Entgleisung war ein Radsatzlagerschaden am 13. GÃ¼terwagen (Fz-Nr.: 2180 2469 010-7) im Zugverband. Hierbei kam es zu einer hitzebedingten Abscherung des Radsatzwellenstumpfes des nachlaufenden Radsatzes und in der weiteren Folge zur Entgleisung.  
+Die Ursache der Entgleisung war ein Radsatzlagerschaden am 13. Güterwagen (Fz-Nr.: 2180 2469 010-7) im Zugverband. Hierbei kam es zu einer hitzebedingten Abscherung des Radsatzwellenstumpfes des nachlaufenden Radsatzes und in der weiteren Folge zur Entgleisung.  
 
-ZusÃ¤tzlich spielte ein Ãœbermittlungsfehler des Fdl ESTW Neustadt West eine Rolle: Die 58. Achse wurde fÃ¤lschlicherweise als 48. Achse an den Tf Ã¼bermittelt. Dadurch konnte der HeiÃŸlÃ¤ufer nicht rechtzeitig erkannt werden.  
+Zusätzlich spielte ein Übermittlungsfehler des Fdl ESTW Neustadt West eine Rolle: Die 58. Achse wurde fälschlicherweise als 48. Achse an den Tf übermittelt. Dadurch konnte der Heißläufer nicht rechtzeitig erkannt werden.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
-Die Untersuchung weist auf die Notwendigkeit einer zweiten Untersuchung des gesamten Zuges hin, sofern trotz Alarmmeldung der HOA kein Mangel festgestellt wird. Zudem wird betont, dass eine prÃ¤zise Kommunikation zwischen Fdl und Tf sowie eine strengere ÃœberprÃ¼fung der Achsnummern erforderlich ist, um solche Fehler zu vermeiden.
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+Die Untersuchung weist auf die Notwendigkeit einer zweiten Untersuchung des gesamten Zuges hin, sofern trotz Alarmmeldung der HOA kein Mangel festgestellt wird. Zudem wird betont, dass eine präzise Kommunikation zwischen Fdl und Tf sowie eine strengere Überprüfung der Achsnummern erforderlich ist, um solche Fehler zu vermeiden.
 
 ---
 file: 092_Kirn_Bad_Sobernheim.txt
 
-BahnÃ¼bergangsunfall, 12.09.2015, Kirn - Bad Sobernheim  
+Bahnübergangsunfall, 12.09.2015, Kirn - Bad Sobernheim  
 
 # Hergang des Unfalls  
-Am 12.09.2015 um 06:05 Uhr prallt der Zug DPN 29503 auf dem technisch gesicherten BahnÃ¼bergang in km 43,119 der Strecke Bingen (Rh.) â€“ SaarbrÃ¼cken (VZG 3511) am Hp Monzingen mit einem Pkw zusammen. Der TriebfahrzeugfÃ¼hrer (Tf) des Zuges erkannte den Pkw, der die geschlossenen Halbschranken umfuhr, und leitete eine Schnellbremsung ein, konnte jedoch den Zusammenprall nicht verhindern. Der Zug kam etwa 500 m hinter dem BÃœ zum Stehen.  
+Am 12.09.2015 um 06:05 Uhr prallt der Zug DPN 29503 auf dem technisch gesicherten Bahnübergang in km 43,119 der Strecke Bingen (Rh.) – Saarbrücken (VZG 3511) am Hp Monzingen mit einem Pkw zusammen. Der Triebfahrzeugführer (Tf) des Zuges erkannte den Pkw, der die geschlossenen Halbschranken umfuhr, und leitete eine Schnellbremsung ein, konnte jedoch den Zusammenprall nicht verhindern. Der Zug kam etwa 500 m hinter dem BÜ zum Stehen.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
 - **Tote**: 5 Personen im Pkw.  
-- **Verletzte**: Der TriebfahrzeugfÃ¼hrer erlitt einen Schock, die 42 FahrgÃ¤ste im Zug blieben unverletzt.  
-- **SachschÃ¤den**:  
-  - Der Pkw wurde vollstÃ¤ndig zerstÃ¶rt.  
-  - Die EVU vlexx GmbH schÃ¤tzt die SachschÃ¤den auf etwa 325.000 Euro.  
-  - Weitere Kosten: ca. 1.000 Euro fÃ¼r die Beseitigung der Bodenverunreinigung, ca. 4.000 Euro fÃ¼r FahrbahnschÃ¤den, ca. 1.000 Euro fÃ¼r den Schaden am Wetterschutzhaus.  
-  - Es kam zu einer Streckensperrung und VerspÃ¤tungen von 30 ZÃ¼gen (596 Minuten) sowie 21 TeilausfÃ¤llen im Schienenpersonennahverkehr.  
+- **Verletzte**: Der Triebfahrzeugführer erlitt einen Schock, die 42 Fahrgäste im Zug blieben unverletzt.  
+- **Sachschäden**:  
+  - Der Pkw wurde vollständig zerstört.  
+  - Die EVU vlexx GmbH schätzt die Sachschäden auf etwa 325.000 Euro.  
+  - Weitere Kosten: ca. 1.000 Euro für die Beseitigung der Bodenverunreinigung, ca. 4.000 Euro für Fahrbahnschäden, ca. 1.000 Euro für den Schaden am Wetterschutzhaus.  
+  - Es kam zu einer Streckensperrung und Verspätungen von 30 Zügen (596 Minuten) sowie 21 Teilausfällen im Schienenpersonennahverkehr.  
 
 # Ursachen des Unfalls  
-Der Unfall wurde durch den Fahrer des Pkw verursacht, der die geschlossenen Halbschranken des BÃœSA umfuhr. Die Untersuchungen bestÃ¤tigten, dass die Sicherungsanlage des BahnÃ¼bergangs ordnungsgemÃ¤ÃŸ funktionierte. Es ist davon auszugehen, dass der Pkw-Fahrer das Rotlicht missachtete und die Halbschranken umfuhr.  
+Der Unfall wurde durch den Fahrer des Pkw verursacht, der die geschlossenen Halbschranken des BÜSA umfuhr. Die Untersuchungen bestätigten, dass die Sicherungsanlage des Bahnübergangs ordnungsgemäß funktionierte. Es ist davon auszugehen, dass der Pkw-Fahrer das Rotlicht missachtete und die Halbschranken umfuhr.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
-Der Bericht erwÃ¤hnt keine expliziten Empfehlungen, da die Untersuchung keine technischen oder organisatorischen Defizite in der BÃœSA feststellte. Es wird jedoch implizit auf die Notwendigkeit hingewiesen, sicherzustellen, dass Verkehrsteilnehmer die Vorschriften an BahnÃ¼bergÃ¤ngen einhalten (z. B. durch verstÃ¤rkte AufklÃ¤rung oder Verbesserung der Sichtbarkeit der Schranken).
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+Der Bericht erwähnt keine expliziten Empfehlungen, da die Untersuchung keine technischen oder organisatorischen Defizite in der BÜSA feststellte. Es wird jedoch implizit auf die Notwendigkeit hingewiesen, sicherzustellen, dass Verkehrsteilnehmer die Vorschriften an Bahnübergängen einhalten (z. B. durch verstärkte Aufklärung oder Verbesserung der Sichtbarkeit der Schranken).
 
 ---
 file: 091_Himmelstür_Abzw_Hildesheim_Hbf.txt
 
-Zugkollision, 25.07.2015, HimmelsthÃ¼r (Abzw) - Hildesheim Hbf
+Zugkollision, 25.07.2015, Himmelsthür (Abzw) - Hildesheim Hbf
 
 # Hergang des Unfalls
-Am 25.07.2015 um ca. 19:11 Uhr kam es auf der VzG-Strecke 1770 des EVU DB Netz AG zwischen HimmelsthÃ¼r (Abzw) und Hildesheim Hbf zu einer Zugkollision. In km 43,200 prallte Zug DPN 83719 des EVU Erixx GmbH auf einen von der Oberleitung herabhÃ¤ngenden Ast. Der Zugfahrt wurde durch das EVU Erixx GmbH auf der Infrastruktur der DB Netz AG durchgefÃ¼hrt. Der Streckenabschnitt war als zweigleisige Hauptbahn ausgefÃ¼hrt und wurde nach dem Betriebsverfahren der Ril 408 â€žZÃ¼ge fahren und Rangierenâ€œ befahren. Auf Grund des schon seit einigen Stunden herrschenden Sturms, der Deutsche Wetterdienst hatte eine entsprechende Sturmwarnung ausgegeben, war ein massiver Ast aus der Vegetation der rechten BÃ¶schungsseite herausgebrochen und lag auf dem spannungsfÃ¼hrenden Tragseil und Fahrdraht. Schlechte Sicht fÃ¼hrte dazu, dass der Tf den herabhÃ¤ngenden Ast erst spÃ¤t erkannte. Bei einer Geschwindigkeit von ca. 88 km/h leitete der Tf eine Schnellbremsung ein ohne jedoch die Kollision verhindern zu kÃ¶nnen.
+Am 25.07.2015 um ca. 19:11 Uhr kam es auf der VzG-Strecke 1770 des EVU DB Netz AG zwischen Himmelsthür (Abzw) und Hildesheim Hbf zu einer Zugkollision. In km 43,200 prallte Zug DPN 83719 des EVU Erixx GmbH auf einen von der Oberleitung herabhängenden Ast. Der Zugfahrt wurde durch das EVU Erixx GmbH auf der Infrastruktur der DB Netz AG durchgeführt. Der Streckenabschnitt war als zweigleisige Hauptbahn ausgeführt und wurde nach dem Betriebsverfahren der Ril 408 "Züge fahren und Rangieren" befahren. Auf Grund des schon seit einigen Stunden herrschenden Sturms, der Deutsche Wetterdienst hatte eine entsprechende Sturmwarnung ausgegeben, war ein massiver Ast aus der Vegetation der rechten Böschungsseite herausgebrochen und lag auf dem spannungsführenden Tragseil und Fahrdraht. Schlechte Sicht führte dazu, dass der Tf den herabhängenden Ast erst spät erkannte. Bei einer Geschwindigkeit von ca. 88 km/h leitete der Tf eine Schnellbremsung ein ohne jedoch die Kollision verhindern zu können.
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte
-Es sind weder verletzte Personen noch Todesopfer zu beklagen. Die SachschÃ¤den betragen:  
-- Triebzug ca. 2.500.000 â‚¬.  
+# Höhe des Schadens, Anzahl Tote und Verletzte
+Es sind weder verletzte Personen noch Todesopfer zu beklagen. Die Sachschäden betragen:  
+- Triebzug ca. 2.500.000 €.  
 
 # Ursachen des Unfalls
-Wegen des zum Ereigniszeitpunkt herrschenden Sturmes brach ein massiver Ast aus der Vegetation seitlich der Strecke heraus und verfing sich in der Oberleitung. Der in der Oberleitung verhakte Ast ragte soweit ins Gleisprofil hinunter, dass dadurch eine Verbindung zwischen spannungsfÃ¼hrendem Fahrdraht und dem Antrieb des Scheibenwischers am Ãœbergang vom Stirnfenster zum Fahrzeugdach hergestellt wurde. Durch diesen Kontakt kam es zu einem SpannungsÃ¼berschlag und erheblicher Hitzeentwicklung auf dem Fahrzeugdach oberhalb des FÃ¼hrerraumes. In Folge wurde der FÃ¼hrerraum vollstÃ¤ndig zerstÃ¶rt. Weiteres GeÃ¤st sorgte fÃ¼r wiederholte SpannungsÃ¼berschlÃ¤ge auf HÃ¶he des Fahrgastraumes. Dies fÃ¼hrte zu einer unbestimmten Anzahl von KurzschlÃ¼ssen im Fahrzeug, woraufhin die Ummantelung der in der Zwischendecke verbauten Verkabelung in Brand geriet und den Fahrgastraum massiv beschÃ¤digte.
+Wegen des zum Ereigniszeitpunkt herrschenden Sturmes brach ein massiver Ast aus der Vegetation seitlich der Strecke heraus und verfing sich in der Oberleitung. Der in der Oberleitung verhakte Ast ragte soweit ins Gleisprofil hinunter, dass dadurch eine Verbindung zwischen spannungsführendem Fahrdraht und dem Antrieb des Scheibenwischers am Übergang vom Stirnfenster zum Fahrzeugdach hergestellt wurde. Durch diesen Kontakt kam es zu einem Spannungsüberschlag und erheblicher Hitzeentwicklung auf dem Fahrzeugdach oberhalb des Führerraumes. In Folge wurde der Führerraum vollständig zerstört. Weiteres Geäst sorgte für wiederholte Spannungsüberschläge auf Höhe des Fahrgastraumes. Dies führte zu einer unbestimmten Anzahl von Kurzschlüssen im Fahrzeug, woraufhin die Ummantelung der in der Zwischendecke verbauten Verkabelung in Brand geriet und den Fahrgastraum massiv beschädigte.
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle
-Die Ursache des Brandereignisses war kein Einzelfehler, sondern eine Verkettung mehrerer UmstÃ¤nde. Empfohlene MaÃŸnahmen umfassen:  
-- Verbesserte Vegetationskontrolle, insbesondere in Bereichen mit hohem BÃ¤umewachstum, um freie Sicht und Abstand zur Oberleitung zu gewÃ¤hrleisten.  
-- Verbesserte Ausbildung der TriebfahrzeugfÃ¼hrer fÃ¼r die Erkennung von Hindernissen unter widrigen Wetterbedingungen.  
-- Technische Verbesserungen im Bahnstromsystem, um wiederholte KurzschlÃ¼sse durch bewegliche Vegetation zu minimieren.  
-- ErhÃ¶hung der BrandschutzmaÃŸnahmen an Fahrzeugen, insbesondere in Bereichen, die elektrisch gefÃ¤hrdet sind.  
-- RegelmÃ¤ÃŸige ÃœberprÃ¼fung der Brandschutzkonzepte und Anpassung an aktuelle Risiken.
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle
+Die Ursache des Brandereignisses war kein Einzelfehler, sondern eine Verkettung mehrerer Umstände. Empfohlene Maßnahmen umfassen:  
+- Verbesserte Vegetationskontrolle, insbesondere in Bereichen mit hohem Bäumewachstum, um freie Sicht und Abstand zur Oberleitung zu gewährleisten.  
+- Verbesserte Ausbildung der Triebfahrzeugführer für die Erkennung von Hindernissen unter widrigen Wetterbedingungen.  
+- Technische Verbesserungen im Bahnstromsystem, um wiederholte Kurzschlüsse durch bewegliche Vegetation zu minimieren.  
+- Erhöhung der Brandschutzmaßnahmen an Fahrzeugen, insbesondere in Bereichen, die elektrisch gefährdet sind.  
+- Regelmäßige Überprüfung der Brandschutzkonzepte und Anpassung an aktuelle Risiken.
 
 ---
 file: 066_Bruchmühlen_-_Bünde.txt
 
-Zugentgleisung, 17.07.2009, Bf BruchmÃ¼hlen - Bf BÃ¼nde
+Zugentgleisung, 17.07.2009, Bf Bruchmühlen - Bf Bünde
 
 # Hergang des Unfalls  
-Am 17.07.2009 um ca. 00:20 Uhr kam es auf der Strecke VzG 2992 Rheine - LÃ¶hne (Westf.) zwischen den Betriebsstellen Bf BruchmÃ¼hlen - Bf BÃ¼nde in km 101,700 zu einer Zugentgleisung. Zug CS 61084 war gebildet aus dem elektrischen Triebfahrzeug BR 155 040-9 des EVU DB Schenker Rail AG und 22 beladenen Kesselwagen der Gattung Zas. Der mit Gefahrgut (UN 1202) beladene Kesselwagen (Fzgnr. 30 80 7957 300-6) befand sich an 16. Stelle des Wagenzuges und entgleiste mit dem fÃ¼hrenden Drehgestell. Es kam zu keinem Austritt von Gefahrgut.  
+Am 17.07.2009 um ca. 00:20 Uhr kam es auf der Strecke VzG 2992 Rheine - Löhne (Westf.) zwischen den Betriebsstellen Bf Bruchmühlen - Bf Bünde in km 101,700 zu einer Zugentgleisung. Zug CS 61084 war gebildet aus dem elektrischen Triebfahrzeug BR 155 040-9 des EVU DB Schenker Rail AG und 22 beladenen Kesselwagen der Gattung Zas. Der mit Gefahrgut (UN 1202) beladene Kesselwagen (Fzgnr. 30 80 7957 300-6) befand sich an 16. Stelle des Wagenzuges und entgleiste mit dem führenden Drehgestell. Es kam zu keinem Austritt von Gefahrgut.  
 ...  
-Um ca. 00:18 Uhr wurde die HOA-Anlage 145 â€žBruchmÃ¼hlenâ€œ in km 102,910 zwischen den Betriebsstellen BruchmÃ¼hlen und BÃ¼nde/Westf. ausgelÃ¶st. Es wurde ein HeiÃŸlÃ¤uferalarm an der 67. Achse angezeigt. Um 00:18:56 Uhr informierte der zustÃ¤ndige Fahrdienstleiter BÃ¼nde/Westf. den TriebfahrzeugfÃ¼hrer von Zug CS 61084 Ã¼ber den HeiÃŸlÃ¤uferalarm und beauftragte ihn, am Stellort fÃ¼r HeiÃŸlÃ¤ufer nach Ã¶rtlicher Richtlinie fÃ¼r Bf BÃ¼nde/Westf. in km 98,800 zu halten und den Zug zu untersuchen. Der Tf erkannte jedoch die unmittelbare Gefahr und hielt den Zug sofort an. Um 00:21:54 Uhr kam der Zug in km 99,323 zum Halten. Die Untersuchung durch den Tf ergab, dass der 16. Wagen mit dem fÃ¼hrenden Drehgestell entgleist und es zu massiven SchÃ¤den im Bereich des rechten Radsatzlagers der ersten Achse gekommen war.  
+Um ca. 00:18 Uhr wurde die HOA-Anlage 145 "Bruchmühlen" in km 102,910 zwischen den Betriebsstellen Bruchmühlen und Bünde/Westf. ausgelöst. Es wurde ein Heißläuferalarm an der 67. Achse angezeigt. Um 00:18:56 Uhr informierte der zuständige Fahrdienstleiter Bünde/Westf. den Triebfahrzeugführer von Zug CS 61084 über den Heißläuferalarm und beauftragte ihn, am Stellort für Heißläufer nach örtlicher Richtlinie für Bf Bünde/Westf. in km 98,800 zu halten und den Zug zu untersuchen. Der Tf erkannte jedoch die unmittelbare Gefahr und hielt den Zug sofort an. Um 00:21:54 Uhr kam der Zug in km 99,323 zum Halten. Die Untersuchung durch den Tf ergab, dass der 16. Wagen mit dem führenden Drehgestell entgleist und es zu massiven Schäden im Bereich des rechten Radsatzlagers der ersten Achse gekommen war.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
 Bei der Zugentgleisung kamen keine Personen zu Schaden.  
 ...  
-Die SachschÃ¤den setzen sich wie folgt zusammen:  
+Die Sachschäden setzen sich wie folgt zusammen:  
 - Schienenfahrzeuge: ca. 3.000 Euro  
 - bauliche Anlagen: ca. 500.000 Euro  
 - Leit- und Sicherungstechnik: ca. 49.000 Euro  
 - Betriebserschwernisse: ca. 63.000 Euro  
-- sonstige SchÃ¤den der DB AG: ca. 100.000 Euro  
+- sonstige Schäden der DB AG: ca. 100.000 Euro  
 - bauliche Anlagen Dritter: ca. 1.000 Euro  
 ...  
-Laut Eisenbahninfrastrukturunternehmen DB Netz AG belÃ¤uft sich die SchadenshÃ¶he auf ca. 720.000â‚¬.  
+Laut Eisenbahninfrastrukturunternehmen DB Netz AG beläuft sich die Schadenshöhe auf ca. 720.000€.  
 
 # Ursachen des Unfalls  
-Auf Grund des Schadensbildes ist von einem HeiÃŸlÃ¤ufer in Folge eines Schadens am Radsatzlager an Radsatz 1R des entgleisten Kesselwagens auszugehen.  
+Auf Grund des Schadensbildes ist von einem Heißläufer in Folge eines Schadens am Radsatzlager an Radsatz 1R des entgleisten Kesselwagens auszugehen.  
 ...  
-Laut Gutachten der IFS Aachen war das Radsatzlager 1R stark beschÃ¤digt. Grund dafÃ¼r war ursÃ¤chlich die ZerstÃ¶rung des LagerkÃ¤figs. Dadurch wurden die WÃ¤lzkÃ¶rper in den unteren Teil des Lagers verschoben. Lagerinnenring sowie die Radsatzwelle verschoben sich hingegen in den oberen Teil des Lagers.  
+Laut Gutachten der IFS Aachen war das Radsatzlager 1R stark beschädigt. Grund dafür war ursächlich die Zerstörung des Lagerkäfigs. Dadurch wurden die Wälzkörper in den unteren Teil des Lagers verschoben. Lagerinnenring sowie die Radsatzwelle verschoben sich hingegen in den oberen Teil des Lagers.  
 ...  
-Die beabsichtigten Lagereigenschaften waren nun nicht mehr gegeben. Die einzelnen Bauteile des Lagers kamen in Kontakt, woraufhin sich durch starke ReibungskrÃ¤fte das gesamte Lager so stark erhitzte, wodurch das immer flÃ¼ssiger werdende Schmiermittel zum einen Teil im Lager verbrannte, zum anderen Teil durch steigenden Druck bei der Erhitzung, aus dem Lager gepresst wurde.  
+Die beabsichtigten Lagereigenschaften waren nun nicht mehr gegeben. Die einzelnen Bauteile des Lagers kamen in Kontakt, woraufhin sich durch starke Reibungskräfte das gesamte Lager so stark erhitzte, wodurch das immer flüssiger werdende Schmiermittel zum einen Teil im Lager verbrannte, zum anderen Teil durch steigenden Druck bei der Erhitzung, aus dem Lager gepresst wurde.  
 ...  
-Es kann angenommen werden, dass sich ein anfÃ¤nglicher Schwergang im betroffenen Radsatzlager bis zum vÃ¶lligen Versagen des Lagers entwickelt hatte.  
+Es kann angenommen werden, dass sich ein anfänglicher Schwergang im betroffenen Radsatzlager bis zum völligen Versagen des Lagers entwickelt hatte.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
-Zur Vermeidung eines weiteren HeiÃŸlÃ¤ufer bedingten Radsatzwellenbruches werden gegenwÃ¤rtig folgende fahrzeugseitigen MaÃŸnahmen empfohlen:  
-- Austausch vernieteter MessingkÃ¤fige durch LagerkÃ¤fige aus Kunststoff.  
-- ÃœberprÃ¼fung, ob der Anbau von Entgleisungsdetektoren bzw. Sensoren zur HeiÃŸlÃ¤ufererkennung zu einer messbaren ErhÃ¶hung der Entgleisungssicherheit beitragen kann.  
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+Zur Vermeidung eines weiteren Heißläufer bedingten Radsatzwellenbruches werden gegenwärtig folgende fahrzeugseitigen Maßnahmen empfohlen:  
+- Austausch vernieteter Messingkäfige durch Lagerkäfige aus Kunststoff.  
+- Überprüfung, ob der Anbau von Entgleisungsdetektoren bzw. Sensoren zur Heißläufererkennung zu einer messbaren Erhöhung der Entgleisungssicherheit beitragen kann.  
 ...  
-Die SicherheitsbehÃ¶rde Ã¤uÃŸerte sich am 20.07.2012 zu den ausgesprochenen Sicherheitsempfehlungen wie folgt:  
-1. Die Bewertung der empfohlenen MaÃŸnahme hat ergeben, dass der Austausch vernieteter MessingkÃ¤fige durch LagerkÃ¤fige aus Kunststoff zur Vermeidung eines weiteren heiÃŸlÃ¤uferbedingten Radsatzwellenbruches ungeeignet ist, da es nur eine von vielen Ursachen ist.  
-2. Die Untersuchung der Auswirkung von Entgleisungsdetektoren bzw. Sensoren zur HeiÃŸlÃ¤ufererkennung wird gegenwÃ¤rtig auf europÃ¤ischer bzw. internationaler Ebene gefÃ¼hrt. Das Verfahren ist abgeschlossen.
+Die Sicherheitsbehörde äußerte sich am 20.07.2012 zu den ausgesprochenen Sicherheitsempfehlungen wie folgt:  
+1. Die Bewertung der empfohlenen Maßnahme hat ergeben, dass der Austausch vernieteter Messingkäfige durch Lagerkäfige aus Kunststoff zur Vermeidung eines weiteren heißläuferbedingten Radsatzwellenbruches ungeeignet ist, da es nur eine von vielen Ursachen ist.  
+2. Die Untersuchung der Auswirkung von Entgleisungsdetektoren bzw. Sensoren zur Heißläufererkennung wird gegenwärtig auf europäischer bzw. internationaler Ebene geführt. Das Verfahren ist abgeschlossen.
 
 ---
 file: 175_Jübek_-_Flensburg_Weiche.txt
 
-BahnÃ¼bergangsunfall, 07.11.2015, JÃ¼bek â€“ Flensburg Weiche  
+Bahnübergangsunfall, 07.11.2015, Jübek – Flensburg Weiche  
 
 # Hergang des Unfalls  
-Am 07.11.2015 gegen 17:55 Uhr prallte der KT 40549 auf dem Weg von Padborg nach NeumÃ¼nster zwischen den Betriebsstellen Flensburg Weiche und JÃ¼bek am BahnÃ¼bergang (BÃœ) in km 162,0 mit zwei PKW zusammen.  
-Der RE 21072 fuhr gemÃ¤ÃŸ der Zeitangabe laut Zugnummerndrucker erst um 17:46 Uhr (vier Minuten nach der gemeldeten Zeit) aus JÃ¼bek los und erreichte den BÃœ um 17:53 Uhr. Der KT 40549, der um 17:48 Uhr (eine Minute frÃ¼her als gemeldet) aus Flensburg Weiche ausfuhr, erreichte den BÃœ um 17:55 Uhr.  
-Nach dem Passieren des RE 21072 Ã¶ffnete der BÃœP die Schranken, wodurch der KT 40549 den nicht gesicherten BÃœ passierte und mit den beiden PKW kollidierte.  
+Am 07.11.2015 gegen 17:55 Uhr prallte der KT 40549 auf dem Weg von Padborg nach Neumünster zwischen den Betriebsstellen Flensburg Weiche und Jübek am Bahnübergang (BÜ) in km 162,0 mit zwei PKW zusammen.  
+Der RE 21072 fuhr gemäß der Zeitangabe laut Zugnummerndrucker erst um 17:46 Uhr (vier Minuten nach der gemeldeten Zeit) aus Jübek los und erreichte den BÜ um 17:53 Uhr. Der KT 40549, der um 17:48 Uhr (eine Minute früher als gemeldet) aus Flensburg Weiche ausfuhr, erreichte den BÜ um 17:55 Uhr.  
+Nach dem Passieren des RE 21072 öffnete der BÜP die Schranken, wodurch der KT 40549 den nicht gesicherten BÜ passierte und mit den beiden PKW kollidierte.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
-Bei dem Ereignis traten folgende PersonenschÃ¤den ein:  
-- **Anzahl schwer Verletzte:** 2 (Benutzer von BahnÃ¼bergÃ¤ngen)  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Bei dem Ereignis traten folgende Personenschäden ein:  
+- **Anzahl schwer Verletzte:** 2 (Benutzer von Bahnübergängen)  
 - **Anzahl leicht Verletzte:** 1 (Mitarbeiter)  
 - **Anzahl Tote:** 0  
 
-Die geschÃ¤tzte HÃ¶he der SachschÃ¤den setzt sich wie folgt zusammen:  
-- **Fahrzeuge:** 150.000 â‚¬  
-- **Infrastruktur:** 15.380 â‚¬  
-- **Dritter:** 25.000 â‚¬  
-- **GesamtschadenshÃ¶he:** 190.380 â‚¬  
+Die geschätzte Höhe der Sachschäden setzt sich wie folgt zusammen:  
+- **Fahrzeuge:** 150.000 €  
+- **Infrastruktur:** 15.380 €  
+- **Dritter:** 25.000 €  
+- **Gesamtschadenshöhe:** 190.380 €  
 
 # Ursachen des Unfalls  
-Die Sicherung des BÃœ wurde nach der Zugfahrt RE 21072 aufgehoben, obwohl sich der Zug KT 40549 aus Richtung Flensburg Weiche noch im Streckenabschnitt befand und den BÃœ noch nicht befahren hatte.  
-Der BÃœP hatte den KT 40549 im Nachweis der Benachrichtigungen nicht durchgestrichen, obwohl die Mindestfahrzeit laut Fahrplan (3 Minuten fÃ¼r ZÃ¼ge aus Flensburg Weiche) abgelaufen war. GemÃ¤ÃŸ Ril 456.0020 durfte der BÃœP den BÃœ erst freigeben, wenn alle gemeldeten Fahrten im Nachweis gestrichen waren.  
-ZusÃ¤tzlich fÃ¼hrten die unzulÃ¤ssige Konfiguration der BÃœ-Sicherung (zwei TH BÃœP-Anlagen mit begrenzter KapazitÃ¤t) und die unzulÃ¤ngliche Zugmeldung (nicht korrigiert) zur Ungenauigkeit in der Sicherung.  
+Die Sicherung des BÜ wurde nach der Zugfahrt RE 21072 aufgehoben, obwohl sich der Zug KT 40549 aus Richtung Flensburg Weiche noch im Streckenabschnitt befand und den BÜ noch nicht befahren hatte.  
+Der BÜP hatte den KT 40549 im Nachweis der Benachrichtigungen nicht durchgestrichen, obwohl die Mindestfahrzeit laut Fahrplan (3 Minuten für Züge aus Flensburg Weiche) abgelaufen war. Gemäß Ril 456.0020 durfte der BÜP den BÜ erst freigeben, wenn alle gemeldeten Fahrten im Nachweis gestrichen waren.  
+Zusätzlich führten die unzulässige Konfiguration der BÜ-Sicherung (zwei TH BÜP-Anlagen mit begrenzter Kapazität) und die unzulängliche Zugmeldung (nicht korrigiert) zur Ungenauigkeit in der Sicherung.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
 Es wurden keine Sicherheitsempfehlungen ausgesprochen.  
-Allerdings wurden nach dem Unfall folgende MaÃŸnahmen getroffen:  
-- Das Sicherungsunternehmen POND Security Bahn Service GmbH erteilte seinen Mitarbeitern die Weisung, die Mindestfahrzeiten laut Fahrplan nicht mehr anzuwenden und die BÃœ unverzÃ¼glich zu schlieÃŸen.  
-- Die DB Netz AG hat seit 2018 Nachwarnsysteme fÃ¼r BÃœP zugelassen, um sie bei nicht gesicherten BÃœ zu unterstÃ¼tzen und NotschlieÃŸungen einzuleiten.  
-- In der Sicherheitsempfehlung des BahnÃ¼bergangsunfalls Neustadt a. Rbge â€“ Hagen (Han) wurden Themen wie die Minimierung der Risiken durch BÃœP-Einsatz, die Gestaltung der BÃœP-ArbeitsplÃ¤tze und klare Zeitvorgaben fÃ¼r die Sicherung von BÃœ vorgeschlagen.
+Allerdings wurden nach dem Unfall folgende Maßnahmen getroffen:  
+- Das Sicherungsunternehmen POND Security Bahn Service GmbH erteilte seinen Mitarbeitern die Weisung, die Mindestfahrzeiten laut Fahrplan nicht mehr anzuwenden und die BÜ unverzüglich zu schließen.  
+- Die DB Netz AG hat seit 2018 Nachwarnsysteme für BÜP zugelassen, um sie bei nicht gesicherten BÜ zu unterstützen und Notschließungen einzuleiten.  
+- In der Sicherheitsempfehlung des Bahnübergangsunfalls Neustadt a. Rbge – Hagen (Han) wurden Themen wie die Minimierung der Risiken durch BÜP-Einsatz, die Gestaltung der BÜP-Arbeitsplätze und klare Zeitvorgaben für die Sicherung von BÜ vorgeschlagen.
 
 ---
 file: 010_Gremberg.txt
 
-ZusammenstoÃŸ in Gremberg â€“ KÃ¶ln Kalk Nord am 15.03.2006  
+Zusammenstoß in Gremberg – Köln Kalk Nord am 15.03.2006  
 
 # Hergang des Unfalls  
-Am 15.03.2006, um 06:14 Uhr, stieÃŸ der GÃ¼terzug IKE 51245 mit dem bereits auf der Strecke Gremberg â€“ KÃ¶ln Kalk Nord stehenden GÃ¼terzug FIR 50216 in Streckenkilometer 64,900 zusammen. Der Zug 51245 fuhr mit einer Geschwindigkeit von 34 km/h auf den gerade anfahrenden Zug 50216 auf. Darauf hin entgleisten insgesamt 11 Wagen des Zuges 51245 und gerieten zum Teil in SchrÃ¤glage.  
+Am 15.03.2006, um 06:14 Uhr, stieß der Güterzug IKE 51245 mit dem bereits auf der Strecke Gremberg – Köln Kalk Nord stehenden Güterzug FIR 50216 in Streckenkilometer 64,900 zusammen. Der Zug 51245 fuhr mit einer Geschwindigkeit von 34 km/h auf den gerade anfahrenden Zug 50216 auf. Darauf hin entgleisten insgesamt 11 Wagen des Zuges 51245 und gerieten zum Teil in Schräglage.  
 
-Der Zug 50216 erfolgte aus Richtung Troisdorf Ã¼ber Gremberg nach KÃ¶ln Kalk Nord. FÃ¼r die Einfahrt in den Bahnhof KÃ¶ln Kalk Nord zeigte das Einfahrsignal Halt. Der TriebfahrzeugfÃ¼hrer hielt ca. 200 m vor dem Signal an. Nachdem sich der TriebfahrzeugfÃ¼hrer 50216 beim Fdl KÃ¶ln Kalk Nord gemeldet hatte, stellte dieser die EinfahrzugstraÃŸe ein. Kurz danach fuhr der darauffolgende Zug 51245 mit einer Geschwindigkeit von 34 km/h auf den gerade anfahrenden Zug 50216 auf. Darauf hin sind 11 Wagen aus Zug 51245 entgleist und zum Teil in SchrÃ¤glage geraten.  
+Der Zug 50216 erfolgte aus Richtung Troisdorf über Gremberg nach Köln Kalk Nord. Für die Einfahrt in den Bahnhof Köln Kalk Nord zeigte das Einfahrsignal Halt. Der Triebfahrzeugführer hielt ca. 200 m vor dem Signal an. Nachdem sich der Triebfahrzeugführer 50216 beim Fdl Köln Kalk Nord gemeldet hatte, stellte dieser die Einfahrzugstraße ein. Kurz danach fuhr der darauffolgende Zug 51245 mit einer Geschwindigkeit von 34 km/h auf den gerade anfahrenden Zug 50216 auf. Darauf hin sind 11 Wagen aus Zug 51245 entgleist und zum Teil in Schräglage geraten.  
 
-Aus zwei beteiligten Kesselwagen ist kein Gefahrgut ausgetreten. Aus einem auf dem 14. Wagen des 50216 verladenen Containers trat eine geringe Menge eines ungefÃ¤hrlichen Ladegutes (Kunststoff-Granulat) aus.  
+Aus zwei beteiligten Kesselwagen ist kein Gefahrgut ausgetreten. Aus einem auf dem 14. Wagen des 50216 verladenen Containers trat eine geringe Menge eines ungefährlichen Ladegutes (Kunststoff-Granulat) aus.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
 Ein Mitarbeiter der Railion Deutschland AG (Tf 51245) wurde leicht verletzt.  
 
-Fracht, GepÃ¤ck und anderes Eigentum: seitens des EVU wurden keine Angaben gemacht.  
+Fracht, Gepäck und anderes Eigentum: seitens des EVU wurden keine Angaben gemacht.  
 
 Fahrzeuge, Infrastruktur und Umwelt:  
 Zug 50216: hatte sich zwischen dem 18. und 19. Wagen getrennt.  
-Zug 51245: Wagen 7 und 8 entgleisten mit je einer Achse; Wagen 9â€“17 entgleisten mit beiden Achsen und wurden von den jeweils nachfolgenden Wagen Ã¼berpuffert. Der Kesselwagen 23 80 746 5 354-0; Gefahrnummer 886; UN-Nr. 1052 befand sich nach dem ZusammenstoÃŸ in SchrÃ¤glage und drohte umzukippen.  
+Zug 51245: Wagen 7 und 8 entgleisten mit je einer Achse; Wagen 9–17 entgleisten mit beiden Achsen und wurden von den jeweils nachfolgenden Wagen überpuffert. Der Kesselwagen 23 80 746 5 354-0; Gefahrnummer 886; UN-Nr. 1052 befand sich nach dem Zusammenstoß in Schräglage und drohte umzukippen.  
 
-Die Gleis- und Fernmeldeanlagen wurden auf Grund des ZusammenstoÃŸes und der anschlieÃŸenden Entgleisung zum Teil schwer beschÃ¤digt.  
+Die Gleis- und Fernmeldeanlagen wurden auf Grund des Zusammenstoßes und der anschließenden Entgleisung zum Teil schwer beschädigt.  
 
-Die Umwelt kam bei diesem Ereignis nur geringfÃ¼gig zu Schaden. Es trat kein Gefahrgut aus.  
+Die Umwelt kam bei diesem Ereignis nur geringfügig zu Schaden. Es trat kein Gefahrgut aus.  
 
 # Ursachen des Unfalls  
 Folgende Punkte trugen kausal zur Ursache bei:  
-âˆ’ Abweichung der Grundschaltung auf dem Stellwerk Gnf in Gremberg  
-âˆ’ Frosteinwirkung am Kuppelmagneten des Ausfahrsignals G  
-âˆ’ die Fehlleitung der Zugnummer 50216 in der Zugnummernmeldeanlage in Richtung KÃ¶ln Bonntor anstatt nach KÃ¶ln Kalk Nord  
+− Abweichung der Grundschaltung auf dem Stellwerk Gnf in Gremberg  
+− Frosteinwirkung am Kuppelmagneten des Ausfahrsignals G  
+− die Fehlleitung der Zugnummer 50216 in der Zugnummernmeldeanlage in Richtung Köln Bonntor anstatt nach Köln Kalk Nord  
 
 Bedienung der Stellwerksanlage Gnf:  
-âˆ’ Der Fdl Gnf hatte den Vorblock fÃ¼r Zug 50216 in Richtung KÃ¶ln Kalk Nord nicht vorgenommen.  
-âˆ’ Dem Fdl Gnf ist nicht aufgefallen, dass sich der FahrstraÃŸensignalhebel nicht vollstÃ¤ndig in die 90Â° Stellung hat bringen lassen. Zudem hat er nicht erkannt, dass die Streckenwiederholungssperre durch Zug 50216 noch wirksam war.  
+− Der Fdl Gnf hatte den Vorblock für Zug 50216 in Richtung Köln Kalk Nord nicht vorgenommen.  
+− Dem Fdl Gnf ist nicht aufgefallen, dass sich der Fahrstraßensignalhebel nicht vollständig in die 90° Stellung hat bringen lassen. Zudem hat er nicht erkannt, dass die Streckenwiederholungssperre durch Zug 50216 noch wirksam war.  
 
-In der Stellwerksanlage Stellwerk Gnf wurde eine Abweichung von der Grundschaltung festgestellt, die im Zusammenwirken mit einer nicht ordnungsgemÃ¤ÃŸen Bedienung der Stellwerksanlage zu einer nicht zulÃ¤ssigen Fahrtstellung des Hauptsignals fÃ¼hren kann.  
+In der Stellwerksanlage Stellwerk Gnf wurde eine Abweichung von der Grundschaltung festgestellt, die im Zusammenwirken mit einer nicht ordnungsgemäßen Bedienung der Stellwerksanlage zu einer nicht zulässigen Fahrtstellung des Hauptsignals führen kann.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
 Es wird empfohlen:  
-1. alle Stellwerke der Bauform E 43 daraufhin zu Ã¼berprÃ¼fen, ob wÃ¤hrend der Betriebszeit der Stellwerke technische Ã„nderungen vorgenommen wurden, die zu einer Ã„nderung des unter 3.4.1.2. beschriebenen Regelablaufs gefÃ¼hrt haben.  
-2. geeignete MaÃŸnahmen (z. B. RÃ¼cknahme der technischen Ã„nderung) an den Stellwerken vorzunehmen, bei denen die unter 1. beschriebenen Voraussetzungen vorliegen.
+1. alle Stellwerke der Bauform E 43 daraufhin zu überprüfen, ob während der Betriebszeit der Stellwerke technische Änderungen vorgenommen wurden, die zu einer Änderung des unter 3.4.1.2. beschriebenen Regelablaufs geführt haben.  
+2. geeignete Maßnahmen (z. B. Rücknahme der technischen Änderung) an den Stellwerken vorzunehmen, bei denen die unter 1. beschriebenen Voraussetzungen vorliegen.
 
 ---
 file: 179_Willroth_-_Siegburg_Bonn.txt
 
-Zugkollision, 06.05.2015, Ãœst Willroth â€“ Bf Siegburg/Bonn  
+Zugkollision, 06.05.2015, Üst Willroth – Bf Siegburg/Bonn  
 # Hergang des Unfalls  
-Am 06.05.2015 gegen 11:09 Uhr kollidierte der ICE 728 des Eisenbahnverkehrsunternehmens (EVU) DB Fernverkehr AG, auf dem Weg von NÃ¼rnberg Hbf nach Dortmund Hbf, mit BruchstÃ¼cken der Schallabsorber der festen Fahrbahn. Die Kollisionsstelle befand sich auf der vom Eisenbahninfrastrukturunternehmen (EIU) DB Netz AG betriebenen zweigleisigen Schnellfahrstrecke KÃ¶ln-Rhein/Main (KRM) zwischen den Betriebsstellen Ãœberleitstelle (Ãœst) Willroth und dem Bahnhof (Bf) Siegburg/Bonn. GemÃ¤ÃŸ dem Verzeichnis der Ã¶rtlich zulÃ¤ssigen Geschwindigkeiten (VzG) wird diese Strecke unter der Nummer 2690 gefÃ¼hrt. Die Kollision ereignete sich ca. in km 30,66 auf der elektrifizierten Strecke, die im Bereich der Unfallstelle mit einer maximal zulÃ¤ssigen Geschwindigkeit von 300 km/h befahren werden darf. Bei mehreren dieser auf der festen Fahrbahn verbauten Schallabsorber aus Porenbeton kam es unter Einfluss der Witterung zu horizontalen AbbrÃ¼chen, die im Zusammenhang mit Gleisbauarbeiten zu weiteren vertikalen AbbrÃ¼chen fÃ¼hrten. Bei der ZugÃ¼berfahrt wurden, durch die Sogwirkung des Zuges, BruchstÃ¼cke hochgeschleudert. Der TriebfahrzeugfÃ¼hrer des ICE bremste daraufhin den Zug bis zum Stillstand ab, nachdem er zuvor vom Zugbegleitpersonal Ã¼ber schlagende GerÃ¤usche informiert wurde. Etwa 70 Minuten nach Aufhebung der Langsamfahrstelle, gegen 11:09 Uhr, kam es zur Kollision des ICE mit den BruchstÃ¼cken der Absorberplatten.  
+Am 06.05.2015 gegen 11:09 Uhr kollidierte der ICE 728 des Eisenbahnverkehrsunternehmens (EVU) DB Fernverkehr AG, auf dem Weg von Nürnberg Hbf nach Dortmund Hbf, mit Bruchstücken der Schallabsorber der festen Fahrbahn. Die Kollisionsstelle befand sich auf der vom Eisenbahninfrastrukturunternehmen (EIU) DB Netz AG betriebenen zweigleisigen Schnellfahrstrecke Köln-Rhein/Main (KRM) zwischen den Betriebsstellen Überleitstelle (Üst) Willroth und dem Bahnhof (Bf) Siegburg/Bonn. Gemäß dem Verzeichnis der örtlich zulässigen Geschwindigkeiten (VzG) wird diese Strecke unter der Nummer 2690 geführt. Die Kollision ereignete sich ca. in km 30,66 auf der elektrifizierten Strecke, die im Bereich der Unfallstelle mit einer maximal zulässigen Geschwindigkeit von 300 km/h befahren werden darf. Bei mehreren dieser auf der festen Fahrbahn verbauten Schallabsorber aus Porenbeton kam es unter Einfluss der Witterung zu horizontalen Abbrüchen, die im Zusammenhang mit Gleisbauarbeiten zu weiteren vertikalen Abbrüchen führten. Bei der Zugüberfahrt wurden, durch die Sogwirkung des Zuges, Bruchstücke hochgeschleudert. Der Triebfahrzeugführer des ICE bremste daraufhin den Zug bis zum Stillstand ab, nachdem er zuvor vom Zugbegleitpersonal über schlagende Geräusche informiert wurde. Etwa 70 Minuten nach Aufhebung der Langsamfahrstelle, gegen 11:09 Uhr, kam es zur Kollision des ICE mit den Bruchstücken der Absorberplatten.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
-Personen wurden weder verletzt noch getÃ¶tet. Es entstanden SachschÃ¤den an der Infrastruktur und dem beteiligten Fahrzeug. Die HÃ¶he der SachschÃ¤den wurde auf ca. 80.000 Euro geschÃ¤tzt.  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Personen wurden weder verletzt noch getötet. Es entstanden Sachschäden an der Infrastruktur und dem beteiligten Fahrzeug. Die Höhe der Sachschäden wurde auf ca. 80.000 Euro geschätzt.  
 
 # Ursachen des Unfalls  
-Die Kollision mit den Absorberplatten hÃ¤tte verhindert werden kÃ¶nnen, wenn die defekten Platten wie in der Bau- und Betriebsanweisung vorgesehen im erforderlichen Umfang ausgetauscht worden wÃ¤ren. Durch eine geÃ¤nderte Baustellendisposition bzw. ein anderes Umbauverfahren hÃ¤tten weitere BeschÃ¤digungen der Absorberplatten vermieden werden kÃ¶nnen. Eine umfangreiche Schadensaufnahme an den Schallabsorbern durch Bauleitung und BauÃ¼berwachung vor Aufnahme des Bahnbetriebes hÃ¤tte dazu fÃ¼hren mÃ¼ssen, dass der Streckenabschnitt wegen der defekten Schallabsorberplatten nur mit verminderter Geschwindigkeit bis zum entsprechenden Austausch befahren wird. Wenige Tage zuvor wurden im genannten Streckenabschnitt Schienen gewechselt. AuÃŸerdem sollten auch defekte Schallabsorber getauscht werden. Das geplante Auswechseln aller beschÃ¤digten Absorberplatten konnte aufgrund von zeitlichen Problemen wÃ¤hrend der Dauer der Instandsetzungsarbeiten nicht realisiert werden. Nach dem durchgefÃ¼hrten Schienenwechsel erfolgte am 04.05.2015 die oberbautechnische Freigabe durch die Ã¶rtliche BauÃ¼berwachung, obwohl die defekten Schallabsorber zuvor nicht im erforderlichen Umfang ausgetauscht werden konnten.  
+Die Kollision mit den Absorberplatten hätte verhindert werden können, wenn die defekten Platten wie in der Bau- und Betriebsanweisung vorgesehen im erforderlichen Umfang ausgetauscht worden wären. Durch eine geänderte Baustellendisposition bzw. ein anderes Umbauverfahren hätten weitere Beschädigungen der Absorberplatten vermieden werden können. Eine umfangreiche Schadensaufnahme an den Schallabsorbern durch Bauleitung und Bauüberwachung vor Aufnahme des Bahnbetriebes hätte dazu führen müssen, dass der Streckenabschnitt wegen der defekten Schallabsorberplatten nur mit verminderter Geschwindigkeit bis zum entsprechenden Austausch befahren wird. Wenige Tage zuvor wurden im genannten Streckenabschnitt Schienen gewechselt. Außerdem sollten auch defekte Schallabsorber getauscht werden. Das geplante Auswechseln aller beschädigten Absorberplatten konnte aufgrund von zeitlichen Problemen während der Dauer der Instandsetzungsarbeiten nicht realisiert werden. Nach dem durchgeführten Schienenwechsel erfolgte am 04.05.2015 die oberbautechnische Freigabe durch die örtliche Bauüberwachung, obwohl die defekten Schallabsorber zuvor nicht im erforderlichen Umfang ausgetauscht werden konnten.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
-Nach der Kollision wurde der Streckenabschnitt untersucht und festgestellt, dass neben den bekannten AltschÃ¤den in erheblichem Umfang NeuschÃ¤den durch den Schienenwechsel entstanden waren. Darau in wurde im Gleis Ãœst Willroth â€“ Siegburg/Bonn erneut eine Langsamfahrstelle mit einer Geschwindigkeit von 160 km/h eingerichtet, die bis zu einer erneuten Streckensperrung fÃ¼r weitere Instandsetzungsarbeiten am 08.05.2015 bestehen blieb. Weitere Veranlassungen durch das EIU DB Netz AG:  
-- umfangreicher Austausch weiterer beschÃ¤digter Absorberplatten  
-- Hinweis an die BauÃ¼berwachung Ã¼ber die gesonderte Behandlung der Schallabsorber  
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+Nach der Kollision wurde der Streckenabschnitt untersucht und festgestellt, dass neben den bekannten Altschäden in erheblichem Umfang Neuschäden durch den Schienenwechsel entstanden waren. Darau in wurde im Gleis Üst Willroth – Siegburg/Bonn erneut eine Langsamfahrstelle mit einer Geschwindigkeit von 160 km/h eingerichtet, die bis zu einer erneuten Streckensperrung für weitere Instandsetzungsarbeiten am 08.05.2015 bestehen blieb. Weitere Veranlassungen durch das EIU DB Netz AG:  
+- umfangreicher Austausch weiterer beschädigter Absorberplatten  
+- Hinweis an die Bauüberwachung über die gesonderte Behandlung der Schallabsorber  
 - Hinweis auf gezielte Begutachtung der Schallabsorber vor der Gleisfreigabe  
-- umgehende VerstÃ¤ndigung des ALV Oberbau bei UnregelmÃ¤ÃŸigkeiten  
-- vmax erst nach Beseitigung der UnregelmÃ¤ÃŸigkeiten  
-- zur zukÃ¼nftigen Vermeidung von Horizontalrissen wurde die Rezeptur fÃ¼r die Herstellung der Absorberplatten verÃ¤ndert um eine bessere WasserdurchlÃ¤ssigkeit zu erzielen
+- umgehende Verständigung des ALV Oberbau bei Unregelmäßigkeiten  
+- vmax erst nach Beseitigung der Unregelmäßigkeiten  
+- zur zukünftigen Vermeidung von Horizontalrissen wurde die Rezeptur für die Herstellung der Absorberplatten verändert um eine bessere Wasserdurchlässigkeit zu erzielen
 
 ---
 file: 191_Treben-Lehma.txt
 
-Zugentgleisung, 11.11.2015, Trebenâ€�Lehma  
-Bundesstelle fÃ¼r Eisenbahnunfalluntersuchung  
+Zugentgleisung, 11.11.2015, Treben�Lehma  
+Bundesstelle für Eisenbahnunfalluntersuchung  
 
 # Hergang des Unfalls  
-Am 11.11.2015 gegen 23:40 Uhr entgleiste die Zugfahrt GA 52805 des Eisenbahnverkehrsunternehmens DB Schenker Rail auf der Fahrt von Bahnhof (Bf) Braunschweig Rbf nach Bf Mosel in der Ãœberleitstelle (Ãœst) Trebenâ€�Lehma in der Weiche 20 mit zwei Wagen.  
-Die Zugentgleisung ereignete sich auf der zweigleisigen elektrifizierten Strecke Leipzig Hbf â€“ Hof, die vom Eisenbahninfrastrukturunternehmen DB Netz AG betrieben wird.  
-Der Zug GA 52805 kam an der Ãœst Trebenâ€�Lehma am Signal Ne 1 auf HÃ¶he des Blocksignals A etwa in km 32,1 zum Halten. Zeitgleich wartete der Zug GA 52810 vor dem Blocksignal D ca. in km 33,4 auf seine Weiterfahrt in Richtung Regisâ€�Brei ngen. Die Fdl erteilte, laut dem vorliegenden ausgefÃ¼llten Befehlsvordruck um 23:38 Uhr, dem TriebfahrzeugfÃ¼hrer des Zuges GA 52805 Ã¼ber Zugfunk den Befehl Nr. 1 zur Weiterfahrt ohne Hauptsignal. Danach setzte sich der Zug in Bewegung um Ã¼ber die Weichen 20 in ca. km 33,08 und 21 in ca. km 33,18 in das Streckengleis Trebenâ€�Lehma â€“ Altenburg und weiter in Richtung Bf Altenburg zu fahren.  
-Als sich das in der Wagenreihung erste Fahrzeug, ein Autotransportwagen der Gaung Laaeks, Fahrzeugnummer 25 80 4367 389â€�0 auf der Weiche 20 befand, stellte die Fdl diese um. Daraufhin entgleisten das erste und auch das zwÃ¶lfte Wagen, ebenfalls ein Fahrzeug der Gaung Laaeks, mit der Fahrzeugnummer 25 80 4367 127â€�4.  
+Am 11.11.2015 gegen 23:40 Uhr entgleiste die Zugfahrt GA 52805 des Eisenbahnverkehrsunternehmens DB Schenker Rail auf der Fahrt von Bahnhof (Bf) Braunschweig Rbf nach Bf Mosel in der Überleitstelle (Üst) Treben�Lehma in der Weiche 20 mit zwei Wagen.  
+Die Zugentgleisung ereignete sich auf der zweigleisigen elektrifizierten Strecke Leipzig Hbf – Hof, die vom Eisenbahninfrastrukturunternehmen DB Netz AG betrieben wird.  
+Der Zug GA 52805 kam an der Üst Treben�Lehma am Signal Ne 1 auf Höhe des Blocksignals A etwa in km 32,1 zum Halten. Zeitgleich wartete der Zug GA 52810 vor dem Blocksignal D ca. in km 33,4 auf seine Weiterfahrt in Richtung Regis�Brei ngen. Die Fdl erteilte, laut dem vorliegenden ausgefüllten Befehlsvordruck um 23:38 Uhr, dem Triebfahrzeugführer des Zuges GA 52805 über Zugfunk den Befehl Nr. 1 zur Weiterfahrt ohne Hauptsignal. Danach setzte sich der Zug in Bewegung um über die Weichen 20 in ca. km 33,08 und 21 in ca. km 33,18 in das Streckengleis Treben�Lehma – Altenburg und weiter in Richtung Bf Altenburg zu fahren.  
+Als sich das in der Wagenreihung erste Fahrzeug, ein Autotransportwagen der Gaung Laaeks, Fahrzeugnummer 25 80 4367 389�0 auf der Weiche 20 befand, stellte die Fdl diese um. Daraufhin entgleisten das erste und auch das zwölfte Wagen, ebenfalls ein Fahrzeug der Gaung Laaeks, mit der Fahrzeugnummer 25 80 4367 127�4.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
-Es wurden keine Personen getÃ¶tet oder verletzt.  
-Die entstandenen SachschÃ¤den beliefen sich auf:  
-- **Fahrzeuge**: geschÃ¤tzte Kosten von 5.900 Euro  
-- **Infrastruktur**: geschÃ¤tzte Kosten von 108.700 Euro  
-- **GesamtschadenshÃ¶he**: geschÃ¤tzte Kosten von 114.600 Euro  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Es wurden keine Personen getötet oder verletzt.  
+Die entstandenen Sachschäden beliefen sich auf:  
+- **Fahrzeuge**: geschätzte Kosten von 5.900 Euro  
+- **Infrastruktur**: geschätzte Kosten von 108.700 Euro  
+- **Gesamtschadenshöhe**: geschätzte Kosten von 114.600 Euro  
 
 # Ursachen des Unfalls  
-Der Ursprung fÃ¼r das Ereignis lag in einem VerstoÃŸ gegen die Ril 408 â€“ Fahrdienstvorschri. Die Fdl brachte die Hilfssperren zur Sicherung der HilfsfahrstraÃŸe nicht an oder entfernte sie, bevor der GA 52805 die Weichen passierte. Deshalb war der Fahrweg des Zuges nicht mehr gesichert und das anschlieÃŸende unzeitige Umstellen der Weiche 20 unter dem Zug mÃ¶glich.  
-GemÃ¤ÃŸ Ril 408.0232 â€“ ZÃ¼ge fahren; Fahrweg sichern â€“, Abschnitt 4, galt fÃ¼r Zugfahrten mit besonderem Auftrag: â€žDie vorgeschriebenen MaÃŸnahmen zur Sicherung des Fahrwegs sind so lange erforderlich, bis der Zug die Weichen durchfahren hat.â€œ  
+Der Ursprung für das Ereignis lag in einem Verstoß gegen die Ril 408 – Fahrdienstvorschri. Die Fdl brachte die Hilfssperren zur Sicherung der Hilfsfahrstraße nicht an oder entfernte sie, bevor der GA 52805 die Weichen passierte. Deshalb war der Fahrweg des Zuges nicht mehr gesichert und das anschließende unzeitige Umstellen der Weiche 20 unter dem Zug möglich.  
+Gemäß Ril 408.0232 – Züge fahren; Fahrweg sichern –, Abschnitt 4, galt für Zugfahrten mit besonderem Auftrag: "Die vorgeschriebenen Maßnahmen zur Sicherung des Fahrwegs sind so lange erforderlich, bis der Zug die Weichen durchfahren hat."  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
-Der BEU wurden keine MaÃŸnahmen bekannt, die infolge des Ereignisses durch die beteiligten Eisenbahnunternehmen oder durch die SicherheitsbehÃ¶rde getroffen wurden.
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+Der BEU wurden keine Maßnahmen bekannt, die infolge des Ereignisses durch die beteiligten Eisenbahnunternehmen oder durch die Sicherheitsbehörde getroffen wurden.
 
 ---
 file: 012_Raubling.txt
@@ -3119,123 +3119,123 @@ file: 012_Raubling.txt
 Entgleisung, Brannenburg - Raubling, 19.12.2007
 
 # Hergang des Unfalls
-Am Mittwoch, 19.12.2007, 23:18 Uhr, entgleiste der GÃ¼terzug DGS 45861 (Laufweg: Wolfurt (A) â€“ Kufstein â€“ Salzburg (A), Eisenbahnverkehrsunternehmen (EVU): Rail Cargo Austria) zwischen Brannenburg und Raubling (Strecke 5702, Kufstein - Rosenheim) in km 10,826 mit allen Wagen.  
-Bei dem GÃ¼terzug DGS 45861 handelt es sich um einen sog. â€žKorridorzug" der Rail Cargo Austria.  
-Am Mittwoch, 19.12.2007, 23:18 Uhr, entgleiste die Zugfahrt DGS 45861 in km 10,826 der zweigleisigen Hauptbahn (VzG-Strecke 5702) Rosenheim - Kufstein im Gleis Kufstein â€“ Rosenheim mit dem gesamten Wagenzug. Das Triebfahrzeug verblieb auf den Schienen. Von den entgleisten Wagen waren 4 umgestÃ¼rzt. Die Zugspitze kam bei km 10,570 zum Stehen.  
-Die Unfallstelle befindet sich auf einer Ã¼ber die Bundesautobahn (BAB 93) MÃ¼nchen - Kufstein fÃ¼hrenden BrÃ¼cke.
+Am Mittwoch, 19.12.2007, 23:18 Uhr, entgleiste der Güterzug DGS 45861 (Laufweg: Wolfurt (A) – Kufstein – Salzburg (A), Eisenbahnverkehrsunternehmen (EVU): Rail Cargo Austria) zwischen Brannenburg und Raubling (Strecke 5702, Kufstein - Rosenheim) in km 10,826 mit allen Wagen.  
+Bei dem Güterzug DGS 45861 handelt es sich um einen sog. "Korridorzug" der Rail Cargo Austria.  
+Am Mittwoch, 19.12.2007, 23:18 Uhr, entgleiste die Zugfahrt DGS 45861 in km 10,826 der zweigleisigen Hauptbahn (VzG-Strecke 5702) Rosenheim - Kufstein im Gleis Kufstein – Rosenheim mit dem gesamten Wagenzug. Das Triebfahrzeug verblieb auf den Schienen. Von den entgleisten Wagen waren 4 umgestürzt. Die Zugspitze kam bei km 10,570 zum Stehen.  
+Die Unfallstelle befindet sich auf einer über die Bundesautobahn (BAB 93) München - Kufstein führenden Brücke.
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte
+# Höhe des Schadens, Anzahl Tote und Verletzte
 Personen kamen durch den Unfall nicht zu Schaden. Der Sachschaden an Fahrzeugen, Gleisanlagen und Oberleitung betrug It. Untersuchungsbericht der DB Netz AG: 903.280.- Euro.
 
 # Ursachen des Unfalls
 Ursache der Entgleisung war ein Schienenbruch im Gleis Kufstein - Rosenheim, rechte Schiene.  
-Durch die Untersuchung konnten letztlich an der Fahrkante der Anschlussschiene Kufstein (Schiene 40) an der OberflÃ¤che Anzeichen von ErmÃ¼dungsrissen festgestellt werden. Hier konnte ein Einzelbruch nachgewiesen werden der sich unter der SchienenkopfoberflÃ¤che in Richtung Steg entwickelte und spÃ¤ter in vertikaler Richtung abknickte. Diese RissflÃ¤che bildete den Dauerbruch. Nach dem Erreichen einer kritischen Risstiefe von ca. 17 mm erfolgte bei der ZugÃ¼berfahrt der Restgewaltbruch. Die Zugspannungen aufgrund der niedrigen AuÃŸentemperaturen begÃ¼nstigten das Rissverhalten.  
-UrsÃ¤chlich fÃ¼r die Entgleisung des GÃ¼terzuges ist ein Schienenbruch, der bereits vor dieser Zugfahrt vorhanden war und schon SchÃ¤den an der vorausfahrenden RB 30116 verursachte.
+Durch die Untersuchung konnten letztlich an der Fahrkante der Anschlussschiene Kufstein (Schiene 40) an der Oberfläche Anzeichen von Ermüdungsrissen festgestellt werden. Hier konnte ein Einzelbruch nachgewiesen werden der sich unter der Schienenkopfoberfläche in Richtung Steg entwickelte und später in vertikaler Richtung abknickte. Diese Rissfläche bildete den Dauerbruch. Nach dem Erreichen einer kritischen Risstiefe von ca. 17 mm erfolgte bei der Zugüberfahrt der Restgewaltbruch. Die Zugspannungen aufgrund der niedrigen Außentemperaturen begünstigten das Rissverhalten.  
+Ursächlich für die Entgleisung des Güterzuges ist ein Schienenbruch, der bereits vor dieser Zugfahrt vorhanden war und schon Schäden an der vorausfahrenden RB 30116 verursachte.
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle
-Da wie bereits in Kapitel 4.2 ausgefÃ¼hrt keine bauwerksbezogenen vergleichenden Berechnungen und Untersuchungen zur AbschÃ¤tzung des dynamischen dreidimensionalen Bauwerksverhaltens durchgefÃ¼hrt wurden, lÃ¤sst sich die Ursache fÃ¼r den Schienenbruch nicht abschlieÃŸend klÃ¤ren. Da sich durch den kompletten Lageraustausch jedoch die bauwerksspezifischen Parameter geÃ¤ndert haben, ist durch diese Untersuchung keine Verbesserung der Eisenbahnsicherheit zu erwarten bzw. erzielen und wird daher in Anlehnung an Artikel 19 Abs. 3 RL 2004/49/EG auf weitere Untersuchungen verzichtet.
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle
+Da wie bereits in Kapitel 4.2 ausgeführt keine bauwerksbezogenen vergleichenden Berechnungen und Untersuchungen zur Abschätzung des dynamischen dreidimensionalen Bauwerksverhaltens durchgeführt wurden, lässt sich die Ursache für den Schienenbruch nicht abschließend klären. Da sich durch den kompletten Lageraustausch jedoch die bauwerksspezifischen Parameter geändert haben, ist durch diese Untersuchung keine Verbesserung der Eisenbahnsicherheit zu erwarten bzw. erzielen und wird daher in Anlehnung an Artikel 19 Abs. 3 RL 2004/49/EG auf weitere Untersuchungen verzichtet.
 
 ---
 file: 201_Leipzig-Engelsdorf.txt
 
 Zugkollision, 18.12.2019, Leipzig-Engelsdorf  
-Bundesstelle fÃ¼r Eisenbahnunfalluntersuchung  
-HeinemannstraÃŸe 6  
+Bundesstelle für Eisenbahnunfalluntersuchung  
+Heinemannstraße 6  
 53175 Bonn  
 
 # Hergang des Unfalls  
-Am 18.12.2019 gegen 00:30 Uhr kollidierten der GÃ¼terzug DGS 42722 des Eisenbahnverkehrsunternehmens Captrain Deutschland CargoWest GmbH (Fahrt von Dresden-Friedrichstadt nach GÃ¼tersloh Hbf) und die S-Bahn S 37395 des EVU DB Regio AG (Fahrt von Leipzig Hauptbahnhof nach Oschatz) etwa in km 14,72 des Bahnhofs Leipzig-Engelsdorf.  
-Die Kollision ereignete sich auf der zweigleisigen und elektrifizierten Strecke Leipzig-Wahren â€“ Leipzig-Engelsdorf (Streckennummer 6369, maximale Geschwindigkeit 60 km/h).  
-Die Zug- und RangierfahrstraÃŸen im Bf Leipzig-Engelsdorf wurden durch die Fahrdienstleiter (Fdl) auf den Stellwerken B1 und B8 sowie durch WeichenwÃ¤rter eingestellt. Relevant waren die Gleise 10 und 11, die mit eingleisigem Relaisblock und automatischer Zugschlussmeldung ausgerÃ¼stet waren.  
-Das Stellwerk B1, das fÃ¼r das Ereignis relevant war, war eine Mischbauform aus Bruchsal und Gleisbildstellwerk der ehem. Deutschen Reichsbahn.  
-Bei der Interaktion zwischen den Fdls der Stellwerkbezirke B1 und B8 wurden die technischen MÃ¶glichkeiten des Streckenblocks genutzt.  
-Der GÃ¼terzug DGS 42722 (Triebfahrzeug Baureihe E 186, 19 Wagen) fuhr am 17.12.2019 gegen 23:00 Uhr in die Ã¶stliche Einfahrgruppe des Stellwerkbezirks B8 ein und hielt dort. Am 18.12.2019 gegen 00:18 Uhr hielt er erneut am Signal 206 des Stellwerkbezirks B1.  
-Der Fdl B1 diktierte dem Tf des DGS 42722 die Befehle 2, 4 und 7 ohne Ãœbermittlungscode, Uhrzeit und weitere Details (Verwendung eines Musterbefehls gemÃ¤ÃŸ Ril 408.0411).  
-Etwa zeitgleich setzte sich der DGS 42722 in Bewegung, passierte das Signal 206 und fuhr die Weiche 20 auf, was StÃ¶rungsmeldungen beim Fdl B1 auslÃ¶ste. Die S-Bahn S 37395 befand sich zu diesem Zeitpunkt in HÃ¶he des StellwerkgebÃ¤udes B1.  
+Am 18.12.2019 gegen 00:30 Uhr kollidierten der Güterzug DGS 42722 des Eisenbahnverkehrsunternehmens Captrain Deutschland CargoWest GmbH (Fahrt von Dresden-Friedrichstadt nach Gütersloh Hbf) und die S-Bahn S 37395 des EVU DB Regio AG (Fahrt von Leipzig Hauptbahnhof nach Oschatz) etwa in km 14,72 des Bahnhofs Leipzig-Engelsdorf.  
+Die Kollision ereignete sich auf der zweigleisigen und elektrifizierten Strecke Leipzig-Wahren – Leipzig-Engelsdorf (Streckennummer 6369, maximale Geschwindigkeit 60 km/h).  
+Die Zug- und Rangierfahrstraßen im Bf Leipzig-Engelsdorf wurden durch die Fahrdienstleiter (Fdl) auf den Stellwerken B1 und B8 sowie durch Weichenwärter eingestellt. Relevant waren die Gleise 10 und 11, die mit eingleisigem Relaisblock und automatischer Zugschlussmeldung ausgerüstet waren.  
+Das Stellwerk B1, das für das Ereignis relevant war, war eine Mischbauform aus Bruchsal und Gleisbildstellwerk der ehem. Deutschen Reichsbahn.  
+Bei der Interaktion zwischen den Fdls der Stellwerkbezirke B1 und B8 wurden die technischen Möglichkeiten des Streckenblocks genutzt.  
+Der Güterzug DGS 42722 (Triebfahrzeug Baureihe E 186, 19 Wagen) fuhr am 17.12.2019 gegen 23:00 Uhr in die östliche Einfahrgruppe des Stellwerkbezirks B8 ein und hielt dort. Am 18.12.2019 gegen 00:18 Uhr hielt er erneut am Signal 206 des Stellwerkbezirks B1.  
+Der Fdl B1 diktierte dem Tf des DGS 42722 die Befehle 2, 4 und 7 ohne Übermittlungscode, Uhrzeit und weitere Details (Verwendung eines Musterbefehls gemäß Ril 408.0411).  
+Etwa zeitgleich setzte sich der DGS 42722 in Bewegung, passierte das Signal 206 und fuhr die Weiche 20 auf, was Störungsmeldungen beim Fdl B1 auslöste. Die S-Bahn S 37395 befand sich zu diesem Zeitpunkt in Höhe des Stellwerkgebäudes B1.  
 Beide Tf leiteten eine Schnellbremsung ein, doch die Kollision wurde nicht mehr verhindert.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
-Sechs Personen wurden schwer und dreizehn weitere Personen leicht verletzt. Unter den Letztgenannten befanden sich die beiden TriebfahrzeugfÃ¼hrer (Tf) und die Zugbegleiterin der S 37395.  
-Der erste Wagen des GÃ¼terzugs DGS 42722 entgleiste.  
-GeschÃ¤tzte SchadenshÃ¶he:  
-- Fahrzeuge: 960.000 â‚¬  
-- Infrastruktur: 22.000 â‚¬  
-- GesamtschadenshÃ¶he: 982.000 â‚¬  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Sechs Personen wurden schwer und dreizehn weitere Personen leicht verletzt. Unter den Letztgenannten befanden sich die beiden Triebfahrzeugführer (Tf) und die Zugbegleiterin der S 37395.  
+Der erste Wagen des Güterzugs DGS 42722 entgleiste.  
+Geschätzte Schadenshöhe:  
+- Fahrzeuge: 960.000 €  
+- Infrastruktur: 22.000 €  
+- Gesamtschadenshöhe: 982.000 €  
 
 # Ursachen des Unfalls  
-Der Unfall war auf eine Vorbeifahrt des DGS 42722 am Halt zeigenden Signal 206 ohne Zustimmung des Fdl des Stellwerkbezirks B1 zurÃ¼ckzufÃ¼hren.  
-Der Tf des DGS 42722 begann die Fahrt am Signal 206, obwohl der Befehl (Befehle 2, 4 und 7) noch keine GÃ¼ltigkeit hatte.  
-Der Befehl des Fdl B1 wurde nicht vollstÃ¤ndig Ã¼bermittelt (fehlende Angaben zu Ort, Datum, Uhrzeit, Ãœbermittlungsart und Namenszusatz â€žgez.â€œ). FÃ¼r den Tf galt der Befehl erst mit VollstÃ¤ndigkeit der Ãœbermittlung als gÃ¼ltig.  
+Der Unfall war auf eine Vorbeifahrt des DGS 42722 am Halt zeigenden Signal 206 ohne Zustimmung des Fdl des Stellwerkbezirks B1 zurückzuführen.  
+Der Tf des DGS 42722 begann die Fahrt am Signal 206, obwohl der Befehl (Befehle 2, 4 und 7) noch keine Gültigkeit hatte.  
+Der Befehl des Fdl B1 wurde nicht vollständig übermittelt (fehlende Angaben zu Ort, Datum, Uhrzeit, Übermittlungsart und Namenszusatz "gez."). Für den Tf galt der Befehl erst mit Vollständigkeit der Übermittlung als gültig.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
 Unmittelbar nach dem Ereignis wurde der Tf des DGS 42722 aus dem Betriebsdienst genommen.  
-Es sind keine MaÃŸnahmen des Eisenbahninfrastrukturunternehmens bekannt, die im Zusammenhang mit dem gefÃ¤hrlichen Ereignis stehen.  
-Die Verwendung von Musterbefehlen (Ril 408.0411) ist laut Vorschrift zulÃ¤ssig, erfordert jedoch die vollstÃ¤ndige Ãœbermittlung aller erforderlichen Details (Ort, Datum, Uhrzeit, Ãœbermittlungsart, Namen des Fdl, Zusatz â€žgez.â€œ und Unterzeichnung des Tf mit â€ži. A.â€œ).  
-Die Untersuchung betont die Notwendigkeit einer vollstÃ¤ndigen und korrekten BefehlsÃ¼bermittlung sowie der Einhaltung von Sicherheitsvorschriften.
+Es sind keine Maßnahmen des Eisenbahninfrastrukturunternehmens bekannt, die im Zusammenhang mit dem gefährlichen Ereignis stehen.  
+Die Verwendung von Musterbefehlen (Ril 408.0411) ist laut Vorschrift zulässig, erfordert jedoch die vollständige Übermittlung aller erforderlichen Details (Ort, Datum, Uhrzeit, Übermittlungsart, Namen des Fdl, Zusatz "gez." und Unterzeichnung des Tf mit "i. A.").  
+Die Untersuchung betont die Notwendigkeit einer vollständigen und korrekten Befehlsübermittlung sowie der Einhaltung von Sicherheitsvorschriften.
 
 ---
 file: 032_Bad Lausick.txt
 
-Untersuchungsbericht BahnÃ¼bergangsunfall, 20.09.2011, Bad Lausick und Belgershain
+Untersuchungsbericht Bahnübergangsunfall, 20.09.2011, Bad Lausick und Belgershain
 
 # Hergang des Unfalls
-Nachdem ein Pkw vor dem eingeschalteten BÃœ bereits hielt (Lichtzeichen blinkte, Schranken noch geÃ¶ffnet) fuhr ein Transporter auf und schob den Pkw in den Gleisbereich. Die Schranken wurden fÃ¼r die Zugfahrt geschlossen. Der Zug RE 3736 (Chemnitz Hbf - Leipzig Hbf) prallte auf dem gesicherten BahnÃ¼bergang auf den Pkw.  
-Nach dem ein Pkw-Fahrer vor dem BÃœ (Bauart: RBÃœT-LzH-FÃ¼) als erstes Fahrzeug anhielt (Lichtzeichen blinkte, Schranken noch geÃ¶ffnet) fuhr ein Transporter auf diesen auf und schob den Pkw in den Gleisbereich. Die Schranken wurden fÃ¼r die Zugfahrt geschlossen. Der Zug RE 3736 (Chemnitz Hbf - Leipzig Hbf) prallte nun auf dem gesicherten BahnÃ¼bergang auf den unbesetzten Pkw.
+Nachdem ein Pkw vor dem eingeschalteten BÜ bereits hielt (Lichtzeichen blinkte, Schranken noch geöffnet) fuhr ein Transporter auf und schob den Pkw in den Gleisbereich. Die Schranken wurden für die Zugfahrt geschlossen. Der Zug RE 3736 (Chemnitz Hbf - Leipzig Hbf) prallte auf dem gesicherten Bahnübergang auf den Pkw.  
+Nach dem ein Pkw-Fahrer vor dem BÜ (Bauart: RBÜT-LzH-Fü) als erstes Fahrzeug anhielt (Lichtzeichen blinkte, Schranken noch geöffnet) fuhr ein Transporter auf diesen auf und schob den Pkw in den Gleisbereich. Die Schranken wurden für die Zugfahrt geschlossen. Der Zug RE 3736 (Chemnitz Hbf - Leipzig Hbf) prallte nun auf dem gesicherten Bahnübergang auf den unbesetzten Pkw.
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte
-Bei dem Zusammenprall wurden 6 Personen schwer und weitere 16 Personen leicht verletzt. Es entstand nach Angaben der DB Netz AG ein Sachschaden von ca. 1.936.600,00 â‚¬.  
-Todesopfer sind keine zu beklagen. Der Zug war zum Unfallzeitpunkt mit ca. 70 Reisenden besetzt. Bei dem Zusammenprall wurden 6 Personen schwer und weitere 16 Personen leicht verletzt. Die SachschÃ¤den beziehen sich auf die Fahrzeuge und die Infrastruktur. HierfÃ¼r wurden insgesamt ca. 1.936.600,00 â‚¬ veranschlagt.
+# Höhe des Schadens, Anzahl Tote und Verletzte
+Bei dem Zusammenprall wurden 6 Personen schwer und weitere 16 Personen leicht verletzt. Es entstand nach Angaben der DB Netz AG ein Sachschaden von ca. 1.936.600,00 €.  
+Todesopfer sind keine zu beklagen. Der Zug war zum Unfallzeitpunkt mit ca. 70 Reisenden besetzt. Bei dem Zusammenprall wurden 6 Personen schwer und weitere 16 Personen leicht verletzt. Die Sachschäden beziehen sich auf die Fahrzeuge und die Infrastruktur. Hierfür wurden insgesamt ca. 1.936.600,00 € veranschlagt.
 
 # Ursachen des Unfalls
-UnfallursÃ¤chlich fÃ¼r den Zusammenprall auf dem BahnÃ¼bergang war ein Auffahrunfall auf der StraÃŸe. AusgelÃ¶st durch dieses Auffahren auf der StraÃŸe, wurde als Folge das erste Fahrzeug ein Pkw auf den technisch gesicherten BahnÃ¼bergang geschoben, auf dem es dann zum Zusammenprall mit dem RE 3736 (Chemnitz Hbf - Leipzig Hbf) kam.  
-Die Ursache fÃ¼r den Zusammenprall auf dem BahnÃ¼bergang lag auÃŸerhalb des Eisenbahnbetriebs. Dies wurde so unmittelbar nach dem Unfall vor Ort durch die Bundespolizei und das Notfallmanagement der DB Netz AG nachweislich, an Hand von Spuren und Zeugenaussagen beschrieben und ermittelt. UnfÃ¤lle im StraÃŸenverkehr werden ausschlieÃŸlich von der Polizei untersucht.
+Unfallursächlich für den Zusammenprall auf dem Bahnübergang war ein Auffahrunfall auf der Straße. Ausgelöst durch dieses Auffahren auf der Straße, wurde als Folge das erste Fahrzeug ein Pkw auf den technisch gesicherten Bahnübergang geschoben, auf dem es dann zum Zusammenprall mit dem RE 3736 (Chemnitz Hbf - Leipzig Hbf) kam.  
+Die Ursache für den Zusammenprall auf dem Bahnübergang lag außerhalb des Eisenbahnbetriebs. Dies wurde so unmittelbar nach dem Unfall vor Ort durch die Bundespolizei und das Notfallmanagement der DB Netz AG nachweislich, an Hand von Spuren und Zeugenaussagen beschrieben und ermittelt. Unfälle im Straßenverkehr werden ausschließlich von der Polizei untersucht.
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle
-Unter BerÃ¼cksichtigung der GrundsÃ¤tze und Ziele der Unfalluntersuchung aus den Artikeln 20 und 22 der â€žRichtlinie Ã¼ber die Eisenbahnsicherheitâ€œ (2004/49/EG) wird diese Untersuchung hiermit abgeschlossen. AnsÃ¤tze zur Verbesserung der Eisenbahnsicherheit gemÃ¤ÃŸ Artikel 19 dieser Sicherheitsrichtlinie konnten nicht identifiziert werden.  
-Auf Grund der Erkenntnisse aus den vorliegenden Untersuchungsergebnissen der Bundespolizei und den vorgelegten Unterlagen der DB AG gibt es fÃ¼r weitere umfangreichere Untersuchungen durch die Eisenbahn-Unfalluntersuchungsstelle des Bundes keine Veranlassung.
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle
+Unter Berücksichtigung der Grundsätze und Ziele der Unfalluntersuchung aus den Artikeln 20 und 22 der "Richtlinie über die Eisenbahnsicherheit" (2004/49/EG) wird diese Untersuchung hiermit abgeschlossen. Ansätze zur Verbesserung der Eisenbahnsicherheit gemäß Artikel 19 dieser Sicherheitsrichtlinie konnten nicht identifiziert werden.  
+Auf Grund der Erkenntnisse aus den vorliegenden Untersuchungsergebnissen der Bundespolizei und den vorgelegten Unterlagen der DB AG gibt es für weitere umfangreichere Untersuchungen durch die Eisenbahn-Unfalluntersuchungsstelle des Bundes keine Veranlassung.
 
 ---
 file: 203_Blankenberg_Sieg.txt
 
-StÃ¶rung am Fahrzeug, 06.04.2017, Bf Blankenberg (Sieg)
+Störung am Fahrzeug, 06.04.2017, Bf Blankenberg (Sieg)
 
 # Hergang des Unfalls
-Am 06.04.2017 gegen 14:43 Uhr ereignete sich auf der Fahrt von Au (Sieg) nach Horrem im Bahnhof (Bf) Blankenberg (Sieg) eine technische StÃ¶rung am Zug S 33211 des Eisenbahnverkehrsunternehmens DB Regio AG Region NRW. Wegen untypischen Fahrverhaltens, gekennzeichnet durch starke Ruckbewegungen, wurde der Zug am Bahnsteig im Bahnhofsteil (B) Merten (Sieg) durch den TriebfahrzeugfÃ¼hrer (Tf) untersucht. Dabei wurde ein heiÃŸ gelaufenes Radsatzlager und eine aus ihrem Sitz herausgelÃ¶ste Gummikonusfeder an einem Radsatz des Triebzuges festgestellt.
+Am 06.04.2017 gegen 14:43 Uhr ereignete sich auf der Fahrt von Au (Sieg) nach Horrem im Bahnhof (Bf) Blankenberg (Sieg) eine technische Störung am Zug S 33211 des Eisenbahnverkehrsunternehmens DB Regio AG Region NRW. Wegen untypischen Fahrverhaltens, gekennzeichnet durch starke Ruckbewegungen, wurde der Zug am Bahnsteig im Bahnhofsteil (B) Merten (Sieg) durch den Triebfahrzeugführer (Tf) untersucht. Dabei wurde ein heiß gelaufenes Radsatzlager und eine aus ihrem Sitz herausgelöste Gummikonusfeder an einem Radsatz des Triebzuges festgestellt.
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte
-Personen wurden weder verletzt noch getÃ¶tet. Es entstanden SachschÃ¤den am Fahrzeug in geschÃ¤tzter HÃ¶he von 58.000 Euro.
+# Höhe des Schadens, Anzahl Tote und Verletzte
+Personen wurden weder verletzt noch getötet. Es entstanden Sachschäden am Fahrzeug in geschätzter Höhe von 58.000 Euro.
 
 # Ursachen des Unfalls
-Zusammengefasst wurden im Gutachten folgende Feststellungen getroffen: Das RadsatzlagergehÃ¤use zeigte farbliche Anlaufspuren. Es konnte auch unter Aufbringung einer Abzugskraft von fast 500 kN an einer hydraulischen Presse nicht bewegt werden. Am Ãœbergang zwischen RadsatzlagergehÃ¤use und RadkÃ¶rper war Schmierfett ausgetreten. Das Lager war trocken gelaufen. Der innere Lamellenring war stark beschÃ¤digt. Er hatte sich in Richtung des Lagers verformt und eine ZerstÃ¶rung des LagerkÃ¤figs bewirkt. Dies fÃ¼hrte zur vollstÃ¤ndigen AuflÃ¶sung des LagerkÃ¤figs und so zum Ausfall des Lagers. Warum der Lamellenring ausfiel, konnte anhand des Schadbildes nicht mehr zweifelsfrei nachvollzogen werden. DarÃ¼ber hinaus ereigneten sich im Zeitraum Februar 2017 bis April 2017 insgesamt drei Ereignisse mit nahezu identischen Schadbildern. Die Untersuchungen ergaben, dass es in allen FÃ¤llen durch einen verbogenen Lammellenring zum Versagen der Radsatzlager gekommen war.
+Zusammengefasst wurden im Gutachten folgende Feststellungen getroffen: Das Radsatzlagergehäuse zeigte farbliche Anlaufspuren. Es konnte auch unter Aufbringung einer Abzugskraft von fast 500 kN an einer hydraulischen Presse nicht bewegt werden. Am Übergang zwischen Radsatzlagergehäuse und Radkörper war Schmierfett ausgetreten. Das Lager war trocken gelaufen. Der innere Lamellenring war stark beschädigt. Er hatte sich in Richtung des Lagers verformt und eine Zerstörung des Lagerkäfigs bewirkt. Dies führte zur vollständigen Auflösung des Lagerkäfigs und so zum Ausfall des Lagers. Warum der Lamellenring ausfiel, konnte anhand des Schadbildes nicht mehr zweifelsfrei nachvollzogen werden. Darüber hinaus ereigneten sich im Zeitraum Februar 2017 bis April 2017 insgesamt drei Ereignisse mit nahezu identischen Schadbildern. Die Untersuchungen ergaben, dass es in allen Fällen durch einen verbogenen Lammellenring zum Versagen der Radsatzlager gekommen war.
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle
-In einer weiteren MaÃŸnahme des Fahrzeughalters war vorgesehen, sÃ¤mtliche Radsatzlager der Baureihe 423 durch Radsatzlager mit einem geschlossenen LagerkÃ¤fig zu ersetzen. Anhand dieser Ergebnisse wurden die Arbeitsanweisungen, â€žS-Erdungskontakte: Sicht- und FunktionsprÃ¼fungâ€œ und â€žRadsatzlager anbauenâ€œ, Ã¼berarbeitet. Dabei wurden schÃ¤rfere QualitÃ¤tsanforderungen, beim Einbau sowie den durchzufÃ¼hrenden MaÃŸnahmen bei erkennbaren BeschÃ¤digungen von Lammellenringen, hinterlegt.
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle
+In einer weiteren Maßnahme des Fahrzeughalters war vorgesehen, sämtliche Radsatzlager der Baureihe 423 durch Radsatzlager mit einem geschlossenen Lagerkäfig zu ersetzen. Anhand dieser Ergebnisse wurden die Arbeitsanweisungen, "S-Erdungskontakte: Sicht- und Funktionsprüfung" und "Radsatzlager anbauen", überarbeitet. Dabei wurden schärfere Qualitätsanforderungen, beim Einbau sowie den durchzuführenden Maßnahmen bei erkennbaren Beschädigungen von Lammellenringen, hinterlegt.
 
 ---
 file: 186_Gröbers.txt
 
-Zugentgleisung, 23.04.2014, Bf GrÃ¶bers  
+Zugentgleisung, 23.04.2014, Bf Gröbers  
 **# Hergang des Unfalls**  
-Am 23.04.2014 gegen 18:10 Uhr entgleiste die Zugfahrt EZ 51521 des Eisenbahnverkehrsunternehmens DB Schenker Rail AG auf der Fahrt von Seelze Rbf nach Leipzig-Engelsdorf im Bahnhof (Bf) GrÃ¶bers auf der Weiche 81W22.  
-Die Weiche 81W22, auf der die Zugfahrt EZ 51521 entgleiste, war eine Schnellfahrweiche der Form EW 60-2500-1:26,5- mit federnd beweglicher HerzstÃ¼ckspitze. Die Weiche war zum Ereigniszeitpunkt gestÃ¶rt und konnte nicht in Rechtslage gebracht werden.  
-Aufgrund der nach der Entgleisung vor Ort vorgefundenen Situation ist anzunehmen, dass die Ursache fÃ¼r die StÃ¶rungsmeldung in der nicht korrekten Endlage der federnd beweglichen HerzstÃ¼ckspitze der Weiche lag. Wegen der WeichenstÃ¶rung ging das Einfahrsignal 81B fÃ¼r die Zugfahrt EZ 51521 nicht in Fahrtstellung.  
-Die FachkrÃ¤fte fÃ¼r die Leit- und Sicherungstechnik sicherten und verschlossen zwar die Zungenvorrichtung der Weiche 81W22, lieÃŸen jedoch die federnd bewegliche HerzstÃ¼ckspitze ungesichert und unverschlossen.  
-Der Radkranz des ersten hinter dem Triebfahrzeug fahrenden Fahrzeuges im Zugverband befand sich bei Eintreffen der EinsatzkrÃ¤fte zwischen der FlÃ¼gelschiene und der federnd beweglichen HerzstÃ¼ckspitze der Weiche. Dies lÃ¤sst den Schluss zu, dass die HerzstÃ¼ckspitze zwar in Richtung der linken FlÃ¼gelschiene umgelaufen war, jedoch die Endlage nicht erreicht hatte. In die LÃ¼cke zwischen der FlÃ¼gelschiene und der HerzstÃ¼ckspitze fuhren die RadkrÃ¤nze des Triebfahrzeugs und der nachfahrenden Fahrzeuge des Zuges EZ 51521 und drÃ¼ckten die HerzstÃ¼ckspitze in Mittellage.  
+Am 23.04.2014 gegen 18:10 Uhr entgleiste die Zugfahrt EZ 51521 des Eisenbahnverkehrsunternehmens DB Schenker Rail AG auf der Fahrt von Seelze Rbf nach Leipzig-Engelsdorf im Bahnhof (Bf) Gröbers auf der Weiche 81W22.  
+Die Weiche 81W22, auf der die Zugfahrt EZ 51521 entgleiste, war eine Schnellfahrweiche der Form EW 60-2500-1:26,5- mit federnd beweglicher Herzstückspitze. Die Weiche war zum Ereigniszeitpunkt gestört und konnte nicht in Rechtslage gebracht werden.  
+Aufgrund der nach der Entgleisung vor Ort vorgefundenen Situation ist anzunehmen, dass die Ursache für die Störungsmeldung in der nicht korrekten Endlage der federnd beweglichen Herzstückspitze der Weiche lag. Wegen der Weichenstörung ging das Einfahrsignal 81B für die Zugfahrt EZ 51521 nicht in Fahrtstellung.  
+Die Fachkräfte für die Leit- und Sicherungstechnik sicherten und verschlossen zwar die Zungenvorrichtung der Weiche 81W22, ließen jedoch die federnd bewegliche Herzstückspitze ungesichert und unverschlossen.  
+Der Radkranz des ersten hinter dem Triebfahrzeug fahrenden Fahrzeuges im Zugverband befand sich bei Eintreffen der Einsatzkräfte zwischen der Flügelschiene und der federnd beweglichen Herzstückspitze der Weiche. Dies lässt den Schluss zu, dass die Herzstückspitze zwar in Richtung der linken Flügelschiene umgelaufen war, jedoch die Endlage nicht erreicht hatte. In die Lücke zwischen der Flügelschiene und der Herzstückspitze fuhren die Radkränze des Triebfahrzeugs und der nachfahrenden Fahrzeuge des Zuges EZ 51521 und drückten die Herzstückspitze in Mittellage.  
 
-**# HÃ¶he des Schadens, Anzahl Tote und Verletzte**  
-Es wurden keine Personen getÃ¶tet oder verletzt.  
-geschÃ¤tzte Kosten in Euro  
+**# Höhe des Schadens, Anzahl Tote und Verletzte**  
+Es wurden keine Personen getötet oder verletzt.  
+geschätzte Kosten in Euro  
 Fahrzeuge: 58.500  
 Infrastruktur: 99.430  
-GesamtschadenshÃ¶he: 157.930  
+Gesamtschadenshöhe: 157.930  
 
 **# Ursachen des Unfalls**  
-UrsÃ¤chlich fÃ¼r die Zugentgleisung war ein Arbeitsfehler der beiden FachkrÃ¤fte fÃ¼r die Leit- und Sicherungstechnik. Sie erkannten vermutlich nicht, dass es sich bei der Weiche 81W22 um eine solche mit federnd beweglicher HerzstÃ¼ckspitze handelte und beachteten daher die diesbezÃ¼glichen Regelungen laut Richtlinie 482.9001 nicht.  
-Die FachkrÃ¤fte haunen mÃ¶glicherweise nicht erkannt, dass es sich bei der Weiche 81W22 um eine Schnellfahrweiche mit federnd beweglicher HerzstÃ¼ckspitze handelte. Sie brachten das federnd bewegliche HerzstÃ¼ck nicht in Rechtslage und verschlossen es nicht mit einem Handverschluss.  
-FÃ¼r ihre Einweisung in die Ã–rtlichkeit im Bf GrÃ¶bers konnten durch den Infrastrukturbetreiber keine Nachweise vorgelegt werden. In den belegten Fortbildungen der eingesetzten FachkrÃ¤fte fÃ¼r die Leit- und Sicherungstechnik waren Weichen mit federnd beweglicher HerzstÃ¼ckspitze in den letzten drei Jahren vor dem Ereignis nicht thematisiert worden.  
+Ursächlich für die Zugentgleisung war ein Arbeitsfehler der beiden Fachkräfte für die Leit- und Sicherungstechnik. Sie erkannten vermutlich nicht, dass es sich bei der Weiche 81W22 um eine solche mit federnd beweglicher Herzstückspitze handelte und beachteten daher die diesbezüglichen Regelungen laut Richtlinie 482.9001 nicht.  
+Die Fachkräfte haunen möglicherweise nicht erkannt, dass es sich bei der Weiche 81W22 um eine Schnellfahrweiche mit federnd beweglicher Herzstückspitze handelte. Sie brachten das federnd bewegliche Herzstück nicht in Rechtslage und verschlossen es nicht mit einem Handverschluss.  
+Für ihre Einweisung in die Örtlichkeit im Bf Gröbers konnten durch den Infrastrukturbetreiber keine Nachweise vorgelegt werden. In den belegten Fortbildungen der eingesetzten Fachkräfte für die Leit- und Sicherungstechnik waren Weichen mit federnd beweglicher Herzstückspitze in den letzten drei Jahren vor dem Ereignis nicht thematisiert worden.  
 
-**# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle**  
-Der BEU wurden keine MaÃŸnahmen bekannt, die infolge des Ereignisses durch die beteiligten Eisenbahnunternehmen oder durch die SicherheitsbehÃ¶rde getroffen wurden.
+**# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle**  
+Der BEU wurden keine Maßnahmen bekannt, die infolge des Ereignisses durch die beteiligten Eisenbahnunternehmen oder durch die Sicherheitsbehörde getroffen wurden.
 
 ---
 file: 197_Elmshorn.txt
@@ -3245,30 +3245,30 @@ Zugentgleisung, 15.11.2017, Elmshorn
 
 # Hergang des Unfalls  
 Am 15.11.2017 gegen 07:09 Uhr entgleiste der Personenzug RE 11004 des Eisenbahnverkehrsunternehmens DB Regio AG auf der Fahrt von Hamburg-Altona nach Westerland (Sylt) bei der Ausfahrt aus Gleis 101 des Bahnhofs (Bf) Elmshorn in der Weichenverbindung W113/W114 mit acht Achsen.  
-Die Zugentgleisung ereignete sich auf der, vom Eisenbahninfrastrukturunternehmen DB Netz AG betriebenen, zweigleisigen Hauptbahn Hamburg-Altona â€“ Kiel Hbf. Diese wurde im Verzeichnis der Ã¶rtlich zulÃ¤ssigen Geschwindigkeiten (VzG) unter der Streckennummer 1220 gefÃ¼hrt. Des Weiteren begann im Bf Elmshorn die VzG-Strecke 1210 mit km 30,7. Hierbei handelte es sich ebenfalls um eine zweigleisige elektrifizierte Hauptbahn, welche in Richtung Westerland (Sylt) abzweigte. Die Unfallstelle befand sich in der Weichenverbindung W113/W114 im Bf Elmshorn etwa in km 30,7.  
-Die Zug- und RangierfahrstraÃŸen im Bf Elmshorn wurden durch die Fahrdienstleiter (Fdl) im Stellwerk â€žElfâ€œ gesteuert. Dieses Stellwerk war ein Elektronisches Stellwerk der Bauform Siemens. Sowohl Bf als auch Strecke waren mit Lichtsignalen des H/V-Signalsystems ausgestattet. Es war eine selbstÃ¤ndige Gleisfreimeldeanlage vorhanden.  
+Die Zugentgleisung ereignete sich auf der, vom Eisenbahninfrastrukturunternehmen DB Netz AG betriebenen, zweigleisigen Hauptbahn Hamburg-Altona – Kiel Hbf. Diese wurde im Verzeichnis der örtlich zulässigen Geschwindigkeiten (VzG) unter der Streckennummer 1220 geführt. Des Weiteren begann im Bf Elmshorn die VzG-Strecke 1210 mit km 30,7. Hierbei handelte es sich ebenfalls um eine zweigleisige elektrifizierte Hauptbahn, welche in Richtung Westerland (Sylt) abzweigte. Die Unfallstelle befand sich in der Weichenverbindung W113/W114 im Bf Elmshorn etwa in km 30,7.  
+Die Zug- und Rangierfahrstraßen im Bf Elmshorn wurden durch die Fahrdienstleiter (Fdl) im Stellwerk "Elf" gesteuert. Dieses Stellwerk war ein Elektronisches Stellwerk der Bauform Siemens. Sowohl Bf als auch Strecke waren mit Lichtsignalen des H/V-Signalsystems ausgestattet. Es war eine selbständige Gleisfreimeldeanlage vorhanden.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
 Eine Person wurde schwer und zwei weitere Personen leicht verletzt. Der Steuerwagen und ein Reisezugwagen entgleisten jeweils mit allen vier Achsen beider Drehgestelle.  
-Infolge der Entgleisung entstanden nachfolgend aufgelistete SchÃ¤den an der vorhandenen Infrastruktur und an den beteiligten Fahrzeugen:  
-- geschÃ¤tzte Kosten in Euro  
+Infolge der Entgleisung entstanden nachfolgend aufgelistete Schäden an der vorhandenen Infrastruktur und an den beteiligten Fahrzeugen:  
+- geschätzte Kosten in Euro  
   - Fahrzeuge: 500.000  
   - Infrastruktur: 205.000  
   - Dri e: keine Angaben  
-  - GesamtschadenshÃ¶he: 705.000  
+  - Gesamtschadenshöhe: 705.000  
 
 # Ursachen des Unfalls  
-Um eine bessere Vorstellung von der in Abbildung 1 dargestellten Unfallstelle zu haben, ist die Ã–rtlichkeit des Bf Elmshorn in nachfolgender Abbildung 2 detaillierter dargestellt.  
-In Rahmen von Bauarbeiten, gemÃ¤ÃŸ Betriebs- und Bauanweisung (Betra) Nr. F 244181, entstand eine GleislÃ¼cke, die sich in der eingestellten FahrstraÃŸe fÃ¼r den RE 11004 befand. Durch weitere geplante Bauarbeiten gemÃ¤ÃŸ Betra Nr. F 244182, welche u. a. die Erneuerung der unmittelbar an den fehlenden Gleisabschnitt angrenzenden Weichen W113 und W114 beinhalteten, war dieser Gleisabschnitt gesperrt und somit nicht befahrbar. Diese Sperrung sollte bis zum Abschluss beider Betra aufrechterhalten werden.  
-Die Betra Nr. F 244182 trat jedoch nicht, wie ursprÃ¼nglich vorgesehen, unmittelbar nach Beendigung der Arbeiten entsprechend der Betra Nr. F 244181 in Kraft. Aufgrund der um ca. 161 Minuten verspÃ¤teten Fertigstellung der â€žersten Bauphaseâ€œ war die Betriebslage auf den einmÃ¼ndenden Strecken stark angespannt. Daher wurde in der Betriebszentrale Hannover auf der dispositiven Ebene der DB Netz AG entschieden, dass der Beginn der Betra Nr. F 244182 verschoben wird. Daraufhin nahm der Fdl u. a. die Sperrung fÃ¼r alle Weichen zurÃ¼ck. Von dieser Entsperrung waren auch die Weichen W113 und W114 betroffen, die eigentlich hÃ¤tten gesperrt bleiben mÃ¼ssen.  
-Die vor Ort verbaute Gleisfreimeldetechnik basierte auf Gleisstromkreisen, welche fÃ¼r einzelne Abschnitte eigene Freimeldungen abgaben. Die fÃ¼r das Ereignis relevanten Weichen W113 und W114 bildeten hierbei jeweils einen eigenen Abschnitt. Durch die GleislÃ¼cke waren die beiden Weichen voneinander isoliert. Um die sichere Funktion der Leit- und Sicherungstechnik zu garantieren, waren im Rahmen der beiden einschlÃ¤gigen Betra sicherungstechnische Anpassungen an den genannten Weichen vorgesehen. Diese waren zum Ereigniszeitpunkt entweder noch nicht umgesetzt, aufgrund des verschobenen Beginns der Betra Nr. F 244182, oder nicht mehr aktiv, aufgrund des Abschlusses der Betra Nr. F 244181. Daher wurde auf der sicherungstechnischen Ebene nicht verhindert, dass fÃ¼r die Zugfahrt RE 110:04 eine FahrstraÃŸe Ã¼ber die Weichenverbindung W113/W114 eingestellt werden konnte.  
-Die Fahrplananordnung 22363 fÃ¼r die Betra Nr. F 244181 und die Fahrplananordnung 22480 fÃ¼r die Betra Nr. F 244182 wurden erarbeitet und in einem besonderen Fahrplan fÃ¼r Zugmeldestellen umgesetzt. Hiernach waren keine Zugfahrten vorgesehen, welche Ã¼ber die Weichenverbindung W113/W114 fÃ¼hrten. Zu diesem Zeitpunkt sollten alle Ein- und Ausfahrten Ã¼ber Gleis 102 stattfinden. Entgegen des zu diesem Zeitpunkt geltenden Fahrplans fÃ¼r Zugmeldestellen wurde der Zug RE 11004 nach Gleis 101 eingelassen.  
-FÃ¼r die Entgleisung des RE 11004 war eine betriebliche Fehlhandlung des Fdl ursÃ¤chlich. GemÃ¤ÃŸ Ril 408.0471 Abs. 2 (1) hÃ¤tte der Fdl das Gleis bzw. den Gleisabschnitt sperren und gemÃ¤ÃŸ Abs. 2 (2) fÃ¼r das Abriegeln der betroffenen Weiche sorgen mÃ¼ssen. DefinitionsgemÃ¤ÃŸ hÃ¤tte sich hierzu die Zugangsweiche W106 in abweisender Stellung befinden mÃ¼ssen. Der Fahrweg des Zuges wurde Ã¼ber die zurÃ¼ckgebaute Weichenverbindung W113/W114 eingestellt. Die korrekte Umsetzung der Betra Nr. F 244181, nach der die Weichenverbindung W113/W114 bis zur Erneuerung der Weiche W113 gesperrt bleiben sollte, hÃ¤tte das Ereignis verhindert.  
-Im Rahmen der Untersuchung wurde festgestellt, dass die Ã¤uÃŸeren Bedingungen, die betrieblichen Handlungen des Eisenbahnverkehrsunternehmens und der Zustand der entgleisten Fahrzeuge keinen erkennbaren Einfluss auf den Eintritt des Ereignisses hatten. Ein Versagen der Anlagen der Leit- und Sicherungstechnik wurde nicht festgestellt.  
+Um eine bessere Vorstellung von der in Abbildung 1 dargestellten Unfallstelle zu haben, ist die Örtlichkeit des Bf Elmshorn in nachfolgender Abbildung 2 detaillierter dargestellt.  
+In Rahmen von Bauarbeiten, gemäß Betriebs- und Bauanweisung (Betra) Nr. F 244181, entstand eine Gleislücke, die sich in der eingestellten Fahrstraße für den RE 11004 befand. Durch weitere geplante Bauarbeiten gemäß Betra Nr. F 244182, welche u. a. die Erneuerung der unmittelbar an den fehlenden Gleisabschnitt angrenzenden Weichen W113 und W114 beinhalteten, war dieser Gleisabschnitt gesperrt und somit nicht befahrbar. Diese Sperrung sollte bis zum Abschluss beider Betra aufrechterhalten werden.  
+Die Betra Nr. F 244182 trat jedoch nicht, wie ursprünglich vorgesehen, unmittelbar nach Beendigung der Arbeiten entsprechend der Betra Nr. F 244181 in Kraft. Aufgrund der um ca. 161 Minuten verspäteten Fertigstellung der "ersten Bauphase" war die Betriebslage auf den einmündenden Strecken stark angespannt. Daher wurde in der Betriebszentrale Hannover auf der dispositiven Ebene der DB Netz AG entschieden, dass der Beginn der Betra Nr. F 244182 verschoben wird. Daraufhin nahm der Fdl u. a. die Sperrung für alle Weichen zurück. Von dieser Entsperrung waren auch die Weichen W113 und W114 betroffen, die eigentlich hätten gesperrt bleiben müssen.  
+Die vor Ort verbaute Gleisfreimeldetechnik basierte auf Gleisstromkreisen, welche für einzelne Abschnitte eigene Freimeldungen abgaben. Die für das Ereignis relevanten Weichen W113 und W114 bildeten hierbei jeweils einen eigenen Abschnitt. Durch die Gleislücke waren die beiden Weichen voneinander isoliert. Um die sichere Funktion der Leit- und Sicherungstechnik zu garantieren, waren im Rahmen der beiden einschlägigen Betra sicherungstechnische Anpassungen an den genannten Weichen vorgesehen. Diese waren zum Ereigniszeitpunkt entweder noch nicht umgesetzt, aufgrund des verschobenen Beginns der Betra Nr. F 244182, oder nicht mehr aktiv, aufgrund des Abschlusses der Betra Nr. F 244181. Daher wurde auf der sicherungstechnischen Ebene nicht verhindert, dass für die Zugfahrt RE 110:04 eine Fahrstraße über die Weichenverbindung W113/W114 eingestellt werden konnte.  
+Die Fahrplananordnung 22363 für die Betra Nr. F 244181 und die Fahrplananordnung 22480 für die Betra Nr. F 244182 wurden erarbeitet und in einem besonderen Fahrplan für Zugmeldestellen umgesetzt. Hiernach waren keine Zugfahrten vorgesehen, welche über die Weichenverbindung W113/W114 führten. Zu diesem Zeitpunkt sollten alle Ein- und Ausfahrten über Gleis 102 stattfinden. Entgegen des zu diesem Zeitpunkt geltenden Fahrplans für Zugmeldestellen wurde der Zug RE 11004 nach Gleis 101 eingelassen.  
+Für die Entgleisung des RE 11004 war eine betriebliche Fehlhandlung des Fdl ursächlich. Gemäß Ril 408.0471 Abs. 2 (1) hätte der Fdl das Gleis bzw. den Gleisabschnitt sperren und gemäß Abs. 2 (2) für das Abriegeln der betroffenen Weiche sorgen müssen. Definitionsgemäß hätte sich hierzu die Zugangsweiche W106 in abweisender Stellung befinden müssen. Der Fahrweg des Zuges wurde über die zurückgebaute Weichenverbindung W113/W114 eingestellt. Die korrekte Umsetzung der Betra Nr. F 244181, nach der die Weichenverbindung W113/W114 bis zur Erneuerung der Weiche W113 gesperrt bleiben sollte, hätte das Ereignis verhindert.  
+Im Rahmen der Untersuchung wurde festgestellt, dass die äußeren Bedingungen, die betrieblichen Handlungen des Eisenbahnverkehrsunternehmens und der Zustand der entgleisten Fahrzeuge keinen erkennbaren Einfluss auf den Eintritt des Ereignisses hatten. Ein Versagen der Anlagen der Leit- und Sicherungstechnik wurde nicht festgestellt.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
-Seitens des Eisenbahninfrastrukturunternehmens wurde nach dem gefÃ¤hrlichen Ereignis eine gesundheitliche ÃœberprÃ¼fung der betroffenen Mitarbeiter veranlasst. Es wurden eine Belehrung durchgefÃ¼hrt und die Vorkommnisse im Rahmen einer Schulung aufgearbeitet, zu dessen Teilnehmerkreis auch alle BauÃ¼berwacher der beteiligten Firma gehÃ¶rten.  
-Des Weiteren wurde fÃ¼r die Erstellung Ã¤hnlicher FÃ¤lle zukÃ¼nftiger Bauvorhaben festgelegt, dass eine Sperrung von Weichenverbindungen immer gleichfalls unter Punkt 2.2 (Dauer der Gleissperrungen / gesperrte Gleise / Weichen) der Betra zu benennen ist. Ein nahtloser Ãœbergang in eine Folge-Betra soll zukÃ¼nftig durch eine â€žâ€¦Erholungsphaseâ€œ fÃ¼r AbwicklungsaktivitÃ¤ten wie technische Herstellung von bestimmten AnlagenzustÃ¤nden, Meldungen sowie Nachweisen in den entsprechenden Unterlagen verhindert werden.
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+Seitens des Eisenbahninfrastrukturunternehmens wurde nach dem gefährlichen Ereignis eine gesundheitliche Überprüfung der betroffenen Mitarbeiter veranlasst. Es wurden eine Belehrung durchgeführt und die Vorkommnisse im Rahmen einer Schulung aufgearbeitet, zu dessen Teilnehmerkreis auch alle Bauüberwacher der beteiligten Firma gehörten.  
+Des Weiteren wurde für die Erstellung ähnlicher Fälle zukünftiger Bauvorhaben festgelegt, dass eine Sperrung von Weichenverbindungen immer gleichfalls unter Punkt 2.2 (Dauer der Gleissperrungen / gesperrte Gleise / Weichen) der Betra zu benennen ist. Ein nahtloser Übergang in eine Folge-Betra soll zukünftig durch eine "…Erholungsphase" für Abwicklungsaktivitäten wie technische Herstellung von bestimmten Anlagenzuständen, Meldungen sowie Nachweisen in den entsprechenden Unterlagen verhindert werden.
 
 ---
 file: 193_Joachimsthal.txt
@@ -3276,123 +3276,123 @@ file: 193_Joachimsthal.txt
 Zugentgleisung, 12.04.2019, Joachimsthal
 
 # Hergang des Unfalls  
-Am 12.04.2019 gegen 08:38 Uhr entgleiste der Reisezug DPN 61357 des Eisenbahnverkehrsunternehmens Niederbarnimer Eisenbahn Betriebsgesellschaft mbH auf der Fahrt von Eberswalde nach Templin im Bahnhof (Bf) Joachimsthal auf der Weiche 1. Die Zugentgleisung ereignete sich auf der eingleisigen nicht elektrifizierten Nebenbahn Britz â€“ Templin im Bf Joachimsthal des Infrastrukturunternehmens DB Netz AG. Die Strecke wird gemÃ¤ÃŸ Verzeichnis der Ã¶rtlich zulÃ¤ssigen Geschwindigkeiten (VzG) mit der Nummer 6759 gefÃ¼hrt.  
+Am 12.04.2019 gegen 08:38 Uhr entgleiste der Reisezug DPN 61357 des Eisenbahnverkehrsunternehmens Niederbarnimer Eisenbahn Betriebsgesellschaft mbH auf der Fahrt von Eberswalde nach Templin im Bahnhof (Bf) Joachimsthal auf der Weiche 1. Die Zugentgleisung ereignete sich auf der eingleisigen nicht elektrifizierten Nebenbahn Britz – Templin im Bf Joachimsthal des Infrastrukturunternehmens DB Netz AG. Die Strecke wird gemäß Verzeichnis der örtlich zulässigen Geschwindigkeiten (VzG) mit der Nummer 6759 geführt.  
 
-Der Bf Joachimsthal erstreckt sich vom Einfahrsignal (Esig) A in km 64,590 bis zum Esig D in km 66,090. Die benachbarten Betriebsstellen sind der Haltepunkt Joachimsthal Kaiserbahnhof und der Bf Friedrichswalde (b Eberswalde). Die zulÃ¤ssige HÃ¶chstgeschwindigkeit aus Richtung Joachimsthal Kaiserbahnhof betrÃ¤gt 80 km/h. Auf dem Streckenabschnitt Joachimsthal â€“ Friedrichswalde (b Eberswalde) ist die HÃ¶chstgeschwindigkeit 60 km/h. Die Weiche 1, in welcher der Zug entgleiste, ist eine einfache Weiche der Bauform 49-300-1:9 mit Stahlschwellen. Ein ereignisursÃ¤chlicher Einfluss aus der bautechnischen Infrastruktur konnte ausgeschlossen werden.  
+Der Bf Joachimsthal erstreckt sich vom Einfahrsignal (Esig) A in km 64,590 bis zum Esig D in km 66,090. Die benachbarten Betriebsstellen sind der Haltepunkt Joachimsthal Kaiserbahnhof und der Bf Friedrichswalde (b Eberswalde). Die zulässige Höchstgeschwindigkeit aus Richtung Joachimsthal Kaiserbahnhof beträgt 80 km/h. Auf dem Streckenabschnitt Joachimsthal – Friedrichswalde (b Eberswalde) ist die Höchstgeschwindigkeit 60 km/h. Die Weiche 1, in welcher der Zug entgleiste, ist eine einfache Weiche der Bauform 49-300-1:9 mit Stahlschwellen. Ein ereignisursächlicher Einfluss aus der bautechnischen Infrastruktur konnte ausgeschlossen werden.  
 
-Die Anlagen der Leit- und Sicherungstechnik im Bf Joachimsthal werden Ã¼ber das mechanische Stellwerk mit der Bezeichnung Jt, ein Stellwerk der Bauform Einheit (Gast), gesteuert. In Richtung Haltepunkt Joachimsthal Kaiserbahnhof und Bf Britz ist ein Relaisstreckenblock der Bauform Rb II 60 ergÃ¤nzt worden. In Richtung Bf Friedrichswalde (b Eberswalde) ist kein Streckenblock vorhanden. Das Stellwerk befindet sich etwa mittig des Bf Joachimsthal. Die Hauptsignale im Bf Joachimsthal sind Formsignale, die mit Magneten fÃ¼r die punktfÃ¶rmige Zugbeeinflussung ausgerÃ¼stet sind. Der Bf ist mit einer ortsfesten Zugfunkanlage ausgestattet. Die Anlage arbeitete im Simplexkanal O 19, sodass eine Funkverbindung nur vom Fahrdienstleiter (Fdl) zum TriebfahrzeugfÃ¼hrer aufgebaut werden kann.  
+Die Anlagen der Leit- und Sicherungstechnik im Bf Joachimsthal werden über das mechanische Stellwerk mit der Bezeichnung Jt, ein Stellwerk der Bauform Einheit (Gast), gesteuert. In Richtung Haltepunkt Joachimsthal Kaiserbahnhof und Bf Britz ist ein Relaisstreckenblock der Bauform Rb II 60 ergänzt worden. In Richtung Bf Friedrichswalde (b Eberswalde) ist kein Streckenblock vorhanden. Das Stellwerk befindet sich etwa mittig des Bf Joachimsthal. Die Hauptsignale im Bf Joachimsthal sind Formsignale, die mit Magneten für die punktförmige Zugbeeinflussung ausgerüstet sind. Der Bf ist mit einer ortsfesten Zugfunkanlage ausgestattet. Die Anlage arbeitete im Simplexkanal O 19, sodass eine Funkverbindung nur vom Fahrdienstleiter (Fdl) zum Triebfahrzeugführer aufgebaut werden kann.  
 
-Der Betrieb auf dem Bf Joachimsthal wurde nach den Bestimmungen der Richtlinie (Ril) 408 â€“ Fahrdienstvorschri â€“ durch eine Fdl-in durchgefÃ¼hrt. Zu der zum Ereigniszeitpunkt verantwortlichen Fdl-in wurden die relevanten personenbezogenen Daten erhoben und ausgewertet. UnregelmÃ¤ÃŸigkeiten bezÃ¼glich der Aus- und Fortbildung, der Einsatz- und Ruhezeiten oder der Tauglichkeit fÃ¼r die ausgefÃ¼hrten TÃ¤tigkeiten wurden nicht festgestellt.  
+Der Betrieb auf dem Bf Joachimsthal wurde nach den Bestimmungen der Richtlinie (Ril) 408 – Fahrdienstvorschri – durch eine Fdl-in durchgeführt. Zu der zum Ereigniszeitpunkt verantwortlichen Fdl-in wurden die relevanten personenbezogenen Daten erhoben und ausgewertet. Unregelmäßigkeiten bezüglich der Aus- und Fortbildung, der Einsatz- und Ruhezeiten oder der Tauglichkeit für die ausgeführten Tätigkeiten wurden nicht festgestellt.  
 
-Im Bf Joachimsthal sollte gegen 08:38 Uhr eine Kreuzung der ReisezÃ¼ge DPN 61358 und DPN 61357 stattfinden. Die Situation zum Ereigniszeitpunkt und die Fahrtrichtung der beiden ZÃ¼ge ist der nachfolgend dargestellten Gleislageskizze zu entnehmen.  
+Im Bf Joachimsthal sollte gegen 08:38 Uhr eine Kreuzung der Reisezüge DPN 61358 und DPN 61357 stattfinden. Die Situation zum Ereigniszeitpunkt und die Fahrtrichtung der beiden Züge ist der nachfolgend dargestellten Gleislageskizze zu entnehmen.  
 
-Zuerst musste durch die Fdl-in die Einfahrt d1 aus Richtung Bf Friedrichswalde (b Eberswalde) nach Gleis 2, fÃ¼r den Zug DPN 61358, eingestellt und durch BetÃ¤tigen des SchlÃ¼ssels im Schloss des Hebelbankaufsatzes festgelegt werden. Nachdem der Zug am gewÃ¶hnlichen Halteplatz zum Halten gekommen war, durfte die Fdl-in die FahrstraÃŸe auflÃ¶sen. Hierzu musste sie das Stellwerk verlassen, da sich der SchlÃ¼sselkasten mit einem Wechselschloss fÃ¼r die FahrstraÃŸenauflÃ¶sung an der AuÃŸenwand neben dem Eingang des GebÃ¤udes befand. Ein SchlÃ¼ssel befand sich im Wechselschloss. Mittels FreischlieÃŸen des dort vorhandenen SchlÃ¼ssels und dem daraus resultierenden VerschlieÃŸen des eingebrachten SchlÃ¼ssels, konnte der Verschluss des Hebelbankschlosses und somit die Festlegung der FahrstraÃŸe d1 aufgehoben werden. Das ermÃ¶glichte dann die AuflÃ¶sung der FahrstraÃŸe. Nach der AuflÃ¶sung der FahrstraÃŸe d1 konnte die Fdl-in die FahrstraÃŸe aÂ² fÃ¼r den DPN 61357 einstellen. DafÃ¼r legte die Fdl-in die Hebel der Weichen 1 und 6 in die Minusstellung. AnschlieÃŸend verschloss die Fdl-in diese FahrstraÃŸe mittels Bedienung des FahrstraÃŸenhebels aÂ². AnschlieÃŸend wollte sie das Esig A auf Fahrt stellen, stellte aber fest, dass sie den Signalhebel nicht bewegen konnte und damit das Esig A nicht in Fahrtstellung bekam. Es ist anzunehmen, dass die Fdl-in versÃ¤umt hat, die FahrstraÃŸe mittels des SchlÃ¼ssels im Schloss am Hebelbankaufsatz festzulegen und das Signal deshalb nicht in Fahrtstellung gebracht werden konnte. Hinweise auf eine StÃ¶rung der Leit- und Sicherungstechnik lagen der BEU nicht vor. Die Fdl-in vermutete wahrscheinlich jedoch eine StÃ¶rung und erteilte dem TriebfahrzeugfÃ¼hrer des vor dem Esig wartenden DPN 61357 den Befehl 2 zur Vorbeifahrt am haltzeigenden Esig A in Verbindung mit Befehl Nr. 12 zur Fahrt auf Sicht. Der DPN 61357 setzte seine Fahrt nach dem Erhalt des Befehls fort.  
+Zuerst musste durch die Fdl-in die Einfahrt d1 aus Richtung Bf Friedrichswalde (b Eberswalde) nach Gleis 2, für den Zug DPN 61358, eingestellt und durch Betätigen des Schlüssels im Schloss des Hebelbankaufsatzes festgelegt werden. Nachdem der Zug am gewöhnlichen Halteplatz zum Halten gekommen war, durfte die Fdl-in die Fahrstraße auflösen. Hierzu musste sie das Stellwerk verlassen, da sich der Schlüsselkasten mit einem Wechselschloss für die Fahrstraßenauflösung an der Außenwand neben dem Eingang des Gebäudes befand. Ein Schlüssel befand sich im Wechselschloss. Mittels Freischließen des dort vorhandenen Schlüssels und dem daraus resultierenden Verschließen des eingebrachten Schlüssels, konnte der Verschluss des Hebelbankschlosses und somit die Festlegung der Fahrstraße d1 aufgehoben werden. Das ermöglichte dann die Auflösung der Fahrstraße. Nach der Auflösung der Fahrstraße d1 konnte die Fdl-in die Fahrstraße a² für den DPN 61357 einstellen. Dafür legte die Fdl-in die Hebel der Weichen 1 und 6 in die Minusstellung. Anschließend verschloss die Fdl-in diese Fahrstraße mittels Bedienung des Fahrstraßenhebels a². Anschließend wollte sie das Esig A auf Fahrt stellen, stellte aber fest, dass sie den Signalhebel nicht bewegen konnte und damit das Esig A nicht in Fahrtstellung bekam. Es ist anzunehmen, dass die Fdl-in versäumt hat, die Fahrstraße mittels des Schlüssels im Schloss am Hebelbankaufsatz festzulegen und das Signal deshalb nicht in Fahrtstellung gebracht werden konnte. Hinweise auf eine Störung der Leit- und Sicherungstechnik lagen der BEU nicht vor. Die Fdl-in vermutete wahrscheinlich jedoch eine Störung und erteilte dem Triebfahrzeugführer des vor dem Esig wartenden DPN 61357 den Befehl 2 zur Vorbeifahrt am haltzeigenden Esig A in Verbindung mit Befehl Nr. 12 zur Fahrt auf Sicht. Der DPN 61357 setzte seine Fahrt nach dem Erhalt des Befehls fort.  
 
-Bevor der Zug die FahrstraÃŸen-Zugschlussstelle in HÃ¶he des EmpfangsgebÃ¤udes erreicht hatte, legte die Fdl-in den FahrstraÃŸenhebel zurÃ¼ck und stellte anschlieÃŸend die Weiche 1 unter dem Zug um.  
+Bevor der Zug die Fahrstraßen-Zugschlussstelle in Höhe des Empfangsgebäudes erreicht hatte, legte die Fdl-in den Fahrstraßenhebel zurück und stellte anschließend die Weiche 1 unter dem Zug um.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
-Personen wurden weder getÃ¶tet noch verletzt. Es entstanden SachschÃ¤den an der Infrastruktur und am beteiligten Fahrzeug, aufgeteilt entsprechend der nachfolgenden Ãœbersicht:  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Personen wurden weder getötet noch verletzt. Es entstanden Sachschäden an der Infrastruktur und am beteiligten Fahrzeug, aufgeteilt entsprechend der nachfolgenden Übersicht:  
 
-geschÃ¤tzte Kosten in Euro  
+geschätzte Kosten in Euro  
 Fahrzeuge: ca. 110.000  
 Infrastruktur: ca. 20.000  
 Dri e: keine  
-GesamtschadenshÃ¶he: ca. 130.000  
+Gesamtschadenshöhe: ca. 130.000  
 
 # Ursachen des Unfalls  
-Die ursprÃ¼ngliche Ursache fÃ¼r die Zugentgleisung war die nicht erfolgte Festlegung der FahrstraÃŸe aÂ². Aufgrund dessen ging das Esig A nicht in Fahrtstellung. Die Fdl-in erkannte die Ursache nicht und erteilte dem TriebfahrzeugfÃ¼hrer des Zuges DPN 61357 den Befehl Nr. 2. Danach fÃ¼hrte sie die Zugbeobachtung fehlerhaft durch und lÃ¶ste sie die FahrstraÃŸe auf, bevor der Zug zum Halten gekommen war. AnschlieÃŸend stellte sie die Weiche 1 um, wÃ¤hrend der Zug diese befuhre.  
+Die ursprüngliche Ursache für die Zugentgleisung war die nicht erfolgte Festlegung der Fahrstraße a². Aufgrund dessen ging das Esig A nicht in Fahrtstellung. Die Fdl-in erkannte die Ursache nicht und erteilte dem Triebfahrzeugführer des Zuges DPN 61357 den Befehl Nr. 2. Danach führte sie die Zugbeobachtung fehlerhaft durch und löste sie die Fahrstraße auf, bevor der Zug zum Halten gekommen war. Anschließend stellte sie die Weiche 1 um, während der Zug diese befuhre.  
 
-Demnach handelte die Fdl-in sowohl gegen die Bestimmungen der Ril 408.0251 als auch gegen die Regelungen laut Betriebsstellenbuch fÃ¼r den Bf Joachimsthal, als sie die FahrstraÃŸe vorzeitig auflÃ¶ste.  
+Demnach handelte die Fdl-in sowohl gegen die Bestimmungen der Ril 408.0251 als auch gegen die Regelungen laut Betriebsstellenbuch für den Bf Joachimsthal, als sie die Fahrstraße vorzeitig auflöste.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
-Der BEU sind keine MaÃŸnahmen bekannt, die infolge des Ereignisses durch die beteiligten Eisenbahnunternehmen oder durch die SicherheitsbehÃ¶rde getroffen wurden.
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+Der BEU sind keine Maßnahmen bekannt, die infolge des Ereignisses durch die beteiligten Eisenbahnunternehmen oder durch die Sicherheitsbehörde getroffen wurden.
 
 ---
 file: 196_Mellenbach-Glasbach.txt
 
-Zugentgleisung, 06.01.2017, Mellenbachâ€�Glasbach  
+Zugentgleisung, 06.01.2017, Mellenbach�Glasbach  
 
 # Hergang des Unfalls  
-Am 06.01.2017 gegen 06:38 Uhr entgleiste der Reisezug RB 29870 des Eisenbahnverkehrsunternehmens DB RegioNetz Verkehrs GmbH OberweiÃŸbacher Bergâ€� und Schwarzatalbahn (OBS) auf der Fahrt von KatzhÃ¼ e nach Ro enbach bei der Einfahrt in den Bahnhof (Bf) Mellenbachâ€�Glasbach in der von der Spitze her befahrenen RÃ¼ckfallweiche W 2 mit einem Drehgestell. Die Zuggentgleisung ereignete sich auf der eingleisigen Nebenbahn Ro enbach â€“ KatzhÃ¼ e des Infrastrukturbetreibers DB RegioNetz Infrastruktur GmbH im Bf Mellenbachâ€�Glasbach. Die Unfallstelle befand sich auf der Weiche W 2 im Bf Mellenbachâ€�Glasbach, etwa in Streckenkilometer 16,6.  
+Am 06.01.2017 gegen 06:38 Uhr entgleiste der Reisezug RB 29870 des Eisenbahnverkehrsunternehmens DB RegioNetz Verkehrs GmbH Oberweißbacher Berg� und Schwarzatalbahn (OBS) auf der Fahrt von Katzhü e nach Ro enbach bei der Einfahrt in den Bahnhof (Bf) Mellenbach�Glasbach in der von der Spitze her befahrenen Rückfallweiche W 2 mit einem Drehgestell. Die Zuggentgleisung ereignete sich auf der eingleisigen Nebenbahn Ro enbach – Katzhü e des Infrastrukturbetreibers DB RegioNetz Infrastruktur GmbH im Bf Mellenbach�Glasbach. Die Unfallstelle befand sich auf der Weiche W 2 im Bf Mellenbach�Glasbach, etwa in Streckenkilometer 16,6.  
 
-Der Zug RB 29870 fuhr gegen 06:38 Uhr Ã¼ber die Weiche W 2 in den Bf Mellenbachâ€�Glasbach ein. Zuvor war gegen 06:09 Uhr der Zug RB 29869 aus Gleis 1 in die Gegenrichtung verkehrt und hatte die Weiche W 2 regelgerecht aufgefahren. Als die Zugfahrt RB 29870 gegen 06:38 Uhr die Weiche aus Richtung KatzhÃ¼ e von der Spitze her befuhr, war diese noch nicht in ihre Endlage zurÃ¼ckgelaufen. Das erste Drehgestell des Zuges entgleiste deshalb. Es ist davon auszugehen, dass die HydraulikflÃ¼ssigkeit der RÃ¼ckstelleinrichtung aufgrund der niedrigen AuÃŸentemperaturen von ca. â€“14Â°C sehr zÃ¤hflÃ¼ssig war und dadurch die Reversion der Weiche stark verzÃ¶gert wurde.  
+Der Zug RB 29870 fuhr gegen 06:38 Uhr über die Weiche W 2 in den Bf Mellenbach�Glasbach ein. Zuvor war gegen 06:09 Uhr der Zug RB 29869 aus Gleis 1 in die Gegenrichtung verkehrt und hatte die Weiche W 2 regelgerecht aufgefahren. Als die Zugfahrt RB 29870 gegen 06:38 Uhr die Weiche aus Richtung Katzhü e von der Spitze her befuhr, war diese noch nicht in ihre Endlage zurückgelaufen. Das erste Drehgestell des Zuges entgleiste deshalb. Es ist davon auszugehen, dass die Hydraulikflüssigkeit der Rückstelleinrichtung aufgrund der niedrigen Außentemperaturen von ca. –14°C sehr zähflüssig war und dadurch die Reversion der Weiche stark verzögert wurde.  
 
-In km 16,781 befand sich ein Signal Ne 12, an dem der Tf gemÃ¤ÃŸ der Richtlinie (Ril) 301 â€“ Signalbuch â€“ prÃ¼fen musste, ob das Signal Ne 13 ein weiÃŸes Licht und somit die Signalstellung Ne 13a zeigte. Der Tf erklÃ¤rte nach dem Ereignis, am Ãœberwachungssignal wÃ¤re die Anzeige Ne 13a (weiÃŸes Licht) erschienen. Erst in HÃ¶he des BahnÃ¼bergangs in km 16,684 habe er wahrgenommen, dass die Weiche â€žirgendwie andersâ€œ ausgesehen habe. Er habe deshalb eine Schnellbremsung eingeleitet.  
+In km 16,781 befand sich ein Signal Ne 12, an dem der Tf gemäß der Richtlinie (Ril) 301 – Signalbuch – prüfen musste, ob das Signal Ne 13 ein weißes Licht und somit die Signalstellung Ne 13a zeigte. Der Tf erklärte nach dem Ereignis, am Überwachungssignal wäre die Anzeige Ne 13a (weißes Licht) erschienen. Erst in Höhe des Bahnübergangs in km 16,684 habe er wahrgenommen, dass die Weiche "irgendwie anders" ausgesehen habe. Er habe deshalb eine Schnellbremsung eingeleitet.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
-Personen wurden weder verletzt noch getÃ¶tet. Es entstanden SachschÃ¤den in HÃ¶he von 11.569 Euro, die sich entsprechend der nachfolgenden Aufstellung zusammensetzten:  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Personen wurden weder verletzt noch getötet. Es entstanden Sachschäden in Höhe von 11.569 Euro, die sich entsprechend der nachfolgenden Aufstellung zusammensetzten:  
 - Fahrzeuge: 9.569 Euro  
 - Infrastruktur: 2.000 Euro  
-- Dri e: â€“  
-GesamtschadenshÃ¶he: 11.569 Euro  
+- Dri e: –  
+Gesamtschadenshöhe: 11.569 Euro  
 
 # Ursachen des Unfalls  
-Die folgende Gleislageskizze stellt die Situation im Bf Mellenbachâ€�Glasbach zum Ereigniszeitpunkt dar.  
+Die folgende Gleislageskizze stellt die Situation im Bf Mellenbach�Glasbach zum Ereigniszeitpunkt dar.  
 
-Die RÃ¼ckfallweiche W 2 war nicht in die Sicherungslogik eines Stellwerkes integriert und unterlag damit nicht der Ãœberwachung durch das Stellwerkspersonal. Die Signalisierung der Befahrbarkeit der Weiche gegen die Spitze erfolgte durch ein Ãœberwachungssignal Ne 13 in km 16,600, welches Ã¼ber einen EndlagenprÃ¼fer des Typs ELP 319 geschaltet wurde. Die Schaltung erfolgte Ã¼ber einen einzelnen Kontakt ohne Absicherung durch ein redundantes System.  
+Die Rückfallweiche W 2 war nicht in die Sicherungslogik eines Stellwerkes integriert und unterlag damit nicht der Überwachung durch das Stellwerkspersonal. Die Signalisierung der Befahrbarkeit der Weiche gegen die Spitze erfolgte durch ein Überwachungssignal Ne 13 in km 16,600, welches über einen Endlagenprüfer des Typs ELP 319 geschaltet wurde. Die Schaltung erfolgte über einen einzelnen Kontakt ohne Absicherung durch ein redundantes System.  
 
-Es ist davon auszugehen, dass die HydraulikflÃ¼ssigkeit der RÃ¼ckstelleinrichtung aufgrund der niedrigen AuÃŸentemperaturen von ca. â€“14Â°C sehr zÃ¤hflÃ¼ssig war und dadurch die Reversion der Weiche stark verzÃ¶gert wurde. Zudem ergaben weitere Recherchen im Laufe der Untersuchung, dass bei der Zugfahrt RB 29896 am Abend vor dem Ereignis unter Ã¤hnlichen Ã¤uÃŸeren Bedingungen die Weiche W 2 ebenfalls nicht in die Endlage zurÃ¼ckgelaufen war. In diesem Fall hatte das Ãœberwachungssignal jedoch Ne 13b (kein weiÃŸes Licht) gezeigt.  
+Es ist davon auszugehen, dass die Hydraulikflüssigkeit der Rückstelleinrichtung aufgrund der niedrigen Außentemperaturen von ca. –14°C sehr zähflüssig war und dadurch die Reversion der Weiche stark verzögert wurde. Zudem ergaben weitere Recherchen im Laufe der Untersuchung, dass bei der Zugfahrt RB 29896 am Abend vor dem Ereignis unter ähnlichen äußeren Bedingungen die Weiche W 2 ebenfalls nicht in die Endlage zurückgelaufen war. In diesem Fall hatte das Überwachungssignal jedoch Ne 13b (kein weißes Licht) gezeigt.  
 
-Die Ablauf bei diesem Vorfall und die Ergebnisse der ÃœberprÃ¼fung der Funktion der Weiche und des Signals Ne 13 nach dem Ereignis legen den Schluss nahe, dass das Ãœberwachungssignal auch bei der Zugfahrt RB 29870, entgegen der Aussage des Tf des Zuges RB 29870, Ne 13b gezeigt haben kÃ¶nnte, dieser die Signalstellung jedoch zu spÃ¤t oder Ã¼berhaupt nicht wahrnahm und daher nicht rechtzeitig bremste.  
+Die Ablauf bei diesem Vorfall und die Ergebnisse der Überprüfung der Funktion der Weiche und des Signals Ne 13 nach dem Ereignis legen den Schluss nahe, dass das Überwachungssignal auch bei der Zugfahrt RB 29870, entgegen der Aussage des Tf des Zuges RB 29870, Ne 13b gezeigt haben könnte, dieser die Signalstellung jedoch zu spät oder überhaupt nicht wahrnahm und daher nicht rechtzeitig bremste.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
-Der Infrastrukturbetreiber hat auf Grund des Ereignisses als SofortmaÃŸnahme festgelegt, dass turnusmÃ¤ÃŸig alle zwei Monate fÃ¼r alle vier im Bereich der OBS verbauten RÃ¼ckfallweichen eine ÃœberprÃ¼fung der RÃ¼cklaufzeiten erfolgt und ggf. eine Neueinstellung der RÃ¼ckstelleinrichtung vorgenommen wird.
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+Der Infrastrukturbetreiber hat auf Grund des Ereignisses als Sofortmaßnahme festgelegt, dass turnusmäßig alle zwei Monate für alle vier im Bereich der OBS verbauten Rückfallweichen eine Überprüfung der Rücklaufzeiten erfolgt und ggf. eine Neueinstellung der Rückstelleinrichtung vorgenommen wird.
 
 ---
 file: 200_Frankfurt_Oder_Oderbrücke.txt
 
-Zugentgleisung, 22.03.2017, Frankfurt (Oder) OderbrÃ¼cke  
+Zugentgleisung, 22.03.2017, Frankfurt (Oder) Oderbrücke  
 
 # Hergang des Unfalls  
-Am 22.03.2017 gegen 08:59 Uhr entgleiste der GÃ¼terzug DGS 49691 des Eisenbahnverkehrsunternehmens (EVU) DeltaRail GmbH auf der Fahrt von Frankfurt (Oder) Containerterminal nach Frankfurt (Oder) Grenze bei der Einfahrt in Gleis 101 des Bahnhofs (Bf) Frankfurt (Oder) OderbrÃ¼cke mit dem ersten Drehgestell des letzten Wagens in der Verbindung zwischen den Weichen 115 und 116.  
-Die Zugentgleisung ereignete sich auf der, vom Eisenbahninfrastrukturunternehmen (EIU) DB Netz AG betriebenen, zweigleisigen Hauptbahn Frankfurt (Oder) Pbf â€“ Frankfurt (Oder) Grenze im Bf Frankfurt (Oder) OderbrÃ¼cke.  
-Der Fahrweg des Zuges DGS 49691 fÃ¼hrte vom durchgehenden Hauptgleis 204 Ã¼ber die Weichen 115, 116 und 117 nach Gleis 101. Die Unfallstelle befand sich zwischen den Weichen 115 und 116, etwa in Streckenkilometer 2,3.  
-Bei der Einfahrt in Bf Frankfurt (Oder) OderbrÃ¼cke entgleiste das erste Drehgestell des letzten Wagens zwischen der vom durchgehenden Hauptgleis (204) ins Bereitstellungsgleis (101) abzweigenden Weiche 115 und der folgenden Weiche 116, etwa in km 2,3.  
-Das entgleiste Fahrzeug war ein Wagen der Garnitur Sggmrss90â€˜.  
-Der TriebfahrzeugfÃ¼hrer der Zugfahrt 49691 erhielt durch einen anderen TriebfahrzeugfÃ¼hrer, welcher die Entgleisung beobachtet hatte, einen Nothaltsruf.  
+Am 22.03.2017 gegen 08:59 Uhr entgleiste der Güterzug DGS 49691 des Eisenbahnverkehrsunternehmens (EVU) DeltaRail GmbH auf der Fahrt von Frankfurt (Oder) Containerterminal nach Frankfurt (Oder) Grenze bei der Einfahrt in Gleis 101 des Bahnhofs (Bf) Frankfurt (Oder) Oderbrücke mit dem ersten Drehgestell des letzten Wagens in der Verbindung zwischen den Weichen 115 und 116.  
+Die Zugentgleisung ereignete sich auf der, vom Eisenbahninfrastrukturunternehmen (EIU) DB Netz AG betriebenen, zweigleisigen Hauptbahn Frankfurt (Oder) Pbf – Frankfurt (Oder) Grenze im Bf Frankfurt (Oder) Oderbrücke.  
+Der Fahrweg des Zuges DGS 49691 führte vom durchgehenden Hauptgleis 204 über die Weichen 115, 116 und 117 nach Gleis 101. Die Unfallstelle befand sich zwischen den Weichen 115 und 116, etwa in Streckenkilometer 2,3.  
+Bei der Einfahrt in Bf Frankfurt (Oder) Oderbrücke entgleiste das erste Drehgestell des letzten Wagens zwischen der vom durchgehenden Hauptgleis (204) ins Bereitstellungsgleis (101) abzweigenden Weiche 115 und der folgenden Weiche 116, etwa in km 2,3.  
+Das entgleiste Fahrzeug war ein Wagen der Garnitur Sggmrss90'.  
+Der Triebfahrzeugführer der Zugfahrt 49691 erhielt durch einen anderen Triebfahrzeugführer, welcher die Entgleisung beobachtet hatte, einen Nothaltsruf.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
 Es wurden keine Personen verletzt.  
-Der Oberbau wurde auf eine LÃ¤nge von ca. 150 m beschÃ¤digt.  
-GesamtschadenshÃ¶he: 180.000 Euro.  
-- Fahrzeuge: geschÃ¤tzte Kosten in Euro 10.000  
-- Oberbau: geschÃ¤tzte Kosten in Euro 150.000  
-- Leit- und Sicherungstechnik: geschÃ¤tzte Kosten in Euro 20.000  
+Der Oberbau wurde auf eine Länge von ca. 150 m beschädigt.  
+Gesamtschadenshöhe: 180.000 Euro.  
+- Fahrzeuge: geschätzte Kosten in Euro 10.000  
+- Oberbau: geschätzte Kosten in Euro 150.000  
+- Leit- und Sicherungstechnik: geschätzte Kosten in Euro 20.000  
 
 # Ursachen des Unfalls  
 Die Ursache der Entgleisung war eine Interaktion zwischen Fahrzeug, Fahrbahn und Beladesituation.  
-Das sechsachsige Fahrzeug in seiner Konfiguration mit der vorhandenen LÃ¤nge und den DrehzapfenabstÃ¤nden war bei geringen Geschwindigkeiten verwindungsempfindlich.  
-Im Zusammenhang mit der in LÃ¤ngsrichtung ungleichmÃ¤ÃŸigen Beladung und den Trassierungsparametern mit gegenlÃ¤ufigen GleisbÃ¶gen und ausgeprÃ¤gten GefÃ¤lleÃ¤nderungen auf relativ kurzer Distanz erhÃ¶hte sich die Wahrscheinlichkeit fÃ¼r eine Entgleisung.  
-Bedingt durch die Trassierung mit zwei gegenlÃ¤ufigen GleisbÃ¶gen und einer auslaufenden ÃœberhÃ¶hungsrampe in HÃ¶he der Entgleisungsstelle ergab sich eine Verwindung, die fÃ¼r langsame Zugfahrten problematisch sein kann.  
-Zwei aufeinander folgende GefÃ¤lleÃ¤nderungen innerhalb einer relativ kurzen Wegstrecke von ca. 13,6 m an dieser Stelle wurden identifiziert.  
+Das sechsachsige Fahrzeug in seiner Konfiguration mit der vorhandenen Länge und den Drehzapfenabständen war bei geringen Geschwindigkeiten verwindungsempfindlich.  
+Im Zusammenhang mit der in Längsrichtung ungleichmäßigen Beladung und den Trassierungsparametern mit gegenläufigen Gleisbögen und ausgeprägten Gefälleänderungen auf relativ kurzer Distanz erhöhte sich die Wahrscheinlichkeit für eine Entgleisung.  
+Bedingt durch die Trassierung mit zwei gegenläufigen Gleisbögen und einer auslaufenden Überhöhungsrampe in Höhe der Entgleisungsstelle ergab sich eine Verwindung, die für langsame Zugfahrten problematisch sein kann.  
+Zwei aufeinander folgende Gefälleänderungen innerhalb einer relativ kurzen Wegstrecke von ca. 13,6 m an dieser Stelle wurden identifiziert.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
-Es sind keine getroffenen MaÃŸnahmen des EVU oder des EIU bekannt, die im Zusammenhang mit dem gefÃ¤hrlichen Ereignis stehen.
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+Es sind keine getroffenen Maßnahmen des EVU oder des EIU bekannt, die im Zusammenhang mit dem gefährlichen Ereignis stehen.
 
 ---
 file: 177_München-Riem_Ubf.txt
 
 Untersuchungsbericht
-Zugentgleisung, 06.02.2017, Bft MÃ¼nchenâ€�Riem Ubf
+Zugentgleisung, 06.02.2017, Bft München�Riem Ubf
 
 # Hergang des Unfalls
-Am 06.02.2017 gegen 21:15 Uhr entgleiste der GÃ¼terzug KT 62902 auf der Fahrt von MÃ¼nchen-Riem Ubf nach Hamburg-Billwerder Ubf beim Anfahren im Gleis 81 des Bahnhofsteils (B) MÃ¼nchen-Riem Ubf mit dem nachlaufenden Drehgestell des dritten Doppel-Taschenwagens in Fahrtrichtung rechts.  
-Die Entgleisung ereignete sich im Bahnhof (Bf) MÃ¼nchen-Riem im B MÃ¼nchen-Riem Ubf.  
+Am 06.02.2017 gegen 21:15 Uhr entgleiste der Güterzug KT 62902 auf der Fahrt von München-Riem Ubf nach Hamburg-Billwerder Ubf beim Anfahren im Gleis 81 des Bahnhofsteils (B) München-Riem Ubf mit dem nachlaufenden Drehgestell des dritten Doppel-Taschenwagens in Fahrtrichtung rechts.  
+Die Entgleisung ereignete sich im Bahnhof (Bf) München-Riem im B München-Riem Ubf.  
 Die Spuren wiesen deutlich darauf hin, dass mindestens ein Radsatz des nachlaufenden Drehgestells des entgleisten Wagens zum Zeitpunkt des Anfahrens des Zuges mit dem Spurkranz etwa mithalb auf dem Schienenkopf stand und beim Anfahren nach rechts von der Schiene abglitten.  
-Der Zug wurde in zwei Schritten wagentechnisch untersucht. Hierbei wurden im zweiten Schritt nur noch Wagen untersucht, die zwischenzeitlich behandelt wurden. Eine durchgehende Untersuchung des gesamten Wagenzuges nach Abschluss der LadetÃ¤tigkeiten erfolgte nicht. Dieses Verfahren war gemÃ¤ÃŸ Ril 936 zulÃ¤ssig.  
-Bei dem betroffenen GÃ¼terwagen handelte es sich um einen Doppel-Taschenwagen in Gelenkbaulweise der Gaung Sdggmrs 738.1 des Halters DB Cargo AG mit der Wagennummer 31 80 4955 319-7. Der Wagen entgleiste bei dem Ereignis mit dem in Fahrtrichtung nachlaufenden Drehgestell.  
+Der Zug wurde in zwei Schritten wagentechnisch untersucht. Hierbei wurden im zweiten Schritt nur noch Wagen untersucht, die zwischenzeitlich behandelt wurden. Eine durchgehende Untersuchung des gesamten Wagenzuges nach Abschluss der Ladetätigkeiten erfolgte nicht. Dieses Verfahren war gemäß Ril 936 zulässig.  
+Bei dem betroffenen Güterwagen handelte es sich um einen Doppel-Taschenwagen in Gelenkbaulweise der Gaung Sdggmrs 738.1 des Halters DB Cargo AG mit der Wagennummer 31 80 4955 319-7. Der Wagen entgleiste bei dem Ereignis mit dem in Fahrtrichtung nachlaufenden Drehgestell.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte
-Personen wurden weder verletzt noch getÃ¶tet. Es entstanden SachschÃ¤den an den Eisenbahnfahrzeugen und an der Infrastruktur von etwa 65.000 Euro.  
+# Höhe des Schadens, Anzahl Tote und Verletzte
+Personen wurden weder verletzt noch getötet. Es entstanden Sachschäden an den Eisenbahnfahrzeugen und an der Infrastruktur von etwa 65.000 Euro.  
 
 # Ursachen des Unfalls
-Als ursÃ¤chlicher Faktor fÃ¼r die Entgleisung konnte festgestellt werden, dass der betroffene Doppel-Taschenwagen wÃ¤hrend des Umschlagvorgangs durch eine Verkantung zwischen WechselbehÃ¤lter und Lagerzapfen angehoben und in der Folge mit dem Spurkranz eines Rades am in Fahrtrichtung dritten Drehgestell auf dem Schienenkopf abgesetzt wurde.  
-Im hinteren Wagenteil wurden frische Farbabrieb- und Anschlagspuren im Bereich der Aufnahmezapfen fÃ¼r Container und WechselbrÃ¼cken festgestellt. Diese deuteten darauf hin, dass es im Zuge des Entladevorgangs der WechselbrÃ¼cke auf dem hinteren Zugteil zu einem Verkanten zwischen WechselbrÃ¼cke und Aufnahmezapfen gekommen war.  
-Es konnte im Rahmen der Untersuchung nicht sicher festgestellt werden, ob nach Abschluss der wagentechnischen Behandlung noch einmal eine unzulÃ¤ssige LadetÃ¤tigkeit erfolgte, bei der es zur Entgleisung des Radsatzes kam oder ob eine unzureichende Sorgfalt bei der DurchfÃ¼hrung der wagentechnischen Behandlung dazu fÃ¼hrte, dass der entgleiste Radsatz nicht erkannt wurde.  
+Als ursächlicher Faktor für die Entgleisung konnte festgestellt werden, dass der betroffene Doppel-Taschenwagen während des Umschlagvorgangs durch eine Verkantung zwischen Wechselbehälter und Lagerzapfen angehoben und in der Folge mit dem Spurkranz eines Rades am in Fahrtrichtung dritten Drehgestell auf dem Schienenkopf abgesetzt wurde.  
+Im hinteren Wagenteil wurden frische Farbabrieb- und Anschlagspuren im Bereich der Aufnahmezapfen für Container und Wechselbrücken festgestellt. Diese deuteten darauf hin, dass es im Zuge des Entladevorgangs der Wechselbrücke auf dem hinteren Zugteil zu einem Verkanten zwischen Wechselbrücke und Aufnahmezapfen gekommen war.  
+Es konnte im Rahmen der Untersuchung nicht sicher festgestellt werden, ob nach Abschluss der wagentechnischen Behandlung noch einmal eine unzulässige Ladetätigkeit erfolgte, bei der es zur Entgleisung des Radsatzes kam oder ob eine unzureichende Sorgfalt bei der Durchführung der wagentechnischen Behandlung dazu führte, dass der entgleiste Radsatz nicht erkannt wurde.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle
-Die DUSS mbH hat nochmals alle KranfÃ¼hrer unterwiesen, dass VerÃ¤nderungen am Zug nach Ladeschluss ohne angesagte LadeschlussverlÃ¤ngerung generell untersagt sind.  
-Die DB Cargo AG hat aufgrund des Ereignisses die Zugliste fÃ¼r die Wgm um den Hinweis ergÃ¤nzt, dass auch bei Teiluntersuchungen vorher die BestÃ¤tigung der DUSS Ã¼ber den abgeschlossenen Ladevorgang einzuholen ist. Ferner wurde der Arbeitsplan um ein Zeitfenster fÃ¼r die Kontrolle nach Ladeschluss ergÃ¤nzt.
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle
+Die DUSS mbH hat nochmals alle Kranführer unterwiesen, dass Veränderungen am Zug nach Ladeschluss ohne angesagte Ladeschlussverlängerung generell untersagt sind.  
+Die DB Cargo AG hat aufgrund des Ereignisses die Zugliste für die Wgm um den Hinweis ergänzt, dass auch bei Teiluntersuchungen vorher die Bestätigung der DUSS über den abgeschlossenen Ladevorgang einzuholen ist. Ferner wurde der Arbeitsplan um ein Zeitfenster für die Kontrolle nach Ladeschluss ergänzt.
 
 ---
 file: 192_Birkenwerder.txt
@@ -3400,49 +3400,49 @@ file: 192_Birkenwerder.txt
 Untersuchungsbericht Zugentgleisung, 02.04.2019, Bahnhof Birkenwerder (b. Berlin)
 
 # Hergang des Unfalls  
-Am 02.04.2019 gegen 19:26 Uhr entgleiste die Zugfahrt RB 18479 des Eisenbahnverkehrsunternehmens DB Regio AG auf der Fahrt von Oranienburg nach Potsdam Hauptbahnhof bei der Einfahrt in den Bahnhof (Bf) Birkenwerder (b. Berlin) in der Weiche 28 mit allen RadsÃ¤tzen des vorderen Drehgestells. Die Zugentgleisung ereignete sich auf der zweigleisigen Hauptbahn Berlin-Gesundbrunnen â€“ Stralsund im Bf Birkenwerder (b. Berlin), die vom Eisenbahninfrastrukturunternehmen DB Netz AG betrieben wird. Die Weiche 28, auf der der Zug entgleiste, ist eine einfache Weiche der Bauform EW 60-500-1:12 mit fahrkinematischer Optimierung, die in Rechtslage mit 60 km/h befahren werden darf. Sie war zum Ereigniszeitpunkt gestÃ¶rt und kam durch spontan auftretenden Schwergang nicht in Endlage. Die Leit- und Sicherungstechnik im Bf Birkenwerder (b. Berlin) wird Ã¼ber das Stellwerk (Stw) BI gesteuert. Die Befahrbarkeit wurde daher mittels der Anzeigen auf dem Gleisbildstellwerk geprÃ¼ft. Der Betrieb auf dem Bf Birkenwerder (b. Berlin) wurde zum Ereigniszeitpunkt durch eine Fahrdienstleiterin (Fdl) auf dem Stw BI nach den Regelungen der Richtlinie (Ril) 408 â€“ Fahrdienstvorschri â€“ durchgefÃ¼hrt.  
+Am 02.04.2019 gegen 19:26 Uhr entgleiste die Zugfahrt RB 18479 des Eisenbahnverkehrsunternehmens DB Regio AG auf der Fahrt von Oranienburg nach Potsdam Hauptbahnhof bei der Einfahrt in den Bahnhof (Bf) Birkenwerder (b. Berlin) in der Weiche 28 mit allen Radsätzen des vorderen Drehgestells. Die Zugentgleisung ereignete sich auf der zweigleisigen Hauptbahn Berlin-Gesundbrunnen – Stralsund im Bf Birkenwerder (b. Berlin), die vom Eisenbahninfrastrukturunternehmen DB Netz AG betrieben wird. Die Weiche 28, auf der der Zug entgleiste, ist eine einfache Weiche der Bauform EW 60-500-1:12 mit fahrkinematischer Optimierung, die in Rechtslage mit 60 km/h befahren werden darf. Sie war zum Ereigniszeitpunkt gestört und kam durch spontan auftretenden Schwergang nicht in Endlage. Die Leit- und Sicherungstechnik im Bf Birkenwerder (b. Berlin) wird über das Stellwerk (Stw) BI gesteuert. Die Befahrbarkeit wurde daher mittels der Anzeigen auf dem Gleisbildstellwerk geprüft. Der Betrieb auf dem Bf Birkenwerder (b. Berlin) wurde zum Ereigniszeitpunkt durch eine Fahrdienstleiterin (Fdl) auf dem Stw BI nach den Regelungen der Richtlinie (Ril) 408 – Fahrdienstvorschri – durchgeführt.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
-Es wurden keine Personen getÃ¶tet oder verletzt. Es entstanden SchÃ¤den an der Infrastruktur und am entgleisten Fahrzeug, die in nachfolgender Ãœbersicht, aufgeschlÃ¼sselt nach Gewerken, dargestellt sind:  
-geschÃ¤tzte Kosten in Euro  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Es wurden keine Personen getötet oder verletzt. Es entstanden Schäden an der Infrastruktur und am entgleisten Fahrzeug, die in nachfolgender Übersicht, aufgeschlüsselt nach Gewerken, dargestellt sind:  
+geschätzte Kosten in Euro  
 Fahrzeuge: 13.028  
 Infrastruktur: 45.000  
 Dri e: -  
-GesamtschadenshÃ¶he: 58.028  
+Gesamtschadenshöhe: 58.028  
 
 # Ursachen des Unfalls  
-Die Ursache fÃ¼r die Zugentgleisung war ein Arbeitsfehler der Fdl, die eine Zugfahrt auf Befehl zulieÃŸ, obwohl die FahrstraÃŸe nicht gesichert war. Die FahrstraÃŸe fÃ¼r die Zugfahrt war gestellt und eingespeichert. Das Einfahrsignal (Esig) 20 ging jedoch nicht in Fahrtstellung, da die Weiche 28 nicht in Endlage kam und somit der Fahrweg fÃ¼r die Zugfahrt nicht gesichert war. Auf dem Gleisbildstellwerk wurde eine StÃ¶rung an der Weiche 28 mittels eines blinkenden roten Lichtes angezeigt. Zudem war die Anzeige fÃ¼r die Linkslage und die Rechtslage der Weiche dunkel. Die Fdl hatte demnach erkennen kÃ¶nnen, dass sich die Weiche 28 nicht in Endlage befand. Die Fdl meldete gemÃ¤ÃŸ dem Arbeits- und StÃ¶rungsbuch an die fÃ¼r die EntstÃ¶rung zustÃ¤ndige Stelle keine StÃ¶rung der Weiche 28, sondern eine SignalstÃ¶rung am Esig 20. Daraus ist abzuleiten, dass sie die Ursache fÃ¼r die dauernde Haltstellung des Signals als SignalstÃ¶rung auffasste, mithin die Anzeigen auf dem Gleisbildstellwerk bezÃ¼glich der Weiche 28 nicht richtig interpretierte. Die Tatsache, dass die Fdl den Weichenselbststellbetrieb nicht ausgeschaltet hatte, als sie versuchte fÃ¼r den Zug RB 18479 das Ersatzsignal zu stellen, stÃ¼tzt die Vermutung der unzureichenden Handlungssicherheit.  
+Die Ursache für die Zugentgleisung war ein Arbeitsfehler der Fdl, die eine Zugfahrt auf Befehl zuließ, obwohl die Fahrstraße nicht gesichert war. Die Fahrstraße für die Zugfahrt war gestellt und eingespeichert. Das Einfahrsignal (Esig) 20 ging jedoch nicht in Fahrtstellung, da die Weiche 28 nicht in Endlage kam und somit der Fahrweg für die Zugfahrt nicht gesichert war. Auf dem Gleisbildstellwerk wurde eine Störung an der Weiche 28 mittels eines blinkenden roten Lichtes angezeigt. Zudem war die Anzeige für die Linkslage und die Rechtslage der Weiche dunkel. Die Fdl hatte demnach erkennen können, dass sich die Weiche 28 nicht in Endlage befand. Die Fdl meldete gemäß dem Arbeits- und Störungsbuch an die für die Entstörung zuständige Stelle keine Störung der Weiche 28, sondern eine Signalstörung am Esig 20. Daraus ist abzuleiten, dass sie die Ursache für die dauernde Haltstellung des Signals als Signalstörung auffasste, mithin die Anzeigen auf dem Gleisbildstellwerk bezüglich der Weiche 28 nicht richtig interpretierte. Die Tatsache, dass die Fdl den Weichenselbststellbetrieb nicht ausgeschaltet hatte, als sie versuchte für den Zug RB 18479 das Ersatzsignal zu stellen, stützt die Vermutung der unzureichenden Handlungssicherheit.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
-Laut Auskunft der DB Netz AG wurde im Zusammenhang mit diesem Ereignis die Fdl zunÃ¤chst in dieser Funktion nicht mehr auf dem Stw eingesetzt, sondern erhielt eine neue Einweisung und musste den Nachweis der Kenntnisse und Fertigkeiten fÃ¼r Bediener von Signalanlagen fÃ¼r die Betriebsstelle Birkenwerder (b. Berlin) neu erbringen, bevor sie dort wieder Dienst leisten durfte.
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+Laut Auskunft der DB Netz AG wurde im Zusammenhang mit diesem Ereignis die Fdl zunächst in dieser Funktion nicht mehr auf dem Stw eingesetzt, sondern erhielt eine neue Einweisung und musste den Nachweis der Kenntnisse und Fertigkeiten für Bediener von Signalanlagen für die Betriebsstelle Birkenwerder (b. Berlin) neu erbringen, bevor sie dort wieder Dienst leisten durfte.
 
 ---
 file: 210_Mannheim_Hbf_-_Ludwigshafen_Hbf.txt
 
-Zugentgleisung, 30.06.2015, Mannheim Hbf â€“ Ludwigshafen Hbf
+Zugentgleisung, 30.06.2015, Mannheim Hbf – Ludwigshafen Hbf
 
 # Hergang des Unfalls
-Am 30.06.2015 gegen 12:25 Uhr entgleiste am GÃ¼terzug DGS 44676 des Eisenbahnverkehrsunternehmens (EVU) SBB Cargo Deutschland GmbH der an Position 24 laufende Wagen mit dem fÃ¼hrenden Drehgestell (DG) bei der Fahrt von Mannheim Hbf nach Ludwigshafen (Rhein) Hbf.  
-Die Entgleisungsstelle befand sich auf der Rampe zur â€žKonrad-Adenauer-BrÃ¼ckeâ€œ, welche einen Abschnitt der zweigleisigen elektrifizierten Hauptbahn zwischen Mannheim Hbf und Ludwigshafen (Rhein) Hbf bildet.  
-Die Entgleisung ereignete sich ca. in km 107,128 noch im Bf Mannheim Hbf. Die Ereignisstelle durfte in diesem Bereich mit einer maximal zulÃ¤ssigen Geschwindigkeit von 80 km/h befahren werden.  
-Der GÃ¼terzug DGS 44676 befuhr die Rampe zur â€žKonrad-Adenauer-BrÃ¼ckeâ€œ mit einer Geschwindigkeit von weniger als 30 km/h. Das erste Drehgestell des in Fahrtrichtung an Position 24 laufenden Wagens entgleiste nach rechts beim Befahren eines Linksbogens mit einem Radius R= 300 m.  
-Erkannt wurde die Entgleisung vom TriebfahrzeugfÃ¼hrer (Tf) des entgegenkommenden Zuges T 67815, der an DGS 44676 auÃŸergewÃ¶hnliche Auf- und Ab-Bewegungen im Zugverband mit dem plÃ¶tzlichen Abheben eines Wagens wahrnahm und umgehend den Fahrdienstleiter (Fdl) Mannheim darÃ¼ber informierte. Der Fdl Mannheim setzte unmittelbar darauf einen Notruf mit Nothaltarag ab. Das Tfz des DGS 44676 kam in km 106,350 zum Stehen.
+Am 30.06.2015 gegen 12:25 Uhr entgleiste am Güterzug DGS 44676 des Eisenbahnverkehrsunternehmens (EVU) SBB Cargo Deutschland GmbH der an Position 24 laufende Wagen mit dem führenden Drehgestell (DG) bei der Fahrt von Mannheim Hbf nach Ludwigshafen (Rhein) Hbf.  
+Die Entgleisungsstelle befand sich auf der Rampe zur "Konrad-Adenauer-Brücke", welche einen Abschnitt der zweigleisigen elektrifizierten Hauptbahn zwischen Mannheim Hbf und Ludwigshafen (Rhein) Hbf bildet.  
+Die Entgleisung ereignete sich ca. in km 107,128 noch im Bf Mannheim Hbf. Die Ereignisstelle durfte in diesem Bereich mit einer maximal zulässigen Geschwindigkeit von 80 km/h befahren werden.  
+Der Güterzug DGS 44676 befuhr die Rampe zur "Konrad-Adenauer-Brücke" mit einer Geschwindigkeit von weniger als 30 km/h. Das erste Drehgestell des in Fahrtrichtung an Position 24 laufenden Wagens entgleiste nach rechts beim Befahren eines Linksbogens mit einem Radius R= 300 m.  
+Erkannt wurde die Entgleisung vom Triebfahrzeugführer (Tf) des entgegenkommenden Zuges T 67815, der an DGS 44676 außergewöhnliche Auf- und Ab-Bewegungen im Zugverband mit dem plötzlichen Abheben eines Wagens wahrnahm und umgehend den Fahrdienstleiter (Fdl) Mannheim darüber informierte. Der Fdl Mannheim setzte unmittelbar darauf einen Notruf mit Nothaltarag ab. Das Tfz des DGS 44676 kam in km 106,350 zum Stehen.
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte
-Es wurden keine Personen verletzt. Es entstand erheblicher Sachschaden an der Infrastruktur und geringer Sachschaden am Fahrzeug. Aufgrund der Sonderanfertigung der durch die Entgleisung beschÃ¤digten Spezialschwellen blieb das betroffene Gleis mehrere Wochen gesperrt.
+# Höhe des Schadens, Anzahl Tote und Verletzte
+Es wurden keine Personen verletzt. Es entstand erheblicher Sachschaden an der Infrastruktur und geringer Sachschaden am Fahrzeug. Aufgrund der Sonderanfertigung der durch die Entgleisung beschädigten Spezialschwellen blieb das betroffene Gleis mehrere Wochen gesperrt.
 
 # Ursachen des Unfalls
-Die Strecke gehÃ¶rte mit dem Ereignisort zur Eisenbahninfrastruktur der DB Netz AG. Die Entgleisung ereignete sich zwischen den Betriebsstellen Mannheim Hbf und Ludwigshafen (Rhein) Hbf.  
-Bei der Ã¶rtlichen Begutachtung wurden mehrere sichtbare AuffÃ¤lligkeiten im Bereich des Oberbaus festgestellt. Es waren Ã¼ber mehrere Meter auffÃ¤llig viele Riffeln und Rillen am Schienenspiegel sowie weiÃŸe Stellen im Schwellenbereich erkennbar.  
-Die ÃœberprÃ¼fung der Riffeln durch ein ProfilkopfmessgerÃ¤t ergab keine erhÃ¶hten Messwerte. Die Beschaffenheit der Riffeln war jedoch ausreichend, um beim Befahren das Schwingungsverhalten der Schiene ungÃ¼nstig zu beeinflussen. Durch diese Schwingungen wurden die Muttern der Schienenbefestigungen langsam aber stetig gelÃ¶st und bewirkten bei jeder Ãœberfahrt zunehmend hÃ¶here Spannungen im Tragsystem des Gleises.  
-Die AuffÃ¤lligkeiten in der PfeilhÃ¶he/Richtung (2) und in der Verwindung (3) und (4) im Messschrieb zeigten eine Ãœberschreitung des Freigabewertes nach Ril 824. Der Freigabewert orientiert sich an der Fehlerbewertung SR 100 aus der Ril 821.2001 (Oberbau inspizieren).  
-Auf Grund der Tatsache, dass die AuffÃ¤lligkeiten (1), (2) und (4) im selben Kilometerpunkt lagen, bildeten sie aus einem Einzelfehler gemÃ¤ÃŸ Ril 821.2001 Abschn. 5 Abs. 1 einen kombinierten Einzelfehler.  
-Der Fehler in Punkt (4) traten zusÃ¤tzliche Fehler in der LÃ¤ngshÃ¶he (1) und in der PfeilhÃ¶he (2) auf, die gemÃ¤ÃŸ Ril 821.2001 Abschn. 5 Abs. 1 als kombinierte Einzelfehler einzustufen sind.  
-Die Ursache fÃ¼r die Entgleisung lag im individuellen Zusammenwirken von Wagen und Oberbau. Die plÃ¶tzlichen VerÃ¤nderungen der Gleisparameter in LÃ¤ngshÃ¶he, Richtung und Verwindung im Bereich der Entgleisungsstelle nahm das erste Drehgestell des an Position 24 laufenden Wagens bei der langsamen Fahrt aufgrund des verwindungssteifen und torsionstrÃ¤gen Wagens einzig durch die Drehgestelle nicht mehr auf, so dass es zum Verlust der SpurfÃ¼hrung kam.
+Die Strecke gehörte mit dem Ereignisort zur Eisenbahninfrastruktur der DB Netz AG. Die Entgleisung ereignete sich zwischen den Betriebsstellen Mannheim Hbf und Ludwigshafen (Rhein) Hbf.  
+Bei der örtlichen Begutachtung wurden mehrere sichtbare Auffälligkeiten im Bereich des Oberbaus festgestellt. Es waren über mehrere Meter auffällig viele Riffeln und Rillen am Schienenspiegel sowie weiße Stellen im Schwellenbereich erkennbar.  
+Die Überprüfung der Riffeln durch ein Profilkopfmessgerät ergab keine erhöhten Messwerte. Die Beschaffenheit der Riffeln war jedoch ausreichend, um beim Befahren das Schwingungsverhalten der Schiene ungünstig zu beeinflussen. Durch diese Schwingungen wurden die Muttern der Schienenbefestigungen langsam aber stetig gelöst und bewirkten bei jeder Überfahrt zunehmend höhere Spannungen im Tragsystem des Gleises.  
+Die Auffälligkeiten in der Pfeilhöhe/Richtung (2) und in der Verwindung (3) und (4) im Messschrieb zeigten eine Überschreitung des Freigabewertes nach Ril 824. Der Freigabewert orientiert sich an der Fehlerbewertung SR 100 aus der Ril 821.2001 (Oberbau inspizieren).  
+Auf Grund der Tatsache, dass die Auffälligkeiten (1), (2) und (4) im selben Kilometerpunkt lagen, bildeten sie aus einem Einzelfehler gemäß Ril 821.2001 Abschn. 5 Abs. 1 einen kombinierten Einzelfehler.  
+Der Fehler in Punkt (4) traten zusätzliche Fehler in der Längshöhe (1) und in der Pfeilhöhe (2) auf, die gemäß Ril 821.2001 Abschn. 5 Abs. 1 als kombinierte Einzelfehler einzustufen sind.  
+Die Ursache für die Entgleisung lag im individuellen Zusammenwirken von Wagen und Oberbau. Die plötzlichen Veränderungen der Gleisparameter in Längshöhe, Richtung und Verwindung im Bereich der Entgleisungsstelle nahm das erste Drehgestell des an Position 24 laufenden Wagens bei der langsamen Fahrt aufgrund des verwindungssteifen und torsionsträgen Wagens einzig durch die Drehgestelle nicht mehr auf, so dass es zum Verlust der Spurführung kam.
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle
-Nach Auskunft der DB Netz AG wurden nach dem Ereignis auf mehreren Metern im Bereich der Rampe zur â€žKonrad-Adenauer-BrÃ¼ckeâ€œ kopfgehÃ¤rtete Schienen verbaut, um die Riffelbildungen in den SchienenkÃ¶pfen zu minimieren.  
-Mit der Sicherheitsempfehlung 3/2017 vom 31.01.2017 hat die BEU auf die Problemakademie von kombiniert auftretenden Gleislagefehlern hingewiesen. Die DB Netz AG hat daraufhin die technische Mitteilung TM 1-2017-10135 erlassen, mit der die Behandlung von kombinierten Einzelfehlern prÃ¤zisiert wurde. Diese TM wurde zwischenzeitlich in die Ril 821.2001 Ã¼berfÃ¼hrt.
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle
+Nach Auskunft der DB Netz AG wurden nach dem Ereignis auf mehreren Metern im Bereich der Rampe zur "Konrad-Adenauer-Brücke" kopfgehärtete Schienen verbaut, um die Riffelbildungen in den Schienenköpfen zu minimieren.  
+Mit der Sicherheitsempfehlung 3/2017 vom 31.01.2017 hat die BEU auf die Problemakademie von kombiniert auftretenden Gleislagefehlern hingewiesen. Die DB Netz AG hat daraufhin die technische Mitteilung TM 1-2017-10135 erlassen, mit der die Behandlung von kombinierten Einzelfehlern präzisiert wurde. Diese TM wurde zwischenzeitlich in die Ril 821.2001 überführt.
 
 ---
 file: 188_Eisenach.txt
@@ -3450,104 +3450,104 @@ file: 188_Eisenach.txt
 Untersuchungsbericht: Zugentgleisung, 20.10.2014, Bf Eisenach  
 
 # Hergang des Unfalls  
-Am 20.10.2014 entgleiste gegen 19:16 Uhr die Zugfahrt RB 16335 des Eisenbahnverkehrsunternehmens DB Regio AG auf der Fahrt von Eisenach nach Halle (Saale) Hauptbahnhof im Bahnhof (Bf) Eisenach bei der Ausfahrt aus Gleis 403. Zum Zeitpunkt des Ereignisses fanden im Bf Eisenach BaumaÃŸnahmen statt, die im Rahmen von fÃ¼nf Betriebs- und Bauanweisungen (Betra) realisiert wurden. Aufgrund der BaumaÃŸnahmen durfte die VzG-Strecke 6340 nur mit 40 km/h befahren werden. In Umsetzung der Betra F 42 0853 14 entstand im Verbindungsgleis zwischen den Weichen 21W327 und 21W326 eine GleislÃ¼cke von ca. 30 cm, in der die Zugfahrt RB 16335 entgleiste. Der zustÃ¤ndige Fahrdienstleiter (Fdl) hatte trotz einer angeordneten Sperrung der Weichenverbindung 327/326 den Fahrweg Ã¼ber diese eingestellt. Der Technisch Berechnete hatte bei der Befahrbarkeitsmeldung fÃ¼r die Gleise 301 und 302 nicht gefordert, dass die Weichenverbindung 326/327 gesperrt bleiben mÃ¼sse. Die Weichenverbindung 327/326 war gemÃ¤ÃŸ Abschnitt 2.2.5 der Betra F 42 0835 14 vom 17.10.2014 23:15 Uhr bis zum 22.10.2014 15:00 Uhr durchgehend gesperrt. Die Sperrung war jedoch nicht realisiert worden. In der gesperrten Weichenverbindung wurde keine WÃ¤rterhaltscheibe (Sh 2-Scheibe) aufgestellt. Der zustÃ¤ndige Fdl stellte in Unkenntnis der relevanten Inhalte der Betra F 42 0835 14 die FahrstraÃŸe Ã¼ber die gesperrte Weichenverbindung 327/326 ein. Wegen der fehlenden Sh 2-Scheibe konnte der TriebfahrzeugfÃ¼hrer den nicht befahrbaren Gleisabschnitt nicht sofort erkennen und daher nicht rechtzeitig bremsen.  
+Am 20.10.2014 entgleiste gegen 19:16 Uhr die Zugfahrt RB 16335 des Eisenbahnverkehrsunternehmens DB Regio AG auf der Fahrt von Eisenach nach Halle (Saale) Hauptbahnhof im Bahnhof (Bf) Eisenach bei der Ausfahrt aus Gleis 403. Zum Zeitpunkt des Ereignisses fanden im Bf Eisenach Baumaßnahmen statt, die im Rahmen von fünf Betriebs- und Bauanweisungen (Betra) realisiert wurden. Aufgrund der Baumaßnahmen durfte die VzG-Strecke 6340 nur mit 40 km/h befahren werden. In Umsetzung der Betra F 42 0853 14 entstand im Verbindungsgleis zwischen den Weichen 21W327 und 21W326 eine Gleislücke von ca. 30 cm, in der die Zugfahrt RB 16335 entgleiste. Der zuständige Fahrdienstleiter (Fdl) hatte trotz einer angeordneten Sperrung der Weichenverbindung 327/326 den Fahrweg über diese eingestellt. Der Technisch Berechnete hatte bei der Befahrbarkeitsmeldung für die Gleise 301 und 302 nicht gefordert, dass die Weichenverbindung 326/327 gesperrt bleiben müsse. Die Weichenverbindung 327/326 war gemäß Abschnitt 2.2.5 der Betra F 42 0835 14 vom 17.10.2014 23:15 Uhr bis zum 22.10.2014 15:00 Uhr durchgehend gesperrt. Die Sperrung war jedoch nicht realisiert worden. In der gesperrten Weichenverbindung wurde keine Wärterhaltscheibe (Sh 2-Scheibe) aufgestellt. Der zuständige Fdl stellte in Unkenntnis der relevanten Inhalte der Betra F 42 0835 14 die Fahrstraße über die gesperrte Weichenverbindung 327/326 ein. Wegen der fehlenden Sh 2-Scheibe konnte der Triebfahrzeugführer den nicht befahrbaren Gleisabschnitt nicht sofort erkennen und daher nicht rechtzeitig bremsen.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
-Personen wurden weder verletzt noch getÃ¶tet. Es entgleisten vier Wagen und es entstanden SachschÃ¤den, die sich entsprechend der folgenden Ãœbersicht zusammensetzten:  
-- geschÃ¤tzte Kosten in Euro:  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Personen wurden weder verletzt noch getötet. Es entgleisten vier Wagen und es entstanden Sachschäden, die sich entsprechend der folgenden Übersicht zusammensetzten:  
+- geschätzte Kosten in Euro:  
   - Fahrzeuge: 440.000  
   - Infrastruktur: 121.000  
   - Dritte: 4.000  
-  - GesamtschadenshÃ¶he: 565.000  
+  - Gesamtschadenshöhe: 565.000  
 
 # Ursachen des Unfalls  
-Die Ursache fÃ¼r das Ereignis lag darin, dass einerseits der zustÃ¤ndige Fdl Ã¼ber wesentliche Bestandteile des Inhalts der Betra F 42 0835 14 keine oder nur unzureichende Kenntnis besaÃŸ und andererseits der Technisch Berechnete vom Fdl bei der Befahrbarkeitsmeldung fÃ¼r die Gleise 301 und 302 die Sperrung der Weichenverbindung 326/327 nicht explizit forderte. Die Betra F 42 0835 14 war seit dem 13.10.2014, 22:00 Uhr in Kraft und sollte ab 25.10.2014, 03:00 Uhr wieder auÃŸer Kraft gesetzt werden. FÃ¼r den zum Zeitpunkt des Ereignisses Dienst tÃ¤tigen zustÃ¤ndigen Fdl war es jedoch die erste Schicht nach einem lÃ¤ngeren Urlaub. Den Inhalt der einschlÃ¤gigen Betra hatte er gemÃ¤ÃŸ seiner Aussage wegen des durch die Bauarbeiten verursachten hohen Arbeitspensums nicht studieren kÃ¶nnen. Die Weichenverbindung 327/326 war weiterhin nicht befahrbar. In der gesperrten Weichenverbindung wurde, gemÃ¤ÃŸ den Angaben des Infrastrukturbetreibers aus PlatzgrÃ¼nden, keine WÃ¤rterhaltscheibe (Sh 2-Scheibe) aufgestellt.  
+Die Ursache für das Ereignis lag darin, dass einerseits der zuständige Fdl über wesentliche Bestandteile des Inhalts der Betra F 42 0835 14 keine oder nur unzureichende Kenntnis besaß und andererseits der Technisch Berechnete vom Fdl bei der Befahrbarkeitsmeldung für die Gleise 301 und 302 die Sperrung der Weichenverbindung 326/327 nicht explizit forderte. Die Betra F 42 0835 14 war seit dem 13.10.2014, 22:00 Uhr in Kraft und sollte ab 25.10.2014, 03:00 Uhr wieder außer Kraft gesetzt werden. Für den zum Zeitpunkt des Ereignisses Dienst tätigen zuständigen Fdl war es jedoch die erste Schicht nach einem längeren Urlaub. Den Inhalt der einschlägigen Betra hatte er gemäß seiner Aussage wegen des durch die Bauarbeiten verursachten hohen Arbeitspensums nicht studieren können. Die Weichenverbindung 327/326 war weiterhin nicht befahrbar. In der gesperrten Weichenverbindung wurde, gemäß den Angaben des Infrastrukturbetreibers aus Platzgründen, keine Wärterhaltscheibe (Sh 2-Scheibe) aufgestellt.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
-In der ProduktionsdurchfÃ¼hrung Erfurt der DB Netz AG wurden folgende MaÃŸnahmen getroffen:  
-- Der Bezirksleiter Betrieb ist zu prÃ¼fen, ob die an der DurchfÃ¼hrung beteiligten Fdl bzw. WeichenwÃ¤rter (Ww) sich vor Beginn der Bauarbeiten mit dem Inhalt der Betra vertraut machen kÃ¶nnen. Ist das nicht der Fall, so sind geeignete MaÃŸnahmen zu organisieren.  
-- Der Bezirksleiter Betrieb entscheidet in jedem Einzelfall, ob eine persÃ¶nliche Einweisung erforderlich ist. Dies ist abhÃ¤ngig vom Schwierigkeitsgrad der Betra und dem LeistungsvermÃ¶gen des Mitarbeiters.  
-- Wenn Fdl bzw. Ww nach einem Urlaub bzw. Krankheit zur 1. Schicht kommen (besonderer Fall), dÃ¼rfen diese bei komplizierten bzw. komplexen Bauarbeiten erst eingesetzt werden, wenn eine persÃ¶nliche Einweisung durchgefÃ¼hrt wurde.  
-- Verbesserung der Darstellung von Gleissperrungen in der Betra durch den Bereich ProduktionsdurchfÃ¼hrung Erfurt.  
-- PrÃ¼fung von zusÃ¤tzlichen technischen MaÃŸnahmen, die Ã¼ber Ril 408.0902/03 hinausgehen, zur Sicherung von Weichen (z.B. Anbringen von HandverschlÃ¼ssen) bei der Vorbereitung Ã¤hnlicher BaumaÃŸnahmen.  
-- Herausgabe einer Ã–rtlichen betrieblichen Weisung des Bereichs ProduktionsdurchfÃ¼hrung Erfurt zur Einweisung der Betriebspersonale bei Bauarbeiten.  
-- Sonderbelehrung der Fdl der ProduktionsdurchfÃ¼hrung Erfurt zum Thema Sperren von Gleisen und Weichen.  
-- EinfÃ¼hrung fÃ¼r den Bereich ProduktionsdurchfÃ¼hrung Erfurt, dass die Darstellung der Sperrungen von Weichenverbindung Ã¼ber mehrere Bauabschnitte in jeden betroffenen Unterpunkt der Betra 2.2 zu Ã¼bernehmen ist.  
-- In Vorbereitung Ã¤hnlicher BaumaÃŸnahmen ist in der Phase der Baubetriebsplanung vom Baubetriebskoordinator mit dem Anlagenverantwortlichen fÃ¼r die Leit- und Sicherungstechnik zu prÃ¼fen, inwieweit zusÃ¤tzliche technische MaÃŸnahmen Ã¼ber die Ril 408.0902/03 hinaus zur Weichensicherung mÃ¶glich sind und geplant werden.  
-- Sonderbelehrung mit allen Fdl im Bereich ProduktionsdurchfÃ¼hrung Erfurt, dass im Rahmen DienstÃ¼bergabe/-Ã¼bernahme die Fdl das Vorhandensein der erforderlichen Merkhinweise und Sperren zu prÃ¼fen haben und zwingende NachweisfÃ¼hrung im Fernsprechbuch von Nichtbefahrbarkeit von Weichenverbindungen.
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+In der Produktionsdurchführung Erfurt der DB Netz AG wurden folgende Maßnahmen getroffen:  
+- Der Bezirksleiter Betrieb ist zu prüfen, ob die an der Durchführung beteiligten Fdl bzw. Weichenwärter (Ww) sich vor Beginn der Bauarbeiten mit dem Inhalt der Betra vertraut machen können. Ist das nicht der Fall, so sind geeignete Maßnahmen zu organisieren.  
+- Der Bezirksleiter Betrieb entscheidet in jedem Einzelfall, ob eine persönliche Einweisung erforderlich ist. Dies ist abhängig vom Schwierigkeitsgrad der Betra und dem Leistungsvermögen des Mitarbeiters.  
+- Wenn Fdl bzw. Ww nach einem Urlaub bzw. Krankheit zur 1. Schicht kommen (besonderer Fall), dürfen diese bei komplizierten bzw. komplexen Bauarbeiten erst eingesetzt werden, wenn eine persönliche Einweisung durchgeführt wurde.  
+- Verbesserung der Darstellung von Gleissperrungen in der Betra durch den Bereich Produktionsdurchführung Erfurt.  
+- Prüfung von zusätzlichen technischen Maßnahmen, die über Ril 408.0902/03 hinausgehen, zur Sicherung von Weichen (z.B. Anbringen von Handverschlüssen) bei der Vorbereitung ähnlicher Baumaßnahmen.  
+- Herausgabe einer Örtlichen betrieblichen Weisung des Bereichs Produktionsdurchführung Erfurt zur Einweisung der Betriebspersonale bei Bauarbeiten.  
+- Sonderbelehrung der Fdl der Produktionsdurchführung Erfurt zum Thema Sperren von Gleisen und Weichen.  
+- Einführung für den Bereich Produktionsdurchführung Erfurt, dass die Darstellung der Sperrungen von Weichenverbindung über mehrere Bauabschnitte in jeden betroffenen Unterpunkt der Betra 2.2 zu übernehmen ist.  
+- In Vorbereitung ähnlicher Baumaßnahmen ist in der Phase der Baubetriebsplanung vom Baubetriebskoordinator mit dem Anlagenverantwortlichen für die Leit- und Sicherungstechnik zu prüfen, inwieweit zusätzliche technische Maßnahmen über die Ril 408.0902/03 hinaus zur Weichensicherung möglich sind und geplant werden.  
+- Sonderbelehrung mit allen Fdl im Bereich Produktionsdurchführung Erfurt, dass im Rahmen Dienstübergabe/-übernahme die Fdl das Vorhandensein der erforderlichen Merkhinweise und Sperren zu prüfen haben und zwingende Nachweisführung im Fernsprechbuch von Nichtbefahrbarkeit von Weichenverbindungen.
 
 ---
 file: 208_Ravensburg_-_Friedrichshafen_Stadt.txt
 
-Untersuchungsbericht BahnÃ¼bergangsunfall, 04.08.2015, Ravensburg â€“ Friedrichshafen Stadt  
+Untersuchungsbericht Bahnübergangsunfall, 04.08.2015, Ravensburg – Friedrichshafen Stadt  
 
 # Hergang des Unfalls  
-Am 04.08.2015 gegen 15:37 Uhr prallte DPN 87581 des Eisenbahnverkehrsunternehmens (EVU) Bodensee-Oberschwaben-Bahn (BOB), auf dem Weg von Ulm Hbf nach Friedrichshafen Stadt, mit einem Sattelzug zusammen. Der Ereignisort befand sich auf dem BahnÃ¼bergang (BÃœ) in km 190,97 auf der zweigleisigen, nicht elektrifizierten Hauptbahn, welche von dem Eisenbahninfrastrukturunternehmen (EIU) DB Netz AG betrieben wurde. Der Sa elzug befuhr den BÃœ von der BundesstraÃŸe B 30 kommend mit geringer Geschwindigkeit. Beim Ãœberqueren des BÃœ setzte der Sa elauflieger mit seiner unteren Rahmenkante auf der Kuppe der Fahrbahn im Bereich des BÃœ stark auf, so dass die Sa elzugmaschine den BÃœ-Bereich nicht mehr rÃ¤umen konnte. Der Fahrer versuchte noch, mithilfe Hydraulik den Sa elauflieger vor dem herannahenden Zug zu befreien.  
+Am 04.08.2015 gegen 15:37 Uhr prallte DPN 87581 des Eisenbahnverkehrsunternehmens (EVU) Bodensee-Oberschwaben-Bahn (BOB), auf dem Weg von Ulm Hbf nach Friedrichshafen Stadt, mit einem Sattelzug zusammen. Der Ereignisort befand sich auf dem Bahnübergang (BÜ) in km 190,97 auf der zweigleisigen, nicht elektrifizierten Hauptbahn, welche von dem Eisenbahninfrastrukturunternehmen (EIU) DB Netz AG betrieben wurde. Der Sa elzug befuhr den BÜ von der Bundesstraße B 30 kommend mit geringer Geschwindigkeit. Beim Überqueren des BÜ setzte der Sa elauflieger mit seiner unteren Rahmenkante auf der Kuppe der Fahrbahn im Bereich des BÜ stark auf, so dass die Sa elzugmaschine den BÜ-Bereich nicht mehr räumen konnte. Der Fahrer versuchte noch, mithilfe Hydraulik den Sa elauflieger vor dem herannahenden Zug zu befreien.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
-Bei dem Zusammenprall wurde ein Reisender im Zug leicht verletzt. Am Eisenbahn- und am StraÃŸenfahrzeug entstanden geringe SachschÃ¤den. Beide Fahrzeuge konnten anschlieÃŸend aus eigener Kraft weiterfahren.  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Bei dem Zusammenprall wurde ein Reisender im Zug leicht verletzt. Am Eisenbahn- und am Straßenfahrzeug entstanden geringe Sachschäden. Beide Fahrzeuge konnten anschließend aus eigener Kraft weiterfahren.  
 
 # Ursachen des Unfalls  
-Der Sa elzug befuhr den BÃœ von der BundesstraÃŸe B 30 kommend mit geringer Geschwindigkeit. Beim Ãœberqueren des BÃœ setzte der Sa elauflieger mit seiner unteren Rahmenkante auf der Kuppe der Fahrbahn im Bereich des BÃœ stark auf, so dass die Sa elzugmaschine den BÃœ-Bereich nicht mehr rÃ¤umen konnte. Der Fahrer des Sa elzuges konnte bei seiner Fahrt die fehlende Bodenfreiheit in Bezug auf seinen Radstand aus seinem Fahrerhaus nicht erkennen. Bei der BahnÃ¼bergangssicherungsanlage handelte es sich um eine fernÃ¼berwachte Anlage der Bauform EBÃœT 80 LzH+F/FÃ¼. Ãœberwachender Fahrdienstleiter (Fdl) war der Ã¶rtlich zustÃ¤ndige Fahrdienstleiter (Ã¶zF) Friedrichshafen mit Sitz in der Betriebszentrale Karlsruhe. Da ein Schrankenbaum auf dem Sattelzug zum Liegen kam, erreichte er seine Endlage nicht. Dem Ã¶zF Friedrichshafen wurde daraufhin eine StÃ¶rmeldung angezeigt. Eine StÃ¶rmeldung bei einer FÃœ-Anlage verhindert nicht das Befahren des BÃœ durch einen sich bereits annÃ¤hernden Zug. Entsprechend dem Regelwerk (hier Richtlinie (Ril) 408.0641 Abschnitt 3 Abs. 1) hat der Fdl MaÃŸnahmen bei Gefahr zu treffen, wenn ihm bekannt wird, dass die technische Sicherung eines BÃœ ausgefallen oder gestÃ¶rt ist. Der Fdl setzte unverzÃ¼glich einen Nothaltauftrag ab. Aufgrund des engen Zeitfensters erreichte der Nothaltauftrag den Zug erst nach dem Zusammenprall mit dem Sattelzug.  
+Der Sa elzug befuhr den BÜ von der Bundesstraße B 30 kommend mit geringer Geschwindigkeit. Beim Überqueren des BÜ setzte der Sa elauflieger mit seiner unteren Rahmenkante auf der Kuppe der Fahrbahn im Bereich des BÜ stark auf, so dass die Sa elzugmaschine den BÜ-Bereich nicht mehr räumen konnte. Der Fahrer des Sa elzuges konnte bei seiner Fahrt die fehlende Bodenfreiheit in Bezug auf seinen Radstand aus seinem Fahrerhaus nicht erkennen. Bei der Bahnübergangssicherungsanlage handelte es sich um eine fernüberwachte Anlage der Bauform EBÜT 80 LzH+F/Fü. Überwachender Fahrdienstleiter (Fdl) war der örtlich zuständige Fahrdienstleiter (özF) Friedrichshafen mit Sitz in der Betriebszentrale Karlsruhe. Da ein Schrankenbaum auf dem Sattelzug zum Liegen kam, erreichte er seine Endlage nicht. Dem özF Friedrichshafen wurde daraufhin eine Störmeldung angezeigt. Eine Störmeldung bei einer FÜ-Anlage verhindert nicht das Befahren des BÜ durch einen sich bereits annähernden Zug. Entsprechend dem Regelwerk (hier Richtlinie (Ril) 408.0641 Abschnitt 3 Abs. 1) hat der Fdl Maßnahmen bei Gefahr zu treffen, wenn ihm bekannt wird, dass die technische Sicherung eines BÜ ausgefallen oder gestört ist. Der Fdl setzte unverzüglich einen Nothaltauftrag ab. Aufgrund des engen Zeitfensters erreichte der Nothaltauftrag den Zug erst nach dem Zusammenprall mit dem Sattelzug.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
-Als SofortmaÃŸnahme nach dem Ereignis wurde die Kuppe vor dem BÃœ so abgefrÃ¤st, dass sie fÃ¼r den StraÃŸenverkehr flacher ausgebildet war. Zudem erlieÃŸ die StraÃŸenverkehrsbehÃ¶rde eine verkehrslenkende MaÃŸnahme mit Verkehrszeichen Z 250 in Verbindung mit den Zusatzzeichen Z 1048-14 â€žVerbot der Durchfahrt fÃ¼r Sattelfahrzeugeâ€œ. Mit der Technischen Mitteilung TM: 1-2017-10643 I.NPF 1 vom 29.11.2017 wurden durch die DB Netz AG Regelungen bezÃ¼glich der Mindesthalbmessern und einer Messmethode hinsichtlich der erforderlichen Mindesthalbmesser fÃ¼r die Ausrundungsradien von Fahrbahnkuppen im Bereich von bestehenden BÃœ eingefÃ¼hrt. Im Zuge von weiteren BaumaÃŸnahmen wurde der BÃœ in Kehlen mittlerweile umfangreich umgebaut, sodass die StraÃŸengradiente entsprechend flacher ausgebildet wurde.
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+Als Sofortmaßnahme nach dem Ereignis wurde die Kuppe vor dem BÜ so abgefräst, dass sie für den Straßenverkehr flacher ausgebildet war. Zudem erließ die Straßenverkehrsbehörde eine verkehrslenkende Maßnahme mit Verkehrszeichen Z 250 in Verbindung mit den Zusatzzeichen Z 1048-14 "Verbot der Durchfahrt für Sattelfahrzeuge". Mit der Technischen Mitteilung TM: 1-2017-10643 I.NPF 1 vom 29.11.2017 wurden durch die DB Netz AG Regelungen bezüglich der Mindesthalbmessern und einer Messmethode hinsichtlich der erforderlichen Mindesthalbmesser für die Ausrundungsradien von Fahrbahnkuppen im Bereich von bestehenden BÜ eingeführt. Im Zuge von weiteren Baumaßnahmen wurde der BÜ in Kehlen mittlerweile umfangreich umgebaut, sodass die Straßengradiente entsprechend flacher ausgebildet wurde.
 
 ---
 file: 195_Blumenberg.txt
 
 Zugentgleisung, 08.11.2016, Blumenberg  
-Untersuchungsbericht der Bundesstelle fÃ¼r Eisenbahnunfalluntersuchung  
+Untersuchungsbericht der Bundesstelle für Eisenbahnunfalluntersuchung  
 
 # Hergang des Unfalls  
-Am 08.11.2016 gegen 13:30 Uhr entgleiste der Reisezug DPN 80146 auf der Fahrt von Magdeburg Hauptbahnhof nach Thale/Goslar bei der Einfahrt in den Bahnhof (Bf) Blumenberg auf der Weiche 8 mit den beiden RadsÃ¤tzen des hinteren Drehgestells der fÃ¼hrenden Triebwageneinheit.  
-Die Leit- und Sicherungstechnik im Bf Blumenberg wurde mit mechanischen Stellwerken (Stw) der Bauart Zimmermann & Buchloh bedient. Die Weiche 8, in der sich die Zugentgleisung ereignete, befand sich im Stellbereich des WeichenwÃ¤rters (Ww) auf Stw Bo.  
-Der zum Ereigniszeitpunkt verantwortliche Ww auf dem Stw Bo erhielt den Auftrag, fÃ¼r den DPN 80146 die FahrstraÃŸe a4 vom Esig A nach Gleis 4 einzustellen. Nach mechanischem Verschluss und der blockelektrischen Festlegung der FahrstraÃŸe konnte der Ww Bo das Formsignal Esig A in die Fahrtstellung (Signal Hp2) bringen und der DPN 80146 fuhr in den Bf Blumenberg ein.  
-Der Ww wollte nach der Einfahrt des DPN 80146 die Schranke am BÃœ 21,0 kurzzeitig Ã¶ffnen. HierfÃ¼r musste die FahrstraÃŸe a4 aufgelÃ¶st werden. Nach der AuflÃ¶sung der FahrstraÃŸe konnte der Ww den FahrstraÃŸenhebel a4 in die Grundstellung zurÃ¼cklegen. Die Bewegung des Weichenhebels reichte jedoch aus, um Ã¼ber den Seilzug einen Umstellvorgang zu beginnen und somit die Weichenzungen aus ihrer Endlage zu lÃ¶sen. Die RadsÃ¤tze des Drehgestells fuhren zweispurig, wodurch die Entgleisung entstand.  
+Am 08.11.2016 gegen 13:30 Uhr entgleiste der Reisezug DPN 80146 auf der Fahrt von Magdeburg Hauptbahnhof nach Thale/Goslar bei der Einfahrt in den Bahnhof (Bf) Blumenberg auf der Weiche 8 mit den beiden Radsätzen des hinteren Drehgestells der führenden Triebwageneinheit.  
+Die Leit- und Sicherungstechnik im Bf Blumenberg wurde mit mechanischen Stellwerken (Stw) der Bauart Zimmermann & Buchloh bedient. Die Weiche 8, in der sich die Zugentgleisung ereignete, befand sich im Stellbereich des Weichenwärters (Ww) auf Stw Bo.  
+Der zum Ereigniszeitpunkt verantwortliche Ww auf dem Stw Bo erhielt den Auftrag, für den DPN 80146 die Fahrstraße a4 vom Esig A nach Gleis 4 einzustellen. Nach mechanischem Verschluss und der blockelektrischen Festlegung der Fahrstraße konnte der Ww Bo das Formsignal Esig A in die Fahrtstellung (Signal Hp2) bringen und der DPN 80146 fuhr in den Bf Blumenberg ein.  
+Der Ww wollte nach der Einfahrt des DPN 80146 die Schranke am BÜ 21,0 kurzzeitig öffnen. Hierfür musste die Fahrstraße a4 aufgelöst werden. Nach der Auflösung der Fahrstraße konnte der Ww den Fahrstraßenhebel a4 in die Grundstellung zurücklegen. Die Bewegung des Weichenhebels reichte jedoch aus, um über den Seilzug einen Umstellvorgang zu beginnen und somit die Weichenzungen aus ihrer Endlage zu lösen. Die Radsätze des Drehgestells fuhren zweispurig, wodurch die Entgleisung entstand.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
-Personen wurden nicht getÃ¶tet oder verletzt.  
-Die geschÃ¤tzte SchadenshÃ¶he betrÃ¤gt:  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Personen wurden nicht getötet oder verletzt.  
+Die geschätzte Schadenshöhe beträgt:  
 - Fahrzeuge: ca. 220.000 Euro  
 - Infrastruktur: ca. 410.000 Euro  
-- GesamtschadenshÃ¶he: ca. 630.000 Euro  
+- Gesamtschadenshöhe: ca. 630.000 Euro  
 
 # Ursachen des Unfalls  
-Die Ursachen fÃ¼r die Zugentgleisung lagen in mehreren VerstÃ¶ÃŸen gegen die Ril 408 â€“ Fahrdienstvorschri â€“ begrÃ¼ndet.  
+Die Ursachen für die Zugentgleisung lagen in mehreren Verstößen gegen die Ril 408 – Fahrdienstvorschri – begründet.  
 Der Ww auf dem Stw Bo stellte das Esig A auf Halt, obwohl der Zug noch nicht mit Schlusssignal am Stw Bo vorbeigefahren war. Dies war gegen die Regeln in Ril 408.0251 und gegen die Festlegungen des Betriebsstellenbuches.  
-Der Fdl auf dem Stw Bmf lÃ¶ste die FahrstraÃŸe auf, obwohl der Zug noch nicht an der FahrstraÃŸen-Zugschlussstelle vorbeigefahren war. Dies war ebenfalls gegen die Regelungen der Ril 408.0251.  
-Die fehlerhafte zeitliche Abfolge der Bedienhandlungen durch den Ww Stw Bo und den Fdl fÃ¼hrte zur vorzeitigen AuflÃ¶sung der FahrstraÃŸe und zur unzeitgemÃ¤ÃŸen Bedienung des Weichenhebels auf Stw Bo.  
+Der Fdl auf dem Stw Bmf löste die Fahrstraße auf, obwohl der Zug noch nicht an der Fahrstraßen-Zugschlussstelle vorbeigefahren war. Dies war ebenfalls gegen die Regelungen der Ril 408.0251.  
+Die fehlerhafte zeitliche Abfolge der Bedienhandlungen durch den Ww Stw Bo und den Fdl führte zur vorzeitigen Auflösung der Fahrstraße und zur unzeitgemäßen Bedienung des Weichenhebels auf Stw Bo.  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
-Der BEU wurden keine MaÃŸnahmen bekannt, die infolge des Ereignisses durch die beteiligten Eisenbahnunternehmen oder durch die SicherheitsbehÃ¶rde getroffen wurden.
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+Der BEU wurden keine Maßnahmen bekannt, die infolge des Ereignisses durch die beteiligten Eisenbahnunternehmen oder durch die Sicherheitsbehörde getroffen wurden.
 
 ---
 file: 181_Jossa_-_Burgsinn.txt
 
-Untersuchungsbericht UnzulÃ¤ssige Einfahrt in einen besetz. Gleisabsch., 18.02.2015, Bf Jossa â€“ Bf Burgsinn
+Untersuchungsbericht Unzulässige Einfahrt in einen besetz. Gleisabsch., 18.02.2015, Bf Jossa – Bf Burgsinn
 
 # Hergang des Unfalls  
-Am 18.02.2015 erhielt der Personenzug RB 58043 des Eisenbahnverkehrsunternehmens (EVU) DB Regio AG gegen 13:00 Uhr vom Fahrdienstleiter (Fdl) Jossa die Zustimmung in den Zugfolgeabschni 941 einzufahren, obwohl dieser noch durch den GÃ¼terzug DGS 69235 des EVU boxXpress.de GmbH besetzt war.  
-Der Zugfolgeabschni 941 befand sich zwischen den BahnhÃ¶fen (Bf) Jossa und Burgsinn. [...]  
-Der TriebfahrzeugfÃ¼hrer (Tf) des Personenzuges RB 58043 erkannte den GÃ¼terzug DGS 69235 in seinem Fahrweg und leitete eine Schnellbremsung ein. [...]  
-Der Tf der RB 58043 lieÃŸ sich aufgrund eines Schocks anschlieÃŸend in WÃ¼rzburg Hbf ablÃ¶sen.  
+Am 18.02.2015 erhielt der Personenzug RB 58043 des Eisenbahnverkehrsunternehmens (EVU) DB Regio AG gegen 13:00 Uhr vom Fahrdienstleiter (Fdl) Jossa die Zustimmung in den Zugfolgeabschni 941 einzufahren, obwohl dieser noch durch den Güterzug DGS 69235 des EVU boxXpress.de GmbH besetzt war.  
+Der Zugfolgeabschni 941 befand sich zwischen den Bahnhöfen (Bf) Jossa und Burgsinn. [...]  
+Der Triebfahrzeugführer (Tf) des Personenzuges RB 58043 erkannte den Güterzug DGS 69235 in seinem Fahrweg und leitete eine Schnellbremsung ein. [...]  
+Der Tf der RB 58043 ließ sich aufgrund eines Schocks anschließend in Würzburg Hbf ablösen.  
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte  
-Der Tf der RB 58043 lieÃŸ sich aufgrund eines Schocks anschlieÃŸend in WÃ¼rzburg Hbf ablÃ¶sen.  
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Der Tf der RB 58043 ließ sich aufgrund eines Schocks anschließend in Würzburg Hbf ablösen.  
 Es ist anzunehmen, dass keine Schadensereignisse und keine Verletzten sowie Tote aufgetreten sind.  
 
 # Ursachen des Unfalls  
-ZustÃ¤ndig fÃ¼r den Zugfolgeabschni 941 war der Fdl im Spurplanstellwerk Jossa. [...]  
-Die auf dem Stw Jossa ausliegende Bedienungsanleitung fÃ¼r die ZNL800 war jedoch veraltet und s mmte mit der vorhandenen Anlage zum Teil nicht mehr Ã¼berein. [...]  
+Zuständig für den Zugfolgeabschni 941 war der Fdl im Spurplanstellwerk Jossa. [...]  
+Die auf dem Stw Jossa ausliegende Bedienungsanleitung für die ZNL800 war jedoch veraltet und s mmte mit der vorhandenen Anlage zum Teil nicht mehr überein. [...]  
 Es ist hinreichend wahrscheinlich, dass zumindest die Zugfahrt DGS 69235 in Richtung Burgsinn von dem Fdl und dem Auszubildenden nicht bewusst wahrgenommen wurde. [...]  
-Da der Fdl Jossa die FortschaltstÃ¶rungen vermutlich nicht erkannte und somit nicht durch Handeinwahl korrigierte, generierten sich im weiteren Verlauf entsprechende Fehlnummern in der ZNL800 des Stw Jossa. [...]  
-Die Fdl Jossa und Burgsinn gingen bei dem besetzten Zugfolgeabschni 941 irrtÃ¼mlicherweise von einer StÃ¶rung des selbs Ã¤ gen Streckenblocks aus. [...]  
+Da der Fdl Jossa die Fortschaltstörungen vermutlich nicht erkannte und somit nicht durch Handeinwahl korrigierte, generierten sich im weiteren Verlauf entsprechende Fehlnummern in der ZNL800 des Stw Jossa. [...]  
+Die Fdl Jossa und Burgsinn gingen bei dem besetzten Zugfolgeabschni 941 irrtümlicherweise von einer Störung des selbs ä gen Streckenblocks aus. [...]  
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle  
-Der zustÃ¤ndige Bezirksleiter Betrieb veranlasste die Aktualisierung der aufliegenden betrieblichen Unterlagen auf den Stw Burgsinn und Jossa.  
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+Der zuständige Bezirksleiter Betrieb veranlasste die Aktualisierung der aufliegenden betrieblichen Unterlagen auf den Stw Burgsinn und Jossa.  
 Der Fdl Jossa erhielt im Anschluss an das Ereignis eine Nachschulung.  
-Die DB Netz AG erlieÃŸ die Betriebliche / Fahrzeugtechnische Mi eilung BM 2016-004/BBW154 [...]  
-Im Jahr 2018 erging zudem nach weiteren UnregelmÃ¤ÃŸigkeiten und UnfÃ¤llen aufgrund einer Sicherheitsempfehlung der BEU die Weisung BM 2018-037/B-BW der DB Netz AG an alle Mitarbeiter im Bahnbetrieb [...]
+Die DB Netz AG erließ die Betriebliche / Fahrzeugtechnische Mi eilung BM 2016-004/BBW154 [...]  
+Im Jahr 2018 erging zudem nach weiteren Unregelmäßigkeiten und Unfällen aufgrund einer Sicherheitsempfehlung der BEU die Weisung BM 2018-037/B-BW der DB Netz AG an alle Mitarbeiter im Bahnbetrieb [...]
 
 ---
 file: 204_Herne.txt
@@ -3557,50 +3557,50 @@ Zugentgleisung, 05.06.2014, Bf Herne
 # Hergang des Unfalls
 Am 05.06.2014 gegen 19:20 Uhr entgleiste die S-Bahn S 30294 des Eisenbahnverkehrsunternehmens (EVU) DB Regio AG auf der Fahrt von Dortmund Hbf nach Recklinghausen Hbf bei der Einfahrt nach Gleis 7 des Bahnhofs (Bf) Herne in der Doppelkreuzungsweiche (DKW) 77 mit zwei Drehgestellen.
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte
-Zum Zeitpunkt des Ereignisses befanden sich ca. 60 Reisende im Zug. Es waren keine Tote oder Verletzte zu beklagen. An den Fahrzeugen und der Bahnanlage entstanden geschÃ¤tzte SachschÃ¤den in HÃ¶he von ca. 570.000 â‚¬.
+# Höhe des Schadens, Anzahl Tote und Verletzte
+Zum Zeitpunkt des Ereignisses befanden sich ca. 60 Reisende im Zug. Es waren keine Tote oder Verletzte zu beklagen. An den Fahrzeugen und der Bahnanlage entstanden geschätzte Sachschäden in Höhe von ca. 570.000 €.
 
 # Ursachen des Unfalls
-FÃ¼r die Entgleisung der S 30294 war der Verlust der Endlage der Zungen der DKW 77 c/d ursÃ¤chlich. Dies entspricht im konkreten Fall der rechten Ã¤uÃŸeren Zunge analog Abbildung 4, an welcher vor Ort eindeutige Anfahrspuren erkennbar waren. Vor Ort wurde ebenfalls festgestellt, dass die Kuppelstange zwischen der Ã¤uÃŸeren und der inneren rechten Zungenschiene (in Abbildung 4 mit Kuppelstange der anliegenden Zunge/n bezeichnet) gebrochen war. Dieser Bruch konnte als Ereignisursache jedoch ausgeschlossen werden, da die korrespondierende Zunge im Verschluss des Weichenantriebes lag und die gekuppelte anliegende Zunge zum Zeitpunkt der Einstellung der Zugfahrt rein signaltechnisch als â€žin Endlage Ã¼berwachtâ€œ gemeldet wurde.
+Für die Entgleisung der S 30294 war der Verlust der Endlage der Zungen der DKW 77 c/d ursächlich. Dies entspricht im konkreten Fall der rechten äußeren Zunge analog Abbildung 4, an welcher vor Ort eindeutige Anfahrspuren erkennbar waren. Vor Ort wurde ebenfalls festgestellt, dass die Kuppelstange zwischen der äußeren und der inneren rechten Zungenschiene (in Abbildung 4 mit Kuppelstange der anliegenden Zunge/n bezeichnet) gebrochen war. Dieser Bruch konnte als Ereignisursache jedoch ausgeschlossen werden, da die korrespondierende Zunge im Verschluss des Weichenantriebes lag und die gekuppelte anliegende Zunge zum Zeitpunkt der Einstellung der Zugfahrt rein signaltechnisch als "in Endlage überwacht" gemeldet wurde.
 
-Die Untersuchung des betreffenden Weichenantriebes ergab, dass dieser Spuren hohen VerschleiÃŸes und starker Verschmutzung infolge von Abrieb und Rostablagerung aufzeigte. Besonders auffÃ¤llig waren stark abgenutzte PrÃ¼ferriegelhaken und ausgeschlagene PrÃ¼ferschieber. Beim manuellen Ausheben der Riegelhaken zeigte sich, dass die elektrischen KontaktsÃ¤tze geschlossen blieben und somit eine gesicherte Endlage vorgaben, obgleich die reale Situation dem nicht entsprach.
+Die Untersuchung des betreffenden Weichenantriebes ergab, dass dieser Spuren hohen Verschleißes und starker Verschmutzung infolge von Abrieb und Rostablagerung aufzeigte. Besonders auffällig waren stark abgenutzte Prüferriegelhaken und ausgeschlagene Prüferschieber. Beim manuellen Ausheben der Riegelhaken zeigte sich, dass die elektrischen Kontaktsätze geschlossen blieben und somit eine gesicherte Endlage vorgaben, obgleich die reale Situation dem nicht entsprach.
 
-Im Rahmen der Erkundungen fiel auf, dass Fristen der Inspektion und Wartung der Ã¶rtlichen Anlagen, insbesondere der Weichen und Kreuzungen, sehr groÃŸzÃ¼gig ausgelegt wurden. Das Verschleppen von notwendigen Arbeiten wurde dokumentiert. Beispielsweise wurden bei der, im August 2013 angesetzten Inspektion, welche erst im Oktober 2013 durchgefÃ¼hrt wurde, MÃ¤ngel an der FlÃ¼gelschiene betreffender Weiche festgestellt, welche mit Terminsetzung bis November 2013 zu erledigen gewesen wÃ¤ren. Festgestellten MÃ¤ngeln an Schwellen- und Schienenkleineisen, welche nicht krÃ¤schlÃ¼ssig verspannt waren, wurde eine Frist bis MÃ¤rz 2014 eingerÃ¤umt. Unter der Bedingung, dass die Gegenzeichnung entsprechenden Inspektions-Dokuments den Zeitpunkt des Abschlusses aller enthaltenen Instandsetzungsarbeiten kennzeichnete, geschah dies zum 10. Juni 2014; fÃ¼nf Tage nach dem Ereignis.
+Im Rahmen der Erkundungen fiel auf, dass Fristen der Inspektion und Wartung der örtlichen Anlagen, insbesondere der Weichen und Kreuzungen, sehr großzügig ausgelegt wurden. Das Verschleppen von notwendigen Arbeiten wurde dokumentiert. Beispielsweise wurden bei der, im August 2013 angesetzten Inspektion, welche erst im Oktober 2013 durchgeführt wurde, Mängel an der Flügelschiene betreffender Weiche festgestellt, welche mit Terminsetzung bis November 2013 zu erledigen gewesen wären. Festgestellten Mängeln an Schwellen- und Schienenkleineisen, welche nicht kräschlüssig verspannt waren, wurde eine Frist bis März 2014 eingeräumt. Unter der Bedingung, dass die Gegenzeichnung entsprechenden Inspektions-Dokuments den Zeitpunkt des Abschlusses aller enthaltenen Instandsetzungsarbeiten kennzeichnete, geschah dies zum 10. Juni 2014; fünf Tage nach dem Ereignis.
 
-Die vor Ort vorgefundenen Zungenverbindungsstange zeigte alle Anzeichen einer MaterialermÃ¼dung und einer lÃ¤nger andauernden, einseitig nach unten gerichteten Biegebelastung. Infolge der Anwendung unflexiblen Materials minderer Reinheit und andauernder Korrosion konnten die sicherheitsrelevanten Eigenschaften der Komponente nicht lÃ¤nger garantiert werden. Auch hier muss festgestellt werden, dass im Rahmen jeder FunktionprÃ¼fung, sowohl des WeichenÃ¼bertragungs- als auch des Verschluss-Systems im Zusammenhang mit Wartungs- und Inspektionen der beeintrÃ¤chtigte Zustand bemerkt, protokolliert und sofort behoben werden mÃ¼sste.
+Die vor Ort vorgefundenen Zungenverbindungsstange zeigte alle Anzeichen einer Materialermüdung und einer länger andauernden, einseitig nach unten gerichteten Biegebelastung. Infolge der Anwendung unflexiblen Materials minderer Reinheit und andauernder Korrosion konnten die sicherheitsrelevanten Eigenschaften der Komponente nicht länger garantiert werden. Auch hier muss festgestellt werden, dass im Rahmen jeder Funktionprüfung, sowohl des Weichenübertragungs- als auch des Verschluss-Systems im Zusammenhang mit Wartungs- und Inspektionen der beeinträchtigte Zustand bemerkt, protokolliert und sofort behoben werden müsste.
 
-Zusammenfassend kann festgestellt werden, dass die vorgefundene Anlage durch eine stark mangelhafte Instandhaltung und unzureichende, bezÃ¼glich dem eigenmÃ¤chtigen Einbringen nicht regelkonformer Provisorien sogar gefÃ¤hrdende Instandsetzung gekennzeichnet war.
+Zusammenfassend kann festgestellt werden, dass die vorgefundene Anlage durch eine stark mangelhafte Instandhaltung und unzureichende, bezüglich dem eigenmächtigen Einbringen nicht regelkonformer Provisorien sogar gefährdende Instandsetzung gekennzeichnet war.
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle
-Die DB Netz AG veranlasste, dass alle vom betroffenen Inspektionsteam inspizierten Weichen einer Sonderinspektion unterzogen wurden. Eine entsprechende Dokumentation der DurchfÃ¼hrung und deren Ergebnisse liegt nicht vor. Fernerhin wurde mittels technischer Mitteilung seitens der DB Netz AG verfÃ¼gt, dass bauartgleiche DKW bundesweit bis Ende November 2014 einer Sonderinspektion zu unterziehen waren. Es sind keine MaÃŸnahmen des EVU bekannt, die im Zusammenhang mit dem gefÃ¤hrlichen Ereignis stehen.
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle
+Die DB Netz AG veranlasste, dass alle vom betroffenen Inspektionsteam inspizierten Weichen einer Sonderinspektion unterzogen wurden. Eine entsprechende Dokumentation der Durchführung und deren Ergebnisse liegt nicht vor. Fernerhin wurde mittels technischer Mitteilung seitens der DB Netz AG verfügt, dass bauartgleiche DKW bundesweit bis Ende November 2014 einer Sonderinspektion zu unterziehen waren. Es sind keine Maßnahmen des EVU bekannt, die im Zusammenhang mit dem gefährlichen Ereignis stehen.
 
 ---
 file: 011_München_Lochhausen.txt
 
-Zugkollision mit sich anschlieÃŸender Entgleisung, MÃ¼nchen Lochhausen - Olching, 24.07.2007
+Zugkollision mit sich anschließender Entgleisung, München Lochhausen - Olching, 24.07.2007
 
 # Hergang des Unfalls
-Am Dienstag, 24.07.2007, 12:10 Uhr, prallt die Zugfahrt IC 2298 (Laufweg: Salzburg Hbf- Frankfurt (Main) Hbf, Eisenbahnverkehrsunternehmen (EVU): DB Fernverkehr AG), auf der Fahrt zwischen MÃ¼nchen und Augsburg zwischen den BahnhÃ¶fen MÃ¼nchen Lochhausen und Olching, (VzG-Strecke 5503), in km 13+300, auf eine Altschiene im Regellichtraum des Betriebsgleises.  
-Am Dienstag, 24.07.2007, gegen 12:10 Uhr, prallt IC 2298 auf der Fahrt von MÃ¼nchen Hbf nach Frankfurt (Main) Hbf etwa in km 13,3 (VzG-Strecke 5503: MÃ¼nchen Augsburg) zwischen MÃ¼nchen Lochhausen und Olching auf eine Altschiene, welche in Fahrtrichtung rechts in den Gleisbereich ragt und entgleist mit vier Achsen.
+Am Dienstag, 24.07.2007, 12:10 Uhr, prallt die Zugfahrt IC 2298 (Laufweg: Salzburg Hbf- Frankfurt (Main) Hbf, Eisenbahnverkehrsunternehmen (EVU): DB Fernverkehr AG), auf der Fahrt zwischen München und Augsburg zwischen den Bahnhöfen München Lochhausen und Olching, (VzG-Strecke 5503), in km 13+300, auf eine Altschiene im Regellichtraum des Betriebsgleises.  
+Am Dienstag, 24.07.2007, gegen 12:10 Uhr, prallt IC 2298 auf der Fahrt von München Hbf nach Frankfurt (Main) Hbf etwa in km 13,3 (VzG-Strecke 5503: München Augsburg) zwischen München Lochhausen und Olching auf eine Altschiene, welche in Fahrtrichtung rechts in den Gleisbereich ragt und entgleist mit vier Achsen.
 
-# HÃ¶he des Schadens, Anzahl Tote und Verletzte
-Bei der an den Aufprall sich anschlieÃŸenden Entgleisung entstand Personenschaden: Ein Mitarbeiter (TriebfahrzeugfÃ¼hrer, Tf) der DB Fernverkehr AG und acht Reisende wurden leicht verletzt.  
-Es entstehen erhebliche SachschÃ¤den am Oberbau des Betriebsgleises auf etwa 1.100 m LÃ¤nge und den begleitenden Signalanlagen.  
-An den Fahrzeugen und der Infrastruktur entstand ein geschÃ¤tzter Sachschaden von insgesamt 2.560.000 Euro, der sich wie folgt zusammensetzt:  
-â€¢ Schienenfahrzeuge: 500.000 Euro  
-â€¢ Bauliche Anlagen: 2.000.000 Euro  
-â€¢ Sicherungs- und Telekommunikationsanlagen: 30.000 Euro  
-â€¢ Maschinen- und elektrotechnische Anlagen: 20.000 Euro  
-â€¢ Sonstige SachschÃ¤den: 10.000 Euro  
+# Höhe des Schadens, Anzahl Tote und Verletzte
+Bei der an den Aufprall sich anschließenden Entgleisung entstand Personenschaden: Ein Mitarbeiter (Triebfahrzeugführer, Tf) der DB Fernverkehr AG und acht Reisende wurden leicht verletzt.  
+Es entstehen erhebliche Sachschäden am Oberbau des Betriebsgleises auf etwa 1.100 m Länge und den begleitenden Signalanlagen.  
+An den Fahrzeugen und der Infrastruktur entstand ein geschätzter Sachschaden von insgesamt 2.560.000 Euro, der sich wie folgt zusammensetzt:  
+• Schienenfahrzeuge: 500.000 Euro  
+• Bauliche Anlagen: 2.000.000 Euro  
+• Sicherungs- und Telekommunikationsanlagen: 30.000 Euro  
+• Maschinen- und elektrotechnische Anlagen: 20.000 Euro  
+• Sonstige Sachschäden: 10.000 Euro  
 
 # Ursachen des Unfalls
-Der Eintritt des Ereignisses ist zurÃ¼ckzufÃ¼hren auf die Nichtbeachtung der "ErgÃ¤nzenden Vertragsbedingungen der der DB AG zur Vermeidung von UnfÃ¤llen auf Bahngebiet" durch den Auftragnehmer.  
-Die AuslÃ¶sung des Ereignisses wirkte von auÃŸen auf den Eisenbahnbetrieb ein: Beim Kranen von Altschienenteilen hatte sich ein Schienenteil aus dem Greifer (5teilig) gelÃ¶st und gelangte dadurch in das Profil des durch IC 2298 befahrenen Gleises.  
-Der Eintritt des Ereignisses ist auf die Nichtbeachtung der "ErgÃ¤nzenden Vertragsbedingungen der der DB AG zur Vermeidung von UnfÃ¤llen auf Bahngebiet" durch den Auftragnehmer zurÃ¼ckzufÃ¼hren. Dort ist ein Hinweis auf die UnfallverhÃ¼tungsvorschrift "Arbeiten im Bereich von Gleisen" BGV D33, in Verbindung mit der VerstÃ¤ndigung der fÃ¼r den Bahnbetrieb zustÃ¤ndigen Stelle (BzS) durch den Auftragnehmer enthalten.  
-Die seitens Auftragnehmer geplanten Arbeiten fanden ohne Wissen der DB Netz AG (BzS) statt. Seitens Auftraggeber fand eine PrÃ¼fung des Auftragnehmers hinsichtlich ErfÃ¼llung der "ErgÃ¤nzenden Vertragsbedingungen der DB AG zur Vermeidung von UnfÃ¤llen auf Bahngebiet" aber ebenso wenig statt.
+Der Eintritt des Ereignisses ist zurückzuführen auf die Nichtbeachtung der "Ergänzenden Vertragsbedingungen der der DB AG zur Vermeidung von Unfällen auf Bahngebiet" durch den Auftragnehmer.  
+Die Auslösung des Ereignisses wirkte von außen auf den Eisenbahnbetrieb ein: Beim Kranen von Altschienenteilen hatte sich ein Schienenteil aus dem Greifer (5teilig) gelöst und gelangte dadurch in das Profil des durch IC 2298 befahrenen Gleises.  
+Der Eintritt des Ereignisses ist auf die Nichtbeachtung der "Ergänzenden Vertragsbedingungen der der DB AG zur Vermeidung von Unfällen auf Bahngebiet" durch den Auftragnehmer zurückzuführen. Dort ist ein Hinweis auf die Unfallverhütungsvorschrift "Arbeiten im Bereich von Gleisen" BGV D33, in Verbindung mit der Verständigung der für den Bahnbetrieb zuständigen Stelle (BzS) durch den Auftragnehmer enthalten.  
+Die seitens Auftragnehmer geplanten Arbeiten fanden ohne Wissen der DB Netz AG (BzS) statt. Seitens Auftraggeber fand eine Prüfung des Auftragnehmers hinsichtlich Erfüllung der "Ergänzenden Vertragsbedingungen der DB AG zur Vermeidung von Unfällen auf Bahngebiet" aber ebenso wenig statt.
 
-# Empfohlene MaÃŸnahmen zur Verhinderung zukÃ¼nftiger UnfÃ¤lle
-Bei Einhaltung der in den ergÃ¤nzenden Vertragbedingungen der DB Netz AG enthaltenden UnfallverhÃ¼tungsvorschriften wÃ¤re das Ereignis vermeidbar gewesen.  
-Entweder wurden die ergÃ¤nzenden Vertragbedingungen vom letztlich die Arbeiten ausfÃ¼hrenden Unterauftragnehmer nicht umgesetzt oder sind dort nicht angekommen.
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle
+Bei Einhaltung der in den ergänzenden Vertragbedingungen der DB Netz AG enthaltenden Unfallverhütungsvorschriften wäre das Ereignis vermeidbar gewesen.  
+Entweder wurden die ergänzenden Vertragbedingungen vom letztlich die Arbeiten ausführenden Unterauftragnehmer nicht umgesetzt oder sind dort nicht angekommen.
 
 ---
