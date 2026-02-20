@@ -13,8 +13,9 @@ group = "robertw"
 version = "1.0-SNAPSHOT"
 
 application {
-    // IMPORTANT: when running in Powershell, call "chcp 65001" to actually use UTF-8 in the Shell.
-    applicationDefaultJvmArgs = listOf("-Dstdout.encoding=UTF-8")
+    // IMPORTANT for stdout.encoding: when running in Powershell, set the encoding there (Profile.ps1)
+    // regarding file.encoding: apparently, OkHttp also uses this when no charset is provided in the Content-Type header.
+    applicationDefaultJvmArgs = listOf("-Dstdout.encoding=UTF-8", "-Dfile.encoding=UTF-8")
     mainClass.set("ebuparser.MainKt")
 }
 

@@ -7,6 +7,7 @@ import io.github.sashirestela.openai.domain.chat.ChatRequest
 import okhttp3.OkHttpClient
 import windows.SleepPreventer
 import java.io.File
+import java.nio.charset.Charset
 import java.util.concurrent.TimeUnit
 
 const val LEMONADE_URL = "http://127.0.0.1:8000"
@@ -29,7 +30,7 @@ val llmServer =
             ),
         ).build()
 
-val prompt = File("src/main/resources/extraction-prompt.txt").readText()
+val summarizationPrompt = File("src/main/resources/extraction-prompt.txt").readText()
 
 fun getAlreadyProcessedFilenames(outputFile: File): Set<String> {
     if (!outputFile.exists()) {
@@ -49,6 +50,7 @@ fun getAlreadyProcessedFilenames(outputFile: File): Set<String> {
 fun extract(
     fileName: String,
     fullText: String,
+    prompt: String = summarizationPrompt,
 ): SimpleSummary {
     // send the prompt concatenated with the fullText to Lemonade
     val chatRequest =
@@ -69,8 +71,35 @@ fun extract(
     return SimpleSummary(fileName, content)
 }
 
-fun main() {
+fun printDebugInfo() {
+    println("Default charset: ${Charset.defaultCharset()}")
+    println("file.encoding: ${System.getProperty("file.encoding")}")
+    println("stdout.encoding: ${System.getProperty("stdout.encoding")}")
     println("Testing Umlauts: äöüß")
+}
+
+fun main_() {
+    printDebugInfo()
+    val statsWriter = StatsWriter(LEMONADE_URL, "test-stats.txt")
+    // I make it long hoping to get some non-ascii characters in the output.
+    val content = "`Hi there, who are you? Let's have coffee sometime and get to know each other well.`"
+    val summary = extract("müßiger Test", content, "Translate this message to French: ")
+    println(summary)
+    File("test-summary.md").writeText(summary.asOutput)
+    File("test-summary-utf8.md").writeText(summary.asOutput, Charsets.UTF_8)
+    statsWriter.writeFor("test")
+
+    val bla = File("documents/179_Willroth_-_Siegburg_Bonn.txt")
+        .readText()
+        .split("\n")
+        .take(40)
+        .joinToString("\n")
+    File("179-head.txt").writeText(bla)
+    File("179-head-utf8.txt").writeText(bla, Charsets.UTF_8)
+}
+
+fun main() {
+    printDebugInfo()
     val statsWriter = StatsWriter(LEMONADE_URL, "stats.txt")
     val documentsDir = File("documents")
     val outputFile = File(OUTPUT_FILENAME)
