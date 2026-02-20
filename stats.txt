@@ -534,3 +534,47 @@ file: 011_München_Lochhausen.txt
 file: 184_Enzisweiler.txt
 
 {"decode_token_times":[],"input_tokens":5222,"output_tokens":1433,"prompt_tokens":0,"time_to_first_token":63.955271999999994,"tokens_per_second":6.065854309227559}
+---
+file: 109_Eilenburg.txt
+
+{"decode_token_times":[],"input_tokens":3002,"output_tokens":1430,"prompt_tokens":0,"time_to_first_token":31.265664,"tokens_per_second":6.45670523804547}
+---
+file: 119_Duisburg_Wedau.txt
+
+{"decode_token_times":[],"input_tokens":12543,"output_tokens":1725,"prompt_tokens":0,"time_to_first_token":213.35932300000002,"tokens_per_second":4.761551243835188}
+---
+file: 182_Duisburg-Wedau.txt
+
+{"decode_token_times":[],"input_tokens":12914,"output_tokens":1261,"prompt_tokens":0,"time_to_first_token":218.720905,"tokens_per_second":5.088954172337275}
+---
+file: 211_Oberhausen_West.txt
+
+{"decode_token_times":[],"input_tokens":1,"output_tokens":1265,"prompt_tokens":0,"time_to_first_token":0.223765,"tokens_per_second":5.103847603903726}
+---
+file: 146_München_Ost_Rbf.txt
+
+{"decode_token_times":[],"input_tokens":12631,"output_tokens":1558,"prompt_tokens":0,"time_to_first_token":211.225208,"tokens_per_second":5.387491524123773}
+---
+file: 045_Berlin_Ostbahnhof.txt
+
+{"decode_token_times":[],"input_tokens":12765,"output_tokens":1305,"prompt_tokens":0,"time_to_first_token":227.69261799999998,"tokens_per_second":5.4007211340829056}
+---
+file: 076_Obernjesa.txt
+
+{"decode_token_times":[],"input_tokens":12828,"output_tokens":1273,"prompt_tokens":0,"time_to_first_token":223.772208,"tokens_per_second":5.406338857139378}
+---
+file: 024_Recklinghausen.txt
+
+{"decode_token_times":[],"input_tokens":13256,"output_tokens":2188,"prompt_tokens":0,"time_to_first_token":225.899226,"tokens_per_second":5.368074938600925}
+---
+file: 102_Meppen.txt
+
+{"decode_token_times":[],"input_tokens":13098,"output_tokens":1294,"prompt_tokens":0,"time_to_first_token":220.12813699999998,"tokens_per_second":5.158424957298686}
+---
+file: 041_Gröbers-Grosskugel.txt
+
+{"decode_token_times":[],"input_tokens":13425,"output_tokens":2530,"prompt_tokens":0,"time_to_first_token":241.491668,"tokens_per_second":5.383440977718165}
+---
+file: 124_Moers.txt
+
+{"decode_token_times":[],"input_tokens":14003,"output_tokens":1529,"prompt_tokens":0,"time_to_first_token":244.44376300000002,"tokens_per_second":5.370376780401518}

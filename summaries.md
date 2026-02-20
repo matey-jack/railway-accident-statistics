@@ -3604,3 +3604,287 @@ Bei Einhaltung der in den ergänzenden Vertragbedingungen der DB Netz AG enthalt
 Entweder wurden die ergänzenden Vertragbedingungen vom letztlich die Arbeiten ausführenden Unterauftragnehmer nicht umgesetzt oder sind dort nicht angekommen.
 
 ---
+file: 109_Eilenburg.txt
+
+Zugentgleisung 04.05.2015 Eilenburg  
+
+# Hergang des Unfalls  
+Bei der Zugfahrt des DGS 95495, vom Bahnhof Eilenburg Gleis 6 über Gleis 3 in den Streckenanschluss Lüptitz, entgleiste die hintere Achse des 11. Wagens auf der Weiche 114.  
+Der Zugverband des DGS 95495 bestand aus 16 leeren Fcs-Wagen, die in den Streckenanschluss der Sächsischen Quarzporphyr-Werke GmbH Lüptitz gefahren werden sollten. Der Zug fuhr vom Bahnhof Espenhain (VzG-Strecke 6822) bis Leipzig-Schönefeld (VzG-Strecke 6362) als DGS 88960 auf einer Regeltrasse und weiter bis in den Bahnhof Eilenburg (VzG-Strecke 6360) als DGS 95495 als Gelegenheitsverkehr. Nach einem kurzen Halt im Gleis 6 zur Aufnahme des Rangierbegleiters (Rb) fuhr der Zug in Richtung des Streckenanschlusses der Sächsischen Quarzporphyr-Werke GmbH und entgleiste am Herzstück der Weiche 114 im Streckenkilometer 19,900 der VzG-Strecke 6825 (von und nach Lüptitz).  
+Durch die Ablösung der Radreifen hatte sich das Spurmaß der Achse erweitert. Der linke Radreifen fuhr an der Herzstückspitze der Weiche 114 nicht in den nach rechts abzweigenden Bogen der Weiche ein, sondern geriet in den linken geraden Strang der Weiche. Durch den Radlenker an der Seite des rechten Rades wurde das linke Rad wieder in die Richtung des rechten Stranges der Weiche gezwungen, so dass es kurz hinter der Herzstückspitze über die Schiene kletterte und links neben der linken Schiene des nach rechts abzweigenden Stranges der Weiche auftraf. Daher entgleiste auch das rechte Rad der Achse, nachdem es den Bereich des Radlenkers verlassen hatte. Die Entgleisungsspuren am Oberbau erstreckten sich bis zum Ort des Stillstandes des Zuges.  
+
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Todesopfer und Verletzte sind keine zu beklagen. Die Sachschäden setzen sich wie folgt zusammen:  
+- Fcs-Wagen ca. 9.910 €  
+- Gleisanlage ca. 92.000 €  
+- Leit- und Sicherungstechnik ca. 2.000 €  
+- Betriebserschwernisse keine Angaben  
+
+# Ursachen des Unfalls  
+Als Ursache für die Entgleisung wurden zwei lose Radreifen an der hinteren Achse des 11. Wagens festgestellt. Ein Radreifen war bereits vom Radkörper abgerutscht, so dass das Spurmaß nicht mehr gehalten wurde.  
+
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+Der Gutachter stellte im Fall des entgleisten Wagens im Bf Peine fest, dass es Regelungsbedarf zum AVV gäbe. Dieser solle sich auf folgende Sachverhalte beziehen:  
+- Benennung eines Schadcode für bereifte Räder mit thermischer Überlastung.  
+- An Wagen mit bereiften Rädern, bei denen thermische Überlastungen des Radreifens oder nicht vollständig vorhandenen Kontrollmarken bzw. nicht eindeutig erkennbare Kontrollmarken festgestellt werden, sind die Radsätze auszubauen und vollständig nach ggf. zu erweiternden Beurteilungskriterien (z.B. Ultraschallprüfung zur Feststellung der Spaltbildung zwischen Radkörper und Radreifen) zu untersuchen.  
+- Vergrößerung des Mindestmaßes für die Radreifendicke.  
+Zwischenzeitlich wurde eine Untersuchung der Radsätze an der gesamten Flotte der bei der PRESS im Einsatz befindlichen Fcs-Wagen durchgeführt. Die Untersuchung ergab keine weiteren Auffälligkeiten.
+
+---
+file: 119_Duisburg_Wedau.txt
+
+Zugentgleisung, 13.02.2018, Duisburg-Wedau
+
+# Hergang des Unfalls
+Am 13.02.2018 befuhr der aus fünf Güterwagen und einem Triebfahrzeug (Tfz) bestehende Güterzug EZ 68115 auf der Fahrt von Neuss Gbf nach Gremberg Gn (Gremberg Nord Bezirk I) gegen 19:15 Uhr das Gleis 24 des Bf Duisburg-Wedau. Etwa im km 7,922 entgleiste der an letzter Stelle des Zuges laufende Güterwagen kurz vor dem Ausfahrsignal (Asig) N 24 nach links. Mit dem entgleisten Wagen setzte der Zug seine Fahrt zunächst bis zum Bahnübergang (BÜ) "Am Diepebrock" im km 11,85 fort. Dort prallte der entgleiste Güterwagen gegen den BÜ-Belag, fuhr diagonal über den BÜ nach rechts und fuhr auf der rechte Seite des Gleises im entgleisten Zustand weiter. Dabei kam es zur Trennung der Hauptluftleitung (HL) und zur Zwangsbremsung des Zuges. Die Zugspitze kam daraufhin etwa auf Höhe des km 12,25 zum Stillstand.
+
+# Höhe des Schadens, Anzahl Tote und Verletzte
+Personenschäden sind nicht zu beklagen. Die geschätzte Höhe der Sachschäden setzt sich wie folgt zusammen:
+- Schienenfahrzeug: ca. 10.000 €
+- Gleisanlage: ca. 2.500.000 €
+- Leit- und Sicherungstechnik: ca. 80.000 €
+- Schäden am Pkw: ca. 3.000 €
+
+# Ursachen des Unfalls
+Ursächlich für die Entgleisung waren periodische und nahezu phasengleiche Gleislagefehler in der Längshöhe, die die Fahrzeuge individuell zu Schwingungen anregten. Bei Übereinstimmung der Anregungsfrequenz mit der Hubeigenfrequenz eines Fahrzeuges können die vertikalen Kräfte durch auftretende Resonanzen so groß werden, dass der Kontakt zwischen Rad und Schiene verloren geht, und der Radsatz entgleist. Die periodischen Längshöhenfehler wurden durch problematische Untergrundverhältnisse verursacht, die in einem geotechnischen Gutachten beschrieben wurden. Die bekannten Schwachstellen des Oberbaus, insbesondere im Gleisabschnitt vor der Entgleisungsstelle (km 7,700 bis km 8,000), wurden nicht ausreichend überwacht oder behoben.
+
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle
+Bisher getroffene Maßnahmen umfassen:
+- Verbesserte Entwässerung im Entgleisungsbereich, Reprofilierung des Seitengraben und maschinelle Stopfarbeiten.
+- Aufnahme des betroffenen Gleisabschnitts in das Oberbauprogramm 2023.
+- Prüfung, ob ein Gleisumbau vorgezogen werden kann.
+- Verkürzung der Inspektionsintervalle auf vier Wochen bis zu einem Gleisumbau.
+- Durchführung täglicher Inspektionen bei starken und langanhaltenden Regenereignissen.
+- Umsetzung der Sicherheitsempfehlung aus der Untersuchung zur Zugentgleisung in Lorch: Reduzierung der zulässigen Fahrgeschwindigkeit auf 70 km/h bei SRlim-Überschreitungen.
+
+---
+file: 182_Duisburg-Wedau.txt
+
+Zugentgleisung, 13.02.2018, Duisburg-Wedau
+
+# Hergang des Unfalls
+Am 13.02.2018 befuhr der aus fünf Güterwagen und einem Triebfahrzeug (Tfz) bestehende Güterzug EZ 68115 auf der Fahrt von Neuss Gbf nach Gremberg Gn (Gremberg Nord Bezirk I) gegen 19:15 Uhr das Gleis 24 des Bf Duisburg-Wedau. Etwa im km 7,922 entgleiste der an letzter Stelle des Zuges laufende Güterwagen kurz vor dem Ausfahrsignal (Asig) N 24 nach links. Mit dem entgleisten Wagen setzte der Zug seine Fahrt zunächst bis zum Bahnübergang (BÜ) "Am Diepebrock" im km 11,85 fort. Dort prallte der entgleiste Güterwagen gegen den BÜ-Belag, fuhr diagonal über den BÜ nach rechts und fuhr auf der rechten Seite des Gleises im entgleisten Zustand weiter. Dabei kam es zur Trennung der Hauptluftleitung (HL) und zur Zwangsbremsung des Zuges. Die Zugspitze kam daraufhin etwa auf Höhe des km 12,25 zum Stillstand.
+
+# Höhe des Schadens, Anzahl Tote und Verletzte
+Personenschäden sind nicht zu beklagen. Die geschätzte Höhe der Sachschäden setzt sich wie folgt zusammen:
+- Schienenfahrzeug: ca. 10.000 €
+- Gleisanlage: ca. 2.500.000 €
+- Leit- und Sicherungstechnik: ca. 80.000 €
+- Schäden am Pkw: ca. 3.000 €
+
+# Ursachen des Unfalls
+Ursächlich für die Entgleisung waren periodische und nahezu phasengleiche Gleislagefehler in der Längshöhe, die die Fahrzeuge individuell zu Schwingungen anregten. Bei Übereinstimmung der Anregungsfrequenz mit der Hubeigenfrequenz eines Fahrzeuges können die vertikalen Kräfte durch auftretende Resonanzen so groß werden, dass der Kontakt zwischen Rad und Schiene verloren geht, und der Radsatz entgleist.
+
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle
+- Die Sicherheitsempfehlung der EUB zur Zugentgleisung in Lorch vom 09.06.2013 wurde in einer technischen Mitteilung (TM: 1-2017-10135 I.NPF 1) umgesetzt: Bei drei SR100-Überschreitungen innerhalb 50 m mit mindestens 25 m Abstand zwischen erstem und letztem Fehler ist die zulässige Geschwindigkeit auf 70 km/h zu reduzieren.
+- Die Inspektionsintervalle für den betroffenen Gleisabschnitt sollen auf vier Wochen verkürzt werden.
+- Bei starken und langanhaltenden Regenereignissen soll eine tägliche Inspektion erfolgen.
+- Der betroffene Gleisabschnitt wurde in das Oberbauprogramm 2023 aufgenommen, um die Untergrundverhältnisse zu verbessern.
+- Es wird geprüft, ob ein Gleisumbau vorgezogen werden kann.
+- Nach dem Bericht zur Schlammstellensanierung vom 13.03.2017 sind die Untergrundverhältnisse im Gleisabschnitt problematisch, und eine nachhaltige Sanierung (z. B. Rüttelstopfverfahren) wird empfohlen.
+
+---
+file: 211_Oberhausen_West.txt
+
+Untersuchungsbericht Zugkollision, 24.06.2018, Bf Oberhausen West  
+
+# Hergang des Unfalls  
+Am 24.06.2018 gegen 12:58 Uhr kollidierte der Güterzug GM 41590, auf der Fahrt von Oberhausen West nach Amsterdam Westhaven, bei der Ausfahrt aus dem Bahnhof (Bf) Oberhausen West mit einem Hemmschuh. Der Wagenzug wurde am 23.06.2018 um 10:15 Uhr abgestellt und laut "Meldezeil Festlegung" mit vier Hand- oder Feststellbremsen festgelegt. Der unfallverursachende Hemmschuh wurde nicht auf dem "Meldezeil Festlegung" notiert. Im Rahmen der Zugvorbereitung wurde am 24.06.2018 mit Uhrzeit 10:00 Uhr eine volle Bremsprobe für den Güterzug GM 41590 auf der "Meldung Zugvorbereitung" dokumentiert. Um 12:10 Uhr kuppelte der Tf die beiden Tfz mit dem Wagenzug. Um 12:30 Uhr wurden alle Festlegemittel gelöst, die auf dem "Meldezeil Festlegung" notiert waren, und eine vereinfachte Bremsprobe durchgeführt. Die Durchführung der vereinfachten Bremsprobe wurde mit Uhrzeit 12:33 Uhr dokumentiert. Um ca. 12:45 Uhr erhielt der Tf die Zustimmung zur Ausfahrt und setzte den Güterzug in Bewegung, wodurch es kurz darauf zur Kollision mit dem Hemmschuh kam. Die anschließende Entgleisung der letzten beiden Wagen des Güterzuges GM 41590 ereignete sich, unter Berücksichtigung der Zuglänge und des Weges vom Startpunkt des Zuges bis zur Weiche 20, nach einem Fahrweg von ca. 700 m und bei einer Geschwindigkeit von knapp 30 km/h.  
+
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Bei dem Ereignis traten keine Personenschäden ein. Die geschätzte Höhe der Sachschäden in Euro setzte sich wie folgt zusammen:  
+- Fahrzeuge: 26.000 €  
+- Infrastruktur: 3.100.000 €  
+- Dritter: 0 €  
+Gesamtschadenshöhe: 3.126.000 €  
+
+# Ursachen des Unfalls  
+Als Ursache wurde ein nicht entfernter Hemmschuh festgestellt. Dieser kollidierte mit dem anfahrenden Güterzug, wurde mitgeschleift und verkeilte sich anschließend in der Weiche 20, was zu der Entgleisung der letzten beiden Wagen führte. Es wurde festgestellt, dass laut Dokumentation der Zeitraum von 24 Stunden zwischen dem Festlegen und dem Entfernen von Festlegemitteln überschritten war. Weiterhin wurde festgestellt, dass ein Eintrag für den Hemmschuh als verwendetes Festlegemittel im "Meldezettel Festlegung" und Eintragungen zu einer technischen Wagenbehandlung auf der "Meldung Zugvorbereitung" fehlten. Der verwendete Hemmschuh war optisch in einem schlechten Zustand und aufgrund seiner Bauform für eine Verwendung im Gleis 13 nicht zulässig.  
+
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+Zu diesem Ereignis wurden keine Sicherheitsempfehlungen ausgesprochen. In einer Überarbeitung der Richtlinie 435.0101Z01 "Rangiermittel und deren Verwendung", gültig ab 01.01.2020, wurden durch das EVU DB Cargo AG die verschiedenen Signalanstriche für Hemmschuhe erläutert und die damit verbundenen Anwendungsbereiche herausgestellt.
+
+---
+file: 146_München_Ost_Rbf.txt
+
+Zugkollision, 18.07.2019, München Ost Rbf  
+Untersuchungsbericht  
+BEU-uu2019-07/003-3323  
+Stand: 17.07.2020  
+
+# Hergang des Unfalls  
+Am 18.07.2019 gegen 00:34 Uhr kollidierte der Güterzug GA 47120 auf der Fahrt von Györ nach Ingolstadt Nord im Bahnhof (Bf) München Ost Rbf auf der Weiche 307 mit der in Gleis 9 nicht profilfrei stehenden Lokomotive des Güterzugs DGS 43133.  
+
+Die Kollision entstand, als der Weichenwärter (Ww) den Fahrweg für den Zug GA 47120 nicht ordnungsgemäß überprüfte. Der Ww hatte zwar den Zug DGS 43133 nach Gleis 9 umgestellt, doch das zusätzlich eingerollte Triebfahrzeug (Tfz) stand nicht grenzzeichenfrei im Flankenschutzraum. Trotz dieser Situation stellte der Ww die Zugfahrstraße für GA 47120 ein. Während der Einfahrt erkannte der Triebfahrzeugführer (Tf) des GA 47120 das in seinen Fahrweg ragende Tfz und löste eine Schnellbremsung aus, doch die Kollision war nicht mehr zu verhindern.  
+
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Bei dem Ereignis wurden zwei Personen leicht verletzt (beide Triebfahrzeugführer). Es gab keine Toten.  
+
+Der Sachschaden belief sich auf etwa **140.000 Euro**, wobei sowohl der Güterzug GA 47120 als auch der Güterzug DGS 43133 Schäden erlitten.  
+
+# Ursachen des Unfalls  
+Das Ereignis ist auf einen **Arbeitsfehler des Weichenwärters (Ww)** zurückzuführen. Er führte die Fahrwegprüfung durch Hinsehen nicht mit der gebotenen Sorgfalt durch und übersehen, dass das im Flankenschutzraum stehende Tfz des DGS 43133 nicht grenzzeichenfrei stand.  
+
+Zusätzlich spielte die fehlende **Gleisfreimeldeanlage** bei der mechanischen Stellwerkstechnik eine Rolle. Das System ermöglichte keine automatische Erkennung besetzter Gleisabschnitte, sodass eine manuelle Prüfung erforderlich war.  
+
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+Es wurden **keine Sicherheitsempfehlungen** ausgesprochen. Allerdings wurde der betroffene Ww nicht mehr auf dem Stellwerk eingesetzt und zusätzlich nachgeschult. Die BEU betont jedoch, dass die Verantwortung für die Fahrwegprüfung beim Ww lag und die vorhandenen technischen Mittel (Gleisfeldbeleuchtung) eine Erkennbarkeit auch in der Dunkelheit ermöglichten.
+
+---
+file: 045_Berlin_Ostbahnhof.txt
+
+Fahrzeugbrand, 26.07.2011, Berlin Ostbahnhof  
+
+# Hergang des Unfalls  
+Bei der Zugfahrt des RE 18150 Frankfurt (O) – Brandenburg Hbf am 26.07.2011 geriet um 15:36 Uhr das am Ende des Zuges fahrende Tfz mit der Nummer 9180 6 114 009-4 auf der Strecke 6153 Berlin Hbf - Guben (DB-Grenze) im Bf Berlin Ostbahnhof, km 0,100, in Brand. Betroffen war der Führerstand 1 des Fahrzeuges und der davor gekuppelte Reisezugwagen (Doppelstockwagen DBpza). Schon der FdL des Bf Berlin Köpenick verständigte den Tf über Rauchentwicklung an seinem Tfz. Dieser verständigte den örtlich zuständigen Fdl in Berlin Ostbahnhof über die gemeldete Rauchentwicklung. Nach dem Halt des Zuges im Bf Berlin Ostbahnhof, Gleis 207, begab sich der Tf vom Steuerwagen zum Tfz am Schluss des Zuges, um eine Kontrolle durchzuführen. Dabei bemerkte er Rauchentwicklung am Führerstand 1, betrat das Tf über den Führerstand 2, schaltete den Hauptschalter aus, senkte den Stromabnehmer ab und versuchte die erste Brandbekämpfung mittels eines Feuerlöschers. Die weitere Brandbekämpfung wurde von der eintreffenden Feuerwehr Berlin übernommen. Durch das Zugbegleitpersonal (Kundenbetreuer im Nahverkehr - KIN) wurde die Evakuierung der Reisenden des Zuges vorgenommen.  
+
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Personen wurden bei dem Fahrzeugbrand nicht verletzt. Es entstand hoher Sachschaden an dem Triebfahrzeug (Totalschaden) und dem Reisezugwagen. An der Infrastruktur im Bf Berlin Ostbahnhof entstanden Schäden an der Oberleitung. Der Gesamtschaden beläuft sich auf ca. 436.000 €.  
+
+# Ursachen des Unfalls  
+Bei der Untersuchung der Brandursache wurde festgestellt, dass an der Fahrmotorklemmstelle 1 in Höhe des Führerstandes 1 des Tfz durch fehlerhafte Kontakte, bzw. schlechter Verbindung der Kabelschuhanschlüsse an die Alustromschienen der Brand ausgelöst wurde. Der mangelnde Kontakt an den Kabelschuhen führte zwangsläufig zu einer Erhöhung des Übergangswiderstandes an den Anschlüssen und letztendlich zu einer Funkenerosion und Überhitzung der Klemmstellen. Einflussfaktoren für die Erhöhung des Übergangswiderstandes an den Kabelverbindungen sind beispielsweise die Oxidation des Aluminiums, die Höhe der Anzugsmomente, die Kabelschuhpressung, die Oberflächengüte sowie vorhandene Verschmutzungen, die zum Abbrand der Kabelschuhe führen.  
+
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+1. Überprüfung, ob für Triebfahrzeuge der baugleichen BR Halter 112, 114 und 143 Maßnahmen zur Erhöhung der Brandsicherheit an den Stromschienen und Fahrmotorklemmstellen (insbesondere der Fahrmotorklemmstelle 1 und 4) zur Vermeidung unzulässig hoher Übergangswiderstände und unterschiedlicher Stromaufteilung vorgesehen werden sollten.
+
+---
+file: 076_Obernjesa.txt
+
+Zugentgleisung, 19.01.2014, Obernjesa
+
+# Hergang des Unfalls  
+Am 19.01.2014 verkehrte der Güterzug GB 49152 von Bludenz in Österreich nach Seelze Rbf. Der Zug bestand aus 35 gedeckten Wagen und einem Triebfahrzeug (185 213). Die Wagen waren mit Getränkedosen beladen. Gegen 2:53 Uhr durchfuhr der Zug das Gleis 2 des Bahnhofs Obernjesa. In etwa im Bahnkilometer 237,330 entgleiste infolge eines Achsschenkelbruchs am hinteren Radsatz der an 13. Stelle im Wagenzug laufende Wagen 21 80 2458 290-8. Dabei glitt offensichtlich zuerst der nachlaufende Radsatz dieses Wagens nach rechts von der Fahrbahn ab. Nach nur wenigen Metern entgleiste dann auch der vordere Radsatz dieses Fahrzeugs. Im weiteren Verlauf überkletterte einer der entgleisten Radsätze die Fahrschienen nach links. Im Bereich der Weiche 11 prallte der entgleiste Wagen auf das Herzstück und gleich darauf gegen den Plattenbelag des Bahnübergangs (BÜ) in km 237,930. In diesem Bereich kippte das Fahrzeug nach rechts um. Hierbei wurden die Schiebewände herausgerissen und die gesamte Ladung unmittelbar hinter dem BÜ rechts vom Gleis verteilt.  
+Der Fahrdienstleiter (Fdl), der die Entgleisung bemerkte und vor dessen Stellwerk der Wagen umstürzte, stellte daraufhin das Ausfahrsignal (Asig) N2 auf Halt und setzte einen Notruf per Zugfunk ab. Durch die am Asig N2 bewirkte PZB-Zwangsbremsung kam Zug 49152 mit der Zugspitze ca. in km 238,910 zum Stillstand. Bis zu diesem Zeitpunkt wurde der umgestürzte Wagen auf der rechten Seite liegend im Zugverband mitgezogen. Durch das Umstürzen des Wagens wurde die Hauptluftleitung (HLL) zwischen dem 12. und 13. Wagen getrennt. Eine vollständige Zugtrennung trat jedoch nicht ein.  
+
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Infolge des Unfalls waren weder Tote noch Verletzte zu beklagen. Es kam jedoch zu erheblichen Sachschäden. Durch die Entgleisung wurden das Gleis 2 über eine Länge von ca. 800 m und die Weiche 11 zerstört. Am nachfolgenden BÜ kam es zu Beschädigungen am Gummiplattenbelag. Durch das Kippen des Wagens entstand an diesem Totalschaden, die Ladung ging vollständig verloren und war unbrauchbar. Der dahinter laufende Wagen wurde beschädigt. Das umgestürzte Fahrzeug zerstörte im weiteren Verlauf das Asig N2, Einrichtungen an der Bahnübergangssicherungsanlage (BÜSA) am BÜ km 238,409, sowie mehrere Gittermasten und Querfelder der Fahrleitung auf einer Länge von ca. 500 m. Außerdem wurden Streckeneinrichtungen der punktförmigen Zugbeeinflussung (PZB), Gleisschaltmittel und Kabel in Mitleidenschaft gezogen.  
+Die Sachschäden setzen sich nach Auskunft des EIU wie folgt zusammen:  
+- Oberbau: ca. 700.000 Euro  
+- Oberleitung: ca. 200.000 Euro  
+- Leit- und Sicherungstechnik: ca. 50.000 Euro  
+- Telekommunikationsanlagen: ca. 50.000 Euro  
+- Fahrzeuge: ca. 46.000 Euro  
+
+# Ursachen des Unfalls  
+Die Zugentgleisung wurde verursacht durch einen Heißläufer am 13. Wagen (Hbbillns, 2180 2458290-8) in Verbindung mit dem Bruch des Wellenschenkels an der rechten Seite des hinteren Radsatzes.  
+Die Analyse der Messdaten zeigt, dass das Schadradsatzlager am hinteren Radsatz des 13. Wagens an beiden HOA den höchsten Temperaturwert aufwies. In beiden Fällen lag der Wert jedoch unterhalb der Alarmschwelle von 70 °C für einen Warmläufer und somit noch deutlich unter 100 °C für die Meldung eines Heißläufers. Da auch der Wert von 65 °C für die Temperaturdifferenz der gegenüberliegenden Lager nicht überschritten wurde, wurde durch die HOA kein Alarm ausgelöst.  
+Als Ergebnis aus der Begutachtung des Radsatzlagers der A-Seite des Schadradsatzes wurde durch DB Systemtechnik in dem Bericht folgendes dokumentiert: "Trotz der Zerstörung des Wellenschenkels waren die Außenringe des Wälzlagers noch so gut erhalten, dass auf Grund der Begutachtung der Laufbahnen in der Lastzone ein Ermüdungsschaden (Rollkontaktermüdungsschaden) seitens des Wälzlagers bzw. der Außenringe ausgeschlossen werden kann. Ein Lösen der Schraubverbindung des Wellenverschlusses erscheint auf Grund des Schadbildes, d.h. keine Schleifspuren des / der Schraubenköpfe an der Lagerinnendeckelseite, als Ursache unwahrscheinlich zu sein. [...] Insgesamt lässt sich aufgrund der Ergebnisse aus der Untersuchung feststellen, dass es mit hoher Wahrscheinlichkeit durch einen losen Innenring (vermutlich der vordere Innenring) zum Versagen des Wälzlagers und als Folge daraus zum Abscheren des Wellenschenkels gekommen ist."  
+
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+Der Bericht enthält keine expliziten empfohlenen Maßnahmen zur Verhinderung zukünftiger Unfälle. Die Schlussfolgerungen konzentrieren sich auf die Ursachenanalyse und die technische Bewertung des Schadens. Es wird jedoch implizit angedeutet, dass ein regelmäßigerer oder intensiverer Prüfungs- und Wartungsprozess für Radsätze und Lagerkomponenten notwendig sein könnte, um ähnliche Vorfälle zu vermeiden.
+
+---
+file: 024_Recklinghausen.txt
+
+Kollision, 25.11.2008, Recklinghausen Ost  
+# Hergang des Unfalls  
+Am 25.11.2008, um 01:50 Uhr, kam es im Bahnhof Recklinghausen Ost, Gleis 34, in km 32,300, zu einer Zugkollision zwischen dem im Gleis stehenden Triebfahrzeug (Tfz) 811 des EVU RBH Logistics GmbH und dem durchfahrenden Zug CS. Vor dem Ereignis war der Zug 64195 aus Westerholt in Gleis 5 des Bf Recklinghausen Ost eingefahren. Die Lokomotive 811 wurde für eine Rangierfahrt in Gleis 6 abgekuppelt und bis 5 m hinter das Signal Ls W 104 in Gleis 34 gefahren. Gleichzeitig wurde die Zugstraße für den Zug CS 60401 eingestellt, wodurch der Zug mit einer Geschwindigkeit von 79 km/h in die stehende Lok 811 kollidierte.  
+
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+In Folge der Kollision wurden die beiden Triebfahrzeugführer schwer verletzt. Es entstand ein Sachschaden von 171.500,00 EUR an Fahrzeugen, 15.000,00 EUR an baulichen Anlagen (Oberbau) und 3.500,00 EUR an Sicherungs- und Telekommunikationsanlagen.  
+
+# Ursachen des Unfalls  
+Obwohl die Fahrstraße für den Zug CS 60401 durch die Lokomotive besetzt war, wurde diese durch die Gleisfreimeldeanlage (Gleisstromkreise) nicht erkannt. Ursächlich dafür waren isolierende Emissionen aus einer Kombination aus Feuchtigkeit, Sand und Schmierfett auf den Laufflächen der Radsätze. Die elektrischen Widerstände im Kontaktbereich zwischen Schienen- und Radoberflächen waren so hoch, dass die Gleisfreimeldeanlage das Fahrzeug nicht detektierte. Versuche mit anderen Triebfahrzeugen bestätigten, dass ein Schmierfilm aus feuchtem Sand und Fett die Detektion verhinderte.  
+
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+1. Triebfahrzeugführern mit einzeln fahrenden Lokomotiven ist bei Geschwindigkeiten von ≤ 25 km/h das Sanden zur Unterstützung von Bremsvorgängen oder zum Anhalten grundsätzlich zu vermeiden.  
+2. Im Notfall (z. B. Vorbeifahrt am Haltsignal) ist die Sandstreueinrichtung zu betätigen, aber der Fahrdienstleiter muss unverzüglich über das Sandstreuen informiert werden.  
+3. Fahrdienstleiter sollen bei Meldungen von Triebfahrzeugführern, die im Geschwindigkeitsbereich unterhalb von 25 km/h Sand gestreut haben, sofort prüfen, ob im betroffenen Gleisabschnitt eine Besetztanzeige vorliegt.  
+4. Bei fehlender Besetztanzeige sind Merkhinweise und Befahrbarkeitssperren anzubringen, bis die ordnungsgemäße Funktion der Gleisfreimeldeanlage durch eine Fachkraft bestätigt wurde.  
+5. Eisenbahnaufsichtsbehörden und Sicherheitsbehörden wurden angewiesen, sicherzustellen, dass Triebfahrzeugführer bei Sandstreueinrichtungen im Betrieb informieren, wenn diese bedient oder automatisch ausgelöst wurden.
+
+---
+file: 102_Meppen.txt
+
+Personenunfall, 13.03.2017, Meppen  
+
+# Hergang des Unfalls  
+Am 13.03.2017 gegen 09:51 Uhr erfasste die Zugfahrt DPN 90275 des Eisenbahn-Verkehrsunternehmens (EVU) WestfalenBahn GmbH auf dem Laufweg von Emden Hbf – Münster (Westf.) Hbf im Bahnhof Meppen durch Gleis 1 in der Weiche 1, etwa in Streckenkilometer 259,1, eine Person. Zwei weitere Mitarbeiter konnten sich durch einen Sprung rechtzeitig in Sicherheit bringen.  
+Die Gleisrotte bestehend aus drei Mitarbeitern des so genannten Prins-Trupps (Projekt-Instandhaltung) des Eisenbahn-Infrastrukturbetreibers DB Netz AG war mit Instandhaltungsarbeiten an der Weiche 1 beschäftigt. Zuvor meldete sich der Prins-Trupp gegen 08:45 Uhr beim Fahrdienstleiter (Fdl) und informierte diesen über die geplanten Instandhaltungsarbeiten an Weichen im Bahnhof Meppen. Diese Information wurde unter der laufenden Nummer 209 in das Arbeits- und Störungsbuch des Fdl Meppen, durch einen Mitarbeiter des Prins-Trupps, eingetragen. Als betriebliche Maßnahme wurde die Sperrung der jeweiligen Weiche nach vorheriger Absprache mit dem Fdl beantragt. Der Fdl stimmte dem zu und bestätigte dies mit Unterschrift.  
+Aus der GSM-R-Auswertung wurde ersichtlich, dass der Prins-Trupp um 09:36 Uhr die Sperrung der Weiche 1 gegen Befahren und Umstellen beantragte, um die Arbeiten durchzuführen. Der Fdl bestätigte diese Sperrung umgehend. Die Dauer dieses Telefonats betrug 29 Sekunden. Es ist davon auszugehen, dass der Prins-Trupp daraufhin mit den Arbeiten an der Weiche 1 begann. Zwischenzeitlich näherte sich der Zug DPN 90275 aus Richtung Emden. Die Ausfahrt des Zuges ab der benachbarten Betriebsstelle Haren erfolgte pünktlich gegen 09:44 Uhr. Der Fdl Meppen stellte daraufhin das Einfahrsignal (Esig) F für diesen Zug auf Fahrt. Das Ausfahrsignal (Asig) P1 (schützendes Signal für die Weiche 1) wurde vom Fdl Meppen, gemäß des EIU internen EDV-Systems LeiDisN, um 09:45:40 Uhr in die Fahrtstellung gebracht.  
+Gegen 09:49 Uhr fuhr der Zug nach Gleis 1 des Bf. Meppen ein und hielt am Bahnsteig. Etwa gegen 09:50 Uhr fuhr DPN 90275 wieder ab und beschleunigte auf die in diesem Bereich zulässige Höchstgeschwindigkeit von 100 km/h. Das Gleis beschreibt im Bereich der Ausfahrt aus dem Bahnhof Meppen einen leichten Rechtsbogen, welcher die Sichtweite auf den Fahrweg für den Tf einschränkt. Etwa in der Mitte des Gleisbogens liegt die Weiche 1, an welcher der Prins-Trupp arbeitete. Beim Durchfahren des Gleisbogens erkannte der Tf des DPN 90275 plötzlich die Mitarbeiter im Bereich der Weiche 1. Trotz der eingeleiteten Schnellbremsung sowie der Abgabe des Achtungssignals Zp 1 durch den Triebfahrzeugführer, erfasste der Zug gegen 09:51 Uhr einen der drei Mitarbeiter des Prins-Trupps. Das für die Arbeiten eingesetzte Messgerät (MessReg CDM) wurde zerstört. Der Zug kam mit der Spitze ca. in km 258,870 (ca. 230 m hinter der Unfallstelle) zum Halten. Gegen 09:52:05 Uhr (GSM-R-Zeit) leitete der Tf nach dem Stillstand des Zuges einen Zugfunk-Notruf ein. In diesem teilte er dem Fdl mit, dass Arbeiter im Gleis waren und er diese vermutlich überfahren hat.  
+
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Der von der Zugfahrt erfasste Mitarbeiter erlag seinen schweren Verletzungen am Unfallort. Drei weitere Mitarbeiter erlitten einen Schock. Die Sachschäden setzen sich wie folgt zusammen:  
+- Eisenbahnfahrzeuge: 10.000 Euro  
+- Ausrüstung / Werkzeuge: 25.000 Euro  
+Die Strecke Meppen - Holthausen wurde von 9:53 Uhr bis 12:09 Uhr gesperrt. Die Strecke Holthausen - Meppen war bis 12:36 Uhr gesperrt. Der Schienenpersonenfernverkehr (IC-Linie 35) wurde ab Leer (Ostfriesland) über Bremen Hbf - Osnabrück Hbf nach Münster (Westf.) umgeleitet. Die Züge der Westfalenbahn (Linie RE 15) wendeten in Lingen (Ems) und in Haren (Ems). Ein Busnotverkehr wurde zwischen Lingen (Ems) und Haren (Ems) eingerichtet (zwei Busse). Nach Eintreffen des Ersatz-Tf ist DPN 90275 um 12:55 Uhr (+179 Min) weitergefahren. Die Züge des Schienengüterverkehrs wurden auf geeigneten Bahnhöfen zurückgehalten. Eine Evakuierung des Zuges wurde nicht durchgeführt, da Busse erst ab 12:15 Uhr verfügbar gewesen wären.  
+
+# Ursachen des Unfalls  
+Ursächlich für den Personenunfall war die zugelassene Zugfahrt DPN 90275 über die formal gesperrte Weiche 1. Gemäß Ril. 408 -Fahrdienstvorschrift- hätte der zuständige Fdl zum Zeitpunkt der Bestätigung der Sperrung der Weiche 1 diese bereits abgeriegelt und die Hilfssperren an den zugehörigen Fahrstraßen und entsprechende Merkhinweise anbringen müssen. Diese hätten das Einstellen gefährdender Zugfahrten über die betroffene Weiche verhindert. Der Fdl hat dies offensichtlich unterlassen. Somit handelt es sich um einen Verstoß gegen die Ril 408.0471 Abschnitt 2 Absatz 2 a) Nr. 1 und Absatz 5 i.V.m. Ril 408.0403 Abschnitt 1 Nr. 12.  
+
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+Durch die DB Netz AG wurden die folgenden Maßnahmen eingeleitet:  
+(1) Der verantwortliche Fdl wurde vom Betriebsdienst ausgeschlossen.  
+(2) Herausgabe der Betrieblichen Weisung für Mitarbeiter im Bahnbetrieb – außer Zugpersonal – lfd. Nr.: 173 (BM 2017-010/B-BW) Titel: Ril 412.9111: Schwerpunktthema Lehrgespräche zur Reihenfolge von betrieblichen Handlungen bei Gleis- und Weichensperrungen.  
+(3) Herausgabe der Betrieblichen Weisung für Mitarbeiter im Bahnbetrieb – außer Zugpersonal – lfd. Nr. 176 (BM 2017-014/B-BW) Titel: Ergänzende Meldungen bei der Benachrichtigung Beteiligter über das Sperren von Gleisen.  
+Die Maßnahme zu (2) verlangt, dass bei Gleis- und Weichensperrungen die Reihenfolge der Handlungsschritte eingehalten wird:  
+1. Entgegennahme des Antrags  
+2. Abriegeln der zu sperrenden Gleis- und Weichenabschnitte  
+3. Anbringen der erforderlichen Hilfssperren und Merkhinweise  
+4. Dokumentation der Sperrung  
+5. Bestätigung der erfolgten Sperrung an den Antragssteller  
+Ein besonderer Schwerpunkt liegt auf dem Anbringen der Hilfssperren und Merkhinweise vor der Dokumentation und Bestätigung der Sperrung. Die BEU hält die eingeleiteten Maßnahmen grundsätzlich für geeignet, die Sensibilität der betroffenen Mitarbeiter zu erhöhen. Dennoch ist das Sicherheitsbewusstsein der Mitarbeiter im Bahnbetrieb weiter zu beobachten, auszubauen und stetig zu festigen.
+
+---
+file: 041_Gröbers-Grosskugel.txt
+
+Untersuchungsbericht Zugentgleisung, 11.02.2011, Gröbers - Großkugel  
+
+# Hergang des Unfalls  
+Am 11.02.2011 um 15:46 entgleiste der vorletzte Wagen des FIR 51380 mit zwei Radsätzen. Der Zug befand sich auf der zweigleisigen Strecke von Schkeuditz nach Gröbers. Nach der Durchfahrt am Hp Großkugel stieg der Wagen im km 100,000 auf die Schienenoberkante auf und glitt im km 99,990 mit zwei Radsätzen vom Gleis ab. Nachdem der Zug die Weichen 20 und 21 passiert und beschädigt hatte, kam es im km 95,800 zur Zugtrennung zwischen dem letzten und dem vorletzten Wagen. Danach fuhr der Zug bis zum Halt noch ca. 400 m.  
+
+Nach der Kontrolle seines Zuges meldete der Tf, dass der vorletzte Wagen (21 80 442 6 113-7, leerer Lgs) mit zwei Achsen entgleist ist und sich vom drittletzten Wagen (21 80 443 8 161-5, leerer Lgns) nicht trennen ließe (Kupplung unter Spannung). Der letzte Wagen stand im km 95,8, der restliche Zugverband mit dem entgleisten Wagen im km 95,4.  
+
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+Personen kamen nicht zu Schaden. Die Sachschäden setzen sich wie folgt zusammen:  
+- Güterwagen, zweiachsig: ca. 3.000 €  
+- Gleisanlage: ca. 110.000 €  
+- Leit- und Sicherungstechnik: ca. 50.000 €  
+- Betriebserschwernisse: ca. 16.500 €  
+Der Sachschaden wurde auf 179.500 Euro geschätzt.  
+
+# Ursachen des Unfalls  
+Ursache war eine insgesamt schlechte Gleislage, welche unmittelbar vor der Entgleisungsstelle im Abschnitt von km 100,1+00 bis ca. 100,0+40 sowohl auf der linken als auch auf der rechten Schiene des Gleises ohne Hilfsmittel visuell deutlich erkennbar war. Die Gleislagefehler bewirkten ein Aufschaukeln der leeren Wagen am Zugschluss, was letztendlich zur Entgleisung des vorletzten Lgs-Wagens führte.  
+
+Zurückgehend auf die Untersuchung der Infrastruktur:  
+- Die Gleislagefehler waren visuell erkennbar, einschließlich lose Befestigungsschrauben, gerissener Schwellen und fehlender Befestigungselemente.  
+- Die Messfahrten (12.01.2011) zeigten Überschreitungen der SRlim-Werte und Unterschreitungen der Spurweiten-Grenzwerte.  
+- Die geplante Gleiserneuerung (April 2011) wurde noch nicht umgesetzt und war zum Unfallzeitpunkt nicht vollständig abgeschlossen.  
+
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+Gemäß § 6 der Eisenbahn-Unfalluntersuchungsverordnung (EUV) und Art. 25 Abs. 2 der Richtlinie 2004/49/EG ergehen folgende Sicherheitsempfehlungen:  
+1. Die Richtlinie 821.2001 sollte überarbeitet werden, um auch die Standardabweichung des Gesamtsignals der Längshöhe, der gegenseitigen Höhenlage und der Pfeilhöhe als Kriterium für zwingende Unterhaltungsmaßnahmen zu definieren (z. B. SR100, SRlim oder Grenzwerte).  
+2. Die Beurteilung des Gesamtzustands von Gleisabschnitten mittels Standardabweichungen sollte stärker berücksichtigt werden, da sie bereits bei geringen Abweichungen auf schlechten Zustand hinweisen können.  
+3. Die Planung und Durchführung von Unterhaltungsmaßnahmen (z. B. Gleiserneuerungen, Langsamfahrstellen) sollte schneller und präziser erfolgen, um zukünftige Unfälle zu verhindern.
+
+---
+file: 124_Moers.txt
+
+Untersuchungsbericht Zugentgleisung, 25.02.2019, Moers Gbf  
+
+# Hergang des Unfalls  
+- **2.1 Kurzbeschreibung des Ereignisses**: Am 25.02.2019 gegen 07:32 Uhr entgleisten die ersten drei Wagen des Güterzuges DGS 52760 während der Einfahrt in den Bahnhof Moers Gbf (Seite 3).  
+- **5.1 Ereignisrekonstruktion**: Der Zug DGS 52760 sollte in den Bahnhof Moers Gbf nach Gleis 102 einfahren. Wegen eines Gegenzuges musste der Zug vor dem Esig 501 halten. Nach Durchfahrt des Gegenzuges wurde die Zugstraße eingestellt, und das Esig 501 kam in Fahrtstellung. Der Tf fuhr fort, doch die Weiche 001 signalisierte eine "Aufschlammung" (Weiche wurde überfahren). Der Fdl löste die Weiche auf und stellte sie um, was zur Entgleisung führte (Seite 20).  
+
+# Höhe des Schadens, Anzahl Tote und Verletzte  
+- **2.2 Folgen**: Keine Personen wurden getötet oder schwer verletzt. Der Tf erlitt einen Schock. Die geschätzten Sachschäden betragen ca. 1.890.000,00 Euro (Seite 3).  
+- **3.4 Todesopfer, Verletzte und Sachschäden**:  
+  - Anzahl Tote: Keine  
+  - Anzahl schwer verletzte: Keine  
+  - Anzahl leicht verletzte: 1 Mitarbeiter  
+  - Schadenshöhe:  
+    - Fahrzeuge: 300.000,00 Euro  
+    - Infrastruktur: 1.590.000,00 Euro  
+    - Dritte: Nicht bekannt  
+    - **Gesamtschadenshöhe**: 1.890.000,00 Euro (Seite 6).  
+
+# Ursachen des Unfalls  
+- **2.3 Ursachen**: Die Entgleisung des Zuges wurde durch einen Arbeitsfehler des Fdl des Bahnhofs Moers verursacht (Seite 3).  
+- **5.2 Feststellungen und Bewertungen**: Der Fdl löste die Festlegung der Weiche 001 auf, obwohl der Zug bereits vorbeigefahren war und die Weiche nicht besetzt war. Der Fdl hätte die Bestätigung des Tf einholen müssen, dass dieser nicht weiterfuhr. Die "Aufschlammung" der Weiche war wahrscheinlich auf einen Fehler in der Überwachungseinrichtung zurückzuführen (Seite 21).  
+
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle  
+- **2.4 Sicherheitsempfehlungen**: Es wurde keine Sicherheitsempfehlung ausgesprochen (Seite 3).  
+- **5.2 Feststellungen und Bewertungen**: Obwohl keine expliziten Empfehlungen formuliert wurden, wird angedeutet, dass die Ursache der Weiche 001 auf eine Überwachungsstörung zurückzuführen war, was möglicherweise bessere Monitoring-Systeme erfordert (Seite 21).
+
+---
