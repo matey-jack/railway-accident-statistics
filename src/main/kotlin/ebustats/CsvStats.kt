@@ -22,8 +22,10 @@ val aliases = mapOf(
     Pair("Zugentgleisung", "Entgleisung"),
     Pair("Zugkollision", "Kollision"),
     Pair("Zusammenstoß", "Kollision"),
+    // not to all: "Aufprall" bezieht sich auf Objekte, die keine Züge sind. Aber später wurde dies auch als Kollision gezählt und so machen wir es nun auch.
+    Pair("Aufprall", "Kollision"),
     Pair("Brandereignis", "Fahrzeugbrand"),
-    // not to all: "Aufprall" bezieht sich auf Objekte, die keine Züge sind. Daher getrennt zu betrachten.
+    Pair("Unregelmäßigkeit an Eisenbahnfahrzeugen", "Störung am Fahrzeug"),
 )
 
 fun readEvents(fileName: String): List<Event> {
@@ -57,7 +59,7 @@ fun readEvents(fileName: String): List<Event> {
                         }
                         result.add(Event(date, type))
                     }
-                } catch (e: Exception) {
+                } catch (_e: Exception) {
                     // Skip lines that can't be parsed
                 }
             }
@@ -79,25 +81,30 @@ fun groupEvents(events: List<Event>): List<GroupedEvents> {
     val minDate = sortedEvents.first().date
     val maxDate = sortedEvents.last().date
     
+    // Start from the quarter containing minDate
     var currentDate = minDate.withDayOfMonth(1)
-    
+    val quarterStartMonths = listOf(1, 4, 7, 10)
+    val quarterMonth = quarterStartMonths.findLast { it <= currentDate.monthValue } ?: 1
+    currentDate = currentDate.withMonth(quarterMonth)
+
     while (currentDate <= maxDate) {
-        val nextMonth = if (currentDate.monthValue == 12) {
-            currentDate.withYear(currentDate.year + 1).withMonth(1)
+        val nextQuarterMonth = (currentDate.monthValue + 3) % 12
+        val nextDate = if (nextQuarterMonth <= currentDate.monthValue) {
+            currentDate.withYear(currentDate.year + 1).withMonth(nextQuarterMonth)
         } else {
-            currentDate.withMonth(currentDate.monthValue + 1)
+            currentDate.withMonth(nextQuarterMonth)
         }
         
         val counts = mutableMapOf<String, Int>()
         
         for (event in sortedEvents) {
-            if (!event.date.isBefore(currentDate) && event.date.isBefore(nextMonth)) {
+            if (!event.date.isBefore(currentDate) && event.date.isBefore(nextDate)) {
                 counts[event.type] = counts.getOrDefault(event.type, 0) + 1
             }
         }
         
         result.add(GroupedEvents(currentDate, counts))
-        currentDate = nextMonth
+        currentDate = nextDate
     }
     
     return result
@@ -110,7 +117,7 @@ fun main() {
     // Collect all unique event types
     val allEventTypes = grouped.flatMap { it.counts.keys }.distinct().sorted()
 
-    val outputFile = File("grouped-events.csv")
+    val outputFile = File("grouped-events-by-quarter.csv")
     outputFile.bufferedWriter().use { writer ->
         // Write header
         writer.write("month," + allEventTypes.joinToString(",") + "\n")
