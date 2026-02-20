@@ -1,12 +1,12 @@
 import com.github.benmanes.gradle.versions.updates.DependencyUpdatesTask
 
 plugins {
-    id("org.jetbrains.kotlin.jvm") version "2.3.0"
+    id("org.jetbrains.kotlin.jvm") version "2.3.10"
     application
 
     id("com.github.ben-manes.versions") version "0.53.0"
     id("io.gitlab.arturbosch.detekt") version "1.23.8"
-    id("org.jlleitschuh.gradle.ktlint") version "12.3.0"
+    id("org.jlleitschuh.gradle.ktlint") version "14.0.1"
 }
 
 group = "robertw"
@@ -28,16 +28,18 @@ repositories {
 
 dependencies {
     implementation("io.github.sashirestela:simple-openai:3.22.2")
+    // indirect dependency of simple-openai, but we'll upgrade it this way.
+    implementation("com.fasterxml.jackson.module:jackson-module-kotlin:2.21.0")
+    // optional dep'cy of simple-openai that needs explicit loading (also we use it directly for the /stats API call)
     implementation("com.squareup.okhttp3:okhttp:5.3.2")
 
-    implementation("org.apache.commons:commons-csv:1.14.1")
-    implementation("net.java.dev.jna:jna-platform:5.14.0")
+    // implementation("org.apache.commons:commons-csv:1.14.1")
+    implementation("net.java.dev.jna:jna-platform:5.18.1")
 
+    // the ktlint task also uses this, but in app runtime, we don't use it yet
+    // implementation("io.github.oshai:kotlin-logging-jvm")
     // slf4j comes indirectly with kotlin-logging
-    // TODO: this relocated to io.github.oshai:kotlin-logging-jvm
-    implementation("io.github.microutils:kotlin-logging:4.0.0-beta-2")
-    implementation("ch.qos.logback:logback-classic:1.5.32")
-    implementation("com.fasterxml.jackson.module:jackson-module-kotlin:2.20.1")
+    // implementation("ch.qos.logback:logback-classic:1.5.32")
 
     testImplementation("org.junit.jupiter:junit-jupiter:5.10.2")
     testRuntimeOnly("org.junit.platform:junit-platform-launcher")
