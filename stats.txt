@@ -450,3 +450,87 @@ file: 175_Jübek_-_Flensburg_Weiche.txt
 file: 010_Gremberg.txt
 
 {"decode_token_times":[],"input_tokens":12531,"output_tokens":1533,"prompt_tokens":0,"time_to_first_token":220.102129,"tokens_per_second":5.039500777388196}
+---
+file: 179_Willroth_-_Siegburg_Bonn.txt
+
+{"decode_token_times":[],"input_tokens":1,"output_tokens":1782,"prompt_tokens":0,"time_to_first_token":0.270748,"tokens_per_second":4.609218779499921}
+---
+file: 191_Treben-Lehma.txt
+
+{"decode_token_times":[],"input_tokens":3249,"output_tokens":1593,"prompt_tokens":0,"time_to_first_token":33.962313,"tokens_per_second":6.4301640489043645}
+---
+file: 012_Raubling.txt
+
+{"decode_token_times":[],"input_tokens":3557,"output_tokens":1480,"prompt_tokens":0,"time_to_first_token":38.929097,"tokens_per_second":6.1829025824166814}
+---
+file: 201_Leipzig-Engelsdorf.txt
+
+{"decode_token_times":[],"input_tokens":3711,"output_tokens":1594,"prompt_tokens":0,"time_to_first_token":40.972993,"tokens_per_second":6.040364901399456}
+---
+file: 032_Bad Lausick.txt
+
+{"decode_token_times":[],"input_tokens":3819,"output_tokens":2013,"prompt_tokens":0,"time_to_first_token":41.048953000000004,"tokens_per_second":5.9851485896537}
+---
+file: 203_Blankenberg_Sieg.txt
+
+{"decode_token_times":[],"input_tokens":3342,"output_tokens":1441,"prompt_tokens":0,"time_to_first_token":37.190277,"tokens_per_second":6.429717147818701}
+---
+file: 186_Gröbers.txt
+
+{"decode_token_times":[],"input_tokens":3639,"output_tokens":1190,"prompt_tokens":0,"time_to_first_token":40.277260999999996,"tokens_per_second":6.299005701949948}
+---
+file: 197_Elmshorn.txt
+
+{"decode_token_times":[],"input_tokens":3673,"output_tokens":1375,"prompt_tokens":0,"time_to_first_token":40.112441,"tokens_per_second":6.194678563873477}
+---
+file: 193_Joachimsthal.txt
+
+{"decode_token_times":[],"input_tokens":3812,"output_tokens":2477,"prompt_tokens":0,"time_to_first_token":42.163156,"tokens_per_second":6.202555971400583}
+---
+file: 196_Mellenbach-Glasbach.txt
+
+{"decode_token_times":[],"input_tokens":3801,"output_tokens":2503,"prompt_tokens":0,"time_to_first_token":41.833977,"tokens_per_second":6.410217141380595}
+---
+file: 200_Frankfurt_Oder_Oderbrücke.txt
+
+{"decode_token_times":[],"input_tokens":3879,"output_tokens":1730,"prompt_tokens":0,"time_to_first_token":42.860659,"tokens_per_second":6.397932661536844}
+---
+file: 177_München-Riem_Ubf.txt
+
+{"decode_token_times":[],"input_tokens":3911,"output_tokens":1409,"prompt_tokens":0,"time_to_first_token":42.90133,"tokens_per_second":6.194579778744383}
+---
+file: 192_Birkenwerder.txt
+
+{"decode_token_times":[],"input_tokens":3948,"output_tokens":1308,"prompt_tokens":0,"time_to_first_token":43.541357000000005,"tokens_per_second":6.23591885542055}
+---
+file: 210_Mannheim_Hbf_-_Ludwigshafen_Hbf.txt
+
+{"decode_token_times":[],"input_tokens":4074,"output_tokens":1517,"prompt_tokens":0,"time_to_first_token":46.270402000000004,"tokens_per_second":6.21328496904668}
+---
+file: 188_Eisenach.txt
+
+{"decode_token_times":[],"input_tokens":4381,"output_tokens":1839,"prompt_tokens":0,"time_to_first_token":49.809578,"tokens_per_second":6.363122032504496}
+---
+file: 208_Ravensburg_-_Friedrichshafen_Stadt.txt
+
+{"decode_token_times":[],"input_tokens":4744,"output_tokens":2300,"prompt_tokens":0,"time_to_first_token":54.535196000000006,"tokens_per_second":6.014295588376903}
+---
+file: 195_Blumenberg.txt
+
+{"decode_token_times":[],"input_tokens":4590,"output_tokens":1563,"prompt_tokens":0,"time_to_first_token":53.429695,"tokens_per_second":6.196983650124948}
+---
+file: 181_Jossa_-_Burgsinn.txt
+
+{"decode_token_times":[],"input_tokens":4783,"output_tokens":1379,"prompt_tokens":0,"time_to_first_token":55.948510999999996,"tokens_per_second":6.1381268243206195}
+---
+file: 204_Herne.txt
+
+{"decode_token_times":[],"input_tokens":4884,"output_tokens":1355,"prompt_tokens":0,"time_to_first_token":57.193436999999996,"tokens_per_second":6.345953093918149}
+---
+file: 011_München_Lochhausen.txt
+
+{"decode_token_times":[],"input_tokens":4857,"output_tokens":1768,"prompt_tokens":0,"time_to_first_token":57.360329,"tokens_per_second":5.964811478607636}
+---
+file: 184_Enzisweiler.txt
+
+{"decode_token_times":[],"input_tokens":5222,"output_tokens":1433,"prompt_tokens":0,"time_to_first_token":63.955271999999994,"tokens_per_second":6.065854309227559}
