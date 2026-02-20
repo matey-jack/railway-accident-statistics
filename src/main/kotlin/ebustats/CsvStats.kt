@@ -16,17 +16,18 @@ data class GroupedEvents(
     val counts: Map<String, Int>,
 )
 
-val aliases = mapOf(
-    Pair("Unzulässige Einfahrt in einen besetzten Gleisabschnitt", "Einfahrt in besetzten Abschnitt"),
-    Pair("Einfahrt in einen besetzten Gleisabschnitt", "Einfahrt in besetzten Abschnitt"),
-    Pair("Zugentgleisung", "Entgleisung"),
-    Pair("Zugkollision", "Kollision"),
-    Pair("Zusammenstoß", "Kollision"),
-    // not to all: "Aufprall" bezieht sich auf Objekte, die keine Züge sind. Aber später wurde dies auch als Kollision gezählt und so machen wir es nun auch.
-    Pair("Aufprall", "Kollision"),
-    Pair("Brandereignis", "Fahrzeugbrand"),
-    Pair("Unregelmäßigkeit an Eisenbahnfahrzeugen", "Störung am Fahrzeug"),
-)
+val aliases =
+    mapOf(
+        Pair("Unzulässige Einfahrt in einen besetzten Gleisabschnitt", "Einfahrt in besetzten Abschnitt"),
+        Pair("Einfahrt in einen besetzten Gleisabschnitt", "Einfahrt in besetzten Abschnitt"),
+        Pair("Zugentgleisung", "Entgleisung"),
+        Pair("Zugkollision", "Kollision"),
+        Pair("Zusammenstoß", "Kollision"),
+        // not to all: "Aufprall" bezieht sich auf Objekte, die keine Züge sind. Aber später wurde dies auch als Kollision gezählt und so machen wir es nun auch.
+        Pair("Aufprall", "Kollision"),
+        Pair("Brandereignis", "Fahrzeugbrand"),
+        Pair("Unregelmäßigkeit an Eisenbahnfahrzeugen", "Störung am Fahrzeug"),
+    )
 
 fun readEvents(fileName: String): List<Event> {
     val result = mutableListOf<Event>()
@@ -34,7 +35,7 @@ fun readEvents(fileName: String): List<Event> {
     File(fileName).bufferedReader(Charsets.ISO_8859_1).use { reader ->
         // Skip header line
         reader.readLine()
-        
+
         var line = reader.readLine()
         while (line != null) {
             val parts = line.split(';')
@@ -44,11 +45,12 @@ fun readEvents(fileName: String): List<Event> {
                     // Parse date format "dd.MM.yyyy"
                     val dateParts = dateStr.split('.')
                     if (dateParts.size == 3) {
-                        val date = LocalDate.of(
-                            dateParts[2].toInt(),
-                            dateParts[1].toInt(),
-                            dateParts[0].toInt()
-                        )
+                        val date =
+                            LocalDate.of(
+                                dateParts[2].toInt(),
+                                dateParts[1].toInt(),
+                                dateParts[0].toInt(),
+                            )
                         var type = if (parts.size > 2) parts[2] else "Unknown"
                         if (type == "Unknown") {
                             val text = if (parts.size >= 5) " – ${parts[5]}" else ""
@@ -66,21 +68,21 @@ fun readEvents(fileName: String): List<Event> {
             line = reader.readLine()
         }
     }
-    
+
     return result
 }
 
 fun groupEvents(events: List<Event>): List<GroupedEvents> {
     val result = mutableListOf<GroupedEvents>()
-    
+
     if (events.isEmpty()) {
         return result
     }
-    
+
     val sortedEvents = events.sortedBy { it.date }
     val minDate = sortedEvents.first().date
     val maxDate = sortedEvents.last().date
-    
+
     // Start from the quarter containing minDate
     var currentDate = minDate.withDayOfMonth(1)
     val quarterStartMonths = listOf(1, 4, 7, 10)
@@ -89,24 +91,25 @@ fun groupEvents(events: List<Event>): List<GroupedEvents> {
 
     while (currentDate <= maxDate) {
         val nextQuarterMonth = (currentDate.monthValue + 3) % 12
-        val nextDate = if (nextQuarterMonth <= currentDate.monthValue) {
-            currentDate.withYear(currentDate.year + 1).withMonth(nextQuarterMonth)
-        } else {
-            currentDate.withMonth(nextQuarterMonth)
-        }
-        
+        val nextDate =
+            if (nextQuarterMonth <= currentDate.monthValue) {
+                currentDate.withYear(currentDate.year + 1).withMonth(nextQuarterMonth)
+            } else {
+                currentDate.withMonth(nextQuarterMonth)
+            }
+
         val counts = mutableMapOf<String, Int>()
-        
+
         for (event in sortedEvents) {
             if (!event.date.isBefore(currentDate) && event.date.isBefore(nextDate)) {
                 counts[event.type] = counts.getOrDefault(event.type, 0) + 1
             }
         }
-        
+
         result.add(GroupedEvents(currentDate, counts))
         currentDate = nextDate
     }
-    
+
     return result
 }
 
