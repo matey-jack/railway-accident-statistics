@@ -14,19 +14,20 @@ const val MODEL = "Qwen3-14B-GGUF"
 const val OUTPUT_FILENAME = "summaries.md"
 
 val llmServer =
-    SimpleOpenAI.builder()
+    SimpleOpenAI
+        .builder()
         .apiKey("lemonade") // dummy key for local server
         .baseUrl(LEMONADE_URL)
         .clientAdapter(
             OkHttpClientAdapter(
-                OkHttpClient.Builder()
+                OkHttpClient
+                    .Builder()
                     .connectTimeout(30, TimeUnit.SECONDS)
                     .readTimeout(0, TimeUnit.SECONDS) // No timeout for streaming
                     .writeTimeout(30, TimeUnit.SECONDS)
                     .build(),
             ),
-        )
-        .build()
+        ).build()
 
 val prompt = File("src/main/resources/extraction-prompt.txt").readText()
 
@@ -51,7 +52,8 @@ fun extract(
 ): SimpleSummary {
     // send the prompt concatenated with the fullText to Lemonade
     val chatRequest =
-        ChatRequest.builder()
+        ChatRequest
+            .builder()
             .model(MODEL)
             .message(ChatMessage.UserMessage.of("$prompt\n$fullText"))
             .build()
@@ -76,7 +78,8 @@ fun main() {
     val processedFiles = getAlreadyProcessedFilenames(outputFile)
 
     val files =
-        documentsDir.listFiles { file -> file.isFile && file.extension == "txt" && file.name !in processedFiles }
+        documentsDir
+            .listFiles { file -> file.isFile && file.extension == "txt" && file.name !in processedFiles }
             ?.sortedBy { it.length() }
             ?: emptyList()
 
