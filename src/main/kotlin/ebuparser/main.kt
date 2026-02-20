@@ -68,6 +68,7 @@ fun extract(
 }
 
 fun main() {
+    println("Testing Umlauts: äöüß")
     val statsWriter = StatsWriter(LEMONADE_URL, "stats.txt")
     val documentsDir = File("documents")
     val outputFile = File(OUTPUT_FILENAME)
