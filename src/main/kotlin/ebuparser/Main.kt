@@ -40,7 +40,7 @@ fun getAlreadyProcessedFilenames(outputFile: File): Set<String> {
     val processedFiles = mutableSetOf<String>()
     val fileContent = outputFile.readText()
 
-    val pattern = Regex("""---\nfile: (.+)$""", RegexOption.MULTILINE)
+    val pattern = Regex("""---\r?\nfile: (.+)$""", RegexOption.MULTILINE)
     val matches = pattern.findAll(fileContent)
     processedFiles.addAll(matches.map { it.groupValues[1] })
     println("Skipping ${processedFiles.size} already processed files.")
