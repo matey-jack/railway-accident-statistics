@@ -614,3 +614,235 @@ file: 197_Elmshorn.txt
 file: 193_Joachimsthal.txt
 
 {"decode_token_times":[],"input_tokens":1,"output_tokens":2488,"prompt_tokens":0,"time_to_first_token":0.176179,"tokens_per_second":6.668252413540861}
+---
+file: 046_Falkenberg (Elster).txt
+
+{"decode_token_times":[],"input_tokens":3249,"output_tokens":1634,"prompt_tokens":0,"time_to_first_token":36.678269,"tokens_per_second":6.9813124834143085}
+---
+file: 038_Bleicherode.txt
+
+{"decode_token_times":[],"input_tokens":13869,"output_tokens":1332,"prompt_tokens":0,"time_to_first_token":277.83665399999995,"tokens_per_second":4.661814250011209}
+---
+file: 072_Goslar.txt
+
+{"decode_token_times":[],"input_tokens":13917,"output_tokens":1399,"prompt_tokens":0,"time_to_first_token":304.84871899999996,"tokens_per_second":4.695667827209306}
+---
+file: 167_Köln_Bonntor_-_Köln_Süd.txt
+
+{"decode_token_times":[],"input_tokens":13368,"output_tokens":1831,"prompt_tokens":0,"time_to_first_token":297.391027,"tokens_per_second":5.05931056578737}
+---
+file: 123_Bremen.txt
+
+{"decode_token_times":[],"input_tokens":13245,"output_tokens":2034,"prompt_tokens":0,"time_to_first_token":287.19721999999996,"tokens_per_second":5.031915754429488}
+---
+file: 169_Schkeuditz.txt
+
+{"decode_token_times":[],"input_tokens":13682,"output_tokens":1813,"prompt_tokens":0,"time_to_first_token":289.77348700000005,"tokens_per_second":5.088001432924891}
+---
+file: 020_Gelsenkirchen.txt
+
+{"decode_token_times":[],"input_tokens":14516,"output_tokens":1561,"prompt_tokens":0,"time_to_first_token":316.59045000000003,"tokens_per_second":5.078305469599479}
+---
+file: 017_Nürnberg-Stein.txt
+
+{"decode_token_times":[],"input_tokens":13362,"output_tokens":1164,"prompt_tokens":0,"time_to_first_token":278.922762,"tokens_per_second":5.3227749476884165}
+---
+file: 127_Reiskirchen_-_Grossen-Buseck.txt
+
+{"decode_token_times":[],"input_tokens":14190,"output_tokens":1854,"prompt_tokens":0,"time_to_first_token":303.252071,"tokens_per_second":5.0764891792702755}
+---
+file: 198_Bremerhaven_Seehafen.txt
+
+{"decode_token_times":[],"input_tokens":13936,"output_tokens":1647,"prompt_tokens":0,"time_to_first_token":295.134978,"tokens_per_second":5.066498656198134}
+---
+file: 212_Augsburg_Hbf.txt
+
+{"decode_token_times":[],"input_tokens":14081,"output_tokens":805,"prompt_tokens":0,"time_to_first_token":309.346544,"tokens_per_second":5.062011559508985}
+---
+file: 128_Gross_Rohrheim.txt
+
+{"decode_token_times":[],"input_tokens":13731,"output_tokens":1428,"prompt_tokens":0,"time_to_first_token":302.85355699999997,"tokens_per_second":5.015108435599928}
+---
+file: 073_Eilendorf_Hp_−_Aachen-Rothe_Erde.txt
+
+{"decode_token_times":[],"input_tokens":14842,"output_tokens":2665,"prompt_tokens":0,"time_to_first_token":338.15254999999996,"tokens_per_second":4.9996693276864175}
+---
+file: 039_Werlau - St. Goar.txt
+
+{"decode_token_times":[],"input_tokens":14010,"output_tokens":1365,"prompt_tokens":0,"time_to_first_token":305.28167099999996,"tokens_per_second":5.057577387677468}
+---
+file: 036_Müllheim.txt
+
+{"decode_token_times":[],"input_tokens":16849,"output_tokens":1286,"prompt_tokens":0,"time_to_first_token":408.310045,"tokens_per_second":4.972979666878267}
+---
+file: 148_Essen-Werden.txt
+
+{"decode_token_times":[],"input_tokens":15221,"output_tokens":1941,"prompt_tokens":0,"time_to_first_token":342.627616,"tokens_per_second":4.843258566221646}
+---
+file: 129_Basel_Bad_Rbf.txt
+
+{"decode_token_times":[],"input_tokens":16934,"output_tokens":1836,"prompt_tokens":0,"time_to_first_token":401.43044199999997,"tokens_per_second":4.976687080724448}
+---
+file: 055_Hosena.txt
+
+{"decode_token_times":[],"input_tokens":15074,"output_tokens":1521,"prompt_tokens":0,"time_to_first_token":328.324096,"tokens_per_second":4.919321701025245}
+---
+file: 118_Hohenlimburg.txt
+
+{"decode_token_times":[],"input_tokens":15219,"output_tokens":1805,"prompt_tokens":0,"time_to_first_token":335.68878600000005,"tokens_per_second":4.92033252452244}
+---
+file: 104_Duisburg-Wedau_-_Lintorf.txt
+
+{"decode_token_times":[],"input_tokens":14854,"output_tokens":1719,"prompt_tokens":0,"time_to_first_token":329.07554100000004,"tokens_per_second":4.883953333783278}
+---
+file: 130_Freiburg_Breisgau_Gbf.txt
+
+{"decode_token_times":[],"input_tokens":15181,"output_tokens":2081,"prompt_tokens":0,"time_to_first_token":328.100293,"tokens_per_second":4.912622528206657}
+---
+file: 111_Cuxhaven.txt
+
+{"decode_token_times":[],"input_tokens":14880,"output_tokens":1712,"prompt_tokens":0,"time_to_first_token":331.467744,"tokens_per_second":4.916094019723817}
+---
+file: 027_Geldern.txt
+
+{"decode_token_times":[],"input_tokens":15336,"output_tokens":1819,"prompt_tokens":0,"time_to_first_token":340.54659100000003,"tokens_per_second":4.900294193566518}
+---
+file: 219_Fallersleben.txt
+
+{"decode_token_times":[],"input_tokens":15176,"output_tokens":1205,"prompt_tokens":0,"time_to_first_token":339.454129,"tokens_per_second":4.905980347294145}
+---
+file: 209_Oberkochen_-_Königsbronn.txt
+
+{"decode_token_times":[],"input_tokens":15489,"output_tokens":1736,"prompt_tokens":0,"time_to_first_token":339.553516,"tokens_per_second":4.89430256015131}
+---
+file: 190_Bitterfeld_-_Wolfen.txt
+
+{"decode_token_times":[],"input_tokens":14747,"output_tokens":1909,"prompt_tokens":0,"time_to_first_token":329.537224,"tokens_per_second":4.903544807731957}
+---
+file: 100_Vilseck_Freihung.txt
+
+{"decode_token_times":[],"input_tokens":15269,"output_tokens":1484,"prompt_tokens":0,"time_to_first_token":335.537371,"tokens_per_second":4.901780377500641}
+---
+file: 071_Frellstedt.txt
+
+{"decode_token_times":[],"input_tokens":15377,"output_tokens":1675,"prompt_tokens":0,"time_to_first_token":350.881154,"tokens_per_second":4.8628445720576146}
+---
+file: 152_Hamburg-Bergedorf_-_Aumühle.txt
+
+{"decode_token_times":[],"input_tokens":16307,"output_tokens":1237,"prompt_tokens":0,"time_to_first_token":373.434523,"tokens_per_second":5.047448546178948}
+---
+file: 224_Würzburg.txt
+
+{"decode_token_times":[],"input_tokens":17146,"output_tokens":1678,"prompt_tokens":0,"time_to_first_token":413.223708,"tokens_per_second":4.4961894941409275}
+---
+file: 150_Storzingen_-_Inzigkofen.txt
+
+{"decode_token_times":[],"input_tokens":16253,"output_tokens":1328,"prompt_tokens":0,"time_to_first_token":374.97869000000003,"tokens_per_second":5.031285160035747}
+---
+file: 015_Berlin-Karow.txt
+
+{"decode_token_times":[],"input_tokens":15621,"output_tokens":964,"prompt_tokens":0,"time_to_first_token":349.616662,"tokens_per_second":5.091096376424301}
+---
+file: 214_Hamburg-Altona.txt
+
+{"decode_token_times":[],"input_tokens":16065,"output_tokens":1093,"prompt_tokens":0,"time_to_first_token":368.744429,"tokens_per_second":5.05760131287001}
+---
+file: 142_Wanne-Eickel_Gbf.txt
+
+{"decode_token_times":[],"input_tokens":16054,"output_tokens":1428,"prompt_tokens":0,"time_to_first_token":368.57370299999997,"tokens_per_second":4.750961691295784}
+---
+file: 178_Belzig_-_Wiesenburg_Mark.txt
+
+{"decode_token_times":[],"input_tokens":16130,"output_tokens":1274,"prompt_tokens":0,"time_to_first_token":363.65628000000004,"tokens_per_second":5.050728762477456}
+---
+file: 029_Bacharach.txt
+
+{"decode_token_times":[],"input_tokens":15780,"output_tokens":1530,"prompt_tokens":0,"time_to_first_token":362.914987,"tokens_per_second":4.90885493229664}
+---
+file: 166_Weil_am_Rhein.txt
+
+{"decode_token_times":[],"input_tokens":16939,"output_tokens":1239,"prompt_tokens":0,"time_to_first_token":392.745805,"tokens_per_second":5.038638508634575}
+---
+file: 056_Berlin Hauptbahnhof.txt
+
+{"decode_token_times":[],"input_tokens":15938,"output_tokens":1280,"prompt_tokens":0,"time_to_first_token":361.469839,"tokens_per_second":4.781827120302865}
+---
+file: 004_Hannover-Langenhagen.txt
+
+{"decode_token_times":[],"input_tokens":16524,"output_tokens":1390,"prompt_tokens":0,"time_to_first_token":385.761426,"tokens_per_second":5.0388511190344}
+---
+file: 139_Aichach.txt
+
+{"decode_token_times":[],"input_tokens":17321,"output_tokens":1603,"prompt_tokens":0,"time_to_first_token":406.935097,"tokens_per_second":4.646901709448165}
+---
+file: 205_Bremen-Neustadt.txt
+
+{"decode_token_times":[],"input_tokens":17042,"output_tokens":1290,"prompt_tokens":0,"time_to_first_token":397.218958,"tokens_per_second":4.802969191086051}
+---
+file: 054_Mühlheim Ost - Hanau Hbf.txt
+
+{"decode_token_times":[],"input_tokens":16827,"output_tokens":1093,"prompt_tokens":0,"time_to_first_token":390.51819300000005,"tokens_per_second":4.961717422085194}
+---
+file: 153_Horb.txt
+
+{"decode_token_times":[],"input_tokens":18034,"output_tokens":1373,"prompt_tokens":0,"time_to_first_token":448.02331599999997,"tokens_per_second":4.506110351275228}
+---
+file: 168_Unkel.txt
+
+{"decode_token_times":[],"input_tokens":19588,"output_tokens":800,"prompt_tokens":0,"time_to_first_token":498.25417300000004,"tokens_per_second":4.470172747199589}
+---
+file: 096_Gruiten.txt
+
+{"decode_token_times":[],"input_tokens":16834,"output_tokens":1217,"prompt_tokens":0,"time_to_first_token":396.92315,"tokens_per_second":4.975284894134032}
+---
+file: 013_Tornesch.txt
+
+{"decode_token_times":[],"input_tokens":17618,"output_tokens":1393,"prompt_tokens":0,"time_to_first_token":425.385402,"tokens_per_second":4.799244600966962}
+---
+file: 003_Fichtenberg.txt
+
+{"decode_token_times":[],"input_tokens":16575,"output_tokens":2647,"prompt_tokens":0,"time_to_first_token":386.49395400000003,"tokens_per_second":4.640777423875594}
+---
+file: 207_Hamm_Westf_Rbf.txt
+
+{"decode_token_times":[],"input_tokens":17932,"output_tokens":680,"prompt_tokens":0,"time_to_first_token":430.833166,"tokens_per_second":4.800492180344157}
+---
+file: 165_Papiermühle_Kr_Stadtroda_-_Stadtroda.txt
+
+{"decode_token_times":[],"input_tokens":18362,"output_tokens":1393,"prompt_tokens":0,"time_to_first_token":451.551798,"tokens_per_second":4.364297752268543}
+---
+file: 217_Griesen_Oberbay.txt
+
+{"decode_token_times":[],"input_tokens":17373,"output_tokens":1433,"prompt_tokens":0,"time_to_first_token":409.693019,"tokens_per_second":4.762358588898594}
+---
+file: 006_Osnabrück.txt
+
+{"decode_token_times":[],"input_tokens":18082,"output_tokens":1441,"prompt_tokens":0,"time_to_first_token":440.708442,"tokens_per_second":4.473216876262073}
+---
+file: 009_Berlin Südkreuz.txt
+
+{"decode_token_times":[],"input_tokens":20037,"output_tokens":1328,"prompt_tokens":0,"time_to_first_token":526.53236,"tokens_per_second":4.528925239455497}
+---
+file: 049_Bremen.txt
+
+{"decode_token_times":[],"input_tokens":19403,"output_tokens":1776,"prompt_tokens":0,"time_to_first_token":484.16241499999995,"tokens_per_second":4.487333016888765}
+---
+file: 105_Leese-Stolzenau.txt
+
+{"decode_token_times":[],"input_tokens":19186,"output_tokens":2121,"prompt_tokens":0,"time_to_first_token":491.211306,"tokens_per_second":4.284192406219877}
+---
+file: 083_Löhne_Westf.txt
+
+{"decode_token_times":[],"input_tokens":18295,"output_tokens":1690,"prompt_tokens":0,"time_to_first_token":462.754437,"tokens_per_second":4.428875302578664}
+---
+file: 176_Gaildorf_West_-_Schwäbisch_Hall-Hessental.txt
+
+{"decode_token_times":[],"input_tokens":18969,"output_tokens":1253,"prompt_tokens":0,"time_to_first_token":491.295385,"tokens_per_second":4.5094046639336485}
+---
+file: 161_Hoffenheim_Reilsheim.txt
+
+{"decode_token_times":[],"input_tokens":18040,"output_tokens":1224,"prompt_tokens":0,"time_to_first_token":452.037533,"tokens_per_second":4.5753619301926864}
+---
+file: 040_Espelkamp.txt
+
+{"decode_token_times":[],"input_tokens":18218,"output_tokens":1384,"prompt_tokens":0,"time_to_first_token":445.07749,"tokens_per_second":4.57287433983835}
