@@ -578,3 +578,39 @@ file: 041_Gröbers-Grosskugel.txt
 file: 124_Moers.txt
 
 {"decode_token_times":[],"input_tokens":14003,"output_tokens":1529,"prompt_tokens":0,"time_to_first_token":244.44376300000002,"tokens_per_second":5.370376780401518}
+---
+file: 179_Willroth_-_Siegburg_Bonn.txt
+
+{"decode_token_times":[],"input_tokens":1,"output_tokens":1471,"prompt_tokens":0,"time_to_first_token":0.18386000000000002,"tokens_per_second":6.88143138413429}
+---
+file: 191_Treben-Lehma.txt
+
+{"decode_token_times":[],"input_tokens":1,"output_tokens":1226,"prompt_tokens":0,"time_to_first_token":0.180196,"tokens_per_second":6.902109986282366}
+---
+file: 012_Raubling.txt
+
+{"decode_token_times":[],"input_tokens":1,"output_tokens":1877,"prompt_tokens":0,"time_to_first_token":0.159502,"tokens_per_second":6.5296113875866}
+---
+file: 201_Leipzig-Engelsdorf.txt
+
+{"decode_token_times":[],"input_tokens":1,"output_tokens":1072,"prompt_tokens":0,"time_to_first_token":0.18772999999999998,"tokens_per_second":6.787105456917627}
+---
+file: 032_Bad Lausick.txt
+
+{"decode_token_times":[],"input_tokens":1,"output_tokens":1877,"prompt_tokens":0,"time_to_first_token":0.185669,"tokens_per_second":6.528569894886686}
+---
+file: 203_Blankenberg_Sieg.txt
+
+{"decode_token_times":[],"input_tokens":1,"output_tokens":1193,"prompt_tokens":0,"time_to_first_token":0.16868,"tokens_per_second":7.108562224468732}
+---
+file: 186_Gröbers.txt
+
+{"decode_token_times":[],"input_tokens":1,"output_tokens":1276,"prompt_tokens":0,"time_to_first_token":0.195982,"tokens_per_second":6.369691418801639}
+---
+file: 197_Elmshorn.txt
+
+{"decode_token_times":[],"input_tokens":1,"output_tokens":1101,"prompt_tokens":0,"time_to_first_token":0.18649600000000002,"tokens_per_second":6.4478227977597395}
+---
+file: 193_Joachimsthal.txt
+
+{"decode_token_times":[],"input_tokens":1,"output_tokens":2488,"prompt_tokens":0,"time_to_first_token":0.176179,"tokens_per_second":6.668252413540861}
