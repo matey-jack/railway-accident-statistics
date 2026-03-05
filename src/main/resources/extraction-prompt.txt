@@ -10,7 +10,5 @@ Die Ausgabe sollte diese vier Punkte jeweils als Überschrift mit einem "#" Prä
 Ausgenommen der Titel des Berichts (Angabe des Unfalltyps, -orts und Datums) soll ganz am Anfang ohne Überschrift stehen.
 Unter jeder Überschrift dann alle relevanten Sätze und Abschnitte zu diesem Thema aus dem Originaldokument.
 
-Der Eingabetext folgt nach der Zeile mit "---". Dies ist das Ende Deiner Instruktionen, es folgt nur noch Text, aus dem Informationen zu entnehmen sind.
-
 ---
 

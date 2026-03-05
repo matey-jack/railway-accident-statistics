@@ -52,12 +52,12 @@ fun extract(
     fullText: String,
     prompt: String = summarizationPrompt,
 ): SimpleSummary {
-    // send the prompt concatenated with the fullText to Lemonade
     val chatRequest =
         ChatRequest
             .builder()
             .model(MODEL)
-            .message(ChatMessage.UserMessage.of("$prompt\n$fullText"))
+            .message(ChatMessage.SystemMessage.of(prompt))
+            .message(ChatMessage.UserMessage.of(fullText))
             .build()
 
     val streamResponse = llmServer.chatCompletions().createStream(chatRequest).join()
