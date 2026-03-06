@@ -12,6 +12,7 @@ import software.amazon.awssdk.services.bedrockruntime.BedrockRuntimeClient
 import software.amazon.awssdk.services.bedrockruntime.model.ContentBlock
 import software.amazon.awssdk.services.bedrockruntime.model.ConversationRole
 import software.amazon.awssdk.services.bedrockruntime.model.ConverseRequest
+import software.amazon.awssdk.services.bedrockruntime.model.InferenceConfiguration
 import software.amazon.awssdk.services.bedrockruntime.model.Message
 import software.amazon.awssdk.services.bedrockruntime.model.ServiceTier
 import software.amazon.awssdk.services.bedrockruntime.model.ServiceTierType
@@ -30,6 +31,7 @@ const val LEMONADE_MODEL = "Qwen3-14B-GGUF"
 const val BEDROCK_MODEL = "amazon.nova-2-lite-v1:0"
 const val BEDROCK_INFERENCE_PROFILE = "global.amazon.nova-2-lite-v1:0"
 const val BEDROCK_SERVICE_TIER = "flex"
+const val BEDROCK_MAX_TOKENS = 3000
 const val OUTPUT_FILENAME = "summaries.md"
 const val LEMONADE_OUTPUT_DIR = "results/lemonade"
 const val BEDROCK_OUTPUT_DIR = "results/bedrock"
@@ -137,6 +139,11 @@ fun extractWithBedrock(
                     .role(ConversationRole.USER)
                     .content(ContentBlock.builder().text(fullText).build())
                     .build(),
+            ).inferenceConfig(
+                InferenceConfiguration
+                    .builder()
+                    .maxTokens(BEDROCK_MAX_TOKENS)
+                    .build(),
             ).serviceTier(
                 ServiceTier
                     .builder()
@@ -161,6 +168,7 @@ fun extractWithBedrock(
             appendLine("provider: bedrock")
             appendLine("model_id: $BEDROCK_MODEL")
             appendLine("inference_profile_id: $BEDROCK_INFERENCE_PROFILE")
+            appendLine("max_tokens_requested: $BEDROCK_MAX_TOKENS")
             appendLine("service_tier_requested: $BEDROCK_SERVICE_TIER")
             appendLine("service_tier_resolved: $resolvedTier")
             appendLine("local_call_duration_ms: $localLatencyMs")
