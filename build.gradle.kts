@@ -37,6 +37,11 @@ dependencies {
     // implementation("org.apache.commons:commons-csv:1.14.1")
     implementation("net.java.dev.jna:jna-platform:5.18.1")
 
+    implementation(platform("software.amazon.awssdk:bom:2.42.7"))
+    implementation("software.amazon.awssdk:bedrockruntime")
+    implementation("software.amazon.awssdk:s3")
+    implementation("software.amazon.awssdk:sts")
+
     // the ktlint task also uses this, but in app runtime, we don't use it yet
     // implementation("io.github.oshai:kotlin-logging-jvm")
     // slf4j comes indirectly with kotlin-logging
