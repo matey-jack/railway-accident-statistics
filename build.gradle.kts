@@ -41,6 +41,8 @@ dependencies {
     implementation("software.amazon.awssdk:bedrockruntime")
     implementation("software.amazon.awssdk:s3")
     implementation("software.amazon.awssdk:sts")
+    implementation("software.amazon.awssdk:sso")
+    implementation("software.amazon.awssdk:ssooidc")
 
     // the ktlint task also uses this, but in app runtime, we don't use it yet
     // implementation("io.github.oshai:kotlin-logging-jvm")
