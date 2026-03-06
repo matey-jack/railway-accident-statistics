@@ -30,6 +30,13 @@ tasks.register<JavaExec>("runTestAws") {
     mainClass.set("ebuparser.TestAwsKt")
 }
 
+tasks.register<JavaExec>("runExtractDamages") {
+    group = "application"
+    description = "Extracts damage sections from Bedrock summaries"
+    classpath = sourceSets["main"].runtimeClasspath
+    mainClass.set("ebuparser.ExtractDamagesKt")
+}
+
 repositories {
     mavenCentral()
 }
