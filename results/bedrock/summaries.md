@@ -1993,12 +1993,8 @@ file: 016_Lövenich-Horrem.txt
 
 ### Unvollständiger Unfallbericht vom 27. Juni 2009 zwischen Lövenich und Horrem
 
----
-
 ## Titel des Untersuchungsberichts
 Untersuchungsbericht: Sonstiger Unfall im Eisenbahnbetrieb, Lövenich-Horrem, 27.06.2009
-
----
 
 ## Hergang des Unfalls
 
@@ -2020,8 +2016,6 @@ Auf Grund dieser Erkenntnis setzte sich der Tf unverzüglich mit dem Fdl Horrem 
 
 Nachdem der Fdl. Horrem daraufhin alle Fern- und S-Bahngleise zwischen Köln-Lövenich und Horrem gesperrt hatte, informierte er den Tf über die erfolgte Sperrung. Im Anschluss gab der Tf nun die Einstiegstüren frei, sodass die Reisenden den Zug verlassen konnten.
 
----
-
 ## Höhe des Schadens, Anzahl Tote und Verletzte
 
 24 Reisende werden leicht verletzt. Die Sachschäden setzen sich wie folgt zusammen:
@@ -2030,8 +2024,6 @@ Schienenfahrzeuge: ca. 4.500 €
 Betriebserschwernisse: ca. 600 €
 
 Am 27.06.2009, zum Zeitpunkt des Unfalls, herrschte trockenes Wetter bei Tageslicht. Es war sehr heiß.
-
----
 
 ## Ursachen des Unfalls
 
@@ -2044,8 +2036,6 @@ Das Ereignis wäre vermieden worden, wenn die Zugfahrt ab Köln-Ehrenfeld mit vo
 Da im Rahmen der Funktionsprüfung der Bremse sowie des Steuerventils keine Hinweise auf eine Störung der Anlage festgestellt werden konnten, kann daraus geschlossen werden, dass die Zusatzbremse nach dem letzten planmäßigen Halt in Köln-Ehrenfeld nicht oder nicht vollständig gelöst war.
 
 Der Zustand der Zusatzbremse kann grundsätzlich auf einem auf der rechten Seite des Führerpultes angebrachten Manometer abgelesen und an der Stellung des Zusatzbremsventils erkannt werden. Eine während der Anfahrt des Zuges noch anliegende Zusatzbremse ist im Anfahr- und Rollverhalten des Zuges durch den Tf kaum spürbar. Der Tf erhält keinen systemseitig generierten Hinweis oder Warnung über eine möglicherweise nicht oder nicht vollständig gelöste Zusatzbremse.
-
----
 
 ## Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle
 
@@ -2491,15 +2481,11 @@ file: 117_Laurenburg_Lahn.txt
 
 ### Fahrzeugbrand, 28.09.2014, Laurenburg (Lahn)
 
----
-
 # Hergang des Unfalls
 
 Am 28.09.2014 gegen 18:18 Uhr wurde der Zug DPN 25582 (Limburg (Lahn) – Koblenz Hbf) in Laurenburg (Lahn) (VzG-Strecke 3710 Wetzlar – Koblenz Hbf) mit dem Triebwagen VT 251 (Fahrzeugregisternummer 95 80 0648151-8) der Vectus Verkehrsgesellschaft mbH aufgrund Rauchentwicklung am ersten Drehgestell gestellt. Bei näherer Untersuchung der Rauchentwicklung wurden Flammen unter dem Fahrzeug festgestellt und mit Handfeuerlöscher gelöscht.
 
 Das Drehgestell war durch den Schaden blockiert, eine Weiterfahrt des Fahrzeugs daher nicht möglich. Der Triebwagen konnte erst am Folgetag nach Anbringen eines Hilfsdrehgestells aus eigener Kraft (zweiter Powerblock) in die Werkstatt nach Limburg (Lahn) fahren.
-
----
 
 # Höhe des Schadens, Anzahl Tote und Verletzte
 
@@ -2509,15 +2495,11 @@ Das Drehgestell war durch den Schaden blockiert, eine Weiterfahrt des Fahrzeugs 
 - Triebfahrzeug: ca. 11.200 €
 - Betriebserschwernisse: keine Angaben
 
----
-
 # Ursachen des Unfalls
 
 Als Auslöser konnte ein Lagerschaden am rechten Radsatzlager der zweiten Achse des führenden Drehgestells festgestellt werden. Der Lagerschaden wurde offenbar durch sich nacheinander aus den Gewinden lösende Befestigungsschrauben der Druckkappe verursacht. Grund für das Lösen der Schrauben war vermutlich ein sich verminderndes Anzugs-Drehmoment der Schrauben aufgrund eines Montagefehlers (verminderte Vorspannung der Druckkappe durch Nachsetzung der Lagerinnenschalen).
 
 Die Untersuchung ergab, dass die Befestigungsschrauben der Druckkappe zu geringe Anzugs-Drehmomente aufwiesen. Es wird davon ausgegangen, dass es sich um einen Montagefehler beim Zusammenbauen der Lager im Rahmen der Revision handelt. Vermutlich waren die Lagerinnenschalen nicht weit genug auf die Radsatzwelle nach innen gepresst, sodass sich die Druckkappe auf die zu weit herausstehenden Innenschalen abgestützt hat. Dadurch wurde die Vorspannung der Befestigungsschrauben der Druckkappe nicht aufrechterhalten, sodass sie sich nach dem Setzen des Innenrings lösen konnten.
-
----
 
 # Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle
 
@@ -2828,13 +2810,9 @@ file: 052_Düsseldorf_Derendorf.txt
 
 ### Zugentgleisung, 02.07.2013, Düsseldorf-Derendorf
 
----
-
 # Hergang des Unfalls
 
 Am 02.07.2013 fuhr gegen 17:24 Uhr der Güterzug DGS 95740 aus Gleis 12 des Bahnhofs Düsseldorf-Derendorf in Richtung Abzw Düsseldorf-Rethel aus. Die Zustimmung zur Abfahrt wurde durch die Fahrdienstleiterin (Fdl) des Stellwerks Dnf durch Fahrtstellung des Ausfahr­signals N12 (Hp 2; vmax= 40km/h) erteilt. Der aus 12 Wagen bestehende Zug, der ausschließ­lich aus Druckgaskesselwagen gebildet wurde, die mit Propen (UN: 23/1077) beladen waren, setzte sich daraufhin in Bewegung. Als der Zug eine Geschwindigkeit von ca. 20 km/h er­reicht hatte, entgleiste in einem Linksbogen in Höhe des Signals N12 der an 8. Stelle laufen­de Wagen, vermutlich mit dem vorderen Drehgestell zuerst, nach rechts. Im weiteren Verlauf entgleisten auch die an 9., 10. und 12. Stelle laufenden Wagen. Der 8. Wagen geriet zuneh­mend von der Fahrbahn ab, neigte sich nach rechts und kippte schließlich um. Zwischen den Wagen acht und neun kam es zur Zugtrennung. Der DGS 95740 kam daraufhin, infolge der mit der Zugtrennung verbundenen Zwangsbremsung, nach einem Fahrweg von ca. 250m zum Stillstand.
-
----
 
 # Höhe des Schadens, Anzahl Tote und Verletzte
 
@@ -2845,8 +2823,6 @@ Es wurden ca. 150 m Gleis und zwei Weichen teils erheblich beschädigt. Der an 8
 Die DB Netz AG schätzte den am Oberbau entstanden Sachenschaden auf ca. 450.000,00 Euro. Die Schäden an Leit- und Sicherungstechnik betragen ca. 15.000,00 Euro. Die Schät­zung der beteiligten Fahrzeughalter für die an den Fahrzeugen entstandenen Schäden be­laufen sich insgesamt auf ca. 90.000,00 Euro. Das EVU bezifferte die Kosten für Reparatu­ren vor Ort und Bergungskosten mit ca. 95.000,00 Euro.
 
 Demnach errechnet sich nach ersten groben Schätzungen der beteiligten Unternehmen ein Gesamtschaden von ca. 650.000,00 Euro.
-
----
 
 # Ursachen des Unfalls
 
@@ -2865,8 +2841,6 @@ Um ein sicheres Abziehen der im Bereich der Entgleisungsstelle stehenden letzten
 Die letzte Inspektion des Gleises 12 durch Mitarbeiter des Geschäftsbereichs Fahrbahn fand lt. vorgelegtem Inspektionsprotokoll am 11.09.2012 statt. Demnach wurden im Rahmen einer Gleisbegehung die Gleise 9 bis 16 kontrolliert. Es ist davon auszugehen, das vor dem Hin­tergrund einer geplanten Inspektionszeit von 127 min für 5,3 km Gleis, diese Inspektion in Form einer augenscheinlichen Prüfung, ohne den Einsatz von Messmittel, durchgeführt wur­de. Der EUB wurden keine Messwerte aus dieser Inspektion bekannt. Die vor der Entglei­sung tatsächlich vorhandene Spurweite konnte somit nicht mehr recherchiert werden.
 
 Im Ergebnis dieser Inspektion wurden, wie auch in den Jahren 2010 und 2011, keine befun­dungswürdigen Mängel festgestellt.
-
----
 
 # Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle
 
@@ -4411,8 +4385,6 @@ file: 099_Rbf_Wustermark.txt
 
 ### Zugkollision, 16.11.2015, Rbf Wustermark
 
----
-
 # Hergang des Unfalls
 
 Am 16.11.2015 kollidierte um 17:01 Uhr das einzeln fahrende Triebfahrzeug 9180 6186 423-0 mit der Zugfahrt DPN 79473. Im Zug befanden sich ca. 500 Reisende. Der Zug Lz 92758, Relation Frankfurt/Oder – Wustermark Rbf, fuhr in den Bahnhof Wustermark Rbf auf Esig O nach Gleis 58 ein. Nach erfolgter Einfahrt sollte das Triebfahrzeug als Rangierfahrt über Gleis 28 in das Gleis 11 fahren. Trotz einer eindeutigen Weisung des Fahrdienstleiters Wustermark, nahm der Triebfahrzeugführer einen Führerstandwechsel vor und fuhr anschließend in die falsche Richtung.
@@ -4425,8 +4397,6 @@ Am Halt zeigenden Signal F 58, welches zusätzlich mit einem Signal Ra 12 (DV 30
 
 Das Triebfahrzeug wurde bis zu einer Geschwindigkeit von 19 km/h beschleunigt. Um 17:01:29 Uhr verzeichnet die EFR einen rapiden Druckabfall im Bremssystem auf 0,0 Bar. Dieser Druckabfall ist nicht auf die Beeinflussung eines PZB-Magneten zurückzuführen und somit keine von außen veranlasste Zwangsbremsung. Es ist daher davon auszugehen, dass der Triebfahrzeugführer die Schnellbremsung selbst veranlasst hat. Um 17:01:34 Uhr kam das Fahrzeug zum Stehen.
 
----
-
 # Höhe des Schadens, Anzahl Tote und Verletzte
 
 Todesopfer sind keine zu beklagen. Die Sachschäden setzen sich wie folgt zusammen:
@@ -4435,8 +4405,6 @@ Todesopfer sind keine zu beklagen. Die Sachschäden setzen sich wie folgt zusamm
 - Triebzug ET 445 109 ca. 4.000.000 €
 - Gleisanlage ca. 60.000 €
 - Betriebserschwernisse keine Angaben
-
----
 
 # Ursachen des Unfalls
 
@@ -4447,8 +4415,6 @@ Der Triebfahrzeugführer des Triebfahrzeugs führte davor einen Führerstandwech
 Begünstigend kam hinzu, dass von dem beteiligten Triebfahrzeugführer und dem Fahrdienstleiter entgegen der Festlegungen der Ril 481.0302, Grundlagen für Verbindungen zum Rangieren im GSM-R-Netz, Aufträge und Meldungen nicht wiederholt wurden und dadurch ein Missverständnis zustande kam.
 
 Als der Triebfahrzeugführer auf den Auftrag des Fahrdienstleiters „weiter fahren“ mit dem Wortlaut: „hab ich schon“ antwortete, stand das Triebfahrzeug 9180 6186 423-0 (EVU Rurtalbahn), noch „hinter“ dem Ausfahrsignal F 58. Der Triebfahrzeugführer meinte mit „hab ich schon“ wahrscheinlich den Wechsel des Führerstandes, welcher hier nicht geboten war. Der Fahrdienstleiter Wustermark hatte keine Veranlassung anzunehmen, dass ein Führerstandwechsel erfolgt war.
-
----
 
 # Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle
 
@@ -4674,8 +4640,6 @@ file: 091_Himmelstür_Abzw_Hildesheim_Hbf.txt
 Titel des Untersuchungsberichts  
 **Zugkollision, 25.07.2015, Himmelsthür (Abzw) - Hildesheim Hbf**
 
----
-
 # Hergang des Unfalls
 
 Am 25.07.2015 kam es auf der VzG-Strecke 1770 in km 43,200 zwischen Himmelsthür (Abzw) und Hildesheim Hbf zu einer Kollision zwischen dem Zug DPN 83719 und einem ins Gleisprofil hineinragenden Ast. Die Zugfahrt wurde durch das EVU Erixx GmbH auf der Infrastruktur der DB Netz AG durchgeführt. Der Streckenabschnitt war als zweigleisige Hauptbahn ausgeführt und wurde nach dem Betriebsverfahren der Ril 408 „Züge fahren und Rangieren“ befahren.
@@ -4692,15 +4656,11 @@ Durch diesen Kontakt kam es zu einem Spannungsüberschlag und erheblicher Hitzee
 
 Zum Zeitpunkt des Ereignisses befanden sich ca. 200 Personen im Zug, die durch die umsichtige Handlungsweise des Fahrpersonals ohne Schaden zu nehmen evakuiert werden konnten.
 
----
-
 # Höhe des Schadens, Anzahl Tote und Verletzte
 
 Es sind weder verletzte Personen noch Todesopfer zu beklagen. Die Sachschäden betragen:
 
 - Triebzug: ca. 2.500.000 €
-
----
 
 # Ursachen des Unfalls
 
@@ -4717,8 +4677,6 @@ Die Ursache des Brandereignisses war kein Einzelfehler, sondern eine Verkettung 
 4. Im betroffenen Streckenabschnitt reichte die Vegetation rechts und links bis dicht an den Gleiskörper heran. Die Nähe von Bäumen und Sträuchern zum Gleiskörper und zur Oberleitung hatte die Astberührung zwar nicht alleinig verursacht, jedoch begünstigt.
 
 5. Die brandschutztechnische Auslegung des Fahrzeuges hat entsprechend der betrieblichen Einsatzform gegriffen.
-
----
 
 # Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle
 
@@ -9130,8 +9088,6 @@ file: 006_Osnabrück.txt
 
 Entgleisung des Güterzuges 50002 im Bahnhof Osnabrück Hauptbahnhof am 17.03.2004
 
----
-
 ### Hergang des Unfalls
 
 Am 17.03.2004 um 23:31 Uhr entgleiste nach der Einfahrt in das Gleis 112 des Bf Osnabrück Hbf, Bahnhofsteil „Vorbahnhof“ der Güterzug 50002 im Bahnhofsteil Klus mit der Zuglok und den ersten zwanzig Wagen. Die ersten vier Wagen hinter der Zuglok stürzten um, wobei der erste, mit Kohlenwasserstoffgas, Gemisch, verflüssigt (UN-Nr. 1965) beladene Kesselwagen leck schlug und in Brand geriet. Weiterhin wurden die Wagen von Position 7 bis Position 20 erheblich deformiert.
@@ -9146,8 +9102,6 @@ Die Weichen 336 und 322 sind auf Grund ihrer Radien im abzweigenden Strang für 
 
 Aufgrund des Schadensbilds nach dem Unfall muss davon ausgegangen werden, dass das Triebfahrzeug und der erste Wagen nach Gleis 32 und die nachfolgenden Fahrzeuge nach Gleis 31 gefahren waren. Die Lok war nach rechts gekippt und lag zwischen Gleis 32 und 31. Der erste Wagen war auch nach rechts gekippt und lag zwischen den Gleisen 33 und 32. Der zweite Wagen war nach links umgefallen und lag auf den Gleisen 32 bis 30. Die Wagen 3 und 4 waren ebenfalls nach links gekippt und lagen jeweils auf Gleis 30. Die Wagen 5, 6 und teilweise 7 standen auf Gleis 31. Dahinter türmten sich die weiteren Fahrzeuge beginnend mit dem zweiten Teil von Wagen 7 bis zum Wagen 20, der mit dem ersten Drehgestell entgleist war, auf. Die Wagen 21 bis 35 waren äußerlich unversehrt. Das vorletzte Fahrzeug stand mittig am Zielsignal Ls 112 II.
 
----
-
 ### Höhe des Schadens, Anzahl Tote und Verletzte
 
 Der Unfall löste insbesondere aufgrund der Beteiligung von Gefahrgut ein erhebliches öffentliches Aufsehen aus. Ca. 80 Personen mussten evakuiert werden. Weitere Personenschäden sind nicht bekannt geworden.
@@ -9160,8 +9114,6 @@ Entstandene Sachschäden:
 - Schienenfahrzeuge: 1.101.600,00 Euro
 - Sicherungs- und Telekommunikationsanlagen: 600.000,00 Euro
 - Sonstige Sachschäden der Bahn: 475.000,00 Euro
-
----
 
 ### Ursachen des Unfalls
 
@@ -9180,8 +9132,6 @@ Das Eisenbahn-Bundesamt geht davon aus, dass die Luftabsperrhähne zwischen dem 
 5. Die Simulationsrechnung zu den Bremsverhältnissen durch die DB Systemtechnik stützt ebenfalls unsere Annahme. Der Verfasser kommt zu dem Schluss, dass während des Unfalls eine direkt hinter der Lok abgesperrte Hauptluftleitung vorlag.
 
 6. Auch der zeitliche Ablauf der Vorgänge bei der vereinfachten Bremsprobe begründet Zweifel daran, dass diese ordnungsgemäß durchgeführt wurde. In dem Zeitfenster zwischen 21:13:19 Uhr und der Fertigmeldung an den Rangierdisponenten um 21:16 Uhr hat der Tf die Bremsstellung auf dem anderen Führerstand umgestellt und es wurde die vereinfachte Bremsprobe durchgeführt. Aus der firmeneigenen Stellungnahme geht hervor, dass erst beim dritten Gegentreten gegen den Bremsklotz der Lösezustand festgestellt wurde. Der Zeitbedarf für die vereinfachte Bremsprobe dürfte somit höher als der Richtwert gelegen haben.
-
----
 
 ### Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle
 
@@ -10289,21 +10239,15 @@ file: 206_Demmin.txt
 
 ### Zugentgleisung, 09.06.2021, Bahnhof Demmin
 
----
-
 # Hergang des Unfalls
 
 Am 09.06.2021 sollte der DGS 95370 von Stendell nach Pirna verkehren. Der Zug bestand aus dem Triebfahrzeug (Tfz) und 22 mit Gefahrgut, UN-Nr. 1203, beladenen Kesselwagen. Er hatte eine Gesamtlänge von 389 m. Der DGS 95370 fuhr als Sonderzug unter der Fahrplananordnung (Fplo) 0609-95370-0-00. Er war gegenüber der Fplo um zwei Stunden verspätet.
 
 Im Bf Demmin musste der Zug mit der Zugfahrt RE 3508 kreuzen. Aufgrund der Sicherung von Reisenden entsprechend dem Betriebsstellenbuch Bf Demmin musste der DGS 95370 nach Gleis 2 eingelassen werden und bis zum haltzeigenden Asig D fahren. Nach dem Halt dieses Zuges sollte der RE 3508 für seinen Betriebshalt mit Fahrgastwechsel nach Gleis 1 eingelassen werden. Die Zugfahrt DGS 95370 fuhr um ca. 12:13 Uhr in den Bf Demmin ein. Die Fahrstraße k/2 vom Esig K über die Weichen W 44 und W 39 nach Gleis 2 bis zum Halt zeigenden Asig D war eingestellt und festgelegt. Die Zusammenführung zur Fahrt in den Bf Demmin erfolgte durch den Ww auf dem Stw Dwt mit Fahrtstellung des Esig K. Am Esig K, einem Mehrabschnittssignal, bekam der Triebfahrzeugführer (Tf) „Halt erwarten“ angezeigt und verlangsamte deshalb seine Fahrt. Nach dem Passieren der Weiche W 44 in Rechtslage durchfuhr der Zug die Weiche W 39 in Linkslage zur Fahrt nach Gleis 2. Bevor der Zug die Weiche W 39 in km 176,35 vollständig passiert hatte, wurde diese durch den Ww in die Rechtslage gebracht. Zuvor hatte der Fdl auf dem Stw Dmf die Fahrstraße aufgelöst und der Ww den Fahrstraßenhebel zurückgelegt. Das Umlaufen der Weiche begann, nachdem das erste Drehgestell des letzten Wagens im Zugverband die Zungenspitze passiert hatte und bevor das zweite Drehgestell dieses Wagens die Weiche befuhr. Der letzte Wagen des Zuges fuhr daher zweigleisig. Der Tf des Zuges bemerkte Auffälligkeiten bei der Geschwindigkeitsanzeige und leitete daraufhin eine Betriebsbremse ein. Der Zug kam mit der Spitze in ca. km 175,81 zum Halt. Durch die Fahrt im entgleisten Zustand wurden die Bahnhofsgleise erheblich beschädigt. Die in Fahrtrichtung linke Schiene des Gleises 1 wurde teilweise aus ihren Befestigungen gerissen und das Gleis streckenweise um mehr als einen Meter in Richtung des Gleises 2 gezogen. Auf Höhe des Asig H wurde eine weitere Verschiebung des Gleises durch das Fundament des Signalmastes verhindert. Das bewirkte hier einen abrupten Richtungswechsel im Gleis. Dadurch überklappte das entgleiste Drehgestell etwa in km 176,3 die linke Schiene des Gleises 1 in Richtung des Gleises 2. Danach wurden auf dem Weg bis zum ereignisbedingten Halt des Zuges sämtliche Schwellen und ein Teil der vorhandenen Bahnsteigkante am Gleis 2 zerstört.
 
----
-
 # Höhe des Schadens, Anzahl Tote und Verletzte
 
 Es wurden keine Personen getötet oder verletzt. Am betroffenen Fahrzeug und der Infrastruktur entstanden Sachschäden in geschätzter Höhe von 466.900 Euro.
-
----
 
 # Ursachen des Unfalls
 
@@ -10318,8 +10262,6 @@ Systemische Faktoren:
 - Auf vielen Betriebsstellen im Bereich der Eisenbahnen des Bundes befindet sich die LST nicht auf dem aktuellen Stand der Technik.
 - Für die Überwachung der Personale auf den Stellwerken (Stw) im Bf Demmin konnte durch das EIU kein systematischer Ansatz dargestellt werden, der die konsequente Beachtung und das dauerhafte Bewusstsein für arbeitsplatzbezogene, sicherheitskritische Arbeitsabläufe berücksichtigte.
 
----
-
 # Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle
 
 Gemäß § 6 Eisenbahn-Unfalluntersuchungsverordnung (EUV) und Art. 26 Abs. 2 der Richtlinie (EU) 2016/798 ergeht keine Sicherheitsempfehlung.
@@ -10332,8 +10274,6 @@ Eine Vielzahl älterer Stw im Bereich der Eisenbahnen des Bundes entsprechen nic
 file: 059_Vahr(Abzw)-Bremen Hbf.txt
 
 ### Zugentgleisung, 14.02.2013, Vahr(Abzw) í Bremen Hbf
-
----
 
 # Hergang des Unfalls
 
@@ -10385,8 +10325,6 @@ Der 16. Wagen befand sich überpuffert mit dem 15. Wagen in der Dkw 11045 und wu
 
 Der Zug kam mit der Spitze etwa in Höhe des Zwischensignals (Zsig) 11ZR44 zum Stillstand.
 
----
-
 # Höhe des Schadens, Anzahl Tote und Verletzte
 
 Todesopfer oder Verletzte sind nicht zu beklagen.
@@ -10403,8 +10341,6 @@ Die veranschlagte Schadenssumme in Höhe von etwa 4.455.600,00 € setzt sich wi
 - Betriebserschwernisse: ca. 400.000 €
 - Sonstiges (Dienstleister, Pönale, etc.): ca. 202.600 €
 
----
-
 # Ursachen des Unfalls
 
 Als Ursache wurde eine angelegte Feststellbremse an der hinteren Wageneinheit des Hccrrs-Wagen (2x2-achsiger Doppelstockautotransportwagen) mit der Wagennummer: 23 80 2911 316-0 D-ARS identifiziert. Die festgebremsten Radsätze drei und vier führten zu starken Materialab- und auftragungen an den Laufflächen der Radsätze. In der Folge war ein spurtreuer Lauf der Radsätze nicht mehr gegeben, sodass der Wagen nach rechts entgleiste.
@@ -10412,8 +10348,6 @@ Als Ursache wurde eine angelegte Feststellbremse an der hinteren Wageneinheit de
 Das Schadbild an den Laufflächen lässt darauf schließen, dass die Radsätze blockierten. Das Blockieren durch Schäden an den Radsatzlagern ist auszuschließen, da diese sich einwandfrei von Hand durchdrehen ließen. Die Ursache für das Blockieren der beiden Radsätze war eine nicht gelöste Feststellbremse. An dieser Stelle kommt die ausschließlich auf die blockierten Radsätze drei und vier wirkende Feststellbremse in Betracht.
 
 Warum und durch wen die Feststellbremse angezogen worden war konnte nicht mehr ermittelt werden.
-
----
 
 # Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle
 
@@ -10648,8 +10582,6 @@ file: 014_Landrückentunnel.txt
 
 # Zugkollision mit anschl. Entgleisung des ICE 885 im Landrückentunnel
 
----
-
 ## Hergang des Unfalls
 
 Am 26.04.2008, um 21:06 Uhr prallte der ICE 885 auf der Fahrt von Hamburg nach München am Nordportal des Landrückentunnels in km 251,325 auf eine im Gleisbereich stehende Schafherde (ca. 20 – 30 Tiere). Die Geschwindigkeit zum Zeitpunkt des Aufpralls betrug 210 km/h. Das führende Fahrzeug des ICE 885 entgleiste mit der vorderen Achse des ersten Drehgestells und prallte auf die Flügelschiene der anschließenden Weiche 602. Der Zug kam mit der Zugspitze in ca. km 252.432 innerhalb des Landrückentunnels zum Stehen. Zur Rettung der Zuginsassen waren örtliche Rettungskräfte als auch die Rettungszüge Fulda und Würzburg im Einsatz. 
@@ -10663,8 +10595,6 @@ Um 21:04:40 Uhr in km 251,332 wurde in der EFR der Eintrag „Störsammelmelder�
 Etwa um 21:04:45 Uhr in km 251,622 wurde bei einer Geschwindigkeit von ca. 205 km/h die Schnellbremsung durch den Tf wirksam. Erste Entgleisungsspuren deuten auf eine Entgleisung nach rechts hin. Die Spuren sowie die Auswertung der Radsatzlager bestätigen, dass es durch die aus dem Aufprall auf die Schafherde resultierenden Kräfte und Wirkungen zu einer Entgleisung der ersten Achse gekommen ist. Der entgleiste Triebkopf hat jedoch den Gleisbereich nicht verlassen und für die folgenden rund 700 m bis zur ersten stumpf befahrenen Weiche 602 „Spur“ gehalten. 
 
 Nach dem Durchfahren des Herzstückbereiches ist die entgleiste Achse an die Flügelschiene angelaufen und dadurch nach rechts über die Schwellenköpfe in den Schotter abgedrängt worden. Der Aufprall auf die Flügelschiene der Weiche 602 erfolgte mit ca. 179 km/h. Die Entgleisungsgeschwindigkeit im Weichenbereich betrug 174 km/h. Anschließend prallte der Triebkopf an den rechten Randweg des Tunnels. Die vom entgleisten Fahrwerk auf die Weiche ausgeübten Querkräfte in Kombination mit dem Eindringen in das Schotterbett führten zu einer Verschiebung des Gleisrostes nach links. Im Anschluss überkletterte der entgleiste Radsatz die Zungenschiene, wodurch das entgleiste Fahrwerk wieder zur linken Fahrschiene zurück gelaufen ist. Das entgleiste Fahrwerk hatte damit am Weichenanfang der Weiche 602 wieder eine ähnliche Stellung im Gleis wie vor der Einfahrt in die Weiche. Unmittelbar nach der Weiche 602 zeigten sich starke Schäden an den Schwellen. Nur wenige Schwellen weiter war der Gleisrost bereits weitgehend zerstört, keine Schienenbefestigung mehr vorhanden und damit keine weitere Spurführung möglich. Auf den folgenden ca. 200 m bis in den Herzstückbereich der Weiche 603 war faktisch kein Gleis mehr vorhanden. Da die ersten beiden auf den führenden Triebkopf folgenden Mittelwagen nicht entgleist sind, müssen diese beiden Fahrzeuge beim Verlassen der Weiche 602 ein zumindest noch spurführungsfähiges Gleis vorgefunden haben. Beginnend mit dem 3. auf den Triebkopf folgenden Mittelwagen sind dann jedoch alle Fahrzeuge entgleist. Der ICE 885 kam um 21:05:11 Uhr in km 252,432 zum Halten.
-
----
 
 ## Höhe des Schadens, Anzahl Tote und Verletzte
 
@@ -10703,8 +10633,6 @@ Umwelt
 
 erhebliche Staubbildung; starke Geruchsbelästigung durch Tierkadaver
 
----
-
 ## Ursachen des Unfalls
 
 Die Entgleisung des ICE 885 kann auf folgende Ursachen zurückgeführt werden:
@@ -10716,8 +10644,6 @@ Die Entgleisung des ICE 885 kann auf folgende Ursachen zurückgeführt werden:
 3. Möglich ist auch eine Kombination der vorgenannten Ursachen. Ursache für die Entgleisung der Mittelwagen dürfte die dynamische Kraft- und Bewegungsreaktion der Fahrzeuge auf die vom entgleisten Triebkopf verursachte Verschiebung des Gleisrostes im Bereich der Weiche 602 sein.
 
 Die Unfalluntersuchung erfolgte im Ausschlussverfahren. Anhand der Auswertungen der Inspektionsergebnisse ergaben sich keine Anhaltspunkte, dass die Entgleisung des ICE 885 durch den Oberbauzustand begünstigt worden ist. Die Stellwerksanlage funktionierte im relevanten Zeitraum fehlerfrei. Es liegen keine Anzeichen vor, dass die Entgleisung durch Fehlbedienungen oder durch Mängel an der Stellwerksanlage begünstigt worden ist.
-
----
 
 ## Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle
 
@@ -11539,21 +11465,15 @@ file: 227_Berlin-Lichtenberg.txt
 
 **Zugentgleisung, 15.04.2020, Bahnhof Berlin-Lichtenberg (S-Bahn)**
 
----
-
 # Hergang des Unfalls
 
 Am 15.04.2020 gegen 21:03 Uhr entgleiste der Zug S 75626 auf der Fahrt von Berlin-Wartenberg nach Berlin Ostbahnhof im Bahnhof (Bf) Berlin-Lichtenberg bei der Ausfahrt aus Gleis 692 auf Fahrtstellung des Ausfahrsignals 1178 in der doppelten Kreuzungsweiche (DKW) 61W350 c/d, mit allen vier Radsätzen des letzten Wagens.
 
 Während der Zug die DKW 61W350 c/d befuhr, löste sich die interne Verriegelung im Weichenantrieb der Bauart Switchguard ELS 710 auf. Die mechanische Verriegelung der DKW 61W350 c/d wurde in der Folge aufgehoben. Die anliegende linke Weichenzunge im Strang c war dadurch nicht mehr in der Endlage und löste sich von der Backenschiene. In die Lücke zwischen Zunge und Backenschiene fuhren schließlich die linken Spurkränze aller vier Radsätze des letzten Wagens. Sie liefen dadurch zweispurig. Durch den entgleisten Wagen wurden im weiteren Verlauf die DKW 61W350 sowie die Weichen 61W349 und 61W346 erheblich beschädigt.
 
----
-
 # Höhe des Schadens, Anzahl Tote und Verletzte
 
 Es wurden keine Personen getötet oder verletzt. An den Fahrzeugen und an der Infrastruktur entstanden Sachschäden in geschätzter Höhe von ca. 636.000 Euro.
-
----
 
 # Ursachen des Unfalls
 
@@ -11594,8 +11514,6 @@ Nach Ril 482.9001 wurde die Meldung als unzeitige Auffahrmeldung gewertet.
 Das Verfahren zum Umgang mit unzeitigen Auffahrmeldungen sah vor die DKW durch die AWU Bedienung in eine Endlage zu bringen. Der Verschluss wurde durch die Bedienung AWU wieder vollständig hergestellt.
 
 Ereignisursächliche Einflüsse aus den Handlungen der Personale des EVU wurden nicht festgestellt.
-
----
 
 # Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle
 
@@ -12936,15 +12854,11 @@ file: 114_Bad_Aibling_-_Kolbermoor.txt
 
 - **Titel des Untersuchungsberichts**: Zugkollision, 09.02.2016, Bad Aibling–Kolbermoor
 
----
-
 ### Hergang des Unfalls
 
 - Am 09.02.2016 gegen 06:47 Uhr kollidierten auf der Bahnstrecke Holzkirchen–Rosenheim zwischen den Bf Bad Aibling und Kolbermoor die Züge DPN 79505 und DPN 79506 der Bayerischen Oberlandbahn etwa in Streckenkilometer 30,29.
 - Der aus einem ET 325 gebildete Zug DPN 79505 näherte sich aus Richtung München/Bad Aibling. Der DPN 79506 bestand aus einem ET 355 und kam aus der entgegengesetzten Richtung Rosenheim/Kolbermoor.
 - Die beiden an jenem Faschingsdienstag nur schwach besetzten Züge sollten planmäßig in Kolbermoor kreuzen.
-
----
 
 ### Höhe des Schadens, Anzahl Tote und Verletzte
 
@@ -12960,8 +12874,6 @@ file: 114_Bad_Aibling_-_Kolbermoor.txt
   - Die Sachschäden belaufen sich auf ca. 20 Millionen Euro.
   - Die Strecke wurde vom 09.02.2016, 06:58 Uhr bis 19.02.2016, 17:10 Uhr gesperrt.
 
----
-
 ### Ursachen des Unfalls
 
 - Die Zugkollision der beiden Regionalzüge ist auf mehrere betriebliche Fehlhandlungen des Fdl Bad Aibling bei der Abwicklung der Fahrten auf Ersatzsignal (Zs 1) zurückzuführen.
@@ -12974,8 +12886,6 @@ file: 114_Bad_Aibling_-_Kolbermoor.txt
 - Vor dem Ereignisfall hatte der Fdl noch nie einen echten Notruf absetzen müssen. Die bisherige Übungspraxis reichte nicht aus.
 - Der Fdl war für seine Aufgabe fortgebildet, aber die letzte Tauglichkeitsuntersuchung erfolgte am 18.04.2013 und war bis zum 18.04.2018 gültig.
 - Die erforderlichen Überwachungen sind nachgewiesen, aber die Überwachung des Betriebspersonals im Regionalnetz Karwendel und Südbayern war unzureichend und die örtlichen Vorgaben mängelbehaftet.
-
----
 
 ### Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle
 
