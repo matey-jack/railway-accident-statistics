@@ -21,3 +21,7 @@ Note that all the quotes are needed because some filenames contain spaces.
 Setting up all the permissions for Bedrock is a bit of work in the AWS console. 
 If you don't have AWS experience, you might want to use another provider. 
 
+To extract damages.csv I gave the complete damages.md to the consumer Claude app (using Opus 4.6 and the basic monthly plan). 
+I asked it to chop the data up and give it to subagents.
+
+Result with ability to sum and filter: https://docs.google.com/spreadsheets/d/17yDhgDWlU_UmKKtV8QbFC6YdbPXS_EWGbCWQX6XlItQ/edit?usp=sharing
