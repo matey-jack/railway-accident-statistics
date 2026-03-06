@@ -37,6 +37,13 @@ tasks.register<JavaExec>("runExtractDamages") {
     mainClass.set("ebuparser.ExtractDamagesKt")
 }
 
+tasks.register<JavaExec>("runExtractDates") {
+    group = "application"
+    description = "Extracts accident dates from Bedrock summaries into CSV"
+    classpath = sourceSets["main"].runtimeClasspath
+    mainClass.set("ebuparser.ExtractDatesKt")
+}
+
 repositories {
     mavenCentral()
 }
