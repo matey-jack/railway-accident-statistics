@@ -3,7 +3,6 @@ package ebuparser
 import java.io.File
 
 private const val SECTION_SEPARATOR = "\n---\n"
-private const val DAMAGE_HEADING = "# Höhe des Schadens, Anzahl Tote und Verletzte"
 private const val INPUT_FILE = "results/bedrock/summaries.md"
 private const val OUTPUT_FILE = "results/damages.md"
 
@@ -33,27 +32,35 @@ object ExtractDamages {
         val lines = section.lines()
         val fileLine = lines.firstOrNull { it.startsWith("file:") } ?: return null
 
-        val damageStart = lines.indexOfFirst { it.trim() == DAMAGE_HEADING }
-        if (damageStart == -1) {
-            return null
-        }
+        val damageStart = lines.indexOfFirst(::isDamagesHeading)
 
         val damageLines = mutableListOf<String>()
-        var index = damageStart
-        while (index < lines.size) {
-            val currentLine = lines[index]
-            if (index > damageStart && currentLine.startsWith("# ")) {
-                break
+        if (damageStart != -1) {
+            var index = damageStart + 1
+            while (index < lines.size) {
+                val currentLine = lines[index]
+                if (currentLine.startsWith("#")) {
+                    break
+                }
+                damageLines.add(currentLine)
+                index++
             }
-            damageLines.add(currentLine)
-            index++
         }
 
         return buildString {
             appendLine(fileLine)
-            appendLine()
-            append(damageLines.joinToString("\n").trimEnd())
-        }
+            if (damageLines.isNotEmpty()) {
+                appendLine()
+                append(damageLines.joinToString("\n").trimEnd())
+            }
+        }.trimEnd()
+    }
+
+    private fun isDamagesHeading(line: String): Boolean {
+        val headingText = line.trim().removePrefix("#").trim().lowercase()
+        return headingText.contains("schad") &&
+            headingText.contains("tote") &&
+            headingText.contains("verletzte")
     }
 }
 
