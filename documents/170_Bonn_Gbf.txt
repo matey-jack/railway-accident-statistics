@@ -1,791 +1,1257 @@
-Untersuchungsbericht
-Aktenzeichen:
+Untersuchungsbericht 
 
-60uu2015-10/011-3323
+Aktenzeichen: 
 
-Stand:
+60uu2015-10/011-3323 
 
-25.10.2021 Version: 1.0
+Stand: 
 
-Erstveröﬀentlichung:
+25.10.2021     Version:  1.0 
 
-28.10.2021
+Erstveröﬀentlichung:  28.10.2021 
 
-Gefährliches Ereignis im Eisenbahnbetrieb
+Gefährliches	Ereignis	im	Eisenbahnbetrieb 
 
-Ereignisart:
+Ereignisart: 
 
-Zugkollision
+Datum: 
 
-Datum:
+Zeit: 
 
-28.10.2015
+Bahnhof: 
 
-Zeit:
+Gleis: 
 
-05:26 Uhr
+Weiche: 
 
-Bahnhof:
+Zugkollision 
 
-Bonn Gbf
+28.10.2015 
 
-Gleis:
+05:26 Uhr 
 
-233
+Bonn Gbf 
 
-Weiche:
+233 
 
-51
+51 
 
-Untersuchungsbericht
-Zugkollision, 28.10.2015, Bonn Gbf
+	
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Veröﬀentlicht durch:
-Bundesstelle für Eisenbahnunfalluntersuchung
-Heinemannstraße 6
-53175 Bonn
+Zugkollision, 28.10.2015, Bonn Gbf 
 
-Untersuchungsbericht
-Zugkollision, 28.10.2015, Bonn Gbf
+Veröﬀentlicht durch: 
 
-Inhaltsverzeichnis
-I.
+Bundesstelle für Eisenbahnunfalluntersuchung 
 
-Änderungsverzeichnis: .......................................................................................... II
+Heinemannstraße 6 
 
-II.
+53175 Bonn 
 
-Abbildungsverzeichnis: ........................................................................................ III
+ 
+Untersuchungsbericht 
 
-III.
+Zugkollision, 28.10.2015, Bonn Gbf 
 
-Tabellenverzeichnis: ............................................................................................ III
+Inhaltsverzeichnis	
 
-IV.
+I. 
 
-Abkürzungsverzeichnis: ....................................................................................... IV
+II. 
 
-1
+Änderungsverzeichnis: .......................................................................................... II 
 
-Vorbemerkungen .................................................................................................. 1
+Abbildungsverzeichnis: ........................................................................................ III 
 
-1.1
+III. 
 
-Organisatorischer Hinweis ...................................................................................... 1
+Tabellenverzeichnis: ............................................................................................ III 
 
-1.2
+IV. 
 
-Ziel der Eisenbahnunfalluntersuchung.................................................................... 2
+Abkürzungsverzeichnis: ....................................................................................... IV 
 
-2
+1 
 
-Zusammenfassung ................................................................................................ 3
+1.1 
 
-2.1
+1.2 
 
-Kurzbeschreibung des Ereignisses........................................................................... 3
+2 
 
-2.2
+2.1 
 
-Folgen ...................................................................................................................... 3
+2.2 
 
-2.3
+2.3 
 
-Ursachen.................................................................................................................. 3
+2.4 
 
-2.4
+3 
 
-Sicherheitsempfehlungen ....................................................................................... 3
+3.1 
 
-3
+3.2 
 
-Allgemeine Angaben ............................................................................................. 4
+3.3 
 
-3.1
+3.4 
 
-Lage und Beschreibung des Ereignisortes ............................................................... 4
+4 
 
-3.2
+4.1 
 
-Beteiligte und Mitwirkende..................................................................................... 6
+4.2 
 
-3.3
+4.3 
 
-Äußere Bedingungen ............................................................................................... 6
+4.4 
 
-3.4
+4.5 
 
-Todesopfer, Verletzte und Sachschäden................................................................. 6
+4.6 
 
-4
+Vorbemerkungen .................................................................................................. 1 
 
-Untersuchungsprotokoll ....................................................................................... 8
+Organisatorischer Hinweis ...................................................................................... 1 
 
-4.1
+Ziel der Eisenbahnunfalluntersuchung .................................................................... 2 
 
-Zusammenfassung von Aussagen und Stellungnahmen ......................................... 8
+Zusammenfassung ................................................................................................ 3 
 
-4.2
+Kurzbeschreibung des Ereignisses ........................................................................... 3 
 
-Notfallmanagement ................................................................................................ 8
+Folgen ...................................................................................................................... 3 
 
-4.3
+Ursachen .................................................................................................................. 3 
 
-Untersuchung der bautechnischen Infrastruktur ................................................... 8
+Sicherheitsempfehlungen ....................................................................................... 3 
 
-4.4
+Allgemeine Angaben ............................................................................................. 4 
 
-Untersuchung der Leit- und Sicherungstechnik (LST) ........................................... 11
+Lage und Beschreibung des Ereignisortes ............................................................... 4 
 
-4.5
+Beteiligte und Mitwirkende ..................................................................................... 6 
 
-Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers ................. 12
+Äußere Bedingungen ............................................................................................... 6 
 
-4.6
+Todesopfer, Verletzte und Sachschäden ................................................................. 6 
 
-Untersuchung der betrieblichen Abläufe der EVU ................................................ 13
+Untersuchungsprotokoll ....................................................................................... 8 
 
-I
+Zusammenfassung von Aussagen und Stellungnahmen ......................................... 8 
 
-Untersuchungsbericht
-Zugkollision, 28.10.2015, Bonn Gbf
+Notfallmanagement ................................................................................................ 8 
 
-I.
+Untersuchung der bautechnischen Infrastruktur ................................................... 8 
 
-4.6.1
+Untersuchung der Leit- und Sicherungstechnik (LST) ........................................... 11 
 
-EVU SES Aus- und Fortbildung e. K. ....................................................................... 13
+Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers ................. 12 
 
-4.6.2
+Untersuchung der betrieblichen Abläufe der EVU ................................................ 13 
 
-EVU Trans Regio Deutsche Regionalbahn GmbH .................................................. 13
+I 
 
-4.7
+ 
+ 
+Untersuchungsbericht 
 
-Untersuchung von Fahrzeugen ............................................................................. 14
+Zugkollision, 28.10.2015, Bonn Gbf 
 
-5
+4.6.1 
 
-Auswertung ........................................................................................................ 16
+EVU SES Aus- und Fortbildung e. K. ....................................................................... 13 
 
-5.1
+4.6.2 
 
-Ereignisrekonstruktion .......................................................................................... 16
+EVU Trans Regio Deutsche Regionalbahn GmbH .................................................. 13 
 
-5.2
+4.7 
 
-Bewertung und Schlussfolgerung .......................................................................... 16
+5 
 
-6
+5.1 
 
-Bisher getroffene Maßnahmen ........................................................................... 19
+5.2 
 
-7
+6 
 
-Sicherheitsempfehlungen ................................................................................... 19
+7 
 
-Änderungsverzeichnis:
-Änderung
+Untersuchung von Fahrzeugen ............................................................................. 14 
 
-Stand
+Auswertung .................................................................................
 
-II
+....................... 16 
 
-Untersuchungsbericht
-Zugkollision, 28.10.2015, Bonn Gbf
+Ereignisrekonstruktion .................................................................
 
-II.
+......................... 16 
 
-Abbildungsverzeichnis:
-Abbildung 1: Lageplan ................................................................................................................ 5
-Abbildung 2: Gleislageskizze ...................................................................................................... 5
-Abbildung 3: Blick auf die Kollisionsstelle .................................................................................. 7
-Abbildung 4: Gleisanlage vor dem Umbau................................................................................. 9
-Abbildung 5: Gleisanlage nach dem Umbau .............................................................................. 9
-Abbildung 6: Blick aus Gleis 126 in Richtung Weiche 51 ......................................................... 10
-Abbildung 7: Blick aus Richtung Weiche 51 auf das Gleis 126 ................................................. 11
-Abbildung 8: Stelltafel im Stellwerk „Bf“ ................................................................................. 12
-Abbildung 9: Anschriftentafel des Zweiwegebaggers .............................................................. 14
+Bewertung und Schlussfolgerung .......................................................................... 16 
 
-III.
+Bisher getroffene Maßnahmen ........................................................................... 19 
 
-Tabellenverzeichnis:
-Tabelle 1: Übersicht der Personenschäden ............................................................................... 6
-Tabelle 2: Übersicht der geschätzten Schadenshöhe ................................................................ 6
+Sicherheitsempfehlungen ................................................................................... 19 
 
-III
+I.  Änderungsverzeichnis:	
 
-Untersuchungsbericht
-Zugkollision, 28.10.2015, Bonn Gbf
+Änderung 
 
-IV.
+Stand 
 
-Abkürzungsverzeichnis:
-AEG
+II 
 
-Allgemeines Eisenbahngesetz
+ 
+ 
+ 
+ 
+ 
+ 
+	
+	
+Untersuchungsbericht 
 
-Betra
+Zugkollision, 28.10.2015, Bonn Gbf 
 
-Betriebs- und Bauanweisung
+II.  Abbildungsverzeichnis:	
 
-BEU
+Abbildung 1: Lageplan ................................................................................................................ 5 
 
-Bundesstelle für Eisenbahnunfalluntersuchung
+Abbildung 2: Gleislageskizze ...................................................................................................... 5 
 
-BEVVG
+Abbildung 3: Blick auf die Kollisionsstelle .................................................................................. 7 
 
-Bundeseisenbahnverkehrsverwaltungsgesetz
+Abbildung 4: Gleisanlage vor dem Umbau ................................................................................. 9 
 
-Bf
+Abbildung 5: Gleisanlage nach dem Umbau .............................................................................. 9 
 
-Bahnhof
+Abbildung 6: Blick aus Gleis 126 in Richtung Weiche 51 ......................................................... 10 
 
-B
+Abbildung 7: Blick aus Richtung Weiche 51 auf das Gleis 126 ................................................. 11 
 
-Bahnhofsteil
+Abbildung 8: Stelltafel im Stellwerk „Bf“ ................................................................................. 12 
 
-BMVI
+Abbildung 9: Anschriftentafel des Zweiwegebaggers .............................................................. 14 
 
-Bundesministerium für Verkehr und digitale Infrastruktur
+III.  Tabellenverzeichnis:	
 
-Desiro ML
+Tabelle 1: Übersicht der Personenschäden ............................................................................... 6 
 
-Desiro Mainline
+Tabelle 2: Übersicht der geschätzten Schadenshöhe ................................................................ 6 
 
-EFR
+III 
 
-Elektronische Fahrtenregistrierung
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Esig
+Zugkollision, 28.10.2015, Bonn Gbf 
 
-Einfahrsignal
+IV.  Abkürzungsverzeichnis:	
 
-EIU
+AEG 
 
-Eisenbahninfrastrukturunternehmen
+Betra 
 
-EU
+BEU 
 
-Europäische Union
+Allgemeines Eisenbahngesetz 
 
-EUB
+Betriebs- und Bauanweisung 
 
-Eisenbahn-Unfalluntersuchungsstelle des Bundes
+Bundesstelle für Eisenbahnunfalluntersuchung 
 
-EUV
+BEVVG 
 
-Eisenbahn-Unfalluntersuchungsverordnung
+Bundeseisenbahnverkehrsverwaltungsgesetz 
 
-EVU
+Bf 
 
-Eisenbahnverkehrsunternehmen
+B(cid:332) 
 
-Fdl
+Bahnhof 
 
-Fahrdienstleiter
+Bahnhofsteil 
 
-GSM-R
+BMVI 
 
-Global System for Mobile Communica ons – Railway
+Bundesministerium für Verkehr und digitale Infrastruktur 
 
-Ls
+Desiro ML 
 
-Lichtsperrsignal
+Desiro Mainline 
 
-LST
+EFR 
 
-Leit- und Sicherungstechnik
+Esig 
 
-PZB
+EIU 
 
-Punk örmige Zugbeeinflussung
+EU 
 
-Ril
+EUB 
 
-Richtlinie
+EUV 
 
-SMS
+EVU 
 
-Sicherheitsmanagementsystem
+Fdl 
 
-Tf
+Elektronische Fahrtenregistrierung 
 
-Triebfahrzeugführer
+Einfahrsignal 
 
-Tfz
+Eisenbahninfrastrukturunternehmen 
 
-Triebfahrzeug
+Europäische Union 
 
-VzG
+Eisenbahn-Unfalluntersuchungsstelle des Bundes 
 
-Verzeichnis der örtlich zulässigen Geschwindigkeiten
+Eisenbahn-Unfalluntersuchungsverordnung 
 
-IV
+Eisenbahnverkehrsunternehmen 
 
-Untersuchungsbericht
-Zugkollision, 28.10.2015, Bonn Gbf
+Fahrdienstleiter 
 
-1 Vorbemerkungen
-Das Kapitel Vorbemerkungen befasst sich mit allgemeinen Informa onen zur Bundesstelle für
-Eisenbahnunfalluntersuchung (BEU). Dabei wird die gesetzliche Grundlage genannt und die
-Au auorganisa on kurz umrissen.
+GSM-R 
 
-1.1 Organisatorischer Hinweis
-Mit der Richtlinie 2004/49/EG des Europäischen Parlaments und des Rates, über Eisenbahnsicherheit (Eisenbahnsicherheitsrichtlinie), wurden die Mitgliedstaaten der Europäischen Union
-(EU) erstmals verpflichtet, unabhängige Untersuchungsstellen für die Untersuchung bestimmter gefährlicher Ereignisse einzurichten.
-Die Richtlinie wurde mit dem 5. Gesetz zur Änderung eisenbahnrechtlicher Vorschriften vom
-16.04.2007 umgesetzt und die Eisenbahn-Unfalluntersuchungsstelle des Bundes (EUB) eingerichtet.
-Mit dem Gesetz zur Neuordnung der Eisenbahnunfalluntersuchung vom 27.06.2017 wurden
-u. a. die rechtlichen Grundlagen zur Errichtung der Bundesstelle für Eisenbahnunfalluntersuchung (BEU) geschaffen. Hierdurch wurde das Allgemeine Eisenbahngesetz (AEG) und das
-Bundeseisenbahnverkehrsverwaltungsgesetz (BEVVG) geändert, wobei Zuständigkeiten und
-Kompetenzen auf die neue Behörde, die BEU, übertragen wurden. Mit Errichtung der BEU
-wurde die EUB, bestehend aus der Leitung der EUB im Bundesministerium für Verkehr und
-digitale Infrastruktur (BMVI) und der Untersuchungszentrale der EUB im Eisenbahn-Bundesamt (EBA), aufgelöst. Mit dem Organisationserlass des Bundesministeriums für Verkehr und
-digitale Infrastruktur zur Errichtung der Bundesstelle für Eisenbahnunfalluntersuchung vom
-14.07.2017 wurde die BEU als selbstständige Bundesoberbehörde im Geschäftsbereich des
-BMVI zur Erfüllung der Aufgaben nach § 7 BEVVG errichtet. Die Aufgaben zur Untersuchung
-bestimmter gefährlicher Ereignisse im Eisenbahnbetrieb gingen dabei nahtlos von der EUB auf
-die BEU über.
-Da das gefährliche Ereignis vor der Errichtung der BEU eintrat, wurden bestimmte Untersuchungshandlungen noch durch die EUB vorgenommen, auf die im Bericht entsprechend verwiesen wird. Alle während der Untersuchung gewonnenen Erkenntnisse wurden kontinuierlich mit den betroffenen Eisenbahnen und der Sicherheitsbehörde geteilt und einzelfallbezogene Sicherheitsempfehlungen ausgesprochen.
-Näheres hierzu ist im Internet unter www.beu.bund.de eingestellt.
+Global System for Mobile Communica(cid:415)ons – Railway 
 
-Seite 1 von 19
+Ls 
 
-Untersuchungsbericht
-Zugkollision, 28.10.2015, Bonn Gbf
+LST 
 
-1.2 Ziel der Eisenbahnunfalluntersuchung
-Ziel und Zweck der Untersuchungen ist es, die Ursachen von gefährlichen Ereignissen aufzuklären und hieraus Hinweise zur Verbesserung der Sicherheit abzuleiten. Untersuchungen der
-BEU dienen nicht dazu, ein Verschulden festzustellen oder Fragen der Haftung oder sonstiger
-zivilrechtlicher Ansprüche zu klären und werden unabhängig von jeder gerichtlichen Untersuchung durchgeführt.
-Die Untersuchung umfasst die Sammlung und Auswertung von Informationen, die Erarbeitung
-von Schlussfolgerungen einschließlich der Feststellung der Ursachen und gegebenenfalls die
-Abgabe von Sicherheitsempfehlungen. Die Vorschläge der Untersuchungsstelle zur Vermeidung von Unfällen und Verbesserung der Sicherheit im Eisenbahnverkehr werden der Sicherheitsbehörde und, soweit erforderlich, anderen Stellen und Behörden oder anderen Mitgliedstaaten der EU in Form von Sicherheitsempfehlungen mitgeteilt.
+PZB 
 
-Seite 2 von 19
+Ril 
 
-Untersuchungsbericht
-Zugkollision, 28.10.2015, Bonn Gbf
+SMS 
 
-2 Zusammenfassung
-Das Kapitel befasst sich mit einer kurzen Darstellung des Ereignisherganges, den Folgen und
-den Primärursachen. Abschließend werden eventuell erteilte Sicherheitsempfehlungen aufgeführt.
+Tf 
 
-2.1 Kurzbeschreibung des Ereignisses
-Am 28.10.2015 gegen 05:26 Uhr kollidierte der Reisezug DPN 25409 auf der Fahrt von KölnDeutzerfeld nach Koblenz Hbf bei der Einfahrt in den Bahnhof (Bf) Bonn Hbf, Bahnhofsteil (B )
-Bonn Gbf, nach Gleis 205 mit einem aus Gleis 126 kommenden Zweiwegebagger.
+Tfz 
 
-2.2 Folgen
-Personen wurden weder verletzt noch getötet.
-Es entstanden Sachschäden an den Eisenbahnfahrzeugen in Höhe von ca. 60.000 Euro.
+VzG 
 
-2.3 Ursachen
-Der Triebfahrzeugführer (Tf) des in Gleis 126 stehenden Zweiwegebaggers fasste das für Zug
-DPN 25409 Sh 1 zeigende Lichtsperrsignal (Ls) 233 als Zus mmung des Weichenwärters zu
-seiner geplanten Rangierbewegung auf und setzte sich in Bewegung. Dadurch kam es zur Kollision mit dem einfahrenden Zug. Außerdem trugen das Handeln des Fdl und Mängel bei der
-signaltechnischen und betrieblichen Anbindung des Gleises 126 zur Entstehung des Unfalls
-bei.
+Lichtsperrsignal 
 
-2.4 Sicherheitsempfehlungen
-Es wurden keine Sicherheitsempfehlungen ausgesprochen.
+Leit- und Sicherungstechnik 
 
-Seite 3 von 19
+Punk(cid:414)örmige Zugbeeinﬂussung 
 
-Untersuchungsbericht
-Zugkollision, 28.10.2015, Bonn Gbf
+Richtlinie 
 
-3 Allgemeine Angaben
-Das Kapitel beinhaltet allgemeine Angaben zur Beschreibung des Ereignisortes und der relevanten Bahnanlagen. Des Weiteren werden die an der Unfalluntersuchung beteiligten und
-mitwirkenden Stellen, die äußeren Bedingungen, die Anzahl der bei dem Ereignis verletzten
-und getöteten Personen sowie Art und Höhe der Folgeschäden benannt.
+Sicherheitsmanagementsystem 
 
-3.1 Lage und Beschreibung des Ereignisortes
-Die Kollision ereignete sich im Bf Bonn Hbf, B Bonn Gbf auf der Weiche 51. Die DB Netz AG
-ist als Eisenbahninfrastrukturunternehmen (EIU) Betreiberin dieser Infrastruktur. Laut Verzeichnis der örtlich zulässigen Geschwindigkeiten (VzG) liegt der B Bonn Gbf an den Strecken
-2630 von Köln Hbf bis Bingen (Rhein) Hbf und 2645, die von Bonn Hbf bis Euskirchen verläu .
-Auf der Strecke 2630 ist ein Bremsweg von 1000 m und eine Höchstgeschwindigkeit von 160
-km/h zugelassen. Im vorliegenden Fall wurde die Höchstgeschwindigkeit durch ein Hauptsignal auf 40 km/h begrenzt.
-Die Strecke und der Bf verfügen über das Kommunika onsmi el Global System for Mobile
-Communica ons – Railway (GSM-R) und das Zugsicherungssystem der punk örmigen Zugbeeinflussung (PZB). Die beiden folgenden Abbildungen geben einen Überblick zur Lage der Unfallstelle.
+Triebfahrzeugführer 
 
-Seite 4 von 19
+Triebfahrzeug 
 
-Untersuchungsbericht
-Zugkollision, 28.10.2015, Bonn Gbf
+Verzeichnis der örtlich zulässigen Geschwindigkeiten 
 
-Abbildung 1: Lageplan1
+IV 
 
-Abbildung 2: Gleislageskizze2
+ 
+ 
+ 
+Untersuchungsbericht 
 
-1
+Zugkollision, 28.10.2015, Bonn Gbf 
 
-Quelle: Geobasisdaten: © GeoBasis-DE / BKG [2020], bearbeitet durch BEU
+1  Vorbemerkungen	
 
-2
+Das Kapitel Vorbemerkungen befasst sich mit allgemeinen Informa(cid:415)onen zur Bundesstelle für 
 
-Quelle: DB Netz AG, bearbeitet durch BEU
+Eisenbahnunfalluntersuchung (BEU). Dabei wird die gesetzliche Grundlage genannt und die 
 
-Seite 5 von 19
+Au(cid:297)auorganisa(cid:415)on kurz umrissen. 
 
-Untersuchungsbericht
-Zugkollision, 28.10.2015, Bonn Gbf
+1.1  Organisatorischer	Hinweis	
 
-3.2 Beteiligte und Mitwirkende
-Am Ereignis waren folgende Stellen beteiligt:
-
+Mit der Richtlinie 2004/49/EG des Europäischen Parlaments und des Rates, über Eisenbahnsi-
 
-DB Netz AG als EIU
+cherheit (Eisenbahnsicherheitsrichtlinie), wurden die Mitgliedstaaten der Europäischen Union 
 
-
+(EU) erstmals verpflichtet, unabhängige Untersuchungsstellen für die Untersuchung bestimm-
 
-Trans Regio Deutsche Regionalbahn GmbH als Eisenbahnverkehrsunternehmen (EVU)
+ter gefährlicher Ereignisse einzurichten. 
 
-
+Die Richtlinie wurde mit dem 5. Gesetz zur Änderung eisenbahnrechtlicher Vorschriften vom 
 
-SES Aus- und Fortbildung e. K. als EVU
+16.04.2007 umgesetzt und die Eisenbahn-Unfalluntersuchungsstelle des Bundes (EUB) einge-
 
-Im Rahmen der Sachverhaltsermi lung und Ursachenerforschung wurden neben den o. g. Beteiligten keine weiteren Stellen einbezogen.
+richtet. 
 
-3.3 Äußere Bedingungen
-Die äußeren Bedingungen, wie z. B. das We er, standen in keinem erkennbaren kausalen Zusammenhang mit der Ereignisursache.
+Mit dem Gesetz zur Neuordnung der Eisenbahnunfalluntersuchung vom 27.06.2017 wurden 
 
-3.4 Todesopfer, Verletzte und Sachschäden
-Bei dem Ereignis traten folgend aufgeführte Personenschäden ein:
-Anzahl Tote
+u. a. die rechtlichen Grundlagen zur Errichtung der Bundesstelle für Eisenbahnunfalluntersu-
 
-Anzahl schwer Verletzte
+chung  (BEU)  geschaffen.  Hierdurch  wurde  das  Allgemeine  Eisenbahngesetz  (AEG)  und  das 
 
-Anzahl leicht Verletzte
+Bundeseisenbahnverkehrsverwaltungsgesetz (BEVVG) geändert, wobei Zuständigkeiten und 
 
-Reisende
+Kompetenzen  auf  die  neue  Behörde,  die  BEU,  übertragen  wurden.  Mit  Errichtung  der  BEU 
 
--
+wurde die EUB, bestehend aus der Leitung der EUB im Bundesministerium für Verkehr und 
 
--
+digitale Infrastruktur (BMVI) und der Untersuchungszentrale der EUB im Eisenbahn-Bundes-
 
--
+amt (EBA), aufgelöst. Mit dem Organisationserlass des Bundesministeriums für Verkehr und 
 
-Mitarbeiter
+digitale Infrastruktur zur Errichtung der Bundesstelle für Eisenbahnunfalluntersuchung vom 
 
--
+14.07.2017  wurde die BEU als selbstständige Bundesoberbehörde im Geschäftsbereich des 
 
--
+BMVI zur Erfüllung der Aufgaben nach § 7 BEVVG errichtet. Die Aufgaben zur Untersuchung 
 
--
+bestimmter gefährlicher Ereignisse im Eisenbahnbetrieb gingen dabei nahtlos von der EUB auf 
 
-Benutzer von
-Bahnübergängen
+die BEU über. 
 
--
+Da das gefährliche Ereignis vor der Errichtung der BEU eintrat, wurden bestimmte Untersu-
 
--
+chungshandlungen noch durch die EUB vorgenommen, auf die im Bericht entsprechend ver-
 
--
+wiesen wird. Alle während der Untersuchung gewonnenen Erkenntnisse wurden kontinuier-
 
-Dri e
+lich mit den betroffenen Eisenbahnen und der Sicherheitsbehörde geteilt und einzelfallbezo-
 
--
+gene Sicherheitsempfehlungen ausgesprochen. 
 
--
+Näheres hierzu ist im Internet unter www.beu.bund.de eingestellt. 
 
--
+Seite 1 von 19 
 
-Summe
+ 
+ 
+Untersuchungsbericht 
 
-0
+Zugkollision, 28.10.2015, Bonn Gbf 
 
-0
+1.2  Ziel	der	Eisenbahnunfalluntersuchung	
 
-0
+Ziel und Zweck der Untersuchungen ist es, die Ursachen von gefährlichen Ereignissen aufzu-
 
-Tabelle 1: Übersicht der Personenschäden
+klären und hieraus Hinweise zur Verbesserung der Sicherheit abzuleiten. Untersuchungen der 
 
-Die geschätzte Höhe der Sachschäden in Euro setzt sich wie folgt zusammen:
-geschätzte Kosten in Euro
-Fahrzeuge
+BEU dienen nicht dazu, ein Verschulden festzustellen oder Fragen der Haftung oder sonstiger 
 
-60.000
+zivilrechtlicher Ansprüche zu klären und werden unabhängig von jeder gerichtlichen Untersu-
 
-Infrastruktur
+chung durchgeführt. 
 
--
+Die Untersuchung umfasst die Sammlung und Auswertung von Informationen, die Erarbeitung 
 
-Dri e
+von Schlussfolgerungen einschließlich der Feststellung der Ursachen und gegebenenfalls die 
 
--
+Abgabe von Sicherheitsempfehlungen. Die Vorschläge der Untersuchungsstelle zur Vermei-
 
-Gesamtschadenshöhe
+dung von Unfällen und Verbesserung der Sicherheit im Eisenbahnverkehr werden der Sicher-
 
-60.000
+heitsbehörde und, soweit erforderlich, anderen Stellen und Behörden oder anderen Mitglied-
 
-Tabelle 2: Übersicht der geschätzten Schadenshöhe
+staaten der EU in Form von Sicherheitsempfehlungen mitgeteilt. 
 
-Seite 6 von 19
+Seite 2 von 19 
 
-Untersuchungsbericht
-Zugkollision, 28.10.2015, Bonn Gbf
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Die folgende Abbildung zeigt die Unfallstelle und verdeutlicht das Schadensausmaß.
+Zugkollision, 28.10.2015, Bonn Gbf 
 
-Abbildung 3: Blick auf die Kollisionsstelle
+2  Zusammenfassung	
 
-Seite 7 von 19
+Das Kapitel befasst sich mit einer kurzen Darstellung des Ereignisherganges, den Folgen und 
 
-Untersuchungsbericht
-Zugkollision, 28.10.2015, Bonn Gbf
+den Primärursachen. Abschließend werden eventuell erteilte Sicherheitsempfehlungen auf-
 
-4 Untersuchungsprotokoll
-In diesem Kapitel werden die ermi elten Ergebnisse zu einzelnen in Zusammenhang mit dem
-Ereignis stehenden Teilbereichen des Eisenbahnwesens dargestellt. Daneben wurden auch die
-entsprechenden Schni stellen sowie das Sicherheitsmanagement (SMS) im betroﬀenen Bereich betrachtet. Die jeweilig relevanten Erkenntnisse werden fortlaufend aufgeführt.
+geführt. 
 
-4.1 Zusammenfassung von Aussagen und Stellungnahmen
-Der BEU vorliegende Aussagen oder Stellungnahmen am Ereignis beteiligter Personen sind in
-die Ermi lungen mit eingeflossen. Auf einen gesonderten Abdruck wird an dieser Stelle verzichtet.
+2.1  Kurzbeschreibung	des	Ereignisses		
 
-4.2 Notfallmanagement
-Nach § 4 Abs. 3 Allgemeines Eisenbahngesetz (AEG) haben die Eisenbahnen die Verpflichtung,
-an Maßnahmen des Brandschutzes und der technischen Hilfeleistung mitzuwirken. In einer
-Vereinbarung zwischen den Innenministerien der Länder und der DB AG hat man sich auf eine
-Verfahrensweise verständigt. Für die DB Netz AG gelten die entsprechenden Brand- und Katastrophenschutzgesetze der Länder. Das No allmanagement der DB AG ist in der Konzernrichtlinie 123, das der DB Netz AG in der Richtlinie (Ril) 423 näher beschrieben und geregelt.
-Unregelmäßigkeiten oder Verzögerungen in Bezug auf das Einleiten von Re ungsmaßnahmen
-wurden der BEU im Rahmen der Unfalluntersuchung nicht bekannt.
+Am 28.10.2015 gegen 05:26 Uhr kollidierte der Reisezug DPN 25409 auf der Fahrt von Köln-
 
-4.3 Untersuchung der bautechnischen Infrastruktur
-Bei der Untersuchung des Unfalls stellte sich heraus, dass die Gleisanlagen im Bereich der Unfallstelle nicht mit den betrieblichen Unterlagen übereins mmten. Diesen Unterlagen entsprechend endete das Gleis 233 nur wenige Meter hinter der Weiche 51 an einem Gleisabschluss und diente dem Streckschutz. Das Abstellen von Fahrzeugen zwischen der Weiche 51
-und dem Gleisabschluss war verboten. Die Gleisfreimeldeeinrichtung der Weiche 51 machte
-das Fahrtstellen eines Hauptsignals für Zugfahrten über die Weiche 51 unmöglich, wenn dieses Verbot missachtet worden wäre. Im Zuge von Bauarbeiten im Zusammenhang mit dem
-Projekt RB 23 wurde der Gleisabschluss jedoch en ernt und das Gleis wurde als Gleis 126 bis
-zum Gelände eines angrenzenden EIU, der Häfen und Güterverkehr Köln AG (HGK), verlängert.
-Nach Angaben der DB Netz AG war das Anschlussgleis seit 1968 bzw. bereits davor als Verbin-
+Deutzerfeld nach Koblenz Hbf bei der Einfahrt in den Bahnhof (Bf) Bonn Hbf, Bahnhofsteil (B(cid:332)) 
 
-Seite 8 von 19
+Bonn Gbf, nach Gleis 205 mit einem aus Gleis 126 kommenden Zweiwegebagger. 
 
-Untersuchungsbericht
-Zugkollision, 28.10.2015, Bonn Gbf
+2.2  Folgen	
 
-dungsgleis zum sogenannten Vorbahnhof vorhanden. Im Laufe der Zeit wurde dieses Gleis jedoch eingekürzt und durch einen Gleisabschluss hinter der Weiche 51 unterbrochen. Wann
-diese Maßnahme erfolgte, konnte die DB Netz nicht mehr benennen. Gleiches gilt auch für
-den „Lückenschluss“, also der erneuten Verlängerung des Gleises 126 im Rahmen des Projekts
-RB 23. Die BEU konnte im Rahmen der Untersuchungen nicht feststellen, seit wann die Gleisanlage nicht den betrieblichen Unterlagen entsprach. Wie und durch wen der „Lückenschluss“
-ini iert und ausgeführt wurde, war ebenfalls nicht mehr feststellbar. Die folgenden Abbildungen zeigen die Gleisanlagen vor den Umbauten, wie in den betrieblichen Unterlagen zum Unfallzeitpunkt abgebildet, und danach, so wie die Gleisanlage am Unfalltag tatsächlich war.
+Personen wurden weder verletzt noch getötet. 
 
-Abbildung 4: Gleisanlage vor dem Umbau3
+Es entstanden Sachschäden an den Eisenbahnfahrzeugen in Höhe von ca. 60.000 Euro. 
 
-Abbildung 5: Gleisanlage nach dem Umbau4
+2.3  Ursachen	
 
-Nach dem Umbau sollte zur Abriegelung des Gleises 126 in Richtung des Anschlusses ein Signal
-Sh 2, Schutzhalt, ca. 10 m en ernt von der Weiche 51 aufgestellt sein. Nach dem Ereignis
-stellte sich heraus, dass die Sh 2-Scheibe neben dem Gleis, siehe nachfolgende Abbildung 6,
-lag. Wer das Signal Sh 2 wann und aus welchem Grund en ernt ha e, konnte nicht festgestellt
-werden. Für die Fahrtrichtung aus Gleis 126 nach Gleis 233 war oﬀensichtlich keine Abriegelung durch ein Signal Sh 2 vorgesehen, auch wenn dieses eine Flankenschutzeinrichtung nicht
-ersetzt hä e.
+Der Triebfahrzeugführer (Tf) des in Gleis 126 stehenden Zweiwegebaggers fasste das für Zug 
 
-3
+DPN 25409  Sh  1  zeigende  Lichtsperrsignal  (Ls) 233  als  Zus(cid:415)mmung  des  Weichenwärters  zu 
 
-Quelle: DB Netz AG, bearbeitet durch BEU
+seiner geplanten Rangierbewegung auf und setzte sich in Bewegung. Dadurch kam es zur Kol-
 
-4
+lision mit dem einfahrenden Zug. Außerdem trugen das Handeln des Fdl und Mängel bei der 
 
-Quelle: DB Netz AG, bearbeitet durch BEU
+signaltechnischen und betrieblichen Anbindung des Gleises 126 zur Entstehung des Unfalls 
 
-Seite 9 von 19
+bei. 
 
-Untersuchungsbericht
-Zugkollision, 28.10.2015, Bonn Gbf
+2.4  Sicherheitsempfehlungen	
 
-Abbildung 6: Blick aus Gleis 126 in Richtung Weiche 51
+Es wurden keine Sicherheitsempfehlungen ausgesprochen. 
 
-Das Gleis 126 wurde bis zum Unfall im oﬃziellen Bestand der DB Netz AG nicht geführt. Aufgrund dessen bestanden zur Verwendung des Gleises keine Regelungen. Bauliche Anlagen für
-den Flankenschutz waren nicht vorhanden. Die nachfolgende Abbildung zeigt das Gleis 126
-aus Richtung der Unfallstelle und die Verlängerung des Gleises in Richtung des angrenzenden
-EIU.
+Seite 3 von 19 
 
-Seite 10 von 19
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Untersuchungsbericht
-Zugkollision, 28.10.2015, Bonn Gbf
+Zugkollision, 28.10.2015, Bonn Gbf 
 
-Abbildung 7: Blick aus Richtung Weiche 51 auf das Gleis 126
+3  Allgemeine	Angaben	
 
-4.4 Untersuchung der Leit‐ und Sicherungstechnik (LST)
-Das zuständige Stellwerk Bonn Hbf mit der Bezeichnung „Bf“ war ein Spurplan-Stellwerk der
-Bauart Dr S60. Für die Zugfahrt DPN 25409 war eine gesicherte Zugfahrstraße von Gleis 902
-nach Gleis 205 über die Weichen 50 und 51 eingestellt. Das zu dieser Fahrstraße zugehörige
-Einfahrsignal (Esig) A 902 zeigte den Signalbegriﬀ Hp 2, Langsamfahrt und das Ls 233 zeigte
-den Signalbegriﬀ Sh 1, Fahrverbot aufgehoben. Der Zugnummerndrucker registrierte den
-Hal all des Esig A 902 um 05:25 Uhr. Die Hauptgleise des Bf sind mit einer selbs ä gen Gleisfreimeldeeinrichtung ausgerüstet. LST-Anlagen zur Gewährung des Flankenschutzes zwischen
-den Gleisen 126 und dem Verbindungsgleis 233 waren nicht vorhanden. Wie die nachfolgende
-Abbildung zeigt, wurde das Gleis 126 auf der Stelltafel im Stellwerk „Bf“ nicht dargestellt.
+Das Kapitel beinhaltet allgemeine Angaben zur Beschreibung des Ereignisortes und der rele-
 
-Seite 11 von 19
+vanten  Bahnanlagen.  Des  Weiteren  werden  die  an  der  Unfalluntersuchung  beteiligten  und 
 
-Untersuchungsbericht
-Zugkollision, 28.10.2015, Bonn Gbf
+mitwirkenden Stellen, die äußeren Bedingungen, die Anzahl der bei dem Ereignis verletzten 
 
-Abbildung 8: Stelltafel im Stellwerk „Bf“
+und getöteten Personen sowie Art und Höhe der Folgeschäden benannt. 
 
-4.5 Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers
-Das Stellwerk „Bf“ war zum Ereigniszeitpunkt mit zwei Fahrdienstleitern (Fdl), Fdl 1 und Fdl 2,
-besetzt. Beide waren legi miert, ihren Dienst als Fdl auf dem Stellwerk „Bf“ zu verrichten. Das
-betriebliche Regelwerk für die Betriebsabwicklung im Bf Bonn Hbf und auf den angrenzenden
-Strecken stellte die DB-Ril 408.01.-09, Züge fahren und Rangieren, dar.
-In der Nacht vom 27.10.2015 auf den 28.10.2015 war die Betriebs- und Bauanweisung (Betra)
-Nr. F 35167615 in Kra . Die Betra entsprach in ihrem formalen Au au den Forderungen der
-Ril 406, „Baubetriebsplanung, Betra und La“ der DB Netz AG. Es waren Bauarbeiten zwischen
-den Gleisen 202 und 203 im B
+3.1  Lage	und	Beschreibung	des	Ereignisortes	
 
-Bonn Gbf geplant. Die Betra wurde am 27.10.2015 um
+Die Kollision ereignete sich im Bf Bonn Hbf, B(cid:332) Bonn Gbf auf der Weiche 51. Die DB Netz AG 
 
-23:10 Uhr von einem unter Punkt 4.2 in der Betra genannten Technisch Berech gten beim
-Fdl 1 Bonn Hbf angemeldet. Der Fdl sperrte auf Antrag des Technisch Berech gten die Gleise
-202 und 203. Zugfahrten Richtung Köln Hbf und Koblenz führte der Fdl durch den B Bonn
-Gbf, bevorzugt durch die Gleise 205 bis 208, durch.
-Während der Bauarbeiten kam im Gleis 203 ein Zweiwegebagger zum Einsatz. Gegen
-05:15 Uhr traf der Fdl 2 in seiner Funk on als Weichenwärter mit dem Tf des Zweiwegebaggers die Rangiervereinbarung von Gleis 203 nach Gleis 126 im B Bonn Gbf zu rangieren. Für
-das Gleis 126 waren keinerlei betriebliche Regelungen, insbesondere den Flankenschutz betreﬀend, aufgestellt. Das Gleis war in den betrieblichen Unterlagen des Stellwerks „Bf“ nicht
-vorhanden.
+ist  als  Eisenbahninfrastrukturunternehmen  (EIU)  Betreiberin  dieser  Infrastruktur.  Laut  Ver-
 
-Seite 12 von 19
+zeichnis der örtlich zulässigen Geschwindigkeiten (VzG) liegt der B(cid:332) Bonn Gbf an den Strecken 
 
-Untersuchungsbericht
-Zugkollision, 28.10.2015, Bonn Gbf
+2630 von Köln Hbf bis Bingen (Rhein) Hbf und 2645, die von Bonn Hbf bis Euskirchen verläu(cid:332). 
 
-Einige Minuten nach der Ankun im Gleis 126 wollte der Tf zur Weiche 74 umsetzen und
-stellte seine Anfrage an den Fdl. Der Fdl 2 lehnte diese angefragte Rangierfahrt gegenüber
-dem Tf den Angaben nach wie folgt ab.
-„Es wird noch einen Moment dauern, wir haben eine Güterzugfahrt Richtung Köln und die
-Transregio von Roisdorf nähert sich auch bereits. Nach diesen Zugfahrten reden wir wie‐
-der miteinander.“
-Danach stellte der Fdl 1, der das Gespräch des Fdl 2 zuvor mitverfolgte, die signaltechnisch
-gesicherte Einfahrzugstraße für den Zug DPN 25409 nach Gleis 205 ein. Zwischen dem vom
-Zweiwegebagger besetzten Gleis 126 und der Einfahrzugstraße bestand kein Flankenschutz.
+Auf der Strecke 2630 ist ein Bremsweg von 1000 m und eine Höchstgeschwindigkeit von 160 
 
-4.6 Untersuchung der betrieblichen Abläufe der EVU
-Im Folgenden werden die Handlungen der am Ereignis beteiligten EVU separat voneinander
-betrachtet.
-4.6.1 EVU SES Aus‐ und Fortbildung e. K.
-Der Tf des Zweiwegebaggers verfügte über einen gül gen Eisenbahnfahrzeugführerschein
-und das zugehörige Beibla . Er war berech gt, diese Fahrt mit dem Zweiwegebagger durchzuführen.
-Zwecks der gemäß Betra Nr. F 35167615 durchzuführenden Arbeiten befand sich der Zweiwegebagger im Gleis 203. Von dort vereinbarte der Tf, seinen Angaben entsprechend, mit dem
-Fdl Bonn Hbf die Rangierbewegung nach Gleis 126, um dort Baumaterial abzustellen. Nach
-Erhalt der Zus mmung fuhr der Zweiwegebagger bis hinter die Weiche 51. Wenige Minuten
-nach der Ankun bat er den Fdl um Erlaubnis, zum Ausgleisen zur Weiche 74 nahe des Stellwerksgebäudes fahren zu dürfen. Dies wurde ihm nicht gesta et, weil „viel los“ sei. Er habe
-darauf dem Fdl geantwortet, dass dies kein Problem für ihn sei und er sich in 15 Minuten
-nochmals melden wolle. Der Fdl habe ihm geantwortet, dass er das nicht brauche, weil es
-gleich losgehen würde. Als das Ls 233 für die Zugfahrt des DPN 25409 Sh 1 zeigte setzte der Tf
-sein Fahrzeug ohne erneute Rangiervereinbarung in Bewegung. Kurz darauf kollidierte in der
-Folge der Zweiwegbagger mit Zug DPN 25409 auf der Weiche 51.
-4.6.2 EVU Trans Regio Deutsche Regionalbahn GmbH
-Der Tf des Zuges 25409 verfügte über einen gül gen Eisenbahnfahrzeugführerschein und das
-zugehörige Beibla . Er war berech gt, die Zugfahrt durchzuführen.
+km/h zugelassen. Im vorliegenden Fall wurde die Höchstgeschwindigkeit durch ein Hauptsig-
 
-Seite 13 von 19
+nal auf 40 km/h begrenzt. 
 
-Untersuchungsbericht
-Zugkollision, 28.10.2015, Bonn Gbf
+Die Strecke und der Bf verfügen über das Kommunika(cid:415)onsmi(cid:425)el Global System for Mobile 
 
-Der DPN 25409 näherte sich dem Esig A 902 mit einer Geschwindigkeit von ca. 40 km/h. Auf
-Höhe des Esig bediente der Tf bei einer Geschwindigkeit von 39 km/h die Wachsamkeitstaste
-(Hp 2 mit Vr 0/Vr 2). Während der Einfahrt in den B Bonn Gbf bemerkte der Tf, seinen Äußerungen zufolge, dass sich der Zweiwegebagger in Bewegung setzte und dabei seinen Fahrweg
-kreuzte. Der Tf leitete darau in sofort eine Schnellbremsung ein, konnte jedoch die Kollision
-nicht mehr verhindern. Nach dem Aufprall setzte der Tf einen Nothaltau rag ab. Die Auswertung der elektronischen Fahrdaten belegten die Angaben des Tf hinsichtlich der Schnellbremsung. Die zulässige Geschwindigkeit wurde durch den Tf nicht überschri en.
+Communica(cid:415)ons – Railway (GSM-R) und das Zugsicherungssystem der punk(cid:414)örmigen Zugbe-
 
-4.7 Untersuchung von Fahrzeugen
-Im folgenden Kapitel wird die Zusammensetzung der an der Kollision beteiligten Fahrzeuge
-dargestellt.
-Aus der nachfolgenden Abbildung lassen sich die technischen Fahrzeugdaten des Zweiwegebaggers entnehmen. Eine Abnahme nach § 32 Abs. 1 EBO des Eisenbahn-Bundesamtes lag für
-das Fahrzeug vor.
+einﬂussung (PZB). Die beiden folgenden Abbildungen geben einen Überblick zur Lage der Un-
 
-Abbildung 9: Anschri entafel des Zweiwegebaggers
+fallstelle. 
 
-Der DPN 25409 war als elektrisch angetriebener Triebzug der BR 460 des Typs Desiro Mainline
-(Desiro ML) aus drei Einzelwagen modular aufgebaut. Die beiden Endwagen wurden angetrieben und verfügten jeweils über eine Fahrzeuglänge von 24,21 m. Der Mi elwagen wies eine
+Seite 4 von 19 
 
-Seite 14 von 19
+ 
+ 
+Untersuchungsbericht 
 
-Untersuchungsbericht
-Zugkollision, 28.10.2015, Bonn Gbf
+Zugkollision, 28.10.2015, Bonn Gbf 
 
-Länge von 22,51 m auf. In Gänze betrug die Fahrzeuglänge über Kupplung 70,93 m. Das führende Fahrzeug ha e die Fahrzeugnummer 94 80 0460 005-2. Es folgte der Wagen mit der
-Nummer 94 80 0860 005-8 als Mi elwagen und als letzter der mit der Nummer 94 80 0460
-505-1.
-Auf eine umfassende fahrzeugtechnische Untersuchung der am Ereignis beteiligten Eisenbahnfahrzeuge konnte verzichtet werden, da die Ereignisursache nicht im Bereich der Eisenbahnfahrzeuge lag.
+Abbildung 1: Lageplan1 
 
-Seite 15 von 19
+Abbildung 2: Gleislageskizze2 
 
-Untersuchungsbericht
-Zugkollision, 28.10.2015, Bonn Gbf
+1 Quelle: Geobasisdaten: © GeoBasis-DE / BKG [2020], bearbeitet durch BEU 
 
-5 Auswertung
-Das Kapitel 5 Auswertung befasst sich mit der Ereignisrekonstruk on. Anhand der oben genannten Feststellungen wird ein plausibler Ablauf des gefährlichen Ereignisses zusammengetragen. Relevante Erkenntnisse werden anschließend bewertet und führen ggf. zu entsprechenden Schlussfolgerungen.
+2 Quelle: DB Netz AG, bearbeitet durch BEU 
 
-5.1 Ereignisrekonstruktion
-Im Zuge von Gleisbauarbeiten mussten Zugfahrten zwischen Köln Hbf und Koblenz in der
-Nacht vom 27.10.2015 auf den 28.10.2015 durch die Gleise 205 bis 208 des B Bonn Gbf
-durchgeführt werden. Um 05:15 Uhr vereinbarte der Tf des Zweiwegebaggers mit dem Fdl
-eine Rangierbewegung in das Gleis 126. Dieser s mmte der Fdl zu. Gegen 05:20 Uhr fragte der
-Tf beim Fdl an, ob er zur Weiche 74 umsetzen dürfe. Diese Rangierbewegung ließ der Fdl nicht
-zu, da u. a. erst die Zugfahrt DPN 25409 sta inden sollte. Der Fdl stellte die Zugfahrtstraße
-für den DPN 25409 von Gleis 902 nach Gleis 205 ein und das Esig A 902 auf Fahrt.
-Als dabei das zu dieser Fahrstraße zugehörige Ls 233 Sh 1 zeigte, nahm der Tf des Zweiwegebaggers dieses Signal als Zus mmung zu seiner geplanten Rangierfahrt auf und setzte sein
-Fahrzeug in Bewegung. Kurz zuvor war DPN 25409 am Esig A 902 vorbeigefahren und kollidierte gegen 05:26 Uhr mit dem Zweiwegebagger in der Weiche 51.
+Seite 5 von 19 
 
-5.2 Bewertung und Schlussfolgerung
-Ausgelöst wurde die Zugkollision durch Fehlhandlungen der am Bahnbetrieb unmi elbar beteiligten Mitarbeiter, begüns gt durch die unterlassene signaltechnische und betriebliche Anbindung des Gleises 126 an den B Gbf seitens der DB Netz AG.
-Das Handeln des Fdl 1 trug zur Entstehung des Unfalls bei, da das vom Zweiwegebagger besetzte Gleis 126 keinen Flankenschutz für die Einfahrzugstraße des DPN 25409 bot.
-Der Zweiwegebagger stand bei der Einfahrt des DPN 25409 nach Gleis 205 im Gleis 126 hinter
-der Gleisisolierung der Weiche 51. Das Gleis 126 mündete ohne Flankenschutz in die Einfahrzugstraße des DPN 25409. Der Fdl darf seine Zus mmung zur Einfahrt in einen Gleisabschni
-nach den Regelungen der DB-Ril 408.0231 u. a. nur dann geben, wenn dieser frei von Fahrzeugen ist und Fahrtbewegungen von Fahrzeugen, die diese einfahrende Zugfahrt gefährden können, eingestellt sind.
+ 
+ 
+ 
+ 
+                                                       
+Untersuchungsbericht 
 
-Seite 16 von 19
+Zugkollision, 28.10.2015, Bonn Gbf 
 
-Untersuchungsbericht
-Zugkollision, 28.10.2015, Bonn Gbf
+3.2  Beteiligte	und	Mitwirkende	
 
-Ein Abstellen von Fahrzeugen war nach den Vorgaben der DB-Ril 408.0851 Abschni 7 zwischen Flankenschutzeinrichtung und dem Grenzzeichen einer Weiche oder Kreuzung im Fahrweg nicht erlaubt. In der Betra waren hierzu keine abweichenden Regelungen getroﬀen. In
-den Örtlichen Richtlinien des Stellwerks Bonn Hbf waren keine Angaben hinsichtlich der Nutzung für das Gleis 126 getroﬀen. Auch wenn der Fdl die vom Tf geplante Rangierfahrt ablehnte
-und er davon ausging, dass sich der Zweiwegebagger nicht bewegt, so stellte alleine die Tatsache, dass der Zweiwegebagger im Gleis 126 stand schon eine ausreichend große potenzielle
-Gefährdung für eine Zugfahrt im Gleis 233 dar.
-Der Tf des in Gleis 126 stehenden Zweiwegebaggers beging einen Fehler, als er das Sh 1 zeigende Ls 233 irrtümlich als Zus mmung des Weichenwärters zu seiner geplanten Rangierfahrt
-zur Ausgleisstelle an der Weiche 74 wertete und sein Fahrzeug darau in ohne Rangiervereinbarung in Bewegung setzte. Dieser Arbeitsfehler des Tf des Zweiwegebaggers ha e einen ursächlichen Einfluss auf die Entstehung des Unfalls. Leider standen der BEU keine Sprachaufzeichnungen über das zwischen dem Fdl 2 und dem Tf des Zweiwegebaggers geführte Gespräch zur Verfügung. Dadurch ließ sich nicht zweifelsfrei klären, wie das Gespräch zur Ablehnung der Rangierfahrt wirklich verlief. Denn hierzu unterscheiden sich die Angaben der Beteiligten wesentlich. Die Fdl gaben an, dass man nach Durchführung der anstehenden Zugfahrten
-erneut mit dem Tf reden wollte. Der Tf hingegen gab an, dass ein erneutes Gespräch lt. Angabe
-des Fdl nicht notwendig sei, weil es gleich losgehen würde. Sollte die Darstellung des Tf s mmen, dann wäre dessen Handlungsweise nachvollziehbar. Er bezog das Ls 233 auf sich und
-fuhr los als das Signal Sh 1 zeigte.
-Das Handeln des am Ereignis beteiligten Tf des DPN 25409 ha e keinen ursächlichen Einfluss
-auf die Entstehung des Unfalls. Durch seine unmi elbar eingeleitete Schnellbremsung beim
-Erkennen der Gefahr wurden die Folgeschäden der Kollision abgemildert.
-Begüns gt wurden die Fehler des Tf des Zweiwegebaggers und der Fdl dadurch, dass die betrieblichen und sicherungstechnischen Voraussetzungen nicht geschaﬀen waren. Es war kein
-mi elbarer Flankenschutz vorhanden. Nach Verlängerung des Stumpfgleises wurden keinerlei
-betriebliche Regelungen getroﬀen, wie mit diesem Gleis umzugehen ist. Dieses Defizit in den
-betrieblichen Unterlagen wurde durch die Aufsichtsführenden der DB Netz AG, z. B. bei Betriebskontrollen im Stellwerk und der Außenanlagen, oﬀensichtlich nicht bemerkt. Auch im
-Rahmen der Betra-Vorbereitung hä en diese Abweichungen, z. B. bei der Einweisung des
-Technisch Berech gten, der Einweisung des Tf des Zweiwegebaggers oder der Tä gkeit des
-Seite 17 von 19
+Am Ereignis waren folgende Stellen beteiligt: 
 
-Untersuchungsbericht
-Zugkollision, 28.10.2015, Bonn Gbf
+  DB Netz AG als EIU 
 
-Bauüberwachers auﬀallen können. Mit der Anbindung des Anschlussgleises wurden die Flankenschutzgrundsätze missachtet und damit war eine mögliche Betriebsgefahr nicht ausgeschlossen. Die zur Abriegelung des Anschlusses vorgesehene Sh 2-Scheibe konnte diese Gefahr nicht mindern, da diese nur in Richtung des Anschlusses galt und zudem leicht zu en ernen war. Ob das Signal wegen der Bauarbeiten en ernt wurde oder schon länger neben dem
-Gleis lag, konnte nicht geklärt werden. Die Betra sah eine Nutzung des Gleises 126 jedenfalls
-nicht vor. Den Fdl muss das verlängerte Gleis und die en ernte Sh 2-Scheibe bekannt gewesen
-sein. Nur so war es möglich, dass ein Fahrzeug nach Gleis 126 einfahren, den Isolierkreis der
-Weiche 51 freifahren und das Esig A 902 für eine Fahrt nach Gleis 205 auf Fahrt gestellt werden konnte.
+  Trans Regio Deutsche Regionalbahn GmbH als Eisenbahnverkehrsunternehmen (EVU) 
 
-Seite 18 von 19
+  SES Aus- und Fortbildung e. K. als EVU 
 
-Untersuchungsbericht
-Zugkollision, 28.10.2015, Bonn Gbf
+Im Rahmen der Sachverhaltsermi(cid:425)lung und Ursachenerforschung wurden neben den o. g. Be-
 
-6 Bisher getroffene Maßnahmen
-Seitens des EIU DB Netz AG wurde im Zuge von Umbauten im B Bonn Gbf in Gleis 126 eine
-fernbedienbare Gleissperre eingebaut und ein hochstehendes Ls errichtet. Ein Befahren dieses Gleises ist nur noch im Rahmen von Baumaßnahmen zulässig, wenn dies laut Vorgaben
-der Betra unbedingt erforderlich ist.
+teiligten keine weiteren Stellen einbezogen. 
 
-7 Sicherheitsempfehlungen
-Es wurden keine Sicherheitsempfehlungen ausgesprochen.
+3.3  Äußere	Bedingungen		
 
-Seite 19 von 19
+Die äußeren Bedingungen, wie z. B. das We(cid:425)er, standen in keinem erkennbaren kausalen Zu-
 
+sammenhang mit der Ereignisursache. 
+
+3.4  Todesopfer,	Verletzte	und	Sachschäden	
+
+Bei dem Ereignis traten folgend aufgeführte Personenschäden ein: 
+
+Anzahl Tote 
+
+Anzahl schwer Verletzte  Anzahl leicht Verletzte 
+
+Reisende 
+
+Mitarbeiter 
+
+Benutzer von 
+Bahnübergängen 
+
+Dri(cid:425)e 
+
+Summe 
+
+- 
+
+- 
+
+- 
+
+- 
+
+0 
+
+Tabelle 1: Übersicht der Personenschäden 
+
+- 
+
+- 
+
+- 
+
+- 
+
+0 
+
+- 
+
+- 
+
+- 
+
+- 
+
+0 
+
+Die geschätzte Höhe der Sachschäden in Euro setzt sich wie folgt zusammen: 
+
+Fahrzeuge 
+
+Infrastruktur 
+
+Dri(cid:425)e 
+
+geschätzte Kosten in Euro 
+
+60.000 
+
+- 
+
+- 
+
+Gesamtschadenshöhe 
+
+60.000 
+
+Tabelle 2: Übersicht der geschätzten Schadenshöhe 
+
+Seite 6 von 19 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 28.10.2015, Bonn Gbf 
+
+Die folgende Abbildung zeigt die Unfallstelle und verdeutlicht das Schadensausmaß. 
+
+Abbildung 3: Blick auf die Kollisionsstelle 
+
+Seite 7 von 19 
+
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 28.10.2015, Bonn Gbf 
+
+4  Untersuchungsprotokoll	
+
+In diesem Kapitel werden die ermi(cid:425)elten Ergebnisse zu einzelnen in Zusammenhang mit dem 
+
+Ereignis stehenden Teilbereichen des Eisenbahnwesens dargestellt. Daneben wurden auch die 
+
+entsprechenden Schni(cid:425)stellen sowie das Sicherheitsmanagement (SMS) im betroﬀenen Be-
+
+reich betrachtet. Die jeweilig relevanten Erkenntnisse werden fortlaufend aufgeführt. 
+
+4.1  Zusammenfassung	von	Aussagen	und	Stellungnahmen	
+
+Der BEU vorliegende Aussagen oder Stellungnahmen am Ereignis beteiligter Personen sind in 
+
+die Ermi(cid:425)lungen mit eingeﬂossen. Auf einen gesonderten Abdruck wird an dieser Stelle ver-
+
+zichtet. 
+
+4.2  Notfallmanagement	
+
+Nach § 4 Abs. 3 Allgemeines Eisenbahngesetz (AEG) haben die Eisenbahnen die Verpﬂichtung, 
+
+an Maßnahmen des Brandschutzes und der technischen Hilfeleistung mitzuwirken. In einer 
+
+Vereinbarung zwischen den Innenministerien der Länder und der DB AG hat man sich auf eine 
+
+Verfahrensweise verständigt. Für die DB Netz AG gelten die entsprechenden Brand- und Ka-
+
+tastrophenschutzgesetze der Länder. Das No(cid:414)allmanagement der DB AG ist in der Konzern-
+
+richtlinie 123, das der DB Netz AG in der Richtlinie (Ril) 423 näher beschrieben und geregelt. 
+
+Unregelmäßigkeiten oder Verzögerungen in Bezug auf das Einleiten von Re(cid:425)ungsmaßnahmen 
+
+wurden der BEU im Rahmen der Unfalluntersuchung nicht bekannt. 
+
+4.3  Untersuchung	der	bautechnischen	Infrastruktur	
+
+Bei der Untersuchung des Unfalls stellte sich heraus, dass die Gleisanlagen im Bereich der Un-
+
+fallstelle  nicht  mit  den  betrieblichen  Unterlagen  übereins(cid:415)mmten.  Diesen  Unterlagen  ent-
+
+sprechend endete das Gleis 233 nur wenige Meter hinter der Weiche 51 an einem Gleisab-
+
+schluss und diente dem Streckschutz. Das Abstellen von Fahrzeugen zwischen der Weiche 51 
+
+und dem Gleisabschluss war verboten. Die Gleisfreimeldeeinrichtung der Weiche 51 machte 
+
+das Fahrtstellen eines Hauptsignals für Zugfahrten über die Weiche 51 unmöglich, wenn die-
+
+ses Verbot missachtet worden wäre. Im Zuge von Bauarbeiten im Zusammenhang mit dem 
+
+Projekt RB 23 wurde der Gleisabschluss jedoch en(cid:414)ernt und das Gleis wurde als Gleis 126 bis 
+
+zum Gelände eines angrenzenden EIU, der Häfen und Güterverkehr Köln AG (HGK), verlängert. 
+
+Nach Angaben der DB Netz AG war das Anschlussgleis seit 1968 bzw. bereits davor als Verbin-
+
+Seite 8 von 19 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 28.10.2015, Bonn Gbf 
+
+dungsgleis zum sogenannten Vorbahnhof vorhanden. Im Laufe der Zeit wurde dieses Gleis je-
+
+doch eingekürzt und durch einen Gleisabschluss hinter der Weiche 51 unterbrochen. Wann 
+
+diese Maßnahme erfolgte, konnte die DB Netz nicht mehr benennen. Gleiches gilt auch für 
+
+den „Lückenschluss“, also der erneuten Verlängerung des Gleises 126 im Rahmen des Projekts 
+
+RB 23. Die BEU konnte im Rahmen der Untersuchungen nicht feststellen, seit wann die Gleis-
+
+anlage nicht den betrieblichen Unterlagen entsprach. Wie und durch wen der „Lückenschluss“ 
+
+ini(cid:415)iert und ausgeführt wurde, war ebenfalls nicht mehr feststellbar. Die folgenden Abbildun-
+
+gen zeigen die Gleisanlagen vor den Umbauten, wie in den betrieblichen Unterlagen zum Un-
+
+fallzeitpunkt abgebildet, und danach, so wie die Gleisanlage am Unfalltag tatsächlich war. 
+
+Abbildung 4: Gleisanlage vor dem Umbau3 
+
+Abbildung 5: Gleisanlage nach dem Umbau4 
+
+Nach dem Umbau sollte zur Abriegelung des Gleises 126 in Richtung des Anschlusses ein Signal 
+
+Sh 2,  Schutzhalt,  ca. 10  m  en(cid:414)ernt  von  der  Weiche  51  aufgestellt  sein.  Nach  dem  Ereignis 
+
+stellte sich heraus, dass die Sh 2-Scheibe neben dem Gleis, siehe nachfolgende Abbildung 6, 
+
+lag. Wer das Signal Sh 2 wann und aus welchem Grund en(cid:414)ernt ha(cid:425)e, konnte nicht festgestellt 
+
+werden. Für die Fahrtrichtung aus Gleis 126 nach Gleis 233 war oﬀensichtlich keine Abriege-
+
+lung durch ein Signal Sh 2 vorgesehen, auch wenn dieses eine Flankenschutzeinrichtung nicht 
+
+ersetzt hä(cid:425)e. 
+
+3 Quelle: DB Netz AG, bearbeitet durch BEU 
+
+4 Quelle: DB Netz AG, bearbeitet durch BEU 
+
+Seite 9 von 19 
+
+ 
+ 
+ 
+ 
+ 
+                                                       
+Untersuchungsbericht 
+
+Zugkollision, 28.10.2015, Bonn Gbf 
+
+Abbildung 6: Blick aus Gleis 126 in Richtung Weiche 51 
+
+Das Gleis 126 wurde bis zum Unfall im oﬃziellen Bestand der DB Netz AG nicht geführt. Auf-
+
+grund dessen bestanden zur Verwendung des Gleises keine Regelungen. Bauliche Anlagen für 
+
+den Flankenschutz waren nicht vorhanden. Die nachfolgende Abbildung zeigt das Gleis 126 
+
+aus Richtung der Unfallstelle und die Verlängerung des Gleises in Richtung des angrenzenden 
+
+EIU. 
+
+Seite 10 von 19 
+
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 28.10.2015, Bonn Gbf 
+
+Abbildung 7: Blick aus Richtung Weiche 51 auf das Gleis 126 
+
+4.4  Untersuchung	der	Leit‐	und	Sicherungstechnik	(LST)	
+
+Das zuständige Stellwerk Bonn Hbf mit der Bezeichnung „Bf“ war ein Spurplan-Stellwerk der 
+
+Bauart Dr S60. Für die Zugfahrt DPN 25409 war eine gesicherte Zugfahrstraße von Gleis 902 
+
+nach Gleis 205 über die Weichen 50 und 51 eingestellt. Das zu dieser Fahrstraße zugehörige 
+
+Einfahrsignal (Esig) A 902 zeigte den Signalbegriﬀ Hp 2, Langsamfahrt und das Ls 233 zeigte 
+
+den  Signalbegriﬀ  Sh 1,  Fahrverbot  aufgehoben.  Der  Zugnummerndrucker  registrierte  den 
+
+Hal(cid:414)all des Esig A 902 um 05:25 Uhr. Die Hauptgleise des Bf sind mit einer selbs(cid:425)ä(cid:415)gen Gleis-
+
+freimeldeeinrichtung ausgerüstet. LST-Anlagen zur Gewährung des Flankenschutzes zwischen 
+
+den Gleisen 126 und dem Verbindungsgleis 233 waren nicht vorhanden. Wie die nachfolgende 
+
+Abbildung zeigt, wurde das Gleis 126 auf der Stelltafel im Stellwerk „Bf“ nicht dargestellt. 
+
+Seite 11 von 19 
+
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 28.10.2015, Bonn Gbf 
+
+Abbildung 8: Stelltafel im Stellwerk „Bf“ 
+
+4.5  Untersuchung	der	betrieblichen	Abläufe	des	Infrastrukturbetreibers	
+
+Das Stellwerk „Bf“ war zum Ereigniszeitpunkt mit zwei Fahrdienstleitern (Fdl), Fdl 1 und Fdl 2, 
+
+besetzt. Beide waren legi(cid:415)miert, ihren Dienst als Fdl auf dem Stellwerk „Bf“ zu verrichten. Das 
+
+betriebliche Regelwerk für die Betriebsabwicklung im Bf Bonn Hbf und auf den angrenzenden 
+
+Strecken stellte die DB-Ril 408.01.-09, Züge fahren und Rangieren, dar. 
+
+In der Nacht vom 27.10.2015 auf den 28.10.2015 war die Betriebs- und Bauanweisung (Betra) 
+
+Nr. F 35167615 in Kra(cid:332). Die Betra entsprach in ihrem formalen Au(cid:297)au den Forderungen der 
+
+Ril 406, „Baubetriebsplanung, Betra und La“ der DB Netz AG. Es waren Bauarbeiten zwischen 
+
+den  Gleisen  202  und  203  im  B(cid:332)  Bonn  Gbf  geplant.  Die  Betra  wurde  am  27.10.2015  um 
+
+23:10 Uhr von einem unter Punkt 4.2 in der Betra genannten Technisch Berech(cid:415)gten beim 
+
+Fdl 1 Bonn Hbf angemeldet. Der Fdl sperrte auf Antrag des Technisch Berech(cid:415)gten die Gleise 
+
+202 und 203. Zugfahrten Richtung Köln Hbf und Koblenz führte der Fdl durch den B(cid:332) Bonn 
+
+Gbf, bevorzugt durch die Gleise 205 bis 208, durch. 
+
+Während  der  Bauarbeiten  kam  im  Gleis  203  ein  Zweiwegebagger  zum  Einsatz.  Gegen 
+
+05:15 Uhr traf der Fdl 2 in seiner Funk(cid:415)on als Weichenwärter mit dem Tf des Zweiwegebag-
+
+gers die Rangiervereinbarung von Gleis 203 nach Gleis 126 im B(cid:332) Bonn Gbf zu rangieren. Für 
+
+das Gleis 126 waren keinerlei betriebliche Regelungen, insbesondere den Flankenschutz be-
+
+treﬀend, aufgestellt. Das Gleis war in den betrieblichen Unterlagen des Stellwerks „Bf“ nicht 
+
+vorhanden. 
+
+Seite 12 von 19 
+
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 28.10.2015, Bonn Gbf 
+
+Einige  Minuten  nach  der  Ankun(cid:332)  im  Gleis  126  wollte  der  Tf  zur  Weiche  74  umsetzen  und 
+
+stellte seine Anfrage an den Fdl. Der Fdl 2 lehnte diese angefragte Rangierfahrt gegenüber 
+
+dem Tf den Angaben nach wie folgt ab. 
+
+„Es wird noch einen Moment dauern, wir haben eine Güterzugfahrt Richtung Köln und die 
+
+Transregio von Roisdorf nähert sich auch bereits. Nach diesen Zugfahrten reden wir wie‐
+
+der miteinander.“ 
+
+Danach stellte der Fdl 1, der das Gespräch des Fdl 2 zuvor mitverfolgte, die signaltechnisch 
+
+gesicherte Einfahrzugstraße für den Zug DPN 25409 nach Gleis 205 ein. Zwischen dem vom 
+
+Zweiwegebagger besetzten Gleis 126 und der Einfahrzugstraße bestand kein Flankenschutz. 
+
+4.6  Untersuchung	der	betrieblichen	Abläufe	der	EVU	
+
+Im Folgenden werden die Handlungen der am Ereignis beteiligten EVU separat voneinander 
+
+betrachtet. 
+
+4.6.1  EVU	SES	Aus‐	und	Fortbildung	e.	K.	
+
+Der  Tf  des  Zweiwegebaggers  verfügte  über  einen  gül(cid:415)gen  Eisenbahnfahrzeugführerschein 
+
+und das zugehörige Beibla(cid:425). Er war berech(cid:415)gt, diese Fahrt mit dem Zweiwegebagger durch-
+
+zuführen. 
+
+Zwecks der gemäß Betra Nr. F 35167615 durchzuführenden Arbeiten befand sich der Zweiwe-
+
+gebagger im Gleis 203. Von dort vereinbarte der Tf, seinen Angaben entsprechend, mit dem 
+
+Fdl Bonn Hbf die Rangierbewegung nach Gleis 126, um dort Baumaterial abzustellen. Nach 
+
+Erhalt der Zus(cid:415)mmung fuhr der Zweiwegebagger bis hinter die Weiche 51. Wenige Minuten 
+
+nach der Ankun(cid:332) bat er den Fdl um Erlaubnis, zum Ausgleisen zur Weiche 74 nahe des Stell-
+
+werksgebäudes fahren zu dürfen. Dies wurde ihm nicht gesta(cid:425)et, weil „viel los“ sei. Er habe 
+
+darauf  dem  Fdl  geantwortet,  dass  dies  kein  Problem  für  ihn  sei  und  er  sich  in  15 Minuten 
+
+nochmals melden wolle. Der Fdl habe ihm geantwortet, dass er das nicht brauche, weil  es 
+
+gleich losgehen würde. Als das Ls 233 für die Zugfahrt des DPN 25409 Sh 1 zeigte setzte der Tf 
+
+sein Fahrzeug ohne erneute Rangiervereinbarung in Bewegung. Kurz darauf kollidierte in der 
+
+Folge der Zweiwegbagger mit Zug DPN 25409 auf der Weiche 51. 
+
+4.6.2  EVU	Trans	Regio	Deutsche	Regionalbahn	GmbH		
+
+Der Tf des Zuges 25409 verfügte über einen gül(cid:415)gen Eisenbahnfahrzeugführerschein und das 
+
+zugehörige Beibla(cid:425). Er war berech(cid:415)gt, die Zugfahrt durchzuführen. 
+
+Seite 13 von 19 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 28.10.2015, Bonn Gbf 
+
+Der DPN 25409 näherte sich dem Esig A 902 mit einer Geschwindigkeit von ca. 40 km/h. Auf 
+
+Höhe des Esig bediente der Tf bei einer Geschwindigkeit von 39 km/h die Wachsamkeitstaste 
+
+(Hp 2 mit Vr 0/Vr 2). Während der Einfahrt in den B(cid:332) Bonn Gbf bemerkte der Tf, seinen Äuße-
+
+rungen zufolge, dass sich der Zweiwegebagger in Bewegung setzte und dabei seinen Fahrweg 
+
+kreuzte. Der Tf leitete darau(cid:300)in sofort eine Schnellbremsung ein, konnte jedoch die Kollision 
+
+nicht mehr verhindern. Nach dem Aufprall setzte der Tf einen Nothaltau(cid:332)rag ab. Die Auswer-
+
+tung der elektronischen Fahrdaten belegten die Angaben des Tf hinsichtlich der Schnellbrem-
+
+sung. Die zulässige Geschwindigkeit wurde durch den Tf nicht überschri(cid:425)en. 
+
+4.7  Untersuchung	von	Fahrzeugen	
+
+Im folgenden Kapitel wird die Zusammensetzung der an der Kollision beteiligten Fahrzeuge 
+
+dargestellt. 
+
+Aus der nachfolgenden Abbildung lassen sich die technischen Fahrzeugdaten des Zweiwege-
+
+baggers entnehmen. Eine Abnahme nach § 32 Abs. 1 EBO des Eisenbahn-Bundesamtes lag für 
+
+das Fahrzeug vor. 
+
+Abbildung 9: Anschri(cid:332)entafel des Zweiwegebaggers 
+
+Der DPN 25409 war als elektrisch angetriebener Triebzug der BR 460 des Typs Desiro Mainline 
+
+(Desiro ML) aus drei Einzelwagen modular aufgebaut. Die beiden Endwagen wurden angetrie-
+
+ben und verfügten jeweils über eine Fahrzeuglänge von 24,21 m. Der Mi(cid:425)elwagen wies eine 
+
+Seite 14 von 19 
+
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 28.10.2015, Bonn Gbf 
+
+Länge von 22,51 m auf. In Gänze betrug die Fahrzeuglänge über Kupplung 70,93 m. Das füh-
+
+rende Fahrzeug ha(cid:425)e die Fahrzeugnummer 94 80 0460 005-2. Es folgte der Wagen mit der 
+
+Nummer 94 80 0860 005-8 als Mi(cid:425)elwagen und als letzter der mit der Nummer 94 80 0460 
+
+505-1. 
+
+Auf  eine  umfassende  fahrzeugtechnische  Untersuchung  der  am  Ereignis  beteiligten  Eisen-
+
+bahnfahrzeuge konnte verzichtet werden, da die Ereignisursache nicht im Bereich der Eisen-
+
+bahnfahrzeuge lag. 
+
+Seite 15 von 19 
+
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 28.10.2015, Bonn Gbf 
+
+5  Auswertung	
+
+Das Kapitel 5 Auswertung befasst sich mit der Ereignisrekonstruk(cid:415)on. Anhand der oben ge-
+
+nannten Feststellungen wird ein plausibler Ablauf des gefährlichen Ereignisses zusammenge-
+
+tragen. Relevante Erkenntnisse werden anschließend bewertet und führen ggf. zu entspre-
+
+chenden Schlussfolgerungen. 
+
+5.1  Ereignisrekonstruktion	
+
+Im  Zuge  von  Gleisbauarbeiten  mussten  Zugfahrten  zwischen  Köln  Hbf  und  Koblenz  in  der 
+
+Nacht  vom  27.10.2015  auf  den  28.10.2015  durch  die  Gleise  205  bis  208  des  B(cid:332)  Bonn  Gbf 
+
+durchgeführt werden. Um 05:15 Uhr vereinbarte der Tf des Zweiwegebaggers mit dem Fdl 
+
+eine Rangierbewegung in das Gleis 126. Dieser s(cid:415)mmte der Fdl zu. Gegen 05:20 Uhr fragte der 
+
+Tf beim Fdl an, ob er zur Weiche 74 umsetzen dürfe. Diese Rangierbewegung ließ der Fdl nicht 
+
+zu, da u. a. erst die Zugfahrt DPN 25409 sta(cid:426)inden sollte. Der Fdl stellte die Zugfahrtstraße 
+
+für den DPN 25409 von Gleis 902 nach Gleis 205 ein und das Esig A 902 auf Fahrt. 
+
+Als dabei das zu dieser Fahrstraße zugehörige Ls 233 Sh 1 zeigte, nahm der Tf des Zweiwege-
+
+baggers  dieses  Signal  als  Zus(cid:415)mmung  zu  seiner  geplanten Rangierfahrt  auf  und  setzte  sein 
+
+Fahrzeug in Bewegung. Kurz zuvor war DPN 25409 am Esig A 902 vorbeigefahren und kolli-
+
+dierte gegen 05:26 Uhr mit dem Zweiwegebagger in der Weiche 51. 
+
+5.2  Bewertung	und	Schlussfolgerung	
+
+Ausgelöst wurde die Zugkollision durch Fehlhandlungen der am Bahnbetrieb unmi(cid:425)elbar be-
+
+teiligten Mitarbeiter, begüns(cid:415)gt durch die unterlassene signaltechnische und betriebliche An-
+
+bindung des Gleises 126 an den B(cid:332) Gbf seitens der DB Netz AG. 
+
+Das Handeln des Fdl 1 trug zur Entstehung des Unfalls bei, da das vom Zweiwegebagger be-
+
+setzte Gleis 126 keinen Flankenschutz für die Einfahrzugstraße des DPN 25409 bot. 
+
+Der Zweiwegebagger stand bei der Einfahrt des DPN 25409 nach Gleis 205 im Gleis 126 hinter 
+
+der Gleisisolierung der Weiche 51. Das Gleis 126 mündete ohne Flankenschutz in die Einfahr-
+
+zugstraße des DPN 25409. Der Fdl darf seine Zus(cid:415)mmung zur Einfahrt in einen Gleisabschni(cid:425) 
+
+nach den Regelungen der DB-Ril 408.0231 u. a. nur dann geben, wenn dieser frei von Fahrzeu-
+
+gen ist und Fahrtbewegungen von Fahrzeugen, die diese einfahrende Zugfahrt gefährden kön-
+
+nen, eingestellt sind. 
+
+Seite 16 von 19 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 28.10.2015, Bonn Gbf 
+
+Ein Abstellen von Fahrzeugen war nach den Vorgaben der DB-Ril 408.0851 Abschni(cid:425) 7 zwi-
+
+schen Flankenschutzeinrichtung und dem Grenzzeichen einer Weiche oder Kreuzung im Fahr-
+
+weg nicht erlaubt. In der Betra waren hierzu keine abweichenden Regelungen getroﬀen. In 
+
+den Örtlichen Richtlinien des Stellwerks Bonn Hbf waren keine Angaben hinsichtlich der Nut-
+
+zung für das Gleis 126 getroﬀen. Auch wenn der Fdl die vom Tf geplante Rangierfahrt ablehnte 
+
+und er davon ausging, dass sich der Zweiwegebagger nicht bewegt, so stellte alleine die Tat-
+
+sache, dass der Zweiwegebagger im Gleis 126 stand schon eine ausreichend große potenzielle 
+
+Gefährdung für eine Zugfahrt im Gleis 233 dar. 
+
+Der Tf des in Gleis 126 stehenden Zweiwegebaggers beging einen Fehler, als er das Sh 1 zei-
+
+gende Ls 233 irrtümlich als Zus(cid:415)mmung des Weichenwärters zu seiner geplanten Rangierfahrt 
+
+zur Ausgleisstelle an der Weiche 74 wertete und sein Fahrzeug darau(cid:300)in ohne Rangierverein-
+
+barung in Bewegung setzte. Dieser Arbeitsfehler des Tf des Zweiwegebaggers ha(cid:425)e einen ur-
+
+sächlichen Einﬂuss auf die Entstehung des Unfalls. Leider standen der BEU keine Sprachauf-
+
+zeichnungen  über  das  zwischen  dem  Fdl  2  und  dem  Tf  des  Zweiwegebaggers  geführte  Ge-
+
+spräch zur Verfügung. Dadurch ließ sich nicht zweifelsfrei klären, wie das Gespräch zur Ableh-
+
+nung der Rangierfahrt wirklich verlief. Denn hierzu unterscheiden sich die Angaben der Betei-
+
+ligten wesentlich. Die Fdl gaben an, dass man nach Durchführung der anstehenden Zugfahrten 
+
+erneut mit dem Tf reden wollte. Der Tf hingegen gab an, dass ein erneutes Gespräch lt. Angabe 
+
+des Fdl nicht notwendig sei, weil es gleich losgehen würde. Sollte die Darstellung des Tf s(cid:415)m-
+
+men, dann wäre dessen Handlungsweise nachvollziehbar. Er bezog das Ls 233 auf sich und 
+
+fuhr los als das Signal Sh 1 zeigte. 
+
+Das Handeln des am Ereignis beteiligten Tf des DPN 25409 ha(cid:425)e keinen ursächlichen Einﬂuss 
+
+auf die Entstehung des Unfalls. Durch seine unmi(cid:425)elbar eingeleitete Schnellbremsung beim 
+
+Erkennen der Gefahr wurden die Folgeschäden der Kollision abgemildert. 
+
+Begüns(cid:415)gt wurden die Fehler des Tf des Zweiwegebaggers und der Fdl dadurch, dass die be-
+
+trieblichen und sicherungstechnischen Voraussetzungen nicht geschaﬀen waren. Es war kein 
+
+mi(cid:425)elbarer Flankenschutz vorhanden. Nach Verlängerung des Stumpfgleises wurden keinerlei 
+
+betriebliche Regelungen getroﬀen, wie mit diesem Gleis umzugehen ist. Dieses Deﬁzit in den 
+
+betrieblichen Unterlagen wurde durch die Aufsichtsführenden der DB Netz AG, z. B. bei Be-
+
+triebskontrollen im Stellwerk und der Außenanlagen, oﬀensichtlich nicht bemerkt. Auch im 
+
+Rahmen  der  Betra-Vorbereitung  hä(cid:425)en  diese  Abweichungen,  z. B.  bei  der  Einweisung  des 
+
+Technisch Berech(cid:415)gten, der Einweisung des Tf des Zweiwegebaggers oder der Tä(cid:415)gkeit des 
+
+Seite 17 von 19 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 28.10.2015, Bonn Gbf 
+
+Bauüberwachers auﬀallen können. Mit der Anbindung des Anschlussgleises wurden die Flan-
+
+kenschutzgrundsätze  missachtet  und  damit  war  eine  mögliche  Betriebsgefahr  nicht  ausge-
+
+schlossen. Die zur Abriegelung des Anschlusses vorgesehene Sh 2-Scheibe konnte diese Ge-
+
+fahr nicht mindern, da diese nur in Richtung des Anschlusses galt und zudem leicht zu en(cid:414)er-
+
+nen war. Ob das Signal wegen der Bauarbeiten en(cid:414)ernt wurde oder schon länger neben dem 
+
+Gleis lag, konnte nicht geklärt werden. Die Betra sah eine Nutzung des Gleises 126 jedenfalls 
+
+nicht vor. Den Fdl muss das verlängerte Gleis und die en(cid:414)ernte Sh 2-Scheibe bekannt gewesen 
+
+sein. Nur so war es möglich, dass ein Fahrzeug nach Gleis 126 einfahren, den Isolierkreis der 
+
+Weiche 51 freifahren und das Esig A 902 für eine Fahrt nach Gleis 205 auf Fahrt gestellt wer-
+
+den konnte. 
+
+Seite 18 von 19 
+
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 28.10.2015, Bonn Gbf 
+
+6  Bisher	getroffene	Maßnahmen	
+
+Seitens des EIU DB Netz AG wurde im Zuge von Umbauten im B(cid:332) Bonn Gbf in Gleis 126 eine 
+
+fernbedienbare Gleissperre eingebaut und ein hochstehendes Ls errichtet. Ein Befahren die-
+
+ses Gleises ist nur noch im Rahmen von Baumaßnahmen zulässig, wenn dies laut Vorgaben 
+
+der Betra unbedingt erforderlich ist. 
+
+7  Sicherheitsempfehlungen	
+
+Es wurden keine Sicherheitsempfehlungen ausgesprochen. 
+
+Seite 19 von 19 
+
+ 
+ 
 

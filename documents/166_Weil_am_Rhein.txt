@@ -1,1186 +1,1936 @@
-Untersuchungsbericht
-Aktenzeichen:
+Untersuchungsbericht 
 
-BEU-uu2020-02/005-3323
+Aktenzeichen: 
 
-Stand:
+BEU-uu2020-02/005-3323 
 
-06.08.2021 Version: 1.0
+Stand: 
 
-Erstveröﬀentlichung:
+06.08.2021     Version:  1.0 
 
-11.08.2021
+Erstveröﬀentlichung:  11.08.2021 
 
-Gefährliches Ereignis im Eisenbahnbetrieb
+Gefährliches	Ereignis	im	Eisenbahnbetrieb 
 
-Ereignisart:
+Ereignisart: 
 
-Zugkollision
+Datum: 
 
-Datum:
+Zeit: 
 
-25.02.2020
+Bahnhof: 
 
-Zeit:
+Gleis: 
 
-10:58 Uhr
+Kilometer: 
 
-Bahnhof:
+Zugkollision 
 
-Weil am Rhein
+25.02.2020 
 
-Gleis:
+10:58 Uhr 
 
-8
+Weil am Rhein 
 
-Kilometer:
+8 
 
-268,054
+268,054 
 
-Untersuchungsbericht
-Zugkollision, 25.02.2020, Weil am Rhein
+ 
+	
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Veröﬀentlicht durch:
-Bundesstelle für Eisenbahnunfalluntersuchung
-Heinemannstraße 6
-53175 Bonn
+Zugkollision, 25.02.2020, Weil am Rhein 
 
-Untersuchungsbericht
-Zugkollision, 25.02.2020, Weil am Rhein
+Veröﬀentlicht durch: 
 
-Inhaltsverzeichnis
-I.
+Bundesstelle für Eisenbahnunfalluntersuchung 
 
-Änderungsverzeichnis: .......................................................................................... II
+Heinemannstraße 6 
 
-II.
+53175 Bonn 
 
-Abbildungsverzeichnis: ........................................................................................ III
+ 
+Untersuchungsbericht 
 
-III.
+Zugkollision, 25.02.2020, Weil am Rhein 
 
-Tabellenverzeichnis: ............................................................................................ III
+Inhaltsverzeichnis	
 
-IV.
+I. 
 
-Abkürzungsverzeichnis: ....................................................................................... IV
+II. 
 
-1
+Änderungsverzeichnis: .......................................................................................... II 
 
-Vorbemerkungen .................................................................................................. 1
+Abbildungsverzeichnis: ........................................................................................ III 
 
-1.1
+III. 
 
-Organisatorischer Hinweis ...................................................................................... 1
+Tabellenverzeichnis: ............................................................................................ III 
 
-1.2
+IV. 
 
-Ziel der Eisenbahnunfalluntersuchung.................................................................... 1
+Abkürzungsverzeichnis: ....................................................................................... IV 
 
-2
+1 
 
-Zusammenfassung ................................................................................................ 3
+1.1 
 
-2.1
+1.2 
 
-Kurzbeschreibung des Ereignisses........................................................................... 3
+2 
 
-2.2
+2.1 
 
-Folgen ...................................................................................................................... 3
+2.2 
 
-2.3
+2.3 
 
-Ursachen.................................................................................................................. 3
+2.4 
 
-2.4
+3 
 
-Sicherheitsempfehlungen ....................................................................................... 3
+3.1 
 
-3
+3.2 
 
-Allgemeine Angaben ............................................................................................. 4
+3.3 
 
-3.1
+3.4 
 
-Lage und Beschreibung des Ereignisortes ............................................................... 4
+4 
 
-3.2
+4.1 
 
-Beteiligte und Mitwirkende..................................................................................... 6
+Vorbemerkungen .................................................................................................. 1 
 
-3.3
+Organisatorischer Hinweis ...................................................................................... 1 
 
-Äußere Bedingungen ............................................................................................... 7
+Ziel der Eisenbahnunfalluntersuchung .................................................................... 1 
 
-3.4
+Zusammenfassung ................................................................................................ 3 
 
-Todesopfer, Verletzte und Sachschäden................................................................. 7
+Kurzbeschreibung des Ereignisses ........................................................................... 3 
 
-4
+Folgen ...................................................................................................................... 3 
 
-Untersuchungsprotokoll ..................................................................................... 10
+Ursachen .................................................................................................................. 3 
 
-4.1
+Sicherheitsempfehlungen ....................................................................................... 3 
 
-Zusammenfassung von Aussagen und Stellungnahmen ....................................... 10
+Allgemeine Angaben ............................................................................................. 4 
 
-4.1.1
+Lage und Beschreibung des Ereignisortes ............................................................... 4 
 
-Stellungnahme des Tf ............................................................................................ 10
+Beteiligte und Mitwirkende ..................................................................................... 6 
 
-4.1.2
+Äußere Bedingungen ............................................................................................... 7 
 
-Stellungnahme des Fdl Weil am Rhein .................................................................. 11
+Todesopfer, Verletzte und Sachschäden ................................................................. 7 
 
-4.2
+Untersuchungsprotokoll ..................................................................................... 10 
 
-Notfallmanagement .............................................................................................. 12
+Zusammenfassung von Aussagen und Stellungnahmen ....................................... 10 
 
-4.3
+4.1.1 
 
-Untersuchung der bautechnischen Infrastruktur ................................................. 13
+Stellungnahme des Tf ............................................................................................ 10 
 
-4.4
+4.1.2 
 
-Untersuchung der Leit- und Sicherungstechnik (LST) ........................................... 13
+Stellungnahme des Fdl Weil am Rhein .................................................................. 11 
 
-I
+4.2 
 
-Untersuchungsbericht
-Zugkollision, 25.02.2020, Weil am Rhein
+4.3 
 
-I.
+4.4 
 
-4.5
+Notfallmanagement .............................................................................................. 12 
 
-Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers ................. 14
+Untersuchung der bautechnischen Infrastruktur ................................................. 13 
 
-4.6
+Untersuchung der Leit- und Sicherungstechnik (LST) ........................................... 13 
 
-Untersuchung der betrieblichen Abläufe des EVU ............................................... 15
+I 
 
-4.6.1
+ 
+ 
+Untersuchungsbericht 
 
-Auswertung Elektronische Fahrtenregistrierung (EFR) ......................................... 15
+Zugkollision, 25.02.2020, Weil am Rhein 
 
-4.6.2
+4.5 
 
-Bremsprobe/Zugvorbereitung .............................................................................. 18
+4.6 
 
-4.6.3
+Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers ................. 14 
 
-Qualifikation des Tf ............................................................................................... 19
+Untersuchung der betrieblichen Abläufe des EVU ............................................... 15 
 
-4.7
+4.6.1 
 
-Untersuchung von Fahrzeugen ............................................................................. 20
+Auswertung Elektronische Fahrtenregistrierung (EFR) ......................................... 15 
 
-5
+4.6.2 
 
-Auswertung ........................................................................................................ 25
+Bremsprobe/Zugvorbereitung .............................................................................. 18 
 
-5.1
+4.6.3 
 
-Ereignisrekonstruktion .......................................................................................... 25
+Qualifikation des Tf ............................................................................................... 19 
 
-5.2
+4.7 
 
-Bewertung und Schlussfolgerung .......................................................................... 26
+5 
 
-6
+5.1 
 
-Bisher getroffene Maßnahmen ........................................................................... 28
+5.2 
 
-7
+6 
 
-Sicherheitsempfehlungen ................................................................................... 28
+7 
 
-Änderungsverzeichnis:
-Änderung
+Untersuchung von Fahrzeugen ............................................................................. 20 
 
-Stand
+Auswertung ........................................................................................................ 25 
 
-II
+Ereignisrekonstruktion .......................................................................................... 25 
 
-Untersuchungsbericht
-Zugkollision, 25.02.2020, Weil am Rhein
+Bewertung und Schlussfolgerung .......................................................................... 26 
 
-II.
+Bisher getroffene Maßnahmen ........................................................................... 28 
 
-Abbildungsverzeichnis:
-Abbildung 1: Lageplan ................................................................................................................ 5
-Abbildung 2: Gleislageskizze ...................................................................................................... 6
-Abbildung 3: Zerstörte Gleissperre ............................................................................................ 8
-Abbildung 4: Entgleistes hinteres Drehgestell ........................................................................... 9
-Abbildung 5: Zeit-Geschwindigkeits-Diagramm ....................................................................... 17
-Abbildung 6: Zeit-Weg-Diagramm............................................................................................ 17
-Abbildung 7: Skizze ermittelte Trennstelle in Basel Bad Bf ..................................................... 18
-Abbildung 8: Beispiel TDD-Anzeigen bei zwei gekuppelten Tfz ............................................... 23
+Sicherheitsempfehlungen ................................................................................... 28 
 
-III.
+I.  Änderungsverzeichnis:	
 
-Tabellenverzeichnis:
-Tabelle 1: Übersicht der äußeren Bedingungen ........................................................................ 7
-Tabelle 2: Übersicht der geschätzten Schadenshöhe ................................................................ 7
-Tabelle 3: Neigungsverhältnisse............................................................................................... 13
-Tabelle 4: Technische Daten Tfz ............................................................................................... 21
-Tabelle 5: Protokoll- und Diagnosedaten ................................................................................. 22
+Änderung 
 
-III
+Stand 
 
-Untersuchungsbericht
-Zugkollision, 25.02.2020, Weil am Rhein
+II 
 
-IV.
+ 
+ 
+ 
+ 
+ 
+ 
+	
+	
+Untersuchungsbericht 
 
-Abkürzungsverzeichnis:
-AEG
+Zugkollision, 25.02.2020, Weil am Rhein 
 
-Allgemeines Eisenbahngesetz
+II.  Abbildungsverzeichnis:	
 
-Basel Bad Bf Basel Badischer Bahnhof
-BEU
+Abbildung 1: Lageplan ................................................................................................................ 5 
 
-Bundesstelle für Eisenbahnunfalluntersuchung
+Abbildung 2: Gleislageskizze ...................................................................................................... 6 
 
-BEVVG
+Abbildung 3: Zerstörte Gleissperre ............................................................................................ 8 
 
-Bundeseisenbahnverkehrsverwaltungsgesetz
+Abbildung 4: Entgleistes hinteres Drehgestell ........................................................................... 9 
 
-BRW
+Abbildung 5: Zeit-Geschwindigkeits-Diagramm ....................................................................... 17 
 
-Betriebsregelwerk
+Abbildung 6: Zeit-Weg-Diagramm ............................................................................................ 17 
 
-EBA
+Abbildung 7: Skizze ermittelte Trennstelle in Basel Bad Bf ..................................................... 18 
 
-Eisenbahn-Bundesamt
+Abbildung 8: Beispiel TDD-Anzeigen bei zwei gekuppelten Tfz ............................................... 23 
 
-EFR
+III.  Tabellenverzeichnis:	
 
-Elektronische Fahrdatenregistrierung
+Tabelle 1: Übersicht der äußeren Bedingungen ........................................................................ 7 
 
-EIU
+Tabelle 2: Übersicht der geschätzten Schadenshöhe ................................................................ 7 
 
-Eisenbahninfrastrukturunternehmen
+Tabelle 3: Neigungsverhältnisse ............................................................................................... 13 
 
-ESTW
+Tabelle 4: Technische Daten Tfz ............................................................................................... 21 
 
-Elektronisches Stellwerk
+Tabelle 5: Protokoll- und Diagnosedaten ................................................................................. 22 
 
-EU
+III 
 
-Europäische Union
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-ETCS
+Zugkollision, 25.02.2020, Weil am Rhein 
 
-European Train Control System - Europäisches Zugsicherungssystem
+IV.  Abkürzungsverzeichnis:	
 
-ETCS L1 LS
+AEG 
 
-ETCS Level 1 Limited Supervision (signalgeführt)
+Allgemeines Eisenbahngesetz 
 
-EuroSIGNUM/
-EuroZUB
+Basel Bad Bf  Basel Badischer Bahnhof 
 
-Punk örmiges Zugbeeinflussungssystem der SBB
+BEU 
 
-EUV
+Bundesstelle für Eisenbahnunfalluntersuchung 
 
-Eisenbahn-Unfalluntersuchungsverordnung
+BEVVG 
 
-EVU
+Bundeseisenbahnverkehrsverwaltungsgesetz 
 
-Eisenbahnverkehrsunternehmen
+BRW 
 
-Fdl
+Betriebsregelwerk 
 
-Fahrdienstleiter / Fahrdienstleiterin
+EBA 
 
-GSM-R
+EFR 
 
-Global System for Mobile Communica ons Railway
+EIU 
 
-LST
+Eisenbahn-Bundesamt 
 
-Leit- und Sicherungstechnik
+Elektronische Fahrdatenregistrierung 
 
-LZB
+Eisenbahninfrastrukturunternehmen 
 
-Linienzugbeeinflussung
+ESTW 
 
-PZB
+Elektronisches Stellwerk 
 
-Punk örmige Zugbeeinflussung
+EU 
 
-Ril
+ETCS 
 
-Richtlinie
+Europäische Union 
 
-SMS
+European Train Control System - Europäisches Zugsicherungssystem 
 
-Sicherheitsmanagementsystem
+ETCS L1 LS 
 
-TDD
+ETCS Level 1 Limited Supervision (signalgeführt) 
 
-Technical and Diagnos c Display
+Euro-
+SIGNUM/ 
+EuroZUB 
 
-Tf
+EUV 
 
-Triebfahrzeugführer / Triebfahrzeugführerin
+EVU 
 
-Tfz
+Fdl 
 
-Triebfahrzeug
+Punk(cid:414)örmiges Zugbeeinﬂussungssystem der SBB 
 
-IV
+Eisenbahn-Unfalluntersuchungsverordnung 
 
-Untersuchungsbericht
-Zugkollision, 25.02.2020, Weil am Rhein
+Eisenbahnverkehrsunternehmen 
 
-Tfzf
+Fahrdienstleiter / Fahrdienstleiterin 
 
-Triebfahrzeugfahrt
+GSM-R 
 
-STM
-Na onal
+Global System for Mobile Communica(cid:415)ons Railway 
 
-Spezifisches Transmissionsmodul – Schni stelle zwischen ETCS und
-dem na onalen Zugsicherungssystem
+LST 
 
-VzG
+LZB  
 
-Verzeichnis der örtlich zulässigen Geschwindigkeiten
+PZB 
 
-ZMS
+Ril 
 
-Zeitmul plexe Mehrfachtrak onssteuerung
+SMS 
 
-V
+TDD 
 
-Untersuchungsbericht
-Zugkollision, 25.02.2020, Weil am Rhein
+Tf 
 
-1 Vorbemerkungen
-Das Kapitel Vorbemerkungen befasst sich mit allgemeinen Informa onen zur Bundesstelle für
-Eisenbahnunfalluntersuchung (BEU). Dabei wird die gesetzliche Grundlage genannt und die
-Au auorganisa on kurz umrissen.
+Tfz 
 
-1.1 Organisatorischer Hinweis
-Mit der Richtlinie (EU) 2016/798 des Europäischen Parlaments und des Rates zur Eisenbahnsicherheit in der Gemeinschaft (Eisenbahnsicherheitsrichtlinie) wurden die Mitgliedstaaten
-der Europäischen Union (EU) verpflichtet, unabhängige Untersuchungsstellen für die Untersuchung bestimmter gefährlicher Ereignisse einzurichten.
-Diese Richtlinie wurde mit dem Gesetz zur Neuordnung der Eisenbahnunfalluntersuchung
-vom 27. Juni 2017 und der Eisenbahn-Unfalluntersuchungsverordnung vom 05.07.2007, die
-durch Artikel 1 der Verordnung vom 26.11.2019 geändert worden ist, umgesetzt. Die BEU ist
-eine Bundesoberbehörde im Geschäftsbereich des Bundesministeriums für Verkehr und digitale Infrastruktur.
-Gemäß § 6 Abs. 2 des Bundeseisenbahnverkehrsverwaltungsgesetzes (BEVVG) wurde der Sitz
-und Aufbau der BEU im „Organisationserlass zur Errichtung der Bundesstelle für Eisenbahnunfalluntersuchung“ des Bundesministeriums für Verkehr und digitale Infrastruktur festgelegt
-und die BEU zum 14.07.2017 errichtet.
-Näheres hierzu ist im Internet unter www.beu.bund.de eingestellt.
+Leit- und Sicherungstechnik 
 
-1.2 Ziel der Eisenbahnunfalluntersuchung
-Ziel und Zweck der Untersuchungen ist es, die Ursachen von gefährlichen Ereignissen aufzuklären und hieraus Hinweise zur Verbesserung der Sicherheit abzuleiten. Untersuchungen der
-BEU dienen nicht dazu, ein Verschulden festzustellen oder Fragen der Haftung oder sonstiger
-zivilrechtlicher Ansprüche zu klären und werden unabhängig von jeder gerichtlichen Untersuchung durchgeführt.
-Die Untersuchung umfasst die Sammlung und Auswertung von Informationen, die Erarbeitung
-von Schlussfolgerungen einschließlich der Feststellung der Ursachen und gegebenenfalls die
-Abgabe von Sicherheitsempfehlungen. Die Vorschläge der Untersuchungsstelle zur Vermei-
+Linienzugbeeinﬂussung  
 
-Seite 1 von 28
+Punk(cid:414)örmige Zugbeeinﬂussung 
 
-Untersuchungsbericht
-Zugkollision, 25.02.2020, Weil am Rhein
+Richtlinie 
 
-dung von Unfällen und Verbesserung der Sicherheit im Eisenbahnverkehr werden der Sicherheitsbehörde und, soweit erforderlich, anderen Stellen und Behörden oder anderen Mitgliedstaaten der EU in Form von Sicherheitsempfehlungen mitgeteilt.
+Sicherheitsmanagementsystem 
 
-Seite 2 von 28
+Technical and Diagnos(cid:415)c Display 
 
-Untersuchungsbericht
-Zugkollision, 25.02.2020, Weil am Rhein
+Triebfahrzeugführer / Triebfahrzeugführerin 
 
-2 Zusammenfassung
-Das Kapitel befasst sich mit einer kurzen Darstellung des Ereignisherganges, den Folgen und
-den Primärursachen. Abschließend werden eventuell erteilte Sicherheitsempfehlungen aufgeführt.
+Triebfahrzeug 
 
-2.1 Kurzbeschreibung des Ereignisses
-Am 25.02.2020 gegen 10:58 Uhr kollidierte das nach einer Zugtrennung führerlos rollende
-zweite Triebfahrzeug (Tfz) der Triebfahrzeugfahrt (Tfzf) 99276 im Bahnhof Weil am Rhein mit
-einer Baugleissperre im Gleis 8.
+IV 
 
-2.2 Folgen
-Personen kamen nicht zu Schaden. Das Tfz entgleiste mit drei Achsen. Die Infrastruktur wurde
-nur gering beschädigt. Es kam zu keiner Gefährdung von anderen Zug- und Rangierfahrten.
+ 
+ 
+Untersuchungsbericht 
 
-2.3 Ursachen
-Die Ursache des Ereignisses lag in mehreren Arbeitsfehlern des Triebfahrzeugführers (Tf) bei
-der Zugbildung der Tfzf 99276. Der Tf ha e die beiden Tfz bei der Zugbildung nur elektrisch
-gekuppelt.
+Zugkollision, 25.02.2020, Weil am Rhein 
 
-2.4 Sicherheitsempfehlungen
-Es wurde keine Sicherheitsempfehlung ausgesprochen.
+Tfzf 
 
-Seite 3 von 28
+Triebfahrzeugfahrt 
 
-Untersuchungsbericht
-Zugkollision, 25.02.2020, Weil am Rhein
+STM  
+Na(cid:415)onal 
 
-3 Allgemeine Angaben
-Das Kapitel beinhaltet allgemeine Angaben zur Beschreibung des Ereignisortes und der relevanten Bahnanlagen. Des Weiteren werden die an der Unfalluntersuchung beteiligten und
-mitwirkenden Stellen, die äußeren Bedingungen, die Anzahl der bei dem Ereignis verletzten
-und getöteten Personen sowie Art und Höhe der Folgeschäden benannt.
+Speziﬁsches Transmissionsmodul – Schni(cid:425)stelle zwischen ETCS und 
+dem na(cid:415)onalen Zugsicherungssystem 
 
-3.1 Lage und Beschreibung des Ereignisortes
-Der Bf Weil am Rhein liegt an der zweigleisigen elektrifizierten Hauptbahn Mannheim – Basel
-– Konstanz. Die Strecke wird im Verzeichnis der örtlich zulässigen Geschwindigkeiten (VzG)
-unter der Streckennummer 4000 geführt. Zwischen den Bahnhöfen Weil am Rhein und Basel
-Badischer Bahnhof (Basel Bad Bf) überquert die Strecke in km 268,745 die Staatsgrenze zur
-Schweiz. Der Bahnhof Basel Bad Bf befindet sich auf Schweizer Hoheitsgebiet. Im Bahnhof
-Weil am Rhein beginnen weitere Strecken Richtung Lörrach und Basel Bad Rbf. Der Abschni
-Basel Bad Bf – Weil am Rhein wird gemäß Richtlinie (Ril) 302.5004 als Grenzbetriebsstrecke
-betrieben.
-Die Kollision ereignete sich im Einfahrbereich des Bf Weil am Rhein aus Richtung Basel Bad Bf
-ca. in km 268,054. Als Grenzbetriebsstrecke war die Strecke zwischen den genannten Betriebsstellen mit Punk örmiger Zugbeeinflussung (PZB), Linienzugbeeinflussung (LZB L 72 CE),
-ETCS L1 LS (Level 1 Limited Supervision) und dem Schweizerischen Zugsicherungssystem EuroSIGNUM/EuroZUB ausgerüstet. Als Kommunika onsmedium stand der digitale Zugfunk
-GSM-R zur Verfügung. Die Höchstgeschwindigkeit betrug im betrachteten Bereich 120 km/h.
-Das Streckengleis Weil am Rhein - Basel Bad Bf war in beiden Richtungen für Fahrzeuge mit
-Schweizer Stromabnehmer (Schleifstückbreite 1.450 mm) zugelassen, das Streckengleis Basel
-Bad Bf – Weil am Rhein dagegen nur für Fahrzeuge mit deutschem Stromabnehmer (Schleifstückbreite 1.950 mm).
+VzG 
 
-Seite 4 von 28
+ZMS 
 
-Untersuchungsbericht
-Zugkollision, 25.02.2020, Weil am Rhein
+Verzeichnis der örtlich zulässigen Geschwindigkeiten 
 
-Abbildung 1: Lageplan1
+Zeitmul(cid:415)plexe Mehrfachtrak(cid:415)onssteuerung 
 
-1
+V 
 
-Quelle: Geobasisdaten: © GeoBasis-DE / BKG [2020], bearbeitet durch BEU
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Seite 5 von 28
+Zugkollision, 25.02.2020, Weil am Rhein 
 
-Untersuchungsbericht
-Zugkollision, 25.02.2020, Weil am Rhein
+1  Vorbemerkungen	
 
-Abbildung 2: Gleislageskizze2
+Das Kapitel Vorbemerkungen befasst sich mit allgemeinen Informa(cid:415)onen zur Bundesstelle für 
 
-3.2 Beteiligte und Mitwirkende
-Am Ereignis waren folgende Stellen beteiligt:
-
+Eisenbahnunfalluntersuchung (BEU). Dabei wird die gesetzliche Grundlage genannt und die 
 
-BLS Cargo AG, Eisenbahnverkehrsunternehmen (EVU)
+Au(cid:297)auorganisa(cid:415)on kurz umrissen. 
 
-
+1.1  Organisatorischer	Hinweis	
 
-DB Netz AG, Eisenbahninfrastrukturunternehmen (EIU)
+Mit der Richtlinie (EU) 2016/798 des Europäischen Parlaments und des Rates zur Eisenbahn-
 
-Das EVU BLS Cargo AG mit Sitz in Bern erhielt vom Eisenbahn-Bundesamtes (EBA) am
-24.08.2017 eine na onale Bescheinigung Teil B gemäß § 7a Abs. 4 Allgemeines Eisenbahngesetz (AEG) zur vorhandenen Sicherheitsbescheinigung Teil A der Schweiz und war somit zur
-Teilnahme am Eisenbahnbetrieb auf dem übergeordneten Netz der Bundesrepublik Deutschland gemäß § 2b AEG berech gt.
-Für das EIU lag eine Sicherheitsgenehmigung gemäß § 7c AEG des EBA vom 13.09.2016 vor.
-Beide Beteiligte waren in die Sachverhaltsermi lung und Ursachenerforschung mit einbezogen.
+sicherheit  in  der  Gemeinschaft  (Eisenbahnsicherheitsrichtlinie)  wurden  die  Mitgliedstaaten 
 
-2
+der Europäischen Union (EU) verpflichtet, unabhängige Untersuchungsstellen für die Unter-
 
-Quelle: DB Netz AG, bearbeitet durch BEU
+suchung bestimmter gefährlicher Ereignisse einzurichten. 
 
-Seite 6 von 28
+Diese  Richtlinie  wurde  mit  dem  Gesetz  zur  Neuordnung  der  Eisenbahnunfalluntersuchung 
 
-Untersuchungsbericht
-Zugkollision, 25.02.2020, Weil am Rhein
+vom 27. Juni 2017 und der Eisenbahn-Unfalluntersuchungsverordnung vom 05.07.2007, die 
 
-3.3 Äußere Bedingungen
-Zum Zeitpunkt des Ereignisses herrschten folgende Bedingungen:
-Lichtverhältnisse
+durch Artikel 1 der Verordnung vom 26.11.2019 geändert worden ist, umgesetzt. Die BEU ist 
 
-Tageslicht
+eine Bundesoberbehörde im Geschäftsbereich des Bundesministeriums für Verkehr und digi-
 
-Sicht
+tale Infrastruktur. 
 
-klar
+Gemäß § 6 Abs. 2 des Bundeseisenbahnverkehrsverwaltungsgesetzes (BEVVG) wurde der Sitz 
 
-Bedeckung
+und Aufbau der BEU im „Organisationserlass zur Errichtung der Bundesstelle für Eisenbahnun-
 
-stark bewölkt
+falluntersuchung“ des Bundesministeriums für Verkehr und digitale Infrastruktur festgelegt 
 
-Temperaturen
+und die BEU zum 14.07.2017 errichtet. 
 
-8°C – 10°C
+Näheres hierzu ist im Internet unter www.beu.bund.de eingestellt. 
 
-fallender Niederschlag
+1.2  Ziel	der	Eisenbahnunfalluntersuchung	
 
-leichter Regen
+Ziel und Zweck der Untersuchungen ist es, die Ursachen von gefährlichen Ereignissen aufzu-
 
-Niederschlagshäufigkeit
+klären und hieraus Hinweise zur Verbesserung der Sicherheit abzuleiten. Untersuchungen der 
 
-vereinzelt
+BEU dienen nicht dazu, ein Verschulden festzustellen oder Fragen der Haftung oder sonstiger 
 
-Untergrund / gefallener Niederschlag
+zivilrechtlicher Ansprüche zu klären und werden unabhängig von jeder gerichtlichen Untersu-
 
-feucht
+chung durchgeführt. 
 
-Tabelle 1: Übersicht der äußeren Bedingungen
+Die Untersuchung umfasst die Sammlung und Auswertung von Informationen, die Erarbeitung 
 
-Feststellung zu den äußeren Bedingungen
-Lfd. Nr. 1
-Die äußeren Bedingungen, wie z. B. das We er, standen in keinem erkennbaren kausalen
-Zusammenhang mit der Ereignisursache.
+von Schlussfolgerungen einschließlich der Feststellung der Ursachen und gegebenenfalls die 
 
-3.4 Todesopfer, Verletzte und Sachschäden
-Nach letzten Erkenntnissen traten keine Personenschäden ein:
-Die geschätzte Höhe der Sachschäden in Euro setzt sich wie folgt zusammen:
-geschätzte Kosten in Euro
-Fahrzeuge
+Abgabe von Sicherheitsempfehlungen. Die Vorschläge der Untersuchungsstelle zur Vermei-
 
-50.000
+Seite 1 von 28 
 
-Infrastruktur
+ 
+ 
+Untersuchungsbericht 
 
-40.000
+Zugkollision, 25.02.2020, Weil am Rhein 
 
-Dri e
-Gesamtschadenshöhe
+dung von Unfällen und Verbesserung der Sicherheit im Eisenbahnverkehr werden der Sicher-
 
-90.000
+heitsbehörde und, soweit erforderlich, anderen Stellen und Behörden oder anderen Mitglied-
 
-Tabelle 2: Übersicht der geschätzten Schadenshöhe
+staaten der EU in Form von Sicherheitsempfehlungen mitgeteilt. 
 
-Die folgenden Abbildungen zeigen die Unfallstelle und verdeutlichen das Schadensausmaß.
+Seite 2 von 28 
 
-Seite 7 von 28
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Untersuchungsbericht
-Zugkollision, 25.02.2020, Weil am Rhein
+Zugkollision, 25.02.2020, Weil am Rhein 
 
-Abbildung 3: Zerstörte Gleissperre3
+2  Zusammenfassung	
 
-3
+Das Kapitel befasst sich mit einer kurzen Darstellung des Ereignisherganges, den Folgen und 
 
-Quelle: DB Netz AG
+den Primärursachen. Abschließend werden eventuell erteilte Sicherheitsempfehlungen auf-
 
-Seite 8 von 28
+geführt. 
 
-Untersuchungsbericht
-Zugkollision, 25.02.2020, Weil am Rhein
+2.1  Kurzbeschreibung	des	Ereignisses	
 
-Abbildung 4: Entgleistes hinteres Drehgestell4
+Am  25.02.2020  gegen  10:58  Uhr  kollidierte  das  nach  einer  Zugtrennung  führerlos  rollende 
 
-4
+zweite Triebfahrzeug (Tfz) der Triebfahrzeugfahrt (Tfzf) 99276 im Bahnhof Weil am Rhein mit 
 
-Quelle: DB Netz AG
+einer Baugleissperre im Gleis 8. 
 
-Seite 9 von 28
+2.2  Folgen	
 
-Untersuchungsbericht
-Zugkollision, 25.02.2020, Weil am Rhein
+Personen kamen nicht zu Schaden. Das Tfz entgleiste mit drei Achsen. Die Infrastruktur wurde 
 
-4 Untersuchungsprotokoll
-In diesem Kapitel werden die ermi elten Ergebnisse zu einzelnen in Zusammenhang mit dem
-Ereignis stehenden Teilbereichen des Eisenbahnwesens dargestellt. Daneben wurden auch die
-entsprechenden Schni stellen sowie das Sicherheitsmanagement (SMS) im betroﬀenen Bereich betrachtet. Die jeweilig relevanten Erkenntnisse werden fortlaufend aufgeführt.
+nur gering beschädigt. Es kam zu keiner Gefährdung von anderen Zug- und Rangierfahrten. 
 
-4.1 Zusammenfassung von Aussagen und Stellungnahmen
-In den folgenden Abschni en werden die wich gsten Aussagen und Stellungnahmen einiger
-Beteiligter zusammengefasst dargestellt. Diese wurden gegenüber dem jeweiligen Arbeitgeber abgegeben.
-4.1.1 Stellungnahme des Tf
-Er habe von der Leitstelle den Au rag bekommen, den Lokzug 99276 von Basel Bad Bf nach
-Weil am Rhein zu fahren. Im Gleis 52 seien die Loks 475 715 und 475 412 gekuppelt gestanden.
-Er habe die Lokleitung gefragt, ob er den Lokzug mit diesen beiden Loks machen könne. Die
-Leitstelle habe aber mitgeteilt, dass ein Kollege die Lok 475 412 nehmen müsse und er auf
-seine zweite 475 404 warten müsse. Während ein Kollege die Lok entkuppelt habe, habe er
-die 475 715 in Betrieb genommen. Währenddessen sei seine zweite Lok 475 404 in das Gleis
-50 in Basel Bad Bf eingefahren. Mit diesem Kollegen habe er nochmals über die Anweisungen
-der Leitstelle zur Zugbildung des Lokzugs 99276 sowie die anstehenden Rangierbewegungen
-gesprochen. Da die Lok 475 404 im Gleis 50 gestanden habe, habe er mit seiner Lok 475 715
-umgesetzt, sie auf Zeitmul plexe Mehrfachtrak onssteuerung (ZMS) umgestellt und in
-Parkstellung gebracht. Dann habe er mit dem Kupplungsvorgang beginnen wollen. Da jedoch
-kein Kupplungsmantel (Arbeitsschutzkleidung) auf der Lok gewesen sei habe er sich entschieden den Mantel und auch das UIC-Kabel der zweiten Lok zu benutzen. Er sei umges egen,
-habe den Mantel angezogen, das UIC-Kabel genommen und es zwischen den Loks angebracht.
-Er könne nicht mehr nachvollziehen, weshalb er den vorschri smäßigen Ablauf des Kupplungsprozesses nicht eingehalten habe. Ihn habe möglicherweise noch der komplizierte disposi ve Ablauf im Vorfeld beschä igt. Für ihn sei der Kupplungsprozess abgeschlossen gewesen.
-Er habe sich wieder auf die Lok 475 404 begeben, den Mantel aufgehängt und die Lok in Betrieb genommen. Auf dem Bildschirm seien beide Loks ersichtlich gewesen. Er habe eine Ma-
+2.3  Ursachen	
 
-Seite 10 von 28
+Die Ursache des Ereignisses lag in mehreren Arbeitsfehlern des Triebfahrzeugführers (Tf) bei 
 
-Untersuchungsbericht
-Zugkollision, 25.02.2020, Weil am Rhein
+der Zugbildung der Tfzf 99276. Der Tf ha(cid:425)e die beiden Tfz bei der Zugbildung nur elektrisch 
 
-nometerbremsprobe durchgeführt, das System auch hier auf ZMS umgestellt und die Parkbremse angelegt. Danach habe er sich wieder auf die führende Lok 475 715 begeben, alles in
-Betrieb genommen, die Zugdaten eingegeben und ebenfalls eine Manometerbremsprobe
-durchgeführt. Auf die Bremsprobe vom Boden aus habe er verzichtet. Er habe noch die Zugschlussbeleuchtung kontrolliert und einen Rolltest gemacht. Beide Loks hä en Zugkra aufund abgebaut.
-Nach Meldung beim Fahrdienstleiter (Fdl) und einer kurzen Wartezeit sei das Signal auf Fahrt
-gekommen. Er sei langsam losgefahren und habe dabei keine Unregelmäßigkeiten festgestellt.
-Da das Einfahrvorsignal für Weil am Rhein noch Warnstellung zeigte, habe er nicht weiter beschleunigt und sei mit ca. 35 km/h gerollt. Da habe der Fdl von Weil am Rhein angerufen und
-die weiteren Abläufe mit ihm besprochen.
-Als das Einfahrsignal von Weil am Rhein auf Fahrt ging, habe er wieder leicht beschleunigt, um
-nach Gleis 2 einzufahren. Dort habe er zum Umsetzen den Führerstand wechseln wollen und
-mit Schrecken festgestellt, dass die zweite Lok fehle. Er habe das beschädigte UIC-Kabel gesehen und gedacht, dass er die Lok gar nicht mitgenommen habe. Da habe sich aber der Fdl
-gemeldet und nachgefragt, ob ihm etwas fehle. Gleichzei g habe er etwas weiter vorne eine
-grüne Vectron stehen sehen. In Absprache mit dem Fdl habe er seine Lok im Gleis 25 abgestellt
-und sei zur zweiten Lok gelaufen. Dort angekommen habe er festgestellt, dass es sich um seine
-zweite Lok handelte und dass diese entgleist sei.
-Er habe auf dem Display keinen Hinweis auf die elektrische Trennung der zweiten Lok erhalten.
-4.1.2 Stellungnahme des Fdl Weil am Rhein
-Kurz vor 11 Uhr sei ihm vom Fdl Basel Bad Bf die Tfzf 99276 auf dem Gegengleis angeboten
-worden, die er angenommen habe. Er habe die Einfahrt nach Gleis 2 gestellt und unmi elbar
-darauf die Rangierstraße nach Gleis 25. Dort hä en die Loks auf ihren Zug warten sollen. Danach habe er eine Einfahrt für Zug 45012 vom Regelgleis Basel Bad Bf nach Gleis 7 gestellt und
-sich anschließend auf den Bf Hal ngen konzentriert.
-Da habe ihn der Fdl Basel angerufen und gefragt, ob er das Signal für die Lok zurückgenommen
-habe. Es sei noch eine Rotausleuchtung im Streckengleis. Er habe das verneint und den Tf der
-Lokfahrt 99276 angerufen. Auf die eigentlich scherzha gemeinte Frage, ob dieser eine Lok
+gekuppelt. 
 
-Seite 11 von 28
+2.4  Sicherheitsempfehlungen	
 
-Untersuchungsbericht
-Zugkollision, 25.02.2020, Weil am Rhein
+Es wurde keine Sicherheitsempfehlung ausgesprochen. 
 
-verloren habe hä e der Tf mit „Ja“ geantwortet. In diesem Moment habe der Fdl eine Rotausleuchtung im Abschni 153 vor dem Einfahrsignal bemerkt, die vorher dort noch nicht gewesen sei. Er habe dann Dispohalte auf die Signale in Weil und Hal ngen gesetzt, damit nichts in
-Richtung Basel fahren könne. Direkt danach sei die Rotausleuchtung von der Strecke in den
-Bahnhof und dann über die Weichen in das baubedingt verkürzte Gleis 8 gewechselt. Danach
-habe er eine Störung an der Baugleissperre BG5 angezeigt bekommen. Der Lokführer von der
-Lok im Gleis 25 habe ihm dann gemeldet, dass eine Lok im Gleis 8 entgleist sei.
+Seite 3 von 28 
 
-4.2 Notfallmanagement
-Nach § 4 Abs. 3 AEG haben die Eisenbahnen die Verpflichtung, an Maßnahmen des Brandschutzes und der technischen Hilfeleistung mitzuwirken. In einer Vereinbarung zwischen den
-Innenministerien der Länder und der DB AG hat man sich auf eine Verfahrensweise verständigt. Für die DB Netz AG gelten die entsprechenden Brand- und Katastrophenschutzgesetze
-der Länder. Das No allmanagement der DB AG ist in der Konzernrichtlinie 123, das der DB
-Netz AG in der Ril 423 näher beschrieben und geregelt.
-Der No allmanager (Nmg) des EIU sowie der Notdienst des EVU waren innerhalb der Fristen
-am Ereignisort.
-Feststellungen zum No allmanagement
-Lfd. Nr. 2
-Unregelmäßigkeiten oder Verzögerungen in Bezug auf das No allmanagement wurden
-nicht festgestellt.
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Seite 12 von 28
+Zugkollision, 25.02.2020, Weil am Rhein 
 
-Untersuchungsbericht
-Zugkollision, 25.02.2020, Weil am Rhein
+3  Allgemeine	Angaben	
 
-4.3 Untersuchung der bautechnischen Infrastruktur
-Zum Zeitpunkt des Ereignisses fanden im Bf Weil am Rhein umfangreiche Bauarbeiten gemäß
-mehrerer Betriebs- und Bauanweisungen für den Planfeststellungsabschni 9.2 der ABS/NBS
-Karlsruhe – Basel sta . In diesem Zusammenhang war das Gleis 8 im Bf Weil am Rhein zum
-Baugleis erklärt und mit einer Baugleissperre abgesichert. Die bautechnischen Änderungen
-waren in den betrieblichen Unterlagen nachgewiesen.
-Bezogen auf den Fahrweg der Tfzf 99276 waren in Fahrtrichtung gesehen folgende Neigungsverhältnisse anzutreﬀen:
-Abschni
+Das Kapitel beinhaltet allgemeine Angaben zur Beschreibung des Ereignisortes und der rele-
 
-Neigung
+vanten  Bahnanlagen.  Des  Weiteren  werden  die  an  der  Unfalluntersuchung  beteiligten  und 
 
-ca. Länge in [m]
+mitwirkenden Stellen, die äußeren Bedingungen, die Anzahl der bei dem Ereignis verletzten 
 
-Basel Bad Bf - km 269,500
-(ca. Esig der Gegenrichtung)
+und getöteten Personen sowie Art und Höhe der Folgeschäden benannt. 
 
-0‰
+3.1  Lage	und	Beschreibung	des	Ereignisortes	
 
-650
+Der Bf Weil am Rhein liegt an der zweigleisigen elektriﬁzierten Hauptbahn Mannheim – Basel 
 
-km 269,500 - km 269,600
+– Konstanz. Die Strecke wird im Verzeichnis der örtlich zulässigen Geschwindigkeiten (VzG) 
 
-+5‰
+unter der Streckennummer 4000 geführt. Zwischen den Bahnhöfen Weil am Rhein und Basel 
 
-100
+Badischer Bahnhof (Basel Bad Bf) überquert die Strecke in km 268,745 die Staatsgrenze zur 
 
-km 269,600 - Esig FF Weil am Rhein
+Schweiz.  Der  Bahnhof  Basel  Bad  Bf  beﬁndet  sich  auf  Schweizer  Hoheitsgebiet.  Im  Bahnhof 
 
-- 2,4 ‰
+Weil am Rhein beginnen weitere Strecken Richtung Lörrach und Basel Bad Rbf. Der Abschni(cid:425) 
 
-855
+Basel Bad Bf – Weil am Rhein wird gemäß Richtlinie (Ril) 302.5004 als Grenzbetriebsstrecke 
 
-Esig FF - Gleis 2 Bf Weil am Rhein
+betrieben. 
 
-0‰
+Die Kollision ereignete sich im Einfahrbereich des Bf Weil am Rhein aus Richtung Basel Bad Bf 
 
-1.000
+ca. in km 268,054. Als Grenzbetriebsstrecke war die Strecke zwischen den genannten Betriebs-
 
-Tabelle 3: Neigungsverhältnisse
+stellen  mit  Punk(cid:414)örmiger  Zugbeeinﬂussung  (PZB),  Linienzugbeeinﬂussung  (LZB L 72 CE), 
 
-Aufgrund der Erkenntnisse aus der Sachverhaltsermi lung konnte auf weitere oberbautechnische Untersuchungen und Messungen verzichtet werden. Instandhaltungsdefizite im Zusammenhang mit dem Ereignis waren auszuschließen. Die Schäden an der Fahrbahn waren
-zweifellos Folgeschäden des Ereignisses.
-Feststellung zur der bautechnischen Infrastruktur
-Lfd. Nr. 3
-Die Überprüfung der bautechnischen Infrastruktur ergab keine Hinweise auf Mängel oder
-andere Auﬀälligkeiten.
+ETCS L1 LS (Level 1 Limited Supervision) und dem Schweizerischen Zugsicherungssystem Eu-
 
-4.4 Untersuchung der Leit‐ und Sicherungstechnik (LST)
-Der Bahnhof Weil am Rhein wurde von einem Elektronischen Stellwerk (ESTW) der Bauform
-El L 90 gesteuert. Der Bahnhof war mit einer selbs ä gen Gleisfreimeldeanlage mit Achszählern sowie einer Zugnummernmeldeanlage ZNL 2000 ausgesta et.
-Der Bahnhof Basel Bad Bf wurde von einem örtlichen Spurplanstellwerk der Bauart SpDrL 60
-mit Stelltafel gesteuert. Auch dieser Bahnhof war mit einer selbs ä gen Gleisfreimeldeanlage
+roSIGNUM/EuroZUB  ausgerüstet.  Als  Kommunika(cid:415)onsmedium  stand  der  digitale  Zugfunk 
 
-Seite 13 von 28
+GSM-R zur Verfügung. Die Höchstgeschwindigkeit betrug im betrachteten Bereich 120 km/h. 
 
-Untersuchungsbericht
-Zugkollision, 25.02.2020, Weil am Rhein
+Das Streckengleis Weil am Rhein - Basel Bad Bf war in beiden Richtungen für Fahrzeuge mit 
 
-ausgesta et. Zwischen den beiden Betriebsstellen war beidsei ger Gleiswechselbetrieb mit
-selbs ä gem Streckenblock der Bauform EBL 2000 eingerichtet.
-Die LST-Anlagen arbeiteten zum Zeitpunkt des Ereignisses fehlerfrei, Störungen lagen nicht
-vor. Die Baugleissperre BG 5 war ordnungsgemäß in das ESTW integriert. Die signaltechnischen Änderungen waren in den betrieblichen Unterlagen nachgewiesen. Aufgrund der Erkenntnisse zum Ereignishergang konnte auf weiterführende Untersuchungen der signaltechnischen Anlagen verzichtet werden.
-Feststellung zur Untersuchung der Leit‐ und Sicherungstechnik
-Lfd. Nr. 4
-Die Überprüfung der Leit- und Sicherungstechnik ergab keine Hinweise auf Mängel oder
-andere Auﬀälligkeiten.
+Schweizer Stromabnehmer (Schleifstückbreite 1.450 mm) zugelassen, das Streckengleis Basel 
 
-4.5 Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers
-Gemäß Betriebsstellenbuch war für den Bereich des Bahnhofs Weil am Rhein der Fdl 1 des
-ESTW Weil am Rhein zuständig. Der Arbeitsplatz des Fdl war im Stellwerk Basel Bad Bf auf
-Schweizer Hoheitsgebiet eingerichtet. Die Betriebsabwicklung auf der Strecke wurde grenzüberschreitend nach den Bes mmungen der Fahrdienstvorschri
+Bad Bf – Weil am Rhein dagegen nur für Fahrzeuge mit deutschem Stromabnehmer (Schleif-
 
-der DB Netz AG Ril 408
+stückbreite 1.950 mm). 
 
-durchgeführt. Besonderheiten waren in der Ril 302.5004 geregelt und wurden über das Streckenbuch und die Betriebsstellenbücher den Betriebspersonalen bekannt gegeben.
-Die Tfzf 99276 wurde auf dem Gegengleis von Basel Bad Bf durchgeführt. Die Einfahrzugstraße
-in den Bahnhof Weil am Rhein verlief vom Einfahrsignal FF über die Weichen 629 und 628
-(jeweils Rechtslage) nach Gleis 2. Der EZ 45012 verkehrte kurz darauf auf dem Regelgleis von
-Basel Bad Bf nach Weil am Rhein. Sowohl die Fahrstraßenauflösung für die einfahrende erste
-Lok der Tfzf 99276 als auch die Fahrstraßeneinstellung für den nachfolgenden EZ 45012 erfolgte störungsfrei. Für die Einfahrzugstraße des EZ 45012 vom Einfahrsignal F nach Gleis 7
-wurde die Weiche 629 als Flankenschutzweiche in Linkslage benö gt. Um 11:01 Uhr stellten
-die beiden Fdl Basel Bad Bf und Weil am Rhein in einem GSM-R-Gespräch fest, dass eine Rotbelegung auf der Strecke verblieben war.
-Sowohl die Abwicklung der Zugfahrten als auch die Kommunika on der beteiligten Fdl untereinander und mit dem Tf der Tfzf 99276 erfolgte vorschri enkonform.
+Seite 4 von 28 
 
-Seite 14 von 28
+ 
+ 
+Untersuchungsbericht 
 
-Untersuchungsbericht
-Zugkollision, 25.02.2020, Weil am Rhein
+Zugkollision, 25.02.2020, Weil am Rhein 
 
-Feststellung zur Untersuchung betrieblichen Abläufe des Infrastrukturbetreibers
-Lfd. Nr. 5
-Das Handeln der am Ereignis beteiligten Mitarbeiter im Bahnbetrieb des EIU erfolgte regelwerkskonform und ha e keinen Einfluss auf die Entstehung des Unfalls.
+Abbildung 1: Lageplan1 
 
-4.6 Untersuchung der betrieblichen Abläufe des EVU
-Die Zugfahrt verkehrte gemäß Angaben im Buchfahrplan als Tfzf 99276 von Mu enz nach Weil
-am Rhein. Verantwortliches EVU war die BLS Cargo AG. Der am Ereignis beteiligte Tf übernahm
-die Fahrt in Basel Bad Bf. Dort sollte ein zweites Tfz beigestellt bzw. getauscht werden. Beide
-Tfz waren für die Weiterbeförderung des Zuges 43557 ab Weil am Rhein nach Italien vorgesehen.
-4.6.1 Auswertung Elektronische Fahrtenregistrierung (EFR)
-Zur Untersuchung der Abläufe wurden die registrierten Fahrdaten beider Triebfahrzeuge ausgewertet. Diese wurden im Datenspeicher der EFR aufgezeichnet. Im beiden Fahrzeugen war
-jeweils eine Datenspeicherspeichereinheit der Fa. Alstom verbaut. Beide PZB-Fahrzeuggeräte
-waren eingeschaltet. Die Rohdaten waren vollständig und fehlerfrei aufgezeichnet. Da der
-Führerstand im geführten zweiten Fahrzeug nicht ak viert war, wurden dort nur die mitlaufenden Daten „Geschwindigkeit“ und „zurückgelegter Weg“ erfasst. Die Daten wurden durch
-die BLS Cargo AG aus den Datenspeichern ausgelesen und der BEU zugeleitet.
-Auf dem führenden Tfz 193 715 wurden um 10:22:53 Uhr intern registrierter Zeit der Führerstand 1 ak viert und um 10:29:10 Uhr die Zugdaten der Tfzf 99276 eingegeben. Die Fahrt
-wurde im Modus „STM Na onal“, d. h. mit dem na onalen Zugsicherungssystem PZB 90
-durchgeführt.
-Von 10:31:50 Uhr bis 10:35:57 Uhr waren zwei Rangierbewegungen mit Wechsel der Fahrtrichtung über kurze Distanzen von 183 m bzw. 151 m mit max. 19 km/h registriert. Um
-10:50:44 Uhr war eine kurze Rollbewegung über 4 m mit ca. 1 km/h aufgezeichnet.
-Um 10:55:16 Uhr begann die Zugfahrt. Der Tf beschleunigte auf ca. 35 km/h. Bei der Vorbeifahrt am Vorsignal Vﬀ wurde eine 1.000 Hz-Beeinflussung registriert und mit der Wachsamkeitstaste bestä gt. Nach einer zurückgelegten Strecke von 1.149 m beschleunigte der Tf ab
-10:57:33 Uhr weiter bis auf max. 56 km/h. Um 10:58:07 Uhr fuhr er am Einfahrsignal FF und
+1 Quelle: Geobasisdaten: © GeoBasis-DE / BKG [2020], bearbeitet durch BEU 
 
-Seite 15 von 28
+Seite 5 von 28 
 
-Untersuchungsbericht
-Zugkollision, 25.02.2020, Weil am Rhein
+ 
+ 
+ 
+                                                       
+Untersuchungsbericht 
 
-um 10:58:42 Uhr am Vorsignal Vp vorbei und qui erte die jeweiligen Beeinflussungen mit der
-Wachsamkeitstaste. Im weiteren Verlauf reduzierte der Tf die Geschwindigkeit wieder und
-kam um 10:59:41 Uhr intern registrierter Zeit im Gleis 2 des Bf Weil am Rhein zum S llstand.
-Um 11:04:01 Uhr begann eine Rangierbewegung über 490 m in die Gegenrichtung. Die Fahrt
-erreichte dabei eine Geschwindigkeit von max. 33 km/h.
-Die zulässigen Geschwindigkeiten gemäß Fahrplan und örtlicher Signalisierung wurden bei der
-Zugfahrt nicht überschri en. Die zulässige Rangiergeschwindigkeit von 25 km/h wurde bei der
-anschließenden Rangierbewegung überschri en.
-Die Daten des geführten zweiten Tfz 475 404 zeigten folgenden registrierten Ablauf: Das Tfz
-wurde von 10:03:57 Uhr bis 10:08:41 Uhr über eine Distanz von 2.733 m mit einem ak vierten
-Führerstand als Zugfahrt 93893 bewegt. Um 10:15:48 Uhr wurde es in den Stand-By-Modus
-versetzt. Um 10:42:59 Uhr wurde der Führerstand wieder ak viert und die Lok als geführtes
-Fahrzeug eingerichtet. Von 10:50:44 Uhr bis 10:50:55 Uhr war eine kurze Rollbewegung über
-4 m registriert.
-Um 10:55:17 Uhr intern registrierter Zeit war die Abfahrt als geführtes Fahrzeug aufgezeichnet. Die Geschwindigkeit erhöhte sich bis auf 28 km/h um dann um 10:55:44 Uhr nach 129 m
-plötzlich wieder abzufallen. Um 10:57:34 Uhr war mit 11 km/h nach weiteren 548 m der Tiefpunkt der Geschwindigkeitskurve erreicht. Im Folgenden s eg die Geschwindigkeit wieder
-langsam bis auf max. 22 km/h an. Um 11:02:23 Uhr war ein steiler Abfall der Geschwindigkeitskurve, vermutlich aufgrund der Entgleisung erkennbar. Das Fahrzeug kam nach 21 m um
-11:02:32 Uhr intern registrierter Zeit zum S llstand. Ein Hauptlu leitungsdruck war während
-der gesamten Fahrbewegung nicht registriert. Bei deak viertem Führerstand werden Beeinflussungen durch ak ve PZB-Magnete nicht aufgenommen und entsprechend nicht registriert.
-Zur Verdeutlichung der Fahrbewegung wurden die registrierten Geschwindigkeits- und Wegedaten beider Tfz in folgenden Diagrammen übereinandergelegt. Hierbei ist sowohl die anhand
-der unterschiedlichen Geschwindigkeiten als auch der zurückgelegten Wegstrecken die Trennung beider Fahrzeuge kurz nach Beginn der Zugfahrt deutlich erkennbar.
+Zugkollision, 25.02.2020, Weil am Rhein 
 
-Seite 16 von 28
+Abbildung 2: Gleislageskizze2 
 
-Untersuchungsbericht
-Zugkollision, 25.02.2020, Weil am Rhein
+3.2  Beteiligte	und	Mitwirkende	
 
-Abbildung 5: Zeit-Geschwindigkeits-Diagramm
+Am Ereignis waren folgende Stellen beteiligt: 
 
-Abbildung 6: Zeit-Weg-Diagramm
+  BLS Cargo AG, Eisenbahnverkehrsunternehmen (EVU) 
 
-Anhand dieser Daten erfolgte die Trennung beider Fahrzeuge kurz vor dem deutlichen Abknicken der Geschwindigkeitskurve des geführten Fahrzeugs. Die Trennung ereignete sich somit
-bereits kurz nach der Abfahrt in Basel Bad Bf, nach einer zurückgelegten Wegstrecke von max.
-129 m um 10:55:44 Uhr interner Zeit des geführten Tfz. In der folgenden Abbildung ist die
-ermi elte Trennstelle im Ausfahrbereich des Bahnhofs Basel Bad Bf näherungsweise skizziert.
+  DB Netz AG, Eisenbahninfrastrukturunternehmen (EIU) 
 
-Seite 17 von 28
+Das  EVU  BLS Cargo AG  mit  Sitz  in  Bern  erhielt  vom  Eisenbahn-Bundesamtes  (EBA)  am 
 
-Untersuchungsbericht
-Zugkollision, 25.02.2020, Weil am Rhein
+24.08.2017 eine na(cid:415)onale Bescheinigung Teil B gemäß § 7a Abs. 4 Allgemeines Eisenbahnge-
 
-Abbildung 7: Skizze ermi elte Trennstelle in Basel Bad Bf5
+setz (AEG) zur vorhandenen Sicherheitsbescheinigung Teil A der Schweiz und war somit zur 
 
-4.6.2 Bremsprobe/Zugvorbereitung
-Die für diesen Fall relevanten Regelungen zur Zugvorbereitung, Feststellung der Abfahrbereitscha und Bremsprobe waren im Betriebsregelwerk (BRW) des EVU festgelegt. Gemäß BRW
-5332 dur e ein Zug nur abfahren, wenn er abfahrbereit ist. Diese Feststellung oblag im vorliegenden Fall dem Tf. Zur Feststellung der Abfahrbereitscha gehörte die Durchführung der
-Zugvorbereitung. Bestandteil der Zugvorbereitung war gemäß BRW 4321 das ordnungsgemäße Kuppeln der Fahrzeuge und die Ausführung der Bremsprobe, soweit diese erforderlich
-war.
-Die Reihenfolge beim Kuppeln von Fahrzeugen war in BRW 6510 Abschn. 1 festgelegt. Zunächst waren Fahrzeuge mechanisch mit der Schraubenkupplung zu verbinden. Dann war die
-pneuma sche Verbindung über die Lu leitungen herzustellen. Zuletzt waren die elektrischen
-Steuerleitungen zu stecken. Seitens des EVU waren keine abweichenden oder ergänzenden
+Teilnahme am Eisenbahnbetrieb auf dem übergeordneten Netz der Bundesrepublik Deutsch-
 
-5
+land gemäß § 2b AEG berech(cid:415)gt. 
 
-Quelle: DB Netz AG, bearbeitet durch BEU
+Für das EIU lag eine Sicherheitsgenehmigung gemäß § 7c AEG des EBA vom 13.09.2016 vor. 
 
-Seite 18 von 28
+Beide Beteiligte waren in die Sachverhaltsermi(cid:425)lung und Ursachenerforschung mit einbezo-
 
-Untersuchungsbericht
-Zugkollision, 25.02.2020, Weil am Rhein
+gen. 
 
-Regelungen zu diesen Vorgaben im BRW getroﬀen worden. Der Tf ha e nach eigener Schilderung abweichend von der vorgegebenen Reihenfolge zuerst die Steuerleitung gesteckt und es
-anschließend versäumt, die zuvor übergangenen Arbeitsschri e (Verbindung Schraubenkupplung und Hauptlu leitung) nachzuholen.
-Bezüglich der auszuführenden Bremsprobe ha e das EVU im Modul BLSC.0101A01 festgelegt,
-dass die Regeln der VDV-Schri 757 Teil B (entspricht Ril 915) als mitgeltendes Regelwerk zu
-beachten waren. Bei Mehrfachtrak on mit Re 475/BR 193 war nach Angaben des EVU eine
-Bremsprobe am Display (Führerraumbremsprobe) nicht zulässig, da nicht alle erforderlichen
-Daten über das UIC-Kabel übertragen wurden. Daher war vom Tf eine vereinfachte Bremsprobe gemäß Ril 915.0104A01 außen an den Fahrzeugen durchzuführen. Der Löse- und Bremszustand war am letzten Fahrzeug, d. h. in diesem Fall an der zweiten Lok festzustellen.
-4.6.3 Qualifikation des Tf
-Für die Grenzbetriebsstrecke galten entsprechend dem Abkommen zwischen der Schweiz und
-Deutschland zum Einsatz Schweizer Tf im grenznahen Raum besondere Regelungen. Die in der
-Schweiz ausgestellten Führerscheine wurden im Grenzverkehr anerkannt.
-Der Tf war im Besitz eines Führerausweises des Bundesamtes für Verkehr der Schweiz sowie
-einer Zusatzbescheinigung der BLS Cargo AG, die ihn u. a. berech gte, Zugfahrten mit Fahrzeugen der Baureihen 193 und 475 auf der betroﬀenen Grenzbetriebsstrecke für die BLS Cargo
-AG durchzuführen.
-Der Tf war auf dem betroﬀenen Abschni nachweislich häufig unterwegs und somit streckenkundig. Der vorgelegte Nachweis der Streckenkunde entsprach jedoch nicht den Regeln der
-VDV 755. Die Daten des vorgelegten Streckenkundenachweises basierten auf den in der
-Schweiz geforderten Fristen von 36 Monaten bis zum Erlöschen der Streckenkenntnis. Die VDV
-755 fordert für Deutschland 12 bzw. bei einfachen Verhältnissen 24 Monate.
-Ein Tauglichkeitsnachweis nach den Schweizerischen Richtlinien für die Zulassung zum Führen
-von Tfz der Eisenbahnen wurde zur Einsichtnahme vorgelegt. Fortbildungsunterrichte mit
-Schwerpunkt Grenzverkehr wurden nachweislich durchgeführt. Die Ruhezeiten zwischen den
-Dienstschichten wurden eingehalten.
-Ein Nachweis der Überwachung während der Dienstausübung („Beglei ahrt“) konnte nicht
-vorgelegt werden. Nach Angaben des verantwortlichen EVU seien diese zwar durchgeführt
-worden, schri lich jedoch nicht mehr nachvollziehbar.
-Seite 19 von 28
+2 Quelle: DB Netz AG, bearbeitet durch BEU 
 
-Untersuchungsbericht
-Zugkollision, 25.02.2020, Weil am Rhein
+Seite 6 von 28 
 
-Feststellung zur Untersuchung der betrieblichen Abläufe des EVU
-Lfd. Nr. 6
-Nach ca. 129 m durchfahrender Strecke diﬀerierten die Geschwindigkeits- und Wegekurven
-der beiden Fahrzeuge.
-Das geführte Fahrzeug rollte führerlos mit max. 22 km/h in Richtung Weil am Rhein.
-Die zulässige Rangiergeschwindigkeit des führenden Tfz nach dem Ereignis wurde überschri en.
-Der Tf ha e die Vorgaben im Regelwerk zur Reihenfolge beim Kuppeln und zur Durchführung der Bremsprobe nicht eingehalten.
-Der Streckenkundenachweis entsprach nicht den Vorgaben der VDV 755.
-Nachweise zur Überwachung des Tf während der Dienstausübung wurden nicht vorgelegt.
+ 
+ 
+ 
+                                                       
+Untersuchungsbericht 
 
-4.7 Untersuchung von Fahrzeugen
-Die beiden beteiligten Fahrzeuge waren vierachsige elektrische Triebfahrzeuge der Lokomovfamilie Siemens Vectron des Herstellers Siemens Mobility AG. Diese wurden in Deutschland
-unter der Baureihenbezeichnung 193, in der Schweiz als Baureihe Re 475 geführt, waren in
-der vorliegenden Ausführung jedoch weitgehend baugleich.
-Die Bremsen beider Tfz waren eingeschaltet und funk onsfähig. Entsprechend den Angaben
-im Dauerbremsze el (CH: Dauerlastze el) verfügte die Tfzf 99276 bei einer Gesamtzuglänge
-von 38 m über 150 Bremshundertstel. Die gemäß Fahrplan erforderlichen 50 Mindestbremshundertstel waren erreicht.
+Zugkollision, 25.02.2020, Weil am Rhein 
 
-Seite 20 von 28
+3.3  Äußere	Bedingungen		
 
-Untersuchungsbericht
-Zugkollision, 25.02.2020, Weil am Rhein
+Zum Zeitpunkt des Ereignisses herrschten folgende Bedingungen: 
 
-Aus der folgenden Tabelle lassen sich die technischen Fahrzeugdaten entnehmen:
-Führendes Tfz
+Lichtverhältnisse 
 
-Geführtes Tfz
+Sicht 
 
-Fahrzeugnummer
+Bedeckung 
 
-91 80 6193 715-0
+Temperaturen  
 
-91 85 4475 404-0
+fallender Niederschlag 
 
-Baureihenbezeichnung
+Niederschlagshäuﬁgkeit 
 
-193
+Tageslicht 
 
-Re 475
+klar 
 
-Halter und ECM
+stark bewölkt 
 
-MRCE
+8°C – 10°C 
 
-BLS Cargo AG
+leichter Regen 
 
-Antrieb
+vereinzelt 
 
-elektrisch
+Untergrund / gefallener Niederschlag  
 
-elektrisch
+feucht 
 
-Nennleistung
+Tabelle 1: Übersicht der äußeren Bedingungen 
 
-6.400 kW
+Feststellung zu den äußeren Bedingungen 
 
-6.400 kW
+Lfd. Nr. 1 
 
-Gesamtlänge (LüP)
+Die äußeren Bedingungen, wie z. B. das We(cid:425)er, standen in keinem erkennbaren kausalen 
 
-18.980 mm
+Zusammenhang mit der Ereignisursache. 
 
-18.980 mm
+3.4  Todesopfer,	Verletzte	und	Sachschäden	
 
-Gesamtgewicht
+Nach letzten Erkenntnissen traten keine Personenschäden ein: 
 
-90 t
+Die geschätzte Höhe der Sachschäden in Euro setzt sich wie folgt zusammen: 
 
-90 t
+Fahrzeuge 
 
-Höchstgeschwindigkeit
+Infrastruktur 
 
-160 km/h
+Dri(cid:425)e 
 
-160 km/h
+geschätzte Kosten in Euro 
 
-Radsatzfolge
+50.000 
 
-Bo′Bo′
+40.000 
 
-Bo′Bo‘
+Gesamtschadenshöhe 
 
-Zugsicherungssystem
-(für Deutschland)
+90.000 
 
-PZB, LZB, ETCS Baseline 2
-(Level 0 & Level 2)
+Tabelle 2: Übersicht der geschätzten Schadenshöhe 
 
-PZB, LZB, ETCS Baseline 2
-(Level 0 & Level 2)
+Die folgenden Abbildungen zeigen die Unfallstelle und verdeutlichen das Schadensausmaß. 
 
-Bremsbauart
+Seite 7 von 28 
 
-KE-GPR-E mZ (D)
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-KE-GPR-E mZ (D)
+Zugkollision, 25.02.2020, Weil am Rhein 
 
-Einsatzraum
+Abbildung 3: Zerstörte Gleissperre3 
 
-CH, D, A, I, NL
+3 Quelle: DB Netz AG 
 
-CH, D, A, I, NL
+Seite 8 von 28 
 
-Tabelle 4: Technische Daten Tfz
+ 
+ 
+ 
+                                                       
+Untersuchungsbericht 
 
-Für beide Fahrzeuge wurden die erforderlichen Wartungs- und Instandhaltungsarbeiten nachgewiesen. Es waren keine Auﬀälligkeiten oder Versäumnisse festzustellen.
-Zur Verdeutlichung der technischen Abläufe wurden ergänzend die in den Fahrzeugen gespeicherten Protokoll- und Diagnosedaten ausgewertet. Die relevanten Meldungen sind in der
-nachfolgenden Tabelle dargestellt. Da die internen Zeiten beider Tfz um ca. 10 Sekunden voneinander abwichen, wurden die Zeiten der geführten Lok zur besseren Darstellung entsprechend angepasst:
+Zugkollision, 25.02.2020, Weil am Rhein 
 
-Seite 21 von 28
+Abbildung 4: Entgleistes hinteres Drehgestell4 
 
-Untersuchungsbericht
-Zugkollision, 25.02.2020, Weil am Rhein
+4 Quelle: DB Netz AG 
 
-Uhrzeit
+Seite 9 von 28 
 
-Führendes Tfz 193 715
+ 
+ 
+ 
+ 
+ 
+                                                       
+Untersuchungsbericht 
 
-10:46:45
+Zugkollision, 25.02.2020, Weil am Rhein 
 
-Führerraum 1 besetzt
+4  Untersuchungsprotokoll	
 
-10:50:12
-10:50:15
-10:50:43
+In diesem Kapitel werden die ermi(cid:425)elten Ergebnisse zu einzelnen in Zusammenhang mit dem 
 
-Bremse: pneuma sche Bremse
-angelegt, direkte Bremse angelegt
-Bremse: Prüfung Fahrsperre lösen
-durchgeführt
-Bremse: pneuma sche Bremse angelegt, direkte Bremse angelegt
+Ereignis stehenden Teilbereichen des Eisenbahnwesens dargestellt. Daneben wurden auch die 
 
-Geführtes Tfz 475 404
+entsprechenden Schni(cid:425)stellen sowie das Sicherheitsmanagement (SMS) im betroﬀenen Be-
 
-Bremse: pneuma sche Bremse
-angelegt, direkte Bremse angelegt
-Bremse: Prüfung Fahrsperre lösen
-durchgeführt
-Bremse: pneuma sche Bremse angelegt, direkte Bremse angelegt
+reich betrachtet. Die jeweilig relevanten Erkenntnisse werden fortlaufend aufgeführt. 
 
-10:55:34
+4.1  Zusammenfassung	von	Aussagen	und	Stellungnahmen	
 
-Kommunika onsausfall ZMS
+In den folgenden Abschni(cid:425)en werden die wich(cid:415)gsten Aussagen und Stellungnahmen einiger 
 
-10:55:35
+Beteiligter zusammengefasst dargestellt. Diese wurden gegenüber dem jeweiligen Arbeitge-
 
-Keine Fahrtrichtung eingelegt
+ber abgegeben. 
 
-10:55:36
-10:55:38
+4.1.1  Stellungnahme	des	Tf	
 
-Kommunika onsausfall vom ZugbusSlave 1 (ZMS Betrieb)
-ZMS Kommunika onsstörung: keine
-Daten von der ersten geführten Lok
+Er habe von der Leitstelle den Au(cid:332)rag bekommen, den Lokzug 99276 von Basel Bad Bf nach 
 
-10:55:49
+Weil am Rhein zu fahren. Im Gleis 52 seien die Loks 475 715 und 475 412 gekuppelt gestanden. 
 
-Stromabnehmer nieder
+Er habe die Lokleitung gefragt, ob er den Lokzug mit diesen beiden Loks machen könne. Die 
 
-10:55:49
+Leitstelle habe aber mitgeteilt, dass ein Kollege die Lok 475 412 nehmen müsse und er auf 
 
-Hauptschalter aus
+seine zweite 475 404 warten müsse. Während ein Kollege die Lok entkuppelt habe, habe er 
 
-10:56:09
+die 475 715 in Betrieb genommen. Währenddessen sei seine zweite Lok 475 404 in das Gleis 
 
-Leuchtmelder 1.000 Hz
+50 in Basel Bad Bf eingefahren. Mit diesem Kollegen habe er nochmals über die Anweisungen 
 
-10:59:32
+der Leitstelle zur Zugbildung des Lokzugs 99276 sowie die anstehenden Rangierbewegungen 
 
-S llstand
+gesprochen. Da die Lok 475 404 im Gleis 50 gestanden habe, habe er mit seiner Lok 475 715 
 
-10:59:39
+umgesetzt,  sie  auf  Zeitmul(cid:415)plexe  Mehrfachtrak(cid:415)onssteuerung  (ZMS)  umgestellt  und  in 
 
-Im ZMS-Modus keine weitere Lok
-vorhanden
+Parkstellung gebracht. Dann habe er mit dem Kupplungsvorgang beginnen wollen. Da jedoch 
 
-11:02:24
+kein Kupplungsmantel (Arbeitsschutzkleidung) auf der Lok gewesen sei habe er sich entschie-
 
-S llstand
+den den Mantel und auch das UIC-Kabel der zweiten Lok zu benutzen. Er sei umges(cid:415)egen, 
 
-Tabelle 5: Protokoll- und Diagnosedaten
+habe den Mantel angezogen, das UIC-Kabel genommen und es zwischen den Loks angebracht. 
 
-Nach dem Verbinden der elektrischen Steuerleitung wurde das Vorhandensein eines zweiten
-Tfz auf dem Technical and Diagnos c Display (TDD) im Führerstand angezeigt. Über diese Steuerleitung waren die direkte Bremse und die Federspeicherbremse des geführten Fahrzeugs
-steuerbar. Daher waren sowohl die vom Tf beschriebene Manometerbremsprobe im Führerstand als auch die Rollprobe erfolgreich möglich. Die Durchgängigkeit der Hauptlu leitung
-konnte auf diesem Wege nicht festgestellt werden.
-Auf nachfolgender Abbildung ist beispielha dargestellt, wie dem Tf das Vorhandensein und
-Funk onsfähigkeit beider Tfz angezeigt wird. Aufgrund der gesteckten Steuerleitung ha e der
-Tf auf dem führenden Tfz zu Beginn der Zugfahrt alle relevanten Angaben.
+Er  könne  nicht  mehr  nachvollziehen,  weshalb  er  den  vorschri(cid:332)smäßigen  Ablauf  des  Kupp-
 
-Seite 22 von 28
+lungsprozesses nicht eingehalten habe. Ihn habe möglicherweise noch der komplizierte dis-
 
-Untersuchungsbericht
-Zugkollision, 25.02.2020, Weil am Rhein
+posi(cid:415)ve Ablauf im Vorfeld beschä(cid:332)igt. Für ihn sei der Kupplungsprozess abgeschlossen gewe-
 
-Abbildung 8: Beispiel TDD-Anzeigen bei zwei gekuppelten Tfz6
+sen. 
 
-Gemäß Lokführerhandbuch der Fa. Siemens Mobility Punkt 9.2.2 wurde bei Unterbrechung
-der Kommunika on bei Mehrfachtrak on eine gelbe Störungsmeldung zur Kommunika onsstörung auf dem TDD angezeigt. Die Meldung wurde akus sch hinterlegt. Kam diese Meldung
-während der Fahrt, wurde zur Störungsabhilfe im Handbuch vorgegeben, dass an geeigneter
-Stelle zu halten war um Beschädigungen an Baugruppen und Bauteilen der Lokomo ve zu vermeiden. Als geeignete Stelle sah das Handbuch Bereiche außerhalb von Trennstellen und
-Spannungswechselzonen an, da der Tf keine Kontrolle über den Zustand des Stromabnehmers
-der geführten Lok ha e. Wenn die Störung länger als 10 Sekunden bestand und mit mehr als
-10 km/h gefahren wurde, erfolgte eine automa sche Ausschaltung des Hauptschalters und
-Senkung des Stromabnehmers auf der geführten Lok. Weitere betriebliche Regelungen zum
-Umgang mit dieser Störmeldung wurden seitens des EVU nicht gegeben.
+Er habe sich wieder auf die Lok 475 404 begeben, den Mantel aufgehängt und die Lok in Be-
 
-6
+trieb genommen. Auf dem Bildschirm seien beide Loks ersichtlich gewesen. Er habe eine Ma-
 
-Quelle: Arbeitsheft Tf-Ausbildung BLS Cargo AG, bearbeitet durch BEU
+Seite 10 von 28 
 
-Seite 23 von 28
+ 
+ 
+Untersuchungsbericht 
 
-Untersuchungsbericht
-Zugkollision, 25.02.2020, Weil am Rhein
+Zugkollision, 25.02.2020, Weil am Rhein 
 
-Feststellung zur Untersuchung der Fahrzeuge
-Lfd. Nr. 7
-Eine vorschri enkonforme Bremsprobe war vom Führerstand des führenden Tfz aus nicht
-möglich.
-Nach Abbruch der Kommunika onsverbindung zwischen den Tfz wurde nach 10 Sekunden
-automa sch der Hauptschalter des geführten Tfz ausgeschaltet und der Stromabnehmer
-gesenkt.
-Eine automa sche Bremsung war für diesen Fall nicht implemen ert.
+nometerbremsprobe durchgeführt, das System auch hier auf ZMS umgestellt und die Park-
 
-Seite 24 von 28
+bremse angelegt. Danach habe er sich wieder auf die führende Lok 475 715 begeben, alles in 
 
-Untersuchungsbericht
-Zugkollision, 25.02.2020, Weil am Rhein
+Betrieb  genommen,  die  Zugdaten  eingegeben  und  ebenfalls  eine  Manometerbremsprobe 
 
-5 Auswertung
-Das Kapitel 5 Auswertung befasst sich mit der Ereignisrekonstruk on. Anhand der oben genannten Feststellungen wird ein plausibler Ablauf des gefährlichen Ereignisses zusammengetragen. Relevante Erkenntnisse werden anschließend bewertet und führen ggf. zu entsprechenden Schlussfolgerungen.
+durchgeführt. Auf die Bremsprobe vom Boden aus habe er verzichtet. Er habe noch die Zug-
 
-5.1 Ereignisrekonstruktion
-Am 25.02.2020 war vom Tf die Tfzf 99276 von Basel Bad Bf nach Weil am Rhein durchzuführen.
-Zunächst waren vom Tf organisatorische Fragen bezüglich der Zugbildung mit der Leitstelle
-der BLS Cargo AG zu klären. Von 10:31 Uhr bis 10:35 Uhr rangierte der Tf das führende Tfz 193
-715 von Gleis 55 an das bereits im Gleis 50 stehende zweite Tfz 475 404 heran. Anschließend
-kuppelte er abweichend von der vorgeschriebenen Reihenfolge zuerst die elektrische Steuerleitung. Danach versäumte er es, die mechanische und pneuma sche Kupplung zu verbinden.
-Sta dessen rüstete er das zweite Tfz um 10:42 Uhr als geführtes Fahrzeug im ZMS auf. Im
-weiteren Verlauf stellte er auch das führende Tfz auf ZMS Betrieb um. Beide Tfz wurden auf
-dem TDD ordnungsgemäß angezeigt. Vom Führerstand des führenden Fahrzeugs aus führte
-er um 10:50 Uhr eine Manometerbremsprobe durch. Bedingt durch die gekuppelte Steuerleitung wurde ihm das Anlegen der direkten Bremse beider Fahrzeuge auf dem TDD im führenden Fahrzeug angezeigt. Anschließend war um 10:50 Uhr eine erfolgreich durchgeführte Rollprobe über vier Meter auf beiden Fahrzeugen registriert.
-Nachdem das Ausfahrsignal P50 in Basel Bad Bf Fahrtstellung zeigte, begann der Tf um
-10:55 Uhr mit der Zugfahrt nach Weil am Rhein. Die Fahrt verlief auf dem Gegengleis. Über
-die elektrische Steuerleitung erhielt auch das geführte Tfz einen Fahrbefehl. Bedingt durch
-leicht diﬀerierende Geschwindigkeiten und die fehlende mechanische Kupplung beider Fahrzeuge wurde das Steuerkabel bereits kurz nach der Abfahrt zwischen den Tfz getrennt. Der
-Kommunika onsausfall zwischen beiden Fahrzeugen wurden dem Tf zwar auf dem TDD des
-führenden Fahrzeugs signalisiert, oﬀenbar aber nicht weiter beachtet. Entsprechend der Funkonalität schaltete das geführte Tfz 10 Sekunden nach dem Kommunika onsausfall bei einer
-Geschwindigkeit von ca. 28 km/h den Hauptschalter aus und senkte den Stromabnehmer. Aufgrund der Topografie reduzierte sich durch die fehlende Leistung die Geschwindigkeit des geführten Tfz während der Tf mit dem führenden Tfz weiter bis auf ca. 35 km/h beschleunigte.
+schlussbeleuchtung kontrolliert und einen Rolltest gemacht. Beide Loks hä(cid:425)en Zugkra(cid:332) auf- 
 
-Seite 25 von 28
+und abgebaut. 
 
-Untersuchungsbericht
-Zugkollision, 25.02.2020, Weil am Rhein
+Nach Meldung beim Fahrdienstleiter (Fdl) und einer kurzen Wartezeit sei das Signal auf Fahrt 
 
-Nachdem der Tf die Fahrtstellung des Einfahrsignals FF von Weil am Rhein wahrnahm beschleunigte er weiter und fuhr um 10:59 Uhr mit dem führenden Tfz nach Gleis 2 in den Bahnhof ein. Das führerlos nachrollende zweite Tfz überwand mit absinkender Geschwindigkeit die
-kurze Steigung im Ausfahrbereich des Bahnhofs Basel Bad Bf und rollte im anschließenden
-leichten Gefälle des Streckengleises mit wieder langsam ansteigender Geschwindigkeit ebenfalls in Richtung Weil am Rhein. Durch die unterschiedlichen Geschwindigkeiten vergrößerte
-sich der Abstand zwischen beiden Fahrzeugen zunehmend.
-Nach der Einfahrt der führenden Lok der Tfzf 99276 in den Bf Weil am Rhein löste die eingestellte Fahrstraße abschni sweise auf. Die beteiligten Fdl erkannten eine verbliebene Rotausleuchtung im Streckengleis. Gleichzei g stellte der Fdl Weil am Rhein eine Einfahrzugstraße
-für den sich im Regelgleis nähernden EZ 45012 nach Gleis 7. Dadurch lief die nun nicht mehr
-festgelegte Weiche 629 als Flankenschutzweiche zur Fahrt nach links um.
-Die langsam führerlos in den Bahnhof Weil am Rhein einrollende Lok bewegte sich aufgrund
-der nun geänderten Weichenlage in Richtung Gleis 8. Der Fdl erkannte die gefährliche Situaon und sperrte das Einlaufen weiterer Zugstraßen. Das Tfz überfuhr um 11:02 Uhr mit ca.
-20 km/h die im dem Gleis 8 angebrachte Baugleissperre 5 und entgleiste.
+gekommen. Er sei langsam losgefahren und habe dabei keine Unregelmäßigkeiten festgestellt. 
 
-5.2 Bewertung und Schlussfolgerung
-Der Tf ha e die im BRW vorgegebene Reihenfolge beim Kuppeln von Fahrzeugen nicht eingehalten. Dadurch waren die beiden Tfz nur mit der elektrischen Steuerleitung verbunden. Der
-Tf hä e diesen Fehler bemerken müssen, wenn er die für die Zugfahrt erforderliche Bremsprobe wie vorgeschrieben durchgeführt hä e. Er ha e jedoch darauf verzichtet, die vereinfachte Bremsprobe außen an den Fahrzeugen durchzuführen und sich auf die Anzeigen auf
-seinem Display verlassen. Da die direkte Bremse über die Steuerleitung angesprochen wurde,
-konnte er mit beiden Fahrzeugen eine aus seiner Sicht ordnungsgemäße Brems- und Rollprobe
-durchführen. Ihm war oﬀenbar entweder nicht bewusst, dass er über das Display keine Angaben zum Kuppelzustand und zur Durchgängigkeit der Hauptlu leitung erhielt, oder er beachtete die Displayanzeigen im Führerraum nicht, weil er sich absolut sicher war, die mechanische
-und pneuma sche Kupplung korrekt ausgeführt zu haben. Durch die Arbeitsfehler kam es kurz
-nach der Abfahrt aus Basel Bad Bf zur Zugtrennung.
+Da das Einfahrvorsignal für Weil am Rhein noch Warnstellung zeigte, habe er nicht weiter be-
 
-Seite 26 von 28
+schleunigt und sei mit ca. 35 km/h gerollt. Da habe der Fdl von Weil am Rhein angerufen und 
 
-Untersuchungsbericht
-Zugkollision, 25.02.2020, Weil am Rhein
+die weiteren Abläufe mit ihm besprochen. 
 
-Vom EVU wurden keine Nachweise einer direkten Überwachung des Tf bei der Dienstausübung vorgelegt. Diese seien bis 2018 zwar durchgeführt worden, jedoch aufgrund eines Vorgesetztenwechsels schri lich nicht mehr nachvollziehbar. Die Überwachung der Arbeitsausführung von Personalen mit sicherheitsrelevanten Aufgaben dient dazu, das Sicherheitsbewusstsein zu schärfen und sicherzustellen, dass die in Aus- und Fortbildung erworbenen
-Kenntnisse und Fer gkeiten auch im Praxisalltag sicher umgesetzt werden. Deshalb muss im
-SMS des EVU gemäß Verordnung (EU) 2018/762 Anhang I Punkt 6.1.2 ein Verfahren eingerichtet sein, in dem regelmäßig die Erfüllung sicherheitsrelevanter Aufgaben überwacht wird. Die
-Überwachung von Tf ist Teil der Sicherheitspflichten eines EVU und Bestandteil der Erteilung
-der Sicherheitsbescheinigung.
-Darüber hinaus muss im SMS gemäß Verordnung (EU) 2018/762 Anhang I Punkt 6.1.1 ein Verfahren implemen ert sein, das die ordnungsgemäße Anwendung und Wirksamkeit von Prozessen und Verfahren im SMS überprü
+Als das Einfahrsignal von Weil am Rhein auf Fahrt ging, habe er wieder leicht beschleunigt, um 
 
-und ggf. korrigiert. Die fehlende Dokumenta on
+nach Gleis 2 einzufahren. Dort habe er zum Umsetzen den Führerstand wechseln wollen und 
 
-wurde erst im Verlauf der Unfalluntersuchung erkannt. Daher ist das SMS des EVU dahingehend zu überprüfen und ggf. nachzusteuern, ob ein entsprechendes Verfahren zur Sicherstellung der Durchführung vorgeschriebener Prozesse und Verfahren hinreichend wirksam ist.
-Bezüglich der abweichenden Regeln zur Streckenkunde, die den Vorgaben des Bundesamtes
-für Verkehr der Schweiz entsprechen, teilte das EVU mit, dass aufgrund der hohen Regelmäßigkeit, mit der die Tf der BLS Cargo AG die Grenzbetriebsstellen befahren, die Einhaltung der
-Regeln gemäß VDV 755 gewährleistet sei. Auf Grenzbetriebsstrecken gelten besondere Vereinbarungen zwischen den beteiligten Staaten und Eisenbahnunternehmen.
-Auf einem geführten Fahrzeug dieser Bauart wurde nach Ausfall der Kommunika onsverbindung der Hauptschalter ausgeschaltet und der Stromabnehmer gesenkt. Es wurde jedoch
-keine Zwangsbremsung eingeleitet. Diese Funk onalität hä e das unkontrollierte führerlose
-Abrollen des zweiten Tfz verhindert.
+mit Schrecken festgestellt, dass die zweite Lok fehle. Er habe das beschädigte UIC-Kabel gese-
 
-Seite 27 von 28
+hen und gedacht, dass er die Lok gar nicht mitgenommen habe. Da habe sich aber der Fdl 
 
-Untersuchungsbericht
-Zugkollision, 25.02.2020, Weil am Rhein
+gemeldet und nachgefragt, ob ihm etwas fehle. Gleichzei(cid:415)g habe er etwas weiter vorne eine 
 
-6 Bisher getroffene Maßnahmen
-In die Betriebsvorschri en der BLS Cargo AG wurde zusätzlich die Anweisung aufgenommen,
-dass bei einer neu gekuppelten Vielfachsteuerung die vereinfachte Bremsprobe stets vom Boden aus und an allen Achsen durchgeführt werden muss.
-Das Lokpersonal der BLS Cargo AG wurde durch Hinweise in unternehmensinternen Fortbildungsunterlagen bezüglich dieses Themas sensibilisiert.
-Der Tf wurde einer Nachschulung unterzogen.
-Die Überwachung der Dienstausübung des Tf wird nach Angaben des EVU kün ig regelmäßig
-und nachweislich durchgeführt. Eine dokumen erte Beglei ahrt durch den Teamleiter fand
-am 17.03.2020 sta .
-Die Aufsichtsbehörde wird die Aspekte Überwachung von Tf, Wirksamkeit von Prozessen und
-das Thema Streckenkunde in den nächsten Audits verstärkt in den Fokus nehmen.
+grüne Vectron stehen sehen. In Absprache mit dem Fdl habe er seine Lok im Gleis 25 abgestellt 
 
-7 Sicherheitsempfehlungen
-Es wurden keine Sicherheitsempfehlungen ausgesprochen.
+und sei zur zweiten Lok gelaufen. Dort angekommen habe er festgestellt, dass es sich um seine 
 
-Seite 28 von 28
+zweite Lok handelte und dass diese entgleist sei. 
 
+Er habe auf dem Display keinen Hinweis auf die elektrische Trennung der zweiten Lok erhal-
+
+ten. 
+
+4.1.2  Stellungnahme	des	Fdl	Weil	am	Rhein	
+
+Kurz vor 11 Uhr sei ihm vom Fdl Basel Bad Bf die Tfzf 99276 auf dem Gegengleis angeboten 
+
+worden, die er angenommen habe. Er habe die Einfahrt nach Gleis 2 gestellt und unmi(cid:425)elbar 
+
+darauf die Rangierstraße nach Gleis 25. Dort hä(cid:425)en die Loks auf ihren Zug warten sollen. Da-
+
+nach habe er eine Einfahrt für Zug 45012 vom Regelgleis Basel Bad Bf nach Gleis 7 gestellt und 
+
+sich anschließend auf den Bf Hal(cid:415)ngen konzentriert. 
+
+Da habe ihn der Fdl Basel angerufen und gefragt, ob er das Signal für die Lok zurückgenommen 
+
+habe. Es sei noch eine Rotausleuchtung im Streckengleis. Er habe das verneint und den Tf der 
+
+Lokfahrt 99276 angerufen. Auf die eigentlich scherzha(cid:332) gemeinte Frage, ob dieser eine Lok 
+
+Seite 11 von 28 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 25.02.2020, Weil am Rhein 
+
+verloren habe hä(cid:425)e der Tf mit „Ja“ geantwortet. In diesem Moment habe der Fdl eine Rotaus-
+
+leuchtung im Abschni(cid:425) 153 vor dem Einfahrsignal bemerkt, die vorher dort noch nicht gewe-
+
+sen sei. Er habe dann Dispohalte auf die Signale in Weil und Hal(cid:415)ngen gesetzt, damit nichts in 
+
+Richtung Basel fahren könne. Direkt danach sei die Rotausleuchtung von der Strecke in den 
+
+Bahnhof und dann über die Weichen in das baubedingt verkürzte Gleis 8 gewechselt. Danach 
+
+habe er eine Störung an der Baugleissperre BG5 angezeigt bekommen. Der Lokführer von der 
+
+Lok im Gleis 25 habe ihm dann gemeldet, dass eine Lok im Gleis 8 entgleist sei. 
+
+4.2  Notfallmanagement	
+
+Nach § 4 Abs. 3 AEG haben die Eisenbahnen die Verpﬂichtung, an Maßnahmen des Brand-
+
+schutzes und der technischen Hilfeleistung mitzuwirken. In einer Vereinbarung zwischen den 
+
+Innenministerien der Länder und der DB AG hat man sich auf eine Verfahrensweise verstän-
+
+digt. Für die DB Netz AG gelten die entsprechenden Brand- und Katastrophenschutzgesetze 
+
+der Länder. Das No(cid:414)allmanagement der DB AG ist in der Konzernrichtlinie 123, das der DB 
+
+Netz AG in der Ril 423 näher beschrieben und geregelt. 
+
+Der No(cid:414)allmanager (Nmg) des EIU sowie der Notdienst des EVU waren innerhalb der Fristen 
+
+am Ereignisort. 
+
+Feststellungen zum No(cid:414)allmanagement 
+
+Lfd. Nr. 2 
+
+Unregelmäßigkeiten  oder  Verzögerungen  in  Bezug  auf  das  No(cid:414)allmanagement  wurden 
+
+nicht festgestellt. 
+
+Seite 12 von 28 
+
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 25.02.2020, Weil am Rhein 
+
+4.3  Untersuchung	der	bautechnischen	Infrastruktur	
+
+Zum Zeitpunkt des Ereignisses fanden im Bf Weil am Rhein umfangreiche Bauarbeiten gemäß 
+
+mehrerer Betriebs- und Bauanweisungen für den Planfeststellungsabschni(cid:425) 9.2 der ABS/NBS 
+
+Karlsruhe – Basel sta(cid:425). In diesem Zusammenhang war das Gleis 8 im Bf Weil am Rhein zum 
+
+Baugleis  erklärt  und  mit  einer  Baugleissperre  abgesichert.  Die  bautechnischen  Änderungen 
+
+waren in den betrieblichen Unterlagen nachgewiesen. 
+
+Bezogen auf den Fahrweg der Tfzf 99276 waren in Fahrtrichtung gesehen folgende Neigungs-
+
+verhältnisse anzutreﬀen: 
+
+Abschni(cid:425) 
+
+Neigung 
+
+ca. Länge in [m] 
+
+Basel Bad Bf 
+(ca. Esig der 
+
+- km 269,500
+Gegenrichtung)
+
+km 269,500 - km 269,600 
+
+0 ‰ 
+
++ 5 ‰
+
+km 269,600 - Esig FF Weil am Rhein 
+
+- 2,4 ‰
+
+Esig FF - Gleis 2 Bf Weil am Rhein 
+
+0 ‰ 
+
+Tabelle 3: Neigungsverhältnisse 
+
+650 
+
+100 
+
+855 
+
+1.000 
+
+Aufgrund der Erkenntnisse aus der Sachverhaltsermi(cid:425)lung konnte auf weitere oberbautech-
+
+nische  Untersuchungen  und  Messungen  verzichtet  werden.  Instandhaltungsdeﬁzite  im  Zu-
+
+sammenhang mit dem Ereignis waren auszuschließen. Die Schäden an der Fahrbahn waren 
+
+zweifellos Folgeschäden des Ereignisses. 
+
+Feststellung zur der bautechnischen Infrastruktur 
+
+Lfd. Nr. 3 
+
+Die Überprüfung der bautechnischen Infrastruktur ergab keine Hinweise auf Mängel oder 
+
+andere Auﬀälligkeiten. 
+
+4.4  Untersuchung	der	Leit‐	und	Sicherungstechnik	(LST)	
+
+Der Bahnhof Weil am Rhein wurde von einem Elektronischen Stellwerk (ESTW) der Bauform 
+
+El L 90 gesteuert. Der Bahnhof war mit einer selbs(cid:425)ä(cid:415)gen Gleisfreimeldeanlage mit Achszäh-
+
+lern sowie einer Zugnummernmeldeanlage ZNL 2000 ausgesta(cid:425)et. 
+
+Der Bahnhof Basel Bad Bf wurde von einem örtlichen Spurplanstellwerk der Bauart SpDrL 60 
+
+mit Stelltafel gesteuert. Auch dieser Bahnhof war mit einer selbs(cid:425)ä(cid:415)gen Gleisfreimeldeanlage 
+
+Seite 13 von 28 
+
+Untersuchungsbericht 
+
+Zugkollision, 25.02.2020, Weil am Rhein 
+
+ausgesta(cid:425)et. Zwischen den beiden Betriebsstellen war beidsei(cid:415)ger Gleiswechselbetrieb mit 
+
+selbs(cid:425)ä(cid:415)gem Streckenblock der Bauform EBL 2000 eingerichtet. 
+
+Die LST-Anlagen arbeiteten zum Zeitpunkt des Ereignisses fehlerfrei, Störungen lagen nicht 
+
+vor.  Die  Baugleissperre  BG 5  war  ordnungsgemäß  in  das  ESTW  integriert.  Die  signaltechni-
+
+schen Änderungen waren in den betrieblichen Unterlagen nachgewiesen. Aufgrund der Er-
+
+kenntnisse zum Ereignishergang konnte auf weiterführende Untersuchungen der signaltech-
+
+nischen Anlagen verzichtet werden. 
+
+Feststellung zur Untersuchung der Leit‐ und Sicherungstechnik 
+
+Lfd. Nr. 4 
+
+Die  Überprüfung  der  Leit-  und  Sicherungstechnik  ergab  keine  Hinweise  auf  Mängel  oder 
+
+andere Auﬀälligkeiten. 
+
+4.5  Untersuchung	der	betrieblichen	Abläufe	des	Infrastrukturbetreibers	
+
+Gemäß Betriebsstellenbuch war für den Bereich des Bahnhofs Weil am Rhein der Fdl 1 des 
+
+ESTW Weil am Rhein zuständig. Der Arbeitsplatz des Fdl war im Stellwerk Basel Bad Bf auf 
+
+Schweizer Hoheitsgebiet eingerichtet. Die Betriebsabwicklung auf der Strecke wurde grenz-
+
+überschreitend  nach  den  Bes(cid:415)mmungen  der  Fahrdienstvorschri(cid:332)  der  DB  Netz  AG  Ril  408 
+
+durchgeführt. Besonderheiten waren in der Ril 302.5004 geregelt und wurden über das Stre-
+
+ckenbuch und die Betriebsstellenbücher den Betriebspersonalen bekannt gegeben. 
+
+Die Tfzf 99276 wurde auf dem Gegengleis von Basel Bad Bf durchgeführt. Die Einfahrzugstraße 
+
+in den Bahnhof Weil am Rhein verlief vom Einfahrsignal FF über die Weichen 629 und 628 
+
+(jeweils Rechtslage) nach Gleis 2. Der EZ 45012 verkehrte kurz darauf auf dem Regelgleis von 
+
+Basel Bad Bf nach Weil am Rhein. Sowohl die Fahrstraßenauﬂösung für die einfahrende erste 
+
+Lok der Tfzf 99276 als auch die Fahrstraßeneinstellung für den nachfolgenden EZ 45012 er-
+
+folgte störungsfrei. Für die Einfahrzugstraße des EZ 45012 vom Einfahrsignal F nach Gleis 7 
+
+wurde die Weiche 629 als Flankenschutzweiche in Linkslage benö(cid:415)gt. Um 11:01 Uhr stellten 
+
+die beiden Fdl Basel Bad Bf und Weil am Rhein in einem GSM-R-Gespräch fest, dass eine Rot-
+
+belegung auf der Strecke verblieben war. 
+
+Sowohl die Abwicklung der Zugfahrten als auch die Kommunika(cid:415)on der beteiligten Fdl unter-
+
+einander und mit dem Tf der Tfzf 99276 erfolgte vorschri(cid:332)enkonform. 
+
+Seite 14 von 28 
+
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 25.02.2020, Weil am Rhein 
+
+Feststellung zur Untersuchung betrieblichen Abläufe des Infrastrukturbetreibers 
+
+Lfd. Nr. 5 
+
+Das Handeln der am Ereignis beteiligten Mitarbeiter im Bahnbetrieb des EIU erfolgte regel-
+
+werkskonform und ha(cid:425)e keinen Einﬂuss auf die Entstehung des Unfalls. 
+
+4.6  Untersuchung	der	betrieblichen	Abläufe	des	EVU	
+
+Die Zugfahrt verkehrte gemäß Angaben im Buchfahrplan als Tfzf 99276 von Mu(cid:425)enz nach Weil 
+
+am Rhein. Verantwortliches EVU war die BLS Cargo AG. Der am Ereignis beteiligte Tf übernahm 
+
+die Fahrt in Basel Bad Bf. Dort sollte ein zweites Tfz beigestellt bzw. getauscht werden. Beide 
+
+Tfz waren für die Weiterbeförderung des Zuges 43557 ab Weil am Rhein nach Italien vorgese-
+
+hen. 
+
+4.6.1  Auswertung	Elektronische	Fahrtenregistrierung	(EFR)	
+
+Zur Untersuchung der Abläufe wurden die registrierten Fahrdaten beider Triebfahrzeuge aus-
+
+gewertet. Diese wurden im Datenspeicher der EFR aufgezeichnet. Im beiden Fahrzeugen war 
+
+jeweils eine Datenspeicherspeichereinheit der Fa. Alstom verbaut. Beide PZB-Fahrzeuggeräte 
+
+waren  eingeschaltet.  Die  Rohdaten  waren  vollständig  und  fehlerfrei  aufgezeichnet.  Da  der 
+
+Führerstand im geführten zweiten Fahrzeug nicht ak(cid:415)viert war, wurden dort nur die mitlau-
+
+fenden Daten „Geschwindigkeit“ und „zurückgelegter Weg“ erfasst. Die Daten wurden durch 
+
+die BLS Cargo AG aus den Datenspeichern ausgelesen und der BEU zugeleitet. 
+
+Auf dem führenden Tfz 193 715 wurden um 10:22:53 Uhr intern registrierter Zeit der Führer-
+
+stand  1  ak(cid:415)viert  und  um  10:29:10  Uhr  die  Zugdaten  der  Tfzf  99276  eingegeben.  Die  Fahrt 
+
+wurde  im  Modus  „STM  Na(cid:415)onal“,  d. h.  mit  dem  na(cid:415)onalen  Zugsicherungssystem  PZB 90 
+
+durchgeführt. 
+
+Von 10:31:50 Uhr bis 10:35:57 Uhr waren zwei Rangierbewegungen mit Wechsel der Fahrt-
+
+richtung  über  kurze  Distanzen  von  183 m  bzw.  151 m  mit  max.  19 km/h  registriert.  Um 
+
+10:50:44 Uhr war eine kurze Rollbewegung über 4 m mit ca. 1 km/h aufgezeichnet. 
+
+Um 10:55:16 Uhr begann die Zugfahrt. Der Tf beschleunigte auf ca. 35 km/h. Bei der Vorbei-
+
+fahrt am Vorsignal Vﬀ wurde eine 1.000 Hz-Beeinﬂussung registriert und mit der Wachsam-
+
+keitstaste bestä(cid:415)gt. Nach einer zurückgelegten Strecke von 1.149 m beschleunigte der Tf ab 
+
+10:57:33 Uhr weiter bis auf max. 56 km/h. Um 10:58:07 Uhr fuhr er am Einfahrsignal FF und 
+
+Seite 15 von 28 
+
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 25.02.2020, Weil am Rhein 
+
+um 10:58:42 Uhr am Vorsignal Vp vorbei und qui(cid:427)erte die jeweiligen Beeinﬂussungen mit der 
+
+Wachsamkeitstaste. Im  weiteren Verlauf reduzierte der Tf die Geschwindigkeit wieder und 
+
+kam um 10:59:41 Uhr intern registrierter Zeit im Gleis 2 des Bf Weil am Rhein zum S(cid:415)llstand. 
+
+Um 11:04:01 Uhr begann eine Rangierbewegung über 490 m in die Gegenrichtung. Die Fahrt 
+
+erreichte dabei eine Geschwindigkeit von max. 33 km/h. 
+
+Die zulässigen Geschwindigkeiten gemäß Fahrplan und örtlicher Signalisierung wurden bei der 
+
+Zugfahrt nicht überschri(cid:425)en. Die zulässige Rangiergeschwindigkeit von 25 km/h wurde bei der 
+
+anschließenden Rangierbewegung überschri(cid:425)en. 
+
+Die Daten des geführten zweiten Tfz 475 404 zeigten folgenden registrierten Ablauf: Das Tfz 
+
+wurde von 10:03:57 Uhr bis 10:08:41 Uhr über eine Distanz von 2.733 m mit einem ak(cid:415)vierten 
+
+Führerstand als Zugfahrt 93893 bewegt. Um 10:15:48 Uhr wurde es in den Stand-By-Modus 
+
+versetzt. Um 10:42:59 Uhr wurde der Führerstand wieder ak(cid:415)viert und die Lok als geführtes 
+
+Fahrzeug eingerichtet. Von 10:50:44 Uhr bis 10:50:55 Uhr war eine kurze Rollbewegung über 
+
+4 m registriert. 
+
+Um 10:55:17 Uhr intern registrierter Zeit war die Abfahrt als geführtes Fahrzeug aufgezeich-
+
+net. Die Geschwindigkeit erhöhte sich bis auf 28 km/h um dann um 10:55:44 Uhr nach 129 m 
+
+plötzlich wieder abzufallen. Um 10:57:34 Uhr war mit 11 km/h nach weiteren 548 m der Tief-
+
+punkt  der  Geschwindigkeitskurve  erreicht.  Im  Folgenden  s(cid:415)eg  die  Geschwindigkeit  wieder 
+
+langsam bis auf max. 22 km/h an. Um 11:02:23 Uhr war ein steiler Abfall der Geschwindig-
+
+keitskurve, vermutlich aufgrund der Entgleisung erkennbar. Das Fahrzeug kam nach 21 m um 
+
+11:02:32 Uhr intern registrierter Zeit zum S(cid:415)llstand. Ein Hauptlu(cid:332)leitungsdruck war während 
+
+der gesamten Fahrbewegung nicht registriert. Bei deak(cid:415)viertem Führerstand werden Beein-
+
+ﬂussungen durch ak(cid:415)ve PZB-Magnete nicht aufgenommen und entsprechend nicht registriert. 
+
+Zur Verdeutlichung der Fahrbewegung wurden die registrierten Geschwindigkeits- und Wege-
+
+daten beider Tfz in folgenden Diagrammen übereinandergelegt. Hierbei ist sowohl die anhand 
+
+der unterschiedlichen Geschwindigkeiten als auch der zurückgelegten Wegstrecken die Tren-
+
+nung beider Fahrzeuge kurz nach Beginn der Zugfahrt deutlich erkennbar. 
+
+Seite 16 von 28 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 25.02.2020, Weil am Rhein 
+
+Abbildung 5: Zeit-Geschwindigkeits-Diagramm 
+
+Abbildung 6: Zeit-Weg-Diagramm 
+
+Anhand dieser Daten erfolgte die Trennung beider Fahrzeuge kurz vor dem deutlichen Abkni-
+
+cken der Geschwindigkeitskurve des geführten Fahrzeugs. Die Trennung ereignete sich somit 
+
+bereits kurz nach der Abfahrt in Basel Bad Bf, nach einer zurückgelegten Wegstrecke von max. 
+
+129 m um 10:55:44 Uhr interner Zeit des geführten Tfz. In der folgenden Abbildung ist die 
+
+ermi(cid:425)elte Trennstelle im Ausfahrbereich des Bahnhofs Basel Bad Bf näherungsweise skizziert. 
+
+Seite 17 von 28 
+
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 25.02.2020, Weil am Rhein 
+
+Abbildung 7: Skizze ermi(cid:425)elte Trennstelle in Basel Bad Bf5 
+
+4.6.2  Bremsprobe/Zugvorbereitung	
+
+Die für diesen Fall relevanten Regelungen zur Zugvorbereitung, Feststellung der Abfahrbereit-
+
+scha(cid:332) und Bremsprobe waren im Betriebsregelwerk (BRW) des EVU festgelegt. Gemäß BRW 
+
+5332 dur(cid:332)e ein Zug nur abfahren, wenn er abfahrbereit ist. Diese Feststellung oblag im vor-
+
+liegenden Fall dem Tf. Zur Feststellung der Abfahrbereitscha(cid:332) gehörte die Durchführung der 
+
+Zugvorbereitung.  Bestandteil  der  Zugvorbereitung  war  gemäß  BRW  4321  das  ordnungsge-
+
+mäße Kuppeln der Fahrzeuge und die Ausführung der Bremsprobe, soweit diese erforderlich 
+
+war. 
+
+Die  Reihenfolge  beim  Kuppeln  von  Fahrzeugen  war  in  BRW  6510  Abschn.  1  festgelegt.  Zu-
+
+nächst waren Fahrzeuge mechanisch mit der Schraubenkupplung zu verbinden. Dann war die 
+
+pneuma(cid:415)sche Verbindung über die Lu(cid:332)leitungen herzustellen. Zuletzt waren die elektrischen 
+
+Steuerleitungen zu stecken. Seitens des EVU waren keine abweichenden oder ergänzenden 
+
+5 Quelle:  DB Netz AG, bearbeitet durch BEU 
+
+Seite 18 von 28 
+
+ 
+ 
+ 
+                                                       
+Untersuchungsbericht 
+
+Zugkollision, 25.02.2020, Weil am Rhein 
+
+Regelungen zu diesen Vorgaben im BRW getroﬀen worden. Der Tf ha(cid:425)e nach eigener Schilde-
+
+rung abweichend von der vorgegebenen Reihenfolge zuerst die Steuerleitung gesteckt und es 
+
+anschließend versäumt, die zuvor übergangenen Arbeitsschri(cid:425)e (Verbindung Schraubenkupp-
+
+lung und Hauptlu(cid:332)leitung) nachzuholen. 
+
+Bezüglich der auszuführenden Bremsprobe ha(cid:425)e das EVU im Modul BLSC.0101A01 festgelegt, 
+
+dass die Regeln der VDV-Schri(cid:332) 757 Teil B (entspricht Ril 915) als mitgeltendes Regelwerk zu 
+
+beachten waren. Bei Mehrfachtrak(cid:415)on mit Re 475/BR 193 war nach Angaben des EVU eine 
+
+Bremsprobe am Display (Führerraumbremsprobe) nicht zulässig, da nicht alle erforderlichen 
+
+Daten über das UIC-Kabel übertragen wurden. Daher war vom Tf eine vereinfachte Brems-
+
+probe gemäß Ril 915.0104A01 außen an den Fahrzeugen durchzuführen. Der Löse- und Brems-
+
+zustand war am letzten Fahrzeug, d. h. in diesem Fall an der zweiten Lok festzustellen. 
+
+4.6.3  Qualifikation	des	Tf	
+
+Für die Grenzbetriebsstrecke galten entsprechend dem Abkommen zwischen der Schweiz und 
+
+Deutschland zum Einsatz Schweizer Tf im grenznahen Raum besondere Regelungen. Die in der 
+
+Schweiz ausgestellten Führerscheine wurden im Grenzverkehr anerkannt. 
+
+Der Tf war im Besitz eines Führerausweises des Bundesamtes für Verkehr der Schweiz sowie 
+
+einer Zusatzbescheinigung der BLS Cargo AG, die ihn u. a. berech(cid:415)gte, Zugfahrten mit Fahr-
+
+zeugen der Baureihen 193 und 475 auf der betroﬀenen Grenzbetriebsstrecke für die BLS Cargo 
+
+AG durchzuführen. 
+
+Der Tf war auf dem betroﬀenen Abschni(cid:425) nachweislich häuﬁg unterwegs und somit strecken-
+
+kundig. Der vorgelegte Nachweis der Streckenkunde entsprach jedoch nicht den Regeln der 
+
+VDV  755.  Die  Daten  des  vorgelegten  Streckenkundenachweises  basierten  auf  den  in  der 
+
+Schweiz geforderten Fristen von 36 Monaten bis zum Erlöschen der Streckenkenntnis. Die VDV 
+
+755 fordert für Deutschland 12 bzw. bei einfachen Verhältnissen 24 Monate. 
+
+Ein Tauglichkeitsnachweis nach den Schweizerischen Richtlinien für die Zulassung zum Führen 
+
+von  Tfz  der  Eisenbahnen  wurde  zur  Einsichtnahme  vorgelegt.  Fortbildungsunterrichte  mit 
+
+Schwerpunkt Grenzverkehr wurden nachweislich durchgeführt. Die Ruhezeiten zwischen den 
+
+Dienstschichten wurden eingehalten. 
+
+Ein Nachweis der  Überwachung während der Dienstausübung („Beglei(cid:414)ahrt“) konnte nicht 
+
+vorgelegt werden. Nach Angaben des verantwortlichen EVU seien diese  zwar durchgeführt 
+
+worden, schri(cid:332)lich jedoch nicht mehr nachvollziehbar. 
+
+Seite 19 von 28 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 25.02.2020, Weil am Rhein 
+
+Feststellung zur Untersuchung der betrieblichen Abläufe des EVU 
+
+Lfd. Nr. 6 
+
+Nach ca. 129 m durchfahrender Strecke diﬀerierten die Geschwindigkeits- und Wegekurven 
+
+der beiden Fahrzeuge. 
+
+Das geführte Fahrzeug rollte führerlos mit max. 22 km/h in Richtung Weil am Rhein. 
+
+Die  zulässige  Rangiergeschwindigkeit  des  führenden  Tfz  nach  dem  Ereignis  wurde  über-
+
+schri(cid:425)en. 
+
+Der Tf ha(cid:425)e die Vorgaben im Regelwerk zur Reihenfolge beim Kuppeln und zur Durchfüh-
+
+rung der Bremsprobe nicht eingehalten. 
+
+Der Streckenkundenachweis entsprach nicht den Vorgaben der VDV 755. 
+
+Nachweise zur Überwachung des Tf während der Dienstausübung wurden nicht vorgelegt. 
+
+4.7  Untersuchung	von	Fahrzeugen	
+
+Die beiden beteiligten Fahrzeuge waren vierachsige elektrische Triebfahrzeuge der Lokomo-
+
+(cid:415)vfamilie Siemens Vectron des Herstellers Siemens Mobility AG. Diese wurden in Deutschland 
+
+unter der Baureihenbezeichnung 193, in der Schweiz als Baureihe Re 475 geführt, waren in 
+
+der vorliegenden Ausführung jedoch weitgehend baugleich. 
+
+Die Bremsen beider Tfz waren eingeschaltet und funk(cid:415)onsfähig. Entsprechend den Angaben 
+
+im Dauerbremsze(cid:425)el (CH: Dauerlastze(cid:425)el) verfügte die Tfzf 99276 bei einer Gesamtzuglänge 
+
+von 38 m über 150 Bremshundertstel. Die gemäß Fahrplan erforderlichen 50 Mindestbrems-
+
+hundertstel waren erreicht. 
+
+Seite 20 von 28 
+
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 25.02.2020, Weil am Rhein 
+
+Aus der folgenden Tabelle lassen sich die technischen Fahrzeugdaten entnehmen: 
+
+Führendes Tfz 
+
+Geführtes Tfz 
+
+Fahrzeugnummer  
+
+91 80 6193 715-0 
+
+91 85 4475 404-0 
+
+Baureihenbezeichnung 
+
+193 
+
+Re 475 
+
+Halter und ECM 
+
+MRCE 
+
+BLS Cargo AG 
+
+Antrieb 
+
+Nennleistung 
+
+elektrisch 
+
+6.400 kW 
+
+elektrisch 
+
+6.400 kW 
+
+Gesamtlänge (LüP) 
+
+18.980 mm 
+
+18.980 mm 
+
+Gesamtgewicht 
+
+90 t 
+
+Höchstgeschwindigkeit 
+
+160 km/h 
+
+Radsatzfolge 
+
+Bo′Bo′ 
+
+90 t 
+
+160 km/h 
+
+Bo′Bo‘ 
+
+Zugsicherungssystem  
+(für Deutschland) 
+
+PZB, LZB, ETCS Baseline 
+(Level 0 & Level 2) 
+
+2 
+
+PZB, LZB, ETCS Baseline 
+(Level 0 & Level 2) 
+
+2 
+
+Bremsbauart 
+
+KE-GPR-E mZ (D) 
+
+KE-GPR-E mZ (D) 
+
+Einsatzraum 
+
+CH, D, A, I, NL 
+
+CH, D, A, I, NL 
+
+Tabelle 4: Technische Daten Tfz 
+
+Für beide Fahrzeuge wurden die erforderlichen Wartungs- und Instandhaltungsarbeiten nach-
+
+gewiesen. Es waren keine Auﬀälligkeiten oder Versäumnisse festzustellen. 
+
+Zur Verdeutlichung der technischen Abläufe wurden ergänzend die in den Fahrzeugen gespei-
+
+cherten  Protokoll-  und  Diagnosedaten  ausgewertet.  Die  relevanten  Meldungen  sind  in  der 
+
+nachfolgenden Tabelle dargestellt. Da die internen Zeiten beider Tfz um ca. 10 Sekunden von-
+
+einander abwichen, wurden die Zeiten der geführten Lok zur besseren Darstellung entspre-
+
+chend angepasst: 
+
+Seite 21 von 28 
+
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 25.02.2020, Weil am Rhein 
+
+Uhrzeit 
+
+Führendes Tfz 193 715 
+
+Geführtes Tfz 475 404 
+
+10:46:45 
+
+Führerraum 1 besetzt 
+
+10:50:12 
+
+10:50:15 
+
+10:50:43 
+
+10:55:34 
+
+10:55:35 
+
+10:55:36 
+
+10:55:38 
+
+10:55:49 
+
+10:55:49 
+
+Bremse: pneuma(cid:415)sche Bremse  
+angelegt, direkte Bremse angelegt 
+Bremse:  Prüfung 
+durchgeführt 
+Bremse: pneuma(cid:415)sche Bremse 
+legt, direkte Bremse angelegt 
+
+Fahrsperre  lösen  Bremse:  Prüfung 
+
+Fahrsperre  lösen 
+
+durchgeführt 
+
+ange- Bremse:  pneuma(cid:415)sche Bremse 
+gelegt, direkte Bremse angelegt 
+
+an-
+
+Bremse: pneuma(cid:415)sche Bremse  
+angelegt, direkte Bremse angelegt 
+
+vom Zugbus-
+
+Kommunika(cid:415)onsausfall 
+Slave 1 (ZMS Betrieb) 
+ZMS  Kommunika(cid:415)onsstörung:  keine 
+Daten von der ersten geführten Lok 
+
+Kommunika(cid:415)onsausfall ZMS 
+
+Keine Fahrtrichtung eingelegt 
+
+Stromabnehmer nieder 
+
+Hauptschalter aus 
+
+10:56:09 
+
+Leuchtmelder 1.000 Hz 
+
+10:59:32 
+
+S(cid:415)llstand 
+
+Im  ZMS-Modus 
+vorhanden 
+
+keine  weitere  Lok 
+
+10:59:39 
+
+11:02:24 
+
+S(cid:415)llstand 
+
+Tabelle 5: Protokoll- und Diagnosedaten  
+
+Nach dem Verbinden der elektrischen Steuerleitung wurde das Vorhandensein eines zweiten 
+
+Tfz auf dem Technical and Diagnos(cid:415)c Display (TDD) im Führerstand angezeigt. Über diese Steu-
+
+erleitung waren die direkte Bremse und die Federspeicherbremse des geführten Fahrzeugs 
+
+steuerbar. Daher waren sowohl die vom Tf beschriebene Manometerbremsprobe im Führer-
+
+stand  als  auch  die  Rollprobe  erfolgreich  möglich.  Die  Durchgängigkeit  der  Hauptlu(cid:332)leitung 
+
+konnte auf diesem Wege nicht festgestellt werden. 
+
+Auf nachfolgender Abbildung ist beispielha(cid:332) dargestellt, wie dem Tf das Vorhandensein und 
+
+Funk(cid:415)onsfähigkeit beider Tfz angezeigt wird. Aufgrund der gesteckten Steuerleitung ha(cid:425)e der 
+
+Tf auf dem führenden Tfz zu Beginn der Zugfahrt alle relevanten Angaben. 
+
+Seite 22 von 28 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 25.02.2020, Weil am Rhein 
+
+Abbildung 8: Beispiel TDD-Anzeigen bei zwei gekuppelten Tfz6 
+
+Gemäß Lokführerhandbuch der Fa. Siemens Mobility Punkt 9.2.2 wurde bei Unterbrechung 
+
+der Kommunika(cid:415)on bei Mehrfachtrak(cid:415)on eine gelbe Störungsmeldung zur Kommunika(cid:415)ons-
+
+störung auf dem TDD angezeigt. Die Meldung wurde akus(cid:415)sch hinterlegt. Kam diese Meldung 
+
+während der Fahrt, wurde zur Störungsabhilfe im Handbuch vorgegeben, dass an geeigneter 
+
+Stelle zu halten war um Beschädigungen an Baugruppen und Bauteilen der Lokomo(cid:415)ve zu ver-
+
+meiden.  Als  geeignete  Stelle  sah  das  Handbuch  Bereiche  außerhalb  von  Trennstellen  und 
+
+Spannungswechselzonen an, da der Tf keine Kontrolle über den Zustand des Stromabnehmers 
+
+der geführten Lok ha(cid:425)e. Wenn die Störung länger als 10 Sekunden bestand und mit mehr als 
+
+10 km/h gefahren wurde, erfolgte eine automa(cid:415)sche Ausschaltung des Hauptschalters und 
+
+Senkung des Stromabnehmers auf der geführten Lok. Weitere betriebliche Regelungen zum 
+
+Umgang mit dieser Störmeldung wurden seitens des EVU nicht gegeben. 
+
+6 Quelle: Arbeitsheft Tf-Ausbildung BLS Cargo AG, bearbeitet durch BEU 
+
+Seite 23 von 28 
+
+ 
+ 
+ 
+ 
+ 
+                                                       
+Untersuchungsbericht 
+
+Zugkollision, 25.02.2020, Weil am Rhein 
+
+Feststellung zur Untersuchung der Fahrzeuge 
+
+Lfd. Nr. 7 
+
+Eine vorschri(cid:332)enkonforme Bremsprobe war vom Führerstand des führenden Tfz aus nicht 
+
+möglich. 
+
+Nach Abbruch der Kommunika(cid:415)onsverbindung zwischen den Tfz wurde nach 10 Sekunden 
+
+automa(cid:415)sch der  Hauptschalter des geführten Tfz ausgeschaltet und der Stromabnehmer 
+
+gesenkt. 
+
+Eine automa(cid:415)sche Bremsung war für diesen Fall nicht implemen(cid:415)ert. 
+
+Seite 24 von 28 
+
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 25.02.2020, Weil am Rhein 
+
+5  Auswertung	
+
+Das Kapitel 5 Auswertung befasst sich mit der Ereignisrekonstruk(cid:415)on. Anhand der oben ge-
+
+nannten Feststellungen wird ein plausibler Ablauf des gefährlichen Ereignisses zusammenge-
+
+tragen. Relevante Erkenntnisse werden anschließend bewertet und führen ggf. zu entspre-
+
+chenden Schlussfolgerungen. 
+
+5.1  Ereignisrekonstruktion	
+
+Am 25.02.2020 war vom Tf die Tfzf 99276 von Basel Bad Bf nach Weil am Rhein durchzuführen. 
+
+Zunächst waren vom Tf organisatorische Fragen bezüglich der Zugbildung mit der Leitstelle 
+
+der BLS Cargo AG zu klären. Von 10:31 Uhr bis 10:35 Uhr rangierte der Tf das führende Tfz 193 
+
+715 von Gleis 55 an das bereits im Gleis 50 stehende zweite Tfz 475 404 heran. Anschließend 
+
+kuppelte er abweichend von der vorgeschriebenen Reihenfolge zuerst die elektrische Steuer-
+
+leitung. Danach versäumte er es, die mechanische und pneuma(cid:415)sche Kupplung zu verbinden. 
+
+Sta(cid:425)dessen rüstete er das zweite Tfz um 10:42 Uhr als geführtes Fahrzeug im ZMS auf. Im 
+
+weiteren Verlauf stellte er auch das führende Tfz auf ZMS Betrieb um. Beide Tfz wurden auf 
+
+dem TDD ordnungsgemäß angezeigt. Vom Führerstand des führenden Fahrzeugs aus führte 
+
+er um 10:50 Uhr eine Manometerbremsprobe durch. Bedingt durch die gekuppelte Steuerlei-
+
+tung wurde ihm das Anlegen der direkten Bremse beider Fahrzeuge auf dem TDD im führen-
+
+den Fahrzeug angezeigt. Anschließend war um 10:50 Uhr eine erfolgreich durchgeführte Roll-
+
+probe über vier Meter auf beiden Fahrzeugen registriert. 
+
+Nachdem  das  Ausfahrsignal  P50  in  Basel  Bad  Bf  Fahrtstellung  zeigte,  begann  der  Tf  um 
+
+10:55 Uhr mit der Zugfahrt nach Weil am Rhein. Die Fahrt verlief auf dem Gegengleis. Über 
+
+die elektrische Steuerleitung erhielt auch das geführte Tfz einen Fahrbefehl. Bedingt durch 
+
+leicht diﬀerierende Geschwindigkeiten und die fehlende mechanische Kupplung beider Fahr-
+
+zeuge wurde das Steuerkabel bereits kurz nach der Abfahrt zwischen den Tfz getrennt. Der 
+
+Kommunika(cid:415)onsausfall zwischen beiden Fahrzeugen wurden dem Tf zwar auf dem TDD des 
+
+führenden Fahrzeugs signalisiert, oﬀenbar aber nicht weiter beachtet. Entsprechend der Funk-
+
+(cid:415)onalität schaltete das geführte Tfz 10 Sekunden nach dem Kommunika(cid:415)onsausfall bei einer 
+
+Geschwindigkeit von ca. 28 km/h den Hauptschalter aus und senkte den Stromabnehmer. Auf-
+
+grund der Topograﬁe reduzierte sich durch die fehlende Leistung die Geschwindigkeit des ge-
+
+führten Tfz während der Tf mit dem führenden Tfz weiter bis auf ca. 35 km/h beschleunigte. 
+
+Seite 25 von 28 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 25.02.2020, Weil am Rhein 
+
+Nachdem  der  Tf  die  Fahrtstellung  des  Einfahrsignals  FF  von  Weil  am  Rhein  wahrnahm  be-
+
+schleunigte er weiter und fuhr um 10:59 Uhr mit dem führenden Tfz nach Gleis 2 in den Bahn-
+
+hof ein. Das führerlos nachrollende zweite Tfz überwand mit absinkender Geschwindigkeit die 
+
+kurze Steigung im Ausfahrbereich des Bahnhofs Basel Bad Bf und rollte im anschließenden 
+
+leichten Gefälle des Streckengleises mit wieder langsam ansteigender Geschwindigkeit eben-
+
+falls in Richtung Weil am Rhein. Durch die unterschiedlichen Geschwindigkeiten vergrößerte 
+
+sich der Abstand zwischen beiden Fahrzeugen zunehmend. 
+
+Nach der Einfahrt der führenden Lok der Tfzf 99276 in den Bf Weil am Rhein löste die einge-
+
+stellte Fahrstraße abschni(cid:425)sweise auf. Die beteiligten Fdl erkannten eine verbliebene Rotaus-
+
+leuchtung im Streckengleis. Gleichzei(cid:415)g stellte der Fdl Weil am Rhein eine Einfahrzugstraße 
+
+für den sich im Regelgleis nähernden EZ 45012 nach Gleis 7. Dadurch lief die nun nicht mehr 
+
+festgelegte Weiche 629 als Flankenschutzweiche zur Fahrt nach links um. 
+
+Die langsam führerlos in den Bahnhof Weil am Rhein einrollende Lok bewegte sich aufgrund 
+
+der nun geänderten Weichenlage in Richtung Gleis 8. Der Fdl erkannte die gefährliche Situa-
+
+(cid:415)on und sperrte das Einlaufen weiterer Zugstraßen. Das Tfz überfuhr um 11:02 Uhr mit ca. 
+
+20 km/h die im dem Gleis 8 angebrachte Baugleissperre 5 und entgleiste. 
+
+5.2  Bewertung	und	Schlussfolgerung	
+
+Der Tf ha(cid:425)e die im BRW vorgegebene Reihenfolge beim Kuppeln von Fahrzeugen nicht einge-
+
+halten. Dadurch waren die beiden Tfz nur mit der elektrischen Steuerleitung verbunden. Der 
+
+Tf hä(cid:425)e diesen Fehler bemerken müssen, wenn er die für die Zugfahrt erforderliche Brems-
+
+probe wie vorgeschrieben durchgeführt hä(cid:425)e. Er ha(cid:425)e jedoch darauf verzichtet, die verein-
+
+fachte Bremsprobe außen an den Fahrzeugen durchzuführen und sich auf die Anzeigen auf 
+
+seinem Display verlassen. Da die direkte Bremse über die Steuerleitung angesprochen wurde, 
+
+konnte er mit beiden Fahrzeugen eine aus seiner Sicht ordnungsgemäße Brems- und Rollprobe 
+
+durchführen. Ihm war oﬀenbar entweder nicht bewusst, dass er über das Display keine Anga-
+
+ben zum Kuppelzustand und zur Durchgängigkeit der Hauptlu(cid:332)leitung erhielt, oder er beach-
+
+tete die Displayanzeigen im Führerraum nicht, weil er sich absolut sicher war, die mechanische 
+
+und pneuma(cid:415)sche Kupplung korrekt ausgeführt zu haben. Durch die Arbeitsfehler kam es kurz 
+
+nach der Abfahrt aus Basel Bad Bf zur Zugtrennung. 
+
+Seite 26 von 28 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 25.02.2020, Weil am Rhein 
+
+Vom  EVU  wurden  keine  Nachweise  einer  direkten  Überwachung  des  Tf  bei  der  Dienstaus-
+
+übung vorgelegt. Diese seien bis 2018 zwar durchgeführt worden, jedoch aufgrund eines Vor-
+
+gesetztenwechsels schri(cid:332)lich nicht mehr nachvollziehbar. Die Überwachung der Arbeitsaus-
+
+führung  von  Personalen  mit  sicherheitsrelevanten  Aufgaben  dient  dazu,  das  Sicherheitsbe-
+
+wusstsein  zu  schärfen  und  sicherzustellen,  dass  die  in  Aus-  und  Fortbildung  erworbenen 
+
+Kenntnisse und Fer(cid:415)gkeiten auch im Praxisalltag sicher umgesetzt werden. Deshalb muss im 
+
+SMS des EVU gemäß Verordnung (EU) 2018/762 Anhang I Punkt 6.1.2 ein Verfahren eingerich-
+
+tet sein, in dem regelmäßig die Erfüllung sicherheitsrelevanter Aufgaben überwacht wird. Die 
+
+Überwachung von Tf ist Teil der Sicherheitspﬂichten eines EVU und Bestandteil der Erteilung 
+
+der Sicherheitsbescheinigung. 
+
+Darüber hinaus muss im SMS gemäß Verordnung (EU) 2018/762 Anhang I Punkt 6.1.1 ein Ver-
+
+fahren implemen(cid:415)ert sein, das die ordnungsgemäße Anwendung und Wirksamkeit von Pro-
+
+zessen  und  Verfahren  im  SMS  überprü(cid:332)  und  ggf.  korrigiert.  Die  fehlende  Dokumenta(cid:415)on 
+
+wurde erst im Verlauf der Unfalluntersuchung erkannt. Daher ist das SMS des EVU dahinge-
+
+hend zu überprüfen und ggf. nachzusteuern, ob ein entsprechendes Verfahren zur Sicherstel-
+
+lung der Durchführung vorgeschriebener Prozesse und Verfahren hinreichend wirksam ist. 
+
+Bezüglich der abweichenden Regeln zur Streckenkunde, die den Vorgaben des Bundesamtes 
+
+für Verkehr der Schweiz entsprechen, teilte das EVU mit, dass aufgrund der hohen Regelmä-
+
+ßigkeit, mit der die Tf der BLS Cargo AG die Grenzbetriebsstellen befahren, die Einhaltung der 
+
+Regeln gemäß VDV 755 gewährleistet sei. Auf Grenzbetriebsstrecken gelten besondere Ver-
+
+einbarungen zwischen den beteiligten Staaten und Eisenbahnunternehmen. 
+
+Auf einem geführten Fahrzeug dieser Bauart wurde nach Ausfall der Kommunika(cid:415)onsverbin-
+
+dung  der  Hauptschalter  ausgeschaltet  und  der  Stromabnehmer  gesenkt.  Es  wurde  jedoch 
+
+keine Zwangsbremsung eingeleitet. Diese Funk(cid:415)onalität hä(cid:425)e das unkontrollierte führerlose 
+
+Abrollen des zweiten Tfz verhindert. 
+
+Seite 27 von 28 
+
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 25.02.2020, Weil am Rhein 
+
+6  Bisher	getroffene	Maßnahmen	
+
+In die Betriebsvorschri(cid:332)en der BLS Cargo AG wurde zusätzlich die Anweisung aufgenommen, 
+
+dass bei einer neu gekuppelten Vielfachsteuerung die vereinfachte Bremsprobe stets vom Bo-
+
+den aus und an allen Achsen durchgeführt werden muss. 
+
+Das Lokpersonal der BLS Cargo AG wurde durch Hinweise in unternehmensinternen Fortbil-
+
+dungsunterlagen bezüglich dieses Themas sensibilisiert. 
+
+Der Tf wurde einer Nachschulung unterzogen. 
+
+Die Überwachung der Dienstausübung des Tf wird nach Angaben des EVU kün(cid:332)ig regelmäßig 
+
+und nachweislich durchgeführt. Eine dokumen(cid:415)erte Beglei(cid:414)ahrt durch den Teamleiter fand 
+
+am 17.03.2020 sta(cid:425). 
+
+Die Aufsichtsbehörde wird die Aspekte Überwachung von Tf, Wirksamkeit von Prozessen und 
+
+das Thema Streckenkunde in den nächsten Audits verstärkt in den Fokus nehmen. 
+
+7  Sicherheitsempfehlungen	
+
+Es wurden keine Sicherheitsempfehlungen ausgesprochen. 
+
+Seite 28 von 28 
+
+ 
+ 
 

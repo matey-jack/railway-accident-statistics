@@ -1,875 +1,1368 @@
-Untersuchungsbericht
-Aktenzeichen:
+Untersuchungsbericht 
 
-60uu2014-11/010-3323
+Aktenzeichen: 
 
-Stand:
+60uu2014-11/010-3323 
 
-18.01.2022 Version: 1.0
+Stand: 
 
-Erstveröﬀentlichung:
+18.01.2022     Version:  1.0 
 
-26.01.2022
+Erstveröﬀentlichung:  26.01.2022 
 
-Gefährliches Ereignis im Eisenbahnbetrieb
+Gefährliches	Ereignis	im	Eisenbahnbetrieb 
 
-Ereignisart:
+Ereignisart: 
 
-Zugkollision
+Datum: 
 
-Datum:
+Zeit: 
 
-13.11.2014
+Bahnhof: 
 
-Zeit:
+Gleis: 
 
-00:17 Uhr
+Kilometer: 
 
-Bahnhof:
+Zugkollision 
 
-Düsseldorf Flughafen Terminal
+13.11.2014 
 
-Gleis:
+00:17 Uhr 
 
-882
+Düsseldorf Flughafen Terminal 
 
-Kilometer:
+882 
 
-1,30
+1,30 
 
-Untersuchungsbericht
-Zugkollision, 13.11.2014, Düsseldorf Flughafen Terminal
+	
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Veröﬀentlicht durch:
-Bundesstelle für Eisenbahnunfalluntersuchung
-Heinemannstraße 6
-53175 Bonn
+Zugkollision, 13.11.2014, Düsseldorf Flughafen Terminal 
 
-Untersuchungsbericht
-Zugkollision, 13.11.2014, Düsseldorf Flughafen Terminal
+Veröﬀentlicht durch: 
 
-Inhaltsverzeichnis
-I.
+Bundesstelle für Eisenbahnunfalluntersuchung 
 
-Änderungsverzeichnis: .......................................................................................... II
+Heinemannstraße 6 
 
-II.
+53175 Bonn 
 
-Abbildungsverzeichnis: ........................................................................................ III
+ 
+Untersuchungsbericht 
 
-III.
+Zugkollision, 13.11.2014, Düsseldorf Flughafen Terminal 
 
-Tabellenverzeichnis: ............................................................................................ III
+Inhaltsverzeichnis	
 
-IV.
+I. 
 
-Abkürzungsverzeichnis: ....................................................................................... IV
+II. 
 
-1
+Änderungsverzeichnis: .......................................................................................... II 
 
-Vorbemerkungen .................................................................................................. 1
+Abbildungsverzeichnis: ........................................................................................ III 
 
-1.1
+III. 
 
-Organisatorischer Hinweis ...................................................................................... 1
+Tabellenverzeichnis: ............................................................................................ III 
 
-1.2
+IV. 
 
-Ziel der Eisenbahnunfalluntersuchung.................................................................... 2
+Abkürzungsverzeichnis: ....................................................................................... IV 
 
-2
+1 
 
-Zusammenfassung ................................................................................................ 3
+1.1 
 
-2.1
+1.2 
 
-Kurzbeschreibung des Ereignisses........................................................................... 3
+2 
 
-2.2
+2.1 
 
-Folgen ...................................................................................................................... 3
+2.2 
 
-2.3
+2.3 
 
-Ursachen.................................................................................................................. 3
+2.4 
 
-2.4
+3 
 
-Sicherheitsempfehlungen ....................................................................................... 3
+3.1 
 
-3
+3.2 
 
-Allgemeine Angaben ............................................................................................. 4
+3.3 
 
-3.1
+3.4 
 
-Lage und Beschreibung des Ereignisortes ............................................................... 4
+4 
 
-3.2
+4.1 
 
-Beteiligte und Mitwirkende..................................................................................... 6
+4.2 
 
-3.3
+4.3 
 
-Äußere Bedingungen ............................................................................................... 6
+4.4 
 
-3.4
+4.5 
 
-Todesopfer, Verletzte und Sachschäden................................................................. 6
+4.6 
 
-4
+Vorbemerkungen .................................................................................................. 1 
 
-Untersuchungsprotokoll ....................................................................................... 8
+Organisatorischer Hinweis ...................................................................................... 1 
 
-4.1
+Ziel der Eisenbahnunfalluntersuchung .................................................................... 2 
 
-Zusammenfassung von Aussagen und Stellungnahmen ......................................... 8
+Zusammenfassung ................................................................................................ 3 
 
-4.2
+Kurzbeschreibung des Ereignisses ........................................................................... 3 
 
-Notfallmanagement ................................................................................................ 8
+Folgen ...................................................................................................................... 3 
 
-4.3
+Ursachen .................................................................................................................. 3 
 
-Untersuchung der bautechnischen Infrastruktur ................................................... 8
+Sicherheitsempfehlungen ....................................................................................... 3 
 
-4.4
+Allgemeine Angaben ............................................................................................. 4 
 
-Untersuchung der Leit- und Sicherungstechnik (LST) ............................................. 8
+Lage und Beschreibung des Ereignisortes ............................................................... 4 
 
-4.5
+Beteiligte und Mitwirkende ..................................................................................... 6 
 
-Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers ................... 8
+Äußere Bedingungen ............................................................................................... 6 
 
-4.6
+Todesopfer, Verletzte und Sachschäden ................................................................. 6 
 
-Untersuchung der betrieblichen Abläufe der EVU ................................................ 11
+Untersuchungsprotokoll ....................................................................................... 8 
 
-I
+Zusammenfassung von Aussagen und Stellungnahmen ......................................... 8 
 
-Untersuchungsbericht
-Zugkollision, 13.11.2014, Düsseldorf Flughafen Terminal
+Notfallmanagement ................................................................................................ 8 
 
-I.
+Untersuchung der bautechnischen Infrastruktur ................................................... 8 
 
-4.6.1
+Untersuchung der Leit- und Sicherungstechnik (LST) ............................................. 8 
 
-Untersuchung der betrieblichen Handlungen des Tf des Skl ................................ 11
+Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers ................... 8 
 
-4.6.2
+Untersuchung der betrieblichen Abläufe der EVU ................................................ 11 
 
-Untersuchung der betrieblichen Handlungen des Tf des Zuges S 30601 ............. 12
+I 
 
-4.7
+ 
+ 
+Untersuchungsbericht 
 
-Untersuchung von Fahrzeugen ............................................................................. 13
+Zugkollision, 13.11.2014, Düsseldorf Flughafen Terminal 
 
-5
+4.6.1 
 
-Auswertung ........................................................................................................ 15
+Untersuchung der betrieblichen Handlungen des Tf des Skl ................................ 11 
 
-5.1
+4.6.2 
 
-Ereignisrekonstruktion .......................................................................................... 15
+Untersuchung der betrieblichen Handlungen des Tf des Zuges S 30601 ............. 12 
 
-5.2
+4.7 
 
-Bewertung und Schlussfolgerung .......................................................................... 15
+5 
 
-6
+5.1 
 
-Bisher getroffene Maßnahmen ........................................................................... 18
+5.2 
 
-7
+6 
 
-Sicherheitsempfehlungen ................................................................................... 18
+7 
 
-Änderungsverzeichnis:
-Änderung
+Untersuchung von Fahrzeugen ............................................................................. 13 
 
-Stand
+Auswertung ........................................................................................................ 15 
 
-II
+Ereignisrekonstruktion .......................................................................................... 15 
 
-Untersuchungsbericht
-Zugkollision, 13.11.2014, Düsseldorf Flughafen Terminal
+Bewertung und Schlussfolgerung .......................................................................... 15 
 
-II.
+Bisher getroffene Maßnahmen ........................................................................... 18 
 
-Abbildungsverzeichnis:
-Abbildung 1: Lageplan ................................................................................................................ 4
-Abbildung 2: Gleislageskizze ...................................................................................................... 5
-Abbildung 3: Unfallstelle, Blickrichtung Westen ........................................................................ 7
-Abbildung 4: Unfallstelle, Blickrichtung Osten........................................................................... 7
+Sicherheitsempfehlungen ................................................................................... 18 
 
-III.
+I.  Änderungsverzeichnis:	
 
-Tabellenverzeichnis:
-Tabelle 1: Übersicht der Personenschäden ............................................................................... 6
-Tabelle 2: Übersicht der geschätzten Schadenshöhe ................................................................ 6
-Tabelle 3: Technische Daten Skl ............................................................................................... 13
-Tabelle 4: Technische Daten Kla............................................................................................... 13
+Änderung 
 
-III
+Stand 
 
-Untersuchungsbericht
-Zugkollision, 13.11.2014, Düsseldorf Flughafen Terminal
+II 
 
-IV.
+ 
+ 
+ 
+ 
+ 
+ 
+	
+	
+Untersuchungsbericht 
 
-Abkürzungsverzeichnis:
-AEG
+Zugkollision, 13.11.2014, Düsseldorf Flughafen Terminal 
 
-Allgemeines Eisenbahngesetz
+II.  Abbildungsverzeichnis:	
 
-Betra
+Abbildung 1: Lageplan ................................................................................................................ 4 
 
-Betriebs- und Bauanweisung
+Abbildung 2: Gleislageskizze ...................................................................................................... 5 
 
-BEU
+Abbildung 3: Unfallstelle, Blickrichtung Westen ........................................................................ 7 
 
-Bundesstelle für Eisenbahnunfalluntersuchung
+Abbildung 4: Unfallstelle, Blickrichtung Osten ........................................................................... 7 
 
-BEVVG
+III.  Tabellenverzeichnis:	
 
-Bundeseisenbahnverkehrsverwaltungsgesetz
+Tabelle 1: Übersicht der Personenschäden ............................................................................... 6 
 
-Bf
+Tabelle 2: Übersicht der geschätzten Schadenshöhe ................................................................ 6 
 
-Bahnhof
+Tabelle 3: Technische Daten Skl ............................................................................................... 13 
 
-BMVI
+Tabelle 4: Technische Daten Kla ............................................................................................... 13 
 
-Bundesministerium für Verkehr und digitale Infrastruktur
+III 
 
-EBA
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Eisenbahn-Bundesamt
+Zugkollision, 13.11.2014, Düsseldorf Flughafen Terminal 
 
-EFR
+IV.  Abkürzungsverzeichnis:	
 
-Elektronische Fahrtenregistrierung
+AEG 
 
-EIU
+Betra 
 
-Eisenbahninfrastrukturunternehmen
+BEU 
 
-Esig
+Allgemeines Eisenbahngesetz 
 
-Einfahrsignal
+Betriebs- und Bauanweisung 
 
-EU
+Bundesstelle für Eisenbahnunfalluntersuchung 
 
-Europäische Union
+BEVVG 
 
-EUB
+Bundeseisenbahnverkehrsverwaltungsgesetz 
 
-Eisenbahn-Unfalluntersuchungsstelle des Bundes
+Bf 
 
-EUV
+Bahnhof 
 
-Eisenbahn-Unfalluntersuchungsverordnung
+BMVI 
 
-EVU
+Bundesministerium für Verkehr und digitale Infrastruktur 
 
-Eisenbahnverkehrsunternehmen
+EBA 
 
-Fdl
+EFR 
 
-Fahrdienstleiter
+EIU 
 
-GAF
+Esig 
 
-Gleisarbeitsfahrzeug
+EU 
 
-GSM-R
+EUB 
 
-Global System for Mobile Communica ons – Rail
+EUV 
 
-Kla
+EVU 
 
-Kleinwagenanhänger
+Fdl 
 
-LST
+GAF 
 
-Leit- und Sicherungstechnik
+Eisenbahn-Bundesamt 
 
-PZB
+Elektronische Fahrtenregistrierung 
 
-punk örmige Zugbeeinflussung
+Eisenbahninfrastrukturunternehmen 
 
-Ril
+Einfahrsignal 
 
-Richtlinie
+Europäische Union 
 
-Skl
+Eisenbahn-Unfalluntersuchungsstelle des Bundes 
 
-Schwerkleinwagen
+Eisenbahn-Unfalluntersuchungsverordnung 
 
-SMS
+Eisenbahnverkehrsunternehmen 
 
-Sicherheitsmanagementsystem
+Fahrdienstleiter 
 
-Tf
+Gleisarbeitsfahrzeug 
 
-Triebfahrzeugführer
+GSM-R 
 
-Tfz
+Global System for Mobile Communica(cid:415)ons – Rail 
 
-Triebfahrzeug
+Kla 
 
-VzG
+LST 
 
-Verzeichnis der örtlich zulässigen Geschwindigkeiten
+PZB 
 
-IV
+Ril 
 
-Untersuchungsbericht
-Zugkollision, 13.11.2014, Düsseldorf Flughafen Terminal
+Skl 
 
-1 Vorbemerkungen
-Das Kapitel Vorbemerkungen befasst sich mit allgemeinen Informa onen zur Bundesstelle für
-Eisenbahnunfalluntersuchung (BEU). Dabei wird die gesetzliche Grundlage genannt und die
-Au auorganisa on kurz umrissen.
+SMS 
 
-1.1 Organisatorischer Hinweis
-Mit der Richtlinie 2004/49/EG des Europäischen Parlaments und des Rates, über Eisenbahnsicherheit (Eisenbahnsicherheitsrichtlinie), wurden die Mitgliedstaaten der Europäischen Union
-(EU) erstmals verpflichtet, unabhängige Untersuchungsstellen für die Untersuchung bestimmter gefährlicher Ereignisse einzurichten.
-Die Richtlinie wurde mit dem 5. Gesetz zur Änderung eisenbahnrechtlicher Vorschriften vom
-16.04.2007 umgesetzt und die Eisenbahn-Unfalluntersuchungsstelle des Bundes (EUB) eingerichtet.
-Mit dem Gesetz zur Neuordnung der Eisenbahnunfalluntersuchung vom 27.06.2017 wurden
-u. a. die rechtlichen Grundlagen zur Errichtung der Bundesstelle für Eisenbahnunfalluntersuchung (BEU) geschaffen. Hierdurch wurde das Allgemeine Eisenbahngesetz (AEG) und das
-Bundeseisenbahnverkehrsverwaltungsgesetz (BEVVG) geändert, wobei Zuständigkeiten und
-Kompetenzen auf die neue Behörde, die BEU, übertragen wurden. Mit Errichtung der BEU
-wurde die EUB, bestehend aus der Leitung der EUB im Bundesministerium für Verkehr und
-digitale Infrastruktur (BMVI) und der Untersuchungszentrale der EUB im Eisenbahn-Bundesamt (EBA), aufgelöst. Mit dem Organisationserlass des Bundesministeriums für Verkehr und
-digitale Infrastruktur zur Errichtung der Bundesstelle für Eisenbahnunfalluntersuchung vom
-14.07.2017 wurde die BEU als selbstständige Bundesoberbehörde im Geschäftsbereich des
-BMVI zur Erfüllung der Aufgaben nach § 7 BEVVG errichtet. Die Aufgaben zur Untersuchung
-bestimmter gefährlicher Ereignisse im Eisenbahnbetrieb gingen dabei nahtlos von der EUB auf
-die BEU über.
-Da das gefährliche Ereignis vor der Errichtung der BEU eintrat, wurden bestimmte Untersuchungshandlungen noch durch die EUB vorgenommen, auf die im Bericht entsprechend verwiesen wird. Alle während der Untersuchung gewonnenen Erkenntnisse wurden kontinuierlich mit den betroffenen Eisenbahnen und der Sicherheitsbehörde geteilt und einzelfallbezogene Sicherheitsempfehlungen ausgesprochen.
-Näheres hierzu ist im Internet unter www.beu.bund.de eingestellt.
+Tf 
 
-Seite 1 von 18
+Tfz 
 
-Untersuchungsbericht
-Zugkollision, 13.11.2014, Düsseldorf Flughafen Terminal
+VzG 
 
-1.2 Ziel der Eisenbahnunfalluntersuchung
-Ziel und Zweck der Untersuchungen ist es, die Ursachen von gefährlichen Ereignissen aufzuklären und hieraus Hinweise zur Verbesserung der Sicherheit abzuleiten. Untersuchungen der
-BEU dienen nicht dazu, ein Verschulden festzustellen oder Fragen der Haftung oder sonstiger
-zivilrechtlicher Ansprüche zu klären und werden unabhängig von jeder gerichtlichen Untersuchung durchgeführt.
-Die Untersuchung umfasst die Sammlung und Auswertung von Informationen, die Erarbeitung
-von Schlussfolgerungen einschließlich der Feststellung der Ursachen und gegebenenfalls die
-Abgabe von Sicherheitsempfehlungen. Die Vorschläge der Untersuchungsstelle zur Vermeidung von Unfällen und Verbesserung der Sicherheit im Eisenbahnverkehr werden der Sicherheitsbehörde und, soweit erforderlich, anderen Stellen und Behörden oder anderen Mitgliedstaaten der EU in Form von Sicherheitsempfehlungen mitgeteilt.
+Kleinwagenanhänger 
 
-Seite 2 von 18
+Leit- und Sicherungstechnik 
 
-Untersuchungsbericht
-Zugkollision, 13.11.2014, Düsseldorf Flughafen Terminal
+punk(cid:414)örmige Zugbeeinﬂussung 
 
-2 Zusammenfassung
-Das Kapitel befasst sich mit einer kurzen Darstellung des Ereignisherganges, den Folgen und
-den Primärursachen. Abschließend werden eventuell erteilte Sicherheitsempfehlungen aufgeführt.
+Richtlinie 
 
-2.1 Kurzbeschreibung des Ereignisses
-Am 13.11.2014 kollidierte gegen 04:18 Uhr der Personenzug S 30601, auf der Fahrt von Köln
-Hbf nach Düsseldorf Flughafen Terminal, im Bahnhof (Bf) Düsseldorf Flughafen Terminal mit
-einem im Lichtraum des Einfahrgleises 882 stehenden Kleinwagenanhänger (Kla).
+Schwerkleinwagen 
 
-2.2 Folgen
-Durch das Ereignis wurde eine Person leicht verletzt. Es entstanden Sachschäden an den Fahrzeugen, die auf ca. 9.000 Euro geschätzt wurden.
+Sicherheitsmanagementsystem 
 
-2.3 Ursachen
-Die mangelha e Verständigung zwischen dem zuständigen Fahrdienstleiter (Fdl) und dem
-Triebfahrzeugführer (Tf) eines Schwerkleinwagens (Skl) löste den Eintri des Ereignisses aus.
-Der Tf des Skl setzte sein Fahrzeuggespann entgegen der vom Fdl zum Rangieren vorgesehenen Fahrtrichtung in Bewegung. Dabei entgleisten beide Kla auf der stumpf befahrenen Weiche 884. Diese befand sich für die Fahrtrichtung des Skl in der falschen Stellung. Der Zug
-S 30601 kollidierte mit dem nun im Regellichtraum ihres Fahrweges stehenden führenden Kla
-des Skl.
+Triebfahrzeugführer 
 
-2.4 Sicherheitsempfehlungen
-Es wurden keine Sicherheitsempfehlungen ausgesprochen.
+Triebfahrzeug 
 
-Seite 3 von 18
+Verzeichnis der örtlich zulässigen Geschwindigkeiten 
 
-Untersuchungsbericht
-Zugkollision, 13.11.2014, Düsseldorf Flughafen Terminal
+IV 
 
-3 Allgemeine Angaben
-Das Kapitel beinhaltet allgemeine Angaben zur Beschreibung des Ereignisortes und der relevanten Bahnanlagen. Des Weiteren werden die an der Unfalluntersuchung beteiligten und
-mitwirkenden Stellen, die äußeren Bedingungen, die Anzahl der bei dem Ereignis verletzten
-und getöteten Personen sowie Art und Höhe der Folgeschäden benannt.
+ 
+ 
+Untersuchungsbericht 
 
-3.1 Lage und Beschreibung des Ereignisortes
-Die folgende Abbildung zeigt die geographische Lage der Unfallstelle.
+Zugkollision, 13.11.2014, Düsseldorf Flughafen Terminal 
 
-Abbildung 1: Lageplan1
+1  Vorbemerkungen	
 
-Die Zugkollision ereignete sich im Bf Düsseldorf Flughafen Terminal. Hier beginnt die Strecke
-Düsseldorf Flughafen Terminal – Düsseldorf-Unterrath. Diese Strecke trägt entsprechend dem
-Verzeichnis der örtlich zugelassenen Geschwindigkeiten (VzG) die Streckennummer 2406. Dabei handelt es sich um eine zweigleisige elektrifizierte Hauptbahn mit einem zulässigen Bremswegabstand von 700 m. Die Streckenhöchstgeschwindigkeit beträgt 80 km/h. Als Zugsicherungssystem kommt die punk örmige Zugbeeinflussung (PZB) zur Anwendung. Für die Kommunika on steht der digitale Zugfunk Global System for Mobile Communica ons – Rail (GSMR) zur Verfügung.
+Das Kapitel Vorbemerkungen befasst sich mit allgemeinen Informa(cid:415)onen zur Bundesstelle für 
 
-1
+Eisenbahnunfalluntersuchung (BEU). Dabei wird die gesetzliche Grundlage genannt und die 
 
-Quelle: Geobasisdaten: © GeoBasis-DE / BKG [2020], bearbeitet durch BEU
+Au(cid:297)auorganisa(cid:415)on kurz umrissen. 
 
-Seite 4 von 18
+1.1  Organisatorischer	Hinweis	
 
-Untersuchungsbericht
-Zugkollision, 13.11.2014, Düsseldorf Flughafen Terminal
+Mit der Richtlinie 2004/49/EG des Europäischen Parlaments und des Rates, über Eisenbahnsi-
 
-Abbildung 2: Gleislageskizze2
+cherheit (Eisenbahnsicherheitsrichtlinie), wurden die Mitgliedstaaten der Europäischen Union 
 
-Die Abbildung 2 zeigt Teile der Bahnhöfe Düsseldorf-Unterrath und Düsseldorf Flughafen Terminal in Form einer schema schen Gleislageskizze. Außerdem deutet diese die Fahrwege der
-beteiligten Fahrzeuge und die Lage einer Baustelle hinter dem Einfahrsignal (Esig) F873 im
-Bereich der Weiche 886 an. Die Kollision ereignete sich ca. 130 m hinter dem Esig F873 aus
-Richtung Düsseldorf-Unterrath, in Höhe der Weiche 884. Hier zweigt die Strecke 2408 (Düsseldorf Flughafen Terminal W 884 – Düsseldorf-Unterrath Kartäuser Weg) von der Strecke
-2406 ab. Die Strecke 2406 unterquert die Gleise der Strecken 2670 und 2407 in einem Tunnel.
-Daher steigen die Gleise der Strecke 2406 von der Tunnelmi e her in beiden Richtungen bis
-in die angrenzenden Bahnhöfe hinein an.
+(EU) erstmals verpflichtet, unabhängige Untersuchungsstellen für die Untersuchung bestimm-
 
-2
+ter gefährlicher Ereignisse einzurichten. 
 
-Quelle: DB Netz AG, bearbeitet durch BEU
+Die Richtlinie wurde mit dem 5. Gesetz zur Änderung eisenbahnrechtlicher Vorschriften vom 
 
-Seite 5 von 18
+16.04.2007 umgesetzt und die Eisenbahn-Unfalluntersuchungsstelle des Bundes (EUB) einge-
 
-Untersuchungsbericht
-Zugkollision, 13.11.2014, Düsseldorf Flughafen Terminal
+richtet. 
 
-3.2 Beteiligte und Mitwirkende
-Am Ereignis waren folgende Stellen beteiligt:
-
+Mit dem Gesetz zur Neuordnung der Eisenbahnunfalluntersuchung vom 27.06.2017 wurden 
 
-DB Netz AG als Eisenbahninfrastrukturunternehmen (EIU)
+u. a. die rechtlichen Grundlagen zur Errichtung der Bundesstelle für Eisenbahnunfalluntersu-
 
-
+chung  (BEU)  geschaffen.  Hierdurch  wurde  das  Allgemeine  Eisenbahngesetz  (AEG)  und  das 
 
-DB Regio AG als Eisenbahnverkehrsunternehmen (EVU)
+Bundeseisenbahnverkehrsverwaltungsgesetz (BEVVG) geändert, wobei Zuständigkeiten und 
 
-
+Kompetenzen  auf  die  neue  Behörde,  die  BEU,  übertragen  wurden.  Mit  Errichtung  der  BEU 
 
-DIE-LEI GmbH als EVU
+wurde die EUB, bestehend aus der Leitung der EUB im Bundesministerium für Verkehr und 
 
-3.3 Äußere Bedingungen
-Die äußeren Bedingungen, wie z. B. das We er, standen in keinem erkennbaren kausalen Zusammenhang mit der Ereignisursache.
+digitale Infrastruktur (BMVI) und der Untersuchungszentrale der EUB im Eisenbahn-Bundes-
 
-3.4 Todesopfer, Verletzte und Sachschäden
-Bei dem Ereignis traten folgend aufgeführte Personenschäden ein:
-Der Tf des Personenzuges erli einen Schock.
-Anzahl Tote
+amt (EBA), aufgelöst. Mit dem Organisationserlass des Bundesministeriums für Verkehr und 
 
-Anzahl schwer Verletzte
+digitale Infrastruktur zur Errichtung der Bundesstelle für Eisenbahnunfalluntersuchung vom 
 
-Anzahl leicht Verletzte
+14.07.2017  wurde die BEU als selbstständige Bundesoberbehörde im Geschäftsbereich des 
 
-Reisende
+BMVI zur Erfüllung der Aufgaben nach § 7 BEVVG errichtet. Die Aufgaben zur Untersuchung 
 
--
+bestimmter gefährlicher Ereignisse im Eisenbahnbetrieb gingen dabei nahtlos von der EUB auf 
 
--
+die BEU über. 
 
--
+Da das gefährliche Ereignis vor der Errichtung der BEU eintrat, wurden bestimmte Untersu-
 
-Mitarbeiter
+chungshandlungen noch durch die EUB vorgenommen, auf die im Bericht entsprechend ver-
 
--
+wiesen wird. Alle während der Untersuchung gewonnenen Erkenntnisse wurden kontinuier-
 
--
+lich mit den betroffenen Eisenbahnen und der Sicherheitsbehörde geteilt und einzelfallbezo-
 
-1
+gene Sicherheitsempfehlungen ausgesprochen. 
 
-Benutzer von
-Bahnübergängen
+Näheres hierzu ist im Internet unter www.beu.bund.de eingestellt. 
 
--
+Seite 1 von 18 
 
--
+ 
+ 
+Untersuchungsbericht 
 
--
+Zugkollision, 13.11.2014, Düsseldorf Flughafen Terminal 
 
-Dri e
+1.2  Ziel	der	Eisenbahnunfalluntersuchung	
 
--
+Ziel und Zweck der Untersuchungen ist es, die Ursachen von gefährlichen Ereignissen aufzu-
 
--
+klären und hieraus Hinweise zur Verbesserung der Sicherheit abzuleiten. Untersuchungen der 
 
--
+BEU dienen nicht dazu, ein Verschulden festzustellen oder Fragen der Haftung oder sonstiger 
 
-Summe
+zivilrechtlicher Ansprüche zu klären und werden unabhängig von jeder gerichtlichen Untersu-
 
-0
+chung durchgeführt. 
 
-0
+Die Untersuchung umfasst die Sammlung und Auswertung von Informationen, die Erarbeitung 
 
-1
+von Schlussfolgerungen einschließlich der Feststellung der Ursachen und gegebenenfalls die 
 
-Tabelle 1: Übersicht der Personenschäden
+Abgabe von Sicherheitsempfehlungen. Die Vorschläge der Untersuchungsstelle zur Vermei-
 
-Die geschätzte Höhe der Sachschäden in Euro setzt sich wie folgt zusammen:
-geschätzte Kosten in Euro
-Fahrzeuge
+dung von Unfällen und Verbesserung der Sicherheit im Eisenbahnverkehr werden der Sicher-
 
-9.000
+heitsbehörde und, soweit erforderlich, anderen Stellen und Behörden oder anderen Mitglied-
 
-Infrastruktur
+staaten der EU in Form von Sicherheitsempfehlungen mitgeteilt. 
 
-k. A.
+Seite 2 von 18 
 
-Dri e
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-k. A.
+Zugkollision, 13.11.2014, Düsseldorf Flughafen Terminal 
 
-Gesamtschadenshöhe
+2  Zusammenfassung	
 
-9.000
+Das Kapitel befasst sich mit einer kurzen Darstellung des Ereignisherganges, den Folgen und 
 
-Tabelle 2: Übersicht der geschätzten Schadenshöhe
+den Primärursachen. Abschließend werden eventuell erteilte Sicherheitsempfehlungen auf-
 
-Die nachfolgenden Abbildungen 3 und 4 zeigen die Unfallstelle aus entgegengesetzten Blickrichtungen. Auf der Abbildung 4 ist zwischen den Fahrzeugen im oberen Bildbereich, die in
-Richtung Düsseldorf-Unterrath abfallende Strecke zu erkennen.
+geführt. 
 
-Seite 6 von 18
+2.1  Kurzbeschreibung	des	Ereignisses	
 
-Untersuchungsbericht
-Zugkollision, 13.11.2014, Düsseldorf Flughafen Terminal
+Am 13.11.2014 kollidierte gegen 04:18 Uhr der Personenzug S 30601, auf der Fahrt von Köln 
 
-Abbildung 3: Unfallstelle, Blickrichtung Westen
+Hbf nach Düsseldorf Flughafen Terminal, im Bahnhof (Bf) Düsseldorf Flughafen Terminal mit 
 
-Abbildung 4: Unfallstelle, Blickrichtung Osten
+einem im Lichtraum des Einfahrgleises 882 stehenden Kleinwagenanhänger (Kla). 
 
-Seite 7 von 18
+2.2  Folgen	
 
-Untersuchungsbericht
-Zugkollision, 13.11.2014, Düsseldorf Flughafen Terminal
+Durch das Ereignis wurde eine Person leicht verletzt. Es entstanden Sachschäden an den Fahr-
 
-4 Untersuchungsprotokoll
-In diesem Kapitel werden die ermi elten Ergebnisse zu einzelnen in Zusammenhang mit dem
-Ereignis stehenden Teilbereichen des Eisenbahnwesens dargestellt. Daneben wurden auch die
-entsprechenden Schni stellen sowie das Sicherheitsmanagement (SMS) im betroﬀenen Bereich betrachtet. Die jeweilig relevanten Erkenntnisse werden fortlaufend aufgeführt.
+zeugen, die auf ca. 9.000 Euro geschätzt wurden. 
 
-4.1 Zusammenfassung von Aussagen und Stellungnahmen
-Der BEU vorliegende Aussagen oder Stellungnahmen am Ereignis beteiligter Personen sind in
-die Ermi lungen mit eingeflossen. Auf einen gesonderten Abdruck wird an dieser Stelle verzichtet.
+2.3  Ursachen	
 
-4.2 Notfallmanagement
-Nach § 4 Abs. 3 Allgemeines Eisenbahngesetz (AEG) haben die Eisenbahnen die Verpflichtung,
-an Maßnahmen des Brandschutzes und der technischen Hilfeleistung mitzuwirken. In einer
-Vereinbarung zwischen den Innenministerien der Länder und der DB AG hat man sich auf eine
-Verfahrensweise verständigt. Für die DB Netz AG gelten die entsprechenden Brand- und Katastrophenschutzgesetze der Länder. Das Notfallmanagement der DB AG ist in der Konzernrichtlinie 123, das der DB Netz AG in der Richtlinie (Ril) 423 näher beschrieben und geregelt.
-Die Untersuchung des Notfallmanagements war nicht erforderlich, da weder Personen gerettet, noch schwere Folgen bspw. für die Umwelt abzuwenden waren.
+Die  mangelha(cid:332)e  Verständigung  zwischen  dem  zuständigen  Fahrdienstleiter  (Fdl)  und  dem 
 
-4.3 Untersuchung der bautechnischen Infrastruktur
-Die bautechnische Infrastruktur ha e keinen ursächlichen Einfluss auf die Entstehung des Ereignisses. Die vorgefundenen geringen Schäden an der Fahrbahn waren Folgen der Entgleisung.
+Triebfahrzeugführer (Tf) eines Schwerkleinwagens (Skl) löste den Eintri(cid:425) des Ereignisses aus. 
 
-4.4 Untersuchung der Leit‐ und Sicherungstechnik (LST)
-Das zuständige Stellwerk Düsseldorf-Unterrath mit der Bezeichnung Uf war ein Spurplan-Stellwerk der Bauart Dr S 60. Die LST-Anlagen ha en keinen ursächlichen Einfluss auf die Entstehung des Ereignisses.
+Der Tf des Skl setzte sein Fahrzeuggespann entgegen der vom Fdl zum Rangieren vorgesehe-
 
-4.5 Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers
-Für die betriebliche Abwicklung der Zug- und Rangierfahrten in den Bahnhöfen DüsseldorfUnterrath und Düsseldorf Flughafen Terminal, sowie auf den Strecken 2406 und 2408 war der
-Fdl in Düsseldorf-Unterrath zuständig. Der zum Unfallzeitpunkt hier eingesetzte Mitarbeiter
+nen Fahrtrichtung in Bewegung. Dabei entgleisten beide Kla auf der stumpf befahrenen Wei-
 
-Seite 8 von 18
+che  884.  Diese  befand  sich  für  die  Fahrtrichtung  des  Skl  in  der  falschen  Stellung.  Der  Zug 
 
-Untersuchungsbericht
-Zugkollision, 13.11.2014, Düsseldorf Flughafen Terminal
+S 30601 kollidierte mit dem nun im Regellichtraum ihres Fahrweges stehenden führenden Kla 
 
-besaß die nö ge Qualifika on, um selbstständig die Tä gkeit als Fdl im Stellwerk Uf auszuführen. Umstände, die dem Einsatz des Fdl in der Nacht vom 12.11.2014 auf den 13.11.2014 entgegenstanden, wurden nicht bekannt.
-Zur Untersuchung der Abläufe wurden die betrieblichen Unterlagen des Fdl, die Melder des
-Stell sches und die aufgezeichneten GSM-R – Gespräche ausgewertet.
-In der Nacht vom 12.11.2014 auf den 13.11.2014 fanden im Bf Düsseldorf Flughafen Terminal
-Arbeiten gemäß Betriebs- und Bauanweisung (Betra) F 324361114 an der Weiche 886 sta .
-Zum Auswechseln von Zungenvorrichtungen und Ersatzschienen wurde der Einfahrabschni
-vom Esig F873 bis zum Grenzzeichen der Weiche 884 und das einmündende Streckengleis Düsseldorf-Unterrath – Düsseldorf Flughafen Terminal gesperrt. Das gesperrte Streckengleis
-wurde nicht zum Baugleis erklärt und dur e demnach nur durch Sperrfahrten und nicht durch
-Rangierfahrten befahren werden.
-Die zum Schutz des Arbeitsgleises nach Betra geforderten Wärterhaltscheiben (Signal Sh 2)
-wurden an der Unfallstelle nicht vorgefunden. Gespräche, die das Aufstellen dieser Signale
-bestä gten, waren nicht aufgezeichnet. Während der Bauarbeiten befanden sich zeitweise
-ein Gleisarbeitsfahrzeug (GAF) und ein Skl mit zwei Kla im Bereich der Baustelle. Zugfahrten in
-den Bf Düsseldorf Flughafen Terminal wurden in diesem Zeitpunkt im Gleiswechselbetrieb auf
-dem Streckengleis Düsseldorf Flughafen Terminal – Düsseldorf-Unterrath durchgeführt.
-Gemäß Betra ha e der Fdl die Anmeldung der Bauarbeiten am 12.11.2014 um 20:45 Uhr im
-Fernsprechbuch dokumen ert. Das Aufstellen von Wärterhaltscheiben wurde im Fernsprechbuch nicht nachgewiesen. Für die Anfahrt des Skl am Abend des 12.11.2014 lag eine gül ge
-Fahrplananordnung für Sonderzüge mit der Nummer 1112-75694-W-00 vor. Der Fdl ließ den
-Skl, der als Zug 75694 aus Wuppertal-Vohwinkel kam, um 23:45 Uhr in den Bf DüsseldorfUnterrath einfahren. Der Weiterfahrt des Skl nach Düsseldorf Flughafen Terminal s mmte der
-Fdl gegen 23:49 Uhr als Zugfahrt auf dem Gegengleis zu. Der Grund hierfür lag darin, dass das
-gesperrte Regelgleis bereits durch die Sperrfahrt 96570, einem GAF, besetzt war und der Skl
-mit den Kla im gesperrten Gleis vor dem GAF zum Einsatz kommen sollte. Nach Ankun als
-Zugfahrt 75694 im Bf Düsseldorf Flughafen Terminal s mmte der Fdl dem Umsetzen des Skl
-zur Arbeitsstelle über die Weichen 885 und 886 als Rangierfahrt zu. Zwischenzeitlich füllte der
-Fdl einen Befehlsvordruck zur Einfahrt des Skl mit den Kla als Sperrfahrt 96571 in das gesperrte
-Streckengleis aus. Im Befehl 9 gab er an, dass die Sperrfahrt zwischen Düsseldorf Flughafen
+des Skl. 
 
-Seite 9 von 18
+2.4  Sicherheitsempfehlungen	
 
-Untersuchungsbericht
-Zugkollision, 13.11.2014, Düsseldorf Flughafen Terminal
+Es wurden keine Sicherheitsempfehlungen ausgesprochen. 
 
-Terminal und Düsseldorf-Unterrath höchstens 20 km/h fahren dürfe. Des Weiteren erteilte er
-Befehl 9.5 zum Warnen von Personen und vermerkte im Befehl 11 die in der Betra vorgegebenen Angaben zum Fahrplan. Für den Standort der Sperrfahrt trug der Fdl das Signal N881 in
-Gleis 881 des Bf Düsseldorf Flughafen Terminal ein. Als Uhrzeit vermerkte er 23:49 Uhr. Ob
-der Tf des Skl diesen Befehl bekam ist fraglich. So wurde weder der Erhalt qui ert, noch eine
-Übermi lung dokumen ert. Darüber hinaus fuhr zu diesem Zeitpunkt der Skl als Zugfahrt
-75694 in das Gegengleis nach Düsseldorf Flughafen Terminal und stand dort nicht vor dem
-Signal N881. Die Fahrt zur Arbeitsstelle an der Weiche 886 erfolgte innerhalb des Bf dann ohnehin als Rangierfahrt.
-Gegen 03:39 Uhr forderte der Fdl den Flankenschutzposten an der Arbeitsstelle auf, ihm eine
-Flankenschutzmeldung für den Bereich zwischen den Weichen 886 und 884 zu geben, weil er
-eine Zugfahrt über die Nordkurve [red. Anmerkung: gemeint war eine Zugfahrt von der Strecke 2408 in den Bf Düsseldorf Flughafen Terminal] zulassen wollte. Nachdem der Fdl vom Flankenschutzposten die Meldung erhielt, dass die Weiche 884 grenzzeichenfrei sei, ließ er gegen
-03:48 Uhr die Zugfahrt 10162 mi els besonderen Au rag in den Bf nach Gleis 881 einfahren.
-In einem nachfolgenden Gespräch, das der Fdl mit einer LST-Fachkra führte, wurde deutlich,
-dass die Weiche 886 zu diesem Zeitpunkt besetzt war.
-Gegen 04:11 Uhr erreichte der Personenzug S 30601 aus Richtung Köln Hbf kommend den
-Bf Düsseldorf-Unterrath. Der Fdl s mmte der Ausfahrt dieses Zuges in das Gegengleis nach
-Düsseldorf Flughafen Terminal durch Fahrtstellung des Signals N853 zu.
-Um 04:14 Uhr, nach Abschluss der Arbeiten, teilte der Fdl dem Tf des Skl mit, dass dieser zum
-Bahnsteig hochkommen könne und sich vollständig melden solle [red. Anmerkung: gemeint
-war der Bahnsteig im Bf Düsseldorf-Unterrath]. Anschließend sollte die Abfahrt nach Neuss
-Gbf erfolgen. Konkretere Angaben machte der Fdl nicht. Oﬀensichtlich beabsich gte der Fdl
-damit, der Fahrt des Skl von der Weiche 886 über das noch gesperrte Streckengleis, durch die
-Unterführung „hoch“ zum Bahnsteig in Düsseldorf-Unterrath zuzus mmen. Nur zwei Minuten
-später vernahm der Fdl auf seinem Stell sch eine Auﬀahrmeldung der Weiche 884. Diese befand sich wegen der vorausgegangenen Einfahrt des Zuges 10162 von der Strecke 2408 in den
-Bf Düsseldorf Flughafen Terminal noch in der Linkslage. Der Fdl erkundigte sich darau in beim
-Tf des Skl nach der Ursache der Auﬀahrmeldung. Dieser schilderte ihm, dass sein Skl mit den
-geschobenen Kla in dieser Weiche nach links in Richtung des Gleises 882 entgleist sei. In die-
+Seite 3 von 18 
 
-Seite 10 von 18
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Untersuchungsbericht
-Zugkollision, 13.11.2014, Düsseldorf Flughafen Terminal
+Zugkollision, 13.11.2014, Düsseldorf Flughafen Terminal 
 
-sem Moment erkannte der Fdl die Gefahr für die Zugfahrt S 30601, die um 04:16 Uhr in Düsseldorf-Unterrath ins Gegengleis nach Düsseldorf Flughafen Terminal ausgefahren war. Da er
-der Einfahrt in den Bf Düsseldorf Flughafen Terminal durch Fahrtstellung des Esig F874 bereits
-zuges mmt ha e, erteilte er dem Zug S 30601 einen Nothaltau rag mi els GSM-R. Um 04:18
-Uhr erfuhr der Fdl vom Tf, dass der Zug mit den Kla bereits kollidiert war.
+3  Allgemeine	Angaben	
 
-4.6 Untersuchung der betrieblichen Abläufe der EVU
-An der Zugkollision waren der Tf der DIE-LEI GmbH, der den Skl mit den Kla führte und der Tf
-der DB Regio AG beteiligt, der die Zuglokomo ve des Zuges S 30601 führte. Die Untersuchung
-der betrieblichen Abläufe stützte sich im Wesentlichen auf die Auswertungen der Daten der
-elektronischen Fahrtenregistrierung (EFR) und der aufgezeichneten GSM-R – Gespräche. Bei
-den in den beiden folgenden Abschni en angegebenen Zeitangaben handelt es sich immer
-um systeminterne Zeiten des jeweiligen Aufzeichnungsgeräts. Diese können von der realen
-Uhrzeit abweichen.
-4.6.1 Untersuchung der betrieblichen Handlungen des Tf des Skl
-Der Tf war berech gt das Fahrzeug auf der Infrastruktur der DB Netz AG zu führen. Der entsprechende Führerschein mit Beibla wurde vorgelegt. Einschränkungen, die der Fahrt des Tf
-in der Nacht vom 12.11.2014 zum 13.11.2014 entgegenstanden, wurden nicht bekannt. Den
-eigenen Angaben des Tf zufolge seien diesem die Inhalte der Betra nicht bekannt gewesen.
-Einen Befehl zum Fahren als Sperrfahrt zwischen Düsseldorf Flughafen Terminal und Düsseldorf-Unterrath habe er nicht erhalten.
-Der Skl erreichte den Bf Düsseldorf-Unterrath gegen 23:47 Uhr. Bis zu diesem Zeitpunkt und
-auch im weiteren Verlauf wurde in den EFR-Daten die Spur „i“ (Störschalter aus) aufgezeichnet. Demnach war die PZB-Fahrzeugeinrichtung abgeschaltet und das Zugsicherungssystem
-damit hinsichtlich der Beeinflussung durch die PZB-Streckeneinrichtungen unwirksam.
-Die Abfahrt des Skl in Düsseldorf-Unterrath erfolgte gegen 23:50 Uhr. Nach einem Fahrweg
-von ca. 2,85 km erreichte der Fahrzeugverband um 23:56 Uhr den Bf Düsseldorf Flughafen
-Terminal. Im Anschluss wurden Fahrzeugbewegungen aufgezeichnet, die auf das Rangieren
-vom Einfahrgleis zur Arbeitsstelle schließen lassen. In der Folgezeit wurde eine größere Zahl
-von kurzen Fahrten bei niedriger Geschwindigkeit registriert. Da die PZB-Fahrzeugeinrichtung
-abgeschaltet war, waren dabei keine Rückschlüsse auf die jeweilige Fahrtrichtung möglich.
-Nach Abschluss der Arbeiten meldete der Tf des Skl dem Fdl Uf, dass er für die Rückfahrt nach
+Das Kapitel beinhaltet allgemeine Angaben zur Beschreibung des Ereignisortes und der rele-
 
-Seite 11 von 18
+vanten  Bahnanlagen.  Des  Weiteren  werden  die  an  der  Unfalluntersuchung  beteiligten  und 
 
-Untersuchungsbericht
-Zugkollision, 13.11.2014, Düsseldorf Flughafen Terminal
+mitwirkenden Stellen, die äußeren Bedingungen, die Anzahl der bei dem Ereignis verletzten 
 
-Neuss Gbf fer g sei. Vom Fdl erhielt er den Au rag „hochzukommen“ und die Vollständigkeit
-seines Fahrzeugverbandes zu melden. Seinen Angaben zufolge war dem Tf damit klar, dass er
-von der Arbeitsstelle hoch in den Bf Düsseldorf Flughafen Terminal fahren solle. Schließlich
-steige das Gleis in dieser Richtung an. Außerdem sei er aus dem Bf heraus zur Arbeitsstelle
-gefahren, also glaubte er auch dorthin wieder zurück zu müssen. Der Tf setzte darau in die
-Fahrzeuge in westliche Richtung in Bewegung.
-Um 04:20:04 Uhr wurde der Skl bis auf 19 km/h beschleunigt. Nach einer kurzen Geschwindigkeitsreduzierung auf ca. 17 km/h wurde ein Druckabfall in der Hauptlu leitung von 5 bar
-Regeldruck auf unter 2,2 bar registriert. Ca. 3 s später brach die Geschwindigkeitsaufzeichnung
-ab. Bis zum S llstand des Fahrzeugs wurde innerhalb von 28 s ein Fahrweg von ca. 105 m zurückgelegt. Im Anschluss gab der Tf dem Fdl die Meldung, dass seine geschobenen Kla in der
-Weiche 884 entgleist seien. Um 06:03 Uhr wurde die PZB-Fahrzeugeinrichtung wirksam geschaltet.
-4.6.2 Untersuchung der betrieblichen Handlungen des Tf des Zuges S 30601
-Der Tf war berech gt das Fahrzeug auf der Infrastruktur der DB Netz AG zu führen und den
-Zug S 30601 zu führen. Die erforderlichen Nachweise wurden erbracht. Einschränkungen, die
-einem Einsatz als Tf entgegenstanden, wurden nicht bekannt.
-Der Zug S 30601 erreichte den Bf Düsseldorf-Unterrath gegen 04:11 Uhr. Die Weiterfahrt erfolgte gegen 04:15 Uhr. Dabei wurde der Zug kon nuierlich bis auf 40 km/h beschleunigt.
-Diese Geschwindigkeit wurde im Anschluss über einen Weg von ca. 1.000 m beibehalten. Anschließend erfolgte eine Beschleunigung auf 60 km/h. Bereits nach wenigen Metern wurde
-die Geschwindigkeit auf unter 50 km/h abgesenkt. Um 04:18:05 Uhr wurde bei einer Geschwindigkeit von 47 km/h ein rapider Druckabfall in der Hauptlu leitung auf unter 2,2 bar
-registriert. Nahezu zeitgleich erhielt der Tf den Nothaltau rag des Fdl. Der Zug kam innerhalb
-von 23 s nach einem Fahrweg von ca. 55 m nach Druckabfall zum S llstand.
+und getöteten Personen sowie Art und Höhe der Folgeschäden benannt. 
 
-Seite 12 von 18
+3.1  Lage	und	Beschreibung	des	Ereignisortes	
 
-Untersuchungsbericht
-Zugkollision, 13.11.2014, Düsseldorf Flughafen Terminal
+Die folgende Abbildung zeigt die geographische Lage der Unfallstelle. 
 
-4.7 Untersuchung von Fahrzeugen
-Aus den folgenden Tabellen lassen sich die technischen Fahrzeugdaten entnehmen:
-Typ
+Abbildung 1: Lageplan1 
 
-Schweres Nebenfahrzeug Nr. 53 531 5,
-Gleiskra wagen
+Die Zugkollision ereignete sich im Bf Düsseldorf Flughafen Terminal. Hier beginnt die Strecke 
 
-Kra übertragung
+Düsseldorf Flughafen Terminal – Düsseldorf-Unterrath. Diese Strecke trägt entsprechend dem 
 
-dieselhydraulisch
+Verzeichnis der örtlich zugelassenen Geschwindigkeiten (VzG) die Streckennummer 2406. Da-
 
-Masse
+bei handelt es sich um eine zweigleisige elektriﬁzierte Hauptbahn mit einem zulässigen Brems-
 
-8,1 t
+wegabstand  von  700 m.  Die  Streckenhöchstgeschwindigkeit  beträgt  80 km/h.  Als  Zugsiche-
 
-Nutzlast
+rungssystem kommt die punk(cid:414)örmige Zugbeeinﬂussung (PZB) zur Anwendung. Für die Kom-
 
-7,9 t
+munika(cid:415)on steht der digitale Zugfunk Global System for Mobile Communica(cid:415)ons – Rail (GSM-
 
-Höchstgeschwindigkeit
+R) zur Verfügung. 
 
-70 km/h
+1 Quelle: Geobasisdaten: © GeoBasis-DE / BKG [2020], bearbeitet durch BEU 
 
-Zugsicherungssystem
+Seite 4 von 18 
 
-PZB
+ 
+ 
+ 
+                                                       
+Untersuchungsbericht 
 
-Bremse
+Zugkollision, 13.11.2014, Düsseldorf Flughafen Terminal 
 
-WAdi (D)
+Abbildung 2: Gleislageskizze2 
 
-Letzte HU
+Die Abbildung 2 zeigt Teile der Bahnhöfe Düsseldorf-Unterrath und Düsseldorf Flughafen Ter-
 
-02.05.2014
+minal in Form einer schema(cid:415)schen Gleislageskizze. Außerdem deutet diese die Fahrwege der 
 
-Eigentümer
+beteiligten  Fahrzeuge  und  die  Lage  einer  Baustelle  hinter  dem  Einfahrsignal  (Esig)  F873  im 
 
-DIE-LEI GmbH
+Bereich der Weiche 886 an. Die Kollision ereignete sich ca. 130 m hinter dem Esig F873 aus 
 
-Zur Mi ahrt zugelassene Personen
+Richtung Düsseldorf-Unterrath, in Höhe der Weiche 884. Hier zweigt die Strecke 2408 (Düs-
 
-5
+seldorf  Flughafen  Terminal  W  884  –  Düsseldorf-Unterrath  Kartäuser  Weg)  von  der  Strecke 
 
-Tabelle 3: Technische Daten Skl
+2406 ab. Die Strecke 2406 unterquert die Gleise der Strecken 2670 und 2407 in einem Tunnel. 
 
-Typ
+Daher steigen die Gleise der Strecke 2406 von der Tunnelmi(cid:425)e her in beiden Richtungen bis 
 
-Gleiskra wagenanhänger Kla 03
-Nummer: 03 0812 5 und 03 0725 5
+in die angrenzenden Bahnhöfe hinein an. 
 
-Masse
+2 Quelle: DB Netz AG, bearbeitet durch BEU 
 
-4,2 t
+Seite 5 von 18 
 
-Nutzlast
+ 
+ 
+ 
+ 
+ 
+                                                       
+Untersuchungsbericht 
 
-10 t
+Zugkollision, 13.11.2014, Düsseldorf Flughafen Terminal 
 
-Höchstgeschwindigkeit
+3.2  Beteiligte	und	Mitwirkende	
 
-70 km/h
+Am Ereignis waren folgende Stellen beteiligt: 
 
-Anzahl der Achsen
+  DB Netz AG als Eisenbahninfrastrukturunternehmen (EIU) 
 
-2
+  DB Regio AG als Eisenbahnverkehrsunternehmen (EVU) 
 
-Bremse
+  DIE-LEI GmbH als EVU 
 
-WA (D)
+3.3  Äußere	Bedingungen	
 
-Letzte HU
+Die äußeren Bedingungen, wie z. B. das We(cid:425)er, standen in keinem erkennbaren kausalen Zu-
 
-30.04.2013
+sammenhang mit der Ereignisursache. 
 
-Eigentümer
+3.4  Todesopfer,	Verletzte	und	Sachschäden	
 
-DIE-LEI GmbH
+Bei dem Ereignis traten folgend aufgeführte Personenschäden ein: 
 
-Zur Mi ahrt zugelassene Personen
+Der Tf des Personenzuges erli(cid:425) einen Schock. 
 
-0
+Anzahl Tote 
 
-Tabelle 4: Technische Daten Kla
+Anzahl schwer Verletzte  Anzahl leicht Verletzte 
 
-Beide Kla waren in der Weiche 884 mit allen Achsen entgleist. Die Weiche wurde stumpf befahren und befand sich in Linkslage. Wegen des geringen Eigengewichts der geschobenen Kla
-fuhren diese die Weiche nicht auf, sondern kle erten mit den linken Rädern über die anliegende Weichenzunge und Backenschiene und gli en dabei nach links von der Fahrbahn ab.
+Reisende 
 
-Seite 13 von 18
+Mitarbeiter 
 
-Untersuchungsbericht
-Zugkollision, 13.11.2014, Düsseldorf Flughafen Terminal
+Benutzer von 
+Bahnübergängen 
 
-Der Skl blieb im Zungenbereich der Weiche 884 stehen, wobei linkssei g die Spurkränze beider Räder zwischen Backenschiene und klaﬀender Zunge steckten.
-Die Fahrzeuge des EVU DIE-LEI GmbH ha en keinen ursächlichen Einfluss auf die Entstehung
-des Ereignisses.
-Der Personenzug S 30601 wurde gebildet aus dem führenden Triebfahrzeug 143 241-8 und
-vier Reisezugwagen der Ga ungen ABx, Bx und Bxf. Die Fahrzeuge des EVU DB Regio AG hatten keinen ursächlichen Einfluss auf die Entstehung des Ereignisses. Auf weiterführende Untersuchungen wurde verzichtet.
+Dri(cid:425)e 
 
-Seite 14 von 18
+Summe 
 
-Untersuchungsbericht
-Zugkollision, 13.11.2014, Düsseldorf Flughafen Terminal
+- 
 
-5 Auswertung
-Das Kapitel 5 Auswertung befasst sich mit der Ereignisrekonstruk on. Anhand der oben genannten Feststellungen wird ein plausibler Ablauf des gefährlichen Ereignisses zusammengetragen. Relevante Erkenntnisse werden anschließend bewertet und führen ggf. zu entsprechenden Schlussfolgerungen.
+- 
 
-5.1 Ereignisrekonstruktion
-In der Nacht vom 12.11.2014 zum 13.11.2014 wurden im Bf Düsseldorf Flughafen Arbeiten an
-der Weiche 886 durchgeführt. Hierfür wurde das Streckengleis Düsseldorf-Unterrath – Düsseldorf Flughafen Terminal und der Einfahrabschni vom Esig F873 bis zum Grenzzeichen der
-Weiche 884 gesperrt. Gegen 23:49 Uhr fuhr ein Skl mit zwei geschobenen Kla als Zugfahrt
-75694 über das Gegengleis nach Düsseldorf Flughafen Terminal und setzte dort vom Einfahrgleis zur Arbeitsstelle an der Weiche 886 um.
-Um 04:14 Uhr, nach Abschluss der Arbeiten, beabsich gte der Tf des Skl, zu seinem Heimatbahnhof nach Neuss Gbf zurückzufahren und teilte dies dem Fdl mit. Der Fdl s mmte daraufhin mündlich der Fahrt bis „hoch zum Bahnsteig“ zu. Gegen 04:16 Uhr fuhr der Personenzug
-S 30601 in Düsseldorf-Unterrath in das Gegengleis nach Düsseldorf Flughafen Terminal aus.
-Zwischenzeitlich war auch der Tf des Skl abgefahren. Entgegen der Absicht des Fdl bewegte
-dieser seinen Fahrzeugverband in Richtung Ls 885weiter in den Bf Düsseldorf Flughafen Terminal hinein. Der Fahrzeugverband entgleiste auf der Weiche 884. Nachdem der Fdl von dieser
-Entgleisung erfuhr, setzte er einen Nothaltau rag für den Zug S 30601 ab.
-Gegen 04:18 Uhr kollidierte Zug S 30601 mit dem führenden, im Lichtraum des Einfahrgleises
-stehenden, Kla des Skl.
+- 
 
-5.2 Bewertung und Schlussfolgerung
-Die Ursache der Zugkollision am 13.11.2014 im Bf Düsseldorf Flughafen Terminal ist auf Arbeitsfehler des beteiligten Fdl und des Tf des Skl zurückzuführen. Die Vorgaben zum Führen
-betriebswich ger Gespräche wurden nicht oder nur unzureichend angewandt, wonach mündliche Au räge und Meldungen zu wiederholen sind und die wesentlichen Angaben enthalten
-sein müssen. So war sich der Fdl sicher, dass der Tf des Skl mit der Erlaubnis, dieser könne zum
-Bahnsteig hochkommen, von der Arbeitsstelle durch den Tunnel und „hoch“ bis an den Bahnsteig in Düsseldorf-Unterrath fahren würde. Der Tf des Skl glaubte hingegen, dass er damit die
+- 
 
-Seite 15 von 18
+0 
 
-Untersuchungsbericht
-Zugkollision, 13.11.2014, Düsseldorf Flughafen Terminal
+Tabelle 1: Übersicht der Personenschäden 
 
-Zus mmung zur Fahrt in den Bf Düsseldorf Flughafen Terminal bis hinter das Signal N881 erhalten ha e. Dies erschien ihm, seinen eigenen Angaben entsprechend, auch logisch, da er
-für die Hinfahrt einen ähnlichen Fahrweg über den Bf Düsseldorf Flughafen Terminal zurücklegte und nicht direkt über das gesperrte Gleis zur Arbeitsstelle fuhr. Außerdem s eg das Gleis
-in der von ihm gewählten Fahrtrichtung an. So schien ihm klar was der Fdl mit „hochkommen“
-meinte. Dem vom Fdl gewählten Zusatz „zum Bahnsteig hochkommen“ wurde keine besondere Bedeutung beigemessen. Der Tf setzte somit seinen Skl ohne jedwede Zweifel bezüglich
-der Fahrtrichtung in Bewegung und fuhr als Rangierfahrt in Richtung des Signals N881. Gleichwohl wurden die Bes mmungen der Ril 408.0811 – mündliche Verständigung beim Rangieren
-– beim zuvor geführten Gespräch mit dem Fdl nicht oder nur sehr unzureichend beachtet.
-Demnach hä e er sich mit dem Ww über Ziel, Zweck und eventuelle Besonderheiten absprechen müssen. Es ist davon auszugehen, dass den Beteiligten spätestens bei der Angabe des
-Rangierziels dieses und eventuell auch weitere Missverständnisse hä en auﬀallen müssen.
-Die Aussage des Fdl, dass der Tf „zum Bahnsteig hochkommen könne“, wurde oﬀenbar als
-Zus mmung zu einer Rangierfahrt gewertet. Aufgrund der Tatsache, dass das Streckengleis
-nach Düsseldorf Unterrath nicht zum Baugleis erklärt worden war und folglich keine Rangierfahrten im Streckengleis betrieblich zulässig waren und die Voraussetzungen für die Durchführungen von Sperrfahrten betrieblich nicht sofort umsetzbar waren, ist davon auszugehen,
-dass der Fdl dieses Gespräch nicht als Zus mmung zu einer Rangierfahrt respek ve Sperrfahrt
-in Richtung Bf Düsseldorf Flughafen Terminal ansah. Gesamtheitlich musste die Verständigung
-der beteiligten Betriebspersonale als mangelha angesehen werden.
-Im Rahmen der Untersuchungen fielen noch weitere betriebliche Unzulänglichkeiten auf. Das
-Aufstellen des nach Betra geforderten Sh 2 Signals vor dem Grenzzeichen der Weiche 884
-hä e den Tf des Skl daran gehindert in Richtung des Signals 881 zu fahren. Außerdem ließ der
-Fdl die Zugfahrt 10162 von der Strecke 2408 über die Weiche 884 zu, obwohl das Signal Sh 2
-nicht aufgestellt war. Zudem waren die Meldungen über die Grenzzeichenfreiheit nicht ausreichend. Gemäß den Angaben der Betra hä en sich Fahrzeuge vor das Einfahrsignal F873
-begeben müssen, bevor einer Zugfahrt zuges mmt werden dur e. Folglich wurde der Zugfahrt 10162 ohne den notwendigen Flankenschutz unzulässig zuges mmt.
-Der Tf des Skl kam bereits aus Wuppertal-Vohwinkel mit abgeschalteter PZB-Fahrzeugeinrichtung in Düsseldorf-Unterrath an. Das vorgeschriebene Zugsicherungssystem war damit wir-
+- 
 
-Seite 16 von 18
+- 
 
-Untersuchungsbericht
-Zugkollision, 13.11.2014, Düsseldorf Flughafen Terminal
+- 
 
-kungslos. Darüber hinaus war das Schieben von zwei Kla während der Zugfahrt von Wuppertal-Vohwinkel nach Düsseldorf Flughafen Terminal unzulässig und oﬀensichtlich ein Grund für
-das Abschalten der PZB-Fahrzeugeinrichtung.
+- 
 
-Seite 17 von 18
+0 
 
-Untersuchungsbericht
-Zugkollision, 13.11.2014, Düsseldorf Flughafen Terminal
+- 
 
-6 Bisher getroffene Maßnahmen
-Der BEU wurden keine Maßnahmen bekannt, die infolge des Ereignisses durch die beteiligten
-Eisenbahnunternehmen oder durch die Sicherheitsbehörde getroﬀen wurden.
+1 
 
-7 Sicherheitsempfehlungen
-Es wurden keine Sicherheitsempfehlungen ausgesprochen.
+- 
 
-Seite 18 von 18
+- 
 
+1 
+
+Die geschätzte Höhe der Sachschäden in Euro setzt sich wie folgt zusammen: 
+
+geschätzte Kosten in Euro 
+
+Fahrzeuge 
+
+Infrastruktur 
+
+Dri(cid:425)e 
+
+Gesamtschadenshöhe 
+
+9.000 
+
+k. A. 
+
+k. A. 
+
+9.000 
+
+Tabelle 2: Übersicht der geschätzten Schadenshöhe 
+
+Die nachfolgenden Abbildungen 3 und 4 zeigen die Unfallstelle aus entgegengesetzten Blick-
+
+richtungen. Auf der Abbildung 4 ist zwischen den Fahrzeugen im oberen Bildbereich, die in 
+
+Richtung Düsseldorf-Unterrath abfallende Strecke zu erkennen. 
+
+Seite 6 von 18 
+
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 13.11.2014, Düsseldorf Flughafen Terminal 
+
+Abbildung 3: Unfallstelle, Blickrichtung Westen 
+
+Abbildung 4: Unfallstelle, Blickrichtung Osten 
+
+Seite 7 von 18 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 13.11.2014, Düsseldorf Flughafen Terminal 
+
+4  Untersuchungsprotokoll	
+
+In diesem Kapitel werden die ermi(cid:425)elten Ergebnisse zu einzelnen in Zusammenhang mit dem 
+
+Ereignis stehenden Teilbereichen des Eisenbahnwesens dargestellt. Daneben wurden auch die 
+
+entsprechenden Schni(cid:425)stellen sowie das Sicherheitsmanagement (SMS) im betroﬀenen Be-
+
+reich betrachtet. Die jeweilig relevanten Erkenntnisse werden fortlaufend aufgeführt. 
+
+4.1  Zusammenfassung	von	Aussagen	und	Stellungnahmen	
+
+Der BEU vorliegende Aussagen oder Stellungnahmen am Ereignis beteiligter Personen sind in 
+
+die Ermi(cid:425)lungen mit eingeﬂossen. Auf einen gesonderten Abdruck wird an dieser Stelle ver-
+
+zichtet. 
+
+4.2  Notfallmanagement	
+
+Nach § 4 Abs. 3 Allgemeines Eisenbahngesetz (AEG) haben die Eisenbahnen die Verpflichtung, 
+
+an Maßnahmen des Brandschutzes und der technischen Hilfeleistung mitzuwirken. In einer 
+
+Vereinbarung zwischen den Innenministerien der Länder und der DB AG hat man sich auf eine 
+
+Verfahrensweise verständigt. Für die DB Netz AG gelten die entsprechenden Brand- und Ka-
+
+tastrophenschutzgesetze der Länder. Das Notfallmanagement der DB AG ist in der Konzern-
+
+richtlinie 123, das der DB Netz AG in der Richtlinie (Ril) 423 näher beschrieben und geregelt. 
+
+Die Untersuchung des Notfallmanagements war nicht erforderlich, da weder Personen geret-
+
+tet, noch schwere Folgen bspw. für die Umwelt abzuwenden waren. 
+
+4.3  Untersuchung	der	bautechnischen	Infrastruktur	
+
+Die bautechnische Infrastruktur ha(cid:425)e keinen ursächlichen Einﬂuss auf die Entstehung des Er-
+
+eignisses. Die vorgefundenen geringen Schäden an der Fahrbahn waren Folgen der Entglei-
+
+sung. 
+
+4.4  Untersuchung	der	Leit‐	und	Sicherungstechnik	(LST)	
+
+Das zuständige Stellwerk Düsseldorf-Unterrath mit der Bezeichnung Uf war ein Spurplan-Stell-
+
+werk der Bauart Dr S 60. Die LST-Anlagen ha(cid:425)en keinen ursächlichen Einﬂuss auf die Entste-
+
+hung des Ereignisses. 
+
+4.5  Untersuchung	der	betrieblichen	Abläufe	des	Infrastrukturbetreibers	
+
+Für die betriebliche Abwicklung der Zug- und Rangierfahrten in den Bahnhöfen Düsseldorf- 
+
+Unterrath und Düsseldorf Flughafen Terminal, sowie auf den Strecken 2406 und 2408 war der 
+
+Fdl in Düsseldorf-Unterrath zuständig. Der zum Unfallzeitpunkt hier eingesetzte Mitarbeiter 
+
+Seite 8 von 18 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 13.11.2014, Düsseldorf Flughafen Terminal 
+
+besaß die nö(cid:415)ge Qualiﬁka(cid:415)on, um selbstständig die Tä(cid:415)gkeit als Fdl im Stellwerk Uf auszufüh-
+
+ren. Umstände, die dem Einsatz des Fdl in der Nacht vom 12.11.2014 auf den 13.11.2014 ent-
+
+gegenstanden, wurden nicht bekannt. 
+
+Zur Untersuchung der Abläufe wurden die betrieblichen Unterlagen des Fdl, die Melder des 
+
+Stell(cid:415)sches und die aufgezeichneten GSM-R – Gespräche ausgewertet. 
+
+In der Nacht vom 12.11.2014 auf den 13.11.2014 fanden im Bf Düsseldorf Flughafen Terminal 
+
+Arbeiten gemäß Betriebs- und Bauanweisung (Betra) F 324361114 an der Weiche 886 sta(cid:425). 
+
+Zum Auswechseln von Zungenvorrichtungen und Ersatzschienen wurde der Einfahrabschni(cid:425) 
+
+vom Esig F873 bis zum Grenzzeichen der Weiche 884 und das einmündende Streckengleis Düs-
+
+seldorf-Unterrath  –  Düsseldorf  Flughafen  Terminal  gesperrt.  Das  gesperrte  Streckengleis 
+
+wurde nicht zum Baugleis erklärt und dur(cid:332)e demnach nur durch Sperrfahrten und nicht durch 
+
+Rangierfahrten befahren werden. 
+
+Die zum Schutz des Arbeitsgleises nach Betra geforderten Wärterhaltscheiben (Signal Sh 2) 
+
+wurden an der Unfallstelle nicht vorgefunden. Gespräche, die das Aufstellen dieser Signale 
+
+bestä(cid:415)gten,  waren  nicht  aufgezeichnet.  Während  der  Bauarbeiten  befanden  sich  zeitweise 
+
+ein Gleisarbeitsfahrzeug (GAF) und ein Skl mit zwei Kla im Bereich der Baustelle. Zugfahrten in 
+
+den Bf Düsseldorf Flughafen Terminal wurden in diesem Zeitpunkt im Gleiswechselbetrieb auf 
+
+dem Streckengleis Düsseldorf Flughafen Terminal – Düsseldorf-Unterrath durchgeführt. 
+
+Gemäß Betra ha(cid:425)e der Fdl die Anmeldung der Bauarbeiten am 12.11.2014 um 20:45 Uhr im 
+
+Fernsprechbuch dokumen(cid:415)ert. Das Aufstellen von Wärterhaltscheiben wurde im Fernsprech-
+
+buch nicht nachgewiesen. Für die Anfahrt des Skl am Abend des 12.11.2014 lag eine gül(cid:415)ge 
+
+Fahrplananordnung für Sonderzüge mit der Nummer 1112-75694-W-00 vor. Der Fdl ließ den 
+
+Skl,  der  als  Zug  75694  aus  Wuppertal-Vohwinkel  kam,  um  23:45  Uhr  in  den  Bf  Düsseldorf-
+
+Unterrath einfahren. Der Weiterfahrt des Skl nach Düsseldorf Flughafen Terminal s(cid:415)mmte der 
+
+Fdl gegen 23:49 Uhr als Zugfahrt auf dem Gegengleis zu. Der Grund hierfür lag darin, dass das 
+
+gesperrte Regelgleis bereits durch die Sperrfahrt 96570, einem GAF, besetzt war und der Skl 
+
+mit den Kla im gesperrten Gleis vor dem GAF zum Einsatz kommen sollte. Nach Ankun(cid:332) als 
+
+Zugfahrt 75694 im Bf Düsseldorf Flughafen Terminal s(cid:415)mmte der Fdl dem Umsetzen des Skl 
+
+zur Arbeitsstelle über die Weichen 885 und 886 als Rangierfahrt zu. Zwischenzeitlich füllte der 
+
+Fdl einen Befehlsvordruck zur Einfahrt des Skl mit den Kla als Sperrfahrt 96571 in das gesperrte 
+
+Streckengleis aus. Im Befehl 9 gab er an, dass die Sperrfahrt zwischen Düsseldorf Flughafen 
+
+Seite 9 von 18 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 13.11.2014, Düsseldorf Flughafen Terminal 
+
+Terminal und Düsseldorf-Unterrath höchstens 20 km/h fahren dürfe. Des Weiteren erteilte er 
+
+Befehl 9.5 zum Warnen von Personen und vermerkte im Befehl 11 die in der Betra vorgege-
+
+benen Angaben zum Fahrplan. Für den Standort der Sperrfahrt trug der Fdl das Signal N881 in 
+
+Gleis 881 des Bf Düsseldorf Flughafen Terminal ein. Als Uhrzeit vermerkte er 23:49 Uhr. Ob 
+
+der Tf des Skl diesen Befehl bekam ist fraglich. So wurde weder der Erhalt qui(cid:427)ert, noch eine 
+
+Übermi(cid:425)lung  dokumen(cid:415)ert.  Darüber  hinaus  fuhr  zu  diesem  Zeitpunkt  der  Skl  als  Zugfahrt 
+
+75694 in das Gegengleis nach Düsseldorf Flughafen Terminal und stand dort nicht vor dem 
+
+Signal N881. Die Fahrt zur Arbeitsstelle an der Weiche 886 erfolgte innerhalb des Bf dann oh-
+
+nehin als Rangierfahrt. 
+
+Gegen 03:39 Uhr forderte der Fdl den Flankenschutzposten an der Arbeitsstelle auf, ihm eine 
+
+Flankenschutzmeldung für den Bereich zwischen den Weichen 886 und 884 zu geben, weil er 
+
+eine Zugfahrt über die Nordkurve [red. Anmerkung: gemeint war eine Zugfahrt von der Stre-
+
+cke 2408 in den Bf Düsseldorf Flughafen Terminal] zulassen wollte. Nachdem der Fdl vom Flan-
+
+kenschutzposten die Meldung erhielt, dass die Weiche 884 grenzzeichenfrei sei, ließ er gegen 
+
+03:48 Uhr die Zugfahrt 10162 mi(cid:425)els besonderen Au(cid:332)rag in den Bf nach Gleis 881 einfahren. 
+
+In einem nachfolgenden Gespräch, das der Fdl mit einer LST-Fachkra(cid:332) führte, wurde deutlich, 
+
+dass die Weiche 886 zu diesem Zeitpunkt besetzt war. 
+
+Gegen  04:11 Uhr  erreichte  der  Personenzug  S 30601  aus  Richtung  Köln Hbf  kommend  den 
+
+Bf Düsseldorf-Unterrath. Der Fdl s(cid:415)mmte der Ausfahrt dieses Zuges in das Gegengleis nach 
+
+Düsseldorf Flughafen Terminal durch Fahrtstellung des Signals N853 zu. 
+
+Um 04:14 Uhr, nach Abschluss der Arbeiten, teilte der Fdl dem Tf des Skl mit, dass dieser zum 
+
+Bahnsteig hochkommen könne und sich vollständig melden solle [red. Anmerkung: gemeint 
+
+war der Bahnsteig im Bf Düsseldorf-Unterrath]. Anschließend sollte die Abfahrt nach Neuss 
+
+Gbf erfolgen. Konkretere Angaben machte der Fdl nicht. Oﬀensichtlich beabsich(cid:415)gte der Fdl 
+
+damit, der Fahrt des Skl von der Weiche 886 über das noch gesperrte Streckengleis, durch die 
+
+Unterführung „hoch“ zum Bahnsteig in Düsseldorf-Unterrath zuzus(cid:415)mmen. Nur zwei Minuten 
+
+später vernahm der Fdl auf seinem Stell(cid:415)sch eine Auﬀahrmeldung der Weiche 884. Diese be-
+
+fand sich wegen der vorausgegangenen Einfahrt des Zuges 10162 von der Strecke 2408 in den 
+
+Bf Düsseldorf Flughafen Terminal noch in der Linkslage. Der Fdl erkundigte sich darau(cid:300)in beim 
+
+Tf des Skl nach der Ursache der Auﬀahrmeldung. Dieser schilderte ihm, dass sein Skl mit den 
+
+geschobenen Kla in dieser Weiche nach links in Richtung des Gleises 882 entgleist sei. In die-
+
+Seite 10 von 18 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 13.11.2014, Düsseldorf Flughafen Terminal 
+
+sem Moment erkannte der Fdl die Gefahr für die Zugfahrt S 30601, die um 04:16 Uhr in Düs-
+
+seldorf-Unterrath ins Gegengleis nach Düsseldorf Flughafen Terminal ausgefahren war. Da er 
+
+der Einfahrt in den Bf Düsseldorf Flughafen Terminal durch Fahrtstellung des Esig F874 bereits 
+
+zuges(cid:415)mmt ha(cid:425)e, erteilte er dem Zug S 30601 einen Nothaltau(cid:332)rag mi(cid:425)els GSM-R. Um 04:18 
+
+Uhr erfuhr der Fdl vom Tf, dass der Zug mit den Kla bereits kollidiert war. 
+
+4.6  Untersuchung	der	betrieblichen	Abläufe	der	EVU	
+
+An der Zugkollision waren der Tf der DIE-LEI GmbH, der den Skl mit den Kla führte und der Tf 
+
+der DB Regio AG beteiligt, der die Zuglokomo(cid:415)ve des Zuges S 30601 führte. Die Untersuchung 
+
+der betrieblichen Abläufe stützte sich im Wesentlichen auf die Auswertungen der Daten der 
+
+elektronischen Fahrtenregistrierung (EFR) und der aufgezeichneten GSM-R – Gespräche. Bei 
+
+den in den beiden folgenden Abschni(cid:425)en angegebenen Zeitangaben handelt es sich immer 
+
+um systeminterne Zeiten des jeweiligen Aufzeichnungsgeräts. Diese können von der realen 
+
+Uhrzeit abweichen. 
+
+4.6.1  Untersuchung	der	betrieblichen	Handlungen	des	Tf	des	Skl	
+
+Der Tf war berech(cid:415)gt das Fahrzeug auf der Infrastruktur der DB Netz AG zu führen. Der ent-
+
+sprechende Führerschein mit Beibla(cid:425) wurde vorgelegt. Einschränkungen, die der Fahrt des Tf 
+
+in der Nacht vom 12.11.2014 zum 13.11.2014 entgegenstanden, wurden nicht bekannt. Den 
+
+eigenen Angaben des Tf zufolge seien diesem die Inhalte der Betra nicht bekannt gewesen. 
+
+Einen Befehl zum Fahren als Sperrfahrt zwischen Düsseldorf Flughafen Terminal und Düssel-
+
+dorf-Unterrath habe er nicht erhalten. 
+
+Der Skl erreichte den Bf Düsseldorf-Unterrath gegen 23:47 Uhr. Bis zu diesem Zeitpunkt und 
+
+auch im weiteren Verlauf wurde in den EFR-Daten die Spur „i“ (Störschalter aus) aufgezeich-
+
+net. Demnach war die PZB-Fahrzeugeinrichtung abgeschaltet und das Zugsicherungssystem 
+
+damit hinsichtlich der Beeinﬂussung durch die PZB-Streckeneinrichtungen unwirksam. 
+
+Die Abfahrt des Skl in Düsseldorf-Unterrath erfolgte gegen 23:50 Uhr. Nach einem Fahrweg 
+
+von  ca.  2,85 km  erreichte  der  Fahrzeugverband  um  23:56 Uhr  den  Bf Düsseldorf  Flughafen 
+
+Terminal. Im Anschluss wurden Fahrzeugbewegungen aufgezeichnet, die auf das Rangieren 
+
+vom Einfahrgleis zur Arbeitsstelle schließen lassen. In der Folgezeit wurde eine größere Zahl 
+
+von kurzen Fahrten bei niedriger Geschwindigkeit registriert. Da die PZB-Fahrzeugeinrichtung 
+
+abgeschaltet  war,  waren  dabei  keine  Rückschlüsse  auf  die  jeweilige  Fahrtrichtung  möglich. 
+
+Nach Abschluss der Arbeiten meldete der Tf des Skl dem Fdl Uf, dass er für die Rückfahrt nach 
+
+Seite 11 von 18 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 13.11.2014, Düsseldorf Flughafen Terminal 
+
+Neuss Gbf fer(cid:415)g sei. Vom Fdl erhielt er den Au(cid:332)rag „hochzukommen“ und die Vollständigkeit 
+
+seines Fahrzeugverbandes zu melden. Seinen Angaben zufolge war dem Tf damit klar, dass er 
+
+von der Arbeitsstelle hoch in den Bf Düsseldorf Flughafen Terminal fahren solle. Schließlich 
+
+steige das Gleis in dieser Richtung an. Außerdem sei er aus dem Bf heraus zur Arbeitsstelle 
+
+gefahren, also glaubte er auch dorthin wieder zurück zu müssen. Der Tf setzte darau(cid:300)in die 
+
+Fahrzeuge in westliche Richtung in Bewegung. 
+
+Um 04:20:04 Uhr wurde der Skl bis auf 19 km/h beschleunigt. Nach einer kurzen Geschwin-
+
+digkeitsreduzierung auf ca. 17 km/h wurde ein Druckabfall in der Hauptlu(cid:332)leitung von 5 bar 
+
+Regeldruck auf unter 2,2 bar registriert. Ca. 3 s später brach die Geschwindigkeitsaufzeichnung 
+
+ab. Bis zum S(cid:415)llstand des Fahrzeugs wurde innerhalb von 28 s ein Fahrweg von ca. 105 m zu-
+
+rückgelegt. Im Anschluss gab der Tf dem Fdl die Meldung, dass seine geschobenen Kla in der 
+
+Weiche 884 entgleist seien. Um 06:03 Uhr wurde die PZB-Fahrzeugeinrichtung wirksam ge-
+
+schaltet. 
+
+4.6.2  Untersuchung	der	betrieblichen	Handlungen	des	Tf	des	Zuges	S	30601	
+
+Der Tf war berech(cid:415)gt das Fahrzeug auf der Infrastruktur der DB Netz AG zu führen und den 
+
+Zug S 30601 zu führen. Die erforderlichen Nachweise wurden erbracht. Einschränkungen, die 
+
+einem Einsatz als Tf entgegenstanden, wurden nicht bekannt. 
+
+Der Zug S 30601 erreichte den Bf Düsseldorf-Unterrath gegen 04:11 Uhr. Die Weiterfahrt er-
+
+folgte  gegen  04:15 Uhr.  Dabei  wurde  der  Zug  kon(cid:415)nuierlich  bis  auf  40 km/h  beschleunigt. 
+
+Diese Geschwindigkeit wurde im Anschluss über einen Weg von ca. 1.000 m beibehalten. An-
+
+schließend erfolgte eine Beschleunigung auf 60 km/h. Bereits nach wenigen Metern wurde 
+
+die  Geschwindigkeit  auf  unter  50 km/h  abgesenkt.  Um  04:18:05 Uhr  wurde  bei  einer  Ge-
+
+schwindigkeit von 47 km/h ein rapider Druckabfall in der Hauptlu(cid:332)leitung auf unter 2,2 bar 
+
+registriert. Nahezu zeitgleich erhielt der Tf den Nothaltau(cid:332)rag des Fdl. Der Zug kam innerhalb 
+
+von 23 s nach einem Fahrweg von ca. 55 m nach Druckabfall zum S(cid:415)llstand. 
+
+Seite 12 von 18 
+
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 13.11.2014, Düsseldorf Flughafen Terminal 
+
+4.7  Untersuchung	von	Fahrzeugen	
+
+Aus den folgenden Tabellen lassen sich die technischen Fahrzeugdaten entnehmen: 
+
+Typ 
+
+Kra(cid:332)übertragung 
+
+Masse 
+
+Nutzlast 
+
+Höchstgeschwindigkeit 
+
+Zugsicherungssystem 
+
+Bremse 
+
+Letzte HU 
+
+Eigentümer 
+
+Schweres Nebenfahrzeug 
+
+Nr. 53 531 5, 
+
+Gleiskra(cid:332)wagen 
+
+dieselhydraulisch 
+
+8,1 t 
+
+7,9 t 
+
+70 km/h 
+
+PZB  
+
+WAdi (D) 
+
+02.05.2014 
+
+DIE-LEI GmbH 
+
+Zur Mi(cid:414)ahrt zugelassene Personen 
+
+5 
+
+Tabelle 3: Technische Daten Skl 
+
+Typ 
+
+Masse  
+
+Nutzlast 
+
+Höchstgeschwindigkeit 
+
+Anzahl der Achsen 
+
+Bremse 
+
+Letzte HU 
+
+Eigentümer 
+
+Gleiskra(cid:332)wagenanhänger Kla 03 
+
+Nummer: 03 0812 5 und 03 0725 5 
+
+4,2 t 
+
+10 t 
+
+70 km/h 
+
+2 
+
+WA (D) 
+
+30.04.2013 
+
+DIE-LEI GmbH 
+
+Zur Mi(cid:414)ahrt zugelassene Personen 
+
+0 
+
+Tabelle 4: Technische Daten Kla 
+
+Beide Kla waren in der Weiche 884 mit allen Achsen entgleist. Die Weiche wurde stumpf be-
+
+fahren und befand sich in Linkslage. Wegen des geringen Eigengewichts der geschobenen Kla 
+
+fuhren diese die Weiche nicht auf, sondern kle(cid:425)erten mit den linken Rädern über die anlie-
+
+gende Weichenzunge und Backenschiene und gli(cid:425)en dabei nach links von der Fahrbahn ab. 
+
+Seite 13 von 18 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 13.11.2014, Düsseldorf Flughafen Terminal 
+
+Der Skl blieb im Zungenbereich der Weiche 884 stehen, wobei linkssei(cid:415)g die Spurkränze bei-
+
+der Räder zwischen Backenschiene und klaﬀender Zunge steckten. 
+
+Die Fahrzeuge des EVU DIE-LEI GmbH ha(cid:425)en keinen ursächlichen Einﬂuss auf die Entstehung 
+
+des Ereignisses. 
+
+Der Personenzug S 30601 wurde gebildet aus dem führenden Triebfahrzeug 143 241-8 und 
+
+vier Reisezugwagen der Ga(cid:425)ungen ABx, Bx und Bxf. Die Fahrzeuge des EVU DB Regio AG hat-
+
+ten keinen ursächlichen Einﬂuss auf die Entstehung des Ereignisses. Auf weiterführende Un-
+
+tersuchungen wurde verzichtet. 
+
+Seite 14 von 18 
+
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 13.11.2014, Düsseldorf Flughafen Terminal 
+
+5  Auswertung	
+
+Das Kapitel 5 Auswertung befasst sich mit der Ereignisrekonstruk(cid:415)on. Anhand der oben ge-
+
+nannten Feststellungen wird ein plausibler Ablauf des gefährlichen Ereignisses zusammenge-
+
+tragen. Relevante Erkenntnisse werden anschließend bewertet und führen ggf. zu entspre-
+
+chenden Schlussfolgerungen. 
+
+5.1  Ereignisrekonstruktion	
+
+In der Nacht vom 12.11.2014 zum 13.11.2014 wurden im Bf Düsseldorf Flughafen Arbeiten an 
+
+der Weiche 886 durchgeführt. Hierfür wurde das Streckengleis Düsseldorf-Unterrath – Düs-
+
+seldorf Flughafen Terminal und der Einfahrabschni(cid:425) vom Esig F873 bis zum Grenzzeichen der 
+
+Weiche  884  gesperrt.  Gegen  23:49 Uhr  fuhr  ein  Skl  mit  zwei  geschobenen  Kla  als  Zugfahrt 
+
+75694 über das Gegengleis nach Düsseldorf Flughafen Terminal und setzte dort vom Einfahr-
+
+gleis zur Arbeitsstelle an der Weiche 886 um. 
+
+Um 04:14 Uhr, nach Abschluss der Arbeiten, beabsich(cid:415)gte der Tf des Skl, zu seinem Heimat-
+
+bahnhof nach Neuss Gbf zurückzufahren und teilte dies dem Fdl mit. Der Fdl s(cid:415)mmte darauf-
+
+hin mündlich der Fahrt bis „hoch zum Bahnsteig“ zu. Gegen 04:16 Uhr fuhr der Personenzug 
+
+S 30601 in Düsseldorf-Unterrath in das Gegengleis nach Düsseldorf Flughafen Terminal aus. 
+
+Zwischenzeitlich war auch der Tf des Skl abgefahren. Entgegen der Absicht des Fdl bewegte 
+
+dieser seinen Fahrzeugverband in Richtung Ls 885weiter in den Bf Düsseldorf Flughafen Ter-
+
+minal hinein. Der Fahrzeugverband entgleiste auf der Weiche 884. Nachdem der Fdl von dieser 
+
+Entgleisung erfuhr, setzte er einen Nothaltau(cid:332)rag für den Zug S 30601 ab. 
+
+Gegen 04:18 Uhr kollidierte Zug S 30601 mit dem führenden, im Lichtraum des Einfahrgleises 
+
+stehenden, Kla des Skl. 
+
+5.2  Bewertung	und	Schlussfolgerung	
+
+Die Ursache der Zugkollision am 13.11.2014 im Bf Düsseldorf Flughafen Terminal ist auf Ar-
+
+beitsfehler des beteiligten Fdl und des Tf des Skl zurückzuführen. Die Vorgaben zum Führen 
+
+betriebswich(cid:415)ger Gespräche wurden nicht oder nur unzureichend angewandt, wonach münd-
+
+liche Au(cid:332)räge und Meldungen zu wiederholen sind und die wesentlichen Angaben enthalten 
+
+sein müssen. So war sich der Fdl sicher, dass der Tf des Skl mit der Erlaubnis, dieser könne zum 
+
+Bahnsteig hochkommen, von der Arbeitsstelle durch den Tunnel und „hoch“ bis an den Bahn-
+
+steig in Düsseldorf-Unterrath fahren würde. Der Tf des Skl glaubte hingegen, dass er damit die 
+
+Seite 15 von 18 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 13.11.2014, Düsseldorf Flughafen Terminal 
+
+Zus(cid:415)mmung zur Fahrt in den Bf Düsseldorf Flughafen Terminal bis hinter das Signal N881 er-
+
+halten ha(cid:425)e. Dies erschien ihm, seinen eigenen Angaben entsprechend, auch logisch, da er 
+
+für die Hinfahrt einen ähnlichen Fahrweg über den Bf Düsseldorf Flughafen Terminal zurück-
+
+legte und nicht direkt über das gesperrte Gleis zur Arbeitsstelle fuhr. Außerdem s(cid:415)eg das Gleis 
+
+in der von ihm gewählten Fahrtrichtung an. So schien ihm klar was der Fdl mit „hochkommen“ 
+
+meinte. Dem vom Fdl gewählten Zusatz „zum Bahnsteig hochkommen“ wurde keine beson-
+
+dere Bedeutung beigemessen. Der Tf setzte somit seinen Skl ohne jedwede Zweifel bezüglich 
+
+der Fahrtrichtung in Bewegung und fuhr als Rangierfahrt in Richtung des Signals N881. Gleich-
+
+wohl wurden die Bes(cid:415)mmungen der Ril 408.0811 – mündliche Verständigung beim Rangieren 
+
+– beim zuvor geführten Gespräch mit dem  Fdl nicht oder nur sehr unzureichend beachtet. 
+
+Demnach hä(cid:425)e er sich mit dem Ww über Ziel, Zweck und eventuelle Besonderheiten abspre-
+
+chen müssen. Es ist davon auszugehen, dass den Beteiligten spätestens bei der Angabe des 
+
+Rangierziels dieses und eventuell auch weitere Missverständnisse hä(cid:425)en auﬀallen müssen. 
+
+Die Aussage des Fdl, dass der Tf „zum Bahnsteig hochkommen könne“, wurde oﬀenbar als 
+
+Zus(cid:415)mmung zu einer Rangierfahrt gewertet. Aufgrund der Tatsache, dass das Streckengleis 
+
+nach Düsseldorf Unterrath nicht zum Baugleis erklärt worden war und folglich keine Rangier-
+
+fahrten im Streckengleis betrieblich zulässig waren und die Voraussetzungen für die Durch-
+
+führungen von Sperrfahrten betrieblich nicht sofort umsetzbar waren, ist davon auszugehen, 
+
+dass der Fdl dieses Gespräch nicht als Zus(cid:415)mmung zu einer Rangierfahrt respek(cid:415)ve Sperrfahrt 
+
+in Richtung Bf Düsseldorf Flughafen Terminal ansah. Gesamtheitlich musste die Verständigung 
+
+der beteiligten Betriebspersonale als mangelha(cid:332) angesehen werden. 
+
+Im Rahmen der Untersuchungen ﬁelen noch weitere betriebliche Unzulänglichkeiten auf. Das 
+
+Aufstellen  des  nach  Betra  geforderten  Sh 2  Signals  vor  dem  Grenzzeichen  der  Weiche  884 
+
+hä(cid:425)e den Tf des Skl daran gehindert in Richtung des Signals 881 zu fahren. Außerdem ließ der 
+
+Fdl die Zugfahrt 10162 von der Strecke 2408 über die Weiche 884 zu, obwohl das Signal Sh 2 
+
+nicht aufgestellt war. Zudem waren die Meldungen über die Grenzzeichenfreiheit nicht aus-
+
+reichend.  Gemäß  den  Angaben  der  Betra  hä(cid:425)en  sich  Fahrzeuge  vor  das  Einfahrsignal  F873 
+
+begeben müssen, bevor einer Zugfahrt zuges(cid:415)mmt werden dur(cid:332)e. Folglich wurde der Zug-
+
+fahrt 10162 ohne den notwendigen Flankenschutz unzulässig zuges(cid:415)mmt. 
+
+Der Tf des Skl kam bereits aus Wuppertal-Vohwinkel mit abgeschalteter PZB-Fahrzeugeinrich-
+
+tung in Düsseldorf-Unterrath an. Das vorgeschriebene Zugsicherungssystem war damit wir-
+
+Seite 16 von 18 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 13.11.2014, Düsseldorf Flughafen Terminal 
+
+kungslos. Darüber hinaus war das Schieben von zwei Kla während der Zugfahrt von Wupper-
+
+tal-Vohwinkel nach Düsseldorf Flughafen Terminal unzulässig und oﬀensichtlich ein Grund für 
+
+das Abschalten der PZB-Fahrzeugeinrichtung. 
+
+Seite 17 von 18 
+
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 13.11.2014, Düsseldorf Flughafen Terminal 
+
+6  Bisher	getroffene	Maßnahmen	
+
+Der BEU wurden keine Maßnahmen bekannt, die infolge des Ereignisses durch die beteiligten 
+
+Eisenbahnunternehmen oder durch die Sicherheitsbehörde getroﬀen wurden. 
+
+7  Sicherheitsempfehlungen	
+
+Es wurden keine Sicherheitsempfehlungen ausgesprochen. 
+
+Seite 18 von 18 
+
+ 
+ 
 

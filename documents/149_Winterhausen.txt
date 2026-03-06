@@ -1,744 +1,2301 @@
-Untersuchungsbericht
+Untersuchungsbericht 
+
 Aktenzeichen:
 
-60uu2012-07/190-3323
+60uu2012-07/190-3323 
 
 Stand:
 
-18.10.2020 Version:1.0
+18.10.2020  Version:1.0 
+
+Erstveröﬀentlichung:    21.10.2020 
+
+Gefährliches Ereignis im Eisenbahnbetrieb 
+
+Ereignisart: 
+
+Zugentgleisung 
+
+Datum: 
 
-Erstveröﬀentlichung:
+Zeit: 
 
-21.10.2020
+Bahnhof: 
 
-Gefährliches Ereignis im Eisenbahnbetrieb
+Gleis: 
 
-Ereignisart:
+Kilometer: 
 
-Zugentgleisung
+25.07.2012 
 
-Datum:
+09:15 Uhr 
 
-25.07.2012
+Winterhausen 
 
-Zeit:
+404 
 
-09:15 Uhr
+126,6 
 
-Bahnhof:
+ 
+ 
+	
+	
+	
+ 
+ 
+	
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Winterhausen
+Zugentgleisung, 25.07.2012, Winterhausen 
 
-Gleis:
+Veröﬀentlicht durch: 
 
-404
+Bundesstelle für Eisenbahnunfalluntersuchung 
 
-Kilometer:
+Heinemannstraße 6 
 
-126,6
+53175 Bonn 
 
-Untersuchungsbericht
-Zugentgleisung, 25.07.2012, Winterhausen
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Veröﬀentlicht durch:
-Bundesstelle für Eisenbahnunfalluntersuchung
-Heinemannstraße 6
-53175 Bonn
+Zugentgleisung, 25.07.2012, Winterhausen 
 
-Untersuchungsbericht
-Zugentgleisung, 25.07.2012, Winterhausen
+Inhaltsverzeichnis 
 
-Inhaltsverzeichnis
-I.
+ I. 
 
-Änderungsverzeichnis:.......................................................................................... II
+ II. 
 
-II.
+III. 
 
-Abbildungsverzeichnis: ........................................................................................ III
+Änderungsverzeichnis:..........................................................................................    II 
 
-III.
+Abbildungsverzeichnis: ............................................
 
-Tabellenverzeichnis: ............................................................................................ III
+............................................ 
 
-IV.
+ III 
 
-Abkürzungsverzeichnis: ....................................................................................... IV
+Tabellenverzeichnis: ..............................................
 
-1
+.............................................. 
 
-Vorbemerkungen.................................................................................................. 1
+ III 
 
-1.1
+IV.  
 
-Organisatorischer Hinweis ...................................................................................... 1
+Abkürzungsverzeichnis: ...........................................
 
-1.2
+............................................ IV  
 
-Ziel der Eisenbahnunfalluntersuchung.................................................................... 2
+ 1 
 
-2
+1.1  
 
-Zusammenfassung ................................................................................................ 3
+ 1.2 
 
-2.1
+ 2 
 
-Kurzbeschreibung des Ereignisses........................................................................... 3
+2.1  
 
-2.2
+ 2.2 
 
-Folgen ...................................................................................................................... 3
+ 2.3 
 
-2.3
+ 2.4 
 
-Ursachen.................................................................................................................. 3
+ 3 
 
-2.4
+3.1  
 
-Sicherheitsempfehlungen ....................................................................................... 3
+ 3.2 
 
-3
+ 3.3 
 
-Allgemeine Angaben............................................................................................. 4
+ 3.4 
 
-3.1
+ 4 
 
-Lage und Beschreibung des Ereignisortes............................................................... 4
+4.1  
 
-3.2
+ 4.2 
 
-Beteiligte und Mitwirkende..................................................................................... 5
+ 4.3 
 
-3.3
+ 4.4 
 
-Äußere Bedingungen............................................................................................... 5
+ 4.5 
 
-3.4
+ 4.6 
 
-Todesopfer, Verletzte und Sachschäden................................................................. 5
+Vorbemerkungen..................................................................................................  
 
-4
+ 1 
 
-Untersuchungsprotokoll ....................................................................................... 8
+Organisatorischer 
 
-4.1
+Hinweis ......................................................................................  
 
-Zusammenfassung von Aussagen und Stellungnahmen......................................... 8
+ 1 
 
-4.2
+Ziel 
 
-Notfallmanagement ................................................................................................ 8
+ der 
 
-4.3
+Eisenbahnunfalluntersuchung....................................................................  
 
-Untersuchung der bautechnischen Infrastruktur ................................................... 8
+ 2 
 
-4.4
+Zusammenfassung ................................................................................................    3 
 
-Untersuchung der Leit- und Sicherungstechnik (LST) ............................................. 8
+Kurzbeschreibung 
 
-4.5
+ des 
 
-Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers................... 8
+Ereignisses...........................................................................  
 
-4.6
+ 3 
 
-Untersuchung der betrieblichen Abläufe des EVU ................................................. 9
+Folgen ......................................................................................................................  
 
-I
+ 3 
 
-Untersuchungsbericht
-Zugentgleisung, 25.07.2012, Winterhausen
+Ursachen..................................................................................................................  
 
-I.
+ 3 
 
-4.7
+Sicherheitsempfehlungen .......................................................................................  
 
-Untersuchung von Fahrzeugen ............................................................................... 9
+ 3 
 
-5
+Allgemeine 
 
-Auswertung ........................................................................................................ 12
+Angaben.............................................................................................    4 
 
-5.1
+Lage 
 
-Ereignisrekonstruktion .......................................................................................... 12
+ und 
 
-5.2
+Beschreibung 
 
-Bewertung und Schlussfolgerung.......................................................................... 12
+ des 
 
-6
+Ereignisortes...............................................................    4 
 
-Bisher getroffene Maßnahmen........................................................................... 13
+Beteiligte 
 
-7
+ und 
 
-Sicherheitsempfehlungen ................................................................................... 13
+Mitwirkende.....................................................................................  
 
-Änderungsverzeichnis:
-Änderung
+ 5 
 
-Stand
+Äußere 
 
-II
+Bedingungen...............................................................................................  
 
-Untersuchungsbericht
-Zugentgleisung, 25.07.2012, Winterhausen
+ 5 
 
-II.
+Todesopfer, 
 
-Abbildungsverzeichnis:
-Abbildung 1: Lageplan................................................................................................................ 4
-Abbildung 2: Entgleistes Drehgestell ......................................................................................... 7
-Abbildung 3: Gebrochene Radscheibe ....................................................................................... 7
-Abbildung 4: Technische Übersichtszeichnung Wagen ............................................................. 9
-Abbildung 5: Ermüdungsrisswachstum im betroffenen Rad ................................................... 11
-Abbildung 6: Bruchfläche mit Rissausgangsbereich................................................................. 11
+Verletzte 
 
-III.
+ und 
 
-Tabellenverzeichnis:
-Tabelle 1: Übersicht Streckendaten ........................................................................................... 5
-Tabelle 2: Übersicht der Personenschäden ............................................................................... 6
-Tabelle 3: Übersicht der geschätzten Schadenshöhe ................................................................ 6
-Tabelle 4: Technische Daten Wagen 33 68 4956 309-1........................................................... 10
+Sachschäden.................................................................  
 
-III
+ 5 
 
-Untersuchungsbericht
-Zugentgleisung, 25.07.2012, Winterhausen
+Untersuchungsprotokoll .......................................................................................    8 
 
-IV.
+Zusammenfassung 
 
-Abkürzungsverzeichnis:
-AEG
+von 
 
-Allgemeines Eisenbahngesetz
+Aussagen 
 
-BEU
+ und 
 
-Bundesstelle für Eisenbahnunfalluntersuchung
+Stellungnahmen.........................................    8 
 
-BEVVG
+Notfallmanagement ................................................................................................  
 
-Bundeseisenbahnverkehrsverwaltungsgesetz
+ 8 
 
-Bf
+Untersuchung 
 
-Bahnhof
+ der 
 
-BMVI
+bautechnischen 
 
-Bundesministerium für Verkehr und digitale Infrastruktur
+Infrastruktur ...................................................    8 
 
-EBA
+Untersuchung 
 
-Eisenbahn-Bundesamt
+ der 
 
-EU
+Leit- und 
 
-Europäische Union
+Sicherungstechnik 
 
-EUB
+(LST) .............................................    8 
 
-Eisenbahn-Unfalluntersuchungsstelle des Bundes
+Untersuchung 
 
-EUV
+ der 
 
-Eisenbahn-Unfalluntersuchungsverordnung
+betrieblichen 
 
-EVU
+Abläufe 
 
-Eisenbahnverkehrsunternehmen
+ des 
 
-GSM-R
+Infrastrukturbetreibers...................    8 
 
-Global System for Mobile Communica ons – Rail
+Untersuchung 
 
-LST
+ der 
 
-Leit- und Sicherungstechnik
+betrieblichen 
 
-PZB
+Abläufe 
 
-Punk örmige Zugbeeinﬂussung
+ des 
 
-Ril
+EVU .................................................    9 
 
-Richtlinie
+I 
 
-SMS
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+	
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Sicherheitsmanagementsystem
+Zugentgleisung, 25.07.2012, Winterhausen 
 
-Tf
+4.7 
 
-Triebfahrzeugführer
+5 
 
-VzG
+5.1 
 
-Verzeichnis der örtlich zulässigen Geschwindigkeiten
+5.2 
 
-IV
+6 
 
-Untersuchungsbericht
-Zugentgleisung, 25.07.2012, Winterhausen
+7 
 
-1 Vorbemerkungen
-Das Kapitel Vorbemerkungen befasst sich mit allgemeinen Informa onen zur Bundesstelle für
-Eisenbahnunfalluntersuchung (BEU). Dabei wird die gesetzliche Grundlage genannt und die
-Au auorganisa on kurz umrissen.
+Untersuchung von Fahrzeugen ............................................................................... 9 
 
-1.1 Organisatorischer Hinweis
-Mit der Richtlinie 2004/49/EG des Europäischen Parlaments und des Rates, über Eisenbahnsicherheit (Eisenbahnsicherheitsrichtlinie), wurden die Mitgliedstaaten der Europäischen Union
-(EU) erstmals verpflichtet, unabhängige Untersuchungsstellen für die Untersuchung bestimmter gefährlicher Ereignisse einzurichten.
-Die Richtlinie wurde mit dem 5. Gesetz zur Änderung eisenbahnrechtlicher Vorschriften vom
-16.04.2007 umgesetzt und die Eisenbahn-Unfalluntersuchungsstelle des Bundes (EUB) eingerichtet.
-Mit dem Gesetz zur Neuordnung der Eisenbahnunfalluntersuchung vom 27.06.2017 wurden
-u. a. die rechtlichen Grundlagen zur Errichtung der Bundesstelle für Eisenbahnunfalluntersuchung (BEU) geschaffen. Hierdurch wurde das Allgemeine Eisenbahngesetz (AEG) und das
-Bundeseisenbahnverkehrsverwaltungsgesetz (BEVVG) geändert, wobei Zuständigkeiten und
-Kompetenzen auf die neue Behörde, die BEU, übertragen wurden. Mit Errichtung der BEU
-wurde die EUB, bestehend aus der Leitung der EUB im Bundesministerium für Verkehr und
-digitale Infrastruktur (BMVI) und der Untersuchungszentrale der EUB im Eisenbahn-Bundesamt (EBA), aufgelöst. Mit dem Organisationserlass des Bundesministeriums für Verkehr und
-digitale Infrastruktur zur Errichtung der Bundesstelle für Eisenbahnunfalluntersuchung vom
-14.07.2017 wurde die BEU als selbstständige Bundesoberbehörde im Geschäftsbereich des
-BMVI zur Erfüllung der Aufgaben nach § 7 BEVVG errichtet. Die Aufgaben zur Untersuchung
-bestimmter gefährlicher Ereignisse im Eisenbahnbetrieb gingen dabei nahtlos von der EUB auf
-die BEU über.
-Da das gefährliche Ereignis vor der Errichtung der BEU eintrat, wurden bestimmte Untersuchungshandlungen noch durch die EUB vorgenommen, auf die im Bericht entsprechend verwiesen wird. Alle während der Untersuchung gewonnenen Erkenntnisse wurden kontinuierlich mit den betroffenen Eisenbahnen und der Sicherheitsbehörde geteilt und einzelfallbezogene Sicherheitsempfehlungen ausgesprochen.
-Näheres hierzu ist im Internet unter www.beu.bund.de eingestellt.
+Auswertung ........................................................................................................ 12 
 
-Seite 1 von 13
+Ereignisrekonstruktion .......................................................................................... 12 
 
-Untersuchungsbericht
-Zugentgleisung, 25.07.2012, Winterhausen
+Bewertung und Schlussfolgerung.......................................................................... 12 
 
-1.2 Ziel der Eisenbahnunfalluntersuchung
-Ziel und Zweck der Untersuchungen ist es, die Ursachen von gefährlichen Ereignissen aufzuklären und hieraus Hinweise zur Verbesserung der Sicherheit abzuleiten. Untersuchungen der
-BEU dienen nicht dazu, ein Verschulden festzustellen oder Fragen der Haftung oder sonstiger
-zivilrechtlicher Ansprüche zu klären und werden unabhängig von jeder gerichtlichen Untersuchung durchgeführt.
-Die Untersuchung umfasst die Sammlung und Auswertung von Informationen, die Erarbeitung
-von Schlussfolgerungen einschließlich der Feststellung der Ursachen und gegebenenfalls die
-Abgabe von Sicherheitsempfehlungen. Die Vorschläge der Untersuchungsstelle zur Vermeidung von Unfällen und Verbesserung der Sicherheit im Eisenbahnverkehr werden der Sicherheitsbehörde und, soweit erforderlich, anderen Stellen und Behörden oder anderen Mitgliedstaaten der EU in Form von Sicherheitsempfehlungen mitgeteilt.
+Bisher getroffene Maßnahmen........................................................................... 13 
 
-Seite 2 von 13
+Sicherheitsempfehlungen ................................................................................... 13 
 
-Untersuchungsbericht
-Zugentgleisung, 25.07.2012, Winterhausen
+I.  Änderungsverzeichnis: 
 
-2 Zusammenfassung
-Das Kapitel befasst sich mit einer kurzen Darstellung des Ereignisherganges, den Folgen und
-den Primärursachen. Abschließend werden eventuell erteilte Sicherheitsempfehlungen aufgeführt.
+Änderung 
 
-2.1 Kurzbeschreibung des Ereignisses
-Am 25.07.2012 gegen 09:15 Uhr entgleiste DGS 43101 auf der Fahrt von Wanne-Eickel nach
-Verona Quadrante Europa im Bahnhof (Bf) Winterhausen im Gleis 404 etwa in km 126,62 mit
-dem führenden Drehgestell des zehnten Wagens.
+Stand 
 
-2.2 Folgen
-Eine Person wurde leicht verletzt. Infolge der Entgleisung entstand erheblicher Sachschaden
-an den Gleisanlagen, Teilen der Oberleitungsanlage sowie an Fahrzeugen.
+II 
 
-2.3 Ursachen
-Die Entgleisung war auf einen Radscheibenbruch infolge thermischer Überbeanspruchungen
-beim bisherigen Betriebseinsatz des Wagens zurückzuführen.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+	
+ 
+ 
+ 
+ 
+	
+	
+Untersuchungsbericht 
 
-2.4 Sicherheitsempfehlungen
-Es wurden keine Sicherheitsempfehlungen ausgesprochen.
+Zugentgleisung, 25.07.2012, Winterhausen 
 
-Seite 3 von 13
+II.   Abbildungsverzeichnis:	 
 
-Untersuchungsbericht
-Zugentgleisung, 25.07.2012, Winterhausen
+Abbildung 
 
-3 Allgemeine Angaben
-Das Kapitel beinhaltet allgemeine Angaben zur Beschreibung des Ereignisortes und der relevanten Bahnanlagen. Des Weiteren werden die an der Unfalluntersuchung beteiligten und
-mitwirkenden Stellen, die äußeren Bedingungen, die Anzahl der bei dem Ereignis verletzten
-und getöteten Personen sowie Art und Höhe der Folgeschäden benannt.
+ 1: 
 
-3.1 Lage und Beschreibung des Ereignisortes
-Die Zugentgleisung ereignete sich auf der zweigleisigen und elektriﬁzierten Hauptbahn
-Treuchtlingen – Würzburg Hbf im Bf Winterhausen. Die Strecke wird gemäß Verzeichnis der
-örtlich zulässigen Geschwindigkeiten (VzG) mit der Streckennummer 5321 geführt. Die Entgleisungsstelle befand sich etwa in Streckenkilometer 126,62. Dieser Abschni dur e gemäß
-VzG mit einer maximalen Geschwindigkeit von 160 km/h befahren werden und war für einen
-Bremsweg von 1.000 m ausgelegt. Die Strecke war mit dem digitalen Zugfunk Global System
-for Mobile Communica ons Rail (GSM-R) ausgerüstet. Als Zugsicherungssystem kam die
-punk örmige Zugbeeinﬂussung (PZB) zur Anwendung. Das Stellwerk des Bf Winterhausen
-wurde durch den Fdl Ochsenfurt ferngesteuert. Die folgende Abbildung veranschaulicht die
-geographische Lage des Ereignisortes.
+Lageplan................................................................................................................    4 
 
-Abbildung 1: Lageplan1
+Abbildung 
 
-1
+ 2: 
 
-Quelle: Geobasisdaten: © GeoBasis-DE / BKG 2020, bearbeitet durch BEU
+Entgleistes 
 
-Seite 4 von 13
+Drehgestell .........................................................................................    7 
 
-Untersuchungsbericht
-Zugentgleisung, 25.07.2012, Winterhausen
+Abbildung 
 
-Übersicht Streckendaten
-Strecken-Nummer
+ 3: 
 
-5321
+Gebrochene 
 
-Strecke
+Radscheibe .......................................................................................    7 
 
-Treuchtlingen – Würzburg Hbf
+Abbildung 
 
-Streckenart
+ 4: 
 
-Hauptbahn, zweigleisig, elektriﬁziert
+Technische 
 
-Infrastrukturbetreiber
+Übersichtszeichnung 
 
-DB Netz AG
+Wagen .............................................................    9 
 
-Streckengeschwindigkeit
+Abbildung 
 
-160 km/h
+ 5: 
 
-Bremsweg
+Ermüdungsrisswachstum 
 
-1.000 m
+im 
 
-Aussta ung
+betroffenen 
 
-PZB, Zugfunk GSM-R
+ Rad ...................................................  
 
-Betriebsverfahren
+ 11 
 
-FV-DB Ril 408
+Abbildung 
 
-Tabelle 1: Übersicht Streckendaten
+ 6: 
 
-3.2 Beteiligte und Mitwirkende
-Am Ereignis waren folgende Stellen beteiligt:
-
+Bruchfläche 
 
-DB Netz AG, Eisenbahninfrastrukturunternehmen
+ mit 
 
-
+Rissausgangsbereich.................................................................  
 
-TX Logistik AG, Eisenbahnverkehrsunternehmen (EVU)
+ 11 
 
-
+III.  
 
-AAE Ahaus Alstätter Eisenbahn AG, Halter Wagen
-[red. Anm.: seit 2015 VTG AG]
+Tabellenverzeichnis: 
 
-Im Rahmen der Sachverhaltsermi lung und Ursachenerforschung wurde neben den o. g. Beteiligten folgende weitere Stelle einbezogen:
-
+Tabelle 
 
-DB Systemtechnik GmbH, Abteilung Werkstofftechnik/Schwachstellenanalyse,
-Brandenburg Kirchmöser
+ 1: 
 
-3.3 Äußere Bedingungen
-Die äußeren Bedingungen, wie z. B. das We er, standen in keinem erkennbaren kausalen Zusammenhang mit der Ereignisursache.
+Übersicht 
 
-3.4 Todesopfer, Verletzte und Sachschäden
-Der Triebfahrzeugführer (Tf) wurde bei dem Ereignis leicht verletzt und erli einen Schock.
-Das führende Drehgestell des zehnten Wagens entgleiste. Hierdurch wurde der Oberbau auf
-einer Länge von ca. 660 m sowie Teile der Oberleitungsanlage und eine Eisenbahnüberführung
-erheblich beschädigt.
+Streckendaten ...........................................................................................    5 
 
-Seite 5 von 13
+Tabelle 
 
-Untersuchungsbericht
-Zugentgleisung, 25.07.2012, Winterhausen
+ 2: 
 
-Bei dem Ereignis traten folgend aufgeführte Personenschäden ein:
-Anzahl Tote
+Übersicht 
 
-Anzahl schwer Verletzte
+ der 
 
-Anzahl leicht Verletzte
+Personenschäden ...............................................................................    6 
 
-Reisende
+Tabelle 
 
-–
+ 3: 
 
-–
+Übersicht 
 
-–
+ der 
 
-Mitarbeiter
+geschätzten Schadenshöhe  ................................................................    6 
 
-–
+Tabelle 
 
-–
+ 4: Technische  
 
-1
+Daten 
 
-Benutzer von
-Bahnübergängen
+Wagen 
 
-–
+ 33 
 
-–
+ 68 
 
-–
+4956 
 
-Dri e
+309-1........................................................... 10 
 
-–
+III 
 
-–
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+	
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-–
+Zugentgleisung, 25.07.2012, Winterhausen 
 
-Summe
+IV.  
 
-–
+Abkürzungsverzeichnis: 
 
-–
+ AEG 
 
-1
+BEU 
 
-Tabelle 2: Übersicht der Personenschäden
+Allgemeines 
 
-Die geschätzte Höhe der Sachschäden in Euro setzt sich wie folgt zusammen:
-geschätzte Kosten in Euro
-Fahrzeuge
+Eisenbahngesetz 
 
-keine Angaben
+Bundesstelle 
 
-Infrastruktur
+für 
 
-500.000
+Eisenbahnunfalluntersuchung 
 
-Dri e
+BEVVG  
 
-109.000
+Bundeseisenbahnverkehrsverwaltungsgesetz 
 
-Gesamtschadenshöhe
+ Bf 
 
-609.000
+BMVI  
 
-Tabelle 3: Übersicht der geschätzten Schadenshöhe
+EBA 
 
-Seite 6 von 13
+ EU 
 
-Untersuchungsbericht
-Zugentgleisung, 25.07.2012, Winterhausen
+EUB 
 
-Die folgenden Abbildungen zeigen das entgleiste Drehgestell sowie die gebrochene Radscheibe des rechten Rades der zweiten Achse.
+EUV 
 
-Abbildung 2: Entgleistes Drehgestell
+EVU 
 
-Abbildung 3: Gebrochene Radscheibe
+GSM-R 
 
-Seite 7 von 13
+LST 
 
-Untersuchungsbericht
-Zugentgleisung, 25.07.2012, Winterhausen
+ PZB 
 
-4 Untersuchungsprotokoll
-In diesem Kapitel werden die ermi elten Ergebnisse zu einzelnen in Zusammenhang mit dem
-Ereignis stehenden Teilbereichen des Eisenbahnwesens dargestellt. Daneben wurden auch die
-entsprechenden Schni stellen sowie das Sicherheitsmanagement (SMS) im betroﬀenen Bereich betrachtet. Die jeweilig relevanten Erkenntnisse werden fortlaufend aufgeführt.
+ Ril 
 
-4.1 Zusammenfassung von Aussagen und Stellungnahmen
-Der BEU vorliegende Aussagen oder Stellungnahmen am Ereignis beteiligter Personen sind in
-die Ermi lungen mit eingeﬂossen. Auf einen gesonderten Abdruck wird an dieser Stelle verzichtet.
+SMS 
 
-4.2 Notfallmanagement
-Nach § 4 Abs. 3 Allgemeines Eisenbahngesetz (AEG) haben die Eisenbahnen die Verpﬂichtung,
-an Maßnahmen des Brandschutzes und der technischen Hilfeleistung mitzuwirken. In einer
-Vereinbarung zwischen den Innenministerien der Länder und der DB AG hat man sich auf eine
-Verfahrensweise verständigt. Für die DB Netz AG gelten die entsprechenden Brand- und Katastrophenschutzgesetze der Länder. Das No allmanagement der DB AG ist in der Konzernrichtlinie 123, das der DB Netz AG in der Richtlinie (Ril) 423 näher beschrieben und geregelt.
-Unregelmäßigkeiten oder Verzögerungen in Bezug auf das Einleiten von Re ungsmaßnahmen
-wurden der BEU im Rahmen der Unfalluntersuchung nicht bekannt.
+ Tf 
 
-4.3 Untersuchung der bautechnischen Infrastruktur
-Die Überprüfung der bautechnischen Infrastruktur ergab keine Hinweise auf Unregelmäßigkeiten. Instandhaltungsdeﬁzite im Zusammenhang mit dem Ereignis sind auszuschließen. Die
-vorgefundenen Schäden an der Fahrbahn waren Folgen der Entgleisung.
+ VzG 
 
-4.4 Untersuchung der Leit‐ und Sicherungstechnik (LST)
-Die LST-Anlagen arbeiteten zum Zeitpunkt des Ereignisses fehlerfrei, Störungen lagen nicht
-vor. Ein kausaler Zusammenhang zur Unfallursache ist daher auszuschließen.
+Bahnhof 
 
-4.5 Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers
-Das Handeln der am Ereignis beteiligten Mitarbeiter im Bahnbetrieb ha e keinen ursächlichen
-Einﬂuss auf die Entstehung des Unfalls.
+Bundesministerium 
 
-Seite 8 von 13
+für 
 
-Untersuchungsbericht
-Zugentgleisung, 25.07.2012, Winterhausen
+Verkehr 
 
-4.6 Untersuchung der betrieblichen Abläufe des EVU
-Das Handeln des am Ereignis beteiligten Tf ha e keinen ursächlichen Einﬂuss auf die Entstehung des Unfalls. Zu einem begüns genden Einﬂuss aufgrund mangelha er Wagen- bzw. Zugprüfungen konnten keine eindeu gen Feststellungen getroﬀen werden.
+ und 
 
-4.7 Untersuchung von Fahrzeugen
-Bei dem Zug DGS 43101 handelte es sich um einen Güterzug des EVU TX Logis k AG zur Fahrt
-von Wanne-Eickel nach Verona Quadrante Europa. Der Zug wurde aus dem elektrischen Triebfahrzeug der Baureihe ES 64 F4 (Fahrzeugnummer 91 80 6 189 935-0 D-DISPO) sowie 17 beladenen und einem leeren Wagen gebildet. Die Gesamtmasse des Zuges betrug 1.491 t bei einer
-Gesamtzuglänge von 542 m. Der Zug verkehrte in Bremsstellung P.
-Der an zehnter Stelle im Wagenzug laufenden Güterwagen entgleiste. Es handelte sich um
-einen sechsachsigen Taschenwagen der Ga ung Sddggmrss mit der Fahrzeugnummer
-33 68 4956 309-1. Die folgende Abbildung veranschaulicht anhand einer technische Übersichtszeichnung die Wagenbauform.
+digitale 
 
-Abbildung 4: Technische Übersichtszeichnung Wagen2
+Infrastruktur 
 
-Der betroﬀene Radsatz war mit Radscheiben aus dem Werkstoﬀ ER7 nach DIN EN 13262 versehen. Bei den Rädern handelte es sich um thermostabile, klotzgebremste Vollräder mit einem Nennlau reisdurchmesser von 920 mm, die mit der DB-Bauart 004 vergleichbar waren.
-Der Radsatz wurde im Juli 2010 in den Wagen eingebaut und lief bis zum Ereignis ohne dokumen erte Betriebsmeldungen.
+Eisenbahn-Bundesamt 
 
-2
+Europäische Union  
 
-Quelle: Datenblatt Taschenwagen Sdggmrs(s) VTG Rail Europe GmbH
+Eisenbahn-Unfalluntersuchungsstelle 
 
-Seite 9 von 13
+ des 
 
-Untersuchungsbericht
-Zugentgleisung, 25.07.2012, Winterhausen
+Bundes 
 
-Bei den verwendeten Bremssohlen handelte es sich um Graugussbremssohlen. Diese wiesen
-unterschiedliche Verschleißzustände auf, die Anforderungen an den Restverschleißvorrat
-wurden erfüllt.
-Technische Daten des entgleisten Wagens:
-Wagennummer
+Eisenbahn-Unfalluntersuchungsverordnung  
 
-33 68 4956 309-1
+Eisenbahnverkehrsunternehmen 
 
-Baujahr
+Global 
 
-2004
+System 
 
-Halter
+for 
 
-Ahaus Alstä er Eisenbahn AG
+Mobile 
 
-Ga ungszeichen
+Communica(cid:415)ons   – 
 
-Sdggmrss
+ Rail 
 
-Eigengewicht
+Leit- und 
 
-35.000 kg
+Sicherungstechnik 
 
-Länge (LüP)
+Punk(cid:414)örmige 
 
-34.200 mm
+Zugbeeinﬂussung 
 
-Taschenboden über SO
+Richtlinie 
 
-270 mm
+Sicherheitsmanagementsystem 
 
-Anzahl der Radsätze
+Triebfahrzeugführer 
 
-6
+Verzeichnis 
 
-Achsabstand
+ der 
 
-1.800 mm
+örtlich 
 
-Lastgrenzen
+zulässigen 
 
-A 61,2 t, B 73,2 t, C 85,2 t
+Geschwindigkeiten 
 
-Max. zul. Fahrzeuggeschwindigkeit
+IV 
 
-120 km/h
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+	
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Bremsbauart
+Zugentgleisung, 25.07.2012, Winterhausen 
 
-2 x KE-GP-A
+1   Vorbemerkungen 	
 
-Tabelle 4: Technische Daten Wagen 33 68 4956 309-1
+Das  Kapitel  Vorbemerkungen  befasst  sich  mit  allgemeinen  Informa(cid:415)onen  zur  Bundesstelle  für  
 
-Im Rahmen der Unfalluntersuchung wurde eine gebrochene Radscheibe eines Radsatzes im
-führenden Drehgestell des Wagens mit der Fahrzeugnummer 33 68 4956 309-1 festgestellt.
-Zur Ermi lung der Ursache des Radscheibenbruches wurde die Abteilung Werksto echnik
-und Schwachstellenanalyse der DB Systemtechnik GmbH durch die BEU mit der werkstoﬀtechnischen Schadensuntersuchung der beiden Radsätze und der zum Drehgestell gehörenden Bremsklotzsohlen beau ragt.
-Bei den Untersuchungen konnte ein Farbabbrand infolge thermischer Überbeanspruchung an
-allen vier Rädern iden ﬁziert werden. In der Lauﬄäche der untersuchten Räder konnte eine
-12 mm efe Wärmeeinﬂusszone festgestellt werden, in der sich das stabile Mikrogefüge in ein
-sprödes und rissempﬁndliches Mischgefüge umgewandelt ha e. Von der Lauﬄäche beginnend bildeten sich Thermorisse aus, die sich radial in den Radkranz ausbreiteten und zu einem
-Ermüdungsriss führten, der senkrecht durch den Radkranz in den Radsteg hineinwuchs.
+Eisenbahnunfalluntersuchung  (BEU).  Dabei  wird  die  gesetzliche  Grundlage  genannt  und  die  
 
-Seite 10 von 13
+Au(cid:297)auorganisa(cid:415)on  kurz  umrissen.  
 
-Untersuchungsbericht
-Zugentgleisung, 25.07.2012, Winterhausen
+1.1   Organisatorischer 	Hinweis	 
 
-Im Bereich des Spannungsmaximums im Radsteg verzweigte sich der Riss und führte zum Gewaltbruch des Rades und zum Herausbrechen eines Radsegmentes, das ca. ein Viertel des
-Radumfanges umfasste.
-In der Bruchﬂäche konnte eine bläuliche Anlauﬀarbe festgestellt werden.
-Die folgenden Abbildungen zeigen das Ermüdungsrisswachstum am betroﬀenen Rad sowie
-das an der Unfallstelle aufgefundene Bruchstück des Rades mit den erkennbaren Anlauﬀarben
-im Bereich der Bruchﬂäche.
+Mit  der  Richtlinie  2004/49/EG  des  Europäischen  Parlaments  und  des  Rates,  über  Eisenbahnsi-
 
-Abbildung 5: Ermüdungsrisswachstum im betroﬀenen Rad3
+cherheit  (Eisenbahnsicherheitsrichtlinie),  wurden  die  Mitgliedstaaten  der  Europäischen  Union  
 
-Abbildung 6: Bruchﬂäche mit Rissausgangsbereich
+(EU)  erstmals  verpflichtet,  unabhängige  Untersuchungsstellen  für  die  Untersuchung  bestimm-
 
-3
+ter  gefährlicher  Ereignisse  einzurichten.  
 
-Quelle: DB Systemtechnik GmbH, „Werkstofftechnische Untersuchung an Vollrädern aus der Entgleisung
+Die  Richtlinie  wurde  mit  dem  5.  Gesetz  zur  Änderung  eisenbahnrechtlicher  Vorschriften  vom  
 
-Winterhausen am 25.07.2012“, Dokument 12-14044-T.TVI53-UB-209, 11.12.2012, bearbeitet durch BEU
+16.04.2007  umgesetzt  und  die  Eisenbahn-Unfalluntersuchungsstelle  des  Bundes  (EUB)  einge-
 
-Seite 11 von 13
+richtet.  
 
-Untersuchungsbericht
-Zugentgleisung, 25.07.2012, Winterhausen
+Mit  dem  Gesetz  zur  Neuordnung  der  Eisenbahnunfalluntersuchung  vom  27.06.2017  wurden  
 
-5 Auswertung
-Das Kapitel 5 Auswertung befasst sich mit der Ereignisrekonstruk on. Anhand der oben genannten Feststellungen wird ein plausibler Ablauf des gefährlichen Ereignisses zusammengetragen. Relevante Erkenntnisse werden anschließend bewertet und führen ggf. zu entsprechenden Schlussfolgerungen.
+u.  a.  die  rechtlichen  Grundlagen  zur  Errichtung  der  Bundesstelle  für  Eisenbahnunfalluntersu-
 
-5.1 Ereignisrekonstruktion
-Bei der Fahrt durch den Bf Winterhausen entgleiste der zehnte Wagen des Güterzuges
-DGS 43101 infolge eines Radscheibenbruches mit dem führenden Drehgestell.
-Der Tf stellte einen leichten Druckverlust von ca. 0,2 – 0,4 bar in der Hauptlu leitung sowie
-einen Ruck im Zugverband fest. Er leitete darau in eine Schnellbremsung ein und informierte
-den zuständigen Fahrdienstleiter Ochsenfurt.
-Infolge der eingeleiteten Schnellbremsung kam der Zug mit der Zugspitze im km 125,67 des
-durchgehenden Hauptgleises 404 im Bf Winterhausen zum Stehen. Bei der anschließenden
-Untersuchung des Zuges stellte der Tf die Entgleisung des führenden Drehgestells des zehnten
-Wagens fest.
+chung   (BEU)   geschaffen.   Hierdurch   wurde   das   Allgemeine   Eisenbahngesetz   (AEG)   und   das  
 
-5.2 Bewertung und Schlussfolgerung
-Im Rahmen der Untersuchungen konnten keine Mängel an der bautechnischen Infrastruktur
-festgestellt werden, die zum Ereignis beigetragen haben könnten. Hinweise auf eine Fehlfunkon der Leit- und Sicherungstechnik haben sich nicht ergeben.
-Die am Ereignis beteiligten Betriebspersonale waren grundsätzlich befähigt und qualiﬁziert
-ihre Tä gkeiten auszuführen. Die betrieblichen Abläufe sowohl des Infrastrukturbetreibers als
-auch des Tf des beteiligten EVU ha en keinen Einﬂuss auf die Entstehung des Unfalls.
-Ob der sich entwickelnde Riss im Rahmen der vorangegangenen Wagen- und Zugprüfungen
-hä e entdeckt werden können, konnte nicht eindeu g geklärt werden. Es ist jedoch davon
-auszugehen, dass sich der Ermüdungsriss bereits vor der Zugfahrt DGS 43101 entwickelte.
-Als Ursache für die Entgleisung des Taschenwagens wurde eine gebrochene Radscheibe eines
-Radsatzes im führenden Drehgestell festgestellt.
-Die werksto echnische Untersuchung der beiden Radsätze sowie der zum Drehgestell gehörenden Bremsklotzsohlen ergab, dass das Rad im vorangegangenen Betriebseinsatz bereits
+Bundeseisenbahnverkehrsverwaltungsgesetz  (BEVVG)  geändert,  wobei  Zuständigkeiten  und  
 
-Seite 12 von 13
+Kompetenzen  auf   die   neue   Behörde,   die   BEU,   übertragen  wurden.  Mit   Errichtung  der  BEU  
 
-Untersuchungsbericht
-Zugentgleisung, 25.07.2012, Winterhausen
+wurde  die  EUB,  bestehend  aus  der  Leitung  der  EUB  im  Bundesministerium  für  Verkehr  und  
 
-einer thermischen Überbeanspruchung ausgesetzt war. Als klares Indiz hierfür konnte an allen
-vier Rädern ein Farbabbrand festgestellt werden.
-Die konkrete Ursache, die zur thermischen Überbeanspruchung des Rades geführt ha e,
-konnte im Rahmen der Untersuchung nicht mehr festgestellt werden. Da es sich um thermostabile Vollräder handelte, musste gemäß dem zum damaligen Zeitpunkt geltenden Regelwerk
-keine gesonderte Behandlung oder Dokumenta on erfolgen.
-Durch im Betriebseinsatz au retende wiederholte Au eiz- und Abkühlungsvorgänge werden
-bei klotzgebremsten Rädern Zugeigenspannungen im Bereich der Lauﬄäche aufgebaut, die in
-Verbindung mit dem dort vorherrschenden spröderen Mischgefüge zur Entstehung eines
-Netzwerkes von Thermorissen auf der Lauﬄäche führen.
-Aufgrund der vorangegangenen thermischen Überbeanspruchung entstand an den betroﬀenen Rädern auch in eferen Schichten ein sprödes Mischgefüge, das zur radialen Ausbildung
-von Thermorissen von der Lauﬄäche beginnend in den Radkranz führte. In der Folge konnte
-sich ein ausbreitungsfähiger Ermüdungsriss in der Lauﬄäche bilden, der senkrecht durch den
-Radkranz in den Radsteg hineinwuchs. Letztendlich verzweigte sich der Riss im Bereich des
-Spannungsmaximums im Radsteg und führte zum Gewaltbruch des Rades und zum Herausbrechen eines Radsegmentes, das ca. ein Viertel des Radumfanges umfasste.
-Die in der Bruchﬂäche deutlich erkennbare bläuliche Anlauﬀarbe kann auf die thermische Beanspruchung des Rades während der Rissausbreitung zurückgeführt werden.
+digitale  Infrastruktur  (BMVI)  und  der  Untersuchungszentrale  der  EUB  im  Eisenbahn-Bundes-
 
-6 Bisher getroffene Maßnahmen
-Der Halter des Wagens, die AAE Ahaus Alstä er Eisenbahn AG, überprü e infolge des Radbruchs des Wagens 33 68 4956 309-1 im Bf Winterhausen drei weitere Radsätze mit Radscheiben aus der gleichen Materialcharge.
-Die zerstörungsfreie Prüfung der Radscheiben erfolgte im Werk Kni elfeld der Österreichischen Bundesbahnen. Die visuelle Überprüfung sowie die Eigenspannungsmessung, die Magnetpulverrissprüfung, die Ultraschallprüfung und die Wirbelstromprüfung wurden ohne negaven Befund durchgeführt.
+amt  (EBA),  aufgelöst.  Mit  dem  Organisationserlass  des  Bundesministeriums  für  Verkehr  und  
 
-7 Sicherheitsempfehlungen
-Es wurden keine Sicherheitsempfehlungen ausgesprochen.
-Seite 13 von 13
+digitale  Infrastruktur  zur  Errichtung  der  Bundesstelle  für  Eisenbahnunfalluntersuchung  vom  
 
+14.07.2017  wurde  die  BEU  als  selbstständige  Bundesoberbehörde  im  Geschäftsbereich  des  
+
+BMVI  zur  Erfüllung  der  Aufgaben  nach  §  7  BEVVG  errichtet.  Die  Aufgaben  zur  Untersuchung  
+
+bestimmter  gefährlicher  Ereignisse  im  Eisenbahnbetrieb  gingen  dabei  nahtlos  von  der  EUB  auf  
+
+die  BEU  über.  
+
+Da  das  gefährliche  Ereignis  vor  der  Errichtung  der  BEU  eintrat,  wurden  bestimmte  Untersu-
+
+chungshandlungen  noch  durch  die  EUB  vorgenommen,  auf  die  im  Bericht  entsprechend  ver-
+
+wiesen  wird.  Alle  während  der  Untersuchung  gewonnenen  Erkenntnisse  wurden  kontinuier-
+
+lich  mit  den  betroffenen  Eisenbahnen  und  der  Sicherheitsbehörde  geteilt  und  einzelfallbezo-
+
+gene  Sicherheitsempfehlungen  ausgesprochen.  
+
+Näheres  hierzu  ist  im  Internet  unter  www.beu.bund.de  eingestellt.  
+
+Seite 1 von 13 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugentgleisung, 25.07.2012, Winterhausen 
+
+1.2  Ziel der Eisenbahnunfalluntersuchung 
+
+Ziel und Zweck der Untersuchungen ist es, die Ursachen von gefährlichen Ereignissen aufzu-
+
+klären und hieraus Hinweise zur Verbesserung der Sicherheit abzuleiten. Untersuchungen der 
+
+BEU dienen nicht dazu, ein Verschulden festzustellen oder Fragen der Haftung oder sonstiger 
+
+zivilrechtlicher Ansprüche zu klären und werden unabhängig von jeder gerichtlichen Untersu-
+
+chung durchgeführt. 
+
+Die Untersuchung umfasst die Sammlung und Auswertung von Informationen, die Erarbeitung 
+
+von Schlussfolgerungen einschließlich der Feststellung der Ursachen und gegebenenfalls die 
+
+Abgabe von Sicherheitsempfehlungen. Die Vorschläge der Untersuchungsstelle zur Vermei-
+
+dung von Unfällen und Verbesserung der Sicherheit im Eisenbahnverkehr werden der Sicher-
+
+heitsbehörde und, soweit erforderlich, anderen Stellen und Behörden oder anderen Mitglied-
+
+staaten der EU in Form von Sicherheitsempfehlungen mitgeteilt. 
+
+Seite 2 von 13 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+	
+	
+	
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugentgleisung, 25.07.2012, Winterhausen 
+
+2   Zusammenfassung	 
+
+Das  Kapitel  befasst  sich  mit  einer  kurzen  Darstellung  des  Ereignisherganges,  den  Folgen  und  
+
+den  Primärursachen.  Abschließend  werden  eventuell  erteilte  Sicherheitsempfehlungen  auf-
+
+geführt.  
+
+2.1   Kurzbeschreibung 	des 	Ereignisses	 
+
+Am  25.07.2012  gegen  09:15  Uhr  entgleiste  DGS  43101  auf  der  Fahrt  von  Wanne-Eickel  nach  
+
+Verona  Quadrante  Europa  im  Bahnhof  (Bf)  Winterhausen  im  Gleis  404  etwa  in  km  126,62  mit  
+
+dem  führenden  Drehgestell  des  zehnten  Wagens.  
+
+2.2   Folgen	 
+
+Eine  Person  wurde  leicht  verletzt.  Infolge  der  Entgleisung  entstand  erheblicher  Sachschaden  
+
+an  den  Gleisanlagen,  Teilen  der  Oberleitungsanlage  sowie  an  Fahrzeugen.  
+
+2.3   Ursachen	 
+
+Die  Entgleisung  war  auf  einen  Radscheibenbruch  infolge  thermischer  Überbeanspruchungen  
+
+beim  bisherigen  Betriebseinsatz  des  Wagens  zurückzuführen.  
+
+2.4   Sicherheitsempfehlungen	 
+
+Es  wurden  keine  Sicherheitsempfehlungen  ausgesprochen.  
+
+Seite 3 von 13 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugentgleisung, 25.07.2012, Winterhausen 
+
+3   Allgemeine	 Angaben	 
+
+Das  Kapitel  beinhaltet  allgemeine  Angaben  zur  Beschreibung  des  Ereignisortes  und  der  rele-
+
+vanten  Bahnanlagen.  Des  Weiteren  werden  die  an  der  Unfalluntersuchung   beteiligten  und  
+
+mitwirkenden  Stellen,  die  äußeren  Bedingungen,  die  Anzahl  der  bei  dem  Ereignis  verletzten  
+
+und  getöteten  Personen  sowie  Art  und  Höhe  der  Folgeschäden  benannt.  
+
+3.1   Lage	 und 	Beschreibung 	des 	Ereignisortes 	
+
+Die   Zugentgleisung   ereignete   sich   auf   der   zweigleisigen   und   elektriﬁzierten   Hauptbahn  
+
+Treuchtlingen  –  Würzburg  Hbf  im  Bf  Winterhausen.  Die  Strecke  wird  gemäß  Verzeichnis  der  
+
+örtlich  zulässigen  Geschwindigkeiten  (VzG)  mit  der  Streckennummer  5321  geführt.  Die  Ent-
+
+gleisungsstelle  befand  sich  etwa  in  Streckenkilometer  126,62.  Dieser  Abschni(cid:425) dur(cid:332)e  gemäß  
+
+VzG  mit  einer  maximalen  Geschwindigkeit  von  160  km/h  befahren  werden  und  war  für  einen  
+
+Bremsweg  von  1.000  m  ausgelegt.  Die  Strecke  war  mit  dem  digitalen  Zugfunk  Global  System  
+
+for   Mobile   Communica(cid:415)ons   Rail   (GSM-R)   ausgerüstet.   Als   Zugsicherungssystem   kam   die  
+
+punk(cid:414)örmige   Zugbeeinﬂussung   (PZB)   zur   Anwendung.   Das   Stellwerk   des   Bf   Winterhausen  
+
+wurde  durch  den  Fdl  Ochsenfurt  ferngesteuert.  Die  folgende  Abbildung  veranschaulicht  die  
+
+geographische  Lage  des  Ereignisortes.  
+
+Abbildung 1: Lageplan1 
+
+1 Quelle: Geobasisdaten: © GeoBasis-DE / BKG 2020, bearbeitet durch BEU 
+
+Seite 4 von 13 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                       
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugentgleisung, 25.07.2012, Winterhausen 
+
+Übersicht 
+
+Streckendaten 
+
+Strecken-Nummer 
+
+5321 
+
+Strecke 
+
+Streckenart 
+
+Infrastrukturbetreiber 
+
+Treuchtlingen   – 
+
+Würzburg 
+
+ Hbf 
+
+Hauptbahn, 
+
+zweigleisig, 
+
+elektriﬁziert 
+
+ DB 
+
+ Netz 
+
+ AG 
+
+Streckengeschwindigkeit 
+
+ 160 km/h  
+
+Bremsweg 
+
+Aussta(cid:425)ung 
+
+Betriebsverfahren 
+
+1.000 
+
+ m 
+
+PZB, 
+
+Zugfunk 
+
+GSM-R 
+
+FV-DB 
+
+ Ril 
+
+ 408 
+
+Tabelle 
+
+ 1: 
+
+Übersicht 
+
+Streckendaten 
+
+3.2  Beteiligte und Mitwirkende 
+
+Am Ereignis waren folgende Stellen beteiligt: 
+
+  DB Netz AG, Eisenbahninfrastrukturunternehmen 
+
+  TX Logistik AG, Eisenbahnverkehrsunternehmen (EVU) 
+
+  AAE Ahaus Alstätter Eisenbahn AG, Halter Wagen 
+
+[red. Anm.: seit 2015 VTG AG] 
+
+Im Rahmen der Sachverhaltsermi(cid:425)lung und Ursachenerforschung wurde neben den o. g. Be-
+
+teiligten folgende weitere Stelle einbezogen: 
+
+  DB Systemtechnik GmbH, Abteilung Werkstofftechnik/Schwachstellenanalyse, 
+
+Brandenburg Kirchmöser 
+
+3.3  Äußere Bedingungen 
+
+Die äußeren Bedingungen, wie z. B. das We(cid:425)er, standen in keinem erkennbaren kausalen Zu-
+
+sammenhang mit der Ereignisursache. 
+
+3.4  Todesopfer, Verletzte und Sachschäden 
+
+Der Triebfahrzeugführer (Tf) wurde bei dem Ereignis leicht verletzt und erli(cid:425) einen Schock. 
+
+Das führende Drehgestell des zehnten Wagens entgleiste. Hierdurch wurde der Oberbau auf 
+
+einer Länge von ca. 660 m sowie Teile der Oberleitungsanlage und eine Eisenbahnüberführung 
+
+erheblich beschädigt. 
+
+Seite 5 von 13 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+	
+	
+	
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+	
+	
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+	
+	
+	
+	
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugentgleisung, 25.07.2012, Winterhausen 
+
+Bei dem Ereignis traten folgend aufgeführte Personenschäden ein: 
+
+Anzahl 
+
+Tote 
+
+Reisende 
+
+Mitarbeiter 
+
+Benutzer 
+Bahnübergängen 
+
+von 
+
+Dri(cid:425)e 
+
+Summe 
+
+ – 
+
+ – 
+
+ – 
+
+ – 
+
+ – 
+
+Anzahl 
+
+schwer 
+
+Verletzte 
+
+Anzahl 
+
+leicht 
+
+Verletzte 
+
+ – 
+
+ – 
+
+ – 
+
+ – 
+
+ – 
+
+ – 
+
+ 1 
+
+ – 
+
+ – 
+
+ 1 
+
+Tabelle 
+
+ 2: 
+
+Übersicht 
+
+ der 
+
+Personenschäden 
+
+Die geschätzte Höhe der Sachschäden in Euro setzt sich wie folgt zusammen: 
+
+geschätzte 
+
+Kosten 
+
+in 
+
+Euro 
+
+Fahrzeuge 
+
+Infrastruktur 
+
+Dri(cid:425)e 
+
+Gesamtschadenshöhe 
+
+keine 
+
+Angaben 
+
+500.000 
+
+109.000 
+
+609.000 
+
+Tabelle 
+
+ 3: 
+
+Übersicht 
+
+ der 
+
+geschätzten 
+
+Schadenshöhe 
+
+Seite 6 von 13 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugentgleisung, 25.07.2012, Winterhausen 
+
+Die   folgenden   Abbildungen   zeigen   das   entgleiste   Drehgestell   sowie   die   gebrochene   Rad-
+
+scheibe  des  rechten  Rades  der  zweiten  Achse.  
+
+Abbildung 2: Entgleistes Drehgestell 
+
+Abbildung 3: Gebrochene Radscheibe 
+
+Seite 7 von 13 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugentgleisung, 25.07.2012, Winterhausen 
+
+4   Untersuchungsprotokoll 	
+
+In  diesem  Kapitel  werden  die  ermi(cid:425)elten  Ergebnisse  zu  einzelnen  in  Zusammenhang  mit  dem  
+
+Ereignis  stehenden  Teilbereichen  des  Eisenbahnwesens  dargestellt.  Daneben  wurden  auch  die  
+
+entsprechenden  Schni(cid:425)stellen  sowie  das  Sicherheitsmanagement  (SMS)  im  betroﬀenen  Be-
+
+reich  betrachtet.  Die  jeweilig  relevanten  Erkenntnisse  werden  fortlaufend  aufgeführt.  
+
+4.1   Zusammenfassung 	von	 Aussagen 	und	 Stellungnahmen	 
+
+Der  BEU  vorliegende  Aussagen  oder  Stellungnahmen  am  Ereignis  beteiligter  Personen  sind  in  
+
+die  Ermi(cid:425)lungen  mit  eingeﬂossen.  Auf  einen  gesonderten  Abdruck  wird  an  dieser  Stelle  ver-
+
+zichtet.  
+
+4.2   Notfallmanagement	 
+
+Nach  §  4  Abs.  3  Allgemeines  Eisenbahngesetz  (AEG)  haben  die  Eisenbahnen  die  Verpﬂichtung,  
+
+an  Maßnahmen  des  Brandschutzes  und  der  technischen  Hilfeleistung  mitzuwirken.  In  einer  
+
+Vereinbarung  zwischen  den  Innenministerien  der  Länder  und  der  DB  AG  hat  man  sich  auf  eine  
+
+Verfahrensweise  verständigt.  Für  die  DB  Netz  AG  gelten  die  entsprechenden  Brand- und  Ka-
+
+tastrophenschutzgesetze  der  Länder.  Das  No(cid:414)allmanagement  der  DB  AG  ist  in  der  Konzern-
+
+richtlinie  123,  das  der  DB  Netz  AG  in  der  Richtlinie  (Ril)  423  näher  beschrieben  und  geregelt.  
+
+Unregelmäßigkeiten  oder  Verzögerungen  in  Bezug  auf  das  Einleiten  von  Re(cid:425)ungsmaßnahmen  
+
+wurden  der  BEU  im  Rahmen  der  Unfalluntersuchung  nicht  bekannt.  
+
+4.3   Untersuchung 	der	 bautechnischen 	Infrastruktur	 
+
+Die  Überprüfung  der  bautechnischen  Infrastruktur  ergab  keine  Hinweise  auf  Unregelmäßig-
+
+keiten.  Instandhaltungsdeﬁzite  im  Zusammenhang  mit  dem  Ereignis  sind  auszuschließen.  Die  
+
+vorgefundenen  Schäden  an  der  Fahrbahn  waren  Folgen  der  Entgleisung.  
+
+4.4   Untersuchung	 der	 Leit‐	 und 	Sicherungstechnik	 (LST)	 
+
+Die  LST-Anlagen  arbeiteten  zum  Zeitpunkt  des  Ereignisses  fehlerfrei,  Störungen  lagen  nicht  
+
+vor.  Ein  kausaler  Zusammenhang  zur  Unfallursache  ist  daher  auszuschließen.  
+
+4.5   Untersuchung	 der	 betrieblichen 	Abläufe 	des	 Infrastrukturbetreibers 	
+
+Das  Handeln  der  am  Ereignis  beteiligten  Mitarbeiter  im  Bahnbetrieb  ha(cid:425)e  keinen  ursächlichen  
+
+Einﬂuss  auf  die  Entstehung  des  Unfalls.  
+
+Seite 8 von 13 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugentgleisung, 25.07.2012, Winterhausen 
+
+4.6  Untersuchung	der	betrieblichen	Abläufe	des	EVU	
+
+Das Handeln des am Ereignis beteiligten Tf ha(cid:425)e keinen ursächlichen Einﬂuss auf die Entste-
+
+hung des Unfalls. Zu einem begüns(cid:415)genden Einﬂuss aufgrund mangelha(cid:332)er Wagen- bzw. Zug-
+
+prüfungen konnten keine eindeu(cid:415)gen Feststellungen getroﬀen werden. 
+
+4.7  Untersuchung	von	Fahrzeugen	
+
+Bei dem Zug DGS 43101 handelte es sich um einen Güterzug des EVU TX Logis(cid:415)k AG zur Fahrt 
+
+von Wanne-Eickel nach Verona Quadrante Europa. Der Zug wurde aus dem elektrischen Trieb-
+
+fahrzeug der Baureihe ES 64 F4 (Fahrzeugnummer 91 80 6 189 935-0 D-DISPO) sowie 17 bela-
+
+denen und einem leeren Wagen gebildet. Die Gesamtmasse des Zuges betrug 1.491 t bei einer 
+
+Gesamtzuglänge von 542 m. Der Zug verkehrte in Bremsstellung P. 
+
+Der an zehnter Stelle im Wagenzug laufenden Güterwagen entgleiste. Es handelte sich um 
+
+einen  sechsachsigen  Taschenwagen  der  Ga(cid:425)ung  Sddggmrss  mit  der  Fahrzeugnummer 
+
+33 68 4956 309-1.  Die  folgende  Abbildung  veranschaulicht  anhand  einer  technische  Über-
+
+sichtszeichnung die Wagenbauform. 
+
+Abbildung 4: Technische Übersichtszeichnung Wagen2 
+
+Der betroﬀene Radsatz war mit Radscheiben aus dem Werkstoﬀ ER7 nach DIN EN 13262 ver-
+
+sehen. Bei den Rädern handelte es sich um thermostabile, klotzgebremste Vollräder mit ei-
+
+nem Nennlau(cid:325)reisdurchmesser von 920 mm, die mit der DB-Bauart 004 vergleichbar waren. 
+
+Der Radsatz wurde im Juli 2010 in den Wagen eingebaut und lief bis zum Ereignis ohne doku-
+
+men(cid:415)erte Betriebsmeldungen. 
+
+2 Quelle: Datenblatt Taschenwagen Sdggmrs(s) VTG Rail Europe GmbH 
+
+Seite 9 von 13 
+
+ 
+                                                       
+ 
+ 
+Untersuchungsbericht 
+
+Zugentgleisung, 25.07.2012, Winterhausen 
+
+Bei den verwendeten Bremssohlen handelte es sich um Graugussbremssohlen. Diese wiesen 
+
+unterschiedliche  Verschleißzustände  auf,  die  Anforderungen  an  den  Restverschleißvorrat 
+
+wurden erfüllt. 
+
+Technische Daten des entgleisten Wagens: 
+
+Wagennummer 
+
+Baujahr 
+
+Halter 
+
+Ga(cid:425)ungszeichen 
+
+Eigengewicht 
+
+Länge 
+
+(LüP) 
+
+Taschenboden 
+
+über 
+
+ SO 
+
+Anzahl 
+
+ der 
+
+Radsätze 
+
+Achsabstand 
+
+Lastgrenzen 
+
+ 33 
+
+ 68 
+
+4956 
+
+309-1 
+
+2004 
+
+Ahaus 
+
+Alstä(cid:425)er 
+
+Eisenbahn 
+
+ AG 
+
+Sdggmrss 
+
+35.000 
+
+ kg 
+
+34.200 
+
+ mm 
+
+ 270 
+
+ mm 
+
+ 6 
+
+1.800 
+
+ mm 
+
+ A 
+
+61,2 
+
+ t, 
+
+ B 
+
+73,2 
+
+ t, 
+
+ C 
+
+85,2   t 
+
+ Max. 
+
+zul. 
+
+Fahrzeuggeschwindigkeit 
+
+Bremsbauart 
+
+ 120 
+
+km/h 
+
+ 2   x 
+
+KE-GP-A 
+
+Tabelle 
+
+ 4: 
+
+Technische Daten  
+
+Wagen 
+
+ 33 68  
+
+4956 
+
+309-1 
+
+Im Rahmen der Unfalluntersuchung wurde eine gebrochene Radscheibe eines Radsatzes im 
+
+führenden Drehgestell des Wagens mit der Fahrzeugnummer 33 68 4956 309-1 festgestellt. 
+
+Zur Ermi(cid:425)lung der Ursache des Radscheibenbruches wurde die Abteilung Werksto(cid:335)echnik 
+
+und  Schwachstellenanalyse  der  DB Systemtechnik GmbH  durch  die  BEU  mit  der  werkstoﬀ-
+
+technischen Schadensuntersuchung der beiden Radsätze und der zum Drehgestell gehören-
+
+den Bremsklotzsohlen beau(cid:332)ragt. 
+
+Bei den Untersuchungen konnte ein Farbabbrand infolge thermischer Überbeanspruchung an 
+
+allen vier Rädern iden(cid:415)ﬁziert werden. In der Lauﬄäche der untersuchten Räder konnte eine 
+
+12 mm (cid:415)efe Wärmeeinﬂusszone festgestellt werden, in der sich das stabile Mikrogefüge in ein 
+
+sprödes und rissempﬁndliches Mischgefüge umgewandelt ha(cid:425)e. Von der Lauﬄäche begin-
+
+nend bildeten sich Thermorisse aus, die sich radial in den Radkranz ausbreiteten und zu einem 
+
+Ermüdungsriss führten, der senkrecht durch den Radkranz in den Radsteg hineinwuchs. 
+
+Seite 10 von 13 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugentgleisung, 25.07.2012, Winterhausen 
+
+Im  Bereich  des  Spannungsmaximums  im  Radsteg  verzweigte  sich  der  Riss  und  führte  zum  Ge-
+
+waltbruch  des   Rades  und   zum   Herausbrechen  eines  Radsegmentes,  das  ca.  ein  Viertel   des  
+
+Radumfanges  umfasste.  
+
+In  der  Bruchﬂäche  konnte  eine  bläuliche  Anlauﬀarbe  festgestellt  werden.  
+
+Die   folgenden   Abbildungen  zeigen  das  Ermüdungsrisswachstum   am  betroﬀenen  Rad   sowie  
+
+das  an  der  Unfallstelle  aufgefundene  Bruchstück  des  Rades  mit  den  erkennbaren  Anlauﬀarben  
+
+im  Bereich  der  Bruchﬂäche.  
+
+Abbildung 5: Ermüdungsrisswachstum im betroﬀenen Rad3 
+
+Abbildung 6: Bruchﬂäche mit Rissausgangsbereich 
+
+3  Quelle:  DB  Systemtechnik  GmbH,  „Werkstofftechnische  Untersuchung  an  Vollrädern  aus  der  Entgleisung  
+
+Winterhausen  am  25.07.2012“,  Dokument  12-14044-T.TVI53-UB-209,  11.12.2012,  bearbeitet  durch  BEU  
+
+Seite 11 von 13 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                       
+Untersuchungsbericht 
+
+Zugentgleisung, 25.07.2012, Winterhausen 
+
+5   Auswertung	 
+
+Das  Kapitel  5  Auswertung  befasst  sich  mit  der  Ereignisrekonstruk(cid:415)on.  Anhand  der  oben  ge-
+
+nannten  Feststellungen  wird  ein  plausibler  Ablauf  des  gefährlichen  Ereignisses  zusammenge-
+
+tragen.  Relevante  Erkenntnisse  werden  anschließend  bewertet  und  führen  ggf.  zu  entspre-
+
+chenden  Schlussfolgerungen.  
+
+5.1   Ereignisrekonstruktion	 
+
+Bei   der   Fahrt   durch   den   Bf   Winterhausen   entgleiste   der   zehnte   Wagen   des   Güterzuges  
+
+DGS  43101  infolge  eines  Radscheibenbruches  mit  dem  führenden  Drehgestell.  
+
+Der  Tf  stellte  einen  leichten  Druckverlust  von  ca.  0,2  –  0,4  bar  in  der  Hauptlu(cid:332)leitung  sowie  
+
+einen  Ruck  im  Zugverband  fest.  Er  leitete  darau(cid:300)in  eine  Schnellbremsung  ein  und  informierte  
+
+den  zuständigen  Fahrdienstleiter  Ochsenfurt.  
+
+Infolge  der  eingeleiteten  Schnellbremsung  kam  der  Zug  mit  der  Zugspitze  im  km  125,67  des  
+
+durchgehenden  Hauptgleises  404  im  Bf  Winterhausen  zum  Stehen.  Bei  der  anschließenden  
+
+Untersuchung  des  Zuges  stellte  der  Tf  die  Entgleisung  des  führenden  Drehgestells  des  zehnten  
+
+Wagens  fest.  
+
+5.2   Bewertung 	und	 Schlussfolgerung	 
+
+Im  Rahmen  der  Untersuchungen  konnten  keine  Mängel  an  der  bautechnischen  Infrastruktur  
+
+festgestellt  werden,  die  zum  Ereignis  beigetragen  haben  könnten.  Hinweise  auf  eine  Fehlfunk-
+
+(cid:415)on  der  Leit- und  Sicherungstechnik  haben  sich  nicht  ergeben.  
+
+Die   am  Ereignis  beteiligten  Betriebspersonale   waren  grundsätzlich   befähigt   und   qualiﬁziert  
+
+ihre  Tä(cid:415)gkeiten  auszuführen.  Die  betrieblichen  Abläufe  sowohl  des  Infrastrukturbetreibers  als  
+
+auch  des  Tf  des  beteiligten  EVU  ha(cid:425)en  keinen  Einﬂuss  auf  die  Entstehung  des  Unfalls.  
+
+Ob  der  sich  entwickelnde  Riss  im  Rahmen  der  vorangegangenen  Wagen- und  Zugprüfungen  
+
+hä(cid:425)e  entdeckt  werden  können,  konnte  nicht  eindeu(cid:415)g  geklärt  werden.  Es  ist  jedoch  davon  
+
+auszugehen,  dass  sich  der  Ermüdungsriss  bereits  vor  der  Zugfahrt  DGS  43101  entwickelte.  
+
+Als  Ursache  für  die  Entgleisung  des  Taschenwagens  wurde  eine  gebrochene  Radscheibe  eines  
+
+Radsatzes  im  führenden  Drehgestell  festgestellt.  
+
+Die  werksto(cid:335)echnische  Untersuchung  der  beiden  Radsätze  sowie  der  zum  Drehgestell  gehö-
+
+renden  Bremsklotzsohlen   ergab,  dass   das  Rad   im   vorangegangenen  Betriebseinsatz   bereits  
+
+Seite 12 von 13 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugentgleisung, 25.07.2012, Winterhausen 
+
+einer  thermischen  Überbeanspruchung  ausgesetzt  war.  Als  klares  Indiz  hierfür  konnte  an  allen  
+
+vier  Rädern  ein  Farbabbrand  festgestellt  werden.  
+
+Die   konkrete   Ursache,   die   zur   thermischen   Überbeanspruchung   des   Rades   geführt   ha(cid:425)e,  
+
+konnte  im  Rahmen  der  Untersuchung  nicht  mehr  festgestellt  werden.  Da  es  sich  um  thermos-
+
+tabile  Vollräder  handelte,  musste  gemäß  dem  zum  damaligen  Zeitpunkt  geltenden  Regelwerk  
+
+keine  gesonderte  Behandlung  oder  Dokumenta(cid:415)on  erfolgen.  
+
+Durch  im  Betriebseinsatz  au(cid:332)retende  wiederholte  Au(cid:300)eiz- und  Abkühlungsvorgänge  werden  
+
+bei  klotzgebremsten  Rädern  Zugeigenspannungen  im  Bereich  der  Lauﬄäche  aufgebaut,  die  in  
+
+Verbindung   mit   dem   dort   vorherrschenden   spröderen   Mischgefüge   zur   Entstehung   eines  
+
+Netzwerkes  von  Thermorissen  auf  der  Lauﬄäche  führen.  
+
+Aufgrund  der  vorangegangenen  thermischen  Überbeanspruchung  entstand  an  den  betroﬀe-
+
+nen  Rädern  auch  in (cid:415)eferen  Schichten  ein  sprödes  Mischgefüge,  das  zur  radialen  Ausbildung  
+
+von  Thermorissen  von  der  Lauﬄäche  beginnend  in  den  Radkranz  führte.  In  der  Folge  konnte  
+
+sich  ein  ausbreitungsfähiger  Ermüdungsriss  in  der  Lauﬄäche  bilden,  der  senkrecht  durch  den  
+
+Radkranz  in  den  Radsteg  hineinwuchs.  Letztendlich  verzweigte  sich  der  Riss  im  Bereich  des  
+
+Spannungsmaximums  im  Radsteg  und  führte  zum  Gewaltbruch  des  Rades  und  zum  Heraus-
+
+brechen  eines  Radsegmentes,  das  ca.  ein  Viertel  des  Radumfanges  umfasste.  
+
+Die  in  der  Bruchﬂäche  deutlich  erkennbare  bläuliche  Anlauﬀarbe  kann  auf  die  thermische  Be-
+
+anspruchung  des  Rades  während  der  Rissausbreitung  zurückgeführt  werden.  
+
+6   Bisher 	getroffene 	Maßnahmen	 
+
+Der  Halter  des  Wagens,  die  AAE  Ahaus  Alstä(cid:425)er  Eisenbahn  AG,  überprü(cid:332)e  infolge  des  Rad-
+
+bruchs  des  Wagens  33  68  4956  309-1  im  Bf  Winterhausen  drei  weitere  Radsätze  mit  Radschei-
+
+ben  aus  der  gleichen  Materialcharge.  
+
+Die  zerstörungsfreie  Prüfung  der  Radscheiben  erfolgte  im   Werk  Kni(cid:425)elfeld  der  Österreichi-
+
+schen  Bundesbahnen.  Die  visuelle  Überprüfung  sowie  die  Eigenspannungsmessung,  die  Mag-
+
+netpulverrissprüfung,  die  Ultraschallprüfung  und  die  Wirbelstromprüfung  wurden  ohne  nega-
+
+(cid:415)ven  Befund  durchgeführt.  
+
+7   Sicherheitsempfehlungen	 
+
+Es  wurden  keine  Sicherheitsempfehlungen  ausgesprochen.  
+
+Seite 13 von 13 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 

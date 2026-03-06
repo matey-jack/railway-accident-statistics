@@ -1,838 +1,1362 @@
-Untersuchungszentrale
-der Eisenbahn-Unfalluntersuchungsstelle
-des Bundes
+Untersuchungszentrale 
 
-Aktenzeichen:
+der Eisenbahn-Unfalluntersuchungsstelle 
 
-60uu2014-06/002-3323
+des Bundes 
 
-Stand:
+Aktenzeichen:  60uu2014-06/002-3323 
 
-03.09.2015
+Stand: 
 
-Version: 1.0
+03.09.2015  Version:  1.0 
 
-Gefährliches Ereignis im Eisenbahnbetrieb
+Gefährliches Ereignis im Eisenbahnbetrieb 
 
-Ereignisart:
+Ereignisart: 
 
-Fahrzeugbrand
+Fahrzeugbrand 
 
-Datum:
+Datum: 
 
-04.06.2014
+Zeit: 
 
-Zeit:
+04.06.2014 
 
-23:10 Uhr
+  23:10 Uhr 
 
-Benachbarte Betriebsstellen:
+  Benachbarte Betriebsstellen: 
 
-Kamen - Üst Nordbögge
+  Kamen - Üst Nordbögge 
 
-Streckennummer:
+Streckennummer: 
 
-2650
+Kilometer: 
 
-Kilometer:
+2650 
 
-137,800
+137,800 
 
-Untersuchungsbericht
-Fahrzeugbrand, 04.06.2014, Kamen - Üst Nordbögge
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+Untersuchungsbericht 
 
-Veröffentlicht durch:
-Bundesministerium für Verkehr und digitale Infrastruktur
-Eisenbahn-Unfalluntersuchungsstelle des Bundes
-Robert-Schuman-Platz 1
-53175 Bonn
+Fahrzeugbrand, 04.06.2014, Kamen - Üst Nordbögge 
 
-Seite 2 von 23
+Veröffentlicht durch: 
 
-Untersuchungsbericht
-Fahrzeugbrand, 04.06.2014, Kamen - Üst Nordbögge
+Bundesministerium für Verkehr und digitale Infrastruktur 
 
-Inhaltsverzeichnis:
+Eisenbahn-Unfalluntersuchungsstelle des Bundes 
+
+Robert-Schuman-Platz 1 
+
+53175 Bonn 
+
+Seite 2 von 23 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Fahrzeugbrand, 04.06.2014, Kamen - Üst Nordbögge 
+
+Inhaltsverzeichnis: 
+
 Seite
-1
+ 
 
 Zusammenfassung .............................................................................................. 6
-
-1.1
+ 
 
 Kurzbeschreibung des Ereignisses ....................................................................... 6
-
-1.2
+ 
 
 Folgen.................................................................................................................... 6
-
-1.3
+ 
 
 Ursachen ............................................................................................................... 6
-
-2
+ 
 
 Vorbemerkungen ................................................................................................. 6
-
-2.1
+ 
 
 Organisatorischer Hinweis..................................................................................... 6
-
-2.2
+ 
 
 Ziel der Eisenbahn-Unfalluntersuchung................................................................. 7
-
-2.3
+ 
 
 Mitwirkende............................................................................................................ 7
-
-3
+ 
 
 Ereignis................................................................................................................. 8
-
-3.1
+ 
 
 Hergang ................................................................................................................. 8
-
-3.2
+ 
 
 Todesopfer, Verletzte und Sachschäden............................................................... 9
-
-4
+ 
 
 Untersuchungsprotokoll ..................................................................................... 9
-
-4.1
+ 
 
 Notfallmanagement................................................................................................ 9
-
-4.2
+ 
 
 Untersuchung von Fahrzeugen ........................................................................... 10
+ 
 
-4.2.1
+ 1 
+
+ 1.1 
+
+ 1.2 
+
+ 1.3 
+
+ 2 
+
+ 2.1 
+
+ 2.2 
+
+ 2.3 
+
+ 3 
+
+ 3.1 
+
+ 3.2 
+
+ 4 
+
+ 4.1 
+
+ 4.2 
+
+4.2.1 
 
 Erstbesichtigung des Triebfahrzeugs .................................................................. 10
+ 
 
-4.2.2
+4.2.2 
 
 Fahrzeuguntersuchung........................................................................................ 12
+ 
 
-4.3
+ 4.3 
+
+ 4.4 
+
+ 5 
 
 Interpretation der Unfallspuren / Schadensentwicklung ...................................... 16
-
-4.4
+ 
 
 Vergleichbare Ereignisse - bisher getroffene Maßnahmen ................................. 17
-
-5
+ 
 
 Auswertung und Schlussfolgerungen ............................................................. 22
+ 
 
-Seite 3 von 23
+Seite 3 von 23 
 
-Untersuchungsbericht
-Fahrzeugbrand, 04.06.2014, Kamen - Üst Nordbögge
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Abbildungsverzeichnis:
+Fahrzeugbrand, 04.06.2014, Kamen - Üst Nordbögge 
+
+Abbildungsverzeichnis: 
+
 Abb. 1: Lageplan ...................................................................................................................... 9
+ 
+
 Abb. 2: beschädigte Klemmschuhe / Klemmstelle .................................................................10
+ 
+
 Abb. 3: abgebrannte Fahrmotorkabel.....................................................................................11
+ 
+
 Abb. 4: Abbrandspuren Fahr-/ Bremswender.........................................................................11
+ 
+
 Abb. 5: Übergabebuch, Störmeldung .....................................................................................12
+ 
+
 Abb. 6: Übergabebuch, Erledigungsvermerk .........................................................................12
+ 
+
 Abb. 7: Anschlussleitungen am ausgebauten FM ..................................................................14
+ 
+
 Abb. 8: Eindruckstellen Aluminiumstromschiene ...................................................................15
+ 
 
-Seite 4 von 23
+Seite 4 von 23 
 
-Untersuchungsbericht
-Fahrzeugbrand, 04.06.2014, Kamen - Üst Nordbögge
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Abkürzungsverzeichnis
-AA
+Fahrzeugbrand, 04.06.2014, Kamen - Üst Nordbögge 
 
-Arbeitsanweisung
+Abkürzungsverzeichnis 
 
-AEG
+AA 
 
-Allgemeines Eisenbahngesetz
+AEG 
 
-BMVI
+BMVI 
 
-Bundesministerium für Verkehr und digitale Infrastruktur
+BPol 
 
-BPol
+BÜ 
 
-Bundespolizei
+EBA 
 
-BÜ
+EBL 
 
-Bahnübergang
+EBO 
 
-EBA
+EIU 
 
-Eisenbahn-Bundesamt
+ERA 
 
-EBL
+ESO 
 
-Eisenbahnbetriebsleiter
+EUB 
 
-EBO
+EUV 
 
-Eisenbahn-Bau- und Betriebsordnung
+EVU 
 
-EIU
+FM 
 
-Eisenbahninfrastrukturunternehmen
+IHB 
 
-ERA
+NE 
 
-Europäische Eisenbahn Agentur
+Arbeitsanweisung 
 
-ESO
+Allgemeines Eisenbahngesetz 
 
-Eisenbahn-Signalordnung
+Bundesministerium für Verkehr und digitale Infrastruktur 
 
-EUB
+Bundespolizei 
 
-Eisenbahn-Unfalluntersuchungsstelle des Bundes
+Bahnübergang 
 
-EUV
+Eisenbahn-Bundesamt 
 
-Eisenbahn-Unfalluntersuchungsverordnung
+Eisenbahnbetriebsleiter 
 
-EVU
+Eisenbahn-Bau- und Betriebsordnung 
 
-Eisenbahnverkehrsunternehmen
+Eisenbahninfrastrukturunternehmen 
 
-FM
+Europäische Eisenbahn Agentur 
 
-Fahrmotor
+Eisenbahn-Signalordnung 
 
-IHB
+Eisenbahn-Unfalluntersuchungsstelle des Bundes 
 
-Instandhaltungshandbuch
+Eisenbahn-Unfalluntersuchungsverordnung 
 
-NE
+Eisenbahnverkehrsunternehmen 
 
-Nichtbundeseigene Eisenbahn
+Fahrmotor 
 
-Nmg
+Instandhaltungshandbuch 
 
-Notfallmanager
+Nichtbundeseigene Eisenbahn 
 
-Pbf
+Nmg 
 
-Personenbahnhof
+Notfallmanager 
 
-Ril
+Pbf 
 
-Richtlinie
+Ril 
 
-SB
+SB 
 
-Sicherheitsbehörde
+Sbk 
 
-Sbk
+SMS 
 
-Selbstblocksignal
+Tf 
 
-SMS
+Tfz 
 
-Sicherheitsmanagementsystem
+Üst 
 
-Tf
+Personenbahnhof 
 
-Triebfahrzeugführer
+Richtlinie 
 
-Tfz
+Sicherheitsbehörde 
 
-Triebfahrzeug
+Selbstblocksignal 
 
-Üst
+Sicherheitsmanagementsystem 
 
-Überleitstelle
+Triebfahrzeugführer 
 
-Seite 5 von 23
+Triebfahrzeug 
 
-Untersuchungsbericht
-Fahrzeugbrand, 04.06.2014, Kamen - Üst Nordbögge
+Überleitstelle 
 
-1
+Seite 5 von 23 
 
-Zusammenfassung
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-1.1
+Fahrzeugbrand, 04.06.2014, Kamen - Üst Nordbögge 
 
-Kurzbeschreibung des Ereignisses
+1 
+
+Zusammenfassung 
+
+1.1 
+
+Kurzbeschreibung des Ereignisses 
 
 Am 04.06.2014 gegen 23:10 Uhr blieb der Regionalexpress (RE) 10637 des Eisenbahnver­
-kehrsunternehmens (EVU) DB Regio AG auf dem Laufweg Düsseldorf Abstellbahnhof −
-Hamm(Westf.) Pbf, zwischen Kamen und der Überleitstelle (Üst) Nordbögge, aufgrund eines
-Kabelbrandes am Triebfahrzeug (Tfz) etwa in Streckenkilometer 137,800 liegen.
 
-1.2
+kehrsunternehmens  (EVU)  DB  Regio  AG  auf  dem  Laufweg  Düsseldorf  Abstellbahnhof  − 
 
-Folgen
+Hamm(Westf.) Pbf, zwischen Kamen und der Überleitstelle (Üst) Nordbögge, aufgrund eines 
+
+Kabelbrandes am Triebfahrzeug (Tfz) etwa in Streckenkilometer 137,800 liegen. 
+
+1.2 
+
+Folgen 
 
 Am Tfz der Baureihe 112 134 (91 80 6112 134-2) kam es zu einem Kabelbrand am Kabel­
-bündel D1 des Fahrmotors (FM) 1. Nach vollständiger Kabelunterbrechung kam es zusätz­
-lich zu einem Überschlag zwischen den Stromschienen AW 10 und FW 10 sowie an weiteren
-Stellen des Stromkreises.
-Der Tf wurde aufgrund des Verdachts auf Rauchgasvergiftung dem örtlichen Krankenhaus
-zugeführt. Die etwa 40 Reisenden blieben unverletzt.
-Es entstand ein geschätzter Sachschaden in Höhe von 10.000 €. Die Weiterfahrt des Zuges
+
+bündel  D1 des Fahrmotors (FM) 1. Nach vollständiger Kabelunterbrechung kam es zusätz­
+
+lich zu einem Überschlag zwischen den Stromschienen AW 10 und FW 10 sowie an weiteren 
+
+Stellen des Stromkreises. 
+
+Der  Tf  wurde  aufgrund  des  Verdachts  auf  Rauchgasvergiftung  dem  örtlichen  Krankenhaus 
+
+zugeführt. Die etwa 40 Reisenden blieben unverletzt. 
+
+Es entstand ein geschätzter Sachschaden in Höhe von 10.000 €. Die Weiterfahrt des Zuges 
+
 verzögerte sich bis zur Gestellung eines Hilfs-Tfz bis um 2:02 Uhr des Folgetages. Eine Eva­
-kuierung der Reisenden hat nicht stattgefunden.
 
-1.3
+kuierung der Reisenden hat nicht stattgefunden. 
 
-Ursachen
+1.3 
 
-Die mangelhafte Arbeitsausführung durch die Nichtbeachtung von vorgeschriebenen In­
-standhaltungsanweisungen durch die Mitarbeiter der zuständigen Werkstatt Dortmund führte
-letztendlich zum Brand des Tfz.
-Begünstigt wurde dies durch die konstruktive Ausführung der Aluminiumstromschienen mit
-den vier einzeln geklemmten Leitungen je Fahrmotoranschluss in Verbindung mit dem be­
-engten Einbauraum und den dadurch erforderlichen erhöhten Instandhaltungsaufwand.
+Ursachen 
 
-2
+Die  mangelhafte  Arbeitsausführung  durch  die  Nichtbeachtung  von  vorgeschriebenen  In­
 
-Vorbemerkungen
+standhaltungsanweisungen durch die Mitarbeiter der zuständigen Werkstatt Dortmund führte 
 
-2.1
+letztendlich zum Brand des Tfz. 
 
-Organisatorischer Hinweis
+Begünstigt  wurde  dies  durch  die  konstruktive  Ausführung  der  Aluminiumstromschienen  mit 
 
-Mit der Richtlinie 2004/49/EG zur Eisenbahnsicherheit in der Gemeinschaft (Eisenbahnsi­
-cherheitsrichtlinie) wurden die Mitgliedstaaten der europäischen Union verpflichtet, unab­
+den  vier  einzeln  geklemmten  Leitungen  je  Fahrmotoranschluss  in  Verbindung  mit  dem  be­
+
+engten Einbauraum und den dadurch erforderlichen erhöhten Instandhaltungsaufwand. 
+
+2 
+
+Vorbemerkungen 
+
+2.1 
+
+Organisatorischer Hinweis 
+
+Mit  der  Richtlinie  2004/49/EG  zur  Eisenbahnsicherheit  in  der  Gemeinschaft  (Eisenbahnsi­
+
+cherheitsrichtlinie)  wurden  die  Mitgliedstaaten  der  europäischen  Union  verpflichtet,  unab­
+
 hängige Untersuchungsstellen für die Untersuchung bestimmter gefährlicher Ereignisse ein­
-zurichten.
 
-Seite 6 von 23
+zurichten. 
 
-Untersuchungsbericht
-Fahrzeugbrand, 04.06.2014, Kamen - Üst Nordbögge
+Seite 6 von 23 
 
-Diese Richtlinie wurde mit dem 5. Gesetz zur Änderung eisenbahnrechtlicher Vorschriften
-vom 16. April 2007 umgesetzt und die Eisenbahn-Unfalluntersuchungsstelle des Bundes
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Fahrzeugbrand, 04.06.2014, Kamen - Üst Nordbögge 
+
+Diese  Richtlinie  wurde  mit  dem  5.  Gesetz  zur  Änderung  eisenbahnrechtlicher  Vorschriften 
+
+vom  16.  April  2007  umgesetzt  und  die  Eisenbahn-Unfalluntersuchungsstelle  des  Bundes 
+
 (EUB) eingerichtet. Die weitere Umsetzung der Sicherheitsrichtlinie erfolgte durch die Eisen­
-bahn-Unfalluntersuchungsverordnung (EUV) vom 05.07.2007.
+
+bahn-Unfalluntersuchungsverordnung (EUV) vom 05.07.2007. 
+
 Die Leitung der Eisenbahn-Unfalluntersuchungsstelle des Bundes (EUB) liegt beim Bundes­
-ministerium für Verkehr und digitale Infrastruktur (BMVI). Zur Durchführung der Untersu­
-chungen greift die Leitung der EUB auf die Untersuchungszentrale beim EisenbahnBundesamt - die fachlich ausschließlich und unmittelbar dem Leiter der EUB untersteht zurück.
-Näheres hierzu ist im Internet unter >> www.eisenbahn-unfalluntersuchung.de << eingestellt.
 
-2.2
+ministerium  für  Verkehr  und  digitale  Infrastruktur  (BMVI).  Zur  Durchführung  der  Untersu­
 
-Ziel der Eisenbahn-Unfalluntersuchung
+chungen  greift  die  Leitung  der  EUB  auf  die  Untersuchungszentrale  beim  Eisenbahn-
+
+Bundesamt  -  die  fachlich  ausschließlich  und  unmittelbar  dem  Leiter  der  EUB  untersteht  -
+
+zurück. 
+
+Näheres hierzu ist im Internet unter >> www.eisenbahn-unfalluntersuchung.de << eingestellt. 
+
+2.2 
+
+Ziel der Eisenbahn-Unfalluntersuchung 
 
 Ziel und Zweck der Untersuchungen ist es, die Ursachen von gefährlichen Ereignissen auf­
-zuklären und hieraus Hinweise zur Verbesserung der Sicherheit abzuleiten. Untersuchungen
-der EUB dienen nicht dazu, ein Verschulden festzustellen oder Fragen der Haftung oder
-sonstiger zivilrechtlicher Ansprüche zu klären und werden unabhängig von jeder gerichtli­
-chen Untersuchung durchgeführt.
-Die Untersuchung umfasst die Sammlung und Auswertung von Informationen, die Erarbei­
+
+zuklären und hieraus Hinweise zur Verbesserung der Sicherheit abzuleiten. Untersuchungen 
+
+der  EUB  dienen  nicht  dazu,  ein  Verschulden  festzustellen  oder  Fragen  der  Haftung  oder 
+
+sonstiger  zivilrechtlicher  Ansprüche  zu  klären  und  werden  unabhängig  von  jeder  gerichtli­
+
+chen Untersuchung durchgeführt. 
+
+Die  Untersuchung  umfasst  die  Sammlung  und  Auswertung  von  Informationen,  die  Erarbei­
+
 tung von Schlussfolgerungen einschließlich der Feststellung der Ursachen und gegebenen­
-falls die Abgabe von Sicherheitsempfehlungen. Die Vorschläge der Untersuchungsstelle zur
-Vermeidung von Unfällen und Verbesserung der Sicherheit im Eisenbahnverkehr werden der
-Sicherheitsbehörde und, soweit erforderlich, anderen Stellen und Behörden oder anderen
-Mitgliedstaaten der EU in Form von Sicherheitsempfehlungen mitgeteilt.
 
-2.3
+falls die Abgabe von Sicherheitsempfehlungen. Die Vorschläge der Untersuchungsstelle zur 
 
-Mitwirkende
+Vermeidung von Unfällen und Verbesserung der Sicherheit im Eisenbahnverkehr werden der 
 
-Im Rahmen der Sachverhaltsermittlung und Ursachenerforschung wurden folgende externe
-Stellen einbezogen:
-
+Sicherheitsbehörde  und,  soweit  erforderlich,  anderen  Stellen  und  Behörden  oder  anderen 
 
-DB Regio AG, Region NRW
+Mitgliedstaaten der EU in Form von Sicherheitsempfehlungen mitgeteilt. 
 
-
+2.3 
 
-DB Regio AG, Baureihenmanagement
+Mitwirkende 
 
-Seite 7 von 23
+Im  Rahmen  der  Sachverhaltsermittlung  und  Ursachenerforschung  wurden folgende externe 
 
-Untersuchungsbericht
-Fahrzeugbrand, 04.06.2014, Kamen - Üst Nordbögge
+Stellen einbezogen: 
 
-3
+  DB Regio AG, Region NRW 
 
-Ereignis
+  DB Regio AG, Baureihenmanagement 
 
-Vorbemerkung:
+Seite 7 von 23 
 
-Durch die Eisenbahn-Unfalluntersuchungsstelle des Bundes (EUB) wurde unmittelbar nach
-dem Ereigniseintritt keine Sachverhaltsermittlung vor Ort durchgeführt. Der Abschlussbericht
-basiert auf den Untersuchungsergebnissen einer durch die EUB nachträglich durchgeführten
-Fahrzeugbesichtigung
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-und
+Fahrzeugbrand, 04.06.2014, Kamen - Üst Nordbögge 
 
-auf
+3 
 
-Informationen,
+Ereignis 
 
-die
+Vorbemerkung: 
 
-gemäß
+Durch  die  Eisenbahn-Unfalluntersuchungsstelle  des  Bundes  (EUB)  wurde  unmittelbar  nach 
 
-§
+dem Ereigniseintritt keine Sachverhaltsermittlung vor Ort durchgeführt. Der Abschlussbericht 
 
-2
+basiert auf den Untersuchungsergebnissen einer durch die EUB nachträglich durchgeführten 
 
-Eisenbahn-
+Fahrzeugbesichtigung 
+
+und 
+
+auf 
+
+Informationen, 
+
+die 
+
+gemäß 
+
+§ 
+
+2  Eisenbahn-
 
 Unfalluntersuchungsverordnung (EUV) von der EUB bei den beteiligten Eisenbahnen abge­
-fordert wurden.
 
-Die zu diesem Ereignis zur Verfügung gestellten Informationen sind grundsätzlich plausibel
-und lassen Schlussfolgerungen in Bezug auf die Unfallursache zu.
+fordert wurden. 
 
-3.1
+Die zu diesem Ereignis zur Verfügung gestellten Informationen sind grundsätzlich plausibel 
 
-Hergang
+und lassen Schlussfolgerungen in Bezug auf die Unfallursache zu. 
 
-Am 04.06.2014 verkehrte der Zug RE-D 10637 bestehend aus dem Tfz 112 134 und fünf
-Doppelstockreisezugwagen. Gemäß Fahrplan sollte der Zug von Düsseldorf Abstellbahnhof
-nach Hamm(Westf.) Pbf laufen. Nach den Angaben des Tf verlief die Zugfahrt bis zum Er­
-eigniseintritt ohne nennenswerte Besonderheiten.
-Der Tf brachte den Zug aufgrund des planmäßigen Verkehrshalts im Bahnhof Kamen am
-Bahnsteig zum Halten. Während er seinen Zug nach dem Halt wieder beschleunigte, kam es
-auf dem besetzten Führerstand 1 zu einer Explosion im Bereich der Fahrmotorklemmstellen
-mit Stichflamme in den Führerraum. In der Folge entstand eine starke Rauchentwicklung.
-Der Tf brachte daraufhin den Zug vor dem Selbstblocksignal (Sbk) 55 in Streckenkilometer
-137,8 zum Stehen und verständigte den Fdl. Der relativ kleine Brandherd wurde durch die
-herbeigerufene Feuerwehr gelöscht.
+3.1 
 
-Seite 8 von 23
+Hergang 
 
-Untersuchungsbericht
-Fahrzeugbrand, 04.06.2014, Kamen - Üst Nordbögge
+Am  04.06.2014  verkehrte  der  Zug  RE-D  10637  bestehend  aus  dem  Tfz  112  134  und  fünf 
 
-Abb. 1: Lageplan
-Quelle: IVL-Plan DB Netz AG bearbeitet durch EUB
+Doppelstockreisezugwagen. Gemäß Fahrplan sollte der Zug von Düsseldorf Abstellbahnhof 
 
-3.2
+nach  Hamm(Westf.)  Pbf  laufen.  Nach  den  Angaben  des  Tf  verlief  die  Zugfahrt  bis  zum  Er­
 
-Todesopfer, Verletzte und Sachschäden
+eigniseintritt ohne nennenswerte Besonderheiten. 
 
-Todesopfer sind keine zu beklagen. Der Triebfahrzeugführer wird bei dem Ereignis leicht
-verletzt und erleidet einen Schock. Der Sachschaden beläuft sich auf mehrere 1.000 Euro.
+Der  Tf  brachte  den  Zug  aufgrund  des  planmäßigen  Verkehrshalts  im  Bahnhof  Kamen  am 
 
-4
+Bahnsteig zum Halten. Während er seinen Zug nach dem Halt wieder beschleunigte, kam es 
 
-Untersuchungsprotokoll
+auf dem besetzten Führerstand 1 zu einer Explosion im Bereich der Fahrmotorklemmstellen 
 
-4.1
+mit  Stichflamme  in  den  Führerraum.  In  der  Folge  entstand  eine  starke  Rauchentwicklung. 
 
-Notfallmanagement
+Der Tf brachte daraufhin den Zug vor dem Selbstblocksignal (Sbk) 55 in Streckenkilometer 
+
+137,8  zum  Stehen  und  verständigte  den  Fdl.  Der  relativ  kleine  Brandherd  wurde  durch  die 
+
+herbeigerufene Feuerwehr gelöscht. 
+
+Seite 8 von 23 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Fahrzeugbrand, 04.06.2014, Kamen - Üst Nordbögge 
+
+Abb. 1: Lageplan 
+
+Quelle: IVL-Plan DB Netz AG bearbeitet durch EUB 
+
+3.2 
+
+Todesopfer, Verletzte und Sachschäden 
+
+Todesopfer  sind  keine  zu  beklagen.  Der  Triebfahrzeugführer  wird  bei  dem  Ereignis  leicht 
+
+verletzt und erleidet einen Schock. Der Sachschaden beläuft sich auf mehrere 1.000 Euro. 
+
+4 
+
+Untersuchungsprotokoll 
+
+4.1 
+
+Notfallmanagement 
 
 Nach § 4 Abs. 3 Allgemeines Eisenbahngesetz (AEG) haben die Eisenbahnen die Verpflich­
-tung, an Maßnahmen des Brandschutzes und der technischen Hilfeleistung mitzuwirken. In
-einer Vereinbarung zwischen den Innenministerien der Länder und der DB AG hat man sich
-auf eine Verfahrensweise verständigt. Für die DB Netz AG gelten die entsprechenden Brandund Katastrophenschutzgesetze der Länder. Das Notfallmanagement der DB AG ist in der
-Richtlinie (Ril) 123 näher beschrieben und geregelt.
+
+tung, an Maßnahmen des Brandschutzes und der technischen Hilfeleistung mitzuwirken. In 
+
+einer Vereinbarung zwischen den Innenministerien der Länder und der DB AG hat man sich 
+
+auf eine Verfahrensweise verständigt. Für die DB Netz AG gelten die entsprechenden Brand- 
+
+und  Katastrophenschutzgesetze  der  Länder.  Das  Notfallmanagement  der  DB  AG  ist  in  der 
+
+Richtlinie (Ril) 123 näher beschrieben und geregelt. 
+
 Der EUB wurden keine Umstände bekannt, die das Einleiten und Abarbeiten der Notfallmel­
-dekette verzögert oder maßgeblich beeinträchtigt hätten.
 
-Seite 9 von 23
+dekette verzögert oder maßgeblich beeinträchtigt hätten. 
 
-Untersuchungsbericht
-Fahrzeugbrand, 04.06.2014, Kamen - Üst Nordbögge
+Seite 9 von 23 
 
-4.2
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Untersuchung von Fahrzeugen
+Fahrzeugbrand, 04.06.2014, Kamen - Üst Nordbögge 
 
-4.2.1
+4.2 
 
-Erstbesichtigung des Triebfahrzeugs
+Untersuchung von Fahrzeugen 
 
-Im Rahmen der Voruntersuchung wurde am 05.06.2014 das Tfz durch die EUB in Dort­
-mund Bbf besichtigt. Dabei wurde folgender Sachverhalt festgestellt:
-Das Tfz befand sich abgerüstet abgestellt im Betriebsbahnhof Dortmund. Im Führerraum auf
-der Beimannseite, hinter einer Klappe in der Führerraumrückwand verborgen, befinden sich
-die Klemmstellen des betroffenen FM. Das vorgefundene Schadbild an den Klemmstellen
-zwischen der Aluminiumstromschiene und den Fahrmotoranschlussleitungen wird auf den
-folgenden Abbildungen deutlich.
+4.2.1 
+
+Erstbesichtigung des Triebfahrzeugs 
+
+Im  Rahmen  der  Voruntersuchung  wurde  am  05.06.2014  das  Tfz  durch  die  EUB  in  Dort­
+
+mund Bbf besichtigt. Dabei wurde folgender Sachverhalt festgestellt: 
+
+Das Tfz befand sich abgerüstet abgestellt im Betriebsbahnhof Dortmund. Im Führerraum auf 
+
+der Beimannseite, hinter einer Klappe in der Führerraumrückwand verborgen, befinden sich 
+
+die  Klemmstellen  des  betroffenen  FM.  Das  vorgefundene  Schadbild  an  den  Klemmstellen 
+
+zwischen  der  Aluminiumstromschiene  und  den  Fahrmotoranschlussleitungen  wird  auf  den 
+
+folgenden Abbildungen deutlich. 
+
 In Abbildung 3 ist im hinteren Bereich eine bis zum Kabelschuh durchgebrannte Fahrmotor­
+
 anschlussleitung zu erkennen. Der Kabelschuh ist noch an der Aluminiumstromschiene ver­
-schraubt. An den anderen Kabelschuhen im Vordergrund sind ebenfalls Rußablagerungen
-zu finden. Die durchgebrannten Fahrmotoranschlussleitungen und die weitgehend unbe­
-schädigte Klemmleiste sind auf Abbildung 4 zu erkennen.
+
+schraubt.  An  den  anderen  Kabelschuhen  im  Vordergrund  sind  ebenfalls  Rußablagerungen 
+
+zu  finden.  Die  durchgebrannten  Fahrmotoranschlussleitungen  und  die  weitgehend  unbe­
+
+schädigte Klemmleiste sind auf Abbildung 4 zu erkennen. 
+
 Es fanden sich außerdem Abbrandspuren auf den Wenderelementen der Fahr-/ Bremswen­
-dern bzw. den Richtungswendern, welche in der Abbildung 5 erkennbar sind.
 
-Abb. 2: beschädigte Klemmschuhe / Klemmstelle
+dern bzw. den Richtungswendern, welche in der Abbildung 5 erkennbar sind. 
 
-Seite 10 von 23
+Abb. 2: beschädigte Klemmschuhe / Klemmstelle 
 
-Untersuchungsbericht
-Fahrzeugbrand, 04.06.2014, Kamen - Üst Nordbögge
+Seite 10 von 23 
 
-Abb. 3: abgebrannte Fahrmotorkabel
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Abb. 4: Abbrandspuren Fahr-/ Bremswender
+Fahrzeugbrand, 04.06.2014, Kamen - Üst Nordbögge 
 
-Seite 11 von 23
+Abb. 3: abgebrannte Fahrmotorkabel 
 
-Untersuchungsbericht
-Fahrzeugbrand, 04.06.2014, Kamen - Üst Nordbögge
+Abb. 4: Abbrandspuren Fahr-/ Bremswender 
 
-Außerdem waren dem Übergabebuch folgende Einträge zu entnehmen:
+Seite 11 von 23 
 
-Abb. 5: Übergabebuch, Störmeldung
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Am 30.05. wurde durch einen Tf ein voller Masseschluss, sowie im Führerraum 1 zeitweiser
-Geruch nach angebrannten Kabeln festgestellt. Die eingetragene Feststellung wurde durch
-den Tf wie vorgesehen an die zuständige Stelle gemeldet (EZB-Meldung). Nach weiteren
-zwei Betriebstagen wurde im Rahmen der anschließend durchgeführten Nachschau am
-03.06.2014 der oben genannte Eintrag im Übergabebuch durch die Werkstatt gestrichen und
-mit o.B. (ohne Befund) gekennzeichnet.
+Fahrzeugbrand, 04.06.2014, Kamen - Üst Nordbögge 
 
-Abb. 6: Übergabebuch, Erledigungsvermerk
+Außerdem waren dem Übergabebuch folgende Einträge zu entnehmen: 
 
-4.2.2
+Abb. 5: Übergabebuch, Störmeldung 
 
-Fahrzeuguntersuchung
+Am 30.05. wurde durch einen Tf ein voller Masseschluss, sowie im Führerraum 1 zeitweiser 
 
-Aufgrund der im Rahmen der Voruntersuchung gesammelten Erkenntnisse wurde mit dem
-Fahrzeughalter DB Regio AG ein gemeinsamer Untersuchungs- und Erörterungstermin zu
-den aufgetretenen Unregelmäßigkeiten und deren Zusammenhänge vereinbart. Zwischen­
-zeitlich sollte der betroffene FM 1 ausgebaut werden.
+Geruch  nach  angebrannten  Kabeln  festgestellt.  Die  eingetragene  Feststellung  wurde  durch 
+
+den  Tf  wie  vorgesehen  an  die  zuständige  Stelle  gemeldet  (EZB-Meldung).  Nach  weiteren 
+
+zwei  Betriebstagen  wurde  im  Rahmen  der  anschließend  durchgeführten  Nachschau  am 
+
+03.06.2014 der oben genannte Eintrag im Übergabebuch durch die Werkstatt gestrichen und 
+
+mit o.B. (ohne Befund) gekennzeichnet. 
+
+Abb. 6: Übergabebuch, Erledigungsvermerk 
+
+4.2.2 
+
+Fahrzeuguntersuchung 
+
+Aufgrund  der  im  Rahmen  der  Voruntersuchung  gesammelten  Erkenntnisse  wurde  mit  dem 
+
+Fahrzeughalter  DB  Regio  AG  ein  gemeinsamer  Untersuchungs-  und  Erörterungstermin  zu 
+
+den  aufgetretenen  Unregelmäßigkeiten  und  deren  Zusammenhänge  vereinbart.  Zwischen­
+
+zeitlich sollte der betroffene FM 1 ausgebaut werden. 
+
 Dieser Termin fand am 18.06.2014 im DB Regio Werk Dortmund statt. Aus den durchgeführ­
-ten Untersuchungen ließen sich weitere Erkenntnisse, welche im Folgenden aufgeführt sind,
-sammeln.
-Zunächst wurde gemeinsam die folgende Chronologie des Ereignisses rekonstruiert:
 
-Seite 12 von 23
+ten Untersuchungen ließen sich weitere Erkenntnisse, welche im Folgenden aufgeführt sind, 
 
-Untersuchungsbericht
-Fahrzeugbrand, 04.06.2014, Kamen - Üst Nordbögge
+sammeln. 
 
-30.05.2014 - Erste dokumentierte Störungsoffenbarung
-Am 30.05.2014 meldet ein Tf Geruch von verbranntem Kabel im Führerraum 1 (EZBMeldung) sowie einen vollen Masseschluss Minus und nimmt entsprechende Einträge im
-Übergabebuch vor (Abb.6).
+Zunächst wurde gemeinsam die folgende Chronologie des Ereignisses rekonstruiert: 
+
+Seite 12 von 23 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Fahrzeugbrand, 04.06.2014, Kamen - Üst Nordbögge 
+
+30.05.2014 - Erste dokumentierte Störungsoffenbarung 
+
+Am  30.05.2014  meldet  ein  Tf  Geruch  von  verbranntem  Kabel  im  Führerraum  1  (EZB-
+
+Meldung)  sowie  einen  vollen  Masseschluss  Minus  und  nimmt  entsprechende  Einträge  im 
+
+Übergabebuch vor (Abb.6). 
+
 Die Schadensbehebung wurde zur nächsten Nachschau, die kurz nach der Meldung termi­
-niert war, geplant. Bis zu diesem Termin wurde das Fahrzeug weiter eingesetzt (wie bereits
-oben beschrieben).
-03.06.2014 - Störungssuche
-Nachschau IS 200 in Werkstatt Dortmund und zusätzliche Aufträge
-1. Auf dem Führerstand 1 riecht es zeitweise recht streng nach angebrannter
-Kabelisolierung,
-2. Lok hat vollen Masseschluss minusseitig.
-Gemäß dem Arbeitsschein wurden zur Störungsbeseitigung folgende Arbeiten durchgeführt:
-zu 1.:
 
-Das Führerpult wurde geöffnet und die Isolierungen wurden überprüft. Der Ar­
-beitsumfang wurde mit 90 Minuten angegeben und ohne Befund abgeschlossen.
+niert war, geplant. Bis zu diesem Termin wurde das Fahrzeug weiter eingesetzt (wie bereits 
 
-zu 2.:
+oben beschrieben). 
 
-Die Fehlersuche zum Masseschluss wurde nach angegebenen 30 Minuten Ar­
-beitsumfang ebenfalls ohne Befund abgeschlossen.
-Hinweis: Die Minusseite des 110V-Bordnetzes ist bei der BR 112 mit der „Lok­
-masse“ verbunden, weshalb der Tf immer einen vollen Masseschluss erkennt. Die
-Feststellung ohne Befund ist somit als korrekt zu bewerten.
+03.06.2014 - Störungssuche 
 
-04.06.2014 - Ereignistag
-Am 04.06.2014 blieb der RE 10637 gegen 23:18 Uhr zwischen Kamen und Nordbögge Üst
-aufgrund des Brandes liegen.
-Zuvor vernahm der Tf im besetzten Führerstand 1 eine Explosion mit Stichflamme sowie
-eine starke Rauchentwicklung und brachte den Zug daraufhin zum Stehen. Er verständigte
-daraufhin den Fdl, welcher die Feuerwehr alarmierte. Der relativ kleine Brandherd konnte
-durch Feuerwehr gelöscht werden. Der Zug inklusive des Tfz wurde am 05.06.2014 durch
-ein Hilfs-Tfz nach Dortmund Bbf geschleppt.
-Durch die EUB wurde am 05.06.2014 folgendes Schadbild aufgenommen (siehe auch 4.2.1
-Erstbesichtigung des Fahrzeuges).
+Nachschau IS 200 in Werkstatt Dortmund und zusätzliche Aufträge 
+
+1.  	 Auf  dem  Führerstand  1  riecht  es  zeitweise  recht  streng  nach  angebrannter 
+
+Kabelisolierung, 
+
+2. 	 Lok hat vollen Masseschluss minusseitig. 
+
+Gemäß dem Arbeitsschein wurden zur Störungsbeseitigung folgende Arbeiten durchgeführt: 
+
+zu 1.:  	
+
+Das  Führerpult  wurde  geöffnet  und  die  Isolierungen  wurden  überprüft.  Der  Ar­
+
+beitsumfang wurde mit 90 Minuten angegeben und ohne Befund abgeschlossen. 
+
+zu 2.:  	
+
+Die  Fehlersuche  zum  Masseschluss  wurde  nach  angegebenen  30  Minuten  Ar­
+
+beitsumfang ebenfalls ohne Befund abgeschlossen. 
+
+Hinweis:  Die  Minusseite  des  110V-Bordnetzes  ist  bei  der  BR  112  mit  der  „Lok­
+
+masse“ verbunden, weshalb der Tf immer einen vollen Masseschluss erkennt. Die 
+
+Feststellung ohne Befund ist somit als korrekt zu bewerten. 
+
+04.06.2014 - Ereignistag 
+
+Am 04.06.2014 blieb der RE 10637 gegen 23:18 Uhr zwischen Kamen und Nordbögge Üst 
+
+aufgrund des Brandes liegen. 
+
+Zuvor  vernahm  der  Tf  im  besetzten  Führerstand  1  eine  Explosion  mit  Stichflamme  sowie 
+
+eine starke Rauchentwicklung und brachte den Zug daraufhin zum Stehen. Er verständigte 
+
+daraufhin  den  Fdl,  welcher  die  Feuerwehr  alarmierte.  Der  relativ  kleine  Brandherd  konnte 
+
+durch  Feuerwehr  gelöscht  werden.  Der  Zug  inklusive  des  Tfz  wurde  am  05.06.2014  durch 
+
+ein Hilfs-Tfz nach Dortmund Bbf geschleppt. 
+
+Durch die EUB wurde am 05.06.2014 folgendes Schadbild aufgenommen (siehe auch 4.2.1 
+
+Erstbesichtigung des Fahrzeuges). 
+
 Am Anschluss „D1“ des FM 1 waren alle vier Kabel abgebrannt (Abb.3 und Abb. 4). Am An-
 
-Seite 13 von 23
+Seite 13 von 23 
 
-Untersuchungsbericht
-Fahrzeugbrand, 04.06.2014, Kamen - Üst Nordbögge
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Fahrzeugbrand, 04.06.2014, Kamen - Üst Nordbögge 
 
 schluss „A1“ sind Spuren eines oder mehrerer Überschläge zu verzeichnen. An den Kontak­
+
 ten der Wenderelemente des Fahrbremswenders sowie des Richtungswenders sind Brand­
-stellen vorhanden (Abb. 5). Die Werkstatt erhielt die Zustimmung zum Fahrmotortausch.
-18.06.2014 - Fahrzeuguntersuchungstermin
-Die Situation in der Werkstatt am 18.06.2014 gestaltete sich wie folgt. Der neu verbaute
-FM 1 (485 0475) war bereits eingesenkt, jedoch noch nicht angeklemmt.
-Am schadhaften FM (485 0429) fehlten an allen vier Leitungen „D1“ die Kabelschuhe. Die
-Kabelschuhe „A1“ wurden durch die Werkstattpersonale abgesägt, da Muttern festgebrannt
-waren (Abb. 8).
-An den Aluminiumstromschienen „D1“ (EW 10) waren die Kabelschuhe tief eingedrückt und
+
+stellen vorhanden (Abb. 5). Die Werkstatt erhielt die Zustimmung zum Fahrmotortausch. 
+
+18.06.2014 - Fahrzeuguntersuchungstermin 
+
+Die  Situation  in  der  Werkstatt  am  18.06.2014  gestaltete  sich  wie  folgt.  Der  neu  verbaute 
+
+FM 1 (485 0475) war bereits eingesenkt, jedoch noch nicht angeklemmt. 
+
+Am  schadhaften  FM  (485  0429)  fehlten  an  allen  vier  Leitungen  „D1“  die  Kabelschuhe.  Die 
+
+Kabelschuhe „A1“ wurden durch die Werkstattpersonale abgesägt, da Muttern festgebrannt 
+
+waren (Abb. 8). 
+
+An den Aluminiumstromschienen „D1“ (EW 10) waren die Kabelschuhe tief eingedrückt und 
+
 Brandlöcher zu erkennen (Abb. 9). An den anderen Stromschienen waren leichte Korrosions­
-löcher (z.B. HW 10) und Spuren von Stromüberschlägen zu verzeichnen. Der Zustand der
-Stromschienen erfordert vor Wiederverwendung Bearbeitung. Beispielsweise muss D1 (EW)
-aufgrund der Art und Umfang der Beschädigungen getauscht werden.
 
-Abb. 7: Anschlussleitungen am ausgebauten FM
+löcher  (z.B.  HW  10)  und  Spuren  von  Stromüberschlägen  zu  verzeichnen.  Der  Zustand  der 
 
-Seite 14 von 23
+Stromschienen erfordert vor Wiederverwendung Bearbeitung. Beispielsweise muss D1 (EW) 
 
-Untersuchungsbericht
-Fahrzeugbrand, 04.06.2014, Kamen - Üst Nordbögge
+aufgrund der Art und Umfang der Beschädigungen getauscht werden. 
 
-Abb. 8: Eindruckstellen Aluminiumstromschiene
+Abb. 7: Anschlussleitungen am ausgebauten FM 
 
-Weiter wurden folgende Feststellungen allgemeiner Art dokumentiert.
-Die Historie des FM:
-Der schadhaften FM 1 hatte die Ordnungs-Nr. 485 0429 und war am 13.01.2009 in Dessau
-zur Hauptuntersuchung (H8.1 HU). Am 14.01.2009 wurde dieser dann in die Lok 112 134-2
-verbaut. In Dessau bekam das Fahrzeug am 30.01.2009 eine IS 630. Der FM wurde in
-Rostock wegen eines Radsatztausches Triebradsatz (TR) 1 (274 0229) am 19.03.2014 ausund wieder eingebaut. Weitere Besonderheiten wurden der EUB über den FM nicht bekannt.
-Der Maschinenraum des Tfz war sehr stark verschmutzt. Es befand sich viel Bremsstaub auf
-den Bauteilen und Gestellen.
-Unstimmigkeiten wurden am FM 4 deutlich. Dieser FM (485 0049) wurde am 17.07.2013 in
+Seite 14 von 23 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Fahrzeugbrand, 04.06.2014, Kamen - Üst Nordbögge 
+
+   Abb. 8: Eindruckstellen Aluminiumstromschiene 
+
+Weiter wurden folgende Feststellungen allgemeiner Art dokumentiert. 
+
+Die Historie des FM: 
+
+Der schadhaften FM 1 hatte die Ordnungs-Nr. 485 0429 und war am 13.01.2009 in Dessau 
+
+zur Hauptuntersuchung (H8.1 HU). Am 14.01.2009 wurde dieser dann in die Lok 112 134-2 
+
+verbaut.  In  Dessau  bekam  das  Fahrzeug  am  30.01.2009  eine  IS  630.  Der  FM  wurde  in 
+
+Rostock wegen eines Radsatztausches Triebradsatz (TR) 1 (274 0229) am 19.03.2014 aus- 
+
+und wieder eingebaut. Weitere Besonderheiten wurden der EUB über den FM nicht bekannt. 
+
+Der Maschinenraum des Tfz war sehr stark verschmutzt. Es befand sich viel Bremsstaub auf 
+
+den Bauteilen und Gestellen. 
+
+Unstimmigkeiten wurden am FM 4 deutlich. Dieser FM (485 0049) wurde am 17.07.2013 in 
+
 Rostock eingebaut. Das Klemmholz für die Fahrmotoranschlussleitungen war noch aus un­
-zulässigem Material (Holz). Außerdem waren die Klemmlöcher zu groß bemessen. Schmutz
+
+zulässigem Material (Holz). Außerdem waren die Klemmlöcher zu groß bemessen. Schmutz 
+
 hatte sich bereits zwischen die Klemmstellen und den Leitungen angesammelt. Des Weite­
-ren war ein Druckstück lose und die zugehörige Mutter fehlte. Aufgrund der oben genannten
-Feststellungen vermittelte das Tfz einen wartungsbedürftigen Zustand.
-Zur Durchführung der Fahrzeuguntersuchung wurden einige mit der Wartung und Betreuung
-der Baureihe 112 betraute Handwerker durch das DB Regio Werk Dortmund bereitgestellt.
-Durch die notwendigen Gespräche und Fragestellungen an die Mitarbeiter ergaben sich sehr
-bemerkenswerte Feststellungen. Den Mitarbeitern waren einige entscheidende und zur In-
 
-Seite 15 von 23
+ren war ein Druckstück lose und die zugehörige Mutter fehlte. Aufgrund der oben genannten 
 
-Untersuchungsbericht
-Fahrzeugbrand, 04.06.2014, Kamen - Üst Nordbögge
+Feststellungen vermittelte das Tfz einen wartungsbedürftigen Zustand. 
 
-standhaltung sowie zur Vermeidung von Störungen notwendige Weisungen nicht bekannt.
-Dies offenbarte sich beispielsweise durch folgende Tatsachen:
-Mit der Weisung IW-P (T) 146/2012 „Fahrmotor, erweiterte Sichtprüfung“ an die mit der In­
-standhaltung dieser Baureihe betrauten Werke vom 27.06.2012 wurde im Instandhaltungs­
+Zur Durchführung der Fahrzeuguntersuchung wurden einige mit der Wartung und Betreuung 
+
+der  Baureihe  112  betraute  Handwerker  durch  das  DB  Regio  Werk  Dortmund  bereitgestellt. 
+
+Durch die notwendigen Gespräche und Fragestellungen an die Mitarbeiter ergaben sich sehr 
+
+bemerkenswerte  Feststellungen.  Den  Mitarbeitern  waren  einige  entscheidende  und  zur  In-
+
+Seite 15 von 23 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Fahrzeugbrand, 04.06.2014, Kamen - Üst Nordbögge 
+
+standhaltung  sowie  zur  Vermeidung  von  Störungen  notwendige  Weisungen  nicht  bekannt.  
+
+
+Dies offenbarte sich beispielsweise durch folgende Tatsachen: 
+
+
+Mit  der  Weisung  IW-P  (T)  146/2012  „Fahrmotor,  erweiterte  Sichtprüfung“ an die mit der In­
+
+standhaltung  dieser  Baureihe  betrauten  Werke  vom  27.06.2012  wurde  im  Instandhaltungs­
+
 handbuch (IHB) 901 10, Arbeitsanweisung (AA) 0000.0092 der Arbeitsschritt 7.10 beispiels­
-weise neu eingefügt:
-„Alle Leitungsklemmhölzer und Kabelschuhe der Fahrmotorklemmstellen im Führerstand und
-Maschinenraum: Sichtprüfung durchführen“.
-Die Mitarbeiter der Werkstatt führten aus, dass Ihnen diese nicht bekannt sei.
-Im vorgefundenen Zustand war das Anklemmen des neu verbauten FM 1 nicht zulässig.
-Mit IW-P (T) 309/2013 „Ausführung und Behandlung der Stromschienenanschlüsse und
-Wender“ wurden ebenfalls Hinweise zum Anklemmen der FM gegeben, die unbedingt zur
-Vermeidung von Bränden zu beachten sind.
-Unter anderem müssen vor dem Anklemmen der Motoren die Stromschienen mit Farbein­
+
+weise neu eingefügt: 
+
+
+„Alle Leitungsklemmhölzer und Kabelschuhe der Fahrmotorklemmstellen im Führerstand und 
+
+Maschinenraum: Sichtprüfung durchführen“. 
+
+Die Mitarbeiter der Werkstatt führten aus, dass Ihnen diese nicht bekannt sei. 
+
+
+Im vorgefundenen Zustand war das Anklemmen des neu verbauten FM 1 nicht zulässig. 
+
+
+Mit  IW-P  (T)  309/2013  „Ausführung  und  Behandlung  der  Stromschienenanschlüsse  und  
+
+
+Wender“  wurden  ebenfalls  Hinweise  zum  Anklemmen  der  FM  gegeben,  die  unbedingt  zur  
+
+
+Vermeidung von Bränden zu beachten sind. 
+
+
+Unter  anderem  müssen  vor  dem  Anklemmen  der  Motoren  die  Stromschienen  mit  Farbein­
+
 dringverfahren geprüft werden (siehe auch 907.0635V19). Die Mitarbeiter der Werkstatt führ­
-ten hierzu ebenfalls aus, dass dies nicht bekannt sei.
-Ein weiterer Punkt ist die Dokumentation der durchgeführten Tätigkeiten. In den im Werk
-Dortmund geführten Checklisten zur Nachschau wurden nur Hauptarbeitsschritte bestätigt
-und dokumentiert. Somit werden die einzelnen Arbeits- und Prüfschritte aus der AA nicht
-erfasst. Es entsteht lediglich eine grobe Dokumentation aus welchen der Mitarbeiter nicht
+
+ten hierzu ebenfalls aus, dass dies nicht bekannt sei. 
+
+
+Ein  weiterer  Punkt  ist  die  Dokumentation  der  durchgeführten  Tätigkeiten.  In  den  im  Werk  
+
+
+Dortmund  geführten  Checklisten  zur  Nachschau  wurden  nur  Hauptarbeitsschritte  bestätigt  
+
+
+und  dokumentiert.  Somit  werden  die  einzelnen  Arbeits-  und  Prüfschritte  aus  der  AA  nicht  
+
+
+erfasst.  Es  entsteht  lediglich  eine  grobe  Dokumentation  aus  welchen  der  Mitarbeiter  nicht  
+
+
 unmittelbar ersehen kann, welche einzelnen Unterpunkte er bei der Verrichtung des Haupt­
-schrittes durchzuführen hat.
 
-4.3
+schrittes durchzuführen hat. 
 
-Interpretation der Unfallspuren / Schadensentwicklung
 
-Der Schaden entwickelt sich langsam. Die Stromverteilung auf die je vier Einzelleitungen ist
-durch gegenseitige Beeinflussung unterschiedlich, je nach Stromrichtung (Fahrtrichtung).
-Erhöht sich innerhalb der Betriebszeit der Übergangswiderstand der Einzelleitungen, ver­
-schiebt sich die Strombelastung innerhalb der vier Leitungen weiter. Es kommt zu Erwär­
-mungsanzeichen an Einzelleitungen. Wird dies nicht rechtzeitig erkannt, kommt es zu Lei­
-tungsunterbrechungen. Der weiter fließende Strom überlastet die restlichen Leitungen bis
-letztendlich alle Leitungen unterbrochen sind. Da der Strom die normale Betriebsgröße nicht
+4.3 
+
+Interpretation der Unfallspuren / Schadensentwicklung 
+
+Der Schaden entwickelt sich langsam. Die Stromverteilung auf die je vier Einzelleitungen ist 
+
+durch  gegenseitige  Beeinflussung  unterschiedlich,  je  nach  Stromrichtung  (Fahrtrichtung). 
+
+Erhöht  sich  innerhalb  der  Betriebszeit  der  Übergangswiderstand  der  Einzelleitungen,  ver­
+
+schiebt  sich  die  Strombelastung  innerhalb  der  vier  Leitungen  weiter.  Es  kommt  zu  Erwär­
+
+mungsanzeichen  an  Einzelleitungen.  Wird  dies  nicht  rechtzeitig  erkannt,  kommt  es  zu  Lei­
+
+tungsunterbrechungen.  Der  weiter  fließende  Strom  überlastet  die  restlichen  Leitungen  bis 
+
+letztendlich alle Leitungen unterbrochen sind. Da der Strom die normale Betriebsgröße nicht 
+
 übersteigt, kommt es zu keiner Auslösung einer Sicherheitseinrichtung. Durch die schlagarti­
-ge Unterbrechung erzeugt die große Induktivität des FM eine hohe Spannungsspitze, die
-dann zum Überschlag (hier A1 (AW10) und D2 (FW10)) zwischen den Stromschienen und
-erfahrungsgemäß auch bei anderen Bauteilen im Stromkreis, wie den Wendern, führt.
 
-Seite 16 von 23
+ge  Unterbrechung  erzeugt  die  große  Induktivität  des  FM  eine  hohe  Spannungsspitze,  die 
 
-Untersuchungsbericht
-Fahrzeugbrand, 04.06.2014, Kamen - Üst Nordbögge
+dann  zum  Überschlag  (hier  A1  (AW10)  und  D2  (FW10))  zwischen  den  Stromschienen  und 
 
-4.4
+erfahrungsgemäß auch bei anderen Bauteilen im Stromkreis, wie den Wendern, führt. 
 
-Vergleichbare Ereignisse - bisher getroffene Maßnahmen
+Seite 16 von 23 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Untersuchungsbericht 
+
+Fahrzeugbrand, 04.06.2014, Kamen - Üst Nordbögge 
+
+4.4 
+
+Vergleichbare Ereignisse - bisher getroffene Maßnahmen 
 
 Aufgrund vergleichbarer Ereignisse in der Vergangenheit ist die Brandursache bekannt. Be­
-reits im Jahre 2008 (Dortmund) sowie im Jahre 2011 (Berlin Ostbahnhof) kam es zu Fahr­
-zeugbränden an den Baureihen 112 / 114.
+
+reits  im  Jahre  2008  (Dortmund)  sowie  im  Jahre  2011  (Berlin  Ostbahnhof)  kam  es  zu  Fahr­
+
+zeugbränden an den Baureihen 112 / 114. 
+
 Zum Fahrzeugbrand am 26.07.2011 in Berlin Ostbahnhof wurde durch die EUB ein Untersu­
-chungsbericht mit dem Aktenzeichen: 60uu2011-07/178 veröffentlicht. Der Tenor des Be­
-richts zur Störungsentwicklung damals deckt sich mit der bereits oben beschriebenen des
-aktuellen Falls. Weiter werden folgende Einflussfaktoren aufgezeigt:
-„Einflussfaktoren für die Erhöhung des Übergangswiderstandes an den jeweiligen Verbin­
-dungen und der daraus resultierenden unterschiedlichen Stromaufteilungen in den Alumini­
-umstromschienen sind folgende Punkte:
-•
 
-Oxidation der Alustromschiene durch elektrochemische Reaktion mit den Kupferka­
-belschuhen, den flexiblen Kupferverbindungselementen der Stromschienen im Ma­
-schinenraum, bzw. den Kupferpartikeln in der Kupferleitpaste,
+chungsbericht  mit  dem  Aktenzeichen:  60uu2011-07/178  veröffentlicht.  Der  Tenor  des  Be­
 
-•
+richts  zur  Störungsentwicklung  damals  deckt  sich  mit  der  bereits  oben  beschriebenen  des 
 
-Unterschiedliche Anzugsmomente (Klemmstellen und Stromschienenverbindungen),
+aktuellen Falls. Weiter werden folgende Einflussfaktoren aufgezeigt: 
 
-•
+„Einflussfaktoren  für  die  Erhöhung  des  Übergangswiderstandes  an  den  jeweiligen  Verbin­
 
-Kein vollflächiger Kontakt zwischen Kabelschuh und Stromschiene (nicht plane Ober­
-fläche der Stromschiene z.B. in Form von Einpressspuren oder falsche Behandlung
-der Stromschienen (konisches Abschleifen um die Bohrung),
+dungen  und  der  daraus  resultierenden  unterschiedlichen Stromaufteilungen in den Alumini­
 
-•
+umstromschienen sind folgende Punkte: 
 
-Zu geringer Querschnitt des Anschlusszapfens der vorderen/ unteren Schienenan­
-schlüsse,
+• 	 Oxidation  der  Alustromschiene  durch  elektrochemische  Reaktion  mit  den  Kupferka­
 
-•
+belschuhen,  den  flexiblen  Kupferverbindungselementen  der  Stromschienen  im  Ma­
 
-Haarrisse in der Schweißverbindung des Anschlusszapfens der vorderen/ unteren
-Schienenanschlüsse,
+schinenraum, bzw. den Kupferpartikeln in der Kupferleitpaste, 
 
-•
+• 	 Unterschiedliche Anzugsmomente (Klemmstellen und Stromschienenverbindungen), 
 
-Verschmutzung der Klemmstelle durch z.B. Bremsstaub (mit Eisenoxidanteilen),
+• 	 Kein vollflächiger Kontakt zwischen Kabelschuh und Stromschiene (nicht plane Ober­
 
-•
+fläche  der  Stromschiene  z.B.  in  Form  von  Einpressspuren  oder  falsche  Behandlung 
 
-Beschädigungen an bzw. nicht vorhandene/ nicht ordnungsgemäß montierte
-Schrumpfschläuche am Übergang Kabelschuh/ Kabel und Eindringen von Feuchtig­
-keit/ Bremsstaub,
+der Stromschienen (konisches Abschleifen um die Bohrung), 
 
-•
+• 	 Zu  geringer  Querschnitt  des  Anschlusszapfens  der  vorderen/  unteren  Schienenan­
 
-Differenzen der Kabelschuhpressungen,
+schlüsse, 
 
-•
+• 	 Haarrisse  in  der  Schweißverbindung  des  Anschlusszapfens  der  vorderen/  unteren 
 
-Fehlerhafte Quetschung durch Verwendung von Kabelschuhen anderer Hersteller,
+Schienenanschlüsse, 
 
-•
+• 	 Verschmutzung der Klemmstelle durch z.B. Bremsstaub (mit Eisenoxidanteilen),  
 
-Materialversagen durch Fertigungsfehler/ Materialfehler der Kabelschuhe.
+• 	 Beschädigungen  an  bzw.  nicht  vorhandene/  nicht  ordnungsgemäß  montierte 
+
+Schrumpfschläuche  am  Übergang  Kabelschuh/  Kabel  und  Eindringen  von  Feuchtig­
+
+keit/ Bremsstaub, 
+
+• 	 Differenzen der Kabelschuhpressungen, 
+
+• 	 Fehlerhafte Quetschung durch Verwendung von Kabelschuhen anderer Hersteller, 
+
+• 	 Materialversagen durch Fertigungsfehler/ Materialfehler der Kabelschuhe. 
 
 Die Entstehung des Brandes in der Lok ist auf mehrere der oben aufgeführten Einflussfakto­
-ren zurückzuführen.“
 
-Seite 17 von 23
+ren zurückzuführen.“ 
 
-Untersuchungsbericht
-Fahrzeugbrand, 04.06.2014, Kamen - Üst Nordbögge
+Seite 17 von 23 
 
-DB Regio als Fahrzeughalter hat basierend auf der Untersuchung des Fahrzeugbrandes
-vom 26.07.2011 in Berlin Ostbahnhof reagiert und folgende Maßnahmen, u.a. basierend auf
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Fahrzeugbrand, 04.06.2014, Kamen - Üst Nordbögge 
+
+DB  Regio  als  Fahrzeughalter  hat  basierend  auf  der  Untersuchung  des  Fahrzeugbrandes 
+
+vom 26.07.2011 in Berlin Ostbahnhof reagiert und folgende Maßnahmen, u.a. basierend auf 
+
 aus Empfehlungen aus Gutachten, dem Bericht der EUB und weitergehenden Untersuchun­
-gen, entwickelt.
-lfd.
+
+gen, entwickelt. 
+
+lfd. 
 
 Empfehlung zur Fahrmotorkabelein­
 
-Nr.
+Nr. 
 
-führung
+1.1 
 
-Umsetzung
+1.2 
 
-Datum
+1.3 
 
-1.1
+1.4 
 
-Änderung der Zeichnung
-3Fle143.0.76.081.017; DistanzstückKabelbaum zu den Fahrmotoren: Än­
-derung der Bohrung Ø=26 mm auf
-Ø=28 mm.
+führung 
 
-Zeichnung
-3Fle143.0.76.081.017 wurde
-mit Ausgabe 02 geändert und
+Umsetzung 
+
+Datum 
+
+03.02.14 
+
+03.02.14 
+
+03.02.14 
+
+Änderung der Zeichnung 
+3Fle143.0.76.081.017; Distanzstück-
+Kabelbaum zu den Fahrmotoren: Än­
+derung der Bohrung Ø=26 mm auf 
+Ø=28 mm. 
+
+Zeichnung 
+3Fle143.0.76.081.017 wurde 
+mit Ausgabe 02 geändert und 
 mit IW-P (T) 050/2014 ange­
-wiesen.
+wiesen. 
 
-03.02.14
+Änderung der Zeichnung 
+3Fle143.0.76.081.020 Klemmstück-
+Starkstrom Lok vorn, hinten und Mitte: 
+Änderung der Bohrung Ø=26 mm auf 
+Ø=28 mm. 
 
-1.2
-
-Änderung der Zeichnung
-3Fle143.0.76.081.020 KlemmstückStarkstrom Lok vorn, hinten und Mitte:
-Änderung der Bohrung Ø=26 mm auf
-Ø=28 mm.
-
-Zeichnung
-3Fle143.0.76.081.020 wurde
-mit Ausgabe 02 geändert und
+Zeichnung 
+3Fle143.0.76.081.020 wurde 
+mit Ausgabe 02 geändert und 
 mit IW-P (T) 050/2014 ange­
-wiesen.
+wiesen. 
 
-03.02.14
-
-1.3
-
-Den Schrumpfschlauch weiterhin auf
-einer gesamten Länge von 200 mm
-auf die Kabel aufziehen.
-
-Der Schrumpfschlauch wird
-weiterhin auf einer gesamten
+Der Schrumpfschlauch wird 
+weiterhin auf einer gesamten 
 Länge von 200 mm auf die Ka­
-bel aufgezogen (unverändert),
+bel aufgezogen (unverändert), 
 mit IW-P (T) 050/2014 ange­
-wiesen.
+wiesen. 
 
-03.02.14
+weiterhin Verwendung von Acryl 
 
-1.4
+Den Schrumpfschlauch weiterhin auf 
+einer gesamten Länge von 200 mm 
+auf die Kabel aufziehen. 
 
-Die Ausfüllung mit Acryl sollte nicht
-nach der Montage der Fahrmotorkabel
+Die Ausfüllung mit Acryl sollte nicht 
+nach der Montage der Fahrmotorkabel 
 und der Klemmstücke erfolgen, son­
-dern das Acryl sollte vor der Montage
+dern das Acryl sollte vor der Montage 
 auf die Klemmstückeinzelteile aufge­
-bracht werden, so dass es durch das
-Verspannen der Klemmstücke zum
-Verteilen des Acryls kommen kann.
-Überprüfung Alternative Einsatz von
-Moosgummi 3 mm.
+bracht werden, so dass es durch das 
+Verspannen der Klemmstücke zum 
+Verteilen des Acryls kommen kann. 
+Überprüfung Alternative Einsatz von 
+Moosgummi 3 mm. 
 
-weiterhin Verwendung von Acryl
+Seite 18 von 23 
 
-Seite 18 von 23
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Untersuchungsbericht
-Fahrzeugbrand, 04.06.2014, Kamen - Üst Nordbögge
-
-Nr.
+Fahrzeugbrand, 04.06.2014, Kamen - Üst Nordbögge 
 
 Empfehlung zur Fahrmotorklemm­
 stelle zur Minderung der elektro­
 chemischen Einflüsse bzgl. der Zu­
 sammenstellung der Fahrmotor­
-klemmstelle
+klemmstelle 
 
-Umsetzung
+lfd. 
 
-2.1
+Nr. 
 
-Bei der nächsten Frist am Tfz sind alle
+Umsetzung 
 
-Keine generelle Realisierung,
+Datum 
 
-elektrischen Verbindungen an den
+2.1 
+
+Bei der nächsten Frist am Tfz sind alle 
+
+Keine generelle Realisierung, 
+
+elektrischen Verbindungen an den 
 
 nur bei Befund bzw. bei Not­
 
-Fahrmotorklemmstellen zu öffnen.
+Fahrmotorklemmstellen zu öffnen. 
 
 wendigkeit aus anderen Grün­
 
-lfd.
-
-Datum
-
 den (Fahrmotor- oder Radsatz­
-tausch).
-2.2
 
-Zwischen den Kabelschuh und der
+tausch). 
+
+2.2 
+
+Zwischen den Kabelschuh und der 
 
 Keine Realisierung entspre­
 
@@ -840,359 +1364,509 @@ Stromschiene ist eine Al / Cu-
 
 chend TÜV-Bericht Ermittlung ­
 
-Unterlegscheibe (für Bohrung M16;
+Unterlegscheibe (für Bohrung M16; 
 
-Brandursache BR-Familie 112 /
+Brandursache BR-Familie 112 / 
 
-Weitkowitz) zu platzieren.
+Weitkowitz) zu platzieren. 
 
-143. Siehe auch weitergehende
+143. Siehe auch weitergehende 
+
 Untersuchungen Fahrmotor­
-klemmstellen DB Systemtechnik
-Bericht 13-16567-ITVI 33(2)
-vom 13.03.2014.
 
-2.3
+klemmstellen DB Systemtechnik 
 
-21.10.13
+Bericht 13-16567-ITVI 33(2) 
+
+vom 13.03.2014. 
+
+2.3 
 
 Vor Wiederinbetriebnahme der Fahr­
 
-In Zeichnung
+In Zeichnung 
+
+21.10.13 
 
 motorklemmstelle ist die entsprechen­
 
-0Fle143.0.76.000.007, Ausgabe
+0Fle143.0.76.000.007, Ausgabe 
 
-de Stromschiene zu reinigen und mit
+de Stromschiene zu reinigen und mit 
 
-02 eingearbeitet.
+02 eingearbeitet. 
 
 einer „hauchdünnen“ Schicht Kontakt­
 
-Mit IW-P 309/2013 angewiesen.
+Mit IW-P 309/2013 angewiesen. 
 
-fett zu versehen (keine Kupferpaste
-verwenden).
-2.4
+fett zu versehen (keine Kupferpaste 
 
-Das Umfeld der Fahrmotorklemmstelle
+verwenden). 
 
-Reinigung der Klemmstellen ist
+2.4 
 
-ist mittels Industriestaubsauger und
+Das Umfeld der Fahrmotorklemmstelle 
 
-im IHB 901 10, AA 4410.0100
+Reinigung der Klemmstellen ist 
 
-ggf. Pinsel zu reinigen.
+27.06.12 
 
-vorgegeben und wurde von 360
+ist mittels Industriestaubsauger und 
 
-27.06.12
+im IHB 901 10, AA 4410.0100 
 
-Tkm auf 120 Tkm als Planarbeit
-vorgezogen.
+ggf. Pinsel zu reinigen. 
+
+vorgegeben und wurde von 360 
+
+Tkm auf 120 Tkm als Planarbeit 
+
+vorgezogen. 
+
 Mit IW-P (T) 146/2012 ange­
-wiesen.
 
-Seite 19 von 23
+wiesen. 
 
-Untersuchungsbericht
-Fahrzeugbrand, 04.06.2014, Kamen - Üst Nordbögge
+Seite 19 von 23 
 
-lfd.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Umsetzung
+Fahrzeugbrand, 04.06.2014, Kamen - Üst Nordbögge 
 
-Datum
+lfd. 
 
-Nr.
+Nr. 
 
 weitere Empfehlung des Brand­
-schadensgutachtens TÜV-Nord
-(0091436BS36710, 08.08.2012)
+schadensgutachtens TÜV-Nord 
+(0091436BS36710, 08.08.2012) 
 
-3.1
+Umsetzung 
 
-Die Anschlusszapfen (angeschweißte
+Datum 
+
+3.1 
+
+Die Anschlusszapfen (angeschweißte 
 
 Mit 907.0635V19 Farbeindring­
 
-21.10.13
+21.10.13 
 
-Endstücke) der vorderen / unteren
+Endstücke) der vorderen / unteren 
 
 prüfung an den Fahrmotor­
 
-Stromschienenanschlüsse in den
+Stromschienenanschlüsse in den 
 
-klemmstellen 1 und 4 der BR
+klemmstellen 1 und 4 der BR 
 
-Fahrmotorklemmstellen 1 und 4 sind
+Fahrmotorklemmstellen 1 und 4 sind 
 
 112, 114 und 143 wird die Riss­
 
-vor Wiedermontage auf Haarrisse in
+vor Wiedermontage auf Haarrisse in 
 
-prüfung vorgegeben und mit
+prüfung vorgegeben und mit 
 
 der Schweißverbindung zu untersu­
 
-IW-P (T) 309/2014 angewiesen.
+IW-P (T) 309/2014 angewiesen. 
 
-chen. Bei festgestellten Haarrissen ist
+chen. Bei festgestellten Haarrissen ist 
+
 der Stromschienenabschnitt zu erneu­
-ern.
-3.2
+
+ern. 
+
+3.2 
 
 Sensibilisierung des Werkstattperso­
 
 Mit IW-P (T) 309/2013 wird wie­
 
-nals auf Einhaltung der erforderlichen
+21.10.13 
 
-derholt auf die Notwendigkeit
+nals auf Einhaltung der erforderlichen 
+
+derholt auf die Notwendigkeit 
 
 Anzugsmomente für die Schraubver­
 
 hingewiesen, die Zeichnungs­
 
-bindungen der Stromschienen- und
+bindungen der Stromschienen- und 
 
 vorgaben, so auch das Dreh­
 
-Kabelschuhanschlüsse.
+Kabelschuhanschlüsse. 
 
 moment, genauestens einzuhal­
 
-21.10.13
+ten. 
 
-ten.
-3.3
+3.3 
 
 Ausschließliche Verwendung der fest­
 
-In IW-P (T) 050/2014 werden
+In IW-P (T) 050/2014 werden 
 
-gelegten Originalkabelschuhe und der
+03.02.14 
+
+gelegten Originalkabelschuhe und der 
 
 die Kabelschuhe in einer Mate­
 
-dafür vorgesehenen Presswerkzeuge.
+dafür vorgesehenen Presswerkzeuge. 
 
-rialliste eindeutig ausgegeben.
+rialliste eindeutig ausgegeben. 
 
-03.02.14
+Die Fertigung wurde in der 
 
-Die Fertigung wurde in der
-Werkstatt Dessau wiederholt
-überprüft (u.a. Verwendung des
-richtigen Presswerkzeuges).
-3.4
+Werkstatt Dessau wiederholt 
+
+überprüft (u.a. Verwendung des 
+
+richtigen Presswerkzeuges). 
+
+3.4 
 
 Durchführung von Laboruntersuchun­
-gen zur:
--
 
-Strombelastbarkeit des „neuen“
-Klemmstellenaufbaus (schmale
-Kabelschuhe)
+gen zur: 
 
--
+- Strombelastbarkeit des „neuen“ 
 
-Strombelastbarkeit des „neuen“
-Klemmstellenaufbaus (breite
+Klemmstellenaufbaus (schmale 
+
+Kabelschuhe) 
+
+- Strombelastbarkeit des „neuen“ 
+
+Klemmstellenaufbaus (breite 
 
 Es erfolgten weitere Untersu­
+
 chungen der Klemmstellenver-
 
-Seite 20 von 23
+Seite 20 von 23 
 
-Untersuchungsbericht
-Fahrzeugbrand, 04.06.2014, Kamen - Üst Nordbögge
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Kabelschuhe)
--
+Fahrzeugbrand, 04.06.2014, Kamen - Üst Nordbögge 
 
-Ermittlung des erforderlichen
-Anzugsdrehmoments
+Kabelschuhe) 
 
 bindungen sowohl in den Prüf­
-feldern des Werkes Dessau, in
+
+- Ermittlung des erforderlichen 
+
+Anzugsdrehmoments 
+
+feldern des Werkes Dessau, in 
+
 München-Freiman, in Kirchmö­
+
 ser und im Betrieb der Fahr­
 
-Untersuchen der Temperaturen /
+Untersuchen der Temperaturen / 
 
-zeuge.
+Ströme in den Fahrmotorklemmstellen 
 
-Ströme in den Fahrmotorklemmstellen
-16.12.13
--
+zeuge. 
 
-Untersuchen der Eigenschaften
-der Kabelschuhe
+- Untersuchen der Eigenschaften 
 
--
+der Kabelschuhe 
 
-auftreten können
+- Untersuchen, welche Tempera­
 
--
+turen an den Kontaktflächen 
 
-14.03.14
+Es wurden drei Messberichte 
 
-erstellt.
+14.03.14 
 
-17.03.14
+erstellt. 
 
-Untersuchen, welche Tempera­
-turen an den Kontaktflächen
+17.03.14 
 
--
+(12-16567-I.TVI53-BE285 
 
-Es wurden drei Messberichte
+auftreten können 
 
-Untersuchen, ob die Strom­
+Teil 1, 
 
-(12-16567-I.TVI53-BE285
-Teil 1,
-13-16567-I.TVI 33 (2),
+16.12.13 
 
-schienenenden ausreichend
+- Untersuchen, ob die Strom­
 
-12-15676-ITVI53-UB-285 Teil 2
+13-16567-I.TVI 33 (2), 
 
-dimensioniert sind
+schienenenden ausreichend 
 
-V02)
+12-15676-ITVI53-UB-285 Teil 2 
 
-Untersuchen, welchen Einfluss
+dimensioniert sind 
+
+V02) 
+
+- Untersuchen, welchen Einfluss 
 
 Deren Kernaussage ist im An­
 
 die Veränderung des Anzugs­
 
-schluss beschrieben.
+schluss beschrieben. 
 
-moment hat
--
+moment hat 
 
-Untersuchen, wie sich das
+- Untersuchen, wie sich das 
+
 Kontaktfett bei den festgestell­
-ten Temperaturen verhält.
 
-Die Kernaussage der Berichte zu den Untersuchungen der Klemmstellen wurde durch
-DB Regio wie folgt zusammengefasst:
-
+ten Temperaturen verhält. 
 
-Die Verbindung mit breiten Kabelschuhen und Vaseline hat den kleinsten Über­
-gangswiderstand.
+Die  Kernaussage  der  Berichte  zu  den  Untersuchungen  der  Klemmstellen  wurde  durch 
 
-
+DB Regio wie folgt zusammengefasst: 
 
-Vaseline ist besser geeignet als Kupferpaste.
-o
+	  Die  Verbindung  mit  breiten  Kabelschuhen  und  Vaseline  hat  den  kleinsten  Über­
 
-Grundsätzlich ist davon auszugehen, dass Vaseline aus brandschutztechni­
-scher Sicht besser zur Vorbehandlung der Fahrmotorklemmstellen geeignet
-ist als Kupferpaste. Es bleibt jedoch anzumerken, dass an den Klemmstellen
-im Fahrzeug die brandfördernde Wirkung von Kupferpaste und der Vaseline
-als Brandlast selbst nicht zu berücksichtigen ist, da diese üblicherweise nur
-mit minimalen Schichtdicken aufgetragen werden. Eine Selbstentzündung
+gangswiderstand. 
 
-Seite 21 von 23
+	  Vaseline ist besser geeignet als Kupferpaste. 
 
-Untersuchungsbericht
-Fahrzeugbrand, 04.06.2014, Kamen - Üst Nordbögge
+o	  Grundsätzlich  ist  davon  auszugehen,  dass  Vaseline  aus  brandschutztechni­
 
-beider Werkstoffe erfolgt erst bei Temperaturen über 240 °C.
-Die Temperatur der Fahrmotorklemmstellen darf maximal 200 °C betragen,
-ohne eine erhöhte Brandentstehungsgefahr an den um die Klemmstellen der
-FM 1 und FM 4 liegende Werkstoffe zu riskieren.
-
+scher  Sicht  besser  zur  Vorbehandlung  der  Fahrmotorklemmstellen  geeignet 
 
-Die Verwendung von Al / Cu-Scheiben vergrößern den Übergangswiderstand.
+ist als Kupferpaste. Es bleibt jedoch anzumerken, dass an den Klemmstellen 
 
-
+im  Fahrzeug  die  brandfördernde  Wirkung  von  Kupferpaste  und  der  Vaseline 
 
-Die Stromverteilung in den Einzelleitungen ist abhängig von der Fahrtrichtung und
-den Übergangswiderständen, diese wiederrum vom Reinigungszustand.
+als  Brandlast  selbst  nicht  zu  berücksichtigen  ist,  da  diese  üblicherweise  nur 
 
-
+mit  minimalen  Schichtdicken  aufgetragen  werden.  Eine  Selbstentzündung 
 
-Eine Leitung der vier parallelen Kabel muss betriebliche nicht nur 25 % sondern 40 %
-des Gesamtstromes führen können, nach verschiedenen realistischen Simulationen
-wurden Temperaturunterschiede von 37 K bis 44 K Übertemperatur gemessen, bei
-unrealistischen Strömen bis zu 147 K Übertemperatur.
+Seite 21 von 23 
 
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Ein Einfluss des Anzugsmomentes auf die Stromverteilung konnte nicht nachgewie­
-sen werden.
+Fahrzeugbrand, 04.06.2014, Kamen - Üst Nordbögge 
 
-5
+beider Werkstoffe erfolgt erst bei Temperaturen über 240 °C. 
 
-Auswertung und Schlussfolgerungen
 
-In der Werkstatt Dortmund wurde die Kontrolle der Fahrmotorklemmstellen an den Strom­
-schienen bei der Nachschau IS 200 am 03.06.2014 nicht durchgeführt. Die EZB-Meldung
-des Tf vom 30.05.2014 „Geruch angebrannter Kabelisolierung“ führte zum Auftrag an die
-Werkstatt zur Fehlersuche. Da sich das Werkstattpersonal ausschließlich mit der Fehlersu­
-che im Führerpultbereich beschäftigte, wurde die eigentliche Störungsursache nicht erkannt.
-Daraufhin wurde das Fahrzeug ohne Befund wieder dem Betrieb übergeben.
-Ursächlich für eine Geruchsentwicklung nach angebrannter Kabelisolierung im Führerraum 1
-könnten folgende Einrichtungen in Frage kommen:
-•
+Die  Temperatur  der  Fahrmotorklemmstellen  darf  maximal  200  °C  betragen,  
 
-Anschluss FM 1 (wurde durch die Werkstatt nicht betrachtet)
 
-•
+ohne eine erhöhte Brandentstehungsgefahr an den um die Klemmstellen der 
 
-Elektrik im Pult, (war ohne Befund)
 
-•
+FM 1 und FM 4 liegende Werkstoffe zu riskieren. 
 
-Elektrik im Elektronikschrank 1 (wurde durch die Werkstatt nicht betrachtet)
 
-•
+	  Die Verwendung von Al / Cu-Scheiben vergrößern den Übergangswiderstand. 
 
-Umformererregergerät (wurde durch die Werkstatt ebenfalls nicht betrachtet).
+	  Die  Stromverteilung  in  den  Einzelleitungen  ist  abhängig  von  der  Fahrtrichtung  und 
 
-Da der Umbau der Klemmleiste vom ehemals verwendeten Klemmholz auf die neue „rote
-Ausführung“ wie vorgesehen Anwendung fand, wirkte sich dieses positiv auf die Brandein­
+den Übergangswiderständen, diese wiederrum vom Reinigungszustand. 
+
+	  Eine Leitung der vier parallelen Kabel muss betriebliche nicht nur 25 % sondern 40 % 
+
+des  Gesamtstromes  führen  können,  nach  verschiedenen  realistischen  Simulationen 
+
+wurden  Temperaturunterschiede  von  37 K  bis  44 K  Übertemperatur  gemessen,  bei 
+
+unrealistischen Strömen bis zu 147 K Übertemperatur. 
+
+	  Ein  Einfluss  des  Anzugsmomentes  auf  die  Stromverteilung  konnte nicht nachgewie­
+
+sen werden. 
+
+ 5 
+
+Auswertung und Schlussfolgerungen 
+
+In  der  Werkstatt  Dortmund  wurde  die  Kontrolle  der  Fahrmotorklemmstellen  an  den  Strom­
+
+schienen  bei  der  Nachschau  IS  200  am  03.06.2014  nicht  durchgeführt.  Die  EZB-Meldung 
+
+des  Tf  vom  30.05.2014  „Geruch  angebrannter  Kabelisolierung“  führte  zum  Auftrag  an  die 
+
+Werkstatt  zur  Fehlersuche.  Da  sich das Werkstattpersonal ausschließlich mit der Fehlersu­
+
+che im Führerpultbereich beschäftigte, wurde die eigentliche Störungsursache nicht erkannt. 
+
+Daraufhin wurde das Fahrzeug ohne Befund wieder dem Betrieb übergeben. 
+
+Ursächlich für eine Geruchsentwicklung nach angebrannter Kabelisolierung im Führerraum 1 
+
+könnten folgende Einrichtungen in Frage kommen: 
+
+• 	 Anschluss FM 1 (wurde durch die Werkstatt nicht betrachtet) 
+
+• 	 Elektrik im Pult, (war ohne Befund) 
+
+• 	 Elektrik im Elektronikschrank 1 (wurde durch die Werkstatt nicht betrachtet) 
+
+• 	 Umformererregergerät (wurde durch die Werkstatt ebenfalls nicht betrachtet). 
+
+Da  der  Umbau  der  Klemmleiste  vom  ehemals  verwendeten  Klemmholz  auf  die  neue  „rote 
+
+Ausführung“  wie  vorgesehen  Anwendung  fand,  wirkte  sich  dieses  positiv  auf  die  Brandein­
+
 dämmung aus. Der Brand konnte sich so nur auf die Kabelisolation oberhalb des Klemmhol­
-zes ausbreiten.
 
-Seite 22 von 23
+zes ausbreiten. 
 
-Untersuchungsbericht
-Fahrzeugbrand, 04.06.2014, Kamen - Üst Nordbögge
+Seite 22 von 23 
 
-Der Fahrzeughalter teilte mit, dass die konstruktive Ausführung der Aluminiumstromschienen
-mit den vier einzeln geklemmten Leitungen je Fahrmotoranschluss in Verbindung mit dem
-beengten Einbauraum einen erhöhten Instandhaltungsaufwand erfordert.
-Daher ist die genaueste Einhaltung der Vorgaben des IHB 901 10, der Arbeitsanweisungen,
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Fahrzeugbrand, 04.06.2014, Kamen - Üst Nordbögge 
+
+Der Fahrzeughalter teilte mit, dass die konstruktive Ausführung der Aluminiumstromschienen 
+
+
+mit  den  vier  einzeln  geklemmten  Leitungen  je  Fahrmotoranschluss  in  Verbindung  mit  dem  
+
+
+beengten Einbauraum einen erhöhten Instandhaltungsaufwand erfordert. 
+
+
+Daher ist die genaueste Einhaltung der Vorgaben des IHB 901 10, der Arbeitsanweisungen, 
+
+
 der IW-P (z.B. 146/2012, 309/2013) bzw. der Zeichnungsdokumentation notwendig, um zu­
-künftig derartige Ereignisse vermeiden zu können.
-In der Werkstatt Dortmund wurde die Kontrolle der Fahrmotorklemmstellen an den Strom­
-schienen bei der Nachschau IS 200 am 03.06.2014 nicht durchgeführt.
-Die mangelhafte Arbeitsausführung durch die Nichtbeachtung der vorgeschriebenen In­
-standhaltungsanweisungen führte so letztendlich zum Brand.
-Insgesamt entstand von der Werkstatt Dortmund der Eindruck einer defizitären Instandhal­
+
+künftig derartige Ereignisse vermeiden zu können. 
+
+
+In  der  Werkstatt  Dortmund  wurde  die  Kontrolle  der  Fahrmotorklemmstellen  an  den  Strom­
+
+schienen bei der Nachschau IS 200 am 03.06.2014 nicht durchgeführt. 
+
+
+Die  mangelhafte  Arbeitsausführung  durch  die  Nichtbeachtung  der  vorgeschriebenen  In­
+
+standhaltungsanweisungen führte so letztendlich zum Brand. 
+
+
+Insgesamt  entstand  von  der  Werkstatt  Dortmund  der  Eindruck  einer  defizitären  Instandhal­
+
 tung der BR 112. Dieser wird nicht ausschließlich aufgrund des (bereits zweiten) Fahrzeug­
-brandes, sondern auch aufgrund der geführten Gespräche mit den Mitarbeitern vor Ort be­
+
+brandes,  sondern  auch  aufgrund  der geführten Gespräche mit den Mitarbeitern vor Ort be­
+
 züglich der mangelhaften Fach- und Handlungskompetenz sowie des stellenweise stark ver­
+
 schmutzen Maschinenraumes des Tfz bestärkt. Die Mitarbeiter waren gemäß den vorgeleg­
+
 ten Unterlagen zwar über die Änderungen im Instandhaltungswesen unterrichtet, die Einhal­
-tung und Umsetzung der Vorgaben erfolgte jedoch nicht. Der Instandhaltungsallgemeinzu­
-stand des Tfz war nicht ordentlich.
-Dennoch sollte eine Überprüfung der elektrotechnischen Konstruktion, wie beispielsweise
+
+tung  und  Umsetzung  der  Vorgaben  erfolgte  jedoch  nicht.  Der  Instandhaltungsallgemeinzu­
+
+stand des Tfz war nicht ordentlich. 
+
+
+Dennoch  sollte  eine  Überprüfung  der  elektrotechnischen  Konstruktion,  wie  beispielsweise  
+
+
 dem Austausch der Aluminiumstromschienen gegen Kupferstromschienen, in Erwägung ge­
+
 zogen werden. Durch die unveränderbaren chemischen Gesetzmäßigkeiten wird es zwangs­
-läufig bei direktem Kontakt zwischen den beiden Metallen Aluminium und Kupfer immer zu
-Kontaktkorrosion aufgrund des bestehenden elektrochemischen Spannungsgefälles („Re­
-doxreihe“) kommen.
 
-Seite 23 von 23
+läufig  bei  direktem  Kontakt  zwischen  den  beiden  Metallen  Aluminium  und  Kupfer  immer  zu  
 
+
+Kontaktkorrosion  aufgrund  des  bestehenden  elektrochemischen  Spannungsgefälles  („Re­
+
+doxreihe“) kommen. 
+
+
+Seite 23 von 23 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 

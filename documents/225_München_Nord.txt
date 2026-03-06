@@ -1,1917 +1,2597 @@
-Untersuchungsbericht
-Aktenzeichen:
+Untersuchungsbericht 
 
-BEU-uu2020-05/008-3323
+Aktenzeichen: 
 
-Stand:
+BEU-uu2020-05/008-3323 
 
-07.01.2025 Version: 1.0
+Stand: 
 
-Erstveröﬀentlichung:
+07.01.2025     Version:  1.0 
 
-14.01.2025
+Erstveröﬀentlichung:  14.01.2025 
 
-Gefährliches Ereignis im Eisenbahnbetrieb
+Gefährliches	Ereignis	im	Eisenbahnbetrieb 
 
-Ereignisart:
+Ereignisart: 
 
-Zugkollision
+Datum: 
 
-Datum:
+Zeit: 
 
-23.05.2020
+Bahnhof: 
 
-Zeit:
+Gleis: 
 
-22:19 Uhr
+Kilometer: 
 
-Bahnhof:
+Zugkollision 
 
-München Nord Rbf
+23.05.2020 
 
-Gleis:
+22:19 Uhr 
 
-261
+München Nord Rbf 
 
-Kilometer:
+261 
 
-16,0
+16,0 
 
-Untersuchungsbericht
-Zugkollision, 23.05.2020, München Nord Rbf
+ 
+	
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Veröﬀentlicht durch:
-Bundesstelle für Eisenbahnunfalluntersuchung
-Heinemannstraße 6
-53175 Bonn
+Zugkollision, 23.05.2020, München Nord Rbf 
 
-Untersuchungsbericht
-Zugkollision, 23.05.2020, München Nord Rbf
+Veröﬀentlicht durch: 
 
-Inhaltsverzeichnis
-I.
+Bundesstelle für Eisenbahnunfalluntersuchung 
 
-Änderungsverzeichnis: .......................................................................................... II
+Heinemannstraße 6 
 
-II.
+53175 Bonn 
 
-Abbildungsverzeichnis: ........................................................................................ III
+ 
+Untersuchungsbericht 
 
-III.
+Zugkollision, 23.05.2020, München Nord Rbf 
 
-Tabellenverzeichnis: ............................................................................................ III
+Inhaltsverzeichnis	
 
-IV.
+I. 
 
-Abkürzungsverzeichnis: ....................................................................................... IV
+II. 
 
-0
+Änderungsverzeichnis: .......................................................................................... II 
 
-Vorbemerkung...................................................................................................... 1
+Abbildungsverzeichnis: ........................................................................................ III 
 
-1
+III. 
 
-Zusammenfassung ................................................................................................ 2
+Tabellenverzeichnis: ............................................................................................ III 
 
-1.1
+IV. 
 
-Kurzbeschreibung des Ereignisses........................................................................... 2
+Abkürzungsverzeichnis: ....................................................................................... IV 
 
-1.2
+0 
 
-Folgen ...................................................................................................................... 2
+1 
 
-1.3
+1.1 
 
-Ursachen.................................................................................................................. 2
+1.2 
 
-1.4
+1.3 
 
-Sicherheitsempfehlungen ....................................................................................... 4
+1.4 
 
-2
+2 
 
-Die Untersuchung und ihr Kontext ........................................................................ 5
+3 
 
-3
+Vorbemerkung ...................................................................................................... 1 
 
-Beschreibung des Ereignisses................................................................................ 7
+Zusammenfassung ................................................................................................ 2 
 
-3.1
+Kurzbeschreibung des Ereignisses ........................................................................... 2 
 
-Informationen über das Ereignis und seine Hintergründe ..................................... 7
+Folgen ...................................................................................................................... 2 
 
-3.1.1
+Ursachen .................................................................................................................. 2 
 
-Lage und Beschreibung des Ereignisortes ............................................................... 7
+Sicherheitsempfehlungen ....................................................................................... 4 
 
-3.1.2
+Die Untersuchung und ihr Kontext ........................................................................ 5 
 
-Beteiligte.................................................................................................................. 9
+Beschreibung des Ereignisses ................................................................................ 7 
 
-3.1.3
+3.1 
 
-Äußere Bedingungen ............................................................................................... 9
+Informationen über das Ereignis und seine Hintergründe ..................................... 7 
 
-3.1.4
+3.1.1 
 
-Todesopfer, Verletzte und Sachschäden................................................................. 9
+Lage und Beschreibung des Ereignisortes ............................................................... 7 
 
-3.2
+3.1.2 
 
-Sachliche Beschreibung der Vorkommnisse ......................................................... 12
+Beteiligte.................................................................................................................. 9 
 
-3.2.1
+3.1.3 
 
-Hergangsbeschreibung .......................................................................................... 12
+Äußere Bedingungen ............................................................................................... 9 
 
-3.2.2
+3.1.4 
 
-Notfallmanagement .............................................................................................. 12
+Todesopfer, Verletzte und Sachschäden ................................................................. 9 
 
-4
+3.2 
 
-Auswertung des Ereignisses ................................................................................ 13
+Sachliche Beschreibung der Vorkommnisse ......................................................... 12 
 
-4.1
+3.2.1 
 
-Aufgaben und Pflichten ......................................................................................... 13
+Hergangsbeschreibung .......................................................................................... 12 
 
-4.1.1
+3.2.2 
 
-EIU DB Netz AG ...................................................................................................... 13
+Notfallmanagement .............................................................................................. 12 
 
-I
+4 
 
-Untersuchungsbericht
-Zugkollision, 23.05.2020, München Nord Rbf
+4.1 
 
-I.
+Auswertung des Ereignisses ................................................................................ 13 
 
-4.1.2
+Aufgaben und Pflichten ......................................................................................... 13 
 
-EVU RHB Logistics GmbH ....................................................................................... 15
+4.1.1 
 
-4.1.3
+EIU DB Netz AG ...................................................................................................... 13 
 
-Swietelsky AG als Auftrag nehmendes Bauunternehmen .................................... 15
+I 
 
-4.1.4
+ 
+ 
+Untersuchungsbericht 
 
-Penzenstadler GmbH als Unterauftragnehmer und Arbeitgeber ......................... 15
+Zugkollision, 23.05.2020, München Nord Rbf 
 
-4.2
+4.1.2 
 
-Fahrzeuge und technische Einrichtungen ............................................................. 16
+EVU RHB Logistics GmbH ....................................................................................... 15 
 
-4.2.1
+4.1.3 
 
-Beteiligte Fahrzeuge .............................................................................................. 16
+Swietelsky AG als Auftrag nehmendes Bauunternehmen .................................... 15 
 
-4.2.2
+4.1.4 
 
-Bauliche Infrastruktur............................................................................................ 17
+Penzenstadler GmbH als Unterauftragnehmer und Arbeitgeber ......................... 15 
 
-4.2.3
+4.2 
 
-Leit- und Sicherungstechnik .................................................................................. 21
+Fahrzeuge und technische Einrichtungen ............................................................. 16 
 
-4.3
+4.2.1 
 
-Menschliche Faktoren ........................................................................................... 21
+Beteiligte Fahrzeuge .............................................................................................. 16 
 
-4.3.1
+4.2.2 
 
-Untersuchung im Bereich des EIU ......................................................................... 21
+Bauliche Infrastruktur ............................................................................................ 17 
 
-4.3.2
+4.2.3 
 
-Untersuchung im Bereich des EVU........................................................................ 22
+Leit- und Sicherungstechnik .................................................................................. 21 
 
-4.3.3
+4.3 
 
-Untersuchung im Bereich der Auftragnehmer und des Fahrers des Lkw ............. 22
+Menschliche Faktoren ........................................................................................... 21 
 
-4.4
+4.3.1 
 
-Feedback- und Kontrollmechanismen .................................................................. 24
+Untersuchung im Bereich des EIU ......................................................................... 21 
 
-4.5
+4.3.2 
 
-Frühere Ereignisse ähnlicher Art ........................................................................... 26
+Untersuchung im Bereich des EVU ........................................................................ 22 
 
-5
+4.3.3 
 
-Schlussfolgerungen ............................................................................................. 27
+Untersuchung im Bereich der Auftragnehmer und des Fahrers des Lkw ............. 22 
 
-5.1
+4.4 
 
-Zusammenfassung und Schlussfolgerung ............................................................. 27
+4.5 
 
-5.2
+5 
 
-Seit dem Ereignis getroffene Maßnahmen ........................................................... 32
+5.1 
 
-5.3
+5.2 
 
-Zusätzliche Bemerkungen ..................................................................................... 33
+5.3 
 
-6
+Feedback- und Kontrollmechanismen .................................................................. 24 
 
-Sicherheitsempfehlungen ................................................................................... 34
+Frühere Ereignisse ähnlicher Art ........................................................................... 26 
 
-Änderungsverzeichnis:
-Änderung
+Schlussfolgerungen ............................................................................................. 27 
 
-Stand
+Zusammenfassung und Schlussfolgerung ............................................................. 27 
 
-II
+Seit dem Ereignis getroffene Maßnahmen ........................................................... 32 
 
-Untersuchungsbericht
-Zugkollision, 23.05.2020, München Nord Rbf
+Zusätzliche Bemerkungen ..................................................................................... 33 
 
-II.
+6 
 
-Abbildungsverzeichnis:
-Abbildung 1: Lageplan Unfallstelle............................................................................................. 8
-Abbildung 2: Georeferenziertes Orthofoto der Unfallstelle ...................................................... 8
-Abbildung 3: Beschädigte Lokomotive ..................................................................................... 11
-Abbildung 4: Beschädigter Lkw und zerstörtes Lichthauptsignal X2 ....................................... 11
-Abbildung 5: Übersicht GÜ 6 .................................................................................................... 17
-Abbildung 6: Übersicht Sicht Lkw am GÜ 6 auf sich nähernden Güterzug .............................. 18
-Abbildung 7: Ansicht GÜ 6 mit Beschilderung und Verkehrsspiegel ....................................... 19
+Sicherheitsempfehlungen ................................................................................... 34 
 
-III.
+I.  Änderungsverzeichnis:	
 
-Tabellenverzeichnis:
-Tabelle 1: Auflistung Einflussfaktoren........................................................................................ 3
-Tabelle 2: Übersicht der äußeren Bedingungen ........................................................................ 9
-Tabelle 3: Übersicht der Personenschäden ............................................................................... 9
-Tabelle 4: Übersicht der geschätzten Schadenshöhe .............................................................. 10
-Tabelle 5: Technische Daten Tfz 91 80 6152 149-1 D-DB ........................................................ 16
-Tabelle 6: Technische Daten Muldenkipper-Lkw ..................................................................... 17
+Änderung 
 
-III
+Stand 
 
-Untersuchungsbericht
-Zugkollision, 23.05.2020, München Nord Rbf
+II 
 
-IV.
+ 
+ 
+ 
+ 
+ 
+ 
+	
+	
+Untersuchungsbericht 
 
-Abkürzungsverzeichnis:
-AEG
+Zugkollision, 23.05.2020, München Nord Rbf 
 
-Allgemeines Eisenbahngesetz
+II.  Abbildungsverzeichnis:	
 
-ArbSchG
+Abbildung 1: Lageplan Unfallstelle ............................................................................................. 8 
 
-Arbeitsschutzgesetz
+Abbildung 2: Georeferenziertes Orthofoto der Unfallstelle ...................................................... 8 
 
-BEU
+Abbildung 3: Beschädigte Lokomotive ..................................................................................... 11 
 
-Bundesstelle für Eisenbahnunfalluntersuchung
+Abbildung 4: Beschädigter Lkw und zerstörtes Lichthauptsignal X2 ....................................... 11 
 
-Bf
+Abbildung 5: Übersicht GÜ 6 .................................................................................................... 17 
 
-Bahnhof
+Abbildung 6: Übersicht Sicht Lkw am GÜ 6 auf sich nähernden Güterzug .............................. 18 
 
-EBA
+Abbildung 7: Ansicht GÜ 6 mit Beschilderung und Verkehrsspiegel ....................................... 19 
 
-Eisenbahn-Bundesamt
+III.  Tabellenverzeichnis:	
 
-EFR
+Tabelle 1: Auflistung Einflussfaktoren ........................................................................................ 3 
 
-Elektronische Fahrtenregistrierung
+Tabelle 2: Übersicht der äußeren Bedingungen ........................................................................ 9 
 
-EIU
+Tabelle 3: Übersicht der Personenschäden ............................................................................... 9 
 
-Eisenbahninfrastrukturunternehmen
+Tabelle 4: Übersicht der geschätzten Schadenshöhe .............................................................. 10 
 
-ESTW
+Tabelle 5: Technische Daten Tfz 91 80 6152 149-1 D-DB ........................................................ 16 
 
-Elektronisches Stellwerk
+Tabelle 6: Technische Daten Muldenkipper-Lkw ..................................................................... 17 
 
-EU
+III 
 
-Europäische Union
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-EUV
+Zugkollision, 23.05.2020, München Nord Rbf 
 
-Eisenbahn-Unfalluntersuchungsverordnung
+IV.  Abkürzungsverzeichnis:	
 
-EVU
+AEG 
 
-Eisenbahnverkehrsunternehmen
+Allgemeines Eisenbahngesetz 
 
-Fdl
+ArbSchG 
 
-Fahrdienstleiter
+Arbeitsschutzgesetz 
 
-GSM-R
+BEU 
 
-Global System for Mobile Communica ons – Rail
+Bf 
 
-GÜ
+EBA 
 
-Gleisübergang
+EFR 
 
-Lkw
+EIU 
 
-Lastkra wagen
+Bundesstelle für Eisenbahnunfalluntersuchung 
 
-NFLS
+Bahnhof 
 
-No allleitstelle der DB Netz AG
+Eisenbahn-Bundesamt 
 
-Nmg
+Elektronische Fahrtenregistrierung 
 
-No allmanager der DB Netz AG
+Eisenbahninfrastrukturunternehmen 
 
-PZB
+ESTW 
 
-Punk örmige Zugbeeinflussung
+Elektronisches Stellwerk 
 
-Rbf
+EU 
 
-Rangierbahnhof
+EUV 
 
-Ril
+EVU 
 
-Richtlinie
+Fdl 
 
-SMS
+Europäische Union 
 
-Sicherheitsmanagementsystem
+Eisenbahn-Unfalluntersuchungsverordnung 
 
-StVO
+Eisenbahnverkehrsunternehmen 
 
-Straßenverkehrsordnung
+Fahrdienstleiter 
 
-Tf
+GSM-R 
 
-Triebfahrzeugführer
+Global System for Mobile Communica(cid:415)ons – Rail 
 
-Tfz
+GÜ 
 
-Triebfahrzeug
+Lkw 
 
-VPI
+NFLS 
 
-Verkehrspolizeiinspek on
+Nmg 
 
-Vz.
+PZB 
 
-Verkehrszeichen gemäß Verkehrszeichenkatalog
+Rbf 
 
-VzG
+Ril 
 
-Verzeichnis der örtlich zulässigen Geschwindigkeiten
+SMS 
 
-IV
+StVO 
 
-Untersuchungsbericht
-Zugkollision, 23.05.2020, München Nord Rbf
+Tf 
 
-0 Vorbemerkung
-Auf der Grundlage des Ar kel 24 der Richtlinie (EU) 2016/798 hat die europäische Kommission
-mit
+Tfz 
 
-der
+VPI 
 
-Inkra setzung
+Vz. 
 
-der
+VzG 
 
-Durchführungsverordnung
+Gleisübergang 
 
-(EU)
+Lastkra(cid:332)wagen 
 
-2020/572
+No(cid:414)allleitstelle der DB Netz AG 
 
-die
+No(cid:414)allmanager der DB Netz AG 
 
-Untersuchungsberichtsstruktur festgelegt. Diese Vorgaben sind grundsätzlich einzuhalten. Die
-Berichtsstruktur muss der Art und Schwere des gefährlichen Ereignisses angepasst sein.
-Mit Verkündung der Verordnung und Inkra setzung am zwanzigsten Tag nach der
-Veröﬀentlichung im Amtsbla
+Punk(cid:414)örmige Zugbeeinﬂussung 
 
-der Europäischen Union (EU) ist diese verbindlich und
+Rangierbahnhof 
 
-unmi elbar auf alle ab dem 17.05.2020 eingeleiteten Untersuchungen anzuwenden.
+Richtlinie 
 
-Seite 1 von 34
+Sicherheitsmanagementsystem 
 
-Untersuchungsbericht
-Zugkollision, 23.05.2020, München Nord Rbf
+Straßenverkehrsordnung 
 
-1 Zusammenfassung
-Das erste Kapitel enthält eine Kurzbeschreibung des Ereignisses sowie Informa onen zu den
-Folgen, Primärursachen sowie zu im Einzelfall ausgesprochenen Sicherheitsempfehlungen.
+Triebfahrzeugführer 
 
-1.1 Kurzbeschreibung des Ereignisses
-Am 23.05.2020 gegen 22:19 Uhr kollidierte der Güterzug DGS 50214 auf der Fahrt von
-München Ost Rbf nach Meimersdorf im Rangierbahnhof (Rbf) München Nord Rbf im Bereich
-der
+Triebfahrzeug 
 
-nördlichen
+Verkehrspolizeiinspek(cid:415)on 
 
-Umfahrung
+Verkehrszeichen gemäß Verkehrszeichenkatalog 
 
-der
+Verzeichnis der örtlich zulässigen Geschwindigkeiten 
 
-Richtungsgruppe
+IV 
 
-auf
+ 
+ 
+ 
+Untersuchungsbericht 
 
-dem
+Zugkollision, 23.05.2020, München Nord Rbf 
 
-nicht
+0  Vorbemerkung	
 
-öﬀentlichen,
+Auf der Grundlage des Ar(cid:415)kel 24 der Richtlinie (EU) 2016/798 hat die europäische Kommission 
 
-innerbetrieblichen Gleisübergang (GÜ) 6 bei km 16,0 mit einem in Fahrtrichtung von links
-querenden Lastkra wagen (Lkw) mit Muldenkipperau au.
+mit 
 
-1.2 Folgen
-Bei der Zugkollision wurde der Fahrer des Lkw zunächst schwer verletzt und verstarb zehn
-Tage später im Krankenhaus an den Unfallfolgen.
-Weitere Personen wurden nicht verletzt oder getötet.
-Der Lkw wurde über eine En ernung von ca. 25 m vom Güterzug mitgeschlei , riss dabei das
-Lichthauptsignal X2 um und kam mit schweren Beschädigungen zum Stehen.
-Die führende Elektrolokomo ve des Güterzuges wurde im linken Frontbereich beschädigt,
-blieb aber fahrtüch g.
-Die Sachschäden beliefen sich auf rund 163.000 Euro.
+der 
 
-1.3 Ursachen
-Im Rahmen der Untersuchung des Ereignisses wurden die folgenden Handlungen,
-Unterlassungen, Vorkommnisse oder Umstände als sicherheitskri sche Faktoren iden fiziert.
-Diese werden gemäß Durchführungsverordnung 2020/572 in ursächliche oder beitragende,
-und systemische Faktoren unterschieden. Zusätzlich werden ermi elte Defizite des
-No allmanagements behandelt.
-Zur besseren Übersichtlichkeit der Faktoren und Aspekte des No allmanagements wird eine
-Systema k mit Kennzeichnungen in eckigen Klammern verwendet.
-Eine detaillierte Auswertung des Ereignisses unter Einordnung als sicherheitskri sche
-Faktoren wird in den folgenden Kapiteln gegeben.
+Inkra(cid:332)setzung 
 
-Seite 2 von 34
+der  Durchführungsverordnung 
 
-Untersuchungsbericht
-Zugkollision, 23.05.2020, München Nord Rbf
+(EU) 
 
-Am 23.05.2020 führten in München Nord Rbf Bauunternehmen im direkten Au rag des
-Eisenbahninfrastrukturunternehmens (EIU) bzw. über Unterau räge Baumaßnahmen aus.
-Den Au ragnehmern oblag die Pflicht, nur entsprechend unterwiesene Beschä igte
-einzusetzen. Ein für die Transportleistungen disponierter Fahrer eines Lkw war in der
-Betriebsanlage ohne die obligatorische Unterweisung tä g. Um 22:19 Uhr befuhr er einen
-innerbetrieblichen Gleisübergang (GÜ) mit seinem Lkw. Dabei kam es zur Kollision mit dem
-Zug DGS 50214.
-Geschehen:
-Datum/Uhrzeit, sowie
-Handlung /
-Unterlassen /
-Umstand /
-Vorkommnis
+2020/572 
 
-Ursächlicher
-Faktor
+die 
 
-(Ausgangslage)
-Delega on der Pflicht
-auf die beau ragten
-Bauunternehmen
-durch das EIU, nur
-unterwiesene
-Beschä igte
-einzusetzen.
-23.05.2020,
-vor 22:19 Uhr.
-Einsatz des LkwFahrers ohne
-vorherige
-Unterweisung.
+Untersuchungsberichtsstruktur festgelegt. Diese Vorgaben sind grundsätzlich einzuhalten. Die 
 
-Systemischer
-Faktor
+Berichtsstruktur muss der Art und Schwere des gefährlichen Ereignisses angepasst sein. 
 
-Kontrollfreie
-Delega on der
-Unterweisung auf
-Au ragnehmer
-[F4]
+Mit  Verkündung  der  Verordnung  und  Inkra(cid:332)setzung  am  zwanzigsten  Tag  nach  der 
 
-Verfahren zur
-Kontrolle der
-Ergebnisse der von
-den Au ragnehmern
-erbrachten
-Dienstleistungen
-seitens des EIU [S4]
+Veröﬀentlichung  im  Amtsbla(cid:425)  der  Europäischen  Union  (EU)  ist  diese  verbindlich  und 
 
-Unterweisungspflicht über alle
-Beschä igten [F2]
+unmi(cid:425)elbar auf alle ab dem 17.05.2020 eingeleiteten Untersuchungen anzuwenden. 
 
-23.05.2020,
-gegen 22:19 Uhr.
+Seite 1 von 34 
 
-Sicherstellung der
-Ausführung von
-Sicherheitsaufgaben
-[S2]
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Sorgfalt beim
-Führen des
-Lkw [F3]
+Zugkollision, 23.05.2020, München Nord Rbf 
 
-Unterlassenes
-Befolgen der am GÜ 6
-beschränkten
-Höchstgeschwindigkeit
-10km/h.
-23.05.2020,
-um 22:19 Uhr.
+1  Zusammenfassung	
 
-Beitragender
-Faktor
+Das erste Kapitel enthält eine Kurzbeschreibung des Ereignisses sowie Informa(cid:415)onen zu den 
 
-Sichtverhältnisse
-am GÜ 6 [F1]
+Folgen, Primärursachen sowie zu im Einzelfall ausgesprochenen Sicherheitsempfehlungen. 
 
-Kollision Lkw mit Zug
-DGS 50214.
+1.1  Kurzbeschreibung	des	Ereignisses	
 
-Risikokontrolle
-durch Regeln zu
-Gestaltung und
-Betrieb [S1]
+Am  23.05.2020  gegen  22:19 Uhr  kollidierte  der  Güterzug  DGS 50214  auf  der  Fahrt  von 
 
-Tabelle 1: Auflistung Einflussfaktoren
+München Ost Rbf nach Meimersdorf im Rangierbahnhof (Rbf) München Nord Rbf im Bereich 
 
-Seite 3 von 34
+der  nördlichen  Umfahrung  der  Richtungsgruppe  auf  dem  nicht  öﬀentlichen, 
 
-Untersuchungsbericht
-Zugkollision, 23.05.2020, München Nord Rbf
+innerbetrieblichen  Gleisübergang  (GÜ) 6  bei  km 16,0  mit  einem  in  Fahrtrichtung  von  links 
 
-1.4 Sicherheitsempfehlungen
-Gemäß § 6 EUV und Art. 26 Abs. 2 der Richtlinie (EU) 2016/798 ergehen nachfolgende
-Sicherheitsempfehlungen an die na onale Sicherheitsbehörde EBA.
-Lfd. Nr.
+querenden Lastkra(cid:332)wagen (Lkw) mit Muldenkipperau(cid:297)au. 
 
-Sicherheitsempfehlung
+1.2  Folgen	
 
-Betri
+Bei der Zugkollision wurde  der Fahrer des Lkw zunächst schwer verletzt und verstarb zehn 
 
-Unternehmen
+Tage später im Krankenhaus an den Unfallfolgen. 
 
-02/2025
+Weitere Personen wurden nicht verletzt oder getötet. 
 
-Es wird empfohlen, dass das EIU die Planungs- und
-Betriebsregeln für GÜ hinsichtlich ausreichender
-Risikokontrolle gem. Verordnung (EU) 2018/762,
-Anhang II, Kriterium 3.1.1 a), überprü und ggf.
-verbessert, auch mit Wirkung auf bestehende GÜ.
+Der Lkw wurde über eine En(cid:414)ernung von ca. 25 m vom Güterzug mitgeschlei(cid:332), riss dabei das 
 
-Eisenbahninfrastrukturunternehmen
+Lichthauptsignal X2 um und kam mit schweren Beschädigungen zum Stehen. 
 
-03/2025
+Die  führende  Elektrolokomo(cid:415)ve  des  Güterzuges  wurde  im  linken  Frontbereich  beschädigt, 
 
-Es wird empfohlen, die Konzepte zur Überwachung Eisenbahninfrastrukturbeau ragter Au ragnehmer gemäß Verordnung
-unternehmen
-(EU) 2018/762, Anhang II, Kriterium 5.3.3. a) und
-6.1.1. a), in ihrer Wirksamkeit zu überprüfen, damit
-die Kenntnis von Regeln mit Auswirkung auf die
-Eisenbahnsicherheit durch deren Beschä igte
-sichergestellt ist, unabhängig von den Regelungen
-der Arbeitssicherheit.
+blieb aber fahrtüch(cid:415)g. 
 
-Seite 4 von 34
+Die Sachschäden beliefen sich auf rund 163.000 Euro. 
 
-Untersuchungsbericht
-Zugkollision, 23.05.2020, München Nord Rbf
+1.3  Ursachen	
 
-2 Die Untersuchung und ihr Kontext
-Die Bundesstelle für Eisenbahnunfalluntersuchung (BEU) ist für die Untersuchung von
-gefährlichen
+Im  Rahmen  der  Untersuchung  des  Ereignisses  wurden  die  folgenden  Handlungen, 
 
-Ereignissen
+Unterlassungen, Vorkommnisse oder Umstände als sicherheitskri(cid:415)sche Faktoren iden(cid:415)ﬁziert. 
 
-im
+Diese werden gemäß Durchführungsverordnung 2020/572 in ursächliche oder beitragende, 
 
-Eisenbahnbetrieb
+und  systemische  Faktoren  unterschieden.  Zusätzlich  werden  ermi(cid:425)elte  Deﬁzite  des 
 
-im
+No(cid:414)allmanagements behandelt.  
 
-Sinne
+Zur besseren Übersichtlichkeit der Faktoren und Aspekte des No(cid:414)allmanagements wird eine 
 
-des
+Systema(cid:415)k mit Kennzeichnungen in eckigen Klammern verwendet. 
 
-Kapitels V
+Eine  detaillierte  Auswertung  des  Ereignisses  unter  Einordnung  als  sicherheitskri(cid:415)sche 
 
-der
+Faktoren wird in den folgenden Kapiteln gegeben. 
 
-Richtlinie (EU) 2016/798 auf Eisenbahninfrastrukturen des Bundes und auf nicht
-bundeseigenen Eisenbahninfrastrukturen des übergeordneten Netzes gemäß § 2b
-Allgemeines Eisenbahngesetz (AEG) zuständig.
-Ziel und Zweck der eingeleiteten Untersuchungen ist es, die Ursachen des gefährlichen
-Ereignisses aufzuklären und hieraus Hinweise zur Verbesserung der Sicherheit abzuleiten.
-Untersuchungen der BEU dienen nicht dazu, ein Verschulden festzustellen oder Fragen der
-Ha ung oder sons ger zivilrechtlicher Ansprüche zu klären und werden unabhängig von jeder
-gerichtlichen Untersuchung durchgeführt.
-Sicherheitsempfehlungen der BEU zur Vermeidung von gefährlichen Ereignissen und
-Verbesserung der Eisenbahnsicherheit werden an die na onale Sicherheitsbehörde, sofern es
-die Art der Empfehlung erfordert an die Eisenbahnagentur der Europäischen Union und an
-andere Stellen oder Behörden adressiert. Im Allgemeinen sind die Sicherheitsempfehlungen
-auch an
+Seite 2 von 34 
 
-die
+ 
+ 
+Untersuchungsbericht 
 
-unmi elbar
+Zugkollision, 23.05.2020, München Nord Rbf 
 
-bzw. mi elbar betroﬀenen sowie
+Am  23.05.2020  führten  in  München  Nord  Rbf  Bauunternehmen  im  direkten  Au(cid:332)rag  des 
 
-alle
+Eisenbahninfrastrukturunternehmens  (EIU)  bzw.  über  Unterau(cid:332)räge  Baumaßnahmen  aus. 
 
-einschlägigen
+Den  Au(cid:332)ragnehmern  oblag  die  Pﬂicht,  nur  entsprechend  unterwiesene  Beschä(cid:332)igte 
 
-Eisenbahnunternehmen gerichtet.
-Zu schweren Unfällen leitet die BEU stets Untersuchungen gem. Ar kel 20 Abs. 1 Richtlinie
-(EU) 2016/798 ein. Unter einem schweren Unfall sind insbesondere Zugkollisionen oder
-Zugentgleisungen mit mindestens einem Todesopfer oder mindestens fünf Schwerverletzten
-oder mit beträchtlichem Schaden (≥ 2 Mio. Euro) sowie sons ge Unfälle mit den gleichen
-Folgen und mit oﬀensichtlichen Auswirkungen auf die Regelung der Eisenbahnsicherheit oder
-das Sicherheitsmanagementsystem zu verstehen. Bei allen sons gen gefährlichen Ereignissen
-im Eisenbahnbetrieb liegt es im Ermessen der BEU Untersuchungen einzuleiten. Bei der
-Entscheidung werden neben den zum Ereigniszeitpunkt verfügbaren Ressourcen weitere
-Kriterien gem. Ar kel 20 Abs. 2 Richtlinie (EU) 2016/798 herangezogen.
-Aufgrund des gegebenen Schadensausmaßes bzw. der Folgen bei dem vorliegenden
-gefährlichen Ereignis wurden Untersuchungen auf Grundlage des Ar kels 20 Abs. 1 Richtlinie
-(EU) 2016/798 eingeleitet.
-Die Unfalluntersuchungshandlungen werden strukturiert in vier definierten Kernprozessen
-durchgeführt, die mit der Entscheidung zur Aufnahme einer Untersuchung beginnen und mit
+einzusetzen.  Ein  für  die  Transportleistungen  disponierter  Fahrer  eines  Lkw  war  in  der 
 
-Seite 5 von 34
+Betriebsanlage  ohne  die  obligatorische  Unterweisung  tä(cid:415)g.  Um  22:19 Uhr  befuhr  er  einen 
 
-Untersuchungsbericht
-Zugkollision, 23.05.2020, München Nord Rbf
+innerbetrieblichen Gleisübergang (GÜ) mit seinem Lkw. Dabei kam es zur Kollision mit dem 
 
-der
+Zug DGS 50214. 
 
-Veröﬀentlichung
+Geschehen: 
 
-Ursachenermi lung
+Datum/Uhrzeit, sowie 
 
-des
+Handlung / 
+Unterlassen / 
+Umstand / 
+Vorkommnis 
 
-werden
+(Ausgangslage) 
 
-Untersuchungsberichtes
-ergebnisoﬀene
+Delega(cid:415)on der Pﬂicht 
+auf die beau(cid:332)ragten 
+Bauunternehmen 
+durch das EIU, nur 
+unterwiesene 
+Beschä(cid:332)igte 
+einzusetzen. 
 
-abgeschlossen
+23.05.2020, 
+vor 22:19 Uhr. 
 
-Untersuchungen
+Einsatz des Lkw-
+Fahrers ohne 
+vorherige 
+Unterweisung. 
 
-in
+23.05.2020, 
+gegen 22:19 Uhr. 
 
-werden.
+Unterlassenes 
+Befolgen der am GÜ 6 
+beschränkten 
+Höchstgeschwindigkeit 
+10km/h. 
 
-allen
+Ursächlicher 
+Faktor 
 
-Zur
+Beitragender 
+Faktor 
 
-beteiligten
+Systemischer 
+Faktor 
 
-Fachdisziplinen angestellt und hierbei insbesondere Fehler-Ursachen-Analysen und Soll-IstVergleiche durchgeführt.
-Vom örtlich zuständigen Untersuchungsbezirk Südost wurden die Untersuchungshandlungen
-federführend geleitet.
-Sofern im Einzelfall geboten, werden die jeweiligen Untersuchungsteams bezirksübergreifend
-unterstützt und notwendige Sachverständigenleistungen extern beau ragt.
-Neben den beteiligten Unternehmen wirkte an der Untersuchung folgende weitere Stelle mit:
-
+Unterweisungs-
+pﬂicht über alle 
+Beschä(cid:332)igten [F2] 
 
-Verkehrspolizeiinspektion (VPI) München (Fahrtenschreiberdaten des Lkw)
+Kontrollfreie 
+Delega(cid:415)on der 
+Unterweisung auf 
+Au(cid:332)ragnehmer 
+[F4] 
 
-Die Durchführung der Unfalluntersuchung setzt voraus, dass alle an dem gefährlichen Ereignis
-Beteiligten den jeweiligen Meldeverpflichtungen gem. § 2 Abs. 3 EUV nachkommen. Die
-relevanten Informa onen sind durch die zur Meldung Verpflichteten auf dem neuesten Stand
-zu halten.
-Auf Grundlage des § 5b AEG werden i. d. R. weitergehende zur Untersuchungsdurchführung
-erforderliche Informa onen, Auskün e und Nachweise abgefordert. Diese notwendigen
-Zuarbeiten konnten mi els Auskun sersuchen gewonnen werden.
-Darüber hinaus können nach § 5b Abs. 4 AEG von den an gefährlichen Ereignissen beteiligten
-Eisenbahnen Unterstützungsleistungen eingefordert werden. Bei dem vorliegenden
-gefährlichen Ereignis wurden folgende Unterstützungsleistungen eingefordert:
-
+Verfahren zur 
+Kontrolle der 
+Ergebnisse der von 
+den Au(cid:332)ragnehmern 
+erbrachten 
+Dienstleistungen 
+seitens des EIU [S4] 
 
-Auslesung der elektronischen Fahrtenregistrierung (EFR) des führenden
-Eisenbahnfahrzeugs
+Sicherstellung der 
+Ausführung von 
+Sicherheitsaufgaben 
+[S2] 
 
-Die infrastruktursei ge Freigabe der Unfallstelle erfolgte durch die BEU am 24.05.2020.
+Sorgfalt beim 
+Führen des 
+Lkw [F3] 
 
-Seite 6 von 34
+23.05.2020, 
+um 22:19 Uhr. 
 
-Untersuchungsbericht
-Zugkollision, 23.05.2020, München Nord Rbf
+Sichtverhältnisse 
+am GÜ 6 [F1] 
 
-3 Beschreibung des Ereignisses
-Im dri en Kapitel wird das gefährliche Ereignis in zwei vorgegebenen Unterkapiteln näher
-beschrieben. In Kapitel 3.1 sind neben den Grunddaten weitere Informa onen zum
-Ereignisort, den äußeren Bedingungen, den Beteiligten und den Folgen enthalten. Die
-Ereignisrekonstruk on sowie Informa onen zur Auslösung und dem Ablauf der
-Re ungsmaßnahmen sind im Kapitel 3.2 dargestellt. Die Beschreibungen beziehen sich
-grundsätzlich
+Kollision Lkw mit 
+DGS 50214. 
 
-auf
+Zug 
 
-die
+Tabelle 1: Auﬂistung Einﬂussfaktoren 
 
-zum
+Risikokontrolle 
+durch Regeln zu 
+Gestaltung und 
+Betrieb [S1] 
 
-Ereigniszeitpunkt
+Seite 3 von 34 
 
-vorherrschenden
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Bedingungen
+Zugkollision, 23.05.2020, München Nord Rbf 
 
-und
+1.4  Sicherheitsempfehlungen	
 
-vorgefundenen Sachverhalte.
+Gemäß  § 6 EUV  und  Art. 26  Abs. 2  der  Richtlinie  (EU) 2016/798  ergehen  nachfolgende 
 
-3.1 Informationen über das Ereignis und seine Hintergründe
-Bei dem Ereignis handelt es sich im Sinne der Richtlinie (EU) 2016/798 um eine Kollision eines
-Zuges mit einem Hindernis innerhalb des Lichtraumprofils.
-Die BEU führt das Ereignis na onal unter der Ereignisart Zugkollision.
-Nachdem der verunglückte Lkw-Fahrer verstarb, wurde das Ereignis nachträglich als Fall
-gemäß Art. 20 Abs. 1 der Richtlinie (EU) 2016/798 eingestu .
-3.1.1 Lage und Beschreibung des Ereignisortes
-Der Unfall ereignete sich innerhalb des Bf München Nord Rbf am innerbetrieblichen GÜ 6. An
-dieser Stelle überquerte der Randweg Nordost das Gleis 261, das etwa 120 m östlich vom
-Gleisübergang von der Strecke 5560 abzweigte. Die zulässige Höchstgeschwindigkeit für
-Eisenbahnfahrzeuge betrug an dieser Stelle 60 km/h, für Straßenfahrzeuge waren im Bereich
-des GÜ 10 km/h zugelassen.
+Sicherheitsempfehlungen an die na(cid:415)onale Sicherheitsbehörde EBA. 
 
-Seite 7 von 34
+Lfd. 
 
-Untersuchungsbericht
-Zugkollision, 23.05.2020, München Nord Rbf
+Nr. 
 
-Abbildung 1: Lageplan Unfallstelle1
+Sicherheitsempfehlung 
 
-Abbildung 2: Georeferenziertes Orthofoto der Unfallstelle2
+02/2025 
 
-1
+03/2025 
 
-Quelle: Geobasisdaten: © GeoBasis-DE / BKG 2020, bearbeitet durch BEU
+Es wird empfohlen, dass das EIU die Planungs- und 
+Betriebsregeln für GÜ hinsichtlich ausreichender 
+Risikokontrolle gem. Verordnung (EU) 2018/762, 
+Anhang II, Kriterium 3.1.1 a), überprü(cid:332) und ggf. 
+verbessert, auch mit Wirkung auf bestehende GÜ. 
 
-2
+Es wird empfohlen, die Konzepte zur Überwachung 
+beau(cid:332)ragter Au(cid:332)ragnehmer gemäß Verordnung 
+(EU) 2018/762, Anhang II, Kriterium 5.3.3. a) und 
+6.1.1. a), in ihrer Wirksamkeit zu überprüfen, damit 
+die Kenntnis von Regeln mit Auswirkung auf die 
+Eisenbahnsicherheit durch deren Beschä(cid:332)igte 
+sichergestellt ist, unabhängig von den Regelungen 
+der Arbeitssicherheit. 
 
-Quelle: Geobasisdaten: © GeoBasis-DE / BKG 2020, bearbeitet durch BEU
+Betri(cid:335) Unternehmen 
 
-Seite 8 von 34
+Eisenbahninfrastruktur-
+unternehmen 
 
-Untersuchungsbericht
-Zugkollision, 23.05.2020, München Nord Rbf
+Eisenbahninfrastruktur-
+unternehmen 
 
-3.1.2 Beteiligte
-Am Ereignis waren folgende Stellen beteiligt:
-
+Seite 4 von 34 
 
-DB Netz AG als EIU (seit 01.01.2024 umbenannt in DB InfraGO AG),
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-
+Zugkollision, 23.05.2020, München Nord Rbf 
 
-RBH Logis cs GmbH als Eisenbahnverkehrsunternehmen (EVU),
+2  Die	Untersuchung	und	ihr	Kontext	
 
-
+Die  Bundesstelle  für  Eisenbahnunfalluntersuchung  (BEU)  ist  für  die  Untersuchung  von 
 
-Swietelsky AG als Teil der Arbeitsgemeinscha BG ZBA München, beau ragt für
-Baumaßnahmen in den Betriebsanlagen,
+gefährlichen 
 
-
+Ereignissen 
 
-Siegfried Penzenstadler GmbH, Betreiber des Lkw und Arbeitgeber des LkwFahrers, als Unterau ragnehmer der Swietelsky AG.
+im 
 
-3.1.3 Äußere Bedingungen
-Zum Zeitpunkt des Ereignisses herrschten folgende äußere Bedingungen:
-Lichtverhältnisse
+Eisenbahnbetrieb 
 
-Dunkelheit
+im 
 
-Sicht
+Sinne  des  Kapitels V  der 
 
-klar
+Richtlinie (EU) 2016/798  auf  Eisenbahninfrastrukturen  des  Bundes  und  auf  nicht 
 
-Bedeckung
+bundeseigenen  Eisenbahninfrastrukturen  des  übergeordneten  Netzes  gemäß  § 2b 
 
-Himmel nicht erkennbar
+Allgemeines Eisenbahngesetz (AEG) zuständig. 
 
-Temperaturen
+Ziel  und  Zweck  der  eingeleiteten  Untersuchungen  ist  es,  die  Ursachen  des  gefährlichen 
 
-ca. 15°C
+Ereignisses  aufzuklären  und  hieraus  Hinweise  zur  Verbesserung  der  Sicherheit  abzuleiten. 
 
-fallender Niederschlag
+Untersuchungen der BEU dienen nicht dazu, ein Verschulden festzustellen oder Fragen der 
 
-Nein
+Ha(cid:332)ung oder sons(cid:415)ger zivilrechtlicher Ansprüche zu klären und werden unabhängig von jeder 
 
-Niederschlagshäufigkeit
+gerichtlichen Untersuchung durchgeführt. 
 
---
+Sicherheitsempfehlungen  der  BEU  zur  Vermeidung  von  gefährlichen  Ereignissen  und 
 
-Untergrund / gefallener Niederschlag
+Verbesserung der Eisenbahnsicherheit werden an die na(cid:415)onale Sicherheitsbehörde, sofern es 
 
-trocken
+die Art der Empfehlung erfordert an die Eisenbahnagentur der Europäischen Union und an 
 
-Tabelle 2: Übersicht der äußeren Bedingungen
+andere Stellen oder Behörden adressiert. Im Allgemeinen sind die Sicherheitsempfehlungen 
 
-3.1.4 Todesopfer, Verletzte und Sachschäden
-Bei dem Ereignis traten folgend aufgeführte Personenschäden ein:
-Anzahl Tote
+auch  an  die  unmi(cid:425)elbar  bzw.  mi(cid:425)elbar  betroﬀenen  sowie  alle  einschlägigen 
 
-Anzahl schwer Verletzte
+Eisenbahnunternehmen gerichtet. 
 
-Anzahl leicht Verletzte
+Zu schweren Unfällen leitet die BEU stets Untersuchungen gem. Ar(cid:415)kel 20 Abs. 1 Richtlinie 
 
-Reisende
+(EU)  2016/798  ein.  Unter  einem  schweren  Unfall  sind  insbesondere  Zugkollisionen  oder 
 
--
+Zugentgleisungen mit mindestens einem Todesopfer oder mindestens fünf Schwerverletzten 
 
--
+oder  mit  beträchtlichem  Schaden  (≥ 2  Mio.  Euro)  sowie  sons(cid:415)ge  Unfälle  mit  den  gleichen 
 
--
+Folgen und mit oﬀensichtlichen Auswirkungen auf die Regelung der Eisenbahnsicherheit oder 
 
-Mitarbeiter
+das Sicherheitsmanagementsystem zu verstehen. Bei allen sons(cid:415)gen gefährlichen Ereignissen 
 
-1
+im  Eisenbahnbetrieb  liegt  es  im  Ermessen  der  BEU  Untersuchungen  einzuleiten.  Bei  der 
 
--
+Entscheidung  werden  neben  den  zum  Ereigniszeitpunkt  verfügbaren  Ressourcen  weitere 
 
--
+Kriterien gem. Ar(cid:415)kel 20 Abs. 2 Richtlinie (EU) 2016/798 herangezogen. 
 
-Benutzer von
-innerbetrieblichen
-Bahnübergängen
+Aufgrund  des  gegebenen  Schadensausmaßes  bzw.  der  Folgen  bei  dem  vorliegenden 
 
--
+gefährlichen Ereignis wurden Untersuchungen auf Grundlage des Ar(cid:415)kels 20 Abs. 1 Richtlinie 
 
--
+(EU) 2016/798 eingeleitet. 
 
--
+Die  Unfalluntersuchungshandlungen  werden  strukturiert  in  vier  deﬁnierten  Kernprozessen 
 
-Dri e
+durchgeführt, die mit der Entscheidung zur Aufnahme einer Untersuchung beginnen und mit 
 
--
+Seite 5 von 34 
 
--
+ 
+ 
+Untersuchungsbericht 
 
--
+Zugkollision, 23.05.2020, München Nord Rbf 
 
-Summe
+der  Veröﬀentlichung 
 
-1
+des  Untersuchungsberichtes 
 
-0
+abgeschlossen  werden. 
 
-0
+Zur 
 
-Tabelle 3: Übersicht der Personenschäden
+Ursachenermi(cid:425)lung  werden  ergebnisoﬀene  Untersuchungen 
 
-Seite 9 von 34
+in  allen  beteiligten 
 
-Untersuchungsbericht
-Zugkollision, 23.05.2020, München Nord Rbf
+Fachdisziplinen  angestellt  und  hierbei  insbesondere  Fehler-Ursachen-Analysen  und  Soll-Ist-
 
-Die geschätzte Höhe der Sachschäden in Euro setzt sich wie folgt zusammen:
-geschätzte Kosten in Euro
-Schienenfahrzeuge
+Vergleiche durchgeführt. 
 
-10.000
+Vom örtlich zuständigen Untersuchungsbezirk Südost wurden die Untersuchungshandlungen 
 
-Infrastruktur
+federführend geleitet. 
 
-113.000
+Sofern im Einzelfall geboten, werden die jeweiligen Untersuchungsteams bezirksübergreifend 
 
-Dri e (u.a. Straßenfahrzeug)
+unterstützt und notwendige Sachverständigenleistungen extern beau(cid:332)ragt. 
 
-40.000
+Neben den beteiligten Unternehmen wirkte an der Untersuchung folgende weitere Stelle mit: 
 
-Gesamtschadenshöhe
+  Verkehrspolizeiinspektion (VPI) München (Fahrtenschreiberdaten des Lkw) 
 
-163.000
+Die Durchführung der Unfalluntersuchung setzt voraus, dass alle an dem gefährlichen Ereignis 
 
-Tabelle 4: Übersicht der geschätzten Schadenshöhe
+Beteiligten  den  jeweiligen  Meldeverpﬂichtungen  gem.  § 2  Abs. 3  EUV  nachkommen.  Die 
 
-Die Elektrolokomo ve wurde an der in Fahrtrichtung linken Frontseite und der linken
-Seitenwand beschädigt, blieb aber fahrfähig.
-Der Lkw wurde durch die Kollision schwerst beschädigt.
-Die Elektrolokomo ve des Güterzuges kollidierte mit der rechten Fahrzeugseite des Lkw
-ungefähr zwischen Fahrerhaus und Kippmulde. Hierdurch wurde der Lkw mitgerissen und traf
-etwa mi g mit dem Fahrerhaus den Signalmast des Lichthauptsignals X2. Durch die
-einwirkenden Krä e wurden der Signalmast und das Fahrerhaus zerstört. Die nachfolgenden
-Abbildungen zeigen auch den beschädigten Lkw mit dem zerstörten Signalmast unter dem
-Fahrerhaus.
+relevanten Informa(cid:415)onen sind durch die zur Meldung Verpﬂichteten auf dem neuesten Stand 
 
-Seite 10 von 34
+zu halten. 
 
-Untersuchungsbericht
-Zugkollision, 23.05.2020, München Nord Rbf
+Auf Grundlage des § 5b AEG werden i. d. R. weitergehende zur Untersuchungsdurchführung 
 
-Abbildung 3: Beschädigte Lokomo ve3
+erforderliche  Informa(cid:415)onen,  Auskün(cid:332)e  und  Nachweise  abgefordert.  Diese  notwendigen 
 
-Abbildung 4: Beschädigter Lkw und zerstörtes Lichthauptsignal X24
+Zuarbeiten konnten mi(cid:425)els Auskun(cid:332)sersuchen gewonnen werden. 
 
-3
+Darüber hinaus können nach § 5b Abs. 4 AEG von den an gefährlichen Ereignissen beteiligten 
 
-Quelle: DB Netz AG, bearbeitet durch BEU
+Eisenbahnen  Unterstützungsleistungen  eingefordert  werden.  Bei  dem  vorliegenden 
 
-4
+gefährlichen Ereignis wurden folgende Unterstützungsleistungen eingefordert: 
 
-Quelle: DB Netz AG, bearbeitet durch BEU
+  Auslesung der elektronischen Fahrtenregistrierung (EFR) des führenden 
 
-Seite 11 von 34
+Eisenbahnfahrzeugs 
 
-Untersuchungsbericht
-Zugkollision, 23.05.2020, München Nord Rbf
+Die infrastruktursei(cid:415)ge Freigabe der Unfallstelle erfolgte durch die BEU am 24.05.2020. 
 
-3.2 Sachliche Beschreibung der Vorkommnisse
-Zur
+Seite 6 von 34 
 
-Rekonstruk on
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-des
+Zugkollision, 23.05.2020, München Nord Rbf 
 
-gefährlichen
+3  Beschreibung	des	Ereignisses	
 
-Ereignisses
+Im  dri(cid:425)en  Kapitel  wird  das  gefährliche  Ereignis  in  zwei  vorgegebenen  Unterkapiteln  näher 
 
-sowie
+beschrieben.  In  Kapitel  3.1  sind  neben  den  Grunddaten  weitere  Informa(cid:415)onen  zum 
 
-zur
+Ereignisort,  den  äußeren  Bedingungen,  den  Beteiligten  und  den  Folgen  enthalten.  Die 
 
-Beschreibung
+Ereignisrekonstruk(cid:415)on  sowie 
 
-der
+Informa(cid:415)onen  zur  Auslösung  und  dem  Ablauf  der 
 
-No allmaßnahmen werden insbesondere auch die in Kapitel 4 enthaltenen Aufzeichnungen,
-Auswertungen und Feststellungen etc. herangezogen.
-3.2.1 Hergangsbeschreibung
-Am 23.05.2020 gegen 22:19 Uhr befuhr ein vierachsiger Lkw der Penzenstadler GmbH den
-innerbetrieblichen GÜ 6 in München Nord Rbf von Ost nach West. Seine Fahrgeschwindigkeit
-lag bei 17 km/h. Es erfolgte kein Halt vor dem GÜ. Gleichzei g näherte sich der Zug DGS 50214
-des EVU RBH Logis cs GmbH auf der Fahrt von München Ost Rbf nach Meimersdorf ebenfalls
-in Fahrtrichtung von Ost nach West mit ca. 50 km/h. Auf dem GÜ kam es zur Kollision, wobei
-das führende Triebfahrzeug (Tfz) des Zuges den Lkw auf der rechten Fahrzeugseite knapp
-hinter dem Führerhaus erfasste und etwa 25 m mitschlei e. Der Lkw riss dabei das
-Lichthauptsignal X2 aus der Verankerung.
-3.2.2 Notfallmanagement
-Nach § 4 Abs. 3 AEG haben die Eisenbahnen die Verpflichtung, an Maßnahmen des
-Brandschutzes und der technischen Hilfeleistung mitzuwirken. Die Innenministerien der
-Länder und die DB AG haben sich auf folgende Verfahrensweise verständigt. Für die DB Netz
-AG gelten die entsprechenden Brand- und Katastrophenschutzgesetze der Länder. Das
-No allmanagement der DB AG ist in der Konzernrichtlinie 123, das der DB Netz AG in der
-Richtlinie (Ril) 423 näher beschrieben und geregelt.
-Um 22:23 Uhr erhielt die No all-Leitstelle (NFLS) der Betriebszentrale (BZ) München der DB
-Netz AG vom Fahrdienstleiter (Fdl) München Nord Rbf Kenntnis über das Ereignis. Der Aufruf
-der Re ungske e und die Alarmierung des No allmanagers (Nmg) sowie der Bundespolizei
-erfolgten umgehend. Um 23:54 Uhr war der Nmg vor Ort und informierte die NFLS über den
-Sachstand. Ferner veranlasste der Nmg die Sofortmeldung an die BEU, die um 23:58 Uhr
-erfolgte.
-Unregelmäßigkeiten oder Verzögerungen in Bezug auf das Einleiten von Re ungsmaßnahmen
-wurden der BEU im Rahmen der Unfalluntersuchung nicht bekannt.
+Re(cid:425)ungsmaßnahmen  sind  im  Kapitel  3.2  dargestellt.  Die  Beschreibungen  beziehen  sich 
 
-Seite 12 von 34
+grundsätzlich  auf  die 
 
-Untersuchungsbericht
-Zugkollision, 23.05.2020, München Nord Rbf
+zum  Ereigniszeitpunkt  vorherrschenden  Bedingungen  und 
 
-4 Auswertung des Ereignisses
-In diesem Kapitel werden insbesondere die im Rahmen der Unfalluntersuchung ermi elten
-maßgeblichen sicherheitskri schen Faktoren dargestellt. Hierbei wird im jeweiligen Einzelfall
-auf die Aufgaben und Pflichten einzelner Personen und Stellen, auf beteiligte Fahrzeuge und
-technische Einrichtungen genauso eingegangen wie auf konkrete menschliche Handlungen
-sowie auf Feedback- und Kontrollmechanismen. Sofern Informa onen zu früheren Ereignissen
-vorliegen, werden diese in einem weiteren Unterkapitel dargestellt.
+vorgefundenen Sachverhalte. 
 
-4.1 Aufgaben und Pflichten
-In diesem Kapitel werden unbeschadet des Ar kels 20 Abs. 4 der Richtlinie (EU) 2016/798 die
-Aufgaben und Pflichten von Personen und Stellen behandelt, die an dem Ereignis beteiligt
-waren. Untersuchungen zu Schuld- oder Ha ungsfragen sind explizit ausgeschlossen und nicht
-Untersuchungsgegenstand.
-4.1.1 EIU DB Netz AG
-Das EIU DB Netz AG war verantwortlich für die Bereitstellung und den Betrieb der Infrastruktur
-im Bf München Nord Rbf, bestehend aus den Gleisanlagen und den innerbetrieblichen
-Straßen. Für das EIU lag eine Sicherheitsgenehmigung gemäß § 7c AEG des EisenbahnBundesamts (EBA) mit Gül gkeit bis 19.10.2021 vor. Dem EIU oblag es gemäß § 4 Abs. 3 AEG,
-den Betrieb sicher zu führen. Dies schließt auch die Gewährleistung der Sicherheit auf dem
-Betriebsgelände ein. Zur Erfüllung der gesetzlichen Anforderung an einen sicheren
-Eisenbahnbetrieb dienten die Prozesse und Verfahren eines für die Erteilung einer
-Sicherheitsgenehmigung einzurichtenden Sicherheitsmanagementsystems (SMS), zum
-Zeitpunkt des Ereignisses gemäß den Anforderungskriterien der Verordnung (EU) Nr.
-1169/2010, Anhang II.
-Das Ereignis geschah im Kontext von Baumaßnahmen auf dem Gelände des Rbf. Diese wurden
-von durch das EIU beau ragten Bauunternehmen ausgeführt. Nach den vertraglichen
-Vereinbarungen mit den Au ragnehmenden dur en diese weitere Unterau ragnehmer
-einbeziehen. Anhand der Betriebs- und Bauanweisungen (Betra) F 725117 20 und F 725118 20
-ha e das EIU für die Sicherheit dieses Einzelfalls Regelungen erlassen, welche für alle
-Beteiligten zu beachten waren. Zur Durchführung der Baumaßnahme waren auch
-Logis kfahrten mit Straßenfahrzeugen über den GÜ 6 erforderlich.
+3.1  Informationen	über	das	Ereignis	und	seine	Hintergründe	
 
-Seite 13 von 34
+Bei dem Ereignis handelt es sich im Sinne der Richtlinie (EU) 2016/798 um eine Kollision eines 
 
-Untersuchungsbericht
-Zugkollision, 23.05.2020, München Nord Rbf
+Zuges mit einem Hindernis innerhalb des Lichtraumproﬁls. 
 
-Das EIU traf auch Regelungen hinsichtlich der Benutzung der innerbetrieblichen GÜ, die in
-einem „Merkbla zur Benutzung der innerbetrieblichen Gleisübergänge im Bf München Nord
-Rbf“ zusammengefasst wurden. Auch legte das EIU fest, dass nur entsprechend unterwiesene
-Beschä igte das Gelände des Rbf befahren dur en.
-Die in dem Merkbla festgelegten Regelungen sahen vor, dass Fahrzeuge grundsätzlich vor
-einem GÜ anhalten müssen. Bei mit einer weißen Nummerntafel gekennzeichneten GÜ
-dur en Fahrzeugführende, nachdem sie sich vergewissert ha en, dass sich keine
-Eisenbahnfahrzeuge nähern, eigenständig weiterfahren. Bei mit einer roten Nummerntafel
-gekennzeichneten GÜ ha en sich Fahrzeugführende mit dem Fdl in Verbindung zu setzen, um
-erst nach dessen Zus mmung weiterzufahren. Das Merkbla und ein Hinweisschild an der
-Zufahrt zum Rbf sahen vor, dass die Regeln der Straßenverkehrsordnung (StVO) auf dem
-Gelände gelten sollen.
-Gemäß der zum Ereigniszeitpunkt gül gen Verordnung (EU) Nr. 1169/2010 „über eine
-gemeinsame Sicherheitsmethode für die Konformitätsbewertung in Bezug auf die
-Anforderungen an die Erteilung von Eisenbahnsicherheitsgenehmigungen“, Anhang II war
-auch die Delega on von Pflichten ein Aspekt der Sicherheitsorganisa on des EIU. Hiernach
-waren die Zuständigkeiten und Aufgaben im Zusammenhang mit der Eisenbahnsicherheit klar
-festzulegen, bekannt zu machen und zwischen den Vertragspartnern und allen sons gen
-Beteiligten aufzuteilen (Kapitel C.3), sowie sicherzustellen, dass Sicherheitsaufgaben, auch der
-Austausch sicherheitsrelevanter Informa onen, von den Au ragnehmern bzw. Zulieferern
-entsprechend den einschlägigen, vertraglich festgelegten Anforderungen ausgeführt werden
-(Kapitel C.5).
-Um auf dem Gelände des Rbf tä gen Externen, wie in diesem Fall die Swietelsky AG, mit den
-zu beachtenden Besonderheiten vertraut zu machen, wurden die Arbeitsverantwortlichen der
-Unternehmen durch den zuständigen Bezirksleiter Betrieb der DB Netz AG unterwiesen.
-Die hierbei vermi elten Informa onen des Merkbla es wurden dann wiederum Bestandteil
-eigener Unterweisungen, die den Unternehmen vor Beginn der Arbeiten mit ihren
-Mitarbeitenden im Rahmen des gesetzlichen Arbeitsschutzes oblag. Soweit sie
-Unterau ragnehmer einsetzten, waren deren Mitarbeitende wie eigene Krä e zu
-unterweisen.
+Die BEU führt das Ereignis na(cid:415)onal unter der Ereignisart Zugkollision. 
 
-Seite 14 von 34
+Nachdem  der  verunglückte  Lkw-Fahrer  verstarb,  wurde  das  Ereignis  nachträglich  als  Fall 
 
-Untersuchungsbericht
-Zugkollision, 23.05.2020, München Nord Rbf
+gemäß Art. 20 Abs. 1 der Richtlinie (EU) 2016/798 eingestu(cid:332). 
 
-Zur Verantwortung des EIU zählte in Bezug auf das Ereignis ferner die Zulassung der Zugfahrt
-DGS 50214 über das Gleis 261 durch den Fdl München Nord Rbf.
-4.1.2 EVU RHB Logistics GmbH
-Die RHB Logis cs GmbH war das verantwortliche EVU für die Durchführung der Zugfahrt
-DGS 50214, die durch einen Tf des EVU geführt wurde. Das EVU verfügte über eine
-Sicherheitsbescheinigung gemäß § 7a AEG mit einer Gül gkeit bis zum 09.04.2023 und war
-damit zur Teilnahme am Eisenbahnbetrieb berech gt.
-4.1.3 Swietelsky AG als Auftrag nehmendes Bauunternehmen
-Die Swietelsky AG war Au ragnehmer des EIU und sollte Bauarbeiten ausführen.
-Verantwortliche waren dazu vom EIU unterwiesen worden. Damit oblag der Swietelsky AG die
-eigenständige Unterweisung der auf dem Gelände des Rbf eingesetzten Beschä igten. Zu den
-zu unterweisenden Beschä igten gehörte einerseits das eigene Personal, andererseits auch
-das Personal der von Swietelsky AG beau ragten Unterau ragnehmer wie der Penzenstadler
-GmbH.
-Zu den zu vermi elnden Informa onen gehörte u. a. auch die Unterweisung in die zu
-beachtenden verkehrlichen Regelungen an den GÜ.
-Die durchgeführten Unterweisungen wurden auf Unterschri enlisten mit Namen, Arbeitgeber
-und Unterschri
+3.1.1  Lage	und	Beschreibung	des	Ereignisortes	
 
-der unterwiesenen Personen, mitunter ergänzt um das Datum,
+Der Unfall ereignete sich innerhalb des Bf München Nord Rbf am innerbetrieblichen GÜ 6. An 
 
-dokumen ert.
-4.1.4 Penzenstadler GmbH als Unterauftragnehmer und Arbeitgeber
-Die Penzenstadler GmbH war als Unterau ragnehmer der Swietelsky AG verantwortlich für
-das Durchführen der Transportleistungen mit Lkw und teilte dazu die eigenen Fahrer für die
-Fahrten auf dem Gelände des Rbf ein.
-Hierzu war gemäß den Vorgaben des EIU, u. a. gemäß Merkbla , weiterhin sicherzustellen,
-dass im Rbf nur Fahrer eingesetzt wurden, die durch die Swietelsky AG auch in den zu
-beachtenden Regelungen unterwiesen waren.
-Gemäß § 3 ArbSchG oblag der Penzenstadler GmbH als Arbeitgeber eine Grundpflicht, die
-erforderlichen Maßnahmen des Arbeitsschutzes unter Berücksich gung der Umstände zu
-treﬀen, die Sicherheit und Gesundheit der Beschä igten bei der Arbeit beeinflussen. Aufgrund
-der Tä gkeit der Beschä igten der Penzenstadler GmbH in der Betriebsanlage der DB Netz AG
+dieser  Stelle  überquerte  der  Randweg  Nordost  das  Gleis 261,  das  etwa  120 m  östlich  vom 
 
-Seite 15 von 34
+Gleisübergang  von  der  Strecke  5560  abzweigte.  Die  zulässige  Höchstgeschwindigkeit  für 
 
-Untersuchungsbericht
-Zugkollision, 23.05.2020, München Nord Rbf
+Eisenbahnfahrzeuge betrug an dieser Stelle 60 km/h, für Straßenfahrzeuge waren im Bereich 
 
-und in Beau ragung durch Swietelsky AG kam der Pflicht zur Zusammenarbeit mehrerer
-Arbeitgeber gemäß § 8 ArbSchG entsprechende Bedeutung zu. Die vom EIU ausgegebenen
-Regelungen waren für Penzenstadler GmbH hinsichtlich der Pflicht zur Unterweisung gem.
-§ 12 ArbSchG relevant, damit der Fahrer einen GÜ sicher überqueren konnte.
+des GÜ 10 km/h zugelassen. 
 
-4.2 Fahrzeuge und technische Einrichtungen
-In diesem Kapitel sind die Erkenntnisse aus der Untersuchung beteiligter Fahrzeuge, der
-Eisenbahninfrastruktur und weiterer technischer Einrichtungen einschließlich damit eventuell
-verbundener Tä gkeiten und Entscheidungen dargestellt.
-4.2.1 Beteiligte Fahrzeuge
-Der Güterzug DGS 50214 des EVU RBH Logis cs GmbH bestand aus der führenden
-Elektrolokomo ve 91 80 6152 149-1 D-DB und 16 Güterwagen mit gesamt 100 Achsen und
-567 m Länge. Das Gesamtgewicht des Zuges betrug 1.384 t, das Bremsgewicht 1.245 t.
-Aus der folgenden Tabelle lassen sich die technischen Fahrzeugdaten der führenden
-Elektrolokomo ve entnehmen:
-Antriebsart
+Seite 7 von 34 
 
-elektrisch, 15 kV / 16,7 Hz Wechselstrom
+ 
+ 
+Untersuchungsbericht 
 
-Kra übertragung
+Zugkollision, 23.05.2020, München Nord Rbf 
 
-Elektrisch
+Abbildung 1: Lageplan Unfallstelle1 
 
-Leistung
+Abbildung 2: Georeferenziertes Orthofoto der Unfallstelle2 
 
-6.400 kW
+1 Quelle: Geobasisdaten: © GeoBasis-DE / BKG 2020, bearbeitet durch BEU 
 
-Gesamtlänge (LüP)
+2 Quelle: Geobasisdaten: © GeoBasis-DE / BKG 2020, bearbeitet durch BEU 
 
-19.580 mm
+Seite 8 von 34 
 
-Masse
+ 
+ 
+ 
+ 
+ 
+ 
+                                                       
+Untersuchungsbericht 
 
-86,7 t
+Zugkollision, 23.05.2020, München Nord Rbf 
 
-Höchstgeschwindigkeit
+3.1.2  Beteiligte	
 
-140 km/h
+Am Ereignis waren folgende Stellen beteiligt: 
 
-Radsatzfolge
+  DB Netz AG als EIU (seit 01.01.2024 umbenannt in DB InfraGO AG), 
 
-Bo‘ Bo‘
+  RBH Logis(cid:415)cs GmbH als Eisenbahnverkehrsunternehmen (EVU), 
 
-Zugsicherungssystem
+  Swietelsky AG als Teil der Arbeitsgemeinscha(cid:332) BG ZBA München, beau(cid:332)ragt für 
 
-LZB, PZB
+Baumaßnahmen in den Betriebsanlagen, 
 
-Tabelle 5: Technische Daten Tfz 91 80 6152 149-1 D-DB
+  Siegfried  Penzenstadler  GmbH,  Betreiber  des  Lkw  und  Arbeitgeber  des  Lkw-
 
-Die Elektrolokomo ve wurde an der in Fahrtrichtung linken Frontseite und der linken
-Seitenwand beschädigt, blieb aber fahrfähig.
-Die technischen Daten des verunglückten Lkw können der nachfolgenden Tabelle entnommen
-werden:
+Fahrers, als Unterau(cid:332)ragnehmer der Swietelsky AG. 
 
-Seite 16 von 34
+3.1.3  Äußere	Bedingungen	
 
-Untersuchungsbericht
-Zugkollision, 23.05.2020, München Nord Rbf
+Zum Zeitpunkt des Ereignisses herrschten folgende äußere Bedingungen: 
 
-Fahrzeugart
+Lichtverhältnisse 
 
-Solo-Lkw
+Sicht 
 
-bestehend aus
+Bedeckung 
 
-Muldenkipper, vierachsig
-Hersteller Mercedes-Benz, Modell Actros
+Temperaturen  
 
-Tabelle 6: Technische Daten Muldenkipper-Lkw
+fallender Niederschlag 
 
-Der Lkw wurde auf der rechten Fahrzeugseite zwischen Führerhaus und Kippmulde von der
-Elektrolokomo ve getroﬀen und schwer beschädigt mitgeschlei . Dabei traf der Lkw etwa
-mi g mit der Führerhausfront den Signalmast des Lichthauptsignals X2 und wurde dabei
-weiter schwer beschädigt.
-Anzeichen für etwaige technische Mängel an den beteiligten Fahrzeugen ergaben sich nicht,
-so dass auf eine weitergehende Untersuchung der Fahrzeuge verzichtet werden konnte.
-4.2.2 Bauliche Infrastruktur
-Das Gleis bestand im Bereich des GÜ 6 aus einem Holzschwellenoberbau der Bauform Ks in
-Scho erbe ung. Es war mit Oberleitung 15 kV / 16,7 Hz elektrifiziert.
-Der kreuzende Randweg Nordost war in Asphaltbauweise ohne Randeinfassungen befes gt.
-Er war mit einem Fahrbahnübergang der Bauart „Lindau“ (Asphaltbelag mit Beischienen)
-ausgesta et. Der Weg verlief in Fahrtrichtung des Lkw zunächst annähernd parallel und links
-zum Gleis, um dieses am GÜ in einer engen S-Kurve zu queren und auf dessen rechter Seite
-dem weiteren Verlauf parallel zu folgen.
+Niederschlagshäuﬁgkeit 
 
-Abbildung 5: Übersicht GÜ 65
+Dunkelheit 
 
-5
+klar 
 
-Quelle: Geobasisdaten: © GeoBasis-DE / BKG 2024, bearbeitet durch BEU
+Himmel nicht erkennbar 
 
-Seite 17 von 34
+ca. 15°C 
 
-Untersuchungsbericht
-Zugkollision, 23.05.2020, München Nord Rbf
+Nein 
 
-Der GÜ 6 war nicht technisch, sondern durch Übersicht gesichert. Durch den parallelen Verlauf
-von Randweg Nordost und Gleis war für Kra fahrer beider Fahrtrichtungen die Sicht auf sich
-parallel nähernde Eisenbahnfahrzeuge eingeschränkt. Durch jeweils einen aufgestellten
-Verkehrsspiegel in Fahrtrichtung links des Straßenfahrzeugs sollte die parallele Annäherung
-eines Eisenbahnfahrzeugs durch den Führer eines Straßenfahrzeugs beobachtet werden
-können.
-Der GÜ war beidsei g mit Verkehrszeichen (Vz.) 201 (Andreaskreuz) versehen, das
-Schienenfahrzeugen Vorrang gewährte. Auch dieses sollte Straßenfahrzeugführende dazu
-sensibilisieren, dass dem Schienenverkehr auch auf dem Betriebsgelände Vorrang vor dem
-Straßenverkehr beigemessen wurde. Am Andreaskreuz war zudem ein Vz. 274-10 angebracht,
-das die Geschwindigkeit am GÜ auf 10 km/h beschränkte. Dieses Schild befand sich in einem
-verwi erten Zustand ohne Reflexionswirkung. Für ein in der Fahrtrichtung des verunglückten
-Lkw in Höhe des Andreaskreuzes vor dem GÜ haltendes Straßenfahrzeug (Sehpunkt) befand
-sich ein in Fahrtrichtung des beteiligten Güterzugs näherndes Eisenbahnfahrzeug in 325 m
-En ernung (Sichtpunkt) und dabei in 180° Sichtwinkel hinter dem Fahrzeug. Zudem befand
-sich das annähernde Schienenfahrzeug in diesem Bereich in einem Gleisbogen, der die
-zusätzliche Abwendung der Abstrahlrichtung des Spitzensignals vom straßensei gen Benutzer
-des GÜ bewirkte.
+-- 
 
-Abbildung 6: Übersicht Sicht Lkw am GÜ 6 auf sich nähernden Güterzug6
+Untergrund / gefallener Niederschlag  
 
-Es wurde bei der Untersuchung festgestellt, dass für Kra fahrer in dieser Begegnungssitua on
-das Eisenbahnfahrzeug in dieser En ernung nicht wahrzunehmen war. Erst ab Höhe der
-Weiche 750, also im Abstand von ca. 90 m zum GÜ 6, konnte ein Schienenfahrzeug über den
+trocken 
 
-6
+Tabelle 2: Übersicht der äußeren Bedingungen 
 
-Quelle: Geobasisdaten: © GeoBasis-DE / BKG 2024, bearbeitet durch BEU
+3.1.4  Todesopfer,	Verletzte	und	Sachschäden	
 
-Seite 18 von 34
+Bei dem Ereignis traten folgend aufgeführte Personenschäden ein: 
 
-Untersuchungsbericht
-Zugkollision, 23.05.2020, München Nord Rbf
+Anzahl Tote 
 
-rechten Außenspiegel eines Straßenfahrzeugs und mit Schulterblick des Kra fahrers
-wahrgenommen werden.
-Es konnte ferner nicht ermi elt werden, ob bei einem großen Straßenfahrzeug, wie dem
-verunglückten Lkw, der aufgestellte Verkehrsspiegel eine sichere und rechtzei ge
-Wahrnehmung eines sich nähernden Eisenbahnfahrzeugs unterstützen konnte.
-Der GÜ 6 war mit einer weißen Nummerntafel gekennzeichnet. An den so markierten GÜ
-dur en Fahrzeugführende gemäß den vom EIU aufgestellten Regelungen nach Prüfung, dass
-sich keine Schienenfahrzeuge nähern, den GÜ 6 queren ohne dass ein Halt erforderlich wäre.
-Die Nummerntafel befand sich am selben Mast wie das Andreaskreuz und wurde von diesem
-weitreichend verdeckt.
+Anzahl schwer Verletzte  Anzahl leicht Verletzte 
 
-Abbildung 7: Ansicht GÜ 6 mit Beschilderung und Verkehrsspiegel
+Reisende 
 
-Gemäß
+Mitarbeiter 
 
-den
+Benutzer von 
+innerbetrieblichen 
+Bahnübergängen 
 
-genannten
+Dri(cid:425)e 
 
-Feststellungen
+Summe 
 
-zur
+- 
 
-gegebenen
+1 
 
-Topologie
+- 
 
-und
+- 
 
-zu
+1 
 
-den
+Tabelle 3: Übersicht der Personenschäden 
 
-Betriebsgegebenheiten des GÜ 6 war festzustellen, dass Führende von Straßenfahrzeugen die
-Annäherung von Schienenfahrzeugen mit einer zulässigen Höchstgeschwindigkeit von bis zu
-60 km/h nicht derart frühzei g beobachten konnten, dass ein konflik reies Befahren und
+- 
 
-Seite 19 von 34
+- 
 
-Untersuchungsbericht
-Zugkollision, 23.05.2020, München Nord Rbf
+- 
 
-rechtzei ges Räumen des GÜ 6 selbst bei größter Vorsicht und Beachtung aller örtlichen
-Gebote durch sie sichergestellt gewesen wäre. Auch war eine Unterstützung der Übersicht
-durch den Verkehrsspiegel nicht gegeben, wenn sich große Straßenfahrzeuge innerhalb der
-über den Spiegel aufgespannten Sichtbeziehung befanden. Der vorgefundene Umstand nicht
-sicherheitswirksamer Sichtverhältnisse wird daher als ein ursächlicher Faktor [F1] für das
-Ereignis eingeordnet. Auch lösten die vom EIU aufgestellten Regelungen, dass
-Straßenfahrzeuge vor dem Befahren des GÜ grundsätzlich anzuhalten ha en und alle
-Fahrzeugführenden hierzu zu unterweisen waren, dieses Defizit bei der Benutzung des GÜ 6
-nicht.
-Vom EIU angeforderte Sich lächenberechnungen konnten unter Verweis, dass diese nach
-Regelwerk nicht vorgesehen seien, zunächst nicht vorgelegt werden. Die BEU forderte das EIU
-darau in auf, eine Berechnung der Sich lächen durchzuführen. Nach Aussage des EIU wären
-nach nunmehr durchgeführter Berechnung die erforderlichen Sich lächen gegeben. Die
-angewendete Berechnungsmethode basierte jedoch auf den Regeln, welche für annähernd
-rechtwinklige Kreuzungen von Gleis und Straße bewährt waren. Diese Grundlagen sind im
-vorliegenden Fall der annähernden Parallelführung von Randweg und Gleis sowie dessen
-vorausgehender
+- 
 
-Bogenlage
+0 
 
-nicht
+- 
 
-übertragbar.
+- 
 
-Eine
+- 
 
-plausible
+- 
 
-Darlegung,
+0 
 
-dass
+Seite 9 von 34 
 
-Fahrzeugführende vom Straßenfahrzeug aus sich nähernde Eisenbahnfahrzeuge unter diesen
-Umständen rechtzei g wahrnehmen konnten, wurde nicht erbracht. Auch blieb die Funk on
-des aufgestellten Verkehrsspiegels unbes mmt. Ebenso blieb oﬀen, welchem Schutzziel die
-durch Vz. 274-10 ausgegebene Beschränkung der zulässigen Höchstgeschwindigkeit auf
-10 km/h für die Benutzer des GÜ 6 diente und wie dies in den Betriebsgegebenheiten des GÜ
-berücksich gt war, da es den Mindest-Zeitbedarf bis zum vollständigen Räumen des
-Gefahrenbereichs durch ein Straßenfahrzeug beeinflusste.
-Nach den zum Ereigniszeitpunkt für das EIU geltenden Anforderungen gemäß Verordnung
-(EU) Nr. 1169/2010, Anhang II, sollen Verfahren zur Ermi lung von Risiken im Zusammenhang
-mit dem Eisenbahnbetrieb, auch von Risiken, die sich direkt aus den Arbeitstä gkeiten, der
-Art des Arbeitsplatzes, der Arbeitsbelastung und den Tä gkeiten anderer Organisa onen bzw.
-Personen ergeben, bestehen (Kriterium A.1). Neben der Risikoermi lung sind auch Verfahren
-zur Entwicklung und Einführung von Risikokontrollmaßnahmen gefordert (Kriterium A.2).
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Seite 20 von 34
+Zugkollision, 23.05.2020, München Nord Rbf 
 
-Untersuchungsbericht
-Zugkollision, 23.05.2020, München Nord Rbf
+Die geschätzte Höhe der Sachschäden in Euro setzt sich wie folgt zusammen: 
 
-Der Umstand, dass zur Topologie und den nicht widerspruchsfreien Betriebsbedingungen des
-GÜ 6 eine Risikoermi lung und Risikokontrolle anhand plausibler Planungs- und
-Gestaltungsregeln nicht dargelegt werden konnte, wird als systemischer Faktor gewertet [S1].
-Sons ge bauliche Mängel an der Infrastruktur, die für das Unfallgeschehen von ursächlichem
-oder begüns gendem Einfluss gewesen sein könnten, wurden nicht festgestellt.
-4.2.3 Leit‐ und Sicherungstechnik
-Der Eisenbahnbetrieb im Bereich der Unfallstelle wurde vom elektronischen Stellwerk (ESTW)
-München Nord Rbf geführt. Die Zugsicherung erfolgte mi els punk örmiger Zugbeeinflussung
-(PZB), die Kommunika on mi els digitalem Zugfunk Global System for Mobile
-Communica ons – Rail (GSM-R). Hinweise auf etwaige Störungen an den Anlagen ergaben sich
-im Rahmen der Untersuchung nicht.
-Der GÜ 6 war nicht technisch gesichert und entsprechend nicht in die Sicherungstechnik der
-Betriebsstelle eingebunden.
+geschätzte Kosten in Euro 
 
-4.3 Menschliche Faktoren
-In diesem Kapitel werden Untersuchungserkenntnisse zu menschlichen Handlungen und/oder
-Entscheidungen am gefährlichen Ereignis beteiligter Personen dargestellt. Entsprechende
-Erkenntnisse können sich hierbei insbesondere im Bereich menschlicher und individueller
-Merkmale sowie organisatorischer und Arbeitsplatzfaktoren ergeben.
-4.3.1 Untersuchung im Bereich des EIU
-Verantwortlich für den sicheren Betrieb ist die Eisenbahn. Soweit sich die Eisenbahnen zur
-Erfüllung ihrer Verantwortung handelnder Personen bedienen, werden diese hier als
-Funk onen dargestellt. Die handelnden Funk onen haben die vom Unternehmer zur
-Verfügung gestellten Mi el und Ressourcen, um die ihnen übertragenen Aufgaben zu erfüllen.
-Vor diesem Hintergrund müssen die folgenden Funk onen betrachtet werden, wobei die
-Ausgestaltung der Verantwortlichkeiten der einzelnen Funk onen grundsätzlich der
-unternehmensinternen Festlegung folgt.
-Fdl München Nord Rbf
-Für die Steuerung der eisenbahnbetrieblichen Abläufe auf den Schienenwegen im Rbf war
-seitens des EIU der Fdl München Nord Rbf zuständig. Hierzu gehörte auch, den Fahrweg für
+Schienenfahrzeuge 
 
-Seite 21 von 34
+Infrastruktur 
 
-Untersuchungsbericht
-Zugkollision, 23.05.2020, München Nord Rbf
+Dri(cid:425)e (u.a. Straßenfahrzeug) 
 
-den Güterzug DGS 50214 einzustellen und die Fahrt zuzulassen. Hinweise auf Fehler oder
-Unregelmäßigkeiten bei diesen Tä gkeiten ergaben sich nicht.
-Der Fdl ha e keinen Einfluss und auch keine Sicht auf die Geschehnisse am GÜ 6. Er konnte
-folglich weder die drohende Kollision erkennen noch diese abwenden. Auf eine ausführlichere
-Untersuchung der Handlungen und Qualifika on des Fdl konnte daher verzichtet werden.
-Vom EIU beau ragte, in den Betriebsanlagen beschä igte Externe
-Das EIU beau ragte Unternehmen mit der Durchführung von Bauarbeiten auf dem
-Betriebsgelände, wo u. a. die spezifischen Gefahren des Eisenbahnbetriebs herrschen und sich
-im Ereignis auch realisierten. Das EIU erlaubte auch den Einsatz von Unterau ragnehmern.
-Organisatorisch war seitens des EIU nicht sichergestellt, dass der Einsatz von Personalen
-entsprechender Unterau ragnehmer auf dem Betriebsgelände nur mit einschlägiger
-Unterweisung in die Betriebsanlagen sichergestellt war. Für Straßenfahrzeugführer, wie dem
-verunfallten Fahrer des Lkw konnten die an der Zufahrt und an den GÜ auﬃndbaren
-Aussta ungen wie Vz. gemäß StVO und Verkehrsspiegel den Eindruck erwecken, dass bei
-sorgfäl gem Transfer der bekannten Verhaltensweisen an öﬀentlichen Bahnübergängen und
-Beachtung der einschlägigen Vorgaben am GÜ 6 ein sicheres Benutzen möglich war.
-4.3.2 Untersuchung im Bereich des EVU
-Der Tf war im Besitz eines gül gen Triebfahrzeugführerscheins und der erforderlichen
-Zusatzqualifika onen, um den Zug führen zu dürfen.
-Die Sicherheitseinrichtungen des führenden Tfz waren zum Zeitpunkt des Ereignisses
-funk onstüch g. Hinweise auf etwaige Störungen ergaben sich im Rahmen der Untersuchung
-nicht.
-Die Auswertung der EFR-Daten ergab, dass der Zug im Bereich des GÜ 6 mit 50 km/h fuhr. Die
-in diesem Bereich zulässige Geschwindigkeit von 60 km/h wurde somit eingehalten. Hinweise
-auf etwaige Fehler oder Unregelmäßigkeiten bei der Durchführung der Zugfahrt ergaben sich
-im Rahmen der Untersuchung nicht.
-4.3.3 Untersuchung im Bereich der Auftragnehmer und des Fahrers des Lkw
-Mit den Bauarbeiten auf dem Gelände des Rbf war die Arbeitsgemeinscha BG ZBA München,
-bestehend aus Swietelsky AG und Bahnbau Wels GmbH beau ragt. Diese setzte die
-Penzenstadler GmbH als Unterau ragnehmer für Transportleistungen ein.
+Gesamtschadenshöhe 
 
-Seite 22 von 34
+Tabelle 4: Übersicht der geschätzten Schadenshöhe 
 
-Untersuchungsbericht
-Zugkollision, 23.05.2020, München Nord Rbf
+10.000 
 
-Zu den im Rahmen der Arbeiten zu beachtenden Regeln gehörten u. a. auch die Vorgaben des
-EIU zur Benutzung der innerbetrieblichen Wege des Rbf einschließlich der GÜ. Diese waren
-von der Arbeitsgemeinscha im Rahmen einer Unterweisung allen beteiligten Beschä igten
-zu vermi eln. Die Unterweisung war mit Unterschri enliste nachzuweisen.
-Die Swietelsky AG führte derar ge Unterweisungen durch, an denen auch Fahrer der
-Penzenstadler GmbH teilnahmen.
-Für die Einsatzplanung der erforderlichen Lkw und des zugehörigen Fahrpersonals war die
-Penzenstadler GmbH verantwortlich. Als Subunternehmer trafen die Penzenstadler GmbH die
-Pflichten aus § 12 ArbSchG. So war u. a. sicherzustellen, dass Einsatzplanung und
-Unterweisungen den spezifischen Arbeitsbedingungen entsprachen.
-Der verunfallte Fahrer wurde für diese Fahrten eingeteilt, um eine Lenkzeitüberschreitung
-eines anderen Fahrers zu vermeiden. Hierbei war vom Unternehmen zu berücksich gen, dass
-es nur für die Baustelle unterwiesene Fahrzeugführende einsetzte. Inwieweit die
-Penzenstadler GmbH von dem Erfordernis der Unterweisung in die Regelungen der
-innerbetrieblichen Wege des Rbf Kenntnis ha e, konnte im Rahmen der Untersuchung nicht
-abschließend aufgeklärt werden.
-Der Lkw-Fahrer war im Besitz eines gül gen Führerscheins und mit dem Fahrzeug vertraut.
-Es blieb im Rahmen der Untersuchung letztlich auf allen Ebenen oﬀen, inwieweit dem Fahrer
-die vom EIU zur Benutzung des GÜ 6 aufgestellten Vorgaben bekannt waren. Weder von
-Swietelsky AG noch Penzenstadler GmbH konnten Nachweise über die Unterweisung des
-verunfallten Fahrers vorgelegt werden.
-Das Fehlen des Nachweises einer Unterweisung des Fahrers und das darau in vermutete
-Unterlassen der tatsächlichen Durchführung einer Unterweisung sowie die nicht
-nachgewiesene Umsetzung der Pflicht zur Zusammenarbeit mehrerer Arbeitgeber wird als
-ursächlicher Faktor gewertet [F2]. Aufgrund der am GÜ 6 vorliegenden, defizitären
-Sichtverhältnisse [F1] war ein Unfallereignis jedoch auch bei einer nachgewiesenen
-Unterweisung nicht auszuschließen. Der Fahrer hä e bei durchgeführter Einweisung in die
-vom EIU ausgestellten Regelungen den sich mit ca. 50 km/h nähernden Güterzug hinter den
-sichteinschränkenden Au auten seines Lkw wahrnehmen müssen. Ein Wahrnehmen des
-Güterzuges hä e nur anhand des sich bewegenden Spitzensignals in mehreren Dutzend
-Metern En ernung erfolgen können, wobei dieses zudem durch den Gleisbogen in leicht
+113.000 
 
-Seite 23 von 34
+40.000 
 
-Untersuchungsbericht
-Zugkollision, 23.05.2020, München Nord Rbf
+163.000 
 
-abgewendeten Winkel zum Betrachter stand. Aufgrund der Sichteinschränkungen durch die
-Au auten des LKW blieben höchstens die Sichtbeziehungen über die Außenspiegel des Lkw
-oder über den Verkehrsspiegel möglich. In der Sichtbeziehung über den Verkehrsspiegel
-befand sich jedoch wiederum der Lkw. Somit stand für eine Wahrnehmung des sich in der
-Dunkelheit in En ernung und abgewendeten Winkel bewegende Spitzensignal nur die
-Sichtbeziehung über den rechten Außenspiegel zur Verfügung. Es ist zu bezweifeln, dass diese
-Sichtbeziehung zu jeder Zeit in der Annäherungsphase und hinsichtlich der Erfassbarkeit der
-Zugannäherung auskömmlich war.
-Nach den Aufzeichnungen des Fahrtenschreibers des Lkw näherte sich dieser an den GÜ 6 mit
-einer Geschwindigkeit von bis zu 17 km/h an. Er hielt vor dem GÜ nicht an und fuhr mit dieser
-Geschwindigkeit auf den GÜ, obwohl ab dem Andreaskreuz durch Vz. 274-10 eine
-Geschwindigkeitsbeschränkung auf 10 km/h verfügt war. Mit der durch Auswertung
-ermi elten Geschwindigkeit von 17 km/h kollidierte der Lkw in Höhe seines Führerhauses mit
-dem
+Die  Elektrolokomo(cid:415)ve  wurde  an  der  in  Fahrtrichtung  linken  Frontseite  und  der  linken 
 
-herannahenden
+Seitenwand beschädigt, blieb aber fahrfähig. 
 
-Güterzug.
+Der Lkw wurde durch die Kollision schwerst beschädigt. 
 
-Ob
+Die  Elektrolokomo(cid:415)ve  des  Güterzuges  kollidierte  mit  der  rechten  Fahrzeugseite  des  Lkw 
 
-bei
+ungefähr zwischen Fahrerhaus und Kippmulde. Hierdurch wurde der Lkw mitgerissen und traf 
 
-Beachtung
+etwa  mi(cid:427)g  mit  dem  Fahrerhaus  den  Signalmast  des  Lichthauptsignals  X2.  Durch  die 
 
-der
+einwirkenden Krä(cid:332)e wurden der Signalmast und das Fahrerhaus zerstört. Die nachfolgenden 
 
-Beschränkung
+Abbildungen  zeigen  auch  den  beschädigten  Lkw  mit  dem  zerstörten  Signalmast  unter  dem 
 
-der
+Fahrerhaus. 
 
-Höchstgeschwindigkeit die Kollision am GÜ 6 nicht eingetreten wäre, weil sich andere
-Zeitabläufe ergeben hä en oder der Fahrer den herannahenden Zug trotz eingeschränkter
-Sichtverhältnisse noch wahrgenommen hä e, ließ sich nicht bewerten. Das unterlassene
-Befolgen der Beschränkung der Höchstgeschwindigkeit durch den Fahrer wird dennoch als
-beitragender Faktor geführt [F3].
-Da das EIU den beau ragten Bauunternehmen eine Pflicht zur Unterweisung aller
-Beschä igten auferlegt ha e, ist das Unterlassen der wirksamen Überwachung und
-Sicherstellung der Verpflichtungen auf allen Ebenen ebenfalls als systemischer Faktor zu
-werten [S2]. Die Unterweisung aller Beschä igten hat neben dem Aspekt des Arbeitsschutzes
-in einer Betriebsanlage des EIU auch eine Rückwirkung auf die Sicherheit des
-Eisenbahnbetriebs, bspw. auch bzgl. der Sicherheit an den GÜ. Gemäß Verordnung (EU)
-Nr. 1169/2010, Anhang II, Kapitel C.5 und C.4, kommt der Sicherstellung der Ausführung von
-Sicherheitsaufgaben eine Bedeutung im Sicherheitsmanagementsystem der Eisenbahnen zu.
+Seite 10 von 34 
 
-4.4 Feedback‐ und Kontrollmechanismen
-Das Gelände des Rbf München Nord sollte gemäß Merkbla des EIU nur von Beschä igten
-befahren werden, die in die zu beachtenden Regelungen des Rbf unterwiesen waren. Diese
-Unterweisung erfolgte im Regelfall durch das EIU. Für im Rahmen von Baumaßnahmen in den
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Seite 24 von 34
+Zugkollision, 23.05.2020, München Nord Rbf 
 
-Untersuchungsbericht
-Zugkollision, 23.05.2020, München Nord Rbf
+Abbildung 3: Beschädigte Lokomo(cid:415)ve3 
 
-Betriebsanlagen Tä ge wurde abweichend hiervon der bauausführenden Firma durch das EIU
-auferlegt, ihre eigenen Beschä igte und die der Unterau ragnehmer einzuweisen, nachdem
-die Unterweisung vom EIU an Swietelsky AG ausgegeben war.
-Im Rahmen der Untersuchung wurden innerhalb der Regelungen der Au raggeberAu ragnehmer-Verhältnisse
+Abbildung 4: Beschädigter Lkw und zerstörtes Lichthauptsignal X24 
 
-keine
+3 Quelle: DB Netz AG, bearbeitet durch BEU 
 
-Verfahrensvorgaben
+4 Quelle: DB Netz AG, bearbeitet durch BEU 
 
-gefunden
+Seite 11 von 34 
 
-oder
+ 
+ 
+ 
+ 
+                                                       
+Untersuchungsbericht 
 
-ausgeführte
+Zugkollision, 23.05.2020, München Nord Rbf 
 
-Ak vitäten festgestellt, die auf eine Überwachung der delegierten Pflichten der beau ragten
-Swietelsky AG gerichtet waren. Insbesondere erfolgte keine Überprüfung durch das EIU selbst,
-ob eingesetzte Beschä igte unterwiesen waren. Ebenso ha e das EIU keine zusätzlichen
-Mechanismen etabliert, die ein Versagen dieses Delega onsprinzips frühzei g oﬀenbart
-hä en. Dies wäre angesichts der bestehenden und sich im Ereignis realisierten spezifischen
-Gefahren des Eisenbahnbetriebs geboten gewesen. Insbesondere hat der Inhaber eines
-Betriebsgeländes einen Wissensvorsprung, der sich zu einer Obliegenheit oder Verpflichtung
-zur Überprüfung eingesetzter Baufirmen verdichten dür e.
-Derar ge Mechanismen begründen sich auf den zum Ereigniszeitpunkt bestehenden
-Rechtspflichten, die dem EIU gemäß Verordnung (EU) Nr. 1169/2010, Anhang II, oblagen.
-Hiernach mussten Verfahren zur Überprüfung und Kontrolle des Sicherheitsniveaus und der
-Ergebnisse sämtlicher von einem Au ragnehmer oder Zulieferer erbrachten Dienstleistungen
-bestehen, damit sichergestellt war, dass sie den vertraglichen Anforderungen genügen
-(Kapitel C.2). Hierzu zählen auch Ergebnisse ausführungsunterstützender Prozesse mit
-Bedeutung für die Eisenbahnsicherheit, wie die Erfüllung der Pflicht zur Unterweisung
-Beschä igter. Die Unterweisung hat auch eine Rückwirkung auf die Sicherheit des
-Eisenbahnbetriebs im Bereich der GÜ, so dass sie neben den Belangen des Arbeitsschutzes
-auch für die Sicherheit des Eisenbahnbetriebs und der Betriebsführung des EIU insgesamt von
-Bedeutung war.
-Das Fehlen eines solchen Kontrollmechanismus ist als beitragender Faktor einzustufen [F4].
-Das diesbezüglich verwirklichte Sicherheitsniveau und die Ergebnisse der von den
-Au ragnehmern
+3.2  Sachliche	Beschreibung	der	Vorkommnisse	
 
-erbrachten
+Zur  Rekonstruk(cid:415)on  des  gefährlichen  Ereignisses 
 
-Dienstleistungen
+sowie 
 
-waren
+zur  Beschreibung  der 
 
-seitens
+No(cid:414)allmaßnahmen werden insbesondere auch die in Kapitel 4 enthaltenen Aufzeichnungen, 
 
-des
+Auswertungen und Feststellungen etc. herangezogen. 
 
-EIU
+3.2.1  Hergangsbeschreibung	
 
-über
+Am  23.05.2020  gegen  22:19 Uhr  befuhr  ein  vierachsiger  Lkw  der  Penzenstadler GmbH  den 
 
-das
+innerbetrieblichen GÜ 6 in München Nord Rbf von Ost nach West. Seine Fahrgeschwindigkeit 
 
-Sicherheitsmanagement gemäß gesetzlicher Anforderungen zu kontrollieren, woraus sich
-zugleich auch eine systemische Bedeutung dieses Faktors ergibt [S4].
+lag bei 17 km/h. Es erfolgte kein Halt vor dem GÜ. Gleichzei(cid:415)g näherte sich der Zug DGS 50214 
 
-Seite 25 von 34
+des EVU RBH Logis(cid:415)cs GmbH auf der Fahrt von München Ost Rbf nach Meimersdorf ebenfalls 
 
-Untersuchungsbericht
-Zugkollision, 23.05.2020, München Nord Rbf
+in Fahrtrichtung von Ost nach West mit ca. 50 km/h. Auf dem GÜ kam es zur Kollision, wobei 
 
-4.5 Frühere Ereignisse ähnlicher Art
-In der Unfalldatenbank der BEU sind für die Jahre 2002 und 2004 zwei weitere Unfallereignisse
-im Bf München Nord Rbf am GÜ 6 erfasst. In beiden Fällen waren die Fahrtrichtung des
-Straßenfahrzeugs und des Eisenbahnfahrzeugs iden sch mit dem vorliegenden Fall. Zu daraus
-getroﬀenen Maßnahmen lagen der BEU keine Erkenntnisse vor. Weitere Vorkommnisse
-wurden vom EIU nicht gemeldet.
+das  führende  Triebfahrzeug  (Tfz)  des  Zuges  den  Lkw  auf  der  rechten  Fahrzeugseite  knapp 
 
-Seite 26 von 34
+hinter  dem  Führerhaus  erfasste  und  etwa  25 m  mitschlei(cid:332)e.  Der  Lkw  riss  dabei  das 
 
-Untersuchungsbericht
-Zugkollision, 23.05.2020, München Nord Rbf
+Lichthauptsignal X2 aus der Verankerung. 
 
-5 Schlussfolgerungen
-Das folgende Kapitel enthält eine Zusammenfassung der ermi elten ursächlichen,
-beitragenden und systemischen Faktoren. Zusätzlich sind zwei weitere Unterkapitel
-vorgesehen, um Informa onen zu bereits ergriﬀenen Maßnahmen und zu zusätzlichen
-Bemerkungen zu teilen.
+3.2.2  Notfallmanagement	
 
-5.1 Zusammenfassung und Schlussfolgerung
-Aufgrund der Charakteris k des Ereignisses und der gewonnenen Erkenntnisse konnten
-Einflussfaktoren wie beispielsweise die Leit- und Sicherungstechnik, die baulichen Anlagen der
-Gleisinfrastruktur oder die Handlungen des Fdl als nicht ereignisrelevant festgestellt werden.
-Aus den Untersuchungen ließen sich folgende Faktoren ableiten. Zu einzelnen sieht die BEU
-die Erhöhung der Eisenbahnsicherheit geboten und spricht dahingehende Empfehlungen aus:
-Zum ursächlichen Faktor „Sichtverhältnisse am GÜ 6“ [F1]:
-Die am GÜ 6 vorgefundene Situa on bzgl. Topologie und Betriebsgegebenheiten zeigte auf,
-dass aufgrund der gegebenen Sichtverhältnisse ein sich mit bis zu 60km/h annäherndes
-Schienenfahrzeug nicht derart vom Führenden eines Straßenfahrzeugs wahrzunehmen war,
-dass ein konflik reies, sicheres Queren des GÜ erwartet werden konnte. Dieses Risiko bestand
-auch weiter, wenn Fahrzeugführende in das Verfahren „weiße Nummerntafel“ des BÜ, d. h.
-Befahren nach Prüfung auf Annäherung von Schienenfahrzeugen unterwiesen waren. Die in
-dieser gestalterischen wie organisatorischen Ausgangslage vom EIU nicht kontrollierten
-Risiken widersprechen den gesetzlichen Anforderungen an eine sichere Betriebsführung gem.
-§ 4 Abs. 3 AEG. Diese Pflicht muss auch dann erfüllt werden, wenn ein vom EIU direkt oder
-indirekt beau ragtes Befahren der eigenen Betriebsanlagen mit Straßenfahrzeugen erfolgt.
-Entsprechende Verpflichtungen zu einem sicheren Betrieb bestanden bereits zum Zeitpunkt
-des Ereignisses und ließen sich auch aus den zum Zeitpunkt der Veröﬀentlichung dieses
-Berichts
+Nach  § 4  Abs. 3  AEG  haben  die  Eisenbahnen  die  Verpﬂichtung,  an  Maßnahmen  des 
 
-für
+Brandschutzes  und  der  technischen  Hilfeleistung  mitzuwirken.  Die  Innenministerien  der 
 
-das
+Länder und die DB AG haben sich auf folgende Verfahrensweise verständigt. Für die DB Netz 
 
-EIU
+AG  gelten  die  entsprechenden  Brand-  und  Katastrophenschutzgesetze  der  Länder.  Das 
 
-geltenden
+No(cid:414)allmanagement  der  DB  AG  ist  in  der  Konzernrichtlinie  123,  das  der  DB  Netz  AG  in  der 
 
-Rechtsvorschri en
+Richtlinie (Ril) 423 näher beschrieben und geregelt. 
 
-im
+Um 22:23 Uhr erhielt die No(cid:414)all-Leitstelle (NFLS) der Betriebszentrale (BZ) München der DB 
 
-Hinblick
+Netz AG vom Fahrdienstleiter (Fdl) München Nord Rbf Kenntnis über das Ereignis. Der Aufruf 
 
-auf
+der Re(cid:425)ungske(cid:425)e und die Alarmierung des No(cid:414)allmanagers (Nmg) sowie der Bundespolizei 
 
-das
+erfolgten umgehend. Um 23:54 Uhr war der Nmg vor Ort und informierte die NFLS über den 
 
-Sicherheitsmanagementsystem herleiten, siehe hierzu unten zur systemischen Dimension
-dieses Faktors [S1].
+Sachstand.  Ferner  veranlasste  der  Nmg  die  Sofortmeldung  an  die  BEU,  die  um  23:58 Uhr 
 
-Seite 27 von 34
+erfolgte. 
 
-Untersuchungsbericht
-Zugkollision, 23.05.2020, München Nord Rbf
+Unregelmäßigkeiten oder Verzögerungen in Bezug auf das Einleiten von Re(cid:425)ungsmaßnahmen 
 
-Zum systemischen Faktor „Risikokontrolle durch Regeln zu Gestaltung und Betrieb“ [S1]:
-Als systemischer Faktor wurde in der Untersuchung des Ereignisses der Umstand ausgemacht,
-dass zu den Defiziten am GÜ 6 keine plausiblen Planungs- und Gestaltungsregeln in der
-Sicherheitsorganisa on des EIU eingeführt waren und angewendet wurden. Diese hä en dazu
-führen müssen, dass das Befahren des GÜ 6 bspw. mit dem ortsbekannten Verfahren „rote
-Nummerntafel“ nur nach Vereinbarung mit dem zuständigen Fdl erfolgen dür e. Auch bereits
-die Zuordnung der GÜ in die örtlich unterschiedene Verfahrensweise konnte durch das EIU
-nicht vorgelegt werden.
-Beispielsweise können die Planungs- und Gestaltungsregeln für von Zügen befahrenen GÜ in
-Betriebsanlagen an den fachlichen und anerkannten Grundsätzen für öﬀentliche
-Bahnübergänge gemäß § 11 Eisenbahn-Bau- und Betriebsordnung orien ert werden.
-Grundgegebenheiten wie die begrenzten Sichtverhältnisse der Fahrzeugführenden aus
-Straßenfahrzeugen heraus sind unveränderbar und müssen hinsichtlich der Sicherheit der
-Prozeduren zur Risikokontrolle an den GÜ iden sch berücksich gt werden. Ggf. wären daraus
-auch die Topologie und Betriebsgegebenheiten von GÜ zu ändern. Hinsichtlich menschlicher
-Faktoren zu berücksich gen wäre dabei auch die Vereinbarkeit mit den, für Betriebsfremde
-von öﬀentlichen Bahnübergängen bekannten Verhaltensweisen an Bahnübergängen und
-deren Erscheinungsbild. Auch wäre einzubeziehen, inwieweit die Wirksamkeit von Geboten,
-einen GÜ nur unter vorliegender Zus mmung des zuständigen Infrastrukturpersonals zu
-queren erhöht wird, wenn bspw. die Verhaltensweise des örtlichen Verfahrens „rote
-Nummerntafel“ direkt in der Örtlichkeit und deutlich wahrnehmbar wäre.
-Zur Erfüllung der gesetzlichen Anforderung an einen sicheren Eisenbahnbetrieb sollen die
-Prozesse und Verfahren eines einzurichtenden SMS dienen. Zwischenzeitlich wurden diese
-gesetzlichen Anforderungen durch neue Rechtsakte aktualisiert. Hiernach ist nun für ein
-Sicherheitsmanagementsystem des EIU die „Delegierte Verordnung (EU) 2018/762 der
-Kommission vom 8. März 2018 über gemeinsame Sicherheitsmethoden bezüglich der
-Anforderungen an Sicherheitsmanagementsysteme gemäß der Richtlinie (EU) 2016/798 des
-Europäischen Parlaments und des Rates und zur Au ebung der Verordnungen (EU)
-Nr. 1158/2010 und (EU) Nr. 1169/2010“, wie bereits selbst im Titel als nachfolgend zu
-früheren Anforderungen bezeichnet, einschlägig. Gemäß des Kriteriums 3.1.1.1. a) sind alle
-betrieblichen, organisatorischen und technischen Risiken, die für die Art, den Umfang und den
-Bereich der von der Organisa on durchgeführten Tä gkeiten relevant sind, zu erfassen und
-Seite 28 von 34
+wurden der BEU im Rahmen der Unfalluntersuchung nicht bekannt. 
 
-Untersuchungsbericht
-Zugkollision, 23.05.2020, München Nord Rbf
+Seite 12 von 34 
 
-zu analysieren, sowie gemäß c) Sicherheitsmaßnahmen zu entwickeln und in Kra zu setzen
-sowie die damit verbundenen Zuständigkeiten anzugeben.
-Die BEU empfiehlt wegen der Schwere des vorliegenden Ereignisses, dem wiederholten
-Au reten von Ereignissen in dieser Betriebsanlage und der vorgefundenen Defizite der Sicherheitsmaßnahmen an diesem GÜ, dass das EIU die Planungs- und Betriebsregeln für GÜ
-hinsichtlich ausreichender Risikokotrolle überprü und ggf. verbessert, auch mit Wirkung auf
-andere GÜ (Sicherheitsempfehlung 02/2025).
-Zum ursächlichen Faktor „Unterweisungspflicht über alle Beschä igten“ [F2]:
-Es ist Ergebnis der Untersuchung, dass auch defizi reie Sicherheitsregeln zur Benutzung des
-GÜ den verunfallten Fahrer nicht erreicht hä en, weil eine Unterweisung für die Tä gkeiten
-im Bf München Nord Rbf seine Person betreﬀend nicht erfolgt war.
-Hierzu bestand seitens seines Arbeitgebers Penzenstadler GmbH gemäß § 3 ArbSchG eine
-Grundpflicht und gemäß § 8 ArbSchG eine gemeinsame Pflicht der DB Netz AG, Swietelsky AG
-und Penzenstadler GmbH zur Zusammenarbeit mehrerer Arbeitgeber. Diese Zusammenarbeit
-war hinsichtlich der DB Netz AG betreﬀend der Gefahren für die Sicherheit und Gesundheit
-aller in deren Betriebsanlage Tä ger zwar mit der au ragnehmenden Swietelsky AG definiert
-und bzgl. Zuständigkeiten auch delegiert, wurde aber im Unterverhältnis zwischen Swietelsky
-AG und Penzenstadler GmbH in Bezug auf den verunfallten Fahrer nicht realisiert.
-Dieses Defizit ist für sich genommen nicht der Sicherheit des Eisenbahnbetriebs gemäß § 4
-Abs. 3 AEG zuzuordnen, sondern ein Aspekt der für das Unternehmen Penzenstadler GmbH
-und seiner Zusammenarbeit mit anderen Arbeitgebern grundsätzlich hinsichtlich der
-Überwachung des Arbeitsschutzgesetzes zuständigen Stellen und Behörden.
-Im Hinblick auf die zwischenzeitliche Beendigung der Baumaßnahmen wird dieser Aspekt
-daher nicht weiter erörtert, siehe aber die folgenden Ausführungen zum Vorliegen eines
-systemischen Faktors [S2].
-Zum systemischen Faktor „Sicherstellung der Ausführung von Sicherheitsaufgaben“ [S2]:
-Die Wirksamkeit der Unterweisungen der Beschä igten mit Tä gkeit innerhalb von
-Betriebsanlagen des EIU ha e im vorliegenden Fall eine Rückwirkung auf die
-Eisenbahnsicherheit. Die Nichtausführung von in der Unterweisung gegenständlichen
-Sicherheitsaufgaben, ebenso ein Nichtbeachten von Befugnissen oder Verboten, stellte eine
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Seite 29 von 34
+Zugkollision, 23.05.2020, München Nord Rbf 
 
-Untersuchungsbericht
-Zugkollision, 23.05.2020, München Nord Rbf
+4  Auswertung	des	Ereignisses	
 
-Gefahr für die Zugfahrten im Bf München Nord Rbf dar. Im vorliegenden Fall kam es durch die
-Kollision mit dem Lkw bei den beteiligten Eisenbahnen zu Sachschäden an der
-Infrastrukturausrüstung und an den Fahrzeugen, weil für den Lkw-Fahrer nicht sichergestellt
-war, dass er für die Eisenbahnsicherheit wirkende Regeln kennen konnte.
-Für die Baumaßnahmen ha e das EIU die Vorgehensweise gewählt, dass die Unterweisung
-der Beschä igten in allen Fällen selbstständig durch die au ragnehmende Swietelsky AG zu
-erfüllen war. Gegenstand der Unterweisung waren Regeln für die Arbeitssicherheit, aber auch
-implizit Regeln für die Eisenbahnsicherheit. Hierzu sicherstellende Vorgaben an den
-Au ragnehmer oder zusätzliche eigene organisatorische Verfahren zur Unterstützung der
-Zuverlässigkeit dieses Delega onsprinzips waren vom EIU nicht getroﬀen worden. Als
-denkbare Beispiele für solche Unterstützungen können die auf allen Ebenen zu vermi elnde
-Kenntnis über den Kreis der zu befähigenden Personen gezählt werden, oder
-Verfahrensweisen, wonach Unterweisungen immer vom EIU selbst ausgeführt werden oder
-die
+In diesem Kapitel werden insbesondere die im Rahmen der Unfalluntersuchung ermi(cid:425)elten 
 
-Tä gkeit
+maßgeblichen sicherheitskri(cid:415)schen Faktoren dargestellt. Hierbei wird im jeweiligen Einzelfall 
 
-von
+auf die Aufgaben und Pﬂichten einzelner Personen und Stellen, auf beteiligte Fahrzeuge und 
 
-Personen
+technische  Einrichtungen  genauso  eingegangen  wie  auf  konkrete  menschliche  Handlungen 
 
-einer
+sowie auf Feedback- und Kontrollmechanismen. Sofern Informa(cid:415)onen zu früheren Ereignissen 
 
-vorhergehenden
+vorliegen, werden diese in einem weiteren Unterkapitel dargestellt. 
 
-Freigabe
+4.1  Aufgaben	und	Pflichten	
 
-bedarf,
+In diesem Kapitel werden unbeschadet des Ar(cid:415)kels 20 Abs. 4 der Richtlinie (EU) 2016/798 die 
 
-um
+Aufgaben  und  Pﬂichten  von  Personen  und  Stellen  behandelt,  die  an  dem  Ereignis  beteiligt 
 
-die
+waren. Untersuchungen zu Schuld- oder Ha(cid:332)ungsfragen sind explizit ausgeschlossen und nicht 
 
-Kenntnisvermi lung sicherzustellen, bspw. auch in der konkreten Umsetzung im Rahmen des
-Zugangs zur Betriebsanlage.
-Auch gemäß aktuell einschlägiger Verordnung (EU) 2018/762, Anhang II, obliegt es dem EIU,
-in seinem Sicherheitsmanagementsystem gemäß Kriterium 4.4.3 f) dafür zu sorgen, dass
-sicherheitsrelevante Informa onen vor ihrem Wirksamwerden mitgeteilt werden. Hierunter
-fallen auch Regeln zur Verhaltensweise beau ragter Externer an einem GÜ innerhalb der
-Betriebsanlagen, welche gemäß Kriterium 4.2.1 f) der genannten Verordnung als spezifische
-Bestandteile des SMS zu schulen sind.
-Seitens des EIU ist in diesem Zusammenhang die Gestaltung der bauvertraglichen Regeln und
-das in diesem Fall vorgefundene Delega onsprinzip der Unterweisungen zu betrachten. Auch
-bzgl.
+Untersuchungsgegenstand. 
 
-der
+4.1.1  EIU	DB	Netz	AG	
 
-Beau ragung
+Das EIU DB Netz AG war verantwortlich für die Bereitstellung und den Betrieb der Infrastruktur 
 
-von
+im  Bf  München  Nord  Rbf,  bestehend  aus  den  Gleisanlagen  und  den  innerbetrieblichen 
 
-Unternehmen
+Straßen.  Für  das  EIU  lag  eine  Sicherheitsgenehmigung  gemäß  §  7c  AEG  des  Eisenbahn-
 
-zum
+Bundesamts (EBA) mit Gül(cid:415)gkeit bis 19.10.2021 vor. Dem EIU oblag es gemäß § 4 Abs. 3 AEG, 
 
-Erbringen
+den Betrieb sicher zu führen. Dies schließt auch die Gewährleistung der Sicherheit auf dem 
 
-von
+Betriebsgelände  ein.  Zur  Erfüllung  der  gesetzlichen  Anforderung  an  einen  sicheren 
 
-Bau-
+Eisenbahnbetrieb  dienten  die  Prozesse  und  Verfahren  eines  für  die  Erteilung  einer 
 
-und
+Sicherheitsgenehmigung  einzurichtenden  Sicherheitsmanagementsystems 
 
-Instandhaltungsleistungen muss das EIU gemäß Verordnung (EU) 2018/762, Anhang II,
-Kriterium 4.6.1 b), einen systema schen Ansatz verfolgen, um sich mit den Risiken zu
-beschä igen, die mit der Konzep on und Nutzung von Ausrüstung, den Aufgaben sowie den
-Arbeitsbedingungen
+(SMS),  zum 
 
-und
+Zeitpunkt  des  Ereignisses  gemäß  den  Anforderungskriterien  der  Verordnung  (EU)  Nr. 
 
-organisatorischen
+1169/2010, Anhang II. 
 
-Regelungen
+Das Ereignis geschah im Kontext von Baumaßnahmen auf dem Gelände des Rbf. Diese wurden 
 
-zusammenhängen.
+von  durch  das  EIU  beau(cid:332)ragten  Bauunternehmen  ausgeführt.  Nach  den  vertraglichen 
 
-Risikokontrollmaßnahmen, darunter auch Verhaltensweisungen, sind hierbei zu Belangen der
-Arbeitssicherheit und der Bedeutung für die Eisenbahnsicherheit bewusst zu unterscheiden.
+Vereinbarungen  mit  den  Au(cid:332)ragnehmenden  dur(cid:332)en  diese  weitere  Unterau(cid:332)ragnehmer 
 
-Seite 30 von 34
+einbeziehen. Anhand der Betriebs- und Bauanweisungen (Betra) F 725117 20 und F 725118 20 
 
-Untersuchungsbericht
-Zugkollision, 23.05.2020, München Nord Rbf
+ha(cid:425)e  das  EIU  für  die  Sicherheit  dieses  Einzelfalls  Regelungen  erlassen,  welche  für  alle 
 
-Die Sicherstellung der Verbreitung sicherheitsrelevanter Informa onen ist eng mit der
-Überwachung und ggf. Korrektur der Erledigung der Verbreitung verbunden, siehe unten zu
-[F4].
+Beteiligten  zu  beachten  waren.  Zur  Durchführung  der  Baumaßnahme  waren  auch 
 
-Die
+Logis(cid:415)kfahrten mit Straßenfahrzeugen über den GÜ 6 erforderlich. 
 
-BEU
+Seite 13 von 34 
 
-spricht
+ 
+ 
+Untersuchungsbericht 
 
-daher
+Zugkollision, 23.05.2020, München Nord Rbf 
 
-zum
+Das  EIU  traf  auch  Regelungen  hinsichtlich  der  Benutzung  der  innerbetrieblichen  GÜ,  die  in 
 
-systemischen
+einem „Merkbla(cid:425) zur Benutzung der innerbetrieblichen Gleisübergänge im Bf München Nord 
 
-Faktor
+Rbf“ zusammengefasst wurden. Auch legte das EIU fest, dass nur entsprechend unterwiesene 
 
-[S2]
+Beschä(cid:332)igte das Gelände des Rbf befahren dur(cid:332)en. 
 
-keine
+Die in dem Merkbla(cid:425) festgelegten Regelungen sahen vor, dass Fahrzeuge grundsätzlich vor 
 
-separate
+einem  GÜ  anhalten  müssen.  Bei  mit  einer  weißen  Nummerntafel  gekennzeichneten  GÜ 
 
-Sicherheitsempfehlung aus.
-Zum beitragenden Faktor „Sorgfalt beim Führen des Lkw“ [F3]:
-Das Mo v des verunfallten Fahrers des Lkw für das geringfügige Überschreiten der durch
-Vz. 274-10 beschränkten Höchstgeschwindigkeit am GÜ 6 konnte nachträglich nicht mehr
-ermi elt werden. Aus Sicht menschlicher Faktoren könnte neben mangelnder Sorgfalt des
-Fahrers auch vermutet werden, dass der Fahrer die Geschwindigkeitsbegrenzung bewusst
-überschri en ha e, um den Gefahrenbereich des GÜ, im Glauben falscher Sicherheit oder in
-Ermangelung eines Vertrauens auf die verlässliche Wahrnehmbarkeit sich bei Dunkelheit
-annähernder Schienenfahrzeuge, schnellstens zu queren. Den obenstehenden Ausführungen
-zur gebotenen Risikokontrolle durch Regeln zu Gestaltung und Betrieb [S1] kommt daher die
-übergeordnete Bedeutung zu.
-Zum beitragenden Faktor „Kontrollfreie Delega on der Unterweisung auf Au ragnehmer“
-[F4]:
-Zu der vom EIU in der Konstella on des Ereignisses gewählten Vorgehensweise, dass die
-Unterweisung sämtlicher Beschä igten, auch derjenigen der Nachunternehmer, an die
-Swietelsky AG auferlegt war, war auf keiner Ebene ein zugehöriges Verfahren zur Überprüfung
-der Ausführungsgüte oder Erfüllung aufzufinden. Anhand von installierten Verfahren zur
-S chprobenerhebung hä e in Einzelfällen eine unterlassene Einweisung ggf. noch korrigiert
-werden können. Installierte Vollprobenverfahren bspw. durch dauerha e Zufahrtskontrollen
-hä en ausgeschlossen, dass nicht unterwiesene Beschä igte die Betriebsanlage befahren.
-Eine Verbesserung des Einzelfalls ist aufgrund der zwischenzeitlichen Beendigung der
-Baumaßnahme hinfällig, siehe aber im Folgenden hinsichtlich der systemischen Bedeutung
-[S4].
-Zum beitragenden Faktor „Verfahren zur Kontrolle der Ergebnisse der von den
-Au ragnehmern erbrachten Dienstleistungen seitens des EIU“ [S4]:
-Das oben beschriebene Defizit, wonach das EIU die Ergebnisse der von den Au ragnehmern
-erbrachten Dienstleistungen, und darunter die delegierten Aufgaben bzgl. der Befähigung der
-externen Personale hinsichtlich Regeln zur Eisenbahnsicherheit, nicht kontrolliert ha e, hat
+dur(cid:332)en  Fahrzeugführende,  nachdem  sie  sich  vergewissert  ha(cid:425)en,  dass  sich  keine 
 
-Seite 31 von 34
+Eisenbahnfahrzeuge  nähern,  eigenständig  weiterfahren.  Bei  mit  einer  roten  Nummerntafel 
 
-Untersuchungsbericht
-Zugkollision, 23.05.2020, München Nord Rbf
+gekennzeichneten GÜ ha(cid:425)en sich Fahrzeugführende mit dem Fdl in Verbindung zu setzen, um 
 
-systemische Bedeutung. Den mi lerweile aktualisierten Anforderungen folgend hat das EIU
-gemäß Verordnung (EU) 2018/762, Anhang II, Kriterium 6.1.1. a), Überwachungen im
-Einklang mit der Verordnung (EU) Nr. 1078/2012 durchzuführen, um die ordnungsgemäße
-Anwendung
+erst  nach  dessen  Zus(cid:415)mmung  weiterzufahren.  Das  Merkbla(cid:425)  und  ein  Hinweisschild  an  der 
 
-und
+Zufahrt  zum  Rbf  sahen  vor,  dass  die  Regeln  der  Straßenverkehrsordnung  (StVO)  auf  dem 
 
-Wirksamkeit
+Gelände gelten sollen. 
 
-aller
+Gemäß  der  zum  Ereigniszeitpunkt  gül(cid:415)gen  Verordnung  (EU)  Nr. 1169/2010  „über  eine 
 
-Prozesse
+gemeinsame  Sicherheitsmethode  für  die  Konformitätsbewertung 
 
-und
+in  Bezug  auf  die 
 
-Verfahren
+Anforderungen  an  die  Erteilung  von  Eisenbahnsicherheitsgenehmigungen“,  Anhang II  war 
 
-im
+auch die Delega(cid:415)on von Pﬂichten ein Aspekt der Sicherheitsorganisa(cid:415)on des EIU. Hiernach 
 
-Sicherheitsmanagementsystem, einschließlich der betrieblichen, organisatorischen und
-technischen Sicherheitsmaßnahmen, zu überprüfen. Hierunter fällt im Detail gem. Kapitel
-5.3.3. a) auch die Überwachung der beau ragten Bauunternehmen hinsichtlich deren
-Sicherheitsleistung sämtlicher Tä gkeiten und Abläufe. Diese müssen dabei den vertraglichen
-Anforderungen entsprechen. Ist sicherzustellen, dass externe Beschä igte in diejenigen
-Regeln unterwiesen sind, die eine Wirkung auf die Sicherheit des Eisenbahnbetriebs haben,
-obliegt es dem EIU, in seinem Sicherheitsmanagementsystem gemäß Kriterium 4.4.3 f) dafür
-zu sorgen, dass sicherheitsrelevante Informa onen vor ihrem Wirksamwerden mitgeteilt
-werden oder bei Delega on dies sicher erfüllt ist. Dies steht unabhängig neben der Erfüllung
-von gesetzlichen Pflichten aus dem Arbeitsschutz durch einzelne oder mehrere Arbeitgeber.
-Die BEU sieht es aufgrund der hier nicht vorgefundenen Überprüfung geboten, dass das EIU
-seine Konzepte zur Überwachung gemäß Verordnung (EU) 2018/762, Anhang II, Kriterium
-6.1.1, hinsichtlich beau ragter Bauunternehmen in ihrer Wirksamkeit überprü
-(Sicherheitsempfehlung 03/2025). Hinsichtlich der Wirksamkeit der Konzepte ist zu
-unterscheiden, dass an externe Personale zu vermi elnde Regeln zum Verhalten in der
-Betriebsanlage eine Bedeutung für die Sicherheit der Eisenbahn haben können, und zeitgleich
-auch für die Arbeitssicherheit der Person haben. Daher ist innerhalb der weitgefasst
-verstandenen Begriﬄichkeit „Unterweisung“ inhaltlich und organisatorisch zu unterscheiden.
-Aufgrund der denkbaren Vielfalt organisatorischer Ansätze zur Verbesserung bleibt diese
-Sicherheitsempfehlung bewusst weit gefasst.
+waren die Zuständigkeiten und Aufgaben im Zusammenhang mit der Eisenbahnsicherheit klar 
 
-5.2 Seit dem Ereignis getroffene Maßnahmen
-Bauliche Veränderungen am GÜ 6 wurden nicht vorgenommen.
-An den GÜ werden Sicherungsposten eingesetzt, die das Befahren der GÜ für externe
-Fahrzeuge nur nach Absprache mit dem Fdl zulassen. An der Zufahrt zum Rbf wurden
-Schranken mit Posten eingerichtet. Die Posten lassen Fahrten für externe Fahrzeuge nur nach
-Rücksprache mit den GÜ-Sicherungsposten zu.
+festzulegen,  bekannt  zu  machen  und  zwischen  den  Vertragspartnern  und  allen  sons(cid:415)gen 
 
-Seite 32 von 34
+Beteiligten aufzuteilen (Kapitel C.3), sowie sicherzustellen, dass Sicherheitsaufgaben, auch der 
 
-Untersuchungsbericht
-Zugkollision, 23.05.2020, München Nord Rbf
+Austausch  sicherheitsrelevanter  Informa(cid:415)onen,  von  den  Au(cid:332)ragnehmern  bzw.  Zulieferern 
 
-5.3 Zusätzliche Bemerkungen
-keine
+entsprechend den einschlägigen, vertraglich festgelegten Anforderungen ausgeführt werden 
 
-Seite 33 von 34
+(Kapitel C.5). 
 
-Untersuchungsbericht
-Zugkollision, 23.05.2020, München Nord Rbf
+Um auf dem Gelände des Rbf tä(cid:415)gen Externen, wie in diesem Fall die Swietelsky AG, mit den 
 
-6 Sicherheitsempfehlungen
-Gemäß § 6 EUV und Art. 26 Abs. 2 der Richtlinie (EU) 2016/798 ergehen nachfolgende
-Sicherheitsempfehlungen:
-Lfd. Nr.
+zu beachtenden Besonderheiten vertraut zu machen, wurden die Arbeitsverantwortlichen der 
 
-Sicherheitsempfehlung
+Unternehmen durch den zuständigen Bezirksleiter Betrieb der DB Netz AG unterwiesen.  
 
-Betri
+Die hierbei vermi(cid:425)elten Informa(cid:415)onen des Merkbla(cid:425)es wurden dann wiederum Bestandteil 
 
-Unternehmen
+eigener  Unterweisungen,  die  den  Unternehmen  vor  Beginn  der  Arbeiten  mit  ihren 
 
-02/2025
+Mitarbeitenden 
 
-Es wird empfohlen, dass das EIU die Planungs- und
-Betriebsregeln für GÜ hinsichtlich ausreichender
-Risikokontrolle gem. Verordnung (EU) 2018/762,
-Anhang II, Kriterium 3.1.1 a), überprü und ggf.
-verbessert, auch mit Wirkung auf bestehende GÜ.
+im  Rahmen  des  gesetzlichen  Arbeitsschutzes  oblag.  Soweit  sie 
 
-Eisenbahninfrastrukturunternehmen
+Unterau(cid:332)ragnehmer  einsetzten,  waren  deren  Mitarbeitende  wie  eigene  Krä(cid:332)e  zu 
 
-03/2025
+unterweisen. 
 
-Es wird empfohlen, die Konzepte zur Überwachung Eisenbahninfrastrukturbeau ragter Au ragnehmer gemäß Verordnung
-unternehmen
-(EU) 2018/762, Anhang II, Kriterium 5.3.3. a) und
-6.1.1. a), in ihrer Wirksamkeit zu überprüfen, damit
-die Kenntnis von Regeln mit Auswirkung auf die
-Eisenbahnsicherheit durch deren Beschä igte
-sichergestellt ist, unabhängig von den Regelungen
-der Arbeitssicherheit.
+Seite 14 von 34 
 
-Seite 34 von 34
+ 
+ 
+Untersuchungsbericht 
 
+Zugkollision, 23.05.2020, München Nord Rbf 
+
+Zur Verantwortung des EIU zählte in Bezug auf das Ereignis ferner die Zulassung der Zugfahrt 
+
+DGS 50214 über das Gleis 261 durch den Fdl München Nord Rbf. 
+
+4.1.2  EVU	RHB	Logistics	GmbH	
+
+Die  RHB  Logis(cid:415)cs  GmbH  war  das  verantwortliche  EVU  für  die  Durchführung  der  Zugfahrt 
+
+DGS 50214,  die  durch  einen  Tf  des  EVU  geführt  wurde.  Das  EVU  verfügte  über  eine 
+
+Sicherheitsbescheinigung gemäß § 7a AEG mit einer Gül(cid:415)gkeit bis zum 09.04.2023 und war 
+
+damit zur Teilnahme am Eisenbahnbetrieb berech(cid:415)gt. 
+
+4.1.3  Swietelsky	AG	als	Auftrag	nehmendes	Bauunternehmen	
+
+Die  Swietelsky  AG  war  Au(cid:332)ragnehmer  des  EIU  und  sollte  Bauarbeiten  ausführen. 
+
+Verantwortliche waren dazu vom EIU unterwiesen worden. Damit oblag der Swietelsky AG die 
+
+eigenständige Unterweisung der auf dem Gelände des Rbf eingesetzten Beschä(cid:332)igten. Zu den 
+
+zu unterweisenden Beschä(cid:332)igten gehörte einerseits das eigene Personal, andererseits auch 
+
+das Personal der von Swietelsky AG beau(cid:332)ragten Unterau(cid:332)ragnehmer wie der Penzenstadler 
+
+GmbH.  
+
+Zu  den  zu  vermi(cid:425)elnden  Informa(cid:415)onen  gehörte  u.  a.  auch  die  Unterweisung  in  die  zu 
+
+beachtenden verkehrlichen Regelungen an den GÜ. 
+
+Die durchgeführten Unterweisungen wurden auf Unterschri(cid:332)enlisten mit Namen, Arbeitgeber 
+
+und  Unterschri(cid:332)  der  unterwiesenen  Personen,  mitunter  ergänzt  um  das  Datum, 
+
+dokumen(cid:415)ert. 
+
+4.1.4  Penzenstadler	GmbH	als	Unterauftragnehmer	und	Arbeitgeber	
+
+Die Penzenstadler GmbH war als Unterau(cid:332)ragnehmer der Swietelsky AG verantwortlich für 
+
+das Durchführen der Transportleistungen mit Lkw und teilte dazu die eigenen Fahrer für die 
+
+Fahrten auf dem Gelände des Rbf ein.  
+
+Hierzu war gemäß den Vorgaben des EIU, u. a. gemäß Merkbla(cid:425), weiterhin sicherzustellen, 
+
+dass  im  Rbf  nur  Fahrer  eingesetzt  wurden,  die  durch  die  Swietelsky  AG  auch  in  den  zu 
+
+beachtenden Regelungen unterwiesen waren. 
+
+Gemäß  § 3 ArbSchG  oblag  der  Penzenstadler GmbH  als  Arbeitgeber  eine  Grundpﬂicht,  die 
+
+erforderlichen  Maßnahmen  des  Arbeitsschutzes  unter  Berücksich(cid:415)gung  der  Umstände  zu 
+
+treﬀen, die Sicherheit und Gesundheit der Beschä(cid:332)igten bei der Arbeit beeinﬂussen. Aufgrund 
+
+der Tä(cid:415)gkeit der Beschä(cid:332)igten der Penzenstadler GmbH in der Betriebsanlage der DB Netz AG 
+
+Seite 15 von 34 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 23.05.2020, München Nord Rbf 
+
+und  in  Beau(cid:332)ragung  durch  Swietelsky  AG  kam  der  Pﬂicht  zur  Zusammenarbeit  mehrerer 
+
+Arbeitgeber  gemäß  §  8 ArbSchG  entsprechende  Bedeutung zu.  Die  vom  EIU  ausgegebenen 
+
+Regelungen  waren  für  Penzenstadler  GmbH  hinsichtlich  der  Pﬂicht  zur  Unterweisung  gem. 
+
+§ 12 ArbSchG relevant, damit der Fahrer einen GÜ sicher überqueren konnte.  
+
+4.2  Fahrzeuge	und	technische	Einrichtungen	
+
+In  diesem  Kapitel  sind  die  Erkenntnisse  aus  der  Untersuchung  beteiligter  Fahrzeuge,  der 
+
+Eisenbahninfrastruktur und weiterer technischer Einrichtungen einschließlich damit eventuell 
+
+verbundener Tä(cid:415)gkeiten und Entscheidungen dargestellt. 
+
+4.2.1  Beteiligte	Fahrzeuge	
+
+Der  Güterzug  DGS 50214  des  EVU  RBH  Logis(cid:415)cs  GmbH  bestand  aus  der  führenden 
+
+Elektrolokomo(cid:415)ve  91 80 6152 149-1 D-DB  und  16  Güterwagen  mit  gesamt  100 Achsen  und 
+
+567 m Länge. Das Gesamtgewicht des Zuges betrug 1.384 t, das Bremsgewicht 1.245 t. 
+
+Aus  der  folgenden  Tabelle  lassen  sich  die  technischen  Fahrzeugdaten  der  führenden 
+
+Elektrolokomo(cid:415)ve entnehmen: 
+
+Antriebsart 
+
+Kra(cid:332)übertragung 
+
+Leistung 
+
+Gesamtlänge (LüP) 
+
+Masse 
+
+Höchstgeschwindigkeit 
+
+Radsatzfolge 
+
+Zugsicherungssystem 
+
+elektrisch, 15 kV / 16,7 Hz Wechselstrom 
+
+Elektrisch 
+
+6.400 kW 
+
+19.580 mm 
+
+86,7 t 
+
+140 km/h 
+
+Bo‘ Bo‘ 
+
+LZB, PZB 
+
+Tabelle 5: Technische Daten Tfz 91 80 6152 149-1 D-DB 
+
+Die  Elektrolokomo(cid:415)ve  wurde  an  der  in  Fahrtrichtung  linken  Frontseite  und  der  linken 
+
+Seitenwand beschädigt, blieb aber fahrfähig. 
+
+Die technischen Daten des verunglückten Lkw können der nachfolgenden Tabelle entnommen 
+
+werden: 
+
+Seite 16 von 34 
+
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 23.05.2020, München Nord Rbf 
+
+Fahrzeugart 
+
+Solo-Lkw 
+
+bestehend aus 
+
+Muldenkipper, vierachsig 
+
+Hersteller Mercedes-Benz, Modell Actros 
+
+Tabelle 6: Technische Daten Muldenkipper-Lkw 
+
+Der Lkw wurde auf der rechten Fahrzeugseite zwischen Führerhaus und Kippmulde von der 
+
+Elektrolokomo(cid:415)ve  getroﬀen  und  schwer  beschädigt  mitgeschlei(cid:332).  Dabei  traf  der  Lkw  etwa 
+
+mi(cid:427)g  mit  der  Führerhausfront  den  Signalmast  des  Lichthauptsignals  X2  und  wurde  dabei 
+
+weiter schwer beschädigt. 
+
+Anzeichen für etwaige technische Mängel an den beteiligten Fahrzeugen ergaben sich nicht, 
+
+so dass auf eine weitergehende Untersuchung der Fahrzeuge verzichtet werden konnte. 
+
+4.2.2  Bauliche	Infrastruktur	
+
+Das Gleis bestand im Bereich des GÜ 6 aus einem Holzschwellenoberbau der Bauform Ks in 
+
+Scho(cid:425)erbe(cid:425)ung. Es war mit Oberleitung 15 kV / 16,7 Hz elektriﬁziert. 
+
+Der kreuzende Randweg Nordost war in Asphaltbauweise ohne Randeinfassungen befes(cid:415)gt. 
+
+Er  war  mit  einem  Fahrbahnübergang  der  Bauart  „Lindau“  (Asphaltbelag  mit  Beischienen) 
+
+ausgesta(cid:425)et. Der Weg verlief in Fahrtrichtung des Lkw zunächst annähernd parallel und links 
+
+zum Gleis, um dieses am GÜ in einer engen S-Kurve zu queren und auf dessen rechter Seite 
+
+dem weiteren Verlauf parallel zu folgen. 
+
+Abbildung 5: Übersicht GÜ 65 
+
+5 Quelle: Geobasisdaten: © GeoBasis-DE / BKG 2024, bearbeitet durch BEU 
+
+Seite 17 von 34 
+
+ 
+ 
+ 
+ 
+                                                       
+Untersuchungsbericht 
+
+Zugkollision, 23.05.2020, München Nord Rbf 
+
+Der GÜ 6 war nicht technisch, sondern durch Übersicht gesichert. Durch den parallelen Verlauf 
+
+von Randweg Nordost und Gleis war für Kra(cid:332)fahrer beider Fahrtrichtungen die Sicht auf sich 
+
+parallel  nähernde  Eisenbahnfahrzeuge  eingeschränkt.  Durch  jeweils  einen  aufgestellten 
+
+Verkehrsspiegel in Fahrtrichtung links des Straßenfahrzeugs sollte die parallele Annäherung 
+
+eines  Eisenbahnfahrzeugs  durch  den  Führer  eines  Straßenfahrzeugs  beobachtet  werden 
+
+können. 
+
+Der  GÜ  war  beidsei(cid:415)g  mit  Verkehrszeichen  (Vz.)  201  (Andreaskreuz)  versehen,  das 
+
+Schienenfahrzeugen  Vorrang  gewährte.  Auch  dieses  sollte  Straßenfahrzeugführende  dazu 
+
+sensibilisieren,  dass  dem  Schienenverkehr  auch  auf  dem  Betriebsgelände  Vorrang  vor  dem 
+
+Straßenverkehr beigemessen wurde. Am Andreaskreuz war zudem ein Vz. 274-10 angebracht, 
+
+das die Geschwindigkeit am GÜ auf 10 km/h beschränkte. Dieses Schild befand sich in einem 
+
+verwi(cid:425)erten Zustand ohne Reﬂexionswirkung. Für ein in der Fahrtrichtung des verunglückten 
+
+Lkw in Höhe des Andreaskreuzes vor dem GÜ haltendes Straßenfahrzeug (Sehpunkt) befand 
+
+sich  ein  in  Fahrtrichtung  des  beteiligten  Güterzugs  näherndes  Eisenbahnfahrzeug  in  325  m 
+
+En(cid:414)ernung (Sichtpunkt) und dabei in 180° Sichtwinkel hinter dem Fahrzeug. Zudem befand 
+
+sich  das  annähernde  Schienenfahrzeug  in  diesem  Bereich  in  einem  Gleisbogen,  der  die 
+
+zusätzliche Abwendung der Abstrahlrichtung des Spitzensignals vom straßensei(cid:415)gen Benutzer 
+
+des GÜ bewirkte. 
+
+Abbildung 6: Übersicht Sicht Lkw am GÜ 6 auf sich nähernden Güterzug6 
+
+Es wurde bei der Untersuchung festgestellt, dass für Kra(cid:332)fahrer in dieser Begegnungssitua(cid:415)on 
+
+das  Eisenbahnfahrzeug  in  dieser  En(cid:414)ernung  nicht  wahrzunehmen  war.  Erst  ab  Höhe  der 
+
+Weiche 750, also im Abstand von ca. 90 m zum GÜ 6, konnte ein Schienenfahrzeug über den 
+
+6 Quelle: Geobasisdaten: © GeoBasis-DE / BKG 2024, bearbeitet durch BEU 
+
+Seite 18 von 34 
+
+ 
+ 
+ 
+                                                       
+Untersuchungsbericht 
+
+Zugkollision, 23.05.2020, München Nord Rbf 
+
+rechten  Außenspiegel  eines  Straßenfahrzeugs  und  mit  Schulterblick  des  Kra(cid:332)fahrers 
+
+wahrgenommen werden. 
+
+Es  konnte  ferner  nicht  ermi(cid:425)elt  werden,  ob  bei  einem  großen  Straßenfahrzeug,  wie  dem 
+
+verunglückten  Lkw,  der  aufgestellte  Verkehrsspiegel  eine  sichere  und  rechtzei(cid:415)ge 
+
+Wahrnehmung eines sich nähernden Eisenbahnfahrzeugs unterstützen konnte. 
+
+Der  GÜ 6  war  mit  einer  weißen  Nummerntafel  gekennzeichnet.  An  den  so  markierten  GÜ 
+
+dur(cid:332)en Fahrzeugführende gemäß den vom EIU aufgestellten Regelungen nach Prüfung, dass 
+
+sich keine Schienenfahrzeuge nähern, den GÜ 6 queren ohne dass ein Halt erforderlich wäre. 
+
+Die Nummerntafel befand sich am selben Mast wie das Andreaskreuz und wurde von diesem 
+
+weitreichend verdeckt. 
+
+Abbildung 7: Ansicht GÜ 6 mit Beschilderung und Verkehrsspiegel 
+
+Gemäß  den  genannten  Feststellungen 
+
+zur  gegebenen  Topologie  und 
+
+zu  den 
+
+Betriebsgegebenheiten des GÜ 6 war festzustellen, dass Führende von Straßenfahrzeugen die 
+
+Annäherung von Schienenfahrzeugen mit einer zulässigen Höchstgeschwindigkeit von bis zu 
+
+60 km/h  nicht  derart  frühzei(cid:415)g  beobachten  konnten,  dass  ein  konﬂik(cid:414)reies  Befahren  und 
+
+Seite 19 von 34 
+
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 23.05.2020, München Nord Rbf 
+
+rechtzei(cid:415)ges  Räumen  des  GÜ 6  selbst  bei  größter  Vorsicht  und  Beachtung  aller  örtlichen 
+
+Gebote durch sie sichergestellt gewesen wäre. Auch war eine Unterstützung der Übersicht 
+
+durch den Verkehrsspiegel nicht gegeben, wenn sich große Straßenfahrzeuge innerhalb der 
+
+über den Spiegel aufgespannten Sichtbeziehung befanden. Der vorgefundene Umstand nicht 
+
+sicherheitswirksamer  Sichtverhältnisse  wird  daher  als  ein  ursächlicher  Faktor [F1]  für  das 
+
+Ereignis  eingeordnet.  Auch 
+
+lösten  die  vom  EIU  aufgestellten  Regelungen,  dass 
+
+Straßenfahrzeuge  vor  dem  Befahren  des  GÜ  grundsätzlich  anzuhalten  ha(cid:425)en  und  alle 
+
+Fahrzeugführenden hierzu zu unterweisen waren, dieses Deﬁzit bei der Benutzung des GÜ 6 
+
+nicht. 
+
+Vom  EIU  angeforderte  Sich(cid:414)lächenberechnungen  konnten  unter  Verweis,  dass  diese  nach 
+
+Regelwerk nicht vorgesehen seien, zunächst nicht vorgelegt werden. Die BEU forderte das EIU 
+
+darau(cid:300)in auf, eine Berechnung der Sich(cid:414)lächen durchzuführen. Nach Aussage des EIU wären 
+
+nach  nunmehr  durchgeführter  Berechnung  die  erforderlichen  Sich(cid:414)lächen  gegeben.  Die 
+
+angewendete Berechnungsmethode basierte jedoch auf den Regeln, welche für annähernd 
+
+rechtwinklige  Kreuzungen  von  Gleis  und  Straße  bewährt  waren.  Diese  Grundlagen  sind  im 
+
+vorliegenden  Fall  der  annähernden  Parallelführung  von  Randweg  und  Gleis  sowie  dessen 
+
+vorausgehender  Bogenlage  nicht  übertragbar.  Eine  plausible  Darlegung,  dass 
+
+Fahrzeugführende vom Straßenfahrzeug aus sich nähernde Eisenbahnfahrzeuge unter diesen 
+
+Umständen rechtzei(cid:415)g wahrnehmen konnten, wurde nicht erbracht. Auch blieb die Funk(cid:415)on 
+
+des aufgestellten Verkehrsspiegels unbes(cid:415)mmt. Ebenso blieb oﬀen, welchem Schutzziel die 
+
+durch  Vz. 274-10  ausgegebene  Beschränkung  der  zulässigen  Höchstgeschwindigkeit  auf 
+
+10 km/h für die Benutzer des GÜ 6 diente und wie dies in den Betriebsgegebenheiten des GÜ 
+
+berücksich(cid:415)gt  war,  da  es  den  Mindest-Zeitbedarf  bis  zum  vollständigen  Räumen  des 
+
+Gefahrenbereichs durch ein Straßenfahrzeug beeinﬂusste. 
+
+Nach  den  zum  Ereigniszeitpunkt  für  das  EIU  geltenden  Anforderungen  gemäß  Verordnung 
+
+(EU) Nr. 1169/2010, Anhang II, sollen Verfahren zur Ermi(cid:425)lung von Risiken im Zusammenhang 
+
+mit dem Eisenbahnbetrieb, auch von Risiken, die sich direkt aus den Arbeitstä(cid:415)gkeiten, der 
+
+Art des Arbeitsplatzes, der Arbeitsbelastung und den Tä(cid:415)gkeiten anderer Organisa(cid:415)onen bzw. 
+
+Personen ergeben, bestehen (Kriterium A.1). Neben der Risikoermi(cid:425)lung sind auch Verfahren 
+
+zur Entwicklung und Einführung von Risikokontrollmaßnahmen gefordert (Kriterium A.2). 
+
+Seite 20 von 34 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 23.05.2020, München Nord Rbf 
+
+Der Umstand, dass zur Topologie und den nicht widerspruchsfreien Betriebsbedingungen des 
+
+GÜ 6  eine  Risikoermi(cid:425)lung  und  Risikokontrolle  anhand  plausibler  Planungs-  und 
+
+Gestaltungsregeln nicht dargelegt werden konnte, wird als systemischer Faktor gewertet [S1]. 
+
+Sons(cid:415)ge bauliche Mängel an der Infrastruktur, die für das Unfallgeschehen von ursächlichem 
+
+oder begüns(cid:415)gendem Einﬂuss gewesen sein könnten, wurden nicht festgestellt. 
+
+4.2.3  Leit‐	und	Sicherungstechnik	
+
+Der Eisenbahnbetrieb im Bereich der Unfallstelle wurde vom elektronischen Stellwerk (ESTW) 
+
+München Nord Rbf geführt. Die Zugsicherung erfolgte mi(cid:425)els punk(cid:414)örmiger Zugbeeinﬂussung 
+
+(PZB),  die  Kommunika(cid:415)on  mi(cid:425)els  digitalem  Zugfunk  Global  System 
+
+for  Mobile 
+
+Communica(cid:415)ons – Rail (GSM-R). Hinweise auf etwaige Störungen an den Anlagen ergaben sich 
+
+im Rahmen der Untersuchung nicht. 
+
+Der GÜ 6 war nicht technisch gesichert und entsprechend nicht in die Sicherungstechnik der 
+
+Betriebsstelle eingebunden. 
+
+4.3  Menschliche	Faktoren	
+
+In diesem Kapitel werden Untersuchungserkenntnisse zu menschlichen Handlungen und/oder 
+
+Entscheidungen  am  gefährlichen  Ereignis  beteiligter  Personen  dargestellt.  Entsprechende 
+
+Erkenntnisse  können  sich  hierbei  insbesondere  im  Bereich  menschlicher  und  individueller 
+
+Merkmale sowie organisatorischer und Arbeitsplatzfaktoren ergeben. 
+
+4.3.1  Untersuchung	im	Bereich	des	EIU	
+
+Verantwortlich für den sicheren Betrieb ist die Eisenbahn. Soweit sich die Eisenbahnen zur 
+
+Erfüllung  ihrer  Verantwortung  handelnder  Personen  bedienen,  werden  diese  hier  als 
+
+Funk(cid:415)onen  dargestellt.  Die  handelnden  Funk(cid:415)onen  haben  die  vom  Unternehmer  zur 
+
+Verfügung gestellten Mi(cid:425)el und Ressourcen, um die ihnen übertragenen Aufgaben zu erfüllen. 
+
+Vor  diesem  Hintergrund  müssen  die  folgenden  Funk(cid:415)onen  betrachtet  werden,  wobei  die 
+
+Ausgestaltung  der  Verantwortlichkeiten  der  einzelnen  Funk(cid:415)onen  grundsätzlich  der 
+
+unternehmensinternen Festlegung folgt. 
+
+Fdl München Nord Rbf 
+
+Für  die  Steuerung  der  eisenbahnbetrieblichen  Abläufe  auf  den  Schienenwegen  im  Rbf  war 
+
+seitens des EIU der Fdl München Nord Rbf zuständig. Hierzu gehörte auch, den Fahrweg für 
+
+Seite 21 von 34 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 23.05.2020, München Nord Rbf 
+
+den  Güterzug  DGS 50214  einzustellen  und  die  Fahrt  zuzulassen.  Hinweise  auf  Fehler  oder 
+
+Unregelmäßigkeiten bei diesen Tä(cid:415)gkeiten ergaben sich nicht. 
+
+Der Fdl ha(cid:425)e keinen Einﬂuss und auch keine Sicht auf die Geschehnisse am GÜ 6. Er konnte 
+
+folglich weder die drohende Kollision erkennen noch diese abwenden. Auf eine ausführlichere 
+
+Untersuchung der Handlungen und Qualiﬁka(cid:415)on des Fdl konnte daher verzichtet werden. 
+
+Vom EIU beau(cid:332)ragte, in den Betriebsanlagen beschä(cid:332)igte Externe 
+
+Das  EIU  beau(cid:332)ragte  Unternehmen  mit  der  Durchführung  von  Bauarbeiten  auf  dem 
+
+Betriebsgelände, wo u. a. die speziﬁschen Gefahren des Eisenbahnbetriebs herrschen und sich 
+
+im Ereignis auch realisierten. Das EIU erlaubte auch den Einsatz von Unterau(cid:332)ragnehmern. 
+
+Organisatorisch  war  seitens  des  EIU  nicht  sichergestellt,  dass  der  Einsatz  von  Personalen 
+
+entsprechender  Unterau(cid:332)ragnehmer  auf  dem  Betriebsgelände  nur  mit  einschlägiger 
+
+Unterweisung in die Betriebsanlagen sichergestellt war. Für Straßenfahrzeugführer, wie dem 
+
+verunfallten  Fahrer  des  Lkw  konnten  die  an  der  Zufahrt  und  an  den  GÜ  auﬃndbaren 
+
+Aussta(cid:425)ungen  wie  Vz.  gemäß  StVO  und  Verkehrsspiegel  den  Eindruck  erwecken,  dass  bei 
+
+sorgfäl(cid:415)gem Transfer der bekannten Verhaltensweisen an öﬀentlichen Bahnübergängen und 
+
+Beachtung der einschlägigen Vorgaben am GÜ 6 ein sicheres Benutzen möglich war. 
+
+4.3.2  Untersuchung	im	Bereich	des	EVU	
+
+Der  Tf  war  im  Besitz  eines  gül(cid:415)gen  Triebfahrzeugführerscheins  und  der  erforderlichen 
+
+Zusatzqualiﬁka(cid:415)onen, um den Zug führen zu dürfen. 
+
+Die  Sicherheitseinrichtungen  des  führenden  Tfz  waren  zum  Zeitpunkt  des  Ereignisses 
+
+funk(cid:415)onstüch(cid:415)g. Hinweise auf etwaige Störungen ergaben sich im Rahmen der Untersuchung 
+
+nicht. 
+
+Die Auswertung der EFR-Daten ergab, dass der Zug im Bereich des GÜ 6 mit 50 km/h fuhr. Die 
+
+in diesem Bereich zulässige Geschwindigkeit von 60 km/h wurde somit eingehalten. Hinweise 
+
+auf etwaige Fehler oder Unregelmäßigkeiten bei der Durchführung der Zugfahrt ergaben sich 
+
+im Rahmen der Untersuchung nicht. 
+
+4.3.3  Untersuchung	im	Bereich	der	Auftragnehmer	und	des	Fahrers	des	Lkw	
+
+Mit den Bauarbeiten auf dem Gelände des Rbf war die Arbeitsgemeinscha(cid:332) BG ZBA München, 
+
+bestehend  aus  Swietelsky  AG  und  Bahnbau  Wels  GmbH  beau(cid:332)ragt.  Diese  setzte  die 
+
+Penzenstadler GmbH als Unterau(cid:332)ragnehmer für Transportleistungen ein. 
+
+Seite 22 von 34 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 23.05.2020, München Nord Rbf 
+
+Zu den im Rahmen der Arbeiten zu beachtenden Regeln gehörten u. a. auch die Vorgaben des 
+
+EIU zur Benutzung der innerbetrieblichen Wege des Rbf einschließlich der GÜ. Diese waren 
+
+von der Arbeitsgemeinscha(cid:332) im Rahmen einer Unterweisung allen beteiligten Beschä(cid:332)igten 
+
+zu vermi(cid:425)eln. Die Unterweisung war mit Unterschri(cid:332)enliste nachzuweisen. 
+
+Die  Swietelsky AG  führte  derar(cid:415)ge  Unterweisungen  durch,  an  denen  auch  Fahrer  der 
+
+Penzenstadler GmbH teilnahmen. 
+
+Für  die  Einsatzplanung  der  erforderlichen  Lkw  und  des  zugehörigen  Fahrpersonals  war  die 
+
+Penzenstadler GmbH verantwortlich. Als Subunternehmer trafen die Penzenstadler GmbH die 
+
+Pﬂichten  aus  §  12  ArbSchG.  So  war  u. a.  sicherzustellen,  dass  Einsatzplanung  und 
+
+Unterweisungen den speziﬁschen Arbeitsbedingungen entsprachen. 
+
+Der  verunfallte  Fahrer  wurde  für  diese  Fahrten  eingeteilt,  um  eine  Lenkzeitüberschreitung 
+
+eines anderen Fahrers zu vermeiden. Hierbei war vom Unternehmen zu berücksich(cid:415)gen, dass 
+
+es  nur  für  die  Baustelle  unterwiesene  Fahrzeugführende  einsetzte. 
+
+Inwieweit  die 
+
+Penzenstadler GmbH  von  dem  Erfordernis  der  Unterweisung  in  die  Regelungen  der 
+
+innerbetrieblichen Wege des Rbf Kenntnis ha(cid:425)e, konnte im Rahmen der Untersuchung nicht 
+
+abschließend aufgeklärt werden. 
+
+Der Lkw-Fahrer war im Besitz eines gül(cid:415)gen Führerscheins und mit dem Fahrzeug vertraut. 
+
+Es blieb im Rahmen der Untersuchung letztlich auf allen Ebenen oﬀen, inwieweit dem Fahrer 
+
+die  vom  EIU  zur  Benutzung  des  GÜ 6  aufgestellten  Vorgaben  bekannt  waren.  Weder  von 
+
+Swietelsky AG  noch  Penzenstadler GmbH  konnten  Nachweise  über  die  Unterweisung  des 
+
+verunfallten Fahrers vorgelegt werden. 
+
+Das  Fehlen  des  Nachweises  einer  Unterweisung  des  Fahrers  und  das  darau(cid:300)in  vermutete 
+
+Unterlassen  der  tatsächlichen  Durchführung  einer  Unterweisung  sowie  die  nicht 
+
+nachgewiesene  Umsetzung  der  Pﬂicht  zur  Zusammenarbeit  mehrerer  Arbeitgeber  wird  als 
+
+ursächlicher  Faktor  gewertet [F2].  Aufgrund  der  am  GÜ  6  vorliegenden,  deﬁzitären 
+
+Sichtverhältnisse  [F1]  war  ein  Unfallereignis  jedoch  auch  bei  einer  nachgewiesenen 
+
+Unterweisung  nicht  auszuschließen.  Der  Fahrer hä(cid:425)e  bei  durchgeführter  Einweisung  in  die 
+
+vom EIU ausgestellten Regelungen den sich mit ca. 50 km/h nähernden Güterzug hinter den 
+
+sichteinschränkenden  Au(cid:297)auten  seines  Lkw  wahrnehmen  müssen.  Ein  Wahrnehmen  des 
+
+Güterzuges  hä(cid:425)e  nur  anhand  des  sich  bewegenden  Spitzensignals  in  mehreren  Dutzend 
+
+Metern  En(cid:414)ernung  erfolgen  können,  wobei  dieses  zudem  durch  den  Gleisbogen  in  leicht 
+
+Seite 23 von 34 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 23.05.2020, München Nord Rbf 
+
+abgewendeten Winkel zum Betrachter stand. Aufgrund der Sichteinschränkungen durch die 
+
+Au(cid:297)auten des LKW blieben höchstens die Sichtbeziehungen über die Außenspiegel des Lkw 
+
+oder  über  den  Verkehrsspiegel  möglich.  In  der  Sichtbeziehung  über  den  Verkehrsspiegel 
+
+befand sich jedoch wiederum der Lkw. Somit stand für eine Wahrnehmung des sich in der 
+
+Dunkelheit  in  En(cid:414)ernung  und  abgewendeten  Winkel  bewegende  Spitzensignal  nur  die 
+
+Sichtbeziehung über den rechten Außenspiegel zur Verfügung. Es ist zu bezweifeln, dass diese 
+
+Sichtbeziehung zu jeder Zeit in der Annäherungsphase und hinsichtlich der Erfassbarkeit der 
+
+Zugannäherung auskömmlich war. 
+
+Nach den Aufzeichnungen des Fahrtenschreibers des Lkw näherte sich dieser an den GÜ 6 mit 
+
+einer Geschwindigkeit von bis zu 17 km/h an. Er hielt vor dem GÜ nicht an und fuhr mit dieser 
+
+Geschwindigkeit  auf  den  GÜ,  obwohl  ab  dem  Andreaskreuz  durch  Vz. 274-10  eine 
+
+Geschwindigkeitsbeschränkung  auf  10 km/h  verfügt  war.  Mit  der  durch  Auswertung 
+
+ermi(cid:425)elten Geschwindigkeit von 17 km/h kollidierte der Lkw in Höhe seines Führerhauses mit 
+
+dem 
+
+herannahenden  Güterzug.  Ob 
+
+bei  Beachtung 
+
+der  Beschränkung 
+
+der 
+
+Höchstgeschwindigkeit  die  Kollision  am  GÜ 6  nicht  eingetreten  wäre,  weil  sich  andere 
+
+Zeitabläufe ergeben  hä(cid:425)en  oder  der  Fahrer  den  herannahenden  Zug  trotz  eingeschränkter 
+
+Sichtverhältnisse  noch  wahrgenommen  hä(cid:425)e,  ließ  sich  nicht  bewerten.  Das  unterlassene 
+
+Befolgen  der  Beschränkung  der  Höchstgeschwindigkeit  durch  den  Fahrer  wird  dennoch  als 
+
+beitragender Faktor geführt [F3]. 
+
+Da  das  EIU  den  beau(cid:332)ragten  Bauunternehmen  eine  Pﬂicht  zur  Unterweisung  aller 
+
+Beschä(cid:332)igten  auferlegt  ha(cid:425)e,  ist  das  Unterlassen  der  wirksamen  Überwachung  und 
+
+Sicherstellung  der  Verpﬂichtungen  auf  allen  Ebenen  ebenfalls  als  systemischer  Faktor  zu 
+
+werten [S2]. Die Unterweisung aller Beschä(cid:332)igten hat neben dem Aspekt des Arbeitsschutzes 
+
+in  einer  Betriebsanlage  des  EIU  auch  eine  Rückwirkung  auf  die  Sicherheit  des 
+
+Eisenbahnbetriebs,  bspw.  auch  bzgl.  der  Sicherheit  an  den  GÜ.  Gemäß  Verordnung  (EU) 
+
+Nr. 1169/2010, Anhang II, Kapitel C.5 und C.4, kommt der Sicherstellung der Ausführung von 
+
+Sicherheitsaufgaben eine Bedeutung im Sicherheitsmanagementsystem der Eisenbahnen zu. 
+
+4.4  Feedback‐	und	Kontrollmechanismen	
+
+Das Gelände des Rbf München Nord sollte gemäß Merkbla(cid:425) des EIU nur von Beschä(cid:332)igten 
+
+befahren werden, die in die zu beachtenden Regelungen des Rbf unterwiesen waren. Diese 
+
+Unterweisung erfolgte im Regelfall durch das EIU. Für im Rahmen von Baumaßnahmen in den 
+
+Seite 24 von 34 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 23.05.2020, München Nord Rbf 
+
+Betriebsanlagen Tä(cid:415)ge wurde abweichend hiervon der bauausführenden Firma durch das EIU 
+
+auferlegt, ihre eigenen Beschä(cid:332)igte und die der Unterau(cid:332)ragnehmer einzuweisen, nachdem 
+
+die Unterweisung vom EIU an Swietelsky AG ausgegeben war. 
+
+Im  Rahmen  der  Untersuchung  wurden  innerhalb  der  Regelungen  der  Au(cid:332)raggeber-
+
+Au(cid:332)ragnehmer-Verhältnisse  keine  Verfahrensvorgaben  gefunden  oder  ausgeführte 
+
+Ak(cid:415)vitäten festgestellt, die auf eine Überwachung der delegierten Pﬂichten der beau(cid:332)ragten 
+
+Swietelsky AG gerichtet waren. Insbesondere erfolgte keine Überprüfung durch das EIU selbst, 
+
+ob  eingesetzte  Beschä(cid:332)igte  unterwiesen  waren.  Ebenso  ha(cid:425)e  das  EIU  keine  zusätzlichen 
+
+Mechanismen  etabliert,  die  ein  Versagen  dieses  Delega(cid:415)onsprinzips  frühzei(cid:415)g  oﬀenbart 
+
+hä(cid:425)en. Dies wäre angesichts der bestehenden und sich im Ereignis realisierten speziﬁschen 
+
+Gefahren  des  Eisenbahnbetriebs  geboten  gewesen.  Insbesondere  hat  der  Inhaber  eines 
+
+Betriebsgeländes einen Wissensvorsprung, der sich zu einer Obliegenheit oder Verpﬂichtung 
+
+zur Überprüfung eingesetzter Bauﬁrmen verdichten dür(cid:332)e. 
+
+Derar(cid:415)ge  Mechanismen  begründen  sich  auf  den  zum  Ereigniszeitpunkt  bestehenden 
+
+Rechtspﬂichten,  die  dem  EIU  gemäß  Verordnung  (EU)  Nr. 1169/2010,  Anhang  II,  oblagen. 
+
+Hiernach mussten Verfahren zur Überprüfung und Kontrolle des Sicherheitsniveaus und der 
+
+Ergebnisse sämtlicher von einem Au(cid:332)ragnehmer oder Zulieferer erbrachten Dienstleistungen 
+
+bestehen,  damit  sichergestellt  war,  dass  sie  den  vertraglichen  Anforderungen  genügen 
+
+(Kapitel  C.2).  Hierzu  zählen  auch  Ergebnisse  ausführungsunterstützender  Prozesse  mit 
+
+Bedeutung  für  die  Eisenbahnsicherheit,  wie  die  Erfüllung  der  Pﬂicht  zur  Unterweisung 
+
+Beschä(cid:332)igter.  Die  Unterweisung  hat  auch  eine  Rückwirkung  auf  die  Sicherheit  des 
+
+Eisenbahnbetriebs im Bereich der GÜ, so dass sie neben den Belangen des Arbeitsschutzes 
+
+auch für die Sicherheit des Eisenbahnbetriebs und der Betriebsführung des EIU insgesamt von 
+
+Bedeutung war. 
+
+Das Fehlen eines solchen Kontrollmechanismus ist als beitragender Faktor einzustufen [F4]. 
+
+Das  diesbezüglich  verwirklichte  Sicherheitsniveau  und  die  Ergebnisse  der  von  den 
+
+Au(cid:332)ragnehmern  erbrachten  Dienstleistungen  waren 
+
+seitens  des  EIU  über  das 
+
+Sicherheitsmanagement  gemäß  gesetzlicher  Anforderungen  zu  kontrollieren,  woraus  sich 
+
+zugleich auch eine systemische Bedeutung dieses Faktors ergibt [S4]. 
+
+Seite 25 von 34 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 23.05.2020, München Nord Rbf 
+
+4.5  Frühere	Ereignisse	ähnlicher	Art	
+
+In der Unfalldatenbank der BEU sind für die Jahre 2002 und 2004 zwei weitere Unfallereignisse 
+
+im  Bf  München  Nord  Rbf  am  GÜ 6  erfasst.  In  beiden  Fällen  waren  die  Fahrtrichtung  des 
+
+Straßenfahrzeugs und des Eisenbahnfahrzeugs iden(cid:415)sch mit dem vorliegenden Fall. Zu daraus 
+
+getroﬀenen  Maßnahmen  lagen  der  BEU  keine  Erkenntnisse  vor.  Weitere  Vorkommnisse 
+
+wurden vom EIU nicht gemeldet. 
+
+Seite 26 von 34 
+
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 23.05.2020, München Nord Rbf 
+
+5  Schlussfolgerungen	
+
+Das  folgende  Kapitel  enthält  eine  Zusammenfassung  der  ermi(cid:425)elten  ursächlichen, 
+
+beitragenden  und  systemischen  Faktoren.  Zusätzlich  sind  zwei  weitere  Unterkapitel 
+
+vorgesehen,  um  Informa(cid:415)onen  zu  bereits  ergriﬀenen  Maßnahmen  und  zu  zusätzlichen 
+
+Bemerkungen zu teilen. 
+
+5.1  Zusammenfassung	und	Schlussfolgerung	
+
+Aufgrund  der  Charakteris(cid:415)k  des  Ereignisses  und  der  gewonnenen  Erkenntnisse  konnten 
+
+Einﬂussfaktoren wie beispielsweise die Leit- und Sicherungstechnik, die baulichen Anlagen der 
+
+Gleisinfrastruktur oder die Handlungen des Fdl als nicht ereignisrelevant festgestellt werden. 
+
+Aus den Untersuchungen ließen sich folgende Faktoren ableiten. Zu einzelnen sieht die BEU 
+
+die Erhöhung der Eisenbahnsicherheit geboten und spricht dahingehende Empfehlungen aus: 
+
+Zum ursächlichen Faktor „Sichtverhältnisse am GÜ 6“ [F1]: 
+
+Die am GÜ 6 vorgefundene Situa(cid:415)on bzgl. Topologie und Betriebsgegebenheiten zeigte auf, 
+
+dass  aufgrund  der  gegebenen  Sichtverhältnisse  ein  sich  mit  bis  zu  60km/h  annäherndes 
+
+Schienenfahrzeug nicht derart vom Führenden eines Straßenfahrzeugs wahrzunehmen war, 
+
+dass ein konﬂik(cid:414)reies, sicheres Queren des GÜ erwartet werden konnte. Dieses Risiko bestand 
+
+auch weiter, wenn Fahrzeugführende in das Verfahren „weiße Nummerntafel“ des BÜ, d. h. 
+
+Befahren nach Prüfung auf Annäherung von Schienenfahrzeugen unterwiesen waren. Die in 
+
+dieser  gestalterischen  wie  organisatorischen  Ausgangslage  vom  EIU  nicht  kontrollierten 
+
+Risiken widersprechen den gesetzlichen Anforderungen an eine sichere Betriebsführung gem. 
+
+§ 4 Abs. 3 AEG. Diese Pﬂicht muss auch dann erfüllt werden, wenn ein vom EIU direkt oder 
+
+indirekt beau(cid:332)ragtes Befahren der eigenen Betriebsanlagen mit Straßenfahrzeugen erfolgt. 
+
+Entsprechende Verpﬂichtungen zu einem sicheren Betrieb bestanden bereits zum Zeitpunkt 
+
+des  Ereignisses  und  ließen  sich  auch  aus  den  zum  Zeitpunkt  der  Veröﬀentlichung  dieses 
+
+Berichts 
+
+für 
+
+das 
+
+EIU 
+
+geltenden 
+
+Rechtsvorschri(cid:332)en 
+
+im  Hinblick 
+
+auf 
+
+das 
+
+Sicherheitsmanagementsystem  herleiten,  siehe  hierzu  unten  zur  systemischen  Dimension 
+
+dieses Faktors [S1]. 
+
+Seite 27 von 34 
+
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 23.05.2020, München Nord Rbf 
+
+Zum systemischen Faktor „Risikokontrolle durch Regeln zu Gestaltung und Betrieb“ [S1]: 
+
+Als systemischer Faktor wurde in der Untersuchung des Ereignisses der Umstand ausgemacht, 
+
+dass  zu  den  Deﬁziten  am  GÜ 6  keine  plausiblen  Planungs-  und  Gestaltungsregeln  in  der 
+
+Sicherheitsorganisa(cid:415)on des EIU eingeführt waren und angewendet wurden. Diese hä(cid:425)en dazu 
+
+führen müssen, dass das Befahren des GÜ 6 bspw. mit dem ortsbekannten Verfahren „rote 
+
+Nummerntafel“ nur nach Vereinbarung mit dem zuständigen Fdl erfolgen dür(cid:332)e. Auch bereits 
+
+die Zuordnung der GÜ in die örtlich unterschiedene Verfahrensweise konnte durch das EIU 
+
+nicht vorgelegt werden. 
+
+Beispielsweise können die Planungs- und Gestaltungsregeln für von Zügen befahrenen GÜ in 
+
+Betriebsanlagen  an  den 
+
+fachlichen  und  anerkannten  Grundsätzen 
+
+für  öﬀentliche 
+
+Bahnübergänge  gemäß  § 11  Eisenbahn-Bau-  und  Betriebsordnung  orien(cid:415)ert  werden. 
+
+Grundgegebenheiten  wie  die  begrenzten  Sichtverhältnisse  der  Fahrzeugführenden  aus 
+
+Straßenfahrzeugen  heraus  sind  unveränderbar  und  müssen  hinsichtlich  der  Sicherheit  der 
+
+Prozeduren zur Risikokontrolle an den GÜ iden(cid:415)sch berücksich(cid:415)gt werden. Ggf. wären daraus 
+
+auch die Topologie und Betriebsgegebenheiten von GÜ zu ändern. Hinsichtlich menschlicher 
+
+Faktoren zu berücksich(cid:415)gen wäre dabei auch die Vereinbarkeit mit den, für Betriebsfremde 
+
+von  öﬀentlichen  Bahnübergängen  bekannten  Verhaltensweisen  an  Bahnübergängen  und 
+
+deren Erscheinungsbild. Auch wäre einzubeziehen, inwieweit die Wirksamkeit von Geboten, 
+
+einen  GÜ  nur  unter  vorliegender  Zus(cid:415)mmung  des  zuständigen  Infrastrukturpersonals  zu 
+
+queren  erhöht  wird,  wenn  bspw.  die  Verhaltensweise  des  örtlichen  Verfahrens  „rote 
+
+Nummerntafel“ direkt in der Örtlichkeit und deutlich wahrnehmbar wäre. 
+
+Zur  Erfüllung  der  gesetzlichen  Anforderung  an  einen  sicheren  Eisenbahnbetrieb  sollen  die 
+
+Prozesse  und  Verfahren  eines  einzurichtenden  SMS  dienen.  Zwischenzeitlich  wurden  diese 
+
+gesetzlichen  Anforderungen  durch  neue  Rechtsakte  aktualisiert.  Hiernach  ist  nun  für  ein 
+
+Sicherheitsmanagementsystem  des  EIU  die  „Delegierte  Verordnung  (EU) 2018/762  der 
+
+Kommission  vom  8. März 2018  über  gemeinsame  Sicherheitsmethoden  bezüglich  der 
+
+Anforderungen an Sicherheitsmanagementsysteme gemäß der Richtlinie (EU) 2016/798 des 
+
+Europäischen  Parlaments  und  des  Rates  und  zur  Au(cid:300)ebung  der  Verordnungen  (EU) 
+
+Nr. 1158/2010  und  (EU)  Nr. 1169/2010“,  wie  bereits  selbst  im  Titel  als  nachfolgend  zu 
+
+früheren Anforderungen bezeichnet, einschlägig. Gemäß des Kriteriums 3.1.1.1. a) sind alle 
+
+betrieblichen, organisatorischen und technischen Risiken, die für die Art, den Umfang und den 
+
+Bereich der von der Organisa(cid:415)on durchgeführten Tä(cid:415)gkeiten relevant sind, zu erfassen und 
+
+Seite 28 von 34 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 23.05.2020, München Nord Rbf 
+
+zu analysieren, sowie gemäß c) Sicherheitsmaßnahmen zu entwickeln und in Kra(cid:332) zu setzen 
+
+sowie die damit verbundenen Zuständigkeiten anzugeben. 
+
+Die  BEU  empﬁehlt  wegen  der  Schwere  des  vorliegenden  Ereignisses,  dem  wiederholten 
+
+Au(cid:332)reten von Ereignissen in dieser Betriebsanlage und der vorgefundenen Deﬁzite der Sicher-
+
+heitsmaßnahmen  an  diesem  GÜ,  dass  das  EIU  die  Planungs-  und  Betriebsregeln  für  GÜ 
+
+hinsichtlich ausreichender Risikokotrolle überprü(cid:332) und ggf. verbessert, auch mit Wirkung auf 
+
+andere GÜ (Sicherheitsempfehlung 02/2025). 
+
+Zum ursächlichen Faktor „Unterweisungspﬂicht über alle Beschä(cid:332)igten“ [F2]: 
+
+Es ist Ergebnis der Untersuchung, dass auch deﬁzi(cid:414)reie Sicherheitsregeln zur Benutzung des 
+
+GÜ den verunfallten Fahrer nicht erreicht hä(cid:425)en, weil eine Unterweisung für die Tä(cid:415)gkeiten 
+
+im Bf München Nord Rbf seine Person betreﬀend nicht erfolgt war. 
+
+Hierzu  bestand  seitens  seines  Arbeitgebers  Penzenstadler GmbH  gemäß  § 3 ArbSchG  eine 
+
+Grundpﬂicht und gemäß § 8 ArbSchG eine gemeinsame Pﬂicht der DB Netz AG, Swietelsky AG 
+
+und Penzenstadler GmbH zur Zusammenarbeit mehrerer Arbeitgeber. Diese Zusammenarbeit 
+
+war hinsichtlich der DB Netz AG betreﬀend der Gefahren für die Sicherheit und Gesundheit 
+
+aller in deren Betriebsanlage Tä(cid:415)ger zwar mit der au(cid:332)ragnehmenden Swietelsky AG deﬁniert 
+
+und bzgl. Zuständigkeiten auch delegiert, wurde aber im Unterverhältnis zwischen Swietelsky 
+
+AG und Penzenstadler GmbH in Bezug auf den verunfallten Fahrer nicht realisiert. 
+
+Dieses Deﬁzit ist für sich genommen nicht der Sicherheit des Eisenbahnbetriebs gemäß § 4 
+
+Abs. 3 AEG zuzuordnen, sondern ein Aspekt der für das Unternehmen Penzenstadler GmbH 
+
+und  seiner  Zusammenarbeit  mit  anderen  Arbeitgebern  grundsätzlich  hinsichtlich  der 
+
+Überwachung des Arbeitsschutzgesetzes zuständigen Stellen und Behörden. 
+
+Im  Hinblick  auf  die  zwischenzeitliche  Beendigung  der  Baumaßnahmen  wird  dieser  Aspekt 
+
+daher  nicht  weiter  erörtert,  siehe  aber  die  folgenden  Ausführungen  zum  Vorliegen  eines 
+
+systemischen Faktors [S2]. 
+
+Zum systemischen Faktor „Sicherstellung der Ausführung von Sicherheitsaufgaben“ [S2]: 
+
+Die  Wirksamkeit  der  Unterweisungen  der  Beschä(cid:332)igten  mit  Tä(cid:415)gkeit  innerhalb  von 
+
+Betriebsanlagen  des  EIU  ha(cid:425)e 
+
+im  vorliegenden  Fall  eine  Rückwirkung  auf  die 
+
+Eisenbahnsicherheit.  Die  Nichtausführung  von  in  der  Unterweisung  gegenständlichen 
+
+Sicherheitsaufgaben, ebenso ein Nichtbeachten von Befugnissen oder Verboten, stellte eine 
+
+Seite 29 von 34 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 23.05.2020, München Nord Rbf 
+
+Gefahr für die Zugfahrten im Bf München Nord Rbf dar. Im vorliegenden Fall kam es durch die 
+
+Kollision  mit  dem  Lkw  bei  den  beteiligten  Eisenbahnen  zu  Sachschäden  an  der 
+
+Infrastrukturausrüstung und an den Fahrzeugen, weil für den Lkw-Fahrer nicht sichergestellt 
+
+war, dass er für die Eisenbahnsicherheit wirkende Regeln kennen konnte. 
+
+Für die Baumaßnahmen ha(cid:425)e das EIU die Vorgehensweise gewählt, dass die Unterweisung 
+
+der Beschä(cid:332)igten in allen Fällen selbstständig durch die au(cid:332)ragnehmende Swietelsky AG zu 
+
+erfüllen war. Gegenstand der Unterweisung waren Regeln für die Arbeitssicherheit, aber auch 
+
+implizit  Regeln  für  die  Eisenbahnsicherheit.  Hierzu  sicherstellende  Vorgaben  an  den 
+
+Au(cid:332)ragnehmer  oder  zusätzliche  eigene  organisatorische  Verfahren  zur  Unterstützung  der 
+
+Zuverlässigkeit  dieses  Delega(cid:415)onsprinzips  waren  vom  EIU  nicht  getroﬀen  worden.  Als 
+
+denkbare Beispiele für solche Unterstützungen können die auf allen Ebenen zu vermi(cid:425)elnde 
+
+Kenntnis  über  den  Kreis  der  zu  befähigenden  Personen  gezählt  werden,  oder 
+
+Verfahrensweisen, wonach Unterweisungen immer vom EIU selbst ausgeführt werden oder 
+
+die  Tä(cid:415)gkeit  von  Personen  einer  vorhergehenden  Freigabe  bedarf,  um  die 
+
+Kenntnisvermi(cid:425)lung sicherzustellen, bspw. auch in der konkreten Umsetzung im Rahmen des 
+
+Zugangs zur Betriebsanlage. 
+
+Auch gemäß aktuell einschlägiger Verordnung (EU) 2018/762, Anhang II, obliegt es dem EIU, 
+
+in  seinem  Sicherheitsmanagementsystem  gemäß  Kriterium  4.4.3  f)  dafür  zu  sorgen,  dass 
+
+sicherheitsrelevante Informa(cid:415)onen vor ihrem Wirksamwerden mitgeteilt werden. Hierunter 
+
+fallen  auch  Regeln  zur  Verhaltensweise  beau(cid:332)ragter  Externer  an  einem  GÜ  innerhalb  der 
+
+Betriebsanlagen, welche gemäß Kriterium 4.2.1 f) der genannten Verordnung als speziﬁsche 
+
+Bestandteile des SMS zu schulen sind. 
+
+Seitens des EIU ist in diesem Zusammenhang die Gestaltung der bauvertraglichen Regeln und 
+
+das in diesem Fall vorgefundene Delega(cid:415)onsprinzip der Unterweisungen zu betrachten. Auch 
+
+bzgl.  der  Beau(cid:332)ragung 
+
+von  Unternehmen 
+
+zum 
+
+Erbringen 
+
+von  Bau-  und 
+
+Instandhaltungsleistungen  muss  das  EIU  gemäß  Verordnung (EU) 2018/762,  Anhang II, 
+
+Kriterium 4.6.1 b),  einen  systema(cid:415)schen  Ansatz  verfolgen,  um  sich  mit  den  Risiken  zu 
+
+beschä(cid:332)igen, die mit der Konzep(cid:415)on und Nutzung von Ausrüstung, den Aufgaben sowie den 
+
+Arbeitsbedingungen 
+
+und 
+
+organisatorischen 
+
+Regelungen 
+
+zusammenhängen. 
+
+Risikokontrollmaßnahmen, darunter auch Verhaltensweisungen, sind hierbei zu Belangen der 
+
+Arbeitssicherheit und der Bedeutung für die Eisenbahnsicherheit bewusst zu unterscheiden. 
+
+Seite 30 von 34 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 23.05.2020, München Nord Rbf 
+
+Die  Sicherstellung  der  Verbreitung  sicherheitsrelevanter  Informa(cid:415)onen  ist  eng  mit  der 
+
+Überwachung und ggf. Korrektur der Erledigung der Verbreitung verbunden, siehe unten zu 
+
+[F4].  Die  BEU 
+
+spricht  daher 
+
+zum 
+
+systemischen  Faktor 
+
+[S2]  keine 
+
+separate 
+
+Sicherheitsempfehlung aus. 
+
+Zum beitragenden Faktor „Sorgfalt beim Führen des Lkw“ [F3]: 
+
+Das  Mo(cid:415)v  des  verunfallten  Fahrers  des  Lkw  für  das  geringfügige  Überschreiten  der  durch 
+
+Vz. 274-10  beschränkten  Höchstgeschwindigkeit  am  GÜ 6  konnte  nachträglich  nicht  mehr 
+
+ermi(cid:425)elt  werden.  Aus  Sicht  menschlicher  Faktoren  könnte  neben  mangelnder  Sorgfalt  des 
+
+Fahrers  auch  vermutet  werden,  dass  der  Fahrer  die  Geschwindigkeitsbegrenzung  bewusst 
+
+überschri(cid:425)en ha(cid:425)e, um den Gefahrenbereich des GÜ, im Glauben falscher Sicherheit oder in 
+
+Ermangelung  eines  Vertrauens  auf  die  verlässliche  Wahrnehmbarkeit  sich  bei  Dunkelheit 
+
+annähernder Schienenfahrzeuge, schnellstens zu queren. Den obenstehenden Ausführungen 
+
+zur gebotenen Risikokontrolle durch Regeln zu Gestaltung und Betrieb [S1] kommt daher die 
+
+übergeordnete Bedeutung zu. 
+
+Zum beitragenden Faktor „Kontrollfreie Delega(cid:415)on der Unterweisung auf Au(cid:332)ragnehmer“ 
+
+[F4]: 
+
+Zu  der  vom  EIU  in  der  Konstella(cid:415)on  des  Ereignisses  gewählten  Vorgehensweise,  dass  die 
+
+Unterweisung  sämtlicher  Beschä(cid:332)igten,  auch  derjenigen  der  Nachunternehmer,  an  die 
+
+Swietelsky AG auferlegt war, war auf keiner Ebene ein zugehöriges Verfahren zur Überprüfung 
+
+der  Ausführungsgüte  oder  Erfüllung  aufzuﬁnden.  Anhand  von  installierten  Verfahren  zur 
+
+S(cid:415)chprobenerhebung hä(cid:425)e in Einzelfällen eine unterlassene Einweisung ggf. noch korrigiert 
+
+werden können. Installierte Vollprobenverfahren bspw. durch dauerha(cid:332)e Zufahrtskontrollen 
+
+hä(cid:425)en  ausgeschlossen,  dass  nicht  unterwiesene  Beschä(cid:332)igte  die  Betriebsanlage  befahren. 
+
+Eine  Verbesserung  des  Einzelfalls  ist  aufgrund  der  zwischenzeitlichen  Beendigung  der 
+
+Baumaßnahme  hinfällig,  siehe  aber  im  Folgenden  hinsichtlich  der  systemischen  Bedeutung 
+
+[S4]. 
+
+Zum  beitragenden  Faktor  „Verfahren  zur  Kontrolle  der  Ergebnisse  der  von  den 
+
+Au(cid:332)ragnehmern erbrachten Dienstleistungen seitens des EIU“ [S4]: 
+
+Das oben beschriebene Deﬁzit, wonach das EIU die Ergebnisse der von den Au(cid:332)ragnehmern 
+
+erbrachten Dienstleistungen, und darunter die delegierten Aufgaben bzgl. der Befähigung der 
+
+externen Personale hinsichtlich Regeln zur Eisenbahnsicherheit, nicht kontrolliert ha(cid:425)e, hat 
+
+Seite 31 von 34 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 23.05.2020, München Nord Rbf 
+
+systemische Bedeutung. Den mi(cid:425)lerweile aktualisierten Anforderungen folgend hat das EIU 
+
+gemäß  Verordnung (EU) 2018/762,  Anhang II,  Kriterium 6.1.1. a),  Überwachungen 
+
+im 
+
+Einklang  mit  der  Verordnung  (EU)  Nr.  1078/2012  durchzuführen,  um  die  ordnungsgemäße 
+
+Anwendung 
+
+und 
+
+Wirksamkeit 
+
+aller 
+
+Prozesse 
+
+und 
+
+Verfahren 
+
+im 
+
+Sicherheitsmanagementsystem,  einschließlich  der  betrieblichen,  organisatorischen  und 
+
+technischen  Sicherheitsmaßnahmen,  zu  überprüfen.  Hierunter  fällt  im  Detail  gem.  Kapitel 
+
+5.3.3. a)  auch  die  Überwachung  der  beau(cid:332)ragten  Bauunternehmen  hinsichtlich  deren 
+
+Sicherheitsleistung sämtlicher Tä(cid:415)gkeiten und Abläufe. Diese müssen dabei den vertraglichen 
+
+Anforderungen  entsprechen.  Ist  sicherzustellen,  dass  externe  Beschä(cid:332)igte  in  diejenigen 
+
+Regeln unterwiesen sind, die eine Wirkung auf die Sicherheit des Eisenbahnbetriebs haben, 
+
+obliegt es dem EIU, in seinem Sicherheitsmanagementsystem gemäß Kriterium 4.4.3 f) dafür 
+
+zu  sorgen,  dass  sicherheitsrelevante  Informa(cid:415)onen  vor  ihrem  Wirksamwerden  mitgeteilt 
+
+werden oder bei Delega(cid:415)on dies sicher erfüllt ist. Dies steht unabhängig neben der Erfüllung 
+
+von gesetzlichen Pﬂichten aus dem Arbeitsschutz durch einzelne oder mehrere Arbeitgeber. 
+
+Die BEU sieht es aufgrund der hier nicht vorgefundenen Überprüfung geboten, dass das EIU 
+
+seine  Konzepte  zur  Überwachung  gemäß  Verordnung  (EU)  2018/762,  Anhang  II,  Kriterium 
+
+6.1.1,  hinsichtlich  beau(cid:332)ragter  Bauunternehmen 
+
+in 
+
+ihrer  Wirksamkeit  überprü(cid:332) 
+
+(Sicherheitsempfehlung  03/2025).  Hinsichtlich  der  Wirksamkeit  der  Konzepte 
+
+ist  zu 
+
+unterscheiden,  dass  an  externe  Personale  zu  vermi(cid:425)elnde  Regeln  zum  Verhalten  in  der 
+
+Betriebsanlage eine Bedeutung für die Sicherheit der Eisenbahn haben können, und zeitgleich 
+
+auch  für  die  Arbeitssicherheit  der  Person  haben.  Daher  ist  innerhalb  der  weitgefasst 
+
+verstandenen Begriﬄichkeit „Unterweisung“ inhaltlich und organisatorisch zu unterscheiden. 
+
+Aufgrund  der  denkbaren  Vielfalt  organisatorischer  Ansätze  zur  Verbesserung  bleibt  diese 
+
+Sicherheitsempfehlung bewusst weit gefasst. 
+
+5.2  Seit	dem	Ereignis	getroffene	Maßnahmen	
+
+Bauliche Veränderungen am GÜ 6 wurden nicht vorgenommen. 
+
+An  den  GÜ  werden  Sicherungsposten  eingesetzt,  die  das  Befahren  der  GÜ  für  externe 
+
+Fahrzeuge  nur  nach  Absprache  mit  dem  Fdl  zulassen.  An  der  Zufahrt  zum  Rbf  wurden 
+
+Schranken mit Posten eingerichtet. Die Posten lassen Fahrten für externe Fahrzeuge nur nach 
+
+Rücksprache mit den GÜ-Sicherungsposten zu. 
+
+Seite 32 von 34 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 23.05.2020, München Nord Rbf 
+
+5.3  Zusätzliche	Bemerkungen	
+
+keine 
+
+Seite 33 von 34 
+
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 23.05.2020, München Nord Rbf 
+
+6  Sicherheitsempfehlungen	
+
+Gemäß  § 6 EUV  und  Art. 26  Abs. 2  der  Richtlinie  (EU) 2016/798  ergehen  nachfolgende 
+
+Sicherheitsempfehlungen: 
+
+Lfd. 
+
+Nr. 
+
+Sicherheitsempfehlung 
+
+02/2025 
+
+03/2025 
+
+Es wird empfohlen, dass das EIU die Planungs- und 
+Betriebsregeln für GÜ hinsichtlich ausreichender 
+Risikokontrolle gem. Verordnung (EU) 2018/762, 
+Anhang II, Kriterium 3.1.1 a), überprü(cid:332) und ggf. 
+verbessert, auch mit Wirkung auf bestehende GÜ. 
+
+Es wird empfohlen, die Konzepte zur Überwachung 
+beau(cid:332)ragter Au(cid:332)ragnehmer gemäß Verordnung 
+(EU) 2018/762, Anhang II, Kriterium 5.3.3. a) und 
+6.1.1. a), in ihrer Wirksamkeit zu überprüfen, damit 
+die Kenntnis von Regeln mit Auswirkung auf die 
+Eisenbahnsicherheit durch deren Beschä(cid:332)igte 
+sichergestellt ist, unabhängig von den Regelungen 
+der Arbeitssicherheit. 
+
+Betri(cid:335) Unternehmen 
+
+Eisenbahninfrastruktur-
+unternehmen 
+
+Eisenbahninfrastruktur-
+unternehmen 
+
+Seite 34 von 34 
+
+ 
+ 
+ 
+ 
+ 
 

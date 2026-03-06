@@ -1,343 +1,590 @@
-Untersuchungsbericht
-Aktenzeichen:
+Untersuchungsbericht 
 
-60uu2016-11/005-3323
+Aktenzeichen: 
 
-Stand:
+60uu2016-11/005-3323 
 
-03.11.2022 Version: 1.0
+Stand: 
 
-Erstveröﬀentlichung:
+03.11.2022     Version:  1.0 
 
-08.11.2022
+Erstveröﬀentlichung:  08.11.2022 
 
-Gefährliches Ereignis im Eisenbahnbetrieb
+Gefährliches	Ereignis	im	Eisenbahnbetrieb 
 
-Ereignisart:
+Ereignisart: 
 
-Zugentgleisung
+Zugentgleisung 
 
-Datum:
+Datum: 
 
-08.11.2016
+Zeit: 
 
-Zeit:
+Betriebsstelle: 
 
-13:30 Uhr
+Gleis: 
 
-Betriebsstelle:
+Weiche: 
 
-Blumenberg
+08.11.2016 
 
-Gleis:
+13:30 Uhr 
 
-4
+Blumenberg 
 
-Weiche:
+4 
 
-8
+8 
 
-Untersuchungsbericht
-Zugentgleisung, 08.11.2016, Blumenberg
+	
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Veröﬀentlicht durch:
-Bundesstelle für Eisenbahnunfalluntersuchung
-Heinemannstraße 6
-53175 Bonn
+Zugentgleisung, 08.11.2016, Blumenberg 
 
-Untersuchungsbericht
-Zugentgleisung, 08.11.2016, Blumenberg
+Veröﬀentlicht durch: 
 
-Inhaltsverzeichnis
+Bundesstelle für Eisenbahnunfalluntersuchung 
 
-I.
+Heinemannstraße 6 
 
-I.
+53175 Bonn 
 
-Änderungsverzeichnis: ........................................................................................... I
+ 
+Untersuchungsbericht 
 
-II.
+Zugentgleisung, 08.11.2016, Blumenberg 
 
-Abkürzungsverzeichnis: ........................................................................................ II
+Inhaltsverzeichnis	
 
-1
+I. 
 
-Vorbemerkungen .................................................................................................. 1
+II. 
 
-1.1
+1 
 
-Organisatorischer Hinweis ...................................................................................... 1
+1.1 
 
-1.2
+1.2 
 
-Ziel der Eisenbahnunfalluntersuchung.................................................................... 1
+2 
 
-2
+2.1 
 
-Untersuchung ....................................................................................................... 2
+2.2 
 
-2.1
+2.3 
 
-Kurzbeschreibung des Ereignisses........................................................................... 2
+Änderungsverzeichnis: ........................................................................................... I 
 
-2.2
+Abkürzungsverzeichnis: ........................................................................................ II 
 
-Folgen ...................................................................................................................... 3
+Vorbemerkungen .................................................................................................. 1 
 
-2.3
+Organisatorischer Hinweis ...................................................................................... 1 
 
-Untersuchungsergebnisse ....................................................................................... 3
+Ziel der Eisenbahnunfalluntersuchung .................................................................... 1 
 
-3
+Untersuchung ....................................................................................................... 2 
 
-Bisher getroffene Maßnahmen ............................................................................. 7
+Kurzbeschreibung des Ereignisses ........................................................................... 2 
 
-Änderungsverzeichnis:
-Änderung
+Folgen ...................................................................................................................... 3 
 
-Stand
+Untersuchungsergebnisse ....................................................................................... 3 
 
-I
+3 
 
-Untersuchungsbericht
-Zugentgleisung, 08.11.2016, Blumenberg
+Bisher getroffene Maßnahmen ............................................................................. 7 
 
-II.
+I.  Änderungsverzeichnis:	
 
-Abkürzungsverzeichnis:
-Asig
+Änderung 
 
-Ausfahrsignal
+Stand 
 
-BEU
+I 
 
-Bundesstelle für Eisenbahnunfalluntersuchung
+ 
+ 
+ 
+ 
+ 
+ 
+	
+	
+Untersuchungsbericht 
 
-Bf
+Zugentgleisung, 08.11.2016, Blumenberg 
 
-Bahnhof
+II.  Abkürzungsverzeichnis:	
 
-EU
+Asig 
 
-Europäische Union
+BEU 
 
-Esig
+Bf 
 
-Einfahrsignal
+EU 
 
-Fdl
+Esig 
 
-Fahrdienstleiter/Fahrdienstleiterin
+Fdl 
 
-PZB
+PZB 
 
-punk örmige Zugbeeinflussung
+Ril 
 
-Ril
+Stw 
 
-Richtlinie
+Üst 
 
-Stw
+VzG 
 
-Stellwerk
+Ww 
 
-Üst
+Ausfahrsignal 
 
-Überleitstelle
+Bundesstelle für Eisenbahnunfalluntersuchung 
 
-VzG
+Bahnhof 
 
-Verzeichnis der örtlich zulässigen Geschwindigkeiten
+Europäische Union 
 
-Ww
+Einfahrsignal 
 
-Weichenwärter/Weichenwärterin
+Fahrdienstleiter/Fahrdienstleiterin 
 
-II
+punk(cid:414)örmige Zugbeeinﬂussung 
 
-Untersuchungsbericht
-Zugentgleisung, 08.11.2016, Blumenberg
+Richtlinie 
 
-1 Vorbemerkungen
-Das Kapitel Vorbemerkungen befasst sich mit allgemeinen Informa onen zur Bundesstelle für
-Eisenbahnunfalluntersuchung (BEU). Dabei wird die gesetzliche Grundlage genannt und die
-Au auorganisa on kurz umrissen.
+Stellwerk 
 
-1.1 Organisatorischer Hinweis
-Mit der Richtlinie (EU) 2016/798 des Europäischen Parlaments und des Rates zur Eisenbahnsicherheit in der Gemeinscha (Eisenbahnsicherheitsrichtlinie) wurden die Mitgliedstaaten
-der Europäischen Union (EU) verpflichtet, unabhängige Untersuchungsstellen für die Untersuchung bes mmter gefährlicher Ereignisse einzurichten.
-Diese Richtlinie wurde mit dem Gesetz zur Neuordnung der Eisenbahnunfalluntersuchung
-vom 27. Juni 2017 und der Eisenbahn-Unfalluntersuchungsverordnung vom 05.07.2007, die
-durch Ar kel 1 der Verordnung vom 26.11.2019 geändert worden ist, umgesetzt. Die BEU ist
-eine Bundesoberbehörde im Geschä sbereich des Bundesministeriums für Digitales und Verkehr.
-Gemäß § 6 Abs. 2 des Bundeseisenbahnverkehrsverwaltungsgesetzes wurde der Sitz und Aufbau der BEU im „Organisa onserlass zur Errichtung der Bundesstelle für Eisenbahnunfalluntersuchung“ des Bundesministeriums für Verkehr und digitale Infrastruktur festgelegt und die
-BEU zum 14.07.2017 errichtet.
-Näheres hierzu ist im Internet unter www.beu.bund.de eingestellt.
+Überleitstelle 
 
-1.2 Ziel der Eisenbahnunfalluntersuchung
-Ziel und Zweck der Untersuchungen ist es, die Ursachen von gefährlichen Ereignissen aufzuklären und hieraus Hinweise zur Verbesserung der Sicherheit abzuleiten. Untersuchungen der
-BEU dienen nicht dazu, ein Verschulden festzustellen oder Fragen der Ha ung oder sons ger
-zivilrechtlicher Ansprüche zu klären und werden unabhängig von jeder gerichtlichen Untersuchung durchgeführt.
-Alle während der Untersuchung gewonnenen maßgeblichen Erkenntnisse wurden zur möglichen Verbesserung der Eisenbahnsicherheit mit den beteiligten Eisenbahnen und der Sicherheitsbehörde geteilt. Im Folgenden sind diese in der für den Einzelfall angemessenen Form
-gem. der Ar kel 20 Abs. 3 und 24 Abs. 1 RL (EU) 2016/798 zusammengestellt. Sicherheitsempfehlungen wurden nicht ausgesprochen.
+Verzeichnis der örtlich zulässigen Geschwindigkeiten 
 
-Seite 1 von 7
+Weichenwärter/Weichenwärterin 
 
-Untersuchungsbericht
-Zugentgleisung, 08.11.2016, Blumenberg
+II 
 
-2 Untersuchung
-Das Kapitel enthält eine Kurzbeschreibung des Ereignisses und informiert über die eingetretenen Folgen und Untersuchungsergebnisse.
+ 
+ 
+ 
+Untersuchungsbericht 
 
-2.1 Kurzbeschreibung des Ereignisses
-Am 08.11.2016 gegen 13:30 Uhr entgleiste der Reisezug DPN 80146 auf der Fahrt von Magdeburg Hauptbahnhof nach Thale/Goslar bei der Einfahrt in den Bahnhof (Bf) Blumenberg auf
-der Weiche 8 mit den beiden Radsätzen des hinteren Drehgestells der führenden Triebwageneinheit.
-Die Zugentgleisung ereignete sich auf der eingleisigen Hauptbahn Magdeburg Hbf – Halberstadt, die vom Eisenbahninfrastrukturunternehmen DB Netz AG betrieben und im Verzeichnis
-der örtlich zulässigen Geschwindigkeiten (VzG) mit der Streckennummer 6404 geführt wurde.
-Die Unfallstelle befand sich auf der Weiche 8 im Bf Blumenberg, etwa in Streckenkilometer
-21,0. Die benachbarten Betriebsstellen waren der Bf Dodendorf und die Überleitstelle (Üst)
-Hadmersleben. Der betreffende Abschnitt durfte gemäß VzG mit einer maximal zulässigen Geschwindigkeit von 100 km/h befahren werden. Die Strecke war mit dem digitalen Zugfunk Global System for Mobile Communications Rail ausgerüstet. Als Zugsicherungssystem kam die
-punktförmige Zugbeeinflussung (PZB) zur Anwendung.
+Zugentgleisung, 08.11.2016, Blumenberg 
 
-Abbildung 1: Lageplan1
+1  Vorbemerkungen	
 
-1
+Das Kapitel Vorbemerkungen befasst sich mit allgemeinen Informa(cid:415)onen zur Bundesstelle für 
 
-Quelle: Geobasisdaten: © GeoBasis-DE / BKG [2021], bearbeitet durch BEU
+Eisenbahnunfalluntersuchung (BEU). Dabei wird die gesetzliche Grundlage genannt und die 
 
-Seite 2 von 7
+Au(cid:297)auorganisa(cid:415)on kurz umrissen. 
 
-Untersuchungsbericht
-Zugentgleisung, 08.11.2016, Blumenberg
+1.1  Organisatorischer	Hinweis	
 
-Die Leit- und Sicherungstechnik im Bf Blumenberg wurde mit mechanischen Stellwerken (Stw)
-der Bauart Zimmermann & Buchloh bedient. Hierzu war der Bf in einen Fahrdienstleiterbezirk,
-gesteuert vom Stw Bmf ca. auf Höhe km 21,4 und zwei Wärterbezirke, einerseits vom Stw Bo
-ca. auf Höhe km 21,0 und andererseits vom Stw Bw ca. auf Höhe km 22,1 untergliedert. Die
-Abgrenzung der einzelnen Bereiche kann Abbildung 2 entnommen werden.
-Die Hauptsignale im Bf Blumenberg waren Formsignale, die mit PZB Gleismagneten ausgerüstet waren. Die Weichen wurden mechanisch über Seilzüge gestellt. Die Weiche 8, in der sich
-die Zugentgleisung ereignete, befand sich im Stellbereich des Weichenwärters (Ww) auf Stw
-Bo. Die mechanische Vollschrankenanlage am BÜ in km 21,0 wurde ebenfalls vom Stw Bo bedient.
-An den betrieblichen Handlungen für die Zugfahrt DPN 80146 waren die Personale aller drei
-Stw beteiligt. Im unmi elbaren Zusammenhang mit dem Ereignis standen jedoch lediglich der
-Fdl auf Bmf und der Ww auf Bo. Die Überprüfung der relevanten personenbezogenen Daten
-der handelnden Personale ergab hinsichtlich der Aus- und Fortbildung, der örtlichen Einweisung der Tauglichkeit, der Einsatzzeiten innerhalb der Dienstpläne und der betrieblichen Überwachung keinerlei Abweichungen vom Regelwerk.
+Mit der Richtlinie (EU) 2016/798 des Europäischen Parlaments und des Rates zur Eisenbahn-
 
-2.2 Folgen
-Personen wurden nicht getötet oder verletzt. An den Fahrzeugen und an der vorhandenen
-Infrastruktur entstanden Sachschäden, die sich entsprechend der nachstehenden Tabelle verteilten.
-geschätzte Kosten in Euro
-Fahrzeuge
+sicherheit  in  der  Gemeinscha(cid:332)  (Eisenbahnsicherheitsrichtlinie)  wurden  die  Mitgliedstaaten 
 
-ca. 220.000
+der Europäischen Union (EU) verpﬂichtet, unabhängige Untersuchungsstellen für die Unter-
 
-Infrastruktur
+suchung bes(cid:415)mmter gefährlicher Ereignisse einzurichten. 
 
-ca. 410.000
+Diese  Richtlinie  wurde  mit  dem  Gesetz  zur  Neuordnung  der  Eisenbahnunfalluntersuchung 
 
-Dri e
+vom 27. Juni 2017 und der Eisenbahn-Unfalluntersuchungsverordnung vom 05.07.2007, die 
 
-Keine
+durch Ar(cid:415)kel 1 der Verordnung vom 26.11.2019 geändert worden ist, umgesetzt. Die BEU ist 
 
-Gesamtschadenshöhe
+eine Bundesoberbehörde im Geschä(cid:332)sbereich des Bundesministeriums für Digitales und Ver-
 
-ca. 630.000
+kehr. 
 
-Tabelle 1: Übersicht der geschätzten Schadenshöhe
+Gemäß § 6 Abs. 2 des Bundeseisenbahnverkehrsverwaltungsgesetzes wurde der Sitz und Auf-
 
-2.3 Untersuchungsergebnisse
-Am 08.11.2016 befanden sich gegen 13:30 Uhr zwei Ww, der diensthabende Ww der Frühschicht und dessen Ablösung für die Spätschicht, auf dem Stw Bo. Verantwortlich für die be-
+bau der BEU im „Organisa(cid:415)onserlass zur Errichtung der Bundesstelle für Eisenbahnunfallun-
 
-Seite 3 von 7
+tersuchung“ des Bundesministeriums für Verkehr und digitale Infrastruktur festgelegt und die 
 
-Untersuchungsbericht
-Zugentgleisung, 08.11.2016, Blumenberg
+BEU zum 14.07.2017 errichtet. 
 
-trieblichen Handlungen war der Ww der Frühschicht. Sowohl die beiden Ww als auch der Fahrdienstleiter (Fdl) auf dem Stw Bmf waren in das Ereignis im Zusammenhang mit der Entgleisung der Zugfahrt DPN 80146 involviert. Die Handlungen des gleichfalls an der Einstellung, der
-Sicherung und der Auflösung der relevanten Fahrstraße a4 beteiligten Ww auf Stw Bw sind
-zur Betrachtung dieses Ereignisses nicht entscheidend, da sich das Ergebnis der entsprechenden Handlungen bzw. Meldungen in der Tä gkeit des Fdl wiederfindet. In den jeweiligen
-Passagen der folgenden Beschreibungen wird jedoch ein entsprechender Hinweis zu Stw Bw
-gegeben.
-Im für das Ereignis relevanten Zeitraum standen im Bf Blumenberg drei Zugfahrten an.
-Der Zug DPN 80146 fuhr gegen 13:30 Uhr aus Richtung Dodendorf kommend, auf das Einfahrsignal (Esig) A in den Bf Blumenberg nach Gleis 4 ein.
-Zu dieser Zeit wartete die Zugfahrt DGS 62070 im Gleis 7 vor dem Ausfahrsignal (Asig) C.
-Der verspätete Zug DPN 80147 aus Richtung Üst Hadmersleben erhielt am Esig Z Einfahrt nach
-Gleis 3.
-Aufgrund dieser betrieblichen Situa on wurde durch den Fdl in Abs mmung mit der Betriebszentrale in Leipzig entschieden, nach dem Halt der Zugfahrt DPN 80146 in Gleis 4, den
-DGS 62070 aus Gleis 7 in Richtung Bf Dodendorf ausfahren zu lassen. Im Anschluss sollte der
-DPN 80147 auf Asig F ebenfalls in Richtung Bf Dodendorf ausfahren. Diese Entscheidung
-wurde dem Ww der Frühschicht auf dem Stw Bo telefonisch durch den Fdl mitgeteilt.
-Der zum Ereigniszeitpunkt verantwortliche Ww auf dem Stw Bo erhielt durch Bedienung der
-Befehlsabgabe des Fdl auf Stw Bmf den Au rag, für den DPN 80146 die Fahrstraße a4 vom
-Esig A nach Gleis 4 einzustellen. Ein entsprechender Zus mmungsempfang zur Einfahrt in
-Gleis 4 lag dem Fdl seitens des Ww Bw zu diesem Zeitpunkt bereits vor. Die Sicherung des
-Bahnübergangs in km 21,0 war ebenso Bestandteil der Fahrstraße im Stellbereich Bo, wie die
-Weiche 3, den zugehörigen Riegel III, die Weiche 4 und die Weiche 8 in die Minuslage zu bringen. Die Weiche 2 verblieb in ihrer Grundstellung, der Pluslage. Nach mechanischem Verschluss und der blockelektrischen Festlegung der Fahrstraße konnte der Ww Bo das Formsignal Esig A in die Fahrtstellung (Signal Hp2) bringen und der DPN 80146 fuhr in den Bf Blumenberg ein.
+Näheres hierzu ist im Internet unter www.beu.bund.de eingestellt. 
 
-Seite 4 von 7
+1.2  Ziel	der	Eisenbahnunfalluntersuchung	
 
-Untersuchungsbericht
-Zugentgleisung, 08.11.2016, Blumenberg
+Ziel und Zweck der Untersuchungen ist es, die Ursachen von gefährlichen Ereignissen aufzu-
 
-Abbildung 2: Gleislageskizze2
+klären und hieraus Hinweise zur Verbesserung der Sicherheit abzuleiten. Untersuchungen der 
 
-Der Ww wollte nach der Einfahrt des DPN 80146 und noch vor Ausfahrt des DGS 62070 die
-Schranke am BÜ 21,0 kurzzei g öﬀnen.
-Als Voraussetzung dafür musste die Fahrstraße a4 aufgelöst werden. Im ersten Schri war
-hierfür der Signalhebel für das Esig A durch den Ww auf dem Stw Bo in Grundstellung zu bringen.
-Gemäß Richtlinie (Ril) 408.0251 – Züge fahren; Hauptsignale bedienen –, Abschni 3 – Hauptsignale auf Halt zurückstellen –, muss der Bediener das Hauptsignal sofort auf Halt stellen,
-„(…) wenn er festgestellt hat, dass der Zug an der Signal-Zugschlussstelle mit Schlusssignal
-vorbeigefahren ist, (…)“
-Die Signal-Zugschlussstelle für das Esig A befand sich laut Betriebsstellenbuch für den Bf Blumenberg auf Höhe des Stw Bo in km 21,0. Der Zug war nachweislich noch nicht mit Schlusssignal am Stw Bo vorbeigefahren, als der Ww das Signal auf Halt stellte. Der Ww handelte
-somit gegen die Regeln in Ril 408.0251 und gegen die Festlegungen des Betriebsstellenbuches.
-Im zweiten Schri war die Fahrstraße durch Bedienung der Fahrstraßenauflösetaste (Fa A)
-durch den Fdl auf dem Stw Bmf aufzulösen. Nach den Regeln in Ril 408.0251 Abschni 4 –
-Zugstraße auflösen –, darf der Bediener die Einrichtung für die Fahrstraßenauflösung bedienen, wenn der Zug
-2
+BEU dienen nicht dazu, ein Verschulden festzustellen oder Fragen der Ha(cid:332)ung oder sons(cid:415)ger 
 
-Quelle: DB Netz AG, bearbeitet durch BEU
+zivilrechtlicher Ansprüche zu klären und werden unabhängig von jeder gerichtlichen Untersu-
 
-Seite 5 von 7
+chung durchgeführt. 
 
-Untersuchungsbericht
-Zugentgleisung, 08.11.2016, Blumenberg
+Alle während der Untersuchung gewonnenen maßgeblichen Erkenntnisse wurden zur mögli-
 
-„(…) am Zielsignal der Zugstraße zum Halten gekommen oder an der Fahrstraßen-Zugschlussstelle vorbeigefahren ist. Danach muss der Bediener die Einrichtungen für den Befehlsempfang oder ZusƟmmungsempfang bedienen. (…)“
-Die Fahrstraßen-Zugschlussstelle befand sich gemäß dem Betriebsstellenbuch für den Bf Blumenberg auf Höhe des Bahnsteigtunnels, etwa in km 21,11, im Stellbezirk des Fdl. Der Zug war
-nachweislich noch nicht an der Fahrstraßen-Zugschlussstelle vorbeigefahren, welche in Höhe
-des Bahnsteigtunnels lag, als der Fdl die Fahrstraße auflöste. Es ist davon auszugehen, dass
-der Fdl sich vor der Auflösung der Fahrstraße nicht vergewissert ha e, ob der Zug zum Halten
-gekommen oder an der Fahrstraßen-Zugschlussstelle vorbeigefahren war. Auch der Fdl auf
-dem Stw Bmf handelte somit entgegen den Regelungen der Ril 408.0251 und entgegen den
-Festlegungen des Betriebsstellenbuches.
-Nach Auflösung der Fahrstraße konnte der Ww den Fahrstraßenhebel a4 in die Grundstellung
-zurücklegen, dur e dies jedoch gemäß dem Betriebsstellenbuch erst, nachdem der Zug am
-Signal So 12 der Weiche 8 in km 21,03 vorbeigefahren war. Diese Voraussetzung war zum Zeitpunkt der Handlung nicht erfüllt. Der Ww handelte also erneut gegen die Festlegungen des
-Betriebsstellenbuches.
-Nach dem Zurücklegen des Fahrstraßenhebels durch den Ww konnte die Weiche 8 gleichfalls
-in die Grundstellung gebracht werden. Der bereits anwesende Ww der Spätschicht bediente,
-nach den vorliegenden Erkenntnissen ohne Absprache mit dem diensthabenden Ww, den Hebel für die Weiche 8 und wollte diesen in die Grundstellung (Plusstellung) zurücklegen. Nach
-eigener Aussage brach er die Umstellbewegung ab und legte den Weichenhebel wieder in die
-Minusstellung zurück. Die Bewegung des Weichenhebels reichte jedoch aus, um über den Seilzug einen Umstellvorgang zu beginnen und somit die Weichenzungen aus ihrer Endlage zu
-lösen. Trotz reversierender Bewegung entstand hierbei zwischen der linken Backenschiene
-und der linken Weichenzunge eine Lücke, in die das dri e Drehgestell des führenden Triebwagens des DPN 80146 hineinfuhr. Die Radsätze dieses Drehgestells fuhren deshalb zweispurig. Mit Rückstellung in die ursprüngliche Minuslage fuhr das erste Drehgestell daher wieder
-regulär in Richtung Gleis 4. Bei Eintreﬀen des No allmanagers befand sich die Weiche in der
-für die Zugfahrt DPN 80146 erforderlichen Minusstellung.
-Die Ursachen für die Zugentgleisung lagen in mehreren Verstößen gegen die Ril 408 – Fahrdienstvorschri – begründet. Die Zugbeobachtungen des Ww auf dem Stw Bo und des Fdl auf
+chen Verbesserung der Eisenbahnsicherheit mit den beteiligten Eisenbahnen und der Sicher-
 
-Seite 6 von 7
+heitsbehörde geteilt. Im Folgenden sind diese in der für den Einzelfall angemessenen Form 
 
-Untersuchungsbericht
-Zugentgleisung, 08.11.2016, Blumenberg
+gem. der Ar(cid:415)kel 20 Abs. 3 und 24 Abs. 1 RL (EU) 2016/798 zusammengestellt. Sicherheitsemp-
 
-dem Stw Bmf erfolgte entweder nicht oder waren fehlerha . Die dadurch fehlerha e zeitliche
-Abfolge der Bedienhandlungen durch den Ww Stw Bo und den Fdl, führte zur vorzei gen Auflösung der Fahrstraße. Die dadurch mögliche jedoch unzei ge Bedienung des Weichenhebels
-auf Stw Bo, führte schließlich zur Entgleisung des Zuges.
+fehlungen wurden nicht ausgesprochen. 
 
-3 Bisher getroffene Maßnahmen
-Der BEU wurden keine Maßnahmen bekannt, die infolge des Ereignisses durch die beteiligten
-Eisenbahnunternehmen oder durch die Sicherheitsbehörde getroﬀen wurden.
+Seite 1 von 7 
 
-Seite 7 von 7
+ 
+ 
+Untersuchungsbericht 
 
+Zugentgleisung, 08.11.2016, Blumenberg 
+
+2  Untersuchung	
+
+Das Kapitel enthält eine Kurzbeschreibung des Ereignisses und informiert über die eingetrete-
+
+nen Folgen und Untersuchungsergebnisse. 
+
+2.1  Kurzbeschreibung	des	Ereignisses	
+
+Am 08.11.2016 gegen 13:30 Uhr entgleiste der Reisezug DPN 80146 auf der Fahrt von Magde-
+
+burg Hauptbahnhof nach Thale/Goslar bei der Einfahrt in den Bahnhof (Bf) Blumenberg auf 
+
+der Weiche 8 mit den beiden Radsätzen des hinteren Drehgestells der führenden Triebwagen-
+
+einheit. 
+
+Die Zugentgleisung ereignete sich auf der eingleisigen Hauptbahn Magdeburg Hbf – Halber-
+
+stadt, die vom Eisenbahninfrastrukturunternehmen DB Netz AG betrieben und im Verzeichnis 
+
+der örtlich zulässigen Geschwindigkeiten (VzG) mit der Streckennummer 6404 geführt wurde. 
+
+Die Unfallstelle befand sich auf der Weiche 8 im Bf Blumenberg, etwa in Streckenkilometer 
+
+21,0. Die benachbarten Betriebsstellen waren der Bf Dodendorf und die Überleitstelle (Üst) 
+
+Hadmersleben. Der betreffende Abschnitt durfte gemäß VzG mit einer maximal zulässigen Ge-
+
+schwindigkeit von 100 km/h befahren werden. Die Strecke war mit dem digitalen Zugfunk Glo-
+
+bal  System  for  Mobile  Communications  Rail  ausgerüstet.  Als  Zugsicherungssystem  kam  die 
+
+punktförmige Zugbeeinflussung (PZB) zur Anwendung. 
+
+Abbildung 1: Lageplan1 
+
+1 Quelle:  Geobasisdaten: © GeoBasis-DE / BKG [2021], bearbeitet durch BEU 
+
+Seite 2 von 7 
+
+ 
+ 
+ 
+ 
+ 
+                                                       
+Untersuchungsbericht 
+
+Zugentgleisung, 08.11.2016, Blumenberg 
+
+Die Leit- und Sicherungstechnik im Bf Blumenberg wurde mit mechanischen Stellwerken (Stw) 
+
+der Bauart Zimmermann & Buchloh bedient. Hierzu war der Bf in einen Fahrdienstleiterbezirk, 
+
+gesteuert vom Stw Bmf ca. auf Höhe km 21,4 und zwei Wärterbezirke, einerseits vom Stw Bo 
+
+ca. auf Höhe km 21,0 und andererseits vom Stw Bw ca. auf Höhe km 22,1 untergliedert. Die 
+
+Abgrenzung der einzelnen Bereiche kann Abbildung 2 entnommen werden. 
+
+Die Hauptsignale im Bf Blumenberg waren Formsignale, die mit PZB Gleismagneten ausgerüs-
+
+tet waren. Die Weichen wurden mechanisch über Seilzüge gestellt. Die Weiche 8, in der sich 
+
+die Zugentgleisung ereignete, befand sich im Stellbereich des Weichenwärters (Ww) auf Stw 
+
+Bo. Die mechanische Vollschrankenanlage am BÜ in km 21,0 wurde ebenfalls vom Stw Bo be-
+
+dient. 
+
+An den betrieblichen Handlungen für die Zugfahrt DPN 80146 waren die Personale aller drei 
+
+Stw beteiligt. Im unmi(cid:425)elbaren Zusammenhang mit dem Ereignis standen jedoch lediglich der 
+
+Fdl auf Bmf und der Ww auf Bo. Die Überprüfung der relevanten personenbezogenen Daten 
+
+der handelnden Personale ergab hinsichtlich der Aus- und Fortbildung, der örtlichen Einwei-
+
+sung der Tauglichkeit, der Einsatzzeiten innerhalb der Dienstpläne und der betrieblichen Über-
+
+wachung keinerlei Abweichungen vom Regelwerk. 
+
+2.2  Folgen	
+
+Personen wurden nicht getötet oder verletzt. An den Fahrzeugen und an der vorhandenen 
+
+Infrastruktur entstanden Sachschäden, die sich entsprechend der nachstehenden Tabelle ver-
+
+teilten. 
+
+Fahrzeuge 
+
+Infrastruktur 
+
+Dri(cid:425)e 
+
+Gesamtschadenshöhe 
+
+geschätzte Kosten in Euro 
+
+ca. 220.000 
+
+ca. 410.000 
+
+Keine 
+
+ca. 630.000 
+
+Tabelle 1: Übersicht der geschätzten Schadenshöhe 
+
+2.3  Untersuchungsergebnisse	
+
+Am 08.11.2016 befanden sich gegen 13:30 Uhr zwei Ww, der diensthabende Ww der Früh-
+
+schicht und dessen Ablösung für die Spätschicht, auf dem Stw Bo. Verantwortlich für die be-
+
+Seite 3 von 7 
+
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugentgleisung, 08.11.2016, Blumenberg 
+
+trieblichen Handlungen war der Ww der Frühschicht. Sowohl die beiden Ww als auch der Fahr-
+
+dienstleiter (Fdl) auf dem Stw Bmf waren in das Ereignis im Zusammenhang mit der Entglei-
+
+sung der Zugfahrt DPN 80146 involviert. Die Handlungen des gleichfalls an der Einstellung, der 
+
+Sicherung und der Auﬂösung der relevanten Fahrstraße a4 beteiligten Ww auf Stw Bw sind 
+
+zur Betrachtung dieses Ereignisses nicht entscheidend, da sich das Ergebnis der entsprechen-
+
+den  Handlungen  bzw.  Meldungen  in  der  Tä(cid:415)gkeit  des  Fdl  wiederﬁndet.  In  den  jeweiligen 
+
+Passagen der folgenden Beschreibungen wird jedoch ein entsprechender Hinweis zu Stw Bw 
+
+gegeben. 
+
+Im  für  das  Ereignis  relevanten  Zeitraum  standen  im  Bf  Blumenberg  drei  Zugfahrten  an. 
+
+Der Zug DPN 80146 fuhr gegen 13:30 Uhr aus Richtung Dodendorf kommend, auf das Einfahr-
+
+signal (Esig) A in den Bf Blumenberg nach Gleis 4 ein. 
+
+Zu  dieser  Zeit  wartete  die  Zugfahrt  DGS  62070  im  Gleis  7  vor  dem  Ausfahrsignal  (Asig)  C. 
+
+Der verspätete Zug DPN 80147 aus Richtung Üst Hadmersleben erhielt am Esig Z Einfahrt nach 
+
+Gleis 3. 
+
+Aufgrund dieser betrieblichen Situa(cid:415)on wurde durch den Fdl in Abs(cid:415)mmung mit der Betriebs-
+
+zentrale  in  Leipzig  entschieden,  nach  dem  Halt  der  Zugfahrt  DPN 80146  in  Gleis  4,  den 
+
+DGS 62070 aus Gleis 7 in Richtung Bf Dodendorf ausfahren zu lassen. Im Anschluss sollte der 
+
+DPN 80147  auf  Asig  F  ebenfalls  in  Richtung  Bf  Dodendorf  ausfahren.  Diese  Entscheidung 
+
+wurde dem Ww der Frühschicht auf dem Stw Bo telefonisch durch den Fdl mitgeteilt. 
+
+Der zum Ereigniszeitpunkt verantwortliche Ww auf dem Stw Bo erhielt durch Bedienung der 
+
+Befehlsabgabe des Fdl auf Stw Bmf den Au(cid:332)rag, für den DPN 80146 die Fahrstraße a4 vom 
+
+Esig  A  nach  Gleis 4  einzustellen.  Ein  entsprechender  Zus(cid:415)mmungsempfang  zur  Einfahrt  in 
+
+Gleis 4 lag dem Fdl seitens des Ww Bw zu diesem Zeitpunkt bereits vor. Die Sicherung des 
+
+Bahnübergangs in km 21,0 war ebenso Bestandteil der Fahrstraße im Stellbereich Bo, wie die 
+
+Weiche 3, den zugehörigen Riegel III, die Weiche 4 und die Weiche 8 in die Minuslage zu brin-
+
+gen.  Die  Weiche 2  verblieb  in  ihrer  Grundstellung,  der  Pluslage.  Nach  mechanischem  Ver-
+
+schluss und der blockelektrischen Festlegung der Fahrstraße konnte der Ww Bo das Formsig-
+
+nal Esig A in die Fahrtstellung (Signal Hp2) bringen und der DPN 80146 fuhr in den Bf Blumen-
+
+berg ein. 
+
+Seite 4 von 7 
+
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugentgleisung, 08.11.2016, Blumenberg 
+
+Abbildung 2: Gleislageskizze2 
+
+Der Ww wollte nach der Einfahrt des DPN 80146 und noch vor Ausfahrt des DGS 62070 die 
+
+Schranke am BÜ 21,0 kurzzei(cid:415)g öﬀnen. 
+
+Als Voraussetzung  dafür musste die Fahrstraße a4 aufgelöst  werden. Im ersten Schri(cid:425) war 
+
+hierfür der Signalhebel für das Esig A durch den Ww auf dem Stw Bo in Grundstellung zu brin-
+
+gen.  
+
+Gemäß Richtlinie (Ril) 408.0251 – Züge fahren; Hauptsignale bedienen –, Abschni(cid:425) 3 – Haupt-
+
+signale auf Halt zurückstellen –, muss der Bediener das Hauptsignal sofort auf Halt stellen,  
+
+„(…) wenn er festgestellt hat, dass der Zug an der Signal-Zugschlussstelle mit Schlusssignal 
+
+vorbeigefahren ist, (…)“ 
+
+Die Signal-Zugschlussstelle für das Esig A befand sich laut Betriebsstellenbuch für den Bf Blu-
+
+menberg auf Höhe des Stw Bo in km 21,0. Der Zug war nachweislich noch nicht mit Schluss-
+
+signal am Stw Bo vorbeigefahren, als der Ww das Signal auf Halt stellte. Der Ww handelte 
+
+somit gegen die Regeln in Ril 408.0251 und gegen die Festlegungen des Betriebsstellenbuches. 
+
+Im  zweiten  Schri(cid:425)  war  die  Fahrstraße  durch  Bedienung  der  Fahrstraßenauﬂösetaste  (Fa  A) 
+
+durch den Fdl auf dem Stw Bmf aufzulösen. Nach den Regeln in Ril 408.0251 Abschni(cid:425) 4 – 
+
+Zugstraße auﬂösen –, darf der Bediener die Einrichtung für die Fahrstraßenauﬂösung bedie-
+
+nen, wenn der Zug 
+
+2 Quelle:  DB Netz AG, bearbeitet durch BEU 
+
+Seite 5 von 7 
+
+ 
+ 
+ 
+ 
+                                                       
+Untersuchungsbericht 
+
+Zugentgleisung, 08.11.2016, Blumenberg 
+
+„(…) am Zielsignal der Zugstraße zum Halten gekommen oder an der Fahrstraßen-Zug-
+
+schlussstelle vorbeigefahren ist. Danach muss der Bediener die Einrichtungen für den Be-
+
+fehlsempfang oder Zus(cid:415)mmungsempfang bedienen. (…)“ 
+
+Die Fahrstraßen-Zugschlussstelle befand sich gemäß dem Betriebsstellenbuch für den Bf Blu-
+
+menberg auf Höhe des Bahnsteigtunnels, etwa in km 21,11, im Stellbezirk des Fdl. Der Zug war 
+
+nachweislich noch nicht an der Fahrstraßen-Zugschlussstelle vorbeigefahren, welche in Höhe 
+
+des Bahnsteigtunnels lag, als der Fdl die Fahrstraße auﬂöste. Es ist davon auszugehen, dass 
+
+der Fdl sich vor der Auﬂösung der Fahrstraße nicht vergewissert ha(cid:425)e, ob der Zug zum Halten 
+
+gekommen oder an der Fahrstraßen-Zugschlussstelle vorbeigefahren war. Auch der Fdl auf 
+
+dem Stw Bmf handelte somit entgegen den Regelungen der Ril 408.0251 und entgegen den 
+
+Festlegungen des Betriebsstellenbuches. 
+
+Nach Auﬂösung der Fahrstraße konnte der Ww den Fahrstraßenhebel a4 in die Grundstellung 
+
+zurücklegen, dur(cid:332)e dies jedoch gemäß dem Betriebsstellenbuch erst, nachdem der Zug am 
+
+Signal So 12 der Weiche 8 in km 21,03 vorbeigefahren war. Diese Voraussetzung war zum Zeit-
+
+punkt der Handlung nicht erfüllt. Der Ww handelte also erneut gegen die Festlegungen des 
+
+Betriebsstellenbuches. 
+
+Nach dem Zurücklegen des Fahrstraßenhebels durch den Ww konnte die Weiche 8 gleichfalls 
+
+in die Grundstellung gebracht werden. Der bereits anwesende Ww der Spätschicht bediente, 
+
+nach den vorliegenden Erkenntnissen ohne Absprache mit dem diensthabenden Ww, den He-
+
+bel für die Weiche 8 und wollte diesen in die Grundstellung (Plusstellung) zurücklegen. Nach 
+
+eigener Aussage brach er die Umstellbewegung ab und legte den Weichenhebel wieder in die 
+
+Minusstellung zurück. Die Bewegung des Weichenhebels reichte jedoch aus, um über den Seil-
+
+zug einen Umstellvorgang zu beginnen und somit die Weichenzungen aus ihrer Endlage zu 
+
+lösen.  Trotz  reversierender  Bewegung  entstand  hierbei  zwischen  der  linken  Backenschiene 
+
+und der linken Weichenzunge eine Lücke, in die das dri(cid:425)e Drehgestell des führenden Trieb-
+
+wagens des DPN 80146 hineinfuhr. Die Radsätze dieses Drehgestells fuhren deshalb zweispu-
+
+rig. Mit Rückstellung in die ursprüngliche Minuslage fuhr das erste Drehgestell daher wieder 
+
+regulär in Richtung Gleis 4. Bei Eintreﬀen des No(cid:414)allmanagers befand sich die Weiche in der 
+
+für die Zugfahrt DPN 80146 erforderlichen Minusstellung. 
+
+Die Ursachen für die Zugentgleisung lagen in mehreren Verstößen gegen die Ril 408 – Fahr-
+
+dienstvorschri(cid:332) – begründet. Die Zugbeobachtungen des Ww auf dem Stw Bo und des Fdl auf 
+
+Seite 6 von 7 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugentgleisung, 08.11.2016, Blumenberg 
+
+dem Stw Bmf erfolgte entweder nicht oder waren fehlerha(cid:332). Die dadurch fehlerha(cid:332)e zeitliche 
+
+Abfolge der Bedienhandlungen durch den Ww Stw Bo und den Fdl, führte zur vorzei(cid:415)gen Auf-
+
+lösung der Fahrstraße. Die dadurch mögliche jedoch unzei(cid:415)ge Bedienung des Weichenhebels 
+
+auf Stw Bo, führte schließlich zur Entgleisung des Zuges. 
+
+3  Bisher	getroffene	Maßnahmen	
+
+Der BEU wurden keine Maßnahmen bekannt, die infolge des Ereignisses durch die beteiligten 
+
+Eisenbahnunternehmen oder durch die Sicherheitsbehörde getroﬀen wurden. 
+
+Seite 7 von 7 
+
+ 
+ 
 

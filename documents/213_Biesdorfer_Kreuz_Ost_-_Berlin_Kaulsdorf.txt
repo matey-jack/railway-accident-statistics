@@ -1,1741 +1,2511 @@
-Untersuchungsbericht
-Aktenzeichen:
+Untersuchungsbericht 
 
-60uu2016‐01/004‐3323
+Aktenzeichen: 
 
-Stand:
+60uu2016‐01/004‐3323 
 
-09.11.2023
+Stand: 
 
-Erstveröﬀentlichung:
+09.11.2023     Version:  1.0 
 
-20.11.2023
+Erstveröﬀentlichung:  20.11.2023 
 
-Version: 1.0
+Gefährliches	Ereignis	im	Eisenbahnbetrieb 
 
-Gefährliches Ereignis im Eisenbahnbetrieb
+Ereignisart: 
 
-Ereignisart:
+Fahrzeugbrand 
 
-Fahrzeugbrand
+Datum: 
 
-Datum:
+Zeit: 
 
-06.01.2016
+06.01.2016 
 
-Zeit:
+20:00 Uhr 
 
-20:00 Uhr
+Benachbarte Betriebsstellen:  
 
-Benachbarte Betriebsstellen:
+Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf 
 
-Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf
+Streckennummer: 
 
-Streckennummer:
+Kilometer: 
 
-6078
+6078 
 
-Kilometer:
+9,6 
 
-9,6
+ 
+	
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Untersuchungsbericht
-Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf
+Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf 
 
-Veröﬀentlicht durch:
-Bundesstelle für Eisenbahnunfalluntersuchung
-Heinemannstraße 6
-53175 Bonn
+Veröﬀentlicht durch: 
 
-Untersuchungsbericht
-Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf
+Bundesstelle für Eisenbahnunfalluntersuchung 
 
-Inhaltsverzeichnis
-I.
+Heinemannstraße 6 
 
-Änderungsverzeichnis: .......................................................................................... II
+53175 Bonn 
 
-II.
+ 
+Untersuchungsbericht 
 
-Abbildungsverzeichnis: ........................................................................................ III
+Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf 
 
-III.
+Inhaltsverzeichnis	
 
-Tabellenverzeichnis: ............................................................................................ III
+I. 
 
-IV.
+II. 
 
-Abkürzungsverzeichnis: ........................................................................................ V
+Änderungsverzeichnis: .......................................................................................... II 
 
-1
+Abbildungsverzeichnis: ........................................................................................ III 
 
-Vorbemerkungen .................................................................................................. 1
+III. 
 
-1.1
+Tabellenverzeichnis: ............................................................................................ III 
 
-Organisatorischer Hinweis ...................................................................................... 1
+IV. 
 
-1.2
+Abkürzungsverzeichnis: ........................................................................................ V 
 
-Ziel der Eisenbahnunfalluntersuchung.................................................................... 1
+1 
 
-2
+1.1 
 
-Zusammenfassung ................................................................................................ 3
+1.2 
 
-2.1
+2 
 
-Kurzbeschreibung des Ereignisses........................................................................... 3
+2.1 
 
-2.2
+2.2 
 
-Folgen ...................................................................................................................... 3
+2.3 
 
-2.3
+2.4 
 
-Ursachen.................................................................................................................. 3
+3 
 
-2.4
+3.1 
 
-Sicherheitsempfehlungen ....................................................................................... 3
+3.2 
 
-3
+3.3 
 
-Allgemeine Angaben ............................................................................................. 4
+3.4 
 
-3.1
+4 
 
-Lage und Beschreibung des Ereignisortes ............................................................... 4
+4.1 
 
-3.2
+Vorbemerkungen .................................................................................................. 1 
 
-Beteiligte und Mitwirkende..................................................................................... 6
+Organisatorischer Hinweis ...................................................................................... 1 
 
-3.3
+Ziel der Eisenbahnunfalluntersuchung .................................................................... 1 
 
-Äußere Bedingungen ............................................................................................... 6
+Zusammenfassung ................................................................................................ 3 
 
-3.4
+Kurzbeschreibung des Ereignisses ........................................................................... 3 
 
-Todesopfer, Verletzte und Sachschäden................................................................. 7
+Folgen ...................................................................................................................... 3 
 
-4
+Ursachen .................................................................................................................. 3 
 
-Untersuchungsprotokoll ....................................................................................... 9
+Sicherheitsempfehlungen ....................................................................................... 3 
 
-4.1
+Allgemeine Angaben ............................................................................................. 4 
 
-Zusammenfassung von Aussagen und Stellungnahmen ......................................... 9
+Lage und Beschreibung des Ereignisortes ............................................................... 4 
 
-4.1.1
+Beteiligte und Mitwirkende ..................................................................................... 6 
 
-Stellungnahme des Triebfahrzeugführers (Tf) des DPN 5179 ................................. 9
+Äußere Bedingungen ............................................................................................... 6 
 
-4.2
+Todesopfer, Verletzte und Sachschäden ................................................................. 7 
 
-Notfallmanagement ................................................................................................ 9
+Untersuchungsprotokoll ....................................................................................... 9 
 
-4.3
+Zusammenfassung von Aussagen und Stellungnahmen ......................................... 9 
 
-Untersuchung der bautechnischen Infrastruktur ................................................. 10
+4.1.1 
 
-4.4
+Stellungnahme des Triebfahrzeugführers (Tf) des DPN 5179 ................................. 9 
 
-Untersuchung der Leit‐ und Sicherungstechnik .................................................... 11
+4.2 
 
-4.5
+4.3 
 
-Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers ................. 11
+4.4 
 
-I
+4.5 
 
-Untersuchungsbericht
-Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf
+Notfallmanagement ................................................................................................ 9 
 
-I.
+Untersuchung der bautechnischen Infrastruktur ................................................. 10 
 
-4.6
+Untersuchung der Leit‐ und Sicherungstechnik .................................................... 11 
 
-Untersuchung der betrieblichen Abläufe des EVU ............................................... 12
+Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers ................. 11 
 
-4.7
+I 
 
-Untersuchung von Fahrzeugen ............................................................................. 15
+ 
+ 
+Untersuchungsbericht 
 
-4.7.1
+Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf 
 
-Ablauf des Brandereignisses ................................................................................. 16
+4.6 
 
-4.7.2
+4.7 
 
-Brandausgangspunkt ............................................................................................. 17
+Untersuchung der betrieblichen Abläufe des EVU ............................................... 12 
 
-4.7.3
+Untersuchung von Fahrzeugen ............................................................................. 15 
 
-Feststellungen am Schadfahrzeug......................................................................... 18
+4.7.1 
 
-4.7.4
+Ablauf des Brandereignisses ................................................................................. 16 
 
-Unterhaltung des Fahrzeugs bei der NEB Betriebsgesellschaft mbH ................... 22
+4.7.2 
 
-4.8
+Brandausgangspunkt ............................................................................................. 17 
 
-Untersuchungen zur Feststellung der Brandursache ............................................ 26
+4.7.3 
 
-4.8.1
+Feststellungen am Schadfahrzeug ......................................................................... 18 
 
-Lokalisierung des Brandursprungs im Ausschlussverfahren ................................. 26
+4.7.4 
 
-4.8.2
+Unterhaltung des Fahrzeugs bei der NEB Betriebsgesellschaft mbH ................... 22 
 
-Weitere Eingrenzung der Brandursache ............................................................... 28
+4.8 
 
-4.8.3
+Untersuchungen zur Feststellung der Brandursache ............................................ 26 
 
-Untersuchungen an den Schützen 6K4 und 7K1 ................................................... 29
+4.8.1 
 
-4.8.4
+Lokalisierung des Brandursprungs im Ausschlussverfahren ................................. 26 
 
-Gutachterliche Feststellung der Ursache des Brandereignisses ........................... 33
+4.8.2 
 
-5
+Weitere Eingrenzung der Brandursache ............................................................... 28 
 
-Auswertung ........................................................................................................ 34
+4.8.3 
 
-5.1
+Untersuchungen an den Schützen 6K4 und 7K1 ................................................... 29 
 
-Ereignisrekonstruktion .......................................................................................... 34
+4.8.4 
 
-5.2
+Gutachterliche Feststellung der Ursache des Brandereignisses ........................... 33 
 
-Bewertung und Schlussfolgerung .......................................................................... 35
+5 
 
-6
+5.1 
 
-Bisher getroffene Maßnahmen ........................................................................... 38
+5.2 
 
-7
+6 
 
-Sicherheitsempfehlungen ................................................................................... 38
+7 
 
-Änderungsverzeichnis:
-Änderung
+Auswertung ........................................................................................................ 34 
 
-Stand
+Ereignisrekonstruktion .......................................................................................... 34 
 
-II
+Bewertung und Schlussfolgerung .......................................................................... 35 
 
-Untersuchungsbericht
-Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf
+Bisher getroffene Maßnahmen ........................................................................... 38 
 
-II.
+Sicherheitsempfehlungen ................................................................................... 38 
 
-Abbildungsverzeichnis:
-Abbildung 1: Lageplan ................................................................................................................ 4
-Abbildung 2: Gleislageskizze ...................................................................................................... 5
-Abbildung 3: Situation an der Brandstelle ................................................................................. 5
-Abbildung 4: Triebzug VT 643.20 der NEB Betriebsgesellschaft mbH im Vollbrand ................. 8
-Abbildung 5: Triebzug VT 643.20 der NEB Betriebsgesellschaft mbH nach Beendigung der
-Löscharbeiten ............................................................................................................................. 8
-Abbildung 6: Grafische Darstellung des Fahrtverlaufs ............................................................. 13
-Abbildung 7: Tabellarische Darstellung des Fahrtverlaufs....................................................... 14
-Abbildung 8: Dreiteiliges Fahrzeug der BR 643 (Talent) .......................................................... 15
-Abbildung 9: Fahrzeugskizze .................................................................................................... 15
-Abbildung 10: Ausgebrannter Triebwagen BR 643, in Fahrtrichtung aufgenommen ............. 17
-Abbildung 11:Zerstörter Schaltschrank 1 aus dem EW 2, Schaltschrank 1 aus dem EW 1 ..... 18
-Abbildung 12: Unterer Bereich des intakten Schaltschrankes 1 im EW 1 ............................... 19
-Abbildung 13: Auszug aus der Montageanweisung von ABB .................................................. 21
-Abbildung 14: Auszug aus dem Wartungsplan für BR 643....................................................... 23
-Abbildung 15: Auszug aus dem Instandhaltungshandbuch für die BR 643 ............................. 24
-Abbildung 16: Systemskizze Talent (Auszug) ........................................................................... 27
-Abbildung 17: Position der Schaltschränke 1 und 2 im zerstörten EW 2 ................................ 27
+I.  Änderungsverzeichnis:	
 
-III.
+Änderung 
 
-Tabellenverzeichnis:
-Tabelle 1: Übersicht der äußeren Bedingungen ........................................................................ 6
-Tabelle 2: Übersicht der Personenschäden ............................................................................... 7
-Tabelle 3: Übersicht der geschätzten Schadenshöhe ................................................................ 7
-Tabelle 4: Technische Daten des Triebzuges BR 643 ............................................................... 16
+Stand 
 
-III
+II 
 
-Untersuchungsbericht
-Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf
+ 
+ 
+ 
+ 
+ 
+ 
+	
+	
+Untersuchungsbericht 
+
+Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf 
+
+II.  Abbildungsverzeichnis:	
+
+Abbildung 1: Lageplan ................................................................................................................ 4 
+
+Abbildung 2: Gleislageskizze ...................................................................................................... 5 
+
+Abbildung 3: Situation an der Brandstelle ................................................................................. 5 
+
+Abbildung 4: Triebzug VT 643.20 der NEB Betriebsgesellschaft mbH im Vollbrand ................. 8 
+
+Abbildung 5: Triebzug VT 643.20 der NEB Betriebsgesellschaft mbH nach Beendigung der 
+
+Löscharbeiten ............................................................................................................................. 8 
+
+Abbildung 6: Grafische Darstellung des Fahrtverlaufs ............................................................. 13 
+
+Abbildung 7: Tabellarische Darstellung des Fahrtverlaufs ....................................................... 14 
+
+Abbildung 8: Dreiteiliges Fahrzeug der BR 643 (Talent) .......................................................... 15 
+
+Abbildung 9: Fahrzeugskizze .................................................................................................... 15 
+
+Abbildung 10: Ausgebrannter Triebwagen BR 643, in Fahrtrichtung aufgenommen ............. 17 
+
+Abbildung 11:Zerstörter Schaltschrank 1 aus dem EW 2, Schaltschrank 1 aus dem EW 1 ..... 18 
+
+Abbildung 12: Unterer Bereich des intakten Schaltschrankes 1 im EW 1 ............................... 19 
+
+Abbildung 13: Auszug aus der Montageanweisung von ABB .................................................. 21 
+
+Abbildung 14: Auszug aus dem Wartungsplan für BR 643 ....................................................... 23 
+
+Abbildung 15: Auszug aus dem Instandhaltungshandbuch für die BR 643 ............................. 24 
+
+Abbildung 16: Systemskizze Talent (Auszug) ........................................................................... 27 
+
+Abbildung 17: Position der Schaltschränke 1 und 2 im zerstörten EW 2  ................................ 27 
+
+III.  Tabellenverzeichnis:	
+
+Tabelle 1: Übersicht der äußeren Bedingungen ........................................................................ 6 
+
+Tabelle 2: Übersicht der Personenschäden ............................................................................... 7 
+
+Tabelle 3: Übersicht der geschätzten Schadenshöhe ................................................................ 7 
+
+Tabelle 4: Technische Daten des Triebzuges BR 643 ............................................................... 16 
+
+III 
+
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf 
 
 IV.
 
 Abkürzungsverzeichnis:
-Abzw
 
-Abzweigstelle
+Abzw 
 
-AEG
+Abzweigstelle 
 
-Allgemeines Eisenbahngesetz
+AEG 
 
-BEU
+BEU 
 
-Bundesstelle für Eisenbahnunfalluntersuchung
+Allgemeines Eisenbahngesetz 
 
-BEVVG
+Bundesstelle für Eisenbahnunfalluntersuchung 
 
-Bundeseisenbahnverkehrsverwaltungsgesetz
+BEVVG 
 
-Bf
+Bundeseisenbahnverkehrsverwaltungsgesetz 
 
-Bahnhof
+Bf 
 
-B
+B(cid:332) 
 
-Bahnhofsteil
+BR 
 
-BR
+EBA 
 
-Baureihe
+EBO 
 
-EBA
+EIU 
 
-Eisenbahn‐Bundesamt
+EU 
 
-EBO
+EUV 
 
-Eisenbahn‐ Bau‐ und Betriebsordnung
+EVU 
 
-EIU
+EW 
 
-Eisenbahninfrastrukturunternehmen
+Fdl 
 
-EU
+Bahnhof 
 
-Europäische Union
+Bahnhofsteil 
 
-EUV
+Baureihe 
 
-Eisenbahn‐Unfalluntersuchungsverordnung
+Eisenbahn‐Bundesamt 
 
-EVU
+Eisenbahn‐ Bau‐ und Betriebsordnung 
 
-Eisenbahnverkehrsunternehmen
+Eisenbahninfrastrukturunternehmen 
 
-EW
+Europäische Union 
 
-Endwagen
+Eisenbahn‐Unfalluntersuchungsverordnung 
 
-Fdl
+Eisenbahnverkehrsunternehmen 
 
-Fahrdienstleiter
+Endwagen 
 
-GSM‐R
+Fahrdienstleiter 
 
-Global System for Mobile Communica ons Rail
+GSM‐R 
 
-HU
+Global System for Mobile Communica(cid:415)ons Rail 
 
-Hauptuntersuchung
+HU 
 
-MW
+MW 
 
-Mi elwagen
+NEB 
 
-NEB
+PZB 
 
-Niederbarnimer Eisenbahn
+Ril 
 
-PZB
+SMS 
 
-Punk örmige Zugbeeinflussung
+Tf 
 
-Ril
+Hauptuntersuchung 
 
-Richtlinie
+Mi(cid:425)elwagen 
 
-SMS
+Niederbarnimer Eisenbahn 
 
-Sicherheitsmanagement
+Punk(cid:414)örmige Zugbeeinﬂussung 
 
-Tf
+Richtlinie 
 
-Triebfahrzeugführer
+Sicherheitsmanagement 
 
-IV
+Triebfahrzeugführer 
 
-Untersuchungsbericht
-Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf
+IV 
 
-1 Vorbemerkungen
-Das Kapitel Vorbemerkungen befasst sich mit allgemeinen Informa onen zur Bundesstelle für
-Eisenbahnunfalluntersuchung (BEU). Dabei wird die gesetzliche Grundlage genannt und die
-Au auorganisa on kurz umrissen.
-
-1.1 Organisatorischer Hinweis
-Mit der Richtlinie (EU) 2016/798 des Europäischen Parlaments und des Rates zur
-Eisenbahnsicherheit in der Gemeinschaft (Eisenbahnsicherheitsrichtlinie) wurden die
-Mitgliedstaaten der Europäischen Union (EU) verpflichtet, unabhängige Untersuchungsstellen
-für die Untersuchung bestimmter gefährlicher Ereignisse einzurichten.
-Diese Richtlinie wurde mit dem Gesetz zur Neuordnung der Eisenbahnunfalluntersuchung
-vom 27. Juni 2017 und der Eisenbahn‐Unfalluntersuchungsverordnung vom 05.07.2007, die
-durch Artikel 1 der Verordnung vom 26.11.2019 geändert worden ist, umgesetzt. Die BEU ist
-eine Bundesoberbehörde im Geschäftsbereich des Bundesministeriums für Digitales und
-Verkehr.
-Gemäß § 6 Abs. 2 des Bundeseisenbahnverkehrsverwaltungsgesetzes (BEVVG) wurde der Sitz
-und Aufbau der BEU im „Organisationserlass zur Errichtung der Bundesstelle für
-Eisenbahnunfalluntersuchung“ des Bundesministeriums für Verkehr und digitale Infrastruktur
-festgelegt und die BEU zum 14.07.2017 errichtet.
-Näheres hierzu ist im Internet unter www.beu.bund.de eingestellt.
-
-1.2 Ziel der Eisenbahnunfalluntersuchung
-Ziel und Zweck der Untersuchungen ist es, die Ursachen von gefährlichen Ereignissen
-aufzuklären und hieraus Hinweise
-
-zur Verbesserung der Sicherheit abzuleiten.
+Untersuchungsbericht 
 
-Untersuchungen der BEU dienen nicht dazu, ein Verschulden festzustellen oder Fragen der
-Haftung oder sonstiger zivilrechtlicher Ansprüche zu klären und werden unabhängig von jeder
-gerichtlichen Untersuchung durchgeführt.
-Die Untersuchung umfasst die Sammlung und Auswertung von Informationen, die Erarbeitung
-von Schlussfolgerungen einschließlich der Feststellung der Ursachen und gegebenenfalls die
-Abgabe von Sicherheitsempfehlungen. Die Vorschläge der Untersuchungsstelle zur
-Vermeidung von Unfällen und Verbesserung der Sicherheit im Eisenbahnverkehr werden der
+Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf 
 
-Seite 1 von 38
+1  Vorbemerkungen	
 
-Untersuchungsbericht
-Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf
+Das Kapitel Vorbemerkungen befasst sich mit allgemeinen Informa(cid:415)onen zur Bundesstelle für 
 
-Sicherheitsbehörde und, soweit erforderlich, anderen Stellen und Behörden oder anderen
-Mitgliedstaaten der EU in Form von Sicherheitsempfehlungen mitgeteilt.
+Eisenbahnunfalluntersuchung (BEU). Dabei wird die gesetzliche Grundlage genannt und die 
 
-Seite 2 von 38
+Au(cid:297)auorganisa(cid:415)on kurz umrissen. 
 
-Untersuchungsbericht
-Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf
+1.1  Organisatorischer	Hinweis	
 
-2 Zusammenfassung
-Das Kapitel befasst sich mit einer kurzen Darstellung des Ereignisherganges, den Folgen und
-den Primärursachen. Abschließend werden eventuell erteilte Sicherheitsempfehlungen
-aufgeführt.
+Mit  der  Richtlinie  (EU) 2016/798  des  Europäischen  Parlaments  und  des  Rates  zur 
 
-2.1 Kurzbeschreibung des Ereignisses
-Am 06.01.2016 um 20:00 Uhr entstand bei Zug DPN 5179 auf der Fahrt von Berlin‐Lichtenberg
-nach Kostrzyn (Küstrin) Osop zwischen Abzweigstelle (Abzw) Biesdorfer Kreuz Ost und
-Bahnhof (Bf) Berlin‐Kaulsdorf in km 9,6 ein Brand. Dieser ha e seinen Ursprung im hinteren
-Teil des eingesetzten Triebzuges.
+Eisenbahnsicherheit 
 
-2.2 Folgen
-Es wurden keine Personen getötet oder verletzt. Der hintere Endwagen (EW) 2 und der
-Mittelwagen (MW) des Triebzuges brannten vollständig aus. Am führenden EW 1 entstanden
-große Brandschäden.
+in  der  Gemeinschaft  (Eisenbahnsicherheitsrichtlinie)  wurden  die 
 
-2.3 Ursachen
-Der Ursprung des Brandes wurde im unteren Teil des Schaltschrankes 1 des hinteren Zugteils
-(EW 2) lokalisiert. Mit hoher Wahrscheinlichkeit war eine Überhitzung des Schützes 6K4
-auslösende Ursache für das Brandereignis. Im Rahmen der Untersuchung des Ereignisses
-wurden für dieses Schütz Abweichungen gegenüber der rechnerischen Strombeaufschlagung,
-der vorgegebenen Montageposition sowie der vorgesehenen Austauschfristen gefunden.
-Arbeitsvorgaben für eine Zustandsbeurteilung im Rahmen der Inspektionen waren
-ungenügend.
+Mitgliedstaaten der Europäischen Union (EU) verpflichtet, unabhängige Untersuchungsstellen 
 
-2.4 Sicherheitsempfehlungen
-Es ergehen keine Sicherheitsempfehlungen.
+für die Untersuchung bestimmter gefährlicher Ereignisse einzurichten. 
 
-Seite 3 von 38
+Diese  Richtlinie  wurde  mit  dem  Gesetz  zur  Neuordnung  der  Eisenbahnunfalluntersuchung 
 
-Untersuchungsbericht
-Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf
+vom 27. Juni 2017 und der Eisenbahn‐Unfalluntersuchungsverordnung vom 05.07.2007, die 
 
-3 Allgemeine Angaben
-Das Kapitel beinhaltet allgemeine Angaben zur Beschreibung des Ereignisortes und der
-relevanten Bahnanlagen. Des Weiteren werden die an der Unfalluntersuchung beteiligten und
-mitwirkenden Stellen, die äußeren Bedingungen, die Anzahl der bei dem Ereignis verletzten
-und getöteten Personen sowie Art und Höhe der Folgeschäden benannt.
+durch Artikel 1 der Verordnung vom 26.11.2019 geändert worden ist, umgesetzt. Die BEU ist 
 
-3.1 Lage und Beschreibung des Ereignisortes
-Der Fahrzeugbrand ereignete sich auf der nicht elektrifizierten Hauptbahn Berlin Wriezener
-Bahnhof – Strausberg – Küstrin‐Kiez Grenzbahnhof (DB Grenze), die im Verzeichnis der
-maximal zulässigen Geschwindigkeiten (VzG) mit der Streckennummer 6078 geführt wurde.
-Die Unfallstelle befand sich auf der freien Strecke etwa in km 9,6 in einem eingleisigen
-Streckenabschnitt zwischen den Betriebsstellen Abzw Biesdorfer Kreuz Ost und Bf Berlin‐
-Kaulsdorf. Dieser Abschnitt darf gemäß VzG mit einer maximalen Geschwindigkeit von
-100 km/h befahren werden und ist für einen Bremsweg von 700 m ausgelegt. In unmittelbarer
-örtlicher Nähe zum Ereignisort lag der Bahnhofsteil (Bft) Berlin Wuhletal der parallel
-verlaufenden S‐Bahn‐Strecke 6006.
+eine  Bundesoberbehörde  im  Geschäftsbereich  des  Bundesministeriums  für  Digitales  und 
 
-Abbildung 1: Lageplan1
+Verkehr. 
 
-Die Strecke 6078 war mit dem digitalen Zugfunk Global System for Mobile Communications
-Rail (GSM‐R) ausgerüstet. Als Zugsicherungssystem kam die punktförmige Zugbeeinflussung
-(PZB) zur Anwendung.
+Gemäß § 6 Abs. 2 des Bundeseisenbahnverkehrsverwaltungsgesetzes (BEVVG) wurde der Sitz 
 
-1
+und  Aufbau  der  BEU 
 
-Quelle: Geobasisdaten © GeoBasis‐DE / BKG [2019], bearbeitet durch BEU
+im  „Organisationserlass  zur  Errichtung  der  Bundesstelle  für 
 
-Seite 4 von 38
+Eisenbahnunfalluntersuchung“ des Bundesministeriums für Verkehr und digitale Infrastruktur 
 
-Untersuchungsbericht
-Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf
+festgelegt und die BEU zum 14.07.2017 errichtet. 
 
-Die Abbildungen 2 und 3 stellen die Situa on an der Unfallstelle als Gleislageplan und physisch
-vor Ort dar.
+Näheres hierzu ist im Internet unter www.beu.bund.de eingestellt. 
 
-Abbildung 2: Gleislageskizze2
+1.2  Ziel	der	Eisenbahnunfalluntersuchung	
 
-Abbildung 3: Situa on an der Brandstelle3
+Ziel  und  Zweck  der  Untersuchungen  ist  es,  die  Ursachen  von  gefährlichen  Ereignissen 
 
-2
+aufzuklären  und  hieraus  Hinweise  zur  Verbesserung  der  Sicherheit  abzuleiten. 
 
-Quelle: DB Netz AG IVL‐ Plan, bearbeitet durch BEU
+Untersuchungen der BEU dienen nicht dazu, ein Verschulden festzustellen oder Fragen der 
 
-3
+Haftung oder sonstiger zivilrechtlicher Ansprüche zu klären und werden unabhängig von jeder 
 
-Quelle: Bundespolizei, bearbeitet durch BEU
+gerichtlichen Untersuchung durchgeführt. 
 
-Seite 5 von 38
+Die Untersuchung umfasst die Sammlung und Auswertung von Informationen, die Erarbeitung 
 
-Untersuchungsbericht
-Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf
+von Schlussfolgerungen einschließlich der Feststellung der Ursachen und gegebenenfalls die 
 
-3.2 Beteiligte und Mitwirkende
-Am Ereignis waren folgende Stellen beteiligt:
-
+Abgabe  von  Sicherheitsempfehlungen.  Die  Vorschläge  der  Untersuchungsstelle  zur 
 
-DB Netz AG als Eisenbahninfrastrukturunternehmen (EIU)
+Vermeidung von Unfällen und Verbesserung der Sicherheit im Eisenbahnverkehr werden der 
 
-
+Seite 1 von 38 
 
-Niederbarnimer Eisenbahn (NEB) Betriebsgesellschaft mbH als
-Eisenbahnverkehrsunternehmen (EVU) und Fahrzeughalter
+ 
+ 
+Untersuchungsbericht 
 
-Für das EIU lag eine Sicherheitsgenehmigung gemäß § 7c AEG des Eisenbahn‐Bundesamts vom
-19.04.2011 vor.
-Die NEB Betriebsgesellscha mbH verfügte über eine Sicherheitsbescheinigung gemäß § 7a
-AEG des EBA, da ert vom 26.02.2014, und war damit zur der Teilnahme am Eisenbahnbetrieb
-berech gt.
-Im Rahmen der Sachverhaltsermi lung und Ursachenerforschung wurden neben den o. g.
-Beteiligten folgende weitere Stellen einbezogen:
-
+Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf 
 
-Bundespolizeiinspektion Berlin‐Ostbahnhof, Ermittlungsdienst
+Sicherheitsbehörde  und,  soweit  erforderlich,  anderen  Stellen  und  Behörden  oder  anderen 
 
-
+Mitgliedstaaten der EU in Form von Sicherheitsempfehlungen mitgeteilt. 
 
-TÜV Süd Rail GmbH (Gutachten)
+Seite 2 von 38 
 
-
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Bombardier Transportation GmbH (Fahrzeughersteller)
+Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf 
 
-
+2  Zusammenfassung	
 
-Alpha Trains Europe GmbH (Fahrzeugeigentümer)
+Das Kapitel befasst sich mit einer kurzen Darstellung des Ereignisherganges, den Folgen und 
 
-
+den  Primärursachen.  Abschließend  werden  eventuell  erteilte  Sicherheitsempfehlungen 
 
-ABB Stotz‐Kontakt GmbH (Schützhersteller)
+aufgeführt. 
 
-3.3 Äußere Bedingungen
-Zum Zeitpunkt des Ereignisses herrschten folgende Bedingungen:
-Lichtverhältnisse
+2.1  Kurzbeschreibung	des	Ereignisses	
 
-Dunkelheit
+Am 06.01.2016 um 20:00 Uhr entstand bei Zug DPN 5179 auf der Fahrt von Berlin‐Lichtenberg 
 
-Sicht
+nach  Kostrzyn (Küstrin)  Osop  zwischen  Abzweigstelle  (Abzw)  Biesdorfer  Kreuz  Ost  und 
 
-klar
+Bahnhof (Bf) Berlin‐Kaulsdorf in km 9,6 ein Brand. Dieser ha(cid:425)e seinen Ursprung im hinteren 
 
-Bedeckung
+Teil des eingesetzten Triebzuges. 
 
-heiter
+2.2  Folgen	
 
-Temperaturen
+Es  wurden  keine  Personen  getötet  oder  verletzt.  Der  hintere  Endwagen  (EW)  2  und  der 
 
-‐ 5°C
+Mittelwagen (MW) des Triebzuges brannten vollständig aus. Am führenden EW 1 entstanden 
 
-fallender Niederschlag
+große Brandschäden. 
 
-Nein
+2.3  Ursachen	
 
-Niederschlagshäufigkeit
+Der Ursprung des Brandes wurde im unteren Teil des Schaltschrankes 1 des hinteren Zugteils 
 
-‐‐
+(EW  2)  lokalisiert.  Mit  hoher  Wahrscheinlichkeit  war  eine  Überhitzung  des  Schützes  6K4 
 
-Untergrund / gefallener Niederschlag
+auslösende  Ursache  für  das  Brandereignis.  Im  Rahmen  der  Untersuchung  des  Ereignisses 
 
-Schneedecke
+wurden für dieses Schütz Abweichungen gegenüber der rechnerischen Strombeaufschlagung, 
 
-Tabelle 1: Übersicht der äußeren Bedingungen
+der  vorgegebenen  Montageposition  sowie  der  vorgesehenen  Austauschfristen  gefunden. 
 
-Seite 6 von 38
+Arbeitsvorgaben  für  eine  Zustandsbeurteilung 
 
-Untersuchungsbericht
-Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf
+im  Rahmen  der 
 
-Feststellung zu den äußeren Bedingungen
-Lfd. Nr. 1
-Die äußeren Bedingungen, wie z. B. das We er, standen in keinem erkennbaren kausalen
-Zusammenhang mit der Ereignisursache.
+Inspektionen  waren 
 
-3.4 Todesopfer, Verletzte und Sachschäden
-Nach letzten Erkenntnissen traten folgend aufgeführte Personenschäden ein:
-Anzahl Tote
+ungenügend. 
 
-Anzahl schwer Verletzte
+2.4  Sicherheitsempfehlungen	
 
-Anzahl leicht Verletzte
+Es ergehen keine Sicherheitsempfehlungen. 
 
-Reisende
+Seite 3 von 38 
 
-‐
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-‐
+Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf 
 
-‐
+3  Allgemeine	Angaben	
 
-Mitarbeiter
+Das  Kapitel  beinhaltet  allgemeine  Angaben  zur  Beschreibung  des  Ereignisortes  und  der 
 
-‐
+relevanten Bahnanlagen. Des Weiteren werden die an der Unfalluntersuchung beteiligten und 
 
-‐
+mitwirkenden Stellen, die äußeren Bedingungen, die Anzahl der bei dem Ereignis verletzten 
 
-‐
+und getöteten Personen sowie Art und Höhe der Folgeschäden benannt. 
 
-Benutzer von
-Bahnübergängen
+3.1  Lage	und	Beschreibung	des	Ereignisortes	
 
-‐
+Der Fahrzeugbrand ereignete sich auf der nicht elektrifizierten Hauptbahn Berlin Wriezener 
 
-‐
+Bahnhof  –  Strausberg  –  Küstrin‐Kiez  Grenzbahnhof  (DB  Grenze),  die  im  Verzeichnis  der 
 
-‐
+maximal zulässigen Geschwindigkeiten (VzG) mit der Streckennummer 6078 geführt wurde. 
 
-Dri e
+Die  Unfallstelle  befand  sich  auf  der  freien  Strecke  etwa  in  km  9,6  in  einem  eingleisigen 
 
-‐
+Streckenabschnitt  zwischen  den  Betriebsstellen  Abzw  Biesdorfer  Kreuz  Ost  und  Bf  Berlin‐
 
-‐
+Kaulsdorf.  Dieser  Abschnitt  darf  gemäß  VzG  mit  einer  maximalen  Geschwindigkeit  von 
 
-‐
+100 km/h befahren werden und ist für einen Bremsweg von 700 m ausgelegt. In unmittelbarer 
 
-Summe
+örtlicher  Nähe  zum  Ereignisort  lag  der  Bahnhofsteil  (Bft)  Berlin  Wuhletal  der  parallel 
 
-‐
+verlaufenden S‐Bahn‐Strecke 6006. 
 
-‐
+Abbildung 1: Lageplan1 
 
-‐
+Die Strecke 6078 war mit dem digitalen Zugfunk Global System for Mobile Communications 
 
-Tabelle 2: Übersicht der Personenschäden
+Rail (GSM‐R) ausgerüstet. Als Zugsicherungssystem kam die punktförmige Zugbeeinflussung 
 
-Die geschätzte Höhe der Sachschäden in Euro setzt sich wie folgt zusammen:
-geschätzte Kosten in Euro
-Fahrzeuge
+(PZB) zur Anwendung. 
 
-2.800.000
+1 Quelle:  Geobasisdaten © GeoBasis‐DE / BKG [2019], bearbeitet durch BEU 
 
-Infrastruktur
+Seite 4 von 38 
 
-‐
+ 
+ 
+ 
+                                                       
+Untersuchungsbericht 
 
-Dri e
+Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf 
 
-‐
+Die Abbildungen 2 und 3 stellen die Situa(cid:415)on an der Unfallstelle als Gleislageplan und physisch 
 
-Gesamtschadenshöhe
+vor Ort dar. 
 
-2.800.000
+Abbildung 2: Gleislageskizze2 
 
-Tabelle 3: Übersicht der geschätzten Schadenshöhe
+Abbildung 3: Situa(cid:415)on an der Brandstelle3 
 
-Der hintere EW und der MW des Triebzuges brannten vollständig, der führende EW teilweise
-aus. Aufgrund des Ausmaßes der Schäden lag ein Totalverlust des Triebzuges vor.
-Die Abbildungen 4 und 5 zeigen den Triebzug VT 643.20 im Vollbrand in Fahrtrichtung bzw.
-nach Abschluss der Löscharbeiten gegen die Fahrtrichtung aufgenommen.
+2 Quelle: DB Netz AG IVL‐ Plan, bearbeitet durch BEU 
 
-Seite 7 von 38
+3 Quelle: Bundespolizei, bearbeitet durch BEU 
 
-Untersuchungsbericht
-Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf
+Seite 5 von 38 
 
-Abbildung 4: Triebzug VT 643.20 der NEB Betriebsgesellscha mbH im Vollbrand4
+ 
+ 
+ 
+ 
+ 
+ 
+                                                       
+Untersuchungsbericht 
 
-Abbildung 5: Triebzug VT 643.20 der NEB Betriebsgesellscha mbH nach Beendigung der Löscharbeiten5
+Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf 
 
-4
+3.2  Beteiligte	und	Mitwirkende	
 
-Quelle: Bundespolizei
+Am Ereignis waren folgende Stellen beteiligt: 
 
-5
+  DB Netz AG als Eisenbahninfrastrukturunternehmen (EIU) 
 
-Quelle: Bundespolizei
+  Niederbarnimer Eisenbahn (NEB) Betriebsgesellschaft mbH als 
 
-Seite 8 von 38
+Eisenbahnverkehrsunternehmen (EVU) und Fahrzeughalter 
 
-Untersuchungsbericht
-Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf
+Für das EIU lag eine Sicherheitsgenehmigung gemäß § 7c AEG des Eisenbahn‐Bundesamts vom 
 
-4 Untersuchungsprotokoll
-In diesem Kapitel werden die ermi elten Ergebnisse zu einzelnen in Zusammenhang mit dem
-Ereignis stehenden Teilbereichen des Eisenbahnwesens dargestellt. Daneben wurden auch die
-entsprechenden Schni stellen sowie das Sicherheitsmanagement (SMS) im betroﬀenen
-Bereich betrachtet. Die jeweilig relevanten Erkenntnisse werden fortlaufend aufgeführt.
+19.04.2011 vor.  
 
-4.1 Zusammenfassung von Aussagen und Stellungnahmen
-In den folgenden Abschni en werden die wich gsten Aussagen und Stellungnahmen einiger
-Beteiligter zusammengefasst dargestellt. Diese wurden dem jeweiligen Arbeitgeber
-gegenüber abgelegt.
-4.1.1 Stellungnahme des Triebfahrzeugführers (Tf) des DPN 5179
-Der Tf sagte aus, er sei aus dem Bf Berlin‐Lichtenberg, Gleis 15, etwas verspätet gegen
-19:45 Uhr abgefahren. Hinter dem Bahnübergang Posten 5 zwischen der Abzw Biesdorfer
-Kreuz Ost und dem Bf Berlin‐Kaulsdorf sei eine Zwangsbremsung erfolgt. Er habe die EVU‐
-Leitstelle verständigt.
-Reisende hä en dann Rauchentwicklung im EW 2 gemeldet, daher sei dann die Meldung um
-Feueralarm erweitert worden. Die EVU‐Leitstelle hä e dann alles Weitere veranlasst.
-Die Türen seien über die Notöﬀnung geöﬀnet, der Zug evakuiert und die Reisenden zum etwa
-75 m en ernten Bahnübergang geleitet worden. Die Kundenbetreuerin sei mit einer kleinen
-Gruppe von 39 Personen zum B Berlin Wuhletal gegangen.
-Danach hä en sie auf die Einsatzkrä e gewartet und die Feuerwehr unterstützt.
+Die NEB Betriebsgesellscha(cid:332) mbH verfügte über eine Sicherheitsbescheinigung gemäß § 7a 
 
-4.2 Notfallmanagement
-Nach § 4 Abs. 3 Allgemeines Eisenbahngesetz (AEG) haben die Eisenbahnen die Verpflichtung,
-an Maßnahmen des Brandschutzes und der technischen Hilfeleistung mitzuwirken. In einer
-Vereinbarung zwischen den Innenministerien der Länder und der DB AG hat man sich auf eine
-Verfahrensweise verständigt. Für die DB Netz AG gelten die entsprechenden Brand‐ und
-Katastrophenschutzgesetze der Länder. Das No allmanagement der DB AG ist in der
-Konzernrichtlinie 123, das der DB Netz AG in der Richtlinie (Ril) 423 näher beschrieben und
-geregelt.
-Bei diesem Ereignis ha e der Tf des DPN 5179 den zuständigen Fahrdienstleiter (Fdl) im
-Stellwerk Kaulsdorf West über eine Störung an seinem Zug informiert. Nach der Entdeckung
+AEG des EBA, da(cid:415)ert vom 26.02.2014, und war damit zur der Teilnahme am Eisenbahnbetrieb 
 
-Seite 9 von 38
+berech(cid:415)gt. 
 
-Untersuchungsbericht
-Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf
+Im  Rahmen  der  Sachverhaltsermi(cid:425)lung  und  Ursachenerforschung  wurden  neben  den  o. g. 
 
-des Brandes betrat er aufgrund der eingetretenen Gefahrenlage den Führerstand des
-Fahrzeugs nicht mehr und konnte daher keinen GSM‐R Ruf zu dem zuständigen Fdl au auen
-oder einen Notruf absetzen. Er informierte die Leitstelle der NEB, welche dann die
-No allleitstelle der DB Netz AG verständigte. Darau in wurde die Meldeke e ak viert. Die
-Evakuierung des Zuges begann unverzüglich nach Erkennen des Brandes. Der Tf und die
-Zugbegleiterin führten die ca. 180 Personen in zwei Gruppen zu sicheren Sammelplätzen. Es
-wurde niemand verletzt. Die Einsatzkrä e der Feuerwehr trafen gegen 20:15 Uhr an der
-Unfallstelle ein. Der No allmanager war um 20:20 Uhr vor Ort. Danach konnte die Feuerwehr
-mit dem Löschen beginnen.
-Feststellungen zum No allmanagement
-Lfd. Nr. 2
-Es wurde festgestellt, dass situa onsbedingt ein GSM‐R Notruf zum Zeitpunkt des
-Ereignisses vom Tf des betroﬀenen Zuges nicht ausgelöst wurde. Die Informa on über das
-Ereignis erfolgte über alterna ve Informa onswege.
-Die Evakuierung des Zuges verlief ohne Zwischenfälle. Folgesachschäden traten nicht ein.
+Beteiligten folgende weitere Stellen einbezogen: 
 
-4.3 Untersuchung der bautechnischen Infrastruktur
-Die Bahnstrecke Berlin – Küstrin‐Kiez Grenzbahnhof war im relevanten Streckenabschni
-nicht Bestandteil der transeuropäischen Netze. Die Strecke war mit einem Scho eroberbau
-ausgesta et und der Streckenklasse D4 zugeordnet. Sie dur e von Zügen mit einer maximalen
-Radsatzlast von 22,5 t befahren werden. An der vorhandenen Infrastruktur wurden durch das
-EIU nach dem Ereignis keine Unfallfolgen gemeldet. Der Scho eroberbau war vollständig
-intakt. Ein unmi elbarer Einfluss aus den Infrastrukturanlagen auf das Ereignis war nicht
-erkennbar. Daher erfolgten keine weiteren diesbezüglichen Untersuchungen.
-Feststellung zur der bautechnischen Infrastruktur
-Lfd. Nr. 3
-Für das Ereignis ursächliche oder begüns gende Einflüsse ergaben sich aus der
-Untersuchung der bautechnischen Infrastruktur nicht.
+  Bundespolizeiinspektion Berlin‐Ostbahnhof, Ermittlungsdienst 
 
-Seite 10 von 38
+  TÜV Süd Rail GmbH (Gutachten) 
 
-Untersuchungsbericht
-Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf
+  Bombardier Transportation GmbH (Fahrzeughersteller) 
 
-4.4 Untersuchung der Leit‐ und Sicherungstechnik
-Der relevante Abschni lag zwischen den Stellwerken Biesdorfer Kreuz und Kaulsdorf West.
-Das Stellwerk Biesdorfer Kreuz der Bauform GS II Sp64b ging im Jahre 1978 in Betrieb. Das
-mechanische Stellwerk Kaulsdorf West der Bauform Siemens & Halske 1912 wurde 1941 in
-Betrieb genommen und zwischenzeitlich durch Komponenten der Bauform GS II DR ergänzt.
-Der Zug DPN 5179 fuhr mit Fahrtstellung des Ausfahrsignals M 15, aus dem Bf Berlin‐
-Lichtenberg aus. Aufgrund des Ereignishergangs wurden ereignisursächliche Einflüsse aus der
-Leit‐ und Sicherungstechnik ausgeschlossen. Weitere diesbezügliche Untersuchungen
-erfolgten daher nicht.
-Feststellung zur Untersuchung der Leit‐ und Sicherungstechnik
-Lfd. Nr. 4
-Aus der Untersuchung der Leit‐ und Sicherungstechnik ergaben sich keine Hinweise, die für
-den Eintri des Ereignisses ursächlich oder begüns gend waren.
+  Alpha Trains Europe GmbH (Fahrzeugeigentümer) 
 
-4.5 Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers
-Die Betriebsdurchführung der Strecke 6078 des EIU DB Netz AG erfolgte nach den Vorgaben
-der Fahrdienstvorschri
+  ABB Stotz‐Kontakt GmbH (Schützhersteller) 
 
-Ril 408. Zum Zeitpunkt des Ereignisses wurde der Zugverkehr im
+3.3  Äußere	Bedingungen		
 
-Regelbetrieb durchgeführt. Der Zug befand sich zum Zeitpunkt des Ereigniseintri s zwischen
-den Betriebsstellen Abzw Biesdorfer Kreuz Ost und Bf Berlin‐Kaulsdorf. Die beiden für den
-relevanten Streckenabschni
+Zum Zeitpunkt des Ereignisses herrschten folgende Bedingungen: 
 
-zuständigen Fdl ha en ihre Bedienplätze in den Stellwerken
+Lichtverhältnisse 
 
-Biesdorfer Kreuz und Kaulsdorf West. Für das Ereignis ursächliche Handlungen der Fdl wurden
-im Rahmen der Untersuchung nicht oﬀenbar. Daher wurde auf die Erhebung
-personenbezogener Daten zu den involvierten Fdl verzichtet. Der Zug DPN 5179 fuhr mit ca.
-acht Minuten Verspätung um 19:43 Uhr aus dem Bf Berlin‐Lichtenberg ab. Um ca. 19:50 Uhr
-erhielt der Fdl auf dem Stellwerk Kaulsdorf West die Informa on, dass der Zug DPN 5179
-wegen einer Störung am Triebzug zwischen den Betriebsstellen Abzw Biesdorfer Kreuz Ost
-und Bf Berlin‐Kaulsdorf liegen geblieben war. Der Tf teilte dem Fdl in einem GSM‐R Anruf
-weiterhin mit, dass er noch nicht abschätzen könne, wann die Störung behoben sein würde.
-Die Meldung über den Fahrzeugbrand erhielt der Fdl gegen 20:00 Uhr von der No allleitstelle,
-die von der Leitstelle des beteiligten EVU informiert worden war. Um ca. 20:07 Uhr wurde die
-Strecke gesperrt.
+Sicht 
 
-Seite 11 von 38
+Bedeckung 
 
-Untersuchungsbericht
-Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf
+Temperaturen  
 
-Feststellung zur Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers
-Lfd. Nr. 5
-Die Untersuchung der betrieblichen Handlungen bei den EIU ergab keine für das Ereignis
-ursächlichen oder begüns gend wirkenden Einflüsse.
+fallender Niederschlag 
 
-4.6 Untersuchung der betrieblichen Abläufe des EVU
-Verantwortlich für die Durchführung der Zugfahrt DPN 5179 von Berlin‐Lichtenberg nach
-Kostrzyn (Küstrin) Osop war das EVU NEB. Die Betriebsdurchführung erfolgte nach den Regeln
-der Ril 408 sowie des Betriebsregelwerkes EVU.
-Der Tf war seit 2003 im Besitz eines gül gen Triebfahrzeugführerscheins. Die Berech gung
-zum Führen von Fahrzeugen der Baureihe (BR) 643 wurde mit der Zusatzbescheinigung des
-EVU NEB Betriebsgesellscha
+Niederschlagshäuﬁgkeit 
 
-mbH sowie der Prüfungsbescheinigung für die BR 643
+Dunkelheit 
 
-nachgewiesen. Die Nachweise über die notwendigen Kenntnisse für die genannten
-Betriebsverfahren und der Streckenkenntnis, der regelmäßigen Fortbildungen und
-Überwachungen sowie der erforderlichen Tauglichkeit wurden erbracht. Der Tf begann seine
-Dienstschicht am Ereignistag nach einer Ruhephase von 40 Stunden um 13:28 Uhr. Während
-der Zugfahrt DPN 5177, die in Doppeltrak on mit VT 643.20 und VT 735 (EVU‐interne
-Fahrzeugbezeichnungen) am Nachmi ag des Ereignistages durchgeführt wurde, war es laut
-den Auslesedaten des Störungsspeichers beim VT 643.20 um 17:59 Uhr zu einer Störung mit
-der Diagnose „Zugabriss“ gekommen. Um diese Zugfahrt fortsetzen zu können, wurde
-darau in die Doppeltrak on aufgelöst. Der Triebwagen VT 643.20 fuhr in Einfachtrak on
-weiter. Das Brandereignis ereignete sich während der Zugfahrt DPN 5179. Näheres zum
-Schadfahrzeug ist im Kapitel 4.7 – Untersuchung von Fahrzeugen – ausgeführt. Die
-Auswertung des Fahrtverlaufs wurde durch die BEU vorgenommen. Die Normierung erfolgte
-auf die Spitze des VT 643.20 nach dem ereignisbedingten Halt in km 9,6. Die folgende
-Abbildung zeigt die grafische Darstellung des Fahrtverlaufs mit dem Halt im Bf Berlin‐
-Lichtenberg und der weiteren Fahrt bis zur selbs ä gen Bremsung und dem letztendlichen
-Halt des Zuges.
+klar 
 
-Seite 12 von 38
+heiter 
 
-Untersuchungsbericht
-Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf
+‐ 5°C 
 
-Abbildung 6: Grafische Darstellung des Fahrtverlaufs
+Nein 
 
-Nach der verspäteten Abfahrt des Zuges DPN 5179 gegen 19:45 Uhr vom Bf Berlin‐Lichtenberg
-verlief die Fahrt zunächst ohne Besonderheiten. Zwischen den Betriebsstellen Abzw
-Biesdorfer Kreuz Ost und Bf Berlin‐Kaulsdorf bekam der Tf eine „Timeout“‐Störung angezeigt,
-worau in das Fahrzeug selbs ä g bis zum S llstand abbremste und die Motoren abstellte.
-Die laut Buchfahrplan vorgegebene maximal zulässige Geschwindigkeit betrug 100 km/h. Die
-maximal gefahrene Geschwindigkeit betrug 102 km/h. Der abrupte Geschwindigkeitsverlust
-ca. in km 9,285 bei einer Geschwindigkeit von 98 km/h markiert den Zeitpunkt des selbs ä g
-durch den Zug eingeleiteten Bremsvorgangs bis zum S llstand nach ca. 315 m. Die
-Zeitangaben in der nachfolgend abgebildeten tabellarischen Darstellung entsprachen den
-internen Systemzeiten und s mmten nicht mit den Realzeiten überein. Die tabellarische
-Darstellung weist die Absenkung des Drucks in der Hauptlu leitung unter 2,5 bar erst nach
-dem S llstand des Zuges aus.
+‐‐ 
 
-Seite 13 von 38
+Untergrund / gefallener Niederschlag  
 
-Untersuchungsbericht
-Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf
+Schneedecke 
 
-Abbildung 7: Tabellarische Darstellung des Fahrtverlaufs
+Tabelle 1: Übersicht der äußeren Bedingungen 
 
-Der Tf informierte den Fdl Berlin‐Kaulsdorf West per GSM‐R Ruf über die Störung und das
-Andauern bis zum Fortsetzen der Fahrt. Die nachfolgende Störungssuche führte den Tf zum
-bereits verrauchten, hinteren Führerraum. Darau in betrat der Tf das Fahrzeug nicht mehr
-und konnte daher den GSM‐R‐Funk nicht benutzen, um einen Notruf abzusetzen. Er
-informierte die Leitstelle des EVU NEB, welche die Informa onen an die No allleitstelle der
-DB Netz AG weitergab.
-Feststellung zur Untersuchung der betrieblichen Abläufe des EVU
-Lfd. Nr. 6
-Für das Brandereignis ursächliche betriebliche Handlungen beim EVU wurden im Rahmen
-der Untersuchung nicht festgestellt.
+Seite 6 von 38 
 
-Seite 14 von 38
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Untersuchungsbericht
-Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf
+Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf 
 
-4.7 Untersuchung von Fahrzeugen
-Der beteiligte Triebwagen VT 643.20 war ein dreiteiliges Fahrzeug der BR 643 (Talent)
-bestehend aus den beiden EW, Fahrzeugnummern 95 80 0643 411‐ 1 (EW1, führend) und
-95 80 0643 911‐ 0 (EW 2) sowie dem MW, Fahrzeugnummer. 95 80 0943 411‐ 8. Der Hersteller
-des Triebwagens war die Firma Bombardier Transporta ons GmbH, das Baujahr 2005.
-Eigentümer war die Firma Alpha Trains Europe GmbH, die ihn seit dem Jahre 2011 an den
-Fahrzeughalter, die NEB, vermietet ha e. Die folgenden Abbildungen zeigen einen dreiteiligen
-Triebwagen des verunfallten Typs der BR 643 und eine Prinzipskizze des Schadfahrzeuges, in
-der der Brandausgangspunkt gekennzeichnet ist.
+Feststellung zu den äußeren Bedingungen 
 
-Abbildung 8: Dreiteiliges Fahrzeug der BR 643 (Talent)6
+Lfd. Nr. 1 
 
-Abbildung 9: Fahrzeugskizze7
+Die äußeren Bedingungen, wie z. B. das We(cid:425)er, standen in keinem erkennbaren kausalen 
 
-6
+Zusammenhang mit der Ereignisursache. 
 
-Quelle: Gutachten der TÜV Süd Rail GmbH
+3.4  Todesopfer,	Verletzte	und	Sachschäden	
 
-7
+Nach letzten Erkenntnissen traten folgend aufgeführte Personenschäden ein: 
 
-Quelle: Gutachten der TÜV Süd Rail GmbH
+Anzahl Tote 
 
-Seite 15 von 38
+Anzahl schwer Verletzte  Anzahl leicht Verletzte 
 
-Untersuchungsbericht
-Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf
+Reisende 
 
-Aus der folgenden Tabelle lassen sich die technischen Fahrzeugdaten entnehmen:
-Antriebsart
+Mitarbeiter 
 
-Dieselmechanisch
+Benutzer von 
+Bahnübergängen 
 
-Kra übertragung
+Dri(cid:425)e 
 
-Mechanisch
+Summe 
 
-Leistung
+‐ 
 
-2 x 315 kW
+‐ 
 
-Gesamtlänge (LüP)
+‐ 
 
-49.360 mm
+‐ 
 
-Masse
+‐ 
 
-102.000 kg
+Tabelle 2: Übersicht der Personenschäden 
 
-Höchstgeschwindigkeit
+‐ 
 
-120 km/h
+‐ 
 
-Radsatzfolge
+‐ 
 
-B‘2‘2’B‘
+‐ 
 
-Zugsicherungssystem
+‐ 
 
-PZB
+‐ 
 
-Tabelle 4: Technische Daten des Triebzuges BR 643
+‐ 
 
-4.7.1 Ablauf des Brandereignisses
-Der Tf des Zuges DPN 5179 wurde durch die Fehlermeldung „Timeout“ auf eine Störung
-aufmerksam. Unmi elbar darauf bremste der Triebzug selbs ä g bis zum S llstand ab und
-schaltete die Dieselmotoren aus. Auslöser für die Störungsmeldung war ein beginnender
-Brand im hinteren Fahrzeugteil, dessen schädigende Wirkung auf angrenzende Bauteile zur
-Detek on vermeintlicher Störungen in der Fahrzeugsteuerung führten. Im weiteren Verlauf
-wurden ferner die Belü ungsrohre zum Führerraum sowie die aus Aluminium gefer gte
-Deckenkonstruk on zerstört. Durch die daraus resul erende unkontrollierte Frischlu zufuhr
-wurde die Brandausbreitung im Deckenbereich erheblich beschleunigt. Eintretende Frischlu
-durch zwischenzeitlich geöﬀnete Außentüren bewirkte das weitere Anfachen des Feuers und
-führte zum Vollbrand, der sich innerhalb weniger Minuten über den EW 2, den MW sowie den
-angrenzenden Teil des EW 1 erstreckte und zu den in der folgenden Abbildung erkennbaren
-Schäden am Triebwagen führte.
+‐ 
 
-Seite 16 von 38
+‐ 
 
-Untersuchungsbericht
-Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf
+‐ 
 
-Abbildung 10: Ausgebrannter Triebwagen BR 643, in Fahrtrichtung aufgenommen8
+Die geschätzte Höhe der Sachschäden in Euro setzt sich wie folgt zusammen: 
 
-Die Zerstörungen am ausgebrannten Fahrzeug waren so umfangreich, dass die Spurenlage
-unübersichtlich wurde und eine exakte Unterscheidung zwischen brandursächlichen und
-durch den Brand verursachten Schadensmerkmalen nicht ohne externen Sachverstand zu
-treﬀen war. Daher wurde der TÜV Süd Rail GmbH mit der Brandermi lung beau ragt. Die
-Untersuchungsergebnisse
+Fahrzeuge 
 
-wurden
+Infrastruktur 
 
-in
+Dri(cid:425)e 
 
-einem
+geschätzte Kosten in Euro 
 
-Gutachten
+2.800.000 
 
-zusammengefasst,
+‐ 
 
-dessen
+‐ 
 
-Erkenntnisse in den Untersuchungsbericht einflossen und im Abschni 4.8 – Untersuchungen
-zur Brandursache – näher ausgeführt und zusammengefasst sind.
-4.7.2 Brandausgangspunkt
-Laut Zeugenaussagen waren die ersten Flammen im hinteren EW 2 auf der in Fahrtrichtung
-linken Seite erkennbar. Dieser Sachverhalt wurde durch ein Zeugenvideo, welches der
-Bundespolizei vorlag, bestä gt. Das erlaubte die Eingrenzung des Brandausgangspunktes auf
-den Schaltschrank 1 im Fahrgastraum des EW 2 unmi elbar hinter der abgrenzenden Tür zum
-Führerstand.
-Im Ergebnis der Auswertung der Störungsmeldungen aus dem Diagnosespeicher wurden
-durch die Brandsachverständigen beim Fahrzeughersteller nähere Informa onen zu den
-Kabelbelegungen oberhalb der Schütze mit Verbindungen zum Bremssteuergerät und
-Fahrzeugleitgerät angefordert. Darau in wurde ihnen mitgeteilt, dass ausschließlich die
-Störungsmeldungen des Bremssteuergerätes „low‐ac ve“ ausgeführt seien und Meldungen
-im Diagnosespeicher auslösen würden. „low‐ac ve“‐Signale würden unter anderem bei einer
+Gesamtschadenshöhe 
 
-8
+2.800.000 
 
-Quelle: Bundespolizei Inspektion Ostbahnhof
+Tabelle 3: Übersicht der geschätzten Schadenshöhe 
 
-Seite 17 von 38
+Der hintere EW und der MW des Triebzuges brannten vollständig, der führende EW teilweise 
 
-Untersuchungsbericht
-Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf
+aus. Aufgrund des Ausmaßes der Schäden lag ein Totalverlust des Triebzuges vor.  
 
-Leitungslösung oder bei einem Kurzschluss au reten. Anhand dieser Informa onen und der
-Störungsmeldungen des Diagnosespeichers ließen sich die Abläufe, die zur selbs ä gen
-Abbremsung des Triebzuges und Abschaltung des Antriebes führten, nachvollziehen. Die SIFA‐
-Ven le, wurden über das Bremssteuergerät geöﬀnet und die Hauptlu leitung entlü et. Das
-hierdurch vom Fahrzeugleitgerät empfangene „low‐ac ve“‐Signal des Bremssteuergerätes
-bewirkte in der Folge das Ausschalten des Antriebs. Durch die Aussagen des
-Fahrzeugherstellers wurde die Lokalisierung des Brandursprungs im Schaltschrank 1 gestützt,
-da dort sowohl das Fahrzeugleitgerät als auch das Bremssteuergerät verbaut waren.
-Infolge der Bildung eines thermischen Hotspots entwickelte sich nach anfänglicher
-Schwelgasentwicklung innerhalb weniger Minuten ein Vollbrand mit sehr hohen
-Temperaturen.
-4.7.3 Feststellungen am Schadfahrzeug
-In der nachfolgenden Abbildung ist der Zustand des als Brandursprung ermi elten
-Schaltschranks 1 im EW 2 nach dem Ereignis dem weitgehend intakten Schaltschrank 1 aus
-dem EW 1 des Schadwagens gegenübergestellt.
+Die Abbildungen 4 und 5 zeigen den Triebzug VT 643.20 im Vollbrand in Fahrtrichtung bzw. 
 
-Abbildung 11:Zerstörter Schaltschrank 1 aus dem EW 2, Schaltschrank 1 aus dem EW 19
+nach Abschluss der Löscharbeiten gegen die Fahrtrichtung aufgenommen.  
 
-9
+Seite 7 von 38 
 
-Quelle: Gutachter der TÜV Süd Rail GmbH, bearbeitet durch BEU
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Seite 18 von 38
+Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf 
 
-Untersuchungsbericht
-Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf
+Abbildung 4: Triebzug VT 643.20 der NEB Betriebsgesellscha(cid:332) mbH im Vollbrand4 
 
-Im unteren Bereich des Schaltschranks 1 waren die Schaltelemente mit der höchsten
-energe schen Belastung untergebracht. Hier war die Möglichkeit hoher Fehlerströme mit
-entsprechender Wärmeentwicklung gegeben. Die Rekonstruk on der Brandentwicklung im
-Rahmen der Begutachtung durch die Brandsachverständigen zeigte auf, dass ein innerhalb des
-Schaltschrankes 1 entstehender Brand auf Grund der verbauten Kunststo eile eine
-erhebliche Hitze en alten konnte. Die folgende Abbildung, eine Detailaufnahme des unteren
-Bereichs im Schaltschrank aus dem EW 1 des Schadfahrzeuges, macht deutlich, dass die dort
-eingebauten energe sch hochbelasteten Schütze auf einem Schwenkrahmen ohne
-horizontalen Abstand zueinander auf den Hutschienen mon ert waren. Zudem zeigte sich,
-dass die beiden Schütze 6K4 und 7K1, die kalkulatorisch mit den höchsten elektrischen Lasten
-und damit den höchsten Fehlerstrompoten alen beaufschlagt waren, unmi elbar
-nebeneinander auf der Hutschiene saßen.
+Abbildung 5: Triebzug VT 643.20 der NEB Betriebsgesellscha(cid:332) mbH nach Beendigung der Löscharbeiten5 
 
-Abbildung 12: Unterer Bereich des intakten Schaltschrankes 1 im EW 110
+4 Quelle: Bundespolizei 
 
-Weitergehende Untersuchungen ergaben, dass nicht nur im hier untersuchten Fahrzeug,
-sondern auch in sämtlichen anderen Fahrzeugen dieser BR, die bei der NEB
-Betriebsgesellscha mbH im Einsatz waren, der gleiche Sachverhalt zutraf.
+5 Quelle: Bundespolizei 
 
-10
+Seite 8 von 38 
 
-Quelle: Gutachter der TÜV Süd Rail GmbH, bearbeitet durch BEU
+ 
+ 
+ 
+ 
+                                                       
+Untersuchungsbericht 
 
-Seite 19 von 38
+Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf 
 
-Untersuchungsbericht
-Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf
+4  Untersuchungsprotokoll	
 
-Die Schütze 6K4 und 7K1 entsprachen den geforderten Kriterien an den Bahnbetrieb unter
-Beachtung der üblichen thermischen und dynamischen Belastungen. Im Folgenden sind die
-technischen Angaben laut Herstellerdatenbla aufgeführt:
-
+In diesem Kapitel werden die ermi(cid:425)elten Ergebnisse zu einzelnen in Zusammenhang mit dem 
 
-Schütz 6K4: TNL 40 E ‐ Hilfsschütz 4 Schaltglieder, 24V 6A DC Spule 24V DC 5W; 4S +
-0Ö, 1SBH 14 3061 R5140
+Ereignis stehenden Teilbereichen des Eisenbahnwesens dargestellt. Daneben wurden auch die 
 
-
+entsprechenden  Schni(cid:425)stellen  sowie  das  Sicherheitsmanagement  (SMS)  im  betroﬀenen 
 
-Schütz 7K1: TNL 44 E ‐ Hilfsschütz 8 Schaltglieder, 24V 6A DC Spule 24V DC 5W; 4S +
-4Ö, 1SBH 14 3061 R5144
+Bereich betrachtet. Die jeweilig relevanten Erkenntnisse werden fortlaufend aufgeführt. 
 
-Die Kontaktbelastbarkeit bei 24 V Gleichspannung betrug für beide Schütztypen 6 A. Im
-Rahmen der Begutachtung wurden die Belegungen der Kontakte und die Absicherung der
-Strompfade untersucht. Aus dem Stromlaufplan ging hervor, dass im Schütz 7K1 auf dem
-Kontakt 71 ‐ 72 mit rechnerisch 6,25 A eine geringfügig höhere Beaufschlagung als die
-ausgewiesene Kontaktbelastbarkeit vorlag. Das Schütz 6K4 war gemäß dem Stromlaufplan im
-ungüns gsten Fall nominal mit einem maximalen Gesamtstrom von 27,5 A, verteilt auf vier
-Schützhauptkontakte, beaufschlagt. Dabei waren die Kontakte 13 ‐ 14 für die Heizung
-Kupplung Kegelseite und 23 ‐ 24 für die Heizung Kupplung Trichterseite rechnerisch jeweils
-mit maximal 8,3 A beaufschlagt. Am Kontakt 33 ‐ 34 für die Heizung Kondensatbehälter und
-Heizung Typhon lagen kalkulatorisch bis zu 9,6 A an. Diese Werte übertrafen Vorgaben des
-Schützherstellers hinsichtlich der Kontaktbelastbarkeit um 38,3 % bzw. um 60 %.
-Messungen, die durch die NEB Betriebsgesellscha
+4.1  Zusammenfassung	von	Aussagen	und	Stellungnahmen	
 
-mbH unter Einsatzbedingungen
+In den folgenden Abschni(cid:425)en werden die wich(cid:415)gsten Aussagen und Stellungnahmen einiger 
 
-vorgenommen wurden, ergaben für das Schütz 6K4 einen Gesamtwert von ca. 18 A, wobei die
-Beaufschlagung auf dem Kontakt 23 ‐ 24 bei 8,5 A lag und auf dem Kontakt 13 ‐ 14 8,0 A betrug.
-Der Wert für den Kontakt 33 ‐ 34 lag bei den Messungen durch die NEB Betriebsgesellscha
-mbH hingegen lediglich bei 1,5 A, was durch den Gutachter als mögliches Fehlerindiz gewertet
-wurde. Der Schützhersteller ABB erklärte gegenüber der BEU auf die Anfrage bezüglich der
-thermischen Auswirkungen von Überbelegungen einzelner Kontakte:
-„Dies ist abhängig von der Last. Hier wäre wich g zu wissen, ob eine AC1 oder AC3‐Last
-vorgelegen hat. Ungeachtet dessen ist aber eine Dauerlast von einem ITH‐Wert von 16 A
-kein Problem für das Schütz.“11
+Beteiligter  zusammengefasst  dargestellt.  Diese  wurden  dem 
 
-11
+jeweiligen  Arbeitgeber 
 
-Quelle: Schreiben (e‐ Mail) Schützhersteller ABB v. 24.11.16
+gegenüber abgelegt. 
 
-Seite 20 von 38
+4.1.1  Stellungnahme	des	Triebfahrzeugführers	(Tf)	des	DPN	5179	
 
-Untersuchungsbericht
-Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf
+Der  Tf  sagte  aus,  er  sei  aus  dem  Bf  Berlin‐Lichtenberg,  Gleis  15,  etwas  verspätet  gegen 
 
-Die Temperaturbeständigkeit der Schütze schloss nach Auskun seitens ABB eine Entzündung
-der Schützmaterialien aus. Es bestünde laut ABB jedoch die Möglichkeit, dass Medien aus der
-Umgebung des Schützes (z. B. Schmier‐ oder Reinigungsmi el) sich entzünden könnten.
-Die Montageanweisung des Schützherstellers schrieb für Hilfsschütze des Typs TNL bei
-Montage in horizontaler Posi on einen Mindestabstand von 5 mm zwischen den einzelnen
-Schützen auf der Hutschiene vor. Dies ist aus der folgenden Abbildung ersichtlich.
+19:45 Uhr  abgefahren.  Hinter  dem  Bahnübergang  Posten  5  zwischen  der  Abzw  Biesdorfer 
 
-Abbildung 13: Auszug aus der Montageanweisung von ABB12
+Kreuz Ost und dem Bf  Berlin‐Kaulsdorf sei eine Zwangsbremsung erfolgt. Er  habe die EVU‐
 
-Der Schützhersteller ABB äußerte gegenüber der BEU hinsichtlich des Mindestabstandes
-zwischen den Schützen laut Montageanweisung:
-„Diese Angabe kommt aufgrund der Einhaltung des Temperaturbereiches. Aufgrund von
-notwendigen Materialänderungen wurde festgestellt, dass sich die Geräte seitlich braun
-verfärben. Dies ist funk onstechnisch nicht relevant, aber für unsere Kunden natürlich
+Leitstelle verständigt. 
 
-12
+Reisende hä(cid:425)en dann Rauchentwicklung im EW 2 gemeldet, daher sei dann die Meldung um 
 
-Quelle: ABB, Hilfsschütze, technische Daten, Montageanweisung, bearbeitet durch BEU
+Feueralarm erweitert worden. Die EVU‐Leitstelle hä(cid:425)e dann alles Weitere veranlasst. 
 
-Seite 21 von 38
+Die Türen seien über die Notöﬀnung geöﬀnet, der Zug evakuiert und die Reisenden zum etwa 
 
-Untersuchungsbericht
-Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf
+75 m en(cid:414)ernten Bahnübergang geleitet worden. Die Kundenbetreuerin sei mit einer kleinen 
 
-nicht schön. Zur Sicherheit, d. h. dass keine zu hohen Temperaturen entstehen, aber vor
-allem diese Verfärbung verhindert wird, wurde die Vorgabe für den Abstand gegeben.“13
-Der Fahrzeughersteller Bombardier Transporta on GmbH erklärte zu dieser Problema k:
-„Nach Recherche von Siemens/ELIN gilt die Vorgabe der Schütze mit einem definierten
-Abstand nur für die Version TNL mit der stärkeren Spule für den notwendigen erweiterten
-Spannungsbereich. Die NL‐Standard‐Industrieausführung (normaler Spannungsbereich)
-benö gt keine Posi onierung der Schütze mit einem definierten Abstand, da sie eine
-kleinere Spulenleistung besitzt. Dies wurde von uns als Hersteller so verstanden, dass diese
-Forderung allein Auswirkung auf die Lebensdauer der Spule und nicht auf die
-Stromtragfähigkeit (bzw. beschleunigte Alterung) der Kontakte hat. Somit wurde auf die
-Posi onierung der Schütze mit einem definierten Abstand verzichtet und dem Umstand
-der Lebensdauer mit einem Tausch der Schütze alle 8 Jahre Rechnung getragen. (…)“14
-4.7.4 Unterhaltung des Fahrzeugs bei der NEB Betriebsgesellschaft mbH
-Gemäß dem Mietvertrag zwischen dem Eigentümer des Triebzuges, der Firma Alpha Trains
-Europe GmbH, und dem Mieter und Fahrzeughalter, der NEB Betriebsgesellscha mbH, war
-für die Durchführung der laufenden Instandhaltung die NEB Betriebsgesellscha
+Gruppe von 39 Personen zum B(cid:332) Berlin Wuhletal gegangen. 
 
-mbH
+Danach hä(cid:425)en sie auf die Einsatzkrä(cid:332)e gewartet und die Feuerwehr unterstützt. 
 
-verantwortlich. Sie erfolgte durch insgesamt neun Mitarbeiter in einer Werksta auf dem
-Betriebsgelände der NEB Betriebsgesellscha mbH in Basdorf. Das Instandhaltungspersonal
-war gemäß den vorgelegten Unterlagen fachlich qualifiziert und wurde regelmäßig
-fortgebildet. Die erforderlichen Arbeiten und die Wartungsintervalle waren in einem
-Wartungsplan des Fahrzeugherstellers Bombardier Transporta on GmbH tabellarisch
-zusammengestellt und sind auszugsweise in der folgenden Abbildung dargestellt.
+4.2  Notfallmanagement	
 
-13
+Nach § 4 Abs. 3 Allgemeines Eisenbahngesetz (AEG) haben die Eisenbahnen die Verpﬂichtung, 
 
-Quelle: Schreiben (E‐Mail) Schützhersteller ABB v. 24.11.16
+an Maßnahmen des Brandschutzes und der technischen Hilfeleistung mitzuwirken. In einer 
 
-14
+Vereinbarung zwischen den Innenministerien der Länder und der DB AG hat man sich auf eine 
 
-Quelle: Schreiben (E‐ Mail) Fahrzeughersteller Bombardier Transportations v. 13.02.2017
+Verfahrensweise  verständigt.  Für  die  DB  Netz  AG  gelten  die  entsprechenden  Brand‐  und 
 
-Seite 22 von 38
+Katastrophenschutzgesetze  der  Länder.  Das  No(cid:414)allmanagement  der  DB  AG  ist  in  der 
 
-Untersuchungsbericht
-Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf
+Konzernrichtlinie 123, das der DB Netz AG in der Richtlinie (Ril) 423 näher beschrieben und 
 
-Abbildung 14: Auszug aus dem Wartungsplan für BR 643
+geregelt. 
 
-Es ist erkennbar, dass bei jeder Frist bzw. nach jeweils drei Monaten eine Sichtprüfung an den
-Schützen durchzuführen war. Spätestens nach acht Betriebsjahren waren gemäß dem
-Wartungsplan sämtliche Schütze in dem Triebzug auszutauschen. Ein Austausch der Schütze
-war zum Ereigniszeitpunkt nach ca. elf Betriebsjahren nachweislich nie erfolgt.
-Die erste Hauptuntersuchung (HU) für den Triebzug gemäß den Vorgaben aus § 32 der EBO
-erfolgte im Jahre 2013 nach acht Jahren, Vorgabe laut EBO nach 6 (+1 +1) Betriebsjahren und
-1.466.461 km Laufleistung. Laut Wartungsplan sollte die erste HU nach maximal 6 (+1 +1)
-Jahren bzw. nach einer maximalen Laufleistung von 1.000.000 km erfolgen. Gemäß der
-Auskun des Fahrzeughalters wurde die HU für den Triebzug einschließlich der Leistungen zur
-Vorbereitung an ein Dri unternehmen vergeben. Die vorgelegte HU‐Bescheinigung war
-da ert vom 13.12.2013. Der BEU wurde durch die NEB Betriebsgesellscha
+Bei  diesem  Ereignis  ha(cid:425)e  der  Tf  des  DPN  5179  den  zuständigen  Fahrdienstleiter  (Fdl)  im 
 
-mbH eine
+Stellwerk Kaulsdorf West über eine Störung an seinem Zug informiert. Nach der Entdeckung 
 
-Leistungsübersicht der Instandhaltungspakete zur HU für den „Talent“ vorgelegt, welche die
-Grundlage für die Vergabe der Leistung gewesen war. Sie enthielt keinen Hinweis über die
-Verpflichtung zum Tausch aller Schütze im Triebzug.
-Fristarbeiten waren gemäß dem Wartungsplan durchzuführen. Die Arbeiten wurden bei der
-NEB Betriebsgesellscha
+Seite 9 von 38 
 
-mbH entsprechend verschiedenen „Protokollen Fristarbeiten“
+ 
+ 
+Untersuchungsbericht 
 
-ausgeführt. Diese Protokolle waren in Form von Checklisten aufgebaut und enthielten jeden
-einzelnen Arbeitsschri , der nach der Ausführung durch den jeweils Ausführenden
+Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf 
 
-Seite 23 von 38
+des  Brandes  betrat  er  aufgrund  der  eingetretenen  Gefahrenlage  den  Führerstand  des 
 
-Untersuchungsbericht
-Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf
+Fahrzeugs nicht mehr und konnte daher keinen GSM‐R Ruf zu dem zuständigen Fdl au(cid:297)auen 
 
-abgezeichnet wurde. Nach Auskun
+oder  einen  Notruf  absetzen.  Er  informierte  die  Leitstelle  der  NEB,  welche  dann  die 
 
-der Werksta leitung erfolgten bei der NEB
+No(cid:414)allleitstelle der DB Netz AG verständigte. Darau(cid:300)in wurde die Meldeke(cid:425)e ak(cid:415)viert. Die 
 
-Betriebsgesellscha mbH die Unterhaltungsarbeiten nicht zwingend in der Reihenfolge der
-Arbeitsschri e laut den Protokollen. Vielmehr wurde die zeitliche Abfolge der Fristarbeiten
-durch die zum Zeitpunkt der Ausführung vorhandenen Ressourcen bes mmt. Gemäß dem
-Wartungsplan waren im Rahmen aller Fristarbeiten auch die Schütze regelmäßigen
-Sichtprüfungen zu unterziehen. Eine inhaltliche Untersetzung der Sichtprüfung für die Schütze
-erfolgte im Instandsetzungshandbuch für die BR 643 (Talent) und ist in der folgenden
-Abbildung dargestellt.
+Evakuierung  des  Zuges  begann  unverzüglich  nach  Erkennen  des  Brandes.  Der  Tf  und  die 
 
-Abbildung 15: Auszug aus dem Instandhaltungshandbuch für die BR 643
+Zugbegleiterin führten die ca. 180 Personen in zwei Gruppen zu sicheren Sammelplätzen. Es 
 
-Die Unterlagen der Instandhaltung für die letzten drei Monate vor dem Ereignis lagen vor. Die
-Nachweise für die Fristenarbeiten eins, zwei und vier enthielten keinerlei Hinweise auf
-Mängel. Fristenarbeiten drei wurden im genannten Zeitraum nicht durchgeführt. Bei den
-erfolgten Sichtkontrollen der Schütze im Rahmen der Fristen wurden gemäß den Protokollen
-keine Mängel und damit auch keine äußeren Anzeichen thermischer Überlastung
-dokumen ert. Eine eindeu ge Dokumenta on des Zustandes der Schütze mit Hilfe von Fotos
-oder Beschreibungen war bei der Sichtkontrolle durch die Mitarbeiter bei der NEB
-Betriebsgesellscha
+wurde  niemand  verletzt.  Die  Einsatzkrä(cid:332)e  der  Feuerwehr  trafen  gegen  20:15  Uhr  an  der 
 
-mbH nicht vorgesehen. Aufgrund der vollständigen Zerstörung des
+Unfallstelle ein. Der No(cid:414)allmanager war um 20:20 Uhr vor Ort. Danach konnte die Feuerwehr 
 
-Fahrzeuges war eine Aussage zum konkreten Istzustand der Schütze im Schaltschrank 1 zum
-Zeitpunkt der letzten durchgeführten Frist vor dem Brandereignis nicht zu treﬀen.
-Musterstücke oder Abbildungen, anhand derer Verfärbungen an den Schützen hä en
-verglichen und hinsichtlich ihrer Kri kalität hä en eingeschätzt werden können –
-insbesondere bei der oben beschriebenen, lückenlosen Montageposi on zu benachbarten
-Bauteilen – exis erten bei der NEB Betriebsgesellscha mbH gemäß deren Auskun nicht.
-Arbeitsvorgaben oder Hilfsmi el, die eine Sichtkontrolle in den unteren Bereichen der
-Schaltschränke hä en erleichtern können, waren nach Auskun der NEB Betriebsgesellscha
-mbH nicht vorhanden. Werkzeuge zur Überprüfung des Anzugsmomentes für die Schrauben
-zur Befes gung der Schütze und der Kabel fehlten ebenfalls.
+mit dem Löschen beginnen. 
 
-Seite 24 von 38
+Feststellungen zum No(cid:414)allmanagement 
 
-Untersuchungsbericht
-Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf
+Lfd. Nr. 2 
 
-Feststellung zur Untersuchung der Fahrzeuge
-Lfd. Nr. 7
-Der Brand begann im EW 2 in der Nähe des hinteren Führerstandes in Fahrtrichtung links.
-Das Datenbla
+Es  wurde  festgestellt,  dass  situa(cid:415)onsbedingt  ein  GSM‐R  Notruf  zum  Zeitpunkt  des 
 
-für die Typen TNL 40 E und TNL 44 E, die als Schütze 6K4 bzw. 7K1 im
+Ereignisses vom Tf des betroﬀenen Zuges nicht ausgelöst wurde. Die Informa(cid:415)on über das 
 
-Brandfahrzeug verbaut waren, weist bei einer Spannung von 24 V eine maximale
-Kontaktbelastbarkeit von jeweils 6 A aus. Zwei Kontakte des Schützes 6K4 waren
-kalkulatorisch mit maximal 8,3 A, ein Kontakt rechnerisch mit maximal 9,6 A belastet.
-Das Datenbla für die Schütze gibt für die Montage der Schütze in horizontaler Posi on
-einen Abstand von 5 mm vor. Dies wurde durch den Hersteller mit der Vermeidung zu hoher
-Temperaturen begründet, jedoch als funk onstechnisch nicht relevant angesehen. Im noch
-intakten Schaltschrank 1 des EW 1 des Unfallfahrzeuges waren sämtliche Schütze in
-horizontaler Posi on lückenlos mon ert. Dieser Sachverhalt wurde auch bei anderen
-Fahrzeugen der betroﬀenen BR bei der NEB Betriebsgesellscha mbH festgestellt.
-Gemäß dem Wartungsplan muss die erste HU nach maximal sechs (+1, +1) Betriebsjahren
-bzw. nach einer maximalen Laufleistung von 1.000.000 km erfolgen. Die erste HU fand 2013
-nach acht Betriebsjahren und nach einer Laufleistung von 1.466.461 km sta .
-Ein nachvollziehbar dokumen erter konkreter Zustand der einzelnen Schütze im hinteren
-EW zum Zeitpunkt der jeweils durchgeführten Fristarbeiten im Sinne einer Verlaufskontrolle
-/ Risikoabschätzung war den Fristprotokollen nicht zu entnehmen.
-Vorgaben oder Hilfsmi el zur Durchführung der Sichtprüfung, insbesondere bei lückenloser
-Montageposi on, waren bei der NEB Betriebsgesellscha mbH nicht vorhanden.
-Der Fahrzeughersteller hat in seinem Wartungsplan vorgegeben, sämtliche Schütze nach
-acht Betriebsjahren auszutauschen. Im Brandfahrzeug waren zum Unfallzeitpunkt nach ca.
-elf Betriebsjahren keine Schütze ausgetauscht worden.
+Ereignis erfolgte über alterna(cid:415)ve Informa(cid:415)onswege. 
 
-Seite 25 von 38
+Die Evakuierung des Zuges verlief ohne Zwischenfälle. Folgesachschäden traten nicht ein. 
 
-Untersuchungsbericht
-Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf
+4.3  Untersuchung	der	bautechnischen	Infrastruktur	
 
-4.8 Untersuchungen zur Feststellung der Brandursache
-Mit den Untersuchungen zur Feststellung der Brandursache wurde die TÜV Süd Rail GmbH
-beau ragt. Die Untersuchungsergebnisse wurden in einem Gutachten zusammengefasst. Der
-Inhalt dieses Gutachtens fließt in diesen Abschni des Untersuchungsberichts ein. Zitate sind
-entsprechend gekennzeichnet.
-4.8.1 Lokalisierung des Brandursprungs im Ausschlussverfahren
-Schäden wie Einbrandkerben oder Abschmelzungen an Befes gungselementen und
-Kabelverbindungen lassen im Normalfall auf den Ursprung eines Brandes schließen.
-In diesem Falle waren aber die Wärmeeinträge durch das Brandereignis so stark, dass das
-Erscheinungsbild der als Brandfolge entstandenen Schäden nicht von dem eines
-Brandursprungs zu unterscheiden war. Die Ermi lung der Brandursache basierte daher auf
-einem theore sch aufgebauten Ausschlussverfahren. Durch Videoaufnahmen eines Zeugen
-wurde der Brandursprung auf einen Schaltschrank in der Nähe des Führerstandes des hinteren
-EW lokalisiert. Auf Grund dieser Tatsache und wegen der Brandmuster schloss der Gutachter
-folgende mögliche Brandursachen aus:
-
+Die  Bahnstrecke  Berlin  –  Küstrin‐Kiez  Grenzbahnhof  war  im  relevanten  Streckenabschni(cid:425) 
 
-Fremdeinwirkung (Brandstiftung)
+nicht Bestandteil der transeuropäischen Netze. Die Strecke war mit einem Scho(cid:425)eroberbau 
 
-
+ausgesta(cid:425)et und der Streckenklasse D4 zugeordnet. Sie dur(cid:332)e von Zügen mit einer maximalen 
 
-Fehler ausgehend vom Dieselaggregat
+Radsatzlast von 22,5 t befahren werden. An der vorhandenen Infrastruktur wurden durch das 
 
-
+EIU  nach  dem  Ereignis  keine  Unfallfolgen  gemeldet.  Der  Scho(cid:425)eroberbau  war  vollständig 
 
-Fehler ausgehend von der Abgasanlage oder dem Kraftstoff‐ und Ölsystem
+intakt.  Ein  unmi(cid:425)elbarer  Einﬂuss  aus  den  Infrastrukturanlagen  auf  das  Ereignis  war  nicht 
 
-
+erkennbar. Daher erfolgten keine weiteren diesbezüglichen Untersuchungen. 
 
-Fehler ausgehend vom Klimatisierungssystem
+Feststellung zur der bautechnischen Infrastruktur 
 
-Außerdem schieden der Unterflurbereich, der Dachbereich und der Fahrgastbereich und das
-Führerpult des hinteren EW 2 als mögliche Ausgangspunkte für den Brand aus. Auf Grund
-dieser Feststellungen richtete sich das Interesse auf die Schaltschränke hinter dem
-Führerstand des hinteren EW 2. Die Lage der Schaltschränke im EW ist den Abbildungen 12
-und 13 zu entnehmen.
+Lfd. Nr. 3 
 
-Seite 26 von 38
+Für  das  Ereignis  ursächliche  oder  begüns(cid:415)gende  Einﬂüsse  ergaben  sich  aus  der 
 
-Untersuchungsbericht
-Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf
+Untersuchung der bautechnischen Infrastruktur nicht. 
 
-Abbildung 16: Systemskizze Talent (Auszug)15
+Seite 10 von 38 
 
-Abbildung 17: Posi on der Schaltschränke 1 und 2 im zerstörten EW 2 16
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Zur abschließenden Eingrenzung des Ausgangspunktes der Brandentstehung traf der
-Sachverständige weitere Grundannahmen:
-Die im Schaltschrank 2 „Bordnetzanlage“ untergebrachte zentrale Stromversorgung
-(Ba eriebereich) wurde bei der Schadensaufnahme sowohl hinsichtlich der Speicher selbst als
-auch hinsichtlich der Verkabelung weitgehend intakt vorgefunden, sodass auch hier der
+Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf 
 
-15
+4.4  Untersuchung	der	Leit‐	und	Sicherungstechnik	
 
-Quelle: Gutachten, bearbeitet durch BEU
+Der relevante Abschni(cid:425) lag zwischen den Stellwerken Biesdorfer Kreuz und Kaulsdorf West. 
 
-16
+Das Stellwerk Biesdorfer Kreuz der Bauform GS II Sp64b ging im Jahre 1978 in Betrieb. Das 
 
-Quelle: Gutachter, bearbeitet durch BEU
+mechanische  Stellwerk  Kaulsdorf  West  der  Bauform  Siemens & Halske 1912  wurde  1941  in 
 
-Seite 27 von 38
+Betrieb genommen und zwischenzeitlich durch Komponenten der Bauform GS II DR ergänzt. 
 
-Untersuchungsbericht
-Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf
+Der  Zug  DPN  5179  fuhr  mit  Fahrtstellung  des  Ausfahrsignals  M  15,  aus  dem  Bf  Berlin‐
 
-Ausgangspunkt des Brandes nicht zu vermuten war. Der Lei echnikbereich, der im oberen Teil
-des Schaltschrankes 1 „Fahrzeugsteuerung“ angeordnet war, kam auf Grund seines geringen
-Energiepoten als als Brandausgangspunkt nicht in Betracht. Somit wurden der
-Schaltschrank 2 sowie der obere Bereich des Schaltschrankes 1 als mögliche Ausgangspunkte
-für den Brand eliminiert. Aus dem Ausschlussverfahren des Sachverständigen ergab sich die
-Lokalisierung des Brandursprungs im unteren Teil des Schaltschrankes 1.
-4.8.2 Weitere Eingrenzung der Brandursache
-Als eine Fehlermöglichkeit wurden lose Kabelanschlüsse auf einer Klemmleiste, an Schützen,
-Schaltern oder Überwachungseinrichtungen in Betracht gezogen. Auch defekte ak ve
-Elemente, wie Schütze, Schalter oder Leiterpla nen sowie Isola onsfehler kamen als
-Brandursache infrage. Im Fokus der weiteren Untersuchung stand zunächst der
-Verbraucherstrom, der über die einzelnen Schaltelemente in diesem Bereich floss. Einerseits
-musste er unter der Schwelle der Abschaltung durch die Schutzeinrichtungen liegen.
-Andererseits musste die Möglichkeit bestehen, einen so hohen Übergangswiderstand zu
-erzeugen, dass die Ausbildung eines Hotspots möglich war. Der Gutachter sah 5 A als
-Mindestwert für die Auslösung eines Hotspots an. Das Ansprechen der Schutzeinrichtungen
-vermutete er bei maximal 10 A. Aus dem Stromlaufplan wurde im Lauf der weiteren
-Untersuchung ersichtlich, dass die Leitungsschutzschalter mit 13 A bzw. 16 A ausgelegt waren.
-Die Grenze für das Ansprechen der Schutzeinrichtungen lag somit höher als durch den
-Gutachter ursprünglich angenommen. Die Suche nach dem Auslöser des Brandereignisses
-konzentrierte sich demnach auf die Elemente, über die ein Strom von mehr als 5 A aber
-weniger als 10 A floss. Im unteren Schaltschrankbereich befanden sich keine Klemmleisten
-oder Geräteeingänge zur 24 V‐Energieversorgung von Komponenten. Die Motor‐ und
-Getriebesteuerung war in metallischen Gehäusen untergebracht. Diese Möglichkeiten
-konnten somit als Ursprung der Brandentstehung ausgeschlossen werden. Daher wurde der
-Ausgangspunkt für die Brandentstehung auf die Schütze am Schwenkrahmen im unteren
-Schaltschrankbereich eingegrenzt.
-Aufgrund geringer Fehlerenergiepotentiale wurden 13 der 15 Schütze, die auf dem
-Schwenkrahmen montiert waren, als Ausgangspunkte für den Brand ausgeschlossen. Die
-verbliebenen beiden Schütze 6K4 und 7K1 waren von allen auf dem Schwenkrahmen
-montierten Schützen mit den höchsten Gesamtströmen beaufschlagt. Über sie floss der Strom
-für die Kupplungsheizung. Die vor dem Ereignis um 17:59 Uhr aufgetretene Störungsmeldung
+Lichtenberg aus. Aufgrund des Ereignishergangs wurden ereignisursächliche Einﬂüsse aus der 
 
-Seite 28 von 38
+Leit‐  und  Sicherungstechnik  ausgeschlossen.  Weitere  diesbezügliche  Untersuchungen 
 
-Untersuchungsbericht
-Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf
+erfolgten daher nicht.  
 
-„Zugabriss“, siehe Abschnitt 4.6, ließ auf eine Störung an der Kupplung schließen. Daher
-wurden die Schütze 6K4 und 7K1, über die die Ströme für die Kupplungsheizung gesteuert
-wurden, letztendlich als wahrscheinlichste Fehlerquellen bzw. als mögliche Auslöser für das
-Brandereignis identifiziert.
-4.8.3 Untersuchungen an den Schützen 6K4 und 7K1
-Aufgrund
+Feststellung zur Untersuchung der Leit‐ und Sicherungstechnik 
 
-der
+Lfd. Nr. 4 
 
-ersten Untersuchungsergebnisse
+Aus der Untersuchung der Leit‐ und Sicherungstechnik ergaben sich keine Hinweise, die für 
 
-konzentrierten sich die
+den Eintri(cid:425) des Ereignisses ursächlich oder begüns(cid:415)gend waren. 
 
-weiteren
+4.5  Untersuchung	der	betrieblichen	Abläufe	des	Infrastrukturbetreibers	
 
-Untersuchungen auf die Schütze 6K4 und 7K1.
-Bewertung von Fehlermöglichkeiten bei Schützen
-Der Gutachter schloss Fehlermöglichkeiten, wie
-
+Die Betriebsdurchführung der Strecke 6078 des EIU DB Netz AG erfolgte nach den Vorgaben 
 
-eine fehlerhafte Montage der Kabelanschlüsse oder
+der  Fahrdienstvorschri(cid:332)  Ril 408.  Zum  Zeitpunkt  des  Ereignisses  wurde  der  Zugverkehr  im 
 
-
+Regelbetrieb durchgeführt. Der Zug befand sich zum Zeitpunkt des Ereigniseintri(cid:425)s zwischen 
 
-einen Fertigungsfehler
+den  Betriebsstellen  Abzw  Biesdorfer  Kreuz  Ost  und  Bf  Berlin‐Kaulsdorf.  Die  beiden  für  den 
 
-aufgrund des langen störungsfreien Betriebseinsatzes und der weitgehend automa sierten
-Prozesse bei der Schützherstellung aus.
-Im Gutachten wurden folgende Fehlermöglichkeiten angeführt, die zur Bildung eines Hotspots
-hä en führen können:
-„Die Fehlermöglichkeit eines Schützversagens verursacht durch eine Fremdeinwirkung
-ausgehend von einem Ansteuerfehler verbunden mit pulsierenden Schaltvorgängen, kann
-nicht vollständig ausgeschlossen werden.
-Anmerkung: Im Falle eines häufigen Schaltens, z. B. ini iert durch die Fahrzeugbewegung
-bei losen Verbindungen innerhalb des Kabelrou ng, werden die Schaltkontakte stark
-thermisch beansprucht, so dass sich eine Überhitzung an den Kontakten der
-leistungsintensiven Strombahn ergeben kann.
-Die Fehlermöglichkeit eines Schützversagens verursacht durch eine Fremdeinwirkung
-ausgehend von einer zu hohen Strombelastung über den Schaltkontakt kann nicht
-ausgeschlossen werden.
-Ein möglicher Defekt im Heizstrang kann eine überhöhte dauerha e Energieübertragung
-verursachen, wodurch sich ein Hotspot auf dem Schaltkontakt bildet und eine Entzündung
-des Schützgehäuses nach sich zieht. Die Heizstränge zu den Kupplungsheizungen sind
-hierbei als intakt ermi elt worden.
+relevanten  Streckenabschni(cid:425)  zuständigen  Fdl  ha(cid:425)en  ihre  Bedienplätze  in  den  Stellwerken 
 
-Seite 29 von 38
+Biesdorfer Kreuz und Kaulsdorf West. Für das Ereignis ursächliche Handlungen der Fdl wurden 
 
-Untersuchungsbericht
-Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf
+im  Rahmen  der  Untersuchung  nicht  oﬀenbar.  Daher  wurde  auf  die  Erhebung 
 
-Anmerkung: Auf Grund der vom Fahrzeughersteller angezeigten Heizleistung von 200 W
-(betri
+personenbezogener Daten zu den involvierten Fdl verzichtet. Der Zug DPN 5179 fuhr mit ca. 
 
-Kondensatbehälter, zzgl. der Heizung des Typhons mit 30 W würde in Summe
+acht Minuten Verspätung um 19:43 Uhr aus dem Bf Berlin‐Lichtenberg ab. Um ca. 19:50 Uhr 
 
-9,6 A auf dem Kontakt ergeben) und dem vom Betreiber ermi elten Wert von 1,5 A ergibt
-sich hier ein mögliches Fehlerindiz.“17
-Im Ergebnis dieser Analyse kam der Gutachter zu dem Schluss:
-„Da das Schütz 7K1 nur einen Heizstromkreis von 150 W schaltet, wobei die
-Trichterheizung nachweislich keinen Defekt aufweist, ist das Schütz 6K4 einerseits auf
-Grund der größeren über die Schaltkontakte geführten Last die den Brand verursachende
-Komponente. (…)
-Auch ein möglicher länger anwachsender bzw. schleichender Defekt, verbunden mit
-häufigeren Schaltvorgängen (Defekt im Ansteuerkreis) aber auch durch eine
-Vorschädigung (Defekt im Schütz) ohne Auswirkungen auf die Schaltvorgänge, ist als
-Einzelfehler nicht auszuschließen und muss damit angenommen werden.“18
-Stresstests
-Im Rahmen der Begutachtung wurden die Schütze 7K1 und 6K4 aus dem EW 1 des
-Schadfahrzeuges sowie baugleiche ungebrauchte Schütze der Typen TNL 40 E und TNL 44 E
-intensiven vergleichenden Stresstests unterzogen.
-Der Gutachter zog im Ergebnis dieser Tests folgendes Fazit:
-„Die ertragbaren Schwingungen in der Ver kalachse mit Bezug auf den ermi elten
-Spannungsabfall von 'neu' zu 'alt' zeigen einen Unterschied von mehr als 100 %. Das
-bedeutet eine Belastung der Kontaktglieder, was u. a. mit einer kleiner werdenden
-Kontak läche auf Grund der Verschleißsitua on/Ablagerungen im Zusammenhang mit
-dem indiﬀerenten Stromfluss und damit einer immer höher werdenden Stromdichte
-verbunden ist. Mit der Verdopplung des Kontaktwiderstandes ergibt sich eine
-Energieumwandlung, welche im Schütz eine Erwärmung nach sich zieht.
-Über die Nutzungsdauer wird sich eine immer stärkere Wärmeentwicklung über den
-Kontakten ergeben, was der Erwartungshaltung bezüglich der Alterungskennzeichen
+erhielt  der  Fdl  auf  dem  Stellwerk  Kaulsdorf  West  die  Informa(cid:415)on,  dass  der  Zug  DPN  5179 
 
-17
+wegen einer  Störung  am  Triebzug zwischen  den  Betriebsstellen Abzw Biesdorfer  Kreuz  Ost 
 
-Quelle: Gutachten der TÜV Süd Rail GmbH
+und  Bf  Berlin‐Kaulsdorf  liegen  geblieben  war.  Der  Tf  teilte  dem  Fdl  in  einem  GSM‐R  Anruf 
 
-18
+weiterhin mit, dass er noch nicht abschätzen könne, wann die Störung behoben sein würde. 
 
-Quelle: Gutachten der TÜV Süd Rail GmbH
+Die Meldung über den Fahrzeugbrand erhielt der Fdl gegen 20:00 Uhr von der No(cid:414)allleitstelle, 
 
-Seite 30 von 38
+die von der Leitstelle des beteiligten EVU informiert worden war. Um ca. 20:07 Uhr wurde die 
 
-Untersuchungsbericht
-Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf
+Strecke gesperrt. 
 
-entspricht. Auch die 'Ausschläge' bzw. Spitzen der Übergangswiderstände waren bei dem
-'gebrauchten' wesentlich höher als bei dem 'neuen'.
-(…) Das Verschleißverhalten der beiden Schütze 6K4 und 7K1 ist als gleichwer g
-anzusehen. Das heißt, dass trotz einer unterschiedlichen Strombelastung über die
-jeweiligen Kontakte sich eine gleichmäßige Alterung ergibt und keine Signifikanz einer
-höheren energe schen Belastung erkennbar ist.
-Durch eine entsprechende Vorgabe zum Tauschzyklus werden die Auswirkung begrenzt.
-Im vorliegenden Fall sind die durch den Fahrzeughersteller fixierten 8 Jahre jedoch als sehr
-konserva v fixiert anzusehen.“19
-Es ist laut Gutachten davon auszugehen, dass es durch erhöhte Wärmeeinträge über einen
-längeren Zeitraum, zum Beispiel durch Überhitzung der Hauptkontakte, zu einer
-werksto echnischen Änderung der Kunststo eile der Schütze kommen könnte, die zu einer
-nega ven Beeinflussung der Entzündungsresistenz führen würde. Der Gutachter kam
-diesbezüglich zu der Einschätzung:
-„Das Material der Kontaktkammer würde sich bei einer Übertemperatur im Bereich der
-Hauptkontakte verfärben. Bei der realisierten Einbausitua on wäre dies von vorne und
-auch bei einem 5 mm‐Spalt nicht über eine visuelle Prüfung erkennbar. Ab 150‐200°
-beginnt ein Verschwelungsprozess von Kunststoﬀen. Dieser Temperaturbereich wird mit
-der theore sch möglichen Verlustwärme kaum erreicht. An den Polen würde sich eine
-Verzunderung im Bereich des Übergangswiderstandes ergeben, wodurch dieser weiter
-erhöht werden würde. Ein thermisch au ereiteter Kunststoﬀ ist im Zündverhalten
-schwächer als normalbelasteter Kunststoﬀ, d. h. zwischen 200 bis 300° kommt es zur
-En lammung und einer sofor gen Zündung der austretenden Schwel‐ / Pyrolysegase.“20
-Bewertung des durch den Fahrzeughersteller festgelegten Tauschs der Schütze nach
-acht Betriebsjahren
-Im Gutachten ist einerseits ausgeführt, dass durch den festgesetzten Tauschzyklus die
-Auswirkungen der Alterung der Kontakte begrenzt werde, andererseits wurde jedoch die
+Seite 11 von 38 
 
-19
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Quelle: Gutachten der TÜV Süd Rail GmbH
+Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf 
 
-20
+Feststellung zur Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers 
 
-Quelle: Gutachten der TÜV Süd Rail GmbH
+Lfd. Nr. 5 
 
-Seite 31 von 38
+Die Untersuchung der betrieblichen Handlungen bei den EIU ergab keine für das Ereignis 
 
-Untersuchungsbericht
-Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf
+ursächlichen oder begüns(cid:415)gend wirkenden Einﬂüsse. 
 
-Vorgabe zum Tausch aller Schütze nach acht Jahren durch den Fahrzeughersteller als eher zur
-sicheren Seite hin festgelegt bewertet.
-Letztendlich wurde im Gutachten der folgende Hinweis gegeben:
-„Trotz der Fahrzeugherstellervorgabe zum zyklischen Schütztausch nach 8 Jahren (ist als
-generische Anforderung fixiert, da dies alle Schütze des Fahrzeuges betri ), ist nach
-Bewertung der tatsächlichen betrieblichen Einwirkungen auf Basis der durchgeführten
-Schwing‐ und Schockprüfungen sowie nach Zerlegung und visueller Prüfung ein Tausch
-nach 8 Jahren nicht erforderlich. Somit besteht kein technisches Wartungsdefizit.“21
-Es wird jedoch abschließend festgestellt:
-„Ak ve Schaltelemente beinhalten immer ein Defektrisiko, so dass mit einem Ausfall bzw.
-einem Versagen, verbunden mit sich ergebenden Folgewirkungen, gerechnet werden
-muss. Aus diesem Grund sollten die Wartungsvorgaben gezielt bzw. tä gkeitsbezogen
-ausgerichtet werden. Damit verbunden ist einerseits eine prak kable
-Zustandsüberwachung und andererseits auch ein vorbeugender Tausch von
-risikobeha eten Komponenten. Das betri
+4.6  Untersuchung	der	betrieblichen	Abläufe	des	EVU	
 
-auch die im Fokus stehenden Schütze zur
-
-Heizungssteuerung.“22
-Bewertung der lückenlosen Montage der Schütze in horizontaler Richtung
-Im Gutachten ist ausgeführt, dass durch die Montage ohne fünf Millimeter Zwischenraum ein
-zusätzlicher Wärmestau entstehen kann. Zudem könne eine beginnende Verfärbung der
-Kontaktkammer von vorne durch eine visuelle Prüfung nicht erkannt werden, letzteres wäre
-aber auch bei einer Montage mit den fünf Millimetern Zwischenraum nicht möglich.
-
-21
-
-Quelle: Gutachten der TÜV Süd Rail GmbH
-
-22
-
-Quelle: Gutachten der TÜV Süd Rail GmbH
-
-Seite 32 von 38
-
-Untersuchungsbericht
-Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf
-
-4.8.4 Gutachterliche Feststellung der Ursache des Brandereignisses
-Laut dem Gutachten wurde das Brandereignis entweder:
-„…‐ durch eine Fehlfunk on des Schützes 6K4, ausgehend vom fehlerbeha eten Heizkreis
-des Kondensatbehälters (die anderen Heizkriese [sic!] waren ohne Befund), verbunden mit
-einer Hotspotentwicklung auf dem Schaltkontakt der Strombahn 33‐34 und verursacht
-durch eine zu hohe Energieübertragung im Schaltkontakt, oder
-‐ durch eine Fehlfunk on des Schützes 6K4, ausgehend vom temperaturgerichteten
-Ansteuerkrieses [sic!] des Schützes, verbunden mit einer Hotspotentwicklung auf dem
-Schaltkontakt der Strombahn 33‐34 auf Grund der im Vergleich zu den anderen
-Heizkreisen höheren Energieübertragung und verursacht durch eine zu hohe
-Schalthäufigkeit sowie der damit verbundenen Hitzeentwicklung an den las ntensiven
-Schaltkontakten, oder
-‐ durch einen schleichenden Windungsschluss in der Schützspule mit einer Hotspotbildung
-im Spuleninneren verursacht.“
-Feststellung zur Brandursache
-Lfd. Nr. 7
-Es war ein theore sch aufgebautes Ausschlussverfahren erforderlich, in dessen Ergebnis die
-Schütze 6K4 oder 7K1 im Schaltschrank 1 des EW 2 als wahrscheinlichste Brandauslöser
-iden fiziert wurden.
-Im Stresstest, dem die beiden funk onsgleichen intakten Schütze aus dem EW 1 des
-Unfallzuges sowie zwei baugleiche neue Schütze unterzogen wurden, ergaben sich um
-100 % höhere Übergangswiderstände bei den gebrauchten gegenüber den neuen Schützen.
-Dem Gutachten zufolge führt dieser Umstand zu erhöhten Temperaturen in den
-gebrauchten Schützen.
-Die Betriebsdauer ha e gemäß den Feststellungen aus dem Gutachten einen größeren
-Einfluss auf den Abnutzungsgrad der einzelnen Kontakte, als die Höhe der
-Strombelastungen.
-Auf Grund der vorhandenen Belastungen wurde das Schütz 6K4 laut dem Gutachten als
-Ausgangspunkt des Brandes iden fiziert.
-
-Seite 33 von 38
-
-Untersuchungsbericht
-Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf
-
-5 Auswertung
-Das Kapitel 5 Auswertung befasst sich mit der Ereignisrekonstruk on. Anhand der oben
-genannten Feststellungen wird ein plausibler Ablauf des gefährlichen Ereignisses
-zusammengetragen. Relevante Erkenntnisse werden anschließend bewertet und führen ggf.
-zu entsprechenden Schlussfolgerungen.
-
-5.1 Ereignisrekonstruktion
-Am Nachmi ag des Unfalltages sollte der Zug RB 5177 in Doppeltrak on mit VT 643.20 und
-VT 735 zwischen Berlin‐Lichtenberg und Kostrzyn (Küstrin) verkehren. Der Störspeicher ha e
-während dieser Fahrt um 17:59 Uhr einen „Zugabriss“ registriert. Diese Diagnose ließ
-vermuten, dass ein Problem an der Kupplung vorlag. Darau in war im Bf Müncheberg die
-Doppeltrak on aufgelöst worden und der VT 643.20 bis zum Brandausbruch als einzelner
-Triebzug weitergefahren.
-Gegen 19:54 Uhr meldete der Tf des Zuges über GSM‐R dem Fdl Kaulsdorf West, dass sein Zug
-zwangsgebremst worden sei und sich selbständig abgerüstet habe. Reisende meldeten dem
-Tf eine Rauchentwicklung im hinteren EW des Zuges. Gemäß dem Gutachten ging der Brand
-von den auf einem Schwenkrahmen im unteren Teil des Schaltschrankes 1 im EW 2 mon erten
-Komponenten aus. Es entwickelten sich Heißgase und Flammen, die sich in den über dem
-Schwenkrahmen im Schaltschrank mon erten elektronischen Geräteboxen ausbreiteten und
-die direkt darüber befindlichen Kabel entzündeten. Die Erhitzung der elektronischen
-Komponenten und der Abbrand von Steuer‐ und Signalkabeln führten zu dem vom Tf nicht zu
-beeinflussenden und irreversiblen Zughalt. Der Brand entwickelte sich aus dem Schaltschrank
-bis in den Raum zwischen der Innendecke und der Dachkonstruk on des EW 2. Der
-Schaltschrank 1 war gegenüber dem Fahrgastraum räumlich abgeschlossen und die Entlü ung
-erfolgte über den Innendeckenbereich. Daher gab es über einen Zeitraum von ca. 20 Minuten
-keine sichtbaren Flammen. Die permanent ansteigende Energiefreisetzung zwischen der
-Innendecke und dem Fahrzeugdach führte zu einem Flammenaustri im Deckenbereich des
-Führerstandes. Die thermisch bedingte Schwächung der Halteelemente führte schließlich zu
-einem sich fortsetzenden Durchbruch der Deckenpaneele. Der Brand breitete sich durch die
-durchzündenden Rauchgase in Verbindung mit ste ger Sauerstoﬀzufuhr einerseits und durch
-die Überschreitung der Zündtemperaturen für die Konstruk onswerkstoﬀe andererseits in
-einem rela v kurzen Zeitraum über das gesamte Fahrzeug aus.
-
-Seite 34 von 38
-
-Untersuchungsbericht
-Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf
-
-5.2 Bewertung und Schlussfolgerung
-Der Ausgangspunkt für den Brand wurde im unteren Teil des Schaltschranks 1 des EW 2
-lokalisiert. Aufgrund der vollständigen Zerstörung des EW 2 war die Ursache des
-Fahrzeugbrandes nicht zweifelsfrei zu ermi eln. Mit hoher Wahrscheinlichkeit war jedoch
-eine Überhitzung im Bereich des Schützes 6K4 ursächlich für die Entstehung des Brandes. Über
-dieses Schütz wurden die Ströme für die Kupplungsheizung geschaltet.
-Die Untersuchung ergab, dass die Kontakte des Schützes 6K4 teilweise mit höheren
-elektrischen Lasten beaufschlagt waren, als laut Herstellerangaben zulässig war. Dies ha e,
-wie anhand von durchgeführten vergleichenden Stresstests an baugleichen neuen und bereits
-länger betriebenen Schützen nachgewiesen werden konnte, weniger nega ve Auswirkungen,
-als die Betriebsdauer der Schütze.
-Aufgrund der teilweise nicht eingehaltenen Vorgaben des Schützherstellers, vor allem
-hinsichtlich des Montageabstandes zwischen den Schützen in horizontaler Richtung und der
-über die einzelnen Kontakte geschalteten Ströme, ha e der Fahrzeughersteller einen
-Austausch der Schütze nach acht Betriebsjahren im Wartungshandbuch festgeschrieben. Der
-vorgegebene Austausch hä e demnach spätestens im Jahre 2013 erfolgen müssen. Im
-Brandfahrzeug waren zum Unfallzeitpunkt nach etwa elf Betriebsjahren keine Schütze
-ausgetauscht worden. Der Gutachter schätzte den Austauschzyklus als sehr konserva v und
-zur sicheren Seite hin festgelegt ein. Die gutachterlichen Untersuchungen legten jedoch den
-Schluss nahe, dass eine gegenüber den Vorgaben des Fahrzeugherstellers verlängerte
-Nutzungsdauer zwar nicht zwangsläufig zu einem Brandereignis führen musste, das Risiko des
-Versagens der Schütze sich jedoch mit zunehmender Betriebsdauer vergrößerte. Die bei einer
-verlängerten Nutzung zu erwartenden erhöhten Übergangswiderstände an den Kontakten
-konnten, zumal bei einer Überbeaufschlagung mehrerer Kontakte, zu einem vergrößerten
-Wärmeeintrag führen. Ein solcher konnte gemäß dem Gutachten durch Umsetzungsprozesse
-in den Kunststoﬀmaterialien der Schütze Schwel‐ und Pyrolysegase freisetzen. Diese wären
-bereits bei Temperaturen von 200°C bis 300°C en lammbar. Insofern ist mit zunehmender
-Nutzungsdauer mit einer entsprechend erhöhten Wahrscheinlichkeit für die Entstehung eines
-Brandes zu rechnen. Es ist anzunehmen, dass sich im vorliegenden Fall zunächst Schwel‐ und
-Pyrolysegase entzündeten. Sobald eine oﬀene Flamme entstanden war, ergab sich eine
-unumkehrbare Situa on, die letztendlich im Zusammenhang mit Frischlu zufuhr zu einer
-Ausweitung des Brandes und zu den umfangreichen Zerstörungen am Fahrzeug führte.
-
-Seite 35 von 38
-
-Untersuchungsbericht
-Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf
-
-Der NEB Betriebsgesellscha mbH oblag gemäß dem Mietvertrag mit der Alphatrains Europe
-GmbH seit 2011 die Instandhaltung des ausgebrannten Triebzuges. Gemäß dem
-Wartungshandbuch für die BR 643 war für alle Fristen eine Sichtprüfung der Schütze und
-Relais vorgesehen. Die Dauer zwischen den Fristen sollte maximal 3 Monate betragen. Gemäß
-der EBO und dem Wartungsplan muss die erste HU nach maximal sechs (+1, +1) Betriebsjahren
-bzw. nach einer maximalen Laufleistung von 1.000.000 km erfolgen. Die erste HU am
-VT 643.20 fand 2013 nach acht Betriebsjahren und nach einer Laufleistung von 1.466.461 km
-sta . Das bedeutet eine Überschreitung der Laufleistung bis zur ersten HU um nahezu 50 %.
-Die letzte Sichtprüfung für die Schütze erfolgte im Rahmen der Fristarbeiten 4 am 09.12.2015,
-der letzten vor dem Brandereignis durchgeführten Frist, ausweislich des Fristprotokolls. Ein
-Mangel wurde dabei laut dem Protokoll nicht festgestellt. Eine konkrete Dokumenta on (z. B.
-Fotos) des Istzustandes im Sinne einer Verlaufskontrolle oder der Umsetzung eines Vier‐
-Augen‐Prinzips war in der technologischen Umsetzung der Instandhaltung bei der NEB
-Betriebsgesellscha
-
-mbH nicht vorgegeben. Hinsichtlich der vorgegebenen, bzw. davon
-
-abweichenden tatsächlichen Montageposi on bestanden jedoch auch keine Arbeitsvorgaben,
-wie diese Sichtprüfung vollumfänglich durchzuführen, bzw. erfolgreich leistbar war. Der
-Gutachter stellte zudem fest, dass beginnende Veränderungen der eingesetzten Kunststoﬀe
-infolge thermischer Einwirkung an den Seitenflächen der Schütze nicht sofort erkennbar seien.
-Auch mit Blick auf diese Problema k erscheint eine Verbesserung der Dokumen erung des
-Istzustandes angeraten. Bei der NEB Betriebsgesellscha
-
-mbH fehlende Hilfsmi el zur
-
-Unterstützung einer op schen Prüfung und die nicht prüﬀähige Dokumenta on des Ist‐
-Zustandes der Schütze lassen Zweifel an den Ergebnissen der gemäß den Fristprotokollen
-durchgeführten Sichtprüfungen oﬀen. Bei der NEB‐Werksta in Basdorf fehlten laut Auskun
-der NEB Betriebsgesellscha mbH die Ressourcen, um einen Tausch sämtlicher Schütze in den
-dort betriebenen Fahrzeugen der BR 643 fachgerecht durchzuführen. Daher war der
-komple e Austausch sämtlicher Schütze nur im Rahmen einer Revision durch ein
-Dri unternehmen möglich.
-Anlässlich der 2013 nach acht Betriebsjahren anstehenden HU des Unfallfahrzeuges wurde ein
-Dri unternehmen mit deren Vorbereitung, die dem Leistungsumfang nach einer Revision des
-Fahrzeuges entsprach, beau ragt. Aufgrund der Forderung laut dem Wartungsplan und der
-bei dem Dri unternehmen vorhandenen Ressourcen hä e im Zuge der Maßnahmen zur
-Vorbereitung auf die HU ein Schütztausch sta inden müssen und auch durchgeführt werden
-
-Seite 36 von 38
-
-Untersuchungsbericht
-Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf
-
-können. Im zwischen der NEB Betriebsgesellscha
-
-mbH und dem Dri unternehmen
-
-vereinbarten Leistungsumfang war jedoch der Tausch aller Schütze nicht enthalten.
-
-Seite 37 von 38
-
-Untersuchungsbericht
-Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf
-
-6 Bisher getroffene Maßnahmen
-Nach Eintri
-
-des Brandereignisses wurden die EVU, in deren Fahrzeugpark sich Züge der
-
-BR 643 befanden, über das Ereignis und die vermutete Ursache informiert.
-Bei allen Triebwagen der BR 643, die bei der NEB Betriebsgesellscha mbH betrieben werden,
-wurden die Schütze 6K4 und 7K1 ausgetauscht. Kontakte, deren rechnerische Beaufschlagung
-über den Vorgaben des Schützherstellers ABB lag, wurden entlastet, indem die Anschlüsse der
-Verbraucher mit hohen Energieeinträgen auf zusätzliche Kontakte aufgeteilt wurden.
-Weitreichendere
-
-Maßnahmen,
-
-die
-
-zu
-
-einer
-
-Verbesserung
-
-der
-
-Umsetzung
-
-der
-
-Herstellervorgaben bei der laufenden Instandhaltung der Fahrzeuge führen könnten, wurden
-durch die NEB Betriebsgesellscha mbH nach deren Auskun bisher nicht getroﬀen.
-
-7 Sicherheitsempfehlungen
-Es wurden keine Sicherheitsempfehlungen ausgesprochen.
-
-Seite 38 von 38
+Verantwortlich  für  die  Durchführung  der  Zugfahrt  DPN  5179  von  Berlin‐Lichtenberg  nach 
 
+Kostrzyn (Küstrin) Osop war das EVU NEB. Die Betriebsdurchführung erfolgte nach den Regeln 
+
+der Ril 408 sowie des Betriebsregelwerkes EVU. 
+
+Der Tf war seit 2003 im Besitz eines gül(cid:415)gen Triebfahrzeugführerscheins. Die Berech(cid:415)gung 
+
+zum Führen von Fahrzeugen der Baureihe (BR) 643 wurde mit der Zusatzbescheinigung des 
+
+EVU  NEB  Betriebsgesellscha(cid:332)  mbH  sowie  der  Prüfungsbescheinigung  für  die  BR  643 
+
+nachgewiesen.  Die  Nachweise  über  die  notwendigen  Kenntnisse  für  die  genannten 
+
+Betriebsverfahren  und  der  Streckenkenntnis,  der  regelmäßigen  Fortbildungen  und 
+
+Überwachungen sowie der erforderlichen Tauglichkeit wurden erbracht. Der Tf begann seine 
+
+Dienstschicht am Ereignistag nach einer Ruhephase von 40 Stunden um 13:28 Uhr. Während 
+
+der  Zugfahrt  DPN  5177,  die  in  Doppeltrak(cid:415)on  mit  VT 643.20  und  VT 735  (EVU‐interne 
+
+Fahrzeugbezeichnungen) am Nachmi(cid:425)ag des Ereignistages durchgeführt wurde, war es laut 
+
+den Auslesedaten des Störungsspeichers beim VT 643.20 um 17:59 Uhr zu einer Störung mit 
+
+der  Diagnose  „Zugabriss“  gekommen.  Um  diese  Zugfahrt  fortsetzen  zu  können,  wurde 
+
+darau(cid:300)in  die  Doppeltrak(cid:415)on  aufgelöst.  Der  Triebwagen  VT 643.20  fuhr  in  Einfachtrak(cid:415)on 
+
+weiter.  Das  Brandereignis  ereignete  sich  während  der  Zugfahrt  DPN  5179.  Näheres  zum 
+
+Schadfahrzeug  ist  im  Kapitel  4.7  –  Untersuchung  von  Fahrzeugen  –  ausgeführt.  Die 
+
+Auswertung des Fahrtverlaufs wurde durch die BEU vorgenommen. Die Normierung erfolgte 
+
+auf  die  Spitze  des  VT 643.20  nach  dem  ereignisbedingten  Halt  in  km  9,6.  Die  folgende 
+
+Abbildung  zeigt  die  graﬁsche  Darstellung  des  Fahrtverlaufs  mit  dem  Halt  im  Bf  Berlin‐
+
+Lichtenberg und der weiteren Fahrt bis zur selbs(cid:425)ä(cid:415)gen Bremsung und dem letztendlichen 
+
+Halt des Zuges. 
+
+Seite 12 von 38 
+
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf 
+
+Abbildung 6: Graﬁsche Darstellung des Fahrtverlaufs 
+
+Nach der verspäteten Abfahrt des Zuges DPN 5179 gegen 19:45 Uhr vom Bf Berlin‐Lichtenberg 
+
+verlief  die  Fahrt  zunächst  ohne  Besonderheiten.  Zwischen  den  Betriebsstellen  Abzw 
+
+Biesdorfer Kreuz Ost und Bf Berlin‐Kaulsdorf bekam der Tf eine „Timeout“‐Störung angezeigt, 
+
+worau(cid:300)in das Fahrzeug selbs(cid:425)ä(cid:415)g bis zum S(cid:415)llstand abbremste und die Motoren abstellte. 
+
+Die laut Buchfahrplan vorgegebene maximal zulässige Geschwindigkeit betrug 100 km/h. Die 
+
+maximal gefahrene Geschwindigkeit betrug 102 km/h. Der abrupte Geschwindigkeitsverlust 
+
+ca. in km 9,285 bei einer Geschwindigkeit von 98 km/h markiert den Zeitpunkt des selbs(cid:425)ä(cid:415)g 
+
+durch  den  Zug  eingeleiteten  Bremsvorgangs  bis  zum  S(cid:415)llstand  nach  ca.  315  m.  Die 
+
+Zeitangaben  in  der  nachfolgend  abgebildeten  tabellarischen  Darstellung  entsprachen  den 
+
+internen  Systemzeiten  und  s(cid:415)mmten  nicht  mit  den  Realzeiten  überein.  Die  tabellarische 
+
+Darstellung weist die Absenkung des Drucks in der Hauptlu(cid:332)leitung unter 2,5 bar erst nach 
+
+dem S(cid:415)llstand des Zuges aus. 
+
+Seite 13 von 38 
+
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf 
+
+Abbildung 7: Tabellarische Darstellung des Fahrtverlaufs 
+
+Der  Tf  informierte  den  Fdl  Berlin‐Kaulsdorf  West  per  GSM‐R  Ruf  über die  Störung  und  das 
+
+Andauern bis zum Fortsetzen der Fahrt. Die nachfolgende Störungssuche führte den Tf zum 
+
+bereits verrauchten, hinteren Führerraum. Darau(cid:300)in betrat der Tf das Fahrzeug nicht mehr 
+
+und  konnte  daher  den  GSM‐R‐Funk  nicht  benutzen,  um  einen  Notruf  abzusetzen.  Er 
+
+informierte die Leitstelle des EVU NEB, welche die Informa(cid:415)onen an die No(cid:414)allleitstelle der 
+
+DB Netz AG weitergab. 
+
+Feststellung zur Untersuchung der betrieblichen Abläufe des EVU 
+
+Lfd. Nr. 6 
+
+Für das Brandereignis ursächliche betriebliche Handlungen beim EVU wurden im Rahmen 
+
+der Untersuchung nicht festgestellt. 
+
+Seite 14 von 38 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf 
+
+4.7  Untersuchung	von	Fahrzeugen	
+
+Der  beteiligte  Triebwagen  VT 643.20  war  ein  dreiteiliges  Fahrzeug  der  BR  643  (Talent) 
+
+bestehend  aus  den  beiden  EW,  Fahrzeugnummern  95  80  0643  411‐  1  (EW1,  führend)  und 
+
+95 80 0643 911‐ 0 (EW 2) sowie dem MW, Fahrzeugnummer. 95 80 0943 411‐ 8. Der Hersteller 
+
+des  Triebwagens  war  die  Firma  Bombardier  Transporta(cid:415)ons  GmbH,  das  Baujahr  2005. 
+
+Eigentümer war  die Firma Alpha Trains Europe GmbH, die ihn seit dem Jahre 2011 an den 
+
+Fahrzeughalter, die NEB, vermietet ha(cid:425)e. Die folgenden Abbildungen zeigen einen dreiteiligen 
+
+Triebwagen des verunfallten Typs der BR 643 und eine Prinzipskizze des Schadfahrzeuges, in 
+
+der der Brandausgangspunkt gekennzeichnet ist. 
+
+Abbildung 8: Dreiteiliges Fahrzeug der BR 643 (Talent)6 
+
+Abbildung 9: Fahrzeugskizze7 
+
+6 Quelle: Gutachten der TÜV Süd Rail GmbH 
+
+7 Quelle: Gutachten der TÜV Süd Rail GmbH 
+
+Seite 15 von 38 
+
+ 
+ 
+ 
+ 
+ 
+ 
+                                                       
+Untersuchungsbericht 
+
+Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf 
+
+Aus der folgenden Tabelle lassen sich die technischen Fahrzeugdaten entnehmen: 
+
+Antriebsart 
+
+Kra(cid:332)übertragung 
+
+Leistung 
+
+Gesamtlänge (LüP) 
+
+Masse 
+
+Höchstgeschwindigkeit 
+
+Radsatzfolge 
+
+Zugsicherungssystem 
+
+Dieselmechanisch 
+
+Mechanisch 
+
+2 x 315 kW 
+
+49.360 mm 
+
+102.000 kg 
+
+120 km/h 
+
+B‘2‘2’B‘ 
+
+PZB 
+
+Tabelle 4: Technische Daten des Triebzuges BR 643 
+
+4.7.1  Ablauf	des	Brandereignisses	
+
+Der  Tf  des  Zuges  DPN  5179  wurde  durch  die  Fehlermeldung  „Timeout“  auf  eine  Störung 
+
+aufmerksam. Unmi(cid:425)elbar darauf bremste der Triebzug selbs(cid:425)ä(cid:415)g bis zum S(cid:415)llstand ab und 
+
+schaltete  die  Dieselmotoren  aus.  Auslöser  für  die  Störungsmeldung  war  ein  beginnender 
+
+Brand im hinteren Fahrzeugteil, dessen schädigende Wirkung auf angrenzende Bauteile zur 
+
+Detek(cid:415)on vermeintlicher Störungen in der Fahrzeugsteuerung führten. Im weiteren Verlauf 
+
+wurden  ferner  die  Belü(cid:332)ungsrohre  zum  Führerraum  sowie  die  aus  Aluminium  gefer(cid:415)gte 
+
+Deckenkonstruk(cid:415)on zerstört. Durch die daraus resul(cid:415)erende unkontrollierte Frischlu(cid:332)zufuhr 
+
+wurde die Brandausbreitung im Deckenbereich erheblich beschleunigt. Eintretende Frischlu(cid:332) 
+
+durch zwischenzeitlich geöﬀnete Außentüren bewirkte das weitere Anfachen des Feuers und 
+
+führte zum Vollbrand, der sich innerhalb weniger Minuten über den EW 2, den MW sowie den 
+
+angrenzenden Teil des EW 1 erstreckte und zu den in der folgenden Abbildung erkennbaren 
+
+Schäden am Triebwagen führte. 
+
+Seite 16 von 38 
+
+ 
+ 
+Untersuchungsbericht 
+
+Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf 
+
+Abbildung 10: Ausgebrannter Triebwagen BR 643, in Fahrtrichtung aufgenommen8 
+
+Die  Zerstörungen  am  ausgebrannten  Fahrzeug  waren  so  umfangreich,  dass  die  Spurenlage 
+
+unübersichtlich  wurde  und  eine  exakte  Unterscheidung  zwischen  brandursächlichen  und 
+
+durch  den  Brand  verursachten  Schadensmerkmalen  nicht  ohne  externen  Sachverstand  zu 
+
+treﬀen war. Daher  wurde der TÜV Süd Rail GmbH mit der Brandermi(cid:425)lung beau(cid:332)ragt. Die 
+
+Untersuchungsergebnisse  wurden 
+
+in  einem  Gutachten 
+
+zusammengefasst,  dessen 
+
+Erkenntnisse in den Untersuchungsbericht einﬂossen und im Abschni(cid:425) 4.8 – Untersuchungen 
+
+zur Brandursache – näher ausgeführt und zusammengefasst sind. 
+
+4.7.2  Brandausgangspunkt	
+
+Laut Zeugenaussagen waren die ersten Flammen im hinteren EW 2 auf der in Fahrtrichtung 
+
+linken  Seite  erkennbar.  Dieser  Sachverhalt  wurde  durch  ein  Zeugenvideo,  welches  der 
+
+Bundespolizei vorlag, bestä(cid:415)gt. Das erlaubte die Eingrenzung des Brandausgangspunktes auf 
+
+den Schaltschrank 1 im Fahrgastraum des EW 2 unmi(cid:425)elbar hinter der abgrenzenden Tür zum 
+
+Führerstand. 
+
+Im  Ergebnis  der  Auswertung  der  Störungsmeldungen  aus  dem  Diagnosespeicher  wurden 
+
+durch  die  Brandsachverständigen  beim  Fahrzeughersteller  nähere  Informa(cid:415)onen  zu  den 
+
+Kabelbelegungen  oberhalb  der  Schütze  mit  Verbindungen  zum  Bremssteuergerät  und 
+
+Fahrzeugleitgerät  angefordert.  Darau(cid:300)in  wurde  ihnen  mitgeteilt,  dass  ausschließlich  die 
+
+Störungsmeldungen des Bremssteuergerätes „low‐ac(cid:415)ve“ ausgeführt seien und Meldungen 
+
+im Diagnosespeicher auslösen würden. „low‐ac(cid:415)ve“‐Signale würden unter anderem bei einer 
+
+8 Quelle: Bundespolizei Inspektion Ostbahnhof 
+
+Seite 17 von 38 
+
+ 
+ 
+ 
+                                                       
+Untersuchungsbericht 
+
+Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf 
+
+Leitungslösung oder bei einem Kurzschluss au(cid:332)reten. Anhand dieser Informa(cid:415)onen und der 
+
+Störungsmeldungen  des  Diagnosespeichers  ließen  sich  die  Abläufe,  die  zur  selbs(cid:425)ä(cid:415)gen 
+
+Abbremsung des Triebzuges und Abschaltung des Antriebes führten, nachvollziehen. Die SIFA‐
+
+Ven(cid:415)le, wurden über das Bremssteuergerät geöﬀnet und die Hauptlu(cid:332)leitung entlü(cid:332)et. Das 
+
+hierdurch  vom  Fahrzeugleitgerät  empfangene  „low‐ac(cid:415)ve“‐Signal  des  Bremssteuergerätes 
+
+bewirkte 
+
+in  der  Folge  das  Ausschalten  des  Antriebs.  Durch  die  Aussagen  des 
+
+Fahrzeugherstellers wurde die Lokalisierung des Brandursprungs im Schaltschrank 1 gestützt, 
+
+da dort sowohl das Fahrzeugleitgerät als auch das Bremssteuergerät verbaut waren. 
+
+Infolge  der  Bildung  eines  thermischen  Hotspots  entwickelte  sich  nach  anfänglicher 
+
+Schwelgasentwicklung 
+
+innerhalb  weniger  Minuten  ein  Vollbrand  mit  sehr  hohen 
+
+Temperaturen. 
+
+4.7.3  Feststellungen	am	Schadfahrzeug	
+
+In  der  nachfolgenden  Abbildung  ist  der  Zustand  des  als  Brandursprung  ermi(cid:425)elten 
+
+Schaltschranks 1 im EW 2 nach dem Ereignis dem weitgehend intakten Schaltschrank 1 aus 
+
+dem EW 1 des Schadwagens gegenübergestellt. 
+
+Abbildung 11:Zerstörter Schaltschrank 1 aus dem EW 2, Schaltschrank 1 aus dem EW 19 
+
+9 Quelle: Gutachter der TÜV Süd Rail GmbH, bearbeitet durch BEU 
+
+Seite 18 von 38 
+
+ 
+ 
+ 
+                                                       
+Untersuchungsbericht 
+
+Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf 
+
+Im  unteren  Bereich  des  Schaltschranks  1  waren  die  Schaltelemente  mit  der  höchsten 
+
+energe(cid:415)schen  Belastung  untergebracht.  Hier  war  die  Möglichkeit  hoher  Fehlerströme  mit 
+
+entsprechender  Wärmeentwicklung  gegeben.  Die  Rekonstruk(cid:415)on  der  Brandentwicklung  im 
+
+Rahmen der Begutachtung durch die Brandsachverständigen zeigte auf, dass ein innerhalb des 
+
+Schaltschrankes  1  entstehender  Brand  auf  Grund  der  verbauten  Kunststo(cid:335)eile  eine 
+
+erhebliche Hitze en(cid:414)alten konnte. Die folgende Abbildung, eine Detailaufnahme des unteren 
+
+Bereichs im Schaltschrank aus dem EW 1 des Schadfahrzeuges, macht deutlich, dass die dort 
+
+eingebauten  energe(cid:415)sch  hochbelasteten  Schütze  auf  einem  Schwenkrahmen  ohne 
+
+horizontalen  Abstand  zueinander  auf  den  Hutschienen  mon(cid:415)ert  waren.  Zudem  zeigte  sich, 
+
+dass die beiden Schütze 6K4 und 7K1, die kalkulatorisch mit den höchsten elektrischen Lasten 
+
+und  damit  den  höchsten  Fehlerstrompoten(cid:415)alen  beaufschlagt  waren,  unmi(cid:425)elbar 
+
+nebeneinander auf der Hutschiene saßen. 
+
+Abbildung 12: Unterer Bereich des intakten Schaltschrankes 1 im EW 110 
+
+Weitergehende  Untersuchungen  ergaben,  dass  nicht  nur  im  hier  untersuchten  Fahrzeug, 
+
+sondern  auch 
+
+in  sämtlichen  anderen  Fahrzeugen  dieser  BR,  die  bei  der  NEB 
+
+Betriebsgesellscha(cid:332) mbH im Einsatz waren, der gleiche Sachverhalt zutraf. 
+
+10 Quelle: Gutachter der TÜV Süd Rail GmbH, bearbeitet durch BEU 
+
+Seite 19 von 38 
+
+ 
+ 
+ 
+                                                       
+Untersuchungsbericht 
+
+Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf 
+
+Die Schütze 6K4 und 7K1 entsprachen den geforderten Kriterien an den Bahnbetrieb unter 
+
+Beachtung der üblichen thermischen und dynamischen Belastungen. Im Folgenden sind die 
+
+technischen Angaben laut Herstellerdatenbla(cid:425) aufgeführt: 
+
+  Schütz 6K4: TNL 40 E ‐ Hilfsschütz 4 Schaltglieder, 24V 6A DC Spule 24V DC 5W; 4S + 
+
+0Ö, 1SBH 14 3061 R5140  
+
+  Schütz 7K1: TNL 44 E ‐ Hilfsschütz 8 Schaltglieder, 24V 6A DC Spule 24V DC 5W; 4S + 
+
+4Ö, 1SBH 14 3061 R5144 
+
+Die  Kontaktbelastbarkeit  bei  24  V  Gleichspannung  betrug  für  beide  Schütztypen  6  A.  Im 
+
+Rahmen  der  Begutachtung  wurden  die  Belegungen  der  Kontakte  und  die  Absicherung  der 
+
+Strompfade  untersucht.  Aus  dem  Stromlaufplan  ging  hervor,  dass  im  Schütz  7K1  auf  dem 
+
+Kontakt  71  ‐  72  mit  rechnerisch  6,25  A  eine  geringfügig  höhere  Beaufschlagung  als  die 
+
+ausgewiesene Kontaktbelastbarkeit vorlag. Das Schütz 6K4 war gemäß dem Stromlaufplan im 
+
+ungüns(cid:415)gsten Fall nominal mit einem maximalen Gesamtstrom von 27,5 A, verteilt auf vier 
+
+Schützhauptkontakte,  beaufschlagt.  Dabei  waren  die  Kontakte  13  ‐  14  für  die  Heizung 
+
+Kupplung Kegelseite und 23 ‐ 24  für die Heizung Kupplung Trichterseite rechnerisch jeweils 
+
+mit maximal 8,3 A beaufschlagt. Am Kontakt 33 ‐ 34 für die Heizung Kondensatbehälter und 
+
+Heizung Typhon lagen kalkulatorisch bis zu 9,6 A an. Diese Werte übertrafen Vorgaben des 
+
+Schützherstellers hinsichtlich der Kontaktbelastbarkeit um 38,3 % bzw. um 60 %.  
+
+Messungen,  die  durch  die  NEB  Betriebsgesellscha(cid:332)  mbH  unter  Einsatzbedingungen 
+
+vorgenommen wurden, ergaben für das Schütz 6K4 einen Gesamtwert von ca. 18 A, wobei die 
+
+Beaufschlagung auf dem Kontakt 23 ‐ 24 bei 8,5 A lag und auf dem Kontakt 13 ‐ 14 8,0 A betrug. 
+
+Der Wert für den Kontakt 33 ‐ 34 lag bei den Messungen durch die NEB Betriebsgesellscha(cid:332) 
+
+mbH hingegen lediglich bei 1,5 A, was durch den Gutachter als mögliches Fehlerindiz gewertet 
+
+wurde. Der Schützhersteller ABB erklärte gegenüber der BEU auf die Anfrage bezüglich der 
+
+thermischen Auswirkungen von Überbelegungen einzelner Kontakte: 
+
+„Dies ist abhängig von der Last. Hier wäre wich(cid:415)g zu wissen, ob eine AC1 oder AC3‐Last 
+
+vorgelegen hat. Ungeachtet dessen ist aber eine Dauerlast von einem ITH‐Wert von 16 A 
+
+kein Problem für das Schütz.“11 
+
+11Quelle: Schreiben (e‐ Mail) Schützhersteller ABB v. 24.11.16 
+
+Seite 20 von 38 
+
+ 
+ 
+ 
+                                                       
+Untersuchungsbericht 
+
+Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf 
+
+Die Temperaturbeständigkeit der Schütze schloss nach Auskun(cid:332) seitens ABB eine Entzündung 
+
+der Schützmaterialien aus. Es bestünde laut ABB jedoch die Möglichkeit, dass Medien aus der 
+
+Umgebung des Schützes (z. B. Schmier‐ oder Reinigungsmi(cid:425)el) sich entzünden könnten. 
+
+Die  Montageanweisung  des  Schützherstellers  schrieb  für  Hilfsschütze  des  Typs  TNL  bei 
+
+Montage in horizontaler Posi(cid:415)on einen Mindestabstand von 5 mm zwischen den einzelnen 
+
+Schützen auf der Hutschiene vor. Dies ist aus der folgenden Abbildung ersichtlich.  
+
+Abbildung 13: Auszug aus der Montageanweisung von ABB12 
+
+Der  Schützhersteller  ABB  äußerte  gegenüber  der  BEU  hinsichtlich  des  Mindestabstandes 
+
+zwischen den Schützen laut Montageanweisung: 
+
+„Diese Angabe kommt aufgrund der Einhaltung des Temperaturbereiches. Aufgrund von 
+
+notwendigen Materialänderungen wurde festgestellt, dass sich die Geräte seitlich braun 
+
+verfärben. Dies ist funk(cid:415)onstechnisch nicht relevant, aber für unsere Kunden natürlich 
+
+12 Quelle: ABB, Hilfsschütze, technische Daten, Montageanweisung, bearbeitet durch BEU 
+
+Seite 21 von 38 
+
+ 
+ 
+ 
+                                                       
+Untersuchungsbericht 
+
+Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf 
+
+nicht schön. Zur Sicherheit, d. h. dass keine zu hohen Temperaturen entstehen, aber vor 
+
+allem diese Verfärbung verhindert wird, wurde die Vorgabe für den Abstand gegeben.“13 
+
+Der Fahrzeughersteller Bombardier Transporta(cid:415)on GmbH erklärte zu dieser Problema(cid:415)k: 
+
+„Nach Recherche von Siemens/ELIN gilt die Vorgabe der Schütze mit einem deﬁnierten 
+
+Abstand nur für die Version TNL mit der stärkeren Spule für den notwendigen erweiterten 
+
+Spannungsbereich. Die NL‐Standard‐Industrieausführung (normaler Spannungsbereich) 
+
+benö(cid:415)gt keine Posi(cid:415)onierung der Schütze mit einem deﬁnierten Abstand, da sie eine 
+
+kleinere Spulenleistung besitzt. Dies wurde von uns als Hersteller so verstanden, dass diese 
+
+Forderung allein Auswirkung auf die Lebensdauer der Spule und nicht auf die 
+
+Stromtragfähigkeit (bzw. beschleunigte Alterung) der Kontakte hat. Somit wurde auf die 
+
+Posi(cid:415)onierung der Schütze mit einem deﬁnierten Abstand verzichtet und dem Umstand 
+
+der Lebensdauer mit einem Tausch der Schütze alle 8 Jahre Rechnung getragen. (…)“14  
+
+4.7.4  Unterhaltung	des	Fahrzeugs	bei	der	NEB	Betriebsgesellschaft	mbH	
+
+Gemäß dem Mietvertrag zwischen dem Eigentümer des Triebzuges, der Firma Alpha Trains 
+
+Europe GmbH, und dem Mieter und Fahrzeughalter, der NEB Betriebsgesellscha(cid:332) mbH, war 
+
+für  die  Durchführung  der  laufenden  Instandhaltung  die  NEB  Betriebsgesellscha(cid:332)  mbH 
+
+verantwortlich.  Sie  erfolgte  durch  insgesamt  neun  Mitarbeiter  in  einer  Werksta(cid:425)  auf  dem 
+
+Betriebsgelände der NEB Betriebsgesellscha(cid:332) mbH in Basdorf. Das Instandhaltungspersonal 
+
+war  gemäß  den  vorgelegten  Unterlagen  fachlich  qualiﬁziert  und  wurde  regelmäßig 
+
+fortgebildet.  Die  erforderlichen  Arbeiten  und  die  Wartungsintervalle  waren  in  einem 
+
+Wartungsplan  des  Fahrzeugherstellers  Bombardier  Transporta(cid:415)on  GmbH  tabellarisch 
+
+zusammengestellt und sind auszugsweise in der folgenden Abbildung dargestellt. 
+
+13Quelle: Schreiben (E‐Mail) Schützhersteller ABB v. 24.11.16 
+
+14 Quelle: Schreiben (E‐ Mail) Fahrzeughersteller Bombardier Transportations v. 13.02.2017 
+
+Seite 22 von 38 
+
+ 
+ 
+                                                       
+Untersuchungsbericht 
+
+Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf 
+
+Abbildung 14: Auszug aus dem Wartungsplan für BR 643 
+
+Es ist erkennbar, dass bei jeder Frist bzw. nach jeweils drei Monaten eine Sichtprüfung an den 
+
+Schützen  durchzuführen  war.  Spätestens  nach  acht  Betriebsjahren  waren  gemäß  dem 
+
+Wartungsplan sämtliche Schütze in dem Triebzug auszutauschen. Ein Austausch der Schütze 
+
+war zum Ereigniszeitpunkt nach ca. elf Betriebsjahren nachweislich nie erfolgt. 
+
+Die erste Hauptuntersuchung (HU) für den Triebzug gemäß den Vorgaben aus § 32 der EBO 
+
+erfolgte im Jahre 2013 nach acht Jahren, Vorgabe laut EBO nach 6 (+1 +1) Betriebsjahren und 
+
+1.466.461  km  Lauﬂeistung.  Laut  Wartungsplan  sollte  die  erste  HU  nach  maximal  6  (+1  +1) 
+
+Jahren  bzw.  nach  einer  maximalen  Lauﬂeistung  von  1.000.000  km  erfolgen.  Gemäß  der 
+
+Auskun(cid:332) des Fahrzeughalters wurde die HU für den Triebzug einschließlich der Leistungen zur 
+
+Vorbereitung  an  ein  Dri(cid:425)unternehmen  vergeben.  Die  vorgelegte  HU‐Bescheinigung  war 
+
+da(cid:415)ert  vom  13.12.2013.  Der  BEU  wurde  durch  die  NEB  Betriebsgesellscha(cid:332)  mbH  eine 
+
+Leistungsübersicht der Instandhaltungspakete zur HU für den „Talent“ vorgelegt, welche die 
+
+Grundlage für die Vergabe der Leistung gewesen war. Sie enthielt keinen Hinweis über die 
+
+Verpﬂichtung zum Tausch aller Schütze im Triebzug.  
+
+Fristarbeiten waren gemäß dem Wartungsplan durchzuführen. Die Arbeiten wurden bei der 
+
+NEB  Betriebsgesellscha(cid:332)  mbH  entsprechend  verschiedenen  „Protokollen  Fristarbeiten“ 
+
+ausgeführt. Diese Protokolle waren in Form von Checklisten aufgebaut und enthielten jeden 
+
+einzelnen  Arbeitsschri(cid:425),  der  nach  der  Ausführung  durch  den  jeweils  Ausführenden 
+
+Seite 23 von 38 
+
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf 
+
+abgezeichnet  wurde.  Nach  Auskun(cid:332)  der  Werksta(cid:425)leitung  erfolgten  bei  der  NEB 
+
+Betriebsgesellscha(cid:332) mbH die Unterhaltungsarbeiten nicht zwingend in der  Reihenfolge der 
+
+Arbeitsschri(cid:425)e laut den Protokollen. Vielmehr wurde die zeitliche Abfolge der Fristarbeiten 
+
+durch  die  zum  Zeitpunkt  der  Ausführung  vorhandenen  Ressourcen  bes(cid:415)mmt.  Gemäß  dem 
+
+Wartungsplan  waren 
+
+im  Rahmen  aller  Fristarbeiten  auch  die  Schütze  regelmäßigen 
+
+Sichtprüfungen zu unterziehen. Eine inhaltliche Untersetzung der Sichtprüfung für die Schütze 
+
+erfolgte  im  Instandsetzungshandbuch  für  die  BR  643  (Talent)  und  ist  in  der  folgenden 
+
+Abbildung dargestellt. 
+
+Abbildung 15: Auszug aus dem Instandhaltungshandbuch für die BR 643 
+
+Die Unterlagen der Instandhaltung für die letzten drei Monate vor dem Ereignis lagen vor. Die 
+
+Nachweise  für  die  Fristenarbeiten  eins,  zwei  und  vier  enthielten  keinerlei  Hinweise  auf 
+
+Mängel.  Fristenarbeiten  drei  wurden  im  genannten  Zeitraum  nicht  durchgeführt.  Bei  den 
+
+erfolgten Sichtkontrollen der Schütze im Rahmen der Fristen wurden gemäß den Protokollen 
+
+keine  Mängel  und  damit  auch  keine  äußeren  Anzeichen  thermischer  Überlastung 
+
+dokumen(cid:415)ert. Eine eindeu(cid:415)ge Dokumenta(cid:415)on des Zustandes der Schütze mit Hilfe von Fotos 
+
+oder  Beschreibungen  war  bei  der  Sichtkontrolle  durch  die  Mitarbeiter  bei  der  NEB 
+
+Betriebsgesellscha(cid:332)  mbH  nicht  vorgesehen.  Aufgrund  der  vollständigen  Zerstörung  des 
+
+Fahrzeuges war eine Aussage zum konkreten Istzustand der Schütze im Schaltschrank 1 zum 
+
+Zeitpunkt  der  letzten  durchgeführten  Frist  vor  dem  Brandereignis  nicht  zu  treﬀen. 
+
+Musterstücke  oder  Abbildungen,  anhand  derer  Verfärbungen  an  den  Schützen  hä(cid:425)en 
+
+verglichen  und  hinsichtlich 
+
+ihrer  Kri(cid:415)kalität  hä(cid:425)en  eingeschätzt  werden  können  – 
+
+insbesondere  bei  der  oben  beschriebenen,  lückenlosen  Montageposi(cid:415)on  zu  benachbarten 
+
+Bauteilen  –  exis(cid:415)erten  bei  der  NEB  Betriebsgesellscha(cid:332)  mbH  gemäß  deren  Auskun(cid:332)  nicht. 
+
+Arbeitsvorgaben  oder  Hilfsmi(cid:425)el,  die  eine  Sichtkontrolle  in  den  unteren  Bereichen  der 
+
+Schaltschränke hä(cid:425)en erleichtern können, waren nach Auskun(cid:332) der NEB Betriebsgesellscha(cid:332) 
+
+mbH nicht vorhanden. Werkzeuge zur Überprüfung des Anzugsmomentes für die Schrauben 
+
+zur Befes(cid:415)gung der Schütze und der Kabel fehlten ebenfalls. 
+
+Seite 24 von 38 
+
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf 
+
+Feststellung zur Untersuchung der Fahrzeuge 
+
+Lfd. Nr. 7 
+
+Der Brand begann im EW 2 in der Nähe des hinteren Führerstandes in Fahrtrichtung links. 
+
+Das  Datenbla(cid:425)  für  die  Typen  TNL  40  E  und  TNL  44  E,  die  als  Schütze  6K4  bzw.  7K1  im 
+
+Brandfahrzeug  verbaut  waren,  weist  bei  einer  Spannung  von  24  V  eine  maximale 
+
+Kontaktbelastbarkeit  von  jeweils  6  A  aus.  Zwei  Kontakte  des  Schützes  6K4  waren 
+
+kalkulatorisch mit maximal 8,3 A, ein Kontakt rechnerisch mit maximal 9,6 A belastet. 
+
+Das Datenbla(cid:425) für die Schütze gibt für die Montage der Schütze in horizontaler Posi(cid:415)on 
+
+einen Abstand von 5 mm vor. Dies wurde durch den Hersteller mit der Vermeidung zu hoher 
+
+Temperaturen begründet, jedoch als funk(cid:415)onstechnisch nicht relevant angesehen. Im noch 
+
+intakten  Schaltschrank  1  des  EW  1  des  Unfallfahrzeuges  waren  sämtliche  Schütze  in 
+
+horizontaler  Posi(cid:415)on  lückenlos  mon(cid:415)ert.  Dieser  Sachverhalt  wurde  auch  bei  anderen 
+
+Fahrzeugen der betroﬀenen BR bei der NEB Betriebsgesellscha(cid:332) mbH festgestellt. 
+
+Gemäß dem Wartungsplan muss die erste HU nach maximal sechs (+1, +1) Betriebsjahren 
+
+bzw. nach einer maximalen Lauﬂeistung von 1.000.000 km erfolgen. Die erste HU fand 2013 
+
+nach acht Betriebsjahren und nach einer Lauﬂeistung von 1.466.461 km sta(cid:425). 
+
+Ein nachvollziehbar dokumen(cid:415)erter konkreter Zustand der einzelnen Schütze im hinteren 
+
+EW zum Zeitpunkt der jeweils durchgeführten Fristarbeiten im Sinne einer Verlaufskontrolle 
+
+/ Risikoabschätzung war den Fristprotokollen nicht zu entnehmen. 
+
+Vorgaben oder Hilfsmi(cid:425)el zur Durchführung der Sichtprüfung, insbesondere bei lückenloser 
+
+Montageposi(cid:415)on, waren bei der NEB Betriebsgesellscha(cid:332) mbH nicht vorhanden. 
+
+Der Fahrzeughersteller hat in seinem Wartungsplan vorgegeben, sämtliche Schütze nach 
+
+acht Betriebsjahren auszutauschen. Im Brandfahrzeug waren zum Unfallzeitpunkt nach ca. 
+
+elf Betriebsjahren keine Schütze ausgetauscht worden. 
+
+Seite 25 von 38 
+
+ 
+ 
+ 
+	
+Untersuchungsbericht 
+
+Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf 
+
+4.8  Untersuchungen	zur	Feststellung	der	Brandursache	
+
+Mit den Untersuchungen zur Feststellung der Brandursache wurde die TÜV Süd Rail GmbH 
+
+beau(cid:332)ragt. Die Untersuchungsergebnisse wurden in einem Gutachten zusammengefasst. Der 
+
+Inhalt dieses Gutachtens ﬂießt in diesen Abschni(cid:425) des Untersuchungsberichts ein. Zitate sind 
+
+entsprechend gekennzeichnet. 
+
+4.8.1  Lokalisierung	des	Brandursprungs	im	Ausschlussverfahren	
+
+Schäden  wie  Einbrandkerben  oder  Abschmelzungen  an  Befes(cid:415)gungselementen  und 
+
+Kabelverbindungen lassen im Normalfall auf den Ursprung eines Brandes schließen. 
+
+In  diesem  Falle  waren  aber  die  Wärmeeinträge  durch  das  Brandereignis  so  stark,  dass  das 
+
+Erscheinungsbild  der  als  Brandfolge  entstandenen  Schäden  nicht  von  dem  eines 
+
+Brandursprungs zu unterscheiden war. Die Ermi(cid:425)lung der Brandursache basierte daher auf 
+
+einem  theore(cid:415)sch aufgebauten Ausschlussverfahren. Durch Videoaufnahmen eines Zeugen 
+
+wurde der Brandursprung auf einen Schaltschrank in der Nähe des Führerstandes des hinteren 
+
+EW lokalisiert. Auf Grund dieser Tatsache und wegen der Brandmuster schloss der Gutachter 
+
+folgende mögliche Brandursachen aus:  
+
+  Fremdeinwirkung (Brandstiftung) 
+
+  Fehler ausgehend vom Dieselaggregat 
+
+  Fehler ausgehend von der Abgasanlage oder dem Kraftstoff‐ und Ölsystem 
+
+  Fehler ausgehend vom Klimatisierungssystem 
+
+Außerdem schieden der Unterﬂurbereich, der Dachbereich und der Fahrgastbereich und das 
+
+Führerpult  des  hinteren  EW  2  als  mögliche  Ausgangspunkte  für  den  Brand  aus.  Auf  Grund 
+
+dieser  Feststellungen  richtete  sich  das  Interesse  auf  die  Schaltschränke  hinter  dem 
+
+Führerstand des hinteren EW 2. Die Lage der Schaltschränke im EW ist den Abbildungen 12 
+
+und 13 zu entnehmen. 
+
+Seite 26 von 38 
+
+ 
+ 
+Untersuchungsbericht 
+
+Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf 
+
+Abbildung 16: Systemskizze Talent (Auszug)15 
+
+Abbildung 17: Posi(cid:415)on der Schaltschränke 1 und 2 im zerstörten EW 2 16 
+
+Zur  abschließenden  Eingrenzung  des  Ausgangspunktes  der  Brandentstehung  traf  der 
+
+Sachverständige weitere Grundannahmen: 
+
+Die 
+
+im  Schaltschrank  2  „Bordnetzanlage“  untergebrachte  zentrale  Stromversorgung 
+
+(Ba(cid:425)eriebereich) wurde bei der Schadensaufnahme sowohl hinsichtlich der Speicher selbst als 
+
+auch  hinsichtlich  der  Verkabelung  weitgehend  intakt  vorgefunden,  sodass  auch  hier  der 
+
+15 Quelle: Gutachten, bearbeitet durch BEU 
+
+16 Quelle: Gutachter, bearbeitet durch BEU 
+
+Seite 27 von 38 
+
+ 
+ 
+ 
+ 
+                                                       
+Untersuchungsbericht 
+
+Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf 
+
+Ausgangspunkt des Brandes nicht zu vermuten war. Der Lei(cid:425)echnikbereich, der im oberen Teil 
+
+des Schaltschrankes 1 „Fahrzeugsteuerung“ angeordnet war, kam auf Grund seines geringen 
+
+Energiepoten(cid:415)als  als  Brandausgangspunkt  nicht 
+
+in  Betracht.  Somit  wurden  der 
+
+Schaltschrank 2 sowie der obere Bereich des Schaltschrankes 1 als mögliche Ausgangspunkte 
+
+für den Brand eliminiert. Aus dem Ausschlussverfahren des Sachverständigen ergab sich die 
+
+Lokalisierung des Brandursprungs im unteren Teil des Schaltschrankes 1. 
+
+4.8.2  Weitere	Eingrenzung	der	Brandursache	
+
+Als eine Fehlermöglichkeit wurden lose Kabelanschlüsse auf einer Klemmleiste, an Schützen, 
+
+Schaltern  oder  Überwachungseinrichtungen  in  Betracht  gezogen.  Auch  defekte  ak(cid:415)ve 
+
+Elemente,  wie  Schütze,  Schalter  oder  Leiterpla(cid:415)nen  sowie  Isola(cid:415)onsfehler  kamen  als 
+
+Brandursache 
+
+infrage. 
+
+Im  Fokus  der  weiteren  Untersuchung  stand  zunächst  der 
+
+Verbraucherstrom, der über die einzelnen Schaltelemente in diesem Bereich ﬂoss. Einerseits 
+
+musste  er  unter  der  Schwelle  der  Abschaltung  durch  die  Schutzeinrichtungen  liegen. 
+
+Andererseits  musste  die  Möglichkeit  bestehen,  einen  so  hohen  Übergangswiderstand  zu 
+
+erzeugen,  dass  die  Ausbildung  eines  Hotspots  möglich  war.  Der  Gutachter  sah  5 A  als 
+
+Mindestwert für die Auslösung eines Hotspots an. Das Ansprechen der Schutzeinrichtungen 
+
+vermutete  er  bei  maximal  10 A.  Aus  dem  Stromlaufplan  wurde  im  Lauf  der  weiteren 
+
+Untersuchung ersichtlich, dass die Leitungsschutzschalter mit 13 A bzw. 16 A ausgelegt waren. 
+
+Die  Grenze  für  das  Ansprechen  der  Schutzeinrichtungen  lag  somit  höher  als  durch  den 
+
+Gutachter  ursprünglich  angenommen.  Die  Suche  nach  dem  Auslöser  des  Brandereignisses 
+
+konzentrierte  sich  demnach  auf  die  Elemente,  über  die  ein  Strom  von  mehr  als  5 A  aber 
+
+weniger  als  10 A  ﬂoss.  Im  unteren  Schaltschrankbereich  befanden  sich  keine  Klemmleisten 
+
+oder  Geräteeingänge  zur  24 V‐Energieversorgung  von  Komponenten.  Die  Motor‐  und 
+
+Getriebesteuerung  war  in  metallischen  Gehäusen  untergebracht.  Diese  Möglichkeiten 
+
+konnten somit als Ursprung der Brandentstehung ausgeschlossen werden. Daher wurde der 
+
+Ausgangspunkt  für  die  Brandentstehung  auf  die  Schütze  am  Schwenkrahmen  im  unteren 
+
+Schaltschrankbereich eingegrenzt. 
+
+Aufgrund  geringer  Fehlerenergiepotentiale  wurden  13  der  15  Schütze,  die  auf  dem 
+
+Schwenkrahmen  montiert  waren,  als  Ausgangspunkte  für  den  Brand  ausgeschlossen.  Die 
+
+verbliebenen  beiden  Schütze  6K4  und  7K1  waren  von  allen  auf  dem  Schwenkrahmen 
+
+montierten Schützen mit den höchsten Gesamtströmen beaufschlagt. Über sie floss der Strom 
+
+für die Kupplungsheizung. Die vor dem Ereignis um 17:59 Uhr aufgetretene Störungsmeldung 
+
+Seite 28 von 38 
+
+ 
+ 
+Untersuchungsbericht 
+
+Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf 
+
+„Zugabriss“,  siehe  Abschnitt  4.6,  ließ  auf  eine  Störung  an  der  Kupplung  schließen.  Daher 
+
+wurden die Schütze 6K4 und 7K1, über die die Ströme für die Kupplungsheizung gesteuert 
+
+wurden, letztendlich als wahrscheinlichste Fehlerquellen bzw. als mögliche Auslöser für das 
+
+Brandereignis identifiziert. 
+
+4.8.3  Untersuchungen	an	den	Schützen	6K4	und	7K1	
+
+Aufgrund  der  ersten  Untersuchungsergebnisse  konzentrierten  sich  die  weiteren 
+
+Untersuchungen auf die Schütze 6K4 und 7K1. 
+
+Bewertung	von	Fehlermöglichkeiten	bei	Schützen	
+
+Der Gutachter schloss Fehlermöglichkeiten, wie  
+
+  eine fehlerhafte Montage der Kabelanschlüsse oder  
+
+  einen Fertigungsfehler 
+
+aufgrund des langen störungsfreien Betriebseinsatzes und der weitgehend automa(cid:415)sierten 
+
+Prozesse bei der Schützherstellung aus. 
+
+Im Gutachten wurden folgende Fehlermöglichkeiten angeführt, die zur Bildung eines Hotspots 
+
+hä(cid:425)en führen können: 
+
+„Die Fehlermöglichkeit eines Schützversagens verursacht durch eine Fremdeinwirkung 
+
+ausgehend von einem Ansteuerfehler verbunden mit pulsierenden Schaltvorgängen, kann 
+
+nicht vollständig ausgeschlossen werden.  
+
+Anmerkung: Im Falle eines häuﬁgen Schaltens, z. B. ini(cid:415)iert durch die Fahrzeugbewegung 
+
+bei losen Verbindungen innerhalb des Kabelrou(cid:415)ng, werden die Schaltkontakte stark 
+
+thermisch beansprucht, so dass sich eine Überhitzung an den Kontakten der 
+
+leistungsintensiven Strombahn ergeben kann. 
+
+Die Fehlermöglichkeit eines Schützversagens verursacht durch eine Fremdeinwirkung 
+
+ausgehend von einer zu hohen Strombelastung über den Schaltkontakt kann nicht 
+
+ausgeschlossen werden.  
+
+Ein möglicher Defekt im Heizstrang kann eine überhöhte dauerha(cid:332)e Energieübertragung 
+
+verursachen, wodurch sich ein Hotspot auf dem Schaltkontakt bildet und eine Entzündung 
+
+des Schützgehäuses nach sich zieht. Die Heizstränge zu den Kupplungsheizungen sind 
+
+hierbei als intakt ermi(cid:425)elt worden.  
+
+Seite 29 von 38 
+
+ 
+ 
+Untersuchungsbericht 
+
+Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf 
+
+Anmerkung: Auf Grund der vom Fahrzeughersteller angezeigten Heizleistung von 200 W 
+
+(betri(cid:335) Kondensatbehälter, zzgl. der Heizung des Typhons mit 30 W würde in Summe 
+
+9,6 A auf dem Kontakt ergeben) und dem vom Betreiber ermi(cid:425)elten Wert von 1,5 A ergibt 
+
+sich hier ein mögliches Fehlerindiz.“17 
+
+Im Ergebnis dieser Analyse kam der Gutachter zu dem Schluss: 
+
+„Da das Schütz 7K1 nur einen Heizstromkreis von 150 W schaltet, wobei die 
+
+Trichterheizung nachweislich keinen Defekt aufweist, ist das Schütz 6K4 einerseits auf 
+
+Grund der größeren über die Schaltkontakte geführten Last die den Brand verursachende 
+
+Komponente. (…) 
+
+Auch ein möglicher länger anwachsender bzw. schleichender Defekt, verbunden mit 
+
+häuﬁgeren Schaltvorgängen (Defekt im Ansteuerkreis) aber auch durch eine 
+
+Vorschädigung (Defekt im Schütz) ohne Auswirkungen auf die Schaltvorgänge, ist als 
+
+Einzelfehler nicht auszuschließen und muss damit angenommen werden.“18 
+
+Stresstests	
+
+Im  Rahmen  der  Begutachtung  wurden  die  Schütze  7K1  und  6K4  aus  dem  EW  1  des 
+
+Schadfahrzeuges sowie baugleiche ungebrauchte Schütze der Typen TNL 40 E und TNL 44 E 
+
+intensiven vergleichenden Stresstests unterzogen. 
+
+Der Gutachter zog im Ergebnis dieser Tests folgendes Fazit: 
+
+„Die ertragbaren Schwingungen in der Ver(cid:415)kalachse mit Bezug auf den ermi(cid:425)elten 
+
+Spannungsabfall von 'neu' zu 'alt' zeigen einen Unterschied von mehr als 100 %. Das 
+
+bedeutet eine Belastung der Kontaktglieder, was u. a. mit einer kleiner werdenden 
+
+Kontak(cid:414)läche auf Grund der Verschleißsitua(cid:415)on/Ablagerungen im Zusammenhang mit 
+
+dem indiﬀerenten Stromﬂuss und damit einer immer höher werdenden Stromdichte 
+
+verbunden ist. Mit der Verdopplung des Kontaktwiderstandes ergibt sich eine 
+
+Energieumwandlung, welche im Schütz eine Erwärmung nach sich zieht. 
+
+Über die Nutzungsdauer wird sich eine immer stärkere Wärmeentwicklung über den 
+
+Kontakten ergeben, was der Erwartungshaltung bezüglich der Alterungskennzeichen 
+
+17 Quelle: Gutachten der TÜV Süd Rail GmbH 
+
+18 Quelle: Gutachten der TÜV Süd Rail GmbH 
+
+Seite 30 von 38 
+
+ 
+ 
+                                                       
+Untersuchungsbericht 
+
+Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf 
+
+entspricht. Auch die 'Ausschläge' bzw. Spitzen der Übergangswiderstände waren bei dem 
+
+'gebrauchten' wesentlich höher als bei dem 'neuen'. 
+
+(…) Das Verschleißverhalten der beiden Schütze 6K4 und 7K1 ist als gleichwer(cid:415)g 
+
+anzusehen. Das heißt, dass trotz einer unterschiedlichen Strombelastung über die 
+
+jeweiligen Kontakte sich eine gleichmäßige Alterung ergibt und keine Signiﬁkanz einer 
+
+höheren energe(cid:415)schen Belastung erkennbar ist.  
+
+Durch eine entsprechende Vorgabe zum Tauschzyklus werden die Auswirkung begrenzt. 
+
+Im vorliegenden Fall sind die durch den Fahrzeughersteller ﬁxierten 8 Jahre jedoch als sehr 
+
+konserva(cid:415)v ﬁxiert anzusehen.“19 
+
+Es ist laut Gutachten davon auszugehen, dass es durch erhöhte Wärmeeinträge über einen 
+
+längeren  Zeitraum,  zum  Beispiel  durch  Überhitzung  der  Hauptkontakte,  zu  einer 
+
+werksto(cid:335)echnischen Änderung der Kunststo(cid:335)eile der Schütze kommen könnte, die zu einer 
+
+nega(cid:415)ven  Beeinﬂussung  der  Entzündungsresistenz  führen  würde.  Der  Gutachter  kam 
+
+diesbezüglich zu der Einschätzung: 
+
+„Das Material der Kontaktkammer würde sich bei einer Übertemperatur im Bereich der 
+
+Hauptkontakte verfärben. Bei der realisierten Einbausitua(cid:415)on wäre dies von vorne und 
+
+auch bei einem 5 mm‐Spalt nicht über eine visuelle Prüfung erkennbar. Ab 150‐200° 
+
+beginnt ein Verschwelungsprozess von Kunststoﬀen. Dieser Temperaturbereich wird mit 
+
+der theore(cid:415)sch möglichen Verlustwärme kaum erreicht. An den Polen würde sich eine 
+
+Verzunderung im Bereich des Übergangswiderstandes ergeben, wodurch dieser weiter 
+
+erhöht werden würde. Ein thermisch au(cid:297)ereiteter Kunststoﬀ ist im Zündverhalten 
+
+schwächer als normalbelasteter Kunststoﬀ, d. h. zwischen 200 bis 300° kommt es zur 
+
+En(cid:414)lammung und einer sofor(cid:415)gen Zündung der austretenden Schwel‐ / Pyrolysegase.“20 
+
+Bewertung	des	durch	den	Fahrzeughersteller	festgelegten	Tauschs	der	Schütze	nach	
+
+acht	Betriebsjahren	
+
+Im  Gutachten  ist  einerseits  ausgeführt,  dass  durch  den  festgesetzten  Tauschzyklus  die 
+
+Auswirkungen  der  Alterung  der  Kontakte  begrenzt  werde,  andererseits  wurde  jedoch  die 
+
+19 Quelle: Gutachten der TÜV Süd Rail GmbH 
+
+20 Quelle: Gutachten der TÜV Süd Rail GmbH 
+
+Seite 31 von 38 
+
+ 
+ 
+                                                       
+Untersuchungsbericht 
+
+Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf 
+
+Vorgabe zum Tausch aller Schütze nach acht Jahren durch den Fahrzeughersteller als eher zur 
+
+sicheren Seite hin festgelegt bewertet.  
+
+Letztendlich wurde im Gutachten der folgende Hinweis gegeben: 
+
+„Trotz der Fahrzeugherstellervorgabe zum zyklischen Schütztausch nach 8 Jahren (ist als 
+
+generische Anforderung ﬁxiert, da dies alle Schütze des Fahrzeuges betri(cid:335)), ist nach 
+
+Bewertung der tatsächlichen betrieblichen Einwirkungen auf Basis der durchgeführten 
+
+Schwing‐ und Schockprüfungen sowie nach Zerlegung und visueller Prüfung ein Tausch 
+
+nach 8 Jahren nicht erforderlich. Somit besteht kein technisches Wartungsdeﬁzit.“21 
+
+Es wird jedoch abschließend festgestellt: 
+
+„Ak(cid:415)ve Schaltelemente beinhalten immer ein Defektrisiko, so dass mit einem Ausfall bzw. 
+
+einem Versagen, verbunden mit sich ergebenden Folgewirkungen, gerechnet werden 
+
+muss. Aus diesem Grund sollten die Wartungsvorgaben gezielt bzw. tä(cid:415)gkeitsbezogen 
+
+ausgerichtet werden. Damit verbunden ist einerseits eine prak(cid:415)kable 
+
+Zustandsüberwachung und andererseits auch ein vorbeugender Tausch von 
+
+risikobeha(cid:332)eten Komponenten. Das betri(cid:335) auch die im Fokus stehenden Schütze zur 
+
+Heizungssteuerung.“22 
+
+Bewertung	der	lückenlosen	Montage	der	Schütze	in	horizontaler	Richtung	
+
+Im Gutachten ist ausgeführt, dass durch die Montage ohne fünf Millimeter Zwischenraum ein 
+
+zusätzlicher  Wärmestau  entstehen  kann.  Zudem  könne  eine  beginnende  Verfärbung  der 
+
+Kontaktkammer von vorne durch eine visuelle Prüfung nicht erkannt werden, letzteres wäre 
+
+aber auch bei einer Montage mit den fünf Millimetern Zwischenraum nicht möglich. 
+
+21 Quelle: Gutachten der TÜV Süd Rail GmbH 
+
+22 Quelle: Gutachten der TÜV Süd Rail GmbH 
+
+Seite 32 von 38 
+
+ 
+ 
+ 
+ 
+                                                       
+Untersuchungsbericht 
+
+Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf 
+
+4.8.4  Gutachterliche	Feststellung	der	Ursache	des	Brandereignisses	
+
+Laut dem Gutachten wurde das Brandereignis entweder: 
+
+„…‐ durch eine Fehlfunk(cid:415)on des Schützes 6K4, ausgehend vom fehlerbeha(cid:332)eten Heizkreis 
+
+des Kondensatbehälters (die anderen Heizkriese [sic!] waren ohne Befund), verbunden mit 
+
+einer Hotspotentwicklung auf dem Schaltkontakt der Strombahn 33‐34 und verursacht 
+
+durch eine zu hohe Energieübertragung im Schaltkontakt, oder  
+
+‐ durch eine Fehlfunk(cid:415)on des Schützes 6K4, ausgehend vom temperaturgerichteten 
+
+Ansteuerkrieses [sic!] des Schützes, verbunden mit einer Hotspotentwicklung auf dem 
+
+Schaltkontakt der Strombahn 33‐34 auf Grund der im Vergleich zu den anderen 
+
+Heizkreisen höheren Energieübertragung und verursacht durch eine zu hohe 
+
+Schalthäuﬁgkeit sowie der damit verbundenen Hitzeentwicklung an den las(cid:415)ntensiven 
+
+Schaltkontakten, oder  
+
+‐ durch einen schleichenden Windungsschluss in der Schützspule mit einer Hotspotbildung 
+
+im Spuleninneren verursacht.“ 
+
+Feststellung zur Brandursache 
+
+Lfd. Nr. 7 
+
+Es war ein theore(cid:415)sch aufgebautes Ausschlussverfahren erforderlich, in dessen Ergebnis die 
+
+Schütze  6K4  oder  7K1  im  Schaltschrank  1  des  EW  2  als  wahrscheinlichste  Brandauslöser 
+
+iden(cid:415)ﬁziert wurden. 
+
+Im  Stresstest,  dem  die  beiden  funk(cid:415)onsgleichen  intakten  Schütze  aus  dem  EW  1  des 
+
+Unfallzuges  sowie  zwei  baugleiche  neue  Schütze  unterzogen  wurden,  ergaben  sich  um 
+
+100 % höhere Übergangswiderstände bei den gebrauchten gegenüber den neuen Schützen. 
+
+Dem  Gutachten  zufolge  führt  dieser  Umstand  zu  erhöhten  Temperaturen  in  den 
+
+gebrauchten Schützen. 
+
+Die  Betriebsdauer  ha(cid:425)e  gemäß  den  Feststellungen  aus  dem  Gutachten  einen  größeren 
+
+Einﬂuss  auf  den  Abnutzungsgrad  der  einzelnen  Kontakte,  als  die  Höhe  der 
+
+Strombelastungen. 
+
+Auf  Grund  der  vorhandenen  Belastungen  wurde  das  Schütz  6K4  laut  dem  Gutachten  als 
+
+Ausgangspunkt des Brandes iden(cid:415)ﬁziert. 
+
+Seite 33 von 38 
+
+ 
+ 
+Untersuchungsbericht 
+
+Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf 
+
+5  Auswertung	
+
+Das  Kapitel  5  Auswertung  befasst  sich  mit  der  Ereignisrekonstruk(cid:415)on.  Anhand  der  oben 
+
+genannten  Feststellungen  wird  ein  plausibler  Ablauf  des  gefährlichen  Ereignisses 
+
+zusammengetragen. Relevante Erkenntnisse werden anschließend bewertet und führen ggf. 
+
+zu entsprechenden Schlussfolgerungen. 
+
+5.1  Ereignisrekonstruktion	
+
+Am Nachmi(cid:425)ag des Unfalltages sollte der Zug RB 5177 in Doppeltrak(cid:415)on mit VT 643.20 und 
+
+VT 735 zwischen Berlin‐Lichtenberg und Kostrzyn (Küstrin) verkehren. Der Störspeicher ha(cid:425)e 
+
+während  dieser  Fahrt  um  17:59  Uhr  einen  „Zugabriss“  registriert.  Diese  Diagnose  ließ 
+
+vermuten, dass ein Problem an der Kupplung vorlag. Darau(cid:300)in war im Bf Müncheberg die 
+
+Doppeltrak(cid:415)on  aufgelöst  worden  und  der  VT  643.20  bis  zum  Brandausbruch  als  einzelner 
+
+Triebzug weitergefahren.  
+
+Gegen 19:54 Uhr meldete der Tf des Zuges über GSM‐R dem Fdl Kaulsdorf West, dass sein Zug 
+
+zwangsgebremst worden sei und sich selbständig abgerüstet habe. Reisende meldeten dem 
+
+Tf eine Rauchentwicklung im hinteren EW des Zuges. Gemäß dem Gutachten ging der Brand 
+
+von den auf einem Schwenkrahmen im unteren Teil des Schaltschrankes 1 im EW 2 mon(cid:415)erten 
+
+Komponenten  aus.  Es  entwickelten  sich  Heißgase  und  Flammen,  die  sich  in  den  über  dem 
+
+Schwenkrahmen im Schaltschrank mon(cid:415)erten elektronischen Geräteboxen ausbreiteten und 
+
+die  direkt  darüber  beﬁndlichen  Kabel  entzündeten.  Die  Erhitzung  der  elektronischen 
+
+Komponenten und der Abbrand von Steuer‐ und Signalkabeln führten zu dem vom Tf nicht zu 
+
+beeinﬂussenden und irreversiblen Zughalt. Der Brand entwickelte sich aus dem Schaltschrank 
+
+bis  in  den  Raum  zwischen  der  Innendecke  und  der  Dachkonstruk(cid:415)on  des  EW  2.  Der 
+
+Schaltschrank 1 war gegenüber dem Fahrgastraum räumlich abgeschlossen und die Entlü(cid:332)ung 
+
+erfolgte über den Innendeckenbereich. Daher gab es über einen Zeitraum von ca. 20 Minuten 
+
+keine  sichtbaren  Flammen.  Die  permanent  ansteigende  Energiefreisetzung  zwischen  der 
+
+Innendecke und dem Fahrzeugdach führte zu einem Flammenaustri(cid:425) im Deckenbereich des 
+
+Führerstandes. Die thermisch bedingte Schwächung der Halteelemente führte schließlich zu 
+
+einem sich fortsetzenden Durchbruch der Deckenpaneele. Der Brand breitete sich durch die 
+
+durchzündenden Rauchgase in Verbindung mit ste(cid:415)ger Sauerstoﬀzufuhr einerseits und durch 
+
+die  Überschreitung  der  Zündtemperaturen  für  die  Konstruk(cid:415)onswerkstoﬀe  andererseits  in 
+
+einem rela(cid:415)v kurzen Zeitraum über das gesamte Fahrzeug aus. 
+
+Seite 34 von 38 
+
+ 
+ 
+Untersuchungsbericht 
+
+Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf 
+
+5.2  Bewertung	und	Schlussfolgerung	
+
+Der  Ausgangspunkt  für  den  Brand  wurde  im  unteren  Teil  des  Schaltschranks  1  des  EW  2 
+
+lokalisiert.  Aufgrund  der  vollständigen  Zerstörung  des  EW  2  war  die  Ursache  des 
+
+Fahrzeugbrandes  nicht  zweifelsfrei  zu  ermi(cid:425)eln.  Mit  hoher  Wahrscheinlichkeit  war  jedoch 
+
+eine Überhitzung im Bereich des Schützes 6K4 ursächlich für die Entstehung des Brandes. Über 
+
+dieses Schütz wurden die Ströme für die Kupplungsheizung geschaltet.  
+
+Die  Untersuchung  ergab,  dass  die  Kontakte  des  Schützes  6K4  teilweise  mit  höheren 
+
+elektrischen Lasten beaufschlagt waren, als laut Herstellerangaben zulässig war. Dies ha(cid:425)e, 
+
+wie anhand von durchgeführten vergleichenden Stresstests an baugleichen neuen und bereits 
+
+länger betriebenen Schützen nachgewiesen werden konnte, weniger nega(cid:415)ve Auswirkungen, 
+
+als die Betriebsdauer der Schütze. 
+
+Aufgrund  der  teilweise  nicht  eingehaltenen  Vorgaben  des  Schützherstellers,  vor  allem 
+
+hinsichtlich des Montageabstandes zwischen den Schützen in horizontaler Richtung und der 
+
+über  die  einzelnen  Kontakte  geschalteten  Ströme,  ha(cid:425)e  der  Fahrzeughersteller  einen 
+
+Austausch der Schütze nach acht Betriebsjahren im Wartungshandbuch festgeschrieben. Der 
+
+vorgegebene  Austausch  hä(cid:425)e  demnach  spätestens  im  Jahre  2013  erfolgen  müssen.  Im 
+
+Brandfahrzeug  waren  zum  Unfallzeitpunkt  nach  etwa  elf  Betriebsjahren  keine  Schütze 
+
+ausgetauscht worden. Der Gutachter schätzte den Austauschzyklus als sehr konserva(cid:415)v und 
+
+zur sicheren Seite hin festgelegt ein. Die gutachterlichen Untersuchungen legten jedoch den 
+
+Schluss  nahe,  dass  eine  gegenüber  den  Vorgaben  des  Fahrzeugherstellers  verlängerte 
+
+Nutzungsdauer zwar nicht zwangsläuﬁg zu einem Brandereignis führen musste, das Risiko des 
+
+Versagens der Schütze sich jedoch mit zunehmender Betriebsdauer vergrößerte. Die bei einer 
+
+verlängerten  Nutzung  zu  erwartenden  erhöhten  Übergangswiderstände  an  den  Kontakten 
+
+konnten,  zumal  bei  einer  Überbeaufschlagung  mehrerer  Kontakte,  zu  einem  vergrößerten 
+
+Wärmeeintrag führen. Ein solcher konnte gemäß dem Gutachten durch Umsetzungsprozesse 
+
+in den Kunststoﬀmaterialien der Schütze Schwel‐ und Pyrolysegase freisetzen. Diese wären 
+
+bereits bei Temperaturen von 200°C bis 300°C en(cid:414)lammbar. Insofern ist mit zunehmender 
+
+Nutzungsdauer mit einer entsprechend erhöhten Wahrscheinlichkeit für die Entstehung eines 
+
+Brandes zu rechnen. Es ist anzunehmen, dass sich im vorliegenden Fall zunächst Schwel‐ und 
+
+Pyrolysegase  entzündeten.  Sobald  eine  oﬀene  Flamme  entstanden  war,  ergab  sich  eine 
+
+unumkehrbare  Situa(cid:415)on,  die  letztendlich  im  Zusammenhang  mit  Frischlu(cid:332)zufuhr  zu  einer 
+
+Ausweitung des Brandes und zu den umfangreichen Zerstörungen am Fahrzeug führte. 
+
+Seite 35 von 38 
+
+ 
+ 
+Untersuchungsbericht 
+
+Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf 
+
+Der NEB Betriebsgesellscha(cid:332) mbH oblag gemäß dem Mietvertrag mit der Alphatrains Europe 
+
+GmbH  seit  2011  die 
+
+Instandhaltung  des  ausgebrannten  Triebzuges.  Gemäß  dem 
+
+Wartungshandbuch  für  die  BR  643  war  für  alle  Fristen  eine  Sichtprüfung  der  Schütze  und 
+
+Relais vorgesehen. Die Dauer zwischen den Fristen sollte maximal 3 Monate betragen. Gemäß 
+
+der EBO und dem Wartungsplan muss die erste HU nach maximal sechs (+1, +1) Betriebsjahren 
+
+bzw.  nach  einer  maximalen  Lauﬂeistung  von  1.000.000  km  erfolgen.  Die  erste  HU  am 
+
+VT 643.20 fand 2013 nach acht Betriebsjahren und nach einer Lauﬂeistung von 1.466.461 km 
+
+sta(cid:425). Das bedeutet eine Überschreitung der Lauﬂeistung bis zur ersten HU um nahezu 50 %. 
+
+Die letzte Sichtprüfung für die Schütze erfolgte im Rahmen der Fristarbeiten 4 am 09.12.2015, 
+
+der letzten vor dem Brandereignis durchgeführten Frist, ausweislich des Fristprotokolls. Ein 
+
+Mangel wurde dabei laut dem Protokoll nicht festgestellt. Eine konkrete Dokumenta(cid:415)on (z. B. 
+
+Fotos)  des  Istzustandes  im  Sinne  einer  Verlaufskontrolle  oder  der  Umsetzung  eines  Vier‐
+
+Augen‐Prinzips  war  in  der  technologischen  Umsetzung  der  Instandhaltung  bei  der  NEB 
+
+Betriebsgesellscha(cid:332)  mbH  nicht  vorgegeben.  Hinsichtlich  der  vorgegebenen,  bzw.  davon 
+
+abweichenden tatsächlichen Montageposi(cid:415)on bestanden jedoch auch keine Arbeitsvorgaben, 
+
+wie  diese  Sichtprüfung  vollumfänglich  durchzuführen,  bzw.  erfolgreich  leistbar  war.  Der 
+
+Gutachter stellte zudem fest, dass beginnende Veränderungen der eingesetzten Kunststoﬀe 
+
+infolge thermischer Einwirkung an den Seitenﬂächen der Schütze nicht sofort erkennbar seien. 
+
+Auch mit Blick auf diese Problema(cid:415)k erscheint eine Verbesserung der Dokumen(cid:415)erung des 
+
+Istzustandes  angeraten.  Bei  der  NEB  Betriebsgesellscha(cid:332)  mbH  fehlende  Hilfsmi(cid:425)el  zur 
+
+Unterstützung  einer  op(cid:415)schen  Prüfung  und  die  nicht  prüﬀähige  Dokumenta(cid:415)on  des  Ist‐
+
+Zustandes  der  Schütze  lassen  Zweifel  an  den  Ergebnissen  der  gemäß  den  Fristprotokollen 
+
+durchgeführten Sichtprüfungen oﬀen. Bei der NEB‐Werksta(cid:425) in Basdorf fehlten laut Auskun(cid:332) 
+
+der NEB Betriebsgesellscha(cid:332) mbH die Ressourcen, um einen Tausch sämtlicher Schütze in den 
+
+dort  betriebenen  Fahrzeugen  der  BR  643  fachgerecht  durchzuführen.  Daher  war  der 
+
+komple(cid:425)e  Austausch  sämtlicher  Schütze  nur 
+
+im  Rahmen  einer  Revision  durch  ein 
+
+Dri(cid:425)unternehmen möglich. 
+
+Anlässlich der 2013 nach acht Betriebsjahren anstehenden HU des Unfallfahrzeuges wurde ein 
+
+Dri(cid:425)unternehmen mit deren Vorbereitung, die dem Leistungsumfang nach einer Revision des 
+
+Fahrzeuges entsprach, beau(cid:332)ragt. Aufgrund der Forderung laut dem Wartungsplan und der 
+
+bei  dem  Dri(cid:425)unternehmen  vorhandenen  Ressourcen  hä(cid:425)e  im  Zuge  der  Maßnahmen  zur 
+
+Vorbereitung auf die HU ein Schütztausch sta(cid:426)inden müssen und auch durchgeführt werden 
+
+Seite 36 von 38 
+
+ 
+ 
+Untersuchungsbericht 
+
+Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf 
+
+können.  Im  zwischen  der  NEB  Betriebsgesellscha(cid:332)  mbH  und  dem  Dri(cid:425)unternehmen 
+
+vereinbarten Leistungsumfang war jedoch der Tausch aller Schütze nicht enthalten. 
+
+Seite 37 von 38 
+
+ 
+ 
+Untersuchungsbericht 
+
+Fahrzeugbrand, 06.01.2016, Biesdorfer Kreuz Ost – Berlin‐Kaulsdorf 
+
+6  Bisher	getroffene	Maßnahmen	
+
+Nach  Eintri(cid:425)  des  Brandereignisses  wurden  die  EVU,  in  deren  Fahrzeugpark  sich  Züge  der 
+
+BR 643 befanden, über das Ereignis und die vermutete Ursache informiert.  
+
+Bei allen Triebwagen der BR 643, die bei der NEB Betriebsgesellscha(cid:332) mbH betrieben werden, 
+
+wurden die Schütze 6K4 und 7K1 ausgetauscht. Kontakte, deren rechnerische Beaufschlagung 
+
+über den Vorgaben des Schützherstellers ABB lag, wurden entlastet, indem die Anschlüsse der 
+
+Verbraucher mit hohen Energieeinträgen auf zusätzliche Kontakte aufgeteilt wurden.  
+
+Weitreichendere  Maßnahmen,  die 
+
+zu  einer  Verbesserung  der  Umsetzung  der 
+
+Herstellervorgaben bei der laufenden Instandhaltung der Fahrzeuge führen könnten, wurden 
+
+durch die NEB Betriebsgesellscha(cid:332) mbH nach deren Auskun(cid:332) bisher nicht getroﬀen. 
+
+7  Sicherheitsempfehlungen	
+
+Es wurden keine Sicherheitsempfehlungen ausgesprochen. 
+
+Seite 38 von 38 
+
+ 
+ 
 

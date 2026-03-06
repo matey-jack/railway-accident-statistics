@@ -1,854 +1,1369 @@
-Untersuchungsbericht
-Aktenzeichen:
+Untersuchungsbericht 
 
-60uu2015-04/014-3323
+Aktenzeichen: 
 
-Stand:
+60uu2015-04/014-3323 
 
-09.11.2021 Version: 1.0
+Stand: 
 
-Erstveröﬀentlichung:
+09.11.2021  Version:  1.0 
 
-11.11.2021
+Erstveröﬀentlichung:  11.11.2021 
 
-Gefährliches Ereignis im Eisenbahnbetrieb
+Gefährliches	Ereignis	im	Eisenbahnbetrieb 
 
-Ereignisart:
+Ereignisart: 
 
-Vorbeifahrt eines Zuges am Haltbegriﬀ
+Vorbeifahrt eines Zuges am Haltbegriﬀ 
 
-Datum:
+Datum: 
 
-24.04.2015
+Zeit: 
 
-Zeit:
+Bahnhof: 
 
-22:45 Uhr
+Gleis: 
 
-Bahnhof:
+Kilometer: 
 
-Ruhland
+24.04.2015 
 
-Gleis:
+22:45 Uhr 
 
-5
+Ruhland 
 
-Kilometer:
+5 
 
-98,8
+98,8 
 
-Untersuchungsbericht
-Vorbeifahrt eines Zuges am Haltbegriff, 24.04.2015, Ruhland
+	
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Veröﬀentlicht durch:
-Bundesstelle für Eisenbahnunfalluntersuchung
-Heinemannstraße 6
-53175 Bonn
+Vorbeifahrt eines Zuges am Haltbegriff, 24.04.2015, Ruhland 
 
-Untersuchungsbericht
-Vorbeifahrt eines Zuges am Haltbegriff, 24.04.2015, Ruhland
+Veröﬀentlicht durch: 
 
-Inhaltsverzeichnis
-I.
+Bundesstelle für Eisenbahnunfalluntersuchung 
 
-Änderungsverzeichnis: .......................................................................................... II
+Heinemannstraße 6 
 
-II.
+53175 Bonn 
 
-Abbildungsverzeichnis: ........................................................................................ III
+ 
+Untersuchungsbericht 
 
-III.
+Vorbeifahrt eines Zuges am Haltbegriff, 24.04.2015, Ruhland 
 
-Tabellenverzeichnis: ............................................................................................ III
+Inhaltsverzeichnis	
 
-IV.
+I. 
 
-Abkürzungsverzeichnis: ....................................................................................... IV
+II. 
 
-1
+Änderungsverzeichnis: .......................................................................................... II 
 
-Vorbemerkungen .................................................................................................. 1
+Abbildungsverzeichnis: ........................................................................................ III 
 
-1.1
+III. 
 
-Organisatorischer Hinweis ...................................................................................... 1
+Tabellenverzeichnis: ............................................................................................ III 
 
-1.2
+IV. 
 
-Ziel der Eisenbahnunfalluntersuchung.................................................................... 1
+Abkürzungsverzeichnis: ....................................................................................... IV 
 
-2
+1 
 
-Zusammenfassung ................................................................................................ 3
+1.1 
 
-2.1
+1.2 
 
-Kurzbeschreibung des Ereignisses........................................................................... 3
+2 
 
-2.2
+2.1 
 
-Folgen ...................................................................................................................... 3
+2.2 
 
-2.3
+2.3 
 
-Ursachen.................................................................................................................. 3
+2.4 
 
-2.4
+3 
 
-Sicherheitsempfehlungen ....................................................................................... 3
+3.1 
 
-3
+3.2 
 
-Allgemeine Angaben ............................................................................................. 4
+3.3 
 
-3.1
+3.4 
 
-Lage und Beschreibung des Ereignisortes ............................................................... 4
+4 
 
-3.2
+4.1 
 
-Beteiligte und Mitwirkende..................................................................................... 6
+Vorbemerkungen .................................................................................................. 1 
 
-3.3
+Organisatorischer Hinweis ...................................................................................... 1 
 
-Äußere Bedingungen ............................................................................................... 7
+Ziel der Eisenbahnunfalluntersuchung .................................................................... 1 
 
-3.4
+Zusammenfassung ................................................................................................ 3 
 
-Todesopfer, Verletzte und Sachschäden................................................................. 7
+Kurzbeschreibung des Ereignisses ........................................................................... 3 
 
-4
+Folgen ...................................................................................................................... 3 
 
-Untersuchungsprotokoll ....................................................................................... 8
+Ursachen .................................................................................................................. 3 
 
-4.1
+Sicherheitsempfehlungen ....................................................................................... 3 
 
-Zusammenfassung von Aussagen und Stellungnahmen ......................................... 8
+Allgemeine Angaben ............................................................................................. 4 
 
-4.1.1
+Lage und Beschreibung des Ereignisortes ............................................................... 4 
 
-Stellungnahme des Fahrdienstleiters (Fdl).............................................................. 8
+Beteiligte und Mitwirkende ..................................................................................... 6 
 
-4.1.2
+Äußere Bedingungen ............................................................................................... 7 
 
-Stellungnahme der Ww auf W2 .............................................................................. 8
+Todesopfer, Verletzte und Sachschäden ................................................................. 7 
 
-4.1.3
+Untersuchungsprotokoll ....................................................................................... 8 
 
-Stellungnahme des Triebfahrzeugführers (Tf) des DGS 95312 ............................... 9
+Zusammenfassung von Aussagen und Stellungnahmen ......................................... 8 
 
-4.2
+4.1.1 
 
-Notfallmanagement ................................................................................................ 9
+Stellungnahme des Fahrdienstleiters (Fdl) .............................................................. 8 
 
-4.3
+4.1.2 
 
-Untersuchung der bautechnischen Infrastruktur ................................................. 10
+Stellungnahme der Ww auf W2 .............................................................................. 8 
 
-I
+4.1.3 
 
-Untersuchungsbericht
-Vorbeifahrt eines Zuges am Haltbegriff, 24.04.2015, Ruhland
+Stellungnahme des Triebfahrzeugführers (Tf) des DGS 95312 ............................... 9 
 
-I.
+4.2 
 
-4.4
+4.3 
 
-Untersuchung der Leit- und Sicherungstechnik .................................................... 10
+Notfallmanagement ................................................................................................ 9 
 
-4.5
+Untersuchung der bautechnischen Infrastruktur ................................................. 10 
 
-Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers ................. 11
+I 
 
-4.6
+ 
+ 
+Untersuchungsbericht 
 
-Untersuchung der betrieblichen Abläufe der EVU ................................................ 15
+Vorbeifahrt eines Zuges am Haltbegriff, 24.04.2015, Ruhland 
 
-4.7
+4.4 
 
-Untersuchung von Fahrzeugen ............................................................................. 17
+4.5 
 
-5
+4.6 
 
-Auswertung ........................................................................................................ 19
+4.7 
 
-5.1
+5 
 
-Ereignisrekonstruktion .......................................................................................... 19
+5.1 
 
-5.2
+5.2 
 
-Bewertung und Schlussfolgerung .......................................................................... 19
+6 
 
-6
+7 
 
-Bisher getroffene Maßnahmen ........................................................................... 21
+Untersuchung der Leit- und Sicherungstechnik .................................................... 10 
 
-7
+Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers ................. 11 
 
-Sicherheitsempfehlungen ................................................................................... 21
+Untersuchung der betrieblichen Abläufe der EVU ................................................ 15 
 
-Änderungsverzeichnis:
-Änderung
+Untersuchung von Fahrzeugen ............................................................................. 17 
 
-Stand
+Auswertung ........................................................................................................ 19 
 
-II
+Ereignisrekonstruktion .......................................................................................... 19 
 
-Untersuchungsbericht
-Vorbeifahrt eines Zuges am Haltbegriff, 24.04.2015, Ruhland
+Bewertung und Schlussfolgerung .......................................................................... 19 
 
-II.
+Bisher getroffene Maßnahmen ........................................................................... 21 
 
-Abbildungsverzeichnis:
-Abbildung 1: Lageplan ................................................................................................................ 4
-Abbildung 2: Gleislageskizze Bf Ruhland .................................................................................... 5
-Abbildung 3: Bf Ruhland (nicht zum Ereigniszeitpunkt) DKW 7 Fahrwege der Züge................. 6
-Abbildung 4: Auszug aus Betra F 210247 15 ............................................................................ 12
-Abbildung 5: DKW 7 Systemskizze Fahrweg Bauz 63009 ......................................................... 13
-Abbildung 6: DKW 7 Systemskizze Fahrweg DGS 95312 .......................................................... 14
-Abbildung 7: Graphische Darstellung des Fahrtverlaufs des DGS 95312 ................................ 16
-Abbildung 8: Tabellarische Darstellung des Fahrtverlaufs des DGS 59312 (Auszug) .............. 16
+Sicherheitsempfehlungen ................................................................................... 21 
 
-III.
+I.  Änderungsverzeichnis:	
 
-Tabellenverzeichnis:
-Tabelle 1: Übersicht der äußeren Bedingungen ........................................................................ 7
-Tabelle 2: Technische Daten des Triebfahrzeuges 92 88 0076 102-7 B-ITL ............................. 18
+Änderung 
 
-III
+Stand 
 
-Untersuchungsbericht
-Vorbeifahrt eines Zuges am Haltbegriff, 24.04.2015, Ruhland
+II 
 
-IV.
+ 
+ 
+ 
+ 
+ 
+ 
+	
+	
+Untersuchungsbericht 
 
-Abkürzungsverzeichnis:
-AEG
+Vorbeifahrt eines Zuges am Haltbegriff, 24.04.2015, Ruhland 
 
-Allgemeines Eisenbahngesetz
+II.  Abbildungsverzeichnis:	
 
-Asig
+Abbildung 1: Lageplan ................................................................................................................ 4 
 
-Ausfahrsignal
+Abbildung 2: Gleislageskizze Bf Ruhland .................................................................................... 5 
 
-Betra
+Abbildung 3: Bf Ruhland (nicht zum Ereigniszeitpunkt) DKW 7 Fahrwege der Züge ................. 6 
 
-Betriebs- und Bauanweisung
+Abbildung 4: Auszug aus Betra F 210247 15 ............................................................................ 12 
 
-BEU
+Abbildung 5: DKW 7 Systemskizze Fahrweg Bauz 63009 ......................................................... 13 
 
-Bundesstelle für Eisenbahnunfalluntersuchung
+Abbildung 6: DKW 7 Systemskizze Fahrweg DGS 95312 .......................................................... 14 
 
-Bf
+Abbildung 7: Graphische Darstellung des Fahrtverlaufs des DGS 95312 ................................ 16 
 
-Bahnhof
+Abbildung 8: Tabellarische Darstellung des Fahrtverlaufs des DGS 59312 (Auszug) .............. 16 
 
-BMVI
+III.  Tabellenverzeichnis:	
 
-Bundesministerium für Verkehr und digitale Infrastruktur
+Tabelle 1: Übersicht der äußeren Bedingungen ........................................................................ 7 
 
-DKW
+Tabelle 2: Technische Daten des Triebfahrzeuges 92 88 0076 102-7 B-ITL ............................. 18 
 
-doppelte Kreuzungsweiche
+III 
 
-EIU
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Eisenbahninfrastrukturunternehmen
+Vorbeifahrt eines Zuges am Haltbegriff, 24.04.2015, Ruhland 
 
-Esig
+IV.  Abkürzungsverzeichnis:	
 
-Einfahrsignal
+AEG 
 
-EVU
+Asig 
 
-Eisenbahnverkehrsunternehmen
+Allgemeines Eisenbahngesetz 
 
-Fdl
+Ausfahrsignal 
 
-Fahrdienstleiter / Fahrdienstleiterin
+Betra 
 
-GSM-R
+Betriebs- und Bauanweisung 
 
-Global System for Mobile Communications Rail
+BEU 
 
-Hp 0
+Bf 
 
-Signalbild, Bedeutung: „Halt“
+Bundesstelle für Eisenbahnunfalluntersuchung 
 
-Ril
+Bahnhof 
 
-Richtlinie
+BMVI 
 
-Sh 3
+Bundesministerium für Verkehr und digitale Infrastruktur 
 
-Signalbild – Kreissignal, Bedeutung: „Sofort halten“
+DKW 
 
-Tf
+doppelte Kreuzungsweiche 
 
-Triebfahrzeugführer
+EIU 
 
-VzG
+Esig 
 
-Verzeichnis der zulässigen Geschwindigkeiten
+EVU 
 
-Ww
+Fdl 
 
-Weichenwärter / Weichenwärterin
+Eisenbahninfrastrukturunternehmen 
 
-Zs 1
+Einfahrsignal 
 
-Signalbild – Ersatzsignal, Bedeutung: „Am Signal Hp 0 oder am gestörten
-Lichthauptsignal ohne schriftlichen Befehl vorbeifahren“
+Eisenbahnverkehrsunternehmen 
 
-Zs 6
+Fahrdienstleiter / Fahrdienstleiterin 
 
-Signalbild – Gegengleisanzeiger, Bedeutung: „Der Fahrweg führt in das
-Streckengleis entgegen der gewöhnlichen Fahrtrichtung“
+GSM-R 
 
-IV
+Global System for Mobile Communications Rail 
 
-Untersuchungsbericht
-Vorbeifahrt eines Zuges am Haltbegriff, 24.04.2015, Ruhland
+Hp 0 
 
-1 Vorbemerkungen
-Das Kapitel Vorbemerkungen befasst sich mit allgemeinen Informa onen zur Bundesstelle für
-Eisenbahnunfalluntersuchung (BEU). Dabei wird die gesetzliche Grundlage genannt und die
-Au auorganisa on kurz umrissen.
+Ril 
 
-1.1 Organisatorischer Hinweis
-Mit der Richtlinie (EU) 2016/798 des Europäischen Parlaments und des Rates zur Eisenbahnsicherheit in der Gemeinschaft (Eisenbahnsicherheitsrichtlinie) wurden die Mitgliedstaaten
-der Europäischen Union (EU) verpflichtet, unabhängige Untersuchungsstellen für die Untersuchung bestimmter gefährlicher Ereignisse einzurichten.
-Diese Richtlinie wurde mit dem Gesetz zur Neuordnung der Eisenbahnunfalluntersuchung
-vom 27. Juni 2017 und der Eisenbahn-Unfalluntersuchungsverordnung vom 05.07.2007, die
-durch Artikel 1 der Verordnung vom 26.11.2019 geändert worden ist, umgesetzt. Die BEU ist
-eine Bundesoberbehörde im Geschäftsbereich des Bundesministeriums für Verkehr und digitale Infrastruktur.
-Gemäß § 6 Abs. 2 des Bundeseisenbahnverkehrsverwaltungsgesetzes (BEVVG) wurde der Sitz
-und Aufbau der BEU im „Organisationserlass zur Errichtung der Bundesstelle für Eisenbahnunfalluntersuchung“ des Bundesministeriums für Verkehr und digitale Infrastruktur festgelegt
-und die BEU zum 14.07.2017 errichtet.
-Näheres hierzu ist im Internet unter www.beu.bund.de eingestellt.
+Sh 3 
 
-1.2 Ziel der Eisenbahnunfalluntersuchung
-Ziel und Zweck der Untersuchungen ist es, die Ursachen von gefährlichen Ereignissen aufzuklären und hieraus Hinweise zur Verbesserung der Sicherheit abzuleiten. Untersuchungen der
-BEU dienen nicht dazu, ein Verschulden festzustellen oder Fragen der Haftung oder sonstiger
-zivilrechtlicher Ansprüche zu klären und werden unabhängig von jeder gerichtlichen Untersuchung durchgeführt.
-Die Untersuchung umfasst die Sammlung und Auswertung von Informationen, die Erarbeitung
-von Schlussfolgerungen einschließlich der Feststellung der Ursachen und gegebenenfalls die
-Abgabe von Sicherheitsempfehlungen. Die Vorschläge der Untersuchungsstelle zur Vermei-
+Tf 
 
-Seite 1 von 21
+VzG 
 
-Untersuchungsbericht
-Vorbeifahrt eines Zuges am Haltbegriff, 24.04.2015, Ruhland
+Ww 
 
-dung von Unfällen und Verbesserung der Sicherheit im Eisenbahnverkehr werden der Sicherheitsbehörde und, soweit erforderlich, anderen Stellen und Behörden oder anderen Mitgliedstaaten der EU in Form von Sicherheitsempfehlungen mitgeteilt.
+Zs 1 
 
-Seite 2 von 21
+Signalbild, Bedeutung: „Halt“ 
 
-Untersuchungsbericht
-Vorbeifahrt eines Zuges am Haltbegriff, 24.04.2015, Ruhland
+Richtlinie 
 
-2 Zusammenfassung
-Das Kapitel befasst sich mit einer kurzen Darstellung des Ereignisherganges, den Folgen und
-den Primärursachen. Abschließend werden eventuell erteilte Sicherheitsempfehlungen aufgeführt.
+Signalbild – Kreissignal, Bedeutung: „Sofort halten“ 
 
-2.1 Kurzbeschreibung des Ereignisses
-Am 24.04.2015 gegen 22:45 Uhr fuhr der Zug DGS 95312 auf der Fahrt von StraßgräbchenBernsdorf (Oberlausitz) nach Consrade unzulässig am Halt zeigenden Ausfahrsignal (Asig) F5
-des Bahnhofs (Bf) Ruhland vorbei und gefährdete dadurch die Zugfahrt Bauz 63009. Beide
-Züge wurden durch Nothaltau rag gestellt und kamen ca. 25 m voneinander en ernt zum
-Halten.
+Triebfahrzeugführer 
 
-2.2 Folgen
-Bei dem Ereignis wurden keine Personen verletzt oder getötet. Die doppelte Kreuzungsweiche
-(DKW) 7 wurde aufgefahren. Sachschäden an der vorhandenen Infrastruktur oder an den beteiligten Fahrzeugen entstanden nicht.
+Verzeichnis der zulässigen Geschwindigkeiten 
 
-2.3 Ursachen
-Das Ereignis wurde durch einen Verstoß gegen die Richtlinie (Ril) 301 - Signalbuch ausgelöst.
+Weichenwärter / Weichenwärterin 
 
-2.4 Sicherheitsempfehlungen
-Durch die BEU ergehen keine Sicherheitsempfehlungen.
+Signalbild – Ersatzsignal, Bedeutung: „Am Signal Hp 0 oder am gestörten 
 
-Seite 3 von 21
+Lichthauptsignal ohne schriftlichen Befehl vorbeifahren“ 
 
-Untersuchungsbericht
-Vorbeifahrt eines Zuges am Haltbegriff, 24.04.2015, Ruhland
+Zs 6 
 
-3 Allgemeine Angaben
-Das Kapitel beinhaltet allgemeine Angaben zur Beschreibung des Ereignisortes und der relevanten Bahnanlagen. Des Weiteren werden die an der Unfalluntersuchung beteiligten und
-mitwirkenden Stellen, die äußeren Bedingungen, die Anzahl der bei dem Ereignis verletzten
-und getöteten Personen sowie Art und Höhe der Folgeschäden benannt.
+Signalbild  –  Gegengleisanzeiger,  Bedeutung:  „Der  Fahrweg  führt  in  das 
 
-3.1 Lage und Beschreibung des Ereignisortes
-Ruhland ist eine Stadt im Landkreis Oberspreewald-Lausitz im Südosten des Landes Brandenburg. Sie liegt ca. 30 km westlich von Hoyerswerda, ca. 25 km östlich von Elsterwerda und ca.
-15 km südwestlich von Senftenberg.
+Streckengleis entgegen der gewöhnlichen Fahrtrichtung“ 
 
-Abbildung 1: Lageplan1
+IV 
 
-Die Vorbeifahrt am Haltbegriff ereignete sich auf der elektrifizierten Hauptbahn von Horka
-Grenze nach Roßlau im Bf Ruhland. Die Strecke wird im Verzeichnis der zulässigen Geschwindigkeiten (VzG) unter der Nummer 6207 geführt. Im Bereich des gefährlichen Ereignisses war
-sie zweigleisig. Die Ereignisstelle befand sich am Asig F5 im Bf Ruhland, etwa in km 98,8. Die
+ 
+ 
+Untersuchungsbericht 
 
-1
+Vorbeifahrt eines Zuges am Haltbegriff, 24.04.2015, Ruhland 
 
-Quelle: Geobasisdaten © GeoBasis-DE / BKG [2020], bearbeitet durch BEU
+1  Vorbemerkungen	
 
-Seite 4 von 21
+Das Kapitel Vorbemerkungen befasst sich mit allgemeinen Informa(cid:415)onen zur Bundesstelle für 
 
-Untersuchungsbericht
-Vorbeifahrt eines Zuges am Haltbegriff, 24.04.2015, Ruhland
+Eisenbahnunfalluntersuchung (BEU). Dabei wird die gesetzliche Grundlage genannt und die 
 
-benachbarten Betriebsstellen waren der Bf Schwarzbach und der Bf Lauchhammer. Dieser Abschnitt durfte gemäß VzG mit einer maximal zulässigen Geschwindigkeit von 100 km/h befahren werden und war für einen Bremsweg von 700 m ausgelegt.
-Die Strecke war teilweise mit dem digitalen Zugfunk Global System for Mobile Communicaons Rail (GSM-R) ausgerüstet. Im Bereich des Bf Ruhland erfolgte die Kommunika on über
-eine Bahnhofsfernsprechverbindung als Ringleitung. Eine Streckenfernsprechverbindung bestand nach Schwarzbach (b Ruhland), Brieske, Ortrand und Lauchhammer. Als Zugsicherungssystem kam die punk örmige Zugbeeinflussung (PZB) zur Anwendung.
-Die in Abbildung 2 dargestellte Gleislageskizze zeigt die Situa on im Bf Ruhland zum Ereigniszeitpunkt.
+Au(cid:297)auorganisa(cid:415)on kurz umrissen. 
 
-Abbildung 2: Gleislageskizze Bf Ruhland2
+1.1  Organisatorischer	Hinweis	
 
-Die Abbildung 3 zeigt den Bereich der DKW 7 im Bf Ruhland und stellt die Richtung des eingestellten Fahrweges des Bauz 63009 (blau) und die Fahrtrichtung des DGS 95312 (rot) dar.
+Mit der Richtlinie (EU) 2016/798 des Europäischen Parlaments und des Rates zur Eisenbahn-
 
-2
+sicherheit  in  der  Gemeinschaft  (Eisenbahnsicherheitsrichtlinie)  wurden  die  Mitgliedstaaten 
 
-Quelle: Bahnhofsplan DB Netz AG, bearbeitet durch BEU
+der Europäischen Union (EU) verpflichtet, unabhängige Untersuchungsstellen für die Unter-
 
-Seite 5 von 21
+suchung bestimmter gefährlicher Ereignisse einzurichten. 
 
-Untersuchungsbericht
-Vorbeifahrt eines Zuges am Haltbegriff, 24.04.2015, Ruhland
+Diese  Richtlinie  wurde  mit  dem  Gesetz  zur  Neuordnung  der  Eisenbahnunfalluntersuchung 
 
-Abbildung 3: Bf Ruhland (nicht zum Ereigniszeitpunkt) DKW 7 Fahrwege der Züge3
+vom 27. Juni 2017 und der Eisenbahn-Unfalluntersuchungsverordnung vom 05.07.2007, die 
 
-3.2 Beteiligte und Mitwirkende
-Am Ereignis waren folgende Stellen beteiligt:
-
+durch Artikel 1 der Verordnung vom 26.11.2019 geändert worden ist, umgesetzt. Die BEU ist 
 
-DB Netz AG als Eisenbahninfrastrukturunternehmen (EIU)
+eine Bundesoberbehörde im Geschäftsbereich des Bundesministeriums für Verkehr und digi-
 
-
+tale Infrastruktur. 
 
-ITL Eisenbahngesellschaft mbH als Eisenbahnverkehrsunternehmen (EVU)
+Gemäß § 6 Abs. 2 des Bundeseisenbahnverkehrsverwaltungsgesetzes (BEVVG) wurde der Sitz 
 
-Für das EIU lag eine Sicherheitsgenehmigung gemäß § 7c AEG des Eisenbahn-Bundesamtes
-vom 19.04.2011 vor, die bis zum 19.10.2016 galt.
+und Aufbau der BEU im „Organisationserlass zur Errichtung der Bundesstelle für Eisenbahnun-
 
-3
+falluntersuchung“ des Bundesministeriums für Verkehr und digitale Infrastruktur festgelegt 
 
-Quelle: DB Netz AG, bearbeitet durch BEU
+und die BEU zum 14.07.2017 errichtet. 
 
-Seite 6 von 21
+Näheres hierzu ist im Internet unter www.beu.bund.de eingestellt. 
 
-Untersuchungsbericht
-Vorbeifahrt eines Zuges am Haltbegriff, 24.04.2015, Ruhland
+1.2  Ziel	der	Eisenbahnunfalluntersuchung	
 
-Das EVU verfügte über eine Sicherheitsbescheinigung gemäß § 7a AEG aus dem Jahre 2013,
-mit einer Gül gkeit bis zum 04.07.2018 und war damit zur der Teilnahme am Eisenbahnbetrieb berech gt.
-Weitere Stellen wurden in die Ermi lung der Ereignisursache nicht einbezogen.
+Ziel und Zweck der Untersuchungen ist es, die Ursachen von gefährlichen Ereignissen aufzu-
 
-3.3 Äußere Bedingungen
-Zum Zeitpunkt des Ereignisses herrschten folgende Bedingungen:
-Lichtverhältnisse
+klären und hieraus Hinweise zur Verbesserung der Sicherheit abzuleiten. Untersuchungen der 
 
-Dunkelheit
+BEU dienen nicht dazu, ein Verschulden festzustellen oder Fragen der Haftung oder sonstiger 
 
-Sicht
+zivilrechtlicher Ansprüche zu klären und werden unabhängig von jeder gerichtlichen Untersu-
 
-klar
+chung durchgeführt. 
 
-Bedeckung
+Die Untersuchung umfasst die Sammlung und Auswertung von Informationen, die Erarbeitung 
 
-heiter
+von Schlussfolgerungen einschließlich der Feststellung der Ursachen und gegebenenfalls die 
 
-Temperaturen
+Abgabe von Sicherheitsempfehlungen. Die Vorschläge der Untersuchungsstelle zur Vermei-
 
-15°C
+Seite 1 von 21 
 
-fallender Niederschlag
+ 
+ 
+Untersuchungsbericht 
 
-Nein
+Vorbeifahrt eines Zuges am Haltbegriff, 24.04.2015, Ruhland 
 
-Niederschlagshäufigkeit
+dung von Unfällen und Verbesserung der Sicherheit im Eisenbahnverkehr werden der Sicher-
 
---
+heitsbehörde und, soweit erforderlich, anderen Stellen und Behörden oder anderen Mitglied-
 
-Untergrund / gefallener Niederschlag
+staaten der EU in Form von Sicherheitsempfehlungen mitgeteilt. 
 
-trocken
+Seite 2 von 21 
 
-Tabelle 1: Übersicht der äußeren Bedingungen
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Feststellung zu den äußeren Bedingungen
-Lfd. Nr. 1
-Die äußeren Bedingungen, wie z. B. das We er, standen in keinem erkennbaren kausalen
-Zusammenhang mit der Ereignisursache.
+Vorbeifahrt eines Zuges am Haltbegriff, 24.04.2015, Ruhland 
 
-3.4 Todesopfer, Verletzte und Sachschäden
-Bei dem Ereignis traten keine Personen- oder Sachschäden ein.
+2  Zusammenfassung	
 
-Seite 7 von 21
+Das Kapitel befasst sich mit einer kurzen Darstellung des Ereignisherganges, den Folgen und 
 
-Untersuchungsbericht
-Vorbeifahrt eines Zuges am Haltbegriff, 24.04.2015, Ruhland
+den Primärursachen. Abschließend werden eventuell erteilte Sicherheitsempfehlungen auf-
 
-4 Untersuchungsprotokoll
-In diesem Kapitel werden die ermi elten Ergebnisse zu einzelnen in Zusammenhang mit dem
-Ereignis stehenden Teilbereichen des Eisenbahnwesens dargestellt. Daneben wurden auch die
-entsprechenden Schni stellen sowie das Sicherheitsmanagement im betroﬀenen Bereich betrachtet. Die jeweilig relevanten Erkenntnisse werden fortlaufend aufgeführt.
+geführt. 
 
-4.1 Zusammenfassung von Aussagen und Stellungnahmen
-In den folgenden Abschni en werden die wich gsten Aussagen und Stellungnahmen einiger
-Beteiligter zusammengefasst dargestellt. Diese wurden dem jeweiligen Arbeitgeber gegenüber abgelegt.
-4.1.1 Stellungnahme des Fahrdienstleiters (Fdl)
-Der Fdl auf dem Befehlsstellwerk B1 im Bf Ruhland gab an, dass der DGS 95312 aus Richtung
-Schwarzbach kommend, gegen 22:37 Uhr Einfahrt nach Gleis 5 erhielt. Dieser Zug hä e im Bf
-Ruhland mit dem aus Lauchammer kommenden Bauz 63009 kreuzen sollen. Der Fdl erklärte
-ferner, dass er nach Ankun des DGS 95312 die Fahrstraße für den Bauz 63009 zur Durchfahrt
-über Gleis 7 eingestellt habe. Anschließend hä e er bemerkt, dass der DGS 95312 am Haltzeigenden Signal F5 vorbei- und auf die DKW 7 zugefahren wäre, die bereits für die Durchfahrt
-des Bauz 63009 gestellt gewesen sei. Er habe nun die Weichenwärterin (Ww) beau ragt, den
-DGS 95312 mit Signal Sh 3 (Kreissignal) zu stoppen, während er selbst über Zugfunk einen
-Nothaltau rag gegeben hä e.
-4.1.2 Stellungnahme der Ww auf W2
-Die Ww auf dem Wärterstellwerk W2 im Bf Ruhland sagte aus, dass sie gegen 22:43 Uhr die
-Einfahrt des DGS 95312 auf Gleis 5 des Bf Ruhland beobachtet habe. Die Einfahrt des Zuges
-wäre ihrer Ansicht nach langsam genug gewesen, um vor dem Hp 0 zeigenden Asig F5 stehen
-zu bleiben. Sie sei davon ausgegangen, dass der DGS 95312 vor dem Asig stehen bleiben
-würde. Die Ww habe nun auch die aus Richtung Lauchhammer langsam einfahrende Zugfahrt
-Bauz 63009 beobachtet und dabei bemerkt, dass der DGS 95312 am haltzeigenden Signal F5
-vorbeigefahren sei. Daraufhin habe Sie unter Zuhilfenahme einer Lampe das Signal Sh 3 ausgeführt und den DGS 95312 zum Halt aufgefordert, während der Fdl per Zugfunk einen Nothaltauftrag gegeben habe.
+2.1  Kurzbeschreibung	des	Ereignisses	
 
-Seite 8 von 21
+Am 24.04.2015 gegen 22:45 Uhr fuhr der Zug DGS 95312 auf der Fahrt von Straßgräbchen-
 
-Untersuchungsbericht
-Vorbeifahrt eines Zuges am Haltbegriff, 24.04.2015, Ruhland
+Bernsdorf (Oberlausitz) nach Consrade unzulässig am Halt zeigenden Ausfahrsignal (Asig) F5 
 
-4.1.3 Stellungnahme des Triebfahrzeugführers (Tf) des DGS 95312
-Der Tf des DGS 95312 erklärte, er sei gegen 22:45 Uhr in den Bf Ruhland eingefahren. Er habe
-etwa eine Länge vor dem das Signalbild Hp 0 zeigenden Asig F5 das Zusatzsignal Zs 6 erkannt.
-Er hä e geglaubt, er könne mit Ersatzsignal Zs 1 in das Gegengleis fahren. Anschließend habe
-er die Befehlstaste gedrückt und sei am Signal F5 vorbeigerollt. Dann hä e er das Kreissignal
-im Fenster des Fdl erkannt und angehalten. Ihm sei sofort bewusst gewesen, dass er etwas
-falsch gemacht habe. Nach dem Halt hä e er dann auch über Zugfunk den Nothaltau rag des
-Fdl empfangen. Auf Weisung des No allmanagers habe er den Zug nach der Überprüfung der
-durch ihn aufgefahrenen Weiche zurückgesetzt und anschießend mit Zus mmung seines EVU
-und des No allmanagers seine Fahrt fortgesetzt.
+des  Bahnhofs  (Bf)  Ruhland  vorbei  und  gefährdete  dadurch  die  Zugfahrt  Bauz  63009.  Beide 
 
-4.2 Notfallmanagement
-Nach § 4 Abs. 3 AEG haben die Eisenbahnen die Verpflichtung, an Maßnahmen des Brandschutzes und der technischen Hilfeleistung mitzuwirken. In einer Vereinbarung zwischen den
-Innenministerien der Länder und der DB AG hat man sich auf eine Verfahrensweise verständigt. Für die DB Netz AG gelten die entsprechenden Brand- und Katastrophenschutzgesetze
-der Länder. Das No allmanagement der DB AG ist in der Konzernrichtlinie 123, das der DB
-Netz AG in der Richtlinie (Ril) 423 näher beschrieben und geregelt.
-Erkenntnisse, dass es beim No allmanagement zu Verzögerungen, Störungen etc. gekommen
-sein könnte liegen nicht vor.
-Feststellungen zum No allmanagement
-Lfd. Nr. 2
-Auf die Untersuchung wurde verzichtet, da weder Personen zu re en, noch Folgesach- oder
-Umweltschäden abzuwenden waren.
+Züge wurden durch Nothaltau(cid:332)rag gestellt und kamen ca. 25 m voneinander en(cid:414)ernt zum 
 
-Seite 9 von 21
+Halten. 
 
-Untersuchungsbericht
-Vorbeifahrt eines Zuges am Haltbegriff, 24.04.2015, Ruhland
+2.2  Folgen	
 
-4.3 Untersuchung der bautechnischen Infrastruktur
-Der Bf Ruhland erstreckte sich von km 97,685 bis km 99,45 der VzG- Strecke 6207. Er verfügte
-gemäß der zum Unfallzeitpunkt gül gen örtlichen Richtlinie über 4 durchgehende Hauptgleise
-der VzG-Strecken 6207 und 6253 sowie über weitere 9 Hauptgleise und 18 Nebengleise, von
-denen sechs s llgelegt und drei gesperrt waren. Im Rahmen der Betriebs- und Bauanweisung
-(Betra) F 410247 15 war zum Ereigniszeitpunkt zusätzlich das Gleis 4 im Bf Ruhland von der
-Spitze der Weiche 6 bis zum Einfahrsignal (Esig) A und das Streckengleis nach Lauchhammer
-gesperrt.
-Während des Ereignisses wurde die DKW 7 aufgefahren, ohne dass an der Weiche ein Schaden
-entstand.
-Im Rahmen der Ermi lungen konnte eine Ereignisursache in den Anlagen der bautechnischen
-Infrastruktur ausgeschlossen werden. Weitere Untersuchungen erfolgten daher nicht.
-Feststellung zur Untersuchung der bautechnischen Infrastruktur
-Lfd. Nr. 3
-Die Untersuchung der bautechnischen Infrastruktur ergab keine für das Ereignis ursächlichen oder begüns genden Mängel.
+Bei dem Ereignis wurden keine Personen verletzt oder getötet. Die doppelte Kreuzungsweiche 
 
-4.4 Untersuchung der Leit‐ und Sicherungstechnik
-Der Betrieb im Bf Ruhland wurde vom Fdl auf dem Stellwerk (Stw) B1 der Bauform GS I DR ca.
-in km 99,0 geleitet. Zusätzlich gab es die Wärterstellwerke W2 am Standort des Stw B1 und
-W3 ca. in km 98,0 (beide ebenfalls Bauform GS I DR).
-Das Wärterstellwerk W2 war im Regelbetrieb nicht besetzt. Die Aufgaben der Ww wurden
-dann vom Fdl wahrgenommen. Im Rahmen der Betra F 410247 15 wurde das Stw W2 entsprechend den Festlegungen laut Abschnitt 5.2.7 vorübergehend wiederbesetzt.
-Der Fahrwegprüfbezirk in Richtung Stw W3 auf den Gleisen 2 bis 8 konnte durch die Ww auf
-Stw W2 bzw. durch den Fdl auf Stw B1 nicht auf der vollen Länge durch Hinsehen geprüft
-werden. Deshalb war eine Fernbeobachtungsanlage zur Fahrwegprüfung für diese Gleise installiert. Damit konnte die Ww bzw. der Fdl die Feststellungen auf Freisein im nicht direkt
-einsehbaren Bereich mit der Fernbeobachteranlage treffen.
+(DKW) 7 wurde aufgefahren. Sachschäden an der vorhandenen Infrastruktur oder an den be-
 
-Seite 10 von 21
+teiligten Fahrzeugen entstanden nicht. 
 
-Untersuchungsbericht
-Vorbeifahrt eines Zuges am Haltbegriff, 24.04.2015, Ruhland
+2.3  Ursachen	
 
-Im Bf Ruhland war eine Mehrfachfernsprechanlage MF 84 (Bauart Neumann) vorhanden.
-Eine Gleisfreimeldeanlage (Achszähler) war zum Unfallzeitpunkt nur für das Ein- und Ausfahrgleis in bzw. aus Richtung Ortrand vorhanden. In sie waren die für das Ereignis relevanten
-Gleisabschni e im Bf Ruhland nicht einbezogen.
-Für den Zeitraum der Betra F 410247 15 wurden die vorhandenen Signalanlagen nach einer
-genehmigten Ausführungsplanung geändert. Die Asig F4, F5, G und H wurden mit Formsignal
-Zs 6 ausgerüstet, sowie ein einzeln stehendes Formsignal Zs 6 am Grenzzeichen der Weiche
-29 aufgestellt.
-Die Ausfahrt in Richtung Lauchhammer wurde mi els Hilfsfahrstraßen (Fahrstraße der Gegenrichtung) gesichert und mit Zs 1 in Verbindung mit Formsignal Zs 6 zugelassen.
-Anzeichen, dass Mängel in der Leit- und Sicherungstechnik für das Ereignis ursächlich waren,
-konnten nicht festgestellt werden. Daher erfolgten diesbezüglich keine weiteren Untersuchungen.
-Feststellung zur Untersuchung der Leit‐ und Sicherungstechnik
-Lfd. Nr. 4
-Die Untersuchung ergab keine für das Ereignis ursächlichen oder begüns genden Mängel
-an den Anlagen der Leit- und Sicherungstechnik.
+Das Ereignis wurde durch einen Verstoß gegen die Richtlinie (Ril) 301 - Signalbuch ausgelöst. 
 
-4.5 Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers
-Der Betrieb im Bf Ruhland wurde entsprechend der gül gen Richtlinie 408 -Züge fahren und
-Rangieren- durch den Fdl im Stw B1 und durch einen Ww im Wärterstellwerk W3 durchgeführt. Auf dem Wärterstellwerk W2 war zum Ereigniszeitpunkt vorübergehend eine Ww eingesetzt.
-Der Einsatz des Fdl erfolgte innerhalb der regulären Arbeitszeit. Ruhezeiten wurden eingehalten. Er nahm regelmäßig an Schulungen und Weiterbildungen auf dem Gebiet des Eisenbahnbetriebs teil, letztmalig am 04. Februar 2015. Die örtliche Verwendungsprüfung und Tauglichkeit waren nachgewiesen.
-Gemäß den vorliegenden Unterlagen erfolgte auch der Einsatz der Ww auf dem Stw W2 entsprechend dem Regelwerk. Die Arbeits- und Ruhezeiten waren eingehalten. Die Ww nahm
+2.4  Sicherheitsempfehlungen	
 
-Seite 11 von 21
+Durch die BEU ergehen keine Sicherheitsempfehlungen.  
 
-Untersuchungsbericht
-Vorbeifahrt eines Zuges am Haltbegriff, 24.04.2015, Ruhland
+Seite 3 von 21 
 
-regelmäßig und kon nuierlich, letztmalig am 22. Januar 2015, am Fortbildungsunterricht teil.
-Seit dem 20.04.2015 war sie regelmäßig auf dem Stw W2 in Ruhland eingesetzt gewesen. Ihre
-örtliche Prüfung für den Arbeitsplatz fand gemäß den personellen Aufschreibungen am
-09.04.2015 sta . Die Tauglichkeit für die Tä gkeit als Ww war nachgewiesen.
-Der Ww auf dem Wärterstellwerk W3 war an den für das Ereignis relevanten betrieblichen
-Handlungen nicht beteiligt. Dessen Befähigung und Handlungen wurden deshalb nicht weiter
-untersucht.
-Im Bf Ruhland fanden in der Zeit vom 17.04.2015, 07:00 Uhr bis 27.04.2015, 18:00 Uhr Bauarbeiten im Rahmen der Betra Nr. F 410247 15 „Gleiserneuerung, Schienenauswechslung sowie
-Einzelschwellenwechsel im Gleis Ruhland – Lauchhammer“ statt. Im Rahmen dieser Betra
-wurde die Betriebsweise „Fahren von Zügen ohne Fahrtstellung eines Hauptsignals“ entsprechend den Regelungen der Ril 406.1104 zugelassen.
-Das Gleis 4 im Bf Ruhland zwischen der Spitze der Weiche 6 und Höhe Esig A, das anschließende Gleis Ruhland – Lauchhammer zwischen Höhe Esig A Bf Ruhland und dem Esig A Bf
-Lauchhammer und das anschließende Gleis 2A Bf Lauchhammer zwischen dem Esig A und dem
-Zwischensignal H wurde in der Zeit vom 18.04.2015 um 00:00 Uhr durchgehend bis zum
-27.04.2015 um 04:00 Uhr gesperrt. Eine Sh 2-Scheibe wurde angebracht. Die gesperrten Gleisabschnitte wurden, wie in der Abbildung 4 ersichtlich, entsprechend Ril 408.0902, Abschnitt
-3, zu Baugleisen erklärt.
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Abbildung 4: Auszug aus Betra F 210247 154
+Vorbeifahrt eines Zuges am Haltbegriff, 24.04.2015, Ruhland 
 
-4
+3  Allgemeine	Angaben	
 
-Quelle: DB Netz AG Betra F 210247 15, bearbeitet durch BEU
+Das Kapitel beinhaltet allgemeine Angaben zur Beschreibung des Ereignisortes und der rele-
 
-Seite 12 von 21
+vanten  Bahnanlagen.  Des  Weiteren  werden  die  an  der  Unfalluntersuchung  beteiligten  und 
 
-Untersuchungsbericht
-Vorbeifahrt eines Zuges am Haltbegriff, 24.04.2015, Ruhland
+mitwirkenden Stellen, die äußeren Bedingungen, die Anzahl der bei dem Ereignis verletzten 
 
-Vorübergehend wurde das Fahren auf dem Gegengleis in der Relation Bf Ruhland – Bf Lauchhammer angeordnet. Zugfahrten vom Bf Ruhland in Richtung Bf Lauchhammer verkehrten im
-Gegengleis nach dem Verfahren „Vorübergehend angeordnetes Fahren auf dem Gegengleis
-mit Zs 1 und Formsignal Zs 6“.
-Die Sicherung der Fahrwege erfolgte gemäß den Verzeichnissen der Hilfsfahrstraßen im Bf
-Ruhland und im Bf Lauchhammer.
-Die Betra F 410247 15 lag zeitgerecht im Stw aus. Der Fdl und die Ww waren in diese eingewiesen. Es liegen keine Hinweise vor, dass die Umsetzung der Betra zu Beeinträch gungen im
-Dienstablauf des Fdl oder der Ww geführt hat.
-Der DGS 95312 sollte aus Gleis 5 über die DKW 7 in Richtung Lauchhammer aus dem Bf Ruhland ausfahren. Zuvor sollte jedoch der Bauz 63009, aus Richtung Lauchhammer kommend, in
-den Bf nach Gleis 7 fahren. Die Fahrstraße a/7 für die Zugfahrt war eingestellt und festgelegt.
-Die nachfolgende Systemskizze stellt den Fahrweg des Bauz 63009 durch die DKW 7 dar.
+und getöteten Personen sowie Art und Höhe der Folgeschäden benannt. 
 
-Abbildung 5: DKW 7 Systemskizze Fahrweg Bauz 630095
+3.1  Lage	und	Beschreibung	des	Ereignisortes	
 
-Für die Ausfahrt von Zügen aus Gleis 5 in Richtung Lauchhammer, so auch für den DGS 95312,
-musste gemäß dem Verzeichnis der Hilfsfahrstraßen jeweils die Fahrstraße a/5 (Fahrstraße
-der Gegenrichtung) vom Esig A über die DKW 7 und die Weiche 12 eingestellt werden. Die
-Ausfahrt der Züge erfolgte auf Zs 1 am haltzeigenden Asig F5 in Verbindung mit Zs 6.
+Ruhland ist eine Stadt im Landkreis Oberspreewald-Lausitz im Südosten des Landes Branden-
 
-5
+burg. Sie liegt ca. 30 km westlich von Hoyerswerda, ca. 25 km östlich von Elsterwerda und ca. 
 
-Quelle: DB AG, bearbeitet durch BEU
+15 km südwestlich von Senftenberg. 
 
-Seite 13 von 21
+Abbildung 1: Lageplan1 
 
-Untersuchungsbericht
-Vorbeifahrt eines Zuges am Haltbegriff, 24.04.2015, Ruhland
+Die Vorbeifahrt am Haltbegriff ereignete sich auf der elektrifizierten Hauptbahn von Horka 
 
-Abbildung 6: DKW 7 Systemskizze Fahrweg DGS 953126
+Grenze nach Roßlau im Bf Ruhland. Die Strecke wird im Verzeichnis der zulässigen Geschwin-
 
-Der Fahrweg des DGS durch die DKW 7 ist in der Systemskizze laut Abbildung 6 zu erkennen.
-Die Fahrstraßen a/5, hier als Hilfsfahrstraße für den DGS 95312, und a/7 für den Bauz 63009
-schließen einander aus, da sie beide die DKW 7 in unterschiedlichen Rela onen als Fahrstraßenelement enthalten.
-Um die Zugfahrt DGS 95312 zuzulassen, hä e der Fdl das Zs 1 am Signal F5 bedienen müssen.
-Im Nachweis der Zählwerke war als letzter Eintrag die Nummer 6005 für eine zählpflich ge
-Handlung durch die Ww oder den Fdl um 21:14 Uhr für die Zugfahrt 95287 ausgewiesen. Das
-Zählwerk für das Ersatzsignal zeigte die Nummer 6005. Eine Betä gung des Ersatzsignals zum
-Zeitpunkt der Zugfahrt DGS 95312 konnte daher ausgeschlossen werden.
-Der Fdl erkannte bei seiner Zugbeobachtung, dass der DGS 95312 unzulässig am Asig F5 vorbeigefahren war. Er erteilte der Ww die Weisung, Sh 3 zu geben und setzte einen Nothaltauftrag ab.
-Eine Fehlhandlung des Fdl auf Stw B1 oder der Ww auf Stw W2 war nicht feststellbar.
+digkeiten (VzG) unter der Nummer 6207 geführt. Im Bereich des gefährlichen Ereignisses war 
 
-6
+sie zweigleisig. Die Ereignisstelle befand sich am Asig F5 im Bf Ruhland, etwa in km 98,8. Die 
 
-Quelle: DB AG, bearbeitet durch BEU
+1 Quelle: Geobasisdaten © GeoBasis-DE / BKG [2020], bearbeitet durch BEU 
 
-Seite 14 von 21
+Seite 4 von 21 
 
-Untersuchungsbericht
-Vorbeifahrt eines Zuges am Haltbegriff, 24.04.2015, Ruhland
+ 
+ 
+ 
+                                                       
+Untersuchungsbericht 
 
-Feststellung zur Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers
-Lfd. Nr. 5
-Die Untersuchung ergab keine für das Ereignis ursächlichen oder begüns genden Mängel in
-den betrieblichen Abläufen beim Infrastrukturbetreiber.
+Vorbeifahrt eines Zuges am Haltbegriff, 24.04.2015, Ruhland 
 
-4.6 Untersuchung der betrieblichen Abläufe der EVU
-Der Tf des Zuges DGS 95312 war als Eisenbahner im Betriebsdienst ausgebildet. Sein Triebfahrzeugführerschein der Klasse 3 war da ert aus dem Jahre 2003. Laut Beibla zum Führerschein war er berech gt Triebfahrzeuge der BR 285 zu führen.
-Der Einsatz des Tf erfolgte entsprechend den gül gen Regelungen. Die Arbeits- und Ruhezeiten waren eingehalten. Er nahm regelmäßig, zuletzt vor dem Ereignis im September 2014, an
-Fortbildungsmaßnahmen teil. Die letzte Überwachung des Tf vor dem Ereignis erfolgte im Februar 2015. Die Tauglichkeit war nachgewiesen.
-Streckenkenntnis war vorhanden, der letzte Einsatz des Tf auf der Strecke erfolgte im November 2014, also vor den Baumaßnamen laut Betra F 410247 15.
-Gemäß dem Buchfahrplan sollte der DGS 95312 von Straßgräbchen-Bernsdorf nach Consrade
-fahren. Seine Länge sollte 529 m und sein Gewicht 2.800 t betragen. Die erforderlichen Mindestbremshundertstel waren mit 59 angegeben. Für den Zug war im Bereich des Bf Ruhland
-eine Geschwindigkeit von 70 km/h ausgewiesen.
-Die Auswertung des Fahrtverlaufs wurde durch das beteiligte EVU selbst durchgeführt. Die
-graphische Darstellung des Fahrtverlaufs des DGS 95312 ist in Abbildung 7 zu sehen.
-Der Zug fuhr im dargestellten Zeitraum nicht schneller als 20 km/h. Der Tf verzögerte ca. eine
-Minute vor dem Passieren des Asig F5 mit einer Betriebsbremsung auf etwa 10 km/h. Bei der
-Vorbeifahrt am Asig F5 wurde eine 2.000 Hz-Beeinflussung sowie die Bedienung der Befehlstaste registriert.
+benachbarten Betriebsstellen waren der Bf Schwarzbach und der Bf Lauchhammer. Dieser Ab-
 
-Seite 15 von 21
+schnitt durfte gemäß VzG mit einer maximal zulässigen Geschwindigkeit von 100 km/h befah-
 
-Untersuchungsbericht
-Vorbeifahrt eines Zuges am Haltbegriff, 24.04.2015, Ruhland
+ren werden und war für einen Bremsweg von 700 m ausgelegt. 
 
-Abbildung 7: Graphische Darstellung des Fahrtverlaufs des DGS 953127
+Die Strecke war teilweise mit dem digitalen Zugfunk Global System for Mobile Communica-
 
-Abbildung 8: Tabellarische Darstellung des Fahrtverlaufs des DGS 59312 (Auszug)8
+(cid:415)ons Rail (GSM-R) ausgerüstet. Im Bereich des Bf Ruhland erfolgte die Kommunika(cid:415)on über 
 
-7
+eine Bahnhofsfernsprechverbindung als Ringleitung. Eine Streckenfernsprechverbindung be-
 
-Quelle ITL
+stand nach Schwarzbach (b Ruhland), Brieske, Ortrand und Lauchhammer. Als Zugsicherungs-
 
-8
+system kam die punk(cid:414)örmige Zugbeeinﬂussung (PZB) zur Anwendung. 
 
-Quelle: ITL, bearbeitet durch die BEU
+Die in Abbildung 2 dargestellte Gleislageskizze zeigt die Situa(cid:415)on im Bf Ruhland zum Ereignis-
 
-Seite 16 von 21
+zeitpunkt. 
 
-Untersuchungsbericht
-Vorbeifahrt eines Zuges am Haltbegriff, 24.04.2015, Ruhland
+Abbildung 2: Gleislageskizze Bf Ruhland2 
 
-Der Tf beschleunigte danach wieder und fuhr am Halt zeigenden Asig F5 im Bf Ruhland vorbei.
-Der Tf leitete gemäß seiner eigenen Aussage eine Schnellbremsung ein, nachdem er das Signal
-Sh 3, das auf dem Stw gegeben worden war, wahrgenommen ha e. Die Schnellbremsung
-wurde ca. 240 m hinter dem Asig F5 bei einer Geschwindigkeit von 16 km/h wirksam. Der Zug
-kam mit der Spitze etwa in km 99,14, also ca. 360 m hinter dem Asig F5, zum Halt. Während
-der Verzögerung infolge der Schnellbremsung ha e er die DKW 7, die für die Fahrt des Bauz
-63009 in der Rela on b-c entsprechend der Systemskizze in Abbildung 5 gestellt worden war,
-mit dem Triebfahrzeug in der Rela on d-b passiert und aufgefahren.
-Durch die eingeleitete Schnellbremsung war die Geschwindigkeit des Zuges beim Befahren
-der DKW so gering, dass Schäden an der Kreuzungsweiche oder an den Fahrzeugen nicht entstanden.
-Der Bauz 63009 sollte von Coswig (bei Dresden) nach Eisenhü enstadt fahren. Im Buchfahrplan war seine Länge mit 441 m, sein Gewicht mit 1.750 t und die erforderlichen Mindestbremshundertstel mit 62 angegeben. Der Zug fuhr, aus Richtung Lauchhammer kommend, auf
-der eingestellten und festgelegten Fahrstraße a/7 mit Fahrtstellung am Esig A im Regelgleis in
-den Bf Ruhland ein. Laut Buchfahrplan war im Bf Ruhland eine maximale Geschwindigkeit von
-40 km/h vorgegeben. Der Zug wurde mit einem Nothaltau rag des Fdl gestellt und kam ca.
-500 m hinter dem Esig A zum Halt. Ein ursächlicher Einfluss der Handlungen des Tf dieses Zuges
-auf das Ereignis war nicht erkennbar. Daher erfolgten bezüglich dieser Zugfahrt keine weiteren
-Untersuchungen.
-Feststellung zur Untersuchung der betrieblichen Abläufe des EVU
-Lfd. Nr. 6
-Der Tf des DGS 95312 fuhr am Halt zeigenden Asig F5 vorbei.
-Der Zug erhielt bei der Vorbeifahrt eine 2.000 Hz-Beeinflussung.
-Der Tf des DGS 95312 verhinderte eine Zwangsbremsung durch Bedienen der Befehlstaste.
+Die Abbildung 3 zeigt den Bereich der DKW 7 im Bf Ruhland und stellt die Richtung des einge-
 
-4.7 Untersuchung von Fahrzeugen
-Der DGS 95312 bestand einschließlich des Triebfahrzeugs aus 36 Fahrzeugen. Die Zuglänge
-betrug gemäß Bremsze el 529 m, das Gesamtgewicht des Zuges 2.783 t. Die Bremshundertstel waren mit 61 bei mindestens erforderlichen 59 angegeben.
+stellten Fahrweges des Bauz 63009 (blau) und die Fahrtrichtung des DGS 95312 (rot) dar. 
 
-Seite 17 von 21
+2 Quelle: Bahnhofsplan DB Netz AG, bearbeitet durch BEU 
 
-Untersuchungsbericht
-Vorbeifahrt eines Zuges am Haltbegriff, 24.04.2015, Ruhland
+Seite 5 von 21 
 
-Das Triebfahrzeug war ein Fahrzeug der Baureihe 285 mit der Fahrzeug-Nr. 92 88 0076 102-7
-B-ITL.
-Aus der folgenden Tabelle lassen sich die technischen Fahrzeugdaten entnehmen:
-Antriebsart
+ 
+ 
+ 
+                                                       
+Untersuchungsbericht 
 
-Dieselelektrisch
+Vorbeifahrt eines Zuges am Haltbegriff, 24.04.2015, Ruhland 
 
-Kra übertragung
+Abbildung 3: Bf Ruhland (nicht zum Ereigniszeitpunkt) DKW 7 Fahrwege der Züge3 
 
-Elektrisch
+3.2  Beteiligte	und	Mitwirkende	
 
-Leistung
+Am Ereignis waren folgende Stellen beteiligt: 
 
-2.400 kW
+  DB Netz AG als Eisenbahninfrastrukturunternehmen (EIU) 
 
-Gesamtlänge (LüP)
+ 
 
-18.900 mm
+ITL Eisenbahngesellschaft mbH als Eisenbahnverkehrsunternehmen (EVU) 
 
-Masse
+Für das EIU lag eine Sicherheitsgenehmigung gemäß § 7c AEG des Eisenbahn-Bundesamtes 
 
-83.000 kg
+vom 19.04.2011 vor, die bis zum 19.10.2016 galt. 
 
-Höchstgeschwindigkeit
+3 Quelle: DB Netz AG, bearbeitet durch BEU 
 
-140 km/h
+Seite 6 von 21 
 
-Radsatzfolge
+ 
+ 
+                                                       
+ 
+Untersuchungsbericht 
 
-Bo'Bo'
+Vorbeifahrt eines Zuges am Haltbegriff, 24.04.2015, Ruhland 
 
-Zugsicherungssystem
+Das EVU verfügte über eine Sicherheitsbescheinigung gemäß § 7a AEG aus dem Jahre 2013, 
 
-PZB
+mit einer Gül(cid:415)gkeit bis zum 04.07.2018 und war damit zur der Teilnahme am Eisenbahnbe-
 
-Tabelle 2: Technische Daten des Triebfahrzeuges 92 88 0076 102-7 B-ITL
+trieb berech(cid:415)gt. 
 
-Der Fahrtverlauf der Zugfahrt DGS 95312 deutete nicht auf ein Bremsversagen oder andere
-fahrzeugsei ge Ursachen für die Vorbeifahrt am Halt zeigenden Signal F5 hin. Auf eine weitere
-Untersuchung der Fahrzeuge wurde deshalb verzichtet.
-Feststellung zur Untersuchung der Fahrzeuge
-Lfd. Nr. 7
-Die Untersuchung der Fahrzeuge ergab keine für das Ereignis ursächlichen oder begüns genden Mängel an den beteiligten Fahrzeugen.
+Weitere Stellen wurden in die Ermi(cid:425)lung der Ereignisursache nicht einbezogen. 
 
-Seite 18 von 21
+3.3  Äußere	Bedingungen		
 
-Untersuchungsbericht
-Vorbeifahrt eines Zuges am Haltbegriff, 24.04.2015, Ruhland
+Zum Zeitpunkt des Ereignisses herrschten folgende Bedingungen: 
 
-5 Auswertung
-Das Kapitel 5 Auswertung befasst sich mit der Ereignisrekonstruk on. Anhand der oben genannten Feststellungen wird ein plausibler Ablauf des gefährlichen Ereignisses zusammengetragen. Relevante Erkenntnisse werden anschließend bewertet und führen ggf. zu entsprechenden Schlussfolgerungen.
+Lichtverhältnisse 
 
-5.1 Ereignisrekonstruktion
-Am 24.04.2015 war die Zugfahrt DGS 95312 im Bf Ruhland am haltzeigenden Asig F5 unzulässig vorbeigefahren und hatte in der Folge die DKW 7 aufgefahren. Zum gleichen Zeitpunkt
-hatte die Zugfahrt Bauz 63009, aus Richtung Lauchhammer kommend, über die DKW 7 Durchfahrt im Gleis 7 des Bf Ruhland. Beide Züge wurden durch Nothaltauftrag gestellt und kamen
-ca. 25 m voneinander entfernt zum Stehen.
+Sicht 
 
-5.2 Bewertung und Schlussfolgerung
-Die Ursache für das Ereignis war ein Arbeitsfehler des Tf des DGS 95312, der am Halt zeigenden Asig F5 ohne Zus mmung des Fdl vorbeifuhr.
-Im Bf Ruhland fanden zum Ereigniszeitpunkt Bauarbeiten im Rahmen der Betra F 410247 15
-„Gleiserneuerung, Schienenauswechslung sowie Einzelschwellenwechsel im Gleis Ruhland –
-Lauchhammer“ sta . Züge, die von Ruhland in Richtung Lauchhammer fuhren, wurden deshalb in das Gegengleis geleitet. Zugfahrten aus Gleis 5 im Bf Ruhland in Richtung Lauchhammer erfolgten nach dem Verfahren „Vorübergehend angeordnetes Fahren auf dem Gegengleis
-mit Hauptsignalbegriﬀ „Halt“, Zs 1 und Formsignal Zs 6“. Die Signalanlagen waren hierfür geändert worden.
-Die Fahrt des DGS 95312 hä e nicht sta inden dürfen, da die Gegenfahrt des Bauz 63009
-zuglassen war. Der Abgleich des Zählwerksstandes mit dem Nachweis der Zählwerke ergab,
-dass das Ersatzsignal Zs 1 zum Ereigniszeitpunkt nachweislich nicht bedient worden war.
-Die Aussage des Tf, er habe nach dem Halt seines Zuges sofort gewusst, was er falsch gemacht
-habe, bestä gt die getroﬀene Feststellung, dass der DGS 95312 ohne Zus mmung am Halt
-zeigenden Signal F5 vorbeigefahren war.
-Die Auslösung einer Zwangsbremsung durch den am Asig F5 liegenden 2.000 Hz-Magneten
-wurde durch den Tf mit der im Fahrtverlauf nachgewiesenen Betä gung der Befehlstaste verhindert.
+Bedeckung 
 
-Seite 19 von 21
+Temperaturen  
 
-Untersuchungsbericht
-Vorbeifahrt eines Zuges am Haltbegriff, 24.04.2015, Ruhland
+fallender Niederschlag 
 
-Ereignisursächliche Einflüsse aus der Infrastruktur, der Leit- und Sicherungstechnik, den betrieblichen Handlungen auf den beteiligten Stw oder den beteiligten Fahrzeugen konnte auf
-Grund der festgestellten Abläufe somit ausgeschlossen werden.
+Niederschlagshäuﬁgkeit 
 
-Seite 20 von 21
+Dunkelheit 
 
-Untersuchungsbericht
-Vorbeifahrt eines Zuges am Haltbegriff, 24.04.2015, Ruhland
+klar 
 
-6 Bisher getroffene Maßnahmen
-Nach den bei der BEU vorliegenden Informa onen wurden weder seitens des EVU noch des
-EIU in der unmi elbaren Folge des Ereignisses Maßnahmen getroﬀen.
-Zum Zeitpunkt des gefährlichen Ereignisses gab es bereits die Planungen für ein elektronisches
-Stellwerk im Bf Ruhland, das in die Unterzentrale Hoyerswerda integriert werden sollte. Im
-Jahre 2018 erfolgte die Inbetriebnahme.
+heiter 
 
-7 Sicherheitsempfehlungen
-Sicherheitsempfehlungen seitens der BEU wurden nicht erteilt.
+15°C 
 
-Seite 21 von 21
+Nein 
 
+-- 
+
+Untergrund / gefallener Niederschlag  
+
+trocken 
+
+Tabelle 1: Übersicht der äußeren Bedingungen 
+
+Feststellung zu den äußeren Bedingungen 
+
+Lfd. Nr. 1 
+
+Die äußeren Bedingungen, wie z. B. das We(cid:425)er, standen in keinem erkennbaren kausalen 
+
+Zusammenhang mit der Ereignisursache. 
+
+3.4  Todesopfer,	Verletzte	und	Sachschäden	
+
+Bei dem Ereignis traten keine Personen- oder Sachschäden ein. 
+
+Seite 7 von 21 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Vorbeifahrt eines Zuges am Haltbegriff, 24.04.2015, Ruhland 
+
+4  Untersuchungsprotokoll	
+
+In diesem Kapitel werden die ermi(cid:425)elten Ergebnisse zu einzelnen in Zusammenhang mit dem 
+
+Ereignis stehenden Teilbereichen des Eisenbahnwesens dargestellt. Daneben wurden auch die 
+
+entsprechenden Schni(cid:425)stellen sowie das Sicherheitsmanagement im betroﬀenen Bereich be-
+
+trachtet. Die jeweilig relevanten Erkenntnisse werden fortlaufend aufgeführt. 
+
+4.1  Zusammenfassung	von	Aussagen	und	Stellungnahmen	
+
+In den folgenden Abschni(cid:425)en werden die wich(cid:415)gsten Aussagen und Stellungnahmen einiger 
+
+Beteiligter  zusammengefasst  dargestellt.  Diese  wurden  dem  jeweiligen  Arbeitgeber  gegen-
+
+über abgelegt. 
+
+4.1.1  Stellungnahme	des	Fahrdienstleiters	(Fdl)	
+
+Der Fdl auf dem Befehlsstellwerk B1 im Bf Ruhland gab an, dass der DGS 95312 aus Richtung 
+
+Schwarzbach kommend, gegen 22:37 Uhr Einfahrt nach Gleis 5 erhielt. Dieser Zug hä(cid:425)e im Bf 
+
+Ruhland mit dem aus Lauchammer kommenden Bauz 63009 kreuzen sollen. Der Fdl erklärte 
+
+ferner, dass er nach Ankun(cid:332) des DGS 95312 die Fahrstraße für den Bauz 63009 zur Durchfahrt 
+
+über Gleis 7 eingestellt habe. Anschließend hä(cid:425)e er bemerkt, dass der DGS 95312 am Haltzei-
+
+genden Signal F5 vorbei- und auf die DKW 7 zugefahren wäre, die bereits für die Durchfahrt 
+
+des Bauz 63009 gestellt gewesen sei. Er habe nun die Weichenwärterin (Ww) beau(cid:332)ragt, den 
+
+DGS  95312  mit  Signal  Sh  3  (Kreissignal)  zu  stoppen,  während  er  selbst  über  Zugfunk  einen 
+
+Nothaltau(cid:332)rag gegeben hä(cid:425)e. 
+
+4.1.2  Stellungnahme	der	Ww	auf	W2	
+
+Die Ww auf dem Wärterstellwerk W2 im Bf Ruhland sagte aus, dass sie gegen 22:43 Uhr die 
+
+Einfahrt des DGS 95312 auf Gleis 5 des Bf Ruhland beobachtet habe. Die Einfahrt des Zuges 
+
+wäre ihrer Ansicht nach langsam genug gewesen, um vor dem Hp 0 zeigenden Asig F5 stehen 
+
+zu  bleiben.  Sie  sei  davon  ausgegangen,  dass  der  DGS  95312  vor  dem  Asig  stehen  bleiben 
+
+würde. Die Ww habe nun auch die aus Richtung Lauchhammer langsam einfahrende Zugfahrt 
+
+Bauz 63009 beobachtet und dabei bemerkt, dass der DGS 95312 am haltzeigenden Signal F5 
+
+vorbeigefahren sei. Daraufhin habe Sie unter Zuhilfenahme einer Lampe das Signal Sh 3 aus-
+
+geführt und den DGS 95312 zum Halt aufgefordert, während der Fdl per Zugfunk einen Not-
+
+haltauftrag gegeben habe. 
+
+Seite 8 von 21 
+
+ 
+ 
+Untersuchungsbericht 
+
+Vorbeifahrt eines Zuges am Haltbegriff, 24.04.2015, Ruhland 
+
+4.1.3  Stellungnahme	des	Triebfahrzeugführers	(Tf)	des	DGS	95312	
+
+Der Tf des DGS 95312 erklärte, er sei gegen 22:45 Uhr in den Bf Ruhland eingefahren. Er habe 
+
+etwa eine Länge vor dem das Signalbild Hp 0 zeigenden Asig F5 das Zusatzsignal Zs 6 erkannt. 
+
+Er hä(cid:425)e geglaubt, er könne mit Ersatzsignal Zs 1 in das Gegengleis fahren. Anschließend habe 
+
+er die Befehlstaste gedrückt und sei am Signal F5 vorbeigerollt. Dann hä(cid:425)e er das Kreissignal 
+
+im Fenster des Fdl erkannt und angehalten. Ihm sei sofort bewusst gewesen, dass er etwas 
+
+falsch gemacht habe. Nach dem Halt hä(cid:425)e er dann auch über Zugfunk den Nothaltau(cid:332)rag des 
+
+Fdl empfangen. Auf Weisung des No(cid:414)allmanagers habe er den Zug nach der Überprüfung der 
+
+durch ihn aufgefahrenen Weiche zurückgesetzt und anschießend mit Zus(cid:415)mmung seines EVU 
+
+und des No(cid:414)allmanagers seine Fahrt fortgesetzt. 
+
+4.2  Notfallmanagement	
+
+Nach § 4 Abs. 3 AEG haben die Eisenbahnen die Verpﬂichtung, an Maßnahmen des Brand-
+
+schutzes und der technischen Hilfeleistung mitzuwirken. In einer Vereinbarung zwischen den 
+
+Innenministerien der Länder und der DB AG hat man sich auf eine Verfahrensweise verstän-
+
+digt. Für die DB Netz AG gelten die entsprechenden Brand- und Katastrophenschutzgesetze 
+
+der Länder. Das No(cid:414)allmanagement der DB AG ist in der Konzernrichtlinie 123, das der DB 
+
+Netz AG in der Richtlinie (Ril) 423 näher beschrieben und geregelt. 
+
+Erkenntnisse, dass es beim No(cid:414)allmanagement zu Verzögerungen, Störungen etc. gekommen 
+
+sein könnte liegen nicht vor. 
+
+Feststellungen zum No(cid:414)allmanagement 
+
+Lfd. Nr. 2 
+
+Auf die Untersuchung wurde verzichtet, da weder Personen zu re(cid:425)en, noch Folgesach- oder 
+
+Umweltschäden abzuwenden waren. 
+
+Seite 9 von 21 
+
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Vorbeifahrt eines Zuges am Haltbegriff, 24.04.2015, Ruhland 
+
+4.3  Untersuchung	der	bautechnischen	Infrastruktur	
+
+Der Bf Ruhland erstreckte sich von km 97,685 bis km 99,45 der VzG- Strecke 6207. Er verfügte 
+
+gemäß der zum Unfallzeitpunkt gül(cid:415)gen örtlichen Richtlinie über 4 durchgehende Hauptgleise 
+
+der VzG-Strecken 6207 und 6253 sowie über weitere 9 Hauptgleise und 18 Nebengleise, von 
+
+denen sechs s(cid:415)llgelegt und drei gesperrt waren. Im Rahmen der Betriebs- und Bauanweisung 
+
+(Betra) F 410247 15 war zum Ereigniszeitpunkt zusätzlich das Gleis 4 im Bf Ruhland von der 
+
+Spitze der Weiche 6 bis zum Einfahrsignal (Esig) A und das Streckengleis nach Lauchhammer 
+
+gesperrt. 
+
+Während des Ereignisses wurde die DKW 7 aufgefahren, ohne dass an der Weiche ein Schaden 
+
+entstand.  
+
+Im Rahmen der Ermi(cid:425)lungen konnte eine Ereignisursache in den Anlagen der bautechnischen 
+
+Infrastruktur ausgeschlossen werden. Weitere Untersuchungen erfolgten daher nicht. 
+
+Feststellung zur Untersuchung der bautechnischen Infrastruktur 
+
+Lfd. Nr. 3 
+
+Die Untersuchung der bautechnischen Infrastruktur ergab keine für das Ereignis ursächli-
+
+chen oder begüns(cid:415)genden Mängel. 
+
+4.4  Untersuchung	der	Leit‐	und	Sicherungstechnik	
+
+Der Betrieb im Bf Ruhland wurde vom Fdl auf dem Stellwerk (Stw) B1 der Bauform GS I DR ca. 
+
+in km 99,0 geleitet. Zusätzlich gab es die Wärterstellwerke W2 am Standort des Stw B1 und 
+
+W3 ca. in km 98,0 (beide ebenfalls Bauform GS I DR). 
+
+Das Wärterstellwerk W2 war im Regelbetrieb nicht besetzt. Die Aufgaben der Ww wurden 
+
+dann vom Fdl wahrgenommen. Im Rahmen der Betra F 410247 15 wurde das Stw W2 entspre-
+
+chend den Festlegungen laut Abschnitt 5.2.7 vorübergehend wiederbesetzt. 
+
+Der Fahrwegprüfbezirk in Richtung Stw W3 auf den Gleisen 2 bis 8 konnte durch die Ww auf 
+
+Stw  W2  bzw.  durch  den  Fdl  auf  Stw  B1  nicht  auf  der  vollen  Länge  durch  Hinsehen  geprüft 
+
+werden. Deshalb war eine Fernbeobachtungsanlage zur Fahrwegprüfung für diese Gleise in-
+
+stalliert.  Damit  konnte  die  Ww  bzw.  der  Fdl  die  Feststellungen  auf  Freisein  im  nicht  direkt 
+
+einsehbaren Bereich mit der Fernbeobachteranlage treffen. 
+
+Seite 10 von 21 
+
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Vorbeifahrt eines Zuges am Haltbegriff, 24.04.2015, Ruhland 
+
+Im Bf Ruhland war eine Mehrfachfernsprechanlage MF 84 (Bauart Neumann) vorhanden. 
+
+Eine Gleisfreimeldeanlage (Achszähler) war zum Unfallzeitpunkt nur für das Ein- und Ausfahr-
+
+gleis  in  bzw.  aus  Richtung  Ortrand  vorhanden.  In  sie  waren  die  für  das  Ereignis  relevanten 
+
+Gleisabschni(cid:425)e im Bf Ruhland nicht einbezogen. 
+
+Für den Zeitraum der Betra F 410247 15 wurden die vorhandenen Signalanlagen nach einer 
+
+genehmigten Ausführungsplanung geändert. Die Asig F4, F5, G und H wurden mit Formsignal 
+
+Zs 6 ausgerüstet, sowie ein einzeln stehendes Formsignal Zs 6 am Grenzzeichen der Weiche 
+
+29 aufgestellt. 
+
+Die Ausfahrt in Richtung Lauchhammer wurde mi(cid:425)els Hilfsfahrstraßen (Fahrstraße der Gegen-
+
+richtung) gesichert und mit Zs 1 in Verbindung mit Formsignal Zs 6 zugelassen. 
+
+Anzeichen, dass Mängel in der Leit- und Sicherungstechnik für das Ereignis ursächlich waren, 
+
+konnten  nicht  festgestellt  werden.  Daher  erfolgten  diesbezüglich  keine  weiteren  Untersu-
+
+chungen. 
+
+Feststellung zur Untersuchung der Leit‐ und Sicherungstechnik 
+
+Lfd. Nr. 4 
+
+Die Untersuchung ergab keine für das Ereignis ursächlichen oder begüns(cid:415)genden Mängel 
+
+an den Anlagen der Leit- und Sicherungstechnik. 
+
+4.5  Untersuchung	der	betrieblichen	Abläufe	des	Infrastrukturbetreibers	
+
+Der Betrieb im Bf Ruhland wurde entsprechend der gül(cid:415)gen Richtlinie 408 -Züge fahren und 
+
+Rangieren- durch den Fdl im Stw B1 und durch einen Ww im Wärterstellwerk W3 durchge-
+
+führt. Auf dem Wärterstellwerk W2 war zum Ereigniszeitpunkt vorübergehend eine Ww ein-
+
+gesetzt. 
+
+Der Einsatz des Fdl erfolgte innerhalb der regulären Arbeitszeit. Ruhezeiten wurden eingehal-
+
+ten. Er nahm regelmäßig an Schulungen und Weiterbildungen auf dem Gebiet des Eisenbahn-
+
+betriebs teil, letztmalig am 04. Februar 2015. Die örtliche Verwendungsprüfung und Tauglich-
+
+keit waren nachgewiesen. 
+
+Gemäß den vorliegenden Unterlagen erfolgte auch der Einsatz der Ww auf dem Stw W2 ent-
+
+sprechend dem Regelwerk. Die Arbeits- und Ruhezeiten waren eingehalten. Die Ww nahm 
+
+Seite 11 von 21 
+
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Vorbeifahrt eines Zuges am Haltbegriff, 24.04.2015, Ruhland 
+
+regelmäßig und kon(cid:415)nuierlich, letztmalig am 22. Januar 2015, am Fortbildungsunterricht teil. 
+
+Seit dem 20.04.2015 war sie regelmäßig auf dem Stw W2 in Ruhland eingesetzt gewesen. Ihre 
+
+örtliche  Prüfung  für  den  Arbeitsplatz  fand  gemäß  den  personellen  Aufschreibungen  am 
+
+09.04.2015 sta(cid:425). Die Tauglichkeit für die Tä(cid:415)gkeit als Ww war nachgewiesen. 
+
+Der Ww auf dem Wärterstellwerk W3 war an den für das Ereignis relevanten betrieblichen 
+
+Handlungen nicht beteiligt. Dessen Befähigung und Handlungen wurden deshalb nicht weiter 
+
+untersucht. 
+
+Im Bf Ruhland fanden in der Zeit vom 17.04.2015, 07:00 Uhr bis 27.04.2015, 18:00 Uhr Bauar-
+
+beiten im Rahmen der Betra Nr. F 410247 15 „Gleiserneuerung, Schienenauswechslung sowie 
+
+Einzelschwellenwechsel  im  Gleis  Ruhland  –  Lauchhammer“  statt.  Im  Rahmen  dieser  Betra 
+
+wurde die Betriebsweise „Fahren von Zügen ohne Fahrtstellung eines Hauptsignals“ entspre-
+
+chend den Regelungen der Ril 406.1104 zugelassen. 
+
+Das Gleis 4 im Bf Ruhland zwischen der Spitze der Weiche 6 und Höhe Esig A, das anschlie-
+
+ßende  Gleis  Ruhland  – Lauchhammer  zwischen  Höhe  Esig A  Bf  Ruhland  und  dem  Esig  A  Bf 
+
+Lauchhammer und das anschließende Gleis 2A Bf Lauchhammer zwischen dem Esig A und dem 
+
+Zwischensignal  H  wurde  in  der  Zeit  vom  18.04.2015  um  00:00  Uhr  durchgehend  bis  zum 
+
+27.04.2015 um 04:00 Uhr gesperrt. Eine Sh 2-Scheibe wurde angebracht. Die gesperrten Gleis-
+
+abschnitte wurden, wie in der Abbildung 4 ersichtlich, entsprechend Ril 408.0902, Abschnitt 
+
+3, zu Baugleisen erklärt. 
+
+Abbildung 4: Auszug aus Betra F 210247 154 
+
+4 Quelle: DB Netz AG Betra F 210247 15, bearbeitet durch BEU 
+
+Seite 12 von 21 
+
+ 
+ 
+ 
+                                                       
+ 
+Untersuchungsbericht 
+
+Vorbeifahrt eines Zuges am Haltbegriff, 24.04.2015, Ruhland 
+
+Vorübergehend wurde das Fahren auf dem Gegengleis in der Relation Bf Ruhland – Bf Lauch-
+
+hammer angeordnet. Zugfahrten vom Bf Ruhland in Richtung Bf Lauchhammer verkehrten im 
+
+Gegengleis nach dem Verfahren „Vorübergehend angeordnetes Fahren auf dem Gegengleis 
+
+mit Zs 1 und Formsignal Zs 6“. 
+
+Die  Sicherung  der  Fahrwege  erfolgte  gemäß  den  Verzeichnissen  der  Hilfsfahrstraßen  im  Bf 
+
+Ruhland und im Bf Lauchhammer. 
+
+Die Betra F 410247 15 lag zeitgerecht im Stw aus. Der Fdl und die Ww waren in diese einge-
+
+wiesen. Es liegen keine Hinweise vor, dass die Umsetzung der Betra zu Beeinträch(cid:415)gungen im 
+
+Dienstablauf des Fdl oder der Ww geführt hat. 
+
+Der DGS 95312 sollte aus Gleis 5 über die DKW 7 in Richtung Lauchhammer aus dem Bf Ruh-
+
+land ausfahren. Zuvor sollte jedoch der Bauz 63009, aus Richtung Lauchhammer kommend, in 
+
+den Bf nach Gleis 7 fahren. Die Fahrstraße a/7 für die Zugfahrt war eingestellt und festgelegt. 
+
+Die nachfolgende Systemskizze stellt den Fahrweg des Bauz 63009 durch die DKW 7 dar. 
+
+Abbildung 5: DKW 7 Systemskizze Fahrweg Bauz 630095 
+
+Für die Ausfahrt von Zügen aus Gleis 5 in Richtung Lauchhammer, so auch für den DGS 95312, 
+
+musste gemäß dem Verzeichnis der Hilfsfahrstraßen jeweils die Fahrstraße a/5 (Fahrstraße 
+
+der Gegenrichtung) vom Esig A über die DKW 7 und die Weiche 12 eingestellt werden. Die 
+
+Ausfahrt der Züge erfolgte auf Zs 1 am haltzeigenden Asig F5 in Verbindung mit Zs 6. 
+
+5 Quelle: DB AG, bearbeitet durch BEU 
+
+Seite 13 von 21 
+
+ 
+ 
+ 
+                                                       
+Untersuchungsbericht 
+
+Vorbeifahrt eines Zuges am Haltbegriff, 24.04.2015, Ruhland 
+
+Abbildung 6: DKW 7 Systemskizze Fahrweg DGS 953126 
+
+Der Fahrweg des DGS durch die DKW 7 ist in der Systemskizze laut Abbildung 6 zu erkennen. 
+
+Die Fahrstraßen a/5, hier als Hilfsfahrstraße für den DGS 95312, und a/7 für den Bauz 63009 
+
+schließen einander aus, da sie beide die DKW 7 in unterschiedlichen Rela(cid:415)onen als Fahrstra-
+
+ßenelement enthalten. 
+
+Um die Zugfahrt DGS 95312 zuzulassen, hä(cid:425)e der Fdl das Zs 1 am Signal F5 bedienen müssen. 
+
+Im Nachweis der Zählwerke war als letzter Eintrag die Nummer 6005 für eine zählpﬂich(cid:415)ge 
+
+Handlung durch die Ww oder den Fdl um 21:14 Uhr für die Zugfahrt 95287 ausgewiesen. Das 
+
+Zählwerk für das Ersatzsignal zeigte die Nummer 6005. Eine Betä(cid:415)gung des Ersatzsignals zum 
+
+Zeitpunkt der Zugfahrt DGS 95312 konnte daher ausgeschlossen werden. 
+
+Der Fdl erkannte bei seiner Zugbeobachtung, dass der DGS 95312 unzulässig am Asig F5 vor-
+
+beigefahren war. Er erteilte der Ww die Weisung, Sh 3 zu geben und setzte einen Nothaltauf-
+
+trag ab.  
+
+Eine Fehlhandlung des Fdl auf Stw B1 oder der Ww auf Stw W2 war nicht feststellbar. 
+
+6 Quelle: DB AG, bearbeitet durch BEU 
+
+Seite 14 von 21 
+
+ 
+ 
+ 
+ 
+ 
+                                                       
+Untersuchungsbericht 
+
+Vorbeifahrt eines Zuges am Haltbegriff, 24.04.2015, Ruhland 
+
+Feststellung zur Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers 
+
+Lfd. Nr. 5 
+
+Die Untersuchung ergab keine für das Ereignis ursächlichen oder begüns(cid:415)genden Mängel in 
+
+den betrieblichen Abläufen beim Infrastrukturbetreiber.  
+
+4.6  Untersuchung	der	betrieblichen	Abläufe	der	EVU	
+
+Der Tf des Zuges DGS 95312 war als Eisenbahner im Betriebsdienst ausgebildet. Sein Trieb-
+
+fahrzeugführerschein der Klasse 3 war da(cid:415)ert aus dem Jahre 2003. Laut Beibla(cid:425) zum Führer-
+
+schein war er berech(cid:415)gt Triebfahrzeuge der BR 285 zu führen. 
+
+Der Einsatz des Tf erfolgte entsprechend den gül(cid:415)gen Regelungen. Die Arbeits- und Ruhezei-
+
+ten waren eingehalten. Er nahm regelmäßig, zuletzt vor dem Ereignis im September 2014, an 
+
+Fortbildungsmaßnahmen teil. Die letzte Überwachung des Tf vor dem Ereignis erfolgte im Feb-
+
+ruar 2015. Die Tauglichkeit war nachgewiesen. 
+
+Streckenkenntnis war vorhanden, der letzte Einsatz des Tf auf der Strecke erfolgte im Novem-
+
+ber 2014, also vor den Baumaßnamen laut Betra F 410247 15. 
+
+Gemäß dem Buchfahrplan sollte der DGS 95312 von Straßgräbchen-Bernsdorf nach Consrade 
+
+fahren. Seine Länge sollte 529 m und sein Gewicht 2.800 t betragen. Die erforderlichen Min-
+
+destbremshundertstel waren mit 59 angegeben. Für den Zug war im Bereich des Bf Ruhland 
+
+eine Geschwindigkeit von 70 km/h ausgewiesen. 
+
+Die Auswertung des Fahrtverlaufs wurde durch das beteiligte EVU selbst durchgeführt. Die 
+
+graphische Darstellung des Fahrtverlaufs des DGS 95312 ist in Abbildung 7 zu sehen. 
+
+Der Zug fuhr im dargestellten Zeitraum nicht schneller als 20 km/h. Der Tf verzögerte ca. eine 
+
+Minute vor dem Passieren des Asig F5 mit einer Betriebsbremsung auf etwa 10 km/h. Bei der 
+
+Vorbeifahrt am Asig F5 wurde eine 2.000 Hz-Beeinﬂussung sowie die Bedienung der Befehls-
+
+taste registriert. 
+
+Seite 15 von 21 
+
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Vorbeifahrt eines Zuges am Haltbegriff, 24.04.2015, Ruhland 
+
+Abbildung 7: Graphische Darstellung des Fahrtverlaufs des DGS 953127 
+
+Abbildung 8: Tabellarische Darstellung des Fahrtverlaufs des DGS 59312 (Auszug)8 
+
+7 Quelle ITL 
+
+8 Quelle: ITL, bearbeitet durch die BEU 
+
+Seite 16 von 21 
+
+ 
+ 
+ 
+ 
+ 
+                                                       
+Untersuchungsbericht 
+
+Vorbeifahrt eines Zuges am Haltbegriff, 24.04.2015, Ruhland 
+
+Der Tf beschleunigte danach wieder und fuhr am Halt zeigenden Asig F5 im Bf Ruhland vorbei. 
+
+Der Tf leitete gemäß seiner eigenen Aussage eine Schnellbremsung ein, nachdem er das Signal 
+
+Sh 3,  das  auf  dem  Stw  gegeben  worden  war,  wahrgenommen  ha(cid:425)e.  Die  Schnellbremsung 
+
+wurde ca. 240 m hinter dem Asig F5 bei einer Geschwindigkeit von 16 km/h wirksam. Der Zug 
+
+kam mit der Spitze etwa in km 99,14, also ca. 360 m hinter dem Asig F5, zum Halt. Während 
+
+der Verzögerung infolge der Schnellbremsung ha(cid:425)e er die DKW 7, die für die Fahrt des Bauz 
+
+63009 in der Rela(cid:415)on b-c entsprechend der Systemskizze in Abbildung 5 gestellt worden war, 
+
+mit dem Triebfahrzeug in der Rela(cid:415)on d-b passiert und aufgefahren. 
+
+Durch die eingeleitete Schnellbremsung war die Geschwindigkeit des Zuges beim Befahren 
+
+der DKW so gering, dass Schäden an der Kreuzungsweiche oder an den Fahrzeugen nicht ent-
+
+standen. 
+
+Der Bauz 63009 sollte von Coswig (bei Dresden) nach Eisenhü(cid:425)enstadt fahren. Im Buchfahr-
+
+plan war seine Länge mit 441 m, sein Gewicht mit 1.750 t und die erforderlichen Mindest-
+
+bremshundertstel mit 62 angegeben. Der Zug fuhr, aus Richtung Lauchhammer kommend, auf 
+
+der eingestellten und festgelegten Fahrstraße a/7 mit Fahrtstellung am Esig A im Regelgleis in 
+
+den Bf Ruhland ein. Laut Buchfahrplan war im Bf Ruhland eine maximale Geschwindigkeit von 
+
+40 km/h vorgegeben. Der Zug wurde mit einem Nothaltau(cid:332)rag des Fdl gestellt und kam ca. 
+
+500 m hinter dem Esig A zum Halt. Ein ursächlicher Einﬂuss der Handlungen des Tf dieses Zuges 
+
+auf das Ereignis war nicht erkennbar. Daher erfolgten bezüglich dieser Zugfahrt keine weiteren 
+
+Untersuchungen. 
+
+Feststellung zur Untersuchung der betrieblichen Abläufe des EVU 
+
+Lfd. Nr. 6 
+
+Der Tf des DGS 95312 fuhr am Halt zeigenden Asig F5 vorbei. 
+
+Der Zug erhielt bei der Vorbeifahrt eine 2.000 Hz-Beeinﬂussung. 
+
+Der Tf des DGS 95312 verhinderte eine Zwangsbremsung durch Bedienen der Befehlstaste. 
+
+4.7  Untersuchung	von	Fahrzeugen	
+
+Der DGS 95312 bestand einschließlich des Triebfahrzeugs aus 36 Fahrzeugen. Die Zuglänge 
+
+betrug gemäß Bremsze(cid:425)el 529 m, das Gesamtgewicht des Zuges 2.783 t. Die Bremshunderts-
+
+tel waren mit 61 bei mindestens erforderlichen 59 angegeben. 
+
+Seite 17 von 21 
+
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Vorbeifahrt eines Zuges am Haltbegriff, 24.04.2015, Ruhland 
+
+Das Triebfahrzeug war ein Fahrzeug der Baureihe 285 mit der Fahrzeug-Nr. 92 88 0076 102-7 
+
+B-ITL. 
+
+Aus der folgenden Tabelle lassen sich die technischen Fahrzeugdaten entnehmen: 
+
+Antriebsart 
+
+Kra(cid:332)übertragung 
+
+Leistung 
+
+Gesamtlänge (LüP) 
+
+Masse 
+
+Höchstgeschwindigkeit 
+
+Radsatzfolge 
+
+Zugsicherungssystem 
+
+Dieselelektrisch 
+
+Elektrisch 
+
+2.400 kW 
+
+18.900 mm 
+
+83.000 kg 
+
+140 km/h 
+
+Bo'Bo' 
+
+PZB 
+
+Tabelle 2: Technische Daten des Triebfahrzeuges 92 88 0076 102-7 B-ITL 
+
+Der Fahrtverlauf der Zugfahrt DGS 95312 deutete nicht auf ein Bremsversagen oder andere 
+
+fahrzeugsei(cid:415)ge Ursachen für die Vorbeifahrt am Halt zeigenden Signal F5 hin. Auf eine weitere 
+
+Untersuchung der Fahrzeuge wurde deshalb verzichtet. 
+
+Feststellung zur Untersuchung der Fahrzeuge 
+
+Lfd. Nr. 7 
+
+Die Untersuchung der Fahrzeuge ergab keine für das Ereignis ursächlichen oder begüns(cid:415)-
+
+genden Mängel an den beteiligten Fahrzeugen. 
+
+Seite 18 von 21 
+
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Vorbeifahrt eines Zuges am Haltbegriff, 24.04.2015, Ruhland 
+
+5  Auswertung	
+
+Das Kapitel 5 Auswertung befasst sich mit der Ereignisrekonstruk(cid:415)on. Anhand der oben ge-
+
+nannten Feststellungen wird ein plausibler Ablauf des gefährlichen Ereignisses zusammenge-
+
+tragen. Relevante Erkenntnisse werden anschließend bewertet und führen ggf. zu entspre-
+
+chenden Schlussfolgerungen. 
+
+5.1  Ereignisrekonstruktion	
+
+Am 24.04.2015 war die Zugfahrt DGS 95312 im Bf Ruhland am haltzeigenden Asig F5 unzuläs-
+
+sig  vorbeigefahren  und  hatte  in  der  Folge  die  DKW  7  aufgefahren.  Zum  gleichen  Zeitpunkt 
+
+hatte die Zugfahrt Bauz 63009, aus Richtung Lauchhammer kommend, über die DKW 7 Durch-
+
+fahrt im Gleis 7 des Bf Ruhland. Beide Züge wurden durch Nothaltauftrag gestellt und kamen 
+
+ca. 25 m voneinander entfernt zum Stehen. 
+
+5.2  Bewertung	und	Schlussfolgerung	
+
+Die Ursache für das Ereignis war ein Arbeitsfehler des Tf des DGS 95312, der am Halt zeigen-
+
+den Asig F5 ohne Zus(cid:415)mmung des Fdl vorbeifuhr. 
+
+Im Bf Ruhland fanden zum Ereigniszeitpunkt Bauarbeiten im Rahmen der Betra F 410247 15 
+
+„Gleiserneuerung, Schienenauswechslung sowie Einzelschwellenwechsel im Gleis Ruhland – 
+
+Lauchhammer“ sta(cid:425). Züge, die von Ruhland in Richtung Lauchhammer fuhren, wurden des-
+
+halb in das Gegengleis geleitet. Zugfahrten aus Gleis 5 im Bf Ruhland in Richtung Lauchham-
+
+mer erfolgten nach dem Verfahren „Vorübergehend angeordnetes Fahren auf dem Gegengleis 
+
+mit Hauptsignalbegriﬀ „Halt“, Zs 1 und Formsignal Zs 6“. Die Signalanlagen waren hierfür ge-
+
+ändert worden. 
+
+Die Fahrt des DGS 95312 hä(cid:425)e nicht sta(cid:426)inden dürfen, da die Gegenfahrt des Bauz 63009 
+
+zuglassen war. Der Abgleich des Zählwerksstandes mit dem Nachweis der Zählwerke ergab, 
+
+dass das Ersatzsignal Zs 1 zum Ereigniszeitpunkt nachweislich nicht bedient worden war. 
+
+Die Aussage des Tf, er habe nach dem Halt seines Zuges sofort gewusst, was er falsch gemacht 
+
+habe, bestä(cid:415)gt die getroﬀene Feststellung, dass der DGS 95312 ohne Zus(cid:415)mmung am Halt 
+
+zeigenden Signal F5 vorbeigefahren war. 
+
+Die Auslösung einer Zwangsbremsung durch den am Asig F5 liegenden 2.000 Hz-Magneten 
+
+wurde durch den Tf mit der im Fahrtverlauf nachgewiesenen Betä(cid:415)gung der Befehlstaste ver-
+
+hindert. 
+
+Seite 19 von 21 
+
+ 
+ 
+Untersuchungsbericht 
+
+Vorbeifahrt eines Zuges am Haltbegriff, 24.04.2015, Ruhland 
+
+Ereignisursächliche Einﬂüsse aus der Infrastruktur, der Leit- und Sicherungstechnik, den be-
+
+trieblichen Handlungen auf den beteiligten Stw oder den beteiligten Fahrzeugen konnte auf 
+
+Grund der festgestellten Abläufe somit ausgeschlossen werden. 
+
+Seite 20 von 21 
+
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Vorbeifahrt eines Zuges am Haltbegriff, 24.04.2015, Ruhland 
+
+6  Bisher	getroffene	Maßnahmen	
+
+Nach den bei der BEU vorliegenden Informa(cid:415)onen wurden weder seitens des EVU noch des 
+
+EIU in der unmi(cid:425)elbaren Folge des Ereignisses Maßnahmen getroﬀen. 
+
+Zum Zeitpunkt des gefährlichen Ereignisses gab es bereits die Planungen für ein elektronisches 
+
+Stellwerk im Bf Ruhland, das in die Unterzentrale Hoyerswerda integriert werden sollte. Im 
+
+Jahre 2018 erfolgte die Inbetriebnahme. 
+
+7  Sicherheitsempfehlungen	
+
+Sicherheitsempfehlungen seitens der BEU wurden nicht erteilt. 
+
+Seite 21 von 21 
+
+ 
+ 
 

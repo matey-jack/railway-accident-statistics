@@ -1,1057 +1,1697 @@
-Untersuchungsbericht
-Aktenzeichen:
+Untersuchungsbericht 
 
-BEU-uu2019-02/009-3323
+Aktenzeichen: 
 
-Stand:
+BEU-uu2019-02/009-3323 
 
-10.10.2023 Version: 1.0
+Stand: 
 
-Erstveröﬀentlichung:
+10.10.2023     Version:  1.0 
 
-18.10.2023
+Erstveröﬀentlichung:  18.10.2023 
 
-Gefährliches Ereignis im Eisenbahnbetrieb
+Gefährliches	Ereignis	im	Eisenbahnbetrieb 
 
-Ereignisart:
+Ereignisart: 
 
-Zugkollision
+Datum: 
 
-Datum:
+Zeit: 
 
-15.02.2019
+Zugkollision 
 
-Zeit:
+15.02.2019 
 
-01:32 Uhr
+01:32 Uhr 
 
-Betriebsstelle:
+Betriebsstelle: 
 
-Bf Augsburg Hbf
+Bf Augsburg Hbf 
 
-Gleis:
+Gleis: 
 
-66
+Kilometer: 
 
-Kilometer:
+66 
 
-0,7
+0,7 
 
-Untersuchungsbericht
-Zugkollision, 15.02.2019, Bf Augsburg Hbf
+ 
+	
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Veröﬀentlicht durch:
-Bundesstelle für Eisenbahnunfalluntersuchung
-Heinemannstraße 6
-53175 Bonn
+Zugkollision, 15.02.2019, Bf Augsburg Hbf 
 
-Untersuchungsbericht
-Zugkollision, 15.02.2019, Bf Augsburg Hbf
+Veröﬀentlicht durch: 
 
-Inhaltsverzeichnis
-I.
+Bundesstelle für Eisenbahnunfalluntersuchung 
 
-Änderungsverzeichnis: .......................................................................................... II
+Heinemannstraße 6 
 
-II.
+53175 Bonn 
 
-Abbildungsverzeichnis: ........................................................................................ III
+ 
+Untersuchungsbericht 
 
-III.
+Zugkollision, 15.02.2019, Bf Augsburg Hbf 
 
-Tabellenverzeichnis: ............................................................................................ III
+Inhaltsverzeichnis	
 
-IV.
+I. 
 
-Abkürzungsverzeichnis: ....................................................................................... IV
+II. 
 
-1
+Änderungsverzeichnis: .......................................................................................... II 
 
-Vorbemerkungen .................................................................................................. 1
+Abbildungsverzeichnis: ........................................................................................ III 
 
-1.1
+III. 
 
-Organisatorischer Hinweis ...................................................................................... 1
+Tabellenverzeichnis: ............................................................................................ III 
 
-1.2
+IV. 
 
-Ziel der Eisenbahnunfalluntersuchung.................................................................... 1
+Abkürzungsverzeichnis: ....................................................................................... IV 
 
-2
+1 
 
-Zusammenfassung ................................................................................................ 3
+1.1 
 
-2.1
+1.2 
 
-Kurzbeschreibung des Ereignisses........................................................................... 3
+2 
 
-2.2
+2.1 
 
-Folgen ...................................................................................................................... 3
+2.2 
 
-2.3
+2.3 
 
-Ursachen.................................................................................................................. 3
+2.4 
 
-2.4
+3 
 
-Sicherheitsempfehlungen ....................................................................................... 3
+3.1 
 
-3
+3.2 
 
-Allgemeine Angaben ............................................................................................. 4
+3.3 
 
-3.1
+3.4 
 
-Lage und Beschreibung des Ereignisortes ............................................................... 4
+4 
 
-3.2
+4.1 
 
-Beteiligte und Mitwirkende..................................................................................... 6
+Vorbemerkungen .................................................................................................. 1 
 
-3.3
+Organisatorischer Hinweis ...................................................................................... 1 
 
-Äußere Bedingungen ............................................................................................... 7
+Ziel der Eisenbahnunfalluntersuchung .................................................................... 1 
 
-3.4
+Zusammenfassung ................................................................................................ 3 
 
-Todesopfer, Verletzte und Sachschäden................................................................. 8
+Kurzbeschreibung des Ereignisses ........................................................................... 3 
 
-4
+Folgen ...................................................................................................................... 3 
 
-Untersuchungsprotokoll ..................................................................................... 10
+Ursachen .................................................................................................................. 3 
 
-4.1
+Sicherheitsempfehlungen ....................................................................................... 3 
 
-Zusammenfassung von Aussagen und Stellungnahmen ....................................... 10
+Allgemeine Angaben ............................................................................................. 4 
 
-4.1.1
+Lage und Beschreibung des Ereignisortes ............................................................... 4 
 
-Stellungnahme Lrf der DB Cargo AG ..................................................................... 10
+Beteiligte und Mitwirkende ..................................................................................... 6 
 
-4.1.2
+Äußere Bedingungen ............................................................................................... 7 
 
-Stellungnahme des Mitarbeiters der WEGA Eisenbahndienstleistungs GmbH .... 10
+Todesopfer, Verletzte und Sachschäden ................................................................. 8 
 
-4.1.3
+Untersuchungsprotokoll ..................................................................................... 10 
 
-Stellungnahme Tf Crossrail Benelux NV ................................................................ 11
+Zusammenfassung von Aussagen und Stellungnahmen ....................................... 10 
 
-4.2
+4.1.1 
 
-Notfallmanagement .............................................................................................. 11
+Stellungnahme Lrf der DB Cargo AG ..................................................................... 10 
 
-4.3
+4.1.2 
 
-Untersuchung der bautechnischen Infrastruktur ................................................. 12
+Stellungnahme des Mitarbeiters der WEGA Eisenbahndienstleistungs GmbH .... 10 
 
-I
+4.1.3 
 
-Untersuchungsbericht
-Zugkollision, 15.02.2019, Bf Augsburg Hbf
+Stellungnahme Tf Crossrail Benelux NV ................................................................ 11 
 
-I.
+4.2 
 
-4.4
+4.3 
 
-Untersuchung der Leit- und Sicherungstechnik .................................................... 12
+Notfallmanagement .............................................................................................. 11 
 
-4.5
+Untersuchung der bautechnischen Infrastruktur ................................................. 12 
 
-Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers ................. 13
+I 
 
-4.6
+ 
+ 
+Untersuchungsbericht 
 
-Untersuchung der betrieblichen Abläufe der EVU ................................................ 14
+Zugkollision, 15.02.2019, Bf Augsburg Hbf 
 
-4.6.1
+4.4 
 
-Untersuchung der betrieblichen Abläufe des EVU DB Cargo AG .......................... 14
+4.5 
 
-4.6.2
+4.6 
 
-Zuarbeit durch die WEGA Eisenbahndienstleistungs GmbH ................................. 16
+Untersuchung der Leit- und Sicherungstechnik .................................................... 12 
 
-4.6.3
+Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers ................. 13 
 
-Untersuchung der betrieblichen Abläufe des EVU Crossrail Benelux NV ............. 17
+Untersuchung der betrieblichen Abläufe der EVU ................................................ 14 
 
-4.7
+4.6.1 
 
-Untersuchung von Fahrzeugen ............................................................................. 20
+Untersuchung der betrieblichen Abläufe des EVU DB Cargo AG .......................... 14 
 
-5
+4.6.2 
 
-Auswertung ........................................................................................................ 23
+Zuarbeit durch die WEGA Eisenbahndienstleistungs GmbH ................................. 16 
 
-5.1
+4.6.3 
 
-Ereignisrekonstruktion .......................................................................................... 23
+Untersuchung der betrieblichen Abläufe des EVU Crossrail Benelux NV ............. 17 
 
-5.2
+4.7 
 
-Bewertung und Schlussfolgerung .......................................................................... 24
+5 
 
-6
+5.1 
 
-Bisher getroffene Maßnahmen ........................................................................... 25
+5.2 
 
-7
+6 
 
-Sicherheitsempfehlungen ................................................................................... 25
+7 
 
-Änderungsverzeichnis:
-Änderung
+Untersuchung von Fahrzeugen ............................................................................. 20 
 
-Stand
+Auswertung ........................................................................................................ 23 
 
-II
+Ereignisrekonstruktion .......................................................................................... 23 
 
-Untersuchungsbericht
-Zugkollision, 15.02.2019, Bf Augsburg Hbf
+Bewertung und Schlussfolgerung .......................................................................... 24 
 
-II.
+Bisher getroffene Maßnahmen ........................................................................... 25 
 
-Abbildungsverzeichnis:
-Abbildung 1: Lageplan Augsburg Hbf ......................................................................................... 5
-Abbildung 2: Gleislageskizze mit Fahrtverlauf DGS 44506 ........................................................ 6
-Abbildung 3: Zugspitze ca. im km 1,8 ......................................................................................... 8
-Abbildung 4: Entgleiste Staubgutwagen am Schluss des Zuges................................................. 9
-Abbildung 5: Zettelhalter am letzten Wagen ........................................................................... 15
-Abbildung 6: Vergleich Hemmschuhe ...................................................................................... 16
-Abbildung 7: EFR Auswertung .................................................................................................. 18
-Abbildung 8: Wagenliste DGS 44506 ....................................................................................... 20
-Abbildung 9: Entgleister siebter Wagen .................................................................................. 22
-Abbildung 10: Schäden am Wagenzug ..................................................................................... 22
+Sicherheitsempfehlungen ................................................................................... 25 
 
-III.
+I.  Änderungsverzeichnis:	
 
-Tabellenverzeichnis:
-Tabelle 1: Übersicht der äußeren Bedingungen ........................................................................ 7
-Tabelle 2: Übersicht der geschätzten Schadenshöhe ................................................................ 8
-Tabelle 3: Technische Daten Tfz E186 209 ............................................................................... 21
-Tabelle 4: Technische Daten des zuerst entgleisten Wagens .................................................. 21
+Änderung 
 
-III
+Stand 
 
-Untersuchungsbericht
-Zugkollision, 15.02.2019, Bf Augsburg Hbf
+II 
 
-IV.
+ 
+ 
+ 
+ 
+ 
+ 
+	
+	
+Untersuchungsbericht 
 
-Abkürzungsverzeichnis:
-AEG
+Zugkollision, 15.02.2019, Bf Augsburg Hbf 
 
-Allgemeines Eisenbahngesetz
+II.  Abbildungsverzeichnis:	
 
-BEU
+Abbildung 1: Lageplan Augsburg Hbf ......................................................................................... 5 
 
-Bundesstelle für Eisenbahnunfalluntersuchung
+Abbildung 2: Gleislageskizze mit Fahrtverlauf DGS 44506 ........................................................ 6 
 
-BEVVG
+Abbildung 3: Zugspitze ca. im km 1,8 ......................................................................................... 8 
 
-Bundeseisenbahnverkehrsverwaltungsgesetz
+Abbildung 4: Entgleiste Staubgutwagen am Schluss des Zuges ................................................. 9 
 
-Bf
+Abbildung 5: Zettelhalter am letzten Wagen ........................................................................... 15 
 
-Bahnhof
+Abbildung 6: Vergleich Hemmschuhe ...................................................................................... 16 
 
-B
+Abbildung 7: EFR Auswertung .................................................................................................. 18 
 
-Bahnhofsteil
+Abbildung 8: Wagenliste DGS 44506 ....................................................................................... 20 
 
-BRW
+Abbildung 9: Entgleister siebter Wagen .................................................................................. 22 
 
-Betriebsregelwerk EVU
+Abbildung 10: Schäden am Wagenzug ..................................................................................... 22 
 
-EFR
+III.  Tabellenverzeichnis:	
 
-Elektronische Fahrtenregistrierung
+Tabelle 1: Übersicht der äußeren Bedingungen ........................................................................ 7 
 
-EIU
+Tabelle 2: Übersicht der geschätzten Schadenshöhe ................................................................ 8 
 
-Eisenbahninfrastrukturunternehmen
+Tabelle 3: Technische Daten Tfz E186 209 ............................................................................... 21 
 
-EU
+Tabelle 4: Technische Daten des zuerst entgleisten Wagens .................................................. 21 
 
-Europäische Union
+III 
 
-EUV
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Eisenbahn-Unfalluntersuchungsverordnung
+Zugkollision, 15.02.2019, Bf Augsburg Hbf 
 
-EVU
+IV.  Abkürzungsverzeichnis:	
 
-Eisenbahnverkehrsunternehmen
+AEG 
 
-Fdl
+BEU 
 
-Fahrdienstleiter
+Allgemeines Eisenbahngesetz 
 
-GSM-R
+Bundesstelle für Eisenbahnunfalluntersuchung 
 
-Global System for Mobile Communica ons – Railway
+BEVVG 
 
-Lrf
+Bundeseisenbahnverkehrsverwaltungsgesetz 
 
-Lokrangierführer
+Bf 
 
-LZB
+B(cid:332) 
 
-Linienförmige Zugbeeinflussung
+Bahnhof 
 
-PZB
+Bahnhofsteil 
 
-Punk örmige Zugbeeinflussung
+BRW 
 
-Ril
+Betriebsregelwerk EVU 
 
-Richtlinie
+EFR 
 
-SMS
+EIU 
 
-Sicherheitsmanagementsystem
+EU 
 
-Tf
+EUV 
 
-Triebfahrzeugführer
+EVU 
 
-Tfz
+Fdl 
 
-Triebfahrzeug
+Elektronische Fahrtenregistrierung 
 
-VDV
+Eisenbahninfrastrukturunternehmen 
 
-Verband Deutscher Verkehrsunternehmen e. V.
+Europäische Union 
 
-Zsig
+Eisenbahn-Unfalluntersuchungsverordnung 
 
-Zwischensignal
+Eisenbahnverkehrsunternehmen 
 
-IV
+Fahrdienstleiter 
 
-Untersuchungsbericht
-Zugkollision, 15.02.2019, Bf Augsburg Hbf
+GSM-R 
 
-1 Vorbemerkungen
-Das Kapitel Vorbemerkungen befasst sich mit allgemeinen Informa onen zur Bundesstelle für
-Eisenbahnunfalluntersuchung (BEU). Dabei wird die gesetzliche Grundlage genannt und die
-Au auorganisa on kurz umrissen.
+Global System for Mobile Communica(cid:415)ons – Railway 
 
-1.1 Organisatorischer Hinweis
-Mit der Richtlinie (EU) 2016/798 des Europäischen Parlaments und des Rates zur Eisenbahnsicherheit in der Gemeinschaft (Eisenbahnsicherheitsrichtlinie) wurden die Mitgliedstaaten
-der Europäischen Union (EU) verpflichtet, unabhängige Untersuchungsstellen für die Untersuchung bestimmter gefährlicher Ereignisse einzurichten.
-Diese Richtlinie wurde mit dem Gesetz zur Neuordnung der Eisenbahnunfalluntersuchung
-vom 27. Juni 2017 und der Eisenbahn-Unfalluntersuchungsverordnung vom 05.07.2007, die
-durch Artikel 1 der Verordnung vom 26.11.2019 geändert worden ist, umgesetzt. Die BEU ist
-eine Bundesoberbehörde im Geschäftsbereich des Bundesministeriums für Digitales und Verkehr.
-Gemäß § 6 Abs. 2 des Bundeseisenbahnverkehrsverwaltungsgesetzes (BEVVG) wurde der Sitz
-und Aufbau der BEU im „Organisationserlass zur Errichtung der Bundesstelle für
-Eisenbahnunfalluntersuchung“ des Bundesministeriums für Verkehr und digitale Infrastruktur
-festgelegt und die BEU zum 14.07.2017 errichtet.
-Näheres hierzu ist im Internet unter www.beu.bund.de eingestellt.
+Lrf 
 
-1.2 Ziel der Eisenbahnunfalluntersuchung
-Ziel und Zweck der Untersuchungen ist es, die Ursachen von gefährlichen Ereignissen aufzuklären und hieraus Hinweise zur Verbesserung der Sicherheit abzuleiten. Untersuchungen der
-BEU dienen nicht dazu, ein Verschulden festzustellen oder Fragen der Haftung oder sonstiger
-zivilrechtlicher Ansprüche zu klären und werden unabhängig von jeder gerichtlichen Untersuchung durchgeführt.
-Die Untersuchung umfasst die Sammlung und Auswertung von Informationen, die Erarbeitung
-von Schlussfolgerungen einschließlich der Feststellung der Ursachen und gegebenenfalls die
-Abgabe von Sicherheitsempfehlungen. Die Vorschläge der Untersuchungsstelle zur Vermei-
+LZB 
 
-Seite 1 von 25
+PZB 
 
-Untersuchungsbericht
-Zugkollision, 15.02.2019, Bf Augsburg Hbf
+Ril 
 
-dung von Unfällen und Verbesserung der Sicherheit im Eisenbahnverkehr werden der Sicherheitsbehörde und, soweit erforderlich, anderen Stellen und Behörden oder anderen Mitgliedstaaten der EU in Form von Sicherheitsempfehlungen mitgeteilt.
+Lokrangierführer 
 
-Seite 2 von 25
+Linienförmige Zugbeeinﬂussung 
 
-Untersuchungsbericht
-Zugkollision, 15.02.2019, Bf Augsburg Hbf
+Punk(cid:414)örmige Zugbeeinﬂussung 
 
-2 Zusammenfassung
-Das Kapitel befasst sich mit einer kurzen Darstellung des Ereignisherganges, den Folgen und
-den Primärursachen. Abschließend werden eventuell erteilte Sicherheitsempfehlungen aufgeführt.
+Richtlinie 
 
-2.1 Kurzbeschreibung des Ereignisses
-An 15.02.2019 gegen 01:32 Uhr kollidierte der Güterzug DGS 44506 auf der Fahrt von Augsburg Rbf Nord nach Antwerpen-Noord im Bahnhofsteil (B ) Augsburg Rbf Nord mit einem
-Hemmschuh.
+SMS 
 
-2.2 Folgen
-Durch das Ereignis wurden keine Personen verletzt oder getötet. In der Folge entgleisten die
-letzten drei Wagen des Güterzuges. Hierdurch kam es zu erheblichen Beschädigungen an den
-Fahrzeugen und der gesamten Infrastruktur, wodurch Sachschäden in Höhe von
-ca. 3.130.000 € entstanden.
+Sicherheitsmanagementsystem 
 
-2.3 Ursachen
-Ursächlich für die Zugkollision war ein nicht en ernter Hemmschuh an einem Radsatz des
-letzten Wagens. Der Hemmschuh wurde vom anfahrenden Güterzug mitgeschlei und verkeilte sich anschließend in der Weiche 973.
+Tf 
 
-2.4 Sicherheitsempfehlungen
-Es wurden keine Sicherheitsempfehlungen durch die BEU ausgesprochen.
+Tfz 
 
-Seite 3 von 25
+VDV 
 
-Untersuchungsbericht
-Zugkollision, 15.02.2019, Bf Augsburg Hbf
+Zsig 
 
-3 Allgemeine Angaben
-Das Kapitel beinhaltet allgemeine Angaben zur Beschreibung des Ereignisortes und der relevanten Bahnanlagen. Des Weiteren werden die an der Unfalluntersuchung beteiligten und
-mitwirkenden Stellen, die äußeren Bedingungen, die Anzahl der ggf. bei dem Ereignis verletzten und getöteten Personen sowie Art und Höhe der Folgeschäden benannt.
+Triebfahrzeugführer 
 
-3.1 Lage und Beschreibung des Ereignisortes
-Die Zugkollision ereignete sich im Bereich des Bahnhofes (Bf) Augsburg Hbf auf der Infrastruktur des Eisenbahninfrastrukturunternehmens (EIU) DB Netz AG. Der Bf war aufgrund seiner
-Größe in mehrere B
+Triebfahrzeug 
 
-unterteilt. Der Zug kollidierte bei der Ausfahrt aus dem B Augs-
+Verband Deutscher Verkehrsunternehmen e. V. 
 
-burg Rbf Nord Gleis 66 in km 0,7 mit einem Hemmschuh und kam im angrenzenden B Augsburg-Oberhausen in km 1,8 zum Halten. Nach dem Verzeichnis der örtlich zugelassenen Geschwindigkeiten befand sich der Zug dabei auf der Strecke 5305. Diese führte von B Augsburg Hbf Weiche 910 bis zum B Augsburg-Hirblinger Straße Weiche 277. Bei dieser Strecke
-handelte es sich um eine zweigleisige elektrifizierte Hauptbahn innerhalb des Bf Augsburg Hbf.
-Im km 1,5 wechselte der Zug auf die Strecke 5300. Bei der von Augsburg Hbf nach Nördlingen
-führenden Strecke 5300 handelte es sich um eine elektrifizierte Hauptbahn. Beide Strecken
-waren durchgängig mit dem Zugsicherungssystem Punk örmige Zugbeeinflussung (PZB) und
-dem digitalen Zugfunk Global System for Mobile Communica ons - Railway (GSM-R) ausgerüstet. Zusätzlich war auf der Strecke 5300 von Augsburg-Oberhausen bis Donauwörth das
-Zugsicherungssystem Linienförmige Zugbeeinflussung (LZB) installiert. Der Bremswegabstand
-am Ereignisort betrug 1.000 m. Die folgende Abbildung zeigt die geografische Lage der einzelnen B des Bf Augsburg Hbf und den geplanten Laufweg des DGS 44506.
+Zwischensignal 
 
-Seite 4 von 25
+IV 
 
-Untersuchungsbericht
-Zugkollision, 15.02.2019, Bf Augsburg Hbf
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Abbildung 1: Lageplan Augsburg Hbf1
+Zugkollision, 15.02.2019, Bf Augsburg Hbf 
 
-Aus nachfolgender Gleislageskizze ist die zurückgelegte Strecke des DGS 44506 ersichtlich. Zur
-besseren Orien erung sind relevante Infrastruktureinrichtungen, die Kollisionsstelle und die
-Entgleisungsstelle farblich hervorgehoben.
+1  Vorbemerkungen	
 
-1
+Das Kapitel Vorbemerkungen befasst sich mit allgemeinen Informa(cid:415)onen zur Bundesstelle für 
 
-Quelle: Geobasisdaten: © GeoBasis-DE / BKG [2022], bearbeitet durch BEU
+Eisenbahnunfalluntersuchung (BEU). Dabei wird die gesetzliche Grundlage genannt und die 
 
-Seite 5 von 25
+Au(cid:297)auorganisa(cid:415)on kurz umrissen. 
 
-Untersuchungsbericht
-Zugkollision, 15.02.2019, Bf Augsburg Hbf
+1.1  Organisatorischer	Hinweis	
 
-Abbildung 2: Gleislageskizze mit Fahrtverlauf DGS 445062
+Mit der Richtlinie (EU) 2016/798 des Europäischen Parlaments und des Rates zur Eisenbahn-
 
-3.2 Beteiligte und Mitwirkende
-Am Ereignis waren folgende Stellen beteiligt:
-
+sicherheit  in  der  Gemeinschaft  (Eisenbahnsicherheitsrichtlinie)  wurden  die  Mitgliedstaaten 
 
-DB Netz AG, EIU
+der Europäischen Union (EU) verpflichtet, unabhängige Untersuchungsstellen für die Unter-
 
-
+suchung bestimmter gefährlicher Ereignisse einzurichten. 
 
-DB Cargo AG, Eisenbahnverkehrsunternehmen (EVU)
+Diese  Richtlinie  wurde  mit  dem  Gesetz  zur  Neuordnung  der  Eisenbahnunfalluntersuchung 
 
-
+vom 27. Juni 2017 und der Eisenbahn-Unfalluntersuchungsverordnung vom 05.07.2007, die 
 
-Crossrail Benelux NV, EVU
+durch Artikel 1 der Verordnung vom 26.11.2019 geändert worden ist, umgesetzt. Die BEU ist 
 
-
+eine Bundesoberbehörde im Geschäftsbereich des Bundesministeriums für Digitales und Ver-
 
-WEGA Eisenbahndienstleistungs GmbH
+kehr. 
 
-Für das EIU lag eine Sicherheitsgenehmigung gemäß § 7c Allgemeines Eisenbahngesetz (AEG)
-des Eisenbahn-Bundesamtes vom 13.09.2016 vor.
-Das EVU DB Cargo AG verfügte über eine Sicherheitsbescheinigung gemäß § 7a AEG mit einer
-Gül gkeit seit dem 13.12.2015 und war damit zur Teilnahme am Eisenbahnbetrieb berech gt.
-Das EVU Crossrail Benelux NV verfügte über eine Sicherheitsbescheinigung gemäß § 7a AEG
-seit dem 23.11.2017 und war damit ebenfalls zur Teilnahme am Eisenbahnbetrieb berech gt.
+Gemäß § 6 Abs. 2 des Bundeseisenbahnverkehrsverwaltungsgesetzes (BEVVG) wurde der Sitz 
 
-2
+und  Aufbau  der  BEU 
 
-Quelle: DB Netz AG, bearbeitet durch BEU
+im  „Organisationserlass  zur  Errichtung  der  Bundesstelle  für 
 
-Seite 6 von 25
+Eisenbahnunfalluntersuchung“ des Bundesministeriums für Verkehr und digitale Infrastruktur 
 
-Untersuchungsbericht
-Zugkollision, 15.02.2019, Bf Augsburg Hbf
+festgelegt und die BEU zum 14.07.2017 errichtet. 
 
-Die WEGA Eisenbahndienstleistungs GmbH war ein Personaldienstleister, der im Au rag von
-Crossrail Benelux NV Leistungen übernahm.
-Im Rahmen der Sachverhaltsermi lung und Ursachenerforschung wurden neben den o. g. Beteiligten die Bundespolizeiinspek on Augsburg mit einbezogen.
+Näheres hierzu ist im Internet unter www.beu.bund.de eingestellt. 
 
-3.3 Äußere Bedingungen
-Zum Zeitpunkt des Ereignisses herrschten folgende Bedingungen:
-Lichtverhältnisse
+1.2  Ziel	der	Eisenbahnunfalluntersuchung	
 
-künstliche Beleuchtung >20 Lux
+Ziel und Zweck der Untersuchungen ist es, die Ursachen von gefährlichen Ereignissen aufzu-
 
-Sicht
+klären und hieraus Hinweise zur Verbesserung der Sicherheit abzuleiten. Untersuchungen der 
 
-klar
+BEU dienen nicht dazu, ein Verschulden festzustellen oder Fragen der Haftung oder sonstiger 
 
-Bedeckung
+zivilrechtlicher Ansprüche zu klären und werden unabhängig von jeder gerichtlichen Untersu-
 
-wolkenlos
+chung durchgeführt. 
 
-Temperaturen
+Die Untersuchung umfasst die Sammlung und Auswertung von Informationen, die Erarbeitung 
 
--3°C
+von Schlussfolgerungen einschließlich der Feststellung der Ursachen und gegebenenfalls die 
 
-fallender Niederschlag
+Abgabe von Sicherheitsempfehlungen. Die Vorschläge der Untersuchungsstelle zur Vermei-
 
-Nein
+Seite 1 von 25 
 
-Niederschlagshäufigkeit
+ 
+ 
+Untersuchungsbericht 
 
---
+Zugkollision, 15.02.2019, Bf Augsburg Hbf 
 
-Untergrund / gefallener Niederschlag
+dung von Unfällen und Verbesserung der Sicherheit im Eisenbahnverkehr werden der Sicher-
 
-trocken
+heitsbehörde und, soweit erforderlich, anderen Stellen und Behörden oder anderen Mitglied-
 
-Tabelle 1: Übersicht der äußeren Bedingungen
+staaten der EU in Form von Sicherheitsempfehlungen mitgeteilt. 
 
-Zum Ereigniszeitpunkt herrschte Dunkelheit. Im Gleis 66 war eine künstliche Beleuchtung mit
-einer Lichtstärke größer 20 Lux vorhanden.
-Feststellung zu den äußeren Bedingungen
-Lfd. Nr. 1
-Die äußeren Bedingungen stehen in keinem unmi elbaren Zusammenhang mit dem Ereignis.
+Seite 2 von 25 
 
-Seite 7 von 25
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Untersuchungsbericht
-Zugkollision, 15.02.2019, Bf Augsburg Hbf
+Zugkollision, 15.02.2019, Bf Augsburg Hbf 
 
-3.4 Todesopfer, Verletzte und Sachschäden
-Bei dem Ereignis wurden keine Personen verletzt oder getötet.
-Durch die Entgleisung wurden insgesamt drei Wagen sowie die Infrastruktur auf einer Länge
-von ca. 500 m beschädigt. In der Folge kam es zu erheblichen betrieblichen Einschränkungen
-auf den Strecken 5305 und 5300.
-Die geschätzte Höhe der entstandenen Sachschäden ist in folgender Tabelle ersichtlich:
-geschätzte Kosten in Euro
-Fahrzeuge
+2  Zusammenfassung	
 
-130.000
+Das Kapitel befasst sich mit einer kurzen Darstellung des Ereignisherganges, den Folgen und 
 
-Infrastruktur
+den Primärursachen. Abschließend werden eventuell erteilte Sicherheitsempfehlungen auf-
 
-3.000.000
+geführt. 
 
-Dri e
+2.1  Kurzbeschreibung	des	Ereignisses	
 
--
+An 15.02.2019 gegen 01:32 Uhr kollidierte der Güterzug DGS 44506 auf der Fahrt von Augs-
 
-Gesamtschadenshöhe
+burg  Rbf  Nord  nach  Antwerpen-Noord  im  Bahnhofsteil  (B(cid:332))  Augsburg  Rbf  Nord  mit  einem 
 
-3.130.000
+Hemmschuh. 
 
-Tabelle 2: Übersicht der geschätzten Schadenshöhe
+2.2  Folgen	
 
-Die folgenden Abbildungen zeigen den Zug nach der Entgleisung ca. im km 1,8.
+Durch das Ereignis wurden keine Personen verletzt oder getötet. In der Folge entgleisten die 
 
-Abbildung 3: Zugspitze ca. im km 1,8
+letzten drei Wagen des Güterzuges. Hierdurch kam es zu erheblichen Beschädigungen an den 
 
-Seite 8 von 25
+Fahrzeugen  und  der  gesamten 
 
-Untersuchungsbericht
-Zugkollision, 15.02.2019, Bf Augsburg Hbf
+Infrastruktur,  wodurch  Sachschäden 
 
-Abbildung 4: Entgleiste Staubgutwagen am Schluss des Zuges
+in  Höhe  von 
 
-Seite 9 von 25
+ca. 3.130.000 € entstanden. 
 
-Untersuchungsbericht
-Zugkollision, 15.02.2019, Bf Augsburg Hbf
+2.3  Ursachen	
 
-4 Untersuchungsprotokoll
-In diesem Kapitel werden die ermi elten Ergebnisse zu einzelnen in Zusammenhang mit dem
-Ereignis stehenden Teilbereichen des Eisenbahnwesens dargestellt. Daneben werden auch die
-entsprechenden Schni stellen sowie das Sicherheitsmanagement (SMS) im betroﬀenen Bereich betrachtet. Die jeweilig relevanten Erkenntnisse werden fortlaufend aufgeführt.
+Ursächlich  für  die  Zugkollision  war  ein  nicht  en(cid:414)ernter  Hemmschuh  an  einem  Radsatz  des 
 
-4.1 Zusammenfassung von Aussagen und Stellungnahmen
-In den folgenden Abschni en werden die relevanten Aussagen und Stellungnahmen einiger
-beteiligter Mitarbeiter zusammengefasst dargestellt. Diese wurden dem jeweiligen Arbeitgeber gegenüber abgegeben. Verschiedene Ergänzungen wurden im Rahmen der Unfalluntersuchung im Nachgang bei den Beteiligten abgefragt.
-4.1.1 Stellungnahme Lrf der DB Cargo AG
-Der Lokrangierführer (Lrf) der DB Cargo AG gab gegenüber seinem Arbeitgeber an, er habe
-fünf Wagen ca. 50 – 100 m en ernt vom Hauptsignal K 66 in Gleis 66 abgestellt. Dabei habe
-er den ersten Wagen in Richtung München talsei g mit einem Hemmschuh festgelegt. Den
-Hemmschuh habe er auf der dem Empfangsgebäude zugewandten Seite aufgelegt. Zusätzlich
-habe er den „Meldeze el Festlegung“ am Ze elhalter des festgelegten Wagens angebracht.
-4.1.2 Stellungnahme des Mitarbeiters der WEGA Eisenbahndienstleistungs GmbH
-Im Rahmen seiner Dienstschicht habe er fünf Wagen eines um 00:30 Uhr angekommenen Zuges aus Gablingen abgekuppelt und diese mit Hilfe des Triebfahrzeugführers (Tf) und des
-Triebfahrzeuges (Tfz) nach Gleis 67 rangiert. Die verbleibenden drei Wagen habe er zur Zugbildung des DGS 44506 nach Gleis 66 an eine dort stehende Wagengruppe beigestellt und gekuppelt. Im Anschluss habe er mit dem Tf des Güterzuges DGS 44506 eine volle Bremsprobe
-durchgeführt.
-In Zuge der Bremsprobe habe er auf der rechten Seite [red. Anm.: Seite des Empfangsgebäudes], Blickrichtung B
+letzten Wagens. Der Hemmschuh wurde vom anfahrenden Güterzug mitgeschlei(cid:332) und ver-
 
-Augsburg-Oberhausen, überprü , ob die Bremsen angelegt seien.
+keilte sich anschließend in der Weiche 973. 
 
-Nachdem er am Schluss des Zuges angekommen war, habe er die Schlussscheiben gesteckt
-und eine Durchgangsprüfung durchgeführt. Anschließend sei er auf der linken Seite zurück
-zum Tf gegangen. Dabei habe er kontrolliert, ob die Bremsen gelöst seien. Anschließend habe
-er an der Zugspitze gewartet, bis der Tf die Rollprobe durchführte. Dabei habe er auf der Lokführerseite gestanden und habe nichts Außergewöhnliches gehört.
+2.4  Sicherheitsempfehlungen	
 
-Seite 10 von 25
+Es wurden keine Sicherheitsempfehlungen durch die BEU ausgesprochen. 
 
-Untersuchungsbericht
-Zugkollision, 15.02.2019, Bf Augsburg Hbf
+Seite 3 von 25 
 
-Des Weiteren gab er an, dass ihm bei seiner Tä gkeit keine Vermerke über angezogene Handbremsen oder aufgelegte Hemmschuhe an den Wagen aufgefallen seien.
-4.1.3 Stellungnahme Tf Crossrail Benelux NV
-Der Tf gab gegenüber seinem Arbeitgeber an, dass er in der Nacht vom 14.02.2019 auf den
-15.02.2019 für die Schicht DR3 eingeteilt worden sei. Diese Schicht beinhaltete die Zugfahrt
-mit dem Güterzug DGS 44506 von Augsburg Rbf Nord nach Gemünden.
-Nachdem der Zug in Gleis 66 zusammengestellt worden war, habe der Mitarbeiter der Firma
-WEGA Eisenbahndienstleistungs GmbH eine volle Bremsprobe durchgeführt. Dabei seien dem
-Tf keine Unregelmäßigkeiten aufgefallen. Nachdem die volle Bremsprobe abgeschlossen war,
-sei im mündlich durch den Mitarbeiter der Firma WEGA Eisenbahndienstleistungs GmbH
-Bremse in Ordnung gemeldet worden.
-Anschließend habe er eine Zugvorbereitungsmeldung über GSM-R an den Fahrdienstleiter
-(Fdl) abgegeben. Der Tf gab weiterhin an, dass er wenig später die Signalstellung Hp 2 erkannt
-habe und darau in abgefahren sei. Zur Anfahrprobe habe er kurzei g Leistung aufgeschaltet,
-bis der Zug rollte. Dabei sei ihm nichts Außergewöhnliches aufgefallen.
-Kurz darauf habe er eine starke Zerrung im Zugverband bemerkt und eine Zwangsbremsung
-erhalten. Darau in habe er sofort einen Nothaltau rag abgegeben.
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-4.2 Notfallmanagement
-Nach § 4 Abs. 3 Allgemeines Eisenbahngesetz (AEG) haben die Eisenbahnen die Verpflichtung,
-an Maßnahmen des Brandschutzes und der technischen Hilfeleistung mitzuwirken. In einer
-Vereinbarung zwischen den Innenministerien der Länder und der DB AG hat man sich auf eine
-Verfahrensweise verständigt. Für die DB Netz AG gelten die entsprechenden Brand- und Katastrophenschutzgesetze der Länder. Das No allmanagement der DB AG ist in der Konzernrichtlinie 123, das der DB Netz AG in der Richtlinie (Ril) 423 näher beschrieben und geregelt.
-Die Bergung der entgleisten Fahrzeuge wurde bei diesem Ereignis durch die DB Netz AG
-durchgeführt. Weitere technische oder personelle Hilfeleistungen wurden nicht in Anspruch
-genommen.
+Zugkollision, 15.02.2019, Bf Augsburg Hbf 
 
-Seite 11 von 25
+3  Allgemeine	Angaben	
 
-Untersuchungsbericht
-Zugkollision, 15.02.2019, Bf Augsburg Hbf
+Das Kapitel beinhaltet allgemeine Angaben zur Beschreibung des Ereignisortes und der rele-
 
-Feststellungen zum No allmanagement
-Lfd. Nr. 2
-Eine Untersuchung des No allmanagements war nicht erforderlich, da weder Personen gere et, noch schwere Folgen, bspw. für die Umwelt, abzuwenden waren.
+vanten  Bahnanlagen.  Des  Weiteren  werden  die  an  der  Unfalluntersuchung  beteiligten  und 
 
-4.3 Untersuchung der bautechnischen Infrastruktur
-Bei der Besich gung der bautechnischen Infrastruktur vor Ort ergaben sich keine Anhaltspunkte, die für einen Mangel am Oberbau sprachen. Alle erkennbaren Beschädigungen waren
-Folgeschäden, die durch die Entgleisung hervorgerufen worden waren. Des Weiteren gab es
-keine Hinweise auf Instandhaltungsdefizite, die im Zusammenhang mit dem Ereignis standen.
-Aus diesem Grund wurde auf weitergehende bautechnische Untersuchungen und Messungen
-verzichtet.
-Feststellung zur bautechnischen Infrastruktur
-Lfd. Nr. 3
-Die bautechnische Infrastruktur ha e keinen Einfluss auf das Unfallgeschehen. Weitere Untersuchungen wurden nicht durchgeführt.
+mitwirkenden Stellen, die äußeren Bedingungen, die Anzahl der ggf. bei dem Ereignis verletz-
 
-4.4 Untersuchung der Leit‐ und Sicherungstechnik
-Der gesamte Bf Augsburg Hbf verfügte über ein Stellwerk der Bauform Sp Dr S 60, Baujahr
-1972, mit der Bezeichnung Af.
-Sämtliche Hauptsignale waren als Lichtsignale im H/V-System ausgeführt. Die Ausfahrt des
-Güterzuges DGS 44506 erfolgte auf gesicherter Zugstraße unter Bedienung der Hauptsignale.
-Es ergaben sich keine Hinweise, dass eine eventuelle Störung oder Fehlfunk on der Leit- und
-Sicherungstechnik zum Ereignis beigetragen hä e. Eine weitergehende Untersuchung dieser
-Anlagen wurde nicht vorgenommen.
+ten und getöteten Personen sowie Art und Höhe der Folgeschäden benannt. 
 
-Seite 12 von 25
+3.1  Lage	und	Beschreibung	des	Ereignisortes	
 
-Untersuchungsbericht
-Zugkollision, 15.02.2019, Bf Augsburg Hbf
+Die Zugkollision ereignete sich im Bereich des Bahnhofes (Bf) Augsburg Hbf auf der Infrastruk-
 
-Feststellung zur Untersuchung der Leit‐ und Sicherungstechnik
-Lfd. Nr. 4
-Die Leit- und Sicherungstechnik arbeitete zum Zeitpunkt des Ereignisses ordnungsgemäß.
-Ein Einfluss auf den Unfallhergang wurde nicht festgestellt.
+tur des Eisenbahninfrastrukturunternehmens (EIU) DB Netz AG. Der Bf war aufgrund seiner 
 
-4.5 Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers
-Die Betriebsabwicklung des EIU DB Netz AG im Bf Augsburg Hbf erfolgte nach den Vorgaben
-der Ril 408 Fahrdienstvorschri . Örtliche Besonderheiten waren im Betriebsstellenbuch für
-den Bf Augsburg Hbf dokumen ert.
-Das Stellwerk Augsburg Hbf Af, aufgeteilt in die Zuständigkeitsbereiche Nord und Süd, war mit
-vier Fahrdienstleitern besetzt. Für das Ereignis relevant war der im Nordbereich des Bf Augsburg Hbf zuständige Fdl 1 Nord.
-Der Zuständigkeitsbereich des Fdl 1 Nord erstreckte sich über die zurückgelegte Strecke des
-Güterzuges DGS 44506 von der Abfahrt im Gleis 66 bis zum Halt des Zuges nach der Entgleisung im km 1,8.
-Der Fdl 1 Nord ha e eine Ausbildung zum Eisenbahner im Betriebsdienst, Fachrichtung Fahrweg absolviert. Er war örtlich eingewiesen und seit 2016 dauerha im Bf Augsburg Hbf als Fdl
-eingesetzt. Alle erforderlichen Aus- und Weiterbildungen wurden nachgewiesen. Die letzte
-örtliche Überwachung vor dem Ereignis fand am 16.11.2018 sta . Ein Nachweis der betrieblichen Tauglichkeit wurde erbracht.
-Nachdem der Fdl vom Tf des Güterzuges DGS 44506 die Zugvorbereitungsmeldung gemäß Ril
-408.0321 über GSM-R erhalten ha e, s mmte er der Abfahrt des DGS 44506 aus dem Gleis
-66 durch Fahrtstellung des Zwischensignals (Zsig) R 66 zu.
-Unmi elbar nach dem Ereignis handelte der Fdl gemäß Ril 408.0581 „Verhalten bei Gefahr“,
-sperrte die betroﬀenen B und verständigte die No allleitstelle.
-Bis zum Zeitpunkt des Ereignisses erfolgten die Zug- und Rangierfahrten im Regelbetrieb.
+Größe  in  mehrere  B(cid:332)  unterteilt.  Der  Zug  kollidierte  bei  der  Ausfahrt  aus  dem  B(cid:332) Augs-
 
-Seite 13 von 25
+burg Rbf Nord Gleis 66 in km 0,7 mit einem Hemmschuh und kam im angrenzenden B(cid:332) Augs-
 
-Untersuchungsbericht
-Zugkollision, 15.02.2019, Bf Augsburg Hbf
+burg-Oberhausen in km 1,8 zum Halten. Nach dem Verzeichnis der örtlich zugelassenen Ge-
 
-Feststellung zur Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers
-Lfd. Nr. 5
-Bei der Überprüfung der Abläufe des EIU wurden keine Mängel in der Umsetzung betrieblicher Handlungen festgestellt.
+schwindigkeiten befand sich der Zug dabei auf der Strecke 5305. Diese führte von B(cid:332) Augs-
 
-4.6 Untersuchung der betrieblichen Abläufe der EVU
-Die Zugbildung für den DGS 44506 erfolgte unmi elbar vor der Abfahrt im B Augsburg Rbf
-Nord im Gleis 66. An der Zugbildung waren Mitarbeiter der DB Cargo AG, der WEGA Eisenbahndienstleistungs GmbH und der Crossrail Benelux NV beteiligt.
-4.6.1 Untersuchung der betrieblichen Abläufe des EVU DB Cargo AG
-Die letzten fünf Wagen des DGS 44506 wurden vor der eigentlichen Zugbildung durch die
-DB Cargo AG im Gleis 66 bereitgestellt. Zum Abstellen dieser Wagengruppe galten für dieses
-Gleis gemäß örtlicher Infrastrukturregelungen und der Ril 915.0107 folgende Regelungen:
-1. Die für die Berechnung der Anzahl der benö gten Festlegemi el maßgebliche Neigung im
-Gleis 66 betrug nach den Angaben für das Streckenbuch 6,3 ‰.
-2. Die Ril 915.0107 Abschni 8 Absatz 6 schrieb für diese Neigung je angefangene 200 t oder
-je angefangene acht Achsen vor, eine Hand- oder Feststellbremse anzuziehen. Abweichend erlaubte die o. g. Ril eine Hand- oder Feststellbremse durch das Auflegen von zwei
-Hemmschuhen aus beiden Richtungen unter einem Rad oder einem Drehgestell zu ersetzen.
-3. Bedingt durch das Gefälle in Richtung Norden / Donauwörth war als Erleichterung zur
-Ril 915.0107 Abschni 8 Absatz 6 laut Angaben für das Streckenbuch zugelassen, dass das
-Auflegen eines Hemmschuhs talsei g als ausreichend gilt.
-4. Ergänzend waren die Festlegemi el gemäß den örtlichen Zusätzen für Mitarbeiter auf Betriebsstellen, beginnend aus Richtung Süden (München), auf der dem Empfangsgebäude
-zugewandten Seite aufzulegen.
-Die letzten fünf Wagen waren nicht beladen und ha en eine Gesamtmasse von 91 t. Gemäß
-den vorgenannten Vorgaben war die Wagengruppe im Gleis 66 mit einem Hemmschuh zu sichern.
+burg Hbf Weiche 910 bis zum B(cid:332) Augsburg-Hirblinger Straße Weiche 277. Bei dieser Strecke 
 
-Seite 14 von 25
+handelte es sich um eine zweigleisige elektriﬁzierte Hauptbahn innerhalb des Bf Augsburg Hbf. 
 
-Untersuchungsbericht
-Zugkollision, 15.02.2019, Bf Augsburg Hbf
+Im km 1,5 wechselte der Zug auf die Strecke 5300. Bei der von Augsburg Hbf nach Nördlingen 
 
-Die Festlegung der Fahrzeuge war gemäß DBCDE.4831 grundsätzlich durch das Anbringen eines „Meldeze el Festlegung“ zu dokumen eren. Dieser war, gemäß Abschni 4 Absatz 4, am
-ersten Fahrzeug in Festlegerichtung anzubringen. Ein Verzicht auf die Dokumenta on mi els
-„Meldeze el Festlegung“ war nach DBCDE.4831 Abschni 4 Absatz 6 zulässig, wenn dies in
-den örtlichen Zusätzen vorgegeben war. Im konkreten Fall war in den örtlichen Zusätzen für
-die Mitarbeiter der Betriebsstelle Augsburg geregelt, dass unter anderem in den Gleisen 60
-bis 66 der „Meldeze el Festlegung“ am Ende der Besetzungszeit durch Personal der DB Cargo
-AG zu en ernen war. Dies sollte Uns mmigkeiten beim Beistellen weiterer Wagen durch andere EVU verhindern, da diese zum Ereigniszeitpunkt teilweise noch keine Dokumenta on
-über verwendete Festlegemi el anwendeten. Wie aus folgender Abbildung ersichtlich, wurde
-am Ereignisort am entsprechenden Ze elhalter des letzten Wagens kein „Meldeze el Festlegung“ vorgefunden.
+führenden Strecke 5300 handelte es sich um eine elektriﬁzierte Hauptbahn. Beide Strecken 
 
-Abbildung 5: Ze elhalter am letzten Wagen
+waren durchgängig mit dem Zugsicherungssystem Punk(cid:414)örmige Zugbeeinﬂussung (PZB) und 
 
-Untersuchung des verwendeten Festlegemi els
-Für den Umgang mit Hemmschuhen und anderen Rangierarbeitsmi eln kam bei der
-DB Cargo AG die Ril 435.0101Z01 zur Anwendung. Im Abschni
+dem digitalen Zugfunk Global System for Mobile Communica(cid:415)ons - Railway (GSM-R) ausge-
 
-2 war festgelegt, dass die
+rüstet.  Zusätzlich  war  auf  der  Strecke 5300  von  Augsburg-Oberhausen  bis  Donauwörth  das 
 
-Hemmschuhe vor jeder Verwendung auf ordnungsgemäßen Zustand zu prüfen waren. Beschädigte Festlegemi el dur en nicht verwendet werden. Nach den örtlichen Zusätzen für Mitarbeiter auf Betriebsstellen waren im Bereich des B Augsburg Rbf Nord Hemmschuhe der Form
-S 49 zu verwenden. Dabei mussten Sohle, Griﬀ und Bock in leuchtgelber Farbe ausgeführt sein.
-Der am Ereignisort aufgefundene Hemmschuh war in einem op sch schlechten Zustand. Abgesehen von den Schäden, die bei dem Ereignis entstanden waren, war der Farbanstrich kaum
-erkennbar. Neben oberflächlichen Roststellen war die Sohlenspitze stark ausgedünnt. Die
-nachfolgende Abbildung zeigt einen Vergleich zwischen einem Hemmschuh neuerer Bauform
-und den in Augsburg benutzen Hemmschuh.
+Zugsicherungssystem Linienförmige Zugbeeinﬂussung (LZB) installiert. Der Bremswegabstand 
 
-Seite 15 von 25
+am Ereignisort betrug 1.000 m. Die folgende Abbildung zeigt die geograﬁsche Lage der einzel-
 
-Untersuchungsbericht
-Zugkollision, 15.02.2019, Bf Augsburg Hbf
+nen B(cid:332) des Bf Augsburg Hbf und den geplanten Laufweg des DGS 44506. 
 
-Abbildung 6: Vergleich Hemmschuhe3
+Seite 4 von 25 
 
-4.6.2 Zuarbeit durch die WEGA Eisenbahndienstleistungs GmbH
-Gemeinsam mit dem Tf der Crossrail Benelux NV war ein Mitarbeiter der WEGA Eisenbahndienstleistungs GmbH beau ragt, an der Zugbildung und Zugvorbereitung mitzuwirken.
-Der BEU lagen Prüfungsbescheinigungen vor, die den betroﬀenen Mitarbeiter zum Bremsprobeberech gten nach den Bes mmungen des Verbandes Deutscher Verkehrsunternehmen e. V. (VDV) Schri 757 und zur Wagenprüfung an Güterwagen nach VDV Schri 758 befähigten. Des Weiteren konnten die notwendigen Fortbildungen für die Tä gkeit als Wagenmeister nachgewiesen werden. Ob der Mitarbeiter befähigt war, selbständig Rangierarbeiten
-im Bf Augsburg Hbf durchzuführen, konnte aufgrund der Insolvenz der WEGA Eisenbahndienstleistungs GmbH nicht mehr ermi elt werden.
-Im Anschluss an die Zugbildung im Gleis 66 wurde durch den Mitarbeiter gemeinsam mit dem
-Tf die Zugvorbereitung durchgeführt. Dabei kam das Betriebsregelwerk EVU (BRW) des VDV
-zur Anwendung. Die Zugvorbereitung war nach BRW.4321 Abschni 1 am Zuganfangsbahnhof
-grundsätzlich vom Zugführer durchzuführen. Es war nach BRW.4321 Abschni 1 zulässig, dass
-Aufgaben von anderen Mitarbeitern durchgeführt wurden. Zugführer war im vorliegenden Fall
-der Tf des DGS 44506, der bes mmte Tä gkeiten der Zugvorbereitung an den Mitarbeiter der
-WEGA Eisenbahndienstleistungs GmbH übertragen ha e. Die Bedingungen, die dabei gemäß
-BRW.4321 Abschni 2 Absatz 1 zu prüfen waren, sind im Folgenden auszugsweise dargestellt.
+ 
+ 
+Untersuchungsbericht 
 
-3
+Zugkollision, 15.02.2019, Bf Augsburg Hbf 
 
-Quelle: DB Cargo AG, Ril 435.0101Z01 Abschnitt 2 Absatz 4, bearbeitet durch BEU
+Abbildung 1: Lageplan Augsburg Hbf1  
 
-Seite 16 von 25
+Aus nachfolgender Gleislageskizze ist die zurückgelegte Strecke des DGS 44506 ersichtlich. Zur 
 
-Untersuchungsbericht
-Zugkollision, 15.02.2019, Bf Augsburg Hbf
+besseren Orien(cid:415)erung sind relevante Infrastruktureinrichtungen, die Kollisionsstelle und die 
 
-Ein Zug ist vorbereitet, wenn
-1. die Fahrzeuge ordnungsgemäß gekuppelt sind;
-2. die wagentechnische Behandlung durchgeführt ist;
-3. ‐ soweit erforderlich ‐ die Bremsprobe ausgeführt ist;
-4. ‐ soweit ein Bremsze el zu führen ist – dieser erstellt ist und sich beim Triebfahr‐
-zeugführer auf dem Fahrzeug an der Spitze des Zuges befindet;
-[…]
-6. die Zugsignale angebracht sind, der Triebfahrzeugführer muss dafür sorgen, dass
-die Zugsignale am Triebfahrzeug oder am Fahrzeug an der Spitze des Zuges ange‐
-bracht sind;
-7. die Festlegemi el en ernt und die Feststellbremsen gelöst sind;
-[….]4
-Nach eigenen Angaben führte der Mitarbeiter der WEGA Eisenbahndienstleistungs GmbH eine
-volle Bremsprobe durch und brachte am letzten Wagen die Zugsignale an. Dabei ging er zuerst
-auf der in Fahrtrichtung rechten Seite nach hinten. Den Rückweg führte er auf der in Fahrtrichtung linken Seite durch. Laut seiner Aussagen fand er dabei keine Hinweise auf Festlegemi el oder angezogene Handbremsen. Auch einen „Meldeze el Festlegung“, wie ihn die
-DB Cargo AG gemäß DBCDE.4831 zu diesem Zeitpunkt verwendete, wurde durch den Mitarbeiter nicht vorgefunden.
-4.6.3 Untersuchung der betrieblichen Abläufe des EVU Crossrail Benelux NV
-Verantwortliches EVU für die Zugbildung und die Zugfahrt des DGS 44506 war das EVU Crossrail Benelux NV. Laut den vorliegenden Unterlagen sollte der Güterzug von Augsburg Rbf Nord
-nach Antwerpen Noord verkehren.
-Der Tf war im Besitz eines gül gen EU-Triebfahrzeugführerscheins. Die vorgelegte Zusatzbescheinigung der Crossrail Benelux NV für die Klasse A (Rangierfahrten) und B (Zugfahrten) berech gte ihm zum Führen des eingesetzten Tfz der Baureihe 186. Des Weiteren war er qualifiziert, Arbeiten als Wagenprüfer für Güterzüge (nach VDV Schri 757 / Ril 93695) und Bremsbeamter (nach VDV Schri 757 / Ril 915) durchzuführen. Nachweise über die medizinische und
+Entgleisungsstelle farblich hervorgehoben. 
 
-4
+1 Quelle:  Geobasisdaten: © GeoBasis-DE / BKG [2022], bearbeitet durch BEU 
 
-Quelle: VDV, BRW.4321 Abschnitt 2 Absatz 1
+Seite 5 von 25 
 
-Seite 17 von 25
+ 
+ 
+ 
+                                                       
+Untersuchungsbericht 
 
-Untersuchungsbericht
-Zugkollision, 15.02.2019, Bf Augsburg Hbf
+Zugkollision, 15.02.2019, Bf Augsburg Hbf 
 
-psychologische Eignung sowie über die Durchführung von regelmäßigen Fortbildungsunterrichten wurden der BEU vorgelegt.
-Nach Abschluss der Zugvorbereitung gab der Tf eine Zugvorbereitungsmeldung gemäß
-Ril 408.2321 Absatz 2 über GSM-R an den zuständigen Fdl ab. Kurz darauf s mmte der Fdl der
-Abfahrt des Güterzuges DGS 44506 aus dem B
+Abbildung 2: Gleislageskizze mit Fahrtverlauf DGS 445062 
 
-Augsburg Rbf Nord mit Fahrstellung des
+3.2  Beteiligte	und	Mitwirkende	
 
-Zsig R 66 zu. Das Zsig zeigte die Signalstellung Hp 2 „Langsamfahrt“ und schrieb eine Geschwindigkeitsbeschränkung von 40 km/h im anschließenden Weichenbereich vor. Dieser erstreckte sich vom Zsig R 66 bis zum nächsten Hauptsignal im B Augsburg Oberhausen.
-Auswertung des Fahrtverlaufes
-Zur Rekonstruk on des Ereignisses wurde die elektronische Fahrtenregistrierung (EFR) des betroﬀenen Tfz ausgewertet. Aus dieser geht hervor, dass der Zug auf 37 km/h beschleunigt
-wurde, bevor es zur Entgleisung kam. Die folgende Abbildung zeigt die grafische EFR Auswertung des gesamten Fahrtverlaufes des DGS 44506. Dabei ist zu beachten, dass die dargestellten Zeiten systembedingt von der tatsächlichen Uhrzeit abweichen können.
+Am Ereignis waren folgende Stellen beteiligt: 
 
-Abbildung 7: EFR Auswertung5
+  DB Netz AG, EIU 
 
-5
+  DB Cargo AG, Eisenbahnverkehrsunternehmen (EVU) 
 
-Quelle: Crossrail Benelux NV
+  Crossrail Benelux NV, EVU 
 
-Seite 18 von 25
+  WEGA Eisenbahndienstleistungs GmbH 
 
-Untersuchungsbericht
-Zugkollision, 15.02.2019, Bf Augsburg Hbf
+Für das EIU lag eine Sicherheitsgenehmigung gemäß § 7c Allgemeines Eisenbahngesetz (AEG) 
 
-Ferner ist aus dem Zeit-Geschwindigkeits-Diagramm ersichtlich, dass der Tf eine Anfahrprobe
-zu Beginn der Zugfahrt durchführte.
-Diese war nach BRW 5333 Abschni 3 bei Güterzügen bei der ersten Anfahrt nach der Zugbildung durchzuführen. Zur Durchführung der Anfahrprobe ist nach Absatz 3 der Zug bei geöﬀnetem Führerraumfenster auf Schri geschwindigkeit zu beschleunigen. Anschließend muss
-der Zug, ohne Zugkra aufzuschalten, selbständig rollen. Dabei ist nach Absatz 4 auf etwaige
-Unregelmäßigkeiten zu achten. Als Unregelmäßigkeiten sind z. B. Schleifgeräusche, Zerrungen
-im Zugverband oder schwerlaufende Fahrzeuge angeführt. Werden Unregelmäßigkeiten erkannt, ist der Zug sofort anzuhalten und der Zug auf Festlegemi el oder nicht gelöste Bremsen
-zu prüfen.
-Die Auswertung der EFR ergab, dass der Zug während der Anfahrphase zunächst auf ca.
-7 km/h beschleunigt wurde und anschließend ca. 40 m weit rollte. Hierbei verringerte sich die
-Geschwindigkeit auf ca. 5 km/h. Unregelmäßigkeiten bei der Anfahrt des Zuges waren anhand
-der vorliegenden EFR-Auswertung nicht erkennbar. Der Güterzug entgleiste ca. 800 m nach
-der Kollision mit dem Hemmschuh auf der Weiche 973. Des Weiteren ergab die EFR-Auswertung, dass der Zug eine Gesam ahrstrecke von ca. 1.000 m zurücklegte, bevor er ca. in km 1,8
-zum Halten kam. Dabei wurde ein Wechsel der EFR-Spur „Zl Lu “ von „1“ auf „0“ ca. 10 m vor
-dem endgül gen Halt des Zuges registriert. Dieser Wechsel der Spur kann entweder durch
-eine eingeleitete Schnellbremsung des Tf oder durch eine Trennung der Hauptlu leitung infolge der Entgleisung und einer dadurch ausgelösten Zwangsbremsung hervorgerufen worden
-sein.
-Feststellung zur Untersuchung der betrieblichen Abläufe der EVUs
-Lfd. Nr. 6
-Der verwendete Hemmschuh war technisch und op sch im schlechten Zustand und für eine
-Verwendung nicht zulässig.
-Bei der Zugvorbereitung durch den Wagenmeister und den Tf wurden keine Festlegemi el
-erkannt.
-Die Rekonstruk on der Anfahrphase war nur eingeschränkt möglich.
+des Eisenbahn-Bundesamtes vom 13.09.2016 vor. 
 
-Seite 19 von 25
+Das EVU DB Cargo AG verfügte über eine Sicherheitsbescheinigung gemäß § 7a AEG mit einer 
 
-Untersuchungsbericht
-Zugkollision, 15.02.2019, Bf Augsburg Hbf
+Gül(cid:415)gkeit seit dem 13.12.2015 und war damit zur Teilnahme am Eisenbahnbetrieb berech(cid:415)gt. 
 
-4.7 Untersuchung von Fahrzeugen
-Bei dem DGS 44506 handelte es sich um einen Güterzug des interna onalen Verkehrs, der aus
-acht leeren Staubgutwagen der Ga ung Uacns bestand. Diese Wagen wurden für den Transport von verschiedenen Arten rieselfähiger Güter wie z. B. Kalk oder Zement verwendet.
-Die Trak on erfolgte durch eine Elektrolokomo ve der Baureihe 186 des Herstellers Bombardier Transporta on mit der Fahrzeugnummer 91 88 7186 209-3. Die Lok war mit verschiedenen Stromsystemen kompa bel und kam vorrangig bei der Beförderung von Güterzügen zum
-Einsatz.
-Der Güterzug verkehrte planmäßig in Bremsstellung P, wobei sich laut Bremsze el bei der
-Bremsberechnung 95 Bremshundertstel ergaben. Die nach Buchfahrplan geforderten 68 Mindestbremshundertstel wurden somit erreicht. Des Weiteren ha e der Güterzug eine Gesamtlänge von 149 m bei einer Gesamtmasse von 231 t. Die zulässige Höchstgeschwindigkeit betrug 100 km/h. Damit wurden alle Vorgaben an den Güterzug laut Buchfahrplan erfüllt und es
-waren keine besonderen Einschränkungen zu beachten. Am im Fahrtrichtung fün en Wagen
-war die Bremse aufgrund eines Defektes ausgeschaltet. Bei der Bremsberechnung fand die
-ausgeschaltete Drucklu bremse entsprechend den Vorgaben keine Berücksich gung. Die folgende Abbildung zeigt einen Auszug der im Rahmen der Zugvorbereitung erstellten Wagenliste.
+Das EVU Crossrail Benelux NV verfügte über eine Sicherheitsbescheinigung gemäß § 7a AEG 
 
-Abbildung 8: Wagenliste DGS 445066
+seit dem 23.11.2017 und war damit ebenfalls zur Teilnahme am Eisenbahnbetrieb berech(cid:415)gt. 
 
-6
+2 Quelle: DB Netz AG, bearbeitet durch BEU 
 
-Quelle: Crossrail Benelux NV
+Seite 6 von 25 
 
-Seite 20 von 25
+ 
+ 
+ 
+                                                       
+Untersuchungsbericht 
 
-Untersuchungsbericht
-Zugkollision, 15.02.2019, Bf Augsburg Hbf
+Zugkollision, 15.02.2019, Bf Augsburg Hbf 
 
-Aus der folgenden Tabellen lassen sich die technischen Fahrzeugdaten des Tfz und des zuerst
-engleisten Wagens entnehmen:
-Fahrzeugnummer
+Die WEGA Eisenbahndienstleistungs GmbH war ein Personaldienstleister, der im Au(cid:332)rag von 
 
-91 88 7186 209-3
+Crossrail Benelux NV Leistungen übernahm. 
 
-Baujahr
+Im Rahmen der Sachverhaltsermi(cid:425)lung und Ursachenerforschung wurden neben den o. g. Be-
 
-2008
+teiligten die Bundespolizeiinspek(cid:415)on Augsburg mit einbezogen. 
 
-Halter
+3.3  Äußere	Bedingungen		
 
-Crossrail Benelux NV
+Zum Zeitpunkt des Ereignisses herrschten folgende Bedingungen: 
 
-Antrieb
+Lichtverhältnisse 
 
-elektrisch (Mehrsystem)
+Sicht 
 
-Leistung
+Bedeckung 
 
-5.600 kW (bei 15 kV, 16,7 Hz~ AC)
+Temperaturen  
 
-Gesamtlänge (LüP)
+fallender Niederschlag 
 
-18,9 m
+Niederschlagshäuﬁgkeit 
 
-Masse
+künstliche Beleuchtung >20 Lux 
 
-86 t
+klar 
 
-Höchstgeschwindigkeit
+wolkenlos 
 
-140 km/h
+-3°C 
 
-Radsatzfolge
+Nein 
 
-Bo'Bo'
+-- 
 
-Zugsicherungssysteme (Deutschland)
+Untergrund / gefallener Niederschlag  
 
-PZB und LZB
+trocken 
 
-Tabelle 3: Technische Daten Tfz E186 209
+Tabelle 1: Übersicht der äußeren Bedingungen 
 
-Wagennummer
+Zum Ereigniszeitpunkt herrschte Dunkelheit. Im Gleis 66 war eine künstliche Beleuchtung mit 
 
-33 87 9326 897-4
+einer Lichtstärke größer 20 Lux vorhanden. 
 
-Halter
+Feststellung zu den äußeren Bedingungen 
 
-EVS
+Lfd. Nr. 1 
 
-Ga ungszeichen
+Die äußeren Bedingungen stehen in keinem unmi(cid:425)elbaren Zusammenhang mit dem Ereig-
 
-Uacns
+nis. 
 
-Eigengewicht
+Seite 7 von 25 
 
-18.586 kg
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Länge (LüP)
+Zugkollision, 15.02.2019, Bf Augsburg Hbf 
 
-16,240 m
+3.4  Todesopfer,	Verletzte	und	Sachschäden	
 
-Anzahl der Radsätze
+Bei dem Ereignis wurden keine Personen verletzt oder getötet. 
 
-4
+Durch die Entgleisung wurden insgesamt drei Wagen sowie die Infrastruktur auf einer Länge 
 
-Lastgrenzen
+von ca. 500 m beschädigt. In der Folge kam es zu erheblichen betrieblichen Einschränkungen 
 
-D4 71,4 t
+auf den Strecken 5305 und 5300. 
 
-Max. zul. Fahrzeuggeschwindigkeit
+Die geschätzte Höhe der entstandenen Sachschäden ist in folgender Tabelle ersichtlich: 
 
-100 km/h (beladen); 120 km/h (leer)
+Fahrzeuge 
 
-Bremsbauart
+Infrastruktur 
 
-KE-GP-A
+Dri(cid:425)e 
 
-Tabelle 4: Technische Daten des zuerst entgleisten Wagens
+geschätzte Kosten in Euro 
 
-Das Tfz befand sich zum Zeitpunkt des Ereignisses in einem funk onsfähigen Zustand. Die
-letzte Hauptuntersuchung wurde im März 2016 durchgeführt.
-Wie aus den nachfolgenden Abbildungen ersichtlich wurden die letzten drei Wagen des Zuges
-erheblich beschädigt.
+130.000 
 
-Seite 21 von 25
+3.000.000 
 
-Untersuchungsbericht
-Zugkollision, 15.02.2019, Bf Augsburg Hbf
+- 
 
-Abbildung 9: Entgleister siebter Wagen7
+Gesamtschadenshöhe 
 
-Abbildung 10: Schäden am Wagenzug8
+3.130.000 
 
-Die Untersuchung vor Ort ergab keine Hinweise auf Schäden oder Mängel an den Fahrzeugen,
-die einen Einfluss auf das Ereignis hä en haben können. Auf eine weitergehende Untersuchung der betroﬀenen Wagen wurde daher verzichtet.
-Feststellung zur Untersuchung der Fahrzeuge
-Lfd. Nr. 7
-Ein ursächlicher oder begüns gender Zusammenhang zwischen dem Zustand der Fahrzeuge
-und den Ereignis konnte nicht festgestellt werden.
+Tabelle 2: Übersicht der geschätzten Schadenshöhe 
 
-7
+Die folgenden Abbildungen zeigen den Zug nach der Entgleisung ca. im km 1,8. 
 
-Quelle: Crossrail Benelux NV
+Abbildung 3: Zugspitze ca. im km 1,8 
 
-8
+Seite 8 von 25 
 
-Quelle: Crossrail Benelux NV
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Seite 22 von 25
+Zugkollision, 15.02.2019, Bf Augsburg Hbf 
 
-Untersuchungsbericht
-Zugkollision, 15.02.2019, Bf Augsburg Hbf
+Abbildung 4: Entgleiste Staubgutwagen am Schluss des Zuges 
 
-5 Auswertung
-Das Kapitel 5 Auswertung befasst sich mit der Ereignisrekonstruk on. Anhand der oben genannten Feststellungen wird ein plausibler Ablauf des gefährlichen Ereignisses zusammengetragen. Relevante Erkenntnisse werden anschließend bewertet und führen ggf. zu entsprechenden Schlussfolgerungen.
+Seite 9 von 25 
 
-5.1 Ereignisrekonstruktion
-Am 15.02.2019 kollidierte ein Radsatz des letzten Wagens vom Güterzug DGS 44506 des EVU
-Crossrail Benelux NV auf dem Weg von Augsburg Rbf Nord nach Antwerpen-Noord mit einem
-Hemmschuh.
-Der von dem Ereignis betroﬀene Güterzug wurde am 15.02.2019 im Gleis 66 des B Augsburg
-Rbf Nord neu gebildet. Der Zug bestand aus einem elektrischen Tfz der Baureihe 186 und acht
-leeren Staubgutwagen der Ga ung Uacns.
-Die bereits im Gleis 66 abgestellte Wagengruppe aus fünf Wagen war mit einem Hemmschuh
-gegen unbeabsich gte Bewegung gesichert. Nachdem drei weitere Wagen beigestellt wurden, erfolgte die Zugvorbereitung. Dabei wurde ein Teil der Aufgaben vom verantwortlichen
-Tf auf einen Wagenmeister der Firma WEGA Eisenbahndienstleistungs GmbH übertragen.
-Nach Abschluss der Arbeiten gab der Tf eine Zugvorbereitungsmeldung an den zuständigen
-Fdl ab.
-Der Güterzug DGS 44506 fuhr nach Zus mmung des Fdl um 01:32 Uhr aus dem B Augsburg
-Rbf Nord ab. Unmi elbar nach der Abfahrt des Güterzuges ereignete sich die Kollision etwa
-im km 0,7. In der Folge wurde der Hemmschuh ca. 800 m bis zur Doppelkreuzungsweiche 973
-mitgeschlei . Durch das Verkeilen des Hemmschuhs im Herzstück dieser Weiche entgleiste
-ein Radsatz eines Wagens, worau in die letzten drei Wagen im weiteren Fahrtverlauf ab der
-Weiche 673 in einen zweispurigen Lauf gezwungen wurden. Durch die hierbei au retenden
-Krä e kam es zu starken Zerrungen im Zugverband und zu einer Unterbrechung der Hauptlu leitung. Der Tf erkannte die Situa on und leitete eine Bremsung ein. Darau in hielt der
-Güterzug ca. im km 1,8. Er legte somit eine Fahrstrecke seit der Kollision mit dem Hemmschuh
-von ungefähr 1.000 m zurück.
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Seite 23 von 25
+Zugkollision, 15.02.2019, Bf Augsburg Hbf 
 
-Untersuchungsbericht
-Zugkollision, 15.02.2019, Bf Augsburg Hbf
+4  Untersuchungsprotokoll	
 
-5.2 Bewertung und Schlussfolgerung
-Mit Ausnahme der betrieblichen Abläufe der EVU, lfd. Nummer 6, wurden bei den Untersuchungen keine Mängel oder Unregelmäßigkeiten erkannt, die das Ereignis hä en abmildern
-oder verhindern können.
-Eine Wagengruppe für den Güterzug DGS 44506 wurde durch einen Lrf der DB Cargo AG in
-Gleis 66 abgestellt und mit einem Hemmschuh gegen unbeabsich gte Bewegung gesichert.
-Die Festlegung der Wagen war regelkonform.
-Eine weitere Wagengruppe wurde durch einen Mitarbeiter der WEGA Eisenbahndienstleistungs GmbH gemeinsam mit dem Tf des EVU Crossrail Benelux NV beigestellt. Das EVU Crossrail Benelux NV war für die Zugvorbereitung und Durchführung der Zugfahrt des Güterzuges
-DGS 44506 verantwortlich. Regelkonform war, dass der Tf einige Aufgaben der Zugvorbereitung an den Mitarbeiter der WEGA Eisenbahndienstleistungs GmbH übertrug. Dazu gehörten
-u. a. die durchzuführende volle Bremsprobe und das En ernen der Festlegemi el.
-Der Arbeitsfehler des Mitarbeiters der WEGA Eisenbahndienstleistungs GmbH bestand darin,
-dass er den zum Sichern der letzten Wagengruppe aufgelegten Hemmschuh nicht en ernte.
-Begüns gend hierfür war, dass der Farbanstrich des Hemmschuhs kaum mehr vorhanden und
-infolgedessen bei den herrschenden Lichtverhältnissen schlecht zu erkennen war.
-Ob während der Anfahrphase der Zugfahrt die Anfahrprobe gemäß Richtlinie durchgeführt
-wurde, lässt sich nicht abschließend beurteilen. Die Bewertung der einzelnen vorgebenden
-Arbeitsschri e ist im Nachhinein aufgrund des Gefälles im Abfahrtsgleis von bis zu 6,3 ‰ und
-der nur eingeschränkten Datenaufzeichnung der EFR nicht objek v möglich. Die verfügbaren
-Daten der EFR und die mündlichen Stellungnahmen deuten darauf hin, dass zumindest eine
-Anfahrprobe beabsich gt wurde.
-Vergleichbare Ereignisse
-Am 27.04.2018 und am 24.06.2018 führten nicht en ernte Festlegemi el in den Bf MünchenRiem und Oberhausen West zu vergleichbaren Kollisionen mit anschließender Entgleisung.
-Auch bei diesen Ereignissen war die mangelha e Zugvorbereitung primäre Ursache. Weitergehende Untersuchungen durch die BEU wurden im Rahmen der letztgenannten Ereignisuntersuchung durchgeführt.
+In diesem Kapitel werden die ermi(cid:425)elten Ergebnisse zu einzelnen in Zusammenhang mit dem 
 
-Seite 24 von 25
+Ereignis stehenden Teilbereichen des Eisenbahnwesens dargestellt. Daneben werden auch die 
 
-Untersuchungsbericht
-Zugkollision, 15.02.2019, Bf Augsburg Hbf
+entsprechenden Schni(cid:425)stellen sowie das Sicherheitsmanagement (SMS) im betroﬀenen Be-
 
-6 Bisher getroffene Maßnahmen
-Als Folge des Ereignisses wurde vom EVU Crossrail Benelux NV eine Dienstanweisung mit der
-Nummer B 2019/02 herausgegeben. Diese für alle Tf gül ge Dienstanweisung beinhaltete das
-sogenannte „Vier-Augen-Prinzip“ bei einer nicht durch den Tf durchgeführten Zugvorbereitung gemäß BRW.4321 Abschni 2. Demnach hat der Tf zu überprüfen, ob die übertragenen
-Aufgaben der Zugvorbereitung ordnungsgemäß durchgeführt wurden. Hierzu gehörte auch
-eine beidsei ge augenscheinliche Überprüfung des Zuges, ob alle Sicherungsmi el en ernt
-worden sind. Im Falle einer mangelha en Zugvorbereitung ist sofort das Traﬃc Center der
-Crossrail Benelux NV zu informieren.
+reich betrachtet. Die jeweilig relevanten Erkenntnisse werden fortlaufend aufgeführt. 
 
-7 Sicherheitsempfehlungen
-Es wurden keine Sicherheitsempfehlungen ausgesprochen.
+4.1  Zusammenfassung	von	Aussagen	und	Stellungnahmen	
 
-Seite 25 von 25
+In den folgenden Abschni(cid:425)en werden die relevanten Aussagen und Stellungnahmen einiger 
 
+beteiligter Mitarbeiter zusammengefasst dargestellt. Diese wurden dem jeweiligen Arbeitge-
+
+ber gegenüber abgegeben. Verschiedene Ergänzungen wurden im Rahmen der Unfalluntersu-
+
+chung im Nachgang bei den Beteiligten abgefragt. 
+
+4.1.1  Stellungnahme	Lrf	der	DB	Cargo	AG	
+
+Der Lokrangierführer (Lrf) der DB Cargo AG gab gegenüber seinem Arbeitgeber an, er habe 
+
+fünf Wagen ca. 50 – 100 m en(cid:414)ernt vom Hauptsignal K 66 in Gleis 66 abgestellt. Dabei habe 
+
+er den ersten Wagen in Richtung München talsei(cid:415)g mit einem Hemmschuh festgelegt. Den 
+
+Hemmschuh habe er auf der dem Empfangsgebäude zugewandten Seite aufgelegt. Zusätzlich 
+
+habe er den „Meldeze(cid:425)el Festlegung“ am Ze(cid:425)elhalter des festgelegten Wagens angebracht. 
+
+4.1.2  Stellungnahme	des	Mitarbeiters	der	WEGA	Eisenbahndienstleistungs	GmbH	
+
+Im Rahmen seiner Dienstschicht habe er fünf Wagen eines um 00:30 Uhr angekommenen Zu-
+
+ges  aus  Gablingen  abgekuppelt  und  diese  mit  Hilfe  des  Triebfahrzeugführers  (Tf)  und  des 
+
+Triebfahrzeuges (Tfz) nach Gleis 67 rangiert. Die verbleibenden drei Wagen habe er zur Zug-
+
+bildung des DGS 44506 nach Gleis 66 an eine dort stehende Wagengruppe beigestellt und ge-
+
+kuppelt. Im Anschluss habe er mit dem Tf des Güterzuges DGS 44506 eine volle Bremsprobe 
+
+durchgeführt. 
+
+In Zuge der Bremsprobe habe er auf der rechten Seite [red. Anm.: Seite des Empfangsgebäu-
+
+des],  Blickrichtung  B(cid:332)  Augsburg-Oberhausen,  überprü(cid:332),  ob  die  Bremsen  angelegt  seien. 
+
+Nachdem er am Schluss des Zuges angekommen war, habe er die Schlussscheiben gesteckt 
+
+und eine Durchgangsprüfung durchgeführt. Anschließend sei er auf der linken Seite zurück 
+
+zum Tf gegangen. Dabei habe er kontrolliert, ob die Bremsen gelöst seien. Anschließend habe 
+
+er an der Zugspitze gewartet, bis der Tf die Rollprobe durchführte. Dabei habe er auf der Lok-
+
+führerseite gestanden und habe nichts Außergewöhnliches gehört. 
+
+Seite 10 von 25 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 15.02.2019, Bf Augsburg Hbf 
+
+Des Weiteren gab er an, dass ihm bei seiner Tä(cid:415)gkeit keine Vermerke über angezogene Hand-
+
+bremsen oder aufgelegte Hemmschuhe an den Wagen aufgefallen seien. 
+
+4.1.3  Stellungnahme	Tf	Crossrail	Benelux	NV	
+
+Der Tf gab gegenüber seinem Arbeitgeber an, dass er in der Nacht vom 14.02.2019 auf den 
+
+15.02.2019 für die Schicht DR3 eingeteilt worden sei. Diese Schicht beinhaltete die Zugfahrt 
+
+mit dem Güterzug DGS 44506 von Augsburg Rbf Nord nach Gemünden. 
+
+Nachdem der Zug in Gleis 66 zusammengestellt worden war, habe der Mitarbeiter der Firma 
+
+WEGA Eisenbahndienstleistungs GmbH eine volle Bremsprobe durchgeführt. Dabei seien dem 
+
+Tf keine Unregelmäßigkeiten aufgefallen. Nachdem die volle Bremsprobe abgeschlossen war, 
+
+sei  im  mündlich  durch  den  Mitarbeiter  der  Firma  WEGA  Eisenbahndienstleistungs  GmbH 
+
+Bremse in Ordnung gemeldet worden. 
+
+Anschließend  habe  er  eine  Zugvorbereitungsmeldung  über  GSM-R  an  den  Fahrdienstleiter 
+
+(Fdl) abgegeben. Der Tf gab weiterhin an, dass er wenig später die Signalstellung Hp 2 erkannt 
+
+habe und darau(cid:300)in abgefahren sei. Zur Anfahrprobe habe er kurzei(cid:415)g Leistung aufgeschaltet, 
+
+bis der Zug rollte. Dabei sei ihm nichts Außergewöhnliches aufgefallen. 
+
+Kurz darauf habe er eine starke Zerrung im Zugverband bemerkt und eine Zwangsbremsung 
+
+erhalten. Darau(cid:300)in habe er sofort einen Nothaltau(cid:332)rag abgegeben. 
+
+4.2  Notfallmanagement	
+
+Nach § 4 Abs. 3 Allgemeines Eisenbahngesetz (AEG) haben die Eisenbahnen die Verpﬂichtung, 
+
+an Maßnahmen des Brandschutzes und der technischen Hilfeleistung mitzuwirken. In einer 
+
+Vereinbarung zwischen den Innenministerien der Länder und der DB AG hat man sich auf eine 
+
+Verfahrensweise verständigt. Für die DB Netz AG gelten die entsprechenden Brand- und Ka-
+
+tastrophenschutzgesetze der Länder. Das No(cid:414)allmanagement der DB AG ist in der Konzern-
+
+richtlinie 123, das der DB Netz AG in der Richtlinie (Ril) 423 näher beschrieben und geregelt. 
+
+Die  Bergung  der  entgleisten  Fahrzeuge  wurde  bei  diesem  Ereignis  durch  die  DB Netz AG 
+
+durchgeführt. Weitere technische oder personelle Hilfeleistungen wurden nicht in Anspruch 
+
+genommen. 
+
+Seite 11 von 25 
+
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 15.02.2019, Bf Augsburg Hbf 
+
+Feststellungen zum No(cid:414)allmanagement 
+
+Lfd. Nr. 2 
+
+Eine Untersuchung des No(cid:414)allmanagements war nicht erforderlich, da weder Personen ge-
+
+re(cid:425)et, noch schwere Folgen, bspw. für die Umwelt, abzuwenden waren. 
+
+4.3  Untersuchung	der	bautechnischen	Infrastruktur	
+
+Bei  der  Besich(cid:415)gung  der  bautechnischen  Infrastruktur  vor  Ort  ergaben  sich  keine  Anhalts-
+
+punkte, die für einen Mangel am Oberbau sprachen. Alle erkennbaren Beschädigungen waren 
+
+Folgeschäden, die durch die Entgleisung hervorgerufen worden waren. Des Weiteren gab es 
+
+keine Hinweise auf Instandhaltungsdeﬁzite, die im Zusammenhang mit dem Ereignis standen. 
+
+Aus diesem Grund wurde auf weitergehende bautechnische Untersuchungen und Messungen 
+
+verzichtet. 
+
+Feststellung zur bautechnischen Infrastruktur 
+
+Lfd. Nr. 3 
+
+Die bautechnische Infrastruktur ha(cid:425)e keinen Einﬂuss auf das Unfallgeschehen. Weitere Un-
+
+tersuchungen wurden nicht durchgeführt. 
+
+4.4  Untersuchung	der	Leit‐	und	Sicherungstechnik	
+
+Der  gesamte  Bf  Augsburg  Hbf  verfügte  über  ein  Stellwerk  der  Bauform  Sp Dr S 60,  Baujahr 
+
+1972, mit der Bezeichnung Af. 
+
+Sämtliche  Hauptsignale  waren  als  Lichtsignale  im  H/V-System  ausgeführt.  Die  Ausfahrt  des 
+
+Güterzuges DGS 44506 erfolgte auf gesicherter Zugstraße unter Bedienung der Hauptsignale. 
+
+Es ergaben sich keine Hinweise, dass eine eventuelle Störung oder Fehlfunk(cid:415)on der Leit- und 
+
+Sicherungstechnik zum Ereignis beigetragen hä(cid:425)e. Eine weitergehende Untersuchung dieser 
+
+Anlagen wurde nicht vorgenommen. 
+
+Seite 12 von 25 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 15.02.2019, Bf Augsburg Hbf 
+
+Feststellung zur Untersuchung der Leit‐ und Sicherungstechnik 
+
+Lfd. Nr. 4 
+
+Die Leit- und Sicherungstechnik arbeitete zum Zeitpunkt des Ereignisses ordnungsgemäß. 
+
+Ein Einﬂuss auf den Unfallhergang wurde nicht festgestellt. 
+
+4.5  Untersuchung	der	betrieblichen	Abläufe	des	Infrastrukturbetreibers	
+
+Die Betriebsabwicklung des EIU DB Netz AG im Bf Augsburg Hbf erfolgte nach den Vorgaben 
+
+der  Ril 408  Fahrdienstvorschri(cid:332).  Örtliche  Besonderheiten  waren  im  Betriebsstellenbuch  für 
+
+den Bf Augsburg Hbf dokumen(cid:415)ert. 
+
+Das Stellwerk Augsburg Hbf Af, aufgeteilt in die Zuständigkeitsbereiche Nord und Süd, war mit 
+
+vier Fahrdienstleitern besetzt. Für das Ereignis relevant war der im Nordbereich des Bf Augs-
+
+burg Hbf zuständige Fdl 1 Nord. 
+
+Der Zuständigkeitsbereich des Fdl 1 Nord erstreckte sich über die zurückgelegte Strecke des 
+
+Güterzuges DGS 44506 von der Abfahrt im Gleis 66 bis zum Halt des Zuges nach der Entglei-
+
+sung im km 1,8. 
+
+Der Fdl 1 Nord ha(cid:425)e eine Ausbildung zum Eisenbahner im Betriebsdienst, Fachrichtung Fahr-
+
+weg absolviert. Er war örtlich eingewiesen und seit 2016 dauerha(cid:332) im Bf Augsburg Hbf als Fdl 
+
+eingesetzt. Alle  erforderlichen  Aus-  und  Weiterbildungen  wurden  nachgewiesen.  Die  letzte 
+
+örtliche Überwachung vor dem Ereignis fand am 16.11.2018 sta(cid:425). Ein Nachweis der betriebli-
+
+chen Tauglichkeit wurde erbracht. 
+
+Nachdem der Fdl vom Tf des Güterzuges DGS 44506 die Zugvorbereitungsmeldung gemäß Ril 
+
+408.0321 über GSM-R erhalten ha(cid:425)e, s(cid:415)mmte er der Abfahrt des DGS 44506 aus dem Gleis 
+
+66 durch Fahrtstellung des Zwischensignals (Zsig) R 66 zu. 
+
+Unmi(cid:425)elbar nach dem Ereignis handelte der Fdl gemäß Ril 408.0581 „Verhalten bei Gefahr“, 
+
+sperrte die betroﬀenen B(cid:332) und verständigte die No(cid:414)allleitstelle. 
+
+Bis zum Zeitpunkt des Ereignisses erfolgten die Zug- und Rangierfahrten im Regelbetrieb. 
+
+Seite 13 von 25 
+
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 15.02.2019, Bf Augsburg Hbf 
+
+Feststellung zur Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers 
+
+Lfd. Nr. 5 
+
+Bei der Überprüfung der Abläufe des EIU wurden keine Mängel in der Umsetzung betriebli-
+
+cher Handlungen festgestellt. 
+
+4.6  Untersuchung	der	betrieblichen	Abläufe	der	EVU	
+
+Die Zugbildung für den DGS 44506 erfolgte unmi(cid:425)elbar vor der Abfahrt im B(cid:332) Augsburg Rbf 
+
+Nord im Gleis 66. An der Zugbildung waren Mitarbeiter der DB Cargo AG, der WEGA Eisen-
+
+bahndienstleistungs GmbH und der Crossrail Benelux NV beteiligt. 
+
+4.6.1  Untersuchung	der	betrieblichen	Abläufe	des	EVU	DB	Cargo	AG	
+
+Die  letzten  fünf  Wagen  des  DGS 44506  wurden  vor  der  eigentlichen  Zugbildung  durch  die 
+
+DB Cargo AG im Gleis 66 bereitgestellt. Zum Abstellen dieser Wagengruppe galten für dieses 
+
+Gleis gemäß örtlicher Infrastrukturregelungen und der Ril 915.0107 folgende Regelungen: 
+
+1.  Die für die Berechnung der Anzahl der benö(cid:415)gten Festlegemi(cid:425)el maßgebliche Neigung im 
+
+Gleis 66 betrug nach den Angaben für das Streckenbuch 6,3 ‰. 
+
+2.  Die Ril 915.0107 Abschni(cid:425) 8 Absatz 6 schrieb für diese Neigung je angefangene 200 t oder 
+
+je  angefangene  acht  Achsen  vor,  eine  Hand-  oder  Feststellbremse  anzuziehen.  Abwei-
+
+chend erlaubte die o. g. Ril eine Hand- oder Feststellbremse durch das Auﬂegen von zwei 
+
+Hemmschuhen aus beiden Richtungen unter einem Rad oder einem Drehgestell zu erset-
+
+zen. 
+
+3.  Bedingt  durch  das  Gefälle  in  Richtung  Norden  /  Donauwörth  war  als  Erleichterung  zur 
+
+Ril 915.0107 Abschni(cid:425) 8 Absatz 6 laut Angaben für das Streckenbuch zugelassen, dass das 
+
+Auﬂegen eines Hemmschuhs talsei(cid:415)g als ausreichend gilt. 
+
+4.  Ergänzend waren die Festlegemi(cid:425)el gemäß den örtlichen Zusätzen für Mitarbeiter auf Be-
+
+triebsstellen, beginnend aus Richtung Süden (München), auf der dem Empfangsgebäude 
+
+zugewandten Seite aufzulegen. 
+
+Die letzten fünf Wagen waren nicht beladen und ha(cid:425)en eine Gesamtmasse von 91 t. Gemäß 
+
+den vorgenannten Vorgaben war die Wagengruppe im Gleis 66 mit einem Hemmschuh zu si-
+
+chern. 
+
+Seite 14 von 25 
+
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 15.02.2019, Bf Augsburg Hbf 
+
+Die Festlegung der Fahrzeuge war gemäß DBCDE.4831 grundsätzlich durch das Anbringen ei-
+
+nes „Meldeze(cid:425)el Festlegung“ zu dokumen(cid:415)eren. Dieser war, gemäß Abschni(cid:425) 4 Absatz 4, am 
+
+ersten Fahrzeug in Festlegerichtung anzubringen. Ein Verzicht auf die Dokumenta(cid:415)on mi(cid:425)els 
+
+„Meldeze(cid:425)el Festlegung“ war nach DBCDE.4831 Abschni(cid:425) 4 Absatz 6 zulässig, wenn dies in 
+
+den örtlichen Zusätzen vorgegeben war. Im konkreten Fall war in den örtlichen Zusätzen für 
+
+die Mitarbeiter der Betriebsstelle Augsburg geregelt, dass unter anderem in den Gleisen 60 
+
+bis 66 der „Meldeze(cid:425)el Festlegung“ am Ende der Besetzungszeit durch Personal der DB Cargo 
+
+AG zu en(cid:414)ernen war. Dies sollte Uns(cid:415)mmigkeiten beim Beistellen weiterer Wagen durch an-
+
+dere  EVU  verhindern,  da  diese  zum  Ereigniszeitpunkt  teilweise  noch  keine  Dokumenta(cid:415)on 
+
+über verwendete Festlegemi(cid:425)el anwendeten. Wie aus folgender Abbildung ersichtlich, wurde 
+
+am Ereignisort am entsprechenden Ze(cid:425)elhalter des letzten Wagens kein „Meldeze(cid:425)el Festle-
+
+gung“ vorgefunden. 
+
+Abbildung 5: Ze(cid:425)elhalter am letzten Wagen 
+
+Untersuchung des verwendeten Festlegemi(cid:425)els 
+
+Für  den  Umgang  mit  Hemmschuhen  und  anderen  Rangierarbeitsmi(cid:425)eln  kam  bei  der 
+
+DB Cargo AG  die  Ril  435.0101Z01  zur  Anwendung.  Im  Abschni(cid:425)  2  war  festgelegt,  dass  die 
+
+Hemmschuhe vor jeder Verwendung auf ordnungsgemäßen Zustand zu prüfen waren. Beschä-
+
+digte Festlegemi(cid:425)el dur(cid:332)en nicht verwendet werden. Nach den örtlichen Zusätzen für Mitar-
+
+beiter auf Betriebsstellen waren im Bereich des B(cid:332) Augsburg Rbf Nord Hemmschuhe der Form 
+
+S 49 zu verwenden. Dabei mussten Sohle, Griﬀ und Bock in leuchtgelber Farbe ausgeführt sein. 
+
+Der am Ereignisort aufgefundene Hemmschuh war in einem op(cid:415)sch schlechten Zustand. Ab-
+
+gesehen von den Schäden, die bei dem Ereignis entstanden waren, war der Farbanstrich kaum 
+
+erkennbar.  Neben  oberﬂächlichen  Roststellen  war  die  Sohlenspitze  stark  ausgedünnt.  Die 
+
+nachfolgende Abbildung zeigt einen Vergleich zwischen einem Hemmschuh neuerer Bauform 
+
+und den in Augsburg benutzen Hemmschuh. 
+
+Seite 15 von 25 
+
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 15.02.2019, Bf Augsburg Hbf 
+
+Abbildung 6: Vergleich Hemmschuhe3 
+
+4.6.2  Zuarbeit	durch	die	WEGA	Eisenbahndienstleistungs	GmbH	
+
+Gemeinsam mit dem Tf der Crossrail Benelux NV war ein Mitarbeiter der WEGA Eisenbahn-
+
+dienstleistungs GmbH beau(cid:332)ragt, an der Zugbildung und Zugvorbereitung mitzuwirken. 
+
+Der BEU lagen Prüfungsbescheinigungen vor, die den betroﬀenen Mitarbeiter zum Bremspro-
+
+beberech(cid:415)gten  nach  den  Bes(cid:415)mmungen  des  Verbandes  Deutscher  Verkehrsunterneh-
+
+men e. V. (VDV) Schri(cid:332) 757 und zur Wagenprüfung an Güterwagen nach VDV Schri(cid:332) 758 be-
+
+fähigten. Des Weiteren konnten die notwendigen Fortbildungen für die Tä(cid:415)gkeit als Wagen-
+
+meister nachgewiesen werden. Ob der Mitarbeiter befähigt war, selbständig Rangierarbeiten 
+
+im  Bf  Augsburg  Hbf  durchzuführen,  konnte  aufgrund  der  Insolvenz  der  WEGA  Eisenbahn-
+
+dienstleistungs GmbH nicht mehr ermi(cid:425)elt werden. 
+
+Im Anschluss an die Zugbildung im Gleis 66 wurde durch den Mitarbeiter gemeinsam mit dem 
+
+Tf die Zugvorbereitung durchgeführt. Dabei kam das Betriebsregelwerk EVU (BRW) des VDV 
+
+zur Anwendung. Die Zugvorbereitung war nach BRW.4321 Abschni(cid:425) 1 am Zuganfangsbahnhof 
+
+grundsätzlich vom Zugführer durchzuführen. Es war nach BRW.4321 Abschni(cid:425) 1 zulässig, dass 
+
+Aufgaben von anderen Mitarbeitern durchgeführt wurden. Zugführer war im vorliegenden Fall 
+
+der Tf des DGS 44506, der bes(cid:415)mmte Tä(cid:415)gkeiten der Zugvorbereitung an den Mitarbeiter der 
+
+WEGA Eisenbahndienstleistungs GmbH übertragen ha(cid:425)e. Die Bedingungen, die dabei gemäß 
+
+BRW.4321 Abschni(cid:425) 2 Absatz 1 zu prüfen waren, sind im Folgenden auszugsweise dargestellt. 
+
+3 Quelle: DB Cargo AG, Ril 435.0101Z01 Abschnitt 2 Absatz 4, bearbeitet durch BEU 
+
+Seite 16 von 25 
+
+ 
+ 
+ 
+                                                       
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 15.02.2019, Bf Augsburg Hbf 
+
+Ein Zug ist vorbereitet, wenn 
+
+1. die Fahrzeuge ordnungsgemäß gekuppelt sind; 
+
+2. die wagentechnische Behandlung durchgeführt ist; 
+
+3. ‐ soweit erforderlich ‐ die Bremsprobe ausgeführt ist; 
+
+4. ‐ soweit ein Bremsze(cid:425)el zu führen ist – dieser erstellt ist und sich beim Triebfahr‐
+
+zeugführer auf dem Fahrzeug an der Spitze des Zuges beﬁndet; 
+
+[…] 
+
+6. die Zugsignale angebracht sind, der Triebfahrzeugführer muss dafür sorgen, dass 
+
+die Zugsignale am Triebfahrzeug oder am Fahrzeug an der Spitze des Zuges ange‐
+
+bracht sind; 
+
+7. die Festlegemi(cid:425)el en(cid:414)ernt und die Feststellbremsen gelöst sind; 
+
+[….]4 
+
+Nach eigenen Angaben führte der Mitarbeiter der WEGA Eisenbahndienstleistungs GmbH eine 
+
+volle Bremsprobe durch und brachte am letzten Wagen die Zugsignale an. Dabei ging er zuerst 
+
+auf der in Fahrtrichtung rechten Seite nach hinten. Den Rückweg führte er auf der in Fahrt-
+
+richtung linken Seite durch. Laut seiner Aussagen fand er dabei keine Hinweise auf Festlege-
+
+mi(cid:425)el  oder  angezogene  Handbremsen.  Auch  einen  „Meldeze(cid:425)el  Festlegung“,  wie  ihn  die 
+
+DB Cargo AG gemäß DBCDE.4831 zu diesem Zeitpunkt verwendete, wurde durch den Mitar-
+
+beiter nicht vorgefunden. 
+
+4.6.3  Untersuchung	der	betrieblichen	Abläufe	des	EVU	Crossrail	Benelux	NV	
+
+Verantwortliches EVU für die Zugbildung und die Zugfahrt des DGS 44506 war das EVU Cross-
+
+rail Benelux NV. Laut den vorliegenden Unterlagen sollte der Güterzug von Augsburg Rbf Nord 
+
+nach Antwerpen Noord verkehren. 
+
+Der Tf war im Besitz eines gül(cid:415)gen EU-Triebfahrzeugführerscheins. Die vorgelegte Zusatzbe-
+
+scheinigung der Crossrail Benelux NV für die Klasse A (Rangierfahrten) und B (Zugfahrten) be-
+
+rech(cid:415)gte ihm zum Führen des eingesetzten Tfz der Baureihe 186. Des Weiteren war er quali-
+
+ﬁziert, Arbeiten als Wagenprüfer für Güterzüge (nach VDV Schri(cid:332) 757 / Ril 93695) und Brems-
+
+beamter (nach VDV Schri(cid:332) 757 / Ril 915) durchzuführen. Nachweise über die medizinische und 
+
+4 Quelle: VDV, BRW.4321 Abschnitt 2 Absatz 1 
+
+Seite 17 von 25 
+
+ 
+ 
+                                                       
+Untersuchungsbericht 
+
+Zugkollision, 15.02.2019, Bf Augsburg Hbf 
+
+psychologische Eignung sowie über die Durchführung von regelmäßigen Fortbildungsunter-
+
+richten wurden der BEU vorgelegt. 
+
+Nach  Abschluss  der  Zugvorbereitung  gab  der  Tf  eine  Zugvorbereitungsmeldung  gemäß 
+
+Ril 408.2321 Absatz 2 über GSM-R an den zuständigen Fdl ab. Kurz darauf s(cid:415)mmte der Fdl der 
+
+Abfahrt  des  Güterzuges  DGS 44506  aus  dem  B(cid:332)  Augsburg  Rbf  Nord  mit  Fahrstellung  des 
+
+Zsig R 66  zu.  Das  Zsig  zeigte  die  Signalstellung  Hp 2  „Langsamfahrt“  und  schrieb  eine  Ge-
+
+schwindigkeitsbeschränkung von 40 km/h im anschließenden Weichenbereich vor. Dieser er-
+
+streckte sich vom Zsig R 66 bis zum nächsten Hauptsignal im B(cid:332) Augsburg Oberhausen. 
+
+Auswertung des Fahrtverlaufes 
+
+Zur Rekonstruk(cid:415)on des Ereignisses wurde die elektronische Fahrtenregistrierung (EFR) des be-
+
+troﬀenen  Tfz  ausgewertet.  Aus  dieser  geht  hervor,  dass  der  Zug  auf  37  km/h  beschleunigt 
+
+wurde, bevor es zur Entgleisung kam. Die folgende Abbildung zeigt die graﬁsche EFR Auswer-
+
+tung des gesamten Fahrtverlaufes des DGS 44506. Dabei ist zu beachten, dass die dargestell-
+
+ten Zeiten systembedingt von der tatsächlichen Uhrzeit abweichen können. 
+
+Abbildung 7: EFR Auswertung5 
+
+5 Quelle: Crossrail Benelux NV 
+
+Seite 18 von 25 
+
+ 
+ 
+ 
+                                                       
+Untersuchungsbericht 
+
+Zugkollision, 15.02.2019, Bf Augsburg Hbf 
+
+Ferner ist aus dem Zeit-Geschwindigkeits-Diagramm ersichtlich, dass der Tf eine Anfahrprobe 
+
+zu Beginn der Zugfahrt durchführte. 
+
+Diese war nach BRW 5333 Abschni(cid:425) 3 bei Güterzügen bei der ersten Anfahrt nach der Zugbil-
+
+dung durchzuführen. Zur Durchführung der Anfahrprobe ist nach Absatz 3 der Zug bei geöﬀ-
+
+netem  Führerraumfenster  auf  Schri(cid:425)geschwindigkeit  zu  beschleunigen.  Anschließend  muss 
+
+der Zug, ohne Zugkra(cid:332) aufzuschalten, selbständig rollen. Dabei ist nach Absatz 4 auf etwaige 
+
+Unregelmäßigkeiten zu achten. Als Unregelmäßigkeiten sind z. B. Schleifgeräusche, Zerrungen 
+
+im Zugverband oder schwerlaufende Fahrzeuge angeführt. Werden Unregelmäßigkeiten er-
+
+kannt, ist der Zug sofort anzuhalten und der Zug auf Festlegemi(cid:425)el oder nicht gelöste Bremsen 
+
+zu prüfen. 
+
+Die  Auswertung  der  EFR  ergab,  dass  der  Zug  während  der  Anfahrphase  zunächst  auf  ca. 
+
+7 km/h beschleunigt wurde und anschließend ca. 40 m weit rollte. Hierbei verringerte sich die 
+
+Geschwindigkeit auf ca. 5 km/h. Unregelmäßigkeiten bei der Anfahrt des Zuges waren anhand 
+
+der vorliegenden EFR-Auswertung nicht erkennbar. Der Güterzug entgleiste ca. 800 m nach 
+
+der Kollision mit dem Hemmschuh auf der Weiche 973. Des Weiteren ergab die EFR-Auswer-
+
+tung, dass der Zug eine Gesam(cid:414)ahrstrecke von ca. 1.000 m zurücklegte, bevor er ca. in km 1,8 
+
+zum Halten kam. Dabei wurde ein Wechsel der EFR-Spur „Zl Lu(cid:332)“ von „1“ auf „0“ ca. 10 m vor 
+
+dem endgül(cid:415)gen Halt  des Zuges registriert. Dieser Wechsel der Spur kann entweder durch 
+
+eine eingeleitete Schnellbremsung des Tf oder durch eine Trennung der Hauptlu(cid:332)leitung in-
+
+folge der Entgleisung und einer dadurch ausgelösten Zwangsbremsung hervorgerufen worden 
+
+sein. 
+
+Feststellung zur Untersuchung der betrieblichen Abläufe der EVUs  
+
+Lfd. Nr. 6 
+
+Der verwendete Hemmschuh war technisch und op(cid:415)sch im schlechten Zustand und für eine 
+
+Verwendung nicht zulässig. 
+
+Bei der Zugvorbereitung durch den Wagenmeister und den Tf wurden keine Festlegemi(cid:425)el 
+
+erkannt. 
+
+Die Rekonstruk(cid:415)on der Anfahrphase war nur eingeschränkt möglich. 
+
+Seite 19 von 25 
+
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 15.02.2019, Bf Augsburg Hbf 
+
+4.7  Untersuchung	von	Fahrzeugen	
+
+Bei dem DGS 44506 handelte es sich um einen Güterzug des interna(cid:415)onalen Verkehrs, der aus 
+
+acht leeren Staubgutwagen der Ga(cid:425)ung Uacns bestand. Diese Wagen wurden für den Trans-
+
+port von verschiedenen Arten rieselfähiger Güter wie z. B. Kalk oder Zement verwendet. 
+
+Die Trak(cid:415)on erfolgte durch eine Elektrolokomo(cid:415)ve der Baureihe 186 des Herstellers Bombar-
+
+dier Transporta(cid:415)on mit der Fahrzeugnummer 91 88 7186 209-3. Die Lok war mit verschiede-
+
+nen Stromsystemen kompa(cid:415)bel und kam vorrangig bei der Beförderung von Güterzügen zum 
+
+Einsatz. 
+
+Der  Güterzug  verkehrte planmäßig  in  Bremsstellung  P,  wobei  sich  laut  Bremsze(cid:425)el  bei  der 
+
+Bremsberechnung 95 Bremshundertstel ergaben. Die nach Buchfahrplan geforderten 68 Min-
+
+destbremshundertstel wurden somit erreicht. Des Weiteren ha(cid:425)e der Güterzug eine Gesamt-
+
+länge von 149 m bei einer Gesamtmasse von 231 t. Die zulässige Höchstgeschwindigkeit be-
+
+trug 100 km/h. Damit wurden alle Vorgaben an den Güterzug laut Buchfahrplan erfüllt und es 
+
+waren keine besonderen Einschränkungen zu beachten. Am im Fahrtrichtung fün(cid:332)en Wagen 
+
+war die Bremse aufgrund eines Defektes ausgeschaltet. Bei der Bremsberechnung fand die 
+
+ausgeschaltete Drucklu(cid:332)bremse entsprechend den Vorgaben keine Berücksich(cid:415)gung. Die fol-
+
+gende Abbildung zeigt einen Auszug der im Rahmen der Zugvorbereitung erstellten Wagen-
+
+liste. 
+
+Abbildung 8: Wagenliste DGS 445066 
+
+6 Quelle: Crossrail Benelux NV 
+
+Seite 20 von 25 
+
+ 
+ 
+ 
+                                                       
+Untersuchungsbericht 
+
+Zugkollision, 15.02.2019, Bf Augsburg Hbf 
+
+Aus der folgenden Tabellen lassen sich die technischen Fahrzeugdaten des Tfz und des zuerst 
+
+engleisten Wagens entnehmen: 
+
+Fahrzeugnummer 
+
+91 88 7186 209-3 
+
+Baujahr 
+
+Halter 
+
+Antrieb 
+
+Leistung 
+
+Gesamtlänge (LüP) 
+
+Masse 
+
+Höchstgeschwindigkeit 
+
+Radsatzfolge 
+
+2008 
+
+Crossrail Benelux NV 
+
+elektrisch (Mehrsystem) 
+
+5.600 kW (bei 15 kV, 16,7 Hz~ AC) 
+
+18,9 m 
+
+86 t 
+
+140 km/h 
+
+Bo'Bo' 
+
+Zugsicherungssysteme (Deutschland) 
+
+PZB und LZB 
+
+Tabelle 3: Technische Daten Tfz E186 209 
+
+Wagennummer 
+
+Halter 
+
+Ga(cid:425)ungszeichen 
+
+Eigengewicht 
+
+Länge (LüP) 
+
+Anzahl der Radsätze 
+
+Lastgrenzen 
+
+33 87 9326 897-4 
+
+EVS 
+
+Uacns 
+
+18.586 kg 
+
+16,240 m 
+
+4 
+
+D4  71,4 t 
+
+Max. zul. Fahrzeuggeschwindigkeit 
+
+100 km/h (beladen); 120 km/h (leer) 
+
+Bremsbauart 
+
+KE-GP-A 
+
+Tabelle 4: Technische Daten des zuerst entgleisten Wagens 
+
+Das  Tfz  befand  sich  zum  Zeitpunkt  des  Ereignisses  in  einem  funk(cid:415)onsfähigen  Zustand.  Die 
+
+letzte Hauptuntersuchung wurde im März 2016 durchgeführt. 
+
+Wie aus den nachfolgenden Abbildungen ersichtlich wurden die letzten drei Wagen des Zuges 
+
+erheblich beschädigt. 
+
+Seite 21 von 25 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 15.02.2019, Bf Augsburg Hbf 
+
+Abbildung 9: Entgleister siebter Wagen7 
+
+Abbildung 10: Schäden am Wagenzug8 
+
+Die Untersuchung vor Ort ergab keine Hinweise auf Schäden oder Mängel an den Fahrzeugen, 
+
+die einen Einﬂuss auf das Ereignis hä(cid:425)en haben können. Auf eine weitergehende Untersu-
+
+chung der betroﬀenen Wagen wurde daher verzichtet. 
+
+Feststellung zur Untersuchung der Fahrzeuge 
+
+Lfd. Nr. 7 
+
+Ein ursächlicher oder begüns(cid:415)gender Zusammenhang zwischen dem Zustand der Fahrzeuge 
+
+und den Ereignis konnte nicht festgestellt werden. 
+
+7 Quelle: Crossrail Benelux NV 
+
+8 Quelle: Crossrail Benelux NV 
+
+Seite 22 von 25 
+
+ 
+ 
+ 
+ 
+                                                       
+Untersuchungsbericht 
+
+Zugkollision, 15.02.2019, Bf Augsburg Hbf 
+
+5  Auswertung	
+
+Das Kapitel 5 Auswertung befasst sich mit der Ereignisrekonstruk(cid:415)on. Anhand der oben ge-
+
+nannten Feststellungen wird ein plausibler Ablauf des gefährlichen Ereignisses zusammenge-
+
+tragen. Relevante Erkenntnisse werden anschließend bewertet und führen ggf. zu entspre-
+
+chenden Schlussfolgerungen. 
+
+5.1  Ereignisrekonstruktion	
+
+Am 15.02.2019 kollidierte ein Radsatz des letzten Wagens vom Güterzug DGS 44506 des EVU 
+
+Crossrail Benelux NV auf dem Weg von Augsburg Rbf Nord nach Antwerpen-Noord mit einem 
+
+Hemmschuh. 
+
+Der von dem Ereignis betroﬀene Güterzug wurde am 15.02.2019 im Gleis 66 des B(cid:332) Augsburg 
+
+Rbf Nord neu gebildet. Der Zug bestand aus einem elektrischen Tfz der Baureihe 186 und acht 
+
+leeren Staubgutwagen der Ga(cid:425)ung Uacns. 
+
+Die bereits im Gleis 66 abgestellte Wagengruppe aus fünf Wagen war mit einem Hemmschuh 
+
+gegen  unbeabsich(cid:415)gte  Bewegung  gesichert.  Nachdem  drei weitere  Wagen  beigestellt  wur-
+
+den, erfolgte die Zugvorbereitung. Dabei wurde ein Teil der Aufgaben vom verantwortlichen 
+
+Tf  auf  einen  Wagenmeister  der  Firma  WEGA  Eisenbahndienstleistungs  GmbH  übertragen. 
+
+Nach Abschluss der Arbeiten gab der Tf eine Zugvorbereitungsmeldung an den zuständigen 
+
+Fdl ab. 
+
+Der Güterzug DGS 44506 fuhr nach Zus(cid:415)mmung des Fdl um 01:32 Uhr aus dem B(cid:332) Augsburg 
+
+Rbf Nord ab. Unmi(cid:425)elbar nach der Abfahrt des Güterzuges ereignete sich die Kollision etwa 
+
+im km 0,7. In der Folge wurde der Hemmschuh ca. 800 m bis zur Doppelkreuzungsweiche 973 
+
+mitgeschlei(cid:332). Durch das Verkeilen des Hemmschuhs im Herzstück dieser Weiche entgleiste 
+
+ein Radsatz eines Wagens, worau(cid:300)in die letzten drei Wagen im weiteren Fahrtverlauf ab der 
+
+Weiche 673 in einen zweispurigen Lauf gezwungen wurden. Durch die hierbei au(cid:332)retenden 
+
+Krä(cid:332)e kam es zu starken Zerrungen im Zugverband und zu einer Unterbrechung der Haupt-
+
+lu(cid:332)leitung. Der Tf erkannte die Situa(cid:415)on und leitete eine Bremsung ein. Darau(cid:300)in hielt der 
+
+Güterzug ca. im km 1,8. Er legte somit eine Fahrstrecke seit der Kollision mit dem Hemmschuh 
+
+von ungefähr 1.000 m zurück. 
+
+Seite 23 von 25 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 15.02.2019, Bf Augsburg Hbf 
+
+5.2  Bewertung	und	Schlussfolgerung	
+
+Mit Ausnahme der betrieblichen Abläufe der EVU, lfd. Nummer 6, wurden bei den Untersu-
+
+chungen keine Mängel oder Unregelmäßigkeiten erkannt, die das Ereignis hä(cid:425)en abmildern 
+
+oder verhindern können. 
+
+Eine Wagengruppe für den Güterzug DGS 44506 wurde durch einen Lrf der DB Cargo AG in 
+
+Gleis 66 abgestellt und mit einem Hemmschuh gegen unbeabsich(cid:415)gte Bewegung gesichert. 
+
+Die Festlegung der Wagen war regelkonform.  
+
+Eine  weitere  Wagengruppe  wurde durch  einen  Mitarbeiter  der  WEGA Eisenbahndienstleis-
+
+tungs GmbH gemeinsam mit dem Tf des EVU Crossrail Benelux NV beigestellt. Das EVU Cross-
+
+rail Benelux NV war für die Zugvorbereitung und Durchführung der Zugfahrt des Güterzuges 
+
+DGS 44506 verantwortlich. Regelkonform war, dass der Tf einige Aufgaben der Zugvorberei-
+
+tung an den Mitarbeiter der WEGA Eisenbahndienstleistungs GmbH übertrug. Dazu gehörten 
+
+u. a. die durchzuführende volle Bremsprobe und das En(cid:414)ernen der Festlegemi(cid:425)el. 
+
+Der Arbeitsfehler des Mitarbeiters der WEGA Eisenbahndienstleistungs GmbH bestand darin, 
+
+dass er den zum Sichern der letzten Wagengruppe aufgelegten Hemmschuh nicht en(cid:414)ernte. 
+
+Begüns(cid:415)gend hierfür war, dass der Farbanstrich des Hemmschuhs kaum mehr vorhanden und 
+
+infolgedessen bei den herrschenden Lichtverhältnissen schlecht zu erkennen war. 
+
+Ob während der  Anfahrphase der  Zugfahrt die Anfahrprobe gemäß Richtlinie durchgeführt 
+
+wurde, lässt sich nicht abschließend beurteilen. Die Bewertung der einzelnen vorgebenden 
+
+Arbeitsschri(cid:425)e ist im Nachhinein aufgrund des Gefälles im Abfahrtsgleis von bis zu 6,3 ‰ und 
+
+der nur eingeschränkten Datenaufzeichnung der EFR nicht objek(cid:415)v möglich. Die verfügbaren 
+
+Daten der EFR und die mündlichen Stellungnahmen deuten darauf hin, dass zumindest eine 
+
+Anfahrprobe beabsich(cid:415)gt wurde. 
+
+Vergleichbare Ereignisse 
+
+Am 27.04.2018 und am 24.06.2018 führten nicht en(cid:414)ernte Festlegemi(cid:425)el in den Bf München-
+
+Riem  und  Oberhausen  West  zu  vergleichbaren  Kollisionen  mit  anschließender  Entgleisung. 
+
+Auch bei diesen Ereignissen war die mangelha(cid:332)e Zugvorbereitung primäre Ursache. Weiter-
+
+gehende Untersuchungen durch die BEU wurden im Rahmen der letztgenannten Ereignisun-
+
+tersuchung durchgeführt. 
+
+Seite 24 von 25 
+
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 15.02.2019, Bf Augsburg Hbf 
+
+6  Bisher	getroffene	Maßnahmen	
+
+Als Folge des Ereignisses wurde vom EVU Crossrail Benelux NV eine Dienstanweisung mit der 
+
+Nummer B 2019/02 herausgegeben. Diese für alle Tf gül(cid:415)ge Dienstanweisung beinhaltete das 
+
+sogenannte „Vier-Augen-Prinzip“ bei einer nicht durch den Tf durchgeführten Zugvorberei-
+
+tung gemäß BRW.4321 Abschni(cid:425) 2. Demnach hat der Tf zu überprüfen, ob die übertragenen 
+
+Aufgaben  der  Zugvorbereitung  ordnungsgemäß  durchgeführt  wurden.  Hierzu  gehörte  auch 
+
+eine beidsei(cid:415)ge augenscheinliche Überprüfung des Zuges, ob alle Sicherungsmi(cid:425)el en(cid:414)ernt 
+
+worden sind. Im Falle einer mangelha(cid:332)en Zugvorbereitung ist sofort das Traﬃc Center der 
+
+Crossrail Benelux NV zu informieren. 
+
+7  Sicherheitsempfehlungen	
+
+Es wurden keine Sicherheitsempfehlungen ausgesprochen. 
+
+Seite 25 von 25 
+
+ 
+ 
 

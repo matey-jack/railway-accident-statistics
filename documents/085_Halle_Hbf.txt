@@ -1,617 +1,1120 @@
-Untersuchungszentrale
-der Eisenbahn-Unfalluntersuchungsstelle
-des Bundes
+Untersuchungszentrale 
 
-Aktenzeichen:
+der Eisenbahn-Unfalluntersuchungsstelle 
 
-60uu2015-06/010-3323
+des Bundes  
 
-Stand:
+Aktenzeichen:   60uu2015-06/010-3323 
 
-21.10.2016
+Stand:  
 
-Version: 1.0
+21.10.2016     Version:  1.0 
 
-Gefährliches Ereignis im Eisenbahnbetrieb
+Gefährliches Ereignis im Eisenbahnbetrieb 
 
-Ereignisart:
+Ereignisart: 
 
-Zugkollision
+Datum: 
 
-Datum:
+Zeit: 
 
-18.06.2015
+Bahnhof: 
 
-Zeit:
+Gleis: 
 
-15:08 Uhr
+Kilometer: 
 
-Bahnhof:
+Zugkollision 
 
-Halle (Saale) Hbf
+18.06.2015 
 
-Gleis:
+15:08 Uhr 
 
-2w
+Halle (Saale) Hbf 
 
-Kilometer:
+2w 
 
-161,647
+161,647 
 
-Untersuchungsbericht
-Zugkollision, 18.06.2015, Halle (Saale) Hbf
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Veröffentlicht durch:
-Bundesministerium für Verkehr und digitale Infrastruktur
-Eisenbahn-Unfalluntersuchungsstelle des Bundes
-Robert-Schuman-Platz 1
-53175 Bonn
+Zugkollision, 18.06.2015, Halle (Saale) Hbf 
 
-Seite 2 von 16
+Veröffentlicht durch: 
 
-Untersuchungsbericht
-Zugkollision, 18.06.2015, Halle (Saale) Hbf
+Bundesministerium für Verkehr und digitale Infrastruktur 
 
-Inhaltsverzeichnis:
+Eisenbahn-Unfalluntersuchungsstelle des Bundes 
+
+Robert-Schuman-Platz 1 
+
+53175 Bonn 
+
+Seite 2 von 16 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 18.06.2015, Halle (Saale) Hbf 
+
+Inhaltsverzeichnis: 
+
 Seite
-1
+ 
 
 Zusammenfassung .............................................................................................. 6
-
-1.1
-
+ 
 Kurzbeschreibung des Ereignisses ....................................................................... 6
-
-1.2
+ 
 
 Folgen.................................................................................................................... 6
-
-1.3
+ 
 
 Ursachen ............................................................................................................... 6
-
-2
+ 
 
 Vorbemerkungen ................................................................................................. 8
-
-2.1
-
+ 
 Organisatorischer Hinweis..................................................................................... 8
-
-2.2
+ 
 
 Ziel der Eisenbahn-Unfalluntersuchung................................................................. 8
-
-2.3
+ 
 
 Beteiligte und Mitwirkende..................................................................................... 9
-
-3
+ 
 
 Ereignis................................................................................................................. 9
-
-3.1
-
+ 
 Hergang ................................................................................................................. 9
-
-3.2
+ 
 
 Todesopfer, Verletzte und Sachschäden............................................................. 10
-
-3.3
+ 
 
 Wetterbedingungen ............................................................................................. 11
-
-4
+ 
 
 Untersuchungsprotokoll ................................................................................... 11
-
-4.1
-
+ 
 Zusammenfassung von Aussagen ...................................................................... 11
-
-4.2
+ 
 
 Notfallmanagement.............................................................................................. 11
-
-4.3
+ 
 
 Untersuchung der Infrastruktur ............................................................................ 12
-
-4.4
+ 
 
 Untersuchung der Leit- und Sicherungstechnik................................................... 12
-
-4.5
+ 
 
 Untersuchung der betrieblichen Handlungen des Triebfahrzeugführers ............. 12
-
-4.5.1
+ 
 
 Ausbildung und Überwachung............................................................................. 12
-
-4.5.2
+ 
 
 Vorbereitung der Rangierfahrt ............................................................................. 12
-
-4.5.3
+ 
 
 Durchführung der Rangierfahrt ............................................................................ 13
-
-4.5.4
+ 
 
 Fahrtverlauf der Rangierfahrt............................................................................... 13
-
-4.6
+ 
 
 Untersuchung von Fahrzeugen ........................................................................... 14
-
-5
+ 
 
 Auswertung und Schlussfolgerungen ............................................................. 15
-
-6
+ 
 
 Bisher getroffene Maßnahmen ......................................................................... 16
+ 
 
-Seite 3 von 16
+ 1 
 
-Untersuchungsbericht
-Zugkollision, 18.06.2015, Halle (Saale) Hbf
+ 1.1 
 
-Abbildungsverzeichnis:
+ 1.2 
+
+ 1.3 
+
+ 2 
+
+ 2.1 
+
+ 2.2 
+
+ 2.3 
+
+ 3 
+
+ 3.1 
+
+ 3.2 
+
+ 3.3 
+
+ 4 
+
+ 4.1 
+
+ 4.2 
+
+ 4.3 
+
+ 4.4 
+
+ 4.5 
+
+4.5.1 
+
+4.5.2 
+
+4.5.3 
+
+4.5.4 
+
+ 4.6 
+
+ 5 
+
+ 6 
+
+Seite 3 von 16 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 18.06.2015, Halle (Saale) Hbf 
+
+Abbildungsverzeichnis: 
+
 Bild 1 und 2: Aufnahmen an der Unfallstelle ............................................................................7
+ 
+
 Abb. 2: Lageplan .................................................................................................................... 10
+ 
+
 Abb. 3: Auszug aus der 418 gültig ab 15.12.2013 .................................................................13
+ 
+
 Abb. 4: Auszug aus dem Fahrtverlauf ....................................................................................14
+ 
+
 Abb. 5: Auszug aus dem Inspektionsprotokoll .......................................................................15
+ 
 
-Seite 4 von 16
+Seite 4 von 16 
 
-Untersuchungsbericht
-Zugkollision, 18.06.2015, Halle (Saale) Hbf
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Abkürzungsverzeichnis
-AEG
+Zugkollision, 18.06.2015, Halle (Saale) Hbf 
 
-Allgemeines Eisenbahngesetz
+Abkürzungsverzeichnis 
 
-BMVI
+AEG 
 
-Bundesministerium für Verkehr und digitale Infrastruktur
+BMVI 
 
-BPol
+BPol 
 
-Bundespolizei
+BÜ 
 
-BÜ
+EBA 
 
-Bahnübergang
+EBL 
 
-EBA
+EBO 
 
-Eisenbahn-Bundesamt
+EIU 
 
-EBL
+ERA 
 
-Eisenbahnbetriebsleiter
+ESO 
 
-EBO
+EUB 
 
-Eisenbahn- Bau- und Betriebsordnung
+EUV 
 
-EIU
+EVU 
 
-Eisenbahninfrastrukturunternehmen
+NE 
 
-ERA
+Nmg 
 
-Europäische Eisenbahn Agentur
+Ril 
 
-ESO
+SB 
 
-Eisenbahnsignalordnung
+Allgemeines Eisenbahngesetz 
 
-EUB
+Bundesministerium für Verkehr und digitale Infrastruktur 
 
-Eisenbahn-Unfalluntersuchungsstelle des Bundes
+Bundespolizei 
 
-EUV
+Bahnübergang 
 
-Eisenbahn-Unfalluntersuchungsverordnung
+Eisenbahn-Bundesamt 
 
-EVU
+Eisenbahnbetriebsleiter 
 
-Eisenbahnverkehrsunternehmen
+Eisenbahn- Bau- und Betriebsordnung 
 
-NE
+Eisenbahninfrastrukturunternehmen 
 
-Nichtbundeseigene Eisenbahn
+Europäische Eisenbahn Agentur 
 
-Nmg
+Eisenbahnsignalordnung 
 
-Notfallmanager
+Eisenbahn-Unfalluntersuchungsstelle des Bundes 
 
-Ril
+Eisenbahn-Unfalluntersuchungsverordnung 
 
-Richtlinie
+Eisenbahnverkehrsunternehmen 
 
-SB
+Nichtbundeseigene Eisenbahn 
 
-Sicherheitsbehörde
+Notfallmanager 
 
-SMS
+Richtlinie 
 
-Sicherheitsmanagementsystem
+Sicherheitsbehörde 
 
-Seite 5 von 16
+SMS 
 
-Untersuchungsbericht
-Zugkollision, 18.06.2015, Halle (Saale) Hbf
+Sicherheitsmanagementsystem 
 
-1
+Seite 5 von 16 
 
-Zusammenfassung
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-1.1
+Zugkollision, 18.06.2015, Halle (Saale) Hbf 
 
-Kurzbeschreibung des Ereignisses
+1 
 
-Eine aus einem Rangiertriebfahrzeug und zwei schadhaften Triebfahrzeugen der Baureihe
-143 bestehende Rangierfahrt, sollte von Gleis 35 in den Stellwerksbezirk Hp 5 fahren.
-Die Rangierfahrt bekam die Benachrichtigung in das Gleis 2w zu fahren, wo die RB 26269
-zur Abfahrt bereitstand. Die Rangierfahrt kam trotz Einleitung der Bremsung nicht zum stehen und kollidierte mit der Regionalbahn. Die Regionalbahn wurde um ca. 16 Meter verschoben.
+Zusammenfassung 
 
-1.2
+1.1 
 
-Folgen
+Kurzbeschreibung des Ereignisses 
 
-Durch die Kollision wurden 5 Reisende leicht verletzt. Es entstand ein Sachschaden von ca.
-5000.00 Euro.
+Eine  aus  einem  Rangiertriebfahrzeug  und  zwei  schadhaften  Triebfahrzeugen  der  Baureihe 
 
-1.3
+143 bestehende Rangierfahrt, sollte von Gleis 35 in den Stellwerksbezirk Hp 5 fahren. 
 
-Ursachen
+Die Rangierfahrt bekam die Benachrichtigung in das Gleis 2w zu fahren, wo die RB 26269 
 
-Bei der Einfahrt der Rangierfahrt in das Gleis 2w wurde der Bremsvorgang zu spät eingeleitet. Dadurch konnte eine Kollision, mit dem noch im Gleis 2w stehenden Personenzug, nicht
-verhindert werden.
+zur Abfahrt bereitstand. Die Rangierfahrt kam trotz Einleitung der Bremsung nicht zum ste-
 
-Seite 6 von 16
+hen  und  kollidierte  mit  der  Regionalbahn.  Die  Regionalbahn  wurde  um  ca.  16  Meter  ver-
 
-Untersuchungsbericht
-Zugkollision, 18.06.2015, Halle (Saale) Hbf
+schoben. 
 
-Bild 1 und 2: Aufnahmen an der Unfallstelle
-Quelle: BPol (bearbeitet durch EUB)
+1.2 
 
-Seite 7 von 16
+Folgen 
 
-Untersuchungsbericht
-Zugkollision, 18.06.2015, Halle (Saale) Hbf
+Durch die Kollision wurden 5 Reisende leicht verletzt. Es entstand ein Sachschaden von ca. 
 
-2
+5000.00 Euro. 
 
-Vorbemerkungen
+1.3 
 
-Durch die Eisenbahn-Unfalluntersuchungsstelle des Bundes (EUB) wurde unmittelbar nach
-dem Ereigniseintritt keine Sachverhaltsermittlung vor Ort durchgeführt. Der Abschlussbericht
-basiert auf Informationen, die gemäß § 2 Eisenbahn-Unfalluntersuchungsverordnung (EUV)
-von der EUB bei den beteiligten Eisenbahnen abgefordert wurden.
-Die zu diesem Ereignis zur Verfügung gestellten Informationen sind grundsätzlich plausibel
+Ursachen 
+
+Bei der Einfahrt der Rangierfahrt in das Gleis 2w wurde der Bremsvorgang zu spät eingelei-
+
+tet. Dadurch konnte eine Kollision, mit dem noch im Gleis 2w stehenden Personenzug, nicht 
+
+verhindert werden. 
+
+Seite 6 von 16 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 18.06.2015, Halle (Saale) Hbf 
+
+Bild 1 und 2: Aufnahmen an der Unfallstelle 
+
+Quelle: BPol (bearbeitet durch EUB) 
+
+Seite 7 von 16 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 18.06.2015, Halle (Saale) Hbf 
+
+2 
+
+Vorbemerkungen 
+
+Durch die Eisenbahn-Unfalluntersuchungsstelle des Bundes (EUB) wurde unmittelbar nach 
+
+
+dem Ereigniseintritt keine Sachverhaltsermittlung vor Ort durchgeführt. Der Abschlussbericht 
+
+basiert auf Informationen, die gemäß § 2 Eisenbahn-Unfalluntersuchungsverordnung (EUV) 
+
+
+von der EUB bei den beteiligten Eisenbahnen abgefordert wurden. 
+
+
+Die zu diesem Ereignis zur Verfügung gestellten Informationen sind grundsätzlich plausibel 
+
+
 und lassen Schlussfolgerungen in Bezug auf die Unfallursache zu.
+ 
 
-2.1
+2.1 
 
-Organisatorischer Hinweis
+Organisatorischer Hinweis 
 
-Mit der Richtlinie 2004/49/EG zur Eisenbahnsicherheit in der Gemeinschaft (Eisenbahnsicherheitsrichtlinie) wurden die Mitgliedstaaten der europäischen Union verpflichtet, unabhängige Untersuchungsstellen für die Untersuchung bestimmter gefährlicher Ereignisse einzurichten.
-Diese Richtlinie wurde mit dem 5. Gesetz zur Änderung eisenbahnrechtlicher Vorschriften
-vom 16. April 2007 umgesetzt und die Eisenbahn-Unfalluntersuchungsstelle des Bundes
-(EUB) eingerichtet. Die weitere Umsetzung der Sicherheitsrichtlinie erfolgte durch die Eisenbahn-Unfalluntersuchungsverordnung (EUV) vom 05.07.2007.
-Die Leitung der Eisenbahn-Unfalluntersuchungsstelle des Bundes (EUB) liegt beim Bundesministerium für Verkehr und digitale Infrastruktur (BMVI). Zur Durchführung der Untersuchungen greift die Leitung der EUB auf die Untersuchungszentrale beim EisenbahnBundesamt - die fachlich ausschließlich und unmittelbar dem Leiter der EUB untersteht zurück.
-Näheres hierzu ist im Internet unter >> www.eisenbahn-unfalluntersuchung.de << eingestellt.
+Mit  der  Richtlinie  2004/49/EG  zur  Eisenbahnsicherheit  in  der  Gemeinschaft  (Eisenbahnsi-
 
-2.2
+cherheitsrichtlinie)  wurden  die  Mitgliedstaaten  der  europäischen  Union  verpflichtet,  unab-
 
-Ziel der Eisenbahn-Unfalluntersuchung
+hängige Untersuchungsstellen für die Untersuchung bestimmter gefährlicher Ereignisse ein-
 
-Ziel und Zweck der Untersuchungen ist es, die Ursachen von gefährlichen Ereignissen aufzuklären und hieraus Hinweise zur Verbesserung der Sicherheit abzuleiten. Untersuchungen
-der EUB dienen nicht dazu, ein Verschulden festzustellen oder Fragen der Haftung oder
-sonstiger zivilrechtlicher Ansprüche zu klären und werden unabhängig von jeder gerichtlichen Untersuchung durchgeführt.
-Die Untersuchung umfasst die Sammlung und Auswertung von Informationen, die Erarbeitung von Schlussfolgerungen einschließlich der Feststellung der Ursachen und gegebenenfalls die Abgabe von Sicherheitsempfehlungen. Die Vorschläge der Untersuchungsstelle zur
-Vermeidung von Unfällen und Verbesserung der Sicherheit im Eisenbahnverkehr werden der
-Seite 8 von 16
+zurichten. 
 
-Untersuchungsbericht
-Zugkollision, 18.06.2015, Halle (Saale) Hbf
+Diese  Richtlinie  wurde  mit  dem  5.  Gesetz  zur  Änderung  eisenbahnrechtlicher  Vorschriften 
 
-Sicherheitsbehörde und, soweit erforderlich, anderen Stellen und Behörden oder anderen
-Mitgliedstaaten der EU in Form von Sicherheitsempfehlungen mitgeteilt.
+vom  16.  April  2007  umgesetzt  und  die  Eisenbahn-Unfalluntersuchungsstelle  des  Bundes 
 
-2.3
+(EUB) eingerichtet. Die weitere Umsetzung der Sicherheitsrichtlinie erfolgte durch die Eisen-
 
-Beteiligte und Mitwirkende
+bahn-Unfalluntersuchungsverordnung (EUV) vom 05.07.2007. 
 
-An dem Ereignis waren folgende Eisenbahnunternehmen beteiligt:
-
+Die Leitung der Eisenbahn-Unfalluntersuchungsstelle des Bundes (EUB) liegt beim Bundes-
 
-DB Regio AG
+ministerium  für  Verkehr  und  digitale  Infrastruktur  (BMVI).  Zur  Durchführung  der  Untersu-
 
-
+chungen  greift  die  Leitung  der  EUB  auf  die  Untersuchungszentrale  beim  Eisenbahn-
 
-DB Netz AG
+Bundesamt  -  die  fachlich  ausschließlich  und  unmittelbar  dem  Leiter  der  EUB  untersteht  -
 
-
+zurück. 
 
-DB Schenker Rail Deutschland AG
+Näheres hierzu ist im Internet unter >> www.eisenbahn-unfalluntersuchung.de << eingestellt. 
 
-Im Rahmen der Sachverhaltsermittlung und Ursachenerforschung wurden folgende externe
-Stellen einbezogen:
-
+2.2 
 
-Bundespolizei
+Ziel der Eisenbahn-Unfalluntersuchung 
 
-3
+Ziel und Zweck der Untersuchungen ist es, die Ursachen von gefährlichen Ereignissen auf-
 
-Ereignis
+zuklären und hieraus Hinweise zur Verbesserung der Sicherheit abzuleiten. Untersuchungen 
 
-3.1
+der  EUB  dienen  nicht  dazu,  ein  Verschulden  festzustellen  oder  Fragen  der  Haftung  oder 
 
-Hergang
+sonstiger  zivilrechtlicher  Ansprüche  zu  klären  und  werden  unabhängig  von  jeder  gerichtli-
 
-Eine Rangierfahrt, bestehend aus der Rangierlok und zwei schadhaften Triebfahrzeugen der
-Baureihe 143, sollte von Gleis 35 in den Stellwerksbereich des Stellwerkes Hp 5 fahren.
-Nachdem der Triebfahrzeugführer den Weichenwärter des Stellwerkes Hs 2 unterrichtet hatte, erhielt er die Zustimmung zur Fahrt in Richtung des Stellwerkbezirkes Hp 4. Im Stellwerksbezirk Hp 4 musste der Triebfahrzeugführer ca. eine Stunde auf die Weiterfahrt in den
-Stellwerksbezirk Hp 5 warten.
-Bevor die Zustimmung zur Weiterfahrt in den Stellwerksbereich Hp 5 erteilt wurde, informierte der Weichenwärter den Triebfahrzeugführer, dass das Gleis 2w mit einem Reisezug besetzt ist. Daraufhin setzte der Triebfahrzeugführer seine Rangierfahrt in das Gleis 2w fort.
+chen Untersuchung durchgeführt. 
 
-Seite 9 von 16
+Die  Untersuchung  umfasst  die  Sammlung  und  Auswertung  von  Informationen,  die  Erarbei-
 
-Untersuchungsbericht
-Zugkollision, 18.06.2015, Halle (Saale) Hbf
+tung von Schlussfolgerungen einschließlich der Feststellung der Ursachen und gegebenen-
 
-Auszug aus der Örtlichen Richtlinie Bf Halle (Saale) Hbf
-Rangieren Allgemeines
+falls die Abgabe von Sicherheitsempfehlungen. Die Vorschläge der Untersuchungsstelle zur 
 
-Örtliche Richtlinien Bf Halle (Saale) Hbf 13. Bek
-408.0801
+Vermeidung von Unfällen und Verbesserung der Sicherheit im Eisenbahnverkehr werden der 
+
+Seite 8 von 16 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          
+Untersuchungsbericht 
+
+Zugkollision, 18.06.2015, Halle (Saale) Hbf 
+
+Sicherheitsbehörde  und,  soweit  erforderlich,  anderen  Stellen  und  Behörden  oder  anderen 
+
+Mitgliedstaaten der EU in Form von Sicherheitsempfehlungen mitgeteilt. 
+
+2.3 
+
+Beteiligte und Mitwirkende 
+
+An dem Ereignis waren folgende Eisenbahnunternehmen beteiligt: 
+
+  DB Regio AG
+
+  DB Netz AG
+
+  DB Schenker Rail Deutschland AG
+
+Im  Rahmen  der  Sachverhaltsermittlung  und  Ursachenerforschung  wurden folgende externe 
+
+Stellen einbezogen: 
+
+ Bundespolizei
+
+3 
+
+Ereignis 
+
+3.1 
+
+Hergang 
+
+Eine Rangierfahrt, bestehend aus der Rangierlok und zwei schadhaften Triebfahrzeugen der 
+
+Baureihe  143,  sollte  von  Gleis  35  in  den  Stellwerksbereich  des  Stellwerkes  Hp  5  fahren. 
+
+Nachdem der Triebfahrzeugführer den Weichenwärter des Stellwerkes Hs 2 unterrichtet hat-
+
+te,  erhielt  er  die  Zustimmung  zur  Fahrt  in  Richtung  des  Stellwerkbezirkes  Hp  4.  Im  Stell-
+
+werksbezirk Hp 4 musste der Triebfahrzeugführer ca. eine Stunde auf die Weiterfahrt in den 
+
+Stellwerksbezirk Hp 5 warten. 
+
+Bevor die Zustimmung zur Weiterfahrt in den Stellwerksbereich Hp 5 erteilt wurde, informier-
+
+te  der  Weichenwärter  den  Triebfahrzeugführer,  dass  das  Gleis  2w  mit  einem  Reisezug  be-
+
+setzt ist. Daraufhin setzte der Triebfahrzeugführer seine Rangierfahrt in das Gleis 2w fort. 
+
+Seite 9 von 16 
+
+ 
+ 
+ 
+ 
+                 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 18.06.2015, Halle (Saale) Hbf 
+
+Auszug aus der Örtlichen Richtlinie Bf Halle (Saale) Hbf 
+
+Rangieren Allgemeines 
+
+Örtliche Richtlinien Bf Halle (Saale) Hbf 13. Bek 
+
+408.0801 
 
 3. Bevor einer Rangierfahrt in ein besetztes Bahnsteiggleis zugestimmt wird, müssen Sie den Triebfahrzeugführer
-über die Gleisbesetzung verständigen.
+über die Gleisbesetzung verständigen.  
 
-Auszug aus dem Protokoll der BP:
+Auszug aus dem Protokoll der BP: 
+
 Aus den Gesprächen ist zweifelsfrei zu entnehmen, dass dem Beschuldigten bekannt war, dass er in ein besetz­
-tes Gleis einfahren sollte. (s.Bl. 170, 177-178)
 
-Zum Zeitpunkt der Einleitung des Bremsvorgangs reicht der Bremsweg nicht mehr aus, um
-die Rangierfahrt vor dem Personenzug anhalten zu können.
+tes Gleis einfahren sollte. (s.Bl. 170, 177-178) 
 
-Abb. 2: Lageplan
-Quelle: DB Netz AG bearbeitet durch EUB
+Zum Zeitpunkt der Einleitung des Bremsvorgangs reicht der Bremsweg nicht mehr aus, um 
 
-3.2
+die Rangierfahrt vor dem Personenzug anhalten zu können. 
 
-Todesopfer, Verletzte und Sachschäden
+Abb. 2: Lageplan 
 
-Durch den Aufprall wurden fünf Personen leicht verletzt. Die Regionalbahn wurde um ca. 16
-Meter verschoben.
-Die Sachschäden setzen sich wie folgt zusammen:
-
+Quelle: DB Netz AG bearbeitet durch EUB 
 
-Triebfahrzeuge
+3.2 
 
-ca.
+Todesopfer, Verletzte und Sachschäden 
 
-5.000 €
+Durch den Aufprall wurden fünf Personen leicht verletzt. Die Regionalbahn wurde um ca. 16 
 
-
+Meter verschoben. 
 
-Betriebserschwernisse
+Die Sachschäden setzen sich wie folgt zusammen: 
 
-keine Angaben
+  Triebfahrzeuge
 
-Seite 10 von 16
+ca. 
 
-Untersuchungsbericht
-Zugkollision, 18.06.2015, Halle (Saale) Hbf
+5.000 € 
 
-3.3
+  Betriebserschwernisse  
 
-Wetterbedingungen
+keine Angaben 
 
-Zum Zeitpunkt des Ereignisses waren die Witterungsbedingungen so, dass sie keinen Einfluss auf die Rangierfahrt gehabt haben.
+Seite 10 von 16 
 
-4
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                   
+ 
+                                  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Untersuchungsprotokoll
+Zugkollision, 18.06.2015, Halle (Saale) Hbf 
 
-4.1
+3.3 
 
-Zusammenfassung von Aussagen
+Wetterbedingungen 
 
-Fahrdienstleiter Hp4:
-Die Fahrdienstleiterin bestätigte, dass der aufgezeichnete Funkverkehr durch sie geführt
-worden sei. Sie erwähnte auch, dass es auf dem Hauptbahnhof übliche Praxis sei, in besetzte Gleise zu rangieren.
-Betriebsingenieur der Werkstatt:
-Gegenüber der Bundespolizei wurde erklärte, die Zu – und Abgänge habe man am Montag
-abgesprochen. Die Loks hätten eine Lauffähigkeitsbescheinigung erhalten sollen. Die Bescheinigung sei noch nicht dagewesen und deshalb sollte eine Begleitung durch Mitarbeiter
-der Werkstatt erfolgen. Der Triebfahrzeugführer der Rangierfahrt hätte vor der Abfahrt mit
-den beiden Loks sich bei der Werkstatt melden sollen.
-Warum er das nicht getan habe, sei nicht bekannt.
-Mitarbeiter Leitstelle DB Regio AG in Leipzig:
-Der Mitarbeiter erklärte, dass an diesem Tag normaler Betrieb stattgefunden habe. Er habe
-den Auftrag an den Triebfahrzeugführer, der für den Werkstattbereich Halle (Saale)
-Volkmannstr. zuständig gewesen sei, vermittelt. Der Triebfahrzeugführer habe den Auftrag
-bekommen, zwei E-Loks der Baureihe 143 vom Werk nach Halle (Saale) Hbf zu überführen.
-Der Trieb-fahrzeugführer sollte sich vorher beim Instandhaltungsleiter melden, weil
-Werkstattpersonal mit auf den Hauptbahnhof fahren sollte. Der Schichtleiter sei Ohrenzeuge
-des Gesprächs gewesen. Der Rangierauftrag sei in keiner Form nachgewiesen.
+Zum  Zeitpunkt  des  Ereignisses  waren  die  Witterungsbedingungen  so,  dass  sie  keinen  Ein-
 
-4.2
+fluss auf die Rangierfahrt gehabt haben. 
 
-Notfallmanagement
+4 
 
-Nach § 4 Abs. 3 Allgemeines Eisenbahngesetz (AEG) haben die Eisenbahnen die Verpflichtung, an Maßnahmen des Brandschutzes und der technischen Hilfeleistung mitzuwirken. In
-einer Vereinbarung zwischen den Innenministerien der Länder und der DB AG hat man sich
-auf eine Verfahrensweise verständigt. Für die DB Netz AG gelten die entsprechenden Brandund Katastrophenschutzgesetze der Länder. Das Notfallmanagement der DB AG ist in der
-Richtlinie (Ril) 423 näher beschrieben und geregelt.
+Untersuchungsprotokoll 
 
-Seite 11 von 16
+4.1 
 
-Untersuchungsbericht
-Zugkollision, 18.06.2015, Halle (Saale) Hbf
+Zusammenfassung von Aussagen 
 
-Erkenntnisse, dass es beim Notfallmanagement zu Verzögerungen, Störungen etc. gekommen sein könnte liegen nicht vor.
+Fahrdienstleiter Hp4: 
 
-4.3
+Die  Fahrdienstleiterin  bestätigte,  dass  der  aufgezeichnete  Funkverkehr  durch  sie  geführt 
 
-Untersuchung der Infrastruktur
+worden sei. Sie erwähnte auch, dass es auf dem Hauptbahnhof übliche Praxis sei, in besetz-
 
-Auf die Untersuchung der Infrastruktur kann verzichtet werden, da kein Zusammenhang der
-Infrastruktur mit dem Unfallgeschehen festgestellt werden konnte.
+te Gleise zu rangieren. 
 
-4.4
+Betriebsingenieur der Werkstatt: 
 
-Untersuchung der Leit- und Sicherungstechnik
+Gegenüber der Bundespolizei wurde erklärte, die Zu – und Abgänge habe man am Montag 
 
-Auf die Untersuchung der Leit- und Sicherungstechnik kann verzichtet werden, da diese keinen Einfluss auf das Unfallgeschehen hatte.
+abgesprochen.  Die  Loks  hätten  eine  Lauffähigkeitsbescheinigung  erhalten  sollen.  Die  Be-
 
-4.5
+scheinigung sei noch nicht dagewesen und deshalb sollte eine Begleitung durch Mitarbeiter 
 
-Untersuchung der betrieblichen Handlungen des Triebfahrzeugführers
+der  Werkstatt  erfolgen.  Der  Triebfahrzeugführer  der  Rangierfahrt  hätte  vor  der  Abfahrt  mit 
 
-4.5.1
+den beiden Loks sich bei der Werkstatt melden sollen. 
 
-Ausbildung und Überwachung
+Warum er das nicht getan habe, sei nicht bekannt. 
 
-Durch das EVU des Triebfahrzeugführers wurden die Unterlagen über die Ausbildung und
-der Überwachung vorgelegt. Es konnten anhand der vorgelegten Unterlagen keine Unregelmäßigkeiten festgestellt werden.
+Mitarbeiter Leitstelle DB Regio AG in Leipzig: 
 
-4.5.2
+Der Mitarbeiter erklärte, dass an diesem Tag normaler Betrieb stattgefunden habe. Er habe 
 
-Vorbereitung der Rangierfahrt
+den  Auftrag  an  den  Triebfahrzeugführer,  der  für  den  Werkstattbereich  Halle  (Saale) 
 
-Die Übernahme der beiden Schad–Triebfahrzeuge durch den Triebfahrzeugführer der Rangierfahrt, erfolgte nicht wie vorgesehen. Der Triebfahrzeugführer der Rangierfahrt sollte sich
-beim Instandhaltungsleiter melden. Es war vorgesehen, dass zwei Werkstattmitarbeiter die
-Rangierfahrt begleiten sollten. Eine schriftliche Anweisung für diese Maßnahme gab es nicht.
-Warum es zum Informationsverlust kam konnte nicht geklärt werde, da es hierzu unterschiedliche Aussagen gibt. Warum die beiden Werkstattmitarbeiter jeweils ein Triebfahrzeug
-besetzen sollten, konnte im Nachhinein nicht mehr plausibel beantwortet werden.
-Dem Triebfahrzeugführer der Rangierfahrt war offensichtlich nicht bekannt, dass bei beiden
-Schad-Triebfahrzeugen die Bremsen nicht mehr funktionstüchtig waren.
-Da entsprechend der Abbildung 3 die Rangierlok 16 ungebremste Achsen bei einer Neigung
-von 5 Promille bewegen darf, war diese fehlende Information nicht von Bedeutung.
-Der Triebfahrzeugführer durfte also die Schad-Triebfahrzeuge auch ohne funktionsfähige
-Bremsen bewegen. Er musste sich dementsprechend auf einen längeren Bremsweg einstellen.
-Da der Triebfahrzeugführer vermutlich die Rangierfahrt luftgebremst durchführen wollte,
-musste er sich vom ordnungsgemäßen Wirken der Bremsen durch eine Bremsprobe überzeugen. Bei der Durchführung der Bremsprobe hätte ihm auffallen müssen, dass die Bremsen der beiden Triebfahrzeuge nicht funktionsfähig waren.
-Seite 12 von 16
+Volkmannstr.  zuständig  gewesen  sei,  vermittelt.  Der  Triebfahrzeugführer  habe  den  Auftrag 
 
-Untersuchungsbericht
-Zugkollision, 18.06.2015, Halle (Saale) Hbf
+bekommen, zwei E-Loks der Baureihe 143 vom Werk nach Halle (Saale) Hbf zu überführen. 
 
-Auszug aus der 408.0831
+Der  Trieb-fahrzeugführer  sollte  sich  vorher  beim 
 
-Abb. 3: Auszug aus der 418 gültig ab 15.12.2013
+Instandhaltungsleiter  melden,  weil 
 
-4.5.3
+Werkstattpersonal mit auf den Hauptbahnhof fahren sollte. Der Schichtleiter sei Ohrenzeuge 
 
-Durchführung der Rangierfahrt
+des Gesprächs gewesen. Der Rangierauftrag sei in keiner Form nachgewiesen. 
 
-Der Triebfahrzeugführer der Rangierfahrt hatte die Aufgabe, von Gleis 35 in den Stellwerksbereich Hp 5 zu fahren. Dazu unterrichtete der Triebfahrzeugführer den Weichenwärter Hs 2
-von seiner beabsichtigten Rangierfahrt und erhielt von ihm die Zustimmung zur Fahrt in Richtung Stellwerk Hp 4. Im Bereich des Stellwerks Hp 4, musste die Rangierfahrt ca. eine Stunde auf die Weiterfahrt in den Stellwerksbezirk Hp 5 warten. Vor der Erteilung der Zustimmung zur Weiterfahrt in Richtung Stellwerk Hp 5, unterrichtete der Weichenwärter Hp 4 den
-Triebfahrzeugführer, dass im Gleis 2w noch ein Reisezug steht.
-Der Triebfahrzeugführer hat bei der Einfahrt in das Gleis 2w vermutlich die Bremsung zu
-spät eingeleitet und kollidierte dadurch mit der Regionalbahn.
+4.2 
 
-4.5.4
+Notfallmanagement  
 
-Fahrtverlauf der Rangierfahrt
+Nach § 4 Abs. 3 Allgemeines Eisenbahngesetz (AEG) haben die Eisenbahnen die Verpflich-
 
-Der Fahrtverlauf wurde durch Indusi-Fahrzeugeinrichtung I 60 mit dem Registriergerät ER 4
-aufgezeichnet.
+tung, an Maßnahmen des Brandschutzes und der technischen Hilfeleistung mitzuwirken. In 
 
-Seite 13 von 16
+einer Vereinbarung zwischen den Innenministerien der Länder und der DB AG hat man sich 
 
-Untersuchungsbericht
-Zugkollision, 18.06.2015, Halle (Saale) Hbf
+auf eine Verfahrensweise verständigt. Für die DB Netz AG gelten die entsprechenden Brand- 
 
-Abb. 4: Auszug aus dem Fahrtverlauf
-Entsprechend der vorliegenden Unterlagen ist davon auszugehen, dass die Rangiergeschwindigkeit von 25 km/h nicht überschritten wurde.
+und  Katastrophenschutzgesetze  der  Länder.  Das  Notfallmanagement  der  DB  AG  ist  in  der 
 
-4.6
+Richtlinie (Ril) 423 näher beschrieben und geregelt. 
 
-Untersuchung von Fahrzeugen
+Seite 11 von 16 
 
-Bei der Rangierlok handelt es sich um eine Lok der Baureihe 362.
-Die Rangierlok wurde nach dem Ereignis auf ihre Bremsfähigkeit hin überprüft. Die Überprüfung wurde durch den Werkmeister und einem Bremssachverständigen der DB AG durchgeführt. Es wurden keine Bremsmängel festgestellt. Auch im Einsatz vor dem Ereignis gab es
-keine Mängel an der Bremsanlage.
-Die letzte Inspektion vor dem Ereignis fand am 29.05.2015 statt. Diese Inspektion beinhaltete auch die Bremsrevision. Es gab keine Beanstandungen.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Seite 14 von 16
+Zugkollision, 18.06.2015, Halle (Saale) Hbf 
 
-Untersuchungsbericht
-Zugkollision, 18.06.2015, Halle (Saale) Hbf
+Erkenntnisse,  dass  es  beim  Notfallmanagement  zu  Verzögerungen, Störungen etc. gekom-
 
-Abb. 5: Auszug aus dem Inspektionsprotokoll
+men sein könnte liegen nicht vor. 
 
-Bei den Schad-Triebfahrzeugen handelt es sich um Triebfahrzeuge der BR 143.
-Sie sollten aus dem Bereich der Werkstatt Halle (Saale) zum Hauptbahnhof Halle (Saale)
-rangiert werden. Anschließend war es vorgesehen, die Schad-Triebfahrzeuge in einen
-Zugverband nach Mukran zu fahren. Dort sollten sie der Verschrottung zugeführt zu
-werden. Die Bremsanla-gen der beiden Schadtriebfahrzeuge waren außer Betrieb gesetzt.
-Wesentliche Teile waren zu diesem Zeitpunkt bereits ausgebaut. Ein durchschalten der
-Hauptluftleitung für den Zug-transport war möglich.
+4.3 
 
-5
+Untersuchung der Infrastruktur 
 
-Auswertung und Schlussfolgerungen
+Auf die Untersuchung der Infrastruktur kann verzichtet werden, da kein Zusammenhang der 
 
-Nach den vorliegenden Erkenntnissen, wurde nicht entsprechend der Richtlinie 408.01-09
-gearbeitet.
-Die Rangierfahrt kommend aus Gleis 35 hatte den Auftrag in den Stellwerksbezirk Hp 5 zu
-fahren. Dazu sollte sie in das Gleis 2w fahren, wo sich zu diesem Zeitpunkt noch ein Personenzug befand. Durch den Weichenwärter des Stellwerkes Hp 4 bekam der Triebfahrzeugführer die Information, dass dieses Gleis noch mit einem Personenzug besetzt war.
-Die Rangierfahrt sollte dort vor dem Personenzug anhalten und die Ausfahrt des Personenzuges abwarten.
-Trotz Widersprüche über die Übergabe der beiden Schadtriebfahrzeuge, ist die Übergabe
-nicht die Ursache des gefährlichen Ereignisses. Es ist eindeutig zu erkennen, dass die Ursache in der Vorbereitung und Durchführung der Rangierfahrt liegt. Zum Zeitpunkt der Über-
+Infrastruktur mit dem Unfallgeschehen festgestellt werden konnte. 
 
-Seite 15 von 16
+4.4 
 
-Untersuchungsbericht
-Zugkollision, 18.06.2015, Halle (Saale) Hbf
+Untersuchung der Leit- und Sicherungstechnik 
 
-nahme der beiden Schadtriebfahrzeuge war dem Triebfahrzeugführer wahrscheinlich nicht
-bekannt, dass diese beiden Triebfahrzeuge keine funktionierenden Bremsen mehr haben.
-Der Triebfahrzeugführer der Rangierfahrt musste sich deshalb damit auseinandersetzen, ob
-er die Rangierfahrt mit den beiden Schadtriebfahrzeugen luftgebremst durchführt oder nicht.
-Bei der Entscheidung mit den Triebfahrzeugen nicht luftgebremst zu rangieren, hätte er sich
-auf die Anhängelast an seinem Triebfahrzeug (ca. 164 t) beim Bremsen und Anhalten einstellen müssen. Da der Triebfahrzeugführer sich nach bisherigem Kenntnisstand für die
-Rangierfahrt mit luftgebremsten Triebfahrzeugen entschieden hatte, war es notwendig eine
-Bremsprobe durchzuführen. Bei ordnungsgemäßer Durchführung der Bremsprobe muss
-dem Triebfahrzeugführer auffallen, dass die Bremsen der beiden Triebfahrzeuge nicht funktionstüchtig sind und er hätte darauf sein Bremsverhalten einstellen müssen.
-Warum die Rangierfahrt mit dem Personenzug kollidierte kann nur vermutet werden, da keine Aussage dazu vorliegt. Entweder wurde der Personenzug zu spät erkannt und damit die
-Bremsung zu spät eingeleitet, oder das Bremsverhalten der Rangierlok mit den beiden
-Schad – Triebfahrzeugen wurde falsch eingeschätzt und die Rangierfahrt kam deshalb nicht
-rechtzeitig zum Stehen.
+Auf die Untersuchung der Leit- und Sicherungstechnik kann verzichtet werden, da diese kei-
 
-6
+nen Einfluss auf das Unfallgeschehen hatte. 
 
-Bisher getroffene Maßnahmen
+4.5 
 
-Der Triebfahrzeugführer wurde in folgenden Themen nachgeschult:
-
+Untersuchung der betrieblichen Handlungen des Triebfahrzeugführers 
 
-Rangieren von Fahrzeugen ohne Druckluftbremse,
+4.5.1 
 
-
+Ausbildung und Überwachung 
 
-Vorbereitung von Fahrzeugen mit Hochleistungsbremse in Schleppfahrt.
+Durch  das  EVU  des  Triebfahrzeugführers  wurden  die  Unterlagen  über  die  Ausbildung  und 
 
-Auswertung des Ereignisses für alle Triebfahrzeugführer in der Region Süd Ost.
-Es erfolgten Weisungen an die Werkstatt über die Kennzeichnung von Schadfahrzeugen.
-Die Fahrzeugleitstellen wurden unterwiesen, Aufträge zum Überführen von Schadfahrzeugen
-aus dem Werkstattbereich heraus nur beim Vorliegen einer Lauffähigkeitsbescheinigung
-in der Leitstelle zu erteilen.
+der Überwachung vorgelegt. Es konnten anhand der vorgelegten Unterlagen keine Unregel-
 
-Seite 16 von 16
+mäßigkeiten festgestellt werden. 
 
+4.5.2 
+
+Vorbereitung der Rangierfahrt 
+
+Die Übernahme der beiden Schad–Triebfahrzeuge durch den Triebfahrzeugführer der Ran-
+
+gierfahrt, erfolgte nicht wie vorgesehen. Der Triebfahrzeugführer der Rangierfahrt sollte sich 
+
+beim  Instandhaltungsleiter  melden.  Es  war  vorgesehen,  dass  zwei  Werkstattmitarbeiter  die 
+
+Rangierfahrt begleiten sollten. Eine schriftliche Anweisung für diese Maßnahme gab es nicht. 
+
+Warum  es  zum  Informationsverlust  kam  konnte  nicht  geklärt  werde,  da  es  hierzu  unter-
+
+schiedliche Aussagen gibt. Warum die beiden Werkstattmitarbeiter jeweils ein Triebfahrzeug 
+
+besetzen sollten, konnte im Nachhinein nicht mehr plausibel beantwortet werden. 
+
+Dem Triebfahrzeugführer der Rangierfahrt war offensichtlich nicht bekannt, dass bei beiden 
+
+Schad-Triebfahrzeugen die Bremsen nicht mehr funktionstüchtig waren. 
+
+Da entsprechend der Abbildung 3 die Rangierlok 16 ungebremste Achsen bei einer Neigung 
+
+von 5 Promille bewegen darf,  war diese fehlende Information nicht von Bedeutung. 
+
+Der  Triebfahrzeugführer  durfte  also  die  Schad-Triebfahrzeuge  auch  ohne  funktionsfähige 
+
+Bremsen bewegen. Er musste sich dementsprechend auf einen längeren Bremsweg einstel-
+
+len. 
+
+Da  der  Triebfahrzeugführer  vermutlich  die  Rangierfahrt  luftgebremst  durchführen  wollte, 
+
+musste  er  sich  vom  ordnungsgemäßen  Wirken  der  Bremsen  durch  eine  Bremsprobe  über-
+
+zeugen. Bei der Durchführung der Bremsprobe hätte ihm auffallen müssen, dass die Brem-
+
+sen der beiden Triebfahrzeuge nicht funktionsfähig waren. 
+
+Seite 12 von 16 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 18.06.2015, Halle (Saale) Hbf 
+
+Auszug aus der 408.0831  
+
+Abb. 3: Auszug aus der 418 gültig ab 15.12.2013 
+
+4.5.3 
+
+Durchführung der Rangierfahrt 
+
+Der Triebfahrzeugführer der Rangierfahrt hatte die Aufgabe, von Gleis 35 in den Stellwerks-
+
+bereich Hp 5 zu fahren. Dazu unterrichtete der Triebfahrzeugführer den Weichenwärter Hs 2 
+
+von seiner beabsichtigten Rangierfahrt und erhielt von ihm die Zustimmung zur Fahrt in Rich-
+
+tung Stellwerk Hp 4. Im Bereich des Stellwerks Hp 4, musste die Rangierfahrt ca. eine Stun-
+
+de  auf  die  Weiterfahrt  in  den  Stellwerksbezirk  Hp  5  warten.  Vor  der  Erteilung  der  Zustim-
+
+mung zur Weiterfahrt in Richtung Stellwerk Hp 5, unterrichtete der Weichenwärter Hp 4 den 
+
+Triebfahrzeugführer, dass im Gleis 2w noch ein Reisezug steht. 
+
+Der  Triebfahrzeugführer  hat  bei  der  Einfahrt  in  das  Gleis  2w  vermutlich  die  Bremsung  zu 
+
+spät eingeleitet und kollidierte dadurch mit der Regionalbahn. 
+
+4.5.4 
+
+Fahrtverlauf der Rangierfahrt 
+
+Der Fahrtverlauf wurde durch Indusi-Fahrzeugeinrichtung I 60 mit dem Registriergerät ER 4 
+
+aufgezeichnet. 
+
+Seite 13 von 16 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 18.06.2015, Halle (Saale) Hbf 
+
+Abb. 4: Auszug aus dem Fahrtverlauf 
+
+Entsprechend  der  vorliegenden  Unterlagen  ist  davon  auszugehen,  dass  die  Rangierge-
+
+schwindigkeit von 25 km/h nicht überschritten wurde. 
+
+4.6 
+
+Untersuchung von Fahrzeugen 
+
+Bei der Rangierlok handelt es sich um eine Lok der Baureihe 362. 
+
+Die Rangierlok wurde nach dem Ereignis auf ihre Bremsfähigkeit hin überprüft. Die Überprü-
+
+fung wurde durch den Werkmeister und einem Bremssachverständigen der DB AG durchge-
+
+führt. Es wurden keine Bremsmängel festgestellt. Auch im Einsatz vor dem Ereignis gab es 
+
+keine Mängel an der Bremsanlage. 
+
+Die letzte Inspektion vor dem Ereignis fand am 29.05.2015 statt. Diese Inspektion beinhalte-
+
+te auch die Bremsrevision. Es gab keine Beanstandungen. 
+
+Seite 14 von 16 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 18.06.2015, Halle (Saale) Hbf 
+
+Abb. 5: Auszug aus dem Inspektionsprotokoll 
+
+Bei den Schad-Triebfahrzeugen handelt es sich um Triebfahrzeuge der BR 143. 
+
+Sie  sollten  aus  dem  Bereich  der  Werkstatt  Halle  (Saale)  zum  Hauptbahnhof  Halle  (Saale) 
+
+rangiert  werden. Anschließend  war  es  vorgesehen,  die  Schad-Triebfahrzeuge  in  einen 
+
+Zugverband  nach Mukran  zu  fahren.  Dort  sollten  sie  der  Verschrottung  zugeführt  zu 
+
+werden.  Die  Bremsanla-gen der beiden Schadtriebfahrzeuge waren außer Betrieb gesetzt. 
+
+Wesentliche Teile waren zu diesem Zeitpunkt bereits ausgebaut. Ein durchschalten der 
+
+Hauptluftleitung für den Zug-transport war möglich. 
+
+5 
+
+Auswertung und Schlussfolgerungen 
+
+Nach  den  vorliegenden  Erkenntnissen,  wurde  nicht  entsprechend  der  Richtlinie  408.01-09 
+
+gearbeitet. 
+
+Die Rangierfahrt kommend aus Gleis 35 hatte den Auftrag in den Stellwerksbezirk Hp 5 zu 
+
+fahren. Dazu sollte sie in das Gleis 2w fahren, wo sich zu diesem Zeitpunkt noch ein Perso-
+
+nenzug befand. Durch den Weichenwärter des Stellwerkes Hp 4 bekam der Triebfahrzeug-
+
+führer die Information, dass dieses Gleis noch mit einem Personenzug besetzt war. 
+
+Die Rangierfahrt sollte dort vor dem Personenzug anhalten und die Ausfahrt des Personen-
+
+zuges abwarten. 
+
+Trotz  Widersprüche  über  die  Übergabe  der  beiden  Schadtriebfahrzeuge,  ist  die  Übergabe 
+
+nicht die Ursache des gefährlichen Ereignisses. Es ist eindeutig zu erkennen, dass die Ursa-
+
+che  in  der  Vorbereitung  und  Durchführung  der  Rangierfahrt  liegt.  Zum  Zeitpunkt  der  Über-
+
+Seite 15 von 16 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 18.06.2015, Halle (Saale) Hbf 
+
+nahme  der  beiden  Schadtriebfahrzeuge  war  dem  Triebfahrzeugführer  wahrscheinlich  nicht 
+
+bekannt,  dass  diese  beiden  Triebfahrzeuge  keine  funktionierenden  Bremsen  mehr  haben. 
+
+Der Triebfahrzeugführer der Rangierfahrt musste sich deshalb damit auseinandersetzen, ob 
+
+er die Rangierfahrt mit den beiden Schadtriebfahrzeugen luftgebremst durchführt oder nicht. 
+
+Bei der Entscheidung mit den Triebfahrzeugen nicht luftgebremst zu rangieren, hätte er sich 
+
+auf  die  Anhängelast  an  seinem  Triebfahrzeug  (ca.  164  t)  beim  Bremsen  und  Anhalten  ein-
+
+stellen  müssen.  Da  der  Triebfahrzeugführer  sich  nach  bisherigem  Kenntnisstand  für  die 
+
+Rangierfahrt  mit  luftgebremsten  Triebfahrzeugen  entschieden  hatte,  war  es  notwendig  eine 
+
+Bremsprobe  durchzuführen.  Bei  ordnungsgemäßer  Durchführung  der  Bremsprobe  muss 
+
+dem Triebfahrzeugführer auffallen, dass die Bremsen der beiden Triebfahrzeuge nicht funk-
+
+tionstüchtig sind und er hätte darauf sein Bremsverhalten einstellen müssen. 
+
+Warum die Rangierfahrt mit dem Personenzug kollidierte kann nur vermutet werden, da kei-
+
+ne Aussage dazu vorliegt. Entweder wurde der Personenzug zu spät erkannt und damit die 
+
+Bremsung  zu  spät  eingeleitet,  oder  das  Bremsverhalten  der  Rangierlok  mit  den  beiden 
+
+Schad – Triebfahrzeugen wurde falsch eingeschätzt und die Rangierfahrt kam deshalb nicht 
+
+rechtzeitig zum Stehen. 
+
+6 
+
+Bisher getroffene Maßnahmen 
+
+Der Triebfahrzeugführer wurde in  folgenden Themen nachgeschult: 
+
+ Rangieren von Fahrzeugen ohne Druckluftbremse,
+
+ Vorbereitung von Fahrzeugen mit Hochleistungsbremse in Schleppfahrt.
+
+Auswertung des Ereignisses für alle Triebfahrzeugführer in der Region Süd Ost. 
+
+Es erfolgten Weisungen an die Werkstatt über die Kennzeichnung von Schadfahrzeugen. 
+
+Die Fahrzeugleitstellen wurden unterwiesen, Aufträge zum Überführen von Schadfahrzeugen 
+
+aus dem Werkstattbereich heraus nur beim Vorliegen einer Lauffähigkeitsbescheinigung 
+
+in der Leitstelle zu erteilen. 
+
+Seite 16 von 16 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 

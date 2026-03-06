@@ -1,1032 +1,1966 @@
 Untersuchungsbericht
-Aktenzeichen:
+ 
 
-BEU‐uu2018‐10/003‐3323
+Aktenzeichen: 
 
-Stand:
+BEU‐uu2018‐10/003‐3323 
 
-05.05.2020 Version: 1.0
+Stand: 
 
-Erstveröffentlichung: 06.05.2020
+05.05.2020  Version:  1.0 
 
-Gefährliches Ereignis im Eisenbahnbetrieb
+Erstveröffentlichung:  06.05.2020 
 
-Ereignisart:
+Gefährliches Ereignis im Eisenbahnbetrieb 
+
+
+Ereignisart: 
 
 Zugentgleisung
 
 Datum:
 
-04.10.2018
+Zeit: 
 
-Zeit:
+Bahnhof: 
 
-13:55 Uhr
+Weiche: 
 
-Bahnhof:
+Kilometer: 
 
-Neuss Gbf
+04.10.2018 
 
-Weiche:
+13:55 Uhr 
 
-74
+Neuss Gbf 
 
-Kilometer:
+74 
 
-2,65
+2,65 
 
+ 
+ 
+ 
+ 
+		
+	
+	
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+ 
+ 
 Untersuchungsbericht
-Zugentgleisung, 04.10.2018, Neuss Gbf
+ 
 
-Veröffentlicht durch:
-Bundesstelle für Eisenbahnunfalluntersuchung
-Heinemannstraße 6
-53175 Bonn
+Zugentgleisung, 04.10.2018, Neuss Gbf 
 
+Veröffentlicht durch: 
+
+Bundesstelle für Eisenbahnunfalluntersuchung 
+
+Heinemannstraße 6 
+
+53175 Bonn 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 Untersuchungsbericht
-Zugentgleisung, 04.10.2018, Neuss Gbf
+ 
 
-Inhaltsverzeichnis:
-I.
+Zugentgleisung, 04.10.2018, Neuss Gbf 
 
-Änderungsverzeichnis: .......................................................................................... II
+Inhaltsverzeichnis: 
 
-II.
+I. 
 
-Abbildungsverzeichnis: ........................................................................................ III
+II. 
 
-III.
+Änderungsverzeichnis: .......................................................................................... II
+ 
 
-Tabellenverzeichnis: ............................................................................................ III
+Abbildungsverzeichnis: ........................................................................................ III
+ 
 
-IV.
+III. 
 
-Abkürzungsverzeichnis: ....................................................................................... IV
+Tabellenverzeichnis: ............................................................................................ III
+ 
 
-1
+IV. 
 
-Vorbemerkungen.................................................................................................. 1
+Abkürzungsverzeichnis: ....................................................................................... IV
+ 
 
-1.1
+1 
 
-Organisatorischer Hinweis ...................................................................................... 1
+1.1 
 
-1.2
+1.2 
 
-Ziel der Eisenbahn‐Unfalluntersuchung .................................................................. 1
+2 
 
-2
+2.1 
 
-Zusammenfassung ................................................................................................ 2
+2.2 
 
-2.1
+2.3 
 
-Kurzbeschreibung des Ereignisses........................................................................... 2
+2.4 
 
-2.2
+3 
 
-Folgen ...................................................................................................................... 2
+3.1 
 
-2.3
+3.2 
 
-Ursachen.................................................................................................................. 2
+3.3 
 
-2.4
+3.4 
 
-Sicherheitsempfehlungen ....................................................................................... 2
+4 
 
-3
+4.1 
 
-Allgemeine Angaben ............................................................................................. 3
+4.2 
 
-3.1
+4.3 
 
-Lage und Beschreibung der Örtlichkeit ................................................................... 3
+4.4 
 
-3.2
+4.5 
 
-Beteiligte und Mitwirkende..................................................................................... 5
+Vorbemerkungen.................................................................................................. 1
+ 
 
-3.3
+Organisatorischer Hinweis ...................................................................................... 1
+ 
 
-Äußere Bedingungen ............................................................................................... 6
+Ziel der Eisenbahn‐Unfalluntersuchung .................................................................. 1
+ 
 
-3.4
+Zusammenfassung ................................................................................................ 2
+ 
 
-Todesopfer, Verletzte und Sachschäden................................................................. 6
+Kurzbeschreibung des Ereignisses ........................................................................... 2
+ 
 
-4
+Folgen ...................................................................................................................... 2
+ 
 
-Untersuchungsprotokoll ....................................................................................... 7
+Ursachen.................................................................................................................. 2
+ 
 
-4.1
+Sicherheitsempfehlungen ....................................................................................... 2
+ 
 
-Zusammenfassung von Aussagen und Stellungnahmen ......................................... 7
+Allgemeine Angaben ............................................................................................. 3
+ 
 
-4.2
+Lage und Beschreibung der Örtlichkeit ................................................................... 3
+ 
 
-Notfallmanagement ................................................................................................ 7
+Beteiligte und Mitwirkende ..................................................................................... 5
+ 
 
-4.3
+Äußere Bedingungen ............................................................................................... 6
+ 
 
-Untersuchung der bautechnischen Infrastruktur ................................................... 8
+Todesopfer, Verletzte und Sachschäden ................................................................. 6
+ 
 
-4.4
+Untersuchungsprotokoll ....................................................................................... 7
+ 
 
-Untersuchung der Leit‐ und Sicherungstechnik ...................................................... 8
+Zusammenfassung von Aussagen und Stellungnahmen ......................................... 7
+ 
 
-4.5
+Notfallmanagement ................................................................................................ 7
+ 
 
-Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers ................. 10
+Untersuchung der bautechnischen Infrastruktur ................................................... 8
+ 
 
-4.5.1
+Untersuchung der Leit‐ und Sicherungstechnik ...................................................... 8
+ 
 
-Angaben zum Betriebspersonal ............................................................................ 10
+Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers ................. 10
+ 
 
-I
+4.5.1 
 
+Angaben zum Betriebspersonal ............................................................................ 10
+ 
+
+I 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 Untersuchungsbericht
-Zugentgleisung, 04.10.2018, Neuss Gbf
+ 
 
-I.
+Zugentgleisung, 04.10.2018, Neuss Gbf 
 
-4.5.2
+4.5.2 
 
-Feststellungen zum betrieblichen Ablauf.............................................................. 10
+Feststellungen zum betrieblichen Ablauf .............................................................. 10
+ 
 
-4.6
+4.6 
 
-Untersuchung der betrieblichen Abläufe des EVU ............................................... 15
+4.7 
 
-4.7
+5 
 
-Untersuchung von Fahrzeugen ............................................................................. 17
+5.1 
 
-5
+5.2 
 
-Auswertung und Schlussfolgerungen .................................................................. 19
+6 
 
-5.1
+7 
 
-Ereignisrekonstruktion .......................................................................................... 19
+Untersuchung der betrieblichen Abläufe des EVU ............................................... 15
+ 
 
-5.2
+Untersuchung von Fahrzeugen ............................................................................. 17
+ 
 
-Feststellungen und Bewertungen ......................................................................... 20
+Auswertung und Schlussfolgerungen .................................................................. 19
+ 
 
-6
+Ereignisrekonstruktion .......................................................................................... 19
+ 
 
-Bisher getroffene Maßnahmen ........................................................................... 21
+Feststellungen und Bewertungen ......................................................................... 20
+ 
 
-7
+Bisher getroffene Maßnahmen ........................................................................... 21
+ 
 
-Sicherheitsempfehlungen ................................................................................... 21
+Sicherheitsempfehlungen ................................................................................... 21
+ 
 
-Änderungsverzeichnis:
-Änderung
+I.  Änderungsverzeichnis: 
 
-Stand
+Änderung 
 
-II
+Stand 
 
+II 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+	
+ 
+ 
+ 
+ 
 Untersuchungsbericht
-Zugentgleisung, 04.10.2018, Neuss Gbf
+ 
 
-II.
+Zugentgleisung, 04.10.2018, Neuss Gbf 
 
-Abbildungsverzeichnis:
-Abbildung 1: Lageplan ............................................................................................................... 3
-Abbildung 2: IVL‐Plan Neuss Gbf (Auszug) ................................................................................. 4
-Abbildung 3: Weiche 74 ............................................................................................................. 4
-Abbildung 4: Blick auf die Unfallstelle........................................................................................ 5
-Abbildung 5: Blick vom Stellwerk Nf .......................................................................................... 7
-Abbildung 6: Stellwerksbezirke im Fahrweg des Zuges (Auszug) .............................................. 9
-Abbildung 7: Auszug aus dem Fernsprechbuch Stw. Ngf......................................................... 11
-Abbildung 8: Auszug aus dem Fernsprechbuch Stw Nf ........................................................... 12
-Abbildung 9: Ausdruck des Störungsdruckers Stw Ngf ............................................................ 13
-Abbildung 10: Blick vom Stw Ngf auf die Unfallstelle .............................................................. 14
-Abbildung 11: Weichenhebel im Stw Ngf ................................................................................ 15
-Abbildung 12: grafische Darstellung der EFR‐Daten ................................................................ 16
-Abbildung 13: Tfz des GB 47182 .............................................................................................. 17
+II.  Abbildungsverzeichnis: 
 
-III.
+Abbildung 1: Lageplan  ............................................................................................................... 3
+ 
 
-Tabellenverzeichnis:
-Tabelle 1: Übersicht der äußeren Bedingungen ........................................................................ 6
-Tabelle 2: Übersicht der geschätzten Schadenshöhe ................................................................ 6
-Tabelle 3: Technische Daten Tfz ............................................................................................... 18
-Tabelle 4: Technische Daten Wagen 3155 0824 050‐6............................................................ 19
+Abbildung 2: IVL‐Plan Neuss Gbf (Auszug) ................................................................................. 4
+ 
 
-III
+Abbildung 3: Weiche 74 ............................................................................................................. 4
+ 
 
+Abbildung 4: Blick auf die Unfallstelle ........................................................................................ 5
+ 
+
+Abbildung 5: Blick vom Stellwerk Nf .......................................................................................... 7
+ 
+
+Abbildung 6: Stellwerksbezirke im Fahrweg des Zuges (Auszug) .............................................. 9
+ 
+
+Abbildung 7: Auszug aus dem Fernsprechbuch Stw. Ngf......................................................... 11
+ 
+
+Abbildung 8: Auszug aus dem Fernsprechbuch Stw Nf ........................................................... 12
+ 
+
+Abbildung 9: Ausdruck des Störungsdruckers Stw Ngf ............................................................ 13
+ 
+
+Abbildung 10: Blick vom Stw Ngf auf die Unfallstelle .............................................................. 14
+ 
+
+Abbildung 11: Weichenhebel im Stw Ngf ................................................................................ 15
+ 
+
+Abbildung 12: grafische Darstellung der EFR‐Daten ................................................................ 16
+ 
+
+Abbildung 13: Tfz des GB 47182 .............................................................................................. 17
+ 
+
+III. 
+
+Tabellenverzeichnis: 
+
+Tabelle 1: Übersicht der äußeren Bedingungen ........................................................................ 6
+ 
+
+Tabelle 2: Übersicht der geschätzten Schadenshöhe ................................................................ 6
+ 
+
+Tabelle 3: Technische Daten Tfz ............................................................................................... 18
+ 
+
+Tabelle 4: Technische Daten Wagen 3155 0824 050‐6............................................................ 19
+ 
+
+III 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+	
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+	
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugentgleisung, 04.10.2018, Neuss Gbf 
+
+IV.  
+
+Abkürzungsverzeichnis: 
+
+Abzw 
+
+Abzweig 
+
+AEG 
+
+Asig 
+
+Bebu 
+
+BEU 
+
+Allgemeines Eisenbahngesetz 
+
+Ausfahrsignal 
+
+Betriebsstellenbuch 
+
+Bundesstelle für Eisenbahnunfalluntersuchung 
+
+BEVVG 
+
+Bundeseisenbahnverkehrsverwaltungsgesetz 
+
+Bf 
+
+Bahnhof 
+
+BMVI 
+
+Bundesministerium für Verkehr und digitale Infrastruktur 
+
+D‐Weg 
+
+Durchrutschweg 
+
+EFR 
+
+EIU 
+
+Esig 
+
+EU 
+
+EUV 
+
+Evsig 
+
+EVU 
+
+Fdl 
+
+Gbf 
+
+Elektronische Fahrtenregistrierung 
+
+Eisenbahninfrastrukturunternehmen 
+
+Einfahrsignal 
+
+Europäische Union 
+
+Eisenbahn‐Unfalluntersuchungsverordnung 
+
+Einfahrvorsignal 
+
+Eisenbahnverkehrsunternehmen 
+
+Fahrdienstleiter / Fahrdienstleiterin  
+
+Güterbahnhof 
+
+GSM‐R 
+
+Global System for Mobile Communications Railway 
+
+Nmg 
+
+PZB 
+
+ Ril 
+
+Sig 
+
+Stw 
+
+Notfallmanager 
+
+Punktförmige Zugbeeinflussung 
+
+Richtlinie 
+
+Signal 
+
+Stellwerk 
+
+IV 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+	
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugentgleisung, 04.10.2018, Neuss Gbf 
+
+Tf 
+
+Tfz 
+
+Vsig 
+
+VzG 
+
+Zs 
+
+Triebfahrzeugführer / Triebfahrzeugführerin 
+
+Triebfahrzeug 
+
+Vorsignal 
+
+Verzeichnis der örtlich zulässigen Geschwindigkeiten 
+
+Zusatzsignal 
+
+V 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 Untersuchungsbericht
-Zugentgleisung, 04.10.2018, Neuss Gbf
+ 
 
-IV.
+Zugentgleisung, 04.10.2018, Neuss Gbf 
 
-Abkürzungsverzeichnis:
-Abzw
+1  Vorbemerkungen 
 
-Abzweig
+Das  Kapitel  Vorbemerkungen  befasst  sich  mit  allgemeinen  Informationen  zur  Bundesstelle 
 
-AEG
+für Eisenbahnunfalluntersuchung (BEU). Dabei wird die gesetzliche Grundlage genannt und 
 
-Allgemeines Eisenbahngesetz
+die  Aufbauorganisation  kurz  umrissen.  Im  letzten  Abschnitt  werden  Beteiligte  und  extern 
 
-Asig
+mitwirkende Stellen benannt, welche durch die Bereitstellung von Informationen oder durch 
 
-Ausfahrsignal
+Ausfertigung spezieller Gutachten an dieser Unfalluntersuchung zur Ursachenfindung beige‐
 
-Bebu
+tragen haben. 
 
-Betriebsstellenbuch
+1.1  Organisatorischer Hinweis 
 
-BEU
+Mit der Richtlinie (EU) 2016/798 des Europäischen Parlaments und des Rates zur Eisenbahn‐
 
-Bundesstelle für Eisenbahnunfalluntersuchung
+sicherheit  in  der  GemeinschaŌ  (Eisenbahnsicherheitsrichtlinie)  wurden  die  Mitgliedstaaten 
 
-BEVVG
+der Europäischen Union (EU) verpﬂichtet, unabhängige Untersuchungsstellen für die Unter‐
 
-Bundeseisenbahnverkehrsverwaltungsgesetz
+suchung besƟmmter gefährlicher Ereignisse einzurichten. 
 
-Bf
+Diese  Richtlinie  wurde  mit  dem  Gesetz  zur  Neuordnung  der  Eisenbahnunfalluntersuchung 
 
-Bahnhof
+vom 27. Juni 2017 und der Eisenbahn‐Unfalluntersuchungsverordnung vom 05.07.2007, die 
 
-BMVI
+durch ArƟkel 1 der Verordnung vom 26.11.2019 geändert worden ist, umgesetzt. Die BEU ist 
 
-Bundesministerium für Verkehr und digitale Infrastruktur
+eine Bundesoberbehörde im GeschäŌsbereich des Bundesministeriums für Verkehr und digi‐
 
-D‐Weg
+tale Infrastruktur. 
 
-Durchrutschweg
+Gemäß  §  6  Abs.  2  des  Bundeseisenbahnverkehrsverwaltungsgesetzes  (BEVVG)  wurde  der 
 
-EFR
+Sitz und Auĩau der BEU im „OrganisaƟonserlass zur Errichtung der Bundesstelle für Eisen‐
 
-Elektronische Fahrtenregistrierung
+bahnunfalluntersuchung“  des  Bundesministeriums  für  Verkehr  und  digitale  Infrastruktur 
 
-EIU
+festgelegt und die BEU zum 14.07.2017 errichtet. 
 
-Eisenbahninfrastrukturunternehmen
+Näheres hierzu ist im Internet unter www.beu.bund.de eingestellt. 
 
-Esig
+1.2  Ziel der Eisenbahn‐Unfalluntersuchung 
 
-Einfahrsignal
+Ziel und Zweck der Untersuchungen ist es, die Ursachen von gefährlichen Ereignissen aufzu‐
 
-EU
+klären  und  hieraus  Hinweise  zur  Verbesserung  der  Sicherheit  abzuleiten.  Untersuchungen 
 
-Europäische Union
+der  BEU  dienen  nicht  dazu,  ein  Verschulden  festzustellen  oder  Fragen  der  Haftung  oder 
 
-EUV
+sonstiger  zivilrechtlicher  Ansprüche  zu  klären  und  werden  unabhängig  von  jeder  gerichtli‐
 
-Eisenbahn‐Unfalluntersuchungsverordnung
+chen Untersuchung durchgeführt.  
 
-Evsig
+Seite 1 von 21
+ 
 
-Einfahrvorsignal
-
-EVU
-
-Eisenbahnverkehrsunternehmen
-
-Fdl
-
-Fahrdienstleiter / Fahrdienstleiterin
-
-Gbf
-
-Güterbahnhof
-
-GSM‐R
-
-Global System for Mobile Communications Railway
-
-Nmg
-
-Notfallmanager
-
-PZB
-
-Punktförmige Zugbeeinflussung
-
-Ril
-
-Richtlinie
-
-Sig
-
-Signal
-
-Stw
-
-Stellwerk
-
-IV
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+	
+ 
+ 
+ 
+	
+	
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+	
+	
+	
+ 
+ 
 Untersuchungsbericht
-Zugentgleisung, 04.10.2018, Neuss Gbf
+ 
 
-Tf
+Zugentgleisung, 04.10.2018, Neuss Gbf 
 
-Triebfahrzeugführer / Triebfahrzeugführerin
+Die  Untersuchung  umfasst  die  Sammlung  und  Auswertung  von  Informationen,  die  Erarbei‐
 
-Tfz
+tung  von  Schlussfolgerungen  einschließlich  der  Feststellung   der   Ursachen  und  gegebenen‐
 
-Triebfahrzeug
+falls die Abgabe von Sicherheitsempfehlungen. Die Vorschläge der Untersuchungsstelle zur 
 
-Vsig
+Vermeidung  von Unfällen und Verbesserung der Sicherheit im Eisenbahnverkehr werden der 
 
-Vorsignal
+Sicherheitsbehörde  und,  soweit  erforderlich,  anderen  Stellen  und  Behörden  oder  anderen 
 
-VzG
+Mitgliedstaaten der Europäischen Union (EU) in Form von Sicherheitsempfehlungen mitge‐
 
-Verzeichnis der örtlich zulässigen Geschwindigkeiten
+teilt. 
 
-Zs
+2   Zusammenfassung	 
 
-Zusatzsignal
+Das Kapitel Zusammenfassung befasst sich als erstes mit einer kurzen Beschreibung des Er‐
 
-V
+eignishergangs.  Die  entstandenen  Folgen  werden  in  dem  darauffolgenden  Abschnitt  kurz 
 
+dargestellt.  Im  vorletzten  Abschnitt  dieses  Kapitels  wird  die  primäre  Ereignisursache  be‐
+
+nannt.  Das  Kapitel  schließt  mit  den  erteilten  Sicherheitsempfehlungen  zum  untersuchten 
+
+Ereignis. 
+
+2.1   Kurzbeschreibung 	des 	Ereignisses	 
+
+Am 04.10.2018 gegen 13:55 Uhr  entgleiste der letzte Wagen des Güterzuges GB 47182 bei 
+
+der Einfahrt nach Gleis 114 auf der Weiche 74 des Güterbahnhofs (Gbf) Neuss und kollidierte 
+
+anschließend mit einer in Gleis 113 abgestellten Wagengruppe aus Zug 42030. 
+
+2.2   Folgen	 
+
+Personenschäden sind nicht zu beklagen. 
+
+Von  der  DB  Netz  AG   wird  die  Höhe  der  insgesamt  entstandenen  Sachschäden  auf 
+
+ca. 215.000 Euro geschätzt. 
+
+2.3   Ursachen	 
+
+Der Fahrdienstleiter (Fdl) des Stellwerkes Ngf bediente die Weiche 74 nach einer fehlerhaf‐
+
+ten Fahrwegsicherung zur Unzeit, und stellte diese um, obwohl der Güterzug GB 47182 diese 
+
+noch nicht geräumt hatte. 
+
+2.4   Sicherheitsempfehlungen	 
+
+Es wurden keine Sicherheitsempfehlungen ausgesprochen.  
+
+Seite 2 von 21
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 Untersuchungsbericht
-Zugentgleisung, 04.10.2018, Neuss Gbf
+ 
 
-1 Vorbemerkungen
-Das Kapitel Vorbemerkungen befasst sich mit allgemeinen Informationen zur Bundesstelle
-für Eisenbahnunfalluntersuchung (BEU). Dabei wird die gesetzliche Grundlage genannt und
-die Aufbauorganisation kurz umrissen. Im letzten Abschnitt werden Beteiligte und extern
-mitwirkende Stellen benannt, welche durch die Bereitstellung von Informationen oder durch
-Ausfertigung spezieller Gutachten an dieser Unfalluntersuchung zur Ursachenfindung beige‐
-tragen haben.
+Zugentgleisung, 04.10.2018, Neuss Gbf 
 
-1.1 Organisatorischer Hinweis
-Mit der Richtlinie (EU) 2016/798 des Europäischen Parlaments und des Rates zur Eisenbahn‐
-sicherheit in der GemeinschaŌ (Eisenbahnsicherheitsrichtlinie) wurden die Mitgliedstaaten
-der Europäischen Union (EU) verpﬂichtet, unabhängige Untersuchungsstellen für die Unter‐
-suchung besƟmmter gefährlicher Ereignisse einzurichten.
-Diese Richtlinie wurde mit dem Gesetz zur Neuordnung der Eisenbahnunfalluntersuchung
-vom 27. Juni 2017 und der Eisenbahn‐Unfalluntersuchungsverordnung vom 05.07.2007, die
-durch ArƟkel 1 der Verordnung vom 26.11.2019 geändert worden ist, umgesetzt. Die BEU ist
-eine Bundesoberbehörde im GeschäŌsbereich des Bundesministeriums für Verkehr und digi‐
-tale Infrastruktur.
-Gemäß § 6 Abs. 2 des Bundeseisenbahnverkehrsverwaltungsgesetzes (BEVVG) wurde der
-Sitz und Auĩau der BEU im „OrganisaƟonserlass zur Errichtung der Bundesstelle für Eisen‐
-bahnunfalluntersuchung“ des Bundesministeriums für Verkehr und digitale Infrastruktur
-festgelegt und die BEU zum 14.07.2017 errichtet.
-Näheres hierzu ist im Internet unter www.beu.bund.de eingestellt.
+3   Allgemeine	 Angaben	 
 
-1.2 Ziel der Eisenbahn‐Unfalluntersuchung
-Ziel und Zweck der Untersuchungen ist es, die Ursachen von gefährlichen Ereignissen aufzu‐
-klären und hieraus Hinweise zur Verbesserung der Sicherheit abzuleiten. Untersuchungen
-der BEU dienen nicht dazu, ein Verschulden festzustellen oder Fragen der Haftung oder
-sonstiger zivilrechtlicher Ansprüche zu klären und werden unabhängig von jeder gerichtli‐
-chen Untersuchung durchgeführt.
+Im ersten Abschnitt dieses Kapitels wird die Örtlichkeit des Ereignisses beschrieben. Die an  
 
-Seite 1 von 21
+der Unfalluntersuchung beteiligten und mitwirkenden Stellen werden im nächsten Abschnitt 
 
+aufgezählt.  Des  Weiteren  werden  die  am  Ereignistag  aufgetretenen  äußeren  Bedingungen 
+
+wie  beispielsweise  das  Wetter  oder  Lichtverhältnisse  dargestellt.  Der  letzte  Abschnitt  be‐
+
+nennt die Anzahl der Todesopfer und Verletzten sowie die Höhe der Sachschäden. 
+
+3.1   Lage	 und 	Beschreibung 	der	 Örtlichkeit 	
+
+Der Bahnhof (Bf) Neuss Gbf befindet sich an der durch die DB Netz AG betriebenen Haupt‐
+
+bahn Abzweigstelle (Abzw) Nordkanal – Abzw Weißenberg. Diese Strecke wird gemäß dem  
+
+Verzeichnis der örtlich zulässigen Geschwindigkeiten (VzG) unter der Nummer 2531 geführt. 
+
+Diese  zweigt   aus  südöstlicher  Richtung  kommend  von  der  VzG‐Strecke  2610  (Köln Hbf– 
+
+Krefeld Hbf–Kleve) an der Abzw Nordkanal in den Bf Neuss Gbf ab.  
+
+Abbildung 1: Lageplan 1 
+
+1 Quelle: Geobasisdaten: © GeoBasis‐DE / BKG [2020], bearbeitet durch BEU 
+
+Seite 3 von 21
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                       
+ 
+ 
 Untersuchungsbericht
-Zugentgleisung, 04.10.2018, Neuss Gbf
+ 
 
-Die Untersuchung umfasst die Sammlung und Auswertung von Informationen, die Erarbei‐
-tung von Schlussfolgerungen einschließlich der Feststellung der Ursachen und gegebenen‐
-falls die Abgabe von Sicherheitsempfehlungen. Die Vorschläge der Untersuchungsstelle zur
-Vermeidung von Unfällen und Verbesserung der Sicherheit im Eisenbahnverkehr werden der
-Sicherheitsbehörde und, soweit erforderlich, anderen Stellen und Behörden oder anderen
-Mitgliedstaaten der Europäischen Union (EU) in Form von Sicherheitsempfehlungen mitge‐
-teilt.
+Zugentgleisung, 04.10.2018, Neuss Gbf 
 
-2 Zusammenfassung
-Das Kapitel Zusammenfassung befasst sich als erstes mit einer kurzen Beschreibung des Er‐
-eignishergangs. Die entstandenen Folgen werden in dem darauffolgenden Abschnitt kurz
-dargestellt. Im vorletzten Abschnitt dieses Kapitels wird die primäre Ereignisursache be‐
-nannt. Das Kapitel schließt mit den erteilten Sicherheitsempfehlungen zum untersuchten
-Ereignis.
+Das Einfahrsignal (Esig) E458 des Bf Neuss Gbf befindet sich auf Höhe des km 1,437. Der Zug 
 
-2.1 Kurzbeschreibung des Ereignisses
-Am 04.10.2018 gegen 13:55 Uhr entgleiste der letzte Wagen des Güterzuges GB 47182 bei
-der Einfahrt nach Gleis 114 auf der Weiche 74 des Güterbahnhofs (Gbf) Neuss und kollidierte
-anschließend mit einer in Gleis 113 abgestellten Wagengruppe aus Zug 42030.
+entgleiste bei der Fahrt nach Gleis 114 in der Weiche 74 im Stellwerksbezirk Ngf. 
 
-2.2 Folgen
-Personenschäden sind nicht zu beklagen.
-Von der DB Netz AG wird die Höhe der insgesamt entstandenen Sachschäden auf
-ca. 215.000 Euro geschätzt.
+Abbildung 2: IVL‐Plan Neuss Gbf (Auszug)2 
 
-2.3 Ursachen
-Der Fahrdienstleiter (Fdl) des Stellwerkes Ngf bediente die Weiche 74 nach einer fehlerhaf‐
-ten Fahrwegsicherung zur Unzeit, und stellte diese um, obwohl der Güterzug GB 47182 diese
-noch nicht geräumt hatte.
+Die folgende Abbildung zeigt die Weiche 74 und im Weiteren die Wegstrecke  des zweispuri‐
 
-2.4 Sicherheitsempfehlungen
-Es wurden keine Sicherheitsempfehlungen ausgesprochen.
+gen Laufs in die Gleise 114 und 113. 
 
-Seite 2 von 21
+Abbildung 3: Weiche 74
+ 
 
+2 Quelle: DB  Netz AG, bearbeitet durch BEU  
+
+Seite 4 von 21
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                       
 Untersuchungsbericht
-Zugentgleisung, 04.10.2018, Neuss Gbf
+ 
 
-3 Allgemeine Angaben
-Im ersten Abschnitt dieses Kapitels wird die Örtlichkeit des Ereignisses beschrieben. Die an
-der Unfalluntersuchung beteiligten und mitwirkenden Stellen werden im nächsten Abschnitt
-aufgezählt. Des Weiteren werden die am Ereignistag aufgetretenen äußeren Bedingungen
-wie beispielsweise das Wetter oder Lichtverhältnisse dargestellt. Der letzte Abschnitt be‐
-nennt die Anzahl der Todesopfer und Verletzten sowie die Höhe der Sachschäden.
+Zugentgleisung, 04.10.2018, Neuss Gbf
+ 
 
-3.1 Lage und Beschreibung der Örtlichkeit
-Der Bahnhof (Bf) Neuss Gbf befindet sich an der durch die DB Netz AG betriebenen Haupt‐
-bahn Abzweigstelle (Abzw) Nordkanal – Abzw Weißenberg. Diese Strecke wird gemäß dem
-Verzeichnis der örtlich zulässigen Geschwindigkeiten (VzG) unter der Nummer 2531 geführt.
-Diese zweigt aus südöstlicher Richtung kommend von der VzG‐Strecke 2610 (Köln Hbf–
-Krefeld Hbf–Kleve) an der Abzw Nordkanal in den Bf Neuss Gbf ab.
+Abbildung 4: Blick auf die Unfallstelle 
 
-Abbildung 1: Lageplan 1
+Auf der oberen Abbildung ist links der umgekippte Tadgs‐Wagen des Zuges 47182 zu erken‐
 
-1
+nen. Der abgestellte Wagen rechts steht in Gleis 113 und entgleiste aufgrund der Kollision.  
 
-Quelle: Geobasisdaten: © GeoBasis‐DE / BKG [2020], bearbeitet durch BEU
+3.2   Beteiligte 	und	 Mitwirkende	 
 
-Seite 3 von 21
+Am Ereignis waren folgende Stellen beteiligt:   
 
-Untersuchungsbericht
-Zugentgleisung, 04.10.2018, Neuss Gbf
+   DB Netz AG als Eisenbahninfrastrukturunternehmen (EIU) 
 
-Das Einfahrsignal (Esig) E458 des Bf Neuss Gbf befindet sich auf Höhe des km 1,437. Der Zug
-entgleiste bei der Fahrt nach Gleis 114 in der Weiche 74 im Stellwerksbezirk Ngf.
+   DB Cargo AG als Eisenbahnverkehrsunternehmen (EVU) 
 
-Abbildung 2: IVL‐Plan Neuss Gbf (Auszug)2
+Für das EIU liegt eine Sicherheitsgenehmigung gemäß §  7c AEG des Eisenbahn‐Bundesamts 
 
-Die folgende Abbildung zeigt die Weiche 74 und im Weiteren die Wegstrecke des zweispuri‐
-gen Laufs in die Gleise 114 und 113.
+vom 19.04.2011 vor. 
 
-Abbildung 3: Weiche 74
+Das  EVU  verfügt  über  eine  Sicherheitsbescheinigung  gemäß  §   7a  AEG  vom  16.03.2016  mit  
 
-2
+einer  Gültigkeit  bis  zum  15.01.2028  und  ist  damit  zur  der  Teilnahme  am  Eisenbahnbetrieb 
 
-Quelle: DB Netz AG, bearbeitet durch BEU
+berechtigt. 
 
-Seite 4 von 21
+Seite 5 von 21
+ 
 
-Untersuchungsbericht
-Zugentgleisung, 04.10.2018, Neuss Gbf
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+	
+Untersuchungsbericht 
 
-Abbildung 4: Blick auf die Unfallstelle
+Zugentgleisung, 04.10.2018, Neuss Gbf 
 
-Auf der oberen Abbildung ist links der umgekippte Tadgs‐Wagen des Zuges 47182 zu erken‐
-nen. Der abgestellte Wagen rechts steht in Gleis 113 und entgleiste aufgrund der Kollision.
+3.3  Äußere Bedingungen 
 
-3.2 Beteiligte und Mitwirkende
-Am Ereignis waren folgende Stellen beteiligt:
-
+Zum Zeitpunkt des Ereignisses herrschten folgende Bedingungen: 
 
-DB Netz AG als Eisenbahninfrastrukturunternehmen (EIU)
+Lichtverhältnisse 
 
-
+Sicht 
 
-DB Cargo AG als Eisenbahnverkehrsunternehmen (EVU)
+Bedeckung 
 
-Für das EIU liegt eine Sicherheitsgenehmigung gemäß § 7c AEG des Eisenbahn‐Bundesamts
-vom 19.04.2011 vor.
-Das EVU verfügt über eine Sicherheitsbescheinigung gemäß § 7a AEG vom 16.03.2016 mit
-einer Gültigkeit bis zum 15.01.2028 und ist damit zur der Teilnahme am Eisenbahnbetrieb
-berechtigt.
+Temperaturen  
 
-Seite 5 von 21
+fallender Niederschlag 
 
-Untersuchungsbericht
-Zugentgleisung, 04.10.2018, Neuss Gbf
+Niederschlagshäufigkeit 
 
-3.3 Äußere Bedingungen
-Zum Zeitpunkt des Ereignisses herrschten folgende Bedingungen:
-Lichtverhältnisse
+Tageslicht 
 
-Tageslicht
+klar 
 
-Sicht
+leicht bewölkt 
 
-klar
+17°C 
 
-Bedeckung
-
-leicht bewölkt
-
-Temperaturen
-
-17°C
-
-fallender Niederschlag
-
-Nein
-
-Niederschlagshäufigkeit
+Nein 
 
 ‐‐
 
-Untergrund / gefallender Niederschlag
+Untergrund / gefallender Niederschlag  
 
-trocken
+trocken 
 
-Tabelle 1: Übersicht der äußeren Bedingungen
+Tabelle 1: 
 
-Lfd. Nr. 1
-Die Wetterbedingungen stehen in keinem erkennbaren kausalen Zusammenhang mit der
-Ereignisursache.
+Übersicht der äußeren Bedingungen
+ 
 
-3.4 Todesopfer, Verletzte und Sachschäden
-Personenschäden sind nicht zu beklagen. Die geschätzte Höhe der Sachschäden in Euro setzt
-sich wie folgt zusammen:
-Schäden
+Lfd. Nr. 1 
 
-geschätzte Kosten in Euro (€)
+Die  Wetterbedingungen  stehen  in  keinem  erkennbaren  kausalen  Zusammenhang   mit  der 
 
-Fahrzeuge
+Ereignisursache. 
 
-50.000
+3.4   Todesopfer,	 Verletzte 	und 	Sachschäden 	
 
-Infrastruktur
+Personenschäden sind nicht zu beklagen. Die geschätzte Höhe der  Sachschäden in Euro setzt 
 
-165.000
+sich wie folgt zusammen: 
 
-Dritte
+Schäden 
 
-‐
+Fahrzeuge 
 
-Gesamtschadenshöhe
+Infrastruktur 
 
-215.000
+Dritte 
 
-Tabelle 2: Übersicht der geschätzten Schadenshöhe
+Gesamtschadenshöhe 
 
-Seite 6 von 21
+Tabelle 2: 
 
+Übersicht der geschätzten Schadenshöhe
+ 
+
+geschätzte Kosten in Euro (€) 
+
+50.000 
+
+165.000 
+
+ ‐
+
+215.000 
+
+Seite 6 von 21
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+	
+		
+ 
+ 
+ 
+ 
+ 
+ 
 Untersuchungsbericht
-Zugentgleisung, 04.10.2018, Neuss Gbf
+ 
 
-Abbildung 5: Blick vom Stellwerk Nf
+Zugentgleisung, 04.10.2018, Neuss Gbf
+ 
 
-Die Abbildung oben zeigt einen Teil des Einfahrweges vom Stellwerk Nf aus. Am linken Bild‐
-rand sind die beiden kollidierten Wagen zu erkennen. Am rechten Bildrand ist das Stellwerk
-Ngf zu sehen, von dem aus die Weiche 74 gestellt werden kann.
+Abbildung 5: Blick vom Stellwerk Nf 
 
-4 Untersuchungsprotokoll
-In diesem Kapitel werden die ermittelten Ergebnisse zu einzelnen in Zusammenhang mit
-dem Ereignis stehenden Teilbereichen des Eisenbahnwesens dargestellt. Die jeweilig rele‐
-vanten Erkenntnisse werden fortlaufend aufgeführt.
+Die Abbildung oben zeigt einen Teil des Einfahrweges vom Stellwerk Nf aus. Am linken Bild‐
 
-4.1
+rand sind die beiden kollidierten Wagen zu erkennen. Am rechten  Bildrand ist das Stellwerk  
 
-Zusammenfassung von Aussagen und Stellungnahmen
+Ngf zu sehen, von dem aus die Weiche 74 gestellt werden kann. 
 
-Stellungnahmen des zum Ereigniszeitpunkt eingesetzten Stellwerkspersonals liegen nicht
-vor, da sich die Mitarbeiter nicht zu dem Sachverhalt äußerten.
-Die Stellungnahme des Triebfahrzeugführers (Tf) gegenüber seinem Arbeitgeber liegt vor. Sie
-ist in die Ermittlungen mit eingeflossen. Auf einen gesonderten Abdruck im Bericht wird ver‐
-zichtet.
+4   Untersuchungsprotokoll 	
 
-4.2 Notfallmanagement
-Nach § 4 Abs. 3 Allgemeines Eisenbahngesetz (AEG) haben die Eisenbahnen die Verpflich‐
-tung, an Maßnahmen des Brandschutzes und der technischen Hilfeleistung mitzuwirken. In
-einer Vereinbarung zwischen den Innenministerien der Länder und der DB AG hat man sich
-auf eine Verfahrensweise verständigt. Für die DB Netz AG gelten die entsprechenden Brand‐
+In  diesem  Kapitel  werden  die  ermittelten  Ergebnisse  zu  einzelnen  in  Zusammenhang  mit 
 
-Seite 7 von 21
+dem  Ereignis  stehenden  Teilbereichen  des  Eisenbahnwesens  dargestellt.  Die  jeweilig  rele‐
 
+vanten Erkenntnisse werden fortlaufend aufgeführt. 
+
+4.1  
+
+Zusammenfassung 	von	 Aussagen 	und	 Stellungnahmen		 
+
+Stellungnahmen  des  zum  Ereigniszeitpunkt  eingesetzten  Stellwerkspersonals  liegen  nicht 
+
+vor, da sich die Mitarbeiter nicht zu dem Sachverhalt äußerten.  
+
+Die Stellungnahme des Triebfahrzeugführers (Tf) gegenüber seinem Arbeitgeber liegt vor. Sie  
+
+ist  in die Ermittlungen mit eingeflossen. Auf einen gesonderten Abdruck  im Bericht wird  ver‐
+
+zichtet. 
+
+4.2   Notfallmanagement		 
+
+Nach  §   4  Abs.  3  Allgemeines  Eisenbahngesetz  (AEG)  haben  die  Eisenbahnen  die  Verpflich‐
+
+tung, an Maßnahmen des Brandschutzes und der technischen Hilfeleistung mitzuwirken. In 
+
+einer Vereinbarung zwischen den Innenministerien der Länder und der DB  AG hat man sich  
+
+auf eine Verfahrensweise  verständigt. Für die DB Netz AG gelten  die entsprechenden Brand‐ 
+
+Seite 7 von 21
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugentgleisung, 04.10.2018, Neuss Gbf 
+
+und  Katastrophenschutzgesetze  der  Länder.  Das  Notfallmanagement  der  DB  AG  ist  in  der  
+
+Konzernrichtlinie 123, das der DB Netz AG in der Richtlinie (Ril) 423 näher beschrieben und 
+
+geregelt. 
+
+Lfd. Nr. 2 
+
+Auf  die  Untersuchung  des  Notfallmanagements  wurde  verzichtet,  da   weder  Personen  zu 
+
+retten, noch Folge‐, Sach‐ oder Umweltschäden abzuwenden waren.  
+
+4.3   Untersuchung 	der	 bautechnischen 	Infrastruktur	 
+
+Der betroffene Bereich des Bf Neuss Gbf ist elektrifiziert, darf mit einer maximal zulässigen 
+
+Geschwindigkeit von 40 km/h befahren werden und ist  auf einen Bremsweg von 700 Meter  
+
+ausgelegt. Bei den Gleisanlagen handelt es sich um die Streckenklasse D4 mit einer zulässi‐
+
+gen Radsatzlast von  22,5  t. Das max. zulässige Fahrzeuggewicht je Längeneinheit beträgt 8,0  
+
+t/m.  Bei  dem  Gleis  114  handelt  es  sich  um  ein  Bahnhofshauptgleis.  Die  Zugentgleisung  er‐
+
+eignete sich  auf der Weiche 74. Bei dem Ereignis wurde die Weiche nicht beschädigt, da  das  
+
+entgleiste Fahrzeug zweispurig in den Gleisen 113 und 114 lief.  Auch der Oberbau, der sich 
+
+augenscheinlich in einem guten Zustand befand, blieb bis auf wenige Meter im Bereich der 
+
+Kollisionsstelle weitgehend unbeschädigt. Der Fachbereich Fahrbahn, insbesondere auch die 
+
+Weiche  74,  konnte  aufgrund  der  an  der  Unfallstelle  vorgefundenen  Gegebenheiten  als  un‐
+
+fallverursachend  ausgeschlossen  werden.  Auf  nähere  Untersuchungen  dahingehend  wurde 
+
+deshalb verzichtet. 
+
+Feststellung zu Untersuchung der bautechnischen Infrastruktur 
+
+Lfd. Nr. 3 
+
+Die bautechnische Infrastruktur hatte keinen Einfluss auf die Entstehung des Unfalls. 
+
+4.4   Untersuchung	 der	 Leit‐	und 	Sicherungstechnik	 
+
+Im Rahmen der Untersuchung wurden die Stellwerke (Stw) betrachtet,  die an der Fahrt des  
+
+GB 47182  nach  Gleis  114  des  Bf  Neuss  Gbf  beteiligt  waren.  Hierbei  handelt  es  sich  um  die  
+
+drei Stw Nf, Ngf und Nn. Die zugehörigen Stellwerksbezirke und Grenzen sind in der folgen‐
+
+den  Abbildung  schematisch  dargestellt.  Der  aus  Richtung  Köln  kommende  Zug  ging  an  der  
+
+Abzw Nordkanal auf die Strecke 2531  über. Dieser  Streckenabschnitt  wird vom Fdl des Stw  
+
+Seite 8 von 21
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 Untersuchungsbericht
-Zugentgleisung, 04.10.2018, Neuss Gbf
+ 
 
-und Katastrophenschutzgesetze der Länder. Das Notfallmanagement der DB AG ist in der
-Konzernrichtlinie 123, das der DB Netz AG in der Richtlinie (Ril) 423 näher beschrieben und
-geregelt.
-Lfd. Nr. 2
-Auf die Untersuchung des Notfallmanagements wurde verzichtet, da weder Personen zu
-retten, noch Folge‐, Sach‐ oder Umweltschäden abzuwenden waren.
+Zugentgleisung, 04.10.2018, Neuss Gbf 
 
-4.3 Untersuchung der bautechnischen Infrastruktur
-Der betroffene Bereich des Bf Neuss Gbf ist elektrifiziert, darf mit einer maximal zulässigen
-Geschwindigkeit von 40 km/h befahren werden und ist auf einen Bremsweg von 700 Meter
-ausgelegt. Bei den Gleisanlagen handelt es sich um die Streckenklasse D4 mit einer zulässi‐
-gen Radsatzlast von 22,5 t. Das max. zulässige Fahrzeuggewicht je Längeneinheit beträgt 8,0
-t/m. Bei dem Gleis 114 handelt es sich um ein Bahnhofshauptgleis. Die Zugentgleisung er‐
-eignete sich auf der Weiche 74. Bei dem Ereignis wurde die Weiche nicht beschädigt, da das
-entgleiste Fahrzeug zweispurig in den Gleisen 113 und 114 lief. Auch der Oberbau, der sich
-augenscheinlich in einem guten Zustand befand, blieb bis auf wenige Meter im Bereich der
-Kollisionsstelle weitgehend unbeschädigt. Der Fachbereich Fahrbahn, insbesondere auch die
-Weiche 74, konnte aufgrund der an der Unfallstelle vorgefundenen Gegebenheiten als un‐
-fallverursachend ausgeschlossen werden. Auf nähere Untersuchungen dahingehend wurde
-deshalb verzichtet.
-Feststellung zu Untersuchung der bautechnischen Infrastruktur
-Lfd. Nr. 3
-Die bautechnische Infrastruktur hatte keinen Einfluss auf die Entstehung des Unfalls.
+Nf bedient. Hierbei handelt es sich um das Fahrdienstleiterstellwerk des Bf Neuss Hbf, einem 
 
-4.4 Untersuchung der Leit‐ und Sicherungstechnik
-Im Rahmen der Untersuchung wurden die Stellwerke (Stw) betrachtet, die an der Fahrt des
-GB 47182 nach Gleis 114 des Bf Neuss Gbf beteiligt waren. Hierbei handelt es sich um die
-drei Stw Nf, Ngf und Nn. Die zugehörigen Stellwerksbezirke und Grenzen sind in der folgen‐
-den Abbildung schematisch dargestellt. Der aus Richtung Köln kommende Zug ging an der
-Abzw Nordkanal auf die Strecke 2531 über. Dieser Streckenabschnitt wird vom Fdl des Stw
+Drucktastenstellwerk der Bauart Sp Dr L60. Die Einfahrt von Zügen aus Richtung Abzw Nord‐
 
-Seite 8 von 21
+kanal nach Bf Neuss Gbf lässt der Fdl Nf mit Fahrtstellung des Esig E458 zu. Für Fahrten aus 
 
+Richtung Abzw Nordkanal in den Bf Neuss Gbf stehen mehrere Einfahrgleise zur Verfügung, 
+
+für die signal‐ und sicherungstechnisch Einfahrzugstraßen eingerichtet sind. Zugfahrstraßen 
+
+nach Gleis 114 und Gleis 113 existieren für diese Fahrtrichtung nicht. Für diese Zugfahrten 
+
+kann das Esig E458 somit nicht in Fahrtstellung gebracht werden. An diesem Hauptsignal ist 
+
+ein Zusatzsignal Zs 7 angebracht, mit dem der Fdl, z. B. bei Störung des Esig, Zugfahrten mit 
+
+besonderem Auftrag zulassen kann. 
+
+Zwischen den Weichen 59 und 61 befindet sich die Grenze der Stellwerkbezirke Nf und Ngf. 
+
+Der Bf Neuss Gbf liegt im Stellwerkbezirk des Fdl Ngf. 
+
+Abbildung 6: Stellwerksbezirke im Fahrweg des Zuges3 (Auszug) 
+
+Das Stw Ngf  ist mit elektromechanischer Stellwerkstechnik der Bauart E43 ausgestattet. Von  
+
+hier  wurden  die  Fahrwegelemente  bedient,  die  für  den  Fahrweg  des  Zuges  nach  Gleis  114 
+
+relevant waren.  Dazu zählten u.  a. die Weichen 61, 70, 71, 72,  73 und 74. Am  Ende des Glei‐
+
+ses  114 steht für diese Fahrtrichtung ein niedriges Formsperrsignal, ohne 2000 Hz Magnet. 
+
+Zur Prüfung des Durchrutschweges (D‐Weg) hinter dem Formsperrsignal wird der Wärter des 
+
+Stw  Nn  beteiligt.  Hierbei  handelt  es  sich  ebenfalls  um  ein  Stellwerk  der  Bauart  E43.  Eine  
+
+Gleisfreimeldeeinrichtung  gibt  es  für  diesen  Bereich  nicht.  Diese  Prüfung  erfolgt  auch  hier 
+
+durch Hinsehen. 
+
+3 Quelle: DB  Netz AG, bearbeitet durch BEU  
+
+Seite 9 von 21
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                       
+Untersuchungsbericht 
+
+Zugentgleisung, 04.10.2018, Neuss Gbf 
+
+Feststellung zu Untersuchung der Leit‐ und Sicherungstechnik 
+
+Lfd. Nr. 4 
+
+Die Überprüfung der Leit‐ und Sicherungstechnik ergab keine Hinweise auf Auffälligkeiten.  
+
+Störungen der Leit‐ und Sicherungstechnik, die Einfluss auf den  Ereignisablauf hatten, sind 
+
+weder bekannt noch dokumentiert. Die Einflüsse aus der Leit‐ und Sicherungstechnik sind 
+
+somit weder als ereignisursächlich noch als ereignisbegünstigend einzustufen. 
+
+4.5   Untersuchung	 der	 betrieblichen 	Abläufe 	des	 Infrastrukturbetreibers 	
+
+Die Betriebsabwicklung auf der Strecke und im Bf Neuss Gbf wird  nach den Bestimmungen 
+
+der Fahrdienstvorschrift der DB Netz AG, Ril 408 durchgeführt. Für das Stellwerkspersonal im  
+
+Bf Neuss Gbf gelten darüber hinaus örtliche Zusätze, die im Betriebsstellenbuch (Bebu) do‐
+
+kumentiert sind. 
+
+4.5.1   Angaben 	zum 	Betriebspersonal 		
+
+Die zum Ereigniszeitpunkt auf den beteiligten Stw eingesetzten  Mitarbeiter verfügten über 
+
+die erforderlichen Qualifikationen, die diese zur Ausübung ihres Dienstes berechtigten. Ge‐
+
+sundheitliche Einschränkungen sind nicht bekannt. Bei dem Fdl Ngf  handelte es sich um ei‐
+
+nen  Mitarbeiter,  der  über  eine  abgeschlossene  Ausbildung  zum  Eisenbahner  im  Betriebs‐
+
+dienst verfügt. Seine dreieinhalb Monate umfassende Einweisung in die Örtlichkeiten des Bf 
+
+Neuss  Gbf  war  im  Mai  2015  abgeschlossen.  Seitdem  war  er  ohne  Unterbrechung  in  Bf 
+
+Neuss Gbf tätig. Der Fdl  wurde nach den betriebsinternen Regeln  regelmäßig bei der Dienst‐
+
+ausübung  überwacht.  An  den  Fortbildungsunterrichten  nahm  er  teil.  Anzumerken  ist,  dass 
+
+der  betroffene  Fdl  innerhalb  der  letzten  zwei  Jahre  vor  dem  Ereignis  mehrfach  durch  be‐
+
+triebliche Verfehlungen auffiel. 
+
+4.5.2   Feststellungen 	zum 	betrieblichen 	Ablauf 	
+
+Die Erkenntnisse der betrieblichen Handlungen der beteiligten Mitarbeiter basieren auf der 
+
+Auswertung   der  betrieblichen  Unterlagen  auf   den  Stellwerken,  der  Unfallspuren  und  den 
+
+Aufzeichnungen des Störungsdruckers. 
+
+Wie bereits im Kapitel 4.4 festgestellt, existierte  für Einfahrten aus Richtung der Abzw Nord‐
+
+kanal  nach  Gleis  113  und  114  keine  Fahrstraße.  Als  Zielsignal  dient  ein  niedrigstehendes 
+
+Formsperrsignal ohne PZB‐Ausrüstung. Die Zugfahrten in den Gbf vom Stw Nf konnten nicht 
+
+mit  der  Fahrtstellung  des  Hauptsignals  Esig  E458  zugelassen  werden.  Die  örtlichen  Zusätze  
+
+Seite 10 von 21 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 Untersuchungsbericht
-Zugentgleisung, 04.10.2018, Neuss Gbf
+ 
 
-Nf bedient. Hierbei handelt es sich um das Fahrdienstleiterstellwerk des Bf Neuss Hbf, einem
-Drucktastenstellwerk der Bauart Sp Dr L60. Die Einfahrt von Zügen aus Richtung Abzw Nord‐
-kanal nach Bf Neuss Gbf lässt der Fdl Nf mit Fahrtstellung des Esig E458 zu. Für Fahrten aus
-Richtung Abzw Nordkanal in den Bf Neuss Gbf stehen mehrere Einfahrgleise zur Verfügung,
-für die signal‐ und sicherungstechnisch Einfahrzugstraßen eingerichtet sind. Zugfahrstraßen
-nach Gleis 114 und Gleis 113 existieren für diese Fahrtrichtung nicht. Für diese Zugfahrten
-kann das Esig E458 somit nicht in Fahrtstellung gebracht werden. An diesem Hauptsignal ist
-ein Zusatzsignal Zs 7 angebracht, mit dem der Fdl, z. B. bei Störung des Esig, Zugfahrten mit
-besonderem Auftrag zulassen kann.
-Zwischen den Weichen 59 und 61 befindet sich die Grenze der Stellwerkbezirke Nf und Ngf.
-Der Bf Neuss Gbf liegt im Stellwerkbezirk des Fdl Ngf.
+Zugentgleisung, 04.10.2018, Neuss Gbf 
 
-Abbildung 6: Stellwerksbezirke im Fahrweg des Zuges3 (Auszug)
+(Bebu)  Neuss  Gbf  geben  für  Fahrten  mit  besonderem  Auftrag  aus  Richtung  Nordkanal  vor, 
 
-Das Stw Ngf ist mit elektromechanischer Stellwerkstechnik der Bauart E43 ausgestattet. Von
-hier wurden die Fahrwegelemente bedient, die für den Fahrweg des Zuges nach Gleis 114
-relevant waren. Dazu zählten u. a. die Weichen 61, 70, 71, 72, 73 und 74. Am Ende des Glei‐
-ses 114 steht für diese Fahrtrichtung ein niedriges Formsperrsignal, ohne 2000 Hz Magnet.
-Zur Prüfung des Durchrutschweges (D‐Weg) hinter dem Formsperrsignal wird der Wärter des
-Stw Nn beteiligt. Hierbei handelt es sich ebenfalls um ein Stellwerk der Bauart E43. Eine
-Gleisfreimeldeeinrichtung gibt es für diesen Bereich nicht. Diese Prüfung erfolgt auch hier
-durch Hinsehen.
-3
+dass eine Fahrwegsicherungsmeldung durch den Fdl Ngf an den Fdl  Nf notwendig ist. Weiter 
 
-Quelle: DB Netz AG, bearbeitet durch BEU
+heißt  es  im  Bebu,  dass   der  Fdl  Ngf  diese  Fahrwegsicherungsmeldung  erst  abgeben  darf, 
 
-Seite 9 von 21
+wenn er die Meldungen aller an der Fahrt beteiligten Mitarbeiter erhalten hat. Eine Voraus‐
 
+setzung  für  die  Abgabe  der  Fahrwegsicherungsmeldung  des  Fdl  Ngf  an  den  Fdl  Nf  war  zu‐
+
+nächst,  dass  alle  zu  befahrenden  Weichen  und  die  Flankenschutzeinrichtungen  in  seinem 
+
+Stellwerksbezirk richtig eingestellt waren und der Fahrweg einschließlich der einmündenden 
+
+Gleise bis zum Grenzzeichen oder der Flankenschutzeinrichtung frei war. Da keine Zugfahr‐
+
+straße für die geplante Einfahrt vorhanden ist, konnte der Fdl Ngf die Fahrwegelemente je‐
+
+doch nicht festlegen und somit sichern.  Dies betraf  auch die Weiche 74, die unter den gege‐
+
+benen Umständen jederzeit umgestellt werden konnte. Um dies zu verhindern, ist der Fahr‐
+
+weg mittels Fahrstraßenhebel der Gegenrichtung oder durch  Anbringen von Hilfssperren  an  
+
+den  entsprechenden  Bedienhebeln   zu  sichern.  Diese  Hilfssperren  brachte  der  Fdl  Ngf  aber 
+
+nicht an, nachdem er den Fahrweg für den Güterzug eingestellt hatte.  
+
+Als  weitere  Voraussetzung  für  die   Abgabe  der  Fahrwegsicherungsmeldung  an  den  Fdl  Nf 
+
+musste  ihm  auch  die  Meldung  des  Weichenwärters  Nn  vorliegen,  dass  der  D‐Weg  hinter 
+
+dem  Sperrsignal  frei  war.  Diese  mündlich  erhaltenen  Meldungen  müssen  nachgewiesen 
+
+werden. 
+
+Abbildung 7: Auszug aus dem Fernsprechbuch Stw. Ngf
+ 
+
+Seite 11 von 21 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 Untersuchungsbericht
-Zugentgleisung, 04.10.2018, Neuss Gbf
+ 
 
-Feststellung zu Untersuchung der Leit‐ und Sicherungstechnik
-Lfd. Nr. 4
-Die Überprüfung der Leit‐ und Sicherungstechnik ergab keine Hinweise auf Auffälligkeiten.
-Störungen der Leit‐ und Sicherungstechnik, die Einfluss auf den Ereignisablauf hatten, sind
-weder bekannt noch dokumentiert. Die Einflüsse aus der Leit‐ und Sicherungstechnik sind
-somit weder als ereignisursächlich noch als ereignisbegünstigend einzustufen.
+Zugentgleisung, 04.10.2018, Neuss Gbf 
 
-4.5 Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers
-Die Betriebsabwicklung auf der Strecke und im Bf Neuss Gbf wird nach den Bestimmungen
-der Fahrdienstvorschrift der DB Netz AG, Ril 408 durchgeführt. Für das Stellwerkspersonal im
-Bf Neuss Gbf gelten darüber hinaus örtliche Zusätze, die im Betriebsstellenbuch (Bebu) do‐
-kumentiert sind.
-4.5.1 Angaben zum Betriebspersonal
-Die zum Ereigniszeitpunkt auf den beteiligten Stw eingesetzten Mitarbeiter verfügten über
-die erforderlichen Qualifikationen, die diese zur Ausübung ihres Dienstes berechtigten. Ge‐
-sundheitliche Einschränkungen sind nicht bekannt. Bei dem Fdl Ngf handelte es sich um ei‐
-nen Mitarbeiter, der über eine abgeschlossene Ausbildung zum Eisenbahner im Betriebs‐
-dienst verfügt. Seine dreieinhalb Monate umfassende Einweisung in die Örtlichkeiten des Bf
-Neuss Gbf war im Mai 2015 abgeschlossen. Seitdem war er ohne Unterbrechung in Bf
-Neuss Gbf tätig. Der Fdl wurde nach den betriebsinternen Regeln regelmäßig bei der Dienst‐
-ausübung überwacht. An den Fortbildungsunterrichten nahm er teil. Anzumerken ist, dass
-der betroffene Fdl innerhalb der letzten zwei Jahre vor dem Ereignis mehrfach durch be‐
-triebliche Verfehlungen auffiel.
-4.5.2 Feststellungen zum betrieblichen Ablauf
-Die Erkenntnisse der betrieblichen Handlungen der beteiligten Mitarbeiter basieren auf der
-Auswertung der betrieblichen Unterlagen auf den Stellwerken, der Unfallspuren und den
-Aufzeichnungen des Störungsdruckers.
-Wie bereits im Kapitel 4.4 festgestellt, existierte für Einfahrten aus Richtung der Abzw Nord‐
-kanal nach Gleis 113 und 114 keine Fahrstraße. Als Zielsignal dient ein niedrigstehendes
-Formsperrsignal ohne PZB‐Ausrüstung. Die Zugfahrten in den Gbf vom Stw Nf konnten nicht
-mit der Fahrtstellung des Hauptsignals Esig E458 zugelassen werden. Die örtlichen Zusätze
+So dokumentierte der Fdl Ngf mit der Uhrzeitangabe 13:46  Uhr  die Meldung des Weichen‐
 
-Seite 10 von 21
+wärters Nn, dass der D‐Weg, frei war. 
 
+
+Der Fdl Ngf gab daraufhin die Fahrwegsicherungsmeldung an den Fdl Nf ab. Beide Fdl doku‐
+
+mentierten  dies  übereinstimmend  handschriftlich  in  ihren  Fernsprechbüchern.  Als  Uhrzeit
+  
+
+des entsprechenden Gespräches ist in den Fernsprechbüchern 13:46 Uhr eingetragen.  
+
+
+Abbildung 8: Auszug aus dem Fernsprechbuch Stw Nf 
+
+Nachdem dem Fdl Nf die Fahrwegsicherungsmeldung vorlag und er den Fahrweg des Zuges  
+
+in  seinem  Stellwerksbezirk  gesichert  hatte,  waren  für  ihn  die  Voraussetzungen  erfüllt,  die 
+
+Zugfahrt mit besonderem Auftrag mit dem Signal Zs 7 nach Bf Neuss Gbf zuzulassen.  
+
+Bei der Bedienung des Zs 7 (Vorsichtsignal) handelt es sich um eine zählpflichtige Handlung, 
+
+die  auf  dem  Stw Nf  von  einem  Störungsdrucker  dokumentiert  wird.   Die  Bedienung  der  Er‐
+
+satzsignalgruppentaste (ErsGT) 2  für den Zug GB 47182 zeichnete  der Störungsdrucker unter 
+
+der laufenden Nr. 54 um 13:50 Uhr auf.  
+
+Seite 12 von 21 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 Untersuchungsbericht
-Zugentgleisung, 04.10.2018, Neuss Gbf
+ 
 
-(Bebu) Neuss Gbf geben für Fahrten mit besonderem Auftrag aus Richtung Nordkanal vor,
-dass eine Fahrwegsicherungsmeldung durch den Fdl Ngf an den Fdl Nf notwendig ist. Weiter
-heißt es im Bebu, dass der Fdl Ngf diese Fahrwegsicherungsmeldung erst abgeben darf,
-wenn er die Meldungen aller an der Fahrt beteiligten Mitarbeiter erhalten hat. Eine Voraus‐
-setzung für die Abgabe der Fahrwegsicherungsmeldung des Fdl Ngf an den Fdl Nf war zu‐
-nächst, dass alle zu befahrenden Weichen und die Flankenschutzeinrichtungen in seinem
-Stellwerksbezirk richtig eingestellt waren und der Fahrweg einschließlich der einmündenden
-Gleise bis zum Grenzzeichen oder der Flankenschutzeinrichtung frei war. Da keine Zugfahr‐
-straße für die geplante Einfahrt vorhanden ist, konnte der Fdl Ngf die Fahrwegelemente je‐
-doch nicht festlegen und somit sichern. Dies betraf auch die Weiche 74, die unter den gege‐
-benen Umständen jederzeit umgestellt werden konnte. Um dies zu verhindern, ist der Fahr‐
-weg mittels Fahrstraßenhebel der Gegenrichtung oder durch Anbringen von Hilfssperren an
-den entsprechenden Bedienhebeln zu sichern. Diese Hilfssperren brachte der Fdl Ngf aber
-nicht an, nachdem er den Fahrweg für den Güterzug eingestellt hatte.
-Als weitere Voraussetzung für die Abgabe der Fahrwegsicherungsmeldung an den Fdl Nf
-musste ihm auch die Meldung des Weichenwärters Nn vorliegen, dass der D‐Weg hinter
-dem Sperrsignal frei war. Diese mündlich erhaltenen Meldungen müssen nachgewiesen
-werden.
+Zugentgleisung, 04.10.2018, Neuss Gbf
+ 
 
-Abbildung 7: Auszug aus dem Fernsprechbuch Stw. Ngf
+Abbildung 9: Ausdruck des Störungsdruckers Stw Ngf 
 
-Seite 11 von 21
+Nach  den  zuvor  beschriebenen  Bedienungshandlungen  zeigte  Esig  E458  den  Signalbegriff  
 
+„Halt“  und  das  Signal  Zs  7   (Vorsichtssignal)  war  eingeschaltet.   Ob  und  inwieweit  eine  Ab‐
+
+sprache  des   Fdl  mit   dem  Tf   über  das  Zielgleis   oder  den  Halteplatz  in  Gleis  114  stattfand,  
+
+wurde nicht festgestellt. 
+
+Offenbar beobachtete der Fdl Ngf die Einfahrt des nun einfahrenden Zuges nicht. Somit er‐
+
+kannte er nicht, dass Zug 47182 weder alle Weichen durchfahren hatte, noch im Gleis 114 
+
+zum Halten gekommen war. Stattdessen stellte der Fdl die Weiche  74 zwischen den  Drehge‐
+
+stellen des letzten Wagens um, was zum zweispurigen Lauf des Wagens und damit zur Ent‐
+
+gleisung führte. 
+
+Warum der Fdl die vollständige Einfahrt des Zuges nach Gleis 114 nicht beobachtete, konnte 
+
+nicht geklärt werden. Die Sichtverhältnisse von seinem  Arbeitsplatz waren ausreichend gut 
+
+um  diese  Feststellung  treffen  zu  können.  Die  Abbildung  10  verdeutlicht  die  Sicht  vom  Stw 
+
+Ngf aus auf den Ereignisort. 
+
+Seite 13 von 21 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 Untersuchungsbericht
-Zugentgleisung, 04.10.2018, Neuss Gbf
+ 
 
-So dokumentierte der Fdl Ngf mit der Uhrzeitangabe 13:46 Uhr die Meldung des Weichen‐
-wärters Nn, dass der D‐Weg, frei war.
-Der Fdl Ngf gab daraufhin die Fahrwegsicherungsmeldung an den Fdl Nf ab. Beide Fdl doku‐
-mentierten dies übereinstimmend handschriftlich in ihren Fernsprechbüchern. Als Uhrzeit
-des entsprechenden Gespräches ist in den Fernsprechbüchern 13:46 Uhr eingetragen.
+Zugentgleisung, 04.10.2018, Neuss Gbf
+ 
 
-Abbildung 8: Auszug aus dem Fernsprechbuch Stw Nf
+Abbildung 10: Blick vom Stw Ngf auf die Unfallstelle 
 
-Nachdem dem Fdl Nf die Fahrwegsicherungsmeldung vorlag und er den Fahrweg des Zuges
-in seinem Stellwerksbezirk gesichert hatte, waren für ihn die Voraussetzungen erfüllt, die
-Zugfahrt mit besonderem Auftrag mit dem Signal Zs 7 nach Bf Neuss Gbf zuzulassen.
-Bei der Bedienung des Zs 7 (Vorsichtsignal) handelt es sich um eine zählpflichtige Handlung,
-die auf dem Stw Nf von einem Störungsdrucker dokumentiert wird. Die Bedienung der Er‐
-satzsignalgruppentaste (ErsGT) 2 für den Zug GB 47182 zeichnete der Störungsdrucker unter
-der laufenden Nr. 54 um 13:50 Uhr auf.
+Auf der Abbildung 11 ist zu erkennen, dass an den Weichenhebeln im Stw Ngf keine Hilfs‐
 
-Seite 12 von 21
+sperren angebracht waren. 
 
+Abbildung 11: Weichenhebel im Stw Ngf
+ 
+
+Seite 14 von 21 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugentgleisung, 04.10.2018, Neuss Gbf 
+
+Weiterhin ist anzumerken, dass für  die Einfahrt des um  12:26 Uhr  nach Gleis 113 eingefah‐
+
+renen Zuges  42030 ebenfalls die Betätigung der Ersatzsignalgruppentaste 2 unter der Nr. 53  
+
+dokumentiert ist. Dass auch dieser Zug aus Richtung Nordkanal eingefahren war, ergibt sich  
+
+aus den Aufzeichnungen in den Fernsprechbüchern der Fdl.  
+
+Feststellung zur Untersuchung betrieblichen Abläufe des Infrastrukturbetreibers 
+
+Lfd. Nr. 5 
+
+Die Überprüfung der betrieblichen Abläufe des EIU ergab, dass der Fdl des Stw Ngf die Wei‐
+
+che  74  unzeitig  unter  dem  einfahrenden  Zug  umstellte,  und  damit   die   Entgleisung  verur‐
+
+sachte.  Begünstigt  wurde  die  Fehlhandlung  dadurch,  dass   im  Stw  Ngf  keine  Hilfssperren 
+
+angebracht  waren  und  der  Fahrweg  somit  nicht  gesichert  war.  Diese  Fehlhandlung  ist  als 
+
+ursächlich für das Ereignis anzusehen. 
+
+Außerdem fanden  am Ereignistag die Zugfahrten  47182 und 42030 mit besonderen Auftrag 
+
+in den Bahnhof Neuss Gbf statt. 
+
+4.6   Untersuchung 	der	 betrieblichen 	Abläufe 	des	 EVU 	
+
+Für die Rekonstruktion der betrieblichen Handlungen des Tf wurden u.  a. die EFR‐Daten,  die  
+
+Unfallspuren  sowie  die  Stellungnahme  des  Tf  gegenüber  seinem  Arbeitgeber  ausgewertet. 
+
+Widersprüche zwischen den Quellen ergaben sich im Rahmen der Untersuchungen nicht.  
+
+Der Tf, der den Güterzug GB 47182 des EVU DB Cargo mit dem Triebfahrzeug (Tfz) 185 198‐9 
+
+von  Köln‐Eifeltor  nach  Neuss  Gbf  fuhr,  war  im  Besitz  eines  gültigen  Triebfahrzeugführer‐
+
+scheines sowie der notwendigen Zusatzbescheinigung. Er war legitimiert, die Zugleistung mit  
+
+dem Tfz der Baureihe 185 zu erbringen. 
+
+Bei  den  nachfolgenden  Zeitangaben  handelt  es  sich  um  systeminterne  Zeiten  der  EFR‐
+
+Fahrzeugeinrichtung. Daher können diese von der Realzeit abweichen.  
+
+Der Zug näherte er sich dem Bf Neuss Gbf mit einer Geschwindigkeit von etwa 26 km/h. Auf 
+
+Höhe des Einfahrvorsignals (Evsig) e458 im km 0,751 ist in  den EFR‐Daten um 13:49:41 Uhr  
+
+eine  1000  Hz‐Beeinflussung  sowie  die  Bedienung  der  Wachsamkeitstaste  registriert.  Dies 
+
+weist darauf hin, dass das Evsig den Signalbegriff „Halt erwarten“ zeigte. Um 13:50:47 Uhr ist 
+
+bei einer Geschwindigkeit von etwa 20 km/h eine 500 Hz‐Beeinflussung registriert, die wenig 
+
+später restriktiv wurde. Wenige Meter vor dem Esig E458 des Bf Neuss Gbf ist die Bedienung 
+
+Seite 15 von 21 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 Untersuchungsbericht
-Zugentgleisung, 04.10.2018, Neuss Gbf
+ 
 
-Abbildung 9: Ausdruck des Störungsdruckers Stw Ngf
+Zugentgleisung, 04.10.2018, Neuss Gbf 
 
-Nach den zuvor beschriebenen Bedienungshandlungen zeigte Esig E458 den Signalbegriff
-„Halt“ und das Signal Zs 7 (Vorsichtssignal) war eingeschaltet. Ob und inwieweit eine Ab‐
-sprache des Fdl mit dem Tf über das Zielgleis oder den Halteplatz in Gleis 114 stattfand,
-wurde nicht festgestellt.
-Offenbar beobachtete der Fdl Ngf die Einfahrt des nun einfahrenden Zuges nicht. Somit er‐
-kannte er nicht, dass Zug 47182 weder alle Weichen durchfahren hatte, noch im Gleis 114
-zum Halten gekommen war. Stattdessen stellte der Fdl die Weiche 74 zwischen den Drehge‐
-stellen des letzten Wagens um, was zum zweispurigen Lauf des Wagens und damit zur Ent‐
-gleisung führte.
-Warum der Fdl die vollständige Einfahrt des Zuges nach Gleis 114 nicht beobachtete, konnte
-nicht geklärt werden. Die Sichtverhältnisse von seinem Arbeitsplatz waren ausreichend gut
-um diese Feststellung treffen zu können. Die Abbildung 10 verdeutlicht die Sicht vom Stw
-Ngf aus auf den Ereignisort.
+der  Befehlstaste  aufgezeichnet  und  kurz  darauf  wurde  auf  Höhe  des  Esig  E458  um 
 
-Seite 13 von 21
+13:52:01 Uhr ein Wechsel auf der Spur 2000 Hz registriert. Dieser Ablauf spricht dafür, dass 
 
+das Esig E458 den Signalbegriff „Halt“ anzeigte, und der Tf einen Ersatzauftrag (hier Zs  7) zur  
+
+Vorbeifahrt  erhielt. Der Zug fuhr daraufhin mit einer Geschwindigkeit von ca. 15 km/h, Ten‐
+
+denz fallend, am haltzeigenden Esig  vorbei. Kurz darauf wurde der Zug wieder leicht  bis auf 
+
+ca. 30 km/h  beschleunigt. Auf Höhe  des Vorsignals (Vsig) n107/112 im km 2,495 erhielt der 
+
+Zug  gegen  13:54:32  Uhr  eine  1000  Hz   Beeinflussung.  Dies  spricht   dafür,  dass  das  Vsig 
+
+n107/112  den  Signalbegriff  „Halt  erwarten“  und  das  entsprechende  Ausfahrsignal  (Asig) 
+
+„Halt“ anzeigte. Für den GB  47182  war dies jedoch nicht von Bedeutung, da der Fahrweg in 
+
+Gleis 114 enden sollte und das Asig nicht an diesem Fahrweg lag.  
+
+Mit  Erreichen  einer  maximalen  Geschwindigkeit  von  32  km/h,  setzte  dann  eine  Betriebs‐
+
+bremsung ein, die den Zug nach  ca. 200 m gegen 13:56:15 Uhr zum  Stillstand brachte. Hin‐
+
+weise auf die Entgleisung in der Weiche 74 oder die anschließende Kollision sind den EFR‐
+
+Aufzeichnungen nicht zu entnehmen. 
+
+Abbildung 12: grafische Darstellung der EFR‐Daten 
+
+Die  Spitze  des  ca.  500  m  langen  Zuges  kam  ca.  40  m  vor dem  Sperrsignal  zum  Halten.  Die 
+
+Weiche 74 war somit freigefahren. 
+
+Seite 16 von 21 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 Untersuchungsbericht
-Zugentgleisung, 04.10.2018, Neuss Gbf
+ 
 
-Abbildung 10: Blick vom Stw Ngf auf die Unfallstelle
+Zugentgleisung, 04.10.2018, Neuss Gbf 
 
-Auf der Abbildung 11 ist zu erkennen, dass an den Weichenhebeln im Stw Ngf keine Hilfs‐
-sperren angebracht waren.
+Die Abbildung unten zeigt die Zuglokomotive von Zug 47182 vor dem Sperrsignal in Gleis 114 
 
-Abbildung 11: Weichenhebel im Stw Ngf
+nachdem diese zuvor vom Wagenzug abgekuppelt und einige Meter vorgezogen wurde. 
 
-Seite 14 von 21
+Abbildung 13: Tfz des GB 47182 
 
+Feststellung zur Untersuchung betrieblichen Abläufe des EVU 
+
+Lfd. Nr. 6 
+
+Die Überprüfung der betrieblichen Abläufe des EVU ergab keine Hinweise auf Auffälligkei‐
+
+ten.  Die  Einflüsse  aus  den  betrieblichen  Abläufen  des  EVU  waren  somit  weder  ereignisur‐
+
+sächlich noch ereignisbegünstigend einzustufen. 
+
+4.7   Untersuchung	 von 	Fahrzeugen 	
+
+Der Wagenzug des GB 47182 bestand aus 22 Güterwagen der Gattung Tadgs mit einer Länge  
+
+von 477 m. Dieser verfügte über 88 Achsen, besaß eine Gesamtmasse von 1.731 t bei einem  
+
+Bremsgewicht von 1.235 t. 
+
+Der Zug wurde von einem Tfz der Baureihe 185 gezogen. Aus der folgenden Tabelle lassen 
+
+sich die technischen Fahrzeugdaten des Tfz mit der Fahrzeugnummer 91 80 6185 198‐9 ent‐
+
+nehmen: 
+
+Seite 17 von 21 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugentgleisung, 04.10.2018, Neuss Gbf 
+
+Antriebsart 
+
+Kraftübertragung 
+
+Leistung 
+
+Gesamtlänge (LüP) 
+
+Masse 
+
+Höchstgeschwindigkeit 
+
+Radsatzfolge 
+
+elektrisch 
+
+Tatzlagerantrieb 
+
+5.600 kW (Dauerleistung) 
+
+18,9 m  
+
+84 t 
+
+140 km/h  
+
+Bo´Bo´ 
+
+Zugsicherungssystem 
+
+PZB Ebicab und LZB 80 
+
+Tabelle 3: Technische Daten Tfz 
+
+Damit  war  der  Zug  insgesamt  495  m   lang,  besaß  92  Achsen  und  ein  Gesamtgewicht  von  
+
+1.815 t.  In  der  Bremsstellung  P  waren  für  die  Zugfahrt  58  Mindestbremshundertstel  erfor‐
+
+derlich, der Zug verfügte über 71 Bremshundertstel. Gefährliche Güter waren nicht beteiligt.  
+
+Seite 18 von 21 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugentgleisung, 04.10.2018, Neuss Gbf 
+
+Die technischen Daten des verunfallten Güterwagens sind in der  folgenden Tabelle zusam‐
+
+mengestellt: 
+
+Wagennummer 
+
+3155 0824 050‐6 
+
+REV: letzte/nächste Frist 
+
+14.07.12 / 14.10.18 
+
+Rail Cargo Hungaria Zrt (RCH) 
+
+85,0 cbm  
+
+Tadgs 
+
+28140 kg 
+
+21,64 m 
+
+16,6 m  
+
+ 4 
+
+6000 mm 
+
+100 km/h  
+
+Halter 
+
+Laderaum 
+
+Gattungszeichen 
+
+Eigengewicht 
+
+Länge (LÜP) 
+
+Drehzapfenabstand 
+
+Anzahl der Radsätze 
+
+Achsabstand 
+
+Max zul. Fahrzeuggeschwindigkeit 
+
+Tabelle 4: Technische Daten Wagen 3155 0824  050‐6 
+
+
+Feststellung zur Untersuchung der Fahrzeuge 
+
+
+Lfd. Nr. 7 
+
+Die  Überprüfung  der  Fahrzeuge  ergab  keine  Hinweise  auf  Auffälligkeiten.  Die  Fahrzeuge  
+
+waren für das Ereignis weder ereignisursächlich noch ereignisbegünstigend. 
+
+5   Auswertung	 und 	Schlussfolgerungen	 
+
+Im folgenden Kapitel werden die Ereignisrekonstruktion sowie Bewertungen und Schlussfol‐
+
+gerungen vorgenommen. 
+
+5.1   Ereignisrekonstruktion	 
+
+Der Güterzug GB 47182 fuhr am 04.10.2018 aus  Richtung Köln kommend nach Bf Neuss Gbf. 
+
+Gegen 13:50 Uhr näherte sich der  Zug dem Esig E458 des Zielbahnhofs. Das Esig E458 signali‐
+
+sierte dem Tf  den  Signalbegriff  Hp 0 (Halt). Das am  gleichen Signalmasten angebrachte Zu‐
+
+satzsignal Zs 7  leuchtete. Damit durfte der Tf am haltzeigenden  Esig vorbeifahren.  Die Wei‐
+
+Seite 19 von 21 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 Untersuchungsbericht
-Zugentgleisung, 04.10.2018, Neuss Gbf
-
-Weiterhin ist anzumerken, dass für die Einfahrt des um 12:26 Uhr nach Gleis 113 eingefah‐
-renen Zuges 42030 ebenfalls die Betätigung der Ersatzsignalgruppentaste 2 unter der Nr. 53
-dokumentiert ist. Dass auch dieser Zug aus Richtung Nordkanal eingefahren war, ergibt sich
-aus den Aufzeichnungen in den Fernsprechbüchern der Fdl.
-Feststellung zur Untersuchung betrieblichen Abläufe des Infrastrukturbetreibers
-Lfd. Nr. 5
-Die Überprüfung der betrieblichen Abläufe des EIU ergab, dass der Fdl des Stw Ngf die Wei‐
-che 74 unzeitig unter dem einfahrenden Zug umstellte, und damit die Entgleisung verur‐
-sachte. Begünstigt wurde die Fehlhandlung dadurch, dass im Stw Ngf keine Hilfssperren
-angebracht waren und der Fahrweg somit nicht gesichert war. Diese Fehlhandlung ist als
-ursächlich für das Ereignis anzusehen.
-Außerdem fanden am Ereignistag die Zugfahrten 47182 und 42030 mit besonderen Auftrag
-in den Bahnhof Neuss Gbf statt.
+ 
 
-4.6 Untersuchung der betrieblichen Abläufe des EVU
-Für die Rekonstruktion der betrieblichen Handlungen des Tf wurden u. a. die EFR‐Daten, die
-Unfallspuren sowie die Stellungnahme des Tf gegenüber seinem Arbeitgeber ausgewertet.
-Widersprüche zwischen den Quellen ergaben sich im Rahmen der Untersuchungen nicht.
-Der Tf, der den Güterzug GB 47182 des EVU DB Cargo mit dem Triebfahrzeug (Tfz) 185 198‐9
-von Köln‐Eifeltor nach Neuss Gbf fuhr, war im Besitz eines gültigen Triebfahrzeugführer‐
-scheines sowie der notwendigen Zusatzbescheinigung. Er war legitimiert, die Zugleistung mit
-dem Tfz der Baureihe 185 zu erbringen.
-Bei den nachfolgenden Zeitangaben handelt es sich um systeminterne Zeiten der EFR‐
-Fahrzeugeinrichtung. Daher können diese von der Realzeit abweichen.
-Der Zug näherte er sich dem Bf Neuss Gbf mit einer Geschwindigkeit von etwa 26 km/h. Auf
-Höhe des Einfahrvorsignals (Evsig) e458 im km 0,751 ist in den EFR‐Daten um 13:49:41 Uhr
-eine 1000 Hz‐Beeinflussung sowie die Bedienung der Wachsamkeitstaste registriert. Dies
-weist darauf hin, dass das Evsig den Signalbegriff „Halt erwarten“ zeigte. Um 13:50:47 Uhr ist
-bei einer Geschwindigkeit von etwa 20 km/h eine 500 Hz‐Beeinflussung registriert, die wenig
-später restriktiv wurde. Wenige Meter vor dem Esig E458 des Bf Neuss Gbf ist die Bedienung
+Zugentgleisung, 04.10.2018, Neuss Gbf 
 
-Seite 15 von 21
+terfahrt musste auf Sicht erfolgen. Als der Zug bei der Einfahrt nach Gleis 114 die Weiche 74 
 
-Untersuchungsbericht
-Zugentgleisung, 04.10.2018, Neuss Gbf
+überfuhr,  stellte  der  Fdl  Ngf  die  Weiche  zwischen  den  Drehgestellen  des  an  letzter  Stelle 
 
-der Befehlstaste aufgezeichnet und kurz darauf wurde auf Höhe des Esig E458 um
-13:52:01 Uhr ein Wechsel auf der Spur 2000 Hz registriert. Dieser Ablauf spricht dafür, dass
-das Esig E458 den Signalbegriff „Halt“ anzeigte, und der Tf einen Ersatzauftrag (hier Zs 7) zur
-Vorbeifahrt erhielt. Der Zug fuhr daraufhin mit einer Geschwindigkeit von ca. 15 km/h, Ten‐
-denz fallend, am haltzeigenden Esig vorbei. Kurz darauf wurde der Zug wieder leicht bis auf
-ca. 30 km/h beschleunigt. Auf Höhe des Vorsignals (Vsig) n107/112 im km 2,495 erhielt der
-Zug gegen 13:54:32 Uhr eine 1000 Hz Beeinflussung. Dies spricht dafür, dass das Vsig
-n107/112 den Signalbegriff „Halt erwarten“ und das entsprechende Ausfahrsignal (Asig)
-„Halt“ anzeigte. Für den GB 47182 war dies jedoch nicht von Bedeutung, da der Fahrweg in
-Gleis 114 enden sollte und das Asig nicht an diesem Fahrweg lag.
-Mit Erreichen einer maximalen Geschwindigkeit von 32 km/h, setzte dann eine Betriebs‐
-bremsung ein, die den Zug nach ca. 200 m gegen 13:56:15 Uhr zum Stillstand brachte. Hin‐
-weise auf die Entgleisung in der Weiche 74 oder die anschließende Kollision sind den EFR‐
-Aufzeichnungen nicht zu entnehmen.
+laufenden Wagen um. Dadurch kam es zur Entgleisung dieses Wagens, der nun mit seinem 
 
-Abbildung 12: grafische Darstellung der EFR‐Daten
+vorderen Drehgestell im Gleis 114 und mit seinem hinteren Drehgestell im Gleis 113 fuhr. Ein 
 
-Die Spitze des ca. 500 m langen Zuges kam ca. 40 m vor dem Sperrsignal zum Halten. Die
-Weiche 74 war somit freigefahren.
+zwischen den Gleisen stehendes Lichtsperrsignal wurde hierdurch umgerissen. Kurz vor dem 
 
-Seite 16 von 21
+Halt des Zuges kollidierte die in Gleis 113 laufende Wagenhälfte mit einem hier abgestellten 
 
-Untersuchungsbericht
-Zugentgleisung, 04.10.2018, Neuss Gbf
+Wagen. Der Tf hatte die Kollision nicht bemerkt und brachte seinen Zug vor dem Sperrsignal 
 
-Die Abbildung unten zeigt die Zuglokomotive von Zug 47182 vor dem Sperrsignal in Gleis 114
-nachdem diese zuvor vom Wagenzug abgekuppelt und einige Meter vorgezogen wurde.
+114 zum Stillstand. 
 
-Abbildung 13: Tfz des GB 47182
+5.2  Feststellungen und Bewertungen 
 
-Feststellung zur Untersuchung betrieblichen Abläufe des EVU
-Lfd. Nr. 6
-Die Überprüfung der betrieblichen Abläufe des EVU ergab keine Hinweise auf Auffälligkei‐
-ten. Die Einflüsse aus den betrieblichen Abläufen des EVU waren somit weder ereignisur‐
-sächlich noch ereignisbegünstigend einzustufen.
+In diesem Bericht wurde unter den lfd. Nummern 1, 2, 3, 4, 6 und 7 festgestellt, dass weder 
 
-4.7 Untersuchung von Fahrzeugen
-Der Wagenzug des GB 47182 bestand aus 22 Güterwagen der Gattung Tadgs mit einer Länge
-von 477 m. Dieser verfügte über 88 Achsen, besaß eine Gesamtmasse von 1.731 t bei einem
-Bremsgewicht von 1.235 t.
-Der Zug wurde von einem Tfz der Baureihe 185 gezogen. Aus der folgenden Tabelle lassen
-sich die technischen Fahrzeugdaten des Tfz mit der Fahrzeugnummer 91 80 6185 198‐9 ent‐
-nehmen:
+Wetterbedingungen,  Notfallmanagement,  Infrastruktur,  Leit‐  und  Sicherungstechnik,  noch 
 
-Seite 17 von 21
+Mängel  an  Fahrzeugen  als  unfallbegünstigend  oder  unfallursächlich  einzustufen  sind.  Dies 
 
-Untersuchungsbericht
-Zugentgleisung, 04.10.2018, Neuss Gbf
+gilt auch für die betrieblichen Handlungen des Tf. Dem Signalbegriff Zs 7 entsprechend fuhr 
 
-Antriebsart
+er regelkonform auf Sicht mit einer Geschwindigkeit von deutlich unter 40 km/h nach Gleis 
 
-elektrisch
+114 ein. Als das Tfz die Weiche 74 überfuhr, befand sich diese in Linkslage. Der Ablauf des 
 
-Kraftübertragung
+Ereignisses war für den Tf weder erkennbar, noch konnte er ihn beeinflussen. 
 
-Tatzlagerantrieb
+Ursache  für  die  Entgleisung  des  GB  42182  war  eine  betriebliche  Fehlhandlung  des  Fdl  Ngf 
 
-Leistung
+(siehe  Feststellung  lfd.  Nummer  5).  Er  stellte  die  Weiche 74  unter  dem  letzten  Wagen  des 
 
-5.600 kW (Dauerleistung)
+einfahrenden Zuges um, weil er den Zug nicht beobachtete und somit die Feststellung, dass 
 
-Gesamtlänge (LüP)
+alle Weichen durchfahren oder der Zug im Gleis 114 zum Halten gekommen war, nicht traf. 
 
-18,9 m
+Möglich  wurde  das  Umstellen  der  Weiche,  weil  der  Fdl  zuvor  die  Regeln  der  Ril  408.0232 
 
-Masse
+missachtete und den Fahrweg des Zuges nicht entsprechend sicherte. 
 
-84 t
+Es ist davon auszugehen, dass die Einfahrt von Zug 47182 dispositive Gründe hatte und ein 
 
-Höchstgeschwindigkeit
+freies Einfahrgleis, für das eine Zugfahrstraße vorhanden ist, nicht zur Verfügung stand. Dass 
 
-140 km/h
+dies jedoch kein Einzelfall war, zeigt die Feststellung zu Zug 42030, der zuvor auf Zs 7 nach 
 
-Radsatzfolge
+Gleis  113  eingefahren  war.  Grundsätzlich  sollen  Zugfahrten  auf  technisch  gesicherten  Zug‐
 
-Bo´Bo´
+straßen verkehren. Ein Abweichen hiervon ist z. B. bei Störungen möglich. Wiederkehrende 
 
-Zugsicherungssystem
+Fahrten  mit  besonderem  Auftrag,  wegen  nicht  ausreichender  Fahrstraßenkapazitäten,  sind 
 
-PZB Ebicab und LZB 80
+als kritisch zu bewerten und zu vermeiden. Um das Risiko einer menschlichen Fehlhandlung 
 
-Tabelle 3: Technische Daten Tfz
+zu  minimieren,  sind  Zugfahrten  mit  besonderem  Auftrag  künftig  auf  das  nötigste  Maß  zu 
 
-Damit war der Zug insgesamt 495 m lang, besaß 92 Achsen und ein Gesamtgewicht von
-1.815 t. In der Bremsstellung P waren für die Zugfahrt 58 Mindestbremshundertstel erfor‐
-derlich, der Zug verfügte über 71 Bremshundertstel. Gefährliche Güter waren nicht beteiligt.
+begrenzen. 
 
-Seite 18 von 21
+Seite 20 von 21 
 
-Untersuchungsbericht
-Zugentgleisung, 04.10.2018, Neuss Gbf
 
-Die technischen Daten des verunfallten Güterwagens sind in der folgenden Tabelle zusam‐
-mengestellt:
-Wagennummer
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+	
+	
+	
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-3155 0824 050‐6
+Zugentgleisung, 04.10.2018, Neuss Gbf 
 
-REV: letzte/nächste Frist
+6   Bisher 	getroffene 	Maßnahmen	 
 
-14.07.12 / 14.10.18
+Die  DB  Netz  AG  gab  an,  dass  vergleichbare Einfahrten  von  Güterzügen nach  Gleis  113  und  
 
-Halter
+114 des Bf Neuss Gbf, wie am 04.10.2018,  aufgrund eingeschränkter Kapazitäten im Fall von 
 
-Rail Cargo Hungaria Zrt (RCH)
+Betriebsspitzen (z.B. Umleiterverkehre) auf den Zufuhrstrecken in Einzelfällen unumgänglich  
 
-Laderaum
+sind. Eigenen Auswertungen zufolge liege die Anzahl dieser Fahrten bei durchschnittlich ei‐
 
-85,0 cbm
+ner Zugfahrt  pro Woche. Der Betreiber sei  bestrebt, Zugfahrten mit besonderen Auftrag auf  
 
-Gattungszeichen
+ein Mindestmaß zu reduzieren. Zur  bloßen Beschleunigung des Betriebsablaufs würden Zug‐
 
-Tadgs
+fahrten mit besonderen Auftrag durch die DB Netz AG nicht akzeptiert. Für unvermeidbare 
 
-Eigengewicht
+Fälle  würde   größter  Wert  auf  größte  Handlungssicherheit  gelegt  und  Mitarbeiter  dement‐
 
-28140 kg
+sprechend  unterwiesen.  Vor  diesem  Hintergrund  sei  das  gefährliche  Ereignis  und  dessen 
 
-Länge (LÜP)
+Ursachen  mit  den  Fahrdienstleitern  im  Raum  Neuss  im  Rahmen  der  Betriebskontrollen  in‐
 
-21,64 m
+tensiv besprochen und auch in Einzelgesprächen aufbereitet worden. 
 
-Drehzapfenabstand
+7   Sicherheitsempfehlungen		 
 
-16,6 m
+Eine Sicherheitsempfehlung wurde nicht ausgesprochen. 
 
-Anzahl der Radsätze
+Seite 21 von 21 
 
-4
 
-Achsabstand
-
-6000 mm
-
-Max zul. Fahrzeuggeschwindigkeit
-
-100 km/h
-
-Tabelle 4: Technische Daten Wagen 3155 0824 050‐6
-
-Feststellung zur Untersuchung der Fahrzeuge
-Lfd. Nr. 7
-Die Überprüfung der Fahrzeuge ergab keine Hinweise auf Auffälligkeiten. Die Fahrzeuge
-waren für das Ereignis weder ereignisursächlich noch ereignisbegünstigend.
-
-5 Auswertung und Schlussfolgerungen
-Im folgenden Kapitel werden die Ereignisrekonstruktion sowie Bewertungen und Schlussfol‐
-gerungen vorgenommen.
-
-5.1 Ereignisrekonstruktion
-Der Güterzug GB 47182 fuhr am 04.10.2018 aus Richtung Köln kommend nach Bf Neuss Gbf.
-Gegen 13:50 Uhr näherte sich der Zug dem Esig E458 des Zielbahnhofs. Das Esig E458 signali‐
-sierte dem Tf den Signalbegriff Hp 0 (Halt). Das am gleichen Signalmasten angebrachte Zu‐
-satzsignal Zs 7 leuchtete. Damit durfte der Tf am haltzeigenden Esig vorbeifahren. Die Wei‐
-
-Seite 19 von 21
-
-Untersuchungsbericht
-Zugentgleisung, 04.10.2018, Neuss Gbf
-
-terfahrt musste auf Sicht erfolgen. Als der Zug bei der Einfahrt nach Gleis 114 die Weiche 74
-überfuhr, stellte der Fdl Ngf die Weiche zwischen den Drehgestellen des an letzter Stelle
-laufenden Wagen um. Dadurch kam es zur Entgleisung dieses Wagens, der nun mit seinem
-vorderen Drehgestell im Gleis 114 und mit seinem hinteren Drehgestell im Gleis 113 fuhr. Ein
-zwischen den Gleisen stehendes Lichtsperrsignal wurde hierdurch umgerissen. Kurz vor dem
-Halt des Zuges kollidierte die in Gleis 113 laufende Wagenhälfte mit einem hier abgestellten
-Wagen. Der Tf hatte die Kollision nicht bemerkt und brachte seinen Zug vor dem Sperrsignal
-114 zum Stillstand.
-
-5.2 Feststellungen und Bewertungen
-In diesem Bericht wurde unter den lfd. Nummern 1, 2, 3, 4, 6 und 7 festgestellt, dass weder
-Wetterbedingungen, Notfallmanagement, Infrastruktur, Leit‐ und Sicherungstechnik, noch
-Mängel an Fahrzeugen als unfallbegünstigend oder unfallursächlich einzustufen sind. Dies
-gilt auch für die betrieblichen Handlungen des Tf. Dem Signalbegriff Zs 7 entsprechend fuhr
-er regelkonform auf Sicht mit einer Geschwindigkeit von deutlich unter 40 km/h nach Gleis
-114 ein. Als das Tfz die Weiche 74 überfuhr, befand sich diese in Linkslage. Der Ablauf des
-Ereignisses war für den Tf weder erkennbar, noch konnte er ihn beeinflussen.
-Ursache für die Entgleisung des GB 42182 war eine betriebliche Fehlhandlung des Fdl Ngf
-(siehe Feststellung lfd. Nummer 5). Er stellte die Weiche 74 unter dem letzten Wagen des
-einfahrenden Zuges um, weil er den Zug nicht beobachtete und somit die Feststellung, dass
-alle Weichen durchfahren oder der Zug im Gleis 114 zum Halten gekommen war, nicht traf.
-Möglich wurde das Umstellen der Weiche, weil der Fdl zuvor die Regeln der Ril 408.0232
-missachtete und den Fahrweg des Zuges nicht entsprechend sicherte.
-Es ist davon auszugehen, dass die Einfahrt von Zug 47182 dispositive Gründe hatte und ein
-freies Einfahrgleis, für das eine Zugfahrstraße vorhanden ist, nicht zur Verfügung stand. Dass
-dies jedoch kein Einzelfall war, zeigt die Feststellung zu Zug 42030, der zuvor auf Zs 7 nach
-Gleis 113 eingefahren war. Grundsätzlich sollen Zugfahrten auf technisch gesicherten Zug‐
-straßen verkehren. Ein Abweichen hiervon ist z. B. bei Störungen möglich. Wiederkehrende
-Fahrten mit besonderem Auftrag, wegen nicht ausreichender Fahrstraßenkapazitäten, sind
-als kritisch zu bewerten und zu vermeiden. Um das Risiko einer menschlichen Fehlhandlung
-zu minimieren, sind Zugfahrten mit besonderem Auftrag künftig auf das nötigste Maß zu
-begrenzen.
-
-Seite 20 von 21
-
-Untersuchungsbericht
-Zugentgleisung, 04.10.2018, Neuss Gbf
-
-6 Bisher getroffene Maßnahmen
-Die DB Netz AG gab an, dass vergleichbare Einfahrten von Güterzügen nach Gleis 113 und
-114 des Bf Neuss Gbf, wie am 04.10.2018, aufgrund eingeschränkter Kapazitäten im Fall von
-Betriebsspitzen (z.B. Umleiterverkehre) auf den Zufuhrstrecken in Einzelfällen unumgänglich
-sind. Eigenen Auswertungen zufolge liege die Anzahl dieser Fahrten bei durchschnittlich ei‐
-ner Zugfahrt pro Woche. Der Betreiber sei bestrebt, Zugfahrten mit besonderen Auftrag auf
-ein Mindestmaß zu reduzieren. Zur bloßen Beschleunigung des Betriebsablaufs würden Zug‐
-fahrten mit besonderen Auftrag durch die DB Netz AG nicht akzeptiert. Für unvermeidbare
-Fälle würde größter Wert auf größte Handlungssicherheit gelegt und Mitarbeiter dement‐
-sprechend unterwiesen. Vor diesem Hintergrund sei das gefährliche Ereignis und dessen
-Ursachen mit den Fahrdienstleitern im Raum Neuss im Rahmen der Betriebskontrollen in‐
-tensiv besprochen und auch in Einzelgesprächen aufbereitet worden.
-
-7 Sicherheitsempfehlungen
-Eine Sicherheitsempfehlung wurde nicht ausgesprochen.
-
-Seite 21 von 21
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 

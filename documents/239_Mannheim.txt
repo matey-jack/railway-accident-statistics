@@ -1,1317 +1,2342 @@
-Untersuchungsbericht
-Aktenzeichen:
+Untersuchungsbericht 
 
-BEU-uu2024-03/002-3323
+Aktenzeichen: 
 
-Stand:
+BEU-uu2024-03/002-3323 
 
-01.12.2025
+Stand: 
 
-Erstveröﬀentlichung:
+01.12.2025 
 
-04.12.2025
+Version 1.0 
 
-Version 1.0
+Erstveröﬀentlichung:  04.12.2025 
 
-Gefährliches Ereignis im Eisenbahnbetrieb
+Gefährliches	Ereignis	im	Eisenbahnbetrieb 
 
-Ereignisart:
+Ereignisart: 
 
-Zugkollision
+Datum: 
 
-Datum:
+Zeit: 
 
-07.03.2024
+Zugkollision 
 
-Zeit:
+07.03.2024 
 
-09:21 Uhr
+09:21 Uhr 
 
-Betriebsstelle:
+Betriebsstelle: 
 
-Bf Mannheim Rbf
+Bf Mannheim Rbf 
 
-Gleis:
+Gleis: 
 
-Ablaufberg A
+Kilometer: 
 
-Kilometer:
+Ablaufberg A 
 
-4,171
+4,171 
 
-Untersuchungsbericht
-Zugkollision, 07.03.2024, Bf Mannheim Rbf
+ 
+	
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Veröﬀentlicht durch:
-Bundesstelle für Eisenbahnunfalluntersuchung
-Heinemannstraße 6
-53175 Bonn
+Zugkollision, 07.03.2024, Bf Mannheim Rbf 
 
-Untersuchungsbericht
-Zugkollision, 07.03.2024, Bf Mannheim Rbf
+Veröﬀentlicht durch: 
 
-Inhaltsverzeichnis
-I.
+Bundesstelle für Eisenbahnunfalluntersuchung 
 
-Änderungsverzeichnis: .......................................................................................... II
+Heinemannstraße 6 
 
-II.
+53175 Bonn 
 
-Abbildungsverzeichnis: ........................................................................................ III
+ 
+Untersuchungsbericht 
 
-III.
+Zugkollision, 07.03.2024, Bf Mannheim Rbf 
 
-Tabellenverzeichnis: ............................................................................................ III
+Inhaltsverzeichnis	
 
-IV.
+I. 
 
-Abkürzungsverzeichnis: ....................................................................................... IV
+II. 
 
-0
+Änderungsverzeichnis: .......................................................................................... II 
 
-Vorbemerkung...................................................................................................... 1
+Abbildungsverzeichnis: ........................................................................................ III 
 
-1
+III. 
 
-Zusammenfassung ................................................................................................ 2
+Tabellenverzeichnis: ............................................................................................ III 
 
-1.1
+IV. 
 
-Kurzbeschreibung des Ereignisses ......................................................................... 2
+Abkürzungsverzeichnis: ....................................................................................... IV 
 
-1.2
+0 
 
-Folgen .................................................................................................................... 2
+1 
 
-1.3
+1.1 
 
-Ursachen ................................................................................................................ 2
+1.2 
 
-1.4
+1.3 
 
-Sicherheitsempfehlungen ...................................................................................... 3
+1.4 
 
-2
+2 
 
-Die Untersuchung und ihr Kontext ........................................................................ 4
+3 
 
-3
+Vorbemerkung ...................................................................................................... 1 
 
-Beschreibung des Ereignisses................................................................................ 6
+Zusammenfassung ................................................................................................ 2 
 
-3.1
+Kurzbeschreibung des Ereignisses ......................................................................... 2 
 
-Informationen über das Ereignis und seine Hintergründe ..................................... 6
+Folgen .................................................................................................................... 2 
 
-3.1.1
+Ursachen ................................................................................................................ 2 
 
-Lage und Beschreibung des Ereignisortes .............................................................. 6
+Sicherheitsempfehlungen ...................................................................................... 3 
 
-3.1.2
+Die Untersuchung und ihr Kontext ........................................................................ 4 
 
-Beteiligte ................................................................................................................ 8
+Beschreibung des Ereignisses ................................................................................ 6 
 
-3.1.3
+3.1 
 
-Äußere Bedingungen ............................................................................................. 9
+Informationen über das Ereignis und seine Hintergründe ..................................... 6 
 
-3.1.4
+3.1.1 
 
-Todesopfer, Verletzte und Sachschäden ................................................................ 9
+Lage und Beschreibung des Ereignisortes .............................................................. 6 
 
-3.2
+3.1.2 
 
-Sachliche Beschreibung der Vorkommnisse......................................................... 10
+Beteiligte ................................................................................................................ 8 
 
-3.2.1
+3.1.3 
 
-Hergangsbeschreibung ........................................................................................ 10
+Äußere Bedingungen ............................................................................................. 9 
 
-3.2.2
+3.1.4 
 
-Notfallmanagement ............................................................................................. 11
+Todesopfer, Verletzte und Sachschäden ................................................................ 9 
 
-4
+3.2 
 
-Auswertung des Ereignisses ................................................................................ 12
+Sachliche Beschreibung der Vorkommnisse ......................................................... 10 
 
-4.1
+3.2.1 
 
-Aufgaben und Pflichten ....................................................................................... 12
+Hergangsbeschreibung ........................................................................................ 10 
 
-4.1.1
+3.2.2 
 
-Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers ................. 12
+Notfallmanagement ............................................................................................. 11 
 
-I
+4 
 
-Untersuchungsbericht
-Zugkollision, 07.03.2024, Bf Mannheim Rbf
+4.1 
 
-I.
+Auswertung des Ereignisses ................................................................................ 12 
 
-4.1.2
+Aufgaben und Pflichten ....................................................................................... 12 
 
-Untersuchung der betrieblichen Abläufe der EVU ............................................... 15
+4.1.1 
 
-4.2
+Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers ................. 12 
 
-Fahrzeuge und technische Einrichtungen ............................................................ 19
+I 
 
-4.2.1
+ 
+ 
+Untersuchungsbericht 
 
-Untersuchung von Fahrzeugen ............................................................................ 20
+Zugkollision, 07.03.2024, Bf Mannheim Rbf 
 
-4.2.2
+4.1.2 
 
-Untersuchung der bautechnischen Infrastruktur ................................................. 21
+Untersuchung der betrieblichen Abläufe der EVU ............................................... 15 
 
-4.2.3
+4.2 
 
-Untersuchung der Leit- und Sicherungstechnik ................................................... 21
+Fahrzeuge und technische Einrichtungen ............................................................ 19 
 
-4.3
+4.2.1 
 
-Menschliche Faktoren.......................................................................................... 23
+Untersuchung von Fahrzeugen ............................................................................ 20 
 
-4.3.1
+4.2.2 
 
-Beteiligte des Infrastrukturbetreibers.................................................................. 23
+Untersuchung der bautechnischen Infrastruktur ................................................. 21 
 
-4.3.2
+4.2.3 
 
-Beteiligte der EVU ................................................................................................ 23
+Untersuchung der Leit- und Sicherungstechnik ................................................... 21 
 
-4.4
+4.3 
 
-Feedback- und Kontrollmechanismen ................................................................. 25
+Menschliche Faktoren .......................................................................................... 23 
 
-4.5
+4.3.1 
 
-Frühere Ereignisse ähnlicher Art .......................................................................... 26
+Beteiligte des Infrastrukturbetreibers .................................................................. 23 
 
-5
+4.3.2 
 
-Schlussfolgerungen ............................................................................................. 28
+Beteiligte der EVU ................................................................................................ 23 
 
-5.1
+4.4 
 
-Zusammenfassung und Schlussfolgerung ............................................................ 28
+4.5 
 
-5.2
+5 
 
-Seit dem Ereignis getroffene Maßnahmen .......................................................... 30
+5.1 
 
-5.3
+5.2 
 
-Zusätzliche Bemerkungen .................................................................................... 31
+5.3 
 
-6
+Feedback- und Kontrollmechanismen ................................................................. 25 
 
-Sicherheitsempfehlungen ................................................................................... 32
+Frühere Ereignisse ähnlicher Art .......................................................................... 26 
 
-Änderungsverzeichnis:
-Änderung
+Schlussfolgerungen ............................................................................................. 28 
 
-Stand
+Zusammenfassung und Schlussfolgerung ............................................................ 28 
 
-II
+Seit dem Ereignis getroffene Maßnahmen .......................................................... 30 
 
-Untersuchungsbericht
-Zugkollision, 07.03.2024, Bf Mannheim Rbf
+Zusätzliche Bemerkungen .................................................................................... 31 
 
-II.
+6 
 
-Abbildungsverzeichnis:
-Abbildung 1: Lageplan .............................................................................................................. 7
-Abbildung 2: Gleislageskizze ..................................................................................................... 7
-Abbildung 3: Kollisionsstelle ................................................................................................... 11
-Abbildung 4: Ls 602II Nacht- und Tagschaltung ...................................................................... 14
-Abbildung 5: Fahrtverlauf DGS 43373 von Bf Emmerich bis Bf Mannheim Rbf ...................... 18
-Abbildung 6: Fahrtverlauf DGS 43373 bis zum Ereigniszeitpunkt ........................................... 19
+Sicherheitsempfehlungen ................................................................................... 32 
 
-III.
+I.  Änderungsverzeichnis:	
 
-Tabellenverzeichnis:
-Tabelle 1: Zusammenfassung Einflussfaktoren ......................................................................... 3
-Tabelle 2: Übersicht der äußeren Bedingungen ....................................................................... 9
-Tabelle 3: Übersicht der Personenschäden .............................................................................. 9
-Tabelle 4: Übersicht der geschätzten Schadenshöhe ............................................................... 9
-Tabelle 5: Technische Daten Tfz BR 186 ................................................................................. 20
+Änderung 
 
-III
+Stand 
 
-Untersuchungsbericht
-Zugkollision, 07.03.2024, Bf Mannheim Rbf
+II 
 
-IV.
+ 
+ 
+ 
+ 
+ 
+ 
+	
+	
+Untersuchungsbericht 
 
-Abkürzungsverzeichnis:
-AEG
+Zugkollision, 07.03.2024, Bf Mannheim Rbf 
 
-Allgemeines Eisenbahngesetz
+II.  Abbildungsverzeichnis:	
 
-Abzw
+Abbildung 1: Lageplan .............................................................................................................. 7 
 
-Abzweigstelle
+Abbildung 2: Gleislageskizze ..................................................................................................... 7 
 
-ArbZG
+Abbildung 3: Kollisionsstelle ................................................................................................... 11 
 
-Arbeitszeitgesetz
+Abbildung 4: Ls 602II Nacht- und Tagschaltung ...................................................................... 14 
 
-BEU
+Abbildung 5: Fahrtverlauf DGS 43373 von Bf Emmerich bis Bf Mannheim Rbf ...................... 18 
 
-Bundesstelle für Eisenbahnunfalluntersuchung
+Abbildung 6: Fahrtverlauf DGS 43373 bis zum Ereigniszeitpunkt ........................................... 19 
 
-Bf
+III.  Tabellenverzeichnis:	
 
-Bahnhof
+Tabelle 1: Zusammenfassung Einflussfaktoren ......................................................................... 3 
 
-B
+Tabelle 2: Übersicht der äußeren Bedingungen ....................................................................... 9 
 
-Bahnhofsteil
+Tabelle 3: Übersicht der Personenschäden .............................................................................. 9 
 
-BR
+Tabelle 4: Übersicht der geschätzten Schadenshöhe ............................................................... 9 
 
-Baureihe
+Tabelle 5: Technische Daten Tfz BR 186 ................................................................................. 20 
 
-DS
+III 
 
-Druckschri
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-EBO
+Zugkollision, 07.03.2024, Bf Mannheim Rbf 
 
-Eisenbahn-Bau- und Betriebsordnung
+IV.  Abkürzungsverzeichnis:	
 
-EBuLa
+AEG 
 
-Elektronischer Buchfahrplan und Verzeichnis der vorübergehenden
-Langsamfahrstellen und anderen Besonderheiten
+Abzw 
 
-EFR
+Allgemeines Eisenbahngesetz 
 
-Elektronische Fahrtenregistrierung
+Abzweigstelle 
 
-EIU
+ArbZG 
 
-Eisenbahninfrastrukturunternehmen
+Arbeitszeitgesetz 
 
-Esig
+BEU 
 
-Einfahrsignal
+Bundesstelle für Eisenbahnunfalluntersuchung 
 
-EU
+Bf 
 
-Europäische Union
+B(cid:332) 
 
-EUV
+BR 
 
-Eisenbahn-Unfalluntersuchungsverordnung
+DS 
 
-EVU
+Bahnhof 
 
-Eisenbahnverkehrsunternehmen
+Bahnhofsteil 
 
-Fdl/-in
+Baureihe 
 
-Fahrdienstleiter/Fahrdienstleiterin
+Druckschri(cid:332) 
 
-Fplo
+EBO 
 
-Fahrplananordnung
+Eisenbahn-Bau- und Betriebsordnung 
 
-GSM-R
+EBuLa 
 
-Global System for Mobile Communica ons Rail
+Elektronischer Buchfahrplan und Verzeichnis der vorübergehenden 
+Langsamfahrstellen und anderen Besonderheiten 
 
-HLL
+EFR 
 
-Hauptlu leitung
+EIU 
 
-La
+Esig 
 
-Zusammenstellung der vorübergehenden Langsamfahrstellen und anderen Besonderheiten
+EU 
 
-LE-Halt
+EUV 
 
-Lokführererholungshalt
+EVU 
 
-Ls
+Elektronische Fahrtenregistrierung 
 
-Lichtsperrsignal
+Eisenbahninfrastrukturunternehmen 
 
-LüP
+Einfahrsignal 
 
-Länge über Puﬀer
+Europäische Union 
 
-PZB
+Eisenbahn-Unfalluntersuchungsverordnung 
 
-Punk örmige Zugbeeinflussung
+Eisenbahnverkehrsunternehmen 
 
-IV
+Fdl/-in 
 
-Untersuchungsbericht
-Zugkollision, 07.03.2024, Bf Mannheim Rbf
+Fahrdienstleiter/Fahrdienstleiterin 
 
-Ril
+Fplo 
 
-Richtlinie
+Fahrplananordnung 
 
-SMS
+GSM-R 
 
-Sicherheitsmanagementsystem
+Global System for Mobile Communica(cid:415)ons Rail 
 
-Stw
+HLL 
 
-Stellwerk
+La 
 
-Tf
+Hauptlu(cid:332)leitung 
 
-Triebfahrzeugführer
+Zusammenstellung der vorübergehenden Langsamfahrstellen und an-
+deren Besonderheiten 
 
-TfV
+LE-Halt 
 
-Triebfahrzeugführerscheinverordnung
+Lokführererholungshalt 
 
-Tfz
+Ls 
 
-Triebfahrzeug
+LüP 
 
-Ww/-in
+PZB 
 
-Weichenwärter/Weichenwärterin
+Lichtsperrsignal 
 
-V
+Länge über Puﬀer 
 
-Untersuchungsbericht
-Zugkollision, 07.03.2024, Bf Mannheim Rbf
+Punk(cid:414)örmige Zugbeeinﬂussung 
 
-0 Vorbemerkung
-Auf der Grundlage des Ar kel 24 der Richtlinie (EU) 2016/798 hat die europäische Kommission
-mit der Inkra setzung der Durchführungsverordnung (EU) 2020/572 die Untersuchungsberichtsstruktur festgelegt. Diese Vorgaben sind grundsätzlich einzuhalten. Die Berichtsstruktur
-muss der Art und Schwere des gefährlichen Ereignisses angepasst sein.
-Mit Verkündung der Verordnung und Inkra setzung am zwanzigsten Tag nach der Veröﬀentlichung im Amtsbla der Europäischen Union (EU) ist diese verbindlich und unmi elbar auf
-alle ab dem 17.05.2020 eingeleiteten Untersuchungen anzuwenden.
+IV 
 
-Seite 1 von 32
+ 
+ 
+Untersuchungsbericht 
 
-Untersuchungsbericht
-Zugkollision, 07.03.2024, Bf Mannheim Rbf
+Zugkollision, 07.03.2024, Bf Mannheim Rbf 
 
-1 Zusammenfassung
-Das erste Kapitel enthält eine Kurzbeschreibung des Ereignisses sowie Informa onen zu den
-Folgen, Ursachen sowie zu im Einzelfall ausgesprochenen Sicherheitsempfehlungen.
+Ril 
 
-1.1 Kurzbeschreibung des Ereignisses
-Am 07.03.2024 gegen 09:21 Uhr fuhr DGS 43373 bei der Einfahrt in den Bahnhof (Bf) Mannheim Rbf ohne Zus mmung am Halt zeigenden Lichtsperrsignal (Ls) 602II in der Einfahrgruppe
-K vorbei. Anschließend kollidierte die Zugfahrt auf dem Ablau erg A mit der dort stehenden
-Rangierlok A .
+SMS 
 
-1.2 Folgen
-Die beiden Triebfahrzeugführer (Tf) wurden bei dem Ereignis jeweils leicht verletzt. An den
-Eisenbahnfahrzeugen und der Infrastruktur entstanden Sachschäden.
+Stw 
 
-1.3 Ursachen
-Im Rahmen der Untersuchung des Ereignisses wurden die folgenden Handlungen, Unterlassungen, Vorkommnisse oder Umstände als sicherheitskri sche Faktoren iden fiziert. Diese
-werden gemäß Durchführungsverordnung 2020/572 in ursächliche oder beitragende, und systemische Faktoren unterschieden.
-Eine detaillierte Auswertung des Ereignisses unter Einordnung als sicherheitskri sche Faktoren wird in den folgenden Kapiteln gegeben.
+Tf 
 
-Seite 2 von 32
+TfV 
 
-Untersuchungsbericht
-Zugkollision, 07.03.2024, Bf Mannheim Rbf
+Tfz 
 
-Geschehen:
-Datum/Uhrzeit, sowie
-Handlung / Unterlassen /
-Umstand / Vorkommnis
-07.03.2024, 09:21 Uhr
-Handlung:
-Tf DGS 43373 fuhr am Halt
-zeigenden Ls 602II vorbei
-07.03.2024, 09:21 Uhr
-Umstand:
-Keine infrastruktursei ge
-Ausrüstung des Fahrwegs
-mit Zugbeeinflussungssystemen
+Richtlinie 
 
-Ursächlicher
-Faktor
+Sicherheitsmanagementsystem 
 
-Beitragender
-Faktor
+Stellwerk 
 
-Systemischer
-Faktor
+Triebfahrzeugführer  
 
-Fehlende
-Handlungssicherheit [F1]
+Triebfahrzeugführerscheinverordnung 
 
-Keine Ausrüstung mit
-2.000 Hz-Gleismagnet am
-Zielsignal [F2]
+Triebfahrzeug 
 
-Keine Planungsvorgabe für Ausrüstung
-von Zielsignalen in
-Rbf mit PZB [S2]
+Ww/-in 
 
-Tabelle 1: Zusammenfassung Einflussfaktoren
+Weichenwärter/Weichenwärterin 
 
-1.4 Sicherheitsempfehlungen
-Gemäß § 6 Eisenbahn-Unfalluntersuchungsverordnung (EUV) und Art. 26 Abs. 2 der Richtlinie (EU) 2016/798 ergeht nachfolgende Sicherheitsempfehlung Nr. 16/2025:
-Es wird empfohlen, Sperrsignale, welche regelmäßig für Zugfahrten als Zielsignale genutzt
-werden können, hinsichtlich der Ausrüstung mit 2.000 Hz Gleismagneten einer Risikobetrachtung nach Verordnung (EU) 2018/762 Anh. II Punkt 3.1.1.1. zu unterziehen.
+V 
 
-Seite 3 von 32
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Untersuchungsbericht
-Zugkollision, 07.03.2024, Bf Mannheim Rbf
+Zugkollision, 07.03.2024, Bf Mannheim Rbf 
 
-2 Die Untersuchung und ihr Kontext
-Die Bundesstelle für Eisenbahnunfalluntersuchung (BEU) ist für die Untersuchung von gefährlichen Ereignissen im Eisenbahnbetrieb im Sinne des Kapitels V der Richtlinie (EU) 2016/798
-auf Eisenbahninfrastrukturen des Bundes und auf nicht bundeseigenen Eisenbahninfrastrukturen des übergeordneten Netzes gemäß § 2b Allgemeines Eisenbahngesetz (AEG) zuständig.
-Ziel und Zweck der eingeleiteten Untersuchungen ist es, die Ursachen des gefährlichen Ereignisses aufzuklären und hieraus Hinweise zur Verbesserung der Sicherheit abzuleiten. Untersuchungen der BEU dienen nicht dazu, ein Verschulden festzustellen oder Fragen der Ha ung
-oder sons ger zivilrechtlicher Ansprüche zu klären und werden unabhängig von jeder gerichtlichen Untersuchung durchgeführt.
-Sicherheitsempfehlungen der BEU zur Vermeidung von gefährlichen Ereignissen und Verbesserung der Eisenbahnsicherheit werden an die na onale Sicherheitsbehörde, sofern es die Art
-der Empfehlung erfordert an die Eisenbahnagentur der Europäischen Union und an andere
-Stellen oder Behörden adressiert. Im Allgemeinen sind die Sicherheitsempfehlungen auch an
-die unmi elbar bzw. mi elbar betroﬀenen sowie alle einschlägigen Eisenbahnunternehmen
-gerichtet.
-Zu schweren Unfällen leitet die BEU stets Untersuchungen gem. Ar kel 20 Abs. 1 Richtlinie (EU) 2016/798 ein. Unter einem schweren Unfall sind insbesondere Zugkollisionen oder
-Zugentgleisungen mit mindestens einem Todesopfer oder mindestens fünf Schwerverletzten
-oder mit beträchtlichem Schaden (≥ 2 Mio. Euro) sowie sons ge Unfälle mit den gleichen Folgen und mit oﬀensichtlichen Auswirkungen auf die Regelung der Eisenbahnsicherheit oder das
-Sicherheitsmanagementsystem (SMS) zu verstehen. Bei allen sons gen gefährlichen Ereignissen im Eisenbahnbetrieb liegt es im Ermessen der BEU Untersuchungen einzuleiten. Bei der
-Entscheidung werden neben den zum Ereigniszeitpunkt verfügbaren Ressourcen weitere Kriterien gem. Ar kel 20 Abs. 2 Richtlinie (EU) 2016/798 herangezogen.
-Aufgrund des gegebenen Schadensausmaßes bzw. der Folgen bei dem vorliegenden gefährlichen Ereignis wurden Untersuchungen auf Grundlage des Ar kels 20 Abs. 2 c) Richtlinie (EU)
-2016/798 eingeleitet.
-Die Unfalluntersuchungshandlungen werden strukturiert in vier definierten Kernprozessen
-durchgeführt, die mit der Entscheidung zur Aufnahme einer Untersuchung beginnen und mit
+0  Vorbemerkung	
 
-Seite 4 von 32
+Auf der Grundlage des Ar(cid:415)kel 24 der Richtlinie (EU) 2016/798 hat die europäische Kommission 
 
-Untersuchungsbericht
-Zugkollision, 07.03.2024, Bf Mannheim Rbf
+mit  der  Inkra(cid:332)setzung  der  Durchführungsverordnung (EU) 2020/572  die  Untersuchungsbe-
 
-der Veröﬀentlichung des Untersuchungsberichtes abgeschlossen werden. Zur Ursachenermi lung werden ergebnisoﬀene Untersuchungen in allen beteiligten Fachdisziplinen angestellt und hierbei insbesondere Fehler-Ursachen-Analysen und Soll-Ist-Vergleiche durchgeführt.
-Vom örtlich zuständigen Untersuchungsbezirk Südwest wurden die Untersuchungshandlungen federführend geleitet.
-Sofern im Einzelfall geboten, werden die jeweiligen Untersuchungsteams bezirksübergreifend
-unterstützt und notwendige Sachverständigenleistungen extern beau ragt.
-Im Rahmen der Sachverhaltsermi lung und Ursachenerforschung wurden neben den beteiligten Unternehmen keine weitere Stellen einbezogen.
-Die Durchführung der Unfalluntersuchung setzt voraus, dass alle an dem gefährlichen Ereignis
-Beteiligten den jeweiligen Meldeverpflichtungen gem. § 2 Abs. 3 EUV nachkommen. Die relevanten Informa onen sind durch die zur Meldung Verpflichteten auf dem neuesten Stand zu
-halten.
-Auf Grundlage des § 5b AEG werden i. d. R. weitergehende zur Untersuchungsdurchführung
-erforderliche Informa onen, Auskün e und Nachweise abgefordert. Diese notwendigen Zuarbeiten konnten mi els Auskun sersuchen gewonnen werden.
-Darüber hinaus können nach § 5b Abs. 4 AEG von den an gefährlichen Ereignissen beteiligten
-Eisenbahnen Unterstützungsleistungen eingefordert werden. Bei dem vorliegenden gefährlichen Ereignis wurden keine Unterstützungsleistungen eingefordert.
-Die infrastruktursei ge Freigabe der Unfallstelle erfolgte durch die BEU am 07.03.2024.
+richtsstruktur festgelegt. Diese Vorgaben sind grundsätzlich einzuhalten. Die Berichtsstruktur 
 
-Seite 5 von 32
+muss der Art und Schwere des gefährlichen Ereignisses angepasst sein. 
 
-Untersuchungsbericht
-Zugkollision, 07.03.2024, Bf Mannheim Rbf
+Mit Verkündung der Verordnung und Inkra(cid:332)setzung am zwanzigsten Tag nach der Veröﬀent-
 
-3 Beschreibung des Ereignisses
-Im dri en Kapitel wird das gefährliche Ereignis in zwei vorgegebenen Unterkapiteln näher beschrieben. In Kapitel 3.1 sind neben den Grunddaten weitere Informa onen zum Ereignisort,
-den äußeren Bedingungen, den Beteiligten und den Folgen enthalten. Die Ereignisrekonstrukon sowie Informa onen zur Auslösung und dem Ablauf der Re ungsmaßnahmen sind im
-Kapitel 3.2 dargestellt. Die Beschreibungen beziehen sich grundsätzlich auf die zum Ereigniszeitpunkt vorherrschenden Bedingungen und vorgefundenen Sachverhalte.
+lichung im Amtsbla(cid:425) der Europäischen Union (EU) ist diese verbindlich und unmi(cid:425)elbar auf 
 
-3.1 Informationen über das Ereignis und seine Hintergründe
-Bei dem Ereignis handelt es sich um eine Kollision eines Zuges mit einem Schienenfahrzeug im
-Sinne der Richtlinie (EU) 2016/798.
-Die BEU führt das Ereignis na onal unter der Ereignisart Zugkollision.
-3.1.1 Lage und Beschreibung des Ereignisortes
-Die Ereignisstelle befand sich auf dem Ablau erg A des Bf Mannheim Rbf. Der DGS 43373
-befuhr die Strecke Abzweigstelle (Abzw) Mannheim Rennplatz – Mannheim Rbf. Die Strecke
-wurde im Verzeichnis der örtlich zulässigen Geschwindigkeiten unter der Streckennummer
-4051 geführt. Hierbei handelte es sich um eine Hauptbahn, welche von der Abzw Mannheim
-Rennplatz bis zum B Mannheim Rbf Gr K/Kn zweigleisig ausgeführt war. Sie war mit der
-punk örmigen Zugbeeinflussung (PZB) und dem digitalen Zugfunk Global System for Mobile
-Communic on – Rail (GSM-R) ausgerüstet. Die Höchstgeschwindigkeit betrug 80 km/h bei einem Bremswegabstand von 700 m.
-Die nachfolgende Abbildung zeigt einen Lageplan mit dem Laufweg des DGS 43373 sowie die
-relevanten Betriebsstellen und rot eingekreist die Ereignisstelle.
+alle ab dem 17.05.2020 eingeleiteten Untersuchungen anzuwenden. 
 
-Seite 6 von 32
+Seite 1 von 32 
 
-Untersuchungsbericht
-Zugkollision, 07.03.2024, Bf Mannheim Rbf
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Abbildung 1: Lageplan1
+Zugkollision, 07.03.2024, Bf Mannheim Rbf 
 
-Die nachfolgende Abbildung zeigt eine Gleislageskizze des ereignisrelevanten Teils des
-Bf Mannheim Rbf mit den relevanten Infrastrukturelementen, dem Standort der Rangierlok A sowie dem Laufweg des DGS 43373 bis zum Ls 602II als rote Linie und nach dem Ls 602II
-als rot gestrichelte Linie.
+1  Zusammenfassung	
 
-Abbildung 2: Gleislageskizze2
+Das erste Kapitel enthält eine Kurzbeschreibung des Ereignisses sowie Informa(cid:415)onen zu den 
 
-1
+Folgen, Ursachen sowie zu im Einzelfall ausgesprochenen Sicherheitsempfehlungen. 
 
-Quelle: Geobasisdaten: © GeoBasis-DE / BKG 2024, bearbeitet durch BEU
+1.1  Kurzbeschreibung	des	Ereignisses	
 
-2
+Am 07.03.2024 gegen 09:21 Uhr fuhr DGS 43373 bei der Einfahrt in den Bahnhof (Bf) Mann-
 
-Quelle: DB InfraGO AG, bearbeitet durch BEU
+heim Rbf ohne Zus(cid:415)mmung am Halt zeigenden Lichtsperrsignal (Ls) 602II in der Einfahrgruppe 
 
-Seite 7 von 32
+K vorbei. Anschließend kollidierte die Zugfahrt auf dem Ablau(cid:297)erg A mit der dort stehenden 
 
-Untersuchungsbericht
-Zugkollision, 07.03.2024, Bf Mannheim Rbf
+Rangierlok A(cid:2870). 
 
-Aus der Abbildung ist ersichtlich, dass DGS 43373 vom Einfahrsignal (Esig) C nach Gleis 602 der
-Einfahrgruppe K geleitet wurde. Nach der unzulässigen Vorbeifahrt am Halt zeigenden Ls 602II
-befuhr der Zug die Weichen W323, W324, W325 und W328. In Höhe des Stellwerk (Stw) 16
-auf dem Ablau erg A kollidierte er anschließend mit der dort stehenden Rangierlok A . In der
-Abbildung orange gestrichelt markiert ist der Fahrweg, von dem der Tf des DGS 43373 ausging,
-dass dieser für seine Zugfahrt vorgesehen gewesen wäre.
-Aufgrund seiner Größe war der Bf Mannheim Rbf in fünf Fahrdienstleiterbezirke aufgeteilt.
-Zuständig für den ereignisrelevanten Bezirk des Bf war die Fahrdienstleiterin (Fdl-in) K im Zentralstellwerk West. Hierbei handelte es sich um ein Spurplanstellwerk der Bauart Siemens
-SpDrS60. Zum Fahrdienstleiterbezirk K gehörten das abhängige Stw 16 und das Ablaufstellwerk 17 am Ablau erg A. Zwischen dem Stw K und dem Stw 16 gab es eine Zus mmungsabhängigkeit für Einfahrten in die Gruppe K. Gemäß dem Betriebsstellenbuch waren im Fahrdienstleiterbezirk K Durchfahrten nur über das Gleis 600 zugelassen. Alle anderen Gleise der
-Gruppe K waren Einfahrgleise für endende Züge.
-Die Zugkollision ereignete sich im Zuständigkeitsbereich der Weichenwärterin (Ww-in) im
-Stw 16. Hierbei handelte es sich um ein elektromechanisches Stw der Bauart E43, welches
-durchgängig mit einem Ww besetzt war. Die Grenze zum Stw K bildeten die jeweiligen Ls im
-Ostkopf der Gruppe K.
-3.1.2 Beteiligte
-Die am Ereignis Beteiligten ha en die folgenden Funk onen:
-Für das Eisenbahninfrastrukturunternehmen (EIU) DB InfraGO AG:
-
+1.2  Folgen	
 
-Fdl-in K im Zentralstellwerk West
+Die beiden Triebfahrzeugführer (Tf) wurden bei dem Ereignis jeweils leicht verletzt. An den 
 
-
+Eisenbahnfahrzeugen und der Infrastruktur entstanden Sachschäden. 
 
-Ww-in im Stw 16
+1.3  Ursachen	
 
-Für das Eisenbahnverkehrsunternehmen (EVU) LTE Netherlands B.V. vom Personaldienstleister Westwind Eisenbahnservice GmbH entliehen:
-
+Im Rahmen der Untersuchung des Ereignisses wurden die folgenden Handlungen, Unterlas-
 
-Tf des DGS 43373
+sungen,  Vorkommnisse  oder  Umstände  als  sicherheitskri(cid:415)sche  Faktoren  iden(cid:415)ﬁziert.  Diese 
 
-Für das EVU DB Cargo AG:
-
+werden gemäß Durchführungsverordnung 2020/572 in ursächliche oder beitragende, und sys-
 
-Tf der Rangierlok A
+temische Faktoren unterschieden.  
 
-Seite 8 von 32
+Eine detaillierte Auswertung des Ereignisses unter Einordnung als sicherheitskri(cid:415)sche Fakto-
 
-Untersuchungsbericht
-Zugkollision, 07.03.2024, Bf Mannheim Rbf
+ren wird in den folgenden Kapiteln gegeben. 
 
-3.1.3 Äußere Bedingungen
-Zum Zeitpunkt des Ereignisses herrschten folgende Bedingungen:
-Lichtverhältnisse
+Seite 2 von 32 
 
-Tageslicht
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Sicht
+Zugkollision, 07.03.2024, Bf Mannheim Rbf 
 
-klar
+Geschehen: 
 
-Bedeckung
+Datum/Uhrzeit, sowie 
 
-heiter
+Handlung / Unterlassen 
+Umstand / Vorkommnis 
 
-Temperaturen
+/ 
 
-8°C – 10°C
+07.03.2024, 09:21 
 
-fallender Niederschlag
+Uhr 
 
-Nein
+Handlung: 
 
-Niederschlagshäufigkeit
+Tf DGS 43373 fuhr 
+zeigenden Ls 602II 
 
---
+am Halt 
+vorbei 
 
-Untergrund / gefallener Niederschlag
+07.03.2024, 09:21 Uhr 
 
-trocken
+Umstand: 
 
-Tabelle 2: Übersicht der äußeren Bedingungen
+Keine infrastruktursei(cid:415)ge 
+Ausrüstung des Fahrwegs 
+mit Zugbeeinﬂussungssys-
+temen 
 
-3.1.4 Todesopfer, Verletzte und Sachschäden
-Bei dem Ereignis traten folgend aufgeführte Personenschäden ein:
-Anzahl Tote
+Ursächlicher 
+Faktor 
 
-Anzahl schwer Verletzte
+Beitragender 
+Faktor 
 
-Anzahl leicht Verletzte
+Systemischer 
+Faktor 
 
-Reisende
+Fehlende 
+Handlungssi-
+cherheit [F1] 
 
--
+Keine Ausrüs-
+tung mit 
+2.000 Hz-Gleis-
+magnet am 
+Zielsignal [F2] 
 
--
+Keine Planungsvor-
+gabe für Ausrüstung 
+von Zielsignalen in 
+Rbf mit PZB [S2] 
 
--
+Tabelle 1: Zusammenfassung Einﬂussfaktoren 
 
-Mitarbeiter
+1.4  Sicherheitsempfehlungen	
 
--
+Gemäß  § 6 Eisenbahn-Unfalluntersuchungsverordnung  (EUV)  und  Art. 26  Abs. 2  der  Richtli-
 
--
+nie (EU) 2016/798 ergeht nachfolgende Sicherheitsempfehlung Nr. 16/2025: 
 
-2
+Es  wird  empfohlen,  Sperrsignale,  welche  regelmäßig  für  Zugfahrten  als  Zielsignale  genutzt  
 
-Benutzer von
-Bahnübergängen
+werden können, hinsichtlich der Ausrüstung mit 2.000 Hz Gleismagneten einer Risikobetrach-
 
--
+tung nach Verordnung (EU) 2018/762 Anh. II Punkt 3.1.1.1. zu unterziehen.  
 
--
+Seite 3 von 32 
 
--
+Untersuchungsbericht 
 
-Dri e
+Zugkollision, 07.03.2024, Bf Mannheim Rbf 
 
--
+2  Die	Untersuchung	und	ihr	Kontext	
 
--
+Die Bundesstelle für Eisenbahnunfalluntersuchung (BEU) ist für die Untersuchung von gefähr-
 
--
+lichen Ereignissen im Eisenbahnbetrieb im Sinne des Kapitels V der Richtlinie (EU) 2016/798 
 
-Summe
+auf Eisenbahninfrastrukturen des Bundes und auf nicht bundeseigenen Eisenbahninfrastruk-
 
--
+turen des übergeordneten Netzes gemäß § 2b Allgemeines Eisenbahngesetz (AEG) zuständig. 
 
--
+Ziel und Zweck der eingeleiteten Untersuchungen ist es, die Ursachen des gefährlichen Ereig-
 
-2
+nisses aufzuklären und hieraus Hinweise zur Verbesserung der Sicherheit abzuleiten. Untersu-
 
-Tabelle 3: Übersicht der Personenschäden
+chungen der BEU dienen nicht dazu, ein Verschulden festzustellen oder Fragen der Ha(cid:332)ung 
 
-Die geschätzte Höhe der Sachschäden in Euro setzt sich wie folgt zusammen:
-geschätzte Kosten in Euro
-Fahrzeuge
+oder sons(cid:415)ger zivilrechtlicher Ansprüche zu klären und werden unabhängig von jeder gericht-
 
-91.330
+lichen Untersuchung durchgeführt. 
 
-Infrastruktur
+Sicherheitsempfehlungen der BEU zur Vermeidung von gefährlichen Ereignissen und Verbes-
 
-25.000
+serung der Eisenbahnsicherheit werden an die na(cid:415)onale Sicherheitsbehörde, sofern es die Art 
 
-Dri e
+der Empfehlung erfordert an die Eisenbahnagentur der Europäischen Union und an andere 
 
--
+Stellen oder Behörden adressiert. Im Allgemeinen sind die Sicherheitsempfehlungen auch an 
 
-Gesamtschadenshöhe
+die unmi(cid:425)elbar bzw. mi(cid:425)elbar betroﬀenen sowie alle einschlägigen Eisenbahnunternehmen 
 
-116.330
+gerichtet. 
 
-Tabelle 4: Übersicht der geschätzten Schadenshöhe
+Zu  schweren  Unfällen  leitet  die  BEU  stets  Untersuchungen  gem.  Ar(cid:415)kel 20 Abs. 1 Richtli-
 
-Seite 9 von 32
+nie (EU) 2016/798 ein. Unter einem schweren Unfall sind insbesondere Zugkollisionen oder 
 
-Untersuchungsbericht
-Zugkollision, 07.03.2024, Bf Mannheim Rbf
+Zugentgleisungen mit mindestens einem Todesopfer oder mindestens fünf Schwerverletzten 
 
-3.2 Sachliche Beschreibung der Vorkommnisse
-Zur Rekonstruk on des gefährlichen Ereignisses sowie zur Beschreibung der No allmaßnahmen werden insbesondere auch die in Kapitel 4 enthaltenen Aufzeichnungen, Auswertungen
-und Feststellungen etc. herangezogen.
-3.2.1 Hergangsbeschreibung
-Am 07.03.2024 erteilte die Fdl-in K im Zentralstellwerk West die Zus mmung zur Einfahrt des
-DGS 43373 in den B Mannheim Rbf Gr K/Kn mit Fahrtstellung des Esig C. Das Ziel der Einfahrt
-des DGS 43373 war das Halt zeigende Ls 602II im Stellbereich des Stw 16. Die für das Stw 16
-zuständige Ww-in ha e es am Ereignistag unterlassen, den Tag-Nachtschalter der Signalbeleuchtung von Nacht- auf Tagschaltung umzuschalten. Hierdurch war das Signalbild Halt am
-Ls 602II zum Ereigniszeitpunkt aufgrund der geringeren Lichtstärke gegenüber der Umgebungsbeleuchtung schlechter erkennbar.
-Der Tf des DGS 43373 beschleunigte den Zug nach der Vorbeifahrt am Esig C auf maximal
-40 km/h. Für die Zielsignale in den Gleisen des Bahnho eils (B ) Mannheim Rbf Gr K/Kn gab
-es keine Vorsignalisierung, sodass der DGS 43373 keine 1.000 Hz Beeinflussung der PZB erhielt. Im weiteren Fahrtverlauf habe der Tf nach eigener Aussage das Ls 602II erkannt und es
-als Erloschen wahrgenommen. Unter Missachtung des Handlungsgebots gemäß dem weißrot-weißen Mastschild fuhr der Tf des DGS 43373 um 09:21 Uhr unzulässig am Halt zeigenden
-Ls 602II vorbei. Da das Signal nicht mit einem 2.000 Hz Gleismagneten ausgerüstet war, erhielt
-der DGS 43373 an diesem keine Zwangsbremsung durch die PZB. Anschließend fuhr
-DGS 43373 die Weichen W324 und W325 auf. Erst durch die nicht dem gedachten Fahrweg
-entsprechende Stellung der Weiche W325 erkannte der Tf, dass der Fahrweg in Richtung des
-Ablau ergs A führte, auf dem eine Rangierlok stand. Der Tf des DGS 43373 leitete darau in
-eine Schnellbremsung ein und begab sich in Schutzhaltung. Durch die Schnellbremsung konnte
-die Kollision mit der auf dem Ablau erg A stehenden Rangierlok A jedoch nicht mehr verhindert werden.
-Die nachfolgende Abbildung zeigt die Kollisionsstelle auf dem Ablau erg A entgegen der
-Fahrtrichtung des DGS 43373. Im Hintergrund ist das Gebäude des Stw 16 zu erkennen.
+oder mit beträchtlichem Schaden (≥ 2 Mio. Euro) sowie sons(cid:415)ge Unfälle mit den gleichen Fol-
 
-Seite 10 von 32
+gen und mit oﬀensichtlichen Auswirkungen auf die Regelung der Eisenbahnsicherheit oder das 
 
-Untersuchungsbericht
-Zugkollision, 07.03.2024, Bf Mannheim Rbf
+Sicherheitsmanagementsystem (SMS) zu verstehen. Bei allen sons(cid:415)gen gefährlichen Ereignis-
 
-Abbildung 3: Kollisionsstelle
+sen im Eisenbahnbetrieb liegt es im Ermessen der BEU Untersuchungen einzuleiten. Bei der 
 
-3.2.2 Notfallmanagement
-Nach § 4 Abs. 3 AEG haben die Eisenbahnen die Verpflichtung, an Maßnahmen des Brandschutzes und der technischen Hilfeleistung mitzuwirken. Die Innenministerien der Länder und
-die DB AG haben sich auf folgende Verfahrensweise verständigt. Für die DB InfraGO AG gelten
-die entsprechenden Brand- und Katastrophenschutzgesetze der Länder. Das No allmanagement der DB AG ist in der Konzernrichtlinie 123, das der DB InfraGO AG in der Richtlinie (Ril) 423 näher beschrieben und geregelt.
-Durch die Fdl-in K wurde unmi elbar nach Bekanntwerden des Ereignisses die zuständige Notfallleitstelle hierüber informiert. Durch diese wurde die Re ungske e eingeleitet und der Notfallmanager zur Ereignisstelle beordert. Etwaige Fehler oder Verzögerungen im Rahmen des
-No allmanagements wurden von der BEU nicht festgestellt.
+Entscheidung werden neben den zum Ereigniszeitpunkt verfügbaren Ressourcen weitere Kri-
 
-Seite 11 von 32
+terien gem. Ar(cid:415)kel 20 Abs. 2 Richtlinie (EU) 2016/798 herangezogen. 
 
-Untersuchungsbericht
-Zugkollision, 07.03.2024, Bf Mannheim Rbf
+Aufgrund des gegebenen Schadensausmaßes bzw. der Folgen bei dem vorliegenden gefährli-
 
-4 Auswertung des Ereignisses
-In diesem Kapitel werden insbesondere die im Rahmen der Unfalluntersuchung ermi elten
-maßgeblichen sicherheitskri schen Faktoren dargestellt. Hierbei wird im jeweiligen Einzelfall
-auf die Aufgaben und Pflichten einzelner Personen und Stellen, auf beteiligte Fahrzeuge und
-technische Einrichtungen genauso eingegangen wie auf konkrete menschliche Handlungen
-sowie auf Feedback- und Kontrollmechanismen. Sofern Informa onen zu früheren Ereignissen
-vorliegen, werden diese in einem weiteren Unterkapitel dargestellt.
+chen Ereignis wurden Untersuchungen auf Grundlage des Ar(cid:415)kels 20 Abs. 2 c) Richtlinie (EU) 
 
-4.1 Aufgaben und Pflichten
-In diesem Kapitel werden unbeschadet des Ar kels 20 Abs. 4 der Richtlinie (EU) 2016/798 die
-Aufgaben und Pflichten von Personen und Stellen behandelt, die an dem Ereignis beteiligt waren. Untersuchungen zu Schuld- oder Ha ungsfragen sind explizit ausgeschlossen und nicht
-Untersuchungsgegenstand.
-4.1.1 Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers
-Die Kollision ereignete sich im Zuständigkeitsbereich der Ww-in im Stw 16. Die Zus mmung
-zur Einfahrt des DGS 43373 in den Bf Mannheim Rbf wurde durch die Fdl-in K erteilt. Dementsprechend waren die Handlungen der Ww-in und der Fdl-in zu betrachten. Das verantwortliche EIU DB InfraGO AG verfügte über eine Sicherheitsgenehmigung gemäß § 7c AEG, die bis
-zum 19.10.2026 gül g war. Das EIU war somit berech gt, Eisenbahninfrastruktur im übergeordneten Netz zu betreiben.
-Am Ereignistag fand ein bundesweiter, befristeter Streik der Gewerkscha Deutscher Lokomo vführer sta . Von dem Streik waren neben verschiedenen EVU auch das EIU DB InfraGO
-AG betroﬀen.
-Für den DGS 43373 waren am Ereignistag insgesamt vier Fahrplananordnungen (Fplo) gül g.
-Aus den Fplo resul erten verschiedene Umleitungen der Zugfahrt in den Regionalbereichen
-West, Mi e und Südwest. Die vierte Fplo mit der Nr. 50546_SW_LTE NL wurde einen Tag vor
-dem Ereignis durch einen weiteren Nachtrag Fplo Nr. 50546_SW_LTE NL_N1, und somit der
-fün en Fplo für diesen Zug, ersetzt. Gemäß diesem Nachtrag wurde DGS 43373 u. a. am Ereignistag ab dem Bf Lampertheim über den Bf Mannheim-Käfertal und der Abzw Mannheim
-Rennplatz in den B Mannheim Rbf Gr K/Kn umgeleitet. Dort sollte die Zugfahrt einen Fahrtrichtungswechsel durchführen, und dann in den Zielbahnhof Bf Mannheim Hbf weiterfahren.
+2016/798 eingeleitet. 
 
-Seite 12 von 32
+Die  Unfalluntersuchungshandlungen  werden  strukturiert  in  vier  deﬁnierten  Kernprozessen 
 
-Untersuchungsbericht
-Zugkollision, 07.03.2024, Bf Mannheim Rbf
+durchgeführt, die mit der Entscheidung zur Aufnahme einer Untersuchung beginnen und mit 
 
-Fdl‐in im Stw K
-Der Fdl-in K lag am Ereignistag die fün e Fplo Nr. 50546_SW_LTE NL_N1 nicht vor, sodass sie
-über keinen gül gen Fahrplan für den DGS 43373 verfügte. Weshalb die fün e Fplo am Ereignistag in der Fplo-Datenbank nicht angekommen war konnte durch das EIU nicht geklärt werden. Nach Aussage der Fdl-in K habe sie in Absprache mit der Netzkoordina on in der Betriebszentrale entschieden, den DGS 43373 von der freien Strecke nach Gleis 602 des Bf
-Mannheim Rbf einfahren zu lassen.
-Neben dem Einstellen der entsprechenden Zugstraße, musste die Fdl-in sich die Zus mmung
-für die Einfahrt bei der Ww-in im Stw 16 einholen. Die Zus mmungsauﬀorderung und der Zus mmungsempfang waren über die Stellwerkstechnik der beiden Stw realisiert. Eine mündliche Kommunika on zwischen den beiden Mitarbeiterinnen war nicht notwendig. Nachdem
-die Fdl-in die Zus mmung der Ww-in erhalten ha e und der Fahrweg festgelegt war, erteilte
-sie durch Fahrtstellung am Esig C dem DGS 43373 die Zus mmung zur Einfahrt nach Gleis 602.
-Parallel habe die Fdl-in eine weitere Einfahrt eines anderen Zuges sowie eine Rangierfahrt in
-ihrem Bezirk gehabt. Sie habe aus dem Augenwinkel später bemerkt, dass DGS 43373 seine
-Geschwindigkeit zum Anhalten vor dem Ls 602II nicht verringert habe. Als sie au lickte, sei
-der Zug bereits auf dem Ablau erg A in Höhe des Stw 16 gewesen. Nach der Zugkollision sei
-sie von mehreren Stellen aufgefordert worden, Fremdre ungskrä e anzufordern.
-Ww‐in im Stw 16
-Gemäß den We eraufzeichnungen begann am Ereignistag ca. um 07:00 Uhr der Sonnenaufgang. Bis zu diesem Zeitpunkt war die Nachtschaltung der Lichtsignale ak v. Ab einem im Regelwerk unbes mmten Zeitpunkt nach dem Sonnenaufgang, wenn genügend Sonnenlicht vorhanden war, hä e die Ww-in die Lichtsignale von der Nacht- auf die Tagschaltung umschalten
-müssen. Nach Auskun des EIU gab es für den Zeitpunkt des Umstellens zwischen Nacht- und
-Tagschaltung der Lichtsignale keine explizite Vorgabe. Da das Stw 16 über keinen Dämmerungsschalter verfügte lag es somit im Ermessen der Ww-in die Signale in Abhängigkeit von
-der Helligkeit und den Wi erungsverhältnissen auf Tagschaltung umzustellen. Die Ww-in
-stellte jedoch bis zum Ereigniszeitpunkt nicht auf die Tagschaltung um, so dass die Erkennbarkeit der Signallampen durch die zunehmende Helligkeit der Umgebung schlechter wurde. Am
-15.03.2024 wurde hierzu eine Versuchsfahrt mit einem baugleichen Triebfahrzeug (Tfz) der
+Seite 4 von 32 
 
-Seite 13 von 32
+ 
+ 
+Untersuchungsbericht 
 
-Untersuchungsbericht
-Zugkollision, 07.03.2024, Bf Mannheim Rbf
+Zugkollision, 07.03.2024, Bf Mannheim Rbf 
 
-Baureihe (BR) 186 durchgeführt, wie es dem des DGS 43373 am Ereignistag entsprach. Anwesend waren neben zwei Mitarbeitern der BEU auch Mitarbeiter der beteiligten EVU und des
-EIU. Die Versuchsfahrt wurde im Zeitraum des Ereigniszeitpunktes mit eingeschalteter Nachtund anschließend mit eingeschalteter Tagschaltung durchgeführt. Die Lichtverhältnisse waren
-vergleichbar zum Ereigniszeitpunkt. Die nachfolgende Abbildung zeigt den Unterschied des
-Signalbildes Halt des Ls 602II bei Nacht- und Tagschaltung. Zu beachten ist, dass die Fotos einen nicht iden schen Blickwinkel des Signals zeigen.
+der  Veröﬀentlichung  des  Untersuchungsberichtes  abgeschlossen  werden.  Zur  Ursachener-
 
-Abbildung 4: Ls 602II Nacht- und Tagschaltung
+mi(cid:425)lung  werden  ergebnisoﬀene  Untersuchungen  in  allen  beteiligten  Fachdisziplinen  ange-
 
-Bei der Versuchsfahrt wurde analog der Zugfahrt DGS 43373 entsprechend das Gleis 602
-durchfahren. Das Signalbild des Halt zeigenden Ls 602II war bei der Tagschaltung aus der Posi on des Tf weithin erkennbar. Demgegenüber war es bei der Nachtschaltung bei Annäherung erst kurz vor dem Erreichen des Signalkörpers zweifelsfrei zu erkennen. Das am Signalmast angebrachte weiß-rot-weiße Mastschild war bei beiden Fahrten weithin gut sichtbar.
-Die Erkennbarkeit von Signalbildern spielt bei den meisten Zugbeeinflussungssystemen eine
-grundlegende Rolle, so auch im Falle der bei DGS 43373 eingesetzten PZB. Im Fall des Ereignisses im Bf Mannheim Rbf kam der Erkennbarkeit der Signalbilder nochmals eine gesteigerte
-Bedeutung zu, da die Zielsignale weder vorangekündigt wurden noch mit einem 2.000 Hz
-Gleismagneten ausgerüstet waren. In vielen Stw erfolgt der Umschaltvorgang zwischen Tagund Nachtschaltung der Signalbeleuchtung über einen Lichtsensor automa sch oder das Stw-
+stellt  und  hierbei  insbesondere  Fehler-Ursachen-Analysen  und  Soll-Ist-Vergleiche  durchge-
 
-Seite 14 von 32
+führt. 
 
-Untersuchungsbericht
-Zugkollision, 07.03.2024, Bf Mannheim Rbf
+Vom örtlich zuständigen Untersuchungsbezirk Südwest wurden die Untersuchungshandlun-
 
-Personal wird über einen Wecker an das Umstellen erinnert. Im Stw 16 des Bf Mannheim Rbf
-waren solche technischen Systeme nicht verbaut. Durch das EIU sollte geprü werden ob eine
-entsprechende Nachrüstung auf allen Stw, die nicht mit solchen unterstützenden technischen
-Systemen ausgerüstet sind, verhältnismäßig ist.
-Nachdem die Ww-in die Zus mmungsauﬀorderung der Fdl-in für die Einfahrt nach Gleis 602
-erhalten ha e, habe sie den Fahrweg auf Freisein von Fahrzeugen geprü . Der Durchrutschweg endete am Grenzzeichen der Weiche W323, sodass die Weiche nicht Teil des Fahrstraßenverschlusses war. Anschließend habe sie durch Bedienung der Zus mmungsabgabetaste
-in Verbindung mit der entsprechenden Taste für Gleis 602 der Fdl-in ihre Zus mmung zur Einfahrt nach Gleis 602 erteilt. Währenddessen sei der Ablau etrieb mit der Rangierlok A auf
-Gleis 605 weitergelaufen. In Absprache mit dem Bergmeister A sei vereinbart worden, dass
-Rangierlok A auf dem Ablau erg A eine Pause einlegt.
-Als die Ww-in den am Halt zeigenden LS 602II vorbeifahrenden DGS 43373 bemerkte, konnten
-keine geeigneten Maßnahmen bei Gefahr mehr ergriﬀen werden. Sie habe die Weichenwecker als Auﬀahrmeldung klingeln hören und anschließend sei es zur Kollision mit der Rangierlok A gekommen. Sie habe darau in die Fdl-in K über das Ereignis informiert und Fremdrettungsmi el sowie den No allmanager angefordert.
-4.1.2 Untersuchung der betrieblichen Abläufe der EVU
-Im nachfolgenden Kapitel werden die betrieblichen Abläufe der am Ereignis beteiligten Zugfahrt DGS 43373 dargestellt. Auf die Darstellung der betrieblichen Abläufe der Rangierlok A
-wird verzichtet, da sie keinen Einfluss auf das Ereignis ha en. Die Rangierlok A stand zum
-Ereigniszeitpunkt auf dem Ablau erg A, die Bremsen waren angelegt. Der Tf befand sich noch
-auf dem Tfz.
-Die LTE Netherlands B.V. war das verantwortliche EVU für die Zugfahrt DGS 43373 und verfügte über eine gül ge Sicherheitsbescheinigung gemäß § 7a AEG mit einer Gül gkeit bis zum
-22.02.2029. Das EVU war damit zur Teilnahme am Eisenbahnbetrieb des übergeordneten Netzes berech gt.
-DGS 43373 verkehrte planmäßig von Ro erdam Waalhaven (Niederlande) nach Mannheim Hbf. Gemäß Fahrplan sollte die Zugfahrt die Bahnverwaltungsgrenze zwischen Venlo und
-Bf Kaldenkirchen überqueren. Aufgrund der in Kapitel 4.1.1 genannten Fplo für den
-DGS 43373 fanden mehrere Umleitungen des Zuges sta . Daher wurde der Zug über den
+gen federführend geleitet. 
 
-Seite 15 von 32
+Sofern im Einzelfall geboten, werden die jeweiligen Untersuchungsteams bezirksübergreifend 
 
-Untersuchungsbericht
-Zugkollision, 07.03.2024, Bf Mannheim Rbf
+unterstützt und notwendige Sachverständigenleistungen extern beau(cid:332)ragt. 
 
-Grenzbahnhof Emmerich geleitet. Im Bf Emmerich fand ein Tf-Wechsel sta und der übernehmende Tf sollte die Zugfahrt bis zum Zielbahnhof Mannheim Hbf fahren. Der Tf gab in einer
-Befragung gegenüber dem EVU an, dass er am Ereignistag den Regelfahrplan des Zuges auf
-dem Bordgerät des elektronischen Buchfahrplans und Verzeichnis der Langsamfahrstellen (EBuLa) geladen ha e. Die Fplo haben ihm auf seinem dienstlichen Mobiltelefon zur Verfügung
-gestanden. Für die Anzeige der Ersatzfahrpläne und die Zusammenstellung der vorübergehenden Langsamfahrstellen und anderen Besonderheiten (La) habe er entsprechend den Vorgaben des EVU ein Tablet genutzt.
-Der Tf des DGS 43373 musste für die Zugfahrt somit drei verschiedene Geräte nutzen, um den
-an diesem Tag gül gen Laufweg des Zuges angezeigt zu bekommen. Die Notwendigkeit der
-Nutzung einer solchen Anzahl an verschiedenen Geräten zur Darstellung des Laufwegs für eine
-Zugfahrt ist sehr kri sch zu sehen. Insbesondere die Nutzung des Mobiltelefons für eine konstante Anzeige von Fahrplanunterlagen ist unzweckmäßig, da durch eine anderwei ge Nutzung des Gerätes, wie z. B. telefonieren oder die Nutzung anderer Applika onen, die Fahrplanunterlagen temporär nicht mehr angezeigt werden würden. EVU müssen dafür Sorge tragen, dass den Tf alle für die Zugfahrt erforderlichen Unterlagen bereitgestellt und in einer geeigneten Form dargestellt werden.
-Nach Angabe des EVU seien dem Tf die verschiedenen für den DGS 43373 gül gen Fplo via EMail vor seinem Dienstantri übermi elt worden. Die fün e Fplo mit der Nr. 50546_SW_LTE
-NL_N1 sei dem Tf durch die den Au rag gebende Stelle jedoch nicht übermi elt worden. Somit stand dem Tf für den letzten Fahrtabschni bis Bf Mannheim Hbf nur die vierte Fplo mit
-der Nr. 50546_SW_LTE NL zur Verfügung. Gemäß dieser vierten Fplo sollte DGS 43373 ab dem
-Bf Lampertheim nach dem Buchfahrplan 6920 Seite 170 Spalte 2d fahren und wäre ab der
-Abzw Mannheim Rennplatz ohne Fahrtrichtungswechsel im Bf Mannheim Rbf direkt in den
-Zielbahnhof Bf Mannheim Hbf geleitet worden.
-Gemäß der dem Tf nicht vorliegenden fün en Fplo sollte DGS 43373 abweichend bis in die
-Gruppe K des Bf Mannheim Rbf fahren und nach einem Fahrtrichtungswechsel weiter nach Bf
-Mannheim Hbf fahren. Die planmäßige Aufenthaltszeit im Bf Mannheim Rbf war von
-09:06 Uhr bis 09:46 Uhr vorgesehen, also mit einem ausreichenden Zei enster für den Fahrtrichtungswechsel.
+Im Rahmen der Sachverhaltsermi(cid:425)lung und Ursachenerforschung wurden neben den beteilig-
 
-Seite 16 von 32
+ten Unternehmen keine weitere Stellen einbezogen. 
 
-Untersuchungsbericht
-Zugkollision, 07.03.2024, Bf Mannheim Rbf
+Die Durchführung der Unfalluntersuchung setzt voraus, dass alle an dem gefährlichen Ereignis 
 
-Der Tf des DGS 43373 gab jedoch gegenüber dem EVU an, auch die vierte Fplo
-Nr. 50546_SW_LTE NL nach dem Bf Lampertheim aus den Augen verloren zu haben. Er sei
-auch nach der Abzw Mannheim Rennplatz nach dem Buchfahrplan 6920 weitergefahren, welcher die Einfahrt in den B Mannheim Rbf Gr K/Kn vorsah. Somit erkannte der Tf des
-DGS 43373 die vermeintliche Fehlleitung gemäß dem Laufweg der vierten Fplo
-Nr. 50546_SW_LTE NL nicht, fuhr jedoch zufällig auf dem nach der gül gen fün en Fplo
-Nr. 50546_SW_LTE NL_N1 eigentlich vorgesehenen Laufweg des Zuges.
-Fplo sind u. a. zum Umleiten von Zugfahrten zur Durchführung von Bauarbeiten notwendig.
-Es muss jedoch gewährleistet sein, dass die Beachtung der Anzahl der bei einer Zugfahrt zu
-beachtenden Fplo durch das EVU und den Tf beherrscht werden kann. Im vorliegenden Fall
-erhielten weder der Tf des DGS 43373 noch die Fdl-in K die am Vortag des Ereignisses versendete fün e Fplo Nr. 50546_SW_LTE NL_N1, wodurch sich auch Probleme in deren Verteilung
-aufzeigten. Je mehr Änderungen an Fplo vorgenommen werden und je mehr Beteiligte und
-Schni stellen es bei der Übersendung dieser gibt, desto höher ist die Fehlerwahrscheinlichkeit. Das EIU sollte zukün ig daher anstreben die Anzahl an Fplo für eine Zugfahrt gering zu
-halten bzw. zu begrenzen.
-Der Tf gab weiter an, mit dem DGS 43373 vor dem Halt zeigenden Esig C des Bf Mannheim Rbf
-zum Halten gekommen zu sein. Nachdem dieses in die Stellung Langsamfahrt gewechselt sei,
-habe er den Zug wieder in Bewegung gesetzt. Am Ende des Einfahrgleises habe er ein erloschenes hochstehendes Sperrsignal [red. Anm.: das Ls 602II] wahrgenommen und dies mit einem möglichen Streik des Betriebspersonals auf einem Stw in Verbindung gebracht, von dem
-ihm kurz zuvor berichtet worden sei. Das Signalbild Halt habe er nicht erkannt. Ebenfalls habe
-er das an dem hochstehenden Sperrsignal angebrachte weiß-rot-weiße Mastschild nicht wahrgenommen. Er sei davon ausgegangen, dass sein Zug links am Stw 16 vorbei in eine andere
-Gleisgruppe des Bf Mannheim Rbf weiterfahren solle. In seiner Auﬀassung sei er durch die
-nicht vorhandene Beeinflussung des 1.000 Hz und des 2.000 Hz Gleismagneten bestärkt worden. Nach der unzulässigen Vorbeifahrt am Ls 602II habe er erkannt, dass die Weiche W325
-sich für seinen angenommenen Fahrweg nicht in der rich gen Stellung befand und der Fahrweg des DGS 43373 in Richtung einer Rangierlok auf dem Ablau erg A führte. Darau in habe
-er eine Schnellbremsung eingeleitet und sich festgehalten.
+Beteiligten den jeweiligen Meldeverpﬂichtungen gem. § 2 Abs. 3 EUV nachkommen. Die rele-
 
-Seite 17 von 32
+vanten Informa(cid:415)onen sind durch die zur Meldung Verpﬂichteten auf dem neuesten Stand zu 
 
-Untersuchungsbericht
-Zugkollision, 07.03.2024, Bf Mannheim Rbf
+halten. 
 
-Der Tf hä e den DGS 43373 vor dem Halt zeigenden Ls 602II anhalten müssen. Gemäß
-Ril 301.0101 Abschn. 1 Abs. 1 galt das Signal Halt für Zug- und Rangierfahrten und konnte gemäß Ril 301.0101 Abschn. 2 Abs. 4 am Hauptsignal oder am Sperrsignal gezeigt werden. An
-dem Ls 602II war ein weiß-rot-weißes Mastschild angebracht. Gemäß Ril 301.0002 Abschn. 8 Abs. 1 a) waren Lichtsignale, an deren Standort bei Halt oder einem erloschenen Signalbild zu halten war, durch ein weiß-rot-weißes Mastschild gekennzeichnet. Dementsprechend galt für den Tf auch am vermeintlich erloschenen Ls 602II ein zwingender Halt vor diesem Signal. Die festgestellten Handlungen des Tf bei der Einfahrt in den Bf Mannheim Rbf
-zeigten entgegen Verordnung (EU) 2018/762 Anhang I Ziﬀ. 4.2.1 eine mangelnde Befähigung
-des Tf zur Erfüllung ihm übertragener sicherheitsrelevanter Aufgaben.
-Die fehlende Handlungssicherheit, insbesondere die Vorbeifahrt des Tf am Halt zeigenden
-Ls 602II, wird als ursächlicher Faktor [F1] für das Geschehen gewertet. Der Ausschluss dieser
-Handlung hä e das Ereignis aller Wahrscheinlichkeit nach verhindert.
-Auswertung der elektronischen Fahrtenregistrierung
-Die im führenden Tfz der BR 186 gespeicherten Daten der elektronischen Fahrtenregistrierung
-(EFR) wurden vom EVU ausgelesen und der BEU zur Auswertung übersandt. Die Rohdaten waren vollständig und fehlerfrei. Ein genauer Uhrzeitabgleich war nicht möglich. Die registrierten
-Zeitdaten passten jedoch zu den Daten anderer Quellen mit einer Abweichung von einer
-Stunde.
-Die nachfolgende Abbildung zeigt den Fahrtverlauf des DGS 43373 von der Abfahrt im Bf Emmerich bis zur Zugkollision im Bf Mannheim Rbf, normiert auf die mi eleuropäische Zeit.
+Auf Grundlage des § 5b AEG werden i. d. R. weitergehende zur Untersuchungsdurchführung 
 
-Abbildung 5: Fahrtverlauf DGS 43373 von Bf Emmerich bis Bf Mannheim Rbf
+erforderliche Informa(cid:415)onen, Auskün(cid:332)e und Nachweise abgefordert. Diese notwendigen Zu-
 
-Seite 18 von 32
+arbeiten konnten mi(cid:425)els Auskun(cid:332)sersuchen gewonnen werden. 
 
-Untersuchungsbericht
-Zugkollision, 07.03.2024, Bf Mannheim Rbf
+Darüber hinaus können nach § 5b Abs. 4 AEG von den an gefährlichen Ereignissen beteiligten 
 
-Aus der Abbildung ist ersichtlich, dass der Tf um 02:27 Uhr nach seinem Dienstbeginn im Bf
-Emmerich seine Tf-Nummer in das Fahrzeuggerät eingab. Um 02:38 Uhr setzte der Tf die Fahrt
-des DGS 43373 fort. Im weiteren Fahrtverlauf von Emmerich bis Mannheim kam es zu mehreren kurzen Standzeiten der Zugfahrt. Die längste dauerte 10 Minuten und 49 Sekunden.
-Die nachfolgende Abbildung zeigt den Fahrtverlauf des DGS 43373 im letzten Fahrabschni
-im Großraum Mannheim bis zum Ereigniszeitpunkt normiert auf die mi eleuropäische Zeit.
+Eisenbahnen Unterstützungsleistungen eingefordert werden. Bei dem vorliegenden gefährli-
 
-Abbildung 6: Fahrtverlauf DGS 43373 bis zum Ereigniszeitpunkt
+chen Ereignis wurden keine Unterstützungsleistungen eingefordert. 
 
-Aus den aufgezeichneten Daten der EFR war ersichtlich, dass DGS 43373 um 09:18 Uhr vor
-dem Esig C zum Halten gekommen war. 13 Sekunden danach wurde der Zug durch den Tf
-wieder in Bewegung gesetzt und auf eine maximale Geschwindigkeit von 40 km/h beschleunigt. Um 09:21 Uhr sank der Druck in der Hauptlu leitung (HLL) unter 3,5 bar. Der Tf ha e
-unmi elbar zuvor eine Schnellbremsung eingeleitet. Darau in verringerte sich die Geschwindigkeit des DGS 43373 und der Zug kam um 09:21 Uhr zum Halten. Wann und mit welcher
-Geschwindigkeit DGS 43373 mit der Rangierlok A kollidierte ließ sich aus den aufgezeichneten Fahrdaten nicht genauer bes mmen.
+Die infrastruktursei(cid:415)ge Freigabe der Unfallstelle erfolgte durch die BEU am 07.03.2024. 
 
-4.2 Fahrzeuge und technische Einrichtungen
-In diesem Kapitel sind die Erkenntnisse aus der Untersuchung beteiligter Fahrzeuge, der Eisenbahninfrastruktur und weiterer technischer Einrichtungen einschließlich damit eventuell
-verbundener Tä gkeiten und Entscheidungen dargestellt.
+Seite 5 von 32 
 
-Seite 19 von 32
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Untersuchungsbericht
-Zugkollision, 07.03.2024, Bf Mannheim Rbf
+Zugkollision, 07.03.2024, Bf Mannheim Rbf 
 
-4.2.1 Untersuchung von Fahrzeugen
-Nachfolgend erfolgt die Darstellung der relevanten Erkenntnisse zu den Fahrzeugen der beteiligten Zugfahrt DGS 43373 und der Rangierlok A .
-DGS 43373
-Der DGS 43373 war aus einem arbeitenden Tfz der BR 186 und 28 beladenen und leeren Güterwagen gebildet. Die Gesamtmasse des Zuges betrug 955 t bei einer Gesamtlänge von
-633 m. Im Fahrplan waren die Bremsstellung G und 100 km/h Höchstgeschwindigkeit vorgegeben. Die Zugfahrt des DGS 43373 wurde entsprechend der Regelung gemäß
-Ril 915.0101Z01 Abschn. 2 Abs. 2 in der Bremsstellung P durchgeführt. Die Bremsberechnung
-ergab 87 Bremshundertstel. Gemäß Fahrplan waren 69 Mindestbremshundertstel erforderlich.
-Aus der folgenden Tabelle lassen sich die technischen Fahrzeugdaten des arbeitenden Tfz entnehmen:
-Fahrzeugnummer
+3  Beschreibung	des	Ereignisses	
 
-91 80 6186 110-3
+Im dri(cid:425)en Kapitel wird das gefährliche Ereignis in zwei vorgegebenen Unterkapiteln näher be-
 
-Antriebsart
+schrieben. In Kapitel 3.1 sind neben den Grunddaten weitere Informa(cid:415)onen zum Ereignisort, 
 
-elektrisch
+den äußeren Bedingungen, den Beteiligten und den Folgen enthalten. Die Ereignisrekonstruk-
 
-Leistung
+(cid:415)on  sowie  Informa(cid:415)onen  zur  Auslösung  und  dem  Ablauf  der  Re(cid:425)ungsmaßnahmen  sind  im 
 
-5,6 MW
+Kapitel 3.2 dargestellt. Die Beschreibungen beziehen sich grundsätzlich auf die zum Ereignis-
 
-Gesamtlänge (LüP)
+zeitpunkt vorherrschenden Bedingungen und vorgefundenen Sachverhalte. 
 
-18,9 m
+3.1  Informationen	über	das	Ereignis	und	seine	Hintergründe	
 
-Masse
+Bei dem Ereignis handelt es sich um eine Kollision eines Zuges mit einem Schienenfahrzeug im 
 
-84 t
+Sinne der Richtlinie (EU) 2016/798. 
 
-Höchstgeschwindigkeit
+Die BEU führt das Ereignis na(cid:415)onal unter der Ereignisart Zugkollision. 
 
-140 km/h
+3.1.1  Lage	und	Beschreibung	des	Ereignisortes	
 
-Bremsbauart
+Die Ereignisstelle befand sich auf dem Ablau(cid:297)erg A des Bf Mannheim Rbf. Der DGS 43373 
 
-KE-GPR-E mZ
+befuhr die Strecke Abzweigstelle (Abzw) Mannheim Rennplatz – Mannheim Rbf. Die Strecke 
 
-Tabelle 5: Technische Daten Tfz BR 186
+wurde  im  Verzeichnis  der  örtlich  zulässigen  Geschwindigkeiten  unter  der  Streckennummer 
 
-Nach Angabe des EVU lagen zum Ereigniszeitpunkt an den Fahrzeugen des DGS 43373 keine
-Störungen vor, die einen Einfluss auf das Ereignis gehabt haben könnten. Die Bremsen aller
-Fahrzeuge im Zug waren eingeschaltet.
-Auf eine weiterführende fahrzeugtechnische Untersuchung der eingesetzten Eisenbahnfahrzeuge wurde verzichtet, da auf Grundlage der Sachverhaltsermi lung etwaige Mängel oder
-Instandhaltungsdefizite keinen Einfluss auf das Ereignis gehabt haben können. Somit konnten
-die Eisenbahnfahrzeuge des DGS 43373 weder einen ursächlichen noch einen beitragenden
-Faktor im Geschehen darstellen.
+4051 geführt. Hierbei handelte es sich um eine Hauptbahn, welche von der Abzw Mannheim 
 
-Seite 20 von 32
+Rennplatz  bis  zum  B(cid:332) Mannheim Rbf Gr K/Kn  zweigleisig  ausgeführt  war.  Sie  war  mit  der 
 
-Untersuchungsbericht
-Zugkollision, 07.03.2024, Bf Mannheim Rbf
+punk(cid:414)örmigen Zugbeeinﬂussung (PZB) und dem digitalen Zugfunk Global System for Mobile 
 
-Rangierlok 𝐀 𝟐
-Bei der am Ereignis beteiligten Rangierlok A handelte es sich um ein Tfz der BR 296 mit einer
-Masse von 80 t. Das Tfz stand zum Ereigniszeitpunkt und war angebremst. Durch die Kollision
-wurde das Tfz um mehrere Meter verschoben.
-Auf eine fahrzeugtechnische Untersuchung des eingesetzten Eisenbahnfahrzeugs wurde verzichtet, da auf Grundlage der Sachverhaltsermi lung etwaige Mängel oder Instandhaltungsdefizite keinen Einfluss auf das Ereignis gehabt haben können. Somit konnte das Tfz der Rangierlok A weder einen ursächlichen noch einen beitragenden Faktor im Geschehen darstellen.
-4.2.2 Untersuchung der bautechnischen Infrastruktur
-Aufgrund der Erkenntnisse zum Ereignishergang und der Sachverhaltsermi lung konnte auf
-eine weiterführende oberbautechnische Untersuchung verzichtet werden. Instandhaltungsdefizite im Zusammenhang mit dem Ereignis waren auszuschließen.
-4.2.3 Untersuchung der Leit‐ und Sicherungstechnik
-Zielsignal für die Zugfahrt DGS 43373 im Bf Mannheim Rbf war das Halt zeigende Ls 602II im
-Gleis 602. Gemäß Ril 819.0302 Abschn. 2 Abs. 2 und 5 dur e ein als Lichtsignal ausgeführtes
-hochstehendes Sperrsignal u. a. als Zielsignal für Güter- oder Reisezugeinfahrten bis 40 km/h
-verwendet werden. Es musste gemäß Ril 819.0302 Abschn. 2 Abs. 3 unmi elbar rechts neben
-dem zugehörigen Gleis und gemäß Ril 819.0302 Abschn. 2 Abs. 5 als hohe Bauform am geplanten Zielpunkt der Zugfahrt aufgestellt werden. Das Ls 602II erfüllte somit baulich die entsprechenden Vorgaben der Ril 819.0302.
-Ausrüstung mit 2.000 Hz‐Gleismagnet
-Die hochstehenden Ls der Gleisgruppe 600 verfügten über keinen 2.000 Hz Gleismagneten,
-welcher zu einer Zwangsbremsung des Zuges bei der unzulässigen Vorbeifahrt an dem Halt
-zeigenden Signal geführt hä e. Gemäß Ril 819.1310 Abschn. 9 Abs. 2 waren an Sperrsignalen
-in den Einfahrgleisen von Rangierbahnhöfen, die Zielpunkt für Zugfahrten waren, keine
-2.000 Hz Gleismagneten anzuordnen. Dies steht im Widerspruch zum § 15 Abs. 2 EBO wonach
-Strecken mit Zugbeeinflussung auszurüsten sind. Strecken im Sinne der EBO umfassen sowohl
-die freie Strecke als auch Betriebsstellen. Ausnahmen hiervon sieht der Verordnungsgeber
-nicht vor. Dieser Umstand, wonach es im B Mannheim Rbf Gr K/Kn keine Ausrüstung mit
+Communic(cid:415)on – Rail (GSM-R) ausgerüstet. Die Höchstgeschwindigkeit betrug 80 km/h bei ei-
 
-Seite 21 von 32
+nem Bremswegabstand von 700 m. 
 
-Untersuchungsbericht
-Zugkollision, 07.03.2024, Bf Mannheim Rbf
+Die nachfolgende Abbildung zeigt einen Lageplan mit dem Laufweg des DGS 43373 sowie die 
 
-2.000 Hz Gleismagneten der Zielsignale gab, führte dazu, dass bei der unzulässigen Vorbeifahrt keine Zwangsbremsung der Zugfahrt ausgelöst wurde. Dies wird als ein ursächlicher Faktor [F2] für die Kollision gewertet. Der Ausschluss dieses Umstandes hä e das Ereignis aller
-Wahrscheinlichkeit nach verhindert.
-Vorsignalisierung
-Das Signalisierungskonzept im Bf Mannheim Rbf ha e u. a. die Besonderheit, dass es keine
-Vorsignalisierung für die hochstehenden Sperrsignale der Gleisgruppe 600 gab. Dies stand ursprünglich im Einklang mit der zur Zeiten der Deutschen Bundesbahn geltenden Druckschri (DS) 818 „Grundsätze für die Anordnung von Vorsignalen“ sowie der zum Ereigniszeitpunkt gül gen Ril 819.0203 der DB InfraGO AG.
-Das zuständige EIU ha e noch vor dem Ereignis die Weisung Nummer 819.0203-W-102 „Vorsignalisierung von Ausfahr- und Zwischensignalen – Anpassung Ril 819.0203 und Kompensa onsmaßnahmen für Bestandsanlagen“ herausgegeben. Anlass hierfür waren Häufungen unzulässiger Vorbeifahrten an Halt zeigenden Ausfahrsignalen in Bf, bei denen Durchfahrten nicht
-zugelassen waren. Interne Untersuchungen ha en ergeben, dass gemäß den geltenden Planungsgrundsätzen in diesen Fällen keine Ausfahrvorsignalisierung vorhanden war. Zur Erhöhung der Betriebssicherheit en iel mit dieser Weisung teilweise die in Ril 819.0203 Abschn. 1 Abs. 7 dargestellte Ausnahme der Vorsignalisierung. Für Ausfahr- und Zwischensignale, die nur Start einer Zugfahrt waren, war eine Vorsignalisierung weiterhin nicht erforderlich. Punkt 5.2 der Weisung enthielt Angaben zum weiteren Bestandsschutz der vorhandenen
-Anlagen der Leit- und Sicherungstechnik, wonach die neue Regelung u. a. nur bei Umbauten
-anzuwenden war. Gemäß Punkt 5.3.3.1 Nr. 1 waren jedoch Kompensa onsmaßnahmen trotz
-des Bestandsschutzes bis zum 30.09.2024 notwendig:
-„Bei Betriebsfällen von Zugfahrten von einem Hauptsignal (Einfahr‐ bzw. Zwischensignal)
-zu einem Hp0/Sh0 zeigendem Zielsignal, wenn das Zielsignal nicht mit Halt erwarten oder
-Vorsignaltafel angekündigt wird.
-Die Kompensa on ist sowohl für Gleise mit als auch für Gleise ohne eingerichtete Durch‐
-fahrten vorzusehen.“
-Demgegenüber war eine Kompensa onsmaßnahme gemäß Punkt 5.3.3.2 Nr. 3 nicht erforderlich:
+relevanten Betriebsstellen und rot eingekreist die Ereignisstelle. 
 
-Seite 22 von 32
+Seite 6 von 32 
 
-Untersuchungsbericht
-Zugkollision, 07.03.2024, Bf Mannheim Rbf
+ 
+ 
+Untersuchungsbericht 
 
-„Wenn keine Weiterfahrt oder nur Rangierfahrten nach dem Zielsignal möglich sind und
-die zulässige Geschwindigkeit vor dem Zielsignal kleiner als oder gleich 30 km/h beträgt.“
-Da die Einfahrgeschwindigkeit vom Esig C bis zum Ls 602II 40 km/h betrug, war eine Kompensa onsmaßnahme entsprechend dieser Weisung erforderlich. Auf Nachfrage der BEU, ob für
-den Bf Mannheim Rbf im Rahmen dieser Weisung entsprechende Kompensa onsmaßnahmen
-vor oder nach dem Ereignis geplant waren, wurde dies seitens des EIU verneint. Das EIU gab
-an, dass hochstehende Ls nicht für Kompensa onsmaßnahmen gemäß dieser Weisung vorgesehen waren, da sie weder Zwischen-, Zugdeckungs- noch Ausfahrsignale seien.
-Der Umstand, wonach es im Bf Mannheim Rbf für die Einfahrten in die Gleisgruppe K keine
-Ausrüstungsvorgaben für ein gesamtheitliches infrastruktursei ges Zugbeeinflussungssystem
-gab, wird als systemischer Faktor [S2] eingestu . Dieser organisatorische Faktor dür e sich in
-Zukun auf ähnliche und damit zusammenhängende Ereignisse auswirken.
+Zugkollision, 07.03.2024, Bf Mannheim Rbf 
 
-4.3 Menschliche Faktoren
-In diesem Kapitel werden Untersuchungserkenntnisse zu menschlichen Handlungen und/oder
-Entscheidungen am gefährlichen Ereignis beteiligter Personen dargestellt. Entsprechende Erkenntnisse können sich hierbei insbesondere im Bereich menschlicher und individueller Merkmale sowie organisatorischer und Arbeitsplatzfaktoren ergeben.
-4.3.1 Beteiligte des Infrastrukturbetreibers
-Durch das EIU wurden die entsprechenden Nachweise der Kenntnisse und Fer gkeiten für Bediener von Signalanlagen jeweils für die Fdl-in und die Ww-in für die entsprechenden Stw vorgelegt. Ebenfalls wurden der BEU die aktuellen Tauglichkeitsnachweise der Fdl-in und der Wwin zur Einsichtnahme vorgelegt. Die überprü en Anforderungen nach der Eisenbahn-Bau- und
-Betriebsordnung (EBO) zeigten keine Auﬀälligkeiten.
-4.3.2 Beteiligte der EVU
-In diesem Kapitel werden sowohl die individuellen Qualifika onen als auch die Dienstplanung
-des Tf des DGS 43373 betrachtet.
-Tf der Rangierlok 𝐀 𝟐
-Der Tf war im Besitz eines gül gen Triebfahrzeugführerscheins gemäß Triebfahrzeugführerscheinverordnung (TfV). Für das Führen von Eisenbahnfahrzeugen erhielt er vom EVU eine
+Abbildung 1: Lageplan1 
 
-Seite 23 von 32
+Die  nachfolgende  Abbildung  zeigt  eine  Gleislageskizze  des  ereignisrelevanten  Teils  des 
 
-Untersuchungsbericht
-Zugkollision, 07.03.2024, Bf Mannheim Rbf
+Bf Mannheim  Rbf  mit  den  relevanten  Infrastrukturelementen,  dem  Standort  der  Rangier-
 
-Zusatzbescheinigung, in der u. a. die Befähigung zum Führen der BR 296 und weitere Zusatzqualifika onen eingetragen waren. Ein gül ger Nachweis über die gesundheitliche Eignung des Tf wurde der BEU durch das EVU ebenfalls vorgelegt. Die überprü en Anforderungen nach der TfV waren erfüllt.
-Tf des DGS 43373 – Qualifika on und Überwachung
-Der Tf war bei dem Personaldienstleiter Westwind Eisenbahnservice GmbH beschä igt und
-an das EVU LTE Netherlands B.V. entliehen. Er war im Besitz eines gül gen Triebfahrzeugführerscheins gemäß TfV. Für das Führen von Eisenbahnfahrzeugen erhielt er vom EVU eine Zusatzbescheinigung, in der u. a. die Befähigung zum Führen der BR 186 und weitere Zusatzqualifika onen eingetragen waren. Ein gül ger Nachweis über die gesundheitliche Eignung sowie
-die am Ereignisort vorhandene Streckenkunde des Tf wurden der BEU durch das EVU ebenfalls
-zur Einsichtnahme vorgelegt. Die überprü en Anforderungen nach der TfV waren erfüllt.
-Durch das EVU wurde in den Jahren 2022 und 2023 jeweils eine Überwachung der Ausübung
-der Tä gkeiten am Arbeitsplatz bei dem Tf durchgeführt. Die einzelnen Überwachungspunkte
-bestand der Tf gemäß dem Maßstab des EVU überwiegend mit der bestmöglichen Bewertung
-„gut“ und zum Teil mit der zweitbestmöglichen Bewertung „ausreichend“. Hieraus resul erte,
-dass kein Handlungsbedarf für eventuelle sofor ge Maßnahmen zur Nachschulung bestand.
-Tf des DGS 43373 – Ruhezeiten und Arbeitsschutzpausen
-Gemäß den der BEU übersandten Dienstplänen ha e der Tf vor dem Ereignis zuletzt am
-04.03.2024 und 05.03.2024 eine Dienstschicht. Am 06.03.2024 ha e der Tf einen Ruhetag.
-Zwischen dem Dienstende am 05.03.2024 und dem Dienstbeginn am 07.03.2024 lagen
-40,5 Stunden Ruhezeit. Es waren ausreichend Ruhezeiten vor der ereignisrelevanten Schicht
-vorhanden.
-Die Dienstschicht des Tf am Ereignistag begann um zwei Uhr im Bf Emmerich und sollte um
-12:00 Uhr im Bf Mannheim Hbf enden. Als Arbeitnehmer unterlag der Tf und damit auch das
-für ihn zuständige EVU den Bes mmungen des Arbeitszeitgesetzes (ArbZG). Gemäß § 4 ArbZG
-galten für Arbeitsschutzpausen folgende Vorgaben:
-
+lok A(cid:2870) sowie dem Laufweg des DGS 43373 bis zum Ls 602II als rote Linie und nach dem Ls 602II 
 
-Die Arbeit musste durch eine im Voraus feststehende Arbeitsschutzpause von mindestens 45 Minuten bei einer Arbeitszeit von mehr als neun Stunden unterbrochen
-werden.
+als rot gestrichelte Linie. 
 
-Seite 24 von 32
+Abbildung 2: Gleislageskizze2 
 
-Untersuchungsbericht
-Zugkollision, 07.03.2024, Bf Mannheim Rbf
+1 Quelle: Geobasisdaten: © GeoBasis-DE / BKG 2024, bearbeitet durch BEU 
 
-
+2 Quelle: DB InfraGO AG, bearbeitet durch BEU 
 
-Die Arbeitsschutzpause konnte in Zeitabschni e von jeweils 15 Minuten aufgeteilt
-werden.
+Seite 7 von 32 
 
-
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Arbeitnehmer dur en länger als sechs Stunden hintereinander nicht ohne Arbeitsschutzpausen beschä igt werden.
+Zugkollision, 07.03.2024, Bf Mannheim Rbf 
 
-Die Auswertung der EFR Daten ha e gezeigt, dass die Zugfahrt DGS 43373 von der Abfahrt am
-Bf Emmerich bis zur Kollision mit der Rangierlok A im Bf Mannheim Rbf keine Standzeiten
-ha e, welche als Arbeitsschutzpause nach § 4 ArbZG hä en angerechnet werden können.
-Zum Ereigniszeitpunkt war die maximale ununterbrochene Arbeitszeit von sechs Stunden somit überschri en gewesen. Der Tf gab gegenüber dem EVU an, dass er mit seiner Zugfahrt gut
-durchgekommen sei. Aufgrund dessen habe er entschieden, keine Arbeitsschutzpause einzulegen und den Zug bis zum Zielbahnhof Mannheim Hbf zu fahren. Warum der Tf keine Arbeitsschutzpause einlegte konnte im Rahmen der Untersuchung nicht zweifelsfrei geklärt werden.
-Ein kausaler Zusammenhang zwischen der fehlenden Arbeitsschutzpause und dem Ereignis
-konnte durch die BEU im Rahmen der Untersuchung nicht zweifelsfrei hergestellt werden. Aus
-diesem Grund wurde dieser Aspekt nicht als Faktor gewertet. Die dennoch bedeutsame Überwachung der Einhaltung gesetzlicher Arbeitsschutzpausen durch das EVU LTE Netherlands
-B.V. wird im nachfolgenden Kapitel dargestellt.
+Aus der Abbildung ist ersichtlich, dass DGS 43373 vom Einfahrsignal (Esig) C nach Gleis 602 der 
 
-4.4 Feedback‐ und Kontrollmechanismen
-In diesem Kapitel wird insbesondere auf Bedingungen, Feedback- und Kontrollmechanismen
-im Eisenbahnsystem eingegangen, denen ein ak ver Einfluss auf die Entstehung ähnlicher Ereignisse zugeschrieben werden könnte. Diese Mechanismen schließen Faktoren des Risikound Sicherheitsmanagement sowie Überwachungsverfahren mit ein.
-Überwachung der Ausübung der Tä gkeiten am Arbeitsplatz
-Das EVU LTE Netherlands B.V. ha e im Rahmen seines SMS die Häufigkeit der Überwachungen der Ausübung der Tä gkeit am Arbeitsplatz geregelt. Gemäß der hierfür relevanten Arbeitsanweisung war für die Häufigkeit der Überwachungen die Erfahrung des Mitarbeiters in
-der entsprechenden Verwendung entscheidend. Mitarbeiter, die weniger als zwei Jahre eingesetzt waren, galten als unerfahren und mussten zwei Mal jährlich überwacht werden. Der
-Tf des DGS 43373 wurde seit dem 22.03.2022 als Tf bei dem EVU eingesetzt und galt gemäß
-der Arbeitsanweisung zum Ereigniszeitpunkt somit noch als unerfahren. Er hä e folglich zwei
+Einfahrgruppe K geleitet wurde. Nach der unzulässigen Vorbeifahrt am Halt zeigenden Ls 602II 
 
-Seite 25 von 32
+befuhr der Zug die Weichen W323, W324, W325 und W328. In Höhe des Stellwerk (Stw) 16 
 
-Untersuchungsbericht
-Zugkollision, 07.03.2024, Bf Mannheim Rbf
+auf dem Ablau(cid:297)erg A kollidierte er anschließend mit der dort stehenden Rangierlok A(cid:2870). In der 
 
-Mal jährlich überwacht werden müssen. In den Jahren 2022 und 2023 fanden bei dem Tf jedoch jeweils nur eine Überwachung der Ausübung der Tä gkeit am Arbeitsplatz sta . Da nicht
-festgestellt werden konnte, ob die fehlenden Überwachungen ereignisrelevant waren, wurde
-dieser Sachverhalt nicht als Faktor im Geschehen untersucht.
-Überwachung der Einhaltung der gesetzlichen Arbeitsschutzpausen
-Das EVU LTE Netherlands B.V. ha e entsprechend der Verpflichtung aus § 47 Abs. 6 EBO im
-Rahmen seines SMS eine Regelung festgelegt, dass für die in Deutschland eingesetzten Tf die
-Bes mmungen des ArbZG in seiner jeweils aktuellen Form anzuwenden waren. Untersetzt
-wurde die Regelung durch weitere interne Weisungen, wonach neben den Tf auch die Mitarbeiter der Leitstelle/Planung für die Umsetzung der Arbeitsschutzpausen verantwortlich waren. Nach Angabe des EVU wurden die verbindlichen Arbeitsschutzpausen den Tf sowohl im
-Bla ahrplan als auch in EBuLa als nicht veröﬀentlichte Halte dargestellt. Arbeitsschutzpausen
-in einer Fplo wurden i. d. R. durch einen nach den Zeitangaben angebrachten Hinweistext
-„Lokführererholungshalt“ (LE-Halt) oder „LE-Halt“ gekennzeichnet, wenn es durch diese zu einer Abweichung von der im Regelfahrplan geplanten Arbeitsschutzpause kam. Gemäß einer
-internen Weisung mussten die Mitarbeiter der Leitstelle/Planung bei der Trassenbestellung
-und Schichtplanung die LE-Halte berücksich gen. Des Weiteren mussten sie alle Fplo und Regelfahrpläne nach deren Eingang auf die korrekte Berücksich gung der LE-Halte hin überprüfen.
-Die am Ereignistag gül gen Fplo für den DGS 43373 enthielten entgegen den unternehmensinternen Vorgaben keinen etwaig angebrachten Hinweistext zu einem LE-Halt für die Zugfahrt.
-Nach Angabe des EVU sei die Prüfung der eingegangenen Fplo durch den Mitarbeiter der Planung vermutlich nicht detailliert genug durchgeführt worden, so dass das Fehlen des LE-Halts
-nicht erkannt worden sei. Ebenfalls habe der Dienstau rag des Tf keine Vorgabe enthalten wo
-und wann er seine Arbeitsschutzpause nehmen sollte. Nach Angabe des EVU hä e in diesem
-Fall ein LE-Halt zwischen dem Tf und der Betriebszentrale des EIU, ggf. durch die Unterstützung der Au rag gebenden Stelle, vereinbart werden müssen.
+Abbildung orange gestrichelt markiert ist der Fahrweg, von dem der Tf des DGS 43373 ausging, 
 
-4.5 Frühere Ereignisse ähnlicher Art
-Am 24.11.2017 fuhr DGS 43724 in den Bf Oﬀenburg Gbf ein. Der Tf des Zuges nahm das Halt
-zeigende hochstehende Ls 3I nicht wahr und fuhr an diesem vorbei. Da das Ls 3I nicht mit einem 2.000 Hz Gleismagneten ausgerüstet war erhielt der Zug keine Zwangsbremsung. Der Tf
+dass dieser für seine Zugfahrt vorgesehen gewesen wäre. 
 
-Seite 26 von 32
+Aufgrund seiner Größe war der Bf Mannheim Rbf in fünf Fahrdienstleiterbezirke aufgeteilt. 
 
-Untersuchungsbericht
-Zugkollision, 07.03.2024, Bf Mannheim Rbf
+Zuständig für den ereignisrelevanten Bezirk des Bf war die Fahrdienstleiterin (Fdl-in) K im Zent-
 
-erkannte kurz darauf ein stehendes Tfz in seinem Fahrweg und führte eine Schnellbremsung
-aus. Die Kollision mit dem stehenden Tfz konnte hierdurch jedoch nicht mehr verhindert werden.
-Am 23.05.2023 fuhr EZ 68391 in den Bf Gremberg ein und sollte am Halt zeigenden Ls 313I
-anhalten. Der Tf gab an, aufgrund der ungüns gen Sonneneinstrahlung das Signalbild des
-Ls 313I nicht erkannt zu haben und fuhr an diesem vorbei. Da das Ls 313I nicht mit einem
-2.000 Hz Gleismagneten ausgerüstet war erhielt der Zug keine Zwangsbremsung. Der Tf erkannte kurz darauf eine Rangierabteilung auf der Weiche W469 und führte eine Schnellbremsung aus. Die Flankenfahrt mit der Rangierabteilung konnte hierdurch jedoch nicht mehr verhindert werden.
+ralstellwerk  West.  Hierbei  handelte  es  sich  um  ein  Spurplanstellwerk  der  Bauart  Siemens 
 
-Seite 27 von 32
+SpDrS60.  Zum  Fahrdienstleiterbezirk K  gehörten  das  abhängige  Stw 16  und  das  Ablaufstell-
 
-Untersuchungsbericht
-Zugkollision, 07.03.2024, Bf Mannheim Rbf
+werk 17 am Ablau(cid:297)erg A. Zwischen dem Stw K und dem Stw 16 gab es eine Zus(cid:415)mmungsab-
 
-5 Schlussfolgerungen
-Das folgende Kapitel enthält eine Zusammenfassung der ermi elten ursächlichen, beitragenden und systemischen Faktoren. Zusätzlich sind zwei weitere Unterkapitel vorgesehen, um
-Informa onen zu bereits ergriﬀenen Maßnahmen und zu zusätzlichen Bemerkungen zu teilen.
+hängigkeit für Einfahrten in die Gruppe K. Gemäß dem Betriebsstellenbuch waren im Fahr-
 
-5.1 Zusammenfassung und Schlussfolgerung
-Die Zugkollision war auf einen Arbeitsfehler des Tf des DGS 43373 zurückzuführen. Dieser fuhr
-unzulässig an dem Halt zeigenden Ls 602II vorbei [F1] und konnte nach dem Erkennen des
-Fahrzeugs in seinem Fahrweg eine Zugkollision mit der stehenden Rangierlok A nicht mehr
-verhindern. Als weiterer ursächlicher Faktor wird die fehlende 2.000 Hz-Beeinflussung aufgrund nicht vorhandener Ausrüstung bei der unzulässigen Vorbeifahrt am Ls 602II angesehen
-[F2]. Der Ausschluss beider ursächlicher Faktoren hä e das Ereignis aller Wahrscheinlichkeit
-nach verhindert.
-Zu ursächlichem Faktor „Fehlende Handlungssicherheit“ [F1]
-Der Tf des DGS 43373 ging bei der Einfahrt in den Bf Mannheim Rbf fälschlicherweise davon
-aus, links am Stw 16 vorbei in einen anderen B zu fahren. Im weiteren Verlauf der Einfahrt
-des DGS 43373 erkannte der Tf das Ls 602II und nahm es aufgrund der zu diesem Zeitpunkt
-noch ak vierten Nachtschaltung als Erloschen war. Das weiß-rot-weiße Mastschild am Ls 602II
-habe er nicht erkannt. Des Weiteren ging er davon aus, bei anderen Zugfahrten in die
-Gruppe K des Bf Mannheim Rbf eine 1.000 Hz Beeinflussung am Vorsignal bei der Fahrt auf
-ein Halt zeigendes Signal erhalten zu haben. Das Fehlen dieser Beeinflussung habe ihn in seiner Vermutung, dass das Ls 602II erloschen sei und nicht Halt zeige, bestä gt.
-Ereignisursächlich war die unzulässige Vorbeifahrt des Tf des DGS 43373 an dem Halt zeigenden Ls 602II. Der Arbeitsfehler der Missachtung des Halt zeigenden Ls 602II und insbesondere
-des weiß-rot-weißen Mastschildes führte zu der Zugkollision mit der Rangierlok A . Hierin ist
-eine fehlende Handlungssicherheit des Tf erkennbar. Die zuvor fehlende Arbeitsschutzpause
-des Tf und eine bei ihm anzunehmende, erhöhte Müdigkeit sind im Kontext zu sehen.
-Gemäß Verordnung (EU) 2018/762 Anhang I Ziﬀ. 4.2.1 musste das Kompetenzmanagementsystem des EVU sicherstellen, dass der Tf zur Erfüllung seiner sicherheitsrelevanten Aufgabe
-befähigt war. Hierunter fiel neben der Ermi lung der für die sicherheitsrelevante Aufgabe notwendigen Kompetenz auch die entsprechende Ausbildung, fortlaufende Schulung sowie die
+dienstleiterbezirk K Durchfahrten nur über das Gleis 600 zugelassen. Alle anderen Gleise der 
 
-Seite 28 von 32
+Gruppe K waren Einfahrgleise für endende Züge.  
 
-Untersuchungsbericht
-Zugkollision, 07.03.2024, Bf Mannheim Rbf
+Die  Zugkollision  ereignete  sich  im  Zuständigkeitsbereich  der  Weichenwärterin  (Ww-in)  im 
 
-regelmäßige Bewertung der Kompetenz damit die Qualifika onen Fer gkeiten des Tf auf
-Dauer erhalten bleiben.
-Zu ursächlichem Faktor „Keine Ausrüstung mit 2.000 Hz‐Gleismagnet am Zielsignal“ [F2]
-Der Bf Mannheim Rbf war infrastruktursei g nicht vollständig mit PZB Gleismagneten ausgerüstet. Das Fehlen der Gleismagnete am Zielsignal der Zugfahrt führte letztlich dazu, dass eine
-Überwachung der Fahrweise des Tf technisch nicht möglich war. Insbesondere hä e ein wirkender 2.000 Hz Gleismagnet am Ls 602II bei der unzulässigen Vorbeifahrt des Tf zu einer
-Zwangsbremsung des DGS 43373 geführt und die Kollision mit der Rangierlok A aller Wahrscheinlichkeit nach verhindert. Das EIU ha e bereits vor dem Ereignis das Schließen bes mmter Ausrüstungslücken erkannt und veranlasst, siehe unten zu [S2].
-Zu systemischem Faktor „Keine Planungsvorgabe für Ausrüstung von Zielsignalen in Rbf mit
-PZB“ [S2]
-Die fehlende PZB-Ausrüstung gemäß ursächlichem Faktor [F2] war auf Planungsgrundsätze
-aus den Zeiten der Deutschen Bundesbahn zurückzuführen. Diese Regelungen wurden nach
-der Umwandlung zur Deutschen Bahn AG in das neue Regelwerk übernommen und die fehlende infrastruktursei ge Ausrüstung stand seitdem unter Bestandsschutz. Das EIU muss jedoch im Rahmen der dynamischen Betreiberverantwortung gemäß § 2 Abs. 1 EBO sowie der
-Verordnung (EU) 2018/762 Anhang II Ziﬀ. 5.2 auch bestehende Regelungen überprüfen, da
-auch das Eisenbahnwesen und damit der Eisenbahnbetrieb einem steten Wandel unterliegen.
-Insbesondere muss das EIU auch im Rahmen seines SMS auf vermehrte Störungen und/oder
-Unfälle mit derselben Ursache reagieren und entsprechend handeln. In diesem Zusammenhang wurde durch das EIU noch vor dem Ereignis die Weisung 819.0203-W-102 „Vorsignalisierung von Ausfahr- und Zwischensignalen – Anpassung Ril 819.0203 und Kompensa onsmaßnahmen für Bestandsanlagen“ herausgegeben. Begründet wurde diese Weisung damit,
-dass es vermehrt zu unzulässigen Vorbeifahrten an Halt zeigenden Signalen aufgrund fehlender Vorsignalisierung gekommen sei. Das Problem der fehlenden Vorsignalisierung eines Halt
-zeigenden Zielsignals war dem EIU somit bereits aufgefallen. Nach Ansicht der BEU waren die
-verschär en Ausrüstungsvorgaben entgegen der eigenen Deutungen des EIU auch für
-Bf Mannheim Rbf anzuwenden. Dies begründet sich aus Punkt 5.3.3.1 Nr. 1 der Weisung
-819.0203-W-102 „Vorsignalisierung von Ausfahr- und Zwischensignalen – Anpassung
-Ril 819.0203 und Kompensa onsmaßnahmen für Bestandsanlagen“, wonach im Weisungstext
+Stw 16.  Hierbei  handelte  es  sich  um  ein  elektromechanisches  Stw der  Bauart  E43,  welches 
 
-Seite 29 von 32
+durchgängig mit einem Ww besetzt war. Die Grenze zum Stw K bildeten die jeweiligen Ls im 
 
-Untersuchungsbericht
-Zugkollision, 07.03.2024, Bf Mannheim Rbf
+Ostkopf der Gruppe K. 
 
-von Hp0/Sh0 zeigenden Zielsignalen die Rede ist. Gemäß Ril 819.0302 Abschn. 2 Abs. 2 kann
-ein als Lichtsignal ausgeführtes Sperrsignal u. a. als Zielsignal für Güter- und Reisezugeinfahrten verwendet werden. Gemäß Ril 819.0302 Abschn. 2 Abs. 5 muss das Ls als hohe Bauform
-mit Einzelmast ausgeführt werden, wenn es als Zielsignal für Zugfahrten dient. Das Ls 602II im
-Bf Mannheim Rbf erfüllt diese baulichen Anforderungen der Ril 819 und wird als Zielsignal für
-einfahrende Güterzüge verwendet. Auch die Ausnahme gemäß Punkt 5.3.3.2 Nr. 3 der genannten Weisung kann im Bf Mannheim Rbf nicht zum Tragen kommen, da die Einfahrgeschwindigkeit für Zugfahrten in den Bf mit 40 km/h signalisiert wird. Die Umsetzungsfrist war
-zum Zeitpunkt des Ereignisses noch nicht verstrichen. Daher wird auf das Aussprechen einer
-Sicherheitsempfehlung hinsichtlich der Ergänzung der Vorsignalisierung verzichtet.
-Gemäß Verordnung (EU) 2018/762 Anh. II Punkt 3.1.1.1. muss ein EIU alle relevanten betrieblichen, organisatorischen und technischen Risiken erfassen und analysieren sowie diese mittels geeigneter Risikomethoden evaluieren. Aus der Evalua on muss das EIU Sicherheitsmaßnahmen entwickeln und anschließend die Wirksamkeit der Sicherheitsmaßnahmen überwachen. Nach Ansicht der BEU würde eine vergleichsweise Nachrüstung von hochstehenden
-Gleissperrsignalen als Zielsignal einer Zugfahrt in Rbf mit 2.000 Hz-Gleismagneten zur Erhöhung der Eisenbahnsicherheit beitragen. Aus diesem Grund wird hierzu eine entsprechende
-Sicherheitsempfehlung ausgesprochen.
+3.1.2  Beteiligte	
 
-5.2 Seit dem Ereignis getroffene Maßnahmen
-Dem Tf des DGS 43373 wurde durch das EVU die Zusatzbescheinigung entzogen. Er wird seit
-dem Ereignis nicht mehr im EVU eingesetzt.
-Weiterhin wurden durch das EVU folgende Maßnahmen ergriﬀen:
-
+Die am Ereignis Beteiligten ha(cid:425)en die folgenden Funk(cid:415)onen: 
 
-Die Mitarbeiter in der Führungsebene sowie dem Traffic Management, der Leitstelle
-und der Planung wurden darauf sensibilisiert, dass Dienstschichten und Verkehrsleistungen den Vorgaben des SMS nach zu planen und arbeitszeitrechtliche Vorgaben
-zwingend einzuhalten sind.
+Für das Eisenbahninfrastrukturunternehmen (EIU) DB InfraGO AG: 
 
-
+  Fdl-in K im Zentralstellwerk West 
 
-Die Dienstaufträge der Tf werden detaillierter dargestellt und enthalten Ort und Zeit
-der Arbeitsschutzpausen.
+  Ww-in im Stw 16 
 
-
+Für das Eisenbahnverkehrsunternehmen (EVU) LTE Netherlands B.V. vom Personaldienstleis-
 
-Eingehende Fahrpläne und Fplo werden genauer geprüft.
+ter Westwind Eisenbahnservice GmbH entliehen: 
 
-
+  Tf des DGS 43373 
 
-Tf werden im Rahmen der Fortbildung auf das richtige Verhalten gegenüber Halt zeigenden Signalen sensibilisiert.
+Für das EVU DB Cargo AG: 
 
-Seite 30 von 32
+  Tf der Rangierlok A(cid:2870) 
 
-Untersuchungsbericht
-Zugkollision, 07.03.2024, Bf Mannheim Rbf
+Seite 8 von 32 
 
-
+ 
+ 
+Untersuchungsbericht 
 
-Der Prozess zur Einhaltung der Arbeitsschutzpausen der Tf wurde geändert. Die Tf
-müssen jede genommene Arbeitsschutzpause elektronisch melden. Diese werden
-durch die Mitarbeiter der Leitstelle zu festgelegten Zeitpunkten überprüft.
+Zugkollision, 07.03.2024, Bf Mannheim Rbf 
 
-5.3 Zusätzliche Bemerkungen
-En ällt.
+3.1.3  Äußere	Bedingungen	
 
-Seite 31 von 32
+Zum Zeitpunkt des Ereignisses herrschten folgende Bedingungen: 
 
-Untersuchungsbericht
-Zugkollision, 07.03.2024, Bf Mannheim Rbf
+Lichtverhältnisse 
 
-6 Sicherheitsempfehlungen
-Gemäß § 6 EUV und Art. 26 Abs. 2 der Richtlinie (EU) 2016/798 ergeht die nachfolgende Sicherheitsempfehlung:
-Lfd. Nr.
+Sicht 
 
-Adressat und Sicherheitsempfehlung
+Bedeckung 
 
-Betri
+Temperaturen  
 
-16/2025
+fallender Niederschlag 
 
-Sicherheitsbehörde:
+Niederschlagshäuﬁgkeit 
 
-EIU
+Tageslicht 
 
-Unternehmen
+klar 
 
-Es wird empfohlen, Sperrsignale, welche regelmäßig
-für Zugfahrten als Zielsignale genutzt werden können,
-hinsichtlich der Ausrüstung mit 2.000 Hz Gleismagneten einer Risikobetrachtung nach Verordnung (EU)
-2018/762 Anh. II Punkt 3.1.1.1. zu unterziehen.
+heiter 
 
-Seite 32 von 32
+8°C – 10°C 
 
+Nein 
+
+-- 
+
+Untergrund / gefallener Niederschlag  
+
+trocken 
+
+Tabelle 2: Übersicht der äußeren Bedingungen 
+
+3.1.4 Todesopfer,	Verletzte	und	Sachschäden	
+
+Bei dem Ereignis traten folgend aufgeführte Personenschäden ein: 
+
+Anzahl Tote 
+
+Anzahl schwer Verletzte  Anzahl leicht Verletzte 
+
+Reisende 
+
+Mitarbeiter 
+
+Benutzer von 
+Bahnübergängen 
+
+Dri(cid:425)e 
+
+Summe 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Tabelle 3: Übersicht der Personenschäden 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+2 
+
+- 
+
+- 
+
+2 
+
+Die geschätzte Höhe der Sachschäden in Euro setzt sich wie folgt zusammen: 
+
+geschätzte Kosten in Euro 
+
+Fahrzeuge 
+
+Infrastruktur 
+
+Dri(cid:425)e 
+
+Gesamtschadenshöhe 
+
+Tabelle 4: Übersicht der geschätzten Schadenshöhe 
+
+91.330 
+
+  25.000 
+
+- 
+
+  116.330 
+
+Seite 9 von 32 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 07.03.2024, Bf Mannheim Rbf 
+
+3.2  Sachliche	Beschreibung	der	Vorkommnisse	
+
+Zur Rekonstruk(cid:415)on des gefährlichen Ereignisses sowie zur Beschreibung der No(cid:414)allmaßnah-
+
+men werden insbesondere auch die in Kapitel 4 enthaltenen Aufzeichnungen, Auswertungen 
+
+und Feststellungen etc. herangezogen. 
+
+3.2.1  Hergangsbeschreibung	
+
+Am 07.03.2024 erteilte die Fdl-in K im Zentralstellwerk West die Zus(cid:415)mmung zur Einfahrt des 
+
+DGS 43373 in den B(cid:332) Mannheim Rbf Gr K/Kn mit Fahrtstellung des Esig C. Das Ziel der Einfahrt 
+
+des DGS 43373 war das Halt zeigende Ls 602II im Stellbereich des Stw 16. Die für das Stw 16 
+
+zuständige Ww-in ha(cid:425)e es am Ereignistag unterlassen, den Tag-Nachtschalter der Signalbe-
+
+leuchtung von Nacht- auf Tagschaltung umzuschalten. Hierdurch war das Signalbild Halt am 
+
+Ls 602II  zum  Ereigniszeitpunkt  aufgrund  der  geringeren  Lichtstärke  gegenüber  der  Umge-
+
+bungsbeleuchtung schlechter erkennbar. 
+
+Der  Tf  des  DGS 43373  beschleunigte  den  Zug  nach  der  Vorbeifahrt  am  Esig  C  auf  maximal 
+
+40 km/h. Für die Zielsignale in den Gleisen des Bahnho(cid:332)eils (B(cid:332)) Mannheim Rbf Gr K/Kn gab 
+
+es keine Vorsignalisierung, sodass der DGS 43373 keine 1.000 Hz Beeinﬂussung der PZB er-
+
+hielt. Im weiteren Fahrtverlauf habe der Tf nach eigener Aussage das Ls 602II erkannt und es 
+
+als Erloschen  wahrgenommen. Unter Missachtung des Handlungsgebots gemäß  dem  weiß-
+
+rot-weißen Mastschild fuhr der Tf des DGS 43373 um 09:21 Uhr unzulässig am Halt zeigenden 
+
+Ls 602II vorbei. Da das Signal nicht mit einem 2.000 Hz Gleismagneten ausgerüstet war, erhielt 
+
+der  DGS 43373  an  diesem  keine  Zwangsbremsung  durch  die  PZB.  Anschließend  fuhr 
+
+DGS 43373 die Weichen W324 und W325 auf. Erst durch die nicht dem gedachten Fahrweg 
+
+entsprechende Stellung der Weiche W325 erkannte der Tf, dass der Fahrweg in Richtung des 
+
+Ablau(cid:297)ergs A führte, auf dem eine Rangierlok stand. Der Tf des DGS 43373 leitete darau(cid:300)in 
+
+eine Schnellbremsung ein und begab sich in Schutzhaltung. Durch die Schnellbremsung konnte 
+
+die Kollision mit der auf dem Ablau(cid:297)erg A stehenden Rangierlok A(cid:2870) jedoch nicht mehr ver-
+
+hindert werden. 
+
+Die  nachfolgende  Abbildung  zeigt  die  Kollisionsstelle  auf  dem  Ablau(cid:297)erg  A  entgegen  der 
+
+Fahrtrichtung des DGS 43373. Im Hintergrund ist das Gebäude des Stw 16 zu erkennen. 
+
+Seite 10 von 32 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 07.03.2024, Bf Mannheim Rbf 
+
+Abbildung 3: Kollisionsstelle 
+
+3.2.2  Notfallmanagement	
+
+Nach  § 4 Abs. 3 AEG  haben  die  Eisenbahnen  die  Verpﬂichtung,  an  Maßnahmen  des  Brand-
+
+schutzes und der technischen Hilfeleistung mitzuwirken. Die Innenministerien der Länder und 
+
+die DB AG haben sich auf folgende Verfahrensweise verständigt. Für die DB InfraGO AG gelten 
+
+die entsprechenden Brand- und Katastrophenschutzgesetze der Länder. Das No(cid:414)allmanage-
+
+ment  der  DB  AG  ist  in  der  Konzernrichtlinie 123,  das  der  DB  InfraGO  AG  in  der  Richtli-
+
+nie (Ril) 423 näher beschrieben und geregelt. 
+
+Durch die Fdl-in K wurde unmi(cid:425)elbar nach Bekanntwerden des Ereignisses die zuständige Not-
+
+fallleitstelle hierüber informiert. Durch diese wurde die Re(cid:425)ungske(cid:425)e eingeleitet und der Not-
+
+fallmanager zur Ereignisstelle beordert. Etwaige Fehler oder Verzögerungen im Rahmen des 
+
+No(cid:414)allmanagements wurden von der BEU nicht festgestellt. 
+
+Seite 11 von 32 
+
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 07.03.2024, Bf Mannheim Rbf 
+
+4  Auswertung	des	Ereignisses	
+
+In diesem Kapitel werden insbesondere die im Rahmen der Unfalluntersuchung ermi(cid:425)elten 
+
+maßgeblichen sicherheitskri(cid:415)schen Faktoren dargestellt. Hierbei wird im jeweiligen Einzelfall 
+
+auf die Aufgaben und Pﬂichten einzelner Personen und Stellen, auf beteiligte Fahrzeuge und 
+
+technische  Einrichtungen  genauso  eingegangen  wie  auf  konkrete  menschliche  Handlungen 
+
+sowie auf Feedback- und Kontrollmechanismen. Sofern Informa(cid:415)onen zu früheren Ereignissen 
+
+vorliegen, werden diese in einem weiteren Unterkapitel dargestellt. 
+
+4.1  Aufgaben	und	Pflichten	
+
+In diesem Kapitel werden unbeschadet des Ar(cid:415)kels 20 Abs. 4 der Richtlinie (EU) 2016/798 die 
+
+Aufgaben und Pﬂichten von Personen und Stellen behandelt, die an dem Ereignis beteiligt wa-
+
+ren. Untersuchungen zu Schuld- oder Ha(cid:332)ungsfragen sind explizit ausgeschlossen und nicht 
+
+Untersuchungsgegenstand. 
+
+4.1.1  Untersuchung	der	betrieblichen	Abläufe	des	Infrastrukturbetreibers	
+
+Die Kollision ereignete sich im Zuständigkeitsbereich der Ww-in im Stw 16. Die Zus(cid:415)mmung 
+
+zur Einfahrt des DGS 43373 in den Bf Mannheim Rbf wurde durch die Fdl-in K erteilt. Dement-
+
+sprechend waren die Handlungen der Ww-in und der Fdl-in zu betrachten. Das verantwortli-
+
+che EIU DB InfraGO AG verfügte über eine Sicherheitsgenehmigung gemäß § 7c AEG, die bis 
+
+zum 19.10.2026 gül(cid:415)g war. Das EIU war somit berech(cid:415)gt, Eisenbahninfrastruktur im überge-
+
+ordneten Netz zu betreiben. 
+
+Am Ereignistag fand ein bundesweiter, befristeter Streik der Gewerkscha(cid:332) Deutscher Loko-
+
+mo(cid:415)vführer sta(cid:425). Von dem Streik waren neben verschiedenen EVU auch das EIU DB InfraGO 
+
+AG betroﬀen. 
+
+Für den DGS 43373 waren am Ereignistag insgesamt vier Fahrplananordnungen (Fplo) gül(cid:415)g. 
+
+Aus den Fplo resul(cid:415)erten verschiedene Umleitungen der Zugfahrt in den Regionalbereichen 
+
+West, Mi(cid:425)e und Südwest. Die vierte Fplo mit der Nr. 50546_SW_LTE NL wurde einen Tag vor 
+
+dem Ereignis durch einen weiteren Nachtrag Fplo Nr. 50546_SW_LTE NL_N1, und somit der 
+
+fün(cid:332)en Fplo für diesen Zug, ersetzt. Gemäß diesem Nachtrag wurde DGS 43373 u. a. am Er-
+
+eignistag ab dem Bf Lampertheim über den Bf Mannheim-Käfertal und der Abzw Mannheim 
+
+Rennplatz in den B(cid:332) Mannheim Rbf Gr K/Kn umgeleitet. Dort sollte die Zugfahrt einen Fahrt-
+
+richtungswechsel durchführen, und dann in den Zielbahnhof Bf Mannheim Hbf weiterfahren. 
+
+Seite 12 von 32 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 07.03.2024, Bf Mannheim Rbf 
+
+Fdl‐in im Stw K 
+
+Der Fdl-in K lag am Ereignistag die fün(cid:332)e Fplo Nr. 50546_SW_LTE NL_N1 nicht vor, sodass sie 
+
+über keinen gül(cid:415)gen Fahrplan für den DGS 43373 verfügte. Weshalb die fün(cid:332)e Fplo am Ereig-
+
+nistag in der Fplo-Datenbank nicht angekommen war konnte durch das EIU nicht geklärt wer-
+
+den. Nach Aussage der  Fdl-in K habe sie in Absprache mit der Netzkoordina(cid:415)on in der Be-
+
+triebszentrale  entschieden,  den  DGS 43373  von  der  freien  Strecke  nach  Gleis 602  des  Bf 
+
+Mannheim Rbf einfahren zu lassen.  
+
+Neben dem Einstellen der entsprechenden Zugstraße, musste die Fdl-in sich die Zus(cid:415)mmung 
+
+für die Einfahrt bei der Ww-in im Stw 16 einholen. Die Zus(cid:415)mmungsauﬀorderung und der Zu-
+
+s(cid:415)mmungsempfang waren über die Stellwerkstechnik der beiden Stw realisiert. Eine mündli-
+
+che Kommunika(cid:415)on zwischen den beiden Mitarbeiterinnen war nicht notwendig. Nachdem 
+
+die Fdl-in die Zus(cid:415)mmung der Ww-in erhalten ha(cid:425)e und der Fahrweg festgelegt war, erteilte 
+
+sie durch Fahrtstellung am Esig C dem DGS 43373 die Zus(cid:415)mmung zur Einfahrt nach Gleis 602. 
+
+Parallel habe die Fdl-in eine weitere Einfahrt eines anderen Zuges sowie eine Rangierfahrt in 
+
+ihrem Bezirk gehabt. Sie habe aus dem Augenwinkel später bemerkt, dass DGS 43373 seine 
+
+Geschwindigkeit zum Anhalten vor dem Ls 602II nicht verringert habe. Als sie au(cid:297)lickte, sei 
+
+der Zug bereits auf dem Ablau(cid:297)erg A in Höhe des Stw 16 gewesen. Nach der Zugkollision sei 
+
+sie von mehreren Stellen aufgefordert worden, Fremdre(cid:425)ungskrä(cid:332)e anzufordern.  
+
+Ww‐in im Stw 16 
+
+Gemäß den We(cid:425)eraufzeichnungen begann am Ereignistag ca. um 07:00 Uhr der Sonnenauf-
+
+gang. Bis zu diesem Zeitpunkt war die Nachtschaltung der Lichtsignale ak(cid:415)v. Ab einem im Re-
+
+gelwerk unbes(cid:415)mmten Zeitpunkt nach dem Sonnenaufgang, wenn genügend Sonnenlicht vor-
+
+handen war, hä(cid:425)e die Ww-in die Lichtsignale von der Nacht- auf die Tagschaltung umschalten 
+
+müssen. Nach Auskun(cid:332) des EIU gab es für den Zeitpunkt des Umstellens zwischen Nacht- und 
+
+Tagschaltung  der  Lichtsignale  keine  explizite  Vorgabe.  Da  das  Stw 16  über  keinen  Dämme-
+
+rungsschalter verfügte lag es somit im Ermessen der Ww-in die Signale in Abhängigkeit von 
+
+der  Helligkeit  und  den  Wi(cid:425)erungsverhältnissen  auf  Tagschaltung  umzustellen.  Die  Ww-in 
+
+stellte jedoch bis zum Ereigniszeitpunkt nicht auf die Tagschaltung um, so dass die Erkennbar-
+
+keit der Signallampen durch die zunehmende Helligkeit der Umgebung schlechter wurde. Am 
+
+15.03.2024 wurde hierzu eine Versuchsfahrt mit einem baugleichen Triebfahrzeug (Tfz) der 
+
+Seite 13 von 32 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 07.03.2024, Bf Mannheim Rbf 
+
+Baureihe (BR) 186 durchgeführt, wie es dem des DGS 43373 am Ereignistag entsprach. Anwe-
+
+send waren neben zwei Mitarbeitern der BEU auch Mitarbeiter der beteiligten EVU und des 
+
+EIU. Die Versuchsfahrt wurde im Zeitraum des Ereigniszeitpunktes mit eingeschalteter Nacht- 
+
+und anschließend mit eingeschalteter Tagschaltung durchgeführt. Die Lichtverhältnisse waren 
+
+vergleichbar zum Ereigniszeitpunkt.  Die nachfolgende Abbildung zeigt  den Unterschied des 
+
+Signalbildes Halt des Ls 602II bei Nacht- und Tagschaltung. Zu beachten ist, dass die Fotos ei-
+
+nen nicht iden(cid:415)schen Blickwinkel des Signals zeigen. 
+
+Abbildung 4: Ls 602II Nacht- und Tagschaltung 
+
+Bei  der  Versuchsfahrt  wurde  analog  der  Zugfahrt  DGS 43373  entsprechend  das  Gleis 602 
+
+durchfahren. Das Signalbild des Halt zeigenden Ls 602II war bei der Tagschaltung aus der Po-
+
+si(cid:415)on des Tf weithin erkennbar. Demgegenüber war es bei der Nachtschaltung bei Annähe-
+
+rung erst kurz vor dem Erreichen des Signalkörpers zweifelsfrei zu erkennen. Das am Signal-
+
+mast angebrachte weiß-rot-weiße Mastschild war bei beiden Fahrten weithin gut sichtbar.  
+
+Die Erkennbarkeit von Signalbildern spielt bei den meisten Zugbeeinﬂussungssystemen eine 
+
+grundlegende Rolle, so auch im Falle der bei DGS 43373 eingesetzten PZB. Im Fall des Ereig-
+
+nisses im Bf Mannheim Rbf kam der Erkennbarkeit der Signalbilder nochmals eine gesteigerte 
+
+Bedeutung  zu,  da  die  Zielsignale  weder  vorangekündigt  wurden  noch  mit  einem  2.000 Hz 
+
+Gleismagneten ausgerüstet waren. In vielen Stw erfolgt der Umschaltvorgang zwischen Tag- 
+
+und Nachtschaltung der Signalbeleuchtung über einen Lichtsensor automa(cid:415)sch oder das Stw-
+
+Seite 14 von 32 
+
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 07.03.2024, Bf Mannheim Rbf 
+
+Personal wird über einen Wecker an das Umstellen erinnert. Im Stw 16 des Bf Mannheim Rbf 
+
+waren solche technischen Systeme nicht verbaut. Durch das EIU sollte geprü(cid:332) werden ob eine 
+
+entsprechende Nachrüstung auf allen Stw, die nicht mit solchen unterstützenden technischen 
+
+Systemen ausgerüstet sind, verhältnismäßig ist. 
+
+Nachdem die Ww-in die Zus(cid:415)mmungsauﬀorderung der Fdl-in für die Einfahrt nach Gleis 602 
+
+erhalten ha(cid:425)e, habe sie den Fahrweg auf Freisein von Fahrzeugen geprü(cid:332). Der Durchrutsch-
+
+weg endete am Grenzzeichen der Weiche W323, sodass die Weiche nicht Teil des Fahrstra-
+
+ßenverschlusses war. Anschließend habe sie durch Bedienung der Zus(cid:415)mmungsabgabetaste 
+
+in Verbindung mit der entsprechenden Taste für Gleis 602 der Fdl-in ihre Zus(cid:415)mmung zur Ein-
+
+fahrt nach Gleis 602 erteilt. Währenddessen sei der Ablau(cid:297)etrieb mit der Rangierlok A(cid:2870) auf 
+
+Gleis 605 weitergelaufen. In Absprache mit dem Bergmeister A sei vereinbart worden, dass 
+
+Rangierlok A(cid:2870) auf dem Ablau(cid:297)erg A eine Pause einlegt.  
+
+Als die Ww-in den am Halt zeigenden LS 602II vorbeifahrenden DGS 43373 bemerkte, konnten 
+
+keine geeigneten Maßnahmen bei Gefahr mehr ergriﬀen werden. Sie habe die Weichenwe-
+
+cker als Auﬀahrmeldung klingeln hören und anschließend sei es zur Kollision mit der Rangier-
+
+lok A(cid:2870) gekommen. Sie habe darau(cid:300)in die Fdl-in K über das Ereignis informiert und Fremdret-
+
+tungsmi(cid:425)el sowie den No(cid:414)allmanager angefordert. 
+
+4.1.2  Untersuchung	der	betrieblichen	Abläufe	der	EVU	
+
+Im nachfolgenden Kapitel werden die betrieblichen Abläufe der am Ereignis beteiligten Zug-
+
+fahrt DGS 43373 dargestellt. Auf die Darstellung der betrieblichen Abläufe der Rangierlok A(cid:2870) 
+
+wird verzichtet, da sie keinen Einﬂuss auf das Ereignis ha(cid:425)en. Die Rangierlok A(cid:2870) stand zum 
+
+Ereigniszeitpunkt auf dem Ablau(cid:297)erg A, die Bremsen waren angelegt. Der Tf befand sich noch 
+
+auf dem Tfz.  
+
+Die LTE Netherlands B.V. war das verantwortliche EVU für die Zugfahrt DGS 43373 und ver-
+
+fügte über eine gül(cid:415)ge Sicherheitsbescheinigung gemäß § 7a AEG mit einer Gül(cid:415)gkeit bis zum 
+
+22.02.2029. Das EVU war damit zur Teilnahme am Eisenbahnbetrieb des übergeordneten Net-
+
+zes berech(cid:415)gt. 
+
+DGS 43373  verkehrte  planmäßig  von  Ro(cid:425)erdam Waalhaven  (Niederlande)  nach  Mann-
+
+heim Hbf. Gemäß Fahrplan sollte die Zugfahrt die Bahnverwaltungsgrenze zwischen Venlo und 
+
+Bf  Kaldenkirchen  überqueren.  Aufgrund  der  in  Kapitel 4.1.1  genannten  Fplo  für  den 
+
+DGS 43373  fanden  mehrere  Umleitungen  des  Zuges  sta(cid:425).  Daher  wurde  der  Zug  über  den 
+
+Seite 15 von 32 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 07.03.2024, Bf Mannheim Rbf 
+
+Grenzbahnhof Emmerich geleitet. Im Bf Emmerich fand ein Tf-Wechsel sta(cid:425) und der überneh-
+
+mende Tf sollte die Zugfahrt bis zum Zielbahnhof Mannheim Hbf fahren. Der Tf gab in einer 
+
+Befragung gegenüber dem EVU an, dass er am Ereignistag den Regelfahrplan des Zuges auf 
+
+dem Bordgerät des elektronischen Buchfahrplans und Verzeichnis der Langsamfahrstellen (E-
+
+BuLa) geladen ha(cid:425)e. Die Fplo haben ihm auf seinem dienstlichen Mobiltelefon zur Verfügung 
+
+gestanden. Für die Anzeige der Ersatzfahrpläne und die Zusammenstellung der vorübergehen-
+
+den Langsamfahrstellen und anderen Besonderheiten (La) habe er entsprechend den Vorga-
+
+ben des EVU ein Tablet genutzt.  
+
+Der Tf des DGS 43373 musste für die Zugfahrt somit drei verschiedene Geräte nutzen, um den 
+
+an diesem Tag gül(cid:415)gen Laufweg des Zuges angezeigt zu bekommen. Die Notwendigkeit der 
+
+Nutzung einer solchen Anzahl an verschiedenen Geräten zur Darstellung des Laufwegs für eine 
+
+Zugfahrt ist sehr kri(cid:415)sch zu sehen. Insbesondere die Nutzung des Mobiltelefons für eine kon-
+
+stante Anzeige von Fahrplanunterlagen ist unzweckmäßig, da durch eine anderwei(cid:415)ge Nut-
+
+zung des Gerätes, wie z. B. telefonieren oder die Nutzung anderer Applika(cid:415)onen, die Fahr-
+
+planunterlagen temporär nicht mehr angezeigt werden würden. EVU müssen dafür Sorge tra-
+
+gen, dass den Tf alle für die Zugfahrt erforderlichen Unterlagen bereitgestellt und in einer ge-
+
+eigneten Form dargestellt werden. 
+
+Nach Angabe des EVU seien dem Tf die verschiedenen für den DGS 43373 gül(cid:415)gen Fplo via E-
+
+Mail vor seinem Dienstantri(cid:425) übermi(cid:425)elt worden. Die fün(cid:332)e Fplo mit der Nr. 50546_SW_LTE 
+
+NL_N1 sei dem Tf durch die den Au(cid:332)rag gebende Stelle jedoch nicht übermi(cid:425)elt worden. So-
+
+mit stand dem Tf für den letzten Fahrtabschni(cid:425) bis Bf Mannheim Hbf nur die vierte Fplo mit 
+
+der Nr. 50546_SW_LTE NL zur Verfügung. Gemäß dieser vierten Fplo sollte DGS 43373 ab dem 
+
+Bf  Lampertheim  nach  dem  Buchfahrplan 6920  Seite 170  Spalte 2d  fahren  und  wäre  ab  der 
+
+Abzw Mannheim Rennplatz ohne Fahrtrichtungswechsel im Bf Mannheim Rbf direkt in den 
+
+Zielbahnhof Bf Mannheim Hbf geleitet worden.  
+
+Gemäß der dem Tf nicht vorliegenden fün(cid:332)en Fplo sollte DGS 43373 abweichend bis in die 
+
+Gruppe K des Bf Mannheim Rbf fahren und nach einem Fahrtrichtungswechsel weiter nach Bf 
+
+Mannheim  Hbf  fahren.  Die  planmäßige  Aufenthaltszeit  im  Bf  Mannheim  Rbf  war  von 
+
+09:06 Uhr bis 09:46 Uhr vorgesehen, also mit einem ausreichenden Zei(cid:414)enster für den Fahrt-
+
+richtungswechsel.  
+
+Seite 16 von 32 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 07.03.2024, Bf Mannheim Rbf 
+
+Der  Tf  des  DGS 43373  gab  jedoch  gegenüber  dem  EVU  an,  auch  die  vierte  Fplo 
+
+Nr. 50546_SW_LTE NL nach dem Bf Lampertheim aus den  Augen verloren zu haben. Er  sei 
+
+auch nach der Abzw Mannheim Rennplatz nach dem Buchfahrplan 6920 weitergefahren, wel-
+
+cher  die  Einfahrt  in  den  B(cid:332) Mannheim Rbf Gr K/Kn  vorsah.  Somit  erkannte  der  Tf  des 
+
+DGS 43373  die  vermeintliche  Fehlleitung  gemäß  dem  Laufweg  der  vierten  Fplo 
+
+Nr. 50546_SW_LTE  NL  nicht,  fuhr  jedoch  zufällig  auf  dem  nach  der  gül(cid:415)gen  fün(cid:332)en  Fplo 
+
+Nr. 50546_SW_LTE NL_N1 eigentlich vorgesehenen Laufweg des Zuges. 
+
+Fplo sind u. a. zum Umleiten von Zugfahrten zur Durchführung von Bauarbeiten notwendig. 
+
+Es muss jedoch gewährleistet sein, dass die Beachtung der Anzahl der bei einer Zugfahrt zu 
+
+beachtenden Fplo durch das EVU und den Tf beherrscht werden kann. Im vorliegenden Fall 
+
+erhielten weder der Tf des DGS 43373 noch die Fdl-in K die am Vortag des Ereignisses versen-
+
+dete fün(cid:332)e Fplo Nr. 50546_SW_LTE NL_N1, wodurch sich auch Probleme in deren Verteilung 
+
+aufzeigten. Je mehr Änderungen an Fplo vorgenommen werden und je mehr Beteiligte und 
+
+Schni(cid:425)stellen es bei der Übersendung dieser gibt, desto höher ist die Fehlerwahrscheinlich-
+
+keit. Das EIU sollte zukün(cid:332)ig daher anstreben die Anzahl an Fplo für eine Zugfahrt gering zu 
+
+halten bzw. zu begrenzen. 
+
+Der Tf gab weiter an, mit dem DGS 43373 vor dem Halt zeigenden Esig C des Bf Mannheim Rbf 
+
+zum Halten gekommen zu sein. Nachdem dieses in die Stellung Langsamfahrt gewechselt sei, 
+
+habe er den Zug wieder in Bewegung gesetzt. Am Ende des Einfahrgleises habe er ein erlo-
+
+schenes hochstehendes Sperrsignal [red. Anm.: das Ls 602II] wahrgenommen und dies mit ei-
+
+nem möglichen Streik des Betriebspersonals auf einem Stw in Verbindung gebracht, von dem 
+
+ihm kurz zuvor berichtet worden sei. Das Signalbild Halt habe er nicht erkannt. Ebenfalls habe 
+
+er das an dem hochstehenden Sperrsignal angebrachte weiß-rot-weiße Mastschild nicht wahr-
+
+genommen. Er sei davon ausgegangen, dass sein Zug links am Stw 16 vorbei in eine andere 
+
+Gleisgruppe des Bf Mannheim Rbf weiterfahren solle. In seiner Auﬀassung sei er durch die 
+
+nicht vorhandene Beeinﬂussung des 1.000 Hz und des 2.000 Hz Gleismagneten bestärkt wor-
+
+den. Nach der unzulässigen Vorbeifahrt am Ls 602II habe er erkannt, dass die Weiche W325 
+
+sich für seinen angenommenen Fahrweg nicht in der rich(cid:415)gen Stellung befand und der Fahr-
+
+weg des DGS 43373 in Richtung einer Rangierlok auf dem Ablau(cid:297)erg A führte. Darau(cid:300)in habe 
+
+er eine Schnellbremsung eingeleitet und sich festgehalten.  
+
+Seite 17 von 32 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 07.03.2024, Bf Mannheim Rbf 
+
+Der  Tf  hä(cid:425)e  den  DGS 43373  vor  dem  Halt  zeigenden  Ls 602II  anhalten  müssen.  Gemäß 
+
+Ril 301.0101 Abschn. 1 Abs. 1 galt das Signal Halt für Zug- und Rangierfahrten und konnte ge-
+
+mäß Ril 301.0101 Abschn. 2 Abs. 4 am Hauptsignal oder am  Sperrsignal gezeigt werden. An 
+
+dem  Ls 602II  war  ein  weiß-rot-weißes  Mastschild  angebracht.  Gemäß  Ril 301.0002 Ab-
+
+schn. 8 Abs. 1 a) waren Lichtsignale, an deren Standort bei Halt oder einem erloschenen Sig-
+
+nalbild  zu  halten  war,  durch  ein  weiß-rot-weißes  Mastschild  gekennzeichnet.  Dementspre-
+
+chend galt für den Tf auch am vermeintlich erloschenen Ls 602II ein zwingender Halt vor die-
+
+sem  Signal.  Die  festgestellten  Handlungen  des  Tf  bei  der  Einfahrt  in  den  Bf  Mannheim  Rbf 
+
+zeigten entgegen Verordnung (EU) 2018/762 Anhang I Ziﬀ. 4.2.1 eine mangelnde Befähigung 
+
+des Tf zur Erfüllung ihm übertragener sicherheitsrelevanter Aufgaben. 
+
+Die  fehlende  Handlungssicherheit,  insbesondere  die  Vorbeifahrt  des  Tf  am  Halt  zeigenden 
+
+Ls 602II, wird als ursächlicher Faktor [F1] für das Geschehen gewertet. Der Ausschluss dieser 
+
+Handlung hä(cid:425)e das Ereignis aller Wahrscheinlichkeit nach verhindert. 
+
+Auswertung der elektronischen Fahrtenregistrierung 
+
+Die im führenden Tfz der BR 186 gespeicherten Daten der elektronischen Fahrtenregistrierung 
+
+(EFR) wurden vom EVU ausgelesen und der BEU zur Auswertung übersandt. Die Rohdaten wa-
+
+ren vollständig und fehlerfrei. Ein genauer Uhrzeitabgleich war nicht möglich. Die registrierten 
+
+Zeitdaten  passten  jedoch  zu  den  Daten  anderer  Quellen  mit  einer  Abweichung  von  einer 
+
+Stunde. 
+
+Die nachfolgende Abbildung zeigt den Fahrtverlauf des DGS 43373 von der Abfahrt im Bf Em-
+
+merich bis zur Zugkollision im Bf Mannheim Rbf, normiert auf die mi(cid:425)eleuropäische Zeit. 
+
+Abbildung 5: Fahrtverlauf DGS 43373 von Bf Emmerich bis Bf Mannheim Rbf 
+
+Seite 18 von 32 
+
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 07.03.2024, Bf Mannheim Rbf 
+
+Aus der Abbildung ist ersichtlich, dass der Tf um 02:27 Uhr nach seinem Dienstbeginn im Bf 
+
+Emmerich seine Tf-Nummer in das Fahrzeuggerät eingab. Um 02:38 Uhr setzte der Tf die Fahrt 
+
+des DGS 43373 fort. Im weiteren Fahrtverlauf von Emmerich bis Mannheim kam es zu mehre-
+
+ren kurzen Standzeiten der Zugfahrt. Die längste dauerte 10 Minuten und 49 Sekunden. 
+
+Die nachfolgende Abbildung zeigt den Fahrtverlauf des DGS 43373 im letzten Fahrabschni(cid:425) 
+
+im Großraum Mannheim bis zum Ereigniszeitpunkt normiert auf die mi(cid:425)eleuropäische Zeit. 
+
+Abbildung 6: Fahrtverlauf DGS 43373 bis zum Ereigniszeitpunkt 
+
+Aus den aufgezeichneten Daten der EFR war ersichtlich, dass DGS 43373 um 09:18 Uhr vor 
+
+dem  Esig  C  zum  Halten gekommen war.  13  Sekunden  danach  wurde  der  Zug  durch  den  Tf 
+
+wieder in Bewegung gesetzt und auf eine maximale Geschwindigkeit von 40 km/h beschleu-
+
+nigt. Um 09:21 Uhr sank der Druck in der Hauptlu(cid:332)leitung (HLL) unter 3,5 bar. Der Tf ha(cid:425)e 
+
+unmi(cid:425)elbar zuvor eine Schnellbremsung eingeleitet. Darau(cid:300)in verringerte sich die Geschwin-
+
+digkeit des DGS 43373 und der Zug kam um 09:21 Uhr zum Halten. Wann und mit welcher 
+
+Geschwindigkeit DGS 43373 mit der Rangierlok A(cid:2870) kollidierte ließ sich aus den aufgezeichne-
+
+ten Fahrdaten nicht genauer bes(cid:415)mmen. 
+
+4.2  Fahrzeuge	und	technische	Einrichtungen	
+
+In diesem Kapitel sind die Erkenntnisse aus der Untersuchung beteiligter Fahrzeuge, der Ei-
+
+senbahninfrastruktur und weiterer technischer Einrichtungen einschließlich damit eventuell 
+
+verbundener Tä(cid:415)gkeiten und Entscheidungen dargestellt. 
+
+Seite 19 von 32 
+
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 07.03.2024, Bf Mannheim Rbf 
+
+4.2.1  Untersuchung	von	Fahrzeugen	
+
+Nachfolgend erfolgt die Darstellung der relevanten Erkenntnisse zu den Fahrzeugen der be-
+
+teiligten Zugfahrt DGS 43373 und der Rangierlok A(cid:2870). 
+
+DGS 43373 
+
+Der DGS 43373 war aus einem arbeitenden Tfz der BR 186 und 28 beladenen und leeren Gü-
+
+terwagen  gebildet.  Die  Gesamtmasse  des  Zuges  betrug  955 t  bei  einer  Gesamtlänge  von 
+
+633 m. Im Fahrplan waren die Bremsstellung G und 100 km/h Höchstgeschwindigkeit vorge-
+
+geben.  Die  Zugfahrt  des  DGS 43373  wurde  entsprechend  der  Regelung  gemäß 
+
+Ril 915.0101Z01 Abschn. 2 Abs. 2 in der Bremsstellung P durchgeführt. Die Bremsberechnung 
+
+ergab  87 Bremshundertstel.  Gemäß  Fahrplan  waren  69 Mindestbremshundertstel  erforder-
+
+lich. 
+
+Aus der folgenden Tabelle lassen sich die technischen Fahrzeugdaten des arbeitenden Tfz ent-
+
+nehmen: 
+
+Fahrzeugnummer 
+
+91 80 6186 110-3 
+
+Antriebsart 
+
+Leistung 
+
+Gesamtlänge (LüP) 
+
+Masse 
+
+Höchstgeschwindigkeit 
+
+Bremsbauart 
+
+Tabelle 5: Technische Daten Tfz BR 186 
+
+elektrisch 
+
+5,6 MW 
+
+18,9 m 
+
+84 t 
+
+140 km/h 
+
+KE-GPR-E mZ 
+
+Nach Angabe des EVU lagen zum Ereigniszeitpunkt an den Fahrzeugen des DGS 43373 keine 
+
+Störungen vor, die einen Einﬂuss auf das Ereignis gehabt haben könnten. Die Bremsen aller 
+
+Fahrzeuge im Zug waren eingeschaltet.  
+
+Auf eine weiterführende fahrzeugtechnische Untersuchung der eingesetzten Eisenbahnfahr-
+
+zeuge wurde verzichtet, da auf Grundlage der Sachverhaltsermi(cid:425)lung etwaige Mängel oder 
+
+Instandhaltungsdeﬁzite keinen Einﬂuss auf das Ereignis gehabt haben können. Somit konnten 
+
+die Eisenbahnfahrzeuge des DGS 43373 weder einen ursächlichen noch einen beitragenden 
+
+Faktor im Geschehen darstellen. 
+
+Seite 20 von 32 
+
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 07.03.2024, Bf Mannheim Rbf 
+
+Rangierlok 𝐀𝟐 
+
+Bei der am Ereignis beteiligten Rangierlok A(cid:2870) handelte es sich um ein Tfz der BR 296 mit einer 
+
+Masse von 80 t. Das Tfz stand zum Ereigniszeitpunkt und war angebremst. Durch die Kollision 
+
+wurde das Tfz um mehrere Meter verschoben. 
+
+Auf eine fahrzeugtechnische Untersuchung des eingesetzten Eisenbahnfahrzeugs wurde ver-
+
+zichtet, da auf Grundlage der Sachverhaltsermi(cid:425)lung etwaige Mängel oder Instandhaltungs-
+
+deﬁzite keinen Einﬂuss auf das Ereignis gehabt haben können. Somit konnte das Tfz der Ran-
+
+gierlok A(cid:2870) weder einen ursächlichen noch einen beitragenden Faktor im Geschehen darstel-
+
+len. 
+
+4.2.2  Untersuchung	der	bautechnischen	Infrastruktur	
+
+Aufgrund der Erkenntnisse zum Ereignishergang und der Sachverhaltsermi(cid:425)lung konnte auf 
+
+eine weiterführende oberbautechnische Untersuchung verzichtet werden. Instandhaltungs-
+
+deﬁzite im Zusammenhang mit dem Ereignis waren auszuschließen. 
+
+4.2.3  Untersuchung	der	Leit‐	und	Sicherungstechnik	
+
+Zielsignal für die Zugfahrt DGS 43373 im Bf Mannheim Rbf war das Halt zeigende Ls 602II im 
+
+Gleis 602. Gemäß Ril 819.0302 Abschn. 2 Abs. 2 und 5 dur(cid:332)e ein als Lichtsignal ausgeführtes 
+
+hochstehendes Sperrsignal u. a. als Zielsignal für Güter- oder Reisezugeinfahrten bis 40 km/h 
+
+verwendet werden. Es musste gemäß Ril 819.0302 Abschn. 2 Abs. 3 unmi(cid:425)elbar rechts neben 
+
+dem zugehörigen Gleis und gemäß Ril 819.0302 Abschn. 2 Abs. 5 als hohe Bauform am geplan-
+
+ten Zielpunkt der Zugfahrt aufgestellt werden. Das Ls 602II erfüllte somit baulich die entspre-
+
+chenden Vorgaben der Ril 819.0302. 
+
+Ausrüstung mit 2.000 Hz‐Gleismagnet 
+
+Die hochstehenden Ls der Gleisgruppe 600 verfügten über keinen 2.000 Hz Gleismagneten, 
+
+welcher zu einer Zwangsbremsung des Zuges bei der unzulässigen Vorbeifahrt an dem Halt 
+
+zeigenden Signal geführt hä(cid:425)e. Gemäß Ril 819.1310 Abschn. 9 Abs. 2 waren an Sperrsignalen 
+
+in  den  Einfahrgleisen  von  Rangierbahnhöfen,  die  Zielpunkt  für  Zugfahrten  waren,  keine 
+
+2.000 Hz Gleismagneten anzuordnen. Dies steht im Widerspruch zum § 15 Abs. 2 EBO wonach 
+
+Strecken mit Zugbeeinﬂussung auszurüsten sind. Strecken im Sinne der EBO umfassen sowohl 
+
+die  freie  Strecke  als  auch  Betriebsstellen.  Ausnahmen  hiervon  sieht  der  Verordnungsgeber 
+
+nicht  vor.  Dieser  Umstand,  wonach  es  im  B(cid:332) Mannheim Rbf Gr K/Kn  keine  Ausrüstung  mit 
+
+Seite 21 von 32 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 07.03.2024, Bf Mannheim Rbf 
+
+2.000 Hz Gleismagneten der Zielsignale gab, führte dazu, dass bei der unzulässigen Vorbei-
+
+fahrt keine Zwangsbremsung der Zugfahrt ausgelöst wurde. Dies wird als ein ursächlicher Fak-
+
+tor [F2] für die Kollision gewertet. Der Ausschluss dieses Umstandes hä(cid:425)e das Ereignis aller 
+
+Wahrscheinlichkeit nach verhindert. 
+
+Vorsignalisierung 
+
+Das Signalisierungskonzept im Bf Mannheim Rbf ha(cid:425)e u. a. die Besonderheit, dass es keine 
+
+Vorsignalisierung für die hochstehenden Sperrsignale der Gleisgruppe 600 gab. Dies stand ur-
+
+sprünglich  im  Einklang  mit  der  zur  Zeiten  der  Deutschen  Bundesbahn  geltenden  Druck-
+
+schri(cid:332) (DS) 818 „Grundsätze für die Anordnung von Vorsignalen“ sowie der zum Ereigniszeit-
+
+punkt gül(cid:415)gen Ril 819.0203 der DB InfraGO AG. 
+
+Das zuständige EIU ha(cid:425)e noch vor dem Ereignis die Weisung Nummer 819.0203-W-102 „Vor-
+
+signalisierung von Ausfahr- und Zwischensignalen – Anpassung Ril 819.0203 und Kompensa(cid:415)-
+
+onsmaßnahmen für Bestandsanlagen“ herausgegeben. Anlass hierfür waren Häufungen unzu-
+
+lässiger Vorbeifahrten an Halt zeigenden Ausfahrsignalen in Bf, bei denen Durchfahrten nicht 
+
+zugelassen waren. Interne Untersuchungen ha(cid:425)en ergeben, dass gemäß den geltenden Pla-
+
+nungsgrundsätzen in diesen Fällen keine Ausfahrvorsignalisierung vorhanden war. Zur Erhö-
+
+hung  der  Betriebssicherheit  en(cid:414)iel  mit  dieser  Weisung  teilweise  die  in  Ril 819.0203 Ab-
+
+schn. 1 Abs. 7  dargestellte  Ausnahme  der  Vorsignalisierung.  Für  Ausfahr-  und  Zwischensig-
+
+nale, die nur Start einer Zugfahrt waren, war eine Vorsignalisierung weiterhin nicht erforder-
+
+lich. Punkt 5.2 der Weisung enthielt Angaben zum weiteren Bestandsschutz der vorhandenen 
+
+Anlagen der Leit- und Sicherungstechnik, wonach die neue Regelung u. a. nur bei Umbauten 
+
+anzuwenden war. Gemäß Punkt 5.3.3.1 Nr. 1 waren jedoch Kompensa(cid:415)onsmaßnahmen trotz 
+
+des Bestandsschutzes bis zum 30.09.2024 notwendig: 
+
+„Bei Betriebsfällen von Zugfahrten von einem Hauptsignal (Einfahr‐ bzw. Zwischensignal) 
+
+zu einem Hp0/Sh0 zeigendem Zielsignal, wenn das Zielsignal nicht mit Halt erwarten oder 
+
+Vorsignaltafel angekündigt wird. 
+
+Die Kompensa(cid:415)on ist sowohl für Gleise mit als auch für Gleise ohne eingerichtete Durch‐
+
+fahrten vorzusehen.“ 
+
+Demgegenüber war eine Kompensa(cid:415)onsmaßnahme gemäß Punkt 5.3.3.2 Nr. 3 nicht erforder-
+
+lich: 
+
+Seite 22 von 32 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 07.03.2024, Bf Mannheim Rbf 
+
+„Wenn keine Weiterfahrt oder nur Rangierfahrten nach dem Zielsignal möglich sind und 
+
+die zulässige Geschwindigkeit vor dem Zielsignal kleiner als oder gleich 30 km/h beträgt.“ 
+
+Da die Einfahrgeschwindigkeit vom Esig C bis zum Ls 602II 40 km/h betrug, war eine Kompen-
+
+sa(cid:415)onsmaßnahme entsprechend dieser Weisung erforderlich. Auf Nachfrage der BEU, ob für 
+
+den Bf Mannheim Rbf im Rahmen dieser Weisung entsprechende Kompensa(cid:415)onsmaßnahmen 
+
+vor oder nach dem Ereignis geplant waren, wurde dies seitens des EIU verneint. Das EIU gab 
+
+an, dass hochstehende Ls nicht für Kompensa(cid:415)onsmaßnahmen gemäß dieser Weisung vorge-
+
+sehen waren, da sie weder Zwischen-, Zugdeckungs- noch Ausfahrsignale seien.  
+
+Der Umstand, wonach es im Bf Mannheim Rbf für die Einfahrten in die Gleisgruppe K keine 
+
+Ausrüstungsvorgaben für ein gesamtheitliches infrastruktursei(cid:415)ges Zugbeeinﬂussungssystem 
+
+gab, wird als systemischer Faktor [S2] eingestu(cid:332). Dieser organisatorische Faktor dür(cid:332)e sich in 
+
+Zukun(cid:332) auf ähnliche und damit zusammenhängende Ereignisse auswirken. 
+
+4.3  Menschliche	Faktoren	
+
+In diesem Kapitel werden Untersuchungserkenntnisse zu menschlichen Handlungen und/oder 
+
+Entscheidungen am gefährlichen Ereignis beteiligter Personen dargestellt. Entsprechende Er-
+
+kenntnisse können sich hierbei insbesondere im Bereich menschlicher und individueller Merk-
+
+male sowie organisatorischer und Arbeitsplatzfaktoren ergeben. 
+
+4.3.1  Beteiligte	des	Infrastrukturbetreibers	
+
+Durch das EIU wurden die entsprechenden Nachweise der Kenntnisse und Fer(cid:415)gkeiten für Be-
+
+diener von Signalanlagen jeweils für die Fdl-in und die Ww-in für die entsprechenden Stw vor-
+
+gelegt. Ebenfalls wurden der BEU die aktuellen Tauglichkeitsnachweise der Fdl-in und der Ww-
+
+in zur Einsichtnahme vorgelegt. Die überprü(cid:332)en Anforderungen nach der Eisenbahn-Bau- und 
+
+Betriebsordnung (EBO) zeigten keine Auﬀälligkeiten. 
+
+4.3.2  Beteiligte	der	EVU	
+
+In diesem Kapitel werden sowohl die individuellen Qualiﬁka(cid:415)onen als auch die Dienstplanung 
+
+des Tf des DGS 43373 betrachtet. 
+
+Tf der Rangierlok 𝐀𝟐 
+
+Der Tf war im Besitz eines gül(cid:415)gen Triebfahrzeugführerscheins gemäß Triebfahrzeugführer-
+
+scheinverordnung  (TfV).  Für  das  Führen  von  Eisenbahnfahrzeugen  erhielt  er  vom EVU  eine 
+
+Seite 23 von 32 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 07.03.2024, Bf Mannheim Rbf 
+
+Zusatzbescheinigung,  in  der  u. a.  die  Befähigung  zum  Führen  der  BR 296  und  weitere  Zu-
+
+satzqualiﬁka(cid:415)onen  eingetragen  waren.  Ein  gül(cid:415)ger  Nachweis  über  die  gesundheitliche  Eig-
+
+nung des Tf wurde der BEU durch das EVU ebenfalls vorgelegt. Die überprü(cid:332)en Anforderun-
+
+gen nach der TfV waren erfüllt. 
+
+Tf des DGS 43373 – Qualiﬁka(cid:415)on und Überwachung 
+
+Der Tf war bei dem Personaldienstleiter Westwind Eisenbahnservice GmbH beschä(cid:332)igt und 
+
+an das EVU LTE Netherlands B.V. entliehen. Er war im Besitz eines gül(cid:415)gen Triebfahrzeugfüh-
+
+rerscheins gemäß TfV. Für das Führen von Eisenbahnfahrzeugen erhielt er vom EVU eine Zu-
+
+satzbescheinigung, in der u. a. die Befähigung zum Führen der BR 186 und weitere Zusatzqua-
+
+liﬁka(cid:415)onen eingetragen waren. Ein gül(cid:415)ger Nachweis über die gesundheitliche Eignung sowie 
+
+die am Ereignisort vorhandene Streckenkunde des Tf wurden der BEU durch das EVU ebenfalls 
+
+zur Einsichtnahme vorgelegt. Die überprü(cid:332)en Anforderungen nach der TfV waren erfüllt. 
+
+Durch das EVU wurde in den Jahren 2022 und 2023 jeweils eine Überwachung der Ausübung 
+
+der Tä(cid:415)gkeiten am Arbeitsplatz bei dem Tf durchgeführt. Die einzelnen Überwachungspunkte 
+
+bestand der Tf gemäß dem Maßstab des EVU überwiegend mit der bestmöglichen Bewertung 
+
+„gut“ und zum Teil mit der zweitbestmöglichen Bewertung „ausreichend“. Hieraus resul(cid:415)erte, 
+
+dass kein Handlungsbedarf für eventuelle sofor(cid:415)ge Maßnahmen zur Nachschulung bestand.  
+
+Tf des DGS 43373 – Ruhezeiten und Arbeitsschutzpausen 
+
+Gemäß  den  der  BEU  übersandten  Dienstplänen  ha(cid:425)e  der  Tf  vor  dem  Ereignis  zuletzt  am 
+
+04.03.2024 und 05.03.2024 eine Dienstschicht. Am 06.03.2024 ha(cid:425)e der Tf einen Ruhetag. 
+
+Zwischen  dem  Dienstende  am  05.03.2024  und  dem  Dienstbeginn  am  07.03.2024  lagen 
+
+40,5 Stunden Ruhezeit. Es waren ausreichend Ruhezeiten vor der ereignisrelevanten Schicht 
+
+vorhanden. 
+
+Die Dienstschicht des Tf am Ereignistag begann um zwei Uhr im Bf Emmerich und sollte um 
+
+12:00 Uhr im Bf Mannheim Hbf enden. Als Arbeitnehmer unterlag der Tf und damit auch das 
+
+für ihn zuständige EVU den Bes(cid:415)mmungen des Arbeitszeitgesetzes (ArbZG). Gemäß § 4 ArbZG 
+
+galten für Arbeitsschutzpausen folgende Vorgaben:  
+
+  Die Arbeit musste durch eine im Voraus feststehende Arbeitsschutzpause von min-
+
+destens 45 Minuten bei einer Arbeitszeit von mehr als neun Stunden unterbrochen 
+
+werden.  
+
+Seite 24 von 32 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 07.03.2024, Bf Mannheim Rbf 
+
+  Die Arbeitsschutzpause konnte in Zeitabschni(cid:425)e von jeweils 15 Minuten aufgeteilt 
+
+werden. 
+
+  Arbeitnehmer dur(cid:332)en länger als sechs Stunden hintereinander nicht ohne Arbeits-
+
+schutzpausen beschä(cid:332)igt werden. 
+
+Die Auswertung der EFR Daten ha(cid:425)e gezeigt, dass die Zugfahrt DGS 43373 von der Abfahrt am 
+
+Bf Emmerich bis zur Kollision mit der Rangierlok A(cid:2870) im Bf Mannheim Rbf keine Standzeiten 
+
+ha(cid:425)e,  welche  als  Arbeitsschutzpause  nach  § 4 ArbZG  hä(cid:425)en  angerechnet  werden  können. 
+
+Zum Ereigniszeitpunkt war die maximale ununterbrochene Arbeitszeit von sechs Stunden so-
+
+mit überschri(cid:425)en gewesen. Der Tf gab gegenüber dem EVU an, dass er mit seiner Zugfahrt gut 
+
+durchgekommen sei. Aufgrund dessen habe er entschieden, keine Arbeitsschutzpause einzu-
+
+legen und den Zug bis zum Zielbahnhof Mannheim Hbf zu fahren. Warum der Tf keine Arbeits-
+
+schutzpause einlegte konnte im Rahmen der Untersuchung nicht zweifelsfrei geklärt werden. 
+
+Ein  kausaler  Zusammenhang  zwischen  der  fehlenden  Arbeitsschutzpause  und  dem  Ereignis 
+
+konnte durch die BEU im Rahmen der Untersuchung nicht zweifelsfrei hergestellt werden. Aus 
+
+diesem Grund wurde dieser Aspekt nicht als Faktor gewertet. Die dennoch bedeutsame Über-
+
+wachung  der  Einhaltung  gesetzlicher  Arbeitsschutzpausen  durch  das  EVU  LTE  Netherlands 
+
+B.V. wird im nachfolgenden Kapitel dargestellt. 
+
+4.4  Feedback‐	und	Kontrollmechanismen	
+
+In diesem Kapitel wird insbesondere auf Bedingungen, Feedback- und Kontrollmechanismen 
+
+im Eisenbahnsystem eingegangen, denen ein ak(cid:415)ver Einﬂuss auf die Entstehung ähnlicher Er-
+
+eignisse zugeschrieben werden könnte. Diese Mechanismen schließen Faktoren des Risiko- 
+
+und Sicherheitsmanagement sowie Überwachungsverfahren mit ein. 
+
+Überwachung der Ausübung der Tä(cid:415)gkeiten am Arbeitsplatz 
+
+Das EVU LTE Netherlands B.V. ha(cid:425)e im Rahmen seines SMS die Häuﬁgkeit der Überwachun-
+
+gen der Ausübung der Tä(cid:415)gkeit am Arbeitsplatz geregelt. Gemäß der hierfür relevanten Ar-
+
+beitsanweisung war für die Häuﬁgkeit der Überwachungen die Erfahrung des Mitarbeiters in 
+
+der entsprechenden Verwendung entscheidend. Mitarbeiter, die weniger als zwei Jahre ein-
+
+gesetzt waren, galten als unerfahren und mussten zwei Mal jährlich überwacht werden. Der 
+
+Tf des DGS 43373 wurde seit dem 22.03.2022 als Tf bei dem EVU eingesetzt und galt gemäß 
+
+der Arbeitsanweisung zum Ereigniszeitpunkt somit noch als unerfahren. Er hä(cid:425)e folglich zwei 
+
+Seite 25 von 32 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 07.03.2024, Bf Mannheim Rbf 
+
+Mal jährlich überwacht werden müssen. In den Jahren 2022 und 2023 fanden bei dem Tf je-
+
+doch jeweils nur eine Überwachung der Ausübung der Tä(cid:415)gkeit am Arbeitsplatz sta(cid:425). Da nicht 
+
+festgestellt werden konnte, ob die fehlenden Überwachungen ereignisrelevant waren, wurde 
+
+dieser Sachverhalt nicht als Faktor im Geschehen untersucht. 
+
+Überwachung der Einhaltung der gesetzlichen Arbeitsschutzpausen 
+
+Das EVU LTE Netherlands B.V. ha(cid:425)e entsprechend der Verpﬂichtung aus § 47 Abs. 6 EBO im 
+
+Rahmen seines SMS eine Regelung festgelegt, dass für die in Deutschland eingesetzten Tf die 
+
+Bes(cid:415)mmungen  des  ArbZG  in  seiner  jeweils  aktuellen  Form  anzuwenden  waren.  Untersetzt 
+
+wurde die Regelung durch weitere interne Weisungen, wonach neben den Tf auch die Mitar-
+
+beiter der Leitstelle/Planung für die Umsetzung der Arbeitsschutzpausen verantwortlich wa-
+
+ren. Nach Angabe des EVU wurden die verbindlichen Arbeitsschutzpausen den Tf sowohl im 
+
+Bla(cid:426)ahrplan als auch in EBuLa als nicht veröﬀentlichte Halte dargestellt. Arbeitsschutzpausen 
+
+in  einer  Fplo  wurden  i. d. R.  durch  einen  nach  den  Zeitangaben  angebrachten  Hinweistext 
+
+„Lokführererholungshalt“ (LE-Halt) oder „LE-Halt“ gekennzeichnet, wenn es durch diese zu ei-
+
+ner Abweichung von der im Regelfahrplan geplanten Arbeitsschutzpause kam. Gemäß einer 
+
+internen Weisung mussten die Mitarbeiter der Leitstelle/Planung bei der Trassenbestellung 
+
+und Schichtplanung die LE-Halte berücksich(cid:415)gen. Des Weiteren mussten sie alle Fplo und Re-
+
+gelfahrpläne nach deren Eingang auf die korrekte Berücksich(cid:415)gung der LE-Halte hin überprü-
+
+fen. 
+
+Die am Ereignistag gül(cid:415)gen Fplo für den DGS 43373 enthielten entgegen den unternehmens-
+
+internen Vorgaben keinen etwaig angebrachten Hinweistext zu einem LE-Halt für die Zugfahrt. 
+
+Nach Angabe des EVU sei die Prüfung der eingegangenen Fplo durch den Mitarbeiter der Pla-
+
+nung vermutlich nicht detailliert genug durchgeführt worden, so dass das Fehlen des LE-Halts 
+
+nicht erkannt worden sei. Ebenfalls habe der Dienstau(cid:332)rag des Tf keine Vorgabe enthalten wo 
+
+und wann er seine Arbeitsschutzpause nehmen sollte. Nach Angabe des EVU hä(cid:425)e in diesem 
+
+Fall ein LE-Halt zwischen dem Tf und der Betriebszentrale des EIU, ggf. durch die Unterstüt-
+
+zung der Au(cid:332)rag gebenden Stelle, vereinbart werden müssen.  
+
+4.5  Frühere	Ereignisse	ähnlicher	Art	
+
+Am 24.11.2017 fuhr DGS 43724 in den Bf Oﬀenburg Gbf ein. Der Tf des Zuges nahm das Halt 
+
+zeigende hochstehende Ls 3I nicht wahr und fuhr an diesem vorbei. Da das Ls 3I nicht mit ei-
+
+nem 2.000 Hz Gleismagneten ausgerüstet war erhielt der Zug keine Zwangsbremsung. Der Tf 
+
+Seite 26 von 32 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 07.03.2024, Bf Mannheim Rbf 
+
+erkannte kurz darauf ein stehendes Tfz in seinem Fahrweg und führte eine Schnellbremsung 
+
+aus. Die Kollision mit dem stehenden Tfz konnte hierdurch jedoch nicht mehr verhindert wer-
+
+den. 
+
+Am 23.05.2023 fuhr EZ 68391 in den Bf Gremberg ein und sollte am Halt zeigenden Ls 313I 
+
+anhalten.  Der  Tf  gab  an,  aufgrund  der  ungüns(cid:415)gen  Sonneneinstrahlung  das  Signalbild  des 
+
+Ls 313I  nicht  erkannt  zu  haben  und  fuhr  an  diesem  vorbei.  Da  das  Ls 313I  nicht  mit  einem 
+
+2.000 Hz Gleismagneten ausgerüstet war erhielt der Zug keine Zwangsbremsung. Der Tf er-
+
+kannte kurz darauf eine Rangierabteilung auf der Weiche W469 und führte eine Schnellbrem-
+
+sung aus. Die Flankenfahrt mit der Rangierabteilung konnte hierdurch jedoch nicht mehr ver-
+
+hindert werden. 
+
+Seite 27 von 32 
+
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 07.03.2024, Bf Mannheim Rbf 
+
+5  Schlussfolgerungen	
+
+Das folgende Kapitel enthält eine Zusammenfassung der ermi(cid:425)elten ursächlichen, beitragen-
+
+den  und  systemischen Faktoren.  Zusätzlich  sind  zwei  weitere  Unterkapitel  vorgesehen,  um 
+
+Informa(cid:415)onen zu bereits ergriﬀenen Maßnahmen und zu zusätzlichen Bemerkungen zu teilen. 
+
+5.1  Zusammenfassung	und	Schlussfolgerung	
+
+Die Zugkollision war auf einen Arbeitsfehler des Tf des DGS 43373 zurückzuführen. Dieser fuhr 
+
+unzulässig an dem Halt  zeigenden Ls 602II vorbei [F1]  und  konnte nach dem  Erkennen des 
+
+Fahrzeugs in seinem Fahrweg eine Zugkollision mit der stehenden Rangierlok A(cid:2870) nicht mehr 
+
+verhindern.  Als  weiterer  ursächlicher  Faktor  wird  die  fehlende  2.000 Hz-Beeinﬂussung  auf-
+
+grund nicht vorhandener Ausrüstung bei der unzulässigen Vorbeifahrt am Ls 602II angesehen 
+
+[F2]. Der Ausschluss beider ursächlicher Faktoren hä(cid:425)e das Ereignis aller Wahrscheinlichkeit 
+
+nach verhindert. 
+
+Zu ursächlichem Faktor „Fehlende Handlungssicherheit“ [F1] 
+
+Der Tf des DGS 43373 ging bei der Einfahrt in den Bf Mannheim Rbf fälschlicherweise davon 
+
+aus, links am Stw 16 vorbei in einen anderen B(cid:332) zu fahren. Im weiteren Verlauf der Einfahrt 
+
+des DGS 43373 erkannte der Tf das Ls 602II und nahm es aufgrund der zu diesem Zeitpunkt 
+
+noch ak(cid:415)vierten Nachtschaltung als Erloschen war. Das weiß-rot-weiße Mastschild am Ls 602II 
+
+habe  er  nicht  erkannt.  Des  Weiteren  ging  er  davon  aus,  bei  anderen  Zugfahrten  in  die 
+
+Gruppe K des Bf Mannheim Rbf eine 1.000 Hz Beeinﬂussung am Vorsignal bei der Fahrt auf 
+
+ein Halt zeigendes Signal erhalten zu haben. Das Fehlen dieser Beeinﬂussung habe ihn in sei-
+
+ner Vermutung, dass das Ls 602II erloschen sei und nicht Halt zeige, bestä(cid:415)gt. 
+
+Ereignisursächlich war die unzulässige Vorbeifahrt des Tf des DGS 43373 an dem Halt zeigen-
+
+den Ls 602II. Der Arbeitsfehler der Missachtung des Halt zeigenden Ls 602II und insbesondere 
+
+des weiß-rot-weißen Mastschildes führte zu der Zugkollision mit der Rangierlok A(cid:2870). Hierin ist 
+
+eine fehlende Handlungssicherheit des Tf erkennbar. Die zuvor fehlende Arbeitsschutzpause 
+
+des Tf und eine bei ihm anzunehmende, erhöhte Müdigkeit sind im Kontext zu sehen. 
+
+Gemäß  Verordnung (EU) 2018/762 Anhang I Ziﬀ. 4.2.1  musste  das  Kompetenzmanagement-
+
+system des EVU sicherstellen, dass der Tf zur Erfüllung seiner sicherheitsrelevanten Aufgabe 
+
+befähigt war. Hierunter ﬁel neben der Ermi(cid:425)lung der für die sicherheitsrelevante Aufgabe not-
+
+wendigen Kompetenz auch die entsprechende Ausbildung, fortlaufende Schulung sowie die 
+
+Seite 28 von 32 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 07.03.2024, Bf Mannheim Rbf 
+
+regelmäßige  Bewertung  der  Kompetenz  damit  die  Qualiﬁka(cid:415)onen  Fer(cid:415)gkeiten  des  Tf  auf 
+
+Dauer erhalten bleiben. 
+
+Zu ursächlichem Faktor „Keine Ausrüstung mit 2.000 Hz‐Gleismagnet am Zielsignal“ [F2] 
+
+Der Bf Mannheim Rbf war infrastruktursei(cid:415)g nicht vollständig mit PZB Gleismagneten ausge-
+
+rüstet. Das Fehlen der Gleismagnete am Zielsignal der Zugfahrt führte letztlich dazu, dass eine 
+
+Überwachung der Fahrweise des Tf technisch nicht möglich war. Insbesondere hä(cid:425)e ein wir-
+
+kender  2.000 Hz  Gleismagnet  am  Ls 602II  bei  der  unzulässigen  Vorbeifahrt  des  Tf  zu  einer 
+
+Zwangsbremsung des DGS 43373 geführt und die Kollision mit der Rangierlok A(cid:2870) aller Wahr-
+
+scheinlichkeit nach verhindert. Das EIU ha(cid:425)e bereits vor dem Ereignis das Schließen bes(cid:415)mm-
+
+ter Ausrüstungslücken erkannt und veranlasst, siehe unten zu [S2].  
+
+Zu systemischem Faktor „Keine Planungsvorgabe für Ausrüstung von Zielsignalen in Rbf mit 
+
+PZB“ [S2] 
+
+Die  fehlende  PZB-Ausrüstung  gemäß  ursächlichem  Faktor  [F2]  war  auf  Planungsgrundsätze 
+
+aus den Zeiten der Deutschen Bundesbahn zurückzuführen. Diese Regelungen wurden nach 
+
+der Umwandlung zur Deutschen Bahn AG in das neue Regelwerk übernommen und die feh-
+
+lende infrastruktursei(cid:415)ge Ausrüstung stand seitdem unter Bestandsschutz. Das EIU muss je-
+
+doch im Rahmen der dynamischen Betreiberverantwortung gemäß § 2 Abs. 1 EBO sowie der 
+
+Verordnung (EU) 2018/762 Anhang II Ziﬀ. 5.2  auch  bestehende  Regelungen  überprüfen,  da 
+
+auch das Eisenbahnwesen und damit der Eisenbahnbetrieb einem steten Wandel unterliegen. 
+
+Insbesondere muss das EIU auch im Rahmen seines SMS auf vermehrte Störungen und/oder 
+
+Unfälle mit derselben Ursache reagieren und entsprechend handeln. In diesem Zusammen-
+
+hang wurde durch das EIU noch vor dem Ereignis die Weisung 819.0203-W-102 „Vorsignali-
+
+sierung  von  Ausfahr-  und  Zwischensignalen  –  Anpassung  Ril 819.0203  und  Kompensa(cid:415)ons-
+
+maßnahmen für Bestandsanlagen“ herausgegeben. Begründet wurde diese Weisung damit, 
+
+dass es vermehrt zu unzulässigen Vorbeifahrten an Halt zeigenden Signalen aufgrund fehlen-
+
+der Vorsignalisierung gekommen sei. Das Problem der fehlenden Vorsignalisierung eines Halt 
+
+zeigenden Zielsignals war dem EIU somit bereits aufgefallen. Nach Ansicht der BEU waren die 
+
+verschär(cid:332)en  Ausrüstungsvorgaben  entgegen  der  eigenen  Deutungen  des  EIU  auch  für 
+
+Bf Mannheim Rbf  anzuwenden.  Dies  begründet  sich  aus  Punkt 5.3.3.1 Nr. 1  der  Weisung 
+
+819.0203-W-102  „Vorsignalisierung  von  Ausfahr-  und  Zwischensignalen  –  Anpassung 
+
+Ril 819.0203 und Kompensa(cid:415)onsmaßnahmen für Bestandsanlagen“, wonach im Weisungstext 
+
+Seite 29 von 32 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 07.03.2024, Bf Mannheim Rbf 
+
+von Hp0/Sh0 zeigenden Zielsignalen die Rede ist. Gemäß Ril 819.0302 Abschn. 2 Abs. 2 kann 
+
+ein als Lichtsignal ausgeführtes Sperrsignal u. a. als Zielsignal für Güter- und Reisezugeinfahr-
+
+ten verwendet werden. Gemäß Ril 819.0302 Abschn. 2 Abs. 5 muss das Ls als hohe Bauform 
+
+mit Einzelmast ausgeführt werden, wenn es als Zielsignal für Zugfahrten dient. Das Ls 602II im 
+
+Bf Mannheim Rbf erfüllt diese baulichen Anforderungen der Ril 819 und wird als Zielsignal für 
+
+einfahrende  Güterzüge  verwendet.  Auch  die  Ausnahme  gemäß  Punkt 5.3.3.2 Nr. 3  der  ge-
+
+nannten  Weisung  kann  im  Bf Mannheim Rbf  nicht  zum  Tragen  kommen,  da  die  Einfahrge-
+
+schwindigkeit für Zugfahrten in den Bf mit 40 km/h signalisiert wird. Die Umsetzungsfrist war 
+
+zum Zeitpunkt des Ereignisses noch nicht verstrichen. Daher wird auf das Aussprechen einer 
+
+Sicherheitsempfehlung hinsichtlich der Ergänzung der Vorsignalisierung verzichtet. 
+
+Gemäß Verordnung (EU) 2018/762 Anh. II Punkt 3.1.1.1. muss ein EIU alle relevanten betrieb-
+
+lichen, organisatorischen und technischen Risiken erfassen und analysieren sowie diese mit-
+
+tels geeigneter Risikomethoden evaluieren. Aus der Evalua(cid:415)on muss das EIU Sicherheitsmaß-
+
+nahmen entwickeln und anschließend die Wirksamkeit der Sicherheitsmaßnahmen überwa-
+
+chen.  Nach  Ansicht  der  BEU  würde  eine  vergleichsweise  Nachrüstung  von  hochstehenden 
+
+Gleissperrsignalen als Zielsignal einer Zugfahrt in Rbf mit 2.000 Hz-Gleismagneten zur Erhö-
+
+hung der Eisenbahnsicherheit beitragen. Aus diesem Grund wird hierzu eine entsprechende 
+
+Sicherheitsempfehlung ausgesprochen. 
+
+5.2  Seit	dem	Ereignis	getroffene	Maßnahmen	
+
+Dem Tf des DGS 43373 wurde durch das EVU die Zusatzbescheinigung entzogen. Er wird seit 
+
+dem Ereignis nicht mehr im EVU eingesetzt. 
+
+Weiterhin wurden durch das EVU folgende Maßnahmen ergriﬀen: 
+
+  Die Mitarbeiter in der Führungsebene sowie dem Traffic Management, der Leitstelle 
+
+und der Planung wurden darauf sensibilisiert, dass Dienstschichten und Verkehrsleis-
+
+tungen den Vorgaben des SMS nach zu planen und arbeitszeitrechtliche Vorgaben 
+
+zwingend einzuhalten sind. 
+
+  Die Dienstaufträge der Tf werden detaillierter dargestellt und enthalten Ort und Zeit 
+
+der Arbeitsschutzpausen. 
+
+  Eingehende Fahrpläne und Fplo werden genauer geprüft. 
+
+  Tf werden im Rahmen der Fortbildung auf das richtige Verhalten gegenüber Halt zei-
+
+genden Signalen sensibilisiert. 
+
+Seite 30 von 32 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 07.03.2024, Bf Mannheim Rbf 
+
+  Der Prozess zur Einhaltung der Arbeitsschutzpausen der Tf wurde geändert. Die Tf 
+
+müssen jede genommene Arbeitsschutzpause elektronisch melden. Diese werden 
+
+durch die Mitarbeiter der Leitstelle zu festgelegten Zeitpunkten überprüft. 
+
+5.3  Zusätzliche	Bemerkungen	
+
+En(cid:414)ällt. 
+
+Seite 31 von 32 
+
+ 
+ 
+ 
+	
+Untersuchungsbericht 
+
+Zugkollision, 07.03.2024, Bf Mannheim Rbf 
+
+6  Sicherheitsempfehlungen	
+
+Gemäß § 6 EUV und Art. 26 Abs. 2 der Richtlinie (EU) 2016/798 ergeht die nachfolgende Si-
+
+cherheitsempfehlung: 
+
+Lfd. 
+
+Nr. 
+
+Adressat und Sicherheitsempfehlung 
+
+Betri(cid:335) Unternehmen 
+
+16/2025 
+
+Sicherheitsbehörde: 
+
+EIU 
+
+Es wird empfohlen, Sperrsignale, welche regelmäßig 
+
+für Zugfahrten als Zielsignale genutzt werden können, 
+
+hinsichtlich der Ausrüstung mit 2.000 Hz Gleismagne-
+
+ten  einer  Risikobetrachtung  nach  Verordnung  (EU) 
+
+2018/762 Anh. II Punkt 3.1.1.1. zu unterziehen.  
+
+Seite 32 von 32 
+
+ 
+ 
+ 
+ 
 

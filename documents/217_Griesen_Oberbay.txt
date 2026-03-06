@@ -1,1380 +1,2207 @@
-Untersuchungsbericht
-Aktenzeichen:
+Untersuchungsbericht 
 
-BEU-uu2020-01/018-3323
+Aktenzeichen: 
 
-Stand:
+BEU-uu2020-01/018-3323 
 
-17.01.2024 Version: 1.0
+Stand: 
 
-Erstveröﬀentlichung:
+17.01.2024     Version:  1.0 
 
-18.01.2024
+Erstveröﬀentlichung:  18.01.2024 
 
-Gefährliches Ereignis im Eisenbahnbetrieb
+Gefährliches	Ereignis	im	Eisenbahnbetrieb 
 
-Ereignisart:
+Ereignisart: 
 
-Störung durch betriebliche Fehlhandlung
+Störung durch betriebliche Fehlhandlung 
 
-Datum:
+Datum: 
 
-22.01.2020
+Zeit: 
 
-Zeit:
+22.01.2020 
 
-16:46 Uhr
+16:46 Uhr 
 
-Betriebsstelle:
+Betriebsstelle: 
 
-Bf Griesen (Oberbay)
+Bf Griesen (Oberbay) 
 
-Streckennummer:
+Streckennummer: 
 
-5452
+Kilometer: 
 
-Kilometer:
+5452 
 
-13,6
+13,6 
 
-Untersuchungsbericht
-Störung durch betriebliche Fehlhandlung, 22.01.2020, Bf Griesen (Oberbay)
+ 
+	
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Veröﬀentlicht durch:
-Bundesstelle für Eisenbahnunfalluntersuchung
-Heinemannstraße 6
-53175 Bonn
+Störung durch betriebliche Fehlhandlung, 22.01.2020, Bf Griesen (Oberbay) 
 
-Untersuchungsbericht
-Störung durch betriebliche Fehlhandlung, 22.01.2020, Bf Griesen (Oberbay)
+Veröﬀentlicht durch: 
 
-Inhaltsverzeichnis
-I.
+Bundesstelle für Eisenbahnunfalluntersuchung 
 
-Änderungsverzeichnis: .......................................................................................... II
+Heinemannstraße 6 
 
-II.
+53175 Bonn 
 
-Abbildungsverzeichnis: ........................................................................................ III
+ 
+Untersuchungsbericht 
+
+Störung durch betriebliche Fehlhandlung, 22.01.2020, Bf Griesen (Oberbay) 
+
+Inhaltsverzeichnis	
+
+I. 
+
+II. 
+
+Änderungsverzeichnis: .......................................................................................... II 
+
+Abbildungsverzeichnis: ........................................................................................ III 
+
+III. 
+
+Tabellenverzeichnis: ............................................................................................ III 
+
+IV. 
+
+Abkürzungsverzeichnis: ....................................................................................... IV 
+
+1 
+
+1.1 
+
+1.2 
+
+2 
+
+2.1 
+
+2.2 
+
+2.3 
+
+2.4 
+
+3 
+
+3.1 
+
+3.2 
+
+3.3 
+
+3.4 
+
+4 
+
+4.1 
+
+Vorbemerkungen .................................................................................................. 1 
+
+Organisatorischer Hinweis ...................................................................................... 1 
+
+Ziel der Eisenbahnunfalluntersuchung .................................................................... 1 
+
+Zusammenfassung ................................................................................................ 3 
+
+Kurzbeschreibung des Ereignisses ........................................................................... 3 
+
+Folgen ...................................................................................................................... 3 
+
+Ursachen .................................................................................................................. 3 
+
+Sicherheitsempfehlungen ....................................................................................... 3 
+
+Allgemeine Angaben ............................................................................................. 4 
+
+Lage und Beschreibung des Ereignisortes ............................................................... 4 
+
+Beteiligte und Mitwirkende ..................................................................................... 5 
+
+Äußere Bedingungen ............................................................................................... 6 
+
+Todesopfer, Verletzte und Sachschäden ................................................................. 6 
+
+Untersuchungsprotokoll ....................................................................................... 8 
+
+Zusammenfassung von Aussagen und Stellungnahmen ......................................... 8 
+
+4.1.1 
+
+Stellungnahme des Fdl Griesen (Oberbay) .............................................................. 8 
+
+4.1.2 
+
+Stellungnahme des Fdl Reutte in Tirol .................................................................... 9 
+
+4.1.3 
+
+Stellungnahme des Tf RB 5522 .............................................................................. 10 
+
+4.1.4 
+
+Stellungnahme des Tf RB 5523 .............................................................................. 10 
+
+4.2 
+
+Notfallmanagement .............................................................................................. 11 
+
+I 
+
+ 
+ 
+Untersuchungsbericht 
+
+Störung durch betriebliche Fehlhandlung, 22.01.2020, Bf Griesen (Oberbay) 
+
+4.3 
+
+4.4 
+
+4.5 
+
+Untersuchung der bautechnischen Infrastruktur ................................................. 12 
+
+Untersuchung der Leit- und Sicherungstechnik .................................................... 12 
+
+Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers ................. 13 
+
+4.5.1 
+
+Betriebliche Rahmenbedingungen ........................................................................ 13 
+
+4.5.2 
+
+Zugfahrten ............................................................................................................. 14 
+
+4.5.3 
+
+Qualifikation der Fdl .............................................................................................. 15 
+
+4.5.4 
+
+Betriebliche Gesprächsführung der Fdl ................................................................. 15 
+
+4.6 
+
+Untersuchung der betrieblichen Abläufe der EVU ................................................ 18 
+
+4.6.1 
+
+Zugfahrt RB 5522 ................................................................................................... 18 
+
+4.6.2 
+
+Zugfahrt RB 5523 ................................................................................................... 19 
+
+4.7 
+
+Untersuchung von Fahrzeugen ............................................................................. 19 
+
+4.7.1 
+
+Zugfahrt RB 5522 ................................................................................................... 19 
+
+4.7.2 
+
+Zugfahrt RB 5523 ................................................................................................... 20 
+
+4.8 
+
+5 
+
+5.1 
+
+5.2 
+
+6 
+
+7 
+
+Vergleichbare eingleisige Strecken ....................................................................... 21 
+
+Auswertung ........................................................................................................ 23 
+
+Ereignisrekonstruktion .......................................................................................... 23 
+
+Bewertung und Schlussfolgerung .......................................................................... 24 
+
+Bisher getroffene Maßnahmen ........................................................................... 27 
+
+Sicherheitsempfehlungen ................................................................................... 28 
+
+I.  Änderungsverzeichnis:	
+
+Änderung 
+
+Stand 
+
+II 
+
+ 
+ 
+ 
+ 
+ 
+ 
+	
+	
+Untersuchungsbericht 
+
+Störung durch betriebliche Fehlhandlung, 22.01.2020, Bf Griesen (Oberbay) 
+
+II.  Abbildungsverzeichnis:	
+
+Abbildung 1: Lageplan ................................................................................................................ 4 
+
+Abbildung 2: Gleislageskizze ...................................................................................................... 5 
+
+Abbildung 3: Situation nach Stillstand beider Züge ................................................................... 7 
 
 III.
 
-Tabellenverzeichnis: ............................................................................................ III
+  Tabellenverzeichnis:	
 
-IV.
+Tabelle 1: Übersicht der äußeren Bedingungen .................................................
 
-Abkürzungsverzeichnis: ....................................................................................... IV
+......
 
-1
+.................
 
-Vorbemerkungen .................................................................................................. 1
+ 6 
 
-1.1
+Tabelle 2: Mitteilung des Fdl Griesen (Oberbay) über Unregelmäßigkeiten am 
 
-Organisatorischer Hinweis ...................................................................................... 1
+BÜ 
 
-1.2
+...............
 
-Ziel der Eisenbahnunfalluntersuchung.................................................................... 1
+16 
 
-2
+Tabelle 3: Dispositives Gespräch zur weiteren Vorgehensweise ............................................. 16 
 
-Zusammenfassung ................................................................................................ 3
+Tabelle 4: Erneute Zugmeldung für RB 5522 ........................................................................... 16 
 
-2.1
+Tabelle 5: Verständigung nach dem Ereignis ........................................................................... 17 
 
-Kurzbeschreibung des Ereignisses........................................................................... 3
+Tabelle 6: Absprache Zug RB 5522 zurück nach Griesen (Oberbay) zu fahren ........................ 17 
 
-2.2
+Tabelle 7: Abschließendes Gespräch zwischen den beteiligten Fdl ......................................... 17 
 
-Folgen ...................................................................................................................... 3
+Tabelle 8: Technische Daten Tfz 94 80 2442 228-9 D-DB ........................................................ 20 
 
-2.3
+Tabelle 9: Technische Daten Tfz 94 80 2442 226-3 D-DB ........................................................ 21 
 
-Ursachen.................................................................................................................. 3
+III 
 
-2.4
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Sicherheitsempfehlungen ....................................................................................... 3
+Störung durch betriebliche Fehlhandlung, 22.01.2020, Bf Griesen (Oberbay) 
 
-3
+IV.  Abkürzungsverzeichnis:	
 
-Allgemeine Angaben ............................................................................................. 4
+AEG 
 
-3.1
+Asig 
 
-Lage und Beschreibung des Ereignisortes ............................................................... 4
+BEU 
 
-3.2
+Allgemeines Eisenbahngesetz 
 
-Beteiligte und Mitwirkende..................................................................................... 5
+Ausfahrsignal 
 
-3.3
+Bundesstelle für Eisenbahnunfalluntersuchung 
 
-Äußere Bedingungen ............................................................................................... 6
+BEVVG 
 
-3.4
+Bundeseisenbahnverkehrsverwaltungsgesetz 
 
-Todesopfer, Verletzte und Sachschäden................................................................. 6
+Bf 
 
-4
+Bahnhof 
 
-Untersuchungsprotokoll ....................................................................................... 8
+BMDV 
 
-4.1
+Bundesministerium für Digitales und Verkehr 
 
-Zusammenfassung von Aussagen und Stellungnahmen ......................................... 8
+BÜ 
 
-4.1.1
+EBO 
 
-Stellungnahme des Fdl Griesen (Oberbay).............................................................. 8
+EIU 
 
-4.1.2
+Esig 
 
-Stellungnahme des Fdl Reutte in Tirol .................................................................... 9
+Bahnübergang 
 
-4.1.3
+Eisenbahn-Bau- und Betriebsordnung 
 
-Stellungnahme des Tf RB 5522 .............................................................................. 10
+Eisenbahninfrastrukturunternehmen 
 
-4.1.4
+Einfahrsignal 
 
-Stellungnahme des Tf RB 5523 .............................................................................. 10
+ESTW 
 
-4.2
+Elektronisches Stellwerk 
 
-Notfallmanagement .............................................................................................. 11
+EU 
 
-I
+EUV 
 
-Untersuchungsbericht
-Störung durch betriebliche Fehlhandlung, 22.01.2020, Bf Griesen (Oberbay)
+Europäische Union 
 
-I.
+Eisenbahn-Unfalluntersuchungsverordnung 
 
-4.3
+Evsig 
 
-Untersuchung der bautechnischen Infrastruktur ................................................. 12
+Einfahrvorsignal 
 
-4.4
+EVU 
 
-Untersuchung der Leit- und Sicherungstechnik .................................................... 12
+Fdl 
 
-4.5
+Eisenbahnverkehrsunternehmen 
 
-Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers ................. 13
+Fahrdienstleiter 
 
-4.5.1
+GSM-R 
 
-Betriebliche Rahmenbedingungen ........................................................................ 13
+Global System for Mobile Communica(cid:415)ons – Rail 
 
-4.5.2
+LüK 
 
-Zugfahrten ............................................................................................................. 14
+NFLS 
 
-4.5.3
+Nmg 
 
-Qualifikation der Fdl .............................................................................................. 15
+ÖBB 
 
-4.5.4
+Pkw 
 
-Betriebliche Gesprächsführung der Fdl ................................................................. 15
+PZB 
 
-4.6
+RB 
 
-Untersuchung der betrieblichen Abläufe der EVU ................................................ 18
+Ril 
 
-4.6.1
+RöB 
 
-Zugfahrt RB 5522 ................................................................................................... 18
+Länge über Kupplung 
 
-4.6.2
+No(cid:414)allleitstelle  
 
-Zugfahrt RB 5523 ................................................................................................... 19
+No(cid:414)allmanager 
 
-4.7
+Österreichische Bundesbahnen 
 
-Untersuchung von Fahrzeugen ............................................................................. 19
+Personenkra(cid:332)wagen 
 
-4.7.1
+Punk(cid:414)örmige Zugbeeinﬂussung 
 
-Zugfahrt RB 5522 ................................................................................................... 19
+Regionalbahn 
 
-4.7.2
+Richtlinie 
 
-Zugfahrt RB 5523 ................................................................................................... 20
+Regelung der örtlichen Besonderheiten 
 
-4.8
+IV 
 
-Vergleichbare eingleisige Strecken ....................................................................... 21
+ 
+ 
+Untersuchungsbericht 
 
-5
+Störung durch betriebliche Fehlhandlung, 22.01.2020, Bf Griesen (Oberbay) 
 
-Auswertung ........................................................................................................ 23
+SMS 
 
-5.1
+Stw 
 
-Ereignisrekonstruktion .......................................................................................... 23
+SUB 
 
-5.2
+Tf 
 
-Bewertung und Schlussfolgerung .......................................................................... 24
+Tfz 
 
-6
+Sicherheitsmanagementsystem 
 
-Bisher getroffene Maßnahmen ........................................................................... 27
+Stellwerk 
 
-7
+Sicherheitsuntersuchungsstelle des Bundes beim Bundesministerium 
+für Klimaschutz, Umwelt, Energie, Mobilität, Innova(cid:415)on und 
+Technologie der Republik Österreich 
 
-Sicherheitsempfehlungen ................................................................................... 28
+Triebfahrzeugführer / Triebfahrzeugführerin 
 
-Änderungsverzeichnis:
-Änderung
+Triebfahrzeug 
 
-Stand
+TU ZMB 
 
-II
+Technische Unterstützung für den Zugmeldebetrieb 
 
-Untersuchungsbericht
-Störung durch betriebliche Fehlhandlung, 22.01.2020, Bf Griesen (Oberbay)
+VDV 
 
-II.
+VzG 
 
-Abbildungsverzeichnis:
-Abbildung 1: Lageplan ................................................................................................................ 4
-Abbildung 2: Gleislageskizze ...................................................................................................... 5
-Abbildung 3: Situation nach Stillstand beider Züge ................................................................... 7
+Verband Deutscher Verkehrsunternehmen 
 
-III.
+Verzeichnis der örtlich zulässigen Geschwindigkeiten 
 
-Tabellenverzeichnis:
-Tabelle 1: Übersicht der äußeren Bedingungen ........................................................................ 6
-Tabelle 2: Mitteilung des Fdl Griesen (Oberbay) über Unregelmäßigkeiten am BÜ ............... 16
-Tabelle 3: Dispositives Gespräch zur weiteren Vorgehensweise ............................................. 16
-Tabelle 4: Erneute Zugmeldung für RB 5522 ........................................................................... 16
-Tabelle 5: Verständigung nach dem Ereignis ........................................................................... 17
-Tabelle 6: Absprache Zug RB 5522 zurück nach Griesen (Oberbay) zu fahren ........................ 17
-Tabelle 7: Abschließendes Gespräch zwischen den beteiligten Fdl......................................... 17
-Tabelle 8: Technische Daten Tfz 94 80 2442 228-9 D-DB ........................................................ 20
-Tabelle 9: Technische Daten Tfz 94 80 2442 226-3 D-DB ........................................................ 21
+V 
 
-III
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Untersuchungsbericht
-Störung durch betriebliche Fehlhandlung, 22.01.2020, Bf Griesen (Oberbay)
+Störung durch betriebliche Fehlhandlung, 22.01.2020, Bf Griesen (Oberbay) 
 
-IV.
+1  Vorbemerkungen	
 
-Abkürzungsverzeichnis:
-AEG
+Das Kapitel Vorbemerkungen befasst sich mit allgemeinen Informa(cid:415)onen zur Bundesstelle für 
 
-Allgemeines Eisenbahngesetz
+Eisenbahnunfalluntersuchung (BEU). Dabei wird die gesetzliche Grundlage genannt und die 
 
-Asig
+Au(cid:297)auorganisa(cid:415)on kurz umrissen. 
 
-Ausfahrsignal
+1.1  Organisatorischer	Hinweis	
 
-BEU
+Mit  der  Richtlinie  (EU) 2016/798  des  Europäischen  Parlaments  und  des  Rates  zur 
 
-Bundesstelle für Eisenbahnunfalluntersuchung
+Eisenbahnsicherheit 
 
-BEVVG
+in  der  Gemeinschaft  (Eisenbahnsicherheitsrichtlinie)  wurden  die 
 
-Bundeseisenbahnverkehrsverwaltungsgesetz
+Mitgliedstaaten der Europäischen Union (EU) verpflichtet, unabhängige Untersuchungsstellen 
 
-Bf
+für die Untersuchung bestimmter gefährlicher Ereignisse einzurichten. 
 
-Bahnhof
+Diese  Richtlinie  wurde  mit  dem  Gesetz  zur  Neuordnung  der  Eisenbahnunfalluntersuchung 
 
-BMDV
+vom 27. Juni 2017 und der Eisenbahn-Unfalluntersuchungsverordnung vom 05.07.2007, die 
 
-Bundesministerium für Digitales und Verkehr
+durch Artikel 1 der Verordnung vom 26.11.2019 geändert worden ist, umgesetzt. Die BEU ist 
 
-BÜ
+eine  Bundesoberbehörde  im  Geschäftsbereich  des  Bundesministeriums  für  Digitales  und 
 
-Bahnübergang
+Verkehr. 
 
-EBO
+Gemäß § 6 Abs. 2 des Bundeseisenbahnverkehrsverwaltungsgesetzes (BEVVG) wurde der Sitz 
 
-Eisenbahn-Bau- und Betriebsordnung
+und  Aufbau  der  BEU 
 
-EIU
+im  „Organisationserlass  zur  Errichtung  der  Bundesstelle  für 
 
-Eisenbahninfrastrukturunternehmen
+Eisenbahnunfalluntersuchung“ des Bundesministeriums für Verkehr und digitale Infrastruktur 
 
-Esig
+festgelegt und die BEU zum 14.07.2017 errichtet. 
 
-Einfahrsignal
+Näheres hierzu ist im Internet unter www.beu.bund.de eingestellt. 
 
-ESTW
+1.2  Ziel	der	Eisenbahnunfalluntersuchung	
 
-Elektronisches Stellwerk
+Ziel  und  Zweck  der  Untersuchungen  ist  es,  die  Ursachen  von  gefährlichen  Ereignissen 
 
-EU
+aufzuklären  und  hieraus  Hinweise  zur  Verbesserung  der  Sicherheit  abzuleiten. 
 
-Europäische Union
+Untersuchungen der BEU dienen nicht dazu, ein Verschulden festzustellen oder Fragen der 
 
-EUV
+Haftung oder sonstiger zivilrechtlicher Ansprüche zu klären und werden unabhängig von jeder 
 
-Eisenbahn-Unfalluntersuchungsverordnung
+gerichtlichen Untersuchung durchgeführt. 
 
-Evsig
+Die Untersuchung umfasst die Sammlung und Auswertung von Informationen, die Erarbeitung 
 
-Einfahrvorsignal
+von Schlussfolgerungen einschließlich der Feststellung der Ursachen und gegebenenfalls die 
 
-EVU
+Abgabe  von  Sicherheitsempfehlungen.  Die  Vorschläge  der  Untersuchungsstelle  zur 
 
-Eisenbahnverkehrsunternehmen
+Vermeidung von Unfällen und Verbesserung der Sicherheit im Eisenbahnverkehr werden der 
 
-Fdl
+Seite 1 von 28 
 
-Fahrdienstleiter
+ 
+ 
+Untersuchungsbericht 
 
-GSM-R
+Störung durch betriebliche Fehlhandlung, 22.01.2020, Bf Griesen (Oberbay) 
 
-Global System for Mobile Communica ons – Rail
+Sicherheitsbehörde  und,  soweit  erforderlich,  anderen  Stellen  und  Behörden  oder  anderen 
 
-LüK
+Mitgliedstaaten der EU in Form von Sicherheitsempfehlungen mitgeteilt. 
 
-Länge über Kupplung
+Seite 2 von 28 
 
-NFLS
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-No allleitstelle
+Störung durch betriebliche Fehlhandlung, 22.01.2020, Bf Griesen (Oberbay) 
 
-Nmg
+2  Zusammenfassung	
 
-No allmanager
+Das Kapitel befasst sich mit einer kurzen Darstellung des Ereignisherganges, den Folgen und 
 
-ÖBB
+den  Primärursachen.  Abschließend  werden  eventuell  erteilte  Sicherheitsempfehlungen 
 
-Österreichische Bundesbahnen
+aufgeführt. 
 
-Pkw
+2.1  Kurzbeschreibung	des	Ereignisses	
 
-Personenkra wagen
+Am  22.01.2020  gegen  16:46 Uhr  kam  der  als  Regionalbahn  (RB)  verkehrende  Personenzug 
 
-PZB
+RB 5522 auf der Fahrt von Garmisch-Partenkirchen nach Reu(cid:425)e in Tirol bei der Ausfahrt aus 
 
-Punk örmige Zugbeeinflussung
+dem  Bahnhof  (Bf)  Griesen  (Oberbay)  in  km 13,6  der  Strecke 5452  nach  Einleitung  einer 
 
-RB
+Schnellbremsung etwa 20 m vor dem am Einfahrsignal (Esig) F stehenden Zug RB 5523 (Reu(cid:425)e 
 
-Regionalbahn
+in Tirol - München Hbf) zum Halten. 
 
-Ril
+2.2  Folgen	
 
-Richtlinie
+Es wurden keine Personen verletzt oder getötet. Es entstand kein Sachschaden. 
 
-RöB
+2.3  Ursachen	
 
-Regelung der örtlichen Besonderheiten
+Ausgehend von einem nicht vorschri(cid:332)enkonform durchgeführten Zugmeldeverfahren wurde 
 
-IV
+zwei Personenzügen die Zus(cid:415)mmung zur Fahrt mi(cid:425)els Hauptsignal auf die eingleisige Strecke 
 
-Untersuchungsbericht
-Störung durch betriebliche Fehlhandlung, 22.01.2020, Bf Griesen (Oberbay)
+in Richtung und Gegenrichtung erteilt. Ein technischer Folge- und Gegenfahrschutz war nicht 
 
-SMS
+vorhanden. 
 
-Sicherheitsmanagementsystem
+Es ist hinreichend wahrscheinlich, dass eine Zugbegegnung auf der eingleisigen Strecke mit 
 
-Stw
+einer höheren Geschwindigkeit der Fahrten zu einer Zugkollision geführt hä(cid:425)e. 
 
-Stellwerk
+2.4  Sicherheitsempfehlungen	
 
-SUB
+Mit  dem  Zwischenbericht  vom  22.06.2020  hat  die  BEU  die  Sicherheitsempfehlung 
 
-Sicherheitsuntersuchungsstelle des Bundes beim Bundesministerium
-für Klimaschutz, Umwelt, Energie, Mobilität, Innova on und
-Technologie der Republik Österreich
+Nr. 05 / 2020  herausgegeben.  Darin  wurde  empfohlen,  die  Strecken  ohne  technisch 
 
-Tf
+realisierten  Folge-  und  Gegenfahrschutz,  über  bisher  getroﬀene  Regelungen  hinaus,  einer 
 
-Triebfahrzeugführer / Triebfahrzeugführerin
+aktuellen  Sicherheitsbewertung  zu  unterziehen.  Anhand  der  Ergebnisse  sollen  dann 
 
-Tfz
+zusätzliche  geeignete  Maßnahmen  getroﬀen  werden,  um  ein  unbeabsich(cid:415)gtes  Einfahren 
 
-Triebfahrzeug
+eines  Zuges  in  einen  bereits  durch  einen  anderen  Zug  beanspruchten  Streckenabschni(cid:425) 
 
-TU ZMB
+auszuschließen. 
 
-Technische Unterstützung für den Zugmeldebetrieb
+Seite 3 von 28 
 
-VDV
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Verband Deutscher Verkehrsunternehmen
+Störung durch betriebliche Fehlhandlung, 22.01.2020, Bf Griesen (Oberbay) 
 
-VzG
+3  Allgemeine	Angaben	
 
-Verzeichnis der örtlich zulässigen Geschwindigkeiten
+Das  Kapitel  beinhaltet  allgemeine  Angaben  zur  Beschreibung  des  Ereignisortes  und  der 
 
-V
+relevanten Bahnanlagen. Des Weiteren werden die an der Unfalluntersuchung beteiligten und 
 
-Untersuchungsbericht
-Störung durch betriebliche Fehlhandlung, 22.01.2020, Bf Griesen (Oberbay)
+mitwirkenden  Stellen,  die  äußeren  Bedingungen,  die  Anzahl  der  ggf.  bei  dem  Ereignis 
 
-1 Vorbemerkungen
-Das Kapitel Vorbemerkungen befasst sich mit allgemeinen Informa onen zur Bundesstelle für
-Eisenbahnunfalluntersuchung (BEU). Dabei wird die gesetzliche Grundlage genannt und die
-Au auorganisa on kurz umrissen.
+verletzten und getöteten Personen sowie Art und Höhe der Folgeschäden benannt. 
 
-1.1 Organisatorischer Hinweis
-Mit der Richtlinie (EU) 2016/798 des Europäischen Parlaments und des Rates zur
-Eisenbahnsicherheit in der Gemeinschaft (Eisenbahnsicherheitsrichtlinie) wurden die
-Mitgliedstaaten der Europäischen Union (EU) verpflichtet, unabhängige Untersuchungsstellen
-für die Untersuchung bestimmter gefährlicher Ereignisse einzurichten.
-Diese Richtlinie wurde mit dem Gesetz zur Neuordnung der Eisenbahnunfalluntersuchung
-vom 27. Juni 2017 und der Eisenbahn-Unfalluntersuchungsverordnung vom 05.07.2007, die
-durch Artikel 1 der Verordnung vom 26.11.2019 geändert worden ist, umgesetzt. Die BEU ist
-eine Bundesoberbehörde im Geschäftsbereich des Bundesministeriums für Digitales und
-Verkehr.
-Gemäß § 6 Abs. 2 des Bundeseisenbahnverkehrsverwaltungsgesetzes (BEVVG) wurde der Sitz
-und Aufbau der BEU im „Organisationserlass zur Errichtung der Bundesstelle für
-Eisenbahnunfalluntersuchung“ des Bundesministeriums für Verkehr und digitale Infrastruktur
-festgelegt und die BEU zum 14.07.2017 errichtet.
-Näheres hierzu ist im Internet unter www.beu.bund.de eingestellt.
+3.1  Lage	und	Beschreibung	des	Ereignisortes	
 
-1.2 Ziel der Eisenbahnunfalluntersuchung
-Ziel und Zweck der Untersuchungen ist es, die Ursachen von gefährlichen Ereignissen
-aufzuklären und hieraus Hinweise
+Der  Vorfall  ereignete  sich  auf  der  eingleisigen  elektriﬁzierten  Nebenbahn  Garmisch-
 
-zur Verbesserung der Sicherheit abzuleiten.
+Partenkirchen  –  Griesen  (Oberbay)  Grenze.  Die  Strecke  wurde  im  Verzeichnis  der  örtlich 
 
-Untersuchungen der BEU dienen nicht dazu, ein Verschulden festzustellen oder Fragen der
-Haftung oder sonstiger zivilrechtlicher Ansprüche zu klären und werden unabhängig von jeder
-gerichtlichen Untersuchung durchgeführt.
-Die Untersuchung umfasst die Sammlung und Auswertung von Informationen, die Erarbeitung
-von Schlussfolgerungen einschließlich der Feststellung der Ursachen und gegebenenfalls die
-Abgabe von Sicherheitsempfehlungen. Die Vorschläge der Untersuchungsstelle zur
-Vermeidung von Unfällen und Verbesserung der Sicherheit im Eisenbahnverkehr werden der
+zulässigen Geschwindigkeiten (VzG) mit der Streckennummer 5452 geführt und verlief ab der 
 
-Seite 1 von 28
+Bundesgrenze  weiter  auf  dem  Gebiet  der  Republik  Österreich  nach  den  dort  gül(cid:415)gen 
 
-Untersuchungsbericht
-Störung durch betriebliche Fehlhandlung, 22.01.2020, Bf Griesen (Oberbay)
+Betriebsregeln. 
 
-Sicherheitsbehörde und, soweit erforderlich, anderen Stellen und Behörden oder anderen
-Mitgliedstaaten der EU in Form von Sicherheitsempfehlungen mitgeteilt.
+Die Höchstgeschwindigkeit der Strecke betrug 70 km/h, im betroﬀenen Abschni(cid:425) dur(cid:332)e die 
 
-Seite 2 von 28
+Strecke mit maximal 60 km/h befahren werden. Der Bremsweg der Strecke betrug 400 m. Die 
 
-Untersuchungsbericht
-Störung durch betriebliche Fehlhandlung, 22.01.2020, Bf Griesen (Oberbay)
+Strecke war mit punk(cid:414)örmiger Zugbeeinﬂussung (PZB) und digitalem Zugfunk Global System 
 
-2 Zusammenfassung
-Das Kapitel befasst sich mit einer kurzen Darstellung des Ereignisherganges, den Folgen und
-den Primärursachen. Abschließend werden eventuell erteilte Sicherheitsempfehlungen
-aufgeführt.
+for Mobile Communica(cid:415)ons – Rail (GSM-R) ausgesta(cid:425)et. 
 
-2.1 Kurzbeschreibung des Ereignisses
-Am 22.01.2020 gegen 16:46 Uhr kam der als Regionalbahn (RB) verkehrende Personenzug
-RB 5522 auf der Fahrt von Garmisch-Partenkirchen nach Reu e in Tirol bei der Ausfahrt aus
-dem Bahnhof (Bf) Griesen (Oberbay) in km 13,6 der Strecke 5452 nach Einleitung einer
-Schnellbremsung etwa 20 m vor dem am Einfahrsignal (Esig) F stehenden Zug RB 5523 (Reu e
-in Tirol - München Hbf) zum Halten.
+Die  nachfolgenden  Abbildungen  veranschaulichen  die  geograﬁsche  Lage  des  Ereignisortes 
 
-2.2 Folgen
-Es wurden keine Personen verletzt oder getötet. Es entstand kein Sachschaden.
+sowie die Posi(cid:415)on der beiden Züge im Bereich des Bf Griesen (Oberbay) nach dem S(cid:415)llstand. 
 
-2.3 Ursachen
-Ausgehend von einem nicht vorschri enkonform durchgeführten Zugmeldeverfahren wurde
-zwei Personenzügen die Zus mmung zur Fahrt mi els Hauptsignal auf die eingleisige Strecke
-in Richtung und Gegenrichtung erteilt. Ein technischer Folge- und Gegenfahrschutz war nicht
-vorhanden.
-Es ist hinreichend wahrscheinlich, dass eine Zugbegegnung auf der eingleisigen Strecke mit
-einer höheren Geschwindigkeit der Fahrten zu einer Zugkollision geführt hä e.
+Abbildung 1: Lageplan1 
 
-2.4 Sicherheitsempfehlungen
-Mit dem Zwischenbericht vom 22.06.2020 hat die BEU die Sicherheitsempfehlung
-Nr. 05 / 2020 herausgegeben. Darin wurde empfohlen, die Strecken ohne technisch
-realisierten Folge- und Gegenfahrschutz, über bisher getroﬀene Regelungen hinaus, einer
-aktuellen Sicherheitsbewertung zu unterziehen. Anhand der Ergebnisse sollen dann
-zusätzliche geeignete Maßnahmen getroﬀen werden, um ein unbeabsich gtes Einfahren
-eines Zuges in einen bereits durch einen anderen Zug beanspruchten Streckenabschni
-auszuschließen.
+1 Quelle:  Geobasisdaten: © GeoBasis-DE / BKG [2020], bearbeitet durch BEU 
 
-Seite 3 von 28
+Seite 4 von 28 
 
-Untersuchungsbericht
-Störung durch betriebliche Fehlhandlung, 22.01.2020, Bf Griesen (Oberbay)
+ 
+ 
+ 
+                                                       
+Untersuchungsbericht 
 
-3 Allgemeine Angaben
-Das Kapitel beinhaltet allgemeine Angaben zur Beschreibung des Ereignisortes und der
-relevanten Bahnanlagen. Des Weiteren werden die an der Unfalluntersuchung beteiligten und
-mitwirkenden Stellen, die äußeren Bedingungen, die Anzahl der ggf. bei dem Ereignis
-verletzten und getöteten Personen sowie Art und Höhe der Folgeschäden benannt.
+Störung durch betriebliche Fehlhandlung, 22.01.2020, Bf Griesen (Oberbay) 
 
-3.1 Lage und Beschreibung des Ereignisortes
-Der Vorfall ereignete sich auf der eingleisigen elektrifizierten Nebenbahn GarmischPartenkirchen – Griesen (Oberbay) Grenze. Die Strecke wurde im Verzeichnis der örtlich
-zulässigen Geschwindigkeiten (VzG) mit der Streckennummer 5452 geführt und verlief ab der
-Bundesgrenze weiter auf dem Gebiet der Republik Österreich nach den dort gül gen
-Betriebsregeln.
-Die Höchstgeschwindigkeit der Strecke betrug 70 km/h, im betroﬀenen Abschni dur e die
-Strecke mit maximal 60 km/h befahren werden. Der Bremsweg der Strecke betrug 400 m. Die
-Strecke war mit punk örmiger Zugbeeinflussung (PZB) und digitalem Zugfunk Global System
-for Mobile Communica ons – Rail (GSM-R) ausgesta et.
-Die nachfolgenden Abbildungen veranschaulichen die geografische Lage des Ereignisortes
-sowie die Posi on der beiden Züge im Bereich des Bf Griesen (Oberbay) nach dem S llstand.
+Abbildung 2: Gleislageskizze2 
 
-Abbildung 1: Lageplan1
+3.2  Beteiligte	und	Mitwirkende	
 
-1
+Am Ereignis waren folgende Stellen beteiligt: 
 
-Quelle: Geobasisdaten: © GeoBasis-DE / BKG [2020], bearbeitet durch BEU
+  DB Netz AG, Eisenbahninfrastrukturunternehmen (EIU) 
 
-Seite 4 von 28
+  ÖBB Infrastruktur AG, EIU 
 
-Untersuchungsbericht
-Störung durch betriebliche Fehlhandlung, 22.01.2020, Bf Griesen (Oberbay)
+  DB Regio AG, Eisenbahnverkehrsunternehmen (EVU) 
 
-Abbildung 2: Gleislageskizze2
+Für das EIU DB Netz AG lag eine Sicherheitsgenehmigung gemäß § 7c Allgemeines Eisenbahn-
 
-3.2 Beteiligte und Mitwirkende
-Am Ereignis waren folgende Stellen beteiligt:
-
+gesetz (AEG) des Eisenbahn-Bundesamts mit Gül(cid:415)gkeit bis 19.10.2021 vor. 
 
-DB Netz AG, Eisenbahninfrastrukturunternehmen (EIU)
+Das EVU DB Regio AG verfügte über eine Sicherheitsbescheinigung gemäß § 7a AEG mit einer 
 
-
+Gül(cid:415)gkeit bis zum 20.12.2020 und war damit zur Teilnahme am Eisenbahnbetrieb berech(cid:415)gt. 
 
-ÖBB Infrastruktur AG, EIU
+2 Erstellt mit signalschablone.maschexx.de 
 
-
+Seite 5 von 28 
 
-DB Regio AG, Eisenbahnverkehrsunternehmen (EVU)
+ 
+ 
+ 
+ 
+ 
+                                                       
+Untersuchungsbericht 
 
-Für das EIU DB Netz AG lag eine Sicherheitsgenehmigung gemäß § 7c Allgemeines Eisenbahngesetz (AEG) des Eisenbahn-Bundesamts mit Gül gkeit bis 19.10.2021 vor.
-Das EVU DB Regio AG verfügte über eine Sicherheitsbescheinigung gemäß § 7a AEG mit einer
-Gül gkeit bis zum 20.12.2020 und war damit zur Teilnahme am Eisenbahnbetrieb berech gt.
+Störung durch betriebliche Fehlhandlung, 22.01.2020, Bf Griesen (Oberbay) 
 
-2
+3.3  Äußere	Bedingungen		
 
-Erstellt mit signalschablone.maschexx.de
+Zum Zeitpunkt des Ereignisses herrschten folgende Bedingungen: 
 
-Seite 5 von 28
+Lichtverhältnisse 
 
-Untersuchungsbericht
-Störung durch betriebliche Fehlhandlung, 22.01.2020, Bf Griesen (Oberbay)
+Sicht 
 
-3.3 Äußere Bedingungen
-Zum Zeitpunkt des Ereignisses herrschten folgende Bedingungen:
-Lichtverhältnisse
+Bedeckung 
 
-Dämmerung
+Temperaturen  
 
-Sicht
+fallender Niederschlag 
 
-klar
+Niederschlagshäuﬁgkeit 
 
-Bedeckung
+Dämmerung 
 
-Himmel nicht erkennbar
+klar 
 
-Temperaturen
+Himmel nicht erkennbar 
 
--2°C
+-2°C 
 
-fallender Niederschlag
+Nein 
 
-Nein
+-- 
 
-Niederschlagshäufigkeit
+Untergrund / gefallener Niederschlag  
 
---
+trocken 
 
-Untergrund / gefallener Niederschlag
+Tabelle 1: Übersicht der äußeren Bedingungen 
 
-trocken
+Feststellung zu den äußeren Bedingungen 
 
-Tabelle 1: Übersicht der äußeren Bedingungen
+Lfd. Nr. 1 
 
-Feststellung zu den äußeren Bedingungen
-Lfd. Nr. 1
-Die äußeren Bedingungen, wie z. B. das We er, standen in keinem erkennbaren
-unmi elbarem Zusammenhang mit der Ereignisursache.
+Die  äußeren  Bedingungen,  wie  z. B.  das  We(cid:425)er,  standen  in  keinem  erkennbaren 
 
-3.4 Todesopfer, Verletzte und Sachschäden
-Bei dem Ereignis wurden keine Personen verletzt oder getötet. Es entstand kein Sachschaden.
-Die Strecke war bis 20:03 Uhr gesperrt, es wurde ein Ersatzverkehr mit Bussen eingerichtet.
+unmi(cid:425)elbarem Zusammenhang mit der Ereignisursache. 
 
-Seite 6 von 28
+3.4  Todesopfer,	Verletzte	und	Sachschäden	
 
-Untersuchungsbericht
-Störung durch betriebliche Fehlhandlung, 22.01.2020, Bf Griesen (Oberbay)
+Bei dem Ereignis wurden keine Personen verletzt oder getötet. Es entstand kein Sachschaden. 
 
-Die nachfolgende Abbildung zeigt die beiden Züge, nachdem sie im Abstand von ca. 20 m zum
-S llstand gekommen waren.
+Die Strecke war bis 20:03 Uhr gesperrt, es wurde ein Ersatzverkehr mit Bussen eingerichtet. 
 
-Abbildung 3: Situa on nach S llstand beider Züge3
+Seite 6 von 28 
 
-3
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Quelle: Bundespolizei
+Störung durch betriebliche Fehlhandlung, 22.01.2020, Bf Griesen (Oberbay) 
 
-Seite 7 von 28
+Die nachfolgende Abbildung zeigt die beiden Züge, nachdem sie im Abstand von ca. 20 m zum 
 
-Untersuchungsbericht
-Störung durch betriebliche Fehlhandlung, 22.01.2020, Bf Griesen (Oberbay)
+S(cid:415)llstand gekommen waren. 
 
-4 Untersuchungsprotokoll
-In diesem Kapitel werden die ermi elten Ergebnisse zu einzelnen in Zusammenhang mit dem
-Ereignis stehenden Teilbereichen des Eisenbahnwesens dargestellt. Daneben werden auch die
-entsprechenden Schni stellen sowie das Sicherheitsmanagement (SMS) im betroﬀenen
-Bereich betrachtet. Die jeweilig relevanten Erkenntnisse werden fortlaufend aufgeführt.
+Abbildung 3: Situa(cid:415)on nach S(cid:415)llstand beider Züge3 
 
-4.1 Zusammenfassung von Aussagen und Stellungnahmen
-In den folgenden Abschni en werden die relevanten Aussagen und Stellungnahmen der
-beteiligten Mitarbeiter sinngemäß und zusammengefasst dargestellt. Diese wurden dem
-jeweiligen Arbeitgeber gegenüber abgegeben. Dies waren im Falle des Fdl Griesen (Oberbay)
-die DB Netz AG, beim Fdl Reu e in Tirol die ÖBB Infrastruktur AG und bei den
-Triebfahrzeugführern (Tf) der Züge die DB Regio AG.
-4.1.1 Stellungnahme des Fdl Griesen (Oberbay)
-Der Fdl gab an, er habe um 16:15 Uhr den Fdl Reu e in Tirol angerufen und mit diesem ein
-Zugmeldegespräch für den Zug RB 5522 durchgeführt. In diesem sei der Zug vom Fdl Reu e in
-Tirol angenommen worden.
-Gegen 16:20 Uhr habe sich der Tf des Zuges RB 5522 bei ihm gemeldet. Dieser verständigte
-ihn über einen Zwischenfall am Bahnübergang (BÜ) im km 10,5. Er gab an, dass ein Pkw durch
-die Schranke gerutscht und der Zug noch vor dem BÜ zum Halten gekommen sei. In der Folge
-verständigte der Fdl Griesen (Oberbay) die No allleitstelle (NFLS) sowie die benachbarten Fdl
-Garmisch-Partenkirchen und Reu e in Tirol. Im Rahmen dieses Gespräches teilte er dem Fdl
-Reu e in Tirol mit, dass der Zug RB 5522 sich aufgrund eines Unfalls am BÜ verspäte.
-Um 16:39 Uhr habe er dem Fdl Reu e in Tirol den Zug RB 5522 mit einer berich gten
-Zugmeldung nachgemeldet.
-Gegen 16:44 Uhr sei der Zug RB 5522 bei ihm am Stellwerk vorbeigefahren. Die Ein- und
-Ausfahrt erfolgte dabei mi els Fahrtstellung der Hauptsignale. Etwa um 16:50 Uhr habe sich
-der Tf des Zuges RB 5522 erneut bei ihm gemeldet und mitgeteilt, dass vor ihm ein Zug stünde.
-Der Fdl Griesen (Oberbay) verständigte im Anschluss den Fdl Reu e in Tirol über die Situa on
-und fragte diesen, warum ein Zug vor seinem Esig stünde, obwohl er für diesen Zug keine
-Zugmeldung erhalten habe. Er gab weiterhin an, dass er ab diesem Zeitpunkt unter Schock
-gestanden habe. Der Fdl Reu e in Tirol habe ihm eine Telefonnummer mitgeteilt und ihn
+3 Quelle:  Bundespolizei 
 
-Seite 8 von 28
+Seite 7 von 28 
 
-Untersuchungsbericht
-Störung durch betriebliche Fehlhandlung, 22.01.2020, Bf Griesen (Oberbay)
+ 
+ 
+ 
+ 
+                                                       
+Untersuchungsbericht 
 
-aufgefordert, ihn auf dieser anzurufen. Aufgrund des Schocks könne er sich nicht mehr an den
-genauen Wortlaut des folgenden Telefongespräches erinnern. Es sei zu ihm vom Fdl Reu e in
-Tirol gesagt worden: „das machen wir unter uns aus“. Der Fdl Reu e in Tirol wollte versuchen
-die Tf der beiden Züge zu erreichen.
-Nach ca. zehn Minuten habe ihm der Fdl Reu e in Tirol mitgeteilt, dass es sowieso nichts mehr
-bringe, da ein Tf bereits die NFLS verständigt habe. Ab diesem Zeitpunkt habe der Fdl Griesen
-(Oberbay) keine betrieblichen Handlungen mehr vorgenommen, bis der No allmanager
-(Nmg) bei ihm eingetroﬀen sei.
-4.1.2 Stellungnahme des Fdl Reutte in Tirol
-Der Fdl Reu e in Tirol gab an, er habe am Mi woch, den 22.01.2020 als Fdl ab 12:10 Uhr
-Dienst im Bf Reu e in Tirol gehabt.
-Nachdem er erfahren habe, dass es mit Zug 5522 Unregelmäßigkeiten an einem BÜ gegeben
-ha e und es daher zu Verzögerungen im der Zugfahrt gekommen war, habe er die Einfahrt für
-den Zug RB 5522 im Bf Ehrwald Zugspitzbahn zurückgenommen. Er habe mit dem Fdl
-Griesen (Oberbay) die weitere Vorgehensweise besprochen und ihn gefragt, ob Zug RB 5523
-in Griesen (Oberbay) auf Zug RB 5522 wenden würde. Der Fdl Griesen (Oberbay) habe ihm
-darauf noch keine Antwort geben können. Er habe darau in die Leitstelle in GarmischPartenkirchen über die Unregelmäßigkeit am BÜ in Kenntnis gesetzt und über die weitere
-beabsich gte Vorgehensweise informiert. Der Mitarbeiter der Leitstelle GarmischPartenkirchen habe von dem Vorfall zu der Zeit nichts gewusst und wollte sodann seinerseits
-Informa onen einholen. Anschließend habe sich dieser bei ihm gemeldet und ihm mitgeteilt,
-dass Zug RB 5522 seine Fahrt mit Verspätung fortsetzen könne.
-Er gab an, dass er nach erfolgter Zugmeldung an den Fdl Griesen (Oberbay) in Ehrwald
-Zugspitzbahn das Ausfahrsignal für Zug RB 5523 gestellt habe. Danach habe er sich kurz auf
-die Toile e begeben und nach seiner Rückkehr die Besetzanzeige des Abschni es a11
-gesehen. Darau in habe er auf a11 den Zug RB 5522 aufgestellt, da er annahm, dass es sich
-bei der Besetztanzeige um diesen Zug handele. In der Folge habe er die Einfahränderungen in
-Ehrwald Zugspitzbahn, Bichlbach-Berwang und Reu e in Tirol in das interne IT-System der
-ÖBB zur Echtzeit-Zugverfolgung ARAMIS eingegeben.
-Als er erfuhr, dass es zu einer Beinahekollision der Züge RB 5522 und RB 5523 gekommen sei,
-habe er beide Tf angefunkt, um sich einen Überblick zu verschaﬀen. Im Anschluss daran habe
+Störung durch betriebliche Fehlhandlung, 22.01.2020, Bf Griesen (Oberbay) 
 
-Seite 9 von 28
+4  Untersuchungsprotokoll	
 
-Untersuchungsbericht
-Störung durch betriebliche Fehlhandlung, 22.01.2020, Bf Griesen (Oberbay)
+In diesem Kapitel werden die ermi(cid:425)elten Ergebnisse zu einzelnen in Zusammenhang mit dem 
 
-er die zuständigen Stellen in Österreich verständigt. Um 18:00 Uhr sei er von einem anderen
-Fdl abgelöst worden.
-4.1.3 Stellungnahme des Tf RB 5522
-Der Tf gab an: Er sei am 22.01.2020 für die Schicht 1015 von 15:53 Uhr bis 22:44 Uhr eingeteilt
-gewesen.
-Bei seiner Tä gkeit als Tf habe er den Zug RB 5522 von Garmisch-Partenkirchen nach Reu e
-in Tirol fahren sollen. Bei dieser Fahrt habe er vor dem BÜ in km 10,463 eine Schnellbremsung
-einleiten müssen, da ein Auto im lichten Raum des BÜ gestanden habe. Es sei bei diesem
-Vorfall zu keinem Zusammenprall mit dem Auto gekommen. Nach Rücksprache mit dem Fdl
-Griesen (Oberbay) habe er seine Fahrt nach ca. 20-25 Minuten fortgesetzt. Der Fdl habe ihm
-mitgeteilt, dass die Einfahrt und die Ausfahrt im Bf Griesen (Oberbay) auf Fahrt stünden.
-Bei der Einfahrt in den Bf Griesen (Oberbay) habe er festgestellt, dass keine Reisenden am
-Bahnsteig standen und er keine Fahrgastanforderung zum Aussteigen ha e. Er sei darau in
-mit Fahrplangeschwindigkeit durch den Bf Griesen (Oberbay) gefahren und habe bei der
-Streckenbeobachtung festgestellt, dass am Einfahrsignal der Gegenrichtung ein Zug stand. Als
-er dies bemerkte, habe er sofort eine Schnellbremsung eingeleitet und sei ca. 20 m vor diesem
-Zug zum Stehen gekommen. Anschließend habe er den Fdl Griesen (Oberbay) sowie die
-Transportleitung der DB Regio AG über diesen Vorfall informiert und auf das Eintreﬀen der
-Einsatzkrä e gewartet.
-4.1.4 Stellungnahme des Tf RB 5523
-Der Tf gab an, er am 22.01.2020 für die Schicht 1009 von 11:53 Uhr bis 20:39 Uhr eingeteilt
-gewesen.
-Bei seiner Tä gkeit als Tf habe er den Zug RB 5523 von Reu e in Tirol nach GarmischPartenkirchen fahren sollen. Nach der Abfahrt in Reu e in Tirol sei er Richtung Ehrwald
-Zugspitzbahn gefahren. Kurz vor der Ankun im Bf Ehrwald Zugspitzbahn habe ihn der Fdl
-Reu e in Tirol darüber informiert, dass der Gegenzug RB 5522 wegen einer Unregelmäßigkeit
-an einem BÜ derzeit eine Verspätung von ca. 20 Minuten habe und er die Fahrt ohne Kreuzung
-in Ehrwald Zugspitzbahn bis Griesen (Oberbay) fortsetzen solle.
-Nachdem er seine Fahrt fortgesetzt ha e, habe er kurz vor dem Bf Griesen (Oberbay)
-festgestellt, dass das Einfahrvorsignal (Evsig) für den Bf Griesen (Oberbay) noch den
+Ereignis stehenden Teilbereichen des Eisenbahnwesens dargestellt. Daneben werden auch die 
 
-Seite 10 von 28
+entsprechenden  Schni(cid:425)stellen  sowie  das  Sicherheitsmanagement  (SMS)  im  betroﬀenen 
 
-Untersuchungsbericht
-Störung durch betriebliche Fehlhandlung, 22.01.2020, Bf Griesen (Oberbay)
+Bereich betrachtet. Die jeweilig relevanten Erkenntnisse werden fortlaufend aufgeführt. 
 
-Signalbegriﬀ Vr 0 („Halt erwarten“) zeigte. Er habe darau in die Wachsamkeitstaste betä gt
-und sei vor dem Esig des Bf Griesen (Oberbay) stehen geblieben. Nach ca. drei Minuten
-Standzeit habe er gesehen, dass ein Zug auf ihn zugekommen sei. Dieser habe eine Bremsung
-eingeleitet und sei vor ihm zum Stehen gekommen.
+4.1  Zusammenfassung	von	Aussagen	und	Stellungnahmen	
 
-4.2 Notfallmanagement
-Nach § 4 Abs. 3 AEG haben die Eisenbahnen die Verpflichtung, an Maßnahmen des
-Brandschutzes und der technischen Hilfeleistung mitzuwirken. In einer Vereinbarung zwischen
-den Innenministerien der Länder und der DB AG hat man sich auf eine Verfahrensweise
-verständigt. Für die DB Netz AG gelten die entsprechenden Brand- und Katastrophenschutzgesetze der Länder. Das No allmanagement der DB AG ist in der Konzernrichtlinie 123,
-das der DB Netz AG in der Richtlinie (Ril) 423 näher beschrieben und geregelt.
-Die NFLS der DB Netz AG in der Betriebszentrale München wurde vom Fdl Griesen (Oberbay)
-nicht über den Vorfall unterrichtet. Ereignisse dieser Art sind gemäß Ril 423.0234 Abs. 1 (1)
-unverzüglich durch den zuständigen Fdl an die NFLS zu melden.
-Die NFLS erlangte 14 Minuten nach dem Ereignis um 17:00 Uhr durch den zuständigen Netzkoordinator Kenntnis von dem Vorfall. Dieser war zuvor von der Transportleitung des EVU
-DB Regio AG informiert worden, nachdem der Tf des Zuges RB 5522 diese über das Ereignis
-unterrichtet ha e. Der Nmg wurde um 17:01 Uhr alarmiert und traf um 17:30 Uhr im
-Bf Griesen (Oberbay) ein.
-Das Ereignis war gegenüber der BEU nicht sofortmeldepflich g. Die BEU wurde am Folgetag
-durch die DB Netz AG über das Ereignis informiert.
+In  den  folgenden  Abschni(cid:425)en  werden  die  relevanten  Aussagen  und  Stellungnahmen  der 
 
-Seite 11 von 28
+beteiligten  Mitarbeiter  sinngemäß  und  zusammengefasst  dargestellt.  Diese  wurden  dem 
 
-Untersuchungsbericht
-Störung durch betriebliche Fehlhandlung, 22.01.2020, Bf Griesen (Oberbay)
+jeweiligen Arbeitgeber gegenüber abgegeben. Dies waren im Falle des Fdl Griesen (Oberbay) 
 
-4.3 Untersuchung der bautechnischen Infrastruktur
-Bei der Bahnstrecke zwischen Griesen (Oberbay) und Ehrwald Zugspitzbahn handelte es sich
-um eine eingleisige, elektrifizierte Nebenbahn der Streckenklasse CE. Sie war im Bereich der
-Ereignisstelle mit Betonschwellengleis in Scho eroberbau versehen.
-Aufgrund der Ereignischarakteris k konnte ein Einfluss der bautechnischen Infrastruktur auf
-das Ereignis frühzei g ausgeschlossen werden. Auf eine weiterführende Untersuchung wurde
-daher verzichtet.
-Feststellung zur bautechnischen Infrastruktur
-Lfd. Nr. 2
-Die bautechnische Infrastruktur ha e keinen erkennbaren Einfluss auf das Ereignis.
+die  DB Netz AG,  beim  Fdl  Reu(cid:425)e 
 
-4.4 Untersuchung der Leit‐ und Sicherungstechnik
-Im Streckenabschni zwischen Griesen (Oberbay) und Ehrwald Zugspitzbahn wurde das Zugmeldeverfahren angewandt. Die Strecke war nicht mit einem technischen Streckenblock
-ausgerüstet.
-Die Verständigung zwischen den Fdl Griesen (Oberbay) und Reu e in Tirol erfolgte über eine
-Fernsprechleitung mit Tonbandaufzeichnung im Bf Griesen (Oberbay). In Reu e in Tirol
-erfolgte eine digitale Gesprächsaufzeichnung. Die Kommunika on zwischen Fdl und den Tf der
-Züge fand sowohl auf deutscher als auch österreichischer Seite über digitalen Zugfunk GSM-R
-sta .
-Das Stellwerk (Stw) Griesen (Oberbay) der DB Netz AG war ein mechanisches Stw der Bauart
-Krauß und wurde mit Streckeneröﬀnung im Jahr 1913 in Betrieb genommen. Die ursprünglich
-als Formsignale ausgeführten Ein- und Ausfahrsignale wurden 1979 durch vereinfachte
-Lichtsignale für mechanische Stw ersetzt. Diese wurden über ein kleines Pult im
-Stellwerksraum bedient.
-Das Stw Reu e in Tirol der ÖBB Infrastruktur AG war ein elektronisches Stw (ESTW) und
-steuerte den gesamten in Österreich liegenden Abschni
+in  Tirol  die  ÖBB  Infrastruktur  AG  und  bei  den 
 
-der betroﬀenen Strecke
+Triebfahrzeugführern (Tf) der Züge die DB Regio AG. 
 
-Außerfernbahn.
+4.1.1  Stellungnahme	des	Fdl	Griesen	(Oberbay)	
 
-Seite 12 von 28
+Der Fdl gab an, er habe um 16:15 Uhr den Fdl Reu(cid:425)e in Tirol angerufen und mit diesem ein 
 
-Untersuchungsbericht
-Störung durch betriebliche Fehlhandlung, 22.01.2020, Bf Griesen (Oberbay)
+Zugmeldegespräch für den Zug RB 5522 durchgeführt. In diesem sei der Zug vom Fdl Reu(cid:425)e in 
 
-Der Streckenabschni
+Tirol angenommen worden. 
 
-zwischen Garmisch-Partenkirchen und Ehrwald Zugspitzbahn wurde
+Gegen 16:20 Uhr habe sich der Tf des Zuges RB 5522 bei ihm gemeldet. Dieser verständigte 
 
-mi els Achszählkreisen auf Gleisbelegung überwacht. Hiervon ausgenommen war der
-Bf Griesen (Oberbay). Dem Fdl Griesen (Oberbay) wurden etwaige Gleisbelegungen in seinem
-Bf sowie auf den zugehörigen Streckengleisen nicht angezeigt.
-Hinweise auf etwaige Störungen oder Fehler an der Leit- und Sicherungstechnik wurden im
-Zuge der Untersuchung nicht festgestellt.
-Feststellung zur Untersuchung der Leit‐ und Sicherungstechnik
-Lfd. Nr. 3
-Die Anlagen der Leit- und Sicherungstechnik funk onierten ordnungsgemäß.
-Der Fdl Griesen (Oberbay) erhielt bauartbedingt durch die Anlagen der Leit- und Sicherungstechnik keine Besetztanzeige der Gleise in seinem Bf sowie der zugehörigen Streckengleise.
+ihn über einen Zwischenfall am Bahnübergang (BÜ) im km 10,5. Er gab an, dass ein Pkw durch 
 
-4.5 Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers
-Nachfolgend werden zunächst die betrieblichen Rahmenbedingungen für den Streckenabschni zwischen Griesen (Oberbay) und Ehrwald Zugspitzbahn erläutert und die Abwicklung
-der Zugfahrten im Regelfall sowie während des Ereignisses beschrieben. Anschließend werden
-die Qualifika on der Fdl und die Abwicklung der betrieblichen Gespräche der Fdl näher
-betrachtet.
-4.5.1 Betriebliche Rahmenbedingungen
-Für den Bf Griesen (Oberbay) sowie für den Streckenabschni von Garmisch-Partenkirchen
-bis zum Grenzpunkt Griesen (Oberbay) Grenze in km 14,848 galten die Bes mmungen der
-Ril 408 der DB Netz AG. Für den Streckenabschni zwischen dem Bf Griesen (Oberbay) und
-dem Bf Ehrwald Zugspitzbahn galten zusätzlich zu den länderspezifischen Betriebsregeln die
-Bes mmungen der Regelung der örtlichen Besonderheiten (RöB) auf dem Eisenbahn-Grenzübergang Griesen, die in der Ril 302.4006 und Ril 302.4006Z01 niedergelegt waren.
-Die beiden benachbarten Zugmeldestellen des Bf Griesen (Oberbayern) waren die Bf
-Garmisch-Partenkirchen und Ehrwald Zugspitzbahn. Diese wurden jeweils durch ein ESTW in
-Weilheim (Oberbayern) bzw. in Reu e in Tirol gesteuert.
+die Schranke gerutscht und der Zug noch vor dem BÜ zum Halten gekommen sei. In der Folge 
 
-Seite 13 von 28
+verständigte der Fdl Griesen (Oberbay) die No(cid:414)allleitstelle (NFLS) sowie die benachbarten Fdl 
 
-Untersuchungsbericht
-Störung durch betriebliche Fehlhandlung, 22.01.2020, Bf Griesen (Oberbay)
+Garmisch-Partenkirchen und Reu(cid:425)e in Tirol. Im Rahmen dieses Gespräches teilte er dem Fdl 
 
-Die Regelung und Sicherung der Zugfolge auf der Grenzstrecke wurde im Zugmeldeverfahren
-durchgeführt. Die Kommunika on der Fdl erfolgte über die Fernsprechleitung.
-Eine Ermi lung des anzuwendenden Betriebsverfahrens beruht auf einer Analyse des
-Belastungsprofils der Strecke nach Ril 413.0506A01. Gemäß Ril 413.0506 Abschn. 3 Abs. 5 war
-ein Betrieb von bestehenden Strecken mit Zugmeldebetrieb ohne Streckenblock bei einem
-schwachen Belastungsprofil bei weniger als 8.000 Bewertungspunkten zulässig.
-Die Strecke wurde zuletzt im Dezember 2019 durch den Infrastrukturbetreiber nach diesen
-Kriterien beurteilt. Hiernach wies das Belastungsprofil der Strecke von Montag bis Freitag
-einen Wert von 3.680 Punkten sowie an Wochenenden von 4.320 Punkten auf.
-4.5.2 Zugfahrten
-Gemäß Fahrplan wäre der Zug RB 5522 um 16:04 Uhr in Garmisch-Partenkirchen abgefahren,
-hä e den Bf Griesen (Oberbay) um 16:19 Uhr mit Fahrplaneintrag Bedarfshalt passiert und
-um 16:28 Uhr den Bf Ehrwald Zugspitzbahn erreicht.
-Der Zug RB 5523 wäre um 16:01 Uhr in Reu e in Tirol abgefahren und hä e um 16:30 Uhr den
-Bf Ehrwald Zugspitzbahn erreichen sollen. Nach dem Kreuzen mit dem wartenden Gegenzug
-RB 5522 hä e der Zug RB 5523 dann den Bf um 16:31 Uhr verlassen, um den Bf
-Griesen (Oberbay) gegen 16:40 Uhr ohne Halt zu passieren.
-Am Ereignistag fuhr der Zug RB 5522 planmäßig um 16:04 Uhr in Garmisch-Partenkirchen ab.
-Nach Halt in Garmisch-Partenkirchen Hausberg und Untergrainau kam der Zug vor dem
-technisch gesicherten BÜ km 10,463 zum Halten, da ein Pkw unter die geschlossene Halbschranke gefahren war und dadurch in das Lichtraumprofil ragte. Nach etwa 25 Minuten
-konnte der Zug seine Fahrt fortsetzen und passierte den Bf Griesen (Oberbay) um 16:44 Uhr
-ohne Halt. Kurz nach der Vorbeifahrt am Ausfahrsignal (Asig) brachte der Tf seinen Zug mi els
-Schnellbremsung zum Stehen, als er den am Esig der Gegenrichtung haltenden Zug RB 5523
-wahrnahm.
-Der Zug RB 5523 fuhr planmäßig um 16:01 Uhr in Reu e in Tirol ab und erreichte den
-Bf Ehrwald Zugspitzbahn um 16:30 Uhr. Der Zug setzte seine Fahrt um 16:31 Uhr fort und kam
-gegen 16:40 Uhr am Halt zeigenden Esig des Bf Griesen (Oberbay) zum Halten.
+Reu(cid:425)e in Tirol mit, dass der Zug RB 5522 sich aufgrund eines Unfalls am BÜ verspäte. 
 
-Seite 14 von 28
+Um  16:39 Uhr  habe  er  dem  Fdl  Reu(cid:425)e  in  Tirol  den  Zug  RB 5522  mit  einer  berich(cid:415)gten 
 
-Untersuchungsbericht
-Störung durch betriebliche Fehlhandlung, 22.01.2020, Bf Griesen (Oberbay)
+Zugmeldung nachgemeldet. 
 
-4.5.3 Qualifikation der Fdl
-Die vorgelegten Nachweise zur Qualifika on der Fdl ließen keine Rückschlüsse auf etwaige
-Mängel hinsichtlich der unternehmensinternen Anforderungen auf und waren somit formal
-erfüllt.
-4.5.4 Betriebliche Gesprächsführung der Fdl
-Die Gespräche der Fdl Griesen (Oberbay) und Reu e in Tirol fanden in einem lockeren S l sta
-und waren stark von regionalem Dialekt geprägt. Für betriebliche Meldungen vorgegebene
-Wortlaute wurden teils stark verkürzt oder gar nicht verwendet. Des Weiteren wurden
-betrieblichen Meldungen mit disposi ven Gesprächsinhalten vermischt. So teilte der Fdl
-Griesen (Oberbay) dem Fdl Reu e in Tirol mit, dass der Zug RB 5522 am BÜ aufgehalten
-wurde. Eine Rücknahme der Zugmeldung in der vorgeschriebenen Form erfolgte nicht. Die
-Frage des Fdl Reu e in Tirol, ob der Zug RB 5523 bis Griesen (Oberbay) fahren könne, bejahte
-der Fdl Griesen (Oberbay). Dieses Gespräch wies keine Elemente einer Zugmeldung auf. Als
-der Zug RB 5522 nach der Störung am BÜ weiterfahren konnte, tauschten sich die Fdl über die
-zu erwartende Durchfahrtszeit in Griesen (Oberbay) aus.
-Nachdem sich die beiden Züge auf der Strecke gegenüberstanden, wollten die Fdl den Zug
-RB 5522 im Bf Griesen (Oberbay) ohne Einleiten der No allmeldeke e nach Gleis 1
-zurücksetzen lassen, anschließend hä e der Zug RB 5523 über Gleis 2 die Strecke räumen
-können. Der Tf des Zuges RB 5522 verweigerte dies und informierte die disponierende Stelle
-seines EVU über den Vorfall.
-Zur Verdeutlichung der Gesprächsführung sind einzelne Gespräche zwischen den beiden Fdl
-in Auszügen in den folgenden Tabellen dargestellt.
+Gegen  16:44 Uhr  sei  der  Zug  RB 5522  bei  ihm  am  Stellwerk  vorbeigefahren.  Die  Ein-  und 
 
-Seite 15 von 28
+Ausfahrt erfolgte dabei mi(cid:425)els Fahrtstellung der Hauptsignale. Etwa um 16:50 Uhr habe sich 
 
-Untersuchungsbericht
-Störung durch betriebliche Fehlhandlung, 22.01.2020, Bf Griesen (Oberbay)
+der Tf des Zuges RB 5522 erneut bei ihm gemeldet und mitgeteilt, dass vor ihm ein Zug stünde. 
 
-Fdl Griesen (Oberbay)
+Der Fdl Griesen (Oberbay) verständigte im Anschluss den Fdl Reu(cid:425)e in Tirol über die Situa(cid:415)on 
 
-Fdl Reu e in Tirol
+und  fragte  diesen,  warum  ein  Zug  vor  seinem  Esig  stünde,  obwohl  er  für  diesen  Zug  keine 
 
-Bahnhof Griesen also der Zug kommt ned 5522 steht
-in km 10,5 bei mir … vorm Bahnübergang weil da ist
-a Auto unterm Schranken neigrutscht
-[…]
+Zugmeldung erhalten habe. Er gab weiterhin an, dass er ab diesem Zeitpunkt unter Schock 
 
-Okay
-[…]
+gestanden  habe.  Der  Fdl  Reu(cid:425)e  in  Tirol  habe  ihm  eine  Telefonnummer  mitgeteilt  und  ihn 
 
-Tabelle 2: Mi eilung des Fdl Griesen (Oberbay) über Unregelmäßigkeiten am BÜ
+Seite 8 von 28 
 
-Fdl Griesen (Oberbay)
+ 
+ 
+Untersuchungsbericht 
 
-Fdl Reu e in Tirol
+Störung durch betriebliche Fehlhandlung, 22.01.2020, Bf Griesen (Oberbay) 
 
-Griesen
-Du [Name] isch nomal da
-Ja
-Äh mit dem 25 … 23 könn mer mal zu dir runter
-fahren oder?
-Zu mir kimmst du her
-I hab mir jetzt grad mit der Leitstelle in Garmisch
-telefoniert das mor gar nix davo gewisst hän
-Mmh
-Vielleicht das mer nen Dreiezwanzger in Griesen
-auf’n Zworezwangzer stupfen
-Mmh
-I hob gesagt er sie mal drum kümmre und soll
-nocha Bescheid geben
-Mmh ich ruf dann Transportleitung an ge …
-alles klar bis dann
-Jawoll bassd danke tschüss
-Tabelle 3: Disposi ves Gespräch zur weiteren Vorgehensweise
+aufgefordert, ihn auf dieser anzurufen. Aufgrund des Schocks könne er sich nicht mehr an den 
 
-Fdl Griesen (Oberbay)
+genauen Wortlaut des folgenden Telefongespräches erinnern. Es sei zu ihm vom Fdl Reu(cid:425)e in 
 
-Fdl Reu e in Tirol
-Reu e
+Tirol gesagt worden: „das machen wir unter uns aus“. Der Fdl Reu(cid:425)e in Tirol wollte versuchen 
 
-Ja also wie gesagt der 5522 der rollt jetzt ge der
-kommt jetzt langsam zu mir rein
-Hon i ghert … bassd … mir machen noch amal
-a Zugmeldung ge?
-Genau … also … gut … woll mer des nochmal
-machen oder? Zugmeldung?
-Äh mit wann kommscht’n ungefähr weg?
-Äh ich denk mal das er in … ja in Minuten sowas
-Halt 46 … da brauchst nix mehr sagen … 45/46 bassd
-Von hier 46 ge alles klar
-Alles klar
-Bis gleiche
-Okay gut
-Ja tschau
-Tabelle 4: Erneute Zugmeldung für RB 5522
+die Tf der beiden Züge zu erreichen. 
 
-Seite 16 von 28
+Nach ca. zehn Minuten habe ihm der Fdl Reu(cid:425)e in Tirol mitgeteilt, dass es sowieso nichts mehr 
 
-Untersuchungsbericht
-Störung durch betriebliche Fehlhandlung, 22.01.2020, Bf Griesen (Oberbay)
+bringe, da ein Tf bereits die NFLS verständigt habe. Ab diesem Zeitpunkt habe der Fdl Griesen 
 
-Fdl Griesen (Oberbay)
+(Oberbay)  keine  betrieblichen  Handlungen  mehr  vorgenommen,  bis  der  No(cid:414)allmanager 
 
-Fdl Reu e in Tirol
-Reu e
+(Nmg) bei ihm eingetroﬀen sei. 
 
-Griesen … also der is …
-ich hab dir doch den Zug rausgeschickt oder?
-Bi e?
-Ich hab dir doch den 5522 weiter geschickt oder?
-Ja
-Aber der hot gsogt der eine Zug steht äh zwischen
-eahm … vor eahm
-Wo?
-Äh der is äh … bei grad raus und dann hat er gsagt
-äh … da steht der Zug vor eahm
-[Name] … äh … schreib dir schnell an Ze l und ruf mi
-aufm aufm Telefon an … (Pause) hoscht was zum
-Schreiben? … [Name!] hallo!?
-Ja i bin scho dran ja
-Schreib dir a Nummer auf jetzt!
-[Rufnummernübermi lung]
-Ruf mi dringend an!
-1…2…3…4…5
-Gut
-Alles klar
-Tabelle 5: Verständigung nach dem Ereignis
+4.1.2  Stellungnahme	des	Fdl	Reutte	in	Tirol	
 
-Fdl Griesen (Oberbay)
+Der Fdl Reu(cid:425)e in Tirol  gab an, er habe am Mi(cid:425)woch, den 22.01.2020 als Fdl ab  12:10  Uhr 
 
-Fdl Reu e in Tirol
-Reu e
+Dienst im Bf Reu(cid:425)e in Tirol gehabt. 
 
-Ja Bahnhof Griesen du hier ich erreich meinen Zug
-5522 ned per Funk
-Ich funkt dir’n schnell an eh
-Und dann schick ihn zu mir rei ge
-Ja bassd alles klar guad
-Tabelle 6: Absprache Zug RB 5522 zurück nach Griesen (Oberbay) zu fahren
+Nachdem er erfahren habe, dass es mit Zug 5522 Unregelmäßigkeiten an einem BÜ gegeben 
 
-Fdl Griesen (Oberbay)
+ha(cid:425)e und es daher zu Verzögerungen im der Zugfahrt gekommen war, habe er die Einfahrt für 
 
-Fdl Reu e in Tirol
+den  Zug  RB  5522  im  Bf  Ehrwald  Zugspitzbahn  zurückgenommen.  Er  habe  mit  dem  Fdl 
 
-Bahnhof Griesen
-Du der hat die Leitstell …
-der hat den No allmanager angerufen … du eh
-Ja gut dann is eh vorbei
-Ja und dann isch eh vorbei du ge … des isch …
-der musch do bleiben bis er sich meldet du he
-Alles klar … hat der schon was gesagt das er zurück
-fahrt zu mir oder?
-Na der fährt nicht mehr zurück … hat er erzählt …
-der duat gar nix mehr
-Also gut okay
-Guat
-Bis glei
-Bassd guad tschüss
-Tabelle 7: Abschließendes Gespräch zwischen den beteiligten Fdl
+Griesen (Oberbay) die weitere Vorgehensweise besprochen und ihn gefragt, ob Zug RB 5523 
 
-Seite 17 von 28
+in Griesen (Oberbay) auf Zug RB 5522 wenden würde. Der Fdl Griesen (Oberbay) habe ihm 
 
-Untersuchungsbericht
-Störung durch betriebliche Fehlhandlung, 22.01.2020, Bf Griesen (Oberbay)
+darauf  noch  keine  Antwort  geben  können.  Er  habe  darau(cid:300)in  die  Leitstelle  in  Garmisch-
 
-Feststellung zur Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers
-Lfd. Nr. 4
-Hinsichtlich der Qualifika on der eingesetzten Mitarbeiter liegen keine Erkenntnisse über
-Abweichungen zu den unternehmensinternen Vorgaben vor.
-Die Verständigung der beiden Fdl wich von den Vorgaben für Zugmeldungen ab und wies
-starken Dialekt auf.
-Betriebliche Meldungen und disposi ve Gespräche wurden im Rahmen der Gesprächsdurchführung vermischt.
+Partenkirchen  über  die  Unregelmäßigkeit  am  BÜ  in  Kenntnis  gesetzt  und  über  die  weitere 
 
-4.6 Untersuchung der betrieblichen Abläufe der EVU
-Von dem Ereignis waren die beiden Züge RB 5522 und RB 5523 betroﬀen. Die betriebliche
-Situa on sowie die Qualifika on und Handlungen der Tf werden nachfolgend für beide Züge
-beschrieben. Die nachfolgend dargestellten betrieblichen Abläufe basieren u. a. auf der
-Auswertung der elektronischen Fahrtenregistrierung der beteiligten Fahrzeuge.
-4.6.1 Zugfahrt RB 5522
-Der Personenzug RB 5522 war eine Verkehrsleistung des EVU DB Regio AG. Der Zug kam von
-Garmisch-Partenkirchen und sollte nach Reu e in Tirol fahren. Der Bf Griesen (Oberbay) war
-für diese Zugfahrt ein Bedarfshalt.
-Am Ereignistag musste der Zug am BÜ in km 10,463 anhalten, nachdem dort ein Pkw unter
-den Schrankenbaum gerutscht war und diesen beschädigt ha e. Zu einem Zusammenprall
-zwischen dem Zug und dem Pkw kam es nicht. Der Zug konnte seine Fahrt mit 25 Minuten
-Verspätung in Richtung Griesen (Oberbay) fortsetzen. Da dem Tf keine Haltanforderung vorlag
-und das Asig für ihn den Fahrtbegriﬀ Hp 1 zeigte, passierte er den Bf Griesen (Oberbay) mit
-58 km/h. Als er den am Esig der Gegenrichtung haltenden Gegenzug wahrnahm, leitete er eine
-Schnellbremsung ein und kam nach ca. 100 m Bremsweg etwa 20 m vor dem anderen Zug zum
-S llstand. Anschließend nahm er über Zugfunk Kontakt zum Fdl Griesen (Oberbay) auf und
-informierte ihn über den Vorfall. Im Anschluss informierte er die disponierende Stelle der
-DB Regio AG über das Ereignis.
+beabsich(cid:415)gte  Vorgehensweise 
 
-Seite 18 von 28
+informiert.  Der  Mitarbeiter  der  Leitstelle  Garmisch-
 
-Untersuchungsbericht
-Störung durch betriebliche Fehlhandlung, 22.01.2020, Bf Griesen (Oberbay)
+Partenkirchen habe von dem Vorfall zu der Zeit nichts gewusst und wollte sodann seinerseits 
 
-Der Tf war im Besitz eines gül gen Triebfahrzeugführerscheins und der erforderlichen Zusatzbescheinigungen. Nachweise zur regelmäßigen Schulung und Überwachung wurden vom EVU
-vorgelegt.
-4.6.2 Zugfahrt RB 5523
-Der Personenzug RB 5523 war eine Verkehrsleistung des EVU DB Regio AG. Der Zug kam von
-Reu e in Tirol und sollte über Garmisch-Partenkirchen nach München Hbf fahren. Für den Bf
-Griesen (Oberbay) war für diese Zugfahrt fahrplanmäßig kein Halt vorgesehen.
-Am Ereignistag erhielt der Tf vor der Ankun im Bf Ehrwald Zugspitzbahn vom Fdl Reu e in
-Tirol die Informa on, dass die geplante Zugkreuzung in Folge der Verspätung des Gegenzuges
-en ällt. Nachdem der Fdl Reu e in Tirol der Fahrt zuges mmt ha e, verließ der Zug RB 5523
-den Bf Ehrwald Zugspitzbahn planmäßig um 16:31 Uhr. Mit einer maximalen Geschwindigkeit
-von 57 km/h näherte er sich dem Bf Griesen (Oberbay). Das Evsig in km 13,987 zeigte den
-Signalbegriﬀ Vr 0, dies qui erte der Tf durch Bedienen der Wachsamkeitstaste. Er bremste
-den Zug ab und kam vor dem Esig zum S llstand. Nach kurzer Zeit kam der Gegenzug RB 5522
-in etwa 20 m Abstand zum Halten.
-Der Tf war im Besitz eines gül gen Triebfahrzeugführerscheins und der erforderlichen
-Zusatzbescheinigungen. Nachweise zur regelmäßigen Schulung und Überwachung wurden
-vom EVU vorgelegt.
-Feststellung zur Untersuchung der betrieblichen Abläufe des EVU
-Lfd. Nr. 5
-Beide Tf waren für das Führen ihrer Züge auf der Strecke qualifiziert.
-Hinweise auf etwaige Mängel beim Führen der Triebzüge haben sich nicht ergeben.
+Informa(cid:415)onen einholen. Anschließend habe sich dieser bei ihm gemeldet und ihm mitgeteilt, 
 
-4.7 Untersuchung von Fahrzeugen
-Von dem Ereignis waren die beiden Züge RB 5522 und RB 5523 betroﬀen, deren Fahrzeuge
-nachfolgend beschrieben werden.
-4.7.1 Zugfahrt RB 5522
-Der Zug RB 5522 des EVU DB Regio AG bestand aus dem einzeln fahrenden vierteiligen
-Elektrotriebzug 94 80 2442 228-9 D-DB des Typs Bombardier Talent 2. Dieser verkehrte von
+dass Zug RB 5522 seine Fahrt mit Verspätung fortsetzen könne. 
 
-Seite 19 von 28
+Er  gab  an,  dass  er  nach  erfolgter  Zugmeldung  an  den  Fdl  Griesen  (Oberbay)  in  Ehrwald 
 
-Untersuchungsbericht
-Störung durch betriebliche Fehlhandlung, 22.01.2020, Bf Griesen (Oberbay)
+Zugspitzbahn das Ausfahrsignal für Zug RB 5523 gestellt habe. Danach habe er sich kurz auf 
 
-Garmisch-Partenkirchen über Griesen (Oberbay) und Ehrwald Zugspitzbahn nach Reu e in
-Tirol.
-Aus der folgenden Tabelle lassen sich die technischen Daten des Triebfahrzeuges (Tfz)
-entnehmen:
-Stromsystem
+die  Toile(cid:425)e  begeben  und  nach  seiner  Rückkehr  die  Besetzanzeige  des  Abschni(cid:425)es  a11 
 
-Elektrisch 15 kV, 16,7 Hz ~
+gesehen. Darau(cid:300)in habe er auf a11 den Zug RB 5522 aufgestellt, da er annahm, dass es sich 
 
-Antriebsart
+bei der Besetztanzeige um diesen Zug handele. In der Folge habe er die Einfahränderungen in 
 
-Drehstromasynchronantrieb
+Ehrwald  Zugspitzbahn,  Bichlbach-Berwang  und  Reu(cid:425)e  in  Tirol  in  das  interne  IT-System  der 
 
-Nennleistung
+ÖBB zur Echtzeit-Zugverfolgung ARAMIS eingegeben.  
 
-3.030 kW
+Als er erfuhr, dass es zu einer Beinahekollision der Züge RB 5522 und RB 5523 gekommen sei, 
 
-Gesamtlänge (LüK)
+habe er beide Tf angefunkt, um sich einen Überblick zu verschaﬀen. Im Anschluss daran habe 
 
-72.300 mm
+Seite 9 von 28 
 
-Masse
+ 
+ 
+Untersuchungsbericht 
 
-161 t
+Störung durch betriebliche Fehlhandlung, 22.01.2020, Bf Griesen (Oberbay) 
 
-Höchstgeschwindigkeit
+er die zuständigen Stellen in Österreich verständigt. Um 18:00 Uhr sei er von einem anderen 
 
-160 km/h
+Fdl abgelöst worden. 
 
-Radsatzfolge
+4.1.3  Stellungnahme	des	Tf	RB	5522	
 
-Bo’2’Bo’2’Bo’
+Der Tf gab an: Er sei am 22.01.2020 für die Schicht 1015 von 15:53 Uhr bis 22:44 Uhr eingeteilt 
 
-Zugsicherungssystem
+gewesen. 
 
-PZB 90
+Bei seiner Tä(cid:415)gkeit als Tf habe er den Zug RB 5522 von Garmisch-Partenkirchen nach Reu(cid:425)e 
 
-Tabelle 8: Technische Daten Tfz 94 80 2442 228-9 D-DB
+in Tirol fahren sollen. Bei dieser Fahrt habe er vor dem BÜ in km 10,463 eine Schnellbremsung 
 
-Zum Zeitpunkt des Ereignisses fuhr der Elektrotriebzug mit einer Geschwindigkeit von 58 km/h
-und wurde mittels Schnellbremsung zum Stillstand gebracht.
-Ein ursächlicher Einfluss des Fahrzeuges und seiner Eigenschaften auf den Eintritt des
-gefährlichen Ereignisses wurde nicht festgestellt.
-4.7.2 Zugfahrt RB 5523
-Der Zug RB 5523 des EVU DB Regio AG bestand aus dem einzeln fahrenden vierteiligen
-Elektrotriebzug 94 80 2442 226-3 D-DB des Typs Bombardier Talent 2. Dieser verkehrte von
-Reutte in Tirol aus über Ehrwald Zugspitzbahn und Griesen (Oberbay) nach GarmischPartenkirchen und weiter nach München Hbf.
+einleiten  müssen,  da  ein  Auto  im  lichten  Raum  des  BÜ  gestanden  habe.  Es  sei  bei  diesem 
 
-Seite 20 von 28
+Vorfall zu keinem Zusammenprall mit dem Auto gekommen. Nach Rücksprache mit dem Fdl 
 
-Untersuchungsbericht
-Störung durch betriebliche Fehlhandlung, 22.01.2020, Bf Griesen (Oberbay)
+Griesen (Oberbay) habe er seine Fahrt nach ca. 20-25 Minuten fortgesetzt. Der Fdl habe ihm 
 
-Aus der folgenden Tabelle lassen sich die technischen Fahrzeugdaten entnehmen:
-Stromsystem
+mitgeteilt, dass die Einfahrt und die Ausfahrt im Bf Griesen (Oberbay) auf Fahrt stünden. 
 
-Elektrisch 15 kV, 16,7 Hz ~
+Bei der Einfahrt in den Bf Griesen (Oberbay) habe er festgestellt, dass keine Reisenden am 
 
-Antriebsart
+Bahnsteig standen und er keine Fahrgastanforderung zum Aussteigen ha(cid:425)e. Er sei darau(cid:300)in 
 
-Drehstromasynchronantrieb
+mit  Fahrplangeschwindigkeit  durch  den  Bf  Griesen  (Oberbay)  gefahren  und  habe  bei  der 
 
-Nennleistung
+Streckenbeobachtung festgestellt, dass am Einfahrsignal der Gegenrichtung ein Zug stand. Als 
 
-3.030 kW
+er dies bemerkte, habe er sofort eine Schnellbremsung eingeleitet und sei ca. 20 m vor diesem 
 
-Gesamtlänge (LüK)
+Zug  zum  Stehen  gekommen.  Anschließend  habe  er  den  Fdl  Griesen  (Oberbay)  sowie  die 
 
-72.300 mm
+Transportleitung der DB Regio AG über diesen Vorfall informiert und auf das Eintreﬀen der 
 
-Masse
+Einsatzkrä(cid:332)e gewartet. 
 
-161 t
+4.1.4  Stellungnahme	des	Tf	RB	5523	
 
-Höchstgeschwindigkeit
+Der Tf gab an, er am 22.01.2020 für die Schicht 1009 von 11:53 Uhr bis 20:39 Uhr eingeteilt 
 
-160 km/h
+gewesen. 
 
-Radsatzfolge
+Bei  seiner  Tä(cid:415)gkeit  als  Tf  habe  er  den  Zug  RB 5523  von  Reu(cid:425)e  in  Tirol  nach  Garmisch-
 
-Bo’2’Bo’2’Bo’
+Partenkirchen  fahren  sollen.  Nach  der  Abfahrt  in  Reu(cid:425)e  in  Tirol  sei  er  Richtung  Ehrwald 
 
-Zugsicherungssystem
+Zugspitzbahn  gefahren.  Kurz  vor  der  Ankun(cid:332)  im  Bf  Ehrwald  Zugspitzbahn  habe  ihn  der  Fdl 
 
-PZB 90
+Reu(cid:425)e in Tirol darüber informiert, dass der Gegenzug RB 5522 wegen einer Unregelmäßigkeit 
 
-Tabelle 9: Technische Daten Tfz 94 80 2442 226-3 D-DB
+an einem BÜ derzeit eine Verspätung von ca. 20 Minuten habe und er die Fahrt ohne Kreuzung 
 
-Ein ursächlicher Einfluss des Fahrzeuges und seiner Eigenscha en auf den Eintri
+in Ehrwald Zugspitzbahn bis Griesen (Oberbay) fortsetzen solle. 
 
-des
+Nachdem  er  seine  Fahrt  fortgesetzt  ha(cid:425)e,  habe  er  kurz  vor  dem  Bf  Griesen  (Oberbay) 
 
-gefährlichen Ereignisses wurde nicht festgestellt.
-Feststellung zur Untersuchung der Fahrzeuge
-Lfd. Nr. 6
-Die beiden beteiligten Triebzüge ha en keinen ursächlichen Einfluss auf den Eintri des
-gefährlichen Ereignisses.
+festgestellt,  dass  das  Einfahrvorsignal  (Evsig)  für  den  Bf  Griesen  (Oberbay)  noch  den 
 
-4.8 Vergleichbare eingleisige Strecken
-Durch das EIU DB Netz AG wurden Stand Frühjahr 2020 noch 53 Streckenabschnitte ohne
-technisch realisierten Folge- und Gegenfahrschutz betrieben. In dieser Aufzählung nicht
-enthalten sind jene Strecken, welche sich in Umrüstung befanden, auf denen nur ein Zug am
-Tag verkehrte oder die nur im Gelegenheitsverkehr betrieben wurden. Insgesamt betraf dies
-eine Anzahl von etwa 900 Zugfahrten täglich. Im Verkehrsjahr fanden somit etwa 330.000
-Zugfahrten ohne technisch realisierten Folge- und Gegenfahrschutz statt. Zudem bestanden
-weitere Strecken anderer EIU, die in analoger Weise nach der vom Verband Deutscher
-Verkehrsunternehmen (VDV) herausgegebenen weitgehend identischen VDV-Schrift 752
-betrieben wurden.
-Die Sicherung von Zugfahrten ohne technisch realisierten Folge- und Gegenfahrschutz wird im
-Bereich der DB Netz AG in der Regel durch das fernmündliche Zugmeldeverfahren realisiert.
+Seite 10 von 28 
 
-Seite 21 von 28
+ 
+ 
+Untersuchungsbericht 
 
-Untersuchungsbericht
-Störung durch betriebliche Fehlhandlung, 22.01.2020, Bf Griesen (Oberbay)
+Störung durch betriebliche Fehlhandlung, 22.01.2020, Bf Griesen (Oberbay) 
 
-In diesen Fällen können menschliche Fehlhandlungen durch technische Einrichtungen nicht
-kompensiert werden. Daher sind die Strecken der DB Netz AG überwiegend mit Einrichtungen
-des Streckenblocks ausgerüstet. Diese stellen den technischen Folge- und Gegenfahrschutz
-sicher.
-Die Eisenbahn- Bau- und Betriebsordnung (EBO) erhebt im § 15 Abs. 1 für Nebenbahnen keine
-Pflicht in Bezug auf eine Ausrüstung mit Streckenblock. Die DB Netz AG als EIU ha e in der Ril
-DS 818 „Signalanlagen planen und vorhalten“ sowie der Ril 413 „Infrastruktur gestalten“
-bereits weitergehende Regelungen für das eigene Streckennetz umgesetzt. Hierbei wurde zur
-Risikobetrachtung ein Belastungsprofil der Strecke unter Zuhilfenahme verschiedener
-Faktoren aus den Bereichen Infrastruktur und Fahrzeuge sowie Betrieb und Personal erstellt
-und anhand dessen eine risikobasierte Bewertung der möglichen Betriebsverfahren für
-eingleisige Strecken vorgenommen. Die zum Ereigniszeitpunkt gül gen Bewertungen
-ergaben, dass eingleisige Strecken mit Personenverkehr im Stundentakt und planmäßigen
-Zugkreuzungen ohne technisch realisierten Folge- und Gegenfahrschutz grundsätzlich
-betrieben werden konnten.
+Signalbegriﬀ Vr 0 („Halt erwarten“) zeigte. Er habe darau(cid:300)in die Wachsamkeitstaste betä(cid:415)gt 
 
-Seite 22 von 28
+und  sei  vor  dem  Esig  des  Bf  Griesen  (Oberbay)  stehen  geblieben.  Nach  ca.  drei  Minuten 
 
-Untersuchungsbericht
-Störung durch betriebliche Fehlhandlung, 22.01.2020, Bf Griesen (Oberbay)
+Standzeit habe er gesehen, dass ein Zug auf ihn zugekommen sei. Dieser habe eine Bremsung 
 
-5 Auswertung
-Das Kapitel 5 Auswertung befasst sich mit der Ereignisrekonstruk on. Anhand der oben
-genannten Feststellungen wird ein plausibler Ablauf des gefährlichen Ereignisses zusammengetragen. Relevante Erkenntnisse werden anschließend bewertet und führen ggf. zu entsprechenden Schlussfolgerungen.
+eingeleitet und sei vor ihm zum Stehen gekommen. 
 
-5.1 Ereignisrekonstruktion
-Am 22.01.2020 verließ der Personenzug RB 5522 um 16:04 Uhr den Bf Garmisch-Partenkirchen in Richtung Reu e in Tirol. Nach dem Verkehrshalt am Haltepunkt Untergrainau kam
-der Zug vor dem technisch gesicherten BÜ in km 10,463 durch eine Schnellbremsung des Tf
-zum Halten, da ein Pkw unter die geschlossene Halbschranke gefahren war und dadurch in
-das Lichtraumprofil ragte. Nachdem der Fdl Griesen (Oberbay) vom Tf des Zuges über die
-Situa on unterrichtet wurde, informierte er die benachbarten Fdl in Garmisch-Partenkirchen
-und Reu e in Tirol. Auf die Rückfrage des Fdl Reu e in Tirol, ob der Gegenzug RB 5523 von
-Ehrwald Zugspitzbahn nach Griesen (Oberbay) fahren könne, bejahte dies der Fdl
-Griesen (Oberbay). Eine Zugmeldung für die Fahrt des Zuges RB 5523 von Ehrwald Zugspitzbahn nach Griesen (Oberbay) erfolgte nicht.
-Der Zug RB 5523 fuhr planmäßig um 16:01 Uhr in Reu e in Tirol ab und erreichte um 16:30 Uhr
-den Bf Ehrwald Zugspitzbahn. Hier wurde der Tf vom Fdl Reu e in Tirol über den Ausfall der
-ursprünglich geplanten Kreuzung mit dem Zug RB 5522 unterrichtet. Um 16:31 Uhr verließ der
-Zug RB 5523 den Bf Ehrwald Zugspitzbahn in Richtung Griesen (Oberbay) und kam gegen
-16:40 Uhr vor dem Halt zeigenden Esig F des Bf Griesen (Oberbay) zum Halten.
-Währenddessen konnte der Zug RB 5522 seine Fahrt mit einer Verspätung von etwa
-25 Minuten fortsetzen. Der Fdl Griesen (Oberbay) unterrichtete den Fdl Reu e in Tirol über
-die Weiterfahrt und die voraussichtliche Durchfahrtszeit im Bf Griesen (Oberbay). Eine
-Rücknahme der alten Zugmeldung sowie eine erneute Zugmeldung erfolgten hierbei nicht. Da
-dem Tf keine Haltanforderung für den Bf Griesen (Oberbay) vorlag, durchfuhr er diesen um
-16:44 Uhr ohne Halt.
-Bei der Ausfahrt aus dem Bf Griesen (Oberbay) nahm der Tf des Zuges RB 5522 den am Esig
-der Gegenrichtung stehenden Gegenzug RB 5523 wahr, leitete eine Schnellbremsung ein und
-kam mit einem Abstand von etwa 20 m vor dem Zug RB 5523 zum Stehen.
+4.2  Notfallmanagement	
 
-Seite 23 von 28
+Nach  § 4  Abs. 3  AEG  haben  die  Eisenbahnen  die  Verpﬂichtung,  an  Maßnahmen  des 
 
-Untersuchungsbericht
-Störung durch betriebliche Fehlhandlung, 22.01.2020, Bf Griesen (Oberbay)
+Brandschutzes und der technischen Hilfeleistung mitzuwirken. In einer Vereinbarung zwischen 
 
-5.2 Bewertung und Schlussfolgerung
-An den beteiligten Eisenbahnfahrzeugen sowie an der bautechnischen Infrastruktur konnten
-keine Faktoren festgestellt werden, die Einfluss auf das Ereignis gehabt haben. Die am Ereignis
-beteiligten Tf der beiden Züge waren befähigt und qualifiziert ihre Tä gkeiten auszuführen.
-Ein Einfluss des Handelns der Tf auf die Entstehung des Ereignisses konnte nicht festgestellt
-werden.
-Einflüsse durch äußere Bedingungen, die das Ereignis verursacht oder begüns gt haben
-könnten, wurden nicht festgestellt.
-Die EBO und das Regelwerk der DB Netz AG als Infrastrukturbetreiber lassen das
-Betriebsverfahren des Zugmeldebetriebs ohne Streckenblock unter bes mmten Voraussetzungen zu. Die zuletzt im Dezember 2019 unternehmensintern durchgeführte
-Bewertung der betroﬀenen Strecke nach Ril 413.0506 ergab, dass das angewandte Verfahren
-des Zugmeldebetriebes ohne Streckenblock in diesem Fall zulässig war.
-Das vorliegende Ereignis zeigt, dass die in der Ril 413.0506 hinterlegten Kriterien zur
-Risikobetrachtung für die Durchführung eines Betriebes auf eingleisigen Strecken ohne
-technisch realisierten Folge- und Gegenfahrschutz als nicht ausreichend angesehen werden
-können.
-Die vorhandenen Anlagen der Leit- und Sicherungstechnik funk onierten ordnungsgemäß und
-ha en keinen unmi elbaren Einfluss auf die Entstehung des Ereignisses. Eine technische
-Aussta ung zur Verhinderung einer Fahrt in einen besetzten Abschni war nicht vorhanden.
-Dadurch konnten gefährliche Folgen aus der missverständlichen Kommunika on nicht
-oﬀenbart oder verhindert werden.
-Die beiden Fdl waren grundsätzlich zur Ausübung der Tä gkeit qualifiziert worden.
-Grundlage für die betriebliche Kommunika on zwischen den Fdl waren die Regelungen aus
-den Ril 408.0202 und 481.0101 sowie für Zugmeldungen die Regelungen aus der Ril 408.0221.
-Die hierin enthaltenen Regeln sollten eine sichere und zweifelsfreie Kommunika on
-gewährleisten. Neben der Verwendung fester Wortgruppen und der Wiederholung
-wesentlicher Meldungsteile war die Einhaltung einer unbedingten Sprechdisziplin durch alle
-Teilnehmer zu beachten. Die Verwendung der deutschen Sprache sollte hierbei möglichst
-dialek rei und langsam, deutlich und in normaler Lautstärke erfolgen. Ergänzende
-streckenbezogene Regelungen fanden sich in den RöB der Ril 302.4006.
+den  Innenministerien  der  Länder  und  der  DB  AG  hat  man  sich  auf  eine  Verfahrensweise 
 
-Seite 24 von 28
+verständigt.  Für  die  DB  Netz  AG  gelten  die  entsprechenden  Brand-  und  Katastrophen-
 
-Untersuchungsbericht
-Störung durch betriebliche Fehlhandlung, 22.01.2020, Bf Griesen (Oberbay)
+schutzgesetze der Länder. Das No(cid:414)allmanagement der DB AG ist in der Konzernrichtlinie 123, 
 
-Die Vorgaben zur Kommunika on wurden durch beide Fdl nicht oder nur eingeschränkt
-beachtet. Die geführten Gespräche waren stark von regionalen Dialekten und der teilweise
-erheblichen Auslassung von festgelegten Wortlauten geprägt. Eine klare Unterscheidung
-zwischen betrieblichen Meldungen und disposi ven Gesprächen war nicht gegeben.
-Die Nichteinhaltung der Kommunika onsregeln führte zur unterschiedlichen Interpreta on
-von Gesprächsinhalten und zu einem missverständlichen Austausch von Informa onen. In der
-Folge nahmen diese Bedienhandlungen vor, die einzeln betrachtet nach dem jeweiligen
-Informa onsstand des Fdl zulässig waren. Da die den Fdl vorliegenden Informa onen jedoch
-die Entwicklung der realen Situa on nicht korrekt abbildeten, kam es schlussendlich zur
-Zulassung zweier gegenläufiger Zugfahrten im gleichen Gleisabschni .
-Der technische Ausrüstungsstand des Stw Griesen (Oberbay) ließ die Bedienhandlungen der
-Fdl und damit die Zulassung der Zugfahrt in den bereits durch einen anderen Zug besetzten
-Gleisabschni
+das der DB Netz AG in der Richtlinie (Ril) 423 näher beschrieben und geregelt. 
 
-zu. Die Stellwerkstechnik war damit nicht geeignet, die sich aus der
+Die NFLS der DB Netz AG in der Betriebszentrale München wurde vom Fdl Griesen (Oberbay) 
 
-mangelha en Kommunika on resul erenden menschlichen Fehler zu kompensieren. Das
-Ereignis zeigt deutlich das hohe Risikopotenzial des hier angewandten Zugmeldeverfahrens
-ohne technisch realisierten Folge- und Gegenfahrschutz.
-Die Kommunika on zwischen den Fdl nach dem S llstand der beiden Züge war nicht
-vollständig dokumen ert, da diese bewusst über Fernsprechverbindungen ohne Gesprächsaufzeichnung geführt wurde. Aus den aufgezeichneten Gesprächen ist jedoch ersichtlich, dass
-die Fdl versuchten, den Tf des Zuges RB 5522 über Zugfunk zu erreichen, um ein Zurücksetzen
-des Zuges hinter das Asig anzuweisen. Dieser verweigerte dies jedoch und informierte seine
-disponierende Stelle über das Ereignis.
-Das Ereignis zeigt deutlich auf, wie Mängel in der Ausführung festgelegter, weil unmi elbar
-sicherheitsrelevanter Kommunika on bei der Betriebsführung zu Missverständnissen und zu
-einer falschen Einschätzung der tatsächlichen betrieblichen Situa on führen können.
-Insoweit kam der Sicherheitsleistung der ausschließlich verfahrensgesicherten Betriebsführung ein besonders hoher Stellenwert zu. Die bereits im Regelbetrieb größere Fehlerwahrscheinlichkeit durch den großen Arbeitsanteil der Betriebspersonale in den Abläufen eröﬀnete
-eine hohe Wahrscheinlichkeit für den Eintri ungewünschter oder gefährlicher Zustände.
-Für die vorliegende Konstella on an einer Grenzbetriebsstrecke bedarf es aufgrund der
-Gegebenheiten individueller Überwachungsinhalte, -methoden und -häufigkeiten, sowie
+nicht über den Vorfall unterrichtet. Ereignisse dieser Art sind gemäß Ril 423.0234 Abs. 1 (1) 
 
-Seite 25 von 28
+unverzüglich durch den zuständigen Fdl an die NFLS zu melden. 
 
-Untersuchungsbericht
-Störung durch betriebliche Fehlhandlung, 22.01.2020, Bf Griesen (Oberbay)
+Die NFLS erlangte 14 Minuten nach dem Ereignis um 17:00 Uhr durch den zuständigen Netz-
 
-vorbeugender Trainings. Diese können in der Konstella on der Betriebsführung über
-Infrastrukturgrenzen hinweg nur mit dem benachbarten EIU gemeinsam verfolgt werden. Dies
-verlangt eine entsprechende Koopera on auf Leitungsebene und ein gemeinsames
-Verständnis über die anstehenden Risiken und die koordinierte Umsetzung der Kontrollmaßnahmen.
+koordinator  Kenntnis  von  dem  Vorfall.  Dieser  war  zuvor  von  der  Transportleitung  des  EVU 
 
-Seite 26 von 28
+DB Regio AG informiert worden, nachdem der Tf des Zuges RB 5522 diese über das Ereignis 
 
-Untersuchungsbericht
-Störung durch betriebliche Fehlhandlung, 22.01.2020, Bf Griesen (Oberbay)
+unterrichtet  ha(cid:425)e.  Der  Nmg  wurde  um  17:01 Uhr  alarmiert  und  traf  um  17:30 Uhr  im 
 
-6 Bisher getroffene Maßnahmen
-Die Themen Zugmeldung und Sprechdisziplin wurden im Nachgang des Ereignisses in die
-Lehrgespräche und die Unterrichte für Fdl aufgenommen.
-Die DB Netz AG ha e im Mai 2020 eine Arbeitsgruppe eingerichtet, die sich der Aktualisierung
-der Ril 413.0506 widmete. Der VDV wurde mit eingebunden. Es ist davon auszugehen, dass
-die Ergebnisse dieser Arbeitsgruppe Eingang in die VDV-Schri 752 finden und so mögliche
-Verbesserungen auch auf der Infrastruktur anderer EIU umgesetzt werden.
-Hinsichtlich der notwendigen Überprüfung und Überarbeitung der Ril 413.0506 im Rahmen
-einer Sicherheitsbewertung hat die BEU im Zwischenbericht vom 22.06.2020 die Sicherheitsempfehlung 05/2020 herausgegeben.
-Im Juli 2021 hat die DB Netz AG den Au rag zur Entwicklung eines Assistenzsystems unter der
-Bezeichnung „Technische Unterstützung für den Zugmeldebetrieb (TU ZMB)“ vergeben.
-Dieses System soll Fdl auf vergleichbaren Betriebsstellen unterstützen, ohne in die
-bestehende Signaltechnik einzugreifen.
-Im Stw Griesen (Oberbay) wurde die TU ZMB am 28.06.2023 in Betrieb genommen. Die
-Erneuerung der Stellwerkstechnik in Griesen (Oberbay) auf ESTW/DSTW-Technik ist für
-Oktober 2024 geplant.
+Bf Griesen (Oberbay) ein. 
 
-Seite 27 von 28
+Das Ereignis war gegenüber der BEU nicht sofortmeldepﬂich(cid:415)g. Die BEU wurde am Folgetag 
 
-Untersuchungsbericht
-Störung durch betriebliche Fehlhandlung, 22.01.2020, Bf Griesen (Oberbay)
+durch die DB Netz AG über das Ereignis informiert. 
 
-7 Sicherheitsempfehlungen
-Gemäß § 6 EUV und Art. 26 Abs. 2 der Ril (EU) 2016/798 erging am 22.06.2020 nachfolgende
-Sicherheitsempfehlung:
-Lfd. Nr.
+Seite 11 von 28 
 
-Sicherheitsempfehlung
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Betrifft Unternehmen
+Störung durch betriebliche Fehlhandlung, 22.01.2020, Bf Griesen (Oberbay) 
 
-05/2020
+4.3  Untersuchung	der	bautechnischen	Infrastruktur	
 
-Strecken ohne technisch realisierten Folge- und EisenbahninfrastrukturGegenfahrschutz sollten, über die bisher getroffenen unternehmen
-Regelungen
+Bei der Bahnstrecke zwischen Griesen (Oberbay) und Ehrwald Zugspitzbahn handelte es sich 
 
-hinaus,
+um eine eingleisige, elektriﬁzierte Nebenbahn der Streckenklasse CE. Sie war im Bereich der 
 
-einer
+Ereignisstelle mit Betonschwellengleis in Scho(cid:425)eroberbau versehen. 
 
-Sicherheitsbewertung
+Aufgrund der Ereignischarakteris(cid:415)k konnte ein Einﬂuss der bautechnischen Infrastruktur auf 
 
-unterzogen werden. Anhand der Ergebnisse sollten
-zusätzlich geeignete Maßnahmen getroffen werden,
-um ein unbeabsichtigtes Einfahren eines Zuges in einen
-bereits durch einen anderen Zug beanspruchten
-Streckenabschnitt auszuschließen.
+das Ereignis frühzei(cid:415)g ausgeschlossen werden. Auf eine weiterführende Untersuchung wurde 
 
-Seite 28 von 28
+daher verzichtet. 
 
+Feststellung zur bautechnischen Infrastruktur 
+
+Lfd. Nr. 2 
+
+Die bautechnische Infrastruktur ha(cid:425)e keinen erkennbaren Einﬂuss auf das Ereignis. 
+
+4.4  Untersuchung	der	Leit‐	und	Sicherungstechnik	
+
+Im Streckenabschni(cid:425) zwischen Griesen (Oberbay) und Ehrwald Zugspitzbahn wurde das Zug-
+
+meldeverfahren  angewandt.  Die  Strecke  war  nicht  mit  einem  technischen  Streckenblock 
+
+ausgerüstet. 
+
+Die Verständigung zwischen den Fdl Griesen (Oberbay) und Reu(cid:425)e in Tirol erfolgte über eine 
+
+Fernsprechleitung  mit  Tonbandaufzeichnung  im  Bf  Griesen  (Oberbay).  In  Reu(cid:425)e  in  Tirol 
+
+erfolgte eine digitale Gesprächsaufzeichnung. Die Kommunika(cid:415)on zwischen Fdl und den Tf der 
+
+Züge fand sowohl auf deutscher als auch österreichischer Seite über digitalen Zugfunk GSM-R 
+
+sta(cid:425). 
+
+Das Stellwerk (Stw) Griesen (Oberbay) der DB Netz AG war ein mechanisches Stw der Bauart 
+
+Krauß und wurde mit Streckeneröﬀnung im Jahr 1913 in Betrieb genommen. Die ursprünglich 
+
+als  Formsignale  ausgeführten  Ein-  und  Ausfahrsignale  wurden  1979  durch  vereinfachte 
+
+Lichtsignale  für  mechanische  Stw  ersetzt.  Diese  wurden  über  ein  kleines  Pult 
+
+im 
+
+Stellwerksraum bedient. 
+
+Das  Stw  Reu(cid:425)e  in  Tirol  der  ÖBB  Infrastruktur  AG  war  ein  elektronisches  Stw  (ESTW)  und 
+
+steuerte  den  gesamten 
+
+in  Österreich 
+
+liegenden  Abschni(cid:425)  der  betroﬀenen  Strecke 
+
+Außerfernbahn. 
+
+Seite 12 von 28 
+
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Störung durch betriebliche Fehlhandlung, 22.01.2020, Bf Griesen (Oberbay) 
+
+Der  Streckenabschni(cid:425)  zwischen  Garmisch-Partenkirchen  und  Ehrwald  Zugspitzbahn  wurde 
+
+mi(cid:425)els  Achszählkreisen  auf  Gleisbelegung  überwacht.  Hiervon  ausgenommen  war  der 
+
+Bf Griesen (Oberbay). Dem Fdl Griesen (Oberbay) wurden etwaige Gleisbelegungen in seinem 
+
+Bf sowie auf den zugehörigen Streckengleisen nicht angezeigt. 
+
+Hinweise auf etwaige Störungen oder Fehler an der Leit- und Sicherungstechnik wurden im 
+
+Zuge der Untersuchung nicht festgestellt. 
+
+Feststellung zur Untersuchung der Leit‐ und Sicherungstechnik 
+
+Lfd. Nr. 3 
+
+Die Anlagen der Leit- und Sicherungstechnik funk(cid:415)onierten ordnungsgemäß. 
+
+Der Fdl Griesen (Oberbay) erhielt bauartbedingt durch die Anlagen der Leit- und Sicherungs-
+
+technik keine Besetztanzeige der Gleise in seinem Bf sowie der zugehörigen Streckengleise. 
+
+4.5  Untersuchung	der	betrieblichen	Abläufe	des	Infrastrukturbetreibers	
+
+Nachfolgend  werden  zunächst  die  betrieblichen  Rahmenbedingungen  für  den  Strecken-
+
+abschni(cid:425) zwischen Griesen (Oberbay) und Ehrwald Zugspitzbahn erläutert und die Abwicklung 
+
+der Zugfahrten im Regelfall sowie während des Ereignisses beschrieben. Anschließend werden 
+
+die  Qualiﬁka(cid:415)on  der  Fdl  und  die  Abwicklung  der  betrieblichen  Gespräche  der  Fdl  näher 
+
+betrachtet. 
+
+4.5.1  Betriebliche	Rahmenbedingungen	
+
+Für den Bf Griesen (Oberbay) sowie für den Streckenabschni(cid:425) von Garmisch-Partenkirchen 
+
+bis  zum  Grenzpunkt  Griesen  (Oberbay)  Grenze  in  km 14,848  galten  die  Bes(cid:415)mmungen  der 
+
+Ril 408 der DB Netz AG. Für den Streckenabschni(cid:425) zwischen dem Bf Griesen (Oberbay) und 
+
+dem Bf Ehrwald Zugspitzbahn galten zusätzlich zu den länderspeziﬁschen Betriebsregeln die 
+
+Bes(cid:415)mmungen der Regelung der örtlichen Besonderheiten (RöB) auf dem Eisenbahn-Grenz-
+
+übergang Griesen, die in der Ril 302.4006 und Ril 302.4006Z01 niedergelegt waren. 
+
+Die  beiden  benachbarten  Zugmeldestellen  des  Bf  Griesen  (Oberbayern)  waren  die  Bf 
+
+Garmisch-Partenkirchen und Ehrwald Zugspitzbahn. Diese wurden jeweils durch ein ESTW in 
+
+Weilheim (Oberbayern) bzw. in Reu(cid:425)e in Tirol gesteuert. 
+
+Seite 13 von 28 
+
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Störung durch betriebliche Fehlhandlung, 22.01.2020, Bf Griesen (Oberbay) 
+
+Die Regelung und Sicherung der Zugfolge auf der Grenzstrecke wurde im Zugmeldeverfahren 
+
+durchgeführt. Die Kommunika(cid:415)on der Fdl erfolgte über die Fernsprechleitung. 
+
+Eine  Ermi(cid:425)lung  des  anzuwendenden  Betriebsverfahrens  beruht  auf  einer  Analyse  des 
+
+Belastungsproﬁls der Strecke nach Ril 413.0506A01. Gemäß Ril 413.0506 Abschn. 3 Abs. 5 war 
+
+ein Betrieb von bestehenden Strecken mit Zugmeldebetrieb ohne Streckenblock bei einem 
+
+schwachen Belastungsproﬁl bei weniger als 8.000 Bewertungspunkten zulässig. 
+
+Die Strecke wurde zuletzt im Dezember 2019 durch den Infrastrukturbetreiber nach diesen 
+
+Kriterien  beurteilt.  Hiernach  wies  das  Belastungsproﬁl  der  Strecke  von  Montag  bis  Freitag 
+
+einen Wert von 3.680 Punkten sowie an Wochenenden von 4.320 Punkten auf. 
+
+4.5.2  Zugfahrten	
+
+Gemäß Fahrplan wäre der Zug RB 5522 um 16:04 Uhr in Garmisch-Partenkirchen abgefahren, 
+
+hä(cid:425)e den Bf Griesen (Oberbay) um 16:19 Uhr mit Fahrplaneintrag Bedarfshalt passiert und 
+
+um 16:28 Uhr den Bf Ehrwald Zugspitzbahn erreicht. 
+
+Der Zug RB 5523 wäre um 16:01 Uhr in Reu(cid:425)e in Tirol abgefahren und hä(cid:425)e um 16:30 Uhr den 
+
+Bf Ehrwald Zugspitzbahn erreichen sollen. Nach dem Kreuzen mit dem wartenden Gegenzug 
+
+RB 5522  hä(cid:425)e  der  Zug  RB 5523  dann  den  Bf  um  16:31 Uhr  verlassen,  um  den  Bf 
+
+Griesen (Oberbay) gegen 16:40 Uhr ohne Halt zu passieren. 
+
+Am Ereignistag fuhr der Zug RB 5522 planmäßig um 16:04 Uhr in Garmisch-Partenkirchen ab. 
+
+Nach  Halt  in  Garmisch-Partenkirchen  Hausberg  und  Untergrainau  kam  der  Zug  vor  dem 
+
+technisch  gesicherten  BÜ  km 10,463  zum  Halten,  da  ein  Pkw  unter  die  geschlossene  Halb-
+
+schranke  gefahren  war  und  dadurch  in  das  Lichtraumproﬁl  ragte.  Nach  etwa  25 Minuten 
+
+konnte der Zug seine Fahrt fortsetzen und passierte den Bf Griesen (Oberbay) um 16:44 Uhr 
+
+ohne Halt. Kurz nach der Vorbeifahrt am Ausfahrsignal (Asig) brachte der Tf seinen Zug mi(cid:425)els 
+
+Schnellbremsung zum Stehen, als er den am Esig der Gegenrichtung haltenden Zug RB 5523 
+
+wahrnahm. 
+
+Der  Zug  RB 5523  fuhr  planmäßig  um  16:01 Uhr  in  Reu(cid:425)e  in  Tirol  ab  und  erreichte  den 
+
+Bf Ehrwald Zugspitzbahn um 16:30 Uhr. Der Zug setzte seine Fahrt um 16:31 Uhr fort und kam 
+
+gegen 16:40 Uhr am Halt zeigenden Esig des Bf Griesen (Oberbay) zum Halten. 
+
+Seite 14 von 28 
+
+ 
+ 
+Untersuchungsbericht 
+
+Störung durch betriebliche Fehlhandlung, 22.01.2020, Bf Griesen (Oberbay) 
+
+4.5.3  Qualifikation	der	Fdl	
+
+Die vorgelegten Nachweise zur Qualiﬁka(cid:415)on der Fdl ließen keine Rückschlüsse auf etwaige 
+
+Mängel hinsichtlich der unternehmensinternen Anforderungen auf und waren somit formal 
+
+erfüllt. 
+
+4.5.4  Betriebliche	Gesprächsführung	der	Fdl	
+
+Die Gespräche der Fdl Griesen (Oberbay) und Reu(cid:425)e in Tirol fanden in einem lockeren S(cid:415)l sta(cid:425) 
+
+und waren stark von regionalem Dialekt geprägt. Für betriebliche Meldungen vorgegebene 
+
+Wortlaute  wurden  teils  stark  verkürzt  oder  gar  nicht  verwendet.  Des  Weiteren  wurden 
+
+betrieblichen  Meldungen  mit  disposi(cid:415)ven  Gesprächsinhalten  vermischt.  So  teilte  der  Fdl 
+
+Griesen  (Oberbay)  dem  Fdl  Reu(cid:425)e  in  Tirol  mit,  dass  der  Zug  RB 5522  am  BÜ  aufgehalten 
+
+wurde.  Eine  Rücknahme  der  Zugmeldung  in  der  vorgeschriebenen  Form  erfolgte  nicht.  Die 
+
+Frage des Fdl Reu(cid:425)e in Tirol, ob der Zug RB 5523 bis Griesen (Oberbay) fahren könne, bejahte 
+
+der Fdl Griesen (Oberbay). Dieses Gespräch wies keine Elemente einer Zugmeldung auf. Als 
+
+der Zug RB 5522 nach der Störung am BÜ weiterfahren konnte, tauschten sich die Fdl über die 
+
+zu erwartende Durchfahrtszeit in Griesen (Oberbay) aus. 
+
+Nachdem sich die beiden Züge auf der Strecke gegenüberstanden, wollten die Fdl den Zug 
+
+RB 5522  im  Bf  Griesen  (Oberbay)  ohne  Einleiten  der  No(cid:414)allmeldeke(cid:425)e  nach  Gleis  1 
+
+zurücksetzen  lassen,  anschließend  hä(cid:425)e  der  Zug  RB 5523  über  Gleis  2  die  Strecke  räumen 
+
+können. Der Tf des Zuges RB 5522 verweigerte dies und informierte die disponierende Stelle 
+
+seines EVU über den Vorfall. 
+
+Zur Verdeutlichung der Gesprächsführung sind einzelne Gespräche zwischen den beiden Fdl 
+
+in Auszügen in den folgenden Tabellen dargestellt. 
+
+Seite 15 von 28 
+
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Störung durch betriebliche Fehlhandlung, 22.01.2020, Bf Griesen (Oberbay) 
+
+Fdl Griesen (Oberbay) 
+
+Fdl Reu(cid:425)e in Tirol 
+
+Bahnhof Griesen also der Zug kommt ned 5522 steht 
+in km 10,5 bei mir … vorm Bahnübergang weil da ist 
+a Auto unterm Schranken neigrutscht 
+
+[…] 
+
+Okay 
+[…] 
+
+Tabelle 2: Mi(cid:425)eilung des Fdl Griesen (Oberbay) über Unregelmäßigkeiten am BÜ 
+
+Fdl Griesen (Oberbay) 
+
+Fdl Reu(cid:425)e in Tirol 
+
+Griesen 
+
+Ja 
+
+Zu mir kimmst du her 
+
+Mmh 
+
+Mmh 
+
+Mmh ich ruf dann Transportleitung 
+alles klar bis dann 
+
+an ge …  
+
+Du [Name] isch nomal da 
+
+Äh mit dem 25 … 23 könn mer mal zu dir runter 
+fahren oder? 
+
+I hab mir jetzt grad mit der Leitstelle in Garmisch 
+telefoniert das mor gar nix davo gewisst hän 
+
+Vielleicht das mer nen Dreiezwanzger in Griesen 
+auf’n Zworezwangzer stupfen 
+
+I hob gesagt er sie mal drum kümmre und soll  
+nocha Bescheid geben 
+
+Jawoll bassd danke tschüss 
+
+Tabelle 3: Disposi(cid:415)ves Gespräch zur weiteren Vorgehensweise 
+
+Fdl Griesen (Oberbay) 
+
+Fdl Reu(cid:425)e in Tirol 
+
+Ja also wie gesagt der 5522 der rollt jetzt ge der 
+kommt jetzt langsam zu mir rein 
+
+Reu(cid:425)e 
+
+Genau … also … gut … woll mer des nochmal  
+machen oder? Zugmeldung? 
+
+Äh ich denk mal das er in … ja in Minuten sowas 
+
+Von hier 46 ge alles klar 
+
+Bis gleiche 
+
+Ja tschau 
+
+Tabelle 4: Erneute Zugmeldung für RB 5522 
+
+Hon i ghert … bassd … mir machen noch amal  
+a Zugmeldung ge? 
+
+Äh mit wann kommscht’n ungefähr weg? 
+
+Halt 46 … da brauchst nix mehr sagen … 45/46 bassd 
+
+Alles klar 
+
+Okay gut 
+
+Seite 16 von 28 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Störung durch betriebliche Fehlhandlung, 22.01.2020, Bf Griesen (Oberbay) 
+
+Fdl Griesen (Oberbay) 
+
+Fdl Reu(cid:425)e in Tirol 
+
+Griesen … also der is … 
+ich hab dir doch den Zug rausgeschickt oder? 
+
+Ich hab dir doch den 5522 weiter geschickt oder? 
+
+Aber der hot gsogt der eine Zug steht äh zwischen 
+eahm … vor eahm 
+
+Äh der is äh … bei grad raus und dann hat er gsagt 
+äh … da steht der Zug vor eahm 
+
+Reu(cid:425)e 
+
+Bi(cid:425)e? 
+
+Ja 
+
+Wo? 
+
+Ja i bin scho dran ja 
+
+1…2…3…4…5 
+
+Alles klar 
+
+Tabelle 5: Verständigung nach dem Ereignis 
+
+[Name] … äh … schreib dir schnell an Ze(cid:425)l und ruf 
+aufm aufm Telefon an … (Pause) hoscht was zum 
+Schreiben? … [Name!] hallo!? 
+
+mi 
+
+Schreib dir a Nummer auf jetzt! 
+[Rufnummernübermi(cid:425)lung] 
+Ruf mi dringend an! 
+
+Gut 
+
+Fdl Griesen (Oberbay) 
+
+Fdl Reu(cid:425)e in Tirol 
+
+Ja Bahnhof Griesen du hier ich erreich meinen Zug 
+5522 ned per Funk 
+
+Und dann schick ihn zu mir rei ge 
+
+Reu(cid:425)e 
+
+Ich funkt dir’n schnell an eh 
+
+Ja bassd alles klar guad 
+
+Tabelle 6: Absprache Zug RB 5522 zurück nach Griesen (Oberbay) zu fahren 
+
+Fdl Griesen (Oberbay) 
+
+Fdl Reu(cid:425)e in Tirol 
+
+Bahnhof Griesen 
+
+Ja gut dann is eh vorbei 
+
+Alles klar … hat der schon 
+fahrt zu mir oder? 
+
+was gesagt das er zurück 
+
+Also gut okay 
+
+Bis glei 
+
+Du der hat die Leitstell …  
+der hat den No(cid:414)allmanager angerufen … du eh 
+
+Ja und dann isch eh vorbei du ge … des isch … 
+der musch do bleiben bis er sich meldet du he 
+
+Na der fährt nicht mehr zurück … hat er erzählt 
+der duat gar nix mehr 
+
+…  
+
+Guat 
+
+Bassd guad tschüss 
+
+Tabelle 7: Abschließendes Gespräch zwischen den beteiligten Fdl 
+
+Seite 17 von 28 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Störung durch betriebliche Fehlhandlung, 22.01.2020, Bf Griesen (Oberbay) 
+
+Feststellung zur Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers 
+
+Lfd. Nr. 4 
+
+Hinsichtlich der Qualiﬁka(cid:415)on der eingesetzten Mitarbeiter liegen keine Erkenntnisse über 
+
+Abweichungen zu den unternehmensinternen Vorgaben vor. 
+
+Die Verständigung der beiden Fdl wich von den Vorgaben für Zugmeldungen ab und wies 
+
+starken Dialekt auf. 
+
+Betriebliche  Meldungen  und  disposi(cid:415)ve  Gespräche  wurden  im  Rahmen  der  Gesprächs-
+
+durchführung vermischt. 
+
+4.6  Untersuchung	der	betrieblichen	Abläufe	der	EVU	
+
+Von  dem  Ereignis  waren  die  beiden  Züge  RB 5522  und  RB 5523  betroﬀen.  Die  betriebliche 
+
+Situa(cid:415)on sowie die Qualiﬁka(cid:415)on und Handlungen der Tf werden nachfolgend für beide Züge 
+
+beschrieben.  Die  nachfolgend  dargestellten  betrieblichen  Abläufe  basieren  u. a.  auf  der 
+
+Auswertung der elektronischen Fahrtenregistrierung der beteiligten Fahrzeuge. 
+
+4.6.1  Zugfahrt	RB	5522	
+
+Der Personenzug RB 5522 war eine Verkehrsleistung des EVU DB Regio AG. Der Zug kam von 
+
+Garmisch-Partenkirchen und sollte nach Reu(cid:425)e in Tirol fahren. Der Bf Griesen (Oberbay) war 
+
+für diese Zugfahrt ein Bedarfshalt. 
+
+Am Ereignistag musste der Zug am BÜ in km 10,463 anhalten, nachdem dort ein Pkw unter 
+
+den  Schrankenbaum  gerutscht  war  und  diesen  beschädigt  ha(cid:425)e.  Zu  einem  Zusammenprall 
+
+zwischen dem Zug und dem Pkw kam es nicht. Der Zug konnte seine Fahrt mit 25 Minuten 
+
+Verspätung in Richtung Griesen (Oberbay) fortsetzen. Da dem Tf keine Haltanforderung vorlag 
+
+und das Asig für ihn den Fahrtbegriﬀ Hp 1 zeigte, passierte er den Bf Griesen (Oberbay) mit 
+
+58 km/h. Als er den am Esig der Gegenrichtung haltenden Gegenzug wahrnahm, leitete er eine 
+
+Schnellbremsung ein und kam nach ca. 100 m Bremsweg etwa 20 m vor dem anderen Zug zum 
+
+S(cid:415)llstand. Anschließend nahm er über Zugfunk Kontakt zum Fdl Griesen (Oberbay) auf und 
+
+informierte  ihn  über  den  Vorfall.  Im  Anschluss  informierte  er  die  disponierende  Stelle  der 
+
+DB Regio AG über das Ereignis. 
+
+Seite 18 von 28 
+
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Störung durch betriebliche Fehlhandlung, 22.01.2020, Bf Griesen (Oberbay) 
+
+Der Tf war im Besitz eines gül(cid:415)gen Triebfahrzeugführerscheins und der erforderlichen Zusatz-
+
+bescheinigungen. Nachweise zur regelmäßigen Schulung und Überwachung wurden vom EVU 
+
+vorgelegt. 
+
+4.6.2  Zugfahrt	RB	5523	
+
+Der Personenzug RB 5523 war eine Verkehrsleistung des EVU DB Regio AG. Der Zug kam von 
+
+Reu(cid:425)e in Tirol und sollte über Garmisch-Partenkirchen nach München Hbf fahren. Für den Bf 
+
+Griesen (Oberbay) war für diese Zugfahrt fahrplanmäßig kein Halt vorgesehen. 
+
+Am Ereignistag erhielt der Tf vor der Ankun(cid:332) im Bf Ehrwald Zugspitzbahn vom Fdl Reu(cid:425)e in 
+
+Tirol die Informa(cid:415)on, dass die geplante Zugkreuzung in Folge der Verspätung des Gegenzuges 
+
+en(cid:414)ällt. Nachdem der Fdl Reu(cid:425)e in Tirol der Fahrt zuges(cid:415)mmt ha(cid:425)e, verließ der Zug RB 5523 
+
+den Bf Ehrwald Zugspitzbahn planmäßig um 16:31 Uhr. Mit einer maximalen Geschwindigkeit 
+
+von 57 km/h näherte er sich dem Bf Griesen (Oberbay). Das Evsig in km 13,987 zeigte den 
+
+Signalbegriﬀ Vr 0, dies qui(cid:427)erte der Tf durch Bedienen der Wachsamkeitstaste. Er bremste 
+
+den Zug ab und kam vor dem Esig zum S(cid:415)llstand. Nach kurzer Zeit kam der Gegenzug RB 5522 
+
+in etwa 20 m Abstand zum Halten. 
+
+Der  Tf  war  im  Besitz  eines  gül(cid:415)gen  Triebfahrzeugführerscheins  und  der  erforderlichen 
+
+Zusatzbescheinigungen.  Nachweise  zur  regelmäßigen  Schulung  und  Überwachung  wurden 
+
+vom EVU vorgelegt. 
+
+Feststellung zur Untersuchung der betrieblichen Abläufe des EVU 
+
+Lfd. Nr. 5 
+
+Beide Tf waren für das Führen ihrer Züge auf der Strecke qualiﬁziert. 
+
+Hinweise auf etwaige Mängel beim Führen der Triebzüge haben sich nicht ergeben. 
+
+4.7  Untersuchung	von	Fahrzeugen	
+
+Von dem Ereignis waren die beiden Züge RB 5522 und RB 5523 betroﬀen, deren Fahrzeuge 
+
+nachfolgend beschrieben werden. 
+
+4.7.1  Zugfahrt	RB	5522	
+
+Der  Zug  RB 5522  des  EVU  DB  Regio  AG  bestand  aus  dem  einzeln  fahrenden  vierteiligen 
+
+Elektrotriebzug 94 80 2442 228-9 D-DB des Typs Bombardier Talent 2. Dieser verkehrte von 
+
+Seite 19 von 28 
+
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Störung durch betriebliche Fehlhandlung, 22.01.2020, Bf Griesen (Oberbay) 
+
+Garmisch-Partenkirchen  über  Griesen  (Oberbay)  und  Ehrwald  Zugspitzbahn  nach  Reu(cid:425)e  in 
+
+Tirol. 
+
+Aus  der  folgenden  Tabelle  lassen  sich  die  technischen  Daten  des  Triebfahrzeuges  (Tfz) 
+
+entnehmen: 
+
+Stromsystem 
+
+Antriebsart 
+
+Nennleistung 
+
+Gesamtlänge (LüK) 
+
+Masse 
+
+Höchstgeschwindigkeit 
+
+Radsatzfolge 
+
+Zugsicherungssystem 
+
+Elektrisch 15 kV, 16,7 Hz ~ 
+
+Drehstromasynchronantrieb 
+
+3.030 kW 
+
+72.300 mm 
+
+161 t 
+
+160 km/h 
+
+Bo’2’Bo’2’Bo’ 
+
+PZB 90 
+
+Tabelle 8: Technische Daten Tfz 94 80 2442 228-9 D-DB 
+
+Zum Zeitpunkt des Ereignisses fuhr der Elektrotriebzug mit einer Geschwindigkeit von 58 km/h 
+
+und wurde mittels Schnellbremsung zum Stillstand gebracht. 
+
+Ein  ursächlicher  Einfluss  des  Fahrzeuges  und  seiner  Eigenschaften  auf  den  Eintritt  des 
+
+gefährlichen Ereignisses wurde nicht festgestellt. 
+
+4.7.2  Zugfahrt	RB	5523	
+
+Der  Zug  RB 5523  des  EVU  DB  Regio  AG  bestand  aus  dem  einzeln  fahrenden  vierteiligen 
+
+Elektrotriebzug 94 80 2442 226-3 D-DB des Typs Bombardier Talent 2. Dieser verkehrte von 
+
+Reutte  in  Tirol  aus  über  Ehrwald  Zugspitzbahn  und  Griesen  (Oberbay)  nach  Garmisch-
+
+Partenkirchen und weiter nach München Hbf. 
+
+Seite 20 von 28 
+
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Störung durch betriebliche Fehlhandlung, 22.01.2020, Bf Griesen (Oberbay) 
+
+Aus der folgenden Tabelle lassen sich die technischen Fahrzeugdaten entnehmen: 
+
+Stromsystem 
+
+Antriebsart 
+
+Nennleistung 
+
+Gesamtlänge (LüK) 
+
+Masse 
+
+Höchstgeschwindigkeit 
+
+Radsatzfolge 
+
+Zugsicherungssystem 
+
+Elektrisch 15 kV, 16,7 Hz ~ 
+
+Drehstromasynchronantrieb 
+
+3.030 kW 
+
+72.300 mm 
+
+161 t 
+
+160 km/h 
+
+Bo’2’Bo’2’Bo’ 
+
+PZB 90 
+
+Tabelle 9: Technische Daten Tfz 94 80 2442 226-3 D-DB 
+
+Ein  ursächlicher  Einﬂuss  des  Fahrzeuges  und  seiner  Eigenscha(cid:332)en  auf  den  Eintri(cid:425)  des 
+
+gefährlichen Ereignisses wurde nicht festgestellt. 
+
+Feststellung zur Untersuchung der Fahrzeuge 
+
+Lfd. Nr. 6 
+
+Die  beiden  beteiligten  Triebzüge  ha(cid:425)en  keinen  ursächlichen  Einﬂuss  auf  den  Eintri(cid:425)  des 
+
+gefährlichen Ereignisses. 
+
+4.8  Vergleichbare	eingleisige	Strecken	
+
+Durch  das  EIU  DB  Netz  AG  wurden  Stand  Frühjahr  2020  noch  53  Streckenabschnitte  ohne 
+
+technisch  realisierten  Folge-  und  Gegenfahrschutz  betrieben.  In  dieser  Aufzählung  nicht 
+
+enthalten sind jene Strecken, welche sich in Umrüstung befanden, auf denen nur ein Zug am 
+
+Tag verkehrte oder die nur im Gelegenheitsverkehr betrieben wurden. Insgesamt betraf dies 
+
+eine  Anzahl  von  etwa  900  Zugfahrten  täglich.  Im  Verkehrsjahr  fanden  somit  etwa  330.000 
+
+Zugfahrten ohne technisch realisierten Folge- und Gegenfahrschutz statt. Zudem bestanden 
+
+weitere  Strecken  anderer  EIU,  die  in  analoger  Weise  nach  der  vom  Verband  Deutscher 
+
+Verkehrsunternehmen  (VDV)  herausgegebenen  weitgehend  identischen  VDV-Schrift  752 
+
+betrieben wurden. 
+
+Die Sicherung von Zugfahrten ohne technisch realisierten Folge- und Gegenfahrschutz wird im 
+
+Bereich der DB Netz AG in der Regel durch das fernmündliche Zugmeldeverfahren realisiert. 
+
+Seite 21 von 28 
+
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Störung durch betriebliche Fehlhandlung, 22.01.2020, Bf Griesen (Oberbay) 
+
+In diesen Fällen können menschliche Fehlhandlungen durch technische Einrichtungen nicht 
+
+kompensiert werden. Daher sind die Strecken der DB Netz AG überwiegend mit Einrichtungen 
+
+des Streckenblocks ausgerüstet. Diese stellen den technischen Folge- und Gegenfahrschutz 
+
+sicher. 
+
+Die Eisenbahn- Bau- und Betriebsordnung (EBO) erhebt im § 15 Abs. 1 für Nebenbahnen keine 
+
+Pﬂicht in Bezug auf eine Ausrüstung mit Streckenblock. Die DB Netz AG als EIU ha(cid:425)e in der Ril 
+
+DS  818  „Signalanlagen  planen  und  vorhalten“  sowie  der  Ril  413  „Infrastruktur  gestalten“ 
+
+bereits weitergehende Regelungen für das eigene Streckennetz umgesetzt. Hierbei wurde zur 
+
+Risikobetrachtung  ein  Belastungsproﬁl  der  Strecke  unter  Zuhilfenahme  verschiedener 
+
+Faktoren aus den Bereichen Infrastruktur und Fahrzeuge sowie Betrieb und Personal erstellt 
+
+und  anhand  dessen  eine  risikobasierte  Bewertung  der  möglichen  Betriebsverfahren  für 
+
+eingleisige  Strecken  vorgenommen.  Die  zum  Ereigniszeitpunkt  gül(cid:415)gen  Bewertungen 
+
+ergaben,  dass  eingleisige  Strecken  mit  Personenverkehr  im  Stundentakt  und  planmäßigen 
+
+Zugkreuzungen  ohne  technisch  realisierten  Folge-  und  Gegenfahrschutz  grundsätzlich 
+
+betrieben werden konnten. 
+
+Seite 22 von 28 
+
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Störung durch betriebliche Fehlhandlung, 22.01.2020, Bf Griesen (Oberbay) 
+
+5  Auswertung	
+
+Das  Kapitel  5  Auswertung  befasst  sich  mit  der  Ereignisrekonstruk(cid:415)on.  Anhand  der  oben 
+
+genannten Feststellungen wird ein plausibler Ablauf des gefährlichen Ereignisses zusammen-
+
+getragen.  Relevante  Erkenntnisse  werden  anschließend  bewertet  und  führen  ggf.  zu  ent-
+
+sprechenden Schlussfolgerungen. 
+
+5.1  Ereignisrekonstruktion	
+
+Am  22.01.2020  verließ  der  Personenzug  RB 5522  um  16:04 Uhr  den  Bf  Garmisch-Parten-
+
+kirchen in Richtung Reu(cid:425)e in Tirol. Nach dem Verkehrshalt am Haltepunkt Untergrainau kam 
+
+der Zug vor dem technisch gesicherten BÜ in km 10,463 durch eine Schnellbremsung des Tf 
+
+zum Halten, da ein Pkw unter die geschlossene Halbschranke gefahren war und dadurch in 
+
+das  Lichtraumproﬁl  ragte.  Nachdem  der  Fdl  Griesen  (Oberbay)  vom  Tf  des  Zuges  über  die 
+
+Situa(cid:415)on unterrichtet wurde, informierte er die benachbarten Fdl in Garmisch-Partenkirchen 
+
+und Reu(cid:425)e in Tirol. Auf die Rückfrage des Fdl Reu(cid:425)e in Tirol, ob der Gegenzug RB 5523 von 
+
+Ehrwald  Zugspitzbahn  nach  Griesen  (Oberbay)  fahren  könne,  bejahte  dies  der  Fdl 
+
+Griesen (Oberbay). Eine Zugmeldung für die Fahrt des Zuges RB 5523 von Ehrwald Zugspitz-
+
+bahn nach Griesen (Oberbay) erfolgte nicht. 
+
+Der Zug RB 5523 fuhr planmäßig um 16:01 Uhr in Reu(cid:425)e in Tirol ab und erreichte um 16:30 Uhr 
+
+den Bf Ehrwald Zugspitzbahn. Hier wurde der Tf vom Fdl Reu(cid:425)e in Tirol über den Ausfall der 
+
+ursprünglich geplanten Kreuzung mit dem Zug RB 5522 unterrichtet. Um 16:31 Uhr verließ der 
+
+Zug  RB 5523  den  Bf  Ehrwald  Zugspitzbahn  in  Richtung  Griesen  (Oberbay)  und  kam  gegen 
+
+16:40 Uhr vor dem Halt zeigenden Esig F des Bf Griesen (Oberbay) zum Halten. 
+
+Währenddessen  konnte  der  Zug  RB 5522  seine  Fahrt  mit  einer  Verspätung  von  etwa 
+
+25 Minuten fortsetzen. Der Fdl Griesen (Oberbay) unterrichtete den Fdl Reu(cid:425)e in Tirol über 
+
+die  Weiterfahrt  und  die  voraussichtliche  Durchfahrtszeit  im  Bf  Griesen  (Oberbay).  Eine 
+
+Rücknahme der alten Zugmeldung sowie eine erneute Zugmeldung erfolgten hierbei nicht. Da 
+
+dem Tf keine Haltanforderung für den Bf Griesen (Oberbay) vorlag, durchfuhr er diesen um 
+
+16:44 Uhr ohne Halt. 
+
+Bei der Ausfahrt aus dem Bf Griesen (Oberbay) nahm der Tf des Zuges RB 5522 den am Esig 
+
+der Gegenrichtung stehenden Gegenzug RB 5523 wahr, leitete eine Schnellbremsung ein und 
+
+kam mit einem Abstand von etwa 20 m vor dem Zug RB 5523 zum Stehen. 
+
+Seite 23 von 28 
+
+ 
+ 
+Untersuchungsbericht 
+
+Störung durch betriebliche Fehlhandlung, 22.01.2020, Bf Griesen (Oberbay) 
+
+5.2  Bewertung	und	Schlussfolgerung	
+
+An den beteiligten Eisenbahnfahrzeugen sowie an der bautechnischen Infrastruktur konnten 
+
+keine Faktoren festgestellt werden, die Einﬂuss auf das Ereignis gehabt haben. Die am Ereignis 
+
+beteiligten Tf der beiden Züge waren befähigt und qualiﬁziert ihre Tä(cid:415)gkeiten auszuführen. 
+
+Ein Einﬂuss des Handelns der Tf auf die Entstehung des Ereignisses konnte nicht festgestellt 
+
+werden. 
+
+Einﬂüsse  durch  äußere  Bedingungen,  die  das  Ereignis  verursacht  oder  begüns(cid:415)gt  haben 
+
+könnten, wurden nicht festgestellt. 
+
+Die  EBO  und  das  Regelwerk  der  DB Netz AG  als 
+
+Infrastrukturbetreiber 
+
+lassen  das 
+
+Betriebsverfahren  des  Zugmeldebetriebs  ohne  Streckenblock  unter  bes(cid:415)mmten  Vor-
+
+aussetzungen  zu.  Die  zuletzt 
+
+im  Dezember  2019  unternehmensintern  durchgeführte 
+
+Bewertung der betroﬀenen Strecke nach Ril 413.0506 ergab, dass das angewandte Verfahren 
+
+des Zugmeldebetriebes ohne Streckenblock in diesem Fall zulässig war. 
+
+Das  vorliegende  Ereignis  zeigt,  dass  die  in  der  Ril 413.0506  hinterlegten  Kriterien  zur 
+
+Risikobetrachtung  für  die  Durchführung  eines  Betriebes  auf  eingleisigen  Strecken  ohne 
+
+technisch realisierten Folge- und Gegenfahrschutz als nicht ausreichend angesehen werden 
+
+können. 
+
+Die vorhandenen Anlagen der Leit- und Sicherungstechnik funk(cid:415)onierten ordnungsgemäß und 
+
+ha(cid:425)en  keinen  unmi(cid:425)elbaren  Einﬂuss  auf  die  Entstehung  des  Ereignisses.  Eine  technische 
+
+Aussta(cid:425)ung zur Verhinderung einer Fahrt in einen besetzten Abschni(cid:425) war nicht vorhanden. 
+
+Dadurch  konnten  gefährliche  Folgen  aus  der  missverständlichen  Kommunika(cid:415)on  nicht 
+
+oﬀenbart oder verhindert werden. 
+
+Die beiden Fdl waren grundsätzlich zur Ausübung der Tä(cid:415)gkeit qualiﬁziert worden. 
+
+Grundlage für die betriebliche Kommunika(cid:415)on zwischen den Fdl waren die Regelungen aus 
+
+den Ril 408.0202 und 481.0101 sowie für Zugmeldungen die Regelungen aus der Ril 408.0221. 
+
+Die  hierin  enthaltenen  Regeln  sollten  eine  sichere  und  zweifelsfreie  Kommunika(cid:415)on 
+
+gewährleisten.  Neben  der  Verwendung  fester  Wortgruppen  und  der  Wiederholung 
+
+wesentlicher Meldungsteile war die Einhaltung einer unbedingten Sprechdisziplin durch alle 
+
+Teilnehmer  zu  beachten.  Die  Verwendung  der  deutschen  Sprache  sollte  hierbei  möglichst 
+
+dialek(cid:414)rei  und 
+
+langsam,  deutlich  und 
+
+in  normaler  Lautstärke  erfolgen.  Ergänzende 
+
+streckenbezogene Regelungen fanden sich in den RöB der Ril 302.4006. 
+
+Seite 24 von 28 
+
+ 
+ 
+Untersuchungsbericht 
+
+Störung durch betriebliche Fehlhandlung, 22.01.2020, Bf Griesen (Oberbay) 
+
+Die  Vorgaben  zur  Kommunika(cid:415)on  wurden  durch  beide  Fdl  nicht  oder  nur  eingeschränkt 
+
+beachtet. Die geführten Gespräche waren stark von regionalen Dialekten und der teilweise 
+
+erheblichen  Auslassung  von  festgelegten  Wortlauten  geprägt.  Eine  klare  Unterscheidung 
+
+zwischen betrieblichen Meldungen und disposi(cid:415)ven Gesprächen war nicht gegeben. 
+
+Die  Nichteinhaltung  der  Kommunika(cid:415)onsregeln  führte  zur  unterschiedlichen  Interpreta(cid:415)on 
+
+von Gesprächsinhalten und zu einem missverständlichen Austausch von Informa(cid:415)onen. In der 
+
+Folge  nahmen  diese  Bedienhandlungen  vor,  die  einzeln  betrachtet  nach  dem  jeweiligen 
+
+Informa(cid:415)onsstand des Fdl zulässig waren. Da die den Fdl vorliegenden Informa(cid:415)onen jedoch 
+
+die  Entwicklung  der  realen  Situa(cid:415)on  nicht  korrekt  abbildeten,  kam  es  schlussendlich  zur 
+
+Zulassung zweier gegenläuﬁger Zugfahrten im gleichen Gleisabschni(cid:425). 
+
+Der technische Ausrüstungsstand des Stw Griesen (Oberbay) ließ die Bedienhandlungen der 
+
+Fdl und damit die Zulassung der Zugfahrt in den bereits durch einen anderen Zug besetzten 
+
+Gleisabschni(cid:425)  zu.  Die  Stellwerkstechnik  war  damit  nicht  geeignet,  die  sich  aus  der 
+
+mangelha(cid:332)en  Kommunika(cid:415)on  resul(cid:415)erenden  menschlichen  Fehler  zu  kompensieren.  Das 
+
+Ereignis zeigt deutlich das hohe Risikopotenzial des hier angewandten Zugmeldeverfahrens 
+
+ohne technisch realisierten Folge- und Gegenfahrschutz. 
+
+Die  Kommunika(cid:415)on  zwischen  den  Fdl  nach  dem  S(cid:415)llstand  der  beiden  Züge  war  nicht 
+
+vollständig dokumen(cid:415)ert, da diese bewusst über Fernsprechverbindungen ohne Gesprächs-
+
+aufzeichnung geführt wurde. Aus den aufgezeichneten Gesprächen ist jedoch ersichtlich, dass 
+
+die Fdl versuchten, den Tf des Zuges RB 5522 über Zugfunk zu erreichen, um ein Zurücksetzen 
+
+des Zuges hinter das Asig anzuweisen. Dieser verweigerte dies jedoch und informierte seine 
+
+disponierende Stelle über das Ereignis. 
+
+Das Ereignis zeigt deutlich auf, wie Mängel in der Ausführung festgelegter, weil unmi(cid:425)elbar 
+
+sicherheitsrelevanter Kommunika(cid:415)on bei der Betriebsführung zu Missverständnissen und zu 
+
+einer falschen Einschätzung der tatsächlichen betrieblichen Situa(cid:415)on führen können. 
+
+Insoweit  kam  der  Sicherheitsleistung  der  ausschließlich  verfahrensgesicherten  Betriebs-
+
+führung ein besonders hoher Stellenwert zu. Die bereits im Regelbetrieb größere Fehlerwahr-
+
+scheinlichkeit durch den großen Arbeitsanteil der Betriebspersonale in den Abläufen eröﬀnete 
+
+eine hohe Wahrscheinlichkeit für den Eintri(cid:425) ungewünschter oder gefährlicher Zustände.  
+
+Für  die  vorliegende  Konstella(cid:415)on  an  einer  Grenzbetriebsstrecke  bedarf  es  aufgrund  der 
+
+Gegebenheiten  individueller  Überwachungsinhalte,  -methoden  und  -häuﬁgkeiten,  sowie 
+
+Seite 25 von 28 
+
+ 
+ 
+Untersuchungsbericht 
+
+Störung durch betriebliche Fehlhandlung, 22.01.2020, Bf Griesen (Oberbay) 
+
+vorbeugender  Trainings.  Diese  können  in  der  Konstella(cid:415)on  der  Betriebsführung  über 
+
+Infrastrukturgrenzen hinweg nur mit dem benachbarten EIU gemeinsam verfolgt werden. Dies 
+
+verlangt  eine  entsprechende  Koopera(cid:415)on  auf  Leitungsebene  und  ein  gemeinsames 
+
+Verständnis  über  die  anstehenden  Risiken  und  die  koordinierte  Umsetzung  der  Kontroll-
+
+maßnahmen. 
+
+Seite 26 von 28 
+
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Störung durch betriebliche Fehlhandlung, 22.01.2020, Bf Griesen (Oberbay) 
+
+6  Bisher	getroffene	Maßnahmen	
+
+Die  Themen  Zugmeldung  und  Sprechdisziplin  wurden  im  Nachgang  des  Ereignisses  in  die 
+
+Lehrgespräche und die Unterrichte für Fdl aufgenommen. 
+
+Die DB Netz AG ha(cid:425)e im Mai 2020 eine Arbeitsgruppe eingerichtet, die sich der Aktualisierung 
+
+der Ril 413.0506 widmete. Der VDV wurde mit eingebunden. Es ist davon auszugehen, dass 
+
+die Ergebnisse dieser Arbeitsgruppe Eingang in die VDV-Schri(cid:332) 752 ﬁnden und so mögliche 
+
+Verbesserungen auch auf der Infrastruktur anderer EIU umgesetzt werden. 
+
+Hinsichtlich der notwendigen Überprüfung und Überarbeitung der Ril 413.0506 im Rahmen 
+
+einer Sicherheitsbewertung hat die BEU im Zwischenbericht vom 22.06.2020 die Sicherheits-
+
+empfehlung 05/2020 herausgegeben. 
+
+Im Juli 2021 hat die DB Netz AG den Au(cid:332)rag zur Entwicklung eines Assistenzsystems unter der 
+
+Bezeichnung  „Technische  Unterstützung  für  den  Zugmeldebetrieb  (TU ZMB)“  vergeben. 
+
+Dieses  System  soll  Fdl  auf  vergleichbaren  Betriebsstellen  unterstützen,  ohne  in  die 
+
+bestehende Signaltechnik einzugreifen. 
+
+Im  Stw  Griesen  (Oberbay)  wurde  die  TU ZMB  am  28.06.2023  in  Betrieb  genommen.  Die 
+
+Erneuerung  der  Stellwerkstechnik  in  Griesen  (Oberbay)  auf  ESTW/DSTW-Technik  ist  für 
+
+Oktober 2024 geplant. 
+
+Seite 27 von 28 
+
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Störung durch betriebliche Fehlhandlung, 22.01.2020, Bf Griesen (Oberbay) 
+
+7  Sicherheitsempfehlungen	
+
+Gemäß § 6 EUV und Art. 26 Abs. 2 der Ril (EU) 2016/798 erging am 22.06.2020 nachfolgende 
+
+Sicherheitsempfehlung: 
+
+Lfd. 
+
+Nr. 
+
+Sicherheitsempfehlung 
+
+Betrifft Unternehmen 
+
+05/2020 
+
+Strecken  ohne  technisch  realisierten  Folge-  und 
+
+Eisenbahninfrastruktur-
+
+Gegenfahrschutz  sollten,  über  die  bisher  getroffenen 
+
+unternehmen 
+
+Regelungen  hinaus,  einer  Sicherheitsbewertung 
+
+unterzogen  werden.  Anhand  der  Ergebnisse  sollten 
+
+zusätzlich  geeignete  Maßnahmen  getroffen  werden, 
+
+um ein unbeabsichtigtes Einfahren eines Zuges in einen 
+
+bereits  durch  einen  anderen  Zug  beanspruchten 
+
+Streckenabschnitt auszuschließen. 
+
+Seite 28 von 28 
+
+ 
+ 
+ 
+ 
 

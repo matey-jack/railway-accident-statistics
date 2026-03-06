@@ -1,2349 +1,3039 @@
 Untersuchungsbericht
-Aktenzeichen:
 
-BEU‐uu2020‐04/007‐3323
+Aktenzeichen: 
 
-Stand:
+BEU‐uu2020‐04/007‐3323 
 
-07.03.2025 Version 1.0
+Stand: 
 
-Erstveröﬀentlichung: 10.03.2025
+07.03.2025    Version 1.0 
 
-Gefährliches Ereignis im Eisenbahnbetrieb
+Erstveröﬀentlichung:    10.03.2025 
+
+Gefährliches	Ereignis	im	Eisenbahnbetrieb 
 
 Ereignisart:
 
-Zugentgleisung
+Zugentgleisung 
 
 Datum:
 
-15.04.2020
-
 Zeit:
 
-21:03 Uhr
+15.04.2020 
+
+21:03 Uhr 
 
 Betriebsstelle:
 
-Bahnhof Berlin‐Lichtenberg (S‐Bahn)
+Bahnhof Berlin‐Lichtenberg (S‐Bahn) 
 
 Gleis:
 
-692
-
 Weiche:
 
-61W350 c/d
+692 
 
-Untersuchungsbericht
-Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn)
+61W350 c/d 
 
-Veröﬀentlicht durch:
-Bundesstelle für Eisenbahnunfalluntersuchung
-Heinemannstraße 6
-53175 Bonn
+Untersuchungsbericht 
 
-Untersuchungsbericht
-Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn)
+Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn) 
 
-Inhaltsverzeichnis
-I.
+Veröﬀentlicht durch: 
 
-Änderungsverzeichnis: .......................................................................................... II
+Bundesstelle für Eisenbahnunfalluntersuchung 
 
-II.
+Heinemannstraße 6 
 
-Abbildungsverzeichnis: ........................................................................................ III
+53175 Bonn 
 
-III.
+ 
+Untersuchungsbericht 
 
-Tabellenverzeichnis: ............................................................................................ III
+Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn) 
 
-IV.
+Inhaltsverzeichnis	
 
-Abkürzungsverzeichnis: ........................................................................................ V
+I. 
 
-1
+II. 
 
-Vorbemerkungen .................................................................................................. 1
+Änderungsverzeichnis: .......................................................................................... II 
 
-1.1
+Abbildungsverzeichnis: ........................................................................................ III 
 
-Organisatorischer Hinweis ...................................................................................... 1
+III. 
 
-1.2
+Tabellenverzeichnis: ............................................................................................ III 
 
-Ziel der Eisenbahnunfalluntersuchung.................................................................... 1
+IV. 
 
-2
+Abkürzungsverzeichnis: ........................................................................................ V 
 
-Zusammenfassung ................................................................................................ 3
+1 
 
-2.1
+1.1 
 
-Kurzbeschreibung des Ereignisses........................................................................... 3
+1.2 
 
-2.2
+2 
 
-Folgen ...................................................................................................................... 3
+2.1 
 
-2.3
+2.2 
 
-Ursachen.................................................................................................................. 3
+2.3 
 
-2.4
+2.4 
 
-Sicherheitsempfehlungen ....................................................................................... 3
+3 
 
-3
+3.1 
 
-Allgemeine Angaben ............................................................................................. 4
+3.2 
 
-3.1
+3.3 
 
-Lage und Beschreibung des Ereignisortes ............................................................... 4
+3.4 
 
-3.2
+4 
 
-Beteiligte und Mitwirkende..................................................................................... 6
+4.1 
 
-3.3
+4.2 
 
-Äußere Bedingungen ............................................................................................... 7
+4.3 
 
-3.4
+Vorbemerkungen .................................................................................................. 1 
 
-Todesopfer, Verletzte und Sachschäden................................................................. 7
+Organisatorischer Hinweis ...................................................................................... 1 
 
-4
+Ziel der Eisenbahnunfalluntersuchung .................................................................... 1 
 
-Untersuchungsprotokoll ....................................................................................... 9
+Zusammenfassung ................................................................................................ 3 
 
-4.1
+Kurzbeschreibung des Ereignisses ........................................................................... 3 
 
-Zusammenfassung von Aussagen und Stellungnahmen ......................................... 9
+Folgen ...................................................................................................................... 3 
 
-4.2
+Ursachen .................................................................................................................. 3 
 
-Notfallmanagement ................................................................................................ 9
+Sicherheitsempfehlungen ....................................................................................... 3 
 
-4.3
+Allgemeine Angaben ............................................................................................. 4 
 
-Untersuchung der bautechnischen Infrastruktur ................................................. 11
+Lage und Beschreibung des Ereignisortes ............................................................... 4 
 
-4.3.1
+Beteiligte und Mitwirkende ..................................................................................... 6 
 
-Feststellungen zur Fahrbahn an der Unfallstelle .................................................. 13
+Äußere Bedingungen ............................................................................................... 7 
 
-4.3.2
+Todesopfer, Verletzte und Sachschäden ................................................................. 7 
 
-Feststellungen zum Unterhaltungszustand der DKW 61W350 ............................. 13
+Untersuchungsprotokoll ....................................................................................... 9 
 
-4.4
+Zusammenfassung von Aussagen und Stellungnahmen ......................................... 9 
 
-Untersuchung der Leit‐ und Sicherungstechnik .................................................... 16
+Notfallmanagement ................................................................................................ 9 
 
-I
+Untersuchung der bautechnischen Infrastruktur ................................................. 11 
 
-Untersuchungsbericht
-Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn)
+4.3.1 
 
-4.4.1
+Feststellungen zur Fahrbahn an der Unfallstelle .................................................. 13 
 
-Weichenantrieb Switchguard ELS 710 .................................................................. 18
+4.3.2 
 
-4.4.2
+Feststellungen zum Unterhaltungszustand der DKW 61W350 ............................. 13 
 
-Überwachungsstörungen und Auffahrmeldungen für die DKW 61W350 c/d im
-Bf Berlin‐Lichtenberg (S‐Bahn) .............................................................................. 19
+4.4 
 
-4.4.3
+Untersuchung der Leit‐ und Sicherungstechnik .................................................... 16 
 
-Untersuchung des Weichenantriebs an der DKW 61W350 c/d im Bf Berlin‐
-Lichtenberg (S‐Bahn) ............................................................................................. 20
+I 
 
-I.
+ 
+ 
+Untersuchungsbericht 
 
-4.5
+Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn) 
 
-Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers ................. 25
+4.4.1 
 
-4.6
+Weichenantrieb Switchguard ELS 710 .................................................................. 18 
 
-Untersuchung der betrieblichen Abläufe der EVU ................................................ 30
+4.4.2 
 
-4.7
+Überwachungsstörungen und Auffahrmeldungen für die DKW 61W350 c/d im 
 
-Untersuchung von Fahrzeugen ............................................................................. 32
+Bf Berlin‐Lichtenberg (S‐Bahn) .............................................................................. 19 
 
-4.8
+4.4.3 
 
-Mehrkörpersimulation der Interaktion Fahrzeug – Fahrbahn – Weichenantrieb 33
+Untersuchung des Weichenantriebs an der DKW 61W350 c/d im Bf Berlin‐
 
-5
+Lichtenberg (S‐Bahn) ............................................................................................. 20 
 
-Auswertung ........................................................................................................ 38
+4.5 
 
-5.1
+4.6 
 
-Ereignisrekonstruktion .......................................................................................... 38
+4.7 
 
-5.2
+4.8 
 
-Bewertung und Schlussfolgerung .......................................................................... 38
+5 
 
-5.2.1
+5.1 
 
-Einflüsse aus der Fahrbahn ................................................................................... 39
+5.2 
 
-5.2.2
+Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers ................. 25 
 
-Einflüsse aus der Leit‐ und Sicherungstechnik ...................................................... 40
+Untersuchung der betrieblichen Abläufe der EVU ................................................ 30 
 
-5.2.3
+Untersuchung von Fahrzeugen ............................................................................. 32 
 
-Einflüsse aus den betrieblichen Handlungen des EIU ........................................... 41
+Mehrkörpersimulation der Interaktion Fahrzeug – Fahrbahn – Weichenantrieb 33 
 
-6
+Auswertung ........................................................................................................ 38 
 
-Bisher getroffene Maßnahmen ........................................................................... 43
+Ereignisrekonstruktion .......................................................................................... 38 
 
-7
+Bewertung und Schlussfolgerung .......................................................................... 38 
 
-Sicherheitsempfehlungen ................................................................................... 43
+5.2.1 
 
-Änderungsverzeichnis:
-Änderung
+Einflüsse aus der Fahrbahn ................................................................................... 39 
 
-Stand
+5.2.2 
 
-II
+Einflüsse aus der Leit‐ und Sicherungstechnik ...................................................... 40 
 
-Untersuchungsbericht
-Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn)
+5.2.3 
 
-II.
+Einflüsse aus den betrieblichen Handlungen des EIU ........................................... 41 
 
-Abbildungsverzeichnis:
-Abbildung 1: Lageplan ................................................................................................................ 5
-Abbildung 2: Gleislageskizze ...................................................................................................... 6
-Abbildung 3: Entgleister Zug und Schäden an der Infrastruktur ............................................... 8
-Abbildung 4: Luftaufnahme von der Unfallstelle ....................................................................... 8
-Abbildung 5: Auszug Lageplan DKW 61W350 im Bf Berlin‐Lichtenberg (S‐Bahn) ................... 11
-Abbildung 6: DKW 61W350 im Bf Berlin‐Lichtenberg (S‐Bahn)in Fahrtrichtung des Zuges .... 11
-Abbildung 7: Geöffneter Weichenantrieb Switchguard ELS 710 nach dem Unfall .................. 17
-Abbildung 8: Schematische Schnittdarstellung des Weichenantriebs .................................... 19
-Abbildung 9 Auszug aus DIN EN 50125‐3 Effektivwerte für Beschleunigungen ...................... 20
-Abbildung 10: Wirkrichtungen der einwirkenden Beschleunigungen gemäß DIN EN 50125‐3
-.................................................................................................................................................. 21
-Abbildung 11: Werte für Stöße in vertikaler Richtung gemäß DIN EN 50125‐3 ...................... 21
-Abbildung 12: Versuchsanordnung in Bf Diedersdorf.............................................................. 23
-Abbildung 13: Grafische und tabellarische Darstellung des Fahrtverlaufs des Zuges S 75626 30
-Abbildung 14:Fahrzeugkonfiguration BR 481/482 (Viertelzug) ............................................... 32
-Abbildung 15: Vertikale Bewegungen an der Weichenzunge im Strang d .............................. 34
-Abbildung 16: Kräfte an der Stellstange .................................................................................. 35
-Abbildung 17: Kräfte an Prüferstangen und ‐schiebern .......................................................... 36
+6 
 
-III.
+7 
 
-Tabellenverzeichnis:
-Tabelle 1: Übersicht der äußeren Bedingungen ........................................................................ 7
-Tabelle 2: Übersicht der Personenschäden ............................................................................... 7
-Tabelle 3: Übersicht der geschätzten Schadenshöhe ................................................................ 8
-Tabelle 4: Meldekette im Rahmen des Notfallmanagements ................................................. 10
+Bisher getroffene Maßnahmen ........................................................................... 43 
 
-III
+Sicherheitsempfehlungen ................................................................................... 43 
 
-Untersuchungsbericht
-Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn)
+I.  Änderungsverzeichnis:	
 
-Tabelle 5: ESTW‐Meldungen der DKW 61W350CD ................................................................. 27
-Tabelle 6: Auffahrmeldungen mit Zeitraum seit der letzten Umstellung ................................ 29
-Tabelle 7: Technische Daten des Triebwagens ........................................................................ 32
+Änderung 
 
-IV
+Stand 
 
-Untersuchungsbericht
-Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn)
+II 
 
-IV.
+ 
+ 
+ 
+ 
+ 
+ 
+	
+	
+Untersuchungsbericht 
 
-Abkürzungsverzeichnis:
-AEG
+Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn) 
 
-Allgemeines Eisenbahngesetz
+II.  Abbildungsverzeichnis:	
 
-ASB
+Abbildung 1: Lageplan ................................................................................................................ 5 
 
-Arbeits‐ und Störungsbuch
+Abbildung 2: Gleislageskizze ...................................................................................................... 6 
 
-AWU
+Abbildung 3: Entgleister Zug und Schäden an der Infrastruktur ............................................... 8 
 
-Aufgefahrene Weiche umstellen
+Abbildung 4: Luftaufnahme von der Unfallstelle ....................................................................... 8 
 
-Bebu
+Abbildung 5: Auszug Lageplan DKW 61W350 im Bf Berlin‐Lichtenberg (S‐Bahn) ................... 11 
 
-Betriebsstellenbuch
+Abbildung 6: DKW 61W350 im Bf Berlin‐Lichtenberg (S‐Bahn)in Fahrtrichtung des Zuges .... 11 
 
-BEU
+Abbildung 7: Geöffneter Weichenantrieb Switchguard ELS 710 nach dem Unfall .................. 17 
 
-Bundesstelle für Eisenbahnunfalluntersuchung
+Abbildung 8: Schematische Schnittdarstellung des Weichenantriebs .................................... 19 
 
-BEVVG
+Abbildung 9 Auszug aus DIN EN 50125‐3 Effektivwerte für Beschleunigungen ...................... 20 
 
-Bundeseisenbahnverkehrsverwaltungsgesetz
+Abbildung 10: Wirkrichtungen der einwirkenden Beschleunigungen gemäß DIN EN 50125‐3
 
-Bf
+ .................................................................................................................................................. 21 
 
-Bahnhof
+Abbildung 11: Werte für Stöße in vertikaler Richtung gemäß DIN EN 50125‐3 ...................... 21 
 
-B
+Abbildung 12: Versuchsanordnung in Bf Diedersdorf .............................................................. 23 
 
-Bahnhofsteil
+Abbildung 13: Grafische und tabellarische Darstellung des Fahrtverlaufs des Zuges S 75626 30 
 
-BR
+Abbildung 14:Fahrzeugkonfiguration BR 481/482 (Viertelzug) ............................................... 32 
 
-Baureihe
+Abbildung 15: Vertikale Bewegungen an der Weichenzunge im Strang d .............................. 34 
 
-DB
+Abbildung 16: Kräfte an der Stellstange .................................................................................. 35 
 
-Deutsche Bahn
+Abbildung 17: Kräfte an Prüferstangen und ‐schiebern .......................................................... 36 
 
-DKW
+III.  Tabellenverzeichnis:	
 
-Doppelte Kreuzungsweiche
+Tabelle 1: Übersicht der äußeren Bedingungen ........................................................................ 7 
 
-DIN EN
+Tabelle 2: Übersicht der Personenschäden ............................................................................... 7 
 
-Deutsches Ins tut für Normung Europäische Norm
+Tabelle 3: Übersicht der geschätzten Schadenshöhe ................................................................ 8 
 
-EFR
+Tabelle 4: Meldekette im Rahmen des Notfallmanagements ................................................. 10 
 
-Elektronische Fahrtenregistrierung
+III 
 
-EIU
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Eisenbahninfrastrukturunternehmen
+Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn) 
 
-ESTW
+Tabelle 5: ESTW‐Meldungen der DKW 61W350CD ................................................................. 27 
 
-Elektronisches Stellwerk
+Tabelle 6: Auffahrmeldungen mit Zeitraum seit der letzten Umstellung ................................ 29 
 
-EU
+Tabelle 7: Technische Daten des Triebwagens ........................................................................ 32 
 
-Europäische Union
+IV 
 
-EUV
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Eisenbahn‐Unfalluntersuchungsverordnung
+Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn) 
 
-EVU
+IV.  Abkürzungsverzeichnis:	
 
-Eisenbahnverkehrsunternehmen
+AEG 
 
-ELS
+ASB 
 
-External Locking System
+AWU 
 
-EVZS
+Bebu 
 
-Für die Entstörungsveranlassung zuständige Stelle
+BEU 
 
-Fdl
+Allgemeines Eisenbahngesetz 
 
-Fahrdienstleiter
+Arbeits‐ und Störungsbuch 
 
-Ril
+Aufgefahrene Weiche umstellen 
 
-Richtlinie
+Betriebsstellenbuch 
 
-SMS
+Bundesstelle für Eisenbahnunfalluntersuchung 
 
-Sicherheitsmanagementsystem
+BEVVG 
 
-UZ
+Bundeseisenbahnverkehrsverwaltungsgesetz 
 
-Unterzentrale (ESTW)
+Bf 
 
-VzG
+B(cid:332) 
 
-Verzeichnis der örtlich zulässigen Geschwindigkeiten
+BR 
 
-ZBS
+DB 
 
-Zugbeeinflussungssystem für die S‐Bahn Berlin
+Bahnhof 
 
-V
+Bahnhofsteil 
 
-Untersuchungsbericht
-Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn)
+Baureihe 
 
-1 Vorbemerkungen
-Das Kapitel Vorbemerkungen befasst sich mit allgemeinen Informa onen zur Bundesstelle für
-Eisenbahnunfalluntersuchung (BEU). Dabei wird die gesetzliche Grundlage genannt und die
-Au auorganisa on kurz umrissen.
+Deutsche Bahn 
 
-1.1 Organisatorischer Hinweis
-Mit der Richtlinie (EU) 2016/798 des Europäischen Parlaments und des Rates zur
-Eisenbahnsicherheit in der Gemeinschaft (Eisenbahnsicherheitsrichtlinie) wurden die
-Mitgliedstaaten der Europäischen Union (EU) verpflichtet, unabhängige Untersuchungsstellen
-für die Untersuchung bestimmter gefährlicher Ereignisse einzurichten.
-Diese Richtlinie wurde mit dem Gesetz zur Neuordnung der Eisenbahnunfalluntersuchung
-vom 27. Juni 2017 und der Eisenbahn‐Unfalluntersuchungsverordnung vom 05.07.2007, die
-durch Artikel 1 der Verordnung vom 26.11.2019 geändert worden ist, umgesetzt. Die BEU ist
-eine Bundesoberbehörde im Geschäftsbereich des Bundesministeriums für Digitales und
-Verkehr.
-Gemäß § 6 Abs. 2 des Bundeseisenbahnverkehrsverwaltungsgesetzes (BEVVG) wurde der Sitz
-und Aufbau der BEU im „Organisationserlass zur Errichtung der Bundesstelle für
-Eisenbahnunfalluntersuchung“ des Bundesministeriums für Verkehr und digitale Infrastruktur
-festgelegt und die BEU zum 14.07.2017 errichtet.
-Näheres hierzu ist im Internet unter www.beu.bund.de eingestellt.
+DKW 
 
-1.2 Ziel der Eisenbahnunfalluntersuchung
-Ziel und Zweck der Untersuchungen ist es, die Ursachen von gefährlichen Ereignissen
-aufzuklären und hieraus Hinweise
+Doppelte Kreuzungsweiche 
 
-zur Verbesserung der Sicherheit abzuleiten.
+DIN EN 
 
-Untersuchungen der BEU dienen nicht dazu, ein Verschulden festzustellen oder Fragen der
-Haftung oder sonstiger zivilrechtlicher Ansprüche zu klären und werden unabhängig von jeder
-gerichtlichen Untersuchung durchgeführt.
-Die Untersuchung umfasst die Sammlung und Auswertung von Informationen, die Erarbeitung
-von Schlussfolgerungen einschließlich der Feststellung der Ursachen und gegebenenfalls die
-Abgabe von Sicherheitsempfehlungen. Die Vorschläge der Untersuchungsstelle zur
-Vermeidung von Unfällen und Verbesserung der Sicherheit im Eisenbahnverkehr werden der
+Deutsches Ins(cid:415)tut für Normung Europäische Norm 
 
-Seite 1 von 43
+EFR 
 
-Untersuchungsbericht
-Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn)
+EIU 
 
-Sicherheitsbehörde und, soweit erforderlich, anderen Stellen und Behörden oder anderen
-Mitgliedstaaten der EU in Form von Sicherheitsempfehlungen mitgeteilt.
+Elektronische Fahrtenregistrierung 
 
-Seite 2 von 43
+Eisenbahninfrastrukturunternehmen 
 
-Untersuchungsbericht
-Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn)
+ESTW 
 
-2 Zusammenfassung
-Das Kapitel befasst sich mit einer kurzen Darstellung des Ereignisherganges, den Folgen und
-den Primärursachen. Abschließend werden eventuell erteilte Sicherheitsempfehlungen
-aufgeführt.
+Elektronisches Stellwerk 
 
-2.1 Kurzbeschreibung des Ereignisses
-Am 15.04.2020 gegen 21:03 Uhr entgleiste der Zug S 75626 auf der Fahrt von Berlin‐
-Wartenberg nach Berlin Ostbahnhof im Bahnhof (Bf) Berlin‐Lichtenberg bei der Ausfahrt aus
-Gleis 692 auf Fahrtstellung des Ausfahrsignals 1178 in der doppelten Kreuzungsweiche (DKW)
-61W350 c/d, mit allen vier Radsätzen des letzten Wagens.
+EU 
 
-2.2 Folgen
-Es wurden keine Personen getötet oder verletzt. An den Fahrzeugen und an der Infrastruktur
-entstanden Sachschäden in geschätzter Höhe von ca. 636.000 Euro.
+EUV 
 
-2.3 Ursachen
-Infolge von Fahrbahnmängeln in der DKW 61W350 c/d kam es zum unbeabsich gten Eintrag
-von Krä en in den Weichenantrieb. Im Zusammenwirken mit zu einer gegenüber dem
-Regelwerk deutlich überschri enen Zungenrestspannungskra
+EVU 
 
-führten diese zu einer
+ELS 
 
-schri weisen Auflösung der inneren Verriegelung des Weichenantriebs. Die Entstehung und
-Konsolidierung der Fahrbahnmängel wurden begüns gt durch den Rückbau des
-Fernbahngleises und die einhergehende Abbindung eines Strangs der DKW 61W350 und
-durch die Befahrung der DKW fast ausschließlich in der Rela on c nach a (s. Abbildung 6) durch
-beschleunigende und im Wesentlichen gleich konfigurierte S‐Bahn‐Fahrzeuge.
+Europäische Union 
 
-2.4 Sicherheitsempfehlungen
-Es wurden keine Sicherheitsempfehlungen ausgesprochen.
+Eisenbahn‐Unfalluntersuchungsverordnung 
 
-Seite 3 von 43
+Eisenbahnverkehrsunternehmen 
 
-Untersuchungsbericht
-Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn)
+External Locking System 
 
-3 Allgemeine Angaben
-Das Kapitel beinhaltet allgemeine Angaben zur Beschreibung des Ereignisortes und der
-relevanten Bahnanlagen. Des Weiteren werden die an der Unfalluntersuchung beteiligten und
-mitwirkenden Stellen, die äußeren Bedingungen, die Anzahl der ggf. bei dem Ereignis
-verletzten und getöteten Personen sowie Art und Höhe der Folgeschäden benannt.
+EVZS 
 
-3.1 Lage und Beschreibung des Ereignisortes
-Die Zugentgleisung ereignete sich auf der zweigleisigen S‐Bahn‐Strecke Berlin Ostbahnhof (S‐
-Bahn),
+Für die Entstörungsveranlassung zuständige Stelle 
 
-W 41
+Fdl 
 
-–
+Ril 
 
-Strausberg (S‐Bahn),
+SMS 
 
-Geschwindigkeiten (VzG)
+UZ 
 
-unter der
+VzG 
 
-die
+ZBS 
 
-im
+Fahrdienstleiter 
 
-Verzeichnis
+Richtlinie 
 
-Streckennummer
+Sicherheitsmanagementsystem 
 
-6006
+Unterzentrale (ESTW) 
 
-der
+Verzeichnis der örtlich zulässigen Geschwindigkeiten 
 
-örtlich
+Zugbeeinﬂussungssystem für die S‐Bahn Berlin 
 
-zulässigen
+V 
 
-geführt wurde. Die
+ 
+ 
+Untersuchungsbericht 
 
-Entgleisungsstelle befand sich im Bf Berlin‐Lichtenberg (S‐Bahn). Die benachbarten
-Betriebsstellen des Bf Berlin‐Lichtenberg waren der Bahnhofsteil (B ) Berlin Nöldnerplatz und
-der Haltepunkt Berlin‐Friedrichsfelde Ost. Im Bf Berlin‐Lichtenberg (S‐Bahn) wurden die
-durchgehenden Hauptgleise der VzG‐Strecke 6006 mit den Gleisnummern 691 und 692
-bezeichnet. An der Entgleisungsstelle betrug die maximal zulässige Geschwindigkeit laut VzG
-80 km/h. Der relevante Streckenabschni war für einen Bremsweg von 400 m ausgelegt. Der
-Bf Berlin‐Lichtenberg (S‐Bahn) war mit dem Zugfunksystem Global System for Mobile
-Communica ons Rail ausgesta et. Die Energieversorgung für die S‐Bahn‐Züge erfolgte über
-das Stromschienensystem der S‐Bahn Berlin GmbH. Die folgende Abbildung gibt eine
-Übersicht über den Ereignisort.
+Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn) 
 
-Seite 4 von 43
+1  Vorbemerkungen	
 
-Untersuchungsbericht
-Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn)
+Das Kapitel Vorbemerkungen befasst sich mit allgemeinen Informa(cid:415)onen zur Bundesstelle für 
 
-Abbildung 1: Lageplan1
+Eisenbahnunfalluntersuchung (BEU). Dabei wird die gesetzliche Grundlage genannt und die 
 
-Im Bf Berlin‐Lichtenberg wurden weitere Gleisanlagen der S‐Bahn Berlin GmbH sowie Gleise
-für Fernbahnzüge betrieben, welche gemäß dem VzG den Streckennummern 6072 (Berlin‐
-Lichtenberg – Ahrensfelde), 6078 (Berlin Wriezener Bahnhof – Küstrin‐Kietz) und 6139 (Berlin
-Ostkreuz – Berlin‐Lichtenberg) zugeordnet waren. Diese Gleisanlagen ha en keine Relevanz
-für das Ereignis und wurden daher im Rahmen der Untersuchung nicht näher betrachtet.
-Der Bf Berlin‐Lichtenberg (S‐Bahn) war laut „Betriebsstellenbuch für den Steuerbereich der UZ
-Strausberg (BSTV)“ (Bebu) dem gleichnamigen Steuerbereich zugeordnet, der sich von
-km 4,050 bis km 7,448 (Streckengleis 1) bzw. km 7,392 (Streckengleis 2) erstreckte. Die
-betrieblichen Handlungen erfolgten durch den zuständigen Fahrdienstleiter (Fdl) von einem
-Bedienplatz in der Betriebszentrale der S‐Bahn Berlin GmbH in Berlin Halensee. Der
-Steuerbereich war mit dem Zugbeeinflussungssystem für die S‐Bahn Berlin (ZBS) ausgerüstet.
-Alle Strecken‐ und Bahnhofsgleise wurden auf der Bereichsübersicht und den Lupen
-dargestellt. Die Freimeldung der Gleise und Weichen erfolgte mi els Achszählkreisen.
-Die im Zusammenhang mit der Zugfahrt S 75626 relevanten örtlichen Verhältnisse im
-Bf Berlin‐Lichtenberg (S‐Bahn) sind in der folgenden Gleislageskizze dargestellt.
+Au(cid:297)auorganisa(cid:415)on kurz umrissen. 
 
-1
+1.1  Organisatorischer	Hinweis	
 
-Quelle: Geobasisdaten: © GeoBasis‐DE / BKG [2024], bearbeitet durch BEU
+Mit  der  Richtlinie  (EU) 2016/798  des  Europäischen  Parlaments  und  des  Rates  zur 
 
-Seite 5 von 43
+Eisenbahnsicherheit 
 
-Untersuchungsbericht
-Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn)
+in  der  Gemeinschaft  (Eisenbahnsicherheitsrichtlinie)  wurden  die 
 
-Abbildung 2: Gleislageskizze2
+Mitgliedstaaten der Europäischen Union (EU) verpflichtet, unabhängige Untersuchungsstellen 
 
-3.2 Beteiligte und Mitwirkende
-Am Ereignis waren folgende Stellen beteiligt:
-
+für die Untersuchung bestimmter gefährlicher Ereignisse einzurichten. 
 
-Deutsche Bahn (DB) Netz AG als Eisenbahninfrastrukturunternehmen (EIU), seit
-01.01.2024 „DB InfraGO AG“
+Diese  Richtlinie  wurde  mit  dem  Gesetz  zur  Neuordnung  der  Eisenbahnunfalluntersuchung 
 
-
+vom 27. Juni 2017 und der Eisenbahn‐Unfalluntersuchungsverordnung vom 05.07.2007, die 
 
-S‐Bahn Berlin GmbH als Eisenbahnverkehrsunternehmen (EVU)
+durch Artikel 1 der Verordnung vom 26.11.2019 geändert worden ist, umgesetzt. Die BEU ist 
 
-Für das EIU lag eine Sicherheitsgenehmigung des Eisenbahn‐Bundesamts gemäß § 7c AEG,
-ausgestellt am 13.09.2016, mit Gül gkeit bis zum 19.10.2021 vor.
-Das EVU verfügte nicht über eine gül ge Sicherheitsbescheinigung. Da die S‐Bahn Berlin GmbH
-nicht das übergeordnete Netz befährt, ist das EVU von der Verpflichtung, im Besitz einer
-Sicherheitsbescheinigung zu sein, gemäß AEG § 7a 1. (2) ausgenommen.
-Im Rahmen der Sachverhaltsermi lung und Ursachenerforschung wurden neben den o. g.
-Beteiligten folgende weitere Stellen einbezogen:
+eine  Bundesoberbehörde  im  Geschäftsbereich  des  Bundesministeriums  für  Digitales  und 
 
-2
+Verkehr. 
 
-
+Gemäß § 6 Abs. 2 des Bundeseisenbahnverkehrsverwaltungsgesetzes (BEVVG) wurde der Sitz 
 
-Bundespolizeiinspektion Berlin Ostbahnhof
+und  Aufbau  der  BEU 
 
-
+im  „Organisationserlass  zur  Errichtung  der  Bundesstelle  für 
 
-DB Systemtechnik GmbH (Gutachten über die Zungenvorrichtung)
+Eisenbahnunfalluntersuchung“ des Bundesministeriums für Verkehr und digitale Infrastruktur 
 
-Quelle DB Netz AG IVL‐Plan, bearbeitet durch BEU
+festgelegt und die BEU zum 14.07.2017 errichtet. 
 
-Seite 6 von 43
+Näheres hierzu ist im Internet unter www.beu.bund.de eingestellt. 
 
-Untersuchungsbericht
-Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn)
+1.2  Ziel	der	Eisenbahnunfalluntersuchung	
 
-
+Ziel  und  Zweck  der  Untersuchungen  ist  es,  die  Ursachen  von  gefährlichen  Ereignissen 
 
-simtes KG – Simulation technischer Systeme (Mehrkörpersimulation Interaktion
-Fahrzeug – Fahrbahn – Weichenantrieb)
+aufzuklären  und  hieraus  Hinweise  zur  Verbesserung  der  Sicherheit  abzuleiten. 
 
-
+Untersuchungen der BEU dienen nicht dazu, ein Verschulden festzustellen oder Fragen der 
 
-Siemens Mobility GmbH (Hersteller des Weichenantriebs)
+Haftung oder sonstiger zivilrechtlicher Ansprüche zu klären und werden unabhängig von jeder 
 
-3.3 Äußere Bedingungen
-Zum Zeitpunkt des Ereignisses herrschten folgende Bedingungen:
-Lichtverhältnisse
+gerichtlichen Untersuchung durchgeführt. 
 
-Dunkelheit
+Die Untersuchung umfasst die Sammlung und Auswertung von Informationen, die Erarbeitung 
 
-Sicht
+von Schlussfolgerungen einschließlich der Feststellung der Ursachen und gegebenenfalls die 
 
-klar
+Abgabe  von  Sicherheitsempfehlungen.  Die  Vorschläge  der  Untersuchungsstelle  zur 
 
-Bedeckung
+Vermeidung von Unfällen und Verbesserung der Sicherheit im Eisenbahnverkehr werden der 
 
-wolkenlos
+Seite 1 von 43 
 
-Temperaturen
+ 
+ 
+Untersuchungsbericht 
 
-5°C
+Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn) 
 
-fallender Niederschlag
+Sicherheitsbehörde  und,  soweit  erforderlich,  anderen  Stellen  und  Behörden  oder  anderen 
 
-Nein
+Mitgliedstaaten der EU in Form von Sicherheitsempfehlungen mitgeteilt. 
 
-Niederschlagshäufigkeit
+Seite 2 von 43 
 
-‐‐
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Untergrund / gefallener Niederschlag
+Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn) 
 
-trocken
+2  Zusammenfassung	
 
-Tabelle 1: Übersicht der äußeren Bedingungen
+Das Kapitel befasst sich mit einer kurzen Darstellung des Ereignisherganges, den Folgen und 
 
-Feststellung zu den äußeren Bedingungen
-Lfd. Nr. 1
-Die äußeren Bedingungen, wie z. B. das We er, standen in keinem erkennbaren
-unmi elbarem Zusammenhang mit der Ereignisursache.
+den  Primärursachen.  Abschließend  werden  eventuell  erteilte  Sicherheitsempfehlungen 
 
-3.4 Todesopfer, Verletzte und Sachschäden
-Bei dem Ereignis traten folgend aufgeführte Personenschäden ein:
-Anzahl Tote
+aufgeführt. 
 
-Anzahl schwer Verletzte
+2.1  Kurzbeschreibung	des	Ereignisses	
 
-Anzahl leicht Verletzte
+Am  15.04.2020  gegen  21:03 Uhr  entgleiste  der  Zug  S 75626  auf  der  Fahrt  von  Berlin‐
 
-Reisende
+Wartenberg nach Berlin Ostbahnhof im Bahnhof (Bf) Berlin‐Lichtenberg bei der Ausfahrt aus 
 
-‐
+Gleis 692 auf Fahrtstellung des Ausfahrsignals 1178 in der doppelten Kreuzungsweiche (DKW) 
 
-‐
+61W350 c/d, mit allen vier Radsätzen des letzten Wagens. 
 
-‐
+2.2  Folgen	
 
-Mitarbeiter
+Es wurden keine Personen getötet oder verletzt. An den Fahrzeugen und an der Infrastruktur 
 
-‐
+entstanden Sachschäden in geschätzter Höhe von ca. 636.000 Euro. 
 
-‐
+2.3  Ursachen	
 
-‐
+Infolge von Fahrbahnmängeln in der DKW 61W350 c/d kam es zum unbeabsich(cid:415)gten Eintrag 
 
-Benutzer von
-Bahnübergängen
+von  Krä(cid:332)en  in  den  Weichenantrieb.  Im  Zusammenwirken  mit  zu  einer  gegenüber  dem 
 
-‐
+Regelwerk  deutlich  überschri(cid:425)enen  Zungenrestspannungskra(cid:332)  führten  diese  zu  einer 
 
-‐
+schri(cid:425)weisen Auﬂösung der inneren Verriegelung des Weichenantriebs. Die Entstehung und 
 
-‐
+Konsolidierung  der  Fahrbahnmängel  wurden  begüns(cid:415)gt  durch  den  Rückbau  des 
 
-Dri e
+Fernbahngleises  und  die  einhergehende  Abbindung  eines  Strangs  der  DKW 61W350  und 
 
-‐
+durch die Befahrung der DKW fast ausschließlich in der Rela(cid:415)on c nach a (s. Abbildung 6) durch 
 
-‐
+beschleunigende und im Wesentlichen gleich konﬁgurierte S‐Bahn‐Fahrzeuge. 
 
-‐
+2.4  Sicherheitsempfehlungen	
 
-Summe
+Es wurden keine Sicherheitsempfehlungen ausgesprochen. 
 
-‐
+Seite 3 von 43 
 
-‐
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-‐
+Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn) 
 
-Tabelle 2: Übersicht der Personenschäden
+3  Allgemeine	Angaben	
 
-Seite 7 von 43
+Das  Kapitel  beinhaltet  allgemeine  Angaben  zur  Beschreibung  des  Ereignisortes  und  der 
 
-Untersuchungsbericht
-Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn)
+relevanten Bahnanlagen. Des Weiteren werden die an der Unfalluntersuchung beteiligten und 
 
-Die geschätzte Höhe der Sachschäden in Euro setzt sich wie folgt zusammen:
-geschätzte Kosten in Euro
-Fahrzeuge
+mitwirkenden  Stellen,  die  äußeren  Bedingungen,  die  Anzahl  der  ggf.  bei  dem  Ereignis 
 
-300.000
+verletzten und getöteten Personen sowie Art und Höhe der Folgeschäden benannt. 
 
-Infrastruktur
+3.1  Lage	und	Beschreibung	des	Ereignisortes	
 
-336.000
+Die Zugentgleisung ereignete sich auf der zweigleisigen S‐Bahn‐Strecke Berlin Ostbahnhof (S‐
 
-Dri e
+Bahn),  W 41  –  Strausberg (S‐Bahn),  die 
 
-‐
+im  Verzeichnis  der  örtlich 
 
-Gesamtschadenshöhe
+zulässigen 
 
-636.000
+Geschwindigkeiten 
 
-Tabelle 3: Übersicht der geschätzten Schadenshöhe
+(VzG)  unter  der  Streckennummer  6006  geführt  wurde.  Die 
 
-Abbildung 3: Entgleister Zug und Schäden an der Infrastruktur3
+Entgleisungsstelle  befand  sich 
 
-Abbildung 4: Lu aufnahme von der Unfallstelle4
+im  Bf Berlin‐Lichtenberg (S‐Bahn).  Die  benachbarten 
 
-3
+Betriebsstellen des Bf Berlin‐Lichtenberg waren der Bahnhofsteil (B(cid:332)) Berlin Nöldnerplatz und 
 
-Quelle: Bundespolizei
+der  Haltepunkt Berlin‐Friedrichsfelde Ost.  Im  Bf Berlin‐Lichtenberg (S‐Bahn)  wurden  die 
 
-4
+durchgehenden  Hauptgleise  der  VzG‐Strecke 6006  mit  den  Gleisnummern  691  und  692 
 
-Quelle: Bundespolizei, bearbeitet durch BEU
+bezeichnet. An der Entgleisungsstelle betrug die maximal zulässige Geschwindigkeit laut VzG 
 
-Seite 8 von 43
+80 km/h. Der relevante Streckenabschni(cid:425) war für einen Bremsweg von 400 m ausgelegt. Der 
 
-Untersuchungsbericht
-Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn)
+Bf Berlin‐Lichtenberg (S‐Bahn)  war  mit  dem  Zugfunksystem  Global  System  for  Mobile 
 
-4 Untersuchungsprotokoll
-In diesem Kapitel werden die ermi elten Ergebnisse zu einzelnen in Zusammenhang mit dem
-Ereignis stehenden Teilbereichen des Eisenbahnwesens dargestellt. Daneben werden auch die
-entsprechenden Schni stellen sowie das Sicherheitsmanagement (SMS) im betroﬀenen
-Bereich betrachtet. Die jeweilig relevanten Erkenntnisse werden fortlaufend aufgeführt.
+Communica(cid:415)ons Rail ausgesta(cid:425)et. Die Energieversorgung für die S‐Bahn‐Züge erfolgte über 
 
-4.1 Zusammenfassung von Aussagen und Stellungnahmen
-Der BEU vorliegende Aussagen oder Stellungnahmen am Ereignis beteiligter Personen sind in
-die Ermi lungen mit eingeflossen. Auf einen gesonderten Abdruck wird an dieser Stelle
-verzichtet.
+das  Stromschienensystem  der  S‐Bahn Berlin GmbH.  Die  folgende  Abbildung  gibt  eine 
 
-4.2 Notfallmanagement
-Nach § 4 Abs. 3 Allgemeines Eisenbahngesetz (AEG) haben die Eisenbahnen die Verpflichtung,
-an Maßnahmen des Brandschutzes und der technischen Hilfeleistung mitzuwirken. In einer
-Vereinbarung zwischen den Innenministerien der Länder und der DB AG hat man sich auf eine
-Verfahrensweise verständigt. Für die DB Netz AG gelten die entsprechenden Brand‐ und
-Katastrophenschutzgesetze der Länder. Das No allmanagement der DB AG ist in der
-Konzernrichtlinie 123, das der DB Netz AG in der Richtlinie (Ril) 423 näher beschrieben und
-geregelt. Nach § 4 Abs. 3 AEG haben die Eisenbahnen die Verpflichtung, an Maßnahmen des
-Brandschutzes und der technischen Hilfeleistung mitzuwirken. In einer Vereinbarung zwischen
-den Innenministerien der Länder und der DB AG hat man sich auf eine Verfahrensweise
-verständigt.
+Übersicht über den Ereignisort. 
 
-Für
+Seite 4 von 43 
 
-die
+ 
+ 
+Untersuchungsbericht 
 
-DB Netz AG
+Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn) 
 
-gelten
+Abbildung 1: Lageplan1 
 
-die
+Im Bf Berlin‐Lichtenberg wurden weitere Gleisanlagen der S‐Bahn Berlin GmbH sowie Gleise 
 
-entsprechenden
+für  Fernbahnzüge  betrieben,  welche  gemäß  dem  VzG  den  Streckennummern  6072  (Berlin‐
 
-Brand‐
+Lichtenberg – Ahrensfelde), 6078 (Berlin Wriezener Bahnhof – Küstrin‐Kietz) und 6139 (Berlin 
 
-und
+Ostkreuz – Berlin‐Lichtenberg) zugeordnet waren. Diese Gleisanlagen ha(cid:425)en keine Relevanz 
 
-Katastrophenschutzgesetze der Länder. Das No allmanagement der DB AG ist in der
-Konzernrichtlinie 123, das der DB Netz AG in der Ril 423 näher beschrieben und geregelt.
-Die Entgleisung ereignete sich unmi elbar nach der Ausfahrt im Bf Berlin‐Lichtenberg (S
-Bahn). Nach Erkennen des Ereignisses durch den Triebfahrzeugführer wurde umgehend der
-zuständige Fdl informiert, der das Gleis 692 unverzüglich sperrte. Die No allleitstelle leitete
-die vorgesehenen Maßnahmen ein. Der No allmanager war unmi elbar nach dem Ereignis
-an der Unfallstelle. Personen mussten nicht gere et werden. Im Rahmen der Untersuchung
-des entgleisten Zuges wurde durch die BEU in Absprache mit der Bundespolizei vorerst der
-gesamte Zugverband sowie die DKW 61W350 c/d in amtliche Verwahrung genommen.
-Die Zeiten der Verständigung der zuständigen Stellen durch die No allleitstelle und den
-Netzkoordinator sind in der folgenden Tabelle dargestellt.
+für das Ereignis und wurden daher im Rahmen der Untersuchung nicht näher betrachtet. 
 
-Seite 9 von 43
+Der Bf Berlin‐Lichtenberg (S‐Bahn) war laut „Betriebsstellenbuch für den Steuerbereich der UZ 
 
-Untersuchungsbericht
-Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn)
+Strausberg  (BSTV)“  (Bebu)  dem  gleichnamigen  Steuerbereich  zugeordnet,  der  sich  von 
 
-Verständigung durch No allleitstelle
-Netzkoordinator
+km 4,050  bis  km 7,448  (Streckengleis  1)  bzw.  km 7,392  (Streckengleis  2)  erstreckte.  Die 
 
-21:05 Uhr
+betrieblichen Handlungen erfolgten durch den zuständigen Fahrdienstleiter (Fdl) von einem 
 
-No allmanager
+Bedienplatz  in  der  Betriebszentrale  der  S‐Bahn Berlin GmbH  in  Berlin  Halensee.  Der 
 
-21:05Uhr
+Steuerbereich war mit dem Zugbeeinﬂussungssystem für die S‐Bahn Berlin (ZBS) ausgerüstet. 
 
-Re ungsleitstelle
+Alle  Strecken‐  und  Bahnhofsgleise  wurden  auf  der  Bereichsübersicht  und  den  Lupen 
 
-‐‐‐
+dargestellt. Die Freimeldung der Gleise und Weichen erfolgte mi(cid:425)els Achszählkreisen. 
 
-Bundespolizei
+Die  im  Zusammenhang  mit  der  Zugfahrt  S 75626  relevanten  örtlichen  Verhältnisse  im 
 
-21:10 Uhr
+Bf Berlin‐Lichtenberg (S‐Bahn) sind in der folgenden Gleislageskizze dargestellt. 
 
-Feuerwehr
+1 Quelle:  Geobasisdaten: © GeoBasis‐DE / BKG [2024], bearbeitet durch BEU 
 
-21:21 Uhr
+Seite 5 von 43 
 
-Verständigung durch Netzkoordinator
-Netzleitzentrale
+ 
+ 
+ 
+                                                       
+Untersuchungsbericht 
 
-21:10 Uhr
+Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn) 
 
-Betriebszentrale
+Abbildung 2: Gleislageskizze2 
 
-21:10 Uhr
+3.2  Beteiligte	und	Mitwirkende	
 
-EVU
+Am Ereignis waren folgende Stellen beteiligt: 
 
-21:30 Uhr
+  Deutsche Bahn (DB) Netz AG als Eisenbahninfrastrukturunternehmen (EIU), seit 
 
-BEU‐Bereitscha
+01.01.2024 „DB InfraGO AG“ 
 
-21:17 Uhr
+  S‐Bahn Berlin GmbH als Eisenbahnverkehrsunternehmen (EVU) 
 
-Eisenbahnbetriebsleiter (EBL)
+Für  das  EIU  lag  eine  Sicherheitsgenehmigung  des  Eisenbahn‐Bundesamts  gemäß  § 7c AEG, 
 
-21:10 Uhr
+ausgestellt am 13.09.2016, mit Gül(cid:415)gkeit bis zum 19.10.2021 vor. 
 
-Tabelle 4: Meldeke e im Rahmen des No allmanagements
+Das EVU verfügte nicht über eine gül(cid:415)ge Sicherheitsbescheinigung. Da die S‐Bahn Berlin GmbH 
 
-Feststellungen zum No allmanagement
-Lfd. Nr. 2
-Unregelmäßigkeiten
+nicht  das  übergeordnete  Netz  befährt,  ist  das  EVU  von  der  Verpﬂichtung,  im  Besitz  einer 
 
-oder
+Sicherheitsbescheinigung zu sein, gemäß AEG § 7a 1. (2) ausgenommen.  
 
-Verzögerungen
+Im  Rahmen  der  Sachverhaltsermi(cid:425)lung  und  Ursachenerforschung  wurden  neben  den  o. g. 
 
-in
+Beteiligten folgende weitere Stellen einbezogen: 
 
-Bezug
+  Bundespolizeiinspektion Berlin Ostbahnhof 
 
-auf
+  DB Systemtechnik GmbH (Gutachten über die Zungenvorrichtung) 
 
-das
+2 Quelle DB Netz AG IVL‐Plan, bearbeitet durch BEU 
 
-Einleiten
+Seite 6 von 43 
 
-von
+ 
+ 
+ 
+                                                       
+Untersuchungsbericht 
 
-Re ungsmaßnahmen sowie der vorgegebenen Meldeke e wurden der BEU im Rahmen der
-Unfalluntersuchung nicht bekannt.
+Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn) 
 
-Seite 10 von 43
+  simtes KG – Simulation technischer Systeme (Mehrkörpersimulation Interaktion 
 
-Untersuchungsbericht
-Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn)
+Fahrzeug – Fahrbahn – Weichenantrieb) 
 
-4.3 Untersuchung der bautechnischen Infrastruktur
-Die Entgleisung ereignete sich in der DKW 61W350 der Bauform DKW 49‐190‐1:9 (H) mit
-innen liegenden Zungen. Sie war im Rahmen der Maßnahmen zum Umbau des
-Bf Berlin Ostkreuz im Jahre 2003 anstelle einer einfachen Weiche eingebaut worden. Über den
-Strang d stellte sie eine Verbindung von den S‐Bahngleisen zu den Fernbahngleisen im
-Bf Berlin‐Lichtenberg her. Wie in der folgenden Lageskizze ersichtlich, wurde nach Abschluss
-der Arbeiten im Bf Berlin Ostkreuz die Fernbahnanbindung wieder gekappt.
+  Siemens Mobility GmbH (Hersteller des Weichenantriebs) 
 
-Abbildung 5: Auszug Lageplan DKW 61W350 im Bf Berlin‐Lichtenberg (S‐Bahn)5
+3.3  Äußere	Bedingungen		
 
-Die folgende Abbildung gibt die Situa on in der Örtlichkeit wieder.
+Zum Zeitpunkt des Ereignisses herrschten folgende Bedingungen: 
 
-Abbildung 6: DKW 61W350 im Bf Berlin‐Lichtenberg (S‐Bahn)in Fahrtrichtung des Zuges6
+Lichtverhältnisse 
 
-5
+Sicht 
 
-Quelle: Sicherungstechnischer Lageplan ESTW‐UZ Strausberg
+Bedeckung 
 
-6
+Temperaturen  
 
-Quelle Bundespolizei, bearbeitet durch BEU
+fallender Niederschlag 
 
-Seite 11 von 43
+Niederschlagshäuﬁgkeit 
 
-Untersuchungsbericht
-Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn)
+Dunkelheit 
 
-Der Verständlichkeit halber werden doppelt vorhandene Bauteile im Folgenden zusätzlich mit
-den Angaben rechts und links bezeichnet. Die Formulierung bezieht sich immer auf die
-Fahrtrichtung aus Strang c nach Strang a, welche in der Abbildung 6 dargestellt ist.
-Am 23. Januar 2019 war eine Schraubenlochsanierung mit Hilfe des Traversenverfahrens der
-schweizerischen Firma Rhomberg Sersa AG, Gleisbau‐ und Schienenschweißunternehmung
-durchgeführt worden. Diese betraf bei der DKW 61W350 im Bf Berlin‐Lichtenberg (S‐Bahn)
-den Bereich der linken und rechten Schienen bis zum Doppelherzstück im meistbefahrenen
-Strang c. Das Verfahren war als Regelverfahren bei der DB AG eingeführt. Gemäß dem
-Bautagebuch wurde bei den Arbeiten der für die Verarbeitung der Vergussmasse zulässige
-Bereich der Schienentemperatur von 0 °C bis 25 °C laut den Hinweisen zur Einführung als
-Regelverfahren nicht eingehalten. Die Verarbeitung erfolgte laut Bautagebuch bei einer
-Lu temperatur von ‐4 °C und einer Schienentemperatur von ‐5 °C. Wegen der von den
-Mitarbeitern der Firma Rhomberg Sersa AG vorgebrachten Bedenken bezüglich der
-Temperaturen erfolgte die Ausführung der Sanierungsarbeiten aufgrund einer mündlichen
-Zus mmung durch die DB Netz AG.
-Die Umbaumaßnahmen im Bf Berlin Ostkreuz wurden im Herbst 2019 abgeschlossen. Im
-Oktober 2019 wurde deshalb das Gleis für die Anbindung zur Fernbahn im Rahmen der
-Betriebs‐ und Bauanweisung Nr. S 10 1090 19 zurückgebaut und dessen Verbindung zum
-ehemaligen Strang d der DKW 61W350 gekappt. Die Fahrrela onen aus den Strängen a und b
-in Richtung des ehemaligen Stranges d wurden durch fest eingebaute mechanische
-Verschlusseinrichtungen an den Weichenzungen unterbunden. Die DKW 61W350 im Bf Berlin‐
-Lichtenberg (S‐Bahn) wurde mit allen festen und beweglichen Teilen in der Fahrbahn belassen
-und mit der Funk onalität einer einfachen Weiche weiter betrieben. Die bahnsteigsei ge
-rechte Zunge im Strang d verblieb in der Fahrbahn, obwohl sie für die Nutzung als einfache
-Weiche keinerlei Relevanz besaß. Dieses masseschwere Teil war mit nur geringen
-Einschränkungen frei beweglich und über die Prüferstangen direkt mit dem Prüferschieber am
-Weichenantrieb verbunden. Über die Kuppelstange und die abliegende Zunge des
-Weichenstrangs c wurde eine indirekte Verbindung zum Stellschieber des Weichenantriebs
-hergestellt. Die DKW wurde seit dem Umbau fast ausschließlich in der Rela on von Strang c
-nach Strang a befahren.
-Täglich verkehrten über die DKW über 200 S‐Bahn‐Züge der Baureihe (BR) 481/482. Diese als
-Viertel‐, Halb‐ oder Ganzzug konfigurierten Einheiten überfuhren die DKW fast alle, wie auch
-Seite 12 von 43
+klar 
 
-Untersuchungsbericht
-Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn)
+wolkenlos 
 
-der Zug S 75626, in der Rela on von c nach a. Die Fahrzeuge befanden sich beim Befahren
-sämtlich in der Beschleunigungsphase nach dem Betriebshalt im Bf. Betriebsveranlasste
-Umstellvorgänge der DKW 61W350 c/d von der Rechts‐ in die Linkslage und umgekehrt
-erfolgten daher im laufenden Betrieb nur sehr selten.
-4.3.1 Feststellungen zur Fahrbahn an der Unfallstelle
-Die DKW 61W350 c/d befand sich bei Eintreﬀen der BEU nicht in Endlage. An der linken
-Weichenzunge des Strangs c waren Anschlag‐ und Schleifspuren vorhanden. Die linke
-Backenschiene wies Schleifspuren auf. Kleineisen waren beschädigt. Am Radlenker auf der des
-rechten Doppelherzstücks war eine deutliche Verformung, wahrscheinlich vom Anschlag eines
-Radsatzes, zu erkennen. Einige Schwellen wiesen Überfahrspuren auf. Die genannten
-Beschädigungen an der DKW 61W350 wurden als Folgen der Entgleisung iden fiziert und als
-Ereignisursache ausgeschlossen. Die Weiche 61W349 im Bf Berlin‐Lichtenberg (S‐Bahn)
-einschließlich der Stromschiene wurde infolge des Ereignisses vollständig zerstört.
-4.3.2 Feststellungen zum Unterhaltungszustand der DKW 61W350
-Am
+5°C 
 
-einfachen
+Nein 
 
-Herzstück
+‐‐ 
 
-zwischen
+Untergrund / gefallener Niederschlag  
 
-Strang
+trocken 
 
-c
+Tabelle 1: Übersicht der äußeren Bedingungen 
 
-und
+Feststellung zu den äußeren Bedingungen 
 
-d
+Lfd. Nr. 1 
 
-zeigten
+Die  äußeren  Bedingungen,  wie  z. B.  das  We(cid:425)er,  standen  in  keinem  erkennbaren 
 
-sich
+unmi(cid:425)elbarem Zusammenhang mit der Ereignisursache. 
 
-deutliche
+3.4  Todesopfer,	Verletzte	und	Sachschäden	
 
-Abnutzungserscheinungen. Auf der Backenschiene war der Fahrspiegel gegenüber dem
-Randbereich um bis zu zwei Millimeter abgesenkt und wies einen Grat auf. Der Fahrspiegel
-der linken äußeren Weichenzunge war im Bereich des Doppelherzstücks wellenförmig. Am
-linken Doppelherzstück fehlten Pla en und Zwischenlagen. Daraus ergab sich eine Hohllage
-in einer Größenordnung von mindestens drei bis vier Millimetern. Die Stützknaggen waren
-abgenutzt und ha en Grate an den Enden. Im Zustand der Endlage bestand ein Abstand von
-bis zu fünf Millimetern zwischen den Enden der Stützknaggen und dem Schienensteg.
-Außerdem wurde im Bereich des linken Doppelherzstücks an der Schweißverbindung der
-Zunge ein Rollkontaktermüdungsschaden festgestellt, der im Nachhinein als Fehler der
-Kategorie F1 bewertet wurde. Zum Ende des Monats Mai 2020 wurde deshalb ein Austausch
-der gesamten Zungenvorrichtung von der DB Netz AG als notwendig erachtet. Die ausgebaute
-Zungenvorrichtung
+Bei dem Ereignis traten folgend aufgeführte Personenschäden ein: 
 
-wurde
+Anzahl Tote 
 
-im
+Anzahl schwer Verletzte  Anzahl leicht Verletzte 
 
-Au rag
+Reisende 
 
-der
+Mitarbeiter 
 
-BEU
+Benutzer von 
+Bahnübergängen 
 
-bei
+Dri(cid:425)e 
 
-der
+Summe 
 
-Inspek onsstelle
+‐ 
 
-der
+‐ 
 
-DB Systemtechnik GmbH werksto echnisch untersucht. Die Untersuchung ergab jedoch
-keine unfallursächlichen Auﬀälligkeiten. Gemäß dem Bericht der Inspek onsstelle waren die
-nachgewiesenen Rollkontaktermüdungsschäden nicht als unfallursächlich zu bewerten und es
+‐ 
 
-Seite 13 von 43
+‐ 
 
-Untersuchungsbericht
-Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn)
+‐ 
 
-war noch ein ausreichender Abnutzungsvorrat vorhanden. Eine Verformung oder Verbiegung
-der Weichenzunge wurde im Rahmen der Untersuchung ebenfalls nicht festgestellt.
-Anlässlich einer Nachuntersuchung durch die BEU am 07.07.2020 an der Unfallstelle wurde
-festgestellt, dass sich an der linken Zunge, des Strangs c, der neuen Zungenvorrichtung
-derselbe wellenförmige Fahrspiegel wiedereingestellt ha e wie im Altzustand und am linken
-Doppelherzstück immer noch Zwischenlagen und Pla en fehlten und eine Hohllage von mehr
-als drei Millimetern vorhanden war. An den mit dem Traversenverfahren der Firma
-Rhomberg Sersa AG sanierten Holzschwellen war die Vergussmasse teilweise gerissen und die
-Rippenpla en ha en sich in das Schwellenmaterial eingegraben bzw. horizontal verschoben.
-Bei einzelnen Schwellenschrauben waren die Federringe augenscheinlich nicht mehr
-gespannt. Die kra schlüssige Verspannung zwischen Schienen und Schwellen war also nicht
-mehr durchgehend vorhanden. Bei allen Zugfahrten waren am bahnsteigsei gen
-Weichenanfang deutliche Ver kalbewegungen des Gleisrostes und auf Höhe des
-Doppelherzstücks ebenso deutliche ver kale Rela vbewegungen zwischen Schienen und
-Schwellen zu erkennen. Zudem wurden starke Bewegungen an der Spitze der abliegenden
-Weichenzunge des Strangs d wahrgenommen.
-Der BEU lag der Messschrieb einer Messfahrt mit dem Miss‐Gleismesstriebzug vom
-20.05.2019 vor. Dieser zeigte für den Bereich der DKW 61W350 im Bf Berlin‐Lichtenberg
-Lageabweichungen bei der Längshöhe und der Richtung, die jedoch den Bereich der
-Eingriﬀsschwellen
+Tabelle 2: Übersicht der Personenschäden 
 
-gemäß
+‐ 
 
-der
+‐ 
 
-Ril 821.2001
+‐ 
 
-–
+‐ 
 
-Prüfung
+‐ 
 
-der
+‐ 
 
-Gleisgeometrie
+‐ 
 
-mit
+‐ 
 
-Gleismessfahrzeugen – nicht erreichten. Des Weiteren lag der Messschrieb von einer
-Messfahrt am 08.11.2018 vor, die erhebliche Richtungsabweichungen auswies, die im Bereich
-der SR100‐Werte gemäß Ril 821.2001 lagen. Auf Nachfrage teilte die DB Netz AG mit, dass
-diese Messfahrt über die Rela on von Strang c nach Strang b geführt hä e und daraus die
-gemessenen Lageabweichungen resul eren würden. Die Prüfung des vorliegenden
-Weichenprüfprotokolls vom 20.02.2020 ergab keine Unregelmäßigkeiten. Nach dem Ereignis
-wurde eine unbelastete Messung mit dem System „Krabbe“ durchgeführt, bei der periodische
-Richtungsabweichungen einer Größenordnung unterhalb der Eingriﬀsschwellen nach der
-Ril 821.2001 gemessen wurden, die bereits vor der DKW 61W350 c/d begannen und sich in
-die DKW hinein fortsetzten. Die Periodenlänge entsprach dabei annähernd den
-Drehzapfenabständen der Fahrzeuge der BR 481/482. Auch die Gleislageabweichungen der
+‐ 
 
-Seite 14 von 43
+‐ 
 
-Untersuchungsbericht
-Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn)
+Seite 7 von 43 
 
-Längshöhe und der gegensei gen Höhenlage erreichten nicht den Bereich der
-Eingriﬀsschwellen gemäß Ril 821.2001.
-Feststellung zur Untersuchung der bautechnischen Infrastruktur
-Lfd. Nr.3
-Die DKW 61W350 im Bf Berlin‐Lichtenberg (S‐Bahn) wurde als einfache Weiche genutzt. Die
-rechte Weichenzunge des Strangs d, ein masseschweres Teil, war ohne relevante Funk on
-und mit nur geringen Einschränkungen frei beweglich.
-Zugfahrten fanden fast ausschließlich in der Rela on c‐a mit Fahrzeugen der BR 481/482
-sta .
-Das Herzstück zwischen Strang c und d der DKW war abgenutzt.
-Die
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Befes gungselemente
+Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn) 
 
-an
+Die geschätzte Höhe der Sachschäden in Euro setzt sich wie folgt zusammen: 
 
-den
+geschätzte Kosten in Euro 
 
-mit
+Fahrzeuge 
 
-dem
+Infrastruktur 
 
-Traversenverfahren
+Dri(cid:425)e 
 
-der
+Gesamtschadenshöhe 
 
-Firma
+300.000 
 
-Rhomberg Sersa AG sanierten Holzschwellen wiesen teilweise Verschleißerscheinungen
-auf.
+336.000 
 
-Die
+‐ 
 
-Schwellenlochsanierung
+636.000 
 
-mit
+Tabelle 3: Übersicht der geschätzten Schadenshöhe 
 
-dem
+Abbildung 3: Entgleister Zug und Schäden an der Infrastruktur3 
 
-Traversenverfahren
+Abbildung 4: Lu(cid:332)aufnahme von der Unfallstelle4 
 
-der
+3 Quelle: Bundespolizei 
 
-Firma
+4 Quelle: Bundespolizei, bearbeitet durch BEU 
 
-Rhomberg Sersa AG erfolgte unter Abweichung von den eingeführten Regeln für die
-Anwendung des Verfahrens.
-Die kra schlüssige Verspannung der Schienen mit den Schwellen war teilweise nicht mehr
-gegeben.
-Am linken Doppelherzstück fehlten Pla en und Zwischenlagen. Dadurch war eine Hohllage
-zwischen Schwelle und Schiene von mindestens drei Millimetern vorhanden.
-Die linke Weichenzunge im Strang c der DKW wies auf Höhe des linken Doppelherzstücks
-einen ungleichmäßigen wellenförmigen Fahrspiegel auf.
-Bei jeder beobachteten Zugfahrt kam es zu starken Bewegungen der abliegenden
-Zungenspitze im Strang d der DKW.
-Die Gleismessfahrten und die Messung mit dem System „Krabbe“ nach dem Ereignis zeigten
-keine nach Ril 821.2001 unzulässig großen Gleislageabweichungen, jedoch periodische
-Richtungsfehler auf.
+Seite 8 von 43 
 
-Seite 15 von 43
+ 
+ 
+ 
+ 
+ 
+ 
+                                                       
+Untersuchungsbericht 
 
-Untersuchungsbericht
-Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn)
+Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn) 
 
-4.4 Untersuchung der Leit‐ und Sicherungstechnik
-Das ESTW BSTV war und ist ein elektronisches Stellwerk der Bauform El‐S mit Mausbedienung
-der Firma Siemens Mobility GmbH, Bedienplatzsystem 901, der Bauform SIMIS C. Der
-Steuerbereich BSTV ist in die Steuerzentrale 4 integriert. Für den Steuerbereich BSTV waren
-zwei Bedienplätze für Fdl im Gebäude der Betriebszentrale S‐Bahn Berlin GmbH vorhanden.
-Der zuständige Fdl für den Bf Berlin‐Lichtenberg (S‐Bahn) ha e den Bedienplatz BSTV 1.
-Die DKW 61W350 war ursprünglich mit zwei Antrieben der Bauform Switchguard S 700 K der
-Firma Siemens Mobility GmbH ausgerüstet gewesen, die in Kilometrierungsrichtung bahnlinks
-neben den Strängen a und d auf Höhe der Zungenspitzen angebracht worden waren. Die
-Lagereisen des Weichenantriebs waren an den Schwellen befes gt Im Rahmen der
-Maßnahmen der Betriebs‐und Bauanweisung Nr. S 10 1090 19 wurden die beiden Antriebe
-zurückgebaut. Der Antrieb in Höhe der Weichenzungen des ehemaligen Stranges a war durch
-den Wegfall der Fahrrela onen über den Strang d nach dem Umbau der DKW obsolet
-geworden. Der bahnsteigsei ge Weichenantrieb wurde durch einen Antrieb der Bauform
-Switchguard External Locking System (ELS) 710 der Firma Siemens Mobility GmbH ersetzt.
-Das über Kuppelstangen verbundene Zungenpaar c/d der DKW 61W350 wurde durch die
-Stellwerkslogik mit Hilfe des Antriebs über Stellschieber und Prüferschieber gestellt und
-überwacht. Die Inbetriebnahme der umgebauten DKW erfolgte am 07.11.2019. Aus den
-Protokollen zur Inbetriebnahme der DKW nach den Umbauarbeiten ging hervor, dass
-Abweichungen zum Regelwerk festgestellt worden waren. Insbesondere wurden an den
-Zungen Zungenrestspannungskrä e von 1.770 N bzw. 1.730 N gemessen, was gegenüber dem
-zulässigen Wert von 1.400 N gemäß Ril 892.03 eine Abweichung von mehr als 25 % bedeutete.
-Bei der Untersuchung nach der Entgleisung wurde die DKW 61W350 c/d in Mi ellage
-vorgefunden. Die Spitzenverschlüsse waren gelöst. Die Stellstange und Prüferstangen waren
-unbeschädigt. Die folgende Abbildung zeigt den nach der Zugentgleisung geöﬀneten
-Weichenantrieb.
+4  Untersuchungsprotokoll	
 
-Seite 16 von 43
+In diesem Kapitel werden die ermi(cid:425)elten Ergebnisse zu einzelnen in Zusammenhang mit dem 
 
-Untersuchungsbericht
-Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn)
+Ereignis stehenden Teilbereichen des Eisenbahnwesens dargestellt. Daneben werden auch die 
 
-Abbildung 7: Geöﬀneter Weichenantrieb Switchguard ELS 710 nach dem Unfall7
+entsprechenden  Schni(cid:425)stellen  sowie  das  Sicherheitsmanagement  (SMS)  im  betroﬀenen 
 
-Der Antrieb war vom Bedienplatz im ESTW BSTV nicht mehr bedienbar. Dort war eine
-Auﬀahrmeldung aufgelaufen. Eine nach dem Ereignis durchgeführte Messung der
-Zungenrestspannungskra ergab laut Protokoll vom 19.04.2020 einen Wert von 1.770 N für
-die Fahrt von Strang c nach Strang a. Im Rahmen der Untersuchungen an der Unfallweiche
-wurden an den Zungenprüferstangen erhebliche ver kale und horizontale Bewegungen
-festgestellt, die von der abliegenden Weichenzunge des Strangs d der DKW ausgingen und die
-über die Prüferschieber direkt in den Weichenantrieb eingeleitet wurden. Durch die Firma
-Siemens Mobility GmbH wurden im Rahmen der Ereignisuntersuchung Sensoren an den
-Herzstücken sowie an verschiedenen beweglichen Teilen der Stell‐ und Prüfeinrichtungen der
-DKW und am Gehäuse des Weichenantriebes angebracht, um die au retenden Schwingungen
-und Stöße zu quan fizieren. Dabei wurden während der Zugfahrten an den Weichenteilen und
-am Weichenantrieb Beschleunigungen und Stöße gemessen, die dauerha über 300 m/s² mit
-Frequenzen von 150 Impulsen je Sekunde in ver kaler Richtung und über 140 m/s² mit
+Bereich betrachtet. Die jeweilig relevanten Erkenntnisse werden fortlaufend aufgeführt. 
 
-7
+4.1  Zusammenfassung	von	Aussagen	und	Stellungnahmen	
 
-Quelle: Bundespolizei
+Der BEU vorliegende Aussagen oder Stellungnahmen am Ereignis beteiligter Personen sind in 
 
-Seite 17 von 43
+die  Ermi(cid:425)lungen  mit  eingeﬂossen.  Auf  einen  gesonderten  Abdruck  wird  an  dieser  Stelle 
 
-Untersuchungsbericht
-Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn)
+verzichtet. 
 
-Frequenzen von 275 Impulsen je Sekunde in transversaler bzw. 590 Impulsen je Sekunde in
-longitudinaler Richtung lagen. Einzelstöße erreichten dabei Werte von mehr als 2000 m/s².
-4.4.1 Weichenantrieb Switchguard ELS 710
-Der Weichenantrieb Switchguard ELS 710 der Firma Siemens Mobility GmbH erfüllte sowohl
-die Funk on der Weichenstellung als auch die der Endlagenprüfung für die DKW. Das
-Wirkprinzip des Weichenantriebs war auf der Grundlage des Weichenantriebs
-Switchguard S 700 K weiterentwickelt worden. Die Weichenzungen waren über Stellstangen
-mit dem Antrieb verbunden. Der Stellmechanismus funk onierte über eine Gewindespindel.
-Die Rota onsbewegung der Spindel wurde über ein Schaltlineal in eine Transla onsbewegung
-umgewandelt, die einen Stellschieber in die gewünschte Richtung verschob. Auf dem
-Stellschieber war eine Festhaltekupplung kra schlüssig befes gt. Über Stellstangen war der
-Stellschieber mit den Weichenzungen verbunden. War die Endlage erreicht, wurde einer der
-beiden Sperrschieber durch zwei Druckfedern in einen konisch gestalteten Ausschni
+4.2  Notfallmanagement	
 
-des
+Nach § 4 Abs. 3 Allgemeines Eisenbahngesetz (AEG) haben die Eisenbahnen die Verpﬂichtung, 
 
-Stellschiebers gedrückt. Gleichzei g lief derselbe Sperrschieber in einen Ausschni
+an Maßnahmen des Brandschutzes und der technischen Hilfeleistung mitzuwirken. In einer 
 
-des
+Vereinbarung zwischen den Innenministerien der Länder und der DB AG hat man sich auf eine 
 
-Prüferschiebers, der die Bewegung der mit ihm verbundenen Zungenprüferstangen
-nachvollzog und die Endlagen abbildete, ein. Ein Sperrstück, das mit diesem Sperrschieber
-formschlüssig verbunden war, wurde durch diesen mitgenommen, rastete dann in einen dafür
-vorgesehenen Absatz der Festhaltekupplung am Stellschieber ein und verriegelte den
-Weichenantrieb in der Endlage der DKW. Die folgende Abbildung zeigt eine schema sche
-Schni darstellung eines Weichenantriebs Switchguard ELS 710 mit den Bezeichnungen für die
-während des Unfallhergangs wesentlichen Bauteile. Die Ansicht erfolgt aus Richtung der
-Gleise, die Schni ebene liegt in Höhe des gleissei gen Sperrschiebers.
+Verfahrensweise  verständigt.  Für  die  DB Netz AG  gelten  die  entsprechenden  Brand‐  und 
 
-Seite 18 von 43
+Katastrophenschutzgesetze  der  Länder.  Das  No(cid:414)allmanagement  der  DB AG  ist  in  der 
 
-Untersuchungsbericht
-Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn)
+Konzernrichtlinie 123, das der DB Netz AG in der Richtlinie (Ril) 423 näher beschrieben und 
 
-Abbildung 8: Schema sche Schni darstellung des Weichenantriebs8
+geregelt. Nach § 4 Abs.  3 AEG haben die Eisenbahnen die Verpﬂichtung, an Maßnahmen des 
 
-Mit
+Brandschutzes und der technischen Hilfeleistung mitzuwirken. In einer Vereinbarung zwischen 
 
-Bescheid
+den  Innenministerien  der  Länder  und  der  DB AG  hat  man  sich  auf  eine  Verfahrensweise 
 
-vom
+verständigt. 
 
-18.07.2017
+Für 
 
-Aktenzeichen GZ 2271 – 226ssw/002‐2203#009‐
+die  DB Netz AG 
 
-3345789/0/17Er erfolgte durch das Eisenbahn‐Bundesamt die Zulassung des Weichenantriebs
-Switchguard ELS 710 für den Eisenbahnbetrieb. Sie war befristet bis zum 31.08.2022. Eine
-wesentliche
+gelten 
 
-Änderung
+die 
 
-des
+entsprechenden 
 
-Weichenantriebs
+Brand‐ 
 
-Switchguard ELS 710
+und 
 
-gegenüber
+Katastrophenschutzgesetze  der  Länder.  Das  No(cid:414)allmanagement  der  DB AG  ist  in  der 
 
-dem
+Konzernrichtlinie 123, das der DB Netz AG in der Ril 423 näher beschrieben und geregelt. 
 
-Weichenantrieb Switchguard S 700 K bestand in der inneren Verriegelung mi els eines
-Sperrstücks, dass formschlüssig mit dem Sperrschieber verbunden war und ausschließlich
-durch Reibung an der Kontak läche mit der Festhaltekupplung und ohne zusätzliche
-Kra einwirkung in seiner Posi on gehalten werden sollte.
-4.4.2 Überwachungsstörungen und Auffahrmeldungen für die DKW 61W350 c/d
-im Bf Berlin‐Lichtenberg (S‐Bahn)
-Seit dem 06.04.2020 liefen einschließlich der Meldung unmi elbar vor dem Ereignis beim
-zuständigen Fdl BSTV 1 insgesamt zehn Auﬀahrmeldungen für die DKW 61W350 c/d im
-Bf Berlin‐Lichtenberg (S‐Bahn)
+Die  Entgleisung  ereignete  sich  unmi(cid:425)elbar  nach  der  Ausfahrt  im  Bf Berlin‐Lichtenberg (S 
 
-auf.
+Bahn). Nach Erkennen des Ereignisses durch den Triebfahrzeugführer wurde umgehend der 
 
-In
+zuständige Fdl informiert, der das Gleis 692 unverzüglich sperrte. Die No(cid:414)allleitstelle leitete 
 
-allen
+die vorgesehenen Maßnahmen ein. Der No(cid:414)allmanager war unmi(cid:425)elbar nach dem Ereignis 
 
-diesen
+an der Unfallstelle. Personen mussten nicht gere(cid:425)et werden. Im Rahmen der Untersuchung 
 
-Fällen
+des entgleisten Zuges wurde durch die BEU in Absprache mit der Bundespolizei vorerst der 
 
-wurde
+gesamte Zugverband sowie die DKW 61W350 c/d in amtliche Verwahrung genommen. 
 
-zunächst
+Die  Zeiten  der  Verständigung  der  zuständigen  Stellen  durch  die  No(cid:414)allleitstelle  und  den 
 
-„UEBERWACHUNGSSTOERUNG“ und danach „AUFGEFAHREN“ gemeldet. Anschließend
-wurde durch den zuständigen Fdl „Aufgefahrene Weiche umstellen“ (AWU) als zählpflich ge
-Bedienhandlung
+Netzkoordinator sind in der folgenden Tabelle dargestellt. 
 
-8
+Seite 9 von 43 
 
-durchgeführt.
+ 
+ 
+Untersuchungsbericht 
 
-Zusätzlich
+Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn) 
 
-wurde
+Verständigung durch No(cid:414)allleitstelle 
 
-am
+Netzkoordinator 
 
-14.04.2020
+No(cid:414)allmanager 
 
-eine
+Re(cid:425)ungsleitstelle 
 
-weitere
+Bundespolizei 
 
-Quelle: Siemens Mobility GmbH, bearbeitet durch BEU
+Feuerwehr 
 
-Seite 19 von 43
+Verständigung durch Netzkoordinator 
 
-Untersuchungsbericht
-Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn)
+Netzleitzentrale 
 
-Überwachungsstörung dokumen ert. Näheres zu den Störungsmeldungen ist dem Kapitel 4.5
-zu entnehmen.
-4.4.3 Untersuchung des Weichenantriebs an der DKW 61W350 c/d im Bf Berlin‐
-Lichtenberg (S‐Bahn)
-Nach dem Ereignis wurde der Weichenantrieb der DKW 61W350 c/d im Bf Berlin‐
-Lichtenberg (S‐Bahn) demon ert und in amtliche Verwahrung genommen. Es wurde ein
-Weichenantrieb der Bauart Switchguard S 700 K eingebaut. Der Weichenantrieb der
-DKW 61W350 c/d im Bf Berlin‐Lichtenberg (S‐Bahn), der zum Unfallzeitpunkt an der
-Unfallstelle verbaut war, wurde bei der Siemens Mobility GmbH im Beisein der DB Netz AG
-auf
+Betriebszentrale 
 
-verschiedenen
+EVU 
 
-Prüfständen
+BEU‐Bereitscha(cid:332) 
 
-eingehenden
+Eisenbahnbetriebsleiter (EBL) 
 
-Prüfungen
+21:05 Uhr 
 
-unterzogen,
+21:05Uhr 
 
-ohne
+‐‐‐ 
 
-dass
+21:10 Uhr 
 
-Funk onsbeeinträch gungen oﬀenbar wurden. Darau in wurde er demon ert und weiter
-untersucht. Die Untersuchung ergab weder am Gehäuse noch an den beweglichen Teilen
-auﬀällige
+21:21 Uhr 
 
-Beschädigungen,
+21:10 Uhr 
 
-Beeinträch gungen
+21:10 Uhr 
 
-oder
+21:30 Uhr 
 
-Maßabweichungen,
+21:17 Uhr 
 
-die
+21:10 Uhr 
 
-als
+Tabelle 4: Meldeke(cid:425)e im Rahmen des No(cid:414)allmanagements 
 
-ereignisursächlich hä en eingeordnet werden können. Daher wurde der Fokus der
-weiterführenden Untersuchungen auf die Funk onalität des Weichenantriebes und die im
-Zusammenhang mit den Fahrbahnkomponenten der DKW 61W350 c/d au retenden
-Kra einträge in den Weichenantrieb gelegt. Die maßgeblichen Anforderungen für die
-Konstruk on von Weichenantrieben waren durch die DB Netz AG in einem technischen
-Lastenhe
+Feststellungen zum No(cid:414)allmanagement 
 
-niedergeschrieben. Für die Vorgaben hinsichtlich der Resistenz gegen
+Lfd. Nr. 2 
 
-Erschü erungen aus dem Eisenbahnverkehr wurde in dem Lastenhe
+Unregelmäßigkeiten  oder  Verzögerungen 
 
-Bezug auf die
+in  Bezug 
 
-Europäische Norm (EN) in der deutschen Fassung DIN EN 50125‐3 – Bahnanwendungen –
-Umweltbedingungen für Betriebsmi el – genommen. Laut DIN EN 50125‐3 waren für die
-unterschiedlichen Gleisposi onen von Weichenantrieben Werte für Beschleunigungen
-entsprechend der folgenden Abbildung anzuwenden.
+auf  das  Einleiten 
 
-Abbildung 9 Auszug aus DIN EN 50125‐3 Eﬀek vwerte für Beschleunigungen
+von 
 
-Seite 20 von 43
+Re(cid:425)ungsmaßnahmen sowie der vorgegebenen Meldeke(cid:425)e wurden der BEU im Rahmen der 
 
-Untersuchungsbericht
-Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn)
+Unfalluntersuchung nicht bekannt. 
 
-Dabei waren die Wirkrichtungen der Beschleunigungen gemäß der DIN EN 50125‐3
-entsprechend der folgenden Abbildung definiert.
+Seite 10 von 43 
 
-Abbildung 10: Wirkrichtungen der einwirkenden Beschleunigungen gemäß DIN EN 50125‐3
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Für Beanspruchungen durch Stöße in ver kaler Richtung waren in der DIN EN 50125‐3 für die
-verschiedenen Gleisposi onen die Werte entsprechend der folgenden Abbildung anzusetzen.
+Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn) 
 
-Abbildung 11: Werte für Stöße in ver kaler Richtung gemäß DIN EN 50125‐3
+4.3  Untersuchung	der	bautechnischen	Infrastruktur	
 
-Die Firma Siemens Mobility GmbH wies darauf hin, dass alle im technischen Lastenhe für
-Weichenantriebe enthaltenen Anforderungen in Hinsicht auf Konstruk on und Betrieb des
-Weichenantriebes vollständig erfüllt gewesen seien. Die Messergebnisse an der
-DKW 61W350 c/d im Bf Berlin‐Lichtenberg (S‐Bahn) überschri en dauerha und wesentlich
-die gemäß der DIN EN 50125‐3 für die konstruk ve Gestaltung von Weichenantrieben
-anzuwendenden Werte für Beschleunigungen und Stöße bei einem Einsatzpunkt auf der
-Schwelle oder im Gleisbe . Für die direkt über die Prüferstangen und Prüferschieber in den
-Weichenantrieb eingeleiteten Beschleunigungen und Stöße fanden sich in der einschlägigen
-DIN EN 50125‐3 keinerlei Entsprechungen.
+Die  Entgleisung  ereignete  sich  in  der  DKW 61W350  der  Bauform  DKW 49‐190‐1:9 (H)  mit 
 
-Seite 21 von 43
+innen 
 
-Untersuchungsbericht
-Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn)
+liegenden  Zungen.  Sie  war 
 
-Durch die DB Netz AG wurden im Bf Diedersdorf mit Hilfe eines speziellen Versuchsau aus
-das Verhalten von vier verschiedenen Antrieben, drei der Bauart Switchguard ELS 710,
-darunter der Unfallantrieb, und ein Antrieb der Bauart Switchguard S 700 K, getestet. Mit der
-Versuchsanordnung wurde das Verhalten der Weichenantriebe bei unterschiedlich hohen
-Zungenrestspannungskrä en getestet. Die Zungenrestspannungskrä e wurden bei den
-Versuchen über Druckfedern, die über eine Traverse mit dem Stellschieber verbunden waren,
-simuliert. Die Lagereisen des Weichenantriebs wurden am Schienenfuß befes gt, was
-bezüglich au retender Schwingungen den strengsten Vorgaben laut der DIN EN 50125‐3,
-Abschni 4.13 – Schwingungen und Stöße –entsprach. Die Befes gung der Lagereisen direkt
-neben einem stark abgenutzten Isolierstoß sollte Stöße ver kaler Richtung, wie sie den
-Anforderungen der DIN EN 50125‐3 entsprachen, unter besonders erschwerten Bedingungen
-darstellen. Stöße in horizontaler und in longitudinaler Richtung, die nachweislich an der
-DKW 61W350 c/d im Bf Berlin‐Lichtenberg (S‐Bahn) direkt über die Prüferstangen in den
-Weichenantrieb eingeleitet wurden, waren mit diesem Versuchsau au nicht darstellbar. Mit
-der Versuchsanordnung war jedoch feststellbar, ob die untersuchten Weichenantriebe den
-Bedingungen nach DIN EN 50125‐3 entsprachen. Die Simula on eines Bewegungs‐ oder
-Krä eeintrags aus der rechten abliegenden Weichenzunge über die Prüferschieber in den
-Weichenantrieb, wie er in der Einbausitua on an der DKW 61W350 c/d im Bf Berlin
-Lichtenberg (S‐Bahn) nachweislich erfolgte, war mit dieser Versuchsanordnung hingegen nicht
-möglich.
-Die folgende Abbildung zeigt die Versuchsanordnung bei den Untersuchungen im
-Bf Diedersdorf.
+im  Rahmen  der  Maßnahmen  zum  Umbau  des 
 
-Seite 22 von 43
+Bf Berlin Ostkreuz im Jahre 2003 anstelle einer einfachen Weiche eingebaut worden. Über den 
 
-Untersuchungsbericht
-Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn)
+Strang  d  stellte  sie  eine  Verbindung  von  den  S‐Bahngleisen  zu  den  Fernbahngleisen  im 
 
-Abbildung 12: Versuchsanordnung in Bf Diedersdorf9
+Bf Berlin‐Lichtenberg her. Wie in der folgenden Lageskizze ersichtlich, wurde nach Abschluss 
 
-Die Ergebnisse aus den Untersuchungen des Weichenantriebs bei der Siemens Mobility GmbH
-und der DB Netz AG gingen in einen technischen Analysebericht der Siemens Mobility GmbH
-und in zwei Untersuchungsberichte der DB Netz AG, einer für den Bereich der Leit‐ und
-Sicherungstechnik und einer für den Bereich der bautechnischen Infrastruktur ein, die im
-Folgenden zusammenfassend dargestellt sind.
-Die Siemens Mobility GmbH stellte in ihrem technischen Analysebericht die Wirkke e, die zur
-Auflösung der inneren Verriegelung und letztendlich zur Entgleisung des Zuges S 75626 führte,
-wie folgt dar:
+der Arbeiten im Bf Berlin Ostkreuz die Fernbahnanbindung wieder gekappt. 
 
-9
+Abbildung 5: Auszug Lageplan DKW 61W350 im Bf Berlin‐Lichtenberg (S‐Bahn)5 
 
-Quelle: Analysebericht Siemens Mobility GmbH, bearbeitet durch die BEU
+Die folgende Abbildung gibt die Situa(cid:415)on in der Örtlichkeit wieder. 
 
-Seite 23 von 43
+Abbildung 6: DKW 61W350 im Bf Berlin‐Lichtenberg (S‐Bahn)in Fahrtrichtung des Zuges6 
 
-Untersuchungsbericht
-Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn)
+5 Quelle: Sicherungstechnischer Lageplan ESTW‐UZ Strausberg 
 
-„[…] Die am Sperrstück anliegende Seite vom Kupplungsgehäuse verfügt über eine 5,7°
-Schräge. Wird diese Schräge durch die extern am Stellschieber anliegende
-Zungenrestspannungskra FZRS gegen das Sperrstück gedrückt und wirken gleichzei g
-Stoßbelastungen (Fs) in longitudinaler Entriegelungsrichtung, kommt es zur Auflösung der
-Ha ‐/ Gleitreibung der anliegenden Flächen. Als Folge dessen, bewegt sich das Sperrstück
-schri weise in die zum Entriegeln erforderliche Richtung. Je nach Höhe und Dauer der
-anliegenden Krä e und Belastungen wirken (sic!), ist eine vollständige Entriegelung
-möglich. […]“
-Bei einer Zungenrestspannungskra von 2.000 N kam es in der Testreihe im Bf Diedersdorf für
-den Weichenantrieb der DKW 61W350 c/d im Bf Berlin‐Lichtenberg (S‐Bahn) nach 24
-Betriebsstunden und ca. 4.400 Achsdurchgängen am Isolierstoß zu einer Reduzierung der
-Überdeckung auf 0,5 mm. Bei einem zweiten, in den Jahren von 2013 bis 2019 benutzten und
-entsprechend abgenutzten Weichenantrieb der Bauart Switchguard ELS 710, kam es nach 75
-Betriebsstunden zur Auflösung der internen Verriegelung. Am dri en getesteten
-Weichenantrieb der Bauart Switchguard ELS 710, einem neuen Antrieb, zeigte sich die interne
-Verriegelung nach ca. 50 Betriebsstunden unverändert. Laut der Aufstellung aus dem
-Analysebericht führte eine Zungenrestspannungskra
+6 Quelle Bundespolizei, bearbeitet durch BEU 
 
-von 1.500 N bei keinem der drei
+Seite 11 von 43 
 
-getesteten Weichenantriebe der Bauart Switchguard ELS 710 zu einer kri schen Reduzierung
-der Überdeckung, die zu einer Auflösung der internen Verriegelung hä e führen können.
-Am beprobten Weichenantrieb der Bauart Switchguard S 700 K blieb die interne Verriegelung
-auch nach 70 Betriebsstunden und bei einer Zungenrestspannungskra
+ 
+ 
+ 
+ 
+                                                       
+Untersuchungsbericht 
 
-von 2.000 N
+Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn) 
 
-unverändert.
-Im
+Der Verständlichkeit halber werden doppelt vorhandene Bauteile im Folgenden zusätzlich mit 
 
-Analysebericht
+den  Angaben  rechts  und  links  bezeichnet.  Die  Formulierung  bezieht  sich  immer  auf  die 
 
-der
+Fahrtrichtung aus Strang c nach Strang a, welche in der Abbildung 6 dargestellt ist. 
 
-Firma
+Am 23. Januar 2019 war eine Schraubenlochsanierung mit Hilfe des Traversenverfahrens der 
 
-Siemens Mobility GmbH
+schweizerischen  Firma  Rhomberg Sersa AG,  Gleisbau‐  und  Schienenschweißunternehmung 
 
-wurde
+durchgeführt  worden.  Diese  betraf  bei  der  DKW 61W350  im  Bf Berlin‐Lichtenberg (S‐Bahn) 
 
-aus
+den Bereich der linken und rechten Schienen bis zum Doppelherzstück im meistbefahrenen 
 
-den
+Strang  c.  Das  Verfahren  war  als  Regelverfahren  bei  der  DB AG  eingeführt.  Gemäß  dem 
 
-Untersuchungsergebnissen folgendes Fazit gezogen:
-„Im Unfallantrieb wurde die interne Verriegelung, welche für die Weichenantriebsfunk on
-„Festhalten in Endlage“ erforderlich ist, durch die am Unfallort wirkende
-Zungenrestspannungskra und durch die am Unfallort beim Befahren der Unfallweiche
-entstehenden Stoß‐ / Schwingungsbelastungen schri weise bzw. zum Unfallzeitpunkt
-vollständig aufgelöst.
+Bautagebuch  wurde  bei  den  Arbeiten  der  für  die  Verarbeitung  der  Vergussmasse  zulässige 
 
-Seite 24 von 43
+Bereich  der  Schienentemperatur  von  0 °C  bis  25 °C  laut  den  Hinweisen  zur  Einführung  als 
 
-Untersuchungsbericht
-Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn)
+Regelverfahren  nicht  eingehalten.  Die  Verarbeitung  erfolgte  laut  Bautagebuch  bei  einer 
 
-Nach Auflösen der internen Verriegelung, zog die abliegende Zunge mit der am Unfallort
-wirkenden Zungenrestspannungskra die Verschlussstange in Richtung
-„Weichenmi ellage“, sodass es zum Entriegeln des äußeren Verschlusses kam. …“
-Im Untersuchungsbericht des Fachdienstes für die Leit‐ und Sicherungstechnik bei der
-DB Netz AG wurden die Ergebnisse und Erkenntnisse aus dem technischen Analysebericht der
-Siemens Mobility GmbH im Wesentlichen bestä gt.
-Feststellung zur Untersuchung der Leit‐ und Sicherungstechnik
-Lfd. Nr.4
-An der DKW 61W350 c/d im Bf Berlin‐Lichtenberg (S‐Bahn) war ein Weichenantrieb der
-Bauform Switchguard ELS 710 verbaut.
-Die interne Verriegelung des Weichenantriebs Switchguard ELS 710 war gegenüber dem
-Vorgänger des Weichenantriebes, dem Switchguard S 700 K konstruk v verändert.
-Ein Versagen der internen Verriegelung des Weichenantriebes führte zur Au ebung des
-Verschlusses und zum Verlust der Endlage der DKW.
-Die zulässigen Werte für die Zungenrestspannungskra
+Lu(cid:332)temperatur  von  ‐4 °C  und  einer  Schienentemperatur  von  ‐5 °C.  Wegen  der  von  den 
 
-laut Ril 892.03 waren bei der
+Mitarbeitern  der  Firma  Rhomberg Sersa AG  vorgebrachten  Bedenken  bezüglich  der 
 
-Inbetriebnahme der DKW 61W350 c/d um ca. 25 % überschri en. Nach der Entgleisung
-wurde eine Zungenrestspannungskra 1.770 N gemessen
-Im technischen Lastenhe für Weichenantriebe waren die Vorgaben für die konstruk ve
-Gestaltung enthalten. Für Beschleunigungen in ver kaler, transversaler und longitudinaler
-Richtung sowie für Stöße in ver kaler Richtung waren die Ansätze aus der DIN EN 50125‐3
-maßgebend. An der DKW 61W350 c/d wurden durch die Firma Siemens Mobility GmbH
-orien erende Messungen zur Feststellung des Belastungsniveaus und der örtlichen
-Verteilung
+Temperaturen  erfolgte  die  Ausführung  der  Sanierungsarbeiten  aufgrund  einer  mündlichen 
 
-der
+Zus(cid:415)mmung durch die DB Netz AG. 
 
-Belastungen
+Die  Umbaumaßnahmen  im  Bf Berlin Ostkreuz  wurden  im  Herbst  2019  abgeschlossen.  Im 
 
-vorgenommen,
+Oktober  2019  wurde  deshalb  das  Gleis  für  die  Anbindung  zur  Fernbahn  im  Rahmen  der 
 
-die
+Betriebs‐  und  Bauanweisung  Nr. S 10 1090 19  zurückgebaut  und  dessen  Verbindung  zum 
 
-dauerha
+ehemaligen Strang d der DKW 61W350 gekappt. Die Fahrrela(cid:415)onen aus den Strängen a und b 
 
-wesentlich
+in  Richtung  des  ehemaligen  Stranges  d  wurden  durch  fest  eingebaute  mechanische 
 
-stärkere
+Verschlusseinrichtungen an den Weichenzungen unterbunden. Die DKW 61W350 im Bf Berlin‐
 
-Beschleunigungen und Stöße, als sie in der DIN EN 50125‐3 für die konstruk ve Gestaltung
-der Weichenantriebe angesetzt wurden, zum Ergebnis ha en.
+Lichtenberg (S‐Bahn) wurde mit allen festen und beweglichen Teilen in der Fahrbahn belassen 
 
-4.5 Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers
-Für die Durchführung der Zugfahrt S 75626 waren betriebliche Handlungen durch den
-zuständigen Fdl Strausberg in der Betriebszentrale der S‐Bahn Berlin GmbH erforderlich. Die
+und  mit  der  Funk(cid:415)onalität  einer  einfachen  Weiche  weiter  betrieben.  Die  bahnsteigsei(cid:415)ge 
 
-Seite 25 von 43
+rechte Zunge im Strang d verblieb in der Fahrbahn, obwohl sie für die Nutzung als einfache 
 
-Untersuchungsbericht
-Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn)
+Weiche  keinerlei  Relevanz  besaß.  Dieses  masseschwere  Teil  war  mit  nur  geringen 
 
-entsprechenden Aufgaben waren in der Ril 408 – Fahrdienstvorschri
+Einschränkungen frei beweglich und über die Prüferstangen direkt mit dem Prüferschieber am 
 
-sowie dem Bebu
+Weichenantrieb  verbunden.  Über  die  Kuppelstange  und  die  abliegende  Zunge  des 
 
-beschrieben.
-Die Auswertung der Stellwerksdaten ergab, dass es bereits seit dem 06.04.2020 mehrfach zu
-Auﬀälligkeiten, in Form von Störungsmeldungen, an der DKW 61W350 c/d kam. Die
-generierten
+Weichenstrangs c wurde eine indirekte Verbindung zum Stellschieber des Weichenantriebs 
 
-Störungen
+hergestellt. Die DKW wurde seit dem Umbau fast ausschließlich in der Rela(cid:415)on von Strang c 
 
-lauteten
+nach Strang a befahren. 
 
-UEBERWACHUNGSSTOERUNG“
+Täglich verkehrten über die DKW über 200 S‐Bahn‐Züge der Baureihe (BR) 481/482. Diese als 
 
-und
+Viertel‐, Halb‐ oder Ganzzug konﬁgurierten Einheiten überfuhren die DKW fast alle, wie auch 
 
-jeweils
+Seite 12 von 43 
 
-zunächst
+ 
+ 
+Untersuchungsbericht 
 
-„WEICHE
+Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn) 
 
-BBKS
+der Zug S 75626, in der Rela(cid:415)on von c nach a. Die Fahrzeuge befanden sich beim Befahren 
 
-61W350CD
+sämtlich  in  der  Beschleunigungsphase  nach  dem  Betriebshalt  im  Bf.  Betriebsveranlasste 
 
-im
+Umstellvorgänge  der  DKW 61W350 c/d  von  der  Rechts‐  in  die  Linkslage  und  umgekehrt 
 
-Folgenden
+erfolgten daher im laufenden Betrieb nur sehr selten. 
 
-„WEICHE
+4.3.1  Feststellungen	zur	Fahrbahn	an	der	Unfallstelle	
 
-BBKS
+Die  DKW 61W350 c/d  befand  sich  bei  Eintreﬀen  der  BEU  nicht  in  Endlage.  An  der  linken 
 
-61W350CD
+Weichenzunge  des  Strangs  c  waren  Anschlag‐  und  Schleifspuren  vorhanden.  Die  linke 
 
-AUFGEFAHREN“. Der Bediener des ESTW musste nach Ril 482.9001 prüfen ob es sich um eine
-tatsächliche oder eine unzei ge Auﬀahrmeldung handelte. Das Auﬀahren einer Weiche
-bedeutet, diese vom Herzstück aus in der falschen Lage zu befahren und dadurch mit dem
-Spurkranz des Rades die anliegende Weichenzunge von der Backenschiene zu en ernen. Zur
-Erkennung von unzei gen Auﬀahrmeldungen sah die Ril 482.9001 nach Abschni 12 Absatz
-(4) folgende Regeln vor:
-„[…] Eine Weiche gilt als nicht aufgefahren bzw. eine Flachkreuzung als nicht bei falscher
-Stellung der Herzstückspitzen befahren, wenn die Auﬀahrmeldung
-‐
+Backenschiene wies Schleifspuren auf. Kleineisen waren beschädigt. Am Radlenker auf der des 
 
-Während einer Zugfahrt au rat, die durch Fahrtstellung eines Hauptsignals
-zugelassen wurde oder
+rechten Doppelherzstücks war eine deutliche Verformung, wahrscheinlich vom Anschlag eines 
 
-‐
+Radsatzes,  zu  erkennen.  Einige  Schwellen  wiesen  Überfahrspuren  auf.  Die  genannten 
 
-Beim Rangieren über Rangierstraßen au rat und der Triebfahrzeugführer oder
-Rangierbegleiter bestä gt, dass die Weiche nicht aufgefahren bzw. die Flachkreuzung
-nicht bei falscher Stellung der Herzstückspitzen befahren wurde.“
+Beschädigungen an der DKW 61W350 wurden als Folgen der Entgleisung iden(cid:415)ﬁziert und als 
 
-Die Ril 482.9001 Abschni
+Ereignisursache  ausgeschlossen.  Die  Weiche 61W349 
 
-12 Absätze (1) und (2) sahen vor, unzei ge Auﬀahrmeldungen
+im  Bf Berlin‐Lichtenberg (S‐Bahn) 
 
-sofort an die für die Entstörungsveranlassung zuständige Stelle (EVZS) zu melden und sie in
-das Arbeits‐ und Störungsbuch (ASB) einzutragen.
-Die folgende Tabelle gibt eine Übersicht über alle Überwachungsstörungen und
-Auﬀahrmeldungen die seit dem 06.04.2020 an der DKW 61W350 c/d generiert wurden:
-Lfd.
-Nummer
+einschließlich der Stromschiene wurde infolge des Ereignisses vollständig zerstört. 
 
-Datum
+4.3.2  Feststellungen	zum	Unterhaltungszustand	der	DKW	61W350	
 
-Uhrzeit
+Am  einfachen  Herzstück 
 
-Generierte Meldungen
+zwischen  Strang 
 
-1
+c  und  d 
 
-06.04.2020 17:38:14
+zeigten 
 
-Überwachungsstörung
-Aufgefahren
+sich  deutliche 
 
-2
+Abnutzungserscheinungen.  Auf  der  Backenschiene  war  der  Fahrspiegel  gegenüber  dem 
 
-07.04.2020 15:41:56
+Randbereich um bis zu zwei Millimeter abgesenkt und wies einen Grat auf. Der Fahrspiegel 
 
-Überwachungsstörung
-Aufgefahren
+der  linken äußeren  Weichenzunge war  im  Bereich  des  Doppelherzstücks  wellenförmig.  Am 
 
-3
+linken Doppelherzstück fehlten Pla(cid:425)en und Zwischenlagen. Daraus ergab sich eine Hohllage 
 
-07.04.2020 21:27:21
+in einer Größenordnung von mindestens drei bis vier Millimetern. Die Stützknaggen waren 
 
-Überwachungsstörung
-Aufgefahren
+abgenutzt und ha(cid:425)en Grate an den Enden. Im Zustand der Endlage bestand ein Abstand von 
 
-Seite 26 von 43
+bis  zu  fünf  Millimetern  zwischen  den  Enden  der  Stützknaggen  und  dem  Schienensteg. 
 
-Untersuchungsbericht
-Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn)
+Außerdem  wurde  im  Bereich  des  linken  Doppelherzstücks  an  der  Schweißverbindung  der 
 
-4
+Zunge  ein  Rollkontaktermüdungsschaden  festgestellt,  der  im  Nachhinein  als  Fehler  der 
 
-08.04.2020 19:04:44
+Kategorie F1 bewertet wurde. Zum Ende des Monats Mai 2020 wurde deshalb ein Austausch 
 
-Überwachungsstörung
-Aufgefahren
+der gesamten Zungenvorrichtung von der DB Netz AG als notwendig erachtet. Die ausgebaute 
 
-5
+Zungenvorrichtung  wurde 
 
-09.04.2020 16:32:27
+im  Au(cid:332)rag  der  BEU  bei  der 
 
-Überwachungsstörung
-Aufgefahren
+Inspek(cid:415)onsstelle  der 
 
-6
+DB Systemtechnik GmbH  werksto(cid:335)echnisch  untersucht.  Die  Untersuchung  ergab  jedoch 
 
-10.04.2020 17:34:59
+keine unfallursächlichen Auﬀälligkeiten. Gemäß dem Bericht der Inspek(cid:415)onsstelle waren die 
 
-Überwachungsstörung
-Aufgefahren
+nachgewiesenen Rollkontaktermüdungsschäden nicht als unfallursächlich zu bewerten und es 
 
-7
+Seite 13 von 43 
 
-11.04.2020 17:24:58
+ 
+ 
+Untersuchungsbericht 
 
-Überwachungsstörung
-Aufgefahren
+Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn) 
 
-8
+war noch ein ausreichender Abnutzungsvorrat vorhanden. Eine Verformung oder Verbiegung 
 
-12.04.2020 15:47:29
+der Weichenzunge wurde im Rahmen der Untersuchung ebenfalls nicht festgestellt.  
 
-Überwachungsstörung
-Aufgefahren
+Anlässlich einer Nachuntersuchung durch die BEU am 07.07.2020 an der Unfallstelle wurde 
 
-9
+festgestellt,  dass  sich  an  der  linken  Zunge,  des  Strangs  c,  der  neuen  Zungenvorrichtung 
 
-12.04.2020 19:34:59
+derselbe wellenförmige Fahrspiegel wiedereingestellt ha(cid:425)e wie im Altzustand und am linken 
 
-Überwachungsstörung
-Aufgefahren
+Doppelherzstück immer noch Zwischenlagen und Pla(cid:425)en fehlten und eine Hohllage von mehr 
 
-10
+als  drei  Millimetern  vorhanden  war.  An  den  mit  dem  Traversenverfahren  der  Firma 
 
-15.04.2020 21:02:xx
+Rhomberg Sersa AG sanierten Holzschwellen war die Vergussmasse teilweise gerissen und die 
 
-Überwachungsstörung
-Aufgefahren
+Rippenpla(cid:425)en ha(cid:425)en sich in das Schwellenmaterial eingegraben bzw. horizontal verschoben. 
 
-Tabelle 5: ESTW‐Meldungen der DKW 61W350CD
+Bei  einzelnen  Schwellenschrauben  waren  die  Federringe  augenscheinlich  nicht  mehr 
 
-Für die lfd. Nummer 1 wurde der Eintrag mit der Nummer 165 im ASB angelegt, die EVZS
-wurde verständigt. Arbeiten und deren Beendigung konnten nicht explizit zugeordnet werden,
-da ein weiterer Eintrag im ASB mit der Nummerierung 165 angelegt wurde.
-Die lfd. Nummer 2 wurde im Eintrag 168 im ASB vermerkt und ebenfalls an die EVZS gemeldet.
-Am gleichen Tag fanden Arbeiten zur Entstörung der DKW 61W350 c/d sta .
-Zur lfd. Nummer 3 wurde kein Eintrag im ASB angelegt.
-Die lfd. Nummer 4 wurde mit dem Eintrag 172 im ASB vermerkt und an die EVZS gemeldet. Es
-erfolgte kein Eintrag über Arbeiten an der DKW und deren Beendigung, der Eintrag wurde
-dennoch geschlossen.
-Im Eintrag 177 des ASB wurde die lfd. Nummer 5 dokumen ert, die Meldung an die EVZS
-erfolgte. Am selbigen Tag wurden Arbeiten zur Entstörung eingetragen, welche gegen
-20:00 Uhr unterbrochen und am 14.04.2020 gegen 01:00 Uhr, nach fünf Tagen,
-wiederaufgenommen wurden. Die Auﬀahrmeldungen im Zeitraum der unterbrochenen
-Arbeitszeit des laufenden Störfalls wurden nicht nochmalig dokumen ert.
-Ril 482.9001 Abschni 12 Absatz (4) regelte folgendes Verfahren:
-„Erscheint bei einer Weiche oder Flachkreuzung die Auﬀahrmeldung und kann der
-Bediener feststellen, dass die Weiche nicht aufgefahren bzw. die Flachkreuzung nicht bei
-falscher Stellung der Herzstückspitzen befahren wurde, liegt ein Fehler in der
+gespannt. Die kra(cid:332)schlüssige Verspannung zwischen Schienen und Schwellen war also nicht 
 
-Seite 27 von 43
+mehr  durchgehend  vorhanden.  Bei  allen  Zugfahrten  waren  am  bahnsteigsei(cid:415)gen 
 
-Untersuchungsbericht
-Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn)
+Weichenanfang  deutliche  Ver(cid:415)kalbewegungen  des  Gleisrostes  und  auf  Höhe  des 
 
-Zungenüberwachungseinrichtung vor. Die Weiche bzw. Flachkreuzung ist durch
-Hilfsbedienung in eine Endlage zu stellen und anschließend zweimal durch
-Einzelbedienung umzustellen. Die Weiche gilt in der Stellung, in der die Ordnungsstellung
-angezeigt wird, als nicht gestört.“
-Die Hilfsbedienhandlung musste zwangsläufig vor dem Sta inden der nächsten Zugfahrt auf
-Hauptsignal durchgeführt werden. Sowohl durch die Hilfsbedienung als auch den folgenden
-Umstellvorgang der DKW 61W350 c/d wurde der Verschluss wieder vollständig hergestellt.
-Weiter regelte Ril 482.9001 Abschni 7 Absatz (4) Folgendes:
-„Ferngestellte Weichen, Gleissperren, Flachkreuzungen und Riegel sind innerhalb von 24
-Stunden einmal umzustellen. […]“
-Das Bebu konkre siert diese Maßnahmen wie folgt:
-„Um Fehlermeldungen an selten benutzten Weichen bzw. Gleissperren etc. zu oﬀenbaren,
-müssen Sie alle Weichen im Steuerbereich jeweils einmal pro Tag mit Beginn der
-nächtlichen Betriebspause bzw. im Zeitraum des Nachverkehrs bis spätestens 4:00 Uhr
-umstellen.
-Konnten Weichen oder Gleissperren in dieser Zeit nicht umgestellt werden, übergibt der
-Fdl der Nachtschicht an den Fdl der Frühschicht im Übergabebuch, welche Weichen oder
-Gleissperren nicht umgestellt werden konnten.
-Das probeweise Umstellen der Weichen oder Gleissperren ist unmi elbar nach
-Arbeitsaufnahme bis spätestens 10:00 Uhr des laufenden Tages nachzuholen. Weichen
-oder Gleissperren die nicht bis spätestens 10:00 Uhr umgestellt wurden, sind der EVZS zu
-melden, um den Umstellvorgang von einem besonders eingewiesenen Mitarbeiter
-beobachten zu lassen.
-Weichen die nicht bis 14:00 Uhr des laufenden Tages probeweise umgestellt wurden
-dürfen nicht mehr befahren werden, bis die Fachkra LST eine Ersatzmaßnahme an der
-betroﬀenen Weiche durchgeführt hat.
-Abweichend davon müssen Sie alle Weichen mit zwei oder mehreren Weichenverschlüssen
-(Mi elverschluss) in allen Hauptgleisen mindestens einmal in acht Stunden umstellen.“
-Die folgende Tabelle bringt die generierten unzei gen Auﬀahrmeldungen in Verbindung mit
-dem vergangenen Zeitraum seit der letzten Umstellung der DKW 61W350 c/d.
+Doppelherzstücks  ebenso  deutliche  ver(cid:415)kale  Rela(cid:415)vbewegungen  zwischen  Schienen  und 
 
-Seite 28 von 43
+Schwellen  zu  erkennen.  Zudem  wurden  starke  Bewegungen  an  der  Spitze  der  abliegenden 
 
-Untersuchungsbericht
-Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn)
+Weichenzunge des Strangs d wahrgenommen. 
 
-Lfd.
-Nummer
+Der  BEU  lag  der  Messschrieb  einer  Messfahrt  mit  dem  Miss‐Gleismesstriebzug  vom 
 
-Datum und Uhrzeit
-der unzei gen
-Auﬀahrmeldung
+20.05.2019  vor.  Dieser  zeigte  für  den  Bereich  der  DKW 61W350  im  Bf Berlin‐Lichtenberg 
 
-Datum und Uhrzeit der letzten
-Umstellung
+Lageabweichungen  bei  der  Längshöhe  und  der  Richtung,  die  jedoch  den  Bereich  der 
 
-Vergangener
-Zeitraum seit der
-letzten Umstellung
-[h]
+Eingriﬀsschwellen  gemäß  der  Ril 821.2001  –  Prüfung  der  Gleisgeometrie  mit 
 
-1
+Gleismessfahrzeugen  –  nicht  erreichten.  Des  Weiteren  lag  der  Messschrieb  von  einer 
 
-06.04.2020 17:38:14
+Messfahrt am 08.11.2018 vor, die erhebliche Richtungsabweichungen auswies, die im Bereich 
 
-06.04.2020
+der  SR100‐Werte  gemäß  Ril 821.2001  lagen.  Auf  Nachfrage  teilte  die  DB Netz AG  mit,  dass 
 
-03:13
+diese Messfahrt über die Rela(cid:415)on von Strang c nach Strang b geführt hä(cid:425)e und daraus die 
 
-14:45
+gemessenen  Lageabweichungen  resul(cid:415)eren  würden.  Die  Prüfung  des  vorliegenden 
 
-2
+Weichenprüfprotokolls vom 20.02.2020 ergab keine Unregelmäßigkeiten. Nach dem Ereignis 
 
-07.04.2020 15:41:56
+wurde eine unbelastete Messung mit dem System „Krabbe“ durchgeführt, bei der periodische 
 
-07.04.2020
+Richtungsabweichungen  einer  Größenordnung  unterhalb  der  Eingriﬀsschwellen  nach  der 
 
-00:31
+Ril 821.2001 gemessen wurden, die bereits vor der DKW 61W350 c/d begannen und sich in 
 
-15:10
+die  DKW  hinein 
 
-3
+fortsetzten.  Die  Periodenlänge  entsprach  dabei  annähernd  den 
 
-07.04.2020 21:27:21
+Drehzapfenabständen der Fahrzeuge der BR 481/482. Auch die Gleislageabweichungen der 
 
-07.04.2020
+Seite 14 von 43 
 
-15:43
+ 
+ 
+Untersuchungsbericht 
 
-05:44
+Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn) 
 
-4
+Längshöhe  und  der  gegensei(cid:415)gen  Höhenlage  erreichten  nicht  den  Bereich  der 
 
-08.04.2020 19:04:44
+Eingriﬀsschwellen gemäß Ril 821.2001. 
 
-08.04.2020
+Feststellung zur Untersuchung der bautechnischen Infrastruktur 
 
-13:17
+Lfd. Nr.3 
 
-05:47
+Die DKW 61W350 im Bf Berlin‐Lichtenberg (S‐Bahn) wurde als einfache Weiche genutzt. Die 
 
-5
+rechte Weichenzunge des Strangs d, ein masseschweres Teil, war ohne relevante Funk(cid:415)on 
 
-09.04.2020 16:32:27
+und mit nur geringen Einschränkungen frei beweglich. 
 
-09.04.2020
+Zugfahrten fanden fast ausschließlich in der Rela(cid:415)on c‐a mit Fahrzeugen der BR 481/482 
 
-04:16
+sta(cid:425). 
 
-12:16
+Das Herzstück zwischen Strang c und d der DKW war abgenutzt. 
 
-6
+Die  Befes(cid:415)gungselemente  an  den  mit  dem  Traversenverfahren  der  Firma 
 
-10.04.2020 17:34:59
+Rhomberg Sersa AG  sanierten  Holzschwellen  wiesen  teilweise  Verschleißerscheinungen 
 
-10.04.2020
+auf.  Die 
 
-11:43
+Schwellenlochsanierung  mit 
 
-05:51
+dem 
 
-7
+Traversenverfahren 
 
-11.04.2020 17:24:58
+der 
 
-11.04.2020
+Firma 
 
-08:47
+Rhomberg Sersa AG  erfolgte  unter  Abweichung  von  den  eingeführten  Regeln  für  die 
 
-08:37
+Anwendung des Verfahrens. 
 
-8
+Die kra(cid:332)schlüssige Verspannung der Schienen mit den Schwellen war teilweise nicht mehr 
 
-12.04.2020 15:47:29
+gegeben. 
 
-12.04.2020
+Am linken Doppelherzstück fehlten Pla(cid:425)en und Zwischenlagen. Dadurch war eine Hohllage 
 
-10:48
+zwischen Schwelle und Schiene von mindestens drei Millimetern vorhanden. 
 
-04:59
+Die linke Weichenzunge im Strang c der DKW wies auf Höhe des linken Doppelherzstücks 
 
-9
+einen ungleichmäßigen wellenförmigen Fahrspiegel auf. 
 
-12.04.2020 19:34:59
+Bei  jeder  beobachteten  Zugfahrt  kam  es  zu  starken  Bewegungen  der  abliegenden 
 
-12.04.2020
+Zungenspitze im Strang d der DKW. 
 
-15:48
+Die Gleismessfahrten und die Messung mit dem System „Krabbe“ nach dem Ereignis zeigten 
 
-03:46
+keine  nach  Ril  821.2001  unzulässig  großen  Gleislageabweichungen,  jedoch  periodische 
 
-10
+Richtungsfehler auf. 
 
-15.04.2020 21:02
+Seite 15 von 43 
 
-15.04.2020
+ 
+ 
+ 
+Untersuchungsbericht 
 
-08:47
+Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn) 
 
-12:15
+4.4  Untersuchung	der	Leit‐	und	Sicherungstechnik	
 
-Tabelle 6: Auﬀahrmeldungen mit Zeitraum seit der letzten Umstellung
+Das ESTW BSTV war und ist ein elektronisches Stellwerk der Bauform El‐S mit Mausbedienung 
 
-Der kürzeste Zeitraum zwischen der letzten Umstellung und der Auﬀahrmeldung umfasste
-3:46 h. Der längste Zeitraum belief sich auf 15:10 h.
-Feststellung zur Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers
-Lfd. Nr. 6
-Seit dem 06.04.2020 wurden fast täglich Überwachungsstörungen und Auﬀahrmeldungen
-an der DKW 61W350 c/d generiert.
-Nach Ril 482.9001 wurde die Meldung als unzei ge Auﬀahrmeldung gewertet.
-Das Verfahren zum Umgang mit unzei gen Auﬀahrmeldungen sah vor die DKW durch die
-AWU Bedienung in eine Endlage zu bringen. Der Verschluss wurde durch die Bedienung
-AWU wieder vollständig hergestellt.
+der  Firma  Siemens Mobility GmbH,  Bedienplatzsystem  901,  der  Bauform  SIMIS  C.  Der 
 
-Seite 29 von 43
+Steuerbereich BSTV ist in die Steuerzentrale 4 integriert. Für den Steuerbereich BSTV waren 
 
-Untersuchungsbericht
-Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn)
+zwei Bedienplätze für Fdl im Gebäude der Betriebszentrale S‐Bahn Berlin GmbH vorhanden. 
 
-4.6 Untersuchung der betrieblichen Abläufe der EVU
-Die Dienstleistung der Personenbeförderung wurde durch das EVU S‐Bahn Berlin GmbH
-erbracht. Der Zug S 75626 fuhr im Regelbetrieb von B Berlin‐Wartenberg nach
-Bf Berlin Ostbahnhof (S‐Bahn).
-Für die Zugfahrt war eine maximale Geschwindigkeit von 80 km/h im untersuchten Abschni
-vorgegeben, welche gemäß der elektronischen Fahrtregistrierung (EFR) auch nicht
-überschri en wurde. Die au ereiteten Fahrdaten wurden der BEU durch das EVU zur
-Verfügung gestellt. Sie wurden durch die BEU überprü
+Der zuständige Fdl für den Bf Berlin‐Lichtenberg (S‐Bahn) ha(cid:425)e den Bedienplatz BSTV 1. 
 
-und als plausibel bewertet. Die
+Die DKW 61W350 war ursprünglich mit zwei Antrieben der Bauform Switchguard S 700 K der 
 
-folgenden Ausführungen stützen sich auf die Auswertung des EVU. Die Normierung erfolgte
-zeitlich auf den letzten Halt der S 75626 im Bf Berlin‐Lichtenberg (S‐Bahn), örtlich auf den
-Standort des Signals Ne 5 in km 4,541. Die angegebenen Zeiten sind normierte Systemzeiten,
-welche mit der Realzeit um eine Stunde divergieren. Die folgende Abbildung beinhaltet die
-grafische und die tabellarische Darstellung des Fahrtverlaufs zwischen Abfahrt am Bahnsteig
-und der ereignisbedingten Entlü ung der Hauptlu leitung mit anschließendem S llstand.
+Firma Siemens Mobility GmbH ausgerüstet gewesen, die in Kilometrierungsrichtung bahnlinks 
 
-Abbildung 13: Grafische und tabellarische Darstellung des Fahrtverlaufs des Zuges S 7562610
+neben  den  Strängen  a  und  d  auf  Höhe  der  Zungenspitzen  angebracht  worden  waren.  Die 
 
-Es waren keine sons gen Auﬀälligkeiten in den Fahrdaten zu erkennen. Die Geschwindigkeit
-s eg kon nuierlich an, was dem regulären Beschleunigungsverhalten von ca. 1 m/s² an dieser
+Lagereisen  des  Weichenantriebs  waren  an  den  Schwellen  befes(cid:415)gt  Im  Rahmen  der 
 
-10
+Maßnahmen der Betriebs‐und Bauanweisung Nr.  S 10 1090 19 wurden die beiden Antriebe 
 
-Quelle: S‐Bahn Berlin, bearbeitet durch BEU
+zurückgebaut. Der Antrieb in Höhe der Weichenzungen des ehemaligen Stranges a war durch 
 
-Seite 30 von 43
+den  Wegfall  der  Fahrrela(cid:415)onen  über  den  Strang  d  nach  dem  Umbau  der  DKW  obsolet 
 
-Untersuchungsbericht
-Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn)
+geworden.  Der  bahnsteigsei(cid:415)ge  Weichenantrieb  wurde  durch  einen  Antrieb  der  Bauform 
 
-Stelle der Abfahrt aus Bf Berlin‐Lichtenberg (S Bahn) entsprach. Gegen 21:02:27 Uhr wurde
-ein Druckabfall in der Hauptlu leitung unter 2,2 bar registriert, was den Zeitpunkt der
-Unterbrechung der Sicherheitsbremsschleife markiert.
-Ereignisursächliche Handlungen seitens der Personale des EVU waren nicht erkennbar. Daher
-wurden personenbezogene Daten zu den beteiligten Personalen nicht erhoben und keine
-weiteren Untersuchungen angestellt.
-Feststellung zur Untersuchung der betrieblichen Abläufe des EVU
-Lfd. Nr. 7
-Ereignisursächliche Einflüsse aus den Handlungen der Personale des EVU wurden nicht
-festgestellt.
+Switchguard External Locking System (ELS) 710  der  Firma  Siemens Mobility GmbH  ersetzt. 
 
-Seite 31 von 43
+Das  über  Kuppelstangen  verbundene  Zungenpaar  c/d  der  DKW 61W350  wurde  durch  die 
 
-Untersuchungsbericht
-Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn)
+Stellwerkslogik  mit  Hilfe  des  Antriebs  über  Stellschieber  und  Prüferschieber  gestellt  und 
 
-4.7 Untersuchung von Fahrzeugen
-Die Triebwagen des Zuges S 75626 befand sich im Eigentum der S‐Bahn Berlin GmbH und
-verkehrten als Halbzug in der Konfigura on 481 382 – 482 382 – 482 334 – 481 334. Zwischen
-den jeweiligen Wagen der Konfigura on 481 xxx – 482 xxx befand sich ein ca. 80 cm langer
-Übergang mit Faltenbalg. Entsprechend wurde der Wagen 481 xxx als A‐Wagen und das
-korrespondierende Gegenstück 482 xxx als B‐Wagen bezeichnet. Der B‐Wagen verfügte über
-zwei Triebdrehgestelle, der A‐Wagen über ein Triebdrehgestell unter dem Führerstand und
-ein Laufdrehgestell.
+überwacht.  Die  Inbetriebnahme  der  umgebauten  DKW  erfolgte  am  07.11.2019.  Aus  den 
 
-Abbildung 14:Fahrzeugkonfigura on BR 481/482 (Viertelzug)
+Protokollen  zur  Inbetriebnahme  der  DKW  nach  den  Umbauarbeiten  ging  hervor,  dass 
 
-Aus der folgenden Tabelle lassen sich die technischen Fahrzeugdaten entnehmen:
-Antriebsart
+Abweichungen  zum  Regelwerk  festgestellt  worden  waren.  Insbesondere  wurden  an  den 
 
-elektrisch
+Zungen Zungenrestspannungskrä(cid:332)e von 1.770 N bzw. 1.730 N gemessen, was gegenüber dem 
 
-Trak onsleistung
+zulässigen Wert von 1.400 N gemäß Ril 892.03 eine Abweichung von mehr als 25 % bedeutete. 
 
-594 kW
+Bei  der  Untersuchung  nach  der  Entgleisung  wurde  die  DKW 61W350 c/d  in  Mi(cid:425)ellage 
 
-Gesamtlänge (LüP)
+vorgefunden. Die Spitzenverschlüsse waren gelöst. Die Stellstange und Prüferstangen waren 
 
-36.800 mm
+unbeschädigt.  Die  folgende  Abbildung  zeigt  den  nach  der  Zugentgleisung  geöﬀneten 
 
-Masse
+Weichenantrieb. 
 
-59.000 kg
+Seite 16 von 43 
 
-Höchstgeschwindigkeit
+ 
+ 
+Untersuchungsbericht 
 
-80km/h
+Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn) 
 
-Radsatzfolge
+Abbildung 7: Geöﬀneter Weichenantrieb Switchguard ELS 710 nach dem Unfall7 
 
-Bo‘2‘+Bo’Bo‘
+Der  Antrieb  war  vom  Bedienplatz  im  ESTW BSTV  nicht  mehr  bedienbar.  Dort  war  eine 
 
-Zugsicherungssystem
+Auﬀahrmeldung  aufgelaufen.  Eine  nach  dem  Ereignis  durchgeführte  Messung  der 
 
-Mechanische Fahrsperre / ZBS
+Zungenrestspannungskra(cid:332) ergab laut Protokoll vom 19.04.2020 einen Wert von 1.770 N für 
 
-Tabelle 7: Technische Daten des Triebwagens
+die Fahrt von Strang c nach Strang a. Im Rahmen der Untersuchungen an der Unfallweiche 
 
-Das entgleiste Fahrzeug 481 334 lief an vierter Stelle des Verbandes und verlor mit beiden
-Drehgestellen die Spurführung.
-Ereignisursächliche Einflüsse aus den Fahrzeugen konnten aufgrund der an der Unfallstelle
-vorgefundenen Situa on und der ersten Untersuchungsergebnisse ausgeschlossen werden.
-Die festgestellten Schäden an den Fahrzeugen wurden als Unfallfolgen iden fiziert.
+wurden  an  den  Zungenprüferstangen  erhebliche  ver(cid:415)kale  und  horizontale  Bewegungen 
 
-Seite 32 von 43
+festgestellt, die von der abliegenden Weichenzunge des Strangs d der DKW ausgingen und die 
 
-Untersuchungsbericht
-Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn)
+über  die  Prüferschieber  direkt  in  den  Weichenantrieb  eingeleitet  wurden.  Durch  die  Firma 
 
-Feststellung zur Untersuchung der Fahrzeuge
-Lfd. Nr. 8
-Ereignisursächliche Einflüsse aus den Fahrzeugen ergab die Untersuchung nicht.
+Siemens Mobility GmbH  wurden  im  Rahmen  der  Ereignisuntersuchung  Sensoren  an  den 
 
-4.8 Mehrkörpersimulation der Interaktion
-Fahrzeug – Fahrbahn – Weichenantrieb
-Um das Zusammenwirken zwischen Fahrzeug, Fahrbahn und Weichenantrieb und die
-Einflüsse aus den beteiligten Komponenten auf die Entwicklung des Ereignisses bewerten zu
-können, wurde die simtes KG durch die BEU mit der Durchführung von Mehrkörper‐
-Simula onen der Weichenüberfahrt von S‐Bahn‐Zügen beau ragt. Die Ergebnisse der
-Simula onen wurden in einem Gutachten zusammengefasst. Der Inhalt dieses Gutachtens
-geht in diesen Abschni des Untersuchungsberichts ein.
-Bei der Erarbeitung des Berechnungsmodells flossen als Eingangsgrößen die Konfigura on
-und
+Herzstücken sowie an verschiedenen beweglichen Teilen der Stell‐ und Prüfeinrichtungen der 
 
-Geschwindigkeiten
+DKW und am Gehäuse des Weichenantriebes angebracht, um die au(cid:332)retenden Schwingungen 
 
-der
+und Stöße zu quan(cid:415)ﬁzieren. Dabei wurden während der Zugfahrten an den Weichenteilen und 
 
-S‐Bahn‐Fahrzeuge,
+am Weichenantrieb Beschleunigungen und Stöße gemessen, die dauerha(cid:332) über 300 m/s² mit 
 
-die
+Frequenzen  von  150 Impulsen  je  Sekunde  in  ver(cid:415)kaler  Richtung  und  über  140 m/s²  mit 
 
-Konstruk onsparameter
+7 Quelle: Bundespolizei 
 
-der
+Seite 17 von 43 
 
-DKW 61W350 c/d unter Berücksich gung der besonderen Einsatzbedingungen im Bf Berlin‐
-Lichtenberg sowie die Aspekte der Lagerung des Weichenantriebs auf den Schwellen bzw. im
-Gleisbe ein. Es wurden zunächst die Rad‐Schiene‐Interak on mit einer idealen Fahrbahn und
-idealen Fahrzeugen und die daraus resul erenden Kra ‐ und Schwingungseinträge auf den
-Weichenantrieb als Referenzwerte ermi elt. Danach wurden mehrere Varianten von
-Einzelwagen und Zugfahrten mit Viertelzügen, welche die im Rahmen von Ersatzmessungen
-mit dem System „Krabbe“ festgestellten Gleislagefehler und die op sch festgestellten, aber
-nicht quan fizierten Mängel in der Fahrbahn simulierten, berechnet. Die Simula on der
-Zugfahrten ergab bei Zugfahrten mit Viertelzügen Querverschiebungen von mindestens vier
-Millimetern, die hinsichtlich der Periodenlänge mit den bei der Messung mit dem System
-„Krabbe“
+ 
+ 
+ 
+                                                       
+Untersuchungsbericht 
 
-nach
+Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn) 
 
-dem
+Frequenzen von 275 Impulsen je Sekunde in transversaler bzw. 590 Impulsen je Sekunde in 
 
-Ereignis
+longitudinaler Richtung lagen. Einzelstöße erreichten dabei Werte von mehr als 2000 m/s². 
 
-festgestellten
+4.4.1  Weichenantrieb	Switchguard	ELS	710	
 
-Periodenlängen
+Der Weichenantrieb Switchguard ELS 710 der Firma Siemens Mobility GmbH erfüllte sowohl 
 
-der
+die  Funk(cid:415)on  der  Weichenstellung  als  auch  die  der  Endlagenprüfung  für  die  DKW.  Das 
 
-Richtungsfehler
+Wirkprinzip  des  Weichenantriebs  war  auf  der  Grundlage  des  Weichenantriebs 
 
-korrespondierten. Der Gutachter führte im Gutachten aus, dass ein fehlerha er Oberbau an
-der Fahrbahn bereits am Anfang der DKW sehr wahrscheinlich zu einer Anregung von
-Schwingungen führte, die sich mit zunehmender Dauer aufgrund der Befahrung ausschließlich
-durch beschleunigende Fahrzeuge mit immer denselben fahrzeugtechnischen Parametern
-verste gten und letztendlich in die gemessenen Richtungsfehler mündeten. Diese verstärkten
-sich dann sukzessive aus sich selbst heraus. Mi els der Simula onsrechnungen konnten
-Bewegungen in einer Größenordnung von bis zu acht Millimetern in ver kaler Richtung an der
+Switchguard S 700 K weiterentwickelt worden. Die Weichenzungen waren über Stellstangen 
 
-Seite 33 von 43
+mit dem Antrieb verbunden. Der Stellmechanismus funk(cid:415)onierte über eine Gewindespindel. 
 
-Untersuchungsbericht
-Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn)
+Die Rota(cid:415)onsbewegung der Spindel wurde über ein Schaltlineal in eine Transla(cid:415)onsbewegung 
 
-abliegenden Zungenspitze im Strang d, dargestellt werden. Signifikante Bewegungen an der
-abliegenden Weichenzunge im Strang d, traten bei einer Modellierung von Hohllagen von acht
-Millimetern an insgesamt zehn Schwellen, davon fünf Schwellen vor, vier Schwellen unter und
-eine Schwelle hinter den Doppelherzstücken, auf. In dieser Konfigura on entsprachen die
-Simula onsergebnisse den Verhältnissen, welche im Rahmen der Untersuchung am Unfallort
-angetroﬀen worden waren und im Wesentlichen auch den Ergebnissen der orien erenden
-Schwingungsmessungen, welche die Firma Siemens Mobility GmbH an der DKW 61W350 c/d
-im Bf Berlin‐Lichtenberg durchgeführt ha e. Die Bewegungen an der Weichenzunge setzten
-erst ein, wenn der erste Radsatz in der Simula on die Doppelherzstücke befuhr. Der Ausschlag
-nach dem Befahren durch den ersten Radsatz an einem Drehgestell war dabei jeweils höher,
-als der nach dem Befahren durch den zweiten. Die folgende Abbildung zeigt eine grafische
-Darstellung der im Ergebnis der Simula on aufgezeigten ver kalen Bewegungen an der
-rechten Weichenzunge im Strang d und deren zeitliche Abfolge im Verlauf einer Zugfahrt.
-Posi ve Ausschläge im Graphen stellen dabei Bewegungen nach unten, nega ve Ausschläge
-im Graphen Bewegungen nach oben dar. Die Doppelspitzen der Ausschläge entsprechen
-jeweils den zwei Radsätzen eines Drehgestells.
+umgewandelt,  die  einen  Stellschieber  in  die  gewünschte  Richtung  verschob.  Auf  dem 
 
-Abbildung 15: Ver kale Bewegungen an der Weichenzunge im Strang d11
+Stellschieber war eine Festhaltekupplung kra(cid:332)schlüssig befes(cid:415)gt. Über Stellstangen war der 
 
-11
+Stellschieber mit den Weichenzungen verbunden. War die Endlage erreicht, wurde einer der 
 
-Quelle: simtes KG, bearbeitet durch BEU
+beiden  Sperrschieber  durch  zwei  Druckfedern  in  einen  konisch  gestalteten  Ausschni(cid:425)  des 
 
-Seite 34 von 43
+Stellschiebers  gedrückt.  Gleichzei(cid:415)g  lief  derselbe  Sperrschieber  in  einen  Ausschni(cid:425)  des 
 
-Untersuchungsbericht
-Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn)
+Prüferschiebers,  der  die  Bewegung  der  mit 
 
-Aus den Schwingungen der Zungenspitzen resul erten laterale Bewegungen der Prüfer‐ und
-Stellstangen, die zu erheblichen direkten Kra ‐ und Schwingungseinwirkungen auf den
-Weichenantrieb führten. Die Simula onsergebnisse ergaben au retende Krä e mit Werten
-von bis zu 1.500 N. Gemäß dem Gutachten traten die Krä emaxima an der Stellstange bei den
-Bewegungen in den Weichenantrieb hinein auf. Damit wirkten sie als Druckkrä e
-gleichgerichtet zur vorhandenen Zungenrestspannungskra . Somit verstärkte sich der
-Krä eeintrag über die Stellstangen in den Weichenantrieb. Die Krä e traten erst mit dem
-Befahren der Doppelherzstücke durch den ersten Radsatz auf. In der folgenden Abbildung sind
-die an der Stellstange der DKW 61W350 c/d im Zusammenhang mit einer Zugfahrt
-au retenden Krä e in deren zeitlicher Abfolge dargestellt. Zugkrä e sind im Graphen als
-posi v abgetragen, während Druckkrä e als nega v dargestellt sind. Die Doppelspitzen
-stellen jeweils die beiden Radsätze an einem Drehgestell dar.
+ihm  verbundenen  Zungenprüferstangen 
 
-Abbildung 16: Krä e an der Stellstange12
+nachvollzog  und  die  Endlagen  abbildete,  ein.  Ein  Sperrstück,  das  mit  diesem  Sperrschieber 
 
-Laut den Simula onsberechnungen traten am oberen Prüferschieber, der mit der abliegenden
-Weichenzunge im Strang d verbunden war, ausschließlich bei der Überfahrt der Radsätze über
-die Doppelherzstücke Zugkrä e mit Ausschlägen von 0 N bis zu 1.500 N auf. Die
+formschlüssig verbunden war, wurde durch diesen mitgenommen, rastete dann in einen dafür 
 
-12
+vorgesehenen  Absatz  der  Festhaltekupplung  am  Stellschieber  ein  und  verriegelte  den 
 
-Quelle: simtes KG, bearbeitet durch BEU
+Weichenantrieb  in  der  Endlage  der  DKW.  Die  folgende  Abbildung  zeigt  eine  schema(cid:415)sche 
 
-Seite 35 von 43
+Schni(cid:425)darstellung eines Weichenantriebs Switchguard ELS 710 mit den Bezeichnungen für die 
 
-Untersuchungsbericht
-Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn)
+während  des  Unfallhergangs  wesentlichen  Bauteile.  Die  Ansicht  erfolgt  aus  Richtung  der 
 
-Belastungsspitzen setzten mit dem Befahren der Doppelherzstücke durch den ersten Radsatz
-ein. Sie deckten sich zeitlich mit den Durchgängen der Radsätze an den Doppelherzstücken,
-wobei das Maximum jeweils beim ersten Radsatz jedes Drehgestells au rat. Am unteren
-Prüferschieber, der an der linken Zunge in Strang d befes gt war, traten hingegen sofort nach
-dem Befahren der anliegenden linken Weichenzunge durch den ersten Radsatz
-Zugbelastungen von etwa 300 N an der Prüferstange auf. Kurz bevor der erste Radsatz die
-Doppelherzstücke erreichte, wirkten über die untere Prüferstange hingegen Druckkrä e in
-den Antrieb hinein, sodass im Laufe einer Zugfahrt am unteren Prüferschieber im ständigen
-Wechsel sowohl Zug‐ als auch Druckkrä e au raten. Die Krä emaxima betrugen dabei in
-Zugrichtung etwa 800 N und in Druckrichtung annähernd 2.000 N. Die maximalen Druckkrä e
-traten hier jeweils beim zweiten Radsatz jedes Drehgestells auf. Die folgende Abbildung zeigt
-den Verlauf der Krä eeinträge auf die Prüferstangen in der zeitlichen Abfolge während einer
-Zugfahrt über die DKW 61W350 c/d im Bf Berlin‐Lichtenberg. Die Krä e an der oberen
-Prüferstange sind als schwarze, die an der unteren Prüferstange als rote Linie erkennbar.
-Posi v aufgetragenen Krä e wirken als Zugkrä e aus dem Weichenantrieb hinaus, nega v
-aufgetragene Krä e als Druckkrä e in den Weichenantrieb hinein.
+Gleise, die Schni(cid:425)ebene liegt in Höhe des gleissei(cid:415)gen Sperrschiebers. 
 
-Abbildung 17: Krä e an Prüferstangen und ‐schiebern13
+Seite 18 von 43 
 
-13
+ 
+ 
+Untersuchungsbericht 
 
-Quelle: simtes KG, bearbeitet durch BEU
+Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn) 
 
-Seite 36 von 43
+Abbildung 8: Schema(cid:415)sche Schni(cid:425)darstellung des Weichenantriebs8 
 
-Untersuchungsbericht
-Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn)
+Mit 
 
-Der Gutachter stellte in seinem Fazit fest, dass Mängel im Bereich der Fahrbahn bei jeder
-Zugfahrt über die Prüfer‐ und Stellstangen zu einer Beaufschlagung des Weichenantriebes mit
-im technischen Lastenhe der DB Netz AG nicht berücksich gten Lasten führen können.
+Bescheid 
 
-Seite 37 von 43
+vom 
 
-Untersuchungsbericht
-Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn)
+18.07.2017 
 
-5 Auswertung
-Das Kapitel 5 Auswertung befasst sich mit der Ereignisrekonstruk on. Anhand der oben
-genannten Feststellungen wird ein plausibler Ablauf des gefährlichen Ereignisses
-zusammengetragen. Relevante Erkenntnisse werden anschließend bewertet und führen ggf.
-zu entsprechenden Schlussfolgerungen.
+Aktenzeichen GZ 2271 – 226ssw/002‐2203#009‐
 
-5.1 Ereignisrekonstruktion
-Der Zug S 75626, ein Halbzug mit vier Fahrzeugen der BR 481/482 fuhr nach planmäßigem
-Betriebshalt im Bf Berlin‐Lichtenberg (S‐Bahn) gegen 21:02 Uhr ab. Die Zus mmung zu der
-Zugfahrt erfolgte durch Fahrtstellung des Signals 1178.
-Während der Zug die DKW 61W350 c/d befuhr, löste sich die interne Verriegelung im
-Weichenantrieb der Bauart Switchguard ELS 710 auf. Die mechanische Verriegelung der
-DKW 61W350 c/d wurde in der Folge aufgehoben. Die anliegende linke Zunge im Strang c war
-dadurch nicht mehr in der Endlage und löste sich von der Backenschiene. In die Lücke zwischen
-Zunge und Backenschiene fuhren schließlich die linken Spurkränze aller vier Radsätze des
-letzten Wagens. Sie liefen dadurch zweispurig. Durch den entgleisten Wagen wurden im
-weiteren Verlauf die DKW 61W350 sowie die Weichen 61W349 und 61W346 erheblich
-beschädigt.
+3345789/0/17Er erfolgte durch das Eisenbahn‐Bundesamt die Zulassung des Weichenantriebs 
 
-5.2 Bewertung und Schlussfolgerung
-Das Ereignis wurde verursacht durch den Verlust der Endlage der DKW 61W350 c/d im
-Bf Berlin‐Lichtenberg (S‐Bahn). Die linke anliegende Weichenzunge verließ die Endlage,
-nachdem die interne Verriegelung im Weichenantrieb der Bauart Switchguard ELS 710
-versagte und damit der mechanische Verschluss der DKW 61W350 c/d aufgehoben wurde.
-Ursächlich für das Versagen der internen Verriegelung waren aus Einflüssen der Fahrbahn
-resul erende dauerha
+Switchguard ELS 710  für  den  Eisenbahnbetrieb.  Sie  war  befristet  bis  zum  31.08.2022.  Eine 
 
-hohe Belastungen, die durch Schwingungen und Stöße sowohl in
+wesentliche  Änderung  des  Weichenantriebs  Switchguard ELS 710  gegenüber  dem 
 
-ver kaler als auch in transversaler und insbesondere in longitudinaler Richtung in den
-Weichenantrieb eingeleitet wurden im Zusammenwirken mit einer gegenüber den Vorgaben
-laut Regelwerk deutlich überschri enen Zungenrestspannungskra .
-Ereignisursächliche Einflüsse aus den beteiligten Fahrzeugen und den betrieblichen
-Handlungen der Personale des EVU konnten ausgeschlossen werden.
+Weichenantrieb  Switchguard S 700 K  bestand  in  der  inneren  Verriegelung  mi(cid:425)els  eines 
 
-Seite 38 von 43
+Sperrstücks,  dass  formschlüssig  mit  dem  Sperrschieber  verbunden  war  und  ausschließlich 
 
-Untersuchungsbericht
-Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn)
+durch  Reibung  an  der  Kontak(cid:414)läche  mit  der  Festhaltekupplung  und  ohne  zusätzliche 
 
-5.2.1 Einflüsse aus der Fahrbahn
-Die DKW 61W350 c/d wurde funk onal als einfache Weiche genutzt, ohne sie baulich
-gegenüber dem Urzustand zu verändern. Die masseschwere, weitgehend frei bewegliche
-abliegende Weichenzunge im Strang d war ohne für den Betrieb relevante Funk on, verblieb
-aber nach Vollendung von Umbaumaßnahmen im Jahre 2019 in der Fahrbahn. Es war gerade
-dieses, für die Weichenfunk on irrelevante, masseschwere und fast uneingeschränkt
-bewegliche Teil der DKW, das durch Zugfahrten zum Schwingen angeregt wurde. Diese
-Schwingungen wurden über die Kuppelstange auf die abliegende Weichenzunge im Strang c
-übertragen. In der Folge kam es durch die Schwingungen an beiden abliegenden Zungen zu
-einem permanenten direkten Eintrag von Schwingungen und Stößen über die Prüferstangen
-und die Prüferschieber sowie die Stellstangen in den Weichenantrieb Switchguard ELS 710.
-Die DKW 61W350 wurde fast ausschließlich durch beschleunigende Fahrzeuge der
-BR 481/482 und in der Rela on von c nach a befahren. Dies führte zu permanent hohen und
-im Wesentlichen gleich gerichteten Lasteinträgen in die Fahrbahn. Infolge der einsei gen
-Belastungen aus dem laufenden Eisenbahnbetrieb kam es zu Abnutzungserscheinungen, die
-vor allem am Herzstück zwischen den Strängen c und d der DKW festgestellt wurden. Zudem
-prägten sich durch sie periodische Richtungsfehler aus, die zwar die Eingriﬀsschwellen laut Ril
-821.2001 nicht erreichten, sich aber aus sich selbst heraus sukzessive verstärkten. Die
-Vergussmasse an den im Januar 2019 mit dem Traversenverfahren der Firma
-Rhomberg Sersa AG ertüch gten Schwellen wies teilweise Risse und Ausbrüche auf. Die
-Rippenpla en ha en sich bei einigen Schwellen in das Schwellenmaterial eingearbeitet.
-Teilweise waren die Verbindungen zwischen Schienen, Rippenpla en und Schwellen nicht
-mehr kra schlüssig verspannt. Welchen Anteil die permanent einsei gen Belastungen durch
-Zugfahrten oder die Abweichung von den Einsatzbedingungen bei der Durchführung des
-Traversenverfahrens an den festgestellten Mängeln der Fahrbahn ha en, war im Rahmen der
-Untersuchung nicht feststellbar. Am linken Doppelherzstück der DKW wurde bei der
-Untersuchung eine Hohllage festgestellt, die an der linken Zunge zu Torsionsbewegungen und
-einem daraus resul erenden welligen Fahrspiegel führte. Die Tatsache, dass sich das gleiche
-Muster im Fahrspiegel nur kurze Zeit nach dem Austausch der komple en Zungenvorrichtung
-bereits wiedereingestellt ha e, ließ auf den unveränderten Fortbestand der Ursache dafür
-auch nach dem Tausch schließen. In den vorgelegten Messschrieben der Gleismessfahrzeuge
-und der Ersatzmessung mit dem System „Krabbe“ nach dem Ereignis sowie in den
+Kra(cid:332)einwirkung in seiner Posi(cid:415)on gehalten werden sollte. 
 
-Seite 39 von 43
+4.4.2  Überwachungsstörungen	 und	 Auffahrmeldungen	 für	 die	 DKW	61W350	c/d	
 
-Untersuchungsbericht
-Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn)
+im	Bf	Berlin‐Lichtenberg	(S‐Bahn)	
 
-Weichenprüfprotokollen machten sich die im Bereich der DKW 61W350 festgestellten
-Unzulänglichkeiten in der Fahrbahn jedoch nicht als Fehler bemerkbar, die nach dem der Ril
-821.2001 sofor ge oder kurzfris ge Maßnahmen zu deren Eliminierung erfordert hä en.
-Die simtes KG führte im Au rag der BEU Simula onsrechnungen der Weichenüberfahrt von
-S‐Bahn‐Zügen mit einem Mehrkörpermodell durch. Die Ergebnisse wurden in einem
-Gutachten zusammengefasst und lassen den Schluss zu, dass wesentliche Einflüsse, die
-letztendlich zum Versagen der inneren Verriegelung des Weichenantriebes führten, aus der
-vorhandenen weitgehend frei beweglichen masseschweren abliegenden Zunge des Strangs d,
-die ohne relevante Funk on für den Betrieb als einfache Weiche war, herrührten. Die
-festgestellten Unzulänglichkeiten in der Gleislage, insbesondere die Hohllagen im Bereich des
-linken Doppelherzstücks, ha en dabei einen wesentlichen Einfluss auf die Amplitude der
-Schwingungen an den abliegenden Zungenspitzen und, daraus resul erend, auf die Größe der
-über die Prüferstangen und die Stellstangen direkt in den Weichenantrieb eingeleiteten
-Krä e.
-5.2.2 Einflüsse aus der Leit‐ und Sicherungstechnik
-Der Weichenantrieb Swichguard ELS 710 war bezüglich der internen Verriegelung gegenüber
-den Vorgängermodellen wesentlich geändert. Die interne Verriegelung des Antriebes wurde
-im Gegensatz zu den Vorgängerantrieben nach dem Erreichen der Endlage nicht durch eine
-kra schlüssige Komponente in ihrer Posi on gehalten. Dadurch war der Weichenantrieb
-empfindlicher als seine Vorgänger gegen äußere Schwingungseinflüsse. Es ist anzunehmen,
-dass es an der Kontak läche zwischen dem Sperrstück und der Festhaltekupplung durch
-hochfrequente Schwingungs‐ und Stoßeinträge aus der Fahrbahn immer wieder zu einem
-Wechsel zwischen Be‐ und Entlastungen kam. Entlastungen konnten bewirken, dass die
-unzulässig hohe Zungenrestspannungskra
-Druckfedern am Sperrschieber und die Kra
+Seit  dem  06.04.2020  liefen  einschließlich  der  Meldung  unmi(cid:425)elbar  vor  dem  Ereignis  beim 
 
-kurzzei g ausreichte, um die Federkra
+zuständigen  Fdl  BSTV 1  insgesamt  zehn  Auﬀahrmeldungen  für  die  DKW 61W350 c/d  im 
 
-der
+Bf Berlin‐Lichtenberg (S‐Bahn) 
 
-aus der Ha reibung an der Kontak läche
+auf. 
 
-zwischen dem Sperrstück und der Festhaltekupplung zu überwinden. Das Sperrstück wurde
-dadurch bei Entlastungen ausreichender Größe um Millimeterbruchteile entlang der
-Kontak läche verschoben. Bei jeder dieser Verschiebungen nahm das Sperrstück den
-Sperrschieber mit. Die Verschiebung kam bei jeder Phase der Belastung zum S llstand. Die
-Bewegung des Sperrstücks in Richtung Entriegelung konnte aber auch in den Phasen der
-Entlastung nicht oder nur teilweise durch die Druckfedern am Sperrschieber reversiert
-werden. Die Versuche am Isolierstoß im Bf Diedersdorf bestä gten einerseits, dass das
+In 
 
-Seite 40 von 43
+allen 
 
-Untersuchungsbericht
-Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn)
+diesen 
 
-Ereignis in der so rekonstruierten Art und Weise abgelaufen sein könnte. Andererseits war
-anhand der Versuche aber auch erkennbar, dass der Weichenantrieb durchaus den Vorgaben
-der DIN EN 50125‐3 entsprach und ein Versagen des Antriebs erst eintrat, wenn die
-Zungenrestspannungskra
+Fällen  wurde 
 
-einen Wert von 1.500 N überschri . Inwieweit eine direkte
+zunächst 
 
-Kra einleitung aus der Fahrbahn über die Prüferschieber zum Sperrschieber einen
-beitragenden Einfluss auf die Auflösung der Verriegelung hä e haben können, war mit der im
-Bf Diedersdorf verwendeten Versuchsanordnung jedoch nicht festzustellen. Die Ergebnisse
-der Simula on der simtes KG legten indes den Schluss nahe, dass ein solcher Einfluss
-vorhanden war und damit wesentlich zum Eintri des Ereignisses beitrug. Letztendlich kam es
-durch die sukzessive Verschiebung des Sperrstücks und, damit verbunden, der des
-Sperrschiebers zunächst zur Auflösung der internen Verriegelung. Anschließend erfolgte die
-Entriegelung des Verschlusses der Weiche, was zum Verlust von deren Endlage und zur
-Entgleisung des Zuges führte.
-5.2.3 Einflüsse aus den betrieblichen Handlungen des EIU
-Durch den Bediener wurde nach Ril 482.9001 die Schlussfolgerung getroﬀen, dass die
-Auﬀahrmeldungen unzei g erfolgten. Alle Bedienhandlungen im Zusammenhang mit den
-unzei gen Auﬀahrmeldungen im ESTW fanden nach Ril 482.9001 zulässig sta . Es konnten
-keine Bedienhandlungen im ESTW festgestellt werden, die als ereignisursächlich eingestu
-wurden.
-Es ist davon auszugehen, dass die unzei gen Auﬀahrmeldungen durch die Verringerung oder
-den
+„UEBERWACHUNGSSTOERUNG“  und  danach  „AUFGEFAHREN“  gemeldet.  Anschließend 
 
-vollständigen
+wurde durch den zuständigen Fdl „Aufgefahrene Weiche umstellen“ (AWU) als zählpﬂich(cid:415)ge 
 
-Verlust
+Bedienhandlung  durchgeführt. 
 
-der
+Zusätzlich  wurde  am  14.04.2020  eine  weitere 
 
-Verschlussüberdeckung
+8 Quelle: Siemens Mobility GmbH, bearbeitet durch BEU 
 
-im
+Seite 19 von 43 
 
-Weichenantrieb
+ 
+ 
+ 
+                                                       
+Untersuchungsbericht 
 
-Switchguard ELS 710 ausgelöst wurden.
-Die DKW 61W350 c/d wurde überwiegend in der gleichen Stellung befahren. Häufige
-Umstellvorgänge waren aus diesem Grund nicht erforderlich. Die Verringerung der
-Verschlussüberdeckung innerhalb des Weichenantriebs wurde durch die geringe Anzahl an
-Stellbewegungen begüns gt. Jeder Umstellvorgang hä e die interne Verriegelung wieder
-vollständig hergestellt. Die Verringerung der Verschlussüberdeckung oder eine gelöste interne
-Verriegelung hä e lediglich unmi elbar nach der unzei gen Auﬀahrmeldung und vor der
-Bedienhandlung zur Herstellung einer Endlage, direkt am Weichenantrieb, erkannt werden
-können. Die Bedienhandlungen des Fdl erfolgten nach Ril 482.9001 zulässig. Das mögliche
+Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn) 
 
-Seite 41 von 43
+Überwachungsstörung dokumen(cid:415)ert. Näheres zu den Störungsmeldungen ist dem Kapitel 4.5 
 
-Untersuchungsbericht
-Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn)
+zu entnehmen. 
 
-Fehlen von Meldungen an die EVZS und fehlende Einträge im ASB sind aufgrund der oben
-genannten Tatsache der Erkennbarkeit ebenfalls nicht als ereignisursächlich anzusehen.
-Der Zeitraum zwischen unzei ger Auﬀahrmeldung und der letzten Umstellung der
-DKW 61W350 c/d variierte zwischen 03:46 h und 15:10 h. Ein Zusammenhang zwischen dem
-Verfahren der Umstellung der Weichen innerhalb von 24 Stunden und der Auflösung der
-internen Verriegelung ließ sich nicht feststellen.
+4.4.3  Untersuchung	des	Weichenantriebs	 an	der	DKW	61W350	c/d	 im	 Bf	Berlin‐
 
-Seite 42 von 43
+Lichtenberg	(S‐Bahn)	
 
-Untersuchungsbericht
-Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn)
+Nach  dem  Ereignis  wurde  der  Weichenantrieb  der  DKW 61W350 c/d 
 
-6 Bisher getroffene Maßnahmen
-Die DB Netz AG wies als Sofortmaßnahme an, dass alle Weichen, die mit einem
-Weichenantrieb der Bauform Switchguard ELS 710 ausgerüstet waren, spätestens alle vier
-Stunden einmal umzustellen waren. Die Antriebe der Bauart Switchguard ELS 710 wurden
-zwischenzeitlich durch Antriebe anderer Bauarten ersetzt. Die Firma Siemens Mobility GmbH
-hat den Antrieb der Bauart Switchguard ELS 710 konstruk v in einer Art und Weise verändert,
-dass unbeabsich gte Bewegungen des Sperrstücks vollständig unterbunden bzw. reversiert
-werden.
+im  Bf Berlin‐
 
-7 Sicherheitsempfehlungen
-Auf
+Lichtenberg (S‐Bahn)  demon(cid:415)ert  und  in  amtliche  Verwahrung  genommen.  Es  wurde  ein 
 
-Grund
+Weichenantrieb  der  Bauart  Switchguard S 700 K  eingebaut.  Der  Weichenantrieb  der 
 
-der
+DKW 61W350 c/d 
 
-erfolgten
+im  Bf Berlin‐Lichtenberg (S‐Bahn),  der  zum  Unfallzeitpunkt  an  der 
 
-Maßnahmen
+Unfallstelle verbaut war, wurde bei der Siemens Mobility GmbH im Beisein der DB Netz AG 
 
-des
+auf  verschiedenen  Prüfständen  eingehenden  Prüfungen  unterzogen,  ohne  dass 
 
-Infrastrukturbetreibers
+Funk(cid:415)onsbeeinträch(cid:415)gungen  oﬀenbar  wurden.  Darau(cid:300)in  wurde  er  demon(cid:415)ert  und  weiter 
 
-und
+untersucht.  Die  Untersuchung  ergab  weder  am  Gehäuse  noch  an  den  beweglichen  Teilen 
 
-des
+auﬀällige  Beschädigungen,  Beeinträch(cid:415)gungen  oder  Maßabweichungen,  die  als 
 
-Weichenantriebherstellers wurde auf eine Sicherheitsempfehlung verzichtet.
+ereignisursächlich  hä(cid:425)en  eingeordnet  werden  können.  Daher  wurde  der  Fokus  der 
 
-Seite 43 von 43
+weiterführenden  Untersuchungen  auf  die  Funk(cid:415)onalität  des  Weichenantriebes  und  die  im 
 
+Zusammenhang  mit  den  Fahrbahnkomponenten  der  DKW 61W350 c/d  au(cid:332)retenden 
+
+Kra(cid:332)einträge  in  den  Weichenantrieb  gelegt.  Die  maßgeblichen  Anforderungen  für  die 
+
+Konstruk(cid:415)on  von  Weichenantrieben  waren  durch  die  DB Netz AG  in  einem  technischen 
+
+Lastenhe(cid:332)  niedergeschrieben.  Für  die  Vorgaben  hinsichtlich  der  Resistenz  gegen 
+
+Erschü(cid:425)erungen  aus  dem  Eisenbahnverkehr  wurde  in  dem  Lastenhe(cid:332)  Bezug  auf  die 
+
+Europäische  Norm  (EN)  in  der  deutschen  Fassung  DIN EN 50125‐3  –  Bahnanwendungen  – 
+
+Umweltbedingungen  für  Betriebsmi(cid:425)el  –  genommen.  Laut  DIN EN 50125‐3  waren  für  die 
+
+unterschiedlichen  Gleisposi(cid:415)onen  von  Weichenantrieben  Werte  für  Beschleunigungen 
+
+entsprechend der folgenden Abbildung anzuwenden. 
+
+Abbildung 9 Auszug aus DIN EN 50125‐3 Eﬀek(cid:415)vwerte für Beschleunigungen 
+
+Seite 20 von 43 
+
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn) 
+
+Dabei  waren  die  Wirkrichtungen  der  Beschleunigungen  gemäß  der  DIN  EN  50125‐3 
+
+entsprechend der folgenden Abbildung deﬁniert. 
+
+Abbildung 10: Wirkrichtungen der einwirkenden Beschleunigungen gemäß DIN EN 50125‐3 
+
+Für Beanspruchungen durch Stöße in ver(cid:415)kaler Richtung waren in der DIN EN 50125‐3 für die 
+
+verschiedenen Gleisposi(cid:415)onen die Werte entsprechend der folgenden Abbildung anzusetzen. 
+
+Abbildung 11: Werte für Stöße in ver(cid:415)kaler Richtung gemäß DIN EN 50125‐3 
+
+Die  Firma  Siemens Mobility GmbH  wies  darauf  hin,  dass  alle  im  technischen  Lastenhe(cid:332)  für 
+
+Weichenantriebe  enthaltenen  Anforderungen  in  Hinsicht  auf  Konstruk(cid:415)on  und  Betrieb  des 
+
+Weichenantriebes  vollständig  erfüllt  gewesen  seien.  Die  Messergebnisse  an  der 
+
+DKW 61W350 c/d im Bf Berlin‐Lichtenberg (S‐Bahn) überschri(cid:425)en dauerha(cid:332) und wesentlich 
+
+die  gemäß  der  DIN EN 50125‐3  für  die  konstruk(cid:415)ve  Gestaltung  von  Weichenantrieben 
+
+anzuwendenden  Werte  für  Beschleunigungen  und  Stöße  bei  einem  Einsatzpunkt  auf  der 
+
+Schwelle oder im Gleisbe(cid:425). Für die direkt über die Prüferstangen und Prüferschieber in den 
+
+Weichenantrieb eingeleiteten Beschleunigungen und Stöße fanden sich in der einschlägigen 
+
+DIN EN 50125‐3 keinerlei Entsprechungen. 
+
+Seite 21 von 43 
+
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn) 
+
+Durch die DB Netz AG wurden im Bf Diedersdorf mit Hilfe eines speziellen Versuchsau(cid:297)aus 
+
+das  Verhalten  von  vier  verschiedenen  Antrieben,  drei  der  Bauart  Switchguard ELS 710, 
+
+darunter der Unfallantrieb, und ein Antrieb der Bauart Switchguard S 700 K, getestet. Mit der 
+
+Versuchsanordnung  wurde  das  Verhalten  der  Weichenantriebe  bei  unterschiedlich  hohen 
+
+Zungenrestspannungskrä(cid:332)en  getestet.  Die  Zungenrestspannungskrä(cid:332)e  wurden  bei  den 
+
+Versuchen über Druckfedern, die über eine Traverse mit dem Stellschieber verbunden waren, 
+
+simuliert.  Die  Lagereisen  des  Weichenantriebs  wurden  am  Schienenfuß  befes(cid:415)gt,  was 
+
+bezüglich  au(cid:332)retender  Schwingungen  den  strengsten  Vorgaben  laut  der  DIN EN 50125‐3, 
+
+Abschni(cid:425) 4.13 – Schwingungen und Stöße –entsprach. Die Befes(cid:415)gung der Lagereisen direkt 
+
+neben  einem  stark  abgenutzten  Isolierstoß  sollte  Stöße  ver(cid:415)kaler  Richtung,  wie  sie  den 
+
+Anforderungen der DIN EN 50125‐3 entsprachen, unter besonders erschwerten Bedingungen 
+
+darstellen.  Stöße  in  horizontaler  und  in  longitudinaler  Richtung,  die  nachweislich  an  der 
+
+DKW 61W350 c/d  im  Bf Berlin‐Lichtenberg (S‐Bahn)  direkt  über  die  Prüferstangen  in  den 
+
+Weichenantrieb eingeleitet wurden, waren mit diesem Versuchsau(cid:297)au nicht darstellbar. Mit 
+
+der Versuchsanordnung war jedoch feststellbar, ob die untersuchten Weichenantriebe den 
+
+Bedingungen  nach  DIN EN 50125‐3  entsprachen.  Die  Simula(cid:415)on  eines  Bewegungs‐  oder 
+
+Krä(cid:332)eeintrags  aus  der  rechten  abliegenden  Weichenzunge  über  die  Prüferschieber  in  den 
+
+Weichenantrieb,  wie  er  in  der  Einbausitua(cid:415)on  an  der  DKW 61W350 c/d  im  Bf Berlin 
+
+Lichtenberg (S‐Bahn) nachweislich erfolgte, war mit dieser Versuchsanordnung hingegen nicht 
+
+möglich. 
+
+Die  folgende  Abbildung  zeigt  die  Versuchsanordnung  bei  den  Untersuchungen 
+
+im 
+
+Bf Diedersdorf. 
+
+Seite 22 von 43 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn) 
+
+Abbildung 12: Versuchsanordnung in Bf Diedersdorf9 
+
+Die Ergebnisse aus den Untersuchungen des Weichenantriebs bei der Siemens Mobility GmbH 
+
+und der DB Netz AG gingen in einen technischen Analysebericht der Siemens Mobility GmbH 
+
+und  in  zwei  Untersuchungsberichte  der  DB Netz AG,  einer  für  den  Bereich  der  Leit‐  und 
+
+Sicherungstechnik  und  einer  für  den  Bereich  der  bautechnischen  Infrastruktur  ein,  die  im 
+
+Folgenden zusammenfassend dargestellt sind. 
+
+Die Siemens Mobility GmbH stellte in ihrem technischen Analysebericht die Wirkke(cid:425)e, die zur 
+
+Auﬂösung der inneren Verriegelung und letztendlich zur Entgleisung des Zuges S 75626 führte, 
+
+wie folgt dar: 
+
+9 Quelle: Analysebericht Siemens Mobility GmbH, bearbeitet durch die BEU 
+
+Seite 23 von 43 
+
+ 
+ 
+ 
+                                                       
+Untersuchungsbericht 
+
+Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn) 
+
+„[…] Die am Sperrstück anliegende Seite vom Kupplungsgehäuse verfügt über eine 5,7° 
+
+Schräge. Wird diese Schräge durch die extern am Stellschieber anliegende 
+
+Zungenrestspannungskra(cid:332) FZRS gegen das Sperrstück gedrückt und wirken gleichzei(cid:415)g 
+
+Stoßbelastungen (Fs) in longitudinaler Entriegelungsrichtung, kommt es zur Auﬂösung der 
+
+Ha(cid:332)‐/ Gleitreibung der anliegenden Flächen. Als Folge dessen, bewegt sich das Sperrstück 
+
+schri(cid:425)weise in die zum Entriegeln erforderliche Richtung. Je nach Höhe und Dauer der 
+
+anliegenden Krä(cid:332)e und Belastungen wirken (sic!), ist eine vollständige Entriegelung 
+
+möglich. […]“ 
+
+Bei einer Zungenrestspannungskra(cid:332) von 2.000 N kam es in der Testreihe im Bf Diedersdorf für 
+
+den  Weichenantrieb  der  DKW 61W350 c/d 
+
+im  Bf Berlin‐Lichtenberg (S‐Bahn)  nach  24 
+
+Betriebsstunden  und  ca.  4.400  Achsdurchgängen  am  Isolierstoß  zu  einer  Reduzierung  der 
+
+Überdeckung auf 0,5 mm. Bei einem zweiten, in den Jahren von 2013 bis 2019 benutzten und 
+
+entsprechend abgenutzten Weichenantrieb der Bauart Switchguard ELS 710, kam es nach 75 
+
+Betriebsstunden  zur  Auﬂösung  der 
+
+internen  Verriegelung.  Am  dri(cid:425)en  getesteten 
+
+Weichenantrieb der Bauart Switchguard ELS 710, einem neuen Antrieb, zeigte sich die interne 
+
+Verriegelung  nach  ca.  50  Betriebsstunden  unverändert.  Laut  der  Aufstellung  aus  dem 
+
+Analysebericht  führte  eine  Zungenrestspannungskra(cid:332)  von  1.500 N  bei  keinem  der  drei 
+
+getesteten Weichenantriebe der Bauart Switchguard ELS 710 zu einer kri(cid:415)schen Reduzierung 
+
+der Überdeckung, die zu einer Auﬂösung der internen Verriegelung hä(cid:425)e führen können. 
+
+Am beprobten Weichenantrieb der Bauart Switchguard S 700 K blieb die interne Verriegelung 
+
+auch  nach  70  Betriebsstunden  und  bei  einer  Zungenrestspannungskra(cid:332)  von  2.000 N 
+
+unverändert. 
+
+Im 
+
+Analysebericht 
+
+der 
+
+Firma 
+
+Siemens Mobility GmbH 
+
+wurde 
+
+aus 
+
+den 
+
+Untersuchungsergebnissen folgendes Fazit gezogen: 
+
+„Im Unfallantrieb wurde die interne Verriegelung, welche für die Weichenantriebsfunk(cid:415)on 
+
+„Festhalten in Endlage“ erforderlich ist, durch die am Unfallort wirkende 
+
+Zungenrestspannungskra(cid:332) und durch die am Unfallort beim Befahren der Unfallweiche 
+
+entstehenden Stoß‐ / Schwingungsbelastungen schri(cid:425)weise bzw. zum Unfallzeitpunkt 
+
+vollständig aufgelöst. 
+
+Seite 24 von 43 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn) 
+
+Nach Auﬂösen der internen Verriegelung, zog die abliegende Zunge mit der am Unfallort 
+
+wirkenden Zungenrestspannungskra(cid:332) die Verschlussstange in Richtung 
+
+„Weichenmi(cid:425)ellage“, sodass es zum Entriegeln des äußeren Verschlusses kam. …“ 
+
+Im  Untersuchungsbericht  des  Fachdienstes  für  die  Leit‐  und  Sicherungstechnik  bei  der 
+
+DB Netz AG wurden die Ergebnisse und Erkenntnisse aus dem technischen Analysebericht der 
+
+Siemens Mobility GmbH im Wesentlichen bestä(cid:415)gt. 
+
+Feststellung zur Untersuchung der Leit‐ und Sicherungstechnik 
+
+Lfd. Nr.4 
+
+An  der  DKW 61W350 c/d  im  Bf Berlin‐Lichtenberg (S‐Bahn)  war  ein  Weichenantrieb  der 
+
+Bauform Switchguard ELS 710 verbaut. 
+
+Die  interne  Verriegelung  des  Weichenantriebs  Switchguard ELS 710  war  gegenüber  dem 
+
+Vorgänger des Weichenantriebes, dem Switchguard S 700 K konstruk(cid:415)v verändert.  
+
+Ein  Versagen  der  internen  Verriegelung  des  Weichenantriebes  führte  zur  Au(cid:300)ebung  des 
+
+Verschlusses und zum Verlust der Endlage der DKW. 
+
+Die  zulässigen  Werte  für  die  Zungenrestspannungskra(cid:332)  laut  Ril 892.03  waren  bei  der 
+
+Inbetriebnahme  der  DKW 61W350 c/d  um  ca.  25 %  überschri(cid:425)en.  Nach  der  Entgleisung 
+
+wurde eine Zungenrestspannungskra(cid:332) 1.770 N gemessen 
+
+Im technischen Lastenhe(cid:332) für Weichenantriebe waren die Vorgaben für die konstruk(cid:415)ve 
+
+Gestaltung enthalten. Für Beschleunigungen in ver(cid:415)kaler, transversaler und longitudinaler 
+
+Richtung sowie für Stöße in ver(cid:415)kaler Richtung waren die Ansätze aus der DIN EN 50125‐3 
+
+maßgebend.  An  der  DKW 61W350 c/d  wurden  durch  die  Firma  Siemens Mobility GmbH 
+
+orien(cid:415)erende  Messungen  zur  Feststellung  des  Belastungsniveaus  und  der  örtlichen 
+
+Verteilung  der  Belastungen  vorgenommen,  die  dauerha(cid:332)  wesentlich 
+
+stärkere 
+
+Beschleunigungen und Stöße, als sie in der DIN EN 50125‐3 für die konstruk(cid:415)ve Gestaltung 
+
+der Weichenantriebe angesetzt wurden, zum Ergebnis ha(cid:425)en. 
+
+4.5  Untersuchung	der	betrieblichen	Abläufe	des	Infrastrukturbetreibers	
+
+Für  die  Durchführung  der  Zugfahrt  S 75626  waren  betriebliche  Handlungen  durch  den 
+
+zuständigen Fdl Strausberg in der Betriebszentrale der S‐Bahn Berlin GmbH erforderlich. Die 
+
+Seite 25 von 43 
+
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn) 
+
+entsprechenden  Aufgaben  waren  in  der  Ril 408  –  Fahrdienstvorschri(cid:332)  sowie  dem  Bebu 
+
+beschrieben. 
+
+Die Auswertung der Stellwerksdaten ergab, dass es bereits seit dem 06.04.2020 mehrfach zu 
+
+Auﬀälligkeiten,  in  Form  von  Störungsmeldungen,  an  der  DKW 61W350 c/d  kam.  Die 
+
+generierten 
+
+Störungen 
+
+lauteten 
+
+jeweils 
+
+zunächst 
+
+„WEICHE  BBKS  61W350CD 
+
+UEBERWACHUNGSSTOERUNG“ 
+
+und 
+
+im 
+
+Folgenden 
+
+„WEICHE 
+
+BBKS 
+
+61W350CD 
+
+AUFGEFAHREN“. Der Bediener des ESTW musste nach Ril 482.9001 prüfen ob es sich um eine 
+
+tatsächliche  oder  eine  unzei(cid:415)ge  Auﬀahrmeldung  handelte.  Das  Auﬀahren  einer  Weiche 
+
+bedeutet, diese vom Herzstück aus in der falschen Lage zu befahren und dadurch mit dem 
+
+Spurkranz des Rades die anliegende Weichenzunge von der Backenschiene zu en(cid:414)ernen. Zur 
+
+Erkennung von unzei(cid:415)gen Auﬀahrmeldungen sah die Ril 482.9001 nach Abschni(cid:425) 12 Absatz 
+
+(4) folgende Regeln vor: 
+
+„[…] Eine Weiche gilt als nicht aufgefahren bzw. eine Flachkreuzung als nicht bei falscher 
+
+Stellung der Herzstückspitzen befahren, wenn die Auﬀahrmeldung 
+
+‐  Während einer Zugfahrt au(cid:332)rat, die durch Fahrtstellung eines Hauptsignals 
+
+zugelassen wurde oder 
+
+‐  Beim Rangieren über Rangierstraßen au(cid:332)rat und der Triebfahrzeugführer oder 
+
+Rangierbegleiter bestä(cid:415)gt, dass die Weiche nicht aufgefahren bzw. die Flachkreuzung 
+
+nicht bei falscher Stellung der Herzstückspitzen befahren wurde.“ 
+
+Die  Ril 482.9001  Abschni(cid:425)  12  Absätze  (1)  und  (2)  sahen  vor,  unzei(cid:415)ge  Auﬀahrmeldungen 
+
+sofort an die für die Entstörungsveranlassung zuständige Stelle (EVZS) zu melden und sie in 
+
+das Arbeits‐ und Störungsbuch (ASB) einzutragen. 
+
+Die 
+
+folgende  Tabelle  gibt  eine  Übersicht  über  alle  Überwachungsstörungen  und 
+
+Auﬀahrmeldungen die seit dem 06.04.2020 an der DKW 61W350 c/d generiert wurden: 
+
+Lfd. 
+Nummer 
+
+1 
+
+2 
+
+3 
+
+Datum 
+
+Uhrzeit 
+
+Generierte Meldungen 
+
+06.04.2020  17:38:14  Überwachungsstörung 
+
+Aufgefahren 
+
+07.04.2020  15:41:56  Überwachungsstörung 
+
+Aufgefahren 
+
+07.04.2020  21:27:21  Überwachungsstörung 
+
+Aufgefahren 
+
+Seite 26 von 43 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn) 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+08.04.2020  19:04:44  Überwachungsstörung 
+
+Aufgefahren 
+
+09.04.2020  16:32:27  Überwachungsstörung 
+
+Aufgefahren 
+
+10.04.2020  17:34:59  Überwachungsstörung 
+
+Aufgefahren 
+
+11.04.2020  17:24:58  Überwachungsstörung 
+
+Aufgefahren 
+
+12.04.2020  15:47:29  Überwachungsstörung 
+
+Aufgefahren 
+
+12.04.2020  19:34:59  Überwachungsstörung 
+
+10 
+
+15.04.2020  21:02:xx 
+
+Aufgefahren 
+
+Überwachungsstörung 
+Aufgefahren 
+
+Tabelle 5: ESTW‐Meldungen der DKW 61W350CD 
+
+Für  die  lfd.  Nummer  1  wurde  der  Eintrag  mit  der  Nummer  165  im  ASB  angelegt,  die  EVZS 
+
+wurde verständigt. Arbeiten und deren Beendigung konnten nicht explizit zugeordnet werden, 
+
+da ein weiterer Eintrag im ASB mit der Nummerierung 165 angelegt wurde. 
+
+Die lfd. Nummer 2 wurde im Eintrag 168 im ASB vermerkt und ebenfalls an die EVZS gemeldet. 
+
+Am gleichen Tag fanden Arbeiten zur Entstörung der DKW 61W350 c/d sta(cid:425). 
+
+Zur lfd. Nummer 3 wurde kein Eintrag im ASB angelegt. 
+
+Die lfd. Nummer 4 wurde mit dem Eintrag 172 im ASB vermerkt und an die EVZS gemeldet. Es 
+
+erfolgte  kein  Eintrag  über  Arbeiten an  der  DKW  und  deren Beendigung,  der Eintrag  wurde 
+
+dennoch geschlossen. 
+
+Im  Eintrag  177  des  ASB  wurde  die  lfd.  Nummer  5  dokumen(cid:415)ert,  die  Meldung  an  die  EVZS 
+
+erfolgte.  Am  selbigen  Tag  wurden  Arbeiten  zur  Entstörung  eingetragen,  welche  gegen 
+
+20:00 Uhr  unterbrochen  und  am  14.04.2020  gegen  01:00 Uhr,  nach 
+
+fünf  Tagen, 
+
+wiederaufgenommen  wurden.  Die  Auﬀahrmeldungen  im  Zeitraum  der  unterbrochenen 
+
+Arbeitszeit des laufenden Störfalls wurden nicht nochmalig dokumen(cid:415)ert. 
+
+Ril 482.9001 Abschni(cid:425) 12 Absatz (4) regelte folgendes Verfahren: 
+
+„Erscheint bei einer Weiche oder Flachkreuzung die Auﬀahrmeldung und kann der 
+
+Bediener feststellen, dass die Weiche nicht aufgefahren bzw. die Flachkreuzung nicht bei 
+
+falscher Stellung der Herzstückspitzen befahren wurde, liegt ein Fehler in der 
+
+Seite 27 von 43 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn) 
+
+Zungenüberwachungseinrichtung vor. Die Weiche bzw. Flachkreuzung ist durch 
+
+Hilfsbedienung in eine Endlage zu stellen und anschließend zweimal durch 
+
+Einzelbedienung umzustellen. Die Weiche gilt in der Stellung, in der die Ordnungsstellung 
+
+angezeigt wird, als nicht gestört.“ 
+
+Die Hilfsbedienhandlung musste zwangsläuﬁg vor dem Sta(cid:426)inden der nächsten Zugfahrt auf 
+
+Hauptsignal durchgeführt werden. Sowohl durch die Hilfsbedienung als auch den folgenden 
+
+Umstellvorgang der DKW 61W350 c/d wurde der Verschluss wieder vollständig hergestellt. 
+
+Weiter regelte Ril 482.9001 Abschni(cid:425) 7 Absatz (4) Folgendes: 
+
+„Ferngestellte Weichen, Gleissperren, Flachkreuzungen und Riegel sind innerhalb von 24 
+
+Stunden einmal umzustellen. […]“ 
+
+Das Bebu konkre(cid:415)siert diese Maßnahmen wie folgt: 
+
+„Um Fehlermeldungen an selten benutzten Weichen bzw. Gleissperren etc. zu oﬀenbaren, 
+
+müssen Sie alle Weichen im Steuerbereich jeweils einmal pro Tag mit Beginn der 
+
+nächtlichen Betriebspause bzw. im Zeitraum des Nachverkehrs bis spätestens 4:00 Uhr 
+
+umstellen. 
+
+Konnten Weichen oder Gleissperren in dieser Zeit nicht umgestellt werden, übergibt der 
+
+Fdl der Nachtschicht an den Fdl der Frühschicht im Übergabebuch, welche Weichen oder 
+
+Gleissperren nicht umgestellt werden konnten. 
+
+Das probeweise Umstellen der Weichen oder Gleissperren ist unmi(cid:425)elbar nach 
+
+Arbeitsaufnahme bis spätestens 10:00 Uhr des laufenden Tages nachzuholen. Weichen 
+
+oder Gleissperren die nicht bis spätestens 10:00 Uhr umgestellt wurden, sind der EVZS zu 
+
+melden, um den Umstellvorgang von einem besonders eingewiesenen Mitarbeiter 
+
+beobachten zu lassen. 
+
+Weichen die nicht bis 14:00 Uhr des laufenden Tages probeweise umgestellt wurden 
+
+dürfen nicht mehr befahren werden, bis die Fachkra(cid:332) LST eine Ersatzmaßnahme an der 
+
+betroﬀenen Weiche durchgeführt hat. 
+
+Abweichend davon müssen Sie alle Weichen mit zwei oder mehreren Weichenverschlüssen 
+
+(Mi(cid:425)elverschluss) in allen Hauptgleisen mindestens einmal in acht Stunden umstellen.“ 
+
+Die folgende Tabelle bringt die generierten unzei(cid:415)gen Auﬀahrmeldungen in Verbindung mit 
+
+dem vergangenen Zeitraum seit der letzten Umstellung der DKW 61W350 c/d. 
+
+Seite 28 von 43 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn) 
+
+Lfd. 
+Nummer 
+
+Datum und Uhrzeit 
+der unzei(cid:415)gen 
+Auﬀahrmeldung 
+
+Datum und 
+Umstellung 
+
+Uhrzeit der letzten 
+
+Vergangener 
+Zeitraum seit der 
+letzten Umstellung 
+[h] 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+06.04.2020  17:38:14  06.04.2020 
+
+03:13 
+
+07.04.2020  15:41:56  07.04.2020 
+
+00:31 
+
+07.04.2020  21:27:21  07.04.2020 
+
+15:43 
+
+08.04.2020  19:04:44  08.04.2020 
+
+13:17 
+
+09.04.2020  16:32:27  09.04.2020 
+
+04:16 
+
+10.04.2020  17:34:59  10.04.2020 
+
+11:43 
+
+11.04.2020  17:24:58  11.04.2020 
+
+08:47 
+
+12.04.2020  15:47:29  12.04.2020 
+
+10:48 
+
+12.04.2020  19:34:59  12.04.2020 
+
+15:48 
+
+10 
+
+15.04.2020  21:02 
+
+15.04.2020 
+
+08:47 
+
+Tabelle 6: Auﬀahrmeldungen mit Zeitraum seit der letzten Umstellung 
+
+14:45 
+
+15:10 
+
+05:44 
+
+05:47 
+
+12:16 
+
+05:51 
+
+08:37 
+
+04:59 
+
+03:46 
+
+12:15 
+
+Der  kürzeste  Zeitraum  zwischen  der  letzten  Umstellung  und  der  Auﬀahrmeldung  umfasste 
+
+3:46 h. Der längste Zeitraum belief sich auf 15:10 h. 
+
+Feststellung zur Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers 
+
+Lfd. Nr. 6 
+
+Seit dem 06.04.2020 wurden fast täglich Überwachungsstörungen und Auﬀahrmeldungen 
+
+an der DKW 61W350 c/d generiert. 
+
+Nach Ril 482.9001 wurde die Meldung als unzei(cid:415)ge Auﬀahrmeldung gewertet. 
+
+Das Verfahren zum Umgang mit unzei(cid:415)gen Auﬀahrmeldungen sah vor die DKW durch die 
+
+AWU  Bedienung  in  eine  Endlage  zu  bringen.  Der  Verschluss  wurde  durch  die  Bedienung 
+
+AWU wieder vollständig hergestellt. 
+
+Seite 29 von 43 
+
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn) 
+
+4.6  Untersuchung	der	betrieblichen	Abläufe	der	EVU	
+
+Die  Dienstleistung  der  Personenbeförderung  wurde  durch  das  EVU  S‐Bahn Berlin GmbH 
+
+erbracht.  Der  Zug  S 75626  fuhr 
+
+im  Regelbetrieb  von  B(cid:332) Berlin‐Wartenberg  nach 
+
+Bf Berlin Ostbahnhof (S‐Bahn). 
+
+Für die Zugfahrt war eine maximale Geschwindigkeit von 80 km/h im untersuchten Abschni(cid:425) 
+
+vorgegeben,  welche  gemäß  der  elektronischen  Fahrtregistrierung  (EFR)  auch  nicht 
+
+überschri(cid:425)en  wurde.  Die  au(cid:297)ereiteten  Fahrdaten  wurden  der  BEU  durch  das  EVU  zur 
+
+Verfügung  gestellt.  Sie  wurden  durch  die  BEU  überprü(cid:332)  und  als  plausibel  bewertet.  Die 
+
+folgenden Ausführungen stützen sich auf die Auswertung des EVU. Die Normierung erfolgte 
+
+zeitlich  auf  den  letzten  Halt  der  S 75626  im  Bf Berlin‐Lichtenberg (S‐Bahn),  örtlich  auf  den 
+
+Standort des Signals Ne 5 in km 4,541. Die angegebenen Zeiten sind normierte Systemzeiten, 
+
+welche mit der Realzeit um eine Stunde divergieren. Die folgende Abbildung beinhaltet die 
+
+graﬁsche und die tabellarische Darstellung des Fahrtverlaufs zwischen Abfahrt am Bahnsteig 
+
+und der ereignisbedingten Entlü(cid:332)ung der Hauptlu(cid:332)leitung mit anschließendem S(cid:415)llstand. 
+
+Abbildung 13: Graﬁsche und tabellarische Darstellung des Fahrtverlaufs des Zuges S 7562610 
+
+Es waren keine sons(cid:415)gen Auﬀälligkeiten in den Fahrdaten zu erkennen. Die Geschwindigkeit 
+
+s(cid:415)eg kon(cid:415)nuierlich an, was dem regulären Beschleunigungsverhalten von ca. 1 m/s² an dieser 
+
+10 Quelle: S‐Bahn Berlin, bearbeitet durch BEU 
+
+Seite 30 von 43 
+
+ 
+ 
+ 
+                                                       
+Untersuchungsbericht 
+
+Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn) 
+
+Stelle der Abfahrt aus Bf Berlin‐Lichtenberg (S Bahn) entsprach. Gegen 21:02:27 Uhr wurde 
+
+ein  Druckabfall  in  der  Hauptlu(cid:332)leitung  unter  2,2 bar  registriert,  was  den  Zeitpunkt  der 
+
+Unterbrechung der Sicherheitsbremsschleife markiert.  
+
+Ereignisursächliche Handlungen seitens der Personale des EVU waren nicht erkennbar. Daher 
+
+wurden  personenbezogene  Daten  zu  den  beteiligten  Personalen  nicht  erhoben  und  keine 
+
+weiteren Untersuchungen angestellt. 
+
+Feststellung zur Untersuchung der betrieblichen Abläufe des EVU 
+
+Lfd. Nr. 7 
+
+Ereignisursächliche  Einﬂüsse  aus  den  Handlungen  der  Personale  des  EVU  wurden  nicht 
+
+festgestellt. 
+
+Seite 31 von 43 
+
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn) 
+
+4.7  Untersuchung	von	Fahrzeugen	
+
+Die  Triebwagen  des  Zuges  S 75626  befand  sich  im  Eigentum  der  S‐Bahn Berlin GmbH  und 
+
+verkehrten als Halbzug in der Konﬁgura(cid:415)on 481 382 – 482 382 – 482 334 – 481 334. Zwischen 
+
+den jeweiligen Wagen der Konﬁgura(cid:415)on 481 xxx – 482 xxx befand sich ein ca. 80 cm langer 
+
+Übergang  mit  Faltenbalg.  Entsprechend  wurde  der  Wagen  481 xxx  als  A‐Wagen  und  das 
+
+korrespondierende Gegenstück 482 xxx als B‐Wagen bezeichnet. Der B‐Wagen verfügte über 
+
+zwei Triebdrehgestelle, der A‐Wagen über ein Triebdrehgestell unter dem Führerstand und 
+
+ein Laufdrehgestell. 
+
+Abbildung 14:Fahrzeugkonﬁgura(cid:415)on BR 481/482 (Viertelzug) 
+
+Aus der folgenden Tabelle lassen sich die technischen Fahrzeugdaten entnehmen: 
+
+Antriebsart 
+
+Trak(cid:415)onsleistung 
+
+Gesamtlänge (LüP) 
+
+Masse 
+
+Höchstgeschwindigkeit 
+
+Radsatzfolge 
+
+elektrisch 
+
+594 kW 
+
+36.800 mm 
+
+59.000 kg 
+
+80km/h 
+
+Bo‘2‘+Bo’Bo‘ 
+
+Zugsicherungssystem 
+
+Mechanische Fahrsperre / ZBS 
+
+Tabelle 7: Technische Daten des Triebwagens 
+
+Das entgleiste Fahrzeug 481 334 lief an vierter Stelle des Verbandes und verlor mit beiden 
+
+Drehgestellen die Spurführung. 
+
+Ereignisursächliche  Einﬂüsse  aus  den  Fahrzeugen  konnten  aufgrund  der  an  der  Unfallstelle 
+
+vorgefundenen Situa(cid:415)on und der ersten Untersuchungsergebnisse ausgeschlossen werden. 
+
+Die festgestellten Schäden an den Fahrzeugen wurden als Unfallfolgen iden(cid:415)ﬁziert. 
+
+Seite 32 von 43 
+
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn) 
+
+Feststellung zur Untersuchung der Fahrzeuge 
+
+Lfd. Nr. 8 
+
+Ereignisursächliche Einﬂüsse aus den Fahrzeugen ergab die Untersuchung nicht. 
+
+4.8  Mehrkörpersimulation	der	Interaktion	
+
+Fahrzeug	–	Fahrbahn	–	Weichenantrieb	
+
+Um  das  Zusammenwirken  zwischen  Fahrzeug,  Fahrbahn  und  Weichenantrieb  und  die 
+
+Einﬂüsse aus den beteiligten Komponenten auf die Entwicklung des Ereignisses bewerten zu 
+
+können,  wurde  die  simtes KG  durch  die  BEU  mit  der  Durchführung  von  Mehrkörper‐
+
+Simula(cid:415)onen  der  Weichenüberfahrt  von  S‐Bahn‐Zügen  beau(cid:332)ragt.  Die  Ergebnisse  der 
+
+Simula(cid:415)onen  wurden  in  einem  Gutachten  zusammengefasst.  Der  Inhalt  dieses  Gutachtens 
+
+geht in diesen Abschni(cid:425) des Untersuchungsberichts ein. 
+
+Bei  der  Erarbeitung  des  Berechnungsmodells  ﬂossen  als  Eingangsgrößen  die  Konﬁgura(cid:415)on 
+
+und  Geschwindigkeiten  der 
+
+S‐Bahn‐Fahrzeuge,  die  Konstruk(cid:415)onsparameter  der 
+
+DKW 61W350 c/d unter Berücksich(cid:415)gung der besonderen Einsatzbedingungen im Bf Berlin‐
+
+Lichtenberg sowie die Aspekte der Lagerung des Weichenantriebs auf den Schwellen bzw. im 
+
+Gleisbe(cid:425) ein. Es wurden zunächst die Rad‐Schiene‐Interak(cid:415)on mit einer idealen Fahrbahn und 
+
+idealen Fahrzeugen und die daraus resul(cid:415)erenden Kra(cid:332)‐ und Schwingungseinträge auf den 
+
+Weichenantrieb  als  Referenzwerte  ermi(cid:425)elt.  Danach  wurden  mehrere  Varianten  von 
+
+Einzelwagen und Zugfahrten mit Viertelzügen, welche die im Rahmen von Ersatzmessungen 
+
+mit dem System „Krabbe“ festgestellten Gleislagefehler und die op(cid:415)sch festgestellten, aber 
+
+nicht  quan(cid:415)ﬁzierten  Mängel  in  der  Fahrbahn  simulierten,  berechnet.  Die  Simula(cid:415)on  der 
+
+Zugfahrten ergab bei Zugfahrten mit Viertelzügen Querverschiebungen von mindestens vier 
+
+Millimetern,  die  hinsichtlich  der  Periodenlänge  mit  den  bei  der  Messung  mit  dem  System 
+
+„Krabbe“  nach  dem  Ereignis 
+
+festgestellten  Periodenlängen  der  Richtungsfehler 
+
+korrespondierten. Der Gutachter führte im Gutachten aus, dass ein fehlerha(cid:332)er Oberbau an 
+
+der  Fahrbahn  bereits  am  Anfang  der  DKW  sehr  wahrscheinlich  zu  einer  Anregung  von 
+
+Schwingungen führte, die sich mit zunehmender Dauer aufgrund der Befahrung ausschließlich 
+
+durch  beschleunigende  Fahrzeuge  mit  immer  denselben  fahrzeugtechnischen  Parametern 
+
+verste(cid:415)gten und letztendlich in die gemessenen Richtungsfehler mündeten. Diese verstärkten 
+
+sich  dann  sukzessive  aus  sich  selbst  heraus.  Mi(cid:425)els  der  Simula(cid:415)onsrechnungen  konnten 
+
+Bewegungen in einer Größenordnung von bis zu acht Millimetern in ver(cid:415)kaler Richtung an der 
+
+Seite 33 von 43 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn) 
+
+abliegenden Zungenspitze im Strang d, dargestellt werden. Signiﬁkante Bewegungen an der 
+
+abliegenden Weichenzunge im Strang d, traten bei einer Modellierung von Hohllagen von acht 
+
+Millimetern an insgesamt zehn Schwellen, davon fünf Schwellen vor, vier Schwellen unter und 
+
+eine  Schwelle  hinter  den  Doppelherzstücken,  auf.  In  dieser  Konﬁgura(cid:415)on  entsprachen  die 
+
+Simula(cid:415)onsergebnisse den Verhältnissen, welche im Rahmen der Untersuchung am Unfallort 
+
+angetroﬀen worden waren und im Wesentlichen auch den Ergebnissen der  orien(cid:415)erenden 
+
+Schwingungsmessungen, welche die Firma Siemens Mobility GmbH an der DKW 61W350 c/d 
+
+im Bf Berlin‐Lichtenberg durchgeführt ha(cid:425)e. Die Bewegungen an der Weichenzunge setzten 
+
+erst ein, wenn der erste Radsatz in der Simula(cid:415)on die Doppelherzstücke befuhr. Der Ausschlag 
+
+nach dem Befahren durch den ersten Radsatz an einem Drehgestell war dabei jeweils höher, 
+
+als der nach dem Befahren durch den zweiten. Die folgende Abbildung zeigt eine graﬁsche 
+
+Darstellung  der  im  Ergebnis  der  Simula(cid:415)on  aufgezeigten  ver(cid:415)kalen  Bewegungen  an  der 
+
+rechten  Weichenzunge  im  Strang  d  und  deren  zeitliche  Abfolge  im  Verlauf  einer  Zugfahrt. 
+
+Posi(cid:415)ve Ausschläge im Graphen stellen dabei Bewegungen nach unten, nega(cid:415)ve Ausschläge 
+
+im  Graphen  Bewegungen  nach  oben  dar.  Die  Doppelspitzen  der  Ausschläge  entsprechen 
+
+jeweils den zwei Radsätzen eines Drehgestells. 
+
+Abbildung 15: Ver(cid:415)kale Bewegungen an der Weichenzunge im Strang d11 
+
+11 Quelle: simtes KG, bearbeitet durch BEU 
+
+Seite 34 von 43 
+
+ 
+ 
+ 
+ 
+                                                       
+Untersuchungsbericht 
+
+Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn) 
+
+Aus den Schwingungen der Zungenspitzen resul(cid:415)erten laterale Bewegungen der Prüfer‐ und 
+
+Stellstangen,  die  zu  erheblichen  direkten  Kra(cid:332)‐  und  Schwingungseinwirkungen  auf  den 
+
+Weichenantrieb führten. Die Simula(cid:415)onsergebnisse ergaben au(cid:332)retende Krä(cid:332)e mit Werten 
+
+von bis zu 1.500 N. Gemäß dem Gutachten traten die Krä(cid:332)emaxima an der Stellstange bei den 
+
+Bewegungen 
+
+in  den  Weichenantrieb  hinein  auf.  Damit  wirkten  sie  als  Druckkrä(cid:332)e 
+
+gleichgerichtet  zur  vorhandenen  Zungenrestspannungskra(cid:332).  Somit  verstärkte  sich  der 
+
+Krä(cid:332)eeintrag  über  die  Stellstangen  in  den  Weichenantrieb.  Die  Krä(cid:332)e  traten  erst  mit  dem 
+
+Befahren der Doppelherzstücke durch den ersten Radsatz auf. In der folgenden Abbildung sind 
+
+die  an  der  Stellstange  der  DKW 61W350 c/d  im  Zusammenhang  mit  einer  Zugfahrt 
+
+au(cid:332)retenden  Krä(cid:332)e  in  deren  zeitlicher  Abfolge  dargestellt.  Zugkrä(cid:332)e  sind  im  Graphen  als 
+
+posi(cid:415)v  abgetragen,  während  Druckkrä(cid:332)e  als  nega(cid:415)v  dargestellt  sind.  Die  Doppelspitzen 
+
+stellen jeweils die beiden Radsätze an einem Drehgestell dar. 
+
+Abbildung 16: Krä(cid:332)e an der Stellstange12 
+
+Laut den Simula(cid:415)onsberechnungen traten am oberen Prüferschieber, der mit der abliegenden 
+
+Weichenzunge im Strang d verbunden war, ausschließlich bei der Überfahrt der Radsätze über 
+
+die  Doppelherzstücke  Zugkrä(cid:332)e  mit  Ausschlägen  von  0 N  bis  zu  1.500 N  auf.  Die 
+
+12 Quelle: simtes KG, bearbeitet durch BEU 
+
+Seite 35 von 43 
+
+ 
+ 
+ 
+                                                       
+Untersuchungsbericht 
+
+Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn) 
+
+Belastungsspitzen setzten mit dem Befahren der Doppelherzstücke durch den ersten Radsatz 
+
+ein. Sie deckten sich zeitlich mit den Durchgängen der Radsätze an den Doppelherzstücken, 
+
+wobei  das  Maximum  jeweils  beim  ersten  Radsatz  jedes  Drehgestells  au(cid:332)rat.  Am  unteren 
+
+Prüferschieber, der an der linken Zunge in Strang d befes(cid:415)gt war, traten hingegen sofort nach 
+
+dem  Befahren  der  anliegenden 
+
+linken  Weichenzunge  durch  den  ersten  Radsatz 
+
+Zugbelastungen von etwa  300 N an der  Prüferstange auf.  Kurz bevor der  erste Radsatz die 
+
+Doppelherzstücke  erreichte,  wirkten  über  die  untere  Prüferstange  hingegen  Druckkrä(cid:332)e  in 
+
+den Antrieb hinein, sodass im Laufe einer Zugfahrt am unteren Prüferschieber im ständigen 
+
+Wechsel  sowohl  Zug‐  als  auch  Druckkrä(cid:332)e  au(cid:332)raten.  Die  Krä(cid:332)emaxima  betrugen  dabei  in 
+
+Zugrichtung etwa 800 N und in Druckrichtung annähernd 2.000 N. Die maximalen Druckkrä(cid:332)e 
+
+traten hier jeweils beim zweiten Radsatz jedes Drehgestells auf. Die folgende Abbildung zeigt 
+
+den Verlauf der Krä(cid:332)eeinträge auf die Prüferstangen in der zeitlichen Abfolge während einer 
+
+Zugfahrt  über  die  DKW 61W350 c/d  im  Bf Berlin‐Lichtenberg.  Die  Krä(cid:332)e  an  der  oberen 
+
+Prüferstange  sind  als  schwarze,  die  an  der  unteren  Prüferstange  als  rote  Linie  erkennbar. 
+
+Posi(cid:415)v  aufgetragenen  Krä(cid:332)e  wirken  als  Zugkrä(cid:332)e  aus  dem  Weichenantrieb  hinaus,  nega(cid:415)v 
+
+aufgetragene Krä(cid:332)e als Druckkrä(cid:332)e in den Weichenantrieb hinein. 
+
+Abbildung 17: Krä(cid:332)e an Prüferstangen und ‐schiebern13 
+
+13 Quelle: simtes KG, bearbeitet durch BEU 
+
+Seite 36 von 43 
+
+ 
+ 
+ 
+                                                       
+Untersuchungsbericht 
+
+Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn) 
+
+Der  Gutachter  stellte  in  seinem  Fazit  fest,  dass  Mängel  im  Bereich  der  Fahrbahn  bei  jeder 
+
+Zugfahrt über die Prüfer‐ und Stellstangen zu einer Beaufschlagung des Weichenantriebes mit 
+
+im technischen Lastenhe(cid:332) der DB Netz AG nicht berücksich(cid:415)gten Lasten führen können. 
+
+Seite 37 von 43 
+
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn) 
+
+5  Auswertung	
+
+Das  Kapitel  5  Auswertung  befasst  sich  mit  der  Ereignisrekonstruk(cid:415)on.  Anhand  der  oben 
+
+genannten  Feststellungen  wird  ein  plausibler  Ablauf  des  gefährlichen  Ereignisses 
+
+zusammengetragen. Relevante Erkenntnisse werden anschließend bewertet und führen ggf. 
+
+zu entsprechenden Schlussfolgerungen. 
+
+5.1  Ereignisrekonstruktion	
+
+Der  Zug  S 75626,  ein  Halbzug  mit  vier  Fahrzeugen  der  BR 481/482  fuhr  nach  planmäßigem 
+
+Betriebshalt  im  Bf Berlin‐Lichtenberg (S‐Bahn)  gegen  21:02 Uhr  ab.  Die  Zus(cid:415)mmung  zu  der 
+
+Zugfahrt erfolgte durch Fahrtstellung des Signals 1178. 
+
+Während  der  Zug  die  DKW 61W350 c/d  befuhr,  löste  sich  die  interne  Verriegelung  im 
+
+Weichenantrieb  der  Bauart  Switchguard ELS 710  auf.  Die  mechanische  Verriegelung  der 
+
+DKW 61W350 c/d wurde in der Folge aufgehoben. Die anliegende linke Zunge im Strang c war 
+
+dadurch nicht mehr in der Endlage und löste sich von der Backenschiene. In die Lücke zwischen 
+
+Zunge  und  Backenschiene  fuhren  schließlich  die  linken  Spurkränze  aller  vier  Radsätze  des 
+
+letzten  Wagens.  Sie  liefen  dadurch  zweispurig.  Durch  den  entgleisten  Wagen  wurden  im 
+
+weiteren  Verlauf  die  DKW 61W350  sowie  die  Weichen  61W349  und  61W346  erheblich 
+
+beschädigt. 
+
+5.2  Bewertung	und	Schlussfolgerung	
+
+Das  Ereignis  wurde  verursacht  durch  den  Verlust  der  Endlage  der  DKW 61W350 c/d  im 
+
+Bf Berlin‐Lichtenberg (S‐Bahn).  Die  linke  anliegende  Weichenzunge  verließ  die  Endlage, 
+
+nachdem  die  interne  Verriegelung  im  Weichenantrieb  der  Bauart  Switchguard ELS 710 
+
+versagte  und  damit  der  mechanische  Verschluss  der  DKW 61W350 c/d  aufgehoben  wurde. 
+
+Ursächlich  für  das  Versagen  der  internen  Verriegelung  waren  aus  Einﬂüssen  der  Fahrbahn 
+
+resul(cid:415)erende  dauerha(cid:332)  hohe  Belastungen,  die  durch  Schwingungen  und  Stöße  sowohl  in 
+
+ver(cid:415)kaler  als  auch  in  transversaler  und  insbesondere  in  longitudinaler  Richtung  in  den 
+
+Weichenantrieb eingeleitet wurden im Zusammenwirken mit einer gegenüber den Vorgaben 
+
+laut Regelwerk deutlich überschri(cid:425)enen Zungenrestspannungskra(cid:332). 
+
+Ereignisursächliche  Einﬂüsse  aus  den  beteiligten  Fahrzeugen  und  den  betrieblichen 
+
+Handlungen der Personale des EVU konnten ausgeschlossen werden. 
+
+Seite 38 von 43 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn) 
+
+5.2.1  Einflüsse	aus	der	Fahrbahn	
+
+Die  DKW 61W350 c/d  wurde  funk(cid:415)onal  als  einfache  Weiche  genutzt,  ohne  sie  baulich 
+
+gegenüber  dem  Urzustand  zu  verändern.  Die  masseschwere,  weitgehend  frei  bewegliche 
+
+abliegende Weichenzunge im Strang d war ohne für den Betrieb relevante Funk(cid:415)on, verblieb 
+
+aber nach Vollendung von Umbaumaßnahmen im Jahre 2019 in der Fahrbahn. Es war gerade 
+
+dieses,  für  die  Weichenfunk(cid:415)on  irrelevante,  masseschwere  und  fast  uneingeschränkt 
+
+bewegliche  Teil  der  DKW,  das  durch  Zugfahrten  zum  Schwingen  angeregt  wurde.  Diese 
+
+Schwingungen wurden über die Kuppelstange auf die abliegende Weichenzunge im Strang c 
+
+übertragen. In der Folge kam es durch die Schwingungen an beiden abliegenden Zungen zu 
+
+einem permanenten direkten Eintrag von Schwingungen und Stößen über die Prüferstangen 
+
+und die Prüferschieber sowie die Stellstangen in den Weichenantrieb Switchguard ELS 710. 
+
+Die  DKW 61W350  wurde  fast  ausschließlich  durch  beschleunigende  Fahrzeuge  der 
+
+BR 481/482 und in der Rela(cid:415)on von c nach a befahren. Dies führte zu permanent hohen und 
+
+im  Wesentlichen  gleich  gerichteten  Lasteinträgen  in  die  Fahrbahn.  Infolge  der  einsei(cid:415)gen 
+
+Belastungen aus dem laufenden Eisenbahnbetrieb kam es zu Abnutzungserscheinungen, die 
+
+vor allem am Herzstück zwischen den Strängen c und d der DKW festgestellt wurden. Zudem 
+
+prägten sich durch sie periodische Richtungsfehler aus, die zwar die Eingriﬀsschwellen laut Ril 
+
+821.2001  nicht  erreichten,  sich  aber  aus  sich  selbst  heraus  sukzessive  verstärkten.  Die 
+
+Vergussmasse  an  den 
+
+im 
+
+Januar  2019  mit  dem  Traversenverfahren  der  Firma 
+
+Rhomberg Sersa AG  ertüch(cid:415)gten  Schwellen  wies  teilweise  Risse  und  Ausbrüche  auf.  Die 
+
+Rippenpla(cid:425)en  ha(cid:425)en  sich  bei  einigen  Schwellen  in  das  Schwellenmaterial  eingearbeitet. 
+
+Teilweise  waren  die  Verbindungen  zwischen  Schienen,  Rippenpla(cid:425)en  und  Schwellen  nicht 
+
+mehr kra(cid:332)schlüssig verspannt. Welchen Anteil die permanent einsei(cid:415)gen Belastungen durch 
+
+Zugfahrten  oder  die  Abweichung  von  den  Einsatzbedingungen  bei  der  Durchführung  des 
+
+Traversenverfahrens an den festgestellten Mängeln der Fahrbahn ha(cid:425)en, war im Rahmen der 
+
+Untersuchung  nicht  feststellbar.  Am  linken  Doppelherzstück  der  DKW  wurde  bei  der 
+
+Untersuchung eine Hohllage festgestellt, die an der linken Zunge zu Torsionsbewegungen und 
+
+einem daraus resul(cid:415)erenden welligen Fahrspiegel führte. Die Tatsache, dass sich das gleiche 
+
+Muster im Fahrspiegel nur kurze Zeit nach dem Austausch der komple(cid:425)en Zungenvorrichtung 
+
+bereits  wiedereingestellt  ha(cid:425)e,  ließ  auf  den  unveränderten  Fortbestand  der  Ursache  dafür 
+
+auch nach dem Tausch schließen. In den vorgelegten Messschrieben der Gleismessfahrzeuge 
+
+und  der  Ersatzmessung  mit  dem  System  „Krabbe“  nach  dem  Ereignis  sowie  in  den 
+
+Seite 39 von 43 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn) 
+
+Weichenprüfprotokollen  machten  sich  die  im  Bereich  der  DKW 61W350  festgestellten 
+
+Unzulänglichkeiten in der Fahrbahn jedoch nicht als Fehler bemerkbar, die nach dem der Ril 
+
+821.2001 sofor(cid:415)ge oder kurzfris(cid:415)ge Maßnahmen zu deren Eliminierung erfordert hä(cid:425)en. 
+
+Die simtes KG führte im Au(cid:332)rag der BEU Simula(cid:415)onsrechnungen der Weichenüberfahrt von 
+
+S‐Bahn‐Zügen  mit  einem  Mehrkörpermodell  durch.  Die  Ergebnisse  wurden  in  einem 
+
+Gutachten  zusammengefasst  und  lassen  den  Schluss  zu,  dass  wesentliche  Einﬂüsse,  die 
+
+letztendlich zum Versagen der inneren Verriegelung des Weichenantriebes führten, aus der 
+
+vorhandenen weitgehend frei beweglichen masseschweren abliegenden Zunge des Strangs d, 
+
+die  ohne  relevante  Funk(cid:415)on  für  den  Betrieb  als  einfache  Weiche  war,  herrührten.  Die 
+
+festgestellten Unzulänglichkeiten in der Gleislage, insbesondere die Hohllagen im Bereich des 
+
+linken  Doppelherzstücks,  ha(cid:425)en  dabei  einen  wesentlichen  Einﬂuss  auf  die  Amplitude  der 
+
+Schwingungen an den abliegenden Zungenspitzen und, daraus resul(cid:415)erend, auf die Größe der 
+
+über  die  Prüferstangen  und  die  Stellstangen  direkt  in  den  Weichenantrieb  eingeleiteten 
+
+Krä(cid:332)e. 
+
+5.2.2  Einflüsse	aus	der	Leit‐	und	Sicherungstechnik	
+
+Der Weichenantrieb Swichguard ELS 710 war bezüglich der internen Verriegelung gegenüber 
+
+den Vorgängermodellen wesentlich geändert. Die interne Verriegelung des Antriebes wurde 
+
+im Gegensatz zu den Vorgängerantrieben nach dem Erreichen der Endlage nicht durch eine 
+
+kra(cid:332)schlüssige  Komponente  in  ihrer  Posi(cid:415)on  gehalten.  Dadurch  war  der  Weichenantrieb 
+
+empﬁndlicher als seine Vorgänger gegen äußere Schwingungseinﬂüsse. Es ist anzunehmen, 
+
+dass  es  an  der  Kontak(cid:414)läche  zwischen  dem  Sperrstück  und  der  Festhaltekupplung  durch 
+
+hochfrequente  Schwingungs‐  und  Stoßeinträge  aus  der  Fahrbahn  immer  wieder  zu  einem 
+
+Wechsel  zwischen  Be‐  und  Entlastungen  kam.  Entlastungen  konnten  bewirken,  dass  die 
+
+unzulässig  hohe  Zungenrestspannungskra(cid:332)  kurzzei(cid:415)g  ausreichte,  um  die  Federkra(cid:332)  der 
+
+Druckfedern  am  Sperrschieber  und  die  Kra(cid:332)  aus  der  Ha(cid:332)reibung  an  der  Kontak(cid:414)läche 
+
+zwischen dem Sperrstück und der Festhaltekupplung zu überwinden. Das Sperrstück wurde 
+
+dadurch  bei  Entlastungen  ausreichender  Größe  um  Millimeterbruchteile  entlang  der 
+
+Kontak(cid:414)läche  verschoben.  Bei  jeder  dieser  Verschiebungen  nahm  das  Sperrstück  den 
+
+Sperrschieber mit. Die Verschiebung kam bei jeder Phase der Belastung zum S(cid:415)llstand. Die 
+
+Bewegung  des  Sperrstücks  in  Richtung  Entriegelung  konnte  aber  auch  in  den  Phasen  der 
+
+Entlastung  nicht  oder  nur  teilweise  durch  die  Druckfedern  am  Sperrschieber  reversiert 
+
+werden.  Die  Versuche  am  Isolierstoß  im  Bf Diedersdorf  bestä(cid:415)gten  einerseits,  dass  das 
+
+Seite 40 von 43 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn) 
+
+Ereignis in der so rekonstruierten Art und Weise abgelaufen sein könnte. Andererseits war 
+
+anhand der Versuche aber auch erkennbar, dass der Weichenantrieb durchaus den Vorgaben 
+
+der  DIN EN 50125‐3  entsprach  und  ein  Versagen  des  Antriebs  erst  eintrat,  wenn  die 
+
+Zungenrestspannungskra(cid:332)  einen  Wert  von  1.500 N  überschri(cid:425).  Inwieweit  eine  direkte 
+
+Kra(cid:332)einleitung  aus  der  Fahrbahn  über  die  Prüferschieber  zum  Sperrschieber  einen 
+
+beitragenden Einﬂuss auf die Auﬂösung der Verriegelung hä(cid:425)e haben können, war mit der im 
+
+Bf  Diedersdorf  verwendeten  Versuchsanordnung  jedoch  nicht  festzustellen.  Die  Ergebnisse 
+
+der  Simula(cid:415)on  der  simtes KG  legten  indes  den  Schluss  nahe,  dass  ein  solcher  Einﬂuss 
+
+vorhanden war und damit wesentlich zum Eintri(cid:425) des Ereignisses beitrug. Letztendlich kam es 
+
+durch  die  sukzessive  Verschiebung  des  Sperrstücks  und,  damit  verbunden,  der  des 
+
+Sperrschiebers zunächst zur Auﬂösung der internen Verriegelung. Anschließend erfolgte die 
+
+Entriegelung  des  Verschlusses  der  Weiche,  was  zum  Verlust  von  deren  Endlage  und  zur 
+
+Entgleisung des Zuges führte. 
+
+5.2.3  Einflüsse	aus	den	betrieblichen	Handlungen	des	EIU	
+
+Durch  den  Bediener  wurde  nach  Ril 482.9001  die  Schlussfolgerung  getroﬀen,  dass  die 
+
+Auﬀahrmeldungen  unzei(cid:415)g  erfolgten.  Alle  Bedienhandlungen  im  Zusammenhang  mit  den 
+
+unzei(cid:415)gen Auﬀahrmeldungen im ESTW fanden nach Ril 482.9001 zulässig sta(cid:425). Es konnten 
+
+keine  Bedienhandlungen  im  ESTW  festgestellt werden,  die  als  ereignisursächlich  eingestu(cid:332) 
+
+wurden. 
+
+Es ist davon auszugehen, dass die unzei(cid:415)gen Auﬀahrmeldungen durch die Verringerung oder 
+
+den 
+
+vollständigen 
+
+Verlust 
+
+der 
+
+Verschlussüberdeckung 
+
+im  Weichenantrieb 
+
+Switchguard ELS 710 ausgelöst wurden. 
+
+Die  DKW 61W350 c/d  wurde  überwiegend  in  der  gleichen  Stellung  befahren.  Häuﬁge 
+
+Umstellvorgänge  waren  aus  diesem  Grund  nicht  erforderlich.  Die  Verringerung  der 
+
+Verschlussüberdeckung  innerhalb  des  Weichenantriebs  wurde  durch  die  geringe Anzahl  an 
+
+Stellbewegungen  begüns(cid:415)gt.  Jeder  Umstellvorgang  hä(cid:425)e  die  interne  Verriegelung  wieder 
+
+vollständig hergestellt. Die Verringerung der Verschlussüberdeckung oder eine gelöste interne 
+
+Verriegelung  hä(cid:425)e  lediglich  unmi(cid:425)elbar  nach  der  unzei(cid:415)gen  Auﬀahrmeldung  und  vor  der 
+
+Bedienhandlung zur Herstellung  einer  Endlage, direkt am Weichenantrieb, erkannt werden 
+
+können.  Die  Bedienhandlungen  des  Fdl  erfolgten  nach  Ril 482.9001  zulässig.  Das  mögliche 
+
+Seite 41 von 43 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn) 
+
+Fehlen  von  Meldungen  an  die  EVZS  und  fehlende  Einträge  im  ASB  sind  aufgrund  der  oben 
+
+genannten Tatsache der Erkennbarkeit ebenfalls nicht als ereignisursächlich anzusehen. 
+
+Der  Zeitraum  zwischen  unzei(cid:415)ger  Auﬀahrmeldung  und  der 
+
+letzten  Umstellung  der 
+
+DKW 61W350 c/d variierte zwischen 03:46 h und 15:10 h. Ein Zusammenhang zwischen dem 
+
+Verfahren  der  Umstellung  der  Weichen  innerhalb  von  24 Stunden  und  der  Auﬂösung  der 
+
+internen Verriegelung ließ sich nicht feststellen. 
+
+Seite 42 von 43 
+
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugentgleisung, 15.04.2020, Bahnhof Berlin‐Lichtenberg (S‐Bahn) 
+
+6  Bisher	getroffene	Maßnahmen	
+
+Die  DB Netz AG  wies  als  Sofortmaßnahme  an,  dass  alle  Weichen,  die  mit  einem 
+
+Weichenantrieb  der  Bauform  Switchguard ELS 710  ausgerüstet  waren,  spätestens  alle  vier 
+
+Stunden  einmal  umzustellen  waren.  Die  Antriebe  der  Bauart  Switchguard ELS 710  wurden 
+
+zwischenzeitlich durch Antriebe anderer Bauarten ersetzt. Die Firma Siemens Mobility GmbH 
+
+hat den Antrieb der Bauart Switchguard ELS 710 konstruk(cid:415)v in einer Art und Weise verändert, 
+
+dass unbeabsich(cid:415)gte Bewegungen des Sperrstücks vollständig unterbunden bzw. reversiert 
+
+werden. 
+
+7  Sicherheitsempfehlungen	
+
+Auf  Grund  der  erfolgten  Maßnahmen  des 
+
+Infrastrukturbetreibers  und  des 
+
+Weichenantriebherstellers wurde auf eine Sicherheitsempfehlung verzichtet. 
+
+Seite 43 von 43 
+
+ 
+ 
 

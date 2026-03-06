@@ -1,2015 +1,2907 @@
-Untersuchungsbericht
-Aktenzeichen:
+Untersuchungsbericht 
 
-BEU-uu2020-07/011-3323
+Aktenzeichen: 
 
-Stand:
+BEU-uu2020-07/011-3323 
 
-22.07.2025
+Stand: 
 
-Erstveröﬀentlichung:
+22.07.2025  Version 1.0 
 
-24.07.2025
+Erstveröﬀentlichung:  24.07.2025 
 
-Version 1.0
+Gefährliches	Ereignis	im	Eisenbahnbetrieb 
 
-Gefährliches Ereignis im Eisenbahnbetrieb
+Ereignisart: 
 
-Ereignisart:
+Bahnübergangsunfall 
 
-Bahnübergangsunfall
+Datum: 
 
-Datum:
+Zeit: 
 
-27.07.2020
+27.07.2020 
 
-Zeit:
+18:15 Uhr 
 
-18:15 Uhr
+Benachbarte Betriebsstellen:  
 
-Benachbarte Betriebsstellen:
+Hp Großwalbur – Hp Meeder 
 
-Hp Großwalbur – Hp Meeder
+Streckennummer: 
 
-Streckennummer:
+Kilometer: 
 
-5122
+5122 
 
-Kilometer:
+8,615 
 
-8,615
+ 
+	
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Untersuchungsbericht
-Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder
+Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder 
 
-Veröﬀentlicht durch:
-Bundesstelle für Eisenbahnunfalluntersuchung
-Heinemannstraße 6
-53175 Bonn
+Veröﬀentlicht durch: 
 
-Untersuchungsbericht
-Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder
+Bundesstelle für Eisenbahnunfalluntersuchung 
 
-Inhaltsverzeichnis
-I.
+Heinemannstraße 6 
 
-Änderungsverzeichnis: ......................................................................................... III
+53175 Bonn 
 
-II.
+ 
+Untersuchungsbericht 
 
-Abbildungsverzeichnis: ........................................................................................ IV
+Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder 
 
-III.
+Inhaltsverzeichnis	
 
-Tabellenverzeichnis: ............................................................................................ IV
+I. 
 
-IV.
+II. 
 
-Abkürzungsverzeichnis: ........................................................................................ V
+Änderungsverzeichnis: ......................................................................................... III 
 
-0
+Abbildungsverzeichnis: ........................................................................................ IV 
 
-Vorbemerkung...................................................................................................... 1
+III. 
 
-1
+Tabellenverzeichnis: ............................................................................................ IV 
 
-Zusammenfassung ................................................................................................ 2
+IV. 
 
-1.1
+Abkürzungsverzeichnis: ........................................................................................ V 
 
-Kurzbeschreibung des Ereignisses........................................................................... 2
+0 
 
-1.2
+1 
 
-Folgen ...................................................................................................................... 2
+1.1 
 
-1.3
+1.2 
 
-Ursachen.................................................................................................................. 2
+1.3 
 
-1.4
+1.4 
 
-Sicherheitsempfehlungen ....................................................................................... 3
+2 
 
-2
+3 
 
-Die Untersuchung und ihr Kontext ........................................................................ 4
+Vorbemerkung ...................................................................................................... 1 
 
-3
+Zusammenfassung ................................................................................................ 2 
 
-Beschreibung des Ereignisses................................................................................ 6
+Kurzbeschreibung des Ereignisses ........................................................................... 2 
 
-3.1
+Folgen ...................................................................................................................... 2 
 
-Informationen über das Ereignis und seine Hintergründe ..................................... 6
+Ursachen .................................................................................................................. 2 
 
-3.1.1
+Sicherheitsempfehlungen ....................................................................................... 3 
 
-Lage und Beschreibung des Ereignisortes ............................................................... 6
+Die Untersuchung und ihr Kontext ........................................................................ 4 
 
-3.1.2
+Beschreibung des Ereignisses ................................................................................ 6 
 
-Beteiligte.................................................................................................................. 7
+3.1 
 
-3.1.3
+Informationen über das Ereignis und seine Hintergründe ..................................... 6 
 
-Äußere Bedingungen ............................................................................................... 8
+3.1.1 
 
-3.1.4
+Lage und Beschreibung des Ereignisortes ............................................................... 6 
 
-Todesopfer, Verletzte und Sachschäden................................................................. 8
+3.1.2 
 
-3.2
+Beteiligte.................................................................................................................. 7 
 
-Sachliche Beschreibung der Vorkommnisse ........................................................... 9
+3.1.3 
 
-3.2.1
+Äußere Bedingungen ............................................................................................... 8 
 
-Hergangsbeschreibung ............................................................................................ 9
+3.1.4 
 
-3.2.2
+Todesopfer, Verletzte und Sachschäden ................................................................. 8 
 
-Notfallmanagement .............................................................................................. 11
+3.2 
 
-4
+Sachliche Beschreibung der Vorkommnisse ........................................................... 9 
 
-Auswertung des Ereignisses ................................................................................ 12
+3.2.1 
 
-4.1
+Hergangsbeschreibung ............................................................................................ 9 
 
-Aufgaben und Pflichten ......................................................................................... 12
+3.2.2 
 
-4.1.1
+Notfallmanagement .............................................................................................. 11 
 
-Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers ................. 12
+4 
 
-I
+4.1 
 
-Untersuchungsbericht
-Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder
+Auswertung des Ereignisses ................................................................................ 12 
 
-4.1.2
+Aufgaben und Pflichten ......................................................................................... 12 
 
-Untersuchung der betrieblichen Abläufe der EVU ................................................ 13
+4.1.1 
 
-4.1.3
+Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers ................. 12 
 
-Pflichten des Straßenbaulastträgers ..................................................................... 14
+I 
 
-4.1.4
+ 
+ 
+Untersuchungsbericht 
 
-Pflichten der Beteiligten an der Verkehrsschau .................................................... 15
+Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder 
 
-4.1.5
+4.1.2 
 
-Pflichten des Landratsamtes Coburg..................................................................... 16
+Untersuchung der betrieblichen Abläufe der EVU ................................................ 13 
 
-4.2
+4.1.3 
 
-Fahrzeuge und technische Einrichtungen ............................................................. 17
+Pflichten des Straßenbaulastträgers ..................................................................... 14 
 
-4.2.1
+4.1.4 
 
-Untersuchung von Fahrzeugen ............................................................................. 17
+Pflichten der Beteiligten an der Verkehrsschau .................................................... 15 
 
-4.2.2
+4.1.5 
 
-Untersuchung der bautechnischen Infrastruktur ................................................. 17
+Pflichten des Landratsamtes Coburg..................................................................... 16 
 
-4.2.3
+4.2 
 
-Untersuchung der Leit- und Sicherungstechnik .................................................... 24
+Fahrzeuge und technische Einrichtungen ............................................................. 17 
 
-4.3
+4.2.1 
 
-Menschliche Faktoren ........................................................................................... 25
+Untersuchung von Fahrzeugen ............................................................................. 17 
 
-4.3.1
+4.2.2 
 
-Inspektion des BÜ und die Sichtflächen durch die DB Netz AG ............................ 25
+Untersuchung der bautechnischen Infrastruktur ................................................. 17 
 
-4.3.2
+4.2.3 
 
-Inspektion des BÜ und die Sichtflächen durch die Gemeinde Meeder ................ 25
+Untersuchung der Leit- und Sicherungstechnik .................................................... 24 
 
-4.3.3
+4.3 
 
-Beteiligte des Infrastrukturbetreibers................................................................... 29
+Menschliche Faktoren ........................................................................................... 25 
 
-4.3.4
+4.3.1 
 
-Beteiligte der EVU ................................................................................................. 29
+Inspektion des BÜ und die Sichtflächen durch die DB Netz AG ............................ 25 
 
-4.3.5
+4.3.2 
 
-Beteiligter Straßenverkehrsteilnehmer................................................................. 29
+Inspektion des BÜ und die Sichtflächen durch die Gemeinde Meeder ................ 25 
 
-4.4
+4.3.3 
 
-Feedback- und Kontrollmechanismen .................................................................. 30
+Beteiligte des Infrastrukturbetreibers ................................................................... 29 
 
-4.4.1
+4.3.4 
 
-Verkehrsschauen durch die Straßenverkehrsbehörden ....................................... 30
+Beteiligte der EVU ................................................................................................. 29 
 
-4.5
+4.3.5 
 
-Frühere Ereignisse ähnlicher Art ........................................................................... 32
+Beteiligter Straßenverkehrsteilnehmer................................................................. 29 
 
-5
+4.4 
 
-Schlussfolgerungen ............................................................................................. 33
+Feedback- und Kontrollmechanismen .................................................................. 30 
 
-5.1
+4.4.1 
 
-Zusammenfassung und Schlussfolgerung ............................................................. 33
+Verkehrsschauen durch die Straßenverkehrsbehörden ....................................... 30 
 
-5.2
+4.5 
 
-Seit dem Ereignis getroffene Maßnahmen ........................................................... 38
+5 
 
-5.3
+5.1 
 
-Zusätzliche Bemerkungen ..................................................................................... 38
+5.2 
 
-6
+5.3 
 
-Sicherheitsempfehlungen ................................................................................... 39
+Frühere Ereignisse ähnlicher Art ........................................................................... 32 
 
-II
+Schlussfolgerungen ............................................................................................. 33 
 
-Untersuchungsbericht
-Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder
+Zusammenfassung und Schlussfolgerung ............................................................. 33 
 
-I.
+Seit dem Ereignis getroffene Maßnahmen ........................................................... 38 
 
-Änderungsverzeichnis:
-Änderung
+Zusätzliche Bemerkungen ..................................................................................... 38 
 
-Stand
+6 
 
-III
+Sicherheitsempfehlungen ................................................................................... 39 
 
-Untersuchungsbericht
-Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder
+II 
 
-II.
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Abbildungsverzeichnis:
-Abbildung 1: Verkehrsgeographischer Lageplan ....................................................................... 7
-Abbildung 2: Front des beteiligten VT...................................................................................... 10
-Abbildung 3: Standorte des beteiligten Pkw und Triebzuges .................................................. 10
-Abbildung 4: Luftbild/Lageplan zur Verdeutlichung der Verkehrssituation ............................ 19
-Abbildung 5: Bautechnische Skizze mit theoretischer Sichtfläche .......................................... 19
-Abbildung 6: Tatsächliche erforderliche Sichtfläche Q IV für 20 km/h .................................... 21
-Abbildung 7: Sichtfläche im Q IV für 20 km/h Räumgeschwindigkeit ..................................... 21
-Abbildung 8: Beschilderungsplan BÜ km 8,615 ....................................................................... 23
-Abbildung 9: Skizze der Sichtfläche aufgestellt durch DB Netz AG am 19.04.2011 ................ 26
-Abbildung 10: IvL-Plan von der DB Netz AG mit eingezeichneten Sichtflächen ...................... 26
-Abbildung 11: Sichtflächenvorgabe der DB Netz AG an die Gemeinde Meeder ..................... 27
+Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder 
 
-III.
+I.  Änderungsverzeichnis:	
 
-Tabellenverzeichnis:
-Tabelle 1: Zusammenfassung Einflussfaktoren .......................................................................... 3
-Tabelle 2: Übersicht der äußeren Bedingungen ........................................................................ 8
-Tabelle 3: Übersicht der Personenschäden ............................................................................... 8
-Tabelle 4: Übersicht der geschätzten Schadenshöhe ................................................................ 8
-Tabelle 5: Technische Daten VT 650 ........................................................................................ 17
-Tabelle 6: Daten der Verkehrszählung ..................................................................................... 24
+Änderung 
 
-IV
+Stand 
 
-Untersuchungsbericht
-Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder
+III 
 
-IV.
+ 
+ 
+ 
+ 
+	
+	
+Untersuchungsbericht 
 
-Abkürzungsverzeichnis:
-AEG
+Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder 
 
-Allgemeines Eisenbahngesetz
+II.  Abbildungsverzeichnis:	
 
-Alv
+Abbildung 1: Verkehrsgeographischer Lageplan ....................................................................... 7 
 
-Anlagenverantwortlicher
+Abbildung 2: Front des beteiligten VT 
 
-BayStrWG
+...................................................................................... 10 
 
-Bayerischen Straßen- und Wegegesetz
+Abbildung 3: Standorte des beteiligten Pkw und Triebzuges 
 
-BEU
+.................................................. 10 
 
-Bundesstelle für Eisenbahnunfalluntersuchung
+Abbildung 4: Luftbild/Lageplan zur Verdeutlichung der Verkehrssituation 
 
-BÜ
+............................ 19 
 
-Bahnübergang
+Abbildung 5: Bautechnische Skizze mit theoretischer Sichtfläche 
 
-Bü 4
+.......................................... 19 
 
-Signal Bü 4 – Pfei afel
+Abbildung 6: Tatsächliche erforderliche Sichtfläche Q IV für 20 km/h 
 
-BÜSA
+.................................... 21 
 
-Bahnübergangssicherungsanlage
+Abbildung 7: Sichtfläche im Q IV für 20 km/h Räumgeschwindigkeit 
 
-DOP
+..................................... 21 
 
-Digitales Orthophoto
+Abbildung 8: Beschilderungsplan BÜ km 8,615 
 
-EBO
+....................................................................... 23 
 
-Eisenbahn-Bau- und Betriebsordnung
+Abbildung 9: Skizze der Sichtfläche aufgestellt durch DB Netz AG am 19.04.2011 
 
-EBKrG
+................ 26 
 
-Gesetz über Kreuzungen von Eisenbahnen und Straßen
-(Eisenbahnkreuzungsgesetz)
+Abbildung 10: IvL-Plan von der DB Netz AG mit eingezeichneten Sichtflächen 
 
-EIU
+...................... 26 
 
-Eisenbahninfrastrukturunternehmen
+Abbildung 11: Sichtflächenvorgabe der DB Netz AG an die Gemeinde Meeder ..................... 27 
 
-EU
+III.  Tabellenverzeichnis:	
 
-Europäische Union
+Tabelle 1: Zusammenfassung Einflussfaktoren .......................................................................... 3 
 
-EUV
+Tabelle 2: Übersicht der äußeren Bedingungen ........................................................................ 8 
 
-Eisenbahn-Unfalluntersuchungsverordnung
+Tabelle 3: Übersicht der Personenschäden ............................................................................... 8 
 
-EVU
+Tabelle 4: Übersicht der geschätzten Schadenshöhe ................................................................ 8 
 
-Eisenbahnverkehrsunternehmen
+Tabelle 5: Technische Daten VT 650 ........................................................................................ 17 
 
-Fdl
+Tabelle 6: Daten der Verkehrszählung ..................................................................................... 24 
 
-Fahrdienstleiter
+IV 
 
-GSM-R
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Global System for Mobile Communica ons Rail
+Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder 
 
-Hp
+IV.  Abkürzungsverzeichnis:	
 
-Haltepunkt
+AEG 
 
-IvL
+Alv 
 
-Ingenieurvermessung Lage
+Allgemeines Eisenbahngesetz 
 
-LRA
+Anlagenverantwortlicher 
 
-Landratsamt
+BayStrWG 
 
-NFLS
+Bayerischen Straßen- und Wegegesetz 
 
-No allleitstelle
+BEU 
 
-ntg
+BÜ 
 
-nicht technisch gesichert
+Bü 4 
 
-Pkw
+Bundesstelle für Eisenbahnunfalluntersuchung 
 
-Personenkra wagen
+Bahnübergang 
 
-PZB
+Signal Bü 4 – Pfei(cid:332)afel 
 
-Punk örmige Zugbeeinflussung
+BÜSA 
 
-Q (I – IV)
+Bahnübergangssicherungsanlage 
 
-Quadrant + Nr.
+DOP 
 
-Ril
+EBO 
 
-Richtlinie
+EBKrG 
 
-SMS
+EIU 
 
-Sicherheitsmanagementsystem
+EU 
 
-V
+EUV 
 
-Untersuchungsbericht
-Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder
+EVU 
 
-StVO
+Fdl 
 
-Straßenverkehrsordnung
+Digitales Orthophoto 
 
-Tf
+Eisenbahn-Bau- und Betriebsordnung 
 
-Triebfahrzeugführer
+Gesetz über Kreuzungen von Eisenbahnen und Straßen 
+(Eisenbahnkreuzungsgesetz) 
 
-Tfz
+Eisenbahninfrastrukturunternehmen 
 
-Triebfahrzeug
+Europäische Union 
 
-VT
+Eisenbahn-Unfalluntersuchungsverordnung 
 
-Verbrennungstriebwagen
+Eisenbahnverkehrsunternehmen 
 
-VwV-StVO
+Fahrdienstleiter 
 
-Allgemeine Verwaltungsvorschri zur Straßenverkehrs-Ordnung
+GSM-R 
 
-VzG
+Global System for Mobile Communica(cid:415)ons Rail 
 
-Verzeichnis der örtlich zulässigen Geschwindigkeiten
+Hp 
 
-VI
+IvL 
 
-Untersuchungsbericht
-Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder
+LRA 
 
-0 Vorbemerkung
-Auf der Grundlage des Ar kel 24 der Richtlinie (EU) 2016/798 hat die europäische Kommission
-mit der Inkra setzung der Durchführungsverordnung (EU) 2020/572 die Untersuchungsberichtsstruktur festgelegt. Diese Vorgaben sind grundsätzlich einzuhalten. Die Berichtsstruktur muss der Art und Schwere des gefährlichen Ereignisses angepasst sein.
-Mit Verkündung der Verordnung und Inkra setzung am zwanzigsten Tag nach der
-Veröﬀentlichung im Amtsbla
+NFLS 
 
-der Europäischen Union (EU) ist diese verbindlich und un-
+ntg 
 
-mi elbar auf alle ab dem 17.05.2020 eingeleiteten Untersuchungen anzuwenden.
+Pkw 
 
-Seite 1 von 39
+PZB 
 
-Untersuchungsbericht
-Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder
+Haltepunkt 
 
-1 Zusammenfassung
-Das erste Kapitel enthält eine Kurzbeschreibung des Ereignisses sowie Informa onen zu den
-Folgen, Primärursachen sowie zu im Einzelfall ausgesprochenen Sicherheitsempfehlungen.
+Ingenieurvermessung Lage 
 
-1.1 Kurzbeschreibung des Ereignisses
-Am 27.07.2020 gegen 18:15 Uhr prallte der Personenzug DPN-G 84553 auf der Fahrt von
-Bad Rodach nach Coburg zwischen dem Haltepunkt (Hp) Großwalbur und dem Hp Meeder auf
-dem nicht technisch gesicherten (ntg) Bahnübergang (BÜ) in km 8,615 mit einem Personenkra wagen (Pkw) zusammen.
+Landratsamt 
 
-1.2 Folgen
-Durch den Zusammenprall wurden die zwei Insassen des Pkw tödlich und der Triebfahrzeugführer (Tf) des Personenzuges DPN-G 84553 leicht verletzt. Es entstanden Sachschäden in
-Höhe von ca. 180.500 Euro.
+No(cid:414)allleitstelle 
 
-1.3 Ursachen
-Im Rahmen der Untersuchung des Ereignisses wurden die folgenden Handlungen,
-Unterlassungen, Vorkommnisse oder Umstände als sicherheitskri sche Faktoren iden fiziert.
-Diese werden gemäß Durchführungsverordnung 2020/572 in ursächliche oder beitragende,
-und systemische Faktoren unterschieden. Zusätzlich werden ermi elte Defizite des
-No allmanagements behandelt.
-Zur besseren Übersichtlichkeit der Faktoren und Aspekte des No allmanagements wird eine
-Systema k mit Kennzeichnungen in eckigen Klammern verwendet.
-Eine detaillierte Auswertung des Ereignisses unter Einordnung als sicherheitskri sche
-Faktoren wird in den folgenden Kapiteln gegeben.
+nicht technisch gesichert 
 
-Seite 2 von 39
+Personenkra(cid:332)wagen 
 
-Untersuchungsbericht
-Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder
+Punk(cid:414)örmige Zugbeeinﬂussung 
 
-Geschehen:
-Datum/Uhrzeit, sowie
-Handlung / Unterlassen /
-Umstand / Vorkommnis
-27.07.2020, 18:15 Uhr
-Den Vorrang des
-Schienenverkehrs nicht
-beachtet.
+Q (I – IV) 
 
-Ursächlicher
-Faktor
+Quadrant + Nr. 
 
-Beitragender
-Faktor
+Ril 
 
-Systemischer
-Faktor
+SMS 
 
-Vorrang von
+Richtlinie 
+
+Sicherheitsmanagementsystem 
+
+V 
+
+ 
+ 
+Untersuchungsbericht 
+
+Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder 
+
+StVO 
+
+Straßenverkehrsordnung 
+
+Tf 
+
+Tfz 
+
+VT 
+
+Triebfahrzeugführer  
+
+Triebfahrzeug 
+
+Verbrennungstriebwagen 
+
+VwV-StVO 
+
+Allgemeine Verwaltungsvorschri(cid:332) zur Straßenverkehrs-Ordnung 
+
+VzG 
+
+Verzeichnis der örtlich zulässigen Geschwindigkeiten 
+
+VI 
+
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder 
+
+0  Vorbemerkung	
+
+Auf der Grundlage des Ar(cid:415)kel 24 der Richtlinie (EU) 2016/798 hat die europäische Kommission 
+
+mit  der  Inkra(cid:332)setzung  der  Durchführungsverordnung  (EU)  2020/572  die  Untersuchungs-
+
+berichtsstruktur  festgelegt.  Diese  Vorgaben  sind  grundsätzlich  einzuhalten.  Die  Berichts-
+
+struktur muss der Art und Schwere des gefährlichen Ereignisses angepasst sein. 
+
+Mit  Verkündung  der  Verordnung  und  Inkra(cid:332)setzung  am  zwanzigsten  Tag  nach  der 
+
+Veröﬀentlichung  im  Amtsbla(cid:425)  der  Europäischen  Union  (EU)  ist  diese  verbindlich  und  un-
+
+mi(cid:425)elbar auf alle ab dem 17.05.2020 eingeleiteten Untersuchungen anzuwenden. 
+
+Seite 1 von 39 
+
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder 
+
+1  Zusammenfassung	
+
+Das erste Kapitel enthält eine Kurzbeschreibung des Ereignisses sowie Informa(cid:415)onen zu den 
+
+Folgen, Primärursachen sowie zu im Einzelfall ausgesprochenen Sicherheitsempfehlungen. 
+
+1.1  Kurzbeschreibung	des	Ereignisses	
+
+Am  27.07.2020  gegen  18:15 Uhr  prallte  der  Personenzug  DPN-G 84553  auf  der  Fahrt  von 
+
+Bad Rodach nach Coburg zwischen dem Haltepunkt (Hp) Großwalbur und dem Hp Meeder auf 
+
+dem nicht technisch gesicherten (ntg) Bahnübergang (BÜ) in km 8,615 mit einem Personen-
+
+kra(cid:332)wagen (Pkw) zusammen. 
+
+1.2  Folgen	
+
+Durch den Zusammenprall wurden die zwei Insassen des Pkw tödlich und der Triebfahrzeug-
+
+führer (Tf)  des  Personenzuges  DPN-G 84553  leicht  verletzt.  Es  entstanden  Sachschäden  in 
+
+Höhe von ca. 180.500 Euro. 
+
+1.3  Ursachen	
+
+Im  Rahmen  der  Untersuchung  des  Ereignisses  wurden  die  folgenden  Handlungen, 
+
+Unterlassungen, Vorkommnisse oder Umstände als sicherheitskri(cid:415)sche Faktoren iden(cid:415)ﬁziert. 
+
+Diese werden gemäß Durchführungsverordnung 2020/572 in ursächliche oder beitragende, 
+
+und  systemische  Faktoren  unterschieden.  Zusätzlich  werden  ermi(cid:425)elte  Deﬁzite  des 
+
+No(cid:414)allmanagements behandelt. 
+
+Zur besseren Übersichtlichkeit der Faktoren und Aspekte des No(cid:414)allmanagements wird eine 
+
+Systema(cid:415)k mit Kennzeichnungen in eckigen Klammern verwendet. 
+
+Eine  detaillierte  Auswertung  des  Ereignisses  unter  Einordnung  als  sicherheitskri(cid:415)sche 
+
+Faktoren wird in den folgenden Kapiteln gegeben. 
+
+Seite 2 von 39 
+
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder 
+
+Geschehen: 
+
+Datum/Uhrzeit, sowie 
+
+Handlung / Unterlassen / 
+Umstand / Vorkommnis 
+
+27.07.2020, 18:15 Uhr 
+
+Den Vorrang des 
+Schienenverkehrs 
+beachtet. 
+
+nicht 
+
+Nach dem 13.05.2020 
+
+Schienenfahrzeug bei 
+Annäherung nicht stets 
+einsehbar. 
+
+Nach dem 13.05.2020 
+
+Verdeckung des 
+Schienenfahrzeugs durch 
+schnell aufwachsende 
+Maispﬂanzen 
+
+Nachweislich ab 2015 
+
+Beteiligte Verantwortliche 
+tauschten fachliche 
+Grundlagen nicht aus. 
+
+Ursächlicher 
+Faktor 
+
+Beitragender 
+Faktor 
+
+Systemischer 
+Faktor 
+
+Vorrang von 
 Schienenfahr‐
-zeugen
-missachtet [F1]
-
-Nach dem 13.05.2020
-Schienenfahrzeug bei
-Annäherung nicht stets
-einsehbar.
-Nach dem 13.05.2020
-Verdeckung des
-Schienenfahrzeugs durch
-schnell aufwachsende
-Maispflanzen
-Nachweislich ab 2015
-Beteiligte Verantwortliche
-tauschten fachliche
-Grundlagen nicht aus.
-
-Sich läche nicht
-korrekt [F2]
-
-Bes mmung und
-Verortung der
-Sich läche [S2]
-
-Inspek onsintervall während
-der örtlichen
-Vegeta onsperiode [F3]
-
-Pflichtausübung
-durch den
-Straßenbaulas räger
-[S3]
-
-Austausch von
-Sicherheitsinforma onen [F4]
-
-Tabelle 1: Zusammenfassung Einflussfaktoren
-
-1.4 Sicherheitsempfehlungen
-Gemäß § 6 EUV und Art. 26 Abs. 2 der Richtlinie (EU) 2016/798 ergeht nachfolgende Sicherheitsempfehlung (13/2025):
-Es wird empfohlen, die mit den zu Bahnübergängen beteiligten Stellen eingerichteten
-Kommunika onskanäle gemäß Verordnung (EU) 2018/762, Anhang II, Punkt 4.4.1 auf ihre
-Wirksamkeit zu überprüfen und gem. Verordnung (EU) 2018/762, Anhang II, Punkt 4.4.3a)
-sicherzustellen, dass sicherheitsrelevante Informa onen für die vorgesehenen Nutzer
-verständlich und gemäß Punkt 4.4.3d) konsistent sind.
-
-Seite 3 von 39
-
-Untersuchungsbericht
-Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder
-
-2 Die Untersuchung und ihr Kontext
-Die Bundesstelle für Eisenbahnunfalluntersuchung (BEU) ist für die Untersuchung von
-gefährlichen Ereignissen im Eisenbahnbetrieb im Sinne des Kapitels V der Richtlinie (EU) 2016/798 auf Eisenbahninfrastrukturen des Bundes und auf nicht bundeseigenen
-Eisenbahninfrastrukturen des übergeordneten Netzes gemäß § 2b Allgemeines Eisenbahngesetz (AEG) zuständig.
-Ziel und Zweck der eingeleiteten Untersuchungen ist es, die Ursachen des gefährlichen
-Ereignisses aufzuklären und hieraus Hinweise zur Verbesserung der Sicherheit abzuleiten.
-Untersuchungen der BEU dienen nicht dazu, ein Verschulden festzustellen oder Fragen der
-Ha ung oder sons ger zivilrechtlicher Ansprüche zu klären und werden unabhängig von jeder
-gerichtlichen Untersuchung durchgeführt.
-Sicherheitsempfehlungen der BEU zur Vermeidung von gefährlichen Ereignissen und
-Verbesserung der Eisenbahnsicherheit werden an die na onale Sicherheitsbehörde, sofern es
-die Art der Empfehlung erfordert an die Eisenbahnagentur der Europäischen Union und an
-andere Stellen oder Behörden adressiert. Im Allgemeinen sind die Sicherheitsempfehlungen
-auch an
-
-die
-
-unmi elbar
-
-bzw. mi elbar betroﬀenen sowie
-
-alle
-
-einschlägigen
-
-Eisenbahnunternehmen gerichtet.
-Zu schweren Unfällen leitet die BEU stets Untersuchungen gem. Ar kel 20 Abs. 1 Richtlinie (EU) 2016/798 ein. Unter einem schweren Unfall sind insbesondere Zugkollisionen oder
-Zugentgleisungen mit mindestens einem Todesopfer oder mindestens fünf Schwerverletzten
-oder mit beträchtlichem Schaden (≥ 2 Mio. Euro) sowie sons ge Unfälle mit den gleichen
-Folgen und mit oﬀensichtlichen Auswirkungen auf die Regelung der Eisenbahnsicherheit oder
-das Sicherheitsmanagementsystem zu verstehen. Bei allen sons gen gefährlichen Ereignissen
-im Eisenbahnbetrieb liegt es im Ermessen der BEU Untersuchungen einzuleiten. Bei der
-Entscheidung werden neben den zum Ereigniszeitpunkt verfügbaren Ressourcen weitere
-Kriterien gem. Ar kel 20 Abs. 2 Richtlinie (EU) 2016/798 herangezogen.
-Aufgrund des gegebenen Schadensausmaßes bzw. der Folgen bei dem vorliegenden
-gefährlichen Ereignis wurden Untersuchungen auf Grundlage des Ar kels 20 Abs. 1 Richtlinie
-(EU) 2016/798 eingeleitet.
-Die Unfalluntersuchungshandlungen werden strukturiert in vier definierten Kernprozessen
-durchgeführt, die mit der Entscheidung zur Aufnahme einer Untersuchung beginnen und mit
-
-Seite 4 von 39
-
-Untersuchungsbericht
-Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder
-
-der Veröﬀentlichung des Untersuchungsberichtes abgeschlossen werden. Zur Ursachenermi lung werden ergebnisoﬀene Untersuchungen in allen beteiligten Fachdisziplinen
-angestellt und hierbei insbesondere Fehler-Ursachen-Analysen und Soll-Ist-Vergleiche
-durchgeführt.
-Vom örtlich zuständigen Untersuchungsbezirk Südost wurden die Untersuchungshandlungen
-federführend geleitet.
-Sofern im Einzelfall geboten, werden die jeweiligen Untersuchungsteams bezirksübergreifend
-unterstützt und notwendige Sachverständigenleistungen extern beau ragt.
-Neben den beteiligten Unternehmen wirkten an der Untersuchung folgende weitere Stellen
-mit:
- Polizeiinspek on Coburg
-
+zeugen 
+missachtet [F1] 
 
-Landratsamt (LRA) Coburg
+Sich(cid:414)läche nicht 
+korrekt [F2] 
 
-Die Durchführung der Unfalluntersuchung setzt voraus, dass alle an dem gefährlichen Ereignis
-Beteiligten den jeweiligen Meldeverpflichtungen gem. § 2 Abs. 3 Eisenbahn-Unfalluntersuchungsverordnung (EUV) nachkommen. Die relevanten Informa onen sind durch die zur
-Meldung Verpflichteten auf dem neuesten Stand zu halten.
-Auf Grundlage des § 5b AEG werden i. d. R. weitergehende zur Untersuchungsdurchführung
-erforderliche Informa onen, Auskün e und Nachweise abgefordert. Diese notwendigen
-Zuarbeiten konnten mi els Auskun sersuchen gewonnen werden.
-Darüber hinaus können nach § 5b Abs. 4 AEG von den an gefährlichen Ereignissen beteiligten
-Eisenbahnen Unterstützungsleistungen eingefordert werden. Bei dem vorliegenden
-gefährlichen Ereignis wurden keine Unterstützungsleistungen eingefordert.
-Die infrastruktursei ge Freigabe der Unfallstelle erfolgte durch die BEU am 27.07.2020.
+Bes(cid:415)mmung und 
+Verortung der 
+Sich(cid:414)läche [S2] 
 
-Seite 5 von 39
+Pﬂichtausübung 
+durch den 
+Straßenbaulas(cid:425)räger 
+[S3] 
 
-Untersuchungsbericht
-Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder
+Inspek(cid:415)ons-
+intervall während 
+der örtlichen 
+Vegeta(cid:415)ons-
+periode [F3] 
 
-3 Beschreibung des Ereignisses
-Im dri en Kapitel wird das gefährliche Ereignis in zwei vorgegebenen Unterkapiteln näher
-beschrieben. In Kapitel 3.1 sind neben den Grunddaten weitere Informa onen zum
-Ereignisort, den äußeren Bedingungen, den Beteiligten und den Folgen enthalten. Die
-Ereignisrekonstruk on sowie Informa onen zur Auslösung und dem Ablauf der
-Re ungsmaßnahmen sind im Kapitel 3.2 dargestellt. Die Beschreibungen beziehen sich
-grundsätzlich
+Austausch von 
+Sicherheits-
+informa(cid:415)onen [F4] 
 
-auf
+Tabelle 1: Zusammenfassung Einﬂussfaktoren 
 
-die
+1.4  Sicherheitsempfehlungen	
 
-zum
+Gemäß § 6 EUV und Art. 26 Abs. 2 der Richtlinie (EU) 2016/798 ergeht nachfolgende Sicher-
 
-Ereigniszeitpunkt
+heitsempfehlung (13/2025): 
 
-vorherrschenden
+Es  wird  empfohlen,  die  mit  den  zu  Bahnübergängen  beteiligten  Stellen  eingerichteten 
 
-Bedingungen
+Kommunika(cid:415)onskanäle  gemäß  Verordnung  (EU)  2018/762,  Anhang  II,  Punkt  4.4.1  auf  ihre 
 
-und
+Wirksamkeit  zu  überprüfen  und  gem.  Verordnung  (EU)  2018/762,  Anhang  II,  Punkt  4.4.3a) 
 
-vorgefundenen Sachverhalte.
+sicherzustellen,  dass  sicherheitsrelevante  Informa(cid:415)onen  für  die  vorgesehenen  Nutzer 
 
-3.1 Informationen über das Ereignis und seine Hintergründe
-Bei dem Ereignis handelt es sich um einen Bahnübergangsunfall im Sinne der
-Richtlinie (EU) 2016/798.
-Die BEU führt das Ereignis na onal unter der Ereignisart Bahnübergangsunfall.
-3.1.1 Lage und Beschreibung des Ereignisortes
-Der Bahnübergangsunfall ereignete sich auf der vom EIU DB Netz AG betriebenen eingleisigen
-Nebenbahn Coburg, W65W14 – Bad Rodach, Gl 1. Die Strecke wurde im Verzeichnis der örtlich
-zulässigen Geschwindigkeiten (VzG) unter der Streckennummer 5122 geführt. Die Strecke war
-mit punk örmiger Zugbeeinflussung (PZB) als Zugsicherungssystem und dem digitalen
-Zugfunk Global System for Mobile Communica ons – Rail (GSM-R) ausgerüstet. Der Bremswegabstand betrug 400 m bei einer zulässigen Streckenhöchstgeschwindigkeit von 60 km/h,
-am Ereignisort 60 km/h. Die benachbarten Betriebsstellen waren die Hp Großwalbur und
-Meeder. Der BÜ befand sich im Strecken-km 8,615 und war nicht technisch, sondern mi els
-Übersicht in Verbindung mit hörbaren Signalen gesichert.
-Die nachfolgende Abbildung zeigt die verkehrsgeographische Lage des BÜ mit dem Laufweg
-des Personenzuges DPN-G 84553.
+verständlich und gemäß Punkt 4.4.3d) konsistent sind. 
 
-Seite 6 von 39
+Seite 3 von 39 
 
-Untersuchungsbericht
-Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Abbildung 1: Verkehrsgeographischer Lageplan 1
+Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder 
 
-3.1.2 Beteiligte
-Die am Ereignis Beteiligten ha en die folgenden Funk onen:
-Für das EIU DB Netz AG (seit 01.01.2024 DB InfraGO AG)
-
+2  Die	Untersuchung	und	ihr	Kontext	
 
-Anlagenverantwortlicher Oberbau (Alv)
+Die  Bundesstelle  für  Eisenbahnunfalluntersuchung  (BEU)  ist  für  die  Untersuchung  von 
 
-Für das Eisenbahnverkehrsunternehmen (EVU) agilis Verkehrsgesellscha mbH & Co. KG
-
+gefährlichen  Ereignissen 
 
-Tf des DPN-G 84553
+im  Eisenbahnbetrieb 
 
-Für den Straßenbaulas räger
-
+im  Sinne  des  Kapitels V  der  Richt-
 
-Gemeinde Meeder
+linie (EU) 2016/798  auf  Eisenbahninfrastrukturen  des  Bundes  und  auf  nicht  bundeseigenen 
 
-Für den Straßenverkehrsteilnehmer
-
+Eisenbahninfrastrukturen  des  übergeordneten  Netzes  gemäß  § 2b  Allgemeines  Eisenbahn-
 
-1
+gesetz (AEG) zuständig. 
 
-Fahrer des Pkw
+Ziel  und  Zweck  der  eingeleiteten  Untersuchungen  ist  es,  die  Ursachen  des  gefährlichen 
 
-Quelle: Geobasisdaten: © GeoBasis-DE / BKG 2024, bearbeitet durch BEU
+Ereignisses  aufzuklären  und  hieraus  Hinweise  zur  Verbesserung  der  Sicherheit  abzuleiten. 
 
-Seite 7 von 39
+Untersuchungen der BEU dienen nicht dazu, ein Verschulden festzustellen oder Fragen der 
 
-Untersuchungsbericht
-Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder
+Ha(cid:332)ung oder sons(cid:415)ger zivilrechtlicher Ansprüche zu klären und werden unabhängig von jeder 
 
-3.1.3 Äußere Bedingungen
-Zum Zeitpunkt des Ereignisses herrschten folgende Bedingungen:
-Lichtverhältnisse
+gerichtlichen Untersuchung durchgeführt. 
 
-Tageslicht
+Sicherheitsempfehlungen  der  BEU  zur  Vermeidung  von  gefährlichen  Ereignissen  und 
 
-Sicht
+Verbesserung der Eisenbahnsicherheit werden an die na(cid:415)onale Sicherheitsbehörde, sofern es 
 
-klar
+die Art der Empfehlung erfordert an die Eisenbahnagentur der Europäischen Union und an 
 
-Bedeckung
+andere Stellen oder Behörden adressiert. Im Allgemeinen sind die Sicherheitsempfehlungen 
 
-bewölkt
+auch  an  die  unmi(cid:425)elbar  bzw.  mi(cid:425)elbar  betroﬀenen  sowie  alle  einschlägigen 
 
-Temperaturen
+Eisenbahnunternehmen gerichtet. 
 
-23°C
+Zu  schweren  Unfällen  leitet  die  BEU  stets  Untersuchungen  gem.  Ar(cid:415)kel  20  Abs.  1  Richt-
 
-fallender Niederschlag
+linie (EU) 2016/798 ein. Unter einem schweren Unfall sind insbesondere Zugkollisionen oder 
 
-Nein
+Zugentgleisungen mit mindestens einem Todesopfer oder mindestens fünf Schwerverletzten 
 
-Niederschlagshäufigkeit
+oder  mit  beträchtlichem  Schaden  (≥ 2  Mio. Euro)  sowie  sons(cid:415)ge  Unfälle  mit  den  gleichen 
 
---
+Folgen und mit oﬀensichtlichen Auswirkungen auf die Regelung der Eisenbahnsicherheit oder 
 
-Untergrund / gefallener Niederschlag
+das Sicherheitsmanagementsystem zu verstehen. Bei allen sons(cid:415)gen gefährlichen Ereignissen 
 
-trocken
+im  Eisenbahnbetrieb  liegt  es  im  Ermessen  der  BEU  Untersuchungen  einzuleiten.  Bei  der 
 
-Tabelle 2: Übersicht der äußeren Bedingungen
+Entscheidung  werden  neben  den  zum  Ereigniszeitpunkt  verfügbaren  Ressourcen  weitere 
 
-3.1.4 Todesopfer, Verletzte und Sachschäden
-Bei dem Ereignis traten folgend aufgeführte Personenschäden ein:
-Anzahl Tote
+Kriterien gem. Ar(cid:415)kel 20 Abs. 2 Richtlinie (EU) 2016/798 herangezogen. 
 
-Anzahl schwer Verletzte
+Aufgrund  des  gegebenen  Schadensausmaßes  bzw.  der  Folgen  bei  dem  vorliegenden 
 
-Anzahl leicht Verletzte
+gefährlichen Ereignis wurden Untersuchungen auf Grundlage des Ar(cid:415)kels 20 Abs. 1 Richtlinie 
 
-Reisende
+(EU) 2016/798 eingeleitet. 
 
-–
+Die  Unfalluntersuchungshandlungen  werden  strukturiert  in  vier  deﬁnierten  Kernprozessen 
 
-–
+durchgeführt, die mit der Entscheidung zur Aufnahme einer Untersuchung beginnen und mit 
 
-–
+Seite 4 von 39 
 
-Mitarbeiter
+ 
+ 
+Untersuchungsbericht 
 
-–
+Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder 
 
-–
+der  Veröﬀentlichung  des  Untersuchungsberichtes  abgeschlossen  werden.  Zur  Ursachen-
 
-1
+ermi(cid:425)lung  werden  ergebnisoﬀene  Untersuchungen  in  allen  beteiligten  Fachdisziplinen 
 
-Benutzer von
-Bahnübergängen
+angestellt  und  hierbei 
 
-2
+insbesondere  Fehler-Ursachen-Analysen  und  Soll-Ist-Vergleiche 
 
-–
+durchgeführt. 
 
-–
+Vom örtlich zuständigen Untersuchungsbezirk Südost wurden die Untersuchungshandlungen 
 
-Dri e
+federführend geleitet. 
 
-–
+Sofern im Einzelfall geboten, werden die jeweiligen Untersuchungsteams bezirksübergreifend 
 
-–
+unterstützt und notwendige Sachverständigenleistungen extern beau(cid:332)ragt. 
 
-–
+Neben den beteiligten Unternehmen wirkten an der Untersuchung folgende weitere Stellen 
+mit: 
 
-Summe
+  Polizeiinspek(cid:415)on Coburg 
 
-2
+  Landratsamt (LRA) Coburg 
 
-–
+Die Durchführung der Unfalluntersuchung setzt voraus, dass alle an dem gefährlichen Ereignis 
 
-1
+Beteiligten  den  jeweiligen  Meldeverpﬂichtungen  gem.  § 2  Abs. 3  Eisenbahn-Unfallunter-
 
-Tabelle 3: Übersicht der Personenschäden
+suchungsverordnung  (EUV)  nachkommen.  Die  relevanten  Informa(cid:415)onen  sind  durch  die  zur 
 
-Die zwei Insassen des Pkw verstarben noch an der Unfallstelle. Der Tf erli einen Schock.
-Die geschätzte Höhe der Sachschäden in Euro setzte sich wie folgt zusammen:
-geschätzte Kosten in Euro
-Fahrzeuge
+Meldung Verpﬂichteten auf dem neuesten Stand zu halten. 
 
-180.000
+Auf Grundlage des § 5b AEG werden i. d. R. weitergehende zur Untersuchungsdurchführung 
 
-Infrastruktur
+erforderliche  Informa(cid:415)onen,  Auskün(cid:332)e  und  Nachweise  abgefordert.  Diese  notwendigen 
 
-500
+Zuarbeiten konnten mi(cid:425)els Auskun(cid:332)sersuchen gewonnen werden. 
 
-Dri e
+Darüber hinaus können nach § 5b Abs. 4 AEG von den an gefährlichen Ereignissen beteiligten 
 
-k. A.
+Eisenbahnen  Unterstützungsleistungen  eingefordert  werden.  Bei  dem  vorliegenden 
 
-Gesamtschadenshöhe
+gefährlichen Ereignis wurden keine Unterstützungsleistungen eingefordert. 
 
-180.500
+Die infrastruktursei(cid:415)ge Freigabe der Unfallstelle erfolgte durch die BEU am 27.07.2020. 
 
-Tabelle 4: Übersicht der geschätzten Schadenshöhe
+Seite 5 von 39 
 
-Seite 8 von 39
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Untersuchungsbericht
-Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder
+Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder 
 
-Der Pkw wurde vollständig zerstört. Bei dem Verbrennungstriebwagen (VT) wurden durch den
-Zusammenprall das Mehrfach-Trak onskabel abgerissen und Teile der Verkleidungen
-beschädigt. Das Andreaskreuz im Quadranten II (Q II) wurde niedergerissen und der
-Betonpfosten zerstört.
+3  Beschreibung	des	Ereignisses	
 
-3.2 Sachliche Beschreibung der Vorkommnisse
-Zur
+Im  dri(cid:425)en  Kapitel  wird  das  gefährliche  Ereignis  in  zwei  vorgegebenen  Unterkapiteln  näher 
 
-Rekonstruk on
+beschrieben.  In  Kapitel 3.1  sind  neben  den  Grunddaten  weitere  Informa(cid:415)onen  zum 
 
-des
+Ereignisort,  den  äußeren  Bedingungen,  den  Beteiligten  und  den  Folgen  enthalten.  Die 
 
-gefährlichen
+Ereignisrekonstruk(cid:415)on  sowie 
 
-Ereignisses
+Informa(cid:415)onen  zur  Auslösung  und  dem  Ablauf  der 
 
-sowie
+Re(cid:425)ungsmaßnahmen  sind  im  Kapitel 3.2  dargestellt.  Die  Beschreibungen  beziehen  sich 
 
-zur
+grundsätzlich  auf  die 
 
-Beschreibung
+zum  Ereigniszeitpunkt  vorherrschenden  Bedingungen  und 
 
-der
+vorgefundenen Sachverhalte. 
 
-No allmaßnahmen werden insbesondere auch die in Kapitel 4 enthaltenen Aufzeichnungen,
-Auswertungen und Feststellungen etc. herangezogen.
-3.2.1 Hergangsbeschreibung
-Gegen 18:08 Uhr fuhr der Personenzug DPN-G 84553 nach einem Verkehrshalt in Großwalbur
-in Richtung Meeder ab. Der Tf beschleunigt den Zug und näherte sich nach ca. 3,3 km Fahrt
-dem BÜ in km 8,615. Der Zug fuhr mit einer gleichbleibenden Geschwindigkeit von 59 km/h
-an den Sichtpunkten B₁₀ und B₂₀ des BÜ km 8,615 vorbei. Die Sichtpunkte waren jeweils mit
-einer Pfei afel markiert. Ca. 35 m vor dem BÜ wurde eine Schnellbremsung des VT wirksam.
-Der Straßenverkehrsteilnehmer hielt nicht vor dem Andreaskreuz an, um dem Zug den
-Vorrang zu gewähren. Der Zusammenprall des Zuges auf den Pkw erfolgte mit beiden Puﬀern
-in Höhe der beiden rechten Seitentüren. Die Zusammenprallgeschwindigkeit des
-Triebfahrzeugs mit dem Pkw betrug ca. 47 km/h. Nachdem die Schnellbremsung wirksam war,
-kam der VT nach 90 m zum Stehen.
-Die nachfolgende Abbildung zeigt die Front des VT mit den erkennbaren Unfallspuren nach
-dem Zusammenprall.
+3.1  Informationen	über	das	Ereignis	und	seine	Hintergründe	
 
-Seite 9 von 39
+Bei  dem  Ereignis  handelt  es  sich  um  einen  Bahnübergangsunfall 
 
-Untersuchungsbericht
-Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder
+im  Sinne  der 
 
-Abbildung 2: Front des beteiligten VT2
+Richtlinie (EU) 2016/798. 
 
-Der Pkw wurde durch den Zug nach rechts in den unterhalb der Bahnböschung liegenden
-Acker geschoben. Dabei wurde das Andreaskreuz niedergerissen und der Betonpfosten
-zerstört. Die nachfolgende Abbildung zeigt den beteiligten Pkw nach dem Zusammenprall
-sowie die Standorte der beteiligten Fahrzeuge nach dem Zusammenprall.
+Die BEU führt das Ereignis na(cid:415)onal unter der Ereignisart Bahnübergangsunfall. 
 
-Abbildung 3: Standorte des beteiligten Pkw und Triebzuges3
+3.1.1  Lage	und	Beschreibung	des	Ereignisortes	
 
-2
+Der Bahnübergangsunfall ereignete sich auf der vom EIU DB Netz AG betriebenen eingleisigen 
 
-Quelle: DB Netz AG Notfallmanager
+Nebenbahn Coburg, W65W14 – Bad Rodach, Gl 1. Die Strecke wurde im Verzeichnis der örtlich 
 
-3
+zulässigen Geschwindigkeiten (VzG) unter der Streckennummer 5122 geführt. Die Strecke war 
 
-Quelle: DB Netz AG Notfallmanager
+mit  punk(cid:414)örmiger  Zugbeeinﬂussung  (PZB)  als  Zugsicherungssystem  und  dem  digitalen 
 
-Seite 10 von 39
+Zugfunk Global System for Mobile Communica(cid:415)ons – Rail (GSM-R) ausgerüstet. Der Brems-
 
-Untersuchungsbericht
-Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder
+wegabstand betrug 400 m bei einer zulässigen Streckenhöchstgeschwindigkeit von 60 km/h, 
 
-Nachdem der Zug zum Halten gekommen war, setzte der Tf einen Notruf über GSM-R an den
-zuständigen Fahrdienstleiter (Fdl) in Coburg ab, der darau in die No allke e ak vierte.
-3.2.2 Notfallmanagement
-Nach § 4 Abs. 3 AEG haben die Eisenbahnen die Verpflichtung, an Maßnahmen des
-Brandschutzes und der technischen Hilfeleistung mitzuwirken. Die Innenministerien der
-Länder und die DB AG haben sich auf folgende Verfahrensweise verständigt. Für die
-DB Netz AG gelten die entsprechenden Brand- und Katastrophenschutzgesetze der Länder.
-Das No allmanagement der DB AG ist in der Konzernrichtlinie 123, das der DB Netz AG in der
-Richtlinie (Ril) 423 näher beschrieben und geregelt.
-Das Ereignis wurde um 18:15 Uhr durch den Fdl Coburg an die zuständige No allleitstelle
-(NFLS) München gemeldet. Um 18:17 Uhr wurde von der NFLS die integrierte Leitstelle Coburg
-verständigt, die die Re ungske e aufrief.
-Unregelmäßigkeiten oder Verzögerungen in Bezug auf das Einleiten von Re ungsmaßnahmen
-wurden der BEU im Rahmen der Unfalluntersuchung nicht bekannt.
+am  Ereignisort  60 km/h.  Die  benachbarten  Betriebsstellen  waren  die  Hp  Großwalbur  und 
 
-Seite 11 von 39
+Meeder. Der BÜ befand sich im Strecken-km 8,615 und war nicht technisch, sondern mi(cid:425)els 
 
-Untersuchungsbericht
-Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder
+Übersicht in Verbindung mit hörbaren Signalen gesichert. 
 
-4 Auswertung des Ereignisses
-In diesem Kapitel werden insbesondere die im Rahmen der Unfalluntersuchung ermi elten
-maßgeblichen sicherheitskri schen Faktoren dargestellt. Hierbei wird im jeweiligen Einzelfall
-auf die Aufgaben und Pflichten einzelner Personen und Stellen, auf beteiligte Fahrzeuge und
-technische Einrichtungen genauso eingegangen wie auf konkrete menschliche Handlungen
-sowie auf Feedback- und Kontrollmechanismen. Sofern Informa onen zu früheren Ereignissen
-vorliegen, werden diese in einem weiteren Unterkapitel dargestellt.
+Die nachfolgende Abbildung zeigt die verkehrsgeographische Lage des BÜ mit dem Laufweg 
 
-4.1 Aufgaben und Pflichten
-In diesem Kapitel werden unbeschadet des Ar kels 20 Abs. 4 der Richtlinie (EU) 2016/798 die
-Aufgaben und Pflichten von Personen und Stellen behandelt, die an dem Ereignis beteiligt
-waren. Untersuchungen zu Schuld- oder Ha ungsfragen sind explizit ausgeschlossen und nicht
-Untersuchungsgegenstand.
-4.1.1 Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers
-Das gemäß § 2 Abs. 1 AEG verantwortliche EIU DB Netz AG verfügte über eine Sicherheitsgenehmigung gemäß § 7c AEG, die bis zum 19.10.2021 gül g war.
-Gemäß § 4 Abs. 3 AEG sind Eisenbahnen verpflichtet, ihren Betrieb sicher zu führen, die
-Eisenbahninfrastruktur sicher zu bauen und in betriebssicherem Zustand zu halten. Zudem
-muss gemäß § 4 Abs. 4 AEG i. V. m. der Richtlinie (EU) 2016/798 ein SMS eingerichtet sein.
-Inhaltliche Maßstäbe für ein SMS waren die Aufstellung und Einhaltung der in der
-Verordnung (EU) 2018/762 genannten Anforderungen an ein SMS.
-Betriebliche Abläufe, die die technische Einrichtung betrafen
-Gemäß § 11 Abs. 3 der Eisenbahn-Bau- und Betriebsordnung (EBO) hat der Eisenbahnverkehr
-an BÜ Vorrang vor dem Straßenverkehr. Der Vorrang ist durch Aufstellen von Andreaskreuzen
-zu kennzeichnen. Am BÜ km 8,615 kreuzte die eingleisige Nebenbahn Coburg – Bad Rodach
-die Gemeindeverbindungsstraße von Meeder nach Birkenmoor. Der BÜ wurde täglich von
-ca. 650 Kra fahrzeugen überquert und deshalb nach der EBO mit mäßigem Verkehr
-eingestu . Der BÜ dur e nach § 11 Abs. 7 Nr. 2. EBO durch die Übersicht auf die Bahnstrecke
-in Verbindung mit hörbaren Signalen der Eisenbahnfahrzeuge gesichert werden.
-Gemäß § 17 EBO sind die Bahnanlagen planmäßig auf ihre ordnungsgemäße Beschaﬀenheit
-zu untersuchen. Den genauen Umfang und zeitlichen Fristen der Überprüfung der
+des Personenzuges DPN-G 84553. 
 
-Seite 12 von 39
+Seite 6 von 39 
 
-Untersuchungsbericht
-Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder
+ 
+ 
+Untersuchungsbericht 
 
-Bahnübergangsanlage regelte für das EIU die Ril 815 „Bahnübergänge planen und instand
-halten“.
-Das Gesetz über Kreuzungen von Eisenbahnen und Straßen (EBKrG) regelt die Zuständigkeiten
-an den BÜ-Anlagen einer Kreuzung von Eisenbahnen und Straßen und die jeweiligen Pflichten
-des einzelnen zuständigen Trägers.
-Der § 14 Abs. 1 EBKrG regelt die Zuständigkeiten für die Anlagen an Kreuzungen von
-Eisenbahnen und Straßen. Soweit die Anlagen Eisenbahnanlagen sind, hat diese das EIU auf
-seine Kosten zu erhalten und bei BÜ auch in Betrieb zu halten. Soweit die Anlagen
-Straßenanlagen sind, ist analog der Träger der Straßenbaulast zuständig. Die Erhaltung
-umfasst die laufende Unterhaltung und die Erneuerung. Die einzelnen Elemente des BÜ sind
-im § 14 Abs. 2 EBKrG genau definiert und den jeweiligen Trägern zugeordnet. Zu den
-Eisenbahnanlagen gehören das sowohl dem Eisenbahnverkehr als auch dem Straßenverkehr
-dienende Kreuzungsstück, begrenzt durch einen Abstand von 2,25 m von der äußeren Schiene
-und parallel zu ihr verlaufend, die Warnkreuze (Andreaskreuze) sowie andere der Sicherung
-des sich kreuzenden Verkehrs dienende Eisenbahnzeichen und -einrichtungen.
-Übergabe der Bahnübergangsdaten von der DB Netz AG an die Gemeinde Meeder
-Im Rahmen der Vereinbarung einer Eisenbahnkreuzungsmaßnahme in Verbindung mit den
-konkre sierenden Regeln in Ril 815.0031 Abschn. 1 „Sich lächen bilden“ sind die Maße der
-Sich läche dem zuständigen Straßenbaulas räger in schri licher Form zu übergeben. Auf
-seinen Wunsch sollen sie ihm auch örtlich aufgezeigt werden.
-Ergänzt wird diese verbindlich geltende Bes mmung durch gegebene Hinweise in der Ril 815.
-Sich lächen können in Skizzen mit den gül gen Maßen für die Anhaltewege Iₐ und die
-Annäherungsstrecken sₐ dargestellt werden, um dem Straßenbaulas räger deren Übertragung auf die Örtlichkeit zu erleichtern.
-Betriebliche Abläufe, die die Zugfahrt betrafen
-Das Handeln des an der Zugfahrt beteiligten Fdl ha e keinen Einfluss auf das Unfallgeschehen.
-4.1.2 Untersuchung der betrieblichen Abläufe der EVU
-Zur Untersuchung der Abläufe des EVU wurden die registrierten Fahrdaten der elektronischen
-Fahrtenregistrierung des Personenzuges DPN-G 84553 ausgewertet. Der Tf hielt die gemäß
-Buchfahrplan zulässige Geschwindigkeit von 60 km/h ein. Aus dem Wechsel der Spur L
+Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder 
 
-Seite 13 von 39
+Abbildung 1: Verkehrsgeographischer Lageplan 1 
 
-Untersuchungsbericht
-Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder
+3.1.2  Beteiligte	
 
-(Hauptlu leitung gefüllt) kann abgeleitet werden, dass der Tf eine Schnellbremsung
-eingeleitet ha e, die ca. 35 m vor dem BÜ wirksam wurde. Die Zusammenprallgeschwindigkeit des Triebfahrzeugs mit dem Pkw betrug ca. 47 km/h. Nachdem die Schnellbremsung wirksam war, kam der VT nach ca. 90 m zum Stehen.
-4.1.3 Pflichten des Straßenbaulastträgers
-Der § 14 Abs. 1 EBKrG regelt die Zuständigkeiten für die Anlagen an Kreuzungen von
-Eisenbahnen und Straßen. Soweit die Anlagen Straßenanlagen sind, hat diese der Träger der
-Straßenbaulast auf seine Kosten zu erhalten und bei BÜ auch in Betrieb zu halten. Die
-Erhaltung umfasst die laufende Unterhaltung und die Erneuerung. In § 14 Abs. 2 EBKrG
-werden die einzelnen Elemente des BÜ genau definiert und den jeweiligen Träger zugeordnet.
-Zu den Straßenanlagen gehören die Sich lächen, die Warnzeichen und Merktafeln (Baken)
-sowie andere der Sicherung des sich kreuzenden Verkehrs dienende Straßenverkehrszeichen
-und -einrichtungen.
-Die Eisenbahnanlage wurde in km 8,615 durch die Gemeindeverbindungsstraße von Meeder
-nach Birkenmoor gekreuzt. Der zuständige Straßenbaulas räger war die Gemeinde Meeder
-im Bundesland Bayern.
-In Bayern werden die Rechtsverhältnisse an öﬀentlichen Straßen, mit Ausnahme der
-Bundesfernstraßen, nach dem Bayerischen Straßen- und Wegegesetz (BayStrWG) geregelt. In
-Art. 26 BayStrWG wurde explizit auf die Freihaltung von Sich lächen, die durch bauliche
-Anlagen beeinträch gt werden, hingewiesen. Durch Art. 29 Abs. 2 BayStrWG wurden die
-Regelungen des Art. 26 BayStrWG in Bezug auf die Freihaltung der Sich läche eines BÜ von
-Anpflanzungen aller Art oder nicht festverbundenen Gegenständen präzisiert.
-Nach Art. 29 Abs. 4 BayStrWG ha e die Straßenbaubehörde den Betroﬀenen die Besei gung
-von Anlagen mindestens 14 Tage vorher schri lich anzukündigen, es sei denn, dass Gefahr im
-Verzug ist.
-Die Gemeinde Meeder übertrug die Aufgabe der Kontrolle und Freihaltung der Sich läche mit
-Hilfe einer Dienstanweisung Nr. DA 001B an den Straßenwärter der Gemeinde. In dieser
-Dienstanweisung wurden die Gemeindeverbindungstraßen in der Prioritätsstufe 1 geführt.
-Mit Priorität 1 eingestu e Straßen waren in einem ca. einwöchigen bis zweiwöchigen
-Zeitabstand zu kontrollieren. In dieser Dienstanweisung wurde explizit unter Kontrollaufgaben
+Die am Ereignis Beteiligten ha(cid:425)en die folgenden Funk(cid:415)onen: 
 
-Seite 14 von 39
+Für das EIU DB Netz AG (seit 01.01.2024 DB InfraGO AG) 
 
-Untersuchungsbericht
-Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder
+  Anlagenverantwortlicher Oberbau (Alv) 
 
-auf die Überprüfung der Sich läche hingewiesen und in der Checkliste zur Durchführung der
-Straßenkontrolle die Sich läche als Kontrollpunkt aufgelistet.
-4.1.4 Pflichten der Beteiligten an der Verkehrsschau
-Die Sicherung von BÜ ist eine Gemeinscha saufgabe der für die Eisenbahnanlage und die
-Straßenanlage Verantwortlichen. Hierzu zählen:
-
+Für das Eisenbahnverkehrsunternehmen (EVU) agilis Verkehrsgesellscha(cid:332) mbH & Co. KG 
 
-das Unternehmen, das die Baulast des Schienenweges der kreuzenden Eisenbahn
-trägt,
+  Tf des DPN-G 84553 
 
-
+Für den Straßenbaulas(cid:425)räger 
 
-gegebenenfalls das Unternehmen, das den Betrieb führt,
+  Gemeinde Meeder 
 
-
+Für den Straßenverkehrsteilnehmer 
 
-die behördliche Eisenbahnaufsicht,
+  Fahrer des Pkw 
 
-
+1 Quelle: Geobasisdaten: © GeoBasis-DE / BKG 2024, bearbeitet durch BEU 
 
-der Träger der Baulast der kreuzenden Straße,
+Seite 7 von 39 
 
-
+ 
+ 
+ 
+ 
+ 
+                                                 
+Untersuchungsbericht 
 
-die Straßenverkehrsbehörde,
+Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder 
 
-
+3.1.3  Äußere	Bedingungen	
 
-die Gemeinde,
+Zum Zeitpunkt des Ereignisses herrschten folgende Bedingungen: 
 
-
+Lichtverhältnisse 
 
-die Landespolizei bzw. die Bundespolizei (außer bei NE-Bahnen).
+Sicht 
 
-Diesen Stellen ist dadurch eine sachgerechte Zusammenarbeit geboten.
-Als Hilfsmi el zur Durchführung der Verkehrsschauen lag der „Lei aden zur Durchführung von
-Bahnübergangsschauen“ (Publika on 17.12.2002, Herausgeber: Unterausschuss „Verkehrssicherheit an Bahnübergängen“ des Bund-Länder-Fachausschusses Straßenverkehrsordnung)
-vor. In diesem Lei aden waren im Kapitel 4 auch die Ziele der Verkehrsschau festgelegt. In
-Kapitel 4.1 war darauf verwiesen, dass BÜ bis zur ihrer Besei gung einheitlich so zu gestalten
-seien, dass sie rechtzei g und eindeu g erkennbar, übersichtlich, begrei ar sowie sicher
-befahrbar und begehbar sind. Der BÜ musste den Anforderungen an Sicherheit und Ordnung
-des Eisenbahnverkehrs und des Straßenverkehrs zu jeder Zeit genügen. Der Vorrang des
-Schienenverkehrs vor dem Straßenverkehr musste jederzeit deutlich zu erkennen sein. In
-Kapitel 4.2 wurde darauf hingewiesen, dass der BÜ umgebaut oder verändert werden darf,
-wenn es die Sicherheit erfordert.
-Im Kapitel 4.3 wurde explizit darauf hingewiesen, dass die nach Kapitel 4.2 im Rahmen der
-Verkehrsschau als notwendig erkannten Maßnahmen im Rahmen des Möglichen umzusetzen
-seien.
+Bedeckung 
 
-Seite 15 von 39
+Temperaturen  
 
-Untersuchungsbericht
-Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder
+fallender Niederschlag 
 
-Teilnehmer an den Verkehrsschauen für den BÜ km 8,615:
-
+Niederschlagshäuﬁgkeit 
 
-DB Netz AG, DB Regionalnetz Franken
+Tageslicht 
 
-
+klar 
 
-Gemeinde Meeder, Straßenverkehrsbehörde/Straßenbaulas räger
+bewölkt 
 
-
+23°C 
 
-Eisenbahn-Bundesamt
+Nein 
 
-
+-- 
 
-Untere Straßenverkehrsbehörde
+Untergrund / gefallener Niederschlag  
 
-
+trocken 
 
-Polizeiinspek on Coburg
+Tabelle 2: Übersicht der äußeren Bedingungen 
 
-
+3.1.4  Todesopfer,	Verletzte	und	Sachschäden	
 
-Bundespolizeiinspek on Würzburg
+Bei dem Ereignis traten folgend aufgeführte Personenschäden ein: 
 
-4.1.5 Pflichten des Landratsamtes Coburg
-In der Allgemeinen Verwaltungsvorschri zur Straßenverkehrs-Ordnung (VwV-StVO) ist zu den
-§§ 39 bis 43 Allgemeines über Verkehrszeichen und Verkehrseinrichtungen, in den Hinweisen
-und Erläuterung zu den Zeichen 421, 422, 442 sowie 454 bis 466 im Absatz Nr. I für
-Umleitungsbeschilderungen festgelegt:
-„Umleitungen, auch nur von Teilen des Fahrverkehrs, und Bedarfsumleitungen sind in der
-Regel in einem Umleitungsplan festzulegen. Die zuständige Behörde hat sämtliche
-beteiligten Behörden und die Polizei, gegebenenfalls auch die Bahnunternehmen,
-Linienverkehrsunternehmen und die Versorgungsunternehmen zur Planung
-heranzuziehen. Dabei sind die Vorschri en des Straßenrechts, insbesondere des § 14 des
-Bundesfernstraßengesetzes und die entsprechenden Vorschri en der Landesstraßen‐
-gesetze zu berücksich gen. Bei allen in den Verkehrsablauf erheblich eingreifenden
-Umleitungsplänen empfiehlt es sich, einen Anhörungstermin anzuberaumen.“
-Im vorliegenden Ereignis behalfen sich ortskundige Straßenverkehrsteilnehmer, ansta der
-oﬃziell festgelegten Umleitung, auf eine alterna ve Route auszuweichen. Hierdurch kam es
-am BÜ km 8,615 zu einer vorübergehenden Steigerung des Verkehrsau ommens. Nach
-Auskun der DB Netz AG, Regionalnetz Franken wurde das EIU über dieses Geschehen nicht
-informiert. Gemäß VwV-StVO war dies den zuständigen Straßenverkehrsbehörden auch nicht
-geboten, da der BÜ km 8,615 nicht Teil der festgelegten Umleitungsstrecke war. Das EIU
-verarbeitet hingegen solche Informa onen, um gemäß maßgeblicher Ril 815.0020 Kapitel 2
-„Bewerten des Straßenverkehrs an Bahnübergängen“ eine evtl. notwendige Änderung der
-Sicherungsart zu veranlassen und dadurch die Sicherheit zu erhöhen. Die BEU wertete das am
+Anzahl Tote 
 
-Seite 16 von 39
+Anzahl schwer Verletzte  Anzahl leicht Verletzte 
 
-Untersuchungsbericht
-Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder
+Reisende 
 
-Ereignistag vorliegende, gesteigerte Verkehrsau ommen am BÜ km 8,615 nicht als Faktor mit
-Einfluss auf das Ereignis.
+Mitarbeiter 
 
-4.2 Fahrzeuge und technische Einrichtungen
-In diesem Kapitel sind die Erkenntnisse aus der Untersuchung beteiligter Fahrzeuge, der
-Eisenbahninfrastruktur und weiterer technischer Einrichtungen einschließlich damit eventuell
-verbundener Tä gkeiten und Entscheidungen dargestellt.
-4.2.1 Untersuchung von Fahrzeugen
-Die Zugfahrt DPN-G 84553 bestand aus einem einzeln fahrenden VT der Baureihe 650.
-Aus der folgenden Tabelle lassen sich die technischen Fahrzeugdaten entnehmen:
-Fahrzeugnummer Dieseltriebwagen
+Benutzer von 
+Bahnübergängen 
 
-95 80 0 650 703-1
+Dri(cid:425)e 
 
-Halter des Fahrzeuges
+Summe 
 
-agilis Verkehrsgesellscha mbH & Co. KG
+– 
 
-Antriebsart
+– 
 
-Dieselmechanisch
+2 
 
-Länge über Puﬀer
+– 
 
-25.500 mm
+2 
 
-Masse
+Tabelle 3: Übersicht der Personenschäden 
 
-40,0 t
+– 
 
-Höchstgeschwindigkeit
+– 
 
-120 km/h
+– 
 
-Radsatzfolge
+– 
 
-B’B’
+– 
 
-Zugsicherungssystem
+– 
 
-PZB 90
+1 
 
-Bremsbauart
+– 
 
-KB C el P A H Mg
+– 
 
-Tabelle 5: Technische Daten VT 650
+1 
 
-In der Abbildung Nr. 2 ist erkennbar, dass das Spitzensignal des VT erloschen war. Ursächlich
-hierfür war das durch das Ereignis abgerissene Mehrfach-Trak onskabel. Am Folgetag wurde
-das Mehrfach-Trak onskabel repariert und die Funk onsfähigkeit des Spitzensignals konnte
-festgestellt werden.
-Anzeichen für etwaige technische Mängel am beteiligten Fahrzeug ergaben sich nicht, so dass
-auf eine weitergehende Untersuchung verzichtet werden konnte.
-4.2.2 Untersuchung der bautechnischen Infrastruktur
-Der BÜ km 8,615 war gemäß § 11 Abs. 7 Nr. 2 in Verbindung mit Abs. 13 und Abs. 18 EBO bei
-mäßigem Verkehr und eingleisigen Nebenbahnen durch die Übersicht auf die Bahnstrecke in
-Verbindung mit hörbaren Signalen der Eisenbahnfahrzeuge gesichert.
+Die zwei Insassen des Pkw verstarben noch an der Unfallstelle. Der Tf erli(cid:425) einen Schock. 
 
-Seite 17 von 39
+Die geschätzte Höhe der Sachschäden in Euro setzte sich wie folgt zusammen: 
 
-Untersuchungsbericht
-Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder
+geschätzte Kosten in Euro 
 
-In Richtung der aufsteigenden Streckenkilometrierung gesehen, wurde der BÜ entsprechend
-Ril 815.0020 Abschn. 1 Abs. 1 in vier Quadranten eingeteilt. Die Quadranten Q I und Q IV lagen
-rechts der Bahn und die Q II und Q III links der Bahn.
-Die Übersicht der Straßenverkehrsteilnehmer auf den anrückenden Zug wurde durch die
-sogenannte Sich läche hergestellt. Die zugehörigen Sich lächen für das gefährliche Ereignis
-befanden sich im Q IV. Diese waren für eine minimale Geschwindigkeit von 10 km/h und für
-die maximal zulässige Geschwindigkeit von 20 km/h bemessen. Die Sicherung des BÜ
-erforderte zudem in Verbindung mit der Übersicht ein hörbares Signal der Eisenbahnfahrzeuge. Der Tf ha e am Standort des Signals Bü 4 – Pfei afel mit der Pfeifeinrichtung des
-Triebzuges etwa drei Sekunden lang zu pfeifen. Die Standorte der Signale Bü 4 für die
-minimale und maximale Geschwindigkeit der Straßenverkehrsteilnehmer waren gleichzei g
-die Sichtpunkte B und die Begrenzungspunkte der theore schen Sich lächen.
-Der Sehpunkt A kennzeichnete den Punkt in der Straßenmi e vor dem BÜ, von dem aus ein
-Verkehrsteilnehmer ein Eisenbahnfahrzeug sehen können musste, damit er noch vor dem
-Andreaskreuz zum Halten kam (Anhalteweg). Der Sichtpunkt B kennzeichnete den Punkt auf
-der Strecke, von dem ab das Eisenbahnfahrzeug für den Verkehrsteilnehmer sichtbar sein
-musste (Annäherungsstrecke). Für die Bemessung eines ntg BÜ wurden jeweils die Seh- und
-Sichtpunkte für die minimale und maximale Geschwindigkeit der Straßenverkehrsteilnehmer
-ermi elt.
-Die nachfolgende Abbildung zeigt ein digitales Orthophoto (DOP) und georeferenziertes
-Lu bild des BÜ km 8,615. Erkennbar ist der Verlauf der Straßen und der Eisenbahnlinie sowie
-deren
+Fahrzeuge 
 
-Kreuzungspunkt
+Infrastruktur 
 
-im
+Dri(cid:425)e 
 
-BÜ 8,615.
+Gesamtschadenshöhe 
 
-Weiterhin
+Tabelle 4: Übersicht der geschätzten Schadenshöhe 
 
-sind
+180.000 
 
-die
+500 
 
-Fahrtrichtung
+k. A. 
 
-des
+180.500 
 
-Straßenverkehrsteilnehmers und des Personenzuges DPN-G 84553 in Richtung BÜ dargestellt.
-Zur Orien erung sind die vier Quadranten des BÜ, die Pfei afeln, die Sehpunkte A₂₀ und A₁₀
-sowie die Sichtpunkte B₂₀ und B₁₀ für die maßgebliche Situa on eingezeichnet.
+Seite 8 von 39 
 
-Seite 18 von 39
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Untersuchungsbericht
-Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder
+Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder 
 
-Abbildung 4: Lu bild/Lageplan zur Verdeutlichung der Verkehrssitua on4
+Der Pkw wurde vollständig zerstört. Bei dem Verbrennungstriebwagen (VT) wurden durch den 
 
-Die nachfolgende Abbildung skizziert die bauliche Anlage des BÜ. Im Quadranten Q IV sind der
-Sehpunkt A₂₀ und der Sichtpunkt B₂₀ für die maximale Geschwindigkeit des Straßenverkehrsteilnehmers dargestellt. Ferner sind der Kreuzungspunkt des BÜ sowie die aus den Punkten
-resul erende theore sche Sich läche im Q IV markiert.
+Zusammenprall  das  Mehrfach-Trak(cid:415)onskabel  abgerissen  und  Teile  der  Verkleidungen 
 
-Abbildung 5: Bautechnische Skizze mit theore scher Sich läche5
+beschädigt.  Das  Andreaskreuz  im  Quadranten II  (Q II)  wurde  niedergerissen  und  der 
 
-4
+Betonpfosten zerstört. 
 
-Quelle: Geobasisdaten: © GeoBasis-DE / BKG 2020, bearbeitet durch BEU
+3.2  Sachliche	Beschreibung	der	Vorkommnisse	
 
-5
+Zur  Rekonstruk(cid:415)on  des  gefährlichen  Ereignisses 
 
-Quelle: IvL-Plan der DB Netz AG, bearbeitet durch die BEU
+sowie 
 
-Seite 19 von 39
+zur  Beschreibung  der 
 
-Untersuchungsbericht
-Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder
+No(cid:414)allmaßnahmen werden insbesondere auch die in Kapitel 4 enthaltenen Aufzeichnungen, 
 
-Sich lächen bezeichnen die Flächen, die durch die Verbindungslinien der Sehpunkte
-„A“ – hier A₂₀ – in der Straßenmi e zu Beginn des Anhalteweges für die geringste und höchste
-Räumgeschwindigkeit sowie den entsprechenden Sichtpunkten „B“ – hier B₂₀ – in der Gleismi e und den Mi ellinien von Gleis und Straße begrenzt werden. Gemäß Ril 815.0031 sind
-die durch diese Sich lächen definierten Bereiche freizuhalten.
-Nach Ril 815.0031 Abschn. 1 Abs. 5 mussten die Sich lächen so erweitert werden, dass
-Eisenbahnfahrzeuge vom Sehpunkt A₂₀ aus über die gesamte Annäherungsstrecke und über
-den gesamten Anhalteweg bis zum BÜ sichtbar blieben.
-Eine Besonderheit der erforderlichen Sich läche im Q IV des BÜ km 8,615 bestand darin, dass
-nicht nur das aufgespannte Dreieck zwischen dem Sehpunkt A, dem Sichtpunkt B und dem
-Kreuzungspunkt als Sich läche galt, sondern gemäß der Regel in Ril 815.0031, Abschn. 1,
-Abs. 5 auch die Fläche, die in Form eines Kreissegments von der Geraden durch den Sehpunkt
-A, den Sichtpunkt B und dem auskragenden Gleisbogen begrenzt wurde. Nur auf diese Weise
-war gewährleistet, dass ein herannahendes Schienenfahrzeug vom Sehpunkt B aus über die
-gesamte Annäherungsstrecke und den gesamten Anhalteweg bis zum BÜ gemäß den
-Regelwerksvorgaben tatsächlich sichtbar blieb.
-Vor Ort stellte die BEU fest, dass der Sichtpunkt B₂₀ an der Pfei afel in km 8,800 zwar vom
-Sehpunkt A₂₀ aus auf direkter Sichtachse erkennbar war, jedoch im Bereich rechts dieser Linie
-die Sicht auf sich annähernde Schienenfahrzeuge im anschließenden Gleisbogen durch
-Aufwuchs auf einem angrenzenden Maisfeld verdeckt war. Da der Streckenverlauf in
-Fahrtrichtung vor dem BÜ einen Rechtsbogen beschrieb, verließ der Zug zeitweise den
-Bereich, der vom Straßenverkehrsteilnehmer ab Sehpunkt A₂₀ einsehbar sein musste. Es
-stellte sich hierdurch für den Straßenverkehrsteilnehmer die vermeintliche Situa on ein, dass
-sich gegenwär g kein Schienenfahrzeug näherte.
-In der nachfolgenden Abbildung ist die tatsächlich einsehbare Sich läche gelb und der aus
-einer zum Gleisbogen tangen alen Sichtlinie aufgespannte, erforderliche einsehbare Bereich
-auf Schienenfahrzeuge rot bzw. rot schraﬃert gekennzeichnet. Hieraus ergibt sich die in der
-Abbildung blau umrandete tatsächlich erforderliche Sich läche um herannahende Schienenfahrzeuge vom Sehpunkt A₂₀ ab jederzeit vollständig erkennen zu können. Durch den Aufwuchs von Maispflanzen in der rot markierten Fläche konnte der Grundsatz, dass ein
+Auswertungen und Feststellungen etc. herangezogen. 
 
-Seite 20 von 39
+3.2.1  Hergangsbeschreibung	
 
-Untersuchungsbericht
-Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder
+Gegen 18:08 Uhr fuhr der Personenzug DPN-G 84553 nach einem Verkehrshalt in Großwalbur 
 
-Straßenverkehrsteilnehmer ab dem Sehpunkt A₂₀ ein herannahendes Schienenfahrzeug ab
-dem Sichtpunkt B₂₀ erkennen muss, nicht eingehalten werden.
+in Richtung Meeder ab. Der Tf beschleunigt den Zug und näherte sich nach ca. 3,3 km Fahrt 
 
-Abbildung 6: Tatsächliche erforderliche Sich läche Q IV für 20 km/h6
+dem BÜ in km 8,615. Der Zug fuhr mit einer gleichbleibenden Geschwindigkeit von 59 km/h 
 
-Die nachfolgende Abbildung zeigt die erforderliche Sich läche im Q IV vom Sehpunkt A₂₀ aus
-in Richtung Sichtpunkt B₂₀ in einem Meter Höhe. Rechts neben der direkten Sichtachse befand
-sich ein Maisfeld, dessen Aufwuchs einen Teil der erforderlichen Sich läche verdeckte.
+an den Sichtpunkten B₁₀ und B₂₀ des BÜ km 8,615 vorbei. Die Sichtpunkte waren jeweils mit 
 
-Abbildung 7: Sich läche im Q IV für 20 km/h Räumgeschwindigkeit
+einer Pfei(cid:332)afel markiert. Ca. 35 m vor dem BÜ wurde eine Schnellbremsung des VT wirksam. 
 
-Bei der Vor-Ort Untersuchung der BEU wurde diese Perspek ve vom Sehpunkt A₂₀ in Richtung
-Sichtpunkt B₂₀ für einen sich von Bad Rodach annähernden Zug im Q IV videotechnisch
+Der  Straßenverkehrsteilnehmer  hielt  nicht  vor  dem  Andreaskreuz  an,  um  dem  Zug  den 
 
-6
+Vorrang zu gewähren. Der Zusammenprall des Zuges auf den Pkw erfolgte mit beiden Puﬀern 
 
-Quelle: IvL-Plan DB Netz AG, bearbeitet durch BEU
+in  Höhe  der  beiden  rechten  Seitentüren.  Die  Zusammenprallgeschwindigkeit  des 
 
-Seite 21 von 39
+Triebfahrzeugs mit dem Pkw betrug ca. 47 km/h. Nachdem die Schnellbremsung wirksam war, 
 
-Untersuchungsbericht
-Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder
+kam der VT nach 90 m zum Stehen. 
 
-dokumen ert. Für eine Zeitdauer von etwa vier Sekunden konnte von der Posi on eines
-Straßenverkehrsteilnehmers das Schienenfahrzeug nicht mehr gesehen werden.
-Den Sachverhalt, dass die Sich läche zum Erkennen eines Schienenfahrzeugs in der
-Annäherungsstrecke entgegen der Ril 815.0031 Abschn. 1 nicht korrekt eingerichtet war,
-wertet die BEU als beitragenden Faktor [F2]. Dieser Umstand hat die Wahrscheinlichkeit eines
-Bahnübergangsunfalls erhöht.
-Zusammenarbeit der Beteiligten
-Die Sich lächen müssen nach den bautechnischen Gegebenheiten des BÜ für jeden
-Quadranten des BÜ und jeweils für die Mindest- und Maximalgeschwindigkeit des
-Straßenverkehrsteilnehmers sowie hinsichtlich der zulässigen Geschwindigkeit des
-Schienenverkehrs explizit ermi elt werden. Die berechneten Längen der Annäherungsstrecken des Schienenverkehrs sowie die Anhaltewege des Straßenverkehrs werden
-gewöhnlich als Skizze mit den jeweiligen Werten dargestellt. Die Sich lächenskizze für den BÜ
-km 8,615 wurde durch die DB Netz AG am 19.04.2011 aufgestellt und an die Gemeinde
-Meeder übergeben. Diese Unterlagen ha en eine Sich läche zur Grundlage, die gemäß
-Ril 815.0031 Abschn. 1 Abs. 4 korrekt so erweitert war, dass sie auch das Kreissegment über
-der Annäherungsstrecke des Schienenfahrzeugs enthielt. Siehe im Weiteren hierzu
-Kapitel 4.3.1.
-Die Inspek on der Sich läche erfolgte gewöhnlich vom Beginn des Anhalteweges
-(Sehpunkt A, hier A₂₀) auf direkter Sichtlinie zum Beginn der Annäherungsstrecke
-(Sichtpunkt B, hier B₂₀). Dabei war bis zum Kreuzungspunkt zu prüfen, ob Hindernisse von
-mehr als einem Meter Höhe vorhanden waren, die den Zug verdecken konnten. Um die
-Freihaltung der Sich lächen ohne messtechnischen Aufwand prüfen zu können, konnte nach
-der Ril 815.0031 die Lage der Sicht- und Sehpunkte dauerha an der Bahntrasse bzw. der
-Straße
+Die nachfolgende Abbildung zeigt die Front des VT mit den erkennbaren Unfallspuren nach 
 
-markiert werden. Bei
+dem Zusammenprall. 
 
-der
+Seite 9 von 39 
 
-Vor-Ort-Untersuchung
+ 
+ 
+Untersuchungsbericht 
 
-wurde
+Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder 
 
-kein verorteter
+Abbildung 2: Front des beteiligten VT2 
 
-Orien erungspunkt für den Inspekteur vorgefunden.
-Der an der Pfei afel in km 8,800 festgelegte Orien erungspunkt als Sichtpunkt B₂₀ war in
-diesem Fall für den Inspekteur zur vollständigen Bewertung der Sich läche nicht ausreichend,
-da bei Bes mmung der Sich läche nur von diesem Punkt aus die Sicht auf die vollständige
-Annäherungsstrecke des Schienenfahrzeugs unberücksich gt blieb. Näheres hierzu siehe
-Kapitel 4.3.2.
+Der  Pkw  wurde  durch  den  Zug  nach  rechts  in  den  unterhalb  der  Bahnböschung  liegenden 
 
-Seite 22 von 39
+Acker  geschoben.  Dabei  wurde  das  Andreaskreuz  niedergerissen  und  der  Betonpfosten 
 
-Untersuchungsbericht
-Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder
+zerstört.  Die  nachfolgende  Abbildung  zeigt  den  beteiligten  Pkw  nach  dem  Zusammenprall 
 
-Verkehrsbeschilderung für den Straßenverkehrsteilnehmer
-Die Verkehrszeichen mussten entsprechend der Straßenverkehrsordnung (StVO) zur
-Ankündigung des BÜ angeordnet werden. Die erforderliche Beschilderung wird für
-Standardsitua onen in Regel- und Zusatzplänen dargestellt, diese sind im Lei aden zur
-Durchführung von Verkehrsschauen eingearbeitet. In der nachfolgenden Abbildung wird der
-Beschilderungsplan des BÜ 8,615 dargestellt.
+sowie die Standorte der beteiligten Fahrzeuge nach dem Zusammenprall. 
 
-Abbildung 8: Beschilderungsplan BÜ km 8,6157
+Abbildung 3: Standorte des beteiligten Pkw und Triebzuges3 
 
-Bei der Vor-Ort-Untersuchung wurde kein Mangel an der Beschilderung des BÜ festgestellt.
-Weiterhin wurde festgestellt, dass am BÜ ein erhöhtes Straßenverkehrsau ommen vorlag.
-Als Ursache für das erhöhte Straßenverkehrsau ommen konnte eine Vollsperrung einer
-Kreisstraße ausgemacht werden, die eine großräumige Umleitung erforderte und
-Ausweichverkehr Ortkundiger auslöste. Die oﬃzielle Umleitung führte nicht über diesen BÜ.
+2 Quelle: DB Netz AG Notfallmanager 
 
-7
+3 Quelle: DB Netz AG Notfallmanager 
 
-Quelle DB AG
+Seite 10 von 39 
 
-Seite 23 von 39
+ 
+ 
+ 
+ 
+                                                 
+Untersuchungsbericht 
 
-Untersuchungsbericht
-Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder
+Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder 
 
-Verkehrszählung
-Nach dem Bahnübergangsunfall musste nach Ril 815.0020 Abschn. 2 Abs. 2 eine erneute
-Verkehrszählung durchgeführt werden. Die Verkehrszählung wurde von Freitag, 07.08.2020,
-05:34 Uhr bis Donnerstag, 13.08.2020, 22:24 Uhr durchgeführt. Die nachfolgende Tabelle
-zeigt die erhobenen Daten der durchgeführten Verkehrszählung.
-Anzahl der Fahrzeuge über den Messzeitraum
+Nachdem der Zug zum Halten gekommen war, setzte der Tf einen Notruf über GSM-R an den 
 
-6.561
+zuständigen Fahrdienstleiter (Fdl) in Coburg ab, der darau(cid:300)in die No(cid:414)allke(cid:425)e ak(cid:415)vierte. 
 
-Donnerstag, der Tag mit den meisten Fahrzeugen
+3.2.2  Notfallmanagement	
 
-1.131
+Nach  § 4  Abs. 3  AEG  haben  die  Eisenbahnen  die  Verpﬂichtung,  an  Maßnahmen  des 
 
-Durchschni liche Anzahl Fahrzeuge pro Tag
+Brandschutzes  und  der  technischen  Hilfeleistung  mitzuwirken.  Die  Innenministerien  der 
 
-979
+Länder  und  die  DB  AG  haben  sich  auf  folgende  Verfahrensweise  verständigt.  Für  die 
 
-0 – 19 km/h
+DB Netz AG  gelten  die  entsprechenden  Brand-  und  Katastrophenschutzgesetze  der  Länder. 
 
-68 / 1,04 %
+Das No(cid:414)allmanagement der DB AG ist in der Konzernrichtlinie 123, das der DB Netz AG in der 
 
-20 – 29 km/h
+Richtlinie (Ril) 423 näher beschrieben und geregelt. 
 
-245 / 3,73 %
+Das  Ereignis  wurde  um  18:15 Uhr  durch  den  Fdl  Coburg  an  die  zuständige  No(cid:414)allleitstelle 
 
-30 – 39 km/h
+(NFLS) München gemeldet. Um 18:17 Uhr wurde von der NFLS die integrierte Leitstelle Coburg 
 
-446 / 6,80 %
+verständigt, die die Re(cid:425)ungske(cid:425)e aufrief. 
 
-40 – 49 km/h
+Unregelmäßigkeiten oder Verzögerungen in Bezug auf das Einleiten von Re(cid:425)ungsmaßnahmen 
 
-1.420 / 21,60 %
+wurden der BEU im Rahmen der Unfalluntersuchung nicht bekannt. 
 
-50 – 199 km/h
+Seite 11 von 39 
 
-4.382 / 66,79 %
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Höchstgeschwindigkeit
+Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder 
 
-104 km/h
+4  Auswertung	des	Ereignisses	
 
-Minimalgeschwindigkeit
+In diesem Kapitel werden insbesondere die im Rahmen der Unfalluntersuchung ermi(cid:425)elten 
 
-15 km/h
+maßgeblichen sicherheitskri(cid:415)schen Faktoren dargestellt. Hierbei wird im jeweiligen Einzelfall 
 
-Geschwindigkeitsüberschreitung bei 20 km/h
+auf die Aufgaben und Pﬂichten einzelner Personen und Stellen, auf beteiligte Fahrzeuge und 
 
-98,6 %
+technische  Einrichtungen  genauso  eingegangen  wie  auf  konkrete  menschliche  Handlungen 
 
-Tabelle 6: Daten der Verkehrszählung8
+sowie auf Feedback- und Kontrollmechanismen. Sofern Informa(cid:415)onen zu früheren Ereignissen 
 
-Die Datenerhebung der Verkehrszählung ergab, dass eine durchschni liche Erhöhung um
-329 Kra fahrzeuge täglich gegenüber den bisher angenommenen 650 Querenden am BÜ
-vorlag. Die EBO forderte eine technische Bahnübergangssicherungsanlage (BÜSA) ab starken
-Verkehr, dieser ist mit der Querung von 2500 Kra fahrzeugen innerhalb eines Tages definiert.
-Auﬀällig war, dass nur 1,4 % der BÜ querenden Kra fahrzeuge die erlaubte Geschwindigkeit
-von 20 km/h einhielten.
-4.2.3 Untersuchung der Leit‐ und Sicherungstechnik
-Es waren keine Elemente der Leit- und Sicherungstechnik (LST) beteiligt. Deshalb konnte auf
-eine weitergehende Untersuchung verzichtet werden.
+vorliegen, werden diese in einem weiteren Unterkapitel dargestellt. 
 
-8
+4.1  Aufgaben	und	Pflichten	
 
-Quelle DB Netz AG, bearbeitet durch BEU
+In diesem Kapitel werden unbeschadet des Ar(cid:415)kels 20 Abs. 4 der Richtlinie (EU) 2016/798 die 
 
-Seite 24 von 39
+Aufgaben  und  Pﬂichten  von  Personen  und  Stellen  behandelt,  die  an  dem  Ereignis  beteiligt 
 
-Untersuchungsbericht
-Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder
+waren. Untersuchungen zu Schuld- oder Ha(cid:332)ungsfragen sind explizit ausgeschlossen und nicht 
 
-4.3 Menschliche Faktoren
-In diesem Kapitel werden Untersuchungserkenntnisse zu menschlichen Handlungen und/oder
-Entscheidungen am gefährlichen Ereignis beteiligter Personen dargestellt. Entsprechende
-Erkenntnisse können sich hierbei insbesondere im Bereich menschlicher und individueller
-Merkmale sowie organisatorischer und Arbeitsplatzfaktoren ergeben.
-4.3.1 Inspektion des BÜ und die Sichtflächen durch die DB Netz AG
-Der Alv war Bezirksleiter Oberbau. Die Anlagenverantwortung für den BÜ km 8,615 wurde ihm
-am 01.08.2019 zugewiesen.
-Gemäß Ril 815.0040 Abschn. 2 Abs. 4 musste der BÜ dreimal pro Jahr, in höchstens sechs
-Monaten Abstand, durch den Alv inspiziert werden. Diese Inspek on beinhaltete auch die
-Kontrolle der Sich lächen des BÜ.
-Die letzte Inspek on des BÜ durch die DB Netz AG wurde durch den Alv am 13.05.2020
-durchgeführt. Als einziger Mangel in der Inspek onsniederschri
+Untersuchungsgegenstand. 
 
-war vermerkt, dass die
+4.1.1  Untersuchung	der	betrieblichen	Abläufe	des	Infrastrukturbetreibers	
 
-Seitenmarkierung erneuert werden müsse.
-Wenn saisonbedingt, beispielsweise durch Aufwuchs, die Sicherheit am BÜ beeinträch gt
-werden konnte, waren gemäß Ril 815.0040 Abschn. 2 Abs. (4) die Inspek onen in kürzeren
-Abständen durchzuführen oder zusätzliche Inspek onen einzuführen. Im konkreten Fall war
-aus den vorgelegten Unterlagen nicht ersichtlich, dass während der Vegeta onsphase auf
-dem benachbarten Maisfeld eine Verkürzung der Inspek onsfristen oder zusätzliche
-Inspek onen festgelegt wurden. Dieser Umstand wird als beitragender Faktor für den
-Bahnübergangsunfall angesehen, da die Wahrscheinlichkeit eines Bahnübergangsunfalls
-durch von aufwachsenden Maispflanzen zeitweise verdeckte Schienenfahrzeuge erhöht war
-[F3].
-4.3.2 Inspektion des BÜ und die Sichtflächen durch die Gemeinde Meeder
-Die Inspek on der Sich läche des BÜ erfolgte auf Seiten des Straßenbaulas rägers durch den
-Straßenwärter der Gemeinde Meeder. Der Straßenwärter ha e die Befähigung zur Kontrolle
-im Zuge seiner Ausbildung im Bereich der Straßenkontrollen und durch direkte Einweisung
-seitens der DB, dem LRA und der Gemeindeverwaltung im Zuge der Verkehrsschau, sowie aus
-den Unterlagen der DB Netz AG zur Einsicht erhalten. Die nachfolgende Abbildung zeigt die
-Sich lächenskizze des BÜ, angefer gt durch die DB Netz AG am 14.04.2011 und am gleichen
-Tag an die Gemeinde Meeder ausgehändigt.
+Das  gemäß  § 2  Abs. 1  AEG  verantwortliche  EIU  DB Netz AG  verfügte  über  eine  Sicherheits-
 
-Seite 25 von 39
+genehmigung gemäß § 7c AEG, die bis zum 19.10.2021 gül(cid:415)g war. 
 
-Untersuchungsbericht
-Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder
+Gemäß  §  4 Abs. 3  AEG  sind  Eisenbahnen  verpﬂichtet,  ihren  Betrieb  sicher  zu  führen,  die 
 
-Abbildung 9: Skizze der Sich läche aufgestellt durch DB Netz AG am 19.04.20119
+Eisenbahninfrastruktur  sicher  zu  bauen  und  in  betriebssicherem  Zustand  zu  halten.  Zudem 
 
-Die nachfolgende Abbildung 10 zeigt eine Skizze auf Basis des Planes „Ingenieurvermessung
-Lage“ (IvL) mit dem BÜ. Diese war dem EIU und dem Straßenbaulas räger bekannt. Auf der
-Skizze waren die Sich lächen des BÜ gelb markiert, speziell im Q IV wurde die theore sche
-Sich läche, die sich aus den vorgegebenen Kenndaten ergab, um die für das Einsehen der
-Annäherungsstrecke zusätzlich erforderliche Sich läche ergänzt. Das Anfer gungsdatum der
-Skizze durch die DB Netz AG und Übergabedatum an die Gemeinde Meeder blieb unbekannt.
+muss gemäß § 4 Abs. 4 AEG i. V. m. der Richtlinie (EU) 2016/798 ein SMS eingerichtet sein. 
 
-Abbildung 10: IvL-Plan von der DB Netz AG mit eingezeichneten Sich lächen10
+Inhaltliche  Maßstäbe  für  ein  SMS  waren  die  Aufstellung  und  Einhaltung  der  in  der 
 
-9
+Verordnung (EU) 2018/762 genannten Anforderungen an ein SMS. 
 
-Quelle: Gemeinde Meeder, bearbeitet durch BEU
+Betriebliche Abläufe, die die technische Einrichtung betrafen 
 
-10
+Gemäß § 11 Abs. 3 der Eisenbahn-Bau- und Betriebsordnung (EBO) hat der Eisenbahnverkehr 
 
-Quelle: Gemeinde Meeder
+an BÜ Vorrang vor dem Straßenverkehr. Der Vorrang ist durch Aufstellen von Andreaskreuzen 
 
-Seite 26 von 39
+zu kennzeichnen. Am BÜ km 8,615 kreuzte die eingleisige Nebenbahn Coburg – Bad Rodach 
 
-Untersuchungsbericht
-Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder
+die  Gemeindeverbindungsstraße  von  Meeder  nach  Birkenmoor.  Der  BÜ  wurde  täglich  von 
 
-Ergänzt wurden diese Unterlagen für die Sich lächen auch mit einem DOP des BÜ km 8,615
-vom 19.07.2012, das mit dem IvL-Plan überlagert war. Die DB Netz AG zeichnete auf diesem
-DOP die tatsächlich notwendige Sich läche im Q IV mit Maßangabe ein. Die Abbildung 11 zeigt
-das DOP mit der eingezeichneten direkten Sichtachse (roter Strich) vom Sehpunkt A₂₀ für die
-erforderliche Sich läche im Q IV. Durch das Einzeichnen der Sichtachse auf dem Foto wird
-erkennbar, welche Bereiche der Sich läche sich nicht im Eigentum der Kreuzungsbeteiligten
-befanden. Diese Bereiche wurden mit einem gelben Strich umrandet.
+ca. 650  Kra(cid:332)fahrzeugen  überquert  und  deshalb  nach  der  EBO  mit  mäßigem  Verkehr 
 
-Abbildung 11: Sich lächenvorgabe der DB Netz AG an die Gemeinde Meeder11
+eingestu(cid:332). Der BÜ dur(cid:332)e nach § 11 Abs. 7 Nr. 2. EBO durch die Übersicht auf die Bahnstrecke 
 
-Nicht aufgeklärt werden konnte, nach welchem Dokument sich die Inspek on der tatsächlich
-erforderlichen Sich läche richtete und wie diese in der Örtlichkeit bes mmt und zur
-Unterstützung der handelnden Personen verortet war. Gemäß Ril 815.0031 konnte die Lage
-der Sicht- und Sehpunkte dauerha an der Bahntrasse bzw. der Straße markiert werden.
-Dieses Regelwerk galt jedoch nur für die interne Anwendung beim EIU. Derar ge
-Markierungen hä en auch nicht die geometrische Besonderheit der Sichtbeziehung für
-Straßenverkehrsteilnehmer auf die Annäherungsstrecke im Gleisbogen berücksich gt.
-Die fehlende Berücksich gung der geometrischen Besonderheit der Sich läche einschließlich
-nicht verwirklichter Orien erungsmarkierungen in den Straßen- und Bahnanlagen werden
-daher als ein systemischer Faktor für den Bahnübergangsunfall angesehen. Die freizuhaltende
-Sich läche für ein stetes Ersehen eines herannahenden Schienenfahrzeugs war in der Ke e
-der Beteiligten und ihrer handelnden Personen nicht präzise bes mmt und verortet [S2].
-11
+in Verbindung mit hörbaren Signalen der Eisenbahnfahrzeuge gesichert werden. 
 
-Quelle: Gemeinde Meeder
+Gemäß § 17 EBO sind die Bahnanlagen planmäßig auf ihre ordnungsgemäße Beschaﬀenheit 
 
-Seite 27 von 39
+zu  untersuchen.  Den  genauen  Umfang  und  zeitlichen  Fristen  der  Überprüfung  der 
 
-Untersuchungsbericht
-Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder
+Seite 12 von 39 
 
-Der BEU wurden die „Dokumenta on Kontrolle“ des Straßenwärters vom 04.05.2020 mit den
-Mängeln „Banke zu ef und private Hecke ragt auf Fahrbahn“ vorgelegt. Mängel an den
-Sich lächen des BÜ wurden nicht erwähnt. Die nächste vorliegende „Dokumenta on
-Kontrolle“ war vom 21.09.2020. Nach der Dienstanweisung Nr. DA 001B in Verbindung mit der
-Prioritätenliste war die Gemeindestraße und somit auch die Sich läche des BÜ in einem
-einwöchigen bis zweiwöchigen Turnus zu kontrollieren. Diese Kontrollen waren schri lich zu
-dokumen eren. Ob die Kontrolle der Sich läche nach einem maximal zweiwöchigen Intervall
-durchgeführt wurde, war nicht dokumen ert. Dieser Umstand wird als systemischer Faktor
-für den Bahnübergangsunfall angesehen, da eine nicht nachvollziehbare Ausübung der
-bestehenden Pflicht zur Instandhaltung die Wahrscheinlichkeit des Bahnübergangsunfalls
-erhöhte [S3].
-Schri verkehr Gemeinde Meeder mit den Anliegern an der Sich läche BÜ
-Stellte die Gemeinde Meeder bei einer Inspek on der Sich läche eines BÜ eine
-Beeinträch gung der Sich läche ohne eigene Ursache fest, musste sie nach dem BayStrWG
-handeln. Nach Art. 29 BayStrWG musste der Baulas räger primär den Eigentümern und
-Besitzern eine angemessene Frist gewähren, damit dieser innerhalb der Frist die gefährliche
-Anpflanzung besei gte.
-Der erste Schri verkehr betreﬀend die Sich läche des BÜ km 8,615 im Q IV, der der BEU
-vorliegt, war vom 19.07.2012. In diesem Schreiben wurde der Anlieger des Grundstücks auf
-die Problema k einer durch Pflanzenbewuchs zugewachsenen Sich läche auf seinem
-Grundstück hingewiesen:
-„aufgrund einer Beschwerde durch die DB Netz AG und durch Ortseinsichtnahme am
-18.07.2012 sehen wir uns gezwungen Sie zur Freihaltung von Sich lächen am
-Bahnübergang 8.615 anzuhalten.
-Unter Berücksich gung der Abstandsverhältnisse des Andreaskreuzes von 16 m zu dem
-anschließenden Bahnübergang, ist eine Sich läche von 185 m einzuhalten. Anliegend
-erhalten Sie einen Lageplan zur Veranschaulichung der Sich läche. Die gelb markierte
-Fläche ist frei zu halten.
-Wir weisen hiermit ausdrücklich darauf hin, dass die Sicherheit hier stark gefährdet wird
-und eine umgehende Umsetzung Ihrerseits erforderlich ist.“
+ 
+ 
+Untersuchungsbericht 
 
-Seite 28 von 39
+Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder 
 
-Untersuchungsbericht
-Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder
+Bahnübergangsanlage  regelte  für  das  EIU  die  Ril 815 „Bahnübergänge  planen  und  instand 
 
-Dem Schreiben wurde die DOP-Skizze Abbildung 11 mit der eingezeichneten Sich läche
-angefügt.
-Dass den Beteiligten das Problem der Sichteinschränkungen mindestens seit dem Jahre 2010
-bekannt war, geht aus dem vorliegenden Schri verkehr zwischen verschiedenen Stellen
-hervor. Dieser enthält unter anderem die Weigerung eines Beteiligten, die Gefahr aufgrund
-von Schadenersatzansprüchen zu besei gen. Zudem wurden teilweise sehr kurze Fristen von
-nur einem Tag gesetzt, was darauf hindeutet, dass bereits damals Gefahren vorlagen.
-Eine Ursache für die verzögerte Abhilfe durch die Gemeinde könnte in den einschlägigen
-gesetzlichen Grundlagen liegen. Die Gemeinde war an das BayStrWG gebunden und ha e im
-Gegensatz zu den Eisenbahnen gemäß AEG nicht das vergleichbare Recht, der Sicherheit
-dienende Maßnahmen bei Gefahr in Verzug durchzusetzen. Diese Diskrepanz zwischen dem
-AEG und dem BayStrWG wurde im Rahmen dieser Untersuchung iden fiziert.
-4.3.3 Beteiligte des Infrastrukturbetreibers
-Die Qualifika on des beteiligten Fdl wurde nicht näher untersucht, da seine Handlungen
-keinen Einfluss auf das Ereignis ha en.
-4.3.4 Beteiligte der EVU
-Der Tf des Zuges DPN-G 84553 war im Besitz eines gül gen Triebfahrzeugführerscheins gemäß
-Triebfahrzeugführerscheinverordnung. Für das Führen von Eisenbahnfahrzeugen erhielt er
-vom verantwortlichen EVU eine Zusatzbescheinigung, in der u. a. die Befähigung zum Führen
-der Tfz-Baureihe und weitere Zusatzqualifika onen eingetragen waren. Der Tf konnte die
-notwendige Streckenkunde für die Strecke nachweisen. Die Nachweise zu durchgeführten
-Überwachungen sowie Fortbildungen des Tf zeigten keine Auﬀälligkeiten. Wie im Kapitel 4.1.2
-beschrieben, wurden die zulässigen Geschwindigkeiten durch den Tf eingehalten.
-Bzgl. der Dienstausübung des Tf waren keine Feststellungen für ereignisrelevante Faktoren zu
-ermi eln.
-4.3.5 Beteiligter Straßenverkehrsteilnehmer
-Nach den behördlichen Ermi lungen war der Fahrer des Pkw berech gt das Fahrzeug zu
-führen und am öﬀentlichen Straßenverkehr teilzunehmen. Es lagen keine Einschränkungen
-der Fahrtüch gkeit des Fahrers vor. Hinweise für einen möglichen Suizid lagen nicht vor.
+halten“. 
 
-Seite 29 von 39
+Das Gesetz über Kreuzungen von Eisenbahnen und Straßen (EBKrG) regelt die Zuständigkeiten 
 
-Untersuchungsbericht
-Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder
+an den BÜ-Anlagen einer Kreuzung von Eisenbahnen und Straßen und die jeweiligen Pﬂichten 
 
-Gemäß § 19 Abs. 1 StVO haben Schienenfahrzeuge an BÜ Vorrang. Der Straßenverkehr darf
-sich solchen BÜ zudem nur mit mäßiger Geschwindigkeit nähern. Nach den erfolgten
-Ermi lungen wurde der BÜ mit der vorgeschriebenen Geschwindigkeit von 20 km/h
-überfahren, jedoch wurde der Vorrang des Schienenverkehrs nicht beachtet. Wäre die
-Missachtung des gebotenen Vorrangs eines Schienenfahrzeugs vermieden worden, wäre das
-Ereignis nicht eingetreten. Die BEU wertet diesen Sachverhalt daher als ursächlichen Faktor
-[F1].
+des einzelnen zuständigen Trägers. 
 
-4.4 Feedback‐ und Kontrollmechanismen
-In diesem Kapitel wird insbesondere auf Bedingungen, Feedback- und Kontrollmechanismen
-im Eisenbahnsystem eingegangen, denen ein ak ver Einfluss auf die Entstehung ähnlicher
-Ereignisse zugeschrieben werden könnte. Diese Mechanismen schließen Faktoren des Risikound Sicherheitsmanagement sowie Überwachungsverfahren mit ein.
-4.4.1 Verkehrsschauen durch die Straßenverkehrsbehörden
-Die Straßenverkehrsbehörden oder Straßenbaulas räger ha en nach der VwV-StVO
-mindestens alle zwei Jahre eine umfassende Verkehrsschau durchzuführen, bei der
-insbesondere die Straßenverkehrsanlagen am BÜ zu prüfen waren.
-Die Gemeinde Meeder überließ der BEU die Protokolle der Verkehrsschauen am BÜ km 8,615
-mit Durchführungsdatum 31.03.2015 sowie 16.01.2018 und die DB Netz AG das Protokoll der
-Sonderverkehrsschau vom 29.07.2020 nach dem gefährlichen Ereignis.
-In der Ergebnisniederschri zur Verkehrsschau vom 31.03.2015 war festgestellt:
-
+Der  § 14 Abs. 1 EBKrG  regelt  die  Zuständigkeiten  für  die  Anlagen  an  Kreuzungen  von 
 
-regelmäßig Sichtfelder freihalten, insbesondere Büsche in Q I entfernen
+Eisenbahnen und Straßen. Soweit die Anlagen Eisenbahnanlagen sind, hat diese das EIU auf 
 
-
+seine  Kosten  zu  erhalten  und  bei  BÜ  auch  in  Betrieb  zu  halten.  Soweit  die  Anlagen 
 
-bei evtl. Maisanbau und keiner Entfernung durch die Landwirte muss VZ 274-51
-(10 km/h) aufgestellt werden (notwendige Sichtweite dann nur 6 m)
+Straßenanlagen  sind,  ist  analog  der  Träger  der  Straßenbaulast  zuständig.  Die  Erhaltung 
 
-
+umfasst die laufende Unterhaltung und die Erneuerung. Die einzelnen Elemente des BÜ sind 
 
-links und rechts der Bahn Haltelinien (VZ 294) erneuern, Q IV: VZ 151 mit VZ 157-10
-(0VZ 156) richten und fixieren
+im  § 14 Abs. 2 EBKrG  genau  deﬁniert  und  den  jeweiligen  Trägern  zugeordnet.  Zu  den 
 
-Es bestanden folgende Feststellungen zur Verkehrsschauen am 16.01.2018:
-
+Eisenbahnanlagen gehören das sowohl dem Eisenbahnverkehr als auch dem Straßenverkehr 
 
-Sichtfelder regelmäßig freihalten
+dienende Kreuzungsstück, begrenzt durch einen Abstand von 2,25 m von der äußeren Schiene 
 
-
+und parallel zu ihr verlaufend, die Warnkreuze (Andreaskreuze) sowie andere der Sicherung 
 
-bei evtl. Maisanbau und keiner Entfernung durch die Landwirte muss VZ 274-51
-(10 km/h) aufgestellt werden (notwendige Sichtweite dann nur 6 m)
+des sich kreuzenden Verkehrs dienende Eisenbahnzeichen und -einrichtungen. 
 
-
+Übergabe der Bahnübergangsdaten von der DB Netz AG an die Gemeinde Meeder 
 
-links und rechts der Bahn Haltelinien (VZ 294) erneuern
+Im  Rahmen  der  Vereinbarung  einer  Eisenbahnkreuzungsmaßnahme  in  Verbindung  mit  den 
 
-Seite 30 von 39
+konkre(cid:415)sierenden Regeln in Ril 815.0031 Abschn. 1 „Sich(cid:414)lächen bilden“ sind die Maße der 
 
-Untersuchungsbericht
-Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder
+Sich(cid:414)läche  dem  zuständigen  Straßenbaulas(cid:425)räger  in  schri(cid:332)licher  Form  zu  übergeben.  Auf 
 
-
+seinen Wunsch sollen sie ihm auch örtlich aufgezeigt werden. 
 
-Fahrbahnrandmarkierung VZ 295 erneuern durch DB.
+Ergänzt wird diese verbindlich geltende Bes(cid:415)mmung durch gegebene Hinweise in der Ril 815. 
 
-Bei der Sonderverkehrsschau am 29.07.2020 wurde festgestellt:
-
+Sich(cid:414)lächen  können  in  Skizzen  mit  den  gül(cid:415)gen  Maßen  für  die  Anhaltewege Iₐ  und  die 
 
-Feststellen und Auswertung des aktuellen Verkehrsaufkommens mittels Messgerät für
-mindestens 7 Tage
+Annäherungsstrecken sₐ  dargestellt  werden,  um  dem  Straßenbaulas(cid:425)räger  deren  Über-
 
-
+tragung auf die Örtlichkeit zu erleichtern. 
 
-Installation einer Geschwindigkeitstafel in zeitlichen Abständen als Hinweis für die
-Verkehrsteilnehmer
+Betriebliche Abläufe, die die Zugfahrt betrafen 
 
-
+Das Handeln des an der Zugfahrt beteiligten Fdl ha(cid:425)e keinen Einﬂuss auf das Unfallgeschehen. 
 
-Übermitteln der Verkehrsstärke an die DB Netz AG
+4.1.2  Untersuchung	der	betrieblichen	Abläufe	der	EVU	
 
-
+Zur Untersuchung der Abläufe des EVU wurden die registrierten Fahrdaten der elektronischen 
 
-Sichtfeld im Bereich des 16 m Punkts des Q IV (sehr geringfügig eingeschränkt und vor
-Ort hergestellt) Sicht im 6 m Punkt vorhanden. Rückschnitt großzügig durchführen
-sowie regelmäßige Kontrolle gemäß den gesetzlichen Vorgaben
+Fahrtenregistrierung  des  Personenzuges  DPN-G 84553  ausgewertet.  Der  Tf  hielt  die  gemäß 
 
-
+Buchfahrplan  zulässige  Geschwindigkeit  von  60 km/h  ein.  Aus  dem  Wechsel  der  Spur L 
 
-Dingliche Eintragung der Sichtflächen prüfen
+Seite 13 von 39 
 
-
+ 
+ 
+Untersuchungsbericht 
 
-Beschilderung GVS Meeder Fahrtrichtung Birkenmoor Anbringen folgende Schilder
-beidseitig:
- Z 156 (drei streifige Bake) mit Zusatzschild 150 m mit Z 151 Bahnübergang
-zusätzlich Z 274 (50 km/h)
- Z 159 (zweistreifige Bake) mit Zusatzschild 100 m
- Z 162 (einstreifige Bake) mit Zusatzschild 50 m
+Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder 
 
-
+(Hauptlu(cid:332)leitung  gefüllt)  kann  abgeleitet  werden,  dass  der  Tf  eine  Schnellbremsung 
 
-Versetzung Z 274 (20 km/h) mit Abstand 25 Meter zu Bahnübergang
+eingeleitet  ha(cid:425)e,  die  ca. 35 m  vor  dem  BÜ  wirksam  wurde.  Die  Zusammenprall-
 
-
+geschwindigkeit des Triebfahrzeugs mit dem Pkw betrug ca. 47 km/h. Nachdem die Schnell-
 
-Fahrtrichtung Meeder kommend von Birkenmoor Anbringen /Abänderung folgende
-Verkehrszeichen:
- Z 156 (dreistreifige Bake) mit Z 151 Bahnübergang sowie Z 274 (70 km/h)
-(kurvenreiche Strecke / VRA erlassen)
- Z 159 (zweistreifige Bake) mit Z 274 (50 km/h)
- Z 162 (einstreifige Bake) Versetzung Z 274 (20 km/h) mit Abstand 25 Meter zu
-Bahnübergang
- Z 214 (vorgeschriebene Fahrtrichtung gerade / rechts) Einfahrt in Feldweg
+bremsung wirksam war, kam der VT nach ca. 90 m zum Stehen. 
 
-Nach den der BEU vorliegenden Unterlagen wurde bei der Verkehrsschau im Jahr 2015
-festgestellt,
+4.1.3  Pflichten	des	Straßenbaulastträgers	
 
-dass
+Der § 14 Abs. 1 EBKrG  regelt  die  Zuständigkeiten  für  die  Anlagen  an  Kreuzungen  von 
 
-der
+Eisenbahnen und Straßen. Soweit die Anlagen Straßenanlagen sind, hat diese der Träger der 
 
-Maisanbau
+Straßenbaulast  auf  seine  Kosten  zu  erhalten  und  bei  BÜ  auch  in  Betrieb  zu  halten.  Die 
 
-die
+Erhaltung  umfasst  die  laufende  Unterhaltung  und  die  Erneuerung.  In  § 14 Abs. 2 EBKrG 
 
-Sich lächen
+werden die einzelnen Elemente des BÜ genau deﬁniert und den jeweiligen Träger zugeordnet. 
 
-beeinträch gte.
+Zu den Straßenanlagen gehören die Sich(cid:414)lächen, die Warnzeichen und Merktafeln (Baken) 
 
-Sollte
+sowie andere der Sicherung des sich kreuzenden Verkehrs dienende Straßenverkehrszeichen 
 
-der
+und -einrichtungen. 
 
-Eigentümer/Besitzer den Maisaufwuchs nicht en ernen, sollte als mögliche Lösung die
-Höchstgeschwindigkeit für den Straßenverkehr auf 10 km/h reduziert werden. In diesem Fall
-würde der Sehpunkt A₂₀ en allen und lediglich die Sich läche für 10 km/h erforderlich sein.
+Die Eisenbahnanlage wurde in km 8,615 durch die Gemeindeverbindungsstraße von Meeder 
 
-Seite 31 von 39
+nach Birkenmoor gekreuzt. Der zuständige Straßenbaulas(cid:425)räger war die Gemeinde Meeder 
 
-Untersuchungsbericht
-Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder
+im Bundesland Bayern. 
 
-Diese Feststellungen wurden auch bei der Verkehrsschau im Jahr 2018 getroﬀen. Im Jahr 2020
-war die Sich läche erneut durch Maisaufwuchs stark eingeschränkt, jedoch wurde die
-Geschwindigkeitsbegrenzung auf 10 km/h nicht umgesetzt.
-Die Umsetzung der geforderten Maßnahmen wurde nicht zwischen den Beteiligten
-ausgetauscht oder berücksich gt. Die BEU wertet die fehlende Wirksamkeit der
-Verkehrsschauen
+In  Bayern  werden  die  Rechtsverhältnisse  an  öﬀentlichen  Straßen,  mit  Ausnahme  der 
 
-aufgrund
+Bundesfernstraßen, nach dem Bayerischen Straßen- und Wegegesetz (BayStrWG) geregelt. In 
 
-nicht
+Art. 26 BayStrWG  wurde  explizit  auf  die  Freihaltung  von  Sich(cid:414)lächen,  die  durch  bauliche 
 
-erfolgter
+Anlagen  beeinträch(cid:415)gt  werden,  hingewiesen.  Durch  Art. 29 Abs. 2 BayStrWG  wurden  die 
 
-Weitergabe
+Regelungen des Art. 26 BayStrWG in Bezug auf die Freihaltung der Sich(cid:414)läche eines BÜ von 
 
-und
+Anpﬂanzungen aller Art oder nicht festverbundenen Gegenständen präzisiert. 
 
-Archivierung
+Nach Art. 29 Abs. 4 BayStrWG ha(cid:425)e die Straßenbaubehörde den Betroﬀenen die Besei(cid:415)gung 
 
-von
+von Anlagen mindestens 14 Tage vorher schri(cid:332)lich anzukündigen, es sei denn, dass Gefahr im 
 
-Sicherheitsinforma onen als beitragenden Faktor zum Ereignis. Die Weitergabe dieser
-Feststellungen betri
+Verzug ist. 
 
-die Zusammenarbeit zwischen Eisenbahnen und weiteren Beteiligten.
+Die Gemeinde Meeder übertrug die Aufgabe der Kontrolle und Freihaltung der Sich(cid:414)läche mit 
 
-Der Austausch der Sicherheitsinforma onen an Zuständige hä e die Sicherheit am
-Bahnübergang auf alterna ve Weise verwirklicht und die Wahrscheinlichkeit des
-eingetretenen Ereignisses reduziert [F4].
+Hilfe  einer  Dienstanweisung  Nr. DA 001B  an  den  Straßenwärter  der  Gemeinde.  In  dieser 
 
-4.5 Frühere Ereignisse ähnlicher Art
-Die BEU-Datenbankauswertung ergab, dass sich seit Aufzeichnungsbeginn bis einschließlich
-zum Zusammenprall am 27.07.2020 fünf Bahnübergangsunfälle am BÜ km 8,615 ereigneten.
-Bei den vorangegangenen Ereignissen konnte jeweils nicht ermi elt werden, weshalb die
-Straßenverkehrsteilnehmer den Vorrang des Schienenverkehrs nicht beachtet ha en.
+Dienstanweisung  wurden  die  Gemeindeverbindungstraßen  in  der  Prioritätsstufe  1  geführt. 
 
-Seite 32 von 39
+Mit  Priorität  1  eingestu(cid:332)e  Straßen  waren  in  einem  ca.  einwöchigen  bis  zweiwöchigen 
 
-Untersuchungsbericht
-Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder
+Zeitabstand zu kontrollieren. In dieser Dienstanweisung wurde explizit unter Kontrollaufgaben 
 
-5 Schlussfolgerungen
-Das folgende Kapitel enthält eine Zusammenfassung der ermi elten ursächlichen,
-beitragenden und systemischen Faktoren. Zusätzlich sind zwei weitere Unterkapitel
-vorgesehen, um Informa onen zu bereits ergriﬀenen Maßnahmen und zu zusätzlichen
-Bemerkungen zu teilen.
+Seite 14 von 39 
 
-5.1 Zusammenfassung und Schlussfolgerung
-Ursächlich für den Bahnübergangsunfall war, dass der Straßenverkehrsteilnehmer den
-Vorrang des Schienenverkehrs nach § 19 (1) StVO am BÜ nicht beachtete [F1]. Der BÜ dur e
-nach § 11 Abs. 7 Nr. 2 EBO durch die Übersicht auf die Bahnstrecke in Verbindung mit
-hörbaren Signalen der Eisenbahnfahrzeuge gesichert werden. Die Sicherung des BÜ bestand
-aus den zwei Maßnahmen hörbare Signale des sich annähernden Schienenfahrzeugs sowie
-dessen visuelle Erfassung durch die Straßenverkehrsteilnehmer.
-Der Tf musste an den Signalen Bü 4 jeweils etwa drei Sekunden lang pfeifen. Nach Angabe des
-Tf befolgte dieser vor der Kollision bei beiden Signalen Bü 4 diese Anweisung. Für die
-Beachtung des Vorranggebots durch Sicht auf das sich annähernde Schienenfahrzeug war der
-Straßenverkehrsteilnehmer ausschließlich selbst verantwortlich. Der Straßenverkehrsteilnehmer näherte sich innerhalb der erlaubten Geschwindigkeiten mit seinem Pkw dem BÜ und
-ha e bewusst die Bahnanlagen links und rechts zu beobachten, um ein Schienenfahrzeug zu
-erkennen. Der Fahrer des Pkw ha e nach behördlichen Ermi lungen die zulässige
-Höchstgeschwindigkeit von 20 km/h nicht überschri en. Der Straßenverkehrsteilnehmer
-konnte ein Schienenfahrzeug nur dann rechtzei g erkennen, wenn dieses innerhalb der
-Annäherungsstrecke nicht vollständig durch ein Hindernis verdeckt wurde. Am Beginn des
-Anhalteweges am Sehpunkt A₂₀ wurde die Sicht durch den Aufwuchs des Maisfeldes am
-Ereignistag behindert. Die Grundlagen zur Bes mmung und Verortung der Sich läche [S2]
-berücksich gten nicht die in der Örtlichkeit besonderen Gegebenheiten und erhöhten die
-Wahrscheinlichkeit eines Bahnübergangsunfalls.
-Zu ursächlichem Faktor „Vorrang von Schienenfahrzeugen“ [F1]
-Ob der verunglückte Straßenverkehrsteilnehmer die Achtungspfiﬀe wahrgenommen ha e,
-und weshalb er den Vorrang des Schienenverkehrs nicht beachtete, konnte durch die BEU
-nicht mehr ermi elt werden.
+ 
+ 
+Untersuchungsbericht 
 
-Seite 33 von 39
+Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder 
 
-Untersuchungsbericht
-Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder
+auf die Überprüfung der Sich(cid:414)läche hingewiesen und in der Checkliste zur Durchführung der 
 
-Zu beitragendem Faktor „Sichtfläche nicht korrekt“ [F2]
-Die Sich läche des BÜ musste nach den Vorgaben der Ril 815 so beschaﬀen sein, dass das
-Eisenbahnfahrzeug vom Sehpunkt A₂₀ und aus dem folgenden Anhalteweg über die gesamte
-Annäherungsstrecke ab Sichtpunkt B₂₀ bis zum BÜ sichtbar blieb. Die Übersicht kann bei
-vorhandenen Sichthindernissen als gewahrt gelten, wenn der sich nähernde Zug nicht frontal
-verdeckt wird.
-Typischerweise ergibt sich aus den drei Bes mmungspunkten für die Sich läche die
-geometrische Form eines Dreieckes. Im vorliegenden Fall verlief die Strecke in Fahrtrichtung
-vor dem BÜ im Q IV begründet durch die bogenförmige Streckenführung teilweise außerhalb
-der Fläche dieses Dreieckes.
-Hierdurch bedingt war im vorliegenden Ereignis das Schienenfahrzeug für vier Sekunden vom
-Aufwuchs auf dem Maisfeld verdeckt. Ein Straßenverkehrsteilnehmer konnte daher nicht zu
-jeder Zeit ein sich annäherndes Schienenfahrzeug sehen und ihm entsprechend den
-gebotenen Vorrang gewähren. Die Sicht wurde erst an einem späteren Punkt wiederhergestellt, was jedoch zu einem verkürzten Anhalteweg führte. Dadurch war ein rechtzei ges
-Anhalten vor dem Bahnübergang nicht mehr möglich.
-Zu systemischen Faktor „Bes mmung und Verortung der Sich lächen“ [S2]
-Für die Bes mmung und Verortung der nicht korrekt vorgefundenen Sich läche war es
-erforderlich, dass die im Au rag der zuständigen Beteiligten handelnden Personen über die
-geometrischen Besonderheiten des BÜ km 8,615 informiert waren. Aufgrund der mehrere
-Jahre zurückliegenden und teilweise widersprüchlichen Dokumentenübergabe zwischen dem
-EIU und der Gemeinde Meeder ließ sich jedoch nicht klären, ob diese Besonderheiten von den
-handelnden Personen tatsächlich verstanden wurden, dauerha Berücksich gung fanden und
-in ausreichendem Maße reproduzierbar dokumen ert waren.
-Diese Aspekte zur Beachtung von Sicherheitsinforma onen betreﬀen die Zusammenarbeit der
-Eisenbahn mit den für einen BÜ beteiligten Stellen. Dem EIU obliegt gem. Verordnung (EU)
-2018/762, Anhang II, Punkt 4.4.3a), dass sicherheitsrelevante Informa onen für die
-vorgesehenen Nutzer verständlich, bzw. gem. Punkt 4.4.3d) konsistent sind. Dies bedingt
-auch, dass durch das Regelwerk die reproduzierbare und einheitliche Erstellung von
-maßgeblichen Dokumenten hinreichend spezifiziert ist. Die freizuhaltenden Flächen müssen
-vom EIU eindeu g und unmissverständlich beschrieben sein. Topologische Besonderheiten
+Straßenkontrolle die Sich(cid:414)läche als Kontrollpunkt aufgelistet. 
 
-Seite 34 von 39
+4.1.4  Pflichten	der	Beteiligten	an	der	Verkehrsschau	
 
-Untersuchungsbericht
-Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder
+Die  Sicherung  von  BÜ  ist  eine  Gemeinscha(cid:332)saufgabe  der  für  die  Eisenbahnanlage  und  die 
 
-und daraus entstehende besondere Risiken müssen derart au ereitet sein, dass sie dem
-Nutzer der Informa onen, wie im vorliegenden Fall dem zuständigen Personal des Straßenbaulas rägers, bewusst sind und in der Aufgabenerledigung berücksich gt werden können.
-Die BEU empfiehlt anhand der Sicherheitsempfehlung 13/2025, die an Externe ausgegebenen
-Sicherheitsinforma onen auf Verständlichkeit und Konsistenz zu überprüfen.
-Zu beitragendem Faktor „Inspek onsintervall während der örtlichen Vegeta ons‐
-periode“ [F3]
-Den der BEU vorliegenden Unterlagen von der DB Netz AG konnte nicht entnommen werden,
-ob eine weitere Inspek on des BÜ innerhalb der Wachstumsperiode der Pflanzen geplant war.
-Die letzte Inspek on des BÜ wurde am 13.05.2020 durch den Alv ca. zwei Monate vor dem
-Ereignis durchgeführt. Erst nach dem Ereignis wurde festgestellt, dass die Sich läche nicht
-vollständig einsehbar war. Der Aufwuchs von Mais ha e die Sicht auf den Zug am
-Sehpunkt A₂₀ so eingeschränkt, dass der Zug innerhalb der Annäherung für den
-Straßenverkehrsteilnehmer nicht zu sehen war. Gemäß Ril 815 musste das Inspek onsintervall für BÜ in Zeiten mit starker Beeinträch gung durch Vegeta on verkürzt werden. Eine
-Kürzung der Zei rist für die Inspek on durch die verantwortlichen Stellen während der
-Vegeta onsphase konnte durch die BEU für den betreﬀenden BÜ nicht ermi elt werden. Ob
-dahingehende Regelwerksvorgaben und ihre Tragweite in vergleichbarer Weise auch von den
-handelnden Personen der Gemeinde Meeder verstanden waren, fällt ebenfalls unter den
-bereits genannten Aspekt der Verständlichkeit von Sicherheitsinforma onen für den
-vorgesehenen Nutzer.
-Zu systemischem Faktor „Pflichtausübung durch den Straßenbaulas räger“ [S3]
-Die letzte dokumen erte Kontrolle der Sich läche durch den Straßenwärter wurde am
-04.05.2020 und damit zuletzt mehr als zwei Monate vor dem Ereignis durchgeführt. Weitere
-schri liche Unterlagen wurden der BEU nicht vorgelegt. Nach der Dienstanweisung musste
-die Sich läche des BÜ in einen ein- bis zweiwöchigen Turnus kontrolliert werden. Diese
-Kontrollen waren schri lich zu dokumen eren. Aufgrund der fehlenden Dokumenta on
-konnte nicht rekonstruiert werden, ob und wie o die Sich läche tatsächlich überprü wurde.
-Die Dokumenta on der Kontrollen diente nicht nur als Nachweis der Durchführung der
-Inspek on, sondern bes mmte auch den Termin für die nächste Inspek on. Diese
+Straßenanlage Verantwortlichen. Hierzu zählen: 
 
-Seite 35 von 39
+  das Unternehmen, das die Baulast des Schienenweges der kreuzenden Eisenbahn 
 
-Untersuchungsbericht
-Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder
+trägt, 
 
-Bekanntheit der letzten zurückliegenden Überprüfung ist beispielsweise auch für
-sachgerechte Arbeitsvertretungen von Bedeutung.
-Der BEU wurde ein umfangreicher Schri verkehr zwischen der Gemeinde Meeder und den
-direkten Anliegern des BÜ vorgelegt. Diesem Schri verkehr war zu entnehmen, dass es
-mehrmals zu einer verzögerten Besei gung der Sichthindernisse innerhalb der Sich läche
-kam. Teilweise weigerte sich der Besitzer die aufgewachsenen Maispflanzen zu en ernen, so
-lange er keinen Schadensersatz hierfür bekam.
-Die Gemeinde Meeder war nach dem BayStrWG verpflichtet zu handeln. Gemäß
-Art. 29 BayStrWG musste der Baulas räger vorrangig dem Eigentümer bzw. Besitzer eine
-angemessene Frist zur Besei gung von gefährlichen Anpflanzungen gewähren.
-Die Ril 815 empfiehlt bei Änderung und Neubauten zur Absicherung der Interessen der
-Eisenbahn entsprechende Grunddienstbarkeiten zu bestellen. In ähnlicher Weise könnte auch
-der Straßenbaulas räger hinsichtlich seiner Interessen bei Bestandsanlagen handeln.
-Bei Gefahr im Verzug war es der Gemeinde gemäß BayStrWG geboten, zu handeln. Sie wäre
-berech gt gewesen, nach Art. 29 Abs. 2 Satz 2 und Abs. 4 Satz 1 BayStrWG den Aufwuchs zu
-besei gen. Im Gegenzug musste die Gemeinde den Eigentümern und Besitzern, die durch die
-Maßnahmen verursachten Aufwendungen und Schäden, angemessen vergüten.
-Würde die Sich läche zum Verantwortungsbereich eines EIU gehören, wäre dieses gemäß
-§ 24a AEG befugt, bei Gefahr in Verzug sofort handeln und Maßnahmen auf Kosten des
-Eigentümers zu ergreifen. Da die Gemeinde jedoch nur gemäß BayStrWG handeln dur e,
-ha e sie die Kosten für die Besei gung zu vergüten und dadurch selbst zu tragen. Dies kann
-für eine unverzügliche Besei gung von Gefahren hinderlich sein. Gesetzliche Regelungen zu
-den Rechten der Straßenbaulas räger können sich deshalb zukün ig bspw. am
-Regelungsrahmen des § 24a AEG orien eren und wären vom zuständigen Gesetzgeber zu
-erlassen.
-Zu beitragendem Faktor „Austausch von Sicherheitsinforma onen“ [F4]
-Die Ergebnisniederschri
+  gegebenenfalls das Unternehmen, das den Betrieb führt, 
 
-einer vor dem Ereignis durchgeführten Verkehrsschau forderte
+  die behördliche Eisenbahnaufsicht, 
 
-indirekt eine verstärkte Inspek on der Sich läche während der Wachstumsphase von
-Pflanzen.
+  der Träger der Baulast der kreuzenden Straße, 
 
-Seite 36 von 39
+  die Straßenverkehrsbehörde, 
 
-Untersuchungsbericht
-Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder
+  die Gemeinde, 
 
-In den Jahren 2015 sowie 2018 wurde durch die Teilnehmer der Verkehrsschauen in den
-Ergebnisniederschri en festgehalten, dass bei evtl. Maisanbau und nicht erfolgter En ernung
-durch die Landwirte VZ 274-51 (10 km/h) aufzustellen sei. Ob die aufgrund der Feststellungen
-getroﬀenen Maßnahmen umgesetzt wurden, konnte nicht ermi elt werden. Im Jahr 2020 war
-die Sich läche erneut durch ein Maisfeld stark beeinträch g. Der Straßenverkehr war nicht
-durch eine Geschwindigkeitsbegrenzung auf 10 km/h reduziert. Die festgestellten
-Maßnahmen der vorangegangenen Verkehrsschauen waren anscheinend für eine dauerha e
-Besei gung der Gefahr wirkungslos.
-Die in den vorherigen Verkehrsschauen festgelegte Maßnahme, bei starkem Aufwuchs ein
-Verkehrszeichen zur Reduzierung der zulässigen Höchstgeschwindigkeit des Straßenverkehrs
-auf 10 km/h aufzustellen, erforderte ein passend ausgerichtetes Inspek onsintervall. Bei
-hochsommerlichen We erbedingungen ist bei Mais ein Höhenzuwachs von 15 cm pro Tag
-möglich. Entsprechend häufig hä e hier die Sich läche überprü werden müssen, um die
-geforderte Ersatzmaßnahme rechtzei g einzurichten. Ob dies entsprechend geschehen war,
-konnte aufgrund fehlender Handlungsanweisungen und nachvollziehbarer Dokumenta onen
-nicht ermi elt werden.
-Das EIU DB Netz AG ha e aufgrund der internen Vorgaben anlagenbezogene Unterlagen
-erstellt. In diesen fanden sich keine Präzisierungen, um die Feststellungen aus den
-Verkehrsschauen umzusetzen. Gemäß Verordnung (EU) 2018/762, Anhang II, Punkt 4.4.1 ist
-das EIU angehalten, angemessene Kommunika onskanäle festzulegen, um sicherzustellen,
-dass sicherheitsrelevante Informa onen zwischen den verschiedenen Ebenen der
-Organisa on sowie mit externen Beteiligten ausgetauscht werden.
-Auch bei den anlagenbezogenen Unterlagen der Gemeinde Meeder wurde kein Vermerk über
-die geforderten Maßnahmen der Verkehrsschauen vorgefunden.
-Mindestens zur Verbesserung der Sicherheit des Eisenbahnbetriebs erscheint es geboten, die
-zugrundeliegenden Kommunika onskanäle mit den außerhalb des EIU für einen BÜ
-beteiligten Stellen zu überprüfen und zu verbessern. Die BEU empfiehlt daher, die
-bestehenden Kommunika onskanäle auf ihre Angemessenheit zu überprüfen.
-Dies geht mit der zu [S2] ausgesprochenen Sicherheitsempfehlung einher.
+  die Landespolizei bzw. die Bundespolizei (außer bei NE-Bahnen). 
 
-Seite 37 von 39
+Diesen Stellen ist dadurch eine sachgerechte Zusammenarbeit geboten. 
 
-Untersuchungsbericht
-Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder
+Als Hilfsmi(cid:425)el zur Durchführung der Verkehrsschauen lag der „Lei(cid:414)aden zur Durchführung von 
 
-5.2 Seit dem Ereignis getroffene Maßnahmen
-Durch das EIU wurde am 28.07.2020 eine Langsamfahrstelle 20 km/h von km 8,7 bis km 8,6
-für die Fahrtrichtung Bad Rodach – Coburg eingerichtet. Diese wurde am 30.07.2020 wieder
-aufgehoben, da die Strecke ab diesem Zeitpunkt für einen Zeitraum von vier Wochen im
-Rahmen einer Gleiserneuerung gesperrt war. Nach Wiederinbetriebnahme der Strecke war
-das Maisfeld zurückgeschni en.
-Die Eigentümer der an die Bahn angrenzenden Grundstücke mit landwirtscha licher Nutzung
-wurden erneut auf die Notwendigkeit der Freihaltung der Sich lächen hingewiesen. Eine
-Änderung an der straßensei gen Beschilderung des BÜ wurde nicht vorgenommen.
-Gemeinsam haben das EIU und die Gemeinde Meeder Gespräche über eine mögliche
-technische Sicherung des BÜ sowie weiterer benachbarter BÜ geführt. Möglichen
-Besei gungskonzepten wurde durch die Gemeine Meeder nicht zuges mmt. Eine technische
-Sicherung des BÜ befindet sich in einer langfris gen Planung.
+Bahnübergangsschauen“  (Publika(cid:415)on 17.12.2002,  Herausgeber:  Unterausschuss  „Verkehrs-
 
-5.3 Zusätzliche Bemerkungen
-Bei der Vor-Ort-Untersuchung am 28.07.2020 wurde ein hohes Verkehrsau ommen am BÜ
-festgestellt. Das gegenüber der Regelsitua on hohe Verkehrsau ommen wurde durch eine
-Verkehrszählung nach dem Bahnübergangsunfall bestä gt.
-Der Grund für das hohe Verkehrsau ommen war die Vollsperrung der Durchgangsstraße in
-Meeder. Der Verkehr von Wiesenfeld b. Coburg wurde großräumig über Grosswalbur
-umgeleitet. Bei dieser Umleitung musste der BÜ im km 8,615 nicht befahren werden, diente
-zahlreichen Ortskundigen jedoch als Behelf.
-Für die Behörde, die die Planung der Umleitung bearbeitete, war die Meldung der Maßnahme
-nach der VwV-StVO eine Kannbes mmung. Da die Umleitung nicht direkt über den BÜ führte,
-war die bearbeitende Behörde der Auﬀassung, dass es nicht notwendig sei, das EIU zu
-informieren. Das EIU war daher nicht in die Lage versetzt, tatsächlich gebotene Überprüfungen vorzunehmen.
+sicherheit an Bahnübergängen“ des Bund-Länder-Fachausschusses Straßenverkehrsordnung) 
 
-Seite 38 von 39
+vor. In diesem Lei(cid:414)aden waren im Kapitel 4 auch die Ziele der Verkehrsschau festgelegt. In 
 
-Untersuchungsbericht
-Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder
+Kapitel 4.1 war darauf verwiesen, dass BÜ bis zur ihrer Besei(cid:415)gung einheitlich so zu gestalten 
 
-6 Sicherheitsempfehlungen
-Gemäß § 6 EUV und Art. 26 Abs. 2 der Richtlinie (EU) 2016/798 ergeht nachfolgende
-Sicherheitsempfehlung:
-Lfd. Nr.
+seien,  dass  sie  rechtzei(cid:415)g  und  eindeu(cid:415)g  erkennbar,  übersichtlich,  begrei(cid:297)ar  sowie  sicher 
 
-Adressat und Sicherheitsempfehlung
+befahrbar und begehbar sind. Der BÜ musste den Anforderungen an Sicherheit und Ordnung 
 
-Betri
+des  Eisenbahnverkehrs  und  des  Straßenverkehrs  zu  jeder  Zeit  genügen.  Der  Vorrang  des 
 
-13/2025
+Schienenverkehrs  vor  dem  Straßenverkehr  musste  jederzeit  deutlich  zu  erkennen  sein.  In 
 
-Sicherheitsbehörde:
+Kapitel 4.2 wurde darauf hingewiesen, dass der BÜ umgebaut oder verändert werden darf, 
 
-EIU
+wenn es die Sicherheit erfordert. 
 
-Unternehmen
+Im Kapitel 4.3 wurde explizit darauf hingewiesen, dass die nach Kapitel 4.2 im Rahmen der 
 
-Es wird empfohlen, die mit den zu
-Bahnübergängen beteiligten Stellen
-eingerichteten Kommunika onskanäle gem.
-Verordnung (EU) 2018/762, Anhang II, Punkt 4.4.1
-auf ihre Wirksamkeit zu überprüfen und gem.
-Verordnung (EU) 2018/762, Anhang II, Punkt
-4.4.3a) sicherzustellen, dass sicherheitsrelevante
-Informa onen für die vorgesehenen Nutzer
-verständlich und gem. Punkt 4.4.3d) konsistent
-sind.
+Verkehrsschau als notwendig erkannten Maßnahmen im Rahmen des Möglichen umzusetzen 
 
-Seite 39 von 39
+seien. 
 
+Seite 15 von 39 
+
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder 
+
+Teilnehmer an den Verkehrsschauen für den BÜ km 8,615: 
+
+  DB Netz AG, DB Regionalnetz Franken 
+
+  Gemeinde Meeder, Straßenverkehrsbehörde/Straßenbaulas(cid:425)räger 
+
+  Eisenbahn-Bundesamt 
+
+  Untere Straßenverkehrsbehörde 
+
+  Polizeiinspek(cid:415)on Coburg 
+
+  Bundespolizeiinspek(cid:415)on Würzburg 
+
+4.1.5  Pflichten	des	Landratsamtes	Coburg	
+
+In der Allgemeinen Verwaltungsvorschri(cid:332) zur Straßenverkehrs-Ordnung (VwV-StVO) ist zu den 
+
+§§ 39 bis 43 Allgemeines über Verkehrszeichen und Verkehrseinrichtungen, in den Hinweisen 
+
+und  Erläuterung  zu  den  Zeichen 421,  422,  442  sowie  454  bis 466  im  Absatz  Nr. I  für 
+
+Umleitungsbeschilderungen festgelegt: 
+
+„Umleitungen, auch nur von Teilen des Fahrverkehrs, und Bedarfsumleitungen sind in der 
+
+Regel in einem Umleitungsplan festzulegen. Die zuständige Behörde hat sämtliche 
+
+beteiligten Behörden und die Polizei, gegebenenfalls auch die Bahnunternehmen, 
+
+Linienverkehrsunternehmen und die Versorgungsunternehmen zur Planung 
+
+heranzuziehen. Dabei sind die Vorschri(cid:332)en des Straßenrechts, insbesondere des § 14 des 
+
+Bundesfernstraßengesetzes und die entsprechenden Vorschri(cid:332)en der Landesstraßen‐
+
+gesetze zu berücksich(cid:415)gen. Bei allen in den Verkehrsablauf erheblich eingreifenden 
+
+Umleitungsplänen empﬁehlt es sich, einen Anhörungstermin anzuberaumen.“ 
+
+Im vorliegenden Ereignis  behalfen sich ortskundige Straßenverkehrsteilnehmer, ansta(cid:425) der 
+
+oﬃziell festgelegten Umleitung, auf eine alterna(cid:415)ve Route auszuweichen. Hierdurch kam es 
+
+am  BÜ  km 8,615  zu  einer  vorübergehenden  Steigerung  des  Verkehrsau(cid:325)ommens.  Nach 
+
+Auskun(cid:332) der DB Netz AG, Regionalnetz Franken wurde das EIU über dieses Geschehen nicht 
+
+informiert. Gemäß VwV-StVO war dies den zuständigen Straßenverkehrsbehörden auch nicht 
+
+geboten,  da  der  BÜ  km 8,615  nicht  Teil  der  festgelegten  Umleitungsstrecke  war.  Das  EIU 
+
+verarbeitet hingegen solche Informa(cid:415)onen, um gemäß maßgeblicher Ril 815.0020 Kapitel 2 
+
+„Bewerten  des  Straßenverkehrs  an  Bahnübergängen“  eine  evtl.  notwendige  Änderung  der 
+
+Sicherungsart zu veranlassen und dadurch die Sicherheit zu erhöhen. Die BEU wertete das am 
+
+Seite 16 von 39 
+
+ 
+ 
+Untersuchungsbericht 
+
+Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder 
+
+Ereignistag vorliegende, gesteigerte Verkehrsau(cid:325)ommen am BÜ km 8,615 nicht als Faktor mit 
+
+Einﬂuss auf das Ereignis. 
+
+4.2  Fahrzeuge	und	technische	Einrichtungen	
+
+In  diesem  Kapitel  sind  die  Erkenntnisse  aus  der  Untersuchung  beteiligter  Fahrzeuge,  der 
+
+Eisenbahninfrastruktur und weiterer technischer Einrichtungen einschließlich damit eventuell 
+
+verbundener Tä(cid:415)gkeiten und Entscheidungen dargestellt. 
+
+4.2.1  Untersuchung	von	Fahrzeugen	
+
+Die Zugfahrt DPN-G 84553 bestand aus einem einzeln fahrenden VT der Baureihe 650. 
+
+Aus der folgenden Tabelle lassen sich die technischen Fahrzeugdaten entnehmen: 
+
+Fahrzeugnummer Dieseltriebwagen 
+
+95 80 0 650 703-1 
+
+Halter des Fahrzeuges 
+
+agilis Verkehrsgesellscha(cid:332) mbH & Co. KG 
+
+Antriebsart 
+
+Länge über Puﬀer 
+
+Masse 
+
+Höchstgeschwindigkeit 
+
+Radsatzfolge 
+
+Zugsicherungssystem 
+
+Bremsbauart 
+
+Tabelle 5: Technische Daten VT 650 
+
+Dieselmechanisch 
+
+25.500 mm 
+
+40,0 t 
+
+120 km/h 
+
+B’B’ 
+
+PZB 90 
+
+KB C el P A H Mg 
+
+In der Abbildung Nr. 2 ist erkennbar, dass das Spitzensignal des VT erloschen war. Ursächlich 
+
+hierfür war das durch das Ereignis abgerissene Mehrfach-Trak(cid:415)onskabel. Am Folgetag wurde 
+
+das Mehrfach-Trak(cid:415)onskabel repariert und die Funk(cid:415)onsfähigkeit des Spitzensignals konnte 
+
+festgestellt werden. 
+
+Anzeichen für etwaige technische Mängel am beteiligten Fahrzeug ergaben sich nicht, so dass 
+
+auf eine weitergehende Untersuchung verzichtet werden konnte. 
+
+4.2.2  Untersuchung	der	bautechnischen	Infrastruktur	
+
+Der BÜ km 8,615 war gemäß § 11 Abs. 7 Nr. 2 in Verbindung mit Abs. 13 und Abs. 18 EBO bei 
+
+mäßigem Verkehr und eingleisigen Nebenbahnen durch die Übersicht auf die Bahnstrecke in 
+
+Verbindung mit hörbaren Signalen der Eisenbahnfahrzeuge gesichert. 
+
+Seite 17 von 39 
+
+ 
+ 
+Untersuchungsbericht 
+
+Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder 
+
+In Richtung der aufsteigenden Streckenkilometrierung gesehen, wurde der BÜ entsprechend 
+
+Ril 815.0020 Abschn. 1 Abs. 1 in vier Quadranten eingeteilt. Die Quadranten Q I und Q IV lagen 
+
+rechts der Bahn und die Q II und Q III links der Bahn. 
+
+Die  Übersicht  der  Straßenverkehrsteilnehmer  auf  den  anrückenden  Zug  wurde  durch  die 
+
+sogenannte Sich(cid:414)läche hergestellt. Die zugehörigen Sich(cid:414)lächen für das gefährliche Ereignis 
+
+befanden sich im Q IV. Diese waren für eine minimale Geschwindigkeit von 10 km/h und für 
+
+die  maximal  zulässige  Geschwindigkeit  von  20 km/h  bemessen.  Die  Sicherung  des  BÜ 
+
+erforderte  zudem  in  Verbindung  mit  der  Übersicht  ein  hörbares  Signal  der  Eisenbahnfahr-
+
+zeuge.  Der  Tf  ha(cid:425)e  am  Standort  des  Signals  Bü 4  –  Pfei(cid:332)afel  mit  der  Pfeifeinrichtung  des 
+
+Triebzuges  etwa  drei  Sekunden  lang  zu  pfeifen.  Die  Standorte  der  Signale Bü  4  für  die 
+
+minimale und maximale Geschwindigkeit der Straßenverkehrsteilnehmer waren gleichzei(cid:415)g 
+
+die Sichtpunkte B und die Begrenzungspunkte der theore(cid:415)schen Sich(cid:414)lächen. 
+
+Der Sehpunkt A kennzeichnete den Punkt in der Straßenmi(cid:425)e vor dem BÜ, von dem aus ein 
+
+Verkehrsteilnehmer  ein  Eisenbahnfahrzeug  sehen  können  musste,  damit  er  noch  vor  dem 
+
+Andreaskreuz zum Halten kam (Anhalteweg). Der Sichtpunkt B kennzeichnete den Punkt auf 
+
+der  Strecke,  von  dem  ab  das  Eisenbahnfahrzeug  für  den  Verkehrsteilnehmer  sichtbar  sein 
+
+musste (Annäherungsstrecke). Für die Bemessung eines ntg BÜ wurden jeweils die Seh- und 
+
+Sichtpunkte für die minimale und maximale Geschwindigkeit der Straßenverkehrsteilnehmer 
+
+ermi(cid:425)elt. 
+
+Die  nachfolgende  Abbildung  zeigt  ein  digitales  Orthophoto (DOP)  und  georeferenziertes 
+
+Lu(cid:332)bild des BÜ km 8,615. Erkennbar ist der Verlauf der Straßen und der Eisenbahnlinie sowie 
+
+deren  Kreuzungspunkt 
+
+im  BÜ 8,615.  Weiterhin 
+
+sind  die 
+
+Fahrtrichtung  des 
+
+Straßenverkehrsteilnehmers und des Personenzuges DPN-G 84553 in Richtung BÜ dargestellt. 
+
+Zur Orien(cid:415)erung sind die vier Quadranten des BÜ, die Pfei(cid:332)afeln, die Sehpunkte A₂₀ und A₁₀ 
+
+sowie die Sichtpunkte B₂₀ und B₁₀ für die maßgebliche Situa(cid:415)on eingezeichnet. 
+
+Seite 18 von 39 
+
+ 
+ 
+Untersuchungsbericht 
+
+Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder 
+
+Abbildung 4: Lu(cid:332)bild/Lageplan zur Verdeutlichung der Verkehrssitua(cid:415)on4 
+
+Die nachfolgende Abbildung skizziert die bauliche Anlage des BÜ. Im Quadranten Q IV sind der 
+
+Sehpunkt A₂₀ und der Sichtpunkt B₂₀ für die maximale Geschwindigkeit des Straßenverkehrs-
+
+teilnehmers dargestellt. Ferner sind der Kreuzungspunkt des BÜ sowie die aus den Punkten 
+
+resul(cid:415)erende theore(cid:415)sche Sich(cid:414)läche im Q IV markiert. 
+
+Abbildung 5: Bautechnische Skizze mit theore(cid:415)scher Sich(cid:414)läche5 
+
+4 Quelle: Geobasisdaten: © GeoBasis-DE / BKG 2020, bearbeitet durch BEU 
+
+5 Quelle: IvL-Plan der DB Netz AG, bearbeitet durch die BEU 
+
+Seite 19 von 39 
+
+ 
+ 
+ 
+ 
+                                                 
+Untersuchungsbericht 
+
+Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder 
+
+Sich(cid:414)lächen  bezeichnen  die  Flächen,  die  durch  die  Verbindungslinien  der  Sehpunkte 
+
+„A“ – hier A₂₀ – in der Straßenmi(cid:425)e zu Beginn des Anhalteweges für die geringste und höchste 
+
+Räumgeschwindigkeit sowie den entsprechenden Sichtpunkten „B“ – hier B₂₀ – in der Gleis-
+
+mi(cid:425)e und den Mi(cid:425)ellinien von Gleis und Straße begrenzt werden. Gemäß Ril 815.0031 sind 
+
+die durch diese Sich(cid:414)lächen deﬁnierten Bereiche freizuhalten. 
+
+Nach  Ril 815.0031 Abschn. 1 Abs. 5  mussten  die  Sich(cid:414)lächen  so  erweitert  werden,  dass 
+
+Eisenbahnfahrzeuge vom Sehpunkt A₂₀ aus über die gesamte Annäherungsstrecke und über 
+
+den gesamten Anhalteweg bis zum BÜ sichtbar blieben. 
+
+Eine Besonderheit der erforderlichen Sich(cid:414)läche im Q IV des BÜ km 8,615 bestand darin, dass 
+
+nicht nur das aufgespannte Dreieck zwischen dem Sehpunkt A, dem Sichtpunkt B und dem 
+
+Kreuzungspunkt  als  Sich(cid:414)läche  galt,  sondern  gemäß  der  Regel  in  Ril 815.0031,  Abschn. 1, 
+
+Abs. 5 auch die Fläche, die in Form eines Kreissegments von der Geraden durch den Sehpunkt 
+
+A, den Sichtpunkt B und dem auskragenden Gleisbogen begrenzt wurde. Nur auf diese Weise 
+
+war gewährleistet, dass ein herannahendes Schienenfahrzeug vom Sehpunkt B aus über die 
+
+gesamte  Annäherungsstrecke  und  den  gesamten  Anhalteweg  bis  zum  BÜ  gemäß  den 
+
+Regelwerksvorgaben tatsächlich sichtbar blieb. 
+
+Vor Ort stellte die BEU fest, dass der Sichtpunkt B₂₀ an der Pfei(cid:332)afel in km 8,800 zwar vom 
+
+Sehpunkt A₂₀ aus auf direkter Sichtachse erkennbar war, jedoch im Bereich rechts dieser Linie 
+
+die  Sicht  auf  sich  annähernde  Schienenfahrzeuge  im  anschließenden  Gleisbogen  durch 
+
+Aufwuchs  auf  einem  angrenzenden  Maisfeld  verdeckt  war.  Da  der  Streckenverlauf  in 
+
+Fahrtrichtung  vor  dem  BÜ  einen  Rechtsbogen  beschrieb,  verließ  der  Zug  zeitweise  den 
+
+Bereich,  der  vom  Straßenverkehrsteilnehmer  ab  Sehpunkt  A₂₀  einsehbar  sein  musste.  Es 
+
+stellte sich hierdurch für den Straßenverkehrsteilnehmer die vermeintliche Situa(cid:415)on ein, dass 
+
+sich gegenwär(cid:415)g kein Schienenfahrzeug näherte. 
+
+In der nachfolgenden Abbildung ist die tatsächlich einsehbare Sich(cid:414)läche gelb und der aus 
+
+einer zum Gleisbogen tangen(cid:415)alen Sichtlinie aufgespannte, erforderliche einsehbare Bereich 
+
+auf Schienenfahrzeuge rot bzw. rot schraﬃert gekennzeichnet. Hieraus ergibt sich die in der 
+
+Abbildung blau umrandete tatsächlich erforderliche Sich(cid:414)läche um herannahende Schienen-
+
+fahrzeuge  vom  Sehpunkt  A₂₀  ab  jederzeit  vollständig  erkennen  zu  können.  Durch  den  Auf-
+
+wuchs  von  Maispﬂanzen  in  der  rot  markierten  Fläche  konnte  der  Grundsatz,  dass  ein 
+
+Seite 20 von 39 
+
+ 
+ 
+Untersuchungsbericht 
+
+Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder 
+
+Straßenverkehrsteilnehmer  ab  dem  Sehpunkt  A₂₀  ein  herannahendes  Schienenfahrzeug  ab 
+
+dem Sichtpunkt B₂₀ erkennen muss, nicht eingehalten werden. 
+
+Abbildung 6: Tatsächliche erforderliche Sich(cid:414)läche Q IV für 20 km/h6 
+
+Die nachfolgende Abbildung zeigt die erforderliche Sich(cid:414)läche im Q IV vom Sehpunkt A₂₀ aus 
+
+in Richtung Sichtpunkt B₂₀ in einem Meter Höhe. Rechts neben der direkten Sichtachse befand 
+
+sich ein Maisfeld, dessen Aufwuchs einen Teil der erforderlichen Sich(cid:414)läche verdeckte. 
+
+Abbildung 7: Sich(cid:414)läche im Q IV für 20 km/h Räumgeschwindigkeit 
+
+Bei der Vor-Ort Untersuchung der BEU wurde diese Perspek(cid:415)ve vom Sehpunkt A₂₀ in Richtung 
+
+Sichtpunkt B₂₀  für  einen  sich  von  Bad Rodach  annähernden  Zug  im  Q IV  videotechnisch 
+
+6 Quelle: IvL-Plan DB Netz AG, bearbeitet durch BEU 
+
+Seite 21 von 39 
+
+ 
+ 
+ 
+ 
+                                                 
+Untersuchungsbericht 
+
+Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder 
+
+dokumen(cid:415)ert.  Für  eine  Zeitdauer  von  etwa  vier Sekunden  konnte  von  der  Posi(cid:415)on  eines 
+
+Straßenverkehrsteilnehmers das Schienenfahrzeug nicht mehr gesehen werden. 
+
+Den  Sachverhalt,  dass  die  Sich(cid:414)läche  zum  Erkennen  eines  Schienenfahrzeugs  in  der 
+
+Annäherungsstrecke  entgegen  der  Ril 815.0031  Abschn. 1  nicht  korrekt  eingerichtet  war, 
+
+wertet die BEU als beitragenden Faktor [F2]. Dieser Umstand hat die Wahrscheinlichkeit eines 
+
+Bahnübergangsunfalls erhöht. 
+
+Zusammenarbeit der Beteiligten 
+
+Die  Sich(cid:414)lächen  müssen  nach  den  bautechnischen  Gegebenheiten  des  BÜ  für  jeden 
+
+Quadranten  des  BÜ  und  jeweils  für  die  Mindest-  und  Maximalgeschwindigkeit  des 
+
+Straßenverkehrsteilnehmers  sowie  hinsichtlich  der  zulässigen  Geschwindigkeit  des 
+
+Schienenverkehrs  explizit  ermi(cid:425)elt  werden.  Die  berechneten  Längen  der  Annäherungs-
+
+strecken  des  Schienenverkehrs  sowie  die  Anhaltewege  des  Straßenverkehrs  werden 
+
+gewöhnlich als Skizze mit den jeweiligen Werten dargestellt. Die Sich(cid:414)lächenskizze für den BÜ 
+
+km 8,615  wurde  durch  die  DB Netz AG  am  19.04.2011  aufgestellt  und  an  die  Gemeinde 
+
+Meeder  übergeben.  Diese  Unterlagen  ha(cid:425)en  eine  Sich(cid:414)läche  zur  Grundlage,  die  gemäß 
+
+Ril 815.0031 Abschn. 1 Abs. 4 korrekt so erweitert war, dass sie auch das Kreissegment über 
+
+der  Annäherungsstrecke  des  Schienenfahrzeugs  enthielt.  Siehe 
+
+im  Weiteren  hierzu 
+
+Kapitel 4.3.1. 
+
+Die 
+
+Inspek(cid:415)on  der  Sich(cid:414)läche  erfolgte  gewöhnlich  vom  Beginn  des  Anhalteweges 
+
+(Sehpunkt A,  hier A₂₀)  auf  direkter  Sichtlinie  zum  Beginn  der  Annäherungsstrecke 
+
+(Sichtpunkt B,  hier B₂₀).  Dabei  war  bis  zum  Kreuzungspunkt  zu  prüfen,  ob  Hindernisse  von 
+
+mehr  als  einem  Meter  Höhe  vorhanden  waren,  die  den  Zug  verdecken  konnten.  Um  die 
+
+Freihaltung der Sich(cid:414)lächen ohne messtechnischen Aufwand prüfen zu können, konnte nach 
+
+der  Ril 815.0031  die  Lage  der  Sicht-  und  Sehpunkte  dauerha(cid:332)  an  der  Bahntrasse  bzw.  der 
+
+Straße  markiert  werden.  Bei  der  Vor-Ort-Untersuchung  wurde  kein  verorteter 
+
+Orien(cid:415)erungspunkt für den Inspekteur vorgefunden. 
+
+Der  an  der  Pfei(cid:332)afel  in  km  8,800  festgelegte  Orien(cid:415)erungspunkt  als  Sichtpunkt B₂₀  war  in 
+
+diesem Fall für den Inspekteur zur vollständigen Bewertung der Sich(cid:414)läche nicht ausreichend, 
+
+da bei Bes(cid:415)mmung der Sich(cid:414)läche nur von diesem Punkt aus die Sicht auf die vollständige 
+
+Annäherungsstrecke  des  Schienenfahrzeugs  unberücksich(cid:415)gt  blieb.  Näheres  hierzu  siehe 
+
+Kapitel 4.3.2.  
+
+Seite 22 von 39 
+
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder 
+
+Verkehrsbeschilderung für den Straßenverkehrsteilnehmer 
+
+Die  Verkehrszeichen  mussten  entsprechend  der  Straßenverkehrsordnung  (StVO)  zur 
+
+Ankündigung  des  BÜ  angeordnet  werden.  Die  erforderliche  Beschilderung  wird  für 
+
+Standardsitua(cid:415)onen  in  Regel-  und  Zusatzplänen  dargestellt,  diese  sind  im  Lei(cid:414)aden  zur 
+
+Durchführung von Verkehrsschauen eingearbeitet. In der nachfolgenden Abbildung wird der 
+
+Beschilderungsplan des BÜ 8,615 dargestellt. 
+
+Abbildung 8: Beschilderungsplan BÜ km 8,6157 
+
+Bei der Vor-Ort-Untersuchung wurde kein Mangel an der Beschilderung des BÜ festgestellt. 
+
+Weiterhin wurde festgestellt, dass am BÜ ein erhöhtes Straßenverkehrsau(cid:325)ommen vorlag. 
+
+Als  Ursache  für  das  erhöhte  Straßenverkehrsau(cid:325)ommen  konnte  eine  Vollsperrung  einer 
+
+Kreisstraße  ausgemacht  werden,  die  eine  großräumige  Umleitung  erforderte  und 
+
+Ausweichverkehr Ortkundiger auslöste. Die oﬃzielle Umleitung führte nicht über diesen BÜ. 
+
+7 Quelle DB AG 
+
+Seite 23 von 39 
+
+ 
+ 
+ 
+ 
+ 
+                                                 
+Untersuchungsbericht 
+
+Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder 
+
+Verkehrszählung 
+
+Nach  dem  Bahnübergangsunfall  musste  nach  Ril 815.0020  Abschn. 2  Abs. 2  eine  erneute 
+
+Verkehrszählung durchgeführt werden. Die Verkehrszählung wurde von Freitag, 07.08.2020, 
+
+05:34 Uhr  bis  Donnerstag,  13.08.2020,  22:24 Uhr  durchgeführt.  Die  nachfolgende  Tabelle 
+
+zeigt die erhobenen Daten der durchgeführten Verkehrszählung. 
+
+Anzahl der Fahrzeuge über den Messzeitraum 
+
+Donnerstag, der Tag mit den meisten Fahrzeugen 
+
+Durchschni(cid:425)liche Anzahl Fahrzeuge pro Tag 
+
+6.561 
+
+1.131 
+
+979 
+
+0 – 19 km/h 
+
+20 – 29 km/h 
+
+30 – 39 km/h 
+
+40 – 49 km/h 
+
+50 – 199 km/h 
+
+Höchstgeschwindigkeit 
+
+Minimalgeschwindigkeit 
+
+Geschwindigkeitsüberschreitung bei 20 km/h 
+
+Tabelle 6: Daten der Verkehrszählung8 
+
+68 / 1,04 % 
+
+245 / 3,73 % 
+
+446 / 6,80 % 
+
+1.420 / 21,60 % 
+
+4.382 / 66,79 % 
+
+104 km/h 
+
+15 km/h 
+
+98,6 % 
+
+Die  Datenerhebung  der  Verkehrszählung  ergab,  dass  eine  durchschni(cid:425)liche  Erhöhung  um 
+
+329 Kra(cid:332)fahrzeuge  täglich  gegenüber  den  bisher  angenommenen  650  Querenden  am  BÜ 
+
+vorlag. Die EBO forderte eine technische Bahnübergangssicherungsanlage (BÜSA) ab starken 
+
+Verkehr, dieser ist mit der Querung von 2500 Kra(cid:332)fahrzeugen innerhalb eines Tages deﬁniert. 
+
+Auﬀällig war, dass nur 1,4 % der BÜ querenden Kra(cid:332)fahrzeuge die erlaubte Geschwindigkeit 
+
+von 20 km/h einhielten. 
+
+4.2.3  Untersuchung	der	Leit‐	und	Sicherungstechnik	
+
+Es waren keine Elemente der Leit- und Sicherungstechnik (LST) beteiligt. Deshalb konnte auf 
+
+eine weitergehende Untersuchung verzichtet werden. 
+
+8 Quelle DB Netz AG, bearbeitet durch BEU 
+
+Seite 24 von 39 
+
+ 
+ 
+                                                 
+Untersuchungsbericht 
+
+Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder 
+
+4.3  Menschliche	Faktoren	
+
+In diesem Kapitel werden Untersuchungserkenntnisse zu menschlichen Handlungen und/oder 
+
+Entscheidungen  am  gefährlichen  Ereignis  beteiligter  Personen  dargestellt.  Entsprechende 
+
+Erkenntnisse  können  sich  hierbei  insbesondere  im  Bereich  menschlicher  und  individueller 
+
+Merkmale sowie organisatorischer und Arbeitsplatzfaktoren ergeben. 
+
+4.3.1  Inspektion	des	BÜ	und	die	Sichtflächen	durch	die	DB	Netz	AG	
+
+Der Alv war Bezirksleiter Oberbau. Die Anlagenverantwortung für den BÜ km 8,615 wurde ihm 
+
+am 01.08.2019 zugewiesen. 
+
+Gemäß  Ril 815.0040  Abschn. 2  Abs. 4  musste  der  BÜ  dreimal  pro  Jahr,  in  höchstens  sechs 
+
+Monaten  Abstand,  durch  den  Alv  inspiziert  werden.  Diese  Inspek(cid:415)on  beinhaltete  auch  die 
+
+Kontrolle der Sich(cid:414)lächen des BÜ. 
+
+Die  letzte  Inspek(cid:415)on  des  BÜ  durch  die  DB Netz AG  wurde  durch  den  Alv  am 13.05.2020 
+
+durchgeführt.  Als  einziger  Mangel  in  der  Inspek(cid:415)onsniederschri(cid:332)  war  vermerkt,  dass  die 
+
+Seitenmarkierung erneuert werden müsse. 
+
+Wenn  saisonbedingt,  beispielsweise  durch  Aufwuchs,  die  Sicherheit  am  BÜ  beeinträch(cid:415)gt 
+
+werden konnte, waren gemäß Ril 815.0040 Abschn. 2 Abs. (4) die Inspek(cid:415)onen in kürzeren 
+
+Abständen durchzuführen oder zusätzliche Inspek(cid:415)onen einzuführen. Im konkreten Fall war 
+
+aus  den  vorgelegten  Unterlagen  nicht  ersichtlich,  dass  während  der  Vegeta(cid:415)onsphase  auf 
+
+dem  benachbarten  Maisfeld  eine  Verkürzung  der  Inspek(cid:415)onsfristen  oder  zusätzliche 
+
+Inspek(cid:415)onen  festgelegt  wurden.  Dieser  Umstand  wird  als  beitragender  Faktor  für  den 
+
+Bahnübergangsunfall  angesehen,  da  die  Wahrscheinlichkeit  eines  Bahnübergangsunfalls 
+
+durch von aufwachsenden Maispﬂanzen zeitweise verdeckte Schienenfahrzeuge erhöht war 
+
+[F3]. 
+
+4.3.2  Inspektion	des	BÜ	und	die	Sichtflächen	durch	die	Gemeinde	Meeder	
+
+Die Inspek(cid:415)on der Sich(cid:414)läche des BÜ erfolgte auf Seiten des Straßenbaulas(cid:425)rägers durch den 
+
+Straßenwärter der Gemeinde Meeder. Der Straßenwärter ha(cid:425)e die Befähigung zur Kontrolle 
+
+im Zuge seiner Ausbildung im Bereich der Straßenkontrollen und durch direkte Einweisung 
+
+seitens der DB, dem LRA und der Gemeindeverwaltung im Zuge der Verkehrsschau, sowie aus 
+
+den Unterlagen der DB Netz AG zur Einsicht erhalten. Die nachfolgende Abbildung zeigt die 
+
+Sich(cid:414)lächenskizze des BÜ, angefer(cid:415)gt durch die DB Netz AG am 14.04.2011 und am gleichen 
+
+Tag an die Gemeinde Meeder ausgehändigt. 
+
+Seite 25 von 39 
+
+ 
+ 
+Untersuchungsbericht 
+
+Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder 
+
+Abbildung 9: Skizze der Sich(cid:414)läche aufgestellt durch DB Netz AG am 19.04.20119 
+
+Die nachfolgende Abbildung 10 zeigt eine Skizze auf Basis des Planes „Ingenieurvermessung 
+
+Lage“ (IvL) mit dem BÜ. Diese war dem EIU und dem Straßenbaulas(cid:425)räger bekannt. Auf der 
+
+Skizze waren die Sich(cid:414)lächen des BÜ gelb markiert, speziell im Q IV wurde die theore(cid:415)sche 
+
+Sich(cid:414)läche,  die  sich  aus  den  vorgegebenen  Kenndaten  ergab,  um  die  für  das  Einsehen  der 
+
+Annäherungsstrecke zusätzlich erforderliche Sich(cid:414)läche ergänzt. Das Anfer(cid:415)gungsdatum der 
+
+Skizze durch die DB Netz AG und Übergabedatum an die Gemeinde Meeder blieb unbekannt. 
+
+Abbildung 10: IvL-Plan von der DB Netz AG mit eingezeichneten Sich(cid:414)lächen10 
+
+9 Quelle: Gemeinde Meeder, bearbeitet durch BEU 
+
+10 Quelle: Gemeinde Meeder 
+
+Seite 26 von 39 
+
+ 
+ 
+ 
+ 
+                                                 
+Untersuchungsbericht 
+
+Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder 
+
+Ergänzt wurden diese Unterlagen für die Sich(cid:414)lächen auch mit einem DOP des BÜ km 8,615 
+
+vom 19.07.2012, das mit dem IvL-Plan überlagert war. Die DB Netz AG zeichnete auf diesem 
+
+DOP die tatsächlich notwendige Sich(cid:414)läche im Q IV mit Maßangabe ein. Die Abbildung 11 zeigt 
+
+das DOP mit der eingezeichneten direkten Sichtachse (roter Strich) vom Sehpunkt A₂₀ für die 
+
+erforderliche  Sich(cid:414)läche im Q IV. Durch das Einzeichnen der Sichtachse auf dem  Foto wird 
+
+erkennbar, welche Bereiche der Sich(cid:414)läche sich nicht im Eigentum der Kreuzungsbeteiligten 
+
+befanden. Diese Bereiche wurden mit einem gelben Strich umrandet. 
+
+Abbildung 11: Sich(cid:414)lächenvorgabe der DB Netz AG an die Gemeinde Meeder11 
+
+Nicht aufgeklärt werden konnte, nach welchem Dokument sich die Inspek(cid:415)on der tatsächlich 
+
+erforderlichen  Sich(cid:414)läche  richtete  und  wie  diese  in  der  Örtlichkeit  bes(cid:415)mmt  und  zur 
+
+Unterstützung der handelnden Personen verortet war. Gemäß Ril 815.0031 konnte die Lage 
+
+der  Sicht-  und  Sehpunkte  dauerha(cid:332)  an  der  Bahntrasse  bzw.  der  Straße  markiert  werden. 
+
+Dieses  Regelwerk  galt  jedoch  nur  für  die  interne  Anwendung  beim  EIU.  Derar(cid:415)ge 
+
+Markierungen  hä(cid:425)en  auch  nicht  die  geometrische  Besonderheit  der  Sichtbeziehung  für 
+
+Straßenverkehrsteilnehmer auf die Annäherungsstrecke im Gleisbogen berücksich(cid:415)gt. 
+
+Die fehlende Berücksich(cid:415)gung der geometrischen Besonderheit der Sich(cid:414)läche einschließlich 
+
+nicht  verwirklichter  Orien(cid:415)erungsmarkierungen  in  den  Straßen-  und  Bahnanlagen  werden 
+
+daher als ein systemischer Faktor für den Bahnübergangsunfall angesehen. Die freizuhaltende 
+
+Sich(cid:414)läche für ein stetes Ersehen eines herannahenden Schienenfahrzeugs war in der Ke(cid:425)e 
+
+der Beteiligten und ihrer handelnden Personen nicht präzise bes(cid:415)mmt und verortet [S2]. 
+
+11 Quelle: Gemeinde Meeder 
+
+Seite 27 von 39 
+
+ 
+ 
+ 
+                                                 
+Untersuchungsbericht 
+
+Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder 
+
+Der BEU wurden die „Dokumenta(cid:415)on Kontrolle“ des Straßenwärters vom 04.05.2020 mit den 
+
+Mängeln  „Banke(cid:425)  zu  (cid:415)ef  und  private  Hecke  ragt  auf  Fahrbahn“  vorgelegt.  Mängel  an  den 
+
+Sich(cid:414)lächen  des  BÜ  wurden  nicht  erwähnt.  Die  nächste  vorliegende  „Dokumenta(cid:415)on 
+
+Kontrolle“ war vom 21.09.2020. Nach der Dienstanweisung Nr. DA 001B in Verbindung mit der 
+
+Prioritätenliste  war  die  Gemeindestraße  und  somit  auch  die  Sich(cid:414)läche  des  BÜ  in  einem 
+
+einwöchigen bis zweiwöchigen Turnus zu kontrollieren. Diese Kontrollen waren schri(cid:332)lich zu 
+
+dokumen(cid:415)eren. Ob die Kontrolle der Sich(cid:414)läche nach einem maximal zweiwöchigen Intervall 
+
+durchgeführt wurde, war nicht dokumen(cid:415)ert. Dieser Umstand wird als systemischer Faktor 
+
+für  den  Bahnübergangsunfall  angesehen,  da  eine  nicht  nachvollziehbare  Ausübung  der 
+
+bestehenden  Pﬂicht  zur  Instandhaltung  die  Wahrscheinlichkeit  des  Bahnübergangsunfalls 
+
+erhöhte [S3]. 
+
+Schri(cid:332)verkehr Gemeinde Meeder mit den Anliegern an der Sich(cid:414)läche BÜ 
+
+Stellte  die  Gemeinde  Meeder  bei  einer 
+
+Inspek(cid:415)on  der  Sich(cid:414)läche  eines  BÜ  eine 
+
+Beeinträch(cid:415)gung der Sich(cid:414)läche ohne eigene Ursache fest, musste sie nach dem BayStrWG 
+
+handeln.  Nach  Art. 29 BayStrWG  musste  der  Baulas(cid:425)räger  primär  den  Eigentümern  und 
+
+Besitzern eine angemessene Frist gewähren, damit dieser innerhalb der Frist die gefährliche 
+
+Anpﬂanzung besei(cid:415)gte. 
+
+Der  erste  Schri(cid:332)verkehr  betreﬀend  die  Sich(cid:414)läche  des  BÜ  km 8,615  im  Q IV,  der  der  BEU 
+
+vorliegt, war vom 19.07.2012. In diesem Schreiben wurde der Anlieger des Grundstücks auf 
+
+die  Problema(cid:415)k  einer  durch  Pﬂanzenbewuchs  zugewachsenen  Sich(cid:414)läche  auf  seinem 
+
+Grundstück hingewiesen: 
+
+„aufgrund einer Beschwerde durch die DB Netz AG und durch Ortseinsichtnahme am 
+
+18.07.2012 sehen wir uns gezwungen Sie zur Freihaltung von Sich(cid:414)lächen am 
+
+Bahnübergang 8.615 anzuhalten. 
+
+Unter Berücksich(cid:415)gung der Abstandsverhältnisse des Andreaskreuzes von 16 m zu dem 
+
+anschließenden Bahnübergang, ist eine Sich(cid:414)läche von 185 m einzuhalten. Anliegend 
+
+erhalten Sie einen Lageplan zur Veranschaulichung der Sich(cid:414)läche. Die gelb markierte 
+
+Fläche ist frei zu halten. 
+
+Wir weisen hiermit ausdrücklich darauf hin, dass die Sicherheit hier stark gefährdet wird 
+
+und eine umgehende Umsetzung Ihrerseits erforderlich ist.“ 
+
+Seite 28 von 39 
+
+ 
+ 
+Untersuchungsbericht 
+
+Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder 
+
+Dem  Schreiben  wurde  die  DOP-Skizze  Abbildung  11  mit  der  eingezeichneten  Sich(cid:414)läche 
+
+angefügt. 
+
+Dass den Beteiligten das Problem der Sichteinschränkungen mindestens seit dem Jahre 2010 
+
+bekannt  war,  geht  aus  dem  vorliegenden  Schri(cid:332)verkehr  zwischen  verschiedenen  Stellen 
+
+hervor. Dieser enthält unter anderem die Weigerung eines Beteiligten, die Gefahr aufgrund 
+
+von Schadenersatzansprüchen zu besei(cid:415)gen. Zudem wurden teilweise sehr kurze Fristen von 
+
+nur einem Tag gesetzt, was darauf hindeutet, dass bereits damals Gefahren vorlagen. 
+
+Eine  Ursache  für  die  verzögerte  Abhilfe  durch  die  Gemeinde  könnte  in  den  einschlägigen 
+
+gesetzlichen Grundlagen liegen. Die Gemeinde war an das BayStrWG gebunden und ha(cid:425)e im 
+
+Gegensatz  zu  den  Eisenbahnen  gemäß  AEG  nicht  das  vergleichbare  Recht,  der  Sicherheit 
+
+dienende Maßnahmen bei Gefahr in Verzug durchzusetzen. Diese Diskrepanz zwischen dem 
+
+AEG und dem BayStrWG wurde im Rahmen dieser Untersuchung iden(cid:415)ﬁziert. 
+
+4.3.3  Beteiligte	des	Infrastrukturbetreibers	
+
+Die  Qualiﬁka(cid:415)on  des  beteiligten  Fdl  wurde  nicht  näher  untersucht,  da  seine  Handlungen 
+
+keinen Einﬂuss auf das Ereignis ha(cid:425)en. 
+
+4.3.4  Beteiligte	der	EVU	
+
+Der Tf des Zuges DPN-G 84553 war im Besitz eines gül(cid:415)gen Triebfahrzeugführerscheins gemäß 
+
+Triebfahrzeugführerscheinverordnung.  Für  das  Führen  von  Eisenbahnfahrzeugen  erhielt  er 
+
+vom verantwortlichen EVU eine Zusatzbescheinigung, in der u. a. die Befähigung zum Führen 
+
+der  Tfz-Baureihe  und  weitere  Zusatzqualiﬁka(cid:415)onen  eingetragen  waren.  Der  Tf  konnte  die 
+
+notwendige  Streckenkunde  für  die  Strecke  nachweisen.  Die  Nachweise  zu  durchgeführten 
+
+Überwachungen sowie Fortbildungen des Tf zeigten keine Auﬀälligkeiten. Wie im Kapitel 4.1.2 
+
+beschrieben, wurden die zulässigen Geschwindigkeiten durch den Tf eingehalten. 
+
+Bzgl. der Dienstausübung des Tf waren keine Feststellungen für ereignisrelevante Faktoren zu 
+
+ermi(cid:425)eln. 
+
+4.3.5  Beteiligter	Straßenverkehrsteilnehmer	
+
+Nach  den  behördlichen  Ermi(cid:425)lungen  war  der  Fahrer  des  Pkw  berech(cid:415)gt  das  Fahrzeug  zu 
+
+führen  und am  öﬀentlichen  Straßenverkehr  teilzunehmen. Es  lagen  keine  Einschränkungen 
+
+der Fahrtüch(cid:415)gkeit des Fahrers vor. Hinweise für einen möglichen Suizid lagen nicht vor. 
+
+Seite 29 von 39 
+
+ 
+ 
+Untersuchungsbericht 
+
+Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder 
+
+Gemäß § 19 Abs. 1 StVO haben Schienenfahrzeuge an BÜ Vorrang. Der Straßenverkehr darf 
+
+sich  solchen  BÜ  zudem  nur  mit  mäßiger  Geschwindigkeit  nähern.  Nach  den  erfolgten 
+
+Ermi(cid:425)lungen  wurde  der  BÜ  mit  der  vorgeschriebenen  Geschwindigkeit  von  20 km/h 
+
+überfahren,  jedoch  wurde  der  Vorrang  des  Schienenverkehrs  nicht  beachtet.  Wäre  die 
+
+Missachtung des gebotenen Vorrangs eines Schienenfahrzeugs vermieden worden, wäre das 
+
+Ereignis nicht eingetreten. Die BEU wertet diesen Sachverhalt daher als ursächlichen Faktor 
+
+[F1]. 
+
+4.4  Feedback‐	und	Kontrollmechanismen	
+
+In diesem Kapitel wird insbesondere auf Bedingungen, Feedback- und Kontrollmechanismen 
+
+im  Eisenbahnsystem  eingegangen,  denen  ein  ak(cid:415)ver  Einﬂuss  auf  die  Entstehung  ähnlicher 
+
+Ereignisse zugeschrieben werden könnte. Diese Mechanismen schließen Faktoren des Risiko- 
+
+und Sicherheitsmanagement sowie Überwachungsverfahren mit ein. 
+
+4.4.1  Verkehrsschauen	durch	die	Straßenverkehrsbehörden	
+
+Die  Straßenverkehrsbehörden  oder  Straßenbaulas(cid:425)räger  ha(cid:425)en  nach  der  VwV-StVO 
+
+mindestens  alle  zwei  Jahre  eine  umfassende  Verkehrsschau  durchzuführen,  bei  der 
+
+insbesondere die Straßenverkehrsanlagen am BÜ zu prüfen waren. 
+
+Die Gemeinde Meeder überließ der BEU die Protokolle der Verkehrsschauen am BÜ km 8,615 
+
+mit Durchführungsdatum 31.03.2015 sowie 16.01.2018 und die DB Netz AG das Protokoll der 
+
+Sonderverkehrsschau vom 29.07.2020 nach dem gefährlichen Ereignis. 
+
+In der Ergebnisniederschri(cid:332) zur Verkehrsschau vom 31.03.2015 war festgestellt: 
+
+ 
+
+regelmäßig Sichtfelder freihalten, insbesondere Büsche in Q I entfernen 
+
+  bei evtl. Maisanbau und keiner Entfernung durch die Landwirte muss VZ 274-51 
+
+(10 km/h) aufgestellt werden (notwendige Sichtweite dann nur 6 m) 
+
+ 
+
+links und rechts der Bahn Haltelinien (VZ 294) erneuern, Q IV: VZ 151 mit VZ 157-10 
+
+(0VZ 156) richten und fixieren 
+
+Es bestanden folgende Feststellungen zur Verkehrsschauen am 16.01.2018: 
+
+  Sichtfelder regelmäßig freihalten 
+
+  bei evtl. Maisanbau und keiner Entfernung durch die Landwirte muss VZ 274-51 
+
+(10 km/h) aufgestellt werden (notwendige Sichtweite dann nur 6 m) 
+
+ 
+
+links und rechts der Bahn Haltelinien (VZ 294) erneuern 
+
+Seite 30 von 39 
+
+ 
+ 
+Untersuchungsbericht 
+
+Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder 
+
+  Fahrbahnrandmarkierung VZ 295 erneuern durch DB. 
+
+Bei der Sonderverkehrsschau am 29.07.2020 wurde festgestellt: 
+
+  Feststellen und Auswertung des aktuellen Verkehrsaufkommens mittels Messgerät für 
+
+mindestens 7 Tage 
+
+ 
+
+Installation einer Geschwindigkeitstafel in zeitlichen Abständen als Hinweis für die 
+
+Verkehrsteilnehmer 
+
+  Übermitteln der Verkehrsstärke an die DB Netz AG 
+
+  Sichtfeld im Bereich des 16 m Punkts des Q IV (sehr geringfügig eingeschränkt und vor 
+
+Ort hergestellt) Sicht im 6 m Punkt vorhanden. Rückschnitt großzügig durchführen 
+
+sowie regelmäßige Kontrolle gemäß den gesetzlichen Vorgaben 
+
+  Dingliche Eintragung der Sichtflächen prüfen 
+
+  Beschilderung GVS Meeder Fahrtrichtung Birkenmoor Anbringen folgende Schilder 
+
+beidseitig: 
+
+  Z 156 (drei streifige Bake) mit Zusatzschild 150 m mit Z 151 Bahnübergang 
+
+zusätzlich Z 274 (50 km/h) 
+
+  Z 159 (zweistreifige Bake) mit Zusatzschild 100 m 
+
+  Z 162 (einstreifige Bake) mit Zusatzschild 50 m 
+
+  Versetzung Z 274 (20 km/h) mit Abstand 25 Meter zu Bahnübergang 
+
+  Fahrtrichtung Meeder kommend von Birkenmoor Anbringen /Abänderung folgende 
+
+Verkehrszeichen: 
+
+  Z 156 (dreistreifige Bake) mit Z 151 Bahnübergang sowie Z 274 (70 km/h) 
+
+(kurvenreiche Strecke / VRA erlassen) 
+
+  Z 159 (zweistreifige Bake) mit Z 274 (50 km/h) 
+
+  Z 162 (einstreifige Bake) Versetzung Z 274 (20 km/h) mit Abstand 25 Meter zu 
+
+Bahnübergang 
+
+  Z 214 (vorgeschriebene Fahrtrichtung gerade / rechts) Einfahrt in Feldweg 
+
+Nach  den  der  BEU  vorliegenden  Unterlagen  wurde  bei  der  Verkehrsschau  im  Jahr  2015 
+
+festgestellt,  dass  der  Maisanbau  die  Sich(cid:414)lächen  beeinträch(cid:415)gte.  Sollte  der 
+
+Eigentümer/Besitzer  den  Maisaufwuchs  nicht  en(cid:414)ernen,  sollte  als  mögliche  Lösung  die 
+
+Höchstgeschwindigkeit für den Straßenverkehr auf 10 km/h reduziert werden. In diesem Fall 
+
+würde der Sehpunkt A₂₀ en(cid:414)allen und lediglich die Sich(cid:414)läche für 10 km/h erforderlich sein. 
+
+Seite 31 von 39 
+
+ 
+ 
+Untersuchungsbericht 
+
+Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder 
+
+Diese Feststellungen wurden auch bei der Verkehrsschau im Jahr 2018 getroﬀen. Im Jahr 2020 
+
+war  die  Sich(cid:414)läche  erneut  durch  Maisaufwuchs  stark  eingeschränkt,  jedoch  wurde  die 
+
+Geschwindigkeitsbegrenzung auf 10 km/h nicht umgesetzt. 
+
+Die  Umsetzung  der  geforderten  Maßnahmen  wurde  nicht  zwischen  den  Beteiligten 
+
+ausgetauscht  oder  berücksich(cid:415)gt.  Die  BEU  wertet  die  fehlende  Wirksamkeit  der 
+
+Verkehrsschauen 
+
+aufgrund  nicht  erfolgter  Weitergabe  und  Archivierung 
+
+von 
+
+Sicherheitsinforma(cid:415)onen  als  beitragenden  Faktor  zum  Ereignis.  Die  Weitergabe  dieser 
+
+Feststellungen betri(cid:335) die Zusammenarbeit zwischen Eisenbahnen und weiteren Beteiligten. 
+
+Der  Austausch  der  Sicherheitsinforma(cid:415)onen  an  Zuständige  hä(cid:425)e  die  Sicherheit  am 
+
+Bahnübergang  auf  alterna(cid:415)ve  Weise  verwirklicht  und  die  Wahrscheinlichkeit  des 
+
+eingetretenen Ereignisses reduziert [F4]. 
+
+4.5  Frühere	Ereignisse	ähnlicher	Art	
+
+Die BEU-Datenbankauswertung ergab, dass sich seit Aufzeichnungsbeginn bis einschließlich 
+
+zum Zusammenprall am 27.07.2020 fünf Bahnübergangsunfälle am BÜ km 8,615 ereigneten. 
+
+Bei  den  vorangegangenen  Ereignissen  konnte  jeweils  nicht  ermi(cid:425)elt  werden,  weshalb  die 
+
+Straßenverkehrsteilnehmer den Vorrang des Schienenverkehrs nicht beachtet ha(cid:425)en. 
+
+Seite 32 von 39 
+
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder 
+
+5  Schlussfolgerungen	
+
+Das  folgende  Kapitel  enthält  eine  Zusammenfassung  der  ermi(cid:425)elten  ursächlichen, 
+
+beitragenden  und  systemischen  Faktoren.  Zusätzlich  sind  zwei  weitere  Unterkapitel 
+
+vorgesehen,  um  Informa(cid:415)onen  zu  bereits  ergriﬀenen  Maßnahmen  und  zu  zusätzlichen 
+
+Bemerkungen zu teilen. 
+
+5.1  Zusammenfassung	und	Schlussfolgerung	
+
+Ursächlich  für  den  Bahnübergangsunfall  war,  dass  der  Straßenverkehrsteilnehmer  den 
+
+Vorrang des Schienenverkehrs nach § 19 (1) StVO am BÜ nicht beachtete [F1]. Der BÜ dur(cid:332)e 
+
+nach  § 11 Abs. 7 Nr. 2  EBO  durch  die  Übersicht  auf  die  Bahnstrecke  in  Verbindung  mit 
+
+hörbaren Signalen der Eisenbahnfahrzeuge gesichert werden. Die Sicherung des BÜ bestand 
+
+aus den zwei Maßnahmen hörbare Signale des sich annähernden Schienenfahrzeugs sowie 
+
+dessen visuelle Erfassung durch die Straßenverkehrsteilnehmer. 
+
+Der Tf musste an den Signalen Bü 4 jeweils etwa drei Sekunden lang pfeifen. Nach Angabe des 
+
+Tf  befolgte  dieser  vor  der  Kollision  bei  beiden  Signalen  Bü  4  diese  Anweisung.  Für  die 
+
+Beachtung des Vorranggebots durch Sicht auf das sich annähernde Schienenfahrzeug war der 
+
+Straßenverkehrsteilnehmer  ausschließlich  selbst  verantwortlich.  Der  Straßenverkehrsteil-
+
+nehmer näherte sich innerhalb der erlaubten Geschwindigkeiten mit seinem Pkw dem BÜ und 
+
+ha(cid:425)e bewusst die Bahnanlagen links und rechts zu beobachten, um ein Schienenfahrzeug zu 
+
+erkennen.  Der  Fahrer  des  Pkw  ha(cid:425)e  nach  behördlichen  Ermi(cid:425)lungen  die  zulässige 
+
+Höchstgeschwindigkeit  von  20 km/h  nicht  überschri(cid:425)en.  Der  Straßenverkehrsteilnehmer 
+
+konnte  ein  Schienenfahrzeug  nur  dann  rechtzei(cid:415)g  erkennen,  wenn  dieses  innerhalb  der 
+
+Annäherungsstrecke  nicht  vollständig  durch  ein  Hindernis  verdeckt  wurde.  Am  Beginn  des 
+
+Anhalteweges  am  Sehpunkt A₂₀  wurde  die  Sicht  durch  den  Aufwuchs  des  Maisfeldes  am 
+
+Ereignistag  behindert.  Die  Grundlagen  zur  Bes(cid:415)mmung  und  Verortung  der  Sich(cid:414)läche  [S2] 
+
+berücksich(cid:415)gten  nicht  die  in  der  Örtlichkeit  besonderen  Gegebenheiten  und  erhöhten  die 
+
+Wahrscheinlichkeit eines Bahnübergangsunfalls. 
+
+Zu ursächlichem Faktor „Vorrang von Schienenfahrzeugen“ [F1] 
+
+Ob  der  verunglückte  Straßenverkehrsteilnehmer  die  Achtungspﬁﬀe  wahrgenommen  ha(cid:425)e, 
+
+und  weshalb  er  den  Vorrang  des  Schienenverkehrs  nicht  beachtete,  konnte  durch  die  BEU 
+
+nicht mehr ermi(cid:425)elt werden. 
+
+Seite 33 von 39 
+
+ 
+ 
+Untersuchungsbericht 
+
+Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder 
+
+Zu beitragendem Faktor „Sichtfläche nicht korrekt“ [F2] 
+
+Die Sich(cid:414)läche des BÜ musste nach den Vorgaben der Ril 815 so beschaﬀen sein, dass das 
+
+Eisenbahnfahrzeug vom Sehpunkt A₂₀ und aus dem folgenden Anhalteweg über die gesamte 
+
+Annäherungsstrecke  ab  Sichtpunkt B₂₀  bis  zum  BÜ  sichtbar  blieb.  Die  Übersicht  kann  bei 
+
+vorhandenen Sichthindernissen als gewahrt gelten, wenn der sich nähernde Zug nicht frontal 
+
+verdeckt wird. 
+
+Typischerweise  ergibt  sich  aus  den  drei  Bes(cid:415)mmungspunkten  für  die  Sich(cid:414)läche  die 
+
+geometrische Form eines Dreieckes. Im vorliegenden Fall verlief die Strecke in Fahrtrichtung 
+
+vor dem BÜ im Q IV begründet durch die bogenförmige Streckenführung teilweise außerhalb 
+
+der Fläche dieses Dreieckes. 
+
+Hierdurch bedingt war im vorliegenden Ereignis das Schienenfahrzeug für vier Sekunden vom 
+
+Aufwuchs auf dem Maisfeld verdeckt. Ein Straßenverkehrsteilnehmer konnte daher nicht zu 
+
+jeder  Zeit  ein  sich  annäherndes  Schienenfahrzeug  sehen  und  ihm  entsprechend  den 
+
+gebotenen  Vorrang  gewähren.  Die  Sicht  wurde  erst  an  einem  späteren  Punkt  wieder-
+
+hergestellt, was jedoch zu einem verkürzten Anhalteweg führte. Dadurch war ein rechtzei(cid:415)ges 
+
+Anhalten vor dem Bahnübergang nicht mehr möglich. 
+
+Zu systemischen Faktor „Bes(cid:415)mmung und Verortung der Sich(cid:414)lächen“ [S2] 
+
+Für  die  Bes(cid:415)mmung  und  Verortung  der  nicht  korrekt  vorgefundenen  Sich(cid:414)läche  war  es 
+
+erforderlich, dass die im Au(cid:332)rag der zuständigen Beteiligten handelnden Personen über die 
+
+geometrischen  Besonderheiten  des  BÜ  km  8,615  informiert  waren.  Aufgrund  der  mehrere 
+
+Jahre zurückliegenden und teilweise widersprüchlichen Dokumentenübergabe zwischen dem 
+
+EIU und der Gemeinde Meeder ließ sich jedoch nicht klären, ob diese Besonderheiten von den 
+
+handelnden Personen tatsächlich verstanden wurden, dauerha(cid:332) Berücksich(cid:415)gung fanden und 
+
+in ausreichendem Maße reproduzierbar dokumen(cid:415)ert waren. 
+
+Diese Aspekte zur Beachtung von Sicherheitsinforma(cid:415)onen betreﬀen die Zusammenarbeit der 
+
+Eisenbahn mit den für einen BÜ beteiligten Stellen. Dem EIU obliegt gem. Verordnung (EU) 
+
+2018/762,  Anhang II,  Punkt 4.4.3a),  dass  sicherheitsrelevante 
+
+Informa(cid:415)onen  für  die 
+
+vorgesehenen  Nutzer  verständlich,  bzw.  gem.  Punkt  4.4.3d)  konsistent  sind.  Dies  bedingt 
+
+auch,  dass  durch  das  Regelwerk  die  reproduzierbare  und  einheitliche  Erstellung  von 
+
+maßgeblichen Dokumenten hinreichend speziﬁziert ist. Die freizuhaltenden Flächen müssen 
+
+vom  EIU  eindeu(cid:415)g  und  unmissverständlich  beschrieben  sein.  Topologische  Besonderheiten 
+
+Seite 34 von 39 
+
+ 
+ 
+Untersuchungsbericht 
+
+Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder 
+
+und  daraus  entstehende  besondere  Risiken  müssen  derart  au(cid:297)ereitet  sein,  dass  sie  dem 
+
+Nutzer der Informa(cid:415)onen, wie im vorliegenden Fall dem zuständigen Personal des Straßen-
+
+baulas(cid:425)rägers, bewusst sind und in der Aufgabenerledigung berücksich(cid:415)gt werden können. 
+
+Die BEU empﬁehlt anhand der Sicherheitsempfehlung 13/2025, die an Externe ausgegebenen 
+
+Sicherheitsinforma(cid:415)onen auf Verständlichkeit und Konsistenz zu überprüfen. 
+
+Zu  beitragendem  Faktor  „Inspek(cid:415)onsintervall  während  der  örtlichen  Vegeta(cid:415)ons‐
+
+periode“ [F3] 
+
+Den der BEU vorliegenden Unterlagen von der DB Netz AG konnte nicht entnommen werden, 
+
+ob eine weitere Inspek(cid:415)on des BÜ innerhalb der Wachstumsperiode der Pﬂanzen geplant war. 
+
+Die letzte Inspek(cid:415)on des BÜ wurde am 13.05.2020 durch den Alv ca. zwei Monate vor dem 
+
+Ereignis  durchgeführt.  Erst  nach  dem  Ereignis wurde  festgestellt,  dass  die  Sich(cid:414)läche  nicht 
+
+vollständig  einsehbar  war.  Der  Aufwuchs  von  Mais  ha(cid:425)e  die  Sicht  auf  den  Zug  am 
+
+Sehpunkt A₂₀  so  eingeschränkt,  dass  der  Zug 
+
+innerhalb  der  Annäherung  für  den 
+
+Straßenverkehrsteilnehmer  nicht  zu  sehen  war.  Gemäß  Ril  815  musste  das  Inspek(cid:415)ons-
+
+intervall für BÜ in Zeiten mit starker Beeinträch(cid:415)gung durch Vegeta(cid:415)on verkürzt werden. Eine 
+
+Kürzung  der  Zei(cid:414)rist  für  die  Inspek(cid:415)on  durch  die  verantwortlichen  Stellen  während  der 
+
+Vegeta(cid:415)onsphase konnte durch die BEU für den betreﬀenden BÜ nicht ermi(cid:425)elt werden. Ob 
+
+dahingehende Regelwerksvorgaben und ihre Tragweite in vergleichbarer Weise auch von den 
+
+handelnden  Personen  der  Gemeinde  Meeder  verstanden  waren,  fällt  ebenfalls  unter  den 
+
+bereits  genannten  Aspekt  der  Verständlichkeit  von  Sicherheitsinforma(cid:415)onen  für  den 
+
+vorgesehenen Nutzer. 
+
+Zu systemischem Faktor „Pﬂichtausübung durch den Straßenbaulas(cid:425)räger“ [S3] 
+
+Die  letzte  dokumen(cid:415)erte  Kontrolle  der  Sich(cid:414)läche  durch  den  Straßenwärter  wurde  am 
+
+04.05.2020 und damit zuletzt mehr als zwei Monate vor dem Ereignis durchgeführt. Weitere 
+
+schri(cid:332)liche Unterlagen wurden der BEU nicht vorgelegt. Nach der Dienstanweisung musste 
+
+die  Sich(cid:414)läche  des  BÜ  in  einen  ein-  bis  zweiwöchigen  Turnus  kontrolliert  werden.  Diese 
+
+Kontrollen  waren  schri(cid:332)lich  zu  dokumen(cid:415)eren.  Aufgrund  der  fehlenden  Dokumenta(cid:415)on 
+
+konnte nicht rekonstruiert werden, ob und wie o(cid:332) die Sich(cid:414)läche tatsächlich überprü(cid:332) wurde. 
+
+Die  Dokumenta(cid:415)on  der  Kontrollen  diente  nicht  nur  als  Nachweis  der  Durchführung  der 
+
+Inspek(cid:415)on,  sondern  bes(cid:415)mmte  auch  den  Termin  für  die  nächste  Inspek(cid:415)on.  Diese 
+
+Seite 35 von 39 
+
+ 
+ 
+Untersuchungsbericht 
+
+Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder 
+
+Bekanntheit  der 
+
+letzten  zurückliegenden  Überprüfung 
+
+ist  beispielsweise  auch 
+
+für 
+
+sachgerechte Arbeitsvertretungen von Bedeutung. 
+
+Der BEU wurde ein umfangreicher Schri(cid:332)verkehr zwischen der Gemeinde Meeder und den 
+
+direkten  Anliegern  des  BÜ  vorgelegt.  Diesem  Schri(cid:332)verkehr  war  zu  entnehmen,  dass  es 
+
+mehrmals  zu  einer  verzögerten  Besei(cid:415)gung  der  Sichthindernisse  innerhalb  der  Sich(cid:414)läche 
+
+kam. Teilweise weigerte sich der Besitzer die aufgewachsenen Maispﬂanzen zu en(cid:414)ernen, so 
+
+lange er keinen Schadensersatz hierfür bekam. 
+
+Die  Gemeinde  Meeder  war  nach  dem  BayStrWG  verpﬂichtet  zu  handeln.  Gemäß 
+
+Art. 29 BayStrWG  musste  der  Baulas(cid:425)räger  vorrangig  dem  Eigentümer  bzw.  Besitzer  eine 
+
+angemessene Frist zur Besei(cid:415)gung von gefährlichen Anpﬂanzungen gewähren. 
+
+Die  Ril  815  empﬁehlt  bei  Änderung  und  Neubauten  zur  Absicherung  der  Interessen  der 
+
+Eisenbahn entsprechende Grunddienstbarkeiten zu bestellen. In ähnlicher Weise könnte auch 
+
+der Straßenbaulas(cid:425)räger hinsichtlich seiner Interessen bei Bestandsanlagen handeln. 
+
+Bei Gefahr im Verzug war es der Gemeinde gemäß BayStrWG geboten, zu handeln. Sie wäre 
+
+berech(cid:415)gt gewesen, nach Art. 29 Abs. 2 Satz 2 und Abs. 4 Satz 1 BayStrWG den Aufwuchs zu 
+
+besei(cid:415)gen. Im Gegenzug musste die Gemeinde den Eigentümern und Besitzern, die durch die 
+
+Maßnahmen verursachten Aufwendungen und Schäden, angemessen vergüten. 
+
+Würde  die  Sich(cid:414)läche  zum  Verantwortungsbereich  eines  EIU  gehören,  wäre  dieses  gemäß 
+
+§ 24a  AEG  befugt,  bei  Gefahr  in  Verzug  sofort  handeln  und  Maßnahmen  auf  Kosten  des 
+
+Eigentümers  zu  ergreifen.  Da  die  Gemeinde  jedoch  nur  gemäß  BayStrWG  handeln  dur(cid:332)e, 
+
+ha(cid:425)e sie die Kosten für die Besei(cid:415)gung zu vergüten und dadurch selbst zu tragen. Dies kann 
+
+für eine unverzügliche Besei(cid:415)gung von Gefahren hinderlich sein. Gesetzliche Regelungen zu 
+
+den  Rechten  der  Straßenbaulas(cid:425)räger  können  sich  deshalb  zukün(cid:332)ig  bspw.  am 
+
+Regelungsrahmen  des  §  24a AEG  orien(cid:415)eren  und  wären  vom  zuständigen  Gesetzgeber  zu 
+
+erlassen. 
+
+Zu beitragendem Faktor „Austausch von Sicherheitsinforma(cid:415)onen“ [F4] 
+
+Die  Ergebnisniederschri(cid:332)  einer  vor  dem  Ereignis  durchgeführten  Verkehrsschau  forderte 
+
+indirekt  eine  verstärkte  Inspek(cid:415)on  der  Sich(cid:414)läche  während  der  Wachstumsphase  von 
+
+Pﬂanzen. 
+
+Seite 36 von 39 
+
+ 
+ 
+Untersuchungsbericht 
+
+Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder 
+
+In  den  Jahren  2015  sowie  2018  wurde  durch  die  Teilnehmer  der  Verkehrsschauen  in  den 
+
+Ergebnisniederschri(cid:332)en festgehalten, dass bei evtl. Maisanbau und nicht erfolgter En(cid:414)ernung 
+
+durch die Landwirte VZ 274-51 (10 km/h) aufzustellen sei. Ob die aufgrund der Feststellungen 
+
+getroﬀenen Maßnahmen umgesetzt wurden, konnte nicht ermi(cid:425)elt werden. Im Jahr 2020 war 
+
+die Sich(cid:414)läche erneut durch ein Maisfeld stark beeinträch(cid:415)g. Der Straßenverkehr war nicht 
+
+durch  eine  Geschwindigkeitsbegrenzung  auf  10 km/h  reduziert.  Die 
+
+festgestellten 
+
+Maßnahmen der vorangegangenen Verkehrsschauen waren anscheinend für eine dauerha(cid:332)e 
+
+Besei(cid:415)gung der Gefahr wirkungslos. 
+
+Die  in  den  vorherigen  Verkehrsschauen  festgelegte  Maßnahme,  bei  starkem  Aufwuchs  ein 
+
+Verkehrszeichen zur Reduzierung der zulässigen Höchstgeschwindigkeit des Straßenverkehrs 
+
+auf  10 km/h  aufzustellen,  erforderte  ein  passend  ausgerichtetes  Inspek(cid:415)onsintervall.  Bei 
+
+hochsommerlichen  We(cid:425)erbedingungen  ist  bei  Mais  ein  Höhenzuwachs  von  15 cm  pro  Tag 
+
+möglich.  Entsprechend  häuﬁg  hä(cid:425)e  hier  die  Sich(cid:414)läche  überprü(cid:332)  werden  müssen,  um  die 
+
+geforderte Ersatzmaßnahme rechtzei(cid:415)g einzurichten. Ob dies entsprechend geschehen war, 
+
+konnte aufgrund fehlender Handlungsanweisungen und nachvollziehbarer Dokumenta(cid:415)onen 
+
+nicht ermi(cid:425)elt werden. 
+
+Das  EIU  DB Netz AG  ha(cid:425)e  aufgrund  der  internen  Vorgaben  anlagenbezogene  Unterlagen 
+
+erstellt.  In  diesen  fanden  sich  keine  Präzisierungen,  um  die  Feststellungen  aus  den 
+
+Verkehrsschauen umzusetzen. Gemäß Verordnung (EU) 2018/762, Anhang II, Punkt 4.4.1 ist 
+
+das  EIU  angehalten,  angemessene  Kommunika(cid:415)onskanäle  festzulegen,  um  sicherzustellen, 
+
+dass  sicherheitsrelevante 
+
+Informa(cid:415)onen  zwischen  den  verschiedenen  Ebenen  der 
+
+Organisa(cid:415)on sowie mit externen Beteiligten ausgetauscht werden. 
+
+Auch bei den anlagenbezogenen Unterlagen der Gemeinde Meeder wurde kein Vermerk über 
+
+die geforderten Maßnahmen der Verkehrsschauen vorgefunden. 
+
+Mindestens zur Verbesserung der Sicherheit des Eisenbahnbetriebs erscheint es geboten, die 
+
+zugrundeliegenden  Kommunika(cid:415)onskanäle  mit  den  außerhalb  des  EIU  für  einen  BÜ 
+
+beteiligten  Stellen  zu  überprüfen  und  zu  verbessern.  Die  BEU  empﬁehlt  daher,  die 
+
+bestehenden Kommunika(cid:415)onskanäle auf ihre Angemessenheit zu überprüfen. 
+
+Dies geht mit der zu [S2] ausgesprochenen Sicherheitsempfehlung einher. 
+
+Seite 37 von 39 
+
+ 
+ 
+Untersuchungsbericht 
+
+Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder 
+
+5.2  Seit	dem	Ereignis	getroffene	Maßnahmen	
+
+Durch das EIU wurde am 28.07.2020 eine Langsamfahrstelle 20 km/h von km 8,7 bis km 8,6 
+
+für die Fahrtrichtung Bad Rodach – Coburg eingerichtet. Diese wurde am 30.07.2020 wieder 
+
+aufgehoben,  da  die  Strecke  ab  diesem  Zeitpunkt  für  einen  Zeitraum  von  vier  Wochen  im 
+
+Rahmen einer Gleiserneuerung gesperrt war. Nach Wiederinbetriebnahme der Strecke war 
+
+das Maisfeld zurückgeschni(cid:425)en. 
+
+Die Eigentümer der an die Bahn angrenzenden Grundstücke mit landwirtscha(cid:332)licher Nutzung 
+
+wurden  erneut  auf  die  Notwendigkeit  der  Freihaltung  der  Sich(cid:414)lächen  hingewiesen.  Eine 
+
+Änderung an der straßensei(cid:415)gen Beschilderung des BÜ wurde nicht vorgenommen. 
+
+Gemeinsam  haben  das  EIU  und  die  Gemeinde  Meeder  Gespräche  über  eine  mögliche 
+
+technische  Sicherung  des  BÜ  sowie  weiterer  benachbarter  BÜ  geführt.  Möglichen 
+
+Besei(cid:415)gungskonzepten wurde durch die Gemeine Meeder nicht zuges(cid:415)mmt. Eine technische 
+
+Sicherung des BÜ beﬁndet sich in einer langfris(cid:415)gen Planung. 
+
+5.3  Zusätzliche	Bemerkungen	
+
+Bei der Vor-Ort-Untersuchung am 28.07.2020 wurde ein hohes Verkehrsau(cid:325)ommen am BÜ 
+
+festgestellt. Das gegenüber der Regelsitua(cid:415)on hohe Verkehrsau(cid:325)ommen wurde durch eine 
+
+Verkehrszählung nach dem Bahnübergangsunfall bestä(cid:415)gt. 
+
+Der Grund für das hohe Verkehrsau(cid:325)ommen war die Vollsperrung der Durchgangsstraße in 
+
+Meeder.  Der  Verkehr  von  Wiesenfeld  b.  Coburg  wurde  großräumig  über  Grosswalbur 
+
+umgeleitet. Bei dieser Umleitung musste der BÜ im km 8,615 nicht befahren werden, diente 
+
+zahlreichen Ortskundigen jedoch als Behelf. 
+
+Für die Behörde, die die Planung der Umleitung bearbeitete, war die Meldung der Maßnahme 
+
+nach der VwV-StVO eine Kannbes(cid:415)mmung. Da die Umleitung nicht direkt über den BÜ führte, 
+
+war  die  bearbeitende  Behörde  der  Auﬀassung,  dass  es  nicht  notwendig  sei,  das  EIU  zu 
+
+informieren.  Das  EIU  war  daher  nicht  in  die  Lage  versetzt,  tatsächlich  gebotene  Über-
+
+prüfungen vorzunehmen.  
+
+Seite 38 von 39 
+
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Bahnübergangsunfall, 27.07.2020, Hp Großwalbur – Hp Meeder 
+
+6  Sicherheitsempfehlungen	
+
+Gemäß  § 6 EUV  und  Art. 26  Abs. 2  der  Richtlinie  (EU) 2016/798  ergeht  nachfolgende 
+
+Sicherheitsempfehlung: 
+
+Lfd. 
+
+Nr. 
+
+Adressat und Sicherheitsempfehlung 
+
+Betri(cid:335) Unternehmen 
+
+13/2025 
+
+Sicherheitsbehörde: 
+
+EIU 
+
+Es wird empfohlen, die mit den zu 
+Bahnübergängen beteiligten Stellen 
+eingerichteten Kommunika(cid:415)onskanäle gem. 
+Verordnung (EU) 2018/762, Anhang II, Punkt 4.4.1 
+auf ihre Wirksamkeit zu überprüfen und gem. 
+Verordnung (EU) 2018/762, Anhang II, Punkt 
+4.4.3a) sicherzustellen, dass sicherheitsrelevante 
+Informa(cid:415)onen für die vorgesehenen Nutzer 
+verständlich und gem. Punkt 4.4.3d) konsistent 
+sind. 
+
+Seite 39 von 39 
+
+ 
+ 
+ 
+ 
 

@@ -1,2188 +1,2945 @@
-Untersuchungsbericht
-Aktenzeichen:
+Untersuchungsbericht 
 
-BEU-uu2023-05/003-3323
+Aktenzeichen: 
 
-Stand:
+BEU-uu2023-05/003-3323 
 
-23.04.2025
+Stand: 
 
-Erstveröﬀentlichung:
+23.04.2025 
 
-24.04.2025
+Version 1.0 
 
-Version 1.0
+Erstveröﬀentlichung:  24.04.2025 
 
-Gefährliches Ereignis im Eisenbahnbetrieb
+Gefährliches	Ereignis	im	Eisenbahnbetrieb 
 
-Ereignisart:
+Ereignisart: 
 
-Personenunfall
+Personenunfall 
 
-Datum:
+Datum: 
 
-04.05.2023
+Zeit: 
 
-Zeit:
+04.05.2023 
 
-11:03 Uhr
+11:03 Uhr 
 
-Benachbarte Betriebsstellen:
+Benachbarte Betriebsstellen:  
 
-Bf Hürth-Kalscheuren – Bf Brühl
+Bf Hürth-Kalscheuren – Bf Brühl 
 
-Streckennummer:
+Streckennummer: 
 
-2630
+Kilometer: 
 
-Kilometer:
+2630 
 
-10,4
+10,4 
 
-Untersuchungsbericht
-Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl
+ 
+	
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Veröﬀentlicht durch:
-Bundesstelle für Eisenbahnunfalluntersuchung
-Heinemannstraße 6
-53175 Bonn
+Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl 
 
-Untersuchungsbericht
-Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl
+Veröﬀentlicht durch: 
 
-Inhaltsverzeichnis
-I.
+Bundesstelle für Eisenbahnunfalluntersuchung 
 
-Änderungsverzeichnis: .......................................................................................... II
+Heinemannstraße 6 
 
-II.
+53175 Bonn 
 
-Abbildungsverzeichnis: ........................................................................................ III
+ 
+Untersuchungsbericht 
 
-III.
+Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl 
 
-Tabellenverzeichnis: ............................................................................................ III
+Inhaltsverzeichnis	
 
-IV.
+I. 
 
-Abkürzungsverzeichnis: ....................................................................................... IV
+II. 
 
-0
+Änderungsverzeichnis: .......................................................................................... II 
 
-Vorbemerkung...................................................................................................... 1
+Abbildungsverzeichnis: ........................................................................................ III 
 
-1
+III. 
 
-Zusammenfassung ................................................................................................ 2
+Tabellenverzeichnis: ............................................................................................ III 
 
-1.1
+IV. 
 
-Kurzbeschreibung des Ereignisses........................................................................... 2
+Abkürzungsverzeichnis: ....................................................................................... IV 
 
-1.2
+0 
 
-Folgen ...................................................................................................................... 2
+1 
 
-1.3
+1.1 
 
-Ursachen.................................................................................................................. 2
+1.2 
 
-1.4
+1.3 
 
-Sicherheitsempfehlungen ....................................................................................... 4
+1.4 
 
-2
+2 
 
-Die Untersuchung und ihr Kontext ........................................................................ 5
+3 
 
-3
+Vorbemerkung ...................................................................................................... 1 
 
-Beschreibung des Ereignisses................................................................................ 7
+Zusammenfassung ................................................................................................ 2 
 
-3.1
+Kurzbeschreibung des Ereignisses ........................................................................... 2 
 
-Informationen über das Ereignis und seine Hintergründe ..................................... 7
-Lage und Beschreibung des Ereignisortes ............................................................... 7
-Beteiligte.................................................................................................................. 9
-Äußere Bedingungen ............................................................................................. 10
-Todesopfer, Verletzte und Sachschäden............................................................... 10
+Folgen ...................................................................................................................... 2 
 
-3.2
+Ursachen .................................................................................................................. 2 
 
-Sachliche Beschreibung der Vorkommnisse ......................................................... 11
-Hergangsbeschreibung .......................................................................................... 12
-Notfallmanagement .............................................................................................. 12
+Sicherheitsempfehlungen ....................................................................................... 4 
 
-4
+Die Untersuchung und ihr Kontext ........................................................................ 5 
 
-Auswertung des Ereignisses ................................................................................ 13
+Beschreibung des Ereignisses ................................................................................ 7 
 
-4.1
+3.1 
 
-Aufgaben und Pflichten ......................................................................................... 13
-Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers ................. 13
+Informationen über das Ereignis und seine Hintergründe ..................................... 7 
 
-I
+Lage und Beschreibung des Ereignisortes ............................................................... 7 
 
-Untersuchungsbericht
-Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl
+Beteiligte.................................................................................................................. 9 
 
-Untersuchung der für das Ereignis relevanten Personen und Stellen .................. 16
-Untersuchung der betrieblichen Abläufe des EVU ............................................... 21
-4.2
+Äußere Bedingungen ............................................................................................. 10 
 
-Fahrzeuge und technische Einrichtungen ............................................................. 22
-Untersuchung von Fahrzeugen ............................................................................. 22
-Untersuchung der bautechnischen Infrastruktur ................................................. 22
-Untersuchung der Leit- und Sicherungstechnik .................................................... 22
+Todesopfer, Verletzte und Sachschäden ............................................................... 10 
 
-4.3
+3.2 
 
-Menschliche Faktoren ........................................................................................... 22
-Ausführendes Unternehmen M+K Tief- u. Kabelbau GmbH ................................. 23
-Sicherungsunternehmen ....................................................................................... 25
-Qualifikation und Handlungen des Technisch Berechtigten ................................. 26
+Sachliche Beschreibung der Vorkommnisse ......................................................... 11 
 
-4.4
+Hergangsbeschreibung .......................................................................................... 12 
 
-Feedback- und Kontrollmechanismen .................................................................. 28
-Prozesse des ausführenden Unternehmens ......................................................... 28
-Prozesse des EIU .................................................................................................... 29
+Notfallmanagement .............................................................................................. 12 
 
-I.
+4 
 
-4.5
+4.1 
 
-Frühere Ereignisse ähnlicher Art ........................................................................... 30
+Auswertung des Ereignisses ................................................................................ 13 
 
-5
+Aufgaben und Pflichten ......................................................................................... 13 
 
-Schlussfolgerungen ............................................................................................. 31
+Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers ................. 13 
 
-5.1
+I 
 
-Zusammenfassung und Schlussfolgerung ............................................................. 31
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-5.2
+Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl 
 
-Seit dem Ereignis getroffene Maßnahmen ........................................................... 36
+Untersuchung der für das Ereignis relevanten Personen und Stellen .................. 16 
 
-5.3
+Untersuchung der betrieblichen Abläufe des EVU ............................................... 21 
 
-Zusätzliche Bemerkungen ..................................................................................... 36
+4.2 
 
-6
+Fahrzeuge und technische Einrichtungen ............................................................. 22 
 
-Sicherheitsempfehlungen ................................................................................... 36
+Untersuchung von Fahrzeugen ............................................................................. 22 
 
-Änderungsverzeichnis:
-Änderung
+Untersuchung der bautechnischen Infrastruktur ................................................. 22 
 
-Stand
+Untersuchung der Leit- und Sicherungstechnik .................................................... 22 
 
-II
+4.3 
 
-Untersuchungsbericht
-Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl
+Menschliche Faktoren ........................................................................................... 22 
 
-II.
+Ausführendes Unternehmen M+K Tief- u. Kabelbau GmbH ................................. 23 
 
-Abbildungsverzeichnis:
-Abbildung 1: Lageplan ................................................................................................................ 8
-Abbildung 2: Schematische Übersichtsskizze bearbeitet durch BEU......................................... 8
-Abbildung 3: Schematische Darstellung des Ereignisortes ...................................................... 11
-Abbildung 4: Beteiligte Stellen und Zusammenarbeit der verantwortlichen Arbeitsstellen im
-Gleisbereich .............................................................................................................................. 19
-Abbildung 5: Arbeitsanmeldung/Wochenplan vom 04.05.2023 ............................................. 23
+Sicherungsunternehmen ....................................................................................... 25 
 
-III.
+Qualifikation und Handlungen des Technisch Berechtigten ................................. 26 
 
-Tabellenverzeichnis:
-Tabelle 1: Faktorenbestimmung ................................................................................................ 3
-Tabelle 2: Übersicht der äußeren Bedingungen ...................................................................... 10
-Tabelle 3: Übersicht der Personenschäden ............................................................................. 10
-Tabelle 4: Übersicht der geschätzten Schadenshöhe .............................................................. 11
-Tabelle 5: GSM-R Gespräch zwischen Fdl Hürth-Kalscheuren und Technisch Berechtigtem .. 15
+4.4 
 
-III
+Feedback- und Kontrollmechanismen .................................................................. 28 
 
-Untersuchungsbericht
-Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl
+Prozesse des ausführenden Unternehmens ......................................................... 28 
 
-IV.
+Prozesse des EIU .................................................................................................... 29 
 
-Abkürzungsverzeichnis:
-AEG
+Frühere Ereignisse ähnlicher Art ........................................................................... 30 
 
-Allgemeines Eisenbahngesetz
+Schlussfolgerungen ............................................................................................. 31 
 
-Betra
+Zusammenfassung und Schlussfolgerung ............................................................. 31 
 
-Betriebs-und Bauanweisung
+Seit dem Ereignis getroffene Maßnahmen ........................................................... 36 
 
-BEU
+Zusätzliche Bemerkungen ..................................................................................... 36 
 
-Bundesstelle für Eisenbahnunfalluntersuchung
+4.5 
 
-BR
+5 
 
-Baureihe
+5.1 
 
-BÜB
+5.2 
 
-Bauüberwacher Bahn
+5.3 
 
-BzS
+6 
 
-Für den Bahnbetrieb zuständige Stelle
+Sicherheitsempfehlungen ................................................................................... 36 
 
-DGUV
+I.  Änderungsverzeichnis:	
 
-Deutsche Gesetzliche Unfallversicherung
+Änderung 
 
-EIU
+Stand 
 
-Eisenbahninfrastrukturunternehmen
+II 
 
-ESTW
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+	
+	
+Untersuchungsbericht 
 
-Elektronisches Stellwerk
+Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl 
 
-EU
+II.  Abbildungsverzeichnis:	
 
-Europäische Union
+Abbildung 1: Lageplan ................................................................................................................ 8 
 
-EUV
+Abbildung 2: Schematische Übersichtsskizze bearbeitet durch BEU ......................................... 8 
 
-Eisenbahn-Unfalluntersuchungsverordnung
+Abbildung 3: Schematische Darstellung des Ereignisortes ...................................................... 11 
 
-EVU
+Abbildung 4: Beteiligte Stellen und Zusammenarbeit der verantwortlichen 
 
-Eisenbahnverkehrsunternehmen
+Arbeitsstellen 
 
-Fdl
+im 
 
-Fahrdienstleiter
+Gleisbereich ....................................................................................................
 
-GSM-R
+..........................
 
-Global System for Mobile Communica ons Rail
+ 19 
 
-La
+Abbildung 5: Arbeitsanmeldung/Wochenplan vom 04.05.2023 ............................................. 23 
 
-Zusammenstellung der vorübergehenden Langsamfahrstellen und
-anderen Besonderheiten
+III.  Tabellenverzeichnis:	
 
-PZB
+Tabelle 1: Faktorenbestimmung ................................................................................................ 3 
 
-Punk örmige Zugbeeinflussung
+Tabelle 2: Übersicht der äußeren Bedingungen ...................................................................... 10 
 
-Ril
+Tabelle 3: Übersicht der Personenschäden ............................................................................. 10 
 
-Richtlinie
+Tabelle 4: Übersicht der geschätzten Schadenshöhe .............................................................. 11 
 
-RIMINI
+Tabelle 5: GSM-R Gespräch zwischen Fdl Hürth-Kalscheuren und Technisch Berechtigtem .. 15 
 
-formalisiertes Verfahren zur Auswahl einer risikominimalen
-Sicherungsmaßnahme für Arbeiten im Gleisbereich
+III 
 
-SMS
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Sicherheitsmanagementsystem
+Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl 
 
-Tf
+IV.  Abkürzungsverzeichnis:	
 
-Triebfahrzeugführer
+AEG 
 
-Tfz
+Betra 
 
-Triebfahrzeug
+BEU 
 
-ZÜ
+BR 
 
-Zugüberwachung
+BÜB 
 
-IV
+BzS 
 
-Untersuchungsbericht
-Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl
+Allgemeines Eisenbahngesetz 
 
-0 Vorbemerkung
-Auf der Grundlage des Ar kel 24 der Richtlinie (EU) 2016/798 hat die europäische Kommission
-mit
+Betriebs-und Bauanweisung 
 
-der
+Bundesstelle für Eisenbahnunfalluntersuchung 
 
-Inkra setzung
+Baureihe 
 
-der
+Bauüberwacher Bahn 
 
-Durchführungsverordnung
+Für den Bahnbetrieb zuständige Stelle 
 
-(EU) 2020/572
+DGUV 
 
-die
+Deutsche Gesetzliche Unfallversicherung 
 
-Untersuchungsberichtsstruktur festgelegt. Diese Vorgaben sind grundsätzlich einzuhalten. Die
-Berichtsstruktur muss der Art und Schwere des gefährlichen Ereignisses angepasst sein.
-Mit Verkündung der Verordnung und Inkra setzung am zwanzigsten Tag nach der
-Veröﬀentlichung im Amtsbla
+EIU 
 
-der Europäischen Union (EU) ist diese verbindlich und
+Eisenbahninfrastrukturunternehmen 
 
-unmi elbar auf alle ab dem 17.05.2020 eingeleiteten Untersuchungen anzuwenden.
+ESTW 
 
-Seite 1 von 36
+Elektronisches Stellwerk 
 
-Untersuchungsbericht
-Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl
+EU 
 
-1 Zusammenfassung
-Das erste Kapitel enthält eine Kurzbeschreibung des Ereignisses sowie Informa onen zu den
-Folgen, Ursachen sowie zu im Einzelfall ausgesprochenen Sicherheitsempfehlungen.
+EUV 
 
-1.1 Kurzbeschreibung des Ereignisses
-Am 04.05.2023 gegen 11:03 Uhr ereignete sich mit dem Zug IC 2005 auf der Fahrt von
-Emden Hbf nach Koblenz Hbf zwischen den Betriebsstellen Bf Hürth-Kalscheuren und Bf Brühl
-in km 10,4 ein Personenunfall am bewegten Eisenbahnfahrzeug.
+EVU 
 
-1.2 Folgen
-Es wurden zwei Personen getötet und fünf Personen leicht verletzt. Es entstanden
-Sachschäden am beteiligten Eisenbahnfahrzeug und technischem Gerät in geschätzter Höhe
-von 10.000 Euro.
+Fdl 
 
-1.3 Ursachen
-Im Rahmen der Untersuchung des Ereignisses wurden die folgenden Handlungen,
-Unterlassungen, Vorkommnisse oder Umstände als sicherheitskri sche Faktoren iden fiziert.
-Diese werden gemäß Durchführungsverordnung 2020/572 in ursächliche oder beitragende,
-und systemische Faktoren unterschieden. Zusätzlich werden ermi elte Defizite des
-No allmanagements behandelt.
-Zur besseren Übersichtlichkeit der Faktoren und Aspekte des No allmanagements wird eine
-Systema k mit Kennzeichnungen in eckigen Klammern verwendet.
-Eine detaillierte Auswertung des Ereignisses unter Einordnung als sicherheitskri sche
-Faktoren wird in den folgenden Kapiteln gegeben.
+Europäische Union 
 
-Seite 2 von 36
+Eisenbahn-Unfalluntersuchungsverordnung 
 
-Untersuchungsbericht
-Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl
+Eisenbahnverkehrsunternehmen 
 
-Geschehen:
-Datum/Uhrzeit, sowie
-Handlung / Unterlassen /
-Umstand / Vorkommnis
-April 2023
-Unterlassene Anzeige der
-geplanten Arbeiten im
-Gleisbereich durch das
-ausführende Unternehmen
-bei der BzS
+Fahrdienstleiter 
 
-Ursächlicher
-Faktor
+GSM-R 
 
--
+Global System for Mobile Communica(cid:415)ons Rail 
 
-Fehlendes
-Sicherheitsbewusstsein des
-Unternehmers im
-Rahmen der
-Baustellenplanung
-[S1]
+La 
 
--
+PZB 
 
-Prozess
-Baustellenplanung und
-Antragstellung
-zur Betra [F2]
+Ril 
 
--
+Zusammenstellung der vorübergehenden Langsamfahrstellen und 
+anderen Besonderheiten 
 
--
+Punk(cid:414)örmige Zugbeeinﬂussung 
 
-Fehlendes
-Sicherheitsbewusstsein aller
-Beteiligten im
-Rahmen der
-Arbeitsvorbesprechung [S3]
+Richtlinie 
 
--
+RIMINI 
 
-Fehlendes
-Sicherheitsbewusstsein aller
-Beteiligten im
-Rahmen der
-Arbeitsaufnahme
-[S4]
+formalisiertes Verfahren zur Auswahl einer risikominimalen 
+Sicherungsmaßnahme für Arbeiten im Gleisbereich 
 
-Teil der Ausgangslage:
-Bei Arbeitsanmeldung und
-Arbeitsvorbesprechung
-wurde der fehlende
-Sicherungsplan nicht
-beanstandet
+SMS 
 
-04.05.2023, ab 10:57 Uhr
-Die Ro e betri den
-Gleisbereich
+Sicherheitsmanagementsystem 
 
-Systemischer
-Faktor
+Tf 
 
-Gefährdungsbeurteilung durch
-Unternehmer nicht
-vollständig und
-prozesskonform
-durchgeführt [F1]
+Tfz 
 
-Teil der Ausgangslage:
-Unterlassene
-Berücksich gung von
-Handstopfarbeiten im
-Rahmen der Antragstellung
-zur Erstellung der Betra
+ZÜ 
 
-Beitragender
-Faktor
+Triebfahrzeugführer  
 
-Arbeitsaufnahme
-trotz fehlender
-Voraussetzungen
-beabsich gt [F3]
+Triebfahrzeug 
 
-Arbeitsaufnahme
-trotz fehlender
-Voraussetzungen
-[F4]
+Zugüberwachung 
 
-Tabelle 1: Faktorenbes mmung
+IV 
 
-Seite 3 von 36
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Untersuchungsbericht
-Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl
+Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl 
 
-1.4 Sicherheitsempfehlungen
-Gemäß § 6 EUV und Art. 26 Abs. 2 der Richtlinie (EU) 2016/798 ergehen nachfolgende
-Sicherheitsempfehlungen:
-Lfd. Nr.
+0  Vorbemerkung	
 
-Adressat und Sicherheitsempfehlung
+Auf der Grundlage des Ar(cid:415)kel 24 der Richtlinie (EU) 2016/798 hat die europäische Kommission 
 
-Betri
+mit 
 
-06/2025
+der 
 
-Sicherheitsbehörde:
+Inkra(cid:332)setzung 
 
-EIU
+der 
 
-Es wird empfohlen, dass zur Beherrschung von
-Risiken die an der Planung und Ausführung von
-Baumaßnahmen beteiligten Stellen ihre Mitarbeiter
-innerhalb der Arbeitsumgebung in Bezug auf den
-Arbeitsschutz überwachen und die Einhaltung
-konsequent einfordern. Hierüber sind Nachweise zu
-führen.
-(Delegierte Verordnung (EU) 2018/762 Anhang II
-Punkt 3.1.1.2)
+Durchführungsverordnung 
 
-Au ragnehmer des
-EIU
+(EU) 2020/572 
 
-Sicherheitsbehörde:
+die 
 
-EIU
+Untersuchungsberichtsstruktur festgelegt. Diese Vorgaben sind grundsätzlich einzuhalten. Die 
 
-Es wird empfohlen, dass die an der Planung und
-Ausführung von Baumaßnahmen beteiligten Stellen
-ihre Mitarbeiter im Bereich des
-Sicherheitsbewusstseins stärker sensibilisieren.
-(Delegierte Verordnung (EU) 2018/762 Anhang II
-Punkt 2.4.1)
+Berichtsstruktur muss der Art und Schwere des gefährlichen Ereignisses angepasst sein. 
 
-Au ragnehmer des
-EIU
+Mit  Verkündung  der  Verordnung  und  Inkra(cid:332)setzung  am  zwanzigsten  Tag  nach  der 
 
-07/2025
+Veröﬀentlichung  im  Amtsbla(cid:425)  der  Europäischen  Union  (EU)  ist  diese  verbindlich  und 
 
-Unternehmen
+unmi(cid:425)elbar auf alle ab dem 17.05.2020 eingeleiteten Untersuchungen anzuwenden. 
 
-Seite 4 von 36
+Seite 1 von 36 
 
-Untersuchungsbericht
-Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-2 Die Untersuchung und ihr Kontext
-Die Bundesstelle für Eisenbahnunfalluntersuchung (BEU) ist für die Untersuchung von
-gefährlichen
+Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl 
 
-Ereignissen
+1  Zusammenfassung	
 
-im
+Das erste Kapitel enthält eine Kurzbeschreibung des Ereignisses sowie Informa(cid:415)onen zu den 
 
-Eisenbahnbetrieb
+Folgen, Ursachen sowie zu im Einzelfall ausgesprochenen Sicherheitsempfehlungen. 
 
-im
+1.1  Kurzbeschreibung	des	Ereignisses	
 
-Sinne
+Am  04.05.2023  gegen  11:03 Uhr  ereignete  sich  mit  dem  Zug  IC 2005  auf  der  Fahrt  von 
 
-des
+Emden Hbf nach Koblenz Hbf zwischen den Betriebsstellen Bf Hürth-Kalscheuren und Bf Brühl 
 
-Kapitels V
+in km 10,4 ein Personenunfall am bewegten Eisenbahnfahrzeug. 
 
-der
+1.2  Folgen	
 
-Richtlinie (EU) 2016/798 auf Eisenbahninfrastrukturen des Bundes und auf nicht
-bundeseigenen
+Es  wurden  zwei  Personen  getötet  und  fünf  Personen  leicht  verletzt.  Es  entstanden 
 
-Eisenbahninfrastrukturen
+Sachschäden am beteiligten Eisenbahnfahrzeug und technischem Gerät in geschätzter Höhe 
 
-des
+von 10.000 Euro. 
 
-übergeordneten
+1.3  Ursachen	
 
-Netzes
+Im  Rahmen  der  Untersuchung  des  Ereignisses  wurden  die  folgenden  Handlungen, 
 
-gemäß
+Unterlassungen, Vorkommnisse oder Umstände als sicherheitskri(cid:415)sche Faktoren iden(cid:415)ﬁziert. 
 
-§ 2b Allgemeines Eisenbahngesetz (AEG) zuständig.
-Ziel und Zweck der eingeleiteten Untersuchungen ist es, die Ursachen des gefährlichen
-Ereignisses aufzuklären und hieraus Hinweise zur Verbesserung der Sicherheit abzuleiten.
-Untersuchungen der BEU dienen nicht dazu, ein Verschulden festzustellen oder Fragen der
-Ha ung oder sons ger zivilrechtlicher Ansprüche zu klären und werden unabhängig von jeder
-gerichtlichen Untersuchung durchgeführt.
-Sicherheitsempfehlungen der BEU zur Vermeidung von gefährlichen Ereignissen und
-Verbesserung der Eisenbahnsicherheit werden an die na onale Sicherheitsbehörde, sofern es
-die Art der Empfehlung erfordert an die Eisenbahnagentur der Europäischen Union und an
-andere Stellen oder Behörden adressiert. Im Allgemeinen sind die Sicherheitsempfehlungen
-auch an
+Diese werden gemäß Durchführungsverordnung 2020/572 in ursächliche oder beitragende, 
 
-die
+und  systemische  Faktoren  unterschieden.  Zusätzlich  werden  ermi(cid:425)elte  Deﬁzite  des 
 
-unmi elbar
+No(cid:414)allmanagements behandelt.  
 
-bzw. mi elbar betroﬀenen sowie
+Zur besseren Übersichtlichkeit der Faktoren und Aspekte des No(cid:414)allmanagements wird eine 
 
-alle
+Systema(cid:415)k mit Kennzeichnungen in eckigen Klammern verwendet. 
 
-einschlägigen
+Eine  detaillierte  Auswertung  des  Ereignisses  unter  Einordnung  als  sicherheitskri(cid:415)sche 
 
-Eisenbahnunternehmen gerichtet.
-Zu schweren Unfällen leitet die BEU stets Untersuchungen gem. Ar kel 20 Abs. 1 Richtlinie
-(EU) 2016/798 ein. Unter einem schweren Unfall sind insbesondere Zugkollisionen oder
-Zugentgleisungen mit mindestens einem Todesopfer oder mindestens fünf Schwerverletzten
-oder mit beträchtlichem Schaden (≥ 2 Mio. Euro) sowie sons ge Unfälle mit den gleichen
-Folgen und mit oﬀensichtlichen Auswirkungen auf die Regelung der Eisenbahnsicherheit oder
-das Sicherheitsmanagementsystem zu verstehen. Bei allen sons gen gefährlichen Ereignissen
-im Eisenbahnbetrieb liegt es im Ermessen der BEU Untersuchungen einzuleiten. Bei der
-Entscheidung werden neben den zum Ereigniszeitpunkt verfügbaren Ressourcen weitere
-Kriterien gem. Ar kel 20 Abs. 2 Richtlinie (EU) 2016/798 herangezogen.
-Aufgrund des gegebenen Schadensausmaßes bzw. der Folgen bei dem vorliegenden
-gefährlichen Ereignis wurden Untersuchungen auf Grundlage des Ar kels 20 Abs. 1 Richtlinie
-(EU) 2016/798 eingeleitet.
-Die Unfalluntersuchungshandlungen werden strukturiert in vier definierten Kernprozessen
-durchgeführt, die mit der Entscheidung zur Aufnahme einer Untersuchung beginnen und mit
+Faktoren wird in den folgenden Kapiteln gegeben. 
 
-Seite 5 von 36
+Seite 2 von 36 
 
-Untersuchungsbericht
-Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl
+ 
+ 
+ 
+ 
+Ursächlicher 
+Faktor 
 
-der
+Beitragender 
+Faktor 
 
-Veröﬀentlichung
+Systemischer 
+Faktor 
 
-Ursachenermi lung
+Gefährdungsbeur-
+teilung durch 
+Unternehmer nicht 
+vollständig und 
+prozesskonform 
+durchgeführt [F1] 
 
-des
+- 
 
-werden
+Fehlendes 
+Sicherheits-
+bewusstsein des 
+Unternehmers im 
+Rahmen der 
+Baustellenplanung 
+[S1] 
 
-Untersuchungsberichtes
-ergebnisoﬀene
+- 
 
-abgeschlossen
+Prozess 
+Baustellen-
+planung und 
+Antragstellung 
+zur Betra [F2] 
 
-Untersuchungen
+- 
 
-in
+Untersuchungsbericht 
 
-werden.
+Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl 
 
-allen
+Geschehen: 
 
-Zur
+Datum/Uhrzeit, sowie 
 
-beteiligten
+Handlung / Unterlassen / 
+Umstand / Vorkommnis 
 
-Fachdisziplinen angestellt und hierbei insbesondere Fehler-Ursachen-Analysen und Soll-IstVergleiche durchgeführt.
-Vom
+April 2023 
 
-örtlich
+Unterlassene Anzeige der 
+geplanten Arbeiten im 
+Gleisbereich durch das 
+ausführende Unternehmen 
+bei der BzS  
 
-zuständigen
+Teil der Ausgangslage: 
 
-Untersuchungsbezirk
+Unterlassene 
+Berücksich(cid:415)gung von 
+Handstopfarbeiten im 
+Rahmen der Antragstellung 
+zur Erstellung der Betra 
 
-Nordwest
+Teil der Ausgangslage: 
 
-wurden
+Bei Arbeitsanmeldung und 
+Arbeitsvorbesprechung 
+wurde der fehlende 
+Sicherungsplan nicht 
+beanstandet 
 
-die
+Arbeitsaufnahme 
+trotz fehlender 
+Voraussetzungen 
+beabsich(cid:415)gt [F3] 
 
-Untersuchungshandlungen federführend geleitet.
-Sofern im Einzelfall geboten, werden die jeweiligen Untersuchungsteams bezirksübergreifend
-unterstützt und notwendige Sachverständigenleistungen extern beau ragt.
-Im Rahmen der Sachverhaltsermi lung und Ursachenerforschung wurden neben den
-beteiligten Unternehmen keine weitere Stellen einbezogen.
-Die Durchführung der Unfalluntersuchung setzt voraus, dass alle an dem gefährlichen Ereignis
-Beteiligten den jeweiligen Meldeverpflichtungen gem. § 2 Abs. 3 EUV nachkommen. Die
-relevanten Informa onen sind durch die zur Meldung Verpflichteten auf dem neuesten Stand
-zu halten.
-Auf Grundlage des § 5b AEG werden i. d. R. weitergehende zur Untersuchungsdurchführung
-erforderliche Informa onen, Auskün e und Nachweise abgefordert. Diese notwendigen
-Zuarbeiten konnten mi els Auskun sersuchen gewonnen werden.
-Darüber hinaus können nach § 5b Abs. 4 AEG von den an gefährlichen Ereignissen beteiligten
-Eisenbahnen Unterstützungsleistungen eingefordert werden. Bei dem vorliegenden
-gefährlichen Ereignis wurden keine Unterstützungsleistungen eingefordert.
-Die infrastruktursei ge Freigabe der Unfallstelle erfolgte durch die BEU am 04.05.2023 um
-14:00 Uhr.
+04.05.2023, ab 10:57 
 
-Seite 6 von 36
+Uhr 
 
-Untersuchungsbericht
-Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl
+Die Ro(cid:425)e betri(cid:425) den 
+Gleisbereich 
 
-3 Beschreibung des Ereignisses
-Im dri en Kapitel wird das gefährliche Ereignis in zwei vorgegebenen Unterkapiteln näher
-beschrieben. In Kapitel 3.1 sind neben den Grunddaten weitere Informa onen zum
-Ereignisort, den äußeren Bedingungen, den Beteiligten und den Folgen enthalten. Die
-Ereignisrekonstruk on sowie Informa onen zur Auslösung und dem Ablauf der
-Re ungsmaßnahmen sind im Kapitel 3.2 dargestellt. Die Beschreibungen beziehen sich
-grundsätzlich
+Arbeitsaufnahme 
+trotz fehlender 
+Voraussetzungen 
+[F4] 
 
-auf
+Tabelle 1: Faktorenbes(cid:415)mmung 
 
-die
+- 
 
-zum
+- 
 
-Ereigniszeitpunkt
+Fehlendes 
+Sicherheits-
+bewusstsein aller 
+Beteiligten im 
+Rahmen der 
+Arbeitsvorbe-
+sprechung [S3] 
 
-vorherrschenden
+Fehlendes 
+Sicherheitsbe-
+wusstsein aller 
+Beteiligten im 
+Rahmen der 
+Arbeitsaufnahme 
+[S4] 
 
-Bedingungen
+Seite 3 von 36 
 
-und
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-vorgefundenen Sachverhalte.
+Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl 
 
-3.1 Informationen über das Ereignis und seine Hintergründe
-Bei dem Ereignis handelt es sich um einen Unfall mit Personenschaden im Sinne der Richtlinie
-(EU) 2016/798.
-Die BEU führt das Ereignis na onal unter der Ereignisart Personenunfall.
-Lage und Beschreibung des Ereignisortes
-Der Personenunfall am bewegten Eisenbahnfahrzeug ereignete sich zwischen den
-Betriebsstellen Bf Hürth-Kalscheuren und Bf Brühl, etwa in km 10,4 der Strecke. Die
-zweigleisige, elektrifizierte Hauptbahn war im Verzeichnis der örtlich zulässigen
-Geschwindigkeiten mit der Streckennummer 2630 geführt und verlief von Köln Hbf nach
-Bingen (Rhein) Hbf. Die Höchstgeschwindigkeit auf dem betroﬀenen Streckenabschni betrug
-160 km/h, bei einem Bremsweg von 1.000 m. Die Strecke war mit digitalem Zugfunk Global
-System for Mobile Communica ons - Rail (GSM-R) und punk örmiger Zugbeeinflussung (PZB)
-ausgerüstet.
-Der Arbeitsplatz des zum Ereigniszeitpunkt zuständigen Fahrdienstleiters (Fdl) war im
-Stellwerk Hürth-Kalscheuren eingerichtet. Es handelte sich dabei um ein örtlich besetztes
-Relaisstellwerk der Bauform Sp Dr S 59, welches die Steuerung und Überwachung des
-Bahnbetriebs im zugehörigen Stellbereich gewährleistete.
-Die folgende Abbildung veranschaulicht die geografische Lage des Ereignisortes auf der
-Strecke 2630.
+1.4  Sicherheitsempfehlungen	
 
-Seite 7 von 36
+Gemäß  § 6 EUV  und  Art. 26  Abs. 2  der  Richtlinie  (EU) 2016/798  ergehen  nachfolgende 
 
-Untersuchungsbericht
-Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl
+Sicherheitsempfehlungen: 
 
-Abbildung 1: Lageplan1
+Lfd. 
 
-Die folgende schema sche Übersichtsskizze bietet eine detaillierte Darstellung des genauen
-Ereignisortes.
+Nr. 
 
-Abbildung 2: Schema sche Übersichtsskizze bearbeitet durch BEU2
+Adressat und Sicherheitsempfehlung 
 
-1
+Betri(cid:335) Unternehmen 
 
-Quelle: Geobasisdaten © GeoBasis‐DE / BKG [2023], bearbeitet durch BEU
+06/2025 
 
-2
+Sicherheitsbehörde: 
 
-Quelle: DB Netz AG bearbeitet durch BEU
+Es wird empfohlen, dass zur Beherrschung von 
+Risiken die an der Planung und Ausführung von 
+Baumaßnahmen beteiligten Stellen ihre Mitarbeiter 
+innerhalb der Arbeitsumgebung in Bezug auf den 
+Arbeitsschutz überwachen und die Einhaltung 
+konsequent einfordern. Hierüber sind Nachweise zu 
+führen. 
+(Delegierte Verordnung (EU) 2018/762 Anhang II 
+Punkt 3.1.1.2) 
 
-Seite 8 von 36
+EIU 
 
-Untersuchungsbericht
-Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl
+Au(cid:332)ragnehmer 
+EIU 
 
-Beteiligte
-Die am Ereignis Beteiligten ha en die folgenden Funk onen:
-Für das Eisenbahninfrastrukturunternehmen (EIU) DB Netz AG3
-
+des 
 
-Fdl Hürth-Kalscheuren
+07/2025 
 
-
+Sicherheitsbehörde: 
 
-Region West, Anlagen- und Instandhaltungsmanagement Köln für die Betriebs- und
-Bauanweisung (Betra) und die Sicherungsplanung (Herausgabe der Betra sowie des
-Sicherungsplans durch die für den Bahnbetrieb zuständige Stelle (BzS))
+Es wird empfohlen, dass die an der Planung und 
+Ausführung von Baumaßnahmen beteiligten Stellen 
+ihre Mitarbeiter im Bereich des 
+Sicherheitsbewusstseins stärker sensibilisieren. 
+(Delegierte Verordnung (EU) 2018/762 Anhang II 
+Punkt 2.4.1) 
 
-Für das Eisenbahnverkehrsunternehmen (EVU) DB Fernverkehr AG
-
+EIU 
 
-Triebfahrzeugführer (Tf) IC 2005 und IC 2049
+Au(cid:332)ragnehmer 
+EIU 
 
-DB Engineering & Consul ng GmbH
-
+des 
 
-Betra-Antragstellung
+Seite 4 von 36 
 
-DB Engineering & Consul ng GmbH und Vössing Ingenieurgesellscha mbH als INGE BÜ‐
-ESTW‐Köln
-
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Bauüberwachung
+Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl 
 
-
+2  Die	Untersuchung	und	ihr	Kontext	
 
-Bauüberwacher Bahn (BÜB) und Technisch Berechtigter nach 4.2 Betra
+Die  Bundesstelle  für  Eisenbahnunfalluntersuchung  (BEU)  ist  für  die  Untersuchung  von 
 
-M+K Tief‐ u. Kabelbau GmbH
-
+gefährlichen 
 
-Ausführendes Unternehmen gemäß Version 4.0 der Rahmenrichtlinie 132.0118 für
-Handstopfarbeiten
+Ereignissen 
 
-B+S Bau und Sicherungsgesellscha mbH
+im 
 
-3
+Eisenbahnbetrieb 
 
-
+im 
 
-Sicherungsaufsicht
+Sinne  des  Kapitels V  der 
 
-
+Richtlinie (EU) 2016/798  auf  Eisenbahninfrastrukturen  des  Bundes  und  auf  nicht 
 
-Sicherungsposten
+bundeseigenen 
 
-zum 01.01.2024 umfirmiert zu DB InfraGO AG
+Eisenbahninfrastrukturen 
 
-Seite 9 von 36
+des 
 
-Untersuchungsbericht
-Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl
+übergeordneten 
 
-Äußere Bedingungen
-Zum Zeitpunkt des Ereignisses herrschten folgende Bedingungen:
-Lichtverhältnisse
+Netzes 
 
-Tageslicht
+gemäß 
 
-Sicht
+§ 2b Allgemeines Eisenbahngesetz (AEG) zuständig. 
 
-klar
+Ziel  und  Zweck  der  eingeleiteten  Untersuchungen  ist  es,  die  Ursachen  des  gefährlichen 
 
-Bedeckung
+Ereignisses  aufzuklären  und  hieraus  Hinweise  zur  Verbesserung  der  Sicherheit  abzuleiten. 
 
-sonnig
+Untersuchungen der BEU dienen nicht dazu, ein Verschulden festzustellen oder Fragen der 
 
-Temperaturen
+Ha(cid:332)ung oder sons(cid:415)ger zivilrechtlicher Ansprüche zu klären und werden unabhängig von jeder 
 
-23°C
+gerichtlichen Untersuchung durchgeführt. 
 
-fallender Niederschlag
+Sicherheitsempfehlungen  der  BEU  zur  Vermeidung  von  gefährlichen  Ereignissen  und 
 
-Nein
+Verbesserung der Eisenbahnsicherheit werden an die na(cid:415)onale Sicherheitsbehörde, sofern es 
 
-Niederschlagshäufigkeit
+die Art der Empfehlung erfordert an die Eisenbahnagentur der Europäischen Union und an 
 
---
+andere Stellen oder Behörden adressiert. Im Allgemeinen sind die Sicherheitsempfehlungen 
 
-Untergrund / gefallener Niederschlag
+auch  an  die  unmi(cid:425)elbar  bzw.  mi(cid:425)elbar  betroﬀenen  sowie  alle  einschlägigen 
 
-trocken
+Eisenbahnunternehmen gerichtet. 
 
-Tabelle 2: Übersicht der äußeren Bedingungen
+Zu schweren Unfällen leitet die BEU stets Untersuchungen gem. Ar(cid:415)kel 20 Abs. 1 Richtlinie 
 
-Todesopfer, Verletzte und Sachschäden
-Bei
+(EU) 2016/798  ein.  Unter  einem  schweren  Unfall  sind  insbesondere  Zugkollisionen  oder 
 
-dem
+Zugentgleisungen mit mindestens einem Todesopfer oder mindestens fünf Schwerverletzten 
 
-Ereignis
+oder  mit  beträchtlichem  Schaden  (≥ 2  Mio.  Euro)  sowie  sons(cid:415)ge  Unfälle  mit  den  gleichen 
 
-wurde
+Folgen und mit oﬀensichtlichen Auswirkungen auf die Regelung der Eisenbahnsicherheit oder 
 
-eine
+das Sicherheitsmanagementsystem zu verstehen. Bei allen sons(cid:415)gen gefährlichen Ereignissen 
 
-Person
+im  Eisenbahnbetrieb  liegt  es  im  Ermessen  der  BEU  Untersuchungen  einzuleiten.  Bei  der 
 
-des
+Entscheidung  werden  neben  den  zum  Ereigniszeitpunkt  verfügbaren  Ressourcen  weitere 
 
-Sicherungsunternehmens
+Kriterien gem. Ar(cid:415)kel 20 Abs. 2 Richtlinie (EU) 2016/798 herangezogen. 
 
-B+S Bau und Sicherungsgesellscha mbH sowie eine Person des ausführenden Unternehmens
-M+K Tief- u. Kabelbau GmbH tödlich verletzt. Ein Tf und drei weitere Personen des
-ausführenden Unternehmens und eine Person des Sicherungsunternehmens wurden leicht
-verletzt. Es entstanden geringe Sachschäden am Triebfahrzeug des IC 2005.
-Bei dem Ereignis traten folgend aufgeführte Personenschäden ein:
-Anzahl Tote
+Aufgrund  des  gegebenen  Schadensausmaßes  bzw.  der  Folgen  bei  dem  vorliegenden 
 
-Anzahl schwer Verletzte
+gefährlichen Ereignis wurden Untersuchungen auf Grundlage des Ar(cid:415)kels 20 Abs. 1 Richtlinie 
 
-Anzahl leicht Verletzte
+(EU) 2016/798 eingeleitet. 
 
-Reisende
+Die  Unfalluntersuchungshandlungen  werden  strukturiert  in  vier  deﬁnierten  Kernprozessen 
 
--
+durchgeführt, die mit der Entscheidung zur Aufnahme einer Untersuchung beginnen und mit 
 
--
+Seite 5 von 36 
 
--
+ 
+ 
+Untersuchungsbericht 
 
-Mitarbeiter
+Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl 
 
-2
+der  Veröﬀentlichung 
 
--
+des  Untersuchungsberichtes 
 
-5
+abgeschlossen  werden. 
 
-Benutzer von
-Bahnübergängen
+Zur 
 
--
+Ursachenermi(cid:425)lung  werden  ergebnisoﬀene  Untersuchungen 
 
--
+in  allen  beteiligten 
 
--
+Fachdisziplinen  angestellt  und  hierbei  insbesondere  Fehler-Ursachen-Analysen  und  Soll-Ist-
 
-Dri e
+Vergleiche durchgeführt. 
 
--
+Vom 
 
--
+örtlich 
 
--
+zuständigen 
 
-Summe
+Untersuchungsbezirk 
 
-2
+Nordwest 
 
-0
+wurden 
 
-5
+die 
 
-Tabelle 3: Übersicht der Personenschäden
+Untersuchungshandlungen federführend geleitet. 
 
-Seite 10 von 36
+Sofern im Einzelfall geboten, werden die jeweiligen Untersuchungsteams bezirksübergreifend 
 
-Untersuchungsbericht
-Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl
+unterstützt und notwendige Sachverständigenleistungen extern beau(cid:332)ragt. 
 
-Die geschätzte Höhe der Sachschäden in Euro setzt sich wie folgt zusammen:
-geschätzte Kosten in Euro
-Fahrzeuge
+Im  Rahmen  der  Sachverhaltsermi(cid:425)lung  und  Ursachenerforschung  wurden  neben  den 
 
-10.000
+beteiligten Unternehmen keine weitere Stellen einbezogen. 
 
-Infrastruktur
+Die Durchführung der Unfalluntersuchung setzt voraus, dass alle an dem gefährlichen Ereignis 
 
--
+Beteiligten  den  jeweiligen  Meldeverpﬂichtungen  gem.  § 2  Abs. 3  EUV  nachkommen.  Die 
 
-Dri e
+relevanten Informa(cid:415)onen sind durch die zur Meldung Verpﬂichteten auf dem neuesten Stand 
 
--
+zu halten. 
 
-Gesamtschadenshöhe
+Auf Grundlage des § 5b AEG werden i. d. R. weitergehende zur Untersuchungsdurchführung 
 
-10.000
+erforderliche  Informa(cid:415)onen,  Auskün(cid:332)e  und  Nachweise  abgefordert.  Diese  notwendigen 
 
-Tabelle 4: Übersicht der geschätzten Schadenshöhe
+Zuarbeiten konnten mi(cid:425)els Auskun(cid:332)sersuchen gewonnen werden. 
 
-Die folgende Abbildung zeigt die geografische Lage des Ereignisortes sowie die Situa on zum
-Zeitpunkt des Ereignisses.
+Darüber hinaus können nach § 5b Abs. 4 AEG von den an gefährlichen Ereignissen beteiligten 
 
-Abbildung 3: Schema sche Darstellung des Ereignisortes
+Eisenbahnen  Unterstützungsleistungen  eingefordert  werden.  Bei  dem  vorliegenden 
 
-3.2 Sachliche Beschreibung der Vorkommnisse
-Zur
+gefährlichen Ereignis wurden keine Unterstützungsleistungen eingefordert. 
 
-Rekonstruk on
+Die infrastruktursei(cid:415)ge Freigabe der Unfallstelle erfolgte durch die BEU am 04.05.2023 um 
 
-des
+14:00 Uhr. 
 
-gefährlichen
+Seite 6 von 36 
 
-Ereignisses
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-sowie
+Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl 
 
-zur
+3  Beschreibung	des	Ereignisses	
 
-Beschreibung
+Im  dri(cid:425)en  Kapitel  wird  das  gefährliche  Ereignis  in  zwei  vorgegebenen  Unterkapiteln  näher 
 
-der
+beschrieben.  In  Kapitel 3.1  sind  neben  den  Grunddaten  weitere  Informa(cid:415)onen  zum 
 
-No allmaßnahmen werden insbesondere auch die in Kapitel 4 enthaltenen Aufzeichnungen,
-Auswertungen und Feststellungen etc. herangezogen.
+Ereignisort,  den  äußeren  Bedingungen,  den  Beteiligten  und  den  Folgen  enthalten.  Die 
 
-Seite 11 von 36
+Ereignisrekonstruk(cid:415)on  sowie 
 
-Untersuchungsbericht
-Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl
+Informa(cid:415)onen  zur  Auslösung  und  dem  Ablauf  der 
 
-Hergangsbeschreibung
-Der am Ereignis beteiligte IC 2005 des EVU DB Fernverkehr AG sollte am 04.05.2023 von
-Emden Hbf nach Koblenz Hbf verkehren. Etwa in km 10,0 der Strecke 2630, zwischen den
-Betriebsstellen Bf Hürth-Kalscheuren und dem Bf Brühl, kam es zur Begegnung mit dem aus
-der Gegenrichtung kommenden IC 2049. Unmi elbar nach der Begegnung erkannte der Tf des
-IC 2005 ca. in km 10,4 mehrere mit Schutz- und Warnkleidung ausgerüstete Personen im Gleis.
-Eine sofort eingeleitete Schnellbremsung und die abgesetzten Achtungspfiﬀe durch den Tf des
-Zuges IC 2005 konnten den Aufprall, mit der aus vier Gleisbauarbeitern und zwei
-Sicherungsposten bestehenden Personengruppe, im weiteren Ro e genannt, nicht mehr
-verhindern.
-Notfallmanagement
-Nach § 4 Abs. 3 AEG haben die Eisenbahnen die Verpflichtung, an Maßnahmen des
-Brandschutzes und der technischen Hilfeleistung mitzuwirken. Die Innenministerien der
-Länder und die DB AG haben sich auf folgende Verfahrensweise verständigt. Für die
-DB Netz AG gelten die entsprechenden Brand- und Katastrophenschutzgesetze der Länder.
-Das No allmanagement der DB AG ist in der Konzernrichtlinie 123, das der DB Netz AG in der
-Richtlinie (Ril) 423 näher beschrieben und geregelt.
-Unmi elbar nach dem Aufprall löste der Tf des IC 2005 über GSM-R einen Notruf mit
-anschließendem Nothaltau rag aus. Die dadurch ausgelöste Meldeke e der DB Netz AG
-führte auch zur Alarmierung der Re ungskrä e und der Polizei.
+Re(cid:425)ungsmaßnahmen  sind  im  Kapitel 3.2  dargestellt.  Die  Beschreibungen  beziehen  sich 
 
-Seite 12 von 36
+grundsätzlich  auf  die 
 
-Untersuchungsbericht
-Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl
+zum  Ereigniszeitpunkt  vorherrschenden  Bedingungen  und 
 
-4 Auswertung des Ereignisses
-In diesem Kapitel werden insbesondere die im Rahmen der Unfalluntersuchung ermi elten
-maßgeblichen sicherheitskri schen Faktoren dargestellt. Hierbei wird im jeweiligen Einzelfall
-auf die Aufgaben und Pflichten einzelner Personen und Stellen, auf beteiligte Fahrzeuge und
-technische Einrichtungen genauso eingegangen wie auf konkrete menschliche Handlungen
-sowie auf Feedback- und Kontrollmechanismen. Sofern Informa onen zu früheren Ereignissen
-vorliegen, werden diese in einem weiteren Unterkapitel dargestellt.
+vorgefundenen Sachverhalte. 
 
-4.1 Aufgaben und Pflichten
-In diesem Kapitel werden unbeschadet des Ar kels 20 Abs. 4 der Richtlinie (EU) 2016/798 die
-Aufgaben und Pflichten von Personen und Stellen behandelt, die an dem Ereignis beteiligt
-waren. Untersuchungen zu Schuld- oder Ha ungsfragen sind explizit ausgeschlossen und nicht
-Untersuchungsgegenstand.
-Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers
-Das verantwortliche EIU DB Netz AG verfügte über eine Sicherheitsgenehmigung gemäß
-§ 7c AEG, die bis zum 19.10.2021 gül g war. Das Unternehmen beantragte am 12.04.2021 die
-Verlängerung der Sicherheitsgenehmigung, die zwischenzeitlich bis zum 19.10.2026 erteilt
-wurde.
-Gemäß § 4 Abs. 3 AEG sind Eisenbahnen verpflichtet, ihren Betrieb sicher zu führen, die
-Eisenbahninfrastruktur sicher zu bauen und in betriebssicherem Zustand zu halten. Darüber
-hinaus
+3.1  Informationen	über	das	Ereignis	und	seine	Hintergründe	
 
-schreibt
+Bei dem Ereignis handelt es sich um einen Unfall mit Personenschaden im Sinne der Richtlinie 
 
-§ 4 Abs. 4 AEG
+(EU) 2016/798. 
 
-in
+Die BEU führt das Ereignis na(cid:415)onal unter der Ereignisart Personenunfall. 
 
-Verbindung
+  Lage	und	Beschreibung	des	Ereignisortes	
 
-mit
+Der  Personenunfall  am  bewegten  Eisenbahnfahrzeug  ereignete  sich  zwischen  den 
 
-Ar kel 9
+Betriebsstellen  Bf Hürth-Kalscheuren  und  Bf Brühl,  etwa  in  km 10,4  der  Strecke.  Die 
 
-Absätze 1 bis 5
+zweigleisige,  elektriﬁzierte  Hauptbahn  war 
 
-der
+im  Verzeichnis  der  örtlich  zulässigen 
 
-Richtlinie (EU) 2016/798 vor, ein Sicherheitsmanagementsystem (SMS) einzurichten. Die
-inhaltlichen Anforderungen für die Entwicklung und Einhaltung eines solchen SMS basieren
-auf den Vorgaben der Delegierte Verordnung (EU) 2018/762.
-Erstellung der Betra
-Als verantwortliches EIU war die DB Netz AG für die Erstellung der Betra Nr. F 351038 23
-verantwortlich. Der Betra-Antrag wurde extern durch die DB Engineering & Consul ng GmbH
-gestellt und durchlief den elektronisch vorgesehenen Zeichnungsgang, bevor mit der
-Erstellung der Betra für „Begehungen, Kontroll- und Vermessungsarbeiten (Elektronisches
-Stellwerk (ESTW) Linke Rheinseite)“ durch den zuständigen Betra-Sachbearbeiter begonnen
-wurde. Die Betra entsprach in ihrem formalen Au au den Vorgaben der Ril 406 und wurde
+Geschwindigkeiten  mit  der  Streckennummer 2630  geführt  und  verlief  von  Köln Hbf  nach 
 
-Seite 13 von 36
+Bingen (Rhein) Hbf. Die Höchstgeschwindigkeit auf dem betroﬀenen Streckenabschni(cid:425) betrug 
 
-Untersuchungsbericht
-Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl
+ 160 km/h, bei einem Bremsweg von 1.000 m. Die Strecke war mit digitalem Zugfunk Global 
 
-durch die Region West, Anlagen- und Instandhaltungsmanagement Köln für Betra und
-Sicherungsplanung der DB Netz AG erstellt. Die Durchführung der Maßnahme war für die Zeit
-vom 01.01.2023 bis 31.12.2023 für alle Gleise der Strecke 2630 zwischen dem Bf HürthKalscheuren und dem Bf Brühl sowie der Strecke 2631 zwischen dem Bf Hürth-Kalscheuren
-und dem Bf Er stadt vorgesehen. Die Untersuchungen der BEU bezüglich des Prozesses der
-Baustellenplanung sowie der Antragstellung der Betra bis hin zur Erstellung der Betra
-Nr. F 351038 23 ergaben, dass bei der Antragstellung der Betra die Belange der
-Baustellenlogis k keine ausreichende Berücksich gung fanden. Daraus resul erte, dass die
-Durchführung von Handstopfarbeiten im Rahmen der Erstellung der Betra Nr. F 351038 23
-nicht berücksich gt werden konnten.
-Unter Betrachtung dieser Untersuchungsergebnisse erfolgt die Feststellung, dass die Betra
-F 351038 23, die am Ereignistag beim zuständigen Fdl angemeldet wurde, lediglich
-Begehungen, Kontroll- und Vermessungsarbeiten jedoch keine Handstopfarbeiten vorsah. Die
-zum Ereigniszeitpunkt beim Fdl angemeldete Betra F 351038 23 ha e daher keinen Bezug zu
-der von der Ro e am Ereignistag geplanten Tä gkeiten. Der mangelbeha ete Prozess der
-Baustellenplanung und Antragstellung der Betra wird als ein beitragender Faktor durch die
-BEU gewertet [F2].
-Handlungen des Fdl
-Zur sicheren Durchführung der Fahrten auf der Infrastruktur der DB Netz AG ha e der
-betrieblich zuständige Fdl des Stellwerks Hürth-Kalscheuren untersetzende und ergänzende
-unternehmensinterne Arbeitsvorgaben zu beachten und umzusetzen, unter anderem die
-Fahrdienstvorschri
+System for Mobile Communica(cid:415)ons - Rail (GSM-R) und punk(cid:414)örmiger Zugbeeinﬂussung (PZB) 
 
-Ril 408, das Betriebsstellenbuch und im Au ragsbuch ausliegende
+ausgerüstet. 
 
-Au räge sowie betriebliche Mi eilungen. Des Weiteren lag die o. g. Betra F 351028 23 für das
-Bauprojekt „ESTW Linke Rheinseite“ auf dem Stellwerk aus. Diese Betra wurde am 09.12.2022
-auf das Stellwerk verteilt und damit die Vorlagefrist gemäß Ril 406 eingehalten.
-Die Rekonstruk on der betrieblichen Handlungen basierte auf den Auswertungen der
-Fernsprechbücher der zuständigen Fdl Hürth-Kalscheuren und Euskirchen sowie den
-aufgezeichneten GSM-R-Gesprächen mit dem Technisch Berech gten. Diese Untersuchungen
-ergaben, dass die Ro e bereits am Morgen des 04.05.2023 auf der Strecke 2631 zwischen den
-Betriebsstellen Bf Hürth-Kalscheuren und dem Bf Er stadt zur Durchführung von
-Handstopfarbeiten im Einsatz war. Den Aufzeichnungen war auch zu entnehmen, dass die
+Der  Arbeitsplatz  des  zum  Ereigniszeitpunkt  zuständigen  Fahrdienstleiters  (Fdl)  war  im 
 
-Seite 14 von 36
+Stellwerk  Hürth-Kalscheuren  eingerichtet.  Es  handelte  sich  dabei  um  ein  örtlich  besetztes 
 
-Untersuchungsbericht
-Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl
+Relaisstellwerk  der  Bauform  Sp Dr S 59,  welches  die  Steuerung  und  Überwachung  des 
 
-Arbeiten im Streckengleis Bf Hürth-Kalscheuren – Bf Er stadt um 08:31 Uhr begonnen und
-um 09:58 Uhr beendet wurden. Von 10:57:08 Uhr bis 10:57:59 Uhr führte der Fdl HürthKalscheuren mit dem BÜB in der Funk on als Technisch Berech gten gemäß Punkt 4.2 der
-o. g. Betra das folgende GSM-R Gespräch, siehe untenstehende Tabelle.
-Fdl
+Bahnbetriebs im zugehörigen Stellbereich gewährleistete. 
 
-Hürth‐Kalscheuren
+Die  folgende  Abbildung  veranschaulicht  die  geograﬁsche  Lage  des  Ereignisortes  auf  der 
 
-BÜB
+Strecke 2630.  
 
-Guten Tag, (Namensnennung) nochmal hier. Ich hä e gerne wenn
-es geht…(unverständlich)… im Gleis von Hürth‐Kalscheuren nach
-Brühl.
+Seite 7 von 36 
 
-Fdl
+ 
+ 
+Untersuchungsbericht 
 
-Was? Von Kalscheuren nach Brühl??
+Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl 
 
-BÜB
+Abbildung 1: Lageplan1 
 
-Ja – wir sind jetzt am km ca. 10,4. Wir wollen jetzt ähm
-Querungen stopfen. Nachstopfen.
+Die folgende schema(cid:415)sche Übersichtsskizze bietet eine detaillierte Darstellung des genauen 
 
-Fdl
+Ereignisortes. 
 
-Aha – wie lange braucht ihr denn?
+Abbildung 2: Schema(cid:415)sche Übersichtsskizze bearbeitet durch BEU2 
 
-BÜB
+1 Quelle: Geobasisdaten © GeoBasis‐DE / BKG [2023], bearbeitet durch BEU 
 
-Ich brauch ca. 15 – 20 Minuten.
+2 Quelle: DB Netz AG bearbeitet durch BEU 
 
-Fdl
+Seite 8 von 36 
 
-15‐20 Minuten?! Nee, kannste wohl vergessen tagsüber mmmh
-hier fahren ja noch Züge!
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                       
+Untersuchungsbericht 
 
-BÜB
+Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl 
 
-…(unverständlich)…
+  Beteiligte	
 
-Fdl
+Die am Ereignis Beteiligten ha(cid:425)en die folgenden Funk(cid:415)onen: 
 
-Ja, ich schau mal, ich hau mal die ZÜ an. Wieviel brauchste denn
-mindestens?
+Für das Eisenbahninfrastrukturunternehmen (EIU) DB Netz AG3 
 
-BÜB
+  Fdl Hürth-Kalscheuren  
 
-20
+  Region West, Anlagen- und Instandhaltungsmanagement Köln für die Betriebs- und 
 
-Fdl
+Bauanweisung (Betra) und die Sicherungsplanung (Herausgabe der Betra sowie des 
 
-Wieviel? 20?! Kannste vergessen, das glaub ich nicht! Ich muss die
-ZÜ fragen.
+Sicherungsplans durch die für den Bahnbetrieb zuständige Stelle (BzS))  
 
-BÜB
+Für das Eisenbahnverkehrsunternehmen (EVU) DB Fernverkehr AG 
 
-Ja, okay, gut bis gleich.
+  Triebfahrzeugführer (Tf) IC 2005 und IC 2049 
 
-Tabelle 5: GSM-R Gespräch zwischen Fdl Hürth-Kalscheuren und Technisch Berech gtem
+DB Engineering & Consul(cid:415)ng GmbH 
 
-Das o. g. Gespräch zeigte, dass die Ro e vom Streckengleis Hürth-Kalscheuren – Er stadt an
-den Streckenkilometer 10,4 der Strecke Bf Hürth-Kalscheuren – Bf Brühl gewechselt war. Der
-BÜB ha e laut obenstehenden GSM-R Gespräch in der Funk on des Technisch Berech gten
-die Absicht, eine Gleissperrung beim Fdl Hürth-Kalscheuren zu beantragen, damit die Ro e
-Handstopfarbeiten durchführen konnte. Das Ergebnis dieses Gesprächs war, dass der Fdl
-keine Zus mmung zu den Arbeiten erteilte und dass er zunächst die Zugüberwachung (ZÜ)
-anrufen wolle. Weitere GSM-R Gespräche wurden erst wieder ab 11:03:53 Uhr, nach
-Ereigniseintri , geführt.
+  Betra-Antragstellung 
 
-Seite 15 von 36
+DB Engineering & Consul(cid:415)ng GmbH  und  Vössing Ingenieurgesellscha(cid:332) mbH  als  INGE  BÜ‐
 
-Untersuchungsbericht
-Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl
+ESTW‐Köln 
 
-Untersuchung der für das Ereignis relevanten Personen und Stellen
-In diesem Kapitel wird auf weitere für das Ereignis relevante Personen und Stellen
-eingegangen.
-Ausführendes Unternehmen M+K Tief‐ u. Kabelbau GmbH
-Die DB Netz AG schloss mit dem ausführenden Unternehmen M+K Tief- u. Kabelbau GmbH für
-das Projekt „ESTW Linke Rheinseite“ einen Rahmenvertrag für den Kabel e au. Im Zuge
-dieser Baumaßnahme waren in mehreren Leistungsphasen neben Kabel e auarbeiten auch
-die Herstellung von Gleisquerungen durch das ausführende Unternehmen durchzuführen.
-Zur Planung und Durchführung einer Arbeitsstelle im Gleisbereich war die Zusammenarbeit
-aller Beteiligten notwendig. Bei dem vorliegenden Ereignis handelte es sich um eine
-Maßnahme mit getrennter Vergabe von Bau- und Sicherungsleistung.
-Unternehmerpflichten
-Die Pflichten eines ausführenden Unternehmens bei der geplanten Durchführung von
-Arbeiten im Gleisbereich resul eren aus der Rahmenrichtlinie 132.0118, die durch die
-Informa onsschri
+  Bauüberwachung 
 
-BGI/GUV-I 781 „Sicherheitshinweise für Arbeiten im Gleisbereich von
+  Bauüberwacher Bahn (BÜB) und Technisch Berechtigter nach 4.2 Betra 
 
-Eisenbahnen“ untersetzt wird. Zur Gewährleistung der Arbeitssicherheit hat die Deutsche
-Gesetzliche Unfallversicherung (DGUV) Vorschri en erlassen. Wenn entsprechend
-DGUV 38 § 6 Abs. 4 für die Versicherten bei Bauarbeiten mit Gefahren aus dem Verkehr von
-Land-, Wasser- oder Lu ahrzeugen zu rechnen ist, so hat der Unternehmer dafür zu sorgen,
-dass im Benehmen mit deren Eigentümern oder Betreibern Sicherungsmaßnahmen festgelegt
-werden. Die DGUV 78 regelt für Arbeiten im Bereich von Gleisen in § 3 Abs. 1, dass der
-Unternehmer Beginn, Änderungen und Ende von Arbeiten im Gleisbereich und die
-erforderlichen Räumzeiten der BzS so rechtzei g anzuzeigen hat, dass diese die erforderlichen
-Sicherungsmaßnahmen gegen die Gefahren aus dem Bahnbetrieb anordnen oder durchführen
-kann. Mit den Arbeiten darf erst begonnen werden, wenn die Sicherungsmaßnahmen
-durchgeführt sind.
-Wesentliche Bestandteile der Unternehmerpflichten waren gemäß Rahmenrichtlinie
-132.0118 zudem folgende Punkte:
+M+K Tief‐ u. Kabelbau GmbH 
 
-Seite 16 von 36
+  Ausführendes Unternehmen gemäß Version 4.0 der Rahmenrichtlinie 132.0118 für 
 
-Untersuchungsbericht
-Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl
+Handstopfarbeiten 
 
-„01 Zweck
-(1) Die für Arbeiten im Gleisbereich geltende Rahmenrichtlinie 132.0118 setzt die
-Vorgaben der Unfallversicherungsträger, insbesondere DGUV und Regel 101‐104
-bahnspezifisch um. Sie ist Sicherungsanweisung im Sinne § 4 (1) DGUV Vorschri 78.
-(2) Diese Rahmenrichtlinie beschreibt Aufgaben, Kompetenzen und Verantwortung:
-
+B+S Bau und Sicherungsgesellscha(cid:332) mbH 
 
-des Bahnbetreibers,
+  Sicherungsaufsicht 
 
-
+  Sicherungsposten  
 
-der für den Bahnbetrieb zuständigen Stelle,
+3 zum 01.01.2024 umfirmiert zu DB InfraGO AG 
 
-
+Seite 9 von 36 
 
-des ausführenden Unternehmens,
+ 
+ 
+ 
+ 
+                                                       
+Untersuchungsbericht 
 
-
+Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl 
 
-des Sicherungsunternehmens,
+  Äußere	Bedingungen	
 
-
+Zum Zeitpunkt des Ereignisses herrschten folgende Bedingungen: 
 
-der an Sicherungsmaßnahmen Beteiligten,
+Lichtverhältnisse 
 
-
+Sicht 
 
-bei Arbeiten im Gleisbereich an Bahn und anderen Anlagen“4
+Bedeckung 
 
-Bei geplanten Arbeitsstellen im Gleisbereich ist das ausführende Unternehmen im Rahmen
-einer Gefährdungsbeurteilung verpflichtet, zu prüfen, ob bei diesen Arbeiten für die
-Mitarbeiter Gefahren durch den Bahnbetrieb entstehen können. „Wird diese Frage bejaht,
-müssen die Arbeiten vom Unternehmer bei der BzS rechtzei g angezeigt werden (Bringschuld
-des Unternehmers)“5. Diese vom ausführenden Unternehmen bzgl. der Durchführung von
-Arbeiten im Rahmen des Projekts „ESTW Linke Rheinseite“ erstellte Gefährdungsbeurteilung
-wurde der BEU vorgelegt. Daraus ging hervor, dass bei den projektbezogenen geplanten
-Arbeiten Gefährdungen für die eigenen Mitarbeiter entstehen können.
-Gemäß Kapitel 3.2 der BGI/GUV-I 781 waren durch das ausführende Unternehmen
-M+K Tief- u. Kabelbau GmbH somit folgende Informa onen unter Nutzung der „Seite 1“ des
-Sicherungsplans bei der BzS anzuzeigen:
-
+Temperaturen  
 
-„Art, Ort und Zeitdauer der Arbeiten, auch die tägliche Arbeitszeit
+fallender Niederschlag 
 
-
+Niederschlagshäuﬁgkeit 
 
-Arbeitsumfang (z. B. Personenzahl, Anzahl der Arbeitsgruppen)
+Tageslicht 
 
-
+klar 
 
-Arbeitsstellenlänge
+sonnig 
 
-
+23°C 
 
-Arbeitsstellenbreite
+Nein 
 
-
+-- 
 
-Angaben zu vorbereitenden und nachlaufenden Tätigkeiten
+Untergrund / gefallener Niederschlag  
 
-4
+trocken 
 
-DB Netz AG, Rahmenrichtlinie 132.118
+Tabelle 2: Übersicht der äußeren Bedingungen 
 
-5
+  Todesopfer,	Verletzte	und	Sachschäden	
 
-BGI/GUV-I 781 Kapitel 3.2
+Bei 
 
-Seite 17 von 36
+dem 
 
-Untersuchungsbericht
-Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl
+Ereignis 
 
-
+wurde 
 
-Angaben über Wege zur und von der Arbeitsstelle
+eine 
 
-
+Person 
 
-Angaben zu wandernden Arbeitsstellen
+des 
 
-
+Sicherungsunternehmens 
 
-Genaue Lage des Arbeitsbereichs (wird ausschließlich neben den Gleisen gearbeitet
-oder sind Arbeiten im Gleis erforderlich?)
+B+S Bau und Sicherungsgesellscha(cid:332) mbH sowie eine Person des ausführenden Unternehmens 
 
-
+M+K Tief- u. Kabelbau GmbH  tödlich  verletzt.  Ein  Tf  und  drei  weitere  Personen  des 
 
-Abstand zwischen Arbeitsbereich und Betriebsgleis
+ausführenden  Unternehmens  und  eine  Person  des  Sicherungsunternehmens  wurden  leicht 
 
-
+verletzt. Es entstanden geringe Sachschäden am Triebfahrzeug des IC 2005.  
 
-Räumzeit
+Bei dem Ereignis traten folgend aufgeführte Personenschäden ein: 
 
-
+Anzahl Tote 
 
-Einsatz von Maschinen.“6
+Anzahl schwer Verletzte  Anzahl leicht Verletzte 
 
-Nach Anzeige durch das ausführende Unternehmen werden durch die BzS verantwortlich die
-Sicherungsmaßnahmen gegen Gefahren aus dem Bahnbetrieb entsprechend der
-Maßnahmenhierarchie im Arbeitsschutz und dem Regelwerk festgelegt. Die BzS entscheidet
-über Sicherungsmaßnahmen, beau ragt die Sicherungsleistungen und legt betriebliche
-Maßnahmen fest. Das Sicherungsunternehmen wird im Anschluss auf dieser Grundlage mit
-der Detailplanung und Durchführung der Sicherung und ggf. mit der Montage und Bedienung
-technischer
+Reisende 
 
-Sicherungssysteme
+Mitarbeiter 
 
-beau ragt.
+Benutzer von 
+Bahnübergängen 
 
-Die
+Dri(cid:425)e 
 
-von
+Summe 
 
-der
+- 
 
-BzS
+2 
 
-festgelegten
+- 
 
-Sicherungsmaßnahmen müssen durch das ausführende Unternehmen zum Schutz der
-Arbeitnehmer beachtet werden. Gemäß der Rahmenrichtlinie 132.0118 A01 (6) muss das
-ausführende Unternehmen seine Beschä igten, die Arbeiten im Gleisbereich durchführen,
-vor Aufnahme seiner Tä gkeit und bei einer Änderung der Gefährdung über den Inhalt des
-Sicherungsplanes arbeitsplatzbezogen unterweisen.
-Anweisungen an die Mitarbeiter sowie die Entscheidung zur Aufnahme der Arbeiten werden
-durch den Bauüberwacher in der Funk on als Technisch Berech gter getroﬀen. Dieser in der
-BGI/GUV-I 781 festgelegte Ablauf ist der folgenden Abbildung zu entnehmen.
+- 
 
-6
+2 
 
-Quelle: BGI/GUV-I 781, Kapitel 3.2
+Tabelle 3: Übersicht der Personenschäden 
 
-Seite 18 von 36
+- 
 
-Untersuchungsbericht
-Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl
+- 
 
-Abbildung 4: Beteiligte Stellen und Zusammenarbeit der verantwortlichen Arbeitsstellen im Gleisbereich7
+- 
 
-Die Untersuchungen der BEU konzentrierten sich auf die oben beschriebene
-Prozessabwicklung zur Festlegung von Sicherungsmaßnahmen. Dabei wurde festgestellt, dass
-keine Anzeige durch das ausführende Unternehmen zu den geplanten Arbeiten im
-Gleisbereich bei der BzS erfolgte, sondern das Sicherungsunternehmen unmi elbar durch das
-ausführende Unternehmen beau ragt wurde.
-Auf Grund dieser Vorgehensweise konnte der oben dargestellte Sollprozess zur Erstellung
-eines Sicherungsplanes durch die BzS nicht umgesetzt werden.
-Im Ergebnis wurde festgestellt, dass bei dem vorliegenden Ereignis der Unternehmerpflicht
-durch das ausführende Unternehmen M+K Tief- u. Kabelbau GmbH nicht vollumfänglich
-nachgekommen wurde. Trotz durchgeführter Gefährdungsbeurteilung und dem Ergebnis,
-dass durch die geplanten Arbeiten Gefährdungen der Mitarbeiter durch den Bahnbetrieb
-7
+- 
 
-Quelle: BGI/GUV-I 781, Kap. 3.1, Abb. 3-1
+0 
 
-Seite 19 von 36
+- 
 
-Untersuchungsbericht
-Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl
+5 
 
-entstehen können, wurde für die Arbeiten im Streckengleis Bf Hürth-Kalscheuren – Bf Brühl
-keine Anzeige der durchzuführenden Arbeiten durch das ausführende Unternehmen bei der
-BzS getä gt.
-Die Ergebnisse der Gefährdungsbeurteilung wurden nicht prozesskonform an die BzS
-weitergegeben. Dies wurde durch die BEU als ursächlicher Faktor [F1] gewertet.
-Sicherungsunternehmen B+S Bau und Sicherungsgesellscha mbH
-Die Aufgaben der an der Sicherungsplanung und -durchführung beteiligten Personen waren
-im Anhang 01 der Rahmenrichtlinie 132.0118 festgelegt. Gemäß dieser Rahmenrichtlinie wird
-das
+- 
 
-Sicherungsunternehmen
+- 
 
-durch
+5 
 
-die
+Seite 10 von 36 
 
-BzS
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-beau ragt
+Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl 
 
-eine
+Die geschätzte Höhe der Sachschäden in Euro setzt sich wie folgt zusammen: 
 
-Detailplanung
+geschätzte Kosten in Euro 
 
-der
+Fahrzeuge 
 
-Sicherungsmaßnahmen zu erstellen und die entsprechenden Sicherungsmaßnahmen
-durchzuführen. Da es bei diesem Ereignis keinen Au rag der BzS mit Angaben zu
-Sicherungsmaßnahmen für das Sicherungsunternehmen gab, beabsich gte die B+S Bau und
-Sicherungsgesellscha mbH, Sicherungsmaßnahmen ohne die in der einschlägigen
-Rahmenrichtlinie 132.0118 vorgesehene Legi ma on durchzuführen. Obwohl ein konkret
-anzuwendendes Sicherungsverfahren für das Streckengleis Hürth–Kalscheuren – Brühl dem
-Sicherungsunternehmen nicht bekannt sein konnte, waren eine Sicherungsaufsicht und zwei
-Sicherungsposten am Ereignisort.
-Bauüberwacher Bahn
-Der BÜB meldete am 04.05.2023 um 08:31 Uhr Arbeiten gemäß Betra F 351038 23 bei dem
-Fdl Euskirchen in der Funk on als Technisch Berech gter gemäß Punkt 4.2 der Betra an.
-Zu seinen Aufgaben zählte u. a. das Treﬀen betrieblicher Vereinbarungen mit dem Fdl
-einschließlich der dazugehörigen Dokumenta on. In Rahmen seiner Tä gkeiten war der
-Mitarbeiter in der Funk on des Technisch Berech gten für die Überwachung des sicheren
-Baustellenbetriebs verantwortlich. Gemäß Rahmenrichtlinie 132.0118 (3) war er befähigt die
-Funk on der Sicherungsüberwachung auszuüben. Daraus resul erend ha e er u. a. die
-Aufgabe vor Beginn der Arbeiten die Übereins mmung der Sicherungsmaßnahmen mit der
-Sicherungsplanung abzugleichen.
-Zwischen 08:31 Uhr und 09:58 Uhr vereinbarte er Gleissperrungen im Streckengleis HürthKalscheuren – Er stadt und Gegenrichtung. Die mit dem Fdl zu diesem Zweck geführten
-GSM-R Gespräche dokumen erte er in seinem persönlichen Fernsprechbuch. Um
+Infrastruktur 
 
-Seite 20 von 36
+Dri(cid:425)e 
 
-Untersuchungsbericht
-Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl
+10.000 
 
-10:57:08 Uhr rief er den Fdl Hürth-Kalscheuren an, um eine Gleissperrung für geplante
-Arbeiten zwischen den Betriebsstellen Bf Hürth-Kalscheuren und Bf Brühl zu beantragen, was
-der Fdl aufgrund hoher Zugfolge ablehnte und auf seine Rücksprache mit der ZÜ verwies. Zum
-Zeitpunkt des Ereignisses wartete der BÜB nach eigener Aussage noch auf die Rückmeldung
-aus dem Gespräch zwischen dem Fdl Hürth-Kalscheuren und der ZÜ. In der Zwischenzeit begab
-sich die Ro e in den Gleisbereich. Aus den nach dem Ereignis geführten GSM-R Gesprächen
-mit dem Fdl ging hervor, dass der BÜB die mehrmaligen Achtungssignale wahrgenommen
-ha e, sie aber nicht dem unerlaubten Betreten des Gleisbereiches durch die Ro e habe
-zuordnen können.
-Ein gül ger Sicherungsplan für die am 04.05.2023 zwischen den Betriebsstellen Bf HürthKalscheuren und Bf Brühl geplanten Arbeiten im Gleisbereich lag nicht vor. Trotz der
-fehlenden Unterlagen leitete der Technisch Berech gte mi els eines GSM-R Gespräches die
-Arbeitsvorbereitung beim zuständigen Fdl ein.
-Untersuchung der betrieblichen Abläufe des EVU
-Das EVU DB Fernverkehr AG war zum Zeitpunkt des Ereignisses das verantwortliche EVU für
-die Zugfahrt IC 2005 und verfügte über eine Sicherheitsbescheinigung gemäß § 7a AEG. Der
-Zug IC 2005 sollte planmäßig auf dem Laufweg von Emden Hbf nach Koblenz Hbf verkehren.
-Die im führenden Triebfahrzeug (Tfz) der Baureihe (BR) 147.5 gespeicherten Daten der
-Elektronischen Fahrtenregistrierung wurden vom EVU ausgelesen und der BEU zur
-Auswertung übergeben. Die Auswertung ergab, dass bei einer Geschwindigkeit von 159 km/h
-der Hauptlu leitungsdruck auf unter 2,2 bar fiel, was auf die Einleitung einer Schnellbremsung
-hindeutete.
-Laut Aussage des Tf des IC 2005 waren die Personen trotz des von ihm mehrmalig gegebenen
-Achtungspfiﬀs dem entgegenkommenden Zug IC 2049 zugewandt. Dies deckte sich mit der
-Stellungnahme des Tf des entgegenkommenden Zuges IC 2049. Demnach waren die Personen
-im Gegengleis seinem Zug IC 2049 zugewandt und hoben die Hand zum Zeichen, dass man den
-Zug erkannt habe. Eine sofort eingeleitete Schnellbremsung durch den Tf des Zuges IC 2005
-konnte den Aufprall mit der Ro e nicht verhindern.
+- 
 
-Seite 21 von 36
+- 
 
-Untersuchungsbericht
-Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl
+Gesamtschadenshöhe 
 
-4.2 Fahrzeuge und technische Einrichtungen
-In diesem Kapitel sind die Erkenntnisse aus der Untersuchung beteiligter Fahrzeuge, der
-Eisenbahninfrastruktur und weiterer technischer Einrichtungen einschließlich damit eventuell
-verbundener Tä gkeiten und Entscheidungen dargestellt.
-Untersuchung von Fahrzeugen
-Bei dem an dem Ereignis beteiligten Zug IC 2005 handelte es sich um einen Doppelstock-IC mit
-fester Zugbildung, bestehend aus einem Tfz der BR 147.5 mit der Fahrzeugnummer
-91 80 6147 567 2 und fünf Doppelstockwagen mit den Fahrzeugnummern 50 80 1681 192 1,
-50 80 2681 597 9,
+10.000 
 
-50 80 2681 596 1,
+Tabelle 4: Übersicht der geschätzten Schadenshöhe 
 
-50 80 2681 585 4,
+Die folgende Abbildung zeigt die geograﬁsche Lage des Ereignisortes sowie die Situa(cid:415)on zum 
 
-50 80 8681 893 9.
+Zeitpunkt des Ereignisses. 
 
-Sämtliche
+Abbildung 3: Schema(cid:415)sche Darstellung des Ereignisortes 
 
-Fahrzeuge wurden von der Firma Bombardier Transporta on hergestellt und in den Jahren
-2015-2018 in Betrieb genommen.
-Der Zug IC 2005 ha e eine Gesamtlänge von 154 m, ein Gesamtzuggewicht von 392 t und ein
-Gesamtbremsgewicht von 793 t. In der Bremsstellung R/P verfügte der Zug über
-202 Bremshundertstel gegenüber den laut Fahrplan geforderten 199 Mindestbremshundertsteln.
-Das am Ereignis beteiligte Fahrzeug wurde hinsichtlich der Anforderungen soweit untersucht,
-dass das Vorliegen von ereignisrelevanten Faktoren ausgeschlossen werden konnte.
-Untersuchung der bautechnischen Infrastruktur
-Aufgrund der Erkenntnisse zum Ereignishergang und der Sachverhaltsermi lung konnte auf
-weiterführende oberbautechnische Untersuchungen der Gleise verzichtet werden.
-Untersuchung der Leit‐ und Sicherungstechnik
-Basierend auf den Erkenntnissen zum Ereignisverlauf und der Sachverhaltsermi lung war es
-nicht erforderlich, weitere Untersuchungen bezüglich der Leit- und Sicherungstechnik
-durchzuführen.
+3.2  Sachliche	Beschreibung	der	Vorkommnisse	
 
-4.3 Menschliche Faktoren
-In diesem Kapitel werden Untersuchungserkenntnisse zu menschlichen Handlungen und/oder
-Entscheidungen am gefährlichen Ereignis beteiligter Personen dargestellt. Entsprechende
-Erkenntnisse können sich hierbei insbesondere im Bereich menschlicher und individueller
-Merkmale sowie organisatorischer und Arbeitsplatzfaktoren ergeben.
+Zur  Rekonstruk(cid:415)on  des  gefährlichen  Ereignisses 
 
-Seite 22 von 36
+sowie 
 
-Untersuchungsbericht
-Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl
+zur  Beschreibung  der 
 
-Ausführendes Unternehmen M+K Tief‐ u. Kabelbau GmbH
-Es oblag dem ausführenden Unternehmen M+K Tief- u. Kabelbau GmbH, entsprechend den
-Vorgaben der BGI/GUV-I 781 im Rahmen der Arbeitsvorbereitung zu beurteilen, ob durch den
-Bahnbetrieb Gefährdungen bei der Durchführung der geplanten Arbeiten entstehen könnten.
-Eine Gefährdungsbeurteilung für Gleisbauarbeiten im Projekt „ESTW Linke Rheinseite“ wurde
-durch das ausführende Unternehmen durchgeführt. Die Unterlagen die der BEU zur Verfügung
-gestellt wurden belegten, dass alle Mitarbeiter gemäß Berufsgenossenscha liche
-Vorschri en A1 §7 Abs. 2, Arbeitsschutzgesetz §12, Betriebssicherheitsverordnung §9,
-Gefahrstoﬀverordnung §14 Abs. 2 vor Aufnahme der Tä gkeiten bei dem ausführenden
-Unternehmen M+K Tief- u. Kabelbau GmbH unterwiesen wurden.
-Am Ereignistag waren Handstopfarbeiten an einigen Gleisquerungen vorgesehen die durch
-das ausführende Unternehmen M+K Tief- u. Kabelbau GmbH durchgeführt werden sollten.
-Die Disposi on von vier Mitarbeitern erfolgte seitens des ausführenden Unternehmens.
-Mi els einer Arbeitsanmeldung/eines Wochenplans, die zur Planung der Baustellenlogis k
-diente, siehe Abbildung 5, wurden die Mitarbeiter, mit den Arbeiten beau ragt. In der
-Arbeitsanmeldung/dem Wochenplan wurde durch das ausführende Unternehmen ein
-vorhandener Sicherungsplan bestä gt.
+No(cid:414)allmaßnahmen werden insbesondere auch die in Kapitel 4 enthaltenen Aufzeichnungen, 
 
-Abbildung 5: Arbeitsanmeldung/Wochenplan vom 04.05.20238
+Auswertungen und Feststellungen etc. herangezogen. 
 
-Zur Arbeitsvorbereitung innerhalb des Projekts „ESTW Linke Rheinseite“ wurden nach
-Aussage der beteiligten Unternehmen tägliche Besprechungen mit Vertretern der
-DB Engineering & Consul ng GmbH, des ausführenden Unternehmens M+K Tief- u. Kabelbau
-GmbH, des BÜB der Firma Vössing Ingenieurgesellscha mbH, sowie der Sicherungsfachkra
-der Firma B+S Bau und Sicherungsgesellscha
+Seite 11 von 36 
 
-mbH zur Abs mmung der täglich
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-8
+Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl 
 
-Quelle: M+K Tief- u. Kabelbau GmbH, bearbeitet durch BEU
+  Hergangsbeschreibung	
 
-Seite 23 von 36
+Der  am  Ereignis  beteiligte  IC 2005  des  EVU  DB Fernverkehr AG  sollte  am  04.05.2023  von 
 
-Untersuchungsbericht
-Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl
+Emden Hbf  nach  Koblenz Hbf  verkehren.  Etwa  in  km 10,0  der  Strecke 2630,  zwischen  den 
 
-durchzuführenden Arbeiten durchgeführt. In der arbeitsvorbereitenden Besprechung am
-Morgen des Ereignistags wurden die vorzunehmenden Arbeiten auf Basis der/des o. g.
-Arbeitsanmeldung/Wochenplans koordiniert.
-Baubesprechungen zum Projekt „ESTW Linke Rheinseite“
-Vertreter des ausführenden Unternehmens nahmen darüber hinaus an regelmäßigen
-Baubesprechungen zum Projekt „ESTW Linke Rheinseite“ teil. Bei diesen Baubesprechungen
-war ein großer Teilnehmerkreis, u. a. bestehend aus Projektleitung und Vertretern der
-jeweiligen Arbeitsabschni e, beteiligt. Im Protokoll der Baubesprechung Nr. 73 vom
-04.04.2023 wurde unter Punkt 0.2.2.1 festgehalten, dass das Sicherungsunternehmen
-B+S Bau und Sicherungsgesellscha
+Betriebsstellen Bf Hürth-Kalscheuren und dem Bf Brühl, kam es zur Begegnung mit dem aus 
 
-mbH die Schni stelle zur BzS darstellte und die
+der Gegenrichtung kommenden IC 2049. Unmi(cid:425)elbar nach der Begegnung erkannte der Tf des 
 
-Koordinierung zur Erstellung von Sicherungsplänen übernehmen sollte. Weiterhin wurde in
-dieser Besprechung als Ergebnis dokumen ert, dass die Erstellung von Sicherungsplänen „auf
-das Nö gste zu reduzieren“9 sei. Die „Seite 1“ des Sicherungsplans sollte vom ausführenden
-Unternehmen M+K Tief- u. Kabelbau GmbH beim Sicherungsunternehmen eingereicht
-werden. Diese Festlegungen aus der Baubesprechung standen dem Sollprozess der
-Rahmenrichtlinie 132.0118, siehe Abbildung 4, entgegen. Die Anzeige der Maßnahmen hä e
-durch das ausführende Unternehmen M+K Tief- u. Kabelbau GmbH direkt an die BzS gerichtet
-werden müssen.
-Bei Einhaltung des Sollprozesses hä e die Vorlaufzeit für die Erstellung des Sicherungsplans
-ab dem 16.01.2023 20 Arbeitstage (Mo-Fr ohne Feiertage) betragen. Eine Unterschreitung
-dieser Frist
+IC 2005 ca. in km 10,4 mehrere mit Schutz- und Warnkleidung ausgerüstete Personen im Gleis. 
 
-wäre
+Eine sofort eingeleitete Schnellbremsung und die abgesetzten Achtungspﬁﬀe durch den Tf des 
 
-nur
+Zuges  IC 2005  konnten  den  Aufprall,  mit  der  aus  vier  Gleisbauarbeitern  und  zwei 
 
-bei
+Sicherungsposten  bestehenden  Personengruppe,  im  weiteren  Ro(cid:425)e  genannt,  nicht  mehr 
 
-Maßnahmen
+verhindern. 
 
-zur
+  Notfallmanagement	
 
-dringlichen
+Nach  § 4  Abs. 3  AEG  haben  die  Eisenbahnen  die  Verpﬂichtung,  an  Maßnahmen  des 
 
-Fehlerbesei gung und
+Brandschutzes  und  der  technischen  Hilfeleistung  mitzuwirken.  Die  Innenministerien  der 
 
-Sofortmaßnahmen gemäß Ril 406.1101A01 zulässig gewesen. In diesem Fall hä e der
-Sicherungsplan bis spätestens fünf Arbeitstage vor Inkra setzung vollständig ausgefüllt
-vorliegen müssen.
-Im Protokoll der Baubesprechung Nr. 73 vom 04.04.2023 hieß es unter Punkt 2.1.4.5 weiter:
-„Im Zuge der Regelinspek onen wurden Gleislagefehler im Gl. 3/4 im Bf Hürth‐Kalscheuren
-ermi elt. Zeitnah ist ein Nachstopfen der Querungen inkl. Gleislagemessungen erforderlich“10.
-Ein Au rag zu notwendigen, projektbezogenen Handstopfarbeiten im Streckengleis Hürth9
+Länder  und  die  DB AG  haben  sich  auf  folgende  Verfahrensweise  verständigt.  Für  die 
 
-Baubesprechung Nr. 73, Punkt 0.2.2.1
+DB Netz AG  gelten  die  entsprechenden  Brand-  und  Katastrophenschutzgesetze  der  Länder. 
 
-10
+Das No(cid:414)allmanagement der DB AG ist in der Konzernrichtlinie 123, das der DB Netz AG in der 
 
-Baubesprechung Nr. 73, Punkt 2.1.4.5
+Richtlinie (Ril) 423 näher beschrieben und geregelt. 
 
-Seite 24 von 36
+Unmi(cid:425)elbar  nach  dem  Aufprall  löste  der  Tf  des  IC 2005  über  GSM-R  einen  Notruf  mit 
 
-Untersuchungsbericht
-Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl
+anschließendem  Nothaltau(cid:332)rag  aus.  Die  dadurch  ausgelöste  Meldeke(cid:425)e  der  DB Netz AG 
 
-Kalscheuren –Brühl wurde in der Baubesprechung nicht dokumen ert. Zu welchen Anteilen
-die Stopfarbeiten der Ro e am Ereignistag im Rahmen einer Sofortmaßnahme notwendig
-wurden, konnte durch die BEU nicht ermi elt werden.
-Im
+führte auch zur Alarmierung der Re(cid:425)ungskrä(cid:332)e und der Polizei. 
 
-Ergebnis
+Seite 12 von 36 
 
-wurde
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-festgestellt,
+Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl 
 
-dass
+4  Auswertung	des	Ereignisses	
 
-das
+In diesem Kapitel werden insbesondere die im Rahmen der Unfalluntersuchung ermi(cid:425)elten 
 
-ausführende
+maßgeblichen sicherheitskri(cid:415)schen Faktoren dargestellt. Hierbei wird im jeweiligen Einzelfall 
 
-Unternehmen
+auf die Aufgaben und Pﬂichten einzelner Personen und Stellen, auf beteiligte Fahrzeuge und 
 
-M+K Tief- u. Kabelbau GmbH den Unternehmerpflichten bei der Anzeige der Arbeiten bei der
-BzS nicht gerecht wurde. Fälschlicherweise wurde seitens des Unternehmers bestä gt, dass
-ein Sicherungsplan für die geplanten Arbeiten vorhanden sei. Auch bei der
-arbeitsvorbereitenden Besprechung am 04.05.2023 wurde der fehlende Sicherungsplan nicht
-beanstandet. Die BEU wertet den Umstand, dass die Arbeitsaufnahme trotz fehlender
-Voraussetzungen beabsich gt wurde als ursächlichen Faktor. [F3]
-Sicherungsunternehmen
-Das Sicherungsunternehmen gab auf Anfrage der BEU an, dass sich die Mitarbeiter auf Basis
-der vom ausführenden Unternehmen erstellten Arbeitsanmeldung, im Anschluss an eine
-obligatorisch durchgeführte morgendliche Besprechung, zum geplanten Treﬀpunkt der
-Baustelle begaben.
-Wegen der unterlassenen Anzeige der Arbeiten bei der BzS durch das ausführende
-Unternehmen M+K Tief- u. Kabelbau GmbH war die BzS nicht in den Prozess zur Erstellung
-eines Sicherungsplans eingebunden. In der Folge lag dem Sicherungsunternehmen kein
-Sicherungsplan vor.
-Das Sicherungsunternehmen disponierte eine Sicherungsaufsicht und zwei Sicherungsposten.
-Gemäß Punkt 06 (5) des Anhang A01 der Rahmenrichtlinie 132.0118 gehörte zu den Aufgaben
-der Sicherungsaufsicht, dass sich die Sicherungsaufsicht bei der Anpassung von
-Sicherungsmaßnahmen an veränderte Gefahrensitua onen mit der Sicherungsüberwachung
-abs mmen muss.
-Insofern waren die Grundlagen zur Sicherung der Arbeiten nicht gegeben und hä en nicht
-durchgeführt werden dürfen.
-Inwieweit die Anwesenheit der Sicherungsaufsicht, deren Aufgabe es war Sicherungsposten
-einzuweisen, einzuteilen und zu überwachen, Einfluss auf die Handlungen der Ro e ha e
-konnte durch die BEU nicht ermi elt werden.
+technische  Einrichtungen  genauso  eingegangen  wie  auf  konkrete  menschliche  Handlungen 
 
-Seite 25 von 36
+sowie auf Feedback- und Kontrollmechanismen. Sofern Informa(cid:415)onen zu früheren Ereignissen 
 
-Untersuchungsbericht
-Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl
+vorliegen, werden diese in einem weiteren Unterkapitel dargestellt. 
 
-Qualifikation und Handlungen des Technisch Berechtigten
-Gemäß seinem Befähigungsausweis, ausgestellt am 12.02.2016 durch die DB Netz AG, war der
-BÜB für das Fachgebiet Oberbau/Konstruk ver Ingenieurbau befähigt. Darüber hinaus war er
-zur Ausübung der Funk on Betra-Antragsteller gemäß Ril 406.1201 befugt.
-Der eingesetzte Mitarbeiter ha e die Befähigung als BÜB in der Funk on des Technisch
-Berech gten tä g zu werden und war unterwiesen. Die Teilnahme an regelmäßigen
-Fortbildungen sowie die medizinische Tauglichkeit waren in seinem Befähigungsausweis
-dokumen ert. Ein Nachweis über die „Einweisung des Fachbauüberwachers Oberbau in die
-Örtlichkeit und die bahnbetrieblichen Gegebenheiten“ wurde seitens des EIU schri lich
-vorgelegt. Verantwortlich für diese Einweisung war der leitende Bauüberwacher der Firma
-DB Engineering & Consul ng GmbH.
-Der BÜB war darüber hinaus befähigt, die Aufgaben der Sicherungsüberwachung gemäß
-Rahmenrichtlinie 132.0118 wahrzunehmen. Dies setzte voraus, dass sowohl die
-Funk onsausbildung zum Sicherungsüberwacher gemäß Ril 046.2531 als auch die
-Funk onsausbildung zur Sicherungsaufsicht gemäß Ril 046.2529 erfolgreich abgeschlossen
-wurden. Grundsätzlich mussten gemäß Punkt 04 (1) des Anhangs A01 der Rahmenrichtlinie
-132.0118 die Durchführung der Sicherungsmaßnahmen gemäß § 5 (1) DGUV Vorschri 78
-überwacht werden. Im Weiteren musste gemäß Punkt 04 (3) DGUV Vorschri 78 überprü
-werden, ob bei den Sicherungsmaßnahmen Sicherungs- und Absperrposten vor Beginn der
-Durchführung die Übereins mmung der Sicherungsmaßnahme mit der Sicherungsplanung
-und dem Regelwerk vorhanden waren.
-Der Anhang A01 der Rahmenrichtlinie 132.0118 beschreibt unter Punkt 04, die Aufgaben,
-Pflichten sowie Voraussetzungen der Sicherungsüberwachung. Aus dem Punkt 04 (1) des
-Anhangs A01 der Rahmenrichtlinie 132.0118 geht hervor, dass die Durchführung der
-Sicherungsmaßnahmen gemäß § 5 (1) DGUV Vorschrift 78 überwacht werden muss. Im
-Weiteren wird unter Punkt 04 (2) des Anhangs A01 der Rahmenrichtlinie 132.0118 aufgeführt,
-dass die BzS für diese Aufgabe zuständig ist, diese aber an einen geeigneten Dritten
-übertragen kann. Im Punkt 04 (3) des Anhangs A01 der Rahmenrichtlinie 132.0118 werden die
-Aufgaben definiert. Gemäß genanntem Regelwerk ist festgelegt, dass bei den
-Sicherungsmaßnahmen Sicherungs- und Absperrposten vor Beginn der Durchführung die
-Übereinstimmung der Sicherungsmaßnahme mit der Sicherungsplanung und dem Regelwerk
-zu überprüfen sind. Wesentlicher Bestandteil für die Durchführung ist unter Punkt 04 (5) des
-Seite 26 von 36
+4.1  Aufgaben	und	Pflichten	
 
-Untersuchungsbericht
-Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl
+In diesem Kapitel werden unbeschadet des Ar(cid:415)kels 20 Abs. 4 der Richtlinie (EU) 2016/798 die 
 
-Anhangs
+Aufgaben  und  Pﬂichten  von  Personen  und  Stellen  behandelt,  die  an  dem  Ereignis  beteiligt 
 
-A01
+waren. Untersuchungen zu Schuld- oder Ha(cid:332)ungsfragen sind explizit ausgeschlossen und nicht 
 
-der
+Untersuchungsgegenstand. 
 
-Rahmenrichtlinie
+  Untersuchung	der	betrieblichen	Abläufe	des	Infrastrukturbetreibers	
 
-132.0118
+Das  verantwortliche  EIU  DB Netz AG  verfügte  über  eine  Sicherheitsgenehmigung  gemäß 
 
-geregelt.
+§ 7c AEG, die bis zum 19.10.2021 gül(cid:415)g war. Das Unternehmen beantragte am 12.04.2021 die 
 
-Die
+Verlängerung  der  Sicherheitsgenehmigung,  die  zwischenzeitlich  bis  zum  19.10.2026  erteilt 
 
-Funktion
+wurde. 
 
-der
+Gemäß  § 4 Abs. 3 AEG  sind  Eisenbahnen  verpﬂichtet,  ihren  Betrieb  sicher  zu  führen,  die 
 
-Sicherungsüberwachung darf nur ausüben, wer die Befähigung zum Sicherungsüberwacher
-(gem.
+Eisenbahninfrastruktur sicher zu bauen und in betriebssicherem Zustand zu halten. Darüber 
 
-Ril
+hinaus 
 
-046.2531
+schreibt  § 4 Abs. 4 AEG 
 
-Funktionsausbildung
+in  Verbindung  mit  Ar(cid:415)kel 9  Absätze 1 bis 5  der 
 
-zum
+Richtlinie (EU) 2016/798  vor,  ein  Sicherheitsmanagementsystem  (SMS)  einzurichten.  Die 
 
-Sicherungsüberwacher)
+inhaltlichen Anforderungen für die Entwicklung und Einhaltung eines solchen SMS basieren 
 
-erfolgreich
+auf den Vorgaben der Delegierte Verordnung (EU) 2018/762. 
 
-abgeschlossen und aufrechterhalten hat.
-Besondere Tätigkeiten wurden im Punkt 04 (10) des Anhangs A01 der Rahmenrichtlinie
-132.0118 beschrieben. Die Aufgaben der Sicherungsaufsicht dürfen in folgenden Fällen von
-einem BÜB in der Funktion der Sicherungsaufsicht durchgeführt werden:
-
+Erstellung der Betra 
 
-Sperrung aller Gleise eines Bahnhofs oder Bereiches aus Gründen der Unfallverhütung
-und/oder aus technischen Gründen
+Als  verantwortliches  EIU  war  die  DB Netz AG  für  die  Erstellung  der  Betra  Nr. F 351038 23 
 
-
+verantwortlich. Der Betra-Antrag wurde extern durch die DB Engineering & Consul(cid:415)ng GmbH 
 
-Bei Arbeiten im Rahmen einer Betriebsruhe
+gestellt  und  durchlief  den  elektronisch  vorgesehenen  Zeichnungsgang,  bevor  mit  der 
 
-
+Erstellung  der  Betra  für  „Begehungen,  Kontroll-  und  Vermessungsarbeiten  (Elektronisches 
 
-Auf eingleisigen Strecken und der Sicherungsmaßnahme Sperrung des Gleises aus
-Gründen der Unfallverhütung und/oder aus technischen Gründen wobei hier noch der
-Hinweis erfolgt, dass kein danebenliegendes Gleis vorhanden sein darf.
+Stellwerk (ESTW) Linke Rheinseite)“ durch den zuständigen Betra-Sachbearbeiter begonnen 
 
-Weiter ist in Punkt 04 (10) des Anhangs A01 der Rahmenrichtlinie 132.0118 aufgeführt, dass
-dem BÜB in seiner Funktionsausbildung die erforderlichen Inhalte zur Durchführung einer
-Gleissperrung sowie die Grundsätze der Baustellensicherung zum Schutz von Gefahren aus
-bewegten Schienenfahrzeugen vermittelt werden. Daher erfüllte der BÜB für die
-vorgenannten Fälle die Anforderungen gemäß Funktionsausbildung Ril 046.2529
-(Funktionsausbildung zur Sicherungsaufsicht).
-Besondere Tä gkeiten wie im Punkt 04 (10) des Anhangs A01 der Rahmenrichtlinie 132.0118
-beschrieben trafen nicht zu, da die Stopfarbeiten innerhalb eines zweigleisigen Abschni es
-hä en sta inden sollen. Es handelte sich dabei weder um einen Bahnhof, eine Betriebsruhe
-noch um einen eingleisigen Abschni . Daraus folgt, dass für die Durchführung der
-Sicherungsmaßnahmen sowohl eine Betra als auch ein Sicherungsplan verpflichtend waren.
-Bei Einhaltung des Regelwerks wären Stopfarbeiten ausgeschlossen, da weder eine
-Sicherungsplanung noch eine anlassbezogene bzw. die geplanten Arbeiten enthaltende Betra
-vorlagen.
-Fazit der Untersuchungsergebnisse aus Kapitel 4.3
-Die
+wurde. Die Betra entsprach in ihrem formalen Au(cid:297)au den Vorgaben der Ril 406 und wurde 
 
-Disposi on
+Seite 13 von 36 
 
-der
+ 
+ 
+Untersuchungsbericht 
 
-Mitarbeiter
+Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl 
 
-durch
+durch  die  Region  West,  Anlagen-  und  Instandhaltungsmanagement  Köln  für  Betra  und 
 
-das
+Sicherungsplanung der DB Netz AG erstellt. Die Durchführung der Maßnahme war für die Zeit 
 
-ausführende
+vom  01.01.2023  bis  31.12.2023  für  alle  Gleise  der  Strecke 2630  zwischen  dem  Bf Hürth-
 
-Unternehmen
+Kalscheuren  und  dem  Bf Brühl  sowie  der  Strecke 2631  zwischen  dem  Bf Hürth-Kalscheuren 
 
-M+K Tief- u. Kabelbau GmbH trotz fehlendem Sicherungsplan oﬀenbarte eine mangelnde
+und dem Bf Er(cid:332)stadt vorgesehen. Die Untersuchungen der BEU bezüglich des Prozesses der 
 
-Seite 27 von 36
+Baustellenplanung  sowie  der  Antragstellung  der  Betra  bis  hin  zur  Erstellung  der  Betra 
 
-Untersuchungsbericht
-Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl
+Nr. F 351038 23  ergaben,  dass  bei  der  Antragstellung  der  Betra  die  Belange  der 
 
-Sorgfaltspflicht seitens des Unternehmers. Bei der Überprüfung der notwendigen
-Voraussetzungen für die Durchführung sicherer Arbeiten im Gleisbereich zeigte das
-ausführende Unternehmen Mängel in den unternehmenseigenen Prozessen. Dieses fehlende
-Sicherheitsbewusstsein auf Unternehmerebene wurde im Rahmen der Planung von Arbeiten
-durch die BEU zusätzlich als systemischer Faktor [S1] zum ursächlichen Faktor [F1] gewertet.
-Der Unternehmer führte die Gefährdungsbeurteilung nicht vollständig und prozesskonform
-durch, sodass die Beschä igten nicht ausreichend gegen die Gefahren, die aus dem
-Bahnbetrieb entstehen können, gesichert werden konnten [F1].
-Bei
+Baustellenlogis(cid:415)k  keine ausreichende  Berücksich(cid:415)gung  fanden.  Daraus  resul(cid:415)erte,  dass  die 
 
-den
+Durchführung  von  Handstopfarbeiten  im  Rahmen  der  Erstellung  der  Betra  Nr. F 351038 23 
 
-arbeitsvorbereitenden
+nicht berücksich(cid:415)gt werden konnten.  
 
-Maßnahmen
+Unter  Betrachtung  dieser  Untersuchungsergebnisse  erfolgt  die  Feststellung,  dass  die  Betra 
 
-am
+F 351038 23,  die  am  Ereignistag  beim  zuständigen  Fdl  angemeldet  wurde, 
 
-Ereignistag
+lediglich 
 
-war
+Begehungen, Kontroll- und Vermessungsarbeiten jedoch keine Handstopfarbeiten vorsah. Die 
 
-ein
+zum Ereigniszeitpunkt beim Fdl angemeldete Betra F 351038 23 ha(cid:425)e daher keinen Bezug zu 
 
-fehlendes
+der  von  der  Ro(cid:425)e  am  Ereignistag  geplanten  Tä(cid:415)gkeiten.  Der  mangelbeha(cid:332)ete  Prozess  der 
 
-Sicherheitsbewusstsein aller Beteiligten zu erkennen. Diesen Umstand wertete die BEU als
-einen systemischen Faktor [S3].
-Vor Ort war es am Ereignistag Aufgabe des BÜB, auf Grundlage der Planung des ausführenden
-Unternehmens, das Vorhandensein eines Sicherungsplans zu überprüfen und sich mit der
-Sicherungsaufsicht über die neue Gefahrensitua on abzus mmen. Trotz dieser fehlenden
-Unterlage leitete er die weitere Arbeitsvorbereitung ein, indem er die Arbeiten bei den Fdl
-Euskirchen und Hürth-Kalscheuren anmeldete.
-Schlussendlich konnten die konkreten Beweggründe der Ro e, den Gleisbereich zu betreten,
-nicht mehr rekonstruiert werden. Die Arbeitsaufnahme trotz fehlender Voraussetzungen
-durch die Ro e, wurde durch die BEU als ursächlicher Faktor gewertet [F4]. Einhergehend mit
-der Arbeitsaufnahme wurde das fehlende Sicherheitsbewusstsein aller Beteiligten im Rahmen
-der Arbeitsaufnahme als systemischer Faktor [S4] gewertet.
+Baustellenplanung und Antragstellung der Betra wird als ein beitragender Faktor durch die 
 
-4.4 Feedback‐ und Kontrollmechanismen
-In diesem Kapitel wird insbesondere auf Bedingungen, Feedback- und Kontrollmechanismen
-im Eisenbahnsystem eingegangen, denen ein Einfluss auf die Entstehung ähnlicher Ereignisse
-zugeschrieben werden könnte. Diese Mechanismen schließen Faktoren des Risiko- und
-Sicherheitsmanagement sowie Überwachungsverfahren mit ein.
-Prozesse des ausführenden Unternehmens
-Zu den Unternehmerpflichten bei der Arbeitsvorbereitung gehörte gemäß der
-BGI/GUV-I 781 3.2 die Erstellung einer Gefährdungsbeurteilung. Diese Gefährdungsbeurteilung diente der Beurteilung möglicher Gefährdungen durch den Bahnbetrieb (d. h.
-durch Schienenfahrzeuge oder Fahrleitungsanlagen) die entstehen können, wenn Arbeiten im
+BEU gewertet [F2]. 
 
-Seite 28 von 36
+Handlungen des Fdl 
 
-Untersuchungsbericht
-Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl
+Zur  sicheren  Durchführung  der  Fahrten  auf  der  Infrastruktur  der  DB Netz AG  ha(cid:425)e  der 
 
-Gleisbereich bzw. in der Nähe des Gleisbereichs auszuführen sind. Wird als Ergebnis der
-vorzunehmenden Gefährdungsbeurteilung festgestellt, dass vom Bahnbetrieb Gefährdungen
-für die Arbeiten entstehen, so sind die geplanten Baumaßnahmen bei der BzS anzuzeigen. In
-dem Prozess der die beteiligten Stellen und die Zusammenarbeit der Verantwortlichen an
-einer Arbeitsstelle im Gleisbereich bei getrennter Vergabe von Bau- und Sicherungsleistung,
-siehe Abbildung 4, beschreibt ist die Erstellung und Anzeige der geplanten Arbeiten die auf
-Seite 1 des Sicherungsplans festgehalten ist, dargestellt. Mit der Anmeldung jeder einzelnen
-Tä gkeit im Gleis wird der Prozess für die Koordinierung von Sicherungsmaßnahmen zwischen
-Sicherungsunternehmen und ausführendem Unternehmen durch die BzS eingeleitet. Eine
-Anzeige der Arbeiten im Streckengleis Bf Hürth-Kalscheuren – Bf Brühl wurde durch das
-ausführende Unternehmen entgegen der Vorgaben aus DGUV 78 §3 Abs. 1 und
-Rahmenrichtlinie 132.0118 nicht vorgenommen.
-Prozesse des EIU
-Die BzS wählt als 2. Teil der Gefährdungsbeurteilung das erforderliche Sicherungsverfahren
-nach einer Risikobewertung auf der Grundlage der Anzeige durch das ausführende
-Unternehmen aus. Das angewandte Verfahren „RIMINI“ (formalisiertes Verfahren zur
-Auswahl einer risikominimalen Sicherungsmaßnahme für Arbeiten im Gleisbereich) und deren
-Systema k soll sicherstellen, dass immer eine der Gefährdungssitua on angemessene
-Sicherungsmaßnahme ausgewählt wird und nur mit einer dokumen erten und
-nachvollziehbaren
+betrieblich zuständige Fdl des Stellwerks Hürth-Kalscheuren untersetzende und ergänzende 
 
-Begründung
+unternehmensinterne  Arbeitsvorgaben  zu  beachten  und  umzusetzen,  unter  anderem  die 
 
-auf
+Fahrdienstvorschri(cid:332)  Ril 408,  das  Betriebsstellenbuch  und  im  Au(cid:332)ragsbuch  ausliegende 
 
-eine
+Au(cid:332)räge sowie betriebliche Mi(cid:425)eilungen. Des Weiteren lag die o. g. Betra F 351028 23 für das 
 
-in
+Bauprojekt „ESTW Linke Rheinseite“ auf dem Stellwerk aus. Diese Betra wurde am 09.12.2022 
 
-der
+auf das Stellwerk verteilt und damit die Vorlagefrist gemäß Ril 406 eingehalten. 
 
-Hierarchie
+Die  Rekonstruk(cid:415)on  der  betrieblichen  Handlungen  basierte  auf  den  Auswertungen  der 
 
-niederwer gere
+Fernsprechbücher  der  zuständigen  Fdl Hürth-Kalscheuren  und  Euskirchen  sowie  den 
 
-Sicherungsmaßnahme zurückgegriﬀen werden darf.
-Durch die BzS wird als 3. Teil der Gefährdungsbeurteilung das „Verfahren zur detaillierten
-Planung der Sicherungsmaßnahmen“11 angestoßen. Da das ausführende Unternehmen die im
-Streckengleis Hürth-Kalscheuren – Brühl geplanten Arbeiten bei der BzS nicht anzeigte,
-wurden seitens der BzS Sicherungsmaßnahmen weder festgelegt noch geplant.
-Gemäß § 4 Abs. 3 AEG sind Eisenbahnen verpflichtet, ihren Betrieb sicher zu führen, die
-Eisenbahninfrastruktur sicher zu bauen und in betriebssicherem Zustand zu halten.
-Bei Baumaßnahmen auf der Infrastruktur der DB Netz AG besteht beim Einsatz von externen
-Unternehmen grundsätzlich eine Überwachungspflicht des EIU. Diese umfasst u.a. das
+aufgezeichneten GSM-R-Gesprächen mit dem Technisch Berech(cid:415)gten. Diese Untersuchungen 
 
-11
+ergaben, dass die Ro(cid:425)e bereits am Morgen des 04.05.2023 auf der Strecke 2631 zwischen den 
 
-Quelle: BGI/GUV-I 781 3.2
+Betriebsstellen  Bf Hürth-Kalscheuren  und  dem  Bf Er(cid:332)stadt  zur  Durchführung  von 
 
-Seite 29 von 36
+Handstopfarbeiten  im  Einsatz  war.  Den  Aufzeichnungen  war  auch  zu  entnehmen,  dass  die 
 
-Untersuchungsbericht
-Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl
+Seite 14 von 36 
 
-Aufstellen und Kontrollieren rich ger, vollständiger und eindeu ger (klar, verständlich,
-adressatengerecht) Vorgaben für den oder die Erfüllungsgehilfen, so dass diese in die Lage
-versetzt werden, den ihnen obliegenden Pflichtenkreis (Durchführung von Arbeiten)
-umfassend zu erfüllen. Dies gilt umso mehr, je größer das Fach- und Systemwissen des
-Bauherrn ist. Im Regelfall hat die DB Netz AG als Infrastrukturbetreiberin im Eisenbahnsystem
-eine sicherheitliche Klammerfunk on.
-Bezüglich der Planung und Umsetzung von Sicherungsmaßnahmen bei Arbeiten im
-Gleisbereich werden durch das EIU Prozesse zur Einhaltung der Sicherheit vorgehalten. Diese
-Prozesse sollen organisatorisch sicherstellen, dass die beteiligten Akteure bei der Planung und
-Durchführung von Bau- und Sicherungsmaßnahmen die Vorgaben des EIU einhalten.
-Die Einkaufsrichtlinien der DB Netz AG legten die Anforderungen fest, die die Au ragnehmer
-zur Erbringung der vertraglich vereinbarten Bauleistung erfüllen mussten. Durch die
-sogenannte Präqualifizierung soll durch die Qualitätssicherung Beschaﬀung Infrastruktur
-sichergestellt werden, dass die unter Kapitel 3.1.2 genannten Akteure über die erforderlichen
-Vorbedingungen und Kenntnisse in eisenbahntechnischen Belangen verfügen. Eine
-Präqualifizierung konnte für die in Kapitel 3.1.2 genannten Personen oder Stellen
-nachgewiesen werden.
-Im Ergebnis ist festzustellen, dass auf Seiten des EIU grundsätzlich Prozesse zur
-Gefährdungsbeurteilung und Überwachung von Au ragnehmern für geplante Arbeiten im
-Gleisbereich vorhanden waren. Insbesondere durch die Einhaltung des vollständigen
-Prozesses, siehe Abbildung 4, kommt als systema sches Ergebnis der Gefährdungsbeurteilung
-ein Sicherungsplan zustande. Vorliegend wurde der Prozess durch das ausführende
-Unternehmen (als Au ragnehmer) nicht eingehalten und ein Sicherungsplan kam nicht
-zustande.
+ 
+ 
+Untersuchungsbericht 
 
-4.5 Frühere Ereignisse ähnlicher Art
-Der BEU sind aus der Vergangenheit ähnlich gelagerte Fälle, in denen Mitarbeiter in der
-Vorbereitung oder während der Durchführung von Arbeiten im Gleisbereich verletzt wurden
-oder zu Tode kamen, bekannt. Die nachfolgende Aufzählung erhebt keinen Anspruch auf
-Vollständigkeit, da Arbeitsunfälle im Sinne des § 8 Sozialgesetzbuch Siebtes Buch (SGB VII)
-gemäß Allgemeinverfügung der Eisenbahn-Untersuchungsstelle des Bundes nicht der
-Meldepflicht an die BEU unterliegen.
+Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl 
 
-Seite 30 von 36
+Arbeiten  im  Streckengleis  Bf Hürth-Kalscheuren – Bf Er(cid:332)stadt  um  08:31 Uhr  begonnen  und 
 
-Untersuchungsbericht
-Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl
+um  09:58 Uhr  beendet  wurden.  Von  10:57:08 Uhr  bis  10:57:59 Uhr  führte  der  Fdl Hürth-
 
-Am 15.08.2017 erfasste ein Zug bei der Durchfahrt durch den Bf Bad Soden-Salmünster einen
-Mitarbeiter der DB Netz AG in Höhe der Weiche 824. Der Mitarbeiter wurde tödlich verletzt.
-Durchgeführt wurden zum Ereigniszeitpunkt Vorbereitungsmaßnahmen für Arbeiten gemäß
-Betra an einer Weiche im Bf.
-Am 29.09.2019 erfasste der Zug RE-D 59672 bei der Einfahrt in den Bf Pleinfeld in Höhe der
-Weiche 1 eine Sicherungsaufsicht, die in einem nicht gesperrten Gleisbereich entlanglief.
-Am 24.05.2020 erfasste der DGS 40160 im Bf Weil am Rhein eine sich im Gleis au altende
-Person eines Sicherungsunternehmens.
-Am 25.10.2023 erfasste der Zug DPN 74049 im B Dresden-Altstadt eine Person, die sich im
-Rahmen von Arbeiten gemäß Betra in einem nicht gesperrten Gleis au ielt und verletzte diese
-tödlich.
-Am 01.07.2024 erfasste DPN 19598 zwischen dem Bf Bre en und dem Hp Gondelsheim einen
-Mitarbeiter einer sich neben dem Gleis befindlichen Arbeitsstelle. Der Mitarbeiter bewegte
-sich zu nah an den Gefahrenraum und wurde vom Zug erfasst.
-Am 09.10.2024 erfasste der ICE 1080 zwischen dem Bf Mainbernheim und dem Bf Kitzingen
-eine Sicherungsaufsicht und verletzte diese tödlich.
+Kalscheuren mit dem BÜB in der Funk(cid:415)on als Technisch Berech(cid:415)gten gemäß Punkt 4.2 der 
 
-5 Schlussfolgerungen
-Das folgende Kapitel enthält eine Zusammenfassung der ermi elten ursächlichen,
-beitragenden und systemischen Faktoren. Zusätzlich sind zwei weitere Unterkapitel
-vorgesehen, um Informa onen zu bereits ergriﬀenen Maßnahmen und zu zusätzlichen
-Bemerkungen zu teilen.
+o. g. Betra das folgende GSM-R Gespräch, siehe untenstehende Tabelle. 
 
-5.1 Zusammenfassung und Schlussfolgerung
-Die in diesem Untersuchungsbericht ermi elten Handlungen, Unterlassungen, Vorkommnisse
-oder Umstände führten zum Personenunfall am bewegten Eisenbahnfahrzeug zwischen dem
-Bf Hürth-Kalscheuren und dem Bf Brühl.
-Es wurden drei ursächliche, ein beitragender und drei systemische Faktoren mit Einfluss auf
-das Ereignis durch die BEU ermi elt.
+Fdl 
 
-Seite 31 von 36
+BÜB 
 
-Untersuchungsbericht
-Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl
+Fdl 
 
-Zu ursächlichem Faktor: „Gefährdungsbeurteilung durch Unternehmer nicht vollständig und
-prozesskonform durchgeführt“ [F1]:
-Aufgabe
+BÜB 
 
-der
+Fdl 
 
-M+K Tief- u. Kabelbau GmbH
+BÜB 
 
-war
+Fdl 
 
-es
+BÜB 
 
-zunächst,
+Fdl 
 
-anhand
+BÜB 
 
-einer
+Fdl 
 
-Gefährdungsbeurteilung, festzustellen, ob bei den geplanten Arbeiten Gefährdungen durch
-Fahrten für die Beschä igten seines Unternehmens entstehen können. Da anhand dieser
-Gefährdungsbeurteilung durch den Unternehmer festgestellt wurde, dass potenzielle
-Gefährdungen für seine Beschä igten entstehen können sollte in der Folge eine Anzeige der
-Arbeiten bei der BzS erfolgen, um Sicherungsmaßnahmen zu definieren und festzulegen.
-Sta dessen beau ragte das ausführende Unternehmen, unter Umgehung der BzS,
-unmi elbar das beteiligte Sicherungsunternehmen mit der Planung und Durchführung von
-Sicherungsmaßnahmen für die freie Strecke zwischen dem Bf Hürth-Kalscheuren und dem
-Bf Brühl. Die Disposi on der beiden Sicherungsposten, oﬀenbarte weiterhin, dass obwohl
-keine Angaben über die anstehenden Arbeiten bekannt waren, die Mitarbeiter spekula v
-dessen wie sie die Gleisbauarbeiten absichern sollten, zum Einsatz geschickt wurden.
-Die sowohl in der Rahmenrichtlinie 132.0118 als auch in der BGI/GUV-I 781 beschriebenen
-Prozessschri e bei der Beantragung von Sicherungsmaßnahmen wurden durch die
-M+K Tief-u. Kabelbau GmbH nicht eingehalten. Das ausführende Unternehmen war
-verantwortlich für die Ini ierung dieses Prozesses. Die vorhandene Präqualifizierung sollte
-sicherstellen, dass die M+K Tief- u. Kabelbau GmbH über die Prozesse der DB Netz AG Kenntnis
-ha e und diese zur Anwendung brachte.
-Es lag in der Unternehmerpflicht des ausführenden Unternehmens, entsprechend der
-Vorgaben aus der Rahmenrichtlinie 132.0118 und DGUV 78 eine Anzeige bei der BzS zu tä gen
-um als Resultat einen Sicherungsplan für die geplanten Arbeiten zu erhalten. Im Ergebnis der
-Sachverhaltsermi lungen wurde durch die BEU festgestellt, dass der Unternehmerpflicht bei
-der vollständigen und prozesskonformen Gefährdungsbeurteilung und Anzeige der Arbeiten
-nicht nachgekommen wurde.
-Zu beitragendem Faktor: „Prozess Baustellenplanung und Antragstellung zur Betra [F2]“
-Die vom Technisch Berech gten für die Anmeldung der Arbeiten herangezogene Betra
-F 351038 23 sah „Begehungen, Kontroll- und Vermessungsarbeiten (ESTW Linke Rheinseite)“
-auf den Strecken 2630 und 2631 vor. Die am Ereignistag durch die Ro e durchgeführten
-Handstopfarbeiten waren im Regelungsumfang der Betra nicht berücksich gt.
+BÜB 
 
-Seite 32 von 36
+Hürth‐Kalscheuren 
 
-Untersuchungsbericht
-Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl
+Guten Tag, (Namensnennung) 
+es geht…(unverständlich)… im 
+Brühl. 
 
-Unter Betrachtung der Untersuchungsergebnisse resul ert die Feststellung, dass die Abläufe
-innerhalb der Baustellenplanung und der Betra-Antragstellung als ein beitragender Faktor
-dieses Ereignisses zu werten sind. Im Falle eines korrekten Betra-Antrags wäre eine Betra
-erstellt worden, die Handstopfarbeiten beinhaltet hä e.
-Zu ursächlichem Faktor: „Arbeitsaufnahme trotz fehlender Voraussetzungen beabsich gt
-[F3]“
-Bei der Erstellung der Arbeitsanmeldung wurde durch das ausführende Unternehmen
-fälschlicherweise bestä gt, dass ein Sicherungsplan vorhanden war. Die abschließende
-Disposi on
+nochmal 
+Gleis von 
 
-der
+hier. Ich hä(cid:425)e gerne wenn 
+Hürth‐Kalscheuren nach 
 
-Mitarbeiter
+Was? Von Kalscheuren nach Brühl?? 
 
-der
+Ja – wir sind jetzt am km ca. 10,4. 
+Querungen stopfen. Nachstopfen. 
 
-M+K Tief- u. Kabelbau GmbH
+Wir wollen jetzt ähm 
 
-und
+Aha – wie lange braucht ihr denn? 
 
-des
+Ich brauch ca. 15 – 20 Minuten. 
 
-Sicherungsunternehmens wurde auf Basis dieser Arbeitsanmeldung durchgeführt.
-Obwohl spätestens bei der arbeitsvorbereitenden Besprechung zwischen ausführendem
-Unternehmen, Sicherungsunternehmen und des BÜB in der Funk on des Technisch
-Berech gten der fehlende Sicherungsplan hä e auﬀallen müssen, wurden weitere
-Vorbereitungen zu den anstehenden Handstopfarbeiten am Ereignistag getroﬀen. Mögliche
-Kontrollmechanismen, wie z. B. ein vier-Augen-Prinzip, fanden oﬀenbar nicht sta
+15‐20 Minuten?! Nee, kannste 
+hier fahren ja noch Züge! 
 
-oder
+wohl vergessen tagsüber mmmh 
 
-blieben wirkungslos.
-Trotz des fehlenden Prozessschri es der Anzeige von Arbeiten im Gleisbereich bei der BzS,
-siehe [F1], wurden zwei Mitarbeiter des Sicherungsunternehmens für die Sicherungsmaßnahmen am Ereignistag eingeplant. Unklar blieb, warum das Sicherungsunternehmen,
-oﬀensichtlich ohne Einvernehmen mit der BzS, Sicherungsmaßnahmen durchführen wollte.
-Ohne Anwendung der Risikobewertungsverfahren der BzS war eine situa v angepasste
-Sicherungsplanung nicht möglich.
-Zu ursächlichem Faktor: „Arbeitsaufnahme trotz fehlender Voraussetzungen [F4]“
-Nach Ankun
+…(unverständlich)… 
 
-der Ro e an der vorgesehenen Arbeitsstelle befand sich der Technisch
+Ja, ich schau 
+mindestens? 
 
-Berech gte noch in der Klärung mit dem zuständigen Fdl über eine benö gte Sperrpause zur
-Durchführung der Handstopfarbeiten, obwohl weder ein Sicherungsplan noch eine Betra
-vorlagen, welche die Arbeiten legi miert hä e. Die Ro e betrat schließlich mit
-Arbeitsgerätscha en unerlaubt den Gleisbereich.
+mal, ich hau mal die ZÜ an. Wieviel brauchste denn 
 
-Seite 33 von 36
+20 
 
-Untersuchungsbericht
-Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl
+Wieviel? 20?! 
+ZÜ fragen. 
 
-Zu den systemischen Faktoren:
-
+Kannste vergessen, das glaub ich nicht! Ich muss die 
 
-Fehlendes Sicherheitsbewusstsein des Unternehmers im Rahmen der
-Baustellenplanung [S1]
+Ja, okay, gut bis gleich. 
 
-
+Tabelle 5: GSM-R Gespräch zwischen Fdl Hürth-Kalscheuren und Technisch Berech(cid:415)gtem 
 
-Fehlendes Sicherheitsbewusstsein aller Beteiligten im Rahmen der
-Arbeitsvorbesprechung [S3] und
+Das o. g. Gespräch zeigte, dass die Ro(cid:425)e vom Streckengleis Hürth-Kalscheuren – Er(cid:332)stadt an 
 
-
+den Streckenkilometer 10,4 der Strecke Bf Hürth-Kalscheuren – Bf Brühl gewechselt war. Der 
 
-Fehlendes Sicherheitsbewusstsein aller Beteiligten im Rahmen der Arbeitsaufnahme
-[S4]
+BÜB ha(cid:425)e laut obenstehenden GSM-R Gespräch in der Funk(cid:415)on des Technisch Berech(cid:415)gten 
 
-Die
+die Absicht, eine Gleissperrung beim Fdl Hürth-Kalscheuren zu beantragen, damit die Ro(cid:425)e 
 
-Untersuchungen
+Handstopfarbeiten  durchführen  konnte.  Das  Ergebnis  dieses  Gesprächs  war,  dass  der  Fdl 
 
-ergaben,
+keine Zus(cid:415)mmung zu den Arbeiten erteilte und dass er zunächst die Zugüberwachung (ZÜ) 
 
-dass
+anrufen  wolle.  Weitere  GSM-R  Gespräche  wurden  erst  wieder  ab  11:03:53 Uhr,  nach 
 
-sich
+Ereigniseintri(cid:425), geführt. 
 
-ein
+Seite 15 von 36 
 
-mangelbeha etes
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-und
+Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl 
 
-fehlendes
+  Untersuchung	der	für	das	Ereignis	relevanten	Personen	und	Stellen	
 
-Sicherheitsbewusstsein für die sichere Durchführung von Bauarbeiten im Gleisbereich durch
-alle organisatorischen Ebenen der am Ereignis beteiligten Unternehmen zog.
-Beginnend
+In  diesem  Kapitel  wird  auf  weitere  für  das  Ereignis  relevante  Personen  und  Stellen 
 
-bei
+eingegangen. 
 
-der
+Ausführendes Unternehmen M+K Tief‐ u. Kabelbau GmbH 
 
-Sicherheitskultur
+Die DB Netz AG schloss mit dem ausführenden Unternehmen M+K Tief- u. Kabelbau GmbH für 
 
-des
+das  Projekt  „ESTW  Linke  Rheinseite“  einen  Rahmenvertrag  für  den  Kabel(cid:415)e(cid:297)au.  Im  Zuge 
 
-ausführenden
+dieser Baumaßnahme waren in mehreren Leistungsphasen neben Kabel(cid:415)e(cid:297)auarbeiten auch 
 
-Unternehmens
+die Herstellung von Gleisquerungen durch das ausführende Unternehmen durchzuführen. 
 
-M+K Tief- u. Kabelbau GmbH wurde es organisatorisch durch nicht eingehaltene Prozesse
-durch den Unternehmer erst möglich, dass seine Mitarbeiter ohne das Vorliegen eines
-gül gen Sicherungsplans auf die Baustelle im Streckengleis Hürth-Kalscheuren - Brühl
-disponiert wurden. Gleiches galt für
+Zur Planung und Durchführung einer Arbeitsstelle im Gleisbereich war die Zusammenarbeit 
 
-das Sicherungsunternehmen, welches die
+aller  Beteiligten  notwendig.  Bei  dem  vorliegenden  Ereignis  handelte  es  sich  um  eine 
 
-Sicherungsleistung eigenverantwortlich plante, ohne von der BzS beau ragt worden zu sein.
-Schlussendlich beanstandeten jedoch auch weitere Beteiligte wie die Sicherungsaufsicht und
-der BÜB den fehlenden Sicherungsplan, der den Abbruch der geplanten Handstopfarbeiten
-bedeutet hä e, nicht. Die Überprüfung des Vorhandenseins eines gül gen Sicherungsplans
-sowie die Überprüfung der Einhaltung der durch die BzS festgelegten Sicherungsverfahren ist
-ein zentrales Element des Arbeitsschutzes bei Arbeiten in und am Gleisbereich. Aus diesem
-Grund ergeht seitens der BEU die Sicherheitsempfehlung Nr. 06/2025. Es wird empfohlen,
-dass zur Beherrschung von Risiken die an der Planung und Ausführung von Baumaßnahmen
-beteiligten Stellen, ihre Mitarbeiter innerhalb der Arbeitsumgebung in Bezug auf den
-Arbeitsschutz überwachen und die Einhaltung konsequent einfordern. Hierüber sind
-Nachweise zu führen. (Delegierte Verordnung (EU) 2018/762 Anhang II Punkt 3.1.1.2)
-Die beteiligten Mitarbeiter der Ro e, bestehend aus vier Gleisbauarbeitern und zwei
-Sicherungsposten, waren in der Ausübung von Tä gkeiten im Gleisbereich erfahren und
-seitens ihrer Arbeitgeber unterwiesen. Sie waren bereits seit dem Morgen des 04.05.2023
-gemeinsam im Gleisbereich zur Durchführung von Handstopfarbeiten tä g.
+Maßnahme mit getrennter Vergabe von Bau- und Sicherungsleistung. 
 
-Seite 34 von 36
+Unternehmerpﬂichten 
 
-Untersuchungsbericht
-Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl
+Die  Pﬂichten  eines  ausführenden  Unternehmens  bei  der  geplanten  Durchführung  von 
 
-Vermutlich stellte sich durch die wiederkehrenden und gleichgelagerten Arbeitsabläufe eine
-gewisse Arbeitsrou ne und Gruppendynamik innerhalb der Ro e ein, die eine gemeinsame
-Sicherheitsverantwortung jedoch vermissen ließ. Obwohl weder ein gül ger Sicherungsplan
-für diese Arbeiten im Streckengleis vorlag noch ein Au rag des BÜB gegeben wurde begab
-sich die Ro e schlussendlich eigenini a v in den Gleisbereich. Aus welchem Grund diese
-letztliche Entscheidung, den Gleisbereich trotz fehlender Sicherung zu betreten, getroﬀen
-wurde konnte nicht abschließend aufgeklärt werden.
-Im Ergebnis wurde festgestellt, dass die Mitarbeiter der Ro e, trotz der nachweislich
-durchgeführten Unterweisungen bzgl. der Gefahren aus dem Eisenbahnbetrieb durch ihre
-jeweiligen Arbeitgeber, kein Situa onsbewusstsein für das unerlaubte Betreten des
-Gleisbereichs ha en. Hieraus kann resul erend festgestellt werden, dass Unterweisungen
-grundsätzlich erforderlich sind, um die Mitarbeiter auf die gefahrengeneigten Tä gkeiten im
-Gleisbereich vorzubereiten. Allerdings blieben diese durchgeführten Unterweisungen bei
-diesem Ereignis in der Praxis wirkungslos. Neben, schon aus gesetzlichen Anforderungen
-abzuleitenden, Unterweisungen der Mitarbeiter ist es unabdingbar, dass die Unternehmen
-eine Sicherheitskultur innerhalb ihrer Organisa on schaﬀen, in welcher sich die Mitarbeiter
-der hohen Bedeutung eines korrekten Verhaltens am und im Gleisbereich bei der
-Durchführung von Arbeiten bewusst sind. Dieser Prozess beginnt auf der Führungsebene eines
-jeden Unternehmens und sollte von dort ausgehend auf die Mitarbeiter, Zulieferer und
-weitere Au ragnehmer übertragen werden.
-Bei diesem Ereignis war fehlendes Sicherheitsbewusstsein für die Gefahren aus dem
-Bahnbetrieb bei den beteiligten Unternehmen, den Personen mit Aufsichtsfunk on vor Ort
-und handelnden Personen der Ro e deutlich erkennbar und sollte zur Vermeidung ähnlicher
-Ereignisse zukün ig verbessert werden. Aus diesem Grund ergeht seitens der BEU die
-Sicherheitsempfehlung mit Nr. 07/2025. Es wird empfohlen, dass die an der Planung und
-Ausführung von Baumaßnahmen beteiligten Stellen, ihre Mitarbeiter im Bereich des
-Sicherheitsbewusstseins stärker sensibilisieren. (Delegierte Verordnung (EU) 2018/762
-Anhang II Punkt 2.4.1)
+Arbeiten  im  Gleisbereich  resul(cid:415)eren  aus  der  Rahmenrichtlinie  132.0118,  die  durch  die 
 
-Seite 35 von 36
+Informa(cid:415)onsschri(cid:332)  BGI/GUV-I 781  „Sicherheitshinweise  für  Arbeiten  im  Gleisbereich  von 
 
-Untersuchungsbericht
-Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl
+Eisenbahnen“  untersetzt  wird.  Zur  Gewährleistung  der  Arbeitssicherheit  hat  die  Deutsche 
 
-5.2 Seit dem Ereignis getroffene Maßnahmen
-Der BÜB wurde nach dem Ereignis durch die DB Netz AG für weitere Einsätze gesperrt. Ob
-darüber hinaus weitere Maßnahmen durch das EIU veranlasst wurden ist der BEU nicht
-bekannt.
+Gesetzliche  Unfallversicherung 
 
-5.3 Zusätzliche Bemerkungen
-En ällt.
+(DGUV)  Vorschri(cid:332)en  erlassen.  Wenn  entsprechend 
 
-6 Sicherheitsempfehlungen
-Gemäß § 6 EUV und Art. 26 Abs. 2 der Richtlinie (EU) 2016/798 ergehen nachfolgende
-Sicherheitsempfehlungen:
-Lfd. Nr.
+DGUV 38 § 6 Abs. 4 für die Versicherten bei Bauarbeiten mit Gefahren aus dem Verkehr von 
 
-Adressat und Sicherheitsempfehlung
+Land-, Wasser- oder Lu(cid:332)ahrzeugen zu rechnen ist, so hat der Unternehmer dafür zu sorgen, 
 
-Betri
+dass im Benehmen mit deren Eigentümern oder Betreibern Sicherungsmaßnahmen festgelegt 
 
-06/2025
+werden.  Die  DGUV  78  regelt  für  Arbeiten  im  Bereich  von  Gleisen  in  § 3  Abs. 1,  dass  der 
 
-Sicherheitsbehörde:
+Unternehmer  Beginn,  Änderungen  und  Ende  von  Arbeiten  im  Gleisbereich  und  die 
 
-EIU
+erforderlichen Räumzeiten der BzS so rechtzei(cid:415)g anzuzeigen hat, dass diese die erforderlichen 
 
-Es wird empfohlen, dass zur Beherrschung von
-Risiken die an der Planung und Ausführung von
-Baumaßnahmen beteiligten Stellen ihre Mitarbeiter
-innerhalb der Arbeitsumgebung in Bezug auf den
-Arbeitsschutz überwachen und die Einhaltung
-konsequent einfordern. Hierüber sind Nachweise zu
-führen.
-(Delegierte Verordnung (EU) 2018/762 Anhang II
-Punkt 3.1.1.2)
+Sicherungsmaßnahmen gegen die Gefahren aus dem Bahnbetrieb anordnen oder durchführen 
 
-Au ragnehmer des
-EIU
+kann.  Mit  den  Arbeiten  darf  erst  begonnen  werden,  wenn  die  Sicherungsmaßnahmen 
 
-Sicherheitsbehörde:
+durchgeführt sind. 
 
-EIU
+Wesentliche  Bestandteile  der  Unternehmerpﬂichten  waren  gemäß  Rahmenrichtlinie 
 
-Es wird empfohlen, dass die an der Planung und
-Ausführung von Baumaßnahmen beteiligten Stellen
-ihre Mitarbeiter im Bereich des
-Sicherheitsbewusstseins stärker sensibilisieren.
-(Delegierte Verordnung (EU) 2018/762 Anhang II
-Punkt 2.4.1)
+132.0118 zudem folgende Punkte: 
 
-Au ragnehmer des
-EIU
+Seite 16 von 36 
 
-07/2025
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Unternehmen
+Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl 
 
-Seite 36 von 36
+„01 Zweck 
 
+(1) Die für Arbeiten im Gleisbereich geltende Rahmenrichtlinie 132.0118 setzt die 
+
+Vorgaben der Unfallversicherungsträger, insbesondere DGUV und Regel 101‐104 
+
+bahnspeziﬁsch um. Sie ist Sicherungsanweisung im Sinne § 4 (1) DGUV Vorschri(cid:332) 78. 
+
+(2) Diese Rahmenrichtlinie beschreibt Aufgaben, Kompetenzen und Verantwortung:  
+
+  des Bahnbetreibers, 
+
+  der für den Bahnbetrieb zuständigen Stelle, 
+
+  des ausführenden Unternehmens, 
+
+  des Sicherungsunternehmens, 
+
+  der an Sicherungsmaßnahmen Beteiligten, 
+
+  bei Arbeiten im Gleisbereich an Bahn und anderen Anlagen“4 
+
+Bei geplanten Arbeitsstellen im Gleisbereich ist das ausführende Unternehmen im Rahmen 
+
+einer  Gefährdungsbeurteilung  verpﬂichtet,  zu  prüfen,  ob  bei  diesen  Arbeiten  für  die 
+
+Mitarbeiter Gefahren  durch  den  Bahnbetrieb  entstehen  können.  „Wird  diese  Frage  bejaht, 
+
+müssen die Arbeiten vom Unternehmer bei der BzS rechtzei(cid:415)g angezeigt werden (Bringschuld 
+
+des  Unternehmers)“5.  Diese  vom  ausführenden  Unternehmen  bzgl.  der  Durchführung  von 
+
+Arbeiten im Rahmen des Projekts „ESTW Linke Rheinseite“ erstellte Gefährdungsbeurteilung 
+
+wurde  der  BEU  vorgelegt.  Daraus  ging  hervor,  dass  bei  den  projektbezogenen  geplanten 
+
+Arbeiten Gefährdungen für die eigenen Mitarbeiter entstehen können. 
+
+Gemäß  Kapitel 3.2  der  BGI/GUV-I 781  waren  durch  das  ausführende  Unternehmen 
+
+M+K Tief- u. Kabelbau GmbH somit folgende Informa(cid:415)onen unter Nutzung der „Seite 1“ des 
+
+Sicherungsplans bei der BzS anzuzeigen: 
+
+  „Art, Ort und Zeitdauer der Arbeiten, auch die tägliche Arbeitszeit 
+
+  Arbeitsumfang (z. B. Personenzahl, Anzahl der Arbeitsgruppen) 
+
+  Arbeitsstellenlänge 
+
+  Arbeitsstellenbreite 
+
+  Angaben zu vorbereitenden und nachlaufenden Tätigkeiten 
+
+4 DB Netz AG, Rahmenrichtlinie 132.118 
+
+5 BGI/GUV-I 781 Kapitel 3.2 
+
+Seite 17 von 36 
+
+ 
+ 
+                                                       
+Untersuchungsbericht 
+
+Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl 
+
+  Angaben über Wege zur und von der Arbeitsstelle 
+
+  Angaben zu wandernden Arbeitsstellen 
+
+  Genaue Lage des Arbeitsbereichs (wird ausschließlich neben den Gleisen gearbeitet 
+
+oder sind Arbeiten im Gleis erforderlich?) 
+
+  Abstand zwischen Arbeitsbereich und Betriebsgleis 
+
+  Räumzeit 
+
+  Einsatz von Maschinen.“6 
+
+Nach Anzeige durch das ausführende Unternehmen werden durch die BzS verantwortlich die 
+
+Sicherungsmaßnahmen  gegen  Gefahren  aus  dem  Bahnbetrieb  entsprechend  der 
+
+Maßnahmenhierarchie im Arbeitsschutz und dem Regelwerk festgelegt. Die BzS entscheidet 
+
+über  Sicherungsmaßnahmen,  beau(cid:332)ragt  die  Sicherungsleistungen  und  legt  betriebliche 
+
+Maßnahmen fest. Das Sicherungsunternehmen wird im Anschluss auf dieser Grundlage mit 
+
+der Detailplanung und Durchführung der Sicherung und ggf. mit der Montage und Bedienung 
+
+technischer 
+
+Sicherungssysteme 
+
+beau(cid:332)ragt.  Die 
+
+von 
+
+der 
+
+BzS 
+
+festgelegten 
+
+Sicherungsmaßnahmen  müssen  durch  das  ausführende  Unternehmen  zum  Schutz  der 
+
+Arbeitnehmer  beachtet  werden.  Gemäß  der  Rahmenrichtlinie  132.0118  A01  (6)  muss  das 
+
+ausführende  Unternehmen  seine  Beschä(cid:332)igten,  die  Arbeiten  im  Gleisbereich  durchführen, 
+
+vor Aufnahme seiner Tä(cid:415)gkeit und bei einer Änderung der Gefährdung über den Inhalt des 
+
+Sicherungsplanes arbeitsplatzbezogen unterweisen. 
+
+Anweisungen an die Mitarbeiter sowie die Entscheidung zur Aufnahme der Arbeiten werden 
+
+durch den Bauüberwacher in der Funk(cid:415)on als Technisch Berech(cid:415)gter getroﬀen. Dieser in der 
+
+BGI/GUV-I 781 festgelegte Ablauf ist der folgenden Abbildung zu entnehmen. 
+
+6 Quelle: BGI/GUV-I 781, Kapitel 3.2  
+
+Seite 18 von 36 
+
+ 
+ 
+                                                       
+Untersuchungsbericht 
+
+Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl 
+
+Abbildung 4: Beteiligte Stellen und Zusammenarbeit der verantwortlichen Arbeitsstellen im Gleisbereich7 
+
+Die  Untersuchungen  der  BEU  konzentrierten  sich  auf  die  oben  beschriebene 
+
+Prozessabwicklung zur Festlegung von Sicherungsmaßnahmen. Dabei wurde festgestellt, dass 
+
+keine  Anzeige  durch  das  ausführende  Unternehmen  zu  den  geplanten  Arbeiten  im 
+
+Gleisbereich bei der BzS erfolgte, sondern das Sicherungsunternehmen unmi(cid:425)elbar durch das 
+
+ausführende Unternehmen beau(cid:332)ragt wurde. 
+
+Auf  Grund  dieser  Vorgehensweise  konnte  der  oben  dargestellte  Sollprozess  zur  Erstellung 
+
+eines Sicherungsplanes durch die BzS nicht umgesetzt werden. 
+
+Im Ergebnis wurde festgestellt, dass bei dem vorliegenden Ereignis der Unternehmerpﬂicht 
+
+durch  das  ausführende  Unternehmen  M+K Tief- u. Kabelbau GmbH  nicht  vollumfänglich 
+
+nachgekommen  wurde.  Trotz  durchgeführter  Gefährdungsbeurteilung  und  dem  Ergebnis, 
+
+dass  durch  die  geplanten  Arbeiten  Gefährdungen  der  Mitarbeiter  durch  den  Bahnbetrieb 
+
+7 Quelle: BGI/GUV-I 781, Kap. 3.1, Abb. 3-1 
+
+Seite 19 von 36 
+
+ 
+ 
+ 
+                                                       
+Untersuchungsbericht 
+
+Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl 
+
+entstehen können, wurde für die Arbeiten im Streckengleis Bf Hürth-Kalscheuren – Bf Brühl 
+
+keine Anzeige der durchzuführenden Arbeiten durch das ausführende Unternehmen bei der 
+
+BzS getä(cid:415)gt.  
+
+Die  Ergebnisse  der  Gefährdungsbeurteilung  wurden  nicht  prozesskonform  an  die  BzS 
+
+weitergegeben. Dies wurde durch die BEU als ursächlicher Faktor [F1] gewertet. 
+
+Sicherungsunternehmen B+S Bau und Sicherungsgesellscha(cid:332) mbH 
+
+Die Aufgaben der an der Sicherungsplanung und -durchführung beteiligten Personen waren 
+
+im Anhang 01 der Rahmenrichtlinie 132.0118 festgelegt. Gemäß dieser Rahmenrichtlinie wird 
+
+das  Sicherungsunternehmen  durch  die  BzS  beau(cid:332)ragt  eine  Detailplanung  der 
+
+Sicherungsmaßnahmen  zu  erstellen  und  die  entsprechenden  Sicherungsmaßnahmen 
+
+durchzuführen.  Da  es  bei  diesem  Ereignis  keinen  Au(cid:332)rag  der  BzS  mit  Angaben  zu 
+
+Sicherungsmaßnahmen für das Sicherungsunternehmen gab, beabsich(cid:415)gte die B+S Bau und 
+
+Sicherungsgesellscha(cid:332) mbH,  Sicherungsmaßnahmen  ohne  die 
+
+in  der  einschlägigen 
+
+Rahmenrichtlinie  132.0118  vorgesehene  Legi(cid:415)ma(cid:415)on  durchzuführen.  Obwohl  ein  konkret 
+
+anzuwendendes  Sicherungsverfahren  für  das  Streckengleis  Hürth–Kalscheuren – Brühl  dem 
+
+Sicherungsunternehmen nicht bekannt sein konnte, waren eine Sicherungsaufsicht und zwei 
+
+Sicherungsposten am Ereignisort.  
+
+Bauüberwacher Bahn 
+
+Der BÜB meldete am 04.05.2023 um 08:31 Uhr Arbeiten gemäß Betra F 351038 23 bei dem 
+
+Fdl Euskirchen in der Funk(cid:415)on als Technisch Berech(cid:415)gter gemäß Punkt 4.2 der Betra an. 
+
+Zu  seinen  Aufgaben  zählte  u.  a.  das  Treﬀen  betrieblicher  Vereinbarungen  mit  dem  Fdl 
+
+einschließlich  der  dazugehörigen  Dokumenta(cid:415)on.  In  Rahmen  seiner  Tä(cid:415)gkeiten  war  der 
+
+Mitarbeiter  in  der  Funk(cid:415)on  des  Technisch  Berech(cid:415)gten  für  die  Überwachung  des  sicheren 
+
+Baustellenbetriebs verantwortlich. Gemäß Rahmenrichtlinie 132.0118 (3) war er befähigt die 
+
+Funk(cid:415)on  der  Sicherungsüberwachung  auszuüben.  Daraus  resul(cid:415)erend  ha(cid:425)e  er  u. a.  die 
+
+Aufgabe vor Beginn der Arbeiten die Übereins(cid:415)mmung der Sicherungsmaßnahmen mit der 
+
+Sicherungsplanung abzugleichen. 
+
+Zwischen  08:31 Uhr  und  09:58 Uhr  vereinbarte  er  Gleissperrungen  im  Streckengleis  Hürth-
+
+Kalscheuren – Er(cid:332)stadt  und  Gegenrichtung.  Die  mit  dem  Fdl  zu  diesem  Zweck  geführten  
+
+GSM-R  Gespräche  dokumen(cid:415)erte  er 
+
+in  seinem  persönlichen  Fernsprechbuch.  Um 
+
+Seite 20 von 36 
+
+ 
+ 
+Untersuchungsbericht 
+
+Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl 
+
+10:57:08 Uhr  rief  er  den  Fdl  Hürth-Kalscheuren  an,  um  eine  Gleissperrung  für  geplante 
+
+Arbeiten zwischen den Betriebsstellen Bf Hürth-Kalscheuren und Bf Brühl zu beantragen, was 
+
+der Fdl aufgrund hoher Zugfolge ablehnte und auf seine Rücksprache mit der ZÜ verwies. Zum 
+
+Zeitpunkt des Ereignisses wartete der BÜB nach eigener Aussage noch auf die Rückmeldung 
+
+aus dem Gespräch zwischen dem Fdl Hürth-Kalscheuren und der ZÜ. In der Zwischenzeit begab 
+
+sich die Ro(cid:425)e in den Gleisbereich. Aus den nach dem Ereignis geführten GSM-R Gesprächen 
+
+mit  dem  Fdl  ging  hervor,  dass  der  BÜB  die  mehrmaligen  Achtungssignale  wahrgenommen 
+
+ha(cid:425)e,  sie  aber  nicht  dem  unerlaubten  Betreten  des  Gleisbereiches  durch  die  Ro(cid:425)e  habe 
+
+zuordnen können. 
+
+Ein  gül(cid:415)ger  Sicherungsplan  für  die  am  04.05.2023  zwischen  den  Betriebsstellen  Bf Hürth-
+
+Kalscheuren  und  Bf Brühl  geplanten  Arbeiten  im  Gleisbereich  lag  nicht  vor.  Trotz  der 
+
+fehlenden Unterlagen leitete der Technisch Berech(cid:415)gte mi(cid:425)els eines GSM-R Gespräches die 
+
+Arbeitsvorbereitung beim zuständigen Fdl ein. 
+
+  Untersuchung	der	betrieblichen	Abläufe	des	EVU	
+
+Das EVU DB Fernverkehr AG war zum Zeitpunkt des Ereignisses das verantwortliche EVU für 
+
+die Zugfahrt IC 2005 und verfügte über eine Sicherheitsbescheinigung gemäß § 7a AEG. Der 
+
+Zug IC 2005 sollte planmäßig auf dem Laufweg von Emden Hbf nach Koblenz Hbf verkehren. 
+
+Die  im  führenden  Triebfahrzeug  (Tfz)  der  Baureihe  (BR) 147.5  gespeicherten  Daten  der 
+
+Elektronischen  Fahrtenregistrierung  wurden  vom  EVU  ausgelesen  und  der  BEU  zur 
+
+Auswertung übergeben. Die Auswertung ergab, dass bei einer Geschwindigkeit von 159 km/h 
+
+der Hauptlu(cid:332)leitungsdruck auf unter 2,2 bar ﬁel, was auf die Einleitung einer Schnellbremsung 
+
+hindeutete. 
+
+Laut Aussage des Tf des IC 2005 waren die Personen trotz des von ihm mehrmalig gegebenen 
+
+Achtungspﬁﬀs dem entgegenkommenden Zug IC 2049 zugewandt. Dies deckte sich mit der 
+
+Stellungnahme des Tf des entgegenkommenden Zuges IC 2049. Demnach waren die Personen 
+
+im Gegengleis seinem Zug IC 2049 zugewandt und hoben die Hand zum Zeichen, dass man den 
+
+Zug erkannt habe. Eine sofort eingeleitete Schnellbremsung durch den Tf des Zuges IC 2005 
+
+konnte den Aufprall mit der Ro(cid:425)e nicht verhindern.  
+
+Seite 21 von 36 
+
+ 
+ 
+Untersuchungsbericht 
+
+Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl 
+
+4.2  Fahrzeuge	und	technische	Einrichtungen	
+
+In  diesem  Kapitel  sind  die  Erkenntnisse  aus  der  Untersuchung  beteiligter  Fahrzeuge,  der 
+
+Eisenbahninfrastruktur und weiterer technischer Einrichtungen einschließlich damit eventuell 
+
+verbundener Tä(cid:415)gkeiten und Entscheidungen dargestellt. 
+
+  Untersuchung	von	Fahrzeugen	
+
+Bei dem an dem Ereignis beteiligten Zug IC 2005 handelte es sich um einen Doppelstock-IC mit 
+
+fester  Zugbildung,  bestehend  aus  einem  Tfz  der  BR 147.5  mit  der  Fahrzeugnummer 
+
+91 80 6147 567 2 und fünf Doppelstockwagen mit den Fahrzeugnummern 50 80 1681 192 1, 
+
+50 80 2681 597 9,  50 80 2681 596 1,  50 80 2681 585 4,  50 80 8681 893 9. 
+
+Sämtliche 
+
+Fahrzeuge wurden von der Firma Bombardier Transporta(cid:415)on hergestellt und in den Jahren 
+
+2015-2018 in Betrieb genommen. 
+
+Der Zug IC 2005 ha(cid:425)e eine Gesamtlänge von 154 m, ein Gesamtzuggewicht von 392 t und ein 
+
+Gesamtbremsgewicht  von  793 t. 
+
+In  der  Bremsstellung  R/P  verfügte  der  Zug  über 
+
+202 Bremshundertstel  gegenüber  den 
+
+laut  Fahrplan  geforderten  199 Mindestbrems-
+
+hundertsteln. 
+
+Das am Ereignis beteiligte Fahrzeug wurde hinsichtlich der Anforderungen soweit untersucht, 
+
+dass das Vorliegen von ereignisrelevanten Faktoren ausgeschlossen werden konnte.  
+
+  Untersuchung	der	bautechnischen	Infrastruktur	
+
+Aufgrund der Erkenntnisse zum Ereignishergang und der Sachverhaltsermi(cid:425)lung konnte auf 
+
+weiterführende oberbautechnische Untersuchungen der Gleise verzichtet werden.  
+
+  Untersuchung	der	Leit‐	und	Sicherungstechnik	
+
+Basierend auf den Erkenntnissen zum Ereignisverlauf und der Sachverhaltsermi(cid:425)lung war es 
+
+nicht  erforderlich,  weitere  Untersuchungen  bezüglich  der  Leit-  und  Sicherungstechnik 
+
+durchzuführen.  
+
+4.3  Menschliche	Faktoren	
+
+In diesem Kapitel werden Untersuchungserkenntnisse zu menschlichen Handlungen und/oder 
+
+Entscheidungen  am  gefährlichen  Ereignis  beteiligter  Personen  dargestellt.  Entsprechende 
+
+Erkenntnisse  können  sich  hierbei  insbesondere  im  Bereich  menschlicher  und  individueller 
+
+Merkmale sowie organisatorischer und Arbeitsplatzfaktoren ergeben. 
+
+Seite 22 von 36 
+
+ 
+ 
+Untersuchungsbericht 
+
+Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl 
+
+  Ausführendes	Unternehmen	M+K	Tief‐	u.	Kabelbau	GmbH	
+
+Es oblag dem ausführenden Unternehmen M+K Tief- u. Kabelbau GmbH, entsprechend den 
+
+Vorgaben der BGI/GUV-I 781 im Rahmen der Arbeitsvorbereitung zu beurteilen, ob durch den 
+
+Bahnbetrieb Gefährdungen bei der Durchführung der geplanten Arbeiten entstehen könnten. 
+
+Eine Gefährdungsbeurteilung für Gleisbauarbeiten im Projekt „ESTW Linke Rheinseite“ wurde 
+
+durch das ausführende Unternehmen durchgeführt. Die Unterlagen die der BEU zur Verfügung 
+
+gestellt  wurden  belegten,  dass  alle  Mitarbeiter  gemäß  Berufsgenossenscha(cid:332)liche 
+
+Vorschri(cid:332)en A1 §7 Abs. 2,  Arbeitsschutzgesetz  §12,  Betriebssicherheitsverordnung  §9, 
+
+Gefahrstoﬀverordnung  §14 Abs.  2  vor  Aufnahme  der  Tä(cid:415)gkeiten  bei  dem  ausführenden 
+
+Unternehmen M+K Tief- u. Kabelbau GmbH unterwiesen wurden. 
+
+Am  Ereignistag  waren Handstopfarbeiten  an  einigen  Gleisquerungen  vorgesehen die  durch 
+
+das ausführende Unternehmen M+K Tief- u. Kabelbau GmbH durchgeführt werden sollten. 
+
+Die  Disposi(cid:415)on  von  vier  Mitarbeitern  erfolgte  seitens  des  ausführenden  Unternehmens. 
+
+Mi(cid:425)els  einer  Arbeitsanmeldung/eines  Wochenplans,  die  zur  Planung  der  Baustellenlogis(cid:415)k 
+
+diente,  siehe  Abbildung  5,  wurden  die  Mitarbeiter,  mit  den  Arbeiten  beau(cid:332)ragt.  In  der 
+
+Arbeitsanmeldung/dem  Wochenplan  wurde  durch  das  ausführende  Unternehmen  ein 
+
+vorhandener Sicherungsplan bestä(cid:415)gt. 
+
+Abbildung 5: Arbeitsanmeldung/Wochenplan vom 04.05.20238 
+
+Zur  Arbeitsvorbereitung  innerhalb  des  Projekts  „ESTW  Linke  Rheinseite“  wurden  nach 
+
+Aussage  der  beteiligten  Unternehmen  tägliche  Besprechungen  mit  Vertretern  der 
+
+DB Engineering & Consul(cid:415)ng GmbH, des ausführenden Unternehmens M+K Tief- u. Kabelbau 
+
+GmbH, des BÜB der Firma Vössing Ingenieurgesellscha(cid:332) mbH, sowie der Sicherungsfachkra(cid:332) 
+
+der  Firma  B+S  Bau  und  Sicherungsgesellscha(cid:332)  mbH  zur  Abs(cid:415)mmung  der  täglich 
+
+8Quelle: M+K Tief- u. Kabelbau GmbH, bearbeitet durch BEU 
+
+Seite 23 von 36 
+
+ 
+ 
+ 
+                                                       
+Untersuchungsbericht 
+
+Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl 
+
+durchzuführenden  Arbeiten  durchgeführt.  In  der  arbeitsvorbereitenden  Besprechung  am 
+
+Morgen  des  Ereignistags  wurden  die  vorzunehmenden  Arbeiten  auf  Basis  der/des  o.  g. 
+
+Arbeitsanmeldung/Wochenplans koordiniert. 
+
+Baubesprechungen zum Projekt „ESTW Linke Rheinseite“ 
+
+Vertreter  des  ausführenden  Unternehmens  nahmen  darüber  hinaus  an  regelmäßigen 
+
+Baubesprechungen zum Projekt „ESTW Linke Rheinseite“ teil. Bei diesen Baubesprechungen 
+
+war  ein  großer  Teilnehmerkreis,  u.  a.  bestehend  aus  Projektleitung  und  Vertretern  der 
+
+jeweiligen  Arbeitsabschni(cid:425)e,  beteiligt.  Im  Protokoll  der  Baubesprechung  Nr. 73  vom 
+
+04.04.2023  wurde  unter  Punkt 0.2.2.1  festgehalten,  dass  das  Sicherungsunternehmen 
+
+B+S  Bau  und  Sicherungsgesellscha(cid:332)  mbH  die  Schni(cid:425)stelle  zur  BzS  darstellte  und  die 
+
+Koordinierung zur Erstellung von Sicherungsplänen übernehmen sollte. Weiterhin wurde in 
+
+dieser Besprechung als Ergebnis dokumen(cid:415)ert, dass die Erstellung von Sicherungsplänen „auf 
+
+das Nö(cid:415)gste zu reduzieren“9 sei. Die „Seite 1“ des Sicherungsplans sollte vom ausführenden 
+
+Unternehmen  M+K  Tief-  u.  Kabelbau  GmbH  beim  Sicherungsunternehmen  eingereicht 
+
+werden.  Diese  Festlegungen  aus  der  Baubesprechung  standen  dem  Sollprozess  der 
+
+Rahmenrichtlinie 132.0118, siehe Abbildung 4, entgegen. Die Anzeige der Maßnahmen hä(cid:425)e 
+
+durch das ausführende Unternehmen M+K Tief- u. Kabelbau GmbH direkt an die BzS gerichtet 
+
+werden müssen. 
+
+Bei Einhaltung des Sollprozesses hä(cid:425)e die Vorlaufzeit für die Erstellung des Sicherungsplans 
+
+ab  dem  16.01.2023  20 Arbeitstage  (Mo-Fr  ohne  Feiertage)  betragen.  Eine  Unterschreitung 
+
+dieser  Frist  wäre  nur  bei  Maßnahmen  zur  dringlichen  Fehlerbesei(cid:415)gung  und 
+
+Sofortmaßnahmen  gemäß  Ril 406.1101A01  zulässig  gewesen.  In  diesem  Fall  hä(cid:425)e  der 
+
+Sicherungsplan  bis  spätestens  fünf  Arbeitstage  vor  Inkra(cid:332)setzung  vollständig  ausgefüllt 
+
+vorliegen müssen. 
+
+Im Protokoll der Baubesprechung Nr. 73 vom 04.04.2023 hieß es unter Punkt 2.1.4.5 weiter: 
+
+„Im  Zuge  der  Regelinspek(cid:415)onen  wurden  Gleislagefehler  im  Gl. 3/4  im  Bf  Hürth‐Kalscheuren 
+
+ermi(cid:425)elt. Zeitnah ist ein Nachstopfen der Querungen inkl. Gleislagemessungen erforderlich“10. 
+
+Ein  Au(cid:332)rag  zu  notwendigen,  projektbezogenen  Handstopfarbeiten  im  Streckengleis  Hürth-
+
+9 Baubesprechung Nr. 73, Punkt 0.2.2.1 
+
+10Baubesprechung Nr. 73, Punkt 2.1.4.5 
+
+Seite 24 von 36 
+
+ 
+ 
+                                                       
+Untersuchungsbericht 
+
+Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl 
+
+Kalscheuren –Brühl wurde in der Baubesprechung nicht dokumen(cid:415)ert. Zu welchen Anteilen 
+
+die  Stopfarbeiten  der  Ro(cid:425)e  am  Ereignistag  im  Rahmen  einer  Sofortmaßnahme  notwendig 
+
+wurden, konnte durch die BEU nicht ermi(cid:425)elt werden. 
+
+Im 
+
+Ergebnis 
+
+wurde 
+
+festgestellt, 
+
+dass 
+
+das 
+
+ausführende 
+
+Unternehmen 
+
+M+K Tief- u. Kabelbau GmbH den Unternehmerpﬂichten bei der Anzeige der Arbeiten bei der 
+
+BzS nicht gerecht wurde. Fälschlicherweise wurde seitens des Unternehmers bestä(cid:415)gt, dass 
+
+ein  Sicherungsplan 
+
+für  die  geplanten  Arbeiten  vorhanden  sei.  Auch  bei  der 
+
+arbeitsvorbereitenden Besprechung am 04.05.2023 wurde der fehlende Sicherungsplan nicht 
+
+beanstandet.  Die  BEU  wertet  den  Umstand,  dass  die  Arbeitsaufnahme  trotz  fehlender 
+
+Voraussetzungen beabsich(cid:415)gt wurde als ursächlichen Faktor. [F3]  
+
+  Sicherungsunternehmen	
+
+Das Sicherungsunternehmen gab auf Anfrage der BEU an, dass sich die Mitarbeiter auf Basis 
+
+der  vom  ausführenden  Unternehmen  erstellten  Arbeitsanmeldung,  im  Anschluss  an  eine 
+
+obligatorisch  durchgeführte  morgendliche  Besprechung,  zum  geplanten  Treﬀpunkt  der 
+
+Baustelle begaben.  
+
+Wegen  der  unterlassenen  Anzeige  der  Arbeiten  bei  der  BzS  durch  das  ausführende 
+
+Unternehmen M+K Tief- u. Kabelbau GmbH war die BzS nicht in den Prozess zur Erstellung 
+
+eines  Sicherungsplans  eingebunden.  In  der  Folge  lag  dem  Sicherungsunternehmen  kein 
+
+Sicherungsplan vor. 
+
+Das Sicherungsunternehmen disponierte eine Sicherungsaufsicht und zwei Sicherungsposten. 
+
+Gemäß Punkt 06 (5) des Anhang A01 der Rahmenrichtlinie 132.0118 gehörte zu den Aufgaben 
+
+der  Sicherungsaufsicht,  dass  sich  die  Sicherungsaufsicht  bei  der  Anpassung  von 
+
+Sicherungsmaßnahmen an veränderte Gefahrensitua(cid:415)onen mit der Sicherungsüberwachung 
+
+abs(cid:415)mmen muss. 
+
+Insofern waren die Grundlagen zur Sicherung der Arbeiten nicht gegeben und hä(cid:425)en nicht 
+
+durchgeführt werden dürfen. 
+
+Inwieweit die Anwesenheit der Sicherungsaufsicht, deren Aufgabe es war Sicherungsposten 
+
+einzuweisen,  einzuteilen  und  zu  überwachen,  Einﬂuss  auf  die  Handlungen  der  Ro(cid:425)e  ha(cid:425)e 
+
+konnte durch die BEU nicht ermi(cid:425)elt werden.  
+
+Seite 25 von 36 
+
+ 
+ 
+Untersuchungsbericht 
+
+Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl 
+
+  Qualifikation	und	Handlungen	des	Technisch	Berechtigten	
+
+Gemäß seinem Befähigungsausweis, ausgestellt am 12.02.2016 durch die DB Netz AG, war der 
+
+BÜB für das Fachgebiet Oberbau/Konstruk(cid:415)ver Ingenieurbau befähigt. Darüber hinaus war er 
+
+zur Ausübung der Funk(cid:415)on Betra-Antragsteller gemäß Ril 406.1201 befugt. 
+
+Der  eingesetzte  Mitarbeiter  ha(cid:425)e  die  Befähigung  als  BÜB  in  der  Funk(cid:415)on  des  Technisch 
+
+Berech(cid:415)gten  tä(cid:415)g  zu  werden  und  war  unterwiesen.  Die  Teilnahme  an  regelmäßigen 
+
+Fortbildungen  sowie  die  medizinische  Tauglichkeit  waren  in  seinem  Befähigungsausweis 
+
+dokumen(cid:415)ert. Ein Nachweis über die „Einweisung des Fachbauüberwachers Oberbau in die 
+
+Örtlichkeit  und  die  bahnbetrieblichen  Gegebenheiten“  wurde  seitens  des  EIU  schri(cid:332)lich 
+
+vorgelegt.  Verantwortlich  für  diese  Einweisung  war  der  leitende  Bauüberwacher  der  Firma 
+
+DB Engineering & Consul(cid:415)ng GmbH. 
+
+Der  BÜB  war  darüber  hinaus  befähigt,  die  Aufgaben  der  Sicherungsüberwachung  gemäß 
+
+Rahmenrichtlinie  132.0118  wahrzunehmen.  Dies  setzte  voraus,  dass  sowohl  die 
+
+Funk(cid:415)onsausbildung  zum  Sicherungsüberwacher  gemäß  Ril  046.2531  als  auch  die 
+
+Funk(cid:415)onsausbildung  zur  Sicherungsaufsicht  gemäß  Ril  046.2529  erfolgreich  abgeschlossen 
+
+wurden. Grundsätzlich mussten gemäß Punkt 04 (1) des Anhangs A01 der Rahmenrichtlinie 
+
+132.0118  die  Durchführung  der  Sicherungsmaßnahmen  gemäß  § 5  (1)  DGUV  Vorschri(cid:332)  78 
+
+überwacht werden. Im Weiteren musste gemäß Punkt 04 (3) DGUV Vorschri(cid:332) 78 überprü(cid:332) 
+
+werden, ob bei  den Sicherungsmaßnahmen Sicherungs- und Absperrposten vor Beginn der 
+
+Durchführung  die  Übereins(cid:415)mmung  der  Sicherungsmaßnahme  mit  der  Sicherungsplanung 
+
+und dem Regelwerk vorhanden waren. 
+
+Der  Anhang  A01  der  Rahmenrichtlinie  132.0118  beschreibt  unter  Punkt  04,  die  Aufgaben, 
+
+Pflichten  sowie  Voraussetzungen  der  Sicherungsüberwachung.  Aus  dem  Punkt  04  (1)  des 
+
+Anhangs  A01  der  Rahmenrichtlinie  132.0118  geht  hervor,  dass  die  Durchführung  der 
+
+Sicherungsmaßnahmen  gemäß  §  5  (1)  DGUV  Vorschrift  78  überwacht  werden  muss.  Im 
+
+Weiteren wird unter Punkt 04 (2) des Anhangs A01 der Rahmenrichtlinie 132.0118 aufgeführt, 
+
+dass  die  BzS  für  diese  Aufgabe  zuständig  ist,  diese  aber  an  einen  geeigneten  Dritten 
+
+übertragen kann. Im Punkt 04 (3) des Anhangs A01 der Rahmenrichtlinie 132.0118 werden die 
+
+Aufgaben  definiert.  Gemäß  genanntem  Regelwerk 
+
+ist 
+
+festgelegt,  dass  bei  den 
+
+Sicherungsmaßnahmen  Sicherungs-  und  Absperrposten  vor  Beginn  der  Durchführung  die 
+
+Übereinstimmung der Sicherungsmaßnahme mit der Sicherungsplanung und dem Regelwerk 
+
+zu überprüfen sind. Wesentlicher Bestandteil für die Durchführung ist unter Punkt 04 (5) des 
+
+Seite 26 von 36 
+
+ 
+ 
+Untersuchungsbericht 
+
+Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl 
+
+Anhangs  A01 
+
+der 
+
+Rahmenrichtlinie 
+
+132.0118 
+
+geregelt.  Die 
+
+Funktion 
+
+der 
+
+Sicherungsüberwachung  darf  nur  ausüben,  wer  die  Befähigung  zum  Sicherungsüberwacher 
+
+(gem.  Ril  046.2531  Funktionsausbildung 
+
+zum  Sicherungsüberwacher)  erfolgreich 
+
+abgeschlossen und aufrechterhalten hat.  
+
+Besondere  Tätigkeiten  wurden  im  Punkt  04  (10)  des  Anhangs  A01  der  Rahmenrichtlinie 
+
+132.0118 beschrieben. Die Aufgaben der Sicherungsaufsicht dürfen in folgenden Fällen von 
+
+einem BÜB in der Funktion der Sicherungsaufsicht durchgeführt werden: 
+
+  Sperrung aller Gleise eines Bahnhofs oder Bereiches aus Gründen der Unfallverhütung 
+
+und/oder aus technischen Gründen 
+
+  Bei Arbeiten im Rahmen einer Betriebsruhe 
+
+  Auf eingleisigen Strecken und der Sicherungsmaßnahme Sperrung des Gleises aus 
+
+Gründen der Unfallverhütung und/oder aus technischen Gründen wobei hier noch der 
+
+Hinweis erfolgt, dass kein danebenliegendes Gleis vorhanden sein darf.  
+
+Weiter ist in Punkt 04 (10) des Anhangs A01 der Rahmenrichtlinie 132.0118 aufgeführt, dass 
+
+dem  BÜB  in  seiner  Funktionsausbildung  die  erforderlichen  Inhalte  zur  Durchführung  einer 
+
+Gleissperrung sowie die Grundsätze der Baustellensicherung zum Schutz von Gefahren aus 
+
+bewegten  Schienenfahrzeugen  vermittelt  werden.  Daher  erfüllte  der  BÜB  für  die 
+
+vorgenannten  Fälle  die  Anforderungen  gemäß  Funktionsausbildung  Ril  046.2529 
+
+(Funktionsausbildung zur Sicherungsaufsicht). 
+
+Besondere Tä(cid:415)gkeiten wie im Punkt 04 (10) des Anhangs A01 der Rahmenrichtlinie 132.0118 
+
+beschrieben trafen nicht zu, da die Stopfarbeiten innerhalb eines zweigleisigen Abschni(cid:425)es 
+
+hä(cid:425)en sta(cid:426)inden sollen. Es handelte sich dabei weder um einen Bahnhof, eine Betriebsruhe 
+
+noch  um  einen  eingleisigen  Abschni(cid:425).  Daraus  folgt,  dass  für  die  Durchführung  der 
+
+Sicherungsmaßnahmen sowohl eine Betra als auch ein Sicherungsplan verpﬂichtend waren. 
+
+Bei  Einhaltung  des  Regelwerks  wären  Stopfarbeiten  ausgeschlossen,  da  weder  eine 
+
+Sicherungsplanung noch eine anlassbezogene bzw. die geplanten Arbeiten enthaltende Betra 
+
+vorlagen.  
+
+Fazit der Untersuchungsergebnisse aus Kapitel 4.3 
+
+Die 
+
+Disposi(cid:415)on 
+
+der  Mitarbeiter 
+
+durch 
+
+das 
+
+ausführende 
+
+Unternehmen 
+
+M+K Tief- u. Kabelbau GmbH  trotz  fehlendem  Sicherungsplan  oﬀenbarte  eine  mangelnde 
+
+Seite 27 von 36 
+
+ 
+ 
+Untersuchungsbericht 
+
+Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl 
+
+Sorgfaltspﬂicht  seitens  des  Unternehmers.  Bei  der  Überprüfung  der  notwendigen 
+
+Voraussetzungen  für  die  Durchführung  sicherer  Arbeiten  im  Gleisbereich  zeigte  das 
+
+ausführende Unternehmen Mängel in den unternehmenseigenen Prozessen. Dieses fehlende 
+
+Sicherheitsbewusstsein auf Unternehmerebene wurde im Rahmen der Planung von Arbeiten 
+
+durch die BEU zusätzlich als systemischer Faktor [S1] zum ursächlichen Faktor [F1] gewertet. 
+
+Der Unternehmer führte die Gefährdungsbeurteilung nicht vollständig und prozesskonform 
+
+durch,  sodass  die  Beschä(cid:332)igten  nicht  ausreichend  gegen  die  Gefahren,  die  aus  dem 
+
+Bahnbetrieb entstehen können, gesichert werden konnten [F1]. 
+
+Bei  den  arbeitsvorbereitenden  Maßnahmen  am  Ereignistag  war  ein 
+
+fehlendes 
+
+Sicherheitsbewusstsein  aller  Beteiligten  zu  erkennen.  Diesen  Umstand  wertete  die  BEU  als 
+
+einen systemischen Faktor [S3]. 
+
+Vor Ort war es am Ereignistag Aufgabe des BÜB, auf Grundlage der Planung des ausführenden 
+
+Unternehmens,  das  Vorhandensein  eines  Sicherungsplans  zu  überprüfen  und  sich  mit  der 
+
+Sicherungsaufsicht  über  die  neue  Gefahrensitua(cid:415)on  abzus(cid:415)mmen.  Trotz  dieser  fehlenden 
+
+Unterlage leitete er die weitere Arbeitsvorbereitung ein, indem er die Arbeiten bei den Fdl 
+
+Euskirchen und Hürth-Kalscheuren anmeldete.  
+
+Schlussendlich konnten die konkreten Beweggründe der Ro(cid:425)e, den Gleisbereich zu betreten, 
+
+nicht  mehr  rekonstruiert  werden.  Die  Arbeitsaufnahme  trotz  fehlender  Voraussetzungen 
+
+durch die Ro(cid:425)e, wurde durch die BEU als ursächlicher Faktor gewertet [F4]. Einhergehend mit 
+
+der Arbeitsaufnahme wurde das fehlende Sicherheitsbewusstsein aller Beteiligten im Rahmen 
+
+der Arbeitsaufnahme als systemischer Faktor [S4] gewertet. 
+
+4.4  Feedback‐	und	Kontrollmechanismen	
+
+In diesem Kapitel wird insbesondere auf Bedingungen, Feedback- und Kontrollmechanismen 
+
+im Eisenbahnsystem eingegangen, denen ein Einﬂuss auf die Entstehung ähnlicher Ereignisse 
+
+zugeschrieben  werden  könnte.  Diese  Mechanismen  schließen  Faktoren  des  Risiko-  und 
+
+Sicherheitsmanagement sowie Überwachungsverfahren mit ein. 
+
+  Prozesse	des	ausführenden	Unternehmens	
+
+Zu  den  Unternehmerpﬂichten  bei  der  Arbeitsvorbereitung  gehörte  gemäß  der  
+
+BGI/GUV-I 781 3.2  die  Erstellung  einer  Gefährdungsbeurteilung.  Diese  Gefährdungs-
+
+beurteilung  diente  der  Beurteilung  möglicher  Gefährdungen  durch  den  Bahnbetrieb  (d.  h. 
+
+durch Schienenfahrzeuge oder Fahrleitungsanlagen) die entstehen können, wenn Arbeiten im 
+
+Seite 28 von 36 
+
+ 
+ 
+Untersuchungsbericht 
+
+Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl 
+
+Gleisbereich  bzw.  in  der  Nähe  des  Gleisbereichs  auszuführen  sind.  Wird  als  Ergebnis  der 
+
+vorzunehmenden Gefährdungsbeurteilung festgestellt, dass vom Bahnbetrieb Gefährdungen 
+
+für die Arbeiten entstehen, so sind die geplanten Baumaßnahmen bei der BzS anzuzeigen. In 
+
+dem  Prozess  der  die  beteiligten  Stellen  und  die  Zusammenarbeit  der  Verantwortlichen  an 
+
+einer Arbeitsstelle im Gleisbereich bei getrennter Vergabe von Bau- und Sicherungsleistung, 
+
+siehe Abbildung 4, beschreibt ist die Erstellung und Anzeige der geplanten Arbeiten die auf 
+
+Seite 1 des Sicherungsplans festgehalten ist, dargestellt. Mit der Anmeldung jeder einzelnen 
+
+Tä(cid:415)gkeit im Gleis wird der Prozess für die Koordinierung von Sicherungsmaßnahmen zwischen 
+
+Sicherungsunternehmen  und  ausführendem  Unternehmen  durch  die  BzS  eingeleitet.  Eine 
+
+Anzeige  der  Arbeiten  im  Streckengleis  Bf Hürth-Kalscheuren – Bf Brühl  wurde  durch  das 
+
+ausführende  Unternehmen  entgegen  der  Vorgaben  aus  DGUV  78  §3  Abs.  1  und 
+
+Rahmenrichtlinie 132.0118 nicht vorgenommen.  
+
+  Prozesse	des	EIU	
+
+Die BzS wählt als 2. Teil der Gefährdungsbeurteilung das erforderliche Sicherungsverfahren 
+
+nach  einer  Risikobewertung  auf  der  Grundlage  der  Anzeige  durch  das  ausführende 
+
+Unternehmen  aus.  Das  angewandte  Verfahren  „RIMINI“  (formalisiertes  Verfahren  zur 
+
+Auswahl einer risikominimalen Sicherungsmaßnahme für Arbeiten im Gleisbereich) und deren 
+
+Systema(cid:415)k  soll  sicherstellen,  dass  immer  eine  der  Gefährdungssitua(cid:415)on  angemessene 
+
+Sicherungsmaßnahme  ausgewählt  wird  und  nur  mit  einer  dokumen(cid:415)erten  und 
+
+nachvollziehbaren 
+
+Begründung 
+
+auf 
+
+eine 
+
+in 
+
+der  Hierarchie 
+
+niederwer(cid:415)gere 
+
+Sicherungsmaßnahme zurückgegriﬀen werden darf. 
+
+Durch  die  BzS  wird  als  3. Teil  der  Gefährdungsbeurteilung  das  „Verfahren  zur  detaillierten 
+
+Planung der Sicherungsmaßnahmen“11 angestoßen. Da das ausführende Unternehmen die im 
+
+Streckengleis  Hürth-Kalscheuren – Brühl  geplanten  Arbeiten  bei  der  BzS  nicht  anzeigte, 
+
+wurden seitens der BzS Sicherungsmaßnahmen weder festgelegt noch geplant. 
+
+Gemäß  § 4 Abs. 3 AEG  sind  Eisenbahnen  verpﬂichtet,  ihren  Betrieb  sicher  zu  führen,  die 
+
+Eisenbahninfrastruktur sicher zu bauen und in betriebssicherem Zustand zu halten. 
+
+Bei Baumaßnahmen auf der Infrastruktur der DB Netz AG besteht beim Einsatz von externen 
+
+Unternehmen  grundsätzlich  eine  Überwachungspﬂicht  des  EIU.  Diese  umfasst  u.a.  das 
+
+11 Quelle: BGI/GUV-I 781 3.2 
+
+Seite 29 von 36 
+
+ 
+ 
+                                                       
+Untersuchungsbericht 
+
+Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl 
+
+Aufstellen  und  Kontrollieren  rich(cid:415)ger,  vollständiger  und  eindeu(cid:415)ger  (klar,  verständlich, 
+
+adressatengerecht) Vorgaben für den oder die Erfüllungsgehilfen, so dass diese in die Lage 
+
+versetzt  werden,  den  ihnen  obliegenden  Pﬂichtenkreis  (Durchführung  von  Arbeiten) 
+
+umfassend  zu  erfüllen.  Dies  gilt  umso  mehr,  je  größer  das  Fach-  und  Systemwissen  des 
+
+Bauherrn ist. Im Regelfall hat die DB Netz AG als Infrastrukturbetreiberin im Eisenbahnsystem 
+
+eine sicherheitliche Klammerfunk(cid:415)on. 
+
+Bezüglich  der  Planung  und  Umsetzung  von  Sicherungsmaßnahmen  bei  Arbeiten 
+
+im 
+
+Gleisbereich werden durch das EIU Prozesse zur Einhaltung der Sicherheit vorgehalten. Diese 
+
+Prozesse sollen organisatorisch sicherstellen, dass die beteiligten Akteure bei der Planung und 
+
+Durchführung von Bau- und Sicherungsmaßnahmen die Vorgaben des EIU einhalten.  
+
+Die Einkaufsrichtlinien der DB Netz AG legten die Anforderungen fest, die die Au(cid:332)ragnehmer 
+
+zur  Erbringung  der  vertraglich  vereinbarten  Bauleistung  erfüllen  mussten.  Durch  die 
+
+sogenannte  Präqualiﬁzierung  soll  durch  die  Qualitätssicherung  Beschaﬀung  Infrastruktur 
+
+sichergestellt werden, dass die unter Kapitel 3.1.2 genannten Akteure über die erforderlichen 
+
+Vorbedingungen  und  Kenntnisse 
+
+in  eisenbahntechnischen  Belangen  verfügen.  Eine 
+
+Präqualiﬁzierung  konnte  für  die 
+
+in  Kapitel  3.1.2  genannten  Personen  oder  Stellen 
+
+nachgewiesen werden. 
+
+Im  Ergebnis 
+
+ist  festzustellen,  dass  auf  Seiten  des  EIU  grundsätzlich  Prozesse  zur 
+
+Gefährdungsbeurteilung  und  Überwachung  von  Au(cid:332)ragnehmern  für  geplante  Arbeiten  im 
+
+Gleisbereich  vorhanden  waren.  Insbesondere  durch  die  Einhaltung  des  vollständigen 
+
+Prozesses, siehe Abbildung 4, kommt als systema(cid:415)sches Ergebnis der Gefährdungsbeurteilung 
+
+ein  Sicherungsplan  zustande.  Vorliegend  wurde  der  Prozess  durch  das  ausführende 
+
+Unternehmen  (als  Au(cid:332)ragnehmer)  nicht  eingehalten  und  ein  Sicherungsplan  kam  nicht 
+
+zustande. 
+
+4.5  Frühere	Ereignisse	ähnlicher	Art	
+
+Der  BEU  sind  aus  der  Vergangenheit  ähnlich  gelagerte  Fälle,  in  denen  Mitarbeiter  in  der 
+
+Vorbereitung oder während der Durchführung von Arbeiten im Gleisbereich verletzt wurden 
+
+oder  zu  Tode  kamen,  bekannt.  Die  nachfolgende  Aufzählung  erhebt  keinen  Anspruch  auf 
+
+Vollständigkeit,  da  Arbeitsunfälle  im  Sinne  des §  8  Sozialgesetzbuch  Siebtes  Buch (SGB  VII) 
+
+gemäß  Allgemeinverfügung  der  Eisenbahn-Untersuchungsstelle  des  Bundes  nicht  der 
+
+Meldepﬂicht an die BEU unterliegen. 
+
+Seite 30 von 36 
+
+ 
+ 
+Untersuchungsbericht 
+
+Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl 
+
+Am 15.08.2017 erfasste ein Zug bei der Durchfahrt durch den Bf Bad Soden-Salmünster einen 
+
+Mitarbeiter der DB Netz AG in Höhe der Weiche 824. Der Mitarbeiter wurde tödlich verletzt. 
+
+Durchgeführt wurden zum Ereigniszeitpunkt Vorbereitungsmaßnahmen für Arbeiten gemäß 
+
+Betra an einer Weiche im Bf. 
+
+Am 29.09.2019 erfasste der Zug RE-D 59672 bei der Einfahrt in den Bf Pleinfeld in Höhe der 
+
+Weiche 1 eine Sicherungsaufsicht, die in einem nicht gesperrten Gleisbereich entlanglief. 
+
+Am 24.05.2020 erfasste der DGS 40160 im Bf Weil am Rhein eine sich im Gleis au(cid:300)altende 
+
+Person eines Sicherungsunternehmens. 
+
+Am 25.10.2023 erfasste der Zug DPN 74049 im B(cid:332) Dresden-Altstadt eine Person, die sich im 
+
+Rahmen von Arbeiten gemäß Betra in einem nicht gesperrten Gleis au(cid:300)ielt und verletzte diese 
+
+tödlich. 
+
+Am 01.07.2024 erfasste DPN 19598 zwischen dem Bf Bre(cid:425)en und dem Hp Gondelsheim einen 
+
+Mitarbeiter einer sich neben dem Gleis beﬁndlichen Arbeitsstelle. Der Mitarbeiter bewegte 
+
+sich zu nah an den Gefahrenraum und wurde vom Zug erfasst. 
+
+Am 09.10.2024 erfasste der ICE 1080 zwischen dem Bf Mainbernheim und dem Bf Kitzingen 
+
+eine Sicherungsaufsicht und verletzte diese tödlich. 
+
+5  Schlussfolgerungen	
+
+Das  folgende  Kapitel  enthält  eine  Zusammenfassung  der  ermi(cid:425)elten  ursächlichen, 
+
+beitragenden  und  systemischen  Faktoren.  Zusätzlich  sind  zwei  weitere  Unterkapitel 
+
+vorgesehen,  um  Informa(cid:415)onen  zu  bereits  ergriﬀenen  Maßnahmen  und  zu  zusätzlichen 
+
+Bemerkungen zu teilen. 
+
+5.1  Zusammenfassung	und	Schlussfolgerung	
+
+Die in diesem Untersuchungsbericht ermi(cid:425)elten Handlungen, Unterlassungen, Vorkommnisse 
+
+oder Umstände führten zum Personenunfall am bewegten Eisenbahnfahrzeug zwischen dem 
+
+Bf Hürth-Kalscheuren und dem Bf Brühl. 
+
+Es wurden drei ursächliche, ein beitragender und drei systemische Faktoren mit Einﬂuss auf 
+
+das Ereignis durch die BEU ermi(cid:425)elt.  
+
+Seite 31 von 36 
+
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl 
+
+Zu ursächlichem Faktor: „Gefährdungsbeurteilung durch Unternehmer nicht vollständig und 
+
+prozesskonform durchgeführt“ [F1]:  
+
+Aufgabe 
+
+der  M+K Tief- u. Kabelbau GmbH  war 
+
+es 
+
+zunächst, 
+
+anhand 
+
+einer 
+
+Gefährdungsbeurteilung, festzustellen, ob bei den geplanten Arbeiten Gefährdungen durch 
+
+Fahrten  für  die  Beschä(cid:332)igten  seines  Unternehmens  entstehen  können.  Da  anhand  dieser 
+
+Gefährdungsbeurteilung  durch  den  Unternehmer  festgestellt  wurde,  dass  potenzielle 
+
+Gefährdungen für seine Beschä(cid:332)igten entstehen können sollte in der Folge eine Anzeige der 
+
+Arbeiten  bei  der  BzS  erfolgen,  um  Sicherungsmaßnahmen  zu  deﬁnieren  und  festzulegen. 
+
+Sta(cid:425)dessen  beau(cid:332)ragte  das  ausführende  Unternehmen,  unter  Umgehung  der  BzS, 
+
+unmi(cid:425)elbar  das  beteiligte  Sicherungsunternehmen  mit  der  Planung  und  Durchführung  von 
+
+Sicherungsmaßnahmen  für  die  freie  Strecke  zwischen  dem  Bf Hürth-Kalscheuren  und  dem 
+
+Bf Brühl.  Die  Disposi(cid:415)on  der  beiden  Sicherungsposten,  oﬀenbarte  weiterhin,  dass  obwohl 
+
+keine  Angaben  über  die  anstehenden  Arbeiten  bekannt  waren,  die  Mitarbeiter  spekula(cid:415)v 
+
+dessen wie sie die Gleisbauarbeiten absichern sollten, zum Einsatz geschickt wurden.  
+
+Die sowohl in der Rahmenrichtlinie 132.0118 als auch in der BGI/GUV-I 781 beschriebenen 
+
+Prozessschri(cid:425)e  bei  der  Beantragung  von  Sicherungsmaßnahmen  wurden  durch  die 
+
+M+K Tief-u. Kabelbau GmbH  nicht  eingehalten.  Das  ausführende  Unternehmen  war 
+
+verantwortlich  für  die  Ini(cid:415)ierung  dieses  Prozesses.  Die  vorhandene  Präqualiﬁzierung  sollte 
+
+sicherstellen, dass die M+K Tief- u. Kabelbau GmbH über die Prozesse der DB Netz AG Kenntnis 
+
+ha(cid:425)e und diese zur Anwendung brachte. 
+
+Es  lag  in  der  Unternehmerpﬂicht  des  ausführenden  Unternehmens,  entsprechend  der 
+
+Vorgaben aus der Rahmenrichtlinie 132.0118 und DGUV 78 eine Anzeige bei der BzS zu tä(cid:415)gen 
+
+um als Resultat einen Sicherungsplan für die geplanten Arbeiten zu erhalten. Im Ergebnis der 
+
+Sachverhaltsermi(cid:425)lungen wurde durch die BEU festgestellt, dass der Unternehmerpﬂicht bei 
+
+der vollständigen und prozesskonformen Gefährdungsbeurteilung und Anzeige der Arbeiten 
+
+nicht nachgekommen wurde. 
+
+Zu beitragendem Faktor: „Prozess Baustellenplanung und Antragstellung zur Betra [F2]“ 
+
+Die  vom  Technisch  Berech(cid:415)gten  für  die  Anmeldung  der  Arbeiten  herangezogene  Betra 
+
+F 351038 23 sah „Begehungen, Kontroll- und Vermessungsarbeiten (ESTW Linke Rheinseite)“ 
+
+auf  den  Strecken 2630 und 2631  vor.  Die  am  Ereignistag  durch  die  Ro(cid:425)e  durchgeführten 
+
+Handstopfarbeiten waren im Regelungsumfang der Betra nicht berücksich(cid:415)gt. 
+
+Seite 32 von 36 
+
+ 
+ 
+Untersuchungsbericht 
+
+Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl 
+
+Unter Betrachtung der Untersuchungsergebnisse resul(cid:415)ert die Feststellung, dass die Abläufe 
+
+innerhalb  der  Baustellenplanung  und  der  Betra-Antragstellung  als  ein  beitragender  Faktor 
+
+dieses  Ereignisses  zu  werten  sind.  Im  Falle  eines  korrekten  Betra-Antrags  wäre  eine  Betra 
+
+erstellt worden, die Handstopfarbeiten beinhaltet hä(cid:425)e. 
+
+Zu  ursächlichem  Faktor:  „Arbeitsaufnahme  trotz  fehlender  Voraussetzungen  beabsich(cid:415)gt 
+
+[F3]“ 
+
+Bei  der  Erstellung  der  Arbeitsanmeldung  wurde  durch  das  ausführende  Unternehmen 
+
+fälschlicherweise  bestä(cid:415)gt,  dass  ein  Sicherungsplan  vorhanden  war.  Die  abschließende 
+
+Disposi(cid:415)on 
+
+der  Mitarbeiter 
+
+der  M+K Tief- u. Kabelbau GmbH 
+
+und 
+
+des 
+
+Sicherungsunternehmens wurde auf Basis dieser Arbeitsanmeldung durchgeführt.  
+
+Obwohl  spätestens  bei  der  arbeitsvorbereitenden  Besprechung  zwischen  ausführendem 
+
+Unternehmen,  Sicherungsunternehmen  und  des  BÜB  in  der  Funk(cid:415)on  des  Technisch 
+
+Berech(cid:415)gten  der  fehlende  Sicherungsplan  hä(cid:425)e  auﬀallen  müssen,  wurden  weitere 
+
+Vorbereitungen zu den anstehenden Handstopfarbeiten am Ereignistag getroﬀen. Mögliche 
+
+Kontrollmechanismen,  wie  z.  B.  ein  vier-Augen-Prinzip,  fanden  oﬀenbar  nicht  sta(cid:425)  oder 
+
+blieben wirkungslos. 
+
+Trotz des fehlenden Prozessschri(cid:425)es der Anzeige von Arbeiten im Gleisbereich bei der BzS, 
+
+siehe  [F1],  wurden  zwei  Mitarbeiter  des  Sicherungsunternehmens  für  die  Sicherungs-
+
+maßnahmen  am  Ereignistag  eingeplant.  Unklar  blieb,  warum  das  Sicherungsunternehmen, 
+
+oﬀensichtlich ohne Einvernehmen mit der BzS, Sicherungsmaßnahmen durchführen wollte. 
+
+Ohne  Anwendung  der  Risikobewertungsverfahren  der  BzS  war  eine  situa(cid:415)v  angepasste 
+
+Sicherungsplanung nicht möglich. 
+
+Zu ursächlichem Faktor: „Arbeitsaufnahme trotz fehlender Voraussetzungen [F4]“ 
+
+Nach  Ankun(cid:332)  der  Ro(cid:425)e  an  der  vorgesehenen  Arbeitsstelle  befand  sich  der  Technisch 
+
+Berech(cid:415)gte noch in der Klärung mit dem zuständigen Fdl über eine benö(cid:415)gte Sperrpause zur 
+
+Durchführung  der  Handstopfarbeiten,  obwohl  weder  ein  Sicherungsplan  noch  eine  Betra 
+
+vorlagen,  welche  die  Arbeiten 
+
+legi(cid:415)miert  hä(cid:425)e.  Die  Ro(cid:425)e  betrat  schließlich  mit 
+
+Arbeitsgerätscha(cid:332)en unerlaubt den Gleisbereich. 
+
+Seite 33 von 36 
+
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl 
+
+Zu den systemischen Faktoren: 
+
+  Fehlendes Sicherheitsbewusstsein des Unternehmers im Rahmen der 
+
+Baustellenplanung [S1] 
+
+  Fehlendes Sicherheitsbewusstsein aller Beteiligten im Rahmen der 
+
+Arbeitsvorbesprechung [S3] und 
+
+  Fehlendes Sicherheitsbewusstsein aller Beteiligten im Rahmen der Arbeitsaufnahme 
+
+[S4] 
+
+Die  Untersuchungen  ergaben,  dass 
+
+sich  ein  mangelbeha(cid:332)etes  und 
+
+fehlendes 
+
+Sicherheitsbewusstsein für die sichere Durchführung von Bauarbeiten im Gleisbereich durch 
+
+alle organisatorischen Ebenen der am Ereignis beteiligten Unternehmen zog. 
+
+Beginnend 
+
+bei 
+
+der 
+
+Sicherheitskultur 
+
+des 
+
+ausführenden 
+
+Unternehmens 
+
+M+K Tief- u. Kabelbau GmbH  wurde  es  organisatorisch  durch  nicht  eingehaltene  Prozesse 
+
+durch  den  Unternehmer  erst  möglich,  dass  seine  Mitarbeiter  ohne  das  Vorliegen  eines 
+
+gül(cid:415)gen  Sicherungsplans  auf  die  Baustelle  im  Streckengleis  Hürth-Kalscheuren  -  Brühl 
+
+disponiert  wurden.  Gleiches  galt 
+
+für  das  Sicherungsunternehmen,  welches  die 
+
+Sicherungsleistung eigenverantwortlich plante, ohne von der BzS beau(cid:332)ragt worden zu sein. 
+
+Schlussendlich beanstandeten jedoch auch weitere Beteiligte wie die Sicherungsaufsicht und 
+
+der BÜB den fehlenden Sicherungsplan, der den Abbruch der geplanten Handstopfarbeiten 
+
+bedeutet hä(cid:425)e, nicht. Die Überprüfung des Vorhandenseins eines gül(cid:415)gen Sicherungsplans 
+
+sowie die Überprüfung der Einhaltung der durch die BzS festgelegten Sicherungsverfahren ist 
+
+ein zentrales Element des Arbeitsschutzes bei Arbeiten in und am Gleisbereich. Aus diesem 
+
+Grund  ergeht  seitens  der  BEU  die  Sicherheitsempfehlung  Nr.  06/2025.  Es  wird  empfohlen, 
+
+dass zur Beherrschung von Risiken die an der Planung und Ausführung von Baumaßnahmen 
+
+beteiligten  Stellen,  ihre  Mitarbeiter  innerhalb  der  Arbeitsumgebung  in  Bezug  auf  den 
+
+Arbeitsschutz  überwachen  und  die  Einhaltung  konsequent  einfordern.  Hierüber  sind 
+
+Nachweise zu führen. (Delegierte Verordnung (EU) 2018/762 Anhang II Punkt 3.1.1.2) 
+
+Die  beteiligten  Mitarbeiter  der  Ro(cid:425)e,  bestehend  aus  vier  Gleisbauarbeitern  und  zwei 
+
+Sicherungsposten,  waren  in  der  Ausübung  von  Tä(cid:415)gkeiten  im  Gleisbereich  erfahren  und 
+
+seitens  ihrer  Arbeitgeber  unterwiesen.  Sie  waren  bereits  seit  dem  Morgen  des  04.05.2023 
+
+gemeinsam im Gleisbereich zur Durchführung von Handstopfarbeiten tä(cid:415)g. 
+
+Seite 34 von 36 
+
+ 
+ 
+Untersuchungsbericht 
+
+Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl 
+
+Vermutlich stellte sich durch die wiederkehrenden und gleichgelagerten Arbeitsabläufe eine 
+
+gewisse Arbeitsrou(cid:415)ne und Gruppendynamik innerhalb der Ro(cid:425)e ein, die eine gemeinsame 
+
+Sicherheitsverantwortung jedoch vermissen ließ. Obwohl weder ein gül(cid:415)ger Sicherungsplan 
+
+für diese Arbeiten im Streckengleis vorlag noch ein Au(cid:332)rag des BÜB gegeben wurde begab 
+
+sich  die  Ro(cid:425)e  schlussendlich  eigenini(cid:415)a(cid:415)v  in  den  Gleisbereich.  Aus  welchem  Grund  diese 
+
+letztliche  Entscheidung,  den  Gleisbereich  trotz  fehlender  Sicherung  zu  betreten,  getroﬀen 
+
+wurde konnte nicht abschließend aufgeklärt werden.  
+
+Im  Ergebnis  wurde  festgestellt,  dass  die  Mitarbeiter  der  Ro(cid:425)e,  trotz  der  nachweislich 
+
+durchgeführten  Unterweisungen  bzgl.  der  Gefahren  aus  dem  Eisenbahnbetrieb  durch  ihre 
+
+jeweiligen  Arbeitgeber,  kein  Situa(cid:415)onsbewusstsein  für  das  unerlaubte  Betreten  des 
+
+Gleisbereichs  ha(cid:425)en.  Hieraus  kann  resul(cid:415)erend  festgestellt  werden,  dass  Unterweisungen 
+
+grundsätzlich erforderlich sind, um die Mitarbeiter auf die gefahrengeneigten Tä(cid:415)gkeiten im 
+
+Gleisbereich  vorzubereiten.  Allerdings  blieben  diese  durchgeführten  Unterweisungen  bei 
+
+diesem  Ereignis  in  der  Praxis  wirkungslos.  Neben,  schon  aus  gesetzlichen  Anforderungen 
+
+abzuleitenden,  Unterweisungen  der  Mitarbeiter  ist  es  unabdingbar,  dass  die  Unternehmen 
+
+eine Sicherheitskultur innerhalb ihrer Organisa(cid:415)on schaﬀen, in welcher sich die Mitarbeiter 
+
+der  hohen  Bedeutung  eines  korrekten  Verhaltens  am  und  im  Gleisbereich  bei  der 
+
+Durchführung von Arbeiten bewusst sind. Dieser Prozess beginnt auf der Führungsebene eines 
+
+jeden  Unternehmens  und  sollte  von  dort  ausgehend  auf  die  Mitarbeiter,  Zulieferer  und 
+
+weitere Au(cid:332)ragnehmer übertragen werden. 
+
+Bei  diesem  Ereignis  war  fehlendes  Sicherheitsbewusstsein  für  die  Gefahren  aus  dem 
+
+Bahnbetrieb bei den beteiligten Unternehmen, den Personen mit Aufsichtsfunk(cid:415)on vor Ort 
+
+und handelnden Personen der Ro(cid:425)e deutlich erkennbar und sollte zur Vermeidung ähnlicher 
+
+Ereignisse  zukün(cid:332)ig  verbessert  werden.  Aus  diesem  Grund  ergeht  seitens  der  BEU  die 
+
+Sicherheitsempfehlung  mit  Nr.  07/2025.  Es  wird  empfohlen,  dass  die  an  der  Planung  und 
+
+Ausführung  von  Baumaßnahmen  beteiligten  Stellen,  ihre  Mitarbeiter  im  Bereich  des 
+
+Sicherheitsbewusstseins  stärker  sensibilisieren.  (Delegierte  Verordnung  (EU)  2018/762 
+
+Anhang II Punkt 2.4.1) 
+
+Seite 35 von 36 
+
+ 
+ 
+Untersuchungsbericht 
+
+Personenunfall, 04.05.2023, Bf Hürth‐Kalscheuren – Bf Brühl 
+
+5.2  Seit	dem	Ereignis	getroffene	Maßnahmen	
+
+Der BÜB wurde nach dem Ereignis durch die DB Netz AG für weitere Einsätze gesperrt. Ob 
+
+darüber  hinaus  weitere  Maßnahmen  durch  das  EIU  veranlasst  wurden  ist  der  BEU  nicht 
+
+bekannt.  
+
+5.3  Zusätzliche	Bemerkungen	
+
+En(cid:414)ällt. 
+
+6  Sicherheitsempfehlungen	
+
+Gemäß  § 6 EUV  und  Art. 26  Abs. 2  der  Richtlinie  (EU) 2016/798  ergehen  nachfolgende 
+
+Sicherheitsempfehlungen: 
+
+Lfd. Nr. 
+
+Adressat und Sicherheitsempfehlung 
+
+Betri(cid:335) Unternehmen 
+
+06/2025 
+
+Sicherheitsbehörde: 
+
+Es wird empfohlen, dass zur Beherrschung von 
+Risiken die an der Planung und Ausführung von 
+Baumaßnahmen beteiligten Stellen ihre Mitarbeiter 
+innerhalb der Arbeitsumgebung in Bezug auf den 
+Arbeitsschutz überwachen und die Einhaltung 
+konsequent einfordern. Hierüber sind Nachweise zu 
+führen. 
+(Delegierte Verordnung (EU) 2018/762 Anhang II 
+Punkt 3.1.1.2) 
+
+EIU 
+
+Au(cid:332)ragnehmer 
+EIU 
+
+des 
+
+07/2025 
+
+Sicherheitsbehörde: 
+
+Es wird empfohlen, dass die an der Planung und 
+Ausführung von Baumaßnahmen beteiligten Stellen 
+ihre Mitarbeiter im Bereich des 
+Sicherheitsbewusstseins stärker sensibilisieren. 
+(Delegierte Verordnung (EU) 2018/762 Anhang II 
+Punkt 2.4.1) 
+
+EIU 
+
+Au(cid:332)ragnehmer 
+EIU 
+
+des 
+
+Seite 36 von 36 
+
+ 
+ 
+ 
 

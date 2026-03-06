@@ -1,666 +1,1090 @@
-Untersuchungszentrale
-der Eisenbahn-Unfalluntersuchungsstelle
-des Bundes
+Untersuchungszentrale 
 
-Aktenzeichen:
+der Eisenbahn-Unfalluntersuchungsstelle 
 
-60uu2015-01/011-3323
+des Bundes  
 
-Stand:
+Aktenzeichen:   60uu2015-01/011-3323 
 
-03.06.2016
+Stand:  
 
-Version: 1.0
+03.06.2016     Version:  1.0 
 
-Gefährliches Ereignis im Eisenbahnbetrieb
+Gefährliches Ereignis im Eisenbahnbetrieb 
 
-Ereignisart:
+Ereignisart: 
 
-Personenunfall
+Datum: 
 
-Datum:
+Zeit: 
 
-31.01.2015
+Bahnhof: 
 
-Zeit:
+Gleis: 
 
-19:41 Uhr
+Kilometer: 
 
-Bahnhof:
+Personenunfall 
 
-Feucht
+31.01.2015 
 
-Gleis:
+  19:41 Uhr 
 
-4
+Feucht 
 
-Kilometer:
+4 
 
-88,0
+88,0 
 
-Untersuchungsbericht
-Personenunfall, 31.01.2015, Feucht
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Veröffentlicht durch:
-Bundesministerium für Verkehr und digitale Infrastruktur
-Eisenbahn-Unfalluntersuchungsstelle des Bundes
-Robert-Schuman-Platz 1
-53175 Bonn
+Personenunfall,  31.01.2015,  Feucht 
 
-Seite 2 von 17
+Veröffentlicht durch: 
 
-Untersuchungsbericht
-Personenunfall, 31.01.2015, Feucht
+Bundesministerium für Verkehr und digitale Infrastruktur 
 
-Inhaltsverzeichnis:
+Eisenbahn-Unfalluntersuchungsstelle des Bundes 
+
+Robert-Schuman-Platz 1 
+
+53175 Bonn 
+
+Seite 2 von 17 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Personenunfall,  31.01.2015,  Feucht 
+
+Inhaltsverzeichnis: 
+
 Seite
-1
+ 
 
 Zusammenfassung .............................................................................................. 6
-
-1.1
+ 
 
 Kurzbeschreibung des Ereignisses ....................................................................... 6
-
-1.2
+ 
 
 Folgen.................................................................................................................... 6
-
-1.3
+ 
 
 Ursachen ............................................................................................................... 6
-
-2
+ 
 
 Vorbemerkungen ................................................................................................. 8
-
-2.1
+ 
 
 Organisatorischer Hinweis..................................................................................... 8
-
-2.2
+ 
 
 Ziel der Eisenbahn-Unfalluntersuchung................................................................. 8
-
-2.3
+ 
 
 Beteiligte und Mitwirkende..................................................................................... 9
-
-3
+ 
 
 Ereignis................................................................................................................. 9
-
-3.1
+ 
 
 Hergang ................................................................................................................. 9
-
-3.2
+ 
 
 Todesopfer, Verletzte und Sachschäden............................................................. 10
-
-3.3
+ 
 
 Wetterbedingungen ............................................................................................. 10
-
-4
+ 
 
 Untersuchungsprotokoll ................................................................................... 10
-
-4.1
+ 
 
 Zusammenfassung von Aussagen ...................................................................... 10
-
-4.2
+ 
 
 Untersuchung der Infrastruktur ............................................................................ 11
-
-4.3
+ 
 
 Untersuchung der Leit- und Sicherungstechnik................................................... 11
-
-4.4
+ 
 
 Untersuchung der betrieblichen Handlungen ...................................................... 11
+ 
 
-4.4.1
+ 1 
+
+ 1.1 
+
+ 1.2 
+
+ 1.3 
+
+ 2 
+
+ 2.1 
+
+ 2.2 
+
+ 2.3 
+
+ 3 
+
+ 3.1 
+
+ 3.2 
+
+ 3.3 
+
+ 4 
+
+ 4.1 
+
+ 4.2 
+
+ 4.3 
+
+ 4.4 
+
+4.4.1 
 
 Abfertigungsverfahren ......................................................................................... 11
+ 
 
-4.4.2
+4.4.2 
 
 Anforderungen an Tf............................................................................................ 15
+ 
 
-4.5
+ 4.5 
+
+ 4.6 
+
+ 5 
+
+ 6 
 
 Untersuchung von Fahrzeugen ........................................................................... 16
-
-4.6
+ 
 
 Interpretation der Unfallspuren ............................................................................ 17
-
-5
+ 
 
 Auswertung und Schlussfolgerungen ............................................................. 17
-
-6
+ 
 
 Bisher getroffene Maßnahmen ......................................................................... 17
+ 
 
-Seite 3 von 17
+Seite 3 von 17 
 
-Untersuchungsbericht
-Personenunfall, 31.01.2015, Feucht
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Abbildungsverzeichnis:
-Abb. 1: Garnitur wie beim Ereignis (Unfalltür: 6. Tür von vorne) Abb. 1a: Bahnsteig aus Sicht
-des Triebfahrzeugführers ......................................................................................................... 7
-Abb. 2: Lageplan ...................................................................................................................... 9
+Personenunfall,  31.01.2015,  Feucht 
 
-Seite 4 von 17
+Abbildungsverzeichnis: 
 
-Untersuchungsbericht
-Personenunfall, 31.01.2015, Feucht
+Abb. 1: Garnitur wie beim Ereignis (Unfalltür: 6. Tür von vorne) Abb. 1a: Bahnsteig aus Sicht 
 
-Abkürzungsverzeichnis
-AEG
+des Triebfahrzeugführers ......................................................................................................... 7  
 
-Allgemeines Eisenbahngesetz
+Abb. 2: Lageplan ...................................................................................................................... 9 
 
-BMVI
+Seite 4 von 17 
 
-Bundesministerium für Verkehr und digitale Infrastruktur
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-BPol
+Personenunfall,  31.01.2015,  Feucht 
 
-Bundespolizei
+Abkürzungsverzeichnis 
 
-BÜ
+AEG 
 
-Bahnübergang
+BMVI 
 
-EBA
+BPol 
 
-Eisenbahn-Bundesamt
+BÜ 
 
-CBT
+EBA 
 
-Computerbasiertes Training
+CBT 
 
-EBL
+EBL 
 
-Eisenbahnbetriebsleiter
+EBO 
 
-EBO
+EIU 
 
-Eisenbahn- Bau- und Betriebsordnung
+ERA 
 
-EIU
+ESO 
 
-Eisenbahninfrastrukturunternehmen
+EUB 
 
-ERA
+EUV 
 
-Europäische Eisenbahn Agentur
+EVU 
 
-ESO
+NE 
 
-Eisenbahnsignalordnung
+Nmg 
 
-EUB
+RFU 
 
-Eisenbahn-Unfalluntersuchungsstelle des Bundes
+Ril 
 
-EUV
+SB 
 
-Eisenbahn-Unfalluntersuchungsverordnung
+Allgemeines Eisenbahngesetz 
 
-EVU
+Bundesministerium für Verkehr und digitale Infrastruktur 
 
-Eisenbahnverkehrsunternehmen
+Bundespolizei 
 
-NE
+Bahnübergang 
 
-Nichtbundeseigene Eisenbahn
+Eisenbahn-Bundesamt 
 
-Nmg
+Computerbasiertes Training 
 
-Notfallmanager
+Eisenbahnbetriebsleiter 
 
-RFU
+Eisenbahn- Bau- und Betriebsordnung 
 
-Regelmäßiger Fortbildungsunterricht
+Eisenbahninfrastrukturunternehmen 
 
-Ril
+Europäische Eisenbahn Agentur 
 
-Richtlinie
+Eisenbahnsignalordnung 
 
-SB
+Eisenbahn-Unfalluntersuchungsstelle des Bundes 
 
-Sicherheitsbehörde
+Eisenbahn-Unfalluntersuchungsverordnung 
 
-SMS
+Eisenbahnverkehrsunternehmen 
 
-Sicherheitsmanagementsystem
+Nichtbundeseigene Eisenbahn 
 
-Seite 5 von 17
+Notfallmanager 
 
-Untersuchungsbericht
-Personenunfall, 31.01.2015, Feucht
+Regelmäßiger Fortbildungsunterricht 
 
-1
+Richtlinie 
 
-Zusammenfassung
+Sicherheitsbehörde 
 
-1.1
+SMS 
 
-Kurzbeschreibung des Ereignisses
+Sicherheitsmanagementsystem 
 
-Personenunfall am bewegten Eisenbahnfahrzeug; hier Einsteigeunfall.
-Am 31.01.2015 gegen 19:41 Uhr schleifte die Zugfahrt S 39661 (lokbespannt) des Eisen­
-bahnverkehrsunternehmen (EVU) DB Regio AG, Region Bayern (S-Bahn), auf der Fahrt von
-Nürnberg nach Altdorf (b. Nürnberg) (VZG 5850) im Bf Feucht Gleis 4 (Abfahrt 19:41 Uhr)
-eine männliche Person mit, nach dem diese Person in der Tür vermutlich mit der Hand oder
-Finger eingeklemmt war. Die männliche Person geriet zwischen Bahnsteigkante und Zug.
+Seite 5 von 17 
 
-1.2
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Folgen
+Personenunfall,  31.01.2015,  Feucht 
 
-Die männliche Person wurde vom Eisenbahnfahrzeug überrollt. Der Mann verstarb noch an
-der Unfallstelle.
+1 
 
-1.3
+Zusammenfassung 
 
-Ursachen
+1.1 
 
-Die Untersuchungen ergaben, dass die Primärursache darin begründet liegt, dass der Rei­
+Kurzbeschreibung des Ereignisses 
+
+Personenunfall am bewegten Eisenbahnfahrzeug; hier Einsteigeunfall. 
+
+Am  31.01.2015  gegen  19:41  Uhr  schleifte  die  Zugfahrt  S  39661  (lokbespannt)  des  Eisen­
+
+bahnverkehrsunternehmen (EVU) DB Regio AG, Region Bayern (S-Bahn), auf der Fahrt von 
+
+Nürnberg  nach  Altdorf  (b.  Nürnberg)  (VZG  5850)  im  Bf  Feucht  Gleis  4  (Abfahrt  19:41  Uhr) 
+
+eine männliche Person mit, nach dem diese Person in der Tür vermutlich mit der Hand oder 
+
+Finger eingeklemmt war. Die männliche Person geriet zwischen Bahnsteigkante und Zug. 
+
+1.2 
+
+Folgen 
+
+Die männliche Person wurde vom Eisenbahnfahrzeug überrollt. Der Mann verstarb noch an 
+
+der Unfallstelle. 
+
+1.3 
+
+Ursachen 
+
+Die  Untersuchungen  ergaben,  dass  die  Primärursache  darin  begründet  liegt,  dass  der  Rei­
+
 sende versuchte in die im Abfertigungsprozess befindliche S-Bahn während des Türschließ­
-prozesses einzusteigen und hierbei eingeklemmt wurde. Da insbesondere das Einklemmen
-kleiner Gegenstände von bis zu 3 cm durch die Türeinrichtung nicht detektiert wird, kommt
-das Abfertigungsverfahren Selbstabfertigung Triebfahrzeugführer (SAT) zur Anwendung.
-Nach dem Schließen der Türen und vor der Abfahrt muss der Triebfahrzeugführer durch
-Kontrollblick prüfen, ob die Außentüren geschlossen und keine Gegenstände oder Personen
+
+prozesses einzusteigen und hierbei eingeklemmt wurde. Da insbesondere das Einklemmen 
+
+kleiner Gegenstände von bis zu 3 cm durch die Türeinrichtung nicht detektiert wird, kommt 
+
+das  Abfertigungsverfahren  Selbstabfertigung  Triebfahrzeugführer  (SAT)  zur  Anwendung. 
+
+Nach  dem  Schließen  der  Türen  und  vor  der  Abfahrt  muss  der  Triebfahrzeugführer  durch 
+
+Kontrollblick prüfen, ob die Außentüren geschlossen und keine Gegenstände oder Personen 
+
 eingeklemmt sind. Dieser Prüfschritt misslang, wobei der genaue Grund nicht ermittelt wer­
-den konnte.
 
-Seite 6 von 17
+den konnte. 
 
-Untersuchungsbericht
-Personenunfall, 31.01.2015, Feucht
+Seite 6 von 17 
 
-Abb. 1: Garnitur wie beim Ereignis (Unfalltür: 6. Tür von vorne) Abb. 1a: Bahnsteig aus Sicht des
-Triebfahrzeug­ führers
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Personenunfall,  31.01.2015,  Feucht 
+
+Abb. 1: Garnitur wie beim Ereignis (Unfalltür: 6. Tür von vorne) Abb. 1a: Bahnsteig aus Sicht des 
+
+Triebfahrzeug­ führers 
+
 Quelle: EUB
 
-Seite 7 von 17
+Seite 7 von 17 
 
-Untersuchungsbericht
-Personenunfall, 31.01.2015, Feucht
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-2
+Personenunfall,  31.01.2015,  Feucht 
 
-Vorbemerkungen
+2 
 
-2.1
+Vorbemerkungen 
 
-Organisatorischer Hinweis
+2.1 
 
-Mit der Richtlinie 2004/49/EG zur Eisenbahnsicherheit in der Gemeinschaft (Eisenbahnsi­
-cherheitsrichtlinie) wurden die Mitgliedstaaten der europäischen Union verpflichtet, unab­
+Organisatorischer Hinweis 
+
+Mit  der  Richtlinie  2004/49/EG  zur  Eisenbahnsicherheit  in  der  Gemeinschaft  (Eisenbahnsi­
+
+cherheitsrichtlinie)  wurden  die  Mitgliedstaaten  der  europäischen  Union  verpflichtet,  unab­
+
 hängige Untersuchungsstellen für die Untersuchung bestimmter gefährlicher Ereignisse ein­
-zurichten.
-Diese Richtlinie wurde mit dem 5. Gesetz zur Änderung eisenbahnrechtlicher Vorschriften
-vom 16. April 2007 umgesetzt und die Eisenbahn-Unfalluntersuchungsstelle des Bundes
+
+zurichten. 
+
+Diese  Richtlinie  wurde  mit  dem  5.  Gesetz  zur  Änderung  eisenbahnrechtlicher  Vorschriften 
+
+vom  16.  April  2007  umgesetzt  und  die  Eisenbahn-Unfalluntersuchungsstelle  des  Bundes 
+
 (EUB) eingerichtet. Die weitere Umsetzung der Sicherheitsrichtlinie erfolgte durch die Eisen­
-bahn-Unfalluntersuchungsverordnung (EUV) vom 05.07.2007.
+
+bahn-Unfalluntersuchungsverordnung (EUV) vom 05.07.2007. 
+
 Die Leitung der Eisenbahn-Unfalluntersuchungsstelle des Bundes (EUB) liegt beim Bundes­
-ministerium für Verkehr und digitale Infrastruktur (BMVI). Zur Durchführung der Untersu­
-chungen greift die Leitung der EUB auf die Untersuchungszentrale beim EisenbahnBundesamt - die fachlich ausschließlich und unmittelbar dem Leiter der EUB untersteht ­
-zurück.
-Näheres hierzu ist im Internet unter >> www.eisenbahn-unfalluntersuchung.de << eingestellt.
 
-2.2
+ministerium  für  Verkehr  und  digitale  Infrastruktur  (BMVI).  Zur  Durchführung  der  Untersu­
 
-Ziel der Eisenbahn-Unfalluntersuchung
+chungen  greift  die  Leitung  der  EUB  auf  die  Untersuchungszentrale  beim  Eisenbahn-
+
+Bundesamt  -  die  fachlich  ausschließlich  und  unmittelbar  dem  Leiter  der  EUB  untersteht  ­
+
+zurück. 
+
+Näheres hierzu ist im Internet unter >> www.eisenbahn-unfalluntersuchung.de << eingestellt. 
+
+2.2 
+
+Ziel der Eisenbahn-Unfalluntersuchung 
 
 Ziel und Zweck der Untersuchungen ist es, die Ursachen von gefährlichen Ereignissen auf­
-zuklären und hieraus Hinweise zur Verbesserung der Sicherheit abzuleiten. Untersuchungen
-der EUB dienen nicht dazu, ein Verschulden festzustellen oder Fragen der Haftung oder
-sonstiger zivilrechtlicher Ansprüche zu klären und werden unabhängig von jeder gerichtli­
-chen Untersuchung durchgeführt.
-Die Untersuchung umfasst die Sammlung und Auswertung von Informationen, die Erarbei­
+
+zuklären und hieraus Hinweise zur Verbesserung der Sicherheit abzuleiten. Untersuchungen 
+
+der  EUB  dienen  nicht  dazu,  ein  Verschulden  festzustellen  oder  Fragen  der  Haftung  oder 
+
+sonstiger  zivilrechtlicher  Ansprüche  zu  klären  und  werden  unabhängig  von  jeder  gerichtli­
+
+chen Untersuchung durchgeführt. 
+
+Die  Untersuchung  umfasst  die  Sammlung  und  Auswertung  von  Informationen,  die  Erarbei­
+
 tung von Schlussfolgerungen einschließlich der Feststellung der Ursachen und gegebenen­
-falls die Abgabe von Sicherheitsempfehlungen. Die Vorschläge der Untersuchungsstelle zur
-Vermeidung von Unfällen und Verbesserung der Sicherheit im Eisenbahnverkehr werden der
-Sicherheitsbehörde und, soweit erforderlich, anderen Stellen und Behörden oder anderen
-Mitgliedstaaten der EU in Form von Sicherheitsempfehlungen mitgeteilt.
 
-Seite 8 von 17
+falls die Abgabe von Sicherheitsempfehlungen. Die Vorschläge der Untersuchungsstelle zur 
 
-Untersuchungsbericht
-Personenunfall, 31.01.2015, Feucht
+Vermeidung von Unfällen und Verbesserung der Sicherheit im Eisenbahnverkehr werden der 
 
-2.3
+Sicherheitsbehörde  und,  soweit  erforderlich,  anderen  Stellen  und  Behörden  oder  anderen 
 
-Beteiligte und Mitwirkende
+Mitgliedstaaten der EU in Form von Sicherheitsempfehlungen mitgeteilt. 
 
-Im Rahmen der Sachverhaltsermittlung und Ursachenerforschung wurden folgende externe
-Stellen einbezogen:
-
+Seite 8 von 17 
 
-Deutsche Bahn AG DB Regio Bayern (S-Bahn Nürnberg)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-
+Personenunfall,  31.01.2015,  Feucht 
 
-BPol Nürnberg
+2.3 
 
-
+Beteiligte und Mitwirkende 
 
-Kripo Schwabach (Aktenzeichen BY 5780-000723-15/3)
+Im  Rahmen  der  Sachverhaltsermittlung  und  Ursachenerforschung  wurden folgende externe 
 
-
+Stellen einbezogen: 
 
-Zeuge des Ereignisses
+    Deutsche Bahn AG DB Regio Bayern (S-Bahn Nürnberg) 
 
-3
+  BPol Nürnberg 
 
-Ereignis
+    Kripo Schwabach (Aktenzeichen BY 5780-000723-15/3) 
 
-3.1
+    Zeuge des Ereignisses 
 
-Hergang
+3 
 
-Am 31.01.2015 gegen 19:41 Uhr schleifte die Zugfahrt S 39661 (lokbespannt) des Eisen­
-bahnverkehrsunternehmen (EVU) DB Regio AG, Region Bayern (S-Bahn), auf der Fahrt von
-Nürnberg nach Altdorf (b. Nürnberg) (VZG 5850) im Bf Feucht Gleis 4 (Abfahrt 19:41 Uhr)
-eine männliche Person mit, nach dem diese Person in der Tür vermutlich mit der Hand oder
-Finger eingeklemmt war. Die männliche Person geriet zwischen Bahnsteig-kante und Zug.
-Die männliche Person wurde vom Eisenbahnfahrzeug überrollt und verstarb noch an der
-Unfallstelle.
+Ereignis 
 
-Abb. 2: Lageplan
-Quelle: IVL-Plan DB Netz AG bearbeitet durch EUB
+3.1 
 
-Seite 9 von 17
+Hergang 
 
-Untersuchungsbericht
-Personenunfall, 31.01.2015, Feucht
+Am  31.01.2015  gegen  19:41  Uhr  schleifte  die  Zugfahrt  S  39661  (lokbespannt)  des  Eisen­
 
-3.2
+bahnverkehrsunternehmen (EVU) DB Regio AG, Region Bayern (S-Bahn), auf der Fahrt von 
 
-Todesopfer, Verletzte und Sachschäden
+Nürnberg  nach  Altdorf  (b.  Nürnberg)  (VZG  5850)  im  Bf  Feucht  Gleis  4  (Abfahrt  19:41  Uhr) 
 
-Die männliche Person wurde vom Eisenbahnfahrzeug überrollt. Der Mann verstarb noch an
-der Unfallstelle.
-Der Tf erlitt einen Schock.
-Betriebserschwernisse:
-
+eine männliche Person mit, nach dem diese Person in der Tür vermutlich mit der Hand oder 
 
-Gleissperrung im Bf Feucht bis 21:30 Uhr
+Finger  eingeklemmt  war.  Die  männliche  Person  geriet  zwischen  Bahnsteig-kante  und  Zug. 
 
-3.3
+Die  männliche  Person  wurde  vom  Eisenbahnfahrzeug  überrollt  und  verstarb  noch  an  der 
 
-Wetterbedingungen
+Unfallstelle. 
 
-Dunkelheit
-trocken
+Abb. 2: Lageplan 
 
-4
+Quelle: IVL-Plan DB Netz AG bearbeitet durch EUB 
 
-Untersuchungsprotokoll
+Seite 9 von 17 
 
-4.1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Zusammenfassung von Aussagen
+Personenunfall,  31.01.2015,  Feucht 
 
-Aussage des beteiligten Triebfahrzeugführers:
+3.2 
 
-Aussage eines Zeugen:
-Am 06.02.2015 wurde das Ereignis im Bf Feucht rekonstruiert. Zugegen waren Vertreter der
+Todesopfer, Verletzte und Sachschäden 
+
+Die männliche Person wurde vom Eisenbahnfahrzeug überrollt. Der Mann verstarb noch an 
+
+der Unfallstelle. 
+
+Der Tf erlitt einen Schock. 
+
+Betriebserschwernisse: 
+
+    Gleissperrung im Bf Feucht bis 21:30 Uhr 
+
+3.3 
+
+Wetterbedingungen 
+
+Dunkelheit 
+
+trocken 
+
+4 
+
+Untersuchungsprotokoll 
+
+4.1 
+
+Zusammenfassung von Aussagen 
+
+Aussage des beteiligten Triebfahrzeugführers: 
+
+Aussage eines Zeugen: 
+
+Am 06.02.2015 wurde das Ereignis im Bf Feucht rekonstruiert. Zugegen waren Vertreter der 
+
 Strafverfolgungsbehörden, der Eisenbahn-Unfalluntersuchungsstelle des Bundes, des betei­
-ligten Eisenbahnverkehrsunternehmens und ein Zeuge. Im Zuge der Rekonstruktion lieferte
 
-Seite 10 von 17
+ligten Eisenbahnverkehrsunternehmens und ein Zeuge. Im Zuge der Rekonstruktion lieferte 
 
-Untersuchungsbericht
-Personenunfall, 31.01.2015, Feucht
+Seite 10 von 17 
 
-der Zeuge folgende, zusammengefasste Informationen. Er sei nach der Einfahrt der S-Bahn
-in den Bf Feucht aus dieser ausgestiegen und habe sich in die Unterführung begeben. Dort
-sei ihm der später verunfallte Reisende entgegen gerannt und habe ihm mitgeteilt, dass er
-die S-Bahn noch unbedingt erreichen müsste. Daraufhin hätten Sie sich beide zum Bahn­
-steig begeben. Der Zeuge führte aus, dass er seinen Fuß in die sich schließende Tür gestellt
-und der Mann versucht habe die Tür wieder aufzudrücken. Hierbei sei er eingeklemmt und
-von der dann anfahrenden S-Bahn mitgezogen worden. Der Zeuge versuchte lautstark und
-mit Gesten sich dem Tf bemerkbar zu machen und zum Anhalten zu bewegen. Was aber
-misslang.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-4.2
+Personenunfall,  31.01.2015,  Feucht 
 
-Untersuchung der Infrastruktur
+der Zeuge folgende, zusammengefasste Informationen. Er sei nach der Einfahrt der S-Bahn 
 
-Im vorliegenden Fall sind die technischen Einrichtungen (Beleuchtung) an den Bahnanlagen
-bei der S-Bahn Nürnberg vorhanden, funktionsfähig und für den Betrieb nach EBO § 45 (7)
-geeignet.
-Der Bahnsteig am Gleis 4 hat eine Systemhöhe von 0,96 m und eine maximale Nutzlänge
-von 141 m. Der Bahnsteig liegt in einer Geraden und ist beleuchtet. Technische Abferti­
+in den Bf Feucht aus dieser ausgestiegen und habe sich in die Unterführung begeben. Dort 
+
+sei  ihm  der  später  verunfallte Reisende entgegen gerannt und habe ihm mitgeteilt, dass er 
+
+die  S-Bahn  noch  unbedingt  erreichen  müsste.  Daraufhin  hätten  Sie  sich  beide  zum  Bahn­
+
+steig begeben. Der Zeuge führte aus, dass er seinen Fuß in die sich schließende Tür gestellt 
+
+und der Mann versucht habe die Tür wieder aufzudrücken. Hierbei sei er eingeklemmt und 
+
+von der dann anfahrenden S-Bahn mitgezogen worden. Der Zeuge versuchte lautstark und 
+
+mit  Gesten  sich  dem  Tf  bemerkbar  zu  machen  und  zum  Anhalten  zu  bewegen.  Was  aber 
+
+misslang. 
+
+4.2 
+
+Untersuchung der Infrastruktur 
+
+Im vorliegenden Fall sind die technischen Einrichtungen (Beleuchtung) an den Bahnanlagen 
+
+bei der S-Bahn Nürnberg vorhanden, funktionsfähig und für den Betrieb nach EBO § 45 (7) 
+
+geeignet. 
+
+Der  Bahnsteig  am  Gleis  4  hat  eine  Systemhöhe  von  0,96  m  und  eine  maximale  Nutzlänge 
+
+von  141  m.  Der  Bahnsteig  liegt  in  einer  Geraden  und  ist  beleuchtet.  Technische  Abferti­
+
 gungshilfen sind am Bahnsteig keine vorhanden. Im Rahmen der Untersuchung wurden kei­
-ne ereignisursächlichen Feststellungen getroffen.
 
-4.3
+ne ereignisursächlichen Feststellungen getroffen. 
 
-Untersuchung der Leit- und Sicherungstechnik
+4.3 
 
-Ist für das vorliegende Ereignis nicht relevant und wurde nicht untersucht.
+Untersuchung der Leit- und Sicherungstechnik 
 
-4.4
+Ist für das vorliegende Ereignis nicht relevant und wurde nicht untersucht. 
 
-Untersuchung der betrieblichen Handlungen
+4.4 
 
-Neben dem betrieblichen Abfertigungsverfahren wurden auch die Anforderungen an den Tf
+Untersuchung der betrieblichen Handlungen 
+
+Neben dem betrieblichen Abfertigungsverfahren wurden auch die Anforderungen an den Tf 
+
 gemäß §§ 47-54 Eisenbahn- Bau- und Betriebsordnung (EBO) bei den Untersuchungen be­
-rücksichtigt.
 
-4.4.1
+rücksichtigt. 
 
-Abfertigungsverfahren
+4.4.1 
+
+Abfertigungsverfahren 
 
 Gemäß § 45 Abs. 7 EBO dürfen Reisezüge ohne Zugbegleiter verkehren, wenn das Schlie­
-ßen der Wagentüren auf den Fahrgastwechsel abgestimmt und das Geschlossensein der
-Wagentüren vor Abfahrt dem Triebfahrzeugführer angezeigt oder bei einfachen Verhältnis­
+
+ßen  der  Wagentüren  auf  den  Fahrgastwechsel  abgestimmt  und  das  Geschlossensein  der 
+
+Wagentüren  vor  Abfahrt  dem  Triebfahrzeugführer  angezeigt  oder  bei  einfachen  Verhältnis­
+
 sen von ihm festgestellt wird. Das bei der S-Bahn Nürnberg zur Anwendung kommende Ab­
-fertigungsverfahren heißt SAT „Selbstabfertigung durch den Triebfahrzeugführer (Tf)“ nach
-Ril 494.0252. Bei SAT legt der Tf fest, auf welcher Seite des Zuges die Türen freigegeben
-werden (seitenselektive Türfreigabe). In der Stirnvoute des Führerraums sind zwei gelbe
-Leuchtmelder „Türen“ angeordnet und liefern dem Tf folgende Informationen:
 
-Seite 11 von 17
+fertigungsverfahren  heißt  SAT  „Selbstabfertigung  durch  den  Triebfahrzeugführer  (Tf)“  nach 
 
-Untersuchungsbericht
-Personenunfall, 31.01.2015, Feucht
+Ril 494.0252. Bei SAT legt der Tf fest, auf welcher Seite des Zuges die Türen freigegeben 
 
-
+werden  (seitenselektive  Türfreigabe).  In  der  Stirnvoute  des  Führerraums  sind  zwei  gelbe 
 
-Türen geöffnet oder Türstörung: Melder - Blinklicht
+Leuchtmelder „Türen“ angeordnet und liefern dem Tf folgende Informationen: 
 
-
+Seite 11 von 17 
 
-Türen freigegeben: Melder - Dauerlicht
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-
+Personenunfall,  31.01.2015,  Feucht 
 
-Türen (Endstellung) geschlossen: Melder - aus/dunkel
+    Türen geöffnet oder Türstörung: Melder - Blinklicht 
 
-Der Führertisch im Führerstand der Tfz befindet sich in der Regel in Fahrtrichtung des Zuges
-rechts. Zur Herstellung der Abfahrbereitschaft werden die Türen zentral vom Lokführer ge­
-schlossen. Die Abfahrbereitschaft der S 39661 hatte der Tf durch das linke Seitenfenster des
-Führerstands festzustellen.
+    Türen freigegeben: Melder - Dauerlicht 
 
-Folgende Richtlinien sind in diesem Fall für die Abfahrt des Zuges von Bedeutung:
-
+    Türen (Endstellung) geschlossen: Melder - aus/dunkel 
 
-Ril 408.0332 1 bis 4 - Züge fahren – Abfahrbereitschaft feststellen
+Der Führertisch im Führerstand der Tfz befindet sich in der Regel in Fahrtrichtung des Zuges 
 
-
+rechts.  Zur  Herstellung  der  Abfahrbereitschaft  werden  die  Türen  zentral  vom  Lokführer  ge­
 
-Ril 418.3328: 1 - Abfahrbereitschaft feststellen (5) und (7):
+schlossen. Die Abfahrbereitschaft der S 39661 hatte der Tf durch das linke Seitenfenster des 
 
-Die Bedienungsanweisung ist im vorliegendem Fall die Ril 493.9796 Triebfahrzeuge bedie­
-nen Steuerwagen BA 796.x 4 Serviceeinrichtungen 4.1 Türsteuerung:
+Führerstands festzustellen. 
 
-Seite 12 von 17
+Folgende Richtlinien sind in diesem Fall für die Abfahrt des Zuges von Bedeutung: 
 
-Untersuchungsbericht
-Personenunfall, 31.01.2015, Feucht
+    Ril 408.0332 1 bis 4 - Züge fahren – Abfahrbereitschaft feststellen 
 
-Ergebnis: Demnach muss im vorliegenden Fall nach Ril 494.0252 (SAT) abgefertigt werden:
+    Ril 418.3328: 1 - Abfahrbereitschaft feststellen (5) und (7): 
 
-Seite 13 von 17
+Die  Bedienungsanweisung  ist  im  vorliegendem  Fall  die  Ril 493.9796 Triebfahrzeuge bedie­
 
-Untersuchungsbericht
-Personenunfall, 31.01.2015, Feucht
+nen Steuerwagen BA 796.x 4 Serviceeinrichtungen 4.1 Türsteuerung: 
 
-Laut Auskunft von DB Regio AG (EBL und Ausbildungsleiter) werden die Tf dahingehend
-geschult, dass sie die Herstellung der Abfahrbereitschaft durch Beobachtung (mit Kontroll­
-blick aus dem Seitenfenster des Führerstandes) festzustellen haben. Der Tf achtet darauf,
-dass die Außentüren geschlossen und keine Person oder Gegenstände eingeklemmt sind.
-Dies ist zusätzlich zur Leuchtmelderanzeige festzustellen.
+Seite 12 von 17 
 
-Seite 14 von 17
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Untersuchungsbericht
-Personenunfall, 31.01.2015, Feucht
+Personenunfall,  31.01.2015,  Feucht 
 
-Feststellung:
-Im dritten Aufzählungspunkt zur Herstellung der Abfahrbereitschaft der Ril 494.0252 ist nicht
-explizit geregelt, wie diese Forderung zu erfüllen ist.
+Ergebnis: Demnach muss im vorliegenden Fall nach Ril 494.0252 (SAT) abgefertigt werden: 
 
-4.4.2
+Seite 13 von 17 
 
-Anforderungen an Tf
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Personenunfall,  31.01.2015,  Feucht 
+
+Laut  Auskunft  von  DB  Regio  AG  (EBL  und  Ausbildungsleiter)  werden  die  Tf  dahingehend 
+
+geschult,  dass  sie  die  Herstellung  der  Abfahrbereitschaft  durch  Beobachtung  (mit  Kontroll­
+
+blick  aus  dem  Seitenfenster  des  Führerstandes)  festzustellen  haben.  Der  Tf  achtet  darauf, 
+
+dass  die  Außentüren  geschlossen  und  keine  Person  oder  Gegenstände  eingeklemmt  sind. 
+
+Dies ist zusätzlich zur Leuchtmelderanzeige festzustellen. 
+
+Seite 14 von 17 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Personenunfall,  31.01.2015,  Feucht 
+
+Feststellung: 
+
+Im dritten Aufzählungspunkt zur Herstellung der Abfahrbereitschaft der Ril 494.0252 ist nicht 
+
+explizit geregelt, wie diese Forderung zu erfüllen ist. 
+
+4.4.2 
+
+Anforderungen an Tf 
 
 Der betroffene Triebfahrzeugführer besitzt einen gültigen europäischen Triebfahrzeugführer­
-schein mit entsprechender Zusatzbescheinigung.
-Die letzte Tauglichkeitsuntersuchung (Tauglichkeitsgruppe 111) fand am 10.12.2104 statt.
-Der Tf ist für die vorgesehene Tätigkeit tauglich mit Bedingungen. Die angegebene Seh­
-schärfe erreicht der Tf mit Sehhilfe.
+
+schein mit entsprechender Zusatzbescheinigung. 
+
+Die  letzte  Tauglichkeitsuntersuchung  (Tauglichkeitsgruppe  111)  fand  am  10.12.2104  statt. 
+
+Der  Tf  ist  für  die  vorgesehene  Tätigkeit  tauglich  mit  Bedingungen.  Die  angegebene  Seh­
+
+schärfe erreicht der Tf mit Sehhilfe. 
+
 Die Fortbildungsnachweise (Teilnahmebescheinigungen, Lernerfolgskontrollen, Ergebnispro­
+
 tokoll Computerbasiertes Training (CBT)) des betroffenen Tf, insbesondere des Regelmäßi­
-gen Fortbildungsunterrichts (RFU) im Jahr 2014 liegen der EUB vor und wurden geprüft. Den
-letzten RFU besuchte der Tf am 28.11.2014.
-Es wurden folgende Themen behandelt:
-BR 442 einschl. UVV, EZVA-Modul EX11, Klimaanlage - Verhalten bei Ausfall, RFU Betrieb
-nach Lehrgliederung, Tf Heft Ril 418.10-90, Tf-Heft; Bremsprobe, PZB, Sanden, Oberlei­
-tungsstörung, Fahren auf Sicht, zentrale Themen DB Regio gemäß Lehrgliederung.
+
+gen Fortbildungsunterrichts (RFU) im Jahr 2014 liegen der EUB vor und wurden geprüft. Den 
+
+letzten RFU besuchte der Tf am 28.11.2014. 
+
+Es wurden folgende Themen behandelt: 
+
+BR 442 einschl. UVV, EZVA-Modul EX11, Klimaanlage - Verhalten bei Ausfall, RFU Betrieb 
+
+nach  Lehrgliederung,  Tf  Heft  Ril  418.10-90,  Tf-Heft;  Bremsprobe,  PZB,  Sanden,  Oberlei­
+
+tungsstörung, Fahren auf Sicht, zentrale Themen DB Regio gemäß Lehrgliederung. 
+
 Bei den erforderlichen Lernerfolgskontrollen Technik und Betrieb hat der Tf die Anforderun­
-gen im vollen Umfang erreicht.
-Die Inhalte des CBT liegen der EUB vor und wurden geprüft. Das Abfertigungsverfahren SAT
-war demnach inhaltlich auch ein Thema.
-Am 11.09.2014 erreichte der Tf bei diesem CBT 100 Punkte.
+
+gen im vollen Umfang erreicht. 
+
+Die Inhalte des CBT liegen der EUB vor und wurden geprüft. Das Abfertigungsverfahren SAT 
+
+war demnach inhaltlich auch ein Thema. 
+
+Am 11.09.2014 erreichte der Tf bei diesem CBT 100 Punkte. 
+
 Die letzte Simulationsfahrt absolvierte der Tf am 28.02.2014 mit dem Ergebnis, dass er wei­
-ter einsetzbar ist.
-Die letzte Überwachungsfahrt wurde am 16.12.2014 bei dem Tf durchgeführt. Sie ist ohne
-Mängel protokolliert.
-Speziell die bis einschließlich Ereignistag verwendeten Trainer und Teilnehmerunterlagen
+
+ter einsetzbar ist. 
+
+Die  letzte  Überwachungsfahrt  wurde  am  16.12.2014  bei  dem  Tf  durchgeführt.  Sie  ist  ohne 
+
+Mängel protokolliert. 
+
+Speziell  die  bis  einschließlich  Ereignistag  verwendeten  Trainer  und  Teilnehmerunterlagen 
+
 zum Thema Abfertigungsverfahren SAT (Schulungsunterlagen für Tf / KiN – Abfertigungsab­
-läufe zentrales Schließen mit Zs (SAT) mit den dazugehörenden Aufgabenblättern wurden
-geprüft. Es wurden keine Unstimmigkeiten festgestellt.
 
-Seite 15 von 17
+läufe  zentrales  Schließen  mit  Zs  (SAT)  mit  den  dazugehörenden  Aufgabenblättern  wurden 
 
-Untersuchungsbericht
-Personenunfall, 31.01.2015, Feucht
+geprüft. Es wurden keine Unstimmigkeiten festgestellt. 
 
-Zumal wie schon erwähnt, laut Auskunft von DB Regio AG, die Tf dahingehend geschult
-werden, dass sie die Herstellung der Abfahrbereitschaft durch Beobachtung (mit Kontroll­
-blick aus dem linken Seitenfenster des Führerstandes) festzustellen haben.
+Seite 15 von 17 
 
-4.5
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Untersuchung von Fahrzeugen
+Personenunfall,  31.01.2015,  Feucht 
 
-Bei der S 39661 (S 2) handelt es sich um einen Wendezug, der sich wie folgt zusammen­
-setzt:
+Zumal  wie  schon  erwähnt,  laut  Auskunft  von  DB  Regio  AG,  die  Tf  dahingehend  geschult 
+
+werden,  dass  sie  die  Herstellung  der  Abfahrbereitschaft  durch  Beobachtung  (mit  Kontroll­
+
+blick aus dem linken Seitenfenster des Führerstandes) festzustellen haben. 
+
+4.5 
+
+Untersuchung von Fahrzeugen 
+
+Bei  der  S  39661  (S  2)  handelt  es  sich  um  einen  Wendezug,  der  sich  wie  folgt  zusammen­
+
+setzt: 
+
+  Steuerwagen, Fzg.-Nr. 50 80 80-33 177-2 (Gattung Bxf, Bauart 796, LÜP 25.260 mm) 
+
+  Mittelwagen, Fzg.-Nr. 50 80 20-33 297-1 (Gattung Bx, Bauart 794, LÜP 24.500 mm), 
+
 
 
-Steuerwagen, Fzg.-Nr. 50 80 80-33 177-2 (Gattung Bxf, Bauart 796, LÜP 25.260 mm)
-
 
 
-Mittelwagen, Fzg.-Nr. 50 80 20-33 297-1 (Gattung Bx, Bauart 794, LÜP 24.500 mm),
+ Mittelwagen, Fzg.-Nr. 50 80 20-33 278-1 (Gattung Bx, Bauart 794, LÜP 24.500 mm), 
 
-
+ Mittelwagen, Fzg.-Nr. 50 80 20-33 242-7 (Gattung Bx, Bauart 794, LÜP 24.500 mm) und 
 
-Mittelwagen, Fzg.-Nr. 50 80 20-33 278-1 (Gattung Bx, Bauart 794, LÜP 24.500 mm),
+  Triebfahrzeug Nr.: 91 80 6 143 626-0. 
 
-
+Für  den  schnellen  Fahrgastwechsel  sind  je  Fahrzeugseite  drei  breite,  doppelte  Schwenk­
 
-Mittelwagen, Fzg.-Nr. 50 80 20-33 242-7 (Gattung Bx, Bauart 794, LÜP 24.500 mm) und
-
-
-
-Triebfahrzeug Nr.: 91 80 6 143 626-0.
-
-Für den schnellen Fahrgastwechsel sind je Fahrzeugseite drei breite, doppelte Schwenk­
 schiebetüren vorhanden. Die Auswertung der EFR-Aufzeichnung ergab, dass der Fahrgast­
-wechsel (Standzeit bis zur Anfahrt) vor dem Ereignis 45 sec dauerte.
-Der 4-teilige Wagenzug ist etwa 98 m und das Tfz (BR 143) etwa 17 m lang, somit hat die SBahn eine Länge von etwa 115 m.
+
+wechsel (Standzeit bis zur Anfahrt) vor dem Ereignis 45 sec dauerte. 
+
+Der 4-teilige Wagenzug ist etwa 98 m und das Tfz (BR 143) etwa 17 m lang, somit hat die S-
+
+Bahn eine Länge von etwa 115 m. 
+
 Der Wagenzug wurde hinsichtlich technischer Mängel an der Türschließeinrichtung und de­
-ren Melder zum Führerstand im Wagenwerk der DB Regio AG untersucht. Die Türen des
+
+ren  Melder  zum  Führerstand  im  Wagenwerk  der  DB  Regio  AG  untersucht.  Die  Türen  des 
+
 Wagenzugs wiesen gegenüber den Sollvorgaben keine Auffälligkeiten auf. Ebenso die Über­
-prüfung der Warntongeber.
+
+prüfung der Warntongeber. 
+
 Sie reversierten beim Einbringen des Prüfholzes von 30mm und auch die Leuchtmelder funk­
-tionierten einwandfrei.
+
+tionierten einwandfrei. 
+
 Gleichfalls ist bekannt, dass bei sehr kleinen eingeklemmten Gegenständen (nur Fingerspit­
-zen) die Tür in Endlage kommt und verriegelt. Dabei erlöschen dann auch die Leuchtmelder
+
+zen) die Tür in Endlage kommt und verriegelt. Dabei erlöschen dann auch die Leuchtmelder 
+
 „Türen“ auf dem Triebfahrzeugführerstand. Die Finger können grundsätzlich so stark einge­
-klemmt werden, dass ein Mitziehen der Person möglich ist. Die Finger lassen sich nur
+
+klemmt  werden,  dass  ein  Mitziehen  der  Person  möglich  ist.  Die  Finger  lassen  sich  nur 
+
 schmerzhaft, durch einen starken Ruck, oder durch das Stürzen der Person auf den Bahn­
-steig, aus der Tür entfernen.
-Der Spalt zwischen Wagen und Bahnsteig im Bf Feucht beträgt 23 cm. Der Spalt zwischen
-Trittrost Tür und Bahnsteig im Bf Feucht beträgt ca. 18 cm. Der Einstieg kann höhengleich
-erfolgen.
 
-Seite 16 von 17
+steig, aus der Tür entfernen. 
 
-Untersuchungsbericht
-Personenunfall, 31.01.2015, Feucht
+Der Spalt zwischen Wagen und Bahnsteig im Bf Feucht beträgt 23 cm. Der Spalt zwischen 
 
-4.6
+Trittrost Tür und Bahnsteig im Bf Feucht beträgt ca. 18 cm. Der Einstieg kann höhengleich 
 
-Interpretation der Unfallspuren
+erfolgen. 
 
-Am Fahrzeug Bx 50 80 20-33 278-1 (vorletzter Wagen) und im betroffenen Türbereich (letzte
+Seite 16 von 17 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Personenunfall,  31.01.2015,  Feucht 
+
+4.6 
+
+Interpretation der Unfallspuren 
+
+Am Fahrzeug Bx 50 80 20-33 278-1 (vorletzter Wagen) und im betroffenen Türbereich (letzte 
+
 Tür dieses Wagens = 6. Tür im Zugverband bzw. 3 Tür vom Schluss des Zuges aus gese­
-hen) konnten keine Unfallspuren festgestellt werden.
 
-5
+hen) konnten keine Unfallspuren festgestellt werden. 
 
-Auswertung und Schlussfolgerungen
+5 
+
+Auswertung und Schlussfolgerungen 
 
 Auf Grundlage der im Rahmen der Untersuchung gewonnenen Erkenntnisse ist davon aus­
+
 zugehen, dass der Tf nach Beendigung des Fahrgastwechsels den Türschließprozess einlei­
-tete.
+
+tete. 
+
 Reisende werden durch einen akustischen Warnton vor dem Schließprozess der Türen ge­
-warnt. Ein beabsichtigtes Aufhalten des Schließvorgangs stellt keinen bestimmungsgemä­
-ßen Gebrauch der Türe dar.
+
+warnt.  Ein  beabsichtigtes  Aufhalten  des  Schließvorgangs  stellt  keinen  bestimmungsgemä­
+
+ßen Gebrauch der Türe dar. 
+
 Die betroffene Einstiegstür war von dem vorzusehenden Standort des Tf (Blick aus dem lin­
-ken Seitenfenster) ca. 70 m entfernt.
-Nachdem die Leuchtmelder „Türen“ dunkel waren, setzte er den Zug in Bewegung und fuhr
-ab. Zu diesem Zeitpunkt war in der geschlossenen Außentür die Person eingeklemmt.
+
+ken Seitenfenster) ca. 70 m entfernt. 
+
+Nachdem die Leuchtmelder „Türen“ dunkel waren, setzte er den Zug in Bewegung und fuhr 
+
+ab. Zu diesem Zeitpunkt war in der geschlossenen Außentür die Person eingeklemmt. 
+
 Die Aussage des Tf und die Tatsache, dass eine Person eingeklemmt und mitgeschleift wur­
-de schließen sich gegenseitig aus. Hieraus ist abzuleiten, dass die Abfahrbereitschaft nicht
-ordnungsgemäß hergestellt war.
 
-6
+de schließen sich gegenseitig aus. Hieraus ist abzuleiten, dass die Abfahrbereitschaft nicht 
 
-Bisher getroffene Maßnahmen
+ordnungsgemäß hergestellt war. 
+
+6 
+
+Bisher getroffene Maßnahmen 
 
 Vorbeugend wird bei den Überwachungsfahrten nach Ril 408.1111, das Abfertigungsverfah­
-ren SAT nach Ril 494.252 / Ril 494.252.0 durch die Transportkontrolleure von DB Regio
-Bayern (S-Bahn) nochmals durchgesprochen und auch in den Überwachungsprotokollen
-entsprechend dokumentiert.
 
-Seite 17 von 17
+ren  SAT  nach  Ril  494.252  /  Ril  494.252.0  durch  die  Transportkontrolleure  von  DB  Regio 
 
+Bayern  (S-Bahn)  nochmals  durchgesprochen  und  auch  in  den  Überwachungsprotokollen 
+
+entsprechend dokumentiert. 
+
+Seite 17 von 17 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 

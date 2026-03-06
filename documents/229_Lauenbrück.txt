@@ -1,2639 +1,3676 @@
-Untersuchungsbericht
-Aktenzeichen:
+Untersuchungsbericht 
 
-BEU-uu2023-11/004-3323
+Aktenzeichen: 
 
-Stand:
+BEU-uu2023-11/004-3323 
 
-19.05.2025
+Stand: 
 
-Erstveröﬀentlichung:
+19.05.2025 
 
-21.05.2025
+Version 1.0 
 
-Version 1.0
+Erstveröﬀentlichung:  21.05.2025 
 
-Gefährliches Ereignis im Eisenbahnbetrieb
+Gefährliches	Ereignis	im	Eisenbahnbetrieb 
 
-Ereignisart:
+Ereignisart: 
 
-Zugkollision
+Datum: 
 
-Datum:
+Zeit: 
 
-15.11.2023
+Zugkollision 
 
-Zeit:
+15.11.2023 
 
-16:18 Uhr
+16:18 Uhr 
 
-Betriebsstelle:
+Betriebsstelle: 
 
-Bf Lauenbrück
+Bf Lauenbrück 
 
-Streckennummer:
+Streckennummer: 
 
-2200
+Weiche: 
 
-Weiche:
+2200 
 
-229
+229 
 
-Untersuchungsbericht
-Zugkollision, 15.11.2023, Bf Lauenbrück
+ 
+	
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Veröﬀentlicht durch:
-Bundesstelle für Eisenbahnunfalluntersuchung
-Heinemannstraße 6
-53175 Bonn
+Zugkollision, 15.11.2023, Bf Lauenbrück 
 
-Untersuchungsbericht
-Zugkollision, 15.11.2023, Bf Lauenbrück
+Veröﬀentlicht durch: 
 
-Inhaltsverzeichnis
-I.
+Bundesstelle für Eisenbahnunfalluntersuchung 
 
-Änderungsverzeichnis: .......................................................................................... II
+Heinemannstraße 6 
 
-II.
+53175 Bonn 
 
-Abbildungsverzeichnis: ........................................................................................ III
+ 
+Untersuchungsbericht 
 
-III.
+Zugkollision, 15.11.2023, Bf Lauenbrück 
 
-Tabellenverzeichnis: ............................................................................................ III
+Inhaltsverzeichnis	
 
-IV.
+I. 
 
-Abkürzungsverzeichnis: ....................................................................................... IV
+II. 
 
-0
+Änderungsverzeichnis: .......................................................................................... II 
 
-Vorbemerkung...................................................................................................... 1
+Abbildungsverzeichnis: ........................................................................................ III 
 
-1
+III. 
 
-Zusammenfassung ................................................................................................ 2
+Tabellenverzeichnis: ............................................................................................ III 
 
-1.1
+IV. 
 
-Kurzbeschreibung des Ereignisses........................................................................... 2
+Abkürzungsverzeichnis: ....................................................................................... IV 
 
-1.2
+0 
 
-Folgen ...................................................................................................................... 2
+1 
 
-1.3
+1.1 
 
-Ursachen.................................................................................................................. 2
+1.2 
 
-1.4
+1.3 
 
-Sicherheitsempfehlungen ....................................................................................... 3
+1.4 
 
-2
+2 
 
-Die Untersuchung und ihr Kontext ........................................................................ 4
+3 
 
-3
+Vorbemerkung ...................................................................................................... 1 
 
-Beschreibung des Ereignisses................................................................................ 6
+Zusammenfassung ................................................................................................ 2 
 
-3.1
+Kurzbeschreibung des Ereignisses ........................................................................... 2 
 
-Informationen über das Ereignis und seine Hintergründe ..................................... 6
+Folgen ...................................................................................................................... 2 
 
-3.1.1
+Ursachen .................................................................................................................. 2 
 
-Lage und Beschreibung des Ereignisortes ............................................................... 6
+Sicherheitsempfehlungen ....................................................................................... 3 
 
-3.1.2
+Die Untersuchung und ihr Kontext ........................................................................ 4 
 
-Beteiligte.................................................................................................................. 8
+Beschreibung des Ereignisses ................................................................................ 6 
 
-3.1.3
+3.1 
 
-Äußere Bedingungen ............................................................................................... 8
+Informationen über das Ereignis und seine Hintergründe ..................................... 6 
 
-3.1.4
+3.1.1 
 
-Todesopfer, Verletzte und Sachschäden................................................................. 9
+Lage und Beschreibung des Ereignisortes ............................................................... 6 
 
-3.2
+3.1.2 
 
-Sachliche Beschreibung der Vorkommnisse ......................................................... 11
+Beteiligte.................................................................................................................. 8 
 
-3.2.1
+3.1.3 
 
-Hergangsbeschreibung .......................................................................................... 11
+Äußere Bedingungen ............................................................................................... 8 
 
-3.2.2
+3.1.4 
 
-Notfallmanagement .............................................................................................. 12
+Todesopfer, Verletzte und Sachschäden ................................................................. 9 
 
-4
+3.2 
 
-Auswertung des Ereignisses ................................................................................ 13
+Sachliche Beschreibung der Vorkommnisse ......................................................... 11 
 
-4.1
+3.2.1 
 
-Aufgaben und Pflichten ......................................................................................... 13
+Hergangsbeschreibung .......................................................................................... 11 
 
-4.1.1
+3.2.2 
 
-Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers ................. 13
+Notfallmanagement .............................................................................................. 12 
 
-I
+4 
 
-Untersuchungsbericht
-Zugkollision, 15.11.2023, Bf Lauenbrück
+4.1 
 
-I.
+Auswertung des Ereignisses ................................................................................ 13 
 
-4.1.2
+Aufgaben und Pflichten ......................................................................................... 13 
 
-Untersuchung der betrieblichen Abläufe der EVU ................................................ 19
+4.1.1 
 
-4.2
+Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers ................. 13 
 
-Fahrzeuge und technische Einrichtungen ............................................................. 26
+I 
 
-4.2.1
+ 
+ 
+Untersuchungsbericht 
 
-Untersuchung von Fahrzeugen ............................................................................. 26
+Zugkollision, 15.11.2023, Bf Lauenbrück 
 
-4.2.2
+4.1.2 
 
-Untersuchung der bautechnischen Infrastruktur ................................................. 29
+Untersuchung der betrieblichen Abläufe der EVU ................................................ 19 
 
-4.2.3
+4.2 
 
-Untersuchung der Leit- und Sicherungstechnik .................................................... 29
+Fahrzeuge und technische Einrichtungen ............................................................. 26 
 
-4.3
+4.2.1 
 
-Menschliche Faktoren ........................................................................................... 32
+Untersuchung von Fahrzeugen ............................................................................. 26 
 
-4.3.1
+4.2.2 
 
-Beteiligte des Infrastrukturbetreibers................................................................... 32
+Untersuchung der bautechnischen Infrastruktur ................................................. 29 
 
-4.3.2
+4.2.3 
 
-Beteiligte der EVU ................................................................................................. 34
+Untersuchung der Leit- und Sicherungstechnik .................................................... 29 
 
-4.4
+4.3 
 
-Feedback- und Kontrollmechanismen .................................................................. 35
+Menschliche Faktoren ........................................................................................... 32 
 
-4.4.1
+4.3.1 
 
-Überwachung und Bewusstsein Stellwerkspersonal ............................................ 35
+Beteiligte des Infrastrukturbetreibers ................................................................... 32 
 
-4.4.2
+4.3.2 
 
-EVU Bentheimer Eisenbahn AG ............................................................................. 36
+Beteiligte der EVU ................................................................................................. 34 
 
-4.5
+4.4 
 
-Frühere Ereignisse ähnlicher Art ........................................................................... 38
+Feedback- und Kontrollmechanismen .................................................................. 35 
 
-5
+4.4.1 
 
-Schlussfolgerungen ............................................................................................. 39
+Überwachung und Bewusstsein Stellwerkspersonal ............................................ 35 
 
-5.1
+4.4.2 
 
-Zusammenfassung und Schlussfolgerung ............................................................. 39
+EVU Bentheimer Eisenbahn AG ............................................................................. 36 
 
-5.2
+4.5 
 
-Seit dem Ereignis getroffene Maßnahmen ........................................................... 43
+5 
 
-5.3
+5.1 
 
-Zusätzliche Bemerkungen ..................................................................................... 44
+5.2 
 
-6
+5.3 
 
-Sicherheitsempfehlungen ................................................................................... 44
+Frühere Ereignisse ähnlicher Art ........................................................................... 38 
 
-Änderungsverzeichnis:
-Änderung
+Schlussfolgerungen ............................................................................................. 39 
 
-Stand
+Zusammenfassung und Schlussfolgerung ............................................................. 39 
 
-II
+Seit dem Ereignis getroffene Maßnahmen ........................................................... 43 
 
-Untersuchungsbericht
-Zugkollision, 15.11.2023, Bf Lauenbrück
+Zusätzliche Bemerkungen ..................................................................................... 44 
 
-II.
+6 
 
-Abbildungsverzeichnis:
-Abbildung 1: Lageplan ................................................................................................................ 7
-Abbildung 2: Lageskizze ............................................................................................................. 7
-Abbildung 3: Zugspitzen auf Höhe des Hochspannungsmastes „298 4b“ (km 298,140)......... 10
-Abbildung 4: Zugschluss DbZ 24259 und Position des Grenzzeichens .................................... 10
-Abbildung 5: Beschädigungen im Frontbereich des Triebzuges des ICE 615........................... 11
-Abbildung 6: Stelltisch der Fdl-in Rotenburg (Wümme) nach dem Ereignis ........................... 18
-Abbildung 7: Grafische Auswertung der EFR-Daten von Zug DbZ 24259 ................................ 24
-Abbildung 8: Grafische Auswertung der EFR-Daten von Zug ICE 615...................................... 26
-Abbildung 9: Skizze BR 648 ...................................................................................................... 27
-Abbildung 10: Sand auf dem Schienenkopf im Bereich der Weiche 229 ................................ 29
+Sicherheitsempfehlungen ................................................................................... 44 
 
-III.
+I.  Änderungsverzeichnis:	
 
-Tabellenverzeichnis:
-Tabelle 1: Zusammenfassung Einflussfaktoren .......................................................................... 3
-Tabelle 2: Übersicht der äußeren Bedingungen ........................................................................ 8
-Tabelle 3: Übersicht der Personenschäden ............................................................................... 9
-Tabelle 4: Übersicht der geschätzten Schadenshöhe ................................................................ 9
-Tabelle 5: GSM-R Gespräch um 16:02:54 Uhr zwischen Fdl-in u. Tf des DbZ 24259 ............... 15
-Tabelle 6: Auszug GSM-R Gespräch zwischen Fdl-in u. Tf des DbZ 24259 nach dem Ereignis 19
-Tabelle 7: GSM-R Gespräch um 16:11:06 Uhr zwischen Fdl-in und Tf des DbZ 24259 ........... 21
-Tabelle 8: Eingegebene EFR-Zugdaten DbZ 24259 .................................................................. 23
-Tabelle 9: Eingegebene EFR-Zugdaten ICE 615 ........................................................................ 25
-Tabelle 10: Fahrzeugdaten BR 648 (Coradia LINT 41) .............................................................. 27
+Änderung 
 
-III
+Stand 
 
-Untersuchungsbericht
-Zugkollision, 15.11.2023, Bf Lauenbrück
+II 
 
-IV.
+ 
+ 
+ 
+ 
+ 
+ 
+	
+	
+Untersuchungsbericht 
 
-Abkürzungsverzeichnis:
-AEG
+Zugkollision, 15.11.2023, Bf Lauenbrück 
 
-Allgemeines Eisenbahngesetz
+II.  Abbildungsverzeichnis:	
 
-BEU
+Abbildung 1: Lageplan ................................................................................................................ 7 
 
-Bundesstelle für Eisenbahnunfalluntersuchung
+Abbildung 2: Lageskizze ............................................................................................................. 7 
 
-BEVVG
+Abbildung 3: Zugspitzen auf Höhe des Hochspannungsmastes „298 4b“ (km 298,140) ......... 10 
 
-Bundeseisenbahnverkehrsverwaltungsgesetz
+Abbildung 4: Zugschluss DbZ 24259 und Position des Grenzzeichens .................................... 10 
 
-BR
+Abbildung 5: Beschädigungen im Frontbereich des Triebzuges des ICE 615 ........................... 11 
 
-Baureihe
+Abbildung 6: Stelltisch der Fdl-in Rotenburg (Wümme) nach dem Ereignis ........................... 18 
 
-BRA
+Abbildung 7: 
 
-Bremsart
+Grafische Auswertung der EFR-Daten von Zug DbZ 24259 ................................ 24 
 
-BRH
+Abbildung 8: 
 
-Bremshundertstel
+Grafische Auswertung der EFR-Daten von Zug ICE 615 ...................................... 26 
 
-BRW
+Abbildung 9: Skizze BR 648 ...................................................................................................... 27 
 
-Betriebsregelwerk
+Abbildung 10: Sand auf dem Schienenkopf im Bereich der Weiche 229 ................................ 29 
 
-DSK
+III.  Tabellenverzeichnis:	
 
-Datenspeicherkasse e
+Tabelle 1: Zusammenfassung Einflussfaktoren ..........................................
 
-ECM
+................................ 3 
 
-En ty in Charge of Maintenance
+Tabelle 2: Übersicht der äußeren Bedingungen ........................................
 
-EIU
+................................ 8 
 
-Eisenbahninfrastrukturunternehmen
+Tabelle 3: Übersicht der Personenschäden ...............................................
 
-EFR
+................................ 9 
 
-Elektronische Fahrtenregistrierung
+Tabelle 4: Übersicht der geschätzten Schadenshöhe ................................................................ 9 
 
-Esig
+Tabelle 5: GSM-R Gespräch um 16:02:54 Uhr zwischen Fdl-in u. Tf des DbZ 24259 ............... 15 
 
-Einfahrsignal
+Tabelle 6: Auszug GSM-R Gespräch zwischen Fdl-in u. Tf des DbZ 24259 nach dem Ereignis 19 
 
-ESiV
+Tabelle 7: GSM-R Gespräch um 16:11:06 Uhr zwischen Fdl-in und Tf des DbZ 24259 ........... 21 
 
-Verordnung über die Sicherheit des Eisenbahnsystems
+Tabelle 8: Eingegebene EFR-Zugdaten DbZ 24259 .................................................................. 23 
 
-EU
+Tabelle 9: Eingegebene EFR-Zugdaten ICE 615 ........................................................................ 25 
 
-Europäische Union
+Tabelle 10: Fahrzeugdaten BR 648 (Coradia LINT 41) .............................................................. 27 
 
-EUV
+III 
 
-Eisenbahn-Unfalluntersuchungsverordnung
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-EVU
+Zugkollision, 15.11.2023, Bf Lauenbrück 
 
-Eisenbahnverkehrsunternehmen
+IV.  Abkürzungsverzeichnis:	
 
-Fdl/Fdl-in
+AEG 
 
-Fahrdienstleiter/Fahrdienstleiterin
+BEU 
 
-Fplo
+Allgemeines Eisenbahngesetz 
 
-Fahrplananordnung
+Bundesstelle für Eisenbahnunfalluntersuchung 
 
-GSM-R
+BEVVG 
 
-Global System for Mobile Communica ons Rail
+Bundeseisenbahnverkehrsverwaltungsgesetz 
 
-LINT
+BR 
 
-Leichter Innova ver Nahverkehrs-Triebwagen
+BRA 
 
-LZB
+BRH 
 
-Linienförmige Zugbeeinflussung
+BRW 
 
-Mbr
+DSK 
 
-Mindestbremshundertstel
+ECM 
 
-PZB
+EIU 
 
-Punk örmige Zugbeeinflussung
+EFR 
 
-Ril
+Esig 
 
-Richtlinie
+ESiV 
 
-SMS
+EU 
 
-Sicherheitsmanagementsystem
+EUV 
 
-Tf
+EVU 
 
-Triebfahrzeugführer
+Baureihe 
 
-IV
+Bremsart 
 
-Untersuchungsbericht
-Zugkollision, 15.11.2023, Bf Lauenbrück
+Bremshundertstel 
 
-TfV
+Betriebsregelwerk 
 
-Triebfahrzeugführerscheinverordnung
+Datenspeicherkasse(cid:425)e 
 
-VT
+En(cid:415)ty in Charge of Maintenance 
 
-Verbrennungstriebwagen
+Eisenbahninfrastrukturunternehmen 
 
-VzG
+Elektronische Fahrtenregistrierung 
 
-Verzeichnis der örtlich zulässigen Geschwindigkeiten
+Einfahrsignal 
 
-V
+Verordnung über die Sicherheit des Eisenbahnsystems 
 
-Untersuchungsbericht
-Zugkollision, 15.11.2023, Bf Lauenbrück
+Europäische Union 
 
-0 Vorbemerkung
-Auf der Grundlage des Ar kel 24 der Richtlinie (EU) 2016/798 hat die europäische Kommission
-mit
+Eisenbahn-Unfalluntersuchungsverordnung 
 
-der
+Eisenbahnverkehrsunternehmen 
 
-Inkra setzung
+Fdl/Fdl-in 
 
-der
+Fahrdienstleiter/Fahrdienstleiterin 
 
-Durchführungsverordnung (EU) 2020/572
+Fplo 
 
-die
+Fahrplananordnung 
 
-Untersuchungsberichtsstruktur festgelegt. Diese Vorgaben sind grundsätzlich einzuhalten. Die
-Berichtsstruktur muss der Art und Schwere des gefährlichen Ereignisses angepasst sein.
-Mit Verkündung der Verordnung und Inkra setzung am zwanzigsten Tag nach der
-Veröﬀentlichung im Amtsbla
+GSM-R 
 
-der Europäischen Union (EU) ist diese verbindlich und
+Global System for Mobile Communica(cid:415)ons Rail 
 
-unmi elbar auf alle ab dem 17.05.2020 eingeleiteten Untersuchungen anzuwenden.
+LINT 
 
-Seite 1 von 44
+LZB 
 
-Untersuchungsbericht
-Zugkollision, 15.11.2023, Bf Lauenbrück
+Mbr 
 
-1 Zusammenfassung
-Das erste Kapitel enthält eine Kurzbeschreibung des Ereignisses sowie Informa onen zu den
-Folgen, Primärursachen sowie zu im Einzelfall ausgesprochenen Sicherheitsempfehlungen.
+PZB 
 
-1.1 Kurzbeschreibung des Ereignisses
-Am 15.11.2023 gegen 16:18 Uhr kollidierte der ICE 615 auf der Fahrt von Hamburg-Altona Pbf
-nach München Hbf auf der Weiche 229 im Bf Lauenbrück mit dem Zug DbZ 24259.
+Ril 
 
-1.2 Folgen
-Personen wurden bei dem Ereignis nicht verletzt. Es entstand Sachschaden an den beteiligten
-Eisenbahnfahrzeugen und der Infrastruktur von ca. 2.750.000 €.
+SMS 
 
-1.3 Ursachen
-Im Rahmen der Untersuchung des Ereignisses wurden die folgenden Handlungen,
-Unterlassungen, Vorkommnisse oder Umstände als sicherheitskri sche Faktoren iden fiziert.
-Diese werden gemäß Durchführungsverordnung (EU) 2020/572 in ursächliche oder
-beitragende, und systemische Faktoren unterschieden. Zusätzlich werden ermi elte Defizite
-des No allmanagements behandelt.
-Zur besseren Übersichtlichkeit der Faktoren und Aspekte des No allmanagements wird eine
-Systema k mit Kennzeichnungen in eckigen Klammern verwendet.
-Eine detaillierte Auswertung des Ereignisses unter Einordnung als sicherheitskri sche
-Faktoren wird in den folgenden Kapiteln gegeben.
+Tf 
 
-Seite 2 von 44
+Leichter Innova(cid:415)ver Nahverkehrs-Triebwagen 
 
-Untersuchungsbericht
-Zugkollision, 15.11.2023, Bf Lauenbrück
+Linienförmige Zugbeeinﬂussung 
 
-Geschehen:
-Datum/Uhrzeit, sowie
+Mindestbremshundertstel 
 
-Ursächlicher
-Handlung / Unterlassen / Faktor
-Umstand / Vorkommnis
-15.11.2023/ab 16:02 Uhr
-GSM-R Gespräch
-zwischen
-Triebfahrzeugführer des
-DbZ 24259 und der
-zuständigen
-Fahrdienstleiterin.
+Punk(cid:414)örmige Zugbeeinﬂussung 
 
-Keine Verständigung
-der zuständigen
-Fahrdienstleiterin
-mit Nennung der
-Ortsangabe des
-Sandstreuens [F1]
+Richtlinie 
 
-Beitragender
-Faktor
+Sicherheitsmanagementsystem 
 
-Systemischer
-Faktor
+Triebfahrzeugführer  
 
-Sprechdisziplin
-während der
-GSM-R
-Gespräche [F2]
+IV 
 
--
+ 
+ 
+Untersuchungsbericht 
 
--
+Zugkollision, 15.11.2023, Bf Lauenbrück 
 
-Verfahrensbasierte
-Kompensa on der
-Funk onsbeeinträch
-gung einer
-Gleisfreimeldeanlage
-infolge Sandeintrag
-[S3]
+TfV 
 
--
+VT 
 
-Handlungssicherheit
-der Fahrdienstleiterin
-[S4]
+VzG 
 
-15.11.2023/ab 16:02 Uhr
-DbZ 24259 wird nach
-Sandung von der
-Gleisfreimeldeanlage
-nicht korrekt erkannt.
+Triebfahrzeugführerscheinverordnung 
 
-15.11.2023/16:17 Uhr
-Einfahrzugstraße für
-ICE 615 durch
-Fahrdienstleiterin
-eingestellt.
+Verbrennungstriebwagen 
 
-Funk onssicherheit
-der Detek on bei
-Sandeintrag [F3]
+Verzeichnis der örtlich zulässigen Geschwindigkeiten 
 
-Unterlassene
-Abschni sprüfung
-durch die
-Fahrdienstleiterin
-[F4]
+V 
 
-Tabelle 1: Zusammenfassung Einflussfaktoren
+ 
+ 
+ 
+Untersuchungsbericht 
 
-1.4 Sicherheitsempfehlungen
-Lfd. Nr.
+Zugkollision, 15.11.2023, Bf Lauenbrück 
 
-Adressat und Sicherheitsempfehlung
+0  Vorbemerkung	
 
-Betri
+Auf der Grundlage des Ar(cid:415)kel 24 der Richtlinie (EU) 2016/798 hat die europäische Kommission 
 
-Unternehmen
+mit 
 
-08/2025
+der 
 
-Sicherheitsbehörde:
+Inkra(cid:332)setzung 
 
-EIU, EVU, ECM, Hersteller
+der 
 
-Es wird empfohlen, die Ergänzungsregelung
-Nr. B 011 zum „Sanden" sowie die betrieblichen
-Verfahrensweisen bezüglich des Meldeverfahrens
-einer Sandung zu überprüfen und
-weiterzuentwickeln.
-09/2025
+Durchführungsverordnung (EU) 2020/572 
 
-Sicherheitsbehörde:
+die 
 
-EIU
+Untersuchungsberichtsstruktur festgelegt. Diese Vorgaben sind grundsätzlich einzuhalten. Die 
 
-Es wird empfohlen, zukün ig
-Gleisfreimeldeeinrichtungen zu verwenden, deren
-Funk on nicht durch z. B. Sandeintrag
-beeinträch gt werden kann. (Verordnung (EU)
-2018/762 Anhang II Kap. 5.2.2)
+Berichtsstruktur muss der Art und Schwere des gefährlichen Ereignisses angepasst sein. 
 
-Seite 3 von 44
+Mit  Verkündung  der  Verordnung  und  Inkra(cid:332)setzung  am  zwanzigsten  Tag  nach  der 
 
-Untersuchungsbericht
-Zugkollision, 15.11.2023, Bf Lauenbrück
+Veröﬀentlichung  im  Amtsbla(cid:425)  der  Europäischen  Union  (EU)  ist  diese  verbindlich  und 
 
-2 Die Untersuchung und ihr Kontext
-Die Bundesstelle für Eisenbahnunfalluntersuchung (BEU) ist für die Untersuchung von
-gefährlichen
+unmi(cid:425)elbar auf alle ab dem 17.05.2020 eingeleiteten Untersuchungen anzuwenden. 
 
-Ereignissen
+Seite 1 von 44 
 
-im
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Eisenbahnbetrieb
+Zugkollision, 15.11.2023, Bf Lauenbrück 
 
-im
+1  Zusammenfassung	
 
-Sinne
+Das erste Kapitel enthält eine Kurzbeschreibung des Ereignisses sowie Informa(cid:415)onen zu den 
 
-des
+Folgen, Primärursachen sowie zu im Einzelfall ausgesprochenen Sicherheitsempfehlungen. 
 
-Kapitels V
+1.1  Kurzbeschreibung	des	Ereignisses	
 
-der
+Am 15.11.2023 gegen 16:18 Uhr kollidierte der ICE 615 auf der Fahrt von Hamburg-Altona Pbf 
 
-Richtlinie (EU) 2016/798 auf Eisenbahninfrastrukturen des Bundes und auf nicht
-bundeseigenen
+nach München Hbf auf der Weiche 229 im Bf Lauenbrück mit dem Zug DbZ 24259. 
 
-Eisenbahninfrastrukturen
+1.2  Folgen	
 
-des
+Personen wurden bei dem Ereignis nicht verletzt. Es entstand Sachschaden an den beteiligten 
 
-übergeordneten
+Eisenbahnfahrzeugen und der Infrastruktur von ca. 2.750.000 €. 
 
-Netzes
+1.3  Ursachen	
 
-gemäß
+Im  Rahmen  der  Untersuchung  des  Ereignisses  wurden  die  folgenden  Handlungen, 
 
-§ 2b Allgemeines Eisenbahngesetz (AEG) zuständig.
-Ziel und Zweck der eingeleiteten Untersuchungen ist es, die Ursachen des gefährlichen
-Ereignisses aufzuklären und hieraus Hinweise zur Verbesserung der Sicherheit abzuleiten.
-Untersuchungen der BEU dienen nicht dazu, ein Verschulden festzustellen oder Fragen der
-Ha ung oder sons ger zivilrechtlicher Ansprüche zu klären und werden unabhängig von jeder
-gerichtlichen Untersuchung durchgeführt.
-Sicherheitsempfehlungen der BEU zur Vermeidung von gefährlichen Ereignissen und
-Verbesserung der Eisenbahnsicherheit werden an die na onale Sicherheitsbehörde, sofern es
-die Art der Empfehlung erfordert an die Eisenbahnagentur der Europäischen Union und an
-andere Stellen oder Behörden adressiert. Im Allgemeinen sind die Sicherheitsempfehlungen
-auch an
+Unterlassungen, Vorkommnisse oder Umstände als sicherheitskri(cid:415)sche Faktoren iden(cid:415)ﬁziert. 
 
-die
+Diese  werden  gemäß  Durchführungsverordnung (EU) 2020/572 
 
-unmi elbar
+in  ursächliche  oder 
 
-bzw. mi elbar betroﬀenen sowie
+beitragende, und systemische Faktoren unterschieden. Zusätzlich werden ermi(cid:425)elte Deﬁzite 
 
-alle
+des No(cid:414)allmanagements behandelt.  
 
-einschlägigen
+Zur besseren Übersichtlichkeit der Faktoren und Aspekte des No(cid:414)allmanagements wird eine 
 
-Eisenbahnunternehmen gerichtet.
-Zu schweren Unfällen leitet die BEU stets Untersuchungen gem. Ar kel 20 Abs. 1
-Richtlinie (EU) 2016/798 ein. Unter einem schweren Unfall sind insbesondere Zugkollisionen
-oder Zugentgleisungen mit mindestens einem Todesopfer oder mindestens fünf
-Schwerverletzten oder mit beträchtlichem Schaden (≥ 2 Mio. Euro) sowie sons ge Unfälle mit
-den gleichen Folgen und mit oﬀensichtlichen Auswirkungen auf die Regelung der
-Eisenbahnsicherheit oder das Sicherheitsmanagementsystem zu verstehen. Bei allen
-sons gen gefährlichen Ereignissen im Eisenbahnbetrieb liegt es im Ermessen der BEU
-Untersuchungen einzuleiten. Bei der Entscheidung werden neben den zum Ereigniszeitpunkt
-verfügbaren Ressourcen weitere Kriterien gem. Ar kel 20 Abs. 2 Richtlinie (EU) 2016/798
-herangezogen.
-Aufgrund des gegebenen Schadensausmaßes bzw. der Folgen bei dem vorliegenden
-gefährlichen Ereignis wurden Untersuchungen auf Grundlage des Ar kels 20 Abs. 1 Richtlinie
-(EU) 2016/798 eingeleitet.
+Systema(cid:415)k mit Kennzeichnungen in eckigen Klammern verwendet. 
 
-Seite 4 von 44
+Eine  detaillierte  Auswertung  des  Ereignisses  unter  Einordnung  als  sicherheitskri(cid:415)sche 
 
-Untersuchungsbericht
-Zugkollision, 15.11.2023, Bf Lauenbrück
+Faktoren wird in den folgenden Kapiteln gegeben. 
 
-Die Unfalluntersuchungshandlungen werden strukturiert in vier definierten Kernprozessen
-durchgeführt, die mit der Entscheidung zur Aufnahme einer Untersuchung beginnen und mit
-der
+Seite 2 von 44 
 
-Veröﬀentlichung
+ 
+ 
+Untersuchungsbericht 
 
-Ursachenermi lung
+Zugkollision, 15.11.2023, Bf Lauenbrück 
 
-des
+Geschehen: 
 
-werden
+Datum/Uhrzeit, sowie 
 
-Untersuchungsberichtes
-ergebnisoﬀene
+Handlung / Unterlassen / 
+Umstand / Vorkommnis 
 
-abgeschlossen
+15.11.2023/ab 16:02 Uhr  
 
-Untersuchungen
+GSM-R Gespräch 
+zwischen 
+Triebfahrzeugführer des 
+DbZ 24259 und der 
+zuständigen 
+Fahrdienstleiterin.  
 
-in
+15.11.2023/ab 16:02 Uhr 
 
-werden.
+DbZ 24259 wird nach 
+Sandung von der 
+Gleisfreimeldeanlage 
+nicht korrekt erkannt. 
 
-allen
+Funk(cid:415)onssicherheit 
+der Detek(cid:415)on bei 
+Sandeintrag [F3] 
 
-Zur
+15.11.2023/16:17 Uhr 
 
-beteiligten
+Einfahrzugstraße für 
+ICE 615 durch 
+Fahrdienstleiterin 
+eingestellt. 
 
-Fachdisziplinen angestellt und hierbei insbesondere Fehler-Ursachen-Analysen und Soll-IstVergleiche durchgeführt.
-Vom
+Unterlassene 
+Abschni(cid:425)sprüfung 
+durch die 
+Fahrdienstleiterin 
+[F4] 
 
-örtlich
+Tabelle 1: Zusammenfassung Einﬂussfaktoren 
 
-zuständigen
+1.4  Sicherheitsempfehlungen	
 
-Untersuchungsbezirk
+Ursächlicher 
+Faktor 
 
-Nordwest
+Beitragender 
+Faktor 
 
-wurden
+Systemischer 
+Faktor 
 
-die
+Keine Verständigung 
+der zuständigen 
+Fahrdienstleiterin 
+mit Nennung der 
+Ortsangabe des 
+Sandstreuens [F1] 
 
-Untersuchungshandlungen federführend geleitet.
-Sofern im Einzelfall geboten, werden die jeweiligen Untersuchungsteams bezirksübergreifend
-unterstützt und notwendige Sachverständigenleistungen extern beau ragt.
-Im Rahmen der Sachverhaltsermi lung und Ursachenerforschung wurden neben den
-beteiligten Unternehmen keine weitere Stellen einbezogen.
-Die Durchführung der Unfalluntersuchung setzt voraus, dass alle an dem gefährlichen Ereignis
-Beteiligten den jeweiligen Meldeverpflichtungen gem. § 2 Abs. 3 EUV nachkommen. Die
-relevanten Informa onen sind durch die zur Meldung Verpflichteten auf dem neuesten Stand
-zu halten.
-Auf Grundlage des § 5b AEG werden i. d. R. weitergehende zur Untersuchungsdurchführung
-erforderliche Informa onen, Auskün e und Nachweise abgefordert. Diese notwendigen
-Zuarbeiten konnten mi els Auskun sersuchen gewonnen werden.
-Darüber hinaus können nach § 5b Abs. 4 AEG von den an gefährlichen Ereignissen beteiligten
-Eisenbahnen Unterstützungsleistungen eingefordert werden. Bei dem vorliegenden
-gefährlichen Ereignis wurden keine Unterstützungsleistungen eingefordert.
-Die infrastruktursei ge Freigabe der Unfallstelle erfolgte durch die BEU am 16.11.2023 um
-12:45 Uhr.
+Sprechdisziplin 
+während der 
+GSM-R 
+Gespräche [F2] 
 
-Seite 5 von 44
+- 
 
-Untersuchungsbericht
-Zugkollision, 15.11.2023, Bf Lauenbrück
+Verfahrensbasierte 
+Kompensa(cid:415)on der 
+Funk(cid:415)onsbeeinträch(cid:415)
+gung einer 
+Gleisfreimeldeanlage 
+infolge Sandeintrag 
+[S3] 
 
-3 Beschreibung des Ereignisses
-Im dri en Kapitel wird das gefährliche Ereignis in zwei vorgegebenen Unterkapiteln näher
-beschrieben. In Kapitel 3.1 sind neben den Grunddaten weitere Informa onen zum
-Ereignisort, den äußeren Bedingungen, den Beteiligten und den Folgen enthalten. Die
-Ereignisrekonstruk on sowie Informa onen zur Auslösung und dem Ablauf der
-Re ungsmaßnahmen sind im Kapitel 3.2 dargestellt. Die Beschreibungen beziehen sich
-grundsätzlich
+Handlungssicherheit 
+der Fahrdienstleiterin 
+[S4] 
 
-auf
+- 
 
-die
+- 
 
-zum
+Lfd. Nr. 
 
-Ereigniszeitpunkt
+Adressat und Sicherheitsempfehlung 
 
-vorherrschenden
+Betri(cid:335) Unternehmen 
 
-Bedingungen
+08/2025 
 
-und
+Sicherheitsbehörde: 
 
-vorgefundenen Sachverhalte.
+EIU, EVU, ECM, Hersteller 
 
-3.1 Informationen über das Ereignis und seine Hintergründe
-Bei dem Ereignis handelt es sich um eine Kollision eines Zuges mit einem Schienenfahrzeug im
-Sinne der Richtlinie (EU) 2016/798.
-Die BEU führt das Ereignis na onal unter der Ereignisart Zugkollision.
-3.1.1 Lage und Beschreibung des Ereignisortes
-Die Zugkollision ereignete sich auf der Weiche 229 im Bf Lauenbrück. Durch den
-Bf Lauenbrück führte unter anderem die laut Verzeichnis der zulässigen Geschwindigkeiten
-(VzG) benannte Strecke 2200. Die Strecke 2200 war eine elektrifizierte, zweigleisige
-Hauptbahn von Wanne-Eickel Hbf nach Hamburg Hbf. Bei der Einfahrt in den Bf Lauenbrück
-wies das VzG eine Höchstgeschwindigkeit von 200 km/h mit einem Bremsweg von 1.000 m
-aus. Sowohl die Strecke als auch der Bf waren mit den Zugsicherungssystemen Punk örmige
-Zugbeeinflussung (PZB) und Linienförmiger Zugbeeinflussung (LZB) sowie dem digitalen
-Zugfunk Global System for Mobile Communica ons Rail (GSM-R) ausgerüstet.
-Die Betriebsdurchführung auf der Strecke erfolgte nach den Regeln der Fahrdienstvorschri ,
-Richtlinie (Ril) 408. Die Ereignisstelle lag im Zuständigkeitsbereich des Stellwerks Rotenburg
-(Wümme) „Rf“ und war mit der Stellwerkstechnik SpDrL30 ausgerüstet. Seit 1986 wird der
-Bf Lauenbrück mit Hilfe der Fernsteuertechnik F70 als Unterzentrale Lauenbrück von der
-Zentrale Rotenburg (Wümme) aus ferngesteuert.
-Die nachfolgende Abbildung gibt einen Überblick zur Lage der Ereignisstelle.
+Es wird empfohlen, die Ergänzungsregelung 
+Nr. B 011 zum „Sanden" sowie die betrieblichen 
+Verfahrensweisen bezüglich des Meldeverfahrens 
+einer Sandung zu überprüfen und 
+weiterzuentwickeln. 
 
-Seite 6 von 44
+09/2025 
 
-Untersuchungsbericht
-Zugkollision, 15.11.2023, Bf Lauenbrück
+Sicherheitsbehörde: 
 
-Abbildung 1: Lageplan1
+EIU 
 
-In Abbildung 2 ist die Kollisionsstelle der Züge schema sch dargestellt.
+Es wird empfohlen, zukün(cid:332)ig 
+Gleisfreimeldeeinrichtungen zu verwenden, deren 
+Funk(cid:415)on nicht durch z. B. Sandeintrag 
+beeinträch(cid:415)gt werden kann. (Verordnung (EU) 
+2018/762 Anhang II Kap.  5.2.2) 
 
-Abbildung 2: Lageskizze2
+Seite 3 von 44 
 
-1
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Geobasisdaten: © GeoBasis-DE / BKG 2024, bearbeitet durch BEU
+Zugkollision, 15.11.2023, Bf Lauenbrück 
 
-2
+2  Die	Untersuchung	und	ihr	Kontext	
 
-Quelle: DB InfraGO AG, bearbeitet durch BEU
+Die  Bundesstelle  für  Eisenbahnunfalluntersuchung  (BEU)  ist  für  die  Untersuchung  von 
 
-Seite 7 von 44
+gefährlichen 
 
-Untersuchungsbericht
-Zugkollision, 15.11.2023, Bf Lauenbrück
+Ereignissen 
 
-3.1.2 Beteiligte
-Die am Ereignis Beteiligten ha en die folgenden Funk onen:
-EIU DB Netz AG (im Weiteren als DB InfraGO AG benannt, da zum 01.01.2024 umfirmiert):
-
+im 
 
-Fahrdienstleiterin (Fdl-in) Rotenburg (Wümme) Strecke „Rf“
+Eisenbahnbetrieb 
 
-Seitens der Eisenbahnverkehrsunternehmen (EVU) waren beteiligt:
-
+im 
 
-Triebfahrzeugführer (Tf) des ICE 615 - EVU DB Fernverkehr AG
+Sinne  des  Kapitels V  der 
 
-
+Richtlinie (EU) 2016/798  auf  Eisenbahninfrastrukturen  des  Bundes  und  auf  nicht 
 
-Tf des DbZ 24259 - EVU Bentheimer Eisenbahn AG
+bundeseigenen 
 
-Fahrzeughalter und En ty in Charge of Maintenance (ECM):
-
+Eisenbahninfrastrukturen 
 
-Bentheimer Eisenbahn AG
+des 
 
-3.1.3 Äußere Bedingungen
-Zum Zeitpunkt des Ereignisses herrschten folgende Bedingungen:
-Lichtverhältnisse
+übergeordneten 
 
-Tageslicht
+Netzes 
 
-Sicht
+gemäß 
 
-klar
+§ 2b Allgemeines Eisenbahngesetz (AEG) zuständig. 
 
-Bedeckung
+Ziel  und  Zweck  der  eingeleiteten  Untersuchungen  ist  es,  die  Ursachen  des  gefährlichen 
 
-bewölkt
+Ereignisses  aufzuklären  und  hieraus  Hinweise  zur  Verbesserung  der  Sicherheit  abzuleiten. 
 
-Temperaturen
+Untersuchungen der BEU dienen nicht dazu, ein Verschulden festzustellen oder Fragen der 
 
-10°C – 13°C
+Ha(cid:332)ung oder sons(cid:415)ger zivilrechtlicher Ansprüche zu klären und werden unabhängig von jeder 
 
-fallender Niederschlag
+gerichtlichen Untersuchung durchgeführt. 
 
-leichter Regen
+Sicherheitsempfehlungen  der  BEU  zur  Vermeidung  von  gefährlichen  Ereignissen  und 
 
-Niederschlagshäufigkeit
+Verbesserung der Eisenbahnsicherheit werden an die na(cid:415)onale Sicherheitsbehörde, sofern es 
 
-vereinzelt
+die Art der Empfehlung erfordert an die Eisenbahnagentur der Europäischen Union und an 
 
-Untergrund / gefallener Niederschlag
+andere Stellen oder Behörden adressiert. Im Allgemeinen sind die Sicherheitsempfehlungen 
 
-feucht
+auch  an  die  unmi(cid:425)elbar  bzw.  mi(cid:425)elbar  betroﬀenen  sowie  alle  einschlägigen 
 
-Tabelle 2: Übersicht der äußeren Bedingungen
+Eisenbahnunternehmen gerichtet. 
 
-Seite 8 von 44
+Zu  schweren  Unfällen 
 
-Untersuchungsbericht
-Zugkollision, 15.11.2023, Bf Lauenbrück
+leitet  die  BEU  stets  Untersuchungen  gem.  Ar(cid:415)kel 20 Abs. 1 
 
-3.1.4 Todesopfer, Verletzte und Sachschäden
-Die Sachschäden bei ICE 615 befanden sich im Frontbereich des führenden Fahrzeuges. Bei
-DbZ 24259 wurden Beschädigungen am letzten Eisenbahnfahrzeug und die Entgleisung des
-letzten Drehgestells festgestellt.
-Bei dem Ereignis traten folgend aufgeführte Personenschäden ein:
-Anzahl Tote
+Richtlinie (EU) 2016/798 ein. Unter einem schweren Unfall sind insbesondere Zugkollisionen 
 
-Anzahl schwer Verletzte
+oder  Zugentgleisungen  mit  mindestens  einem  Todesopfer  oder  mindestens 
 
-Anzahl leicht Verletzte
+fünf 
 
-Reisende
+Schwerverletzten oder mit beträchtlichem Schaden (≥ 2 Mio. Euro) sowie sons(cid:415)ge Unfälle mit 
 
--
+den  gleichen  Folgen  und  mit  oﬀensichtlichen  Auswirkungen  auf  die  Regelung  der 
 
--
+Eisenbahnsicherheit  oder  das  Sicherheitsmanagementsystem  zu  verstehen.  Bei  allen 
 
--
+sons(cid:415)gen  gefährlichen  Ereignissen  im  Eisenbahnbetrieb  liegt  es  im  Ermessen  der  BEU 
 
-Mitarbeiter
+Untersuchungen einzuleiten. Bei der Entscheidung werden neben den zum Ereigniszeitpunkt 
 
--
+verfügbaren  Ressourcen  weitere  Kriterien  gem.  Ar(cid:415)kel  20  Abs.  2  Richtlinie  (EU) 2016/798 
 
--
+herangezogen. 
 
--
+Aufgrund  des  gegebenen  Schadensausmaßes  bzw.  der  Folgen  bei  dem  vorliegenden 
 
-Benutzer von
-Bahnübergängen
+gefährlichen Ereignis wurden Untersuchungen auf Grundlage des Ar(cid:415)kels 20 Abs. 1 Richtlinie 
 
--
+(EU) 2016/798 eingeleitet. 
 
--
+Seite 4 von 44 
 
--
+ 
+ 
+Untersuchungsbericht 
 
-Dri e
+Zugkollision, 15.11.2023, Bf Lauenbrück 
 
--
+Die  Unfalluntersuchungshandlungen  werden  strukturiert  in  vier  deﬁnierten  Kernprozessen 
 
--
+durchgeführt, die mit der Entscheidung zur Aufnahme einer Untersuchung beginnen und mit 
 
--
+der  Veröﬀentlichung 
 
-Summe
+des  Untersuchungsberichtes 
 
-0
+abgeschlossen  werden. 
 
-0
+Zur 
 
-0
+Ursachenermi(cid:425)lung  werden  ergebnisoﬀene  Untersuchungen 
 
-Tabelle 3: Übersicht der Personenschäden
+in  allen  beteiligten 
 
-Die geschätzte Höhe der Sachschäden in Euro setzt sich wie folgt zusammen:
-geschätzte Kosten in Euro
-Fahrzeuge
+Fachdisziplinen  angestellt  und  hierbei  insbesondere  Fehler-Ursachen-Analysen  und  Soll-Ist-
 
-2.700.000
+Vergleiche durchgeführt. 
 
-Infrastruktur
+Vom 
 
-50.000
+örtlich 
 
-Dri e
-Gesamtschadenshöhe
+zuständigen 
 
-2.750.000
+Untersuchungsbezirk 
 
-Tabelle 4: Übersicht der geschätzten Schadenshöhe
+Nordwest 
 
-Die untenstehende Abbildung 3 zeigt die Endposi on der Zugspitzen auf Höhe des
-Hochspannungsmastes „289 4b“, dies entsprach dem km 298,140 der Strecke.
+wurden 
 
-Seite 9 von 44
+die 
 
-Untersuchungsbericht
-Zugkollision, 15.11.2023, Bf Lauenbrück
+Untersuchungshandlungen federführend geleitet. 
 
-Abbildung 3: Zugspitzen auf Höhe des Hochspannungsmastes „298 4b“ (km 298,140)
+Sofern im Einzelfall geboten, werden die jeweiligen Untersuchungsteams bezirksübergreifend 
 
-In Abbildung 4 ist der beschädigte Zugschluss des nach rechts entgleisten Zuges DbZ 24259,
-sowie das Grenzzeichen in Weiche 229 zu sehen. Die Abbildung 5 zeigt die Beschädigungen im
-Frontbereich des Triebzuges des ICE 615.
+unterstützt und notwendige Sachverständigenleistungen extern beau(cid:332)ragt. 
 
-Abbildung 4: Zugschluss DbZ 24259 und Posi on des Grenzzeichens
+Im  Rahmen  der  Sachverhaltsermi(cid:425)lung  und  Ursachenerforschung  wurden  neben  den 
 
-Seite 10 von 44
+beteiligten Unternehmen keine weitere Stellen einbezogen. 
 
-Untersuchungsbericht
-Zugkollision, 15.11.2023, Bf Lauenbrück
+Die Durchführung der Unfalluntersuchung setzt voraus, dass alle an dem gefährlichen Ereignis 
 
-Abbildung 5: Beschädigungen im Frontbereich des Triebzuges des ICE 615
+Beteiligten  den  jeweiligen  Meldeverpﬂichtungen  gem.  § 2  Abs. 3  EUV  nachkommen.  Die 
 
-3.2 Sachliche Beschreibung der Vorkommnisse
-Zur
+relevanten Informa(cid:415)onen sind durch die zur Meldung Verpﬂichteten auf dem neuesten Stand 
 
-Rekonstruk on
+zu halten. 
 
-des
+Auf Grundlage des § 5b AEG werden i. d. R. weitergehende zur Untersuchungsdurchführung 
 
-gefährlichen
+erforderliche  Informa(cid:415)onen,  Auskün(cid:332)e  und  Nachweise  abgefordert.  Diese  notwendigen 
 
-Ereignisses
+Zuarbeiten konnten mi(cid:425)els Auskun(cid:332)sersuchen gewonnen werden. 
 
-sowie
+Darüber hinaus können nach § 5b Abs. 4 AEG von den an gefährlichen Ereignissen beteiligten 
 
-zur
+Eisenbahnen  Unterstützungsleistungen  eingefordert  werden.  Bei  dem  vorliegenden 
 
-Beschreibung
+gefährlichen Ereignis wurden keine Unterstützungsleistungen eingefordert. 
 
-der
+Die infrastruktursei(cid:415)ge Freigabe der Unfallstelle erfolgte durch die BEU am 16.11.2023 um 
 
-No allmaßnahmen werden insbesondere auch die in Kapitel 4 enthaltenen Aufzeichnungen,
-Auswertungen und Feststellungen etc. herangezogen.
-3.2.1 Hergangsbeschreibung
-Auf seiner Fahrt von Sassnitz-Mukran Gbf (Ausfahrgruppe) nach Bad Bentheim, DB-Grenze
-musste der signalgeführte DbZ 24259 seine Fahrt aufgrund einer Störung in der
-Fahrzeuglei echnik im Bf Buchholz unterbrechen. Nach Behebung der Störung konnte der Zug
-seine Fahrt zunächst in Richtung Rotenburg (Wümme) fortsetzen. Kurze Zeit später trat eine
-Bremsstörung auf, sodass der DbZ 24259 im Gleis 231 des Bf Lauenbrück zum Halten kam. Das
-letzte Fahrzeug des Zuges befand sich nach dem S llstand auf der Weiche 229. Der Tf betä gte
-während dieses Anhaltevorgangs die Sandstreueinrichtung. Per GSM-R Einzelruf nahm er
-Kontakt mit der betrieblich zuständigen Fdl-in auf und informierte Sie darüber, dass der Zug
-aufgrund einer Bremsstörung zum Halten gekommen sei. Diese Informa on ergänzte er etwa
-acht Minuten später mit der Angabe über das Sanden während der vorausgegangenen
+12:45 Uhr. 
 
-Seite 11 von 44
+Seite 5 von 44 
 
-Untersuchungsbericht
-Zugkollision, 15.11.2023, Bf Lauenbrück
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Bremsung. Den Anzeigen auf dem Stell sch des Stellwerks Rotenburg (Wümme) zufolge
-wurde das Gleis 231 als besetzt und die Weiche 229 als frei dargestellt. Die Fdl-in ging nach
-Auswertung der Anzeige davon aus, dass der DbZ 24259 vollständig im Gleis 231 angekommen
-war und die Weiche 229 grenzzeichenfrei geräumt ha e. Sie entschloss sich, den in Gleis 231
-stehenden DbZ 24259 vom nachfolgenden ICE 615 über das parallel verlaufende Gleis 233
-überholen zu lassen. Dementsprechend ließ sie die Einfahrt des ICE 615 in den Bf Lauenbrück
-am Einfahrsignal (Esig) F205 mit dem Fahrtbegriﬀ Hp 1 mit 80 km/h zu. Bei der Einfahrt in den
-Bf Lauenbrück erkannte der Tf des ICE 615, dass sich der Zugschluss des DbZ 24259 noch auf
-der Weiche 229 befand und nicht grenzzeichenfrei stand. Die von ihm eingeleitete
-Schnellbremsung konnte jedoch die Kollision mit dem letzten Fahrzeug des DbZ 24259 nicht
-mehr verhindern.
-3.2.2 Notfallmanagement
-Nach § 4 Abs. 3 AEG haben die Eisenbahnen die Verpflichtung, an Maßnahmen des
-Brandschutzes und der technischen Hilfeleistung mitzuwirken. Die Innenministerien der
-Länder und die DB AG haben sich auf folgende Verfahrensweise verständigt. Für die
-DB InfraGO AG gelten die entsprechenden Brand- und Katastrophenschutzgesetze der Länder.
-Das No allmanagement der DB AG ist in der Konzernrichtlinie 123, das der DB InfraGO AG in
-der Richtlinie (Ril) 423 näher beschrieben und geregelt.
-Die BEU stellte im Rahmen der Unfalluntersuchung und Ereignisrekonstruk on keine
-Unregelmäßigkeiten und Verzögerungen in Bezug auf das Einleiten von Re ungsmaßnahmen
-fest.
+Zugkollision, 15.11.2023, Bf Lauenbrück 
 
-Seite 12 von 44
+3  Beschreibung	des	Ereignisses	
 
-Untersuchungsbericht
-Zugkollision, 15.11.2023, Bf Lauenbrück
+Im  dri(cid:425)en  Kapitel  wird  das  gefährliche  Ereignis  in  zwei  vorgegebenen  Unterkapiteln  näher 
 
-4 Auswertung des Ereignisses
-In diesem Kapitel werden insbesondere die im Rahmen der Unfalluntersuchung ermi elten
-maßgeblichen sicherheitskri schen Faktoren dargestellt. Hierbei wird im jeweiligen Einzelfall
-auf die Aufgaben und Pflichten einzelner Personen und Stellen, auf beteiligte Fahrzeuge und
-technische Einrichtungen genauso eingegangen wie auf konkrete menschliche Handlungen
-sowie auf Feedback- und Kontrollmechanismen. Sofern Informa onen zu früheren Ereignissen
-vorliegen, werden diese in einem weiteren Unterkapitel dargestellt.
+beschrieben.  In  Kapitel 3.1  sind  neben  den  Grunddaten  weitere  Informa(cid:415)onen  zum 
 
-4.1 Aufgaben und Pflichten
-In diesem Kapitel werden unbeschadet des Ar kels 20 Abs. 4 der Richtlinie (EU) 2016/798 die
-Aufgaben und Pflichten von Personen und Stellen behandelt, die an dem Ereignis beteiligt
-waren. Untersuchungen zu Schuld- oder Ha ungsfragen sind explizit ausgeschlossen und nicht
-Untersuchungsgegenstand.
-4.1.1 Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers
-Das gemäß § 2 Abs. 1 AEG verantwortliche EIU DB InfraGO AG verfügte über eine
-Sicherheitsgenehmigung gemäß § 7c AEG, die bis zum 19.10.2021 gül g war. Das
-Unternehmen beantragte am 12.04.2021 die Verlängerung der Sicherheitsgenehmigung, die
-zwischenzeitlich bis zum 19.10.2026 erteilt wurde.
-Gemäß § 4 Abs. 3 AEG sind Eisenbahnen verpflichtet, ihren Betrieb sicher zu führen, die
-Eisenbahninfrastruktur sicher zu bauen und in betriebssicherem Zustand zu halten. Zudem
-muss gemäß § 4 Abs. 4 AEG i. V. m. der Richtlinie (EU) 2016/798 ein SMS eingerichtet werden.
-Die inhaltlichen Maßstäbe für die Aufstellung und Einhaltung waren die in der
-Verordnung (EU) 2018/762 genannten Anforderungen.
-Als
+Ereignisort,  den  äußeren  Bedingungen,  den  Beteiligten  und  den  Folgen  enthalten.  Die 
 
-Teil
+Ereignisrekonstruk(cid:415)on  sowie 
 
-des
+Informa(cid:415)onen  zur  Auslösung  und  dem  Ablauf  der 
 
-SMS
+Re(cid:425)ungsmaßnahmen  sind  im  Kapitel 3.2  dargestellt.  Die  Beschreibungen  beziehen  sich 
 
-der
+grundsätzlich  auf  die 
 
-DB InfraGO AG
+zum  Ereigniszeitpunkt  vorherrschenden  Bedingungen  und 
 
-waren
+vorgefundenen Sachverhalte. 
 
-auch
+3.1  Informationen	über	das	Ereignis	und	seine	Hintergründe	
 
-alle
+Bei dem Ereignis handelt es sich um eine Kollision eines Zuges mit einem Schienenfahrzeug im 
 
-Anforderungen
+Sinne der Richtlinie (EU) 2016/798. 
 
-der
+Die BEU führt das Ereignis na(cid:415)onal unter der Ereignisart Zugkollision. 
 
-Durchführungsverordnung (EU) 2019/773 über die technische Spezifika on für die
-Interoperabilität
+3.1.1  Lage	und	Beschreibung	des	Ereignisortes	
 
-des
+Die  Zugkollision  ereignete  sich  auf  der  Weiche 229 
 
-Teilsystems
+im  Bf Lauenbrück.  Durch  den 
 
-„Verkehrsbetrieb
+Bf Lauenbrück führte unter anderem die laut Verzeichnis der zulässigen Geschwindigkeiten 
 
-und
+(VzG)  benannte  Strecke 2200.  Die  Strecke 2200  war  eine  elektriﬁzierte,  zweigleisige 
 
-Verkehrssteuerung“
+Hauptbahn von Wanne-Eickel Hbf nach Hamburg Hbf. Bei der Einfahrt in den Bf Lauenbrück 
 
-des
+wies das VzG eine Höchstgeschwindigkeit von 200 km/h mit einem  Bremsweg von 1.000 m 
 
-Eisenbahnsystems in der Europäischen Union (TSI OPE) umzusetzen.
-Einer der im Kontext des Ereignisses wesentlichen Grundsätze gemäß TSI OPE Anlage B
-Kapitel B.1 Nr. 1 lautete: „Das Verfahren zur Zulassung einer Zugfahrt muss einen sicheren
-Abstand zwischen den Zügen gewährleisten“.
+aus. Sowohl die Strecke als auch der Bf waren mit den Zugsicherungssystemen Punk(cid:414)örmige 
 
-Seite 13 von 44
+Zugbeeinﬂussung  (PZB)  und  Linienförmiger  Zugbeeinﬂussung  (LZB)  sowie  dem  digitalen 
 
-Untersuchungsbericht
-Zugkollision, 15.11.2023, Bf Lauenbrück
+Zugfunk Global System for Mobile Communica(cid:415)ons Rail (GSM-R) ausgerüstet. 
 
-Zur sicheren Durchführung der Fahrten auf der Infrastruktur der DB InfraGO AG ha e die
-betrieblich zuständige Fdl-in als Bedienerin im Stellwerk Rotenburg (Wümme) hierzu
-untersetzende und ergänzende unternehmensinterne Arbeitsvorgaben zu beachten und
-umzusetzen, unter anderem die Ril 408, das Betriebsstellenbuch und im Au ragsbuch
-ausliegende Au räge sowie betriebliche Mi eilungen (BM).
-Im Stellwerk Rotenburg (Wümme) „Rf“ verrichteten der Fdl Rotenburg (Wümme) Ort und der
-Fdl Rotenburg (Wümme) Strecke gemeinsam die betrieblichen Tä gkeiten.
-Die Rekonstruk on der betrieblichen Handlungen der zum Zeitpunkt des Ereignisses
-zuständigen Fdl-in Rotenburg (Wümme) Strecke basierte auf der Auswertung der
-Stellwerksdokumenta on, der betrieblichen Unterlagen sowie der aufgezeichneten GSM-RGespräche.
-Betriebssitua on
-Zum Ereigniszeitpunkt war das Stellwerk Rotenburg (Wümme) planmäßig mit zwei Fdl besetzt
-und der Betrieb wurde im Regelbetrieb durchgeführt.
-Der DbZ 24259 fuhr entlang absteigender Kilometrierung im Streckenabschni Bf Tostedt –
-Bf Lauenbrück. Um 16:02:54 Uhr meldete der Tf an die zuständige Fdl-in Rotenburg (Wümme)
-Strecke eine Bremsstörung am DbZ 24259 und seinen Standort in km 298,2. Dieses 1:07 min
-dauernde GSM-R Gespräch ist in der nachfolgenden Tabelle wiedergegeben.
-Funk on
+Die Betriebsdurchführung auf der Strecke erfolgte nach den Regeln der Fahrdienstvorschri(cid:332), 
 
-Inhalt
+Richtlinie (Ril) 408. Die Ereignisstelle lag im Zuständigkeitsbereich des Stellwerks Rotenburg 
 
-Fdl-in
+(Wümme) „Rf“ und war mit der Stellwerkstechnik SpDrL30 ausgerüstet. Seit 1986 wird der 
 
-Fdl Rotenburg.
+Bf Lauenbrück  mit  Hilfe  der  Fernsteuertechnik  F70  als  Unterzentrale  Lauenbrück  von  der 
 
-Tf
+Zentrale Rotenburg (Wümme) aus ferngesteuert. 
 
-Ja (Name) hier, mit dem 24259. Haben ein Problem mit Fahrzeug.
+Die nachfolgende Abbildung gibt einen Überblick zur Lage der Ereignisstelle. 
 
-Fdl-in
+Seite 6 von 44 
 
-Du hast ein Problem mit dem Fahrzeug?
+ 
+ 
+Untersuchungsbericht 
 
-Tf
+Zugkollision, 15.11.2023, Bf Lauenbrück 
 
-Ja, stehe km 298,2.
+Abbildung 1: Lageplan1 
 
-Fdl-in
+In Abbildung 2 ist die Kollisionsstelle der Züge schema(cid:415)sch dargestellt. 
 
-Du stehst in km 298,2. Ja ‐ du rollst aber grade in de Bf rein, oder?
+Abbildung 2: Lageskizze2 
 
-Tf
+1 Geobasisdaten: © GeoBasis-DE / BKG 2024, bearbeitet durch BEU 
 
-Ja, rich g.
+2 Quelle: DB InfraGO AG, bearbeitet durch BEU 
 
-Fdl-in
+Seite 7 von 44 
 
-Bleibst du dann da stehen, oder?
+ 
+ 
+ 
+ 
+ 
+ 
+                                                       
+Untersuchungsbericht 
 
-Tf
+Zugkollision, 15.11.2023, Bf Lauenbrück 
 
-Ja, wir bleiben erstmal stehen.
+3.1.2  Beteiligte	
 
-Fdl-in
+Die am Ereignis Beteiligten ha(cid:425)en die folgenden Funk(cid:415)onen: 
 
-Da bleibste erstmal stehen.
+EIU DB Netz AG (im Weiteren als DB InfraGO AG benannt, da zum 01.01.2024 umﬁrmiert): 
 
-Tf
+  Fahrdienstleiterin (Fdl-in) Rotenburg (Wümme) Strecke „Rf“ 
 
-Ja, wenn wir erstmal stehen bleiben können und nicht großar g
-im Weg stehen…
+Seitens der Eisenbahnverkehrsunternehmen (EVU) waren beteiligt: 
 
-Fdl-in
+  Triebfahrzeugführer (Tf) des ICE 615 - EVU DB Fernverkehr AG 
 
-Ja, lieber da als auf der Strecke. Da passt es besser.
+  Tf des DbZ 24259 - EVU Bentheimer Eisenbahn AG 
 
-Seite 14 von 44
+Fahrzeughalter und En(cid:415)ty in Charge of Maintenance (ECM): 
 
-Untersuchungsbericht
-Zugkollision, 15.11.2023, Bf Lauenbrück
+  Bentheimer Eisenbahn AG 
 
-Tf
+3.1.3  Äußere	Bedingungen	
 
-Ja, prima danke.
+Zum Zeitpunkt des Ereignisses herrschten folgende Bedingungen: 
 
-Fdl-in
+Lichtverhältnisse 
 
-Kannst du noch ein Stück, bis zum Bahnsteig vor … wenn du da
-noch kannst?
+Sicht 
 
-Tf
+Bedeckung 
 
-Okay, probiere bis zum Bahnsteig vor …
+Temperaturen  
 
-Fdl-in
+fallender Niederschlag 
 
-Ja, genau
+Niederschlagshäuﬁgkeit 
 
-Tf
+Tageslicht 
 
-… und bleiben da dann stehen.
+klar 
 
-Fdl-in
+bewölkt 
 
-Ja genau. Soll ich dir die Ausfahrt weg nehmen?
+10°C – 13°C 
 
-Tf
+leichter Regen 
 
-Ja, kannst du weg nehmen.
+vereinzelt 
 
-Fdl-in
+Untergrund / gefallener Niederschlag  
 
-Was habt ihr denn, ihr standet vorhin in Buchholz auch schon so
-lange, ne?
+feucht 
 
-Tf
+Tabelle 2: Übersicht der äußeren Bedingungen 
 
-Ja, Problem mit der Bremse.
+Seite 8 von 44 
 
-Fdl-in
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Problem mit der Bremse, okay, dann weiß ich Bescheid.
+Zugkollision, 15.11.2023, Bf Lauenbrück 
 
-Tf
+3.1.4  Todesopfer,	Verletzte	und	Sachschäden	
 
-Jo danke.
+Die Sachschäden bei ICE 615 befanden sich im Frontbereich des führenden Fahrzeuges. Bei 
 
-Fdl-in
+DbZ 24259 wurden Beschädigungen am letzten Eisenbahnfahrzeug und die Entgleisung des 
 
-Ciao.
+letzten Drehgestells festgestellt.  
 
-Tabelle 5: GSM-R Gespräch um 16:02:54 Uhr zwischen Fdl-in u. Tf des DbZ 24259
+Bei dem Ereignis traten folgend aufgeführte Personenschäden ein: 
 
-Während dieses GSM-R Gesprächs konnte die Fdl-in die Spurausleuchtungen ihres Stell schs
-auswerten, um den DbZ 24259 zu lokalisieren. Die ursprüngliche Aussage des Tf, dass er in
-km 298,2 stehen bleibe bestä gte sie zunächst, um dem Tf unmi elbar auf diese
-Vereinbarung hin den Vorschlag zu unterbreiten, wenn möglich, bis zum Bahnsteig
-vorzuziehen, was der Tf wiederum bestä gte. Dieses GSM-R Gespräch entsprach nicht der
-gemäß Ril 481.0205 Abschni 6 (2) geforderten Sprechdisziplin. Das Gespräch beruhte u. a.
-nicht auf kurzen, eindeu gen Sätzen und ha e – in Bezug auf die Vereinbarung über das
-Halten oder eine mögliche Weiterfahrt des Tf des DbZ 24259 bis zum Bahnsteig – einen
-widersprüchlichen Gesprächsinhalt. Der Fdl-in lag als Resultat dieses Gesprächs der endgül ge
-Standort des DbZ 24259 nicht zweifelsfrei vor. Diese nicht eingehaltene Sprechdisziplin wurde
-durch die BEU als beitragender Faktor mit Einfluss auf das Ereignis gewertet [F2].
-Die fortgesetzte Fahrt des DbZ 24259 konnte die Fdl-in auf ihrem Stell sch anhand der vom
-Zug
+Anzahl Tote 
 
-ausgelösten,
+Anzahl schwer Verletzte  Anzahl leicht Verletzte 
 
-roten
+Reisende 
 
-Spurausleuchtung
+Mitarbeiter 
 
-nachvollziehen.
+Benutzer von 
+Bahnübergängen 
 
-Durch
+Dri(cid:425)e 
 
-diesen
+Summe 
 
-Ausleuchtungszustand im Gleis 231 auf ihrem Stell sch konnte sie im Weiteren annehmen,
-dass die Weiche 229 wieder frei und das Gleis 231 durch den DbZ 24259 besetzt war. Diese
-Ausleuchtung entsprach der zuvor von ihr über GSM-R getroﬀenen Vereinbarung mit dem Tf
-des DbZ 24259, siehe obenstehende Tabelle 5, bis zum Bahnsteig vorzuziehen. Die Fdl-in nahm
-die Zus mmung zur Ausfahrt am Ausfahrsignal P231 zurück.
+- 
 
-Seite 15 von 44
+- 
 
-Untersuchungsbericht
-Zugkollision, 15.11.2023, Bf Lauenbrück
+- 
 
-Um 16:11:06 Uhr, 8:12 min nach der ersten Meldung über die Bremsstörung, meldete sich der
-Tf des DbZ 24259 erneut per GSM-R bei der Fdl-in, um diese über den Einsatz von Sand bei der
-vorangegangenen Bremsung im Bf Lauenbrück zu verständigen.
-Der Tf teilte der Fdl-in in diesem GSM-R Gespräch die Ortsangabe des Sandens nicht mit. Die
-Fdl-in fragte nicht eigenini a v nach, sondern nahm diese unbes mmte Meldung des Tf zur
-Kenntnis.
-Für die Fdl-in konnte nach diesem erneuten GSM-R Gespräch mit dem Tf nicht zweifelsfrei klar
-sein, wo genau die Sandung durch den Tf erfolgte oder wo der Standort des DbZ 24259 war.
-Ab diesem Zeitpunkt der Meldung des Tf über das Sanden war für die Fdl-in für den weiteren
-betrieblichen Ablauf nun die Regelung aus der Ril 408.0581 Abschni 7 zu beachten:
-„Wenn ein Triebfahrzeugführer meldet, dass er oder eine automa sche
-Sandstreueinrichtung gesandet hat, muss der Fahrdienstleiter anhand der Angaben des
-Triebfahrzeugführers (Betriebsstelle und Gleis bzw. Streckenkilometer) prüfen, ob in dem
-bzw. den betroﬀenen Gleisabschni en bzw. Zugfolgeabschni en eine
-Gleisfreimeldeanlage mit Gleisstromkreisen vorhanden ist. Wenn dies zutri , muss der
-Fahrdienstleiter ggf. den zuständigen Bediener verständigen. Für Fahrdienstleiter bzw.
-Bediener gilt – auch wenn eine Besetzung angezeigt wird ‐ Folgendes: ‐ In Bahnhöfen und
-Abzweigstellen gilt 408.0625 Abschni 1 Abs. 4."
-Die betroﬀene Gleisfreimeldeanlage der Weiche 229 galt ab dieser Meldung des Tf des
-DbZ 24259 betrieblich, durch die Regelungen der Ril 408.0625 Abschni 1 Abs. 4, für die Fdlin als nicht mehr ordnungsgemäß wirkend. Da nicht zweifelsfrei aufgeklärt war, wo der Tf
-gesandet ha e, war für den Einfahrabschni
+- 
 
-ab dem Esig F205 sowie die Weiche 229
+0 
 
-anzunehmen, dass diese Bereiche nicht mehr ordnungsgemäß wirkend waren, da dort jeweils
-Gleisstromkreise im Bf Lauenbrück vorhanden waren.
-Die Ril 408.0625 Abschni 1 Abs. 4 führte weiter aus:
-„Der Fahrdienstleiter darf die nächste Zugfahrt zulassen, wenn im betroﬀenen Abschni
-eine Abschni sprüfung durchgeführt wurde. Wenn bei der nächsten Zugfahrt […] die
-ordnungsgemäße Besetztanzeige des Abschni s festgestellt wurde, gilt die Anlage wieder
-als ordnungsgemäß wirkend."
+Tabelle 3: Übersicht der Personenschäden 
 
-Seite 16 von 44
+- 
 
-Untersuchungsbericht
-Zugkollision, 15.11.2023, Bf Lauenbrück
+- 
 
-Demnach war für die Fdl-in vor der Zulassung der nächsten Zugfahrt in den Bf Lauenbrück die
-Durchführung einer Abschni sprüfung vorgeschrieben. Bei einer Abschni sprüfung muss
-durch Hinsehen an der Außenanlage festgestellt werden, dass im betroﬀenen Abschni bis zu
-den begrenzenden Weichen, Sperrsignalen, Wartezeichen, Hauptsignalen oder Signalen Ne 14
-keine Fahrzeuge stehen. Kann dies weder unmi elbar noch mi elbar festgestellt werden, darf
-ein Tf durch den Fdl beau ragt werden, in dem Abschni auf Sicht zu fahren. Hierzu waren
-gemäß Ril 408.0402 Nr. 11 zunächst Merkhinweise „AP“ für die Abschni sprüfung im Bereich
-der betroﬀenen Gleisfreimeldeanlagen anzubringen und eine Zielsperrung der betroﬀenen
-Zugstraßen durchzuführen sowie der Selbststellbetrieb auszuschalten. Zusätzlich war eine
-Hilfssperre an der Taste für das Einschalten des Selbststellbetriebs anzubringen.
-Entgegen der o. g. Vorgaben aus der Ril 408 wertete die Fdl-in die Spurausleuchtungen aus
-und führte keine Abschni sprüfung durch. Sie erkannte auf ihrem Stell sch anhand der
-Spurausleuchtungen, dass die Weiche 229, wie schon zum Zeitpunkt des ersten GSM-R
-Gesprächs mit dem Tf, nicht mehr von Fahrzeugen besetzt war.
-In der weiteren Abfolge schaltete sie auch den Selbststellbetrieb nicht aus. Die sich
-anschließende Einstellung der Fahrstraße für den ICE 615 erfolgte durch den Selbststellbetrieb
-der Anlage, sodass die Einfahrt des ICE 615 um 16:17:18 Uhr durch Fahrtstellung des Esig F205
-regulär auf einer scheinbar gesicherten Zugfahrstraße in das Gleis 233 ermöglicht wurde.
-Zum Zeitpunkt der Meldung über die Sandung des DbZ 24259 um 16:11:06 Uhr befand sich
-der Zug ICE 615 gerade noch vor dem Bf Tostedt gelegenen Hp Sprötze. Der Fdl-in wäre es
-unter Betrachtung des zeitlichen Ablaufs bis zur Zugeinfahrt möglich gewesen, den
-Selbststellbetrieb auszuschalten, Merkhinweise „AP“ sowie Hilfssperren anzubringen und den
-ICE 615 mi els Haltstellung des Esig F205 des Bf Lauenbrück anzuhalten. In letzter Instanz
-wäre ein Nothaltau rag das notwendige geeignete Mi el der Wahl gewesen.
-Die Weiche 229 kam trotz des Besetztseins durch das letzte Fahrzeug des DbZ 24259 in
-Verschluss. Das Umstellen der Weiche 229 in Verbindung mit dem Einstellen der Zugstraße für
-den ICE 615 durch Gleis 233 wurde durch den nicht ausgeschalteten Selbststellbetrieb
-herbeigeführt. Das Vorgehen der Fdl-in- entsprach nicht dem in der Ril 408 vorgeschriebenem
-Vorgehen. Da die Gleisfreimeldeanlage der Weiche 229 wie oben beschrieben als nicht
-ordnungsgemäß wirkend galt, dur e diese nicht in eine andere Lage umgestellt werden. Die
-in der Ril 408 geforderten Merkhinweise „AP“ sowie Hilfssperren wurden durch die Fdl-in auf
+- 
 
-Seite 17 von 44
+- 
 
-Untersuchungsbericht
-Zugkollision, 15.11.2023, Bf Lauenbrück
+0 
 
-dem Stell sch nicht angebracht. Die nach dem Ereignis vorhandene Betriebssitua on auf dem
-Stell sch ist in der untenstehenden Abbildung dargestellt.
+- 
 
-Abbildung 6: Stell sch der Fdl-in Rotenburg (Wümme) nach dem Ereignis3
+- 
 
-Die nach dem Ereignis über GSM-R geführten Gespräche der Fdl-in, u. a. mit dem Tf des
-DbZ 24259, wurden ausgewertet. Aus den Gesprächen war zu entnehmen, dass die Fdl-in
-oﬀenbar davon überzeugt gewesen war, dass der Tf des DbZ 24259 der Vereinbarung aus dem
-ersten GSM-R Gespräch mit ihr nachgekommen sei und sich eigentlich am Bahnsteig des
-Bf Lauenbrück befinden sollte. Dieses Gespräch ist in der nachfolgenden Tabelle auszugsweise
-aufgeführt.
+- 
 
-3
+- 
 
-Funk on
+0 
 
-Inhalt
+Die geschätzte Höhe der Sachschäden in Euro setzt sich wie folgt zusammen: 
 
-Tf
+geschätzte Kosten in Euro 
 
-Ja, (Namensnennung), 24259.
+Fahrzeuge 
 
-Fdl-in
+Infrastruktur 
 
-Fdl Rotenburg, grüß dich.
+Dri(cid:425)e 
 
-Tf
+Gesamtschadenshöhe 
 
-Ja.
+Tabelle 4: Übersicht der geschätzten Schadenshöhe 
 
-Fdl-in
+2.700.000 
 
-Gibt es irgendwie Verletzte? Kannst du eine Aussage treﬀen?
+50.000 
 
-Tf
+- 
 
-Bei uns nicht, nee.
+2.750.000 
 
-Fdl-in
+Die  untenstehende  Abbildung 3  zeigt  die  Endposi(cid:415)on  der  Zugspitzen  auf  Höhe  des 
 
-Habt ihr … Ihr seid gar nicht erst bis zum Bahnsteig
-durchgefahren, nicht? Meine Kollegen haben ja grade mit dir
-gesprochen.
+Hochspannungsmastes „289 4b“, dies entsprach dem km 298,140 der Strecke. 
 
-Tf
+Seite 9 von 44 
 
-Ja, Probleme mit der Bremse.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Fdl-in
+Zugkollision, 15.11.2023, Bf Lauenbrück 
 
-Ja, ja, das weiß ich ja. Aber die Aussage war ja, ihr fahrt bis zum
-Bahnsteig durch…Soweit ist es nicht gekommen.
+Abbildung 3: Zugspitzen auf Höhe des Hochspannungsmastes „298 4b“ (km 298,140) 
 
-Tf
+In Abbildung 4 ist der beschädigte Zugschluss des nach rechts entgleisten Zuges DbZ 24259, 
 
-Ja, Störung…Wir haben ein Problem, wir sind stehen geblieben.
+sowie das Grenzzeichen in Weiche 229 zu sehen. Die Abbildung 5 zeigt die Beschädigungen im 
 
-DB InfraGO AG
+Frontbereich des Triebzuges des ICE 615. 
 
-Seite 18 von 44
+Abbildung 4: Zugschluss DbZ 24259 und Posi(cid:415)on des Grenzzeichens 
 
-Untersuchungsbericht
-Zugkollision, 15.11.2023, Bf Lauenbrück
+Seite 10 von 44 
 
-Fdl-in
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Ja, ja. Aber für uns von der Ausleuchtung her seid ihr weit genug
-gefahren, sodass ihr ‐ sodass es nie zu einer Kollision hä e
-kommen können…unsere Ausleuchtung sagt da was Anderes,
-sonst hä en wir ja auch keine Einfahrt für den Intercity
-bekommen, ne? Und was ist jetzt passiert? (…)
+Zugkollision, 15.11.2023, Bf Lauenbrück 
 
-Tabelle 6: Auszug GSM-R Gespräch zwischen Fdl-in u. Tf des DbZ 24259 nach dem Ereignis
+Abbildung 5: Beschädigungen im Frontbereich des Triebzuges des ICE 615 
 
-Durch die Auswertung dieses obenstehenden GSM-R Gesprächs wurde deutlich, dass es durch
-die Nichtbeachtung der Sprechdisziplin gemäß Ril 481.0205 [F2] in dem GSM-R Gespräch um
-16:02:54 Uhr zu einem Missverständnis über den Verbleib des DbZ 24259 im Bf Lauenbrück
-zwischen der Fdl-in und dem Tf gekommen war, welches das weitere Handeln der Fdl-in
-beeinflusste.
-Zusammenfassend ist festzustellen, dass es die Fdl-in unterließ, den Eintri
+3.2  Sachliche	Beschreibung	der	Vorkommnisse	
 
-in das gemäß
+Zur  Rekonstruk(cid:415)on  des  gefährlichen  Ereignisses 
 
-Ril 408 vorgeschriebene Verfahren bei gemeldeter Sandung durch einen Tf zu iden fizieren
-und entsprechend zur Sicherheit der weiteren Betriebsführung auf die betroﬀenen
-Gleisabschni e im Bf Lauenbrück anzuwenden. Dies bedeutet, in den betroﬀenen Bereichen
-mit Gleisstromkreisen eine Abschni sprüfung durchzuführen, um das Freisein des
-betroﬀenen Bereichs feststellen zu können. Die BEU wertet dieses Unterlassen als einen
-ursächlichen Faktor [F4]. Die Durchführung einer regelwerkskonformen Abschni sprüfung
-hä e das Ereignis aller Wahrscheinlichkeit nach verhindert. Beitragend auf den Ablauf des
-Ereignisses wirkte die nicht eingehaltene Sprechdisziplin gemäß Ril 481.0205, wodurch ein
-Missverständnis über den Standort des Zuges zwischen Fdl-in und Tf beitragend zu dem
-Ereignis entstand. [F2]
-4.1.2 Untersuchung der betrieblichen Abläufe der EVU
-In den nachfolgenden Abschni en werden die betrieblichen Abläufe der am Ereignis
-beteiligten Zugfahrten des DbZ 24259 und des ICE 615 dargestellt. Neben der Auswertung der
-Elektronischen Fahrtenregistrierung (EFR) erfolgt jeweils eine Darstellung der relevanten
-Regelungen zum Ereignishergang.
-Gemäß § 4 Abs. 3 AEG ist ein EVU verpflichtet, den Betrieb sicher zu führen. Insbesondere
-besteht eine Verpflichtung zur sicheren Durchführung von Zugfahrten. Zur Gewährleitung der
-systema sch sicheren Betriebsführung gehört u. a. das Aufstellen und Einhalten eines den
-gesetzlichen Anforderungen genügenden SMS entsprechend §4 Abs. 4 AEG i. V. m. der
-Richtlinie (EU) 2016/798. Inhaltliche Maßstäbe für ein SMS waren die Aufstellung und
+sowie 
 
-Seite 19 von 44
+zur  Beschreibung  der 
 
-Untersuchungsbericht
-Zugkollision, 15.11.2023, Bf Lauenbrück
+No(cid:414)allmaßnahmen werden insbesondere auch die in Kapitel 4 enthaltenen Aufzeichnungen, 
 
-Einhaltung der in der Verordnung (EU) 2018/762 genannten Anforderungen. Zudem waren die
-vom EIU zur Benutzung der Infrastruktur erstellten Betriebsregeln zu beachten und
-umzusetzen.
-Betrieblicher Ablauf der Zugfahrt des DbZ 24259
-Die Bentheimer Eisenbahn AG war das zum Ereigniszeitpunkt verantwortliche EVU für die
-Zugfahrt des DbZ 24259 und verfügte über eine Sicherheitsbescheinigung gemäß § 7a AEG mit
-einer Gül gkeit bis zum 18.01.2028. Das EVU war damit zur Teilnahme am Eisenbahnbetrieb
-berech gt.
-Regeln für die Durchführung von Zugfahrten und zur Planung und Überwachung des Betriebes
-durch das EVU waren im Betriebsregelwerk (BRW) umgesetzt.
-Der DbZ 24259 verkehrte am 15.11.2023 als Sonderzug mit Fahrplananordnung (Fplo) und
-diente der Überführung von drei Dieseltriebzügen der Baureihe (BR) 648 von Sassnitz-Mukran
-Gbf (Ausfahrgruppe) nach Bad Bentheim, DB-Grenze. Der Fahrplan wurde durch das EVU beim
-EIU
+Auswertungen und Feststellungen etc. herangezogen. 
 
-mit
+3.2.1  Hergangsbeschreibung	
 
-eingeschränkter
+Auf  seiner  Fahrt  von  Sassnitz-Mukran Gbf  (Ausfahrgruppe)  nach  Bad  Bentheim,  DB-Grenze 
 
-Streckenkenntnis
+musste  der  signalgeführte  DbZ 24259  seine  Fahrt  aufgrund  einer  Störung 
 
-bestellt.
+in  der 
 
-Es
+Fahrzeuglei(cid:425)echnik im Bf Buchholz unterbrechen. Nach Behebung der Störung konnte der Zug 
 
-galt
+seine Fahrt zunächst in Richtung Rotenburg (Wümme) fortsetzen. Kurze Zeit später trat eine 
 
-eine
+Bremsstörung auf, sodass der DbZ 24259 im Gleis 231 des Bf Lauenbrück zum Halten kam. Das 
 
-zulässige
+letzte Fahrzeug des Zuges befand sich nach dem S(cid:415)llstand auf der Weiche 229. Der Tf betä(cid:415)gte 
 
-Fahrplangeschwindigkeit von 100 km/h.
-Den
+während  dieses  Anhaltevorgangs  die  Sandstreueinrichtung.  Per  GSM-R  Einzelruf  nahm  er 
 
-Angaben
+Kontakt mit der betrieblich zuständigen Fdl-in auf und informierte Sie darüber, dass der Zug 
 
-des
+aufgrund einer Bremsstörung zum Halten gekommen sei. Diese Informa(cid:415)on ergänzte er etwa 
 
-Fahrplans
+acht  Minuten  später  mit  der  Angabe  über  das  Sanden  während  der  vorausgegangenen 
 
-entsprechend
+Seite 11 von 44 
 
-sollte
+ 
+ 
+ 
+Untersuchungsbericht 
 
-der
+Zugkollision, 15.11.2023, Bf Lauenbrück 
 
-DbZ 24259
+Bremsung.  Den  Anzeigen  auf  dem  Stell(cid:415)sch  des  Stellwerks  Rotenburg  (Wümme)  zufolge 
 
-über
+wurde das Gleis 231 als besetzt und die Weiche 229 als frei dargestellt. Die Fdl-in ging nach 
 
-68 Mindestbremshundertstel (Mbr) und eine Zuglänge von 126 m verfügen. Gemäß der
-Regelung des Kapitels 5 i. V. m. der Anlage 2a der VDV-Schri 755 waren zur Durchführung
-der Zugfahrt 95 Mbr notwendig, die der Zug mit 141 vorhandenen Bremshundertsteln erfüllte.
-Um 16:02:54 Uhr meldete der Tf an die zuständige Fdl-in Rotenburg (Wümme) Strecke eine
-Bremsstörung am DbZ 24259 und seinen Standort in km 298,2. Eine Angabe zum Einsatz von
-Sand bei der Bremsung unterblieb in diesem Gespräch zunächst, wie in obenstehender
-Tabelle 6 dargestellt.
-Nach einer Dauer von 8:12 min meldete sich der Tf des DbZ 24259 erneut per GSM-R bei der
-Fdl-in. Dieses Gespräch ist in der nachfolgenden Tabelle 6 dargestellt.
+Auswertung der Anzeige davon aus, dass der DbZ 24259 vollständig im Gleis 231 angekommen 
 
-Seite 20 von 44
+war und die Weiche 229 grenzzeichenfrei geräumt ha(cid:425)e. Sie entschloss sich, den in Gleis 231 
 
-Untersuchungsbericht
-Zugkollision, 15.11.2023, Bf Lauenbrück
+stehenden  DbZ 24259  vom  nachfolgenden  ICE 615  über  das  parallel  verlaufende  Gleis 233 
 
-Funk on
+überholen zu lassen. Dementsprechend ließ sie die Einfahrt des ICE 615 in den Bf Lauenbrück 
 
-Inhalt
+am Einfahrsignal (Esig) F205 mit dem Fahrtbegriﬀ Hp 1 mit 80 km/h zu. Bei der Einfahrt in den 
 
-Fdl-in
+Bf Lauenbrück erkannte der Tf des ICE 615, dass sich der Zugschluss des DbZ 24259 noch auf 
 
-Fdl Rotenburg.
+der  Weiche 229  befand  und  nicht  grenzzeichenfrei  stand.  Die  von  ihm  eingeleitete 
 
-Tf
+Schnellbremsung konnte jedoch die Kollision mit dem letzten Fahrzeug des DbZ 24259 nicht 
 
-Ja (Name) hier, nochmal, 24259.
+mehr verhindern. 
 
-Fdl-in
+3.2.2  Notfallmanagement	
 
-Hi.
+Nach  § 4 Abs. 3 AEG  haben  die  Eisenbahnen  die  Verpﬂichtung,  an  Maßnahmen  des 
 
-Tf
+Brandschutzes  und  der  technischen  Hilfeleistung  mitzuwirken.  Die  Innenministerien  der 
 
-Wir sind noch dabei, das Problem zu beheben. Ich wollt‘ noch
-sagen, wir haben auch gesandet … bei der Bremsung.
+Länder  und  die  DB AG  haben  sich  auf  folgende  Verfahrensweise  verständigt.  Für  die 
 
-Fdl-in
+DB InfraGO AG gelten die entsprechenden Brand- und Katastrophenschutzgesetze der Länder. 
 
-Ihr habt noch gesandet bei der Bremsung?
+Das No(cid:414)allmanagement der DB AG ist in der Konzernrichtlinie 123, das der DB InfraGO AG in 
 
-Tf
+der Richtlinie (Ril) 423 näher beschrieben und geregelt. 
 
-Ja.
+Die  BEU  stellte  im  Rahmen  der  Unfalluntersuchung  und  Ereignisrekonstruk(cid:415)on  keine 
 
-Fdl-in
+Unregelmäßigkeiten und Verzögerungen in Bezug auf das Einleiten von Re(cid:425)ungsmaßnahmen 
 
-Okay.
+fest. 
 
-Tf
+Seite 12 von 44 
 
-Wir beeilen uns aber, melde mich dann schnellstmöglich wieder.
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Fdl-in
+Zugkollision, 15.11.2023, Bf Lauenbrück 
 
-Ja, genau dann …
+4  Auswertung	des	Ereignisses	
 
-Tf
+In diesem Kapitel werden insbesondere die im Rahmen der Unfalluntersuchung ermi(cid:425)elten 
 
-Bis gleich.
+maßgeblichen sicherheitskri(cid:415)schen Faktoren dargestellt. Hierbei wird im jeweiligen Einzelfall 
 
-Fdl-in
+auf die Aufgaben und Pﬂichten einzelner Personen und Stellen, auf beteiligte Fahrzeuge und 
 
-… bis gleich.
+technische  Einrichtungen  genauso  eingegangen  wie  auf  konkrete  menschliche  Handlungen 
 
-Tabelle 7: GSM-R Gespräch um 16:11:06 Uhr zwischen Fdl-in und Tf des DbZ 24259
+sowie auf Feedback- und Kontrollmechanismen. Sofern Informa(cid:415)onen zu früheren Ereignissen 
 
-Entgegen der Vorgaben des BRW BE.6101 Abschni 3 (8) unterließ der Tf die vorgeschriebene
-sofor ge Verständigung des zuständigen Fdl mit der Nennung der Ortsangabe des
-Sandstreuens in seiner ersten Meldung um 16:02:54 Uhr an die Fdl-in. Die Informa on an die
-Fdl-in über die Betä gung der Sandstreueinrichtung erfolgte erst ca. acht Minuten später um
-16:11:06 Uhr nach dem S llstand des Zuges und ohne Nennung des Standortes.
-Der Tf setzte nach dem Ereignis einen Nothaltau rag ab, dessen Übertragungsqualität
-mangelha war. Näheres hierzu enthält das Kapitel 4.4.2.
-Die BEU wertete die vom Tf unterlassene, sofor ge Verständigung der Fdl-in mit der Nennung
-der Ortsangabe des Sandstreuens als einen ursächlichen Faktor [F1] mit Auswirkung auf das
-Ereignis. Die zeitlich verzögerte Meldung über den Einsatz von Sand bei der Bremsung wirkte
-sich entscheidend auf den weiteren Ereignisablauf des fahrdienstlichen Handelns bis zur
-Zugkollision aus.
-Stellungnahme des Tf
-Der Tf gab in seiner Stellungnahme an, dass im Bf Buchholz über die Fahrzeuglei echnik eine
-Störung gemeldet wurde, die behoben werden konnte. Kurz vor dem Bf Lauenbrück sei dem
-Tf eine weitere Störung signalisiert worden, diesmal bezüglich der Bremssteuerung. Hierdurch
-sei die Geschwindigkeit durch das Fahrzeug reduziert worden. Er habe die Störung qui ert,
-um die Fahrplangeschwindigkeit wiederaufzunehmen. Während der Einfahrt in den
-Seite 21 von 44
+vorliegen, werden diese in einem weiteren Unterkapitel dargestellt. 
 
-Untersuchungsbericht
-Zugkollision, 15.11.2023, Bf Lauenbrück
+4.1  Aufgaben	und	Pflichten	
 
-Bf Lauenbrück habe er einen Kommunika onsausfall zwischen der Fahrzeuglei echnik und
-der Bremssteuerung registriert. Dies habe seiner Aussage nach zu einer automa sch
-eingeleiteten Zwangsbremsung durch die Fahrzeuglei echnik geführt. Um in dieser Situa on
-zu reagieren habe er mit Unterstützung der Sandstreueinrichtung eine Vollbremsung
-eingeleitet. Nachdem der Zug zum Halten gekommen sei habe er seiner Erinnerung zu Folge
-unmi elbar den Fdl Rotenburg (Wümme) über die Posi on seines Zuges im Einfahrbereich
-und die Sandung bis zum S llstand des Zuges informiert.
-Auswertung der EFR‐Daten des DbZ 24259
-Zur Rekonstruk on der betrieblichen Abläufe des EVU wertete die BEU die EFR-Daten des
-führenden Verbrennungstriebwagens (VT) mit der Fahrzeugnummer 9580 0 648 502-2 des
-DbZ 24259 aus. Die Auslesung der Daten erfolgte durch einen Mitarbeiter des EVU. Im
-Fahrzeug der BR 648 war ein Datenrekorder des Typs Datenspeicherkasse e (DSK) 10 der
-Firma DEUTA-WERKE GmbH verbaut.
-Das PZB-Fahrzeuggerät des Triebfahrzeugs war eingeschaltet, die Rohdaten waren vollständig
-und wurden fehlerfrei aufgezeichnet. Die im folgenden genannten Zeiten sind systeminterne
-Zeiten der PZB-Fahrzeugeinrichtung, die von der tatsächlichen Uhrzeit abweichen können. Bei
-diesem Ereignis wichen die registrierten Uhrzeiten nur geringfügig von der tatsächlichen
-Uhrzeit ab.
-In den EFR-Daten waren die Zugnummer und die vorhandene Bremsart (BRA) korrekt
-eingegeben. Als Tf-Nummer und Zuglänge war der Wert „0“ hinterlegt. Laut der zugehörigen
-Einstelltabelle aus der Ril 483.0111 sollte die korrekte Tf-Nummer in die Zugdaten eingeben
-werden, eine Änderung der Zuglänge war durch den Tf nicht möglich. Der Zug verkehrte in der
-oberen Zugart „O“, unter fehlerha er Eingabe von 152 vorhandenen Bremshundertsteln
-(BRH). Die eingegebenen Zugdaten können der untenstehenden Tabelle entnommen werden.
+In diesem Kapitel werden unbeschadet des Ar(cid:415)kels 20 Abs. 4 der Richtlinie (EU) 2016/798 die 
 
-Seite 22 von 44
+Aufgaben  und  Pﬂichten  von  Personen  und  Stellen  behandelt,  die  an  dem  Ereignis  beteiligt 
 
-Untersuchungsbericht
-Zugkollision, 15.11.2023, Bf Lauenbrück
+waren. Untersuchungen zu Schuld- oder Ha(cid:332)ungsfragen sind explizit ausgeschlossen und nicht 
 
-Parameter
+Untersuchungsgegenstand. 
 
-Eingegebener Wert
+4.1.1  Untersuchung	der	betrieblichen	Abläufe	des	Infrastrukturbetreibers	
 
-Tf-Nummer
+Das  gemäß  § 2 Abs. 1 AEG  verantwortliche  EIU  DB InfraGO AG  verfügte  über  eine 
 
-0
+Sicherheitsgenehmigung  gemäß  § 7c AEG,  die  bis  zum  19.10.2021  gül(cid:415)g  war.  Das 
 
-Zugnummer
+Unternehmen beantragte am 12.04.2021 die Verlängerung der Sicherheitsgenehmigung, die 
 
-24259
+zwischenzeitlich bis zum 19.10.2026 erteilt wurde. 
 
-BRA
+Gemäß  § 4 Abs. 3 AEG  sind  Eisenbahnen  verpﬂichtet,  ihren  Betrieb  sicher  zu  führen,  die 
 
-08
+Eisenbahninfrastruktur  sicher  zu  bauen  und  in  betriebssicherem  Zustand  zu  halten.  Zudem 
 
-BRH
+muss gemäß § 4 Abs. 4 AEG i. V. m. der Richtlinie (EU) 2016/798 ein SMS eingerichtet werden. 
 
-152
+Die 
 
-VMZ
+inhaltlichen  Maßstäbe  für  die  Aufstellung  und  Einhaltung  waren  die 
 
-120
+in  der 
 
-Zugart
+Verordnung (EU) 2018/762 genannten Anforderungen.  
 
-O
+Als  Teil  des  SMS  der  DB InfraGO AG  waren  auch  alle  Anforderungen  der 
 
-Zuglänge
+Durchführungsverordnung (EU) 2019/773  über  die 
 
-0
+technische  Speziﬁka(cid:415)on 
 
-Tabelle 8: Eingegebene EFR-Zugdaten DbZ 24259
+für  die 
 
-Die Auswertung der tabellarisch aufgezeichneten EFR-Daten ergab, dass der Tf das
-Einfahrvorsignal f205 mit einer Geschwindigkeit von 47 km/h passierte. Danach beschleunigte
-er seinen Zug entsprechend des wahrgenommenen Fahrtbegriﬀs „Fahrt erwarten/Vr1“ bis zu
-einer Geschwindigkeit von 76 km/h. Die Geschwindigkeit wurde in der Folge kon nuierlich
-verringert und betrug bei der Vorbeifahrt am „Fahrt/Hp1“-zeigenden Esig F205 im km 298,70
-noch 49 km/h. Bis zum registrierten S llstand des Zuges legte der Zug noch eine Wegstrecke
-von 550 m zurück. Ein anliegender Druck der Hauptlu leitung <2,2 bar wurde um
-16:03:51 Uhr gemeinsam mit dem S llstand ca. in km 298,15 registriert. Um 16:18:01 Uhr
-wurde in Folge der Zugkollision ein Vorschub um ca. 10 m verzeichnet. Die grafische
-Auswertung der EFR-Daten ist in der nachfolgenden Abbildung dargestellt. Zur besseren
-Übersicht wurde die Wegstrecke anhand der Posi on der Zugspitze des führenden Fahrzeugs
-9580 0648 502-2 nach dem Ereignis durch die BEU normiert.
+Interoperabilität  des  Teilsystems 
 
-Seite 23 von 44
+„Verkehrsbetrieb  und  Verkehrssteuerung“  des 
 
-Untersuchungsbericht
-Zugkollision, 15.11.2023, Bf Lauenbrück
+Eisenbahnsystems in der Europäischen Union (TSI OPE) umzusetzen. 
 
-Abbildung 7: Grafische Auswertung der EFR-Daten von Zug DbZ 24259
+Einer  der  im  Kontext  des  Ereignisses  wesentlichen  Grundsätze  gemäß  TSI  OPE  Anlage B 
 
-Aus den Fahrtverlaufsdaten der Fahrt wurden keine Sachverhalte festgestellt, die einen
-ereignisrelevanten Faktor darstellen.
-Betrieblicher Ablauf der Zugfahrt ICE 615
-Die DB Fernverkehr AG war das zum Ereigniszeitpunkt verantwortliche EVU für die Zugfahrt
-ICE 615 und verfügte über eine Sicherheitsbescheinigung gemäß § 7a AEG mit einer Gül gkeit
-bis zum 22.03.2024. Das EVU war damit zur Teilnahme am Eisenbahnbetrieb berech gt.
-Regeln für die Durchführung von Zugfahrten und zur Planung und Überwachung des Betriebes
-durch den Unternehmer waren im „Triebfahrzeugführerhe
+Kapitel B.1  Nr. 1  lautete:  „Das  Verfahren  zur  Zulassung  einer  Zugfahrt  muss  einen  sicheren 
 
-gemäß Ril 418.10-90“ der
+Abstand zwischen den Zügen gewährleisten“. 
 
-DB Fernverkehr AG umgesetzt.
-Der ICE 615 verkehrte am 15.11.2023 gemäß Fahrplan mit einer Länge von 375 m bei 194 Mbr
-von Hamburg-Altona Pbf nach München Hbf. Die Einfahrt in den Bf Lauenbrück wurde dem Tf
-mi els Fahrtbegriﬀ „Hp1“ mit Geschwindigkeitsanzeiger „Zs3“ und der Kennziﬀer 8 am
-Esig F205 mit 80 km/h angezeigt. Der Tf erkannte bei der Einfahrt in den Bf Lauenbrück den
-Zugschluss des DbZ 24259 und leitete eine Schnellbremsung ein, die die Kollision auf der
-Weiche 229 jedoch nicht mehr verhindern konnte.
+Seite 13 von 44 
 
-Seite 24 von 44
+ 
+ 
+Untersuchungsbericht 
 
-Untersuchungsbericht
-Zugkollision, 15.11.2023, Bf Lauenbrück
+Zugkollision, 15.11.2023, Bf Lauenbrück 
 
-Auswertung der EFR‐Daten des ICE 615
-Zur Rekonstruk on der betrieblichen Abläufe des EVU wertete die BEU die EFR-Daten aus, die
-das führende Fahrzeug 93 80 0812 062-9 des ICE 615 gespeichert ha e. Die Auslesung der
-Daten erfolgte durch einen Mitarbeiter des EVU. Im Fahrzeug der BR 412 war eine DSK der
-Firma Siemens AG verbaut.
-Das PZB-Fahrzeuggerät des Triebfahrzeugs war eingeschaltet, die Rohdaten waren vollständig
-und fehlerfrei aufgezeichnet. Die im folgenden genannten Zeiten sind systeminterne Zeiten
-der PZB-Fahrzeugeinrichtung, die von der tatsächlichen Uhrzeit abweichen können. Bei
-diesem Ereignis wichen die registrierten Uhrzeiten um -60 Minuten von der tatsächlichen
-Uhrzeit ab. Zur besseren Übersicht wurde die Wegstrecke anhand der Posi on der Zugspitze
-des führenden Fahrzeugs des ICE 615 nach dem Ereignis durch die BEU normiert.
-In den EFR-Zugdaten waren die Zugnummer und die vorhandenen BRH und die BRA korrekt
-eingegeben. Der Zug verkehrte in der oberen Zugart „O“. Die eingegebenen Zugdaten können
-der untenstehenden Tabelle entnommen werden.
-Parameter
+Zur  sicheren  Durchführung  der  Fahrten  auf  der  Infrastruktur  der  DB InfraGO AG  ha(cid:425)e  die 
 
-Eingegebener Wert
+betrieblich  zuständige  Fdl-in  als  Bedienerin  im  Stellwerk  Rotenburg  (Wümme)  hierzu 
 
-Tf-Nummer
+untersetzende  und  ergänzende  unternehmensinterne  Arbeitsvorgaben  zu  beachten  und 
 
-vom EVU vorgegeben
+umzusetzen,  unter  anderem  die  Ril 408,  das  Betriebsstellenbuch  und  im  Au(cid:332)ragsbuch 
 
-Zugnummer
+ausliegende Au(cid:332)räge sowie betriebliche Mi(cid:425)eilungen (BM). 
 
-000615
+Im Stellwerk Rotenburg (Wümme) „Rf“ verrichteten der Fdl Rotenburg (Wümme) Ort und der 
 
-BRA
+Fdl Rotenburg (Wümme) Strecke gemeinsam die betrieblichen Tä(cid:415)gkeiten.  
 
-7
+Die  Rekonstruk(cid:415)on  der  betrieblichen  Handlungen  der  zum  Zeitpunkt  des  Ereignisses 
 
-BRH
+zuständigen  Fdl-in  Rotenburg  (Wümme)  Strecke  basierte  auf  der  Auswertung  der 
 
-120
+Stellwerksdokumenta(cid:415)on, der betrieblichen Unterlagen sowie der aufgezeichneten GSM-R-
 
-VMZ
+Gespräche. 
 
-160
+Betriebssitua(cid:415)on 
 
-Zugart
+Zum Ereigniszeitpunkt war das Stellwerk Rotenburg (Wümme) planmäßig mit zwei Fdl besetzt 
 
-O
+und der Betrieb wurde im Regelbetrieb durchgeführt. 
 
-Zuglänge
+Der DbZ 24259 fuhr entlang absteigender Kilometrierung im Streckenabschni(cid:425) Bf Tostedt – 
 
-410
+Bf Lauenbrück. Um 16:02:54 Uhr meldete der Tf an die zuständige Fdl-in Rotenburg (Wümme) 
 
-Tabelle 9: Eingegebene EFR-Zugdaten ICE 615
+Strecke eine Bremsstörung am DbZ 24259 und seinen Standort in km 298,2. Dieses 1:07 min 
 
-Um 15:17:42 Uhr DSK-Zeit erfolgte die Vorbeifahrt am Esig F205 des Bf Lauenbrück des ICE
-615 mit einer Geschwindigkeit von 76,8 km/h. 15 Sekunden später wurde die Bedienung des
-Fahr-/Bremsschalters bei einer Geschwindigkeit von 79,6 km/h aufgezeichnet. Um 15:18:02
-Uhr DSK-Zeit wurde eine Druckabsenkung in der Hauptlu leitung des Zuges <2,2 bar
-registriert. Dies war auf das Einleiten einer Schnellbremsung durch den Tf zurückzuführen.
-128 m bzw. 15 Sekunden nach dem Einleiten der Schnellbremsung wurde der S llstand des
-Zuges nach der Zugkollision um 15:18:17 Uhr DSK-Zeit registriert. Die grafische Auswertung
-des Fahrtverlaufs des ICE 615 ist in der nachfolgenden Abbildung dargestellt.
+dauernde GSM-R Gespräch ist in der nachfolgenden Tabelle wiedergegeben. 
 
-Seite 25 von 44
+Funk(cid:415)on 
 
-Untersuchungsbericht
-Zugkollision, 15.11.2023, Bf Lauenbrück
+Inhalt 
 
-Abbildung 8: Grafische Auswertung der EFR-Daten von Zug ICE 615
+Fdl-in 
 
-Aus dem rekonstruierten betrieblichem Ablauf der Fahrt wurden keine Sachverhalte
-festgestellt, die einen ereignisrelevanten Faktor darstellen.
+Fdl Rotenburg. 
 
-4.2 Fahrzeuge und technische Einrichtungen
-In diesem Kapitel sind die Erkenntnisse aus der Untersuchung beteiligter Fahrzeuge, der
-Eisenbahninfrastruktur und weiterer technischer Einrichtungen einschließlich damit eventuell
-verbundener Tä gkeiten und Entscheidungen dargestellt.
-4.2.1 Untersuchung von Fahrzeugen
-Der aus drei VT der BR 648 (Coradia Leichter Innova ver Nahverkehrs-Triebwagen (LINT) 41)
-des Herstellers Alstom gebildete DbZ 24259 war auf einer Überführungsfahrt von SassnitzMukran Gbf (Ausfahrgruppe) nach Bad Bentheim, DB-Grenze.
-Die VT mit der Baureihenbezeichnung 648-002, 648-003 und 648-005 befanden sich nach der
-Außerbetriebnahme durch das EVU DB Regio AG am Standort Sassnitz-Mukran. Es folgte der
-Erwerb durch das EVU Bentheimer Eisenbahn AG, das auch die Funk on des ECM übernahm.
-Im Oktober 2023 wurden die Fahrzeuge mit den internen Bezeichnungen des EVU Bentheimer
-Eisenbahn AG VT 117, VT 118, VT 120 gemäß ECM 3 in das Flo enmanagement des EVU
-übernommen.
+Tf 
 
-Seite 26 von 44
+Ja (Name) hier, mit dem 24259. Haben ein Problem mit Fahrzeug. 
 
-Untersuchungsbericht
-Zugkollision, 15.11.2023, Bf Lauenbrück
+Fdl-in 
 
-Zur Vorbereitung auf die Überführungsfahrt am 15.11.2023 wurden die Fahrzeuge in der Zeit
-vom 05.09.2023 bis 07.09.2023 einer Fahrzeugüberprüfung durch die Bentheimer Eisenbahn
-AG in ihrer Funk on als ECM 1 und 2 unterzogen. Vom 13.11.2023 bis 14.11.2023 wurden
-Instandhaltungs- sowie Instandsetzungsarbeiten durch die ECM 4 der Bentheimer Eisenbahn
-AG durchgeführt.
-Die aus einem A- und einem B-Wagen bestehenden VT waren mit zwei Triebdrehgestellen und
-einem Mi eldrehgestell ausgerüstet, siehe nachfolgende Abbildung. Die als Powerpacks
-ausgeführten Antriebe befanden sich ebenso wie die mechanischen Module der Bremsanlage
-sowie die Drucklu versorgung unterflur.
+Du hast ein Problem mit dem Fahrzeug? 
 
-Abbildung 9: Skizze BR 648
+Tf 
 
-Aus der folgenden Tabelle lassen sich die technischen Fahrzeugdaten entnehmen:
-Fahrzeugkategorie
+Ja, stehe km 298,2. 
 
-Regionaltriebwagen
+Fdl-in 
 
-Leistung
+Du stehst in km 298,2. Ja ‐ du rollst aber grade in de Bf rein, oder? 
 
-2 x 315 kW
+Tf 
 
-Antriebsart
+Ja, rich(cid:415)g. 
 
-dieselhydraulisch
+Fdl-in 
 
-Länge über Kupplung
+Bleibst du dann da stehen, oder? 
 
-41.810 mm
+Tf 
 
-Fahrzeugbreite
+Ja, wir bleiben erstmal stehen. 
 
-2.750 mm
+Fdl-in 
 
-Eigengewicht
+Da bleibste erstmal stehen. 
 
-ca. 63,5 t
+Tf 
 
-Höchstgeschwindigkeit
+Ja, 
+im 
 
-120 km/h
+wenn wir erstmal 
+Weg stehen… 
 
-Radsatzfolge
+stehen bleiben können und nicht großar(cid:415)g 
 
-’B‘ 2‘ B‘
+Fdl-in 
 
-Zugsicherungssystem
+Ja, lieber da als auf der Strecke. Da passt es besser. 
 
-PZB
+Seite 14 von 44 
 
-Tabelle 10: Fahrzeugdaten BR 648 (Coradia LINT 41)
+ 
+ 
+Untersuchungsbericht 
 
-Als Teil des Inbetriebnahmeprozesses wurde die Prüfung vor Übernahme der Fahrzeuge von
-der DB Regio AG durch das EVU Bentheimer Eisenbahn AG durchgeführt. Die einzelnen
-Prüfschri e wurden vollständig protokolliert und im Instandsetzungsau ragsbericht
-festgehalten. Zur Herstellung der Lauﬀähigkeit wurden die an den Fahrzeugen festgestellten
+Zugkollision, 15.11.2023, Bf Lauenbrück 
 
-Seite 27 von 44
+Tf 
 
-Untersuchungsbericht
-Zugkollision, 15.11.2023, Bf Lauenbrück
+Fdl-in 
 
-Störungen behoben bzw. für die Überführungsfahrt Maßnahmen ergriﬀen, die einen sicheren
-Eisenbahnbetrieb gewährleisten sollten.
-Die Besonderheiten für die anstehende Überführungsfahrt wurden in dem Dokument der
-Lauﬀähigkeitsuntersuchung des VT 117 handschri lich festgehalten. Hiernach dur e der Zug
-u. a. nur unter den folgenden Bedingungen überführt werden:
-
+Ja, prima danke. 
 
-„Festgelegte Reihenfolge VT 117, VT 120 (Notkupplung vorgehalten), VT 118 und
-defektem GSM‐R einzuhalten,
+Kannst du noch 
+noch kannst? 
 
-
+ein Stück, bis zum Bahnsteig vor … wenn du da 
 
-Aufgrund abgeschalteter Luftfederung an zwei Fahrzeugen galt eine
-Höchstgeschwindigkeit von 100 km/h,
+Tf 
 
-
+Okay, probiere bis zum Bahnsteig vor … 
 
-Getriebe bei VT 117 und VT 118 in Mittelstellung belassen, Motoren arbeiteten im
-Leerlauf aufgrund der Störungen an zwei Powerpacks.“4
+Fdl-in 
 
-Bei der mit Instandhaltungsau rag am 14.11.2023 durchgeführten Sandmengenmessung
-durch die ECM wurden bei den drei VT die jeweils an den Radsätzen 1 und 6 angebrachten
-Sandstreueinrichtungen überprü . Gemäß den Vorgaben der Ergänzungsregelung Nr. B 011
-zum
+Ja, genau  
 
-„Sanden“,
+Tf 
 
-siehe
+… und bleiben da dann stehen. 
 
-hierzu
+Fdl-in 
 
-auch
+Ja genau. Soll ich dir die Ausfahrt weg nehmen? 
 
-Kapitel 4.2.3,
+Tf 
 
-entsprachen
+Fdl-in 
 
-sowohl
+Ja, kannst du weg nehmen. 
 
-die
+Was habt ihr 
+lange, ne? 
 
-Sandstreueinrichtungen als auch die ausgebrachten Sandmengen den Vorgaben. Die
-ausgebrachten Sandmengen lagen bei den Fahrzeugen mit gemessenen Werten von
-312 g/30 sec bis 424 g/30 sec im Bereich der laut o. g. Ergänzungsregelung Nr. B 011
-vorgegebenen Sandmengen von 200 g/30 sec bis 500 g/30 sec. Bei dem verwendeten Sand
-handelte es sich um Bremssand mit einer Körnung von 0,8 mm bis 1,6 mm. Die vorhandene
-Sandqualität wurde durch das EVU entsprechend belegt und entsprach der DB-Norm
-BN 918224 und den Vorgaben der Ergänzungsregelung Nr. B 011. Die nachfolgende Abbildung
-zeigt Au ragungen von Sand im betroﬀenen Gleisabschni der Weiche 229.
+denn, ihr standet vorhin in Buchholz auch schon so 
 
-4
+Tf 
 
-Lauffähigkeitsbescheinigung, Bentheimer Eisenbahn AG
+Ja, Problem mit der Bremse. 
 
-Seite 28 von 44
+Fdl-in 
 
-Untersuchungsbericht
-Zugkollision, 15.11.2023, Bf Lauenbrück
+Problem mit der Bremse, okay, dann weiß ich Bescheid. 
 
-Abbildung 10: Sand auf dem Schienenkopf im Bereich der Weiche 229
+Tf 
 
-Während der Fahrt wurde dem Tf über die Fahrzeuglei echnik eine Störung am VT 118
-angezeigt. Darau in hielt der Tf am Hp Buchholz an, um die Störung mit Hilfe anwesender
-Mitarbeiter des EVU zu beheben. Nach erfolgreicher Störungsbehebung setzte der DbZ 24259
-unter Beteiligung des zuständigen Fdl seine Fahrt fort. Im Bf Lauenbrück wurde dem Tf ein
-Kommunika onsausfall zwischen Fahrzeuglei echnik und Bremssteuergerät auf dem
-Führerstand angezeigt. Der Tf bremste den DbZ 24259 ab und betä gte die
-Sandstreueinrichtung. Der Sandaustri erfolgte jeweils am in Fahrtrichtung ersten Radsatz der
-drei VT.
-In Folge der Zugkollision kam es zu Schäden an den beteiligten Fahrzeugen. Die am Ereignis
-beteiligten Fahrzeuge wurden soweit durch die BEU untersucht, dass das Vorliegen von
-ereignisrelevanten Faktoren an ihnen ausgeschlossen werden konnte.
-4.2.2 Untersuchung der bautechnischen Infrastruktur
-Die an der baulichen Infrastruktur entstandenen Schäden waren Folge des Ereignisses. Auf
-weitergehende Untersuchungen wurde deshalb verzichtet.
-4.2.3 Untersuchung der Leit‐ und Sicherungstechnik
-Bei
+Jo danke. 
 
-der
+Fdl-in 
 
-im
+Ciao. 
 
-Bf Lauenbrück
+Tabelle 5: GSM-R Gespräch um 16:02:54 Uhr zwischen Fdl-in u. Tf des DbZ 24259 
 
-vorhandenen
+Während dieses GSM-R Gesprächs konnte die Fdl-in die Spurausleuchtungen ihres Stell(cid:415)schs 
 
-selbs ä gen
+auswerten, um den DbZ 24259 zu lokalisieren. Die ursprüngliche Aussage des Tf, dass er in 
 
-Gleisfreimeldeanlage
+km 298,2  stehen  bleibe  bestä(cid:415)gte  sie  zunächst,  um  dem  Tf  unmi(cid:425)elbar  auf  diese 
 
-mit
+Vereinbarung  hin  den  Vorschlag  zu  unterbreiten,  wenn  möglich,  bis  zum  Bahnsteig 
 
-niederfrequenten Gleisstromkreisen handelte es sich um die Bauart 100 Hz des Herstellers
-SEL. Die Anlage wurde mit dem Stellwerk im Jahr 1968 in Betrieb genommen. Niederfrequente
-Gleisstromkreise mit 100 Hz werden in Signalanlagen zur selbs ä gen Gleisfreimeldung
+vorzuziehen,  was  der  Tf  wiederum  bestä(cid:415)gte.  Dieses  GSM-R  Gespräch  entsprach  nicht  der 
 
-Seite 29 von 44
+gemäß Ril 481.0205 Abschni(cid:425) 6 (2) geforderten Sprechdisziplin. Das Gespräch beruhte u. a. 
 
-Untersuchungsbericht
-Zugkollision, 15.11.2023, Bf Lauenbrück
+nicht  auf  kurzen,  eindeu(cid:415)gen  Sätzen  und  ha(cid:425)e  –  in  Bezug  auf  die  Vereinbarung  über  das 
 
-eingesetzt. Die Innenanlage besteht aus einer Spannungsquelle und einer Gleisrelaisgruppe.
-Die Außenanlage besteht aus einem Weichen- oder Gleisabschni , der von Isolierstößen
-begrenzt ist.
-Im Bf Lauenbrück war der Einfahrabschni von Esig F205 bis unmi elbar vor der Spitze der
-Weiche 229 mit einer selbs ä gen Gleisfreimeldeanlage mi els Gleisstromkreisen realisiert,
-ebenso die Weiche 229 selbst. Im geraden Strang der Weiche 229 (Rechtslage) befand sich auf
-Höhe des Lichtsperrsignals 231I, ca. 8,60 m vom Grenzzeichen der Weiche 229 en ernt, ein
-Isolierstoß im Gleis. Dieser stellte die Begrenzung der Gleisfreimeldeanlage der Weiche 229
-zur Gleisfreimeldeanlage des Gleises 231 dar. Gleis 231 selbst war mit einer selbs ä gen
-Gleisfreimeldeanlage mit Achszähltechnik ausgerüstet.
-Gleisstromkreise dienen der Detek on von Fahrzeugen durch Stromfluss über die Achsen der
-Fahrzeuge. Ist das Gleis frei, fließt in den nach dem Ruhestromprinzip arbeitenden Anlagen
-Strom über das Gleis zur Auswerteeinrichtung. Wird das Gleis durch ein Fahrzeug besetzt, so
-stellt die Achse des Fahrzeugs einen Nebenschluss her.
-Dem Fdl wird auf dem Stell sch op sch über Ausleuchtungszustände angezeigt, ob sich ein
-Zug im überwachten Gleisabschni
+Halten  oder  eine  mögliche  Weiterfahrt  des  Tf  des  DbZ  24259  bis  zum  Bahnsteig  –  einen 
 
-befindet oder ob das Gleis frei von Fahrzeugen ist.
+widersprüchlichen Gesprächsinhalt. Der Fdl-in lag als Resultat dieses Gesprächs der endgül(cid:415)ge 
 
-Gleichzei g ist diese erhobene Informa on über den Belegungszustand eines Gleises eine
-Eingangsgröße für weitere, automa sierte Prozesse in der Sicherungstechnik, wie bspw. für
-die im Stellwerk selbs ä g wirkenden Prüf- und Freigabeprinzipien für die Fahrstraßen der
-Zugfahrten. Eine in jedem Betriebszustand rich g wirkende Gleisfreimeldeanlage ist demnach
-Voraussetzung für das sichere Wirken der auf diese eingehende Informa on au auenden
-Stellwerksfunk onen.
-In Gleisabschni en, in denen die Gleisfreimeldung technisch durch Gleisstromkreise
-sichergestellt wird, kann eine sichere Detek on infolge Eintrag von Sand zur Erhöhung des
-Kra schlusses zwischen Rad und Schiene beeinträch gt werden. Hierbei kann der Sand
-zwischen Schiene und den Rädern eines Schienenfahrzeugs eine Isola onswirkung en alten.
-Dadurch wird die Detek onsfähigkeit eines Gleisstromkreises gestört. Die Funk on des
-Gleisstromkreises, ein Fahrzeug aufgrund der Lei ähigkeit eines Radsatzes sicher zu
-detek eren, ist dann nicht mehr sicher gegeben. Entsprechend könnte ein Gleisabschni
-durch die Gleisfreimeldeanlage als frei detek ert und so dem Fdl angezeigt werden, obwohl
-er durch ein Schienenfahrzeug besetzt ist. Durch diese vom Stellwerk fehlerha en
+Standort des DbZ 24259 nicht zweifelsfrei vor. Diese nicht eingehaltene Sprechdisziplin wurde 
 
-Seite 30 von 44
+durch die BEU als beitragender Faktor mit Einﬂuss auf das Ereignis gewertet [F2]. 
 
-Untersuchungsbericht
-Zugkollision, 15.11.2023, Bf Lauenbrück
+Die fortgesetzte Fahrt des DbZ 24259 konnte die Fdl-in auf ihrem Stell(cid:415)sch anhand der vom 
 
-herausgegebenen Informa onen können in der Folge gefährliche Zustände, wie im
-vorliegenden Fall eingetreten, entstehen. Die BEU wertet die Funk onssicherheit der
-Detek on eines Zuges bei Sandeintrag als einen ursächlichen Faktor [F3].
-Zur Kontrolle der Risiken aus einem solchen Zustand wurde nach einigen gefährlichen
-Ereignissen in den Jahren von 2008 bis 2013 eine Kontrollmaßnahme in Form einer von Tf und
-Fdl zu befolgenden Prozedur eines Meldeverfahrens eingeführt.
-Hierbei wird die infolge Sandeintrag entstehende Funk onsbeeinträch gung durch eine
-Standortmeldung des Tf an den Fdl ersetzt. Um durch den Sandeintrag fehlerha e
-Informa onszustände des Stellwerks und die möglichen Risiken daraus zu kontrollieren, dient
-ein Kommunika onsverfahren zwischen Tf und Fdl zur Kompensa on. Hierbei löst eine
-Standortmeldung des Tf mit dem Hinweis über die erfolgte Sandung an den Fdl aus, dass
-dieser die daraus entstehenden Störungen der Gleisfreimeldung kompensiert und
-Maßnahmen zur sicheren For ührung des Betriebs tri . Diese verfahrensbasierte
-Kompensa on der Funk onsbeeinträch gung eines Gleisstromkreises infolge Sandeintrag ist
-jedoch aufgrund der Mitwirkung mehrerer Menschen weniger leistungsfähig gegenüber einer
-automa sierten Detek on. Sie hat dadurch ein geringeres Sicherheitsniveau.
-In der Ril 819.1100 werden Planungsgrundsätze für selbs ä ge Gleisfreimeldeanlagen mit
-Achszähltechnik vorgegeben. Gemäß dieser Ril sollen bei neugeplanten Anlagen selbs ä ge
-Gleisfreimeldeanlagen mit Achszähltechnik realisiert werden. In Bestandsanlagen können
-daher selbs ä ge Gleisfreimeldeanlagen mit Gleisstromkreisen vorhanden sein. Bei diesen
-Anlagen zeigte sich durch gefährliche Ereignisse, u. a. im Jahr 2008 im Bf Recklinghausen Ost,
-dass Züge durch Sandeintrag nicht mehr korrekt durch die Gleisfreimeldetechnik detek ert
-werden konnten. Das vorgesehene, in Richtung der Sicherheit gerichtete Leistungsniveau der
-Anlage steht einem Fdl entgegen der delegierten Verordnung (EU) 2018/762 Anhang II
-Kap. 5.2.2 a) ab diesem Zeitpunkt nicht mehr zur Verfügung. Daher wurde durch die
-Beteiligten im Eisenbahnsektor eine betriebliche Rückfallebene als Kompensa onsmaßnahme
-geschaﬀen, die durch die nunmehr geltenden Regelungen der Ril 408 und der
-Ergänzungsregelung Nr. B 011 zum „Sanden“ für EVU, ECM und EIU verbindlich einzuhalten
-sind. Diese Regelungen stellen eine geplante Rückfallebene auf betrieblicher Ebene und in der
-Instandhaltung dar, um einer fehlerha en Informa onen über die Detek on von Zügen
-vorzubeugen. Die BEU wertete diesen Umstand als systemischen Faktor [S3] mit Bezug zum
-ursächlichen Faktor [F3].
-Seite 31 von 44
+Zug 
 
-Untersuchungsbericht
-Zugkollision, 15.11.2023, Bf Lauenbrück
+ausgelösten, 
 
-In den letzten drei Jahren vor dem Ereignis traten bei der Gleisfreimeldeanlage im
-Bf Lauenbrück nach eigenen Auswertungen des EIU keine Funk onsbeeinträch gungen auf.
-Die zugehörigen Inspek onsunterlagen der in den Jahren 2020 bis 2023 gemäß Ril 892.9305
-durchgeführten Inspek onen wurden der BEU vorgelegt. Nach dem Ereignis wurde die Anlage
-von der Abteilung Anlagen- und Instandhaltungsmanagement des EIU überprü . Bei den
-durchgeführten Messungen nach dem Ereignis traten keine Unregelmäßigkeiten auf. Die
-Anlage war nach der Überprüfung durch das Anlagen- und Instandhaltungsmanagement des
-EIU unmi elbar wieder betriebsbereit.
+roten 
 
-4.3 Menschliche Faktoren
-In diesem Kapitel werden Untersuchungserkenntnisse zu menschlichen Handlungen und/oder
-Entscheidungen am gefährlichen Ereignis beteiligter Personen dargestellt. Entsprechende
-Erkenntnisse können sich hierbei insbesondere im Bereich menschlicher und individueller
-Merkmale sowie organisatorischer und Arbeitsplatzfaktoren ergeben.
-4.3.1 Beteiligte des Infrastrukturbetreibers
-Die Fdl-in begann ihre Funk onsausbildung am 01.07.2020 und schloss sie am 27.11.2020
-erfolgreich ab. Von März bis Juni 2022 wurde sie auf dem Stellwerk Rotenburg (Wümme)
-eingewiesen, im Juni 2022 erfolgte hier die örtliche Prüfung. Dies umfasste auch die
-Bedienung der von Rotenburg (Wümme) aus ferngesteuerten Stellwerke Lauenbrück und
-Tostedt. Nachweise über die gesundheitliche und psychische Eignung der Fdl-in wurden der
-BEU vorgelegt.
-Die Nachweise über die in den Jahren 2022 und 2023 durchgeführten Fortbildungen mit
-Inhalten gemäß Themenkatalog Ril 046.2002A05 in Form von Praxistraining wurden der BEU
-ebenfalls vorgelegt. Thema siert wurde bei diesen Fortbildungen unter anderem die
-Fahrwegprüfung, Fahrwegsicherung und Räumungsprüfung.
-Überwachung der Dienstausübung
-Die Fdl-in war gemäß Ril 412.9111 Abschni 4 Abs. 3 der Funk onsstufe „A“ mit betrieblicher
-Komplexität „a“ zugeordnet.
-Aus dieser Zuordnung resul erte, dass die Überwachungshäufigkeit durch eine sogenannte
-Betriebskontrolle am Arbeitsplatz eines Fdl im Stellwerk Rotenburg (Wümme) durch das EIU
-gemäß Ril 412.9111 Abschni 4 Abs. 5 auf acht Überwachungen pro Jahr festgelegt wurde. Als
+Spurausleuchtung 
 
-Seite 32 von 44
+nachvollziehen. 
 
-Untersuchungsbericht
-Zugkollision, 15.11.2023, Bf Lauenbrück
+Durch 
 
-Betriebskontrolle wurde laut Ril 412.9111 Abschni 2 Abs. 4 die direkte Überwachung der
-Mitarbeiter oder das Training an einer Simula onsanlage im Rahmen der Fortbildung
-definiert. Bei der direkten Überwachung sollen u. a. die Handlungen des Stellwerkspersonals,
-die Einträge in betrieblichen Unterlagen und das Fachwissen mi els Durchführung von
-Lehrgesprächen durch eine Aufsicht führende Person überprü werden.
-Im Jahr 2022 wurden elf Betriebskontrollen durch einen Bezirksleiter Betrieb durchgeführt.
-Entsprechend der Vorgabe aus Ril 412.9111 Abschni 5 Abs. 2 wurden im Kalenderjahr 2022
-mindestens zwei der Betriebskontrollen als besondere Betriebskontrollen, das heißt am
-Wochenende, außerhalb der gewöhnlichen Arbeitszeit oder in der Situa on der
-Abweichungen vom Regelbetrieb, durchgeführt.
-Für das Jahr 2023 konnten durch das EIU die Durchführung von vier Betriebskontrollen durch
-Vorlage der zugehörigen Protokolle nachgewiesen werden, darunter eine besondere
-Betriebskontrolle. Die gemäß Ril 412.9111 Abschni
+diesen 
 
-4 Abs. 5 jährlich im Unternehmen
+Ausleuchtungszustand im Gleis 231 auf ihrem Stell(cid:415)sch konnte sie im Weiteren annehmen, 
 
-vorgeschriebene Anzahl an Überwachungen der Fdl-in war quan ta v für das Kalenderjahr
-2023 zum Ereigniszeitpunkt nicht erfüllt.
-Der gemäß Ril 481.0205Z01 einmal jährlich durchzuführende Nothaltau rag wurde in den
-vorgelegten Protokollen als Pflich hema für das Jahr 2022 nachgewiesen. Für das Jahr 2023
-stand die Durchführung laut Angabe des EIU noch aus.
-Die letzte Betriebskontrolle vor dem Ereignis wurde am 14.11.2023 ohne Beanstandungen
-durchgeführt. Themen des freien Lehrgesprächs waren die allgemeine Arbeitsausführung,
-insbesondere das Sperren von Gleisen und die Kommunika on mit technischen Berech gten
-sowie Maßnahmen bei Betriebs- und Bauanweisungen bei einer Verteilung auf den
-Stellwerken von weniger als fünf Tagen.
-Aus den übersandten Protokollen der in den Jahren 2022 und 2023 durchgeführten
-regelmäßigen Fortbildungen der Fdl-in ging nicht hervor, dass die Fdl-in durch das EIU bzgl.
-der Thema k einer Abschni sprüfung nach der Meldung über den Sandeintrag eines Tf i. V. m.
-vorhandenen Gleisstromkreisen regelmäßig fortgebildet wurde, um diese Kenntnisse aufrecht
-zu erhalten.
-Aus den in diesem Kapitel getroﬀenen Feststellungen zu Ausbildung, Training und
-Überwachung der Fdl-in resul ert, dass das EIU die gemäß Ril 412.9111 Abschni 4 Abs. 5
-geforderte Anzahl an Betriebskontrollen der Fdl-in für das Kalenderjahr 2023 gegenüber der
+dass die Weiche 229 wieder frei und das Gleis 231 durch den DbZ 24259 besetzt war. Diese 
 
-Seite 33 von 44
+Ausleuchtung entsprach der zuvor von ihr über GSM-R getroﬀenen Vereinbarung mit dem Tf 
 
-Untersuchungsbericht
-Zugkollision, 15.11.2023, Bf Lauenbrück
+des DbZ 24259, siehe obenstehende Tabelle 5, bis zum Bahnsteig vorzuziehen. Die Fdl-in nahm 
 
-BEU nicht durch z. B. Vorlage geeigneter Nachweisdokumente belegen konnte. Ferner war die
-handlungssichere Ausführung von Arbeitsabläufen, welche in Bezug zum eingetretenen
-Ereignis stehen, demnach auch inhaltlich über mindestens zwei Jahre nicht mehr belegt
-4.3.2 Beteiligte der EVU
-Nachfolgend wird auf die Qualifika on und medizinische Tauglichkeit des am Ereignis für das
-EVU Bentheimer Eisenbahn AG beteiligten Tf des DbZ 24259 eingegangen.
-Der Tf war im Besitz eines gül gen EU-Führerscheins, der am 01.11.2018 von der
-Triebfahrzeugführerscheinstelle des EBA ausgestellt worden und bis zum 31.10.2028 gül g
-war. Mit dem Ausstellungsdatum 20.04.2021 erhielt der Tf von dem verantwortlichen EVU
-Bentheimer Eisenbahn AG
+die Zus(cid:415)mmung zur Ausfahrt am Ausfahrsignal P231 zurück. 
 
-eine
+Seite 15 von 44 
 
-Zusatzbescheinigung
+ 
+ 
+Untersuchungsbericht 
 
-der
+Zugkollision, 15.11.2023, Bf Lauenbrück 
 
-Klassen A (Rangierfahrten)
+Um 16:11:06 Uhr, 8:12 min nach der ersten Meldung über die Bremsstörung, meldete sich der 
 
-und B (Zugfahrten). In der Zusatzbescheinigung wurde unter anderem die Befähigung zum
-Führen der BR 648 nachgewiesen.
-Die gesundheitliche Eignung gem. § 5 Abs. 1 Nr. 3 Triebfahrzeugführerscheinverordnung (TfV)
-wurde durch einen aktuellen Tauglichkeitsnachweis, der bis zum 02.07.2026 gül g war,
-erbracht.
-Der Tf erwarb gemäß dem zugehörigen Vordruck, welcher der BEU durch das EVU vorgelegt
-wurde, am 13.10.2023 die eingeschränkte Streckenkenntnis für die bestellte Trasse von
-Sassnitz-Mukran (Ausfahrgruppe) nach Bad Bentheim, DB-Grenze. Gemäß Kapitel 5.4 der
-Streckenkenntnisrichtlinie, VDV-Schri 755, i. V. m. den Vorgaben des BRW BE.5301A01
-Abschni 7 Abs. 7 dur en zwischen dem Erwerb der eingeschränkten Streckenkenntnis und
-der jeweiligen Zugfahrt nicht mehr als sieben Kalendertage liegen. Die Zugfahrt DbZ 24259
-fand am 15.11.2023 und somit 33 Tage nach dem dokumen erten Erwerb der
-eingeschränkten Streckenkunde sta .
-Am 29.09.2023 absolvierte der Tf erfolgreich ein webbasiertes Training mit dem Titel
-„regelmäßiger Fortbildungsunterricht für Triebfahrzeugführer 2022/23“. Die Inhalte der
-Fortbildung waren u. a. Unregelmäßigkeiten im Bahnbetrieb und Kommunika on und
-Verständigung. Die Themenblöcke wurden durch Übungen untersetzt. Die Übungen zu den
-beiden genannten Themenblöcken wurden laut Nachweisdokumenta on am 26.09.
-und 27.09.2023 durch den Tf durchgeführt und bestanden.
-Das EVU legte das Ergebnisprotokoll für die Überprüfung des Tf gemäß § 11 TfV vor. Ebenso
-wurde ein Nachweis über die zuletzt ohne Beanstandung durchgeführte Überwachungsfahrt
-Seite 34 von 44
+Tf des DbZ 24259 erneut per GSM-R bei der Fdl-in, um diese über den Einsatz von Sand bei der 
 
-Untersuchungsbericht
-Zugkollision, 15.11.2023, Bf Lauenbrück
+vorangegangenen Bremsung im Bf Lauenbrück zu verständigen.  
 
-des Tf vorgelegt. Themen des freien Lehrgespräches waren u. a. Verhalten im Gleisbereich aus
-Gründen der Unfallverhütung, Arten und Durchführung von Bremsproblemen und Verhalten
-bei und nach PZB-Zwangsbremsungen.
+Der Tf teilte der Fdl-in in diesem GSM-R Gespräch die Ortsangabe des Sandens nicht mit. Die 
 
-4.4 Feedback‐ und Kontrollmechanismen
-In diesem Kapitel wird insbesondere auf Bedingungen, Feedback- und Kontrollmechanismen
-im Eisenbahnsystem eingegangen, denen ein ak ver Einfluss auf die Entstehung ähnlicher
-Ereignisse zugeschrieben werden könnte. Diese Mechanismen schließen Faktoren des Risikound Sicherheitsmanagement sowie Überwachungsverfahren mit ein.
-4.4.1 Überwachung und Bewusstsein Stellwerkspersonal
-Entsprechend Verordnung(EU) 2018/762 Anhang II Kap. 6.1.2 muss eine Organisa on die
-Erfüllung sicherheitsrelevanter Aufgaben überwachen. Mangelnde Überwachung kann dazu
-führen, dass entgegen vorgenannter Verordnung Anhang II Kap. 4.3 das Bewusstsein für die
-korrekte Anwendung von Arbeitsvorgaben schwindet und das Risiko für nicht
-vorschri engerechtes Handeln steigt. Gemäß Kap. 2.1.1 e) i. V. m. Kap. 2.3.2 vorgenannter
-Verordnung müssen hierfür die notwendigen Ressourcen zur Verfügung gestellt werden.
-Entsprechend der Verordnung (EU) 2018/762 Anhang II Kap. 4.2.1 sind Mitarbeitern mit
-sicherheitsrelevanten Aufgaben die notwendigen Kompetenzen zu vermi eln. Diese sind
-gemäß Kap. 4.2.1 der Verordnung vorab im SMS zu definieren und gemäß Kap. 4.2.2
-regelmäßig und nachweislich zu schulen. Zudem ist sicherzustellen, dass die Qualifika onen
-und Fähigkeiten auf Dauer erhalten bleiben. Dies bedeutet auch, dass sie erstmals
-ausreichend vorliegen vor Zuweisung einer Tä gkeit. Nach § 54 Abs. 1 EBO sind
-Betriebsbeamten die Kenntnisse und Fer gkeiten zu vermi eln, die sie zur ordnungsgemäßen
-Ausübung ihres Dienstes befähigen. Nach § 54 Abs. 2 EBO haben sich die Eisenbahnen durch
-Prüfungen oder in sonst geeigneter Weise vor dem Einsatz vom Vorhandensein der
-geforderten Kenntnisse und Fer gkeiten zu überzeugen. In Bezug auf die Durchführung der
-regelmäßigen Betriebskontrollen der Fdl-in wurde deutlich, dass seitens des EIU die
-Nachweise gemäß Ril 412.9111 bezüglich der quan ta v zu erbringenden Anzahl an
-Betriebskontrollen für das Jahr 2023 nicht vorgelegt werden konnten. Diese Feststellung lässt
-auf fehlerha e Durchführung der hierzu einschlägigen Prozesse der Überwachung von
-Mitarbeitern auf Betriebsstellen des EIU und auf fehlerbeha etes Dokumentenmanagement
-schließen.
+Fdl-in fragte nicht eigenini(cid:415)a(cid:415)v nach, sondern nahm diese unbes(cid:415)mmte Meldung des Tf zur 
 
-Seite 35 von 44
+Kenntnis.  
 
-Untersuchungsbericht
-Zugkollision, 15.11.2023, Bf Lauenbrück
+Für die Fdl-in konnte nach diesem erneuten GSM-R Gespräch mit dem Tf nicht zweifelsfrei klar 
 
-Die Analyse des Unfallgeschehens zeigte, dass von der Fdl-in Rotenburg (Wümme) Strecke
-betriebliche Verfahrensregeln nicht korrekt umgesetzt wurden. Des Weiteren wurde in den
-GSM-R Gesprächen die Sprechdisziplin nicht ausreichend beachtet. Die Untersuchungen
-zeigten weiter, dass Verbesserungsbedarf in der Handlungssicherheit der Fdl-in bei der
-Entgegennahme der Meldung über eine erfolgte Sandung eines Zuges in Verbindung mit der
-Abschni sprüfung bestand.
-Bei einer Abschni sprüfung aufgrund der Meldung über die Sandung durch einen Tf müssen
-die betroﬀenen Gleisabschni e, durch einen Fdl vollständig iden fiziert und das Freisein
-fehlerfrei bewertet werden. Diese Prozedur des Iden fizierens aller maßgeblichen Abschni e
-mit Gleisstromkreisen im Zuständigkeitsbereich muss das rich ge Ergebnis mit zukün ig
-höherer Sicherheit liefern. Zum Treﬀen dieser Feststellung müssen einem Fdl die hierfür
-notwendigen Kenntnisse systema sch sicher vermi elt und durch geeignete Maßnahmen,
-beispielsweise der Überwachung und fortlaufenden Schulung, aufrechterhalten werden. Die
-BEU wertete die Handlungssicherheit der Fdl-in bei der Durchführung der Abschni sprüfung
-als einen systemischen Faktor [S4] mit Bezug zum ursächlichen Faktor [F4].
-4.4.2 EVU Bentheimer Eisenbahn AG
-Entsprechend Verordnung (EU) 2018/762 Anhang I Kap. 4.2 muss das Kompetenzmanagement
-der Organisa on sicherstellen, dass Mitarbeiter, die mit Aufgaben die Sicherheit betreﬀend
-zur Erfüllung die in ihre Zuständigkeit fallenden sicherheitsrelevanten Aufgaben befähigt sind.
-Hierunter fallen neben der Erstausbildung und Qualifika on der Mitarbeiter auch die
-fortlaufenden Schulungen und eine regelmäßige Bewertung der Kompetenz sowie eine
-Überprüfung der Eignung des Mitarbeiters. Gemäß Kap. 2.1.1 e) i. V. m. Kap. 2.3.2
-vorgenannter Verordnung müssen hierfür die notwendigen Ressourcen zur Verfügung gestellt
-werden.
-Nach dem S llstand des Zuges im Bf Lauenbrück zeigten sich Mängel bei betrieblichen
-Handlungen des Tf, die ursächlich für den Eintri des Ereignisses zu sehen sind. Der Tf meldete
-zunächst lediglich seinen Standort und eine Bremsstörung an seinem Zug, ohne die Fdl-in in
-Kenntnis über den Einsatz von Sand bei der Bremsung zu unterrichten. Die in diesem Bericht
-genannten Arbeitsfehler des Tf hinsichtlich der unterlassenen, unverzüglichen Meldung unter
-der Nennung der Ortsangabe des Sandstreuens hä en unter leicht veränderten Umständen
-ein Ereignis mit möglicherweise noch höherem Schadensausmaß begüns gen können, was
+sein, wo genau die Sandung durch den Tf erfolgte oder wo der Standort des DbZ 24259 war. 
 
-Seite 36 von 44
+Ab diesem Zeitpunkt der Meldung des Tf über das Sanden war für die Fdl-in für den weiteren 
 
-Untersuchungsbericht
-Zugkollision, 15.11.2023, Bf Lauenbrück
+betrieblichen Ablauf nun die Regelung aus der Ril 408.0581 Abschni(cid:425) 7 zu beachten: 
 
-umso mehr ein sachgerechtes Handeln im Gefahrfall verlangt hä e. Zusätzlich führte eine
-Fehlbedienung des Tf, der zunächst sta des Notrufs einen Gruppenruf auslöste, nach dem
-Ereignis zu Einschränkungen bzgl. der Verständlichkeit des Nothaltau rags. Auch in Bezug auf
-die Eingabe der korrekten Zugdaten vor der Fahrt oﬀenbarten die Untersuchungen
-Arbeitsfehler des Tf.
-Aus diesen Feststellungen folgt, dass Betriebskontrollen und Schulungsmaßnahmen
-grundsätzlich erforderlich erscheinen, um die Handlungssicherheit zu kontrollieren. Jedoch
-blieben diese unter leicht veränderten Bedingungen in der Praxis in dem vorliegenden Fall
-wirkungslos.
+„Wenn ein Triebfahrzeugführer meldet, dass er oder eine automa(cid:415)sche 
 
-Demgegenüber
+Sandstreueinrichtung gesandet hat, muss der Fahrdienstleiter anhand der Angaben des 
 
-stehen
+Triebfahrzeugführers (Betriebsstelle und Gleis bzw. Streckenkilometer) prüfen, ob in dem 
 
-Anforderungen
+bzw. den betroﬀenen Gleisabschni(cid:425)en bzw. Zugfolgeabschni(cid:425)en eine 
 
-bzgl.
+Gleisfreimeldeanlage mit Gleisstromkreisen vorhanden ist. Wenn dies zutri(cid:335), muss der 
 
-der
+Fahrdienstleiter ggf. den zuständigen Bediener verständigen. Für Fahrdienstleiter bzw. 
 
-Wirksamkeit
+Bediener gilt – auch wenn eine Besetzung angezeigt wird ‐ Folgendes: ‐ In Bahnhöfen und 
 
-des
+Abzweigstellen gilt 408.0625 Abschni(cid:425) 1 Abs. 4." 
 
-Kompetenzmanagements als Bestandteil des SMS des EVU Bentheimer Eisenbahn AG.
-Instandhaltungsmanagementsystem
-Mit
+Die  betroﬀene  Gleisfreimeldeanlage  der  Weiche  229  galt  ab  dieser  Meldung  des  Tf  des 
 
-Konformitätsbescheinigung
+DbZ 24259 betrieblich, durch die Regelungen der Ril 408.0625 Abschni(cid:425) 1 Abs. 4, für die Fdl-
 
-AT 31/0222/0548
+in  als  nicht  mehr  ordnungsgemäß  wirkend.  Da  nicht  zweifelsfrei  aufgeklärt  war,  wo  der  Tf 
 
-erbrachte
+gesandet  ha(cid:425)e,  war  für  den  Einfahrabschni(cid:425)  ab  dem  Esig  F205  sowie  die  Weiche 229 
 
-das
+anzunehmen, dass diese Bereiche nicht mehr ordnungsgemäß wirkend waren, da dort jeweils 
 
-EVU
+Gleisstromkreise im Bf Lauenbrück vorhanden waren.  
 
-Bentheimer
+Die Ril 408.0625 Abschni(cid:425) 1 Abs. 4 führte weiter aus: 
 
-Eisenbahn AG den Nachweis „der Zulassung des Instandhaltungssystems einer für die
-Instandhaltung zuständigen Stelle der Europäischen Union gemäß der Richtlinie (EU)2016/798
-des
+„Der Fahrdienstleiter darf die nächste Zugfahrt zulassen, wenn im betroﬀenen Abschni(cid:425) 
 
-Europäischen
+eine Abschni(cid:425)sprüfung durchgeführt wurde. Wenn bei der nächsten Zugfahrt […] die 
 
-Parlaments
+ordnungsgemäße Besetztanzeige des Abschni(cid:425)s festgestellt wurde, gilt die Anlage wieder 
 
-und
+als ordnungsgemäß wirkend." 
 
-des
+Seite 16 von 44 
 
-Rates
+ 
+ 
+Untersuchungsbericht 
 
-und
+Zugkollision, 15.11.2023, Bf Lauenbrück 
 
-der
+Demnach war für die Fdl-in vor der Zulassung der nächsten Zugfahrt in den Bf Lauenbrück die 
 
-Durchführungsverordnung (EU) 2019/779 der Kommission.
-Der Prozess zur Aufnahme von Fahrzeugen in den Bestand des EVU wurde im SMS der
-Bentheimer Eisenbahn AG beschrieben und in Bezug auf die am Ereignis beteiligten Fahrzeuge
-eingehalten. Entsprechend der Vorgaben im Prozess erfolgte der Au rag zur Instandsetzung
-an das Flo enmanagement des EVU. Die Ergebnisse des Instandhaltungsau rags wurden in
-einem Instandsetzungsau ragsbericht dokumen ert. Die Sandmengenmessung war Teil der
-in
+Durchführung  einer  Abschni(cid:425)sprüfung  vorgeschrieben.  Bei  einer  Abschni(cid:425)sprüfung  muss 
 
-diesem
+durch Hinsehen an der Außenanlage festgestellt werden, dass im betroﬀenen Abschni(cid:425) bis zu 
 
-Kontext
+den begrenzenden Weichen, Sperrsignalen, Wartezeichen, Hauptsignalen oder Signalen Ne 14 
 
-durchgeführten
+keine Fahrzeuge stehen. Kann dies weder unmi(cid:425)elbar noch mi(cid:425)elbar festgestellt werden, darf 
 
-Instandhaltungsmaßnahmen
+ein Tf durch den Fdl beau(cid:332)ragt werden, in dem Abschni(cid:425) auf Sicht zu fahren. Hierzu waren 
 
-und
+gemäß Ril 408.0402 Nr. 11 zunächst Merkhinweise „AP“ für die Abschni(cid:425)sprüfung im Bereich 
 
-fand
+der  betroﬀenen  Gleisfreimeldeanlagen  anzubringen  und  eine  Zielsperrung  der  betroﬀenen 
 
-unter
+Zugstraßen  durchzuführen  sowie  der  Selbststellbetrieb  auszuschalten.  Zusätzlich  war  eine 
 
-Berücksich gung der Vorgaben der Ergänzungsregelung Nr. B 011 zum „Sanden“ sta . Die
-Betriebsfreigabe des Instandhaltungsmanagements erfolgte entsprechend den Vorgaben der
-Verordnung (EU) 2019/779.
-Vor der Durchführung der Sonderfahrt am 15.11.2023 wurden die beteiligten Fahrzeuge
-hinsichtlich der Lauﬀähigkeit untersucht und durch den Eisenbahnbetriebsleiter des EVU für
-lauﬀähig erklärt. Die während der Zugfahrt aufgetretenen Störungen am Zug konnten durch
-die zuvor durchgeführten Inspek onen mit hoher Wahrscheinlichkeit weder vorhergesehen,
-noch vermieden werden.
+Hilfssperre an der Taste für das Einschalten des Selbststellbetriebs anzubringen. 
 
-Seite 37 von 44
+Entgegen der o. g. Vorgaben aus der Ril 408 wertete die Fdl-in die Spurausleuchtungen aus 
 
-Untersuchungsbericht
-Zugkollision, 15.11.2023, Bf Lauenbrück
+und  führte  keine  Abschni(cid:425)sprüfung  durch.  Sie  erkannte  auf  ihrem  Stell(cid:415)sch  anhand  der 
 
-4.5 Frühere Ereignisse ähnlicher Art
-Bei der Auswertung eines Unfalls am 24.11.2008 im Bahnhof Recklinghausen Ost wurde
-festgestellt, dass nach einem Anhaltevorgang mit Betä gung der Sandstreueinrichtung der
-Gleisstromkreis die Besetzung des Gleises nicht mehr meldete, weil durch den Sand
-oﬀensichtlich eine Isola onswirkung zwischen Radsatz und Schiene eingetreten war. Dabei
-waren alle technischen Randbedingungen für die rich ge Funk on der Gleisstromkreise
-sowohl am Fahrzeug als auch am Gleisstromkreis im Wesentlichen eingehalten.
-Aufgrund dieses Vorfalls verfügte das Eisenbahn-Bundesamt mit Allgemeinverfügung
-vom 02.12.2008
+Spurausleuchtungen,  dass  die  Weiche 229,  wie  schon  zum  Zeitpunkt  des  ersten  GSM-R 
 
-(Az.: 3420-34aüt/038-3418#001)
+Gesprächs mit dem Tf, nicht mehr von Fahrzeugen besetzt war. 
 
-eine
+In  der  weiteren  Abfolge  schaltete  sie  auch  den  Selbststellbetrieb  nicht  aus.  Die  sich 
 
-Handlungsanweisung
+anschließende Einstellung der Fahrstraße für den ICE 615 erfolgte durch den Selbststellbetrieb 
 
-für
+der Anlage, sodass die Einfahrt des ICE 615 um 16:17:18 Uhr durch Fahrtstellung des Esig F205 
 
-Triebfahrzeugführer zur Bedienung der Sandstreueinrichtung, um eine unbemerkte
-Beeinträch gung der Wirkungsweise der Gleisstromkreise zu vermeiden. Die Verfügung
-richtete sich zunächst nur an einzeln fahrende Triebfahrzeuge. Nach dieser Maßnahme des
-Eisenbahn-Bundesamtes zeigte sich jedoch, dass auch bei Fahrten mit mehreren Fahrzeugen
-bzw. auch bei mehrgliedrigen Triebwageneinheiten in Einzelfällen eine kri sche
-Isola onswirkung durch Sand nicht auszuschließen ist, die bei Gleisstromkreisen zur
-unzei gen Freimeldung führen kann. Diese Allgemeinverfügung wurde auf Grund weiterer
-Vorkommnisse durch das EBA ergänzt.
-Dieses Ereignis wurde auch von der BEU (seinerzeit benannt als Eisenbahnuntersuchungsstelle
-des Bundes) untersucht. Aus der Untersuchung dieses Ereignisses resul erte folgende
-Sicherheitsempfehlung Nr. 2012/01:
-„Zur Vermeidung „fehlerha er“ Gleisfreimeldungen durch Gleisstromkreise, sollte
-mindestens geprü werden, ob Triebfahrzeugführer, die Lokleerfahrten mit
-scheibengebremsten Triebfahrzeugen durchführen, den Fahrdienstleiter informieren
-müssen, wenn Sandstreueinrichtungen bedient oder automa sch ausgelöst wurden und
-das Triebfahrzeug zum Halten gekommen ist.“
-Obwohl diese Sicherheitsempfehlung umgesetzt wurde, kam es danach wiederholt zu
-unerlaubten Einfahrten in besetzte Gleisabschni e, weil Gleisfreimeldeanlagen mit
-Gleisstromkreisen durch Sandeintrag unwirksam wurden. So folgten entsprechende
-Ereignisse am 22.09.2009 im Bf Hannover Hbf, am 05.11.2010 im Bf Potsdam Hbf,
-am 26.11.2012 im Bf Frankfurt-Niederrad, am 17.12.2012 im Bf Neckarelz und am 22.02.2013
-im Bf Itzehoe.
+regulär auf einer scheinbar gesicherten Zugfahrstraße in das Gleis 233 ermöglicht wurde. 
 
-Seite 38 von 44
+Zum Zeitpunkt der Meldung über die Sandung des DbZ 24259 um 16:11:06 Uhr befand sich 
 
-Untersuchungsbericht
-Zugkollision, 15.11.2023, Bf Lauenbrück
+der Zug ICE 615 gerade noch vor dem Bf Tostedt gelegenen Hp Sprötze. Der Fdl-in wäre es 
 
-5 Schlussfolgerungen
-Das folgende Kapitel enthält eine Zusammenfassung der ermi elten ursächlichen,
-beitragenden und systemischen Faktoren. Zusätzlich sind zwei weitere Unterkapitel
-vorgesehen, um Informa onen zu bereits ergriﬀenen Maßnahmen und zu zusätzlichen
-Bemerkungen zu teilen.
+unter  Betrachtung  des  zeitlichen  Ablaufs  bis  zur  Zugeinfahrt  möglich  gewesen,  den 
 
-5.1 Zusammenfassung und Schlussfolgerung
-Die in diesem Untersuchungsbericht ermi elten Handlungen, Unterlassungen, Vorkommnisse
-oder Umstände um den Ereigniszeitpunkt herum führten zur Zugkollision im Bf Lauenbrück.
-Es wurden drei ursächliche, ein beitragender und zwei systemische Faktoren mit Einfluss auf
-das Ereignis durch die BEU ermi elt.
-Zu ursächlichem Faktor „Keine Verständigung des zuständigen Fdl mit Nennung der
-Ortsangabe des Sandstreuens“ [F1]:
-Bei der ersten Meldung über GSM-R an die zuständige Fdl-in Lauenbrück unterließ der Tf es,
-unverzüglich die bei der Bremsung erfolgte Sandung zu melden. Das unverzügliche Melden
-der Sandung in diesem Gespräch hä e in Verbindung mit seiner Standortmeldung dazu
-geführt, dass die Fdl-in unmi elbar in Kenntnis über den konkreten Ort der Sandung auf der
-Weiche 229 gesetzt worden wäre und in der Folge die erforderlichen Maßnahmen nach
-Ril 408 hä e einleiten können. Die Meldung über das Sanden bei der Bremsung erfolgte durch
-den Tf erst acht Minuten später. Eine mehrminü ge Verzögerung wie im vorliegenden Fall
-führte dazu, dass die Fdl-in den Zusammenhang zwischen Bremsung und Sandeintrag nicht
-mehr korrekt mit der Betriebssitua on in Verbindung brachte.
-Aus der Meldung über das Sanden resul ert erst der fahrdienstliche Handlungsau rag, sodass
-der unverzüglichen Meldung eines Tf über den Sandeintrag eine hohe Sicherheitsbedeutung
-bei der Durchführung des Eisenbahnbetriebs zukommt. In der Folge ha e diese verspätete
-Meldung des Tf des DbZ 24259 Auswirkungen auf die korrekte Anwendung der Regelungen
-aus der Ril 408, da die Fdl-in zunächst, bis zur Meldung des Tf über das Sanden, weiterhin vom
-Regelbetrieb im Bf Lauenbrück ausgehen konnte.
-Zu beitragendem Faktor „Sprechdisziplin während der GSM‐R Gespräche“ [F2]:
-Das um 16:02:54 Uhr mit dem Tf des DbZ 24259 über GSM-R geführte Gespräch wirkte sich
-beitragend auf die weitere Handlungsweise der Fdl-in aus. Dieses Gespräch entsprach nicht
+Selbststellbetrieb auszuschalten, Merkhinweise „AP“ sowie Hilfssperren anzubringen und den 
 
-Seite 39 von 44
+ICE 615  mi(cid:425)els  Haltstellung  des  Esig F205  des  Bf Lauenbrück  anzuhalten.  In  letzter  Instanz 
 
-Untersuchungsbericht
-Zugkollision, 15.11.2023, Bf Lauenbrück
+wäre ein Nothaltau(cid:332)rag das notwendige geeignete Mi(cid:425)el der Wahl gewesen. 
 
-den vom EIU definierten Anforderungen an die Gesprächsabwicklung über GSM-R. Die nicht
-zur Anwendung gekommene klare Sprechdisziplin führte zum Missverständnis über das Halten
-oder die Weiterfahrt des DbZ 24259 und schließlich zu einer Unklarheit hinsichtlich des
-Standortes des DbZ 24259 im Bf Lauenbrück. In der Folge kam es zu einer fehlerha en
-Detek on des Zuges. Die Fdl-in ging nach dem GSM-R-Gespräch davon aus, dass der Tf des
-DbZ 24259 mit seinem Zug bis zum Bahnsteig vorziehen würde. Da der Tf keine anderwei ge
-Angabe mehr machte, hinterfragte sie ihre getroﬀene Annahme im weiteren Verlauf vor dem
-Ereignis nicht mehr.
-Zu ursächlichem Faktor „Funk onssicherheit der Detek on bei Sandeintrag“ [F3]:
-Eine selbs ä ge Gleisfreimeldeanlage dient der automa schen Detek on von Zügen.
-Üblicherweise erfolgt eine derar ge Automa sierung auf einem höheren Sicherheitsniveau,
-als es bspw. durch die Mitwirkung des Menschen erreicht wird. An die Funk onssicherheit
-derar ger Automa sierung in der Eisenbahnsicherungstechnik werden sehr hohe
-Anforderungen gestellt, zumal die auf diesem Wege gewonnenen Betriebsinforma onen
-Eingangsgrößen
+Die  Weiche 229  kam  trotz  des  Besetztseins  durch  das  letzte  Fahrzeug  des  DbZ 24259  in 
 
-für
+Verschluss. Das Umstellen der Weiche 229 in Verbindung mit dem Einstellen der Zugstraße für 
 
-weitere
+den  ICE 615  durch  Gleis 233  wurde  durch  den  nicht  ausgeschalteten  Selbststellbetrieb 
 
-automa sierte
+herbeigeführt. Das Vorgehen der Fdl-in- entsprach nicht dem in der Ril 408 vorgeschriebenem 
 
-Sicherungsfunk onen
+Vorgehen.  Da  die  Gleisfreimeldeanlage  der  Weiche 229  wie  oben  beschrieben  als  nicht 
 
-moderner
+ordnungsgemäß wirkend galt, dur(cid:332)e diese nicht in eine andere Lage umgestellt werden. Die 
 
-Stellwerksanlagen darstellen.
-Durch
+in der Ril 408 geforderten Merkhinweise „AP“ sowie Hilfssperren wurden durch die Fdl-in auf 
 
-das
+Seite 17 von 44 
 
-EIU
+ 
+ 
+Untersuchungsbericht 
 
-konnte
+Zugkollision, 15.11.2023, Bf Lauenbrück 
 
-nachgewiesen
+dem Stell(cid:415)sch nicht angebracht. Die nach dem Ereignis vorhandene Betriebssitua(cid:415)on auf dem 
 
-werden,
+Stell(cid:415)sch ist in der untenstehenden Abbildung dargestellt. 
 
-dass
+Abbildung 6: Stell(cid:415)sch der Fdl-in Rotenburg (Wümme) nach dem Ereignis3 
 
-die
+Die  nach  dem  Ereignis  über  GSM-R  geführten  Gespräche  der  Fdl-in,  u.  a.  mit  dem  Tf  des 
 
-erforderlichen
+DbZ 24259,  wurden  ausgewertet.  Aus  den  Gesprächen  war  zu  entnehmen,  dass  die  Fdl-in 
 
-Instandhaltungsmaßnahmen in den vorgesehenen regelmäßigen Abständen durchgeführt
-wurden. Hierdurch alleine kann dem Umstand, dass Fahrzeuge nach einem Sandeintrag nicht
-korrekt detek ert werden, jedoch nicht vorgebeugt werden.
-Die im vorliegenden Ereignis eingesetzte Gleisfreimeldeanlage mit Gleisstromkreisen stellt
-eine in der Entwicklung der Eisenbahn-Sicherungstechnik ältere Technik zur automa sierten
-Detek on des Freiseins von Gleisabschni en dar. Eine alterna ve Technik ist der Einsatz von
-selbs ä gen Gleisfreimeldeanlagen mit Achszähltechnik. Diese registrieren die von
-zugehörigen Sensoren erhobene Anzahl der in und aus einem Gleisabschni
+oﬀenbar davon überzeugt gewesen war, dass der Tf des DbZ 24259 der Vereinbarung aus dem 
 
-gefahrenen
+ersten  GSM-R  Gespräch  mit  ihr  nachgekommen  sei  und  sich  eigentlich  am  Bahnsteig  des 
 
-Radsätzen von Eisenbahnfahrzeugen. Aus diesem Vergleich sind Informa onen über das
-Freisein oder die Besetzung eines Gleisabschni s für weitere automa sierte Funk onen eines
-Stellwerks verwertbar. Die Funk onsweise der selbs ä gen Gleisfreimeldeanlagen mit
-Achszähltechnik kann nicht durch z. B. Sandeintrag gestört werden.
-Durch gefährliche Ereignisse in der Vergangenheit ist mi lerweile anerkannt, dass
-Gleisstromkreise durch u. a. Sandeintrag fehlerha e Informa onen über eine Gleisbelegung
+Bf Lauenbrück beﬁnden sollte. Dieses Gespräch ist in der nachfolgenden Tabelle auszugsweise 
 
-Seite 40 von 44
+aufgeführt. 
 
-Untersuchungsbericht
-Zugkollision, 15.11.2023, Bf Lauenbrück
+Funk(cid:415)on 
 
-an den Fdl ausgeben können. Anhand der Anlage erhobene und in weiteren Prozessen
-verarbeitete Sicherheitsinforma onen sind in diesem Szenario, entgegen der delegierten
-Verordnung (EU) 2018/762 Anhang II Kap. 4.4.3, nicht mehr korrekt. Das vorgesehene
-sicherheitsgerichtete Leistungsniveau der Gleisfreimeldeanlage als Sachanlage steht dann,
-entgegen der delegierten Verordnung (EU) 2018/762 Anhang II Kap. 5.2.2 a) nicht mehr zur
-Verfügung. Daher wurden im Eisenbahnsektor Kompensa onsmaßnahmen betreﬀend den
-Betrieb, das Fahrzeugdesign und die Instandhaltung der Anlagen und Schienenfahrzeuge
-getroﬀen. Die BEU empfiehlt daher mit Sicherheitsempfehlung Nr. 09/2025, zukün ig
-Gleisfreimeldeeinrichtungen zu verwenden, deren Funk on nicht durch z. B. Sandeintrag
-beeinträch gt werden können.
-Zu systemischem Faktor „Verfahrensbasierte Kompensa on der Funk onsbeeinträch gung
-einer Gleisfreimeldeanlage infolge Sandeintrag“ [S3]:
-Infolge mehrere Ereignisse in den Jahren 2008 bis 2013 wurden im deutschen Eisenbahnsektor
-unter Begleitung durch das Eisenbahn-Bundesamt Regeln eingeführt, damit die verschiedenen
-Akteure in ihrem Verantwortungsbereich zu einer Reduzierung des Risikos infolge Sandeintrag
-in Bereichen mit selbs ä gen Gleisfreimeldeanlagen mit Gleisstromkreisen beitragen.
-Die aufgrund von Anordnungen des Eisenbahn-Bundesamts eingeführte, im vorliegenden
-Ereignis nicht wirksam befolgte, Prozedur (vgl. [F1]) zwischen Tf und Fdl infolge Anhalten eines
-Fahrzeugs mit Sandung wurde in die betrieblichen Regelwerke des EIU und der EVU
-aufgenommen.
-Die für Fahrzeuge relevanten Regelungen sind im Status „anerkannte Regeln der Technik“
-unter dem Titel Ergänzungsregelung Nr. B 011 zum „Sanden" als Ergänzung zu Sektorbezogenen „Regelungen für die bremstechnische Beurteilung von Eisenbahnfahrzeugen“
-veröﬀentlicht worden.
-Die Ergänzungsregelung Nr. B 011 enthält Grundsätze und Verfahren, welche für
-Eisenbahnen, Instandhaltungsstellen und Hersteller relevant sind, um die Ausbringungsmenge
-von Sand über die Zeit der Bedienung der Sandstreueinrichtung weiter dem Zweck
-entsprechend, aber möglichst gering zu halten.
-Im Hinblick auf das vorliegende Ereignis mit Nichtbeachtung kompensierender
-Meldeverfahren und den ersichtlichen Fortbestand von Gleisstromkreisen bei den
-Eisenbahnen des Bundes sieht es die BEU geboten, dass die Akteure des deutschen
+Inhalt 
 
-Seite 41 von 44
+Tf 
 
-Untersuchungsbericht
-Zugkollision, 15.11.2023, Bf Lauenbrück
+Ja, (Namensnennung), 24259. 
 
-Eisenbahnsystems über den Fortbestand bzw. die Weiterentwicklung der Regeln weiter
-beraten. Ziele zur Risikoreduzierung stehen mit der Verbesserung der Korrektheit der
-Sicherheitsinforma onen
+Fdl-in 
 
-bzw.
+Fdl Rotenburg, grüß dich. 
 
-mit
+Tf 
 
-der
+Ja. 
 
-Verbesserung
+Fdl-in 
 
-des
+Gibt es irgendwie Verletzte? Kannst du eine Aussage treﬀen? 
 
-Leistungsniveaus
+Tf 
 
-der
+Fdl-in 
 
-Gleisfreimeldeanlagen in Zusammenhang. Aufgrund des technischen Zusammenwirkens von
-Fahrzeugen und Infrastruktur erstrecken sich Lösungsansätze hierbei auf verschiedene
-Akteure des Eisenbahnsektors, einschließlich der Überprüfung von Vorgaben zu
-Handlungsanweisungen
+Tf 
 
-an
+Fdl-in 
 
-die
+Bei uns nicht, nee. 
 
-Betriebspersonale.
+Habt ihr … Ihr seid gar 
+durchgefahren, nicht? 
+gesprochen. 
 
-Entsprechend
+nicht erst bis zum Bahnsteig 
+Meine Kollegen haben ja grade mit dir 
 
-ergeht
+Ja, Probleme mit der Bremse. 
 
-die
+Ja, ja, das 
+Bahnsteig 
 
-Sicherheitsempfehlung Nr. 08/2025 zu diesem systemischen Faktor [S3].
-Zu ursächlichem Faktor „Unterlassene Abschni sprüfung durch die Fdl‐in“ [F4]:
-Als der Tf des DbZ 24259 den Einsatz von Sand bei der Bremsung meldete, nahm die Fdl-in mit
-hoher Wahrscheinlichkeit an, dass er sich bereits in Fahrtrichtung auf der Höhe des Bahnsteigs
-im Gleis 231 befände und dort gesandet haben müsse, denn die Weiche 229 wurde ihr auf
-dem Stell sch durch die Ausleuchtung als „frei“ angezeigt. Dieser Belegungszustand der auf
-dem Stell sch angezeigten Gleise entsprach ihrer Annahme aus dem zuvor mit dem Tf
-geführten GSM-R Gespräch und der aus ihrer Sichtweise getroﬀenen Vereinbarung mit dem
-Tf, der bis zum Bahnsteig des Bf Lauenbrück vorziehen sollte.
-Folglich war es ihr durch die Informa onen, die von der Stellwerksanlage ausgegeben wurden,
-technisch möglich, dem ICE 615 eine reguläre Einfahrzugstraße einzustellen, was ihre zuvor
-getroﬀene Annahme wohl nochmals bestärkt haben dür e. Die verspätete Meldung des Tf
-über den Einsatz von Sand im Bf Lauenbrück führte nicht zu der Erkenntnis, eine
-Abschni sprüfung in den Gleisabschni en mit Gleisstromkreisen im Bf Lauenbrück
-durchzuführen. Auch nach dieser Meldung wertete sie fälschlicherweise weiterhin die
-Anzeigen ihres Stell schs bezüglich der Gleisbelegung aus, obwohl dies nicht mehr - ohne
-weitere Maßnahmen nach Ril 408 zu treﬀen - zulässig war.
-Zu systemischem Faktor „Handlungssicherheit der Fdl‐in“ [S4]:
-Die Untersuchungen der BEU ergaben, dass die Handlungssicherheit der Fdl-in einen
-systemischen Faktor innerhalb des Ereignisses darstellte. Es wurde deutlich, dass die
-durchgeführten
+weiß ich ja. Aber die 
+durch…Soweit ist es 
 
-Maßnahmen
+Aussage war ja, ihr 
+nicht gekommen. 
 
-zu
+fahrt bis zum 
 
-Training
+Tf 
 
-und
+Ja, Störung…Wir haben ein Problem, wir sind stehen geblieben. 
 
-Überwachung
+3 DB InfraGO AG 
 
-sicherheitsrelevanter
+Seite 18 von 44 
 
-Handlungsabläufe am Bedienplatz ohne Bezug zum Themenkomplex Sandung auf
-Gleisabschni en mit Gleisstromkreisen und Durchführung einer Abschni sprüfung
-durchgeführt wurden.
+ 
+ 
+ 
+                                                       
+Untersuchungsbericht 
 
-Seite 42 von 44
+Zugkollision, 15.11.2023, Bf Lauenbrück 
 
-Untersuchungsbericht
-Zugkollision, 15.11.2023, Bf Lauenbrück
+Fdl-in 
 
-Durch diese Vorgehensweisen war durch das EIU nicht sichergestellt, dass die der Fdl-in
-grundlegend vermi elten, zwingend erforderlichen Kenntnisse und Fähigkeiten zur
-Beherrschung risikoreicher Handlungen entsprechend der Anforderungen der Einordnung
-ihres Arbeitsplatzes gemäß Ril 412.9111 Abschni 4 Abs. 3 in die Funk onsstufe „A“ dauerha
-vorhanden waren. Es war in der Organisa on des EIU nicht sichergestellt, dass rechtzei g ein
-Verlust zuvor erlernter Kompetenzen erkannt wurde, um Maßnahmen zu treﬀen.
-Aus den in Kapitel 4.3.1 getroﬀenen Feststellungen zu Ausbildung, Training und Überwachung
-der Fdl-in resul ert, dass das EIU die gemäß Ril 412.9111 Abschni 4 Abs. 5 geforderte Anzahl
-an Betriebskontrollen für das Kalenderjahr 2023 der Fdl-in gegenüber der BEU nicht belegt
-werden konnte.
-Im Rahmen der Untersuchungen zur Zugkollision vom 17.11.2022 zwischen dem Bf Meinersen
-und dem Hp Leiferde (b Gi orn) stellte die BEU bereits Defizite im gesamtha
-risikoorien erten Ansatz des Kompetenzmanagements des EIU fest.
-Die BEU erließ eine Sicherheitsempfehlung Nr. 04/2025 mit folgendem Inhalt:
-„Es wird empfohlen, zur Verstärkung des risikoorien erten Ansatzes in allen Phasen des
-Kompetenzmanagements die Verfahren für Erhalt und Aktualisierung der
-sicherheitsrelevanten Kenntnisse und Fer gkeiten arbeitsplatzbezogen zu überprüfen und
-soweit notwendig zu verbessern. Hierbei sind die Tä gkeiten der Mitarbeiter mit
-sicherheitsrelevanten Funk onen und mit leitenden Aufgaben auf allen relevanten Ebenen
-einzubeziehen (Verordnung (EU) 2018/762, Anhang II, Kap. 4.2.1 und 6.1.1 a)).“
-Aufgrund
+Ja, ja. Aber für uns von der Ausleuchtung her seid ihr weit genug 
+gefahren, sodass ihr ‐ sodass es nie zu einer Kollision hä(cid:425)e 
+kommen können…unsere Ausleuchtung sagt da was Anderes, 
+sonst hä(cid:425)en wir ja auch keine Einfahrt für den Intercity 
+bekommen, ne? Und was ist jetzt passiert? (…) 
 
-dieser
+Tabelle 6: Auszug GSM-R Gespräch zwischen Fdl-in u. Tf des DbZ 24259 nach dem Ereignis 
 
-bereits
+Durch die Auswertung dieses obenstehenden GSM-R Gesprächs wurde deutlich, dass es durch 
 
-ausgesprochenen
+die Nichtbeachtung der Sprechdisziplin gemäß Ril 481.0205 [F2] in dem GSM-R Gespräch um 
 
-Sicherheitsempfehlung
+16:02:54 Uhr zu einem Missverständnis über den Verbleib des DbZ 24259 im Bf Lauenbrück 
 
-wird
+zwischen  der  Fdl-in  und  dem  Tf  gekommen  war,  welches  das  weitere  Handeln  der  Fdl-in 
 
-bzgl.
+beeinﬂusste. 
 
-der
+Zusammenfassend  ist  festzustellen,  dass  es  die  Fdl-in  unterließ,  den  Eintri(cid:425)  in  das  gemäß 
 
-Feststellungen zu Defiziten am Kompetenzmanagement des EIU die Zugkollision vom
-15.11.2023
+Ril 408 vorgeschriebene Verfahren bei gemeldeter Sandung durch einen Tf zu iden(cid:415)ﬁzieren 
 
-im
+und  entsprechend  zur  Sicherheit  der  weiteren  Betriebsführung  auf  die  betroﬀenen 
 
-Bf
+Gleisabschni(cid:425)e im Bf Lauenbrück anzuwenden. Dies bedeutet, in den betroﬀenen Bereichen 
 
-Lauenbrück
+mit  Gleisstromkreisen  eine  Abschni(cid:425)sprüfung  durchzuführen,  um  das  Freisein  des 
 
-betreﬀend
+betroﬀenen  Bereichs  feststellen  zu  können.  Die  BEU  wertet  dieses  Unterlassen  als  einen 
 
-keine
+ursächlichen  Faktor  [F4].  Die  Durchführung  einer  regelwerkskonformen  Abschni(cid:425)sprüfung 
 
-weitere
+hä(cid:425)e  das  Ereignis  aller  Wahrscheinlichkeit  nach  verhindert.  Beitragend  auf  den  Ablauf  des 
 
-Sicherheitsempfehlung
+Ereignisses  wirkte  die  nicht  eingehaltene  Sprechdisziplin  gemäß  Ril  481.0205,  wodurch  ein 
 
-ausgesprochen.
+Missverständnis  über  den  Standort  des  Zuges  zwischen  Fdl-in  und  Tf  beitragend  zu  dem 
 
-5.2 Seit dem Ereignis getroffene Maßnahmen
-Im Nachgang zu dem Ereignis in Lauenbrück führte die DB InfraGO AG ein Mitarbeitergespräch
-mit der Fdl-in durch. Kün ig soll sie nicht mehr in der Funk on als Fdl-in eingesetzt werden.
-Das EVU Bentheimer Eisenbahn AG erstellte aufgrund des Ereignisses eine Dienstanweisung
-mit dem Titel „Standortmeldungen bei Störungen und außerplanmäßigen Halten von Zügen“.
-Bei außerplanmäßigen Halten, die mit dem Einsatz von Sand einhergehen, sollen Tf eine
+Ereignis entstand. [F2] 
 
-Seite 43 von 44
+4.1.2  Untersuchung	der	betrieblichen	Abläufe	der	EVU	
 
-Untersuchungsbericht
-Zugkollision, 15.11.2023, Bf Lauenbrück
+In  den  nachfolgenden  Abschni(cid:425)en  werden  die  betrieblichen  Abläufe  der  am  Ereignis 
 
-ergänzende Meldung an den Fdl abgeben, dass der Standort des Zugschlusses unbekannt ist.
-Zudem sollen die Tf das Gleis aus Gründen der Unfallverhütung sperren lassen, um den
-Zugschluss festzustellen.
-Das EVU teilte weiter mit, dass der an diesem Ereignis beteiligte Tf nicht weiter im
-Unternehmen eingesetzt wird.
+beteiligten Zugfahrten des DbZ 24259 und des ICE 615 dargestellt. Neben der Auswertung der 
 
-5.3 Zusätzliche Bemerkungen
-En ällt.
+Elektronischen  Fahrtenregistrierung  (EFR)  erfolgt  jeweils  eine  Darstellung  der  relevanten 
 
-6 Sicherheitsempfehlungen
-Gemäß § 6 EUV und Art. 26 Abs. 2 der Richtlinie (EU) 2016/798 ergeht nachfolgende
-Sicherheitsempfehlung:
-Lfd. Nr.
+Regelungen zum Ereignishergang. 
 
-Adressat und Sicherheitsempfehlung
+Gemäß  § 4 Abs. 3 AEG  ist  ein  EVU  verpﬂichtet,  den  Betrieb  sicher  zu  führen.  Insbesondere 
 
-Betri
+besteht eine Verpﬂichtung zur sicheren Durchführung von Zugfahrten. Zur Gewährleitung der 
 
-Unternehmen
+systema(cid:415)sch  sicheren  Betriebsführung  gehört  u. a.  das  Aufstellen  und  Einhalten  eines  den 
 
-08/2025
+gesetzlichen  Anforderungen  genügenden  SMS  entsprechend  §4  Abs. 4 AEG  i. V. m.  der 
 
-Sicherheitsbehörde:
+Richtlinie (EU) 2016/798.  Inhaltliche  Maßstäbe  für  ein  SMS  waren  die  Aufstellung  und 
 
-EIU, EVU, ECM, Hersteller
+Seite 19 von 44 
 
-Es wird empfohlen, die Ergänzungsregelung
-Nr. B 011 zum „Sanden" sowie die betrieblichen
-Verfahrensweisen bezüglich des Meldeverfahrens
-einer Sandung zu überprüfen und
-weiterzuentwickeln.
-09/2025
+ 
+ 
+Untersuchungsbericht 
 
-Sicherheitsbehörde:
+Zugkollision, 15.11.2023, Bf Lauenbrück 
 
-EIU
+Einhaltung der in der Verordnung (EU) 2018/762 genannten Anforderungen. Zudem waren die 
 
-Es wird empfohlen, zukün ig
-Gleisfreimeldeeinrichtungen zu verwenden, deren
-Funk on nicht durch z. B. Sandeintrag
-beeinträch gt werden kann. (Verordnung (EU)
-2018/762 Anhang II Kap. 5.2.2)
+vom  EIU  zur  Benutzung  der  Infrastruktur  erstellten  Betriebsregeln  zu  beachten  und 
 
-Seite 44 von 44
+umzusetzen. 
 
+Betrieblicher Ablauf der Zugfahrt des DbZ 24259 
+
+Die  Bentheimer  Eisenbahn AG  war  das  zum  Ereigniszeitpunkt  verantwortliche  EVU  für  die 
+
+Zugfahrt des DbZ 24259 und verfügte über eine Sicherheitsbescheinigung gemäß § 7a AEG mit 
+
+einer Gül(cid:415)gkeit bis zum 18.01.2028. Das EVU war damit zur Teilnahme am Eisenbahnbetrieb 
+
+berech(cid:415)gt. 
+
+Regeln für die Durchführung von Zugfahrten und zur Planung und Überwachung des Betriebes 
+
+durch das EVU waren im Betriebsregelwerk (BRW) umgesetzt. 
+
+Der  DbZ 24259  verkehrte  am  15.11.2023  als  Sonderzug  mit  Fahrplananordnung  (Fplo)  und 
+
+diente der Überführung von drei Dieseltriebzügen der Baureihe (BR) 648 von Sassnitz-Mukran 
+
+Gbf (Ausfahrgruppe) nach Bad Bentheim, DB-Grenze. Der Fahrplan wurde durch das EVU beim 
+
+EIU  mit 
+
+eingeschränkter 
+
+Streckenkenntnis 
+
+bestellt. 
+
+Es 
+
+galt 
+
+eine 
+
+zulässige 
+
+Fahrplangeschwindigkeit von 100 km/h. 
+
+Den 
+
+Angaben 
+
+des 
+
+Fahrplans 
+
+entsprechend 
+
+sollte 
+
+der 
+
+DbZ 24259 
+
+über 
+
+68 Mindestbremshundertstel  (Mbr)  und  eine  Zuglänge  von  126 m  verfügen.  Gemäß  der 
+
+Regelung  des  Kapitels 5 i. V. m.  der  Anlage 2a  der  VDV-Schri(cid:332) 755  waren  zur  Durchführung 
+
+der Zugfahrt 95 Mbr notwendig, die der Zug mit 141 vorhandenen Bremshundertsteln erfüllte. 
+
+Um 16:02:54 Uhr meldete der Tf an die zuständige Fdl-in Rotenburg (Wümme) Strecke eine 
+
+Bremsstörung am DbZ 24259 und seinen Standort in km 298,2. Eine Angabe zum Einsatz von 
+
+Sand  bei  der  Bremsung  unterblieb  in  diesem  Gespräch  zunächst,  wie  in  obenstehender 
+
+Tabelle 6 dargestellt. 
+
+Nach einer Dauer von 8:12 min meldete sich der Tf des DbZ 24259 erneut per GSM-R bei der 
+
+Fdl-in. Dieses Gespräch ist in der nachfolgenden Tabelle 6 dargestellt. 
+
+Seite 20 von 44 
+
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 15.11.2023, Bf Lauenbrück 
+
+Funk(cid:415)on 
+
+Inhalt 
+
+Fdl-in 
+
+Fdl Rotenburg. 
+
+Tf 
+
+Ja (Name) hier, nochmal, 24259.  
+
+Fdl-in 
+
+Hi. 
+
+Tf 
+
+Wir sind noch dabei, das Problem zu beheben. Ich wollt‘ 
+sagen, wir haben auch gesandet … bei der Bremsung. 
+
+noch 
+
+Fdl-in 
+
+Ihr habt noch gesandet bei der Bremsung? 
+
+Tf 
+
+Ja. 
+
+Fdl-in 
+
+Okay. 
+
+Tf 
+
+Wir beeilen uns aber, melde mich dann schnellstmöglich wieder. 
+
+Fdl-in 
+
+Ja, genau dann … 
+
+Tf 
+
+Bis gleich. 
+
+Fdl-in 
+
+… bis gleich. 
+
+Tabelle 7: GSM-R Gespräch um 16:11:06 Uhr zwischen Fdl-in und Tf des DbZ 24259 
+
+Entgegen der Vorgaben des BRW BE.6101 Abschni(cid:425) 3 (8) unterließ der Tf die vorgeschriebene 
+
+sofor(cid:415)ge  Verständigung  des  zuständigen  Fdl  mit  der  Nennung  der  Ortsangabe  des 
+
+Sandstreuens in seiner ersten Meldung um 16:02:54 Uhr an die Fdl-in. Die Informa(cid:415)on an die 
+
+Fdl-in über die Betä(cid:415)gung der Sandstreueinrichtung erfolgte erst ca. acht Minuten später um 
+
+16:11:06 Uhr nach dem S(cid:415)llstand des Zuges und ohne Nennung des Standortes.  
+
+Der  Tf  setzte  nach  dem  Ereignis  einen  Nothaltau(cid:332)rag  ab,  dessen  Übertragungsqualität 
+
+mangelha(cid:332) war. Näheres hierzu enthält das Kapitel 4.4.2. 
+
+Die BEU wertete die vom Tf unterlassene, sofor(cid:415)ge Verständigung der Fdl-in mit der Nennung 
+
+der Ortsangabe des Sandstreuens als einen ursächlichen Faktor [F1] mit Auswirkung auf das 
+
+Ereignis. Die zeitlich verzögerte Meldung über den Einsatz von Sand bei der Bremsung wirkte 
+
+sich  entscheidend  auf  den  weiteren  Ereignisablauf  des  fahrdienstlichen  Handelns  bis  zur 
+
+Zugkollision aus. 
+
+Stellungnahme des Tf 
+
+Der Tf gab in seiner Stellungnahme an, dass im Bf Buchholz über die Fahrzeuglei(cid:425)echnik eine 
+
+Störung gemeldet wurde, die behoben werden konnte. Kurz vor dem Bf Lauenbrück sei dem 
+
+Tf eine weitere Störung signalisiert worden, diesmal bezüglich der Bremssteuerung. Hierdurch 
+
+sei die Geschwindigkeit durch das Fahrzeug reduziert worden. Er habe die Störung qui(cid:427)ert, 
+
+um  die  Fahrplangeschwindigkeit  wiederaufzunehmen.  Während  der  Einfahrt 
+
+in  den 
+
+Seite 21 von 44 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 15.11.2023, Bf Lauenbrück 
+
+Bf Lauenbrück  habe  er  einen  Kommunika(cid:415)onsausfall  zwischen  der  Fahrzeuglei(cid:425)echnik  und 
+
+der  Bremssteuerung  registriert.  Dies  habe  seiner  Aussage  nach  zu  einer  automa(cid:415)sch 
+
+eingeleiteten Zwangsbremsung durch die Fahrzeuglei(cid:425)echnik geführt. Um in dieser Situa(cid:415)on 
+
+zu  reagieren  habe  er  mit  Unterstützung  der  Sandstreueinrichtung  eine  Vollbremsung 
+
+eingeleitet. Nachdem der Zug zum Halten gekommen sei habe er seiner Erinnerung zu Folge 
+
+unmi(cid:425)elbar den Fdl Rotenburg (Wümme) über die Posi(cid:415)on seines Zuges im Einfahrbereich 
+
+und die Sandung bis zum S(cid:415)llstand des Zuges informiert. 
+
+Auswertung der EFR‐Daten des DbZ 24259 
+
+Zur  Rekonstruk(cid:415)on  der  betrieblichen  Abläufe  des  EVU  wertete  die  BEU  die  EFR-Daten  des 
+
+führenden  Verbrennungstriebwagens  (VT)  mit  der  Fahrzeugnummer  9580 0 648 502-2  des 
+
+DbZ 24259  aus.  Die  Auslesung  der  Daten  erfolgte  durch  einen  Mitarbeiter  des  EVU.  Im 
+
+Fahrzeug  der  BR 648  war  ein  Datenrekorder  des  Typs  Datenspeicherkasse(cid:425)e (DSK) 10  der 
+
+Firma DEUTA-WERKE GmbH verbaut. 
+
+Das PZB-Fahrzeuggerät des Triebfahrzeugs war eingeschaltet, die Rohdaten waren vollständig 
+
+und wurden fehlerfrei aufgezeichnet. Die im folgenden genannten Zeiten sind systeminterne 
+
+Zeiten der PZB-Fahrzeugeinrichtung, die von der tatsächlichen Uhrzeit abweichen können. Bei 
+
+diesem  Ereignis  wichen  die  registrierten  Uhrzeiten  nur  geringfügig  von  der  tatsächlichen 
+
+Uhrzeit ab. 
+
+In  den  EFR-Daten  waren  die  Zugnummer  und  die  vorhandene  Bremsart  (BRA)  korrekt 
+
+eingegeben. Als Tf-Nummer und Zuglänge war der Wert „0“ hinterlegt. Laut der zugehörigen 
+
+Einstelltabelle aus der Ril 483.0111 sollte die korrekte Tf-Nummer in die Zugdaten eingeben 
+
+werden, eine Änderung der Zuglänge war durch den Tf nicht möglich. Der Zug verkehrte in der 
+
+oberen  Zugart „O“,  unter  fehlerha(cid:332)er  Eingabe  von  152  vorhandenen  Bremshundertsteln 
+
+(BRH). Die eingegebenen Zugdaten können der untenstehenden Tabelle entnommen werden. 
+
+Seite 22 von 44 
+
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 15.11.2023, Bf Lauenbrück 
+
+Parameter 
+
+Eingegebener Wert 
+
+Tf-Nummer 
+
+0 
+
+Zugnummer 
+
+24259 
+
+BRA 
+
+BRH 
+
+VMZ 
+
+Zugart 
+
+Zuglänge 
+
+08 
+
+152 
+
+120 
+
+O 
+
+0 
+
+Tabelle 8: Eingegebene EFR-Zugdaten DbZ 24259 
+
+Die  Auswertung  der  tabellarisch  aufgezeichneten  EFR-Daten  ergab,  dass  der  Tf  das 
+
+Einfahrvorsignal f205 mit einer Geschwindigkeit von 47 km/h passierte. Danach beschleunigte 
+
+er seinen Zug entsprechend des wahrgenommenen Fahrtbegriﬀs „Fahrt erwarten/Vr1“ bis zu 
+
+einer  Geschwindigkeit  von  76 km/h.  Die  Geschwindigkeit  wurde  in  der  Folge  kon(cid:415)nuierlich 
+
+verringert und betrug bei der Vorbeifahrt am „Fahrt/Hp1“-zeigenden Esig F205 im km 298,70 
+
+noch 49 km/h. Bis zum registrierten S(cid:415)llstand des Zuges legte der Zug noch eine Wegstrecke 
+
+von  550 m  zurück.  Ein  anliegender  Druck  der  Hauptlu(cid:332)leitung  <2,2 bar  wurde  um 
+
+16:03:51 Uhr  gemeinsam  mit  dem  S(cid:415)llstand  ca.  in  km 298,15  registriert.  Um  16:18:01 Uhr 
+
+wurde  in  Folge  der  Zugkollision  ein  Vorschub  um  ca. 10  m  verzeichnet.  Die  graﬁsche 
+
+Auswertung  der  EFR-Daten  ist  in  der  nachfolgenden  Abbildung  dargestellt.  Zur  besseren 
+
+Übersicht wurde die Wegstrecke anhand der Posi(cid:415)on der Zugspitze des führenden Fahrzeugs 
+
+9580 0648 502-2 nach dem Ereignis durch die BEU normiert. 
+
+Seite 23 von 44 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 15.11.2023, Bf Lauenbrück 
+
+Abbildung 7: Graﬁsche Auswertung der EFR-Daten von Zug DbZ 24259 
+
+Aus  den  Fahrtverlaufsdaten  der  Fahrt  wurden  keine  Sachverhalte  festgestellt,  die  einen 
+
+ereignisrelevanten Faktor darstellen. 
+
+Betrieblicher Ablauf der Zugfahrt ICE 615 
+
+Die DB Fernverkehr AG war das zum Ereigniszeitpunkt verantwortliche EVU für die Zugfahrt 
+
+ICE 615 und verfügte über eine Sicherheitsbescheinigung gemäß § 7a AEG mit einer Gül(cid:415)gkeit 
+
+bis zum 22.03.2024. Das EVU war damit zur Teilnahme am Eisenbahnbetrieb berech(cid:415)gt. 
+
+Regeln für die Durchführung von Zugfahrten und zur Planung und Überwachung des Betriebes 
+
+durch  den  Unternehmer  waren  im  „Triebfahrzeugführerhe(cid:332)  gemäß  Ril 418.10-90“  der 
+
+DB Fernverkehr AG umgesetzt. 
+
+Der ICE 615 verkehrte am 15.11.2023 gemäß Fahrplan mit einer Länge von 375 m bei 194 Mbr 
+
+von Hamburg-Altona Pbf nach München Hbf. Die Einfahrt in den Bf Lauenbrück wurde dem Tf 
+
+mi(cid:425)els  Fahrtbegriﬀ  „Hp1“  mit  Geschwindigkeitsanzeiger  „Zs3“  und  der  Kennziﬀer 8  am 
+
+Esig F205 mit 80 km/h angezeigt. Der Tf erkannte bei der Einfahrt in den Bf Lauenbrück den 
+
+Zugschluss  des  DbZ 24259  und  leitete  eine  Schnellbremsung  ein,  die  die  Kollision  auf  der 
+
+Weiche 229 jedoch nicht mehr verhindern konnte. 
+
+Seite 24 von 44 
+
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 15.11.2023, Bf Lauenbrück 
+
+Auswertung der EFR‐Daten des ICE 615 
+
+Zur Rekonstruk(cid:415)on der betrieblichen Abläufe des EVU wertete die BEU die EFR-Daten aus, die 
+
+das  führende  Fahrzeug  93 80 0812 062-9  des  ICE 615  gespeichert  ha(cid:425)e.  Die  Auslesung  der 
+
+Daten erfolgte durch einen Mitarbeiter des EVU. Im Fahrzeug der BR 412 war eine DSK der 
+
+Firma Siemens AG verbaut. 
+
+Das PZB-Fahrzeuggerät des Triebfahrzeugs war eingeschaltet, die Rohdaten waren vollständig 
+
+und fehlerfrei aufgezeichnet. Die im folgenden genannten Zeiten sind systeminterne Zeiten 
+
+der  PZB-Fahrzeugeinrichtung,  die  von  der  tatsächlichen  Uhrzeit  abweichen  können.  Bei 
+
+diesem  Ereignis  wichen  die  registrierten  Uhrzeiten  um  -60  Minuten  von  der  tatsächlichen 
+
+Uhrzeit ab. Zur besseren Übersicht wurde die Wegstrecke anhand der Posi(cid:415)on der Zugspitze 
+
+des führenden Fahrzeugs des ICE 615 nach dem Ereignis durch die BEU normiert. 
+
+In den EFR-Zugdaten waren die Zugnummer und die vorhandenen BRH und die BRA korrekt 
+
+eingegeben. Der Zug verkehrte in der oberen Zugart „O“. Die eingegebenen Zugdaten können 
+
+der untenstehenden Tabelle entnommen werden. 
+
+Parameter 
+
+Eingegebener Wert 
+
+Tf-Nummer 
+
+vom EVU vorgegeben 
+
+Zugnummer 
+
+000615 
+
+BRA 
+
+BRH 
+
+VMZ 
+
+Zugart 
+
+Zuglänge 
+
+7 
+
+120 
+
+160 
+
+O 
+
+410 
+
+Tabelle 9: Eingegebene EFR-Zugdaten ICE 615 
+
+Um 15:17:42 Uhr DSK-Zeit erfolgte die Vorbeifahrt am Esig F205 des Bf Lauenbrück des ICE 
+
+615 mit einer Geschwindigkeit von 76,8 km/h. 15 Sekunden später wurde die Bedienung des 
+
+Fahr-/Bremsschalters bei einer Geschwindigkeit von 79,6 km/h aufgezeichnet. Um 15:18:02 
+
+Uhr  DSK-Zeit  wurde  eine  Druckabsenkung  in  der  Hauptlu(cid:332)leitung  des  Zuges  <2,2 bar 
+
+registriert.  Dies  war  auf  das  Einleiten  einer  Schnellbremsung  durch  den  Tf  zurückzuführen. 
+
+128 m bzw. 15 Sekunden nach dem Einleiten der Schnellbremsung wurde der S(cid:415)llstand des 
+
+Zuges nach der Zugkollision um 15:18:17 Uhr DSK-Zeit registriert. Die graﬁsche Auswertung 
+
+des Fahrtverlaufs des ICE 615 ist in der nachfolgenden Abbildung dargestellt.  
+
+Seite 25 von 44 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 15.11.2023, Bf Lauenbrück 
+
+Abbildung 8: Graﬁsche Auswertung der EFR-Daten von Zug ICE 615 
+
+Aus  dem  rekonstruierten  betrieblichem  Ablauf  der  Fahrt  wurden  keine  Sachverhalte 
+
+festgestellt, die einen ereignisrelevanten Faktor darstellen. 
+
+4.2  Fahrzeuge	und	technische	Einrichtungen	
+
+In  diesem  Kapitel  sind  die  Erkenntnisse  aus  der  Untersuchung  beteiligter  Fahrzeuge,  der 
+
+Eisenbahninfrastruktur und weiterer technischer Einrichtungen einschließlich damit eventuell 
+
+verbundener Tä(cid:415)gkeiten und Entscheidungen dargestellt. 
+
+4.2.1  Untersuchung	von	Fahrzeugen	
+
+Der aus drei VT der BR 648 (Coradia Leichter Innova(cid:415)ver Nahverkehrs-Triebwagen (LINT) 41) 
+
+des  Herstellers  Alstom  gebildete  DbZ 24259  war  auf  einer  Überführungsfahrt  von  Sassnitz-
+
+Mukran Gbf (Ausfahrgruppe) nach Bad Bentheim, DB-Grenze. 
+
+Die VT mit der Baureihenbezeichnung 648-002, 648-003 und 648-005 befanden sich nach der 
+
+Außerbetriebnahme durch das EVU DB Regio AG am Standort Sassnitz-Mukran. Es folgte der 
+
+Erwerb durch das EVU Bentheimer Eisenbahn AG, das auch die Funk(cid:415)on des ECM übernahm. 
+
+Im Oktober 2023 wurden die Fahrzeuge mit den internen Bezeichnungen des EVU Bentheimer 
+
+Eisenbahn AG  VT 117,  VT 118,  VT 120  gemäß  ECM 3  in  das  Flo(cid:425)enmanagement  des  EVU 
+
+übernommen. 
+
+Seite 26 von 44 
+
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 15.11.2023, Bf Lauenbrück 
+
+Zur Vorbereitung auf die Überführungsfahrt am 15.11.2023 wurden die Fahrzeuge in der Zeit 
+
+vom 05.09.2023 bis 07.09.2023 einer Fahrzeugüberprüfung durch die Bentheimer Eisenbahn 
+
+AG in ihrer Funk(cid:415)on als ECM 1 und 2 unterzogen. Vom 13.11.2023 bis  14.11.2023  wurden 
+
+Instandhaltungs- sowie Instandsetzungsarbeiten durch die ECM 4 der Bentheimer Eisenbahn 
+
+AG durchgeführt. 
+
+Die aus einem A- und einem B-Wagen bestehenden VT waren mit zwei Triebdrehgestellen und 
+
+einem  Mi(cid:425)eldrehgestell  ausgerüstet,  siehe  nachfolgende  Abbildung.  Die  als  Powerpacks 
+
+ausgeführten Antriebe befanden sich ebenso wie die mechanischen Module der Bremsanlage 
+
+sowie die Drucklu(cid:332)versorgung unterﬂur. 
+
+Abbildung 9: Skizze BR 648 
+
+Aus der folgenden Tabelle lassen sich die technischen Fahrzeugdaten entnehmen: 
+
+Fahrzeugkategorie 
+
+Leistung 
+
+Antriebsart 
+
+Länge über Kupplung 
+
+Fahrzeugbreite 
+
+Eigengewicht 
+
+Höchstgeschwindigkeit 
+
+Radsatzfolge 
+
+Zugsicherungssystem 
+
+Regionaltriebwagen 
+
+2 x 315 kW 
+
+dieselhydraulisch 
+
+41.810 mm 
+
+2.750 mm 
+
+ca. 63,5 t 
+
+120 km/h 
+
+’B‘ 2‘ B‘ 
+
+PZB 
+
+Tabelle 10: Fahrzeugdaten BR 648 (Coradia LINT 41) 
+
+Als Teil des Inbetriebnahmeprozesses wurde die Prüfung vor Übernahme der Fahrzeuge von 
+
+der  DB Regio AG  durch  das  EVU  Bentheimer Eisenbahn AG  durchgeführt.  Die  einzelnen 
+
+Prüfschri(cid:425)e  wurden  vollständig  protokolliert  und 
+
+im 
+
+Instandsetzungsau(cid:332)ragsbericht 
+
+festgehalten. Zur Herstellung der Lauﬀähigkeit wurden die an den Fahrzeugen festgestellten 
+
+Seite 27 von 44 
+
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 15.11.2023, Bf Lauenbrück 
+
+Störungen behoben bzw. für die Überführungsfahrt Maßnahmen ergriﬀen, die einen sicheren 
+
+Eisenbahnbetrieb gewährleisten sollten. 
+
+Die  Besonderheiten  für  die  anstehende  Überführungsfahrt  wurden  in  dem  Dokument  der 
+
+Lauﬀähigkeitsuntersuchung des VT 117 handschri(cid:332)lich festgehalten. Hiernach dur(cid:332)e der Zug 
+
+u. a. nur unter den folgenden Bedingungen überführt werden: 
+
+  „Festgelegte Reihenfolge VT 117, VT 120 (Notkupplung vorgehalten), VT 118 und 
+
+defektem GSM‐R einzuhalten, 
+
+  Aufgrund abgeschalteter Luftfederung an zwei Fahrzeugen galt eine 
+
+Höchstgeschwindigkeit von 100 km/h, 
+
+  Getriebe bei VT 117 und VT 118 in Mittelstellung belassen, Motoren arbeiteten im 
+
+Leerlauf aufgrund der Störungen an zwei Powerpacks.“4 
+
+Bei  der  mit  Instandhaltungsau(cid:332)rag  am  14.11.2023  durchgeführten  Sandmengenmessung 
+
+durch die ECM wurden bei den drei VT die jeweils an den Radsätzen 1 und 6 angebrachten 
+
+Sandstreueinrichtungen überprü(cid:332). Gemäß den Vorgaben der Ergänzungsregelung Nr. B 011 
+
+zum 
+
+„Sanden“, 
+
+siehe 
+
+hierzu 
+
+auch 
+
+Kapitel 4.2.3, 
+
+entsprachen 
+
+sowohl 
+
+die 
+
+Sandstreueinrichtungen  als  auch  die  ausgebrachten  Sandmengen  den  Vorgaben.  Die 
+
+ausgebrachten  Sandmengen  lagen  bei  den  Fahrzeugen  mit  gemessenen  Werten  von 
+
+312 g/30 sec  bis  424 g/30 sec  im  Bereich  der  laut  o. g.  Ergänzungsregelung  Nr. B 011 
+
+vorgegebenen Sandmengen von 200 g/30 sec  bis 500 g/30 sec. Bei dem  verwendeten Sand 
+
+handelte es sich um Bremssand mit einer Körnung von 0,8 mm bis 1,6 mm. Die vorhandene 
+
+Sandqualität  wurde  durch  das  EVU  entsprechend  belegt  und  entsprach  der  DB-Norm 
+
+BN 918224 und den Vorgaben der Ergänzungsregelung Nr. B 011. Die nachfolgende Abbildung 
+
+zeigt Au(cid:332)ragungen von Sand im betroﬀenen Gleisabschni(cid:425) der Weiche 229. 
+
+4 Lauffähigkeitsbescheinigung, Bentheimer Eisenbahn AG 
+
+Seite 28 von 44 
+
+ 
+ 
+                                                       
+Untersuchungsbericht 
+
+Zugkollision, 15.11.2023, Bf Lauenbrück 
+
+Abbildung 10: Sand auf dem Schienenkopf im Bereich der Weiche 229 
+
+Während  der  Fahrt  wurde  dem  Tf  über  die  Fahrzeuglei(cid:425)echnik  eine  Störung  am  VT 118 
+
+angezeigt. Darau(cid:300)in hielt der Tf am Hp Buchholz an, um die Störung mit Hilfe anwesender 
+
+Mitarbeiter des EVU zu beheben. Nach erfolgreicher Störungsbehebung setzte der DbZ 24259 
+
+unter Beteiligung des zuständigen Fdl seine Fahrt fort. Im Bf Lauenbrück wurde dem Tf ein 
+
+Kommunika(cid:415)onsausfall  zwischen  Fahrzeuglei(cid:425)echnik  und  Bremssteuergerät  auf  dem 
+
+Führerstand  angezeigt.  Der  Tf  bremste  den  DbZ  24259  ab  und  betä(cid:415)gte  die 
+
+Sandstreueinrichtung. Der Sandaustri(cid:425) erfolgte jeweils am in Fahrtrichtung ersten Radsatz der 
+
+drei VT. 
+
+In Folge der Zugkollision kam es zu Schäden an den beteiligten Fahrzeugen. Die am Ereignis 
+
+beteiligten  Fahrzeuge  wurden  soweit  durch  die  BEU  untersucht,  dass  das  Vorliegen  von 
+
+ereignisrelevanten Faktoren an ihnen ausgeschlossen werden konnte. 
+
+4.2.2  Untersuchung	der	bautechnischen	Infrastruktur	
+
+Die an der baulichen Infrastruktur entstandenen Schäden waren Folge des Ereignisses. Auf 
+
+weitergehende Untersuchungen wurde deshalb verzichtet. 
+
+4.2.3  Untersuchung	der	Leit‐	und	Sicherungstechnik	
+
+Bei  der 
+
+im  Bf Lauenbrück  vorhandenen 
+
+selbs(cid:425)ä(cid:415)gen  Gleisfreimeldeanlage  mit 
+
+niederfrequenten  Gleisstromkreisen  handelte  es  sich  um  die  Bauart 100 Hz  des  Herstellers 
+
+SEL. Die Anlage wurde mit dem Stellwerk im Jahr 1968 in Betrieb genommen. Niederfrequente 
+
+Gleisstromkreise  mit  100 Hz  werden  in  Signalanlagen  zur  selbs(cid:425)ä(cid:415)gen  Gleisfreimeldung 
+
+Seite 29 von 44 
+
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 15.11.2023, Bf Lauenbrück 
+
+eingesetzt. Die Innenanlage besteht aus einer Spannungsquelle und einer Gleisrelaisgruppe. 
+
+Die  Außenanlage  besteht  aus  einem  Weichen-  oder  Gleisabschni(cid:425),  der  von  Isolierstößen 
+
+begrenzt ist. 
+
+Im Bf Lauenbrück war der Einfahrabschni(cid:425) von Esig F205 bis unmi(cid:425)elbar vor der Spitze der 
+
+Weiche 229 mit einer selbs(cid:425)ä(cid:415)gen Gleisfreimeldeanlage mi(cid:425)els Gleisstromkreisen realisiert, 
+
+ebenso die Weiche 229 selbst. Im geraden Strang der Weiche 229 (Rechtslage) befand sich auf 
+
+Höhe des Lichtsperrsignals 231I, ca. 8,60 m vom Grenzzeichen der Weiche 229 en(cid:414)ernt, ein 
+
+Isolierstoß im Gleis. Dieser stellte die Begrenzung der Gleisfreimeldeanlage der Weiche 229 
+
+zur  Gleisfreimeldeanlage  des  Gleises 231  dar.  Gleis 231  selbst  war  mit  einer  selbs(cid:425)ä(cid:415)gen 
+
+Gleisfreimeldeanlage mit Achszähltechnik ausgerüstet. 
+
+Gleisstromkreise dienen der Detek(cid:415)on von Fahrzeugen durch Stromﬂuss über die Achsen der 
+
+Fahrzeuge. Ist das Gleis frei, ﬂießt in den nach dem Ruhestromprinzip arbeitenden Anlagen 
+
+Strom über das Gleis zur Auswerteeinrichtung. Wird das Gleis durch ein Fahrzeug besetzt, so 
+
+stellt die Achse des Fahrzeugs einen Nebenschluss her.  
+
+Dem Fdl wird auf dem Stell(cid:415)sch op(cid:415)sch über Ausleuchtungszustände angezeigt, ob sich ein 
+
+Zug  im  überwachten  Gleisabschni(cid:425)  beﬁndet  oder  ob  das  Gleis  frei  von  Fahrzeugen  ist. 
+
+Gleichzei(cid:415)g  ist  diese  erhobene  Informa(cid:415)on  über  den  Belegungszustand  eines  Gleises  eine 
+
+Eingangsgröße für weitere, automa(cid:415)sierte Prozesse in der Sicherungstechnik, wie bspw. für 
+
+die im Stellwerk selbs(cid:425)ä(cid:415)g wirkenden Prüf- und Freigabeprinzipien für die Fahrstraßen der 
+
+Zugfahrten. Eine in jedem Betriebszustand rich(cid:415)g wirkende Gleisfreimeldeanlage ist demnach 
+
+Voraussetzung  für  das  sichere  Wirken  der  auf  diese  eingehende  Informa(cid:415)on  au(cid:297)auenden 
+
+Stellwerksfunk(cid:415)onen. 
+
+In  Gleisabschni(cid:425)en, 
+
+in  denen  die  Gleisfreimeldung  technisch  durch  Gleisstromkreise 
+
+sichergestellt wird, kann eine sichere Detek(cid:415)on infolge Eintrag von Sand zur Erhöhung des 
+
+Kra(cid:332)schlusses  zwischen  Rad  und  Schiene  beeinträch(cid:415)gt  werden.  Hierbei  kann  der  Sand 
+
+zwischen Schiene und den Rädern eines Schienenfahrzeugs eine Isola(cid:415)onswirkung en(cid:414)alten. 
+
+Dadurch  wird  die  Detek(cid:415)onsfähigkeit  eines  Gleisstromkreises  gestört.  Die  Funk(cid:415)on  des 
+
+Gleisstromkreises,  ein  Fahrzeug  aufgrund  der  Lei(cid:414)ähigkeit  eines  Radsatzes  sicher  zu 
+
+detek(cid:415)eren,  ist  dann  nicht  mehr  sicher  gegeben.  Entsprechend  könnte  ein  Gleisabschni(cid:425) 
+
+durch die Gleisfreimeldeanlage als frei detek(cid:415)ert und so dem Fdl angezeigt werden, obwohl 
+
+er  durch  ein  Schienenfahrzeug  besetzt  ist.  Durch  diese  vom  Stellwerk  fehlerha(cid:332)en 
+
+Seite 30 von 44 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 15.11.2023, Bf Lauenbrück 
+
+herausgegebenen  Informa(cid:415)onen  können 
+
+in  der  Folge  gefährliche  Zustände,  wie 
+
+im 
+
+vorliegenden  Fall  eingetreten,  entstehen.  Die  BEU  wertet  die  Funk(cid:415)onssicherheit  de
+
+r 
+
+Detek(cid:415)on eines Zuges bei Sandeintrag als einen ursächlichen Faktor [F3]. 
+
+Zur  Kontrolle  der  Risiken  aus  einem  solchen  Zustand  wurde  nach  einigen  gefährliche
+
+n 
+
+Ereignissen in den Jahren von 2008 bis 2013 eine Kontrollmaßnahme in Form einer von Tf un
+
+d 
+
+Fdl zu befolgenden Prozedur eines Meldeverfahrens eingeführt. 
+
+Hierbei  wird  die  infolge  Sandeintrag  entstehende  Funk(cid:415)onsbeeinträch(cid:415)gung  durch  ein
+
+e 
+
+Standortmeldung  des  Tf  an  den  Fdl  ersetzt.  Um  durch  den  Sandeintrag  fehlerha(cid:332)
+
+e 
+
+Informa(cid:415)onszustände des Stellwerks und die möglichen Risiken daraus zu kontrollieren, dien
+
+t 
+
+ein  Kommunika(cid:415)onsverfahren  zwischen  Tf  und  Fdl  zur  Kompensa(cid:415)on.  Hierbei  löst  ein
+
+e 
+
+Standortmeldung  des  Tf  mit  dem  Hinweis  über  die  erfolgte  Sandung  an  den  Fdl  aus,  das
+
+s 
+
+dieser  die  daraus  entstehenden  Störungen  der  Gleisfreimeldung  kompensiert  un
+
+d 
+
+Maßnahmen  zur  sicheren  For(cid:414)ührung  des  Betriebs  tri(cid:335).  Diese  verfahrensbasiert
+
+e 
+
+Kompensa(cid:415)on der Funk(cid:415)onsbeeinträch(cid:415)gung eines Gleisstromkreises infolge Sandeintrag is
+
+t 
+
+jedoch aufgrund der Mitwirkung mehrerer Menschen weniger leistungsfähig gegenüber eine
+
+r 
+
+automa(cid:415)sierten Detek(cid:415)on. Sie hat dadurch ein geringeres Sicherheitsniveau. 
+
+In  der  Ril 819.1100  werden  Planungsgrundsätze  für  selbs(cid:425)ä(cid:415)ge  Gleisfreimeldeanlagen  mi
+
+t 
+
+Achszähltechnik vorgegeben. Gemäß dieser Ril sollen bei neugeplanten Anlagen selbs(cid:425)ä(cid:415)g
+
+e 
+
+Gleisfreimeldeanlagen  mit  Achszähltechnik  realisiert  werden.  In  Bestandsanlagen  könne
+
+n 
+
+daher  selbs(cid:425)ä(cid:415)ge  Gleisfreimeldeanlagen  mit  Gleisstromkreisen  vorhanden  sein.  Bei  diese
+
+n 
+
+Anlagen zeigte sich durch gefährliche Ereignisse, u. a. im Jahr 2008 im Bf Recklinghausen Os
+
+t, 
+
+dass Züge durch Sandeintrag nicht mehr korrekt durch die Gleisfreimeldetechnik detek(cid:415)er
+
+t 
+
+werden konnten. Das vorgesehene, in Richtung der Sicherheit gerichtete Leistungsniveau de
+
+r 
+
+Anlage  steht  einem  Fdl  entgegen  der  delegierten  Verordnung (EU)  2018/762  Anhang 
+
+II 
+
+Kap. 5.2.2  a)  ab  diesem  Zeitpunkt  nicht  mehr  zur  Verfügung.  Daher  wurde  durch  di
+
+e 
+
+Beteiligten im Eisenbahnsektor eine betriebliche Rückfallebene als Kompensa(cid:415)onsmaßnahm
+
+e 
+
+geschaﬀen,  die  durch  die  nunmehr  geltenden  Regelungen  der  Ril 408  und  de
+
+r 
+
+Ergänzungsregelung Nr. B 011 zum „Sanden“ für EVU, ECM und EIU verbindlich einzuhalte
+
+n 
+
+sind. Diese Regelungen stellen eine geplante Rückfallebene auf betrieblicher Ebene und in de
+
+r 
+
+Instandhaltung  dar,  um  einer  fehlerha(cid:332)en  Informa(cid:415)onen  über  die  Detek(cid:415)on  von  Züge
+
+n 
+
+vorzubeugen. Die BEU wertete diesen Umstand als systemischen Faktor [S3] mit Bezug zu
+
+m 
+
+ursächlichen Faktor [F3]. 
+
+Seite 31 von 44 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 15.11.2023, Bf Lauenbrück 
+
+In  den  letzten  drei  Jahren  vor  dem  Ereignis  traten  bei  der  Gleisfreimeldeanlage  im 
+
+Bf Lauenbrück nach eigenen Auswertungen des EIU keine Funk(cid:415)onsbeeinträch(cid:415)gungen auf. 
+
+Die zugehörigen Inspek(cid:415)onsunterlagen der in den Jahren 2020 bis 2023 gemäß Ril 892.9305 
+
+durchgeführten Inspek(cid:415)onen wurden der BEU vorgelegt. Nach dem Ereignis wurde die Anlage 
+
+von  der  Abteilung  Anlagen-  und  Instandhaltungsmanagement  des  EIU  überprü(cid:332).  Bei  den 
+
+durchgeführten  Messungen  nach  dem  Ereignis  traten  keine  Unregelmäßigkeiten  auf.  Die 
+
+Anlage war nach der Überprüfung durch das Anlagen- und Instandhaltungsmanagement des 
+
+EIU unmi(cid:425)elbar wieder betriebsbereit. 
+
+4.3  Menschliche	Faktoren	
+
+In diesem Kapitel werden Untersuchungserkenntnisse zu menschlichen Handlungen und/oder 
+
+Entscheidungen  am  gefährlichen  Ereignis  beteiligter  Personen  dargestellt.  Entsprechende 
+
+Erkenntnisse  können  sich  hierbei  insbesondere  im  Bereich  menschlicher  und  individueller 
+
+Merkmale sowie organisatorischer und Arbeitsplatzfaktoren ergeben. 
+
+4.3.1  Beteiligte	des	Infrastrukturbetreibers	
+
+Die  Fdl-in  begann  ihre  Funk(cid:415)onsausbildung  am  01.07.2020  und  schloss  sie  am  27.11.2020 
+
+erfolgreich  ab.  Von  März  bis  Juni 2022  wurde  sie  auf  dem  Stellwerk  Rotenburg  (Wümme) 
+
+eingewiesen,  im  Juni 2022  erfolgte  hier  die  örtliche  Prüfung.  Dies  umfasste  auch  die 
+
+Bedienung  der  von  Rotenburg  (Wümme)  aus  ferngesteuerten  Stellwerke  Lauenbrück  und 
+
+Tostedt. Nachweise über die gesundheitliche und psychische Eignung der Fdl-in wurden der 
+
+BEU vorgelegt.  
+
+Die  Nachweise  über  die  in  den  Jahren  2022  und  2023  durchgeführten  Fortbildungen  mit 
+
+Inhalten gemäß Themenkatalog Ril 046.2002A05 in Form von Praxistraining wurden der BEU 
+
+ebenfalls  vorgelegt.  Thema(cid:415)siert  wurde  bei  diesen  Fortbildungen  unter  anderem  die 
+
+Fahrwegprüfung, Fahrwegsicherung und Räumungsprüfung. 
+
+Überwachung der Dienstausübung 
+
+Die Fdl-in war gemäß Ril 412.9111 Abschni(cid:425) 4 Abs. 3 der Funk(cid:415)onsstufe „A“ mit betrieblicher 
+
+Komplexität „a“ zugeordnet. 
+
+Aus dieser Zuordnung resul(cid:415)erte, dass die Überwachungshäuﬁgkeit durch eine sogenannte 
+
+Betriebskontrolle am Arbeitsplatz eines Fdl im Stellwerk Rotenburg (Wümme) durch das EIU 
+
+gemäß Ril 412.9111 Abschni(cid:425) 4 Abs. 5 auf acht Überwachungen pro Jahr festgelegt wurde. Als 
+
+Seite 32 von 44 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 15.11.2023, Bf Lauenbrück 
+
+Betriebskontrolle  wurde  laut  Ril 412.9111  Abschni(cid:425) 2  Abs. 4  die  direkte  Überwachung  der 
+
+Mitarbeiter  oder  das  Training  an  einer  Simula(cid:415)onsanlage  im  Rahmen  der  Fortbildung 
+
+deﬁniert. Bei der direkten Überwachung sollen u. a. die Handlungen des Stellwerkspersonals, 
+
+die  Einträge  in  betrieblichen  Unterlagen  und  das  Fachwissen  mi(cid:425)els  Durchführung  von 
+
+Lehrgesprächen durch eine Aufsicht führende Person überprü(cid:332) werden.  
+
+Im Jahr 2022 wurden elf Betriebskontrollen durch einen Bezirksleiter Betrieb durchgeführt. 
+
+Entsprechend der Vorgabe aus Ril 412.9111 Abschni(cid:425) 5 Abs. 2 wurden im Kalenderjahr 2022 
+
+mindestens  zwei  der  Betriebskontrollen  als  besondere  Betriebskontrollen,  das  heißt  am 
+
+Wochenende,  außerhalb  der  gewöhnlichen  Arbeitszeit  oder 
+
+in  der  Situa(cid:415)on  der 
+
+Abweichungen vom Regelbetrieb, durchgeführt. 
+
+Für das Jahr 2023 konnten durch das EIU die Durchführung von vier Betriebskontrollen durch 
+
+Vorlage  der  zugehörigen  Protokolle  nachgewiesen  werden,  darunter  eine  besondere 
+
+Betriebskontrolle.  Die  gemäß  Ril  412.9111  Abschni(cid:425)  4  Abs.  5  jährlich  im  Unternehmen 
+
+vorgeschriebene Anzahl an Überwachungen der Fdl-in war quan(cid:415)ta(cid:415)v für das Kalenderjahr 
+
+2023 zum Ereigniszeitpunkt nicht erfüllt. 
+
+Der  gemäß  Ril 481.0205Z01  einmal  jährlich  durchzuführende  Nothaltau(cid:332)rag  wurde  in  den 
+
+vorgelegten Protokollen als Pﬂich(cid:425)hema für das Jahr 2022 nachgewiesen. Für das Jahr 2023 
+
+stand die Durchführung laut Angabe des EIU noch aus. 
+
+Die  letzte  Betriebskontrolle  vor  dem  Ereignis  wurde  am  14.11.2023  ohne  Beanstandungen 
+
+durchgeführt.  Themen  des  freien  Lehrgesprächs  waren  die  allgemeine  Arbeitsausführung, 
+
+insbesondere das Sperren von Gleisen und die Kommunika(cid:415)on mit technischen Berech(cid:415)gten 
+
+sowie  Maßnahmen  bei  Betriebs-  und  Bauanweisungen  bei  einer  Verteilung  auf  den 
+
+Stellwerken von weniger als fünf Tagen. 
+
+Aus  den  übersandten  Protokollen  der  in  den  Jahren 2022  und 2023  durchgeführten 
+
+regelmäßigen Fortbildungen der Fdl-in ging nicht hervor, dass die Fdl-in durch das EIU bzgl. 
+
+der Thema(cid:415)k einer Abschni(cid:425)sprüfung nach der Meldung über den Sandeintrag eines Tf i. V. m. 
+
+vorhandenen Gleisstromkreisen regelmäßig fortgebildet wurde, um diese Kenntnisse aufrecht 
+
+zu erhalten. 
+
+Aus  den 
+
+in  diesem  Kapitel  getroﬀenen  Feststellungen  zu  Ausbildung,  Training  und 
+
+Überwachung  der  Fdl-in  resul(cid:415)ert,  dass  das  EIU  die  gemäß  Ril 412.9111  Abschni(cid:425) 4 Abs. 5 
+
+geforderte Anzahl an Betriebskontrollen der Fdl-in für das Kalenderjahr 2023 gegenüber der 
+
+Seite 33 von 44 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 15.11.2023, Bf Lauenbrück 
+
+BEU nicht durch z. B. Vorlage geeigneter Nachweisdokumente belegen konnte. Ferner war die 
+
+handlungssichere  Ausführung  von  Arbeitsabläufen,  welche  in  Bezug  zum  eingetretenen 
+
+Ereignis stehen, demnach auch inhaltlich über mindestens zwei Jahre nicht mehr belegt 
+
+4.3.2  Beteiligte	der	EVU	
+
+Nachfolgend wird auf die Qualiﬁka(cid:415)on und medizinische Tauglichkeit des am Ereignis für das 
+
+EVU Bentheimer Eisenbahn AG beteiligten Tf des DbZ 24259 eingegangen. 
+
+Der  Tf  war  im  Besitz  eines  gül(cid:415)gen  EU-Führerscheins,  der  am 01.11.2018  von  der 
+
+Triebfahrzeugführerscheinstelle  des  EBA  ausgestellt  worden  und  bis  zum 31.10.2028  gül(cid:415)g 
+
+war.  Mit  dem  Ausstellungsdatum 20.04.2021  erhielt  der  Tf  von  dem  verantwortlichen  EVU 
+
+Bentheimer Eisenbahn AG  eine 
+
+Zusatzbescheinigung  der  Klassen A (Rangierfahrten) 
+
+und B (Zugfahrten).  In  der  Zusatzbescheinigung  wurde  unter  anderem  die  Befähigung  zum 
+
+Führen der BR 648 nachgewiesen.  
+
+Die gesundheitliche Eignung gem. § 5 Abs. 1 Nr. 3 Triebfahrzeugführerscheinverordnung (TfV) 
+
+wurde  durch  einen  aktuellen  Tauglichkeitsnachweis,  der  bis  zum 02.07.2026  gül(cid:415)g  war, 
+
+erbracht. 
+
+Der Tf erwarb gemäß dem zugehörigen Vordruck, welcher der BEU durch das EVU vorgelegt 
+
+wurde,  am  13.10.2023  die  eingeschränkte  Streckenkenntnis  für  die  bestellte  Trasse  von 
+
+Sassnitz-Mukran  (Ausfahrgruppe)  nach  Bad  Bentheim,  DB-Grenze.  Gemäß  Kapitel 5.4  der 
+
+Streckenkenntnisrichtlinie,  VDV-Schri(cid:332) 755,  i. V. m.  den  Vorgaben  des  BRW BE.5301A01 
+
+Abschni(cid:425) 7 Abs. 7 dur(cid:332)en zwischen dem Erwerb der eingeschränkten Streckenkenntnis und 
+
+der jeweiligen Zugfahrt nicht mehr als sieben Kalendertage liegen. Die Zugfahrt DbZ 24259 
+
+fand  am 15.11.2023  und  somit  33 Tage  nach  dem  dokumen(cid:415)erten  Erwerb  der 
+
+eingeschränkten Streckenkunde sta(cid:425). 
+
+Am  29.09.2023  absolvierte  der  Tf  erfolgreich  ein  webbasiertes  Training  mit  dem  Titel 
+
+„regelmäßiger  Fortbildungsunterricht  für  Triebfahrzeugführer  2022/23“.  Die  Inhalte  der 
+
+Fortbildung  waren  u.  a.  Unregelmäßigkeiten  im  Bahnbetrieb  und  Kommunika(cid:415)on  und 
+
+Verständigung. Die Themenblöcke wurden durch Übungen untersetzt. Die Übungen zu den 
+
+beiden  genannten  Themenblöcken  wurden 
+
+laut  Nachweisdokumenta(cid:415)on  am 26.09. 
+
+und 27.09.2023 durch den Tf durchgeführt und bestanden. 
+
+Das EVU legte das Ergebnisprotokoll für die Überprüfung des Tf gemäß § 11 TfV vor. Ebenso 
+
+wurde ein Nachweis über die zuletzt ohne Beanstandung durchgeführte Überwachungsfahrt 
+
+Seite 34 von 44 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 15.11.2023, Bf Lauenbrück 
+
+des Tf vorgelegt. Themen des freien Lehrgespräches waren u. a. Verhalten im Gleisbereich aus 
+
+Gründen der Unfallverhütung, Arten und Durchführung von Bremsproblemen und Verhalten 
+
+bei und nach PZB-Zwangsbremsungen. 
+
+4.4  Feedback‐	und	Kontrollmechanismen	
+
+In diesem Kapitel wird insbesondere auf Bedingungen, Feedback- und Kontrollmechanismen 
+
+im  Eisenbahnsystem  eingegangen,  denen  ein  ak(cid:415)ver  Einﬂuss  auf  die  Entstehung  ähnlicher 
+
+Ereignisse zugeschrieben werden könnte. Diese Mechanismen schließen Faktoren des Risiko- 
+
+und Sicherheitsmanagement sowie Überwachungsverfahren mit ein. 
+
+4.4.1  Überwachung	und	Bewusstsein	Stellwerkspersonal	
+
+Entsprechend  Verordnung(EU)  2018/762  Anhang II  Kap. 6.1.2  muss  eine  Organisa(cid:415)on  die 
+
+Erfüllung sicherheitsrelevanter Aufgaben überwachen. Mangelnde Überwachung kann dazu 
+
+führen, dass entgegen vorgenannter Verordnung Anhang II Kap. 4.3 das Bewusstsein für die 
+
+korrekte  Anwendung  von  Arbeitsvorgaben  schwindet  und  das  Risiko 
+
+für  nicht 
+
+vorschri(cid:332)engerechtes  Handeln  steigt.  Gemäß  Kap. 2.1.1 e)  i. V. m.  Kap. 2.3.2  vorgenannter 
+
+Verordnung müssen hierfür die notwendigen Ressourcen zur Verfügung gestellt werden. 
+
+Entsprechend  der  Verordnung (EU)  2018/762  Anhang II  Kap. 4.2.1  sind  Mitarbeitern  mit 
+
+sicherheitsrelevanten  Aufgaben  die  notwendigen  Kompetenzen  zu  vermi(cid:425)eln.  Diese  sind 
+
+gemäß  Kap. 4.2.1  der  Verordnung  vorab  im  SMS  zu  deﬁnieren  und  gemäß  Kap. 4.2.2 
+
+regelmäßig und nachweislich zu schulen. Zudem ist sicherzustellen, dass die Qualiﬁka(cid:415)onen 
+
+und  Fähigkeiten  auf  Dauer  erhalten  bleiben.  Dies  bedeutet  auch,  dass  sie  erstmals 
+
+ausreichend  vorliegen  vor  Zuweisung  einer  Tä(cid:415)gkeit.  Nach  § 54 Abs. 1  EBO  sind 
+
+Betriebsbeamten die Kenntnisse und Fer(cid:415)gkeiten zu vermi(cid:425)eln, die sie zur ordnungsgemäßen 
+
+Ausübung ihres Dienstes befähigen. Nach § 54 Abs. 2 EBO haben sich die Eisenbahnen durch 
+
+Prüfungen  oder  in  sonst  geeigneter  Weise  vor  dem  Einsatz  vom  Vorhandensein  der 
+
+geforderten Kenntnisse und Fer(cid:415)gkeiten zu überzeugen. In Bezug auf die Durchführung der 
+
+regelmäßigen  Betriebskontrollen  der  Fdl-in  wurde  deutlich,  dass  seitens  des  EIU  die 
+
+Nachweise  gemäß  Ril 412.9111  bezüglich  der  quan(cid:415)ta(cid:415)v  zu  erbringenden  Anzahl  an 
+
+Betriebskontrollen für das Jahr 2023 nicht vorgelegt werden konnten. Diese Feststellung lässt 
+
+auf  fehlerha(cid:332)e  Durchführung  der  hierzu  einschlägigen  Prozesse  der  Überwachung  von 
+
+Mitarbeitern auf Betriebsstellen des EIU und auf fehlerbeha(cid:332)etes Dokumentenmanagement 
+
+schließen. 
+
+Seite 35 von 44 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 15.11.2023, Bf Lauenbrück 
+
+Die  Analyse  des  Unfallgeschehens  zeigte,  dass  von  der  Fdl-in  Rotenburg  (Wümme)  Strecke 
+
+betriebliche Verfahrensregeln nicht korrekt umgesetzt wurden. Des Weiteren wurde in den 
+
+GSM-R  Gesprächen  die  Sprechdisziplin  nicht  ausreichend  beachtet.  Die  Untersuchungen 
+
+zeigten  weiter,  dass  Verbesserungsbedarf  in  der  Handlungssicherheit  der  Fdl-in  bei  der 
+
+Entgegennahme der Meldung über eine erfolgte Sandung eines Zuges in Verbindung mit der 
+
+Abschni(cid:425)sprüfung bestand.  
+
+Bei einer Abschni(cid:425)sprüfung aufgrund der Meldung über die Sandung durch einen Tf müssen 
+
+die  betroﬀenen  Gleisabschni(cid:425)e,  durch  einen  Fdl  vollständig  iden(cid:415)ﬁziert  und  das  Freisein 
+
+fehlerfrei bewertet werden. Diese Prozedur des Iden(cid:415)ﬁzierens aller maßgeblichen Abschni(cid:425)e 
+
+mit  Gleisstromkreisen  im  Zuständigkeitsbereich  muss  das  rich(cid:415)ge  Ergebnis  mit  zukün(cid:332)ig 
+
+höherer  Sicherheit  liefern.  Zum  Treﬀen  dieser  Feststellung  müssen  einem  Fdl  die  hierfür 
+
+notwendigen  Kenntnisse  systema(cid:415)sch  sicher  vermi(cid:425)elt  und  durch  geeignete  Maßnahmen, 
+
+beispielsweise der Überwachung und fortlaufenden Schulung, aufrechterhalten werden. Die 
+
+BEU wertete die Handlungssicherheit der Fdl-in bei der Durchführung der Abschni(cid:425)sprüfung 
+
+als einen systemischen Faktor [S4] mit Bezug zum ursächlichen Faktor [F4]. 
+
+4.4.2  EVU	Bentheimer	Eisenbahn	AG	
+
+Entsprechend Verordnung (EU) 2018/762 Anhang I Kap. 4.2 muss das Kompetenzmanagement 
+
+der Organisa(cid:415)on sicherstellen, dass Mitarbeiter, die mit Aufgaben die Sicherheit betreﬀend 
+
+zur Erfüllung die in ihre Zuständigkeit fallenden sicherheitsrelevanten Aufgaben befähigt sind. 
+
+Hierunter  fallen  neben  der  Erstausbildung  und  Qualiﬁka(cid:415)on  der  Mitarbeiter  auch  die 
+
+fortlaufenden  Schulungen  und  eine  regelmäßige  Bewertung  der  Kompetenz  sowie  eine 
+
+Überprüfung  der  Eignung  des  Mitarbeiters.  Gemäß  Kap. 2.1.1  e) 
+
+i. V. m.  Kap. 2.3.2 
+
+vorgenannter Verordnung müssen hierfür die notwendigen Ressourcen zur Verfügung gestellt 
+
+werden. 
+
+Nach  dem  S(cid:415)llstand  des  Zuges  im  Bf  Lauenbrück  zeigten  sich  Mängel  bei  betrieblichen 
+
+Handlungen des Tf, die ursächlich für den Eintri(cid:425) des Ereignisses zu sehen sind. Der Tf meldete 
+
+zunächst lediglich seinen Standort und eine Bremsstörung an seinem Zug, ohne die Fdl-in in 
+
+Kenntnis über den Einsatz von Sand bei der Bremsung zu unterrichten. Die in diesem Bericht 
+
+genannten Arbeitsfehler des Tf hinsichtlich der unterlassenen, unverzüglichen Meldung unter 
+
+der Nennung der Ortsangabe des Sandstreuens hä(cid:425)en unter leicht veränderten Umständen 
+
+ein  Ereignis  mit  möglicherweise  noch  höherem  Schadensausmaß  begüns(cid:415)gen  können,  was 
+
+Seite 36 von 44 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 15.11.2023, Bf Lauenbrück 
+
+umso  mehr  ein  sachgerechtes  Handeln  im  Gefahrfall  verlangt  hä(cid:425)e.  Zusätzlich  führte  eine 
+
+Fehlbedienung des Tf, der zunächst sta(cid:425) des Notrufs einen Gruppenruf auslöste, nach dem 
+
+Ereignis zu Einschränkungen bzgl. der Verständlichkeit des Nothaltau(cid:332)rags. Auch in Bezug auf 
+
+die  Eingabe  der  korrekten  Zugdaten  vor  der  Fahrt  oﬀenbarten  die  Untersuchungen 
+
+Arbeitsfehler des Tf. 
+
+Aus  diesen  Feststellungen  folgt,  dass  Betriebskontrollen  und  Schulungsmaßnahmen 
+
+grundsätzlich  erforderlich  erscheinen,  um  die  Handlungssicherheit  zu  kontrollieren.  Jedoch 
+
+blieben  diese  unter  leicht  veränderten  Bedingungen  in  der  Praxis  in  dem  vorliegenden  Fall 
+
+wirkungslos.  Demgegenüber 
+
+stehen  Anforderungen  bzgl.  der  Wirksamkeit  des 
+
+Kompetenzmanagements als Bestandteil des SMS des EVU Bentheimer Eisenbahn AG. 
+
+Instandhaltungsmanagementsystem 
+
+Mit  Konformitätsbescheinigung  AT 31/0222/0548  erbrachte  das  EVU  Bentheimer 
+
+Eisenbahn AG  den  Nachweis  „der  Zulassung  des  Instandhaltungssystems  einer  für  die 
+
+Instandhaltung zuständigen Stelle der Europäischen Union gemäß der Richtlinie (EU)2016/798 
+
+des 
+
+Europäischen 
+
+Parlaments 
+
+und 
+
+des 
+
+Rates 
+
+und 
+
+der 
+
+Durchführungsverordnung (EU) 2019/779 der Kommission.  
+
+Der  Prozess  zur  Aufnahme  von  Fahrzeugen  in  den  Bestand  des  EVU  wurde  im  SMS  der 
+
+Bentheimer Eisenbahn AG beschrieben und in Bezug auf die am Ereignis beteiligten Fahrzeuge 
+
+eingehalten. Entsprechend der Vorgaben im Prozess erfolgte der Au(cid:332)rag zur Instandsetzung 
+
+an das Flo(cid:425)enmanagement des EVU. Die Ergebnisse des Instandhaltungsau(cid:332)rags wurden in 
+
+einem Instandsetzungsau(cid:332)ragsbericht dokumen(cid:415)ert. Die Sandmengenmessung war Teil der 
+
+in  diesem  Kontext  durchgeführten 
+
+Instandhaltungsmaßnahmen  und 
+
+fand  unter 
+
+Berücksich(cid:415)gung  der  Vorgaben  der  Ergänzungsregelung  Nr.  B  011  zum  „Sanden“  sta(cid:425).  Die 
+
+Betriebsfreigabe des Instandhaltungsmanagements erfolgte entsprechend den Vorgaben der 
+
+Verordnung (EU) 2019/779. 
+
+Vor  der  Durchführung  der  Sonderfahrt  am  15.11.2023  wurden  die  beteiligten  Fahrzeuge 
+
+hinsichtlich der Lauﬀähigkeit untersucht und durch den Eisenbahnbetriebsleiter des EVU für 
+
+lauﬀähig erklärt. Die während der Zugfahrt aufgetretenen Störungen am Zug konnten durch 
+
+die zuvor durchgeführten Inspek(cid:415)onen mit hoher Wahrscheinlichkeit weder vorhergesehen, 
+
+noch vermieden werden. 
+
+Seite 37 von 44 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 15.11.2023, Bf Lauenbrück 
+
+4.5  Frühere	Ereignisse	ähnlicher	Art	
+
+Bei  der  Auswertung  eines  Unfalls  am  24.11.2008  im  Bahnhof  Recklinghausen Ost  wurde 
+
+festgestellt,  dass  nach  einem  Anhaltevorgang  mit  Betä(cid:415)gung  der  Sandstreueinrichtung  der 
+
+Gleisstromkreis  die  Besetzung  des  Gleises  nicht  mehr  meldete,  weil  durch  den  Sand 
+
+oﬀensichtlich  eine  Isola(cid:415)onswirkung  zwischen Radsatz  und  Schiene  eingetreten  war.  Dabei 
+
+waren  alle  technischen  Randbedingungen  für  die  rich(cid:415)ge  Funk(cid:415)on  der  Gleisstromkreise 
+
+sowohl am Fahrzeug als auch am Gleisstromkreis im Wesentlichen eingehalten. 
+
+Aufgrund  dieses  Vorfalls  verfügte  das  Eisenbahn-Bundesamt  mit  Allgemeinverfügung 
+
+vom 02.12.2008 
+
+(Az.: 3420-34aüt/038-3418#001) 
+
+eine 
+
+Handlungsanweisung 
+
+für 
+
+Triebfahrzeugführer  zur  Bedienung  der  Sandstreueinrichtung,  um  eine  unbemerkte 
+
+Beeinträch(cid:415)gung  der  Wirkungsweise  der  Gleisstromkreise  zu  vermeiden.  Die  Verfügung 
+
+richtete sich zunächst nur an einzeln fahrende Triebfahrzeuge. Nach dieser Maßnahme des 
+
+Eisenbahn-Bundesamtes zeigte sich jedoch, dass auch bei Fahrten mit mehreren Fahrzeugen 
+
+bzw.  auch  bei  mehrgliedrigen  Triebwageneinheiten 
+
+in  Einzelfällen  eine  kri(cid:415)sche 
+
+Isola(cid:415)onswirkung  durch  Sand  nicht  auszuschließen  ist,  die  bei  Gleisstromkreisen  zur 
+
+unzei(cid:415)gen  Freimeldung  führen  kann.  Diese  Allgemeinverfügung  wurde  auf  Grund  weiterer 
+
+Vorkommnisse durch das EBA ergänzt. 
+
+Dieses Ereignis wurde auch von der BEU (seinerzeit benannt als Eisenbahnuntersuchungsstelle 
+
+des  Bundes)  untersucht.  Aus  der  Untersuchung  dieses  Ereignisses  resul(cid:415)erte  folgende 
+
+Sicherheitsempfehlung Nr. 2012/01: 
+
+„Zur Vermeidung „fehlerha(cid:332)er“ Gleisfreimeldungen durch Gleisstromkreise, sollte 
+
+mindestens geprü(cid:332) werden, ob Triebfahrzeugführer, die Lokleerfahrten mit 
+
+scheibengebremsten Triebfahrzeugen durchführen, den Fahrdienstleiter informieren 
+
+müssen, wenn Sandstreueinrichtungen bedient oder automa(cid:415)sch ausgelöst wurden und 
+
+das Triebfahrzeug zum Halten gekommen ist.“ 
+
+Obwohl  diese  Sicherheitsempfehlung  umgesetzt  wurde,  kam  es  danach  wiederholt  zu 
+
+unerlaubten  Einfahrten 
+
+in  besetzte  Gleisabschni(cid:425)e,  weil  Gleisfreimeldeanlagen  mit 
+
+Gleisstromkreisen  durch  Sandeintrag  unwirksam  wurden.  So  folgten  entsprechende 
+
+Ereignisse  am 22.09.2009 
+
+im  Bf Hannover Hbf,  am 05.11.2010 
+
+im  Bf  Potsdam Hbf, 
+
+am 26.11.2012 im Bf Frankfurt-Niederrad, am 17.12.2012 im Bf Neckarelz und am 22.02.2013 
+
+im Bf Itzehoe. 
+
+Seite 38 von 44 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 15.11.2023, Bf Lauenbrück 
+
+5  Schlussfolgerungen	
+
+Das  folgende  Kapitel  enthält  eine  Zusammenfassung  der  ermi(cid:425)elten  ursächlichen, 
+
+beitragenden  und  systemischen  Faktoren.  Zusätzlich  sind  zwei  weitere  Unterkapitel 
+
+vorgesehen,  um  Informa(cid:415)onen  zu  bereits  ergriﬀenen  Maßnahmen  und  zu  zusätzlichen 
+
+Bemerkungen zu teilen. 
+
+5.1  Zusammenfassung	und	Schlussfolgerung	
+
+Die in diesem Untersuchungsbericht ermi(cid:425)elten Handlungen, Unterlassungen, Vorkommnisse 
+
+oder Umstände um den Ereigniszeitpunkt herum führten zur Zugkollision im Bf Lauenbrück. 
+
+Es wurden drei ursächliche, ein beitragender und zwei systemische Faktoren mit Einﬂuss auf 
+
+das Ereignis durch die BEU ermi(cid:425)elt.  
+
+Zu  ursächlichem  Faktor  „Keine  Verständigung  des  zuständigen  Fdl  mit  Nennung  der 
+
+Ortsangabe des Sandstreuens“ [F1]: 
+
+Bei der ersten Meldung über GSM-R an die zuständige Fdl-in Lauenbrück unterließ der Tf es, 
+
+unverzüglich die bei der Bremsung erfolgte Sandung zu melden. Das unverzügliche Melden 
+
+der  Sandung  in  diesem  Gespräch  hä(cid:425)e  in  Verbindung  mit  seiner  Standortmeldung  dazu 
+
+geführt, dass die Fdl-in unmi(cid:425)elbar in Kenntnis über den konkreten Ort der Sandung auf der 
+
+Weiche 229  gesetzt  worden  wäre  und  in  der  Folge  die  erforderlichen  Maßnahmen  nach 
+
+Ril 408 hä(cid:425)e einleiten können. Die Meldung über das Sanden bei der Bremsung erfolgte durch 
+
+den Tf erst acht Minuten später. Eine mehrminü(cid:415)ge Verzögerung wie im vorliegenden Fall 
+
+führte dazu, dass die Fdl-in den Zusammenhang zwischen Bremsung und Sandeintrag nicht 
+
+mehr korrekt mit der Betriebssitua(cid:415)on in Verbindung brachte. 
+
+Aus der Meldung über das Sanden resul(cid:415)ert erst der fahrdienstliche Handlungsau(cid:332)rag, sodass 
+
+der unverzüglichen Meldung eines Tf über den Sandeintrag eine hohe Sicherheitsbedeutung 
+
+bei der Durchführung des Eisenbahnbetriebs zukommt. In der Folge ha(cid:425)e diese verspätete 
+
+Meldung des Tf des DbZ 24259 Auswirkungen auf die korrekte Anwendung der Regelungen 
+
+aus der Ril 408, da die Fdl-in zunächst, bis zur Meldung des Tf über das Sanden, weiterhin vom 
+
+Regelbetrieb im Bf Lauenbrück ausgehen konnte. 
+
+Zu beitragendem Faktor „Sprechdisziplin während der GSM‐R Gespräche“ [F2]: 
+
+Das um 16:02:54 Uhr mit dem Tf des DbZ 24259 über GSM-R geführte Gespräch wirkte sich 
+
+beitragend auf die weitere Handlungsweise der Fdl-in aus. Dieses Gespräch entsprach nicht 
+
+Seite 39 von 44 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 15.11.2023, Bf Lauenbrück 
+
+den vom EIU deﬁnierten Anforderungen an die Gesprächsabwicklung über GSM-R. Die nicht 
+
+zur Anwendung gekommene klare Sprechdisziplin führte zum Missverständnis über das Halten 
+
+oder  die  Weiterfahrt  des  DbZ  24259  und  schließlich  zu  einer  Unklarheit  hinsichtlich  des 
+
+Standortes  des  DbZ  24259  im  Bf  Lauenbrück.  In  der  Folge  kam  es  zu  einer  fehlerha(cid:332)en 
+
+Detek(cid:415)on des Zuges. Die Fdl-in ging nach dem GSM-R-Gespräch davon aus, dass der Tf des 
+
+DbZ 24259 mit seinem Zug bis zum Bahnsteig vorziehen würde. Da der Tf keine anderwei(cid:415)ge 
+
+Angabe mehr machte, hinterfragte sie ihre getroﬀene Annahme im weiteren Verlauf vor dem 
+
+Ereignis nicht mehr. 
+
+Zu ursächlichem Faktor „Funk(cid:415)onssicherheit der Detek(cid:415)on bei Sandeintrag“ [F3]: 
+
+Eine  selbs(cid:425)ä(cid:415)ge  Gleisfreimeldeanlage  dient  der  automa(cid:415)schen  Detek(cid:415)on  von  Zügen. 
+
+Üblicherweise erfolgt eine derar(cid:415)ge Automa(cid:415)sierung auf einem höheren Sicherheitsniveau, 
+
+als es bspw. durch die Mitwirkung des Menschen erreicht wird. An die Funk(cid:415)onssicherheit 
+
+derar(cid:415)ger  Automa(cid:415)sierung 
+
+in  der  Eisenbahnsicherungstechnik  werden  sehr  hohe 
+
+Anforderungen  gestellt,  zumal  die  auf  diesem  Wege  gewonnenen  Betriebsinforma(cid:415)onen 
+
+Eingangsgrößen 
+
+für  weitere 
+
+automa(cid:415)sierte 
+
+Sicherungsfunk(cid:415)onen  moderner 
+
+Stellwerksanlagen darstellen. 
+
+Durch 
+
+das 
+
+EIU 
+
+konnte 
+
+nachgewiesen  werden, 
+
+dass 
+
+die 
+
+erforderlichen 
+
+Instandhaltungsmaßnahmen  in  den  vorgesehenen  regelmäßigen  Abständen  durchgeführt 
+
+wurden. Hierdurch alleine kann dem Umstand, dass Fahrzeuge nach einem Sandeintrag nicht 
+
+korrekt detek(cid:415)ert werden, jedoch nicht vorgebeugt werden. 
+
+Die  im  vorliegenden  Ereignis  eingesetzte  Gleisfreimeldeanlage  mit  Gleisstromkreisen  stellt 
+
+eine in der Entwicklung der Eisenbahn-Sicherungstechnik ältere Technik zur automa(cid:415)sierten 
+
+Detek(cid:415)on des Freiseins von Gleisabschni(cid:425)en dar. Eine alterna(cid:415)ve Technik ist der Einsatz von 
+
+selbs(cid:425)ä(cid:415)gen  Gleisfreimeldeanlagen  mit  Achszähltechnik.  Diese  registrieren  die  von 
+
+zugehörigen  Sensoren  erhobene  Anzahl  der  in  und  aus  einem  Gleisabschni(cid:425)  gefahrenen 
+
+Radsätzen  von  Eisenbahnfahrzeugen.  Aus  diesem  Vergleich  sind  Informa(cid:415)onen  über  das 
+
+Freisein oder die Besetzung eines Gleisabschni(cid:425)s für weitere automa(cid:415)sierte Funk(cid:415)onen eines 
+
+Stellwerks  verwertbar.  Die  Funk(cid:415)onsweise  der  selbs(cid:425)ä(cid:415)gen  Gleisfreimeldeanlagen  mit 
+
+Achszähltechnik kann nicht durch z. B. Sandeintrag gestört werden. 
+
+Durch  gefährliche  Ereignisse 
+
+in  der  Vergangenheit 
+
+ist  mi(cid:425)lerweile  anerkannt,  dass 
+
+Gleisstromkreise durch u. a. Sandeintrag fehlerha(cid:332)e Informa(cid:415)onen über eine Gleisbelegung 
+
+Seite 40 von 44 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 15.11.2023, Bf Lauenbrück 
+
+an  den  Fdl  ausgeben  können.  Anhand  der  Anlage  erhobene  und  in  weiteren  Prozessen 
+
+verarbeitete  Sicherheitsinforma(cid:415)onen  sind  in  diesem  Szenario,  entgegen  der  delegierten 
+
+Verordnung (EU)  2018/762  Anhang II  Kap. 4.4.3,  nicht  mehr  korrekt.  Das  vorgesehene 
+
+sicherheitsgerichtete  Leistungsniveau  der  Gleisfreimeldeanlage  als  Sachanlage  steht  dann, 
+
+entgegen der delegierten Verordnung (EU) 2018/762 Anhang II Kap. 5.2.2 a) nicht mehr zur 
+
+Verfügung.  Daher  wurden  im  Eisenbahnsektor  Kompensa(cid:415)onsmaßnahmen  betreﬀend  den 
+
+Betrieb,  das  Fahrzeugdesign  und  die  Instandhaltung  der  Anlagen  und  Schienenfahrzeuge 
+
+getroﬀen.  Die  BEU  empﬁehlt  daher  mit  Sicherheitsempfehlung  Nr.  09/2025,  zukün(cid:332)ig 
+
+Gleisfreimeldeeinrichtungen  zu  verwenden,  deren  Funk(cid:415)on  nicht  durch  z.  B.  Sandeintrag 
+
+beeinträch(cid:415)gt werden können. 
+
+Zu systemischem Faktor „Verfahrensbasierte Kompensa(cid:415)on der Funk(cid:415)onsbeeinträch(cid:415)gung 
+
+einer Gleisfreimeldeanlage infolge Sandeintrag“ [S3]: 
+
+Infolge mehrere Ereignisse in den Jahren 2008 bis 2013 wurden im deutschen Eisenbahnsektor 
+
+unter Begleitung durch das Eisenbahn-Bundesamt Regeln eingeführt, damit die verschiedenen 
+
+Akteure in ihrem Verantwortungsbereich zu einer Reduzierung des Risikos infolge Sandeintrag 
+
+in Bereichen mit selbs(cid:425)ä(cid:415)gen Gleisfreimeldeanlagen mit Gleisstromkreisen beitragen. 
+
+Die  aufgrund  von  Anordnungen  des  Eisenbahn-Bundesamts  eingeführte,  im  vorliegenden 
+
+Ereignis nicht wirksam befolgte, Prozedur (vgl. [F1]) zwischen Tf und Fdl infolge Anhalten eines 
+
+Fahrzeugs  mit  Sandung  wurde  in  die  betrieblichen  Regelwerke  des  EIU  und  der  EVU 
+
+aufgenommen. 
+
+Die  für  Fahrzeuge  relevanten  Regelungen  sind  im  Status  „anerkannte  Regeln  der  Technik“ 
+
+unter  dem  Titel  Ergänzungsregelung  Nr. B 011  zum  „Sanden"  als  Ergänzung  zu  Sektor-
+
+bezogenen  „Regelungen  für  die  bremstechnische  Beurteilung  von  Eisenbahnfahrzeugen“ 
+
+veröﬀentlicht worden. 
+
+Die  Ergänzungsregelung  Nr. B 011  enthält  Grundsätze  und  Verfahren,  welche 
+
+für 
+
+Eisenbahnen, Instandhaltungsstellen und Hersteller relevant sind, um die Ausbringungsmenge 
+
+von  Sand  über  die  Zeit  der  Bedienung  der  Sandstreueinrichtung  weiter  dem  Zweck 
+
+entsprechend, aber möglichst gering zu halten. 
+
+Im  Hinblick  auf  das  vorliegende  Ereignis  mit  Nichtbeachtung  kompensierender 
+
+Meldeverfahren  und  den  ersichtlichen  Fortbestand  von  Gleisstromkreisen  bei  den 
+
+Eisenbahnen  des  Bundes  sieht  es  die  BEU  geboten,  dass  die  Akteure  des  deutschen 
+
+Seite 41 von 44 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 15.11.2023, Bf Lauenbrück 
+
+Eisenbahnsystems  über  den  Fortbestand  bzw.  die  Weiterentwicklung  der  Regeln  weiter 
+
+beraten.  Ziele  zur  Risikoreduzierung  stehen  mit  der  Verbesserung  der  Korrektheit  der 
+
+Sicherheitsinforma(cid:415)onen  bzw.  mit  der  Verbesserung  des 
+
+Leistungsniveaus  der 
+
+Gleisfreimeldeanlagen in Zusammenhang. Aufgrund des technischen Zusammenwirkens von 
+
+Fahrzeugen  und  Infrastruktur  erstrecken  sich  Lösungsansätze  hierbei  auf  verschiedene 
+
+Akteure  des  Eisenbahnsektors,  einschließlich  der  Überprüfung  von  Vorgaben  zu 
+
+Handlungsanweisungen 
+
+an 
+
+die 
+
+Betriebspersonale. 
+
+Entsprechend 
+
+ergeht 
+
+die 
+
+Sicherheitsempfehlung Nr. 08/2025 zu diesem systemischen Faktor [S3]. 
+
+Zu ursächlichem Faktor „Unterlassene Abschni(cid:425)sprüfung durch die Fdl‐in“ [F4]: 
+
+Als der Tf des DbZ 24259 den Einsatz von Sand bei der Bremsung meldete, nahm die Fdl-in mit 
+
+hoher Wahrscheinlichkeit an, dass er sich bereits in Fahrtrichtung auf der Höhe des Bahnsteigs 
+
+im Gleis 231 befände und dort gesandet haben müsse, denn die Weiche 229 wurde ihr auf 
+
+dem Stell(cid:415)sch durch die Ausleuchtung als „frei“ angezeigt. Dieser Belegungszustand der auf 
+
+dem  Stell(cid:415)sch  angezeigten  Gleise  entsprach  ihrer  Annahme  aus  dem  zuvor  mit  dem  Tf 
+
+geführten GSM-R Gespräch und der aus ihrer Sichtweise getroﬀenen Vereinbarung mit dem 
+
+Tf, der bis zum Bahnsteig des Bf Lauenbrück vorziehen sollte. 
+
+Folglich war es ihr durch die Informa(cid:415)onen, die von der Stellwerksanlage ausgegeben wurden, 
+
+technisch möglich, dem ICE 615 eine reguläre Einfahrzugstraße einzustellen, was ihre zuvor 
+
+getroﬀene Annahme wohl nochmals bestärkt haben dür(cid:332)e. Die verspätete Meldung des Tf 
+
+über  den  Einsatz  von  Sand  im  Bf  Lauenbrück  führte  nicht  zu  der  Erkenntnis,  eine 
+
+Abschni(cid:425)sprüfung 
+
+in  den  Gleisabschni(cid:425)en  mit  Gleisstromkreisen 
+
+im  Bf  Lauenbrück 
+
+durchzuführen.  Auch  nach  dieser  Meldung  wertete  sie  fälschlicherweise  weiterhin  die 
+
+Anzeigen  ihres  Stell(cid:415)schs  bezüglich  der  Gleisbelegung  aus,  obwohl  dies  nicht  mehr  -  ohne 
+
+weitere Maßnahmen nach Ril 408 zu treﬀen - zulässig war. 
+
+Zu systemischem Faktor „Handlungssicherheit der Fdl‐in“ [S4]: 
+
+Die  Untersuchungen  der  BEU  ergaben,  dass  die  Handlungssicherheit  der  Fdl-in  einen 
+
+systemischen  Faktor  innerhalb  des  Ereignisses  darstellte.  Es  wurde  deutlich,  dass  die 
+
+durchgeführten  Maßnahmen 
+
+zu  Training  und  Überwachung 
+
+sicherheitsrelevanter 
+
+Handlungsabläufe  am  Bedienplatz  ohne  Bezug  zum  Themenkomplex  Sandung  auf 
+
+Gleisabschni(cid:425)en  mit  Gleisstromkreisen  und  Durchführung  einer  Abschni(cid:425)sprüfung 
+
+durchgeführt wurden. 
+
+Seite 42 von 44 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 15.11.2023, Bf Lauenbrück 
+
+Durch  diese  Vorgehensweisen  war  durch  das  EIU  nicht  sichergestellt,  dass  die  der  Fdl-in 
+
+grundlegend  vermi(cid:425)elten,  zwingend  erforderlichen  Kenntnisse  und  Fähigkeiten  zur 
+
+Beherrschung  risikoreicher  Handlungen  entsprechend  der  Anforderungen  der  Einordnung 
+
+ihres Arbeitsplatzes gemäß Ril 412.9111 Abschni(cid:425) 4 Abs. 3 in die Funk(cid:415)onsstufe „A“ dauerha(cid:332) 
+
+vorhanden waren. Es war in der Organisa(cid:415)on des EIU nicht sichergestellt, dass rechtzei(cid:415)g ein 
+
+Verlust zuvor erlernter Kompetenzen erkannt wurde, um Maßnahmen zu treﬀen. 
+
+Aus den in Kapitel 4.3.1 getroﬀenen Feststellungen zu Ausbildung, Training und Überwachung 
+
+der Fdl-in resul(cid:415)ert, dass das EIU die gemäß Ril 412.9111 Abschni(cid:425) 4 Abs. 5 geforderte Anzahl 
+
+an Betriebskontrollen für das Kalenderjahr 2023 der Fdl-in gegenüber der BEU nicht belegt 
+
+werden konnte. 
+
+Im Rahmen der Untersuchungen zur Zugkollision vom 17.11.2022 zwischen dem Bf Meinersen 
+
+und  dem  Hp Leiferde  (b Gi(cid:300)orn)  stellte  die  BEU  bereits  Deﬁzite 
+
+im  gesamtha(cid:332) 
+
+risikoorien(cid:415)erten Ansatz des Kompetenzmanagements des EIU fest. 
+
+Die BEU erließ eine Sicherheitsempfehlung Nr. 04/2025 mit folgendem Inhalt: 
+
+„Es wird empfohlen, zur Verstärkung des risikoorien(cid:415)erten Ansatzes in allen Phasen des 
+
+Kompetenzmanagements die Verfahren für Erhalt und Aktualisierung der 
+
+sicherheitsrelevanten Kenntnisse und Fer(cid:415)gkeiten arbeitsplatzbezogen zu überprüfen und 
+
+soweit notwendig zu verbessern. Hierbei sind die Tä(cid:415)gkeiten der Mitarbeiter mit 
+
+sicherheitsrelevanten Funk(cid:415)onen und mit leitenden Aufgaben auf allen relevanten Ebenen 
+
+einzubeziehen (Verordnung (EU) 2018/762, Anhang II, Kap. 4.2.1 und 6.1.1 a)).“ 
+
+Aufgrund  dieser  bereits  ausgesprochenen  Sicherheitsempfehlung  wird  bzgl.  der 
+
+Feststellungen  zu  Deﬁziten  am  Kompetenzmanagement  des  EIU  die  Zugkollision  vom 
+
+15.11.2023 
+
+im  Bf 
+
+Lauenbrück  betreﬀend  keine  weitere  Sicherheitsempfehlung 
+
+ausgesprochen. 
+
+5.2  Seit	dem	Ereignis	getroffene	Maßnahmen	
+
+Im Nachgang zu dem Ereignis in Lauenbrück führte die DB InfraGO AG ein Mitarbeitergespräch 
+
+mit der Fdl-in durch. Kün(cid:332)ig soll sie nicht mehr in der Funk(cid:415)on als Fdl-in eingesetzt werden. 
+
+Das EVU Bentheimer Eisenbahn AG erstellte aufgrund des Ereignisses eine Dienstanweisung 
+
+mit dem Titel „Standortmeldungen bei Störungen und außerplanmäßigen Halten von Zügen“. 
+
+Bei  außerplanmäßigen  Halten,  die  mit  dem  Einsatz  von  Sand  einhergehen,  sollen  Tf  eine 
+
+Seite 43 von 44 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 15.11.2023, Bf Lauenbrück 
+
+ergänzende Meldung an den Fdl abgeben, dass der Standort des Zugschlusses unbekannt ist. 
+
+Zudem  sollen  die  Tf  das  Gleis  aus  Gründen  der  Unfallverhütung  sperren  lassen,  um  den 
+
+Zugschluss festzustellen. 
+
+Das  EVU  teilte  weiter  mit,  dass  der  an  diesem  Ereignis  beteiligte  Tf  nicht  weiter  im 
+
+Unternehmen eingesetzt wird. 
+
+5.3  Zusätzliche	Bemerkungen	
+
+En(cid:414)ällt. 
+
+6  Sicherheitsempfehlungen	
+
+Gemäß  § 6 EUV  und  Art. 26  Abs. 2  der  Richtlinie (EU) 2016/798  ergeht  nachfolgende 
+
+Sicherheitsempfehlung: 
+
+Lfd. 
+
+Nr. 
+
+Adressat und Sicherheitsempfehlung 
+
+Betri(cid:335) Unternehmen 
+
+08/2025 
+
+Sicherheitsbehörde: 
+
+EIU, EVU, ECM, Hersteller 
+
+Es wird empfohlen, die Ergänzungsregelung 
+Nr. B 011 zum „Sanden" sowie die betrieblichen 
+Verfahrensweisen bezüglich des Meldeverfahrens 
+einer Sandung zu überprüfen und 
+weiterzuentwickeln. 
+
+09/2025 
+
+Sicherheitsbehörde: 
+
+EIU 
+
+Es wird empfohlen, zukün(cid:332)ig 
+Gleisfreimeldeeinrichtungen zu verwenden, deren 
+Funk(cid:415)on nicht durch z. B. Sandeintrag 
+beeinträch(cid:415)gt werden kann. (Verordnung (EU) 
+2018/762 Anhang II Kap.  5.2.2) 
+
+Seite 44 von 44 
+
+ 
+ 
+ 
 

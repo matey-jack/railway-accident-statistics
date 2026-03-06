@@ -1,1066 +1,1729 @@
 Untersuchungsbericht
-Aktenzeichen:
 
-60uu2011-08/127-3323
+Aktenzeichen: 
 
-Stand:
+60uu2011-08/127-3323 
 
-17.03.2022 Version: 1.0
+Stand: 
 
-Erstveröﬀentlichung: 21.03.2022
+17.03.2022 Version:  1.0 
 
-Gefährliches Ereignis im Eisenbahnbetrieb
+Erstveröﬀentlichung:    21.03.2022 
+
+Gefährliches	Ereignis	im	Eisenbahnbetrieb 
 
 Ereignisart:
 
-Zugentgleisung
+Zugentgleisung 
 
 Datum:
 
-23.08.2011
-
 Zeit:
 
-10:29 Uhr
+23.08.2011 
 
-Benachbarte Betriebsstellen:
+10:29 Uhr 
 
-Bf Belzig – Bf Wiesenburg (Mark)
+Benachbarte Betriebsstellen:  
+
+Bf Belzig – Bf Wiesenburg (Mark) 
 
 Streckennummer:
 
-6118
-
 Kilometer:
 
-65,6
+6118 
 
-Untersuchungsbericht
-Zugentgleisung, 23.08.2011, Bf Belzig – Bf Wiesenburg (Mark)
+65,6 
 
-Veröﬀentlicht durch:
-Bundesstelle für Eisenbahnunfalluntersuchung
-Heinemannstraße 6
-53175 Bonn
+Untersuchungsbericht 
 
-Untersuchungsbericht
-Zugentgleisung, 23.08.2011, Bf Belzig – Bf Wiesenburg (Mark)
+Zugentgleisung, 23.08.2011, Bf Belzig – Bf Wiesenburg (Mark) 
 
-Inhaltsverzeichnis
-I.
+Veröﬀentlicht durch: 
 
-Änderungsverzeichnis: .......................................................................................... II
+Bundesstelle für Eisenbahnunfalluntersuchung 
 
-II.
+Heinemannstraße 6 
 
-Abbildungsverzeichnis: ........................................................................................ III
+53175 Bonn 
 
-III.
+ 
+Untersuchungsbericht 
 
-Tabellenverzeichnis: ............................................................................................ III
+Zugentgleisung, 23.08.2011, Bf Belzig – Bf Wiesenburg (Mark) 
 
-IV.
+Inhaltsverzeichnis	
 
-Abkürzungsverzeichnis: ....................................................................................... IV
+I. 
 
-1
+II. 
 
-Vorbemerkungen .................................................................................................. 1
+Änderungsverzeichnis: .......................................................................................... II 
 
-1.1
+Abbildungsverzeichnis: ........................................................................................ III 
 
-Organisatorischer Hinweis ...................................................................................... 1
+III. 
 
-1.2
+Tabellenverzeichnis: ............................................................................................ III 
 
-Ziel der Eisenbahnunfalluntersuchung.................................................................... 2
+IV. 
 
-2
+Abkürzungsverzeichnis: ....................................................................................... IV 
 
-Zusammenfassung ................................................................................................ 3
+1 
 
-2.1
+1.1 
 
-Kurzbeschreibung des Ereignisses........................................................................... 3
+1.2 
 
-2.2
+2 
 
-Folgen ...................................................................................................................... 3
+2.1 
 
-2.3
+2.2 
 
-Ursachen.................................................................................................................. 3
+2.3 
 
-2.4
+2.4 
 
-Sicherheitsempfehlungen ....................................................................................... 3
+3 
 
-3
+3.1 
 
-Allgemeine Angaben ............................................................................................. 4
+3.2 
 
-3.1
+3.3 
 
-Lage und Beschreibung des Ereignisortes ............................................................... 4
+3.4 
 
-3.2
+4 
 
-Beteiligte und Mitwirkende..................................................................................... 5
+4.1 
 
-3.3
+4.2 
 
-Äußere Bedingungen ............................................................................................... 5
+4.3 
 
-3.4
+Vorbemerkungen .................................................................................................. 1 
 
-Todesopfer, Verletzte und Sachschäden................................................................. 6
+Organisatorischer Hinweis ...................................................................................... 1 
 
-4
+Ziel der Eisenbahnunfalluntersuchung .................................................................... 2 
 
-Untersuchungsprotokoll ....................................................................................... 7
+Zusammenfassung ................................................................................................ 3 
 
-4.1
+Kurzbeschreibung des Ereignisses ........................................................................... 3 
 
-Zusammenfassung von Aussagen und Stellungnahmen ......................................... 7
+Folgen ...................................................................................................................... 3 
 
-4.2
+Ursachen .................................................................................................................. 3 
 
-Notfallmanagement ................................................................................................ 7
+Sicherheitsempfehlungen ....................................................................................... 3 
 
-4.3
+Allgemeine Angaben ............................................................................................. 4 
 
-Untersuchung der bautechnischen Infrastruktur ................................................... 7
+Lage und Beschreibung des Ereignisortes ............................................................... 4 
 
-4.3.1
+Beteiligte und Mitwirkende ..................................................................................... 5 
 
-Gleisanlagen im Fahrweg des FIR 51474 durch den Bf Belzig ................................. 7
+Äußere Bedingungen ............................................................................................... 5 
 
-4.3.2
+Todesopfer, Verletzte und Sachschäden ................................................................. 6 
 
-Unterhaltungszustand der Gleisanlagen im Bf Belzig ............................................. 9
+Untersuchungsprotokoll ....................................................................................... 7 
 
-4.4
+Zusammenfassung von Aussagen und Stellungnahmen ......................................... 7 
 
-Untersuchung der Leit- und Sicherungstechnik ...................................................... 9
+Notfallmanagement ................................................................................................ 7 
 
-I
+Untersuchung der bautechnischen Infrastruktur ................................................... 7 
 
-Untersuchungsbericht
-Zugentgleisung, 23.08.2011, Bf Belzig – Bf Wiesenburg (Mark)
+4.3.1 
 
-I.
+Gleisanlagen im Fahrweg des FIR 51474 durch den Bf Belzig ................................. 7 
 
-4.5
+4.3.2 
 
-Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers ................. 10
+Unterhaltungszustand der Gleisanlagen im Bf Belzig ............................................. 9 
 
-4.6
+4.4 
 
-Untersuchung der betrieblichen Abläufe des EVU ............................................... 10
+Untersuchung der Leit- und Sicherungstechnik ...................................................... 9 
 
-4.6.1
+I 
 
-Vorbereitung für den Transport ............................................................................ 10
+ 
+ 
+Untersuchungsbericht 
 
-4.6.2
+Zugentgleisung, 23.08.2011, Bf Belzig – Bf Wiesenburg (Mark) 
 
-Beförderungsbedingungen für das Fahrzeug ........................................................ 10
+4.5 
 
-4.6.3
+4.6 
 
-Auswertung des Fahrtverlaufs .............................................................................. 11
+Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers ................. 10 
 
-4.7
+Untersuchung der betrieblichen Abläufe des EVU ............................................... 10 
 
-Untersuchung von Fahrzeugen ............................................................................. 13
+4.6.1 
 
-4.7.1
+Vorbereitung für den Transport ............................................................................ 10 
 
-Der Tiefladewagen Uaai 839 ................................................................................. 13
+4.6.2 
 
-4.7.2
+Beförderungsbedingungen für das Fahrzeug ........................................................ 10 
 
-Untersuchungen am Fahrzeug .............................................................................. 18
+4.6.3 
 
-4.7.3
+Auswertung des Fahrtverlaufs .............................................................................. 11 
 
-Unterlagen zur laufenden Instandhaltung des Tiefladewagens Uaai 839 ............ 24
+4.7 
 
-5
+Untersuchung von Fahrzeugen ............................................................................. 13 
 
-Auswertung ........................................................................................................ 25
+4.7.1 
 
-5.1
+Der Tiefladewagen Uaai 839 ................................................................................. 13 
 
-Ereignisrekonstruktion .......................................................................................... 25
+4.7.2 
 
-5.2
+Untersuchungen am Fahrzeug .............................................................................. 18 
 
-Bewertung und Schlussfolgerung .......................................................................... 26
+4.7.3 
 
-6
+Unterlagen zur laufenden Instandhaltung des Tiefladewagens Uaai 839 ............ 24 
 
-Bisher getroffene Maßnahmen ........................................................................... 28
+5 
 
-7
+5.1 
 
-Sicherheitsempfehlungen ................................................................................... 28
+5.2 
 
-Änderungsverzeichnis:
-Änderung
+6 
 
-Stand
+7 
 
-II
+Auswertung ........................................................................................................ 25 
 
-Untersuchungsbericht
-Zugentgleisung, 23.08.2011, Bf Belzig – Bf Wiesenburg (Mark)
+Ereignisrekonstruktion .......................................................................................... 25 
 
-II.
+Bewertung und Schlussfolgerung .......................................................................... 26 
 
-Abbildungsverzeichnis:
-Abbildung 1: Lageplan ................................................................................................................ 4
-Abbildung 2: Gleislageskizze ...................................................................................................... 5
-Abbildung 3: Fahrweg des FIR 51474 Überholungsgleis 51G104 nach Gleis 51G101 ............... 8
-Abbildung 4: Entgleisungsfolgeschäden etwa in km 66,1 .......................................................... 8
-Abbildung 5: Grafische Darstellung des Fahrtverlaufs des FIR 51474 ..................................... 12
-Abbildung 6: Systemskizze Tiefladewagen Uaai 839 (mit Ladegut) ......................................... 14
-Abbildung 7: Kurzkupplung (Referenzfahrzeug) ...................................................................... 15
-Abbildung 8: Tiefladewagen Uaai 839 nach der Entgleisung ................................................... 16
-Abbildung 9: Arretierung der Tragschnäbel am Halbwagen 1 ................................................. 17
-Abbildung 10: Fehlende Arretierung der Tragschnäbel am Halbwagen 2 ............................... 18
-Abbildung 11: Arretierung am Tragschnabel A 2 ..................................................................... 19
-Abbildung 12: Arretierung am Tragschnabel B 2 ..................................................................... 20
-Abbildung 13: Schematische Darstellung Lasche-Bolzen-Verbindung .................................... 21
-Abbildung 14: Bruchflächen an der Fokkernadel und am Splint ............................................. 21
-Abbildung 15: Schäden am Mittelteil des Unfallfahrzeugs mit Kurzkupplung ........................ 22
-Abbildung 16: Schäden an der Kurzkupplung .......................................................................... 23
-Abbildung 17: Beschädigte Fokkernadel .................................................................................. 24
-Abbildung 18: Geänderte Kurzkupplung .................................................................................. 28
+Bisher getroffene Maßnahmen ........................................................................... 28 
 
-III.
+Sicherheitsempfehlungen ................................................................................... 28 
 
-Tabellenverzeichnis:
-Tabelle 1: Übersicht der geschätzten Schadenshöhe ................................................................ 6
-Tabelle 2: Technische Daten des Tiefladewagens Uaai 839 .................................................... 16
+I.  Änderungsverzeichnis:	
 
-III
+Änderung 
 
-Untersuchungsbericht
-Zugentgleisung, 23.08.2011, Bf Belzig – Bf Wiesenburg (Mark)
+Stand 
 
-IV.
+II 
 
-Abkürzungsverzeichnis:
-AEG
+ 
+ 
+ 
+ 
+ 
+ 
+	
+	
+Untersuchungsbericht 
 
-Allgemeines Eisenbahngesetz
+Zugentgleisung, 23.08.2011, Bf Belzig – Bf Wiesenburg (Mark) 
 
-BEU
+II.  Abbildungsverzeichnis:	
 
-Bundesstelle für Eisenbahnunfalluntersuchung
+Abbildung 1: Lageplan ................................................................................................................ 4 
 
-BEVVG
+Abbildung 2: Gleislageskizze ...................................................................................................... 5 
 
-Bundeseisenbahnverkehrsverwaltungsgesetz
+Abbildung 3: Fahrweg des FIR 51474 Überholungsgleis 51G104 nach Gleis 51G101 ............... 8 
 
-Bf
+Abbildung 4: Entgleisungsfolgeschäden etwa in km 66,1 .......................................................... 8 
 
-Bahnhof
+Abbildung 5: Grafische Darstellung des Fahrtverlaufs des FIR 51474 ..................................... 12 
 
-BMVI
+Abbildung 6: Systemskizze Tiefladewagen Uaai 839 (mit Ladegut) ......................................... 14 
 
-Bundesministerium für Verkehr und digitale Infrastruktur
+Abbildung 7: Kurzkupplung (Referenzfahrzeug) ...................................................................... 15 
 
-BÜ
+Abbildung 8: Tiefladewagen Uaai 839 nach der Entgleisung ................................................... 16 
 
-Bahnübergang
+Abbildung 9: Arretierung der Tragschnäbel am Halbwagen 1 ................................................. 17 
 
-Bza
+Abbildung 10: Fehlende Arretierung der Tragschnäbel am Halbwagen 2 ............................... 18 
 
-Beförderungszusage für außergewöhnliche Sendungen
+Abbildung 11: Arretierung am Tragschnabel A 2 ..................................................................... 19 
 
-EIU
+Abbildung 12: Arretierung am Tragschnabel B 2 ..................................................................... 20 
 
-Eisenbahninfrastrukturunternehmen
+Abbildung 13: Schematische Darstellung Lasche-Bolzen-Verbindung .................................... 21 
 
-ESTW
+Abbildung 14: Bruchflächen an der Fokkernadel und am Splint ............................................. 21 
 
-Elektronisches Stellwerk
+Abbildung 15: Schäden am Mittelteil des Unfallfahrzeugs mit Kurzkupplung ........................ 22 
 
-EU
+Abbildung 16: Schäden an der Kurzkupplung .......................................................................... 23 
 
-Europäische Union
+Abbildung 17: Beschädigte Fokkernadel .................................................................................. 24 
 
-EUB
+Abbildung 18: Geänderte Kurzkupplung .................................................................................. 28 
 
-Eisenbahn-Unfalluntersuchungsstelle des Bundes
+III.  Tabellenverzeichnis:	
 
-EVU
+Tabelle 1: Übersicht der geschätzten Schadenshöhe ................................................................ 6 
 
-Eisenbahnverkehrsunternehmen
+Tabelle 2: Technische Daten des Tiefladewagens Uaai 839 .................................................... 16 
 
-GSM-R
+III 
 
-Global System for Mobile Communica ons-Rail
+ 
+ 
+ 
+ 
+	
+Untersuchungsbericht 
 
-HCS
+Zugentgleisung, 23.08.2011, Bf Belzig – Bf Wiesenburg (Mark) 
 
-Heavy Cargo + Service GmbH
+IV.  Abkürzungsverzeichnis:	
 
-km
+AEG 
 
-Kilometer
+BEU 
 
-NCS
+Allgemeines Eisenbahngesetz 
 
-Nuclear Cargo + Service GmbH
+Bundesstelle für Eisenbahnunfalluntersuchung 
 
-özF
+BEVVG 
 
-örtlich zuständiger Fahrdienstleiter
+Bundeseisenbahnverkehrsverwaltungsgesetz 
 
-PZB
+Bf 
 
-Punk örmige Zugbeeinflussung
+Bahnhof 
 
-Ril
+BMVI 
 
-Richtlinie
+Bundesministerium für Verkehr und digitale Infrastruktur 
 
-Tfz
+BÜ 
 
-Triebfahrzeug
+Bza 
 
-UZ
+EIU 
 
-Unterzentrale
+Bahnübergang 
 
-VzG
+Beförderungszusage für außergewöhnliche Sendungen 
 
-Verzeichnis der örtlich zulässigen Geschwindigkeiten
+Eisenbahninfrastrukturunternehmen 
 
-ZAS
+ESTW 
 
-Zentrale Auswertestelle für Fahrdatenaufzeichnungen
+Elektronisches Stellwerk 
 
-IV
+EU 
 
-Untersuchungsbericht
-Zugentgleisung, 23.08.2011, Bf Belzig – Bf Wiesenburg (Mark)
+EUB 
 
-1 Vorbemerkungen
-Das Kapitel Vorbemerkungen befasst sich mit allgemeinen Informa onen zur Bundesstelle für
-Eisenbahnunfalluntersuchung (BEU). Dabei wird die gesetzliche Grundlage genannt und die
-Au auorganisa on kurz umrissen.
+EVU 
 
-1.1 Organisatorischer Hinweis
-Mit der Richtlinie 2004/49/EG des Europäischen Parlaments und des Rates, über Eisenbahnsicherheit (Eisenbahnsicherheitsrichtlinie), wurden die Mitgliedstaaten der Europäischen Union
-(EU) erstmals verpflichtet, unabhängige Untersuchungsstellen für die Untersuchung bestimmter gefährlicher Ereignisse einzurichten.
-Die Richtlinie wurde mit dem 5. Gesetz zur Änderung eisenbahnrechtlicher Vorschriften vom
-16.04.2007 umgesetzt und die Eisenbahn-Unfalluntersuchungsstelle des Bundes (EUB) eingerichtet.
-Mit dem Gesetz zur Neuordnung der Eisenbahnunfalluntersuchung vom 27.06.2017 wurden
-u. a. die rechtlichen Grundlagen zur Errichtung der Bundesstelle für Eisenbahnunfalluntersuchung (BEU) geschaffen. Hierdurch wurde das Allgemeine Eisenbahngesetz (AEG) und das
-Bundeseisenbahnverkehrsverwaltungsgesetz (BEVVG) geändert, wobei Zuständigkeiten und
-Kompetenzen auf die neue Behörde, die BEU, übertragen wurden. Mit Errichtung der BEU
-wurde die EUB, bestehend aus der Leitung der EUB im Bundesministerium für Verkehr und
-digitale Infrastruktur (BMVI) und der Untersuchungszentrale der EUB im Eisenbahn-Bundesamt (EBA), aufgelöst. Mit dem Organisationserlass des Bundesministeriums für Verkehr und
-digitale Infrastruktur zur Errichtung der Bundesstelle für Eisenbahnunfalluntersuchung vom
-14.07.2017 wurde die BEU als selbstständige Bundesoberbehörde im Geschäftsbereich des
-BMVI zur Erfüllung der Aufgaben nach § 7 BEVVG errichtet. Die Aufgaben zur Untersuchung
-bestimmter gefährlicher Ereignisse im Eisenbahnbetrieb gingen dabei nahtlos von der EUB auf
-die BEU über.
-Da das gefährliche Ereignis vor der Errichtung der BEU eintrat, wurden bestimmte Untersuchungshandlungen noch durch die EUB vorgenommen, auf die im Bericht entsprechend verwiesen wird. Alle während der Untersuchung gewonnenen Erkenntnisse wurden kontinuierlich mit den betroffenen Eisenbahnen und der Sicherheitsbehörde geteilt und einzelfallbezogene Sicherheitsempfehlungen ausgesprochen.
-Näheres hierzu ist im Internet unter www.beu.bund.de eingestellt.
+Europäische Union 
 
-Seite 1 von 28
+Eisenbahn-Unfalluntersuchungsstelle des Bundes 
 
-Untersuchungsbericht
-Zugentgleisung, 23.08.2011, Bf Belzig – Bf Wiesenburg (Mark)
+Eisenbahnverkehrsunternehmen 
 
-1.2 Ziel der Eisenbahnunfalluntersuchung
-Ziel und Zweck der Untersuchungen ist es, die Ursachen von gefährlichen Ereignissen aufzuklären und hieraus Hinweise zur Verbesserung der Sicherheit abzuleiten. Untersuchungen der
-BEU dienen nicht dazu, ein Verschulden festzustellen oder Fragen der Haftung oder sonstiger
-zivilrechtlicher Ansprüche zu klären und werden unabhängig von jeder gerichtlichen Untersuchung durchgeführt.
-Die Untersuchung umfasst die Sammlung und Auswertung von Informationen, die Erarbeitung
-von Schlussfolgerungen einschließlich der Feststellung der Ursachen und gegebenenfalls die
-Abgabe von Sicherheitsempfehlungen. Die Vorschläge der Untersuchungsstelle zur Vermeidung von Unfällen und Verbesserung der Sicherheit im Eisenbahnverkehr werden der Sicherheitsbehörde und, soweit erforderlich, anderen Stellen und Behörden oder anderen Mitgliedstaaten der EU in Form von Sicherheitsempfehlungen mitgeteilt.
+GSM-R 
 
-Seite 2 von 28
+Global System for Mobile Communica(cid:415)ons-Rail  
 
-Untersuchungsbericht
-Zugentgleisung, 23.08.2011, Bf Belzig – Bf Wiesenburg (Mark)
+HCS 
 
-2 Zusammenfassung
-Das Kapitel befasst sich mit einer kurzen Darstellung des Ereignisherganges, den Folgen und
-den Primärursachen. Abschließend werden eventuell erteilte Sicherheitsempfehlungen aufgeführt.
+km 
 
-2.1 Kurzbeschreibung des Ereignisses
-Am 23.08.2011 um ca. 10:29 Uhr entgleiste der letzte Wagen des Güterzuges FIR 51474 auf
-der Fahrt vom Bahnhof (Bf) Seddin zum Bf Seelze bei der Ausfahrt aus dem Bf Belzig im Kilometer (km) 65,6. Der Wagen gleiste sich selbs ä g am Bahnübergang (BÜ) in km 70,4 wieder
-ein. Schließlich wurde der Zug in Magdeburg Hauptbahnhof gestellt.
+NCS 
 
-2.2 Folgen
-Es wurden keine Personen getötet oder verletzt.
-Die bautechnische Infrastruktur wurde im Bereich von ca. km 65,6 bis km 70,4 stark beschädigt. An mehreren Stellen im Streckengleis Belzig – Wiesenburg (Mark) kam es zum Abrücken
-des Gleises aus der trassierten Solllage. Die Radsätze der entgleisten Drehgestelle und die
-Kurzkupplung des entgleisten Tiefladewagens der Sonderbauart Uaai 839 sowie einige Arreerungselemente der Tragschnäbel waren stark beschädigt und nicht mehr bes mmungsgemäß einsetzbar.
+özF 
 
-2.3 Ursachen
-Als Entgleisungsursache ist ein Montagefehler bei der Transportvorbereitung des Tiefladewagens der Bauart Uaai 839 im Kra werk Jänschwalde anzusehen. Dadurch wurde bei der Fahrt
-durch den Bf Belzig die Arre erung des Tragschnabels B 2 am Führungspunk räger aufgehoben, was in der Folge zum Versagen der Kurzkupplung zwischen den beiden Halbwagen und
-zur Entgleisung führte.
+PZB 
 
-2.4 Sicherheitsempfehlungen
-Es wurden keine Sicherheitsempfehlungen ausgesprochen.
+Ril 
 
-Seite 3 von 28
+Tfz 
 
-Untersuchungsbericht
-Zugentgleisung, 23.08.2011, Bf Belzig – Bf Wiesenburg (Mark)
+UZ 
 
-3 Allgemeine Angaben
-Das Kapitel beinhaltet allgemeine Angaben zur Beschreibung des Ereignisortes und der relevanten Bahnanlagen. Des Weiteren werden die an der Unfalluntersuchung beteiligten und
-mitwirkenden Stellen, die äußeren Bedingungen, die Anzahl der bei dem Ereignis etwa verletzten und getöteten Personen sowie Art und Höhe der Folgeschäden benannt.
+VzG 
 
-3.1 Lage und Beschreibung des Ereignisortes
-Der Bf Belzig und der Streckenabschni in Richtung Wiesenburg (Mark) befindet sich an der
-zweigleisigen elektrifizierten Hauptbahn von Berlin-Charlo enburg nach Blankenheim im
-Kreis Mansfeld-Südharz. Im Verzeichnis der örtlich zulässigen Geschwindigkeiten (VzG) wird
-die Strecke unter der Nummer 6118 geführt. Die ersten Spuren der Entgleisung fanden sich
-im Ausfahrbereich des Bf Belzig ca. in km 65,6. In diesem Bereich darf die Strecke gemäß VzG
-mit einer Geschwindigkeit von 90 km/h befahren werden und sie ist für einen Bremsweg von
-1.000 m ausgelegt. Die Strecke ist mit punk örmiger Zugbeeinflussung (PZB) und digitalem
-Zugfunk Global System for Mobile Communica ons-Rail (GSM-R) ausgerüstet.
+ZAS 
 
-Abbildung 1: Lageplan1
+Heavy Cargo + Service GmbH 
 
-1
+Kilometer 
 
-Quelle: Geobasisdaten © GeoBasis-DE / BKG [2019], bearbeitet durch BEU
+Nuclear Cargo + Service GmbH 
 
-Seite 4 von 28
+örtlich zuständiger Fahrdienstleiter 
 
-Untersuchungsbericht
-Zugentgleisung, 23.08.2011, Bf Belzig – Bf Wiesenburg (Mark)
+Punk(cid:414)örmige Zugbeeinflussung 
 
-Aus der Gleislageskizze in der Abbildung 2 ist der Fahrweg des FIR 51474 im Bf Belzig ersichtlich. Der Zug wurde aus Gleis 51G111 über die Weichen 51W2 und 51W3 in das Überholungsgleis 51G104 geleitet. Von dort setzte er seine Fahrt über die Weichen 51W10, 51W11, das
-Gleis 51G101 und die Weiche 51W15 in Richtung Wiesenburg (Mark) fort.
+Richtlinie 
 
-Abbildung 2: Gleislageskizze2
+Triebfahrzeug 
 
-3.2 Beteiligte und Mitwirkende
-Am Ereignis waren folgende Stellen beteiligt:
-
+Unterzentrale 
 
-DB Netz AG, Eisenbahninfrastrukturunternehmen (EIU)
+Verzeichnis der örtlich zulässigen Geschwindigkeiten 
 
-
+Zentrale Auswertestelle für Fahrdatenaufzeichnungen 
 
-DB Schenker Rail Deutschland AG, Eisenbahnverkehrsunternehmen (EVU)
+IV 
 
-
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Heavy Cargo + Service GmbH (HCS), Fahrzeughalter
+Zugentgleisung, 23.08.2011, Bf Belzig – Bf Wiesenburg (Mark) 
 
-Im Rahmen der Sachverhaltsermi lung und Ursachenerforschung wurde neben den o. g. Beteiligten die Zentrale Auswertestelle für Fahrdatenaufzeichnungen (ZAS), Nürnberg einbezogen.
+1  Vorbemerkungen	
 
-3.3 Äußere Bedingungen
-Zum Unfallzeitpunkt herrschte klare Sicht bei zeitweise bedecktem Himmel und Temperaturen von ca. 18°C. Die äußeren Bedingungen standen in keinem erkennbaren kausalen Zusammenhang mit der Ereignisursache.
+Das Kapitel Vorbemerkungen befasst sich mit allgemeinen Informa(cid:415)onen zur Bundesstelle für 
 
-2
+Eisenbahnunfalluntersuchung (BEU). Dabei wird die gesetzliche Grundlage genannt und die 
 
-Quelle: DB Netz AG, bearbeitet durch BEU
+Au(cid:297)auorganisa(cid:415)on kurz umrissen. 
 
-Seite 5 von 28
+1.1  Organisatorischer	Hinweis	
 
-Untersuchungsbericht
-Zugentgleisung, 23.08.2011, Bf Belzig – Bf Wiesenburg (Mark)
+Mit der Richtlinie 2004/49/EG des Europäischen Parlaments und des Rates, über Eisenbahnsi-
 
-3.4 Todesopfer, Verletzte und Sachschäden
-Bei dem Ereignis traten keine Personenschäden ein.
-Es entstanden erhebliche Sachschäden an der vorhandenen Infrastruktur und am entgleisten
-Tiefladewagen Uaai 839.
-Die geschätzte Höhe der Sachschäden setzt sich wie folgt zusammen:
-geschätzte Kosten in Euro
-Fahrzeuge
+cherheit (Eisenbahnsicherheitsrichtlinie), wurden die Mitgliedstaaten der Europäischen Union 
 
-326.000
+(EU) erstmals verpflichtet, unabhängige Untersuchungsstellen für die Untersuchung bestimm-
 
-Infrastruktur
+ter gefährlicher Ereignisse einzurichten. 
 
-3.500.000
-6.000
+Die Richtlinie wurde mit dem 5. Gesetz zur Änderung eisenbahnrechtlicher Vorschriften vom 
 
-Dri e
-Gesamtschadenshöhe
+16.04.2007 umgesetzt und die Eisenbahn-Unfalluntersuchungsstelle des Bundes (EUB) einge-
 
-3.832.000
+richtet. 
 
-Tabelle 1: Übersicht der geschätzten Schadenshöhe
+Mit dem Gesetz zur Neuordnung der Eisenbahnunfalluntersuchung vom 27.06.2017 wurden 
 
-Seite 6 von 28
+u. a. die rechtlichen Grundlagen zur Errichtung der Bundesstelle für Eisenbahnunfalluntersu-
 
-Untersuchungsbericht
-Zugentgleisung, 23.08.2011, Bf Belzig – Bf Wiesenburg (Mark)
+chung  (BEU)  geschaffen.  Hierdurch  wurde  das  Allgemeine  Eisenbahngesetz  (AEG)  und  das 
 
-4 Untersuchungsprotokoll
-In diesem Kapitel werden die ermi elten Ergebnisse zu einzelnen in Zusammenhang mit dem
-Ereignis stehenden Teilbereichen des Eisenbahnwesens dargestellt. Daneben wurden auch die
-entsprechenden Schni stellen sowie das Sicherheitsmanagement im betroﬀenen Bereich betrachtet. Die jeweilig relevanten Erkenntnisse werden fortlaufend aufgeführt.
+Bundeseisenbahnverkehrsverwaltungsgesetz (BEVVG) geändert, wobei Zuständigkeiten und 
 
-4.1 Zusammenfassung von Aussagen und Stellungnahmen
-Vorliegende Aussagen oder Stellungnahmen am Ereignis beteiligter Personen sind in die Ermi lungen mit eingeflossen. Auf einen gesonderten Abdruck wird an dieser Stelle verzichtet.
+Kompetenzen  auf  die  neue  Behörde,  die  BEU,  übertragen  wurden.  Mit  Errichtung  der  BEU 
 
-4.2 Notfallmanagement
-Nach § 4 Abs. 3 AEG haben die Eisenbahnen die Verpflichtung, an Maßnahmen des Brandschutzes und der technischen Hilfeleistung mitzuwirken. In einer Vereinbarung zwischen den
-Innenministerien der Länder und der DB AG hat man sich auf eine Verfahrensweise verständigt. Für die DB Netz AG gelten die entsprechenden Brand- und Katastrophenschutzgesetze
-der Länder. Das No allmanagement der DB AG ist in der Konzernrichtlinie 123, das der DB
-Netz AG in der Richtlinie (Ril) 423 näher beschrieben und geregelt.
-Im Rahmen des Ereignisses waren keine Hilfs- und Re ungsmaßnahmen erforderlich, daher
-erfolgte keine nähere Untersuchung.
+wurde die EUB, bestehend aus der Leitung der EUB im Bundesministerium für Verkehr und 
 
-4.3 Untersuchung der bautechnischen Infrastruktur
-Im Rahmen der Überführung des entgleisten Wagens vom Kra werk Jänschwalde bis nach
-Seddin und auf der Fahrt bis nach Belzig wurden insbesondere keine oberbautechnischen Unregelmäßigkeiten bekannt. Daher wurden die Untersuchungen auf den Fahrweg des FIR 51474
-durch und aus dem Bf Belzig über das durchgehende Hauptgleis 51G111, das Überholungsgleis
-51G104 und das durchgehende Hauptgleis 51G101 konzentriert.
-4.3.1 Gleisanlagen im Fahrweg des FIR 51474 durch den Bf Belzig
-Der FIR 51474 durchfuhr mehrere Weichen, die zum Teil enge gegenläufige Bogenradien aufwiesen. Die folgende Abbildung 3 zeigt beispielha den Fahrweg des Zuges aus dem Überholungsgleis 51G104 über die Weichen 51W10 und 51W11 nach Gleis 51G101.
+digitale Infrastruktur (BMVI) und der Untersuchungszentrale der EUB im Eisenbahn-Bundes-
 
-Seite 7 von 28
+amt (EBA), aufgelöst. Mit dem Organisationserlass des Bundesministeriums für Verkehr und 
 
-Untersuchungsbericht
-Zugentgleisung, 23.08.2011, Bf Belzig – Bf Wiesenburg (Mark)
+digitale Infrastruktur zur Errichtung der Bundesstelle für Eisenbahnunfalluntersuchung vom 
 
-Abbildung 3: Fahrweg des FIR 51474 Überholungsgleis 51G104 nach Gleis 51G101
+14.07.2017  wurde die BEU als selbstständige Bundesoberbehörde im Geschäftsbereich des 
 
-Am Radlenker der Weiche 51W15 ca. in km 65,6 fanden sich erste Überrollspuren von mehreren Rädern auf dem Radlenkerbla . Als erste Spuren des Abgleitens der Räder in Fahrtrichtung
-nach rechts waren beschädigte Kleineisen neben der linken Schiene in ca. km 65,7 erkennbar,
-einige Meter weiter dann auch neben der rechten Schiene. Im weiteren Verlauf kam es etwa
-in km 66,1 zu einer Gleisverschiebung in Querrichtung, die in der folgenden Abbildung zu erkennen ist.
+BMVI zur Erfüllung der Aufgaben nach § 7 BEVVG errichtet. Die Aufgaben zur Untersuchung 
 
-Abbildung 4: Entgleisungsfolgeschäden etwa in km 66,1
+bestimmter gefährlicher Ereignisse im Eisenbahnbetrieb gingen dabei nahtlos von der EUB auf 
 
-Seite 8 von 28
+die BEU über. 
 
-Untersuchungsbericht
-Zugentgleisung, 23.08.2011, Bf Belzig – Bf Wiesenburg (Mark)
+Da das gefährliche Ereignis vor der Errichtung der BEU eintrat, wurden bestimmte Untersu-
 
-Am BÜ in km 70,4 gleisten sich die Radsätze des Tiefladewagens Uaai 839 selbständig wieder
-ein, was entsprechende Spuren belegten. Die Strecke von der Eingleisung am BÜ bis nach
-Magdeburg Hauptbahnhof legte der Zug zurück, ohne dass es zu weiteren erkennbaren Beschädigungen an den Gleisanlagen kam.
-4.3.2 Unterhaltungszustand der Gleisanlagen im Bf Belzig
-Im Bereich der Einfahrt in den Bf Belzig waren im Fahrweg des Zuges während der Untersuchung mehrere Gleislagefehler visuell deutlich erkennbar. Um die Größenordnung der augenscheinlich festgestellten Gleislagefehler zu beurteilen, wurden die Messschriebe der Regelinspek onen vom 26.01.2011 und vom 31.05.2011 für den Streckenabschni von km 64,1 bis
-km 65,7 ausgewertet.
-Es wurden Einzelfehler in der Längshöhe und Richtung sowie Fehler bei der gegensei gen Höhenlage der Schienen und Verwindungsfehler, die im SR100-Bereich der Bewertungsmaßstäbe
-laut Ril 821.2001 lagen, aufgezeichnet. Gleislagefehler mit Überschreitungen der SRlim-Werte,
-die gemäß Ril 821.2001 sofor ge Maßnahmen erfordert hä en, waren auf Basis der vorliegenden Messschriebe und Überschreitungsprotokolle für die letzten Inspek onsmessfahrten
-nicht feststellbar. Das Gleis 51G104 im Bf Belzig, welches durch den FIR 51474 befahren
-wurde, war kein durchgehendes Hauptgleis. Deshalb waren dort gemäß Ril 821 keine Messfahrten vorgesehen. Daher wurden dort im Rahmen der Untersuchung unbelastete Messungen mit dem Messsystem „Krabbe“ durchgeführt, die keine Gleislagefehler in unzulässigen
-Größenordnungen aufzeigten.
-Ein ereignisursächlicher Einfluss des Zustandes der bautechnischen Infrastruktur konnte im
-Rahmen der Untersuchung nicht festgestellt werden.
+chungshandlungen noch durch die EUB vorgenommen, auf die im Bericht entsprechend ver-
 
-4.4 Untersuchung der Leit‐ und Sicherungstechnik
-Der für die Zugentgleisung relevante Abschni der VzG-Strecke 6118 war in das elektronische
-Stellwerk (ESTW)-Unterzentrale (UZ) Michendorf eingebunden. Störungen oder Fehlermeldungen lagen bei der Zugfahrt laut dem Dokumenta ons- und Störungsrechner nicht vor.
-Einflüsse aus der Leit- und Sicherungstechnik auf den Ereignishergang waren daher auszuschließen.
+wiesen wird. Alle während der Untersuchung gewonnenen Erkenntnisse wurden kontinuier-
 
-Seite 9 von 28
+lich mit den betroffenen Eisenbahnen und der Sicherheitsbehörde geteilt und einzelfallbezo-
 
-Untersuchungsbericht
-Zugentgleisung, 23.08.2011, Bf Belzig – Bf Wiesenburg (Mark)
+gene Sicherheitsempfehlungen ausgesprochen. 
 
-4.5 Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers
-Der Betrieb auf dem relevanten Abschni der VzG-Strecke 6118 wurde nach den Regelungen
-der Ril 408 – Züge fahren und Rangieren – durchgeführt und durch einen örtlich zuständigen
-Fahrdienstleiter (özF) in der ESTW-UZ Michendorf auf einem Bedienplatz in der Betriebszentrale in Berlin gesteuert.
-Die fahrdienstliche Durchführung der Zugfahrt ha e keinen ursächlichen Einfluss auf die Entgleisung des FIR 51474.
+Näheres hierzu ist im Internet unter www.beu.bund.de eingestellt. 
 
-4.6 Untersuchung der betrieblichen Abläufe des EVU
-Der Tiefladewagen Uaai 839 sollte vom Kra werk Jänschwalde gemäß Transportanordnung
-mit Güterzügen vom Bf Peitz Ost nach Gladbeck West zum Kra werk Scholven transpor ert
-werden. Der Versand erfolgte durch die Nuclear Cargo + Service GmbH (NCS) mit Sitz in Hanau.
-Die Beförderung erfolgte zusammen mit einem Begleit- und einem Gerätewagen.
-4.6.1 Vorbereitung für den Transport
-Der Tiefladewagen Uaai 839 wurde gemäß den vorliegenden Unterlagen durch zwei Mitarbeiter des Fahrzeughalters HCS für den Transport vorbereitet. Nach dessen Angaben erfolgte der
-Zusammenbau der beiden Wagenhäl en an Hand von Checklisten und Arbeitsanweisungen
-durch zwei Mitarbeiter des Unternehmens nach dem Vieraugenprinzip. Die Fer gmeldung
-zum Transport erfolgte durch den Fahrzeughalter an das Kunden Service Zentrum Duisburg
-der DB Schenker AG per E-Mail am 18.08.2011.
-4.6.2 Beförderungsbedingungen für das Fahrzeug
-Die Beförderungsbedingungen wurden auf Grund der Besonderheiten des Fahrzeuges festgelegt. Sie unterlagen den Bes mmungen der Ril 605.0701, - Außergewöhnliche Sendungen -.
-Für außergewöhnliche Sendungen muss eine Beförderungszusage für außergewöhnliche Sendungen (Bza) bei der DB Netz AG im Rahmen der Trassenanmeldung beantragt werden. Die
-Bza ist eine betriebliche Unterlage und dient dem EVU zur Abfer gung und Behandlung der
-außergewöhnlichen Sendungen. Die Mitarbeiter der DB Netz AG (Fahrdienstleiter, Weichenwärter) erhalten die Bza als Fahrplananordnung zur Beachtung. Der Kunde selbst, hier die HCS,
-legt bei seinem Antrag die Bedingungen fest, die für den Transport seiner außergewöhnlichen
-Sendung wich g sind.
+Seite 1 von 28 
 
-Seite 10 von 28
+ 
+ 
+Untersuchungsbericht 
 
-Untersuchungsbericht
-Zugentgleisung, 23.08.2011, Bf Belzig – Bf Wiesenburg (Mark)
+Zugentgleisung, 23.08.2011, Bf Belzig – Bf Wiesenburg (Mark) 
 
-Der Antrag vom 18.08.2011 der HCS, die DB Bza B3-3082/11, gül g bis 10.12.2011, und die
-Fahrplananordnung Fplo O -020411 Bza B3-3082/11 enthielten für den Transport des Tiefladewagens Uaai 839 folgende Bedingungen:
-
+1.2  Ziel	der	Eisenbahnunfalluntersuchung	
 
-Vorsichtig rangieren,
+Ziel und Zweck der Untersuchungen ist es, die Ursachen von gefährlichen Ereignissen aufzu-
 
-
+klären und hieraus Hinweise zur Verbesserung der Sicherheit abzuleiten. Untersuchungen der 
 
-Nicht abstoßen, nicht ablaufen lassen,
+BEU dienen nicht dazu, ein Verschulden festzustellen oder Fragen der Haftung oder sonstiger 
 
-
+zivilrechtlicher Ansprüche zu klären und werden unabhängig von jeder gerichtlichen Untersu-
 
-Beförderung am Zugschluss,
+chung durchgeführt. 
 
-
+Die Untersuchung umfasst die Sammlung und Auswertung von Informationen, die Erarbeitung 
 
-Das Befahren von Ablaufbergen ist verboten,
+von Schlussfolgerungen einschließlich der Feststellung der Ursachen und gegebenenfalls die 
 
-
+Abgabe von Sicherheitsempfehlungen. Die Vorschläge der Untersuchungsstelle zur Vermei-
 
-Nachschieben ist verboten,
+dung von Unfällen und Verbesserung der Sicherheit im Eisenbahnverkehr werden der Sicher-
 
-
+heitsbehörde und, soweit erforderlich, anderen Stellen und Behörden oder anderen Mitglied-
 
-Nach erforderlichem Fahrtrichtungswechsel ist der Tiefladewagen grundsätzlich wieder am Schluss des Zuges einzustellen (Schlussläufer),
+staaten der EU in Form von Sicherheitsempfehlungen mitgeteilt. 
 
-
+Seite 2 von 28 
 
-Die Sendung wird durch einen Mitarbeiter der HCS/NCS begleitet.
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Anhand der vorliegenden Unterlagen wurde festgestellt, dass die Bedingung der Bza wonach
-die Sendung durch einen Mitarbeiter der HCS/NCS zu begleiten war, nicht eingehalten wurde.
-Mit einer Transportmeldung teilte der Fahrzeughalter HCS dem EVU DB Schenker AG per Fax
-vom 22.08.2011 mit, dass auf die Besetzung der Transporteinheit mit einem Begleiter verzichtet werde. Zusätzlich wurde als Sonderbedingung hinzugefügt, dass mit dieser Gruppe andere
-Fahrzeuge nicht geschoben werden dür en. Eine entsprechende Änderung oder Ergänzung
-der Bza B3-3082/11 wurde nicht vorgenommen.
-Der aus Co bus ankommende Zug 53167 wurde im Bf Seddin aufgelöst und der Zug FIR 51474
-für die Fahrt nach Bf Seelze neu gebildet. Rangierdienstliche Unregelmäßigkeiten im Bf Seddin
-wurden Rahmen der Untersuchung nicht bekannt.
-4.6.3 Auswertung des Fahrtverlaufs
-Die elektronische Fahrtregistrierung für den FIR 51474 wurde durch die Zentrale Auswertestelle Nürnberg ausgewertet. Die Ergebnisse der Auswertung sind grundsätzlich plausibel.
-Die Aufzeichnungen wurden auf die Streckenkilometrierung mit Bezug 1.000 Hz-Beeinflussung
-am Standort des Einfahrsignals 51A im km 64,000 normiert. Die im Folgenden angegebenen
-Zeiten wurden dem Tabellarischen Fahrtverlauf entnommen. Sie sind Systemzeiten und können von der Realzeit abweichen. Das Triebfahrzeug (Tfz) war mit einer induk ven Zugsicherungsanlage der Bauform PZ 80 R mit Betriebsprogramm PZB 90 und Speicherung auf Memory
-Card (System DAREC DSE8-GMR) ausgerüstet. Im Fahrtverlauf zeigten sich während der Fahrt
+Zugentgleisung, 23.08.2011, Bf Belzig – Bf Wiesenburg (Mark) 
 
-Seite 11 von 28
+2  Zusammenfassung	
 
-Untersuchungsbericht
-Zugentgleisung, 23.08.2011, Bf Belzig – Bf Wiesenburg (Mark)
+Das Kapitel befasst sich mit einer kurzen Darstellung des Ereignisherganges, den Folgen und 
 
-vom Bf Seddin bis zum Bf Wiesenburg (Mark) keine Unregelmäßigkeiten. Die maximal zulässigen Geschwindigkeiten laut den Fahrplanunterlagen wurden nicht überschri en. Es waren
-keine Auﬀälligkeiten erkennbar, die auf eine Entgleisung hä en schließen lassen. Insbesondere auf dem Abschni nach der erfolgten Entgleisung ca. in km 65,6 bis zur Wiedereingleisung ca. in km 70,4 wurden weder abrupte Geschwindigkeitseinbrüche noch durch den Triebfahrzeugführer eingeleitete Betriebs- oder Schnellbremsungen registriert.
-Die in der Abbildung 5 enthaltene grafische Darstellung des Fahrtverlaufs zeigt etwa in
-km 64,0 eine 1.000 Hz-Beeinflussung mit Bedienung der Wachsamkeitstaste bei ca. 47 km/h.
+den Primärursachen. Abschließend werden eventuell erteilte Sicherheitsempfehlungen auf-
 
-Abbildung 5: Grafische Darstellung des Fahrtverlaufs des FIR 514743
+geführt. 
 
-An dieser Stelle befand sich das Einfahr- bzw. Vorsignal für das Zwischensignal 51ZR4 des Bf
-Belzig. Eine 500 Hz-Beeinflussung ist ca. um 10:17:29 Uhr ca. in km 64,82 registriert. Der erste
-Halt im Bf Belzig erfolgte ca. um 10:17:50 Uhr ca. in km 64,88 und dauerte etwa elf Sekunden.
-Danach fuhr der Zug ca. 169 m und hielt um 10:19:24 Uhr erneut für ca. sieben Minuten und
-55 Sekunden. Dieser Halt erfolgte vor dem Signal 51ZR4. Danach fuhr der Zug in Richtung Bf
-Wiesenburg (Mark) weiter. Als der Tiefladewagen Uaai 839 am Schluss des Zuges die Weichen-
+2.1  Kurzbeschreibung	des	Ereignisses	
 
-3
+Am 23.08.2011 um ca. 10:29 Uhr entgleiste der letzte Wagen des Güterzuges FIR 51474 auf 
 
-Quelle: Zentrale Auswertestelle Nürnberg, bearbeitet durch die BEU
+der Fahrt vom Bahnhof (Bf) Seddin zum Bf Seelze bei der Ausfahrt aus dem Bf Belzig im Kilo-
 
-Seite 12 von 28
+meter (km) 65,6. Der Wagen gleiste sich selbs(cid:425)ä(cid:415)g am Bahnübergang (BÜ) in km 70,4 wieder 
 
-Untersuchungsbericht
-Zugentgleisung, 23.08.2011, Bf Belzig – Bf Wiesenburg (Mark)
+ein. Schließlich wurde der Zug in Magdeburg Hauptbahnhof gestellt. 
 
-verbindung 51W10/51W11 durchfuhr, betrug die Geschwindigkeit ca. 33 km/h. Die Entgleisung des Fahrzeuges erfolgte ca. um 10:29:10 Uhr ca. in km 65,6 bei einer Geschwindigkeit
-von ca. 43 km/h. Danach fuhr der Zug mit konstanter Geschwindigkeit bis zur Wiedereingleisung weiter. Im Fahrtverlauf sind keine Hinweise auf unfallursächliche Fehlhandlungen des
-Triebfahrzeugführers erkennbar.
-Für die Entgleisung ursächliche oder begüns gend wirkende Einflüsse aus den Handlungen
-des Triebfahrzeugführers wurden ausgeschlossen.
+2.2  Folgen	
 
-4.7 Untersuchung von Fahrzeugen
-Die Zugfahrt FIR 51474 vom Bf Seddin zum Bf Seelze bestand aus einem Tfz mit der Fahrzeugnummer 91 80 6155 213-2, und 27 weiteren Fahrzeugen. Der Zug ha e insgesamt 126 Achsen
-bei einer Gesamtlänge von 453 m und einem Gesamtzuggewicht von 1.768 t. Der später entgleiste Tiefladewagen Uaai 839, Fahrzeug-Nr. 86 80 9972 901-4, lief am Schluss des Zugverbandes. Die Zugbildung erfolgte im Bf Seddin.
-Ein Einfluss des Tfz oder der nicht entgleisten Fahrzeuge auf den Ereignishergang war nicht
-erkennbar. Daher wurden diese Fahrzeuge nicht weiter untersucht.
-4.7.1 Der Tiefladewagen Uaai 839
-Der Tiefladewagen der Sonderbauart Uaai 839 ist in der Ril 93490 – Verzeichnis der Tiefladewagen – gelistet und wurde für den Transport besonders großer und schwerer Ladegüter konstruiert. Die Bauskizzen und das Zubehör sind in der Ril 934.9003 dargestellt.
-Der Wagen besteht aus zwei Wagenteilen welche nachstehend als Halbwagen 1 und Halbwagen 2 bezeichnet werden. Die Grundkonstruk on des Tiefladewagens Uaai 839 besteht aus
-acht Drehgestellen mit je vier Radsätzen, von denen jeweils zwei über Drehzapfen mit kleinen
-Verbindungsbrücken zusammengefasst werden. Je zwei kleine Verbindungsbrücken werden
-über eine große Verbindungsbrücke miteinander zu einem Halbwagen verbunden. Die vier
-Tragschnäbel sind jeweils mit den Buchstaben A und B sowie den Nummern der Halbwagen
-bezeichnet, also für den Halbwagen 1 mit A 1 und B 1 bzw. für den Halbwagen 2 mit A 2 und
-B 2. Sie sind seitlich an den Köpfen zweier Führungspunk räger über senkrechte Bolzen angebracht und stützen sich über diese mi els Drehpfannen in der Mi e der großen Verbindungsbrücken ab. Die Drehpfannen sind auf Schli en beweglich angeordnet und lassen sich aus der
-Mi ellage quer zur Fahrzeuglängsachse nach rechts und links um jeweils 550 mm verschieben.
+Es wurden keine Personen getötet oder verletzt. 
 
-Seite 13 von 28
+Die bautechnische Infrastruktur wurde im Bereich von ca. km 65,6 bis km 70,4 stark beschä-
 
-Untersuchungsbericht
-Zugentgleisung, 23.08.2011, Bf Belzig – Bf Wiesenburg (Mark)
+digt. An mehreren Stellen im Streckengleis Belzig – Wiesenburg (Mark) kam es zum Abrücken 
 
-Auf diese Weise können die Drehpunkte der Führungspunk räger, sogenannte Führungspunkte, entsprechend den Transportaufgaben variiert werden, ohne dass die Stützfunk on
-der Drehpfannen verlorengeht. Für die Verlagerung der Drehpunkte sind an den Führungspunk rägern je zwei hydraulisch betä gte Führungsbolzen für die Mi el- und Innenführung
-angebracht, die in Langlöcher an den großen Verbindungsbrücken eingeführt werden. Bei der
-Außenführung bilden die Drehpfannen die Drehpunkte. Durch die Varia onsmöglichkeiten
-der Drehpunkte sind trotz der Länge des Fahrzeuges Fahrten durch unterschiedliche Gleisbögen möglich, die allerdings in der güns gsten Konfigura on (Außenführung) Mindestradien
-von 75 m nicht unterschreiten dürfen.
-Die mit dem Tiefladewagen Uaai 839 zu transpor erenden Güter werden an den Enden der
-Tragschnäbel eingehängt. Dabei dienen die Transportgüter als Verbindungselemente zwischen den beiden Halbwagen. Durch dieses System entsteht zwischen den Führungspunk rägern der beiden Halbwagen eine durchgehende Verbindungsbrücke mit einer Länge von bis
-zu 37 m, die drehbar auf den großen Verbindungsbrücken der beiden Halbwagen gelagert ist.
-Zur Veranschaulichung ist der Wagen in Abbildung 6 als Systemskizze dargestellt.
+des  Gleises  aus  der  trassierten  Solllage.  Die  Radsätze  der  entgleisten  Drehgestelle  und  die 
 
-Abbildung 6: Systemskizze Tiefladewagen Uaai 839 (mit Ladegut)4
+Kurzkupplung des entgleisten Tiefladewagens der Sonderbauart Uaai 839 sowie einige Arre-
 
-4
+(cid:415)erungselemente der Tragschnäbel waren stark beschädigt und nicht mehr bes(cid:415)mmungsge-
 
-Quelle: Ril 934.9003, bearbeitet durch BEU
+mäß einsetzbar. 
 
-Seite 14 von 28
+2.3  Ursachen	
 
-Untersuchungsbericht
-Zugentgleisung, 23.08.2011, Bf Belzig – Bf Wiesenburg (Mark)
+Als Entgleisungsursache ist ein Montagefehler bei der Transportvorbereitung des Tiefladewa-
 
-Für Leerfahrten werden die beiden Halbwagen mi els eines Kurzkupplungssystems miteinander verbunden, welches in Abbildung 7 an einem Referenzfahrzeug dargestellt ist. Dieses System besteht aus vier Hauptkomponenten und ist so konstruiert, dass im Zusammenwirken mit
-den Tragschnäbeln am oberen Abschluss an den Druckspindeln ausschließlich Druckkrä e wirken und sämtliche Zugkrä e durch die untenliegenden Zuglaschenverbindungen aufgenommen werden.
-Die Zuglaschen verbinden die Tragschnäbel über deren Einhängeaugen miteinander. Durch
-die unabhängige Kurzkuppelstütze werden die Tragschnäbel A 2 und B 1 mi els Bolzen diagonal miteinander verbunden. Der obere Teil der Kurzkupplung wird zwischen den Druckspindeln an den Kopfenden der Tragschnäbel kra schlüssig eingespannt und im unteren Teil mit
-Lasche-Bolzen-Verbindungen an den Tragschnäbeln befes gt.
+gens der Bauart Uaai 839 im Kra(cid:332)werk Jänschwalde anzusehen. Dadurch wurde bei der Fahrt 
 
-Abbildung 7: Kurzkupplung (Referenzfahrzeug)5
+durch den Bf Belzig die Arre(cid:415)erung des Tragschnabels B 2 am Führungspunk(cid:425)räger aufgeho-
 
-Die Abbildung 8 zeigt den Tiefladewagen Uaai 839, nachdem der Zug FIR 51474 in Magdeburg
-Hauptbahnhof gestellt worden war.
+ben, was in der Folge zum Versagen der Kurzkupplung zwischen den beiden Halbwagen und 
 
-5
+zur Entgleisung führte. 
 
-Quelle: DB Schenker AG, bearbeitet durch die BEU
+2.4  Sicherheitsempfehlungen	
 
-Seite 15 von 28
+Es wurden keine Sicherheitsempfehlungen ausgesprochen. 
 
-Untersuchungsbericht
-Zugentgleisung, 23.08.2011, Bf Belzig – Bf Wiesenburg (Mark)
+Seite 3 von 28 
 
-Abbildung 8: Tiefladewagen Uaai 839 nach der Entgleisung6
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Die technischen Daten des Tiefladewagens Uaai 839 sind der folgenden Tabelle zu entnehmen:
-Wagennummer
+Zugentgleisung, 23.08.2011, Bf Belzig – Bf Wiesenburg (Mark) 
 
-86 80 9972 901-4
+3  Allgemeine	Angaben	
 
-Baujahr
+Das Kapitel beinhaltet allgemeine Angaben zur Beschreibung des Ereignisortes und der rele-
 
-1973
+vanten  Bahnanlagen.  Des  Weiteren  werden  die  an  der  Unfalluntersuchung  beteiligten  und 
 
-Halter
+mitwirkenden Stellen, die äußeren Bedingungen, die Anzahl der bei dem Ereignis etwa ver-
 
-HCS Hagen
+letzten und getöteten Personen sowie Art und Höhe der Folgeschäden benannt. 
 
-Für die Instandhaltung zuständige Stelle
+3.1  Lage	und	Beschreibung	des	Ereignisortes	
 
-NCS Hagen
+Der Bf Belzig und der Streckenabschni(cid:425) in Richtung Wiesenburg (Mark) befindet sich an der 
 
-Ga ungszeichen
+zweigleisigen  elektrifizierten  Hauptbahn  von  Berlin-Charlo(cid:425)enburg  nach  Blankenheim  im 
 
-Uaai 839
+Kreis Mansfeld-Südharz. Im Verzeichnis der örtlich zulässigen Geschwindigkeiten (VzG) wird 
 
-Eigengewicht
+die Strecke unter der Nummer 6118 geführt. Die ersten Spuren der Entgleisung fanden sich 
 
-262.500 kg
+im Ausfahrbereich des Bf Belzig ca. in km 65,6. In diesem Bereich darf die Strecke gemäß VzG 
 
-Länge (LüP)
+mit einer Geschwindigkeit von 90 km/h befahren werden und sie ist für einen Bremsweg von 
 
-51.195 mm
+1.000 m ausgelegt. Die Strecke ist mit punk(cid:414)örmiger Zugbeeinflussung (PZB) und digitalem 
 
-Wagenhöhe über SO
+Zugfunk Global System for Mobile Communica(cid:415)ons-Rail (GSM-R) ausgerüstet. 
 
-3.993 mm
+Abbildung 1: Lageplan1 
 
-Anzahl der Radsätze
+1 Quelle: Geobasisdaten © GeoBasis-DE / BKG [2019], bearbeitet durch BEU 
 
-32
+Seite 4 von 28 
 
-Anzahl der Drehgestelle
+ 
+ 
+ 
+                                                       
+Untersuchungsbericht 
 
-8
+Zugentgleisung, 23.08.2011, Bf Belzig – Bf Wiesenburg (Mark) 
 
-Drehzapfenabstand
+Aus der Gleislageskizze in der Abbildung 2 ist der Fahrweg des FIR 51474 im Bf Belzig ersicht-
 
-6.000 mm
+lich. Der Zug wurde aus Gleis 51G111 über die Weichen 51W2 und 51W3 in das Überholungs-
 
-Max. zul. Fahrzeuggeschwindigkeit
+gleis 51G104 geleitet. Von dort setzte er seine Fahrt über die Weichen 51W10, 51W11, das 
 
-90 km/h
+Gleis 51G101 und die Weiche 51W15 in Richtung Wiesenburg (Mark) fort. 
 
-Kleister Gleisbogenhalbmesser bei
-Außen- / Mi el- / Innenführung
+Abbildung 2: Gleislageskizze2 
 
-75 m / 150 m / 250 m
+3.2  Beteiligte	und	Mitwirkende	
 
-Bremsbauart
+Am Ereignis waren folgende Stellen beteiligt: 
 
-KE-GP-A
+  DB Netz AG, Eisenbahninfrastrukturunternehmen (EIU) 
 
-Tabelle 2: Technische Daten des Tiefladewagens Uaai 839
+  DB Schenker Rail Deutschland AG, Eisenbahnverkehrsunternehmen (EVU) 
 
-6
+  Heavy Cargo + Service GmbH (HCS), Fahrzeughalter 
 
-Quelle: DB Schenker AG, bearbeitet durch die BEU
+Im Rahmen der Sachverhaltsermi(cid:425)lung und Ursachenerforschung wurde neben den o. g. Be-
 
-Seite 16 von 28
+teiligten die Zentrale Auswertestelle für Fahrdatenaufzeichnungen (ZAS), Nürnberg einbezo-
 
-Untersuchungsbericht
-Zugentgleisung, 23.08.2011, Bf Belzig – Bf Wiesenburg (Mark)
+gen. 
 
-Das entgleiste Fahrzeug wurde im Kra werk Jänschwalde für eine Leerfahrt eingerichtet. Der
-Transport erfolgte gemäß der Bza mit Außenführung. Für Leerfahrten werden, wie auf der
-Abbildung unten zu erkennen, die vier Tragschnäbel anstelle der Tragschnabelverspannungen
-mi els Lasche-Bolzen-Verbindungen am Fußende der Führungspunk räger arre ert.
+3.3  Äußere	Bedingungen		
 
-Abbildung 9: Arre erung der Tragschnäbel am Halbwagen 17
+Zum Unfallzeitpunkt herrschte klare Sicht bei zeitweise bedecktem Himmel und Temperatu-
 
-Erst wenn die Tragschnäbel mit dem Führungspunk räger verbunden sind, kann zwischen den
-beiden Halbwagen die Kurzkupplung eingebaut werden.
-Dazu werden die Tragschnäbel mit hydraulischen Arbeitszylindern, sogenannten Tragschnabel-Verstellzylindern, in die erforderliche Posi on gebracht. Danach werden die Elemente der
-Kurzkupplung eingebaut und die Tragschnabel-Verstellzylinder wieder eingefahren.
-Das System der Kurzkupplung funk oniert nur dann zuverlässig, wenn die Tragschnäbel arreert sind und alle Komponenten uneingeschränkt zusammenwirken.
+ren von ca. 18°C. Die äußeren Bedingungen standen in keinem erkennbaren kausalen Zusam-
 
-7
+menhang mit der Ereignisursache. 
 
-Quelle: DB Schenker AG, bearbeitet durch die BEU
+2 Quelle: DB Netz AG, bearbeitet durch BEU 
 
-Seite 17 von 28
+Seite 5 von 28 
 
-Untersuchungsbericht
-Zugentgleisung, 23.08.2011, Bf Belzig – Bf Wiesenburg (Mark)
+ 
+ 
+ 
+ 
+ 
+                                                       
+Untersuchungsbericht 
 
-4.7.2 Untersuchungen am Fahrzeug
-Am 21.09.2011 erfolgte im Bf Magdeburg Rothensee die Untersuchung des Tiefladewagens
-Uaai 839. Die dabei getroﬀenen Feststellungen sind in den nachfolgenden Abschni en dargestellt.
-Arretierung der Tragschnäbel am Halbwagen 2
-Im Rahmen der Untersuchung wurde festgestellt, dass die Arre erungen der Tragschnäbel A 2
-und B 2 am Führungspunk räger des Halbwagens 2 nach dem Ereignis nicht mehr funk onstüch g waren. Die Lasche-Bolzen-Verbindungen zwischen den Tragschnäbeln und dem Führungspunk räger ha en sich gelöst. Dieser Zustand ist in Abbildung 10 zu erkennen.
+Zugentgleisung, 23.08.2011, Bf Belzig – Bf Wiesenburg (Mark) 
 
-Abbildung 10: Fehlende Arre erung der Tragschnäbel am Halbwagen 28
+3.4  Todesopfer,	Verletzte	und	Sachschäden	
 
-Am Tragschnabel A 2 fehlte, wie aus der folgenden Abbildung ersichtlich, der Bolzen mit der
-Fokkernadel. Die Laschen wiesen keine erkennbaren Beschädigungen auf.
+Bei dem Ereignis traten keine Personenschäden ein. 
 
-8
+Es entstanden erhebliche Sachschäden an der vorhandenen Infrastruktur und am entgleisten 
 
-Quelle: DB Schenker AG, bearbeitet durch die BEU
+Tiefladewagen Uaai 839. 
 
-Seite 18 von 28
+Die geschätzte Höhe der Sachschäden setzt sich wie folgt zusammen: 
 
-Untersuchungsbericht
-Zugentgleisung, 23.08.2011, Bf Belzig – Bf Wiesenburg (Mark)
+geschätzte Kosten in Euro 
 
-Abbildung 11: Arre erung am Tragschnabel A 29
+Fahrzeuge 
 
-Auch am Tragschnabel B 2 war die Arre erung nicht mehr gewährleistet. Die Lasche-BolzenVerbindungen sowohl am Führungspunk räger als auch am Tragschnabel waren funk onsuntüch g. Sowohl die Fokkernadel auf der Führungspunktseite als auch der Splint auf der Tragschnabelseite waren abgeschert. Die Laschen waren verbogen und die Bohrungen in den Laschen waren verdrückt. An der Bolzenaufnahme am Führungspunk räger war eine deutliche
-Markierung zu erkennen, die der äußeren Form der Lasche entsprach. In der Abbildung 12 ist
-das Schadbild zu erkennen. Aus dieser Abbildung geht auch hervor, dass ein Distanzstück, welches zwischen der Bolzenaufnahme des Führungspunk rägers und der Lasche platziert werden muss, um die Unterschiede der Breiten zwischen den Bolzenaufnahmen der Tragschnabelbefes gung und dem Führungspunk räger auszugleichen, vor die Lasche gesetzt worden
-war. Ein solcher Montagefehler führt dazu, dass es bereits bei geringen Bewegungen des Tragschnabels zu erhöhten Kra einträgen entlang der Bolzenlängsachse kommt, und damit ungewollte Biege- und Scherkrä e sowohl für die Fokkernadel auf der Führungspunk rägerseite
-als auch für die Splinte auf der Tragschnabelseite au reten. Dies führt zu Spannungen, die
-insbesondere bei bereits beeinträch gten Bauteilen zum Versagen führen können.
+Infrastruktur 
 
-9
+Dri(cid:425)e 
 
-Quelle: DB Schenker AG, bearbeitet durch die BEU
+Gesamtschadenshöhe 
 
-Seite 19 von 28
+   326.000 
 
-Untersuchungsbericht
-Zugentgleisung, 23.08.2011, Bf Belzig – Bf Wiesenburg (Mark)
+3.500.000 
 
-Abbildung 12: Arre erung am Tragschnabel B 210
+        6.000 
 
-Die Abbildung 13 verdeutlicht in einer schema schen Darstellung den Montagefehler an den
-Lasche-Bolzen-Verbindungen des Tragschnabels B 2.
+3.832.000 
 
-10
+Tabelle 1: Übersicht der geschätzten Schadenshöhe 
 
-Quelle: DB Schenker AG, bearbeitet durch die BEU
+Seite 6 von 28 
 
-Seite 20 von 28
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Untersuchungsbericht
-Zugentgleisung, 23.08.2011, Bf Belzig – Bf Wiesenburg (Mark)
+Zugentgleisung, 23.08.2011, Bf Belzig – Bf Wiesenburg (Mark) 
 
-Abbildung 13: Schema sche Darstellung Lasche-Bolzen-Verbindung
+4  Untersuchungsprotokoll	
 
-Abbildung 14: Bruchflächen an der Fokkernadel und am Splint11
+In diesem Kapitel werden die ermi(cid:425)elten Ergebnisse zu einzelnen in Zusammenhang mit dem 
 
-Die Bruchflächen der Fokkernadel und des Splintes wiesen Korrosionsspuren auf, die in der
-Abbildung 14 zu erkennen sind. Sie deuteten auf eine Schwächung der Querschni e durch
-Dauerbruchverhalten hin. Die noch tragenden Restquerschni e nahmen weniger als 50 % der
+Ereignis stehenden Teilbereichen des Eisenbahnwesens dargestellt. Daneben wurden auch die 
 
-11
+entsprechenden Schni(cid:425)stellen sowie das Sicherheitsmanagement im betroﬀenen Bereich be-
 
-Quelle: DB Schenker AG, bearbeitet durch die BEU
+trachtet. Die jeweilig relevanten Erkenntnisse werden fortlaufend aufgeführt. 
 
-Seite 21 von 28
+4.1  Zusammenfassung	von	Aussagen	und	Stellungnahmen	
 
-Untersuchungsbericht
-Zugentgleisung, 23.08.2011, Bf Belzig – Bf Wiesenburg (Mark)
+Vorliegende Aussagen oder Stellungnahmen am Ereignis beteiligter Personen sind in die Er-
 
-Gesamtquerschni sflächen ein. Es ist zudem erkennbar, dass der runde Sollquerschni der
-Fokkernadel einsei g abgeflacht war.
-Kurzkupplung
-Die Teile der Kurzkupplung zeigten im Rahmen der Untersuchung unterschiedliche Grade von
-Beschädigungen, die in den folgenden Abbildungen 15 und 16 erkennbar sind.
-Das obere Teil der Kurzkupplung ha e sich aus seiner Sollposi on in der Längsachse des Fahrzeuges in Fahrtrichtung nach links verschoben und wies massive Schäden auf. Die Druckspindeln an den Tragschnäbeln ha en keine Verbindung mehr zur Kurzkupplung. Die Bolzen-Laschen-Verbindungen zwischen den Tragschnäbeln und der Kurzkupplung waren zerstört bzw.
-stark beschädigt, die Bolzen fehlten teilweise.
+mi(cid:425)lungen mit eingeflossen. Auf einen gesonderten Abdruck wird an dieser Stelle verzichtet. 
 
-Abbildung 15: Schäden am Mi elteil des Unfallfahrzeugs mit Kurzkupplung12
+4.2  Notfallmanagement	
 
-Die Druckteller, die über die Verbindung mit den Druckspindeln au retende Druckkrä e aufnehmen sollen, waren zum Teil stark verformt. Bei der Druckspindel am Tragschnabel B 1
+Nach § 4 Abs. 3 AEG haben die Eisenbahnen die Verpflichtung, an Maßnahmen des Brand-
 
-12
+schutzes und der technischen Hilfeleistung mitzuwirken. In einer Vereinbarung zwischen den 
 
-Quelle: DB Schenker AG, bearbeitet durch BEU
+Innenministerien der Länder und der DB AG hat man sich auf eine Verfahrensweise verstän-
 
-Seite 22 von 28
+digt. Für die DB Netz AG gelten die entsprechenden Brand- und Katastrophenschutzgesetze 
 
-Untersuchungsbericht
-Zugentgleisung, 23.08.2011, Bf Belzig – Bf Wiesenburg (Mark)
+der Länder. Das No(cid:414)allmanagement der DB AG ist in der Konzernrichtlinie 123, das der DB 
 
-fehlte die Druckpla e, welche als Gegenstück des Tellers der Kupplung am Tragschnabel dient.
-Die Druckpla e wurde im Umfeld der Entgleisungsstelle aufgefunden. Die Flanschverbindungen der Verstrebung am oberen Ende der Kupplung waren gerissen. Die Streben am unteren
-Teil waren verbogen bzw. ausgeknickt. Die Lasche-Bolzen-Verbindungen zwischen dem unteren Kupplungsteil und den Tragschnäbeln A 1, B 1 und B 2 waren nicht mehr funk onstüch g.
-Der Bolzen mit Fokkernadel am Tragschnabel B 2 fehlte, bei den Tragschnäbeln A 1 und B 1
-waren die Fokkernadeln abgeschert und die Laschen verbogen. Die fehlenden Teile wurden
-im Bereich des Streckengleises entlang des Fahrweges des Zuges in der weiteren Umgebung
-der Entgleisungsstelle aufgefunden.
+Netz AG in der Richtlinie (Ril) 423 näher beschrieben und geregelt. 
 
-Abbildung 16: Schäden an der Kurzkupplung13
+Im Rahmen des Ereignisses waren keine Hilfs- und Re(cid:425)ungsmaßnahmen erforderlich, daher 
 
-Zustand der Fokkernadel am Tragschnabel B1
-Die nachstehende Abbildung 17 zeigt eine beschädigte Fokkernadel, die bei der Fahrzeuguntersuchung mit einer Bruchstelle am unteren Ende des Sicherungss
+erfolgte keine nähere Untersuchung. 
 
-es vorgefunden wurde.
+4.3  Untersuchung	der	bautechnischen	Infrastruktur	
 
-Durch die Beschädigung an der Fokkernadel war deren Funk on als Sicherungselement nicht
-mehr vollumfänglich gewährleistet.
+Im Rahmen der  Überführung des entgleisten Wagens vom  Kra(cid:332)werk Jänschwalde bis nach 
 
-13
+Seddin und auf der Fahrt bis nach Belzig wurden insbesondere keine oberbautechnischen Un-
 
-Quelle: DB Schenker AG, bearbeitet durch die BEU
+regelmäßigkeiten bekannt. Daher wurden die Untersuchungen auf den Fahrweg des FIR 51474 
 
-Seite 23 von 28
+durch und aus dem Bf Belzig über das durchgehende Hauptgleis 51G111, das Überholungsgleis 
 
-Untersuchungsbericht
-Zugentgleisung, 23.08.2011, Bf Belzig – Bf Wiesenburg (Mark)
+51G104 und das durchgehende Hauptgleis 51G101 konzentriert. 
 
-Abbildung 17: Beschädigte Fokkernadel
+4.3.1  Gleisanlagen	im	Fahrweg	des	FIR	51474	durch	den	Bf	Belzig	
 
-4.7.3 Unterlagen zur laufenden Instandhaltung des Tiefladewagens Uaai 839
-Die Unterlagen zur laufenden Instandhaltung des Fahrzeuges lagen vor.
-Am Fahrzeug selbst wurden außer den beschriebenen Mängeln keine weiteren Unregelmäßigkeiten festgestellt. Die Prüfung der Unterlagen zur laufenden Instandhaltung des Fahrzeugs
-sowie der Dokumenta on der Fristarbeiten ergab keine Unregelmäßigkeiten.
+Der FIR 51474 durchfuhr mehrere Weichen, die zum Teil enge gegenläufige Bogenradien auf-
 
-Seite 24 von 28
+wiesen. Die folgende Abbildung 3 zeigt beispielha(cid:332) den Fahrweg des Zuges aus dem Überho-
 
-Untersuchungsbericht
-Zugentgleisung, 23.08.2011, Bf Belzig – Bf Wiesenburg (Mark)
+lungsgleis 51G104 über die Weichen 51W10 und 51W11 nach Gleis 51G101. 
 
-5 Auswertung
-Das Kapitel 5 Auswertung befasst sich mit der Ereignisrekonstruk on. Anhand der oben genannten Feststellungen wird ein plausibler Ablauf des gefährlichen Ereignisses zusammengetragen. Relevante Erkenntnisse werden anschließend bewertet und führen ggf. zu entsprechenden Schlussfolgerungen.
+Seite 7 von 28 
 
-5.1 Ereignisrekonstruktion
-Am 22.08.2011 wurde der Tiefladewagen der Sonderbauart Uaai 839 der Fahrzeugnummer
-86 80 9972 901-4, zusammen mit einem Begleit- und einem Gerätewagen vom Bf Peitz Ost
-mit dem Zug 53171 in Richtung Bf Co bus gefahren. Vom Bf Co bus wurden die genannten
-Fahrzeuge und zwei Schadwagen am Schluss des Zuges 53167 zum Bf Seddin transpor ert. Für
-den Transport des Fahrzeuges lag eine Bza mit der Bezeichnung B3-3082/11 vor. Gemäß dieser
-Bza hä e das Fahrzeug begleitet werden sollen. Der Fahrzeughalter verzichtete jedoch darauf,
-eine Begleitung zu stellen. Die Zugfahrten vom Bf Peitz Ost bis zum Bf Seddin wurden durchgeführt, ohne dass Auﬀälligkeiten im Laufverhalten des Tiefladewagens Uaai 839 oﬀenbar
-wurden.
-Am 23.08.2011 sollte der FIR 51474 mit dem Tiefladewagen Uaai 839 als Schlussläufer vom
-Bf Seddin zum Bf Seelze fahren. Gegen 10:06 Uhr fuhr der FIR 51474 in den Bf Belzig ein. Wegen einer Überholung wurde die Zugfahrt über die Weichen 51W2 und 51W3 vom durchgehenden Hauptgleis in das Überholungsgleis 51G104 geleitet und hielt dort vor dem Signal
-51ZR4. Die Abfahrt aus dem Überholungsgleis 51G104 erfolgte gegen 10:27 Uhr auf Fahrtstellung des Signals 51ZR4 über das Gleis 51G101 in Richtung Wiesenburg (Mark). Die Zugfahrt
-entgleiste gegen 10:29 Uhr beim Durchfahren der Weiche 51W15 in km 65,6. Der Triebfahrzeugführer des FIR 51474 bemerkte die Entgleisung des Tiefladewagens Uaai 839 nicht. Auch
-durch den özF in der Betriebszentrale Berlin wurde die Zugentgleisung zunächst nicht bemerkt. Auf einer Streckenlänge von mehr als vier Kilometern wurde durch das entgleiste Fahrzeug die bautechnische Infrastruktur des Richtungsgleises Belzig – Wiesenburg (Mark) erheblich beschädigt.
-Diese Beschädigungen des Gleises wurden gegen 10:58 Uhr durch den Triebfahrzeugführer
-des im Richtungsgleis Wiesenburg (Mark) – Belzig verkehrenden Reisezuges RE 18714 über
-das GSM-R an den özF Michendorf gemeldet.
+ 
+ 
+Untersuchungsbericht 
 
-Seite 25 von 28
+Zugentgleisung, 23.08.2011, Bf Belzig – Bf Wiesenburg (Mark) 
 
-Untersuchungsbericht
-Zugentgleisung, 23.08.2011, Bf Belzig – Bf Wiesenburg (Mark)
+Abbildung 3: Fahrweg des FIR 51474 Überholungsgleis 51G104 nach Gleis 51G101 
 
-Zuvor ha e sich der Tiefladewagen am BÜ in km 70,4 selbstständig wieder eingegleist. Der
-FIR 51474 fuhr anschließend bis Magdeburg Hauptbahnhof, wo er gegen 12:13 Uhr gestellt
-wurde.
+Am Radlenker der Weiche 51W15 ca. in km 65,6 fanden sich erste Überrollspuren von mehre-
 
-5.2 Bewertung und Schlussfolgerung
-Im Laufe der Untersuchung wurde festgestellt, dass die Zerstörung der Arre erung des Tragschnabels B 2 zum Versagen der Kurzkupplung zwischen den beiden Halbwagen geführt ha e.
-Als Ursache für die Zerstörung der Arre erung des Tragschnabels ist ein Montagefehler im
-Rahmen der Vorbereitung für den Transport des Fahrzeuges anzusehen. Bei der Herstellung
-der Lasche-Bolzen-Verbindung zwischen dem Tragschnabel B 2 und dem Führungspunk räger
-wurden die einzelnen Elemente der Verbindung fehlerha zusammengesetzt und zudem unter Einsatz einer vorgeschädigten Fokkernadel miteinander verbunden. Das Schadbild am
-Tragschnabel B 2 mit den Verformungen der Laschen sowohl in ihrer äußeren Gestalt als auch
-in den vorhandenen Bohrungen für die Bolzen wies auf einen bedeutenden Krä eeintrag in
-Längsrichtung des Bolzens hin. Dieser führte zum Abscheren der Fokkernadel am Bolzen auf
-der Führungspunk rägerseite und eines Splints auf der Tragschnabelseite. Die Markierung an
-der Bolzenaufnahme des Führungspunk rägers, die der äußeren Form der Lasche entsprach,
-ließ auf einen dauerha en Spannungszustand in der Lasche-Bolzen-Verbindung schließen, der
-auf den nachgewiesenen Montagefehler zurückzuführen sein könnte. Dafür sprach auch die
-Abflachung des im Normalfall runden Querschni s der Fokkernadel, die sich an der Bruchstelle manifes erte. Der am Halbwagen 2 festgestellte Montagefehler trat am Halbwagen 1
-nicht auf. Das Erscheinungsbild der Fokkernadel, die sich am Tragschnabel B 1 befand, lässt
-aber den Schluss zu, dass diese bereits beschädigt eingebaut wurde. Dennoch waren bei der
-Untersuchung die Verbindungen zwischen den Tragschnäbeln und dem Führungspunk räger
-am Halbwagen 1 vollständig intakt. Die Montagefehler und der Einbau bereits vorgeschädigter
-Teile deuten auf eine mangelha e Umsetzung des Vieraugenprinzips bei der Vorbereitung des
-Fahrzeuges auf diesem Transport hin.
-Es ist anzunehmen, dass bei der Fahrt durch die engen Gleisbögen bei der Einfahrt in den
-Bf Belzig und in das Überholungsgleis 51G104 die fehlerha mon erte Lasche-Bolzen-Verbindung am Tragschnabel B 2 überbeansprucht wurde und die Fokkernadel und der Splint abscherten. Die Arre erung des Tragschnabels B 2 wurde infolgedessen aufgehoben.
+ren Rädern auf dem Radlenkerbla(cid:425). Als erste Spuren des Abgleitens der Räder in Fahrtrichtung 
 
-Seite 26 von 28
+nach rechts waren beschädigte Kleineisen neben der linken Schiene in ca. km 65,7 erkennbar, 
 
-Untersuchungsbericht
-Zugentgleisung, 23.08.2011, Bf Belzig – Bf Wiesenburg (Mark)
+einige Meter weiter dann auch neben der rechten Schiene. Im weiteren Verlauf kam es etwa 
 
-Bei der Ausfahrt aus dem Überholungsgleis durch die Weichen 51W10 und 51W11 mit engen
-gegenläufigen Bögen kam es zu einer Entlastung der kra schlüssigen Verbindung zwischen
-der Kurzkupplung und den Tragschnäbeln und zu einer Verschiebung der Kurzkupplung aus
-ihrer Sollposi on in Fahrtrichtung nach links. Dadurch ging die kra schlüssige Verbindung zwischen der Kurzkupplung und den beiden Halbwagen endgül g verloren. In der Folge senkten
-sich die Tragschnäbel auf die in Fahrtrichtung an vierter und fün er Posi on des Wagens laufenden Drehgestelle ab. Dies führte zur Entlastung mehrerer Radsätze der an dri er und vierter Stelle laufenden Drehgestelle des vorausfahrenden Wagenteils des Tiefladewagens
-Uaai 839. Anschließend kam es zum Abheben von den Schienen und zum Überkle ern der
-Schienenköpfe.
-Ereignisursächliche Einflüsse aus der Infrastruktur, der Leit- und Sicherungstechnik oder den
-betrieblichen Handlungen beim Infrastrukturbetreiber konnten ausgeschlossen werden. Eine
-rangierdienstliche Fehlbehandlung des Tragschnabelwagens im Bf Seddin konnte im Laufe der
-aufwendigen Untersuchungen nicht nachgewiesen werden.
-In Abweichung von den Bedingungen der Bza wurde während der Zugfahrten vom Bf Peitz Ost
-bis Magdeburg Hauptbahnhof auf eine Begleitung des Fahrzeuges durch einen Mitarbeiter der
-HCS/NCS verzichtet. Das EVU akzep erte diese Abweichung von der Bza. Der Wagen fuhr über
-vier Kilometer im entgleisten Zustand, ohne dass die Entgleisung durch den Triebfahrzeugführer, den özF oder andere Betriebspersonale bemerkt wurde. Bei einer Begleitung des Fahrzeuges hä e die Möglichkeit bestanden, zumindest die Folgeschäden der Entgleisung zu minimieren.
+in km 66,1 zu einer Gleisverschiebung in Querrichtung, die in der folgenden Abbildung zu er-
 
-Seite 27 von 28
+kennen ist. 
 
-Untersuchungsbericht
-Zugentgleisung, 23.08.2011, Bf Belzig – Bf Wiesenburg (Mark)
+Abbildung 4: Entgleisungsfolgeschäden etwa in km 66,1 
 
-6 Bisher getroffene Maßnahmen
-Die Druckteller der Kurzkupplung wurden konstruk v so geändert, dass der vorhandene Kra schluss durch eine formschlüssige Komponente ergänzt wird. Somit ist Kurzkupplung weniger
-anfällig gegen eine Verschiebung aus der Sollposi on. Die Konstruk onsänderung ist auf der
-Abbildung unten zu erkennen.
+Seite 8 von 28 
 
-Abbildung 18: Geänderte Kurzkupplung
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Der Fahrzeughalter teilte mit, dass Tiefladewagen Uaai der Ga ung Uaai beim Transport in
-Zügen, für die Regeltrassen bestellt wurden, zukün ig auch bei Leerfahrten begleitet werden.
-Beim Transport in Zügen mit direktem Wagenlauf vom Start- bis zum Zielbahnhof ist eine rangiertechnische Behandlung eher nicht zu erwarten. Solche Transporte werden ohne Begleitung gefahren.
+Zugentgleisung, 23.08.2011, Bf Belzig – Bf Wiesenburg (Mark) 
 
-7 Sicherheitsempfehlungen
-Es wurden keine Sicherheitsempfehlungen ausgesprochen.
+Am BÜ in km 70,4 gleisten sich die Radsätze des Tiefladewagens Uaai 839 selbständig wieder 
 
-Seite 28 von 28
+ein,  was  entsprechende  Spuren  belegten.  Die  Strecke  von  der  Eingleisung  am  BÜ  bis  nach 
 
+Magdeburg Hauptbahnhof legte der Zug zurück, ohne dass es zu weiteren erkennbaren Be-
+
+schädigungen an den Gleisanlagen kam. 
+
+4.3.2  Unterhaltungszustand	der	Gleisanlagen	im	Bf	Belzig	
+
+Im Bereich der Einfahrt in den Bf Belzig waren im Fahrweg des Zuges während der Untersu-
+
+chung mehrere Gleislagefehler visuell deutlich erkennbar. Um die Größenordnung der augen-
+
+scheinlich festgestellten Gleislagefehler zu beurteilen, wurden die Messschriebe der Regelin-
+
+spek(cid:415)onen vom 26.01.2011 und vom 31.05.2011 für den Streckenabschni(cid:425) von km 64,1 bis 
+
+km 65,7 ausgewertet. 
+
+Es wurden Einzelfehler in der Längshöhe und Richtung sowie Fehler bei der gegensei(cid:415)gen Hö-
+
+henlage der Schienen und Verwindungsfehler, die im SR100-Bereich der Bewertungsmaßstäbe 
+
+laut Ril 821.2001 lagen, aufgezeichnet. Gleislagefehler mit Überschreitungen der SRlim-Werte, 
+
+die gemäß Ril 821.2001 sofor(cid:415)ge Maßnahmen erfordert hä(cid:425)en, waren auf Basis der vorlie-
+
+genden Messschriebe und Überschreitungsprotokolle für die letzten Inspek(cid:415)onsmessfahrten 
+
+nicht  feststellbar.  Das  Gleis  51G104  im  Bf  Belzig,  welches  durch  den  FIR  51474  befahren 
+
+wurde, war kein durchgehendes Hauptgleis. Deshalb waren dort gemäß Ril 821 keine Mess-
+
+fahrten vorgesehen. Daher wurden dort im Rahmen der Untersuchung unbelastete Messun-
+
+gen  mit  dem  Messsystem  „Krabbe“  durchgeführt,  die  keine  Gleislagefehler  in  unzulässigen 
+
+Größenordnungen aufzeigten. 
+
+Ein ereignisursächlicher Einfluss des Zustandes der bautechnischen Infrastruktur konnte im 
+
+Rahmen der Untersuchung nicht festgestellt werden. 
+
+4.4  Untersuchung	der	Leit‐	und	Sicherungstechnik	
+
+Der für die Zugentgleisung relevante Abschni(cid:425) der VzG-Strecke 6118 war in das elektronische 
+
+Stellwerk  (ESTW)-Unterzentrale  (UZ)  Michendorf  eingebunden.  Störungen  oder  Fehlermel-
+
+dungen lagen bei der Zugfahrt laut dem Dokumenta(cid:415)ons- und Störungsrechner nicht vor. 
+
+Einflüsse  aus  der  Leit-  und  Sicherungstechnik  auf  den  Ereignishergang  waren  daher  auszu-
+
+schließen. 
+
+Seite 9 von 28 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugentgleisung, 23.08.2011, Bf Belzig – Bf Wiesenburg (Mark) 
+
+4.5  Untersuchung	der	betrieblichen	Abläufe	des	Infrastrukturbetreibers	
+
+Der Betrieb auf dem relevanten Abschni(cid:425) der VzG-Strecke 6118 wurde nach den Regelungen 
+
+der Ril 408 – Züge fahren und Rangieren – durchgeführt und durch einen örtlich zuständigen 
+
+Fahrdienstleiter (özF) in der ESTW-UZ Michendorf auf einem Bedienplatz in der Betriebszent-
+
+rale in Berlin gesteuert. 
+
+Die fahrdienstliche Durchführung der Zugfahrt ha(cid:425)e keinen ursächlichen Einfluss auf die Ent-
+
+gleisung des FIR 51474. 
+
+4.6  Untersuchung	der	betrieblichen	Abläufe	des	EVU	
+
+Der Tiefladewagen Uaai 839 sollte vom Kra(cid:332)werk Jänschwalde gemäß Transportanordnung 
+
+mit Güterzügen vom Bf Peitz Ost nach Gladbeck West zum Kra(cid:332)werk Scholven transpor(cid:415)ert 
+
+werden. Der Versand erfolgte durch die Nuclear Cargo + Service GmbH (NCS) mit Sitz in Hanau. 
+
+Die Beförderung erfolgte zusammen mit einem Begleit- und einem Gerätewagen. 
+
+4.6.1  Vorbereitung	für	den	Transport	
+
+Der Tiefladewagen Uaai 839 wurde gemäß den vorliegenden Unterlagen durch zwei Mitarbei-
+
+ter des Fahrzeughalters HCS für den Transport vorbereitet. Nach dessen Angaben erfolgte der 
+
+Zusammenbau der beiden Wagenhäl(cid:332)en an Hand von Checklisten und Arbeitsanweisungen 
+
+durch  zwei  Mitarbeiter  des  Unternehmens  nach  dem  Vieraugenprinzip.  Die  Fer(cid:415)gmeldung 
+
+zum Transport erfolgte durch den Fahrzeughalter an das Kunden Service Zentrum Duisburg 
+
+der DB Schenker AG per E-Mail am 18.08.2011. 
+
+4.6.2  Beförderungsbedingungen	für	das	Fahrzeug	
+
+Die Beförderungsbedingungen wurden auf Grund der Besonderheiten des Fahrzeuges festge-
+
+legt. Sie unterlagen den Bes(cid:415)mmungen der Ril 605.0701, - Außergewöhnliche Sendungen -. 
+
+Für außergewöhnliche Sendungen muss eine Beförderungszusage für außergewöhnliche Sen-
+
+dungen (Bza) bei der DB Netz AG im Rahmen der Trassenanmeldung beantragt werden. Die 
+
+Bza ist eine betriebliche Unterlage und dient dem EVU zur Abfer(cid:415)gung und Behandlung der 
+
+außergewöhnlichen Sendungen. Die Mitarbeiter der DB Netz AG (Fahrdienstleiter, Weichen-
+
+wärter) erhalten die Bza als Fahrplananordnung zur Beachtung. Der Kunde selbst, hier die HCS, 
+
+legt bei seinem Antrag die Bedingungen fest, die für den Transport seiner außergewöhnlichen 
+
+Sendung wich(cid:415)g sind. 
+
+Seite 10 von 28 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugentgleisung, 23.08.2011, Bf Belzig – Bf Wiesenburg (Mark) 
+
+Der Antrag vom 18.08.2011 der HCS, die DB Bza B3-3082/11, gül(cid:415)g bis 10.12.2011, und die 
+
+Fahrplananordnung Fplo O -020411 Bza B3-3082/11 enthielten für den Transport des Tiefla-
+
+dewagens Uaai 839 folgende Bedingungen: 
+
+  Vorsichtig rangieren, 
+
+  Nicht abstoßen, nicht ablaufen lassen, 
+
+  Beförderung am Zugschluss, 
+
+  Das Befahren von Ablaufbergen ist verboten, 
+
+  Nachschieben ist verboten, 
+
+  Nach erforderlichem Fahrtrichtungswechsel ist der Tiefladewagen grundsätzlich wie-
+
+der am Schluss des Zuges einzustellen (Schlussläufer), 
+
+  Die Sendung wird durch einen Mitarbeiter der HCS/NCS begleitet. 
+
+Anhand der vorliegenden Unterlagen wurde festgestellt, dass die Bedingung der Bza wonach 
+
+die Sendung durch einen Mitarbeiter der HCS/NCS zu begleiten war, nicht eingehalten wurde. 
+
+Mit einer Transportmeldung teilte der Fahrzeughalter HCS dem EVU DB Schenker AG per Fax 
+
+vom 22.08.2011 mit, dass auf die Besetzung der Transporteinheit mit einem Begleiter verzich-
+
+tet werde. Zusätzlich wurde als Sonderbedingung hinzugefügt, dass mit dieser Gruppe andere 
+
+Fahrzeuge nicht geschoben werden dür(cid:332)en. Eine entsprechende Änderung oder Ergänzung 
+
+der Bza B3-3082/11 wurde nicht vorgenommen. 
+
+Der aus Co(cid:425)bus ankommende Zug 53167 wurde im Bf Seddin aufgelöst und der Zug FIR 51474 
+
+für die Fahrt nach Bf Seelze neu gebildet. Rangierdienstliche Unregelmäßigkeiten im Bf Seddin 
+
+wurden Rahmen der Untersuchung nicht bekannt. 
+
+4.6.3  Auswertung	des	Fahrtverlaufs	
+
+Die elektronische Fahrtregistrierung für den FIR 51474 wurde durch die Zentrale Auswerte-
+
+stelle Nürnberg ausgewertet. Die Ergebnisse der Auswertung sind grundsätzlich plausibel. 
+
+Die Aufzeichnungen wurden auf die Streckenkilometrierung mit Bezug 1.000 Hz-Beeinflussung 
+
+am Standort des Einfahrsignals 51A im km 64,000 normiert. Die im Folgenden angegebenen 
+
+Zeiten wurden dem Tabellarischen Fahrtverlauf entnommen. Sie sind Systemzeiten und kön-
+
+nen von der Realzeit abweichen. Das Triebfahrzeug (Tfz) war mit einer induk(cid:415)ven Zugsiche-
+
+rungsanlage der Bauform PZ 80 R mit Betriebsprogramm PZB 90 und Speicherung auf Memory 
+
+Card (System DAREC DSE8-GMR) ausgerüstet. Im Fahrtverlauf zeigten sich während der Fahrt 
+
+Seite 11 von 28 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugentgleisung, 23.08.2011, Bf Belzig – Bf Wiesenburg (Mark) 
+
+vom Bf Seddin bis zum Bf Wiesenburg (Mark) keine Unregelmäßigkeiten. Die maximal zulässi-
+
+gen  Geschwindigkeiten  laut  den  Fahrplanunterlagen  wurden  nicht  überschri(cid:425)en.  Es  waren 
+
+keine Auﬀälligkeiten erkennbar, die auf eine Entgleisung hä(cid:425)en schließen lassen. Insbeson-
+
+dere auf dem Abschni(cid:425) nach der erfolgten Entgleisung ca. in km 65,6 bis zur Wiedereinglei-
+
+sung ca. in km 70,4 wurden weder abrupte Geschwindigkeitseinbrüche noch durch den Trieb-
+
+fahrzeugführer eingeleitete Betriebs- oder Schnellbremsungen registriert. 
+
+Die  in  der  Abbildung  5  enthaltene  grafische  Darstellung  des  Fahrtverlaufs  zeigt  etwa  in 
+
+km 64,0 eine 1.000 Hz-Beeinflussung mit Bedienung der Wachsamkeitstaste bei ca. 47 km/h. 
+
+Abbildung 5: Grafische Darstellung des Fahrtverlaufs des FIR 514743 
+
+An dieser Stelle befand sich das Einfahr- bzw. Vorsignal für das Zwischensignal 51ZR4 des Bf 
+
+Belzig. Eine 500 Hz-Beeinflussung ist ca. um 10:17:29 Uhr ca. in km 64,82 registriert. Der erste 
+
+Halt im Bf Belzig erfolgte ca. um 10:17:50 Uhr ca. in km 64,88 und dauerte etwa elf Sekunden. 
+
+Danach fuhr der Zug ca. 169 m und hielt um 10:19:24 Uhr erneut für ca. sieben Minuten und 
+
+55 Sekunden. Dieser Halt erfolgte vor dem Signal 51ZR4. Danach fuhr der Zug in Richtung Bf 
+
+Wiesenburg (Mark) weiter. Als der Tiefladewagen Uaai 839 am Schluss des Zuges die Weichen-
+
+3 Quelle: Zentrale Auswertestelle Nürnberg, bearbeitet durch die BEU 
+
+Seite 12 von 28 
+
+ 
+ 
+ 
+                                                       
+Untersuchungsbericht 
+
+Zugentgleisung, 23.08.2011, Bf Belzig – Bf Wiesenburg (Mark) 
+
+verbindung 51W10/51W11 durchfuhr, betrug die Geschwindigkeit ca. 33 km/h. Die Entglei-
+
+sung des Fahrzeuges erfolgte ca. um 10:29:10 Uhr ca. in km 65,6 bei einer Geschwindigkeit 
+
+von ca. 43 km/h. Danach fuhr der Zug mit konstanter Geschwindigkeit bis zur Wiedereinglei-
+
+sung weiter. Im Fahrtverlauf sind keine Hinweise auf unfallursächliche Fehlhandlungen des 
+
+Triebfahrzeugführers erkennbar. 
+
+Für die Entgleisung ursächliche oder begüns(cid:415)gend wirkende Einflüsse aus den Handlungen 
+
+des Triebfahrzeugführers wurden ausgeschlossen. 
+
+4.7  Untersuchung	von	Fahrzeugen	
+
+Die Zugfahrt FIR 51474 vom Bf Seddin zum Bf Seelze bestand aus einem Tfz mit der Fahrzeug-
+
+nummer 91 80 6155 213-2, und 27 weiteren Fahrzeugen. Der Zug ha(cid:425)e insgesamt 126 Achsen 
+
+bei einer Gesamtlänge von 453 m und einem Gesamtzuggewicht von 1.768 t. Der später ent-
+
+gleiste Tiefladewagen Uaai 839, Fahrzeug-Nr. 86 80 9972 901-4, lief am Schluss des Zugver-
+
+bandes. Die Zugbildung erfolgte im Bf Seddin. 
+
+Ein Einfluss des Tfz oder der nicht entgleisten Fahrzeuge auf den Ereignishergang war nicht 
+
+erkennbar. Daher wurden diese Fahrzeuge nicht weiter untersucht. 
+
+4.7.1  Der	Tiefladewagen	Uaai	839	
+
+Der Tiefladewagen der Sonderbauart Uaai 839 ist in der Ril 93490 – Verzeichnis der Tieflade-
+
+wagen – gelistet und wurde für den Transport besonders großer und schwerer Ladegüter kon-
+
+struiert. Die Bauskizzen und das Zubehör sind in der Ril 934.9003 dargestellt. 
+
+Der Wagen besteht aus zwei Wagenteilen welche nachstehend als Halbwagen 1 und Halbwa-
+
+gen 2 bezeichnet werden. Die Grundkonstruk(cid:415)on des Tiefladewagens Uaai 839 besteht aus 
+
+acht Drehgestellen mit je vier Radsätzen, von denen jeweils zwei über Drehzapfen mit kleinen 
+
+Verbindungsbrücken zusammengefasst werden. Je zwei kleine Verbindungsbrücken werden 
+
+über  eine  große  Verbindungsbrücke  miteinander  zu  einem  Halbwagen  verbunden.  Die  vier 
+
+Tragschnäbel sind jeweils mit den Buchstaben A und B sowie den Nummern der Halbwagen 
+
+bezeichnet, also für den Halbwagen 1 mit A 1 und B 1 bzw. für den Halbwagen 2 mit A 2 und 
+
+B 2. Sie sind seitlich an den Köpfen zweier Führungspunk(cid:425)räger über senkrechte Bolzen ange-
+
+bracht und stützen sich über diese mi(cid:425)els Drehpfannen in der Mi(cid:425)e der großen Verbindungs-
+
+brücken ab. Die Drehpfannen sind auf Schli(cid:425)en beweglich angeordnet und lassen sich aus der 
+
+Mi(cid:425)ellage quer zur Fahrzeuglängsachse nach rechts und links um jeweils 550 mm verschieben. 
+
+Seite 13 von 28 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugentgleisung, 23.08.2011, Bf Belzig – Bf Wiesenburg (Mark) 
+
+Auf  diese  Weise  können  die  Drehpunkte  der  Führungspunk(cid:425)räger,  sogenannte  Führungs-
+
+punkte, entsprechend den Transportaufgaben variiert werden, ohne dass die Stützfunk(cid:415)on 
+
+der Drehpfannen verlorengeht. Für die Verlagerung der Drehpunkte sind an den Führungs-
+
+punk(cid:425)rägern je zwei hydraulisch betä(cid:415)gte Führungsbolzen für die Mi(cid:425)el- und Innenführung 
+
+angebracht, die in Langlöcher an den großen Verbindungsbrücken eingeführt werden. Bei der 
+
+Außenführung  bilden  die  Drehpfannen  die  Drehpunkte.  Durch  die  Varia(cid:415)onsmöglichkeiten 
+
+der Drehpunkte sind trotz der Länge des Fahrzeuges Fahrten durch unterschiedliche Gleisbö-
+
+gen möglich, die allerdings in der güns(cid:415)gsten Konfigura(cid:415)on (Außenführung) Mindestradien 
+
+von 75 m nicht unterschreiten dürfen. 
+
+Die mit dem Tiefladewagen Uaai 839 zu transpor(cid:415)erenden Güter werden an den Enden der 
+
+Tragschnäbel  eingehängt.  Dabei  dienen  die  Transportgüter  als  Verbindungselemente  zwi-
+
+schen den beiden Halbwagen. Durch dieses System entsteht zwischen den Führungspunk(cid:425)rä-
+
+gern der beiden Halbwagen eine durchgehende Verbindungsbrücke mit einer Länge von bis 
+
+zu 37 m, die drehbar auf den großen Verbindungsbrücken der beiden Halbwagen gelagert ist. 
+
+Zur Veranschaulichung ist der Wagen in Abbildung 6 als Systemskizze dargestellt. 
+
+Abbildung 6: Systemskizze Tiefladewagen Uaai 839 (mit Ladegut)4 
+
+4 Quelle: Ril 934.9003, bearbeitet durch BEU 
+
+Seite 14 von 28 
+
+ 
+ 
+ 
+                                                       
+Untersuchungsbericht 
+
+Zugentgleisung, 23.08.2011, Bf Belzig – Bf Wiesenburg (Mark) 
+
+Für Leerfahrten werden die beiden Halbwagen mi(cid:425)els eines Kurzkupplungssystems miteinan-
+
+der verbunden, welches in Abbildung 7 an einem Referenzfahrzeug dargestellt ist. Dieses Sys-
+
+tem besteht aus vier Hauptkomponenten und ist so konstruiert, dass im Zusammenwirken mit 
+
+den Tragschnäbeln am oberen Abschluss an den Druckspindeln ausschließlich Druckkrä(cid:332)e wir-
+
+ken und sämtliche Zugkrä(cid:332)e durch die untenliegenden Zuglaschenverbindungen aufgenom-
+
+men werden. 
+
+Die Zuglaschen verbinden die Tragschnäbel über deren Einhängeaugen miteinander. Durch 
+
+die unabhängige Kurzkuppelstütze werden die Tragschnäbel A 2 und B 1 mi(cid:425)els Bolzen diago-
+
+nal miteinander verbunden. Der obere Teil der Kurzkupplung wird zwischen den Druckspin-
+
+deln an den Kopfenden der Tragschnäbel kra(cid:332)schlüssig eingespannt und im unteren Teil mit 
+
+Lasche-Bolzen-Verbindungen an den Tragschnäbeln befes(cid:415)gt. 
+
+Abbildung 7: Kurzkupplung (Referenzfahrzeug)5 
+
+Die Abbildung 8 zeigt den Tiefladewagen Uaai 839, nachdem der Zug FIR 51474 in Magdeburg 
+
+Hauptbahnhof gestellt worden war. 
+
+5 Quelle: DB Schenker AG, bearbeitet durch die BEU 
+
+Seite 15 von 28 
+
+ 
+ 
+ 
+                                                       
+Untersuchungsbericht 
+
+Zugentgleisung, 23.08.2011, Bf Belzig – Bf Wiesenburg (Mark) 
+
+Abbildung 8: Tiefladewagen Uaai 839 nach der Entgleisung6 
+
+Die technischen Daten des Tiefladewagens Uaai 839 sind der folgenden Tabelle zu entneh-
+
+men: 
+
+Wagennummer 
+
+86 80 9972 901-4 
+
+Baujahr 
+
+Halter 
+
+1973 
+
+HCS Hagen 
+
+Für die Instandhaltung zuständige Stelle 
+
+NCS Hagen 
+
+Ga(cid:425)ungszeichen 
+
+Eigengewicht 
+
+Länge (LüP) 
+
+Wagenhöhe über SO 
+
+Anzahl der Radsätze 
+
+Anzahl der Drehgestelle 
+
+Uaai 839 
+
+262.500 kg 
+
+51.195 mm 
+
+3.993 mm 
+
+32 
+
+8 
+
+Drehzapfenabstand 
+
+6.000 mm 
+
+Max. zul. Fahrzeuggeschwindigkeit 
+
+90 km/h 
+
+Kleister 
+Außen- 
+
+Gleisbogenhalbmesser bei 
+/ Mi(cid:425)el- / Innenführung 
+
+75 m / 150 m / 250 m 
+
+Bremsbauart 
+
+KE-GP-A 
+
+Tabelle 2: Technische Daten des Tiefladewagens Uaai 839 
+
+6 Quelle: DB Schenker AG, bearbeitet durch die BEU 
+
+Seite 16 von 28 
+
+ 
+ 
+ 
+                                                       
+Untersuchungsbericht 
+
+Zugentgleisung, 23.08.2011, Bf Belzig – Bf Wiesenburg (Mark) 
+
+Das entgleiste Fahrzeug wurde im Kra(cid:332)werk Jänschwalde für eine Leerfahrt eingerichtet. Der 
+
+Transport  erfolgte  gemäß  der  Bza  mit  Außenführung.  Für  Leerfahrten  werden,  wie  auf  der 
+
+Abbildung unten zu erkennen, die vier Tragschnäbel anstelle der Tragschnabelverspannungen 
+
+mi(cid:425)els Lasche-Bolzen-Verbindungen am Fußende der Führungspunk(cid:425)räger arre(cid:415)ert. 
+
+Abbildung 9: Arre(cid:415)erung der Tragschnäbel am Halbwagen 17 
+
+Erst wenn die Tragschnäbel mit dem Führungspunk(cid:425)räger verbunden sind, kann zwischen den 
+
+beiden Halbwagen die Kurzkupplung eingebaut werden. 
+
+Dazu werden die Tragschnäbel mit hydraulischen Arbeitszylindern, sogenannten Tragschna-
+
+bel-Verstellzylindern, in die erforderliche Posi(cid:415)on gebracht. Danach werden die Elemente der 
+
+Kurzkupplung eingebaut und die Tragschnabel-Verstellzylinder wieder eingefahren. 
+
+Das System der Kurzkupplung funk(cid:415)oniert nur dann zuverlässig, wenn die Tragschnäbel arre-
+
+(cid:415)ert sind und alle Komponenten uneingeschränkt zusammenwirken. 
+
+7 Quelle: DB Schenker AG, bearbeitet durch die BEU 
+
+Seite 17 von 28 
+
+ 
+ 
+ 
+                                                       
+Untersuchungsbericht 
+
+Zugentgleisung, 23.08.2011, Bf Belzig – Bf Wiesenburg (Mark) 
+
+4.7.2  Untersuchungen	am	Fahrzeug	
+
+Am 21.09.2011 erfolgte im Bf Magdeburg Rothensee die Untersuchung des Tiefladewagens 
+
+Uaai 839. Die dabei getroﬀenen Feststellungen sind in den nachfolgenden Abschni(cid:425)en darge-
+
+stellt. 
+
+Arretierung	der	Tragschnäbel	am	Halbwagen	2	
+
+Im Rahmen der Untersuchung wurde festgestellt, dass die Arre(cid:415)erungen der Tragschnäbel A 2 
+
+und B 2 am Führungspunk(cid:425)räger des Halbwagens 2 nach dem Ereignis nicht mehr funk(cid:415)ons-
+
+tüch(cid:415)g waren. Die Lasche-Bolzen-Verbindungen zwischen den Tragschnäbeln und dem Füh-
+
+rungspunk(cid:425)räger ha(cid:425)en sich gelöst. Dieser Zustand ist in Abbildung 10 zu erkennen. 
+
+Abbildung 10: Fehlende Arre(cid:415)erung der Tragschnäbel am Halbwagen 28 
+
+Am Tragschnabel A 2 fehlte, wie aus der folgenden Abbildung ersichtlich, der Bolzen mit der 
+
+Fokkernadel. Die Laschen wiesen keine erkennbaren Beschädigungen auf. 
+
+8 Quelle: DB Schenker AG, bearbeitet durch die BEU 
+
+Seite 18 von 28 
+
+ 
+ 
+  
+                                                       
+Untersuchungsbericht 
+
+Zugentgleisung, 23.08.2011, Bf Belzig – Bf Wiesenburg (Mark) 
+
+Abbildung 11: Arre(cid:415)erung am Tragschnabel A 29 
+
+Auch am Tragschnabel B 2 war die Arre(cid:415)erung nicht mehr gewährleistet. Die Lasche-Bolzen-
+
+Verbindungen sowohl am Führungspunk(cid:425)räger als auch am Tragschnabel waren funk(cid:415)onsun-
+
+tüch(cid:415)g. Sowohl die Fokkernadel auf der Führungspunktseite als auch der Splint auf der Trag-
+
+schnabelseite waren abgeschert. Die Laschen waren verbogen und die Bohrungen in den La-
+
+schen waren verdrückt. An der Bolzenaufnahme am Führungspunk(cid:425)räger war eine deutliche 
+
+Markierung zu erkennen, die der äußeren Form der Lasche entsprach. In der Abbildung 12 ist 
+
+das Schadbild zu erkennen. Aus dieser Abbildung geht auch hervor, dass ein Distanzstück, wel-
+
+ches zwischen der Bolzenaufnahme des Führungspunk(cid:425)rägers und der Lasche platziert wer-
+
+den muss, um die Unterschiede der Breiten zwischen den Bolzenaufnahmen der Tragschna-
+
+belbefes(cid:415)gung und dem Führungspunk(cid:425)räger auszugleichen, vor die Lasche gesetzt worden 
+
+war. Ein solcher Montagefehler führt dazu, dass es bereits bei geringen Bewegungen des Trag-
+
+schnabels zu erhöhten Kra(cid:332)einträgen entlang der Bolzenlängsachse kommt, und damit unge-
+
+wollte Biege- und Scherkrä(cid:332)e sowohl für die Fokkernadel auf der Führungspunk(cid:425)rägerseite 
+
+als auch für die Splinte auf der Tragschnabelseite au(cid:332)reten. Dies führt zu Spannungen, die 
+
+insbesondere bei bereits beeinträch(cid:415)gten Bauteilen zum Versagen führen können. 
+
+9 Quelle: DB Schenker AG, bearbeitet durch die BEU 
+
+Seite 19 von 28 
+
+ 
+ 
+ 
+                                                       
+Untersuchungsbericht 
+
+Zugentgleisung, 23.08.2011, Bf Belzig – Bf Wiesenburg (Mark) 
+
+Abbildung 12: Arre(cid:415)erung am Tragschnabel B 210 
+
+Die Abbildung 13 verdeutlicht in einer schema(cid:415)schen Darstellung den Montagefehler an den 
+
+Lasche-Bolzen-Verbindungen des Tragschnabels B 2. 
+
+10 Quelle: DB Schenker AG, bearbeitet durch die BEU 
+
+Seite 20 von 28 
+
+ 
+ 
+ 
+                                                       
+Untersuchungsbericht 
+
+Zugentgleisung, 23.08.2011, Bf Belzig – Bf Wiesenburg (Mark) 
+
+Abbildung 13: Schema(cid:415)sche Darstellung Lasche-Bolzen-Verbindung 
+
+Abbildung 14: Bruchflächen an der Fokkernadel und am Splint11 
+
+Die Bruchflächen der Fokkernadel und des Splintes wiesen Korrosionsspuren auf, die in der 
+
+Abbildung 14 zu erkennen sind. Sie deuteten auf eine Schwächung der Querschni(cid:425)e durch 
+
+Dauerbruchverhalten hin. Die noch tragenden Restquerschni(cid:425)e nahmen weniger als 50 % der 
+
+11 Quelle: DB Schenker AG, bearbeitet durch die BEU 
+
+Seite 21 von 28 
+
+ 
+ 
+ 
+ 
+                                                       
+Untersuchungsbericht 
+
+Zugentgleisung, 23.08.2011, Bf Belzig – Bf Wiesenburg (Mark) 
+
+Gesamtquerschni(cid:425)sflächen ein. Es ist zudem erkennbar, dass der runde Sollquerschni(cid:425) der 
+
+Fokkernadel einsei(cid:415)g abgeflacht war. 
+
+Kurzkupplung	
+
+Die Teile der Kurzkupplung zeigten im Rahmen der Untersuchung unterschiedliche Grade von 
+
+Beschädigungen, die in den folgenden Abbildungen 15 und 16 erkennbar sind. 
+
+Das obere Teil der Kurzkupplung ha(cid:425)e sich aus seiner Sollposi(cid:415)on in der Längsachse des Fahr-
+
+zeuges in Fahrtrichtung nach links verschoben und wies massive Schäden auf. Die Druckspin-
+
+deln an den Tragschnäbeln ha(cid:425)en keine Verbindung mehr zur Kurzkupplung. Die Bolzen-La-
+
+schen-Verbindungen zwischen den Tragschnäbeln und der Kurzkupplung waren zerstört bzw. 
+
+stark beschädigt, die Bolzen fehlten teilweise. 
+
+Abbildung 15: Schäden am Mi(cid:425)elteil des Unfallfahrzeugs mit Kurzkupplung12 
+
+Die Druckteller, die über die Verbindung mit den Druckspindeln au(cid:332)retende Druckkrä(cid:332)e auf-
+
+nehmen  sollen,  waren  zum  Teil  stark  verformt.  Bei  der  Druckspindel  am  Tragschnabel  B 1 
+
+12 Quelle: DB Schenker AG, bearbeitet durch BEU 
+
+Seite 22 von 28 
+
+ 
+ 
+ 
+                                                       
+Untersuchungsbericht 
+
+Zugentgleisung, 23.08.2011, Bf Belzig – Bf Wiesenburg (Mark) 
+
+fehlte die Druckpla(cid:425)e, welche als Gegenstück des Tellers der Kupplung am Tragschnabel dient. 
+
+Die Druckpla(cid:425)e wurde im Umfeld der Entgleisungsstelle aufgefunden. Die Flanschverbindun-
+
+gen der Verstrebung am oberen Ende der Kupplung waren gerissen. Die Streben am unteren 
+
+Teil waren verbogen bzw. ausgeknickt. Die Lasche-Bolzen-Verbindungen zwischen dem unte-
+
+ren Kupplungsteil und den Tragschnäbeln A 1, B 1 und B 2 waren nicht mehr funk(cid:415)onstüch(cid:415)g. 
+
+Der Bolzen mit Fokkernadel am Tragschnabel B 2 fehlte, bei den Tragschnäbeln A 1 und B 1 
+
+waren die Fokkernadeln abgeschert und die Laschen verbogen. Die fehlenden Teile wurden 
+
+im Bereich des Streckengleises entlang des Fahrweges des Zuges in der weiteren Umgebung 
+
+der Entgleisungsstelle aufgefunden. 
+
+Abbildung 16: Schäden an der Kurzkupplung13 
+
+Zustand	der	Fokkernadel	am	Tragschnabel	B1	
+
+Die nachstehende Abbildung 17 zeigt eine beschädigte Fokkernadel, die bei der Fahrzeugun-
+
+tersuchung mit einer Bruchstelle am unteren Ende des Sicherungss(cid:415)(cid:332)es vorgefunden wurde. 
+
+Durch die Beschädigung an der Fokkernadel war deren Funk(cid:415)on als Sicherungselement nicht 
+
+mehr vollumfänglich gewährleistet. 
+
+13 Quelle: DB Schenker AG, bearbeitet durch die BEU 
+
+Seite 23 von 28 
+
+ 
+ 
+ 
+                                                       
+Untersuchungsbericht 
+
+Zugentgleisung, 23.08.2011, Bf Belzig – Bf Wiesenburg (Mark) 
+
+Abbildung 17: Beschädigte Fokkernadel 
+
+4.7.3  Unterlagen	zur	laufenden	Instandhaltung	des	Tiefladewagens	Uaai	839	
+
+Die Unterlagen zur laufenden Instandhaltung des Fahrzeuges lagen vor. 
+
+Am Fahrzeug selbst wurden außer den beschriebenen Mängeln keine weiteren Unregelmä-
+
+ßigkeiten festgestellt. Die Prüfung der Unterlagen zur laufenden Instandhaltung des Fahrzeugs 
+
+sowie der Dokumenta(cid:415)on der Fristarbeiten ergab keine Unregelmäßigkeiten. 
+
+Seite 24 von 28 
+
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugentgleisung, 23.08.2011, Bf Belzig – Bf Wiesenburg (Mark) 
+
+5  Auswertung	
+
+Das Kapitel 5 Auswertung befasst sich mit der Ereignisrekonstruk(cid:415)on. Anhand der oben ge-
+
+nannten Feststellungen wird ein plausibler Ablauf des gefährlichen Ereignisses zusammenge-
+
+tragen. Relevante Erkenntnisse werden anschließend bewertet und führen ggf. zu entspre-
+
+chenden Schlussfolgerungen. 
+
+5.1  Ereignisrekonstruktion	
+
+Am 22.08.2011 wurde der Tiefladewagen der Sonderbauart Uaai 839 der Fahrzeugnummer 
+
+86 80 9972 901-4, zusammen mit einem Begleit- und einem Gerätewagen vom Bf Peitz Ost 
+
+mit dem Zug 53171 in Richtung Bf Co(cid:425)bus gefahren. Vom Bf Co(cid:425)bus wurden die genannten 
+
+Fahrzeuge und zwei Schadwagen am Schluss des Zuges 53167 zum Bf Seddin transpor(cid:415)ert. Für 
+
+den Transport des Fahrzeuges lag eine Bza mit der Bezeichnung B3-3082/11 vor. Gemäß dieser 
+
+Bza hä(cid:425)e das Fahrzeug begleitet werden sollen. Der Fahrzeughalter verzichtete jedoch darauf, 
+
+eine Begleitung zu stellen. Die Zugfahrten vom Bf Peitz Ost bis zum Bf Seddin wurden durch-
+
+geführt,  ohne  dass  Auﬀälligkeiten  im  Laufverhalten  des  Tiefladewagens  Uaai  839  oﬀenbar 
+
+wurden. 
+
+Am 23.08.2011 sollte der FIR 51474 mit dem Tiefladewagen Uaai 839 als Schlussläufer vom 
+
+Bf Seddin zum Bf Seelze fahren. Gegen 10:06 Uhr fuhr der FIR 51474 in den Bf Belzig ein. We-
+
+gen einer Überholung wurde die Zugfahrt über die Weichen 51W2 und 51W3 vom durchge-
+
+henden  Hauptgleis  in  das  Überholungsgleis  51G104  geleitet  und  hielt  dort  vor  dem  Signal 
+
+51ZR4. Die Abfahrt aus dem Überholungsgleis 51G104 erfolgte gegen 10:27 Uhr auf Fahrtstel-
+
+lung des Signals 51ZR4 über das Gleis 51G101 in Richtung Wiesenburg (Mark). Die Zugfahrt 
+
+entgleiste gegen 10:29 Uhr beim Durchfahren der Weiche 51W15 in km 65,6. Der Triebfahr-
+
+zeugführer des FIR 51474 bemerkte die Entgleisung des Tiefladewagens Uaai 839 nicht. Auch 
+
+durch  den  özF  in  der  Betriebszentrale  Berlin  wurde  die  Zugentgleisung  zunächst  nicht  be-
+
+merkt. Auf einer Streckenlänge von mehr als vier Kilometern wurde durch das entgleiste Fahr-
+
+zeug die bautechnische Infrastruktur des Richtungsgleises Belzig – Wiesenburg (Mark) erheb-
+
+lich beschädigt. 
+
+Diese Beschädigungen des Gleises wurden gegen 10:58 Uhr durch den Triebfahrzeugführer 
+
+des im Richtungsgleis Wiesenburg (Mark) – Belzig verkehrenden Reisezuges RE 18714 über 
+
+das GSM-R an den özF Michendorf gemeldet. 
+
+Seite 25 von 28 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugentgleisung, 23.08.2011, Bf Belzig – Bf Wiesenburg (Mark) 
+
+Zuvor ha(cid:425)e sich der Tiefladewagen am BÜ in km 70,4 selbstständig wieder eingegleist. Der 
+
+FIR 51474 fuhr anschließend bis Magdeburg Hauptbahnhof, wo er gegen 12:13 Uhr gestellt 
+
+wurde. 
+
+5.2  Bewertung	und	Schlussfolgerung	
+
+Im Laufe der Untersuchung wurde festgestellt, dass die Zerstörung der Arre(cid:415)erung des Trag-
+
+schnabels B 2 zum Versagen der Kurzkupplung zwischen den beiden Halbwagen geführt ha(cid:425)e. 
+
+Als Ursache für die Zerstörung der Arre(cid:415)erung des Tragschnabels ist ein Montagefehler im 
+
+Rahmen der Vorbereitung für den Transport des Fahrzeuges anzusehen. Bei der Herstellung 
+
+der Lasche-Bolzen-Verbindung zwischen dem Tragschnabel B 2 und dem Führungspunk(cid:425)räger 
+
+wurden die einzelnen Elemente der Verbindung fehlerha(cid:332) zusammengesetzt und zudem un-
+
+ter  Einsatz  einer  vorgeschädigten  Fokkernadel  miteinander  verbunden.  Das  Schadbild  am 
+
+Tragschnabel B 2 mit den Verformungen der Laschen sowohl in ihrer äußeren Gestalt als auch 
+
+in den vorhandenen Bohrungen für die Bolzen wies auf einen bedeutenden Krä(cid:332)eeintrag in 
+
+Längsrichtung des Bolzens hin. Dieser führte zum Abscheren der Fokkernadel am Bolzen auf 
+
+der Führungspunk(cid:425)rägerseite und eines Splints auf der Tragschnabelseite. Die Markierung an 
+
+der Bolzenaufnahme des Führungspunk(cid:425)rägers, die der äußeren Form der Lasche entsprach, 
+
+ließ auf einen dauerha(cid:332)en Spannungszustand in der Lasche-Bolzen-Verbindung schließen, der 
+
+auf den nachgewiesenen Montagefehler zurückzuführen sein könnte. Dafür sprach auch die 
+
+Abflachung des im Normalfall runden Querschni(cid:425)s der Fokkernadel, die sich an der Bruch-
+
+stelle manifes(cid:415)erte. Der am Halbwagen 2 festgestellte Montagefehler trat am Halbwagen 1 
+
+nicht auf. Das Erscheinungsbild der Fokkernadel, die sich am Tragschnabel B 1 befand, lässt 
+
+aber den Schluss zu, dass diese bereits beschädigt eingebaut wurde. Dennoch waren bei der 
+
+Untersuchung die Verbindungen zwischen den Tragschnäbeln und dem Führungspunk(cid:425)räger 
+
+am Halbwagen 1 vollständig intakt. Die Montagefehler und der Einbau bereits vorgeschädigter 
+
+Teile deuten auf eine mangelha(cid:332)e Umsetzung des Vieraugenprinzips bei der Vorbereitung des 
+
+Fahrzeuges auf diesem Transport hin. 
+
+Es  ist  anzunehmen,  dass  bei  der  Fahrt  durch  die  engen  Gleisbögen  bei  der  Einfahrt  in  den 
+
+Bf Belzig und in das Überholungsgleis 51G104 die fehlerha(cid:332) mon(cid:415)erte Lasche-Bolzen-Verbin-
+
+dung am Tragschnabel B 2 überbeansprucht wurde und die Fokkernadel und der Splint ab-
+
+scherten. Die Arre(cid:415)erung des Tragschnabels B 2 wurde infolgedessen aufgehoben. 
+
+Seite 26 von 28 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugentgleisung, 23.08.2011, Bf Belzig – Bf Wiesenburg (Mark) 
+
+Bei der Ausfahrt aus dem Überholungsgleis durch die Weichen 51W10 und 51W11 mit engen 
+
+gegenläufigen Bögen kam es zu einer Entlastung der kra(cid:332)schlüssigen Verbindung zwischen 
+
+der Kurzkupplung und den Tragschnäbeln und zu einer Verschiebung der Kurzkupplung aus 
+
+ihrer Sollposi(cid:415)on in Fahrtrichtung nach links. Dadurch ging die kra(cid:332)schlüssige Verbindung zwi-
+
+schen der Kurzkupplung und den beiden Halbwagen endgül(cid:415)g verloren. In der Folge senkten 
+
+sich die Tragschnäbel auf die in Fahrtrichtung an vierter und fün(cid:332)er Posi(cid:415)on des Wagens lau-
+
+fenden Drehgestelle ab. Dies führte zur Entlastung mehrerer Radsätze der an dri(cid:425)er und vier-
+
+ter  Stelle  laufenden  Drehgestelle  des  vorausfahrenden  Wagenteils  des  Tiefladewagens 
+
+Uaai 839. Anschließend kam es zum Abheben von den Schienen und zum Überkle(cid:425)ern der 
+
+Schienenköpfe. 
+
+Ereignisursächliche Einflüsse aus der Infrastruktur, der Leit- und Sicherungstechnik oder den 
+
+betrieblichen Handlungen beim Infrastrukturbetreiber konnten ausgeschlossen werden. Eine 
+
+rangierdienstliche Fehlbehandlung des Tragschnabelwagens im Bf Seddin konnte im Laufe der 
+
+aufwendigen Untersuchungen nicht nachgewiesen werden. 
+
+In Abweichung von den Bedingungen der Bza wurde während der Zugfahrten vom Bf Peitz Ost 
+
+bis Magdeburg Hauptbahnhof auf eine Begleitung des Fahrzeuges durch einen Mitarbeiter der 
+
+HCS/NCS verzichtet. Das EVU akzep(cid:415)erte diese Abweichung von der Bza. Der Wagen fuhr über 
+
+vier Kilometer im entgleisten Zustand, ohne dass die Entgleisung durch den Triebfahrzeugfüh-
+
+rer, den özF oder andere Betriebspersonale bemerkt wurde. Bei einer Begleitung des Fahrzeu-
+
+ges hä(cid:425)e die Möglichkeit bestanden, zumindest die Folgeschäden der Entgleisung zu minimie-
+
+ren. 
+
+Seite 27 von 28 
+
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugentgleisung, 23.08.2011, Bf Belzig – Bf Wiesenburg (Mark) 
+
+6  Bisher	getroffene	Maßnahmen	
+
+Die Druckteller der Kurzkupplung wurden konstruk(cid:415)v so geändert, dass der vorhandene Kra(cid:332)-
+
+schluss durch eine formschlüssige Komponente ergänzt wird. Somit ist Kurzkupplung weniger 
+
+anfällig gegen eine Verschiebung aus der Sollposi(cid:415)on. Die Konstruk(cid:415)onsänderung ist auf der 
+
+Abbildung unten zu erkennen. 
+
+Abbildung 18: Geänderte Kurzkupplung 
+
+Der Fahrzeughalter teilte mit, dass Tiefladewagen Uaai der Ga(cid:425)ung Uaai beim Transport in 
+
+Zügen, für die Regeltrassen bestellt wurden, zukün(cid:332)ig auch bei Leerfahrten begleitet werden. 
+
+Beim Transport in Zügen mit direktem Wagenlauf vom Start- bis zum Zielbahnhof ist eine ran-
+
+giertechnische Behandlung eher nicht zu erwarten. Solche Transporte werden ohne Beglei-
+
+tung gefahren. 
+
+7  Sicherheitsempfehlungen	
+
+Es wurden keine Sicherheitsempfehlungen ausgesprochen. 
+
+Seite 28 von 28 
+
+ 
+ 
+ 
 

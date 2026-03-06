@@ -1,842 +1,1227 @@
-Untersuchungsbericht
-Aktenzeichen:
+Untersuchungsbericht 
 
-60uu2016-05/006-3323
+Aktenzeichen: 
 
-Stand:
+60uu2016-05/006-3323 
 
-13.02.2023 Version: 1.0
+Stand: 
 
-Erstveröﬀentlichung:
+13.02.2023    Version:  1.0 
 
-21.02.2023
+Erstveröﬀentlichung:  21.02.2023 
 
-Gefährliches Ereignis im Eisenbahnbetrieb
+Gefährliches	Ereignis	im	Eisenbahnbetrieb 
 
-Ereignisart:
+Ereignisart: 
 
-Zugkollision
+Datum: 
 
-Datum:
+Zeit: 
 
-19.05.2016
+Zugkollision 
 
-Zeit:
+19.05.2016 
 
-14:51 Uhr
+14:51 Uhr 
 
-Benachbarte Betriebsstellen:
+Benachbarte Betriebsstellen:  
 
-Bf Wunstorf – Bf Haste
+Bf Wunstorf – Bf Haste 
 
-Streckennummer:
+Streckennummer: 
 
-1700
+Kilometer: 
 
-Kilometer:
+1700 
 
-24,954
+24,954 
 
-Untersuchungsbericht
-Zugkollision, 19.05.2016, Bf Wunstorf – Bf Haste
+ 
+	
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Veröﬀentlicht durch:
-Bundesstelle für Eisenbahnunfalluntersuchung
-Heinemannstraße 6
-53175 Bonn
+Zugkollision, 19.05.2016, Bf Wunstorf – Bf Haste 
 
-Untersuchungsbericht
-Zugkollision, 19.05.2016, Bf Wunstorf – Bf Haste
-Inhaltsverzeichnis
-I.
+Veröﬀentlicht durch: 
 
-Änderungsverzeichnis: .......................................................................................... II
+Bundesstelle für Eisenbahnunfalluntersuchung 
 
-II.
+Heinemannstraße 6 
 
-Abbildungsverzeichnis: ........................................................................................ III
+53175 Bonn 
 
-III.
+ 
+Untersuchungsbericht 
 
-Tabellenverzeichnis: ............................................................................................ III
+Zugkollision, 19.05.2016, Bf Wunstorf – Bf Haste 
 
-IV.
+Inhaltsverzeichnis 
 
-Abkürzungsverzeichnis: ....................................................................................... IV
+I. 
 
-1
+II. 
 
-Vorbemerkungen .................................................................................................. 1
+Änderungsverzeichnis: .......................................................................................... II 
 
-1.1
+Abbildungsverzeichnis: ........................................................................................ III 
 
-Organisatorischer Hinweis ...................................................................................... 1
+III. 
 
-1.2
+Tabellenverzeichnis: ............................................................................................ III 
 
-Ziel der Eisenbahnunfalluntersuchung.................................................................... 1
+IV. 
 
-2
+Abkürzungsverzeichnis: ....................................................................................... IV 
 
-Zusammenfassung ................................................................................................ 3
+1 
 
-2.1
+1.1 
 
-Kurzbeschreibung des Ereignisses........................................................................... 3
+1.2 
 
-2.2
+2 
 
-Folgen ...................................................................................................................... 3
+2.1 
 
-2.3
+2.2 
 
-Ursachen.................................................................................................................. 3
+2.3 
 
-2.4
+2.4 
 
-Sicherheitsempfehlungen ....................................................................................... 3
+3 
 
-3
+3.1 
 
-Allgemeine Angaben ............................................................................................. 4
+3.2 
 
-3.1
+3.3 
 
-Lage und Beschreibung des Ereignisortes ............................................................... 4
+3.4 
 
-3.2
+4 
 
-Beteiligte und Mitwirkende..................................................................................... 5
+4.1 
 
-3.3
+4.2 
 
-Äußere Bedingungen ............................................................................................... 5
+4.3 
 
-3.4
+Vorbemerkungen .................................................................................................. 1 
 
-Todesopfer, Verletzte und Sachschäden................................................................. 6
+Organisatorischer Hinweis ...................................................................................... 1 
 
-4
+Ziel der Eisenbahnunfalluntersuchung .................................................................... 1 
 
-Untersuchungsprotokoll ....................................................................................... 7
+Zusammenfassung ................................................................................................ 3 
 
-4.1
+Kurzbeschreibung des Ereignisses ........................................................................... 3 
 
-Zusammenfassung von Aussagen und Stellungnahmen ......................................... 7
+Folgen ...................................................................................................................... 3 
 
-4.2
+Ursachen .................................................................................................................. 3 
 
-Notfallmanagement ................................................................................................ 7
+Sicherheitsempfehlungen ....................................................................................... 3 
 
-4.3
+Allgemeine Angaben ............................................................................................. 4 
 
-Untersuchung der bautechnischen Infrastruktur ................................................... 8
+Lage und Beschreibung des Ereignisortes ............................................................... 4 
 
-4.3.1
+Beteiligte und Mitwirkende ..................................................................................... 5 
 
-Informationen zum Versuchsfeld zwischen Wunstorf und Haste .......................... 9
+Äußere Bedingungen ............................................................................................... 5 
 
-4.3.2
+Todesopfer, Verletzte und Sachschäden ................................................................. 6 
 
-Inspektionen und Auftragsschweißung ................................................................. 10
+Untersuchungsprotokoll ....................................................................................... 7 
 
-I
+Zusammenfassung von Aussagen und Stellungnahmen ......................................... 7 
 
-Untersuchungsbericht
-Zugkollision, 19.05.2016, Bf Wunstorf – Bf Haste
+Notfallmanagement ................................................................................................ 7 
 
-I.
+Untersuchung der bautechnischen Infrastruktur ................................................... 8 
 
-4.3.3
+4.3.1 
 
-Werkstofftechnische Schadensuntersuchung....................................................... 11
+Informationen zum Versuchsfeld zwischen Wunstorf und Haste .......................... 9 
 
-4.4
+4.3.2 
 
-Untersuchung der Leit- und Sicherungstechnik .................................................... 14
+Inspektionen und Auftragsschweißung ................................................................. 10 
 
-4.5
+I 
 
-Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers ................. 14
+ 
+ 
+Untersuchungsbericht 
 
-4.6
+Zugkollision, 19.05.2016, Bf Wunstorf – Bf Haste 
 
-Untersuchung der betrieblichen Abläufe der EVU ................................................ 14
+4.3.3 
 
-4.7
+Werkstofftechnische Schadensuntersuchung ....................................................... 11 
 
-Untersuchung von Fahrzeugen ............................................................................. 14
+4.4 
 
-5
+4.5 
 
-Auswertung ........................................................................................................ 16
+4.6 
 
-5.1
+4.7 
 
-Ereignisrekonstruktion .......................................................................................... 16
+5 
 
-5.2
+5.1 
 
-Bewertung und Schlussfolgerung .......................................................................... 16
+5.2 
 
-6
+6 
 
-Bisher getroffene Maßnahmen ........................................................................... 18
+7 
 
-7
+Untersuchung der Leit- und Sicherungstechnik .................................................... 14 
 
-Sicherheitsempfehlungen ................................................................................... 18
+Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers ................. 14 
 
-Änderungsverzeichnis:
-Änderung
+Untersuchung der betrieblichen Abläufe der EVU ................................................ 14 
 
-Stand
+Untersuchung von Fahrzeugen ............................................................................. 14 
 
-II
+Auswertung ........................................................................................................ 16 
 
-Untersuchungsbericht
-Zugkollision, 19.05.2016, Bf Wunstorf – Bf Haste
+Ereignisrekonstruktion .......................................................................................... 16 
 
-II.
+Bewertung und Schlussfolgerung .......................................................................... 16 
 
-Abbildungsverzeichnis:
-Abbildung 1: Lageplan ................................................................................................................ 4
-Abbildung 2: Spanbildung an einem ICE-Radsatz ...................................................................... 6
-Abbildung 3: Gebrochene Flügelschiene im ausgebauten Zustand ........................................... 7
-Abbildung 4: Auffindesituation des beschädigten Herzstückes................................................. 8
-Abbildung 5: Prinzipskizze des Versuchsherzstücks mit Bruchstelle ......................................... 9
-Abbildung 7: Spuren der Anlageflächen................................................................................... 12
-Abbildung 8: Bohrung am Primärbruch ................................................................................... 13
+Bisher getroffene Maßnahmen ........................................................................... 18 
 
-III.
+Sicherheitsempfehlungen ................................................................................... 18 
 
-Tabellenverzeichnis:
-Tabelle 1: Übersicht der äußeren Bedingungen ........................................................................ 5
-Tabelle 2: Übersicht der geschätzten Schadenshöhe ................................................................ 6
+I.  Änderungsverzeichnis:	
 
-III
+Änderung 
 
-Untersuchungsbericht
-Zugkollision, 19.05.2016, Bf Wunstorf – Bf Haste
+Stand 
 
-IV.
+II 
 
-Abkürzungsverzeichnis:
-AEG
+ 
+ 
+ 
+ 
+ 
+ 
+	
+	
+Untersuchungsbericht 
 
-Allgemeines Eisenbahngesetz
+Zugkollision, 19.05.2016, Bf Wunstorf – Bf Haste 
 
-BEU
+II.  Abbildungsverzeichnis:	
 
-Bundesstelle für Eisenbahnunfalluntersuchung
+Abbildung 1: Lageplan ................................................................................................................ 4 
 
-BEVVG
+Abbildung 2: Spanbildung an einem ICE-Radsatz ...................................................................... 6 
 
-Bundeseisenbahnverkehrsverwaltungsgesetz
+Abbildung 3: Gebrochene Flügelschiene im ausgebauten Zustand ........................................... 7 
 
-CrB1400
+Abbildung 4: Auffindesituation des beschädigten Herzstückes ................................................. 8 
 
-Chrombainit mit 1400 N/mm Bruchfes gkeit
+Abbildung 5: Prinzipskizze des Versuchsherzstücks mit Bruchstelle ......................................... 9 
 
-EBA
+Abbildung 7: Spuren der Anlageflächen................................................................................... 12 
 
-Eisenbahn-Bundesamt
+Abbildung 8: Bohrung am Primärbruch ................................................................................... 13 
 
-EIU
+III.  Tabellenverzeichnis:	
 
-Eisenbahninfrastrukturunternehmen
+Tabelle 1: Übersicht der äußeren Bedingungen ........................................................................ 5 
 
-EU
+Tabelle 2: Übersicht der geschätzten Schadenshöhe ................................................................ 6 
 
-Europäische Union
+III 
 
-EUV
+ 
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Eisenbahn-Unfalluntersuchungsverordnung
+Zugkollision, 19.05.2016, Bf Wunstorf – Bf Haste 
 
-EVU
+IV.  Abkürzungsverzeichnis:	
 
-Eisenbahnverkehrsunternehmen
+AEG 
 
-Fdl
+BEU 
 
-Fahrdienstleiter
+Allgemeines Eisenbahngesetz 
 
-Ril
+Bundesstelle für Eisenbahnunfalluntersuchung 
 
-Richtlinie
+BEVVG 
 
-SMS
+Bundeseisenbahnverkehrsverwaltungsgesetz 
 
-Sicherheitsmanagementsystem
+CrB1400 
 
-SPG
+Chrombainit mit 1400 N/mm Bruchfes(cid:415)gkeit 
 
-Ultraschall-Prüfgerät
+EBA 
 
-VzG
+EIU 
 
-Verzeichnis der örtlich zulässigen Geschwindigkeiten
+EU 
 
-ZfP
+EUV 
 
-Zerstörungsfreie Prüfung
+EVU 
 
-IV
+Fdl 
 
-Untersuchungsbericht
-Zugkollision, 19.05.2016, Bf Wunstorf – Bf Haste
+Ril 
 
-1 Vorbemerkungen
-Das Kapitel Vorbemerkungen befasst sich mit allgemeinen Informa onen zur Bundesstelle für
-Eisenbahnunfalluntersuchung (BEU). Dabei wird die gesetzliche Grundlage genannt und die
-Au auorganisa on kurz umrissen.
+SMS 
 
-1.1 Organisatorischer Hinweis
-Mit der Richtlinie (EU) 2016/798 des Europäischen Parlaments und des Rates zur Eisenbahnsicherheit in der Gemeinschaft (Eisenbahnsicherheitsrichtlinie) wurden die Mitgliedstaaten
-der Europäischen Union (EU) verpflichtet, unabhängige Untersuchungsstellen für die Untersuchung bestimmter gefährlicher Ereignisse einzurichten.
-Diese Richtlinie wurde mit dem Gesetz zur Neuordnung der Eisenbahnunfalluntersuchung
-vom 27. Juni 2017 und der Eisenbahn-Unfalluntersuchungsverordnung vom 05.07.2007, die
-durch Artikel 1 der Verordnung vom 26.11.2019 geändert worden ist, umgesetzt. Die BEU ist
-eine Bundesoberbehörde im Geschäftsbereich des Bundesministeriums für Digitales und Verkehr.
-Gemäß § 6 Abs. 2 des Bundeseisenbahnverkehrsverwaltungsgesetzes (BEVVG) wurde der Sitz
-und Aufbau der BEU im „Organisationserlass zur Errichtung der Bundesstelle für
-Eisenbahnunfalluntersuchung“ des Bundesministeriums für Verkehr und digitale Infrastruktur
-festgelegt und die BEU zum 14.07.2017 errichtet.
-Näheres hierzu ist im Internet unter www.beu.bund.de eingestellt.
+SPG 
 
-1.2 Ziel der Eisenbahnunfalluntersuchung
-Ziel und Zweck der Untersuchungen ist es, die Ursachen von gefährlichen Ereignissen aufzuklären und hieraus Hinweise zur Verbesserung der Sicherheit abzuleiten. Untersuchungen der
-BEU dienen nicht dazu, ein Verschulden festzustellen oder Fragen der Haftung oder sonstiger
-zivilrechtlicher Ansprüche zu klären und werden unabhängig von jeder gerichtlichen Untersuchung durchgeführt.
-Die Untersuchung umfasst die Sammlung und Auswertung von Informationen, die Erarbeitung
-von Schlussfolgerungen einschließlich der Feststellung der Ursachen und gegebenenfalls die
-Abgabe von Sicherheitsempfehlungen. Die Vorschläge der Untersuchungsstelle zur Vermei-
+VzG 
 
-Seite 1 von 18
+ZfP 
 
-Untersuchungsbericht
-Zugkollision, 19.05.2016, Bf Wunstorf – Bf Haste
-dung von Unfällen und Verbesserung der Sicherheit im Eisenbahnverkehr werden der Sicherheitsbehörde und, soweit erforderlich, anderen Stellen und Behörden oder anderen Mitgliedstaaten der EU in Form von Sicherheitsempfehlungen mitgeteilt.
+Eisenbahn-Bundesamt 
 
-Seite 2 von 18
+Eisenbahninfrastrukturunternehmen 
 
-Untersuchungsbericht
-Zugkollision, 19.05.2016, Bf Wunstorf – Bf Haste
+Europäische Union 
 
-2 Zusammenfassung
-Das Kapitel befasst sich mit einer kurzen Darstellung des Ereignisherganges, den Folgen und
-den Primärursachen. Abschließend werden eventuell erteilte Sicherheitsempfehlungen aufgeführt.
+Eisenbahn-Unfalluntersuchungsverordnung 
 
-2.1 Kurzbeschreibung des Ereignisses
-Am 19.05.2016 kollidierten gegen 14:51 Uhr der ICE 548, auf dem Weg von BerlinGesundbrunnen nach Düsseldorf Hbf, und gegen 15:20 Uhr der ICE 549, auf dem Weg von
-Düsseldorf Hbf nach Berlin-Gesundbrunnen, im Streckengleis Wunstorf - Haste mit einem
-Ausbruch an der Flügelschiene eines Versuchsherzstücks im km 24,954.
+Eisenbahnverkehrsunternehmen 
 
-2.2 Folgen
-Personen wurden weder verletzt noch getötet. Es entstanden Sachschäden an der
-Infrastruktur sowie an den Radsätzen der beteiligten Fahrzeuge.
+Fahrdienstleiter 
 
-2.3 Ursachen
-Ein im Rahmen einer Betriebserprobung verbautes Versuchsherzstück und die dazugehörige
-Flügelschiene
+Richtlinie 
 
-ha e
+Sicherheitsmanagementsystem 
 
-den
+Ultraschall-Prüfgerät 
 
-dynamischen
+Verzeichnis der örtlich zulässigen Geschwindigkeiten 
 
-Belastungen
+Zerstörungsfreie Prüfung 
 
-des
+IV 
 
-Eisenbahnbetriebs
+ 
+ 
+ 
+Untersuchungsbericht 
 
-nicht
+Zugkollision, 19.05.2016, Bf Wunstorf – Bf Haste 
 
-standgehalten. In der Folge kam es oﬀensichtlich zu Rissbildungen und später zu einem
-großflächigen Ausbruch an der Flügelschiene.
+1  Vorbemerkungen	
 
-2.4 Sicherheitsempfehlungen
-Es wurden keine Sicherheitsempfehlungen ausgesprochen.
+Das Kapitel Vorbemerkungen befasst sich mit allgemeinen Informa(cid:415)onen zur Bundesstelle für 
 
-Seite 3 von 18
+Eisenbahnunfalluntersuchung (BEU). Dabei wird die gesetzliche Grundlage genannt und die 
 
-Untersuchungsbericht
-Zugkollision, 19.05.2016, Bf Wunstorf – Bf Haste
+Au(cid:297)auorganisa(cid:415)on kurz umrissen. 
 
-3 Allgemeine Angaben
-Das Kapitel beinhaltet allgemeine Angaben zur Beschreibung des Ereignisortes und der relevanten Bahnanlagen. Des Weiteren werden die an der Unfalluntersuchung beteiligten und
-mitwirkenden Stellen, die äußeren Bedingungen, die Anzahl der bei dem Ereignis verletzten
-und getöteten Personen sowie Art und Höhe der Folgeschäden benannt.
+1.1  Organisatorischer	Hinweis	
 
-3.1 Lage und Beschreibung des Ereignisortes
-Die Zugkollision ereignete sich auf der Strecke Hannover Hbf – Hamm (Wes ) zwischen den
-Bahnhöfen (Bf) Wunstorf und Haste. Bei diesem Streckenabschni handelt es sich um eine
-elektrifizierte, zweigleisige Hauptbahn der Streckenklasse D 4, die gemäß Verzeichnis der
-örtlich zulässigen Geschwindigkeiten (VzG) mit einer Geschwindigkeit von höchstens
-160 km/h befahren werden darf. Die maximal zulässige Radsatzlast beträgt 22,5 t, das
-maximal zulässige Fahrzeuggewicht je Längeneinheit 8,0 t/m. Die Strecke trägt die VzGNummer 1700 und ist mit digitalem Zugfunk, Global System for Mobile Communica ons
-Railway, sowie dem Zugsicherungssystem punk örmige Zugbeeinflussung ausgesta et. Die
-folgende Abbildung zeigt die geografische Lage des Ereignisortes zwischen den Betriebsstellen
-Wunstorf und Haste.
+Mit der Richtlinie (EU) 2016/798 des Europäischen Parlaments und des Rates zur Eisenbahn-
 
-Abbildung 1: Lageplan1
+sicherheit  in  der  Gemeinschaft  (Eisenbahnsicherheitsrichtlinie)  wurden  die  Mitgliedstaaten 
 
-1
+der Europäischen Union (EU) verpflichtet, unabhängige Untersuchungsstellen für die Unter-
 
-Quelle: Geobasisdaten: © GeoBasis-DE / BKG [2020], bearbeitet durch BEU
+suchung bestimmter gefährlicher Ereignisse einzurichten. 
 
-Seite 4 von 18
+Diese  Richtlinie  wurde  mit  dem  Gesetz  zur  Neuordnung  der  Eisenbahnunfalluntersuchung 
 
-Untersuchungsbericht
-Zugkollision, 19.05.2016, Bf Wunstorf – Bf Haste
+vom 27. Juni 2017 und der Eisenbahn-Unfalluntersuchungsverordnung vom 05.07.2007, die 
 
-3.2 Beteiligte und Mitwirkende
-Am Ereignis waren folgende Stellen beteiligt:
-
+durch Artikel 1 der Verordnung vom 26.11.2019 geändert worden ist, umgesetzt. Die BEU ist 
 
-DB Netz AG als Eisenbahninfrastrukturunternehmen (EIU)
+eine Bundesoberbehörde im Geschäftsbereich des Bundesministeriums für Digitales und Ver-
 
-
+kehr. 
 
-DB Fernverkehr AG als Eisenbahnverkehrsunternehmen (EVU)
+Gemäß § 6 Abs. 2 des Bundeseisenbahnverkehrsverwaltungsgesetzes (BEVVG) wurde der Sitz 
 
-Im Rahmen der Sachverhaltsermi lung und Ursachenerforschung wurden neben den o. g.
-Beteiligten die DB Systemtechnik GmbH für die werksto echnische Schadensuntersuchung
-mit einbezogen.
+und  Aufbau  der  BEU 
 
-3.3 Äußere Bedingungen
-Zum Zeitpunkt des Ereignisses herrschten folgende Bedingungen:
-Lichtverhältnisse
+im  „Organisationserlass  zur  Errichtung  der  Bundesstelle  für 
 
-Tageslicht
+Eisenbahnunfalluntersuchung“ des Bundesministeriums für Verkehr und digitale Infrastruktur 
 
-Sicht
+festgelegt und die BEU zum 14.07.2017 errichtet. 
 
-klar
+Näheres hierzu ist im Internet unter www.beu.bund.de eingestellt. 
 
-Bedeckung
+1.2  Ziel	der	Eisenbahnunfalluntersuchung	
 
-bedeckt
+Ziel und Zweck der Untersuchungen ist es, die Ursachen von gefährlichen Ereignissen aufzu-
 
-Temperaturen
+klären und hieraus Hinweise zur Verbesserung der Sicherheit abzuleiten. Untersuchungen der 
 
-20°C
+BEU dienen nicht dazu, ein Verschulden festzustellen oder Fragen der Haftung oder sonstiger 
 
-fallender Niederschlag
+zivilrechtlicher Ansprüche zu klären und werden unabhängig von jeder gerichtlichen Untersu-
 
-Nein
+chung durchgeführt. 
 
-Niederschlagshäufigkeit
+Die Untersuchung umfasst die Sammlung und Auswertung von Informationen, die Erarbeitung 
 
---
+von Schlussfolgerungen einschließlich der Feststellung der Ursachen und gegebenenfalls die 
 
-Untergrund / gefallener Niederschlag
+Abgabe von Sicherheitsempfehlungen. Die Vorschläge der Untersuchungsstelle zur Vermei-
 
-trocken
+Seite 1 von 18 
 
-Tabelle 1: Übersicht der äußeren Bedingungen
+ 
+ 
+Untersuchungsbericht 
 
-Die äußeren Bedingungen standen in keinem erkennbaren kausalen Zusammenhang mit der
-Ereignisursache.
+Zugkollision, 19.05.2016, Bf Wunstorf – Bf Haste 
 
-Seite 5 von 18
+dung von Unfällen und Verbesserung der Sicherheit im Eisenbahnverkehr werden der Sicher-
 
-Untersuchungsbericht
-Zugkollision, 19.05.2016, Bf Wunstorf – Bf Haste
+heitsbehörde und, soweit erforderlich, anderen Stellen und Behörden oder anderen Mitglied-
 
-3.4 Todesopfer, Verletzte und Sachschäden
-Personenschäden waren nicht zu beklagen. An den Radsätzen der betroﬀenen Züge
-entstanden Sachschäden, der Oberbau wurde leicht beschädigt.
-Die geschätzte Höhe der Sachschäden in Euro setzt sich wie folgt zusammen:
-geschätzte Kosten in Euro
-Fahrzeuge
+staaten der EU in Form von Sicherheitsempfehlungen mitgeteilt. 
 
-650.000
+Seite 2 von 18 
 
-Infrastruktur
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-1.000
+Zugkollision, 19.05.2016, Bf Wunstorf – Bf Haste 
 
-Dri e
-Gesamtschadenshöhe
+2  Zusammenfassung	
 
-651.000
+Das Kapitel befasst sich mit einer kurzen Darstellung des Ereignisherganges, den Folgen und 
 
-Tabelle 2: Übersicht der geschätzten Schadenshöhe
+den Primärursachen. Abschließend werden eventuell erteilte Sicherheitsempfehlungen auf-
 
-Die folgenden Abbildungen zeigen einen beschädigten Radsatz und das gebrochene
-Versuchsherzstück im ausgebauten Zustand.
+geführt. 
 
-Abbildung 2: Spanbildung an einem ICE-Radsatz2
+2.1  Kurzbeschreibung	des	Ereignisses	
 
-2
+Am  19.05.2016  kollidierten  gegen  14:51 Uhr  der  ICE  548,  auf  dem  Weg  von  Berlin-
 
-Quelle: DB Systemtechnik GmbH
+Gesundbrunnen nach Düsseldorf Hbf, und gegen 15:20 Uhr der ICE 549, auf dem  Weg von 
 
-Seite 6 von 18
+Düsseldorf Hbf  nach  Berlin-Gesundbrunnen,  im  Streckengleis  Wunstorf  -  Haste  mit  einem 
 
-Untersuchungsbericht
-Zugkollision, 19.05.2016, Bf Wunstorf – Bf Haste
+Ausbruch an der Flügelschiene eines Versuchsherzstücks im km 24,954. 
 
-Abbildung 3: Gebrochene Flügelschiene im ausgebauten Zustand
+2.2  Folgen	
 
-4 Untersuchungsprotokoll
-In diesem Kapitel werden die ermi elten Ergebnisse zu einzelnen in Zusammenhang mit dem
-Ereignis stehenden Teilbereichen des Eisenbahnwesens dargestellt. Daneben wurden auch die
-entsprechenden Schni stellen sowie das Sicherheitsmanagement (SMS) im betroﬀenen Bereich betrachtet. Die jeweilig relevanten Erkenntnisse werden fortlaufend aufgeführt.
+Personen  wurden  weder  verletzt  noch  getötet.  Es  entstanden  Sachschäden  an  der 
 
-4.1 Zusammenfassung von Aussagen und Stellungnahmen
-Vorliegende Aussagen oder Stellungnahmen am Ereignis beteiligter Personen sind in die Ermi lungen mit eingeflossen. Auf einen gesonderten Abdruck wird an dieser Stelle verzichtet.
+Infrastruktur sowie an den Radsätzen der beteiligten Fahrzeuge. 
 
-4.2 Notfallmanagement
-Nach § 4 Abs. 3 Allgemeines Eisenbahngesetz (AEG) haben die Eisenbahnen die Verpflichtung,
-an Maßnahmen des Brandschutzes und der technischen Hilfeleistung mitzuwirken. In einer
-Vereinbarung zwischen den Innenministerien der Länder und der DB AG hat man sich auf eine
-Verfahrensweise verständigt. Für die DB Netz AG gelten die entsprechenden Brand- und
-Seite 7 von 18
+2.3  Ursachen	
 
-Untersuchungsbericht
-Zugkollision, 19.05.2016, Bf Wunstorf – Bf Haste
-Katastrophenschutzgesetze der Länder. Das No allmanagement der DB AG ist in der
-Konzernrichtlinie 123, das der DB Netz AG in der Richtlinie (Ril) 423 näher beschrieben und
-geregelt.
-Personen-, Umwelt- oder Sachschäden, die das Einleiten von Re ungsmaßnahmen erfordert
-hä en, waren nicht entstanden.
+Ein im Rahmen einer Betriebserprobung verbautes Versuchsherzstück und die dazugehörige 
 
-4.3 Untersuchung der bautechnischen Infrastruktur
-In diesem Abschni werden die Untersuchungsergebnisse der bautechnischen Infrastruktur
-dargestellt. Die Abbildung 4 zeigt die gebrochene Flügelschiene, wie diese von Mitarbeitern
-der DB Netz AG im Gleis vorgefunden wurde. Es wird davon ausgegangen, dass es zuerst zu
-einem von der Bohrung ausgehenden Bruch der Flügelschiene (Primärbruch) kam. Später kam
-es dann zu einem zweiten Bruch auf Höhe der Herzstückspitze (Sekundärbruch). Weiterhin ist
-erkennbar, dass am Primärbruch die Verschraubung der Fu erstücke, die den Abstand
-zwischen den Flügelschienen und Schienen bzw. der Herzstückspitze sicherstellen, nicht fest
-verschraubt waren. Am Sekundärbruch fehlt die Verschraubung komple . Teile der
-gebrochenen Schrauben sind in der linken oberen Bildecke erkennbar.
+Flügelschiene  ha(cid:425)e  den  dynamischen  Belastungen  des  Eisenbahnbetriebs  nicht 
 
-Abbildung 4: Auﬃndesitua on des beschädigten Herzstückes3
+standgehalten.  In  der  Folge  kam  es  oﬀensichtlich  zu  Rissbildungen  und  später  zu  einem 
 
-3
+großﬂächigen Ausbruch an der Flügelschiene. 
 
-Quelle: DB Netz AG
+2.4  Sicherheitsempfehlungen	
 
-Seite 8 von 18
+Es wurden keine Sicherheitsempfehlungen ausgesprochen. 
 
-Untersuchungsbericht
-Zugkollision, 19.05.2016, Bf Wunstorf – Bf Haste
-4.3.1 Informationen zum Versuchsfeld zwischen Wunstorf und Haste
-Ab November 2004 erprobte die DB Netz AG auf der Strecke 1700 (Hannover Hbf –
-Hamm (Wes )) von km 24,823 bis km 26,396 höherfeste Werkstoﬀe bei starren, einfachen
-Herzstücken. Ziel der Betriebserprobung war es, durch werksto echnische Untersuchungen
-die Verfügbarkeit und Wirtscha lichkeit von Herzstücken zu erhöhen. Wie in folgender
-Abbildung zu sehen ist, bestand ein Versuchsplatz grundsätzlich aus dem Herzstückbereich
-einer einfachen Weiche der Regelbauart EH 60 – 500-1:12 sowie einem gegenüberliegenden
-Radlenker.
+Seite 3 von 18 
 
-Abbildung 5: Prinzipskizze des Versuchsherzstücks mit Bruchstelle
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-Als Versuchswerkstoﬀe sollte der Einsatz unterschiedlicher Materialgüten erprobt werden,
-u. a. auch die chrombaini sche Stahlsorte, die im Vergleich zu anderen Versuchswerkstoﬀen
-mit 1400 N/mm (CrB1400) die höchste Bruchfes gkeit besaß. So war im sog. Versuchsfeld
-Haste auch die gleichzei ge Verwendung von CrB1400 an Herzstückspitze und Flügelschiene
-vorgesehen, die im Folgenden als vollbaini sches Herzstück bezeichnet werden.
-Am 22.03.2016 beendete die DB Netz AG mit der technischen Mi eilung TM 1-2016-10206
-I.NPF 11 die Betriebserprobung der vollbaini schen Herzstücke. Grund dafür war u. a., dass
-das Eisenbahn-Bundesamt (EBA) der beantragten Verlängerung der Betriebserprobung nicht
-zuges mmt ha e, weil es zu ungeklärten Rissen und Brüchen an CrB1400Schienenkomponenten gekommen war.
-Zum Zeitpunkt des Ereignisses am 19.05.2016 war auf dem Streckengleis Wunstorf – Haste am
-Versuchsplatz 02 in km 24,954 ein vollbaini sches, starres, einfaches Herzstück EH 60-5001:12 der Bauart EB-DB verbaut. Hergestellt wurde es im Jahr 2011 im Weichenwerk Wi en
+Zugkollision, 19.05.2016, Bf Wunstorf – Bf Haste 
 
-Seite 9 von 18
+3  Allgemeine	Angaben	
 
-Untersuchungsbericht
-Zugkollision, 19.05.2016, Bf Wunstorf – Bf Haste
-unter der Bezeichnung „Prädure“. Der Einbau des Versuchsherzstückes erfolgte am
-19.06.2011. Es wurde seitdem überwiegend spitz befahren.
-4.3.2 Inspektionen und Auftragsschweißung
-In diesem Abschni
+Das Kapitel beinhaltet allgemeine Angaben zur Beschreibung des Ereignisortes und der rele-
 
-werden die Ergebnisse der durchgeführten Inspek onen und die
+vanten  Bahnanlagen.  Des  Weiteren  werden  die  an  der  Unfalluntersuchung  beteiligten  und 
 
-Mängelbesei gung durch Au ragschweißen betrachtet.
-4.3.2.1 Inspektionen nach Richtlinie (Ril) 821.2005
-Der Regelinspek onsabstand für Weichen auf Strecken der Belastungsstufe 1, zu der auch
-dieser Streckenabschni
+mitwirkenden Stellen, die äußeren Bedingungen, die Anzahl der bei dem Ereignis verletzten 
 
-zählt, beträgt nach Ril 821.2005 sechs Monate. Die der BEU
+und getöteten Personen sowie Art und Höhe der Folgeschäden benannt. 
 
-vorgelegten Protokolle zeigten, dass die Regelinspek onen für das Versuchsherzstück 02 in
-verdichteten Zeiträumen, etwa alle drei Monate, ausgeführt wurden.
-Ein wesentliches Ergebnis bei der Auswertung der Inspek onsprotokolle war, dass an der
-Herzstückspitze eine Ausfahrung dokumen ert wurde, deren Werte sich von Inspek on zu
-Inspek on kon nuierlich verschlechterten. Am 24.08.2015 ha e die Ausfahrung schließlich
-einen Wert von 0,85 mm erreicht. Auch an der Flügelschiene wurde eine Ausfahrung
-dokumen ert, die ab der Inspek on am 19.11.2012 als mi lere Ausfahrung eingestu wurde.
-Die Behebung dieser Mängel erfolgte durch eine Au ragsschweißung im Zeitraum vom
-19.09.2015 bis 21.09.2015. Bei der Auswertung des Schweißprotokolls wurden keine
-unzulässigen Abweichungen von der Schweißanweisung festgestellt. Eine angeschmorte
-Zwischenlage, die Folge der Au ragsschweißung gewesen sein kann, ha e keinen Einfluss auf
-den Ereignisablauf. Die Ausführung der Au ragsschweißung war somit insgesamt nicht zu
-beanstanden.
-Weiterhin wurde festgestellt, dass die DB Netz AG im Rahmen ihrer Inspek onen lose
-Verschraubungen der Fu erstücke bemerkte und diese instandsetzte.
-4.3.2.2 Inspektionen nach Ril 821.2007
-Um Schienenfehler im Bereich der Versuchsherzstücke zu erkennen, wurden auch
-zerstörungsfreie Prüfungen (ZfP) in Form von Ultraschallprüfungen durchgeführt. Die ZfP
-erfolgten mit handgeführten Ultraschall-Prüfgeräten (SPG). Der Regelinspek onsabstand von
-Weichen, die mit Achslasten > 22,5 t befahren werden, beträgt mit dem SPG bei einer örtlich
-zulässigen Geschwindigkeit 120 km/h < v ≤ 160 km/h sechs, im Ausnahmefall acht Monate.
-Der BEU liegen für die ZfP des Versuchsherzstücks 02 die letzten drei Inspek onsprotokolle
+3.1  Lage	und	Beschreibung	des	Ereignisortes	
 
-Seite 10 von 18
+Die Zugkollision ereignete sich auf der Strecke Hannover Hbf – Hamm (Wes(cid:414)) zwischen den 
 
-Untersuchungsbericht
-Zugkollision, 19.05.2016, Bf Wunstorf – Bf Haste
-vom 16.06.2015, 17.11.2015 und 01.03.2016 vor. Damit wurden die Regelinspek onsabstände eingehalten. Alle Prüfungen waren nach den Auswertungen der Prü erichte ohne
-Befund.
-4.3.3 Werkstofftechnische Schadensuntersuchung
-Um die Ursache des Schienenbruchs zu ermi eln, beau ragte die DB Netz AG die
-DB Systemtechnik GmbH am 27.05.2016 mit werksto echnischen Schadensuntersuchungen.
-Für diese Untersuchungen wurde der Werkstoﬀ- und Schadensanaly k der DB
-Systemtechnik GmbH in Brandenburg-Kirchmöser das Versuchsherzstückes 02, bestehend aus
-drei Bruchstücken der Flügelschiene, Schrauben und Verschraubungselemente, zwei
-mon erten Flügelschienen und vier beschädigte Radsätze bereitgestellt.
-Zunächst wurde festgestellt, dass der Einbau der Versuchsherzstücke in das lückenlose Gleis
-ohne Zungenvorrichtung, im Vergleich zum Normalbetrieb, eine Besonderheit der
-Versuchsanordnung darstellt. Durch die Zungenvorrichtungen in einer Weiche können
-Längskrä e aufgenommen werden, die die Längsbeanspruchung des Herzstückes verringern.
-Das
+Bahnhöfen (Bf) Wunstorf und Haste. Bei diesem Streckenabschni(cid:425) handelt es sich um eine 
 
-bedeutet,
+elektriﬁzierte,  zweigleisige  Hauptbahn  der  Streckenklasse  D  4,  die  gemäß  Verzeichnis  der 
 
-dass
+örtlich  zulässigen  Geschwindigkeiten  (VzG)  mit  einer  Geschwindigkeit  von  höchstens 
 
-die
+160 km/h  befahren  werden  darf.  Die  maximal  zulässige  Radsatzlast  beträgt  22,5  t,  das 
 
-Versuchsherzstücke
+maximal  zulässige  Fahrzeuggewicht  je  Längeneinheit  8,0  t/m.  Die  Strecke  trägt  die  VzG-
 
-durchaus
+Nummer  1700  und  ist  mit  digitalem  Zugfunk,  Global  System  for  Mobile  Communica(cid:415)ons 
 
-einer
+Railway,  sowie  dem  Zugsicherungssystem  punk(cid:414)örmige  Zugbeeinﬂussung  ausgesta(cid:425)et.  Die 
 
-deutlich
+folgende Abbildung zeigt die geograﬁsche Lage des Ereignisortes zwischen den Betriebsstellen 
 
-höheren
+Wunstorf und Haste. 
 
-Längsbeanspruchung ausgesetzt sind, als Herzstücke im Normalbetrieb.
-In Bezug auf die losen und gebrochenen Verschraubungen der Fu erstücke kam die
-DB Systemtechnik GmbH in ihrem Inspek onsbericht zu folgendem Ergebnis:
-[…] „Einen wesentlichen Einfluss auf die äußere Beanspruchung der Flügelschienen wird im
-vorliegenden Fall dem Zustand der Verschraubungen zugeschrieben. Gemäß
-Inspek onsbericht [3] [red. Anm.: gemeint ist hier der Inspek onsbericht der DB Netz AG
-vom 12.09.2016] war am 29.02.2016 die Fu erstückverschraubung F3 gebrochen und
-erneuert worden. Am 14.04.2016 war der Bruch der Verschraubung F1 und F2 festgestellt
-und am 23./ 24.04.2016 gemeinsam mit F3 und F4 ersetzt worden [3]. Dennoch fehlten die
-Verschraubungen Fl‐F4 [sic!] bei Anlieferung vollständig, die Verschraubungen 4 und 5
-waren lose. Auch wenn sich die mitgelieferten Schraubenbruchstücke den Herzstückteilen
-A und B nicht eindeu g zuordnen ließen, sind diese aufgrund der ausschließlich daran
-festgestellten Ermüdungsbruchflächen ebenfalls ein Indiz dafür, dass sie bereits vor
-Schadenseintri nicht in einwandfreiem und damit voll funk onsfähigem Zustand waren.
-Zudem garan erten die hochkant mon erten Unterlagen, wie sie an den Posi onen F3
-und F4 vorlagen, keinen Festsitz der Schrauben: Wird eine Unterlage hochkant mon ert,
+Abbildung 1: Lageplan1 
 
-Seite 11 von 18
+1 Quelle:  Geobasisdaten: © GeoBasis-DE / BKG [2020], bearbeitet durch BEU 
 
-Untersuchungsbericht
-Zugkollision, 19.05.2016, Bf Wunstorf – Bf Haste
-liegt sie lediglich an ihren Kanten im Bereich der Rundungen zwischen Schienensteg und
-‐fuß bzw. ‐kopf an. Dies bewirkt eine signifikante Erhöhung der Flächenpressung, da die
-Anlagefläche deutlich kleiner ist. Es kommt dann bei dynamischer Beanspruchung zur
-plas schen Verformung an den Anlageflächen, da der Werkstoﬀ der Unterlage deutlich
-weicher ist als der Schienenwerkstoﬀ, wodurch sich die Schraubverbindung sukzessive löst.
-Die nicht ordnungsgemäßen Verschraubungen dür en zu einer Erhöhung der
-dynamischen Beanspruchung und damit zur Anrissini ierung an der Bohrung 4 in
-Herzstück EH02 entscheidend beigetragen haben.“[…]4
-In folgender Abbildung sind die unterschiedlichen Anlageflächen bei horizontaler und vertikaler Montage der Unterlagen zu erkennen.
+Seite 4 von 18 
 
-Abbildung 6: Spuren der Anlageflächen
+ 
+ 
+ 
+                                                       
+Untersuchungsbericht 
 
-4
+Zugkollision, 19.05.2016, Bf Wunstorf – Bf Haste 
 
-Inspektionsbericht 16-50328-I.IVI3-IB-107 vom 12.10.2016 der DB Systemtechnik GmbH
+3.2  Beteiligte	und	Mitwirkende	
 
-Seite 12 von 18
+Am Ereignis waren folgende Stellen beteiligt: 
 
-Untersuchungsbericht
-Zugkollision, 19.05.2016, Bf Wunstorf – Bf Haste
+  DB Netz AG als Eisenbahninfrastrukturunternehmen (EIU) 
 
-Abbildung 7: Bohrung am Primärbruch
+  DB Fernverkehr AG als Eisenbahnverkehrsunternehmen (EVU) 
 
-Abbildung 8 zeigt die Bohrung im Primärbruch der Flügelschiene, von der der Anriss ausging,
-und den daraus folgenden Gewaltbruch. Die Bildung von Rissen wurde durch
-Zugeigenspannungen in der Flügelschiene begüns gt. Zugeigenspannungen sind Krä e
-innerhalb eines Körpers, die ohne äußeren Kra eintrag vorhanden sind. Sie können durch
-thermische Einflüsse, z. B. im Rahmen des Hitzeeintrages bei der Fer gung oder beim
-Schweißen, entstehen. Nach den technischen Lieferbedingungen für „Herzstücke für Weichen
-und Kreuzungen aus der Stahlsorte Bainit“ (Deutsche Bahn-Standard DBS 918 141; Oktober
-2012) sind Zugeigenspannungen von höchstens 250 N/mm² zulässig. Messungen im Bereich
-der Schienenfußmi e ergaben im gebrochenen Zustand signifikant erhöhte Werte von
-347 N/mm².
-Kommen zu den dynamischen Krä en, die bei der Überfahrt eines Zuges auf die Flügelschiene
-wirken, zu hohe Zugeigenspannungen hinzu, steigt die Wahrscheinlichkeit eines
-Gewaltbruches. Hiervon sind insbesondere Flügelschienen betroﬀen, die bereits durch Anrisse
-Vorschädigungen aufweisen.
+Im  Rahmen  der  Sachverhaltsermi(cid:425)lung  und  Ursachenerforschung  wurden  neben  den  o. g. 
 
-Seite 13 von 18
+Beteiligten die DB Systemtechnik GmbH für die werksto(cid:335)echnische Schadensuntersuchung 
 
-Untersuchungsbericht
-Zugkollision, 19.05.2016, Bf Wunstorf – Bf Haste
+mit einbezogen. 
 
-4.4 Untersuchung der Leit‐ und Sicherungstechnik
-Zum Zeitpunkt des Ereignisses war die Gleisfreimeldeeinrichtung des Streckengleises zwischen
-Haste und Wunstorf gestört. Aus diesem Grund mussten aus Richtung Hamm kommende Züge
-in diesem Bereich das Gegengleis in Richtung Hannover befahren. Der betroﬀene
-Gleisabschni
+3.3  Äußere	Bedingungen		
 
-ist signaltechnisch für Fahrten im Gegengleis ausgerüstet. Hinweise auf
+Zum Zeitpunkt des Ereignisses herrschten folgende Bedingungen: 
 
-Störungen an der Leit- und Sicherungstechnik, die unmi elbaren Einfluss auf die Kollision der
-Züge mit dem Schienenbruch ha en, sind der BEU nicht bekannt und eher unwahrscheinlich.
-Auf weiterführende Untersuchungen der Leit- und Sicherungstechnik wurde daher verzichtet.
+Lichtverhältnisse 
 
-4.5 Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers
-Die Zugfahrten der ICE wurden vom Fahrdienstleiter (Fdl) Wunstorf mit Hauptsignalen
-zugelassen. Erkenntnisse, dass betriebliche Handlungen des Fdl Einfluss auf den Ablauf des
-Ereignisses ha en, liegen der BEU nicht vor. Auf weiterführende Untersuchungen
-dahingehend wurde deshalb verzichtet.
+Sicht 
 
-4.6 Untersuchung der betrieblichen Abläufe der EVU
-Die betrieblichen Handlungen der Tf beider ICE ha en keinen Einfluss auf die Kollision der
-Züge mit dem Schienenausbruch. Aus diesem Grund wurde auf weiterführende
-Untersuchungen verzichtet.
+Bedeckung 
 
-4.7 Untersuchung von Fahrzeugen
-Bei den betroﬀenen Fahrzeugen handelt es sich um folgende Züge:
-
+Temperaturen  
 
-ICE 548, bestehend aus dem Triebzug 235 mit dem Triebkopf 93 80 5402 035-0, und
-dem Triebzug 234 mit dem Triebkopf 93 80 5402 034-3. Dieser Zug war in Fahrtrichtung
-Hamm mit Steuerwagen voraus unterwegs. Das Versuchsherzstück 02 wurde von ihm
-spitz befahren, es befand sich also in Fahrtrichtung gesehen links.
+fallender Niederschlag 
 
-
+Niederschlagshäuﬁgkeit 
 
-ICE 549, bestehend aus dem Triebzug 241 mit dem Triebkopf 93 80 5402 041-8, sowie
-dem Triebzug 207 mit dem Triebkopf 93 80 5402 007-9. Dieser ICE passierte den Streckenabschnitt zwischen Haste und Wunstorf im Gegengleis in Richtung Hannover mit
-seinem Triebkopf voraus. Das Versuchsherzstück 02 wurde von ihm somit stumpf befahren, es befand sich also in Fahrtrichtung gesehen rechts.
+Tageslicht 
 
-Seite 14 von 18
+klar 
 
-Untersuchungsbericht
-Zugkollision, 19.05.2016, Bf Wunstorf – Bf Haste
-Beide ICE 2-Züge verfügten über Triebköpfe der Baureihe 402. Die Züge ha en jeweils eine
-Gesamtlänge von 412 m und ein Gesamtgewicht von 910 t. Die geforderten 187
-Mindestbremshundertstel wurden bei beiden Zügen erreicht.
-An beiden ICE wurden Beschädigungen der Lauﬄächen nach Beendigung der Tagesleistung im
-Rahmen der planmäßigen Nachschau festgestellt. Es handelte sich um Schäden in Form von
-Eindrückungen, Spanbildung und Materialverquetschungen. Am ICE 548 wurden diese
-Schäden ausschließlich an den Rädern der linken Fahrzeugseite, und am ICE 549 an den Rädern
-der rechten Seite festgestellt. Dies entsprach den Fahrzeugseiten, mit denen beide ICE das
-Versuchsherzstück bei Haste überfahren ha en. In Abbildung 2 sind diese Schäden
-exemplarisch dargestellt. Bei der werksto echnischen Oberflächenuntersuchung der
-DB Systemtechnik
+bedeckt 
 
-GmbH
+20°C 
 
-konnten
+Nein 
 
-die
+-- 
 
-Fahrzeugschäden
+Untergrund / gefallener Niederschlag  
 
-eindeu g
+trocken 
 
-mit
+Tabelle 1: Übersicht der äußeren Bedingungen 
 
-dem
+Die äußeren Bedingungen standen in keinem erkennbaren kausalen Zusammenhang mit der 
 
-Flügelschienenbruch in Zusammenhang gebracht werden. Zum einen, weil chromreiche
-Par kel in den Spanbruchflächen der äußeren Radlauﬄäche nachweisbar waren. Zum zweiten
-waren die Gesamtlängen der Radschäden mit der Ausbruchslänge des beschädigten
-Herzstückes miteinander vergleichbar. Darüber hinaus stellte die DB Systemtechnik GmbH
-fest, dass die Verformungsrichtung von Radfase und Fahrkante im oberflächennahen
-Mikrogefüge miteinander korrespondierte.
-Insgesamt betrachtet sind die Schäden an den Radsätzen der zwei ICE damit als Folge des
-Schienenbruchs zu bewerten.
-Die Überprüfung der beteiligten Fahrzeuge ergab keine Hinweise, die einen begüns genden
-Einfluss auf den Ereignisablauf ha en oder ursächlich für das Ereignis waren.
+Ereignisursache. 
 
-Seite 15 von 18
+Seite 5 von 18 
 
-Untersuchungsbericht
-Zugkollision, 19.05.2016, Bf Wunstorf – Bf Haste
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
 
-5 Auswertung
-Das Kapitel 5 Auswertung befasst sich mit der Ereignisrekonstruk on. Anhand der oben genannten Feststellungen wird ein plausibler Ablauf des gefährlichen Ereignisses zusammengetragen. Relevante Erkenntnisse werden anschließend bewertet und führen ggf. zu entsprechenden Schlussfolgerungen.
+Zugkollision, 19.05.2016, Bf Wunstorf – Bf Haste 
 
-5.1 Ereignisrekonstruktion
-Am 19.05.2016 gegen 14:51 Uhr befuhr der ICE 548 Versuchsherzstück 02. Dabei wurden die
-Radsätze auf der linken Fahrzeugseite beschädigt. Als nächstes folgte die Zugfahrt des ICE 549.
-Wegen einer Störung im Regelgleis zwischen Haste und Wunstorf befuhr dieser das
-Gegengleis. Dadurch passierte dieser Zug gegen 15:20 Uhr das defekte Versuchsherzstück.
-Kurz darauf meldete der Tf des ICE 549 dem Fdl Wunstorf, dass er zwischen Haste und
-Wunstorf einen Schlag vernommen ha e. Darau in veranlasste der Fdl eine Überprüfung des
-Streckenabschni es. Mitarbeiter der DB Netz AG stellten einen Bruch an der Flügelschiene
-des Versuchsherzstückes 02 fest. In der Folge wurde das Gleis Wunstorf – Haste ab 15:44 Uhr
-gesperrt. Der genaue Zeitpunkt des Gewaltbruches konnte nicht festgestellt werden. Bis zum
-Zeitpunkt der Schadensmeldung an den Fdl wurden im Nachgang nur bei den beiden ICEZügen Beschädigungen an den Radsätzen festestellt.
+3.4  Todesopfer,	Verletzte	und	Sachschäden	
 
-5.2 Bewertung und Schlussfolgerung
-Im Streckenabschni zwischen Wunstorf und Haste erprobte die DB Netz AG von November
-2004 bis März 2016 Versuchsherzstücke mit unterschiedlichen Materialgüten. Hierzu zählte
-bei Herzstückspitze und Flügelschiene auch der Versuchswerkstoﬀ CrB1400. Im Rahmen von
-Instandsetzungsarbeiten waren am Versuchsherzstück 02 Unterlagen der Verschraubungen
-von Komponenten des Versuchsherzstückes zum Teil ver kal sta
+Personenschäden  waren  nicht  zu  beklagen.  An  den  Radsätzen  der  betroﬀenen  Züge 
 
-horizontal mon ert.
+entstanden Sachschäden, der Oberbau wurde leicht beschädigt.  
 
-Deshalb verringerte sich zum einen die Anlagefläche an den Bohrungen des Schienensteges in
-erheblichem Umfang. Zum anderen konnten sich die Schraubverbindungen lockern und lösen,
-weil sich die Unterlagen bei Überfahrten von Zügen verformten. Die damit nicht mehr
-kra schlüssig anliegenden Schraubverbindungen führten durch dynamisch au retende Krä e
-bei Zugüberfahrten zur Überschreitung der berechneten Lochlaibungsspannung. CrB1400 ist
-ein sehr hartes, gleichzei g aber auch sehr sprödes Material. Während das deutlich weichere,
-aber auch flexiblere Standardmaterial R350 HT diese Belastungen sehr wahrscheinlich hä e
-kompensieren können, führten die Materialeigenscha en des CrB1400, ausgehend von den
+Die geschätzte Höhe der Sachschäden in Euro setzt sich wie folgt zusammen: 
 
-Seite 16 von 18
+geschätzte Kosten in Euro 
 
-Untersuchungsbericht
-Zugkollision, 19.05.2016, Bf Wunstorf – Bf Haste
-Bohrungen, zu Anrissen. Diese Anrisse wurden im Rahmen der Inspek onen nicht entdeckt,
-obwohl die Inspek onszeiträume bereits verkürzt waren. Zu welchem Zeitpunkt sich die
-Anrisse entwickelten, konnte nicht nachvollzogen werden.
+Fahrzeuge 
 
-Seite 17 von 18
+Infrastruktur 
 
-Untersuchungsbericht
-Zugkollision, 19.05.2016, Bf Wunstorf – Bf Haste
+Dri(cid:425)e 
 
-6 Bisher getroffene Maßnahmen
-Aus Anlass des Ereignisses in Haste führte die DB Netz AG eine Sonderinspek on ihrer im Netz
-verbauten vollbaini schen Herzstücke durch. Bei dieser Sonderinspek on wurden weitere
-Schäden an Flügelschienen dieser Herzstückkonstruk on festgestellt. Die DB Netz AG und das
-EBA erkannten darauf hin übereins mmend die dauerha e Notwendigkeit von
-Sonderinspek onen. In Abs mmung mit dem EBA legte die DB Netz AG Sonderinspek onen
-für alle im Netz verbliebenen vollbaini schen Herzstücke im Abstand von drei Monaten fest.
-Schwerpunkte hierbei waren die Überprüfung der Verschraubungen, sowie die Sicht- und
-Ultraschallprüfung der Flügelschienenbohrungen. Weiter wurde eine Meldepflicht zwischen
-der DB Netz AG und dem EBA bei sicherheitsrelevanten Störungen der Herzstücke vereinbart,
-um dann gemeinsam über das weitere Vorgehen zu entscheiden. Darüberhinaus wurde
-Einigung dahingehend erzielt, dass die bereits verbauten Versuchsherzstücke bis zum
-Erreichen des Abnutzungsvorrats im Netz verbleiben dur en.
+Gesamtschadenshöhe 
 
-7 Sicherheitsempfehlungen
-Es wurde keine Sicherheitsempfehlungen ausgesprochen.
+650.000 
 
-Seite 18 von 18
+     1.000 
 
+             - 
+
+651.000 
+
+Tabelle 2: Übersicht der geschätzten Schadenshöhe 
+
+Die  folgenden  Abbildungen  zeigen  einen  beschädigten  Radsatz  und  das  gebrochene
+
+Versuchsherzstück im ausgebauten Zustand. 
+
+Abbildung 2: Spanbildung an einem ICE-Radsatz2 
+
+2 Quelle: DB Systemtechnik GmbH 
+
+Seite 6 von 18 
+
+ 
+ 
+ 
+ 
+ 
+                                                       
+Untersuchungsbericht 
+
+Zugkollision, 19.05.2016, Bf Wunstorf – Bf Haste 
+
+Abbildung 3: Gebrochene Flügelschiene im ausgebauten Zustand 
+
+4  Untersuchungsprotokoll	
+
+In diesem Kapitel werden die ermi(cid:425)elten Ergebnisse zu einzelnen in Zusammenhang mit dem 
+
+Ereignis stehenden Teilbereichen des Eisenbahnwesens dargestellt. Daneben wurden auch die 
+
+entsprechenden Schni(cid:425)stellen sowie das Sicherheitsmanagement (SMS) im betroﬀenen Be-
+
+reich betrachtet. Die jeweilig relevanten Erkenntnisse werden fortlaufend aufgeführt. 
+
+4.1  Zusammenfassung	von	Aussagen	und	Stellungnahmen	
+
+Vorliegende Aussagen oder Stellungnahmen am Ereignis beteiligter Personen sind in die Er-
+
+mi(cid:425)lungen mit eingeﬂossen. Auf einen gesonderten Abdruck wird an dieser Stelle verzichtet.  
+
+4.2  Notfallmanagement	
+
+Nach § 4 Abs. 3 Allgemeines Eisenbahngesetz (AEG) haben die Eisenbahnen die Verpﬂichtung, 
+
+an Maßnahmen des Brandschutzes und der technischen Hilfeleistung mitzuwirken. In einer 
+
+Vereinbarung zwischen den Innenministerien der Länder und der DB AG hat man sich auf eine 
+
+Verfahrensweise  verständigt.  Für  die  DB  Netz  AG  gelten  die  entsprechenden  Brand-  und 
+
+Seite 7 von 18 
+
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 19.05.2016, Bf Wunstorf – Bf Haste 
+
+Katastrophenschutzgesetze  der  Länder.  Das  No(cid:414)allmanagement  der  DB  AG  ist  in  der 
+
+Konzernrichtlinie 123, das der DB Netz AG in der Richtlinie (Ril) 423 näher beschrieben und 
+
+geregelt. 
+
+Personen-, Umwelt- oder Sachschäden, die das Einleiten von Re(cid:425)ungsmaßnahmen erfordert 
+
+hä(cid:425)en, waren nicht entstanden. 
+
+4.3  Untersuchung	der	bautechnischen	Infrastruktur	
+
+In diesem Abschni(cid:425) werden die Untersuchungsergebnisse der bautechnischen Infrastruktur 
+
+dargestellt. Die Abbildung 4 zeigt die gebrochene Flügelschiene, wie diese von Mitarbeitern 
+
+der DB Netz AG im Gleis vorgefunden wurde. Es wird davon ausgegangen, dass es zuerst zu 
+
+einem von der Bohrung ausgehenden Bruch der Flügelschiene (Primärbruch) kam. Später kam 
+
+es dann zu einem zweiten Bruch auf Höhe der Herzstückspitze (Sekundärbruch). Weiterhin ist 
+
+erkennbar,  dass  am  Primärbruch  die  Verschraubung  der  Fu(cid:425)erstücke,  die  den  Abstand 
+
+zwischen den Flügelschienen und Schienen bzw. der Herzstückspitze sicherstellen, nicht fest 
+
+verschraubt  waren.  Am  Sekundärbruch  fehlt  die  Verschraubung  komple(cid:425).  Teile  der 
+
+gebrochenen Schrauben sind in der linken oberen Bildecke erkennbar. 
+
+Abbildung 4: Auﬃndesitua(cid:415)on des beschädigten Herzstückes3 
+
+3 Quelle: DB Netz AG 
+
+Seite 8 von 18 
+
+ 
+ 
+ 
+                                                       
+Untersuchungsbericht 
+
+Zugkollision, 19.05.2016, Bf Wunstorf – Bf Haste 
+
+4.3.1  Informationen	zum	Versuchsfeld	zwischen	Wunstorf	und	Haste	
+
+Ab  November  2004  erprobte  die  DB  Netz  AG  auf  der  Strecke  1700  (Hannover  Hbf  – 
+
+Hamm (Wes(cid:414))) von km 24,823 bis km 26,396 höherfeste Werkstoﬀe bei starren, einfachen 
+
+Herzstücken. Ziel der Betriebserprobung war es, durch werksto(cid:335)echnische Untersuchungen 
+
+die  Verfügbarkeit  und  Wirtscha(cid:332)lichkeit  von  Herzstücken  zu  erhöhen.  Wie  in  folgender 
+
+Abbildung zu sehen ist, bestand ein Versuchsplatz grundsätzlich aus dem Herzstückbereich 
+
+einer einfachen Weiche der Regelbauart EH 60 – 500-1:12 sowie einem gegenüberliegenden 
+
+Radlenker. 
+
+Abbildung 5: Prinzipskizze des Versuchsherzstücks mit Bruchstelle 
+
+Als  Versuchswerkstoﬀe  sollte  der  Einsatz  unterschiedlicher  Materialgüten  erprobt  werden, 
+
+u. a. auch die chrombaini(cid:415)sche Stahlsorte, die im Vergleich zu anderen Versuchswerkstoﬀen 
+
+mit  1400  N/mm  (CrB1400)  die  höchste  Bruchfes(cid:415)gkeit  besaß.  So  war  im  sog.  Versuchsfeld 
+
+Haste auch die gleichzei(cid:415)ge Verwendung von CrB1400 an Herzstückspitze und Flügelschiene 
+
+vorgesehen, die im Folgenden als vollbaini(cid:415)sches Herzstück bezeichnet werden.  
+
+Am 22.03.2016 beendete die DB Netz AG mit der technischen Mi(cid:425)eilung TM 1-2016-10206 
+
+I.NPF 11 die Betriebserprobung der vollbaini(cid:415)schen Herzstücke. Grund dafür war u. a., dass 
+
+das Eisenbahn-Bundesamt (EBA) der beantragten Verlängerung der Betriebserprobung nicht 
+
+zuges(cid:415)mmt  ha(cid:425)e,  weil  es  zu  ungeklärten  Rissen  und  Brüchen  an  CrB1400- 
+
+Schienenkomponenten gekommen war. 
+
+Zum Zeitpunkt des Ereignisses am 19.05.2016 war auf dem Streckengleis Wunstorf – Haste am 
+
+Versuchsplatz 02 in km  24,954 ein vollbaini(cid:415)sches, starres, einfaches Herzstück EH 60-500-
+
+1:12 der Bauart EB-DB verbaut. Hergestellt wurde es im Jahr 2011 im Weichenwerk Wi(cid:425)en 
+
+Seite 9 von 18 
+
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 19.05.2016, Bf Wunstorf – Bf Haste 
+
+unter  der  Bezeichnung  „Prädure“.  Der  Einbau  des  Versuchsherzstückes  erfolgte  am 
+
+19.06.2011. Es wurde seitdem überwiegend spitz befahren. 
+
+4.3.2  Inspektionen	und	Auftragsschweißung	
+
+In  diesem  Abschni(cid:425)  werden  die  Ergebnisse  der  durchgeführten  Inspek(cid:415)onen  und  die 
+
+Mängelbesei(cid:415)gung durch Au(cid:332)ragschweißen betrachtet. 
+
+4.3.2.1  Inspektionen	nach	Richtlinie	(Ril)	821.2005	
+
+Der  Regelinspek(cid:415)onsabstand  für  Weichen  auf  Strecken  der  Belastungsstufe  1,  zu  der  auch 
+
+dieser  Streckenabschni(cid:425)  zählt,  beträgt  nach  Ril  821.2005  sechs  Monate.  Die  der  BEU 
+
+vorgelegten Protokolle zeigten, dass die Regelinspek(cid:415)onen für das Versuchsherzstück 02 in 
+
+verdichteten Zeiträumen, etwa alle drei Monate, ausgeführt wurden. 
+
+Ein  wesentliches  Ergebnis  bei  der  Auswertung  der  Inspek(cid:415)onsprotokolle  war,  dass  an  der 
+
+Herzstückspitze  eine  Ausfahrung  dokumen(cid:415)ert  wurde,  deren  Werte  sich  von  Inspek(cid:415)on  zu 
+
+Inspek(cid:415)on kon(cid:415)nuierlich verschlechterten. Am 24.08.2015 ha(cid:425)e die Ausfahrung schließlich 
+
+einen  Wert  von  0,85  mm  erreicht.  Auch  an  der  Flügelschiene  wurde  eine  Ausfahrung 
+
+dokumen(cid:415)ert, die ab der Inspek(cid:415)on am 19.11.2012 als mi(cid:425)lere Ausfahrung eingestu(cid:332) wurde. 
+
+Die  Behebung  dieser  Mängel  erfolgte  durch  eine  Au(cid:332)ragsschweißung  im  Zeitraum  vom 
+
+19.09.2015  bis  21.09.2015.  Bei  der  Auswertung  des  Schweißprotokolls  wurden  keine 
+
+unzulässigen  Abweichungen  von  der  Schweißanweisung  festgestellt.  Eine  angeschmorte 
+
+Zwischenlage, die Folge der Au(cid:332)ragsschweißung gewesen sein kann, ha(cid:425)e keinen Einﬂuss auf 
+
+den  Ereignisablauf.  Die  Ausführung  der  Au(cid:332)ragsschweißung  war  somit  insgesamt  nicht  zu 
+
+beanstanden. 
+
+Weiterhin  wurde  festgestellt,  dass  die  DB  Netz  AG  im  Rahmen  ihrer  Inspek(cid:415)onen  lose 
+
+Verschraubungen der Fu(cid:425)erstücke bemerkte und diese instandsetzte. 
+
+4.3.2.2  Inspektionen	nach	Ril	821.2007	
+
+Um  Schienenfehler 
+
+im  Bereich  der  Versuchsherzstücke  zu  erkennen,  wurden  auch 
+
+zerstörungsfreie  Prüfungen  (ZfP)  in  Form  von  Ultraschallprüfungen  durchgeführt.  Die  ZfP 
+
+erfolgten mit handgeführten Ultraschall-Prüfgeräten (SPG). Der Regelinspek(cid:415)onsabstand von 
+
+Weichen, die mit Achslasten > 22,5 t befahren werden, beträgt mit dem SPG bei einer örtlich 
+
+zulässigen Geschwindigkeit 120 km/h < v ≤ 160 km/h sechs, im Ausnahmefall acht Monate. 
+
+Der BEU liegen für die ZfP des Versuchsherzstücks 02 die letzten drei Inspek(cid:415)onsprotokolle 
+
+Seite 10 von 18 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 19.05.2016, Bf Wunstorf – Bf Haste 
+
+vom  16.06.2015,  17.11.2015  und  01.03.2016  vor.  Damit  wurden  die  Regelinspek(cid:415)ons-
+
+abstände eingehalten. Alle Prüfungen waren nach den Auswertungen der Prü(cid:297)erichte ohne 
+
+Befund. 
+
+4.3.3  Werkstofftechnische	Schadensuntersuchung	
+
+Um  die  Ursache  des  Schienenbruchs  zu  ermi(cid:425)eln,  beau(cid:332)ragte  die  DB  Netz  AG  die 
+
+DB Systemtechnik GmbH am 27.05.2016 mit werksto(cid:335)echnischen Schadensuntersuchungen. 
+
+Für  diese  Untersuchungen  wurde  der  Werkstoﬀ-  und  Schadensanaly(cid:415)k  der  DB 
+
+Systemtechnik GmbH in Brandenburg-Kirchmöser das Versuchsherzstückes 02, bestehend aus 
+
+drei  Bruchstücken  der  Flügelschiene,  Schrauben  und  Verschraubungselemente,  zwei 
+
+mon(cid:415)erten Flügelschienen und vier beschädigte Radsätze bereitgestellt. 
+
+Zunächst wurde festgestellt, dass der Einbau der Versuchsherzstücke in das lückenlose Gleis 
+
+ohne  Zungenvorrichtung, 
+
+im  Vergleich  zum  Normalbetrieb,  eine  Besonderheit  der 
+
+Versuchsanordnung  darstellt.  Durch  die  Zungenvorrichtungen  in  einer  Weiche  können 
+
+Längskrä(cid:332)e aufgenommen werden, die die Längsbeanspruchung des Herzstückes verringern. 
+
+Das  bedeutet,  dass  die  Versuchsherzstücke  durchaus  einer  deutlich  höheren 
+
+Längsbeanspruchung ausgesetzt sind, als Herzstücke im Normalbetrieb. 
+
+In  Bezug  auf  die  losen  und  gebrochenen  Verschraubungen  der  Fu(cid:425)erstücke  kam  die 
+
+DB Systemtechnik GmbH in ihrem Inspek(cid:415)onsbericht zu folgendem Ergebnis: 
+
+[…] „Einen wesentlichen Einﬂuss auf die äußere Beanspruchung der Flügelschienen wird im 
+
+vorliegenden Fall dem Zustand der Verschraubungen zugeschrieben. Gemäß 
+
+Inspek(cid:415)onsbericht [3] [red. Anm.: gemeint ist hier der Inspek(cid:415)onsbericht der DB Netz AG 
+
+vom 12.09.2016] war am 29.02.2016 die Fu(cid:425)erstückverschraubung F3 gebrochen und 
+
+erneuert worden. Am 14.04.2016 war der Bruch der Verschraubung F1 und F2 festgestellt 
+
+und am 23./ 24.04.2016 gemeinsam mit F3 und F4 ersetzt worden [3]. Dennoch fehlten die 
+
+Verschraubungen Fl‐F4 [sic!] bei Anlieferung vollständig, die Verschraubungen 4 und 5 
+
+waren lose. Auch wenn sich die mitgelieferten Schraubenbruchstücke den Herzstückteilen 
+
+A und B nicht eindeu(cid:415)g zuordnen ließen, sind diese aufgrund der ausschließlich daran 
+
+festgestellten Ermüdungsbruchﬂächen ebenfalls ein Indiz dafür, dass sie bereits vor 
+
+Schadenseintri(cid:425) nicht in einwandfreiem und damit voll funk(cid:415)onsfähigem Zustand waren. 
+
+Zudem garan(cid:415)erten die hochkant mon(cid:415)erten Unterlagen, wie sie an den Posi(cid:415)onen F3 
+
+und F4 vorlagen, keinen Festsitz der Schrauben: Wird eine Unterlage hochkant mon(cid:415)ert, 
+
+Seite 11 von 18 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 19.05.2016, Bf Wunstorf – Bf Haste 
+
+liegt sie lediglich an ihren Kanten im Bereich der Rundungen zwischen Schienensteg und    
+
+‐fuß bzw. ‐kopf an. Dies bewirkt eine signiﬁkante Erhöhung der Flächenpressung, da die 
+
+Anlageﬂäche deutlich kleiner ist. Es kommt dann bei dynamischer Beanspruchung zur 
+
+plas(cid:415)schen Verformung an den Anlageﬂächen, da der Werkstoﬀ der Unterlage deutlich 
+
+weicher ist als der Schienenwerkstoﬀ, wodurch sich die Schraubverbindung sukzessive löst. 
+
+Die nicht ordnungsgemäßen Verschraubungen dür(cid:332)en zu einer Erhöhung der 
+
+dynamischen Beanspruchung und damit zur Anrissini(cid:415)ierung an der Bohrung 4 in 
+
+Herzstück EH02 entscheidend beigetragen haben.“[…]4 
+
+In folgender Abbildung sind die unterschiedlichen Anlageflächen bei horizontaler und vertika-
+
+ler Montage der Unterlagen zu erkennen. 
+
+Abbildung 6: Spuren der Anlageﬂächen 
+
+4 Inspektionsbericht 16-50328-I.IVI3-IB-107 vom 12.10.2016 der DB Systemtechnik GmbH 
+
+Seite 12 von 18 
+
+ 
+ 
+ 
+                                                       
+Untersuchungsbericht 
+
+Zugkollision, 19.05.2016, Bf Wunstorf – Bf Haste 
+
+Abbildung 7: Bohrung am Primärbruch 
+
+Abbildung 8 zeigt die Bohrung im Primärbruch der Flügelschiene, von der der Anriss ausging, 
+
+und  den  daraus 
+
+folgenden  Gewaltbruch.  Die  Bildung  von  Rissen  wurde  durch 
+
+Zugeigenspannungen  in  der  Flügelschiene  begüns(cid:415)gt.  Zugeigenspannungen  sind  Krä(cid:332)e 
+
+innerhalb  eines  Körpers,  die  ohne  äußeren  Kra(cid:332)eintrag  vorhanden  sind.  Sie  können  durch 
+
+thermische  Einﬂüsse,  z. B.  im  Rahmen  des  Hitzeeintrages  bei  der  Fer(cid:415)gung  oder  beim 
+
+Schweißen, entstehen. Nach den technischen Lieferbedingungen für „Herzstücke für Weichen 
+
+und Kreuzungen aus der Stahlsorte Bainit“ (Deutsche Bahn-Standard DBS 918 141; Oktober 
+
+2012) sind Zugeigenspannungen von höchstens 250 N/mm² zulässig. Messungen im Bereich 
+
+der  Schienenfußmi(cid:425)e  ergaben  im  gebrochenen  Zustand  signiﬁkant  erhöhte  Werte  von 
+
+347 N/mm². 
+
+Kommen zu den dynamischen Krä(cid:332)en, die bei der Überfahrt eines Zuges auf die Flügelschiene 
+
+wirken,  zu  hohe  Zugeigenspannungen  hinzu,  steigt  die  Wahrscheinlichkeit  eines 
+
+Gewaltbruches. Hiervon sind insbesondere Flügelschienen betroﬀen, die bereits durch Anrisse 
+
+Vorschädigungen aufweisen. 
+
+Seite 13 von 18 
+
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 19.05.2016, Bf Wunstorf – Bf Haste 
+
+4.4  Untersuchung	der	Leit‐	und	Sicherungstechnik	
+
+Zum Zeitpunkt des Ereignisses war die Gleisfreimeldeeinrichtung des Streckengleises zwischen 
+
+Haste und Wunstorf gestört. Aus diesem Grund mussten aus Richtung Hamm kommende Züge 
+
+in  diesem  Bereich  das  Gegengleis 
+
+in  Richtung  Hannover  befahren.  Der  betroﬀene 
+
+Gleisabschni(cid:425)  ist  signaltechnisch  für  Fahrten  im  Gegengleis  ausgerüstet.  Hinweise  auf 
+
+Störungen an der Leit- und Sicherungstechnik, die unmi(cid:425)elbaren Einﬂuss auf die Kollision der 
+
+Züge mit dem Schienenbruch ha(cid:425)en, sind der BEU nicht bekannt und eher unwahrscheinlich. 
+
+Auf weiterführende Untersuchungen der Leit- und Sicherungstechnik wurde daher verzichtet. 
+
+4.5  Untersuchung	der	betrieblichen	Abläufe	des	Infrastrukturbetreibers	
+
+Die  Zugfahrten  der  ICE  wurden  vom  Fahrdienstleiter  (Fdl)  Wunstorf  mit  Hauptsignalen 
+
+zugelassen. Erkenntnisse, dass betriebliche Handlungen des Fdl Einﬂuss auf den Ablauf des 
+
+Ereignisses  ha(cid:425)en, 
+
+liegen  der  BEU  nicht  vor.  Auf  weiterführende  Untersuchungen 
+
+dahingehend wurde deshalb verzichtet. 
+
+4.6  Untersuchung	der	betrieblichen	Abläufe	der	EVU	
+
+Die betrieblichen  Handlungen der  Tf beider ICE ha(cid:425)en keinen Einﬂuss  auf die Kollision der 
+
+Züge  mit  dem  Schienenausbruch.  Aus  diesem  Grund  wurde  auf  weiterführende 
+
+Untersuchungen verzichtet. 
+
+4.7  Untersuchung	von	Fahrzeugen	
+
+Bei den betroﬀenen Fahrzeugen handelt es sich um folgende Züge: 
+
+ 
+
+ICE 548, bestehend aus dem Triebzug 235 mit dem Triebkopf 93 80 5402 035-0, und 
+
+dem Triebzug 234 mit dem Triebkopf 93 80 5402 034-3. Dieser Zug war in Fahrtrichtung 
+
+Hamm mit Steuerwagen voraus unterwegs. Das Versuchsherzstück 02 wurde von ihm 
+
+spitz befahren, es befand sich also in Fahrtrichtung gesehen links. 
+
+ 
+
+ICE 549, bestehend aus dem Triebzug 241 mit dem Triebkopf 93 80 5402 041-8, sowie 
+
+dem Triebzug 207 mit dem Triebkopf 93 80 5402 007-9. Dieser ICE passierte den Stre-
+
+ckenabschnitt zwischen Haste und Wunstorf im Gegengleis in Richtung Hannover mit 
+
+seinem Triebkopf voraus. Das Versuchsherzstück 02 wurde von ihm somit stumpf be-
+
+fahren, es befand sich also in Fahrtrichtung gesehen rechts. 
+
+Seite 14 von 18 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 19.05.2016, Bf Wunstorf – Bf Haste 
+
+Beide ICE 2-Züge verfügten über Triebköpfe der Baureihe 402. Die Züge ha(cid:425)en jeweils eine 
+
+Gesamtlänge  von  412  m  und  ein  Gesamtgewicht  von  910  t.  Die  geforderten  187 
+
+Mindestbremshundertstel wurden bei beiden Zügen erreicht. 
+
+An beiden ICE wurden Beschädigungen der Lauﬄächen nach Beendigung der Tagesleistung im 
+
+Rahmen der planmäßigen Nachschau festgestellt. Es handelte sich um Schäden in Form von 
+
+Eindrückungen,  Spanbildung  und  Materialverquetschungen.  Am  ICE  548  wurden  diese 
+
+Schäden ausschließlich an den Rädern der linken Fahrzeugseite, und am ICE 549 an den Rädern 
+
+der rechten Seite festgestellt. Dies entsprach den Fahrzeugseiten, mit denen beide ICE das 
+
+Versuchsherzstück  bei  Haste  überfahren  ha(cid:425)en.  In  Abbildung  2  sind  diese  Schäden 
+
+exemplarisch  dargestellt.  Bei  der  werksto(cid:335)echnischen  Oberﬂächenuntersuchung  der 
+
+DB Systemtechnik  GmbH 
+
+konnten 
+
+die 
+
+Fahrzeugschäden 
+
+eindeu(cid:415)g  mit 
+
+dem 
+
+Flügelschienenbruch  in  Zusammenhang  gebracht  werden.  Zum  einen,  weil  chromreiche 
+
+Par(cid:415)kel in den Spanbruchﬂächen der äußeren Radlauﬄäche nachweisbar waren. Zum zweiten 
+
+waren  die  Gesamtlängen  der  Radschäden  mit  der  Ausbruchslänge  des  beschädigten 
+
+Herzstückes  miteinander  vergleichbar.  Darüber  hinaus  stellte  die  DB  Systemtechnik  GmbH 
+
+fest,  dass  die  Verformungsrichtung  von  Radfase  und  Fahrkante  im  oberﬂächennahen 
+
+Mikrogefüge miteinander korrespondierte. 
+
+Insgesamt  betrachtet  sind  die  Schäden  an  den  Radsätzen  der  zwei  ICE  damit  als  Folge  des 
+
+Schienenbruchs zu bewerten. 
+
+Die Überprüfung der beteiligten Fahrzeuge ergab keine Hinweise, die einen begüns(cid:415)genden 
+
+Einﬂuss auf den Ereignisablauf ha(cid:425)en oder ursächlich für das Ereignis waren.  
+
+Seite 15 von 18 
+
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 19.05.2016, Bf Wunstorf – Bf Haste 
+
+5  Auswertung	
+
+Das Kapitel 5 Auswertung befasst sich mit der Ereignisrekonstruk(cid:415)on. Anhand der oben ge-
+
+nannten Feststellungen wird ein plausibler Ablauf des gefährlichen Ereignisses zusammenge-
+
+tragen. Relevante Erkenntnisse werden anschließend bewertet und führen ggf. zu entspre-
+
+chenden Schlussfolgerungen. 
+
+5.1  Ereignisrekonstruktion	
+
+Am 19.05.2016 gegen 14:51 Uhr befuhr der ICE 548 Versuchsherzstück 02. Dabei wurden die 
+
+Radsätze auf der linken Fahrzeugseite beschädigt. Als nächstes folgte die Zugfahrt des ICE 549. 
+
+Wegen  einer  Störung  im  Regelgleis  zwischen  Haste  und  Wunstorf  befuhr  dieser  das 
+
+Gegengleis.  Dadurch  passierte  dieser  Zug  gegen  15:20  Uhr  das  defekte  Versuchsherzstück. 
+
+Kurz  darauf  meldete  der  Tf  des  ICE  549  dem  Fdl  Wunstorf,  dass  er  zwischen  Haste  und 
+
+Wunstorf einen Schlag vernommen ha(cid:425)e. Darau(cid:300)in veranlasste der Fdl eine Überprüfung des 
+
+Streckenabschni(cid:425)es. Mitarbeiter der DB Netz AG stellten einen Bruch an der Flügelschiene 
+
+des Versuchsherzstückes 02 fest. In der Folge wurde das Gleis Wunstorf – Haste ab 15:44 Uhr 
+
+gesperrt. Der genaue Zeitpunkt des Gewaltbruches konnte nicht festgestellt werden. Bis zum 
+
+Zeitpunkt  der  Schadensmeldung  an  den  Fdl  wurden  im  Nachgang  nur  bei  den  beiden  ICE-
+
+Zügen Beschädigungen an den Radsätzen festestellt. 
+
+5.2  Bewertung	und	Schlussfolgerung	
+
+Im Streckenabschni(cid:425) zwischen Wunstorf und Haste erprobte die DB Netz AG von November 
+
+2004 bis März 2016 Versuchsherzstücke mit unterschiedlichen Materialgüten. Hierzu zählte 
+
+bei Herzstückspitze und Flügelschiene auch der Versuchswerkstoﬀ CrB1400. Im Rahmen von 
+
+Instandsetzungsarbeiten waren am Versuchsherzstück 02 Unterlagen der Verschraubungen 
+
+von  Komponenten  des  Versuchsherzstückes  zum  Teil  ver(cid:415)kal  sta(cid:425)  horizontal  mon(cid:415)ert. 
+
+Deshalb verringerte sich zum einen die Anlageﬂäche an den Bohrungen des Schienensteges in 
+
+erheblichem Umfang. Zum anderen konnten sich die Schraubverbindungen lockern und lösen, 
+
+weil  sich  die  Unterlagen  bei  Überfahrten  von  Zügen  verformten.  Die  damit  nicht  mehr 
+
+kra(cid:332)schlüssig anliegenden Schraubverbindungen führten durch dynamisch au(cid:332)retende Krä(cid:332)e 
+
+bei Zugüberfahrten zur Überschreitung der berechneten Lochlaibungsspannung. CrB1400 ist 
+
+ein sehr hartes, gleichzei(cid:415)g aber auch sehr sprödes Material. Während das deutlich weichere, 
+
+aber auch ﬂexiblere Standardmaterial R350 HT diese Belastungen sehr wahrscheinlich hä(cid:425)e 
+
+kompensieren können, führten die Materialeigenscha(cid:332)en des CrB1400, ausgehend von den 
+
+Seite 16 von 18 
+
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 19.05.2016, Bf Wunstorf – Bf Haste 
+
+Bohrungen, zu Anrissen. Diese Anrisse wurden im Rahmen der Inspek(cid:415)onen nicht entdeckt, 
+
+obwohl  die  Inspek(cid:415)onszeiträume  bereits  verkürzt  waren.  Zu  welchem  Zeitpunkt  sich  die 
+
+Anrisse entwickelten, konnte nicht nachvollzogen werden. 
+
+Seite 17 von 18 
+
+ 
+ 
+ 
+ 
+Untersuchungsbericht 
+
+Zugkollision, 19.05.2016, Bf Wunstorf – Bf Haste 
+
+6  Bisher	getroffene	Maßnahmen	
+
+Aus Anlass des Ereignisses in Haste führte die DB Netz AG eine Sonderinspek(cid:415)on ihrer im Netz 
+
+verbauten  vollbaini(cid:415)schen  Herzstücke  durch.  Bei  dieser  Sonderinspek(cid:415)on  wurden  weitere 
+
+Schäden an Flügelschienen dieser Herzstückkonstruk(cid:415)on festgestellt. Die DB Netz AG und das 
+
+EBA  erkannten  darauf  hin  übereins(cid:415)mmend  die  dauerha(cid:332)e  Notwendigkeit  von 
+
+Sonderinspek(cid:415)onen. In Abs(cid:415)mmung mit dem EBA legte die DB Netz AG Sonderinspek(cid:415)onen 
+
+für alle im Netz verbliebenen vollbaini(cid:415)schen Herzstücke im Abstand von drei Monaten fest. 
+
+Schwerpunkte  hierbei  waren  die  Überprüfung  der  Verschraubungen,  sowie  die  Sicht-  und 
+
+Ultraschallprüfung der Flügelschienenbohrungen. Weiter wurde eine Meldepﬂicht zwischen 
+
+der DB Netz AG und dem EBA bei sicherheitsrelevanten Störungen der Herzstücke vereinbart, 
+
+um  dann  gemeinsam  über  das  weitere  Vorgehen  zu  entscheiden.  Darüberhinaus  wurde 
+
+Einigung  dahingehend  erzielt,  dass  die  bereits  verbauten  Versuchsherzstücke  bis  zum 
+
+Erreichen des Abnutzungsvorrats im Netz verbleiben dur(cid:332)en. 
+
+7  Sicherheitsempfehlungen	
+
+Es wurde keine Sicherheitsempfehlungen ausgesprochen. 
+
+Seite 18 von 18 
+
+ 
+ 
 
