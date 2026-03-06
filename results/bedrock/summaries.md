@@ -10182,7 +10182,7 @@ Die DB Netz AG veranlasste im Juli 2023, dass an der Tiefenentwässerung eine Sp
 ---
 file: 022_Stuttgart-Unterturkheim.txt
 
-# Entgleisung, Stuttgart-Untertürkheim, 15.03.10
+# Entgleisung, Stuttgart-Untertürkheim, 15.03.2010
 
 # Hergang des Unfalls
 
