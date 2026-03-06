@@ -9,6 +9,7 @@ import windows.SleepPreventer
 import java.io.File
 import java.nio.charset.Charset
 import java.util.concurrent.TimeUnit
+import kotlin.io.path.Path
 
 const val LEMONADE_URL = "http://127.0.0.1:8000"
 const val MODEL = "Qwen3-14B-GGUF"
@@ -102,7 +103,7 @@ fun main() {
     printDebugInfo()
     val statsWriter = StatsWriter(LEMONADE_URL, "stats.txt")
     val documentsDir = File("documents")
-    val outputFile = File(OUTPUT_FILENAME)
+    val outputFile = Path("results/lemonade").resolve(OUTPUT_FILENAME).toFile()
 
     val processedFiles = getAlreadyProcessedFilenames(outputFile)
 
@@ -133,5 +134,5 @@ fun main() {
         }
     }
 
-    println("Summary written to $OUTPUT_FILENAME")
+    println("Summary written to ${outputFile.path}")
 }
