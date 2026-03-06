@@ -23,6 +23,13 @@ tasks.test {
     useJUnitPlatform()
 }
 
+tasks.register<JavaExec>("runTestAws") {
+    group = "application"
+    description = "Runs the standalone STS profile check"
+    classpath = sourceSets["main"].runtimeClasspath
+    mainClass.set("ebuparser.TestAwsKt")
+}
+
 repositories {
     mavenCentral()
 }

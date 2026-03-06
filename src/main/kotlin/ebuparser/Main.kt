@@ -28,6 +28,7 @@ import kotlin.io.path.Path
 const val LEMONADE_URL = "http://127.0.0.1:8000"
 const val LEMONADE_MODEL = "Qwen3-14B-GGUF"
 const val BEDROCK_MODEL = "amazon.nova-2-lite-v1:0"
+const val BEDROCK_INFERENCE_PROFILE = "global.amazon.nova-2-lite-v1:0"
 const val BEDROCK_SERVICE_TIER = "flex"
 const val OUTPUT_FILENAME = "summaries.md"
 const val LEMONADE_OUTPUT_DIR = "results/lemonade"
@@ -128,7 +129,7 @@ fun extractWithBedrock(
     val request =
         ConverseRequest
             .builder()
-            .modelId(BEDROCK_MODEL)
+            .modelId(BEDROCK_INFERENCE_PROFILE)
             .system(SystemContentBlock.builder().text(prompt).build())
             .messages(
                 Message
@@ -159,6 +160,7 @@ fun extractWithBedrock(
         buildString {
             appendLine("provider: bedrock")
             appendLine("model_id: $BEDROCK_MODEL")
+            appendLine("inference_profile_id: $BEDROCK_INFERENCE_PROFILE")
             appendLine("service_tier_requested: $BEDROCK_SERVICE_TIER")
             appendLine("service_tier_resolved: $resolvedTier")
             appendLine("local_call_duration_ms: $localLatencyMs")
@@ -301,7 +303,10 @@ fun main() {
                 .credentialsProvider(credentialsProvider)
                 .build()
 
-        println("Using Bedrock model '$BEDROCK_MODEL' with service tier '$BEDROCK_SERVICE_TIER' in region '${region.id()}'.")
+        println(
+            "Using Bedrock model '$BEDROCK_MODEL' via inference profile '$BEDROCK_INFERENCE_PROFILE' " +
+                "with service tier '$BEDROCK_SERVICE_TIER' in region '${region.id()}'.",
+        )
     }
     val statsFile = Path(outputDirectory).resolve("stats.txt").toFile()
 
