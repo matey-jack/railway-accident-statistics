@@ -1,0 +1,390 @@
+---
+file: 179_Willroth_-_Siegburg_Bonn.txt
+
+provider: bedrock
+model_id: amazon.nova-2-lite-v1:0
+inference_profile_id: global.amazon.nova-2-lite-v1:0
+service_tier_requested: flex
+service_tier_resolved: flex
+local_call_duration_ms: 6114
+bedrock_latency_ms: 5110
+input_tokens: 2627
+output_tokens: 1000
+total_tokens: 3627
+stop_reason: max_tokens
+
+---
+file: 191_Treben-Lehma.txt
+
+provider: bedrock
+model_id: amazon.nova-2-lite-v1:0
+inference_profile_id: global.amazon.nova-2-lite-v1:0
+service_tier_requested: flex
+service_tier_resolved: flex
+local_call_duration_ms: 5122
+bedrock_latency_ms: 4986
+input_tokens: 2924
+output_tokens: 1000
+total_tokens: 3924
+stop_reason: max_tokens
+
+---
+file: 012_Raubling.txt
+
+provider: bedrock
+model_id: amazon.nova-2-lite-v1:0
+inference_profile_id: global.amazon.nova-2-lite-v1:0
+service_tier_requested: flex
+service_tier_resolved: flex
+local_call_duration_ms: 5074
+bedrock_latency_ms: 4934
+input_tokens: 3087
+output_tokens: 801
+total_tokens: 3888
+stop_reason: end_turn
+
+---
+file: 201_Leipzig-Engelsdorf.txt
+
+provider: bedrock
+model_id: amazon.nova-2-lite-v1:0
+inference_profile_id: global.amazon.nova-2-lite-v1:0
+service_tier_requested: flex
+service_tier_resolved: flex
+local_call_duration_ms: 5039
+bedrock_latency_ms: 4907
+input_tokens: 3140
+output_tokens: 1000
+total_tokens: 4140
+stop_reason: max_tokens
+
+---
+file: 032_Bad Lausick.txt
+
+provider: bedrock
+model_id: amazon.nova-2-lite-v1:0
+inference_profile_id: global.amazon.nova-2-lite-v1:0
+service_tier_requested: flex
+service_tier_resolved: flex
+local_call_duration_ms: 4558
+bedrock_latency_ms: 4428
+input_tokens: 3035
+output_tokens: 877
+total_tokens: 3912
+stop_reason: end_turn
+
+---
+file: 203_Blankenberg_Sieg.txt
+
+provider: bedrock
+model_id: amazon.nova-2-lite-v1:0
+inference_profile_id: global.amazon.nova-2-lite-v1:0
+service_tier_requested: flex
+service_tier_resolved: flex
+local_call_duration_ms: 5259
+bedrock_latency_ms: 5125
+input_tokens: 3140
+output_tokens: 1000
+total_tokens: 4140
+stop_reason: max_tokens
+
+---
+file: 186_Gröbers.txt
+
+provider: bedrock
+model_id: amazon.nova-2-lite-v1:0
+inference_profile_id: global.amazon.nova-2-lite-v1:0
+service_tier_requested: flex
+service_tier_resolved: flex
+local_call_duration_ms: 5409
+bedrock_latency_ms: 5272
+input_tokens: 3180
+output_tokens: 1000
+total_tokens: 4180
+stop_reason: max_tokens
+
+---
+file: 197_Elmshorn.txt
+
+provider: bedrock
+model_id: amazon.nova-2-lite-v1:0
+inference_profile_id: global.amazon.nova-2-lite-v1:0
+service_tier_requested: flex
+service_tier_resolved: flex
+local_call_duration_ms: 6417
+bedrock_latency_ms: 6287
+input_tokens: 3252
+output_tokens: 1253
+total_tokens: 4505
+stop_reason: end_turn
+
+---
+file: 193_Joachimsthal.txt
+
+provider: bedrock
+model_id: amazon.nova-2-lite-v1:0
+inference_profile_id: global.amazon.nova-2-lite-v1:0
+service_tier_requested: flex
+service_tier_resolved: flex
+local_call_duration_ms: 5068
+bedrock_latency_ms: 4937
+input_tokens: 3255
+output_tokens: 1000
+total_tokens: 4255
+stop_reason: max_tokens
+
+---
+file: 196_Mellenbach-Glasbach.txt
+
+provider: bedrock
+model_id: amazon.nova-2-lite-v1:0
+inference_profile_id: global.amazon.nova-2-lite-v1:0
+service_tier_requested: flex
+service_tier_resolved: flex
+local_call_duration_ms: 5865
+bedrock_latency_ms: 5729
+input_tokens: 3390
+output_tokens: 1000
+total_tokens: 4390
+stop_reason: max_tokens
+
+---
+file: 200_Frankfurt_Oder_Oderbrücke.txt
+
+provider: bedrock
+model_id: amazon.nova-2-lite-v1:0
+inference_profile_id: global.amazon.nova-2-lite-v1:0
+service_tier_requested: flex
+service_tier_resolved: flex
+local_call_duration_ms: 3201
+bedrock_latency_ms: 3064
+input_tokens: 3347
+output_tokens: 656
+total_tokens: 4003
+stop_reason: end_turn
+
+---
+file: 177_München-Riem_Ubf.txt
+
+provider: bedrock
+model_id: amazon.nova-2-lite-v1:0
+inference_profile_id: global.amazon.nova-2-lite-v1:0
+service_tier_requested: flex
+service_tier_resolved: flex
+local_call_duration_ms: 4112
+bedrock_latency_ms: 3975
+input_tokens: 3487
+output_tokens: 766
+total_tokens: 4253
+stop_reason: end_turn
+
+---
+file: 192_Birkenwerder.txt
+
+provider: bedrock
+model_id: amazon.nova-2-lite-v1:0
+inference_profile_id: global.amazon.nova-2-lite-v1:0
+service_tier_requested: flex
+service_tier_resolved: flex
+local_call_duration_ms: 6248
+bedrock_latency_ms: 6112
+input_tokens: 3544
+output_tokens: 1290
+total_tokens: 4834
+stop_reason: end_turn
+
+---
+file: 210_Mannheim_Hbf_-_Ludwigshafen_Hbf.txt
+
+provider: bedrock
+model_id: amazon.nova-2-lite-v1:0
+inference_profile_id: global.amazon.nova-2-lite-v1:0
+service_tier_requested: flex
+service_tier_resolved: flex
+local_call_duration_ms: 5709
+bedrock_latency_ms: 5575
+input_tokens: 3801
+output_tokens: 1000
+total_tokens: 4801
+stop_reason: max_tokens
+
+---
+file: 188_Eisenach.txt
+
+provider: bedrock
+model_id: amazon.nova-2-lite-v1:0
+inference_profile_id: global.amazon.nova-2-lite-v1:0
+service_tier_requested: flex
+service_tier_resolved: flex
+local_call_duration_ms: 6157
+bedrock_latency_ms: 6018
+input_tokens: 3949
+output_tokens: 1000
+total_tokens: 4949
+stop_reason: max_tokens
+
+---
+file: 208_Ravensburg_-_Friedrichshafen_Stadt.txt
+
+provider: bedrock
+model_id: amazon.nova-2-lite-v1:0
+inference_profile_id: global.amazon.nova-2-lite-v1:0
+service_tier_requested: flex
+service_tier_resolved: flex
+local_call_duration_ms: 5250
+bedrock_latency_ms: 5117
+input_tokens: 3981
+output_tokens: 1000
+total_tokens: 4981
+stop_reason: max_tokens
+
+---
+file: 195_Blumenberg.txt
+
+provider: bedrock
+model_id: amazon.nova-2-lite-v1:0
+inference_profile_id: global.amazon.nova-2-lite-v1:0
+service_tier_requested: flex
+service_tier_resolved: flex
+local_call_duration_ms: 5074
+bedrock_latency_ms: 4942
+input_tokens: 4107
+output_tokens: 880
+total_tokens: 4987
+stop_reason: end_turn
+
+---
+file: 181_Jossa_-_Burgsinn.txt
+
+provider: bedrock
+model_id: amazon.nova-2-lite-v1:0
+inference_profile_id: global.amazon.nova-2-lite-v1:0
+service_tier_requested: flex
+service_tier_resolved: flex
+local_call_duration_ms: 5620
+bedrock_latency_ms: 5486
+input_tokens: 4126
+output_tokens: 1000
+total_tokens: 5126
+stop_reason: max_tokens
+
+---
+file: 204_Herne.txt
+
+provider: bedrock
+model_id: amazon.nova-2-lite-v1:0
+inference_profile_id: global.amazon.nova-2-lite-v1:0
+service_tier_requested: flex
+service_tier_resolved: flex
+local_call_duration_ms: 7143
+bedrock_latency_ms: 7007
+input_tokens: 4179
+output_tokens: 1000
+total_tokens: 5179
+stop_reason: max_tokens
+
+---
+file: 011_München_Lochhausen.txt
+
+provider: bedrock
+model_id: amazon.nova-2-lite-v1:0
+inference_profile_id: global.amazon.nova-2-lite-v1:0
+service_tier_requested: flex
+service_tier_resolved: flex
+local_call_duration_ms: 5559
+bedrock_latency_ms: 5425
+input_tokens: 4486
+output_tokens: 1097
+total_tokens: 5583
+stop_reason: end_turn
+
+---
+file: 184_Enzisweiler.txt
+
+provider: bedrock
+model_id: amazon.nova-2-lite-v1:0
+inference_profile_id: global.amazon.nova-2-lite-v1:0
+service_tier_requested: flex
+service_tier_resolved: flex
+local_call_duration_ms: 5803
+bedrock_latency_ms: 5649
+input_tokens: 4637
+output_tokens: 1000
+total_tokens: 5637
+stop_reason: max_tokens
+
+---
+file: 095_Borna_b_Leipzig.txt
+
+provider: bedrock
+model_id: amazon.nova-2-lite-v1:0
+inference_profile_id: global.amazon.nova-2-lite-v1:0
+service_tier_requested: flex
+service_tier_resolved: flex
+local_call_duration_ms: 3814
+bedrock_latency_ms: 3679
+input_tokens: 4745
+output_tokens: 741
+total_tokens: 5486
+stop_reason: end_turn
+
+---
+file: 185_München_Hbf.txt
+
+provider: bedrock
+model_id: amazon.nova-2-lite-v1:0
+inference_profile_id: global.amazon.nova-2-lite-v1:0
+service_tier_requested: flex
+service_tier_resolved: flex
+local_call_duration_ms: 3620
+bedrock_latency_ms: 3485
+input_tokens: 5350
+output_tokens: 570
+total_tokens: 5920
+stop_reason: end_turn
+
+---
+file: 025_Neustrelitz.txt
+
+provider: bedrock
+model_id: amazon.nova-2-lite-v1:0
+inference_profile_id: global.amazon.nova-2-lite-v1:0
+service_tier_requested: flex
+service_tier_resolved: flex
+local_call_duration_ms: 6132
+bedrock_latency_ms: 5992
+input_tokens: 5495
+output_tokens: 988
+total_tokens: 6483
+stop_reason: end_turn
+
+---
+file: 080_Feucht.txt
+
+provider: bedrock
+model_id: amazon.nova-2-lite-v1:0
+inference_profile_id: global.amazon.nova-2-lite-v1:0
+service_tier_requested: flex
+service_tier_resolved: flex
+local_call_duration_ms: 4299
+bedrock_latency_ms: 4159
+input_tokens: 5566
+output_tokens: 668
+total_tokens: 6234
+stop_reason: end_turn
+
+---
+file: 048_Augsburg.txt
+
+provider: bedrock
+model_id: amazon.nova-2-lite-v1:0
+inference_profile_id: global.amazon.nova-2-lite-v1:0
+service_tier_requested: flex
+service_tier_resolved: flex
+local_call_duration_ms: 5649
+bedrock_latency_ms: 5515
+input_tokens: 5481
+output_tokens: 851
+total_tokens: 6332
+stop_reason: end_turn
+
