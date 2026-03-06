@@ -22,7 +22,7 @@ object ExtractDates {
                 .map { it.trim() }
                 .filter { it.isNotBlank() }
 
-        val rows = sections.mapNotNull(::extractRow)
+        val rows = sections.mapNotNull(::extractRow).sortedBy { it.first }
         output.parentFile?.mkdirs()
         output.writeText(
             buildString {
