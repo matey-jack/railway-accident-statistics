@@ -51,9 +51,9 @@ object ExtractDamages {
             appendLine(fileLine)
             if (damageLines.isNotEmpty()) {
                 appendLine()
-                append(damageLines.joinToString("\n").trimEnd())
+                append(damageLines.joinToString("\n"))
             }
-        }.trimEnd()
+        }
     }
 
     private fun isDamagesHeading(line: String): Boolean {
