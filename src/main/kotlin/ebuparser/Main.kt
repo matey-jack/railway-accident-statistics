@@ -67,6 +67,10 @@ enum class LlmProvider {
 
 fun getAlreadyProcessedFilenames(outputFile: File): Set<String> {
     if (!outputFile.exists()) {
+        println("'$outputFile' doesn't exist. Creating it.")
+        // this is needed for the Regex below to also find the first entry.
+        // and the new line at the start is needed, so it doesn't look like a preamble or whatever the Markdown term for that is.
+        outputFile.appendText("\n---\n")
         return emptySet()
     }
 
@@ -186,7 +190,7 @@ fun printDebugInfo() {
     println("Default charset: ${Charset.defaultCharset()}")
     println("file.encoding: ${System.getProperty("file.encoding")}")
     println("stdout.encoding: ${System.getProperty("stdout.encoding")}")
-    println("Encoding test: aeoeuess")
+    println("Encoding test: äöüß")
 }
 
 fun resolveAwsRegion(): Region {
