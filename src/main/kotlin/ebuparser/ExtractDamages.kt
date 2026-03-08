@@ -5,6 +5,7 @@ import java.io.File
 private const val SECTION_SEPARATOR = "\n---\n"
 private const val INPUT_FILE = "results/bedrock/summaries.md"
 private const val OUTPUT_FILE = "results/damages.md"
+private val DATE_REGEX = Regex("""\d\d\.\d\d\.\d\d\d\d""")
 
 object ExtractDamages {
     fun run(
@@ -32,6 +33,9 @@ object ExtractDamages {
         val lines = section.lines()
         val fileLine = lines.firstOrNull { it.startsWith("file:") } ?: return null
 
+        val sectionText = section.substringAfter(fileLine)
+        val date = DATE_REGEX.find(sectionText)?.value
+
         val damageStart = lines.indexOfFirst(::isDamagesHeading)
 
         val damageLines = mutableListOf<String>()
@@ -49,6 +53,9 @@ object ExtractDamages {
 
         return buildString {
             appendLine(fileLine)
+            if (date != null) {
+                appendLine("date: $date")
+            }
             if (damageLines.isNotEmpty()) {
                 appendLine()
                 append(damageLines.joinToString("\n"))

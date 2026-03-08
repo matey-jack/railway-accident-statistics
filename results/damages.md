@@ -1,10 +1,12 @@
 file: 179_Willroth_-_Siegburg_Bonn.txt
+date: 06.05.2015
 
 
 Personen wurden weder verletzt noch getötet. Es entstanden Sachschäden an der Infrastruktur und dem beteiligten Fahrzeug. Die Höhe der Sachschäden wurde auf ca. 80.000 Euro geschätzt.
 
 ---
 file: 191_Treben-Lehma.txt
+date: 11.11.2015
 
 
 Es wurden keine Personen getötet oder verletzt.
@@ -18,6 +20,7 @@ An der Infrastruktur und den beteiligten Fahrzeugen entstanden Sachschäden, die
 
 ---
 file: 012_Raubling.txt
+date: 19.12.2007
 
 
 Personen kamen durch den Unfall nicht zu Schaden.
@@ -26,6 +29,7 @@ Der Sachschaden an Fahrzeugen, Gleisanlagen und Oberleitung betrug lt. Untersuch
 
 ---
 file: 032_Bad Lausick.txt
+date: 20.09.2011
 
 
 Bei dem Zusammenprall wurden 6 Personen schwer und weitere 16 Personen leicht verletzt. 
@@ -38,6 +42,7 @@ Die Sachschäden beziehen sich auf die Fahrzeuge und die Infrastruktur. Hierfür
 
 ---
 file: 201_Leipzig-Engelsdorf.txt
+date: 18.12.2019
 
 
 Sechs  Personen  wurden  schwer  und  dreizehn  weitere  Personen  leicht  verletzt. Unter den Letztgenannten befanden sich die beiden Triebfahrzeugführer (Tf) und die Zugbegleiterin der S 37395.
@@ -68,12 +73,14 @@ Tabelle 1: Übersicht der geschätzten Schadenshöhe
 
 ---
 file: 203_Blankenberg_Sieg.txt
+date: 06.04.2017
 
 
 Personen wurden weder verletzt noch getötet. Es entstanden Sachschäden am Fahrzeug in geschätzter Höhe von 58.000 Euro.
 
 ---
 file: 186_Gröbers.txt
+date: 23.04.2014
 
 
 Es wurden keine Personen getötet oder verletzt. An der Infrastruktur und an den beteiligten Fahrzeugen entstanden Sachschäden, die sich entsprechend der folgenden Übersicht zusammensetzten.
@@ -100,6 +107,7 @@ Tabelle 1: Übersicht der geschätzten Schadenshöhe
 
 ---
 file: 193_Joachimsthal.txt
+date: 12.04.2019
 
 
 Personen wurden weder getötet noch verletzt. Es entstanden Sachschäden an der Infrastruktur und am beteiligten Fahrzeug, aufgeteilt entsprechend der nachfolgenden Übersicht.
@@ -124,6 +132,7 @@ ca. 130.000
 
 ---
 file: 197_Elmshorn.txt
+date: 15.11.2017
 
 
 Eine Person wurde schwer und zwei weitere Personen leicht verletzt. Der Steuerwagen und ein Reisezugwagen entgleisten jeweils mit allen vier Achsen beider Drehgestelle.
@@ -150,6 +159,7 @@ Gesamtschadenshöhe
 
 ---
 file: 200_Frankfurt_Oder_Oderbrücke.txt
+date: 22.03.2017
 
 
 Es wurden keine Personen verletzt. Der Oberbau wurde auf eine Länge von ca. 150 m beschädigt. Infolge der Entgleisung entstanden nachfolgend aufgelistete Schäden an der vorhandenen Infrastruktur und an den beteiligten Fahrzeugen:
@@ -163,6 +173,7 @@ Gesamtschadenshöhe 180.000
 
 ---
 file: 196_Mellenbach-Glasbach.txt
+date: 06.01.2017
 
 
 Personen wurden weder verletzt noch getötet. Es entstanden Sachschäden in Höhe von 11.569 Euro, die sich entsprechend der nachfolgenden Aufstellung zusammensetzten:
@@ -181,12 +192,14 @@ Geschätzte Kosten in Euro
 
 ---
 file: 177_München-Riem_Ubf.txt
+date: 06.02.2017
 
 
 Personen wurden weder verletzt noch getötet. Es entstanden Sachschäden an den Eisenbahnfahrzeugen und an der Infrastruktur von etwa 65.000 Euro.
 
 ---
 file: 192_Birkenwerder.txt
+date: 02.04.2019
 
 
 Es wurden keine Personen getötet oder verletzt.
@@ -215,12 +228,14 @@ Tabelle 1: Übersicht der geschätzten Schadenshöhe
 
 ---
 file: 210_Mannheim_Hbf_-_Ludwigshafen_Hbf.txt
+date: 30.06.2015
 
 
 Es wurden keine Personen verletzt. Es entstand erheblicher Sachschaden an der Infrastruktur und geringer Sachschaden am Fahrzeug. Aufgrund der Sonderanfernung der durch die Entgleisung beschädigten Spezialschwellen blieb das betroffene Gleis mehrere Wochen gesperrt.
 
 ---
 file: 188_Eisenach.txt
+date: 20.10.2014
 
 
 Personen wurden weder verletzt noch getötet. Es entgleisten vier Wagen und es entstanden Sachschäden, die sich entsprechend der folgenden Übersicht zusammensetzten.
@@ -245,6 +260,7 @@ Gesamtschadenshöhe
 
 ---
 file: 011_München_Lochhausen.txt
+date: 24.07.2007
 
 
 Durch das Ereignis werden 9 Personen verletzt.
@@ -263,12 +279,14 @@ Bei der an den Aufprall sich anschließenden Entgleisung entstand Personenschade
 
 ---
 file: 208_Ravensburg_-_Friedrichshafen_Stadt.txt
+date: 04.08.2015
 
 
 Bei dem Zusammenprall wurde ein Reisender im Zug leicht verletzt. Am Eisenbahn- und am Straßenfahrzeug entstanden geringe Sachschäden. Beide Fahrzeuge konnten anschließend aus eigener Kraft weiterfahren.
 
 ---
 file: 195_Blumenberg.txt
+date: 08.11.2016
 
 
 Personen wurden nicht getötet oder verletzt.
@@ -297,17 +315,20 @@ Tabelle 1: Übersicht der geschätzten Schadenshöhe
 
 ---
 file: 181_Jossa_-_Burgsinn.txt
+date: 18.02.2015
 
 
 Es kam zu keiner Zugkollision und damit auch nicht zu Sachschäden. Der Tf der RB 58043 ließ sich aufgrund eines Schocks anschließend in Würzburg Hbf ablösen.
 
 ---
 file: 204_Herne.txt
+date: 05.06.2014
 
 Zum Zeitpunkt des Ereignisses befanden sich ca. 60 Reisende im Zug. Es waren keine Tote oder Verletzte zu beklagen. An den Fahrzeugen und der Bahnanlage entstanden geschätzte Sachschäden in Höhe von ca. 570.000 €.
 
 ---
 file: 095_Borna_b_Leipzig.txt
+date: 02.12.2014
 
 
 Es entgleisen die letzten drei Wagen des Zuges. Der Sachschaden beträgt ca. 410.000 Euro. Der Triebfahrzeugführer wurde leicht verletzt.
@@ -321,6 +342,7 @@ Todesopfer sind keine zu beklagen. Der Triebfahrzeugführer wird bei dem Ereigni
 
 ---
 file: 184_Enzisweiler.txt
+date: 03.03.2015
 
 
 Personen wurden weder verletzt noch getötet.
@@ -331,6 +353,7 @@ Die Strecke war in Folge des Ereignisses für etwa zwei Stunden gesperrt und es 
 
 ---
 file: 048_Augsburg.txt
+date: 04.07.2010
 
 
 Personen kommen bei der Entgleisung nicht zu Schaden.
@@ -348,6 +371,7 @@ Die Sachschäden wurden auf insgesamt ca. 1.165.000 Euro geschätzt und setzen s
 
 ---
 file: 025_Neustrelitz.txt
+date: 28.11.2010
 
 
 Personenschäden traten entsprechend der Ergänzungsmeldung nicht ein.
@@ -355,6 +379,7 @@ Der Sachschaden an Eisenbahnfahrzeugen- und infrastruktur wird auf ca. 2.351 T E
 
 ---
 file: 080_Feucht.txt
+date: 31.01.2015
 
 
 Die männliche Person wurde vom Eisenbahnfahrzeug überrollt. Der Mann verstarb noch an der Unfallstelle.
@@ -366,6 +391,7 @@ Betriebserschwernisse:
 
 ---
 file: 026_Wuppertal.txt
+date: 26.07.2007
 
 Der Zug FIR 51104 fuhr in den stromlosen Streckenabschnitt Wuppertal Oberbarmen – Wuppertal Hbf ein. Durch den Kurzschlussknall wurden die Bauarbeiter auf dem Gerüst auf die sich nähernde Zugfahrt aufmerksam und sprangen vom Gerüst herab, als sie die Zugfahrt in dem vermeintlich gesperrten Gleis auf sich zukommen sahen.
 
@@ -385,6 +411,7 @@ Das Ereignis zog Betriebserschwernisse nach sich.
 
 ---
 file: 085_Halle_Hbf.txt
+date: 18.06.2015
 
 Durch den Aufprall wurden fünf Personen leicht verletzt. Die Regionalbahn wurde um ca. 16 Meter verschoben.
 
@@ -394,6 +421,7 @@ Die Sachschäden setzen sich wie folgt zusammen:
 
 ---
 file: 042_Stedesand - Langenhorn.txt
+date: 13.01.2012
 
 Bei der Zugkollision wurde 1 Person getötet und 4 Personen leicht verletzt.
 Weiterhin wurden 14 Rinder durch die Zugkollision getötet.
@@ -402,12 +430,14 @@ Der entstandene Sachschaden wird auf ca. 2 Millionen Euro geschätzt.
 
 ---
 file: 185_München_Hbf.txt
+date: 22.11.2019
 
 
 Bei der Entgleisung wurde eine Person leicht verletzt. An der Infrastruktur entstand erheblicher Sachschaden in Höhe von ca. 2,5 Millionen Euro. Die beiden letzten Wagen wiesen starke Beschädigungen auf. Am Triebfahrzeug entstanden leichte Schäden im Bereich der Puffer.
 
 ---
 file: 021_Marsberg - Messinghausen.txt
+date: 13.04.2010
 
 
 In Folge des Zusammenpralls entgleiste das führende Eisenbahnfahrzeug (Steuerwagen 928 536-1) mit dem zweiten Radsatz des ersten Drehgestells.
@@ -422,6 +452,7 @@ An dem Fahrzeug und den Einrichtungen der Eisenbahnen entstand ein Sachschaden i
 
 ---
 file: 034_Schlüchtern.txt
+date: 12.11.2007
 
 Eine Person wurde bei dem Ereignis getötet, zwei Personen wurden schwer verletzt (Schockeinwirkung).
 
@@ -433,6 +464,7 @@ Die Sachschäden an Eisenbahnfahrzeugen beliefen sich auf ca. 1.000 EUR.
 
 ---
 file: 068_Hagen-Vorhalle.txt
+date: 29.10.2014
 
 
 Personenschäden sind keine zu beklagen.
@@ -441,6 +473,7 @@ Die Sachschäden an Fahrzeugen, LST-Anlagen und Oberbau belaufen sich auf insges
 
 ---
 file: 035_Rotenburg_Wümme.txt
+date: 28.02.2007
 
 
 Ein sich im Bahnsteigbereich aufhaltender Bauarbeiter wurde während der Vorbeifahrt des FIR 51284 durch ein aufgewirbeltes Eisenteil getroffen und leicht verletzt.  
@@ -457,6 +490,7 @@ Der Sachschaden wird auf über 4 Millionen Euro geschätzt.
 
 ---
 file: 113_Neumünster.txt
+date: 25.05.2014
 
 
 Personen wurden nicht verletzt. Es entstand ein Sachschaden an LST-Anlagen und am Dieseltriebwagen, LINT 41/H – VT 2.77, der NBE.
@@ -470,12 +504,14 @@ Die Sachschäden setzen sich wie folgt zusammen:
 
 ---
 file: 037_Montabaur_-_Limburg.txt
+date: 17.04.2010
 
 Im ICE 612 werden 5 Reisende und ein Mitarbeiter der Zuggastronomie durch den Aufprall der Tür auf die Scheiben des Bordbistrowagens (Glassplitter) leicht verletzt.
 Die entstandenen Sachschäden an Eisenbahnfahrzeugen und Infrastruktur betrugen ca. 1.615.000 Euro.
 
 ---
 file: 079_Angern-Rogaetz.txt
+date: 28.06.2014
 
 Todesopfer sind keine zu beklagen. Der Triebfahrzeugführer des DGS 95620 (EVU: PRESS) wurde bei dem Ereignis leicht verletzt. Die Sachschäden setzen sich wie folgt zusammen:
 - DB Station & Service AG: ca. 22.500 €
@@ -487,6 +523,7 @@ Todesopfer sind keine zu beklagen. Der Triebfahrzeugführer des DGS 95620 (EVU: 
 
 ---
 file: 086_Offenburg_-_Gengenbach.txt
+date: 09.10.2015
 
 
 Bei der ersten Sofortmeldung wurden 2 leicht verletzte Personen durch die Notfallleitstelle, nach Aufnahme des Ereignisses durch die Polizei wurden dem Notfallmanager 7 Reisende mit leichten Verletzungen angegeben. Die Verletzten wurden zur weiteren Untersuchung in verschiedene Kliniken gebracht. Im Zug befanden sich circa 300 Reisende, die von 13:06 Uhr bis 13:25 Uhr evakuiert wurden. Bei dem Ereignis geriet der rechte Puffer des zweiten Wagens auf den hinteren Puffer des davor laufenden Steuerwagens und wurde nach oben gedrückt. Das Gleis Offenburg - Gengenbach war von 12:17 Uhr bis 15:56 Uhr Ereignisbedingt gesperrt. Bei der Überpufferung wurden die vorderen Puffer des zweiten Wagens und die hinteren Puffer des Steuerwagens beschädigt.
@@ -498,12 +535,14 @@ Die Sachschäden setzen sich wie folgt zusammen:
 
 ---
 file: 058_Maschen Rbf.txt
+date: 20.03.2014
 
 
 Verletzte sind nicht zu beklagen. Der Sachschaden am Oberbau beträgt ca. 4.000 Euro. Das Eisenbahn-Verkehrsunternehmens (EVU) Die-Lei GmbH bezifferte den Sachschaden auf ca. 1.200 Euro.
 
 ---
 file: 050_Bad Laasphe - Erndtebrück.txt
+date: 22.06.2013
 
 Der Fahrer des Lkw wurde bei dem Ereignis getötet, der Tf wurde schwer verletzt und mittels Rettungshubschrauber ins Krankenhaus nach Siegen verbracht. Die 30 Reisenden des Zuges wurden leicht verletzt bzw. erlitten einen Schock. Sie wurden durch Rettungskräfte an der Unfallstelle medizinisch versorgt und betreut.
 
@@ -515,6 +554,7 @@ Die Höhe des gesamten Sachschadens wurde durch das EIU auf ca. 600.000,00 Euro 
 
 ---
 file: 134_Hohenlimburg_-_Letmathe.txt
+date: 07.04.2008
 
 
 Bei dem Unfall wurde eine Person getötet. Außerdem wurde eine Person schwer und zwei weitere Personen leicht verletzt.
@@ -534,6 +574,7 @@ geschätzte Kosten in Euro
 
 ---
 file: 016_Lövenich-Horrem.txt
+date: 27.06.2009
 
 
 24 Reisende werden leicht verletzt. Die Sachschäden setzen sich wie folgt zusammen:
@@ -545,6 +586,7 @@ Am 27.06.2009, zum Zeitpunkt des Unfalls, herrschte trockenes Wetter bei Tagesli
 
 ---
 file: 157_Tapfheim_-_Blindheim.txt
+date: 02.08.2015
 
 
 Es wurde keine Person verletzt oder getötet. 
@@ -617,11 +659,13 @@ Es entstand massive Gleisverwerfung und erheblicher Sachschaden an der Leit- und
 
 ---
 file: 087_Emden_Rbf.txt
+date: 20.11.2015
 
 Personen wurden durch das Ereignis weder getötet noch verletzt. Der entstandene Sachschaden wird von den beteiligten Eisenbahnunternehmen auf ca. 64.585,00 Euro geschätzt.
 
 ---
 file: 033_Obervellmar.txt
+date: 01.11.2006
 
 
 Durch den Zusammenstoß wurden die beiden Triebfahrzeugführer schwer und ein Rangierbegleiter leicht verletzt. Es entstanden erhebliche Sachschäden an Fahrzeugen und der Infrastruktur. Außerdem wurde durch ausgelaufenes Dieselöl Gleisschotter und Boden verunreinigt.
@@ -639,6 +683,7 @@ Verletzte:
 
 ---
 file: 158_Neustadt_Aisch_-_Bad_Windsheim.txt
+date: 07.03.2015
 
 
 Drei Personen im Kraftfahrzeug wurden leicht verletzt.
@@ -647,12 +692,14 @@ Es entstand Sachschaden in geschätzter Höhe von 22.500,00 Euro.
 
 ---
 file: 063_Iversheim_-_Arloff.txt
+date: 15.05.2014
 
 
 In Folge des Zusammenpralls wurde die Straßenverkehrsteilnehmerin schwer verletzt. Der Triebfahrzeugführer der RB 11671 erlitt einen Schock. Beide Personen wurden ins Krankenhaus eingeliefert. Der geschätzte Sachschaden beläuft sich auf ca. 27.000,00 Euro. Die Strecke Bf Bad Münstereifel - Bf Euskirchen war für ca. zwei Stunden gesperrt.
 
 ---
 file: 019_Braunschweig - Bad Harzburg.txt
+date: 20.01.2010
 
 
 In Folge der heftigen Kollision mit dem Lkw – Gespann entgleiste die Regionalbahn. Der vordere Teil des zweiteiligen Triebwagens, rutschte eine Böschung hinab und kam auf einem angrenzenden Feld zum Stehen. Hierbei wurden 3 der ca. 60 Insassen des Zuges schwer und 13 weitere Personen leicht verletzt. Der Triebwagen wurde durch den Aufprall stark beschädigt. Es liefen ca. 800 Liter Dieselkraftstoff aus und kontaminierten das Erdreich. An den Bahnanlagen entstand erheblicher Sachschaden. Der Lkw wurde bei der Kollision nahezu völlig zerstört.
@@ -677,12 +724,14 @@ Durch die Deutsche Bahn AG wird der geschätzte Sachschaden wie folgt beziffert:
 
 ---
 file: 097_Karlsruhe_Gbf.txt
+date: 15.04.2015
 
 
 Verletzte sind nicht zu beklagen. Die vier am Schluss laufenden Wagen des DGS 43014 werden durch den seitlichen Anprall in Fahrtrichtung des Zuges - rechts - beschädigt. Der Wagen 33-80 7933 032-4 der Wagengruppe wird erheblich beschädigt. Es kommt nicht zum Gefahrgutaustritt.
 
 ---
 file: 028_Bad_Endorf_-_Landl.txt
+date: 08.04.2011
 
 
 Verletzte und Todesopfer sind nicht zu beklagen, die Sachschäden werden auf ca. 2.000.000,00 EUR benannt.
@@ -691,6 +740,7 @@ Aufgrund der Entgleisung kommt es zu Sachschäden an dem entgleisten Wagen und a
 
 ---
 file: 110_Eschhofen.txt
+date: 07.04.2015
 
 
 Ein Reisender wird leicht verletzt. Die Sachschäden setzen sich wie folgt zusammen:
@@ -702,6 +752,7 @@ Ein Reisender wird leicht verletzt. Die Sachschäden setzen sich wie folgt zusam
 
 ---
 file: 117_Laurenburg_Lahn.txt
+date: 28.09.2014
 
 
 **Todesopfer oder Verletzte:** Keine
@@ -712,6 +763,7 @@ file: 117_Laurenburg_Lahn.txt
 
 ---
 file: 159_Bebra.txt
+date: 16.04.2012
 
 
 Es wurde keine Person verletzt oder getötet. Es entstand erheblicher Sachschaden an der Infrastruktur und an den Fahrzeugen.
@@ -738,6 +790,7 @@ Gesamtschadenshöhe
 
 ---
 file: 098_Hosena.txt
+date: 11.11.2013
 
 Todesopfer sind keine zu beklagen. Der Triebfahrzeugführer wird bei dem Ereignis leicht verletzt und erleidet einen Schock. Die Sachschäden werden auf ca. 1,85 Mio. Euro geschätzt und setzen sich wie folgt zusammen:
 - Triebfahrzeuge und Wagen: ca. 1.500.000 €
@@ -749,6 +802,7 @@ Todesopfer sind keine zu beklagen. Der Triebfahrzeugführer wird bei dem Ereigni
 
 ---
 file: 107_Schleswig.txt
+date: 17.11.2015
 
 Todesopfer sind keine zu beklagen. 
 
@@ -760,6 +814,7 @@ Schäden sind erkennbar an der in Fahrtrichtung rechten Seite des Triebfahrzeuge
 
 ---
 file: 030_Herlasgrün.txt
+date: 05.03.2010
 
 
 Bei der Entgleisung kamen keine Personen zu Schaden.
@@ -770,6 +825,7 @@ Zu einem Austritt von Gefahrgut ist es nicht gekommen.
 
 ---
 file: 144_Oberasbach_-_Anwanden.txt
+date: 21.05.2014
 
 
 Bei dem Unfall wurde eine Person getötet und eine Person leicht verletzt. Es entstand hoher Sachschaden.
@@ -827,12 +883,14 @@ Die Strecke war im betreffenden Abschnitt für zwei Tage gesperrt.
 
 ---
 file: 112_Neuwied.txt
+date: 18.09.2014
 
 Personen wurden bei dem Fahrzeugbrand nicht verletzt.
 Der Autotransportwagen und elf Personenkraftfahrzeuge werden durch den Brand völlig zerstört. An der Infrastruktur im Bf Neuwied entstanden Schäden an der Oberleitung. Der Gesamtschaden beläuft sich auf ca. 250.000 €.
 
 ---
 file: 052_Düsseldorf_Derendorf.txt
+date: 02.07.2013
 
 
 Personenschäden waren infolge des Unfalls nicht zu beklagen.
@@ -845,6 +903,7 @@ Demnach errechnet sich nach ersten groben Schätzungen der beteiligten Unternehm
 
 ---
 file: 075_Saalfeld_Saale.txt
+date: 05.09.2013
 
 
 Todesopfer und Verletzte sind keine zu beklagen. Die Sachschäden setzen sich wie folgt zusammen:
@@ -857,6 +916,7 @@ Sonstige Kosten ca. 1.400 Euro
 
 ---
 file: 103_Köln-Eifeltor.txt
+date: 28.10.2016
 
 
 Es wurden keine Personen verletzt.
@@ -867,6 +927,7 @@ Das Ereignis führte zu betrieblichen Beeinträchtigungen.
 
 ---
 file: 136_Dillenburg.txt
+date: 05.11.2008
 
 
 Bei der Kollision wurde der Triebfahrzeugführer (Tf) des CR 64218 leicht verletzt.
@@ -880,6 +941,7 @@ Die geschätzte Höhe der Sachschäden in Euro setzt sich wie folgt zusammen:
 
 ---
 file: 088_Forchheim_Trubachbrücke_Abzw_-_Ebermannstadt.txt
+date: 28.02.2014
 
 Infolge des Zusammenpralls wurde der Pkw-Fahrer tödlich verletzt.
 
@@ -889,6 +951,7 @@ Das EIU DB Netz AG benennt Sachschäden von ca. 10.000.- Euro, das EVU agilis Ve
 
 ---
 file: 149_Winterhausen.txt
+date: 25.07.2012
 
 Eine Person wurde leicht verletzt. Infolge der Entgleisung entstand erheblicher Sachschaden an den Gleisanlagen, Teilen der Oberleitungsanlage sowie an Fahrzeugen.
 
@@ -904,6 +967,7 @@ geschätzte Kosten in Euro Fahrzeuge Infrastruktur Dritte Gesamtschadenshöhe ke
 
 ---
 file: 070_Witten_Hbf_-_Witten-Annen_Nord.txt
+date: 02.12.2014
 
 
 Bei dem Ereignis wurde der Fahrer des verunfallten PKW schwer verletzt.
@@ -914,6 +978,7 @@ Am 02.12.2014 um 18:07 Uhr herrschte Dunkelheit bei klarem Wetter. Die Temperatu
 
 ---
 file: 094_Schweinsberg_Anst_-_Kirchhain.txt
+date: 02.09.2014
 
 - Der Fahrer des Traktors wird leicht verletzt.
 - Die Sachschäden setzen sich wie folgt zusammen:
@@ -927,6 +992,7 @@ file: 094_Schweinsberg_Anst_-_Kirchhain.txt
 
 ---
 file: 062_Hagen_Gbf.txt
+date: 02.07.2014
 
 
 Todesopfer und Verletzte sind keine zu beklagen. Die Sachschäden setzen sich wie folgt zusammen:
@@ -938,6 +1004,7 @@ Todesopfer und Verletzte sind keine zu beklagen. Die Sachschäden setzen sich wi
 
 ---
 file: 031_Lambrecht.txt
+date: 17.08.2010
 
 
 Durch die Zugkollision wurden 15 Reisende, der Triebfahrzeugführer sowie zwei Mitarbeiter des Zugbegleitpersonals leicht verletzt. Von den 15 Leichtverletzten wurden 7 Reisende zur Versorgung in das Krankenhaus verbracht, 8 Reisende konnten nach Erstversorgung ihre Reise fortsetzen.
@@ -955,6 +1022,7 @@ Sachschäden:
 
 ---
 file: 069_Dahlbruch.txt
+date: 30.10.2014
 
 
 Todesopfer oder Verletzte sind nicht zu beklagen. Die entstandenen Schäden setzen sich wie folgt zusammen:
@@ -967,17 +1035,20 @@ Betriebserschwernisse ca. 567 Euro
 
 ---
 file: 145_Nienberge_-_Altenberge.txt
+date: 22.11.2008
 
 
 Infolge der Entgleisung stürzte der Zweiwegebagger die Böschung hinunter. Eine Person wurde dabei getötet, eine Person wurde schwer und eine weitere Person leicht verletzt. Der entstandene Sachschaden wurde auf ca. 250.000 Euro geschätzt.
 
 ---
 file: 101_Pinneberg_-_Hamburg-Eidelstedt.txt
+date: 23.02.2016
 
 Todesopfer sind keine zu beklagen. Der Triebfahrzeugführer des RE 21073 blieb unverletzt, ließ sich jedoch ablösen. Sachschäden entstanden keine.
 
 ---
 file: 067_Köln-Kalk_Nord.txt
+date: 10.07.2014
 
 Todesopfer oder Verletzte sind nicht zu beklagen. Der zweite Wagen hinter der Lokomotive entgleiste mit 2 Achsen am hinteren Drehgestell, und der dritte Wagen mit einer Achse am ersten Drehgestell. Der Sachschaden setzte sich wie folgt zusammen:
 - Oberbau: ca. 8.000 €
@@ -987,6 +1058,7 @@ Todesopfer oder Verletzte sind nicht zu beklagen. Der zweite Wagen hinter der Lo
 
 ---
 file: 081_Wilhelmshaven.txt
+date: 25.04.2015
 
 Bei dem Ereignis kam es zu keinen Personenschäden. 
 
@@ -996,6 +1068,7 @@ Angaben zu kostenrelevanten Betriebserschwernissen sowie verursachter Umweltsch�
 
 ---
 file: 106_Neufahrn_Niederbay_-_Eggmühl.txt
+date: 20.03.2016
 
 
 Es entstehen keine Personenschäden.
@@ -1008,6 +1081,7 @@ Die Sachschäden an der führenden Lok 9180 6183 002-5 sind geringfügig und wer
 
 ---
 file: 060_Langenselbold - Hailer-Meerholz.txt
+date: 21.01.2012
 
 
 Personen kamen bei dem Ereignis nicht zu Schaden.
@@ -1020,6 +1094,7 @@ Die Sachschäden setzen sich wie folgt zusammen:
 
 ---
 file: 120_Köln_Hbf.txt
+date: 09.07.2008
 
 
 Es sind weder Todesopfer noch verletzte Personen zu beklagen. Die Sachschäden setzen sich wie folgt zusammen:
@@ -1032,11 +1107,13 @@ Es sind weder Todesopfer noch verletzte Personen zu beklagen. Die Sachschäden s
 
 ---
 file: 084_Oldenburg_Oldb_Hbf.txt
+date: 19.04.2015
 
 Personen wurden bei dem Unfall nicht verletzt. Die ca. 15 Reisenden konnten den Zug körperlich unbeschadet verlassen und wurden über einen nahegelegenen Bahnübergang evakuiert. Entgleisungsbedingt entstanden am Oberbau geringfügige Sachschäden. Der NWB entstanden, eigenen Angaben zufolge, Sachschäden am Fahrzeug in Höhe von 185.000 Euro.
 
 ---
 file: 078_Olching.txt
+date: 07.05.2014
 
 
 Bei der Zugkollision erlitt der Triebfahrzeugführer (Tf) schwere Verletzungen und wurde mit einem Hubschrauber ins Krankenhaus gebracht. Fünf Bauarbeiter wurden ebenfalls leicht verletzt und mit Krankenwagen ins Krankenhaus gebracht.
@@ -1047,6 +1124,7 @@ Die kollisionsbedingten Sachschäden betragen mehr als 4 Millionen Euro.
 
 ---
 file: 074_Cham_Oberpf_-_Bad_Kötzing.txt
+date: 10.06.2015
 
 
 Beim Zusammenprall am 10.06.2015 wurde der Straßenverkehrsteilnehmer leicht verletzt und es waren etwa 10.000.-€ Sachschäden am Schienenfahrzeug plus ca. 10.000.-€ Sachschäden am Straßenfahrzeug zu verzeichnen.
@@ -1057,6 +1135,7 @@ Keine Besonderheiten, alle drei Unfälle ereigneten sich bei Tageslicht.
 
 ---
 file: 051_Düsseldorf_Rath.txt
+date: 19.12.2012
 
 
 Todesopfer sind keine zu beklagen. Der Tf des KT 41953 wurde am Bein und der Tf des EZ 45722 wurde an der Hand verletzt. Beide Tf und die vier Insassen des Busses standen nach dem Ereignis unter Schock. 
@@ -1067,6 +1146,7 @@ Die DB Netz AG schätzte ihre Sachschäden an Bahnanlagen und Leit- und Sicherun
 
 ---
 file: 064_Kamen_-_Üst_Nordbögge.txt
+date: 04.06.2014
 
 
 Todesopfer sind keine zu beklagen. Der Triebfahrzeugführer wird bei dem Ereignis leicht verletzt und erleidet einen Schock. Der Sachschaden beläuft sich auf mehrere 1.000 Euro.
@@ -1079,6 +1159,7 @@ Es entstand ein geschätzter Sachschaden in Höhe von 10.000 €. Die Weiterfahr
 
 ---
 file: 047_Berlin-Tegel.txt
+date: 21.08.2012
 
 
 Todesopfer sind keine zu beklagen. 6 Reisende wurden durch die Entgleisung leicht verletzt.
@@ -1094,6 +1175,7 @@ ca. 65.000 €
 
 ---
 file: 147_Buxtehude_-_Horneburg.txt
+date: 16.09.2015
 
 
 Bei dem Ereignis wurden drei Personen leicht verletzt.
@@ -1171,12 +1253,14 @@ Tabelle 2: Übersicht der geschätzten Schadenshöhe
 
 ---
 file: 093_Hameln.txt
+date: 24.02.2016
 
 
 Bei beiden Ereignissen kam es nicht zu einem Unfall. Es sind daher weder Personen- noch Sachschäden entstanden. Für beide Zugpaare bestand jedoch eine konkrete Gefährdung, die unter leicht veränderten Voraussetzungen zu einem schweren Unfall hätten führen können.
 
 ---
 file: 170_Bonn_Gbf.txt
+date: 28.10.2015
 
 
 Personen wurden weder verletzt noch getötet.
@@ -1185,6 +1269,7 @@ Es entstanden Sachschäden an den Eisenbahnfahrzeugen in Höhe von ca. 60.000 Eu
 
 ---
 file: 121_Frankfurt_M-Griesheim.txt
+date: 17.02.2017
 
 
 Durch die Kollision werden keine Personen verletzt. Bei der Zugentgleisung entstanden Sachschäden, die durch den Infrastrukturbetreiber wie folgt beziffert wurden: 
@@ -1192,6 +1277,7 @@ Sachschaden Infrastruktur und Fahrzeug: ca. 1.565.555 €.
 
 ---
 file: 061_Voerde_-_Dinslaken.txt
+date: 25.03.2010
 
 Es waren weder Todesopfer noch Verletzte zu beklagen. Durch die Entgleisung wurden in den Bahnhöfen Dinslaken und Oberhausen West mehrere hundert Schwellen, sowie Weichen, Gleise und sicherungstechnische Einrichtungen teils stark beschädigt bzw. zerstört. Die Sachschäden wurden von den beteiligten Eisenbahnunternehmen geschätzt und setzen sich wie folgt zusammen:
 
@@ -1201,6 +1287,7 @@ Das EVU, die DB Schenker Rail Deutschland AG gab einen Betrag von 2.250,00 Euro 
 
 ---
 file: 141_Recklinghausen_Ost.txt
+date: 05.01.2013
 
 
 Bei dem Ereignis wurde niemand verletzt.
@@ -1213,6 +1300,7 @@ Die Sachschäden setzten sich wie folgt zusammen,
 
 ---
 file: 122_Augsburg.txt
+date: 18.09.2017
 
 
 Durch die Kollision kommt es zu folgenden Personenschäden:
@@ -1231,6 +1319,7 @@ Die Sachschäden setzen sich wie folgt zusammen:
 
 ---
 file: 135_Emden.txt
+date: 05.04.2019
 
 
 Infolge des Unfalls wurden keine Personen getötet. Der Triebfahrzeugführer (Tf) des im Gleis 179 stehen Tfz wurde leicht verletzt.
@@ -1238,6 +1327,7 @@ Die geschätzten Sachschäden belaufen sich auf ca. 295.000 Euro.
 
 ---
 file: 202_Wunstorf_-_Haste.txt
+date: 19.05.2016
 
 Personen wurden weder verletzt noch getötet. Es entstanden Sachschäden an der Infrastruktur sowie an den Radsätzen der beteiligten Fahrzeuge.
 
@@ -1251,6 +1341,7 @@ Gesamtschadenshöhe	651.000
 
 ---
 file: 090_Dillingen_Saar.txt
+date: 13.11.2014
 
 
 Der EF des Zweiwegefahrzeuges wird durch die Kollision leicht verletzt.
@@ -1267,6 +1358,7 @@ Infrastrukturanlagen (LST) ca.:     4.000.00 €
 
 ---
 file: 160_Frankfurt_Main_Süd.txt
+date: 10.05.2013
 
 
 Bei dem Ereignis wurde keine Person verletzt oder getötet. Es entstand Sachschaden an der Infrastruktur und an den schienenfahrzeugen.
@@ -1297,6 +1389,7 @@ Die folgende Abbildung gibt einen Überblick über die Entgleisungsstelle und di
 
 ---
 file: 156_Bad_Oldesloe_-_Bargteheide.txt
+date: 25.11.2014
 
 Es trat die folgende aufgeführte Personenschäden ein :
 - Anzahl Tote: 1
@@ -1311,6 +1404,7 @@ Die geschätzte Höhe der Sachschäden in Euro setzt sich wie folgt zusammen:
 
 ---
 file: 173_Ruhland.txt
+date: 26.04.2015
 
 
 Es wurden keine Personen verletzt oder getötet.
@@ -1318,6 +1412,7 @@ Schäden am Oberbau und den Fahrzeugen entstanden nicht.
 
 ---
 file: 131_Hoppegarten_Mark.txt
+date: 29.06.2015
 
 
 Durch das Ereignis wurde eine Person leicht verletzt.
@@ -1326,6 +1421,7 @@ In Folge der Zugentgleisung kam es zu Beschädigungen am Fahrzeug und am Oberbau
 
 ---
 file: 099_Rbf_Wustermark.txt
+date: 16.11.2015
 
 
 Todesopfer sind keine zu beklagen. Die Sachschäden setzen sich wie folgt zusammen:
@@ -1337,11 +1433,13 @@ Todesopfer sind keine zu beklagen. Die Sachschäden setzen sich wie folgt zusamm
 
 ---
 file: 077_Hannover_Hbf.txt
+date: 01.12.2012
 
 Personenschäden waren infolge des Unfalls nicht zu beklagen. Die Sachschäden wurden durch die DB Netz AG insgesamt auf ca. 1,4 Mio Euro geschätzt.
 
 ---
 file: 023_Hordorf.txt
+date: 29.01.2011
 
 
 Zum Zeitpunkt des Unfalls befanden sich 32 Personen im Personenzug. Zehn Personen wurden tödlich verletzt, darunter der Triebfahrzeugführer des Personenzuges und eine Zugbegleiterin. Dreiundzwanzig Personen wurden zum Teil schwer verletzt, darunter auch der Triebfahrzeugführer des Güterzuges.
@@ -1354,12 +1452,14 @@ Die Höhe der Sachschäden wurde von dem Eisenbahninfrastrukturunternehmen auf c
 
 ---
 file: 092_Kirn_Bad_Sobernheim.txt
+date: 12.09.2015
 
 Infolge des Zusammenpralls wurden 5 Personen im Pkw tödlich verletzt. Die 42 Fahrgäste im Zug blieben unverletzt, der Triebfahrzeugführer erlitt einen Schock. Der Pkw wurde vollständig zerstört. Das EVU vlexx GmbH beziffert die Sachschäden auf etwa 325.000.- Euro.  
 Die Kosten im Zusammenhang mit der Beseitigung der Bodenverunreinigung werden seitens der Fachlinie Fahrbahn auf ca. 1000 Euro geschätzt, die Kosten zur Beseitigung der Fahrbahnschäden auf ca. 4000 Euro. Nach Mitteilung der Fachlinie LST entstanden im Bereich LST keine Sachschäden. Nach Mitteilung der DB Station und Service AG wird der Schaden am Wetterschutzhaus auf ca. 1000 Euro geschätzt. Ereignisbedingt wurden 30 Züge mit insgesamt 596 Minuten verspätet, es sind 21 Teilausfälle sowie 1 Ausfall im Schienenpersonennahverkehr zu verzeichnen. Das betroffene Streckengleis Bf Kirn - Bf Bad Sobernheim sowie das benachbarte Streckengleis ist in der Zeit von 06:08 Uhr bis 12:22 Uhr gesperrt. Zudem wurde das Streckengleises Bf Bad Sobernheim – Bf Kirn in der Zeit von 13:02 Uhr bis 13:16 Uhr zum Abstreuen des durch den Ölaustritt verunreinigten Gleisbereiches gesperrt.  
 
 ---
 file: 137_Düsseldorf_Abstellbahnhof.txt
+date: 13.04.2019
 
 Bei dem Ereignis wurden keine Personen verletzt. Die Höhe des Sachschadens wurde mit ca. 530.000 Euro beziffert.
 Die Zugkollision führte zu Beschädigungen an beiden Zügen, der Fahrbahn sowie der Leit- und Sicherungstechnik (LST). Eine Ausfahrt aus den Gleisen 16-26 des Bahnhofs Düsseldorf Abstellbahnhof war für mehrere Stunden nicht möglich. Zug RE-D 5106 war mit dem vorderen Drehgestell des führenden Fahrzeuges entgleist. Die beteiligten Triebfahrzeugführer (Tf) sowie das Zugbegleitpersonal (Zub) des DLr 92365 wurden abgelöst und durch die Notdienste der beteiligten EVU betreut.
@@ -1402,6 +1502,7 @@ geschätzte Kosten in Euro
 
 ---
 file: 066_Bruchmühlen_-_Bünde.txt
+date: 17.07.2009
 
 
 Bei der Zugentgleisung kamen keine Personen zu Schaden.
@@ -1421,6 +1522,7 @@ Laut Eisenbahninfrastrukturunternehmen DB Netz AG (EIU) beträgt sich die Schade
 
 ---
 file: 091_Himmelstür_Abzw_Hildesheim_Hbf.txt
+date: 25.07.2015
 
 
 Es sind weder verletzte Personen noch Todesopfer zu beklagen. Die Sachschäden betragen:
@@ -1429,12 +1531,14 @@ Es sind weder verletzte Personen noch Todesopfer zu beklagen. Die Sachschäden b
 
 ---
 file: 018_Bielefeld.txt
+date: 10.07.2010
 
 
 Bei 27 Reisenden kam es zu Kreislaufbeschwerden und Kreislaufzusammenbrüchen. Von den betroffenen Reisenden wurden 9 Personen in Krankenhäuser eingeliefert.
 
 ---
 file: 174_Düsseldorf_Flughafen_Terminal.txt
+date: 13.11.2014
 
 Durch das Ereignis wurde eine Person leicht verletzt. Es entstanden Sachschäden an den Fahrzeugen, die auf ca. 9.000 Euro geschätzt wurden.
 
@@ -1489,6 +1593,7 @@ k. A.
 
 ---
 file: 132_Remscheid_Hbf.txt
+date: 25.01.2016
 
 Todesopfer sind keine zu beklagen. Der Fahrer des Pkw wurde leicht verletzt. Die Sachschäden setzen sich wie folgt zusammen:
 - Triebfahrzeug: ca. 20.000 €
@@ -1498,6 +1603,7 @@ Todesopfer sind keine zu beklagen. Der Fahrer des Pkw wurde leicht verletzt. Die
 
 ---
 file: 143_Mühlacker.txt
+date: 14.11.2017
 
 
 Bei dem Ereignis wurden keine Personen verletzt. Das Fahrzeug entgleiste mit beiden Achsen des ersten Drehgestells. Die Infrastruktur wurde nur gering beschädigt.
@@ -1505,11 +1611,13 @@ Es traten keine Personenschäden ein. Am Triebwagen entstanden Sachschäden in H
 
 ---
 file: 171_Ruhland.txt
+date: 24.04.2015
 
 Bei dem Ereignis wurden keine Personen verletzt oder getötet. Die doppelte Kreuzungsweiche (DKW) 7 wurde aufgefahren. Sachschäden an der vorhandenen Infrastruktur oder an den beteiligten Fahrzeugen entstanden nicht.
 
 ---
 file: 010_Gremberg.txt
+date: 15.03.2006
 
 - Ein Mitarbeiter der Railion Deutschland AG (Tf 51245) wurde leicht verletzt.
 - Die Gleis- und Fernmeldeanlagen wurden auf Grund des Zusammenstoßes und der anschließenden Entgleisung zum Teil schwer beschädigt.
@@ -1517,6 +1625,7 @@ file: 010_Gremberg.txt
 
 ---
 file: 076_Obernjesa.txt
+date: 19.01.2014
 
 Infolge des Unfalls waren weder Tote noch Verletzte zu beklagen. Es kam jedoch zu erheblichen Sachschäden.
 
@@ -1531,12 +1640,14 @@ Die Sachschäden setzen sich nach Auskunft des EIU wie folgt zusammen:
 
 ---
 file: 154_Rheydt-Gbf.txt
+date: 26.05.2010
 
 Persone wurde weder verletzt noch getötet.  
 Es entstand Sachschaden in Höhe von ca. 8.060.000 Euro.
 
 ---
 file: 045_Berlin_Ostbahnhof.txt
+date: 26.07.2011
 
 Personen sind bei diesem Unfall nicht verletzt oder zu Tode gekommen.
 
@@ -1553,6 +1664,7 @@ Der Gesamtschaden beläuft sich auf ca. 436.000 €.
 
 ---
 file: 172_Angern_Rogaetz.txt
+date: 08.09.2015
 
 
 Bei dem Ereignis traten keine Personenschäden ein.
@@ -1579,6 +1691,7 @@ Gesamtschadenshöhe
 
 ---
 file: 155_Hannover-Linden.txt
+date: 02.03.2013
 
 
 Persone wurden weder verletzt noch getötet. Es entstand Sachschaden an der Infrastruktur sowie an den beteiligten Fahrzeugen.
@@ -1590,6 +1703,7 @@ Gesamtschadenshöhe: 1.006.000 Euro
 
 ---
 file: 024_Recklinghausen.txt
+date: 25.11.2008
 
 In Folge der Kollision des Zuges CS 60401 mit der Lok 811 wurden die beiden Trieb­ fahrzeugführer (Tf) schwer verletzt und es entstand Sachschaden an Bahnanlagen und Fahrzeugen in Höhe von ca.190.000 EUR. 
 
@@ -1597,6 +1711,7 @@ Bei vorgenannter Kollision wurden die beiden Triebfahrzeugführer schwer verletz
 
 ---
 file: 102_Meppen.txt
+date: 13.03.2017
 
 
 Durch den Aufprall wurde der Mitarbeiter tödlich verletzt. Drei weitere Personen erlitten einen Schock. 
@@ -1613,6 +1728,7 @@ Eine Evakuierung des Zuges wurde nicht durchgeführt, da Busse erst ab 12:15 Uhr
 
 ---
 file: 041_Gröbers-Grosskugel.txt
+date: 11.02.2011
 
 Personen kamen nicht zu Schaden. Auf einer Streckenlänge von ca. 4.500 m wurden etwa 
 250  Schwellen,  eine  große  Anzahl  Kleineisen  und  sämtliche  Gleisschaltmittel  rechts  des 
@@ -1642,6 +1758,7 @@ schläge wurden zum Unfallzeitpunkt nicht registriert.
 
 ---
 file: 046_Falkenberg (Elster).txt
+date: 26.07.2010
 
 Bei der Zugentgleisung in Falkenberg (Elster) wurden keine Personen verletzt.
 
@@ -1653,6 +1770,7 @@ Die Sachschäden setzen sich wie folgt zusammen:
 
 ---
 file: 072_Goslar.txt
+date: 21.04.2015
 
 Personen wurden durch den Unfall weder getötet noch verletzt. Infolge des Ereignisses kam es zum zweispurigen Lauf des letzten Wagens (Rs - Wagen Nr. 3180 3914 929-5), wobei die erste Achse des vorderen Drehgestells entgleiste. Dadurch entstanden Sachschäden am Eisenbahnfahrzeug und an den Bahnanlagen. Der durch das EIU, die DB Netz AG, geschätzte Sachschaden beläuft sich auf ca. 96.000 Euro.  
 Todesopfer und verletzte Personen sind durch den Unfall nicht zu beklagen. Durch den zweispurigen Lauf des letzten Wagens kam es zur Entgleisung der vorlaufenden Achse des vorderen Drehgestells und zur Überpufferung mit dem vorletzten Wagen (Rbns – Wagen Nr. 8180 3507 137-7).  
@@ -1662,6 +1780,7 @@ Die Summe der geschätzten Sachschäden beläuft sich auf ca. 80.000 Euro.
 
 ---
 file: 038_Bleicherode.txt
+date: 21.09.2011
 
 Todesopfer sind keine zu beklagen. Der Triebfahrzeugführer wird bei dem Ereignis leicht verletzt und erleidet einen Schock. Die Sachschäden setzen sich wie folgt zusammen:
 
@@ -1675,6 +1794,7 @@ Todesopfer sind keine zu beklagen. Der Triebfahrzeugführer wird bei dem Ereigni
 
 ---
 file: 140_Neuss_Gbf.txt
+date: 04.10.2018
 
 
 Personenschäden sind nicht zu beklagen.
@@ -1705,6 +1825,7 @@ geschätzte Kosten in Euro (€)
 
 ---
 file: 115_Einsiedlerhof.txt
+date: 16.05.2015
 
 
 Personenschäden sind keine zu beklagen. Die Sachschäden setzen sich wie folgt zusammen:
@@ -1715,6 +1836,7 @@ Personenschäden sind keine zu beklagen. Die Sachschäden setzen sich wie folgt 
 
 ---
 file: 020_Gelsenkirchen.txt
+date: 07.04.2010
 
 
 Personen wurden bei dem Unfall nicht verletzt.
@@ -1727,6 +1849,7 @@ Der geschätzte Sachschaden beläuft sich insgesamt auf ca. 285.000 €. Davon e
 
 ---
 file: 123_Bremen.txt
+date: 30.11.2017
 
 Durch das Ereignis waren keine Todesopfer und Verletze zu beklagen.  
 Die Sachschäden setzen sich wie folgt zusammen:  
@@ -1741,11 +1864,13 @@ Insbesondere kam es an zwei Weichen zu Beschädigungen der Zungenvorrichtungen u
 
 ---
 file: 109_Eilenburg.txt
+date: 04.05.2015
 
 Es entstand ein Sachschaden an den Gleisanlagen von ca. 94.000 Euro. Der Oberbau und Anlagen der Leit- und Sicherungstechnik (LST) wurden auf einer Länge von ca. 300 m beschädigt. Personen wurden nicht verletzt. Der Wagen erhielt nach der Entgleisung einen Ersatzradsatz und eine Instandsetzung bei EuroMaint Rail GmbH Werk Leipzig. Die Schadenshöhe am Fahrzeug beträgt ca. 9910,00 €. Todesopfer und Verletzte sind keine zu beklagen.
 
 ---
 file: 175_Jübek_-_Flensburg_Weiche.txt
+date: 07.11.2015
 
 Bei dem Ereignis traten folgend aufgeführte Personenschäden ein:
 
@@ -1814,6 +1939,7 @@ Gesamtschadenshöhe
 
 ---
 file: 211_Oberhausen_West.txt
+date: 24.06.2018
 
 
 Bei dem Ereignis traten keine Personenschäden ein. Die geschätzte Höhe der Sachschäden in Euro setzte sich wie folgt zusammen:
@@ -1824,6 +1950,7 @@ Bei dem Ereignis traten keine Personenschäden ein. Die geschätzte Höhe der Sa
 
 ---
 file: 073_Eilendorf_Hp_−_Aachen-Rothe_Erde.txt
+date: 25.06.2012
 
 
 Todesopfer sind nicht zu beklagen. Fünf Reisende begaben sich mit Verdacht auf Rauchgasvergiftung in ärztliche Behandlung; jedoch bestätigte sich diese nicht.
@@ -1838,6 +1965,7 @@ Die Sachschäden setzen sich wie folgt zusammen:
 
 ---
 file: 036_Müllheim.txt
+date: 20.05.2011
 
 
 Bei der Zugentgleisung sind Sachschäden entstanden, die durch den Infrastrukturbetreiber wie folgt beziffert wurden:
@@ -1864,6 +1992,7 @@ Es wurden keine Todesopfer oder Verletzten gemeldet.
 
 ---
 file: 055_Hosena.txt
+date: 26.07.2012
 
 
 Der Weichenwärter des Stellwerkes W3 wurde tödlich verletzt. Der Triebfahrzeugführer des DGS 49325 wurde schwer verletzt. Der Fahrdienstleiter des Bahnhofs Hosena und der Triebfahrzeugführer des DGS 92505 erlitten einen Schock.
@@ -1878,6 +2007,7 @@ Schadenshöhe:
 
 ---
 file: 104_Duisburg-Wedau_-_Lintorf.txt
+date: 11.09.2015
 
 
 Bei dem Ereignis wurde keine Personen verletzt.
@@ -1891,6 +2021,7 @@ Die Sachschäden setzen sich wie folgt zusammen:
 
 ---
 file: 119_Duisburg_Wedau.txt
+date: 13.02.2018
 
 Personenschäden sind nicht zu beklagen. Die geschätzte Höhe der Sachschäden setzt sich wie folgt zusammen:
 
@@ -1901,6 +2032,7 @@ Personenschäden sind nicht zu beklagen. Die geschätzte Höhe der Sachschäden 
 
 ---
 file: 182_Duisburg-Wedau.txt
+date: 13.02.2018
 
 
 Personenschäden sind nicht zu beklagen. Die geschätzte Höhe der Sachschäden setzt sich wie folgt zusammen:
@@ -1912,6 +2044,7 @@ Personenschäden sind nicht zu beklagen. Die geschätzte Höhe der Sachschäden 
 
 ---
 file: 167_Köln_Bonntor_-_Köln_Süd.txt
+date: 24.08.2019
 
 
 Es wurden keine Personen verletzt oder getötet. Es entstanden Sachschäden in geschätzter Höhe von 2.200.000 Euro.
@@ -1983,6 +2116,7 @@ Tabelle 3: Übersicht der geschätzten Schadenshöhe
 
 ---
 file: 124_Moers.txt
+date: 25.02.2019
 
 Infolge des Unfalls wurden keine Personen getötet oder schwer verletzt. Der Triebfahrzeugführer (Tf) erlitt bei dem Unfall einen Schock.
 
@@ -1990,6 +2124,7 @@ Die geschätzten Sachschäden belaufen sich auf ca. 1.890.000,00 Euro.
 
 ---
 file: 169_Schkeuditz.txt
+date: 11.06.2013
 
 Es wurden zwei Personen leicht verletzt. Der führende Steuerwagen und ein nachfolgender Reisezugwagen entgleisen mit je einem Drehgestell. Es entstanden Sachschäden an der Infrastruktur und den Fahrzeugen.
 
@@ -2005,17 +2140,20 @@ Die geschätzte Höhe der Sachschäden in Euro setzt sich wie folgt zusammen:
 
 ---
 file: 150_Storzingen_-_Inzigkofen.txt
+date: 24.10.2019
 
 
 Es traten keine Personen- und Sachschäden ein.
 
 ---
 file: 100_Vilseck_Freihung.txt
+date: 05.11.2015
 
 Der Triebfahrzeugführer (Tf) und der Fahrer des Sattelzugs werden bei dem Unfall getötet. Vier Fahrgäste werden schwer verletzt und werden teils mit Rettungshubschrauber ins Krankenhaus gebracht, fünfzehn Personen werden leicht verletzt. Der führende Triebwagenteil 612 060-3 wird im Frontbereich zerstört, brennt teilweise aus und entgleist mit dem führenden Drehgestell. Die Sattelzugmaschine wird völlig zerstört, der Sattelauflieger trägt schwere Schäden davon. Der Oberbau der Strecke wird auf einer Länge von ca. 460 m beschädigt und durch auslaufende Betriebsstoffe verunreinigt. Das Schalthaus des Bahnübergangs wird beschädigt und verschoben. Die Sachschäden belaufen sich auf ca. 3,2 Mio. €.
 
 ---
 file: 027_Geldern.txt
+date: 07.08.2010
 
 Bei dem Unfall wurden der Triebfahrzeugführer (Tf) und der Arbeitszugführer des Bauzuges leicht verletzt.
 
@@ -2041,6 +2179,7 @@ Für die Einrichtung des Schienenersatzverkehrs (SEV) wurden ca. 20.000 EUR vera
 
 ---
 file: 071_Frellstedt.txt
+date: 04.10.2011
 
 
 Bei diesem Ereignis sind keine Personen zu Schaden gekommen. 
@@ -2073,6 +2212,7 @@ ca.
 
 ---
 file: 198_Bremerhaven_Seehafen.txt
+date: 28.11.2015
 
 Bei dem Unfall wurde eine Person getötet und vier Personen leicht verletzt. Es entstanden Sachschäden in Höhe von ca. 122.000 Euro.
 
@@ -2153,6 +2293,7 @@ Tabelle 2: Übersicht der geschätzten Schadenshöhe
 
 ---
 file: 015_Berlin-Karow.txt
+date: 16.04.2009
 
 
 Desweiteren ist ein erheblicher Sachschaden an den Anlagen und Fahrzeugen mit einer geschätzten Schadenshöhe von ca. 800 T€ zu verzeichnen.
@@ -2161,6 +2302,7 @@ Es wurden 11 Reisende leicht verletzt und 2 Mitarbeiter schwer verletzt.
 
 ---
 file: 029_Bacharach.txt
+date: 01.09.2010
 
 Durch das Ereignis sind keine Personen geschädigt worden.  
 Die Sachschäden setzen sich wie folgt zusammen:  
@@ -2175,6 +2317,7 @@ Das Gleis 1 des Bf Bacharach sowie das Streckengleis Bacharach - Niederheimbach 
 
 ---
 file: 212_Augsburg_Hbf.txt
+date: 15.02.2019
 
 Durch das Ereignis wurden keine Personen verletzt oder getötet.
 
@@ -2202,6 +2345,7 @@ Gesamtschadenshöhe
 
 ---
 file: 056_Berlin Hauptbahnhof.txt
+date: 13.05.2013
 
 Todesopfer sind keine zu beklagen. Der Triebfahrzeugführer wurde bei dem Ereignis leicht verletzt.
 
@@ -2217,6 +2361,7 @@ Die Sachschäden setzen sich wie folgt zusammen:
 
 ---
 file: 146_München_Ost_Rbf.txt
+date: 18.07.2019
 
 Bei dem Ereignis wurden zwei Personen leicht verletzt.
 
@@ -2224,6 +2369,7 @@ An den beteiligten Fahrzeugen entstand ein Sachschaden von etwa 140.000 Euro.
 
 ---
 file: 130_Freiburg_Breisgau_Gbf.txt
+date: 27.04.2018
 
 
 Todesopfer oder Verletzte sind nicht zu beklagen.
@@ -2240,6 +2386,7 @@ Die Gleise 1 bis 6 waren ab 06:27 Uhr gesperrt. Alle Güterzüge der rollenden L
 
 ---
 file: 127_Reiskirchen_-_Grossen-Buseck.txt
+date: 22.05.2018
 
 
 Todesopfer sind keine zu beklagen. Durch die Kollision wurde der Tf, die Zugbegleiterin sowie ein Reisender schwer verletzt. Weitere 17 Personen im Zug wurden leicht verletzt.
@@ -2259,6 +2406,7 @@ Gesamtschadenshöhe
 
 ---
 file: 148_Essen-Werden.txt
+date: 16.10.2013
 
 Es trat folgende aufgeführte Personenschäden ein :
 
@@ -2322,6 +2470,7 @@ Gesamtschadenshöhe
 
 ---
 file: 054_Mühlheim Ost - Hanau Hbf.txt
+date: 13.04.2012
 
 Der  Triebfahrzeugführer  des  Regionalzuges  sowie  der  Eisenbahnfahrzeugführer  des  Zwei­
 wegefahrzeuges und dessen Zf/RbBau werden tödlich verletzt. 14 Reisende im Zug werden 
@@ -2347,6 +2496,7 @@ ca.
 
 ---
 file: 152_Hamburg-Bergedorf_-_Aumühle.txt
+date: 06.02.2013
 
 Eine Person wurde tödlich verletzt.
 
@@ -2369,6 +2519,7 @@ Gesamtschade shöhe
 
 ---
 file: 128_Gross_Rohrheim.txt
+date: 30.07.2018
 
 
 Personen wurden durch die Zugentgleisung nicht verletzt oder getötet. Es entstanden Schäden im Bereich der Entgleisungsstelle an Schienen, Schwellen und der Weiche 303. Dabei wurden auch signaltechnische Einrichtungen zerstört. 
@@ -2383,6 +2534,7 @@ Schienenersatzverkehr 10.000€
 
 ---
 file: 017_Nürnberg-Stein.txt
+date: 07.08.2009
 
 
 Es waren keine Personenschäden zu verzeichnen.
@@ -2397,6 +2549,7 @@ Die durch DB Netz AG geschätzten Sachschäden setzen sich wie folgt zusammen:
 
 ---
 file: 209_Oberkochen_-_Königsbronn.txt
+date: 21.10.2016
 
 
 Der Fahrer des Lkw wurde bei dem Ereignis tödlich, der Triebfahrzeugführer (Tf) und sechs Fahrgäste wurden leicht verletzt. Am Lkw entstand Totalschaden. Am Triebzug entstand erheblicher Sachschaden. Die Infrastruktur wurde nur gering beschädigt.
@@ -2461,6 +2614,7 @@ Tabelle 3: Übersicht der geschätzten Schadenshöhe
 
 ---
 file: 190_Bitterfeld_-_Wolfen.txt
+date: 26.01.2014
 
 
 Personen wurden nicht verletzt.
@@ -2476,11 +2630,13 @@ Gesamtschadenshöhe: 870.000 €
 
 ---
 file: 096_Gruiten.txt
+date: 01.02.2017
 
 Personen- oder Sachschäden sind nicht zu beklagen. Unter leicht veränderten Bedingungen hätte das Ereignis jedoch zu einem schweren Unfall führen können. Der Tf des ICE erlitt aufgrund des Vorfalls einen Schock und wurde in Gruiten abgelöst.
 
 ---
 file: 118_Hohenlimburg.txt
+date: 17.07.2017
 
 Drei Personen wurden bei dem Ereignis leicht verletzt. Insgesamt entstanden geschätzte Sachschäden in Höhe von ca. 27.500,00 Euro.
 
@@ -2492,6 +2648,7 @@ Todesopfer sind keine zu beklagen. Der Pkw-Fahrer wurde bei dem Zusammenprall le
 
 ---
 file: 219_Fallersleben.txt
+date: 31.03.2021
 
 
 Bei dem Ereignis traten folgend aufgeführte Personenschäden ein:
@@ -2569,6 +2726,7 @@ Bei der Kollision wurde ein Tf leicht verletzt. Es entgleisen drei Tfz, siehe Ab
 
 ---
 file: 013_Tornesch.txt
+date: 23.01.2007
 
 
 Von den insgesamt 21 Güterwagen des TEC 40013 entgleisen 12 Wagen so schwer, dass ein Teil der Wagen umstürzte. Zwischen dem ersten und zweiten Güterwagen erfolgte eine Zugtrennung.
@@ -2583,6 +2741,7 @@ Es wurden ca. 22000 Liter Chloressigsäure freigesetzt.
 
 ---
 file: 129_Basel_Bad_Rbf.txt
+date: 18.12.2016
 
 
 Durch den Aufprall wurden fünf Personen im Reisezugwagen des einfahrenden Zuges (Rollende Landstraße) leicht verletzt. 
@@ -2593,6 +2752,7 @@ Die Gleise A 1 bis A 13 und die Gleise A 53 bis A 54 waren von 14:03 Uhr bis 17:
 
 ---
 file: 214_Hamburg-Altona.txt
+date: 23.01.2020
 
 
 Infolge des Unfalls wurden keine Personen getötet oder verletzt.
@@ -2605,6 +2765,7 @@ Gesamtschadenshöhe: ca. 2.500 €
 
 ---
 file: 142_Wanne-Eickel_Gbf.txt
+date: 13.08.2019
 
 
 Infolge des Unfalls wurden keine Personen getötet oder schwer verletzt. Der Zugbegleiter des Zuges DPN-G 89399 wurde bei dem Ereignis leicht verletzt.
@@ -2613,6 +2774,7 @@ Die geschätzten Sachschäden belaufen sich auf ca. 310.900 Euro.
 
 ---
 file: 224_Würzburg.txt
+date: 16.02.2020
 
 
 Bei dem Ereignis wurden keine Personen verletzt oder getötet. Bedingt durch die Entgleisung des Triebfahrzeuges (Tfz) des Güterzuges DGS 48959 traten ca. 200 Liter Dieselkraftstoff aus dem Tank des Last-Mile Tfz aus. Des Weiteren entgleiste der erste Mineralölkesselwagen des Güterzug DGS 48959 sowie ein Doppelstockwagen der Rf.
@@ -2626,6 +2788,7 @@ Gesamtschadenshöhe: 2.000.000 Euro
 
 ---
 file: 178_Belzig_-_Wiesenburg_Mark.txt
+date: 23.08.2011
 
 
 Es wurden keine Personen getötet oder verletzt.
@@ -2642,6 +2805,7 @@ Gesamtschadenshöhe 3.832.000
 
 ---
 file: 166_Weil_am_Rhein.txt
+date: 25.02.2020
 
 
 Personen kamen nicht zu Schaden.
@@ -2653,6 +2817,7 @@ Die geschätzte Höhe der Sachschäden in Euro setzt sich wie folgt zusammen:
 
 ---
 file: 049_Bremen.txt
+date: 05.09.2013
 
 
 Todesopfer sind nicht zu beklagen. Vier Personen wurden leicht verletzt. Darunter befanden sich eine Reisende (Schock), ein Reisender (Prellungen), ein Fahrgastbetreuer (Prellungen) und der Tf (Schock). 
@@ -2672,6 +2837,7 @@ Der entstandene Sachschaden setzt sich wie folgt zusammen:
 
 ---
 file: 105_Leese-Stolzenau.txt
+date: 30.06.2017
 
 Die Tf der beiden Züge wurden bei dem Ereignis schwer, jedoch nicht lebensbedrohlich verletzt. Den Angaben der EBL zufolge konnten beide das Krankenhaus nach wenigen Tagen verlassen.  
 
@@ -2695,6 +2861,7 @@ Daraus ergibt sich ein geschätzter Gesamtsachschaden in Höhe von 8.765.000,00 
 
 ---
 file: 083_Löhne_Westf.txt
+date: 13.12.2012
 
 Tote oder Verletzte sind nicht zu beklagen.
 
@@ -2706,12 +2873,14 @@ Erste Schäden in Form von Längsriefen auf dem Schienenkopf der linken Schiene 
 
 ---
 file: 205_Bremen-Neustadt.txt
+date: 04.02.2020
 
 
 Es wurden keine Personen getötet oder verletzt. Es entstanden Sachschäden in geschätzter Höhe von 1.080.000 Euro.
 
 ---
 file: 111_Cuxhaven.txt
+date: 20.02.2018
 
 Durch die Zugkollision wurden zwei Personen leicht verletzt. Der Triebfahrzeugführer des DGS 59750 wurde bei dem Ereignis leicht verletzt und erlitt einen Schock. Er wurde mit Prellungen kurzzeitig in ein Krankenhaus eingeliefert. Der Tf, der mit der Zugvorbereitung des EK 53681 beschäftigt war, erlitt ebenfalls einen Schock.
 
@@ -2719,6 +2888,7 @@ An den beteiligten Fahrzeugen entstanden erhebliche Sachschäden. Die Ladung des
 
 ---
 file: 153_Horb.txt
+date: 23.01.2020
 
 
 Personen wurden nicht verletzt. Es entstand aufgrund der niedrigen Geschwindigkeit des IC 2382 geringer Sachschaden an Bahnanlage und Fahrzeugen.
@@ -2731,6 +2901,7 @@ Die geschätzte Höhe der Sachschäden setzt sich wie folgt zusammen:
 
 ---
 file: 139_Aichach.txt
+date: 07.05.2018
 
 
 Bei der Kollision wurden der Triebfahrzeugführer (Tf) des DPN 86696 und ein Fahrgast des Personenzuges getötet. Zwei Fahrgäste wurden schwer verletzt, elf weitere erlitten leichtere Verletzungen. Der Tf des Güterzugs erlitt einen psychischen Schock.
@@ -2757,6 +2928,7 @@ keine Angaben 
 
 ---
 file: 168_Unkel.txt
+date: 06.02.2019
 
 
 Bei dem Fahrzeugbrand wurde eine Person leicht verletzt.
@@ -2774,6 +2946,7 @@ Gesamtschadenshöhe – 1.377.000 €
 
 ---
 file: 004_Hannover-Langenhagen.txt
+date: 29.06.2000
 
 Infolge des Zusammenstoßes wurden insgesamt 16 Personen verletzt.
 
@@ -2785,11 +2958,13 @@ Durch den Zusammenstoß verkeilten sich die führenden Fahrzeuge der S-Bahnen um
 
 ---
 file: 165_Papiermühle_Kr_Stadtroda_-_Stadtroda.txt
+date: 19.05.2017
 
 Acht Personen erlitten leichte Verletzungen. Auf Grund der Kollision entgleiste der Zug mit allen Drehgestellen des führenden Triebzuges. Es entstanden Sachschäden an der Infrastruktur und an den Fahrzeugen in Höhe von ca. 1.663.700 Euro.
 
 ---
 file: 207_Hamm_Westf_Rbf.txt
+date: 23.10.2015
 
 
 Personen wurden weder verletzt noch getötet. In Folge der Entgleisung entstanden Schäden am Oberbau und an den betroffenen Wagen in Höhe von ca. 150.000 Euro.
@@ -2853,6 +3028,7 @@ Gesamtschadenshöhe
 
 ---
 file: 176_Gaildorf_West_-_Schwäbisch_Hall-Hessental.txt
+date: 15.06.2017
 
 
 Bei dem Ereignis wurden weder Personen verletzt noch getötet.
@@ -2879,6 +3055,7 @@ k. A.
 
 ---
 file: 217_Griesen_Oberbay.txt
+date: 22.01.2020
 
 Es wurden keine Personen verletzt oder getötet. Es entstand kein Sachschaden.
 
@@ -2886,12 +3063,14 @@ Die Strecke war bis 20:03 Uhr gesperrt, es wurde ein Ersatzverkehr mit Bussen ei
 
 ---
 file: 161_Hoffenheim_Reilsheim.txt
+date: 12.09.2015
 
 
 Personen wurden weder verletzt noch getötet. Es entstanden keine Sachschäden. Andere Zugfahrten wurden nicht gefährdet. Die vorgeschriebenen Verkehrshalte wurden missachtet. Reisende konnten an den durchfahrenen Verkehrshaltestationen weder ein- noch aussteigen.
 
 ---
 file: 216_München-Riem.txt
+date: 27.04.2018
 
 
 Bei dem Unfall wurden keine Personen getötet, eine Person wurde leicht verletzt.
@@ -2918,6 +3097,7 @@ Gesamtschadenshöhe
 
 ---
 file: 232_Eberbach.txt
+date: 22.07.2024
 
 Bei dem Ereignis traten folgend aufgeführte Personenschäden ein:
 
@@ -2945,11 +3125,13 @@ Ein fünfjähriges Kind verstarb. Die Mutter des Kindes und der Tf des EZ 51978 
 
 ---
 file: 008_Vilseck.txt
+date: 22.06.2001
 
 Durch den Zusammenprall wurden der Triebfahrzeugführer, der Lkw-Fahrer und ein Reisender tödlich verletzt. Ein Zugbegleiter der Deutsche Bahn AG, die Beifahrerin des LKW und neun Reisende wurden schwer verletzt. Elf Reisende wurden leicht verletzt, ein Reisender blieb unverletzt. Die Bahnübergangssicherungseinrichtung, die Signalanlagen und Oberbauanlagen der Deutschen Bahn AG wurden erheblich beschädigt. Der Sachschaden an den Anlagen und Fahrzeugen wird auf ca. 6.000.000.- DM geschätzt. Die Bahnstrecke Neukirchen b.S.R. - Weiden (Oberpf) war zwischen den Bahnhöfen Freihung und Vilseck vom 22.06.2001 ab 08:34 Uhr bis zum 23.06.2001 um 13:10 Uhr gesperrt.
 
 ---
 file: 006_Osnabrück.txt
+date: 17.03.2004
 
 
 Der Unfall löste insbesondere aufgrund der Beteiligung von Gefahrgut ein erhebliches öffentliches Aufsehen aus. Ca. 80 Personen mussten evakuiert werden. Weitere Personenschäden sind nicht bekannt geworden.
@@ -2965,6 +3147,7 @@ Entstandene Sachschäden:
 
 ---
 file: 057_Gladbeck West.txt
+date: 26.10.2013
 
 Der Tf des Zuges DGS 89025 sprang kurz vor der Kollision von seinem Tfz ab und verletzte sich dabei schwer.
 
@@ -3006,12 +3189,14 @@ ca.
 
 ---
 file: 003_Fichtenberg.txt
+date: 30.09.2005
 
 
 Dabei wurden 1 Kind getötet, 9 Erwachsene und 14 Kinder z.T. schwer verletzt, darunter der Triebfahrzeugführer. Der LKW-Fahrer konnte sein Fahrzeug noch rechtzeitig verlassen.
 
 ---
 file: 039_Werlau - St. Goar.txt
+date: 11.09.2011
 
 Der Triebfahrzeugführer wird schwer, 10 Reisende und 4 Mitarbeiter werden leicht verletzt.
 
@@ -3021,11 +3206,13 @@ Es entstand erhebliche Schäden an den Fahrzeugen sowie der Infrastruktur, die �
 
 ---
 file: 240_Ludwigshafen-Oggersheim.txt
+date: 31.10.2024
 
 Durch das Ereignis kam es zu keinen Personenschäden. An der Infrastruktur und an dem Triebfahrzeug (Tfz) des EZK 55240 entstanden Sachschäden.  
 
 ---
 file: 009_Berlin Südkreuz.txt
+date: 20.11.2006
 
 Bei dem Zusammenstoß wurden 37 Personen verletzt. Davon waren 33 Personen Reisende, die sich im Zug S 25066 befanden. Zwei der Reisenden wurden schwer verletzt. Weiterhin wurden der Triebfahrzeugführer des Zuges S 25066 sowie eine zum Zeitpunkt des Unfalles im Führerstand befindliche Beschäftigte der S-Bahn Berlin GmbH verletzt. Von den auf dem Dsts(B) 96114 befindlichen Personen wurden zwei Personen verletzt.
 
@@ -3033,11 +3220,13 @@ Entsprechend der Auskunft durch die S-Bahn Berlin GmbH betrug der Schaden an den
 
 ---
 file: 040_Espelkamp.txt
+date: 09.01.2013
 
 Infolge des Zusammenpralls wurde eine im Fond des Pkw sitzende Insassin getötet. Die Fahrerin und der Beifahrer erlitten schwere Verletzungen. Die beiden als Posten eingesetz­ten Mitarbeiter erlitten einen Schock. Die 18 Reisenden des Zuges und der Triebfahrzeugführer blieben unverletzt. Es entstanden teils erhebliche Sachschäden an den beteiligten Fahrzeugen und Bahnanla­gen. Der Sachschaden am Triebwagen wurde durch das EVU auf ca. 150.000,- Euro ge­schätzt. Der Pkw wurde völlig zerstört (Totalschaden). Außerdem wurde ein auf der westlichen Seite des BÜ stehender Pkw beschädigt. Dessen Fahrerin blieb jedoch unverletzt. Der Infrastrukturunternehmer, die DB Netz AG, gab als geschätzten Sachschaden einen Gesamtbetrag von ca. 170.300,00 Euro an.
 
 ---
 file: 241_Berlin-Lichtenberg.txt
+date: 12.05.2021
 
 
 Es  wurden  keine  Personen  verletzt.  Ein  Kohlestaub‐Behälterwagen  entgleiste,  wurde  aufgerissen und kippte um. Das führende Fahrzeug des DLr wurde an der Frontpar(cid:415)e stark  beschädigt. 
@@ -3055,12 +3244,14 @@ Der Behälter des entgleisten Wagens wurde seitlich aufgerissen, so das
 
 ---
 file: 235_Saarbrücken.txt
+date: 06.12.2022
 
 
 Es gab keine Verletzten oder Todesopfer. Es entgleisten sechs Wagen an den Positionen 3 bis 8. An einem Tankcontainer kam es zum Austritt von Ladegut. Es entstanden Sachschäden an Fahrzeugen, der Gleisinfrastruktur sowie der Leit- und Sicherungstechnik (LST) in Höhe von 890.000 Euro.
 
 ---
 file: 162_Schwaigen_-_Landau_an_der_Isar.txt
+date: 09.07.2018
 
 Der Fahrer des Kleintransporters wurde bei dem Ereignis tödlich verletzt. Zwei Mitarbeiter der DB Netz AG wurden leicht verletzt. Der Kleintransporter wurde bei dem Unfall vollständig zerstört. Am Triebzug entstanden Schäden im Front- und Seitenbereich. An der Infrastruktur entstanden erheblicher Schaden an der Schrankalanlage der BÜSA.
 
@@ -3077,6 +3268,7 @@ Die geschätzte Höhe der Sachschäden in Euro setzt sich wie folgt zusammen:
 
 ---
 file: 218_Köln_Eifeltor.txt
+date: 05.09.2020
 
 Bei dem Ereignis traten folgende aufgeführte Personenschäden ein:
 
@@ -3149,6 +3341,7 @@ Tabelle 3: Übersicht der geschätzten Schadenshöhe
 
 ---
 file: 180_Bitburg-Erdorf_-_Kyllburg.txt
+date: 01.06.2018
 
 
 Bei dem Ereignis kam es zu keinen Personenschäden.
@@ -3162,6 +3355,7 @@ Die geschätzte Höhe der Sachschäden setzte sich wie folgt zusammen:
 
 ---
 file: 187_Worms_-_Hofheim_Ried.txt
+date: 05.05.2017
 
 
 Bei dem Ereignis wurden keine Personen verletzt oder getötet.
@@ -3176,6 +3370,7 @@ Gesamtschadenshöhe 512.800
 
 ---
 file: 239_Mannheim.txt
+date: 07.03.2024
 
 
 Die beiden Triebfahrzeugführer (Tf) wurden bei dem Ereignis jeweils leicht verletzt. An den Eisenbahnfahrzeugen und der Infrastruktur entstanden Sachschäden.
@@ -3239,11 +3434,13 @@ Gesamtschadenshöhe
 
 ---
 file: 138_Plochingen.txt
+date: 22.07.2016
 
 Personen wurden bei dem Ereignis nicht verletzt. Die Schäden an den beteiligten Fahrzeugen betrugen ca. 60.000 €. An der Infrastruktur entstanden keine nennenswerten Schäden.
 
 ---
 file: 043_Hannover-Linden.txt
+date: 08.04.2011
 
 
 Verletzte oder Todesopfer sind nicht zu beklagen.
@@ -3259,6 +3456,7 @@ Die Sachschäden setzen sich wie folgt zusammen:
 
 ---
 file: 225_München_Nord.txt
+date: 23.05.2020
 
 
 Bei der Zugkollision wurde der Fahrer des Lkw zunächst schwer verletzt und verstarb zehn Tage später im Krankenhaus an den Unfallfolgen. Weitere Personen wurden nicht verletzt oder getötet.
@@ -3267,6 +3465,7 @@ Die Sachschäden beliefen sich auf rund 163.000 Euro.
 
 ---
 file: 065_Mannheim_Hbf.txt
+date: 01.08.2014
 
 
 Durch die Zugkollision werden 4 Personen schwer und mehrere Personen leicht verletzt. Es entsteht erheblicher Sachschaden an den Schienenfahrzeugen und den Infrastrukturanlagen. Zudem wird die Ladung der herabgekippten Container stark beschädigt bzw. zerstört. Durch die Gleissperrungen im Bf Mannheim Hbf kommt es zu erheblichen Betriebserschwerungen.
@@ -3287,17 +3486,20 @@ Fachlinie E/M-Technik
 
 ---
 file: 222_Wengern_Ost.txt
+date: 20.05.2020
 
 
 Es wurden keine Personen verletzt oder getötet. In Folge der Zugentgleisung wurden ein Autotransportwagen und die Infrastruktur beschädigt. Es entstanden Sachschäden in geschätzter Höhe von 1.650.000 Euro.
 
 ---
 file: 221_Bietigheim-Bissingen.txt
+date: 24.09.2020
 
 Es gab keine Verletzten oder Todesopfer. Es entstanden Sachschäden an Fahrzeugen, der Gleisinfrastruktur sowie der Leit- und Sicherungstechnik in Höhe von ca. 328.000 €.
 
 ---
 file: 022_Stuttgart-Unterturkheim.txt
+date: 15.03.2010
 
 
 Todesopfer sind keine zu beklagen. Der Triebfahrzeugführer wird bei dem Ereignis leicht verletzt und erleidet einen Schock.
@@ -3314,12 +3516,14 @@ Betriebserschwernisse keine Angaben
 
 ---
 file: 206_Demmin.txt
+date: 09.06.2021
 
 
 Es wurden keine Personen getötet oder verletzt. Am betroffenen Fahrzeug und der Infrastruktur entstanden Sachschäden in geschätzter Höhe von 466.900 Euro.
 
 ---
 file: 059_Vahr(Abzw)-Bremen Hbf.txt
+date: 14.02.2013
 
 
 Todesopfer oder Verletzte sind nicht zu beklagen.
@@ -3338,6 +3542,7 @@ Die veranschlagte Schadenssumme in Höhe von etwa 4.455.600,00 € setzt sich wi
 
 ---
 file: 108_Neustadt_am_Rübenberge_-_Hagen_Han.txt
+date: 15.05.2017
 
 Der Zusammenprall führte zum Tod des Lkw-Fahrers. Der Tf und 14 Reisende wurden verletzt.
 
@@ -3345,6 +3550,7 @@ Der gesamte Sachschaden an Fahrzeugen und Anlagen wird auf ca. 800.000 € gesch
 
 ---
 file: 213_Biesdorfer_Kreuz_Ost_-_Berlin_Kaulsdorf.txt
+date: 06.01.2016
 
 
 Es wurden keine Personen getötet oder verletzt. Der hintere EW und der MW des Triebzuges brannten vollständig, der führende EW teilweise aus. Aufgrund des Ausmaßes der Schäden lag ein Totalverlust des Triebzuges vor.
@@ -3371,6 +3577,7 @@ Gesamtschadenshöhe
 
 ---
 file: 183_Hausach_-_Haslach.txt
+date: 09.07.2020
 
 Bei dem Ereignis traten keine Personenschäden ein.
 Die geschätzte Höhe der Sachschäden in Euro setzt sich wie folgt zusammen:
@@ -3384,6 +3591,7 @@ Am TVT entstand Totalschaden. Die Infrastruktur wurde im Entgleisungsbereich pun
 
 ---
 file: 005_Holzdorf.txt
+date: 28.09.2003
 
 Bei dem Zusammenstoß wurde eine Reisende tödlich verletzt. Darüber hinaus wurden 14 Personen schwer und 13 Personen leicht verletzt.
 Als Folge des Zusammenstoßes wurden die beiden Triebwagen der Baureihe 641 stark beschädigt.
@@ -3391,6 +3599,7 @@ Die Höhe der Sachschäden beläuft sich auf ca. 2.000.000 €.
 
 ---
 file: 151_Bad_Friedrichshall_Hbf.txt
+date: 06.08.2019
 
 
 Eine Person wurde durch die Entgleisung leicht verletzt. Es entstand im Entgleisungsbereich geringer Sachschaden am Oberbau sowie an der Weiche 116. Der entgleiste Triebwagen wurde im Bereich des vorderen Drehgestells beschädigt.
@@ -3403,16 +3612,19 @@ Die geschätzte Höhe der Sachschäden in Euro setzt sich wie folgt zusammen:
 
 ---
 file: 014_Landrückentunnel.txt
+date: 26.04.2008
 
 
 ---
 file: 228_Hürth-Kalscheuren_-_Brühl.txt
+date: 04.05.2023
 
 
 Es wurden zwei Personen getötet und fünf Personen leicht verletzt. Es entstanden Sachschäden am beteiligten Eisenbahnfahrzeug und technischem Gerät in geschätzter Höhe von 10.000 Euro.
 
 ---
 file: 220_Rüsselsheim.txt
+date: 23.02.2022
 
 
 Bei dem Ereignis traten folgend aufgeführte Personenschäden ein:
@@ -3480,6 +3692,7 @@ Die letzten beiden Drehgestelle des ET entgleisen. An diesem Fahrzeug entstand e
 
 ---
 file: 223_Flandersbach.txt
+date: 19.10.2021
 
 
 Die beiden letzten Wagen des Zuges GAG 68432 entgleisen, stürzten teilweise um und wurden hierdurch beschädigt. Es entstand Sachschaden an den gegenlastseitigen Schutzwagen des Eisenbahnkrans.
@@ -3556,6 +3769,7 @@ Tabelle 4: Übersicht der geschätzten Schadenshöhe
 
 ---
 file: 194_Berlin_Zoologischer_Garten_-_Berlin_Hbf.txt
+date: 19.10.2019
 
 
 Vier Personen wurden leicht verletzt. Der zweite Wagen des Zuges mit der UIC-Fahrzeugkennzeichnung 56 80 10-40 122-8 brannte vollständig aus. Es entstanden an den Fahrzeugen (Fz) und an der Infrastruktur Schäden in Höhe von ca. 162.000 Euro. Auf den benachbarten S-Bahngleisen wurde der Betrieb vorübergehend eingestellt.
@@ -3604,6 +3818,7 @@ Beschädigungen am Oberbau und an den LST-Anlagen wurden nicht festgestellt. Dur
 
 ---
 file: 044_Peine.txt
+date: 16.06.2010
 
 
 Todesopfer sind nicht zu beklagen. Der Triebfahrzeugführer des RE-D 14019 wurde schwer, ein Zugbegleiter und 18 Reisende dieses Zuges wurden leicht verletzt. 
@@ -3622,6 +3837,7 @@ Den letzten Angaben der beteiligten Eisenbahnunternehmen zufolge wird die Summe 
 
 ---
 file: 053_Stuttgart Hbf.txt
+date: 29.09.2012
 
 
 Am 24.07.2012 werden keine Personen verletzt. Bei dem Ereignis am 29.09.2012 werden 8 Personen leicht verletzt.
@@ -3644,6 +3860,7 @@ Die Sachschäden setzen sich wie folgt zusammen:
 
 ---
 file: 233_Grosswalbur_-_Meeder.txt
+date: 27.07.2020
 
 Durch den Zusammenprall wurden die zwei Insassen des Pkw tödlich und der Triebfahrzeugführer (Tf) des Personenzuges DPN-G 84553 leicht verletzt. Es entstanden Sachschäden in Höhe von ca. 180.500 Euro.
 
@@ -3651,6 +3868,7 @@ Der Pkw wurde vollständig zerstört. Bei dem Verbrennungstriebwagen (VT) wurden
 
 ---
 file: 133_Willroth_-_Montabaur.txt
+date: 12.10.2018
 
 
 Fünf Personen wurden während der Evakuierungsmaßnahmen leicht verletzt.
@@ -3667,12 +3885,14 @@ Die entstandenen Sachschäden wurden auf insgesamt ca. 31.300.000 Euro geschätz
 
 ---
 file: 227_Berlin-Lichtenberg.txt
+date: 15.04.2020
 
 
 Es wurden keine Personen getötet oder verletzt. An den Fahrzeugen und an der Infrastruktur entstanden Sachschäden in geschätzter Höhe von ca. 636.000 Euro.
 
 ---
 file: 082_Forchheim_(Oberfranken).txt
+date: 11.04.2014
 
 
 Zwei Personen in der S-Bahn wurden leicht verletzt.
@@ -3692,12 +3912,14 @@ Todesopfer sind nicht zu beklagen. Die S-Bahn war mit 54 Reisenden besetzt.
 
 ---
 file: 230_Bruchköbel_-_Nidderau.txt
+date: 10.02.2024
 
 
 Bei dem Ereignis kam es weder zu Personen- noch zu Sachschäden.
 
 ---
 file: 126_Burgstall_Murr.txt
+date: 08.08.2014
 
 
 Durch die Entgleisung und der damit verbundenen Fahrzeugschäden, wird der Oberbau einschließlich der Weiche 9 im Bf Burgstall sowie das Gleisbett stark beschädigt. Außerdem wird die Oberleitung einschließlich zweier Oberleitungsmasten auf einer Länge von 3 km erheblich beschädigt bzw. zerstört.
@@ -3711,12 +3933,14 @@ Personen werden bei dem Ereignis nicht verletzt. Bei der Zugentgleisung entstand
 
 ---
 file: 229_Lauenbrück.txt
+date: 15.11.2023
 
 
 Die Sachschäden bei ICE 615 befanden sich im Frontbereich des führenden Fahrzeuges. Bei DbZ 24259 wurden Beschädigungen am letzten Eisenbahnfahrzeug und die Entgleisung des letzten Drehgestells festgestellt. Bei dem Ereignis traten keine Personenschäden auf. Die geschätzte Höhe der Sachschäden in Euro setzte sich wie folgt zusammen: Fahrzeuge 2.700.000 €, Infrastruktur 50.000 €, Gesamtschadenshöhe 2.750.000 €.
 
 ---
 file: 234_Seelze_Ost.txt
+date: 07.09.2022
 
 
 Es wurde eine Person leicht verletzt. Es entstanden erhebliche Sachschäden von ca. 5.000.000 Euro an den beteiligten Eisenbahnfahrzeugen, dem Oberbau, der Leit- und Sicherungstechnik sowie erhebliche Erschwernisse im Eisenbahnbetrieb.
@@ -3735,6 +3959,7 @@ Gesamtschadenshöhe: 5.000.000
 
 ---
 file: 238_Ebenhausen-Schäftlarn.txt
+date: 14.02.2022
 
 Es wurde eine Person getötet. Zehn Personen wurden schwer verletzt und 47 Personen erlitten leichtere Verletzungen.
 
@@ -3749,6 +3974,7 @@ Aufgrund der mehrtägigen Streckensperrung wurde ein Schienenersatzverkehr einge
 
 ---
 file: 236_Dreileben-Drackenstedt.txt
+date: 16.10.2020
 
 
 Bei dem Ereignis traten folgend aufgeführte Personenschäden ein:
@@ -3829,6 +4055,7 @@ In Folge des Ereignisses kam es durch austretende Betriebsstoffe zu einer Kontam
 
 ---
 file: 164_Müllheim_Baden_-_Schliengen.txt
+date: 02.04.2020
 
 
 Der Triebfahrzeugführer (Tf) wurde durch die Kollision getötet. Von den im Begleitwagen mitfahrenden LKW-Fahrern wurden zwei schwer und acht leicht verletzt. Das Triebfahrzeug (Tfz) und die ersten neun Wagen entgleisen mit allen Achsen. An den Fahrzeugen und der Infrastruktur entstand erheblicher Sachschaden. 
@@ -3855,6 +4082,7 @@ Gesamtschadenshöhe
 
 ---
 file: 199_Weissenberg_-_Meerbusch-Osterath.txt
+date: 05.12.2017
 
 
 Durch die Zugkollision wurden vier Personen schwer und etwa 35 Personen leicht verletzt. Das führende Fahrzeug des DPN 32547 sowie drei Wagen des GM 48714 entgleisten, davon stürzten zwei Güterwagen um. Es entstanden erhebliche Sachschäden sowie Erschwernisse im Eisenbahnbetrieb. Die Strecke Abzw Weißenberg – Meerbusch-Osterath wurde für mehrere Tage gesperrt. 
@@ -3870,12 +4098,14 @@ Die National Express Rail GmbH gab weitere Kosten für Betriebserschwernisse in 
 
 ---
 file: 125_Kayhauserfeld_-_Oldenburg_Hbf.txt
+date: 29.06.2013
 
 
 Todesopfer oder Verletzte sind keine zu beklagen. Die geschätzte Gesamthöhe der entstandenen Sachschäden beträgt ca. 972.000 €.
 
 ---
 file: 189_Niederlahnstein.txt
+date: 30.08.2020
 
 
 Bei dem Ereignis traten folgend aufgeführte Personenschäden ein:
@@ -3955,6 +4185,7 @@ Eine abschließende Bezißerung der Folgekosten Umweltschäden, die insbesondere
 
 ---
 file: 007_Schrozberg.txt
+date: 11.06.2003
 
 
 Bei dem Unfall wurden 6 Personen tödlich verletzt. Hierbei handelt es sich um die beiden Triebfahrzeugführer und 4 Reisende (darunter 3 Kinder). Darüber hinaus wurden 24 Reisende zum Teil schwer verletzt.
@@ -3967,17 +4198,20 @@ Die Höhe der Sachschäden (Fahrzeuge und Gleisanlagen) beläuft sich auf ca. 70
 
 ---
 file: 163_Frankfurt-Höchst_-_Frankfurt_Mainzer_Landstrasse.txt
+date: 07.05.2020
 
 Durch die Kollision mit dem DPN‐G 24762 wurde die Fußgängerin tödlich verletzt. Der Radfahrer sowie die Pkw Fahrerin wurden schwer verletzt. Der Pkw wurde total zerstört. Am Schienenfahrzeug entstanden Schäden. Die Bahnübergangsanlage wurde in Teilbereichen erheblich beschädigt. Die Strecke 3603 zwischen Ffm‐Höchst und Ffm Mainzer Landstraße war bis zum Morgen des 04.06.2020 gesperrt.
 
 ---
 file: 215_Altheim_Hess_-_Dieburg.txt
+date: 19.05.2022
 
 
 Durch die Kollision wurde der Triebfahrzeugführer (Tf) des GAG 60101 tödlich und der Tf des DGS 42174 leicht verletzt. Das Triebfahrzeug (Tfz) und die ersten Wagen des auffahrenden GAG 60101 sowie die letzten Wagen des DGS 42174 wurden erheblich beschädigt. Am Ladegut beider Züge sowie an der Infrastruktur entstand ebenfalls hoher Sachschaden. Die geschätzte Höhe der Sachschäden in Euro setzt sich wie folgt zusammen: Fahrzeuge 825.000, Infrastruktur 810.000, Dritte (Ladung) 300.000, Gesamtschadenshöhe 1.935.000.
 
 ---
 file: 237_Dorsfeld.txt
+date: 22.11.2024
 
 
 Eine Person wurde schwer und zwei Personen leicht verletzt. Es entstanden erhebliche Sachschäden in Höhe von ca. 4.900.000 Euro an den beteiligten Eisenbahnfahrzeugen und an der Infrastruktur.
@@ -4055,16 +4289,19 @@ Tabelle 4: Übersicht der geschätzten Schadenshöhe
 
 ---
 file: 002_Brühl.txt
+date: 06.02.2000
 
 Von den 201 Reisenden im Zug wurden 9 Reisende getötet und 149 zum Teil schwer verletzt. Die entgleisten und umgestürzten Eisenbahnfahrzeuge beschädigten Gleis- und Signalanlagen, den Bahnsteig zwischen den Gleisen 2 und 3 sowie Wohnhäuser einschl. der Nebengebäude und umliegende Grundstücke. An den Anlagen und Fahrzeugen entstand ein Sachschaden von ca. 50.000.000.- DM. Auf Grund des Unglücks war die linke Rheinstrecke für den Zugverkehr bis zum 11.02.2000 um 4.50 Uhr gesperrt, danach erfolgte eine eingeschränkte Betriebsführung über die Gleise 2 und 4 für den Regionalverkehr. Das Gleis 3 ist infolge des Unfalls weiterhin unbefahrbar und soll aufgelassen werden, da es für die künftige Betriebsführung der DB Netz AG nicht mehr benötigt wird. Zusätzlich ist hier der Bau einer Schallschutzwand geplant.
 
 ---
 file: 089_Kaub-Lorch_Rhein.txt
+date: 09.06.2013
 
 Durch die Entgleisung wird das Streckengleis einschl. der Weichen der Üst Lorch in km 75,200 und der Einfahrbereich des Bf Rüdesheim (Rh.) sowie die Signalanlagen, Oberleitungseinrichtungen und fernmeldetechnischen Anlagen auf einer Länge von ca. 11 km stark beschädigt bzw. zerstört. Außerdem werden die drei am Schluss laufenden Fahrzeuge des DGS 90636 teilweise erheblich beschädigt. Durch hochgeschleuderte Schottersteine werden an der Eisenbahnstrecke abgestellte Pkw beschädigt. Personen kommen nicht zu Schaden.
 
 ---
 file: 226_Meinersen_-_Leiferde_b_Gifhorn.txt
+date: 17.11.2022
 
 
 Bei der Kollision wurde der Triebfahrzeugführer (Tf) des Güterzuges DGS 42593 leicht verletzt. Es entstanden Sachschäden in geschätzter Höhe von ca. 4.000.000 Euro.
@@ -4080,6 +4317,7 @@ Bei dem Ereignis traten folgende Personenschäden ein:
 
 ---
 file: 001_Bad_Münder.txt
+date: 09.09.2002
 
 
 Infolge des Zusammenstoßes wurden die Triebfahrzeugführer beider Züge schwer verletzt (Hinweis: gem. Angaben der DB Netz AG vom 27.02.2003). 
@@ -4106,6 +4344,7 @@ Entstandene Sachschäden:
 
 ---
 file: 116_Dortmund.txt
+date: 01.05.2017
 
 Bei dem Ereignis wurden zwei Personen leicht verletzt.  
 
@@ -4129,6 +4368,7 @@ Die Instandsetzung der erheblichen Beschädigungen an den Gleisanlagen führte z
 
 ---
 file: 231_Garmisch-Partenkirchen-_-Farchant.txt
+date: 03.06.2022
 
 
 Bei dem Ereignis traten folgend aufgeführte Personenschäden ein:
@@ -4145,6 +4385,7 @@ Zusätzlich zu den Sachschäden entstanden dem EVU Aufwendungen in Höhe von meh
 
 ---
 file: 114_Bad_Aibling_-_Kolbermoor.txt
+date: 09.02.2016
 
 
 - **Personenschäden**:
