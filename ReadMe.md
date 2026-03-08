@@ -1,4 +1,6 @@
 
+## Preprocessing: PDF to Text
+
 For downloading the PDFs see `documents/originals/download-all.ps1`
 It's done in Powershell by accident; your local AI agent can surely rewrite it for any other environment.
 
@@ -18,6 +20,15 @@ Luckily, it's just one line more, no big deal.
 Note that all the quotes are needed because some filenames contain spaces.
 (At least Bash manages to handle the quotes-in-command-in-quotes correctly.)
 
+## Stage One Processing: getting summaries from text files.
+
+Prompt: [extraction-prompt.txt](src/main/resources/extraction-prompt.txt)
+Code: [Main.kt](src/main/kotlin/ebuparser/Main.kt)
+Resulting file: results/.../summaries.md 
+
+Works with local Lemonade Server or AWS Bedrock and should work with any other LLM provider.
+See Main.kt for the models used.
+
 Setting up all the permissions for Bedrock is a bit of work in the AWS console. 
 If you don't have AWS experience, you might want to use another provider. 
 
@@ -25,3 +36,6 @@ To extract damages.csv I gave the complete damages.md to the consumer Claude app
 I asked it to chop the data up and give it to subagents.
 
 Result with ability to sum and filter: https://docs.google.com/spreadsheets/d/17yDhgDWlU_UmKKtV8QbFC6YdbPXS_EWGbCWQX6XlItQ/edit?usp=sharing
+
+## Stage Two Processing: summarizing the summaries.
+
