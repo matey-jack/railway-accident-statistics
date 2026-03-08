@@ -2,6 +2,9 @@
 # Downloads all 241 reports from all 5 pages automatically
 # No manual URL list needed - it fetches them from the website
 
+# Consider this to be of historical value. If I ever download newer reports, I would let the coding agents create a completely new script in Kotlin.
+# It's only powershell, because an agent spontaneously did it that way.
+
 $DownloadPath = "C:\\Users\\beaut\\Bahnwesen\\EBUs"
 $BaseUrl = "https://www.eisenbahn-unfalluntersuchung.de"
 
