@@ -167,6 +167,7 @@ fun extractWithBedrock(
 
     val usage = response.usage()
     val resolvedTier = response.serviceTier()?.typeAsString() ?: BEDROCK_SERVICE_TIER
+    // TODO: change to write stats as CSV
     val statsText =
         buildString {
             appendLine("provider: bedrock")

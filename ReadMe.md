@@ -1,4 +1,15 @@
 
+## Notes on the data
+
+Scheinbar wurde im Jahr 2005 bzw. 2006 mit den regelmäßigen Untersuchungen und Veröffentlichungen begonnen.
+Lediglich die Berichte 1 und 2 sowie 3 bis 8 stammen aus den Jahren 2000 bis 2004 und sind scheinbar besonders schwere Unfälle.
+Möglicherweise aber auch nur deshalb veröffentlicht, weil sie länger dauerten und bei Fertigstellung schon die Veröffentlichung Regel war.
+Der erste Bericht zur Entgleisung in Brühl im Jahr 2000 gehört zu den größten Unfällen seit 1990. 
+Der bekannteste und schwerste Unfall dieser Zeit (und sogar der schwerste seit 1939) war Eschede 1998 und ist nicht im Datensatz enthalten.
+
+Siehe auch: https://www.wikiwand.com/de/Bundesstelle_f%C3%BCr_Eisenbahnunfalluntersuchung#Geschichte
+
+
 ## Preprocessing: PDF to Text
 
 For downloading the PDFs see `documents/originals/download-all.ps1`
@@ -7,9 +18,6 @@ It's done in Powershell by accident; your local AI agent can surely rewrite it f
 For pdf to text conversion, I tried poppler-utils first (because it easily installs using `apt`), but it's not unpacking ligatures and hyphenation.
 Therefore, I switched to pdfminer.six:
 
-I need `pipx`, because the local Python installation is locked.
-Luckily, it's just one line more, no big deal.
-
     sudo apt install pipx
     pipx install pdfminer.six
     for p in originals/*.pdf
@@ -17,8 +25,11 @@ Luckily, it's just one line more, no big deal.
         pdf2txt.py "$p" --outfile "$(basename "$p" .pdf)".txt
     done
 
-Note that all the quotes are needed because some filenames contain spaces.
-(At least Bash manages to handle the quotes-in-command-in-quotes correctly.)
+Note that:
+ - I need `pipx`, because the local Python installation is locked.
+   Luckily, it's just one line more, no big deal.
+ - all the quotes are needed because some filenames contain spaces.
+   (At least Bash manages to handle the quotes-in-command-in-quotes correctly.)
 
 ## Stage One Processing: getting summaries from text files.
 
@@ -38,4 +49,9 @@ I asked it to chop the data up and give it to subagents.
 Result with ability to sum and filter: https://docs.google.com/spreadsheets/d/17yDhgDWlU_UmKKtV8QbFC6YdbPXS_EWGbCWQX6XlItQ/edit?usp=sharing
 
 ## Stage Two Processing: summarizing the summaries.
+
+Code: ExtractDamagesAndCauses.kt
+
+I fed the resulting file to Claude Opus 4.6 in an interactive session. 
+Telling it to use subagents, to actually read and understand the text.
 
