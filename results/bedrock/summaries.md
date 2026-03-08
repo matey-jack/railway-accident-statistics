@@ -9065,18 +9065,19 @@ Die BEU spricht eine Sicherheitsempfehlung aus, dass die Risiken von bestehenden
 ---
 file: 008_Vilseck.txt
 
-### Zusammenprall des RE 3560 mit einem Lkw der US Armee
+## Zusammenprall des RE 3560 mit einem Lkw der US Armee
 
-#### **Hergang des Unfalls**
+# Hergang des Unfalls
 Am 22.06.2001 gegen 08.24 Uhr prallte der Regionalexpress (RE) 3560 auf der Fahrt von Weiden (Oberpf) nach Nürnberg Hbf zwischen den Bahnhöfen Freihung und Vilseck am Bahnübergang Streckenkilometer 23,890 mit einem Lkw der US Armee zusammen. Der Lkw der US-Armee wurde durch den Zusammenprall völlig zerstört. Der aus zwei Triebwagen gebildete Zug der Deutsche Bahn AG schleifte Fahrzeugteile des Lastkraftwagens noch ca. 325 Meter mit, bevor er ca. in Streckenkilometer 23,500 zum Stehen kam. Der führende Triebwagen fing beim Zusammenprall im vorderem Zugteil Feuer und brannte aus.
 
-#### **Höhe des Schadens, Anzahl Tote und Verletzte**
+# Höhe des Schadens, Anzahl Tote und Verletzte
 Durch den Zusammenprall wurden der Triebfahrzeugführer, der Lkw-Fahrer und ein Reisender tödlich verletzt. Ein Zugbegleiter der Deutsche Bahn AG, die Beifahrerin des LKW und neun Reisende wurden schwer verletzt. Elf Reisende wurden leicht verletzt, ein Reisender blieb unverletzt. Die Bahnübergangssicherungseinrichtung, die Signalanlagen und Oberbauanlagen der Deutschen Bahn AG wurden erheblich beschädigt. Der Sachschaden an den Anlagen und Fahrzeugen wird auf ca. 6.000.000.- DM geschätzt. Die Bahnstrecke Neukirchen b.S.R. - Weiden (Oberpf) war zwischen den Bahnhöfen Freihung und Vilseck vom 22.06.2001 ab 08:34 Uhr bis zum 23.06.2001 um 13:10 Uhr gesperrt.
 
-#### **Ursachen des Unfalls**
+# Ursachen des Unfalls
 Nach dem ersten Stand der Ermittlungen wird als Ursache des Zusammenpralls das Missachten des Vorrangs des Schienenverkehrs vermutet. Zur Bestätigung bzw. Widerlegung dieser Vermutung werden nachfolgend die baulichen Anlagen des Bahnübergangs einschließlich der bestehenden verkehrsrechtlichen Anordnungen, die technischen Sicherungseinrichtungen einschließlich der Dimensionierung der Einschaltstrecke, die Überwachungseinrichtungen auf dem Stellwerk und die Fahrweise des Zuges (Einhaltung der zulässigen Höchstgeschwindigkeit) überprüft. Der Unfallzug wurde durch die Gleisschaltung erkannt und die Anlage ordnungsgemäß eingeschaltet. Von besonderer Bedeutung ist in diesem Zusammenhang die Textmeldung „Relais UE 1, UE 2 abgefallen“. Dies bedeutet, dass eine BF-Meldung als Nachweis, dass alle Sicherungsbedingungen erfüllt sind, nicht dokumentiert ist. Demgegenüber erscheint es nach Prüfung des zeitlichen Ablaufs und der zugrundeliegenden Schaltung plausibel, dass die BF-Meldung deshalb nicht dokumentiert wurde, weil eine Schranke (z. B. Unterfahren, Aufhalten, Aufdrücken) kurzzeitig am Zulauf in die Endlage gehindert wurde. Nach Auffassung des Eisenbahn-Bundesamts kann deshalb ungeachtet der nicht (mehr) dokumentierten BF-Meldung ein technisches Versagen der Anlage als Unfallursache ausgeschlossen werden.
 
-#### **Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle**
+# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle
+
 - **Maßnahmen zur Gefahrenabwehr**: Aufgrund der widersprüchlichen Vorfahrtsregelung im Räumstreckenbereich wurden Maßnahmen zur Gefahrenabwehr getroffen. Zunächst wurde die Geschwindigkeit auf der Schiene reduziert und anschließend der BÜ für den Straßenverkehr zeitweise gesperrt.
 - **Zusätzliche Maßnahmen zur Überwachung des Gefahrenraums**: Im Sinne der genannten Veränderungen der Risiken wird jedoch angeregt zu prüfen, ob und wie sich bei Bahnübergängen, die von Triebwagen oder Steuerwagen befahren werden, zusätzliche Maßnahmen zur Überwachung des Gefahrenraums auswirken.
 - **Überprüfung der Straßenbeschilderung und Verkehrsregelung**: Bei der bautechnischen Überprüfung der Straßenbeschilderung und der Verkehrsregelung im Umfeld des Bahnübergangs wurden Mängel festgestellt. Von der einstreifigen Bake aus fehlte jeweils die notwendige Sicht auf die Lichtzeichenanlage. Die Vorfahrtsregelung war widersprüchlich, weil die Fahrbahnmarkierung entgegengesetzt zur Beschilderung verlief. Obwohl diese Mängel nicht unfallrelevant waren, wurden sie behoben, um zukünftige Unfälle zu verhindern.

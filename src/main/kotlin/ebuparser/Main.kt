@@ -350,7 +350,8 @@ fun main() {
                         LlmProvider.LEMONADE -> extractWithLemonade(file.name, content)
                         LlmProvider.BEDROCK -> extractWithBedrock(requireNotNull(bedrock), file.name, content)
                     }
-                // TODO: remove "\n---\n" from the summary
+                // TODO: remove "\n---\n" from the summary body, if it's used there.
+                // TODO: also remove **bold** asterisks from headings, if used there.
                 outputFile.appendText(result.summary.asOutput + "\n\n---\n")
                 appendStats(statsFile, file.name, result.statsText)
                 println("Processed: ${file.name}")
