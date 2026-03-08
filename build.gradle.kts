@@ -37,6 +37,13 @@ tasks.register<JavaExec>("runExtractDamages") {
     mainClass.set("ebuparser.ExtractDamagesKt")
 }
 
+tasks.register<JavaExec>("runRecommendationStats") {
+    group = "application"
+    description = "Groups safety recommendations and counts them"
+    classpath = sourceSets["main"].runtimeClasspath
+    mainClass.set("ebustats.RecommendationStatsKt")
+}
+
 tasks.register<JavaExec>("runExtractDates") {
     group = "application"
     description = "Extracts accident dates from Bedrock summaries into CSV"
