@@ -2,13 +2,30 @@
 ## Notes on the data
 
 Scheinbar wurde im Jahr 2005 bzw. 2006 mit den regelmäßigen Untersuchungen und Veröffentlichungen begonnen.
-Lediglich die Berichte 1 und 2 sowie 3 bis 8 stammen aus den Jahren 2000 bis 2004 und sind scheinbar besonders schwere Unfälle.
+Lediglich die Berichte 1, 2, sowie 4 bis 8 stammen aus den Jahren 2000 bis 2004 und sind scheinbar besonders schwere Unfälle.
+1. Bad Münder, 2002 – keine Toten, aber Feuer und Gefahrstoffe betroffen.
+2. Brühl, 2000 – 9 Tote, 150 Verletzte
+3. Fichtenberg, 2005** – 1 Toter Fahrgast im Zug, Ursache LKW und der Fahrer rannte vorher noch weg.
+4. Hannover-Langenhagen, 2000 – 16 Verletzte
+5. Holzdorf, 2003 – 1 Toter, Kollision durch Fehlhandlungen Fdl und Tf.
+6. Osnabrück, 2004 – nur Sachschaden, aber ebenfalls Gefahrgut beteiligt.
+7. Schrozberg, 2003 – 6 Tote durch Kollision auf eingleisiger Strecke, Fehlhandlungen Fdl.
+8. Vilseck, 2001 – 3 Tote, davon 2 Fahrgäste im Zug, wegen LKW im BÜ. Außerdem Brand des Tfz, einer BR 612.
+9. Berlin Südkreuz, 2006** – 37 Verletzte (Claude hat wohl doppelt gezählt.)
+10. Gremberg, 2006** – Güterzüge leicht angeeckt ;)
+
+** erste "regulär" durchgeführten Untersuchungen.
+Beachte, dass die Nummerierung nach dem Veröffentlichungsdatum erfolgt, da manche Untersuchungen auch wegen Geringfügigkeit eingestellt werden 
+und das viele Lücken in der Nummerierung hinterließe.
 Möglicherweise aber auch nur deshalb veröffentlicht, weil sie länger dauerten und bei Fertigstellung schon die Veröffentlichung Regel war.
-Der erste Bericht zur Entgleisung in Brühl im Jahr 2000 gehört zu den größten Unfällen seit 1990. 
+Der erste Bericht zur Entgleisung in Brühl im Jahr 2000 gehört zu den größten Unfällen seit 1990. Ebenfalls Schrozberg. 
+Damit liegen zwei der sechs schwersten Unfälle in der Anfangszeit der Untersuchungen.
 Der bekannteste und schwerste Unfall dieser Zeit (und sogar der schwerste seit 1939) war Eschede 1998 und ist nicht im Datensatz enthalten.
 
 Siehe auch: https://www.wikiwand.com/de/Bundesstelle_f%C3%BCr_Eisenbahnunfalluntersuchung#Geschichte
 
+Übrigens gab es die meisten Untersuchungen im Jahr 2015: https://docs.google.com/spreadsheets/d/1AKGIQ_Rnb0rPJ3cBZlvwLmmHchG7lMsiYXamlT_GnHU/edit?usp=sharing
+Es hängt wohl auch mit den Personalkapazitäten der Behörde zusammen.
 
 ## Preprocessing: PDF to Text
 
