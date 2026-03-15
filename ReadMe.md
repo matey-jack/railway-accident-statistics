@@ -14,7 +14,8 @@ Lediglich die Berichte 1, 2, sowie 4 bis 8 stammen aus den Jahren 2000 bis 2004 
 9. Berlin Südkreuz, 2006** – 37 Verletzte (Claude hat wohl doppelt gezählt.)
 10. Gremberg, 2006** – Güterzüge leicht angeeckt ;)
 
-** erste "regulär" durchgeführten Untersuchungen.
+** erste "regulär" durchgeführte Untersuchungen.
+
 Beachte, dass die Nummerierung nach dem Veröffentlichungsdatum erfolgt, da manche Untersuchungen auch wegen Geringfügigkeit eingestellt werden 
 und das viele Lücken in der Nummerierung hinterließe.
 Möglicherweise aber auch nur deshalb veröffentlicht, weil sie länger dauerten und bei Fertigstellung schon die Veröffentlichung Regel war.
@@ -51,7 +52,7 @@ Note that:
 ## Stage One Processing: getting summaries from text files.
 
 Prompt: [extraction-prompt.txt](src/main/resources/extraction-prompt.txt)
-Code: [Main.kt](src/main/kotlin/ebuparser/Main.kt)
+Code: [ExtractSummaries.kt](src/main/kotlin/ebuparser/ExtractSummaries.kt))
 Resulting file: results/.../summaries.md 
 
 Works with local Lemonade Server or AWS Bedrock and should work with any other LLM provider.
@@ -67,8 +68,8 @@ Result with ability to sum and filter: https://docs.google.com/spreadsheets/d/17
 
 ## Stage Two Processing: summarizing the summaries.
 
-Code: ExtractDamagesAndCauses.kt
+Code: [ExtractDamagesAndCauses.kt](src/main/kotlin/ebuparser/ExtractDamagesAndCauses.kt)
 
-I fed the resulting file to Claude Opus 4.6 in an interactive session. 
+First pass for damages: I fed the resulting file to Claude Opus 4.6 in an interactive session. 
 Telling it to use subagents, to actually read and understand the text.
 

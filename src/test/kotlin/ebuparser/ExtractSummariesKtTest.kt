@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Assertions.assertEquals
 import org.junit.jupiter.api.Test
 import java.io.File
 
-class MainKtTest {
+class ExtractSummariesKtTest {
     @Test
     fun testGetAlreadyProcessedFilenames() {
         val outputFile = File("src/test/resources/output-1.md")
