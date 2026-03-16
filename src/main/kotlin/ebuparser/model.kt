@@ -82,6 +82,9 @@ data class Classification(
         "Unfallursache war unzureichende Bremsleistung.")
     val insufficientBrakes: Boolean,
 
+    @property:LlmField("Brand", "Beim Unfall handelte es sich um einen Brand.")
+    val fire: Boolean,
+
     @property:LlmField("Sonstige Unfallursache",
         "Eine wesentliche Unfallursache ist nicht eine der vorgenannten Kategorien.")
     val otherCause: Boolean,
