@@ -56,6 +56,8 @@ repositories {
 }
 
 dependencies {
+    implementation(kotlin("reflect"))
+
     implementation("io.github.sashirestela:simple-openai:3.22.2")
     // indirect dependency of simple-openai, but we'll upgrade it this way.
     implementation("com.fasterxml.jackson.module:jackson-module-kotlin:2.21.0")
