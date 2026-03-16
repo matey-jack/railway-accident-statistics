@@ -167,23 +167,31 @@ fun extractWithBedrock(
 
     val usage = response.usage()
     val resolvedTier = response.serviceTier()?.typeAsString() ?: BEDROCK_SERVICE_TIER
-    // TODO: change to write stats as CSV;
-    //      also write the cost using 0,000195 USD per 1000 input tokens, and 0,001635 USD per 1000 output tokens.
+    val inputTokens = usage?.inputTokens() ?: 0
+    val outputTokens = usage?.outputTokens() ?: 0
+    val totalTokens = usage?.totalTokens() ?: 0
+    val inputCost = inputTokens * 0.000195 / 1000.0
+    val outputCost = outputTokens * 0.001635 / 1000.0
+    val totalCost = inputCost + outputCost
     val statsText =
-        buildString {
-            appendLine("provider: bedrock")
-            appendLine("model_id: $BEDROCK_MODEL")
-            appendLine("inference_profile_id: $BEDROCK_INFERENCE_PROFILE")
-            appendLine("max_tokens_requested: $BEDROCK_MAX_TOKENS")
-            appendLine("service_tier_requested: $BEDROCK_SERVICE_TIER")
-            appendLine("service_tier_resolved: $resolvedTier")
-            appendLine("local_call_duration_ms: $localLatencyMs")
-            appendLine("bedrock_latency_ms: ${response.metrics()?.latencyMs()}")
-            appendLine("input_tokens: ${usage?.inputTokens()}")
-            appendLine("output_tokens: ${usage?.outputTokens()}")
-            appendLine("total_tokens: ${usage?.totalTokens()}")
-            appendLine("stop_reason: ${response.stopReasonAsString()}")
-        }
+        listOf(
+            fileName,
+            "bedrock",
+            BEDROCK_MODEL,
+            BEDROCK_INFERENCE_PROFILE,
+            BEDROCK_MAX_TOKENS.toString(),
+            BEDROCK_SERVICE_TIER,
+            resolvedTier,
+            localLatencyMs.toString(),
+            (response.metrics()?.latencyMs() ?: "").toString(),
+            inputTokens.toString(),
+            outputTokens.toString(),
+            totalTokens.toString(),
+            response.stopReasonAsString(),
+            "%.6f".format(inputCost),
+            "%.6f".format(outputCost),
+            "%.6f".format(totalCost),
+        ).joinToString(",")
 
     return ExtractResult(SimpleSummary(fileName, content), statsText)
 }
@@ -278,9 +286,24 @@ fun fetchLemonadeStatsJson(): String? {
     }
 }
 
+const val STATS_CSV_HEADER =
+    "file,provider,model_id,inference_profile_id,max_tokens_requested," +
+        "service_tier_requested,service_tier_resolved,local_call_duration_ms," +
+        "bedrock_latency_ms,input_tokens,output_tokens,total_tokens," +
+        "stop_reason,input_cost_usd,output_cost_usd,total_cost_usd"
+
 fun appendStats(statsFile: File, taskId: String, statsText: String) {
     statsFile.parentFile?.mkdirs()
-    statsFile.appendText("---\nfile: $taskId\n\n$statsText\n")
+    if (!statsFile.exists() || statsFile.length() == 0L) {
+        statsFile.appendText(STATS_CSV_HEADER + "\n")
+    }
+    statsFile.appendText(statsText + "\n")
+}
+
+fun cleanSummary(summary: String): String {
+    var cleaned = summary.replace("\n---\n", "\n")
+    cleaned = cleaned.replace(Regex("""^(#+) \*\*(.+?)\*\*""", RegexOption.MULTILINE), "$1 $2")
+    return cleaned
 }
 
 fun main() {
@@ -322,7 +345,7 @@ fun main() {
                 "with service tier '$BEDROCK_SERVICE_TIER' in region '${region.id()}'.",
         )
     }
-    val statsFile = Path(outputDirectory).resolve("stats.txt").toFile()
+    val statsFile = Path(outputDirectory).resolve("stats.csv").toFile()
 
     val documentsDir = File("documents/cleaned")
     val outputFile = Path(outputDirectory).resolve(OUTPUT_FILENAME).toFile()
@@ -352,9 +375,8 @@ fun main() {
                         LlmProvider.LEMONADE -> extractWithLemonade(file.name, content)
                         LlmProvider.BEDROCK -> extractWithBedrock(requireNotNull(bedrock), file.name, content)
                     }
-                // TODO: remove "\n---\n" from the summary body, if it's used there.
-                // TODO: also remove **bold** asterisks from headings, if used there.
-                outputFile.appendText("\n\n---\n" + result.summary.asOutput)
+                val cleanedSummary = result.summary.copy(summary = cleanSummary(result.summary.summary))
+                outputFile.appendText("\n\n---\n" + cleanedSummary.asOutput)
                 appendStats(statsFile, file.name, result.statsText)
                 println("Processed: ${file.name}")
             } catch (e: Exception) {
