@@ -167,7 +167,8 @@ fun extractWithBedrock(
 
     val usage = response.usage()
     val resolvedTier = response.serviceTier()?.typeAsString() ?: BEDROCK_SERVICE_TIER
-    // TODO: change to write stats as CSV
+    // TODO: change to write stats as CSV;
+    //      also write the cost using 0,000195 USD per 1000 input tokens, and 0,001635 USD per 1000 output tokens.
     val statsText =
         buildString {
             appendLine("provider: bedrock")
@@ -195,7 +196,7 @@ fun printDebugInfo() {
 }
 
 fun resolveAwsRegion(): Region {
-    val regionName = System.getenv("AWS_REGION") ?: System.getenv("AWS_DEFAULT_REGION") ?: "us-east-1"
+    val regionName = System.getenv("AWS_REGION") ?: System.getenv("AWS_DEFAULT_REGION") ?: "eu-central-1"
     return Region.of(regionName)
 }
 
@@ -323,7 +324,7 @@ fun main() {
     }
     val statsFile = Path(outputDirectory).resolve("stats.txt").toFile()
 
-    val documentsDir = File("documents")
+    val documentsDir = File("documents/cleaned")
     val outputFile = Path(outputDirectory).resolve(OUTPUT_FILENAME).toFile()
     outputFile.parentFile?.mkdirs()
 
@@ -353,7 +354,7 @@ fun main() {
                     }
                 // TODO: remove "\n---\n" from the summary body, if it's used there.
                 // TODO: also remove **bold** asterisks from headings, if used there.
-                outputFile.appendText(result.summary.asOutput + "\n\n---\n")
+                outputFile.appendText("\n\n---\n" + result.summary.asOutput)
                 appendStats(statsFile, file.name, result.statsText)
                 println("Processed: ${file.name}")
             } catch (e: Exception) {
