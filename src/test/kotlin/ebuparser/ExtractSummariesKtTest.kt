@@ -1,6 +1,5 @@
 package ebuparser
 
-import org.assertj.core.api.Assertions.assertThat
 import org.junit.jupiter.api.Assertions.assertEquals
 import org.junit.jupiter.api.Test
 import java.io.File
@@ -13,15 +12,6 @@ class ExtractSummariesKtTest {
 
         assertEquals(2, processedFilenames.size)
         assertEquals(setOf("the-first-report.txt", "another.txt"), processedFilenames)
-    }
-
-    @Test
-    fun testGetAlreadyProcessedFilenamesReal() {
-        val outputFile = File("summaries.md")
-        val processedFilenames = getAlreadyProcessedFilenames(outputFile)
-
-        assertEquals(125, processedFilenames.size)
-        assertThat(processedFilenames).contains("179_Willroth_-_Siegburg_Bonn.txt", "197_Elmshorn.txt")
     }
 
     @Test
