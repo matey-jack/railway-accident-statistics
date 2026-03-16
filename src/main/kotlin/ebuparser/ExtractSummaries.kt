@@ -25,6 +25,7 @@ import kotlin.collections.emptyList
 import kotlin.io.path.Path
 
 const val LEMONADE_URL = "http://127.0.0.1:8000"
+const val LEMONADE_STATS_URL = "$LEMONADE_URL/api/v1/stats"
 const val LEMONADE_MODEL = "Qwen3-14B-GGUF"
 const val BEDROCK_MODEL = "amazon.nova-2-lite-v1:0"
 const val BEDROCK_INFERENCE_PROFILE = "global.amazon.nova-2-lite-v1:0"
@@ -67,7 +68,7 @@ fun getAlreadyProcessedFilenames(outputFile: File): Set<String> {
         println("'$outputFile' doesn't exist. Creating it.")
         // this is needed for the Regex below to also find the first entry.
         // and the new line at the start is needed, so it doesn't look like a preamble or whatever the Markdown term for that is.
-        outputFile.appendText("\n---\n")
+        outputFile.appendText(SECTION_SEPARATOR)
         return emptySet()
     }
 
@@ -211,7 +212,7 @@ fun isLemonadeRunning(): Boolean {
     val request =
         Request
             .Builder()
-            .url("$LEMONADE_URL/api/v1/stats")
+            .url(LEMONADE_STATS_URL)
             .get()
             .build()
 
@@ -227,7 +228,7 @@ fun fetchLemonadeStatsJson(): String? {
     val request =
         Request
             .Builder()
-            .url("$LEMONADE_URL/api/v1/stats")
+            .url(LEMONADE_STATS_URL)
             .get()
             .build()
 
@@ -259,7 +260,7 @@ fun appendStats(statsFile: File, taskId: String, statsText: String) {
 }
 
 fun cleanSummary(summary: String): String {
-    var cleaned = summary.replace("\n---\n", "\n")
+    var cleaned = summary.replace(SECTION_SEPARATOR, "\n")
     cleaned = cleaned.replace(Regex("""^(#+) \*\*(.+?)\*\*""", RegexOption.MULTILINE), "$1 $2")
     return cleaned
 }

@@ -24,7 +24,6 @@ import kotlin.reflect.full.memberProperties
 import kotlin.reflect.full.primaryConstructor
 import kotlin.reflect.jvm.jvmErasure
 
-private const val SUMMARIES_SEPARATOR = "\n---\n"
 private val SUMMARY_DATE_REGEX = Regex("""\d\d\.\d\d\.\d\d\d\d""")
 private val SUMMARY_TITLE_REGEX = Regex("""^#{2,}\s+.+$""")
 
@@ -393,7 +392,7 @@ class Classifier(
 fun parseSummaries(path: String): List<Summary> {
     val normalizedContent = File(path).readText().replace("\r\n", "\n")
     return normalizedContent
-        .split(SUMMARIES_SEPARATOR)
+        .split(SECTION_SEPARATOR)
         .map { section -> section.trim() }
         .filter { section -> section.isNotBlank() }
         .mapNotNull(::parseSummarySection)

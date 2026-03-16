@@ -2,6 +2,7 @@ package ebuparser
 
 import java.time.LocalDate
 
+const val SECTION_SEPARATOR = "\n---\n"
 
 data class Summary(
     val filename: String,

@@ -5,6 +5,7 @@ import okhttp3.OkHttpClient
 import okhttp3.Request
 import java.io.File
 
+// TODO: not called from main code any more. needs refactor if we use Lemonade again.
 class StatsWriter(
     serverUrl: String,
     filename: String,
