@@ -35,6 +35,7 @@ val ligatureMap =
     )
 
 val cidPattern = Regex("\\(cid:(\\d+)\\)")
+val softHyphenPattern = Regex("\u00AD\n\n?")
 val sourceDir = File("documents")
 val cleanedDir = File(sourceDir, "cleaned")
 
@@ -86,7 +87,7 @@ fun main() {
                         match.value
                     }
                 }
-            val cleaned = afterCid.map { ch ->
+            val afterLigs = afterCid.map { ch ->
                 val replacement = unicodeLigatures[ch]
                 if (replacement != null) {
                     totalUnicodeLigatureReplacements++
@@ -95,6 +96,13 @@ fun main() {
                     ch.toString()
                 }
             }.joinToString("")
+            val cleaned = softHyphenPattern.replace(afterLigs, "")
+            // TODO (harder): also remove ascii hyphen-minus when used as a soft hyphen.
+            //      This needs some heuristics to avoid removing "hin- und her-Striche". Maybe check that the first word on the next line is not a dictionary word (at least not "und", "oder", "sowie", etc). Possibly check that the concatenated word _is_ a dictionary word.
+            //      Or maybe this can all be done by the LLM with the summary-extraction prompt??
+
+            // TODO: remove superfluous empty lines ("\n\n"). We can recognize that those are not paragraph breaks when they occur very often and with less than, say 100 characters in-between.
+            //      Still, it's a bit of heuristic that can also go wrong. Let's ask Claude if they have better ideas.
             content.forEach { ch ->
                 if (ch.code > 255) {
                     highUnicodeCounts[ch] = (highUnicodeCounts[ch] ?: 0) + 1

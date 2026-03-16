@@ -2411,8 +2411,7 @@ UIC  Eisenbahntechnische  Publikationen,  Berichte  &  Technische  Dokumente  (v
 ERRI)  B  176  "DREHGESTELLE  MIT  RADIAL  EINSTELLBAREN  RADSÄTZEN",  ETF 
 Paris, Frankreich, 1989- 1993. 
 
-Bericht  "Radprofilabzeichnung  zur  Eisenbahn-Unfalluntersuchung",  Dokument  14-20688­
-I.TVI23-PR01,  Prüfsteile  DB  Systemtechnik,  Prüflabor:  Prüfungen  Fahrtechnik,  vom 
+Bericht  "Radprofilabzeichnung  zur  Eisenbahn-Unfalluntersuchung",  Dokument  14-20688I.TVI23-PR01,  Prüfsteile  DB  Systemtechnik,  Prüflabor:  Prüfungen  Fahrtechnik,  vom 
 25.03.2014. 
 
 EN  14067-1  Bahnanwendungen  Aerodynamik  Teil  1:  Formelzeichen  und  Einheiten 
@@ -2623,8 +2622,7 @@ Seite 6 von 35
 
 2.  Beschreibung des Unfallhergangs 
 
-Am  Samstag,  29.06.2013  um  00:47  Uhr,  entgleiste  die  Zugfahrt  DGS  83799  (Abelitz  ­
-Magdeburg)  auf  der  Strecke  Oldenburg  - Leer,  Strecken-Nr.  1520-0,  etwa  in  km  6,4  im 
+Am  Samstag,  29.06.2013  um  00:47  Uhr,  entgleiste  die  Zugfahrt  DGS  83799  (Abelitz  Magdeburg)  auf  der  Strecke  Oldenburg  - Leer,  Strecken-Nr.  1520-0,  etwa  in  km  6,4  im 
 Streckenabschnitt  Kayhauserfeld 
 leeren 
 Tiefladewagens  der  Gattung  Uiks  Bauart  635.  Der  Zug  bestand  aus  mehreren  Wagen  dieser 
@@ -2691,9 +2689,7 @@ nicht
 
 belegt 
 
-mo+ooo­
-
-4 
+mo+ooo4 
 
 LH Ii/re 
 
@@ -2765,8 +2761,7 @@ _:·:: ==~-·----l
 ~ +_+ 
 __
 
-- - - - - - t'- 1_4 -----+-------t--------t--------+-1------1- -- -- - -- ..- ­
--
+- - - - - - t'- 1_4 -----+-------t--------t--------+-1------1- -- -- - -- ..- -
 - --·  · - = ~ --·- 1· 
 
 -+--------+--
@@ -2800,7 +2795,6 @@ Abbildung 3-1: Ausschnitt Überschreitungsprotokoll AAllab Messung vom 28.06.13
 
 2015·07-03_Unfall_Oldenburg_offzieii_Final_v3.docx 
 
-­
 SIM052015BE 
 
 Seite 8 von 35 
@@ -3131,9 +3125,7 @@ Längshöhenfehler
 
 Anregungsfrequenz 
 
-..."."­
-
-~ - ­ Wanken 
+..."."~ - ­ Wanken 
 
 Nicken 
 
@@ -3153,13 +3145,9 @@ l ~
 
 Huben 
 
-- ­
+- Torsion x-Achse 
 
-Torsion x-Achse 
-
-- ­
-
-Torsion y-Achse
+- Torsion y-Achse
 
 Torsion z-Achse 
 
@@ -3628,7 +3616,6 @@ den Steifigkeiten der Schakenaufhängung und Blattfedern wesentlich größer sin
 
 2015-07-03_ Unfall_ Oldenburg_offzieii_Final_ v3.docx 
 
-­
 SIM052015BE 
 
 Seite 19 von 35 
@@ -3820,9 +3807,7 @@ Abbildung  5-15:  Bild  Puffer  und  Zughaken  des  Unfallzuges  und  Pufferzeic
 Zeichnung  Fwg  000.06.003.20  Hülsenpuffer  drehbar  105mm  Hub  620mm  Länge  59Mp 
 Endkraft 
 
-Die  Modeliierung  des  Puffers  erfolgt  über zwei  Körper die  über ein  translatorisches  Gelenk  in  X­
-Richtung  miteinander  verbunden  sind.  Zwischen  den  Körpern  wirkt  ein  nichtlineares  Feder­
-Dämpfer-Element,  bei dem die in  Abbildung 5-16 dargestellte Kennlinie  implementiert ist.  Ebenso 
+Die  Modeliierung  des  Puffers  erfolgt  über zwei  Körper die  über ein  translatorisches  Gelenk  in  XRichtung  miteinander  verbunden  sind.  Zwischen  den  Körpern  wirkt  ein  nichtlineares  FederDämpfer-Element,  bei dem die in  Abbildung 5-16 dargestellte Kennlinie  implementiert ist.  Ebenso 
 ist der harte Anschlag nach  1 05 mm Hub berücksichtigt. 
 
 Ar"./lf,dlogra"'f71  ~r. .Rin~.~~r 
@@ -3842,8 +3827,7 @@ Wegf  mm---.
 Abbildung  5-16:  Arbeitsdiagramm  Hülsenpuffer  aus  Fwg  000.06.003.20  und  SIMPACK 
 Modell 
 
-Die Abbildung der Pufferkontakte erfolgt in SIMPACK über den 3-D Kontakt (Element 87 Surface­
-Surface  3D-Contact)  (Abbildung  5-17).  Die  Pufferteller werden  als  gekrümmte  Fläche  mit  einem 
+Die Abbildung der Pufferkontakte erfolgt in SIMPACK über den 3-D Kontakt (Element 87 SurfaceSurface  3D-Contact)  (Abbildung  5-17).  Die  Pufferteller werden  als  gekrümmte  Fläche  mit  einem 
 Puffertellerradius  von  R=2750 mm  abgebildet.  Bei  Kontakt  zwischen  den  Puffertellern  wirkt  eine 
 Normalkraft die aus der Eindrückung des  Puffers  resultiert.  Weiterhin wirkt  eine  Reibkraft parallel 
 zum  Pufferteller  entgegen  der Bewegungsrichtung,  die  aus  der Normalkraft  und  einem  Reibwert 
@@ -3904,16 +3888,13 @@ weich {0,7)
 .... 
 ....  "" _/' 
 ,, ~~-
-........ -­ --­
-,,, 
+........ -­ --,,, 
 ------
 
 .... / 
 -
 -
-~, ~ -----------­
-
-,,,, 
+~, ~ -----------,,,, 
 ~ 
 , 
 
@@ -4010,8 +3991,7 @@ Abbildung 5-21: SIMPACK 3-Wagen-Modell Uiks-Uiks-Uiks 635
 
 Seite 24 von 35 
 
-Die  Simulationsrechnungen  werden  mit  SIMPACK  Version  9.5  durchgeführt.  Für  den  Rad­
-Schiene  Kontakt  wird  eine  Reibung  von  0,4  (trockene  Schiene)  und  ein  Kalker  Faktor  von  1 
+Die  Simulationsrechnungen  werden  mit  SIMPACK  Version  9.5  durchgeführt.  Für  den  RadSchiene  Kontakt  wird  eine  Reibung  von  0,4  (trockene  Schiene)  und  ein  Kalker  Faktor  von  1 
 angenommen.  Die  Verifikation  des  Fahrzeugmodells  soll  sicherstellen,  dass  das  Fahrverhalten 
 hinreichend  genau  hinsichtlich  der  Fragestellungen  abgebildet  wird.  Üblicherweise  erfolgt  die 
 Verifikation  durch  den  Vergleich  von  Simulationsergebnissen  mit  Messungen.  Da  von  dem 
@@ -4126,9 +4106,7 @@ IY  links=  155 NI
 0.8 
 
 j 
->­
-
-Abbildung 6-1: Simulationsrechnungen Ruhelage Einzelfahrzeug 
+>Abbildung 6-1: Simulationsrechnungen Ruhelage Einzelfahrzeug 
 
 time[sJ 
 
@@ -4187,9 +4165,7 @@ x10
 
 3 
 
-~ t!t--- -1'o ___2ö __3_o--40­
-
-time(s] 
+~ t!t--- -1'o ___2ö __3_o--40time(s] 
 
 Sum  +Kräfte v..-120 kmlh 
 
@@ -4213,8 +4189,7 @@ Laufstabilität V= 140 km/h  V= 160 km/h
 
 Sum  Q-Kräfte v=140 km/h 
 
-- ­
--
+- -
 
 -
 
@@ -4223,10 +4198,7 @@ result.$AWT_Wheelset_2.Sum0 SUm ot vertical rail forces
 
 Sum  Q-Kräfte  V=160 km/h 
 
-- ­
-- ­
-
-result.$RWT_Wheelset.Sum0 Sum  of vertical rail torces 
+- - result.$RWT_Wheelset.Sum0 Sum  of vertical rail torces 
 result.$RWT_Wheelset_2.SumQ Sum of verticat raillorces 
 
 3 
@@ -4258,16 +4230,14 @@ Sum  V-Kräfte v=140 km/h
 result.$RWT_Wheelset.SumY Sum of lateral rail forces 
 result.$RWT_Wheelset_2.SumY Sum of lateral rail forces 
 
-- - ­
--
+- - -
 -
 
 Sum  V-Kräfte V=160 km/h 
 result.$RWT_Wheelset.SumY Sum of  lateral rail  torces 
 resutt.$RWT_Wheelset_2.SumY Sum of  lateral rail forces 
 
-- ­
--
+- -
 
 -
 
@@ -4289,9 +4259,7 @@ e
 ];! 
 ö 
 ~ 
->­
-
-~ 
+>~ 
 
 t'o 
 
@@ -4314,8 +4282,7 @@ e
 1 ö 
 
 ~ 
->­
-E 
+>E 
 ~ 
 
 time(sJ 
@@ -4538,9 +4505,7 @@ X 10"
 
 27 
 
-24­
-
-21 
+2421 
 
 I  1& 
 
@@ -4550,18 +4515,11 @@ I  1&
 ~ 
 ~ 
 
-15­
-
-12­
-
-(t 
+1512(t 
 
 & 
 
-3­
-
-Ir­
-0.0 
+3Ir0.0 
 
 X 
 
@@ -4579,17 +4537,7 @@ I
 
 ~ 
 
-25­
-
-2Q­
-
-15­
-
-1Q­
-
-5­
-
-2.5 
+252Q151Q52.5 
 
 5.0 
 
@@ -4723,8 +4671,7 @@ sich
 
 9.  Zusammenfassung 
 
-Am  29.06.13 entgleiste auf der Strecke  Oldenburg - Leer im  Streckenabschnitt Kayhauserfeld ­
-Oldenburg  ein  Zug  mit  Tiefladewagen  der  Gattung  Uiks  Bauart  635  (2-Achsfahrwerk  mit 
+Am  29.06.13 entgleiste auf der Strecke  Oldenburg - Leer im  Streckenabschnitt Kayhauserfeld Oldenburg  ein  Zug  mit  Tiefladewagen  der  Gattung  Uiks  Bauart  635  (2-Achsfahrwerk  mit 
 Doppelschakenaufhängung). Der Zug  ist für den Transport von  Rotoren vorgesehen und war zum 
 Unfallzeitpunkt  unbeladen.  Der  Streckenabschnitt  weist  eine  fast  gerade  Trassierung  auf.  Die 
 Unfallursache konnte  nicht eindeutig geklärt werden,  da am  Fahrzeug  keine  Mängel festzustellen 
@@ -4792,10 +4739,8 @@ Gleislagestörung nach  ERRI  8176 low
 
 Längshöhenfehler 
 
-- ­
--
-- ­
--
+- -
+- -
 
 -
 
@@ -4831,8 +4776,7 @@ I ....
 ~~ 
 Querlagenfehler 
 
-- ­
--
+- -
 
 -
 
@@ -4857,8 +4801,7 @@ X 103
 
 Gleislagestörung nach  ERRI  8176 high 
 
-- ­
--
+- -
 
 -
 
@@ -4886,8 +4829,7 @@ Längshöhenfehler
 
 0.8 
 
-- ­
--
+- -
 
 -
 
@@ -4992,9 +4934,7 @@ Gontael gradrents on rarl
 
 - - Sumcl  olh  - - - - R oghl wheei·· ······· L  ft....te11l 
 
--­
-
-2
+-2
 
 2 
 
@@ -5083,8 +5023,7 @@ ll\l-~tA
 
 :ur~~: r 
 
-""r••'h· L­
-~'"'''' 1 
+""r••'h· L~'"'''' 1 
 ow-
 lllllltu.ollt 
 
@@ -5159,11 +5098,7 @@ Cont  cl  gradtonts on rat!
 
 I  D(h  - - - - R tgMwheel ··  ···  ·· Lellv.heel 
 
-- - - - - - - ­
-
-__r-­
-
-I 
+- - - - - - - __r-I 
 
 ~ --
 
@@ -5221,16 +5156,12 @@ hdc  •
 
 Contacl g  om  try 
 
-- - ­
-
-fquo 
+- - fquo 
 
 Equlvalenl Contctty 
 ermonoc: 
 
-tent - - ­
-
-0 6~--------------------------------~ 
+tent - - 0 6~--------------------------------~ 
 
 l  •' i  . .  
 
@@ -5504,8 +5435,7 @@ j" ..
 0 
 
 Anlage A-4: Q-Kräfte TP 20 Hz Y/Q-Entgleisungskoeffizient TP 20Hz, gl. Mittelwert 2m 0,5 m 
-FortschrittsweiteSimulationsrechnungen Unfall Oldenburg Uiks635 mit Hysterese mit Rs­
-Halter 
+FortschrittsweiteSimulationsrechnungen Unfall Oldenburg Uiks635 mit Hysterese mit RsHalter 
 
 Unfall Oldenburg Y/0 20Hz gl.  Mi. 
 
@@ -5513,8 +5443,7 @@ Wagen 2  mit Hystere mit RS-Halter Y/Q 20Hz gl.  Mi.
 
 Wagen 3  mit Hystere mit RS-Halter Y/Q 20Hz gl.  Mi. 
 
-- ­
--
+- -
 
 -
 
@@ -5528,8 +5457,7 @@ result.$RWP _RS4_Right.Pair. Y/Q Derailment coefficient
 
 -
 -
-- ­
--
+- -
 
 -
 
@@ -5595,8 +5523,7 @@ result .$RWP _RS4_Right .Pair.Y/Q Derailment coefficient
 
 - result.$AWP _RS4_Left.Pair.Y/Q Derailment coefficient 
 
-- ­
--
+- -
 -
 -
 

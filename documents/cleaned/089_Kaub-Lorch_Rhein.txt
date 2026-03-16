@@ -1917,9 +1917,7 @@ gestört
 
 FLOU GLS 31B3210 S,GFM-
 
-Störmeldung: Gleisfreimeldeab­
-
-ABSCHNITT; FZ 118 
+Störmeldung: GleisfreimeldeabABSCHNITT; FZ 118 
 
 schnitt 31B3210 gestört 
 
@@ -1929,9 +1927,7 @@ schnitt 31B3210 gestört
 
 FLOU GLS 31G2210 S,GFM-
 
-Störmeldung: Gleisfreimeldeab­
-
-ABSCHNITT; FZ 118 
+Störmeldung: GleisfreimeldeabABSCHNITT; FZ 118 
 
 schnitt 31G2210 gestört 
 
@@ -1969,9 +1965,7 @@ Assmannshausen / B 302
 
 FAH WG 26W11 GLS 26B206 
 
-Störmeldung: Weiche 11, Ass­
-
-S, GFM-ABSCHNITT, FZ 055 
+Störmeldung: Weiche 11, AssS, GFM-ABSCHNITT, FZ 055 
 
 mannshausen aufgefahren 
 
@@ -1981,9 +1975,7 @@ mannshausen aufgefahren
 
 FAH GLS 26G402 S,GFM-
 
-Störmeldung: Gleisfreimeldeab­
-
-ABSCHNITT; FZ 118 
+Störmeldung: GleisfreimeldeabABSCHNITT; FZ 118 
 
 schnitt 26G402 gestört 
 
@@ -1993,9 +1985,7 @@ schnitt 26G402 gestört
 
 FAH WG 26W10 S, 
 
-Störmeldung: Weiche 10 Ass­
-
-AUFGEFAHREN; FZ 055 
+Störmeldung: Weiche 10 AssAUFGEFAHREN; FZ 055 
 
 mannshausen aufgefahren 
 
@@ -2005,13 +1995,9 @@ mannshausen aufgefahren
 
 FAH WG 26W11 S, GFM-
 
-Störmeldung: Gleisfreimeldeab­
+Störmeldung: GleisfreimeldeabABSCHNITT: FZ 118 
 
-ABSCHNITT: FZ 118 
-
-schnitt 26W11 Weiche 11, Ass­
-
-mannshausen gestört 
+schnitt 26W11 Weiche 11, Assmannshausen gestört 
 
 Seite 22 von 67 
 
@@ -2053,9 +2039,7 @@ Assmannshausen – Rüdesheim
 
 FAH WG 26W2 S, 
 
-Störmeldung: Weiche 2 Ass­
-
-AUFGEFAHREN; FZ 055 
+Störmeldung: Weiche 2 AssAUFGEFAHREN; FZ 055 
 
 mannshausen aufgefahren 
 
@@ -2065,9 +2049,7 @@ mannshausen aufgefahren
 
 FAH WG 26W3 S, 
 
-Störmeldung: Weiche 3 Ass­
-
-AUFGEFAHREN, FZ 055 
+Störmeldung: Weiche 3 AssAUFGEFAHREN, FZ 055 
 
 mannshausen aufgefahren 
 
@@ -2077,9 +2059,7 @@ mannshausen aufgefahren
 
 FAH WG 26W1 S, 
 
-Störmeldung: Weiche 1 Ass­
-
-AUFGEFAHREN, FZ 055 
+Störmeldung: Weiche 1 AssAUFGEFAHREN, FZ 055 
 
 mannshausen aufgefahren 
 
@@ -2089,13 +2069,9 @@ mannshausen aufgefahren
 
 FAH WG 26W1 S, GFM-
 
-Störmeldung: Gleisfreimeldeab­
+Störmeldung: GleisfreimeldeabABSCHNITT; FZ 118 
 
-ABSCHNITT; FZ 118 
-
-schnitt 26W1 Weiche 1, Ass­
-
-mannshausen gestört 
+schnitt 26W1 Weiche 1, Assmannshausen gestört 
 
 09.06 
 
@@ -2103,9 +2079,7 @@ mannshausen gestört
 
 FAH GLS 26B204 S, GFM-
 
-Störmeldung: Gleisfreimeldeab­
-
-ABSCHNITT; FZ 118 
+Störmeldung: GleisfreimeldeabABSCHNITT; FZ 118 
 
 schnitt 26B204 gestört 
 
@@ -2115,9 +2089,7 @@ schnitt 26B204 gestört
 
 FAH GLS 26B202 S, GLM-
 
-Störmeldung: Gleisfreimeldeab­
-
-ABSCHNITT; FZ 118 
+Störmeldung: GleisfreimeldeabABSCHNITT; FZ 118 
 
 schnitt 26B202 gestört 
 
@@ -2787,13 +2759,9 @@ nehmen und, soweit möglich, in den EDV-Systemen zu dokumentieren.
 
 … 
 
-Überwa­
+Überwachungsumfang 
 
-chungsumfang 
-
-und  Ergebnis­
-
-dokumentation 
+und  Ergebnisdokumentation 
 
 Voraussetzung  für  eine  fachlich  qualifizierte  Kontrolle  und  Untersuchung  der  Entwässe-
 
@@ -3525,9 +3493,7 @@ RiL 821.2004
 
 Inspektion und Inspektionsabstände 
 
-Inspektions­
-
-(2)  Mit  der  Gleisbefahrung  soll  eine  auf  Oberbautechnischer  Erfahrung  ge-
+Inspektions(2)  Mit  der  Gleisbefahrung  soll  eine  auf  Oberbautechnischer  Erfahrung  ge-
 
 inhalt 
 
@@ -5712,7 +5678,6 @@ Eigenverhalten .................................................................
 
 2014-09-19_Unfaii_Lorch_Final.docx 
 
-­
 SIM042015BE 
 
 Bericht 
@@ -5800,9 +5765,7 @@ Abbildung 5-7:  Radsatz Type 9073 aus Zeichnung SNCF 10-4022 180 ...............
 
 Bericht 
 
--- - - - - - - - - - ­
-
-Seite 4 von 37 
+-- - - - - - - - - - Seite 4 von 37 
 
 
 Abbildung  5-8:  Rollenachslager  BA  088  (ähnlich  zu  Bauart  381)  aus  Zeichnung  Fwg 
@@ -5946,8 +5909,7 @@ Seite 6 von 37
 
 (Rhein)  mit  den  beiden 
 
-Am  Sonntag,  09.06.2013,  um  05:20  Uhr,  entgleiste  die  Zugfahrt  DGS  90636  (Emmerich  ­
-Passau)  auf  der  Strecke  Wiesbaden  Ost  - Niederlahnstein,  Strecken-Nr.:  3507  bei  km  77 
+Am  Sonntag,  09.06.2013,  um  05:20  Uhr,  entgleiste  die  Zugfahrt  DGS  90636  (Emmerich  Passau)  auf  der  Strecke  Wiesbaden  Ost  - Niederlahnstein,  Strecken-Nr.:  3507  bei  km  77 
 zwischen  Kaub  und  Rüdesheim 
 letzten  Eisenbahnfahrzeugen 
 (Autotransportwagen,  leer).  Die  Unfallursache  konnte  nicht eindeutig  geklärt werden,  da  die  am 
@@ -5978,8 +5940,7 @@ Abbildung 2-3:  Beschädigungen am Radsatzhalter des Unfallfahrzeugs
 Zwischen  km 77,992  und  km  76,633  liegen  GMTZ  Gleislagedaten  aus  einer  Messung  vom 
 12.06.2013  vor,  wobei  vor  der  Entgleisungsstelle  mehrere  SR  100  Überschreitungen  und  im 
 Entgleisungsbereich  eine  SR 100  Überschreitung  von  17 mm  aufgezeichnet  wurde.  Die  GMTZ 
-Messungen  entsprechen  einer  formtreuen  Gleislage  im  Wellenlängenbereich  zwischen  3  m  ­
-25 m.  Die  Messungen  wurden  ebenfalls  in  fallender  Kilometrierung  vorgenommen  und  liegen 
+Messungen  entsprechen  einer  formtreuen  Gleislage  im  Wellenlängenbereich  zwischen  3  m  25 m.  Die  Messungen  wurden  ebenfalls  in  fallender  Kilometrierung  vorgenommen  und  liegen 
 somit in gleicher Fahrtrichtung wie die Fahrt des Unfallfahrzeugs vor. 
 
 Die  Unfallursache  konnte  nicht  eindeutig  geklärt  werden,  da  die  Gleislagemessungen  kein 
@@ -6116,8 +6077,7 @@ Schienen zu erkennen.
 
 Gleislage Lorch GMTZ Messung  km  77992- km  76633 
 
-- ­
--
+- -
 
 -
 
@@ -6416,9 +6376,7 @@ en Fahrzeugs Laa
 
 ers 
 
-Schlingern um z­
-
-Achse 
+Schlingern um zAchse 
 
 Wanken um  x-Achse 
 
@@ -6575,9 +6533,7 @@ Torsion  z-Achse
 
 0,5 
 
-- t - - - - - - - - - - - - - - - - - - - - - - ­
-
-------- Unfallgeschwindigkeit 
+- t - - - - - - - - - - - - - - - - - - - - - - ------- Unfallgeschwindigkeit 
 
 0,0 
 
@@ -6627,7 +6583,6 @@ des Fahrzeugs, die damit etwas angeregt werden können.
 2014-09-19 _ Unfaii_Lorch_FinaLdocx 
 
  
-­
 SIM042015BE 
 
 Bericht 	
@@ -6747,9 +6702,7 @@ I
 . 
 
 
-~~~-·..··-­
-
-::.~~. 
+~~~-·..··-::.~~. 
 
 : 
 : 
@@ -6861,9 +6814,7 @@ A
 
 /  J,, 
 I  14 
-"-­
-
-' 
+"-' 
 
 I
 
@@ -6872,17 +6823,11 @@ I
 \ 
 
 ,i/  i 
-- ~ - ­
-6 \ 
+- ~ - 6 \ 
 
-- ­
+- - -t - -(  16  . 
 
-- -t - -­
-(  16  . 
-
-- ­
-
--
+- -
 
 -
 
@@ -6895,11 +6840,7 @@ I
 
 4. 
 
-- ­
-
-- ­
-
-- _,__  -
+- - - _,__  -
 
 (OUPE  B- 8 
 lCHl~U VIO 
@@ -6996,8 +6937,7 @@ Seite 17 von 37
 Abbildung 5-3: Zeichnung Wagen Laaers 
 
 Das Modell des Wagenkastens besteht aus zwei Hälften, deren Struktur aus der Skizze abgeleitet 
-wurde  (Abbildung  5-4).  Jede  Hälfte  wird  als  Körper  modelliert  der jeweils  aus  zwei  Doppel-T­
-Trägern  (Längsträger),  Querstreben,  Platten  für  die  Fahrwerksaufnahmen  und  die  Kopfstücke 
+wurde  (Abbildung  5-4).  Jede  Hälfte  wird  als  Körper  modelliert  der jeweils  aus  zwei  Doppel-TTrägern  (Längsträger),  Querstreben,  Platten  für  die  Fahrwerksaufnahmen  und  die  Kopfstücke 
 besteht. 
 
 ~1 
@@ -7005,9 +6945,7 @@ besteht.
 X 
 
 ~  ~--
-p-­
-
-___ _..,-----· 
+p-___ _..,-----· 
 
 A
 
@@ -7077,23 +7015,17 @@ I
 
 "' ..,, 
 
-r--- ­ - ­ - - - ­
-
-1-- 1730 )-
+r--- ­ - ­ - - - 1-- 1730 )-
 
 -
 
 -
 
--t650:tl­
-
--
+-t650:tl-
 
 _ __...,.___ ·  _ 
 
-- ­
-
--
+- -
 -
 - ---! 650:~ 1-~-
 
@@ -7129,19 +7061,13 @@ ___
 --------
 .  ~----------·- . 
 
-En t r cll< <'  -dl!~- - - - ­
-
-fu'~"~  (20~) ) 
+En t r cll< <'  -dl!~- - - - fu'~"~  (20~) ) 
 
 1360 
 
--·  --------- - ­
+-·  --------- - -·-
 
--·-
-
----'-­
-
-1 
+---'-1 
 
 Abbildung 5-7:  Radsatz Type 9073 aus Zeichnung SNCF 10-4022180 
 
@@ -7337,9 +7263,7 @@ Hysterese Reibung Parabelfeder
 
 ....",., 
 
---­
-
-. ,Jntrülle nl:f e"öb-e n 
+--. ,Jntrülle nl:f e"öb-e n 
 
 ..._ Einhülle~_de_unten 
 
@@ -7399,10 +7323,6 @@ Vertikaldynamik (Huben, Wanken,  Nicken des Wagenkastens).
 
 2014-09-19 _Unfall_ Lorch_Final.docx 
 
-­
-­
-­
-­
 SIM042015BE 
 
 Bericht 
@@ -7422,9 +7342,7 @@ X  103
 
 Diagram 
 
-10D-r­ - - - - - - - - - - - - - - - - - ­ - ­ - - - - ­
-
--
+10D-r­ - - - - - - - - - - - - - - - - - ­ - ­ - - - - -
 
 o+--~-----=1o--.------::r:-------.------:J3r::-o-,----:r:4o--.,..---:r--____,.---::~:--~---::I::--~---:l80  x
 
@@ -7473,9 +7391,7 @@ Bericht
 
 Seite 24 von 37 
 
-Die  Modeliierung  des  Puffers erfolgt  über zwei  Körper die  über ein  transialarisches  Gelenk in  X­
-Richtung  miteinander  verbunden  sind.  Zwischen  den  Körpern  wirkt  ein  nichtlineares  Feder­
-Dämpfer-Element,  bei  dem die  in  Abbildung  5-16dargestellte  Kennlinie  implementiert ist.  Ebenso 
+Die  Modeliierung  des  Puffers erfolgt  über zwei  Körper die  über ein  transialarisches  Gelenk in  XRichtung  miteinander  verbunden  sind.  Zwischen  den  Körpern  wirkt  ein  nichtlineares  FederDämpfer-Element,  bei  dem die  in  Abbildung  5-16dargestellte  Kennlinie  implementiert ist.  Ebenso 
 ist der harte Anschlag nach  100 mm Hub berücksichtigt. 
 
 COUR!3E5  L  l t.IITE.S  OE  C OM PR ESS!ON  STATIOUE 
@@ -7490,9 +7406,7 @@ L
 j 
 1/ 
 
-: - -f -· ­
-
-1--
+: - -f -· 1--
 
 2 
 
@@ -7522,18 +7436,15 @@ w
 
 10 
 
--­
-I 
+-I 
 I 
 
-tffr ­
--
+tffr -
 '--· ·-
 --
 ___,_ 
 I 
-.. - ~  ·-- ---­ }­
-I 
+.. - ~  ·-- ---­ }I 
 I 
 I 
 V 
@@ -7546,8 +7457,7 @@ V
 
 ./ 
 
-I-­
-I 
+I-I 
 --
 
 -· 
@@ -7558,9 +7468,7 @@ I
 
 ·- 1-
 
-·­
-
--· 
+·-· 
 
 -
 
@@ -7569,9 +7477,7 @@ I
 I 
 I 
 
----­
-
--
+----
 
 ; 
 
@@ -7590,9 +7496,7 @@ V
 
 / 
 
-w­ ~ ,­
-
-.  /  V 
+w­ ~ ,.  /  V 
 
 -
 
@@ -7605,8 +7509,7 @@ fLE X ION  E.N  MM
 Abbildung  5-16:  Arbeitsdiagramm  Hülsenpuffer  aus  SNCF  10-8  016  579  und  SIMPACK 
 Modell 
 
-Die Abbildung der Pufferkontakte erfolgt in SIMPACK über den 3.,.D  Kontakt (Element 87 Surface­
-Surface  3D-Contact)  (Abbildung  5-15).  Die  Pufferteller werden  als  gekrümmte  Fläche  mit einem 
+Die Abbildung der Pufferkontakte erfolgt in SIMPACK über den 3.,.D  Kontakt (Element 87 SurfaceSurface  3D-Contact)  (Abbildung  5-15).  Die  Pufferteller werden  als  gekrümmte  Fläche  mit einem 
 Puffertellerradius  von  R=2750 mm  abgebildet.  Bei  Kontakt zwischen  den  Puffertellern  wirkt  eine 
 Normalkraft die aus der Eindrückung  des Puffers resultiert.  Weiterhin wirkt eine Reibkraft parallel 
 zum  Pufferteller entgegen  der Bewegungsrichtung,  die aus der Normalkraft und  einem  Reibwert 
@@ -7620,10 +7523,6 @@ ln Abbildung 5-17 ist die Pufferkennlinie dargestellt.
 
 2014-09-19_Unfaii_Lorch_Final.docx 
 
-­
-­
-­
-­
 SIM042015BE 
 
 Bericht 
@@ -7632,17 +7531,13 @@ Seite 25 von 37
 
 Kennlinien Steifigkeit SNCF  Puffer 
 
-1200  . . . . - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ­
-
-1000 
+1200  . . . . - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 1000 
 
 -
 
 normal 
 
-+ - - - - - - - - - - - - - - - ­
-
-. 
++ - - - - - - - - - - - - - - - . 
 
 z  800
 .lll: 
@@ -7909,14 +7804,11 @@ resu~.$RWP_Right__2.Pair.Y Lateral wheel force
 5v: 
 "$ 
 "i 
--5(}­
-~  -100: 
+-5(}~  -100: 
 
 ~  -150: 
 
->­
-
--20 0.0 
+>-20 0.0 
 
 2.5 
 
@@ -8090,8 +7982,7 @@ Q-Kratte v=140 km/h
 
 Q-Kratte v=160 kmlh 
 
-- ­
--
+- -
 -
 -
 
@@ -8106,8 +7997,7 @@ resutt.$RWP _Right_2.Pair.Q Vertical wheel force
 
 - resutt.$RWP  Right.Pair.Q Vertical wheel force 
 
-- ­
--
+- -
 -
 -
 
@@ -8126,8 +8016,7 @@ time[s]
 
 Y-Kratte v=140 km/h 
 
-- ­
--
+- -
 -
 -
 
@@ -8146,8 +8035,7 @@ time[s]
 
 Y-Kratte v=160 km/h 
 
-- ­
--
+- -
 -
 -
 
@@ -8170,9 +8058,7 @@ Q;
 j 
 ~ 
 ~ 
->­
-
-:f:~::: 
+>:f:~::: 
 
 ,, 
 
@@ -8356,9 +8242,7 @@ Wagen 3  mit Hystere mit RS-Halter dz wheel  raise
 
 Wagen 4  mit Hystere mit RS-Halter dz wheel raise 
 
-- ­
-- ­
--
+- - -
 -
 -
 
@@ -8369,8 +8253,7 @@ result.$RWP_Left_6.Pair.Dz Wheel raise
 
 -
 
-- ­
--
+- -
 -
 -
 
@@ -8667,8 +8550,7 @@ Wagen  3  mit Hystere mit RS-Halter Q-Kräfte 20 Hz gefiltert
 
 Wagen 4  mit Hystere mit RS-Halter Q-Kräfte 20 Hz gefiltert 
 
-- ­
--
+- -
 -
 -
 
@@ -8696,11 +8578,8 @@ t
 
 time[s] 
 
-- ­
--
-- ­
-
--
+- -
+- -
 
 -
 
@@ -8742,8 +8621,7 @@ result.$RWP _Left_6.Pair.a  Vertical wheel force
 -
 -
 
-- ­
--
+- -
 -
 -
 
@@ -8751,10 +8629,8 @@ result.$RWP _Left_6.Pair.a  Vertical wheel force
 
 -
 
-- ­
--
--­
--
+- -
+--
 
 Wagen 3  mit Hystere ohne RS-Halter Q-Kräfte 20 Hz gefiltert 
 result.$RWP _Left_7.Pair.Q Vertical wheel force 
@@ -9031,9 +8907,7 @@ Wagen 3 Fahrwerk 8 RS  Halter Anschläge
 -
 -
 -
-- ­
-
--
+- -
 -
 
 force output.$5_Fahrwerk_6.$F_Ans_rechts_z_re_li_R5Halter.F_z given in  M_i 
@@ -9116,8 +8990,7 @@ Seite 36 von 37
 
 Gleislagestörung nach ERRI  8176 high 
 
-- ­
--
+- -
 
 -
 
@@ -9142,8 +9015,7 @@ Weg[m]
 
 Querlagenfehler 
 
-- ­
--
+- -
 
 -
 
