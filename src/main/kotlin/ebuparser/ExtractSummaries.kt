@@ -262,7 +262,28 @@ fun appendStats(statsFile: File, taskId: String, statsText: String) {
 fun cleanSummary(summary: String): String {
     var cleaned = summary.replace(SECTION_SEPARATOR, "\n")
     cleaned = cleaned.replace(Regex("""^(#+) \*\*(.+?)\*\*""", RegexOption.MULTILINE), "$1 $2")
+    cleaned = normalizeHeadingLevels(cleaned)
     return cleaned
+}
+
+// Reduces heading levels so the shallowest heading in the text becomes H1.
+// Sub-headings are reduced by the same amount but clamped to H2 (##) so they remain sub-headings.
+fun normalizeHeadingLevels(text: String): String {
+    val headingRegex = Regex("""^(#+) (.+)""", RegexOption.MULTILINE)
+    val minLevel = headingRegex.findAll(text).map { it.groupValues[1].length }.minOrNull() ?: return text
+    val reduction = minLevel - 1
+    if (reduction == 0) return text
+
+    return headingRegex.replace(text) { match ->
+        val currentLevel = match.groupValues[1].length
+        val newLevel = if (currentLevel == minLevel) 1 else maxOf(currentLevel - reduction, 2)
+        if (newLevel == currentLevel) {
+            match.value
+        } else {
+            println("Fixing line ${match.value}")
+            "#".repeat(newLevel) + " " + match.groupValues[2]
+        }
+    }
 }
 
 fun isFileInSubsetForTest(filename: String): Boolean {
