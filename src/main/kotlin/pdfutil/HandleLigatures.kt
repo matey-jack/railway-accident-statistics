@@ -39,9 +39,14 @@ val sourceDir = File("documents")
 val cleanedDir = File(sourceDir, "cleaned")
 
 // https://www.amp-what.com/unicode/search/ligature from #64256 to #64262
-// TODO: add the others
 val unicodeLigatures = mapOf(
-    Pair('ﬂ', "fl"),
+    'ﬀ' to "ff",
+    'ﬁ' to "fi",
+    'ﬂ' to "fl",
+    'ﬃ' to "ffi",
+    'ﬄ' to "ffl",
+    'ﬅ' to "st",
+    'ﬆ' to "st",
 )
 
 fun main() {
@@ -64,10 +69,11 @@ fun main() {
     } else {
         val foundCounts = mutableMapOf<Int, Int>()
         var totalReplacements = 0
+        var totalUnicodeLigatureReplacements = 0
 
         txtFiles.forEach { inputFile ->
             val content = inputFile.readText()
-            val cleaned =
+            val afterCid =
                 cidPattern.replace(content) { match ->
                     val code = match.groupValues[1].toInt()
                     foundCounts[code] = (foundCounts[code] ?: 0) + 1
@@ -80,6 +86,15 @@ fun main() {
                         match.value
                     }
                 }
+            val cleaned = afterCid.map { ch ->
+                val replacement = unicodeLigatures[ch]
+                if (replacement != null) {
+                    totalUnicodeLigatureReplacements++
+                    replacement
+                } else {
+                    ch.toString()
+                }
+            }.joinToString("")
             content.forEach { ch ->
                 if (ch.code > 255) {
                     highUnicodeCounts[ch] = (highUnicodeCounts[ch] ?: 0) + 1
@@ -92,9 +107,10 @@ fun main() {
         println("Processed ${txtFiles.size} files.")
         println("Wrote cleaned files to '${cleanedDir.path}'.")
         println("Replaced $totalReplacements ligature placeholders.")
+        println("Replaced $totalUnicodeLigatureReplacements Unicode ligature characters.")
+
         println()
         println("Found cid codes:")
-
         foundCounts
             .entries
             .sortedByDescending { it.value }
