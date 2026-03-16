@@ -8,7 +8,7 @@ Suche dazu im Text die folgenden Informationen:
 # Ursachen des Unfalls
 # Bauart der beteiligten Stellwerke
 # Baureihe der beteiligten Schienenfahrzeuge
-# Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle
+# Empfohlene oder bereits umgesetzte Maßnahmen zur Verhinderung zukünftiger Unfälle
 
 Die Abschnitte über Stellwerke und Fahrzeuge sollen entfallen, wenn dazu keine Angaben enthalten sind.
 Die Ausgabe soll diese Überschriften (wenn sie nicht entfallen) jeweils nur mit dem einen "#" Zeichen am Anfang enthalten.
