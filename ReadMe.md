@@ -44,6 +44,7 @@ Therefore, I switched to pdfminer.six:
     done
 
 Note that:
+ - there are 13 files (039, 148, 151 to 160, and 162) where pdfminer can't see the n and sometimes the u, leading to words like "Unters ch ngsbericht" and sentences like "Es  trate   kei e  Perso e schäde   ei ."
  - I need `pipx`, because the local Python installation is locked.
    Luckily, it's just one line more, no big deal.
  - all the quotes are needed because some filenames contain spaces.

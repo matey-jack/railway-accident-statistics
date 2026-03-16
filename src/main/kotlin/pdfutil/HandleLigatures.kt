@@ -38,6 +38,12 @@ val cidPattern = Regex("\\(cid:(\\d+)\\)")
 val sourceDir = File("documents")
 val cleanedDir = File(sourceDir, "cleaned")
 
+// https://www.amp-what.com/unicode/search/ligature from #64256 to #64262
+// TODO: add the others
+val unicodeLigatures = mapOf(
+    Pair('ﬂ', "fl"),
+)
+
 fun main() {
 
     if (!sourceDir.exists() || !sourceDir.isDirectory) {
@@ -51,6 +57,7 @@ fun main() {
             .listFiles { file -> file.isFile && file.extension.equals("txt", ignoreCase = true) }
             ?.sortedBy { it.name }
             .orEmpty()
+    val highUnicodeCounts = mutableMapOf<Char, Int>()
 
     if (txtFiles.isEmpty()) {
         println("No .txt files found in '${sourceDir.path}'.")
@@ -73,6 +80,11 @@ fun main() {
                         match.value
                     }
                 }
+            content.forEach { ch ->
+                if (ch.code > 255) {
+                    highUnicodeCounts[ch] = (highUnicodeCounts[ch] ?: 0) + 1
+                }
+            }
 
             File(cleanedDir, inputFile.name).writeText(cleaned)
         }
@@ -84,10 +96,20 @@ fun main() {
         println("Found cid codes:")
 
         foundCounts
-            .toSortedMap()
+            .entries
+            .sortedByDescending { it.value }
             .forEach { (code, count) ->
                 val replacement = ligatureMap[code] ?: "<unmapped>"
                 println("(cid:$code) -> '$replacement' : $count")
+            }
+
+        println()
+        println("High Unicode characters (code > 255):")
+        highUnicodeCounts
+            .entries
+            .sortedByDescending { it.value }
+            .forEach { (ch, count) ->
+                println("U+${ch.code.toString(16).uppercase().padStart(4, '0')} '$ch' : $count")
             }
     }
 
