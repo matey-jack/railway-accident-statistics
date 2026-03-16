@@ -365,7 +365,13 @@ class Classifier(
                 ).additionalModelRequestFields(
                     Document
                         .mapBuilder()
-                        .putString("maxReasoningEffort", "low")
+                        .putMap(
+                            "reasoningConfig",
+                            mapOf(
+                                "type" to Document.fromString("enabled"),
+                                "maxReasoningEffort" to Document.fromString("low"),
+                            ),
+                        )
                         .build(),
                 ).toolConfig(toolConfig)
                 .build()
@@ -393,7 +399,12 @@ fun parseSummaries(path: String): List<Summary> {
         .mapNotNull(::parseSummarySection)
 }
 
-val testReports = listOf("114", "023", "002", "007", "231", "238", "199", "009", "047", "034")
+// five shortest and five longest reports (minus the ones listed in other already)
+val testReports = listOf(
+    "179", "191", "012", "032", "201",
+    "116", "001", "226", "089", "237"
+)
+    // listOf("114", "023", "002", "007", "231", "238", "199", "009", "047", "034")
 
 fun main() {
     val identity =
