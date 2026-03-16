@@ -204,8 +204,10 @@ private fun parseRoadVehicleType(value: String?): RoadVehicleType? {
     }
 }
 
-private fun parseClassification(toolInput: Map<String, Document>): Classification =
-    Classification(
+private fun parseClassification(toolInput: Map<String, Document>): Classification {
+    println("Reasoning: ${toolInput["reasoning"]}")
+    println()
+    return Classification(
         railwayCrossing = parseBooleanValue(toolInput["railwayCrossing"]),
         roadVehicleType = parseRoadVehicleType(parseOptionalStringValue(toolInput["roadVehicleType"])),
         constructionWork = parseBooleanValue(toolInput["constructionWork"]),
@@ -222,6 +224,7 @@ private fun parseClassification(toolInput: Map<String, Document>): Classificatio
         collision = parseBooleanValue(toolInput["collision"]),
         otherCause = parseBooleanValue(toolInput["otherCause"]),
     )
+}
 
 private fun classificationValueByProperty(classification: Classification): Map<String, Any?> {
     val propertiesByName = Classification::class.memberProperties.associateBy { it.name }
@@ -316,9 +319,8 @@ class Classifier(
             .build()
 
     fun classify(summary: Summary): Classification {
+        println("Classifying ${summary.filename}...")
         val modelInput = buildClassificationInput(summary)
-
-        println("INFO tool config: ${toolConfig}")
         val request =
             ConverseRequest
                 .builder()
@@ -377,12 +379,13 @@ fun parseSummaries(path: String): List<Summary> {
         .mapNotNull(::parseSummarySection)
 }
 
-// five shortest and five longest reports (minus the ones listed in other already)
 val testReports = listOf(
+    // some famous or interesting reports
+    "114", "023", "002", "007", "231", "238", "199", "009", "047", "034",
+    // five shortest and five longest reports (minus the ones listed in other already)
     "179", "191", "012", "032", "201",
-    "116", "001", "226", "089", "237"
+    "116", "001", "226", "089", "237",
 )
-// listOf("114", "023", "002", "007", "231", "238", "199", "009", "047", "034")
 
 fun main() {
     val identity =
@@ -404,6 +407,8 @@ fun main() {
         .build()
         .use { bedrockClient ->
             val classifier = Classifier(bedrockClient)
+            println("INFO tool config: ${classifier.toolConfig}")
+
             val summaries = parseSummaries("results/bedrock/summaries.md")
             val classifications =
                 summaries
