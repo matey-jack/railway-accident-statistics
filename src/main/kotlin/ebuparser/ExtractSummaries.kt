@@ -306,6 +306,11 @@ fun cleanSummary(summary: String): String {
     return cleaned
 }
 
+fun isFileInSubsetForTest(filename: String): Boolean {
+    val number = filename.take(3).toIntOrNull() ?: return false
+    return number <= 10 || number % 10 == 0
+}
+
 fun main() {
     printDebugInfo()
 
@@ -355,7 +360,7 @@ fun main() {
 
     val files =
         documentsDir
-            .listFiles { file -> file.isFile && file.extension == "txt" && file.name !in processedFiles }
+            .listFiles { file -> file.isFile && file.extension == "txt" && file.name !in processedFiles && isFileInSubsetForTest(file.name) }
             ?.sortedBy { it.length() }
             ?: emptyList()
 
