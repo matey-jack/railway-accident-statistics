@@ -2,6 +2,7 @@ package pdfutil
 
 import java.io.File
 
+// WARNING: this is highly opportunistic and not unambiguous, since different input files could use different fonts.
 val ligatureMap =
     mapOf(
         1 to "*",
@@ -20,9 +21,17 @@ val ligatureMap =
         425 to "tt",
         426 to "ttf",
         427 to "tti",
+        976 to "f",
+        2868 to "_0",
         2869 to "_1",
         2870 to "_2",
         2871 to "_3",
+        2872 to "_4",
+        2873 to "_5",
+        2874 to "_6",
+        2875 to "_7",
+        2876 to "_8",
+        2877 to "_9",
     )
 
 val cidPattern = Regex("\\(cid:(\\d+)\\)")
