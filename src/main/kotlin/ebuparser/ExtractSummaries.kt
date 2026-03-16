@@ -24,6 +24,7 @@ import windows.SleepPreventer
 import java.io.File
 import java.nio.charset.Charset
 import java.util.concurrent.TimeUnit
+import kotlin.collections.emptyList
 import kotlin.io.path.Path
 
 const val LEMONADE_URL = "http://127.0.0.1:8000"
@@ -361,7 +362,7 @@ fun main() {
     val files =
         documentsDir
             .listFiles { file -> file.isFile && file.extension == "txt" && file.name !in processedFiles && isFileInSubsetForTest(file.name) }
-            ?.sortedBy { it.length() }
+            ?.sortedBy { it.name }
             ?: emptyList()
 
     if (System.getProperty("os.name").lowercase().contains("win")) {
