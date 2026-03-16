@@ -137,12 +137,9 @@ Zusammenstoß im Bf Flughafen Hannover-Langenhagen
 
 # Hergang des Unfalls 
 Die S-Bahn 5711 war um 09:53 (Anmerkung: als S 5122 mit einer Verspätung von 4 Minuten) 
-im Gleis 3711 des Bf Flughafen Hannover-Langenhagen angekommen und wartete ab­
-fahrbereit vor dem in Stellung Hp 0 „Halt“ befindlichen Asig 37P1 für den Start in Rich­
-tung „Hannover Messe/EXPO“. 
+im Gleis 3711 des Bf Flughafen Hannover-Langenhagen angekommen und wartete abfahrbereit vor dem in Stellung Hp 0 „Halt“ befindlichen Asig 37P1 für den Start in Richtung „Hannover Messe/EXPO“. 
 
-Die S-Bahn 5712 war mit einer Verspätung von 7 Minuten im Zulauf auf den Bf Flugha­
-fen Hannover-Langenhagen. Die Abfahrt am letzten Halt in „Langenhagen Mitte“ erfolgte 
+Die S-Bahn 5712 war mit einer Verspätung von 7 Minuten im Zulauf auf den Bf Flughafen Hannover-Langenhagen. Die Abfahrt am letzten Halt in „Langenhagen Mitte“ erfolgte 
 um 10:06 Uhr (Soll = 09:59). 
 
 Aufgrund  der  Verspätung  der  S  5712,  die  eine  Ankunft  um  10:11  Uhr  erwarten  ließ, 
@@ -150,8 +147,7 @@ konnte der abfahrbereiten S 5711 noch keine Ausfahrt aus dem Bf gewährt werden.
 Fdl  Langenhagen  Nord  ließ  folgerichtig  zunächst  die  Einfahrt  der  verspäteten  S-Bahn 
 5712 zu, indem er die entsprechende Zugstraße nach Gleis 3721 einstellte. 
 
-Hierdurch wechselte das Esig 37A aus Stellung Hp 0 „Halt“ in Stellung Ks 2 „Halt erwar­
-ten“ i.V.m. Zs 3 (Kennziffer „5“) sowie Zs 3v (Kennziffer „3“) und erlaubte eine Einfahrt in 
+Hierdurch wechselte das Esig 37A aus Stellung Hp 0 „Halt“ in Stellung Ks 2 „Halt erwarten“ i.V.m. Zs 3 (Kennziffer „5“) sowie Zs 3v (Kennziffer „3“) und erlaubte eine Einfahrt in 
 den Bf mit einer Geschwindigkeit von 50 km/h bis km 15,1 sowie 30 km/h ab km 15,1 bis 
 zum Ende des Gleises 3721. 
 
@@ -160,9 +156,7 @@ Bf ein.
 
 Zur planmäßigen Abfahrtszeit (10:10 Uhr) startete die S-Bahn 5711 unerlaubt aus Gleis 
 3711 bei Hp 0 „Halt“ zeigendem Asig 37P1. Durch die infolge der Signalstellung bewirkte 
-Beeinflussung am 2000 Hz-Gleismagneten  erhielt  der  Zug eine sofortige Zwangsbrem­
-sung.  Nach kurzem  Halt  wurde die Fahrt  der  S-Bahn  5711  –  erneut  unerlaubt  - fortge­
-setzt,  so  dass  die  S-Bahn  5711  nach  Passieren  der  Weiche  3701,  die  entgegen  ihrer 
+Beeinflussung am 2000 Hz-Gleismagneten  erhielt  der  Zug eine sofortige Zwangsbremsung.  Nach kurzem  Halt  wurde die Fahrt  der  S-Bahn  5711  –  erneut  unerlaubt  - fortgesetzt,  so  dass  die  S-Bahn  5711  nach  Passieren  der  Weiche  3701,  die  entgegen  ihrer 
 eingestellten Lage befahren wurde, nun der S-Bahn 5712 direkt entgegenfuhr. 
 
 Noch  im  unterirdischen  Teil  des  Bf  kam  es  dann  zum  Zusammenstoß  der  beiden  S-
@@ -176,8 +170,7 @@ An  den  Bahnanlagen  und  Fahrzeugen  entstand  ein  Sachschaden  von  insgesam
 3.600.000 DM (Hinweis: Angabe der Deutschen Bahn AG) 
 
 Aufgrund des Unfalls konnte die Strecke „Langenhagen Pferdemarkt - Hannover Flughafen“ 
-bis zum 30.06.2000, 04:00 Uhr nicht bedient werden. Die Reisenden  wurden ersatzwei­
-se mit Bussen von Langenhagen Mitte zum Flughafen und zurück befördert. 
+bis zum 30.06.2000, 04:00 Uhr nicht bedient werden. Die Reisenden  wurden ersatzweise mit Bussen von Langenhagen Mitte zum Flughafen und zurück befördert. 
 
 Durch  den  Zusammenstoß  verkeilten  sich  die  führenden  Fahrzeuge  der  S-Bahnen  um 
 etwa 1 – 1,5 m ineinander. Weiterhin kam es zu Entgleisungen mehrerer Drehgestelle in 
@@ -251,19 +244,16 @@ letztes Drehgestell
 entgleist 
 
 # Ursachen des Unfalls 
-Auslösende  Ursache für den Zusammenstoß war  zweifelsfrei  die unerlaubte Wei­
-terfahrt der S-Bahn 5711 nach erfolgter Zwangsbremsung durch die PZB am Hp 0 
+Auslösende  Ursache für den Zusammenstoß war  zweifelsfrei  die unerlaubte Weiterfahrt der S-Bahn 5711 nach erfolgter Zwangsbremsung durch die PZB am Hp 0 
 „Halt“ zeigenden Ausfahrsignal 37P1. 
 
 Durch  die  am  Asig  37P1  bewirkte  Zwangsbremsung  war  die  S-Bahn  5711  deutlich  vor 
 dem  eigentlichen  (d.h.  einen  Zusammenstoß  frühestens  ermöglichenden)  Gefahrpunkt 
 (=  Grenzzeichen  der  Weiche  3701  in  km  15,207)  zum  Stehen  gekommen.  Der  der 
-Zwangsbremsung vorausgehende Sachverhalt, mit der S-Bahn 5711 am Asig 37P1 oh­
-ne Zustimmung des Fdl anzufahren, wurde also zunächst technisch aufgefangen. 
+Zwangsbremsung vorausgehende Sachverhalt, mit der S-Bahn 5711 am Asig 37P1 ohne Zustimmung des Fdl anzufahren, wurde also zunächst technisch aufgefangen. 
 
 Für die Weiterfahrt eines Zuges nach unerlaubter Vorbeifahrt an einem Halt zeigenden 
-Hauptsignal sind im Regelwerk DS 408.01-09 „Züge fahren und Rangieren“ (hier: Mo­
-dul 408.0531 i.V. m. Modul 408.0611) nachstehende Regelungen verankert: 
+Hauptsignal sind im Regelwerk DS 408.01-09 „Züge fahren und Rangieren“ (hier: Modul 408.0531 i.V. m. Modul 408.0611) nachstehende Regelungen verankert: 
 
 Auszug aus DS 408.0531  „Unzulässiges Vorbeifahren an Haltsignalen“ 
 
@@ -277,8 +267,7 @@ Fahrtstellung (...) zeigt.
 Der Zug erhält für die Weiterfahrt Befehl Ad Nr. 4 (...). 
 Der  Befehl  lautet  (...)  „fährt  nach  Vorbeifahrt  am  Signal  (Bezeichnung)  ohne 
 Hauptsignal weiter“. 
-Der Befehl darf erst übermittelt werden, wenn die Voraussetzungen für die Wei­
-terfahrt erfüllt sind. 
+Der Befehl darf erst übermittelt werden, wenn die Voraussetzungen für die Weiterfahrt erfüllt sind. 
 
 Auszug aus DS 408.0611  „Zwangsbremsung am Hauptsignal“ 
 
@@ -287,23 +276,16 @@ Bei  einer  Zwangsbremsung  an  einem  Hauptsignal  ist  nach  dem  Anhalten  de
 Fahrdienstleiter  zu  verständigen,  (...).  Für  die  Weiterfahrt  gelten  die  Regeln  in 
 408.0531 Abs.1 . 
 
-Die  Fahrt  der  S-Bahn  5711  wurde  fortgesetzt,  ohne  dass  vorstehende Sicherheitsbe­
-stimmungen beachtet und angewendet wurden. Dieser Tatbestand ist fachlich dem Ver­
-antwortungsbereich  des  Triebfahrzeugführers  der  S-Bahn  5711  zuzuschreiben. Die 
-Kenntnis vorstehender Regelungen gehört zu den grundlegenden individuellen Leistun­
-gen,  die  ein  Triebfahrzeugführer  (Tf)  beherrschen  muss. Die  Verständigung  des  Fahr­
-dienstleiters  (Fdl)  hätte  im  vorliegenden  Fall  zweifelsohne  dazu  geführt,  dass  seitens 
+Die  Fahrt  der  S-Bahn  5711  wurde  fortgesetzt,  ohne  dass  vorstehende Sicherheitsbestimmungen beachtet und angewendet wurden. Dieser Tatbestand ist fachlich dem Verantwortungsbereich  des  Triebfahrzeugführers  der  S-Bahn  5711  zuzuschreiben. Die 
+Kenntnis vorstehender Regelungen gehört zu den grundlegenden individuellen Leistungen,  die  ein  Triebfahrzeugführer  (Tf)  beherrschen  muss. Die  Verständigung  des  Fahrdienstleiters  (Fdl)  hätte  im  vorliegenden  Fall  zweifelsohne  dazu  geführt,  dass  seitens 
 des  Fdl  das  Nichtvorhandensein  der  Voraussetzungen  für  die  Weiterfahrt  erkannt  und 
 demzufolge einer Weiterfahrt nicht zugestimmt worden wäre. 
 Die individuelle Fehlhandlung des Tf, die Fahrt ohne Zustimmung des Fdl fortzusetzen, 
 war im vorliegenden Fall deshalb so folgewirksam, weil der Zug nur wenige Meter später 
-in den Bereich der eingleisigen Streckenführung gelangte und nun der S-Bahn 5712 di­
-rekt  entgegenfuhr.  Die  gleiche  Handlungsweise  des  Tf  bei  zweigleisiger  Streckenaus­
-gestaltung wäre mit hoher Wahrscheinlichkeit ohne Unfallfolgen geblieben. 
+in den Bereich der eingleisigen Streckenführung gelangte und nun der S-Bahn 5712 direkt  entgegenfuhr.  Die  gleiche  Handlungsweise  des  Tf  bei  zweigleisiger  Streckenausgestaltung wäre mit hoher Wahrscheinlichkeit ohne Unfallfolgen geblieben. 
 
 Bedingt  durch  den  vorhandenen  Gleisbogen  im  Bereich  des  Ereignisses  (vgl.  Bilder  3 
-und 4) war den Tf beider S-Bahnen eine ausreichend weite Sicht auf die jeweils entge­
-genkommende  S-Bahn  verwehrt.  Eine  frühere  Reaktion  i.S.  einer  jetzt  noch  möglichen 
+und 4) war den Tf beider S-Bahnen eine ausreichend weite Sicht auf die jeweils entgegenkommende  S-Bahn  verwehrt.  Eine  frühere  Reaktion  i.S.  einer  jetzt  noch  möglichen 
 Vermeidbarkeit des Zusammenstoßes war insoweit objektiv nicht zu erwarten. 
 
 Die durch die Fahrtverlaufsauswertung (vgl. Anlage 2) belegte Schnellbremsung beider 
@@ -566,8 +548,7 @@ Untersuchungsbericht Zusammenstoß in Gremberg – Köln Kalk Nord am 15.03.2006
 
 Die der Zugfahrt 50216 vorangehenden Zugfahrten 51227 und 66024 von Gremberg nach Köln Kalk Nord erfolgten mit ordnungsgemäßer Signal- und Blockbedienung.
 Die Zugfahrt 50216 erfolgte aus Richtung Troisdorf über Gremberg nach Köln Kalk Nord.  
-Für  die  Einfahrt  in  den  Bahnhof  Köln  Kalk  Nord  zeigte  das  Einfahrsignal  Halt.  Der  Trieb­
-fahrzeugführer hielt ca. 200 m vor dem Signal an.  
+Für  die  Einfahrt  in  den  Bahnhof  Köln  Kalk  Nord  zeigte  das  Einfahrsignal  Halt.  Der  Triebfahrzeugführer hielt ca. 200 m vor dem Signal an.  
 Nachdem  sich  der  Triebfahrzeugführer  50216  beim  Fdl  Köln  Kalk  Nord  gemeldet  hatte, 
 stellte dieser die Einfahrzugstraße ein. Kurz danach fuhr der darauffolgende Zug 51245 mit 
 einer Geschwindigkeit von 34 km/h auf den gerade anfahrenden Zug 50216 auf.  
@@ -578,9 +559,7 @@ Aus zwei beteiligten Kesselwagen ist kein Gefahrgut ausgetreten.
 Aus einem auf dem 14. Wagen des 50216 verladenen Containers trat eine geringe Menge 
 eines ungefährlichen Ladegutes (Kunststoff-Granulat) aus.  
 
-Das Streckengleis Köln Kalk Nord – Gremberg wurde zeitgleich von Zug 51122 unter ord­
-nungsgemäßer  Block- uns Signalbedienung befahren. Der Zug war den beiden verunfall­
-ten Zügen bereits begegnet, bevor sie zusammenstießen.  
+Das Streckengleis Köln Kalk Nord – Gremberg wurde zeitgleich von Zug 51122 unter ordnungsgemäßer  Block- uns Signalbedienung befahren. Der Zug war den beiden verunfallten Zügen bereits begegnet, bevor sie zusammenstießen.  
 
 Der Ablauf der Zugfahrten 50216 und  51245 sind in Abs. 3.5.1 näher beschrieben. 
 
@@ -603,30 +582,22 @@ Bonntor anstatt nach Köln Kalk Nord
 
 Bedienung der Stellwerksanlage Gnf: 
 
-−	  Der  Fdl  Gnf  hatte  den  Vorblock  für  Zug  50216  in  Richtung  Köln  Kalk  Nord  nicht  vorge­
-nommen. 
+−	  Der  Fdl  Gnf  hatte  den  Vorblock  für  Zug  50216  in  Richtung  Köln  Kalk  Nord  nicht  vorgenommen. 
 
 −	  Dem Fdl Gnf ist nicht aufgefallen, dass sich der Fahrstraßensignalhebel nicht vollständig 
-in die 90° Stellung hat bringen lassen. Zudem hat er nicht erkannt,  dass die Streckenwie­
-derholungssperre durch Zug 50216 noch wirksam war.  
+in die 90° Stellung hat bringen lassen. Zudem hat er nicht erkannt,  dass die Streckenwiederholungssperre durch Zug 50216 noch wirksam war.  
 
 In  der  Stellwerksanlage  Stellwerk  Gnf  wurde  eine  Abweichung  von  der  Grundschaltung 
 festgestellt,  die  im  Zusammenwirken  mit  einer  nicht  ordnungsgemäßen  Bedienung  der 
 Stellwerksanlage zu einer nicht zulässigen Fahrtstellung des Hauptsignals führen kann.  
 
-Voraussetzung ist eine nicht erfolgte Vorblockung. Dadurch ist die Streckenwiederholungs­
-sperre noch wirksam. Der Versuch, das Signal auf Fahrt zustellen, endet an der 68° - Sper­
-re während der zweiten Kuppelstromprüfung, welche die Streckenwiederholungssperre auf 
-Grundstellung  abprüft.  Laut  Grundschaltung  sind  der  Motor  im  Signalantrieb  und  die  Flü­
-gelkupplung  stromlos.  Der  Fahrstraßensignalhebel  kann  nicht  über  die  Sperrscheibe    der 
+Voraussetzung ist eine nicht erfolgte Vorblockung. Dadurch ist die Streckenwiederholungssperre noch wirksam. Der Versuch, das Signal auf Fahrt zustellen, endet an der 68° - Sperre während der zweiten Kuppelstromprüfung, welche die Streckenwiederholungssperre auf 
+Grundstellung  abprüft.  Laut  Grundschaltung  sind  der  Motor  im  Signalantrieb  und  die  Flügelkupplung  stromlos.  Der  Fahrstraßensignalhebel  kann  nicht  über  die  Sperrscheibe    der 
 68°- Sperre gebracht werden. 
 
-Auf  Grund  festgestellter  Abweichungen  von  der  Grundschaltung  kommt  es  zu  einer  An­
-schaltung  des  Motors  im  Signalantrieb  über  73°-  Kontakte  (statt  80°-  Kontakten  nach 
-Grundschaltung). Eine Anschaltung des Kuppelmagnets im Signalantrieb wird zwar verhin­
-dert, der Kuppelmagnet aber in der Regel nicht auf Abfall überwacht. Bleibt der Magnet der 
-eigentlich stromlosen Flügelkupplung aber durch Restmagnetismus oder durch Frost in an­
-gezogener Stellung kann es zu einer Fahrtstellung kommen, obwohl die Blockkriterien nicht 
+Auf  Grund  festgestellter  Abweichungen  von  der  Grundschaltung  kommt  es  zu  einer  Anschaltung  des  Motors  im  Signalantrieb  über  73°-  Kontakte  (statt  80°-  Kontakten  nach 
+Grundschaltung). Eine Anschaltung des Kuppelmagnets im Signalantrieb wird zwar verhindert, der Kuppelmagnet aber in der Regel nicht auf Abfall überwacht. Bleibt der Magnet der 
+eigentlich stromlosen Flügelkupplung aber durch Restmagnetismus oder durch Frost in angezogener Stellung kann es zu einer Fahrtstellung kommen, obwohl die Blockkriterien nicht 
 erfüllt sind. 
 
 Nach  der  Grundschaltung  ist  ein  Anschalten  des  Motorstroms  erst  ab  einer  Hebelstellung 
@@ -635,15 +606,11 @@ Hebelstellung von 68° wurde in 50 % der nachträglich geführten Versuche nachg
 
 Eine Änderung der örtlichen Schaltunterlagen erfolgte Anfang der fünfziger Jahre. 
 
-Für  den  Zug  50216  erfolgte  die  Weiterschaltung  der  Zugnummer  über  die  Zugnummern­
-meldeanlage nicht wie vorgesehen nach Köln Kalk Nord, sondern nach Köln Bonntor. 
+Für  den  Zug  50216  erfolgte  die  Weiterschaltung  der  Zugnummer  über  die  Zugnummernmeldeanlage nicht wie vorgesehen nach Köln Kalk Nord, sondern nach Köln Bonntor. 
 
-Im Rahmen der Unfalluntersuchung wurde keine reproduzierbare, schlüssige Erklärung ge­
-funden. Die Weiterschaltung erfolgt mit dem Haltfall des Startsignals in die Richtung, die mit 
-dem  Umlegen  des  Fahrstraßensignalhebels  um  mindestens  15°  vorgegeben  wird.  Nach­
-weise  für  eine  versehentliche  Einstellung  der  Fahrstraße  Richtung  Köln  Bonntor  wurden 
-nicht gefunden. Dokumentationen auf dem Zugmeldedrucker oder Aufzeichnungen der Be­
-triebszentrale Duisburg zu Umbuchungen von Zugnummern oder zu Fehlnummern wurden 
+Im Rahmen der Unfalluntersuchung wurde keine reproduzierbare, schlüssige Erklärung gefunden. Die Weiterschaltung erfolgt mit dem Haltfall des Startsignals in die Richtung, die mit 
+dem  Umlegen  des  Fahrstraßensignalhebels  um  mindestens  15°  vorgegeben  wird.  Nachweise  für  eine  versehentliche  Einstellung  der  Fahrstraße  Richtung  Köln  Bonntor  wurden 
+nicht gefunden. Dokumentationen auf dem Zugmeldedrucker oder Aufzeichnungen der Betriebszentrale Duisburg zu Umbuchungen von Zugnummern oder zu Fehlnummern wurden 
 ebenfall nicht vorgefunden. 
 
 Eine Erklärung für diesen Status der Zugnummermeldeanlage könnten Manipulationen im 
@@ -908,22 +875,19 @@ ckentunnels in km 251,325 betrug ebenfalls 210 km/h. Die zulässige Geschwindigk
 beträgt 250 km/h. 
 
 Um  21:04:40*  Uhr  in  km  251,332  wurde  in  der  EFR  der  Eintrag  „Störsammelmelder“,  PZB-
-Fahrzeugeinrichtung „Aus“/ obere Zugart „Aus“ und „Dauerwachsam“ registriert. Als Auslöser die­
-ses Registrierwechsels wird der Aufprall auf die ersten Schafe bei einer Geschwindigkeit von 210 
+Fahrzeugeinrichtung „Aus“/ obere Zugart „Aus“ und „Dauerwachsam“ registriert. Als Auslöser dieses Registrierwechsels wird der Aufprall auf die ersten Schafe bei einer Geschwindigkeit von 210 
 km/h gesehen. 
 
 In km 251,347 ist ein kurzfristiger Geschwindigkeitswechsel von 210 km/h auf 215 km/h bei einer 
 Wegstrecke von 35 m aufgezeichnet. Ursächlich kann der Aufprall auf weitere Tiere und der damit 
-verbundene schwankende Haftreibwert und in deren Folge die festgestellte Entgleisung  der „ers­
-ten“ Achse in km 251,385 sein. Erste Entgleisungsspuren (beschädigte Betonschwellen und LZB-
+verbundene schwankende Haftreibwert und in deren Folge die festgestellte Entgleisung  der „ersten“ Achse in km 251,385 sein. Erste Entgleisungsspuren (beschädigte Betonschwellen und LZB-
 Kabel)  befinden  sich  im  Blockabschnitt  78,  etwa  60  m  hinter  dem  nördlichen  Tunnelportal  des 
 Landrückentunnels  in  Fahrtrichtung  des  Zuges  und  liegen  vor  der  ersten  Weichenverbindung  im 
 Tunnel. 
 
 Etwa  um  21:04:45*  Uhr  in  km  251,622  wurde  bei  einer  Geschwindigkeit  von  ca.  205  km/h  die 
 Schnellbremsung durch den Tf wirksam. Untermauert wird dies durch die Absenkung des Druckes 
-in der Hauptluftleitung (< 2,2 bar). Die ermittelte Zeitdifferenz von 5 sec. ergibt sich aus der Reak­
-tionszeit des Tf und den technologischen Abläufen der Zugförderung (Vorbremsweg). 
+in der Hauptluftleitung (< 2,2 bar). Die ermittelte Zeitdifferenz von 5 sec. ergibt sich aus der Reaktionszeit des Tf und den technologischen Abläufen der Zugförderung (Vorbremsweg). 
 
 Erste  Entgleisungsspuren  deuten  auf  eine  Entgleisung  nach  rechts  hin.  Die  Spuren  sowie  die 
 Auswertung der Radsatzlager bestätigen, dass es durch die aus dem Aufprall auf die Schafherde 
@@ -931,20 +895,17 @@ resultierenden  Kräfte  und  Wirkungen  zu  einer  Entgleisung  der  ersten  Ac
 entgleiste Triebkopf hat jedoch den Gleisbereich nicht verlassen und für die folgenden rund 700 m 
 bis zur ersten stumpf befahrenen Weiche 602 „Spur“ gehalten. 
 
-Nach dem Durchfahren des Herzstückbereiches ist die entgleiste Achse an die Flügelschiene an­
-gelaufen  und  dadurch  nach  rechts  über  die  Schwellenköpfe  in  den  Schotter  abgedrängt  worden. 
+Nach dem Durchfahren des Herzstückbereiches ist die entgleiste Achse an die Flügelschiene angelaufen  und  dadurch  nach  rechts  über  die  Schwellenköpfe  in  den  Schotter  abgedrängt  worden. 
 Untermauert wird diese Feststellung aus der Aufzeichnung der EFR. In km 251,927 (Lage der W 
 602) ist ein sprunghafter Anstieg der Bremskurve aus einer registrierten Geschwindigkeit von 174 
 km/h  auf  141  km/h  und  einer  folgenden  Registrierung  von  179  km/h  bei  einer  aufgezeichneten 
 Wegstecke  von  120  m  erkennbar. Ursächlich  für  diese  Geschwindigkeitsregistrierung  sind  die 
 wechselnden Haftreibwerte in Folge der Entgleisung der Achsen über der Schienenoberkante. 
 
-Der Aufprall auf die Flügelschiene der Weiche 602 erfolgte mit ca. 179 km/h. Die Entgleisungsge­
-schwindigkeit im Weichenbereich betrug 174 km/h. 
+Der Aufprall auf die Flügelschiene der Weiche 602 erfolgte mit ca. 179 km/h. Die Entgleisungsgeschwindigkeit im Weichenbereich betrug 174 km/h. 
 
 Anschließend  prallte  der  Triebkopf  an  den  rechten  Randweg  des  Tunnels.  Die  vom  entgleisten 
-Fahrwerk auf die Weiche ausgeübten Querkräfte in Kombination mit dem Eindringen in das Schot­
-terbett führten zu einer Verschiebung des Gleisrostes nach links. 
+Fahrwerk auf die Weiche ausgeübten Querkräfte in Kombination mit dem Eindringen in das Schotterbett führten zu einer Verschiebung des Gleisrostes nach links. 
 
 Im  Anschluss  überkletterte  der  entgleiste  Radsatz  die  Zungenschiene,  wodurch  das  entgleiste 
 Fahrwerk wieder zur linken Fahrschiene zurück gelaufen ist. Das entgleiste Fahrwerk hatte damit 
@@ -956,15 +917,12 @@ Schwellen  weiter  war  der  Gleisrost  bereits  weitgehend  zerstört, keine  S
 vorhanden und damit keine weitere Spurführung möglich. Auf den folgenden ca. 200 m bis in den 
 Herzstückbereich der Weiche 603 war faktisch kein Gleis mehr vorhanden. 
 
-Da die ersten beiden auf den führenden Triebkopf folgenden Mittelwagen nicht entgleist sind, müs­
-sen diese beiden Fahrzeuge beim Verlassen der Weiche 602 ein zumindest noch spurführungsfä­
-higes  Gleis  vorgefunden  haben.  Beginnend  mit  dem  3.  auf  den  Triebkopf  folgenden  Mittelwagen 
+Da die ersten beiden auf den führenden Triebkopf folgenden Mittelwagen nicht entgleist sind, müssen diese beiden Fahrzeuge beim Verlassen der Weiche 602 ein zumindest noch spurführungsfähiges  Gleis  vorgefunden  haben.  Beginnend  mit  dem  3.  auf  den  Triebkopf  folgenden  Mittelwagen 
 sind dann jedoch alle Fahrzeuge entgleist. 
 
 Der ICE 885 kam um 21:05:11* Uhr in km 252,432 zum Halten. 
 
-Anmerkung: * Die der Datenspeicherkassette entnommenen Zeitwerte entsprechen nicht der Echt­
-zeit 
+Anmerkung: * Die der Datenspeicherkassette entnommenen Zeitwerte entsprechen nicht der Echtzeit 
 
 # Höhe des Schadens, Anzahl Tote und Verletzte
 Von  den  148  Zuginsassen  wurden  21  Reisende  sowie  der  Triebfahrzeugführer  schwer  verletzt,  13  
@@ -1007,8 +965,7 @@ erhebliche Staubbildung; starke Geruchsbelästigung durch Tierkadaver
 Die  Entgleisung  des ICE  885  kann  auf  folgende  Ursachen  zurück geführt  werden:  
 
 1.	   Eine   mögliche   Ursache   ist   eine   Entgleisung   durch   direktes   Einwirken   der   Schafe   auf  
-den  Triebkopf.  Nach  der  Simulationsrechnung  sind  9  -13  Schafe  mit  einer  Gesamtmas­
-se  von  900  kg  bis 1  300  kg  in  der  betrachteten  Fahrsituation  ausreichend,  um  eine  voll
+den  Triebkopf.  Nach  der  Simulationsrechnung  sind  9  -13  Schafe  mit  einer  Gesamtmasse  von  900  kg  bis 1  300  kg  in  der  betrachteten  Fahrsituation  ausreichend,  um  eine  voll
 ständige   Radentlastung   zu   erzeugen.   Insgesamt   wurden   Tierkadaver   mit   einer   Ge
 samtmasse  von  3.700  kg  im  Bereich  der  Entgleisungsstelle  festgestellt.  
 
@@ -1044,8 +1001,7 @@ Richtung  Berlin-Blankenburg  durchfahrenden  Zug  RE  38399  und  dem  ebenfall
 in  Richtung  Berlin-Blankenburg  ausfahrenden  Zug  FTZ  53185.  Der  FTZ  53185  
 
 
-war nach Fplo 10710 nur an diesem Tag in Richtung Berlin-Blankenburg durch­
-
+war nach Fplo 10710 nur an diesem Tag in Richtung Berlin-Blankenburg durch
 fahrend. 
 
 
@@ -1064,14 +1020,12 @@ mit einer geschätzten Schadenshöhe von ca. 800 T€ zu verzeichnen.
 Es wurden 11 Reisende leicht verletzt und 2 Mitarbeiter schwer verletzt. 
 
 
-Auslöser  der  Ereigniskette  war  die  nicht  Beachtung  der  gültigen  Fahrplanord­
-
+Auslöser  der  Ereigniskette  war  die  nicht  Beachtung  der  gültigen  Fahrplanord
 nung,  bzw.  geänderten  Fahrplanordnung  Fplo  10710  für  den  16.04.2009,  mit 
 
 dem  geänderten  Fahrweg  für  FTZ  53185,  das  nicht  anhalten  des  Güterzuges 
 
-nach  erkennen  des  falsch  eingestellten  Fahrwegs  sowie  die  nicht  ordnungsge­
-
+nach  erkennen  des  falsch  eingestellten  Fahrwegs  sowie  die  nicht  ordnungsge
 mäßig durchgeführte Fahrwegprüfung. 
 
 Der folgenden Abbildung 1 kann die Stellung der Fahrzeuge nach dem Ereignis 
@@ -1096,28 +1050,22 @@ In der Folge wurde die Zahl der Schwerverletzten seitens der DB Netz AG auf
 
 Schockzustand mehrere Tage im Krankenhaus behandelt werden musste. 
 
-Als  Betriebserschwerniskosten  wurde  durch  die  für  die  Betriebsführung  ver­
-
+Als  Betriebserschwerniskosten  wurde  durch  die  für  die  Betriebsführung  ver
 antwortliche DB Netz AG ein Betrag von ca. 111 T€ angegeben. 
 
-Der  geschätzte  Sachschaden  (Angaben  der  DB  Netz  AG  im  Untersuchungs­
-
+Der  geschätzte  Sachschaden  (Angaben  der  DB  Netz  AG  im  Untersuchungs
 bericht) an den Schienenfahrzeugen beträgt ca. 510 T€ und an den baulichen 
 
 Anlagen ca. 260 T€. 
 
 # Ursachen des Unfalls 
 
-Im  Rahmen  der  Sachverhaltsermittlung vor Ort und den weiterführenden Un­
-
-tersuchungen konnte die Ursache des Zusammenstoßes und der Ereignisver­
-
+Im  Rahmen  der  Sachverhaltsermittlung vor Ort und den weiterführenden Un
+tersuchungen konnte die Ursache des Zusammenstoßes und der Ereignisver
 lauf ermittelt werden. 
 
-Das Ereignis ist letztendlich in einer Verkettung der folgend dargestellten be­
-
-trieblichen Fehlhandlungen begründet, die durch die nicht Beachtung der gül­
-
+Das Ereignis ist letztendlich in einer Verkettung der folgend dargestellten be
+trieblichen Fehlhandlungen begründet, die durch die nicht Beachtung der gül
 tigen Fahrplananordnung ausgelöst wurde: 
 
 1.  	 Betriebliche  Fehlhandlung  des  Triebfahrzeugführers  des  Güterzuges, 
@@ -1126,11 +1074,7 @@ da  dieser  nach  erkennen  der  Fehlleitung  anhand  der  Signalstellung
 
 von ESig 136 seinen Zug nicht sofort angehalten hatte, 
 
-2. 	 Betriebliche Fehlhandlung des Fdl Karow, da dieser die  falsch einge­
-
-stellte  Fahrstraße  auflöste  ohne  dass  der  Zug  zum  halten  gekommen 
-
-war 
+2. 	 Betriebliche Fehlhandlung des Fdl Karow, da dieser die  falsch eingestellte  Fahrstraße  auflöste  ohne  dass  der  Zug  zum  halten  gekommen war 
 
 3. 	 unzureichende Fahrwegprüfung des Fdl Karow 
 
@@ -1150,8 +1094,7 @@ auf den Signalhaltfall des Ausfahrsignals 132 den Zusammenstoß begünstigt.
 
 So hätte ein früherer Signalhalt hinter dem Ausfahrsignal 132 die Kollision 
 
-womöglich verhindert zumindest wäre die Kollision mit verminderter Ge­
-
+womöglich verhindert zumindest wäre die Kollision mit verminderter Ge
 schwindigkeit erfolgt. An Hand der Fahrtverlaufsaufzeichnungen beider Züge 
 
 lässt sich nachweisen, dass sich zum Haltfall des Asig 132 (ausgelöst durch 
@@ -1162,8 +1105,7 @@ vor dem Umbau), die Zugspitze des nachfahrenden RE 38399 ca. 250 m vor
 
 dem Esig 136 befunden hätte. 
 
-Damit hätte der nachfahrende RE 38399 am Esig 136 als Mehrabschnittssig­
-
+Damit hätte der nachfahrende RE 38399 am Esig 136 als Mehrabschnittssig
 nal lediglich einen Fahrtbegriff für die Einfahrt und ein „Halt erwarten“ für die 
 
 Ausfahrt am Asig 132, signalisiert bekommen. 
@@ -1342,15 +1284,12 @@ Untersuchungsbericht
 
 # Hergang des Unfalls 
 
-Am 20.01.2010 kollidierte um 7:37 Uhr die Regionalbahn 14955 auf der Strecke Braun­
-schweig Hbf – Bad Harzburg, zwischen der Abzweigstelle Leiferde und Braunschweig Hbf, 
+Am 20.01.2010 kollidierte um 7:37 Uhr die Regionalbahn 14955 auf der Strecke Braunschweig Hbf – Bad Harzburg, zwischen der Abzweigstelle Leiferde und Braunschweig Hbf, 
 im km 4,3, mit einem im Gleis stehenden Lkw. 
 
 Der Fahrer eines mit Getreide beladenen Lkw-Gespanns wollte im Ortsteil Rüningen auf das 
 Gelände  der  Getreidemühle  fahren.  Da  die  Einfahrt  durch  ein  geschlossenes  Tor  versperrt 
-war, befuhr er gegen 07:30 Uhr den unmittelbar neben der Einfahrt befindlichen Bahnüber­
-gang  im  Kilometer  4,353.  Zwischen  den  Schranken  bog  der  Fahrer  dann  mit seinem Fahrzeug  in  Richtung  Braunschweig  ab  und  fuhr  im  Gleis  weiter,  um  so  die  geschlossene  Ein­
-fahrt zur Getreidemühle zu umfahren. In etwa km 4,300 blieb der Lkw im Gleis stecken und 
+war, befuhr er gegen 07:30 Uhr den unmittelbar neben der Einfahrt befindlichen Bahnübergang  im  Kilometer  4,353.  Zwischen  den  Schranken  bog  der  Fahrer  dann  mit seinem Fahrzeug  in  Richtung  Braunschweig  ab  und  fuhr  im  Gleis  weiter,  um  so  die  geschlossene  Einfahrt zur Getreidemühle zu umfahren. In etwa km 4,300 blieb der Lkw im Gleis stecken und 
 blockierte beide Streckengleise. Der Fahrer verließ daraufhin sein Fahrzeug, um Hilfe herbei 
 zu rufen. 
 
@@ -1369,18 +1308,13 @@ Uhr eingetreten war.
 
 # Höhe des Schadens, Anzahl Tote und Verletzte 
 
-In Folge der Kollision entgleiste der führende Motorwagen 628 621 des zweiteiligen Diesel­
-triebwagens, stellte sich quer und rutschte in Fahrtrichtung rechts die Böschung hinab. Da­
-bei  wurden  16  Personen  verletzt,  3  von  ihnen  schwer.  Es  entstand  ein  geschätzter  Sach­
-schaden in Höhe von ca. 2.264.000,00 €. 
+In Folge der Kollision entgleiste der führende Motorwagen 628 621 des zweiteiligen Dieseltriebwagens, stellte sich quer und rutschte in Fahrtrichtung rechts die Böschung hinab. Dabei  wurden  16  Personen  verletzt,  3  von  ihnen  schwer.  Es  entstand  ein  geschätzter  Sachschaden in Höhe von ca. 2.264.000,00 €. 
 
 In  Folge  der  heftigen  Kollision  mit  dem  Lkw  –  Gespann  entgleiste  die  Regionalbahn.  Der 
 vordere Teil des zweiteiligen Triebwagens, rutsche eine Böschung hinab und kam auf einem 
 angrenzenden  Feld  zum  Stehen. Hierbei  wurden  3  der  ca.  60  Insassen  des  Zuges  schwer 
-und 13 weitere Personen leicht verletzt. Der Triebwagen wurde durch den Aufprall stark be­
-schädigt.  Es  liefen  ca.  800  Liter  Dieselkraftstoff  aus  und  kontaminierten  das  Erdreich.  An 
-den Bahnanlagen entstand erheblicher Sachschaden. Der Lkw wurde bei der Kollision nahe­
-zu völlig zerstört. 
+und 13 weitere Personen leicht verletzt. Der Triebwagen wurde durch den Aufprall stark beschädigt.  Es  liefen  ca.  800  Liter  Dieselkraftstoff  aus  und  kontaminierten  das  Erdreich.  An 
+den Bahnanlagen entstand erheblicher Sachschaden. Der Lkw wurde bei der Kollision nahezu völlig zerstört. 
 
 Durch  die  Deutsche  Bahn  AG  wird  der  geschätzte  Sachschaden  wie  folgt  beziffert:  
 
@@ -1436,27 +1370,27 @@ Bei  der  Einfahrt  nach  Gleis  2  des  Bahnhofs  Gelsenkirchen-Horst  Nord  en
 
 Am 07.04.2010 sollte gegen 19:10 Uhr Zug 223422 von der Anschlussstelle VEBA kommend nach Gleis 2 des Bahnhofs Gelsenkirchen-Horst Nord einfahren. Die Weiterfahrt sollte dann unter der neuen Zugnummer FZT 54035 in Richtung Wanne Eickel erfolgen. 
 
-Der  aus  Richtung  der  ehemaligen  Zeche  Rheinbaben  (Name  der  benachbarten  Zugmelde­ stelle) kommende Zug soll planmäßig am Einfahrsignal F auf Signal Hp 1 – „Fahrt“ (entspre­ chend Richtlinie 301.0101 – Signalbuch) in den Bahnhof einfahren. 
+Der  aus  Richtung  der  ehemaligen  Zeche  Rheinbaben  (Name  der  benachbarten  Zugmeldestelle) kommende Zug soll planmäßig am Einfahrsignal F auf Signal Hp 1 – „Fahrt“ (entsprechend Richtlinie 301.0101 – Signalbuch) in den Bahnhof einfahren. 
 
 Da  dieses  Hauptsignal  seit  dem  08.01.2010  gestört  und  in  Folge  dessen  nicht  bedienbar  war,  erhielt  Zug  223422  einen  schriftlichen  Befehl  Nr.  2  zur  Vorbeifahrt  am  haltzeigenden  Einfahrsignal  F.  Wegen  Mängel  am  Oberbau  wurde  dem  Triebfahrzeugführer  auch  Befehl  Nr. 9 erteilt. Damit wurde die zulässige Geschwindigkeit zwischen km 7,3 und 7,2 auf Vmax. 20 km/h begrenzt. 
 
-Nach dem Halt des Zuges vor dem Einfahrsignal F, zur Übermittlung der schriftlichen Befehle, wurde die Fahrt gegen 19:09 Uhr in den Bahnhof Gelsenkirchen-Horst Nord fortgesetzt. Der  Zug  fuhr  dabei mit einer Geschwindigkeit von ca. 20 km/h nach Gleis 2 ein. Zum Zeit­ punkt, als der vorletzte Wagen die Einfahrweiche 62 befuhr, wurde diese von der Rechts- in  die Linkslage umgestellt. Der vordere Teil des Wagens fuhr deshalb mit dem ersten Drehge­ stell nach Gleis 2. Das hintere Drehgestell des vorletzten Wagens entgleiste dann auf Grund des Stellvorgangs noch innerhalb der Weiche 62. Nach ca. 150 Meter Fahrweg stürzte der vorletzte Wagen schließlich in Höhe der Weiche 58 um. 
+Nach dem Halt des Zuges vor dem Einfahrsignal F, zur Übermittlung der schriftlichen Befehle, wurde die Fahrt gegen 19:09 Uhr in den Bahnhof Gelsenkirchen-Horst Nord fortgesetzt. Der  Zug  fuhr  dabei mit einer Geschwindigkeit von ca. 20 km/h nach Gleis 2 ein. Zum Zeitpunkt, als der vorletzte Wagen die Einfahrweiche 62 befuhr, wurde diese von der Rechts- in  die Linkslage umgestellt. Der vordere Teil des Wagens fuhr deshalb mit dem ersten Drehgestell nach Gleis 2. Das hintere Drehgestell des vorletzten Wagens entgleiste dann auf Grund des Stellvorgangs noch innerhalb der Weiche 62. Nach ca. 150 Meter Fahrweg stürzte der vorletzte Wagen schließlich in Höhe der Weiche 58 um. 
 
-Der letzte Wagen fuhr wegen der nun eingestellten Linkslage der Weiche 62 in Richtung des Gleises 3 weiter und entgleiste dabei ebenfalls mit der vorderen Achse des hinteren Drehge­ stells.
+Der letzte Wagen fuhr wegen der nun eingestellten Linkslage der Weiche 62 in Richtung des Gleises 3 weiter und entgleiste dabei ebenfalls mit der vorderen Achse des hinteren Drehgestells.
 
 # Höhe des Schadens, Anzahl Tote und Verletzte
 Personen wurden bei dem Unfall nicht verletzt. 
 
-In Folge der Entgleisung stürzte der vorletzte Wagen um. An dem mit Aceton (UN-Nr. 1090, Gefahrenklasse 3) beladenen Kesselwagen kam es zu Undichtigkeiten im Bereich des Über­ druckventils und an einer Flanschverbindung eines Verbindungsrohrs. Dadurch traten ca. 75 kg des Ladeguts aus. 
+In Folge der Entgleisung stürzte der vorletzte Wagen um. An dem mit Aceton (UN-Nr. 1090, Gefahrenklasse 3) beladenen Kesselwagen kam es zu Undichtigkeiten im Bereich des Überdruckventils und an einer Flanschverbindung eines Verbindungsrohrs. Dadurch traten ca. 75 kg des Ladeguts aus. 
 
 Durch die Entgleisung entstand ein Sachschaden von ca. 285.000 €.
 
 # Ursachen des Unfalls
 Die Entgleisung der beiden letzten Wagen wurde verursacht durch ein Umstellen der Weiche 62 von der Rechts- in die Linkslage unter dem vorletzten Wagen des Zuges. 
 
-Die Entgleisung des Zuges 223422 im Bahnhof Gelsenkirchen–Horst Nord wurde verursacht durch das unzeitige Umstellen der Weiche 62 unter dem vorletzten Wagen durch den Wei­ chenwärter des Stellwerks Hnw. 
+Die Entgleisung des Zuges 223422 im Bahnhof Gelsenkirchen–Horst Nord wurde verursacht durch das unzeitige Umstellen der Weiche 62 unter dem vorletzten Wagen durch den Weichenwärter des Stellwerks Hnw. 
 
-Möglich wurde  dies,  weil  die  einschlägigen  Vorschriften  der  Richtlinie  408.01-09  für  die Durchführung von Zugfahrten ohne Bedienung des Hauptsignals, sowie für das Auflösen von Zugfahrstraßen vom Weichenwärter Hnw und mit großer Wahrscheinlichkeit auch vom Fahr­ dienstleiter Hnf nicht beachtet wurden. 
+Möglich wurde  dies,  weil  die  einschlägigen  Vorschriften  der  Richtlinie  408.01-09  für  die Durchführung von Zugfahrten ohne Bedienung des Hauptsignals, sowie für das Auflösen von Zugfahrstraßen vom Weichenwärter Hnw und mit großer Wahrscheinlichkeit auch vom Fahrdienstleiter Hnf nicht beachtet wurden. 
 
 Durch  die  strikte  Einhaltung  dieser  Vorschriften  seitens  der  Beteiligten  wäre  der  Unfall  am 07.04.2010 vermeidbar gewesen, auch wenn die Zugfahrt auf Grund der Störung, ohne die Bedienung des Hauptsignals durchzuführen war. 
 
@@ -1673,19 +1607,15 @@ Zugkollision, Bahnhof Geldern am 07.08.2010
 Am  07.08.2010,  gegen  05:10  Uhr,  kollidierte  der  Bauzug  92744  der  DB  Fahrweg­dienste  GmbH  im  Bahnhof  Geldern  bei  der  Einfahrt  nach  Gleis  1  mit  einer  Gruppe 
 dort abgestellter Triebwagen der NordWestBahn GmbH.
 
-Am 07.08.2010 war im Bahnhof Geldern, im Gleis Geldern – Kevelaer und im Bf Ke­
-velaer, die Betriebs- und Bauanweisung (Betra) F 311254 10 in Kraft. 
+Am 07.08.2010 war im Bahnhof Geldern, im Gleis Geldern – Kevelaer und im Bf Kevelaer, die Betriebs- und Bauanweisung (Betra) F 311254 10 in Kraft. 
 
-Zwischen  den  Bahnhöfen  Geldern  und  Kevelaer  wurde  das  Streckengleis  ausge­
-tauscht. Dazu wurden das Streckengleis, sowie die Abschnitte von den Einfahrsigna­
-len  bis  zu  den  Einfahrweichen  der  angrenzenden  Bahnhöfe  Geldern  und  Kevelaer 
+Zwischen  den  Bahnhöfen  Geldern  und  Kevelaer  wurde  das  Streckengleis  ausgetauscht. Dazu wurden das Streckengleis, sowie die Abschnitte von den Einfahrsignalen  bis  zu  den  Einfahrweichen  der  angrenzenden  Bahnhöfe  Geldern  und  Kevelaer 
 vom  06.08.,  04:15  Uhr,  bis  zum  23.08.2010,  03:40  Uhr, durchgehend  gesperrt  und 
 zum Baugleis erklärt. 
 
 Wegen der Sperrung des eingleisigen Streckenabschnitts Geldern – Kevelaer war der 
 Bahnhof  Geldern  Zugend-  und  -anfangsbahnhof  für  Nahverkehrszüge  aus  und  in 
-Richtung  Krefeld  Hbf.  Aus  diesem  Grund wurden am Vortag insgesamt 10 Triebwa­
-gen der Baureihe VT 648 der NordWestBahn GmbH nach Geldern gefahren und im 
+Richtung  Krefeld  Hbf.  Aus  diesem  Grund wurden am Vortag insgesamt 10 Triebwagen der Baureihe VT 648 der NordWestBahn GmbH nach Geldern gefahren und im 
 Gleis 1 abgestellt. Am Folgetag sollten die Züge dann, dem Fahrplan entsprechend, 
 nach Gleis 2 umgesetzt werden und in Richtung Krefeld Hbf abfahren. 
 
@@ -1693,9 +1623,7 @@ Am Unfalltag fuhr Bauz 92744 von Neuss Gbf nach Geldern. Von dort sollte der Zug
 weiter  in  das  nach  Betra  F  311254  10  gesperrte  Streckengleis  Geldern  –  Kevelaer 
 fahren. 
 
-Die Einfahrt des Bauzuges in den Bahnhof Geldern wurde mit Fahrtstellung des Ein­
-fahrsignals A (Hp 1) nach Gleis 1 zugelassen. Der Zug fuhr gegen 05:10 Uhr mit ei­
-ner Geschwindigkeit von ca. 52 km/h in den Bahnhof ein. Als der Triebfahrzeugführer 
+Die Einfahrt des Bauzuges in den Bahnhof Geldern wurde mit Fahrtstellung des Einfahrsignals A (Hp 1) nach Gleis 1 zugelassen. Der Zug fuhr gegen 05:10 Uhr mit einer Geschwindigkeit von ca. 52 km/h in den Bahnhof ein. Als der Triebfahrzeugführer 
 die in Gleis 1 abgestellten Fahrzeuge erkannte, leitete er eine Schnellbremsung ein. 
 Die  Kollision  seines  Zuges  mit  den  abgestellten  Triebwagen  der  NordWestBahn 
 GmbH konnte er dadurch nicht verhindern. 
@@ -1704,10 +1632,8 @@ GmbH konnte er dadurch nicht verhindern.
 Bei  dem  Unfall  wurden  der  Triebfahrzeugführer  (Tf)  und  der  Arbeitszugführer  des 
 Bauzuges leicht verletzt. 
 
-Das Triebfahrzeug und der erste Wagen des Bauzuges, sowie die ersten drei Trieb­
-wagen  der  insgesamt  zehn  abgestellten  Fahrzeugeinheiten  entgleisen.  Es  entstand 
-erheblicher Sachschaden an Fahrzeugen und Bahnanlagen. Die Höhe des Gesamt­
-schadens  wurde  zum  Zeitpunkt  der  Berichtserstellung  auf  ca.  10,8  Millionen  EUR 
+Das Triebfahrzeug und der erste Wagen des Bauzuges, sowie die ersten drei Triebwagen  der  insgesamt  zehn  abgestellten  Fahrzeugeinheiten  entgleisen.  Es  entstand 
+erheblicher Sachschaden an Fahrzeugen und Bahnanlagen. Die Höhe des Gesamtschadens  wurde  zum  Zeitpunkt  der  Berichtserstellung  auf  ca.  10,8  Millionen  EUR 
 geschätzt. 
 
 Der  Sachschaden  an  den  Eisenbahnfahrzeugen  der  NordWestBahn  GmbH  konnte  
@@ -1720,38 +1646,24 @@ EUR benannt.
 
 
 Für  die  Schäden  an  den  Bahnanlagen  wurden  die  Kosten  für  Oberbau  auf  ca.  
-200.000 EUR, für Telekommunikationsanlagen auf ca. 30.000 EUR und für Signalan­
-lagen auf ca. 20.000 EUR geschätzt. 
+200.000 EUR, für Telekommunikationsanlagen auf ca. 30.000 EUR und für Signalanlagen auf ca. 20.000 EUR geschätzt. 
 
-Durch  die  Kollision  der  Fahrzeuge  traten  Betriebsstoffe  aus.  Das kontaminierte Erd­
-reich musste ausgetauscht werden. Die Schätzungen der Umweltweltschäden belau­
-fen sich auf ca. 300.000 EUR. 
+Durch  die  Kollision  der  Fahrzeuge  traten  Betriebsstoffe  aus.  Das kontaminierte Erdreich musste ausgetauscht werden. Die Schätzungen der Umweltweltschäden belaufen sich auf ca. 300.000 EUR. 
 
-Für die Einrichtung des Schienenersatzverkehrs (SEV) wurden ca. 20.000 EUR ver­
-anschlagt. 
+Für die Einrichtung des Schienenersatzverkehrs (SEV) wurden ca. 20.000 EUR veranschlagt. 
 
 # Ursachen des Unfalls
 Die Ursache der Zugkollision ist auf die unzulässige Einfahrt des Bauzuges in das mit 
-Fahrzeugen  besetzte  Gleis  1  zurückzuführen.  Ausschlaggebend  hierfür  waren  be­
-triebliche  Fehlhandlungen  der  örtlichen  Mitarbeiter  im  Bahnbetrieb  des  Bahnhofs 
+Fahrzeugen  besetzte  Gleis  1  zurückzuführen.  Ausschlaggebend  hierfür  waren  betriebliche  Fehlhandlungen  der  örtlichen  Mitarbeiter  im  Bahnbetrieb  des  Bahnhofs 
 Geldern. 
 
-Hilfssperren sind für den Bediener eines Stellwerks von enormer Bedeutung. Sie er­
-innern  den  Bediener  zum  Einen  an  eine  besondere  Betriebssituation  und  schützten 
-ihn  zum  Anderen  vor  Fehlbedienungen,  insbesondere  in  Zeiten  betrieblicher  Unre­
-gelmäßigkeiten.  Durch  das  Anbringen  von  Hilfssperren  an  den  entsprechenden  Be­
-dienelementen im Stellwerk wird eine mechanische Barriere erzeugt, die dem Bedie­
-ner ein unbedachtes oder unzeitiges Bedienen dieses Elements unmöglich macht. 
+Hilfssperren sind für den Bediener eines Stellwerks von enormer Bedeutung. Sie erinnern  den  Bediener  zum  Einen  an  eine  besondere  Betriebssituation  und  schützten 
+ihn  zum  Anderen  vor  Fehlbedienungen,  insbesondere  in  Zeiten  betrieblicher  Unregelmäßigkeiten.  Durch  das  Anbringen  von  Hilfssperren  an  den  entsprechenden  Bedienelementen im Stellwerk wird eine mechanische Barriere erzeugt, die dem Bediener ein unbedachtes oder unzeitiges Bedienen dieses Elements unmöglich macht. 
 
-Die  Richtlinie  408.0403  schreibt  vor,  an  welchen  Bedienelementen  Hilfssperren  an­
-zubringen sind. Die Bestimmungen der Richtlinie 408.0231, Abschn. 3 (8), in Verbin­
-dung mit den ÖRil weisen an, dass beim Besetzen des (Einfahr-) Gleises 1 im Bahn­
-hof Geldern eine Hilfssperre am Fahrstraßenhebel a1 durch den Fahrdienstleiter im­
-mer  und  durch  den  Weichenwärter,  wenn  in  seinem  Fahrwegprüfbezirk  Fahrzeuge 
+Die  Richtlinie  408.0403  schreibt  vor,  an  welchen  Bedienelementen  Hilfssperren  anzubringen sind. Die Bestimmungen der Richtlinie 408.0231, Abschn. 3 (8), in Verbindung mit den ÖRil weisen an, dass beim Besetzen des (Einfahr-) Gleises 1 im Bahnhof Geldern eine Hilfssperre am Fahrstraßenhebel a1 durch den Fahrdienstleiter immer  und  durch  den  Weichenwärter,  wenn  in  seinem  Fahrwegprüfbezirk  Fahrzeuge 
 abgestellt sind, anzubringen sind. 
 
-Ein  Nichtbeachten  dieser  Regeln  führt  zwangsläufig  zu  einer  Gefahr  für  den  Eisen­
-bahnbetrieb. 
+Ein  Nichtbeachten  dieser  Regeln  führt  zwangsläufig  zu  einer  Gefahr  für  den  Eisenbahnbetrieb. 
 
 Gleiches gilt auch für ein vorzeitiges oder unbedachtes Entfernen dieser Hilfssperren. 
 
@@ -1782,39 +1694,30 @@ Die Ursache der Zugkollision am 07.08.2010 ist zweifelsfrei auf Fehlhandlungen d
 07.08.2010  durch  die  Mitarbeiter  beider  Stellwerke  die  Bestimmungen  der  gültigen 
 Betra nicht beachtet. Bei der Arbeitsübernahme wurden die betrieblichen Unterlagen 
 nicht  eingesehen.  Auf  dem  Fahrdienstleiterstellwerk  wurde  die  zur  Kennzeichnung 
-des  besetzten  Einfahrgleises  angebrachte  Hilfssperre  entfernt,  ohne  die  erforderli­
-chen Feststellungen zur Prüfung des freien Fahrwegs zu treffen. 
+des  besetzten  Einfahrgleises  angebrachte  Hilfssperre  entfernt,  ohne  die  erforderlichen Feststellungen zur Prüfung des freien Fahrwegs zu treffen. 
 
-Begünstigend für die Entstehung des Unfalls wirkten auch Fehler der Mitarbeiter bei­
-der Stellwerke am Vortag, die im Zusammenhang mit der Arbeitsübergabe festgestellt 
+Begünstigend für die Entstehung des Unfalls wirkten auch Fehler der Mitarbeiter beider Stellwerke am Vortag, die im Zusammenhang mit der Arbeitsübergabe festgestellt 
 wurden.  Hierbei  wurden  die  betrieblichen  Besonderheiten,  die  aufgrund  der  Betra 
-bestanden, insbesondere das besetzte Einfahrgleis, nicht in die vorgesehenen Unter­
-lagen  eingetragen  und  somit  an  die  folgende  Dienstschicht  übergeben.  Die  für  die 
+bestanden, insbesondere das besetzte Einfahrgleis, nicht in die vorgesehenen Unterlagen  eingetragen  und  somit  an  die  folgende  Dienstschicht  übergeben.  Die  für  die 
 Betriebsdurchführung  notwendigen  Unterlagen  wurden  auf  den  Schreibtischen  nicht 
 offen hinterlegt. 
 
 Die  vom  EIU  erstellten  betrieblichen  Unterlagen,  wie  die  Örtlichen  Richtlinien  zur 
 Richtlinie  408.01-09,  waren  teilweise  fehlerbehaftet.  Durch  die  falsche  Angabe  der 
-Fahrwegprüfgrenze  für  den  Weichenwärter  des  Stellwerks  Gs  wurde  dieser,  zumin­
-dest formal, von der Verpflichtung eine Hilfssperre anzubringen, befreit. 
+Fahrwegprüfgrenze  für  den  Weichenwärter  des  Stellwerks  Gs  wurde  dieser,  zumindest formal, von der Verpflichtung eine Hilfssperre anzubringen, befreit. 
 
 Für die Entstehung des Unfalls sind die Fehler in den Örtlichen Richtlinien jedoch als 
 nicht ursächlich zu bewerten. 
 
-Gleiches  gilt  auch  für  die  Fehler,  die  im  Vorfeld  der  Betra  bei  der  Planung  des  Be­
-triebs gemacht wurden. Das Versäumnis, eine Zugfahrstraße nach Gleis 2 einzurich­
-ten, hat den Unfall weder begünstigt noch zwangsläufig nicht verhindert. 
+Gleiches  gilt  auch  für  die  Fehler,  die  im  Vorfeld  der  Betra  bei  der  Planung  des  Betriebs gemacht wurden. Das Versäumnis, eine Zugfahrstraße nach Gleis 2 einzurichten, hat den Unfall weder begünstigt noch zwangsläufig nicht verhindert. 
 
 Die  Zugkollision  hätte  jedoch  durch  das  Umsetzen  elementarer  Bestimmungen  des 
 gültigen Regelwerks verhindert werden können. Dabei wäre es wahrscheinlich schon 
 ausreichend gewesen, wenn nur einer der vier beteiligten Mitarbeiter konsequent das 
 Regelwerk  angewendet  hätte.  Da  die  beiden  Mitarbeiter einer Dienstschicht, sowohl 
-in der Spätschicht des 06.08. 2010, als  auch in der Frühschicht des 07.08.2010 teil­
-weise  die  gleichen  Fehler  machten,  war  die  Entstehung  des  Unfalls  nahezu  unaus­
-weichlich. 
+in der Spätschicht des 06.08. 2010, als  auch in der Frühschicht des 07.08.2010 teilweise  die  gleichen  Fehler  machten,  war  die  Entstehung  des  Unfalls  nahezu  unausweichlich. 
 
-Die  Tatsache,  dass  das  bestehende  Regelwerk,  insbesondere  zu  Themen  wie  Ar­
-beitsübergabe/  -nahme,  Kennzeichnung  besetzter  Einfahrgleise  und  Umgang  mit 
+Die  Tatsache,  dass  das  bestehende  Regelwerk,  insbesondere  zu  Themen  wie  Arbeitsübergabe/  -nahme,  Kennzeichnung  besetzter  Einfahrgleise  und  Umgang  mit 
 Hilfssperren,  teils  von  mehreren  Mitarbeitern  nicht  eingehalten  wurde,  lassen  den 
 Schluss  zu,  dass  die  Mitarbeiter,  trotz  der  unter  4.2.2  genannten  formalen  Eignung 
 zur  Dienstausübung,  teilweise  erhebliche  Defizite  bei  der  sicheren  Anwendung  des 
@@ -1953,8 +1856,7 @@ Zugkollision,  17.08.2010,  Neustadt (Weinstr.) - Lambrecht (Pfalz)
 
 Am  Dienstag,  17.08.2010,  um  10:06  Uhr,  kollidierte  der  ICE-W  9556  zwischen  Neustadt 
 
-(Weinstr.) und Lambrecht (Pfalz) in km 71,828 mit einem von der Lambrechter Straße abge­
-
+(Weinstr.) und Lambrecht (Pfalz) in km 71,828 mit einem von der Lambrechter Straße abge
 kommenen  Müllentsorgungsfahrzeug  (Lkw,  >  7,5  t,  3-achsig,  3.  Achse  zwillingsbereift, 
 
 Spurbreite 2,5 m). 
@@ -2013,8 +1915,7 @@ Von  den  ca.  320  Zuginsassen  wurden  15  Reisende,  der  Triebfahrzeugführe
 
 Mitarbeiter  des  Zugbegleitdienstes  leicht  verletzt.  Von  den  15  Leichtverletzten  wurden  7 
 
-Reisende  zur  Versorgung  in  das  Krankenhaus  verbracht,  8  Reisende  konnten  nach  Erst­
-
+Reisende  zur  Versorgung  in  das  Krankenhaus  verbracht,  8  Reisende  konnten  nach  Erst
 versorgung ihre Reise fortsetzen.  
 
 Reisende  wurden  aus  ICE  9556  evakuiert.  Schienenersatzverkehr  (SEV)  wurde  zwischen 
@@ -2723,96 +2624,64 @@ Zugentgleisung, 16.06.2010, Peine
 
 # Hergang des Unfalls
 Am  16.06.2010,  um  23:23  Uhr,  entgleiste  der  10.  Wagen  des  Güterzuges  DGS  93274 
-(Quedlinburg – Meppen)  der Mittelweserbahn (MWB) in der Weiche 202 des Bahnhofs Pei­
-ne. Infolge der Entgleisung wurde der 11. Wagen des mit Kies beladenen Ganzzuges in das 
+(Quedlinburg – Meppen)  der Mittelweserbahn (MWB) in der Weiche 202 des Bahnhofs Peine. Infolge der Entgleisung wurde der 11. Wagen des mit Kies beladenen Ganzzuges in das 
 Gegengleis gedrückt. Mehrere nachlaufende Wagen entgleisen ebenfalls. Gegen 23:24 Uhr 
-fuhr  der  Regionalexpress  RE-D  14019  (Rheine  –  Braunschweig  Hbf),  aus  Richtung  Hä­
-melerwald kommend, in den Bahnhof Peine ein. Nur wenige Meter hinter dem Einfahrsignal 
+fuhr  der  Regionalexpress  RE-D  14019  (Rheine  –  Braunschweig  Hbf),  aus  Richtung  Hämelerwald kommend, in den Bahnhof Peine ein. Nur wenige Meter hinter dem Einfahrsignal 
 kollidierte der Regionalexpress mit dem im Gleis befindlichen Wagen des Güterzuges. 
 
 Anhand der infrastrukturseitigen Entgleisungsspuren, der Aufzeichnungen der elektronischen 
-Fahrten-Registrierung (EFR), sowie den Sprachaufzeichnungen zwischen Triebfahrzeugfüh­
-rer und Fahrdienstleiter lässt sich der Unfallhergang rekonstruieren. Die Ergebnisse der ex­
-ternen Gutachten über Ursache und Verlauf der Entgleisung fließen in die Rekonstruktion mit 
+Fahrten-Registrierung (EFR), sowie den Sprachaufzeichnungen zwischen Triebfahrzeugführer und Fahrdienstleiter lässt sich der Unfallhergang rekonstruieren. Die Ergebnisse der externen Gutachten über Ursache und Verlauf der Entgleisung fließen in die Rekonstruktion mit 
 ein. 
 
-Am 16.06.2010 fuhr der Güterzug DSG 93274 von Quedlinburg nach Meppen. Der Zug be­
-stand  aus  zwei  Triebfahrzeugen  und  49  mit  Kies  beladenen  Schüttgutwagen  der  Gattung 
+Am 16.06.2010 fuhr der Güterzug DSG 93274 von Quedlinburg nach Meppen. Der Zug bestand  aus  zwei  Triebfahrzeugen  und  49  mit  Kies  beladenen  Schüttgutwagen  der  Gattung 
 Fccpps. Das Gesamtzuggewicht betrug 2.054 t. 
 
-Bei der Durchfahrt im Bahnhof Braunschweig Hbf fiel gegen 22:35 Uhr einem Lokrangierfüh­
-rer  im  Stellwerksbezirk  Ba,  im  vorderen  Zugteil  in  Fahrtrichtung  rechts,  Funkenflug  im  Be­
-reich eines Rades auf. Diese Feststellung meldete er dem Weichenwärter Ba, der den für die 
+Bei der Durchfahrt im Bahnhof Braunschweig Hbf fiel gegen 22:35 Uhr einem Lokrangierführer  im  Stellwerksbezirk  Ba,  im  vorderen  Zugteil  in  Fahrtrichtung  rechts,  Funkenflug  im  Bereich eines Rades auf. Diese Feststellung meldete er dem Weichenwärter Ba, der den für die 
 Zugfahrt  des  DSG  93274  zuständigen  Fahrdienstleiter  verständigte.  Der  Fahrdienstleiter 
-teilte  daraufhin  dem  Triebfahrzeugführer  mittels  Zugfunk  mit,  dass  sich vorn  im  Zug  wahr­
-scheinlich eine feste Bremse befinde und er den Zug deshalb vor dem Blocksignal der Ab­
-zweigstelle Braunschweig Gabelung anhalten werde. 
+teilte  daraufhin  dem  Triebfahrzeugführer  mittels  Zugfunk  mit,  dass  sich vorn  im  Zug  wahrscheinlich eine feste Bremse befinde und er den Zug deshalb vor dem Blocksignal der Abzweigstelle Braunschweig Gabelung anhalten werde. 
 
-Nachdem der Zug gegen 22:39 Uhr zum Halten gekommen war, untersuchte der Triebfahr­
-zeugführer  den  Zug.  Er  konnte  dabei  jedoch  keine  feste  Bremse  im  Zug  feststellen.  Dies 
+Nachdem der Zug gegen 22:39 Uhr zum Halten gekommen war, untersuchte der Triebfahrzeugführer  den  Zug.  Er  konnte  dabei  jedoch  keine  feste  Bremse  im  Zug  feststellen.  Dies 
 meldete der Triebfahrzeugführer dem Fahrdienstleiter. Die Fahrt des Zuges wurde daraufhin 
 gegen 22:58 Uhr fortgesetzt. 
 
-Um 23:12 Uhr durchfuhr der Zug den Bahnhof Vechelde. Dabei bemerkte der Fahrdienstlei­
-ter  in  Vechelde  ebenfalls  eine  starke  Funkenbildung  im  Zug.  Auch  er  zog  daraus  den 
-Schluss, dass es sich um eine feste Bremse handelt und versuchte deshalb den Triebfahr­
-zeugführer mittels Zugfunk darüber zu informieren. Nachdem zwei Versuche, eine Zugfunk­
-verbindung zum Triebfahrzeugführer herzustellen fehlschlugen, meldete der Fahrdienstleiter 
+Um 23:12 Uhr durchfuhr der Zug den Bahnhof Vechelde. Dabei bemerkte der Fahrdienstleiter  in  Vechelde  ebenfalls  eine  starke  Funkenbildung  im  Zug.  Auch  er  zog  daraus  den 
+Schluss, dass es sich um eine feste Bremse handelt und versuchte deshalb den Triebfahrzeugführer mittels Zugfunk darüber zu informieren. Nachdem zwei Versuche, eine Zugfunkverbindung zum Triebfahrzeugführer herzustellen fehlschlugen, meldete der Fahrdienstleiter 
 Vechelde seine Feststellungen dem Fahrdienstleiter des nächsten Bahnhofs in Peine. 
 
-Der Fahrdienstleiter in Peine entschloss sich zunächst, die Fahrt des Zuges über die Heiß­
-läufer- und Festbremsortungsanlage (HOA/FBOA) „Sierße“ in km 44,097 abzuwarten. 
+Der Fahrdienstleiter in Peine entschloss sich zunächst, die Fahrt des Zuges über die Heißläufer- und Festbremsortungsanlage (HOA/FBOA) „Sierße“ in km 44,097 abzuwarten. 
 
 Nachdem  Zug  93274  diese  Anlage  passiert  hatte  und  ein  Alarm  ausblieb,  entschied  der 
-Fahrdienstleiter in Peine, den Zug bis nach Hämelerwald fahren zu lassen und diesen wäh­
-rend  der  Durchfahrt  selbst  zu  beobachten.  Der  Fahrdienstleiter  stellte  daraufhin  die Durch­
-fahrt für Zug 93274 über die Gleise 141, 131, 111, 100, 001, 011 und 031 ein. 
+Fahrdienstleiter in Peine, den Zug bis nach Hämelerwald fahren zu lassen und diesen während  der  Durchfahrt  selbst  zu  beobachten.  Der  Fahrdienstleiter  stellte  daraufhin  die Durchfahrt für Zug 93274 über die Gleise 141, 131, 111, 100, 001, 011 und 031 ein. 
 
 Gegen 23:22 Uhr fuhr Zug 93274 am Stellwerk des Fahrdienstleiters in Peine vorbei. Dabei 
-stellte auch dieser den Funkenflug an einem rechten Rad im vorderen Zugteil fest. Der Fahr­
-dienstleiter  beauftrage  daraufhin  seinen  Helfer,  den  Fahrdienstleiter  in  Hämelerwald  zu  in­
-formieren,  dass  dieser  den  Zug  anhalten  soll.  Unmittelbar  danach  informierte  er  auch  den 
+stellte auch dieser den Funkenflug an einem rechten Rad im vorderen Zugteil fest. Der Fahrdienstleiter  beauftrage  daraufhin  seinen  Helfer,  den  Fahrdienstleiter  in  Hämelerwald  zu  informieren,  dass  dieser  den  Zug  anhalten  soll.  Unmittelbar  danach  informierte  er  auch  den 
 Triebfahrzeugführer mittels Zugfunk. 
 
 Im  Verlauf  dieses  Gesprächs  stellte  der  Fahrdienstleiter  eine  Signalstörung  fest  und  wenig 
 später  registrierte  der  Triebfahrzeugführer  einen  Druckabfall  in  der  Hauptluftleitung  seines 
-Zuges. Nachdem  der  Güterzug  dadurch  zum  Halten  gekommen  war,  teilte  der  Triebfahr­
-zeugführer dem Fahrdienstleiter mit, dass sein Zug stehe und er deshalb den Zug nochmals 
-untersuchen wolle. Kurz bevor beide das Zugfunkgespräch beendeten fuhr der Regionalex­
-press 14019 am Triebfahrzeug des Güterzuges vorbei. 
+Zuges. Nachdem  der  Güterzug  dadurch  zum  Halten  gekommen  war,  teilte  der  Triebfahrzeugführer dem Fahrdienstleiter mit, dass sein Zug stehe und er deshalb den Zug nochmals 
+untersuchen wolle. Kurz bevor beide das Zugfunkgespräch beendeten fuhr der Regionalexpress 14019 am Triebfahrzeug des Güterzuges vorbei. 
 
 Noch  während  des  Zugfunkgesprächs  zwischen  dem  Fahrdienstleiter  in  Peine  und  dem 
-Triebfahrzeugführer des Güterzuges war der vorlaufende Radsatz des 10. Wagen des Wa­
-genzuges in der spitz befahrenen Weiche 202 des Bahnhofs Peine entgleist. Die Weiche 202 
-ist  aufgrund  der  topografischen  Gegebenheit  vom  Standort  des  Fahrdienstleiters  nicht  ein­
-sehbar. 
+Triebfahrzeugführer des Güterzuges war der vorlaufende Radsatz des 10. Wagen des Wagenzuges in der spitz befahrenen Weiche 202 des Bahnhofs Peine entgleist. Die Weiche 202 
+ist  aufgrund  der  topografischen  Gegebenheit  vom  Standort  des  Fahrdienstleiters  nicht  einsehbar. 
 
-Beim Befahren der Weiche war das rechte Rad infolge des losen Radreifens im führungslo­
-sen  Teil  des  Herzstücks  in  Fahrtrichtung  nach  rechts  in  den  abzeigenden  Strang  abgeirrt. 
+Beim Befahren der Weiche war das rechte Rad infolge des losen Radreifens im führungslosen  Teil  des  Herzstücks  in  Fahrtrichtung  nach  rechts  in  den  abzeigenden  Strang  abgeirrt. 
 Anschließend wurde das Rad gewaltsam über die linke Schiene des abzweigenden Gleises 
-zurück  in  Richtung  der  ursprünglichen  Fahrbahn  gezogen  und  lief  mit  dem  nunmehr  eben­
-falls entgleisen linken Rad parallel rechtsseitig neben dem Gleis her. 
+zurück  in  Richtung  der  ursprünglichen  Fahrbahn  gezogen  und  lief  mit  dem  nunmehr  ebenfalls entgleisen linken Rad parallel rechtsseitig neben dem Gleis her. 
 
 Im  weiteren  Verlauf  der  Fahrt  prallte  der  im  Schotterbett  laufende  und  immer  weiter  nach 
 rechts driftende Wagen mit der rechten vorderen Fahrzeugecke gegen einen im gesperrten 
-Streckengleis Richtung Stederdorf stehenden Prellbock. Dabei wurde der umstürzende Wa­
-gen quer zur Fahrtrichtung gedreht. Der nachfolgende 11. Wagen kippte daraufhin ebenfalls 
+Streckengleis Richtung Stederdorf stehenden Prellbock. Dabei wurde der umstürzende Wagen quer zur Fahrtrichtung gedreht. Der nachfolgende 11. Wagen kippte daraufhin ebenfalls 
 um und wurde in das Gegengleis gedrückt. Die Wagen 12 und 13 entgleisen. Die Wagen 14 
 und  15  kippten  nach  links  in  den  Regellichtraum  des  Gegengleises.  Die  Wagen  16  und  17 
-entgleisen in Fahrtrichtung nach rechts und gerieten in Schräglage. Der 18. Wagen entgleis­
-te und blieb aufrecht stehen. 
+entgleisen in Fahrtrichtung nach rechts und gerieten in Schräglage. Der 18. Wagen entgleiste und blieb aufrecht stehen. 
 
 Infolge der Entgleisung kam es zwischen dem 9. und 10. Wagen zu einer Zugtrennung. Die 
-Schraubenkupplung hat sich hierbei selbsttätig entkoppelt, die Hauptluftleitung wurde unter­
-brochen. Die Spitze des vorderen Zugteils, der aus zwei Triebfahrzeugen und 9 Wagen be­
-stand, kam ca. in km 33,82 zum Stillstand. 
+Schraubenkupplung hat sich hierbei selbsttätig entkoppelt, die Hauptluftleitung wurde unterbrochen. Die Spitze des vorderen Zugteils, der aus zwei Triebfahrzeugen und 9 Wagen bestand, kam ca. in km 33,82 zum Stillstand. 
 
-Der Regionalexpress RE-D 14019 verließ gegen 23:22 Uhr den Haltepunkt Vöhrum in Rich­
-tung Peine. Gegen 23:24 Uhr fuhr der Zug am Einfahrsignal A 152 des Bahnhofs Peine vor­
-bei. Mit einer Geschwindigkeit von 98 km/h prallte das Triebfahrzeug frontal, ca. 100 Meter 
-hinter  dem  Einfahrsignal,  in  km  34,03,  auf  den  im  Gleis  stehenden  11.  Wagen  des  Güter­
-zugs. Infolge der Kollision entgleisen das Triebfahrzeug und die beiden folgenden Doppel­
-stockwagen in Fahrtrichtung nach rechts. Die Lokomotive und der erste Wagen stürzten die 
+Der Regionalexpress RE-D 14019 verließ gegen 23:22 Uhr den Haltepunkt Vöhrum in Richtung Peine. Gegen 23:24 Uhr fuhr der Zug am Einfahrsignal A 152 des Bahnhofs Peine vorbei. Mit einer Geschwindigkeit von 98 km/h prallte das Triebfahrzeug frontal, ca. 100 Meter 
+hinter  dem  Einfahrsignal,  in  km  34,03,  auf  den  im  Gleis  stehenden  11.  Wagen  des  Güterzugs. Infolge der Kollision entgleisen das Triebfahrzeug und die beiden folgenden Doppelstockwagen in Fahrtrichtung nach rechts. Die Lokomotive und der erste Wagen stürzten die 
 Böschung  hinab  und  kippten  fast  vollständig  nach  rechts  auf  die  Seite.  Der  zweite  Wagen 
 geriet in Schräglage. Die Wagen drei bis fünf entgleisen nicht. 
 
@@ -2826,9 +2695,7 @@ Durch die Zugkollision wurden der Triebfahrzeugführer des RE-D 14019 schwer,
 ein Zugbegleiter und 18 Reisende dieses Zuges leicht verletzt. 
 
 Aus  dem  Zugverband  des  Güterzuges  entgleisen  9  Wagen.  Davon  wurden  einige  zerstört 
-bzw. stark beschädigt. Für den Verlust dieser Wagen entstand dem Fahrzeughalter voestal­
-pine Railpro BV ein Sachschaden von 450.000,00 Euro. Der Gesamtschaden für den Fahr­
-zeughalter  beläuft  sich  nach  zwischenzeitlichen  Schätzungen  des  Unternehmens  auf  ca. 
+bzw. stark beschädigt. Für den Verlust dieser Wagen entstand dem Fahrzeughalter voestalpine Railpro BV ein Sachschaden von 450.000,00 Euro. Der Gesamtschaden für den Fahrzeughalter  beläuft  sich  nach  zwischenzeitlichen  Schätzungen  des  Unternehmens  auf  ca. 
 1.223.000,00 Euro zzgl. Zinsen. 
 
 Die Mittelwesenbahn GmbH bezifferte den ihr entstandenen Schaden auf 52.000,00 Euro. 
@@ -2861,16 +2728,13 @@ des Radreifens um den Felgenkranz nicht dauerhaft wirksam, so dass es zu Verdreh
 bis hin zum kompletten Lösen des Radreifens kam. Mögliche Ursachen hierfür könnten 
 ein  zu  kleines  oder  zu  großes  Schrumpfsitzübermaße,  hervorgerufen  durch  ein  zu 
 kleines bzw. zu großes Schrumpfmaß beim Ausdrehen des Radreifens oder 
-eine raue Oberfläche der Reifenbohrung bzw. des Felgenkranzes mit einer Reduzie­
-rung des Schrumpfsitzübermaßes durch Abplattung der Gratkanten der Drehriefen 
-gewesen  sein.  Eine  Überhitzung  des  Radreifens  wurde,  lt.  Prüfbericht  10-P-12415-TTZ35­
-PR-1540  vom  15.11.2010,  als  Ursache  ausgeschlossen. Geometrische  Abweichungen  in 
+eine raue Oberfläche der Reifenbohrung bzw. des Felgenkranzes mit einer Reduzierung des Schrumpfsitzübermaßes durch Abplattung der Gratkanten der Drehriefen 
+gewesen  sein.  Eine  Überhitzung  des  Radreifens  wurde,  lt.  Prüfbericht  10-P-12415-TTZ35PR-1540  vom  15.11.2010,  als  Ursache  ausgeschlossen. Geometrische  Abweichungen  in 
 den Formtoleranzen bei der Fertigung des Radsatzes waren nicht mehr feststellbar. 
 
 Die Zugkollision des Regionalexpress RE-D 14019 war Folge der Güterzugentgleisung. 
 
-Die Entgleisung des Güterzuges wäre vermeidbar gewesen, wenn die Wagen mit nicht ein­
-deutig erkennbaren Verdrehmarkierungen bei der letzten Wagenprüfung entsprechend dem 
+Die Entgleisung des Güterzuges wäre vermeidbar gewesen, wenn die Wagen mit nicht eindeutig erkennbaren Verdrehmarkierungen bei der letzten Wagenprüfung entsprechend dem 
 Regelwerk  ausgesetzt  worden  wären.  Da  der  Farbanstrich  der  Verdrehmarkierungen  am 
 verursach
 
@@ -3073,7 +2937,7 @@ Gemäß Stellungnahme des Fdl sollte nach Einfahrt des Zuges über die Nahbedien
 
 In  der  Folge  entgleiste  beim  Befahren  der  Weiche  gegen  5:51  Uhr  der  Reisezug  bei  einer Geschwindigkeit von etwa 38 km/h. 
 
-Dabei  fuhr  das  erste  Drehgestell  des  Tfz  nach  Gleis  10,  das  zweite  Drehgestell  sowie  das  erste  Drehgestell  des  folgenden  Wagens  gerieten  nichtspurgeführt  zwischen  die  Gleise  9 und 10. Die folgenden fünf noch die Weiche passierenden Drehgestelle fuhren ohne zu ent­ gleisen  nach  Gleis  9.  Der  Triebfahrzeugführer  (Tf)  leitete  sofort  nach  der  bemerkten  Unregelmäßigkeit  eine  Schnellbremsung  ein  und  setzte  mittels  Notruf  einen  Nothaltauftrag  ab. 
+Dabei  fuhr  das  erste  Drehgestell  des  Tfz  nach  Gleis  10,  das  zweite  Drehgestell  sowie  das  erste  Drehgestell  des  folgenden  Wagens  gerieten  nichtspurgeführt  zwischen  die  Gleise  9 und 10. Die folgenden fünf noch die Weiche passierenden Drehgestelle fuhren ohne zu entgleisen  nach  Gleis  9.  Der  Triebfahrzeugführer  (Tf)  leitete  sofort  nach  der  bemerkten  Unregelmäßigkeit  eine  Schnellbremsung  ein  und  setzte  mittels  Notruf  einen  Nothaltauftrag  ab. 
 
 Etwa 70m hinter der Entgleisungsstelle kam die Fahrt zum Stillstand. Zu einer Zugtrennung kam es nicht. 
 
@@ -3143,7 +3007,7 @@ ca.
 # Ursachen des Unfalls 
 Ursächlich für die Entgleisung war die sich unter der bewegten Zugfahrt umstellende Weiche W11230.  In  der  Folge  fuhr  das  erste  Drehgestell  des  Tfz  auf  dem  planmäßigen  Fahrweg  nach Gleis 10. Das zweite Drehgestell geriet aufgrund der abliegenden Weichenzungen aus der Spur-führung und somit zwischen die beiden Backenschienen. 
 
-Die Weiche konnte umlaufen, da die eingestellte Zugfahrstraße vorzeitig mittels Fahrstraßen­ hilfsauflösung aufgelöst und die Weiche aufgrund einer programmierten Vorzugslage für die andere Stellung den Umstellbefehl bekam. 
+Die Weiche konnte umlaufen, da die eingestellte Zugfahrstraße vorzeitig mittels Fahrstraßenhilfsauflösung aufgelöst und die Weiche aufgrund einer programmierten Vorzugslage für die andere Stellung den Umstellbefehl bekam. 
 
 Primär  unfallursächlich  ist  das  Anstoßen  der  FHA  ohne  die  notwendigen  Voraussetzungen  geschaffen zu haben. An dieser Stelle gibt die Ril 408.0251 Abschnitt 4 (1) eine eindeutige Handlungsanweisung für den Bediener: 
 
@@ -3151,35 +3015,35 @@ Primär  unfallursächlich  ist  das  Anstoßen  der  FHA  ohne  die  notwendige
 
 Da  sich  der  Zug  DPN  82952  noch  in  Bewegung  vor  den  o.g.  Zielpunkten  befand,  war  die FHA-Bedienung unzulässig. 
 
-Dennoch  kommen  einige  sekundäre  Ursachen,  welche  den  Ereigniseintritt  teilweise  ent­ schiedend begünstigten, zur Wirkung: 
+Dennoch  kommen  einige  sekundäre  Ursachen,  welche  den  Ereigniseintritt  teilweise  entschiedend begünstigten, zur Wirkung: 
 
 I. 	 Die Wahl des Betriebskonzeptes in Verbindung mit der Anordnung der verschiedenen Halteplätze ohne automatische Fahrstraßenauflösung. 
 
 Die  Wahl  des  Betriebskonzeptes  ist  insofern  mangelhaft,  als  dass  das Wenden von Zügen  an  den  ersten  drei  gewöhnlichen  Halteplätzen  (H-Tafeln  mit  Zusatzschild 320m, 290m und 140m) im Regelbetrieb nicht abzuwickeln ist. 
 
-Die  gewählte  Anordnung  der  drei  gewöhnlichen  Halteplätzen  (H-Tafeln  mit  Zusatz­ schild 320m, 290m und 140m) in Verbindung mit der Gleisfreimeldeeinrichtung führt dazu, dass sich die Fahrstraße mit dazugehörigem D-Weg nicht automatisch auflöst. 
+Die  gewählte  Anordnung  der  drei  gewöhnlichen  Halteplätzen  (H-Tafeln  mit  Zusatzschild 320m, 290m und 140m) in Verbindung mit der Gleisfreimeldeeinrichtung führt dazu, dass sich die Fahrstraße mit dazugehörigem D-Weg nicht automatisch auflöst. 
 
 Dies  hat  zur  Folge,  dass  der  Betrieb,  für  den  Fall  dass  die  Fahrten  nach  dem  Halt nicht in Richtung Asig 11P10 weiterfahren, in dem in Rede stehenden Teilbereich des Bahnhofs nicht fortgesetzt werden kann. 
 
 II. 	 Der Zwang des Fdl zur besonderen Mitwirkung bei der Fahrstraßenauflösung 
 
-Durch die beschriebenen Umstände waren die Fdl gezwungen die Fahrstraße durch eigenes  Mitwirken  aufzulösen.  Dadurch  wurde  die  FHA-Bedienung  beim  Stellwerks­ personal üblich. Da in Bremen Hbf etwa 15 Züge am Tag in Gleis 10 wenden, wurde diese Hilfsbedienhandlung jedoch regelmäßig seit mehreren Jahren angewandt. 
+Durch die beschriebenen Umstände waren die Fdl gezwungen die Fahrstraße durch eigenes  Mitwirken  aufzulösen.  Dadurch  wurde  die  FHA-Bedienung  beim  Stellwerkspersonal üblich. Da in Bremen Hbf etwa 15 Züge am Tag in Gleis 10 wenden, wurde diese Hilfsbedienhandlung jedoch regelmäßig seit mehreren Jahren angewandt. 
 
-Eine Hilfsbedienhandlung darf niemals im Regelbetrieb Anwendung finden. Hilfsbedi­ enhandlungen sind ausschließlich im Störungsfall oder im geringen Umfang im Rah­ men von Bauarbeiten zulässig. 
+Eine Hilfsbedienhandlung darf niemals im Regelbetrieb Anwendung finden. Hilfsbedienhandlungen sind ausschließlich im Störungsfall oder im geringen Umfang im Rahmen von Bauarbeiten zulässig. 
 
-Mittels  der  FHA  wurde  die  Sicherheitsphilosophie  der  Stellwerkstechnik,  die  einge­ stellte Zugfahrstraße so lange unter Verschluss zu halten bis der Zug seinen gewöhn­ lichen  Halteplatz  erreicht  hat,  außer  Kraft  gesetzt  und  durch  die  Rückfallebene Mensch  ersetzt.  Da  die  Fehlerquote  eines  Menschen  („menschlicher  Faktor“)  höher liegt  als  die  eines  ausgereiften  technischen  Systems,  sollten  Hilfsbedienhandlungen die Ausnahme stellen. Es ist davon auszugehen, dass durch die „inflationäre Nut­ zung“ der FHA-Bedienung die Aufmerksamkeit und Bewusstheit des Handelns beim Bediener an Bedeutung verlor. 
+Mittels  der  FHA  wurde  die  Sicherheitsphilosophie  der  Stellwerkstechnik,  die  eingestellte Zugfahrstraße so lange unter Verschluss zu halten bis der Zug seinen gewöhnlichen  Halteplatz  erreicht  hat,  außer  Kraft  gesetzt  und  durch  die  Rückfallebene Mensch  ersetzt.  Da  die  Fehlerquote  eines  Menschen  („menschlicher  Faktor“)  höher liegt  als  die  eines  ausgereiften  technischen  Systems,  sollten  Hilfsbedienhandlungen die Ausnahme stellen. Es ist davon auszugehen, dass durch die „inflationäre Nutzung“ der FHA-Bedienung die Aufmerksamkeit und Bewusstheit des Handelns beim Bediener an Bedeutung verlor. 
 
 III. 	 Das zeitliche Andauern dieses Betriebskonzeptes 
 
-Das bestehende Betriebskonzept wurde über einen Zeitraum von mindestens 8 Jah­ ren in der Art angewandt. Die daraus entstehende betriebliche Problematik fand kei­ ne Berücksichtigung. 
+Das bestehende Betriebskonzept wurde über einen Zeitraum von mindestens 8 Jahren in der Art angewandt. Die daraus entstehende betriebliche Problematik fand keine Berücksichtigung. 
 
 IV. 	 Die Duldung der regelmäßigen Hilfsbedienung durch das Aufsichtspersonal 
 
-Auch  aufgrund  des  zeitlichen  Bestandes  des  Betriebskonzeptes  ist  davon  auszuge­ hen,  dass  die  zuständigen  betrieblichen  Kontrollinstanzen  den  beschriebenen  Um­ stand geduldet haben. 
+Auch  aufgrund  des  zeitlichen  Bestandes  des  Betriebskonzeptes  ist  davon  auszugehen,  dass  die  zuständigen  betrieblichen  Kontrollinstanzen  den  beschriebenen  Umstand geduldet haben. 
 
 V. 	 Das Umlaufen einer Weiche in eine Vorzugslage bei Hilfsbedienhandlungen 
 
-Das Umlaufen der Weiche war letztendlich eine unglückliche Begleiterscheinung der Sekundärursachenverkettung. Dennoch ist an dieser Stelle grundsätzlich in Frage zu stellen, warum eine Weiche im Rahmen einer Hilfsbedienhandlung in eine Vorzugs­ lage  läuft  bzw.  laufen  muss?  In  vielen  Fällen  gestaltet  sich  die  Tätigkeit  des  Bedie­ ners dadurch aufwendiger (z.B. beim Auflösen und anschließendem „manuellen“ Ein­ stellen einer zuvor nicht ordnungsgemäß eingelaufenen Fahrstraße). 
+Das Umlaufen der Weiche war letztendlich eine unglückliche Begleiterscheinung der Sekundärursachenverkettung. Dennoch ist an dieser Stelle grundsätzlich in Frage zu stellen, warum eine Weiche im Rahmen einer Hilfsbedienhandlung in eine Vorzugslage  läuft  bzw.  laufen  muss?  In  vielen  Fällen  gestaltet  sich  die  Tätigkeit  des  Bedieners dadurch aufwendiger (z.B. beim Auflösen und anschließendem „manuellen“ Einstellen einer zuvor nicht ordnungsgemäß eingelaufenen Fahrstraße). 
 
 ---
 file: 050_Bad Laasphe - Erndtebrück.txt
@@ -3240,15 +3104,11 @@ betrifft Unternehmen
 
 1 
 Im Rahmen der Planung und Zulassung von BÜSA, 
-Eisenbahninfrastruktur­
-sollte im Ergebnis einer Risikobetrachtung die An­
-unternehmen 
+Eisenbahninfrastruktursollte im Ergebnis einer Risikobetrachtung die Anunternehmen 
 
 wendung der technischen BÜ-Sicherungen gem. § 11 
 Abs. 6 EBO konkretisiert und  -  mit der Zielstellung 
-Schadensausmaße aufgrund liegengebliebener Fahr­
-zeuge im Gefahrenraum des BÜ möglichst zu minimie­
-ren - modifiziert werden. 
+Schadensausmaße aufgrund liegengebliebener Fahrzeuge im Gefahrenraum des BÜ möglichst zu minimieren - modifiziert werden. 
 
 ---
 file: 052_Düsseldorf_Derendorf.txt
@@ -3284,34 +3144,26 @@ Untersuchungsbericht
 Entgleisung am 24.07.2012
 
 IC  2312  fährt  um  11:36:45  Uhr  laut  EFR  des  führenden  Steuerwagens  61  80  80-91  127-3 
-aus Gleis 10 auf Hauptsignal (Asig N 531) in Richtung Stuttgart Zuffenhausen aus. Das Sig­
-nalbild  zeigt  „Hp2“.  Die  eingestellte  Fahrstraße  führt  über  die  Weichen  211,  218,  227, 228, 
+aus Gleis 10 auf Hauptsignal (Asig N 531) in Richtung Stuttgart Zuffenhausen aus. Das Signalbild  zeigt  „Hp2“.  Die  eingestellte  Fahrstraße  führt  über  die  Weichen  211,  218,  227, 228, 
 230 und 212. 
 
-Der  Zug  wird  kontinuierlich vom Stillstand im Gleis 10 am Bahnsteig 5 bis auf 29 km/h be­
-schleunigt.  Dabei  legt  der  führende  Steuerwagen  eine  Fahrstrecke  von  545  m  zurück.  An­
-schließend  fällt  die  Geschwindigkeit  bei  einer  durchfahrenen  Strecke  von  50  m  bis  auf  0 
+Der  Zug  wird  kontinuierlich vom Stillstand im Gleis 10 am Bahnsteig 5 bis auf 29 km/h beschleunigt.  Dabei  legt  der  führende  Steuerwagen  eine  Fahrstrecke  von  545  m  zurück.  Anschließend  fällt  die  Geschwindigkeit  bei  einer  durchfahrenen  Strecke  von  50  m  bis  auf  0 
 km/h  ab.  Das  führende  Fahrzeug  kommt  nach  595  m um  11:39:03  Uhr  zum  Stehen.  Zug 
 2312  entgleist  zuerst  mit  den  Wagen  51  80  84-90  014-2  (Bimdz,  268.5)  und  Wagen  61  80 
 88-90  519-4  (WRmz  134.5)  im  Bereich des rechtens Radlenkers der Weiche 227. In Folge 
 der  Entgleisung  beider  Radsätze  des  voraus  laufenden  Drehgestells  des  WRmz  sowie  der 
 Radsätze  des  nach  laufenden  Drehgestells  des  Bimdz  entgleisen  auch  die  Radsätze  der 
-weiteren Drehgestelle der betroffenen Wagen. Außerdem entgleist das am Schluss des Zug­
-verbandes schiebende Triebfahrzeug 91 80 6 101 058-6 mit allen Radsätzen. Der in Fahrt­
-richtung des Zuges rechte vordere Puffer des WRmz wird nach der Entgleisung abgeknickt 
+weiteren Drehgestelle der betroffenen Wagen. Außerdem entgleist das am Schluss des Zugverbandes schiebende Triebfahrzeug 91 80 6 101 058-6 mit allen Radsätzen. Der in Fahrtrichtung des Zuges rechte vordere Puffer des WRmz wird nach der Entgleisung abgeknickt 
 vorgefunden.  Der  in  Fahrtrichtung  des  Zuges  hintere  rechte  Puffer  des  Bimdz  weist  starke 
 Beschädigungen auf. 
 
 Entgleisung am 29.09.2012
 
 IC  2312  fährt  um  11:41:06  Uhr  laut  EFR  des  führenden  Steuerwagens  61  80  80-91  150-5 
-aus Gleis 10 auf Hauptsignal (Asig N 531) in Richtung Stuttgart Zuffenhausen aus. Das Sig­
-nalbild  zeigt  „Hp2“.  Die  eingestellte  Fahrstraße  führt  über  die  Weichen  211,  218,  227, 228, 
+aus Gleis 10 auf Hauptsignal (Asig N 531) in Richtung Stuttgart Zuffenhausen aus. Das Signalbild  zeigt  „Hp2“.  Die  eingestellte  Fahrstraße  führt  über  die  Weichen  211,  218,  227, 228, 
 230 und 212. Der Zug wird vom Stillstand im Gleis 10 am Bahnsteig 5 auf 23 km/h bei einer 
 durchfahrenen  Strecke  von  120  m  beschleunigt.  Anschließend  ist  in  der  EFR  eine  nahezu 
-kontinuierliche  Fahrt  von  130  m  bei  leicht  fallender  Geschwindigkeit  bis  auf  14  km/h  regis­
-triert. Danach beschleunigt das führende Fahrzeug bei gleichmäßig ansteigender Geschwin­
-digkeit bis auf 40km/h in km 0,565. Der führende Steuerwagen kommt um 11:42:55 Uhr bei 
+kontinuierliche  Fahrt  von  130  m  bei  leicht  fallender  Geschwindigkeit  bis  auf  14  km/h  registriert. Danach beschleunigt das führende Fahrzeug bei gleichmäßig ansteigender Geschwindigkeit bis auf 40km/h in km 0,565. Der führende Steuerwagen kommt um 11:42:55 Uhr bei 
 einer durchfahrenen Strecke von 670 m zum Stehen. 
 
 # Höhe des Schadens, Anzahl Tote und Verletzte
@@ -3369,8 +3221,7 @@ Entgleisung am 24.07.2012
 Die nachgewiesene deutliche Überschreitung der zulässigen Anfahrzugkraft (Druckkraft) von 
 150  kN  (entspricht  1,8  kA  auf  der  Zugkraft/Bremsanzeige  im  Steuerwagen)  lieferte  einen 
 weiteren Entgleisungsbeitrag bei der Ausfahrt aus Gleis 10. Aufgrund eines Weichenfehlers 
-in der Weiche 227 (b-d) hätte die Zugfahrt formal erst nach Einrichtung einer Langsamfahr­
-stelle von 20 km/h ausfahren dürfen. 
+in der Weiche 227 (b-d) hätte die Zugfahrt formal erst nach Einrichtung einer Langsamfahrstelle von 20 km/h ausfahren dürfen. 
 
 ---
 file: 054_Mühlheim Ost - Hanau Hbf.txt
@@ -3378,22 +3229,22 @@ file: 054_Mühlheim Ost - Hanau Hbf.txt
 Untersuchungsbericht 
 
 # Hergang des Unfalls 
-In der Zeit vom 12.04.2012 bis 16.04.2012 finden laut Betriebs- und Bauanweisung (Betra) F 514 146 12 Arbeiten für einen Schienenwechsel im Gleis Hanau-Mainbrücke – Üst Mühlheim Ost  auf  der  Strecke  Göttingen  - Frankfurt/M  (VZG  3600)  statt.  Für  diese  Arbeiten  war  die  Betra  F  514146  12  in  Kraft. Am  13.04.2012  soll  das  Gleis  Hanau  Hbf  –  Üst  Mühlheim  Ost  von 1:00 Uhr bis 4:40 Uhr durchgehend nach Zugfahrt KT 41946 gesperrt werden. Die Sper­ rung des Gleises Hanau Hbf – Mühlheim Ost erfolgt auf Antrag des Technischen Berechtig­ten um 0:14 Uhr durch den ÖZF 1 Hanau Nordseite. 
+In der Zeit vom 12.04.2012 bis 16.04.2012 finden laut Betriebs- und Bauanweisung (Betra) F 514 146 12 Arbeiten für einen Schienenwechsel im Gleis Hanau-Mainbrücke – Üst Mühlheim Ost  auf  der  Strecke  Göttingen  - Frankfurt/M  (VZG  3600)  statt.  Für  diese  Arbeiten  war  die  Betra  F  514146  12  in  Kraft. Am  13.04.2012  soll  das  Gleis  Hanau  Hbf  –  Üst  Mühlheim  Ost  von 1:00 Uhr bis 4:40 Uhr durchgehend nach Zugfahrt KT 41946 gesperrt werden. Die Sperrung des Gleises Hanau Hbf – Mühlheim Ost erfolgt auf Antrag des Technischen Berechtig­ten um 0:14 Uhr durch den ÖZF 1 Hanau Nordseite. 
 
-Um 0:27 Uhr beantragt der Zf/RbBau des Zweiwegefahrzeuges das Eingleisen des Zweiwe­ gefahrzeuges  in  das  Gleis  Hanau  Hbf  –  Üst  Mühlheim  Ost.  Außerdem  beantragt  der  Zf/RbBau die Sperrung des S-Bahn Gleises um 0:32 Uhr. Nachdem der ÖZF Hanau Nord­ seite die betrieblichen Voraussetzungen für die Gleissperrungen einschließlich der Befehls­ übermittlung  für  die  Sperrfahrt  97210  erfüllt  hat,  stimmt  er  dem  Eingleisen  des  Zweiwege­ fahrzeuges zu. Das Zweiwegefahrzeug quert im Anschluss das gesperrte Streckengleis Ha­ nau  Hbf  –  Üst  Mühlheim  Ost  und  gleist  in  das  Gleis Üst Mühlheim Ost – Hanau Hbf in km  18,420  ein.  Der  Ausleger  des  Zweiwegefahrzeuges  wird  in Fahrtrichtung Hanau ausgerich­ tet.  Um  0:38  Uhr  wird  nach  Rücksprache  mit  dem  Zf/RbBau  des  Zweiwegefahrzeuges  die  Sperrung des S-Bahn Gleises Mühlheim Dietesheim – Hanau Hbf aufgehoben. Um 0:44 Uhr passiert die S-Bahn 35881 höhengleich den Eingleisbereich des Zweiwegefahrzeuges in km  18,420.  Die  eingleisige  S-Bahn  Strecke  (VZG  3680)  wird  ab  km  67,5  –  km  68,0  durch  ein  Überwerfungsbauwerk  von  der  Südseite  auf  die  Nordseite  der  zweigleisigen  Strecke  (VZG  3600) geführt. Um 0:57 Uhr wird der Abschnitt 21B537 durch die RB 15640 im Stellbereich  des ÖZF1 besetzt. Die Kollision der Regionalbahn mit dem Zweiwegefahrzeug in km 18,420  erfolgt  um  0:58  Uhr.  Der  Zug  stößt  ungebremst  bei  einer  registrierten  Geschwindigkeit  von  129  km/h  mit  dem  Zweiwegefahrzeug  zusammen  und  schiebt  das  Zweiwegefahrzeug  ca.  405  m  bis  ca.  km  18,825  vor  sich  her.  Das  voran  geschobene  Zweiwegefahrzeug  und  der  Steuerwagen  kollidieren  dabei  mit  drei  Fahrleitungsmasten  rechts  des  Gleises  und  dem  Vor­ signal  517  in  km  18,760.  Infolge  der  beschädigten  Fahrleitungsmasten  fällt  die  Oberleitung auf den Wagenzug.  Der führende Steuerwagen 50 80 8035 378-4; Bauart 761 entgleist mit  beiden Drehgestellen.  Das  Zweiwegefahrzeug  verkeilt  sich  durch  die  Kollision  mit  dem  Steu­ erwagen  und  kommt  in  km  18,825  vor  dem  Steuerwagen  entgleist  zum  Stehen. 
+Um 0:27 Uhr beantragt der Zf/RbBau des Zweiwegefahrzeuges das Eingleisen des Zweiwegefahrzeuges  in  das  Gleis  Hanau  Hbf  –  Üst  Mühlheim  Ost.  Außerdem  beantragt  der  Zf/RbBau die Sperrung des S-Bahn Gleises um 0:32 Uhr. Nachdem der ÖZF Hanau Nordseite die betrieblichen Voraussetzungen für die Gleissperrungen einschließlich der Befehlsübermittlung  für  die  Sperrfahrt  97210  erfüllt  hat,  stimmt  er  dem  Eingleisen  des  Zweiwegefahrzeuges zu. Das Zweiwegefahrzeug quert im Anschluss das gesperrte Streckengleis Hanau  Hbf  –  Üst  Mühlheim  Ost  und  gleist  in  das  Gleis Üst Mühlheim Ost – Hanau Hbf in km  18,420  ein.  Der  Ausleger  des  Zweiwegefahrzeuges  wird  in Fahrtrichtung Hanau ausgerichtet.  Um  0:38  Uhr  wird  nach  Rücksprache  mit  dem  Zf/RbBau  des  Zweiwegefahrzeuges  die  Sperrung des S-Bahn Gleises Mühlheim Dietesheim – Hanau Hbf aufgehoben. Um 0:44 Uhr passiert die S-Bahn 35881 höhengleich den Eingleisbereich des Zweiwegefahrzeuges in km  18,420.  Die  eingleisige  S-Bahn  Strecke  (VZG  3680)  wird  ab  km  67,5  –  km  68,0  durch  ein  Überwerfungsbauwerk  von  der  Südseite  auf  die  Nordseite  der  zweigleisigen  Strecke  (VZG  3600) geführt. Um 0:57 Uhr wird der Abschnitt 21B537 durch die RB 15640 im Stellbereich  des ÖZF1 besetzt. Die Kollision der Regionalbahn mit dem Zweiwegefahrzeug in km 18,420  erfolgt  um  0:58  Uhr.  Der  Zug  stößt  ungebremst  bei  einer  registrierten  Geschwindigkeit  von  129  km/h  mit  dem  Zweiwegefahrzeug  zusammen  und  schiebt  das  Zweiwegefahrzeug  ca.  405  m  bis  ca.  km  18,825  vor  sich  her.  Das  voran  geschobene  Zweiwegefahrzeug  und  der  Steuerwagen  kollidieren  dabei  mit  drei  Fahrleitungsmasten  rechts  des  Gleises  und  dem  Vorsignal  517  in  km  18,760.  Infolge  der  beschädigten  Fahrleitungsmasten  fällt  die  Oberleitung auf den Wagenzug.  Der führende Steuerwagen 50 80 8035 378-4; Bauart 761 entgleist mit  beiden Drehgestellen.  Das  Zweiwegefahrzeug  verkeilt  sich  durch  die  Kollision  mit  dem  Steuerwagen  und  kommt  in  km  18,825  vor  dem  Steuerwagen  entgleist  zum  Stehen. 
 
 # Höhe des Schadens, Anzahl Tote und Verletzte 
-Der  Triebfahrzeugführer  der  RB  15640,  der  Eisenbahnfahrzeugführer  des  Zwei­ wege­ fahrzeuges  und  der  Zf/RbBau  werden  tödlich  verletzt.  14  Reisende  im  Zug  werden  leicht  verletzt.  Am  Steuerwagen  5080  8035  378-4  und  am  Zweiwegefahrzeug  97  51  02  508  60-6  entsteht  Totalschaden.  Der  übrige  Zugverband  mit  der  schiebenden  Lok  ist  teilweise  stark  beschädigt.  Der  Oberbau  sowie  die  elektrotechnischen-  und  die  signaltechnischen  Anlagen  werden  im  Streckenabschnitt  zwischen  km  18,420  und  km  18,850  ebenfalls  erheblich  be­ schädigt  bzw.  zerstört. 
+Der  Triebfahrzeugführer  der  RB  15640,  der  Eisenbahnfahrzeugführer  des  Zweiwegefahrzeuges  und  der  Zf/RbBau  werden  tödlich  verletzt.  14  Reisende  im  Zug  werden  leicht  verletzt.  Am  Steuerwagen  5080  8035  378-4  und  am  Zweiwegefahrzeug  97  51  02  508  60-6  entsteht  Totalschaden.  Der  übrige  Zugverband  mit  der  schiebenden  Lok  ist  teilweise  stark  beschädigt.  Der  Oberbau  sowie  die  elektrotechnischen-  und  die  signaltechnischen  Anlagen  werden  im  Streckenabschnitt  zwischen  km  18,420  und  km  18,850  ebenfalls  erheblich  beschädigt  bzw.  zerstört. 
 
 # Ursachen des Unfalls 
-Aufgrund  einer  Gleisverwechslung  wurde  das  Zweiwegefahrzeug  in  das  nicht  gesperrte  Streckengleis  der  Überleitstelle  Mühlheim  Ost  –  Hanau  Hbf  eingegleist.  Die  auf  dem  Stre­ ckengleis Mühlheim Ost – Hanau Hbf verkehrende RB 15640 kollidierte in km 18,420 unge­ bremst  mit  dem  Zweiwegefahrzeug. 
+Aufgrund  einer  Gleisverwechslung  wurde  das  Zweiwegefahrzeug  in  das  nicht  gesperrte  Streckengleis  der  Überleitstelle  Mühlheim  Ost  –  Hanau  Hbf  eingegleist.  Die  auf  dem  Streckengleis Mühlheim Ost – Hanau Hbf verkehrende RB 15640 kollidierte in km 18,420 ungebremst  mit  dem  Zweiwegefahrzeug. 
 
 # Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle 
-Gemäß § 6 Eisenbahn-Unfalluntersuchungsverordnung (EUV) und Art. 25 Abs.2 der Richtli­ nie 2004/49/EG ergehen nachfolgende Sicherheitsempfehlungen: 
+Gemäß § 6 Eisenbahn-Unfalluntersuchungsverordnung (EUV) und Art. 25 Abs.2 der Richtlinie 2004/49/EG ergehen nachfolgende Sicherheitsempfehlungen: 
 
 lfd. Nr.  Sicherheitsempfehlung  betrifft Unternehmen 
 
-1 Konkretisierung  der  Regelungen  für  das  Ein-und  Aus­ EIU und EVU gleisen  von  Zweiwegefahrzeugen  auf  der  freien  Stre­ cke  insbesondere  der  örtlichen  Einweisung  der  Ver­ antwortlichen. 
+1 Konkretisierung  der  Regelungen  für  das  Ein-und  AusEIU und EVU gleisen  von  Zweiwegefahrzeugen  auf  der  freien  Strecke  insbesondere  der  örtlichen  Einweisung  der  Verantwortlichen. 
 
 ---
 file: 055_Hosena.txt
@@ -3748,24 +3599,18 @@ file: 060_Langenselbold - Hailer-Meerholz.txt
 Zugentgleisung,  21.01.2012,  Langenselbold - Hailer-Meerholz 
 
 # Hergang des Unfalls 
-Am  21.01.2012  verkehrt  Zug  Kt  41969  der  DB  Schenker  Rail  AG  von  Maasvlakte  (Nieder­
-lande  nach  Wels  Verschiebebahnhof  (Österreich).  Der  Laufweg  des  Zuges  führt  über  den 
+Am  21.01.2012  verkehrt  Zug  Kt  41969  der  DB  Schenker  Rail  AG  von  Maasvlakte  (Niederlande  nach  Wels  Verschiebebahnhof  (Österreich).  Der  Laufweg  des  Zuges  führt  über  den 
 Grenzbahnhof Emmerich nach Neuss Gbf (Eingangsbehandlung) und weiter über die rechte 
 Rheinseite. Kt 41969 passiert um 14:05:32 Uhr in km 95,555 die HOA/FBOA 195 zwischen 
 Kestert und St. Goarshausen. Die zwischen den Bahnhöfen Oestrich-Winkel und Hattenheim 
-installierte HOA/FBOA 197 in km 55,661 registriert um 14:34:40 Uhr die Durchfahrt des Zu­
-ges.  Zug  41969,  bestehend  aus  dem  Triebfahrzeug  der  Baureihe  185  sowie  19  beladenen 
+installierte HOA/FBOA 197 in km 55,661 registriert um 14:34:40 Uhr die Durchfahrt des Zuges.  Zug  41969,  bestehend  aus  dem  Triebfahrzeug  der  Baureihe  185  sowie  19  beladenen 
 und  4  leeren  Wagen,  wird  über  Frankfurt/M-Ost  Gbf  (Lokpersonalwechsel)  und  weiter  über 
-Hanau Hbf Richtung Schlüchtern geführt. Zwischen den Bahnhöfen Langenselbold und Hai­
-ler-Meerholz  entgleist  in  km  35,985  die  in  Fahrtrichtung  4.  Achse  des  6.  Wagens,  Bauart 
+Hanau Hbf Richtung Schlüchtern geführt. Zwischen den Bahnhöfen Langenselbold und Hailer-Meerholz  entgleist  in  km  35,985  die  in  Fahrtrichtung  4.  Achse  des  6.  Wagens,  Bauart 
 Laagss  mit  der  Wagennummer  21  81  436  1  075-4.  Im  weiteren  Fahrtverlauf  kommt  es  zur 
 Entgleisung der 3. Achse dieses Wagens. Außerdem entgleist der unmittelbar nachlaufende 
-7. Wagen mit der Wagennummer 31 81 457 5 274-3 mit beiden Radsätzen des vorauslau­
-fenden  Drehgestells.  Beim  Befahren  des  Weichenbereiches  in  Hailer-Meerholz  fällt  in  km 
-41,2 der zweite Container mit der Nummer PONU.142401.4 in Fahrtrichtung links vom Wag­
-gon 21 81 436 1 075-4 zwischen die Gleise 303 und 302. Der Container verfängt sich in den 
-Kabeln eines Kabelkanales und bleibt dort nicht profilfrei liegen. Bedingt durch die Zugtren­
-nung  des  Kt  41969  zwischen  dem  6.  und  7.  Wagen  kommt  es  zur  Zwangsbremsung  des 
+7. Wagen mit der Wagennummer 31 81 457 5 274-3 mit beiden Radsätzen des vorauslaufenden  Drehgestells.  Beim  Befahren  des  Weichenbereiches  in  Hailer-Meerholz  fällt  in  km 
+41,2 der zweite Container mit der Nummer PONU.142401.4 in Fahrtrichtung links vom Waggon 21 81 436 1 075-4 zwischen die Gleise 303 und 302. Der Container verfängt sich in den 
+Kabeln eines Kabelkanales und bleibt dort nicht profilfrei liegen. Bedingt durch die Zugtrennung  des  Kt  41969  zwischen  dem  6.  und  7.  Wagen  kommt  es  zur  Zwangsbremsung  des 
 Zuges.  Kt  41969  hält  nach  einem  Bremsweg  von  ca.  260  m  mit  der  Zugspitze  in  km  42,0. 
 Unmittelbar  nach  der  Zwangsbremsung,  unterstützt  durch  die  Schnellbremsung  des  Trieb-
 fahrzeugführers,  setzt  dieser  über  den  GSM-R  Zugfunk  einen  Notruf  ab.  RB  15622  wird  in 
@@ -3796,20 +3641,14 @@ ca.
 17.096,00 € 
 
 # Ursachen des Unfalls 
-Die Entgleisung des Kt 41969 ist auf einen Radsatzlagerschaden an der vierten Radsatzwel­
-le in Fahrrichtung des Fahrzeuges 21 81 436 1 075-4 (Laagss) zurückzuführen. 
+Die Entgleisung des Kt 41969 ist auf einen Radsatzlagerschaden an der vierten Radsatzwelle in Fahrrichtung des Fahrzeuges 21 81 436 1 075-4 (Laagss) zurückzuführen. 
 
 Die Entgleisung des Kt  41969  auf  der  freien  Strecke  zwischen  Langenselbold  und  Hailer-
 Meerholz  ist  auf  ein  Versagen  eines  Radsatzlagers  des  Wagens  21  81  4361  075-4  infolge 
-eines Heißläufers zurückzuführen. Die durch die Rail Cargo Austria AG vorgelegte Auftrags­
-liste zur IS 3 bildet eine lückenlose Darstellung der Instandhaltungs- und Montageschritte ab. 
-Aufgrund  der  durchgeführten  Radsatz-  und  Radsatzlageruntersuchungen  ist  davon  auszu­
-gehen,  dass  es  zur  Aufhebung  der  Vorspannung  der  Nutmutter  gegenüber  dem  Lager  ge­
-kommen ist und sich die Nutmutter - nachdem das Nutmuttergewinde verschlissen war - lös­
-te.  Eine  eindeutige  Ursache  des  Vorspannungsverlustes  konnte  nicht  ermittelt  werden.  Als 
+eines Heißläufers zurückzuführen. Die durch die Rail Cargo Austria AG vorgelegte Auftragsliste zur IS 3 bildet eine lückenlose Darstellung der Instandhaltungs- und Montageschritte ab. 
+Aufgrund  der  durchgeführten  Radsatz-  und  Radsatzlageruntersuchungen  ist  davon  auszugehen,  dass  es  zur  Aufhebung  der  Vorspannung  der  Nutmutter  gegenüber  dem  Lager  gekommen ist und sich die Nutmutter - nachdem das Nutmuttergewinde verschlissen war - löste.  Eine  eindeutige  Ursache  des  Vorspannungsverlustes  konnte  nicht  ermittelt  werden.  Als 
 mögliche  Erklärungsursache  können  Montagefehler  hinsichtlich  der  (Nicht)  -einhaltung  der 
-Spaltmaße der Innenringe und des Labyrinthringes wie auch die Aufbringung eines zu gerin­
-gen Vorspannmomentes in Betracht gezogen werden. 
+Spaltmaße der Innenringe und des Labyrinthringes wie auch die Aufbringung eines zu geringen Vorspannmomentes in Betracht gezogen werden. 
 
 ---
 file: 061_Voerde_-_Dinslaken.txt
@@ -3906,7 +3745,7 @@ Unmittelbar  vor  Erreichen  des  BÜ  erkannte  der  Tf,  dass  der  PKW  den  
 
 Trotz Beschleunigung des PKWs kam es zum Zusammenprall mit dem Eisenbahnfahrzeug. 
 
-Dabei wurde das Heck des PKWs durch den Zug erfasst. Durch die Wucht des Zusammen­ pralls wurde der PKW auf eine Wiese im II. Quadranten geschleudert und die PKW Fahrerin  schwer verletzt. 
+Dabei wurde das Heck des PKWs durch den Zug erfasst. Durch die Wucht des Zusammenpralls wurde der PKW auf eine Wiese im II. Quadranten geschleudert und die PKW Fahrerin  schwer verletzt. 
 
 # Höhe des Schadens, Anzahl Tote und Verletzte 
 
@@ -3938,11 +3777,11 @@ Streckensperrung von 17:08 Uhr - 19:04 Uhr
 
 # Ursachen des Unfalls 
 
-Unfallursächlich  war  die  Nichtbeachtung  der  Straßenverkehrsordnung  (StVO)  §§  19  „Bahn­ übergänge“ und § 41 „Vorschriftenzeichen“ durch die Fahrerin des verunfallten PKW. 
+Unfallursächlich  war  die  Nichtbeachtung  der  Straßenverkehrsordnung  (StVO)  §§  19  „Bahnübergänge“ und § 41 „Vorschriftenzeichen“ durch die Fahrerin des verunfallten PKW. 
 
 Als sekundäre Ereignisursache kann möglicherweise die nicht mehr zeitgerechte Beurteilung des  BÜ  und  seiner  direkten  Umgebung  in  Betracht  kommen.  In  den  vergangenen  Jahren  waren neue Straßen sowie Wohn-und Gewerbegebäude entstanden. 
 
-Einen weiteren Einfluss auf die Eisenbahnsicherheit am BÜ hat die starke Vegetation in allen vier  Sichtflächen.  Ein  auf  die  Wachstumsperioden  abgestimmter  Vegetationsrückschnitt  ist zu überprüfen  und  gegebenenfalls  zwischen  dem  EIU  und  der  für  den  Straßenverkehr  zu­ ständigen Stelle abzustimmen. 
+Einen weiteren Einfluss auf die Eisenbahnsicherheit am BÜ hat die starke Vegetation in allen vier  Sichtflächen.  Ein  auf  die  Wachstumsperioden  abgestimmter  Vegetationsrückschnitt  ist zu überprüfen  und  gegebenenfalls  zwischen  dem  EIU  und  der  für  den  Straßenverkehr  zuständigen Stelle abzustimmen. 
 
 ---
 file: 064_Kamen_-_Üst_Nordbögge.txt
@@ -4257,8 +4096,7 @@ Bei der Durchfahrt durch Gleis 202 im Bf Frellstedt kam es in km 31,965, zwische
 
 Güterzug entgleiste mit insgesamt elf Wagen. 
 
-Die  Sachverhaltsermittlung  ergab,  dass  der  achte  Wagen  (3780  5377  110-1)  mit  dem  in  Fahrtrichtung hinteren Drehgestell als erstes Fahrzeug entgleiste. Die Wagen 9 bis 17 ent­
-
+Die  Sachverhaltsermittlung  ergab,  dass  der  achte  Wagen  (3780  5377  110-1)  mit  dem  in  Fahrtrichtung hinteren Drehgestell als erstes Fahrzeug entgleiste. Die Wagen 9 bis 17 ent
 gleisten  daraufhin  mit  beiden  Drehgestellen,  Wagen  18  mit  dem  in  Fahrtrichtung  vorderen 
 
 Drehgestell. Außerdem ereignete sich zwischen Wagen 8 und Wagen 9 eine Zugtrennung. 
@@ -4293,8 +4131,7 @@ Der Tf von Zug DBV 98048 erkannte die Gefahr und ließ durch einen auf dem Trieb
 
 anwesenden Auszubildenden einen Notruf mit anschließendem Nothaltauftrag über Zugfunk 
 
-GSM-R absetzen. Der Tf des aus der Gegenrichtung kommenden DGS 43305 wurde so ge­
-
+GSM-R absetzen. Der Tf des aus der Gegenrichtung kommenden DGS 43305 wurde so ge
 warnt und konnte seinen Zug ca. in km 29,900 zum Halten bringen. 
 
 # Höhe des Schadens, Anzahl Tote und Verletzte 
@@ -4331,15 +4168,13 @@ ca.
 
 Die  Entgleisung  ereignete  sich  am  Morgen  des  04.10.2011  gegen  08:11  Uhr.  Es  war  ein 
 
-frostfreier bewölkter Herbsttag mit Tageshöchsttemperaturen um 18° C und Nachttemperatu­
-
+frostfreier bewölkter Herbsttag mit Tageshöchsttemperaturen um 18° C und Nachttemperatu
 ren um 9°C. Der Boden war trocken und es hatte an diesem und dem Vortag nicht geregnet. 
 
 Die vorherrschenden Wetterbedingungen haben die Zugentgleisung nicht beeinflusst. 
 
 # Ursachen des Unfalls 
-Als Ursache für die Zugentgleisung ist ein gebrochener Achsschenkel am hinteren Drehge­
-
+Als Ursache für die Zugentgleisung ist ein gebrochener Achsschenkel am hinteren Drehge
 stell des achten, im Zugverband eingestellten, Eanos Wagen (3780 5377 110-1) festgestellt 
 
 worden. 
@@ -4350,8 +4185,7 @@ Bf Frellstedt. Als Ursache der Entgleisung wurde ein Wellenbruch an einer Radsat
 
 Bauart 002 aus Wagen 37 80 5377 110-1 ermittelt. 
 
-Die Untersuchung dieser gebrochenen Radsatzwelle hat gezeigt, dass ein hoher Wärmeein­
-
+Die Untersuchung dieser gebrochenen Radsatzwelle hat gezeigt, dass ein hoher Wärmeein
 trag  im  Achsschenkel  der  B-Seite  zu  einer  Umwandlung  des  typischerweise  vorhandenen 
 
 ferritisch-perlitischen  Gefüges  in  mehr  oder  weniger  grobkörnigen  Bainit  geführt  hat.  Die 
@@ -4368,14 +4202,11 @@ Eine  Randschichtwärmebehandlung  ist  bei  dieser  Radsatzwellenbauart  gemä�
 
 bei der Herstellung und Weiterverarbeitung nicht vorgesehen. Da der Wärmeeintrag lediglich 
 
-im Achsschenkel der B-Seite und nicht auch auf der A-Seite nachzuweisen war, ist von ei­
-
+im Achsschenkel der B-Seite und nicht auch auf der A-Seite nachzuweisen war, ist von ei
 nem einmaligen, für den Herstellungsprozess unbeabsichtigten, Wärmeeintrag auszugehen. 
 
-Dies  wird  auch  dadurch  untermauert,  dass  bis  zum  Abschluss  der  Untersuchungen  zu die­
-
-sem Ereignis keine weiteren derartigen Vorkommnisse bekannt wurden. Es konnte nicht ab­
-
+Dies  wird  auch  dadurch  untermauert,  dass  bis  zum  Abschluss  der  Untersuchungen  zu die
+sem Ereignis keine weiteren derartigen Vorkommnisse bekannt wurden. Es konnte nicht ab
 schließend geklärt werden auf welche Art und Weise der Gefüge verändernde Wärmeeintrag 
 
 entstanden ist. 
@@ -4639,8 +4470,7 @@ file: 080_Feucht.txt
 Personenunfall, 31.01.2015, Feucht
 
 # Hergang des Unfalls
-Am 31.01.2015 gegen 19:41 Uhr schleifte die Zugfahrt S 39661 (lokbespannt) des Eisen­
-bahnverkehrsunternehmen (EVU) DB Regio AG, Region Bayern (S-Bahn), auf der Fahrt von 
+Am 31.01.2015 gegen 19:41 Uhr schleifte die Zugfahrt S 39661 (lokbespannt) des Eisenbahnverkehrsunternehmen (EVU) DB Regio AG, Region Bayern (S-Bahn), auf der Fahrt von 
 Nürnberg nach Altdorf (b. Nürnberg) (VZG 5850) im Bf Feucht Gleis 4 (Abfahrt 19:41 Uhr) 
 eine männliche Person mit, nach dem diese Person in der Tür vermutlich mit der Hand oder 
 Finger eingeklemmt war. Die männliche Person geriet zwischen Bahnsteigkante und Zug. 
@@ -4659,19 +4489,15 @@ Betriebserschwernisse:
     Gleissperrung im Bf Feucht bis 21:30 Uhr 
 
 # Ursachen des Unfalls
-Die Untersuchungen ergaben, dass die Primärursache darin begründet liegt, dass der Rei­
-sende versuchte in die im Abfertigungsprozess befindliche S-Bahn während des Türschließ­
-prozess einzusteigen und hierbei eingeklemmt wurde. Da insbesondere das Einklemmen 
+Die Untersuchungen ergaben, dass die Primärursache darin begründet liegt, dass der Reisende versuchte in die im Abfertigungsprozess befindliche S-Bahn während des Türschließprozess einzusteigen und hierbei eingeklemmt wurde. Da insbesondere das Einklemmen 
 kleiner Gegenstände von bis zu 3 cm durch die Türeinrichtung nicht detektiert wird, kommt 
 das Abfertigungsverfahren Selbstabfertigung Triebfahrzeugführer (SAT) zur Anwendung. 
 
 Nach dem Schließen der Türen und vor der Abfahrt muss der Triebfahrzeugführer durch 
 Kontrollblick prüfen, ob die Außentüren geschlossen und keine Gegenstände oder Personen 
-eingeklemmt sind. Dieser Prüfschritt misslang, wobei der genaue Grund nicht ermittelt wer­
-den konnte. 
+eingeklemmt sind. Dieser Prüfschritt misslang, wobei der genaue Grund nicht ermittelt werden konnte. 
 
-Die Aussage des Tf und die Tatsache, dass eine Person eingeklemmt und mitgeschleift wur­
-de schließen sich gegenseitig aus. Hieraus ist abzuleiten, dass die Abfahrbereitschaft nicht 
+Die Aussage des Tf und die Tatsache, dass eine Person eingeklemmt und mitgeschleift wurde schließen sich gegenseitig aus. Hieraus ist abzuleiten, dass die Abfahrbereitschaft nicht 
 ordnungsgemäß hergestellt war. 
 
 ---
@@ -5654,26 +5480,18 @@ Zugentgleisung,  11.09.2015,  Duisburg-Wedau - Lintorf (Bz. Düsseldorf)
 Am  11.09.2015  um  ca.  22:20  Uhr  entgleiste  Zug  EZ  52075  auf  der  VzG-Strecke  2324  des 
 EVU DB Schenker Rail AG in km 10,200 zwischen den Betriebsstellen Bf Duisburg-Wedau 
 und Bf Lintorf unmittelbar vor dem Selbstblocksignal (Sbk) 0304. Der Zug war auf dem Weg 
-von Bf Wanne-Eickel Wof nach Bf Gremberg Bn. Der verunfallte Wagen befand sich an drit­
-ter Stelle im Zugverband. Es handelte es sich dabei um einen mit zwei dreiachsigen Drehge­
-stellen ausgerüsteten Wagen der Wagengattung Samms Fzgnr. 31 80 4865 548-0 des Fahr­
-zeughalters DB Schenker Rail AG. Zum Zeitpunkt des Ereignisses war der Wagen mit Profil­
-stahl beladen. 
+von Bf Wanne-Eickel Wof nach Bf Gremberg Bn. Der verunfallte Wagen befand sich an dritter Stelle im Zugverband. Es handelte es sich dabei um einen mit zwei dreiachsigen Drehgestellen ausgerüsteten Wagen der Wagengattung Samms Fzgnr. 31 80 4865 548-0 des Fahrzeughalters DB Schenker Rail AG. Zum Zeitpunkt des Ereignisses war der Wagen mit Profilstahl beladen. 
 
 Nach  Abfahrt  des  Zuges  vom  Bf  Wanne-Eickel  wurde  dieser,  bereits  nach  einer  bis  dahin 
-durchfahrenen  Strecke  von  ca.  37  km,  zwischen  Abzw.  Duisburg-Rhurtal  und  Abzw. Duis­
-burg-Lotharstraße wegen Funkenflugs an der vierten Achse des zweiten Wagens zum ersten 
-Mal  gestellt.  Vorliegende  GSM-R  Aufzeichnungen  geben  wieder,  dass  der  Tf  eines  entge­
-genkommenden Zuges Funkenflug am Zug EZ 52075 bemerkt hatte und dies dem Fdl Abzw. 
+durchfahrenen  Strecke  von  ca.  37  km,  zwischen  Abzw.  Duisburg-Rhurtal  und  Abzw. Duisburg-Lotharstraße wegen Funkenflugs an der vierten Achse des zweiten Wagens zum ersten 
+Mal  gestellt.  Vorliegende  GSM-R  Aufzeichnungen  geben  wieder,  dass  der  Tf  eines  entgegenkommenden Zuges Funkenflug am Zug EZ 52075 bemerkt hatte und dies dem Fdl Abzw. 
 Oberhausen-Mathilde  mitteilte.  Daraufhin  gab  der  Fdl  Abzw.  Oberhausen-Mathilde  diese 
 Information  mittels  GSM-R  Einzelruf  an  den  Tf  des  Zuges  EZ  52075  weiter.  Ein  Notruf  mit 
 anschließendem Nothaltauftrag nach Ril 408.0581 wurde nicht gegeben. 
 
 Der  Tf  hielt  daraufhin  den  Zug  etwa  auf  halber  Strecke  zwischen  Abzw.  Duisburg-Ruhrtal 
 und Abzw. Lotharstraße auf der VzG-Strecke 2321 an. Ohne dass der Tf eine UV-Sperrung 
-des Nachbargleises beim zuständigen Fdl beantragt hatte, verließ der Tf das Tfz um die Ur­
-sache des Funkenfluges herauszufinden.  Der Tf untersuchte die ersten acht Wagen beider­
-seits  des  Zuges  ohne  dabei  etwas  Auffälliges  zu  entdecken.  Nachdem  er  dem  Fdl  Abzw. 
+des Nachbargleises beim zuständigen Fdl beantragt hatte, verließ der Tf das Tfz um die Ursache des Funkenfluges herauszufinden.  Der Tf untersuchte die ersten acht Wagen beiderseits  des  Zuges  ohne  dabei  etwas  Auffälliges  zu  entdecken.  Nachdem  er  dem  Fdl  Abzw. 
 Oberhausen-Mathilde dies mitgeteilt hatte setzte er die Fahrt mit Zustimmung des Fdl fort. 
 
 Kurze Zeit später erkannte der Tf des aus der Gegenrichtung kommenden Zuges 51255 am 
@@ -5682,9 +5500,7 @@ anschließendem  Nothaltauftrag  ab.  Als  der  Nothaltauftrag  vom  Tf  EZ  520
 wurde, befand sich der Zug bereits im Bf Lintorf. 
 
 Bei  der  Untersuchung  des  Ereignisses  wurde  festgestellt,  dass  sich  die  Entgleisungsstelle 
-von Zug EZ 52075 in km 10,200 der VzG-Strecke 2324 befand. In unmittelbarer Nähe wur­
-den der Achsschenkel sowie verschiedene Bauteile des Radsatzlagergehäuses des entgleis­
-ten Radsatzes gefunden.  Der Zug legte von der Entgleisungsstelle bis zum Halt im Bf Lintorf 
+von Zug EZ 52075 in km 10,200 der VzG-Strecke 2324 befand. In unmittelbarer Nähe wurden der Achsschenkel sowie verschiedene Bauteile des Radsatzlagergehäuses des entgleisten Radsatzes gefunden.  Der Zug legte von der Entgleisungsstelle bis zum Halt im Bf Lintorf 
 noch eine Strecke von ca. 2800 m zurück. 
 
 Nach der Entgleisung in 
@@ -5730,8 +5546,7 @@ Verlust des gesamten Radsatzlagergehäuses.
 
 Als Ursache wurde ein Heißläufer am Radsatzlager der in FR ersten Achse (1L) des dritten 
 Wagens  festgestellt.  In  Folge  kam  es  zum  Bruch  des  Achsschenkels  und  dem  Verlust  des 
-kompletten Radsatzlagergehäuses. Die Zugentgleisung wurde durch die nicht mehr vorhan­
-dene  Spurführung  des  betroffenen  Radsatzes  ermöglicht. Im  Anschluss  an  die eigentliche 
+kompletten Radsatzlagergehäuses. Die Zugentgleisung wurde durch die nicht mehr vorhandene  Spurführung  des  betroffenen  Radsatzes  ermöglicht. Im  Anschluss  an  die eigentliche 
 Entgleisung  konnte  der  Radsatz  durch  das  Drehgestell  gehalten  werden,  was  dazu führte, 
 dass sich die Radscheiben der entgleisten Achse parallel zu den Schienen befanden und auf 
 einer Länge von ca. 2800 m Schwellen, Kleineisen, Gleiskontakte sowie das Herzstück der 
@@ -5743,47 +5558,34 @@ Bereits der Tf des entgegenkommenden, nicht mehr identifizierbaren Zuges hätte 
 Feststellung  von  Funkensprühen  einen  Notruf  mit  Nothaltauftrag  gemäß  Richtlinie 
 408.0581/408.0553 abgeben müssen. Ebenso hätte der informierte Fdl reagieren müssen. 
 Zwar  konnte  bei  diesem  Ereignis  kein  direkter  Zusammenhang  zwischen  nicht  gegebenem 
-Nothaltauftrag und späterer Zugentgleisung festgestellt werden, zumal der Zug zwischenzeit­
-lich  angehalten  wurde.  Dennoch  ist  grundsätzlich  ein  restriktiver  Gebrauch  von  Notruf  und 
-Nothaltauftrag  festzustellen.  Die  Untersuchungsstelle  hat  bereits  mehrfach  auf  die  mangel­
-Haft  Anwendung  von  Nothaltaufträgen  hingewiesen.  Insbesondere  das  Ereignis  von  Bad 
+Nothaltauftrag und späterer Zugentgleisung festgestellt werden, zumal der Zug zwischenzeitlich  angehalten  wurde.  Dennoch  ist  grundsätzlich  ein  restriktiver  Gebrauch  von  Notruf  und 
+Nothaltauftrag  festzustellen.  Die  Untersuchungsstelle  hat  bereits  mehrfach  auf  die  mangelHaft  Anwendung  von  Nothaltaufträgen  hingewiesen.  Insbesondere  das  Ereignis  von  Bad 
 Endorf vom 08.04.2011 zeigt einige Parallelen zum aktuellen Ereignis. 
 
 Das Verfahren „Unregelmäßigkeiten an Fahrzeugen oder Ladungen“, „Verhalten bei Gefahr“  
 wie auch „Nothaltauftrag“ sind eindeutig geregelt. 
 
 Richtlinie 408.0553 1 (1) Feststellen und Melden, „Wenn Sie an Fahrzeugen oder Ladungen 
-Unregelmäßigkeiten, z.B. …Funkensprühen am Radsatz… feststellen oder wenn Ihnen sol­
-che Unregelmäßigkeiten gemeldet werden, müssen Sie, außer wenn eine Unregelmäßigkeit 
+Unregelmäßigkeiten, z.B. …Funkensprühen am Radsatz… feststellen oder wenn Ihnen solche Unregelmäßigkeiten gemeldet werden, müssen Sie, außer wenn eine Unregelmäßigkeit 
 nach Absatz 2 angezeigt wird, Maßnahmen bei Gefahr treffen.“ 
 
-Richtlinie 408.0581 1 Grundsatz „Wenn eine Gefahr droht, müssen Sie in eigener Verantwor­
-tung  alles  tun  um  die  Gefahr  abzuwenden  oder  zu  mindern…“  3  Nothaltauftrag  geben  „Bei 
+Richtlinie 408.0581 1 Grundsatz „Wenn eine Gefahr droht, müssen Sie in eigener Verantwortung  alles  tun  um  die  Gefahr  abzuwenden  oder  zu  mindern…“  3  Nothaltauftrag  geben  „Bei 
 Gefahr müssen sie sofort …Nothaltauftrag geben.“ 
 
-Grundsätzlich ist eine wagentechnische Untersuchung auf freier Strecke eine potentielle Ge­
-fahrensituation. Ein Abschreiten des Zuges im Schotterbett dazu bei Dunkelheit ist entspre­
-chend zu sichern. In diesem Zusammenhang ist es nicht nachvollziehbar warum der Tf auf 
+Grundsätzlich ist eine wagentechnische Untersuchung auf freier Strecke eine potentielle Gefahrensituation. Ein Abschreiten des Zuges im Schotterbett dazu bei Dunkelheit ist entsprechend zu sichern. In diesem Zusammenhang ist es nicht nachvollziehbar warum der Tf auf 
 eine Gleissperrung aus UV Gründen verzichtete, in dem er diese nicht beim Fdl beantragte. 
 
 Wagentechnische Untersuchung Tf 
 
-Nach  Aussage  des  Tf  wurde  der  Zug  von  ihm  beidseitig  bis  zum  achten  Wagen  auf  Unre­
-gelmäßigkeiten untersucht. Anhand der zeitlichen Abstände der einzelnen GSM-R Aufzeich­
-nungen war ersichtlich, dass der Tf in einem Zeitraum von ca. 05:47 min den Zug untersucht 
+Nach  Aussage  des  Tf  wurde  der  Zug  von  ihm  beidseitig  bis  zum  achten  Wagen  auf  Unregelmäßigkeiten untersucht. Anhand der zeitlichen Abstände der einzelnen GSM-R Aufzeichnungen war ersichtlich, dass der Tf in einem Zeitraum von ca. 05:47 min den Zug untersucht 
 
 hatte. Laut Wagenliste ergeben die ersten acht Wagen (42 Achsen) eine Gesamtlänge von 
 ca. 116,1 m inclusive einer Loklänge von ca. 16,4 m hätte der Tf zweimal eine Strecke von 
-ca.  132,5  m  in  einer  Zeit  ca.  05:47  min  zurücklegen  müssen.  Nimmt  man  eine  Untersu­
-chungszeit von ca. 10 s je Achse an, hätte er allein für die Untersuchung ca. 07:00 min benö­
-tigt.  In  der  benötigten  Zeit  von  05:47  min  war  eine  präzise  Untersuchung  der  Wagen  nicht 
+ca.  132,5  m  in  einer  Zeit  ca.  05:47  min  zurücklegen  müssen.  Nimmt  man  eine  Untersuchungszeit von ca. 10 s je Achse an, hätte er allein für die Untersuchung ca. 07:00 min benötigt.  In  der  benötigten  Zeit  von  05:47  min  war  eine  präzise  Untersuchung  der  Wagen  nicht 
 
 möglich 
 
-Die relativ kurze Distanz von ca. 9,1 km zwischen dem Untersuchungshalt und der Entglei­
-sungsstelle lässt den Schluss zu, dass es bereits beim Untersuchungshalt zu einem erhebli­
-chen Hitzeeintrag am betroffenen Radsatzlagergehäuse gekommen war der mit einer „Hand­
-rückenprobe“  feststellbar gewesen wäre. Dies korrespondiert mit dem Gutachten wonach die 
+Die relativ kurze Distanz von ca. 9,1 km zwischen dem Untersuchungshalt und der Entgleisungsstelle lässt den Schluss zu, dass es bereits beim Untersuchungshalt zu einem erheblichen Hitzeeintrag am betroffenen Radsatzlagergehäuse gekommen war der mit einer „Handrückenprobe“  feststellbar gewesen wäre. Dies korrespondiert mit dem Gutachten wonach die 
 Art  des  Abbrandes  der  Anstrichfarbe  aufgrund  der  massiven  Hitzeentwicklung  über  einen 
 längeren Zeitraum erfolgte. Selbst bei Berücksichtigung der widrigen Umstände hätte der Tf 
 bei sorgfältiger Untersuchung den Heißläufer erkennen müssen. 
@@ -5792,8 +5594,7 @@ Fazit
 
 Zum  wiederholten  Mal  kam  es  zu  einer  Zugentgleisung,  obwohl  der  Tf  zuvor  eine  wagen-
 technische Untersuchung durchgeführt hatte. Technische Störungen am Zug, insbesondere 
-auf der freien Strecke, erfordern vom Tf Kenntnisse, diese Störungen zu erkennen und ent­
-sprechende Maßnahmen einzuleiten. Obwohl die vorliegenden Unterlagen über Qualifikation 
+auf der freien Strecke, erfordern vom Tf Kenntnisse, diese Störungen zu erkennen und entsprechende Maßnahmen einzuleiten. Obwohl die vorliegenden Unterlagen über Qualifikation 
 und regelmäßige Fortbildung schlüssig erscheinen wird das erworbene Wissen in der Praxis 
 nicht angewendet. 
 
@@ -5802,32 +5603,25 @@ Fahrzeuginstandhaltung
 Es  ist  davon  auszugehen,  dass  der  Schmiermittelverlust  allmählich  mit  einem  Defekt  des 
 Filzringes einherging. Dafür spricht, dass die Radscheibe vollflächig außer mit Schmiermittel 
 auch  mit  Staub-  und  Rußpartikeln  beschichtet  war.  Nach  weitest  gehendem  Verlust  des 
-Schmiermittels stieg die Temperatur im Radsatzlager, was zu einem Verdampfen des restli­
-chen  Schmiermittels  führte.  In  Folge  versagte  das Radsatzlager, der Achsschenkel scherte 
+Schmiermittels stieg die Temperatur im Radsatzlager, was zu einem Verdampfen des restlichen  Schmiermittels  führte.  In  Folge  versagte  das Radsatzlager, der Achsschenkel scherte 
 ab und beide Teile fielen vom Fahrzeug ab. 
 
 Die  Bauweise  eines  Drehgestells  711.5  mit  besonders  an  den  Längsseiten  tiefgezogenem 
 Drehgestellrahmen  könnte  möglicherweise  die  Werkstattuntersuchung,  insbesondere  den 
 Blick auf die Radscheibe, beeinflusst haben da nur ein geringer Teil der Radscheibe, um den 
 Wellenschenkel  herum,  zu  erkennen  war  (siehe  Abb.12).  Gleichwohl  ist  eine  ausreichende 
-Sicht auf die Radscheibe aus der Instandhaltungsgrube wie auch seitlich, vorbei am Drehge­
-stellrahmen, möglich. 
+Sicht auf die Radscheibe aus der Instandhaltungsgrube wie auch seitlich, vorbei am Drehgestellrahmen, möglich. 
 
 Auffällig  war,  dass  auch  das  Referenzlager  (1R)  bereits  Schmiermittelverlust  zeigte  (siehe 
 Abb.16). Das Versagen auch dieses Radsatzlagers war absehbar. 
 
 Da  bei  den  gutachterlichen  Untersuchungen  festgestellt  worden  ist,  dass  das  verwendete 
-Schmiermittel zumindest „nicht mehr“ den benötigen Anforderungen der NGLI-Klasse 2 ent­
-spricht zeigt ebenfalls auf, dass die werkstattseitige Untersuchung der Radsatzlagergehäuse 
+Schmiermittel zumindest „nicht mehr“ den benötigen Anforderungen der NGLI-Klasse 2 entspricht zeigt ebenfalls auf, dass die werkstattseitige Untersuchung der Radsatzlagergehäuse 
 
 nicht mit den tatsächlichen Anforderungen übereinstimmt. 
 
-Laut SAP-Liste (Fahrzeughistorie) war bereits am 20.03.2015 Schmiermittelverlust am Rad­
-satzlager festgestellt worden. Ob und in welcher Form Maßnahmen ergriffen wurden konnte 
-nicht  festgestellt  werden.  Eine  weitergehende  Untersuchung  der  Radsätze  zu  diesem  Zeit­
-punkt  hätte  mit  großer  Wahrscheinlichkeit  zu  einer  Identifizierung  des  defekten  Radsatzla­
-gers und nach Anwendung der I-WC (GW) 2013/043 zu einem Tausch des betroffenen Rad­
-satzes geführt. 
+Laut SAP-Liste (Fahrzeughistorie) war bereits am 20.03.2015 Schmiermittelverlust am Radsatzlager festgestellt worden. Ob und in welcher Form Maßnahmen ergriffen wurden konnte 
+nicht  festgestellt  werden.  Eine  weitergehende  Untersuchung  der  Radsätze  zu  diesem  Zeitpunkt  hätte  mit  großer  Wahrscheinlichkeit  zu  einer  Identifizierung  des  defekten  Radsatzlagers und nach Anwendung der I-WC (GW) 2013/043 zu einem Tausch des betroffenen Radsatzes geführt. 
 
 Offensichtlich  wurde  bei  der  Untersuchung  des  Wagens  am  20.03.2015  der  Schaden  zwar 
 erkannt, es wurden jedoch keine Maßnahmen ergriffen.
@@ -6174,8 +5968,7 @@ Bayerischen Oberlandbahn  etwa  in  Streckenkilometer  30,29.
 
 Der  aus  einem  ET  325  gebildete  Zug  DPN  79505  näherte  sich  aus  Richtung  München/ 
 
-Bad Aibling.  Der  DPN  79506  bestand  aus  einem  ET  355  und  kam  aus  der  entgegen­
-
+Bad Aibling.  Der  DPN  79506  bestand  aus  einem  ET  355  und  kam  aus  der  entgegen
 gesetzten  Richtung  Rosenheim/Kolbermoor. Die  beiden  an  jenem  Faschingsdienstag  nur 
 
 schwach besetzten Züge sollten planmäßig in Kolbermoor kreuzen. 
@@ -6232,10 +6025,8 @@ Die Sachschäden sind monetär noch nicht abschließend beziffert, dürften sich
 
 mit  den  jeweils  vorderen  Wagenteilen  ineinander  und  stürzten  teilweise  um.  Der  Oberbau 
 
-der  Strecke  und  die  Oberleitung  wurden  ebenfalls  beschädigt.  Der  betroffene  Streckenab­
-
-schnitt  blieb  vom  09.02.2016,  06:58  Uhr  bis  19.02.2016,  17:10  Uhr  aufgrund  von  Unfallun­
-
+der  Strecke  und  die  Oberleitung  wurden  ebenfalls  beschädigt.  Der  betroffene  Streckenab
+schnitt  blieb  vom  09.02.2016,  06:58  Uhr  bis  19.02.2016,  17:10  Uhr  aufgrund  von  Unfallun
 tersuchung, Räumungs- und Instandsetzungsarbeiten gesperrt. 
 
 # Ursachen des Unfalls
@@ -6244,8 +6035,7 @@ Die  Zugkollision  der  beiden  Regionalzüge  ist  auf  mehrere  betriebliche  
 
 Fdl Bad Aibling bei der Abwicklung der Fahrten auf Ersatzsignal (Zs 1) zurückzuführen. 
 
-Begünstigt wurde der Ereigniseintritt durch das Zusammentreffen von menschlichen Verhal­
-
+Begünstigt wurde der Ereigniseintritt durch das Zusammentreffen von menschlichen Verhal
 tensweisen,  unvollständiger  Rückmeldung  der  Stellwerkstechnik,  schwierig  anwendbarer 
 
 Regeln und unzulänglicher örtlicher Regelungen. 
@@ -6356,11 +6146,8 @@ Wagens im Bereich der linken Weichenzungenvorrichtung der DKW 36 a. Das unbeabsi
 tigte Anheben des Rades wurde durch einen impulsartigen Stoß in Kombination mit Verän-
 derungen an der Kontaktfläche Rad/Weichenzunge ausgelöst. 
 
-Laut  „Arbeits- und  Störungsbuch“  erzeugte  die  DKW  36  a/b  bereits  am  22.04.2017  eine  Auf­
-fahrmeldung.  Weder  auf  dem  Ausdruck  des  Störungsdruckers  noch  im  „Arbeits-  und  Stö­
-rungsbuch“  wurde  der  Grund  für  die  Auffahrmeldung  hinterlegt.  Die  vor  Ort  zur  Behebung  
-der  Störung  eingesetzten  LST-Mitarbeiter  der  DB  Netz  AG  fanden  die  Weiche  in  einer  End­
-lage  vor.  Beim  probeweisen  Umlauf  der  Weiche  fiel  auf,  dass  sich  dabei  der  Weichenkasten  
+Laut  „Arbeits- und  Störungsbuch“  erzeugte  die  DKW  36  a/b  bereits  am  22.04.2017  eine  Auffahrmeldung.  Weder  auf  dem  Ausdruck  des  Störungsdruckers  noch  im  „Arbeits-  und  Störungsbuch“  wurde  der  Grund  für  die  Auffahrmeldung  hinterlegt.  Die  vor  Ort  zur  Behebung  
+der  Störung  eingesetzten  LST-Mitarbeiter  der  DB  Netz  AG  fanden  die  Weiche  in  einer  Endlage  vor.  Beim  probeweisen  Umlauf  der  Weiche  fiel  auf,  dass  sich  dabei  der  Weichenkasten  
 bewegte. 
 
 Unmittelbar  nach  der  Zugentgleisung  am  01.05.2017  wurde  bei  den  Untersuchungen  des 
@@ -6369,8 +6156,7 @@ Weichenantriebes erneut ein loser Weichenkasten festgestellt. Ob sich dieser zwi
 konnte nicht mehr geklärt werden. 
 
 Die  Erd- und  Nebenschlussfreiheit  der  Kabeladern  zum  Weichenantrieb  der  DKW  36  a/b 
-wurde  am  02.05.2017  festgestellt.  Alle  Adern  wiesen  einen  ausreichenden  Widerstand  ge­
-gen  die  Erde  von  mind.  5,9  MΩ  auf.  Bei weiteren  Untersuchungen  durch  das  EBA wurden 
+wurde  am  02.05.2017  festgestellt.  Alle  Adern  wiesen  einen  ausreichenden  Widerstand  gegen  die  Erde  von  mind.  5,9  MΩ  auf.  Bei weiteren  Untersuchungen  durch  das  EBA wurden 
 die  elektrischen  Kontakte  des  Weichenantriebes  gemäß  Ril  892  überprüft.  Dabei  wurden 
 keine Mängel festgestellt. 
 
@@ -6378,21 +6164,16 @@ Erste  Untersuchungen  des  Weichenantriebs  ergaben,  dass  die  Befestigungssc
 Weichenkastens  an  der  s.g.  Z-Schiene  sowie  die  Befestigungsschrauben  der  Z-Schiene  mit 
 dem  Fundament  nicht  vollständig  angezogen  waren.  Der  Weichenkasten  ließ  sich  in  jede 
 Richtung  einige  Millimeter  bewegen.  Nach  dem  Öffnen  des  Weichenkastens  im  Beisein  der 
-BEU wurde  ersichtlich,  dass  sich  ein  Prüferhaken  nicht  in  Endlage  befand.  Laut  Inspektions­
-unterlagen  wurde  die  Befestigung  des  Weichenkastens  vor  dem  Ereignis  letztmalig  am 
+BEU wurde  ersichtlich,  dass  sich  ein  Prüferhaken  nicht  in  Endlage  befand.  Laut  Inspektionsunterlagen  wurde  die  Befestigung  des  Weichenkastens  vor  dem  Ereignis  letztmalig  am 
 17.02.2017 überprüft. 
 
 Die  Erd- und  Nebenschlussfreiheit  der  Kabeladern  zum  Weichenantrieb  der  DKW  36  a/b 
-wurde  am  02.05.2017  festgestellt.  Alle  Adern  wiesen  einen  ausreichenden  Widerstand  ge­
-gen  die  Erde  von  mind.  5,9  MΩ  auf.  Bei weiteren  Untersuchungen  durch  das  EBA wurden 
+wurde  am  02.05.2017  festgestellt.  Alle  Adern  wiesen  einen  ausreichenden  Widerstand  gegen  die  Erde  von  mind.  5,9  MΩ  auf.  Bei weiteren  Untersuchungen  durch  das  EBA wurden 
 die  elektrischen  Kontakte  des  Weichenantriebes  gemäß  Ril  892  überprüft.  Dabei  wurden 
 keine Mängel festgestellt. 
 
-Laut  „Arbeits- und  Störungsbuch“  erzeugte  die  DKW  36  a/b  bereits  am  22.04.2017  eine  Auf­
-fahrmeldung.  Weder  auf  dem  Ausdruck  des  Störungsdruckers  noch  im  „Arbeits-  und  Stö­
-rungsbuch“  wurde  der  Grund  für  die  Auffahrmeldung  hinterlegt.  Die  vor  Ort  zur  Behebung  
-der  Störung  eingesetzten  LST-Mitarbeiter  der  DB  Netz  AG  fanden  die  Weiche  in  einer  End­
-lage  vor.  Beim  probeweisen  Umlauf  der  Weiche  fiel  auf,  dass  sich  dabei  der  Weichenkasten  
+Laut  „Arbeits- und  Störungsbuch“  erzeugte  die  DKW  36  a/b  bereits  am  22.04.2017  eine  Auffahrmeldung.  Weder  auf  dem  Ausdruck  des  Störungsdruckers  noch  im  „Arbeits-  und  Störungsbuch“  wurde  der  Grund  für  die  Auffahrmeldung  hinterlegt.  Die  vor  Ort  zur  Behebung  
+der  Störung  eingesetzten  LST-Mitarbeiter  der  DB  Netz  AG  fanden  die  Weiche  in  einer  Endlage  vor.  Beim  probeweisen  Umlauf  der  Weiche  fiel  auf,  dass  sich  dabei  der  Weichenkasten  
 bewegte. 
 
 Unmittelbar  nach  der  Zugentgleisung  am  01.05.2017  wurde  bei  den  Untersuchungen  des 
@@ -6401,8 +6182,7 @@ Weichenantriebes erneut ein loser Weichenkasten festgestellt. Ob sich dieser zwi
 konnte nicht mehr geklärt werden. 
 
 Die  Erd- und  Nebenschlussfreiheit  der  Kabeladern  zum  Weichenantrieb  der  DKW  36  a/b 
-wurde  am  02.05.2017  festgestellt.  Alle  Adern  wiesen  einen  ausreichenden  Widerstand  ge­
-gen  die  Erde  von  mind.  5,9  MΩ  auf.  Bei weiteren  Untersuchungen  durch  das  EBA wurden 
+wurde  am  02.05.2017  festgestellt.  Alle  Adern  wiesen  einen  ausreichenden  Widerstand  gegen  die  Erde  von  mind.  5,9  MΩ  auf.  Bei weiteren  Untersuchungen  durch  das  EBA wurden 
 die  elektrischen  Kontakte  des  Weichenantriebes  gemäß  Ril  892  überprüft.  Dabei  wurden 
 keine Mängel festgestellt. 
 
@@ -6420,10 +6200,7 @@ setzen.
 
 Es  ist  zu  vermuten,  dass  es  während  der  Bauarbeiten  im  Frühjahr  2014  durch  einen 
 Montagefehler  beim  Verspannen  zu  dem  Richtungsfehler  im  Bereich  des  linken  Radlen-
-kers  kam.  Dieser  Gleislagefehler  war  für  sich  betrachtet  nicht  sehr  ausgeprägt  und  über­
-schritt  bei  den  folgenden  Gleisgeometriemessungen  SR100  nicht.  Trotz  der  sensiblen  La­
-ge,   unmittelbar   am   Weichenanfang,   wurde   dieser   Fehler   offensichtlich   vom  Instandhal­
-tungspersonal v  ernachlässigt.   
+kers  kam.  Dieser  Gleislagefehler  war  für  sich  betrachtet  nicht  sehr  ausgeprägt  und  überschritt  bei  den  folgenden  Gleisgeometriemessungen  SR100  nicht.  Trotz  der  sensiblen  Lage,   unmittelbar   am   Weichenanfang,   wurde   dieser   Fehler   offensichtlich   vom  Instandhaltungspersonal v  ernachlässigt.   
 
 Auf  Abb.  59 
 
@@ -10583,8 +10360,7 @@ Meerbusch‐Osterath mit dem Güterzug GM 48714. 
 
 Durch die Zugkollision wurden vier Personen schwer und etwa 35 Personen leicht verletzt. Das 
 führende Fahrzeug des DPN 32547 sowie drei Wagen des GM 48714 entgleisen, davon stür‑
-zten zwei Güterwagen um. Es entstanden erhebliche Sachschäden sowie Erschwernisse im Ei­
-senbahnbetrieb.  Die  Strecke  Abzw  Weißenberg  –  Meerbusch‐Osterath  wurde  für  mehrere  
+zten zwei Güterwagen um. Es entstanden erhebliche Sachschäden sowie Erschwernisse im Eisenbahnbetrieb.  Die  Strecke  Abzw  Weißenberg  –  Meerbusch‐Osterath  wurde  für  mehrere  
 Tage gesperrt. 
 
 Die geschätzte Höhe der Sachschäden in Euro setzt sich wie folgt zusammen: 
@@ -10618,14 +10394,12 @@ Summe von rund 8.100 € an. 
 Der Personenzug DPN 32547 wurde unzulässig in den noch durch den Güterzug GM 48714 in 
 identischer Fahrtrichtung beanspruchten Blockabschnitt eingelassen. 
 
-Die Fdl der Abzw Weißenberg ließ den Zug 95307 durch eine Fehleingabe in der ZN mit fal­
-scher Zugnummer 66365 in Richtung Meerbusch‐Osterath abfahren. 
+Die Fdl der Abzw Weißenberg ließ den Zug 95307 durch eine Fehleingabe in der ZN mit falscher Zugnummer 66365 in Richtung Meerbusch‐Osterath abfahren. 
 
 Irrtümliche erneute Eingabe der Zugnummer 66365 durch die Fdl Abzw Weißenberg. 
 
 Die im Bahnhof Meerbusch‐Osterath in der Folge erscheinende Fehlnummer wurde durch 
-die Fdl Meerbusch‐Osterath mit der nachfolgenden Zugnummer 48714 in die ZN überschrie­
-ben.  
+die Fdl Meerbusch‐Osterath mit der nachfolgenden Zugnummer 48714 in die ZN überschrieben.  
 
 Beide Fdl gingen irrtümlich von einer Störung der Sicherungsanlagen aus. 
 
@@ -10912,7 +10686,7 @@ Es wurden keine Personen getötet oder verletzt. Es entstanden Sachsch�
 Als primäre Ursache für die Zugentgleisung konnte eine gebrochene Parabelfeder am 15. Wa­gen festgestellt werden. Durch den Federbruch verlor der betroffene Radsatz seine Spurhal­tefähigkeit und konnte von der Schiene abgleiten. 
 Ursache für die Entgleisung des Güterzuges GM 60856 war eine gebrochene Parabelfeder am Wagen 81 80 664 5 492‑2, siehe Feststellung 8. Der an 15. Stelle laufende Wagen war durch den Bruch der Parabelfeder nicht mehr lauffähig.  
 Der Bruch der Parabelfeder lässt sich auf Korrosionsschäden zurückführen. Sich bildende Kor­rosionsgrübchen führten zu einer Aufrauhung der Oberfläche was zu einer hohen Kerb­wirkung  und  damit  zur  Rissbildung  führte.  Möglicherweise  konnte  die  Konstruktionsaus­führung  aus  dem Jahr 1996, die ein Spaltmaß unter der Einrollung des Federauges von ca. 2 mm vorsah,  den Bruch begünstigen. Mit einer Änderung der Konstruktionsausführung 1998 auf ein Spalt­maß von ca. 4 mm sollten Strahlgutablagerungen und Defizite der Beschichtung im Augenspalt  vermieden werden. Der Zeitpunkt des Parabelfederbruches konnte nicht bestimmt werden. 
-Eine wagentechnische Untersuchung des Güterzuges GM 60856 wurde letztmalig am  03.02.2020 für die Zugfahrt 95184 von einem Wagenmeister des EVU IGE GmbH & Co KG  durch­geführt. Dabei wurden keine Besonderheiten festgestellt. Die bei den Untersuchungen  der BEU festgestellte ausgeschaltete Druckluftbremse am 18. Wagen 81 80 664 5 561‑4 hatte  keinen Einfluss auf das Ereignis. Es ist nicht auszuschließen, dass die Stellung des Schlaufen­ griffes eine Folge des Ereignisses war.
+Eine wagentechnische Untersuchung des Güterzuges GM 60856 wurde letztmalig am  03.02.2020 für die Zugfahrt 95184 von einem Wagenmeister des EVU IGE GmbH & Co KG  durch­geführt. Dabei wurden keine Besonderheiten festgestellt. Die bei den Untersuchungen  der BEU festgestellte ausgeschaltete Druckluftbremse am 18. Wagen 81 80 664 5 561‑4 hatte  keinen Einfluss auf das Ereignis. Es ist nicht auszuschließen, dass die Stellung des Schlaufengriffes eine Folge des Ereignisses war.
 
 ---
 file: 206_Demmin.txt
@@ -13101,11 +12875,11 @@ Beim Befahren der im Bogen verbauten Spannbetonschwellen kam es zum Versagen der
 
 Teil der Ausgangslage
 
-Durch die Leonhard Moll Betonwerke GmbH & Co KG Werk Laußig wurden im Jahr 2006 Spann‑ betonschwellen herge­ stellt, deren Rezeptur in Laufe der Liegedauer zu inneren chemischen Schadreaktionen führte. 
+Durch die Leonhard Moll Betonwerke GmbH & Co KG Werk Laußig wurden im Jahr 2006 Spann‑ betonschwellen hergestellt, deren Rezeptur in Laufe der Liegedauer zu inneren chemischen Schadreaktionen führte. 
 
 2006 bis 2022
 
-Die eingebauten Spannbetonschwellen wurden nach Vorgaben ausschließlich durch Augenschein durch das zu­ ständige Instandhalt­ ungspersonal im Rahmen von Gleisbegehungen inspiziert. Bei internen Überwachungen wurden keine unmittelbar hand­ lungsbedürftigen Mängel in Bezug auf das ange­ wandte Inspektions­ verfahren festgestellt. 
+Die eingebauten Spannbetonschwellen wurden nach Vorgaben ausschließlich durch Augenschein durch das zuständige Instandhaltungspersonal im Rahmen von Gleisbegehungen inspiziert. Bei internen Überwachungen wurden keine unmittelbar handlungsbedürftigen Mängel in Bezug auf das angewandte Inspektionsverfahren festgestellt. 
 
 Tabelle 1: Zusammenfassung Einflussfaktoren
 
