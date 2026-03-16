@@ -35,7 +35,7 @@ val ligatureMap =
     )
 
 val cidPattern = Regex("\\(cid:(\\d+)\\)")
-val softHyphenPattern = Regex("\u00AD\n\n?")
+val softHyphenPattern = Regex("\u00AD\n?\n?")
 val sourceDir = File("documents")
 val cleanedDir = File(sourceDir, "cleaned")
 
