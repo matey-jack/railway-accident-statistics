@@ -1,0 +1,34 @@
+file,provider,model_id,inference_profile_id,max_tokens_requested,service_tier_requested,service_tier_resolved,local_call_duration_ms,bedrock_latency_ms,input_tokens,output_tokens,total_tokens,stop_reason,input_cost_usd,output_cost_usd,total_cost_usd
+200_Frankfurt_Oder_Oderbrücke.txt,bedrock,amazon.nova-2-lite-v1:0,global.amazon.nova-2-lite-v1:0,3000,flex,flex,10659,9818,5219,1509,6728,end_turn,0.001018,0.002467,0.003485
+210_Mannheim_Hbf_-_Ludwigshafen_Hbf.txt,bedrock,amazon.nova-2-lite-v1:0,global.amazon.nova-2-lite-v1:0,3000,flex,flex,13376,13336,5880,2106,7986,end_turn,0.001147,0.003443,0.004590
+080_Feucht.txt,bedrock,amazon.nova-2-lite-v1:0,global.amazon.nova-2-lite-v1:0,3000,flex,flex,7848,7808,6317,1445,7762,end_turn,0.001232,0.002363,0.003594
+050_Bad Laasphe - Erndtebrück.txt,bedrock,amazon.nova-2-lite-v1:0,global.amazon.nova-2-lite-v1:0,3000,flex,flex,5234,5191,8267,673,8940,end_turn,0.001612,0.001100,0.002712
+110_Eschhofen.txt,bedrock,amazon.nova-2-lite-v1:0,global.amazon.nova-2-lite-v1:0,3000,flex,flex,7944,7905,9005,976,9981,end_turn,0.001756,0.001596,0.003352
+030_Herlasgrün.txt,bedrock,amazon.nova-2-lite-v1:0,global.amazon.nova-2-lite-v1:0,3000,flex,flex,8701,8661,9384,1324,10708,end_turn,0.001830,0.002165,0.003995
+070_Witten_Hbf_-_Witten-Annen_Nord.txt,bedrock,amazon.nova-2-lite-v1:0,global.amazon.nova-2-lite-v1:0,3000,flex,flex,7428,7389,9435,1084,10519,end_turn,0.001840,0.001772,0.003612
+060_Langenselbold - Hailer-Meerholz.txt,bedrock,amazon.nova-2-lite-v1:0,global.amazon.nova-2-lite-v1:0,3000,flex,flex,9028,8984,11344,1253,12597,end_turn,0.002212,0.002049,0.004261
+120_Köln_Hbf.txt,bedrock,amazon.nova-2-lite-v1:0,global.amazon.nova-2-lite-v1:0,3000,flex,flex,10123,10037,10630,1545,12175,end_turn,0.002073,0.002526,0.004599
+170_Bonn_Gbf.txt,bedrock,amazon.nova-2-lite-v1:0,global.amazon.nova-2-lite-v1:0,3000,flex,flex,13631,13584,13485,1688,15173,end_turn,0.002630,0.002760,0.005389
+090_Dillingen_Saar.txt,bedrock,amazon.nova-2-lite-v1:0,global.amazon.nova-2-lite-v1:0,3000,flex,flex,8053,8011,11934,994,12928,end_turn,0.002327,0.001625,0.003952
+160_Frankfurt_Main_Süd.txt,bedrock,amazon.nova-2-lite-v1:0,global.amazon.nova-2-lite-v1:0,3000,flex,flex,11073,11032,14061,1217,15278,end_turn,0.002742,0.001990,0.004732
+010_Gremberg.txt,bedrock,amazon.nova-2-lite-v1:0,global.amazon.nova-2-lite-v1:0,3000,flex,flex,12475,12428,12099,1712,13811,end_turn,0.002359,0.002799,0.005158
+140_Neuss_Gbf.txt,bedrock,amazon.nova-2-lite-v1:0,global.amazon.nova-2-lite-v1:0,3000,flex,flex,8510,8466,15365,1002,16367,end_turn,0.002996,0.001638,0.004634
+020_Gelsenkirchen.txt,bedrock,amazon.nova-2-lite-v1:0,global.amazon.nova-2-lite-v1:0,3000,flex,flex,9811,9766,12969,1209,14178,end_turn,0.002529,0.001977,0.004506
+150_Storzingen_-_Inzigkofen.txt,bedrock,amazon.nova-2-lite-v1:0,global.amazon.nova-2-lite-v1:0,3000,flex,flex,13772,13725,13699,2112,15811,end_turn,0.002671,0.003453,0.006124
+100_Vilseck_Freihung.txt,bedrock,amazon.nova-2-lite-v1:0,global.amazon.nova-2-lite-v1:0,3000,flex,flex,11774,11729,14529,1515,16044,end_turn,0.002833,0.002477,0.005310
+130_Freiburg_Breisgau_Gbf.txt,bedrock,amazon.nova-2-lite-v1:0,global.amazon.nova-2-lite-v1:0,3000,flex,flex,8985,8935,15251,1051,16302,end_turn,0.002974,0.001718,0.004692
+190_Bitterfeld_-_Wolfen.txt,bedrock,amazon.nova-2-lite-v1:0,global.amazon.nova-2-lite-v1:0,3000,flex,flex,11439,11360,19877,1371,21248,end_turn,0.003876,0.002242,0.006118
+004_Hannover-Langenhagen.txt,bedrock,amazon.nova-2-lite-v1:0,global.amazon.nova-2-lite-v1:0,3000,flex,flex,18021,17946,17335,2391,19726,end_turn,0.003380,0.003909,0.007290
+008_Vilseck.txt,bedrock,amazon.nova-2-lite-v1:0,global.amazon.nova-2-lite-v1:0,3000,flex,flex,12058,12008,21341,1370,22711,end_turn,0.004161,0.002240,0.006401
+006_Osnabrück.txt,bedrock,amazon.nova-2-lite-v1:0,global.amazon.nova-2-lite-v1:0,3000,flex,flex,16368,16313,19410,2190,21600,end_turn,0.003785,0.003581,0.007366
+240_Ludwigshafen-Oggersheim.txt,bedrock,amazon.nova-2-lite-v1:0,global.amazon.nova-2-lite-v1:0,3000,flex,flex,12032,11985,25171,1342,26513,end_turn,0.004908,0.002194,0.007103
+003_Fichtenberg.txt,bedrock,amazon.nova-2-lite-v1:0,global.amazon.nova-2-lite-v1:0,3000,flex,flex,6091,6026,18751,618,19369,end_turn,0.003656,0.001010,0.004667
+009_Berlin Südkreuz.txt,bedrock,amazon.nova-2-lite-v1:0,global.amazon.nova-2-lite-v1:0,3000,flex,flex,12867,12815,19691,1647,21338,end_turn,0.003840,0.002693,0.006533
+040_Espelkamp.txt,bedrock,amazon.nova-2-lite-v1:0,global.amazon.nova-2-lite-v1:0,3000,flex,flex,11590,11536,18699,1318,20017,end_turn,0.003646,0.002155,0.005801
+180_Bitburg-Erdorf_-_Kyllburg.txt,bedrock,amazon.nova-2-lite-v1:0,global.amazon.nova-2-lite-v1:0,3000,flex,flex,13215,13160,25583,1501,27084,end_turn,0.004989,0.002454,0.007443
+005_Holzdorf.txt,bedrock,amazon.nova-2-lite-v1:0,global.amazon.nova-2-lite-v1:0,3000,flex,flex,10378,10325,24365,1418,25783,end_turn,0.004751,0.002318,0.007070
+220_Rüsselsheim.txt,bedrock,amazon.nova-2-lite-v1:0,global.amazon.nova-2-lite-v1:0,3000,flex,flex,12712,12625,31335,1292,32627,end_turn,0.006110,0.002112,0.008223
+230_Bruchköbel_-_Nidderau.txt,bedrock,amazon.nova-2-lite-v1:0,global.amazon.nova-2-lite-v1:0,3000,flex,flex,15267,15206,36756,1676,38432,end_turn,0.007167,0.002740,0.009908
+007_Schrozberg.txt,bedrock,amazon.nova-2-lite-v1:0,global.amazon.nova-2-lite-v1:0,3000,flex,flex,18229,18151,43838,2423,46261,end_turn,0.008548,0.003962,0.012510
+002_Brühl.txt,bedrock,amazon.nova-2-lite-v1:0,global.amazon.nova-2-lite-v1:0,3000,flex,flex,11255,11177,48256,1079,49335,end_turn,0.009410,0.001764,0.011174
+001_Bad_Münder.txt,bedrock,amazon.nova-2-lite-v1:0,global.amazon.nova-2-lite-v1:0,3000,flex,flex,11568,11483,58305,1107,59412,end_turn,0.011369,0.001810,0.013179
