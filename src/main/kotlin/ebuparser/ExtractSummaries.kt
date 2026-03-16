@@ -340,7 +340,11 @@ fun main() {
 
     val files =
         documentsDir
-            .listFiles { file -> file.isFile && file.extension == "txt" && file.name !in processedFiles && isFileInSubsetForTest(file.name) }
+            .listFiles {
+                file -> file.isFile && file.extension == "txt"
+                    && file.name !in processedFiles
+//                    && isFileInSubsetForTest(file.name)
+            }
             ?.sortedBy { it.name }
             ?: emptyList()
 

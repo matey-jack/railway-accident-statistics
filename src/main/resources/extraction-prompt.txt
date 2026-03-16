@@ -11,5 +11,6 @@ Suche dazu im Text die folgenden Informationen:
 # Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle
 
 Die Abschnitte über Stellwerke und Fahrzeuge sollen entfallen, wenn dazu keine Angaben enthalten sind.
-Die Ausgabe sollte diese Überschriften (wenn sie nicht entfallen) jeweils nur mit dem einen "#" Zeichen am Anfang enthalten.
+Die Ausgabe soll diese Überschriften (wenn sie nicht entfallen) jeweils nur mit dem einen "#" Zeichen am Anfang enthalten.
 Unter jeder Überschrift dann alle relevanten Sätze und Abschnitte zu diesem Thema wörtlich zitiert aus dem Originaldokument.
+Der Titel selbst soll nicht als Überschrift formatiert sein und auch keine Überschrift tragen. Nur eine blanke Zeile Text als erste Zeile der Ausgabe.
