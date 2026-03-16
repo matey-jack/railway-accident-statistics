@@ -85,6 +85,10 @@ data class Classification(
     @property:LlmField("Brand", "Beim Unfall handelte es sich um einen Brand.")
     val fire: Boolean,
 
+    @property:LlmField("Kollision",
+        "Es kam beim Unfall zu einer Kollision zweier Eisenbahnfahrzeuge. Explizit ausgenommen sind Kollisionen mit Straßenfahrzeugen.")
+    val collision: Boolean,
+
     @property:LlmField("Sonstige Unfallursache",
         "Eine wesentliche Unfallursache ist nicht eine der vorgenannten Kategorien.")
     val otherCause: Boolean,
