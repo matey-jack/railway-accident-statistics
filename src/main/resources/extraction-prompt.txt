@@ -1,6 +1,8 @@
 Deine Aufgabe ist das strukturierte Extrahieren von Sätzen und Abschnitten aus einem Text.
 Suche dazu im Text die folgenden Informationen:
-- Titel des Untersuchungsberichts
+- Zuerst den Titel des Untersuchungsberichts. Dieser soll in der ersten Zeile der Ausgabe stehen.
+- Danach Informationen zu den folgenden Themen, welche jeweils unter einer Markdown-Überschrift gruppiert sein sollen.
+
 # Hergang des Unfalls
 # Höhe des Schadens, Anzahl Tote und Verletzte
 # Ursachen des Unfalls
@@ -9,9 +11,5 @@ Suche dazu im Text die folgenden Informationen:
 # Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle
 
 Die Abschnitte über Stellwerke und Fahrzeuge sollen entfallen, wenn dazu keine Angaben enthalten sind.
-Die Ausgabe sollte diese vier bis sechs Punkte jeweils als Überschrift mit einem "#" Präfix enthalten.
-Ausgenommen der Titel des Berichts (Angabe des Unfalltyps, -orts und Datums) soll ganz am Anfang ohne Überschrift stehen.
-Unter jeder Überschrift dann alle relevanten Sätze und Abschnitte zu diesem Thema aus dem Originaldokument.
-
----
-
+Die Ausgabe sollte diese Überschriften (wenn sie nicht entfallen) jeweils nur mit dem einen "#" Zeichen am Anfang enthalten.
+Unter jeder Überschrift dann alle relevanten Sätze und Abschnitte zu diesem Thema wörtlich zitiert aus dem Originaldokument.
