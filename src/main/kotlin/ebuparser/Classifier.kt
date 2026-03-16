@@ -218,6 +218,8 @@ private fun parseClassification(toolInput: Map<String, Document>): Classificatio
         vehicleDeficiency = parseBooleanValue(toolInput["vehicleDeficiency"]),
         vehicleDeficiencyDescription = parseOptionalStringValue(toolInput["vehicleDeficiencyDescription"]).orEmpty(),
         insufficientBrakes = parseBooleanValue(toolInput["insufficientBrakes"]),
+        fire = parseBooleanValue(toolInput["fire"]),
+        collision = parseBooleanValue(toolInput["collision"]),
         otherCause = parseBooleanValue(toolInput["otherCause"]),
     )
 
