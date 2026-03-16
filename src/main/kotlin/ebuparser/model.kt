@@ -2,11 +2,21 @@ package ebuparser
 
 import java.time.LocalDate
 
-data class SummaryFile(
-    val summaries: List<Summary>,
-)
 
 data class Summary(
+    val filename: String,
+    val date: String, // format dd.mm.yyyy
+    val title: String,
+    val sections: List<Section>,
+)
+
+data class Section(
+    val title: String,
+    val category: SectionCategory,
+    val text: String,
+)
+
+data class DamagesSummary(
     val fileName: String,
     val title: String,
     val published: LocalDate,
@@ -14,6 +24,67 @@ data class Summary(
     val totalInjured: Int,
     val totalCasualties: Int,
     val sections: List<Section>,
+)
+
+enum class RoadVehicleType {
+    CAR,
+    TRUCK,
+    BUS,
+    OTHER,
+}
+
+annotation class LlmField(
+    val name: String,
+    val description: String,
+    val required: Boolean = true,
+)
+
+data class Classification(
+    @property:LlmField("Bahnübergang",
+        "Der Unfall fand an einem Bahnübergang (BÜ) statt. (Meist Kollision mit einem Straßenfahrzeug.")
+    val railwayCrossing: Boolean,
+    @property:LlmField("Typ des Straßenfahrzeugs",
+        "Nur auszufüllen, wenn es sich um einen Unfall am BÜ handelt.", required = false)
+    val roadVehicleType: RoadVehicleType?,
+
+    @property:LlmField("Bauarbeiten",
+        "Der Unfall stand im Zusammenhang mit Bauarbeiten, z.B. eingeschränkter Betrieb, Kollision mit Baufahrzeugen oder Baumaterialien.")
+    val constructionWork: Boolean,
+    @property:LlmField("Störbetrieb",
+        "Mindestens eine Betriebsstelle oder Strecke befand sich im Störbetrieb oder unter ganz oder teilweise aufgehobenen Signalabhängigkeit.")
+    val degradedMode: Boolean,
+    @property:LlmField("Naturkatastrophe",
+        "Unfallursache war (teilweise oder hauptsächlich) eine Naturkatastrophe.")
+    val naturalDisaster: Boolean,
+
+
+    @property:LlmField("Fehlhandlung Fdl",
+        "Unfallursache war (ganz oder teilweise) eine Fehlhandlung des Fahrdienstleiters (Fdl).")
+    val signallerError: Boolean,
+    @property:LlmField("Fehlhandlung Tf",
+        "Unfallursache war (ganz oder teilweise) eine Fehlhandlung des Triebfahrzeugführers (Tf).")
+    val driverError: Boolean,
+
+    @property:LlmField("Mängel an Infrastruktur",
+        "Unfallursache war ein Mangel an der Infrastruktur, z.B. Gleislage oder mangelnde Festigkeit.")
+    val infrastructureDeficiency: Boolean,
+    @property:LlmField("Art des Mangels an der Infrastruktur",
+        "Nur auszufüllen, wenn es sich um einen Mangel an der Infrastruktur handelt.", required = false)
+    val infrastructureDeficiencyDescription: String,
+
+    @property:LlmField("Mängel am Fahrzeug",
+        "Unfallursache war ein Mangel am Fahrzeug.")
+    val vehicleDeficiency: Boolean,
+    @property:LlmField("Art des Mangels am Fahrzeug",
+        "Nur auszufüllen, wenn es sich um einen Mangel am Fahrzeug handelt.", required = false)
+    val vehicleDeficiencyDescription: String,
+    @property:LlmField("Unzureichende Bremsleistung",
+        "Unfallursache war unzureichende Bremsleistung.")
+    val insufficientBrakes: Boolean,
+
+    @property:LlmField("Sonstige Unfallursache",
+        "Eine wesentliche Unfallursache ist nicht eine der vorgenannten Kategorien.")
+    val otherCause: Boolean,
 )
 
 data class SimpleSummary(
@@ -30,9 +101,3 @@ enum class SectionCategory {
     CAUSES,
     MEASURES,
 }
-
-data class Section(
-    val title: String,
-    val category: SectionCategory,
-    val text: String,
-)
