@@ -17,9 +17,6 @@ import software.amazon.awssdk.services.bedrockruntime.model.Message
 import software.amazon.awssdk.services.bedrockruntime.model.ServiceTier
 import software.amazon.awssdk.services.bedrockruntime.model.ServiceTierType
 import software.amazon.awssdk.services.bedrockruntime.model.SystemContentBlock
-import software.amazon.awssdk.services.sts.StsClient
-import software.amazon.awssdk.services.sts.model.GetCallerIdentityRequest
-import software.amazon.awssdk.services.sts.model.GetCallerIdentityResponse
 import windows.SleepPreventer
 import java.io.File
 import java.nio.charset.Charset
@@ -36,7 +33,6 @@ const val BEDROCK_MAX_TOKENS = 3000
 const val OUTPUT_FILENAME = "summaries.md"
 const val LEMONADE_OUTPUT_DIR = "results/lemonade"
 const val BEDROCK_OUTPUT_DIR = "results/bedrock"
-const val AWS_PROFILE = "llm-user"
 
 val llmServer =
     SimpleOpenAI
@@ -202,45 +198,6 @@ fun printDebugInfo() {
     println("file.encoding: ${System.getProperty("file.encoding")}")
     println("stdout.encoding: ${System.getProperty("stdout.encoding")}")
     println("Encoding test: äöüß")
-}
-
-fun resolveAwsRegion(): Region {
-    val regionName = System.getenv("AWS_REGION") ?: System.getenv("AWS_DEFAULT_REGION") ?: "eu-central-1"
-    return Region.of(regionName)
-}
-
-fun getCallerIdentityForProfile(profileName: String): GetCallerIdentityResponse? {
-    return try {
-        val region = resolveAwsRegion()
-        ProfileCredentialsProvider
-            .builder()
-            .profileName(profileName)
-            .build()
-            .use { credentialsProvider ->
-                StsClient
-                    .builder()
-                    .region(region)
-                    .credentialsProvider(credentialsProvider)
-                    .build()
-                    .use { sts ->
-                        sts.getCallerIdentity(GetCallerIdentityRequest.builder().build())
-                    }
-            }
-    } catch (e: Exception) {
-        println("AWS profile '$profileName' is not ready: ${e.message}")
-        null
-    }
-}
-
-fun printCallerIdentity(identity: GetCallerIdentityResponse) {
-    println("aws sts get-caller-identity --profile $AWS_PROFILE")
-    println(
-        "{" +
-            "\"UserId\":\"${identity.userId()}\"," +
-            "\"Account\":\"${identity.account()}\"," +
-            "\"Arn\":\"${identity.arn()}\"" +
-            "}",
-    )
 }
 
 fun isLemonadeRunning(): Boolean {

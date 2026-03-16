@@ -2,7 +2,9 @@ package ebuparser
 
 import org.junit.jupiter.api.Assertions.assertEquals
 import org.junit.jupiter.api.Test
+import org.junit.jupiter.api.io.TempDir
 import java.io.File
+import java.nio.file.Path
 
 class ExtractSummariesKtTest {
     @Test
@@ -15,8 +17,8 @@ class ExtractSummariesKtTest {
     }
 
     @Test
-    fun testGetAlreadyProcessedFilenames_FileDoesNotExist() {
-        val outputFile = File("src/test/resources/nonexistent.md")
+    fun testGetAlreadyProcessedFilenames_FileDoesNotExist(@TempDir tempDir: Path) {
+        val outputFile = tempDir.resolve("nonexistent.md").toFile()
         val processedFilenames = getAlreadyProcessedFilenames(outputFile)
 
         assertEquals(0, processedFilenames.size)
