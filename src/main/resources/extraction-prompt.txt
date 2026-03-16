@@ -4,11 +4,12 @@ Suche dazu im Text die folgenden Informationen:
 # Hergang des Unfalls
 # Höhe des Schadens, Anzahl Tote und Verletzte
 # Ursachen des Unfalls
-# Bauart der beteiligten Stellwerke (falls vorhanden)
-# Baureihe der beteiligten Schienenfahrzeuge (falls vorhanden)
+# Bauart der beteiligten Stellwerke
+# Baureihe der beteiligten Schienenfahrzeuge
 # Empfohlene Maßnahmen zur Verhinderung zukünftiger Unfälle
 
-Die Ausgabe sollte diese vier Punkte jeweils als Überschrift mit einem "#" Präfix enthalten.
+Die Abschnitte über Stellwerke und Fahrzeuge sollen entfallen, wenn dazu keine Angaben enthalten sind.
+Die Ausgabe sollte diese vier bis sechs Punkte jeweils als Überschrift mit einem "#" Präfix enthalten.
 Ausgenommen der Titel des Berichts (Angabe des Unfalltyps, -orts und Datums) soll ganz am Anfang ohne Überschrift stehen.
 Unter jeder Überschrift dann alle relevanten Sätze und Abschnitte zu diesem Thema aus dem Originaldokument.
 
