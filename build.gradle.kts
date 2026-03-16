@@ -16,7 +16,13 @@ application {
     // IMPORTANT for stdout.encoding: when running in Powershell, set the encoding there (Profile.ps1)
     // regarding file.encoding: apparently, OkHttp also uses this when no charset is provided in the Content-Type header.
     applicationDefaultJvmArgs = listOf("-Dstdout.encoding=UTF-8", "-Dfile.encoding=UTF-8")
-    mainClass.set("ebuparser.MainKt")
+    mainClass.set(System.getProperty("mainClass"))
+}
+
+kotlin {
+    compilerOptions {
+        freeCompilerArgs.add("-Xannotation-default-target=param-property")
+    }
 }
 
 tasks.test {
@@ -28,27 +34,6 @@ tasks.register<JavaExec>("runTestAws") {
     description = "Runs the standalone STS profile check"
     classpath = sourceSets["main"].runtimeClasspath
     mainClass.set("ebuparser.TestAwsKt")
-}
-
-tasks.register<JavaExec>("runExtractDamages") {
-    group = "application"
-    description = "Extracts damage sections from Bedrock summaries"
-    classpath = sourceSets["main"].runtimeClasspath
-    mainClass.set("ebuparser.ExtractDamagesKt")
-}
-
-tasks.register<JavaExec>("runRecommendationStats") {
-    group = "application"
-    description = "Groups safety recommendations and counts them"
-    classpath = sourceSets["main"].runtimeClasspath
-    mainClass.set("ebustats.RecommendationStatsKt")
-}
-
-tasks.register<JavaExec>("runExtractDates") {
-    group = "application"
-    description = "Extracts accident dates from Bedrock summaries into CSV"
-    classpath = sourceSets["main"].runtimeClasspath
-    mainClass.set("ebuparser.ExtractDatesKt")
 }
 
 repositories {

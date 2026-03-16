@@ -20,11 +20,7 @@ Pipeline in order:
 
 ## Running things
 
-`./gradlew run` — main pipeline (ExtractSummaries)
-`./gradlew runTestAws` — verify AWS credentials before a Bedrock run
-`./gradlew runExtractDamages`, `runRecommendationStats` — see build.gradle.kts for the rest
-
-`HandleLigatures.kt` is run via the IntelliJ play button.
+`gradle run -DmainClass=ebuparser.ExtractSummaries` — put the class name with package as shown.
 
 ## Language
 

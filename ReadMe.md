@@ -50,6 +50,10 @@ Note that:
    (At least Bash manages to handle the quotes-in-command-in-quotes correctly.)
  - pdfminer.six is better than poppler-utils, but still can't decode ligatures, thus the next section.
 
+# Kotlin scripts and LLM calling
+
+Each step can be run manually using `gradle run -DmainClass=ebuparser.ExtractSummaries` or any other file with a `fun main()`.
+
 ## Preprocessing: Ligature Cleaning
 
 Code: [HandleLigatures.kt](src/main/kotlin/pdfutil/HandleLigatures.kt)
