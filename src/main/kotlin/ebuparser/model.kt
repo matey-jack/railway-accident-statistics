@@ -41,56 +41,55 @@ annotation class LlmField(
 )
 
 data class Classification(
-    @property:LlmField("Bahnübergang",
+    @LlmField("Bahnübergang",
         "Der Unfall fand an einem Bahnübergang (BÜ) statt. (Meist Kollision mit einem Straßenfahrzeug.")
     val railwayCrossing: Boolean,
-    @property:LlmField("Typ des Straßenfahrzeugs",
+    @LlmField("Typ des Straßenfahrzeugs",
         "Nur auszufüllen, wenn es sich um einen Unfall am BÜ handelt.", required = false)
     val roadVehicleType: RoadVehicleType?,
 
-    @property:LlmField("Bauarbeiten",
+    @LlmField("Bauarbeiten",
         "Der Unfall stand im Zusammenhang mit Bauarbeiten, z.B. eingeschränkter Betrieb, Kollision mit Baufahrzeugen oder Baumaterialien.")
     val constructionWork: Boolean,
-    @property:LlmField("Störbetrieb",
+    @LlmField("Störbetrieb",
         "Mindestens eine Betriebsstelle oder Strecke befand sich im Störbetrieb oder unter ganz oder teilweise aufgehobenen Signalabhängigkeit.")
     val degradedMode: Boolean,
-    @property:LlmField("Naturkatastrophe",
+    @LlmField("Naturkatastrophe",
         "Unfallursache war (teilweise oder hauptsächlich) eine Naturkatastrophe.")
     val naturalDisaster: Boolean,
 
 
-    @property:LlmField("Fehlhandlung Fdl",
+    @LlmField("Fehlhandlung Fdl",
         "Unfallursache war (ganz oder teilweise) eine Fehlhandlung des Fahrdienstleiters (Fdl).")
     val signallerError: Boolean,
-    @property:LlmField("Fehlhandlung Tf",
+    @LlmField("Fehlhandlung Tf",
         "Unfallursache war (ganz oder teilweise) eine Fehlhandlung des Triebfahrzeugführers (Tf).")
     val driverError: Boolean,
 
-    @property:LlmField("Mängel an Infrastruktur",
+    @LlmField("Mängel an Infrastruktur",
         "Unfallursache war ein Mangel an der Infrastruktur, z.B. Gleislage oder mangelnde Festigkeit.")
     val infrastructureDeficiency: Boolean,
-    @property:LlmField("Art des Mangels an der Infrastruktur",
+    @LlmField("Art des Mangels an der Infrastruktur",
         "Nur auszufüllen, wenn es sich um einen Mangel an der Infrastruktur handelt.", required = false)
     val infrastructureDeficiencyDescription: String,
 
-    @property:LlmField("Mängel am Fahrzeug",
+    @LlmField("Mängel am Fahrzeug",
         "Unfallursache war ein Mangel am Fahrzeug.")
     val vehicleDeficiency: Boolean,
-    @property:LlmField("Art des Mangels am Fahrzeug",
+    @LlmField("Art des Mangels am Fahrzeug",
         "Nur auszufüllen, wenn es sich um einen Mangel am Fahrzeug handelt.", required = false)
     val vehicleDeficiencyDescription: String,
-    @property:LlmField("Unzureichende Bremsleistung",
+    @LlmField("Unzureichende Bremsleistung",
         "Unfallursache war unzureichende Bremsleistung.")
     val insufficientBrakes: Boolean,
 
-    @property:LlmField("Brand", "Beim Unfall handelte es sich um einen Brand.")
-    val fire: Boolean,
+//    @LlmField("Brand", "Beim Unfall handelte es sich um einen Brand.")
+//    val fire: Boolean,
+//    @LlmField("Kollision",
+//        "Es kam beim Unfall zu einer Kollision zweier Eisenbahnfahrzeuge. Explizit ausgenommen sind Kollisionen mit Straßenfahrzeugen.")
+//    val collision: Boolean,
 
-    @property:LlmField("Kollision",
-        "Es kam beim Unfall zu einer Kollision zweier Eisenbahnfahrzeuge. Explizit ausgenommen sind Kollisionen mit Straßenfahrzeugen.")
-    val collision: Boolean,
-
-    @property:LlmField("Sonstige Unfallursache",
+    @LlmField("Sonstige Unfallursache",
         "Eine wesentliche Unfallursache ist nicht eine der vorgenannten Kategorien.")
     val otherCause: Boolean,
 )

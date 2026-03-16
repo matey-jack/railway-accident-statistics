@@ -3,20 +3,7 @@ package ebuparser
 import software.amazon.awssdk.auth.credentials.ProfileCredentialsProvider
 import software.amazon.awssdk.core.document.Document
 import software.amazon.awssdk.services.bedrockruntime.BedrockRuntimeClient
-import software.amazon.awssdk.services.bedrockruntime.model.ContentBlock
-import software.amazon.awssdk.services.bedrockruntime.model.ConversationRole
-import software.amazon.awssdk.services.bedrockruntime.model.ConverseRequest
-import software.amazon.awssdk.services.bedrockruntime.model.InferenceConfiguration
-import software.amazon.awssdk.services.bedrockruntime.model.Message
-import software.amazon.awssdk.services.bedrockruntime.model.ServiceTier
-import software.amazon.awssdk.services.bedrockruntime.model.ServiceTierType
-import software.amazon.awssdk.services.bedrockruntime.model.SpecificToolChoice
-import software.amazon.awssdk.services.bedrockruntime.model.SystemContentBlock
-import software.amazon.awssdk.services.bedrockruntime.model.Tool
-import software.amazon.awssdk.services.bedrockruntime.model.ToolChoice
-import software.amazon.awssdk.services.bedrockruntime.model.ToolConfiguration
-import software.amazon.awssdk.services.bedrockruntime.model.ToolInputSchema
-import software.amazon.awssdk.services.bedrockruntime.model.ToolSpecification
+import software.amazon.awssdk.services.bedrockruntime.model.*
 import java.io.File
 import kotlin.reflect.KType
 import kotlin.reflect.full.findAnnotation
@@ -36,24 +23,13 @@ private data class ClassificationFieldMeta(
 private val classificationPrompt = File("src/main/resources/classification-prompt.txt").readText()
 
 private val classificationFieldMetadata: List<ClassificationFieldMeta> =
-    run {
-        val propertiesByName = Classification::class.memberProperties.associateBy { it.name }
-        val constructor = requireNotNull(Classification::class.primaryConstructor)
-
-        constructor.parameters.map { parameter ->
-            val propertyName = requireNotNull(parameter.name)
-            val property = requireNotNull(propertiesByName[propertyName])
-            val llmField =
-                requireNotNull(property.findAnnotation<LlmField>()) {
-                    "Missing @LlmField annotation on Classification.$propertyName"
-                }
-
-            ClassificationFieldMeta(
-                propertyName = propertyName,
-                type = property.returnType,
-                llmField = llmField,
-            )
-        }
+    Classification::class.primaryConstructor!!.parameters.mapNotNull { parameter ->
+        val llmField = parameter.findAnnotation<LlmField>() ?: return@mapNotNull null
+        ClassificationFieldMeta(
+            propertyName = parameter.name!!,
+            type = parameter.type,
+            llmField = llmField,
+        )
     }
 
 private fun buildFieldSchema(field: ClassificationFieldMeta): Document {
@@ -163,7 +139,7 @@ private fun buildClassificationInput(summary: Summary): String {
         summary.sections
             .filter { section ->
                 section.category == SectionCategory.WHAT_HAPPENED ||
-                    section.category == SectionCategory.CAUSES
+                        section.category == SectionCategory.CAUSES
             }.ifEmpty { summary.sections }
 
     val sectionsText =
@@ -309,37 +285,38 @@ class Classifier(
     val toolConfig =
         ToolConfiguration
             .builder()
-        .tools(
-            Tool.fromToolSpec(
-                ToolSpecification
-                    .builder()
-                    .name("classify")
-                    .description("Unfallkategorisierung")
-                    .inputSchema(
-                        ToolInputSchema.fromJson(
-                            Document.mapBuilder()
-                                .putString("type", "object")
-                                .putMap("properties", buildToolSchemaProperties())
-                                .putList("required", buildRequiredProperties())
-                                .build()
+            .tools(
+                Tool.fromToolSpec(
+                    ToolSpecification
+                        .builder()
+                        .name("classify")
+                        .description("Unfallkategorisierung")
+                        .inputSchema(
+                            ToolInputSchema.fromJson(
+                                Document.mapBuilder()
+                                    .putString("type", "object")
+                                    .putMap("properties", buildToolSchemaProperties())
+                                    .putList("required", buildRequiredProperties())
+                                    .build()
+                            )
                         )
-                    )
-                    .build()
+                        .build()
+                )
             )
-        )
-        .toolChoice(
-            ToolChoice.fromTool(
-                SpecificToolChoice
-                    .builder()
-                    .name("classify")
-                    .build(),
+            .toolChoice(
+                ToolChoice.fromTool(
+                    SpecificToolChoice
+                        .builder()
+                        .name("classify")
+                        .build(),
+                )
             )
-        )
-        .build()
+            .build()
 
     fun classify(summary: Summary): Classification {
         val modelInput = buildClassificationInput(summary)
 
+        println("INFO tool config: ${toolConfig}")
         val request =
             ConverseRequest
                 .builder()
@@ -403,7 +380,7 @@ val testReports = listOf(
     "179", "191", "012", "032", "201",
     "116", "001", "226", "089", "237"
 )
-    // listOf("114", "023", "002", "007", "231", "238", "199", "009", "047", "034")
+// listOf("114", "023", "002", "007", "231", "238", "199", "009", "047", "034")
 
 fun main() {
     val identity =
