@@ -13,4 +13,6 @@ Suche dazu im Text die folgenden Informationen:
 Die Abschnitte über Stellwerke und Fahrzeuge sollen entfallen, wenn dazu keine Angaben enthalten sind.
 Die Ausgabe soll diese Überschriften (wenn sie nicht entfallen) jeweils nur mit dem einen "#" Zeichen am Anfang enthalten.
 Unter jeder Überschrift dann alle relevanten Sätze und Abschnitte zu diesem Thema wörtlich zitiert aus dem Originaldokument.
+Bei der Schadenshöhe übernimm alle Zahlen aus dem Originaldokument, sowohl monetär als auch geschädigte Personen.
+
 Der Titel selbst soll nicht als Überschrift formatiert sein und auch keine Überschrift tragen. Nur eine blanke Zeile Text als erste Zeile der Ausgabe.

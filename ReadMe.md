@@ -44,28 +44,28 @@ Therefore, I switched to pdfminer.six:
     done
 
 Note that:
- - there are 13 files (039, 148, 151 to 160, and 162) where pdfminer can't see the n and sometimes the u, leading to words like "Unters ch ngsbericht" and sentences like "Es  trate   kei e  Perso e schäde   ei ."
- - I need `pipx`, because the local Python installation is locked.
-   Luckily, it's just one line more, no big deal.
- - all the quotes are needed because some filenames contain spaces.
-   (At least Bash manages to handle the quotes-in-command-in-quotes correctly.)
- - pdfminer.six is better than poppler-utils, but still can't decode ligatures, thus the next section.
+- I need `pipx`, because the local Python installation is locked.
+  Luckily, it's just one line more, no big deal.
+- all the quotes are needed because some filenames contain spaces.
+  (At least Bash manages to handle the quotes-in-command-in-quotes correctly.)
+- Unlike poppler-utils pdfminer.six doesn't just ignore the ligatures and can even decode some, but not all, thus the next section.
+- But there's actually a regression: poppler-utils somehow handles soft hyphens and fuses the words again. It also removes a lot of superfluous whitespace.  
+- there are 13 files (039, 148, 151 to 160, and 162) where pdfminer can't see the n and sometimes the u, leading to words like "Unters ch ngsbericht" and sentences like "Es  trate   kei e  Perso e schäde   ei ."
+   At least pdf2txt seems to have the same problem, so it's not getting worse. 
 
 # Kotlin scripts and LLM calling
 
 Each step can be run manually using `gradle run -DmainClass=ebuparser.ExtractSummaries` or any other file with a `fun main()`.
 
-## Preprocessing: Ligature Cleaning
+## Preprocessing: Ligature Cleaning, De-hyphenation, Whitespace removal
 
-Code: [HandleLigatures.kt](src/main/kotlin/pdfutil/HandleLigatures.kt)
+Code: [kotlin/pdfutil/PostPdfProcess.kt](kotlin/pdfutil/PostPdfProcess.kt)
 
 Even after switching to pdfminer.six, some PDFs still emit raw CID character codes for ligatures (e.g. ff, fi, fl, ft).
-`HandleLigatures.kt` maps those CID codes to the correct character sequences.
+`PostPdfProcess.kt` maps those CID codes to the correct character sequences.
 
 Input: `documents/*.txt`
 Output: `documents/cleaned/*.txt`
-
-Run via IntelliJ play button.
 
 The cleaned files are what Stage One consumes.
 

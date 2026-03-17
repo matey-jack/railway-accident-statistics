@@ -43,6 +43,7 @@ val lineBreakHyphenPattern = Regex(
     "(?<=[\\wäöüÄÖÜß])-\n(?!(?:$conjunctions)(?:\\s|[^a-zA-ZäöüÄÖÜß]))([a-zäöüß])"
 )
 const val NBSP = '\u00A0'
+const val ALTERNATIVE_HYPHEN = '\u2010'
 
 val sourceDir = File("documents")
 val cleanedDir = File(sourceDir, "cleaned")
@@ -54,7 +55,7 @@ val unicodeLigatures = mapOf(
     'ﬂ' to "fl",
     'ﬃ' to "ffi",
     'ﬄ' to "ffl",
-    'ﬅ' to "st",
+    'ﬅ' to "ft",
     'ﬆ' to "st",
 )
 
@@ -114,7 +115,7 @@ fun main() {
                     ligatureMap[code] ?: match.value
                 }
             val afterLigs = afterCid.map { ch -> unicodeLigatures[ch] ?: ch.toString() }.joinToString("")
-            val afterHyphenNorm = afterLigs.replace('\u2010', '-')
+            val afterHyphenNorm = afterLigs.replace(ALTERNATIVE_HYPHEN, '-')
             val afterSoftHyphens = softHyphenPattern.replace(afterHyphenNorm, "")
             val afterPlainHyphens = lineBreakHyphenPattern.replace(afterSoftHyphens) { it.groupValues[1] }
             val cleaned = afterPlainHyphens.replace(NBSP, ' ')
