@@ -37,6 +37,11 @@ val ligatureMap =
 val shortParagraphPattern = Regex("\n\n([^\n]{60,100})\n\n([^\n]{60,100})\n\n")
 val cidPattern = Regex("\\(cid:(\\d+)\\)")
 val softHyphenPattern = Regex("\u00AD\n?\n?")
+val conjunctions = "und|oder|sowie|bzw\\.?|als|wie|auch|sondern|plus"
+val lineBreakHyphenPattern = Regex(
+    // letter before hyphen, lowercase letter after newline, next word is not a conjunction
+    "(?<=[\\wäöüÄÖÜß])-\n(?!(?:$conjunctions)(?:\\s|[^a-zA-ZäöüÄÖÜß]))([a-zäöüß])"
+)
 val sourceDir = File("documents")
 val cleanedDir = File(sourceDir, "cleaned")
 
@@ -93,8 +98,6 @@ fun main() {
         val foundCounts = mutableMapOf<Int, Int>()
         val highUnicodeCounts = mutableMapOf<Char, Int>()
         val shortParagraphs = mutableMapOf<String, Int>()
-        var totalReplacements = 0
-        var totalUnicodeLigatureReplacements = 0
 
         txtFiles.forEach { inputFile ->
             val content = inputFile.readText()
@@ -104,28 +107,11 @@ fun main() {
                 cidPattern.replace(afterLines) { match ->
                     val code = match.groupValues[1].toInt()
                     foundCounts[code] = (foundCounts[code] ?: 0) + 1
-
-                    val replacement = ligatureMap[code]
-                    if (replacement != null) {
-                        totalReplacements++
-                        replacement
-                    } else {
-                        match.value
-                    }
+                    ligatureMap[code] ?: match.value
                 }
-            val afterLigs = afterCid.map { ch ->
-                val replacement = unicodeLigatures[ch]
-                if (replacement != null) {
-                    totalUnicodeLigatureReplacements++
-                    replacement
-                } else {
-                    ch.toString()
-                }
-            }.joinToString("")
-            val cleaned = softHyphenPattern.replace(afterLigs, "")
-            // TODO (harder): also remove ascii hyphen-minus when used as a soft hyphen.
-            //      This needs some heuristics to avoid removing "hin- und her-Striche". Maybe check that the first word on the next line is not a dictionary word (at least not "und", "oder", "sowie", etc). Possibly check that the concatenated word _is_ a dictionary word.
-            //      Or maybe this can all be done by the LLM with the summary-extraction prompt??
+            val afterLigs = afterCid.map { ch -> unicodeLigatures[ch] ?: ch.toString() }.joinToString("")
+            val afterSoftHyphens = softHyphenPattern.replace(afterLigs, "")
+            val cleaned = lineBreakHyphenPattern.replace(afterSoftHyphens) { it.groupValues[1] }
             content.forEach { ch ->
                 if (ch.code > 255) {
                     highUnicodeCounts[ch] = (highUnicodeCounts[ch] ?: 0) + 1
@@ -137,36 +123,35 @@ fun main() {
 
         println("Processed ${txtFiles.size} files.")
         println("Wrote cleaned files to '${cleanedDir.path}'.")
-        println("Replaced $totalReplacements ligature placeholders.")
-        println("Replaced $totalUnicodeLigatureReplacements Unicode ligature characters.")
 
-        println()
-        println("Found cid codes:")
-        foundCounts
-            .entries
-            .sortedByDescending { it.value }
-            .forEach { (code, count) ->
-                val replacement = ligatureMap[code] ?: "<unmapped>"
-                println("(cid:$code) -> '$replacement' : $count")
-            }
+//        println()
+//        println("Found cid codes:")
+//        foundCounts
+//            .entries
+//            .sortedByDescending { it.value }
+//            .forEach { (code, count) ->
+//                val replacement = ligatureMap[code] ?: "<unmapped>"
+//                println("(cid:$code) -> '$replacement' : $count")
+//            }
+//
+//        println()
+//        println("High Unicode characters (code > 255):")
+//        highUnicodeCounts
+//            .entries
+//            .sortedByDescending { it.value }
+//            .forEach { (ch, count) ->
+//                println("U+${ch.code.toString(16).uppercase().padStart(4, '0')} '$ch' : $count")
+//            }
+//
+//        println()
+//        println("Files with short paragraphs:")
+//        shortParagraphs
+//            .entries
+//            .sortedByDescending { it.value }
+//            .forEach { (fileName, count) ->
+//                println("$fileName : $count")
+//            }
 
-        println()
-        println("High Unicode characters (code > 255):")
-        highUnicodeCounts
-            .entries
-            .sortedByDescending { it.value }
-            .forEach { (ch, count) ->
-                println("U+${ch.code.toString(16).uppercase().padStart(4, '0')} '$ch' : $count")
-            }
-
-        println()
-        println("Files with short paragraphs:")
-        shortParagraphs
-            .entries
-            .sortedByDescending { it.value }
-            .forEach { (fileName, count) ->
-                println("$fileName : $count")
-            }
     }
 
 }
