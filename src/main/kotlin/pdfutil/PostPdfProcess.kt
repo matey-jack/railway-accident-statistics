@@ -97,11 +97,9 @@ fun main() {
     } else {
         val foundCounts = mutableMapOf<Int, Int>()
         val highUnicodeCounts = mutableMapOf<Char, Int>()
-        val shortParagraphs = mutableMapOf<String, Int>()
 
         txtFiles.forEach { inputFile ->
             val content = inputFile.readText()
-            shortParagraphs[inputFile.name] = shortParagraphPattern.findAll(content).count()
             val afterLines = joinOneLineParagraphs(content)
             val afterCid =
                 cidPattern.replace(afterLines) { match ->
@@ -141,15 +139,6 @@ fun main() {
 //            .sortedByDescending { it.value }
 //            .forEach { (ch, count) ->
 //                println("U+${ch.code.toString(16).uppercase().padStart(4, '0')} '$ch' : $count")
-//            }
-//
-//        println()
-//        println("Files with short paragraphs:")
-//        shortParagraphs
-//            .entries
-//            .sortedByDescending { it.value }
-//            .forEach { (fileName, count) ->
-//                println("$fileName : $count")
 //            }
 
     }
