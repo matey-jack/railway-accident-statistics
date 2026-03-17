@@ -1,43 +1,23 @@
 Untersuchungsbericht 
-
 Aktenzeichen: 
-
 BEU‐uu2020‐10/009‐3323 
-
 Stand: 
-
 13.10.2025 
-
 Version 1.0 
-
 Erstveröffentlichung:  16.10.2025 
-
 Gefährliches	Ereignis	im	Eisenbahnbetrieb 
-
 Ereignisart: 
-
 Datum: 
-
 Zeit: 
-
 Zugkollision 
-
 16.10.2020 
-
 10:12 Uhr 
-
 Betriebsstelle: 
-
 Bf Dreileben‐Drackenstedt 
-
 Gleis: 
-
 Kilometer: 
-
 4 
-
 161,93 
-
  
 	
  
@@ -54,26 +34,16 @@ Kilometer: 
  
  
 Untersuchungsbericht 
-
 Zugkollision, 16.10.2020, Bf Dreileben‐Drackenstedt 
-
 Veröffentlicht durch: 
-
 Bundesstelle für Eisenbahnunfalluntersuchung 
-
 Heinemannstraße 6 
-
 53175 Bonn 
-
  
 Untersuchungsbericht 
-
 Zugkollision, 16.10.2020, Bf Dreileben‐Drackenstedt 
-
 Inhaltsverzeichnis	
-
 I. 
-
 II. 
 
 Änderungsverzeichnis: .......................................................................................... II 
@@ -89,19 +59,12 @@ IV. 
 Abkürzungsverzeichnis: ........................................................................................ V 
 
 0 
-
 1 
-
 1.1 
-
 1.2 
-
 1.3 
-
 1.4 
-
 2 
-
 3 
 
 Vorbemerkung ...................................................................................................... 1 
@@ -121,9 +84,7 @@ Die Untersuchung und ihr Kontext ..........................................
 Beschreibung des Ereignisses ................................................................................ 7 
 
 3.1 
-
 Informationen über das Ereignis und seine Hintergründe ..................................... 7 
-
 3.1.1 
 
 Lage und Beschreibung des Ereignisortes .............................................................. 7 
@@ -153,7 +114,6 @@ Hergangsbeschreibung ..........................................................
 Notfallmanagement ............................................................................................. 14 
 
 4 
-
 4.1 
 
 Auswertung des Ereignisses ................................................................................ 15 
@@ -161,21 +121,14 @@ Auswertung des Ereignisses ..................................................
 Aufgaben und Pflichten ....................................................................................... 15 
 
 4.1.1 
-
 Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers ................. 15 
-
 I 
-
  
  
 Untersuchungsbericht 
-
 Zugkollision, 16.10.2020, Bf Dreileben‐Drackenstedt 
-
 4.1.2 
-
 Untersuchung der betrieblichen Abläufe der EVU ............................................... 19 
-
 4.2 
 
 Fahrzeuge und technische Einrichtungen ............................................................ 23 
@@ -189,9 +142,7 @@ Untersuchung von Fahrzeugen .................................................
 Untersuchung der Übergangskupplung ............................................................... 33 
 
 4.2.3 
-
 Untersuchung der bautechnischen Infrastruktur ................................................. 38 
-
 4.2.4 
 
 Untersuchung der Leit‐ und Sicherungstechnik ................................................... 38 
@@ -209,15 +160,10 @@ Beteiligte des Infrastrukturbetreibers ......................................
 Beteiligte des EVU ................................................................................................ 38 
 
 4.4 
-
 4.5 
-
 5 
-
 5.1 
-
 5.2 
-
 5.3 
 
 Feedback‐ und Kontrollmechanismen ................................................................. 41 
@@ -237,13 +183,9 @@ Zusätzliche Bemerkungen .....................................................
 Sicherheitsempfehlungen ................................................................................... 55 
 
 I.  Änderungsverzeichnis:	
-
 Änderung 
-
 Stand 
-
 II 
-
  
  
  
@@ -253,9 +195,7 @@ II 
 	
 	
 Untersuchungsbericht 
-
 Zugkollision, 16.10.2020, Bf Dreileben‐Drackenstedt 
-
 II.  Abbildungsverzeichnis:	
 
 Abbildung 1: Lageplan .............................................................................................................. 7 
@@ -305,14 +245,11 @@ Abbildung 20: Drei‐Wegeventil einer Übergangskupplung (Referenzfahrzeug)
 Abbildung 21: Auszug Prozess 710 Risiken erkennen ............................................................. 44 
 
 III 
-
  
  
  
 Untersuchungsbericht 
-
 Zugkollision, 16.10.2020, Bf Dreileben‐Drackenstedt 
-
 III.  Tabellenverzeichnis:	
 
 Tabelle 1: Zusammenfassung Einflussfaktoren ......................................................................... 3 
@@ -334,299 +271,168 @@ Tabelle 8: Kenndaten Kompressor Tfz .......................................
 Tabelle 9: Technische Daten der Triebzüge ............................................................................ 27 
 
 IV 
-
  
  
  
  
 Untersuchungsbericht 
-
 Zugkollision, 16.10.2020, Bf Dreileben‐Drackenstedt 
-
 IV.  Abkürzungsverzeichnis:	
-
 AEG 
-
 Asig 
-
 ATD 
-
 Bebu 
-
 BEU 
-
 Allgemeines Eisenbahngesetz 
-
 Ausfahrsignal 
-
 ALSTOM Transport Deutschland GmbH 
-
 Betriebsstellenbuch für Mitarbeiter auf Betriebsstellen 
-
 Bundesstelle für Eisenbahnunfalluntersuchung 
-
 BEVVG 
-
 Bundeseisenbahnverkehrsverwaltungsgesetz 
-
 Bf 
-
 Bft 
-
 BR 
-
 BRW 
-
 EBCU 
-
 ECM 
-
 EDU 
-
 EIU 
-
 EP 
-
 Bahnhof 
-
 Bahnhofsteil 
-
 Baureihe 
-
 Betriebsregelwerk 
-
 Electronic Brake Control Unit 
-
 Entity in Charge of Maintenance 
-
 Einheitsdruckübersetzer 
-
 Eisenbahninfrastrukturunternehmen 
-
 Elektropneumatisch 
-
 ESTW 
-
 Elektronisches Stellwerk 
-
 EU 
-
 EUV 
-
 EVU 
-
 Esig 
-
 Evsig 
-
 Fdl 
-
 Europäische Union 
-
 Eisenbahn‐Unfalluntersuchungsverordnung 
-
 Eisenbahnverkehrsunternehmen 
-
 Einfahrsignal 
-
 Einfahrvorsignal 
-
 Fahrdienstleiter 
-
 GSM‐R 
-
 Global System for Mobile Communications‐Rail 
-
 HBL 
-
 HLL 
-
 Hauptluftbehälterleitung 
-
 Hauptluftleitung 
-
 ICNG 
-
 InterCity Nieuwe Generatie 
-
 V 
-
  
  
 Untersuchungsbericht 
-
 Zugkollision, 16.10.2020, Bf Dreileben‐Drackenstedt 
-
 KKL 
-
 PZB 
-
 RB 
-
 Ril 
-
 Knorr‐Bremse Kleinsteuerventil II 
-
 Punktförmige Zugbeeinflussung 
-
 Regionalbahn 
-
 Richtlinie 
-
 SMS 
-
 Sicherheitsmanagementsystem 
-
 Tf 
-
 TfV 
-
 Tfz 
-
 Tz 
-
 UBE 
-
 UZ 
-
 VGT 
-
 VzG 
-
 Triebfahrzeugführer  
-
 Triebfahrzeugführerscheinverordnung 
-
 Triebfahrzeug 
-
 Triebzug 
-
 Unbedenklichkeitserklärung 
-
 Unterzentrale 
-
 Vorbereitungsgesellschaft Transporttechnik mbH 
-
 Verzeichnis der örtlich zulässigen Geschwindigkeiten 
-
 VI 
-
  
  
  
 Untersuchungsbericht 
-
 Zugkollision, 16.10.2020, Bf Dreileben‐Drackenstedt 
-
 0  Vorbemerkung	
 
 Auf der Grundlage des Artikel 24 der Richtlinie (EU) 2016/798 hat die europäische Kommission 
 
 mit 
-
 der 
-
 Inkraftsetzung 
-
 der  Durchführungsverordnung 
-
 (EU) 
-
 2020/572 
-
 die 
-
 Untersuchungsberichtsstruktur festgelegt. Diese Vorgaben sind grundsätzlich einzuhalten. Die 
-
 Berichtsstruktur muss der Art und Schwere des gefährlichen Ereignisses angepasst sein. 
-
 Mit  Verkündung  der  Verordnung  und  Inkraftsetzung  am  zwanzigsten  Tag  nach  der 
 
 Veröffentlichung  im  Amtsblatt  der  Europäischen  Union  (EU)  ist  diese  verbindlich  und 
 
 unmittelbar auf alle ab dem 17.05.2020 eingeleiteten Untersuchungen anzuwenden. 
-
 Seite 1 von 55 
-
  
  
  
  
 Untersuchungsbericht 
-
 Zugkollision, 16.10.2020, Bf Dreileben‐Drackenstedt 
-
 1  Zusammenfassung	
-
 Das erste Kapitel enthält eine Kurzbeschreibung des Ereignisses sowie Informationen zu den 
-
 Folgen, Ursachen sowie zu im Einzelfall ausgesprochenen Sicherheitsempfehlungen. 
-
 1.1  Kurzbeschreibung	des	Ereignisses	
-
 Am  16.10.2020  gegen  10:12  Uhr  kollidierte  die  Zugfahrt  DbZ 79653  auf  der  Fahrt  von 
-
 Salzgitter‐Immendorf West nach Blankenburg (Harz) im Bahnhof (Bf) Dreileben‐Drackenstedt 
-
 mit einem Gleisabschluss. Das Triebfahrzeug (Tfz) des Zuges entgleiste infolge der Kollision mit 
-
 allen vier Radsätzen. Der vordere Teil des geschleppten mehrteiligen Triebzuges (Tz) des Typs 
-
 „Coradia Stream“ in der Ausführung InterCity Nieuwe Generatie (ICNG) entgleiste mit sechs 
-
 Radsätzen. 
-
 1.2  Folgen	
-
 Eine  Person  wurde  schwer  verletzt.  Das  Tfz  überschlug  sich  und  verlor  ca.  2000 Liter 
-
 Betriebsstoffe. Es entstanden Sachschäden in geschätzter Höhe von 4.350.000 Euro. 
-
 1.3  Ursachen	
-
 Im  Rahmen  der  Untersuchung  des  Ereignisses  wurden  die  folgenden  Handlungen, 
 
 Unterlassungen, Vorkommnisse oder Umstände als sicherheitskritische Faktoren identifiziert. 
 
 Diese werden gemäß Durchführungsverordnung 2020/572  in ursächliche oder beitragende, 
-
 und  systemische  Faktoren  unterschieden.  Zusätzlich  werden  ermittelte  Defizite  des 
-
 Notfallmanagements behandelt.  
-
 Zur besseren Übersichtlichkeit der Faktoren und Aspekte des Notfallmanagements wird eine 
-
 Systematik mit Kennzeichnungen in eckigen Klammern verwendet. 
 
 Eine  detaillierte  Auswertung  des  Ereignisses  unter  Einordnung  als  sicherheitskritische 
 
 Faktoren wird in den folgenden Kapiteln gegeben. 
-
 Zur  direkten  Zuordnung  wird  den  Faktoren  eine  Kurzbezeichnung  zugewiesen.  Jedem 
-
 ursächlichen  oder  beitragenden  Faktor  wird  der  Buchstabe  F  und  eine  fortlaufende 
-
 Nummerierung beigestellt, zum Beispiel: [F1]. Zugehörige systemische Faktoren erhalten bei 
-
 derselben Nummer den Buchstabe S; hier können ggf. weitere Unterscheidungen mittels eines 
-
 Kleinbuchstaben erforderlich werden. Beispiel: [S1a] und [S1b] zu [F1] 
-
 Seite 2 von 55 
-
  
  
 Untersuchungsbericht 
-
 Zugkollision, 16.10.2020, Bf Dreileben‐Drackenstedt 
-
 Geschehen: 
-
 Datum/Uhrzeit, sowie 
-
 Handlung / Unterlassen / 
 Umstand / Vorkommnis 
-
 16.10.2020 
 
 Mit hoher 
@@ -638,13 +444,10 @@ Hauptluftbehälterleitung 
 
 Ursächlicher 
 Faktor 
-
 Beitragender 
 Faktor 
-
 Systemischer 
 Faktor 
-
 Durchgängigkeit 
 der HBL 
 zwischen Tfz 
@@ -652,23 +455,16 @@ und Tz bei 
 Zugvorbereitung 
 nicht vorhanden 
 [F1] 
-
 Unzureichende 
 Kontrollmaßnahmen 
 Bezug auf die 
 Wirksamkeit der 
 Bremse [S1] 
-
 in 
-
 Tabelle 1: Zusammenfassung Einflussfaktoren 
-
 1.4  Sicherheitsempfehlungen	
-
 Eine Sicherheitsempfehlung wurde durch die BEU nicht ausgesprochen. 
-
 Seite 3 von 55 
-
  
  
  
@@ -676,268 +472,153 @@ Seite 3 von 55 
  
  
 Untersuchungsbericht 
-
 Zugkollision, 16.10.2020, Bf Dreileben‐Drackenstedt 
-
 2  Die	Untersuchung	und	ihr	Kontext	
-
 Die  Bundesstelle  für  Eisenbahnunfalluntersuchung  (BEU)  ist  für  die  Untersuchung  von 
-
 gefährlichen 
-
 Ereignissen 
-
 im 
-
 Eisenbahnbetrieb 
-
 im 
-
 Sinne  des  Kapitels V  der 
-
 Richtlinie (EU) 2016/798 
-
 auf 
-
 Eisenbahninfrastrukturen 
-
 des 
-
 Bundes 
-
 und 
-
 auf 
-
 nichtbundeseigenen  Eisenbahninfrastrukturen  des  übergeordneten  Netzes  gemäß  § 2b 
-
 Allgemeines Eisenbahngesetz (AEG) zuständig. 
-
 Ziel  und  Zweck  der  eingeleiteten  Untersuchungen  ist  es,  die  Ursachen  des  gefährlichen 
-
 Ereignisses  aufzuklären  und  hieraus  Hinweise  zur  Verbesserung  der  Sicherheit  abzuleiten. 
-
 Untersuchungen der BEU dienen nicht dazu, ein Verschulden festzustellen oder Fragen der 
 
 Haftung oder sonstiger zivilrechtlicher Ansprüche zu klären und werden unabhängig von jeder 
 
 gerichtlichen Untersuchung durchgeführt. 
-
 Sicherheitsempfehlungen  der  BEU  zur  Vermeidung  von  gefährlichen  Ereignissen  und 
-
 Verbesserung der Eisenbahnsicherheit werden an die nationale Sicherheitsbehörde, sofern es 
-
 die Art der Empfehlung erfordert an die Eisenbahnagentur der Europäischen Union und an 
-
 andere Stellen oder Behörden adressiert. Im Allgemeinen sind die Sicherheitsempfehlungen 
-
 auch  an  die  unmittelbar  bzw.  mittelbar  betroffenen  sowie  alle  einschlägigen 
-
 Eisenbahnunternehmen gerichtet. 
-
 Zu schweren Unfällen leitet die BEU stets Untersuchungen gem. Artikel 20 Abs. 1 Richtlinie 
-
 (EU)  2016/798  ein.  Unter  einem  schweren  Unfall  sind  insbesondere  Zugkollisionen  oder 
-
 Zugentgleisungen mit mindestens einem Todesopfer oder mindestens fünf Schwerverletzten 
 
 oder  mit  beträchtlichem  Schaden  (≥ 2  Mio.  Euro)  sowie  sonstige  Unfälle  mit  den  gleichen 
 
 Folgen und mit offensichtlichen Auswirkungen auf die Regelung der Eisenbahnsicherheit oder 
-
 das Sicherheitsmanagementsystem zu verstehen. Bei allen sonstigen gefährlichen Ereignissen 
-
 im  Eisenbahnbetrieb  liegt  es  im  Ermessen  der  BEU  Untersuchungen  einzuleiten.  Bei  der 
-
 Entscheidung  werden  neben  den  zum  Ereigniszeitpunkt  verfügbaren  Ressourcen  weitere 
-
 Kriterien gem. Artikel 20 Abs. 2 Richtlinie (EU) 2016/798 herangezogen. 
-
 Aufgrund  des  gegebenen  Schadensausmaßes  bzw.  der  Folgen  bei  dem  vorliegenden 
-
 gefährlichen Ereignis wurden Untersuchungen auf Grundlage des Artikels 20 Abs. 1 Richtlinie 
-
 (EU) 2016/798 eingeleitet. 
-
 Die  Unfalluntersuchungshandlungen  werden  strukturiert  in  vier  definierten  Kernprozessen 
-
 durchgeführt, die mit der Entscheidung zur Aufnahme einer Untersuchung beginnen und mit 
-
 Seite 4 von 55 
-
  
  
 Untersuchungsbericht 
-
 Zugkollision, 16.10.2020, Bf Dreileben‐Drackenstedt 
-
 der  Veröffentlichung 
-
 des  Untersuchungsberichtes 
-
 abgeschlossen  werden. 
-
 Zur 
-
 Ursachenermittlung  werden  ergebnisoffene  Untersuchungen 
-
 in  allen  beteiligten 
-
 Fachdisziplinen  angestellt  und  hierbei 
-
 insbesondere  Fehler‐Ursachen‐Analysen  und 
-
 Soll‐Ist‐Vergleiche durchgeführt. 
-
 Vom 
-
 örtlich 
-
 zuständigen 
-
 Untersuchungsbezirk 
-
 Nordost 
-
 wurden 
-
 die 
-
 Untersuchungshandlungen federführend geleitet. 
-
 Sofern im Einzelfall geboten, werden die jeweiligen Untersuchungsteams bezirksübergreifend 
-
 unterstützt und notwendige Sachverständigenleistungen extern beauftragt. 
-
 Neben den beteiligten Unternehmen wirkten an der Untersuchung folgende weitere Stellen 
-
 mit: 
-
   Bundespolizeiinspektion Magdeburg 
-
   ALSTOM Transport Deutschland GmbH (ATD),  Hersteller 
-
 der 
-
 geschleppten 
-
 Triebzüge 
-
 Die Durchführung der Unfalluntersuchung setzt voraus, dass alle an dem gefährlichen Ereignis 
-
 Beteiligten  den  jeweiligen  Meldeverpflichtungen  gem.  § 2  Abs. 3  EUV  nachkommen.  Die 
-
 relevanten Informationen sind durch die zur Meldung Verpflichteten auf dem neuesten Stand 
-
 zu halten. 
-
 Auf Grundlage des § 5b AEG werden i. d. R. weitergehende zur Untersuchungsdurchführung 
 
 erforderliche  Informationen,  Auskünfte  und  Nachweise  abgefordert.  Diese  notwendigen 
 
 Zuarbeiten konnten mittels Auskunftsersuchen gewonnen werden. 
-
 Darüber hinaus können nach § 5b Abs. 4 AEG von den an gefährlichen Ereignissen beteiligten 
-
 Eisenbahnen  Unterstützungsleistungen  eingefordert  werden.  Bei  dem  vorliegenden 
-
 gefährlichen Ereignis wurden folgende Unterstützungsleistungen eingefordert: 
-
   Überführung  von  Fahrzeugen  und  Fahrzeugteilen  in  zur  weiteren  Untersuchung 
-
 geeignete Werkstätten, 
-
   Bereitstellung  von  Werkstattleistungen  zur  Untersuchung  der  beteiligten 
-
 Eisenbahnfahrzeuge 
-
 Seite 5 von 55 
-
  
  
  
 Untersuchungsbericht 
-
 Zugkollision, 16.10.2020, Bf Dreileben‐Drackenstedt 
-
   Bereitstellung 
-
 von 
-
 zu 
-
 den 
-
 verunfallten 
-
 Fahrzeugen 
-
 baugleichen 
-
 Eisenbahnfahrzeugen 
-
 Die infrastrukturseitige Freigabe der Unfallstelle erfolgte durch die BEU am 16.10.2020. 
-
 Seite 6 von 55 
-
  
  
  
  
 Untersuchungsbericht 
-
 Zugkollision, 16.10.2020, Bf Dreileben‐Drackenstedt 
-
 3  Beschreibung	des	Ereignisses	
 
 Im  dritten  Kapitel  wird  das  gefährliche  Ereignis  in  zwei  vorgegebenen  Unterkapiteln  näher 
 
 beschrieben.  In  Kapitel  3.1  sind  neben  den  Grunddaten  weitere  Informationen  zum 
-
 Ereignisort,  den  äußeren  Bedingungen,  den  Beteiligten  und  den  Folgen  enthalten.  Die 
-
 Ereignisrekonstruktion  sowie 
-
 Informationen  zur  Auslösung  und  dem  Ablauf  der 
 
 Rettungsmaßnahmen  sind  im  Kapitel  3.2  dargestellt.  Die  Beschreibungen  beziehen  sich 
 
 grundsätzlich  auf  die 
-
 zum  Ereigniszeitpunkt  vorherrschenden  Bedingungen  und 
-
 vorgefundenen Sachverhalte. 
-
 3.1  Informationen	über	das	Ereignis	und	seine	Hintergründe	
-
 Bei dem Ereignis handelt es sich um eine Kollision eines Zuges mit einem Hindernis innerhalb 
-
 des Lichtraumprofils im Sinne der Richtlinie (EU) 2016/798. 
-
 Die BEU führt das Ereignis national unter der Ereignisart Zugkollision. 
-
 3.1.1  Lage	und	Beschreibung	des	Ereignisortes	
-
 Die  Zugkollision  ereignete  sich  auf  der  zweigleisigen,  elektrifizierten  Hauptbahn  Potsdam‐
-
 Griebnitzsee – Eilsleben im Bf Dreileben‐Drackenstedt. Die Strecke wurde gemäß Verzeichnis 
-
 der örtlich zulässigen Geschwindigkeiten (VzG) mit der Streckennummer 6110 geführt. 
-
 Abbildung 1: Lageplan1 
-
 1 Quelle: Geobasisdaten: © GeoBasis‐DE / BKG 2024 (bearbeitet durch BEU) 
-
 Seite 7 von 55 
-
  
  
  
  
 Untersuchungsbericht 
-
 Zugkollision, 16.10.2020, Bf Dreileben‐Drackenstedt 
-
 Der Bf verfügte über zwei durchgehende Hauptgleise sowie ein Überholungsgleis. Begrenzt 
 
 wurde  der  Bf  durch  die  Einfahrsignale (Esig)  41A  in  km 161,27  und  41F  in  km 163,53.  Die 
@@ -945,73 +626,45 @@ wurde  der  Bf  durch  die  Einfahrsignale (Esig)  41A  in  km 161,27�
 Unfallstelle befand sich in Gleis 4, etwa in km 161,930. Dieser Abschnitt durfte gemäß VzG in 
 
 den  durchgehenden  Hauptgleisen  des  Bf Dreileben‐Drackenstedt  mit  einer  maximal 
-
 zulässigen Geschwindigkeit von 160 km/h befahren werden und war auf einen Bremsweg von 
-
 1000 m  ausgelegt.  Gemäß  Buchfahrplan  war  die  zulässige  Geschwindigkeit  für  den  Zug  auf 
-
 100 km/h  begrenzt.  Die  Strecke  war  mit  dem  digitalen  Zugfunk  Global  System  for  Mobile 
 
 Communications‐Rail  (GSM‐R)  ausgerüstet.  Als  Zugsicherungssystem  kam  die  punktförmige 
 
 Zugbeeinflussung (PZB)  zur Anwendung. Die Anlagen der  Leit‐  und Sicherungstechnik im Bf 
-
 wurden  über  das  ausgelagerte  Elektronische  Stellwerk (ESTW)  Dreileben‐Drackenstedt  aus 
-
 der  Betriebszentrale  Leipzig  gesteuert.  Die  Bedienung  erfolgte  aus  der  Unterzentrale (UZ) 
-
 Eilsleben. Für die UZ Eilsleben war Zuglenkung mit Lenkplan eingerichtet. 
-
 Die folgende Abbildung zeigt einen Gleislageplan mit den Gegebenheiten an der Unfallstelle 
-
 im Bf Dreileben‐Drackenstedt. 
-
 Abbildung 2: Gleislageplan2 
-
 Die  Abbildung 3  zeigt  die  relevanten  Fahrwegelemente  und  den  exakten  Fahrweg  des 
-
 DbZ 79653. 
-
 2 Quelle: DB Netz AG, bearbeitet durch BEU 
-
 Seite 8 von 55 
-
  
  
  
  
 Untersuchungsbericht 
-
 Zugkollision, 16.10.2020, Bf Dreileben‐Drackenstedt 
-
 Abbildung 3: Gleislageskizze3 
-
 3.1.2  Beteiligte	
-
 Die am Ereignis Beteiligten hatten die folgenden Funktionen:  
-
 Für  das  Eisenbahninfrastrukturunternehmen (EIU)  DB Netz AG  (zum  01.01.2024  umfirmiert 
-
 zur DB InfraGO AG) 
-
   Fahrdienstleiter (Fdl) Eilsleben im ESTW UZ Eilsleben 
 
 Für  das  Eisenbahnverkehrsunternehmen (EVU)  Vorbereitungsgesellschaft  Transporttechnik 
 
 mbH (VGT) 
-
   Triebfahrzeugführer (Tf) des Zuges DbZ 79653 
-
   Eisenbahnbetriebsleiter 
-
 Fahrzeughersteller der zu überführenden Fahrzeuge 
-
   ATD 
-
 3 Quelle:  Deutsche Bahn AG (bearbeitet durch BEU) 
-
 Seite 9 von 55 
-
  
  
  
@@ -1019,120 +672,63 @@ Seite 9 von 55 
  
  
 Untersuchungsbericht 
-
 Zugkollision, 16.10.2020, Bf Dreileben‐Drackenstedt 
-
 3.1.3  Äußere	Bedingungen	
-
 Zum Zeitpunkt des Ereignisses herrschten folgende Bedingungen: 
-
 Lichtverhältnisse 
-
 Sicht 
-
 Bedeckung 
-
 Temperaturen  
-
 fallender Niederschlag 
-
 Niederschlagshäufigkeit 
-
 Tageslicht 
-
 klar 
-
 bedeckt 
-
 8°C 
-
 Nein 
-
 ‐‐ 
-
 Untergrund / gefallener Niederschlag  
-
 trocken 
-
 Tabelle 2: Übersicht der äußeren Bedingungen 
-
 3.1.4  Todesopfer,	Verletzte	und	Sachschäden	
-
 Bei dem Ereignis traten folgend aufgeführte Personenschäden ein: 
-
 Anzahl Tote 
-
 Anzahl schwer Verletzte  Anzahl leicht Verletzte 
-
 Reisende 
-
 Mitarbeiter 
-
 Benutzer von 
 Bahnübergängen 
-
 Dritte 
-
 Summe 
-
 ‐ 
-
 ‐ 
-
 ‐ 
-
 ‐ 
-
 ‐ 
-
 Tabelle 3: Übersicht der Personenschäden 
-
 ‐ 
-
 1 
-
 ‐ 
-
 ‐ 
-
 1 
-
 ‐ 
-
 ‐ 
-
 ‐ 
-
 ‐ 
-
 ‐ 
-
 Der Tf des Zuges wurde bei der Zugkollision und der folgenden Entgleisung schwer verletzt. 
-
 Die geschätzte Höhe der Sachschäden in Euro setzt sich wie folgt zusammen: 
-
 Fahrzeuge 
-
 Infrastruktur 
-
 Dritte 
-
 Gesamtschadenshöhe 
-
 geschätzte Kosten in Euro 
-
 3.766.000 
-
 584.000 
-
 nicht bekannt 
-
 4.350.000 
-
 Tabelle 4: Übersicht der geschätzten Schadenshöhe 
-
 Seite 10 von 55 
-
  
  
  
@@ -1142,210 +738,131 @@ Seite 10 von 55 
  
  
 Untersuchungsbericht 
-
 Zugkollision, 16.10.2020, Bf Dreileben‐Drackenstedt 
 
 Der  Gleisabschluss,  mit  dem  der  Zug  kollidierte,  wurde  vollständig  zerstört.  Es  entstanden 
 
 erhebliche  Sachschäden  an  der  Oberleitung  sowie  der  Infrastruktur.  Am  schleppenden  Tfz 
-
 entstand ein Totalschaden. Der vordere Endwagen des ersten geschleppten Tz wurde stark 
-
 beschädigt.  In  Folge  des  Ereignisses  kam  es  durch  austretende  Betriebsstoffe  zu  einer 
-
 Kontaminierung des Erdreichs. Die folgenden Bilder zeigen die Unfallstelle und das Ausmaß 
-
 der Unfallschäden. 
-
 Abbildung 4:Ereignisstelle und Unfallschäden 
-
 Seite 11 von 55 
-
  
  
  
 Untersuchungsbericht 
-
 Zugkollision, 16.10.2020, Bf Dreileben‐Drackenstedt 
-
 Abbildung 5: Unfallzug, Aufnahme entgegen der Fahrtrichtung 
-
 3.2  Sachliche	Beschreibung	der	Vorkommnisse	
-
 Zur  Rekonstruktion  des  gefährlichen  Ereignisses 
-
 sowie 
-
 zur  Beschreibung  der 
-
 Notfallmaßnahmen werden insbesondere auch die in Kapitel 4 enthaltenen Aufzeichnungen, 
-
 Auswertungen und Feststellungen etc. herangezogen. 
-
 3.2.1  Hergangsbeschreibung	
 
 Am  16.10.2020  sollte  die  Zugfahrt DbZ 79653  als  Überführungsfahrt  vom  Bahnhofsteil (Bft) 
 
 Salzgitter‐Immendorf West nach Blankenburg (Harz) verkehren. 
-
 Zweck der Fahrt war die Überführung für Probefahrten von in Deutschland nicht zugelassenen 
-
 Fahrzeugen des Herstellers ATD im Bf Blankenburg (Harz). Der Wagenpark bestand aus den 
-
 zwei  überführten  Elektro‐Tz  des  Typs  „Coradia Stream“  in  der  Ausführung  ICNG‐5‐Teiler. 
-
 Gezogen wurden diese durch ein Tfz der Baureihe (BR) 214. Die Zugbildung erfolgte im Werk 
-
 von ATD in Salzgitter. 
-
 Für die Überführung war es erforderlich, eine Übergangskupplung am Tfz zu montieren, um 
-
 dieses mit den zu schleppenden Fahrzeugen kuppeln zu können. Vor dem Kuppeln habe der 
-
 Tf laut eigener Aussage den Absperrhahn für die HBL und HLL kurzzeitig geöffnet, um mögliche 
-
 Fremdstoffe aus den Schläuchen sowie der Übergangskupplung zu entfernen. Nachdem das 
-
 Tfz  mit  den  beiden  Triebzügen  gekuppelt  war,  habe  der  Tf  eine  volle  Bremsprobe  nach 
 
 VDV‐Schrift 757 Teil B 915.0103A11  durchgeführt.  Diese  beinhaltete  das  Feststellen  des 
 
 Seite 12 von 55 
-
  
  
  
 Untersuchungsbericht 
-
 Zugkollision, 16.10.2020, Bf Dreileben‐Drackenstedt 
-
 Lösezustandes  nach  dem  Füllen,  die  Prüfung  der  Dichtheit  sowie  des  Brems‐  und 
-
 Lösezustandes aller Bremsen. Gegen 8:19 Uhr startete die Rangierfahrt aus dem Werk der ATD 
-
 und erreichte gegen 08:33 Uhr den Bft Salzgitter‐Immendorf West. 
-
 Der vollständige Fahrtverlauf ist in der folgenden Abbildung dargestellt. 
-
 Abbildung 6: Fahrtverlauf des DbZ 796534 
-
 Um  08:37 Uhr  begann  die  Zugfahrt  auf  der  Eisenbahninfrastruktur  der  Verkehrsbetriebe 
-
 Peine‐Salzgitter GmbH. Gegen 09:03 Uhr erreichte der Zug den Bf Beddingen. 
-
 Die  Weiterfahrt 
-
 des 
-
 Zuges 
-
 verlief 
-
 bis 
-
 zum 
-
 Einfahrvorsignal (Evsig) 
-
 des 
-
 Bf Dreileben‐Drackenstedt ohne besondere Vorkommnisse. Bis hierhin hatte der Tf insgesamt 
-
 15 Mal durch Druckabsenkungen in der Hauptluftleitung (HLL) gebremst. Das Evsig 41Vf des 
-
 Bf Dreileben‐Drackenstedt  zeigte  aus  betrieblichen  Gründen  den  Signalbegriff  Ks 2 
 
 „Halt erwarten“,  woraufhin  der  Tf  eine  Betriebsbremsung  mit  dem  Führerbremsventil 
 
 einleitete.  Eine  deutliche  Bremswirkung  konnte  jedoch  nicht  erzielt  werden.  Auch  die 
-
 eingeleitete  Schnellbremsung  sowie  die  anschließende  PZB‐Zwangsbremsung  aufgrund  des 
-
 Überschreitens der angehängten Überwachungsgeschwindigkeit führten nicht zur Erhöhung 
-
 der Bremswirkung in den Tz. Gegen 10:10 Uhr fuhr der DbZ 79653 deshalb mit 88 km/h am 
-
 Halt  zeigenden  Esig 41F  des  Bf Dreileben‐Drackenstedt  vorbei.  Das  ebenfalls  Halt  zeigende 
-
 4 Quelle: Geobasisdaten: © GeoBasis‐DE / BKG 2024 (bearbeitet durch BEU) 
-
 Seite 13 von 55 
-
  
  
  
  
  
 Untersuchungsbericht 
-
 Zugkollision, 16.10.2020, Bf Dreileben‐Drackenstedt 
-
 Ausfahrsignal (Asig) 41P4 wurde etwa 90 Sekunden später mit 41 km/h passiert. Anschließend 
-
 kollidierte das Tfz mit dem in Gleis 4 befindlichen Gleisabschluss, entgleiste und überschlug 
 
 sich  am  dahinterliegenden  Hang.  Als  Folge  geriet  das  Tfz  in  Brand,  es  entgleisten  darüber 
 
 hinaus sechs Radsätze des ersten Tz. 
-
 3.2.2  Notfallmanagement	
-
 Nach  § 4  Abs. 3  AEG  haben  die  Eisenbahnen  die  Verpflichtung,  an  Maßnahmen  des 
-
 Brandschutzes  und  der  technischen  Hilfeleistung  mitzuwirken.  Die  Innenministerien  der 
-
 Länder und die DB AG haben sich auf folgende Verfahrensweise verständigt. Für die DB Netz 
-
 AG  gelten  die  entsprechenden  Brand‐  und  Katastrophenschutzgesetze  der  Länder.  Das 
 
 Notfallmanagement  der  DB  AG  ist  in  der  Konzernrichtlinie  123,  das  der  DB  Netz  AG  in  der 
 
 Richtlinie (Ril) 423 näher beschrieben und geregelt. 
-
 Nach  Bekanntwerden  des  Ereignisses, 
-
 leitete  die  Notfallleitstelle  die  vorgesehenen 
 
 Maßnahmen ein. Der benachrichtigte Notfallmanager war gegen 10:58 Uhr an der Unfallstelle 
 
 und  erdete  die  Oberleitung,  die  bereits  gegen  10:20 Uhr  abgeschaltet  worden  war.  Die 
-
 Sperrung der Gleise erfolgte gegen 10:56 Uhr. Der Tf wurde schwerverletzt geborgen und in 
-
 ein  Krankenhaus  verlegt.  Die  Feuerwehr  traf  gegen  11:00 Uhr  ein.  Sie  fingen  die 
-
 ausgelaufenen Betriebsstoffe aus dem Tfz auf. 
-
 Unregelmäßigkeiten oder Verzögerungen in Bezug auf das Einleiten von Rettungsmaßnahmen 
-
 sowie  der  vorgegebenen  Meldekette  wurden  der  BEU  im  Rahmen  der  Unfalluntersuchung 
-
 nicht bekannt. 
-
 Seite 14 von 55 
-
  
  
  
  
 Untersuchungsbericht 
-
 Zugkollision, 16.10.2020, Bf Dreileben‐Drackenstedt 
-
 4  Auswertung	des	Ereignisses	
-
 In diesem Kapitel werden insbesondere die im Rahmen der Unfalluntersuchung ermittelten 
 
 maßgeblichen sicherheitskritischen Faktoren dargestellt. Hierbei wird im jeweiligen Einzelfall 
 
 auf die Aufgaben und Pflichten einzelner Personen und Stellen, auf beteiligte Fahrzeuge und 
-
 technische  Einrichtungen  genauso  eingegangen  wie  auf  konkrete  menschliche  Handlungen 
-
 sowie auf Feedback‐ und Kontrollmechanismen. Sofern Informationen zu früheren Ereignissen 
-
 vorliegen, werden diese in einem weiteren Unterkapitel dargestellt. 
-
 4.1  Aufgaben	und	Pflichten	
 
 In diesem Kapitel werden unbeschadet des Artikels 20 Abs. 4 der Richtlinie (EU) 2016/798 die 
@@ -1353,94 +870,55 @@ In diesem Kapitel werden unbeschadet des Artikels 20 Abs. 4 der Richt
 Aufgaben  und  Pflichten  von  Personen  und  Stellen  behandelt,  die  an  dem  Ereignis  beteiligt 
 
 waren. Untersuchungen zu Schuld‐ oder Haftungsfragen sind explizit ausgeschlossen und nicht 
-
 Untersuchungsgegenstand. 
-
 4.1.1  Untersuchung	der	betrieblichen	Abläufe	des	Infrastrukturbetreibers	
-
 Das  verantwortliche  EIU  DB Netz AG  verfügte  über  eine  Sicherheitsgenehmigung  gemäß 
-
 § 7c AEG, die bis zum 19.10.2021 gültig war. Die betrieblichen Handlungen im Zusammenhang 
-
 mit der Durchführung der Zugfahrt DbZ 79653 oblagen im relevanten Streckenabschnitt dem 
-
 zuständigen  Fdl  des  ESTW UZ Eilsleben.  Der  Fdl  bediente  den  Stellbereich  aus  der 
-
 Betriebszentrale  Leipzig.  Geregelt  waren  die  durchzuführenden  Bedienhandlungen  in  der 
-
 Richtlinie 408 – Fahrdienstvorschrift  sowie 
-
 im  Betriebsstellenbuch  für  Mitarbeiter  auf 
-
 Betriebsstellen (Bebu) für die UZ Eilsleben. Die UZ Eilsleben war mit Zuglenkung mit Lenkplan 
-
 ausgestattet. 
-
 Bevor der Zug DbZ 49653 in die Zuständigkeit des Fdl des ESTW UZ Eilsleben fiel, hatte er im 
-
 benachbarten Bf einen Aufenthalt von 09:26 Uhr bis 09:34 Uhr. Vor DbZ 79653 verkehrte die 
-
 Regionalbahn (RB) 16415 auf der Fahrt von Braunschweig nach Burg (bei Magdeburg). Sie fuhr 
-
 gegen 10:07 Uhr nach Gleis 4 in den Bf Dreileben‐Drackenstedt ein. Nach ihrem Verkehrshalt 
-
 verließ  die  RB 16415  gegen  10:10 Uhr  den  Bf Dreileben‐Drackenstedt.  Die  Weichen  41W18 
-
 und  41W17  befanden  sich  nach  der  Ein‐  bzw.  Ausfahrt  der  RB 16415  in  Rechtslage,  die 
-
 Weichen 41W07 und 41W08 befanden sich in Linkslage. 
-
 Der DbZ 79653 folgte der RB 16415 in Richtung des Bf Dreileben‐Drackenstedt. 
-
 Seite 15 von 55 
-
  
  
 Untersuchungsbericht 
-
 Zugkollision, 16.10.2020, Bf Dreileben‐Drackenstedt 
-
 Abbildung 7: Übersicht über die Fahrwegelemente Teil 15 
 
 Um  10:10:32 Uhr  erreichte  den  Fdl  Eilsleben  ein  Notruf  des  Tf  DbZ 79653,  eine  Durchsage 
 
 erfolgte nicht. Zu diesem Zeitpunkt befand sich der Zug kurz vor dem Esig 41F. Der DbZ 79653 
-
 fuhr am Halt zeigenden Esig 41F vorbei und befuhr den ungesicherten Fahrweg in der Lage, in 
-
 der er sich infolge der Zugfahrt RB 16415 befand. Ein zweiter Notruf des Tf DbZ 79653 ging um 
-
 10:11:17 Uhr ein. Hier befand sich der Zug zwischen dem Halt zeigenden Esig 41F und dem 
-
 ebenfalls Halt zeigenden Asig 41P4 des Bf Dreileben‐Drackenstedt. Zu hören war nur, wie der 
-
 Tf die Wiederholung einleitete. Daraufhin meldete sich der zuständige Fdl, eine Reaktion des 
-
 Tf wurde nicht übermittelt. Um 10:11:33 Uhr wurde die Notrufverbindung beendet. 
-
 Um 10:11:39 Uhr rief der Fdl den Tf des DbZ 79653 dann mittels Einzelruf zurück.  
-
 Ein Transkript des genauen Wortlautes ist der folgenden Tabelle zu entnehmen. 
-
 5 Quelle: DB Netz AG (bearbeitet durch BEU) 
-
 Seite 16 von 55 
-
  
  
  
  
  
 Untersuchungsbericht 
-
 Zugkollision, 16.10.2020, Bf Dreileben‐Drackenstedt 
-
 Fdl Eilsleben 
-
 Wo bist‘n du da jetzt? 
-
 Tf DbZ 79653 
-
 Hallo? 
 
 Du kannst doch da nicht ewig weiterfahren 
@@ -1449,16 +927,11 @@ sind wir denn hier? 
 
 Ja warum hältst du denn da  nicht an und 
 machst aus Langerweile lauter Notrufe? 
-
 Ja und? Und? 
-
 Schönen Dank! 
-
 Ja, Entschuldigung. Ich bin gerade ähh. 
-
 Ja, ähm... Ich bin 
 Drackenstedt. 
-
 jetzt in Dreileben‐
 
 Ich habe ne Schnellbremsung drin und ich 
@@ -1467,33 +940,21 @@ ich bin kurz vor dem Prellbock. 
 
 Scheiße, jetzt, ja 
 (unverständlich) 
-
 jetzt gleich ist alles hin … 
-
 Ja ich kann nicht? *Lärm*    
-
 Ah scheiße... 
-
 *Lärm* 
-
 Tabelle 5: Transkript Einzelrufverbindung Fdl Eilsleben ‐ Tf DbZ 79653 
-
 Noch  während  dieses  Einzelgesprächs  stellte  die  Zuglenkung  die  ursprünglich  hinterlegte 
-
 Fahrstraße für DbZ 79653 nach Gleis 2 ein, weshalb sich die Weichen 41W07 und 41W08 in 
 
 die  Rechtslage  und  die  Weichen  41W17  und  41W18  in  die  Linkslage  stellten.  Dies  erfolgte 
 
 durch  die  Zugnummer  des  79653  im  Zugmeldeabschnitt  vor  dem  Esig 41F,  nach  dem  die 
-
 vorausfahrende  RB 16415  die  maßgeblichen  Gleisabschnitte  geräumt  hatte.  Eine 
-
 Weiterschaltung der Zugnummer des DbZ 79652 erfolgte ab dem Esig 41F nicht mehr, da für 
-
 eine unerlaubte Vorbeifahrt am Haltbegriff keine Schaltkriterien gegeben waren. 
-
 Seite 17 von 55 
-
  
  
  
@@ -1508,393 +969,234 @@ Seite 17 von 55 
  
  
 Untersuchungsbericht 
-
 Zugkollision, 16.10.2020, Bf Dreileben‐Drackenstedt 
-
 Abbildung 8: Übersicht über die Fahrwegelemente Teil 26 
-
 Um  10:12:14 Uhr  kollidierte  der  Zug  mit  dem  Gleisabschluss  und  entgleiste.  Zu  diesem 
-
 Zeitpunkt bestand noch die Einzelrufverbindung von 10:11:39 Uhr, welche der Fdl Eilsleben 
-
 zum Tf aufgrund unverständlicher Notrufe hergestellt hatte.  
-
 Um 10:15:41 Uhr erfolgte ein weiterer Einzelruf des Fdl an den Tf. Es konnte keine Verbindung 
-
 mehr aufgebaut werden. Daraufhin verständigte der Fdl die Notfallleitstelle. 
-
 In Folge des Ereignisses erfolgten Störungsmeldungen an den Weichen 41W06, 41W07 und 
-
 41W08 auf. Die Weiche 41W06 und 41W08 zeigten darüber hinaus Auffahrmeldungen an. 
-
 Hinsichtlich der betrieblichen Abläufe in der Verantwortung des EIU und des zuständigen Fdl 
 
 Eilsleben  waren  keine  Faktoren  festzustellen,  die  als  ursächlich  oder  beitragend  für  das 
 
 Ereignis 
-
 festzustellen  waren.  Der  Fdl Eilsleben  hatte 
-
 im  Rahmen  des  von 
-
 ihm 
-
 wahrzunehmenden und unmittelbar erfassbaren Geschehens schlüssig gehandelt.  
-
 6 Quelle: DB Netz AG, (bearbeitet durch BEU) 
-
 Seite 18 von 55 
-
  
  
   
  
 Untersuchungsbericht 
-
 Zugkollision, 16.10.2020, Bf Dreileben‐Drackenstedt 
-
 4.1.2  Untersuchung	der	betrieblichen	Abläufe	der	EVU	
 
 Das  EVU  VGT  verfügte  am  Tag  des  Ereignisses  über  eine  bis  zum  12.09.2021  gültige 
 
 Sicherheitsbescheinigung  (SiBe)  gemäß  § 7a AEG.  Das  EVU  war  damit  zur  Teilnahme  am 
-
 Eisenbahnbetrieb berechtigt.  
-
 Gemäß  §  4  Abs.  3  AEG  ist  ein  EVU  verpflichtet,  den  Betrieb  sicher  zu  führen.  Zur 
-
 Gewährleistung  der  systematisch  sicheren  Betriebsführung  gehörte 
-
 im  einschlägigen 
-
 Zeitraum  vor  dem  Ereignis  u.  a.  das  Aufstellen  und  Einhalten  eines  den  gesetzlichen 
-
 Anforderungen 
-
 genügenden 
-
 Sicherheitsmanagementsystems (SMS) 
-
 entsprechend 
-
 § 4 Abs. 4 AEG  i. V. m.  der  Richtlinie (EU) 2004/49/EG.  Inhaltliche  Maßstäbe  für  ein  SMS 
-
 waren zum damaligen Zeitpunkt durch Verordnung (EU) Nr. 1058/2010, Anhang II, bestimmt. 
-
 Zur sicheren Durchführung der Zugfahrt hatte der Tf des DbZ 79653 die vom EIU zur Benutzung 
-
 der  Infrastruktur  erstellten  Betriebsregeln,  unter  anderem die  zu  beachtenden  Regelwerke 
-
 des  EIU  sowie  die  vom  EVU  erstellten  Regeln  im  Betriebsregelwerk (BRW)  zu  beachten. 
-
 Darüber hinaus war die Anwendung der VDV‐Schrift 757 Ril 915 durch den Tf zu beachten. 
-
 Vorbereitungsdienst 
-
 Die Zugvorbereitung der beiden zu überführenden Triebzüge auf den Transport erfolgte auf 
-
 dem  Werksgelände  der  ATD.  Im  Rahmen  des  werksinternen  Rangierdienstes  wurden  die 
 
 beiden Tz (3105 und 3109) dort schleppfertig gemacht. Zusätzlich wurde für die anschließende 
 
 Rangierfahrt jeweils eine vereinfachte Bremsprobe nach VDV‐Schrift 757 Teil B 915.0104 mit 
-
 einem  Zweiwegefahrzeug  durchgeführt.  Zur  Bereitstellung  wurden  diese  einzeln  nach 
-
 Gleis 7275 im Werk umgesetzt und miteinander gekuppelt.  
-
 Gegen  7:00 Uhr  rangierte  der  für  den  DbZ 79653  zugeteilte  Tf  das  Tfz  mit  der 
-
 Fahrzeugnummer  92 80 1214 006‐9  nach  Gleis 7275.  Um  das  Tfz  mit  der  vorhandenen 
 
 Schraubenkupplung  und  Zughaken  an  die  automatische  Mittelpufferkupplung  der  Bauart 
 
 Scharfenberg Typ 10 des vorderen Tz zu kuppeln, war eine Übergangskupplung erforderlich. 
-
 Diese war vor dem Kuppeln bereits auf dem Zughaken des Tfz angebracht. Der Tf gab nach 
-
 dem Ereignis an, nach dem Kupplungsvorgang den Absperrhahn für die HBL und die HLL am 
-
 Tfz  kurz  geöffnet  zu  haben,  um  eventuell  vorhandene  Fremdstoffe  aus  den  Schläuchen  zu 
-
 entfernen. Anschließend wurde das Tfz mit dem Tz 3105 gekuppelt. Dann öffnete der Tf nach 
 
 eigener  Aussage  die  Absperrhähne  für  die  HLL  und  HBL  am  Tfz,  die  sich  auf  der  jeweils 
 
 gegenüberliegenden Seite befanden (siehe Abbildung 9). 
-
 Seite 19 von 55 
-
  
  
 Untersuchungsbericht 
-
 Zugkollision, 16.10.2020, Bf Dreileben‐Drackenstedt 
-
 Abbildung 9: Übergangskupplung auf Zughaken des Tfz (Vergleichsbild)7 
-
 Der  Tf 
-
 führte  nach  eigener  Aussage  am  Zug  eine  volle  Bremsprobe  nach 
-
 VDV‐Schrift 757 915.0103A11 – Volle  Bremsprobe  an  lokbespannten  Reisezügen,  die  in 
-
 Bremsstellung R oder P und mit oder ohne NBÜ/ep Bremse gefahren werden – mit Hilfe der 
-
 Funkfernsteuerung  des  Tfz  durch.  Dazu  stellte  er  zunächst  den  Lösezustand  am 
-
 C‐Druckmanometer  in  der  ersten  „Sitzkiste“8  im  Tz 3105  fest.  Danach  führte  der  Tf  die 
-
 Dichtheitsprüfung der HLL durch. Die Ril 915.0103A11 sah anschließend vor, dass nach dem 
-
 Anlegen der Bremse der Bremszustand am gesamten Zug hinter dem Tfz festgestellt werden 
-
 sollte, danach war die Bremse zu lösen und der Lösezustand ebenfalls am gesamten Zug hinter 
-
 dem  Tfz  festzustellen.  Abweichend  davon  prüfte  der  Tf  einzeln  an  jeder  Bremse,  unter 
-
 Beobachtung des C‐Druckmanometers, das Anlegen und Lösen. 
-
 Nach der Rückkehr zum Tfz stellte er die Steuerung auf „manuellen Betrieb“ um und führte 
-
 mittels des Führerbremsventils des Tfz eine Führerraumbremsprobe durch. 
 
 Der  Tf  erstellte  vor  der  Abfahrt  des  Zuges  die  Wagenliste  und  den  Bremszettel.  Die 
 
 eingetragenen Werte des Bremszettels sind in der folgenden Tabelle dargestellt. 
-
 7 Quelle: ATD, bearbeitet durch BEU 
-
 8 Begriff aus Übersetzung der Beschreibung des ICNG 
-
 Seite 20 von 55 
-
  
  
  
  
 Untersuchungsbericht 
-
 Zugkollision, 16.10.2020, Bf Dreileben‐Drackenstedt 
-
 Wagenzug 
-
 arbeitendes Tfz  Gesamtzug (laut 
-
 Bremszettel) 
-
 Gesamtzug 
 (tatsächlich) 
-
 Gewicht [t] 
-
 398 
-
 Bremsgewicht [t] 
-
 444 
-
 Vorhandene Brh 
-
 61 
-
 65 
-
 459 
-
 519 
-
 113 
-
 Tabelle 6: Berechnung der Bremshundertstel aus dem Bremszettel 
-
 459 
-
 509 
-
 110 
-
 Aufgrund  seiner  Errechnung  von  113  vorhandenen  Bremshundertsteln  wählte  der  Tf  die 
-
 Zugart  „O“  für  die  Durchführung  der  Zugfahrt  DbZ 79653.  Aufgrund  einer  tatsächlich 
-
 vorliegenden,  geringeren  Anzahl  von  nur  110 Bremshundertsteln  hätte  die  Zugart  „M“ 
-
 gewählt  werden  müssen.  Laut  Fahrplan  waren  auf  dem  ereignisrelevanten  Abschnitt 
-
 90 Mindestbremshundertstel erforderlich, die der Zug dennoch übertraf. 
-
 Gegen 08:10 Uhr wurden die Batterien der beiden Triebzüge eingeschaltet, wodurch an diesen 
-
 der Gleitschutz aktiviert wurde. Außerdem wurden dadurch im vorderen Tz 3105 die Daten 
-
 der Bremssteuerungseinheit, genannt Electronic Brake Control Unit (EBCU), aufgezeichnet, da 
-
 dieser bereits mit einer Messeinrichtung für die geplanten Versuchsfahrten im Bf Blankenburg 
-
 (Harz) ausgerüstet war. Durch die Messeinrichtung wurden von der EBCU 1 und 3 der HLL‐
 
 Druck,  der  HBL‐Druck,  der  Bremszylinder‐  und  Vorratsluftbehälterdruck  aufgezeichnet.  Die 
 
 Aufzeichnung startete ebenfalls um 08:10 Uhr. Zu dieser Zeit betrug der HBL‐Druck 4,3 bar, 
-
 für eine ordnungsgemäße Versorgung in der HBL müsste ein Druck von mindestens 8,5 bar 
-
 durchgehend anstehen. Eine detailliertere Auswertung des EBCU Dataloggers mit grafischer 
-
 Darstellung befindet sich in Kapitel 4.2.1. 
 
 Vor  der  Abfahrt  führte  der  Tf  des  Zuges  mit  dem  örtlichen  Betriebsleiter  der  VGT  eine 
 
 Rollprobe an dem Zug durch. Nachdem diese erfolgreich abgeschlossen war verließ DbZ 79653 
-
 gegen 08:19 Uhr den Werksanschluss der ATD in Salzgitter. Zu diesem Zeitpunkt betrug der 
-
 HBL‐Druck des ersten Tz laut EBCU Datalogger etwa 3,9 bar entgegen dem betriebsüblichen 
-
 Wert von 8,5 bar. 
-
 Durchführung der Zugfahrt 
-
 Der Tf führte auf der 80,7 km langen Fahrt von Salzgitter‐Immendorf West bis zum Evsig 41Vf 
-
 des Bf Dreileben‐Drackenstedt insgesamt 12 Bremsvorgänge durch Druckabsenkung der HLL 
-
 aus. Am Evsig 41Vf erhielt der Tf das Signal Ks 2 mit der Bedeutung „Halt erwarten“. Er leitete 
-
 noch  vor  dem  Erreichen  des  Evsig  eine  Bremsung  ein,  betätigte  am  Signal  die 
-
 Seite 21 von 55 
-
  
  
  
  
  
 Untersuchungsbericht 
-
 Zugkollision, 16.10.2020, Bf Dreileben‐Drackenstedt 
 
 Wachsamkeitstaste  und  erhielt  eine  1000 Hz  ‐  Beeinflussung  der  PZB.  Dabei  stellte  er  eine 
 
 nicht ausreichende Bremswirkung fest und senkte daraufhin den Druck in der HLL durch eine 
-
 Schnellbremsung bis auf 0 bar ab. Auch hierdurch trat keine signifikante Bremswirkung ein. 
-
 22 Sekunden 
-
 nach 
-
 der 
-
 1000 Hz‐Beeinflussung 
-
 überschritt 
-
 DbZ 79653 
-
 die 
 
 PZB‐Überwachungsgeschwindigkeit, sodass selbsttätig eine PZB‐Zwangsbremsung eingeleitet 
 
 wurde, welche aufgrund des bereits auf null bar abgesenkten Drucks der HLL keine zusätzliche 
-
 Erhöhung der Bremswirkung mehr erbrachte. Zu diesem Zeitpunkt betrug die Geschwindigkeit 
-
 des Zuges 88 km/h. Als die Vorbeifahrt am Halt zeigenden Esig 41F unausweichlich war, stellte 
-
 der Tf eine Notrufverbindung her, welche technisch zustande kam. Der Inhalt des geäußerten 
-
 Notrufs wurde weder dem Fdl noch anderen GSM‐R Teilnehmern hörbar übermittelt. 
 
 Am  Esig 41F  erhielt  der  Zug  eine  als  unmittelbare  Zwangsbremsung  wirkende  2000 Hz  ‐ 
 
 Beeinflussung, welche keine zusätzliche Bremswirkung mehr erzielen konnte. 
-
 Hinter dem Esig 41F befuhr DbZ 79653 den geöffneten Bahnübergang in km 162,885 mit ca. 
-
 70 km/h.  Nach  der  Überfahrt  des  Bahnübergangs  erfolgte  der  zweite  Aufbau  einer 
-
 Notrufverbindung  durch  den  Tf.  Auch  hier  kam  zwar  die  Notrufverbindung  zustande,  die 
-
 Übertragung des Gesprächs an den Fdl erfolgte jedoch nur bruchstückhaft beim Einleiten der 
-
 Wiederholung des Nothaltauftrages.  
 
 In einem Einzelgespräch über GSM‐R, initiiert durch den Fdl, versuchte der Tf zu erklären, dass 
 
 er seinen Zug nicht bremsen könne und kurz davor wäre, im Bf Dreileben‐Drackenstedt auf 
-
 seinen Gleisabschluss aufzufahren (siehe Tabelle 6). Während des Gespräches fuhr DbZ 79653 
-
 am  Halt  zeigenden  Asig 41P4  vorbei  und  kollidierte  mit  dem  Gleisabschluss  am  Ende  des 
-
 Gleises 4.  
-
 EFR‐Auswertung 
-
 Im Tfz war eine Datenspeichereinheit DSK 10 der Firma DEUTA‐WERKE GmbH verbaut. Diese 
-
 wurde  durch  die  Bundespolizei  beschlagnahmt  und  an  die  BEU  zur  weiteren  Verwendung 
-
 übergeben. Die Rohdaten waren vollständig und fehlerfrei aufgezeichnet. 
-
 Die  eingegeben  Zugdaten  Zugnummer  „79653“,  Bremsart  „8“  und  VMZ  (größte  zulässige 
-
 Geschwindigkeit  des  Zuges,  100 km/h)  „WERT?“  entsprachen  den  einzustellenden  Werten. 
 
 Die Bremshundertstel waren entsprechend der fehlerhaften Berechnung mit 113 anstatt mit 
 
 110 eingegeben worden. Dies führte zur falschen PZB‐Zugartauswahl „O“ statt „M“. Dadurch 
-
 Seite 22 von 55 
-
  
  
 Untersuchungsbericht 
-
 Zugkollision, 16.10.2020, Bf Dreileben‐Drackenstedt 
-
 ergaben 
-
 sich  unter  anderem  andere  Geschwindigkeitsüberwachungskurven  bei 
-
 PZB‐Zugbeeinflussungen. 
-
 Die  Abbildung 10  zeigt  den  Fahrtverlauf  des  Dbz 79653  von  kurz  vor  dem  Evsig  des 
-
 Bf Dreileben‐Drackenstedt bis zur Kollision und anschließenden Entgleisung. Durch den Unfall 
-
 wurde die PZB‐Aufzeichnung abgebrochen. 
-
 Abbildung 10: Weg‐Geschwindigkeitsdiagramm DbZ 79653 
-
 Durch  die  umfangreichen  Daten  aus  dem  EBCU Datalogger  wurde  auf  eine  ausführliche 
-
 Auswertung der EFR‐Daten verzichtet. 
-
 4.2  Fahrzeuge	und	technische	Einrichtungen	
-
 In  diesem  Kapitel  sind  die  Erkenntnisse  aus  der  Untersuchung  beteiligter  Fahrzeuge,  der 
-
 Eisenbahninfrastruktur und weiterer technischer Einrichtungen einschließlich damit eventuell 
-
 verbundener Tätigkeiten und Entscheidungen dargestellt. 
-
 4.2.1  Untersuchung	von	Fahrzeugen	
-
 Die Zugfahrt DbZ 79653 war aus einem Tfz der BR 214 und 2 geschleppten Triebzügen des Typs 
-
 ICNG gebildet. 
-
 Abbildung 11: Zugbildung DbZ 79653 (Tfz + 2 Tz Typ ICNG)9 
-
 Im Folgenden werden das Tfz sowie die Tz ICNG einzeln betrachtet. 
-
 9 Quellen: Technische Beschreibung BR 214, Technische Zeichnung ATD, bearbeitet durch BEU 
-
 Seite 23 von 55 
-
  
  
  
@@ -1902,226 +1204,131 @@ Seite 23 von 55 
  
  
 Untersuchungsbericht 
-
 Zugkollision, 16.10.2020, Bf Dreileben‐Drackenstedt 
-
 Untersuchung des Tfz 214 006‐9  
-
 Das führende Tfz 214 006‐9 wurde als V 100 213‐2 durch die Henschel‐Werke an die Deutsche 
 
 Bundesbahn  ausgeliefert  und  am  30.09.1963  in  Dienst  gestellt.  Im  Jahr  2008  erfolgte  der 
 
 Umbau  durch  die  Gmeinder  Lokomotiven‐  und  Maschinenfabrik  GmbH  nach  einem 
-
 Umbaukonzept  der  ALSTOM  Lokomotiven  Service  GmbH  für  die  BR 214.  Im  Rahmen  des 
-
 Zulassungsverfahrens erfolgte am 17.02 2010 die Umzeichnung in 214 006‐9. 
-
 Aus der folgenden Tabelle lassen sich die technischen Fahrzeugdaten des Tfz entnehmen: 
-
 Fahrzeugnummer 
-
 Antriebsart 
-
 Kraftübertragung 
-
 Leistung 
-
 Gesamtlänge (LüP) 
-
 Masse 
-
 Höchstgeschwindigkeit 
-
 Radsatzfolge 
-
 Zugsicherungssystem 
-
 Baujahr 
-
 Halter 
-
 Bremsbauart 
-
 Letzte Revision 
-
 92 80 1214 006‐9 
-
 dieselhydraulisch 
-
 hydraulisch‐mechanisch 
-
 970 kW 
-
 12300 mm 
-
 61 t 
-
 100 km/h 
-
 B’B‘ 
-
 PZB 
-
 1963 
-
 ALSTOM Lokomotiven Service GmbH 
-
 KE‐GP‐mZ 
-
 23.01.2017 
-
 Tabelle 7: Technische Daten Tfz 92 80 1214 006‐9 
-
 Kompressor des Tfz 
 
 Das Kompressoraggregat mit Luftfilter und Hydrostatikmotor zur Drucklufterzeugung befand 
 
 sind im hinteren Vorbau des Tfz. 
-
 Seite 24 von 55 
-
  
  
  
 Untersuchungsbericht 
-
 Zugkollision, 16.10.2020, Bf Dreileben‐Drackenstedt 
-
 Die folgende Tabelle gibt einen Überblick über die Kenndaten des verbauten Kompressors. 
-
 Hersteller 
-
 Typ 
-
 Antrieb 
-
 Fördermenge 
-
 Tabelle 8: Kenndaten Kompressor Tfz 
-
 Knorr‐Bremse 
-
 VV 270 T, ölfrei 
-
 Hydrostatisch, 
 bar 
-
 druckluftgeregelt 8,5 – 10 
-
 2500 l/min bei 1750 min(cid:2879)_1 
-
 Die Befüllung der HBL bzw. des entsprechenden Vorratsbehälters erfolgte kontinuierlich über 
-
 eine Druckregelung zwischen 8,5 und 10 bar. Die Höhe des HBL‐Druckes wurde durch das Tfz 
-
 überwacht, daher war das Aufschalten von Leistung nur bei einem HBL‐Druck größer 5 bar 
 
 möglich.  Wenn  der  HBL‐Druck  des  Tfz  unter  4,5 bar  gesunken  wäre,  wäre  automatisch  der 
 
 Druck in der HLL gesenkt worden und die Bremsen des Tfz und der Tz hätten angelegt. 
-
 Durch diese Sicherheitsfunktion konnte ein Defekt des Kompressors ausgeschlossen werden. 
-
 Untersuchung äußere Luftabsperrhähne Tfz 
-
 Am Unfallort wurde die Lage der Luftabsperrhähne an der Kuppelseite des Tfz fotografisch 
 
 festgehalten, ein Ausschnitt befindet sich in der folgenden Abbildung. Im hinteren Bereich der 
 
 Fotografie  ist  zu  erkennen,  dass  dort  der  Absperrhahn  der  HBL  geschlossen  und  der 
-
 Absperrhahn der mit der Übergangskupplung verbundenen HLL geöffnet waren. Im vorderen 
-
 Bereich ist ein durch das Ereignis abgebrochener HLL‐Absperrhahn zu erkennen. Der mit der 
-
 Übergangskupplung verbundene HBL‐Absperrhahn wurde in keiner Endstellung vorgefunden. 
 
 Die  linke  Befestigung  der  HBL‐  und  HLL‐Hähne  wurde  an  der  linken  oberen  Schraube 
 
 ausgerissen. Sowohl am Absperrhahn als auch der Verbindung der Schläuche befinden sich 
-
 Spuren, die auf eine Krafteinwirkung in die Aufdrückrichtung des HBL‐Hahns hindeuten. 
-
 Seite 25 von 55 
-
  
  
 Untersuchungsbericht 
-
 Zugkollision, 16.10.2020, Bf Dreileben‐Drackenstedt 
-
 Abbildung 12: Luftabsperrhähne auf der Kuppelseite des Tfz 
-
 Infolge der großen Unfallschäden konnte nicht abschließend geklärt werden, ob dieser HBL‐
-
 Absperrhahn  im  Rahmen  der  Zugvorbereitung  vollständig  geöffnet  worden  war.  Durch  die 
-
 vollständig fehlende Nachspeisung von Druckluft innerhalb der HBL des vorderen Tz ist davon 
-
 auszugehen, dass der HBL‐Absperrhahn geschlossen war. 
-
 Seite 26 von 55 
-
  
  
  
  
  
 Untersuchungsbericht 
-
 Zugkollision, 16.10.2020, Bf Dreileben‐Drackenstedt 
-
 Untersuchung der Tz 3105 und 3109 
-
 Technische Daten der Triebzüge: 
-
 Fahrzeugnummer des ersten Tz 
-
 94 84 4601 005‐0 
-
 Fahrzeugnummer des zweiten Tz 
-
 94 84 4601 009‐2 
-
 Baujahr 
-
 Halter 
-
 Eigengewicht 
-
 Länge (LüP) 
-
 Anzahl der Radsätze 
-
 Höchstgeschwindigkeit 
-
 2020 
-
 Nederlandse Spoorwegen N.V. 
-
 199 t 
-
 10940 mm 
-
 14 
-
 200 km/h 
-
 Zugelassene Schleppgeschwindigkeit 
-
 100 km/h 
-
 Bremsgewicht (indirekte Bremse) 
-
 222 t (Bremsstellung P) 
-
 Tabelle 9: Technische Daten der Triebzüge 
-
 Bremssystem der Tz 
-
 Das  Bremssystem  der  Tz  wurde  von  Knorr‐Bremse Systeme für Schienenfahrzeuge GmbH 
-
 entwickelt. Für die Unfalluntersuchung wurde nur die Funktionsweise der indirekten Bremse 
 
 der  Tz  genauer  betrachtet,  da  ausschließlich  diese  für  das  Bremsen  der  Tz  am  Ereignistag 
@@ -2131,7 +1338,6 @@ genutzt wurde. 
 Die  indirekte  Bremse  diente  als  Rückfallebene  für  die  direkte  Bremse  und  wurde  für  das 
 
 Bremsen beim Schleppen/Abschleppen genutzt, da die Tz in diesem Fall abgerüstet waren. Die 
-
 Steuerung  der  Bremse  und  somit  auch  die  Regelung  des  Bremszylinderdruckes  erfolgte  in 
 
 einer Elektropneumatischen (EP)‐Compact‐Einheit, die für jeweils zwei Drehgestelle zuständig 
@@ -2139,9 +1345,7 @@ einer Elektropneumatischen (EP)‐Compact‐Einheit, die für jeweils zwei
 war.  In  Abbildung  13  handelt  es  sich  um  die  äußere  grün  gestrichelte  Linie.  Die  einzige 
 
 Ausnahme  war  das  Drehgestell 5,  dessen  EP‐Compact‐Einheit  nur  für  dieses  Drehgestell 
-
 zuständig war. Insgesamt gab es je 5‐teiligem Tz 4 EP‐Compact‐Einheit. 
-
 Im  Normalbetrieb  (gelöste  Bremse)  betrug  der  HLL‐Druck  5 bar.  Sobald  der  Druck  dort 
 
 abnahm  wandelte  ein  Verteilerventil  (Bezeichnung  KKL  (Knorr‐Bremse  Kleinsteuerventil  II)) 
@@ -2149,17 +1353,12 @@ abnahm  wandelte  ein  Verteilerventil  (Bezeichnung  KKL  (Knorr‐Bremse
 diesen  in  einen  steigenden  Vorsteuerdruck  (c(cid:2932)  (orange  Leitung))  um.  Der  Vorsteuerdruck 
 
 wurde  dann  wiederum  durch  einen  Druckumwandler  (Einheitsdruckübersetzer  (EDU))  in 
-
 einen Bremszylinderdruck (C‐Druck (rote Leitung)) umgewandelt.  
-
 Seite 27 von 55 
-
  
  
 Untersuchungsbericht 
-
 Zugkollision, 16.10.2020, Bf Dreileben‐Drackenstedt 
-
 Für  die  Erzeugung  des  Vorsteuer‐  und  des  Bremszylinderdruckes  war  die  Versorgung  des 
 
 Verteilerventils mit der Bezeichnung KKL und des Druckumwandlers EDU mit Druckluft nötig. 
@@ -2167,13 +1366,9 @@ Verteilerventils mit der Bezeichnung KKL und des Druckumwandlers EDU mi
 Die benötige Druckluft kam aus den Bremsluftvorratsbehältern (Bezeichnung B02) über die 
 
 R‐Leitungen  (blaue  Leitung),  die  mit  den  Anschlüssen  R1  und  R2  der  EP‐Compact‐Einheit 
-
 verbunden  waren.  Diese  hatten  zusammen  ein  Volumen  von 
-
 insgesamt  60 l 
-
 je 
-
 EP‐Compact‐Einheit und wurden wiederum aus der HBL versorgt. Die Druckluft der HBL wurde 
 
 zudem  in  4  Hauptluftbehältern  mit  einem  Volumen  von  je  100 l  gespeichert.  Die  in  den 
@@ -2181,27 +1376,19 @@ zudem  in  4  Hauptluftbehältern  mit  einem  Volumen  von  je  100 l
 Bremsluftvorratsbehältern gespeicherte Druckluft konnte von dort nur über die R‐Leitungen 
 
 (R1 und R2) in Richtung der EP‐Compact‐Einheit strömen, da ein Rückfluss in die HBL durch 
-
 ein Rückschlagventil (Bezeichnung B01) verhindert wurde. Somit wurde eine Nachspeisung in 
 
 die  HBL  durch  die  Bremsluftvorratsbehälter  verhindert,  um  eine  Druckverminderung  im 
 
 Bremssystem bei Verlust des HBL‐Druckes zu vermeiden. 
-
 Seite 28 von 55 
-
  
  
 Untersuchungsbericht 
-
 Zugkollision, 16.10.2020, Bf Dreileben‐Drackenstedt 
-
 Abbildung 13: Ausschnitt Druckluftplan Bremse für die Drehstelle 1 und 2 des Tz 10 
-
 Die  Auswertung  des  Fehlerspeichers  der  Bremssteuergeräte  der  Tz  3105  und  3109  ergab 
-
 keinerlei Hinweise auf eine Fehlfunktion des indirekten Bremssystems. 
-
 Auswertung des EBCU Dataloggers des Tz 3105 
 
 Durch das Einschalten der Batterie am Tz 3105 wurde eine Messeinrichtung aktiviert, die für 
@@ -2211,32 +1398,21 @@ anstehende  Messfahrten  bereits  eingebaut  war.  Diese  zeichnete  den�
 HLL‐Druck,  die  Bremsluftvorratsbehälterdrücke  (Reservoir‐Druck),  die  Bremszylinderdrücke 
 
 und  die  Achsgeschwindigkeiten  von  den  EBCU 1  und  3,  die  in  der  folgenden  Abbildung 
-
 dargestellt sind, auf. 
-
 10 Quelle: Druckluftplan TA43750_11_EN_180_1 (ATD), bearbeitet durch BEU 
-
 Seite 29 von 55 
-
  
  
   
  
  
 Untersuchungsbericht 
-
 Zugkollision, 16.10.2020, Bf Dreileben‐Drackenstedt 
-
 Abbildung 14: Einbauorte der Bremssteuergeräte (EBCU)11 
-
 Die folgende Abbildung zeigt die grafische Darstellung der Auswertung des EBCU Dataloggers. 
-
 Abbildung 15: Grafische Darstellung der Auswertung des EBCU Dataloggers12 
-
 Gegen 08:10 Uhr wurde die Batterie am Tz 3105 eingeschaltet und mit der Aufzeichnung der 
-
 Daten  begonnen.  Der  HBL‐Druck  betrug  zu  diesem  Zeitpunkt  ca.  4,2 bar.  Für  ein 
-
 ordnungsgemäßes Wirken der Druckluftbremsen und eine ausreichende Bevorratung der Tz 
 
 mit Druckluft hätte dieser Druck beständig einen Wert von mindestens 8,5 bar haben müssen. 
@@ -2248,167 +1424,104 @@ hinweg  höchstens  ca.  4,6  bzw.  4,8 bar.  Für  eine  ordnungsgemä
 Bremsluftvorratsbehälter nach vollständigem Bevorraten hätte der Druck demjenigen der HBL 
 
 entsprechen müssen. 
-
 11 Quelle: TA43750_210_EN_08_VS (ATD), bearbeitet durch BEU 
-
 12 Quelle: Knorr‐Bremse GmbH (über VGT), bearbeitet durch BEU 
-
 Seite 30 von 55 
-
  
  
  
  
  
 Untersuchungsbericht 
-
 Zugkollision, 16.10.2020, Bf Dreileben‐Drackenstedt 
-
 Während der Zugfahrt nahm der Druck in der HBL aufgrund der fehlenden Nachspeisung des 
-
 Tfz  bei  gleichzeitigem  Verlust  durch  Undichtigkeiten  und  Bremsvorgänge  kontinuierlich  ab. 
-
 Der anfangs noch aus der HBL nachgespeiste Druck in den Bremsluftvorratsbehältern blieb 
-
 stufenweise  konstant.  Wurde  bei  einer  Betriebsbremsung  der  Druck  in  der  HLL  abgesenkt, 
-
 gaben die Bremsluftvorratsbehälter gespeicherte Druckluft an die Bremszylinder zum Anlegen 
-
 der Bremse ab. Beim anschließenden Lösevorgang wurde diese aus den Bremszylindern in die 
-
 Umgebung entlassen. Die Bremsluftvorratsbehälter konnten anschließend höchstens noch in 
-
 dem Maß nachgespeist werden, wie noch ein höherer Restdruck in der HBL bestand.  
-
 Bei den ersten Bremsungen kurz nach der Abfahrt des Zuges lag der Bremszylinderdruck den 
-
 Vorgaben entsprechend bei einem zur Anforderung einer Bremsung auf 4,5 bar abgesenkten 
-
 Druck in der HLL im Durchschnitt zwischen 1,1 bar und 1,4 bar. 
-
 Vom Bf Salzgitter‐Immendorf West bis zum Evsig des Bf Dreileben‐Drackenstedt musste der 
-
 Zug 
-
 insgesamt  12 Mal  mit  der 
-
 indirekten  Bremse  abgebremst  werden.  Über  den 
-
 zurückgelegten Weg sank der HBL‐Druck aufgrund der fehlenden Nachspeisung dadurch von 
-
 ca. 3,9 bar auf zuletzt 0,6 bar. Bereits beim letzten betriebsbedingten Halt im Bf Schandelah 
 
 hatte  der  Tf  den  HLL‐Druck  stärker  abgesenkt  um  eine  ausreichende  Bremswirkung  zum 
 
 Anhalten des Zuges zu erlangen. Der Tf gab in seiner Stellungnahme an, dass er eine nicht 
-
 ausreichende Bremswirkung erst am Evsig des Bf Dreileben‐Drackenstedt festgestellt habe. 
 
 Dort  betrug  der  Druck  in  den  Bremsluftvorratsbehältern  noch  ca.  0,8 bar.  Um  dort  die 
 
 Geschwindigkeit zu reduzieren, senkte der Tf den Druck in der HLL um ca. 1,5 bar auf 3,5 bar 
-
 ab.  Durch  die  eingeleitete  Bremsung  und  den  damit  verbundenen  Aufbau  der 
 
 Bremszylinderdrücke sank der Druck in den Bremsluftvorratsbehältern auf ca. 0,6 bar, was der 
 
 Höhe des HBL‐Druckes zu diesem Zeitpunkt entsprach. Der Druck in den Bremszylindern stieg 
-
 auf  ca.  0,3 bar  an.  Trotz  des  bis  auf  0 bar  abgesenkten  Druckes  der  HLL  konnte  der 
-
 Bremszylinderdruck wegen des fast vollständig abgebauten Vorrats an Druckluft somit nicht 
-
 mehr weiter erhöht werden. 
-
 Seite 31 von 55 
-
  
  
 Untersuchungsbericht 
-
 Zugkollision, 16.10.2020, Bf Dreileben‐Drackenstedt 
-
 Abbildung 16: Auswertung EBCU Datalogger – Detailansicht Fahrtverlauf bei Dreileben‐Drackenstedt13 
-
 Der Druck in den Bremszylindern verblieb bis zur Kollision bei noch ca. 0,3 bar, wodurch die 
-
 Bremsen  an  den  geschleppten  Tz  nahezu  unwirksam  waren.  Für  den  gesamten  Zug  stand 
-
 nunmehr nur noch die Bremsleistung des arbeitenden Triebfahrzeugs zur Verfügung. Diese 
-
 reichte  jedoch  nicht  aus,  um  den  Zug  vor  dem  haltzeigenden  Esig  bzw.  noch  vor  dem 
-
 Gleisabschluss zum Halten zu bringen, wodurch die Kollision unvermeidbar wurde. 
-
 Durch  die  Aufzeichnung  des  EBCU Dataloggers  wurde  belegt,  dass  mindestens  seit  dem 
 
 Einschalten  der  Batterie  keine  Nachspeisung  der  HBL  durch  das  Tfz  mehr  erfolgte.  Der  zu 
 
 Beginn aufgezeichnete Wert des Drucks der HBL von ca. 4,2 bar lässt die Vermutung zu, dass 
-
 bei der unmittelbar vorher durchgeführten Zugbildung und Bremsprobe der ordnungsgemäße 
 
 Soll‐Druck  bereits  nicht  mehr  vorgelegen  hat.  Handlungen,  die  Druckluftverlust  zur  Folge 
 
 hätten, wurden nach der Bremsprobe nicht mehr ausgeführt. Mit hoher Wahrscheinlichkeit 
-
 traten spätestens bei der Zugbildung Umstände ein, die die stete Nachspeisung der HBL durch 
-
 das Tfz verhinderten. 
-
 Diese  nicht  gegebene  Nachspeisung  hatte  zur  Folge,  dass  die  Bremsluftvorratsbehälter 
-
 ebenfalls nicht mehr nachgespeist wurden. Durch Druckluftverluste im gesamten System, die 
-
 Luftfederung  und  die  Bremsungen  sank  der  Druck  in  den  HBL‐Vorratsluftbehältern  und  im 
-
 13 Quelle: Knorr‐Bremse (über VGT), bearbeitet durch BEU 
-
 Seite 32 von 55 
-
  
  
  
  
  
 Untersuchungsbericht 
-
 Zugkollision, 16.10.2020, Bf Dreileben‐Drackenstedt 
-
 Bremssystem der Tz in der Folge des Betriebs immer weiter ab. Im Verlauf der Zugfahrt des 
-
 DbZ 79653  konnte  dadurch  immer  weniger  Bremszylinderdruck  aufgebaut  werden.  Dies 
-
 führte  zu  einer  immer  geringeren  Bremswirkung  beim  Bremsen  des  Zuges  vor  und  im 
-
 Bf Dreileben‐Drackenstedt.  Im  Rahmen  einer  Nachuntersuchung  des  Ereignisses durch  VGT 
-
 wurden unter anderem Bremsversuche mit einer Lok der BR 214 und eines baugleichen Tz 
-
 (3106) durchgeführt. Dabei wurden mit dem Tfz Vollbremsungen (Druckabsenkung der HLL 
-
 auf 3,5 bar) bzw. Schnellbremsungen mit abgesperrter HBL‐Leitung durchgeführt und dazu der 
-
 C‐Druck  und  der  danach  verfügbare  HBL‐Druck  abgelesen.  Anhand  der  Ergebnisse  wurde 
-
 durch  die  BEU  die  Druckminderung 
-
 in  der  HBL  bei  der  Durchführung  des 
-
 Vorbereitungsdienstes nachvollzogen. Der Druck in der HBL hat demnach vor dem Beginn der 
-
 Zugvorbereitung in etwa 8 bar betragen. Demnach wurde mit hoher Wahrscheinlichkeit die 
-
 HBL beim Rangieren der Tz durch das Zweiwegefahrzeug zuletzt nachgespeist. 
 
 Bei  ordnungsgemäßem  Nachspeisen  der  HBL  hätte  der  Druck  in  den  Tz  ab  Beginn  der 
 
 Zugvorbereitung  durchgängig  mindestens  8,5 bar  betragen  müssen.  Bei  einer 
-
 unterbrechungsfrei hergestellten Verbindung hätte das arbeitende Tfz die HBL für gewöhnlich 
-
 die gesamte Zeit über mit diesem Druck versorgt, da dies dem Zweck der HBL entspricht. Die 
-
 nicht gegebene Durchgängigkeit der HBL zwischen dem Tfz und dem ersten Tz wertet die BEU 
 
 als ursächlichen Faktor [F1]. Das Vermeiden oder die rechtzeitige Korrektur dieses, seit der 
@@ -2416,66 +1529,41 @@ als ursächlichen Faktor [F1]. Das Vermeiden oder die rechtzeitige Korr
 Zugvorbereitung  bestehenden  Umstandes  hätte  das  Ereignis  aller  Wahrscheinlichkeit  nach 
 
 verhindert. 
-
 4.2.2  Untersuchung	der	Übergangskupplung	
-
 Das  Tfz  war  mit  zwei  Zughaken  ausgerüstet  und  die  Tz  mit 
-
 jeweils  zwei 
-
 Scharfenbergkupplungen. Um das Tfz dennoch mit einem Tz kuppeln zu können, war auf einer 
-
 Seite am Tfz auf dem Zughaken eine Übergangskupplung (siehe Abbildung 9) angebaut. Die 
-
 folgende Abbildung zeigt die technische Zeichnung der verwendeten Übergangskupplung. 
-
 Seite 33 von 55 
-
  
  
 Untersuchungsbericht 
-
 Zugkollision, 16.10.2020, Bf Dreileben‐Drackenstedt 
-
 Abbildung 17: Übergangskupplung (nach dem Ereignis berichtigte Version des Herstellers)14 
 
 Die  Übergangskupplung  bestand  aus  den  Hauptbaugruppen  Kupplungskopf  mit  Stirnplatte 
 
 und dem Bügel zur Verbindung mit dem Zughaken. Diese wurde in den Zughaken eingehängt 
-
 und mit dem Bügel und einem Federhalter fixiert. Der Kupplungskopf stellte die mechanische 
-
 Verbindung mit dem Tz her, das mit einer Scharfenbergkupplung Typ 10 ausgerüstet war. 
-
 Schnittstellen zwischen der Übergangskupplung des Tfz und dem Tz 
-
 Abbildung 18: Links: Übergangskupplung am Tfz, Rechts: Kupplung des Tz15 
-
 Die Stirnseiten der beiden Kupplungen hatten beide jeweils eine Öffnung für die HBL und HLL. 
-
 Die Kupplungen der Tz hatten zusätzlich eine Öffnung für die Entkuppelleitung und an den 
-
 Öffnungen für die HLL und HBL waren Ventile eingebaut. Die Übergangskupplung hatte diese 
-
 14 Quelle: Konstruktionszeichnung Voith „Universal ÜK Alstom Typ 10/SD10, bearbeitet durch BEU 
-
 15 Quelle: ATD, bearbeitet durch BEU 
-
 Seite 34 von 55 
-
  
  
  
  
  
 Untersuchungsbericht 
-
 Zugkollision, 16.10.2020, Bf Dreileben‐Drackenstedt 
-
 Ventile  nicht.  Die  Luft  aus  der  HBL  bzw.  HLL  konnte  daher  bei  entsprechend  geöffneten 
-
 Absperrhähnen direkt aus den Öffnungen der Übergangskupplung herausströmen. 
-
 Anhand der Auswertung des EBCU Dataloggers war erkennbar, dass die Durchgängigkeit der 
 
 HLL  gegeben  war.  Daher  wurde  auf  eine  Betrachtung  der  HLL‐Schnittstelle  zwischen  den 
@@ -2485,76 +1573,49 @@ beiden Kupplungen verzichtet. 
 Das  Ventil  für  die  HBL  in  der  Kupplung  des  Tz  war  in  der  Grundstellung  geschlossen.  Das 
 
 HBL‐Ventil konnte bei miteinander gekuppelten Fahrzeugen pneumatisch und bei passendem 
-
 Gegenstück mechanisch durch die gegeneinanderdrückenden Ventilstößel geöffnet werden. 
-
 Da die Übergangskupplung kein Ventil besaß, konnte das HBL‐Ventil in diesem Fall nur rein 
-
 pneumatisch durch den HBL‐Druck des Tfz geöffnet werden. Das Öffnen des HBL‐Ventils hätte 
-
 in  diesem  Fall  nur  funktioniert,  wenn  an  der  Öffnung  der  Übergangskupplung  eine  höhere 
-
 Kraft (durch den HBL‐Druck vom Tfz kommend ‐ Kraft  F_1), als durch den HBL‐Druck des Tz 
-
 (Kraft F_2) und der Federkraft am Ventilteller (Kraft F_3) zusammengewirkt hätten. 
 
 Abbildung 19: Luftkupplung HBL und Entkuppelleitung der Scharfenbergkupplung Typ 10 des Tz16  
 
 16 Quelle: Handbuch Voith „Automatische Scharfenbergkupplung 010.731“, bearbeitet durch BEU 
-
 Seite 35 von 55 
-
  
  
  
  
  
 Untersuchungsbericht 
-
 Zugkollision, 16.10.2020, Bf Dreileben‐Drackenstedt 
 
 Falls  die  Kraft  F_1  geringer  gewesen  wäre,  als  die  Kräfte  F_2  und  F_3  zusammen,  hätte  das 
 
 HBL‐Ventil als eine Art Rückschlagventil gewirkt und die Luft hätte aus der HBL der Tz nicht in 
-
 Richtung  des  Tfz  strömen  können.  Dies  hatte  zur  Folge,  dass  bei  einem  geschlossenen 
-
 HBL‐Absperrhahn des Tfz die Luft in der HBL innerhalb der Tz eingesperrt worden wäre und 
-
 nur  die  Leitung  zwischen  dem  HBL‐Absperrhahn  und  der  Übergangskupplung  über  die 
-
 Entlüftungsbohrung entleert worden wäre. 
-
 Das HBL‐Ventil wurde im Nachgang durch die VGT und die BEU untersucht. Es wurden keinerlei 
-
 Spuren  gefunden,  die  auf  ein  Klemmen  oder  Verkannten  des  Ventils  hindeuteten,  sodass 
-
 davon auszugehen ist, dass die Durchgängigkeit am HBL‐Ventil bestanden hat. 
-
 Drei‐Wegeventil an der Übergangskupplung des Tfz 
 
 An  der  Übergangskupplung  befand  sich  ein  Drei‐Wegeventil,  welches  in  der  folgenden 
 
 Abbildung dargestellt ist. Mit diesem gab es zwei Möglichkeiten eine Verbindung zwischen der 
-
 jeweiligen 
-
 Schlauchkupplung 
-
 und 
-
 der  HBL‐Öffnung 
-
 am 
-
 Kupplungskopf 
-
 der 
-
 Übergangskupplung herzustellen. Die erste Möglichkeit war die HBL‐Schlauchkupplung über 
-
 das  Drei‐Wegeventil  mit  der  HBL‐Öffnung  am  Kupplungskopf  zu  verbinden.  Die  zweite 
-
 Möglichkeit war die HLL‐Schlauchkupplung über das Drei‐Wegeventil mit der HBL‐Öffnung zu 
 
 verbinden  als  eine  Art  Bypass,  falls  am  Tfz  keine  Schlauchkupplung  für  die  HBL  vorhanden 
@@ -2564,150 +1625,90 @@ gewesen wäre. 
 Die Durchgängigkeit der Luft am Drei‐Wegeventils war jedoch ausschließlich gegeben, wenn 
 
 eine Abschlussstellung erwirkt wurde. Ohne Abschlussstellung wäre die Verbindung zwischen 
-
 den Luftschläuchen und der HBL‐Öffnung vollständig versperrt worden. Eine Raststellung gab 
-
 es nicht. 
 
 In  beiden  möglichen  Abschlussstellungen  hätte  jeweils  ausreichend  Druckluft  für  die 
 
 Versorgung  des  Bremssystems  und  somit  die  auslegungsgemäße  Bremsleistung  der  Tz 
-
 wirksam zur Verfügung gestanden. 
-
 Seite 36 von 55 
-
  
  
  
 Untersuchungsbericht 
-
 Zugkollision, 16.10.2020, Bf Dreileben‐Drackenstedt 
-
 Abbildung 20: Drei‐Wegeventil einer Übergangskupplung (Referenzfahrzeug) 
-
 Am Ereignisort wurde das Drei‐Wegeventil in der Stellung HBL‐HBL vorgefunden. Aufgrund 
-
 des Ereignisses und den daraus resultierenden hohen Unfallschäden im Kuppelbereich des Tfz 
-
 lässt sich nicht verifizieren, ob diese Stellung auch vor dem Ereignis eingestellt war. Durch die 
-
 Stellung HBL‐HBL war es dem Tf möglich das Ausblasen der HBL durchzuführen, wie von ihm 
-
 angegeben. Es ist deswegen davon auszugehen, dass diese Stellung wie vorgesehen eingestellt 
-
 war. 
-
 Durch die Bundespolizei wurden die Schläuche der HBL und HLL, die als Verbindung zwischen 
-
 dem Tfz und der Übergangskupplung benutzt wurden, abmontiert und endoskopiert. Diese 
-
 zeigten  keine  Auffälligkeiten,  die  eine  nicht  gegebene  Durchgängigkeit  der  HBL  erklären 
-
 würden. 
-
 Seite 37 von 55 
-
  
  
  
  
 Untersuchungsbericht 
-
 Zugkollision, 16.10.2020, Bf Dreileben‐Drackenstedt 
-
 4.2.3  Untersuchung	der	bautechnischen	Infrastruktur	
-
 Die  am  Ereignis  beteiligte  bautechnische  Infrastruktur  wurde  hinsichtlich  rechtlicher  und 
-
 zustandsbezogener  Anforderungen 
-
 soweit  untersucht,  dass  das  Vorliegen  von 
-
 ereignisrelevanten Faktoren an ihr ausgeschlossen werden konnte. 
-
 Alle  Schäden  an  der  bautechnischen  Infrastruktur  sind  als  Folgen  der  Zugkollision  zu 
-
 betrachten. 
-
 4.2.4  Untersuchung	der	Leit‐	und	Sicherungstechnik	
-
 Im Rahmen der Untersuchung der Leit‐ und Sicherungstechnik erfolgte eine Überprüfung der 
-
 Wirksamkeit  der  PZB‐Streckeneinrichtungen,  welche  die  Funktionsfähigkeit  feststellte. 
-
 Arbeiten an den Signalanlagen wurden unmittelbar vor dem Ereignis nicht durchgeführt. Nach 
-
 dem  Ereignis  vorliegende  Schäden  und 
-
 im  Stellwerk  angezeigte  Störungen  waren 
-
 ausschließlich als Unfallfolge einzustufen, weswegen auf eine weitere Untersuchung der Leit‐ 
-
 und Sicherungstechnik verzichtet wurde. 
-
 4.3  Menschliche	Faktoren	
-
 In diesem Kapitel werden Untersuchungserkenntnisse zu menschlichen Handlungen und/oder 
-
 Entscheidungen  am  gefährlichen  Ereignis  beteiligter  Personen  dargestellt.  Entsprechende 
-
 Erkenntnisse  können  sich  hierbei  insbesondere  im  Bereich  menschlicher  und  individueller 
-
 Merkmale sowie organisatorischer und Arbeitsplatzfaktoren ergeben. 
-
 4.3.1  Beteiligte	des	Infrastrukturbetreibers	
-
 Der  zuständige  Fdl  des  ESTW UZ Eilsleben  war  befähigt,  den  Dienst  im  ESTW UZ Eilsleben 
-
 durchzuführen. Den Nachweis der  Kenntnisse und Fertigkeiten für Bediener für den Fdl im 
-
 ESTW UZ Eilsleben  erbrachte  er  im  Jahre  2014.  Seine  Tauglichkeit  wurde  im  Jahre  2019 
-
 bescheinigt und war gültig bis Juni 2022.  
-
 Es lagen keine sicherheitsrelevanten Faktoren im Rahmen der Handlungen des EIU vor, welche 
 
 das Ereignis begünstigt oder verursacht hätten. Daher wurde auf eine weitere Untersuchung 
 
 der Beteiligten des EIU verzichtet. 
-
 4.3.2  Beteiligte	des	EVU	
 
 Die  folgenden  Ausführungen  stellen  die  allgemeinen  und  fahrtspezifischen  Qualifikationen, 
 
 Überwachungen durch das EVU, regelmäßige Fortbildungsunterrichte sowie die Tauglichkeit 
-
 und Ruhezeiten dar. 
-
 Seite 38 von 55 
-
  
  
 Untersuchungsbericht 
-
 Zugkollision, 16.10.2020, Bf Dreileben‐Drackenstedt 
-
 Allgemeine Qualifikationen 
-
 Der  Tf  des  Zuges  DbZ 79653  besaß  einen  europäischen  Führerschein  gemäß 
 
 Triebfahrzeugführerscheinverordnung (TfV)  mit  Gültigkeit  vom  Jahre  2018  bis  zum  Jahre 
 
 2028. 
-
 Im Jahre 1997 legte der Tf die Prüfung zum Tf für Streckentriebfahrzeuge ab. Im Jahre 1996 
-
 war er bereits zum Bremsbeamten befähigt worden. Eine Verwendungsprüfung hierfür legte 
-
 er am 19.11.1996 bei der Deutschen Bahn AG im Geschäftsbereich Ladungsverkehr ab. Seit 
-
 dem Jahre 2013 war er als Prüfer von Güterwagen im Eisenbahnbetrieb (Stufe 1 bis Stufe 4) 
-
 gemäß VDV‐Schrift 758 qualifiziert. 
-
 Spezifische Qualifikationen für die Durchführung der Zugfahrt 
-
 Laut  Zusatzbescheinigung  vom  30.04.2018,  welche  durch  das  EVU  VGT  ausgestellt  worden 
 
 war,  durfte  der  Tf  Elektrotriebzüge,  Dieseltriebwagen,  Streckendiesellokomotiven, 
@@ -2721,161 +1722,91 @@ Strecken  auf  denen  der  Betrieb  nach  Ril 408 – Fahrdienstvorschr
 Fahrdienstvorschrift für nichtbundeseigene Eisenbahnen erfolgte. Darüber hinaus durfte er in 
 
 Bereichen  mit  dem  Zugsicherungssystem  PZB  sowie  der  Linienförmigen  Zugbeeinflussung 
-
 eingesetzt  werden.  Bestätigte  Signalsysteme  nach  Zusatzbescheinigung  waren  das 
-
 H/V‐Signalsystem, das Hl‐Signalsystem, das Ks‐Signalsystem sowie das Sk‐Signalsystem. 
-
 Der Nachweis über die Feststellung der Befähigung zum Führens eines Eisenbahnfahrzeugs 
-
 der BR 214 wurde am 17.09.2018 erbracht. Am 27.01.2020 wurde der Tf am Fahrzeug „ICNG“ 
-
 geschult,  thematisch  relevante 
-
 Inhalte  waren  die  Druckluftbeschaffung  sowie  das 
-
 Bremssystem,  das  Abschleppen  des  Fahrzeugs  mit  und  ohne  Batteriespannung,  der 
-
 Vorbereitungs‐ und Abschlussdienst sowie Bremsproben – rechnergeführt und manuell. Die 
-
 Schulung erfolgte auf Grundlage des Bedienhandbuchs in deutscher und englischer Sprache. 
-
 Ein Nachweis über die Qualifikation zum Umgang und zur Bedienung der, für die Überführung 
-
 der  ICNG  Züge  erforderlichen,  Übergangskupplung  konnte  durch  das  Unternehmen  nicht 
-
 vorgelegt werden, die Übergangskupplungen seien betriebserprobt und die Mitarbeiter mit 
-
 dem Verfahren vertraut. Eine Einweisung erfolgte nach Angaben des EVU vmtl. im Jahre 2004. 
-
 Seite 39 von 55 
-
  
  
  
  
 Untersuchungsbericht 
-
 Zugkollision, 16.10.2020, Bf Dreileben‐Drackenstedt 
-
 Überwachungsfahrten durch das EVU 
-
 Das  EVU  war  verpflichtet  die  mit  sicherheitsrelevanten  Aufgaben  betrauten  Mitarbeiter 
-
 regelmäßig zu überwachen. Durch die VGT waren Nachweise über vier Überwachungsfahrten 
-
 aus den Jahren 2017, 2018, 2019 und 2020 vorgelegt worden. Die Handlungen des Tf wurden 
-
 überwiegend als mängelfrei bewertet. Lediglich im Jahr 2017 wurde ein Mangel dokumentiert, 
-
 ein Ereigniszusammenhang war an dieser Stelle nicht feststellbar. 
-
 Die  Überwachungsprotokolle  waren 
-
 in  Form  einer  Checkliste  aufgebaut.  Es  waren 
-
 umfangreiche 
-
 Prüfpunkte 
-
 unter 
-
 dem 
-
 Oberbegriff 
-
 „Fahrzeugtechnische 
-
 Vorbereitungsarbeiten“ vorhanden. Für die Zugkollision besonders relevant war der Prüfpunkt 
-
 „Prüfen der Bremsanlage nach Brevo / Handbuch“. Dieser wurde in allen vier Protokollen mit 
-
 „korrekt“  vermerkt.  Ein  Prüfpunkt  zur  Anwendung  von  Übergangskupplungen  war  im 
-
 Protokoll nicht enthalten. Auch im Freitextbereich war kein Vermerk zur Kontrolle ebendieser 
-
 vorhanden. 
-
 Regelmäßige Fortbildungen 
-
 Über die Überwachungsfahrten hinaus war das EVU verpflichtet Mitarbeiter in regelmäßigen 
-
 Fortbildungsunterrichten  zu  schulen.  Der  betroffene  Mitarbeiter  nahm  am  26.11.2014, 
-
 12.11.2015, am 20.11.2017 und am 03.12.2018 am betriebsinternen „Fortbildungsunterricht 
-
 für Triebfahrzeugführer“ teil. 
-
 Weitere regelmäßige Fortbildungen waren für die Funktion „Prüfer für Güterwagen der Stufe 
-
 4  –  Wagenmeister“  dokumentiert.  Die  Teilnahme  des  Mitarbeiters  erfolgte 
-
 im 
-
 September 2016,  November 2017,  November 2018  und  im  September 2020  an  jeweils 
-
 zweitägigen  externen  Veranstaltungen.  Im  November 2019  dokumentierte  das  EVU  eine 
-
 „Lernerfolgskontrolle Prüfer für Güterwagen – Stufe 4“, welche der Mitarbeiter mit 125 von 
-
 140 Punkten bestand. 
-
 Körperliche und psychische Eignung 
-
 Die  gesundheitliche  Eignung  gem.  § 5Abs. 1 Nr. 3 TfV  wurde  durch  einen  aktuellen 
-
 Tauglichkeitsnachweis, der bis zum März 2021 gültig war, erbracht. 
-
 Seite 40 von 55 
-
  
  
  
  
 Untersuchungsbericht 
-
 Zugkollision, 16.10.2020, Bf Dreileben‐Drackenstedt 
-
 Ruhezeiten 
 
 Die  letzten  Dienstaufträge  wurden  durch  die  BEU  überprüft.  Am  15.10.2020  um  16:35 Uhr 
 
 endete der letzte Dienst. Am Ereignistag nahm der Tf seinen Dienst um 06:23 Uhr auf. Die 
-
 Ruhezeiten waren somit eingehalten. 
-
 4.4  Feedback‐	und	Kontrollmechanismen	
-
 In diesem Kapitel wird insbesondere auf Bedingungen, Feedback‐ und Kontrollmechanismen 
 
 im  Eisenbahnsystem  eingegangen,  denen  ein  aktiver  Einfluss  auf  die  Entstehung  ähnlicher 
 
 Ereignisse zugeschrieben werden könnte. Diese Mechanismen schließen Faktoren des Risiko‐ 
-
 und Sicherheitsmanagement sowie Überwachungsverfahren mit ein. 
-
 SMS des EVU 
-
 Das für die Zugfahrt verantwortliche EVU VGT war gemäß § 4 Abs. 3 AEG u. a. verpflichtet, den 
-
 Betrieb sicher zu führen, insbesondere bestand eine Verpflichtung zur sicheren Durchführung 
-
 von Zugfahrten. Zur Gewährleistung der sicheren Betriebsführung gehörte u. a. das Aufstellen 
-
 und  Einhalten  eines  den  gesetzlichen  Anforderungen  genügenden  SMS  entsprechend 
-
 § 4 Abs. 4 AEG  i. V. m.  der  Richtlinie (EU) 2004/49/EG.  Inhaltliche  Maßstäbe  für  ein  SMS 
-
 waren  für  die  zum  Ereigniszeitpunkt  erteilte  SiBe  gem.  § 7a AEG  die  Aufstellung  und 
-
 Einhaltung der gemäß Verordnung (EU) 1158/2010 Anhang II genannten Anforderungen. 
-
 Aus  der  Fahrzeugkonstellation  bestehend  aus  dem  Tfz  der  BR 214  und  den  ICNG  mit 
-
 Verwendung einer Übergangskupplung Typ 10 ergab sich das Risiko der Erschöpfbarkeit der 
-
 Bremse bei fehlender Nachspeisung der HBL der ICNG. Die Realisierung dieses Risikos hatte 
-
 die  schwindende  Bremswirkung  an  den  ICNG  zur  Folge.  Im  Rahmen  des  SMS  war  es 
 
 erforderlich,  dieses  Risiko  zu  identifizieren,  Maßnahmen  zur  Beherrschung  des  Risikos 
@@ -2885,79 +1816,49 @@ abzuleiten und diese entsprechend durch das betriebliche Personal umsetz
 Die  folgenden  Abschnitte  behandeln  die  Ermittlung  von  Risiken  unter  erforderlicher 
 
 Kommunikation  mit  Beteiligten,  die  Ableitung  von  Kontrollmaßnahmen,  sowie  die 
-
 Dokumentation beim beteiligten EVU VGT im Zusammenhang mit der Zugfahrt DbZ 79653. 
-
 Kommunikation mit Beteiligten 
-
 Das EVU VGT wurde durch ATD als Hersteller der ICNG M5 und M9 beauftragt, die Fahrzeuge 
-
 in  den  Bf Blankenburg (Harz)  zu  überführen.  Der  Zweck  der  Überführung  war,  dort 
-
 Probefahrten  durchzuführen  für  eine  erfolgreiche  Fahrzeugzulassung  in  den  Niederlanden. 
-
 Seite 41 von 55 
-
  
  
 Untersuchungsbericht 
-
 Zugkollision, 16.10.2020, Bf Dreileben‐Drackenstedt 
-
 Die  Fahrzeuge  waren  zu  diesem  Zeitpunkt  in  Deutschland  nicht  zugelassen  und  auch  nicht 
-
 dafür vorgesehen. 
-
 Da sich die Fahrzeuge nicht im Eigentum der VGT befanden, basierten sämtliche Maßnahmen 
 
 zur  Risikoermittlung  und  Risikokontrolle  auf  den  Informationen  des  Herstellers  ATD.  Dies 
 
 bedingte  eine  umfangreiche  Kommunikation  zwischen  Hersteller  und  EVU  bzgl.  der 
-
 innewohnenden  Funktionen  und  Verhaltensweisen  der  Fahrzeuge.  Gemäß  Verordnung 
-
 (EU) Nr. 1158/2010 Anhang II bestand hierzu die folgende Anforderung an das SMS des EVU: 
-
 „A.4 Es bestehen Verfahren, die der Notwendigkeit Rechnung tragen, gegebenenfalls mit 
-
 anderen Stellen (z.B. (…) Hersteller, (…)) in Fragen zusammenzuarbeiten, bei denen es 
-
 Überschneidungen gibt und davon auszugehen ist, dass sie sich auf die Einführung von 
-
 geeigneten Risikokontrollmaßnahmen (…) auswirken werden.“ 
-
 Im  beschriebenen  Fall  übergab  der  Fahrzeughersteller  im  Rahmen  der  Vorbereitung  der 
-
 geplanten Überführungsleistung das Handbuch des ICNG in deutscher und englischer Fassung 
-
 an das EVU, welches für die Betrachtung der Änderungen und dem  damit einhergehenden 
-
 Risiko  unerlässlich  war.  Im  Nachgang  des  eingetretenen  Ereignisses  äußerte  die  VGT  am 
-
 19.11.2024 im Rahmen der Untersuchung durch die BEU: 
-
 „(…) Die vorliegenden Dokumente gaben keinen Hinweis auf die andauernd benötigte 
-
 HBL‐Versorgung. Im aktuell gültigen Handbuch ist dieser Hinweis durch den Hersteller 
-
 ALSTOM nachgetragen, auch zur Wahrung entsprechender gesetzlicher Pflichten (u.a. 
-
 Produktbeobachtung).“ 
-
 Das  auf  Deutsch  übersetzte  Handbuch  zum  ICNG,  welches  vor  dem  Ereignis  an  die  VGT 
 
 übermittelt  wurde,  enthielt  keine  Informationen  über  das  Bremssystem  des  Zuges.  Eine 
 
 Systembeschreibung  des  Bremssystems  wurde durch  den Hersteller Knorr‐Bremse Systeme 
-
 für Schienenfahrzeuge GmbH erstellt. Ob das Dokument, mit der Freigabe vom 11.12.2019, 
-
 im  Verlauf  der  Planung  der  Verkehrsleistung  bei  der  VGT  vorlag  ist  unbekannt.  Für  die 
 
 Verhinderung des eingetretenen Risikos hätte dem EVU mindestens die Funktionsweise des 
 
 Bremssystems  bekannt  sein  müssen,  um  dieses  ordnungsgemäß  für  die  Überführung  der 
-
 Fahrzeuge nutzen zu können. 
 
 Damit  die  Überführung  auf  dem  deutschen  Eisenbahnnetz  stattfinden  durfte,  wurde  durch 
@@ -2967,33 +1868,22 @@ ATD eine Unbedenklichkeitserklärung (UBE) zu Probe‐ und Überführungs
 Ziel war es, die funktionale Sicherheit der ICNG M5 und M9 festzustellen. An der Erarbeitung 
 
 Seite 42 von 55 
-
  
  
 Untersuchungsbericht 
-
 Zugkollision, 16.10.2020, Bf Dreileben‐Drackenstedt 
-
 der UBE war die VGT maßgeblich beteiligt. Darüber hinaus wurde ebenfalls durch die ATD eine 
-
 Berechnung der Bremsgewichte der beladenen und unbeladenen ICNG beauftragt. Die daraus 
-
 ergangenen Unterlagen lagen der VGT vor der Vorbereitung des Zuges DbZ 79653 vor. Aus 
-
 den Unterlagen war die Funktionsweise des Bremssystems nicht für das EVU erkennbar. 
 
 Durch  das  EVU  gab  es  jedoch  keine  schriftlichen  Nachweise  über  die  Feststellung  der 
 
 fehlenden 
-
 Informationen 
-
 im  Herstellerhandbuch  des 
-
 ICNG.  Eine  diesbezügliche 
-
 Kontaktaufnahme des EVU zum Hersteller der Fahrzeuge wurde nicht nachgewiesen, sodass 
-
 davon  auszugehen  ist,  dass  die  VGT  keine  Maßnahmen  anstellte  um  die  notwendigen 
 
 Informationen  zur  Funktionsweise  des  Bremssystems  zu  erhalten.  Dem  Erfordernis  der 
@@ -3001,127 +1891,73 @@ Informationen  zur  Funktionsweise  des  Bremssystems  zu  erhalten.  Dem
 Kommunikation mit Beteiligten wurde mit Hinblick auf die Funktionsweise des Bremssystems 
 
 nicht in ausreichendem Maße nachgekommen. 
-
 Erfassung von Risiken 
-
 Nachdem  der  VGT  die  fahrzeugbetreffenden  Unterlagen  vorlagen,  war  es  erforderlich,  die 
-
 individuellen Risiken der Überführung zu erfassen, um eine sachgemäße Planung der Leistung 
-
 sicherzustellen. Die Verordnung (EU) 1158/2010 Anhang II sah für die Ermittlung von Risiken 
-
 folgende Anforderung an das SMS des EVU vor: 
-
 „A.1 Es bestehen Verfahren zur Ermittlung von Risiken im Zusammenhang mit dem 
-
 Eisenbahnbetrieb, auch von Risiken, die sich direkt aus den Arbeitstätigkeiten, der Art des 
-
 Arbeitsplatzes, der Arbeitsbelastung und den Tätigkeiten anderer Organisationen bzw. 
-
 Personen ergeben. (…)“ 
-
 Die Grundlage aller weiterführenden Schritte des SMS war die vollständige und sachgemäße 
-
 Ermittlung aller Risiken. 
 
 Unterschiedliche  Zustände  oder  Arbeitsschritte  (z. B.  ein  technischer  Defekt  oder  das 
 
 unterlassene  Öffnen  des  HBL‐Hahns  am  Tfz)  konnten  zum  Eintritt  des  Risikos  der 
-
 erschöpfbaren Bremse bei fehlender Nachspeisung der HBL durch das Tfz führen. Dieses galt 
-
 es zunächst zu erkennen. 
-
 Am  26.03.2021  gab  die  VGT  gegenüber  der  BEU  auf  Nachfrage  folgendes  bzgl.  der 
-
 Risikobetrachtung zur betroffenen Überführungsfahrt an: 
-
 „Risikobetrachtung und SMS 
-
 Seite 43 von 55 
-
  
  
 Untersuchungsbericht 
-
 Zugkollision, 16.10.2020, Bf Dreileben‐Drackenstedt 
-
 Das Überführen von Fahrzeugen rein mit einer Übergangskupplung ist ein seit Jahren (ca. 
-
 seit dem Jahr 2002 eingeführtes Verfahren bei der VGT mbH bzw. ALSTOM. Daher wurden 
-
 keine erneuten Risikobewertungen nach aktueller Rechtslage durchgeführt, da es sich um 
-
 ein eingeführtes und bewährtes Verfahren gehandelt hat. Dies wurde bereits durch die 
-
 vorhergehenden EBL eingeführt und so übergeben.“ 
-
 Das  EVU  gab  an,  keinen  Handlungsbedarf  für  die  Durchführung  einer  Risikobetrachtung 
-
 gesehen  zu  haben.  Das  Überführen  von  Fahrzeugen  mit  Übergangskupplungen  sei  als 
-
 Verfahren eingeführt und bewährt. Grundlage für eine neuerliche Risikobetrachtung war das 
-
 Erkennen  einer  betrieblichen,  organisatorischen  oder  technischen  Änderung  bzw.  eines 
-
 Risikos. 
-
 Zum Zeitpunkt des Ereignisses war im SMS der VGT der „Prozess 710 Risiken beherrschen und 
 
 bewerten“,  vom  18.08.2016  gültig.  Der  Prozessschritt  „Risiken  erkennen“  umfasste  die 
 
 Schritte in der folgenden Abbildung: 
-
 Abbildung 21: Auszug Prozess 710 Risiken erkennen17 
-
 Da  sich  für  das  Unternehmen  nach  eigener  Auffassung  keine  Änderung  im  Vorgehen  bei 
-
 Überführungsfahrten  mit  Übergangskupplungen  ergeben  hatte,  wurde  der  Prozess  710 
-
 17 Quelle: VGT, Prozess 710 Risiken beherrschen und bewerten, bearbeitet durch BEU 
-
 Seite 44 von 55 
-
  
  
  
  
 Untersuchungsbericht 
-
 Zugkollision, 16.10.2020, Bf Dreileben‐Drackenstedt 
-
 Risiken beherrschen und bewerten, vom 18.08.2016, nach Aussage des Unternehmens nicht 
-
 angewendet. 
-
 Die Nutzung der Übergangskupplung als Entscheidungskriterium zur Einleitung der Ermittlung 
-
 von Risiken war im Ereignisfall nicht ausreichend. Sowohl die Übergangskupplung selbst, als 
-
 auch  die  Verwendung  ebendieser  und  damit  zusammenhängende  Arbeitsabläufe  wie  die 
-
 Zugvorbereitung und die Bremsprobe waren als Bewertungskriterium für Risiken relevant. 
-
 Zur  Vorgehensweise  bei  der  Feststellung  von  Änderungen  und  Risiken  innerhalb  des  SMS 
-
 gingen ferner folgende Angaben am 01.12.2021 bei der BEU ein: 
-
 „Für die am Ereignis beteiligten beiden ICNG Züge 3105 und 3109 gibt es eine 
-
 Unbedenklichkeitserklärung vom 13.10.2020 für Probe‐ und Überführungsfahrten. So wird 
-
 sichergestellt, das vorhandene Risiken erkannt und Maßnahmen eingeleitet werden. Die 
-
 Auflagen daraus und der Risikoanalyse werden in einer Weisung den Personalen bekannt 
-
 gegeben. Überführungsfahrten und Probefahrten werden dabei in den 
-
 Unbedenklichkeitserklärungen nicht unterschieden.“ 
-
 Die  durch  einen  anerkannten  Gutachter  erstellte  UBE 
-
 fasste  die  Probe‐  und 
-
 Überführungsfahrten  in  einem  Dokument  zusammen.  Systematisch  unterschieden  sich  die 
 
 Fahrttypen  maßgeblich  voneinander.  Die  Probefahrten  sollten  aus  eigener  Kraft  der  ICNG 
@@ -3131,75 +1967,43 @@ durchgeführt werden. Für die Überführungsfahrten sollten die ICNG vo
 werden.  Die  Funktionsprüfungen  erfolgten  mit  der  Zielstellung  der  Sicherstellung  der 
 
 grundsätzlichen 
-
 Funktionsfähigkeit 
-
 der 
-
 einzelnen 
-
 Systemkomponenten 
-
 (z. B. 
-
 Zugbeeinflussung  und  Bremssystem)  der 
-
 ICNG.  Darüber  hinaus  wurden 
-
 für  den 
-
 Abschleppbetrieb  die  Funktionen  „Bremsung  durch  Fremdfahrzeug,  Notlösen  von 
-
 Einrichtungen und Zugschluss‐Signalisierung“ geprüft und durch den Gutachter als in Ordnung 
-
 bewertet. Angaben zur Systematik der Prüfung gab es in der UBE nicht. 
-
 Eine für die Probefahrten maßgebliche Nennung der Risiken in der Vorbereitung des Zuges, 
-
 der Anwendung der Übergangskupplung oder in der Durchführung der Bremsprobe erfolgte 
-
 in der UBE nicht. 
-
 Am 19.11.2024 gab die VGT bzgl. des Bremssystems folgendes gegenüber der BEU bekannt: 
-
 Seite 45 von 55 
-
  
  
 Untersuchungsbericht 
-
 Zugkollision, 16.10.2020, Bf Dreileben‐Drackenstedt 
-
 „(…) Die Bauweise der Bremse findet schon seit mehr als 10 Jahren bei den von Alstom für 
-
 Deutschland gebauten Triebwagen Verwendung und diese werden auch seit dem von der 
-
 VGT (…) geschleppt befördert.“ 
-
 Aus  diesem  Schreiben  ging  hervor,  dass  das  EVU  grundsätzlich  Kenntnis  über  die 
 
 Funktionsweise des für die Zugfahrt DbZ 79653 relevanten Bremssystems hatte. Im selbigen 
 
 Schreiben wurden darüber hinaus Angaben zu den zulässigen Zuständen des Bremssystems 
-
 der geschleppten ICNG im Betrieb gemacht: 
-
 „(…) Ein Druck der HBL von 5 ‐ 10 bar im geschleppten Zustand des Zuges muss 
-
 sichergestellt sein. Dann ist die Bremsanlage über ein Absenken und Füllen der HLL 
-
 steuerbar.“ 
-
 Der zulässige Zustand den das Bremssystem der ICNG erreichen musste war ein HBL‐Druck 
-
 zwischen 5 und 10 bar, damit die Bremsen wirksam anlegen konnten und so die Bremsanlage 
-
 durch  das  Tfz  über  den  HLL‐Druck  steuerbar  blieb.  Die  gemachten  Angaben  bzgl. 
-
 sicherzustellender Zustände entsprachen nicht den Gegebenheiten zum Ereigniszeitpunkt. Zu 
-
 Beginn  der  Zugfahrt  im  Bf  Salzgitter‐Immendorf  West  betrug  nach  Auswertung  des 
-
 EBCU Dataloggers (s. Kap. 4.2.1) der Druck in der HBL nur etwa 3,2 bar. Eine Nachspeisung der 
 
 HBL fand zu diesem Zeitpunkt nicht statt. Die Risiken eines zu geringen Drucks in der HBL und 
@@ -3209,51 +2013,29 @@ der fehlenden Durchgängigkeit der HBL zwischen Tfz und Tz waren berei
 Durch den Ausschluss der Ermittlung von Risiken durch das Initialkriterium der Nutzung der 
 
 Übergangskupplung konnten gefährliche und deswegen auszuschließende Zustände an dem 
-
 Bremssystem der ICNG mit der Folge eines erheblichen Verlusts der Wirksamkeit der Bremsen 
-
 im Ergebnis nicht kontrolliert werden. Ebenfalls war die vorliegende UBE nicht dafür geeignet 
-
 zuverlässig die Risiken, die sich aus der Überführung der ICNG ergaben, zu offenbaren. 
-
 Ableitung von Risikokontrollmaßnahmen 
-
 Um  eine  sachgemäße  Planung  der  Überführungsleistung  sicherzustellen,  waren  zu  den 
-
 erfassten  betrieblichen,  organisatorischen  und 
-
 technischen  Risiken  entsprechende 
-
 Kontrollmaßnahmen  zu  entwickeln.  Die  Verordnung  (EU) 1158/2010  Anhang II  sah  für  die 
-
 Ableitung von Risikokontrollmaßnahmen folgende Anforderung an das SMS des EVU vor: 
-
 „A.2 Es bestehen Verfahren zur Entwicklung und Einführung von 
-
 Risikokontrollmaßnahmen. (…)“ 
-
 Seite 46 von 55 
-
  
  
 Untersuchungsbericht 
-
 Zugkollision, 16.10.2020, Bf Dreileben‐Drackenstedt 
-
 Eine  gängige  Möglichkeit  der  Risikokontrolle  mit  Hinblick  auf  das  Bremssystem  war  die 
-
 Durchführung einer Bremsprobe vor Abfahrt des Zuges. Die UBE lieferte die folgende Vorgabe 
-
 für die Durchführung einer Bremsprobe. 
-
 „(…) Ein nach den Herstellervorgaben durchzuführender täglicher Vorbereitungs‐ und 
-
 Abschlussdienst einschl. der bremstechnischen Überprüfungen gemäß VDV‐Schrift 757 
-
 (DS/DV 915.01) ist durch das durchführende EVU sicherzustellen. (…)“ 
-
 Im Jahre 2024 gab das EVU an, Vorgabe sei eine Bremsprobe nach 915.0103A01 gewesen und 
-
 nicht wie 2020 ursprünglich angegeben 915.0103A11. Die Zugkonstellation entsprach jedoch 
 
 keinem der Beispiele der VDV‐Schrift 757 bzw. der Ril 915. Hieraus ergab sich die Aufgabe des 
@@ -3261,75 +2043,43 @@ keinem der Beispiele der VDV‐Schrift 757 bzw. der Ril 915. Hieraus 
 EVU  eine  den  Risiken  entsprechende,  wirksame  Bremsprobe  zu  ermitteln,  festzulegen  und 
 
 dem Tf für die Durchführung der Zugfahrt zur Verfügung zu stellen. 
-
 Durch die VGT waren der BEU am 19.11.2024 die Arbeitsschritte des Tf im folgenden Absatz 
-
 benannt, diese sollten die Maßnahmen zur Risikokontrolle sicherstellen. 
-
 „Das BRW der VGT und die VDV 757 Teil B Ril 915.0103.A01 fanden Anwendung. 
-
 (…) 
-
 1.  Zulässige Zustände werden erreicht durch: 
-
 2.  Ordnungsgemäßes Einhängen der Abschleppkupplung 
-
 3.  Ordnungsgemäßes Verbinden der Luftanschlüsse HLL/HBL 
-
 4.  Ausblasen der Öffnungen HLL/HBL 
-
 5.  Ordnungsgemäßes Kuppeln mit Triebfahrzeug 
-
 6.  Zugprobe um eine einwandfreie Verbindung Lokomotive – Triebfahrzeug 
-
 sicherzustellen 
-
 7.  Öffnen der Luftabsperrhähne HLL/HBL 
-
 8.  Volle Bremsprobe mit Prüfung der Durchgängigkeit HLL/HBL 
-
 Durch die volle Bremsprobe ist die Durchgängigkeit der HLL nachgewiesen. Die Bauart des 
-
 Zuges ermöglicht im normalen Betrieb keine manuelle Öffnung der HLL am Endes des 
-
 Zuges. Das Öffnen der HLL erfolgt automatisch beim Erreichen der Stellung gekuppelt mit 
-
 einer weiteren Kupplung und ist im Betrieb manuell nicht ansteuerbar. Die manuelle 
-
 Öffnung der HBL ist an der Kupplung ebenfalls technisch nicht vorgesehen. Die Möglichkeit 
-
 Seite 47 von 55 
-
  
  
 Untersuchungsbericht 
-
 Zugkollision, 16.10.2020, Bf Dreileben‐Drackenstedt 
-
 einer Prüfung beschränkt sich auf das Prüfen des HBL‐Manometers vor und nach der 
-
 vollen Bremsprobe im letzten Führerstand des Zugverbandes. Dabei ist zu prüfen, dass der 
-
 HBL‐Druck nach der vollen Bremsprobe wieder ansteigt. Das Prüfen des HBL‐Druckanstiegs 
-
 am Manometer im letzten Führerstand des Zugverbandes, war bei den von der VGT 
-
 eingesetzten Triebfahrzeugführern betriebliche Praxis.“ 
 
 Eine schriftliche Festlegung der Schritte als Maßnahmen der Risikokontrolle wurde durch das 
 
 EVU nicht erbracht. 
-
 Da bereits in der Erfassung der Risiken Mängel auftraten, konnte eine sichere Beherrschung 
-
 aller Risiken durch das EVU nicht gewährleistet werden. 
-
 Dokumentation 
-
 Die  VGT  gab  an,  dass  das  Überführen  von  Fahrzeugen  mit  Übergangskupplungen  als 
-
 eingeführtes  und  bewährtes  Verfahren  galt.  Ebenso,  dass  das  Durchführen  einer 
-
 abgewandelten Durchgangsprüfung der HBL betriebliche Praxis waren. 
 
 Für  die  Dokumentation  bestanden  gemäß  Verordnung (EU) Nr. 1158/2010 Anhang II  für  die 
@@ -3339,9 +2089,7 @@ Inhalte des SMS die folgenden Vorgaben: 
 „A.5 Es bestehen Verfahren zur Abstimmung der Dokumentation und Kommunikation mit 
 
 den einschlägigen Stellen, einschließlich der Feststellung der Aufgaben und 
-
 Zuständigkeiten jeder beteiligten Organisation sowie der Spezifikation für den 
-
 Informationsaustausch. (…) 
 
 Hierbei  handelte  es  sich  um  die  externe  Kommunikation,  z. B.  mit  dem  Hersteller  der 
@@ -3351,63 +2099,35 @@ Fahrzeuge, welcher bereits im Abschnitt Kommunikation mit Beteiligten au
 Nachweise  über  Prozessschritte  hinsichtlich  der  Abstimmung  von  Dokumentation  und 
 
 Kommunikation wurden nicht nachgewiesen. 
-
 Darüber hinaus galt die folgende Vorgabe für die Inhalte des SMS: 
-
 F.4 Es besteht ein Verfahren, das sicherstellt, dass sicherheitsrelevante Aufgaben klar 
-
 festgelegt sind und an Personal delegiert werden, das über die erforderliche fachliche 
-
 Befähigung verfügt.“ 
-
 Hier waren Vorgaben für die unternehmensinterne Kommunikation die Zielstellung. Nach den 
-
 Anforderungen  der  EU  war  es  unabdingbar  sicherheitsrelevante  Aufgaben  klar  festzulegen 
-
 und  sie 
-
 lediglich  an  Personal  zu  delegieren,  welches  die  notwendigen  fachlichen 
-
 Seite 48 von 55 
-
  
  
 Untersuchungsbericht 
-
 Zugkollision, 16.10.2020, Bf Dreileben‐Drackenstedt 
-
 Qualifikationen besaß. Bzgl. der Arbeitsvorgaben, nach denen der Tf seine Arbeitsaufgabe am 
-
 16.10.2020 zu erledigen hatte, übermittelte die VGT am 19.11.2024 folgende Antwort: 
-
 „Das BRW der VGT und die VDV 757 Teil B Ril 915.0103.A01 fanden Anwendung. Zum 
-
 Zeitpunkt des Ereignisses konnte die VGT bereits auf eine langjährige Erfahrung 
-
 hinsichtlich des Schleppens mit Schleppkupplung zurückblicken. Für derartige 
-
 Überführungen wurden ausschließlich erfahrene Personale eingesetzt. Ein Datum für 
-
 Arbeitsvorgaben zur Verwendung der Schleppkupplungen kann daher nicht genannt 
-
 werden. Gemäß Befragung auch von früheren Mitarbeitern wurde diese Vorgehensweise 
-
 seit dem Jahr 2002 praktiziert. 
-
 (…) Das Bedienen der Schleppkupplung (Einhängen in den Zughaken, Verbinden der 
-
 Luftanschlüsse, Einstellen des Dreiwegehahns) war Bestandteil einer praktischen 
-
 Einweisung, die ausnahmslos jeder der eingesetzten Triebfahrzeugführer im Rahmen der 
-
 Einarbeitung absolvieren muss. 
-
 Ein konkretes Datum für die Einarbeitung für den eingesetzten Tf kann aufgrund der 
-
 langen Zugehörigkeit zur VGT (seit 2004) nicht benannt werden. Es ist jedoch davon 
-
 auszugehen, dass die Einarbeitung in besagten [sic!] Zeitraum erfolgt ist.“ 
-
 Für die Erledigung seiner Arbeitsaufgabe am 16.10.2020 erhielt der Tf durch die VGT lediglich 
 
 allgemeingültige Arbeitsvorgaben in Form des BRW sowie der VDV‐Schrift 757. Es wurden ihm 
@@ -3423,117 +2143,70 @@ Die oben benannten Prüfschritte zum Ausschluss sicherheitskritischer Zus
 Tf  nicht  schriftlich  bekannt  gegeben.  Ob  diese  in  ihren  Inhalten  und  dem  Ablauf  für  das 
 
 Verhindern auszuschließender Systemzustände wie bspw. einer Erschöpfbarkeit der Bremsen 
-
 vollständig geeignet und ausreichend war, blieb demnach durch die VGT unkontrolliert. 
-
 Die erforderlichen Prüfschritte, die für eine Bremsprobe durchzuführen waren, wurden dem 
-
 Tf  nach  Aussage  der  VGT  lediglich  im  Rahmen  der  Einweisung  in  die  Nutzung  der 
 
 Schleppkupplung vermittelt. Es konnte weder ein schriftlicher Nachweis über die Inhalte der 
 
 Einweisung, noch über den Zeitpunkt der Einweisung nachgewiesen werden. Nach Angaben 
-
 des EVU muss diese Einweisung aber bereits 16 Jahre vor dem Ereignis stattgefunden haben. 
-
 Ein  Nachweis,  der  regelmäßige  Schulungen 
-
 im  Umgang  mit  Übergangskupplungen 
-
 Seite 49 von 55 
-
  
  
 Untersuchungsbericht 
-
 Zugkollision, 16.10.2020, Bf Dreileben‐Drackenstedt 
-
 dokumentierte lag nicht vor. Erforderliche ergänzende oder abändernde Weisungen, die die 
 
 speziellen Risiken der Konstellation aus Tfz und geschleppten ICNG bei der Überführungsfahrt 
 
 des DbZ 79653 betrafen, konnten ebenfalls nicht vorgelegt werden. 
-
 Überdies  konnten  auch  die 
-
 im  Rahmen  eines  obligatorischen  Prozesses  des 
-
 Risikomanagements allfälligen Entscheidungen durch Verantwortliche bzgl. der Verwendung 
-
 des  Bremssystems  der  ICNG  seitens  VGT  nicht  weiter  nachgewiesen  werden.  Es  war  nicht 
-
 schlüssig zu belegen, von welcher Art Bremssystem die VGT in der Planung und Vorbereitung 
-
 der Verkehrsleistung ausging und auf welcher Basis ein etwaiger Verzicht auf eine umfassende 
-
 Risikobetrachtung erfolgte. 
-
 In  allen  obligatorischen  Prozessschritten  wurden  sicherheitsrelevante  Abweichungen 
-
 zwischen den Soll‐Vorgaben und den Ist‐Abläufen vorgefunden. In Folge derer wurden die zu 
-
 beherrschenden  Risiken  in  Bezug  auf  die  Durchführung  der  Überführungsfahrt  nicht  im 
-
 ausreichendem Maße erfasst. Durch das Nichterkennen des Risikos war das EVU nicht in der 
-
 Lage, geeignete Risikokontrollmaßnahmen abzuleiten, zur Verfügung zu stellen und umsetzen 
-
 zu  lassen.  Insbesondere  ist  das  Ereignis  auf  systemischer  Ebene  auf  die  unzureichenden 
-
 Kontrollmaßnahmen in Bezug auf die Wirksamkeit der Bremse [S1] zurückzuführen. Der Faktor 
-
 [F1]  war  auf  managementspezifische  Fehlhandlungen  zurückzuführen,  welche  sich  auf 
-
 zukünftige, ähnliche Ereignisse auswirken konnten. 
-
 4.5  Frühere	Ereignisse	ähnlicher	Art	
-
 Entfällt. 
-
 Seite 50 von 55 
-
  
  
  
  
 Untersuchungsbericht 
-
 Zugkollision, 16.10.2020, Bf Dreileben‐Drackenstedt 
-
 5  Schlussfolgerungen	
-
 Das  folgende  Kapitel  enthält  eine  Zusammenfassung  der  ermittelten  ursächlichen, 
-
 beitragenden  und  systemischen  Faktoren.  Zusätzlich  sind  zwei  weitere  Unterkapitel 
-
 vorgesehen,  um  Informationen  zu  bereits  ergriffenen  Maßnahmen  und  zu  zusätzlichen 
-
 Bemerkungen zu teilen. 
-
 5.1  Zusammenfassung	und	Schlussfolgerung	
-
 Die in diesem Untersuchungsbericht ermittelten Handlungen, Unterlassungen, Vorkommnisse 
-
 oder Umstände führten zur Zugkollision im Bf Dreileben‐Drackenstedt. 
-
 Es wurden ein ursächlicher und ein systemischer Faktor mit Einfluss auf das Ereignis durch die 
-
 BEU ermittelt. 
-
 Zu ursächlichem Faktor „Durchgängigkeit der HBL zwischen Tfz und Tz bei Zugvorbereitung 
-
 nicht vorhanden“ [F1] 
-
 Nach  ca.  80,7 km  Fahrt  offenbarte  sich  am  Evsig 41Vf  des  Bf  Dreileben‐Drackenstedt  in 
-
 km 164,570 die fehlende Durchgängigkeit der HBL bei der Zugfahrt DbZ 79653 dadurch, dass 
 
 durch den mittlerweile sehr niedrigen HBL‐Druck von nur noch ca. 0,8 bar in den geschleppten 
 
 Tz die Bremszylinder nicht mehr ausreichend befüllt werden konnten und die Bremsen der Tz 
-
 dadurch  nicht  mehr  wirksam  anlegten.  Der  DbZ 79653  konnte  aus  der  gefahrenen 
-
 Geschwindigkeit heraus nicht mehr rechtzeitig vor dem Esig 41F in km 163,350 anhalten und 
 
 kollidierte  nach  einer  weiteren  unzulässigen  Vorbeifahrt  am  Asig 41P4  letztlich  mit  einem 
@@ -3543,63 +2216,40 @@ Gleisabschluss.  Im  Rahmen  der  Untersuchung  konnte  eine  technische�
 Ursache für die fehlende Durchgängigkeit der HBL nicht eindeutig bestimmt werden. Aufgrund 
 
 der rekonstruierten Abläufe und technischer Dokumentation durch die EBCU ist jedoch davon 
-
 auszugehen,  dass  mit  hoher  Wahrscheinlichkeit  im  Rahmen  der  Zugvorbereitung  die 
-
 Durchgängigkeit der HBL nicht hergestellt war und dies bis über den Zeitpunkt der Abfahrt 
-
 hinaus  unerkannt  blieb.  Auch  war  die  durch  den  Tf  durchgeführte  Bremsprobe  nicht  dafür 
-
 geeignet, den durch sachgerechtes Handeln auszuschließenden, aber eingetretenen Zustand 
-
 der fehlenden Durchgängigkeit der HBL vor Abfahrt zu erkennen. 
-
 Seite 51 von 55 
-
  
  
  
  
 Untersuchungsbericht 
-
 Zugkollision, 16.10.2020, Bf Dreileben‐Drackenstedt 
-
 Zu systemischem Faktor „unzureichende Kontrollmaßnahmen in Bezug auf die Wirksamkeit 
-
 der Bremse“ [S1] 
-
 Die  fehlende  Durchgängigkeit  der  HBL  [F1] 
-
 ist  als  Folge  des  systemischen  Faktors 
-
 „unzureichende  Kontrollmaßnahmen 
-
 in  Bezug  auf  die  Wirksamkeit  der  Bremse“  zu 
-
 betrachten. 
-
 Die fehlenden bzw. zur Risikokontrolle nicht auskömmlichen Anweisungen zur Bremsprobe 
-
 der Überführungsfahrt ergeben sich aus Mängeln im SMS. Die Verantwortung der VGT war es, 
 
 alle betrieblichen, technischen und organisatorischen Sicherheitsrisiken zu ermitteln und zu 
 
 beherrschen. Während der Untersuchung gab die VGT an, von ATD nicht ausreichend über die 
-
 Funktionsweise des Bremssystems informiert worden zu sein. Es konnte jedoch kein Nachweis 
 
 über  die  rechtzeitige  Feststellung  des  Fehlens  eines  Herstellerhinweises  vorgelegt  werden. 
 
 Ebenfalls  erbrachte  das  EVU  keinen  Nachweis  über  eine  Kontaktaufnahme  zu  ATD,  um 
-
 fehlende Kenntnisse über die Funktionsweise des Bremssystems des ICNG einzufordern. Von 
-
 welcher  Funktionsweise  des  Bremssystems  des  ICNG  das  EVU  während  der  Planung  der 
-
 Verkehrsleistung ausging wurde nicht aufgeklärt. 
-
 Ausgehend von einer hinreichenden Definition des betriebenen Systems aus Triebfahrzeug, 
-
 Übergangskupplung  und  geschleppten  ICNG  hätten  erforderliche  Kontrollmaßnahmen  zum 
 
 Ausschluss  unzulässiger  Systemzustände  unter  Dokumentation  entschieden  und  eingeführt 
@@ -3607,89 +2257,54 @@ Ausschluss  unzulässiger  Systemzustände  unter  Dokumentation  entschied
 werden  müssen.  Darauf  aufbauend  hätten  beteiligte  Personale  unter  Nachweis  befähigt, 
 
 trainiert und überwacht werden müssen. Letztlich hätte ein geplantes und reproduzierbares 
-
 Prüfverfahren  im  Rahmen  der  Bremsprobe  die  am  Ereignistag  eingetretene,  fehlende 
-
 Durchgängigkeit der HBL rechtzeitig offenbaren können. 
-
 Der  jederzeitigen  Wirksamkeit  der  Bremsen  kommt  im  Eisenbahnbetrieb  eine  hohe 
-
 Sicherheitsbedeutung zu. Entsprechend muss ein EVU mit dem geschäftlichen Spezialkontext 
-
 der  Überführung  und  Erprobung  nichtzugelassener  Eisenbahnfahrzeuge  mit  besonderer 
-
 Sorgfalt sicherstellen, über alle notwendigen Informationen der eingesetzten Systeme, ihres 
-
 Verhaltens, und ihrer Einsatzbedingungen zu verfügen und den Betrieb des Systems auf Basis 
-
 von geplantem und dokumentiertem Handeln sicher zu kontrollieren. 
-
 Die  zum  Ereigniszeitpunkt  gemäß  Verordnung (EU)  Nr. 1158/2010,  Anhang II,  für  die 
 
 Sicherheitsorganisation  des  EVU  einschlägigen  Bewertungskriterien  wurden  im  Kapitel  4.4 
 
 bzgl. der Feststellungen der BEU zur vorgefundenen Organisationsreife des EVU genannt. Im 
-
 Seite 52 von 55 
-
  
  
 Untersuchungsbericht 
-
 Zugkollision, 16.10.2020, Bf Dreileben‐Drackenstedt 
-
 Wesentlichen waren unzureichende Kontrollmechanismen zu thematisieren. Diese betrafen 
-
 den unzureichenden Austausch sicherheitsrelevanter Informationen zwischen den Beteiligten 
-
 und die angemessene Durchführung eines ausführlichen Risikomanagements. 
-
 Im Rahmen der Rückäußerung zum Entwurf dieses Untersuchungsberichts der BEU hat das 
-
 EVU zudem die Bedeutung des aus Sicht des EVU gegebenen, hohen Erfahrungsschatzes des 
-
 Tf angeführt. Nach Auffassung der BEU sind jedoch auch erfahrene Beschäftigte nicht davon 
-
 ausgenommen,  individuelle  Arbeitsfehler  zu  begehen.  Eine  diesbezügliche  Kontrolle  der 
-
 Risiken ist dementsprechend einer der Zwecke eines SMS. Auch dient das SMS dazu, dass ein 
 
 erfahrener  Tf  die  zuvor  bestimmten,  richtigen  Handlungen  in  Bezug  auf  eine  gegebene 
 
 fahrzeugtechnische Ausrüstung durchführt. 
-
 Die  Verordnung (EU)  Nr. 1158/2010  wurde  zwischenzeitlich  durch  die  delegierte 
-
 Verordnung (EU)  2018/762  „über  gemeinsame  Sicherheitsmethoden  bezüglich  der 
-
 Anforderungen  an  Sicherheitsmanagementsysteme  gemäß  der  Richtlinie  (EU)  2016/798“ 
-
 ersetzt. Die genannten Anforderungen an das SMS von EVU wurden dadurch neugefasst und 
-
 fortgeschrieben.  Die 
-
 im  Kapitel  4.4  geschilderten  Feststellungen  betreffend  der 
-
 ereignisrelevanten Defizite in der Sicherheitsorganisation des EVU können für Zwecke einer 
 
 gebotenen  Verbesserung  der  Sicherheitsorganisation  auf  die  aktuellen  Kriterien  gemäß 
 
 delegierter  Verordnung (EU)  2018/762  einfach  übertragen  werden.  Hierzu  hat  die 
-
 Eisenbahnagentur der europäischen Union im Anhang 1 zum „Leitfaden Anforderungen an das 
-
 Sicherheitsmanagementsystem 
-
 für 
-
 die 
-
 Sicherheitsbescheinigung 
-
 oder 
-
 die 
-
 Sicherheitsgenehmigung“18  dienliche  Entsprechungstabellen  veröffentlicht.  Die  BEU  geht 
 
 davon  aus,  dass  den  Verantwortlichen  des  EVU  diese  Arbeitshilfe  für  die  obligatorisch  zu 
@@ -3699,7 +2314,6 @@ leistende  Adaption  des  eigenen  SMS  auf  die  fortgeschriebenen  Anf
 delegierter Verordnung (EU) 2018/762 bereits bekannt ist. Daher entfällt an dieser Stelle eine 
 
 weitergehende Erläuterung. 
-
 Teil  der  genannten  Fortschreibung  der  SMS  Kriterien  war  auch  das  erstmalige  Einbeziehen 
 
 einer  positiven  Sicherheitskultur  in  die  Kriterien  aufgrund  deren  Bedeutung  für  die 
@@ -3707,66 +2321,43 @@ einer  positiven  Sicherheitskultur  in  die  Kriterien  aufgrund  deren�
 18 Vgl. online‐Veröffentlichung der ERA, Version 1.3 des Leitfadens, zuletzt aufgerufen am 13.10.2025, 
 
 https://www.era.europa.eu/system/files/2024‐
-
 01/Guide%20on%20safety%20management%20system%20requirements%20‐%20DE.pdf 
-
 Seite 53 von 55 
-
  
  
  
 Untersuchungsbericht 
-
 Zugkollision, 16.10.2020, Bf Dreileben‐Drackenstedt 
 
 kontinuierliche  Verbesserung  der  Sicherheitsorganisation  (vgl.  Verordnung (EU) 2018/762, 
 
 Anhang 1, Kriterium 7.2.3). 
-
 5.2  Seit	dem	Ereignis	getroffene	Maßnahmen	
-
 Sofortmaßnahmen der VGT: 
-
 Die  Überführung  von  Fahrzeugen  auf  öffentlicher  Infrastruktur  erfolgt  ausschließlich  mit 
-
 Bremswagen, welche durch die VGT zu diesem Zweck angeschafft wurden. Zu überführende 
-
 Fahrzeuge dienen hier lediglich als Leitungsfahrzeuge. 
 
 Das Drei‐Wegeventil an der Übergangskupplung wurde seitens des Herstellers demontiert um 
 
 eine Fehlstellung zu vermeiden. 
-
 Sofortmaßnahme des Eisenbahn‐Bundesamtes: 
-
 Am 07.12.2021 veröffentlichte die Aufsichtsbehörde die Fachmitteilung 31/2021 mit dem Titel 
-
 „Sicherheitspflichten  bei  der  Verwendung  von  Abschleppkupplungen  im  Rahmen  von 
-
 Überführungsfahrten“. 
-
 5.3  Zusätzliche	Bemerkungen	
-
 Entfällt. 
-
 Seite 54 von 55 
-
  
  
  
  
 Untersuchungsbericht 
-
 Zugkollision, 16.10.2020, Bf Dreileben‐Drackenstedt 
-
 6  Sicherheitsempfehlungen	
-
 Aufgrund der oben genannten, zwischenzeitlich getroffenen Maßnahmen wird durch die BEU 
-
 keine Sicherheitsempfehlung ausgesprochen. 
-
 Seite 55 von 55 
-
  
  
  

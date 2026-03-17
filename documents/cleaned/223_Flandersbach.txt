@@ -1,43 +1,23 @@
 Untersuchungsbericht 
-
 Aktenzeichen: 
-
 BEU-uu2021-10/006-3323 
-
 Stand: 
-
 12.11.2024 
-
 Version 1.0 
-
 Erstveröffentlichung:  18.11.2024 
-
 Gefährliches	Ereignis	im	Eisenbahnbetrieb 
-
 Ereignisart: 
-
 Datum: 
-
 Zeit: 
-
 Zugkollision 
-
 19.10.2021 
-
 06:42 Uhr 
-
 Betriebsstelle: 
-
 Bf Flandersbach 
-
 Gleis: 
-
 Kilometer: 
-
 2 
-
 12,12 
-
  
 	
  
@@ -54,26 +34,16 @@ Kilometer: 
  
  
 Untersuchungsbericht 
-
 Zugkollision, 19.10.2021, Bf Flandersbach 
-
 Veröffentlicht durch: 
-
 Bundesstelle für Eisenbahnunfalluntersuchung 
-
 Heinemannstraße 6 
-
 53175 Bonn 
-
  
 Untersuchungsbericht 
-
 Zugkollision, 19.10.2021, Bf Flandersbach 
-
 Inhaltsverzeichnis	
-
 I. 
-
 II. 
 
 Änderungsverzeichnis: .......................................................................................... II 
@@ -89,19 +59,12 @@ IV. 
 Abkürzungsverzeichnis: ....................................................................................... IV 
 
 0 
-
 1 
-
 1.1 
-
 1.2 
-
 1.3 
-
 1.4 
-
 2 
-
 3 
 
 Vorbemerkung ...................................................................................................... 1 
@@ -121,9 +84,7 @@ Die Untersuchung und ihr Kontext ..........................................
 Beschreibung des Ereignisses ................................................................................ 7 
 
 3.1 
-
 Informationen über das Ereignis und seine Hintergründe ..................................... 7 
-
 3.1.1 
 
 Lage und Beschreibung des Ereignisortes ............................................................... 7 
@@ -153,7 +114,6 @@ Hergangsbeschreibung ..........................................................
 Notfallmanagement .............................................................................................. 12 
 
 4 
-
 4.1 
 
 Auswertung des Ereignisses ................................................................................ 13 
@@ -161,21 +121,14 @@ Auswertung des Ereignisses ..................................................
 Aufgaben und Pflichten ......................................................................................... 13 
 
 4.1.1 
-
 Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers ................. 13 
-
 I 
-
  
  
 Untersuchungsbericht 
-
 Zugkollision, 19.10.2021, Bf Flandersbach 
-
 4.1.2 
-
 Untersuchung der betrieblichen Abläufe der EVU ................................................ 19 
-
 4.2 
 
 Fahrzeuge und technische Einrichtungen ............................................................. 23 
@@ -185,13 +138,9 @@ Fahrzeuge und technische Einrichtungen .....................................
 Untersuchung von Fahrzeugen ............................................................................. 23 
 
 4.2.2 
-
 Untersuchung von Fahrzeugen des GAG 68432 ................................................... 24 
-
 4.2.3 
-
 Untersuchung der bautechnischen Infrastruktur ................................................. 25 
-
 4.2.4 
 
 Untersuchung der Leit- und Sicherungstechnik .................................................... 26 
@@ -225,13 +174,9 @@ SMS der Eiffage Infra-Rail GmbH ...........................................
 SMS der BUG Vermietungsgesellschaft mbH ........................................................ 32 
 
 4.5 
-
 5 
-
 5.1 
-
 5.2 
-
 5.3 
 
 Frühere Ereignisse ähnlicher Art ........................................................................... 32 
@@ -249,13 +194,9 @@ Zusätzliche Bemerkungen .....................................................
 Sicherheitsempfehlungen ................................................................................... 38 
 
 I.  Änderungsverzeichnis:	
-
 Änderung 
-
 Stand 
-
 II 
-
  
  
  
@@ -265,9 +206,7 @@ II 
 	
 	
 Untersuchungsbericht 
-
 Zugkollision, 19.10.2021, Bf Flandersbach 
-
 II.  Abbildungsverzeichnis:	
 
 Abbildung 1: Lageplan ................................................................................................................ 8 
@@ -283,7 +222,6 @@ Abbildung 5: Bereich des Abstellverbots und des Baugleises gemäß Betr
 Abbildung 6: Grafische Auswertung der EFR-Daten von Zug GAG 68432 ............................... 21 
 
 Abbildung 7: Aufgefundene Hemmschuhe auf Höhe der Weichenzunge 01W3 .................... 22 
-
 Abbildung 8:Perspektive entgegen der Fahrtrichtung des GAG 68432 auf die Unfallstelle .... 25 
 
 Abbildung 9: Auszug Nachweis der vorübergehenden Änderungen ....................................... 27 
@@ -303,210 +241,124 @@ Tabelle 5: Technische Daten Eisenbahnkran KRC 910 .......................
 Tabelle 6: Technische Daten Schutzwagen .............................................................................. 24 
 
 III 
-
  
  
  
  
  
 Untersuchungsbericht 
-
 Zugkollision, 19.10.2021, Bf Flandersbach 
-
 IV.  Abkürzungsverzeichnis:	
-
 Abzw 
-
 AEG 
-
 Betra 
-
 BEU 
-
 BZ 
-
 EFR 
-
 EIU 
-
 Esig 
-
 Abzweigstelle 
-
 Allgemeines Eisenbahngesetz 
-
 Betriebs- und Bauanweisung 
-
 Bundesstelle für Eisenbahnunfalluntersuchung 
-
 Betriebszentrale 
-
 Elektronische Fahrtenregistrierung 
-
 Eisenbahninfrastrukturunternehmen 
-
 Einfahrsignal 
-
 ESTW 
-
 Elektronisches Stellwerk 
-
 EU 
-
 EUV 
-
 EVU 
-
 Fdl 
-
 Europäische Union 
-
 Eisenbahn-Unfalluntersuchungsverordnung 
-
 Eisenbahnverkehrsunternehmen 
-
 Fahrdienstleiter 
-
 GSM-R 
-
 Global System for Mobile Communications Rail 
-
 Ls 
-
 PZB 
-
 Ril 
-
 SMS 
-
 Tf 
-
 Tfz 
-
 VzG 
-
 Lichtsperrsignal 
-
 Punktförmige Zugbeeinflussung 
-
 Richtlinie 
-
 Sicherheitsmanagementsystem 
-
 Triebfahrzeugführer  
-
 Triebfahrzeug 
-
 Verzeichnis der örtlich zulässigen Geschwindigkeiten 
-
 IV 
-
  
  
  
 Untersuchungsbericht 
-
 Zugkollision, 19.10.2021, Bf Flandersbach 
-
 0  Vorbemerkung	
 
 Auf der Grundlage des Artikel 24 der Richtlinie (EU) 2016/798 hat die europäische Kommission 
 
 mit 
-
 der 
-
 Inkraftsetzung 
-
 der  Durchführungsverordnung 
-
 (EU) 
-
 2020/572 
-
 die 
-
 Untersuchungsberichtsstruktur festgelegt. Diese Vorgaben sind grundsätzlich einzuhalten. Die 
-
 Berichtsstruktur muss der Art und Schwere des gefährlichen Ereignisses angepasst sein. 
-
 Mit  Verkündung  der  Verordnung  und  Inkraftsetzung  am  zwanzigsten  Tag  nach  der 
 
 Veröffentlichung  im  Amtsblatt  der  Europäischen  Union  (EU)  ist  diese  verbindlich  und 
 
 unmittelbar auf alle ab dem 17.05.2020 eingeleiteten Untersuchungen anzuwenden. 
-
 Seite 1 von 38 
-
  
  
  
  
 Untersuchungsbericht 
-
 Zugkollision, 19.10.2021, Bf Flandersbach 
-
 1  Zusammenfassung	
-
 Das erste Kapitel enthält eine Kurzbeschreibung des Ereignisses sowie Informationen zu den 
-
 Folgen, Primärursachen sowie zu im Einzelfall ausgesprochenen Sicherheitsempfehlungen. 
-
 1.1  Kurzbeschreibung	des	Ereignisses	
-
 Am  19.10.2021  gegen  06:42 Uhr  kollidierte  der  Güterzug  GAG 68432,  auf  der  Fahrt  von 
-
 Oberhausen West nach Flandersbach, mit einer entlaufenen Fahrzeuggruppe, bestehend aus 
-
 einem  Eisenbahnkran  und  zwei  Schutzwagen,  auf  der  Weiche 01W3  des  Bahnhofs  (Bf) 
-
 Flandersbach. 
-
 1.2  Folgen	
-
 Personen wurden bei dem Ereignis nicht verletzt. Die letzten beiden Wagen des GAG 68432 
-
 entgleisten. Es entstand Sachschaden an den beteiligten Eisenbahnfahrzeugen. 
-
 1.3  Ursachen	
-
 Im  Rahmen  der  Untersuchung  des  Ereignisses  wurden  die  folgenden  Handlungen, 
 
 Unterlassungen, Vorkommnisse oder Umstände als sicherheitskritische Faktoren identifiziert. 
 
 Diese werden gemäß Durchführungsverordnung 2020/572 in ursächliche oder beitragende, 
-
 und  systemische  Faktoren  unterschieden.  Zusätzlich  werden  ermittelte  Defizite  des 
-
 Notfallmanagements behandelt.  
-
 Zur besseren Übersichtlichkeit der Faktoren und Aspekte des Notfallmanagements wird eine 
-
 Systematik mit Kennzeichnungen in eckigen Klammern verwendet. 
 
 Eine  detaillierte  Auswertung  des  Ereignisses  unter  Einordnung  als  sicherheitskritische 
 
 Faktoren wird in den folgenden Kapiteln gegeben. 
-
 Seite 2 von 38 
-
  
  
  
  
 Untersuchungsbericht 
-
 Zugkollision, 19.10.2021, Bf Flandersbach 
-
 Geschehen: 
-
 Datum/Uhrzeit, sowie 
-
 Handlung / Unterlassen 
 Umstand / Vorkommnis 
-
 / 
-
 Ab 19.08.2021 
 
 Unterlassene 
@@ -517,27 +369,20 @@ Rahmen der 
 Baumaßnahme 
 
 11.10.2021 
-
 Ursächlicher 
 Faktor 
-
 Beitragender 
 Faktor 
-
 Systemischer 
 Faktor 
-
 Prozess der 
 Baustellenplanung 
 und Erstellung der 
 Betriebs- und 
 Bauanweisung 
 (Betra) [F1] 
-
 - 
-
 - 
-
 - 
 
 Einweisung des Technisch 
@@ -548,142 +393,96 @@ Gegebenheiten durch das 
 Infrastrukturunternehmen 
 
 - 
-
 Methode der 
 Einweisung des 
 Technisch 
 Berechtigten in 
 Örtlichkeit [F2] 
-
 die 
-
 Umsetzung der 
 Kenntnis über das 
 Abstellverbot 
 durch den Tf [F3] 
-
 - 
-
 Kenntnisüberprüfung 
 des Tf bzgl. Aufgaben 
 und Befugnissen [S3] 
-
 16.10.2021 
-
 Einweisung 
 Triebfahrzeugführer 
 des Eisenbahnkrans 
-
 (Tf) 
-
 15.10.2021, 08:56 Uhr 
-
 Fahrdienstleiter (Fdl) lässt 
 Einfahrt des 
 Eisenbahnkrans in das 
 Baugleis zu 
-
 16.10.2021, ca. 20:30 Uhr 
-
 Abstellung der 
 Fahrzeuggruppe in Gleis 3 
-
 16.10.2021, ab 20:30 
-
 Uhr 
-
 Sichern der 
 Fahrzeuggruppe 
-
 - 
-
 - 
-
 Zulassen einer 
 Rangierfahrt in das 
 Baugleis entgegen 
 der Vorgaben der 
 Betra [F4] 
-
 Abstellung im 
 Baugleis entgegen 
 der Vorgaben der 
 Betra [F5] 
-
 Sichern der 
 Fahrzeuggruppe 
 gegen 
 unbeabsichtigte 
 Bewegung [F6] 
-
 - 
-
 Teil der Ausgangslage 
-
 Verkrautung der 
 Gleisanlagen im Bf 
 Flandersbach 
-
 - 
-
 Verkrautung 
 Gleisanlagen 
-
 der 
 [F7] 
-
 - 
-
 - 
-
 - 
-
 - 
-
 Seite 3 von 38 
-
  
  
 Ursächlicher 
 Faktor 
-
 Beitragender 
 Faktor 
-
 Systemischer 
 Faktor 
-
 Untersuchungsbericht 
-
 Zugkollision, 19.10.2021, Bf Flandersbach 
-
 Geschehen: 
-
 Datum/Uhrzeit, sowie 
-
 Handlung / Unterlassen / 
 Umstand / Vorkommnis 
-
 18.10.2021, vor 22:38 Uhr 
-
 Treffen der Feststellung 
 „Frei und Befahrbar“ der 
 Gleise durch den 
 Technisch Berechtigten 
-
 - 
-
 Feststellung des 
 „Freiseins und der 
 Befahrbarkeit“ [F8] 
-
 18.10.2021, 22:38 Uhr 
-
 Meldung „Frei und 
 Befahrbar“ des Technisch 
 Berechtigten an den 
 zuständigen Fdl 
-
 Abgabe der 
 Meldung „Frei 
 und Befahrbar“, 
@@ -691,77 +490,45 @@ obwohl Gleis 3 
 nicht frei von 
 Fahrzeugen 
 war [F9] 
-
 - 
-
 Tabelle 1: Zusammenfassung Einflussfaktoren 
-
 1.4  Sicherheitsempfehlungen	
-
 Eine Sicherheitsempfehlung wurde durch die BEU nicht ausgesprochen. 
-
 - 
-
 - 
-
 Seite 4 von 38 
-
  
  
  
 	
 Untersuchungsbericht 
-
 Zugkollision, 19.10.2021, Bf Flandersbach 
-
 2  Die	Untersuchung	und	ihr	Kontext	
-
 Die  Bundesstelle  für  Eisenbahnunfalluntersuchung  (BEU)  ist  für  die  Untersuchung  von 
-
 gefährlichen 
-
 Ereignissen 
-
 im 
-
 Eisenbahnbetrieb 
-
 im 
-
 Sinne  des  Kapitels V  der 
-
 Richtlinie (EU) 2016/798  auf  Eisenbahninfrastrukturen  des  Bundes  und  auf  nicht 
-
 bundeseigenen  Eisenbahninfrastrukturen  des  übergeordneten  Netzes  gemäß  § 2b 
-
 Allgemeines Eisenbahngesetz (AEG) zuständig. 
-
 Ziel  und  Zweck  der  eingeleiteten  Untersuchungen  ist  es,  die  Ursachen  des  gefährlichen 
-
 Ereignisses  aufzuklären  und  hieraus  Hinweise  zur  Verbesserung  der  Sicherheit  abzuleiten. 
-
 Untersuchungen der BEU dienen nicht dazu, ein Verschulden festzustellen oder Fragen der 
 
 Haftung oder sonstiger zivilrechtlicher Ansprüche zu klären und werden unabhängig von jeder 
 
 gerichtlichen Untersuchung durchgeführt. 
-
 Sicherheitsempfehlungen  der  BEU  zur  Vermeidung  von  gefährlichen  Ereignissen  und 
-
 Verbesserung der Eisenbahnsicherheit werden an die nationale Sicherheitsbehörde, sofern es 
-
 die Art der Empfehlung erfordert an die Eisenbahnagentur der Europäischen Union und an 
-
 andere Stellen oder Behörden adressiert. Im Allgemeinen sind die Sicherheitsempfehlungen 
-
 auch  an  die  unmittelbar  bzw.  mittelbar  betroffenen  sowie  alle  einschlägigen 
-
 Eisenbahnunternehmen gerichtet. 
-
 Zu schweren Unfällen leitet die BEU stets Untersuchungen gem. Artikel 20 Abs. 1 Richtlinie 
-
 (EU)  2016/798  ein.  Unter  einem  schweren  Unfall  sind  insbesondere  Zugkollisionen  oder 
-
 Zugentgleisungen mit mindestens einem Todesopfer oder mindestens fünf Schwerverletzten 
 
 oder  mit  beträchtlichem  Schaden  (≥ 2 Mio.  Euro)  sowie  sonstige  Unfälle  mit  den  gleichen 
@@ -771,367 +538,207 @@ Folgen und mit offensichtlichen Auswirkungen auf die Regelung der Eisen
 das  Sicherheitsmanagementsystem  (SMS)  zu  verstehen.  Bei  allen  sonstigen  gefährlichen 
 
 Ereignissen im Eisenbahnbetrieb liegt es im Ermessen der BEU Untersuchungen einzuleiten. 
-
 Bei  der  Entscheidung  werden  neben  den  zum  Ereigniszeitpunkt  verfügbaren  Ressourcen 
-
 weitere Kriterien gem. Artikel 20 Abs. 2 Richtlinie (EU) 2016/798 herangezogen. 
-
 Aufgrund  des  gegebenen  Schadensausmaßes  bzw.  der  Folgen  bei  dem  vorliegenden 
-
 gefährlichen Ereignis wurden Untersuchungen auf Grundlage des Artikels 20 Abs. 2 Richtlinie 
-
 (EU) 2016/798 eingeleitet. 
-
 Die  Unfalluntersuchungshandlungen  werden  strukturiert  in  vier  definierten  Kernprozessen 
-
 durchgeführt, die mit der Entscheidung zur Aufnahme einer Untersuchung beginnen und mit 
-
 Seite 5 von 38 
-
  
  
 Untersuchungsbericht 
-
 Zugkollision, 19.10.2021, Bf Flandersbach 
-
 der  Veröffentlichung 
-
 des  Untersuchungsberichtes 
-
 abgeschlossen  werden. 
-
 Zur 
-
 Ursachenermittlung  werden  ergebnisoffene  Untersuchungen 
-
 in  allen  beteiligten 
-
 Fachdisziplinen  angestellt  und  hierbei  insbesondere  Fehler-Ursachen-Analysen  und  Soll-Ist-
-
 Vergleiche durchgeführt. 
-
 Vom 
-
 örtlich 
-
 zuständigen 
-
 Untersuchungsbezirk 
-
 Nordwest 
-
 wurden 
-
 die 
-
 Untersuchungshandlungen federführend geleitet. 
-
 Sofern im Einzelfall geboten, werden die jeweiligen Untersuchungsteams bezirksübergreifend 
-
 unterstützt und notwendige Sachverständigenleistungen extern beauftragt. 
-
 Im  Rahmen  der  Sachverhaltsermittlung  und  Ursachenerforschung  wurden  neben  den 
-
 beteiligten Unternehmen keine weitere Stellen einbezogen. 
-
 Die Durchführung der Unfalluntersuchung setzt voraus, dass alle an dem gefährlichen Ereignis 
-
 Beteiligten  den  jeweiligen  Meldeverpflichtungen  gem.  § 2  Abs. 3  EUV  nachkommen.  Die 
-
 relevanten Informationen sind durch die zur Meldung Verpflichteten auf dem neuesten Stand 
-
 zu halten. 
-
 Auf Grundlage des § 5b AEG werden i. d. R. weitergehende zur Untersuchungsdurchführung 
 
 erforderliche  Informationen,  Auskünfte  und  Nachweise  abgefordert.  Diese  notwendigen 
 
 Zuarbeiten konnten mittels Auskunftsersuchen gewonnen werden. 
-
 Darüber hinaus können nach § 5b Abs. 4 AEG von den an gefährlichen Ereignissen beteiligten 
-
 Eisenbahnen  Unterstützungsleistungen  eingefordert  werden.  Bei  dem  vorliegenden 
-
 gefährlichen Ereignis wurden keine Unterstützungsleistungen eingefordert. 
-
 Die infrastrukturseitige Freigabe der Unfallstelle erfolgte durch die BEU am 19.10.2021 um 
-
 12:35 Uhr. 
-
 Seite 6 von 38 
-
  
  
  
  
 Untersuchungsbericht 
-
 Zugkollision, 19.10.2021, Bf Flandersbach 
-
 3  Beschreibung	des	Ereignisses	
 
 Im  dritten  Kapitel  wird  das  gefährliche  Ereignis  in  zwei  vorgegebenen  Unterkapiteln  näher 
 
 beschrieben.  In  Kapitel  3.1  sind  neben  den  Grunddaten  weitere  Informationen  zum 
-
 Ereignisort,  den  äußeren  Bedingungen,  den  Beteiligten  und  den  Folgen  enthalten.  Die 
-
 Ereignisrekonstruktion  sowie 
-
 Informationen  zur  Auslösung  und  dem  Ablauf  der 
 
 Rettungsmaßnahmen  sind  im  Kapitel  3.2  dargestellt.  Die  Beschreibungen  beziehen  sich 
 
 grundsätzlich  auf  die 
-
 zum  Ereigniszeitpunkt  vorherrschenden  Bedingungen  und 
-
 vorgefundenen Sachverhalte. 
-
 3.1  Informationen	über	das	Ereignis	und	seine	Hintergründe	
-
 Bei dem Ereignis handelt es sich um eine Kollision eines Zuges mit einem Schienenfahrzeug im 
-
 Sinne der Richtlinie (EU) 2016/798. 
-
 Die BEU führt das Ereignis national unter der Ereignisart Zugkollision. 
-
 3.1.1  Lage	und	Beschreibung	des	Ereignisortes	
-
 Die  Kollision  der 
-
 letzten  zwei  Wagen  des  Zuges  GAG 68432  mit  der  abgestellten 
-
 Fahrzeuggruppe ereignete sich auf  der  Weiche 01W3, etwa in Streckenkilometer 12,12  des 
-
 Bf Flandersbach.  Bei  der  Strecke  von  Abzweigstelle (Abzw)  Tiefenbroich  nach  Flandersbach 
-
 handelte  es  sich  um  eine  eingleisige,  nicht  elektrifizierte  Nebenbahn,  die  auch  als 
-
 Angertalbahn  bezeichnet  wurde.  Die  Strecke  wurde  im  Verzeichnis  der  örtlich  zulässigen 
-
 Geschwindigkeiten (VzG)  unter  der  Streckennummer 2404  geführt.  Die 
-
 zulässige 
-
 Streckenhöchstgeschwindigkeit betrug 50 km/h bei einem Bremswegabstand vom 400 m. Die 
-
 Strecke  Abzw  Tiefenbroich  –  Flandersbach  war  durchgehend  mit  Punktförmiger 
 
 Zugbeeinflussung (PZB) ausgestattet. Für diese Strecke war eine Abdeckung mittels Zugfunk 
 
 Global System for Mobile Communications Rail (GSM-R) 
-
 nicht 
-
 sichergestellt. 
-
 Im 
-
 Bf Flandersbach  bestand  zur  Kommunikation  der  analoge  Zugfunk  mit  C-Kanal 45.  Als 
 
 Rückfallebene für die Strecke hatte der zuständige Fdl die Anweisung, sich vor Zulassung einer 
 
 Zugfahrt in und aus Richtung Flandersbach die jeweilige Mobilfunknummer des Tf einzuholen. 
-
 Der Arbeitsplatz des zuständigen Fdl Duisburg-Wedau befand sich in der Betriebszentrale (BZ) 
-
 in Duisburg. 
-
 Bedingt  durch  Höhenunterschiede  bestanden  auf  der  Strecke  teilweise  Steigungs-  und 
 
 Gefälleabschnitte  mit  bis  zu 12,3 ‰.  Im  Bereich  der  Ereignisstelle  bestand  ein  Gefälle 
 
 von 12,1 ‰. 
-
 Seite 7 von 38 
-
  
  
 Untersuchungsbericht 
-
 Zugkollision, 19.10.2021, Bf Flandersbach 
-
 Die nachfolgende Abbildung zeigt die geografische Lage des Unfallortes im Bf Flandersbach, 
-
 der innerhalb der Stadt Wülfrath liegt. Die sich anschließende Gleislageskizze verdeutlicht die 
-
 Entgleisungsstelle im Bf Flandersbach. 
-
 Abbildung 1: Lageplan1 
-
 Abbildung 2: Schematische Gleislageskizze 
-
 3.1.2  Beteiligte	
-
 Die am Ereignis Beteiligten hatten die folgenden Funktionen: 
-
 Für  das  Eisenbahninfrastrukturunternehmen  DB Netz AG  (zum  01.01.2024  umfirmiert  zur 
-
 DB InfraGO AG) 
-
 1 Geobasisdaten: © GeoBasis-DE / BKG 2022, bearbeitet durch BEU 
-
 Seite 8 von 38 
-
  
  
  
  
                                                        
 Untersuchungsbericht 
-
 Zugkollision, 19.10.2021, Bf Flandersbach 
-
   Abteilung Produktionsdurchführung Duisburg des Regionalbereichs West für die 
-
 Antragstellung und Erstellung der Betra, 
-
   Fdl Duisburg-Wedau, 
-
   Technisch Berechtigter, 
-
   Eiffage Infra-Rail GmbH als bauausführendes Unternehmen. 
-
 Für das Eisenbahnverkehrsunternehmen DB Cargo AG 
-
   Tf des GAG 68432. 
-
 Für das EVU BUG Vermietungsgesellschaft mbH 
-
   Tf des Eisenbahnkrans. 
-
 Fahrzeughalter der Fahrzeuggruppe 
-
   MGW Gleis- und Weichenbau GmbH & Co. KG. 
-
 3.1.3  Äußere	Bedingungen	
-
 Zum Zeitpunkt des Ereignisses herrschten folgende Bedingungen: 
-
 Lichtverhältnisse 
-
 Sicht 
-
 Bedeckung 
-
 Temperaturen  
-
 fallender Niederschlag 
-
 Niederschlagshäufigkeit 
-
 Tageslicht 
-
 leicht diesig 
-
 bewölkt 
-
 16°C 
-
 leichter Regen 
-
 vereinzelt 
-
 Untergrund / gefallener Niederschlag  
-
 feucht 
-
 Tabelle 2: Übersicht der äußeren Bedingungen 
-
 3.1.4  Todesopfer,	Verletzte	und	Sachschäden	
-
 Die  beiden  letzten  Wagen  des  Zuges  GAG 68432  entgleisten,  stürzten  teilweise  um  und 
-
 wurden hierdurch beschädigt. Es entstanden Sachschäden am gegenlastseitigen Schutzwagen 
-
 des Eisenbahnkrans. 
-
 Bei dem Ereignis traten folgend aufgeführte Personenschäden ein: 
-
 Seite 9 von 38 
-
  
  
  
  
 Untersuchungsbericht 
-
 Zugkollision, 19.10.2021, Bf Flandersbach 
-
 Anzahl Tote 
-
 Anzahl schwer Verletzte  Anzahl leicht Verletzte 
-
 Reisende 
-
 Mitarbeiter 
-
 Benutzer von 
 Bahnübergängen 
-
 Dritte 
-
 Summe 
-
 - 
-
 - 
-
 - 
-
 - 
-
 0 
-
 Tabelle 3: Übersicht der Personenschäden 
-
 - 
-
 - 
-
 - 
-
 - 
-
 0 
-
 - 
-
 - 
-
 - 
-
 - 
-
 0 
-
 Die geschätzte Höhe der Sachschäden in Euro setzt sich wie folgt zusammen: 
-
 Fahrzeuge 
-
 Infrastruktur 
-
 Dritte 
-
 geschätzte Kosten in Euro 
-
 80.000 
-
 - 
-
 - 
-
 Gesamtschadenshöhe 
-
 80.000 
-
 Tabelle 4: Übersicht der geschätzten Schadenshöhe 
-
 Abbildung 3: Blick auf die Kollisionsstelle 
-
 Seite 10 von 38 
-
  
  
  
@@ -1142,122 +749,73 @@ Seite 10 von 38 
  
  
 Untersuchungsbericht 
-
 Zugkollision, 19.10.2021, Bf Flandersbach 
-
 Abbildung 4: Entgleister Falns Wagen 
-
 3.2  Sachliche	Beschreibung	der	Vorkommnisse	
-
 Zur  Rekonstruktion  des  gefährlichen  Ereignisses 
-
 sowie 
-
 zur  Beschreibung  der 
-
 Notfallmaßnahmen werden insbesondere auch die in Kapitel 4 enthaltenen Aufzeichnungen, 
-
 Auswertungen und Feststellungen etc. herangezogen. 
-
 3.2.1  Hergangsbeschreibung	
-
 In der Zeit vom 14.10.2021 bis 19.10.2021 waren mit der Betra Nr. F 317237 21 Oberbau- und 
-
 Gleiserneuerungsarbeiten im Bf Flandersbach angemeldet. Zu diesem Zweck wurden Teile des 
-
 Bf Flandersbach zum Baugleis erklärt. Zur Ausführung der Arbeiten wurde am 16.10.2021 u. a. 
-
 ein Eisenbahnkran des Typs KRC 910 eingesetzt. Die Abstellung des Eisenbahnkrans erfolgte 
-
 als  Teil  einer  Fahrzeuggruppe  mit  zwei  Schutzwagen  nach  Abschluss  der  Kranarbeiten  in 
-
 Gleis 3. Dort sollten die Fahrzeuge planmäßig bis zum 21.10.2021 verbleiben. Dieses Vorgehen 
-
 stand  den  Regelungen  der  genannten  Betra  entgegen.  Nach  dem  Ende  der  Arbeiten  am 
-
 18.10.2021 wurden die zum Baugleis erklärten Gleisabschnitte des Bf Flandersbach durch den 
-
 Seite 11 von 38 
-
  
  
  
 Untersuchungsbericht 
-
 Zugkollision, 19.10.2021, Bf Flandersbach 
-
 Technisch Berechtigten an den zuständigen Fdl „Frei und Befahrbar“ gemeldet. Der Fdl hob 
-
 daraufhin alle zuvor vereinbarten Gleissperrungen auf. 
-
 Gegen 06:40 Uhr am 19.10.2021 erteilte der Fdl dem Zug GAG 68432 mittels Vorsichtsignal 
 
 Zs 7  am  Einfahrsignal (Esig)  01A  des  Bf  Flandersbach  die  Zustimmung  zur  Einfahrt  in  das 
 
 Gleis 2. Während der Einfahrt des Zuges GAG 68432 setzte sich die Fahrzeuggruppe in Gleis 3 
-
 in Bewegung und kollidierte in der Folge auf der Weiche 01W3 mit den letzten beiden Wagen 
-
 des Zuges GAG 68432. Der Tf des Zuges GAG 68432 informierte daraufhin den Fdl über das 
-
 Ereignis, der die weiteren Schritte gemäß Notfallmanagement des EIU einleitete. 
-
 3.2.2  Notfallmanagement	
-
 Nach  § 4 Abs. 3 AEG  haben  die  Eisenbahnen  die  Verpflichtung,  an  Maßnahmen  des 
-
 Brandschutzes  und  der  technischen  Hilfeleistung  mitzuwirken.  Die  Innenministerien  der 
-
 Länder  und  die  DB  AG  haben  sich  auf  folgende  Verfahrensweise  verständigt.  Für  die 
-
 DB Netz AG  gelten  die  entsprechenden  Brand-  und  Katastrophenschutzgesetze  der  Länder. 
-
 Das Notfallmanagement der DB AG ist in der Konzernrichtlinie 123, das der DB Netz AG in der 
-
 Richtlinie (Ril) 423 näher beschrieben und geregelt. 
-
 Vor Zulassung einer Zugfahrt auf der Strecke Abzw Tiefenbroich – Bf Flandersbach war gemäß 
-
 der  Regelung  im  Betriebsstellenbuch  für  den  Steuerbezirk  Oberhausen  festgelegt,  dass  die 
-
 jeweilige Mobilfunknummer des Tf durch den Fdl einzuholen ist. Dies wurde durch den Fdl 
-
 ausgeführt. Durch diese Regelung war es möglich, dass der Tf und der Fdl nach der Zugkollision 
 
 kommunizierten  und  weitere  Schritte  im  Notfallmanagement  durch  den  Fdl  eingeleitet 
 
 werden konnten. 
-
 Unregelmäßigkeiten oder Verzögerungen in Bezug auf das Einleiten von Rettungsmaßnahmen 
-
 wurden  der  BEU  im  Rahmen  der  Unfalluntersuchung  nicht  bekannt.  Maßnahmen  der 
-
 Fremdrettung kamen nicht in Betracht. 
-
 Seite 12 von 38 
-
  
  
  
  
 Untersuchungsbericht 
-
 Zugkollision, 19.10.2021, Bf Flandersbach 
-
 4  Auswertung	des	Ereignisses	
-
 In diesem Kapitel werden insbesondere die im Rahmen der Unfalluntersuchung ermittelten 
 
 maßgeblichen sicherheitskritischen Faktoren dargestellt. Hierbei wird im jeweiligen Einzelfall 
 
 auf die Aufgaben und Pflichten einzelner Personen und Stellen, auf beteiligte Fahrzeuge und 
-
 technische  Einrichtungen  genauso  eingegangen  wie  auf  konkrete  menschliche  Handlungen 
-
 sowie auf Feedback- und Kontrollmechanismen. Sofern Informationen zu früheren Ereignissen 
-
 vorliegen, werden diese in einem weiteren Unterkapitel dargestellt. 
-
 4.1  Aufgaben	und	Pflichten	
 
 In diesem Kapitel werden unbeschadet des Artikels 20 Abs. 4 der Richtlinie (EU) 2016/798 die 
@@ -1265,115 +823,75 @@ In diesem Kapitel werden unbeschadet des Artikels 20 Abs. 4 der Richt
 Aufgaben  und  Pflichten  von  Personen  und  Stellen  behandelt,  die  an  dem  Ereignis  beteiligt 
 
 waren. Untersuchungen zu Schuld- oder Haftungsfragen sind explizit ausgeschlossen und nicht 
-
 Untersuchungsgegenstand. 
-
 4.1.1  Untersuchung	der	betrieblichen	Abläufe	des	Infrastrukturbetreibers	
-
 Die  folgenden  Unterkapitel  geben  die  rekonstruierten  betrieblichen  Abläufe  der  für  das 
-
 Infrastrukturunternehmen am Ereignis beteiligten Personen wieder. Die Rekonstruktion der 
 
 betrieblichen  Handlungen  basierte  auf  der  Auswertung  der  Stellwerksdokumentation,  der 
 
 betrieblichen Unterlagen und den aufgezeichneten GSM-R-Gesprächen. 
-
 Das  gemäß  § 2 Abs. 1 AEG  verantwortliche  EIU  DB Netz AG  verfügte  über  eine 
-
 Sicherheitsgenehmigung  gemäß  § 7c AEG,  die  bis  zum  19.10.2021  gültig  war.  Das 
-
 Unternehmen beantragte am 12.04.2021 die Verlängerung der Sicherheitsgenehmigung, die 
-
 zwischenzeitlich bis zum 19.10.2026 erteilt wurde. 
 
 Gemäß  §  4  Abs.  3  AEG  sind  Eisenbahnen  verpflichtet,  ihren  Betrieb  sicher  zu  führen,  die 
 
 Eisenbahninfrastruktur  sicher  zu  bauen  und  in  betriebssicherem  Zustand  zu  halten.  Zudem 
-
 muss gemäß § 4 Abs. 4 AEG i. V. m. der Richtlinie (EU) 2016/798 ein SMS eingerichtet werden. 
-
 Die inhaltlichen Maßstäbe für die Aufstellung und Einhaltung waren die in der Verordnung 
-
 (EU) 2018/762 genannten Anforderungen. 
-
 Als 
-
 Teil  des 
-
 SMS  der  DB Netz AG  waren 
-
 auch 
-
 alle  Anforderungen  der 
-
 Durchführungsverordnung (EU) 2019/773  über  die 
-
 technische  Spezifikation 
-
 für  die 
-
 Interoperabilität  des  Teilsystems 
-
 „Verkehrsbetrieb  und  Verkehrssteuerung“  des 
-
 Eisenbahnsystems in der Europäischen Union (TSI OPE) umzusetzen. 
-
 Seite 13 von 38 
-
  
  
 Untersuchungsbericht 
-
 Zugkollision, 19.10.2021, Bf Flandersbach 
-
 Erstellung der Betra 
 
 Als  verantwortliches  EIU  war  die  DB Netz AG  für  die  Erstellung  der  Betra,  den  Einsatz  des 
 
 Technisch  Berechtigten,  die  Bauüberwachung  und  die  am  Ereignis  beteiligten  Fdl 
-
 verantwortlich.  Der  Betra-Antrag  wurde  am  19.08.2021  intern  erstellt  und  durchlief  den 
-
 elektronisch  vorgesehenen  Zeichnungsgang,  bevor  am  06.10.2021  mit  der  Erstellung  der 
-
 Betra Nr.  F 317237 21  für  „Oberbau-  und  Gleiserneuerungsarbeiten  im  Bf  Flandersbach“ 
-
 durch  den  zuständigen  Betra-Bearbeiter  begonnen  wurde.  Die  Betra  entsprach  in  ihrem 
 
 formalen Aufbau den  Vorgaben der Ril 406 und wurde durch die Produktionsdurchführung 
 
 Duisburg  des  Regionalbereichs  West  der  DB Netz AG  erstellt.  Die  Durchführung  der 
-
 Baumaßnahme wurde für die Zeit vom 14.10.2021, 22:00 Uhr bis zum 19.10.2021, 06:00 Uhr 
-
 vorgesehen. Die Untersuchungen der BEU bezüglich des Prozesses der Baustellenplanung und 
-
 der Antragstellung bis hin zur Erstellung der Betra ergaben, dass bei der Durchführung des 
 
 durch  das  EIU  festgelegten  Verfahrens  Belange  der  Baustellenlogistik  keine  ausreichende 
 
 Berücksichtigung fanden. Baubesprechungen zur Klärung betrieblicher Sachverhalte wurden 
-
 zwischen den Beteiligten im Vorfeld der Baumaßnahme nicht abgehalten. So wurde innerhalb 
-
 der Planung und damit in den gültigen Vorgaben der Betra unterlassen, den zur Durchführung 
-
 von Arbeiten im Baugleis erforderlichen Eisenbahnkran zu berücksichtigen und die Zuführung 
-
 sowie  die  Abstellung  im  Bf  Flandersbach  betrieblich  zu  regeln.  Unter  Betrachtung  dieser 
 
 Untersuchungsergebnisse  resultiert  die  Feststellung,  dass  die  mangelbehafteten  Abläufe 
 
 innerhalb  der  Baustellenplanung  und  Betra-Erstellung  als  ein  ursächlicher  Faktor  dieses 
-
 Ereignisses zu werten sind [F1]. 
-
 Angaben zur Infrastruktur gemäß Betra 
 
 In  Abschnitt  1  der  Betra  wurde  die  Lage  der  Baustelle  beschrieben  und  anhand  einer 
 
 Lageplanskizze  veranschaulicht.  Unter  Abschnitt  2.2  der  Betra  waren  die  Dauer  der 
-
 Gleissperrungen  inklusive  der  zu  sperrenden  Bereiche  im  Bf  Flandersbach  angegeben. 
 
 Vervollständigt wurde dieser Abschnitt der Betra mit dem Hinweis, dass die gesperrten Gleise 
@@ -1381,49 +899,30 @@ Vervollständigt wurde dieser Abschnitt der Betra mit dem Hinweis, dass
 zum  Baugleis  erklärt  wurden.  Mit  den  Regelungen  in  Abschnitt  5.3.3.3  der  Betra  war  das 
 
 Abstellen von Fahrzeugen im Baugleis explizit untersagt. In Abschnitt 5.3.3.2 der Betra war 
-
 festgelegt, dass 
-
 Seite 14 von 38 
-
  
  
 Untersuchungsbericht 
-
 Zugkollision, 19.10.2021, Bf Flandersbach 
-
 „benötigte Fahrzeuge schon vor Einrichtung des Baugleises nach Gleis 1 zu fahren sind“2. 
-
 Demnach  waren  während  des  Zeitraums  der  Baumaßnahme  keine  Fahrten  in  das  Baugleis 
-
 vorgesehen, was der während der Baumaßnahme tatsächlich vorgenommenen Zuführung des 
-
 Eisenbahnkrans widersprach. 
 
 Folgende  Bereiche  waren  durch  einen  in  der  Betra  benannten  Technisch  Berechtigten  von 
 
 22:00 Uhr am 14.10.2021 bis 06:00 Uhr am 19.10.2021 im Bf Flandersbach zu sperren und zum 
-
 Baugleis zu erklären: 
-
   Einfahrabschnitt von Abzw Tiefenbroich, Gleis 1, Gleisabschnitt in Richtung 
-
 Rohdenhaus von Esig 01A bis Lichtsperrsignal (Ls) 01L22Y 
-
 Gleisabschnitte 
-
   von Ls 01L51Y bis Gleisabschluss, 
-
   von Grenzzeichen Weiche 01W100 bis Grenzzeichen Weiche 01W101, 
-
   von Grenzzeichen Weiche 01W1 bis Grenzzeichen Weiche 01W2, 
-
   Verbindung von Weiche 01W2 bis Weiche 01W3, Gleis 2 von Gleisabschluss bis 
-
 Grenzzeichen Weiche 01W14, 
-
   Gleis 3 von Grenzzeichen Weiche 01W3 bis Grenzzeichen Weiche 01W13. 
-
 Der laut Betra gesperrte und zum Baugleis erklärte Bereich ist in der nachfolgenden Abbildung 
 
 rot dargestellt. Ergänzend wurde in Abschnitt 5.3.3.3 der Betra festgelegt, dass ein Abstellen 
@@ -1431,20 +930,14 @@ rot dargestellt. Ergänzend wurde in Abschnitt 5.3.3.3 der Betra festge
 von  Fahrzeugen  im  Baugleis  nicht  zugelassen  ist.  In  der  untenstehenden  Abbildung  ist  der 
 
 Bereich des Baugleises im Bf Flandersbach rot gekennzeichnet. 
-
 2 Abschnitt 5.3.3.2 der Betra F 317237 21 
-
 Seite 15 von 38 
-
  
  
                                                        
 Untersuchungsbericht 
-
 Zugkollision, 19.10.2021, Bf Flandersbach 
-
 Abbildung 5: Bereich des Abstellverbots und des Baugleises gemäß Betra3 
-
 Durch das EIU DB Netz AG wurden örtliche Regelungen u. a. für den Bf Flandersbach erstellt, 
 
 die  in  der  Unterlage  „Angaben  für  das  Streckenbuch“  dokumentiert  wurden.  Unter  der 
@@ -1452,31 +945,18 @@ die  in  der  Unterlage  „Angaben  für  das  Streckenbuch“  dokumen
 Überschrift „zu Modul 408.4811 Abschnitt 7 - Örtliche Besonderheiten beim Rangieren“ war 
 
 für  den  Bf Flandersbach  durch  das  EIU  festgelegt,  dass  in  den  Gleisen 2  bis 4  ab  dem 
-
 Markierungspfahl  in  km 12,339  bis  Esig 01A  keine  Wagen  abgestellt  werden  dürfen.  Das 
-
 Gefälle in Richtung Esig 01A betrug in diesem Bereich 12,1 ‰. Dieser Bereich wurde in der 
-
 obenstehenden  Abbildung  ebenfalls  gekennzeichnet.  Der 
-
 im  Streckenbuch  genannte 
-
 Markierungspfahl  konnte  bei  Untersuchungen  der  BEU  vor  Ort  im  Bf Flandersbach  nicht 
-
 aufgefunden werden. 
-
 Fdl Duisburg‐Wedau 
-
 Der Arbeitsplatz der zuständigen Fdl Duisburg-Wedau befand sich in der BZ in Duisburg. Die 
-
 Fahrt des GAG 68432 über die gewählte Zugstraße nach Gleis 2 in den Bf Flandersbach war 
-
 betrieblich  zulässig,  im  Betriebsstellenbuch  waren  dahingehend  keine  Einschränkungen 
-
 getroffen.  Von  der  auf  dem  Stellwerk  ausliegenden  Betra F 317237 21  hatten  die  Fdl 
-
 nachweislich Kenntnis genommen. 
-
 Am  14.10.2021  um  21:59 Uhr  wurde  der  in  der  obenstehenden  Abbildung 5  dargestellte 
 
 Bereich gemäß Ril 408.4851 Abschnitt 1 Absatz 1b) von einem in der Betra unter Abschnitt 4.2 
@@ -1484,39 +964,28 @@ Bereich gemäß Ril 408.4851 Abschnitt 1 Absatz 1b) von einem in der�
 namentlich  aufgeführten  Technisch  Berechtigten  in  einem  GSM-R  Gespräch  mit  dem  Fdl 
 
 gesperrt  und  anschließend  zum  Baugleis  erklärt.  Der  Fdl  vermerkte  die  Inhalte  der 
-
 3 Quelle: DB Netz AG, bearbeitet durch BEU 
-
 Seite 16 von 38 
-
  
  
  
                                                        
 Untersuchungsbericht 
-
 Zugkollision, 19.10.2021, Bf Flandersbach 
-
 durchgeführten  Gespräche  in  seinem  Fernsprechbuch.  Vom  14.10.2021  bis  18.10.2021 
-
 wurden in diesem Fernsprechbuch weitere mit der Baumaßnahme in Verbindung stehende 
 
 GSM-R Gespräche dokumentiert, wie z. B. Schichtwechsel der Technisch Berechtigten oder die 
 
 Aufstellung von Sh 2-Scheiben. 
-
 Am  15.10.2021  um  08:56 Uhr  ließ  der  Fdl  die  Zugfahrt  DGV 93389,  entgegen  der  o. g. 
 
 Regelungen des Abschnitts 5.3.3.2 der Betra, in den Streckenabschnitt Abzw Tiefenbroich – 
 
 Flandersbach  und  anschließend  als  Rangierfahrt 
-
 in  den  zum  Baugleis  erklärten 
-
 Bf Flandersbach  zu.  Mit  dieser  Fahrt  wurde  die  Fahrzeuggruppe  bestehend  aus  einem 
-
 Eisenbahnkran  und  zwei  Schutzwagen  der  Baustelle  zugeführt.  Die  Auswertung  der 
-
 Stellwerksdokumentation in Verbindung mit dem Fernsprechbuch durch die BEU ergab, dass, 
 
 in  Abstimmung  mit  dem  zuständigen  Fdl,  in  dem  gesamten  Zeitraum  der  Arbeiten  gemäß 
@@ -1524,71 +993,39 @@ in  Abstimmung  mit  dem  zuständigen  Fdl,  in  dem  gesamten  Zeitra
 Betra  immer  wieder  einzelne  Rangierfahrten  in  das  Baugleis  ein-  oder  ausfuhren.  Die  BEU 
 
 wertete dieses Handeln der Fdl Duisburg-Wedau entgegen der vorgegebenen Betriebsregeln 
-
 in Bezug auf die Ereigniskette als einen beitragenden Faktor [F4]. 
-
 Am  18.10.2021  erhielt  der  Fdl  der  Nachtschicht  um  22:35 Uhr  die  Meldung  des  Technisch 
-
 Berechtigten  über  das  vorzeitige  Ende  der  Arbeiten  gemäß  Betra  im  Bf Flandersbach.  Um 
-
 22:38 Uhr meldete sich der Technisch Berechtigte erneut, und gab die Meldung über „Freisein 
-
 und Befahrbarkeit“ für die Gleise 1 bis 3 des Bf Flandersbach ab. 
-
 Daraufhin 
-
 löschte  der  Fdl  die  eingegebenen  Merkhinweise  und  bediente  die 
-
 Achszählgrundstellung,  um  die  bei 
-
 ihm  noch  rot  ausgeleuchteten  Bahnhofsgleise 
-
 in 
-
 Grundstellung  zu  bringen.  Gemäß  den  Vorgaben  der  Ril 408.0471  Abschnitt 1  Absatz.   8) a) 
-
 Nr. 2 letzter Anstrich hob er die Gleissperrung der Gleise 1 bis 3 in der Folge auf, da der Anlass 
-
 weggefallen  war.  Die  mit  dem  zuständigen  Technisch  Berechtigten  vorgenommenen 
-
 Gespräche vermerkte er in seinem Fernsprechbuch. In Gleis 3 befand sich zu diesem Zeitpunkt 
-
 der Meldung immer noch die Fahrzeuggruppe des Eisenbahnkrans und zweier Schutzwagen. 
-
 Am Morgen des 19.10.2021 übergab der Fdl den Dienst an seinen ablösenden Fdl-Kollegen 
-
 der Frühschicht. Gegen 06:40 Uhr erteilte dieser dem Zug GAG 68432 mittels Vorsichtssignal 
-
 Zs 7 am Esig 01A des Bf Flandersbach die Zustimmung zur Einfahrt in das Gleis 2.   
-
 Der  Fdl  der  Spätschicht  gab  in  seiner  Stellungnahme  an,  dass  er  das  Gespräch  mit  dem 
-
 Technisch Berechtigten über GSM-R empfangen habe. Die Arbeiten gemäß Betra seien vom 
-
 Technisch Berechtigten in diesem Gespräch für beendet erklärt worden. Der Fdl habe in einem 
-
 Seite 17 von 38 
-
  
  
 Untersuchungsbericht 
-
 Zugkollision, 19.10.2021, Bf Flandersbach 
-
 weiteren GSM-R Gespräch vom Technisch Berechtigten die Meldung über die Aufhebung des 
-
 Baugleises im Bf Flandersbach und die Meldung „Frei und Befahrbar“ der Gleise 1 bis 3 des 
-
 Bf Flandersbach erhalten. 
-
 Der  ablösende  Fdl  der  Frühschicht  am  19.10.2021  wurde  ebenfalls  zum  Ereignishergang 
-
 befragt. Aufgrund einer bestehenden Signalstörung des Esig 01A habe er die Zustimmung zur 
-
 Einfahrt in das Gleis 2 mittels des Vorsichtsignals Zs 7 erteilt. Seine Aussage stand im Einklang 
-
 mit den übrigen Untersuchungsergebnissen. 
-
 Technisch Berechtigter 
 
 Der  Technisch  Berechtigte,  welcher  am  18.10.2021  das  Ende  der  Arbeiten  gemäß  Betra 
@@ -1600,13 +1037,9 @@ legitimiert,  sich  mit  dem  Fdl  zu  verständigen.  Zu  seinen  Aufg
 betrieblicher  Vereinbarungen  mit  dem  Fdl  und  die  zugehörige  Dokumentation  sowie  die 
 
 dokumentierte Abgabe der Befahrbarkeitsmeldung der Gleise bei Bauzuständen. 
-
 Er meldete sich am 18.10.2021 um 21:02 Uhr beim Fdl Duisburg-Wedau als übernehmender 
-
 Technisch Berechtigter für die Betra an. Die mit dem Fdl zu diesem Zweck geführten GSM-R 
-
 Gespräche dokumentierte er in seinem persönlichen Fernsprechbuch. 
-
 Von  22:35:42 Uhr  bis  22:39:20 Uhr  führte  er  mit  dem  Fdl  Duisburg-Wedau  ein  GSM-R 
 
 Gespräch,  in  dem  er  das  Ende  der  Arbeiten  gemäß  Betra  mitteilte  und  die  vereinbarten 
@@ -1616,9 +1049,7 @@ Gleissperrungen gemäß Ril 408.4851 Abschnitt 1 Absatz 5c) aufheben li
 Diese Meldung des Technisch Berechtigten umfasste die oben genannten Gleisabschnitte im 
 
 Bf Flandersbach. Gemäß den Vorgaben der Ril 408.0471 Abschnitt 1 Absatz 8 a) Nr. 2 letzter 
-
 Anstrich  umfasste  die  Meldung  auch  die  Aussage  über  „Freisein  und  Befahrbarkeit  des 
-
 Baugleises (einschließlich Regellichtraum)“. Mit der Meldung „Frei und Befahrbar“ und der 
 
 Aufhebung  des  Baugleises  am  18.10.2021  im  Gespräch  von  22:35:42 Uhr  bis  22:39:20 Uhr 
@@ -1630,21 +1061,16 @@ Verantwortungsbereich des zuständigen Fdl Duisburg-Wedau übergeben. 
 Der  Technisch  Berechtigte  gab  in  seiner  Stellungnahme  an,  dass  er  vor  der  Abgabe  der 
 
 Meldung „Frei und Befahrbar“ an den Fdl durch das Gleis 1 des Bf Flandersbach gelaufen sei. 
-
 Auf diese Weise habe er die Gleise 1 bis 3 und die Weichen 1 bis 3, 13, 14, 100 und 101 auf 
 
 das  Freisein  und  die  Befahrbarkeit  hin  überprüft.  Da  die  Gleise  im  Bf Flandersbach  stark 
 
 Seite 18 von 38 
-
  
  
 Untersuchungsbericht 
-
 Zugkollision, 19.10.2021, Bf Flandersbach 
-
 zugewachsen  gewesen  seien,  habe  er  das  Gleis 4  nicht  erkennen  können  und  habe  das 
-
 vermeintlich  äußerste  Gleis 3,  indem  die  Fahrzeuge  standen,  für  das  Gleis 4  gehalten. 
 
 Daraufhin  habe  er  das  Gleis 3  an  den  Fdl  „Frei  und  Befahrbar“  gemeldet.  Er  sei  davon 
@@ -1652,7 +1078,6 @@ Daraufhin  habe  er  das  Gleis 3  an  den  Fdl  „Frei  und  Befahr
 ausgegangen,  dass  die  Abstellung  der  Fahrzeuggruppe  in  diesem  von  ihm  identifizierten 
 
 Gleis 4 vom Tf mit dem Fdl abgestimmt worden sei. 
-
 Da das Gleis 3 zum Zeitpunkt der Meldungsabgabe noch von der Fahrzeuggruppe besetzt war, 
 
 war  es  nicht  zulässig,  dass  der  Technisch  Berechtigte  die  Feststellung  auf  „Freisein  und 
@@ -1666,25 +1091,17 @@ Fahrzeuge erhielt.  
 Unter  Betrachtung  dieser  Untersuchungsergebnisse  resultiert  die  Feststellung,  dass  das 
 
 Ergebnis der durchgeführten Prüfung auf „Freisein und Befahrbarkeit“ der Gleise 1-3 durch 
-
 den Technisch Berechtigten als ein beitragender Faktor [F8] durch die BEU gewertet wurde. 
-
 Die  sich  anschließende  nicht  regelkonforme  Abgabe  der  Meldung  über  „Freisein  und 
-
 Befahrbarkeit  des  Baugleises  (einschließlich  Regellichtraum)“  wurde 
-
 im  Rahmen  der 
 
 Ereignisrekonstruktion  durch  die  BEU  als  ein  ursächlicher  Faktor  dieses  Ereignisses 
 
 gewertet [F9]. 
-
 4.1.2  Untersuchung	der	betrieblichen	Abläufe	der	EVU	
-
 In  den  nachfolgenden  Abschnitten  werden  die  betrieblichen  Abläufe  der  am  Ereignis 
-
 beteiligten EVU dargestellt. Neben der Auswertung der EFR erfolgt jeweils eine Darstellung 
-
 der relevanten Regelungen zum Ereignishergang. 
 
 Gemäß  § 4 Abs. 3 AEG  ist  ein  EVU  verpflichtet,  den  Betrieb  sicher  zu  führen.  Insbesondere 
@@ -1694,65 +1111,40 @@ besteht eine Verpflichtung zur sicheren Durchführung von Zugfahrten. Zu
 systematisch  sicheren  Betriebsführung  gehört  u. a.  das  Aufstellen  und  Einhalten  eines  den 
 
 gesetzlichen  Anforderungen  genügenden  SMS  entsprechend  § 4 Abs. 4 AEG  i. V. m.  der 
-
 Richtlinie (EU) 2016/798.  Inhaltliche  Maßstäbe  für  ein  SMS  waren  die  Aufstellung  und 
-
 Einhaltung  der  in  der  Verordnung (EU) 2018/762  genannten  Anforderungen.  Zudem  waren 
-
 die  vom  EIU  zur  Benutzung  der  Infrastruktur  erstellten  Betriebsregeln  zu  beachten  und 
-
 umzusetzen. 
-
 Seite 19 von 38 
-
  
  
 Untersuchungsbericht 
-
 Zugkollision, 19.10.2021, Bf Flandersbach 
-
 4.1.2.1  Untersuchung	der	betrieblichen	Abläufe	des	EVU	DB	Cargo	AG	
-
 Die  DB Cargo AG  war  das  zum  Ereigniszeitpunkt  verantwortliche  EVU  für  die  Zugfahrt 
-
 GAG 68432  und  verfügte  über  eine  Sicherheitsbescheinigung  gemäß  § 7a AEG  mit  einer 
 
 Gültigkeit  bis  zum  13.12.2025.  Das  EVU  war  damit  zur  Teilnahme  am  Eisenbahnbetrieb 
 
 berechtigt. 
-
 Die  Betriebsdurchführung  des  EVU  DB Cargo AG  wurde  nach  den  Regeln  der 
 
 Fahrdienstvorschrift Ril 408 umgesetzt. Darüber hinaus galt für die innerbetrieblichen Abläufe 
 
 im Wesentlichen das Regelwerk DBCDE-003 „Regelbuch für Mitarbeiter im Bahnbetrieb“. 
-
 Der Zug GAG 68432 verkehrte am 19.10.2021 von Oberhausen West nach Flandersbach. Ziel 
-
 der Fahrt war das an den Bf Flandersbach angeschlossene Kalkwerk. Die Fahrplanunterlagen 
-
 und weitere betriebliche Unterlagen wie Bremszettel und Wagenliste lagen dem Tf vor. Alle 
-
 weiteren  Handlungen  des  Tf  ergaben  sich  im  Sachzusammenhang  mit  der  nachfolgenden 
-
 Auswertung der Elektronische Fahrtenregistrierung (EFR) und den betrieblichen Regelungen. 
-
 Auswertung der EFR 
-
 Zur Untersuchung der Abläufe des EVU DB Cargo AG wurden die registrierten Fahrdaten der 
-
 EFR des Triebfahrzeugs (Tfz) des GAG 68432 ausgewertet. Im Fahrzeug war ein Datenspeicher 
-
 der Bauart Deuta DSK 10 verbaut.  
-
 Das Fahrzeuggerät war eingeschaltet, der Führerstand 2 aktiv. Es waren die Tf-Nummer und 
-
 die  Zugnummer  eingegeben.  Das  Fahrzeug  verkehrte 
-
 in  der  unteren  Zugart.  Die 
-
 registrierten Uhrzeiten  wichen  von  der  Realzeit  um  wenige  Minuten  ab.  Zwischen  Abzw 
-
 Tiefenbroich  und  dem  Bf Flandersbach  wurde  die  vorgegebene  Höchstgeschwindigkeit  von 
 
 50 km/h nicht überschritten. Bei der Einfahrt in den Bf Flandersbach betätigte der Tf bei einer 
@@ -1762,373 +1154,211 @@ Geschwindigkeit von 28 km/h, Tendenz fallend, am Esig 01A die Taste �
 das  Erkennen  des  Signalbegriffs  Zs 7  am  Esig 01A  zurückzuführen.  Der  Stillstand  des  Zuges 
 
 nach  der  Kollision  wurde  um  06:39:50 Uhr  DSK-Zeit  registriert.  Der  Tf  führte  eine 
-
 Betriebsbremsung bis zum Stillstand des Zuges durch. Aus dem rekonstruierten Betriebsablauf 
-
 der  Fahrt  wurden  keine  Sachverhalte  festgestellt,  die  einen  ereignisrelevanten  Faktor 
-
 darstellen. 
-
 Seite 20 von 38 
-
  
  
 Untersuchungsbericht 
-
 Zugkollision, 19.10.2021, Bf Flandersbach 
-
 Abbildung 6: Grafische Auswertung der EFR-Daten von Zug GAG 68432 
-
 4.1.2.2  Untersuchung	
-
 der	
-
 betrieblichen	
-
 Abläufe	
-
 des	
-
 EVU	
-
 BUG	
-
 Vermietungsgesellschaft	mbH	
 
 Die  BUG  Vermietungsgesellschaft mbH  war  das  zum  Ereigniszeitpunkt  verantwortliche  EVU 
 
 für  die 
-
 Fahrzeugbewegungen  des 
-
 Eisenbahnkrans  und 
-
 verfügte  über 
-
 eine 
-
 Sicherheitsbescheinigung gemäß § 7a AEG mit einer Gültigkeit bis zum 19.05.2025. Das EVU 
-
 war damit zur Teilnahme am Eisenbahnbetrieb berechtigt. 
-
 Am 15.10.2021 um 08:56 Uhr wurde die Fahrzeuggruppe bestehend aus einem Eisenbahnkran 
-
 und  zwei  Schutzwagen  als  DGV 93389  dem  eingerichteten  Baugleis  im  Bf Flandersbach 
-
 zugeführt  und 
-
 in  Gleis 3  abgestellt.  Einen  Tag  später,  am  16.10.2021,  wurde  der 
-
 Eisenbahnkran um 07:00 Uhr aufgerüstet und war für die Dauer von 13,5 Stunden im Einsatz. 
-
 Im Baugleis wurden die Fahrzeugbewegungen unter vertraglicher Vereinbarung und Aufsicht 
-
 der  bauausführenden  Firma  Eiffage Infra-Rail GmbH  durch  den  Tf  des  EVU  BUG 
-
 Vermietungsgesellschaft mbH durchgeführt. Die erneute Abstellung erfolgte nach Abschluss 
-
 der Kranarbeiten am 16.10.2021 durch den Tf in Gleis 3, welches gemäß Betra Baugleis war. 
-
 Bis zum Ende der Arbeiten verblieb die Fahrzeuggruppe im zum Baugleis erklärten Bereich des 
-
 Bf Flandersbach.  Der  planmäßige  Abtransport  aus  dem  Bf Flandersbach  war  für  den 
-
 21.10.2021 geplant. 
-
 Der Tf gab in seiner Stellungnahme an, den Eisenbahnkran am 16.10.2021 nach Arbeitsschluss 
-
 mit  vier  Hemmschuhen  in  beide  Richtungen  gesichert  und  zusätzlich  eine  Handbremse  am 
-
 Seite 21 von 38 
-
  
  
  
 Untersuchungsbericht 
-
 Zugkollision, 19.10.2021, Bf Flandersbach 
-
 hinteren Schutzwagen angezogen zu haben. Auf Höhe der Kollisionsstelle der Weiche 01W3 
-
 wurden  zwei  Hemmschuhe  durch  die  BEU  aufgefunden,  die  dem  Ereignis  aufgrund  ihrer 
 
 Position  im  Gleisbereich  nicht  eindeutig  zugeordnet  werden  konnten,  siehe  nachfolgende 
 
 Abbildung. 
-
 Abbildung 7: Aufgefundene Hemmschuhe auf Höhe der Weichenzunge 01W3 
-
 Entsprechend des Vorgaben der Ril 915.0101 Abschnitt 9 waren abgestellte Fahrzeuge gegen 
-
 unbeabsichtigte Bewegung zu sichern. Ergänzend führt die Ril 408.2351 aus, dass der Tf für 
-
 das Festlegen von Fahrzeugen verantwortlich war, es sei denn, einem Rangierbegleiter wurde 
-
 die Verantwortung hierzu übertragen. Letzteres war nicht der Fall. 
-
 Über welchen Zeitraum die Fahrzeuggruppe vor der Zugkollision bereits in Gleis 3 abgestellt 
-
 war und ob sie nach der im Bautagebuch dokumentierten Abstellung am 16.10.2021 nochmals 
-
 bewegt  wurde,  konnte  durch  die  BEU  nach  Auswertung  aller  ereignisbezogenen, 
 
 dokumentierten  Informationen  von  den  am  Ereignis  beteiligten  Parteien  nicht  mehr 
 
 rekonstruiert werden. 
-
 Seite 22 von 38 
-
  
  
  
 Untersuchungsbericht 
-
 Zugkollision, 19.10.2021, Bf Flandersbach 
-
 Die  BEU  wertet  die  entgegen  den  Vorgaben  der  Betra  durchgeführte  Abstellung  des 
 
 Eisenbahnkrans in Gleis 3 des Bf Flandersbach in Hinblick auf die Ereigniskette der Zugkollision 
 
 am 19.10.2021 als einen beitragenden Faktor [F5]. 
-
 Das Sichern der Fahrzeuggruppe gegen unbeabsichtigte Bewegung wurde durch die BEU als 
-
 ein ursächlicher Faktor [F6] gewertet. Es konnte nicht zweifelsfrei rekonstruiert werden, ob 
-
 die  Fahrzeuggruppe  entsprechend  der  Angaben  des  Tf  mit  Festlegemitteln  gegen 
-
 unbeabsichtigte Bewegung gesichert wurde. 
-
 4.2  Fahrzeuge	und	technische	Einrichtungen	
-
 In  diesem  Kapitel  sind  die  Erkenntnisse  aus  der  Untersuchung  beteiligter  Fahrzeuge,  der 
-
 Eisenbahninfrastruktur und weiterer technischer Einrichtungen einschließlich damit eventuell 
-
 verbundener Tätigkeiten und Entscheidungen dargestellt. 
-
 4.2.1  Untersuchung	von	Fahrzeugen	
-
 Der  betroffene  Eisenbahnkran  KRC 910  war  ein  schweres  Nebenfahrzeug  mit  der 
-
 Fahrzeugnummer  D-MGWB 
-
 99 80 9419 025-8 
-
 des  Halters  MGW  Gleis- 
-
 und 
-
 Weichenbau GmbH & Co. KG. Das Einstellen in Züge war nur mit je einem Schutzwagen vor- 
-
 und hinter dem Fahrzeug zulässig. Zum Ereigniszeitpunkt war auslegerseitig der Schutzwagen 
 
 der  Gattung  Res  mit  der  Fahrzeugnummer  3356 3999 005-0  und  gegenlastseitig  der 
 
 Schutzwagen der Gattung Res mit der Fahrzeugnummer 3380 3998 047-3 eingestellt. 
-
 Aus der folgenden Tabelle lassen sich die technischen Fahrzeugdaten des Eisenbahnkrans Typ 
-
 KRC 910 entnehmen: 
-
 Antriebsart 
-
 Diesel 
-
 Bremsanlage primär 
-
 Druckluftbremse KE-GP 
-
 Bremsanalage sekundär 
-
 Scheibenbremse auf allen Rädern 
-
 Handbremse 
-
 Leistung 
-
 Gesamtlänge (LüP) 
-
 Masse 
-
 Zulässige Anhängelast 
-
 Höchstgeschwindigkeit 
-
 hydro-mechanisch alle Radsätze 
-
 ca. 200 kW 
-
 13.000 mm 
-
 104,00 t 
-
 160,00 t 
-
 100 km/h 
-
 Höchstgeschwindigkeit bei Eigenfahrt 
-
 19 km/h 
-
 Seite 23 von 38 
-
  
  
 Untersuchungsbericht 
-
 Zugkollision, 19.10.2021, Bf Flandersbach 
-
 Radsatz Anordnung 
-
 Drehzapfenabstand 
-
 [(1A)(1A)] [(A1)(A1)] 
-
 8.000 mm 
-
 Tabelle 5: Technische Daten Eisenbahnkran KRC 910 
-
 Aus der nachfolgenden Tabelle lassen sich die technischen Fahrzeugdaten der Schutzwagen 
-
 entnehmen: 
-
 Wagennummer 
-
 Halter 
-
 Gattungszeichen 
-
 Eigengewicht 
-
 Länge (LüP) 
-
 Drehzapfenabstand 
-
 Anzahl der Radsätze 
-
 Achsabstand 
-
 Lastgrenzen 
-
 3356 3999 005-0 
-
 3380 3998 047-3 
-
 Gleis- und Weichenbau GmbH & Co. 
-
 MGW 
 KG 
-
 Res 
-
 25.300 kg 
-
 19.900 mm 
-
 14.860 mm 
-
 4 
-
 6.000 mm 
-
 A 41,9 t, B 49,9 t, C 57,9 t 
-
 Max. zul. Fahrzeuggeschwindigkeit 
-
 120 km/h 
-
 Bremsbauart 
-
 KE-GP 
-
 Tabelle 6: Technische Daten Schutzwagen 
 
 Die  Ermittlungen  der  BEU  ergaben,  dass  die  Handbremsen  am  Eisenbahnkran  und  an  den 
 
 Schutzwagen  nicht  angezogen  waren.  Bei  der  Überprüfung  durch  die  BEU  waren 
-
 augenscheinlich keine Mängel an den Handbremsen erkennbar. 
-
 Die  an  den  Fahrzeugen  entstandenen  Schäden  waren  eine  Folge  der  Zugkollision.  Die  am 
-
 Ereignis  beteiligten  Fahrzeuge  wurden  hinsichtlich  rechtlicher  und  zustandsbezogener 
-
 Anforderungen  soweit  untersucht,  dass  das  Vorliegen  von  ereignisrelevanten  Faktoren  sie 
-
 betreffend ausgeschlossen werden konnte. 
-
 4.2.2  Untersuchung	von	Fahrzeugen	des	GAG	68432	
-
 Der Zug GAG 68432 verkehrte gemäß Fahrplan von Oberhausen West nach Flandersbach. Im 
-
 Fahrplan  war 
-
 als  Höchstgeschwindigkeit 
-
 80 km/h 
-
 in 
-
 Bremsstellung P 
-
 bei 
-
 50 Mindestbremshundertstel  (MBR)  vorgegeben.  Diese  erforderlichen  MBR  wurden  mit 
-
 99 vorhandenen Bremshundertsteln erreicht. Der Zug bestand aus einem Tfz der BR 1275 mit 
-
 Seite 24 von 38 
-
  
  
 Untersuchungsbericht 
-
 Zugkollision, 19.10.2021, Bf Flandersbach 
-
 der Fahrzeugnummer 9280 1275 112-1 und 32 leeren Schüttgutwagen der Gattungen Tadns 
-
 und Falns. Das Wagenzuggewicht betrug 714 t bei einer Wagenzuglänge von 457 m. 
-
 Bei der Zugkollision entgleisten der 31. Wagen mit der Fahrzeugnummer 3784 6634 110-4 und 
-
 der 32. Wagen mit der Fahrzeugnummer 3784 6634 197-1. 
-
 Aufgrund der Erkenntnisse zum Ereignishergang und der Sachverhaltsermittlung konnte auf 
-
 weiterführende  fahrzeugtechnische  Untersuchungen  der  entgleisten  Wagen  verzichtet 
-
 werden.  Ereignisrelevanten  Faktoren  konnten  aufgrund  der  Hergangsrekonstruktion 
-
 ausgeschlossen werden. 
-
 4.2.3  Untersuchung	der	bautechnischen	Infrastruktur	
-
 Bei der Begehung des Bf Flandersbach durch die BEU wurde festgestellt, dass die Gleise des 
-
 Bf Flandersbach stark verkrautet waren. Die untenstehende Abbildung zeigt die Perspektive 
-
 entgegen der Fahrtrichtung des GAG 68432 auf die Unfallstelle.  
-
 Abbildung 8:Perspektive entgegen der Fahrtrichtung des GAG 68432 auf die Unfallstelle 
-
 Seitens des EIU wurden die Protokolle über die in den Jahren 2019 und 2021 durchgeführten 
-
 Gleisbegehungen im Rahmen der Regelinspektion gemäß Ril 821.2003 vorgelegt. Für das Jahr 
-
 2019  wurden  bei  der  Gleisbegehung 
-
 im  August  keine  befundungswürdigen  Mängel 
 
 festgestellt. Im August 2021 wurde bei der Gleisbegehung in den Gleisen 2, 3 und 4 krautiger 
 
 Seite 25 von 38 
-
  
  
  
 Untersuchungsbericht 
-
 Zugkollision, 19.10.2021, Bf Flandersbach 
 
 Aufwuchs  festgestellt.  Im  Protokoll  wurde  vermerkt,  dass  eine  visuelle  Inspektion  des 
@@ -2138,116 +1368,72 @@ Oberbaus aufgrund von Vegetation zum Zeitpunkt der Begehung nicht mögl
 einen Freischnitt im Gleisbereich erforderlich machte. Dieser geplante Vegetationsrückschnitt 
 
 in den Gleisen 2 bis 4 erfolgte Ende Oktober 2021, kurz nach dem Ereignis. Hierbei handelte 
-
 es sich um geplante Vegetationsarbeiten infolge der oben genannten Gleisbegehung und nicht 
 
 um einen anlassbezogenen Vegetationsrückschnitt. Eine Inspektion der Gleisanlagen für das 
 
 Jahr 2021 wurde nicht nachgewiesen. 
-
 Aufgrund der Erkenntnisse zum Ereignishergang und der Sachverhaltsermittlung konnte auf 
-
 weiterführende,  oberbautechnische  Untersuchungen  der  Gleise  verzichtet  werden.  Die 
 
 Verkrautung der Gleisanlagen wirkte sich auf die Orientierung des Technisch Berechtigten aus 
 
 und  wurde  daher  durch  die  BEU  als  ein  beitragender  Faktor  mit  Bezug  auf  das  Ereignis 
-
 gewertet [F7]. 
-
 4.2.4  Untersuchung	der	Leit‐	und	Sicherungstechnik	
-
 Der  Bf Flandersbach  wurde  mit  elektronischer  Stellwerkstechnik  der  Bauart  EL S  des 
-
 Herstellers  Siemens  ferngestellt.  Das  elektronische  Stellwerk  (ESTW)  wurde  im  Dezember 
-
 2006  in  Betrieb  genommen.  Die  Unterzentrale  Duisburg-Wedau  befand  sich  im  Bahnhof 
-
 Duisburg-Hochfeld  Süd.  An  das  Zentralstellwerk  waren  die  ESTW-A  in  Lintorf  sowie  in 
-
 Flandersbach angeschlossen.  
-
 Alle Haupt-, Vor- und Sperrsignale waren Lichtsignale. Die Haupt- und Vorsignale waren als 
-
 Kombinationssignale ausgeführt. Innerhalb des ESTW kam auf der Strecke Abzw Tiefenbroich-
-
 Flandersbach ESTW-Zentralblock zum Einsatz. 
-
 Aufgrund eines Kabelschadens war das Stellen des Esig 01A zur Einfahrt des Zuges GAG 68432 
-
 in den Bf Flandersbach durch den Fdl nicht möglich. Der Zugfahrt wurde mit Signalbegriff Zs 7 
-
 die Vorbeifahrt am Esig 01A gestattet. Diese Signalstörung wurde am 20.09.2021 durch eine 
-
 Fachkraft  LST  in  den  Nachweis  der  vorübergehenden  Änderungen  eingetragen,  siehe 
-
 nachfolgende Abbildung. Der zum Ereigniszeitpunkt zuständige Fdl hatte von diesem Eintrag 
-
 gemäß DB-Ril 482.9001 Kenntnis genommen. 
-
 Seite 26 von 38 
-
  
  
 Untersuchungsbericht 
-
 Zugkollision, 19.10.2021, Bf Flandersbach 
-
 Abbildung 9: Auszug Nachweis der vorübergehenden Änderungen 
-
 Die Auswertung der aufgezeichneten Daten des elektronischen Dokumentationsspeichers des 
-
 ESTW ergab, dass der Fdl dem Zug GAG 68432 um 06:41 Uhr die Fahrstraße in das Gleis 2 des 
-
 Bf Flandersbach einstellte. Im Rahmen der Ereignisrekonstruktion wurden keine Sachverhalte 
-
 festgestellt, die einen ereignisrelevanten Faktor darstellten. 
-
 Seite 27 von 38 
-
  
  
  
  
  
 Untersuchungsbericht 
-
 Zugkollision, 19.10.2021, Bf Flandersbach 
-
 4.3  Menschliche	Faktoren	
-
 In diesem Kapitel werden Untersuchungserkenntnisse zu menschlichen Handlungen und/oder 
-
 Entscheidungen  am  gefährlichen  Ereignis  beteiligter  Personen  dargestellt.  Entsprechende 
-
 Erkenntnisse  können  sich  hierbei  insbesondere  im  Bereich  menschlicher  und  individueller 
-
 Merkmale sowie organisatorischer und Arbeitsplatzfaktoren ergeben. 
-
 4.3.1  Beteiligte	des	Infrastrukturbetreibers	
 
 Im  Folgenden  wird  auf  die  Qualifikation  und  die  Handlungen  der  am  Ereignis  für  das  EIU 
 
 tätigen handelnden Personen eingegangen. 
-
 Qualifikation und Handlungen Fdl 
-
 Beide  Fdl  waren  im  Besitz  der  für  ihren  Dienst  auf  dem  Stellwerk  Duisburg-Wedau 
-
 notwendigen Qualifikationen. Die medizinische Eignung konnte seitens des EIU nachgewiesen 
-
 werden. 
 
 Der  Fdl  hatte  über  die  Abstellung  der  Fahrzeuggruppe  durch  den  zuständigen  Technisch 
 
 Berechtigten keine Kenntnis erhalten. Er musste aufgrund der Meldung „Frei und Befahrbar“ 
-
 davon ausgehen, dass die Gleise 1 bis 3 des Bf Flandersbach nach Abschluss der Arbeiten frei 
-
 von Fahrzeugen und auch wieder befahrbar waren. Der Fdl hob in der Folge die vereinbarten 
-
 Gleissperrungen auf. 
-
 Qualifikation und Handlungen des Technisch Berechtigten 
 
 Bei der genannten Baumaßnahme war der Technisch Berechtigte zugleich in der Funktion des 
@@ -2255,87 +1441,51 @@ Bei der genannten Baumaßnahme war der Technisch Berechtigte zugleich i
 Fachbauüberwachers  Oberbau  (FBÜ Ob)  tätig.  Die  hierzu  notwendige  Funktionsausbildung 
 
 gemäß DB-Ril 046.2752 zum FBÜ Ob sowie seine medizinische Eignung wurden seitens des EIU 
-
 nachgewiesen.  Die  „Einweisung  des  FBÜ Ob  in  die  Örtlichkeit  und  die  bahnbetrieblichen 
-
 Gegebenheiten“ und die „örtliche Einweisung in betriebliche Besonderheiten im Rahmen von 
-
 Infrastrukturmaßnahmen“ wurden seitens des EIU schriftlich vorgelegt. Die Einweisung in die 
-
 Örtlichkeit  des  Bf  Flandersbach  wurde  anhand  der  Arbeitsanweisung  „LN26-04-02  Örtliche 
-
 Einweisung  in  betriebliche  Besonderheiten  im  Rahmen  von  Infrastrukturmaßnahmen“  im 
-
 Büro  der  zuständigen  Bezirksleiterin  in  den  Räumlichkeiten  der  DB Netz AG  in  Duisburg 
-
 durchgeführt. Im zugehörigen Dokument war die einzutragende Begründung nicht ausgefüllt 
-
 worden, dass die „Einweisung nicht vor Ort“ erfolgte. 
-
 Seite 28 von 38 
-
  
  
 Untersuchungsbericht 
-
 Zugkollision, 19.10.2021, Bf Flandersbach 
-
 Entsprechend  der  Dienstplangestaltung  und  nach  der  Auswertung  der  Angaben  aus  dem 
-
 Fernsprechbuch wurde der betroffene Technisch Berechtigte während der Dauer der Arbeiten 
-
 gemäß Betra ausschließlich in den Nachtschichten im Bf Flandersbach eingesetzt. 
-
 4.3.2  Beteiligte	der	EVU	
 
 Im  Folgenden  wird  auf  die  Qualifikation  und  Handlungen  der  für  die  EVU  am  Ereignis 
 
 beteiligten Personen eingegangen. 
-
 Seitens  des  EIU  bestanden  direkte  Vertragsbeziehungen  zur  Erbringung  der  geschuldeten 
-
 Bauleistung mit der Firma Eiffage Infra-Rail GmbH. Die DB Netz AG führte die Einweisung der 
-
 beauftragten  Personen  der  Firma  Eiffage  Infra-Rail  GmbH  durch.  Weitere,  die  Betra 
-
 betreffende,  Unterweisungen  wurden  gemäß  vertraglicher  Vereinbarung  in  der  Zeit  vom 
-
 14.10. bis 16.10.2021 durch die Eiffage Infra-Rail GmbH als bauausführendes Unternehmen 
-
 durchgeführt und nachgewiesen. Gemäß Erläuterungen der Beteiligten fielen darunter auch 
-
 die Personale u. a. der BUG Vermietungsgesellschaft mbH. 
-
 Qualifikation und Handlungen Tf des EVU BUG Vermietungsgesellschaft mbH 
-
 Der  verantwortliche  Tf  war 
-
 im  Besitz  eines  gültigen  EU-Triebfahrzeugführerscheins, 
-
 ausgestellt am 04.03.2015 durch die Triebfahrzeugführerscheinstelle des EBA. Für das Führen 
 
 von  Eisenbahnfahrzeugen  erhielt  er  von  der  BUG  Vermietungsgesellschaft mbH  mit  Datum 
 
 vom 06.08.2021 eine Zusatzbescheinigung mit Klassen A (Rangierfahrten) und B2 (Zugfahrten 
-
 im Güterverkehr), in der seine Befähigung zum Führen des Eisenbahnkranzugs Typ KRC 910 
-
 nachgewiesen wurde. Die zu Grunde liegenden Ausbildungs- und Prüfungsbescheinigungen 
-
 wurden vorgelegt. Die Überwachung bei der Dienstausübung am Arbeitsplatz wurde seitens 
-
 des EVU nachgewiesen. Es waren keine Beanstandungen vermerkt. Die Ruhezeiten wurden 
-
 eingehalten. 
-
 Die  gesundheitliche  Eignung  nach  § 5 Abs. 1 Nr. 3 TfV  wurde  durch  einen  aktuellen 
-
 Tauglichkeitsnachweis einer nach § 16 TfV anerkannten Stelle erbracht. Die Voraussetzungen 
-
 der TfV für den Einsatz des Tf auf dem Eisenbahnkranzug Typ KRC 910 waren erfüllt. Als Tf 
-
 oblag  ihm  die  Verantwortlichkeit  für  die  Abstellung  und  das  Sichern  der  Fahrzeuggruppe 
-
 gegen unbeabsichtigte Bewegung. Abgestellte Fahrzeuge in Gleisbereichen waren gemäß den 
 
 Vorgaben der Ril 408.2351 Abschnitt 2 i. V. m. den Regelungen der Ril 915.0101 Abschnitt 9 
@@ -2345,311 +1495,184 @@ gegen  unbeabsichtigte  Bewegung  zu  sichern.  Bei  der  Umsetzung  die
 örtliche Besonderheiten aus der Infrastruktur zu berücksichtigen. Diese wurden durch das EIU 
 
 Seite 29 von 38 
-
  
  
 Untersuchungsbericht 
-
 Zugkollision, 19.10.2021, Bf Flandersbach 
-
 in den Regelungen „Angaben für das Streckenbuch“ dem EVU zur Verfügung gestellt. Für den 
-
 Bf Flandersbach war übergeordnet zu dem  Abstellverbot aus der Betra zu Modul 408.4811 
-
 Abschnitt 7 „Örtliche Besonderheiten beim Rangieren“ die Abstellung von Fahrzeugen in den 
-
 Gleisen 2 bis 4 ab km 12,339 bis Esig 01A im Bf Flandersbach untersagt.  
-
 Für  den  Tf  wurden  die  Arbeitsschutz-  und  Baustellenersteinweisungen  sowie  eine 
-
 projektbezogene  Baustellenerstweinweisung  im  Rahmen  der  Baumaßnahme  durch  die 
 
 beauftragte Person der Firma Eiffage Infra-Rail GmbH durchgeführt und dokumentiert. Der Tf 
 
 hatte diese Einweisung am 16.10.2021 mittels Unterschrift quittiert.  
-
 Die BEU wertete die Baustelleneinweisung des Tf als einen ursächlichen Faktor mit Bezug auf 
 
 die  Ereigniskette,  da  die  Inhalte  der  Betra  F 3172372 1  dem  Tf  hierbei  laut  zugehörigem 
 
 Dokument zwar vermittelt wurden, ein Sicherstellen des ausreichenden Verständnisses für ein 
-
 sicheres Handeln während der Baumaßnahme jedoch nicht Gegenstand der Einweisung war, 
-
 sondern in der Zuständigkeit der BUG Vermietungsgesellschaft mbH verblieb [F3].  
-
 Qualifikation und Handlungen Tf des EVU DB Cargo AG 
-
 Der  verantwortliche  Tf  war 
-
 im  Besitz  eines  gültigen  EU-Triebfahrzeugführerscheins, 
-
 ausgestellt am 21.09.2018 durch die Triebfahrzeugführerscheinstelle des EBA. Für das Führen 
-
 von  Eisenbahnfahrzeugen  erhielt  er  von  der  DB Cargo AG  mit  Datum  vom  18.10.2018  eine 
-
 Zusatzbescheinigung mit Klassen A (Rangierfahrten) und B2 (Zugfahrten im Güterverkehr), in 
-
 der seine Befähigung zum Führen der eingesetzten Baureihe 1275 nachgewiesen wurde. Die 
-
 zu  Grunde  liegenden  Ausbildungs-  und  Prüfungsbescheinigungen  wurden  vorgelegt.  Der  Tf 
-
 verfügte  gemäß  der  vom  EVU  vorgelegten  Streckenkenntniskarte  auf  dem  betreffenden 
-
 Abschnitt über die erforderliche Streckenkunde. 
-
 Die  gesundheitliche  Eignung  nach  § 5 Abs. 1 Nr. 3 TfV  wurde  durch  einen  aktuellen 
-
 Tauglichkeitsnachweis einer nach § 16 TfV anerkannten Stelle nachgewiesen. 
-
 Die  Voraussetzungen  der  TfV  für  den  Einsatz  des  Tf  auf  dem  Zug  GAG 68432  waren  somit 
-
 erfüllt. Das Handeln des Tf stand in keinem weiteren Zusammenhang mit dem Ereignis. Durch 
-
 die Meldung des Tf an den Fdl wurde die Schritte im Notfallmanagement angestoßen.  
-
 4.4  Feedback‐	und	Kontrollmechanismen	
-
 In diesem Kapitel wird insbesondere auf Bedingungen, Feedback- und Kontrollmechanismen 
 
 im  Eisenbahnsystem  eingegangen,  denen  ein  aktiver  Einfluss  auf  die  Entstehung  ähnlicher 
 
 Seite 30 von 38 
-
  
  
 Untersuchungsbericht 
-
 Zugkollision, 19.10.2021, Bf Flandersbach 
-
 Ereignisse  zugeschrieben  werden  könnte.  Diese  Mechanismen  schließen  Faktoren  des 
-
 Risikomanagements und des SMS sowie Überwachungsverfahren mit ein. 
-
 4.4.1  	SMS	des	EIU	
-
 Gemäß  § 4 Abs. 3 AEG  sind  Eisenbahnen  verpflichtet,  ihren  Betrieb  sicher  zu  führen,  die 
-
 Eisenbahninfrastruktur sicher zu bauen und in betriebssicherem Zustand zu halten. Gemäß 
-
 § 2 Abs. 1 EBO  müssen  Bahnanlagen  so  beschaffen  sein,  dass  sie  den  Anforderungen  der 
-
 Sicherheit  und  Ordnung  genügen.  Diese  Anforderungen  gelten  als  erfüllt,  wenn  die 
 
 Bahnanlagen den Vorschriften der EBO und, soweit diese keine ausdrücklichen Vorschriften 
 
 enthält,  anerkannten  Regeln  der  Technik  entsprechen.  Die 
-
 inhaltlichen  und 
-
 sicherheitsrelevanten  Regelungen  der  bei  der  DB Netz AG  geltenden  Richtlinien  können 
-
 anerkannte Regeln der Technik darstellen. 
-
 Zur Ausführung der Bauleistung wurde seitens der DB Netz AG mit dem Unternehmen Eiffage 
-
 Infra-Rail GmbH ein Bauvertrag geschlossen. Die Einkaufsrichtlinien der DB Netz AG regelten 
-
 hierzu die Vorgaben, die ein solcher Auftragnehmer zur Erbringung der vertraglich fixierten 
-
 Bauleistung erbringen musste. Über eine sogenannte Präqualifizierung wurde seitens des EIU 
-
 sichergestellt,  dass  der  Auftragnehmer  über  die  erforderlichen  Kenntnisse 
-
 in 
-
 eisenbahntechnischen Belangen verfügte. Dem Auftragnehmer Eiffage Infra-Rail GmbH war es 
 
 in dem vorliegenden Fall durch gültige Regelungen des Bauvertrages gestattet, Leistungen an 
 
 weitere Nachunternehmer zu vergeben. 
-
 Kontrollen  darüber,  dass  diese  eingesetzten  Subunternehmer  den  Anforderungen  der 
-
 DB Netz AG entsprachen sowie die Freigabe zur Durchführung einer Baumaßnahme erfolgte 
-
 durch  die  Abteilung  Einkauf  der  DB Netz AG.  Des  Weiteren  sollen  gemäß  den 
-
 unternehmenseigenen  Vorgaben  des  EIU  durch  die  Bauüberwachung  der  DB Netz AG 
 
 Baustellen vor Ort nach Einhaltung und Umsetzung der Richtlinien des EIU stichprobenartig 
 
 kontrolliert  werden.  Die  Durchführung  dieses  Verfahrens  konnte  durch  das  EIU  für  die 
-
 Arbeiten  gemäß  Betra  Nr. F 317237 21  für  die  Oberbau-  und  Gleiserneuerungsarbeiten  im 
-
 Bf Flandersbach nicht nachgewiesen werden. 
-
 4.4.2  SMS	der	Eiffage	Infra‐Rail	GmbH	
-
 Die  Eiffage Infra-Rail  GmbH  war  als  bauausführendes  Unternehmen 
-
 im  Auftrag  der 
-
 DB Netz AG  und  nicht  eigenverantwortlich  als  EVU  am  Ereignis  beteiligt.  Seitens  der 
-
 Eiffage Infra-Rail GmbH, als Nachunternehmerin des EIU, wurde zur Erfüllung der vertraglich 
-
 Seite 31 von 38 
-
  
  
 Untersuchungsbericht 
-
 Zugkollision, 19.10.2021, Bf Flandersbach 
-
 vereinbarten Leistung das Fahrzeug des Eisenbahnkrans des Fahrzeughalters MGW Gleis- und 
-
 Weichenbau Gesellschaft GmbH angemietet und eingesetzt. Da der Fahrzeughalter selbst kein 
-
 EVU  war,  wurde  die  Durchführung  der  Kranarbeiten  vertraglich  von  der  Eiffage  Infra-
-
 Rail GmbH an das EVU BUG Vermietungsgesellschaft mbH übertragen. Der Einsatz dieser zwei 
-
 genannten  Nachunternehmer  wurde  dem  EIU  DB Netz AG  vor  dem  Einsatz  der  genannten 
 
 Unternehmen angezeigt. Die Eiffage Infra-Rail GmbH fertigte in ihrer Eigenschaft als EVU mit 
 
 erteilter  Sicherheitsbescheinigung  gemäß  der  Verpflichtung  aus  der  Delegierten 
-
 Verordnung (DVO) 2018/762,  Anhang I,  Kapitel 7.1  einen  Untersuchungsbericht  an,  der  die 
-
 Ergebnisse 
-
 der 
-
 unternehmenseigenen 
-
 Unfalluntersuchung 
-
 darlegte 
-
 sowie 
-
 Korrekturmaßnahmen gemäß DVO 2018/762, Anhang I, Kapitel 5.1.6 ableitete. 
-
 4.4.3  SMS	der	BUG	Vermietungsgesellschaft	mbH	
-
 Das EVU BUG Vermietungsgesellschaft mbH war für den Einsatz des Tf an der Baumaßnahme 
-
 verantwortlich. Die Unterweisung des Tf wurde durch die beauftragte Person der Eiffage-Infra 
-
 Rail  GmbH  durchgeführt.  Das  Feststellen  eines  hinreichenden  Verständnisses  oblag  jedoch 
 
 weiterhin der BUG Vermietungsgesellschaft mbH. Hierzu konnten keine weiteren Aktivitäten 
 
 ermittelt werden. Diesen Umstand wertete die BEU als systemischen Faktor hinsichtlich der 
-
 Sicherstellung,  dass  das  Abstellverbot  durch  den  Tf  im  Rahmen  seiner  Aufgaben  und 
-
 Befugnisse analog zu DVO 2018/762, Anhang I, Kapitel 4.2.1 f) beachtet wurde [S3].  
-
 Das EVU untersuchte das Ereignis mittels Prozess „AA-NFM Gefährliche Ereignisse melden und 
-
 untersuchen“ in Zusammenarbeit mit dem Eisenbahnbetriebsleiter, dem Sicherheitsmanager 
-
 und 
-
 verantwortlichen 
-
 Personen 
-
 des 
-
 Fahrzeughalters  MGW 
-
 Gleis- 
-
 und 
-
 Weichenbau GmbH & Co. KG.  Zu  diesem  gefährlichen  Ereignis  wurde  durch  das  EVU  ein 
-
 Untersuchungsbericht  erarbeitet  und  der  BEU  vorgelegt.  Das  EVU  kam  damit  der 
-
 Verpflichtung aus der DVO 2018/762, Anhang I, Kapitel 7.1 nach. 
-
 4.5  Frühere	Ereignisse	ähnlicher	Art	
-
 Entfällt. 
-
 Seite 32 von 38 
-
  
  
  
 	
 Untersuchungsbericht 
-
 Zugkollision, 19.10.2021, Bf Flandersbach 
-
 5  Schlussfolgerungen	
-
 Das  folgende  Kapitel  enthält  eine  Zusammenfassung  der  ermittelten  ursächlichen, 
-
 beitragenden  und  systemischen  Faktoren.  Zusätzlich  sind  zwei  weitere  Unterkapitel 
-
 vorgesehen,  um  Informationen  zu  bereits  ergriffenen  Maßnahmen  und  zu  zusätzlichen 
-
 Bemerkungen zu teilen. 
-
 5.1  Zusammenfassung	und	Schlussfolgerung	
-
 Die in diesem Untersuchungsbericht ermittelten Handlungen, Unterlassungen, Vorkommnisse 
-
 oder  Umstände  im  Vorfeld  der  Baumaßnahme  und  unmittelbar  um  den  Ereigniszeitpunkt 
-
 herum führten zur Zugkollision im Bf Flandersbach. 
-
 Es wurden vier ursächliche, vier beitragende und darunter ein zugleich systemischer Faktor 
-
 mit Einfluss auf das Ereignis durch die BEU ermittelt. 
-
 Zu ursächlichem Faktor „Prozess der Baustellenplanung und Erstellung der Betra“ [F1]: 
-
 Die  fachliche  Mitwirkung  der  technischen  Fachdienste  war  im  Betra-Antrag  vermerkt  und 
-
 blieb  seitens  aller  Beteiligter  ohne  Anmerkungen.  Die  sich  anschließende  Beurteilung  der 
-
 Inhalte  durch  den  Fachdienst  Betrieb  blieb  ebenfalls  ohne  Beanstandungen. 
-
 Vorabstimmungen  durch  z.  B.  gemeinsame  Baubesprechungen  wurden  im  Vorfeld  der 
-
 geplanten Maßnahme im Bf Flandersbach nicht durchgeführt. Demnach fiel den Beteiligten 
-
 innerhalb des Prozesses der Betra-Antragstellung nicht auf, dass ein Eisenbahnkran dem Bf 
-
 Flandersbach zur Durchführung von Arbeiten im Baugleis als Zugfahrt zugeführt werden sollte, 
-
 die Betra hingegen das Zulassen von Zugfahrten in das Baugleis untersagte. Die Unplausibilität 
-
 hinsichtlich der geplanten Zuführung des Eisenbahnkrans und zugehöriger Schutzwagen und 
-
 die  damit  verbundene  Notwendigkeit  der  Abstellung  dieser  Fahrzeuggruppe  innerhalb  des 
-
 Baugleises wurde bei der Planung und Erstellung der Betra nicht beachtet. Unter Betrachtung 
 
 dieser  Untersuchungsergebnisse  resultiert  die  Feststellung,  dass  die  Abläufe  innerhalb  der 
 
 Baustellenplanung  und  Betra-Erstellung  als  ein  ursächlicher  Faktor  dieses  Ereignisses  zu 
-
 werten sind. 
-
 Zu  beitragendem  Faktor  „Methode  der  Einweisung  des  Technisch  Berechtigten  in  die 
-
 Örtlichkeit“ [F2]: 
 
 Die  Einweisung  des  Technisch  Berechtigten  erfolgte  durch  das  EIU  nicht  vor  Ort  im  Bf 
 
 Flandersbach und ohne obligatorische Dokumentation einer Begründung. Bei der Örtlichkeit 
-
 Seite 33 von 38 
-
  
  
 Untersuchungsbericht 
-
 Zugkollision, 19.10.2021, Bf Flandersbach 
-
 handelte es sich um einen Bf mit vier Gleisen und somit übersichtlichen Verhältnissen. Aus 
 
 diesem Grunde wäre der Verzicht auf die örtliche Einweisung argumentativ zu rechtfertigen 
@@ -2661,29 +1684,19 @@ Gleisverwechslung. Daher wirkte sich das Fehlen der Vororteinweisung auf
 und  somit  wahrscheinlich  auf  den  Ereigniseintritt  aus.  Daher  wird  dieser  Umstand  als 
 
 beitragender Faktor angesehen. 
-
 Zu ursächlichem Faktor „Umsetzung der Kenntnis über das Abstellverbot durch den Tf“ [F3]: 
-
 Die Umsetzung der Kenntnis über das Abstellverbot des Tf des Eisenbahnkrans wurde als ein 
-
 ursächlicher  Faktor  mit  Bezug  auf  das  Ereignis  herausgestellt.  Der  Tf  wurde  durch  die 
 
 beauftragte  Person  der  Eiffage  Infra-Rail  GmbH  in  den  Belangen  des  Arbeitsschutzes  und 
 
 hinsichtlich der Regelungen der Betra unterwiesen. Die Verantwortlichkeit für die Umsetzung 
-
 der auf diesem Weg durch den Tf erworbenen Kenntnis über das Abstellverbot verblieb bei 
-
 der  BUG  Vermietungsgesellschaft  mbH.  Eine  in  Bezug  auf  die  Regelungen  der  Betra 
-
 regelkonforme  Arbeitsweise  hätte  dazu  führen  können,  dass  die  Fahrzeuggruppe  unter 
-
 Umständen nicht im Bf Flandersbach verblieben wäre. Diesem ursächlichen Faktor F3 wird ein 
-
 systemischer Faktor S3 zugeordnet. 
-
 Zu systemischem Faktor „Kenntnisüberprüfung des Tf bzgl. Aufgaben und Befugnissen“[S3]: 
-
 Die Inhalte der Betra F 3172372 1 wurden dem Tf bei der durch die Eiffage Infra-Rail GmbH 
 
 durchgeführten dokumentierten Unterweisung am 16.10.2021 vermittelt. Das ausreichende 
@@ -2695,49 +1708,32 @@ wurde durch das zuständige EVU BUG Vermietungsgesellschaft mbH nicht w
 Durch  eine  Überprüfung  dieser  Kenntnisse  hätte  sichergestellt  werden  können,  dass  das 
 
 Abstellverbot  hinreichend  bekannt  gewesen  und  im  Arbeitsablauf  auch  beachtet  worden 
-
 wäre. Im Rahmen der Aufarbeitung des Ereignisses durch die BUG Vermietungsgesellschaft 
 
 mbH  wurde  dieser  Umstand  erkannt  und  aufgegriffen,  um  für  zukünftige  Tätigkeiten  das 
 
 Vorliegen  ausreichender  Kenntnisse  aus  extern  durchgeführten  Unterweisungen 
-
 sicherzustellen. 
-
 Zu beitragendem Faktor „Zulassen einer Rangierfahrt in das Baugleis entgegen der Vorgaben 
-
 der Betra“ [F4]: 
-
 Die Fdl des Stellwerks Duisburg-Wedau hatten vor Beginn der Baumaßnahme von den Inhalten 
-
 der Betra Kenntnis genommen. Demnach war ihnen formal durch die Regelungen der Betra 
-
 Seite 34 von 38 
-
  
  
 Untersuchungsbericht 
-
 Zugkollision, 19.10.2021, Bf Flandersbach 
-
 bekannt, dass während der Durchführung der Baumaßnahme keine Rangierfahrten in den zum 
 
 Baugleis  erklärten  Bf  Flandersbach  eingelassen  werden  durften.  Trotzdem  ließ  der  am 
 
 15.10.2021  um  08:56 Uhr  zuständige  Fdl  den  Zug  DGV 93389  als  Rangierfahrt  in  den  zum 
-
 Baugleis  erklärten  Bf  Flandersbach  zu.  Die  Diskrepanz  zwischen  der  Betra  und  der 
-
 tatsächlichen Notwendigkeit der Zulassung von Zugfahrten hätte die Fdl veranlassen können, 
-
 die  vorgesetzte  Stelle  zu  verständigen  um  Unplausibilitäten  der  auf  dem  Stellwerk 
-
 ausliegenden  Betra  in  Bezug  auf  die  Abwicklung  der  Fahrten  in  Verbindung  mit  der 
-
 Baumaßnahme mitzuteilen. Daher wird dieser Umstand durch die BEU als ein beitragender 
-
 Faktor mit Auswirkung auf die Ereigniskette gewertet. 
-
 Zu beitragendem Faktor „Abstellung im Baugleis entgegen der Vorgaben der Betra“ [F5]: 
 
 Beitragend auf das Ereignis wirkte das unberechtigte Abstellen der Fahrzeuggruppe in Gleis 3 
@@ -2745,55 +1741,35 @@ Beitragend auf das Ereignis wirkte das unberechtigte Abstellen der Fahr
 des  Bf  Flandersbach.  Die  Fahrzeuge  waren  seit  20:30 Uhr  am  16.10.2021  in  Gleis 3  des  Bf 
 
 durch den Tf des EVU BUG Vermietungsgesellschaft mbH abgestellt worden. Diese Abstellung 
-
 geschah  auf  Anweisung  des  bauausführenden  Unternehmens  Eiffage  Infra-Rail  GmbH. 
-
 Vermutlich war es einer mangelnden Kommunikation der an der Baumaßnahme beteiligten 
-
 Personen geschuldet, dass die Abstellung der Fahrzeuggruppe während der Baumaßnahme 
 
 als  auch  nach  Aufhebung  des  Baugleises  am  18.10.2021  in  diesem  Gleis  geduldet  und 
 
 abschließend  auch  nicht  an  den  Fdl  gemeldet  wurde.  Zumindest  nahm  keiner  der 
-
 verantwortlichen  Personen  des  bauausführenden  Unternehmens 
-
 im  Rahmen  der 
-
 Baumaßnahme  Anstoß  an  diesem  Umstand.  Nicht  mehr  zu  rekonstruieren  waren  etwaige 
-
 weitere Fahrzeugbewegungen der Fahrzeuggruppe nach der Abstellung am 16.10.2021. 
-
 Zu  ursächlichem  Faktor 
-
 „Sichern  der  Fahrzeuggruppe  gegen  unbeabsichtigte 
-
 Bewegung“ [F6]: 
-
 Die  unzureichende  Sicherung  gegen  unbeabsichtigte  Bewegung  von  Fahrzeugen 
-
 in 
-
 Verbindung mit der Abstellung in Gleis 3 des Bf Flandersbach war ursächlich für das Ereignis. 
-
 Verantwortlich für die Abstellung und Sicherung der Fahrzeuggruppe am 16.10.2021 war der 
-
 Tf  des  EVU  BUG  Vermietungsgesellschaft  mbH.  Die  Aussage  des  Tf  bezüglich  der 
-
 durchgeführten  Sicherung  des  abgestellten  Fahrzeuggruppe  konnte  durch  die  BEU  nicht 
-
 plausibilisiert werden. Die Ermittlungen hinsichtlich möglicher Fahrzeugbewegungen nach der 
-
 Abstellung ergaben keinen Aufschluss, ob die Position der Fahrzeuggruppe, und somit auch 
 
 die  Festlegemittel,  nach  der  Abstellung  am  16.10.2021  durch  andere  an  der  Baustelle 
 
 Seite 35 von 38 
-
  
  
 Untersuchungsbericht 
-
 Zugkollision, 19.10.2021, Bf Flandersbach 
 
 beteiligte  Parteien  verändert  wurde.  Die  am  Ereignisort  vorgefundenen  Festlegemittel 
@@ -2803,13 +1779,11 @@ konnten  der  vom  Tf  angegebenen  Abstellung  am  16.10.2021  aufgrund
 Gleisbereich  nicht  zugeordnet  werden.  Ein  unerlaubtes  Entfernen  der  Festlegemittel, 
 
 beispielsweise im Rahmen von weiteren Rangierbewegungen des Eisenbahnkrans, nach dem 
-
 16.10.2021 durch andere an der Baumaßnahme beteiligte Personen hält die BEU für möglich. 
 
 Als hinreichend unwahrscheinlich wird die Möglichkeit eingeschätzt, dass unbefugte Dritte die 
 
 Festlegemittel entwendet haben. 
-
 Zu beitragendem Faktor „Verkrautung der Gleisanlagen“ [F7]: 
 
 Die starke Verkrautung in Teilen der Bahnhofsgleise können auf die Ortsorientierung und sich 
@@ -2817,9 +1791,7 @@ Die starke Verkrautung in Teilen der Bahnhofsgleise können auf die Or
 anschließende fehlerhafte Beurteilung des besetzten Gleises 3 hinsichtlich der Meldung „Frei 
 
 und Befahrbar“ durch den Technisch Berechtigten beitragend gewertet werden. 
-
 Zu  beitragendem  Faktor  „Feststellung  „Frei  und  Befahrbar“  durch  den  Technisch 
-
 Berechtigten“ [F8]: 
 
 Der Technisch Berechtigte offenbarte entgegen der Anforderungen an seine Tätigkeit bei der 
@@ -2829,39 +1801,25 @@ Feststellung,  ob  die  Gleise  im  Bf  Flandersbach  „Frei  und  Bef
 Handlungssicherheit.  Nach  eigener  Aussage  schritt  er  die  Gleise  in  der  Dunkelheit  durch 
 
 Gleis 1 ab, um zu prüfen, ob die Gleise 1 bis 3 frei und befahrbar seien. Es ist fragwürdig, ob 
-
 eine ausreichende Begutachtung der Gleise hinsichtlich der Befahrbarkeit auf diese Art und 
-
 Weise gelingen konnte. Unregelmäßigkeiten als Folge der Bauarbeiten, die eine Befahrbarkeit 
-
 einschränken  würden,  konnten  bei  dieser  Form  der  Feststellung  der  Befahrbarkeit 
-
 möglicherweise  nicht  erkannt  werden,  da  bereits  eine  Verwechslung  der  Gleise  durch 
-
 fehlende Übersicht eingetreten war.  
-
 Zu  ursächlichem  Faktor  „Abgabe  der  Meldung  „Frei  und  Befahrbar“  des  Technisch 
-
 Berechtigten an den zuständigen Fdl“ [F9]: 
-
 Der  zum  Baugleis  erklärte  Gleisbereich  stand 
-
 in  der  Verantwortung  des  Technisch 
-
 Berechtigten. Dieser war Antragsteller für notwendige Gleissperrungen beim zuständigen Fdl 
-
 und regelte und koordinierte die betrieblichen Abläufe im Baugleis. Vor dem Aufheben einer 
 
 Gleissperrung  oblag  ihm,  die  Befahrbarkeit  der  betroffenen  Gleisabschnitte  festzustellen 
 
 sowie das Freisein der Gleise zu überprüfen. 
-
 Seite 36 von 38 
-
  
  
 Untersuchungsbericht 
-
 Zugkollision, 19.10.2021, Bf Flandersbach 
 
 Mit seiner Funktion als Technisch Berechtigter war eine Sorgfaltspflicht für die betriebliche 
@@ -2869,115 +1827,63 @@ Mit seiner Funktion als Technisch Berechtigter war eine Sorgfaltspflicht
 Sicherheit  verbunden.  In  diesem  Fall  ging  er  dieser  Verpflichtung  nicht  in  dem  gebotenen 
 
 Maße nach, da das Gleis 3 zum Zeitpunkt seiner Meldung „Frei und Befahrbar“ noch durch die 
-
 abgestellte  Fahrzeuggruppe  besetzt  war.  Demnach  wurde  die  Abgabe  der  Meldung  auf 
-
 „Freisein und Befahrbarkeit“ durch die BEU als ein ursächlicher Faktor gewertet. 
-
 5.2  Seit	dem	Ereignis	getroffene	Maßnahmen	
-
 Die  DB Netz AG  hat  in  der  jüngsten  Vergangenheit  bereits  eine  Reihe  von  Maßnahmen 
-
 entwickelt und umgesetzt: 
-
   Die Kabelstörung am Esig 01A wurde im Dezember 2022 behoben. 
-
   Die Fahrdienstleiter haben eine Schulung durch einen ESTW Praxistrainer erhalten. 
-
 Zur Aufarbeitung des Ereignisses wurden mehrere Gespräche mit dem Technisch Berechtigten 
-
 der DB Netz AG geführt. In den Gesprächen wurde er wiederholt auf die Notwendigkeit des 
-
 regelwerkskonformen  Arbeitens  hingewiesen.  Am  12.01.2022  nahm  der  Technisch 
-
 Berechtigte erfolgreich an einer Schulung „Bahnbetrieb“ teil. 
-
 Da bei der Untersuchung des Ereignisses durch die DB Netz AG auch Unregelmäßigkeiten beim 
-
 Betra-Antrag  und  bei  der  Erstellung  der  Betra  festgestellt  wurden,  wurden  alle  an  der 
-
 Baumaßnahme Beteiligte zu folgenden Themen geschult und sensibilisiert: 
-
   Klärung von betrieblichen Sachverhalten im Vorfeld großer Maßnahmen durch 
-
 Baubesprechungen. 
-
   Prüfung von Betra-Anträgen auf Vollständigkeit und Richtigkeit der Angaben. 
-
   Klärung von Sachverhalten mit Antragstellern und Mitwirkenden. 
-
   Umgang mit ggf. erforderlichen Änderungen zum Betra-Antrag. 
-
   Zurückweisung von mangelhaften Betra-Anträgen und bei ungeklärten Sachverhalten. 
-
   Quervergleich zu weiteren betrieblichen Unterlagen im Rahmen der Betra-Erstellung. 
-
 Die Eiffage Infra-Rail GmbH leitete Maßnahmen aus dem Unfall ab und informierte u. a. in 
-
 einer internen Meldung „Aus Unfällen lernen“ die Mitarbeiter im November 2021 über die 
-
 Chronologie des Unfalls und das regelkonforme Handeln. 
-
 Das  EVU  BUG  Vermietungsgesellschaft  mbH  leitete  auf  Nachfrage  der  BEU  folgende 
-
 Maßnahmen aus dem Ereignis ab: 
-
 Seite 37 von 38 
-
  
  
 Untersuchungsbericht 
-
 Zugkollision, 19.10.2021, Bf Flandersbach 
-
 „Gemeinsam mit der MGW Gleis‐ und Weichenbau GmbH & Co. KG. wurde eine 
-
 Veränderung der Beauftragung des Angebots der Leistung und Klarstellung der Leistungen 
-
 mit folgenden Zielen vereinbart: 
-
   Die Klarstellung, dass die Einweisung in die Betra durch den Auftragnehmer vor Ort zu 
-
 erfolgen hat und die dafür benötigten Berechtigungen und Unterlagen über die BUG 
-
 Vermietungsgesellschaft mbH anzufordern sind. 
-
   Übergabe der benötigten Betren, spätestens drei Werktage vor Arbeitsbeginn. 
-
   Unterweisung des Projektleiters der MGW Gleis‐ und Weichenbau GmbH & Co. KG. 
-
  im Schwerpunkt Abstellen von Fahrzeugen im Rahmen von Betra‐Arbeiten, 
-
 Notwendigkeiten von Abstellverboten.“ 
-
 Zusätzlich  werden  die  Mitarbeiter 
-
 im  Bahnbetrieb  bei  dem 
-
 regelmäßigen 
-
 Fortbildungsunterricht für das Jahr 2025 über die Untersuchungsergebnisse aus dem Ereignis 
 
 im  Bf  Flandersbach  und  den  Schlussfolgerungen  unterrichtet.  Die  Wichtigkeit  der  örtlichen 
 
 Einweisung, der Dokumentation der örtlichen Einweisung, wie auch die Beachtung der Punkte 
-
 aus der Betra werden nach eigener Aussage des EVU Bestandteil der Unterrichtung sein. 
-
 5.3  Zusätzliche	Bemerkungen	
-
 Entfällt. 
-
 6  Sicherheitsempfehlungen	
-
 Durch  die  BEU  wurden  keine  Erkenntnisse  zu  zusätzlichen  Faktoren  mit  Bezug  zur 
-
 Sicherheitsorganisation erkennbar. 
-
 Es wurden daher im vorliegenden Fall keine Sicherheitsempfehlungen ausgesprochen. 
-
 Seite 38 von 38 
-
  
  
 

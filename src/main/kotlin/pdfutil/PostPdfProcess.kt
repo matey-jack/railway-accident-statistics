@@ -54,15 +54,22 @@ val unicodeLigatures = mapOf(
 fun joinOneLineParagraphs(content: String): String {
     val paras = content
         .replace("\r\n", "\n")
-        .split("\n\n")
+        .split(Regex("\n *\n"))
         .toMutableList()
     var i = 0
+    var merged = false
     while (i < paras.size - 1) {
-        if (paras[i].length < 100 && paras[i+1].length < 100) {
+        if (paras[i].isBlank()) {
+            paras.removeAt(i)
+            merged = false
+        } else if ((merged || paras[i].length < 100) && paras[i+1].length < 100) {
             paras[i] = paras[i] + "\n" + paras[i+1]
             paras.removeAt(i+1)
+            merged = true
+        } else {
+            merged = false
+            i++
         }
-        i++
     }
     return paras.joinToString("\n\n")
 }

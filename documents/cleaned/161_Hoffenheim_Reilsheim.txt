@@ -1,74 +1,31 @@
 Untersuchungsbericht  
-
 Aktenzeichen:  
-
 60uu2015-09/012-3323  
-
 Stand:  
-
 11.01.2021      Version:   1.0  
-
 Erstveröffentlichung:   18.01.2021  
-
 Gefährliches  Ereignis  im  Eisenbahnbetrieb 
-
 Ereignisart: 
-
 Datum: 
-
 Zeit: 
-
 Störung  
-
 durch betriebliche  
-
 Fehlhandlung 
-
 12.09.2015 
-
 13:25   – 
-
 13:33 
-
  Uhr 
-
 Benachbarte 
-
 Betriebsstellen:  
-
 Hoffenheim   
-
 - Reilsheim 
-
 Streckennummer: 
-
 4114 
-
  und 
-
 4110 
-
 Kilometer: 
-
  2,8   – 
-
 15,1 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -86,68 +43,37 @@ Kilometer:
  
  
 Untersuchungsbericht 
-
 Störung durch betriebliche Fehlhandlung, 12.09.2015, Hoffenheim - Reilsheim 
-
 Veröffentlicht  durch:  
-
 Bundesstelle  für  Eisenbahnunfalluntersuchung  
-
 Heinemannstraße  6  
-
 53175  Bonn  
-
- 
- 
- 
  
  
  
    
  
- 
 Untersuchungsbericht 
-
 Störung durch betriebliche Fehlhandlung, 12.09.2015, Hoffenheim - Reilsheim 
-
 Inhaltsverzeichnis  
-
 I.  
-
 II.  
-
 III.  
-
 IV.  
-
 1  
-
 1.1  
-
 1.2  
-
 2  
-
 2.1  
-
 2.2  
-
 2.3  
-
 2.4  
-
 3  
-
 3.1  
-
 3.2  
-
 3.3  
-
 3.4  
-
 4  
-
 4.1  
 
 Änderungsverzeichnis:  ........................................................................................  II  
@@ -187,7 +113,6 @@ Todesopfer,  Verletzte  und  Sachschäden ......................................
 Untersuchungsprotokoll  .....................................................................................  7  
 
 Zusammenfassung  von  Aussagen  und  Stellungnahmen .........................................  7  
-
 4.1.1  
 
 Stellungnahme  des  Tf  RB  38538 ..............................................................................  7  
@@ -197,9 +122,7 @@ Stellungnahme  des  Tf  RB  38538 ..............................................
 Stellungnahme  des  Fahrdienstleiters ......................................................................  7  
 
 4.2  
-
 4.3  
-
 4.4  
 
 Notfallmanagement  ................................................................................................  7  
@@ -209,25 +132,15 @@ Untersuchung  der  bautechnischen  Infrastruktur  ..............................
 Untersuchung  der  Leit- und  Sicherungstechnik ......................................................  8  
 
 I  
-
- 
- 
- 
  
  
  
    
  
- 
- 
 Untersuchungsbericht 
-
 Störung durch betriebliche Fehlhandlung, 12.09.2015, Hoffenheim - Reilsheim 
-
 4.5  
-
 4.6  
-
 Untersuchung  der  betrieblichen  Abläufe  des  Infrastrukturbetreibers ...................  8  
 
 Untersuchung  der  betrieblichen  Abläufe  des  EVU  ...............................................  10  
@@ -241,9 +154,7 @@ Auswertung  elektronische  Fahrtenregistrierung  (EFR) .........................
 Qualifikation  des  Tf  ...............................................................................................  12  
 
 4.6.3  
-
 Betriebliche  Regelungen  zur  Durchführung  der  Zugfahrt  38538 ..........................  13  
-
 4.7  
 
 Untersuchung  von  Fahrzeugen  .............................................................................  19  
@@ -261,13 +172,9 @@ Fahrzeugzulassung  –  Anforderungen  und  Grundlagen .........................
 Untersuchungen  des  Fahrzeugs  ............................................................................  22  
 
 5  
-
 5.1  
-
 5.2  
-
 6  
-
 7  
 
 Auswertung  .......................................................................................................26  
@@ -281,18 +188,10 @@ Bisher  getroffene  Maßnahmen  ................................................
 Sicherheitsempfehlungen  ..................................................................................30  
 
  I. 
-
 Änderungsverzeichnis: 
-
 Änderung 
-
 Stand 
-
 II 
-
- 
- 
- 
  
  
  
@@ -303,17 +202,8 @@ II
  
  
  
- 
- 
- 
- 
- 
- 
- 
 Untersuchungsbericht 
-
 Störung durch betriebliche Fehlhandlung, 12.09.2015, Hoffenheim - Reilsheim 
-
 II.   Abbildungsverzeichnis:  
 
 Abbildung  1:  Lageplan ................................................................................................................ 5  
@@ -341,7 +231,6 @@ Abbildung  11:  Auszug  EBO  §  23  Abs.  3....................................
 Abbildung  11:  Auszug  Diagnosedaten  mit  MAVIS  Störungsauswertung ................................. 23  
 
 III.  
-
 Tabellenverzeichnis:  
 
 Tabelle  1:  Übersicht  der  äußeren  Bedingungen  ........................................................................  6  
@@ -349,10 +238,6 @@ Tabelle  1:  Übersicht  der  äußeren  Bedingungen  ..........................
 Tabelle  2:  Technische  Daten  ET  425 .........................................................................................  19  
 
 III 
-
- 
- 
- 
  
  
  
@@ -360,151 +245,75 @@ III
  
  
  
- 
- 
- 
- 
 Untersuchungsbericht 
-
 Störung durch betriebliche Fehlhandlung, 12.09.2015, Hoffenheim - Reilsheim 
-
 IV. 
-
 Abkürzungsverzeichnis: 
-
  AEG 
-
 Allgemeines  
-
 Eisenbahngesetz 
-
 ArbzG 
-
 Arbeitszeitgesetz 
-
 BEU 
-
 Bundesstelle 
-
 für 
-
 Eisenbahnunfalluntersuchung 
-
 BEVVG 
-
 Bundeseisenbahnverkehrsverwaltungsgesetz 
-
  BZ 
-
  DSK 
-
 EBA 
-
 EBO 
-
 EFR 
-
  EIU 
-
  ET 
-
  EU 
-
 EUV 
-
 EVU 
-
  Fdl 
-
 GSM-R 
-
  Hp 
-
 LM 
-
  MFA 
-
  MTD 
-
  NBÜ 
-
  PZB 
-
  RB 
-
  Ril 
-
 Sifa 
-
 SMS 
-
 Betriebszentrale 
-
 Datenspeicherkassette 
-
 Eisenbahn-Bundesamt  
-
 Eisenbahn-Bau- und 
-
 Betriebsordnung 
-
 Elektronische Fahrtenregistrierung  
-
 Eisenbahninfrastrukturunternehmen 
-
 Elektrotriebwagen 
-
 Europäische 
-
 Union 
-
 Eisenbahn-Unfalluntersuchungsverordnung 
-
 Eisenbahnverkehrsunternehmen 
-
 Fahrdienstleiter   / 
-
 Fahrdienstleiterin 
-
 Global System  
-
 for 
-
 Mobile 
-
 Communications 
-
  Rail 
-
 Haltepunkt 
-
 Leuchtmelder 
-
 Modulares 
-
 Führerraumanzeigegerät 
-
 Maschinentechnisches  Display  
-
 Notbremsüberbrückung  
-
 Punktförmige 
-
 Zugbeeinflussung 
-
 Regionalbahn 
-
 Richtlinie 
-
 Sicherheitsfahrschaltung 
-
 Sicherheitsmanagement 
-
 IV 
-
- 
- 
- 
  
  
  
@@ -535,75 +344,26 @@ IV
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 Untersuchungsbericht 
-
 Störung durch betriebliche Fehlhandlung, 12.09.2015, Hoffenheim - Reilsheim 
-
 TEN 
-
  Tf 
-
  Tfz 
-
  VzG 
-
 ZAS  
-
 Transeuropäisches  
-
  Netz 
-
 Triebfahrzeugführer /  
-
 Triebfahrzeugführerin 
-
 Triebfahrzeug 
-
 Verzeichnis 
-
  der 
-
 örtlich 
-
 zulässigen 
-
 Geschwindigkeiten 
-
 Zentrale 
-
 Auswertestelle 
-
 V 
-
- 
- 
- 
  
  
  
@@ -615,26 +375,14 @@ V
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
 Untersuchungsbericht 
-
 Störung durch betriebliche Fehlhandlung, 12.09.2015, Hoffenheim - Reilsheim 
-
 1   Vorbemerkungen  
 
 Das  Kapitel  Vorbemerkungen  befasst  sich  mit  allgemeinen  Informationen  zur  Bundesstelle  für  
 
 Eisenbahnunfalluntersuchung  (BEU).  Dabei  wird  die  gesetzliche  Grundlage  genannt  und  die  
-
 Aufbauorganisation  kurz  umrissen.  
-
 1.1   Organisatorischer  Hinweis  
 
 Mit  der  Richtlinie  (EU)  2016/798  des  Europäischen  Parlaments  und  des  Rates  zur  Eisenbahn-
@@ -642,7 +390,6 @@ Mit  der  Richtlinie  (EU)  2016/798  des  Europäischen  Parlaments  und  des  
 sicherheit   in   der   Gemeinschaft   (Eisenbahnsicherheitsrichtlinie)   wurden   die   Mitgliedstaaten  
 
 der  Europäischen  Union  (EU)  verpflichtet,  unabhängige  Untersuchungsstellen  für  die  Unter-
-
 suchung  bestimmter  gefährlicher  Ereignisse  einzurichten.  
 
 Diese   Richtlinie   wurde   mit   dem   Gesetz   zur   Neuordnung   der   Eisenbahnunfalluntersuchung  
@@ -652,9 +399,7 @@ vom  27.  Juni  2017  und  der   Eisenbahn-Unfalluntersuchungsverordnung  vom  0
 durch  Artikel  1  der  Verordnung  vom  26.11.2019  geändert  worden  ist,  umgesetzt.  Die  BEU  ist  
 
 eine  Bundesoberbehörde  im  Geschäftsbereich  des  Bundesministeriums  für  Verkehr  und  digi-
-
 tale  Infrastruktur.  
-
 Gemäß  §  6  Abs.  2  des  Bundeseisenbahnverkehrsverwaltungsgesetzes  (BEVVG)  wurde  der  Sitz  
 
 und  Aufbau  der  BEU  im  „Organisationserlass  zur  Errichtung  der  Bundesstelle  für  Eisenbahnun-
@@ -662,9 +407,7 @@ und  Aufbau  der  BEU  im  „Organisationserlass  zur  Errichtung  der  Bundess
 falluntersuchung“  des  Bundesministeriums   für   Verkehr  und  digitale   Infrastruktur  festgelegt  
 
 und  die  BEU  zum  14.07.2017  errichtet.  
-
 Näheres  hierzu  ist  im  Internet  unter  www.beu.bund.de  eingestellt.  
-
 1.2   Ziel  der  Eisenbahnunfalluntersuchung  
 
 Ziel  und  Zweck  der  Untersuchungen  ist  es,  die  Ursachen  von  gefährlichen  Ereignissen  aufzu-
@@ -676,18 +419,12 @@ BEU  dienen  nicht  dazu,  ein  Verschulden  festzustellen  oder  Fragen  der  H
 zivilrechtlicher  Ansprüche  zu  klären  und  werden  unabhängig  von  jeder  gerichtlichen  Untersu-
 
 chung  durchgeführt.  
-
 Die  Untersuchung  umfasst  die  Sammlung  und  Auswertung  von  Informationen,  die  Erarbeitung  
 
 von  Schlussfolgerungen  einschließlich  der  Feststellung  der  Ursachen  und  gegebenenfalls  die  
 
 Abgabe  von  Sicherheitsempfehlungen.  Die  Vorschläge  der  Untersuchungsstelle  zur  Vermei-
-
 Seite 1 von 30 
-
- 
- 
- 
  
  
  
@@ -695,25 +432,14 @@ Seite 1 von 30
  
  
  
- 
- 
- 
- 
 Untersuchungsbericht 
-
 Störung durch betriebliche Fehlhandlung, 12.09.2015, Hoffenheim - Reilsheim 
-
 dung  von  Unfällen  und  Verbesserung  der  Sicherheit  im  Eisenbahnverkehr  werden  der  Sicher-
 
 heitsbehörde  und,  soweit  erforderlich,  anderen  Stellen  und  Behörden  oder  anderen  Mitglied-
 
 staaten  der  EU  in  Form  von  Sicherheitsempfehlungen  mitgeteilt.  
-
 Seite 2 von 30 
-
- 
- 
- 
  
  
  
@@ -722,23 +448,14 @@ Seite 2 von 30
  
  
  
- 
- 
- 
- 
- 
 Untersuchungsbericht 
-
 Störung durch betriebliche Fehlhandlung, 12.09.2015, Hoffenheim - Reilsheim 
-
 2   Zusammenfassung  
 
 Das  Kapitel  befasst  sich  mit  einer  kurzen  Darstellung  des  Ereignisherganges,  den  Folgen  und  
 
 den  Primärursachen.  Abschließend  werden  eventuell  erteilte  Sicherheitsempfehlungen   auf-
-
 geführt.  
-
 2.1   Kurzbeschreibung  des  Ereignisses  
 
 Am  12.09.2015  zwischen  13:26  Uhr  und  13:33  Uhr  durchfuhr  die  Regionalbahn  (RB)  38538  auf  
@@ -758,18 +475,10 @@ fahrten  wurden  nicht  gefährdet.  Die  vorgeschriebenen  Verkehrshalte  wurde
 sende  konnten  an  den  durchfahrenen  Verkehrshaltestationen  weder  ein- noch  aussteigen.  
 
 2.3   Ursachen  
-
 Der  Triebfahrzeugführer  (Tf)  war  partiell  dienstunfähig.   
-
 2.4   Sicherheitsempfehlungen  
-
 Es  wurden  keine  Sicherheitsempfehlungen  ausgesprochen.  
-
 Seite 3 von 30 
-
- 
- 
- 
  
  
  
@@ -778,15 +487,8 @@ Seite 3 von 30
  
  
  
- 
- 
- 
- 
- 
 Untersuchungsbericht 
-
 Störung durch betriebliche Fehlhandlung, 12.09.2015, Hoffenheim - Reilsheim 
-
 3   Allgemeine  Angaben  
 
 Das  Kapitel  beinhaltet  allgemeine  Angaben  zur  Beschreibung  des  Ereignisortes  und  der  rele-
@@ -796,7 +498,6 @@ vanten   Bahnanlagen.   Des   Weiteren   werden   die   an   der   Unfalluntersu
 mitwirkenden  Stellen,  die  äußeren  Bedingungen,  die  Anzahl  der  bei  dem  Ereignis  verletzten  
 
 und  getöteten  Personen  sowie  Art  und  Höhe  der  Folgeschäden  benannt.  
-
 3.1   Lage  und  Beschreibung  des  Ereignisortes  
 
 Der  Abgangsbahnhof  der  RB  38538  Sinsheim  lag  in  km  10,0  der  eingleisigen  elektrifizierten  
@@ -826,18 +527,12 @@ bers  bezüglich  des  Einsatzes  von  Notbremsüberbrückung  (NBÜ)  für  den
 Die   Ereignisstelle   bzw.   die   ohne   Halt  durchfahrenen   Betriebsstellen   Zuzenhausen,  Meckes-
 
 heim  und  Mauer  lagen  zwischen  dem  Bahnhof  Hoffenheim  in  km  6,1  der  Strecke  4114  und  
-
 dem  Haltepunkt  (Hp)  Reilsheim  in  km  15,1  der  Strecke  4110.   
 
 Die  nachfolgende  Abbildung  gibt  einen  Überblick  über  geografische  Lage  der  Fahrstrecke  so-
 
 wie  der  betroffenen  Betriebsstellen.   
-
 Seite 4 von 30 
-
- 
- 
- 
  
  
  
@@ -845,31 +540,17 @@ Seite 4 von 30
  
  
  
- 
- 
- 
- 
 Untersuchungsbericht 
-
 Störung durch betriebliche Fehlhandlung, 12.09.2015, Hoffenheim - Reilsheim 
-
 Abbildung 1: Lageplan1 
-
 3.2   Beteiligte  und  Mitwirkende  
-
 Die  Zugfahrt  RB  38538  wurde  durch  das  Eisenbahnverkehrsunternehmen  (EVU)  DB  Regio  AG  
 
 durchgeführt,  die  zum  Ereigniszeitpunkt  über  eine  Sicherheitsbescheinigung  gemäß  §  7a  All-
 
 gemeines  Eisenbahngesetz  (AEG)  des  Eisenbahn-Bundesamtes  (EBA)  verfügte.  
-
 1  Quelle:  Geobasisdaten:  ©  GeoBasis-DE  /  BKG  [2019],  bearbeitet  durch  BEU  
-
 Seite 5 von 30 
-
- 
- 
- 
  
  
  
@@ -880,122 +561,61 @@ Seite 5 von 30
  
  
  
- 
- 
- 
- 
- 
- 
-                                                      
 Untersuchungsbericht 
-
 Störung durch betriebliche Fehlhandlung, 12.09.2015, Hoffenheim - Reilsheim 
 
 Im   Rahmen   der   Sachverhaltsermittlung  und   Ursachenerforschung   wurden   neben  dem  o.  g.  
 
 beteiligten  EVU  folgende  weitere  Stellen  einbezogen:  
-
    DB  Netz  AG,  Eisenbahninfrastrukturunternehmen  (EIU)  
-
    Deutsche  Bahn  AG,  Zentrale  Auswertstelle  (ZAS)  Nürnberg  
-
 3.3   Äußere  Bedingungen   
-
 Zum  Zeitpunkt  des  Ereignisses  herrschten  folgende  Bedingungen:  
-
 Lichtverhältnisse 
-
 Sicht 
-
 Bedeckung 
-
 Temperaturen  
-
 fallender 
-
 Niederschlag 
-
 Niederschlagshäufigkeit 
-
 Tageslicht 
-
 klar 
-
 leicht  
-
 bewölkt 
-
 20°C 
-
  Nein 
-
  --
-
 Untergrund   / gefallener  Niederschlag   
-
 trocken 
-
 Tabelle 
-
  1: 
-
 Übersicht 
-
  der 
-
 äußeren Bedingungen  
-
 Feststellung 
-
  zu 
-
  den äußeren  
-
 Bedingungen 
-
 Lfd.  
-
  Nr.   1 
-
  Die 
-
 äußeren 
-
 Bedingungen, 
-
  wie 
-
  z. 
-
  B. 
-
  das 
-
 Wetter, 
-
 standen 
-
 in 
-
 keinem 
-
 erkennbaren Zusammen-
-
 hang  
-
  mit 
-
  der Ereignisursache.  
-
 3.4   Todesopfer,  Verletzte  und  Sachschäden  
-
 Bei  dem  Ereignis  traten  keine  Personen- und  Sachschäden  ein.   
-
 Seite 6 von 30 
-
- 
- 
- 
  
  
  
@@ -1018,28 +638,8 @@ Seite 6 von 30
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 Untersuchungsbericht 
-
 Störung durch betriebliche Fehlhandlung, 12.09.2015, Hoffenheim - Reilsheim 
-
 4   Untersuchungsprotokoll  
 
 In  diesem  Kapitel  werden  die  ermittelten  Ergebnisse  zu  einzelnen  in  Zusammenhang  mit  dem  
@@ -1049,7 +649,6 @@ Ereignis  stehenden  Teilbereichen  des  Eisenbahnwesens  dargestellt.  Daneben 
 entsprechenden  Schnittstellen  sowie  das  Sicherheitsmanagement  (SMS)  im  betroffenen  Be-
 
 reich  betrachtet.  Die  jeweilig  relevanten  Erkenntnisse  werden  fortlaufend  aufgeführt.  
-
 4.1   Zusammenfassung  von  Aussagen  und  Stellungnahmen  
 
 In  den  folgenden  Abschnitten  werden  die  wichtigsten  Aussagen  und  Stellungnahmen  einiger  
@@ -1057,11 +656,8 @@ In  den  folgenden  Abschnitten  werden  die  wichtigsten  Aussagen  und  Stellu
 Beteiligter   zusammengefasst   dargestellt.  Diese  wurden  dem   jeweiligen   Arbeitgeber   gegen-
 
 über  abgelegt.  
-
 4.1.1   Stellungnahme  des  Tf  RB  38538  
-
 Der  Tf  der  RB  38538  gab  gegenüber  der  BEU  keine  Stellungnahme  ab.   
-
 4.1.2   Stellungnahme  des  Fahrdienstleiters  (Fdl)  
 
 Der  örtlich  zuständige  Fdl  konnte  keine  Angaben  zum  Ereignis  machen,  da  aus  fahrdienstlicher  
@@ -1069,9 +665,7 @@ Der  örtlich  zuständige  Fdl  konnte  keine  Angaben  zum  Ereignis  machen, 
 Sicht   der   Zug   unter   ordnungsgemäßer   Signal-und   Blockbedienung   den   Streckenabschnitt  
 
 durchfahren  hat.  
-
 4.2   Notfallmanagement  
-
 Nach  §  4   Abs.  3  AEG  haben  die  Eisenbahnen  die  Verpflichtung,  an  Maßnahmen  des  Brand-
 
 schutzes  und  der  technischen  Hilfeleistung  mitzuwirken.  In  einer  Vereinbarung  zwischen  den  
@@ -1089,12 +683,7 @@ Der  Infrastrukturbetreiber  DB  Netz  AG  erlangte  erst  im  Nachgang  zum  Er
 der  Unregelmäßigkeit  bei  der  Zugfahrt  RB  38538.  Folglich  wurde  seitens  der  Notfallleitstelle  
 
 Karlsruhe  der  örtlich  zuständige  Notfallmanager  der  DB  Netz  AG  nicht  alarmiert.  
-
 Seite 7 von 30 
-
- 
- 
- 
  
  
  
@@ -1103,15 +692,8 @@ Seite 7 von 30
  
  
  
- 
- 
- 
- 
- 
 Untersuchungsbericht 
-
 Störung durch betriebliche Fehlhandlung, 12.09.2015, Hoffenheim - Reilsheim 
-
 4.3   Untersuchung  der  bautechnischen  Infrastruktur  
 
 Aufgrund  der  Erkenntnisse  zum  Ereignishergang  und  der  Sachverhaltsermittlung  konnte  auf  
@@ -1119,37 +701,21 @@ Aufgrund  der  Erkenntnisse  zum  Ereignishergang  und  der  Sachverhaltsermittl
 weiterführende   oberbautechnische   Untersuchungen   der   Gleise   verzichtet   werden.   Instand-
 
 haltungsdefizite  im  Zusammenhang  mit  dem  Ereignis  waren  auszuschließen.  
-
 Feststellung 
-
 zur 
-
  der 
-
 bautechnischen Infrastruktur  
-
 Lfd.  
-
  Nr.   2 
-
 Die  
-
 bautechnische 
-
 Infrastruktur 
-
 hatte 
-
 keinen 
-
 Einfluss 
-
  auf 
-
  das 
-
 Ereignis. 
-
 4.4   Untersuchung  der  Leit- und  Sicherungstechnik  
 
 Der  Streckenabschnitt  Hoffenheim  - Reilsheim  wurde  von  einem  elektronischen  Stellwerk  der  
@@ -1161,43 +727,24 @@ zentrale  Elsenztal  des  Steuerbezirks  2  der  Betriebszentrale  (BZ)  Karlsru
 kenntnisse  zum  Ereignishergang  und  der  Sachverhaltsermittlung  konnte  auf  weiterführende  
 
 Untersuchungen  der  signaltechnischen  Anlagen  verzichtet  werden.  
-
 Feststellung 
-
 zur 
-
 Untersuchung 
-
  der 
-
 Leit- und  
-
 Sicherungstechnik 
-
 Lfd.  Nr.    3 
-
 Die  
-
 Anlagen 
-
  der 
-
 Leit- und Sicherungstechnik  
-
 arbeiteten  
-
 zum Zeitpunkt  
-
  des 
-
 Ereignisses feh-
-
 lerfrei.  Störungen  
-
 lagen nicht  
-
 vor.  
-
 4.5   Untersuchung  der  betrieblichen  Abläufe  des  Infrastrukturbetreibers  
 
 Der  für  den  Streckenabschnitt  örtlich  zuständige  Fdl  war  der  Fdl  Meckesheim,  dessen  Arbeits-
@@ -1217,10 +764,6 @@ rung  „85“  (Fremdeinwirkung)  begründet.  Dies  erfolgte,  weil  auf  dess
 Zuges  RB  38538  mitgeteilt  hatte,  dass  Reisende  die  Notbremse  unberechtigt  gezogen  hätten.  
 
 Seite 8 von 30 
-
- 
- 
- 
  
  
  
@@ -1240,29 +783,12 @@ Seite 8 von 30
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 Untersuchungsbericht 
-
 Störung durch betriebliche Fehlhandlung, 12.09.2015, Hoffenheim - Reilsheim 
 
 Der  nachfolgende  Auszug  aus  den  Zuglaufdaten  der  BZ  Karlsruhe  verdeutlicht  den  zeitlichen  
 
 Ablauf  der  Zugfahrt  RB  38538.  
-
 Abbildung 2: Zuglaufdaten RB 385382 
 
 Die  geringfügige  Haltezeitüberschreitung  in  Hoffenheim  wurde  im  weiteren  Verlauf  bis  Reils-
@@ -1270,50 +796,26 @@ Die  geringfügige  Haltezeitüberschreitung  in  Hoffenheim  wurde  im  weitere
 heim  wieder  abgebaut.  Für  die  Betriebspersonale  des  EIU  waren  die  ausgelassenen  Verkehrs-
 
 halte  nicht  ersichtlich.  
-
 Feststellung 
-
 zur Untersuchung  
-
  der 
-
 betrieblichen 
-
 Abläufe 
-
  des 
-
 Infrastrukturbetreibers 
-
 Lfd.  
-
  Nr.   4 
-
 Die  
-
 betrieblichen Abläufe  
-
  des Infrastrukturbetreibers  
-
 hatten 
-
 keinen 
-
 Einfluss 
-
  auf 
-
  das Ereig-
-
  nis. 
-
 2  Quelle:  DB  Netz  AG  
-
 Seite 9 von 30 
-
- 
- 
- 
  
  
  
@@ -1328,26 +830,11 @@ Seite 9 von 30
  
  
  
-                                                      
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
 Untersuchungsbericht 
-
 Störung durch betriebliche Fehlhandlung, 12.09.2015, Hoffenheim - Reilsheim 
-
 4.6   Untersuchung  der  betrieblichen  Abläufe  des  EVU  
 
 Die   RB  38538   verkehrte  gemäß  Fahrplanunterlagen   am  Ereignistag  von  Sinsheim  Hbf  nach  
@@ -1357,7 +844,6 @@ Heidelberg  Hbf  mit  Halt  auf  allen  Unterwegsstationen.  Die  nachfolgende  
 nen  Auszug  aus  dem  Fahrplan  des  Zuges.  Die  relevanten  Stationen  sind  gekennzeichnet.   
 
 Abbildung 3: Auszug Buchfahrplan RB 385383 
-
 4.6.1   Auswertung  elektronische  Fahrtenregistrierung  (EFR)  
 
 Zur   Untersuchung   der   Abläufe   des  EVU   wurden  die   registrierten   Fahrdaten   des   beteiligten  
@@ -1371,7 +857,6 @@ gistrierung   auf   DSK  20   ausgerüstet.   Am   Dateneinsteller   waren   die
 Bremshundertstel  eingegeben  worden.  Die  PZB  war  eingeschaltet  und  funktionsfähig.  Die  Zug-
 
 fahrt  erfolgte  vom  Führerstand  1  aus.   
-
 In  den  Kopfdaten  fehlte  die  Eingabe  der  Zugnummer  und  der  Triebfahrzeugführernummer.  
 
 Gemäß  Ril  483.0101  Abschn.  3  waren  diese  Daten  vor  Beginn  der  Zugfahrt  einzugeben.  Gemäß  
@@ -1379,14 +864,8 @@ Gemäß  Ril  483.0101  Abschn.  3  waren  diese  Daten  vor  Beginn  der  Zugfa
 Dauerbremszettel  verfügte  das  Fahrzeug  über  142  Bremshundertstel.  Die  Eingabe  140  Brems-
 
 hundertstel  entsprach  den  Vorgaben  der  Einstelltabelle  gemäß  Ril  493.0425V22.  
-
 3  Quelle:  DB  Regio  AG,  bearbeitet  durch  BEU  
-
 Seite 10 von 30 
-
- 
- 
- 
  
  
  
@@ -1394,20 +873,11 @@ Seite 10 von 30
  
  
  
- 
- 
- 
- 
                                                       
  
  
  
- 
- 
- 
- 
 Untersuchungsbericht 
-
 Störung durch betriebliche Fehlhandlung, 12.09.2015, Hoffenheim - Reilsheim 
 
 Um  13:19:17  Uhr  intern  registrierter  Zeit  begann  die  Zugfahrt  in  Sinsheim.  Um  13:22:31  Uhr  
@@ -1439,9 +909,7 @@ Zug  um  13:33:24  Uhr  am  Hp  Reilsheim  zum  Stillstand.  Während  der  Stan
 in   Reilsheim   wurde   um   13:44:26  Uhr   der   Richtungsschalter   aus-  und   wieder  eingelegt.   Um  
 
 13:46:24  Uhr  war  die  Abfahrt  des  Zuges  in  Reilsheim  registriert.   
-
 Die   nach   Fahrplanunterlagen   zulässigen   Geschwindigkeiten   wurden   im   untersuchten   Ab-
-
 schnitt  nicht  überschritten.   
 
 Die  Bedienung  der  Sicherheitsfahrschaltung  (Sifa)  wird  nicht  direkt  in  den  EFR-Daten  dieser  
@@ -1453,12 +921,7 @@ der  Spur  „L“  (Hauptluftleitung)  ersichtlich.  Im  relevanten  Zeitraum  
 den  Registrierungen  vorhanden.  Es  gab  keine  Hinweise,  dass  die  regelmäßige  Bedienung  der  
 
 Sifa  unterlassen  wurde.  
-
 Seite 11 von 30 
-
- 
- 
- 
  
  
  
@@ -1466,16 +929,9 @@ Seite 11 von 30
  
  
  
- 
- 
- 
- 
 Untersuchungsbericht 
-
 Störung durch betriebliche Fehlhandlung, 12.09.2015, Hoffenheim - Reilsheim 
-
 Abbildung 4: Grafische Darstellung des Fahrverlaufs4 
-
 4.6.2   Qualifikation  des  Tf  
 
 Als  Tf  tätige  Personen  sind  Betriebsbeamte  im  Sinne  §  47  Abs.  1  Nr.  9  der  Eisenbahn-Bau- und  
@@ -1485,7 +941,6 @@ Betriebsordnung  (EBO).  Der  Tf  war  im  Besitz  einer  zum  damaligen  Zeitpu
 zum  Führen  von  Eisenbahnfahrzeugen.   Die  Baureihenbefähigung  für  die   Baureihen   424  bis  
 
 426  wurde  am  02.05.2002  erworben.  Die  vorgeschriebenen  regelmäßigen  Fort- und  Weiter-
-
 bildungsmaßnahmen   (RFU-Bahnbetrieb)   wurden   nachgewiesen.   Protokolle   über   durchge-
 
 führte  Begleitfahren,  u.  a.  am  02.06.2015  auf  der  Strecke  Heidelberg  –  Meckesheim  auf  der  
@@ -1507,12 +962,7 @@ um  21:12  Uhr.  Die  Schichtdauer  betrug  6  Stunden  und  41  Minuten  einsch
 unterbrechungen   mit   Arbeitszeitanrechnung.   Der   Beginn   der  nachfolgenden   Schicht   16607  
 
 4  Quelle:  DB  AG  ZAS  Nürnberg  
-
 Seite 12 von 30 
-
- 
- 
- 
  
  
  
@@ -1524,16 +974,7 @@ Seite 12 von 30
  
  
  
- 
- 
- 
- 
- 
- 
- 
-                                                      
 Untersuchungsbericht 
-
 Störung durch betriebliche Fehlhandlung, 12.09.2015, Hoffenheim - Reilsheim 
 
 war  für  den  Ereignistag,  Samstag  12.09.2015,  ab  12:29  Uhr  vorgesehen.  Die  Ruhezeit  zwischen  
@@ -1553,7 +994,6 @@ beitszeitgesetz   (ArbzG)  an.   Die   Schichtdauer   am   Ereignistag   betrug 
 beitsschutzpause  von  30  Minuten  insgesamt  6  Stunden  und  39  Minuten.  Die  reine  Fahrzeit  
 
 dieser  Schicht  wurde  auf  3  Stunden  39  Minuten  errechnet.   
-
 4.6.3   Betriebliche  Regelungen  zur  Durchführung  der  Zugfahrt  38538  
 
 Die   planmäßigen   Halte  eines   Zuges   werden   im   Fahrplan   dargestellt.   Ein  Eintrag   in   der  An-
@@ -1565,7 +1005,6 @@ Fahrplanhalt  an.  Sind  keine  Zusätze  vorhanden,  handelt  es  sich  um  ein
 Begriffsdefinition  in  Ril  408.0102  muss  ein  Zug  bei  einem  Regelhalt  auf  der  Betriebsstelle  im-
 
 mer  halten.  Für  die  Betriebsstellen  Zuzenhausen,  Meckesheim  und  Mauer  waren  Regelhalte  
-
 im  Fahrplan  angeordnet.  Die  Vorgaben  waren  eindeutig  und  vom  Tf  zu  beachten.   
 
 Die   Bedienung   der   Sifa   war   im   Triebfahrzeugführerheft   Ril   418   beschrieben.   Gemäß  
@@ -1589,20 +1028,11 @@ am  Fahr-/Bremsschalter  oder  das  Fußpedal  unter  dem  Führerpult.  Wenn  e
 länger  als  30  s  betätigt  worden  ist  oder  nach  Loslassen  eines  Bedienelements  laufen  folgende  
 
 Vorgänge  ab:   
-
    LM  Sifa  im  modularen  Führerraumanzeigegerät  (MFA)  leuchtet  sofort  (jedoch  nicht  
-
 nach  Loslassen  des  Tasters)  
-
    Nach  2,5  s  ertönt  ein  Warnton  
-
    Nach  weiteren  2,5  s  wird  eine  Zwangsbremsung  ausgelöst.  
-
 Seite 13 von 30 
-
- 
- 
- 
  
  
  
@@ -1610,12 +1040,7 @@ Seite 13 von 30
  
  
  
- 
- 
- 
- 
 Untersuchungsbericht 
-
 Störung durch betriebliche Fehlhandlung, 12.09.2015, Hoffenheim - Reilsheim 
 
 Durch  Betätigen  eines  der  Bedienelemente  kann  dieser  Ablauf  für  jeweils  30  s  unterbrochen  
@@ -1635,22 +1060,14 @@ sung  Ril  493.0425  für  diese  Baureihe  war  die  Bedienung  der  Notbremse 
 Der  in  der  nachfolgenden  Abbildung  dargestellte  Drehschalter  „NBÜ“  im  Führerstand  musste  
 
 sich  während  der  Fahrt  in  der  Stellung  „Auto“  (Grundstellung)  befinden.   
-
 Abbildung 5: Bedienelemente NBÜ im Führerstand 
-
 Eine  Notbremsanforderung  nach  Bedienen  der  Fahrgastnotbremse  wurde  dem  Tf  im  Führer-
-
 stand  durch  Blinken  des  LM  „Notbremse“  auf  dem  MFA,  durch  Meldung  am  Maschinentech-
 
 nischen  Display  (MTD)  und  durch  einen  Intervallton  angezeigt.  Die  nachfolgenden  beiden  Ab-
 
 bildungen  zeigen  die  optischen  Meldungen  der  Notbremsanforderung  im  Führerstand.  
-
 Seite 14 von 30 
-
- 
- 
- 
  
  
  
@@ -1663,27 +1080,11 @@ Seite 14 von 30
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
 Untersuchungsbericht 
-
 Störung durch betriebliche Fehlhandlung, 12.09.2015, Hoffenheim - Reilsheim 
-
 Abbildung 6: Anzeige „Notbremse betätigt“ auf MTD im Führerstand links 
-
 Abbildung 7: Leuchtmelder Notbremse auf MFA im Führerstand mittig 
-
 Seite 15 von 30 
-
- 
- 
- 
  
  
  
@@ -1702,23 +1103,7 @@ Seite 15 von 30
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 Untersuchungsbericht 
-
 Störung durch betriebliche Fehlhandlung, 12.09.2015, Hoffenheim - Reilsheim 
 
 Wird   die   Fahrgastnotbremse   betätigt,   erfolgte  bei   dieser   Bauart  keine   automatische   Brem-
@@ -1728,7 +1113,6 @@ sung.  Der  Tf  hatte  nach  dem  geltenden  betrieblichen  Regelwerk  zu  hande
 Regelungen  zur  Notbremsüberbrückung  waren  in  der  Ril  408  sowie  in  der  Ril  418.3323  Abschn.  
 
 3  Abs.  2a  hinterlegt.    
-
 Abbildung 8: Regelung zur Notbremsüberbrückung5 
 
 Im  Streckenabschnitt  zwischen  den  Betriebsstellen  Hoffenheim  und  Reilsheim  war  weder  ein  
@@ -1744,16 +1128,9 @@ Die  Sprechverbindung  mit  der  Sprechstelle,  die  der  betätigten  Fahrgastn
 ten  liegt,  wird  bei  Betätigen  der  Fahrgastnotbremse  immer  eingeschaltet,  unabhängig  ob  die  
 
 Fahrgastnotbremse  wirkte  oder  überbrückt  war.  Auch  dies  wurde  dem  Tf  entsprechend  der  
-
 folgenden  Abbildung  auf  dem  Führerstand  signalisiert.  
-
 5  Quelle:  Triebfahrzeugführerheft  Ril  418.3323  Abschn.  3   
-
 Seite 16 von 30 
-
- 
- 
- 
  
  
  
@@ -1765,18 +1142,8 @@ Seite 16 von 30
  
  
  
- 
-                                                      
- 
- 
- 
- 
- 
- 
 Untersuchungsbericht 
-
 Störung durch betriebliche Fehlhandlung, 12.09.2015, Hoffenheim - Reilsheim 
-
 Abbildung 9: Anzeige aktivierte Notsprechstelle im Führerstand rechts 
 
 Die   Annahme   von   Rufen   von   Sprechstellen   während   der   Fahrt   sind   nach   Ril   493.0425   Ab-
@@ -1788,112 +1155,57 @@ im  Zusammenhang  mit  der  Aktivierung  der  Fahrgastnotbremse  wäre  die  Nac
 tion  durch  den  Tf  angezeigt  gewesen.  Der  Tf  hatte  nicht  auf  die  mehrmalige  Aktivierung  der  
 
 Sprechstelle  reagiert.   
-
 Feststellung 
-
 zur Untersuchung  
-
  der betrieblichen  
-
 Abläufe 
-
  des 
-
 EVU 
-
 Lfd.  Nr.    5 
-
  Die EFR-Daten  zeichneten  
-
  ein untypisches  
-
 Fahrverhalten zwischen  den  Betriebsstellen  Hof-
-
 fenheim  
-
 und 
-
 Reilsheim 
-
 auf. 
-
 Die  
-
 Dateneingabe 
-
 in das  PZB-Fahrzeuggerät  vor  
-
 Beginn 
-
  der Zugfahrt  
-
  war 
-
 unvollständig. 
-
  Es 
-
 gab keine  
-
 Hinweise auf  eine  fehlerhafte  
-
 oder nicht  
-
 erfolgte Bedienung  der  
-
 Sifa.  
-
 Die  personellen  Voraussetzungen  und  
-
 Qualifikationen des  
-
  Tf 
-
 entsprechend EBO  §§  48  
-
  und 
-
  54 
-
 für den  
-
 Einsatz 
-
  auf 
-
 dem 
-
  ET 
-
 waren 
-
 erfüllt. 
-
 Sowohl  Schichtlängen  
-
  als auch  
-
 Ruhezeiten 
-
 und geplante  Arbeitsschutzpausen  entsprachen  
-
  den 
-
 Vorgaben 
-
  des ArbzG  
-
 und 
-
  den 
-
 tarifvertraglichen Vorgaben.   
-
 Seite 17 von 30 
-
- 
- 
- 
  
  
  
@@ -1921,84 +1233,32 @@ Seite 17 von 30
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 Untersuchungsbericht 
-
 Störung durch betriebliche Fehlhandlung, 12.09.2015, Hoffenheim - Reilsheim 
-
 Der  
-
  Tf 
-
 hatte 
-
 angeordnete 
-
 Fahrplanhalte ausgelassen.  
-
 Der  Tf  
-
 hatte die  Notbremsanforderung  
-
 nach 
-
 Betätigen 
-
  der Fahrgastnotbre
-
  mse nicht  
-
 durch 
-
 eine  Notbremsung  
-
 unterstützt. 
-
  Alle 
-
 optischen 
-
  und 
-
 akustischen 
-
 Anzeigen 
-
 im Führerstand  nach  Betätigung  der  Fahrgastnot-
-
 bremse 
-
 waren 
-
 funktionsfähig. 
-
 Seite 18 von 30 
-
- 
- 
- 
  
  
  
@@ -2015,23 +1275,8 @@ Seite 18 von 30
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 Untersuchungsbericht 
-
 Störung durch betriebliche Fehlhandlung, 12.09.2015, Hoffenheim - Reilsheim 
-
 4.7   Untersuchung  von  Fahrzeugen  
 
 Bei  dem  betroffenen  Fahrzeug  handelte  es  sich  um  einen  vierteiligen  ET  der  ersten  Serie  der  
@@ -2049,126 +1294,64 @@ Tunnelstrecken  sind  die  Fahrzeuge  mit  NBÜ  ausgerüstet.  Für  das  Fahre
 ist  das  Fahrzeug  mit  einer  automatischen  Mittelpufferkupplung  ausgestattet.  
 
 Aus  der  folgenden  Tabelle  lassen  sich  die  technischen  Fahrzeugdaten  entnehmen:  
-
 Fahrzeugnummer  
-
 Halter 
-
 und 
-
 ECM 
-
  94 
-
  80 
-
 0425 
-
 123-7 
-
  DB 
-
 Regio 
-
  AG 
-
 EBA-Identifikationsnummer 
-
 95-Q-05-B 163  A   
-
 Antriebsart 
-
 Angetriebene  
-
 Radsätze 
-
 Radsatzfolge 
-
 Anzahl 
-
 Fahrmotoren 
-
 Stundenleistung 
-
  Max. Anfahrbeschleunigung  
-
 Max.  Bremsverzögerung  
-
 Länge 
-
 über 
-
 Kupplung 
-
 Gesamtmasse 
-
 elektrisch 
-
 8  (von  
-
  10) 
-
 Bo`Bo`2`Bo`Bo`  
-
  4   x   2 
-
 2.350 
-
  kW 
-
  1,0 
-
  m/𝑠_2 
-
  0,9 
-
  m/𝑠_2 
-
 67.500 
-
  mm 
-
 138   t 
-
 Höchstgeschwindigkeit  (signalgeführt)  
-
 140  
-
 km/h 
-
 Bremsbauart 
-
 Zugsicherungssystem  
-
 Sitzplätze/Stehplätze 
-
  MRP 
-
 C-el-A-E  
-
 LZB, PZB   
-
 206/246 
-
 Tabelle 
-
  2: 
-
 Technische 
-
 Daten 
-
  ET 
-
 4256
-
 6  Quelle:  Fahrzeugbeschreibung  Ril  493.0425Z01  DB  Regio  AG   
-
 Seite 19 von 30 
-
- 
- 
- 
  
  
  
@@ -2181,7 +1364,6 @@ Seite 19 von 30
  
  
  
-                                                      
  
  
  
@@ -2194,30 +1376,8 @@ Seite 19 von 30
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  
 Untersuchungsbericht 
-
 Störung durch betriebliche Fehlhandlung, 12.09.2015, Hoffenheim - Reilsheim 
-
 4.7.1   Funktionalität  der  NBÜ  im  ET  423-426  
 
 Das  Fahrzeug  war  mit  einer  NBÜ  ET  423-426  ausgerüstet.  Hierbei  war  vorgesehen,  dass  eine  
@@ -2229,35 +1389,20 @@ NBÜ  erfolgte  gemäß  Fahrzeugbeschreibung  in  Ril  493.0425Z01  Punkt  9.9 
 envorschrift   genannten   Drehschalter  über   die   Stellungen   „Aus“,   „Auto“   und   „Ein“   auf  dem  
 
 Führerpult.  
-
 Abbildung  10:  Bedienelemente  NBÜ  auf  dem  Führerpult7  
-
   
-
 In  der  Stellung  „Aus“  führt  das  Betätigen  der  Fahrgastnotbremse  immer  zu  einer  Not-
-
 bremsung.  Eine  aktive  Handlung  des  Tf  ist  nicht  erforderlich.   
-
   
-
 In  der  Stellung  „Auto“  ist  die  Notbremse  bis  zum  nächsten  Halt  mit  Türfreigabe  über-
-
 brückt.  Überbrückt  bedeutet,  dass  die  Notbremsanforderung  durch  Blinken  des  LM  
-
 „Notbremse“  im  MFA,  durch  Meldung  am  MTD  und  durch  einen  Intervallton  dem  Tf  
-
 am  Führerpult  angezeigt  bzw.  signalisiert  wird.  Eine  automatische  Bremsung  erfolgt  
-
 nicht.  Der  Tf  muss  aktiv  eine  Notbremsung  auslösen.  Ausgenommen  davon  ist  ein  kur-
-
 zes  Zeitfenster  nach  einem  Verkehrshalt  mit  Türfreigabe.  Bis  ca.  10  s  nach  Abfahrt  
-
 wird  in  diesem  Zeitraum  eine  bediente  Fahrgastnotbremse  immer  direkt  d.  h.  ohne  
-
 Mitwirkung  des  Tf  wirksam.   
-
    Die  Stellung  „Ein“  ist  ausschließlich  für  das  Prüfen  der  NBÜ  vorgesehen.  Nur  dann  
-
 leuchtet  der  LM  „NBÜ“.  
 
 Das  Fahrzeug  kann  in  der  Stellung  „Aus“  und  in  der  Stellung  „Auto“  gefahren  werden.  Im  Be-
@@ -2265,12 +1410,7 @@ Das  Fahrzeug  kann  in  der  Stellung  „Aus“  und  in  der  Stellung  „Au
 trieb  war  gemäß  Bedienvorschrift  immer  die  Stellung  „Auto“  einzustellen  (Grundstellung).   
 
 7  Quelle:  Bedienvorschrift  Ril  493.0425  DB  Regio  AG  
-
 Seite 20 von 30 
-
- 
- 
- 
  
  
  
@@ -2279,18 +1419,10 @@ Seite 20 von 30
  
  
  
- 
- 
- 
- 
- 
                                                       
 Untersuchungsbericht 
-
 Störung durch betriebliche Fehlhandlung, 12.09.2015, Hoffenheim - Reilsheim 
-
 4.7.2   Fahrzeugzulassung  –  Anforderungen  und  Grundlagen  
-
 Mit  Schreiben  vom  16.07.2002  erteilte  das  EBA  gegenüber  dem  Hersteller  Bombardier  Trans-
 
 portation  die  (Konformitäts-)  Abnahme  des  Fahrzeugs  435  123-7  mit  der  EBA-Identifikations-
@@ -2298,13 +1430,11 @@ portation  die  (Konformitäts-)  Abnahme  des  Fahrzeugs  435  123-7  mit  der 
 nummer  95-Q-05-B  163  A  nach  §  32  Abs.  1  der  EBO.  Die  Abnahme  basierte  auf  der  Abnahme  
 
 vom  12.10.2000  (GZ  3102  Tzwn  (BR425))  und  der  vom  Antragsteller  vorgelegten  Konformi-
-
 tätserklärung  vom  15.07.2002.   
 
 Bezüglich  der  Ausrüstung  mit  Notbremsen  sah  §  23  Abs.  3  EBO  folgende  Anforderungen  vor:   
 
 Abbildung 11: Auszug § 23 Abs. 3 EBO 
-
 Im  Kommentar  zur  EBO8  werden  diese  Anforderungen  näher  erläutert:  Die  Ausrüstung  von  
 
 Fahrzeugen  mit  Notbremseinrichtungen  berücksichtigt  Erkenntnisse  über  die  Sicherheitsan-
@@ -2336,24 +1466,13 @@ Seit  der  Zulassung  des  Fahrzeugs  im  Jahr  2002  wurden  die  regulativen  
 richtung  einer  NBÜ  weiterentwickelt.  Zum  Zeitpunkt  des  Ereignisses  verwies  das  EIU  DB  Netz  
 
 AG  in  der  Ril  810.0200A09  „Technischer  Netzzugangang  für  Fahrzeuge“  bezüglich  der  Anfor-
-
 derung  an  eine  NBÜ  ausdrücklich  auf  die  EBA-Veröffentlichungen  „Anforderungen  des  Brand- 
-
 8  Quelle:  Kommentar  zur  EBO  Wittenberg/Heinrichs/Mittmann/Mallikat  5.  Auflage  2006   
-
 Seite 21 von 30 
-
- 
- 
- 
  
  
  
    
- 
- 
- 
- 
  
  
  
@@ -2362,13 +1481,7 @@ Seite 21 von 30
  
  
  
- 
- 
- 
- 
- 
 Untersuchungsbericht 
-
 Störung durch betriebliche Fehlhandlung, 12.09.2015, Hoffenheim - Reilsheim 
 
 und  Katastrophenschutzes  an  den  Bau  und  den  Betrieb  von  Eisenbahntunneln“  und  die  Ergän-
@@ -2388,7 +1501,6 @@ die  Beurteilung  ausgeführter  Lösungen  bereitzustellen.  U.  a.  war  darin
 Tf  eine  Notbremsmeldung  quittieren  muss,  wenn  er  die  Notbremsung  überbrücken  will.  Er-
 
 folgt  in  einem  eng  definierten  Zeitraum  keine  entsprechende  Bedienhandlung  wird  die  Not-
-
 bremsung  wirksam.   
 
 Die  NBÜ  ET  423-426  erfüllt  dieses  Kriterium  nicht.  Wie  in  Kapitel  4.7.1  ausgeführt,  bedarf  es  
@@ -2434,10 +1546,6 @@ gastsprechstellen   sowie   der   Fahrgastnotbremsen   verschiedener   Türen   
 Fahrgästen  jedoch  nicht  möglich,  da  diese  über  das  Geschwindigkeitssignal  des  Gleitschutzes  
 
 Seite 22 von 30 
-
- 
- 
- 
  
  
  
@@ -2445,14 +1553,8 @@ Seite 22 von 30
  
  
  
- 
- 
- 
- 
 Untersuchungsbericht 
-
 Störung durch betriebliche Fehlhandlung, 12.09.2015, Hoffenheim - Reilsheim 
-
 mechanisch  blockiert  war.  Zusätzlich  zur  Notbremsanforderung  wurde  dem  Tf  auch  die  Betä-
 
 tigung  der  Türnotentriegelung  auf  dem  MTD  unter  Angabe  von  Wagen- und  Türnummer  an-
@@ -2462,7 +1564,6 @@ gezeigt.
 Um  13:33:33  Uhr  wurden  vom  Tf  im  Hp  Reilsheim  nach  dem  Halt  die  Ausstiegstüren  in  Fahrt-
 
 richtung  rechts  freigegeben.   
-
 Abbildung 12: Auszug Diagnosedaten MAVIS Störungsauswertung9 
 
 Im  weiteren  Verlauf  (nicht  dargestellt)  waren  während  des  Halts  in  Reilsheim  verschiedene  
@@ -2484,16 +1585,9 @@ Das  Fahrzeug  wurde  in  die  zuständige  Werkstatt  der  DB  Regio  AG  in  L
 führt  und  am  15.09.2015  in  der  Zeit  von  0:44  Uhr  bis  3:00  Uhr  überprüft.  Laut  Arbeitsschein  
 
 (Auftragsnr.  1028464665)  wurden  wiederum  die  Sicherheitseinrichtungen  Sifa,  PZB  und  NBÜ  
-
 geprüft.  Das  Ergebnis  der  Überprüfung  war  ohne  Befund.   
-
 9  Quelle:  DB  Regio  AG  
-
 Seite 23 von 30 
-
- 
- 
- 
  
  
  
@@ -2501,30 +1595,18 @@ Seite 23 von 30
  
  
  
- 
- 
- 
- 
                                                       
  
  
  
- 
- 
- 
- 
 Untersuchungsbericht 
-
 Störung durch betriebliche Fehlhandlung, 12.09.2015, Hoffenheim - Reilsheim 
 
 Am  21.09.2015  in  der  Zeit  von  13:11  Uhr  und  18:00  Uhr  wurde  das  Fahrzeug  mit  Auftrag  (Auf-
 
 tragsnummer  1028494349)  nochmals  bezüglich  der  Funktionalitäten  
-
    PZB/LZB  nach  Arbeitsanweisung  900.0060A46  
-
    Sifa  nach  Arbeitsanweisung  9800.0002  
-
    NBÜ  Funktionsprüfung  nach  Arbeitsanweisung  5000.0030  
 
 geprüft.   Die  Arbeiten   am   Fahrzeug   wurden   dokumentiert.  Das  Ergebnis   der  Prüfungen  war  
@@ -2564,14 +1646,8 @@ Fahrgastnotbremse  bedient  war  sofort  die  nächstliegende  Sprechstelle  akt
 im  Führerstand  zeigte  Dauerlicht.  Die  Sprechstelle  musste  vom  Tf  nicht  gesondert  zugeschal-
 
 tet  werden.   
-
 Alle  überprüften  Sicherheitseinrichtungen  waren  uneingeschränkt  funktionsfähig.   
-
 Seite 24 von 30 
-
- 
- 
- 
  
  
  
@@ -2580,146 +1656,72 @@ Seite 24 von 30
  
  
  
- 
- 
- 
- 
- 
 Untersuchungsbericht 
-
 Störung durch betriebliche Fehlhandlung, 12.09.2015, Hoffenheim - Reilsheim 
-
 Feststellung 
-
 zur 
-
 Untersuchung 
-
  des 
-
 Fahrzeugs 
-
 Lfd.  
-
  Nr.   6 
-
 Die  verbaute  NBÜ  
-
  ET 
-
 423-426 
-
 überbrückte im  
-
 Regelfall 
-
 eine 
-
 Notbremsanforderung. 
-
 Zum  
-
 Wirksamwerden 
-
 einer 
-
 Notbremsanforderung war  
-
 außerhalb 
-
 von 
-
 Bahnsteigen 
-
 eine ak-
-
  tive 
-
 Handlung 
-
  des 
-
  Tf 
-
 erforderlich.   
-
 Die  Funktionalität  
-
  der 
-
  NBÜ 
-
 entsprach 
-
  den 
-
 Vorgaben 
-
 zum Zeitpunkt  
-
  der 
-
 Fahrzeugzulassung.  
-
 Die  
-
 Vorgaben 
-
  an 
-
  die 
-
  NBÜ wurden  
-
 weiterentwickelt. Eine  rückwirkende  Nachrüstung  
-
  war 
-
 unter  
-
  der 
-
 Voraussetzung, dass  keine  
-
 betriebsgefährlichen 
-
 Mängel auftraten,  
-
 nicht vorgese-
-
 hen.   
-
 Das  Fahrzeug  hatte  entsprechend  seiner  Zulassung  
-
 technisch 
-
 einwandfrei 
-
 funktioniert.  
-
 Alle  Sicherheitseinrichtungen  
-
 waren 
-
 voll 
-
 funktionsfähig. 
-
 Hinweise 
-
  auf Störungen  
-
 oder Fehl-
-
 funktionen lagen  nicht  
-
 vor. 
-
 Seite 25 von 30 
-
- 
- 
- 
  
  
  
@@ -2748,34 +1750,8 @@ Seite 25 von 30
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 Untersuchungsbericht 
-
 Störung durch betriebliche Fehlhandlung, 12.09.2015, Hoffenheim - Reilsheim 
-
 5   Auswertung  
 
 Das  Kapitel  5  Auswertung  befasst  sich  mit  der  Ereignisrekonstruktion.  Anhand  der  oben  ge-
@@ -2785,7 +1761,6 @@ nannten  Feststellungen  wird  ein  plausibler  Ablauf  des  gefährlichen  Erei
 tragen.   Relevante  Erkenntnisse  werden  anschließend  bewertet   und  führen   ggf.  zu  entspre-
 
 chenden  Schlussfolgerungen.  
-
 5.1   Ereignisrekonstruktion  
 
 Der  Tf  begann  am  12.09.2015  in  Sinsheim  seine  Schicht  mit  der  Aufrüstung  des  abgestellten  
@@ -2841,10 +1816,6 @@ sprechstelle   an   der   Tür   12   erfolgte   um   13:31:09   Uhr.   In   der
 nigte  wurde  um  13:32:33  Uhr  nochmals  die  Fahrgastsprechstelle  an  der  Tür  12  aktiviert.  Um  
 
 Seite 26 von 30 
-
- 
- 
- 
  
  
  
@@ -2852,12 +1823,7 @@ Seite 26 von 30
  
  
  
- 
- 
- 
- 
 Untersuchungsbericht 
-
 Störung durch betriebliche Fehlhandlung, 12.09.2015, Hoffenheim - Reilsheim 
 
 13:32:42  Uhr  wurde  bei  einer  Geschwindigkeit  von  nun  74  km/h  die  Notentriegelung  der  Tür  
@@ -2877,13 +1843,9 @@ Reilsheim  ab.  Der  Tf  begründete  den  verlängerten  Aufenthalt  im  Hp  Re
 BZ  mit  dem  Hinweis  auf  die  Betätigung  der  Fahrgastnotbremsen  durch  Reisende.  Die  weitere  
 
 Zugfahrt  erfolgte  ohne  nennenswerte  Abweichungen.  
-
 5.2   Bewertung  und  Schlussfolgerung  
-
 Es  muss  mit  einer  ausreichenden  Wahrscheinlichkeit  davon  ausgegangen  werden,  dass  beim  
-
 Tf  eine  partielle  Dienstunfähigkeit  vorlag.   
-
 Die  Unregelmäßigkeit  ereignete  sich  zu  Beginn  der  Dienstschicht  des  Tf.  Ermüdungserschei-
 
 nungen  oder  Konzentrationsschwächen  durch  die  Schichtdauer  waren  daher  eher  auszuschlie-
@@ -2923,10 +1885,6 @@ Die  Sifa  dient  dazu,  die  Dienstfähigkeit  eines  Tf  während  der  Fahrt 
 einen  Zug  mittels  Zwangsbremsung  zum  Halten  bringen,  wenn  der  Tf  handlungsunfähig  wird.  
 
 Seite 27 von 30 
-
- 
- 
- 
  
  
  
@@ -2934,12 +1892,7 @@ Seite 27 von 30
  
  
  
- 
- 
- 
- 
 Untersuchungsbericht 
-
 Störung durch betriebliche Fehlhandlung, 12.09.2015, Hoffenheim - Reilsheim 
 
 Dem  Tf  war  es  trotz  seiner  bedingten  Handlungsfähigkeit  möglich,  die  Bedienungen  dieser  Si-
@@ -3001,12 +1954,7 @@ lassung   der   Fahrzeugbaureihen   ET   423   bis   426.  Unter   der   Vorgabe
 schnellbahnnetzen  wurden  diese  Fahrzeuge  mit  der  beschriebenen  NBÜ-Funktionalität  ent-
 
 sprechend  §  23  Abs.  3  Satz  3  EBO  ausgestattet.   
-
 Seite 28 von 30 
-
- 
- 
- 
  
  
  
@@ -3014,12 +1962,7 @@ Seite 28 von 30
  
  
  
- 
- 
- 
- 
 Untersuchungsbericht 
-
 Störung durch betriebliche Fehlhandlung, 12.09.2015, Hoffenheim - Reilsheim 
 
 Eine   eindeutige   Abgrenzung   zwischen   einer   Regionalbahn   und   einer   Stadtschnellbahn   be-
@@ -3051,9 +1994,7 @@ len  werden  sollte.  Eine  einmalig  erteilte  Zulassung  gilt  im  Rahmen  des
 einer  zu  einem  bestimmten  Zeitpunkt  erteilten  Zulassungsentscheidung  zugrundeliegende  Re-
 
 gelwerk  unterliegt  jedoch  einem  permanenten  Anpassungsprozess.  Der  Betreiber  eines  Fahr-
-
 zeugs  muss  sich  deshalb  im  Rahmen  der  sogenannten  dynamischen  Betreiberverantwortung  
-
 mit  den  geänderten  Vorgaben  auseinandersetzen  und  ggf.  Änderungsbedarf  daraus  ableiten.  
 
 Einen   Anstoß  zur  Änderung   können  gefährliche  Ereignisse  geben.  Die  B  009   sieht  dies  aus-
@@ -3079,12 +2020,7 @@ des  Zuges  ohne  Mitwirkung  des  Tf  gekommen.  Projiziert  man  das  Ereignis
 bereich  wäre  der  Zug  dort  nicht  zum  Halten  gekommen.  Gefährdungen  anderer  Züge,  von  Rei-
 
 senden  oder  Straßenverkehrsteilnehmern  an  Bahnübergängen  lagen  nicht  vor.   
-
 Seite 29 von 30 
-
- 
- 
- 
  
  
  
@@ -3093,15 +2029,8 @@ Seite 29 von 30
  
  
  
- 
- 
- 
- 
- 
 Untersuchungsbericht 
-
 Störung durch betriebliche Fehlhandlung, 12.09.2015, Hoffenheim - Reilsheim 
-
 6   Bisher  getroffene  Maßnahmen  
 
 Der  Tf  war  nach  dem  Ereignis  gesundheitsbedingt  nicht  mehr  im  Einsatz.  Die  vor  dem  weiteren  
@@ -3121,17 +2050,13 @@ passt.   Bei   allen   nachfolgenden   Bauarten   sind   die   Funktionalitäten
 B  009  Bestandteil  der  Anforderungen  für  eine  Genehmigung.  Bezüglich  bereits  zugelassener  
 
 Fahrzeuge  sind  die  Eisenbahnen  und  Halter  im  Rahmen  ihrer  dynamischen  Betreiberverant-
-
 wortung  gemäß  AEG  §  4  Abs.  3  gehalten,  in  einem  eigenen  Abwägungsprozess  die  Notwen-
-
 digkeit   von  Nachrüstungen   oder  kompensierenden   Maßnahmen  an  Bestandsfahrzeugen  zu  
-
 ermitteln.   
 
 Mit  Gültigkeit  vom  19.10.2015  erging  die  Weisung  W-R-041/2015  der  DB  Regio  AG  Zentrale  
 
 an  mehrere  Einsatzstellen  der  Verkehrsbetriebe  bzw.  Betriebsbereiche  in  Oberbayern  sowie  
-
 an  die  Betriebsbereiche,  Sachsen-Anhalt,  S-Bahn  Hannover,  S-Bahn  München  und  die  Südost-
 
 bayernbahn  mit  der  Einsatzstelle  Traunstein.  Inhalt  der  Weisung  war,  abweichend  zu  den  Re-
@@ -3143,26 +2068,14 @@ Betätigung   der   Fahrgastnotbremse   wurde   somit   in   den   meisten   Ein
 reihe  425  sofort  und  ohne  Unterstützung  durch  den  Tf  wirksam.  Die  DB  Regio  AG  hat  mit  die-
 
 ser  Maßnahme  das  Wiederholungsrisiko  im  Rahmen  ihrer  dynamischen  Betreiberverantwor-
-
 tung  betrachtet  und  adressiert.  
-
 7   Sicherheitsempfehlungen  
-
 Eine  Sicherheitsempfehlung  wurde  nicht  ausgesprochen.  
-
 Seite 30 von 30 
-
- 
- 
- 
  
  
  
    
- 
- 
- 
- 
  
  
  

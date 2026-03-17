@@ -1,56 +1,20 @@
 Aktenzeichen:  60uu2017-05/002-3323
- 
 
 Stand: 
-
 06.12.2018  Version:  1.0  
-
 Gefährliches Ereignis im Eisenbahnbetrieb 
-
 Ereignisart: 
-
 Datum: 
-
 Zeit: 
-
 Bahnhof: 
-
 Gleis: 
-
 Kilometer: 
-
 Zugentgleisung 
-
 01.05.2017 
-
 18:46 Uhr 
-
 Dortmund Hbf 
-
 8 
-
 163,683 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -72,46 +36,16 @@ Dortmund Hbf
  
  
     
-  
  
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
-
 Veröffentlicht durch: 
-
 Bundesstelle für Eisenbahnunfalluntersuchung 
-
 Heinemannstraße 6 
-
 53175 Bonn 
-
 Seite 2 von 81 
-
  
   
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -133,207 +67,116 @@ Seite 2 von 81
  
  
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
-
 Inhaltsverzeichnis:
- 
 
 Seite
- 
+
 
 Zusammenfassung ..........................................................................................11
- 
+
 
 Kurzbeschreibung des Ereignisses ....................................................................11
- 
+
 
 Folgen................................................................................................................11
- 
+
 
 Ursachen ...........................................................................................................11
- 
+
 
 Vorbemerkungen..............................................................................................13
- 
+
 
 Organisatorischer Hinweis .................................................................................13
- 
+
 
 Ziel der Eisenbahn-Unfalluntersuchung .............................................................14
- 
+
 
 Beteiligte und Mitwirkende .................................................................................14
- 
+
 
 Ereignis.............................................................................................................15
- 
+
 
 Hergang .............................................................................................................15
- 
+
 
 Todesopfer, Verletzte und Sachschäden ...........................................................17
- 
+
 
 Wetterbedingungen............................................................................................17
- 
+
 
 Untersuchungsprotokoll..................................................................................17
- 
+
 
 Zusammenfassung von Aussagen .....................................................................17
-  
+
 
 Notfallmanagement ............................................................................................18
-  
+
 
 Untersuchung der Infrastruktur ..........................................................................18
-  
+
 
  1 
-
  1.1 
-
  1.2 
-
  1.3 
-
  2 
-
  2.1 
-
  2.2 
-
  2.3 
-
  3 
-
  3.1 
-
  3.2 
-
  3.3 
-
  4 
-
 4.1  
-
 4.2  
-
 4.3  
-
 4.3.1  
-
 DKW 36 (DKW 54-190-1:9) Dortmund Hbf ........................................................19
-  
 
 4.3.2  
-
 Auswertung der Regelinspektionsprotokolle gemäß Ril 821...............................30
-  
 
 4.3.3  
 
 Gleismessfahrt vom 15.05.2017.........................................................................34
-  
+
 
 4.3.4  
 
 Externe Gutachten zur Unfallursache.................................................................40
-  
+
 
 4.4  
-
 Untersuchung der Leit- und Sicherungstechnik..................................................41
-  
 
 4.4.1  
 
 Stellwerk Dhf......................................................................................................41
-  
+
 
 4.4.2  
 
 Relaisgruppenüberprüfung Stellwerk Dhf ...........................................................41
-  
+
 
 4.4.3  
 
 Störungsdrucker Stellwerk Dhf...........................................................................42
-  
+
 
 4.4.4  
-
 Weichenantrieb S700 der DKW 36 a/b ..............................................................43
-  
 
 Seite 3 von 81 
-
  
   
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -397,244 +240,128 @@ Seite 3 von 81
  
  
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
-
 4.4.5 
 
 Auffahrmeldungen der DKW 36 a/b ...................................................................44
- 
+
 
 4.4.6 
 
 Klinkenverschluss CKA 12 .................................................................................45
- 
+
 
 4.4.7 
-
 Untersuchung des Weichenantriebes S700 im Signalwerk Wuppertal ...............45
- 
 
 4.5 
-
 4.6 
-
 Untersuchung der betrieblichen Handlungen .....................................................46
- 
+
 
 Untersuchung von Fahrzeugen ..........................................................................46
- 
+
 
 4.6.1 
 
 Zustand des Tz 229 nach dem Ereignis .............................................................47
- 
+
 
 4.6.2 
 
 Werkstattaufenthalt 24.–29.04.2017 ..................................................................47
- 
+
 
 4.6.3 
-
 Zuguntersuchung im Werk Dortmund ................................................................48
- 
 
 4.6.4 
 
 Berührungsgeometrie Rad/Schiene ...................................................................48
- 
+
 
 4.6.5 
 
 Beurteilung der Drehgestelle..............................................................................49
- 
+
 
 4.6.6 
 
 Zug-/Druckstangen ............................................................................................53
- 
+
 
 4.6.7 
 
 Fahrtverlaufsauswertung....................................................................................55
- 
+
 
 4.7 
-
 5 
-
 5.1 
 
 Interpretation der Unfallspuren...........................................................................57
- 
+
 
 Auswertung und Schlussfolgerungen............................................................62
- 
+
 
 Oberbau.............................................................................................................62
- 
+
 
 5.1.1 
 
 Bewertung der Gleisgeometrie...........................................................................62
- 
+
 
 5.1.2 
 
 Schlussfolgerungen Gleisgeometrie...................................................................62
- 
+
 
 5.1.3 
-
 Weicheninspektion gemäß Ril 821 „Oberbau inspizieren“..................................63
- 
 
 5.1.4 
 
 Bericht zur Mehrkörpersimulation.......................................................................65
- 
+
 
 5.1.5 
-
 Bericht zur Schadensuntersuchung der Zungenvorrichtung ...............................66
- 
 
 5.1.6 
-
 Zusammenfassung aus dem Bericht der Fa. SIMTES KG .................................67
- 
 
 5.1.7 
-
 Zusammenfassung der bisherigen Untersuchungsergebnisse ...........................68
- 
 
 5.2 
 
 Leit- und Sicherungstechnik ...............................................................................73
- 
+
 
 5.2.1 
 
 Auffahrmeldung am 22.04.2017 .........................................................................73
- 
+
 
 5.2.2 
 
 Auffahrmeldung am Ereignistag .........................................................................74
- 
+
 
 5.3 
-
 5.4 
 
 Betriebliche Handlungen ....................................................................................75
- 
+
 
 Fahrzeuge..........................................................................................................75
- 
+
 
 Seite 4 von 81 
-
  
   
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -730,70 +457,34 @@ Seite 4 von 81
  
  
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
-
 5.4.1 
-
 Untersuchungen der Fahrzeugelemente Tz 229 ................................................75
- 
 
 5.4.2 
-
 Ergebniszusammenfassung Untersuchung der Zug-/Druckstangen...................75
- 
 
 5.4.3 
 
 Radprofile ..........................................................................................................76
- 
+
 
 6 
-
 6.1 
-
 7 
 
 Bisher getroffene Maßnahmen........................................................................78
- 
+
 
 Fazit aus dem Rückäußerungsverfahren ...........................................................78
- 
+
 
 Sicherheitsempfehlungen ...............................................................................80
- 
+
 
 Seite 5 von 81 
-
  
   
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -821,175 +512,87 @@ Seite 5 von 81
  
  
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
-
 Abbildungsverzeichnis: 
 
 Abb. 1: Unfallstelle Dortmund Hbf ........................................................................................12
- 
+
 
 Abb. 2: Aufgleisarbeiten ICE 945 .........................................................................................12
- 
+
 
 Abb. 3: Lageplan ..................................................................................................................16
- 
+
 
 Abb. 4: Weichenlage nach dem Ereignis..............................................................................20
- 
+
 
 Abb. 5: Schmierfettrückstände .............................................................................................21
- 
+
 
 Abb. 6: linke Zunge mit Anfahrspuren im vorderen Bereich..................................................22
- 
+
 
 Abb. 7: linke Zunge mit Anfahrspuren im hinteren Bereich...................................................22
- 
+
 
 Abb. 8: rechte Zunge, Schleifspuren am Zungenrücken.......................................................23
- 
+
 
 Abb. 9: Radlenker und Knaggen vor Knieschiene rechts, erste Entgleisungsschäden .........23
- 
+
 
 Abb. 10: Anschlagspur rechter Radlenker im Bereich der Knieschiene ................................24
- 
+
 
 Abb. 11: Knieschiene rechts, weitere Entgleisungsspuren ...................................................24
- 
+
 
 Abb. 12: Übersicht der Gleislage vor der Entgleisungsstelle ................................................25
- 
+
 
 Abb. 13: Längshöhenfehler (> SR 100) am Übergang Holz-/Betonschwellen.......................25
- 
+
 
 Abb. 14: Verwindungsfehler (> SR 100) am Isolierstoß links................................................25
- 
+
 
 Abb. 15: Richtungsfehler (< SR 100)....................................................................................26
- 
+
 
 Abb. 16: Darstellungen 1–4, linke Zunge im Bereich der Stützknaggen ...............................28
- 
+
 
 Abb. 17: linke Weichenzunge...............................................................................................29
- 
+
 
 Abb. 18: Auffälligkeiten an der DKW 36 ...............................................................................29
- 
+
 
 Abb. 19: Darstellung der Inspektionsmessungen aus IIS, Teil I............................................31
- 
+
 
 Abb. 20: Darstellung der Inspektionsmessungen aus IIS, Teil II...........................................31
- 
+
 
 Abb. 21: Auszug Überschreitungsprotokoll RAILab vom 31.01.2017....................................32
- 
+
 
 Abb. 22: Messschrieb MISS-GMTZ vom 15.05.2017............................................................35
- 
+
 
 Abb. 23: Auszug Überschreitungsprotokoll...........................................................................35
- 
+
 
 Abb. 24: Situation vor der Befahrung ...................................................................................36
- 
+
 
 Abb. 25: Rad auf der verformten Weichenzunge..................................................................37
- 
+
 
 Seite 6 von 81 
-
  
   
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -1097,223 +700,92 @@ Seite 6 von 81
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
 
 Abb. 26: Verformungsstelle ..................................................................................................38
- 
+
 
 Abb. 27: Schleifspuren 1 und 2; Gleitstuhl linke Zunge ........................................................39
- 
+
 
 Abb. 28: erster Gleitstuhl linke Zunge ..................................................................................39
- 
+
 
 Abb. 29: Ablaufdiagramm Simulation ...................................................................................40
- 
+
 
 Abb. 30: Schreibstreifen des Störungsdruckers Stellwerk Dhf..............................................43
- 
+
 
 Abb. 31: Weichenantrieb S700 der DKW 36 a/b ..................................................................44
- 
+
 
 Abb. 32: Übersicht Tz 229, ICE 945 .....................................................................................46
- 
+
 
 Abb. 33: Aufgleisung SW 808 029-3 ....................................................................................47
- 
+
 
 Abb. 34: Übergang MW 806 629-2 zu SW 808 029-3 ..........................................................47
- 
+
 
 Abb. 35: entgleistes DG MW 806 629-2 ...............................................................................47
- 
+
 
 Abb. 36: entgleistes DG 808 029-3 ......................................................................................47
- 
+
 
 Abb. 37: Profilabzeichnung 808 029 Rs 1 ............................................................................49
- 
+
 
 Abb. 38: SGP 400 ................................................................................................................50
- 
+
 
 Abb. 39: Kennzeichnung aller Komponenten........................................................................51
- 
+
 
 Abb. 40: demontierte Primärfedern ......................................................................................51
- 
+
 
 Abb. 41: Demontage der Luftfederbälge vom Zusatzfedersystem ........................................51
- 
+
 
 Abb. 42: Zug-/Druckstangen ................................................................................................52
- 
+
 
 Abb. 43: Bremsbauteile ........................................................................................................52
- 
+
 
 Abb. 44: Zug-/Druckstange gebrochen.................................................................................54
- 
+
 
 Abb. 45: Zug-/Druckstange Profilquerschnitt ........................................................................54
- 
+
 
 Abb. 46: grafische Darstellung der EFR-Daten.....................................................................56
- 
+
 
 Abb. 47: Anordnung der DG A–E .........................................................................................57
- 
+
 
 Abb. 48: Ablauf anhand von Entgleisungsspuren .................................................................58
- 
+
 
 Abb. 49 seitliche Laufspur eines Spurkranzes an der linken Backenschiene (rechte Seite) .59
- 
+
 
 Abb. 50 Ende der Laufspur des Spurkranzes .......................................................................59
- 
+
 
 Abb. 51: rekonstruierter Entgleisungsvorgang......................................................................60
- 
+
 
 Abb. 52: Entgleisungsspuren im Bereich der Stützknaggen der linken Zunge......................61
- 
 
 Seite 7 von 81 
-
  
   
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -1418,13 +890,11 @@ Seite 7 von 81
  
  
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
 
 Abb. 53: Darstellung bei Microschliff 500 .............................................................................67 
 
 Abb. 54: Kontaktpunkt neues Radprofil / neue Zunge, ca. 250 mm nach Zungenanfang .....68 
-
 Abb. 55: Kontaktpunkt neues Radprofil / verformte Zunge, ca. 250 mm nach Zungenanfang
 
  .............................................................................................................................................68 
@@ -1456,21 +926,9 @@ Tabelle 2: Kenndaten ICE 2 .....................................................
 Tabelle 3: Erläuterungen zum rekonstruierten Entgleisungsvorgang ....................................60 
 
 Anlagen:  
-
 01 
-
 DB Systemtechnik, Mehrkörpersimulation ICE2 
-
 Seite 8 von 81 
-
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -1481,157 +939,66 @@ Seite 8 von 81
  
  
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
-
 Abkürzungsverzeichnis
- 
 
 AEG 
-
  AFB 
-
 Asig  
-
  Alv 
-
 BEU 
-
 Bf  
-
 BMVI 
-
 BPol 
-
  BÜ 
-
 Allgemeines Eisenbahngesetz 
-
 Automatische Fahr/Bremssteuerung  
-
 Ausfahrsignal  
-
 Anlagenverantwortlicher 
-
 Bundesstelle für Eisenbahnunfalluntersuchung  
-
 Bahnhof  
-
 Bundesministerium für Verkehr und digitale Infrastruktur 
-
 Bundespolizei 
-
 Bahnübergang  
-
 CIR-ELKE 
-
 Computer Integrated Railroading  
-
  DG 
-
  DSK 
-
 Drehgestell 
-
 Datenspeicherkassette 
-
 DKW  
-
 Doppelte Kreuzungsweiche 
-
  EBA 
-
  EBL 
-
 EBO 
-
  EFR 
-
  EIU 
-
 ERA 
-
 ESO 
-
 Esig  
-
 EUB 
-
 EUV 
-
 EVU 
-
 FHT  
-
  Fdl 
-
  Fb 
-
 Eisenbahn-Bundesamt 
-
 Eisenbahnbetriebsleiter 
-
 Eisenbahn-Bau- und Betriebsordnung  
-
 Elektronische Fahrtenregistrierung  
-
 Eisenbahninfrastrukturunternehmen 
-
 Europäische Eisenbahnagentur 
-
 Eisenbahn-Signalordnung  
-
 Einfahrsignal 
-
 Eisenbahnunfalluntersuchungsstelle des Bundes 
-
 Eisenbahn-Unfalluntersuchungsverordnung  
-
 Eisenbahnverkehrsunternehmen 
-
 Fahrstraßenhilfstaste 
-
 Fahrdienstleiter 
-
 Fahrbahn 
-
 Seite 9 von 81 
-
  
   
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -1665,140 +1032,60 @@ Seite 9 von 81
  
  
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
-
  FR 
-
 Fahrtrichtung  
-
 GSM-R 
-
 Global System Mobile – Rail 
-
 Hbf  
-
  H/V 
-
 LST  
-
 Lt/d 
-
 LZB 
-
  MKS 
-
  MR 
-
  MTD 
-
 MW  
-
  NE 
-
 Nmg  
-
  PZB 
-
  Ril 
-
  RS 
-
  SB 
-
 SMS 
-
 TDG 
-
 Tf  
-
  TK 
-
  Tz 
-
  Vw 
-
  VzG 
-
  WM 
-
 Hauptbahnhof  
-
 Haupt- und Vorsignal 
-
 Leit- und Sicherungstechnik  
-
 Lasttonnen pro Tag  
-
 Linienzugbeeinflussung  
-
 Mehrkörpersimulation 
-
 Messrichtung  
-
 Maschinentechnisches Display 
-
 Mittelwagen 
-
 Nichtbundeseigene Eisenbahn 
-
 Notfallmanager 
-
 Punktförmige Zugbeeinflussung  
-
 Richtlinie 
-
 Radsatz 
-
 Sicherheitsbehörde 
-
 Sicherheitsmanagementsystem  
-
 Triebdrehgestell 
-
 Triebfahrzeugführer 
-
 Triebkopf  
-
 Triebzug  
-
 Verwindung  
-
 Verzeichnis der zulässigen Geschwindigkeiten 
-
 Weichenmitte 
-
 Seite 10 von 81 
-
  
   
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -1825,64 +1112,32 @@ Seite 10 von 81
  
  
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
-
 1 
-
 Zusammenfassung 
-
 1.1 
-
 Kurzbeschreibung des Ereignisses 
-
 Am  01.05.2017  entgleiste  um  ca.  18:46  Uhr  der  Zug  ICE  945  des  Eisenbahnverkehrs-
-
 unternehmens  (EVU)  DB  Fernverkehr  AG  bei  der  Einfahrt  nach  Gleis  8  des  Bahnhofs  (Bf) 
-
 Dortmund  Hauptbahnhof  (Hbf)  im  Bereich  der  Doppelten  Kreuzungsweiche  (DKW)  36.  Der 
-
 aus  einem  Triebkopf  (TK),  sechs  Mittelwagen  (MW)  und  einem  Steuerwagen  (SW)  beste-
-
 hende  Zug  mit  der  unternehmensinternen  Bezeichnung  „Tz  229“  entgleiste  mit  den  letzten 
-
 beiden Wagen. 
-
 1.2 
-
 Folgen 
-
 Bei dem Ereignis wurden zwei Personen leicht verletzt. Die Zugentgleisung beschädigte den 
-
 Oberbau und Anlagen der Leit- und Sicherungstechnik (LST) über eine Länge von ca. 400 m 
-
 in erheblichem Maß. Die beiden entgleisten Wagen wiesen starke Beschädigungen an den 
-
 Laufwerken und Wagenkästen auf.  
-
 Aufgrund der notwendigen Streckensperrung und durch die Zerstörungen im Einfahrbereich 
-
 des Bf Dortmund Hbf kam es zu zahlreichen Zugausfällen und -umleitungen. 
-
 1.3 
-
 Ursachen 
-
 Ursache  für  die  Entgleisung  war  das  unbeabsichtigte  Anheben  eines  Rades  des  vorletzten 
-
 Wagens im Bereich der linken Weichenzungenvorrichtung der DKW 36 a. Das unbeabsich-
-
 tigte Anheben des Rades wurde durch einen impulsartigen Stoß in Kombination mit Verän-
-
 derungen an der Kontaktfläche Rad/Weichenzunge ausgelöst. 
-
 Seite 11 von 81 
-
- 
- 
- 
- 
- 
  
  
  
@@ -1890,35 +1145,13 @@ Seite 11 von 81
  
  
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
-
 Abb. 1: Unfallstelle Dortmund Hbf 
 Quelle: BPol 
-
 Abb. 2: Aufgleisarbeiten ICE 945 
-
 Seite 12 von 81 
-
  
   
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -1935,89 +1168,51 @@ Seite 12 von 81
  
  
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
-
 2 
-
 Vorbemerkungen 
-
 2.1 
-
 Organisatorischer Hinweis 
-
 Mit der Richtlinie RL 2004/49/EG zur Eisenbahnsicherheit in der Gemeinschaft (Eisenbahn-
 
 sicherheitsrichtlinie)  wurden  die  Mitgliedstaaten  der  Europäischen  Union  verpflichtet,  unab-
 
 hängige Untersuchungsstellen für die Untersuchung bestimmter gefährlicher Ereignisse ein-
-
 zurichten. 
-
 Diese  Richtlinie  wurde  mit  dem  5.  Gesetz  zur  Änderung  eisenbahnrechtlicher  Vorschriften 
-
 vom 16.04.2007 umgesetzt und die Eisenbahnunfalluntersuchungsstelle des Bundes (EUB) 
 
 eingerichtet.  Die  weitere  Umsetzung  der  Sicherheitsrichtlinie  erfolgte  durch  die  Eisenbahn-
 
 Unfalluntersuchungsverordnung (EUV) vom 05.07.2007. 
-
 Mit dem Gesetz zur Neuordnung der Eisenbahnunfalluntersuchung vom 27.06.2017 wurden 
-
 die rechtlichen Grundlagen zur Errichtung der Bundesstelle für Eisenbahnunfalluntersuchung 
-
 (BEU)  geschaffen.  Durch  das  Gesetz  wurden  das  Allgemeine  Eisenbahngesetz  (AEG)  und 
-
 das  Bundeseisenbahnverkehrsverwaltungsgesetz  (BEVVG)  geändert,  wobei  Zuständig-
-
 keiten und Kompetenzen auf die neue Behörde, die BEU, übertragen wurden. Mit Errichtung 
-
 der BEU, bestehend aus der Leitung der EUB im Bundesministerium für Verkehr und digitale 
-
 Infrastruktur  (BMVI)  und  der  Untersuchungszentrale  der  EUB  im  Eisenbahn-Bundesamt 
-
 (EBA),  wurde  die  EUB  aufgelöst.  Mit  dem  Organisationserlass  des  Bundesministeriums  für 
-
 Verkehr  und  digitale  Infrastruktur  zur Errichtung der Bundesstelle für Eisenbahnunfallunter-
-
 suchung  vom  14.07.2017  wurde  die  BEU  als  selbstständige  Bundesoberbehörde  im  Ge-
-
 schäftsbereich des BMVI zur Erfüllung der Aufgaben nach § 7 BEVVG errichtet. 
-
 Die  Aufgaben  zur  Untersuchung  bestimmter  gefährlicher  Ereignisse  im  Eisenbahnbetrieb 
-
 gingen dabei nahtlos von der EUB auf die BEU über. 
-
 Da das vorliegende Ereignis vor dem Tag der Errichtung der BEU am 14.07.2017 lag, wur-
-
 den Aufgaben, wie die Untersuchung vor Ort, durch die EUB durchgeführt. Andere Arbeiten, 
-
 wie  bspw.  die  Erstellung  dieses  Untersuchungsberichts,  erfolgten  nach  dem  Gründungstag 
-
 und  wurden  deshalb  von  der  BEU  übernommen.  Aus  diesem  Grund  wird  im  vorliegenden 
-
 Bericht sowohl die Bezeichnung „EUB“ als auch „BEU“ verwendet.  
-
 Näheres hierzu ist im Internet unter >> www.beu.bund.de << zu finden. 
-
 Seite 13 von 81 
-
- 
- 
- 
- 
- 
  
  
  
  
  
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
-
 2.2  
-
 Ziel  der  Eisenbahn-Unfalluntersuchung  
 
 Ziel  und  Zweck  der  Untersuchungen  ist  es,  die  Ursachen  von  gefährlichen  Ereignissen  aufzuklären  und  daraus  Hinweise  zur  Verbesserung  der  Sicherheit  abzuleiten.  Untersuchungen  
@@ -2027,46 +1222,22 @@ der   BEU   dienen   nicht   dazu,   ein   Verschulden   festzustellen   oder   
 sonstiger   zivilrechtlicher   Ansprüche   zu   klären,   und   werden   unabhängig   von   jeder   gerichtlichen  Untersuchung  durchgeführt.   
 
 Die   Untersuchung   umfasst   die   Sammlung   und   Auswertung   von   Informationen,   die   Erarbeitung  von  Schlussfolgerungen  einschließlich  der  Feststellung  der  Ursachen  und  ggf.  die  Abgabe   von   Sicherheitsempfehlungen.   Die   Vorschläge   der   Untersuchungsstelle   zur   Vermeidung   von   Unfällen   und   Verbesserung   der   Sicherheit   im   Eisenbahnverkehr   werden   der   Sicherheitsbehörde   und,   soweit   erforderlich,   anderen   Stellen   und   Behörden   oder   Mitgliedstaaten  der  EU  in  Form  von  Sicherheitsempfehlungen  mitgeteilt.  
-
 2.3  
-
 Beteiligte  und  Mitwirkende  
-
 Am  Ereignis  waren  beteiligt:  
-
 •   DB  Fernverkehr  AG  als  Eisenbahnverkehrsunternehmen  (EVU)  
-
 •   DB  Netz  AG  als  Eisenbahninfrastrukturunternehmen  (EIU)  
-
 Im  Rahmen  der  Sachverhaltsermittlung  und  Ursachenerforschung  wurden  folgende  externe  
-
 Stellen  einbezogen:  
-
 •   Eisenbahn-Bundesamt  (EBA)  
-
 •   DB  Fahrzeuginstandhaltung  GmbH   
-
 •   DB  Systemtechnik  GmbH,  Standorte  Minden  und  Kirchmöser  
-
 •   RWTH  Aachen,  Institut  für  Werkstoffanwendungen  im  Maschinenbau   
-
 •   Fa.  SIMTES  KG,  Bielefeld  
-
 •   Fa.  Siemens  AG,  Braunschweig  
-
 Seite 14 von 81 
-
  
   
-  
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -2076,104 +1247,55 @@ Seite 14 von 81
  
  
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
-
 3 
-
 Ereignis 
 
 In  den  folgenden  Kapiteln  werden  der  Ablauf  bis  zum  Eintreten  des  Ereignisses  sowie  die 
 
 äußeren Umstände detailliert geschildert.  
-
 3.1 
-
 Hergang 
-
 Am 01.05.2017 um ca. 18:46 Uhr entgleiste Zug ICE 945 des EVU DB Fernverkehr AG bei 
-
 der Einfahrt in Gleis 8 des Bf Dortmund Hbf auf Höhe der DKW 36. Gleis 8 ist ein durchge-
-
 hendes Hauptgleis und gehört zur Strecke 2158. 
-
 Der Zug der Baureihe ICE 2 war auf dem Weg von Düsseldorf Hbf nach Berlin Ostbahnhof. 
-
 Der nächste planmäßige Halt war Dortmund Hbf. 
-
 Der Ereignisort gehört zum Streckennetz des EIU DB Netz AG. Der Betrieb wird nach dem 
-
 Regelwerk der DB AG, Richtlinie (Ril) 408 „Fahrdienstvorschrift“, durchgeführt. Die betroffe-
 
 ne  Strecke  2158  ist  als  zweigleisige  Hauptbahn  ausgeführt.  Sowohl  die  freie  Strecke  als 
 
 auch der Bf Dortmund Hbf sind mit Haupt-/Vorsignal (H/V) und punktförmiger Zugbeeinflus-
-
 sung (PZB) ausgerüstet. Der Bf Dortmund Hbf beginnt am Einfahrsignal (Esig) D540 in km 
-
 163,2.  Ab  Esig  D540  gilt  bei  Signalstellung  Hp  1  gemäß  Verzeichnis  der  zulässigen  Ge-
-
 schwindigkeiten (VzG) eine zulässige Höchstgeschwindigkeit (Hg) von 80km/h. ICE 945 war 
-
 planmäßig unterwegs und sollte laut Fahrplan um 18:46 Uhr im Bf Dortmund Hbf in Gleis 8 
-
 ankommen. Bis zum Zeitpunkt des Ereignisses gab es keine Störungen im Betriebsablauf.  
-
 Der ICE 945 bestand aus einem TK, sechs MW und einem SW. Die Zuglänge betrug 205 m. 
-
 Laut  EFR-Datenauswertung  lag die Geschwindigkeit zum Zeitpunkt der Entgleisung bei ca. 
-
 70 km/h und damit unter der laut Signalisierung zulässigen Hg von 80 km/h. 
-
 Aufgrund  der  großen  Zerstörung  der  Gleisanlagen  und  der  sich  teilweise  überlagernden 
-
 Entgleisungsspuren  war  es  nicht  möglich,  eine  durchgängige  Rekonstruktion  des  Ereignis-
-
 ses herzustellen. Anhand der vorgefundenen Schäden zeigte sich aber, dass es in der DKW 
-
 36 a/b bei km 163,683 zu der Entgleisung gekommen sein musste. 
-
 Nach der Entgleisung und der Bedienung einer Notbremse kam der Zug nach ca. 300 m mit 
-
 TK  und  vier  MW  am  Bahnsteig  zum  Halten.  Die  restlichen  Wagen  standen  vor  dem  Bahn-
-
 steig.  Wegen  des  zweispurigen  Laufs  wurden  der  Oberbau  und  insgesamt  acht  Weichen 
-
 sowie dazugehörige LST-Anlagen zerstört. 
-
 Seite 15 von 81 
-
- 
- 
- 
- 
- 
  
  
  
  
  
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
-
 Abb. 3: Lageplan 
 Quelle: IVL-Plan DB Netz AG bearbeitet durch BEU 
-
 Seite 16 von 81 
-
  
   
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -2184,221 +1306,85 @@ Seite 16 von 81
  
             
  
- 
- 
             
  
  
  
  
- 
- 
- 
- 
-                 
                  
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
-
 3.2 
-
 Todesopfer, Verletzte und Sachschäden 
-
 Bei dem Ereignis wurden zwei Personen leicht verletzt.  
-
 Schäden der Infrastruktur 
-
 Reparaturaufwendungen: 
-
 ca. 1,18 Mio. € 
-
 Weichen und Gleise:  
-
 ca. 2,18 Mio. €  
-
 Schäden an den Fahrzeugen 
-
 Reparaturaufwendungen: 
-
 ca. 1,32 Mio. € 
-
 Die  Instandsetzung  der  erheblichen  Beschädigungen  an  den  Gleisanlagen  führte  zu  mehr-
-
 wöchigen Einschränkungen im Betriebsablauf. 
-
 3.3 
-
 Wetterbedingungen 
-
 Zum Zeitpunkt des Ereignisses war der Himmel stark bewölkt. Es herrschte schlechte Sicht 
-
 durch diesige Luft. Es kam zu vereinzelten Regenfällen. Die Temperatur lag bei ca. 16°C. 
-
 4 
-
 Untersuchungsprotokoll 
-
 Während der Sachverhaltsermittlung waren das EBA, Unternehmen der DB AG, die RWTH 
-
 Aachen,  die  Fa.  Siemens  AG  sowie  die  Fa.  SIMTES  KG  an  der  Erstellung  von  fachlichen 
-
 Expertisen  beteiligt.  Die  Ergebnisse  sind  in  den  nachfolgenden  Kapiteln  ohne  gesonderte 
-
 Kennzeichnung  eingeflossen,  Zitate  sind  jedoch  gekennzeichnet.  Die  erstellten  Expertisen 
-
 liegen der BEU vollständig vor. 
-
 4.1 
-
 Zusammenfassung von Aussagen  
-
 Gegenüber dem jeweiligen Arbeitgeber kam es zu folgenden Aussagen: 
-
 Zugpersonal ICE 945 
-
 Übereinstimmend  sagte  das  Zugpersonal  des  ICE  945  sinngemäß  aus,  dass  es  kurz  vor 
-
 dem  Bahnsteig  des  Bf  Dortmund  Hbf  zu  starken  Schlinger-  und  Rüttelbewegungen  im  Zug 
-
 gekommen sei. Daraufhin habe der Zugchef die Notbremse betätigt. 
-
 Triebfahrzeugführer (Tf) ICE 945 
-
 Nach Aussage des Tf sei es seit Beginn der Zugfahrt ICE 945 ab Düsseldorf Hbf zu keinen 
-
 Unregelmäßigkeiten  gekommen.  Er  habe  die  Geschwindigkeit  ab  dem  Esig  D540  des 
-
 Bf Dortmund Hbf auf 80 km/h reguliert und sei dann ohne Auffälligkeiten Richtung Bahnsteig 
-
 gefahren.  Kurz  vor  dem  Bahnsteig  sei  es  zu  einer  Notbremsung  gekommen,  die  er  sofort 
-
 Seite 17 von 81 
-
- 
- 
- 
- 
- 
  
  
  
  
  
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
-
 unterstützt  habe.  Im  Anschluss  habe  er  einen  Notruf  abgesetzt und das Zugpersonal informiert. 
-
 Fahrdienstleiter (Fdl) Stellwerk Dhf 
-
 Beide Fdl des Stellwerks Dhf sagten aus, dass es bei der Einstellung der Fahrstraße und der 
-
 Fahrtstellung des Esig D540 zu keinen ungewöhnlichen Vorkommnissen gekommen sei. Bei 
-
 der Einfahrt von Zug ICE 945 sei es an der Stelltafel zu akustischen und optischen Auffahrmeldungen  für  die  DKW  36  gekommen,  und  unmittelbar  danach  seien  weitere  Auffahrmeldungen  angezeigt  worden.  Bei einem  Blick  aus  dem  Fenster  habe  man  gesehen,  dass  die 
-
 beiden  letzten  Wagen  des  ICE  945  geschüttelt  worden  und  Schottersteine  umhergeflogen 
-
 seien. 
-
 4.2 
-
 Notfallmanagement 
-
 Nach § 4 Abs. 3 Allgemeines Eisenbahngesetz (AEG) haben die Eisenbahnen die Verpflichtung, an Maßnahmen des Brandschutzes und der technischen Hilfeleistung  mitzuwirken. In 
-
 einer Vereinbarung zwischen den Innenministerien der Länder und der DB AG hat man sich 
-
 auf  eine  Verfahrensweise  verständigt.  Für  die  DB  Netz  AG  gelten  die  entsprechenden 
-
 Brand- und Katastrophenschutzgesetze der Länder. Das Notfallmanagement der DB AG ist 
-
 in der Richtlinie (Ril) 423 näher beschrieben und geregelt. 
-
 Die Reisenden der entgleisten Wagen konnten den Zug durch die vorderen, nicht entgleisten 
-
 Wagen mithilfe des Zugpersonals über den Bahnsteig  verlassen. Da keine Person schwerwiegend  verletzt  wurde  und  nach  dem  Unfall  keine  akuten  Gefahren  abzuwehren  waren, 
-
 wurde auf eine weiterführende Untersuchung des Notfallmanagements verzichtet. 
-
 4.3 
-
 Untersuchung der Infrastruktur 
-
 Der Oberbau im Gleisbereich vor der Entgleisungsstelle kann neben kleineren Mängeln augenscheinlich als intakt beschrieben werden. Gleise und Weichen machen trotz starker Beanspruchung durch die hohe Anzahl von Zugfahrten einen soliden Eindruck. Im Bereich vor 
-
 der Entgleisungsstelle sind Schienen mit den Profilen UIC 60 und UIC 54 auf Holz und Betonschwellen  im  Schotterbett  verlegt.  Die  DKW  36  der  Bauform  54-190-1:9  ist  auf  Betonschwellen montiert. 
-
 Von  der  aus  Richtung  Bochum  kommenden  freien  Strecke  2158  beginnt  der  Bf  Dortmund 
-
 Hbf  am  Esig  D540 in km 163,2. Die Trassierung  vom Esig  D540 bis zur Entgleisungsstelle 
-
 besteht aus den folgenden Elementen: 
-
 Seite 18 von 81 
-
  
   
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -2456,114 +1442,6 @@ Seite 18 von 81
  
  
   
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -2672,37 +1550,23 @@ Seite 18 von 81
  
  
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
-
 •   Gleisbogen  nach  rechts  mit  r  =  760  m  
-
 •   Übergangsbogen  nach  rechts  
-
 •   Gerade  
-
 •   Übergangsbogen  nach  links  
-
 •   Gleisbogen  nach  links  mit  r  =  1136,3  m  
-
 •   Gerade  
-
 Der  Gleisbogen  endet  ca.  4  m  vor  dem  technischen  Weichenanfang.  Kurz  nach  Beginn  des  
-
 geraden   Gleisabschnitts   waren   im  Zungenbereich  der  DKW  36  a  erste  Entgleisungsspuren  
-
 erkennbar.  
-
 4.3.1  
-
 DKW  36  (DKW  54-190-1:9)  Dortmund  Hbf  
-
 Technische  Daten  
 
 Die  DKW  36  ist  in  der  Bauform  54-190-1:9  ausgeführt.  Sie  ist  mit  vier  innenliegenden  Weichenzungen   ausgestattet,   auf   Betonschwellen   montiert   und   in   km   163,7   der   Strecke   2158  
 
 eingebaut.  Die  gesamte  DKW  zeigte  keine  augenscheinlichen  Auffälligkeiten.  
-
 Letzte  umfassende  Erneuerung  bzw.  Instandsetzung   
 
 Die  letzte  umfassende  Erneuerung  der  DKW  36  erfolgte  im  Jahr  2014.  Keines  der  vorgelegten  Prüfzeugnisse  der  einzelnen  Bauteile  war  zu  beanstanden.  Über  die  Qualität  der  durchgeführten   Bauarbeiten   an   sich   liegen   der   BEU  die  geometrische  Abnahme  der  DKW  durch  
@@ -2710,28 +1574,13 @@ Die  letzte  umfassende  Erneuerung  der  DKW  36  erfolgte  im  Jahr  2014.  Ke
 den   Netzbezirk   vom   12.06.2014   und   ein   Messschrieb   der   Messfahrt   einer   Stopfmaschine  
 
 vom  Typ  08-475  4S  vor.  Bei  der  Prüfung  der  vorgelegten  Unterlagen  wurden  keine  unzulässigen  Überschreitungen  festgestellt.  
-
 Die   letzten   durchgeführten   Instandsetzungsarbeiten   in   der   DKW   36   stammen   vom  
-
 10.04.2017  (Schienenwechsel  bis  an  die  B90-Schwellen  heran)  und  vom  09.07.2016  (Beseitigung  eines  F1-Fehlers  im  Bereich  c/d).  
-
 Zustand  der  Weiche  DKW  36  nach  dem  Ereignis  
-
 Erste  etwa  55  Minuten  nach  dem  Ereignis  aufgenommene  Lichtbilder  der  Bundespolizei  belegen,  dass  sich  die  DKW  36  im  Teil  a  nicht  in  einer  für  die  Zugfahrt  des  ICE  945  eingestellten  Lage  befand.   
-
 Seite 19 von 81 
-
  
   
-  
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -2741,9 +1590,7 @@ Seite 19 von 81
  
  
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
-
 Abb. 4: Weichenlage nach dem Ereignis 
 Quelle: BPol, bearbeitet durch BEU 
 
@@ -2758,30 +1605,9 @@ Bei  den  Untersuchungen  vor  Ort  wurde  festgestellt,  dass  sich  die  DKW  
 Zugfahrt   erforderlichen   Endlage   a/c   befand.   Im   geraden   Strang   der   befahrenen   DKW   war  
 
 eine   ungewöhnlich   ausgeprägte   Anhaftung   von   Spurkranzschmierfett   an   der   spitz   befahrenen,  ursprünglich  anliegenden  linken  Weichenzunge  auffällig.  
-
 Seite 20 von 81 
-
  
   
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -2800,19 +1626,13 @@ Seite 20 von 81
  
  
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
-
 Nach  Reinigung  der  Zunge  wurde  eine  Gratbildung  und  Materialverformung  erkennbar.  Eindeutige   Aufkletterspuren   eines   Rades   waren   aber   nicht   zu   erkennen.   Im   weiteren   Verlauf  
 
 wurden  erste  Spuren  an  dieser  Zunge  sowie  an  Stützknaggen  und  Radlenker  der  DKW  gefunden,   die   auf   einen   nicht   ordnungsgemäßen   Lauf   mindestens   eines   Radsatzes   (RS)   hindeuteten.  
-
 Abb. 5: Schmierfettrückstände 
-
 Hinter  den  Zungenspitzen  waren  zwischen  den  Backenschienen  und  Zungen  beidseitig  Anfahrspuren  erkennbar.  
-
 Eine  Sonderinspektion  der  Weiche  auf  etwaige  Abweichungen  vom  Sollzustand  wurde  noch  
-
 am  Ereignisabend  durchgeführt.  Das  probeweise  Umstellen  der  Weiche  –  sowohl  von  Hand  
 
 als   auch   elektrisch   –   war   problemlos   möglich.   Die   Weiche   stellte   regelkonform   um,   lief   in  
@@ -2828,22 +1648,9 @@ Mängel  festgestellt.  Lediglich  im  Weichenteil  c/d  wurden  Überschreitung
 und   Spurweite   dokumentiert,   die   allerdings   weit   hinter   der   Entgleisungsstelle   lagen   und   als  
 
 eine  Folge  der  Entgleisung  einzustufen  waren.  
-
 Seite 21 von 81 
-
  
   
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -2855,37 +1662,12 @@ Seite 21 von 81
  
  
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
-
 Abb. 6: linke Zunge mit Anfahrspuren im vorderen Bereich 
-
 Abb. 7: linke Zunge mit Anfahrspuren im hinteren Bereich 
-
 Seite 22 von 81 
-
  
   
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -2905,36 +1687,12 @@ Seite 22 von 81
  
  
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
-
 Abb. 8: rechte Zunge, Schleifspuren am Zungenrücken 
-
 Abb. 9: Radlenker und Knaggen vor Knieschiene rechts, erste Entgleisungsschäden 
-
 Seite 23 von 81 
-
  
   
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -2953,37 +1711,12 @@ Seite 23 von 81
  
  
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
-
 Abb. 10: Anschlagspur rechter Radlenker im Bereich der Knieschiene 
-
 Abb. 11: Knieschiene rechts, weitere Entgleisungsspuren 
-
 Seite 24 von 81 
-
  
   
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -3003,57 +1736,16 @@ Seite 24 von 81
  
  
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
-
 4.3.1.1  Auffälligkeiten vor und an der Entgleisungsstelle 
-
 Auf  den  folgenden  Abbildungen  sind  die  Gleislagefehler  vor  der  Entgleisungsstelle  festgehalten. 
-
 Abb. 12: Übersicht der Gleislage vor der Entgleisungsstelle 
-
 Abb. 13: Längshöhenfehler (> SR 100) am Über-
 gang Holz-/Betonschwellen 
-
 Abb. 14: Verwindungsfehler (> SR 100) am Isolierstoß links 
-
 Seite 25 von 81 
-
  
   
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -3087,39 +1779,19 @@ Seite 25 von 81
  
  
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
-
 Abb. 15: Richtungsfehler (< SR 100) 
-
 Die  Abbildungen  zeigen  den  vorgefundenen  Zustand  nach  der  Entgleisung.  Die Bewertung 
-
 der  dargestellten  Gleislagefehler  erfolgte  anhand  der  Gleisgeometriemessung  vom 
-
 15.05.2017. 
-
 Im Rahmen der Untersuchungen wurde ein Klaffen zwischen Stützknaggen und linker Weichenzunge  festgestellt.  Aus  den  folgenden  Abb.  16  1–4  wird  ersichtlich,  dass  am  Steg  der 
 
 linken  Zunge  keine  Kontaktspuren  der  Stützknaggen  vorhanden  waren.  Dies  belegt,  dass 
-
 die Zunge schon vor der Entgleisung nicht bündig an den Stützknaggen anlag und das vorgefundene  Klaffen  keine  alleinige  Folge  der  Entgleisung  sein  konnte. Abb. 17 und Abb. 52 
-
 zeigen deutliche Reibspuren auf dem Gleitstuhl, die von der Bewegung der Zunge beim Befahren herrührten. 
-
 Seite 26 von 81 
-
  
   
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -3141,19 +1813,6 @@ Seite 26 von 81
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
   
  
  
@@ -3196,67 +1855,11 @@ Seite 26 von 81
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
-
 Seite 27 von 81
- 
 
- 
   
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -3267,31 +1870,11 @@ Seite 27 von 81
  
  
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
-
 Abb. 16: Darstellungen 1–4, linke Zunge im Bereich der Stützknaggen 
-
 Seite 28 von 81 
-
  
   
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -3308,44 +1891,16 @@ Seite 28 von 81
  
  
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
-
 Abb. 17: linke Weichenzunge
- 
 
 Auf Abb. 18 sind die festgestellten Auffälligkeiten an der DKW zusammengefasst.
- 
 
 Abb. 18: Auffälligkeiten an der DKW 36
- 
 
 Seite 29 von 81
- 
 
- 
   
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -3367,9 +1922,7 @@ Seite 29 von 81
  
  
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
-
  1 
  2 
  3 
@@ -3389,11 +1942,8 @@ weitere Folgen: zweispuriger Lauf, nachfolgendes DG fährt nach links und entgle
 weitere Folgen: zweispuriger Lauf, nachfolgendes DG fährt nach links und entgleist   
 
 Tabelle 1: Zusammenfassung der Auffälligkeiten DKW 36 
-
 4.3.2  
-
 Auswertung  der  Regelinspektionsprotokolle  gemäß  Ril  821  
-
 Gleisgeometriemessung  
 
 Die  Prüfung  der  Gleisgeometrie  mit  Gleismessfahrzeugen  nach  Ril 8  21.2001  wurde  fristgerecht  durchgeführt.  
@@ -3403,11 +1953,8 @@ Zuständig   für   die   Planung   und   die   Durchführung   der   Gleisgeome
 Vertreter  (siehe  Ril  821.2001  4  (3))  hat  sich  in  seinem  Zuständigkeitsbereich  an  der  Regelinspektionsfahrt   zu   beteiligen.   Im   Rahmen   der   Sachverhaltsermittlung   wurden   die   Prüfprotokolle   der   letzten   drei   Inspektionen   im   betroffenen  Gleisbereich  gemäß  Ril  821.2001  ausgewertet.  Die  von  der  DB  Netz  AG  in  Abb.  19  und  20  zur  Verfügung  gestellten  Messergebnisse  
 
 sind  nicht  die  Originalmessergebnisse.  Die  vorliegenden  Messergebnisse  basieren  auf  dem  
-
 DB-Netz-AG-internen  Intelligenten  Inspektionssystem  (IIS)  und  stellen  zwei  sich  überlagernde  Graphen  der  Regelinspektionen  vom  12.07.2016  und  vom  31.01.2017  dar.  Die  überlagerte  Darstellung  ließ  eine  differenzierte  Bewertung  der  Einzelmessungen  nicht  zu.  
-
 Festgestellt  wurde,  dass  die  Messfahrt  vom  22.01.2016  keine  relevanten  Überschreitungen  
-
 aufwies.   Bei   den   Messfahrten   vom   12.07.2016   und   vom   31.01.2017   wurden   jeweils  
 
 SR100  Überschreitungen  bei  der  Längshöhe  und  bei  der  Messfahrt  am  31.01.2017  zusätzlich  
@@ -3415,56 +1962,9 @@ SR100  Überschreitungen  bei  der  Längshöhe  und  bei  der  Messfahrt  am  3
 auch   eine   SR100  Überschreitung   bei   der   Verwindung   festgestellt.   Protokolle   durchgeführter  
 
 Instandsetzungen  wurden  der  BEU  nicht  vorgelegt.   
-
 Seite 30 von 81 
-
  
   
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -3509,28 +2009,14 @@ Seite 30 von 81
  
  
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
-
 Abb. 19: Darstellung der Inspektionsmessungen aus IIS, Teil I
- 
 
 Abb. 20: Darstellung der Inspektionsmessungen aus IIS, Teil II
- 
 
 Seite 31 von 81 
-
  
   
-  
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -3547,113 +2033,32 @@ Seite 31 von 81
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
    
- 
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
 
 Abb. 21: Auszug Überschreitungsprotokoll RAILab vom 31.01.2017 
 Quelle: DB Netz AG, bearbeitet durch BEU 
 
 Gleisbegehung 
-
 Die  Gleisbegehung  nach  Ril  821.2003  wurde  fristgerecht  durchgeführt.  Das  Gleis  wurde 
-
 letztmalig  am  22.02.2017  durch  einen  Meister  Fahrbahn  inspiziert,  wobei  im  Bereich  der 
-
 DKW 36 keine Mängel befundet wurden. 
-
 Nach Regelwerk hat der Alv die Vorgabe, die Gleise mindestens alle 24 Monate zu inspizieren.  Bei  der  letzten  Gleisbegehung  vor  der  Entgleisung,  die  am  22.02.2017  durch  einen 
-
 Meister  Fahrbahn  erfolgte,  wurde  auf  dem  Inspektionsnachweis  handschriftlich  ergänzt, 
-
 dass auch der Alv daran teilnahm. 
-
 Gleisbefahrungen 
-
 Die  Gleisbefahrungen  nach  Ril  821.2004  wurden  fristgerecht  durchgeführt.  Hierbei  wurden 
-
 im Bereich der DKW 36 keine Mängel befundet. 
-
 Für  die  Planung  und  die  Durchführung  der  Gleisbefahrungen  ist  der  Alv  zuständig.  Abweichend von den Vorgaben der Ril wurden die Gleisbefahrungen aber nicht vom Alv, sondern 
-
 von anderen Instandhaltungspersonalen durchgeführt. 
-
 Ultraschallprüfung 
-
 Die  Ultraschallprüfungen  nach  Ril 821.2007  wurden  fristgerecht  durchgeführt.  Die  DKW  36 
-
 wurde vor dem Ereignistag letztmalig am 16.03.2017 inspiziert. Hierbei wurden an der a-/b-
-
 Seite keine für die Entgleisung relevanten Befunde festgestellt. 
-
 Seite 32 von 81 
-
  
   
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -3714,47 +2119,6 @@ Seite 32 von 81
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  
  
  
  
@@ -3789,50 +2153,28 @@ Seite 32 von 81
  
  
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
-
 Weicheninspektion 
-
 Die Inspektionen der DKW  36 nach Ril 821.2005 wurden nur teilweise fristgerecht durchgeführt. Die DKW 36 wurde vor der Entgleisung letztmalig am 27.02.2017 inspiziert, wobei keine Überschreitungen der Inspektionsmaße oder andere Mängel festgestellt wurden. 
-
 Die DKW 36 wurde im Juni 2014 erneuert und für den Betrieb freigegeben. Die erste Regelinspektion  hätte  demnach  gemäß  Regelinspektionsabstand  im  November  2014  erfolgen 
-
 müssen. 24 Monate später, also im November 2016, war neben der turnusmäßigen Regelinspektion auch innerhalb von vier Wochen nach Bewertung der Messergebnisse eine augenscheinliche  Begutachtung  der  Weiche  durch  den  Alv  durchzuführen.  Die  Regelinspektion 
-
 konnte  nachgewiesen  werden, doch die Durchführung  der augenscheinlichen Kontrolle, die 
-
 eine  Aufgabe  des  Alv  gewesen  wäre,  wurde  stattdessen  durch  den  Teamleiter  Fahrbahn 
-
 durchgeführt. 
-
 Die  Regelinspektion  einer  Weiche  beinhaltet  die  Messung  und  Auswertung  der  Spurführungsmaße, der gegenseitigen Höhenlage, der Zungenprüfung und des materiellen und geometrischen Zustandes der jeweiligen Konstruktionsform. Entsprechend der Ril 821.2005 ist 
-
 für  die  DKW  36  die  Checkliste  einer  DKW  54-190-1:9  bindend.  Diese  Checkliste,  die  Bestandteil  des  Weichenprüfblattes  ist,  war  jedoch  weder  als  Anhang  zur  Weicheninspektion 
-
 beigefügt noch wurde sie der BEU einzeln vorgelegt. 
-
 Der  materielle  und  geometrische  Zustand  ist  augenscheinlich  und  entsprechend  der  nach 
-
 Checkliste  der  jeweiligen  Konstruktionsform  angeführten  Punkte  zu  beurteilen.  Besonderes 
-
 Augenmerk ist dabei auf den Fahrflächenzustand zu richten. Eine Verformung an der Zunge 
-
 hätte bei der letzten Prüfung vor der Entgleisung auffallen müssen. Jedoch wurden derartige 
-
 Mängel weder bei den Regelinspektionen des Meisters Fahrbahn noch bei der durchzuführenden augenscheinlichen Begutachtung durch den Alv dokumentiert. 
-
 Weiterhin ist festzustellen, dass die Verformungen durch das großflächig anhaftende Spurkranzschmierfett  an  der  Zunge  schlicht  nicht  erkennbar  waren.  Die  ungewöhnliche  Fettansammlung deutete darauf hin, dass beim Anfahren der Spurkränze auf die Zunge Probleme 
-
 vorlagen. Dies hätte umso deutlicher klar sein müssen, da die Zunge nur geradeaus befahren wurde. Die Ril 821.2005 schreibt für eine augenscheinliche Prüfung vor, den Prüfbereich 
-
 zu reinigen. Da der Mangel bei keiner der Inspektionen entdeckt wurde und keine Nachweise  zur  Begutachtung  und  Bewertungen  gemäß  Checkliste  vorlagen,  konnte  nicht  nachvollzogen werden, ob diese Prüfungen überhaupt durchgeführt wurden. 
-
 Seite 33 von 81 
-
  
   
-  
  
  
  
@@ -3916,180 +2258,6 @@ Seite 33 von 81
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  
  
  
  
@@ -4181,52 +2349,31 @@ Seite 33 von 81
  
  
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
-
 Fazit 
-
 Unter  Einhaltung  der  in  Ril  821.2005  vorgegebenen  Verfahrensweisen  zur  Inspektion  von 
-
 Weichen  hätten  die  plastische  Verformung  sowie  die  Gratbildung  an  der  Zungenspitze  von 
-
 einem  fachkundigen  Inspektionspersonal erkannt  werden  müssen.  Aufgrund  des  fehlenden 
-
 Befundes besteht allerdings auch die Möglichkeit, dass die Materialverformung an der Zunge 
-
 dem Instandhaltungspersonal bekannt war, dieser Zustand aber nicht als befundwürdig eingestuft  wurde  und  deshalb  in  den  Inspektionsniederschriften  fehlte.  Ein  derartiges  Agieren 
 
 lässt  einzeln  oder  in  Kombination  betrachtet  fehlende  Klarheit  im  Regelwerk  sowie  Defizite 
 
 bei der fachlichen Durchführung der Inspektion erkennen. 
-
 4.3.3 
-
 Gleismessfahrt vom 15.05.2017 
-
 Aufgrund der optischen Feststellungen von Gleislagefehlern an der Entgleisungsstelle sowie 
-
 einer Überprüfung der zwischenzeitlich vorgelegten Inspektionsergebnisse wurde eine aktuelle Gleismessfahrt durch die BEU gefordert. 
-
 Am  15.05.2017  wurde  vor  und  im  Entgleisungsbereich  eine  Messfahrt  mit  einem  Messzug 
-
 (MISS-GMTZ) der DB Netz AG durchgeführt. Dabei wurde die Strecke von km 163,550 bis 
-
 km  163,806  hinsichtlich  der  aktuellen  Gleislage  neu  vermessen.  Die  Messfahrt  konnte  aufgrund  der  durch  die  Entgleisungsfolgen  eingeschränkt  verfügbaren  Infrastruktur  nur  entgegen der Fahrtrichtung des entgleisten ICE erfolgen. Die Messung bestätigte weitgehend die 
-
 bereits bei vorherigen Inspektionen dokumentierten Ergebnisse. Die vorhandenen Gleislagefehler (>SR100) vor der DKW  36 hatten sich zwar leicht vergrößert, waren aber weiterhin als 
-
 SR100  Überschreitung nach Ril 821.2001 einzustufen. Bei dem bereits erwähnten Pfeilhöhenfehler, der SR100  erreicht hatte, halbierte sich der Messwert allerdings. Eine zwischenzeitige 
-
 Instandsetzung konnte vom EIU nicht belegt werden. Die vorhandene Gleislage ist nicht als 
-
 entgleisungsverursachend einzustufen. 
-
 Seite 34 von 81 
-
  
   
-  
  
  
  
@@ -4347,133 +2494,6 @@ Seite 34 von 81
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  
  
  
  
@@ -4481,46 +2501,15 @@ Seite 34 von 81
  
  
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
-
 Abb. 22: Messschrieb MISS-GMTZ vom 15.05.2017 
-
 Abb. 23: Auszug Überschreitungsprotokoll 
-
 Ergänzend  wurden  zur  Beurteilung  des  Fahrverhaltens  von  Drehgestellen  im  Entgleisungsbereich  am  16.05.2017  mehrere  Testfahrten  mit  unterschiedlichen,  aufgrund  der  Entgleisungsschäden  eingeschränkten  Geschwindigkeiten  bis  max.  25 km/h durchgeführt. Ein ungewöhnliches Fahrverhalten wurde dabei nicht festgestellt. 
-
 Es  ist  anzumerken,  dass  der  Weichenantrieb  in  Absprache  mit  der  BEU  zwischenzeitlich 
-
 aus- und wieder eingebaut wurde. 
-
 Seite 35 von 81 
-
  
   
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -4560,103 +2549,20 @@ Seite 35 von 81
  
  
   
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  
- 
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
-
 Die  Abb.  24–26  entstanden  bei  den  Testfahrten  am  16.05.2017  vor  der  linken  Weichenzunge. Der gelbe Pfeil (links) zeigt auf die Verformungsstelle, der orange Pfeil (rechts) markiert  die  ersten deutlichen Entgleisungsspuren auf  Höhe der Stützknaggen, etwa 5 m nach 
-
 dem  Zungenanfang.  Bei  einer  Entgleisungsgeschwindigkeit  von  ca.  70  km/h  legt  das  Rad 
 
 pro  Sekunde  einen  Weg  von  etwa  19,5  m  zurück.  Somit  beträgt  die  zeitliche  Abfolge  zum 
 
 räumlichen  Abstand  weniger  als  0,3  Sekunden.  Ob  ein  kausaler  Zusammenhang  zwischen 
-
 beiden  Feststellungen  besteht,  ist  Gegenstand  weiterer  Untersuchungen  in  den  folgenden 
-
 Kapiteln. 
-
 Abb. 24: Situation vor der Befahrung 
-
 Seite 36 von 81 
-
  
   
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -4713,48 +2619,14 @@ Seite 36 von 81
  
  
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
-
 Abb. 25: Rad auf der verformten Weichenzunge 
-
 Bei der Überfahrt zu Simulationszwecken wurde deutlich erkennbar, dass sich der Abdruck 
-
 des Spurkranzes auf der Weichenzunge gebildet hat. Diese Verformungsstelle wird auf der 
-
 folgenden Abbildung deutlich. 
-
 Seite 37 von 81 
-
  
   
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -4781,113 +2653,19 @@ Seite 37 von 81
  
  
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
-
 Abb. 26: Verformungsstelle 
-
 Die Abb. 27 und 28 zeigen untypische Schleifspuren (1) auf dem ersten Gleitstuhl direkt an 
-
 der Stelle der Verformung. Das ständige harte Anfahren an der Zunge führte bei der Befahrung zu ungewollten Bewegungen an der verschlossenen Zungenspitze. Dies hatte zur Folge,  dass  sich  die  Verschraubung  am  Weichenkasten  lockerte.  Weiterhin  lassen  die  ersten 
-
 beiden  Gleitstuhlplatten  eine  vertikale  Verschiebung  (2)  von  wenigen  Millimetern erkennen. 
-
 Durch  den  Verschluss  wird  die  Zunge  am  Fuß  mit  der  Backenschiene  arretiert  und  kann 
-
 durch  die  Auswirkungen  des Nichtanliegens der Zunge an den Knaggen an der Fahrfläche 
 
 leicht  klaffen.  Durch  das  harte  Anfahren  der  Räder  wurde  die  Zunge  oben  an  die  Backenschiene  gedrückt  und  verursachte  am  Zungenfuß  die  sichtbare  Schleifspur  (2).  Derartige 
-
 Spuren sind in der DKW 36 nur an diesen beiden Gleitstühlen erkennbar. Die Verformungsstelle auf Abb. 27 und 28 ist durch einen roten Pfeil an der linken Zunge gekennzeichnet. 
-
 Seite 38 von 81 
-
  
   
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -4971,28 +2749,12 @@ Seite 38 von 81
  
  
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
-
 Abb. 27: Schleifspuren 1 und 2; Gleitstuhl linke Zunge 
-
 Abb. 28: erster Gleitstuhl linke Zunge 
-
 Seite 39 von 81 
-
  
   
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -5009,26 +2771,13 @@ Seite 39 von 81
  
  
  
- 
- 
- 
- 
- 
- 
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
-
 4.3.4  
-
 Externe  Gutachten  zur  Unfallursache  
-
 Zur  fachlichen  und  objektiven  Klärung  von  Sachverhalten  wurden  im  Rahmen  der  Unfalluntersuchung  verschiedene  externe  Gutachten  in  Auftrag  gegeben.  
-
 4.3.4.1	   Erstellung   einer   Mehrkörpersimulation   durch   DB   Systemtechnik  
-
          GmbH Minden (Westf.) 
-
 Aufgrund  der  zunächst  unklaren  Unfallursache  beauftragte  das  EVU  DB  Fernverkehr  AG  die  
 
 Firma   DB   Systemtechnik   GmbH   am   Standort   Minden   (Westf.),   das   Anlaufen   an   der   Weichenzunge  mittels  einer  Mehrkörpersimulation  (MKS)  näher  zu  untersuchen.  
@@ -5036,32 +2785,12 @@ Firma   DB   Systemtechnik   GmbH   am   Standort   Minden   (Westf.),   das   A
 Für   die   Simulation   wurden   Modelle   von   Wagenkästen,   Drehgestellen,   Radsätzen   und  Radprofilen   sowie   der   Strecke   und   der   Schienenprofile   erstellt.   Mithilfe   des   Simulationsprogramms   SIMPACK   und   den   Ergebnissen   der   Modellierungen   sollten   Rückschlüsse   auf   das  
 
 Fahrverhalten  von  ICE  945  gezogen  werden.  
-
 Nach  Abstimmung  mit  den  Beteiligten  entschied  sich  die  BEU,  die  Entwicklung  des  Gutachtens  zu  begleiten.  Die  Ergebnisse  der  Simulation  sind  als  Anlage  beigefügt.  
-
 Abb. 29: Ablaufdiagramm Simulation 
 Quelle: DB Systemtechnik GmbH 
-
 Seite 40 von 81 
-
  
   
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -5078,172 +2807,36 @@ Seite 40 von 81
  
  
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
-
 Materialprüfung  der  Weichenzungenvorrichtung  durch  DB  Systemtechnik  GmbH,  Kirchmöser 
-
 Wegen des ungewöhnlichen Schadbildes an der linken Weichenzunge wurde durch die BEU 
-
 eine metallurgische Materialuntersuchung  bei DB Systemtechnik GmbH am Standort Kirchmöser  in  Auftrag  gegeben.  Laut  Weichenskizze  handelte  es  sich  bei dem  zu  untersuchenden Material um Stahl der Güte R260. 
-
 Durch verschiedene Untersuchungsverfahren konnte festgestellt werden, dass das geprüfte 
-
 Material der Weichenzunge frei von Gefügefehlern war und der Güte R260 entsprach. Weiter  wurden  Materialverquetschungen  im  vorderen  Bereich  der  Weichenzunge  festgestellt. 
-
 Unter  dem  Elektronenmikroskop  wurde  erkennbar,  dass  diese  Materialverformungen  annähernd den Abdruck eines Spurkranzes aufwiesen. 
-
 Beauftragung eines Gutachtens bei der Firma SIMTES KG – Simulation technischer Systeme, Bielefeld 
-
 Die  BEU  entschied  sich,  die  seitens  der  DB  Fernverkehr  AG  eingeleitete  Untersuchung 
-
 durch  Mehrkörpersimulation  zu  begleiten  und  keine  eigene  Simulation  anzustreben.  Zur 
-
 fachlichen  Begleitung  und  unabhängigen  Beurteilung  der  umfangreichen  Untersuchungen 
-
 und  Simulationen  der  DB  Systemtechnik  GmbH  wurde  von  der  BEU  ein  externer  Sachverständiger der Firma SIMTES KG – Simulation technischer Systeme, Bielefeld beauftragt. 
-
 4.4 
-
 Untersuchung der Leit- und Sicherungstechnik 
-
 Die  folgenden  Kapitel  dokumentieren  die  Untersuchungen  der  einzelnen  Komponenten  im 
-
 Bereich der Leit- und Sicherungstechnik. 
-
 4.4.1 
-
 Stellwerk Dhf 
-
 Bei dem Stellwerk Dhf handelt es sich um die Bauform Sp Dr S 60. 
-
 Auf der Stelltafel wurde für die DKW 36 a/b eine Auffahrmeldung angezeigt. Der Weichenteil 
-
 c/d  war  wegen  einer  bestehenden  Flankenschutzanforderung  noch  im  Verschluss.  Im  betroffenen  Bahnhofskopf  waren  insgesamt  drei  Fahrstraßen  eingestellt.  Die  Fahrstraße  für 
-
 ICE 945 war bezeichnet mit D540 – N8. Bei Eintreffen der BEU war die Fahrstraße teilweise 
-
 aufgelöst. 
-
 4.4.2 
-
 Relaisgruppenüberprüfung Stellwerk Dhf 
-
 Noch am Abend des Ereignisses wurde durch Mitarbeiter der DB Netz AG und der BEU eine 
-
 erste augenscheinliche Überprüfung der einzelnen Relaisgruppen für die Zugfahrstraße und 
-
 Seite 41 von 81 
-
  
   
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -5350,47 +2943,6 @@ Seite 41 von 81
  
  
   
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -5432,7 +2984,6 @@ Seite 41 von 81
  
  
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
 
 der  dazugehörigen  Weichen  im  Relaisraum  des  Stellwerks  Dhf  durchgeführt.  Die  Relais  der  
@@ -5452,7 +3003,6 @@ Am   09.05.2017   wurde   die   Relaisgruppe   der   Weiche   36   a/b   im   Be
 durch   den   Hersteller   begutachtet.   Auch   bei   diesen   Untersuchungen   wurden   bis   auf   normal  
 
 einzustufende  Verschleißmerkmale  keine  Auffälligkeiten  festgestellt.  
-
 4.4.2.1   Gutachten  Relaisgruppenuntersuchung  durch  die  Fa.  Siemens  
 
 Am   09.05.2017   wurde   die   Relaisgruppe   der   Weiche   36   a/b   im   Beisein   von   EBA   und   BEU  
@@ -5460,9 +3010,7 @@ Am   09.05.2017   wurde   die   Relaisgruppe   der   Weiche   36   a/b   im   Be
 durch   den   Hersteller   untersucht.   Auch   bei   diesen   Untersuchungen   wurden   bis   auf   normal  
 
 einzustufende  Verschleißmerkmale  keine  Auffälligkeiten  festgestellt.  
-
 4.4.3  
-
 Störungsdrucker  Stellwerk  Dhf   
 
 Es  wurde  festgestellt,  dass  der  Eintrag  mit  der  Zählnummer  93  zweimal  vorhanden  war.  Die  
@@ -5476,9 +3024,7 @@ des   Schreibstreifens   zeigten,   dass   es   bereits   wiederholt   zu   Dopp
 gekommen   war.   In   diesem   Fall   ist   der   „Nachweis   der   Zählwerke“   immer   handschriftlich   zu  
 
 führen   
-
 In  Ril 4  82.9001  „Signalanlagen  bedienen“  ist  Folgendes  geregelt:  
-
 (8)  Nachweis  der  Zählwerke  
 
 (1)  „Zählpflichtige  Hilfsbedienungen  werden  durch  Zählwerke  überwacht.  Die  Zählwerke  sind  
@@ -5486,22 +3032,11 @@ In  Ril 4  82.9001  „Signalanlagen  bedienen“  ist  Folgendes  geregelt:
 im   Nachweis   der   Zählwerke   nach   Vordruck   482.9001V04   aufgeführt.   Der   Bediener   muss  
 
 seine  Bedienungshandlungen  durch  Eintrag  der  Zählwerksnummer  nachweisen.“  
-
 (2)  „Ordnungsgemäß  arbeitende  Störungsdrucker  ersetzen  die  Einträge  der  Zählwerksnummern  im  Nachweis  der  Zählwerke.  Hilfshandlungen  sind  auf  der  registrierenden  Einrichtung  
 
 Seite 42 von 81 
-
  
   
-  
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -5511,17 +3046,11 @@ Seite 42 von 81
  
  
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
-
 mit  Angabe  des  Bedienungsgrundes  nachzuweisen.  Bei  ausgeschaltetem  bzw.  gestörtem 
-
 Störungsdrucker ist der Nachweis der Zählwerke zu führen.“ 
-
 Abb. 30: Schreibstreifen des Störungsdruckers Stellwerk Dhf 
-
 4.4.4   Weichenantrieb  S700  der  DKW  36  a/b  
-
 Bei  dem  Weichenantrieb  handelte  es  sich  um  einen  auffahrbaren  Drehstromantrieb  mit  Klinkenverschluss  der  Fa.  Siemens.  Der  Antrieb  wurde  am  05.06.2014  vom  Signalwerk  Wuppertal   ausgeliefert.   Es   ist   davon   auszugehen,   dass   der   Weichenantrieb   gemeinsam   mit   der  
 
 DKW   36   im   Rahmen   planmäßiger   Bauarbeiten   eingebaut   wurde.   Bei   Eintreffen   der   BEU  
@@ -5531,30 +3060,9 @@ befanden   sich   die   Weichenzungen   der   DKW   36   a/b   nicht   in   der 
 Lage.  Die  rechte  Zunge  lag  an,  die  linke  Zunge  befand  sich  in  ca.  100  mm  Abstand  zu  der  
 
 Backenschiene,  jedoch  ohne,  dass  die  DKW  ihre  Endlage  erreicht  hatte.  
-
 Seite 43 von 81 
-
  
   
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -5576,30 +3084,16 @@ Seite 43 von 81
  
  
  
- 
- 
- 
- 
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
-
 Erste Untersuchungen des Weichenantriebs ergaben, dass die Befestigungsschrauben des 
-
 Weichenkastens an der s.g. Z-Schiene sowie die Befestigungsschrauben der Z-Schiene mit 
-
 dem  Fundament  nicht  vollständig  angezogen  waren.  Der  Weichenkasten  ließ  sich  in  jede 
-
 Richtung einige Millimeter bewegen. Nach dem Öffnen des Weichenkastens im Beisein der 
-
 BEU wurde ersichtlich, dass sich ein Prüferhaken nicht in Endlage befand. Laut Inspektionsunterlagen  wurde  die  Befestigung  des  Weichenkastens  vor  dem  Ereignis  letztmalig  am 
-
 17.02.2017 überprüft. 
-
 Abb. 31: Weichenantrieb S700 der DKW 36 a/b 
-
 4.4.5  
-
 Auffahrmeldungen  der  DKW  36  a/b  
 
 Laut  „Arbeits- und  Störungsbuch“  erzeugte  die  DKW  36  a/b  bereits  am  22.04.2017  eine  Auffahrmeldung.   Weder   auf   dem   Ausdruck   des   Störungsdruckers   noch   im   „Arbeits-  und   Störungsbuch“   wurde   der   Grund   für   die   Auffahrmeldung   hinterlegt.   Die   vor   Ort   zur   Behebung  
@@ -5607,59 +3101,9 @@ Laut  „Arbeits- und  Störungsbuch“  erzeugte  die  DKW  36  a/b  bereits  a
 der  Störung  eingesetzten  LST-Mitarbeiter  der  DB  Netz  AG  fanden  die  Weiche  in  einer  Endlage  vor.  Beim  probeweisen  Umlauf  der  Weiche  fiel  auf,  dass  sich  dabei  der  Weichenkasten  
 
 bewegte.  
-
 Seite 44 von 81 
-
  
   
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -5708,170 +3152,36 @@ Seite 44 von 81
  
  
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
-
 Unmittelbar  nach  der  Zugentgleisung  am  01.05.2017  wurde  bei  den  Untersuchungen  des 
-
 Weichenantriebes erneut ein loser Weichenkasten festgestellt. Ob sich dieser zwischen dem 
-
 22.04.2017  und  dem  01.05.2017  erneut  löste  oder  aber  die  Zugentgleisung  dazu  beitrug, 
-
 konnte nicht mehr geklärt werden. 
-
 Die  Erd- und  Nebenschlussfreiheit  der  Kabeladern  zum  Weichenantrieb  der  DKW  36  a/b 
-
 wurde  am  02.05.2017  festgestellt.  Alle  Adern  wiesen  einen  ausreichenden  Widerstand  gegen  die  Erde  von  mind.  5,9  MΩ  auf.  Bei weiteren  Untersuchungen  durch  das  EBA wurden 
-
 die  elektrischen  Kontakte  des  Weichenantriebes  gemäß  Ril  892  überprüft.  Dabei  wurden 
-
 keine Mängel festgestellt. 
-
 4.4.6 
-
 Klinkenverschluss CKA 12 
-
 Bei  dem  verwendeten  Klinkenverschluss  handelte  es  sich  um  die  Ausführung  Siemens-
-
 Schweiz.  Der  Einbau  erfolgte  gemeinsam  mit  dem  Weichenantrieb  S700  im  Rahmen  der 
-
 Arbeiten an DKW 36 im Jahr 2014. 
-
 Der Klinkenverschluss wurde durch die BEU und die DB Netz AG noch am Ereignistag sowie 
-
 vom  EBA  am  folgenden  Tag  untersucht.  Nach  Öffnen  des  Weichenkastens  wurde  erkennbar, dass der vorgesehene Prüferhaken nicht vollständig in die Nut der Riegelstange eingehakt war. Nach dem versuchsweisen Umstellen der Weiche per Handkurbel rastete der Prüferhaken dann vollständig ein. Auch bei weiteren Umstellvorgängen rastete der Prüferhaken 
-
 vollständig ein. 
-
 4.4.7 
-
 Untersuchung des Weichenantriebes S700 im Signalwerk Wuppertal 
-
 Am 08.06.2017 wurde der Weichenantrieb S700 der DKW  36 a/b im Signalwerk Wuppertal 
-
 der DB Netz AG im Rahmen einer Expertenrunde begutachtet. 
-
 Der  Zustand  des  Weichenantriebs  entsprach  augenscheinlich  der  Nutzungsdauer.  Optisch 
-
 wurden  keine  Mängel  festgestellt.  Die  Prüfung  des  Weichenantriebs  wurde  nach  den  Prüfvorgaben der „Prüfanweisung Signalwerk“ durchgeführt. 
-
 Im  Einzelnen  wurden  keine  Mängel  am  Weichenantrieb  festgestellt.  Jedoch  konnte  weder 
-
 die Stellkraftprüfung noch die Auffahrbarkeit geprüft werden. Als Begründung wurden Änderungen in den Prüfparametern angeführt, welche nicht abbildbar seien. 
-
 Innerhalb  der  Inspektion  des  Weichenantriebs  am  Abend  des  Ereignisses  wurde  bei  einer 
-
 Messung vor Ort eine Stellkraft von 5800 N festgestellt. Dieser Wert liegt unter der maximalen Vorgabe des Regelwerkes und war nicht zu beanstanden. 
-
 Seite 45 von 81 
-
  
   
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -6001,64 +3311,6 @@ Seite 45 von 81
  
  
   
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -6092,13 +3344,9 @@ Seite 45 von 81
  
  
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
-
 4.5  
-
 Untersuchung  der  betrieblichen  Handlungen  
-
 Im  Rahmen  der  Sachverhaltsermittlung  ergaben  sich  keine  Erkenntnisse  eines  betrieblichen  
 
 Fehlverhaltens   des   Zugpersonals   des   ICE   945.   Aufgrund   dessen   wurden   keine   weiteren  
@@ -6110,60 +3358,35 @@ Es  gab  ebenso  keine  Hinweise  auf  ein  betriebliches  Fehlverhalten  des  S
 Der   Fdl   hatte   die   Zugfahrstraße   mittels   Nummernpult   eingestellt   und   der   Zugfahrt   durch  
 
 Fahrtstellung  des  Esig  D540  zugestimmt.  Aufgrund  dessen  wurden  keine  weiteren  Untersuchungen  durchgeführt.  
-
 4.6  
-
 Untersuchung  von  Fahrzeugen  
 
 Bei   dem   Zug   handelt   es   sich   um   einen   ICE   der   Baureihe   402.   Halter   und   EVU   des   Fahrzeugs   ist   die   DB   Fernverkehr   AG.   Der   Triebzug   (Tz)   229   wurde   1996   von   der   Arbeitsgemeinschaft  Siemens/Adtranz  ausgeliefert.  
-
 Länge 
-
 Dienstmasse 
-
 Vmax 
-
 Nennleistung 
-
 Anzahl der 
-
 Bremsbauart 
-
 [m] 
-
 205,52 
-
 [t] 
-
 455 
-
 Tabelle 2: Kenndaten ICE 2 
-
 [km/h] 
-
 [kVA] 
-
 Fahrmotoren 
-
 280 
-
 5200 
-
 vier 
-
 KE-R-Mg(D) ep 
-
 Der  Zug  bestand  am  Tag  des  Ereignisses  aus  insgesamt  einem  TK,  sechs  MW  und  einem  
 
 SW.  Für  die  Fahrt  von  Düsseldorf  Hbf  nach  Berlin  Ostbahnhof  fuhr  der  Zug  mit  dem  TK  voraus.  
-
 Abb. 32: Übersicht Tz 229, ICE 945 
-
 Seite 46 von 81 
-
  
   
-  
  
  
  
@@ -6180,31 +3403,6 @@ Seite 46 von 81
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-      
- 
- 
- 
-   
  
  
  
@@ -6214,73 +3412,33 @@ Seite 46 von 81
  
  
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
-
 4.6.1  
-
 Zustand  des  Tz  229  nach  dem  Ereignis  
 
 Nach   der   Entgleisung   der   letzten   beiden   Wagen   des   Tz   229   kam   die   Zugspitze   ca.   300   m
-  
+
 
 hinter  der  Entgleisungsstelle  zum  Halten.  Während  die  ersten  fünf  Fahrzeuge  augenscheinlich   unversehrt   waren,   zeigten   sich   an   MW   806   629-2   und   SW   808   029-3   erhebliche   Beschädigungen.
-  
 
 Abb. 33: Aufgleisung SW 808 029-3 
-
 Abb. 34: Übergang MW 806 629-2 zu SW 808
- 
 029-3
- 
 
 Abb. 35: entgleistes DG MW 806 629-2 
-
 Abb. 36: entgleistes DG 808 029-3
- 
 
 4.6.2   Werkstattaufenthalt  24.–29.04.2017  
 
 Der  Tz  229  befand  sich  in  der  Zeit  vom  24.  bis  29.04.2017  zu  Arbeiten  im  Rahmen  des  Qualitätsprogrammes   RESET   im   Instandhaltungswerk   der   DB   Fernverkehr   AG   in   Berlin-
-
 Rummelsburg.   Nach   vorliegenden   Unterlagen   wurden   am   Zug   umfangreiche   Instandsetzungsarbeiten   durchgeführt,   die   auch   einen   Tausch   der   Triebdrehgestelle   (TDG)   am  
 
 TK  402  029  beinhalteten.  Arbeiten,  die  auf  einen  Mangel  der  Laufeigenschaften  an  den  entgleisten  Wagen  hätten  hindeuten  können,  wurden  nicht  durchgeführt.  
-
 Wegen  des  Tausches  der  TDG  wurde  eine  Probefahrt  durchgeführt,  die  ohne  Beanstandung  
-
 verlief.  
-
 Seite 47 von 81
- 
 
- 
   
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -6307,44 +3465,25 @@ Seite 47 von 81
  
  
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
-
 Der Zug wurde am 01.05.2017 nach Düsseldorf Abstellbahnhof überführt. Am gleichen Tag 
-
 wurde der Tz 229 als ICE 945 für die Fahrt von Düsseldorf Hbf nach Berlin Ostbahnhof eingesetzt. 
-
 4.6.3 
-
 Zuguntersuchung im Werk Dortmund 
-
 Am 02.05.2017 wurde der Zug am Ereignisort getrennt und bis auf die letzten drei Wagen in 
-
 das Werk der DB Fernverkehr AG in Dortmund überführt. Nachdem die Aufgleisung der beschädigten  Wagen  am  Ereignisort  beendet  war,  wurden  diese  ebenfalls  in  das  Werk  Dortmund überführt. 
-
 4.6.4 
-
 Berührungsgeometrie Rad/Schiene 
-
 Am  03.05.2017  wurde  von  der  DB  Systemtechnik  GmbH  im  Werk  Dortmund  die  Abzeichnung der Radprofile durchgeführt. Es wurden die Maße Sd, Sh, qR sowie aR aufgenommen. 
-
 Laut Berichtsersteller konnten keine Mängel festgestellt werden. 
-
 Bei  der  Auswertung  der  Spurkranzwinkel  wurden  jedoch  teilweise  Werte  von  deutlich  über 
-
 70° ermittelt. 
-
 Die  Aufnahme  der  Radprofile  beinhaltete  die  Bestimmung  der  äquivalenten  Konizität.  Die 
-
 äquivalente Konizität ist mitbestimmend für die Laufeigenschaften eines RS. Einflussgrößen 
-
 sind die Geometrie der Räder und des Schienenkopfes. 
-
 Seite 48 von 81 
-
  
   
-  
  
  
  
@@ -6402,92 +3541,6 @@ Seite 48 von 81
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  
  
  
  
@@ -6518,16 +3571,11 @@ Seite 48 von 81
  
  
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
-
 Abb. 37: Profilabzeichnung 808 029 Rs 1 
 Quelle: DB Systemtechnik GmbH, bearbeitet durch BEU 
-
 4.6.5  
-
 Beurteilung  der  Drehgestelle  
-
 Vom  12.  bis  18.05.2017  erfolgte  im  Rahmen  der  Sachverhaltsermittlung  die  Demontage  und  
 
 visuelle  Beurteilung  der  entgleisten  DG  sowie  des  vorlaufenden  DG  von  MW  806  339-8.  Bei  
@@ -6535,12 +3583,9 @@ visuelle  Beurteilung  der  entgleisten  DG  sowie  des  vorlaufenden  DG  von  
 den   DG   handelt   es   sich   um   Laufdrehgestelle   vom   Typ   SGP  400.   Als   Radsatzführung   der  
 
 schraubengefederten  Primärstufe  ist  eine  Zapfenführung  vorgesehen.  Horizontale  Kräfte  aus  
-
 Seite 49 von 81 
-
  
   
-  
  
  
  
@@ -6548,22 +3593,6 @@ Seite 49 von 81
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-   
  
  
  
@@ -6573,101 +3602,31 @@ Seite 49 von 81
  
  
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
-
 dem Rad-Schiene-Kontakt werden über Radsatzführungsbuchsen, die in einer Gleitlagerung 
-
 geführt werden, auf den Drehgestellrahmen übertragen. Die Sekundärfederung ist als Luftfederung ausgeführt, die mit einer Gummi-Konus-Feder in Reihe geschaltet ist und bei Ausfall 
-
 der Luftfeder gleichzeitig als Notfederung fungiert. Zur Vermeidung instabilen Fahrzeuglaufs 
-
 sind  pro Drehgestellseite  zwei parallel wirkende Schlingerdämpfer montiert. Die Drehgestellanlenkung  erfolgt  über  eine  Lemniskatenführung  (Zug-/Druckstangen).  Dabei  werden  die 
-
 horizontalen  Kräfte  zwischen  DG  und  Wagenkasten  vom  Drehzapfen  auf  ein  daran  angeschraubtes  Jochgehäuse  übertragen,  das  wiederum  über  zwei  Lenker  am  Drehgestellrahmen befestigt ist. 
-
 Abb. 38: SGP 400 
 
 Die   letzte   Revision   (IS   700)   des   Tz   229   mit   einer   Aufarbeitung   der   Drehgestelle   (IS   A70)
-  
+
 
 erfolgte  im  April 2  015.  Seitdem  hatte  der  Zug  ca.  1.000.000  km  zurückgelegt.
-  
 
 Folgende  Bauteile  wurden  nach  Demontage  untersucht:
-  
 
 •   Primärdämpfer  
-
 •   Abhebesicherungen,  Primärfederstufe,  untere  Hälften  der  Radsatzlagergehäuse  
-
 •   Luftfederbälge  samt  Integralbehälter  
-
 •   Zusatzfedersystem  
-
 •   Querdämpfer  
-
 •   Bremsen  
-
 •   Radsatzführungsbuchsen  
-
 Seite 50 von 81 
-
  
   
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -6721,20 +3680,13 @@ Seite 50 von 81
  
  
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
-
 Abb. 39: Kennzeichnung aller Komponenten 
-
 Abb. 40: demontierte Primärfedern 
-
 Abb. 41: Demontage der Luftfederbälge vom Zusatzfedersystem 
-
 Seite 51 von 81 
-
  
   
-  
  
  
  
@@ -6746,24 +3698,6 @@ Seite 51 von 81
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-      
  
  
  
@@ -6772,75 +3706,27 @@ Seite 51 von 81
  
  
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
-
 Abb. 42: Zug-/Druckstangen 
-
 Abb. 43: Bremsbauteile 
-
 Ziel  der  visuellen  Begutachtung  der  fünf  Drehgestelle  war  es,  anhand  der  vorliegenden 
-
 Schäden  zu  beurteilen,  ob  diese  für  die  Entgleisung  ursächlich  gewesen sein  konnten oder 
-
 es sich um Folgeschäden handelte. 
-
 Begutachtung der Drehgestelle und Komponenten durch die DB Systemtechnik GmbH, Minden (Westf). 
-
 Die Zusammenfassung des Berichtes der DB Systemtechnik GmbH im Auftrag der DB Fernverkehr GmbH zur Begutachtung der DG und Komponenten beinhaltete folgenden Tenor: 
-
 „Es  wurden  an  vier  entgleisten  und  einem  nicht  entgleisten  Drehgestell  Untersuchungen 
-
 durchgeführt, mit denen die fahrzeugseitige Ursache für die Entgleisung des ICE 2, Tz 229, 
-
 am 01.05.2017 gesucht werden sollte. Dies beinhaltete die Beurteilung der abgezeichneten 
-
 Radprofile, eine visuelle Begutachtung der Komponenten bei der Zerlegung der Drehgestelle 
-
 und  eine  Bewertung  der  relevanten  Drehgestell- und  Wagenkastenmaße.  Des  Weiteren 
-
 wurden die Federn und Dämpfer in Prüfmaschinen auf ihre Kennlinien untersucht, die Drehgestellrahmen vermessen und die Passungen der Radsatzführung bestimmt. 
-
 Bei den Untersuchungen der Drehgestelle und deren Komponenten wurden viele Beschädigungen  vorgefunden,  die  aus  der  Entgleisung  resultierten.  Bei  gebrochenen  Komponenten 
-
 wurde  insbesondere  auf  Ermüdungsschäden  geachtet,  die  bereits vor dem Unfall aufgetreten sein können. Solche Schäden wurden jedoch nicht gefunden. 
-
 Die  Vermessung  der  relevanten  Drehgestell- und  Wagenkastenmaße  der  nicht  entgleisten 
-
 Wagen  des  Rumpfzugs  ergab  mehrere  Abweichungen  der  Höhen- und  Quermaße.  Eine 
-
 Seite 52 von 81 
-
  
   
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -6923,62 +3809,6 @@ Seite 52 von 81
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
   
  
  
@@ -6989,36 +3819,6 @@ Seite 52 von 81
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  
  
  
  
@@ -7041,217 +3841,34 @@ Seite 52 von 81
  
  
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
-
 Nachvermessung nach Korrektur des Beladungszustands führte zu einer Verbesserung der 
-
 Werte.  Trotzdem  lagen  einige  Werte,  insbesondere  des  Restaurantwagens  807  026-0,  außerhalb der zulässigen Grenzmaße. Die nachfolgend gemessenen Radaufstandskräfte lagen 
-
 jedoch innerhalb der zulässigen Abweichungen rechts/links von 5 %. Die Prüfung der Komponenten  hatte  das  Ziel,  Abweichungen  in  den  Kennlinien  festzustellen,  die  nicht  durch 
-
 Überlastung  begründet  werden  können.  Die  Federn  zeigten  mit  Ausnahme  leichter  Unterschreitungen  der  Federhöhen,  die  durch  Setzung  hervorgerufen  wurden,  keine  Auffälligkeiten.  Bei  den  Dämpfern  gab  es  einige  Totalausfälle  durch  Überlastung,  die  zum  Teil  nicht 
 
 prüfbar waren. An zwei Dämpfern wurden deutlich erhöhte Dämpferkräfte vorgefunden. Die 
-
 Vermessung der Drehgestellrahmen ergab, dass an zwei Rahmen größere Verformungen an 
-
 den  Langträgern  von  >  3  mm  in  vertikaler  Richtung  und  an  den  anderen  Rahmen  der  entgleisten  Drehgestelle  geringere  Deformationen  vorlagen,  die  für  eine  Weiterverwendung 
-
 gesondert betrachtet werden müssen. Die Passungen zwischen der Radsatzführungsbuchse 
-
 und der Gleitführung lagen an allen Drehgestellen im zulässigen Bereich, so dass eine Ursache  der  Entgleisung  in  der  Radsatzführung  ausgeschlossen  werden  kann.  Insgesamt  lässt 
 
 sich  festhalten,  dass  keine  für  die  Entgleisung  ursächlichen  Schäden  an  den  untersuchten 
 
 Drehgestellen ermittelt wurden.“ 
-
 4.6.6 
-
 Zug-/Druckstangen 
-
 Die  letzten  drei  Wagen  des  Tz  229  wurden  zu  weiteren  Untersuchungen  in  das  Werk  der 
-
 DB Instandsetzung  AG  nach  Krefeld-Oppum  überführt.  Zur  Überführung  wurden  die  beschädigten Wagen auf Hilfsdrehgestelle gesetzt. Da eine feste Verbindung, mit der man die 
-
 DG  samt  Wagenkasten  hätte  anheben  können,  wegen  der  teilweise  zerstörten  Zug/Druckstangen  nicht  mehr  bestand,  wurden  diese  ausgebaut  und  sichergestellt.  Nach  dem 
-
 Einbau  intakter  Zug-/Druckstangen  konnten  die  Wagen  auf  Hilfsdrehgestelle  gehoben  werden. Die beschädigten Zug-/Druckstangen wurden zur Erstellung einer werkstofftechnischen 
-
 Untersuchung an die RWTH Aachen übergeben. Bei diesen Untersuchungen sollte ermittelt 
-
 werden,  ob  die  vorhandenen  Brüche  durch  das  Ereignis  ausgelöste  Gewaltbrüche  waren, 
-
 oder  ob  es  sich  dabei  um  Ermüdungsbrüche  handelte.  Außerdem  wurde  der  verwendete 
-
 Werkstoff auf seine grundsätzliche Eignung als Zug-/Druckstange getestet. 
-
 Seite 53 von 81 
-
  
   
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -7413,34 +4030,12 @@ Seite 53 von 81
  
  
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
-
 Abb. 44: Zug-/Druckstange gebrochen 
-
 Abb. 45: Zug-/Druckstange Profilquerschnitt 
-
 Seite 54 von 81 
-
  
   
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -7458,11 +4053,8 @@ Seite 54 von 81
  
  
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
-
 4.6.7  
-
 Fahrtverlaufsauswertung  
 
 Der   Tz   229   ist   mit   einem   Zugsicherungssystem   der   Bauform   LZB   80/CIR-ELKE,   System  
@@ -7474,7 +4066,6 @@ Der  Zug  ICE  945  fuhr  planmäßig  von  Düsseldorf  Hbf  nach  Berlin  Ostb
 TK   402  029   voraus.   Am   Datensteller   waren   die   Bremsart   9   (schnellwirkend)   und  
 
 200  Bremshundertstel   eingegeben.   Die   Zugfahrt   wurde   im   zu   untersuchenden   Streckenabschnitt  im  PZB-Betrieb  durchgeführt.  
-
 Bei  der  Auswertung  der  Daten  wurden  die  aufgezeichneten  Wegdaten  zur  besseren  Veranschaulichung   den   realen   Streckendaten   angepasst.   Als   Bezugspunkt   wurde   die   Beeinflussung  durch  einen  1000-Hz-Gleismagnet  in  km  162,210  gewählt.  
 
 Die   Daten   wurden   ordnungsgemäß   auf   einer   Datenspeicherkassette   (DSK)   aufgezeichnet,  
@@ -7502,21 +4093,9 @@ ca.  71  km/h  befahren.  Im  weiteren  Verlauf  der  Fahrt  erhöhte  der  Tf  
 Die   Entgleisung   erfolgte,   unter   Berücksichtigung   der   Zuglänge,   bei   einer   Geschwindigkeit  
 
 von  ca.  70  km/h.  
-
 Seite 55 von 81 
-
  
   
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -7527,28 +4106,11 @@ Seite 55 von 81
  
  
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
-
 Abb. 46: grafische Darstellung der EFR-Daten 
-
 Seite 56 von 81 
-
  
   
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -7562,88 +4124,24 @@ Seite 56 von 81
  
  
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
-
 4.7 
-
 Interpretation der Unfallspuren 
 
 Nachfolgend  sind  die  Drehgestelle  der  letzten  drei  Wagen  der  Deutlichkeit  halber  entsprechend der Grafik mit den Buchstaben A–E gekennzeichnet. 
-
 Abb. 47: Anordnung der DG A–E 
-
 Nach  Auswertung  der  Spuren  war  erkennbar,  dass  es  zur  Entgleisung  in  der  DKW  36  a/b 
-
 gekommen war. Entsprechende Schleif- und Anfahrspuren waren an der linken und rechten 
-
 Weichenzunge vorhanden. In der weiteren Folge fanden sich eine gebrochene Stützknagge 
-
 sowie  weitere  Überlauf- und  Anfahrspuren  am  Radlenker,  der  Knieschiene  und  weiteren 
-
 Bauteilen. 
-
 Die Stellung der Weichenzunge nach dem Ereignis ließ darauf schließen, dass es während 
-
 der Überfahrt des Zuges zu einer Veränderung der Weichenlage gekommen sein musste. 
-
 Wegen der sich überlagernden Spuren im Entgleisungsbereich konnte nicht zweifelsfrei rekonstruiert werden, welcher RS zuerst entgleiste. Sehr wahrscheinlich ist aber, dass es sich 
-
 um das in Fahrtrichtung linke Rad von RS 4 des DG D handelte. 
-
 Seite 57 von 81 
-
  
   
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -7692,37 +4190,6 @@ Seite 57 von 81
  
  
   
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  
- 
- 
- 
- 
- 
- 
  
  
  
@@ -7754,37 +4221,23 @@ Seite 57 von 81
  
  
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
-
 Rekonstruierter Entgleisungsvorgang in der DKW 36.
- 
 
 Die beiden grünen Pfeile entsprechen dem Sollfahrweg, die beiden roten Linien entsprechen
- 
 
 dem Istfahrweg der letzten beiden Fahrzeuge.
- 
 
 Abb. 48: Ablauf anhand von Entgleisungsspuren 
-
 Bei anliegender  linker Weichenzunge sind in der Rille zwischen Backenschiene und Zunge 
-
 abschnittsweise Fahrspuren eines entgleisten Rades erkennbar. Die nachfolgend dargestellten  Anfahrspuren  zwischen  Backen- und  Zungenschiene  waren  bei  den  ersten  Untersuchungen  im  Gleis  nicht  zu  erkennen.  Erst  die  genaueren  Untersuchungen  in  der  Werkstatt 
-
 unter  geänderter  Perspektive  und  besonderem  Lichteinfall hoben  die  Spuren  hervor.  Diese 
-
 sind auf Abb. 49 und 50 zu erkennen. 
-
 In  Abb.  51  wurde  mit  Hilfe  eines  Rollwagens  der  vermutete  Entgleisungsvorgang  simuliert 
-
 um die Entstehung der vorgefundenen Anfahrspuren nachzuvollziehen. 
-
 Seite 58 von 81 
-
  
   
-  
  
  
  
@@ -7830,70 +4283,6 @@ Seite 58 von 81
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  
  
  
  
@@ -7914,37 +4303,12 @@ Seite 58 von 81
  
  
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
-
 Abb. 49 seitliche Laufspur eines Spurkranzes an der linken Backenschiene (rechte Seite) 
-
 Abb. 50 Ende der Laufspur des Spurkranzes 
-
 Seite 59 von 81 
-
  
   
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -7964,45 +4328,21 @@ Seite 59 von 81
  
  
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
-
 Abb. 51: rekonstruierter Entgleisungsvorgang 
-
 Bild 1 
-
 Linkes Rad entgleiste und lief mit dem Spurkranz auf der Rille zwischen Zunge und Backenschiene. 
-
 Bild 2–4 
-
 Rille zwischen Zunge und Backenschiene weitete sich, Spurkranz rutschte 
-
 dazwischen. Erste deutliche Anfahrspuren an der Rückseite der Zunge. 
-
 Bild 5 und 6 
-
 Das komplette Rad rutschte von der Backenschiene und fiel auf die Knaggen 
-
 bzw. die Schienenbefestigung. Anfahrspuren an der Rückseite der Zunge und 
-
 der Backenschiene erkennbar. 
-
 Tabelle 3: Erläuterungen zum rekonstruierten Entgleisungsvorgang 
-
 Seite 60 von 81 
-
  
   
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -8016,26 +4356,6 @@ Seite 60 von 81
  
  
  
-   
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -8053,23 +4373,6 @@ Seite 60 von 81
  
  
    
-   
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -8086,129 +4389,19 @@ Seite 60 von 81
  
  
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
-
 Weitere Entgleisungsspuren an der linken Zungenvorrichtung 
-
 Abb. 52: Entgleisungsspuren im Bereich der Stützknaggen der linken Zunge 
-
 Am Zungenrücken (links) findet sich die Spur des Radkranzes (1) (Radinnenseite). Auf der 
-
 gegenüberliegenden Seite wird die Spur der Radaußenseite (2), die im weiteren Verlauf abgleitet  (3),  erkennbar.  An  der  Stützknagge  (4)  liegt  die  Zunge  nicht  an,  erkennbar  ist  ein 
 
 Spiel von etwa 10 mm. Unter Last wurde die Zunge seitlich an die Knagge gedrückt, was an 
-
 der  Reibfläche  auf  der Gleitstuhlplatte (5) deutlich erkennbar ist. Inwieweit sich bei der Befahrung das seitliche Verdrücken der Zunge an den Knaggen auf die Zungenspitze auswirkte, konnte nicht im Detail abgeschätzt werden. Durch das Biegen der Zunge veränderte sich 
-
 jedoch auch deren Spannung, was sich wiederum auf die Lage an der Zungenspitze auswirken  konnte.  Dieser  Einfluss  war  aufgrund  des  Abstandes  von  der  Zungenspitze  zu  den 
-
 Knaggen nur bei kurzen Folgeabständen der DG möglich. Die Ergebnisse der weiteren Untersuchungen  ließen  darauf  schließen,  dass  RS 4  von  DG  D zuerst  entgleiste.  Das  vorlaufende DG E könnte die Zungenlage somit anhand einer Biegung durch den kurzen Drehgestellabstand beeinflusst haben. 
-
 Seite 61 von 81 
-
  
   
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -8309,93 +4502,51 @@ Seite 61 von 81
  
  
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
-
 5 
-
 Auswertung und Schlussfolgerungen 
-
 5.1 
-
 Oberbau 
-
 5.1.1 
-
 Bewertung der Gleisgeometrie 
-
 Basis der Bewertung ist die von der BEU begleitete Gleisgeometriemessung mit dem MISS-
-
 GMTZ  am  15.05.2017.  Die  Messergebnisse wichen leicht von denen der letzten Inspektion 
-
 im  Januar  2017  ab.  Sowohl  die  beiden  Fehler  in  der  Längshöhe  (LH)  in  km  163,653 
-
 (LH 18 mm) als auch der Fehler in der Verwindung (Vw) in km 163,678 (110 %) wurden bei 
-
 der  Messfahrt  als  SR100 Überschreitungen  eingestuft.  Beide  Gleislagefehler  lagen  vor  der 
-
 Entgleisungsstelle.  Der  Abstand  zwischen  beiden  Fehlern  betrug  etwa  25  m.  Die  beiden 
-
 Längshöhenfehler  lagen  an  der  Schweißung  S54/UIC60,  am  Übergang  Holzschwelle 
-
 /Betonschwelle. Die Ursache des Verwindungsfehlers war ein Fehler der gegenseitigen Hö-
-
 henlage an einem Isolierstoß. 
-
 Der Spurweitenfehler in km 163,582 liegt etwa 100 m vor der Entgleisungsstelle und stand in 
-
 keinem Zusammenhang mit der Zugentgleisung in der DKW 36. 
-
 Bei  der  Pfeilhöhe  waren  rechts  wie  links  Abweichungen  zwischen  7  und  8  mm  erkennbar, 
-
 wobei  SR100  nicht überschritten wurde. Beim Gesamtsignal, welches eine Gleiszustandsbe-
 
 trachtung  aller  Gleislagefehler  in  einem  definierten  Abschnitt  darstellt,  wurde  SR100  jedoch 
 
 überschritten und somit eine unruhige Gleislage dokumentiert.  
-
 5.1.2 
-
 Schlussfolgerungen Gleisgeometrie 
-
 •  Die  vorgefundenen  Gleislagefehler  in  der  Längshöhe  und  Verwindung  hatten  sich  seit 
-
 der letzten Regelinspektion etwas verschlechtert, stellten nach den Bewertungsmaßstä-
-
 ben der Ril 821 aber nach wie vor keine betriebsgefährdenden Überschreitungen dar. Im 
-
 Fall der Pfeilhöhe hatten sich die Werte verbessert. Da in der Zwischenzeit keine nach-
-
 weisbare Instandsetzung stattfand, könnte die Differenz der Messergebnisse an den un-
-
 terschiedlichen Messfahrzeugen, der Messrichtung und der Messgeschwindigkeit liegen. 
-
 Die  SR100 Mängel  wurden  nach  der  letzten  Inspektion  bewertet  und  zur  Beseitigung  für 
-
 Juli 2017 angemeldet. 
-
 •  Die vorgefundene, nach Ril 821 zulässige, aber unruhige Gleislage ist zeitnah instand zu 
-
 setzen. 
-
 •  Es  ist  zu  vermuten,  dass  es  während  der  Bauarbeiten  im  Frühjahr  2014  durch  einen 
-
 Montagefehler beim Verspannen zu dem Richtungsfehler im Bereich des linken Radlen-
-
 Seite 62 von 81 
-
- 
- 
- 
- 
- 
  
  
  
  
  
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
 
 kers  kam.  Dieser  Gleislagefehler  war  für  sich  betrachtet  nicht  sehr  ausgeprägt  und  überschritt  bei  den  folgenden  Gleisgeometriemessungen  SR100  nicht.  Trotz  der  sensiblen  Lage,   unmittelbar   am   Weichenanfang,   wurde   dieser   Fehler   offensichtlich   vom   Instandhaltungspersonal v  ernachlässigt.   
@@ -8409,13 +4560,9 @@ Auffälligkeiten  beim  Anlaufen  der  Räder  an  der  Weichenzunge.  Die  Inte
 allerdings   viel   geringer   und   allein   auf   die   Trassierungsfolge   ohne   Übergangsbogen   zurückzuführen.  
 
 •	   Aufgrund  der  Trassierungsfolge  befanden  sich  die  Drehgestelle  beim  Erreichen  des  Radlenkers  noch  im  Bogenlauf  und  hatten  sich  noch  nicht  wieder  geradegestellt.  Die  Gleislagefehler  am  Radlenker  bewirkten  einen  zusätzlichen  Impuls  auf  die  DG,  in  dessen  Folge  
-
 insbesondere  das  erste  Rad  eines  DG  unter  einem  höheren  Anfahrwinkel  auf  die  nachfolgende  Weichenzunge  traf  und  Gratbildung  sowie  Materialverformung  entstehen  ließ.  
-
 Eine  Änderung  des  Anlaufwinkels  im  Bereich  der  Zungenspitze  wurde  durch  die  vorhandene  
-
 Gleisgeometrie  und  den  gestörten  Radlenkereinlauf  beeinflusst.  
-
 5.1.3   Weicheninspektion  gemäß  Ril  821  „Oberbau  inspizieren“   
 
 Die   Inspektion   soll   von   qualifizierten   Funktionsträgern   gemäß   Tabelle   1   der   Ril   821.2005  
@@ -8439,22 +4586,10 @@ liegen   jedoch   nur   die   Ergebnisse   der   am   06.07.2016   abgeschlossen
 durch  den  Teamleiter  vor.  Die  Ergebnisse  der  Alv-Begutachtung,  die  u.  a.  auch  die  DKW  36  
 
 beinhalten,  konnten  nicht  vorgelegt  werden.   
-
 Voraussetzung  für  eine  umfassende  augenscheinliche  Begutachtung  ist  die  vorherige  Reini-
-
 Seite 63 von 81 
-
  
   
-  
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -8464,7 +4599,6 @@ Seite 63 von 81
  
  
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
 
 gung  der  Zunge.  Ob  die  Zunge  bei  der  Inspektion  gereinigt  wurde,  kann  nicht  nachvollzogen  
@@ -8494,9 +4628,7 @@ Verschleiß   in   Form   von   Gratbildung   und   Materialverdrückung   an   
 DKW  36  hinterlegt  sind,  ist  davon  auszugehen,  dass  die  Mängel  entweder  nicht  aufgefallen  
 
 waren  oder  ignoriert  wurden.   
-
 Mögliche  Ursachen  hierfür  können  sein:   
-
 •	   nicht  ausreichend  qualifiziertes  Inspektions- und  Überwachungspersonal,  
 
 •	   mangelhafte   Reinigung   der   Zunge   –   anhaftendes   Spurkranzschmierfett   wurde   bei   der  
@@ -8510,22 +4642,9 @@ Einer  Klärung  bedarf  auch  die  fehlende  Alv-Begutachtung  zum  NI-01-Auftr
 Hier  stellt  sich  die  Frage,  ob  der  Alv  seiner  Verpflichtung  zur  augenscheinlichen  Kontrolle  der  
 
 DKW  36  nachgekommen  ist.  
-
 Seite 64 von 81 
-
  
   
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -8536,21 +4655,14 @@ Seite 64 von 81
  
  
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
-
 5.1.4  
-
 Bericht  zur  Mehrkörpersimulation  
-
 Auszug  aus  dem  Bericht  zur  Mehrkörpersimulation  der  DB  Systemtechnik  GmbH,  Minden:  
-
 „Die  Weichenzunge  des  befahrenen  Stranges  wies  im  Bereich  des  Zungenanfanges  für  den  
-
 geraden   Fahrweg   untypische,  starke  Materialverquetschungen  mit  Gratbildung  auf.  Aufkletterspuren   wurden   an   der   Weiche   nicht   festgestellt.   Zur   Simulation   des   Fahrzeuglaufs   und  
 
 Ermittlung  der  Rad-Schiene-Kräfte  wurde  ein  Modell  erstellt  und  Berechnungen  mit  den  Parametern  der  entgleisten  Wagen  und  der  Strecke  zum  Zeitpunkt  des  Unfalls  durchgeführt.  
-
 Die  Ergebnisse  der  Simulation  zeigten:  
 
 •	   ein   lokales   Anlaufen   des   jeweils   linken   Rades   des   vorlaufenden   RS   im   vorlaufenden  
@@ -8568,9 +4680,7 @@ bis  zu  55  kN  (gefiltert)  und  72  kN (  ungefiltert)  im  Bereich  des  Anl
 Spurkranzflanke  auftritt,  wodurch  sich  der  Kontaktwinkel a  m  Rad  verringert,   
 
 •	   beim  lokalen  Anlaufen  eine  Radanhebung  bis  2,5  mm,  welche  wesentlich  durch  die  starre  Modellierung  der  Weichenzunge  bestimmt  wird.  
-
 Darauf   aufbauend   wurden   Vergleichsrechnungen   mit   Parametervariationen   mit   folgenden  
-
 Ergebnissen  durchgeführt:  
 
 •	   Die  Trassierung  des  Zulaufes  zur  Weiche  bestimmt  wesentlich  das  Anlaufen  an  der  Zunge,  
@@ -8586,18 +4696,8 @@ Eine  vollständige  Entgleisung  konnte  in  der  Simulation  nicht  abgebildet
 ist   durch   die   Parametervariation   und   dem   Abgleich   der   Ergebnisse   aus   der   Messung   mit  
 
 Seite 65 von 81 
-
  
   
-  
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -8607,31 +4707,20 @@ Seite 65 von 81
  
  
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
-
 dem ICE S nachgewiesen worden, dass der Richtungsfehler im Zulauf auf die Weichenzunge einen maßgeblichen Einfluss auf das Anlaufen und Entgleisungsvermögen besaß.“ 
-
 Letztendlich  ist  festzustellen,  dass  mit  den  Eingangsparametern,  dem  Modell  sowie  dem 
-
 Simulationsprogramm  zwar  auf  dem  aktuellen  Stand  gerechnet  wurde,  trotzdem  aber  noch 
 
 Unschärfen  auftraten,  da  eine  tatsächliche  Entgleisung  nicht  simuliert  werden  konnte.  Die 
 
 Ergebnisse  der  Simulation  zeigten  jedoch  Ansätze  und  Trends  auf, die die Entgleisungsursache transparenter darstellen. 
-
 5.1.5 
-
 Bericht zur Schadensuntersuchung der Zungenvorrichtung 
-
 Zusammenfassung  zur  werkstofftechnischen  Untersuchung  der  Zungenvorrichtung  der  DB 
-
 Systemtechnik GmbH, Kirchmöser: 
-
 „Im  Ergebnis  der  vollständigen  werkstofftechnischen  Schadensuntersuchung  an  der  Zungenvorrichtung  wurden  potentielle  Entgleisungsspuren  nur  innerhalb  der  ersten  fünf  Meter 
-
 der Zungenschiene festgestellt. 
-
 Die  metallographische  Untersuchung  des  verquetschten  Zungenanfangs  ergab,  dass  das 
 
 Mikrogefüge  der  Fahrkante  im  oberen  Drittel  nach  oben  und  in  den  unteren  zwei  Dritteln 
@@ -8641,108 +4730,12 @@ nach unten verformt war. Die plastische Deformation des oberflächennahen Gefüg
 Fahrflanke  der  Zungenschiene  lässt  auf  ein  Anfahren  in  der  oberen  Hälfte  der  Fahrflanke 
 
 schließen, was die Ergebnisse der Simulationsrechnung bestätigt und untermauert. 
-
 Gemäß den technischen Zeichnungen sowie den Vorgaben in der Weichenskizze ist für die 
-
 Zunge  eine  Materialgüte  R260  vorzusehen.  Der  verwendete  Werkstoff der verformten Zungenschiene entsprach am Zungenanfang und im Vollmaterial der Güte R260 und war nach 
-
 den geltenden Lieferbedingungen nicht zu beanstanden.“ 
-
 Seite 66 von 81 
-
  
   
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -8833,31 +4826,6 @@ Seite 66 von 81
  
  
   
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -8883,14 +4851,10 @@ Seite 66 von 81
  
  
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
-
 Abb. 53: Darstellung bei Microschliff 500 
 Quelle: DB Systemtechnik GmbH, Kirchmöser 
-
 5.1.6  
-
 Zusammenfassung  aus  dem  Bericht  der  Fa.  SIMTES  KG  
 
 Zur   fachlichen   Begleitung   und   unabhängigen   Beurteilung   der   umfangreichen   Untersuchungen  und  Simulationen  der  DB  Systemtechnik  GmbH  wurde  von  der  BEU  ein  externer  Sachverständiger  der  Fa.  SIMTES  KG  beauftragt.  
@@ -8902,33 +4866,14 @@ vermuteten   Entgleisungsursache   durch   Aufklettern   eines   Rades  an  der 
 der  detaillierten  Darstellung  der  Rad-Schiene-Kräfte  ausreichend  gewählt  wurde.  Unbekannte  Parameter  wurden  plausibel  angenommen  bzw.  abgeschätzt.  Die  durchgeführten  Variantenrechnungen  wurden  als  plausibel  und  die  Auswahl  als  schlüssig  bewertet.  Unter  Berücksichtigung   der   Untersuchungsergebnisse   ergibt   sich   für   den   Sachverständigen   eine   relativ  
 
 eindeutige   Kausalität  
-
 zwischen   Trassierung,   Gleislage,   Reibparametern,   Verschleiß/Verformung,  Kontaktgeometrie  und  der  Entgleisung.  
 
 Als  wahrscheinliche  Ursache  wird  das  Aufklettern  des  in  Fahrtrichtung  linken  Rades  (RS  4)  
 
 des  führenden  DG  (DG  D)  des  vorletzten  Wagen  806  629-2  an  der  Weichenzunge  aufgrund  
-
 Seite 67 von 81 
-
  
   
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -8944,19 +4889,12 @@ Seite 67 von 81
  
  
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
-
 eines  vergrößerten  Anlaufwinkels  in  Verbindung  mit  einer  ungewöhnlichen  Materialverformung an der Weichenzunge angenommen. 
-
 5.1.7 
-
 Zusammenfassung der bisherigen Untersuchungsergebnisse 
-
 Aufgrund der ungünstigen, aber nach Regelwerk zulässigen Trassierung kam es in Verbindung  mit  ebenfalls  noch  zulässigen  Gleislagefehlern  zum  permanent  harten  Anfahren  der 
-
 linken Zunge der DKW 36. Die Zunge mit der verwendeten Schienengüte R260 begann sich 
-
 untypisch zu verformen. 
 
 Abb. 54: Kontaktpunkt neues Radprofil / neue Zunge, ca. 250 mm nach Zungenanfang 
@@ -8966,14 +4904,10 @@ Abb. 55: Kontaktpunkt neues Radprofil / verformte Zunge, ca. 250 mm nach Zungena
 Quelle: DB Netz AG 
 
 Durch das ständige punktuell steilere Anfahren der Radkränze nahm die Verformung an der 
-
 Zunge nach und nach den Umriss des Spurkranzes an. 
-
 Seite 68 von 81 
-
  
   
-  
  
  
  
@@ -9005,54 +4939,6 @@ Seite 68 von 81
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  
- 
- 
- 
- 
- 
-   
  
  
  
@@ -9070,24 +4956,6 @@ Seite 68 von 81
  
  
    
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -9107,9 +4975,7 @@ Seite 68 von 81
  
  
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
-
 Abb. 56: Nahaufnahme I, Verformung der 
 Weichenzunge 
 Quelle: DB Systemtechnik, Minden 
@@ -9119,37 +4985,22 @@ lich des Spurkranzprofils
 Quelle: DB Systemtechnik, Minden 
 
 Abb. 58: Nahaufnahme III, Größe der Verformung
- 
 Quelle: DB Systemtechnik, Minden
- 
+
 
 Geht   man   von   den   Simulationsergebnissen   aus,   bei   denen   das   Rad   an   der   Verformungsstelle   durch   den   Anfahrimpuls   einen   Radanhub   von   ca.   2,5   mm   erfuhr,   veränderte   sich   die  
 
 Kontaktfläche  Rad/Schiene  quasi  zu  einer  Einpunktberührung  im  Bereich  der  Verformungsstelle.   Aufgrund   des   Richtungsfehlers   wirkten   bei   diesem   kurzzeitigen   punktuellen   Ereignis  
 
 lokal  hohe  Radführungskräfte,  was  zu  den  beschriebenen  Materialverschiebungen  und  einer  
-
 veränderten  Berührgeometrie  führte.  Der  herabgesetzte  Reibfaktor  der  geschmierten  Zunge  
 
 hemmte   hierbei   das   klassische   Aufklettern,   konnte   aber   ein   Aufgleiten   oder   Anheben   des  
 
 Rades  unter  dem  Einfluss  des  Anfahrimpulses  aus  dem  Anfahrwinkel f  ördern.  
-
 Seite 69 von 81 
-
  
   
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -9170,183 +5021,56 @@ Seite 69 von 81
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
+       
  
  
  
        
  
  
- 
- 
- 
- 
- 
-       
- 
- 
- 
- 
-                    
                     
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
-
 Der  neutrale  Punkt  für  die  Verformung  lag  nach  den  Untersuchungsergebnissen  von 
-
 DB Systemtechnik Kirchmöser ca. 4 mm unterhalb der Zungenoberkante. Das Material verschob  sich  von  diesem  Punkt  ausgehend  nach  oben  bzw.  unten.  Das  Anlaufen des Rades 
 
 erfolgte  in  der  oberen  Hälfte.  Plausibel  wurde  dieser  Anlaufpunkt  dadurch,  dass  sich  das 
 
 Rad durch den Anfahrimpuls leicht anhob bzw. sich die Zunge durch Hohllage leicht absenkte. Dadurch veränderten sich die Berührflächen Rad/Schiene. In welchem zusätzlichen Maß 
-
 sich  die  Zungenlage  bei  Befahrung  durch  Nichtanliegen  an  den  Stützknaggen  veränderte, 
-
 kann  nicht  abgeschätzt  werden.  Ausgehend  von  dem  neutralen  Verformungspunkt  4  mm 
-
 unterhalb  der  Zungenoberkante  ist  plausibel,  dass  die  Zunge  nicht  von  allen  Spurkränzen 
-
 gleichmäßig  angefahren  wurde  und  auch  Krafteinträge  durch  Anlaufen  über  und  unterhalb 
-
 von  4  mm  möglich  waren.  Bei  der  vorgefundenen  Spurenlage  war  die  Ursache  allerdings 
 
 nicht  auf  ein  klassisches  Aufklettern  des  Rades  zu  reduzieren,  da  die  Bedingungen  hierfür 
 
 nicht vorlagen und auch keine Aufkletterspuren erkennbar waren. 
-
 Der eigentliche Entgleisungsvorgang ereignete sich im Bereich der Verformungsstelle spurlos und offensichtlich spontan. 
-
 Die BEU ist daher der Auffassung, dass es sich eher um das „Anheben“ eines Rades handelte. Durch harmonisierte Kontaktflächen zwischen Zunge und Spurkranz, dem großen Anfahrwinkel, dem harten Anfahren des steilen Radkranzes und einer kurzzeitigen Achsentlastung war es möglich, dass es durch den Anfahrimpuls zu einem Anheben des linken Rades 
-
 kam.  In  unterschiedlichen  Kombinationen  sind  somit  Szenarien  denkbar,  die  eine  Entgleisung herbeiführen konnten. Das entgleiste Rad fuhr anschließend in der Rille zwischen Backenschiene und anliegender linker Zunge weiter. 
-
 Auf  Abb.  59 
-
 ist  der  Zustand  Backenschiene/Zunge/Spurkanz  250  mm  hinter  der 
-
 Zungenspitze  dargestellt.  Die  Lage  der  Weichenzunge  wurde  im  unbelasteten  Zustand 
-
 gescannt  und  auch  so  dargestellt.  Sowohl  eventuelle  Verformungen  der  Weichenzunge 
-
 aufgrund  der  Dynamik  bei  der  Überfahrt  als  auch  ein  vermutetes  Absenken  der 
-
 Zungenspitze  sowie  die  Auswirkungen  des  Knaggenspiels  sind  nicht  dargestellt.  Weiterhin 
 
 ist  zu  beachten,  dass  das  Rad  auf  Abb.  59  parallel  zur  Weichenzunge  steht.  Der  aus  der 
 
 Simulation  ermittelte  Anfahrwinkel  des  Rades  durch  die  Schrägstellung  des  DG  betrug 
-
 ca. 1°.  Im  Verformungsbereich  der  Weichenzunge  wurden  alle  50  mm  Querprofile  erstellt 
-
 und  diese  Ergebnisse  wiederum  in  die  Simulation  eingebunden.  Da  aufgrund  der  groben 
-
 Rasterung  der  Querprofile  nicht  genau  bekannt  war,  an  welchem  Punkt  das  Rad  auf  die 
-
 Zunge 
-
 im  verformten  Bereich 
-
 traf,  konnte  auch  keine  exakte  Aussage  über  den 
 
 tatsächlichen  Anlaufwinkel  des  Rades  erfolgen.  Dieser  könnte  sich  je  nach  Anfahrstelle  im 
 
 Seite 70 von 81 
-
  
   
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -9431,123 +5155,6 @@ Seite 70 von 81
  
  
   
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -9665,13 +5272,9 @@ Seite 70 von 81
  
  
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
-
 Verformungsbereich  auch  noch  weiter  erhöhen.  Je  steiler  der  Anlaufwinkel  und  der 
-
 Kontaktwinkel  waren,  desto  ungünstiger  wirkten  auch  die  dynamischen  auftretenden 
-
 Kraftspitzen. 
 
 Abb. 59: Zustandsskizze Backenschiene/Zunge/Spurkranz 
@@ -9688,107 +5291,11 @@ Kontaktpunktes  von  ca.  23  mm  bei  1°  und  30  mm  bei  1,5°.  Betrachtet
 Bereich  am  Radprofil,  bei  dem  der  Spurkranzwinkel  eine  kritische  Neigung  ab  ca.  40°  aufweist  und  legt  diesen  in  das  Profil  der  Verformung  der  Zunge,  so  besteht  die  Möglichkeit, 
 
 dass  an  dieser  Stelle  ein  Kontakt  des  Spurkranzes an der Zunge erfolgen konnte und sich 
-
 das Rad dadurch anhob und entgleiste. Die DB Systemtechnik Minden führte diesbezüglich 
-
 weitere Untersuchungen zu den Kontaktpunkten Rad/Schiene durch. Bezogen auf die Kontaktbedingungen lagen die Kontaktwinkel bei ca. 65° bis ca. 71° und wurden nicht als kritisch 
-
 Seite 71 von 81 
-
  
   
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -9881,53 +5388,17 @@ Seite 71 von 81
  
  
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
-
 bewertet. Anzumerken ist hierbei jedoch, dass bei allen ermittelten Werten von einer starren 
-
 Zunge ausgegangen wird. 
 
 Abb. 60: schem. Darstellung einer Weichenzunge und die durch veränderten Anfahrwinkel eines Spurkranzes erzeugte Materialverformung 
 
 Abb. 61: Anlaufwinkel in Fahrtrichtung 
 Quelle: Bericht DB Systemtechnik GmbH, Kirchmöser 
-
 Seite 72 von 81 
-
  
   
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -9959,123 +5430,28 @@ Seite 72 von 81
  
  
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
-
 Abb. 62: Anlaufwinkel quer zur Fahrtrichtung 
 Quelle: Bericht DB Systemtechnik GmbH, Kirchmöser 
-
 Als  maßgebende  Ursachen  der  Zugentgleisung  sind  die  gestörte  Gleislage  im  Einfahrbereich der DKW  36, dass daraus resultierende dynamische harte Anfahren an die linke Weichenzunge und die sich ausbildende punktuelle Verformung an der linken Zunge im gerade 
-
 befahrenen  Fahrweg  a/c  zu  nennen.  Entstehen  konnte  diese  punktuelle  Verformung,  weil 
-
 das  Instandhaltungspersonal  zwar  termingerecht  inspizierte,  den  Verschleißzustand  an  der 
-
 linken Zunge jedoch falsch einschätzte oder nicht erkannte. Bei vollumfänglicher Einhaltung 
-
 der  Vorgaben  der  entsprechenden  Ril  hätten  die  diversen  Mängel erkannt  werden  können. 
 
 Dies  trifft  sowohl  auf  das  inspizierende  als  auch  auf  das  überwachende  Personal  zu.  Die 
 
 vorgefundene Materialverformung und die anderen Mängel entstanden sicher nicht spontan 
-
 – die in diesem Bericht aufgeführten, beschriebenen Mängel konnten sich über einen längeren  Zeitraum  entwickeln,  ohne  dass  eine  vollständige  Befundung  oder  Instandsetzung  erfolgte. 
-
 5.2 
-
 Leit- und Sicherungstechnik 
-
 5.2.1 
-
 Auffahrmeldung am 22.04.2017 
-
 Die  Untersuchung  der  Ursache  der  Auffahrmeldung  vom  22.04.2017  der  DKW  36  a/b  war 
-
 bis auf eine lose Befestigung des Weichenkastens ohne Befund. 
-
 Seite 73 von 81 
-
  
   
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -10154,21 +5530,6 @@ Seite 73 von 81
  
  
   
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -10185,243 +5546,36 @@ Seite 73 von 81
  
  
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
-
 Der feste Sitz des Weichenkastens ist notwendig, da es sonst zu Schwierigkeiten beim vollständigen  Einrasten  des  Prüferhakens  an der Riegelstange kommen kann. Die zur Arretierung des Prüferhakens vorhandene Nut ist dabei jedoch nur wenig größer als der Prüferhaken selbst. 
-
 Es  ist  möglich,  dass  die  Auffahrmeldung  durch  unbeabsichtigte  Bewegungen  der  Prüferstange ausgelöst wurde. Ursachen hierfür können sein, dass die Zungenrollvorrichtungen in 
-
 ihrer Funktion eingeschränkt war oder die Prüfer- und Schieberstange nicht mit anliegender 
-
 Zunge  an  den  Knaggen  eingestellt  wurden.  Hierdurch  wäre  es  bei  der  Überfahrt  zu  einem 
-
 ständigen Wechsel zwischen An- und Abliegen der Zunge im Bereich der Knaggen gekommen,  was  sich  dynamisch  auf  die  Zungenspitze  und  somit  auch  auf  die  Komponenten  des 
-
 Weichenantriebes übertragen hätte. 
-
 Nach vollständigem Anziehen der Befestigungsschrauben des Weichenkastens wurden keine weiteren Mängel festgestellt. 
-
 5.2.2 
-
 Auffahrmeldung am Ereignistag 
-
 Eine weitere Möglichkeit für das Auslösen der Auffahrmeldung beim Fdl kann aber auch aus 
-
 den Zusammenhängen des zuerst entgleisten RS abgeleitet werden. 
-
 Nach  dem  Anheben  des  linken  Rades  an  der  Zunge  lief  es  in  der  Rille  zwischen  Backenschiene  und  anliegender  linker  Zunge  weiter,  bis  der  RS  im  weiteren  Fahrtverlauf  kurz  vor 
 
 der Flügelschiene von den Backenschienen abglitt und durch den Fehllauf der Räder beide 
-
 Zungen zwängte. Die hier entscheidende rechte abliegende Zunge erfuhr dabei eine Zwängung nach links. Durch das danach folgende Anfahren der Flügelschiene, sprang das rechte 
 
 Rad  hoch  und  entlastete  die  rechte  Zunge  schlagartig.  Die  Zunge  schnellte  wieder  in  die 
 
 eigentliche Lage zurück, wobei sie durch die plötzliche Entlastungsdynamik über die Normallage  hinaus  weiter  nach  rechts  zurückschnellte  und  diese  Dynamik  auf  die  Zungenspitze 
-
 übertrug. Dieser Impuls auf die Zunge bewirkte kurzzeitig deren Richtungsänderung, wie sie 
-
 durch  einen  normalen  Auffahrvorgang  bei  stumpfer  Befahrung  entsteht  (hierbei  wird  der 
-
 Verschluss  der  linken  anliegenden  Zunge  durch  die  Bewegung  der  abliegenden  rechten 
-
 Zunge aufgezogen und es kann unter dem Zug trotz spitzer Befahrung zum klassischen Auffahren der Weiche kommen). Die vorstehend genannten Mängel an der Weiche hätten diese 
-
 Möglichkeit begünstigen können. 
-
 Ob  die  Störung  vom  22.04.2017  bereits  im  Zusammenhang  mit  der  späteren  Entgleisung 
-
 stand, kann nicht abschließend beurteilt werden, da vom Infrastrukturbetreiber keine detaillierteren Untersuchungen zur Ursache der Auffahrmeldung veranlasst wurden. 
-
 Seite 74 von 81 
-
  
   
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -10605,102 +5759,41 @@ Seite 74 von 81
  
  
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
-
 Am  Ereignistag  kam  es  zu  umfangreichen  Untersuchungen  am  Weichenkasten  und  Weichenantrieb. Während festgestellt wurde, dass der Weichenkasten nicht vollständig befestigt 
-
 war,  blieb  die  Funktionsprüfung  des  Antriebes  ohne  Befund.  Die  verbogene  Riegelstange 
-
 des Klinkenverschlusses ist als mögliche Folge des Ereignisses zu bewerten. 
-
 5.3 
-
 Betriebliche Handlungen 
-
 Die  betrieblichen  Handlungen  der  beteiligten  Betriebspersonale,  sowohl  des  EIU  als  auch 
-
 des EVU, hatten keinen ursächlichen Einfluss auf den Eintritt des Ereignisses. 
-
 Gleichwohl ist anzumerken, dass bei der Überprüfung des Störungsdruckers auffiel, dass es 
-
 pro zählpflichtiger Handlung einige Male zu Doppelungen der ausgegebenen Nummern kam. 
-
 Damit  war  die  eindeutige  Zuordnung  der  jeweiligen  Handlung  nicht  mehr  gegeben.  Hinzu 
-
 kam,  dass  die  pro  zählpflichtiger  Handlung  vorgeschriebenen  Eintragungen  auf  dem  Ausdruck des Störungsdruckers nur rudimentär durchgeführt wurden. Auch dieser Umstand verhinderte eine lückenlose Nachverfolgung einzelner zählpflichtiger Handlungen. 
-
 Etwaige  Einträge  im  „Arbeits- und  Störungsbuch“  fehlten  ebenso  wie  die  Dokumentation 
-
 zählpflichtiger  Handlungen  bei  gestörtem  Störungsdrucker  im  „Nachweis  der  Zählwerke“. 
-
 Der Mangel stand aber nicht im direkten Zusammenhang mit dem Ereignis. 
-
 5.4 
-
 Fahrzeuge 
-
 5.4.1 
-
 Untersuchungen der Fahrzeugelemente Tz 229 
-
 Nach  Abschluss  umfangreicher  Untersuchungen  am  gesamten  Zug  Tz  229  wurden  weder 
-
 Mängel noch Abweichungen von Sollmaßen in einem Umfang festgestellt, der ursächlich für 
 
 das  Ereignis  hätte  sein  können.  Auffällig  war  allerdings,  dass  einige  Fahrzeuge,  u.  a.  die 
 
 entgleisten Wagen, Spurkranzflankenwinkel von über 70° aufwiesen. 
-
 5.4.2 
-
 Ergebniszusammenfassung Untersuchung der Zug-/Druckstangen 
-
 Die  Ergebnisse  der  Untersuchungen  der  RWTH  Aachen  sind  nachfolgend  zusammengefasst. 
-
 „Die  chemische  Analyse  der  Probe  von  Bruchstück  1a  liegt  innerhalb  der  genormten  Zusammensetzung von G-AlSi7Mg (3.2371). Die Härte aller drei Anlenkstangen liegt bei 89-95 
-
 HBW 5/250 und erfüllt somit die Anforderung nach DIN 1725 Teil 2. Bei der rasterelektronischen [sic!] Untersuchung der Bruchflächen konnte nur der Gewaltbruch festgestellt werden. 
-
 Demnach sind die Stangen nicht auf Grund einer schwingenden Belastung, sondern wegen 
-
 einer einmaligen gewaltsamen Überbeanspruchung gebrochen. Da der Werkstoff zahlreiche 
-
 Seite 75 von 81 
-
  
   
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -10772,133 +5865,7 @@ Seite 75 von 81
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
   
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -10984,123 +5951,34 @@ Seite 75 von 81
  
  
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
-
 kleine Ungänzen aufweist und wegen seines hohen Si-Gehaltes nicht duktil sein kann, sind 
-
 die plastischen Verformungen relativ gering.“ 
-
 5.4.3 
-
 Radprofile 
-
 Die  Vermessung  der  Radprofile  ergab  laut  Gutachter  keinen  Befund.  Gleichwohl waren  erhöhte Werte der äquivalenten Konizität an den letzten beiden Fahrzeugen auffällig. 
-
 Laut  Bericht  der  DB  Systemtechnik  GmbH  zur  Untersuchung  der  Drehgestelle  und  deren 
-
 Komponenten ergab die berührgeometrische Auswertung, dass die nach DIN EN 15302 [5] 
-
 berechneten  äquivalenten  Konizitäten  in  Paarung  mit  einer  Schiene  60E2  (Spurweite 
-
 1435 mm, Einbauneigung 1:40) bei einer Querverschiebung von 3 mm in einem Bereich von 
-
 0,05 < tan γ < 0,40 liegen. Gemäß TSI Infrastruktur liegt der Betriebsgrenzwert der äquivalenten  Konizität  (für  die  Zwecke  der  gemeinsamen  Untersuchung)  für  den  Geschwindigkeitsbereich 60 km/h < v ≤ 120 km/h bei 0,40. 
-
 Die TSI für das Teilsystem Infrastruktur regelt in Abschnitt 4.2.4.5 den Umgang mit der äquivalenten Konizität. In Absatz (2) ist definiert, dass bei Weichen und Kreuzungen eine Bewertung  der  äquivalenten  Konizität  nicht  erforderlich  ist.  Unter  Abschnitt  4.2.11.2  ist  geregelt, 
 
 wie  die  äquivalente  Konizität  im  Betrieb  zu  betrachten  ist.  Hiernach  ermitteln  bei  einem  instabilen Fahrverhalten sowohl EVU als auch EIU die Ursache gemeinsam. 
-
 Bei  den  Untersuchungen  wurde  kein  instabiles  Fahrverhalten  des  ICE  945  im  Bereich  der 
-
 Entgleisungsstelle festgestellt. 
-
 Der  Parameter  äquivalente  Konizität  wurde  laut  gutachterlichem  Bericht  bei  der  Entgleisungsgeschwindigkeit  von  etwa  70 km/h  hinsichtlich  instabilem  Fahrzeugverhalten  nicht als 
-
 relevant eingestuft und hatte keinen Einfluss auf den Entgleisungsvorgang. 
-
 Bei  weitergehenden  Auswertungen  der  DB  Systemtechnik  Minden  wurde  festgestellt,  dass 
-
 der Spurkranzflankenwinkel an den entgleisten Wagen, aber auch bei anderen Wagen des 
 
 Zuges,  über  70°  aufwies. Der  steilste  Spurkranzflankenwinkel  γ  am  Radprofil  12  des  nicht 
 
 entgleisten  Wagens  806.3  lag  bei  77°.  Beim  nachlaufenden,  vermutlich  zuerst  entgleisten 
-
 Wagen 806.6 betrug der Spurkranzflankenwinkel γ ca. 74°. 
-
 Seite 76 von 81 
-
  
   
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -11234,87 +6112,6 @@ Seite 76 von 81
  
  
  
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -11330,12 +6127,9 @@ Seite 76 von 81
  
  
    
- 
   
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
-
 Abb. 63: Messblatt 
 
 Beide  Werte  sind  deutlich  größer  als  70°  und  somit  als  steile  Spurkranzflankenwinkel  einzustufen.  Für  den  Spurkranzflankenwinkel  als  Einzelwert  sind  keine  Grenzwerte  hinterlegt.  Die  
@@ -11343,7 +6137,6 @@ Beide  Werte  sind  deutlich  größer  als  70°  und  somit  als  steile  Spur
 EBO   gibt   mit   dem   qR-Maß   jedoch   einen   Wert   für   die   Flankensteilheit   der   Spurkränze   vor.  
 
 Der  Grenzwert  von  qR  liegt  bei  6,5  und  darf  nicht  unterschritten  werden.  Die  bei  der  Untersuchung  gemessenen  qR-Maße  lagen  mit  9,8  bis  11,3  aber  deutlich  darüber.   
-
 Der  Spurkranzflankenwinkel  verändert  sich  mit  zunehmendem  Verschleiß.  Während  neuprofilierte   Räder   über   einen   optimierten   flacheren   Spurkranzflankenwinkel   verfügen,   wird   der  
 
 Spurkranzflankenwinkel  mit  zunehmendem  Seitenverschleiß  steiler.  Hier  setzt  nun  das  Aufkletterkriterium   von   Nadal   an.   Bei   einem   Spurkranzflankenwinkel   von   70°   und   einem   Spurkranzreibfaktor  µ  =  0,36  ergibt  sich  ein  Gleichgewicht  der  abhebenden  und  niederhaltenden  
@@ -11359,22 +6152,9 @@ Anfahrwinkel   konnte   durch   Veränderungen   der   Kontaktgeometrie   und   
 Kontaktpunktes  an  der  verformten  Stelle  der  Zunge  jedoch  ein  „Aufgleiten“  oder  „Anheben“  
 
 des  Rades  bewirken.  
-
 Seite 77 von 81 
-
  
   
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -11386,288 +6166,71 @@ Seite 77 von 81
  
  
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
-
 6 
-
 Bisher getroffene Maßnahmen 
-
 Aufgrund der Ergebnisse der DB Systemtechnik GmbH wurden ca. 160 Kreuzungsweichen 
-
 mit Trassierungsparametern in der eigenen Infrastruktur ermittelt, die mit denen der DKW 36 
-
 Dortmund Hbf vergleichbar sind. Durch eine technische Mitteilung (TM 1-2018-10129-I.NPF 
-
 1 gültig vom 10.04.18) wurden die regionalen Organisationseinheiten beauftragt, diese Wei-
-
 chen bis zum 31.07.2018 in den geraden Zungen visuell auf Seitenverschleiß zu inspizieren 
-
 und die Inspektionsergebnisse der Zentrale DB Netz AG zu melden. 
-
 Maßnahmen aus den bisher gesammelten Erkenntnissen sind der BEU nicht bekannt. 
-
 Parallel  zur  Simulation  wurden  von  der  DB  Netz  AG  weitere  Weichen  im  Bf  Dortmund  hin-
-
 sichtlich  des  Zungenverschleißes  und  ähnlicher  Schadbilder  wie  bei  DKW  36  a  untersucht. 
-
 Im Ergebnis der Untersuchung befand die DB Netz AG, dass der vorgefundene Verschleiß 
-
 an der linken Zunge der DKW 36 a nicht als ungewöhnlich einzustufen sei.  
-
 Diese Meinung wird von der BEU so nicht mitgetragen. Die vorgestellten Ergebnisse liefer-
-
 ten  ausschließlich  Weichenzungen,  welche  einen  für  Bogenfahrten  typischen  Verschleiß 
-
 aufwiesen. 
-
 Die  bei  einer  Geradeausfahrt  in  DKW  36  vorgefundene  punktuelle  Verformung  wies  keine 
-
 der dargestellten Weichen auf. 
-
 6.1 
-
 Fazit aus dem Rückäußerungsverfahren 
-
 Im  Rahmen  eines  Rückäußerungsverfahrens  wurde  den  beteiligten  Eisenbahnen  und  dem 
-
 EBA  die  Gelegenheit  gegeben,  ihre  Auffassungen  und  Standpunkte  zu  der  Untersuchung 
-
 zum Ausdruck zu bringen.  
-
 Die DB Netz AG bemängelt in ihrer Rückäußerung, dass die Methoden der Untersuchungen 
-
 und  Simulationen  der  DB  Systemtechnik  zur  Ursache  der  ICE-Entgleisung  nicht  in  allen 
-
 Punkten dem aktuellen Regelwerk entsprächen und die abgeleiteten Erkenntnisse aus Sicht 
-
 der  DB  Netz  AG  keine  klare  Ursache  für  die  Entgleisung  erklären  könnten.  Aufgrund  der 
-
 regelmäßigen Informationsaustausche im Rahmen der Unfalluntersuchung und den Inhalten 
-
 der  Rückäußerung  wird  deutlich,  dass  die  DB  Netz  AG  im  Gegensatz  zur  BEU  und  der 
-
 DB Systemtechnik  von  grundsätzlich  verschiedenen  Beurteilungsbasen  für  die  Bewertung 
-
 der  Entgleisung  ausgeht.  Die  DB  Netz  AG  bewertet  das  Entgleisungsrisiko  auf  Basis  von 
-
 Normen und Richtlinien. Diese können aber nicht alle auftretenden Konstellationen und Fälle 
-
 für  eine  Entgleisung  berücksichtigen,  sondern  entstanden  aufgrund  von  Betriebserfahrun-
-
 gen,  Messungen  und  theoretischen  Untersuchungen.  Trotzdem  ist  nicht  ausgeschlossen, 
-
 Seite 78 von 81 
-
- 
- 
- 
- 
- 
  
  
  
  
  
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
-
 dass  es  immer  wieder  zu  unvorhergesehenen  Ereignissen  bzw.  Entgleisungen  kommen 
-
 kann.  Das  bedeutet, dass trotz Einhaltung  aller Normgrenzen Entgleisungen auftreten können, deren Ursachen nicht auf Basis der Normen erklärbar sind. Um die Ursachen der Entgleisung  zu  ermitteln,  müssen  die  Grenzen  oder  die  Bewertungsgrößen  der  Normen  bzw. 
-
 Basis daher zwangsläufig erweitert werden, um (neue) Wirkmechanismen zu erarbeiten, mit 
-
 denen  eine  wahrscheinliche  Entgleisungsursache  ermittelt  werden  kann.  Ziel  der  Simulationsrechnungen  der  DB  Systemtechnik  war  es,  die  Entgleisungsursache  zu  ermitteln.  Die 
-
 Bewertung  nach  den  akzeptierten  Bewertungsgrößen  ergab  keine  Auffälligkeiten,  somit  ist 
-
 es  notwendig,  weitere  Bewertungsgrößen  zu  verwenden.  Aus  den  Simulationsrechnungen 
-
 ergab sich, dass durch das Auftreten des Richtungsfehlers und das nachfolgende Anlaufen 
-
 ein  mögliches,  untypisches  Verschleißbild  an  der  Weichenzunge  entstehen  konnte.  Aufgrund  der  örtlichen  Gegebenheiten,  beeinflusst  durch die Trassierung, den Richtungsfehler 
-
 und den geringen Abstand zwischen Radlenker und der Weichenzunge, ist von einer impulsartig  wirkenden Kraftspitze an der Zunge auszugehen. Das Ergebnis der Simulationsrechnungen  zeigte  deutlich,  dass  eine  gemeinsame  Betrachtung  des  Richtungsfehlers  und  der 
-
 Verschleißbildung an der Weichenzunge für eine Beurteilung des Entgleisungsmechanismus 
 
 notwendig  ist.  Diese  Erkenntnis  findet  sich  derzeit  in  keiner  Norm  und  keinem  Regelwerk 
 
 wieder. 
-
 Die DB Netz AG ist als Infrastrukturbetreiber gemäß § 4 AEG verpflichtet, ihre Eisenbahninfrastruktur sicher zu bauen und in betriebssicherem Zustand zu halten. Hierzu zählt auch, die 
-
 Ursache  von  gefährlichen  Ereignissen  wie  Zugentgleisungen  zu  ermitteln.  Unabhängig  davon, ob sich die BEU im Einzelfall einschaltet, müssen die an gefährlichen Ereignissen beteiligten  Unternehmen  diese  untersuchen,  auswerten  und  entsprechende  Korrektur- und  Vorbeugemaßnahmen  einleiten.  Trotz  mehrmaliger  Nachfrage  hat  es  die  DB  Netz  AG  bisher 
-
 versäumt, eigene Erkenntnisse zur Unfallursache plausibel darzustellen. Zum Abschluss des 
-
 Untersuchungsberichts  ist  somit  festzustellen,  dass  die  DB Netz AG  als  Infrastrukturbetreiber  entgegen  der  vorgenannten  Untersuchungspflicht  keine  Ursache  zur  Entgleisung  des 
-
 ICE benannt hat und Sicherheitsempfehlungen begründet sind. 
-
 Seite 79 von 81 
-
  
   
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -11824,95 +6387,47 @@ Seite 79 von 81
  
  
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
-
 7 
-
 Sicherheitsempfehlungen  
-
 Gemäß § 6 Eisenbahn-Unfalluntersuchungsverordnung (EUV) und Art. 26 Abs.2 der Richtli-
-
 nie (EU) 2016/798 ergehen nachfolgende Sicherheitsempfehlungen: 
-
 lfd. Nr. 
-
 Sicherheitsempfehlung 
-
 betrifft Unternehmen 
-
 Unter  konsequenter  Anwendung  des  vorhandenen Regelwerks 
-
 hätte die Verformung an der Zunge bei der Inspektion entdeckt 
-
 werden  können.  Verschleiß  und  Verformung  an  der  Weichen-
-
 zunge  sollen  gemäß  Ril  821.2005  durch  materielle  Zustands-
-
 prüfungen  anhand  einer  Checkliste  untersucht  werden.  Die 
-
 12/2018 
-
 allgemeine  Praxis  zeigt  allerdings,  dass  die  Inhalte  dieser 
-
 DB Netz AG 
-
 Checkliste  bei  der  Inspektion  nicht  immer  in  vollem  Umfang 
-
 beachtet werden.  
-
 Es  wird  empfohlen,  relevante  Punkte  der  Checkliste,  die  die 
-
 Beurteilung der Zunge betreffen, auf den Status einer verbindli-
-
 chen,  in  allen  Prüfpunkten  nachvollziehbaren  Prüfliste  anzuhe-
-
 ben  und  die  Prüfergebnisse  elektronisch  dokumentieren  zu 
-
 lassen. 
-
 Dem  Alv  fehlt  in  der  Ril eine konkrete Vorgabe, Verformungen 
-
 oder  ähnliche  Mängel  an  der  Zunge  fachgerecht  zu  bewerten. 
-
 Mit den zur Verfügung stehenden Prüflehren ist dies nicht über-
-
 all möglich. Dem Alv und dem Inspektionspersonal bleibt allein 
-
 die  optische  Wahrnehmung  für  die  Beurteilung  und  Einstufung 
-
 des Mangels in „Gut“ oder „Schlecht“.  
-
 13/2018 
-
 Deshalb  wird  empfohlen,  detailliertere  Vorgaben  zu  definieren, 
-
 DB Netz AG 
-
 wie  Verformungen  an  Weichenzungen  fachgerecht  zu  messen 
-
 und die daraus resultierenden Ergebnisse zu bewerten sind. 
-
 Moderne  Prüfverfahren,  z.  B.  mit  Laserscan,  können  den  sen-
-
 siblen  Anlaufbereich  der  Weichenzunge  ganzflächig  erfassen 
-
 und  durch  definierte  Grenzwerte,  analog  der  SR  Systematik, 
-
 beurteilen.  Dem  Alv  ermöglicht  dieser  transparente  und  nach-
-
 vollziehbare  Soll-/Ist-Abgleich  eine  objektive  Bewertung  des 
-
 aktuellen  Abnutzungsvorrats,  und  es  lassen  sich  daraus  auch 
-
 Seite 80 von 81 
-
- 
- 
- 
- 
- 
- 
  
  
  
@@ -11920,103 +6435,23 @@ Seite 80 von 81
  
  
 Untersuchungsbericht 
-
 Zugentgleisung,  01.05.2017,  Dortmund Hbf 
-
 Trends  und Prognosen ableiten, die eine bessere Lenkung der 
-
 Instandsetzung ermöglichen und somit die Sicherheit erhöhen. 
-
 Die  durchgeführten  Simulationen  von  DB  Systemtechnik  lieferten  entscheidende  Hinweise  zur  Ursache  der  Entgleisung.  Der 
-
 eigentliche  Entgleisungsvorgang  und  die  dabei  wirkenden  Mechanismen konnten jedoch nicht vollständig aufgeklärt werden. 
-
 Da  das  EIU  bisher  keine  Entgleisungsursache  identifizieren 
-
 14/2018 
-
 konnte,  wird  empfohlen,  weitere  wissenschaftliche  UntersuDB Netz AG 
-
 chungen  zur  Ursachenfindung  durchzuführen.  Hierbei  sollten 
-
 neben  der  Trassierung  und  der  Gleislage  auch  die  Auswirkungen  durch  Veränderungen  bei  der  Berührgeometrie  von  Rad 
-
 und  Schiene  an  der  Zunge  unter  Einwirkung  impulsartiger 
-
 Kraftspitzen  aus  dem  Eisenbahnbetrieb  besonders  betrachtet 
-
 werden, um  Grenzwerte für Verschleiß und Verformung an der 
-
 Zunge festzulegen. 
-
 Seite 81 von 81 
-
  
   
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -12082,18 +6517,13 @@ Seite 81 von 81
  
 Bericht
 
-
 Unfall Dortmund 
 Mehrkörpersimulation ICE2 
-
 Dokument:  
 Datum:  
-
 17-53741-I.T-IVP23-UN-0810_V02  
 15.05.2018  
-
 Fachabteilung:   
-
 Prüfungen  Festigkeit  
 
 Die Ergebnisse beziehen sich ausschließlich auf die im Bericht beschriebenen Sachverhalte. Dieser Bericht darf nicht 
@@ -12101,186 +6531,72 @@ ohne schriftliche Genehmigung des Auftraggebers veröffentlicht werden. Eine aus
 zusätzlich der Zustimmung des im Bericht genannten Auftragnehmers 
 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 �
  
  
  
- 
- 
- 
 Bericht: 17-53741-I.T-IVP23-UN-0810_V02	
-
 Seite 2 von 36
 
-
 Inhaltsverzeichnis 
-
 Seite 
-
  1 
-
  2 
-
  3 
-
  4 
-
  5 
-
  6 
-
  7 
-
 Angaben zum Auftrag 
-
 Beschreibung des Untersuchungssachverhalts 
-
  Wagenkasten  
-
 Simulationsmodell 
  3.1	
  3.2	
  3.3	
  3.4 
-
 Drehgestellmodell 
-
 Radsatz und Radprofile  
-
 Strecke und Schienenprofile 
-
 Varianten 
-
 Ergebnisse 
  5.1	
  5.2	
-
 Ergebnisse Variante 0 Ausgangszustand für die vergleichende Bewertung  
-
 Ergebnisse Variante 14 (ohne Richtungsfehler) und 20 (50 % erhöhter 
 Richtungsfehler)  
-
  5.3	
  5.4 
-
 Vergleich Simulation Messung für die instandgesetzte Weiche (Variante 25)  
-
 Ergebnisse weiterer Varianten  
-
 Zusammenfassung 
-
 Unterschriften 
-
  7 
-
  7 
-
  10 
  10 
  11 
  13 
  14 
-
  20 
-
  22 
  22 
-
  30 
  31 
  32 
-
  35 
-
  36 
-
 Änderungsindex 
-
  Nr. 
  1 
  2 
-
 Beschreibung / Änderung 
 Erstausgabe  
 Redaktionelle Änderungen 
-
 Bearbeiter 
-
 Datum 
 20.02.2018 
 18.04.2018 
-
- 
  
    
  
@@ -12307,41 +6623,7 @@ Datum
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
    
- 
- 
- 
- 
- 
- 
  
  
  
@@ -12349,14 +6631,11 @@ Datum
  
  
 Bericht: 17-53741-I.T-IVP23-UN-0810_V02 
-
 Seite 3 von 36
-
 
 Verzeichnis der Anlagen 
 Anlage 1: 
 Anlage 2: 
-
 Daten zum Simulationsmodell  
 Simulationsergebnisse 
 
@@ -12400,72 +6679,8 @@ Eisenbahn-Bundesamt
 Geschwindigkeit in Fahrtrichtung  
 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 Bericht: 17-53741-I.T-IVP23-UN-0810_V02 
-
 Seite 4 von 36
-
 
 Quellenverzeichnis/Literaturverzeichnis  
 [1]  
@@ -12475,21 +6690,13 @@ Beschreibung  Entgleisungsvorgang  V1.2,  Stand  07.09.2017
 Entgleisung  ICE  945  in  Dortmund  Hbf  am  01.05.2017:  Untersuchung  der  Infrastruktur;  
 
  (DB  Netz I.NVS-W),  Duisburg  Stand  03.07.2017  
-
 Notiz:  Besichtigung  der  Weiche  36  Bf  Dortmund  Hbf  (DKW  54-190-1:9  b); 
-
  (DB  Netz  I.NPF  111(W))  ;  Berlin  05.05.2017  
-
 Foliensatz:  Unfall D  ortmund  Zusammenfassung  der B  egehung  am  05.05.2017;  
-
 r  (DB  Systemtechnik I.T-IVP23);  Minden  08.05.2017  
-
 [3]  
-
 [4]  
-
 [5]  
-
  (Siemens  
 
 Modelldatensatz:  SGP-400  /  ICE  2  –  Steuerwagen,  
@@ -12508,17 +6715,11 @@ TZ:  FTE805.0.04.006.001  Luftfeder  7050.N.10  P01  s
 [10]  
 [11]  
 [12]   DIN  EN  14363:2016  Versuche  und  Simulation  für d 
-
 ;  Berlin  2007  
-
  (Siemens SGP  Verkehrstechnik GmbH);  07.05.1997  
-
 ie  Zulassung  der  fahrtechnischen  Ei-
-
 genschaften  von  Eisenbahnfahrzeugen  –  Fahrverhalten  und  stationäre  Versuche  
-
 [13]   Prüfprotokoll R  adaufstandskräfte  für  ICE1  und  ICE2  Wagen  Nr.  806629-2,  Nürnberg  
-
 13.04.2015  
 
 [14]   Nachweisdokument:  Messprotokoll S  chienenwaage  808.0,  Nürnberg  10.09.2009  
@@ -12537,9 +6738,7 @@ Minden
 FWP  805.0.04.000.007  „Messprotokoll W  agenkasten  aufgesetzt  ICE  2“  Bl.  3;  
 
  (I.T-IVP22),  
-
 [18]  
-
  (Werk Berlin),  Berlin  11.04.2017   
 
 [19]   Messprotokolle  der  Schlingerdämpferkennlinien;  Krefeld  23.05.2017  
@@ -12551,27 +6750,13 @@ TZ:  Iow  54.20.3001  Bearbeitung  der  Radlenker
 TZ:  Iow  54.30.0022  Anordnung  Fahrschiene  mit  Radlenker  
 
 ,  Minden  
-
 21.07.2017   
-
 [23]   Präsentation:  ICE-Entgleisung  im  Bf.  Dortmund:  Ergebnisse  der  Messfahrt  des ICE-S  
-
 vom  25.08.2017,  
-
  (I.NPF  111),  München 04.10.2017  
-
 [24]   Präsentation:  Aktueller  Stand  MKS  zum  Unfall D  ortmund  V01,  
-
 ,  Minden  
-
 22.06.2017   
-
- 
- 
- 
- 
- 
- 
  
  
  
@@ -12579,14 +6764,10 @@ vom  25.08.2017,
  
  
 Bericht: 17-53741-I.T-IVP23-UN-0810_V02 
-
 Seite 5 von 36
 
-
 Abbildungsverzeichnis 
-
  5  
-
 Abbildung 1: Sollfahrweg a –c Weiche 36 (Blick in Fahrtrichtung mit Sollfahrweg (roter Pfeil)) ...8
 
 Abbildung 2: Erste Entgleisungsspuren bis zum mittigen Radlenker [4]........................................8
@@ -12603,14 +6784,10 @@ Abbildung 6: Drehgestellmodell SGP400...........................................
 Abbildung 7: Anbindung Radsatz Drehgestellrahmen..................................................................12
 
 Abbildung 8: Eingebundene Trassierung auf Basis der Railab-Messung vom 15.05.2017 ........15
-
 Abbildung 9: Eingebundene Gleislage auf Basis der Railab-Messung vom 15.05.2017.............15
-
 Abbildung 
 : Gleislage im Zungenbereich auf Basis der Railab-Messung vom 15.05.2017.....16
-
 Abbildung 11: Vergleich der Gleislage vor (rote Linie) und nach (schwarze Linie NEU) der
-
 
  10  
 
@@ -12632,9 +6809,7 @@ Abbildung
 Abbildung 16: Radlenker im Herzstückbereich vor der Weichenzunge .......................................20
 
 Abbildung 17: Radführungskräfte Rad 12 und 32 (Variante 0) am STW und MW ......................23
-
 Abbildung 18: Radsatzquerverschiebung der beiden vorlaufenden Radsätze der entgleisten
-
 
  15  
 
@@ -12643,9 +6818,7 @@ Wagen ..........................................................................
 
 Abbildung 19: Ausdrehwinkel der Drehgestelle am MW 806.6 (Variante 0) im Vollbogen vor der
 
-
  20  
-
 Abbildung 
 
 Weiche....................................................................................................................................25
@@ -12666,337 +6839,16 @@ Abbildung 23: Anlaufwinkel Rad 12 32 (Variante 0) am STW und MW ................
 Abbildung 24: Radführungskraft Rad 12 32 (Variante 14) MW 806.6..........................................30
 
 Abbildung 
-
 : Vergleich Simulation (Rad 12 MW 806.6) und Messung (Rad 12 am MW 1 [23] )
-
 
  25  
 
 für die Radführungskraft.........................................................................................................31
 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-   
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-   
- 
- 
- 
- 
- 
- 
- 
- 
- 
-   
- 
- 
- 
- 
- 
- 
- 
-   
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-   
- 
- 
- 
- 
- 
  
 Bericht: 17-53741-I.T-IVP23-UN-0810_V02 
 
 Seite 6 von 36
-
 
 Tabellenverzeichnis 
 
@@ -13021,53 +6873,6 @@ Tabelle 6: äquivalente Konizitäten der gemessene Radprofile gepaart mit theo. 
 
 Tabelle 7: Varianten der Simulationsrechnung.............................................................................21
 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -13095,12 +6900,9 @@ Tabelle 7: Varianten der Simulationsrechnung....................................
  
  
 Bericht: 17-53741-I.T-IVP23-UN-0810_V02 
-
 Seite 7 von 36
 
-
 1   Angaben  zum  Auftrag  
-
 Aufgabenstellung: 
 
 Am  01.05.2017  um  18:46  Uhr  entgleisten  die  letzten  beiden  Wagen  des  ICE-A  945  (Düsseldorf
@@ -13113,11 +6915,8 @@ technik  damit  beauftragt  mittels  Simulationsrechnungen  den  Unfallhergang  
 
 
  
-
 2  
-
 Beschreibung  des  Untersuchungssachverhalts  
-
 leis  8  in  den  
 
 Der  ICE  945  fuhr  über  die  Strecke  2158  aus  Richtung  Bochum  mit  dem  Ziel G 
@@ -13139,42 +6938,20 @@ dung  2  Bild  2  rechts),  bevor  es  frontal g  egen  den  Radlenker  läuft  
 Auf  Höhe  des  Anlaufens  am  Radlenker  überrollte  das  linke  Rad  mit  dem  Spurkranz  einen  
 Schraubenkopf  zur  Schienenbefestigung  (Abbildung  2  Bild  2  links).  
 
- 
- 
- 
- 
- 
- 
- 
- 
 Bericht: 17-53741-I.T-IVP23-UN-0810_V02 
-
 Seite 8 von 36
 
-
 c 
-
 d 
-
 a 
-
 b 
-
 Abbildung 1: Sollfahrweg a –c Weiche 36 (Blick in Fahrtrichtung mit Sollfahrweg (roter Pfeil)) 
-
 2 links 
-
 1 links 
-
 3 rechts 
-
 2 rechts 
-
 Abbildung 2: Erste Entgleisungsspuren bis zum mittigen Radlenker [4] 
-
 1 rechts 
-
- 
  
    
  
@@ -13182,29 +6959,7 @@ Abbildung 2: Erste Entgleisungsspuren bis zum mittigen Radlenker [4]
  
  
  
- 
- 
- 
- 
- 
- 
    
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -13221,7 +6976,6 @@ Abbildung 2: Erste Entgleisungsspuren bis zum mittigen Radlenker [4]
  
  
 Bericht: 17-53741-I.T-IVP23-UN-0810_V02 
-
 Seite 9 von 36
 
 
@@ -13248,230 +7002,8 @@ In Hinblick für einen wahrscheinlichen Ausschluss einer unzeitigen Weichenverst
 dem auffälligen Verschleißbild an der Zunge wurde die DB Systemtechnik damit beauftragt mit-
 tels der Mehrkörpersimulation (MKS) das Anlaufen an der Zunge näher zu untersuchen. 
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-   
- 
- 
- 
- 
- 
- 
- 
-   
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-   
- 
- 
- 
- 
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 Bericht: 17-53741-I.T-IVP23-UN-0810_V02 
-
 Seite 10 von 36
-
 
 3   Simulationsmodell  
 
@@ -13487,14 +7019,10 @@ rechnung  [5]  ist  das  Modell f  ür  diese  Untersuchung  erweitert  worden; 
 Massen  entsprechend  der  Messprotokolle  [13][14][15]  angepasst.   
 
 Gesamtmasse 
-
 Tabelle 1: Gesamtmasse der Fahrzeuge 
-
 3.1   Wagenkasten  
-
  MW 
    47 t 
-
 STW 
    53 t 
 
@@ -13507,24 +7035,10 @@ Zur  Anzahl d  er  Fahrgäste  und  Gepäck  zum  Zeitpunkt  des  Unfalls  lagen
 dass  die  Beladungsmasse  bei b  eiden  Unfallwagen  mit  5  t  angenommen  wurde.  
 
 Abbildung 5: Einbindung der Beladung 
-
 •  Beladung 5t 
 •  mittig im Wagen, 1,5 m über SOK 
 •  Massenträgheitsmomente der Beladung wer-
-
 den über ein Quader abgebildet 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -13547,36 +7061,18 @@ den über ein Quader abgebildet
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 Bericht: 17-53741-I.T-IVP23-UN-0810_V02 
-
 Seite 11 von 36
 
-
 Wagen 
-
 Beladungszustand  
-
  MW 
-
 STW 
-
 leer  
 beladen  
 leer  
 beladen  
-
 Tabelle 2: Massenschwerpunkt der Wagenkästen 
-
 Schwerpunktlage ausgehend von Wagenmitte und 
 SOK 
  y 
@@ -13584,13 +7080,11 @@ SOK
 0 mm 
 0 mm 
 0 mm 
-
  z 
 -1.772 m 
 -1.736 m  
 1.772 m 
 -1.739 m 
-
  x 
 -650 mm 
 -570 mm 
@@ -13625,7 +7119,6 @@ Der  höhere  Detaillierungsgrad  in  der  Verbindung  zwischen  Radsatzlagergeh
 stellrahmen,  bestehend  aus  Primärfeder  und  Führungsbuchse,  berücksichtig  die  richtungsab-
 
 1  Grenzmaß  für  die  Instandhaltung  Ril  900.0020  
-
  
  
  
@@ -13651,34 +7144,8 @@ stellrahmen,  bestehend  aus  Primärfeder  und  Führungsbuchse,  berücksichti
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-                                                
  
 Bericht: 17-53741-I.T-IVP23-UN-0810_V02 
-
 Seite 12 von 36
 
 
@@ -13689,13 +7156,9 @@ schen Primärfeder und Drehgestellrahmen, im Modell berücksichtigt.
 1.  Schichtfeder 
 2.  Führungsbuchse 
 3.  Schraubenfeder 
-
 1 
-
 2 
-
 3 
-
 Abbildung 7: Anbindung Radsatz Drehgestellrahmen 
 
 Die Gesamtsteifigkeit zwischen Radsatzlagergehäuse und Drehgestellrahmen wird im Wesentli-
@@ -13707,16 +7170,12 @@ gaben sind in Anlage 1.3 aufgeführt.
 
 Cx (längs) 
 Cy (quer) 
-
 ICE 2 SGP 400 neu 
 2  48 000 000 N/m 
 2  12 000 000 N/m 
-
 ICE 3 SGP 500 
-
 3  45 000 000 N/m 
 3  12 500 000 N/m 
-
 Tabelle 3: Steifigkeiten Radsatzführung 
 
 Um etwaige Einflüsse von Seiten des Wankverhaltens des Fahrzeugs exakter zu berücksichti-
@@ -13734,23 +7193,6 @@ Die das Ausdrehen des Drehgestells beeinflussende Quersteifigkeit ist im Leerzus
 3  Spezifikation  für  Radsatzführungsbuchse  ICE  3; 
 
 ;  Revision  3  11/1997  
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -13794,6 +7236,26 @@ Die das Ausdrehen des Drehgestells beeinflussende Quersteifigkeit ist im Leerzus
  
  
  
+ 
+ 
+ 
+ 
+ 
+  
+   
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+   
+ 
+  
  
  
  
@@ -13829,114 +7291,7 @@ Die das Ausdrehen des Drehgestells beeinflussende Quersteifigkeit ist im Leerzus
  
  
  
- 
- 
   
- 
-   
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  
- 
- 
- 
-  
-   
- 
- 
- 
-     
- 
- 
-   
- 
- 
- 
-  
-    
- 
- 
- 
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-   
-   
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  
- 
- 
- 
- 
- 
  
  
  
@@ -13946,39 +7301,24 @@ Die das Ausdrehen des Drehgestells beeinflussende Quersteifigkeit ist im Leerzus
  
  
  
- 
- 
- 
- 
- 
   
  
  
  
  
- 
- 
- 
- 
-                                                
  
 Bericht: 17-53741-I.T-IVP23-UN-0810_V02 
-
 Seite 13 von 36
-
 
 Wagen 
  MW 
 STW 
-
 Leerlast 
 80kN (WE2) / 91 kN (WE1) 
 93 kN 
-
 Quersteifigkeit 
 105 kN/mm / 114 kN/mm 
 115 kN/mm 
-
 Tabelle 4: Quersteifigkeiten der Luftfeder 
 
 Zur Überprüfung der vorgenommenen Änderungen wurde das Modell hinsichtlich der Höhenla-
@@ -14004,275 +7344,26 @@ sind die Masseneigenschaften für den Nennzustands aus Tabelle 5 eingebunden.
 
 Masseneigenschaf-
 ten 
-
  m 
 5Jxx      
 5Jyy        
 5Jzz       
-
 BA227 (STW 808.0) 
 1449 kg 
 595 kgm2 
 117 kgm2 
 595 kgm2 
-
 Radsatz 
-
 BA417 (MW 806.6) 
 1451 kg 
 588 kgm2 
 116 kgm2 
 588 kgm2 
-
 Tabelle 5: Eingebundene Masseneigenschaften (Nennzustand) der Radsätze an den entgleisten Wagen 
 
 4 Die Dämpfer waren zerstört, daher wurde für diese Dämpfer die Nennkennlinie angenommen. 
 5 Werte aus SIMPACK berechnet auf Basis von CAD-Körpern mit Neudurchmesser der Räder 
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-   
- 
- 
- 
- 
-   
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-      
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  
- 
-                                                
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -14293,7 +7384,6 @@ Tabelle 5: Eingebundene Masseneigenschaften (Nennzustand) der Radsätze an den e
  
  
 Bericht: 17-53741-I.T-IVP23-UN-0810_V02	
-
 Seite 14 von 36
 
 
@@ -14302,64 +7392,49 @@ Die Radprofile aller Wagen des Tz 229 wurden nach dem Unfall abgezeichnet und au
 gleisten Fahrzeugen im Mittel über alle Radsätze am höchsten war. 
 
 Fahrtrichtung 
-
 Wagen 
 TK 402 029 – 3 
 MW 805 325 - 8 
 MW 805 028 - 8 
-
 Bordr. 807 026 - 0 
 MW 806 039 - 4 
 MW 806 339 - 8 
-
 MW 806 629 - 2 
 STW 808 029 - 3 
-
 Radsatz 1 
 0,055 
 0,047 
 0,279  
-
 Radsatz 2 
 0,052 
 0,057 
 0,262 
-
 0,061 
 0,092 
 0,084  
-
 0,278 
 0,398 
-
 0,055 
 0,068 
 0,093 
-
 0,357 
 0,259  
-
 Radsatz 3 
 0,076 
 0,05 
 0,157 
-
 0,076 
 0,110 
 0,096 
-
 0,284  
 0,215 
-
 Radsatz 4 
 0.066 
 0,066 
 0,209  
-
 0,137 
 0,128 
 0,096 
-
 0,285  
 0,244 
 
@@ -14373,25 +7448,16 @@ eingebunden  zusammen  mit  dem  gemessenen  Raddurchmesser  aus  [18].
 Die  sich  aus  den  Profilen  der  Räder,  gepaart  mit  einem  theoretischen  60E2-Profil,  ergebende 
 
 Kontaktgeometrie  in  SIMPACK  ist  in  Anlage  1.6  dargestellt. 
-
   
 Für  die  Vergleichsvarianten  9  und  19  (siehe  Tabelle  7)  wurden  Neuprofile 
-
 (S1002/h28/e31,5/6,7%)  mit  einem  Spurmaß  von  1423  mm  verwendet.
 
-
  
-
 3.4   Strecke  und  Schienenprofile  
-
 Für  die  Simulation  wurden  streckenseitig  die  folgenden  Daten  eingebunden:  
-
 • 	  Trassierungs- und  Gleislagedaten  aus  der  Railab-Messung  vor  (15.05.2017)  und  nach  
-
 (25.08.2017)  der  Instandsetzung  
-
 • 	  Backenschienen- und  Zungenprofil v  or  (05.05.2017)  und  nach  (07.07.2017)  der  Instand-
-
 setzung  
 
 Das  Simulationsmodell st  artet  ca.  800  m  vor  der  Weichenzunge  im  geraden  ungestörten  Gleis.  
@@ -14407,151 +7473,13 @@ Maximum  die  linke  Schiene  in  Fahrtrichtung  um  ca.  9  mm  und  die  recht
 nach  links  krümmt  (Abbildung  10).  
 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-   
-   
-   
-   
- 
- 
- 
-   
- 
- 
- 
- 
- 
- 
-     
- 
- 
- 
- 
- 
- 
-     
- 
- 
- 
- 
-     
- 
- 
- 
- 
- 
- 
-     
- 
- 
- 
- 
- 
- 
-     
- 
- 
- 
- 
- 
-     
- 
- 
- 
- 
-     
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 Bericht: 17-53741-I.T-IVP23-UN-0810_V02 
-
 Seite 15 von 36
 
-
 Rechtsbogen 
-
 Linksbogen 
-
 Abbildung 8: Eingebundene Trassierung auf Basis der Railab-Messung vom 15.05.2017 
-
 Abbildung 9: Eingebundene Gleislage auf Basis der Railab-Messung vom 15.05.2017 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -14570,57 +7498,15 @@ Abbildung 9: Eingebundene Gleislage auf Basis der Railab-Messung vom 15.05.2017
  
  
 Bericht: 17-53741-I.T-IVP23-UN-0810_V02 
-
 Seite 16 von 36
 
-
 Richtungsfehler 
-
 Abbildung 10: Gleislage im Zungenbereich auf Basis der Railab-Messung vom 15.05.2017 
 
 Abbildung 11: Vergleich der Gleislage vor (rote Linie) und nach (schwarze Linie NEU) der Instandsetzung 
 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  
- 
- 
- 
 Bericht: 17-53741-I.T-IVP23-UN-0810_V02 
-
 Seite 17 von 36
 
 
@@ -14639,7 +7525,6 @@ Abbildung 12: Zustand der Weichenzunge kurz nach dem Unfall
 gestellt  von  
 
  (BEU)   
-
  
  
  
@@ -14659,7 +7544,6 @@ gestellt  von
  
  
  
-  
  
  
  
@@ -14683,55 +7567,6 @@ gestellt  von
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-                                                
  
  
  
@@ -14742,7 +7577,6 @@ gestellt  von
  
   
 Bericht: 17-53741-I.T-IVP23-UN-0810_V02 
-
 Seite 18 von 36
 
 
@@ -14759,163 +7593,13 @@ Abbildung 13: Messung des Profils der anliegenden Zunge mit Backenschiene vor de
 bereich der Profilmessung, unten: Zungen-Backenschienen-Profile 150 mm beginnend hinter dem Weichenzungen-
 anfang 
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 Bericht: 17-53741-I.T-IVP23-UN-0810_V02 
-
 Seite 19 von 36
 
-
 Abbildung 14: Zungen Backenschienen Profil 250 mm nach Zungenanfang 
-
 -
-
 -
-
 Abbildung 15: Vergleich der Profile vor und nach (NEU) der Instandsetzung 
-
- 
- 
- 
- 
- 
- 
- 
-   
- 
- 
  
  
  
@@ -14927,7 +7611,6 @@ Abbildung 15: Vergleich der Profile vor und nach (NEU) der Instandsetzung
  
  
 Bericht: 17-53741-I.T-IVP23-UN-0810_V02 
-
 Seite 20 von 36
 
 
@@ -14946,7 +7629,6 @@ fen der Radrückens an den Randlenker kommen, wodurch in der Folge der Zulauf bz
 fen an der Zunge beeinflusst wird. 
 
 = eingebundene Radlenkerprofile 
-
 Abbildung 16: Radlenker im Herzstückbereich vor der Weichenzunge 
 
 Der Radlenker wurde über insgesamt 6 Querschnitte basierend auf [20] und dem theoretischen 
@@ -14963,7 +7645,6 @@ dem Radlenker und der Weichenzunge einzubinden. Für diese Übergänge wurden je
 30 Profile eingebunden. 
 
 4 
-
 Varianten 
 
 In Abstimmung mit dem BEU, DB Fernverkehr, DB Netz und DB Systemtechnik wurden ver-
@@ -14973,357 +7654,10 @@ ten oder neuerer Informationen hinfällig. Für die orange markierten Varianten 
 vorerst zurück gestellt wurden. 
 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-   
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-   
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 Bericht: 17-53741-I.T-IVP23-UN-0810_V02 
-
 Seite 21 von 36
 
-
 Tabelle 7: Varianten der Simulationsrechnung  
-
- 
- 
- 
- 
- 
- 
  
  
  
@@ -15332,9 +7666,7 @@ Tabelle 7: Varianten der Simulationsrechnung
  
  
 Bericht: 17-53741-I.T-IVP23-UN-0810_V02	
-
 Seite 22 von 36
-
 
 5   Ergebnisse  
 
@@ -15356,7 +7688,6 @@ gewertet  worden.
 
 it  den  entscheidenden  Ergebnissen  erläutert  (Ka-
  kurz  beschrieben  und  
-
 5.1   Ergebnisse  Variante  0  Ausgangszustand  für  die  vergleichende  Bewertung  
 
 Vorab  sei a  ngemerkt,  dass  die  Ergebnisse  gezeigt  haben,  dass  eine  Bewertung  in  Hinblick  auf  
@@ -15388,50 +7719,28 @@ gen  Millimetern  in  der  gemessenen  Spurweite  einen  erheblichen  Einfluss  
 kräfte  haben.  Das  Nichtaufliegen  der  Zunge  kann  bewirken,  dass  
 
 1. 	
-
  der  Messpunkt  14  mm  unterhalb  von  Schienenoberkante  sich  verschiebt  und  sich  da-
-
 mit  die  Spurweite  von  belasteter  zu  unbelasteter  Zunge  ändert  und  
-
   der  Kontaktpunkt  sich  ändert  aufgrund  der  elastischen  Verformung  der  Zunge.  
-
 2.	
-
- 
- 
- 
- 
- 
  
  
  
  
  
 Bericht: 17-53741-I.T-IVP23-UN-0810_V02 
-
 Seite 23 von 36
 
-
 42 
-
 32 
-
 41 
-
 31 
-
 MW 806.6 / STW 808.0  → v 
-
 22 
-
 12 
-
 21 
-
 11 
-
 Abbildung 17: Radführungskräfte Rad 12 und 32 (Variante 0) am STW und MW 
-
 Radsatzquerverschiebung 
 
 Die Radsatzquerverschiebung beschreibt die Querverschiebung des Radsatzes ausgehend von 
@@ -15449,187 +7758,9 @@ Punkt 3) erklärt das Anlaufen des Rad 12 und das Nichtanlaufen des Rades 32 im 
 Zungenanfangs. 
 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-   
- 
-       
-   
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 Bericht: 17-53741-I.T-IVP23-UN-0810_V02 
-
 Seite 24 von 36
 
-
 R
 a
 d
@@ -15637,11 +7768,8 @@ s
 a
 t
 z
-
 3
-
 MW 806.6 / STW 808.0  → v 
-
 R
 a
 d
@@ -15649,17 +7777,11 @@ s
 a
 t
 z
-
 1
-
 2 
-
 1 
-
 Fahrtrichtung 
-
 3 
-
 Abbildung 18: Radsatzquerverschiebung der beiden vorlaufenden Radsätze der entgleisten Wagen 
 
 Warum  der  Radsatz  1  nach  Verlassen  des  Linksbogens  auf  die  Zunge  zuläuft  und  der  Radsatz  
@@ -15681,68 +7803,11 @@ dung  20).  Dadurch  laufen  die  Radsätze  nicht  wie  beim  vorlaufenden  Dre
 zu,  sondern  entgegengesetzt  in  Richtung  des  Radlenkers.  
 
  
- 
- 
- 
- 
- 
- 
- 
- 
-   
- 
-       
-   
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 Bericht: 17-53741-I.T-IVP23-UN-0810_V02 
-
 Seite 25 von 36
 
-
 Situation 1: beide Drehgestelle im Vollbogen ausgedreht, kurz vor dem Ende des Bogens 
-
 Abbildung 19: Ausdrehwinkel der Drehgestelle am MW 806.6 (Variante 0) im Vollbogen vor der Weiche 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -15764,7 +7829,6 @@ Abbildung 19: Ausdrehwinkel der Drehgestelle am MW 806.6 (Variante 0) im Vollbog
  
  
 Bericht: 17-53741-I.T-IVP23-UN-0810_V02 
-
 Seite 26 von 36
 
 
@@ -15772,28 +7836,6 @@ Situation 2: vorlaufendes Drehgestell (WE2) kurz vor der Zunge und nachlaufendes
 (WE1) im Vollbogen vor der Weiche 
 
 Abbildung 20: Ausdrehwinkel der Drehgestelle am MW 806.6 (Variante 0) kurz vor der Weichenzunge 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -15817,9 +7859,7 @@ Abbildung 20: Ausdrehwinkel der Drehgestelle am MW 806.6 (Variante 0) kurz vor d
  
  
 Bericht: 17-53741-I.T-IVP23-UN-0810_V02 
-
 Seite 27 von 36
-
 
 Kontaktpunktlage 
 
@@ -15831,25 +7871,15 @@ der vertikalen Kräfte, die die Zunge nach unten drücken würde, ist in der Sim
 rücksichtigt worden, da mit einer starren Zunge gerechnet wurde. 
 
 42 
-
 32 
-
 41 
-
 31 
-
 MW 806.6 / STW 808.0  → v 
-
 22 
-
 12 
-
 21 
-
 11 
-
 Abbildung 21: Kontaktpunktlage Rad 12 (Variante 0) am STW und MW 
-
 Radanhebung 
 
 Zum Zeitpunkt des Kontaktpunktsprungs kommt es zu einer Radanhebung von 2,5 mm am Rad 
@@ -15862,286 +7892,27 @@ zeigt im Vergleich der alten und neuen Zunge, dass die alte Zunge vertikal nach 
 war und somit vermutlich nicht auf den Gleitplatten auflag. Dieses freie Spiel wurde aufgrund 
 der starren Einbindung der Zunge in der Simulation nicht berücksichtigt. 
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-   
- 
-       
-   
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 Bericht: 17-53741-I.T-IVP23-UN-0810_V02 
-
 Seite 28 von 36
 
-
 42 
-
 32 
-
 41 
-
 31 
-
 MW 806.6 / STW 808.0  → v 
-
 22 
-
 12 
-
 21 
-
 11 
-
 Abbildung 22: oben: Radanhebung Rad 12 32 (Variante 0) am STW und MW; unten: Zeitpunkt der max.
-
 Radanhebung
 
-
- 
- 
- 
- 
  
  
  
     
- 
    
- 
        
-   
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -16157,7 +7928,6 @@ Radanhebung
  
  
 Bericht: 17-53741-I.T-IVP23-UN-0810_V02 
-
 Seite 29 von 36
 
 
@@ -16169,43 +7939,15 @@ plötzliche Anbfall des Anlaufwinkels ist auf den Richtungsfehler vor der Weiche
 Radlenkerbereich zurückzuführen (Kapitel 3.4). 
 
 42 
-
 32 
-
 41 
-
 31 
-
 MW 806.6 / STW 808.0  → v 
-
 22 
-
 12 
-
 21 
-
 11 
-
 Abbildung 23: Anlaufwinkel Rad 12 32 (Variante 0) am STW und MW 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -16242,38 +7984,8 @@ Abbildung 23: Anlaufwinkel Rad 12 32 (Variante 0) am STW und MW
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
    
- 
        
-   
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -16285,14 +7997,10 @@ Abbildung 23: Anlaufwinkel Rad 12 32 (Variante 0) am STW und MW
  
  
 Bericht: 17-53741-I.T-IVP23-UN-0810_V02	
-
 Seite 30 von 36
 
-
 5.2	
-
  Ergebnisse Variante 14 (ohne Richtungsfehler) und 20 (50 % erhöhter Richtungs-
-
 fehler) 
 
 Beide Varianten zeigen, dass der Richtungsfehler einen entscheidenden Einfluss auf das An-
@@ -16303,77 +8011,17 @@ mit einer Erhöhung des Richtungsfehlers zu einem Anlaufen des Rad 32, welches b
 den anderen Varianten, ohne und mit gemessenen Richtungsfehler, nicht zu beobachten ist. 
 
 42 
-
 32 
-
 WE1 
-
 MW 806.6  → v 
-
 41 
-
 31 
-
 22 
-
 12 
-
 WE2 
-
 21 
-
 11 
-
 Abbildung 24: Radführungskraft Rad 12 32 (Variante 14) MW 806.6 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -16423,17 +8071,6 @@ Abbildung 24: Radführungskraft Rad 12 32 (Variante 14) MW 806.6
  
  
    
-   
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -16445,9 +8082,7 @@ Abbildung 24: Radführungskraft Rad 12 32 (Variante 14) MW 806.6
  
  
 Bericht: 17-53741-I.T-IVP23-UN-0810_V02 
-
 Seite 31 von 36
-
 
 5.3   Vergleich  Simulation  Messung  für  die  instandgesetzte  Weiche  (Variante  25)  
 
@@ -16471,76 +8106,24 @@ diese  sind  auf  die  Reduktion  der  Richtungsabweichung  nach  der  Instandse
 ren.  
 
 42 
-
 32 
-
 41 
-
 31 
-
 MW 806.6  → v 
-
 22 
-
 12 
-
 21 
-
 11 
 
 Abbildung 25: Vergleich Simulation (Rad 12 MW 806.6) und Messung (Rad 12 am MW 1 [23] ) für die 
 Radführungskraft 
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-   
-   
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-   
- 
- 
   
 Bericht: 17-53741-I.T-IVP23-UN-0810_V02 
-
 Seite 32 von 36
 
-
  5.4 
-
 Ergebnisse weiterer Varianten
-
 
 e
 t
@@ -16550,42 +8133,26 @@ i
 r
 a
 V
-
  1 
-
  2 
-
 Beschreibung und Ziel der Varian-
 tenrechnung 
-
 Ergebnis 
-
 Verringerung  der 
 auf 3 t 
-
 Beladung 
-
 von 
-
  5t 
-
  • 
-
 Untersuchung  des 
-
 Ziel: 
 der Höhe der Beladung  
-
 Einflusses 
-
 geringe  Verringerung  der  Radführungskraft 
 am Rad 12, keine Veränderung der Radan-
 hebung 
-
 → Verringerung der Beladung um 2 t hat kaum Auswirkungen 
-
  • 
-
 geringe Verringerung der Radführungskraft 
 am Rad 12, keine Veränderung der Radan-
 hebung 
@@ -16609,20 +8176,14 @@ anlaufenden Rads führt
 punkts haben kaum Auswirkungen 
 
  4 
-
 Verringerung  
 auf 50 km/h 
-
  der 
-
 Geschwindigkeit 
-
  • 
-
 Ziel: Reduktion der Geschwindigkeit 
 als  Maßnahme  zur Beseitigung  des 
 Anlaufens an der Zunge 
-
 Reduzierung  der 
 
 mit  der 
@@ -16632,9 +8193,7 @@ aufgrund  einer  geringeren  Ausdrehung  der
 Drehgestelle 
 
  •  Rückstellung  
-
  der 
-
 Drehgestelle 
 
 erfolgt 
@@ -16644,38 +8203,22 @@ infolge  kleinerer  Ausdrehgeschwindigkeiten
 des Drehgestells 
 
  • 
-
 kein Spurkranzkontakt am Rad 12 
-
 → deutliche Verringerung der Kräfte beim Anlaufen und Verringerung des Anlau-
 fens am Spurkranz 
-
  6 
-
 Simulation  ohne  Gleislagefehler  mit 
 konstanter Spurweite 1435 mm 
-
  • 
-
 deutliche 
 am Rad 12  
-
 Reduktion 
-
  der 
-
 Radführungskraft 
-
 Untersuchung  des 
-
 Ziel: 
 der Gleislage 
-
 Einflusses 
-
- 
- 
- 
  
  
  
@@ -16703,109 +8246,13 @@ Einflusses
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
    
  
  
  
  
  
- 
- 
    
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-   
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-     
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -16872,13 +8319,10 @@ Einflusses
  
  
 Bericht: 17-53741-I.T-IVP23-UN-0810_V02 
-
 Seite 33 von 36
-
 
 → ohne Gleislagefehler sinkt die Intensität beim Anlaufen deutlich (siehe auch 
 0) 
-
 9  Neuprofile S1002 an den beiden Un-
 fallwagen  anstatt  der  gemessenen 
 Verschleißprofile 
@@ -16904,12 +8348,9 @@ Verlagerung des Kontaktpunkts am Spurkranz unterhalb der Spurkranzflanke
 10 
 und 
 17 
-
 Erhöhung  bzw.  Nennwerte  der 
 Schlingerdämpferkennlinien 
-
 • 
-
 Ziel: Einfluss der Schlingerdämpfer-
 kräfte beim Anlaufen 
 
@@ -16921,7 +8362,6 @@ ringeren Dämpfung
 
 •  kaum  Unterschiede 
 dämpferkräften 
-
 in  den  Schlinger-
 
 •  Maximum liegt bei allen drei Varianten ca. 1 
@@ -16930,121 +8370,22 @@ m hinter dem Zungenanfang  und damit au-
 ximalen Führungskräfte 
 
 → kaum Einfluss der Schlingerdämpferkennlinien auf das Anlaufen 
-
 11  3 mm abstehende Weichenzunge 
-
 •  keine  Erhöhung  der Führungskraft  am  Rad 
-
 Ziel:  Einfluss  einer  abstehenden 
 Weichenzunge 
-
 12 
-
 •  Anlaufen des Rad 32 an Zunge 
-
 → eine 3 mm abstehende Zunge hat keinen entscheidenden Einfluss auf das An-
 laufen 
-
 15  Synthetische  Gleislage  anstatt  der 
-
 • 
-
 gemessenen Gleislage 
-
 fast  keine  Radführungskraft  am  Rad  12  im 
 Zungenbereich 
-
 Ziel: Einfluss der Form der gemesse-
 nen Gleislage 
-
 → mit einer stochastischer Gleislage kommt es nicht zum Anlaufen 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -17132,46 +8473,6 @@ nen Gleislage
  
  
   
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -17213,9 +8514,7 @@ nen Gleislage
  
   
 Bericht: 17-53741-I.T-IVP23-UN-0810_V02 
-
 Seite 34 von 36
-
 
 •  kaum Veränderung der Radführungskraft 
 am Rad 12 und der Kontaktpunktlage 
@@ -17236,63 +8535,40 @@ Einfluss auf das Anlaufen
 19  Neuprofile S1002 an den beiden Un-
 fallwagen mit den gemessenen Rad-
 durchmessern 
-
 Ziel: Einfluss der Raddurchmessers 
-
 •  geringe Veränderung der Radführungskräfte 
-
 an beiden Rädern 
-
 → kaum Einfluss des Raddurchmesser mit Neuprofil auf das Anlaufen 
-
 21  3  mm  abstehende  Weichenzunge 
-
 •  starker  Anstieg  der  Radführungskraft  am 
-
 mit gleichem Reibwert 0,25 
-
 Rad 12 
-
 Ziel:  Einfluss  einer  abstehenden 
 Weichenzunge 
-
 •  Anstieg der Radanhebung um 1,5 mm auf 4 
-
 mm 
-
 •  stärkeres Anlaufen an den Spurkranz 
 
 → eine Erhöhung des Reibwerts an der Weichenzunge in Kombination mit einer 
 abstehenden Zunge um 3 mm verstärkt das Anlaufen deutlich 
 
 23  Durgehender  Reibwert  von  0,4  auf 
-
 beiden Schienen 
-
 •  keine wesentliche Änderungen der Radfüh-
 rungskraft am Rad 12 und der Radanhe-
 bung 
-
 • 
-
 längeres Anlaufen an den Spurkranz an 
 beiden Rädern 
-
 → ein durchgehend hoher Reibwert von 0,4 hat kaum Einfluss 
-
 26  Einbindung des gemessenen Spiels 
 in den Radsatzführungsbuchsen am 
 MW806.6 (Anlage 1.9) 
-
 Ziel:  Einfluss  auf  die  Radführungs-
 kräfte beim Anlaufen an der Zunge 
-
 •  Radführungskräfte sinken geringfügig um 7 
-
 kN 
-
 → geringer Einfluss des Spiels in den Radsatzführungsbuchsen auf das Anlaufen 
-
  
  
  
@@ -17327,128 +8603,6 @@ kN
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-   
  
  
  
@@ -17538,9 +8692,7 @@ kN
  
  
 Bericht: 17-53741-I.T-IVP23-UN-0810_V02	
-
 Seite 35 von 36
-
 
 6   Zusammenfassung  
 
@@ -17592,52 +8744,19 @@ S  nachgewiesen  worden,  dass  der  Richtungsfehler  im  Zulauf  auf  die  Weic
 maßgeblichen  Einfluss  auf  das  Anlaufen  und  Entgleisungsvermögen  besitzt.  
 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
 Bericht: 17-53741-I.T-IVP23-UN-0810_V02 
-
 Seite 36 von 36
 
-
 7   Unterschriften  
-
 Erstellt:  
-
 Freigegeben: 
-
   
-
  TT.TVP23(1)  
-
  TT.TVP23(1)  
-
 Geprüft: 
-
 
  TT.TVP23(1) 
 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -17655,28 +8774,18 @@ Geprüft:
 DB Systemtechnik GmbH 
 Prüfung Festigkeit 
 I.T-IVP 23(1) 
-
 Unfall Dortmund 
-
 Mehrkörpersimulation ICE2 
 Daten zum Simulationsmodell 
-
 Anlage: 
-
 1 
-
 Seite: 
-
 Bericht: 
-
 Name: 
-
 1 von 35 
 17-53741-I.T-IVP23-
 UN-0810_V02 
-
 Anlage 1: Daten zum Simulationsmodell 
-
 Inhaltsverzeichnis  
  1.1 
 
@@ -17684,19 +8793,12 @@ Wagendaten .....................................................................
 
 
  1.2 
-
  1.3 
-
  1.4 
-
  1.5 
-
  1.6 
-
  1.7 
-
  1.8 
-
  1.9 
 
 Abgleich der Summe der Radaufstandskräfte des Mittelwagens ........................................5
@@ -17722,149 +8824,23 @@ Schlingerdämpferkennlinien ....................................................
 
 Spiel in den Radsatzführungsbuchsen ..............................................................................34
 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-   
-	
- 
- 
- 
- 
- 
-   
-	
- 
- 
- 
-   
-	
- 
- 
- 
- 
- 
- 
- 
-   
-	
- 
- 
- 
- 
- 
-	
- 
- 
- 
- 
- 
-	
- 
- 
- 
- 
- 
- 
- 
- 
- 
-	
- 
- 
- 
-	
- 
- 
- 
- 
- 
- 
-	
- 
- 
- 
  
 DB Systemtechnik GmbH 
 Prüfung Festigkeit 
 I.T-IVP 23(1) 
-
 Unfall Dortmund 
-
 Mehrkörpersimulation ICE2 
 Daten zum Simulationsmodell 
-
 Anlage: 
-
 1 
-
 Seite: 
-
 Bericht: 
-
 Name: 
-
 2 von 35 
 17-53741-I.T-IVP23-
 UN-0810_V02 
-
 1.1  Wagendaten 
-
 nichtentgleister drittletzter Mittelwagen 808.3 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -17886,45 +8862,19 @@ nichtentgleister drittletzter Mittelwagen 808.3
 DB Systemtechnik GmbH 
 Prüfung Festigkeit 
 I.T-IVP 23(1) 
-
 Unfall Dortmund 
-
 Mehrkörpersimulation ICE2 
 Daten zum Simulationsmodell 
-
 Anlage: 
-
 1 
-
 Seite: 
-
 Bericht: 
-
 Name: 
-
 3 von 35 
 17-53741-I.T-IVP23-
 UN-0810_V02 
-
 entgleister vorletzter Mittelwagen 806.6
 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -17945,45 +8895,19 @@ entgleister vorletzter Mittelwagen 806.6
 DB Systemtechnik GmbH 
 Prüfung Festigkeit 
 I.T-IVP 23(1) 
-
 Unfall Dortmund 
-
 Mehrkörpersimulation ICE2 
 Daten zum Simulationsmodell 
-
 Anlage: 
-
 1 
-
 Seite: 
-
 Bericht: 
-
 Name: 
-
 4 von 35 
 17-53741-I.T-IVP23-
 UN-0810_V02 
-
 entgleister letzter Wagen Steuerwagen 808.0
 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -18004,85 +8928,36 @@ entgleister letzter Wagen Steuerwagen 808.0
 DB Systemtechnik GmbH 
 Prüfung Festigkeit 
 I.T-IVP 23(1) 
-
 Unfall Dortmund 
-
 Mehrkörpersimulation ICE2 
 Daten zum Simulationsmodell 
-
 Anlage: 
-
 1 
-
 Seite: 
-
 Bericht: 
-
 Name: 
-
 5 von 35 
 17-53741-I.T-IVP23-
 UN-0810_V02 
-
 1.2	
-
 �  Abgleich  der  Summe  der  Radaufstandskräfte  des  
-
 Mittelwagens   
 
 Summe  der  Radaufstandskräfte  pro  Radsatz für  eine  Verschiebung  des  Schwerpunkts um  650  
 mm  in  Richtung  des WE1   
 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 DB Systemtechnik GmbH 
 Prüfung Festigkeit 
 I.T-IVP 23(1) 
-
 Unfall Dortmund 
-
 Mehrkörpersimulation ICE2 
 Daten zum Simulationsmodell 
-
 Anlage: 
-
 1 
-
 Seite: 
-
 Bericht: 
-
 Name: 
-
 6 von 35 
 17-53741-I.T-IVP23-
 UN-0810_V02 
@@ -18090,81 +8965,21 @@ UN-0810_V02
 Werte für die eine Verlagerung des Schwerpunkts in Querrichtung mit einer resultierenden 
 Abweichung der Radaufstandskräfte pro Radsatz von 5% 
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 DB Systemtechnik GmbH 
 Prüfung Festigkeit 
 I.T-IVP 23(1) 
-
 Unfall Dortmund 
-
 Mehrkörpersimulation ICE2 
 Daten zum Simulationsmodell 
-
 Anlage: 
-
 1 
-
 Seite: 
-
 Bericht: 
-
 Name: 
-
 7 von 35 
 17-53741-I.T-IVP23-
 UN-0810_V02 
-
 1.3   Primärfederung  und  Radsatzführung 
-
 
 lemente   zwischen  Radsatzlagergehäuse  und  Drehgestellrahmen  jeweils bestehend  
 
@@ -18195,47 +9010,25 @@ Cz  Schichtfeder
  Cα  Führunsbuchse  
 Führunsbuchse  
  Cβ  
-
 451 000 N/m 
 592 000 N/m 
-
 250 000 N/m 
 2 083 333 N/m 
-
 23 000 N/m 
 24 000 000 N/m  
 6  000  000  N/m 
 bis 1,5 mm 
 35 000 Nm/rad  
 82 363 Nm/rad  
-
 Daten aus den TZ 
 Daten aus den TZ 
-
 abgeschätzt auf Basis der Werte aus [6] 
 Daten aus den TZ 
-
 Berechnet auf Basis der Daten aus den TZ 
 Daten aus den TZ 
 Daten aus den TZ 
-
 Berechnet auf Basis der Daten aus den TZ 
 Berechnet auf Basis der Daten aus den TZ 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -18305,88 +9098,23 @@ Berechnet auf Basis der Daten aus den TZ
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 DB Systemtechnik GmbH 
 Prüfung Festigkeit 
 I.T-IVP 23(1) 
-
 Unfall Dortmund 
-
 Mehrkörpersimulation ICE2 
 Daten zum Simulationsmodell 
-
 Anlage: 
-
 1 
-
 Seite: 
-
 Bericht: 
-
 Name: 
-
 8 von 35 
 17-53741-I.T-IVP23-
 UN-0810_V02 
-
 1.4	
-
 � Validierung Drehgestell Höhen und Abstände im 
-
 Leerzustand 
-
 Abstand  Drehgestell zur SOK 656 mm 1 
 Messstelle Anbindung Schichtfeder am Drehgestell 
 
@@ -18397,25 +9125,6 @@ Schichtfeder am
 Drehgestellrahmen 
 
 1  Ausschnitt  aus  der  technischen  Zeichnung  FTE805.0.02.000.001  Primärfederung  
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -18439,13 +9148,6 @@ Drehgestellrahmen
  
  
  
-   
- 
- 
- 
- 
- 
-   
  
  
  
@@ -18455,64 +9157,24 @@ Drehgestellrahmen
  
  
  
- 
- 
- 
- 
- 
- 
-                                                
 DB Systemtechnik GmbH 
 Prüfung Festigkeit 
 I.T-IVP 23(1) 
-
 Unfall Dortmund 
-
 Mehrkörpersimulation ICE2 
 Daten zum Simulationsmodell 
-
 Anlage: 
-
 1 
-
 Seite: 
-
 Bericht: 
-
 Name: 
-
 9 von 35 
 17-53741-I.T-IVP23-
 UN-0810_V02 
-
 z BOF 12 
-
 z BOF 22 
-
 z BOF 11 
-
 z BOF 21 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -18536,53 +9198,21 @@ z BOF 21
 DB Systemtechnik GmbH 
 Prüfung Festigkeit 
 I.T-IVP 23(1) 
-
 Unfall Dortmund 
-
 Mehrkörpersimulation ICE2 
 Daten zum Simulationsmodell 
-
 Anlage: 
-
 1 
-
 Seite: 
-
 Bericht: 
-
 Name: 
-
 10 von 35 
 17-53741-I.T-IVP23-
 UN-0810_V02 
-
 z BOF 12 
-
 z BOF 22 
-
 z BOF 11 
-
 z BOF 21 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -18605,22 +9235,14 @@ z BOF 21
 DB Systemtechnik GmbH 
 Prüfung Festigkeit 
 I.T-IVP 23(1) 
-
 Unfall Dortmund 
-
 Mehrkörpersimulation ICE2 
 Daten zum Simulationsmodell 
-
 Anlage: 
-
 1 
-
 Seite: 
-
 Bericht: 
-
 Name: 
-
 11 von 35 
 17-53741-I.T-IVP23-
 UN-0810_V02 
@@ -18630,34 +9252,16 @@ Messstelle Anbindung Torsionsstange am Wagenkasten
 Auslenkung / vertikale Verschiebung Hebel 2 mm 
 
 Frontansicht 
-
 0
 2
 9
-
 0
 2
 9
-
 zulässige Auslenkung des Wankstützhebels 
 im Leerzustand 2 mm 
-
 Abstand Torsionsstab von SOK 920 mm 
-
 2 Ausschnitt aus der technischen Zeichnung FTE805.0.04.058.001 Wankstütze Anbau 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -18685,33 +9289,8 @@ Abstand Torsionsstab von SOK 920 mm
  
  
  
-   
- 
  
    
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-   
- 
- 
- 
- 
- 
- 
- 
- 
-                                                
  
  
  
@@ -18724,48 +9303,19 @@ Abstand Torsionsstab von SOK 920 mm
 DB Systemtechnik GmbH 
 Prüfung Festigkeit 
 I.T-IVP 23(1) 
-
 Unfall Dortmund 
-
 Mehrkörpersimulation ICE2 
 Daten zum Simulationsmodell 
-
 Anlage: 
-
 1 
-
 Seite: 
-
 Bericht: 
-
 Name: 
-
 12 von 35 
 17-53741-I.T-IVP23-
 UN-0810_V02 
-
 z ARTB 02 
-
 z ARTB 01 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -18787,48 +9337,19 @@ z ARTB 01
 DB Systemtechnik GmbH 
 Prüfung Festigkeit 
 I.T-IVP 23(1) 
-
 Unfall Dortmund 
-
 Mehrkörpersimulation ICE2 
 Daten zum Simulationsmodell 
-
 Anlage: 
-
 1 
-
 Seite: 
-
 Bericht: 
-
 Name: 
-
 13 von 35 
 17-53741-I.T-IVP23-
 UN-0810_V02 
-
 z ARTB 02 
-
 z ARTB 01 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -18850,44 +9371,18 @@ z ARTB 01
 DB Systemtechnik GmbH 
 Prüfung Festigkeit 
 I.T-IVP 23(1) 
-
 Unfall Dortmund 
-
 Mehrkörpersimulation ICE2 
 Daten zum Simulationsmodell 
-
 Anlage: 
-
 1 
-
 Seite: 
-
 Bericht: 
-
 Name: 
-
 14 von 35 
 17-53741-I.T-IVP23-
 UN-0810_V02 
-
 z ARTB Hebel 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -18908,44 +9403,18 @@ z ARTB Hebel
 DB Systemtechnik GmbH 
 Prüfung Festigkeit 
 I.T-IVP 23(1) 
-
 Unfall Dortmund 
-
 Mehrkörpersimulation ICE2 
 Daten zum Simulationsmodell 
-
 Anlage: 
-
 1 
-
 Seite: 
-
 Bericht: 
-
 Name: 
-
 15 von 35 
 17-53741-I.T-IVP23-
 UN-0810_V02 
-
 z ARTB Hebel 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -18966,50 +9435,32 @@ z ARTB Hebel
 DB Systemtechnik GmbH 
 Prüfung Festigkeit 
 I.T-IVP 23(1) 
-
 Unfall Dortmund 
-
 Mehrkörpersimulation ICE2 
 Daten zum Simulationsmodell 
-
 Anlage: 
-
 1 
-
 Seite: 
-
 Bericht: 
-
 Name: 
-
 16 von 35 
 17-53741-I.T-IVP23-
 UN-0810_V02 
-
 1.5   Plausibilitätsprüfung  zum  Wankverhalten  
 Wankfrequenz bei  unbeladenen  Wagen  
-
 Wagen  Frequenz 
-
 Beschreibung 
-
  MW 
-
 [Hz] 
  0.9 
-
 STW 
-
 1 Hz 
-
 gleichphasiges 
 Drehgestellrahm  
 mit geringer Que
-
 von 
 en und Wagenkasten  
 rbewegung 
-
 Wanken 
 
 Der  Neigekoeffizient  wurde  für  eine  Überhöhung  von  150  mm  ermittelt.  Dazu  fuhren  beide  
@@ -19018,50 +9469,16 @@ Wagen  im  geraden  Gleis mit  5  km/h  durch  eine  Rampe  mit  150  mm  Überh
 Wagen 
  MW 
 STW 
-
 Neigungskoeffizient s bei u=150 mm 
 0.16 
 0.15 
-
 Berechnet wird der Neigungskoeffizient s für den stationären Versuch nach [12] wie folgt:
 
-
 s = 
-
 Y ∗ 
 Yo 
-
 Y ∗ = Wankwinkel  es Wa enkas ens 
 Yo = Wankwinkel  e  a sä øe øø  øn enei  en øleiseøene 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -19094,62 +9511,29 @@ Yo = Wankwinkel  e  a sä øe øø  øn enei  en øleiseøene
  
  
  
- 
- 
- 
- 
- 
-  
  
  
 	  	
  
- 
- 
 	   	     
 	
  	  
-  
 	
- 
 	
 DB Systemtechnik GmbH 
 Prüfung Festigkeit 
 I.T-IVP 23(1) 
-
 Unfall Dortmund 
-
 Mehrkörpersimulation ICE2 
 Daten zum Simulationsmodell 
-
 Anlage: 
-
 1 
-
 Seite: 
-
 Bericht: 
-
 Name: 
-
 17 von 35 
 17-53741-I.T-IVP23-
 UN-0810_V02 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -19167,40 +9551,17 @@ UN-0810_V02
 DB Systemtechnik GmbH 
 Prüfung Festigkeit 
 I.T-IVP 23(1) 
-
 Unfall Dortmund 
-
 Mehrkörpersimulation ICE2 
 Daten zum Simulationsmodell 
-
 Anlage: 
-
 1 
-
 Seite: 
-
 Bericht: 
-
 Name: 
-
 18 von 35 
 17-53741-I.T-IVP23-
 UN-0810_V02 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -19219,72 +9580,30 @@ UN-0810_V02
 DB Systemtechnik GmbH 
 Prüfung Festigkeit 
 I.T-IVP 23(1) 
-
 Unfall Dortmund 
-
 Mehrkörpersimulation ICE2 
 Daten zum Simulationsmodell 
-
 Anlage: 
-
 1 
-
 Seite: 
-
 Bericht: 
-
 Name: 
-
 19 von 35 
 17-53741-I.T-IVP23-
 UN-0810_V02 
-
 1.6  Eingebundene gemessene Radprofile 
-
 Kontaktgeometrie in SIMPACK 
-
 42 
-
 32 
-
 WE1 
-
 41 
-
 31 
-
 Wagen 806.6  → v 
-
 22 
-
 12 
-
 WE2 
-
 21 
-
 11 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -19306,12 +9625,6 @@ WE2
  
  
        
-   
- 
- 
- 
- 
- 
  
  
  
@@ -19320,51 +9633,30 @@ WE2
 DB Systemtechnik GmbH 
 Prüfung Festigkeit 
 I.T-IVP 23(1) 
-
 Unfall Dortmund 
-
 Mehrkörpersimulation ICE2 
 Daten zum Simulationsmodell 
-
 Anlage: 
-
 1 
-
 Seite: 
-
 Bericht: 
-
 Name: 
-
 20 von 35 
 17-53741-I.T-IVP23-
 UN-0810_V02 
-
 Kontaktgeometrie in SIMPACK
 
-
 42 
-
 32 
-
 WE1 
-
 41 
-
 31 
-
 Wagen 806.6  → v 
-
 22 
-
 12 
-
 WE2 
-
 21 
-
 11 
-
  
  
  
@@ -19383,30 +9675,7 @@ WE2
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-       
    
- 
- 
- 
- 
- 
  
  
  
@@ -19416,51 +9685,30 @@ WE2
 DB Systemtechnik GmbH 
 Prüfung Festigkeit 
 I.T-IVP 23(1) 
-
 Unfall Dortmund 
-
 Mehrkörpersimulation ICE2 
 Daten zum Simulationsmodell 
-
 Anlage: 
-
 1 
-
 Seite: 
-
 Bericht: 
-
 Name: 
-
 21 von 35 
 17-53741-I.T-IVP23-
 UN-0810_V02 
-
 Kontaktgeometrie in SIMPACK
 
-
 42 
-
 32 
-
 WE1 
-
 41 
-
 31 
-
 Wagen 806.6  → v 
-
 22 
-
 12 
-
 WE2 
-
 21 
-
 11 
-
  
  
  
@@ -19479,30 +9727,7 @@ WE2
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-       
    
- 
- 
- 
- 
- 
  
  
  
@@ -19512,51 +9737,30 @@ WE2
 DB Systemtechnik GmbH 
 Prüfung Festigkeit 
 I.T-IVP 23(1) 
-
 Unfall Dortmund 
-
 Mehrkörpersimulation ICE2 
 Daten zum Simulationsmodell 
-
 Anlage: 
-
 1 
-
 Seite: 
-
 Bericht: 
-
 Name: 
-
 22 von 35 
 17-53741-I.T-IVP23-
 UN-0810_V02 
-
 Kontaktgeometrie in SIMPACK
 
-
 42 
-
 32 
-
 WE1 
-
 41 
-
 31 
-
 Wagen 806.6  → v 
-
 22 
-
 12 
-
 WE2 
-
 21 
-
 11 
-
  
  
  
@@ -19575,30 +9779,7 @@ WE2
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-       
    
- 
- 
- 
- 
- 
  
  
  
@@ -19608,51 +9789,30 @@ WE2
 DB Systemtechnik GmbH 
 Prüfung Festigkeit 
 I.T-IVP 23(1) 
-
 Unfall Dortmund 
-
 Mehrkörpersimulation ICE2 
 Daten zum Simulationsmodell 
-
 Anlage: 
-
 1 
-
 Seite: 
-
 Bericht: 
-
 Name: 
-
 23 von 35 
 17-53741-I.T-IVP23-
 UN-0810_V02 
-
 Kontaktgeometrie in SIMPACK
 
-
 42 
-
 32 
-
 WE2 
-
 41 
-
 31 
-
 Wagen 808.0  → v 
-
 22 
-
 12 
-
 WE1 
-
 21 
-
 11 
-
  
  
  
@@ -19671,30 +9831,7 @@ WE1
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-       
    
- 
- 
- 
- 
- 
  
  
  
@@ -19704,51 +9841,30 @@ WE1
 DB Systemtechnik GmbH 
 Prüfung Festigkeit 
 I.T-IVP 23(1) 
-
 Unfall Dortmund 
-
 Mehrkörpersimulation ICE2 
 Daten zum Simulationsmodell 
-
 Anlage: 
-
 1 
-
 Seite: 
-
 Bericht: 
-
 Name: 
-
 24 von 35 
 17-53741-I.T-IVP23-
 UN-0810_V02 
-
 Kontaktgeometrie in SIMPACK
 
-
 42 
-
 32 
-
 WE2 
-
 41 
-
 31 
-
 Wagen 808.0  → v 
-
 22 
-
 12 
-
 WE1 
-
 21 
-
 11 
-
  
  
  
@@ -19767,30 +9883,7 @@ WE1
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-       
    
- 
- 
- 
- 
- 
  
  
  
@@ -19800,51 +9893,30 @@ WE1
 DB Systemtechnik GmbH 
 Prüfung Festigkeit 
 I.T-IVP 23(1) 
-
 Unfall Dortmund 
-
 Mehrkörpersimulation ICE2 
 Daten zum Simulationsmodell 
-
 Anlage: 
-
 1 
-
 Seite: 
-
 Bericht: 
-
 Name: 
-
 25 von 35 
 17-53741-I.T-IVP23-
 UN-0810_V02 
-
 Kontaktgeometrie in SIMPACK
 
-
 42 
-
 32 
-
 WE2 
-
 41 
-
 31 
-
 Wagen 808.0  → v 
-
 22 
-
 12 
-
 WE1 
-
 21 
-
 11 
-
  
  
  
@@ -19863,30 +9935,7 @@ WE1
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-       
    
- 
- 
- 
- 
- 
  
  
  
@@ -19896,51 +9945,30 @@ WE1
 DB Systemtechnik GmbH 
 Prüfung Festigkeit 
 I.T-IVP 23(1) 
-
 Unfall Dortmund 
-
 Mehrkörpersimulation ICE2 
 Daten zum Simulationsmodell 
-
 Anlage: 
-
 1 
-
 Seite: 
-
 Bericht: 
-
 Name: 
-
 26 von 35 
 17-53741-I.T-IVP23-
 UN-0810_V02 
-
 Kontaktgeometrie in SIMPACK
 
-
 42 
-
 32 
-
 WE2 
-
 41 
-
 31 
-
 Wagen 808.0  → v 
-
 22 
-
 12 
-
 WE1 
-
 21 
-
 11 
-
  
  
  
@@ -19959,95 +9987,31 @@ WE1
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-       
    
  
  
  
  
  
- 
- 
- 
- 
- 
 	
 DB Systemtechnik GmbH 
 Prüfung Festigkeit 
 I.T-IVP 23(1) 
-
 Unfall Dortmund 
-
 Mehrkörpersimulation ICE2 
 Daten zum Simulationsmodell 
-
 Anlage: 
-
 1 
-
 Seite: 
-
 Bericht: 
-
 Name: 
-
 27 von 35 
 17-53741-I.T-IVP23-
 UN-0810_V02 
-
 1.7	
-
 � Vergleich der Zungen-Backenschienen-Profile vor und 
-
 nach der Instandhaltung 
-
 Vergleich des Querschnitts 150 mm nach Zungenanfang 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -20080,48 +10044,21 @@ Vergleich des Querschnitts 150 mm nach Zungenanfang
 DB Systemtechnik GmbH 
 Prüfung Festigkeit 
 I.T-IVP 23(1) 
-
 Unfall Dortmund 
-
 Mehrkörpersimulation ICE2 
 Daten zum Simulationsmodell 
-
 Anlage: 
-
 1 
-
 Seite: 
-
 Bericht: 
-
 Name: 
-
 28 von 35 
 17-53741-I.T-IVP23-
 UN-0810_V02 
-
 Vergleich des Querschnitts 200 mm nach Zungenanfang
-
 
 Vergleich des Querschnitts 250 mm nach Zungenanfang
 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -20139,9 +10076,6 @@ Vergleich des Querschnitts 250 mm nach Zungenanfang
  
  
 	
- 
- 
- 
  
  
  
@@ -20149,48 +10083,21 @@ Vergleich des Querschnitts 250 mm nach Zungenanfang
 DB Systemtechnik GmbH 
 Prüfung Festigkeit 
 I.T-IVP 23(1) 
-
 Unfall Dortmund 
-
 Mehrkörpersimulation ICE2 
 Daten zum Simulationsmodell 
-
 Anlage: 
-
 1 
-
 Seite: 
-
 Bericht: 
-
 Name: 
-
 29 von 35 
 17-53741-I.T-IVP23-
 UN-0810_V02 
-
 Vergleich des Querschnitts 300 mm nach Zungenanfang
-
 
 Vergleich des Querschnitts 350 mm nach Zungenanfang
 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -20208,9 +10115,6 @@ Vergleich des Querschnitts 350 mm nach Zungenanfang
  
  
 	
- 
- 
- 
  
  
  
@@ -20218,48 +10122,21 @@ Vergleich des Querschnitts 350 mm nach Zungenanfang
 DB Systemtechnik GmbH 
 Prüfung Festigkeit 
 I.T-IVP 23(1) 
-
 Unfall Dortmund 
-
 Mehrkörpersimulation ICE2 
 Daten zum Simulationsmodell 
-
 Anlage: 
-
 1 
-
 Seite: 
-
 Bericht: 
-
 Name: 
-
 30 von 35 
 17-53741-I.T-IVP23-
 UN-0810_V02 
-
 Vergleich des Querschnitts 400 mm nach Zungenanfang
-
 
 Vergleich des Querschnitts 500 mm nach Zungenanfang
 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -20276,60 +10153,27 @@ Vergleich des Querschnitts 500 mm nach Zungenanfang
  
  
   
- 
 	
  
- 
- 
- 
-  
  
  
 	
 DB Systemtechnik GmbH 
 Prüfung Festigkeit 
 I.T-IVP 23(1) 
-
 Unfall Dortmund 
-
 Mehrkörpersimulation ICE2 
 Daten zum Simulationsmodell 
-
 Anlage: 
-
 1 
-
 Seite: 
-
 Bericht: 
-
 Name: 
-
 31 von 35 
 17-53741-I.T-IVP23-
 UN-0810_V02 
-
 Vergleich des Querschnitts 700 mm nach Zungenanfang
 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -20351,45 +10195,19 @@ Vergleich des Querschnitts 700 mm nach Zungenanfang
 DB Systemtechnik GmbH 
 Prüfung Festigkeit 
 I.T-IVP 23(1) 
-
 Unfall Dortmund 
-
 Mehrkörpersimulation ICE2 
 Daten zum Simulationsmodell 
-
 Anlage: 
-
 1 
-
 Seite: 
-
 Bericht: 
-
 Name: 
-
 32 von 35 
 17-53741-I.T-IVP23-
 UN-0810_V02 
-
 1.8  Schlingerdämpferkennlinien
 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -20409,41 +10227,17 @@ UN-0810_V02
 DB Systemtechnik GmbH 
 Prüfung Festigkeit 
 I.T-IVP 23(1) 
-
 Unfall Dortmund 
-
 Mehrkörpersimulation ICE2 
 Daten zum Simulationsmodell 
-
 Anlage: 
-
 1 
-
 Seite: 
-
 Bericht: 
-
 Name: 
-
 33 von 35 
 17-53741-I.T-IVP23-
 UN-0810_V02 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -20462,45 +10256,19 @@ UN-0810_V02
 DB Systemtechnik GmbH 
 Prüfung Festigkeit 
 I.T-IVP 23(1) 
-
 Unfall Dortmund 
-
 Mehrkörpersimulation ICE2 
 Daten zum Simulationsmodell 
-
 Anlage: 
-
 1 
-
 Seite: 
-
 Bericht: 
-
 Name: 
-
 34 von 35 
 17-53741-I.T-IVP23-
 UN-0810_V02 
-
 1.9  Spiel in den Radsatzführungsbuchsen
 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -20521,40 +10289,17 @@ UN-0810_V02
 DB Systemtechnik GmbH 
 Prüfung Festigkeit 
 I.T-IVP 23(1) 
-
 Unfall Dortmund 
-
 Mehrkörpersimulation ICE2 
 Daten zum Simulationsmodell 
-
 Anlage: 
-
 1 
-
 Seite: 
-
 Bericht: 
-
 Name: 
-
 35 von 35 
 17-53741-I.T-IVP23-
 UN-0810_V02 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -20573,26 +10318,17 @@ UN-0810_V02
 DB Systemtechnik GmbH 
 Prüfung Festigkeit 
 I.T-IVP 23 
-
 Unfall Dortmund 
-
 Mehrkörpersimulation ICE2 
 Ergebnisse 
-
 Anlage:  2 
-
 Seite: 
-
 Bericht: 
-
 Name: 
-
 1 von 22 
 17-53741-I.T-IVP23-
 UN-0810_V02 
-
 Anlage 2: Simulationsergebnisse 
-
 Inhaltsverzeichnis  
 2.1  
  2.2 
@@ -20642,7 +10378,6 @@ Variante 19 ....................................................................
 
 
 2.13 
-
 Variante 20  
 
 ........................................................................................................................17
@@ -20667,171 +10402,23 @@ Variante 25 ....................................................................
 
 Variante 26 .........................................................................................................................22
 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-   
-	
- 
- 
-   
-	
- 
- 
-   
-	
- 
- 
-   
-	
- 
- 
-   
-	
- 
- 
- 
- 
- 
- 
-	
- 
- 
- 
- 
-	
- 
- 
- 
- 
-	
- 
- 
- 
- 
- 
-	
- 
- 
- 
- 
- 
-	
- 
- 
- 
- 
- 
-	
- 
- 
- 
- 
- 
-	
- 
- 
- 
- 
- 
-	
- 
- 
- 
- 
- 
-	
- 
- 
- 
- 
- 
-	
- 
- 
- 
- 
- 
-	
- 
- 
- 
  
 DB Systemtechnik GmbH 
 Prüfung Festigkeit 
 I.T-IVP 23 
-
 Unfall Dortmund 
-
 Mehrkörpersimulation ICE2 
 Ergebnisse 
-
 Anlage: 
-
 2 
-
 Seite: 
-
 Bericht: 
-
 Name: 
-
 2 von 22 
 17-53741-I.T-IVP23-
 UN-0810_V02 
-
 2.1  Variante 1
 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -20850,44 +10437,19 @@ UN-0810_V02
 DB Systemtechnik GmbH 
 Prüfung Festigkeit 
 I.T-IVP 23 
-
 Unfall Dortmund 
-
 Mehrkörpersimulation ICE2 
 Ergebnisse 
-
 Anlage: 
-
 2 
-
 Seite: 
-
 Bericht: 
-
 Name: 
-
 3 von 22 
 17-53741-I.T-IVP23-
 UN-0810_V02 
-
 2.2  Variante 2
 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -20906,40 +10468,17 @@ UN-0810_V02
 DB Systemtechnik GmbH 
 Prüfung Festigkeit 
 I.T-IVP 23 
-
 Unfall Dortmund 
-
 Mehrkörpersimulation ICE2 
 Ergebnisse 
-
 Anlage: 
-
 2 
-
 Seite: 
-
 Bericht: 
-
 Name: 
-
 4 von 22 
 17-53741-I.T-IVP23-
 UN-0810_V02 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -20957,44 +10496,19 @@ UN-0810_V02
 DB Systemtechnik GmbH 
 Prüfung Festigkeit 
 I.T-IVP 23 
-
 Unfall Dortmund 
-
 Mehrkörpersimulation ICE2 
 Ergebnisse 
-
 Anlage: 
-
 2 
-
 Seite: 
-
 Bericht: 
-
 Name: 
-
 5 von 22 
 17-53741-I.T-IVP23-
 UN-0810_V02 
-
 2.3  Variante 4
 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -21013,44 +10527,19 @@ UN-0810_V02
 DB Systemtechnik GmbH 
 Prüfung Festigkeit 
 I.T-IVP 23 
-
 Unfall Dortmund 
-
 Mehrkörpersimulation ICE2 
 Ergebnisse 
-
 Anlage: 
-
 2 
-
 Seite: 
-
 Bericht: 
-
 Name: 
-
 6 von 22 
 17-53741-I.T-IVP23-
 UN-0810_V02 
-
 2.4  Variante 6
 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -21069,40 +10558,17 @@ UN-0810_V02
 DB Systemtechnik GmbH 
 Prüfung Festigkeit 
 I.T-IVP 23 
-
 Unfall Dortmund 
-
 Mehrkörpersimulation ICE2 
 Ergebnisse 
-
 Anlage: 
-
 2 
-
 Seite: 
-
 Bericht: 
-
 Name: 
-
 7 von 22 
 17-53741-I.T-IVP23-
 UN-0810_V02 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -21121,44 +10587,19 @@ UN-0810_V02
 DB Systemtechnik GmbH 
 Prüfung Festigkeit 
 I.T-IVP 23 
-
 Unfall Dortmund 
-
 Mehrkörpersimulation ICE2 
 Ergebnisse 
-
 Anlage: 
-
 2 
-
 Seite: 
-
 Bericht: 
-
 Name: 
-
 8 von 22 
 17-53741-I.T-IVP23-
 UN-0810_V02 
-
 2.5  Variante 9
 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -21177,39 +10618,17 @@ UN-0810_V02
 DB Systemtechnik GmbH 
 Prüfung Festigkeit 
 I.T-IVP 23 
-
 Unfall Dortmund 
-
 Mehrkörpersimulation ICE2 
 Ergebnisse 
-
 Anlage: 
-
 2 
-
 Seite: 
-
 Bericht: 
-
 Name: 
-
 9 von 22 
 17-53741-I.T-IVP23-
 UN-0810_V02 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -21227,45 +10646,19 @@ UN-0810_V02
 DB Systemtechnik GmbH 
 Prüfung Festigkeit 
 I.T-IVP 23 
-
 Unfall Dortmund 
-
 Mehrkörpersimulation ICE2 
 Ergebnisse 
-
 Anlage: 
-
 2 
-
 Seite: 
-
 Bericht: 
-
 Name: 
-
 10 von 22 
 17-53741-I.T-IVP23-
 UN-0810_V02 
-
 2.6  Variante 10 und 17
 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -21285,44 +10678,19 @@ UN-0810_V02
 DB Systemtechnik GmbH 
 Prüfung Festigkeit 
 I.T-IVP 23 
-
 Unfall Dortmund 
-
 Mehrkörpersimulation ICE2 
 Ergebnisse 
-
 Anlage: 
-
 2 
-
 Seite: 
-
 Bericht: 
-
 Name: 
-
 11 von 22 
 17-53741-I.T-IVP23-
 UN-0810_V02 
-
 2.7  Variante 11
 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -21341,40 +10709,17 @@ UN-0810_V02
 DB Systemtechnik GmbH 
 Prüfung Festigkeit 
 I.T-IVP 23 
-
 Unfall Dortmund 
-
 Mehrkörpersimulation ICE2 
 Ergebnisse 
-
 Anlage: 
-
 2 
-
 Seite: 
-
 Bericht: 
-
 Name: 
-
 12 von 22 
 17-53741-I.T-IVP23-
 UN-0810_V02 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -21393,44 +10738,19 @@ UN-0810_V02
 DB Systemtechnik GmbH 
 Prüfung Festigkeit 
 I.T-IVP 23 
-
 Unfall Dortmund 
-
 Mehrkörpersimulation ICE2 
 Ergebnisse 
-
 Anlage: 
-
 2 
-
 Seite: 
-
 Bericht: 
-
 Name: 
-
 13 von 22 
 17-53741-I.T-IVP23-
 UN-0810_V02 
-
 2.9  Variante 14
 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -21449,46 +10769,19 @@ UN-0810_V02
 DB Systemtechnik GmbH 
 Prüfung Festigkeit 
 I.T-IVP 23 
-
 Unfall Dortmund 
-
 Mehrkörpersimulation ICE2 
 Ergebnisse 
-
 Anlage: 
-
 2 
-
 Seite: 
-
 Bericht: 
-
 Name: 
-
 14 von 22 
 17-53741-I.T-IVP23-
 UN-0810_V02 
-
 2.10 Variante 15
 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -21509,44 +10802,19 @@ UN-0810_V02
 DB Systemtechnik GmbH 
 Prüfung Festigkeit 
 I.T-IVP 23 
-
 Unfall Dortmund 
-
 Mehrkörpersimulation ICE2 
 Ergebnisse 
-
 Anlage: 
-
 2 
-
 Seite: 
-
 Bericht: 
-
 Name: 
-
 15 von 22 
 17-53741-I.T-IVP23-
 UN-0810_V02 
-
 2.11 Variante 16
 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -21565,45 +10833,19 @@ UN-0810_V02
 DB Systemtechnik GmbH 
 Prüfung Festigkeit 
 I.T-IVP 23 
-
 Unfall Dortmund 
-
 Mehrkörpersimulation ICE2 
 Ergebnisse 
-
 Anlage: 
-
 2 
-
 Seite: 
-
 Bericht: 
-
 Name: 
-
 16 von 22 
 17-53741-I.T-IVP23-
 UN-0810_V02 
-
 2.12 Variante 19
 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -21624,45 +10866,20 @@ UN-0810_V02
 DB Systemtechnik GmbH 
 Prüfung Festigkeit 
 I.T-IVP 23 
-
 Unfall Dortmund 
-
 Mehrkörpersimulation ICE2 
 Ergebnisse 
-
 Anlage: 
-
 2 
-
 Seite: 
-
 Bericht: 
-
 Name: 
-
 17 von 22 
 17-53741-I.T-IVP23-
 UN-0810_V02 
-
 2.13 Variante 20 1
 
-
 1 siehe auch Kapitel 2.9 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -21678,9 +10895,6 @@ UN-0810_V02
  
  
    
-                                                 
- 
- 
  
  
  
@@ -21688,43 +10902,19 @@ UN-0810_V02
 DB Systemtechnik GmbH 
 Prüfung Festigkeit 
 I.T-IVP 23 
-
 Unfall Dortmund 
-
 Mehrkörpersimulation ICE2 
 Ergebnisse 
-
 Anlage: 
-
 2 
-
 Seite: 
-
 Bericht: 
-
 Name: 
-
 18 von 22 
 17-53741-I.T-IVP23-
 UN-0810_V02 
-
 2.14 Variante 21
 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -21740,48 +10930,22 @@ UN-0810_V02
  
  
 �
- 
 DB Systemtechnik GmbH 
 Prüfung Festigkeit 
 I.T-IVP 23 
-
 Unfall Dortmund 
-
 Mehrkörpersimulation ICE2 
 Ergebnisse 
-
 Anlage: 
-
 2 
-
 Seite: 
-
 Bericht: 
-
 Name: 
-
 19 von 22 
 17-53741-I.T-IVP23-
 UN-0810_V02 
-
 2.15 Variante 23
 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -21800,40 +10964,17 @@ UN-0810_V02
 DB Systemtechnik GmbH 
 Prüfung Festigkeit 
 I.T-IVP 23 
-
 Unfall Dortmund 
-
 Mehrkörpersimulation ICE2 
 Ergebnisse 
-
 Anlage: 
-
 2 
-
 Seite: 
-
 Bericht: 
-
 Name: 
-
 20 von 22 
 17-53741-I.T-IVP23-
 UN-0810_V02 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -21852,45 +10993,19 @@ UN-0810_V02
 DB Systemtechnik GmbH 
 Prüfung Festigkeit 
 I.T-IVP 23 
-
 Unfall Dortmund 
-
 Mehrkörpersimulation ICE2 
 Ergebnisse 
-
 Anlage: 
-
 2 
-
 Seite: 
-
 Bericht: 
-
 Name: 
-
 21 von 22 
 17-53741-I.T-IVP23-
 UN-0810_V02 
-
 2.16 Variante 25
 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -21911,44 +11026,19 @@ UN-0810_V02
 DB Systemtechnik GmbH 
 Prüfung Festigkeit 
 I.T-IVP 23 
-
 Unfall Dortmund 
-
 Mehrkörpersimulation ICE2 
 Ergebnisse 
-
 Anlage: 
-
 2 
-
 Seite: 
-
 Bericht: 
-
 Name: 
-
 22 von 22 
 17-53741-I.T-IVP23-
 UN-0810_V02 
-
 2.17 Variante 26
 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -21964,5 +11054,4 @@ UN-0810_V02
  
  
 �
- 
 

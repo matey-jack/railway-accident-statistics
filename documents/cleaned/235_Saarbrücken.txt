@@ -1,43 +1,23 @@
 Untersuchungsbericht 
-
 Aktenzeichen: 
-
 BEU-uu2022-12/002-3323 
-
 Stand: 
-
 02.10.2025 
-
 Version 1.0 
-
 Erstveröffentlichung:  15.10.2025 
-
 Gefährliches	Ereignis	im	Eisenbahnbetrieb 
-
 Ereignisart: 
-
 Zugentgleisung 
-
 Datum: 
-
 Zeit: 
-
 06.12.2022 
-
 13:45 Uhr 
-
 Betriebsstelle: 
-
 Bf Saarbrücken Rbf 
-
 Gleis: 
-
 Weiche: 
-
 125 
-
 W 62 
-
 	
  
  
@@ -54,26 +34,16 @@ W 62 
  
  
 Untersuchungsbericht 
-
 Zugentgleisung, 06.12.2022, Bf Saarbrücken Rbf 
-
 Veröffentlicht durch: 
-
 Bundesstelle für Eisenbahnunfalluntersuchung 
-
 Heinemannstraße 6 
-
 53175 Bonn 
-
  
 Untersuchungsbericht 
-
 Zugentgleisung, 06.12.2022, Bf Saarbrücken Rbf 
-
 Inhaltsverzeichnis	
-
 I. 
-
 II. 
 
 Änderungsverzeichnis: .......................................................................................... II 
@@ -89,19 +59,12 @@ IV. 
 Abkürzungsverzeichnis: ....................................................................................... IV 
 
 0 
-
 1 
-
 1.1 
-
 1.2 
-
 1.3 
-
 1.4 
-
 2 
-
 3 
 
 Vorbemerkung ...................................................................................................... 1 
@@ -121,9 +84,7 @@ Die Untersuchung und ihr Kontext ..........................................
 Beschreibung des Ereignisses ................................................................................ 6 
 
 3.1 
-
 Informationen über das Ereignis und seine Hintergründe ..................................... 6 
-
 3.1.1 
 
 Lage und Beschreibung des Ereignisortes .............................................................. 6 
@@ -153,7 +114,6 @@ Hergangsbeschreibung ..........................................................
 Notfallmanagement ............................................................................................. 12 
 
 4 
-
 4.1 
 
 Auswertung des Ereignisses ................................................................................ 13 
@@ -161,21 +121,14 @@ Auswertung des Ereignisses ..................................................
 Aufgaben und Pflichten ....................................................................................... 13 
 
 4.1.1 
-
 Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers ................. 13 
-
 I 
-
  
  
 Untersuchungsbericht 
-
 Zugentgleisung, 06.12.2022, Bf Saarbrücken Rbf 
-
 4.1.2 
-
 Untersuchung der betrieblichen Abläufe der EVU ............................................... 14 
-
 4.2 
 
 Fahrzeuge und technische Einrichtungen ............................................................ 16 
@@ -185,9 +138,7 @@ Fahrzeuge und technische Einrichtungen .....................................
 Untersuchung von Fahrzeugen ............................................................................ 16 
 
 4.2.2 
-
 Untersuchung der bautechnischen Infrastruktur ................................................. 19 
-
 4.2.3 
 
 Untersuchung der Leit- und Sicherungstechnik ................................................... 28 
@@ -217,23 +168,16 @@ SMS des EIU .................................................................
 SMS des EVU ........................................................................................................ 30 
 
 4.5 
-
 5 
-
 5.1 
-
 5.2 
-
 5.3 
 
 Frühere Ereignisse ähnlicher Art .......................................................................... 30 
 
 Schlussfolgerungen .......................................................................
-
 ...................... 31 
-
 Zusammenfassung und Schlussfolgerung ....................................
-
 ........................ 31 
 
 Seit dem Ereignis getroffene Maßnahmen .......................................................... 32 
@@ -245,13 +189,9 @@ Zusätzliche Bemerkungen .....................................................
 Sicherheitsempfehlungen ................................................................................... 33 
 
 I.  Änderungsverzeichnis:	
-
 Änderung 
-
 Stand 
-
 II 
-
  
  
  
@@ -261,9 +201,7 @@ II 
 	
 	
 Untersuchungsbericht 
-
 Zugentgleisung, 06.12.2022, Bf Saarbrücken Rbf 
-
 II.  Abbildungsverzeichnis:	
 
 Abbildung 1: Lageplan und Fahrtverlauf KT 41229 ................................................................... 7 
@@ -303,201 +241,120 @@ Tabelle 3: Übersicht der geschätzten Schadenshöhe .....................
 Tabelle 4: Technische Daten Tfz 91 80 6186 318-2 D-ECR ...................................................... 17 
 
 III 
-
  
  
  
  
  
 Untersuchungsbericht 
-
 Zugentgleisung, 06.12.2022, Bf Saarbrücken Rbf 
-
 IV.  Abkürzungsverzeichnis:	
-
 AEG 
-
 Allgemeines Eisenbahngesetz 
-
 Alv Fb 
-
 Anlagenverantwortlicher Fahrbahn 
-
 BEU 
-
 Bf 
-
 EBO 
-
 EFR 
-
 EIU 
-
 EU 
-
 EUV 
-
 EVU 
-
 Fdl 
-
 Bundesstelle für Eisenbahnunfalluntersuchung 
-
 Bahnhof 
-
 Eisenbahn-Bau- und Betriebsordnung 
-
 Elektronische Fahrtenregistrierung 
-
 Eisenbahninfrastrukturunternehmen 
-
 Europäische Union 
-
 Eisenbahn-Unfalluntersuchungsverordnung 
-
 Eisenbahnverkehrsunternehmen 
-
 Fahrdienstleiter 
-
 GSM-R 
-
 Global System for Mobile Communications Rail 
-
 Hbf 
-
 LST 
-
 Hauptbahnhof 
-
 Leit- und Sicherungstechnik 
-
 MPA 
-
 Materialprüfungsanstalt 
-
 PZB 
-
 Rbf 
-
 Ril 
-
 SMS 
-
 Tf 
-
 Tfz 
-
 Punktförmige Zugbeeinflussung 
-
 Rangierbahnhof 
-
 Richtlinie 
-
 Sicherheitsmanagementsystem 
-
 Triebfahrzeugführer  
-
 Triebfahrzeug 
-
 TSI OPE 
 
 Technische Spezifikation für die Interoperabilität Teilsystem 
 „Verkehrsbetrieb und Verkehrssteuerung“ 
 
 UIC 
-
 VzG 
-
 Zsig 
-
 Union Internationale des Chemins de fer/International Union of 
 Railways 
-
 Verzeichnis der örtlich zulässigen Geschwindigkeiten 
-
 Zwischensignal 
-
 IV 
-
  
  
  
 Untersuchungsbericht 
-
 Zugentgleisung, 06.12.2022, Bf Saarbrücken Rbf 
-
 0  Vorbemerkung	
 
 Auf der Grundlage des Artikel 24 der Richtlinie (EU) 2016/798 hat die europäische Kommission 
 
 mit 
-
 der 
-
 Inkraftsetzung 
-
 der  Durchführungsverordnung 
-
 (EU) 
-
 2020/572 
-
 die 
-
 Untersuchungsberichtsstruktur festgelegt. Diese Vorgaben sind grundsätzlich einzuhalten und 
-
 müssen der Art und Schwere des gefährlichen Ereignisses angepasst sein. 
-
 Mit  Verkündung  der  Verordnung  und  Inkraftsetzung  am  zwanzigsten  Tag  nach  der 
 
 Veröffentlichung  im  Amtsblatt  der  Europäischen  Union  (EU)  ist  diese  verbindlich  und 
 
 unmittelbar auf alle ab dem 17.05.2020 eingeleiteten Untersuchungen anzuwenden. 
-
 Seite 1 von 33 
-
  
  
  
  
 Untersuchungsbericht 
-
 Zugentgleisung, 06.12.2022, Bf Saarbrücken Rbf 
-
 1  Zusammenfassung	
-
 Das erste Kapitel enthält eine Kurzbeschreibung des Ereignisses sowie Informationen zu den 
-
 Folgen, Ursachen sowie zu im Einzelfall ausgesprochenen Sicherheitsempfehlungen. 
-
 1.1  Kurzbeschreibung	des	Ereignisses	
-
 Am 06.12.2022 gegen 13:45 Uhr entgleiste der Güterzug KT 41229 auf der Fahrt von Forbach 
-
 (Frankreich) nach Saarbrücken Rangierbahnhof (Rbf) bei der Einfahrt nach Gleis 125 in den 
-
 Bahnhof (Bf) Saarbrücken Rbf Gruppe Nord auf der Weiche W62 mit sechs Wagen.  
-
 1.2  Folgen	
 
 Es  gab  keine  Verletzten  oder  Todesopfer.  Es  entgleisten  sechs  Wagen  an  den  Positionen 
 
 3 bis 8. An einem Tankcontainer kam es zum Austritt von Ladegut.  
-
 Es  entstanden  Sachschäden  an  Fahrzeugen,  der  Gleisinfrastruktur  sowie  der  Leit-  und 
-
 Sicherungstechnik (LST) in Höhe von 890.000 Euro. 
-
 1.3  Ursachen	
-
 Im  Rahmen  der  Untersuchung  des  Ereignisses  wurden  die  folgenden  Handlungen, 
 
 Unterlassungen, Vorkommnisse oder Umstände als sicherheitskritische Faktoren identifiziert. 
 
 Diese  werden  gemäß  Durchführungsverordnung  (EU)  2020/572 
-
 in  ursächliche  oder 
-
 beitragende und systemische Faktoren unterschieden.  
 
 Zur  besseren  Übersichtlichkeit  der  Faktoren  wird  eine  Systematik  mit  Kennzeichnungen  in 
@@ -507,31 +364,23 @@ eckigen Klammern verwendet. 
 Eine  detaillierte  Auswertung  des  Ereignisses  unter  Einordnung  als  sicherheitskritische 
 
 Faktoren wird in den folgenden Kapiteln gegeben. 
-
 Seite 2 von 33 
-
  
  
  
  
 Untersuchungsbericht 
-
 Zugentgleisung, 06.12.2022, Bf Saarbrücken Rbf 
-
 Handlung / Unterlassung 
 Umstand / Vorkommnis 
-
 /  Ursächlicher 
-
 Vorkommnis:  
 Entgleisung eines 
 Radsatzes in der Weiche 
 W62 
-
 Vorkommnis: 
 Funktionsausfall des 
 Systems Oberbau 
-
 Faktor 
 
 Teilweise 
@@ -548,41 +397,26 @@ Einzelfehler in 
 der Gleislage 
 Weiche W62 
 [F2] 
-
 Beitragender 
 Faktor 
-
 Systemischer Faktor 
-
 Ungenügender 
 Abnutzungsvorrat [S2a] 
-
 Weitreichender 
 Ermessensspielraum bei der 
 Ableitung geeigneter 
 Instandhaltungsmaßnahmen 
 [S2b] 
-
 Tabelle 1: Zusammenfassung Einflussfaktoren 
-
 1.4  Sicherheitsempfehlungen	
-
 Gemäß  § 6 Eisenbahn-Unfalluntersuchungsverordnung 
-
 (EUV)  und  Art.  26 Abs. 2  der 
-
 Richtlinie (EU) 2016/798 ergeht nachfolgende Sicherheitsempfehlung: 
-
 Es wird empfohlen, zur Gewährleistung der Sicherheit der Bahnanlagen die Risiken bei der 
-
 Anwendung  des  Regelwerks  zur  Inspektion  des  Oberbaus  insbesondere  bei  kombiniert 
-
 auftretenden  Einzelfehlern  entsprechend  der  Verordnung (EU)  2018/762  Anhang II 
-
 Kapitel 5.2.4 i. V. m. Kapitel 3.1.1.1 neu zu bewerten. 
-
 Seite 3 von 33 
-
  
  
  
@@ -592,75 +426,42 @@ Seite 3 von 33 
  
  
 Untersuchungsbericht 
-
 Zugentgleisung, 06.12.2022, Bf Saarbrücken Rbf 
-
 2  Die	Untersuchung	und	ihr	Kontext	
-
 Die  Bundesstelle  für  Eisenbahnunfalluntersuchung  (BEU)  ist  für  die  Untersuchung  von 
-
 gefährlichen 
-
 Ereignissen 
-
 im 
-
 Eisenbahnbetrieb 
-
 im 
-
 Sinne  des  Kapitels V  der 
-
 Richtlinie (EU) 2016/798  auf  Eisenbahninfrastrukturen  des  Bundes  und  auf  nicht 
-
 bundeseigenen 
-
 Eisenbahninfrastrukturen 
-
 des 
-
 übergeordneten 
-
 Netzes 
-
 gemäß 
-
 § 2b Allgemeines Eisenbahngesetz (AEG) zuständig. 
-
 Ziel  und  Zweck  der  eingeleiteten  Untersuchungen  ist  es,  die  Ursachen  des  gefährlichen 
-
 Ereignisses  aufzuklären  und  hieraus  Hinweise  zur  Verbesserung  der  Sicherheit  abzuleiten. 
-
 Untersuchungen der BEU dienen nicht dazu, ein Verschulden festzustellen oder Fragen der 
 
 Haftung oder sonstiger zivilrechtlicher Ansprüche zu klären und werden unabhängig von jeder 
 
 gerichtlichen Untersuchung durchgeführt. 
-
 Sicherheitsempfehlungen  der  BEU  zur  Vermeidung  von  gefährlichen  Ereignissen  und 
-
 Verbesserung der Eisenbahnsicherheit werden an die nationale Sicherheitsbehörde, sofern es 
-
 die Art der Empfehlung erfordert an die Eisenbahnagentur der Europäischen Union und an 
-
 andere Stellen oder Behörden adressiert. Im Allgemeinen sind die Sicherheitsempfehlungen 
-
 auch an die betroffenen Eisenbahnunternehmen gerichtet. 
-
 Zu  schweren  Unfällen 
-
 leitet  die  BEU  stets  Untersuchungen  gem.  Artikel 20  Abs. 1 
-
 Richtlinie (EU) 2016/798 ein. Unter einem schweren Unfall sind insbesondere Zugkollisionen 
-
 oder  Zugentgleisungen  mit  mindestens  einem  Todesopfer  oder  mindestens 
-
 fünf 
-
 Schwerverletzten oder mit beträchtlichem Schaden (≥ 2 Mio. Euro) sowie sonstige Unfälle mit 
-
 den  gleichen  Folgen  und  mit  offensichtlichen  Auswirkungen  auf  die  Regelung  der 
-
 Eisenbahnsicherheit  oder  das  Sicherheitsmanagementsystem  zu  verstehen.  Bei  allen 
 
 sonstigen  gefährlichen  Ereignissen  im  Eisenbahnbetrieb  liegt  es  im  Ermessen  der  BEU 
@@ -670,227 +471,134 @@ Untersuchungen einzuleiten. Bei der Entscheidung werden neben den zum E
 verfügbaren  Ressourcen  weitere  Kriterien  gem.  Artikel 20  Abs. 2  Richtlinie (EU)  2016/798 
 
 herangezogen. 
-
 Bei  dem  vorliegenden  gefährlichen  Ereignis  wurden  Untersuchungen  auf  Grundlage  des 
-
 Artikels 20 Abs. 2 Richtlinie (EU) 2016/798 eingeleitet. 
-
 Die  Unfalluntersuchungshandlungen  werden  strukturiert  in  vier  definierten  Kernprozessen 
-
 durchgeführt, die mit der Entscheidung zur Aufnahme einer Untersuchung beginnen und mit 
-
 der  Veröffentlichung 
-
 des  Untersuchungsberichtes 
-
 abgeschlossen  werden. 
-
 Zur 
-
 Seite 4 von 33 
-
  
  
 Untersuchungsbericht 
-
 Zugentgleisung, 06.12.2022, Bf Saarbrücken Rbf 
-
 Ursachenermittlung werden ergebnisoffene Untersuchungen im Ausschlussverfahren in allen 
-
 beteiligten  Fachdisziplinen  angestellt  und  hierbei  insbesondere  Fehler-Ursachen-Analysen 
-
 und Soll-Ist-Vergleiche durchgeführt. 
-
 Vom 
-
 örtlich 
-
 zuständigen 
-
 Untersuchungsbezirk 
-
 Südwest 
-
 wurden 
-
 die 
-
 Untersuchungshandlungen federführend geleitet. 
-
 Sofern im Einzelfall geboten, werden die jeweiligen Untersuchungsteams bezirksübergreifend 
-
 unterstützt und notwendige Sachverständigenleistungen extern beauftragt. 
-
 Neben den beteiligten Unternehmen wirkte an der Untersuchung folgende weitere Stelle mit: 
-
   Materialprüfungsanstalt (MPA) Universität Stuttgart 
-
 Die Durchführung der Unfalluntersuchung setzt voraus, dass alle an dem gefährlichen Ereignis 
-
 Beteiligten  den  jeweiligen  Meldeverpflichtungen  gem.  § 2  Abs. 3  EUV  nachkommen  und 
 
 gefährliche  Ereignisse  ordnungsgemäß  melden  sowie  die  Informationen  auf  dem  neuesten 
 
 Stand  halten.  Auf  Grundlage  des  § 5a  AEG  werden 
-
 i. d. R.  weitergehende  zur 
-
 Untersuchungsdurchführung  erforderliche 
-
 Informationen,  Auskünfte  und  Nachweise 
 
 abgefordert.  Diese  notwendigen  Zuarbeiten  konnten  mittels  Auskunftsersuchen  gewonnen 
 
 werden. 
-
 Darüber hinaus können nach § 5b Abs. 4 AEG von den an gefährlichen Ereignissen beteiligten 
-
 Eisenbahnen  Unterstützungsleistungen  eingefordert  werden.  Bei  dem  vorliegenden 
-
 gefährlichen  Ereignis  wurden 
-
 folgende  Unterstützungsleistungen  eingefordert  und 
-
 durchgesetzt: 
-
   Bereitstellung von Werkstattkapazität durch die DB Cargo AG zur eingehenden 
-
 Untersuchung der betroffenen Fahrzeuge 
-
   Vermessung der Gleislage durch Messfahrzeug des 
-
 Eisenbahninfrastrukturunternehmens (EIU) 
-
 Die infrastrukturseitige Freigabe der Unfallstelle erfolgte durch die BEU am 08.12.2022. 
-
 Seite 5 von 33 
-
  
  
  
  
 Untersuchungsbericht 
-
 Zugentgleisung, 06.12.2022, Bf Saarbrücken Rbf 
-
 3  Beschreibung	des	Ereignisses	
 
 Im  dritten  Kapitel  wird  das  gefährliche  Ereignis  in  zwei  vorgegebenen  Unterkapiteln  näher 
 
 beschrieben.  In  Kapitel  3.1  sind  neben  den  Grunddaten  weitere  Informationen  zum 
-
 Ereignisort,  den  äußeren  Bedingungen,  den  Folgen  und  den  Beteiligten  enthalten.  Die 
-
 Ereignisrekonstruktion  sowie 
-
 Informationen  zur  Auslösung  und  dem  Ablauf  der 
 
 Rettungsmaßnahmen  sind  im  Kapitel  3.2  dargestellt.  Die  Beschreibungen  beziehen  sich 
 
 grundsätzlich  auf  die 
-
 zum  Ereigniszeitpunkt  vorherrschenden  Bedingungen  und 
-
 vorgefundenen Sachverhalte. 
-
 3.1  Informationen	über	das	Ereignis	und	seine	Hintergründe	
-
 Bei  dem  Ereignis  handelt  es 
-
 sich  um  eine  Zugentgleisung 
-
 im  Sinne  der 
-
 Richtlinie (EU) 2016/798. 
-
 Die BEU führt das Ereignis national unter der Ereignisart Zugentgleisung. 
-
 3.1.1  Lage	und	Beschreibung	des	Ereignisortes	
-
 Die Zugentgleisung ereignete sich im Bf Saarbrücken Rbf auf der Weiche W62 bei der Einfahrt 
-
 nach Gleis 125. Dieser Bereich zählte zur eingleisigen elektrifizierten Hauptbahn Abzweigung 
-
 Saarbrücken-Saardamm – Saarbrücken Rbf W 4. Die Strecke wurde im Verzeichnis der örtlich 
-
 zulässigen Geschwindigkeiten (VzG) unter der Streckennummer 3234 geführt. Diese und die 
-
 weiteren  durch  die  Bahnhöfe  Saarbrücken Hbf  und  Rbf  verlaufenden  und  vom  Unfallzug 
-
 befahrenen  Strecken  verfügten  über  das  digitale  Zugfunksystem  Global  System  for  Mobile 
-
 Communication Rail (GSM-R) und das Zugsicherungssystem Punktförmige Zugbeeinflussung 
 
 (PZB).  Die  Entgleisungsstelle  befand  sich  auf  der  Weiche  W62  des  Bf Saarbrücken  Rbf.  Im 
 
 Bereich  der  Ereignisstelle  betrug  die  zulässige  Höchstgeschwindigkeit  40 km/h  bei  einem 
-
 Bremswegabstand von 700 m. 
-
 Der nachfolgende Plan zeigt die verkehrsgeographische Lage des Bf Saarbrücken Rbf sowie die 
-
 Fahrstrecke des KT 41229 bis zur Ereignisstelle. 
-
 Seite 6 von 33 
-
  
  
 Untersuchungsbericht 
-
 Zugentgleisung, 06.12.2022, Bf Saarbrücken Rbf 
-
 Abbildung 1: Lageplan und Fahrtverlauf KT 412291 
 
 Die  nachfolgende  Abbildung  zeigt  eine  Gleislageskizze  mit  dem  ereignisrelevanten  Teil  des 
 
 Fahrwegs  im  Bf  Saarbrücken  Rbf.  Grün  dargestellt  ist  der  Fahrweg  des  KT 41229  mit  der 
-
 Entgleisungsstelle auf der Weiche W62. Grün gestrichelt ist der Teil des Laufweges, den der 
-
 Zug mit den bereits entgleisten Fahrzeugen bis zum Stillstand noch zurückgelegt hat.  
-
 1 Quelle: Geobasisdaten: © GeoBasis-DE / BKG 2022, bearbeitet durch BEU 
-
 Seite 7 von 33 
-
  
  
  
  
 Untersuchungsbericht 
-
 Zugentgleisung, 06.12.2022, Bf Saarbrücken Rbf 
-
 Abbildung 2: Auszug der Gleislageskizze2  
-
 Der zuständige Fahrdienstleiter (Fdl) für die Durchführung der Zugfahrt im Bf Saarbrücken Rbf 
-
 war der Fdl 1 Saarbrücken Rbf im Stellwerk Srf. Es handelte sich um ein Spurplanstellwerk der 
-
 Bauform SpDr S 60. Das Stellwerkgebäude Srf befand sich bezogen auf die VzG-Strecke 3238 
-
 ca.  in  km 2,95.  Der  Zug  kam  aus  dem  Stellwerksbezirk  des  Elektronischen  Stellwerks 
-
 Bf Saarbrücken Hbf, Bauart El L 90. Zuständig hier war der Fdl Saarbrücken Hbf West. 
-
 3.1.2  Beteiligte	
-
 Die am Ereignis Beteiligten hatten die folgenden Funktionen: 
-
 Für das EIU DB Netz AG (ab dem 01.01.2024: DB InfraGO AG) 
-
   Fdl 1 Saarbrücken Rbf im Stw Srf 
-
   Anlagenverantwortlicher Fahrbahn (Alv Fb) 
-
 Für das Eisenbahnverkehrsunternehmen (EVU) DB Cargo AG 
-
   Triebfahrzeugführer (Tf) des KT 41229 
-
 2 Quelle: DB Netz AG, bearbeitet durch BEU 
-
 Seite 8 von 33 
-
  
  
  
@@ -898,75 +606,40 @@ Seite 8 von 33 
  
  
 Untersuchungsbericht 
-
 Zugentgleisung, 06.12.2022, Bf Saarbrücken Rbf 
-
 3.1.3  Äußere	Bedingungen	
-
 Zum Zeitpunkt des Ereignisses herrschten folgende Bedingungen: 
-
 Lichtverhältnisse 
-
 Sicht 
-
 Bedeckung 
-
 Temperaturen  
-
 fallender Niederschlag 
-
 Niederschlagshäufigkeit 
-
 Tageslicht 
-
 klar 
-
 bewölkt 
-
 2°C – 4°C 
-
 Nein 
-
 -- 
-
 Untergrund / gefallener Niederschlag  
-
 trocken 
-
 Tabelle 2: Übersicht der äußeren Bedingungen 
-
 3.1.4  Todesopfer,	Verletzte	und	Sachschäden	
-
 Bei dem Ereignis traten keine Personenschäden ein. 
-
 Die geschätzte Höhe der Sachschäden in Euro setzt sich wie folgt zusammen: 
-
 geschätzte Kosten in Euro 
-
 Fahrzeuge 
-
 Infrastruktur 
-
 Dritte 
-
 Gesamtschadenshöhe 
-
 Tabelle 3: Übersicht der geschätzten Schadenshöhe 
-
 36.160 
-
 850.994 
-
 - 
-
 887.154 
-
 Das nachfolgende Luftbild gibt einen Überblick über den Ereignisbereich im Bf Saarbrücken 
-
 Rbf nach der Zugentgleisung.  
-
 Seite 9 von 33 
-
  
  
  
@@ -975,109 +648,63 @@ Seite 9 von 33 
  
  
 Untersuchungsbericht 
-
 Zugentgleisung, 06.12.2022, Bf Saarbrücken Rbf 
-
 Abbildung 3: Luftbild der Ereignisstelle im Bf Saarbrücken Rbf3 
-
 Die nachfolgenden Abbildungen geben einen Überblick über die entstandenen Schäden. Ein 
-
 auf  dem  Wagen 4  mit  Wein  beladener  Tankcontainer  wurde  beschädigt,  so  dass  Ladegut 
-
 austrat. 
-
 3 Quelle: DB Netz AG, bearbeitet durch BEU 
-
 Seite 10 von 33 
-
  
  
  
  
 Untersuchungsbericht 
-
 Zugentgleisung, 06.12.2022, Bf Saarbrücken Rbf 
-
 Abbildung 4: Ansicht der entgleisten Wagen 3 bis 6 
-
 Abbildung 5: Ansicht Oberbau ab Weiche W61 nach Abzug der Wagen 
-
 Seite 11 von 33 
-
  
  
  
  
 Untersuchungsbericht 
-
 Zugentgleisung, 06.12.2022, Bf Saarbrücken Rbf 
-
 3.2  Sachliche	Beschreibung	der	Vorkommnisse	
-
 Zur  Rekonstruktion  des  gefährlichen  Ereignisses 
-
 sowie 
-
 zur  Beschreibung  der 
-
 Notfallmaßnahmen werden insbesondere auch die in Kapitel 4 enthaltenen Aufzeichnungen, 
-
 Auswertungen und Feststellungen etc. herangezogen. 
-
 3.2.1  Hergangsbeschreibung	
-
 Am  06.12.2022  verkehrte  der  am  Vortag  aus  Irun  kommende  Zug  KT 41229  von  Forbach 
-
 (Frankreich) aus weiter nach Saarbrücken. Aus betrieblichen Gründen umfuhr der KT 41229 
-
 nicht wie geplant den Bf Saarbrücken Hbf auf der Strecke 3234, sondern wurde über Gleis 20 
 
 durch  den  Hbf  geleitet.  Die  weitere  Fahrt  erfolgte  über  Gleis 319  und  Gleis 278  der  VzG-
 
 Strecken 3264 und 3260 bis zum Zwischensignal (Zsig) S278. Die Zugfahrt sollte im Gleis 125 
-
 im Bf Saarbrücken Rbf enden. Die Fahrstraße vom Zsig S278 bis zum Zielsignal Ls 125I war mit 
-
 40 km/h signalisiert. Bei einer Geschwindigkeit von ca. 35 km/h verlor mindestens ein Radsatz 
-
 des dritten Wagens auf der stumpf befahrenen Weiche W62 die Spurführung. Durch diesen 
-
 Radsatz wurde die nachfolgende spitz befahrene Weiche W61 erheblich beschädigt, wodurch 
-
 weitere  Wagen  entgleisten. 
-
 In  Folge  der  Entgleisung  wurde  die  Hauptluftleitung 
-
 unterbrochen. Der Zug kam um 13:44:57 Uhr mit der Zugspitze ca. in km 3,37 im Gleis 125 
-
 zum Stillstand. Der Tf setzte um 13:45 Uhr einen Notruf ab. 
-
 3.2.2  Notfallmanagement	
-
 Nach  § 4  Abs. 3  AEG  haben  die  Eisenbahnen  die  Verpflichtung,  an  Maßnahmen  des 
-
 Brandschutzes und der technischen Hilfeleistung mitzuwirken. In einer Vereinbarung zwischen 
-
 den  Innenministerien  der  Länder  und  der  DB  AG  hat  man  sich  auf  eine  Verfahrensweise 
-
 verständigt. 
-
 Für 
-
 die  DB Netz AG 
-
 gelten 
-
 die 
-
 entsprechenden 
-
 Brand- 
-
 und 
-
 Katastrophenschutzgesetze  der  Länder.  Das  Notfallmanagement  der  DB AG  ist  in  der 
-
 Konzernrichtlinie 123, das der DB Netz AG in der Richtlinie (Ril) 423 näher beschrieben und 
 
 geregelt.  Die  Entgleisung  ereignete  sich  unmittelbar  im  Sichtbereich  des  Fdl 1  Saarbrücken 
@@ -1085,38 +712,25 @@ geregelt.  Die  Entgleisung  ereignete  sich  unmittelbar  im  Sichtberei
 Rbf.  Dieser  verständigte  umgehend  die  Notfallleitstelle.  Der  Notfallmanager  war  gegen 
 
 14:20 Uhr  an  der  Unfallstelle  und  führte  an  der  bereits  abgeschalteten  Oberleitung  die 
-
 erforderliche Bahnerdung durch. Der Notdienst des EVU war ebenfalls an der Unfallstelle.  
-
 Unregelmäßigkeiten oder Verzögerungen in Bezug auf das Einleiten von Rettungsmaßnahmen 
-
 wurden der BEU im Rahmen der Unfalluntersuchung nicht bekannt. Personen waren nicht zu 
-
 retten. 
-
 Seite 12 von 33 
-
  
  
  
 Untersuchungsbericht 
-
 Zugentgleisung, 06.12.2022, Bf Saarbrücken Rbf 
-
 4  Auswertung	des	Ereignisses	
-
 In diesem Kapitel werden insbesondere, die im Rahmen der Unfalluntersuchung ermittelten 
 
 maßgeblichen sicherheitskritischen Faktoren dargestellt. Hierbei wird im jeweiligen Einzelfall 
 
 auf die Aufgaben und Pflichten einzelner Personen und Stellen, auf beteiligte Fahrzeuge und 
-
 technische  Einrichtungen  genauso  eingegangen  wie  auf  konkrete  menschliche  Handlungen 
-
 sowie auf Feedback- und Kontrollmechanismen. Sofern Informationen zu früheren Ereignissen 
-
 vorliegen, werden diese in einem weiteren Unterkapitel dargestellt. 
-
 4.1  Aufgaben	und	Pflichten	
 
 In diesem Kapitel werden unbeschadet des Artikels 20 Abs. 4 der Richtlinie (EU) 2016/798 die 
@@ -1124,127 +738,76 @@ In diesem Kapitel werden unbeschadet des Artikels 20 Abs. 4 der Richt
 Aufgaben  und  Pflichten  von  Personen  und  Stellen  behandelt,  die  an  dem  Ereignis  beteiligt 
 
 waren. Untersuchungen zu Schuld- oder Haftungsfragen sind explizit ausgeschlossen und nicht 
-
 Untersuchungsgegenstand. 
-
 4.1.1  Untersuchung	der	betrieblichen	Abläufe	des	Infrastrukturbetreibers	
-
 Das verantwortliche EIU DB Netz AG verfügte über eine Sicherheitsgenehmigung gemäß § 7c 
-
 AEG, die bis zum 19.10.2021 gültig war. Das Unternehmen beantragte unter dem 12.04.2021 
-
 die  Verlängerung  der  Sicherheitsgenehmigung.  Mit  Antragstellung  bis  spätestens  sechs 
-
 Monate vor Ablauf der Geltungsdauer der Sicherheitsgenehmigung, gilt diese nach § 16 Abs. 3 
-
 S. 3 der Verordnung über die Sicherheit des Eisenbahnsystems bis zur Unanfechtbarkeit der 
-
 Entscheidung  über  den  Verlängerungsantrag  als  weiterhin  erteilt.  Zum  Zeitpunkt  des 
-
 gefährlichen  Ereignisses  bestand  mithin  eine  Sicherheitsgenehmigung  auf  Basis  einer 
-
 gesetzlichen Fiktion. 
-
 Gemäß  § 4  Abs. 3  AEG  sind  Eisenbahnen  verpflichtet,  ihren  Betrieb  sicher  zu  führen,  die 
-
 Eisenbahninfrastruktur  sicher  zu  bauen  und  in  betriebssicherem  Zustand  zu  halten.  Zudem 
-
 muss gemäß § 4 Abs. 4 AEG i. V. m. der Richtlinie (EU) 2016/798 ein Sicherheitsmanagement 
-
 (SMS)  eingerichtet  sein.  Inhaltliche  Maßstäbe  für  ein  SMS  waren  die  Aufstellung  und 
-
 Einhaltung der in der Verordnung (EU) 2018/762 genannten Anforderungen an ein SMS. 
 
 Zur sicheren Durchführung der Fahrten auf der Infrastruktur der DB Netz AG hatten die Fdl in 
 
 den  Bahnhöfen  Saarbrücken  Hbf  und  Saarbrücken  Rbf  als  Bediener  der  Stellwerke 
-
 untersetzende, unternehmensinterne Arbeitsvorgaben zu beachten und anzuwenden, unter 
-
 anderem die Fahrdienstvorschrift Ril 408. 
-
 Seite 13 von 33 
-
  
  
 Untersuchungsbericht 
-
 Zugentgleisung, 06.12.2022, Bf Saarbrücken Rbf 
-
 Betriebliche Handlungen der Fdl 
-
 Aus betrieblichen Gründen wurde der KT 41229 im Bf Saarbrücken Hbf über Gleis 20 geleitet. 
-
 Die weitere Fahrstraße wurde vom Fdl Saarbrücken Hbf West ab dem Asig 20P20 über das 
-
 Verbindungsgleis 319 nach Gleis 278 bis zum Zsig S278 eingestellt. Ab hier übernahm der Fdl 1 
-
 Saarbrücken  Rbf 
-
 im  Stellwerk  Srf  die  Zugfahrt.  Die  Geschwindigkeit 
-
 innerhalb  der 
-
 Einfahrzugstraße nach Gleis 125 bis zum Ls 125I war signalmäßig auf 40 km/h beschränkt. Es 
-
 gab  keine  abweichende  Geschwindigkeit  durch  Signal  Zs 3,  Fahrplan,  La-Eintrag  oder  einen 
-
 schriftlichen Befehl.  
-
 Nach dem Ereignis leuchteten auf der Stelltafel im Stellwerk Srf noch die Verschlussmelder 
-
 der nicht geräumten Fahrwegweichen. Die Auffahrmelder der Fahrwegweichen W61 und W64 
-
 sowie der Weiche W60 blinkten. Die Auffahrmeldungen waren auf die Beschädigungen der 
-
 Zungenvorrichtungen sowie der Weichenantriebe durch die Entgleisung zurückzuführen. Auf 
-
 dem  Störungsdrucker  waren  in  zeitlicher  Nähe  zur  Zugfahrt  keine  Hilfsbedienhandlungen 
-
 registriert. Es kann davon ausgegangen werden, dass die Zugfahrstraße bis zum Signal Ls 125I 
-
 ordnungsgemäß einlief  und die Zustimmung zur Fahrt mit Signalstellung Hp2 am  Zsig S278 
-
 angezeigt wurde. 
 
 Das  Handeln  der  am  Ereignis  beteiligten  Fdl  hatte  keinen  Einfluss  auf  die  Entstehung  des 
 
 Ereignisses. 
-
 4.1.2  Untersuchung	der	betrieblichen	Abläufe	der	EVU	
-
 Die DB Cargo AG war das für die Zugfahrt KT 41229 verantwortliche EVU und verfügte über 
-
 eine Sicherheitsbescheinigung gemäß § 7a AEG mit einer Gültigkeit bis zum 13.12.2025. Das 
-
 EVU war damit zur Teilnahme am Eisenbahnbetrieb berechtigt.  
-
 Gemäß § 4  Abs. 3 AEG ist ein EVU  verpflichtet, den Betrieb sicher zu führen. Insbesondere 
-
 besteht eine Verpflichtung zur sicheren Durchführung von Zugfahrten. Zur Gewährleitung der 
 
 systematisch  sicheren  Betriebsführung  gehört  u. a.  das  Aufstellen  und  Einhalten  eines  den 
 
 gesetzlichen  Anforderungen  genügenden  SMS  entsprechend  § 4  Abs. 4  AEG  i.  V.  m.  der 
-
 Richtlinie (EU)  2016/798.  Inhaltliche  Maßstäbe  für  ein  SMS  waren  die  Aufstellung  und 
-
 Einhaltung der in der Verordnung (EU) 2018/762 genannten Anforderungen. 
-
 Zur sicheren Durchführung der Zugfahrt hatte der Tf des KT 41229 die vom EIU zur Benutzung 
 
 der  Infrastruktur  erstellten  Betriebsregeln,  unter  anderem  die  Ril 408,  sowie  die  vom  EVU 
 
 erstellten Regeln im Betriebsregelwerk zu beachten. 
-
 Seite 14 von 33 
-
  
  
 Untersuchungsbericht 
-
 Zugentgleisung, 06.12.2022, Bf Saarbrücken Rbf 
-
 Technische Wagenbehandlung, Zugvorbereitung 
 
 Der Zug wurde in Irun (Spanien) für die Fahrt nach Saarbrücken vorbereitet und fertig gestellt. 
@@ -1252,58 +815,35 @@ Der Zug wurde in Irun (Spanien) für die Fahrt nach Saarbrücken vorb
 Bei  der  Zugfertigstellung  wurden  u. a.  die  technische  Wagenuntersuchung  und  eine  volle 
 
 Bremsprobe durchgeführt. Während des gesamten Zuglaufes von Irun durch Frankreich nach 
-
 Saarbrücken  wurden  nach  Auskunft  des  EVU  keine  weiteren  Wagenbehandlungen 
-
 durchgeführt. Während der Fahrt wurden keine Unregelmäßigkeiten am Zug bekannt. Der Zug 
-
 befuhr die zurückgelegte Strecke ohne technische Probleme. 
-
 Auswertung Fahrtdaten 
-
 Die  Fahrdaten  des  Zuges  wurden  in  der  elektronischen  Fahrtenregistrierung  (EFR)  des 
-
 Triebfahrzeugs  (Tfz)  aufgezeichnet.  Das  PZB-Fahrzeuggerät  war  zum  Unfallzeitpunkt 
-
 eingeschaltet und die Rohdaten wurden sowohl vollständig als auch fehlerfrei aufgezeichnet. 
-
 Diese  wurden  nach  dem  Ereignis  durch  die  BEU  ausgelesen  und  ausgewertet.  Die 
-
 gespeicherten Uhrzeitdaten waren um eine Stunde versetzt. 
-
 Die im Fahrplan vorgeschriebenen Zugparameter waren korrekt eingegeben. Die zulässigen 
-
 Geschwindigkeiten wurden im Betrachtungszeitraum nicht überschritten. Die nachfolgende 
-
 Abbildung  zeigt  eine  grafische  Darstellung  der  Daten  der  EFR  für  die  Zugfahrt  vom 
-
 Bf Saarbrücken Hbf bis zum Ereignisort im Bf Saarbrücken Rbf. 
-
 Abbildung 6: Auswertung EFR 
-
 Seite 15 von 33 
-
  
  
  
 Untersuchungsbericht 
-
 Zugentgleisung, 06.12.2022, Bf Saarbrücken Rbf 
 
 Der  Zug  fuhr  um  13:25 Uhr  in  Forbach  in  Frankreich  ab  und  überquerte  die  Landesgrenze. 
 
 Nach der Abzweigung Saarbrücken Saardamm kam der Zug um 13:37 Uhr vor dem Zsig 20ZW3 
-
 zum  Halten.  Um  13:38 Uhr  fuhr  der  Zug  wieder  an.  Die  nachfolgende  Strecke  durch  den 
-
 Bf Saarbrücken Hbf bis zum Rbf befuhr der Zug mit max. 38 km/h. Am Standort des Vorsignals 
-
 zum Zsig S278 war eine 1.000 Hz-Beeinflussung registriert. Der Zug passierte das Zsig S278 
-
 gegen 13:43 Uhr mit ca. 35 km/h. Im weiteren Verlauf blieb bei einer registrierten Zugkraft 
-
 der Lok von ca. 60 kN die Fahrgeschwindigkeit nahezu konstant. Um 13:44:23 Uhr war bei ca. 
-
 36 km/h der Beginn einer leichten Geschwindigkeitsreduzierung verzeichnet, ohne dass sich 
 
 der  Hauptluftleitungsdruck  änderte  oder  das  Führerbremsventil  betätigt  wurde.  Der  Tf 
@@ -1311,168 +851,97 @@ der  Hauptluftleitungsdruck  änderte  oder  das  Führerbremsventil  bet�
 erhöhte  die  Zugkraft.  Zu  diesem  Zeitpunkt  (ca.  13:44:39 Uhr)  befuhr  der  dritte  Wagen  die 
 
 Weiche  W62.  Sechs  Sekunden  später  war  um  13:44:45 Uhr  ab  einer  Geschwindigkeit  von 
-
 33 km/h eine starke Bremsverzögerung erkennbar, möglicherweise hervorgerufen durch den 
-
 hohen Fahrwiderstand bereits entgleister Fahrzeuge. Fünf Sekunden später bzw. nach 39 m 
 
 zurückgelegter  Strecke  reduzierte  sich  der  Druck  in  der  Hauptluftleitung  schlagartig  durch 
 
 deren Unterbrechung aufgrund der Unfalleinwirkungen. Nach weiteren sieben Sekunden kam 
-
 der Zug um 13:44:57 Uhr mit der Zugspitze in km 3,364 zum Stillstand. Anschließend war eine 
-
 Bedienung des Zugfunkgeräts, ein ausgehender Notruf, registriert.  
-
 4.2  Fahrzeuge	und	technische	Einrichtungen	
-
 In  diesem  Kapitel  sind  die  Erkenntnisse  aus  der  Untersuchung  beteiligter  Fahrzeuge,  der 
-
 Eisenbahninfrastruktur und weiterer technischer Einrichtungen einschließlich damit eventuell 
-
 verbundener Tätigkeiten und Entscheidungen dargestellt. 
-
 4.2.1  Untersuchung	von	Fahrzeugen	
-
 Der  Zug  bestand  aus  einem  Tfz  der  Baureihe  186  mit  der  UIC-Fahrzeugnummer 
-
 91 80 6186 318-2  sowie  24  mit  Tankcontainern  beladenen  Drehgestell-Containertragwagen 
-
 der  Gattungen  Sgns  und  Sgmnss  mit  insgesamt  96 Achsen.  Auf  zwei  Tragwagen  waren 
 
 Tankcontainer  mit  Gefahrgut  verladen.  Der Zug  hatte eine Wagenzuglänge  von  463 m.  Das 
 
 Gesamtzuggewicht betrug 1.518 t. Die am Ereignis beteiligten Tragwagen lfd. Nr. 1 bis 8 sowie 
-
 das Tfz wurden einer Untersuchung zugeführt.  
-
 Untersuchung des Tfz 
-
 Das Tfz des Zuges befand sich im Eigentum der Euro Cargo Rail, die beim Hersteller Bombardier 
-
 Transportation GmbH unter der Bezeichnung TRAXX F140 MS (2E) geführt wird. 
-
 Seite 16 von 33 
-
  
  
 Untersuchungsbericht 
-
 Zugentgleisung, 06.12.2022, Bf Saarbrücken Rbf 
-
 Aus der folgenden Tabelle lassen sich die technischen Fahrzeugdaten des Tfz entnehmen: 
-
 Antriebsart 
-
 Kraftübertragung 
-
 Leistung 
-
 Gesamtlänge (LüP) 
-
 Dienstmasse 
-
 Höchstgeschwindigkeit 
-
 Radsatzfolge 
-
 elektrisch 
-
 Tatzlager 
-
 5600 kW 
-
 18.900 mm 
-
 84.000 t 
-
 140 km/h 
-
 Bo’Bo‘ 
-
 Zugsicherungssystem 
-
 u.a. PZB, LZB, ETCS 
-
 Tabelle 4: Technische Daten Tfz 91 80 6186 318-2 D-ECR 
-
 Anzeichen für ereignisursächliche Einflüsse, ausgehend vom Tfz ergaben die Untersuchungen 
-
 nicht. 
-
 Untersuchung der entgleisten Wagen 
-
 Die tatsächliche Zusammensetzung des Zuges  entsprach den Angaben der Wagenliste. Alle 
-
 Druckluftbremsen im Wagenzug waren eingeschaltet. Die jeweilige Bremsstellung der Wagen 
-
 mit den lfd. Nr. 06 bis 24 entsprach der im Fahrplan geforderten Bremsstellung P. Die Wagen 
-
 mit  den  lfd.  Nr. 01  bis  05  waren  gemäß  den  betrieblichen  Regeln  in  Bremsstellung G 
-
 eingestellt. Die Zug- und Stoßeinrichtungen der Wagen wiesen augenscheinlich keine Mängel 
-
 auf.  
-
 Abbildung 7: Entgleiste Wagen ab lfd. Nr. 4  
-
 Seite 17 von 33 
-
  
  
  
 Untersuchungsbericht 
-
 Zugentgleisung, 06.12.2022, Bf Saarbrücken Rbf 
 
 Die sechs entgleisten Wagen liefen im Zugverband an dritter bis achter Stelle. Dabei war der 
 
 Wagen in der Position drei mit zwei Achsen des nachlaufenden Drehgestells und die anderen 
-
 betroffenen Wagen mit jeweils allen vier Achsen beider Drehgestelle entgleist. Vorgefundene 
-
 Überpufferungsspuren wurden als eine Folge des Ereignisses eingestuft. Die Überpufferung 
-
 zwischen dem zweiten (nicht entgleisten Wagen) und dem dritten (entgleisten) Wagen wurde 
-
 näher betrachtet. Auf den Puffertellern dieser Kuppelstelle waren Abgleitspuren erkennbar. 
-
 Offensichtliche  Anzeichen  einer  Überpufferung  dieser  beiden  Fahrzeuge  vor  bzw.  beim 
-
 Entgleisungsvorgang  waren 
-
 jedoch  nicht 
-
 feststellbar.  Weder  Pufferhülsen  noch 
-
 Fahrzeugrahmen wiesen Schäden auf. Alle Pufferteller waren geschmiert.  
-
 Die Untersuchung der verwahrten Wagen fand im Februar 2023 in Saarbrücken im Beisein der 
 
 BEU  und  der  Bundespolizei  statt.  Die  Untersuchung  ergab  keine  Anzeichen  auf  technische 
 
 Mängel als Unfallursache. Alle untersuchten Wagenparameter befanden sich innerhalb der 
-
 einzuhaltenden Toleranzen. 
-
 Die  Prüfung  der  vom  Fahrzeughalter  vorgelegten  Unterlagen  zur  Instandhaltung  der 
-
 Fahrzeuge ergaben keine Unregelmäßigkeiten. Hinweise auf ereignisursächliche Einflüsse aus 
-
 den  entgleisten  Fahrzeugen  ergaben  die  Untersuchungen  nicht.  Die  an  den  Fahrzeugen 
-
 festgestellten Schäden wurden sämtlich den Ereignisfolgen zugeordnet. 
-
 Beladung 
-
 Die Beladung der einzelnen Wagen wurde anhand der Wagenliste überprüft. Die einzelnen 
-
 Wagen wurden auf Veranlassung der BEU verwogen. Die ermittelten Gewichte entsprachen 
-
 den  Gewichtsangaben  aus  der  Wagenliste.  Eine  Überladung  der  Wagen  konnte  nicht 
-
 festgestellt werden. Genauer betrachtet wurden die Wagen an den Positionen 02 und 03, da 
-
 deren Gewicht beim Ladegut unterschiedlich verteilt war. Der Wagen an Position 02 war in 
 
 Laufrichtung vorne schwer mit 26 t und hinten leicht mit 3,3 t beladen. Der Wagen an Position 
@@ -1480,85 +949,54 @@ Laufrichtung vorne schwer mit 26 t und hinten leicht mit 3,3 t belad
 03  war  in  Laufrichtung  vorne  leicht  mit  3,8 t  und  hinten  schwer  mit  32,3 t  beladen.  Zur 
 
 Überprüfung wurde die Beladung gemäß den UIC-Verladerichtlinien untersucht. Gemäß den 
-
 UIC-Verladerichtlinien  Band  1  Kap.  3.3  muss  die  Last  so  verteilt  sein,  dass  bei 
-
 Drehgestellwagen das Verhältnis der Drehgestelllasten 1:3 nicht überschreitet. Im Falle des 
 
 dritten  Wagens  betrug  das  Lastverhältnis  unter  Berücksichtigung  aller  maßgeblichen 
 
 Einflussfaktoren  1:2,05  und  lag  somit  innerhalb  des  gesetzten  Rahmens.  Auch  die  übrigen 
-
 Wagen wiesen keine unzulässigen Abweichungen von den Verladerichtlinien auf. Allerdings 
-
 Seite 18 von 33 
-
  
  
 Untersuchungsbericht 
-
 Zugentgleisung, 06.12.2022, Bf Saarbrücken Rbf 
 
 trafen  diese  Richtlinien  zum  Ereigniszeitpunkt  keine  Aussagen  bezüglich  der  festgestellten 
 
 Kombination von benachbarten Wagen mit unterschiedlicher Lastverteilung. 
-
 4.2.2  Untersuchung	der	bautechnischen	Infrastruktur	
-
 Der  Fahrweg  des  KT 41229  verlief  vom  Bf  Saarbrücken  Hbf  zum  Bf  Saarbrücken  Rbf.  Die 
-
 Fahrwegelemente im Bf Saarbrücken Rbf ab dem Zsig S278 wurden bis zur Entgleisungsstelle 
-
 durch die BEU augenscheinlich untersucht. Bei dem Oberbau handelte es sich um einen KS-
-
 Oberbau  auf  Holzschwellen  mit  der  Schienenform  S 54  und  der  Schienengüte  R260.  Der 
-
 Fahrweg vom Zsig S278 bis in das Gleis 125 war als sonstiges Hauptgleis klassifiziert. 
-
 Die  nachfolgende  Abbildung  zeigt  den  Fahrtverlauf  über  die  für  das  Ereignis  relevanten 
-
 Weichen  W62  und  W61.  Die  Weiche  W62  wurde  vom  rechten  Strang  kommend  (Blick  von 
-
 Zungenspitze aus) stumpf befahren. Die Weiche W61 wurde im linken Strang spitz befahren. 
-
 Abbildung 8: Übersicht Weichenbereich4 
-
 Bei den Weichen W61 und W62 handelte es sich jeweils um eine Weiche der Bauart EW54-
-
 190-1:9. Der Bogenradius betrug jeweils r=190 m. Die zuvor befahrene Weiche W65 gleicher 
-
 Bauart wurde im geraden Strang befahren. Der vor der Weiche W65 liegende Gleisabschnitt 
-
 226 wies einen Bogenradius von r=294 m auf. Die Trassierung war zulässig und zeigte die in 
-
 Rangierbahnhöfen häufig anzutreffenden typischen Bogenradien. Ein zum Ereigniszeitpunkt 
-
 gültiger Trassierungsplan konnte vom EIU nicht vorgelegt werden. 
-
 Im Bereich der Weiche W62 sind Spuren mindestens eines Radsatzes auf dem Schienenkopf 
-
 vorhanden.  Weitere  typische  Entgleisungsspuren  wie  z. B.  Beschädigungen  von  Kleineisen 
-
 oder Schwellen waren jedoch an der Weiche W62 nicht feststellbar. An den Zungenspitzen 
-
 4 Quelle: DB Netz, bearbeitet durch BEU 
-
 Seite 19 von 33 
-
  
  
  
  
 Untersuchungsbericht 
-
 Zugentgleisung, 06.12.2022, Bf Saarbrücken Rbf 
-
 der Weiche W61 waren Anfahrspuren erkennbar. Ab hier waren weitere Entgleisungsspuren 
 
 mindestens  eines  Radsatzes  sichtbar.  Im  Mittelteil  der  Weiche  W61  wurden  im  weiteren 
 
 Fahrtverlauf zwei Schienenbrüche auf gleicher Höhe beider Fahrschienen festgestellt. In der 
-
 Folge war der Oberbau erheblich zerstört. 
 
 Im  untersuchten  Abschnitt  des  Fahrwegs  des  Zuges  ab  dem  Zsig  S278  waren  punktuell 
@@ -1566,17 +1004,13 @@ Im  untersuchten  Abschnitt  des  Fahrwegs  des  Zuges  ab  dem  Zsig 
 Schwellen und Befestigungsmittel erneuert worden. In der Fahrwegweiche W62 waren zudem 
 
 mehrere  hintereinanderliegende  Holzschwellen  farbig  markiert,  wie  in  der  nachfolgenden 
-
 Abbildung erkennbar ist. 
-
 Abbildung 9: Weiche W62 
 
 Die  markierten  Holzschwellen  zeichneten  sich  durch  fortgeschrittenen  biologischen  Zerfall 
 
 aus.  An  mehreren  Stellen  waren  die  Schwellenschrauben  bereits  erneuert  worden.  Die 
-
 teilweise  nicht  vollständig  verspannten  Federringe  deuteten  darauf  hin,  dass  durch  den 
-
 abgängigen  Schwellenzustand  trotz  erneuerter  Schwellenschrauben  keine  nachhaltige 
 
 kraftschlüssige Verbindung der Schienenbefestigung mit den Schwellen mehr gegeben war. 
@@ -1584,59 +1018,39 @@ kraftschlüssige Verbindung der Schienenbefestigung mit den Schwellen meh
 Hierdurch  war  weiterhin  eine  seitliche  Verschiebung  der  Rippenplatten  in  diesem  Bereich 
 
 möglich. 
-
 Seite 20 von 33 
-
  
  
  
 Untersuchungsbericht 
-
 Zugentgleisung, 06.12.2022, Bf Saarbrücken Rbf 
-
 Die  nachfolgende  Abbildung  eines  Schienenstützpunktes  in  der  Weiche  W62  verdeutlicht 
-
 diese Feststellungen am Oberbau im Detail. 
-
 Abbildung 10: Detail Schienenstützpunkt in Weiche W62 
-
 Erkennbar  sind  eine  eingefahrene  Rippenplatte  mit  nicht  vollständig  verspannten 
-
 Schwellenschrauben (1)  und  eine  seitliche  Verschiebung  dieser  Rippenplatte (2)  nach 
-
 bogenaußen. Der Fahrspiegel deutete auf eine Bewegung der Schiene nach bogenaußen hin. 
-
 Die  nachfolgende,  nochmals  vergrößerte  Aufnahme  zeigt  die 
-
 teilweise 
-
 fehlende 
 
 Niederhaltekraft  der  Schwellenschrauben  an  dem  Schienenstützpunkt.  Erkennbar  ist  eine 
 
 ungleichmäßig eingearbeitete Rippenplatte (4), dazu Anfahrspuren am Schienenkopf (5) und 
-
 eine erste Entgleisungsspur (6) auf dem Schienenkopf, die auf den Verlust des Kontaktes eines 
-
 Rades mit der Schiene hindeutet. 
-
 Seite 21 von 33 
-
  
  
  
 Untersuchungsbericht 
-
 Zugentgleisung, 06.12.2022, Bf Saarbrücken Rbf 
-
 Abbildung 11: Entgleisungsspur am Schienenstützpunkt in Weiche W62 
-
 Festzustellen  ist,  dass  an  mehreren  aufeinanderfolgenden  Schienenstützpunkten  in  der 
 
 Weiche  W62  keine  kraftschlüssige  Verbindung  zwischen  Rippenplatte  und  Schwelle  mehr 
 
 gegeben  war.  Der  Umstand  der  teilweise 
-
 fehlenden  kraftschlüssigen  Verbindung 
 
 beeinträchtigte  die  sichere  Spurführung.  Dieser  Umstand  wird  daher  als  ursächlicher 
@@ -1644,180 +1058,105 @@ beeinträchtigte  die  sichere  Spurführung.  Dieser  Umstand  wird  dah
 Faktor [F1] für die Entgleisung angesehen. Die rechtzeitige Korrektur, der Ausschluss oder die 
 
 Vermeidung dieses Umstandes hätte das Ereignis aller  Wahrscheinlichkeit nach verhindert. 
-
 Die  vorgefundenen  Spuren  ab  der  Weiche  W62  deuteten  darauf  hin,  dass  bereits  hier 
-
 mindestens ein Radsatz aus dem Zugverband die korrekte Spurführung verloren hat. 
-
 Seite 22 von 33 
-
  
  
  
 Untersuchungsbericht 
-
 Zugentgleisung, 06.12.2022, Bf Saarbrücken Rbf 
-
 Gleislagemessung 
-
 Durchgehende Messungen der Gleisgeometrie mit Gleismessfahrzeugen gemäß Ril 821.2001 
-
 unter  Belastung  waren  nur  für  durchgehende  Hauptgleise  und  somit  für  diesen  relevanten 
-
 Fahrwegabschnitt des KT 71229 nicht vorgesehen. Zur Beurteilung der gesamten Gleislage vor 
-
 und  im  Entgleisungsbereich  wurde  daher  eine  Gleislagemessung  mit  dem  Kleinmesswagen 
-
 Krabbe durchgeführt. Die Messung wurde durch die DB Netz AG durchgeführt und der BEU 
-
 zur Einsichtnahme zugeleitet. Die Krabbe-Messung stellt eine unbelastete statische Messung 
 
 dar  und  zeichnet  dadurch  nur  die  sich  bereits  eingestellten  bleibenden  Verformungen  auf. 
 
 Belastete  Messungen  unter  Einsatz  des  Gleismesszuges  liefern  hingegen  Ergebnisse  unter 
-
 voller  Beanspruchung  der  zu  messenden  Gleise  mit  den  Achslasten  des  Messzuges.  Die 
-
 Ergebnisse entsprechen eher den Bedingungen des Betriebs unter dem rollenden Rad. Bereits 
-
 vorhandene Verformungen können sich beim Einsatz des Messzuges erhöhen. Der Einsatz des 
-
 Gleismesszuges  war  im  vorliegenden  Fall  aufgrund  der  Zerstörungen  an  der  Ereignisstelle 
-
 nicht mehr möglich.  
-
 Zu beachten ist, dass die Ergebnisse der Krabbe-Messung im Bereich von Weichen nur bedingt 
-
 aussagekräftig  sind,  da  sie  bei  geplantem  Bogenverlauf 
-
 in  Weichen  unvermittelte 
-
 Krümmungswechsel bei der Pfeilhöhe systembedingt überzeichnet darstellen können. Auch 
-
 wenn die absolut gemessenen Werte somit nicht uneingeschränkt verwendet werden können, 
-
 geben diese Messungen dennoch einen Hinweis auf die reale Gleislage. Zum Vergleich wurden 
-
 zwei  weitere  vergleichbare  Messpunkte  mit  Krümmungswechseln  an  anderen  Stellen 
-
 desselben  Messvorgangs  herangezogen.  Die  an  der  Ereignisstelle  aufgezeichnete 
-
 Gleisgeometrie zeigte gegenüber diesen Referenzpunkten deutlichere Ausschläge, die darauf 
-
 hindeuten, dass trotz Überzeichnung ein Fehler in der Pfeilhöhe (PH) vorlag. Insofern war die 
-
 Krabbe-Messung das bestgeeignete Mittel zur Beurteilung des Zustands des Oberbaus. 
-
 Die Messergebnisse der Gleismessung mit dem Kleinmesswagen zeigten, dass der Oberbau im 
-
 Bereich der Weiche W62 einige Gleislageabweichungen aufwies. Die nachfolgende grafische 
-
 Darstellung der Messergebnisse zeigt Ausschläge im Bereich der Weiche W62. Neben einer 
-
 Spurerweiterung sind drei Richtungsfehler (Pfeilhöhe PH) ≥ 21 mm erkennbar. Zudem zeigten 
-
 die  Parameter  der  gegenseitigen  Höhenlage (GH)  Abweichungen,  die  auf  eine 
-
 Gleisverwindung  hindeuteten.  Aus  messtechnischen  Gründen  konnte  die  Gleisverwindung 
-
 (ORE-Verwindung)  im  Bereich  der  Unfallstelle  nicht  vollumfänglich  grafisch  dargestellt 
-
 werden. 
-
 Seite 23 von 33 
-
  
  
 Untersuchungsbericht 
-
 Zugentgleisung, 06.12.2022, Bf Saarbrücken Rbf 
-
 Abbildung 12: Grafische Auswertung mit Kleinmesswagen Krabbe5 
-
 5 Quelle: DB Netz AG, bearbeitet durch BEU 
-
 Seite 24 von 33 
-
  
  
  
  
 Untersuchungsbericht 
-
 Zugentgleisung, 06.12.2022, Bf Saarbrücken Rbf 
-
 Im  nachfolgenden  Auszug  aus  dem  Überschreitungsprotokoll  Krabbe 
-
 sind  die 
-
 Überschreitungen der Pfeilhöhe rot unterlegt. 
-
 Abbildung 13: Überschreitungsprotokoll Kleinmesswagen Krabbe6 
-
 Nach Ril 821.2001 wären die gemessenen Pfeilhöhen als SRlim Überschreitungen einzustufen. 
-
 Unter Berücksichtigung der vorgenannten Besonderheiten der Krabbe-Messungen kann die 
-
 tatsächliche  Fehlergröße  an  dieser  Stelle  zwar  nicht  beziffert  werden,  jedoch  zeigt  der 
-
 Vergleich  mit  den  Referenzmessungen,  dass  hier  Abweichungen  vorlagen.  Diese 
-
 Abweichungen  bei  der  Pfeilhöhe 
-
 (PH) 
-
 sowie  die  parallele  Überlagerung  von 
-
 Gleislageabweichungen bei Gegenseitiger Höhenlage (GH), Verwindung (Vw) und Spurweite 
-
 sind  als  kombinierte  Gleislageabweichungen  einzustufen.  Die  einzelnen  Parameter  können 
-
 dabei  durchaus  unterhalb  der  definierten  Eingriffsschwellen  liegen,  müssen  wegen  ihrer 
-
 räumlichen Kombination jedoch durch den Alv Fb entsprechend Ril 821.2001 Abschn. 5 näher 
-
 betrachtet werden. Einen Hinweis, dass solche kombinierten Einzelfehler vorlagen, gibt das 
-
 Überschreitungsprotokoll  Krabbe 
-
 in  der  Abbildung  oben.  Dargestellt  wird  dort  der 
-
 Anlagenzustand durch die Gesamtbeurteilung der Einzelfehler (EF-GES). In der Summe wurde 
-
 hier bei unbelasteter Messung SR100 um 161 % überschritten. 
 
 Da  die  Krabbe-Messung  eine  statische  Messung  darstellt  und  dadurch  nur  die  sich  bereits 
 
 eingestellte  bleibende  Verformung  aufzeichnet,  kann  sich  der  Anlagenzustand  unter 
-
 Betriebslast nochmals verschlechtern. Das Ausmaß war abhängig vom Schädigungsgrad der 
-
 Holzschwellen  und  ließ  sich  nicht  pauschal  benennen.  Der  Umstand  dieser  kombinierten 
-
 6 Quelle: DB Netz AG, bearbeitet durch BEU 
-
 Seite 25 von 33 
-
  
  
  
  
 Untersuchungsbericht 
-
 Zugentgleisung, 06.12.2022, Bf Saarbrücken Rbf 
-
 Einzelfehler im Entgleisungsbereich der Weiche W62 wird als weiterer ursächlicher Faktor [F2] 
 
 bewertet.  Die  Korrektur,  der  Ausschluss  oder  die  Vermeidung  dieses  Umstandes  hätte  das 
 
 Ereignis aller Wahrscheinlichkeit nach verhindert. 
-
 Instandhaltung 
-
 Ausgehend  von  den  abgängigen  Holzschwellen  sind  die  beschriebenen  kombinierten 
-
 Einzelfehler auf den Instandhaltungszustand der in Fahrtrichtung rechten Schienenauflager im 
-
 Bereich der Weiche W62 zurückzuführen.  
 
 Die  betreffende  Weiche  W62  war  nach  Ril  821.2005  zweimal  im  Jahr  einer  Inspektion  zu 
@@ -1829,15 +1168,10 @@ Geschwindigkeit und Lasttonnen pro Tag.  
 Die  Inspektionsnachweise  der  Weiche  W62  ab  dem  Jahr  2019  wurden  durch  die  BEU  zur 
 
 Einsichtnahme angefordert. Die Untersuchung der jeweiligen Inspektionsprotokolle zeigt eine 
-
 Mängelhäufung an der identifizierten Entgleisungsstelle in der Weiche W62. In diesem Bereich 
-
 tauchten  erstmalig 
-
 in  der  Inspektionsniederschrift  vom  07.09.2019  mehrere  SR100-
-
 Überschreitungen  und  auch  eine  SRlim-Überschreitung  auf.  SRlim-Mängel  waren  nach 
-
 Ril 821.1000 Abschn. 3 in kürzest möglicher Zeit zu beseitigen. Mängel nach SR100 waren bis 
 
 zur nächsten Regelinspektion zu beseitigen. In den Protokollen der jeweiligen Nachmessungen 
@@ -1847,47 +1181,29 @@ wurde,  mit  Ausnahme  der  Nachmessungen  vom  22.11.2021  und  17.05.2
 vollständige  Mängelfreiheit  unter  SR100  festgestellt.  Die  wiederholt  auftauchenden  SRlim-
 
 Mängel  wurden  zwar  jeweils  umgehend  nach  ihrer  Feststellung  mit  Sofortmaßnahmen  auf 
-
 den Beurteilungsmaßstab SR100 zurückgesetzt, aber nie nachhaltig beseitigt.  
-
 Gemäß Ril 821.1000 Abschn. 3 „Beurteilungsmaßstäbe“ war SR100 der Beurteilungsmaßstab, 
-
 der  den  oberbautechnisch 
-
 relevanten  Abnutzungsvorrat  beinhaltete.  Bei  dessen 
-
 Überschreitung  waren  korrektive  Instandhaltungsmaßnahmen  zur  Wiederherstellung  des 
-
 Soll-Zustands  durchzuführen  um  zu  verhindern,  dass  die  Soforteingriffsschwelle  vor  der 
-
 nächsten Inspektion erreicht wird. Der späteste Zeitpunkt der Instandsetzung war durch das 
-
 Maß der Überschreitung von SR100 in Verbindung mit der Fehlerentwicklung bestimmt. Bei 
-
 einer  Überschreitung  von  SR100  konnte  ohne  eine  zwischenzeitliche  Instandsetzung  eine 
-
 Überschreitung von SRlim bis zur nächsten Regelinspektion nicht ausgeschlossen werden.  
-
 Die  tatsächliche  Instandsetzung  der  aufgetretenen  Mängel  in  der  Weiche  W62  wich  von 
-
 diesen  Grundsätzen  wesentlich  ab.  Mehrfach  wurden  SRlim  Fehler  lediglich  auf  SR100 
-
 Seite 26 von 33 
-
  
  
 Untersuchungsbericht 
-
 Zugentgleisung, 06.12.2022, Bf Saarbrücken Rbf 
 
 reduziert und SR100 Fehler häufig nach Inspektionen nicht beseitigt. Die Ril 821 sieht in diesen 
 
 Fällen keine weiteren Restriktionen vor, um einen durchgehend sicheren Eisenbahnbetrieb zu 
-
 gewährleisten.  Gleichzeitig  verringerte 
-
 sich  aufgrund  der  permanenten  SR100 
-
 Überschreitungen stetig der Abnutzungsvorrat des Gleises. Diese Vorgehensweise, SRlim und 
 
 SR100  Fehler  nicht  nachhaltig  zu  beseitigen  mit  der  Folge  eines  ungenügenden 
@@ -1899,61 +1215,38 @@ Regelwerk  obligatorischen  Beseitigung  der  Fehlerumstände  war  organi
 hätte sich in der Zukunft auf ähnliche und damit zusammenhängende Ereignisse auswirken 
 
 können und betraf die Verfahren der Instandhaltung. 
-
 Die  von  der  DB Netz AG  über  einen 
-
 längeren  Zeitraum  gewählten  Verfahren  zur 
-
 Instandsetzung  der  Gleislagefehler  waren  nicht  geeignet,  um  die  messtechnisch  erfassten 
-
 Mängel nachhaltig zu beseitigen. 
-
 Untersuchung der MPA Stuttgart 
-
 Der weitere Fahrweg des Zuges führte nach der stumpf befahrenen Weiche W62 über die spitz 
-
 befahrene Weiche W61. In der Weiche W61 wurden zwei Schienenbrüche im Mittelteil auf 
-
 gleicher Höhe der rechten und linken Fahrschiene festgestellt. Um belegen zu können, dass 
-
 die  Schienenbrüche  in  der  Weiche  W61  entgegen  den  ursprünglichen  Annahmen  nur  eine 
-
 Folge  einer  bereits 
-
 in  der  Weiche  W62  erfolgten  Entgleisung  waren,  wurden  die 
-
 Schienenbruchstücke durch die MPA Stuttgart eingehender untersucht.  
-
 Festgestellt  wurde,  dass  es  sich  bei  den  Schienenbrüchen  um  Gewaltbrüche  handelte, 
-
 verursacht durch hohe seitliche Krafteinwirkung. An der Außenseite des Schienenkopfes der 
-
 rechten  Zunge  der  Weiche  W61  waren  Spuren  von  Zwängungen  festzustellen.  Diese 
-
 korrelierten  mit  den  festgestellten  Bruchverlaufslinien  an  der  Bruchstelle  ausgehend  vom 
-
 Schienenfuß.  Ein  bereits  zuvor  entgleister  Radsatz  könnte  eine  ausreichend  seitwärts 
 
 gerichtete Kraft erzeugen, die ein zweifacher Schienenbruch dieser Größenordnung benötigte. 
 
 Seitens  der  MPA  wurden  keine  Vorschädigungen  der  Schienen  festgestellt.  Alle  Brüche 
-
 wurden somit als Folge und nicht Ursache der Entgleisung eingestuft. 
-
 Simulation  
-
 Seitens  der  DB Netz AG  wurden  Simulationsrechnungen  mit  den  Messdaten  des 
 
 Handmessgeräts  Krabbe  sowie  unter  Berücksichtigung  des  Beladezustands  des  dritten 
 
 Containertragwagens durchgeführt. Die Simulationsergebnisse zeigten auf der Grundlage der 
-
 Seite 27 von 33 
-
  
  
 Untersuchungsbericht 
-
 Zugentgleisung, 06.12.2022, Bf Saarbrücken Rbf 
 
 unbelasteten  Messdaten  bereits  Auffälligkeiten  beim  Kriterium  „Radaufklettern“.  Zu  einer 
@@ -1961,33 +1254,21 @@ unbelasteten  Messdaten  bereits  Auffälligkeiten  beim  Kriterium  „Ra
 vollständigen  Entgleisung  ist  es  bei  der  Simulation  nicht  gekommen.  Die  Simulation 
 
 berücksichtigte jedoch nur die Daten der unbelasteten Messung. Es ist anzunehmen, dass die 
-
 bei der Befahrung durch die Belastung wirkenden höheren Kräfte auf das Rad-Schiene-System 
 
 durchaus geeignet waren, die Grenzwerte für das Radaufklettern zu überschreiten und so den 
 
 Entgleisungsvorgang auszulösen. 
-
 4.2.3  Untersuchung	der	Leit‐	und	Sicherungstechnik	
-
 Hinsichtlich der  LST-Anlagen  lagen keine Hinweise  auf  Unregelmäßigkeiten  oder  Störungen 
-
 vor. Arbeiten an den Signalanlagen wurden unmittelbar vor dem Ereignis nicht durchgeführt. 
-
 Die Zugfahrt des KT 41229 erfolgte auf Signalstellung.  
-
 Ein Einfluss der LST-Anlagen auf das Ereignis konnte nicht festgestellt werden.  
-
 4.3  Menschliche	Faktoren	
-
 In diesem Kapitel werden Untersuchungserkenntnisse zu menschlichen Handlungen und/oder 
-
 Entscheidungen  am  gefährlichen  Ereignis  beteiligter  Personen  dargestellt.  Entsprechende 
-
 Erkenntnisse  können  sich  hierbei  insbesondere  im  Bereich  menschlicher  und  individueller 
-
 Merkmale sowie organisatorischer und Arbeitsplatzfaktoren ergeben. 
-
 4.3.1  Beteiligte	des	Infrastrukturbetreibers	
 
 Die  Qualifikation  der  beteiligten  Fdl  wurde  nicht  näher  untersucht,  da  deren  Handlungen 
@@ -1999,7 +1280,6 @@ Für die Durchführung der Inspektionen des Oberbaus war der Alv Fb v
 war für diese Tätigkeiten qualifiziert. Direkte Überwachungen bei der Dienstausübung sind bei 
 
 dieser Mitarbeitergruppe innerhalb des DB Konzerns nicht vorgesehen. 
-
 4.3.2  Beteiligte	der	EVU	
 
 Der  Tf  war  berechtigt  den  Zug  zu  führen.  Er  war  im  Besitz  eines  Eisenbahnfahrzeugführer-
@@ -2007,95 +1287,62 @@ Der  Tf  war  berechtigt  den  Zug  zu  führen.  Er  war  im  Besitz
 scheins inkl. Zusatzbescheinigung. Für diese Tätigkeit war er tauglich und hatte die nötigen 
 
 Aus-  und  Fortbildungen  absolviert.  Der  Nachweis  der  Streckenkenntnis  konnte  erbracht 
-
 werden. Im Rahmen der letzten Überwachungs- und Begleitfahrten durch seinen Arbeitgeber 
 
 wurden keine Unregelmäßigkeiten dokumentiert. Einschränkungen bezüglich seiner Tätigkeit 
 
 waren der BEU nicht bekannt. 
-
 Seite 28 von 33 
-
  
  
 Untersuchungsbericht 
-
 Zugentgleisung, 06.12.2022, Bf Saarbrücken Rbf 
-
 4.4  Feedback‐	und	Kontrollmechanismen	
-
 In diesem Kapitel wird insbesondere auf Bedingungen, Feedback- und Kontrollmechanismen 
 
 im  Eisenbahnsystem  eingegangen,  denen  ein  aktiver  Einfluss  auf  die  Entstehung  ähnlicher 
 
 Ereignisse zugeschrieben werden könnte. Diese Mechanismen schließen Faktoren des Risiko- 
-
 und Sicherheitsmanagement sowie Überwachungsverfahren mit ein. 
-
 4.4.1  SMS	des	EIU	
 
 Gemäß  § 4  Abs. 3  AEG  sind  Eisenbahnen  verpflichtet,  ihren  Betrieb  sicher  zu  führen,  die 
 
 Eisenbahninfrastruktur sicher zu bauen und in betriebssicherem Zustand zu halten. Gemäß § 2 
-
 Abs. 1 Eisenbahn-Bau- und Betriebsordnung (EBO) müssen Bahnanlagen so beschaffen sein, 
-
 dass  sie  den  Anforderungen  der  Sicherheit  und  Ordnung  genügen.  Diese  Anforderungen 
-
 gelten als erfüllt, wenn die Bahnanlagen den Vorschriften der EBO und, soweit diese keine 
-
 ausdrücklichen Vorschriften enthält, den anerkannten Regeln der Technik entsprechen. Die 
-
 bei der DB Netz AG geltenden Richtlinien können anerkannte Regeln der Technik darstellen.  
-
 Zur Gewährleistung einer sicheren Betriebsführung und Sicherstellung der Funktionsfähigkeit 
-
 des  Oberbaus  waren  vom  Alv Fb  die  Bestimmungen  der  Inspektionsrichtlinie  Ril  821 
-
 einzuhalten. 
 
 In  dem  vom  EIU  übermittelten  Überschreitungsprotokoll  Krabbe  wird  der  Anlagenzustand 
 
 durch die Gesamtbeurteilung der Einzelfehler (EF-GES) dargestellt. Die Ril 821.2001 definiert 
-
 für die Gesamtbeurteilung jedoch keine Grenzwerte analog zu SRlim bei Einzelfehlern. Zudem 
-
 sind  bei  kombiniert  auftretenden  Einzelfehlern  keine  weiteren  Beurteilungsmaßstäbe 
-
 festgelegt. Ausnahme bilden periodisch auftretende Längshöhenfehler. Hier wurden nach der 
 
 Sicherheitsempfehlung  03/2017  der  BEU  mit  der  technischen  Mitteilung  TM  1-2017-10135 
 
 weitergehende  Bewertungsmaßstäbe  und  Handlungsvorgaben  für  periodisch  auftretende 
-
 Längshöhenfehler  entwickelt.  Die  Beurteilung  von  kombinierten  Einzelfehlern  anderer 
-
 Parameter  der  Gleislage  einschließlich  der  Einleitung  und  Durchführung  von  geeigneten 
-
 Abhilfemaßnahmen oblag jedoch weiterhin allein der Kompetenz und somit der individuellen 
-
 Einschätzung 
-
 des  Alv Fb.  Dieser 
-
 hatte 
-
 entsprechend 
-
 einen  weitreichenden 
-
 Ermessensspielraum  bei  der  Ableitung  geeigneter  Instandhaltungsmaßnahmen.  Dieser 
-
 Sachverhalt  wird  als  weiterer  systemischer  Mangel  [S2b]  angesehen.  Der  einberaumte 
-
 Ermessensspielraum  war  managementspezifischer  Art  und  betraf  die  Verfahren  der 
-
 Seite 29 von 33 
-
  
  
 Untersuchungsbericht 
-
 Zugentgleisung, 06.12.2022, Bf Saarbrücken Rbf 
 
 Instandhaltung  derart,  dass  sich  dies  auch  hinsichtlich  ähnlicher  Ereignisse  in  der  Zukunft 
@@ -2105,7 +1352,6 @@ auswirken könnte. 
 Der  Fahrweg  vom  Zsig  S278  bis  in  das  Gleis 125  war  als  sonstiges  Hauptgleis  klassifiziert. 
 
 Durchgehende Messungen der Gleisgeometrie mit Gleismessfahrzeugen gemäß Ril 821.2001 
-
 unter  Belastung  waren  nur  für  durchgehende  Hauptgleise  und  somit  für  diesen 
 
 Fahrwegabschnitt  nicht  vorgesehen.  Im  relevanten  Abschnitt  fanden  nur  punktuelle 
@@ -2113,91 +1359,52 @@ Fahrwegabschnitt  nicht  vorgesehen.  Im  relevanten  Abschnitt  fanden  
 Inspektionen  sowie  unbelastete  Messungen  der  Weichen  statt.  Dazwischenliegende 
 
 Gleisabschnitte  werden  gemäß  Ril 821.2003  einmal  im  Jahr  durch  Gleisbegehung  und 
-
 Augenschein 
-
 inspiziert.  Eine  gesamthafte  Betrachtung  von  Fahrwegabschnitten  und 
-
 insbesondere  das  Erkennen  von  kombinierten  Einzelfehlern  unter  Belastung  wird  dadurch 
-
 nicht ermöglicht.  
-
 Bereits  mit  Sicherheitsempfehlung 06/2022  zur  Entgleisung  in  Niederlahnstein  wurde 
-
 empfohlen,  zur  Beherrschung  von  Risiken  im  Zusammenhang  mit  der  Instandhaltung 
-
 entsprechend den Anforderungen der Verordnung (EU) 2018/762 Anhang II Kapitel 5.2.4 die 
 
 Verfahren  zur  Inspektion  des  Oberbaus  in  „sonstigen  Hauptgleisen“  zu  verbessern.  Die 
 
 Sicherheitsempfehlung befindet sich noch in der Umsetzung. 
-
 4.4.2  SMS	des	EVU	
-
 Die  Prozesse  des  EVU  wurden  keiner  näheren  Untersuchung  unterzogen.  Im  Rahmen  der 
-
 technischen 
-
 Spezifikation 
-
 für  die 
-
 Interoperabilität 
-
 (TSI-OPE)  müssen  übliche 
-
 Betriebsbelastungen resultierend aus Fahr-, Brems- und Beschleunigungsvorgängen von der 
-
 Infrastruktur aufgenommen werden können. Bei der Einfahrt des KT 41229 waren keine über 
-
 das normale Fahr- und Bremsverhalten hinausgehenden Besonderheiten feststellbar.  
-
 4.5  Frühere	Ereignisse	ähnlicher	Art	
-
 Die BEU hat in der Vergangenheit mehrfach Ereignisse untersucht, bei denen Oberbaumängel 
-
 in  Verbindung  mit  kombinierten  Einzelfehlern  Gegenstand  der  Untersuchungen  war. 
-
 Beispielsweise wären zu nennen: 
-
   Entgleisung Duisburg-Wedau am 13.02.2018 
-
   Entgleisung Burgstall (Murr) am 08.08.2014 
-
   Entgleisung Kayhauserfeld am 29.06.2013 
-
 Seite 30 von 33 
-
  
  
  
  
 Untersuchungsbericht 
-
 Zugentgleisung, 06.12.2022, Bf Saarbrücken Rbf 
-
 5  Schlussfolgerungen	
-
 Das  folgende  Kapitel  enthält  eine  Zusammenfassung  der  ermittelten  ursächlichen, 
-
 beitragenden  und  systemischen  Faktoren  Zusätzlich  sind  zwei  weitere  Unterkapitel 
-
 vorgesehen,  um  Informationen  zu  bereits  ergriffenen  Maßnahmen  und  zu  zusätzlichen 
-
 Bemerkungen zu teilen. 
-
 5.1  Zusammenfassung	und	Schlussfolgerung	
-
 Trotz der untypischen Spurenlage zum Entgleisungsvorgang war anzunehmen, dass die initiale 
-
 Entgleisung  bereits  im  Bereich  der  Fahrwegweiche  W62  erfolgte.  Einflüsse  aus  dem 
-
 Fahrverhalten,  Ladezustand  oder  Instandhaltungszustand  der  Fahrzeuge  konnten  nicht 
-
 ermittelt werden. 
-
 Die Entgleisung des KT 41229 bei der Einfahrt in den Bf Saarbrücken Rbf wird daher ursächlich 
-
 auf nicht nachhaltig beseitigte Oberbaumängel in der Weiche W62 zurückgeführt. 
 
 Zu  den  ursächlichen  Faktoren  „teilweise  fehlende  kraftschlüssige  Verbindung  zwischen 
@@ -2209,79 +1416,45 @@ W62“ [F2] 
 Die teilweise fehlende kraftschlüssige Verbindung zwischen Rippenplatten und Schwellen [F1] 
 
 in Verbindung mit kombiniert auftretenden Einzelfehlern [F2] führten dazu, dass ein Radsatz 
-
 des  Zugverbands 
-
 in  der  Weiche  W62  die  sichere  Spurführung  verlor  und  das 
-
 Entgleisungsgeschehen einleitete. Die Gleislagefehler im Entgleisungsbereich waren auf den 
-
 Instandhaltungszustand  der  in  Fahrtrichtung  rechten  Schienenauflager  in  der  Weiche  W62 
-
 zurückzuführen und Folge einer längeren, zustandsverschlechternden Entwicklung. 
-
 Zu  den 
-
 systemischen  Faktoren 
-
 „ungenügender  Abnutzungsvorrat“ 
-
 [S2a]  und 
-
 „weitreichender 
-
 Ermessensspielraum 
-
 bei 
-
 der 
-
 Ableitung 
-
 geeigneter 
-
 Instandhaltungsmaßnahmen“ [S2b] 
-
 Aufgrund nicht geeigneter bzw. nicht nachhaltig durchgeführter Instandsetzungsmaßnahmen 
-
 nach früheren Überschreitungsmessungen wurde der Abnutzungsvorrat erheblich reduziert. 
-
 Entgegen Verordnung (EU) 2018/762 Anhang II Kapitel 5.2.2 war der sichere Betriebszustand 
-
 und das erwartete Leistungsniveau der Sachanlage nicht mehr dauerhaft gewährleistet. Die 
-
 Gleislagefehler  offenbarten  sich  in  immer  kürzeren  Intervallen  und  stärkerer  Ausprägung, 
-
 wodurch  sich  der  Abnutzungsvorrat  weiter  verringerte  und  dadurch  bereits  zwischen  den 
-
 Seite 31 von 33 
-
  
  
 Untersuchungsbericht 
-
 Zugentgleisung, 06.12.2022, Bf Saarbrücken Rbf 
-
 Inspektions- und Instandhaltungsmaßnahmen der sichere Anlagenzustand entgegen Ril 821 
-
 nicht mehr gewährleistet war. 
-
 Generell gibt das Regelwerk des EIU für kombinierte Einzelfehler in sonstigen Hauptgleisen 
 
 keine  unterstützenden  Inspektions-  und  Beurteilungsmaßstäbe  vor.  Die  Verantwortung  zur 
 
 Einleitung und Durchführung von Maßnahmen obliegt allein der Kompetenz und individuellen 
-
 Einschätzung des Alv Fb. Dies entspricht nicht den Vorgaben der Verordnung (EU) 2018/762 
-
 Anhang II Kapitel 5.2.4, wonach ein systematischer Ansatz zur Beherrschung von relevanten 
-
 Risiken im Zusammenhang mit der Instandhaltung gefordert wird.  
-
 Die beschriebene Vorgehensweise der DB Netz AG bezüglich des Erkennens, der Einstufung 
-
 und einzuleitender Abhilfemaßnahmen bei kombiniert auftretenden Einzelfehlern führte zum 
-
 festgestellten  Instandhaltungszustand.  Gemäß  den  Anforderungen  der  Verordnung  (EU) 
 
 2018/762  erscheint  daher  eine  risikoorientierte  Neubewertung  geboten,  weshalb  die  BEU 
@@ -2291,59 +1464,36 @@ diesbezüglich die Sicherheitsempfehlung 14/2025 ausspricht. Entsprechend 
 2018/762  Anhang II  Kapitel 3.1.1.1  müssen  Risiken  erfasst  und  analysiert,  sowie  mittels 
 
 geeigneter Risikobewertungsmethoden  evaluiert  werden.  Zu  den  zu  betrachtenden  Risiken 
-
 zählen entsprechend der Verordnung u. a. menschliche und organisatorische Faktoren sowie 
-
 die Eignung von Verfahren in der Instandhaltung. 
-
 5.2  Seit	dem	Ereignis	getroffene	Maßnahmen	
-
 Die ursächlichen Gleislagefehler wurden vom EIU beseitigt.  
-
 Das EIU hat die vorgenannten Erkenntnisse und Schlussfolgerungen der BEU im Rahmen des 
-
 Rückäußerungsverfahrens  angezweifelt.  Jedoch konnte  das  EIU  zu  diesem  Zeitpunkt  weder 
-
 einen  internen  Untersuchungsbericht  vorlegen  noch  darlegen,  inwieweit  die  durch  die 
 
 Untersuchung  von  der  BEU  ermittelten  Geschehnisse  bezüglich  der  Instandhaltung  selbst 
 
 erkannt und weitergehende Abhilfemaßnahmen zur Verbesserung der eigenen Organisation 
-
 eingeleitet wurden. 
-
 5.3  Zusätzliche	Bemerkungen	
-
 Keine 
-
 Seite 32 von 33 
-
  
  
  
  
 Untersuchungsbericht 
-
 Zugentgleisung, 06.12.2022, Bf Saarbrücken Rbf 
-
 6  Sicherheitsempfehlungen	
-
 Gemäß  §  6  EUV  und  Art.  26  Abs.  2  der  Richtlinie  (EU)  2016/798  ergeht  nachfolgende 
-
 Sicherheitsempfehlung: 
-
 Lfd. 
-
 Nr. 
-
 Adressat und Sicherheitsempfehlung 
-
 Betrifft Unternehmen 
-
 14/2025 
-
 Sicherheitsbehörde: 
-
 EIU 
 
 Es wird empfohlen, zur Gewährleistung der 
@@ -2355,7 +1505,6 @@ Verordnung (EU) 2018/762 Anhang II Kapitel 5.2.4 
 i. V. m. Kapitel 3.1.1.1 neu zu bewerten. 
 
 Seite 33 von 33 
-
  
  
  
