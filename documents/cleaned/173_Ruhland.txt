@@ -17,6 +17,7 @@ Kilometer:
 Ruhland 
 6207 
 98,9 
+
  
 	
  
@@ -33,30 +34,26 @@ Ruhland
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 26.04.2015, Ruhland 
 Veröffentlicht durch: 
 Bundesstelle für Eisenbahnunfalluntersuchung 
 Heinemannstraße 6 
 53175 Bonn 
+
  
 Untersuchungsbericht 
+
 Zugentgleisung, 26.04.2015, Ruhland 
 Inhaltsverzeichnis	
 I. 
 II. 
-
 Änderungsverzeichnis: .......................................................................................... II 
-
 Abbildungsverzeichnis: ........................................................................................ III 
-
 III. 
-
 Tabellenverzeichnis: ............................................................................................ III 
-
 IV. 
-
 Abkürzungsverzeichnis: ....................................................................................... IV 
-
 1 
 1.1 
 1.2 
@@ -72,58 +69,37 @@ Abkürzungsverzeichnis: ........................................................
 3.4 
 4 
 4.1 
-
 Vorbemerkungen .................................................................................................. 1 
-
 Organisatorischer Hinweis ...................................................................................... 1 
-
 Ziel der Eisenbahnunfalluntersuchung .................................................................... 2 
-
 Zusammenfassung ................................................................................................ 3 
-
 Kurzbeschreibung des Ereignisses ........................................................................... 3 
-
 Folgen ...................................................................................................................... 3 
-
 Ursachen .................................................................................................................. 3 
-
 Sicherheitsempfehlungen ....................................................................................... 3 
-
 Allgemeine Angaben ............................................................................................. 4 
-
 Lage und Beschreibung des Ereignisortes ............................................................... 4 
-
 Beteiligte und Mitwirkende ..................................................................................... 6 
-
 Äußere Bedingungen ............................................................................................... 7 
-
 Todesopfer, Verletzte und Sachschäden ................................................................. 7 
-
 Untersuchungsprotokoll ....................................................................................... 8 
-
 Zusammenfassung von Aussagen und Stellungnahmen ......................................... 8 
 4.1.1 
-
 Stellungnahme des Fahrdienstleiters (Fdl) .............................................................. 8 
-
 4.1.2 
-
 Stellungnahme des Ww auf W2 .............................................................................. 8 
-
 4.2 
 4.3 
 4.4 
-
 Notfallmanagement ................................................................................................ 9 
-
 Untersuchung der bautechnischen Infrastruktur ................................................... 9 
-
 Untersuchung der Leit- und Sicherungstechnik .................................................... 10 
-
 I 
+
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 26.04.2015, Ruhland 
 4.5 
 4.6 
@@ -135,25 +111,19 @@ Zugentgleisung, 26.04.2015, Ruhland
 7 
 Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers ................. 11 
 Untersuchung der betrieblichen Abläufe des EVU ............................................... 13 
-
 Untersuchung von Fahrzeugen ............................................................................. 14 
-
 Auswertung ........................................................................................................ 16 
-
 Ereignisrekonstruktion .......................................................................................... 16 
-
 Bewertung und Schlussfolgerung .......................................................................... 17 
-
 Bisher getroffene Maßnahmen ........................................................................... 18 
-
 Sicherheitsempfehlungen ................................................................................... 18 
-
 I.  Änderungsverzeichnis:	
 Änderung  
 Redaktionelle Änderungen 
 Stand  
 08.02.2022 
 II 
+
  
  
  
@@ -161,30 +131,25 @@ II
 	
 	
 Untersuchungsbericht 
+
 Zugentgleisung, 26.04.2015, Ruhland 
 II.  Abbildungsverzeichnis:	
-
 Abbildung 1: Lageplan ................................................................................................................ 4 
-
 Abbildung 2: Gleislageskizze Bf Ruhland .................................................................................... 5 
-
 Abbildung 3: Situation nach der Zugentgleisung ....................................................................... 6 
-
 Abbildung 4: Zug S 37461 Prinzipskizze ................................................................................... 15 
-
 III.  Tabellenverzeichnis:	
-
 Tabelle 1: Übersicht der äußeren Bedingungen ........................................................................ 7 
-
 Tabelle 2: Technische Daten der Triebwagen der BR 442 ....................................................... 15 
-
 III 
+
  
  
  
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 26.04.2015, Ruhland 
 IV.  Abkürzungsverzeichnis:	
 AEG 
@@ -230,10 +195,12 @@ Triebfahrzeugführer / Triebfahrzeugführerin
 Verzeichnis der zulässigen Geschwindigkeiten 
 Weichenwärter / Weichenwärterin 
 IV 
+
  
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 26.04.2015, Ruhland 
 1  Vorbemerkungen	
 Das Kapitel Vorbemerkungen befasst sich mit allgemeinen Informationen zur Bundesstelle für 
@@ -268,9 +235,11 @@ Eisenbahnbetrieb gingen dabei nahtlos von der EUB auf die BEU über.
 Da das gefährliche Ereignis vor der Errichtung der BEU eintrat, wurden bestimmte Untersuchungshandlungen noch durch die EUB vorgenommen, auf die im Bericht entsprechend verwiesen wird. Alle während der Untersuchung gewonnenen Erkenntnisse wurden kontinuierlich mit den betroffenen Eisenbahnen und der Sicherheitsbehörde geteilt und einzelfallbezogene Sicherheitsempfehlungen ausgesprochen. 
 Näheres hierzu ist im Internet unter www.beu.bund.de eingestellt. 
 Seite 1 von 18 
+
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 26.04.2015, Ruhland 
 1.2  Ziel	der	Eisenbahnunfalluntersuchung	
 Ziel und Zweck der Untersuchungen ist es, die Ursachen von gefährlichen Ereignissen aufzuklären und hieraus Hinweise zur Verbesserung der Sicherheit abzuleiten. Untersuchungen der 
@@ -280,11 +249,13 @@ Die Untersuchung umfasst die Sammlung und Auswertung von Informationen, die Erar
 von Schlussfolgerungen einschließlich der Feststellung der Ursachen und gegebenenfalls die 
 Abgabe von Sicherheitsempfehlungen. Die Vorschläge der Untersuchungsstelle zur Vermeidung von Unfällen und Verbesserung der Sicherheit im Eisenbahnverkehr werden der Sicherheitsbehörde und, soweit erforderlich, anderen Stellen und Behörden oder anderen Mitgliedstaaten der EU in Form von Sicherheitsempfehlungen mitgeteilt. 
 Seite 2 von 18 
+
  
  
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 26.04.2015, Ruhland 
 2  Zusammenfassung	
 Das Kapitel befasst sich mit einer kurzen Darstellung des Ereignisherganges, den Folgen und 
@@ -300,11 +271,13 @@ Die Sicherung der Hilfsfahrstraße wurde entgegen den Regelungen der Richtlinie 
 2.4  Sicherheitsempfehlungen	
 Es ergehen keine Sicherheitsempfehlungen. 
 Seite 3 von 18 
+
  
  
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 26.04.2015, Ruhland 
 3  Allgemeine	Angaben	
 Das Kapitel beinhaltet allgemeine Angaben zur Beschreibung des Ereignisortes und der relevanten  Bahnanlagen.  Des  Weiteren  werden  die  an  der  Unfalluntersuchung  beteiligten  und 
@@ -319,25 +292,23 @@ unter der Nummer 6207 geführt. Im Bereich des gefährlichen Ereignisses war die
 Abbildung 1: Lageplan1 
 1 Quelle: Geobasisdaten © GeoBasis-DE / BKG [2020], bearbeitet durch BEU 
 Seite 4 von 18 
+
  
  
  
                                                        
 Untersuchungsbericht 
+
 Zugentgleisung, 26.04.2015, Ruhland 
-
 Die  Strecke  war  mit  dem  digitalen  Zugfunk  Global  System  for  Mobile  Communications  Rail 
-
-(GSM-R) ausgerüstet. Eine Streckenfernsprechverbindung bestand nach Schwarzbach (b Ruh-
-
-land),  Brieske,  Ortrand  und  Lauchhammer.  Als  Zugsicherungssystem  kam  die  punktförmige 
-
+(GSM-R) ausgerüstet. Eine Streckenfernsprechverbindung bestand nach Schwarzbach (b Ruhland),  Brieske,  Ortrand  und  Lauchhammer.  Als  Zugsicherungssystem  kam  die  punktförmige 
 Zugbeeinflussung (PZB) zur Anwendung. 
 Im Bf Ruhland verlief die VzG-Strecke 6253 parallel zur VzG-Strecke 6207. Die Gleislageskizze 
 zeigt die Situation im Bf Ruhland zum Unfallzeitpunkt. 
 Abbildung 2: Gleislageskizze Bf Ruhland2 
 2 Quelle: Bahnhofsplan DB Netz AG, bearbeitet durch BEU 
 Seite 5 von 18 
+
  
  
  
@@ -345,10 +316,9 @@ Seite 5 von 18
  
                                                        
 Untersuchungsbericht 
+
 Zugentgleisung, 26.04.2015, Ruhland 
-
 Die  nachfolgende  Abbildung  zeigt  die  Situation  vor  Ort  nach  der  Entgleisung  des  Zuges 
-
 S 37461. 
 Abbildung 3: Situation nach der Zugentgleisung3 
 3.2  Beteiligte	und	Mitwirkende	
@@ -358,16 +328,16 @@ Am Ereignis waren folgende Stellen beteiligt:
 Für das EIU lag eine Sicherheitsgenehmigung gemäß § 7c AEG des Eisenbahn-Bundesamts aus 
 dem Jahre 2011 vor. Sie galt bis zum 19.10.2016. 
 Das EVU verfügte über eine Sicherheitsbescheinigung aus dem Jahre 2010 gemäß § 7a AEG, 
-
 gültig bis zum 19.10.2015 und war damit zur der Teilnahme am Eisenbahnbetrieb berechtigt. 
-
 3 Quelle: DB Netz AG, bearbeitet durch BEU 
 Seite 6 von 18 
+
  
  
  
                                                        
 Untersuchungsbericht 
+
 Zugentgleisung, 26.04.2015, Ruhland 
 Weitere  Stellen  wurden  im  Rahmen  der  Sachverhaltsermittlung  und  Ursachenerforschung 
 nicht einbezogen. 
@@ -395,19 +365,19 @@ Zusammenhang mit der Ereignisursache.
 3.4  Todesopfer,	Verletzte	und	Sachschäden	
 Auf Grund des Ereignisses traten keine Personen- oder Sachschäden ein. 
 Seite 7 von 18 
+
  
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 26.04.2015, Ruhland 
 4  Untersuchungsprotokoll	
 In diesem Kapitel werden die ermittelten Ergebnisse zu einzelnen in Zusammenhang mit dem 
 Ereignis stehenden Teilbereichen des Eisenbahnwesens dargestellt. Daneben wurden auch die 
 entsprechenden Schnittstellen sowie das Sicherheitsmanagement im betroffenen Bereich betrachtet. Die jeweilig relevanten Erkenntnisse werden fortlaufend aufgeführt. 
 4.1  Zusammenfassung	von	Aussagen	und	Stellungnahmen	
-
 In den folgenden Abschnitten werden die wichtigsten Aussagen und Stellungnahmen einiger 
-
 Beteiligter  zusammengefasst  dargestellt.  Diese  wurden  dem  jeweiligen  Arbeitgeber  gegenüber abgelegt. 
 4.1.1  Stellungnahme	des	Fahrdienstleiters	(Fdl)	
 Der Fdl gab an, dass er dem Weichenwärter (Ww) auf Stellwerk (Stw) W2 den Auftrag gegeben 
@@ -419,33 +389,26 @@ worden, dieser stehe mit dem Zug vor dem Signal Sh 2 im gesperrten Gleis Ruhland
 Der Ww gab an, um 17:57 Uhr den Auftrag zur Fahrwegsicherung von Gleis 4 in das Gegengleis 
 nach Lauchhammer für den Zug S 37461 erhalten zu haben. Er habe den Fahrweg gemäß Verzeichnis der Hilfsfahrstraßen eingestellt und durch Hilfssperren gesichert. Um 18:01 Uhr habe 
 er das Signal Zs 1 am Asig F4 betätigt. Er habe angenommen, der Zug S 37461 wäre an dem 
-
-Stw vorbeigefahren und das Gleis in Höhe der Weiche 3 sei frei. Daraufhin hätte er die Hilfs-
-
-sperren entfernt und die Hilfsfahrstraße aufgelöst. Anschließend habe er die DKW 17 für eine 
-
+Stw vorbeigefahren und das Gleis in Höhe der Weiche 3 sei frei. Daraufhin hätte er die Hilfssperren entfernt und die Hilfsfahrstraße aufgelöst. Anschließend habe er die DKW 17 für eine 
 bevorstehende Fahrt von zwei Baufahrzeugen aus dem Baugleis in den Bf Ruhland umgestellt. 
 Allerdings sei der Zug S 37461 noch gar nicht an ihm vorbeigefahren, sondern RE 18413 in 
-
 Richtung Ortrand. Diesen Zug hätte er mit S 37461 verwechselt. Als er seinen Irrtum bemerkte 
-
 habe er die DKW 17 reflexartig wieder zurückgestellt. Zu diesem Zeitpunkt habe die Zugfahrt 
 S 37461 jedoch die Weiche bereits mit sechs Drehgestellen passiert gehabt und sei dann mit 
 dem zweitletzten Drehgestell der zweiten Triebzugeinheit entgleist (zweispuriger Lauf). 
 Seite 8 von 18 
+
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 26.04.2015, Ruhland 
 4.2  Notfallmanagement	
 Nach § 4 Abs. 3 AEG haben die Eisenbahnen die Verpflichtung, an Maßnahmen des Brandschutzes und der technischen Hilfeleistung mitzuwirken. In einer Vereinbarung zwischen den 
 Innenministerien der Länder und der DB AG hat man sich auf eine Verfahrensweise verständigt. Für die DB Netz AG gelten die entsprechenden Brand- und Katastrophenschutzgesetze 
 der Länder. Das Notfallmanagement der DB AG ist in der Konzernrichtlinie 123, das der DB 
 Netz AG in der Ril 423 näher beschrieben und geregelt. 
-
-Es gab keine Erkenntnisse, dass es im Ablauf der Benachrichtigungen durch das Notfallma-
-
-nagement Unregelmäßigkeiten gab, die zu Verzögerungen oder Störungen führten. 
+Es gab keine Erkenntnisse, dass es im Ablauf der Benachrichtigungen durch das Notfallmanagement Unregelmäßigkeiten gab, die zu Verzögerungen oder Störungen führten. 
 Feststellungen zum Notfallmanagement 
 Lfd. Nr. 2 
 Auf die Untersuchung wurde verzichtet, da weder Personen zu retten, noch Folge- oder Umweltschäden abzuwenden waren. 
@@ -461,16 +424,18 @@ Die Weiche 17, in der der Zug entgleiste, war eine DKW 49-190-1:9 und befand sic
 Im Rahmen der Ermittlungen konnte eine oberbautechnische Unfallursache an der DKW 17 
 ausgeschlossen werden. Weitere Untersuchungen erfolgten daher nicht. 
 Seite 9 von 18 
+
  
  
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 26.04.2015, Ruhland 
 Feststellung zur der bautechnischen Infrastruktur 
 Lfd. Nr. 3 
 Die Untersuchung der bautechnischen Infrastruktur ergab keine für das Ereignis ursächlichen oder begünstigenden Einflüsse.  
-4.4  Untersuchung	der	Leit‐	und	Sicherungstechnik	
+4.4  Untersuchung	der	Leit-	und	Sicherungstechnik	
 Der Betrieb auf der VzG-Strecke 6207 wurde im Bf Ruhland vom Fdl auf dem Stw B1 vom Typ 
 GS I DR ca. in km 99,0 geleitet. Zusätzlich gab es die Wärterstellwerke W2 am Standort des 
 Stw B1 und W3 (beide ebenfalls GS I DR) ca. in km 98,0. 
@@ -491,14 +456,16 @@ und Formsignal Zs 6“ gemäß Modul 819.1703 geändert. Entsprechend wurden im 
 die Asig F4, F5, G und H jeweils mit dem Formsignal Zs 6 ausgerüstet. Das Betriebspersonal 
 wurde in die signaltechnischen Änderungen eingewiesen. Hinweise auf Störungen der Leit- 
 Seite 10 von 18 
+
  
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 26.04.2015, Ruhland 
 und Sicherungstechnik im relevanten Bereich des Bf Ruhland, insbesondere an der DKW 17, 
 ergab die Untersuchung nicht. 
-Feststellung zur Untersuchung der Leit‐ und Sicherungstechnik 
+Feststellung zur Untersuchung der Leit- und Sicherungstechnik 
 Lfd. Nr. 4 
 Die Untersuchung der Leit- und Sicherungstechnik im Bf Ruhland ergab keine für das Ereignis ursächlichen oder begünstigenden Einflüsse. 
 4.5  Untersuchung	der	betrieblichen	Abläufe	des	Infrastrukturbetreibers	
@@ -514,26 +481,21 @@ Der Einsatz des Fdl auf dem Stw B1 erfolgte ohne erkennbare Abweichungen vom Reg
 Die Arbeits- und Ruhezeiten wurden eingehalten. Er nahm regelmäßig am Fortbildungsunterricht teil, letztmalig am 12. Februar 2015. Die örtliche Verwendungsfeststellung und Tauglichkeit wurde nachgewiesen. 
 Aus den vorliegenden Unterlagen war ersichtlich, dass der Ww als Fdl ausgebildet und seit 
 März 2014 für den Einsatz auf dem Stw W2 in die Örtlichkeit eingewiesen war. Arbeits- und 
-Ruhezeiten waren ausweislich der vorliegenden Unterlagen eingehalten. Der Ww nahm regel-
-
-mäßig und kontinuierlich, letztmalig am 23. Februar 2015, am Fortbildungsunterricht teil. Die 
-
+Ruhezeiten waren ausweislich der vorliegenden Unterlagen eingehalten. Der Ww nahm regelmäßig und kontinuierlich, letztmalig am 23. Februar 2015, am Fortbildungsunterricht teil. Die 
 Seite 11 von 18 
+
  
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 26.04.2015, Ruhland 
-
 letzte örtliche Überwachung erfolgte April 2015. Die Tauglichkeit für die Tätigkeit als Ww war 
-
 nachgewiesen. Am Ereignistag begann sein Dienst um 14:00 Uhr. Die Zugentgleisung ereignete 
 sich in seiner fünften Dienststunde. 
 Der Ww auf dem Wärterstellwerk W3 war an der Zugfahrt nicht beteiligt. Dessen Befähigungen und Handlungen wurden deshalb nicht näher untersucht. 
 Entsprechend den Vorgaben der Betra F 410247 15 war das Gleis 4 im Bf Ruhland zwischen 
-
 der  Spitze  der  Weiche  6  und  Höhe  Esig  A  und  das  anschließende  Streckengleis  Ruhland  – 
-
 Lauchhammer in der Zeit vom 18.04.2015 um 00:00 Uhr durchgehend bis zum 27.04.2015 um 
 04:00 Uhr gesperrt. Zwei Wärterhaltscheiben wurden an der Spitze der Weiche 6 und dahinter 
 in  Richtung  Lauchhammer  im  Gleis  4  aufgestellt.  Die  gesperrten  Gleise  wurden  gemäß  Ril 
@@ -549,31 +511,24 @@ fahrplanmäßig ab. Etwa zeitgleich fuhr der Zug RE 18413 von Gleis 2 in Richtun
 Von seinem Bedienplatz aus sah der Ww nach eigener Aussage (siehe Abschnitt 4.1.2) einen 
 Zug in Richtung Westen an sich vorbeifahren. 
 Gemäß Ril 408.0251, Abschnitt 4, darf 
-„… der Bediener (…) die Einrichtung für die Fahrstraßenauflösung bedienen oder den Fahr‐
-straßenhebel zurücklegen, wenn der Zug (...) an der Fahrstraßen‐Zugschlussstelle vorbei‐
-gefahren ist. (…)“ 
-
+„… der Bediener (…) die Einrichtung für die Fahrstraßenauflösung bedienen oder den Fahrstraßenhebel zurücklegen, wenn der Zug (...) an der Fahrstraßen-Zugschlussstelle vorbeigefahren ist. (…)“ 
 Die  Feststellung  ist  bei  Stw  ohne  Gleisfreimeldeanlage  durch  Hinsehen  zu  treffen.  Der  Ww 
-
 nahm gemäß seiner Aussage an, bei dem Zug, der an ihm vorbeigefahren war, handelte es sich 
 um den S 37461, vergewisserte sich aber nicht, ob der Zug die Fahrstraßen-Zugschlussstelle 
 Seite 12 von 18 
+
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 26.04.2015, Ruhland 
-
 auf  Höhe  der  Spitze  von  Weiche  3 etwa  in  km 99,2  bereits  passiert  hatte.  Er  entfernte  die 
-
 Hilfssperren, löste die Hilfsfahrstraße a/4 auf und stellte danach die DKW 17 für die beabsichtigte Fahrt von zwei Baufahrzeugen aus dem Baugleis in Richtung Bf Ruhland um. 
 Danach bemerkte der Ww, dass der  Zug S 37461 die DKW 17 noch  nicht passiert hatte. Er 
 stellte die DKW 17 entgegen den Vorgaben der Ril 408.0131 Abschn. 2 wieder für die Fahrt in 
 Richtung Lauchhammer um. Zu diesem Zeitpunkt befand sich S 37461 bereits auf der DKW 17. 
 Die Umstellung der  DKW 17 erfolgte, nachdem das sechste Drehgestell des Zuges (zweites 
-Drehgestell der zweiten Triebzugeinheit) die Zungenspitze im geraden Strang der Weiche pas-
-
-siert hatte und bevor das siebte Drehgestell diese befuhr. Das siebte Drehgestell fuhr in den 
-
+Drehgestell der zweiten Triebzugeinheit) die Zungenspitze im geraden Strang der Weiche passiert hatte und bevor das siebte Drehgestell diese befuhr. Das siebte Drehgestell fuhr in den 
 abzweigenden Strang der Weiche 17 bevor der Zug zum Halten kam. 
 Der Halt erfolgte so, dass es zu einem zweispurigen Lauf der zweiten Triebzugeinheit, jedoch 
 nicht zum Abheben eines der Räder vom Gleis kam. 
@@ -591,10 +546,12 @@ er die DKW wieder in Richtung Lauchhammer ein.
 4.6  Untersuchung	der	betrieblichen	Abläufe	des	EVU	
 Der Zug S 37461 war auf dem Weg von Hoyerswerda nach Geithain. 
 Seite 13 von 18 
+
  
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 26.04.2015, Ruhland 
 Nach einem Halt im Bf Ruhland, Gleis 4, sollte er über die DKW 17 auf das Gegengleis geleitet 
 werden und auf diesem bis zum Bf Lauchhammer fahren. Die maximal zulässige Geschwindigkeit betrug 40 km/h. 
@@ -612,9 +569,11 @@ sind.
 Der geführte Triebwagen fuhr in der DKW 17 zweispurig. Die Drehgestelle eins und zwei fuhren im geraden Strang, während das an dritter Stelle laufende Drehgestell in den abzweigenden  Strang fuhr.  Der  Zug  kam  aufgrund  der  Schnellbremsung  des  Tf  zum  Halten  bevor  das 
 vierte Drehgestell des geführten Triebwagens die DKW 17 befuhr. 
 Seite 14 von 18 
+
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 26.04.2015, Ruhland 
 Abbildung 4: Zug S 37461 Prinzipskizze4 
 Aus der folgenden Tabelle lassen sich die technischen Fahrzeugdaten der dreiteiligen Triebwageneinheiten entnehmen: 
@@ -638,6 +597,7 @@ Tabelle 2: Technische Daten der Triebwagen der BR 442
 Aufgrund des Ereignishergangs wurden im Rahmen der Untersuchung unfallursächliche Einflüsse von den beteiligten Fahrzeugen ausgeschlossen. Daher wurden keine weiteren Untersuchungen an den Fahrzeugen vorgenommen. 
 4 Quelle: DB Regio AG, bearbeitet durch BEU  
 Seite 15 von 18 
+
  
  
  
@@ -645,67 +605,54 @@ Seite 15 von 18
 	
                                                        
 Untersuchungsbericht 
+
 Zugentgleisung, 26.04.2015, Ruhland 
 5  Auswertung	
 Das Kapitel 5 Auswertung befasst sich mit der Ereignisrekonstruktion. Anhand der oben genannten Feststellungen wird ein plausibler Ablauf des gefährlichen Ereignisses zusammengetragen. Relevante Erkenntnis werden anschließend bewertet und führen ggf. zu entsprechenden Schlussfolgerungen. 
 5.1  Ereignisrekonstruktion	
-Die Zugfahrt S 37461 kam um 17:57 Uhr im Bf Ruhland an. Um ca. 17:59 Uhr wurde die Zu-
-
-stimmung zur Abfahrt mittels Zs 1 am Asig F4 erteilt. Daraufhin setzte der Tf den Zug in Bewe-
-
-gung. Gleichzeitig fuhr vom Gleis 2 der Zug RE 18413 in Richtung Ortrand aus. Auf Grund der 
+Die Zugfahrt S 37461 kam um 17:57 Uhr im Bf Ruhland an. Um ca. 17:59 Uhr wurde die Zustimmung zur Abfahrt mittels Zs 1 am Asig F4 erteilt. Daraufhin setzte der Tf den Zug in Bewegung. Gleichzeitig fuhr vom Gleis 2 der Zug RE 18413 in Richtung Ortrand aus. Auf Grund der 
 Baumaßnahmen gemäß Betra Nr. F 410247 15 sollte der Zug S 37461 auf dem Gegengleis fahren. Dafür musste er die DKW 17 im abzweigenden Strang durchfahren. 
 Danach sollten zwei Baufahrzeuge aus dem Baugleis über die Weiche 6 und die DKW 17 nach 
 Gleis 4 in den Bf Ruhland einfahren. 
 Der Ww auf W2 sah den RE 18413 an sich vorbeifahren und nahm gemäß seiner Aussage an, 
 dass es sich dabei um den S 37461 handelte. Er vergewisserte sich nicht, ob der Zug S 37461 
-
 die Fahrstraßen-Zugschlussstelle auf Höhe der Spitze der Weiche 3 bereits passiert hatte. Er 
-
 entfernte die Hilfssperre und löste die Hilfsfahrstraße auf. Dann stellte er unverzüglich den 
-
 Fahrweg für die Fahrt der Baufahrzeuge über die Weiche 6 und die DKW 17 in Richtung Bf 
 Ruhland ein. 
 Erst danach bemerkte der Ww, dass die Zugfahrt S 37461 die DKW 17 noch nicht befahren 
-
 hatte und stellte diese deshalb wieder zurück in Richtung Gegengleis. Zwischenzeitlich hatte 
-
 der Zug die DKW mit dem vorderen Zugteil befahren, so dass der Umstellprozess unter dem 
 fahrenden Zug erfolgte. Dadurch kam es zum zweispurigen Lauf der zweiten Triebzugeinheit. 
-
 Der Tf hatte bereits zuvor bemerkt, dass er in ein durch eine Sh 2 - Scheibe geschütztes Gleis 
-
 fehlgeleitet worden war und bremste. Auf Grund dieser Bremsung war der Zug bereits so langsam, dass es nach dem Umstellen der DKW 17 lediglich zu einer Entgleisung der zweiten Triebzugeinheit des Zuges kam und keine Schäden an der Infrastruktur und den Fahrzeugen entstanden. 
 Seite 16 von 18 
+
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 26.04.2015, Ruhland 
 5.2  Bewertung	und	Schlussfolgerung	
 Ursächlich für das Ereignis war ein Arbeitsfehler des Ww auf Stw W2. Er löste die Hilfsfahrstraße für die Zugfahrt S 37461 auf, obwohl diese die Fahrstraßen-Zugschlussstelle noch nicht 
 passiert hatte. Dadurch konnte der Ww die DKW 17 umstellen. Als der Ww seinen Fehler erkannte, stellte er die DKW 17 wieder in die Ausgangsrichtung, ohne sich durch Hinsehen vom 
 Freisein der DKW 17 zu überzeugen. Mittlerweile befand sich der Zug bereits auf der DKW 17. 
-
 Eine Gleisfreimeldeeinrichtung, die das Risiko eines vorzeitigen Umstellens der Weiche hätte 
-
 technisch vermindern können, gab es im relevanten Bereich des Bf Ruhland nicht. 
 Der Ww auf dem Stw W2 erklärte in seiner Stellungnahme, die Züge verwechselt zu haben. Er 
 hatte einen anderen Zug, der  seinen Stellwerksbezirk durchfuhr für „seinen“ Zug gehalten. 
-
-Offensichtlich  hatte  er  sich  nicht  ausreichend  auf  die  von  ihm  zugelassene  Zugfahrt  kon-
-
-zentriert und entgegen den Vorgaben im Regelwerk weder die Zugfahrt S 7461 noch die Fahrstraßen-Zugschlussstelle auf Höhe der Spitze von Weiche 3 beobachtet. 
+Offensichtlich  hatte  er  sich  nicht  ausreichend  auf  die  von  ihm  zugelassene  Zugfahrt  konzentriert und entgegen den Vorgaben im Regelwerk weder die Zugfahrt S 7461 noch die Fahrstraßen-Zugschlussstelle auf Höhe der Spitze von Weiche 3 beobachtet. 
 Die relativ geringen Folgen der betrieblichen Fehlhandlung waren der Tatsache zu verdanken, 
-
 dass der Tf die Fehlleitung seines Zuges frühzeitig erkannte und bremste. Dadurch konnte eine 
-
 Kollision mit den im Baugleis befindlichen Baufahrzeugen vermieden werden. Auf Grund der 
 geringen Geschwindigkeit kam der Zug nach der Bremsung zum Halt, bevor die Weiche oder 
 das Fahrzeug beschädigt oder Gleise verschoben werden konnten. 
 Seite 17 von 18 
+
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 26.04.2015, Ruhland 
 6  Bisher	getroffene	Maßnahmen	
 Zum Zeitpunkt des Ereignisses waren die Planungen für den Bau einer ESTW – Außeneinheit 
@@ -716,6 +663,7 @@ hier aufgetretenen Form wurde durch die Realisierung der ESTW Technik faktisch a
 7  Sicherheitsempfehlungen	
 Es ergehen keine Sicherheitsempfehlungen. 
 Seite 18 von 18 
+
  
  
 

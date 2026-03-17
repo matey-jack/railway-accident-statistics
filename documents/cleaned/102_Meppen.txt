@@ -98,6 +98,7 @@ Untersuchung der betrieblichen Handlungen ......................................
 
 
  1 
+
  1.1 
  1.2 
  1.3 
@@ -116,7 +117,6 @@ Untersuchung der betrieblichen Handlungen ......................................
  4.4 
  4.5 
 4.5.1 
-
 Betriebliche Handlungen des Fdl......................................................................... 16
 
 
@@ -126,10 +126,14 @@ Personelle Aufschreibungen Fdl..................................................
 
 
 4.5.3 
+
 Auswertung der Funkgesprächsaufzeichnungen................................................. 18
 
+
 4.5.4 
+
 Betriebliche Handlungen des Tf / Auswertung der EFR ...................................... 19
+
 
 4.5.5 
 
@@ -142,12 +146,7 @@ Untersuchung von Fahrzeugen ....................................................
 
 
 Seite 3 von 24 
- 
- 
- 
- 
- 
- 
+
  
  
  
@@ -179,13 +178,14 @@ Seite 3 von 24
  
  
 Untersuchungsbericht 
+
 Personenunfall, 13.03.2017, Meppen 
 4.7 
-
 Interpretation der Unfallspuren ............................................................................ 20
 
 
 5 
+
 6 
 Auswertung und Schlussfolgerungen ............................................................. 21
 
@@ -211,24 +211,14 @@ Abb. 5: Fernsprechbuch für häufig gegebene Meldungen .........................
 
 
 Seite 4 von 24 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
  
  
  
  
  
 Untersuchungsbericht 
+
 Personenunfall, 13.03.2017, Meppen 
 Abkürzungsverzeichnis 
 AEG 
@@ -285,8 +275,10 @@ Seite 5 von 24
  
  
  
+
  
 Untersuchungsbericht 
+
 Personenunfall, 13.03.2017, Meppen 
 1 
 Zusammenfassung 
@@ -332,9 +324,7 @@ Personenunfall, 13.03.2017, Meppen
 Vorbemerkungen 
 Dieses  Kapitel beinhaltet zunächst einen organisatorischen Hinweis zu den Rechtsgrundlagen der Eisenbahn-Unfalluntersuchungsstelle des Bundes (EUB) sowie der Bundesstelle für 
 Eisenbahnunfalluntersuchung (BEU). Im Weiteren wird auf die Ziele der Unfalluntersuchung 
-
 eingegangen.  Im  letzten  Abschnitt  werden  die  an  der  Untersuchung  des  Unfalls  Beteiligten 
-
 sowie die daran Mitwirkenden aufgeführt. 
 2.1 
 Organisatorischer Hinweis 
@@ -344,9 +334,7 @@ vom 16. April 2007 umgesetzt und die EUB eingerichtet. Die weitere Umsetzung der
 05.07.2007. 
 Mit dem Gesetz zur Neuordnung der Eisenbahnunfalluntersuchung vom 27. Juni 2017 wurden die rechtlichen Grundlagen zur Errichtung der BEU geschaffen. Durch das Gesetz sind 
 das  Allgemeine  Eisenbahngesetz  (AEG)  und  das  Bundeseisenbahnverkehrsverwaltungsgesetz (BEVVG) geändert worden, wobei Zuständigkeiten und Kompetenzen auf die neue Behörde, der BEU, übertragen wurden. Mit Errichtung der BEU wurde die EUB, bestehend aus 
-
 der  Leitung  der  EUB  im  Bundesministerium  für  Verkehr  und  digitale  Infrastruktur  und  der 
-
 Untersuchungszentrale  der  EUB  im  Eisenbahn-Bundesamt  aufgelöst.  Mit  dem  Organisationserlass  des  Bundesministeriums  für  Verkehr  und  digitale  Infrastruktur  (BMVI)  zur  Errichtung der Bundesstelle für Eisenbahnunfalluntersuchung vom 14. Juli 2017 wurde die BEU als 
 selbstständige Bundesoberbehörde im Geschäftsbereich des BMVI zur Erfüllung der Aufgaben nach §7 BEVVG errichtet. 
 Die  Aufgaben  zur  Untersuchung  bestimmter  gefährlicher  Ereignisse  im  Eisenbahnbetrieb 
@@ -399,15 +387,11 @@ eingegangen.
 Hergang 
 Am  13.03.2017  gegen  09:51  Uhr  erfasste  die  Zugfahrt  DPN  90275  des  Eisenbahn-
 Verkehrsunternehmens  (EVU)  WestfalenBahn  GmbH  auf  dem  Laufweg  von  Emden  Hbf  – 
-
 Münster  (Westf)  Hbf  bei  der  Ausfahrt  aus  dem  Bf  Meppen  durch  Gleis  1  in  der  Weiche  1, 
-
 etwa  in  Streckenkilometer  259,1,  eine  Person.  Zwei  weitere  Mitarbeiter  konnten  sich  durch 
-
 einen Sprung rechtzeitig in Sicherheit bringen. 
 Die  Gleisrotte  bestehend  aus  drei  Mitarbeitern  des  so  genannten  Prins-Trupps  (Projekt-
 Instandhaltung) des Eisenbahn-Infrastrukturbetreibers DB Netz AG war mit Instandhaltungsarbeiten an der Weiche 1 beschäftigt. 
-
 Zuvor  meldete  sich  der  Prins-Trupp  gegen  08:45  Uhr  beim  Fahrdienstleiter  (Fdl)  und  informierte diesen über die geplanten Instandhaltungsarbeiten an Weichen im Bahnhof Meppen. 
 Diese Information wurde unter der laufenden Nummer 209 in das Arbeits- und Störungsbuch 
 des  Fdl  Meppen,  durch  einen  Mitarbeiter  des  Prins-Trupps,  eingetragen.  Als  betriebliche 
@@ -421,11 +405,8 @@ Es ist davon auszugehen, dass der Prins-Trupp daraufhin mit den Arbeiten an der 
 begann. 
 Zwischenzeitlich näherte sich der Zug DPN 90275 aus Richtung Emden. 
 Die Ausfahrt des Zuges ab der benachbarten Betriebsstelle Haren erfolgte pünktlich gegen 
-
 09:44  Uhr.  Der  Fdl  Meppen  stellte  daraufhin  das  Einfahrsignal  (Esig)  F  für  diesen  Zug  auf 
-
 Fahrt.  Das  Ausfahrsignal  (Asig)  P1  (schützendes  Signal  für  die  Weiche  1)  wurde  vom  Fdl 
-
 Meppen, gemäß des EIU internen EDV-Systems LeiDisN, um 09:45:40 Uhr in die Fahrtstellung gebracht. 
 Seite 10 von 24 
  
@@ -437,15 +418,11 @@ Seite 10 von 24
 Personenunfall, 13.03.2017, Meppen 
 Gegen 09:49 Uhr fuhr der Zug nach Gleis 1 des Bf. Meppen ein und hielt am Bahnsteig. Etwa gegen 09:50 Uhr fuhr DPN 90275 wieder ab und beschleunigte auf die in diesem Bereich 
 zulässige  Höchstgeschwindigkeit  von  100  km/h.  Das  Gleis  beschreibt  im  Bereich  der  Ausfahrt aus dem Bahnhof Meppen einen leichten Rechtsbogen, welcher die Sichtweite auf den 
-
 Fahrweg  für  den  Tf  einschränkt.  Etwa  in  der  Mitte  des  Gleisbogens  liegt  die  Weiche  1,  an 
-
 welcher der Prins-Trupp arbeitete. Beim Durchfahren des Gleisbogens erkannte der Tf des 
 DPN 90275 plötzlich die Mitarbeiter im Bereich der Weiche 1. 
 Trotz der eingeleiteten Schnellbremsung sowie der Abgabe des Achtungssignals Zp 1 durch 
-
 den  Triebfahrzeugführer,  erfasste  der  Zug  gegen  09:51 Uhr  einen  der  drei  Mitarbeiter  des 
-
 Prins-Trupps.  Das  für  die  Arbeiten  eingesetzte  Messgerät  (MessReg  CDM)  wurde  zerstört. 
 Der Zug kam mit der Spitze ca. in km 258,870 (ca. 230 m hinter der Unfallstelle) zum Halten. 
 Gegen 09:52:05 Uhr (GSM-R-Zeit) leitete der Tf nach dem Stillstand des Zuges einen Zugfunk-Notruf  ein.  In  diesem teilte er dem Fdl mit, dass Arbeiter im Gleis waren und er diese 
@@ -458,8 +435,10 @@ Seite 11 von 24
  
  
  
+
  
 Untersuchungsbericht 
+
 Personenunfall, 13.03.2017, Meppen 
 3.2 
 Todesopfer, Verletzte und Sachschäden 
@@ -510,17 +489,14 @@ Der  Tf  des  Zuges  DPN 90275  gab  in  einer  Stellungnahme  seinem  Arbeitgeb
 sinngemäß folgendes an: 
 Am Ereignistag habe er die Dienstschicht 1820 zu leisten gehabt. Im Rahmen dieser Schicht 
 war  die  Zugleistung  90275  zu  erbringen.  Diese  sei  zunächst  planmäßig  verlaufen.  Die Einfahrt  in  den  Bahnhof  Meppen  sei  mit  der  Signalisierung  Vr1  und  Hp1  erfolgt.  Er  habe  dort 
-
 pünktlich gehalten. Da das Ausfahrvorsignal bereits auf Vr1 und das zugehörige Ausfahrsignal auf Hp1 gestanden hätte, sei er auch pünktlich um 09:50 Uhr wieder abgefahren. 
 Er  habe  seinen  Zug  auf  die  planmäßig  zulässige  Geschwindigkeit  von  100 km/h  beschleunigt.  Plötzlich  habe  er  nach  Passieren  des  Stellwerks  vor  Einfahrt  in  dem  Bogen  vor  sich 
-
 zwei Gleisarbeiter, welche in der Hocke im Gleis tätig waren, erkannt. Diese seien zu diesem 
 Zeitpunkt etwa 250 m von Ihm entfernt gewesen. 
 Da die Arbeiter sich mit dem Rücken zu Ihm befunden hätten, habe er sofort und dauerhaft 
 das  Signalhorn  betätigt  und  eine  Schnellbremsung  eingeleitet.  Irgendwann  habe  er  dann 
 Geräusche am Zug vernommen. Er habe allerdings nicht mehr hingesehen. 
 Nach dem Stillstand des Zuges hätte er dann einen Notruf über Zugfunk abgesetzt. Daraufhin  hätte  sich  der  Fdl  gemeldet  und  er  habe  diesem  mitgeteilt,  dass  dort  Arbeiter  im  Gleis 
-
 waren und er diese vermutlich überfahren habe. 
 Danach seien die Rettungskräfte und der Kollege der Westfalenbahn gekommen und hätten 
 ihn betreut und nach Hause begleitet. 
@@ -551,9 +527,7 @@ Personenunfall, 13.03.2017, Meppen
 Netz  AG  wird  die  Strecke  im  Verzeichnis  der  örtlich  zulässigen  Geschwindigkeiten  (VzG) 
 unter der VzG-Nummer 2931 geführt. Im betroffenen Bereich ist die Strecke für eine maximal 
 zulässige Geschwindigkeit von 140 km/h und einem Bremsweg von 1000 m ausgerüstet. 
-
 Ausschließlich  der  Vollständigkeit  halber  sei  erwähnt,  dass  in  Meppen  eine  eingleisige,  als 
-
 Nebenbahn  betriebene,  so  genannte 
 „Meppen-Haselünner  Eisenbahn“  nach  Essen(Oldenburg)  abzweigt.  Diese  wird  durch  den  Kreis  Emsland  /  Emsländer  Eisenbahn 
 GmbH nach dem Betriebsverfahren Zugleitbetrieb der Fahrdienstvorschrift für Nichtbundeseigene Eisenbahnen betrieben. 
@@ -587,11 +561,15 @@ Sicherungstechnik wurden der EUB im Rahmen dieses Ereignisses nicht bekannt.
 Untersuchung der betrieblichen Handlungen 
 Die  Betriebsabwicklung  auf  der  Strecke  wird  nach  den  Bestimmungen  der  Fahrdienstvorschrift DB Netz AG, Richtlinie (Ril) 408 durchgeführt. 
 
+
 Im  Bahnhof  Meppen  waren  darüber  hinaus  unmittelbar  vor  dem  Ereigniszeitpunkt  folgende  
+
 
 Gegebenheiten zu beachten: 
 
+
  	  Ein Mitarbeiter Fahrbahn der DB Netz AG war beauftragt und damit beschäftigt, eine 
+
 Ultraschallprüfung am Herzstück der Weiche 2 auszuführen. 
  	  Die  Betra  F 250364  war  in  Kraft.  Diese  beinhaltete  Vorarbeiten  zur  Kabelverlegung 
 zwischen Meppen und Haren/Ems. Im Streckenabschnitt Meppen - Haren/Ems wurde 
@@ -604,8 +582,10 @@ Seite 15 von 24
  
  
  
+
  
 Untersuchungsbericht 
+
 Personenunfall, 13.03.2017, Meppen 
 zur Ermittlung eines Kurzschlussortes (Kurzschluss vom 08.03.17) notwendig geworden. 
 4.5.1    Betriebliche Handlungen des Fdl 
@@ -624,7 +604,6 @@ Den Arbeiten hatte der Fdl“
 „08:47 Uhr zugestimmt NAME Fdl“ 
 Abb. 4: Auszug Arbeits- und Störungsbuch 
 Demnach war beabsichtigt und zwischen den Beteiligten entsprechend abgestimmt, Instandhaltungsarbeiten  an  Weichen  in  Absprache  mit  dem  Fdl  stattfinden  zu  lassen.  Dazu  sollte 
-
 jeweils die betroffene Weiche gegen Befahren und Umstellen gesperrt werden. 
 Aus  dem  Fernsprechbuch  für  häufig  gegebene  Meldungen  war  folgender  Eintrag  für  den 
 13. März 2017 zu entnehmen: 
@@ -634,8 +613,10 @@ Seite 16 von 24
  
  
  
+
  
 Untersuchungsbericht 
+
 Personenunfall, 13.03.2017, Meppen 
 Weiche  1  aufgrund  von  Arbeiten  durch  „Prinzen“  (red.  Anmerkung:  Prins-Trupp)  gesperrt. 
 Vermerkte Uhrzeit ist 09:36 Uhr und als Beantragender ist Prins eingetragen. 
@@ -650,7 +631,6 @@ kausalen Zusammenhang mit dem Ereignis.
 Beim  Eintreffen  der  EUB  waren  an  den  Bedieneinrichtungen  des  mechanischen  Stellwerkteils  keine  Hilfssperren  gemäß  Richtlinie  408.0403  angebracht.  Auch  die  Weichentaste  der 
 Weiche 1 war nicht mit einem Vergreifschutz versehen, ein Merkhinweis ARB (Arbeitsstelle) 
 war angebracht (siehe Abb.3). Der Merkhinweis „X“ (Gesperrt) war nicht angebracht. 
-
 Das  durch  den  Infrastrukturbetreiber  vor  dem  Ereignis  erstellte  Belastungsprofil  des  Stellwerkspersonals Meppen Mf zeigt eine Auslastung im Zeitraum montags zwischen 09:00 Uhr 
 und 10:00 Uhr von maximal 59%. Es waren keine weiteren Fahrten im Bahnhof unterwegs. 
 Zum  Zeitpunkt  war  die  bereits  oben  erwähnte  Betriebs-  und  Bauanweisung  (Betra  Nr. 
@@ -665,25 +645,34 @@ Seite 17 von 24
  
  
  
+
  
 Untersuchungsbericht 
+
 Personenunfall, 13.03.2017, Meppen 
 Ein  erhöhtes  Arbeitsaufkommen  zum  Ereigniszeitpunkt,  welches  zur  Ablenkung  oder  Überlastung des Fdl hätte führen können, wurde nicht festgestellt. 
 4.5.2 
 Personelle Aufschreibungen Fdl 
 Der  zuständige  Fdl  besaß  eine  zweijährige  Ausbildung  zum  Bundesbahnassistent,  welche  
 
+
 die Fdl-Ausbildung mit beinhaltete. 
+
 
 Seit  dem  02.11.1996  wurde  der  Fdl  nach  einer  15-tägigen  Einweisungszeit  auf  dem  Stellwerk Mf geprüft und eingesetzt. 
 
+
 Dort war dieser seit mindestens 10 Jahren vor dem Ereignis ständig eingesetzt. 
+
 
 Die vorgeschriebenen Ruhezeiten und Ruhetage zwischen zwei Schichten wurden eingehalten. 
 
+
 Die Tauglichkeitsuntersuchung des Mitarbeiters erfolgte zuletzt im Januar 2016. 
 
+
 Der regelmäßigen Überwachungen wurden seit 2014 ohne dokumentierte Mängel durchgeführt.  Das  Sperren  von  Weichen  war  in  diesem  Zeitraum  kein  dokumentiertes  Thema  des  
+
 
 Lehrgesprächs. 
 
@@ -696,11 +685,15 @@ Die  vorangegangenen  letzten  drei  Training  mit  Erfolgskontrolle  erfolgten 
 
 Sperren von Weichen war kein dokumentierter Trainingsinhalt. 
 
+
 Betriebliche  Verfehlungen  älteren  Datums  wurden  im  Rahmen  der  Untersuchungen  nicht  
+
 
 bekannt. 
 
+
 4.5.3 
+
 Auswertung der Funkgesprächsaufzeichnungen 
 Diese geführten GSM-R-Gespräche im Zeitraum zwischen 07:00 Uhr und 10:00 Uhr wurden 
 aufgezeichnet und im Rahmen der Unfalluntersuchung ausgewertet. 
@@ -710,6 +703,7 @@ Um  07:55  Uhr  rief  der  Mitarbeiter  Fahrbahn  den  Fdl  Meppen  an.  GSM-R-G
 07:55:58 Uhr - 07:56:47 Uhr: 
 MA Fahrbahn: 
 Fdl: 
+
 MA Fahrbahn: 
 Fdl: 
 MA Fahrbahn: 
@@ -741,12 +735,16 @@ Personenunfall, 13.03.2017, Meppen
 Auszug  ZN-Drucker  -  Einfahrt  von  Holthausen/Ems  nach  Gleis  2:  Zug  GA  52912  um 
 07:59 Uhr. 
 
+
 Um 08:05 Uhr rief der Fdl den Mitarbeiter Fahrbahn an. Auszug aus dem GSM-R-Gespräch 
+
 
 08:05:24 Uhr - 08:05:49 Uhr: 
 
+
 MA Fahrbahn: 
 Fdl: 
+
 MA Fahrbahn: 
 Fdl: 
 MA Fahrbahn: 
@@ -765,10 +763,13 @@ Trupps die Weiche haben sperren lassen und der Fdl die Sperrung der Weiche 1, an
 Eintragung im Fernsprechbuch, bestätigt hat. 
 Das geführte Gespräch (Zeitraum: 09:36:50 Uhr bis 09:37:09 Uhr, Dauer 19 Sekunden) hatte 
 folgenden Wortlaut: 
+
 Fdl: 
 MA LST: 
 Fdl: 
+
 MA LST: 
+
 Fdl: 
 MA LST: 
 Fdl: 
@@ -802,18 +803,16 @@ Seite 19 von 24
  
  
  
+
  
 Untersuchungsbericht 
+
 Personenunfall, 13.03.2017, Meppen 
-
 hang  mit  dem  Ereigniseintritt.  Auf  die  explizite  Darstellung  der  EFR-Daten  wird  an  dieser 
-
 Stelle verzichtet. 
 4.5.5 
 Personelle Aufschreibungen des Tf 
-
 Der  Tf  war  im  Besitz  eines  gültigen  Führerscheins  inklusive  der  Zusatzbescheinigung.  Die 
-
 Berechtigung  zum  Führen  des  Tfz  lag  vor.  Die  regelmäßigen  Fortbildungsunterrichte  sowie 
 die  Überwachungen  wurden  fristgerecht  durchgeführt.  Die  gesundheitliche  Tauglichkeit  des 
 Tf war ebenfalls nachgewiesen. 
@@ -833,12 +832,9 @@ Abgesehen  von  den  vorgenannten  Schäden  wurden  keine  für  die  Unfallurs
 Mängel offenbar. 
 4.7 
 Interpretation der Unfallspuren 
-
 Gemäß  Ril.  408  -Fahrdienstvorschrift-  hätte  der  zuständige  Fdl  zum  Zeitpunkt  der  Bestätigung der Sperrung der Weiche 1 diese bereits abgeriegelt und die Hilfssperren an den zugehörigen Fahrstraßen und entsprechende Merkhinweise anbringen müssen. 
 Diese hätten das Einstellen gefährdender Zugfahrten über die betroffene Weiche verhindert. 
-
 Der  Fdl  hat  dies  offensichtlich  unterlassen.  Somit  handelt  es  sich  um  einen  Verstoß gegen 
-
 die Ril 408.0471 Abschnitt 2 Absatz 2 a) Nr. 1 und Absatz 5 i. V. m. Ril 408.0403 Abschnitt 1 
 Nr. 12. 
 Seite 20 von 24 
@@ -860,21 +856,15 @@ Die Sperrung wurde beantragt und bestätigt. Die Mitarbeiter im Gleisbereich mü
 diese  Meldung  verlassen.  Die  tatsächliche  Durchführung  der  Sperrung  erfolgte  nicht.  Es 
 drängt sich die Frage auf, warum der Fdl die Sperrung nicht wie vorgeschrieben umgesetzt 
 hat?  Mit  einem  großen  Arbeitsaufwand  ist  dies  nicht  verbunden.  Das  Anbringen  der  Hilfssperren und des Merkhinweises ist mit wenigen Handgriffen erledigt. 
-
 Es  ist  jedoch  schwierig  eine  belastbare  Antwort  für  das  Unterlassen  der  Arbeitsschritte  zu 
-
 ergründen, da die Untersuchenden zum Ereigniszeitpunkt nicht vor Ort waren, um die Situation zu beobachten. Aus diesem Grunde können ausschließlich die vorhandenen Fakten zur 
 Bewertung herangezogen werden. 
-
 Der  Mitarbeiter  hat  über  Jahrzehnte  hinweg  im  Eisenbahnbetrieb  als  Fdl  gearbeitet.  Dabei 
-
 wurden nach Angaben der DB Netz AG keine gefährlichen Ereignisse im Bahnbetrieb dokumentiert. Die Überwachungsprotokolle der vergangenen drei Jahre waren unauffällig. Somit 
 kann  davon  ausgegangen  werden,  dass  dieser  berufserfahrene  Fdl  wusste,  wie  er  seine 
 Arbeit zu verrichten hat. 
 Dennoch  drängt  sich  das  Bild  auf,  dass  sich  im  Rahmen  der  Arbeitsausübungen,  und  das 
-
 nicht  nur  beim  Fdl  Mf,  eine  gewisse  Oberflächlich-  und  Nachlässigkeit  eingestellt  hat.  Dies 
-
 kann beispielsweise mit der Auswertung der abgeforderten GSM-R-Gespräche untermauert 
 werden. Es fanden nicht nur Gespräche zwischen Fdl und Instandhaltungspersonalen statt, 
 sondern auch zwischen verschiedenen Fdl. Auffällig dabei war, dass die Funksprechdisziplin 
@@ -897,9 +887,7 @@ es aufgrund verschiedenartiger Umstände versäumen, die Sperrung tatsächlich d
 Keiner der Mitarbeiter hat die richtlinienkonforme Durchführung für sich beim jeweils anderen 
 eingefordert! 
 Daher  entsteht  der  Eindruck,  dass  die  gesamthafte  Vorgehensweise  beim  Führen  von  betriebswichtigen Gesprächen und dem Sperren von Weichen oder Gleisen nicht mit der gebotenen Sorgfalt durchgeführt worden ist. 
-
 Der  Leitsatz  Sicherheit  vor  Pünktlichkeit  ist  unter  Eisenbahnern  geprägt.  Ob  dieser  jedoch 
-
 wirklich bewusst und mit den täglichen Handlungen verknüpft ist, wird vom Verfasser deutlich 
 in Zweifel gezogen. 
 Aus diesem Grunde sind Maßnahmen angezeigt, welche sich im Schwerpunkt mit der Verhaltensbeeinflussung der Mitarbeiter beschäftigen. Das Bewusstsein der Mitarbeiter über die 
@@ -937,15 +925,11 @@ Absatz (2) a) und Ril 408.4851 Abschnitt 1, Absatz (2)) und ggf. weiterer erford
 3. Anbringen der erforderlichen Hilfssperren und Merkhinweise (Merkhinweis „X“ nach Modul 
 408.0402 Nr. 8 und Sperre nach Modul 408.0403 Nr. 12) 
 4. Dokumentation der Sperrung 
-
 5.  Bestätigung  der  erfolgten  Sperrung  an  den  Antragssteller.  Dafür  ist  bei  Verfügbarkeit 
-
 GSM-R zu nutzen. 
 Ein  besonderer  Schwerpunkt  soll  auf  dem  Anbringen  der  erforderlichen  Hilfssperren  und 
 Merkhinweise  (3.)  VOR  der  Dokumentation  (4.)  und  Bestätigung  der  erfolgten  Sperrung  an 
-
 den  Antragsteller  (5.)  liegen.  Bitte  vergegenwärtigen  Sie  bei  allem   Handeln  den  Grundsatz 
-
 der Fahrdienstvorschrift, Ril 408.0111 Abschnitt 4, „Alle Mitarbeiter müssen in erster Linie für 
 Sicherheit, dann für Pünktlichkeit des Bahnbetriebes sorgen“.“ 
 Die Durchführung der o.g. Maßnahme soll durch die überwachenden Mitarbeiter an die Zentrale der DB Netz AG gemeldet werden. 
@@ -984,5 +968,6 @@ Seite 24 von 24
  
  
  
+
  
 

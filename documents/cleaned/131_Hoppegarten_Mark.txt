@@ -18,8 +18,10 @@ Gefährliches Ereignis im Eisenbahnbetrieb
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung, 29.06.2015, Hoppegarten (Mark) 
 Veröffentlicht durch: 
 Bundesstelle für Eisenbahnunfalluntersuchung 
@@ -43,35 +45,20 @@ Seite 2 von 30
 Zugentgleisung, 29.06.2015, Hoppegarten (Mark) 
 Inhaltsverzeichnis: 
 Seite  
-
 Zusammenfassung .............................................................................................. 7  
-
 Kurzbeschreibung des Ereignisses ....................................................................... 7  
-
 Folgen .................................................................................................................... 7  
-
 Ursachen ............................................................................................................... 7  
-
 Vorbemerkungen ................................................................................................. 8  
-
 Organisatorischer Hinweis ..................................................................................... 8  
-
 Ziel der Eisenbahnunfalluntersuchung .................................................................. 9  
-
 Beteiligte und Mitwirkende ................................................................................... 10  
-
 Ereignis ............................................................................................................... 10  
-
 Hergang ............................................................................................................... 10  
-
 Todesopfer, Verletzte und Sachschäden ............................................................. 12  
-
 Wetterbedingungen ............................................................................................. 12  
-
 Untersuchungsprotokoll ................................................................................... 14  
-
 Zusammenfassung von Aussagen ...................................................................... 14  
-
 1  
 1.1  
 1.2  
@@ -87,74 +74,48 @@ Zusammenfassung von Aussagen ...................................................
 4  
 4.1  
 4.1.1  
-
 Aussage des Tf S 5130 ....................................................................................... 14  
-
 4.1.2  
-
 Aussage der Fahrdienstleiter ............................................................................... 14  
-
 4.2  
 4.3  
 4.4  
-
 Notfallmanagement .............................................................................................. 15  
-
 Untersuchung der Infrastruktur ............................................................................ 15  
-
 Untersuchung der Leit- und Sicherungstechnik ................................................... 15  
-
 4.4.1  
-
 Stellwerk Hob ....................................................................................................... 15  
-
 4.4.2  
-
 Hebelwerk und Blockaufbau Stellwerk Hob ......................................................... 16  
-
 4.4.3  
-
 Automatisierte Gleisfreimeldungen Stellwerk Hob ............................................... 16  
-
 4.5  
 Untersuchung der betrieblichen Handlungen des Fahrdienstleiters .................... 16  
 4.5.1  
-
 Qualifikation und Eignung .................................................................................... 17  
-
 4.5.2  
-
 Betriebliche Handlungen ...................................................................................... 18  
-
 Seite 3 von 30 
  
  
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung, 29.06.2015, Hoppegarten (Mark) 
 4.5.3  
-
 Zählpflichtige Bedienungen ................................................................................. 23  
-
 4.5.4  
-
 Soll / Ist-Vergleich ................................................................................................ 24  
-
 4.6  
-
 Untersuchung von Fahrzeugen ........................................................................... 26  
-
 4.6.1  
-
 Fahrzeuge der S 5130 ......................................................................................... 26  
-
 4.6.2  
-
 Auswertung der Fahrtverlaufsaufzeichnung ........................................................ 26  
-
 5  
 Auswertung und Schlussfolgerungen ............................................................. 29 
 Änderungsverzeichnis: 
@@ -176,61 +137,36 @@ Seite 4 von 30
  
  
  
-  
-  
-  
-  
-  
-  
-  
- 
-  
-  
-  
+
 Untersuchungsbericht 
 Zugentgleisung, 29.06.2015, Hoppegarten (Mark) 
 Abbildungsverzeichnis:  
-
 Abbildung 1: Aufnahme an der Unfallstelle .............................................................................. 7  
-
 Abbildung 2: Lageplan ............................................................................................................ 11  
-
 Abbildung 3: Lageskizze ........................................................................................................ 11  
-
 Abbildung 4: Sichtverhältnisse am Ereignisort ....................................................................... 13  
-
 Abbildung 5: Übergabebuch ................................................................................................... 17  
-
 Abbildung 6: Zugnummerndruck ............................................................................................ 17  
-
 Abbildung 7: Auszug Verschlussplan ..................................................................................... 19  
-
 Abbildung 8: Auszug Lageplan (isolierte Schiene) ................................................................. 19  
-
 Abbildung 9: Auszug der Zugschlussstellen........................................................................... 20  
-
 Abbildung 10: Fahrwegprüfbezirk des Fahrdienstleiter Hob .................................................. 21  
-
 Abbildung 11: Fahrstraßensignal- und Weichenhebel ........................................................... 21  
-
 Abbildung 12: Sollzustand der Hebelbank aus Abbildung 11 ................................................. 22  
-
 Abbildung 13: Auszug Zählwerke ........................................................................................... 23  
-
 Abbildung 14: EFR-Datenauszug ........................................................................................... 27  
-
 Abbildung 15: Zoombereich (aus Abbildung 14) .................................................................... 28  
-
 Abbildung 16: Auswertetabelle der EFR-Daten ...................................................................... 29  
-
 Seite 5 von 30 
  
  
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung, 29.06.2015, Hoppegarten (Mark) 
 Abkürzungsverzeichnis 
 AEG 
@@ -272,16 +208,20 @@ Sicherheitsbehörde
 Sicherheitsmanagementsystem 
 Triebfahrzeugführer 
 ZAT-FM 
+
 Zug-Abfertigung  durch  den  Triebfahrzeugführer  –  mit  Führerstands-
 Monitor 
+
 Seite 6 von 30 
  
  
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung, 29.06.2015, Hoppegarten (Mark) 
 1 
 Zusammenfassung 
@@ -333,11 +273,7 @@ das Bundeseisenbahnverkehrsverwaltungsgesetz (BEVVG) geändert, wobei Zuständig
 und  Kompetenzen  auf  die  neue  Behörde,  die  BEU,  übertragen  wurden.  Mit  Errichtung  der 
 BEU wurde die EUB, bestehend aus der Leitung der EUB im Bundesministerium für Verkehr 
 und  digitale  Infrastruktur  (BMVI)  und  der  Untersuchungszentrale  der  EUB  im  Eisenbahn-
-Bundesamt (EBA), aufgelöst. Mit dem Organisationserlass des Bundesministeriums für Ver-
-
-kehr  und  digitale  Infrastruktur  zur  Errichtung  der  Bundesstelle  für  Eisenbahnunfalluntersu-
-
-chung  vom  14.07.2017  wurde  die  BEU  als  selbstständige  Bundesoberbehörde  im  Geschäftsbereich des BMVI zur Erfüllung der Aufgaben nach § 7 BEVVG errichtet. 
+Bundesamt (EBA), aufgelöst. Mit dem Organisationserlass des Bundesministeriums für Verkehr  und  digitale  Infrastruktur  zur  Errichtung  der  Bundesstelle  für  Eisenbahnunfalluntersuchung  vom  14.07.2017  wurde  die  BEU  als  selbstständige  Bundesoberbehörde  im  Geschäftsbereich des BMVI zur Erfüllung der Aufgaben nach § 7 BEVVG errichtet. 
 Die  Aufgaben  zur  Untersuchung  bestimmter  gefährlicher  Ereignisse  im  Eisenbahnbetrieb 
 gingen dabei nahtlos von der EUB auf die BEU über. 
 Da das vorliegende Ereignis vor dem Tag der Errichtung der BEU am 14.07.2017 lag, wurden Aufgaben, wie die Untersuchung vor Ort, durch die EUB durchgeführt. Andere Arbeiten, 
@@ -378,9 +314,7 @@ An dem Ereignis waren folgende Eisenbahnunternehmen beteiligt:
 Im Rahmen der Sachverhaltsermittlung und Ursachenerforschung wurde die Bundespolizeiinspektion Berlin einbezogen. 
 3 
 Ereignis 
-
 Im  ersten  Abschnitt  dieses  Kapitels  wird  der  Ereignishergang  beschrieben.  Dazu  ließ  sich 
-
 anhand  der  im  Kapitel  Untersuchungsprotokoll  aufgeführten  Beweismittel  und  Spuren  der 
 Hergang rekonstruieren. Des Weiteren werden die Folgeschäden sowie die vorherrschenden 
 Wetterbedingungen am Ereignistag dargestellt. 
@@ -422,8 +356,10 @@ Todesopfer waren keine zu beklagen.
 Der  Triebfahrzeugführer  (Tf) wurde bei dem Ereignis leicht verletzt und erlitt einen Schock. 
 Von  den  53  Fahrgästen  wurde  keiner  verletzt.  Die  Sachschäden  setzen  sich  wie  folgt  zusammen: 
    
+
 Fahrzeuge und  
 Betriebserschwernisse 
+
     Oberbau  
   Gleisanlage 
    
@@ -464,8 +400,10 @@ Seite 12 von 30
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung, 29.06.2015, Hoppegarten (Mark) 
 Abbildung 4: Sichtverhältnisse am Ereignisort 
 Quelle: BPol 
@@ -475,18 +413,16 @@ Seite 13 von 30
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung, 29.06.2015, Hoppegarten (Mark) 
 4 
 Untersuchungsprotokoll 
 In  diesem  Kapitel  werden  die  ermittelten  Ergebnisse  zu  einzelnen  in  Zusammenhang  mit 
 dem  Ereignis stehenden Teilbereichen des Eisenbahnwesens dargestellt. Daneben wurden 
-auch  die  entsprechenden  Schnittstellen  sowie  das  Sicherheitsmanagement  (SMS)  im  be-
-
-troffenen  Bereich  betrachtet.  Die  jeweilig  relevanten  Feststellungen  werden  fortlaufend  auf-
-
-geführt. 
+auch  die  entsprechenden  Schnittstellen  sowie  das  Sicherheitsmanagement  (SMS)  im  betroffenen  Bereich  betrachtet.  Die  jeweilig  relevanten  Feststellungen  werden  fortlaufend  aufgeführt. 
 4.1 
 Zusammenfassung von Aussagen  
 In den folgenden Abschnitten werden die wichtigsten Aussagen und Stellungnahmen einiger 
@@ -498,18 +434,10 @@ Der Dienst sei bis zur Zugnummer 5130 planmäßig gelaufen. Es wären Verspätun
 den netzweiten Ausfall des Zugabfertigungsverfahrens (ZAT-FM) aufgetreten. Dadurch habe 
 sich die Abfahrt des Zuges 5130 in Strausberg Nord in Richtung Spandau um ca. 5 Minuten 
 verspätet. 
-Das Einfahrsignal (Signal Z) des Bahnhofs Hoppegarten habe bei Annäherung den Fahrtbe-
-
-griff  Hl  7  (Vorbeifahrt  mit  zulässiger  Höchstgeschwindigkeit,  anschließend  auf  40  km/h  er-
-
-mäßigen)  und  das  Zwischensignal  (Signal  X)  Hl  3a  (Vorbeifahrt  mit  40  km/h,  anschließend 
-
+Das Einfahrsignal (Signal Z) des Bahnhofs Hoppegarten habe bei Annäherung den Fahrtbegriff  Hl  7  (Vorbeifahrt  mit  zulässiger  Höchstgeschwindigkeit,  anschließend  auf  40  km/h  ermäßigen)  und  das  Zwischensignal  (Signal  X)  Hl  3a  (Vorbeifahrt  mit  40  km/h,  anschließend 
 mit  zulässiger  Höchstgeschwindigkeit  weiter)  gezeigt.  Letztgenanntes  sei  mit  ca.  35  km/h 
 passiert worden. Den anschließenden Weichenbereich habe er mit ca. 40 km/h befahren. 
-
-Kurz  vor  Einfahrt  in  das  Bahnsteiggleis  habe  der  Zug  selbsttätig  bis  zum  Stillstand  abge-
-
-bremst.  Auf  der  Führerraumanzeige  sei  eine  Feuerlöschermeldung,  das  Öffnen  der  Sicherheitsbremsschleife  sowie  das  Fehlen  der  Fahrspannung  angezeigt  worden.  Durch  Augenscheinprüfung habe der Tf die Entgleisung festgestellt und einen Notruf abgesetzt. 
+Kurz  vor  Einfahrt  in  das  Bahnsteiggleis  habe  der  Zug  selbsttätig  bis  zum  Stillstand  abgebremst.  Auf  der  Führerraumanzeige  sei  eine  Feuerlöschermeldung,  das  Öffnen  der  Sicherheitsbremsschleife  sowie  das  Fehlen  der  Fahrspannung  angezeigt  worden.  Durch  Augenscheinprüfung habe der Tf die Entgleisung festgestellt und einen Notruf abgesetzt. 
 4.1.2 
 Aussage der Fahrdienstleiter  
 Zum Zeitpunkt des Ereignisses waren wegen Schichtwechsel zwei Fahrdienstleiter im Stellwerk anwesend. 
@@ -526,9 +454,7 @@ Zugentgleisung, 29.06.2015, Hoppegarten (Mark)
 Notfallmanagement  
 Nach § 4 Abs. 3 AEG haben die Eisenbahnen die Verpflichtung, an Maßnahmen des Brandschutzes und der technischen Hilfeleistung mitzuwirken. In einer Vereinbarung zwischen den 
 Innenministerien der Länder und der DB AG hat man sich auf eine Verfahrensweise verständigt. Für die DB Netz AG gelten die entsprechenden Brand- und Katastrophenschutzgesetze 
-
 der  Länder.  Das  Notfallmanagement  der  DB  AG  ist  in  der  Konzernrichtlinie  123,  jenes  der 
-
 DB Netz AG in der Richtlinie (Ril) 423 näher beschrieben und geregelt. 
 Bei diesem Ereignis erfolgte durch die Notfallleitstelle der S-Bahn die Benachrichtigung der 
 Rettungskräfte der Berliner Feuerwehr und der Bundespolizeiinspektion Berlin-Ostbahnhof. 
@@ -549,10 +475,7 @@ Stellwerk Hob
 Bei  dem  Stellwerk  Hob  handelt  es  sich  um  ein  elektromechanisches  Stellwerk  der  Bauart 
 VES 1912.  
 Zum Zeitpunkt des Eintreffens der Bundespolizei auf dem Stellwerk leuchtete der Melder der 
-Weiche 49 rot. Dies zeigte an, dass sich Weiche 49 nicht in einer überwachten Endlage be-
-
-fand.  Der  Hebel  der  Weiche  49  war,  für  die  stattgefundene  Einfahrt  in  falscher  Stellung,  in 
-
+Weiche 49 rot. Dies zeigte an, dass sich Weiche 49 nicht in einer überwachten Endlage befand.  Der  Hebel  der  Weiche  49  war,  für  die  stattgefundene  Einfahrt  in  falscher  Stellung,  in 
 Minusstellung. Alle weiteren Weichenhebel waren in Grundstellung (Plusstellung). Die Fahrstraße für S 5130 war bezeichnet mit x/5. Bei Eintreffen von Bundespolizei und Notfallmanager war der entsprechende Fahrstraßensignalhebel für die stattgefundene Einfahrt in Grundstellung gebracht worden und diese Fahrstraße somit aufgelöst. Der Fahrstraßensignalhebel 
 Seite 15 von 30 
  
@@ -618,9 +541,7 @@ Nach den Erkenntnissen der BEU ist nicht eindeutig nachvollziehbar, welcher Fahr
 betrieblichen Handlungen eingegangen. 
 4.5.2 
 Betriebliche Handlungen 
-
 Durch  den  Fahrdienstleiter  wurde  die  Einfahrzugstraße  eingestellt.  Hierzu  werden  die  laut 
-
 Verschlussplan  (siehe  Abbildung  7)  benötigten  Fahrwegelemente  eingestellt,  verschlossen 
 und festgelegt. Bauartspezifisch geht mit Festlegung der Fahrstraße das Signal auf Fahrt. 
 An der konkreten Örtlichkeit gespiegelt, wurde durch den Fahrdienstleiter Hob die Fahrstraße  x/5  eingestellt.  Die  laut  Verschlussplan  benötigten  Fahrwegelemente  waren  die  Weiche 49 und Weiche 50 in Pluslage sowie die Weiche 51 als Flankenschutz ebenfalls in Pluslage.  Der  Verschluss  erfolgte  bei  der  Drehung  des  Fahrstraßensignalhebels  ab  30°  Hebelstellung,  die  folgende  Festlegung  mit  Erreichen  der  45°-Stellung.  Mit  Erreichen  der  90°-
@@ -635,10 +556,7 @@ Seite 18 von 30
 Zugentgleisung, 29.06.2015, Hoppegarten (Mark) 
 Abbildung 7: Auszug Verschlussplan 
 Quelle: BPol 
-
-Im  Regelfall  fällt  mit  Besetzen  der  isolierten  Schiene  (siehe  Abbildung  8) das Zwischensig-
-
-nal X   auf  Halt.  Mit  Freifahren  dieses Abschnitts wird die Festlegung der Fahrstraße x/5 zurückgenommen. 
+Im  Regelfall  fällt  mit  Besetzen  der  isolierten  Schiene  (siehe  Abbildung  8) das Zwischensignal X   auf  Halt.  Mit  Freifahren  dieses Abschnitts wird die Festlegung der Fahrstraße x/5 zurückgenommen. 
 Abbildung 8: Auszug Lageplan (isolierte Schiene) 
 Entsprechend Ril. 408.0251 Abschn. 4 (1) darf eine Fahrstraße erst nach Halt oder Vorbeifahrt an der Fahrstraßen-Zugschlussstelle aufgelöst werden. Um in der konkreten Örtlichkeit 
 die  regelgerechten  Fahrstraßenauflösung  durchzuführen  und  die  damit  verbundene  Grund-
@@ -658,9 +576,7 @@ umgestellt werden.
 Die Entfernung zur Spitze der Weiche 49 betrug etwa 150 Meter, die Sicht war unbehindert. 
 Für eine auf die Einfahrt des Zuges S 5130 folgende Ausfahrt aus Gleis 4 wäre eine Fahrwegprüfung  durchzuführen  und  die  entsprechende  Fahrstraße  w  (in  Analogie  der  oben  beschriebenen Vorgehensweise) einzustellen. 
 Örtliche Grenzen 
-
 Die  Zugschlussstelle  liegt  für  die  relevante  Fahrt  von  Signal  X  nach  Gleis  5  in  Höhe  des 
-
 Stellwerkes Hob. 
 Abbildung 9: Auszug der Zugschlussstellen 
 Seite 20 von 30 
@@ -683,9 +599,7 @@ gesichert). Die Hilfssperre wurde nach dem Ereignis angebracht.
 Rein faktisch müsste sich, aufgrund der stattfindenden Einfahrt in Gleis 5, dieser Weichenhebel in Plusstellung befinden. 
 Anhand des Leuchtmelders an Weiche 49 ist eine Störung zu erkennen (keine überwachte 
 Endlage vorhanden). 
-
 Die  Weichenhebel  50,  51  und  58  befinden  sich  jeweils  in  Grundstellung  (Plusstellung),  die 
-
 Gleissperre A liegt auf und befindet sich gleichfalls in Grundstellung. 
 Seite 21 von 30 
  
@@ -696,36 +610,20 @@ Seite 21 von 30
  
 Untersuchungsbericht 
 Zugentgleisung, 29.06.2015, Hoppegarten (Mark) 
-
 Der  Fahrstraßensignalhebel  für  die  Fahrt  von  Signal  M  nach  Gleis  4  (m/4)  befindet  sich  in 
-
-Grundstellung. Dies sind die Einfahrten aus Richtung Mahlsdorf kommend. Der Fahrstraßen-
-
-signalhebel  für  die  Fahrten  aus  Gleis  4  in  Richtung  Fredersdorf  (w)  bzw.  für  die  Fahrt  von 
-
+Grundstellung. Dies sind die Einfahrten aus Richtung Mahlsdorf kommend. Der Fahrstraßensignalhebel  für  die  Fahrten  aus  Gleis  4  in  Richtung  Fredersdorf  (w)  bzw.  für  die  Fahrt  von 
 Signal  X  nach  Gleis  5  (x/5)  befindet  sich  gleichfalls  in  Grundstellung.  Über  die  nach  links 
-
 eingedrehte Stellung dieses Fahrstraßensignalhebels (w) werden alle Ausfahrten aus Gleis 4 
-
-in  Richtung  Fredersdorf  realisiert.  Über  die  nach  rechts  eingedrehte  Stellung  dieses  Fahr-
-
-straßensignalhebels  (x/5)  werden  alle  Einfahrten  aus  Fredersdorf  kommend  nach  Gleis  5 
+in  Richtung  Fredersdorf  realisiert.  Über  die  nach  rechts  eingedrehte  Stellung  dieses  Fahrstraßensignalhebels  (x/5)  werden  alle  Einfahrten  aus  Fredersdorf  kommend  nach  Gleis  5 
 verwirklicht. 
-
 Somit  schließen  sich  die  konkurrierenden  Einfahrten  nach  Gleis  5  und  die  Ausfahrten  aus 
-
 Gleis 4 bzw. in dasselbe Streckengleis (Richtung Fredersdorf) mechanisch aus. 
 Tatsächlich müsste sich, aufgrund der stattfindenden Einfahrt in Gleis 5, dieser Fahrstraßensignalhebel in der rechten 90°-Stellung befinden. 
-Der Fahrstraßensignalhebel für die Fahrt aus Gleis 5 in Richtung Mahlsdorf (n) ist verschlos-
-
-sen  und  bereits  festgelegt.  Dies  weist  darauf  hin,  dass  die  Weiterfahrt  aus  Gleis  5  bereits 
-
+Der Fahrstraßensignalhebel für die Fahrt aus Gleis 5 in Richtung Mahlsdorf (n) ist verschlossen  und  bereits  festgelegt.  Dies  weist  darauf  hin,  dass  die  Weiterfahrt  aus  Gleis  5  bereits 
 vorbereit war und nur noch die Signalfahrtstellung (90°-Stellung) ausstand. 
 Die  nachfolgende  Abbildung  zeigt  die  Stellung  der  jeweiligen  Fahrstraßensignalhebel  bzw. 
 Weichenhebel  in  der  für  die  stattgefundenen  Fahrten  notwendigen  Regelstellung.  Hierbei 
-
 wurde  jedoch  lediglich  der  Verschluss  herbeigeführt,  d.  h.  für  die  Signalfahrtstellung  wären 
-
 die jeweiligen Fahrstraßensignalhebel noch in die 90°-Stellung zu bringen. 
 Abbildung 12: Sollzustand der Hebelbank 
 Quelle: BPol 
@@ -747,8 +645,10 @@ Die  Zählwerksnummern  der  Bedienung  für  die  Fahrstraßenhilfsauflösung  
 Ein-/Ausfahr-Wiederholungssperre (E/A Wsp X/N) stimmten nicht mit der letzten Eintragung 
 im  Arbeits-  und  Störungsbuch  überein.  Die  jeweils  letzte  protokolierte  Zählwerksnummer 
 wich um einen Zähler ab. 
+
 Abbildung 13: Auszug Zählwerke 
 Quelle: BPol  
+
 In  Auswertung  dieser  Unterlagen  ergibt  sich,  dass  eine  Fahrstraße  x  (Einfahrt  aus 
 Fredersdorf  nach  Gleis  5)  oder  eine  Fahrstraße  w  (Ausfahrt  aus  Gleis  4  in  Richtung 
 Fredersdorf) hilfsaufgelöst und dies nicht dokumentiert wurde. 
@@ -758,8 +658,10 @@ Seite 23 von 30
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung, 29.06.2015, Hoppegarten (Mark) 
 Aus  den  vorliegenden  Unterlagen  ist  ersichtlich,  dass  die  Auflösung  der  Ein-/Ausfahr-
 Wiederholungssperre x/n bedient und nicht dokumentiert wurde. 
@@ -791,8 +693,10 @@ Seite 24 von 30
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung, 29.06.2015, Hoppegarten (Mark) 
 Sollzustand 
 Istzustand
@@ -901,17 +805,11 @@ Zugentgleisung, 29.06.2015, Hoppegarten (Mark)
 Abbildung 16: Auswertetabelle der EFR-Daten 
 Quelle: DB Netz AG 
 Grundsätzlich  kann  festgestellt  werden,  dass  die  zulässige  Geschwindigkeit  des  Zuges  im 
-
-ausgewerteten  Bereich  nicht  überschritten  wurde.  Es  liegen  keine  Hinweise  auf  eine  regel-
-
-widrige Handlungsweise des Triebfahrzeugführers vor. 
+ausgewerteten  Bereich  nicht  überschritten  wurde.  Es  liegen  keine  Hinweise  auf  eine  regelwidrige Handlungsweise des Triebfahrzeugführers vor. 
 5 
 Auswertung und Schlussfolgerungen 
 Im Rahmen der Unfalluntersuchung wurden mehrere Fehler in der Bedienung der Stellwerkstechnik erkannt. Einer der Fahrdienstleiter hat die in Ril 408 vorgegebenen Regeln zum Zeitpunkt des Auflösens der Einfahrzugstraße nicht beachtet. Die Fahrstraße x/5 wurde unzeitig 
-
-hilfsaufgelöst.  Dies  wird  durch  die  jeweiligen  Zählwerke  der  Taste  für  die  Fahrstraßenhilfs-
-
-auflösung (HT w/x) und der Hilfsauflösung der Ein-/Ausfahr-Wiederholungssperre (E/A Wsp 
+hilfsaufgelöst.  Dies  wird  durch  die  jeweiligen  Zählwerke  der  Taste  für  die  Fahrstraßenhilfsauflösung (HT w/x) und der Hilfsauflösung der Ein-/Ausfahr-Wiederholungssperre (E/A Wsp 
 X/N)  belegt.  Ein  Nachweis  der  entsprechenden  Zählwerksnummern  im  örtlichen  Nachweis 
 der Zählwerke unterblieb. 
 Der Zug S 5130 entgleiste aufgrund der unzeitigen Bedienung der Weiche 49. Nach regelgerechter  Bedienung  hätte  sich  die  Weiche 49 im Verschluss der entsprechenden Fahrstraße 
@@ -923,16 +821,15 @@ Seite 29 von 30
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung, 29.06.2015, Hoppegarten (Mark) 
 Weiche 49. Der Fahrstraßensignalhebel darf erst dann zurückgelegt werden, wenn der Zug 
 die  Fahrstraßenzugschlussstelle  (in  Höhe  des  Stw  Hob)  mit  Zugschluss  passiert  hat.  Das 
 Beachten  des  Verzeichnisses  der  Zugschlussstellen  und  das  damit  erforderliche  Erkennen 
-des Zugschlusses, als Voraussetzung für alle weiteren Bedienhandlungen im Stellwerk, hät-
-
-ten  ein  unzeitiges  Stellen  der  Weiche  49  und  damit  das  Entgleisen  der  S  5130  verhindert. 
-
+des Zugschlusses, als Voraussetzung für alle weiteren Bedienhandlungen im Stellwerk, hätten  ein  unzeitiges  Stellen  der  Weiche  49  und  damit  das  Entgleisen  der  S  5130  verhindert. 
 Zudem wurde die Weiche 49 ohne Prüfung auf Freisein umgestellt. 
 Die Vermeidung der Eingriffe des Bedieners in ein sicher arbeitendes Stellwerkssystem ohne 
 betriebliche Notwendigkeit wäre ereignisverhindernd gewesen. 

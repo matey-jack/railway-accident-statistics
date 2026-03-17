@@ -34,8 +34,10 @@ Kilometer:
  
  
   
+
  
 Untersuchungsbericht 
+
 Bahnübergangsunfall,  22.05.2018,  Reiskirchen - Großen-Buseck 
 Veröffentlicht durch: 
 Bundesstelle für Eisenbahnunfalluntersuchung 
@@ -67,6 +69,7 @@ Seite 2 von 29
 Untersuchungsbericht 
 Bahnübergangsunfall,  22.05.2018,  Reiskirchen - Großen-Buseck 
 Inhaltsverzeichnis:
+
 
 Seite
 
@@ -115,20 +118,26 @@ Untersuchung der Infrastruktur .................................................
 
  1 
  1.1 
+
  1.2 
  1.3 
+
  2 
  2.1 
+
  2.2 
  2.3 
+
  3 
  3.1 
+
  3.2 
  3.3 
+
  4 
  4.1 
-4.1.1 
 
+4.1.1 
 Beschreibung des Straßenverlaufes ..................................................................13
 
 
@@ -138,9 +147,12 @@ Verkehrssituation ..............................................................
 
 
 4.1.3 
+
 Betrachtung des BÜ rechts der Bahn (rdB) (Quadranten I & IV) ........................14
 
+
 4.1.4 
+
 4.1.5  
 4.1.6  
 4.1.7  
@@ -156,9 +168,12 @@ Bautechnische Instandhaltung des BÜ............................................
 
 Betrachtung weiterer Gefahrenpunkte am BÜ....................................................15
 
+
 Feststellung zur Untersuchung der Infrastruktur ................................................20
 
+
 Untersuchung der Leit- und Sicherungstechnik..................................................20
+
 
 Funktionsweise der BÜSA im Regelbetrieb........................................................20
 
@@ -170,94 +185,34 @@ Signaltechnische Instandhaltung des BÜ ........................................
 
 
 Seite 3 von 29 
- 
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-   
- 
-   
- 
-   
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
  
 Untersuchungsbericht 
+
 Bahnübergangsunfall,  22.05.2018,  Reiskirchen - Großen-Buseck 
 4.2.4 
 Auswertung der Diagnosedaten BÜSA ..............................................................21
 
+
 4.2.5 
+
 Feststellung zur Untersuchung der Leit- und Sicherungstechnik........................23
 
+
 4.3 
+
 Untersuchung der betrieblichen Abläufe des EIU...............................................23
 
+
 4.3.1 
+
 Feststellung zu den betrieblichen Abläufen des EIU ..........................................23
 
+
 4.4 
+
 Untersuchung der betrieblichen Abläufe des EVU..............................................24
+
 
 4.4.1 
 
@@ -275,9 +230,12 @@ EFR-Auswertung..................................................................
 
 
 4.4.4 
+
 Feststellung zu den betrieblichen Abläufen des EVU .........................................27
 
+
 4.5 
+
 4.6 
 5 
 6 
@@ -294,65 +252,10 @@ Bisher getroffene Maßnahmen....................................................
 
 
 Seite 4 von 29 
- 
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
 Untersuchungsbericht 
 Bahnübergangsunfall,  22.05.2018,  Reiskirchen - Großen-Buseck 
 Abbildungsverzeichnis: 
-
 Abb. 1: Aufnahme der Unfallstelle ......................................................................................... 7
 
 
@@ -395,62 +298,16 @@ Tabelle  3:  Darstellung  und  Erläuterung  Diagnosedaten  ....................
 
 
 Seite 5 von 29 
- 
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
  
 Untersuchungsbericht 
+
 Bahnübergangsunfall,  22.05.2018,  Reiskirchen - Großen-Buseck 
 Abkürzungsverzeichnis
 
+
 AEG 
+
 Allgemeines Eisenbahngesetz 
 ALV Fb 
 Anlagenverantwortlicher Fahrbahn 
@@ -823,20 +680,19 @@ Seite 8 von 29
  
 Untersuchungsbericht 
 Bahnübergangsunfall,  22.05.2018,  Reiskirchen - Großen-Buseck 
-
 Mitgliedstaaten   der   Europäischen   Union   (EU)   in   Form   von  Sicherheitsempfehlungen  mitgeteilt.  
 2.3  
 Beteiligte  und  Mitwirkende  
 Im  Rahmen  der  Sachverhaltsermittlung  und  Ursachenerforschung  wurden  folgende  externe  
 Stellen  einbezogen:  
+
 Beteiligte:  
 •   DB  Netz  AG  (EIU)  
 •   HLB  Hessenbahn  GmbH  (EVU)  
+
 Für   das   Eisenbahninfrastrukturunternehmen   (EIU)   liegt   eine   Sicherheitsgenehmigung   gemäß   §   7c   Allgemeines   Eisenbahngesetz   (AEG)   des   Eisenbahn-Bundesamts   vom  
 13.09.2016  vor.  
-
 Das   EVU   verfügt   über   eine   Sicherheitsbescheinigung   gemäß   §   7a   AEG   des   Eisenbahn-
-
 Bundesamtes  vom  01.02.2016  und  ist  damit  zur  Teilnahme  am  Eisenbahnbetrieb  berechtigt.  
 Seite 9 von 29 
  
@@ -848,14 +704,14 @@ Seite 9 von 29
  
  
  
+
  
 Untersuchungsbericht 
+
 Bahnübergangsunfall,  22.05.2018,  Reiskirchen - Großen-Buseck 
 3 
 Ereignis 
-
 Im  ersten  Abschnitt  dieses  Kapitels  wird  der  Ereignishergang  beschrieben.  Dazu  ließ  sich 
-
 anhand  der  im  Kapitel  Untersuchungsprotokoll  aufgeführten  Beweismittel  und  Spuren  der 
 Hergang  rekonstruieren.  Des  Weiteren  werden  die  Folgeschäden  sowie  die  vorherrschenden Wetterbedingungen am Ereignistag dargestellt. 
 3.1 
@@ -864,21 +720,13 @@ Am  22.05.2018  verkehrte  der  DPN-G  24796  mit  einem  VT  642  der  HLB  Hes
 Grünberg (Oberhessen) in Richtung Gießen. Am Ereignisort befindet sich der technisch gesicherte BÜ 20 Großen-Buseck im km 11,138 der Strecke 3700. 
 Abb. 2: Lageplan des Ereignisortes 
 Quelle: Geobasisdaten: © GeoBasis-DE / BKG [2017], bearbeitet durch BEU 
-
 Der  Fahrer  eines  Lkw  befuhr  aus  Richtung  L  3128  kommend  in  Richtung  Industriegebiet  den  
-
 BÜ.  Bedingt  durch  einen  Rückstau  im  weiteren  Verlauf  der  Edekastraße  war  ein  vollständiges  Räumen  des  BÜ  durch  den  Sattelzug  nicht  möglich.  Während  dieses  verkehrsbedingten  
-
 Halts   auf   dem   BÜ   schaltete   sich   die   BÜ-Anlage   ein.   Der   Lkw-Fahrer   verließ   das   stehende  
-
 Fahrzeug   und   konnte   sich   rechtzeitig   in   Sicherheit   bringen.   Aufgrund   des   Streckenverlaufs  
-
 konnte  der  Tf  des  aus  Richtung  Reiskirchen  herannahenden  Zuges  24796  den  auf  dem  BÜ  
-
 befindlichen   Lkw   erst   sehr   spät   erkennen.   Er   leitete   nach   Erkennen   eine   Schnellbremsung  
-
 ein,  die  jedoch  die  Kollision  nicht  mehr  verhindern  konnte.  Der  Zug  kam  ca.  280  m  nach  dem  
-
 Zusammenprall z  um  Halten.  
 Seite 10 von 29 
  
@@ -935,14 +783,15 @@ Seite 10 von 29
  
  
  
+
  
 Untersuchungsbericht 
+
 Bahnübergangsunfall,  22.05.2018,  Reiskirchen - Großen-Buseck 
 Abb. 3: Luftbild des Ereignisortes 
 Quelle: Geobasisdaten: © GeoBasis-DE / BKG [2018], bearbeitet durch BEU 
 3.2  
 Todesopfer,  Verletzte  und  Sachschäden  
-
 Todesopfer  sind  keine  zu  beklagen.  Durch  die  Kollision  wurde  der  Tf,  die  Zugbegleiterin  sowie  ein  Reisender  schwer  verletzt.  Weitere  17  Personen  im  Zug  wurden  leicht  verletzt.  
 Anzahl Tote 
 Anzahl schwer   
@@ -1010,29 +859,19 @@ Gesamtschadenshöhe
 Tabelle 2: Übersicht der geschätzten Schadenshöhe 
 3.3  
 Wetterbedingungen  
-
 Zum   Ereigniszeitpunkt   war   es   leicht   bewölkt   und   trocken.   Es   herrschten   klare   Sichtverhältnisse.   
 4  
 Untersuchungsprotokoll  
-
 In   diesem   Kapitel   werden   die   ermittelten   Ergebnisse   zu   einzelnen   in   Zusammenhang   mit  
-
 dem   Ereignis   stehenden   Teilbereichen  des  Eisenbahnwesens  dargestellt.  Daneben  wurden  
-
 auch   die   entsprechenden   Schnittstellen   sowie   das   Sicherheitsmanagement   im   betroffenen  
-
 Bereich  betrachtet.  Die  jeweilig  relevanten  Feststellungen  werden  fortlaufend  aufgeführt.  
 4.1  
 Untersuchung  der  Infrastruktur  
-
 Der  BÜ  20  liegt  in  km  11,138  zwischen  den  Betriebsstellen  Reiskirchen  und  Großen-Buseck  
-
 auf  der  Strecke  Gießen  - Fulda.  Im  Verzeichnis  der  zulässigen  Geschwindigkeiten  (VzG)  der  
-
 DB  Netz  AG   wird   diese   Strecke   mit   Nummer  3700  geführt.  Bei  der  Strecke  handelt  es  sich  
-
 um  eine  eingleisige  Hauptbahn.   
-
 Der   BÜ   20   ist   gemäß   §  11  Abs.  6  Nr.   2  Eisenbahn-  Bau-  und   Betriebsordnung   (EBO)   technisch  mit  Lichtzeichen,  Halbschranken  und  akustischen  Signalgebern  ausgestattet.  
 Seite 12 von 29 
  
@@ -1055,30 +894,25 @@ Seite 12 von 29
  
  
  
+
  
 €
 Untersuchungsbericht 
+
 Bahnübergangsunfall,  22.05.2018,  Reiskirchen - Großen-Buseck 
 4.1.1  
 Beschreibung  des  Straßenverlaufes  
 Der  BÜ  kann  von  der  Landesstraße  L  3128  kommend  über  die  Edekastraße  befahren  werden.   Die   Straße   erschließt   ein   Industriegebiet.   Die   Edekastraße   verläuft   von   der   L  3128   in  
-
 Richtung  des  BÜ  in  einem  Gefälle.   
 Abb. 4: IVL-Plan des Ereignisortes 
 Quelle: Datengrundlage IVL-Pläne DB Netz AG [2018], bearbeitet durch BEU 
-
 Im  I.  Quadranten  mündet  die  Zeppelinstraße  und  im  IV.  Quadranten  die  Kasseler  Straße  in  
-
 die  Edekastraße.  Beide  Einmündungen  liegen  innerhalb  der  Räumstrecke  des  BÜ.   
-
 An   der   Einmündung   der   Zeppelinstraße   befindet   sich   zusätzlich   eine   Buswendeanlage   mit  
-
 Bushaltestelle.  Die  Zufahrt  befindet  sich  ebenfalls  innerhalb  der  Räumstrecke.   
 4.1.2  
 Verkehrssituation   
-
 Auf  dem  BÜ  herrscht  starker  Verkehr  von  >2500  Kfz/Tag.  Es  befinden  sich  einige  Lkw  Verladezonen   innerhalb   des   Gewerbegebietes.   Diese   bewirken   einen   hohen   Anteil   an   Lkw-
-
 Lieferverkehr  über  den  BÜ  und  die  das  Gewerbegebiet  anbindende  Edekastraße.  Durch  ein- 
 und  ausfahrende  Lkw  in  das  Edeka-Zentrallager,  sowie  parkende  und  wartende  Fahrzeuge  
 Seite 13 von 29 
@@ -1099,29 +933,25 @@ Seite 13 von 29
  
  
  
+
  
 Untersuchungsbericht 
+
 Bahnübergangsunfall,  22.05.2018,  Reiskirchen - Großen-Buseck 
 kann  es  in  der  Edekastraße  zu  Verzögerungen  im  Verkehrsfluss  kommen.  Diese  können 
 Auswirkungen  bis  in  den  Räumbereich  des  BÜ  haben.  Nachfolgende  Verkehrsteilnehmer 
 müssen  gemäß  StVO  deshalb  vor  dem  BÜ  halten  bis  sichergestellt  ist,  dass  der  BÜ  vollständig geräumt werden kann. Durch das Halten vor dem BÜ wird jedoch der Kreuzungsbereich  mit  der  Kasseler  Straße  und  der  Zeppelinstraße  belegt.  Der  verunfallte  Lkw  hat  aus 
-
 Richtung der L 3128 den vorgenannten Kreuzungsbereich und anschließend den BÜ befahren.  Er  konnte  diesen  jedoch  verkehrsbedingt  nicht  vollständig  räumen.  Welche  konkrete 
 Verkehrssituation  am  Ereignistag  im  Verlauf  der  Edekastraße  die  Weiterfahrt  des  Lkw verhinderte, konnte im Nachhinein nicht mehr rekonstruiert werden. 
 4.1.3 
 Betrachtung des BÜ rechts der Bahn (rdB) (Quadranten I & IV) 
-
 Das  Andreaskreuz  (Z  201)  war  zum  Unfallzeitpunkt  auf  beiden  Seiten  in  Blickrichtung  der 
-
 zulaufenden  Edekastraße  angebracht.  Auf  jeder  Seite  der Straße waren jeweils zwei Lichtzeichen für die Edekastraße selbst sowie jeweils ein zusätzliches Lichtzeichen mit Abbiegepfeil für die Annäherung aus Richtung der Zeppelinstraße und der Kasseler Straße vorhanden. In ausreichender Entfernung zum BÜ (an der L 3128) stand ein Verkehrszeichen Z 151 
-
 („Bahnübergang“)  mit  Richtungspfeil.  Vor  dem  BÜ  war  im  Abstand  von  ca.  80  m  auf  jeder 
-
 Straßenseite  eine  einstreifige  Bake  vorhanden.  Vor  der  Einmündung  der  Kasseler  Straße 
 befand sich auf der Edekastraße eine Haltelinie Z 294 sowie nochmals das Verkehrszeichen 
 Z  151,  hier  jedoch  mit  dem  Zusatz „bei Rot  hier  Halten“.  Unmittelbar  vor dem BÜ bzw. vor 
 der Halbschranke war auf der Edekastraße keine weitere Haltelinie vorhanden. 
-
 Die  Einmündung  der  Zeppelinstraße  war  ebenfalls  mit  einer  Haltelinie  Z  294  versehen.  Etwas rückwärtig zu dieser Haltelinie, vor Beginn der Buswendeanlage befand sich in der Zeppelinstraße  das  Verkehrszeichen  Z  205  (Vorfahrt  gewähren).  Das  Verkehrszeichen  Z 201 
 (Andreaskreuz)  war  links  der  Zeppelinstraße  mit  Richtungspfeil  links  zum  BÜ  vorhanden. 
 Lichtzeichen mit Abbiegepfeil sind am gegenüberliegenden Lichtzeichenmast angebracht. 
@@ -1325,11 +1155,12 @@ Seite 14 von 29
  
  
  
+
  
 Untersuchungsbericht 
+
 Bahnübergangsunfall,  22.05.2018,  Reiskirchen - Großen-Buseck 
 kehr war eine Halbschranke, für den Fußweg eine Fußwegschranke vorhanden. Die Haltelinie  Z 294  vor  der  Schranke  war  verblichen  bzw.  teilweise  abgefahren,  in  ihrer  Bedeutung 
-
 jedoch  noch  ausreichend  erkennbar.  In  Höhe  der  Haltelinie  befand  sich  zudem  rechts  der 
 Straße das Verkehrszeichen Z 301, das dem Geradeausverkehr auf der Edekastraße Richtung L 3128 an der dem BÜ nachfolgenden Kreuzung mit der Zeppelin- und Kasseler Straße 
 Vorfahrt  gewährt.  In  ausreichender  Entfernung  vor  dem  BÜ  befand  sich  das  Verkehrszeichen Z 151 einseitig rechts der Straße mit ein-streifiger Bake und dem Zusatzschild „75 m“. 
@@ -1349,9 +1180,7 @@ Betrachtung weiterer Gefahrenpunkte am BÜ
 Im Rahmen der Unfalluntersuchung wurde der gesamte BÜ hinsichtlich seiner Übereinstimmung  mit  den  gesetzlichen  und  untergesetzlichen  Vorgaben  untersucht.  Dabei  wurden  die 
 im  Folgenden  aufgeführten  Sachverhalte  erkannt,  die  nicht  dem  Regelwerk  des  Infrastrukturbetreibers entsprechen. Diese Mängel sollten im Rahmen von regelmäßigen Inspektionen 
 und Verkehrsschauen erkannt und beseitigt werden. Gemäß Ril 815.0040 Abschn. 2 Abs. 9, 
-
 sind  Mängel  an  BÜ  hinsichtlich  der  Dringlichkeit  für  deren  Beseitigung  zu  unterscheiden  in 
-
 solche, die in der Regel 
 -
 -
@@ -1515,8 +1344,10 @@ Seite 15 von 29
  
  
  
+
  
 Untersuchungsbericht 
+
 Bahnübergangsunfall,  22.05.2018,  Reiskirchen - Großen-Buseck 
 Zu  B)  
 Zu  A)  
@@ -1562,15 +1393,16 @@ Seite 16 von 29
  
  
  
+
  
 Untersuchungsbericht 
+
 Bahnübergangsunfall,  22.05.2018,  Reiskirchen - Großen-Buseck 
 A) Buswendeplatte mit Bushaltestelle in Q I 
 Abb. 6: Luftbild der Buswendeplatte mit Buseinfahrt (weiß) 
 Quelle: Geobasisdaten: © GeoBasis-DE / BKG [2018], bearbeitet durch BEU 
 Die  Linienbusse  kommen  aus  Richtung  der  L 3128 um dann unmittelbar vor dem BÜ nach 
 links in die Buswendeplatte einzufahren (Abbildung oben, weißer Pfeil). Der Bereich der Zufahrt  befindet  sich  bereits  innerhalb  der  freizuhaltenden  Räumstrecke  des  BÜ.  Die  Einfahrt 
-
 der Busse wird sowohl durch regelwidrig abgestellte Fahrzeuge im Bereich der Wendeplatte 
 behindert  als  auch  durch  wartende  Fahrzeuge  an  der  Haltelinie  der  Zeppelinstraße.  Durch 
 die Behinderung der Buseinfahrt in die Wendeplatte könnte wiederum der Verkehr aus dem 
@@ -1644,8 +1476,10 @@ Seite 17 von 29
  
  
  
+
   
 Untersuchungsbericht 
+
 Bahnübergangsunfall,  22.05.2018,  Reiskirchen - Großen-Buseck 
 Abb. 7: Blockierte Räumung des BÜ innerhalb der Räumstrecke durch Gelenkbus 
 Gemäß der Tabelle „Gefahrenpunkte und deren Regelbeurteilung“ der Ril 815.0040 werden 
@@ -1684,26 +1518,21 @@ Seite 18 von 29
  
  
  
+
  
 Untersuchungsbericht 
+
 Bahnübergangsunfall,  22.05.2018,  Reiskirchen - Großen-Buseck 
 B)  Linksabbiegebeziehung  in  Q  IV  
 Abb. 8: Luftbild der Linksabbiegebeziehung in die Kasseler Straße (rot) 
 Quelle: Geobasisdaten: © GeoBasis-DE / BKG [2018], bearbeitet durch BEU 
-
 Aus   Richtung   Industriegebiet   auf   der   Edekastraße   kommend  ist  unmittelbar  nach  Befahren  
-
 des  BÜ  das  Linksabbiegen  in  die  Kasseler  Straße  möglich.  Eine  entsprechende  Verbotsbeschildung   existiert   nicht.   Ein   vorgeschaltetes   Lichtzeichen   für   die   Gegenrichtung   ist   nicht  
-
 vorhanden.   
 Die  in  dieser  Relation  verkehrenden  Fahrzeuge  befinden  sich  beim  Warten  auf  den  Gegenverkehr  innerhalb  der  Räumstrecke  bzw.  im  Gefahrenbereich  des  BÜ.  Das  zur  Absicherung  
-
 dieser   Verkehrssituation   für   den   bevorrechtigten   Gegenverkehr   vorhandene   Zusatzschild  
-
 „Bei  Rot  hier  Warten“  verhindert  nicht  die  Anfahrt  des  Gegenverkehrs  bis  zum  Andreaskreuz  
-
 solange   die   Anlage   ausgeschaltet   ist.   Da   bei   Einschalten   dann   keine   Weiterfahrt   des   Gegenverkehrs   mehr   möglich   ist,   behindern   diese   wartenden   Fahrzeuge   die   Linksabbieger   in  
-
 der   Räumung   des   BÜ.   Das   vorhandene   Zusatzschild   ist   daher   nicht   geeignet,   den   Gefahrenpunkt  ausreichend  zu  entschärfen.   
 Seite 19 von 29 
  
@@ -1725,16 +1554,14 @@ Seite 19 von 29
  
  
  
+
  
 Untersuchungsbericht 
+
 Bahnübergangsunfall,  22.05.2018,  Reiskirchen - Großen-Buseck 
-
 Gemäß   der   Tabelle   „Gefahrenpunkte   und   deren   Regelbeurteilung“   der   Ril   815.0040   sind  
-
 deshalb  ungesicherte  Linksabbiegebeziehungen  innerhalb  der  Räumstrecke  im  starken  Verkehr   über   den   BÜ   als   konkrete   Gefahr   einzuordnen,   welche   mit   einer   betrieblichen   Sofortmaßnahme  zu  sichern  sind  (s.  Abb.  5,  Marker  B).  
-
 Eine   betriebliche   Sofortmaßnahme   zur   Entschärfung   dieser   Verkehrssituation   wurde   nach  
-
 dem  Unfallereignis  seitens  der  DB  Netz  AG  angeordnet.   
 4.1.7  
 Feststellung  zur  Untersuchung  der  Infrastruktur  
@@ -1750,20 +1577,14 @@ Durch   die   zulässige   Linksabbiegebeziehung   in   die   Kasseler   Straße
 Untersuchung  der  Leit- und  Sicherungstechnik  
 Der   BÜ   20   wird   durch   eine   Bahnübergangssicherungsanlage   (BÜSA)   der   Bauform  
 RBÜT  LzH/2F-ÜS  der  Firma  Pintsch  Bamag  gesichert.  Es  handelt  sich  um  eine  rechnergesteuerte   Bahnübergangssicherungstechnik   (RBÜT),   bei   der   ein   Überwachungssignal   (ÜS)  
-
 dem   Tf   die   sichere   Einschaltung   der   BÜSA   mitteilt.   Die   weitere   Ausrüstung   besteht   aus  
-
 Lichtzeichen   (Lz)   und   Halbschranken   (H)   für  den  Straßenverkehr,  zwei  separaten  Fußwegschranken  (2F)  und  zusätzlicher  Fußgängerakustik.  
-
 Die  Strecke  3700  ist  im  betroffenen  Abschnitt  mit  dem  digitalen  Zugfunk  GSM-R  ausgestattet.  Das  Zugsicherungssystem  Punktförmige  Zugbeeinflussung  (PZB)  ist  vorhanden.   
 4.2.1  
 Funktionsweise  der  BÜSA  im  Regelbetrieb  
 Die  Ein- und  Ausschaltung  der  Anlage  erfolgt  im  Regelfall  zugbewirkt.  Für  Bedienungsfahrten  und  Sonderfälle  ist  auch  eine  handbewirkte  Einschaltung  möglich.  Die  zugbewirkte  Einschaltung   erfolgt   (in   Fahrtrichtung   des   Unfallzuges   gesehen)   am   Einschaltkontakt   in  
-
 km  12,456.   Am   Einschaltkontakt   befindet   sich   das   Signal   Bü2   (Rautentafel),   das   dem   Tf  
-
 mitteilt,  dass  ein  Überwachungssignal  (ÜS)  zu  erwarten  ist.  Der  Zeitpunkt  an  dem  der  Bahnübergang   als   gesichert   angesehen   werden   kann   und   die   ÜS   freigegeben   werden   wird   als  
-
 Seite 20 von 29 
  
   
@@ -1966,8 +1787,10 @@ Seite 21 von 29
  
  
  
+
  
 Untersuchungsbericht 
+
 Bahnübergangsunfall,  22.05.2018,  Reiskirchen - Großen-Buseck 
 Abläufe der Anlage während einer Zugfahrt. In nachfolgender Tabelle sind auszugsweise die 
 wichtigsten Sachverhalte dargestellt und erläutert: 
@@ -2002,19 +1825,12 @@ Störungsmeldung von Schranke 2, die bei der
 unzulässig verlassen 
 Kollision zerstört wird 
 Tabelle 3: Darstellung und Erläuterung Diagnosedaten 
-
 Der   Bahnübergang   wurde   nach   Befahren   des   Einschaltkontaktes   durch   Zug   24796   ordnungsgemäß   eingeschaltet.   Nach   Aufleuchten   der   Gelb   –   und   anschließend   der   Rotlichter  
-
 für  den  Straßenverkehr  wurde  dem  Tf  das  Signalbild  BÜ  1  signalisiert.  Der  1000  Hz-Magnet  
-
 war  inaktiv  geschaltet.  Der  Zug  fuhr  am  ÜS  ohne  Beeinflussung  aus  der  PZB  vorbei.  Während   der   weiteren   Annäherung   senkten   sich   die   Schrankenbäume.   Bedingt   durch   den   auf  
-
 dem  BÜ  stehenden  Sattelzug  konnte  sich  die  Schranke  1  nicht  bis  in  Endlage  senken.  Nach  
-
 einer   internen   Detektionszeit   ging   die   Anlage   in   Störstellung.   Das   bereits   durch   den   Zug  
-
 passierte  ÜS  in  km  12,150  mit  dem  Signalbild  BÜ  1  erloscht  wieder.  Eine  Rückmeldung  der  
-
 Seite 22 von 29 
  
   
@@ -2110,44 +1926,32 @@ Seite 22 von 29
  
  
  
+
  
 Untersuchungsbericht 
+
 Bahnübergangsunfall,  22.05.2018,  Reiskirchen - Großen-Buseck 
-
 Störung  an  den  sich  bereits dem  BÜ  nähernden  Zug  erfolgt  nicht  mehr.  Der  ÜSW  2a  in  km  
-
 11,153  wird  zeitgleich  mit  ausgeschaltet,  jedoch  hatte  der  Zug  zu  diesem  Zeitpunkt  den  BÜ  
-
 fast   erreicht.   Ein   Anhalten   des  Zuges  vor   dem   Kollisionspunkt   war   technisch   nicht   mehr  
-
 möglich.  
 4.2.5  
 Feststellung  zur  Untersuchung  der  Leit- und  Sicherungstechnik  
 3  
-
 Die   Überprüfung   der   Leit-  und   Sicherungstechnik   ergab   keine   Hinweise   auf   Mängel.  
-
 Einflüsse  aus der  Leit- und  Sicherungstechnik  sind  somit  weder  als ereignisursächlich  
 noch  als ereignisbegünstigend  einzustufen. 
 4.3  
 Untersuchung  der  betrieblichen  Abläufe  des  EIU  
-
 Die   Betriebsabwicklung   auf   der   Strecke   wird   nach   den   Bestimmungen   der   Fahrdienstvorschrift  DB  Netz  AG,  Ril 4  08  durchgeführt.  
 Der  zuständige  Fahrdienstleiter  (Fdl)  im  elektromechanischen  Stellwerk  E  43  des Bahnhofs 
-
 Großen-Buseck   besaß   die   für   den   dortigen   Einsatz   erforderliche   Ausbildung,   Zusatzqualifikation  und  Tauglichkeit.  Die  entsprechenden  Nachweise  wurden  vorgelegt.   
 Die  Zugfahrt  24796  wurde  regelkonform  durchgeführt.  
-
 Der  Fdl  hat  bei  der  Überwachungsart  „ÜS“  keinen  Einfluss auf  die  BÜSA.  Der  Fdl  erhält  keine   Meldungen   über   den   aktuellen   Zustand   der   Anlage.   Störungen   werden   nur   an   den   Tf  
-
 über  das ÜS  signalisiert.  Dieser  hat  bei  Störungen  an  der  Anlage  (Signal  Bü0)  den  Fdl  über  
-
 Zugfunk  zu  informieren  (Ril  408.2671  Abschn.  2  Abs.  9).  In  diesem  Fall  verständigt  der  Fdl  
-
 dann  die  für  die  Entstörung  zuständige  Stelle.  Ein  direktes Eingreifen  des Fdl  bei  Störungen  
-
 des BÜ  ist  bei  dieser  Sicherungsart  nicht  vorgesehen.  Die  Sicherung  des BÜ  bei  Störungen  
-
 übernimmt  bei  diesem  Anlagentyp  der  Tf  entsprechend  dem  technischen  Ausrüstungsstand  
 der  Anlage  und  den  Vorgaben  der  Ril 4  08.   
 Störungsinformationen   bezüglich   des  Bahnübergangs  standen   beim   zuständigen   Fdl   vor  
@@ -2167,50 +1971,30 @@ Seite 23 von 29
 Bahnübergangsunfall,  22.05.2018,  Reiskirchen - Großen-Buseck 
 4.4  
 Untersuchung  der  betrieblichen  Abläufe  des  EVU  
-
 Nachfolgend   werden   die   personellen   Voraussetzungen   zum   Führen   von   Triebfahrzeugen,  
-
 der  betriebliche  Ablauf  der  Zugfahrt  24796  sowie  die  Fahrdatenauswertung  des  betroffenen  
-
 Eisenbahnfahrzeuges  „Desiro“  betrachtet.  
 4.4.1  
 Personelle  Qualifikation  und  Tauglichkeit  
 Der  Tf  war  im  Besitz  eines  gültigen  Eisenbahnfahrzeug-Führerscheins  und  des  dazugehörigen  Beiblatts  der  HLB  Hessenbahn  GmbH.  Der  Tf  war  auf  dem  betroffenen  Abschnitt  streckenkundig.  Ein  aktueller  Tauglichkeitsnachweis  wurde  vorgelegt.  Der  Tf  erhielt  im  November   2015   die   Befähigung   zum   Führen   des   Fahrzeugtyps   Baureihe   642   „Desiro“.   Die   letzte  
-
 nachgewiesene   jährlich   durchzuführende   Überprüfung   des   Tf   bei   der   Dienstausübung   fand  
-
 im  August  2017  statt.  Für  2018  lag  noch  kein  Nachweis  vor.  Fortbildungsnachweise  wurden  
-
 nur   für   die   Jahre   2015   und   2016   vorgelegt.   Die   Durchführung   des   Fortbildungsunterrichtes  
-
 2017   wurde   auf   den   Beginn   des   Jahres   2018   verschoben,   war   bis   zum   Ereignistag   jedoch  
-
 nicht  nachgewiesen.  Die  Neuerungen  im  Regelwerk  wurden  den  Personalen  jedoch  ersatzweise   mit   Weisung   915/2017   vom   10.12.2017   durch   die   HLB   Hessenbahn   GmbH   bekannt  
-
 gegeben.  Da  seitens  des  Tf  keine  betriebliche  Fehlhandlung  vorlag,  hatte  der  fehlende  Fortbildungsunterricht  für  2017  keine  Auswirkungen  auf  das  Unfallgeschehen.  Im  Übrigen  waren  
-
 die  Anforderungen  der  §§  48  und  54  EBO  erfüllt.  
 4.4.2  
 Betrieblicher  Ablauf  
-
 Die   Zugfahrt   des   DPN-G   24796   fand   im   Regelgleis   und   auf   Hauptsignal   statt.   Nach   dem  
-
 letzten  Verkehrshalt  im  Bahnhof  Reiskirchen  befuhr  der  Tf  die  eingleisige  Strecke  von  Reiskirchen   nach   Großen-Buseck.   Die   nach   Fahrplan   zulässige  Höchstgeschwindigkeit  des  Zuges  von  V  =  110  km/h  wurde  dabei  nicht  überschritten.  Nach  dem  Befahren  des  Einschaltkontaktes  in  km  12,456  erhielt  der  Tf  am  folgenden  ÜS  2a  in  km  12,150  das  Signalbild  Bü  1.  
-
 Der   Bahnübergang   konnte   daher   entsprechend   Ril   301.1501   Abschn.   3   Abs.   1   ohne   Einschränkungen   befahren   werden.   Der   Tf   beschleunigte   den   Zug   noch   leicht   bis   auf   max.  
-
 108  km/h.  In  Erwartung  des  nächsten  Haltebahnhofs  Großen-Buseck  leitete  der  Tf  im  Zulauf  
-
 auf   das   Einfahrvorsignal   f   des   Bahnhofs   Großen-Buseck   in   km   11,260   eine   Betriebsbremsung   ein.   Die   Geschwindigkeit   fiel   leicht.   Das   Vorsignal   zeigte   das   Signalbild   „Vr1“   (Fahrt  
-
 erwarten).   Bedingt   durch   den   Linkbogen   war   erst   kurz   nach   Passieren   des   Vorsignals   der  
-
 Blick   auf   den   Gefahrenraum   des   BÜ   möglich.   Mit   Erkennen   des   Hindernisses   in   seinem  
-
 Fahrweg  leitete  der  Tf  eine  Schnellbremsung  ein.  Der  Zusammenprall  mit  dem  Lkw  erfolgte  
-
 gemäß   der   im   Folgenden   ausgewerteten   EFR-Aufzeichnung   bei   einer  Geschwindigkeit  von  
-
 Seite 24 von 29 
  
   
@@ -2221,8 +2005,10 @@ Seite 24 von 29
  
  
  
+
  
 Untersuchungsbericht 
+
 Bahnübergangsunfall,  22.05.2018,  Reiskirchen - Großen-Buseck 
 ca.  97 km/h.  Ein  rechtzeitiges  Anhalten  vor  dem  Kollisionspunkt  war  dem  Tf  des  DPNG 24796 aufgrund der (zulässigen) Geschwindigkeit und dem daraus resultierenden Bremsweg nicht möglich. 
 Die  Stellungnahme  des  Tf  zum  Unfallgeschehen  gegenüber  seinem  Arbeitgeber  liegt  vor 
@@ -2326,26 +2112,16 @@ Seite 25 von 29
 Untersuchungsbericht 
 Bahnübergangsunfall,  22.05.2018,  Reiskirchen - Großen-Buseck 
 Abb. 9: Tabellarische Darstellung der EFR-Daten 
-
 Das   PZB-Fahrzeuggerät   war   eingeschaltet   (Spur   E),   der   Führerstand   1   besetzt   (Spur   1).  
-
 Entsprechend  den  vorhandenen  Bremshundertstel  war  die  obere  Zugart  eingestellt  (Spur  O).  
-
 Eine  Beeinflussung  am  1000  Hertz-Magneten  am  ÜS  2a  ist  nicht  registriert.  Das  Signal  zeigte   wie   zuvor   beschrieben   demnach   das   Signal   BÜ   1   (Bü   darf   befahren   werden).   Auch   am  
-
 folgenden   Einfahrvorsignal   des   Bahnhofs   Großen-Buseck  
 ist   keine   1000  Hertz-
-
 Beeinflussung   registriert,   das   Signal   zeigte   „Fahrt   erwarten“.   Nach   Erkennen   der   gefährlichen  Situation  und  unter  Berücksichtigung  einer  angemessenen  Reaktionszeit  leitete  der  Tf  
-
 eine  Schnellbremsung  ein.  Nach  einer  bei  diesen  Fahrzeugen  eher  kurzen  Ansprechzeit  des  
-
 Bremssystems   ist  entsprechend  ab  ca.  20  m  vor  dem  BÜ  die  Spur  „L“  nicht  mehr  gezeichnet.   Das   Einsetzen   einer   stärkeren   Bremsverzögerung   ist   in  der  grafischen  Darstellung  vor  
-
 der   Kollision   jedoch   kaum   mehr   erkennbar.   Die   Aufzeichnung   endet   mit   der   Kollision   bei  
-
 97  km/h.  Die  weiteren  Fahrbewegungen  bis  zum  Stillstand  sind  nicht  mehr  aufgezeichnet.   
-
 Seite 26 von 29 
  
   
@@ -2360,8 +2136,10 @@ Seite 26 von 29
  
  
  
+
  
 Untersuchungsbericht 
+
 Bahnübergangsunfall,  22.05.2018,  Reiskirchen - Großen-Buseck 
 Abb. 10: Grafische Darstellung der EFR-Daten 
 4.4.4  
@@ -2373,15 +2151,10 @@ weder  als  ereignisursächlich  noch  als  ereignisbegünstigend  einzustufen.
 
 4.5  
 Untersuchung  von  Eisenbahnfahrzeugen   
-
 Bei  dem  betroffenen  Triebfahrzeug  95  80  0642  403-9  handelt  es  sich  um  einen  zweiteiligen  
-
 Dieseltriebzug   der   Baureihe   642   „Desiro“.   Fahrzeughalter   ist   das   EVU   HLB   Hessenbahn  
-
 GmbH   mit   Sitz   in   Frankfurt   (M).   Die   für   die   Instandhaltung   zuständige   Stelle   ist   das   EVU  
-
 selbst.   Die   Nachweise   der   letzten   Instandhaltung   wurden   vorgelegt.   Mängel   sind   nicht   erkennbar.   Entsprechend   dem   in   der   EFR   registrierten   Fahrverhalten   gibt   es   keinen   Hinweis  
-
 auf  eine  fahrzeugseitige  Bremsstörung  oder  Störung  der  PZB-Fahrzeugeinrichtung.  
 Seite 27 von 29 
  
@@ -2407,17 +2180,13 @@ Nach § 4 Abs. 3 AEG haben die Eisenbahnen die Verpflichtung, an Maßnahmen des 
 Innenministerien  der  Länder  und  der  DB  AG  hat  man  sich  auf  eine  Verfahrensweise  verständigt. Für die DB Netz AG gelten die entsprechenden Brand- und Katastrophenschutzgesetze der Länder. Das Notfallmanagement der DB AG ist in der Ril 423 näher beschrieben 
 und geregelt. 
 Über  das  Herbeirufen  der  Rettungs-,  Hilfs- und  Polizeikräfte  sowie  der  Evakuierungsmaßnahmen sind keine Unregelmäßigkeiten bekannt geworden. Bei diesem Ereignis erfolgte die 
-
 Benachrichtigung  der  Erstrettungskräfte  (Feuerwehr,  Notarzt)  durch  die  Notfallleitstelle  der 
-
 DB  Netz  AG,  der  Notfallmanager  war  innerhalb  der  vorgegebenen  Zeit  am  Unfallort.  Aus 
 diesen Gründen wurde auf Untersuchungen hinsichtlich des Notfallmanagements verzichtet. 
 5 
 Auswertung und Schlussfolgerungen 
 Bedingt  durch  starken  Zulieferverkehr  und  den  damit  erforderlichen  Fahrzeugbewegungen 
-
 gerät  im  Verlauf  der  Edekastraße  in  Richtung  des  Industriegebiets  der  Straßenverkehr  ins 
-
 Stocken.  Dadurch  besteht  die  Gefahr  eines  Rückstaus  in  Richtung  BÜ.  Mit  großer  Wahrscheinlichkeit  begünstigte  eine  derartige  rückstaubedingte  Verkehrssituation  das  Unfallereignis. Der Lkw befuhr den BÜ ohne sicherzustellen, dass dieser wieder vollständig geräumt 
 werden  konnte.  Die  genaue  Verkehrslage  vor  dem  verunfallten  Lkw ließ  sich  von  der  BEU 
 nicht mehr rekonstruieren. 
@@ -2571,8 +2340,10 @@ Seite 28 von 29
  
  
  
+
  
 Untersuchungsbericht 
+
 Bahnübergangsunfall,  22.05.2018,  Reiskirchen - Großen-Buseck 
 6 
 Bisher getroffene Maßnahmen 

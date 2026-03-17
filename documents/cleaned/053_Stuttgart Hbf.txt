@@ -104,6 +104,7 @@ Untersuchung der Infrastruktur .................................................
 
 
  0 
+
  1 
  1.1 
  1.2 
@@ -121,7 +122,6 @@ Untersuchung der Infrastruktur .................................................
  4.2 
  4.3 
 4.3.1 
-
 Allgemeine Angaben zur Infrastruktur ................................................................. 18
 
 
@@ -136,6 +136,7 @@ Instandhaltung .................................................................
 
 
  4.4 
+
  4.5 
 Untersuchung der Leit- und Sicherungstechnik................................................... 30
 
@@ -164,48 +165,10 @@ Fahrzeughistorie ...............................................................
 
 
 Seite 3 von 53 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
 Untersuchungsbericht 
 Zugentgleisung,  24.07. u. 29.09.2012,  Stuttgart Hbf 
 4.6.2 
-
 Anforderungen an Puffer ..................................................................................... 35
 
 
@@ -225,6 +188,7 @@ Ergebnis analytischer Untersuchungen ...........................................
 
 
 5 
+
 5.1 
 5.2 
 5.3 
@@ -253,11 +217,7 @@ Sicherheitsempfehlungen.........................................................
 
 
 Seite 4 von 53 
- 
- 
- 
- 
- 
+
  
  
  
@@ -281,9 +241,9 @@ Seite 4 von 53
  
  
 Untersuchungsbericht 
+
 Zugentgleisung,  24.07. u. 29.09.2012,  Stuttgart Hbf 
 Abbildungsverzeichnis: 
-
 Abb. 1: Entgleister IC 2312 am 24.07.2012 ...........................................................................10
 
 
@@ -339,11 +299,7 @@ Abb. 18: Prinzipskizze .........................................................
 
 
 Seite 5 von 53 
- 
- 
- 
- 
- 
+
  
  
  
@@ -361,6 +317,7 @@ Seite 5 von 53
  
  
 Untersuchungsbericht 
+
 Zugentgleisung,  24.07. u. 29.09.2012,  Stuttgart Hbf 
 Abkürzungsverzeichnis 
 AEG 
@@ -431,6 +388,7 @@ VV IST
 Sicherheitsbehörde 
 Sicherheitsmanagementsystem 
 Transeuropäisches Eisenbahnnetz 
+
 Verwaltungsvorschrift  über  die  Bauaufsicht  im  Ingenieurbau,  Oberbau  und 
 Hochbau 
 
@@ -442,16 +400,16 @@ Seite 7 von 53
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  24.07. u. 29.09.2012,  Stuttgart Hbf 
 0 
 Einleitung 
 Der Untersuchungsbericht bezieht sich auf die Zugentgleisungen der IC 2312 am 24.07.2012 
 sowie am 29.09.2012. Beide Entgleisungen ereigneten sich nahezu zur gleichen Uhrzeit bei 
-
 der  Ausfahrt  aus  Gleis  10  des  Stuttgarter  Hauptbahnhofs.  Des  Weiteren  beinhaltet  der  Bericht  auch  Erkenntnisse  aus  der  Entgleisung  einer  Versuchsfahrt  aus  Gleis  10  in  Stuttgart 
-
 Hbf am 09.10.2012. 
 Ausführungen, die sich speziell auf eine der oben genannten Entgleisungen beziehen, sind 
 im Text besonders hervorgehoben. 
@@ -472,9 +430,7 @@ Es entgleisen das schiebende Triebfahrzeug 91 80 6 101 058-6 mit allen Achsen so
 beiden davor laufenden Wagen 61 80 889 0 519-4 und 51 80 849 0 014-2 mit beiden Drehgestellen. Außerdem werden der Oberbau sowie signaltechnische Anlagen im Entgleisungsbereich erheblich beschädigt. 
 Entgleisung am 29.09.2012 
 Bei  der  Entgleisung  wurden  8  Personen  verletzt.  Es  entgleisen  das  schiebende  Triebfahrzeug 91 80 6 101 037-0 mit allen Achsen sowie die Wagen 61 80 189 5 413-0 und 61 80 199 
-
 1  185-7  mit  beiden  Drehgestellen.  Der  an  9.  Position  laufende  Wagen  61  80  889  0  510-3 
-
 entgleist  mit  dem  nachlaufenden  Drehgestell.  Durch  die  Entgleisung  werden  ein  Oberleitungsmast und die elektrotechnischen Anlagen teilweise stark beschädigt bzw. zerstört. Der 
 Oberbau und die signaltechnischen Anlagen, insbesondere die Weiche 227, werden erheblich beschädigt. 
 Seite 8 von 53 
@@ -491,9 +447,7 @@ Ursachen
 Anhand der im Zuge der Ermittlung gewonnenen Erkenntnisse ist davon auszugehen, dass 
 die  Entgleisungen  primärursächlich  auf  ein  Versagen  von  Puffern  an  den  im  Zugverband 
 laufenden WRmz - Wagen und / oder von unmittelbar benachbarten Wagen zurückzuführen 
-
 sind,  wobei  die  Federkennlinien  der  Puffer  außerhalb  der  festgelegten  Bereiche  lagen  und 
-
 die zugelassenen Anfahrdruckkräfte zu hoch waren, sowie infrastrukturseitige Einflüsse, der 
 ausgereizten örtlichen Trassierung, begünstigend wirkten. 
 Entgleisung am 24.07.2012 
@@ -556,15 +510,21 @@ Beteiligte und Mitwirkende
 An dem Ereignis waren folgende Eisenbahnunternehmen beteiligt: 
   DB Netz AG (Eisenbahninfrastrukturunternehmen) 
 
+
   DB Fernverkehr AG (Eisenbahnverkehrsunternehmen) 
 
+
 Im  Rahmen  der  Sachverhaltsermittlung  und  Ursachenerforschung  wurden folgende externe 
+
 Stellen einbezogen: 
   Deutsche Bahn AG; Sicherheit; Zentrale Auswertestelle Nürnberg (ZAS). 
 
+
   DB Systemtechnik GmbH 
 
+
   AXTONE GmbH 
+
 3 
 Ereignis 
 3.1 
@@ -572,15 +532,11 @@ Hergang
 Entgleisung am 24.07.2012 
 IC  2312  fährt  um  11:36:45  Uhr  laut  EFR  des  führenden  Steuerwagens  61  80  80-91  127-3 
 aus Gleis 10 auf Hauptsignal (Asig N 531) in Richtung Stuttgart Zuffenhausen aus. Das Signalbild  zeigt  „Hp2“.  Die  eingestellte  Fahrstraße  führt  über  die  Weichen  211,  218,  227, 228, 
-
 230 und 212. 
 Abb. 3: Lageplan Stuttgart Hbf mit skizzierter Darstellung der Ausfahrzugstraße 
 Der  Zug  wird  kontinuierlich vom Stillstand im Gleis 10 am Bahnsteig 5 bis auf 29 km/h beschleunigt.  Dabei  legt  der  führende  Steuerwagen  eine  Fahrstrecke  von  545  m  zurück.  Anschließend  fällt  die  Geschwindigkeit  bei  einer  durchfahrenen  Strecke  von  50  m  bis  auf  0 
-
 km/h  ab.  Das  führende  Fahrzeug  kommt  nach  595  m  um  11:39:03  Uhr  zum  Stehen.  Zug 
-
 2312  entgleist  zuerst  mit  den  Wagen  51  80  84-90  014-2  (Bimdz,  268.5)  und  Wagen  61  80 
-
 Seite 12 von 53 
  
  
@@ -592,23 +548,21 @@ Seite 12 von 53
  
  
 
+
 Untersuchungsbericht 
+
 Zugentgleisung,  24.07. u. 29.09.2012,  Stuttgart Hbf 
 88-90  519-4  (WRmz  134.5)  im  Bereich des rechtens Radlenkers der Weiche 227. In Folge 
 der  Entgleisung  beider  Radsätze  des  voraus  laufenden  Drehgestells  des  WRmz  sowie  der 
 Radsätze  des  nach  laufenden  Drehgestells  des  Bimdz  entgleisen  auch  die  Radsätze  der 
 weiteren Drehgestelle der betroffenen Wagen. Außerdem entgleist das am Schluss des Zugverbandes schiebende Triebfahrzeug 91 80 6 101 058-6 mit allen Radsätzen. Der in Fahrtrichtung des Zuges rechte vordere Puffer des WRmz wird nach der Entgleisung abgeknickt 
-
 vorgefunden.  Der  in  Fahrtrichtung  des  Zuges  hintere  rechte  Puffer  des  Bimdz  weist  starke 
-
 Beschädigungen auf. 
 Entgleisung am 29.09.2012 
 IC  2312  fährt  um  11:41:06  Uhr  laut  EFR  des  führenden  Steuerwagens  61  80  80-91  150-5 
 aus Gleis 10 auf Hauptsignal (Asig N 531) in Richtung Stuttgart Zuffenhausen aus. Das Signalbild  zeigt  „Hp2“.  Die  eingestellte  Fahrstraße  führt  über  die  Weichen  211,  218,  227, 228, 
-
 230 und 212. Der Zug wird vom Stillstand im Gleis 10 am Bahnsteig 5 auf 23 km/h bei einer 
 durchfahrenen  Strecke  von  120  m  beschleunigt.  Anschließend  ist  in  der  EFR  eine  nahezu 
-
 kontinuierliche  Fahrt  von  130  m  bei  leicht  fallender  Geschwindigkeit  bis  auf  14  km/h  registriert. Danach beschleunigt das führende Fahrzeug bei gleichmäßig ansteigender Geschwindigkeit bis auf 40km/h in km 0,565. Der führende Steuerwagen kommt um 11:42:55 Uhr bei 
 einer durchfahrenen Strecke von 670 m zum Stehen. 
 3.2 
@@ -657,7 +611,6 @@ Im Folgenden sind Aussagen zu den Entgleisungen auszugsweise dargestellt.
 Entgleisung am 24.07.2012 
 Mitarbeiter DB Netz AG Bereich Fahrbahn 
 Der Mitarbeiter gab an, dass er am 24.07.2012 von seinem Vorgesetzten den Auftrag erhalten  habe,  die  Gleislage  am  Gleis  10/11  in  Stuttgart  Hbf  zu  prüfen.  Gegen 11:25 Uhr sei er 
-
 dort angekommen und hätte seine Tätigkeit an der Weiche 218 begonnen. Er habe am Weichenanfang der Weiche 218 einen Längshöhenfehler auf einer Länge von 10 bis 15 Schwellen  und  einer  Einsenkung  von  3  bis  4  Millimeter  augenscheinlich  festgestellt.  Die  anschließende  Prüfung  der  gegenseitigen  Höhenlage  mit  einer  Wasserwaage  habe  keine  Gleisverwindung ergeben. Weiterhin gab der Mitarbeiter an, dass zwei weitere Arbeiter einer Gleisbaufirma hingekommen seien. Diese hätten einen weiteren Längshöhenfehler an der Weiche 
 227 c/d von ca. 2 Millimeter augenscheinlich festgestellt. Zur Durchführung der Messungen 
 sei aus Unfallverhütungsgründen eine sog. UV-Sperrung erforderlich gewesen. Deshalb habe er Kontakt mit dem Fahrdienstleiter Stuttgart Hbf aufgenommen. Dieser habe ihm mitgeteilt, dass nach Ausfahrt eines in Gleis 10 stehenden Zuges eine Sperrung möglich sei. Aufgrund der Messungen im Bereich der Weiche 218 mit einer Wasserwaage und den augenscheinlichen Feststellungen an der Weiche 227 sei er davon ausgegangen, dass die geringeren Abweichungen von ca. 2 Millimeter noch im „grünen Bereich“ seien. Folglich habe er 
@@ -682,19 +635,13 @@ durchgeführt  werden  müssten.  Wegen  der  anstehenden  Abfahrt  des  IC  231
 und einer Einfahrt eines ICE aus München habe er dem Mitarbeiter Fahrbahn mitgeteilt, dass 
 die Sperrungen nach der Ausfahrt des IC 2312 und der Einfahrt des ICE vorgenommen würden. Die Ausfahrt des IC 2312 sei gegen 11:38 Uhr auf Hp 2 am Signal R 104  erfolgt. 
 Bezirksleiter Betrieb 
-
 Der  Bezirksleiter  Betrieb  gab  an,  dass  er  sich  zum  Zeitpunkt  des  Ereignisses  zur Betriebskontrolle im Stellwerksraum aufgehalten habe. Er habe persönlich die eingestellte Fahrstraße  und  die  ordnungsgemäße  Signalstellung  auf  der  Stelltafel  wahrgenommen.  Zum  Ereigniszeitpunkt  seien  keine  Hilfshandlungen  seitens  des  zuständigen  Fahrdienstleiters  vorgenommen worden. Zwischen 11:16 Uhr (FHT für 19087 – Fahrstraßenwechsel) und 12:49 Uhr 
 (FHT 39921 – Fahrstraßenwechsel) seien keine zählpflichtigen Handlungen erfolgt. Die Weichen  227,  228  und  230  seien  alle  im  Verschluss  gewesen,  hätten  jedoch  alle  Auffahrmeldung angezeigt. 
 Triebfahrzeugführer des IC 2312 
-
 Der  Triebfahrzeugführer  gab  an,  dass  der  IC  2312  an  diesem  Tag  von  Stuttgart  Hbf  nach 
-
 Dortmund  fahren  sollte.  Die  Übernahme  des  Zuges  sei  ohne  besondere  Vorkommnisse  erfolgt. Die Ausfahrt des IC sei auf Hp 2 mit 40 km/h signalisiert worden. Unter Bedienung des 
-
 Hilfsfahrschalters  habe  er  bei  der  Ausfahrt  die  Vorgänge  am  Zug  beobachtet.  Nach  kurzer 
-
 Fahrt, während der er an seinem Führerpult Platz nahm, erfolgte eine Notbremsung des Zuges. Er sei zwischen 30 und 40 km/h gefahren. Nach dem Stillstand des Zuges habe er sofort  Verbindung  mit  dem  Fahrdienstleiter  aufgenommen.  Der  Fahrdienstleiter  habe  ihm  mitgeteilt,  dass  sein  Zug  entgleist  sei.  Dies  habe  ihm  der  Zugführer  in  einem  anschließenden 
-
 Gespräch bestätigt. Die Hilfsmaßnahmen seien umgehend durch den Fahrdienstleiter eingeleitet worden. 
 Seite 15 von 53 
  
@@ -726,7 +673,6 @@ Druckkraftbegrenzung eingehalten. Dies sei ihm im Steuerwagen auf einer entsprec
 Anzeige (kN/kA) ordnungsgemäß angezeigt worden. Er bestätigte, dass die Aufschaltung der 
 Druckkraft im Steuerwagen über die manuelle Bedienung des Fahrschalters durch ihn erfolgt 
 sei und dass die Zugkraftanzeige den Wert von 1,8 kA nicht überschritten hätte. Der Hauptschalter  hätte  nach  ca.  700  m  Fahrt  plötzlich  ausgelöst  und  der  Druck  der  Hauptluftleitung 
-
 sei abgefallen. Danach sie die Sprachausgabe „Notbremse“ ertönt. Der Zug sei noch einige 
 Sekunden bis zur Notbremsung bei fallender Geschwindigkeit gerollt. 
 4.2 
@@ -767,9 +713,7 @@ Stuttgart Hbf
 8 und 9 
 Entgleisung am 29.09.2012 
 Das Ereignis wurde durch die Betriebsüberwachung Stuttgart Hbf um 11:41 Uhr der Notfallleitstelle  Karlsruhe  gemeldet.  Die  Meldung  an  die  Rettungsdienste  erfolgte  um  11:42  Uhr. 
-
 Der  Notfallmanager  wurde  durch  die  Notfallleitstelle  um  11:43  Uhr  verständigt.  Der  Notfallmanager traf um 12:07 Uhr an der Unfallstelle ein. Um 12:17 Uhr wurde die gesamte Oberleitung  für  den  Bereich  Stuttgart  Hbf  ausgeschaltet.  Um  12:28  Uhr  wurde  die  Schaltgruppe 
-
 402 durch den Notfallmanager sowie um 12:40 Uhr die Schaltgruppe 438 und um 12:55 Uhr 
 die Schaltgruppe 38 durch den elektrotechnischen Fachdienst geerdet. Die Evakuierung des 
 entgleisten IC 2312 wurde umgehend eingeleitet. 
@@ -805,8 +749,10 @@ Seite 17 von 53
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  24.07. u. 29.09.2012,  Stuttgart Hbf 
 Stuttgart Hbf 
 29.09. / 12:02 Uhr 
@@ -827,14 +773,10 @@ Längsneigungsverhältnisse von 13,5 0/00 im Bf Stuttgart Hbf vorhanden.
 
 4.3.2 
 Planerische Kriterien 
-
 Bei  der  Strecke  4800  handelt  es  sich  um  eine  konventionelle  Strecke  (TEN-Kategorie  VII) 
-
 des transeuropäischen Eisenbahnsystems. 
 Das Projekt „Stuttgart 21“ bedingt zahlreiche Bauzwischenzustände, in denen Gleise umgebaut  und  Weichen  geändert  werden  müssen.  In  diesem  Zusammenhang  wurde  auch  die 
-
 Ausfahrzugstraße  aus  Gleis  10  gebaut.  Die  Ausfahrten  der  IC  2312  aus  Gleis  10  erfolgten 
-
 jeweils  über  die  Weiche  211  (ABW  54-300-1:9)  –  Weiche  218  (EW  54-190-1:7,5)  –  Zwischengerade 6 m – Weiche 227 (DKW bzw. ABW 54-190-1:7,5) – Weiche 228 (IBW 54-1901:9).  Bezüglich  der  in  der  Ausfahrzugstraße  vorhandenen  maximalen  Längsneigungen  und 
 Mindestbogenhalbmessern wurden insbesondere folgende Anforderungen aus der zugehörigen  technischen  Spezifikation  Interoperabilität  des  Teilsystems  „Infrastruktur“  für  das  konventionelle transeuropäische Eisenbahnsystem vom 26.04.2011 identifiziert: 
 Längsneigung 
@@ -852,8 +794,10 @@ Seite 18 von 53
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  24.07. u. 29.09.2012,  Stuttgart Hbf 
 4.2.4.4 Mindestbogenhalbmesser 
 Alle TSI-Streckenklassen 
@@ -878,16 +822,12 @@ Längsdruckkräften  zwischen  den  Fahrzeugen  -  bei  denen  die  verwendeten 
 25 mm 
 In der zugehörigen Tabelle 5 sind die empfohlenen Werte sowie Mindestgrenzwerte (Länge 
 einer  Zwischengerade)  für  die  entsprechenden  äquivalenten  Radien  (Rid)  angegeben.  Bei 
-
 verwendeten  Radien  von  jeweils  190  m  ergibt  sich  ein  äquivalenter  Radius  von  95  m.  Für 
-
 diesen  Radius  beträgt  der  empfohlene  Wert  7  m  und  der  Mindestgrenzwert  3,2  m.  Gemäß 
 einer zugehörigen Fußnote sollte bei langen Reisezugwagen der empfohlene Wert als Mindestgrenzwert erachtet werden. 
 Darüber  hinaus  wird  ausgeführt,  dass  insbesondere  für  einen  uneingeschränkten  Betrieb 
 einschließlich langer Reisezugwagen, über die Vorgaben hinaus, weitere detaillierte theoretische Untersuchungen oder Versuche vor Ort erforderlich werden können. 
-
 Insgesamt  ist  noch  anzumerken,  dass  sich  die  TSI  „Infrastruktur“  des  konventionellen  wie 
-
 auch des Hochgeschwindigkeitsbahnsystem in der Revision befinden und beide TSI in eine 
 für  beide  Bahnsysteme  geltende  TSI  „Infrastruktur“  überführt  werden  sollen.  Der  Entwurf 
 Seite 19 von 53 
@@ -906,8 +846,10 @@ Seite 19 von 53
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  24.07. u. 29.09.2012,  Stuttgart Hbf 
 wurde im Januar 2014 im Regelungsausschuss verabschiedet und befindet sich im weiteren 
 Gesetzgebungsverfahren. 
@@ -925,9 +867,7 @@ weist hierbei folgende Fahrzeugkennwerte auf:
 0,635 m 
  0,600 m 
 0,395 m 
-
 Bei  der  Trassierung  eines  Gegenbogens  mit  Radien  von  jeweils  190  m  ergibt  sich  für  die 
-
 Mindestlänge  der  Zwischengeraden  ein  Wert  von  6  m.  Es  wird  jedoch  darauf  hingewiesen, 
 dass es aufgrund von örtlichen Gegebenheiten notwendig sein kann eine längere Zwischengerade  anzuordnen,  spezielle  Betriebsverfahren  anzuwenden  oder  breitere  Puffer  vorzusehen  um  eine  Überpufferung  von  Bestandsfahrzeugen  zu  vermeiden,  welche,  die  oben  genannten Voraussetzungen nicht erfüllen. 
 Da  Planungen,  Prüfungen  sowie  Genehmigungen  des  Bauvorhabens  bereits  vor  2011  und 
@@ -983,8 +923,10 @@ Seite 21 von 53
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  24.07. u. 29.09.2012,  Stuttgart Hbf 
 Auszüge aus Ril 800.0110: 
 ... 
@@ -1019,8 +961,10 @@ Seite 22 von 53
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  24.07. u. 29.09.2012,  Stuttgart Hbf 
 Kann  ein  Gleisbogen  nicht  mit  der  entsprechenden  Mindestlänge  (min  lb)  geplant  werden, 
 soll er durch einen Scheitelbogen gemäß Abschnitt 6 (5) ersetzt werden. 
@@ -1060,8 +1004,10 @@ Seite 23 von 53
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  24.07. u. 29.09.2012,  Stuttgart Hbf 
 schenbogen mit folgender Länge zu planen: 
 min lg bzw. min lb  ≥ 6m  bei rw  ≤ 111 m 
@@ -1132,7 +1078,6 @@ ersetzt werden, wodurch Endneigungen 1:7,5 und steiler entstehen.
 ... 
 Den  vorliegenden  Unterlagen,  ist  zu  entnehmen,  dass  für  die  Umgestaltung  des  Bahnknotens Stuttgart und Trassierung der Ausfahrzugstraße aus Gleis 10 interne Prüfungen erfolgten. So erfolgte die Trassierungsprüfung vom 05.11.2008 in fahrdynamischer und oberbautechnischer  Hinsicht  ohne  Einwände  und  die  gleisgeometrische  Prüfung  wurde  am 
 11.05.2009 mit Auflagen erteilt. Zur Ausführung wurden die Unterlagen durch den Bauvorlageberechtigten  am  21.01.2011  freigegeben  und  der  umgebaute  Gleisabschnitt  gemäß  vorliegender  „Anzeige  der  Nutzung“  am  07.02.2011  fertig  gestellt  sowie  ab  06:00  Uhr  genutzt 
-
 worden. 
 Seite 25 von 53 
  
@@ -1149,9 +1094,7 @@ Bei  der  Ausfahrzugstraße  aus  Gleis  10  handelt  es  sich  um  ein  durchge
 gemäß § 4 Abs. 11 EBO. 
 Die  im  Zuge  der  gleisgeometrischen  Prüfung  vom  11.05.2009  erteilten  Auflagen  wurden 
 durch  die  DB  Netz  AG  nicht  vorgelegt,  diesbezüglich  jedoch  ausgeführt,  dass die Auflagen 
-
 nicht  die  Weichen  211,  218,  227  oder  228  sondern  die  Weichen  78,  79  und  323  betreffen 
-
 würden. Eine eigene objektive Überprüfung konnte nicht erfolgen. Unabhängig der Fragestellung,  ob  es  sich  bei  der  erstellten  Ausfahrzugstraße  um  einen  Neubau,  Bauzustand,  eine 
 wesentliche Änderung/Erneuerung oder einen späteren Umbauzustand handelt, fällt bei der 
 Trassierung auf, dass in diversen Punkten von den Regelwerten/ Soll-Vorgaben abgewichen 
@@ -1183,8 +1126,10 @@ Seite 26 von 53
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  24.07. u. 29.09.2012,  Stuttgart Hbf 
 In der Prüfgröße Pfeilhöhe sind mehrere deutliche SR lim Überschreitungen (> 21 mm) aufgezeichnet, mit einem Spitzenwert > 60 mm. Gemäß der internen Vorgabe der Ril 821.2001 
 Abs. 5 (4) für den Geschwindigkeitsbereich v < 80 km/h ist zul. v in Abhängigkeit vom Maß 
@@ -1235,9 +1180,7 @@ Seite 28 von 53
 Zugentgleisung,  24.07. u. 29.09.2012,  Stuttgart Hbf 
 Abb. 5: Weiche DKW 227 
 Sofern der Mangel nicht nachweislich beseitigt wird, ist für eine SR Lim Überschreitung der 
-
 Rillenweite  im  Herzstück  gemäß  Ril  821.2005  Abs.  7  (7)  eine  La  0,7  x  zul.  v  einzurichten. 
-
 Eine noch weitere Verschärfung sieht die Ril 821.2005 für den Geschwindigkeitsbereich zul. 
 v ≤ 40 km/h vor. Hier wäre die Geschwindigkeit auf max. v ≤ 20 km/h bis zur Mängelbeseitigung festzusetzen gewesen. 
 Unterschiede bei den Herzstückrillen (Ril 821.2005 Tabelle 6): 
@@ -1245,9 +1188,7 @@ Der  Unterschied  liegt  darin,  dass  bei  einfachen  und  mehrfachen  Herzstü
 hd bei 44 mm liegt und bei einfachen Herzstücken mit konstruktiver Spurerweiterung bei 50 
 mm liegt. Von diesen Sollmaßen ausgehend, verschieben sich die zulässigen Abweichungen 
 der Rillenweite gemäß Tabelle 6 bei SR 100 um ± 2mm und bei SR Lim um +4 / -3 mm. 
-
 Das  Prüfblatt  12.41  für  eine  DKW  des  Typs  49-190-1.9  u.  1:6,6/5,635l  berücksichtigt  ein 
-
 Sollmaß der Herzstückrillenweite h von 50 mm wogegen das Prüfblatt 12.9 für eine DKW des 
 Typs  DKW  54-190-:1-9  +  1:7,5-Wittec  ein  Sollmaß  der  Herzstückrillenweite  h  von  44 mm 
 Seite 29 von 53 
@@ -1257,8 +1198,10 @@ Seite 29 von 53
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  24.07. u. 29.09.2012,  Stuttgart Hbf 
 berücksichtigt. Aufgrund der Differenz von 6 mm zwischen den beiden Sollmaßen kam es bei 
 der Anwendung der unterschiedlichen Prüfblätter zur SR Lim Überschreitung. 
@@ -1317,9 +1260,7 @@ Zugkraft/Bremsanzeige im Steuerwagen) nicht überschritten werden.
 Abb. 6: Auszug aus Richtlinie 418.2139 A02 
 Quelle: DB Fernverkehr AG 
 Zugfahrt am 24.07.2013 
-
 Die  Zulassung  zur  Abfahrt  des  IC  2312  erfolgt  durch  das  auf  Fahrt  gestellte  Ausfahrsignal 
-
 R 104  in  Verbindung  mit  dem  Abfahrauftrag  (Zp  9).  Die  Abfahrt  des  Zuges  erfolgt  um 
 11:36 Uhr. IC 2312 wird als geschobene Zugfahrt aus Gleis 10 durchgeführt. Die nach EFR 
 Seite 31 von 53 
@@ -1329,8 +1270,10 @@ Seite 31 von 53
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  24.07. u. 29.09.2012,  Stuttgart Hbf 
 registrierte Höchstgeschwindigkeit des führenden Steuerwagens von der Anfahrt bis zur Entgleisung betrug vmax = 29 km/h. 
 IC 2312 wurde auf den ersten 335 m aus dem Stillstand auf 20 km/h beschleunigt. Anschließend  fiel  die  registrierte  Geschwindigkeit  bei  einer  durchfahrenen  Strecke  von  weiteren 
@@ -1346,36 +1289,28 @@ Die Zulassung zur Abfahrt des IC 2312 erfolgte durch das auf Fahrt gestellte Aus
 R 104  in  Verbindung  mit  dem  Abfahrauftrag  (Zp  9).  Die  Abfahrt  des  Zuges  erfolgte  um 
 11:41 Uhr.  IC 2312  wurde  als  geschobene  Zugfahrt  aus  Gleis  10  durchgeführt.  Die  nach 
 EFR  registrierte  Höchstgeschwindigkeit  des  führenden  Steuerwagens  betrug  in  km  0,570 
-
 vmax  =  40  km/h.  Das  Geschwindigkeitsprofil  zeigte,  dass  innerhalb  der  ersten  130 m  nach 
-
 Anfahrt des Zuges das führende Fahrzeug eine Geschwindigkeit von 22 km/h erreichte. Im 
-
 Anschluss  fiel  die  Geschwindigkeitskurve  bis  auf  14  km/h  bei  einer  durchfahrenen  Strecke 
-
 von ca. 150 m ab. Zug 2312 durchfuhr den anschließenden S-Bogen Bereich der Weichen 
 211, 218, 227 mit gleichmäßig steigender Geschwindigkeit bis auf 38 km/h. Die rechnerische 
-
 Prüfung  der  Druckkräfte  ergab  hierbei  eine  Druckkraft  von  150  -  170  kN.  Ca.  570  m  nach 
-
 Anfahrt  des  IC  in  km  0,895  fiel  die  Geschwindigkeit  des  führenden  Fahrzeuges  von  ca. 
-
 38 km/h  innerhalb  von  100  m  auf  0  km/h  ab.  Der  Zug  legte  nach  Anfahrt  einen  Weg  von 
-
 670 m zurück. 
 Feststellung: 
 Die in Richtlinie 418.2139 A02 vorgegebene und einzuhaltende Druckkraft von 150 kN (entspricht  1,8  kA  auf  der  Zugkraft/Bremskraftanzeige  im  Steuerwagen)  zur  Begrenzung  der 
-
 Druckkräfte  wurde  eingehalten,  da  die  ermittelte  Überschreitung  von  bis  zu  ca.  13  %  auch 
-
 Seite 32 von 53 
  
  
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  24.07. u. 29.09.2012,  Stuttgart Hbf 
 einer unterstellten rechnerischen Unsicherheit – bei der Rückrechnung aus dem Geschwindigkeitsverlauf auf den Druckkraftverlauf - zugeschrieben werden kann. 
 4.6 
@@ -1395,8 +1330,10 @@ Seite 33 von 53
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  24.07. u. 29.09.2012,  Stuttgart Hbf 
 Abb. 8: Drehzapfenabstände und Länge über Puffer von WRmz- und Avmz-Wagen 
 Quelle: DB Fernverkehr AG bearbeitet durch EUB 
@@ -1418,8 +1355,10 @@ Seite 34 von 53
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  24.07. u. 29.09.2012,  Stuttgart Hbf 
 rigen technischen Dokumentation waren als Stoßeinrichtungsbauart Hülsenpuffer 320 KN mit 
 Ringfeder  vorzusehen.  Darüber  hinaus  legte  die  DB  Fernverkehr  AG  mit  Schreiben  Ze. 
@@ -1468,9 +1407,7 @@ In Kapitel 2 „ Linienführung der S-Bögen“ ist insbesondere auf die Anlage 
 die Berechnungsformeln zur Ermittlung von Radien und Zwischengeraden enthalten sind, die 
 ein Fahrzeug mit Puffertellern gemäß Kapitel 1 ohne besondere Vorkommnisse durchlaufen 
 können soll. 
-
 In  Kapitel  3  „Erläuterungen  zur  Erarbeitung  der  Formeln  in  Anlage  2  und  Anlage  3“  ist  das 
-
 Ziel, das mit den Berechnungsformeln erreicht werden soll sowie die Grundvoraussetzungen 
 beschrieben. Ziel war es zum einen eine Berechnungsmethode zur Ermittlung der Puffertellerbreite zu erstellen, mit der gewährleistet ist, dass die Pufferüberdeckung zweier beliebiger 
 Fahrzeuge auf einem gegebenen Gleisabschnitt nicht geringer ist, als die Pufferüberdeckung 
@@ -1493,8 +1430,10 @@ Seite 36 von 53
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  24.07. u. 29.09.2012,  Stuttgart Hbf 
 Feststellung: 
 Die  Pufferteller  der  WRmz-Wagen  haben  eine  Breite  von  660  mm,  die  des  Avmz-Wagens 
@@ -1502,9 +1441,7 @@ eine  Breite  von  600  mm.  Avmz-Wagen  unterschreiten  die  empfohlene  Mindes
 35 mm. Gemäß Anlage 2 wurden die Mindestpuffertellerbreiten zu 658 mm für den WRmz-
 Wagen und 591 mm für den Avmz-Wagen ermittelt. Die Fahrzeuge erfüllten die Anforderungen, die jedoch – wie bereits ausgeführt - unter den für Fahrzeuge länger 25 m empfohlenen 
 Werten liegen. 
-
 Im  entgleisungsrelevanten  Gleisbereich  sind  jedoch  Weichen  verbaut,  es  findet  keine  reine 
-
 Bogenfahrt  statt  und  die im Rahmen der Versuchsfahrten vom 09.10.2012 ermittelten waagerechten Mindestüberdeckungen hatten einen Wert von 25 mm nicht erreicht. 
 4.6.2.2  UIC 528 
 Anforderungen aus UIC 528 VE „Stoßeinrichtungen für Reisezugwagen“, 7. Ausgabe, Januar 
@@ -1519,7 +1456,6 @@ ermöglicht sowie
 Kapitel 1 „Abmessungen, Anbaumaße und Merkmale“ referenziert hinsichtlich der Pufferteller 
 auf UIC-Kodex 527-1. Im Kapitel 2 „Mechanische Eigenschaften“ sind die vom Puffer zu ertragenden  Kräfte  in  Höhe  sowie  Angriffpunkten  dargestellt.  Von  besonderem  Interesse  ist 
 hierbei die zu ertragende außermittig (200 mm waagrecht, 50 mm senkrecht zu Puffertellermittelpunkt)  einzuleitende  Längsdruckkraft  in  Höhe  von  größer  300  kN  am  Pufferteller.  Der 
-
 Vollständigkeit halber sei erwähnt, dass in Kapitel 4 „Kennzeichnung“ die Art und Weise der 
 Pufferkennzeichnung beschrieben ist. 
 Seite 37 von 53 
@@ -1534,16 +1470,13 @@ Seite 37 von 53
 Zugentgleisung,  24.07. u. 29.09.2012,  Stuttgart Hbf 
 Feststellung: 
 Wie  den  unter  Kapitel  4.6.5 „Ergebnis analytischer Untersuchungen“ dargestellten Untersuchungen zu entnehmen ist, wurden für WRmz-Pufferteller - mittels der Finiten Element Methode  (FEM)  -  die  ertragbaren  Grenzlasten  in  Abhängigkeit  der  Kontaktpunktlage  ermittelt. 
-
 Hierbei  zeigte  sich,  dass  unter  Berücksichtigung  des  zum  Einsatz  kommenden  Puffertellerwerkstoffs  S355  J2+N  beim  Kontaktpunkt  (210  mm  waagrecht  zum  Puffertellermittelpunkt) 
 der Pufferteller eine Grenzlast von 200 kN ertragen kann. 
 Im Rahmen der Pufferuntersuchung wurde festgestellt, dass es sich bei den Puffern um alte 
 Konstruktionen handelt, die vor Einführung des UIC-Kodex 528 VE, 7. Ausgabe 1.1.91 hergestellt wurden. Offensichtlich wurde im Zuge von Zeichnungsanpassungen mit Zeichnungsstand J oder früher - ohne Überarbeitung der Zeichnung selbst - der UIC-Kodex redaktionell 
 angepasst. 
 Abb. 9: Auszug Zeichnung Fwp 000.06.004.02, Zeichnungsstand J 
-
 Somit  sind  die  Puffer  nicht  zur  Aufnahme  einer  außermittigen  Längsdruckkraft  F2  ≥  300 kN 
-
 gemäß Kapitel 2 von UIC 528 VE, 7. Ausgabe geeignet, sondern wurden nach den Vorgaben 
 nach UIC 528, 6. Ausgabe vom 1.1.68 konstruiert. Eine grundsätzliche Umrüstpflicht auf aktualisierte Normen besteht nicht. Auch Güterwagen mit Rundpuffern sind weiterhin zulässig 
 und heute noch anzutreffen. 
@@ -1562,8 +1495,10 @@ Seite 38 von 53
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  24.07. u. 29.09.2012,  Stuttgart Hbf 
 und 710 (1.200.000 oder 6+1+1 Jahr) sind unter den laufenden Nr. 21 die Puffer an Reisezugwagen  zu  prüfen  und  schmieren  sowie  Nr.  22  die  Pufferstände  an  Reisezugwagen  mit 
 stahlgefederten  Drehgestellen  zu  messen.  Die  Federn  selbst  unterliegen  hierbei  bei  einem 
@@ -1845,9 +1780,7 @@ k.A.:  keine Angabe
 
 Feststellung: 
 Bei  dem  gebrochenen  Federring  des  Puffers  1  handelt  es  sich nach hiesiger Einschätzung 
-
 um  einen  Außenring.  Dieser  führt  in  Abhängigkeit  von  der  Lage  im  Puffersystem  zu  einer 
-
 Versteifung, wie auch besonders im Bereich kleiner Hübe zu einer Erschlaffung des Federsystems.  Der  Kennlinienverlauf  dieses  ansonsten  zu  steifen  Puffers  entspricht  ab  dem 
 25 mm  Punkt  nahezu  einer  Geraden,  das  heißt,  dass  der  gebrochene  Ring  sich  beim  Zusammendrücken  nicht  frisst  oder  verkantet.  Ob  der  Ring  vor  oder  nach  dem  Unfall  gebrochen ist lässt sich nicht feststellen. 
 Entgleisung am 29.09.2012 
@@ -1879,8 +1812,10 @@ Seite 41 von 53
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  24.07. u. 29.09.2012,  Stuttgart Hbf 
 Abb. 11: Zuordnung der Puffer, Entgleisung 29.09.2012 
 Puffer Nr / Untersuchung 
@@ -2201,8 +2136,10 @@ Seite 44 von 53
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  24.07. u. 29.09.2012,  Stuttgart Hbf 
 4.6.5 
 Ergebnis analytischer Untersuchungen 
@@ -2213,9 +2150,7 @@ und dazwischen liegender Zwischengeraden von 6 m bestimmt werden. Die Entgleisun
 ca. 189 kN unter 150 kN. 
 Nachdem es in der Zwischengerade zwischen den Weichen 218 und 227 zum Versagen des 
 in Fahrtrichtung rechten, hinteren, äußeren Pufferbereichs des WRmz-Wagens und Überpufferung  kam,  entgleiste  das  letzte  Drehgestell  dieses  WRmz-Wagens  unmittelbar  im  Herzstückbereich der Weiche 227. Die Schubkräfte wurden in diesem Bereich aufgrund der geometrischen Verhältnisse nahezu ausschließlich über den rechten Puffer übertragen. 
-
 Zur  Ermittlung  der  ertragbaren  Lasten  der  an  Wagen  verbauten  Puffer  (Breite  Pufferteller 
-
 660 mm, WRmz) wurden mit Hilfe der finiten Element Methode theoretische Untersuchungen 
 angestellt  und  letztlich  die  ertragbaren  Grenzlasten  in  Abhängigkeit  der  Kontaktpunktlage 
 (vom Mittelpunkt horizontal nach außen) ermittelt. Hierbei ergaben sich folgende Werte: 
@@ -2246,8 +2181,10 @@ Seite 45 von 53
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  24.07. u. 29.09.2012,  Stuttgart Hbf 
 In  einem  weiteren  Modell  wurden  Simulationen  mit  Längsdruckkräften  von  100  kN  und  3Wagen-Zügen  ohne  Triebfahrzeug  bestehend  aus  Wagenkombinationen  Avmz  -  Avmz  - 
 Avmz  und  Avmz  –  Wrmz  –  Avmz  durchgeführt  und  zu  den  rechnerischen  Auslenkungen 
@@ -2272,7 +2209,6 @@ Feststellung:
 Es ist festzustellen, dass bei einer Begrenzung der Längsdruckkräfte auf 100 kN die in den 
 max. auftretenden Auslenkungen ermittelten Kräfte sowohl für die Wagenkombination Avmz 
 - Avmz - Avmz wie auch Avmz – Wrmz – Avmz unter den ermittelten ertragbaren Grenzlasten  liegen.  Die  sich  hierbei  ergebenden  „Reserven“  von  9  bzw.  27%,  sind  jedoch  vor  dem 
-
 Hintergrund, der den Modellen inhärenten Unsicherheiten kritisch zu würdigen. So ergaben 
 sich  schon  bei  der  Ermittlung  der  Federkennlinien  der  verwendeten  Puffer  Abweichungen 
 von den maximalen Federhärten (Druckkraft bei Hub 60 mm) von bis zu 58%. In diesem Zusammenhang sind auch die Versuchsfahrten mit zu berücksichtigen, bei denen es zur Entgleisung kam und die aus den DSK-Daten ermittelten - ebenfalls mit Unsicherheiten behafteten - Druckkräfte zum Zeitpunkt der Durchfahrt der Wagen 8-11 im maßgeblichen Weichenbereich in einer Bandbreite von 70-145 kN errechnet wurden. 
@@ -2302,8 +2238,10 @@ Seite 47 von 53
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  24.07. u. 29.09.2012,  Stuttgart Hbf 
 Die  Aufnahme  entstand  unmittelbar  vor  der  Entgleisung  der  dritten  Versuchsfahrt  am 
 09.10.2012 und zeigt die in Fahrtrichtung linken Puffer des vorlaufenden WRmz-Wagens und 
@@ -2339,9 +2277,7 @@ oder  bei  Überschreitung  des  Grenzwertes  (setzt  eine  Überwachung  der  F
 voraus) zu beseitigen sind. Wie dem Gesamtsignal Gleislage zu entnehmen war, zeigte dieses  gesamthafte  SR  100  Überschreitungen  auf,  die  sich  negativ  hinsichtlich  der  Entgleisungssicherheit  auswirken  können.  Mit  der  Inkaufnahme  eines  höheren  Verschleißes  sind 
 grundsätzlich eine zügigere Verschlechterung der Gleislagestabilität und ein damit einhergehender  größerer  Instandhaltungsaufwand  verbunden.  Die  Überprüfung  der  Instandhaltung 
 ergab weiterhin, dass die Zugfahrt am 24.07.2012 aufgrund eines Weichenfehlers entweder 
-
 nicht  oder  nur  nach  Einrichtung  einer  Langsamfahrstelle  mit  einer  Geschwindigkeit  von  20 
-
 km/h hätte ausfahren dürfen. Auch wenn der zulässige Wert lediglich um einen zehntel Millimeter  überschritten  wurde,  wäre  dies  gemäß  dem  internen  Regelwerk  die  formal  richtige 
 Vorgehensweise gewesen. Da sich bei den Entgleisungen am 29.09. und 09.10.2012 keine 
 Hinweise auf einen Weichenfehler ergaben, ist grundsätzlich nicht davon auszugehen, dass 
@@ -2372,14 +2308,12 @@ Seite 49 von 53
 Untersuchungsbericht 
 Zugentgleisung,  24.07. u. 29.09.2012,  Stuttgart Hbf 
 Die  Auswertung  der  Geschwindigkeitsprofile  der  entgleisten  Zugfahrten  und  Versuchfahrt 
-
 sowie  weiterer  zufällig  ausgewählter  Fahrten  nach  dem  24.07.2012  zeigte,  dass  alle  Triebfahrzeugführer die zulässige Geschwindigkeit von 40 km/h - im bei der Anfahrt im maßgeblichen Entgleisungsbereich - nicht überschritten haben. 
 Abb. 17: Geschwindigkeitsprofile von Fahrten aus Gleis 10 zwischen 24.07.- 09.10.2012 
 Quelle: DB Fernverkehr AG 
 Mit  Ausnahme  bei  der  Zugfahrt  am  24.07.2012 wurde die zulässige Druckkraft von 150 kN 
 eingehalten.  Die  geringen  Überschreitungen  der  Fahrten  am  29.09  und  09.10.2012  lassen 
 sich  insbesondere  durch  mathematische  Unsicherheiten  bei  der  Rückrechnung  der  Geschwindigkeitsprofile  auf  die  Druckkraftprofile  erklären.  Allgemein  festzustellen  ist,  dass  die 
-
 Geschwindigkeits-  und  Druckkraftprofile  aller  entgleisten  Fahrten  im  maßgeblichen  Entgleisungsbereich  signifikant  steiler  waren  und  in  diesem Bereich die Fahrten stärker beschleunigt  wurden.  Bei  den  hingegen  nicht  entgleisten  Zugfahrten  wurden  diese  auf  den  ersten 
 250 m,  das  heißt  vor  dem  maßgeblichen  Entgleisungsbereich  beschleunigt  und  unterlagen 
 danach nur moderaten Geschwindigkeitsänderungen. 
@@ -2401,7 +2335,6 @@ gemäß  den  Anforderungen  aus  UIC  528,  6  Ausgabe  vom  1.1.1968  konstrui
 das Betriebsverfahren „Schiebebetrieb“ noch nicht zur Anwendung vorgesehen war und Wagen lediglich im Rangierdienst geschoben wurden. Wie in Kapitel 4.6.2.2 bereits ausgeführt 
 müssen Puffer nicht automatisch an sich ändernde Normen angepasst werden. Ändern sich 
 jedoch die Anforderungen bspw. durch Änderung der Betriebsverfahren oder besondere Linienführungen,  sind  Eisenbahnen  und  Halter  verpflichtet  zu  prüfen,  ob  und  inwieweit  sich 
-
 neue  Risiken  ergeben  könnten,  denen  entsprechend  zu  begegnen  wäre,  zumal  die  untersuchten Puffer nicht zur Aufnahme einer außermittigen Kraft ≥ 300 kN gemäß UIC 528 VE, 
 7. Ausgabe vom 01.01.1991 konstruiert sind. 
 Wie  die  Pufferuntersuchungen  zeigten,  lagen  weiterhin  bei  14  von 16 untersuchten Puffern 
@@ -2441,9 +2374,7 @@ Seite 52 von 53
  
 Untersuchungsbericht 
 Zugentgleisung,  24.07. u. 29.09.2012,  Stuttgart Hbf 
-
 gungen“  unterstellt  wurden  und  beispielsweise  in  Umlauf  befindliche  Pufferteller  der  Stärke 
-
 20  mm,  zu  hohe  Puffersteifigkeiten  wie  auch  zulässige  Oberbauabweichungen  nicht  oder 
 nicht wirklichkeitsnah in die Betrachtungen eingegangen sind. 
 6 

@@ -18,6 +18,7 @@ Gleis:
 Kilometer: 
 102 
 67,54 
+
  
 	
  
@@ -34,30 +35,26 @@ Kilometer:
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 20.05.2020, Bf Wengern Ost 
 Veröffentlicht durch: 
 Bundesstelle für Eisenbahnunfalluntersuchung 
 Heinemannstraße 6 
 53175 Bonn 
+
  
 Untersuchungsbericht 
+
 Zugentgleisung, 20.05.2020, Bf Wengern Ost 
 Inhaltsverzeichnis	
 I. 
 II. 
-
 Änderungsverzeichnis: .......................................................................................... II 
-
 Abbildungsverzeichnis: ........................................................................................ III 
-
 III. 
-
 Tabellenverzeichnis: ............................................................................................ III 
-
 IV. 
-
 Abkürzungsverzeichnis: ....................................................................................... IV 
-
 0 
 1 
 1.1 
@@ -66,135 +63,84 @@ Abkürzungsverzeichnis: ........................................................
 1.4 
 2 
 3 
-
 Vorbemerkung ...................................................................................................... 1 
-
 Zusammenfassung ................................................................................................ 2 
-
 Kurzbeschreibung des Ereignisses ........................................................................... 2 
-
 Folgen ...................................................................................................................... 2 
-
 Ursachen .................................................................................................................. 2 
-
 Sicherheitsempfehlungen ....................................................................................... 2 
-
 Die Untersuchung und ihr Kontext ........................................................................ 3 
-
 Beschreibung des Ereignisses ................................................................................ 5 
-
 3.1 
 Informationen über das Ereignis und seine Hintergründe ..................................... 5 
 3.1.1 
-
 Lage und Beschreibung des Ereignisortes ............................................................... 5 
-
 3.1.2 
-
 Beteiligte.................................................................................................................. 7 
-
 3.1.3 
-
 Äußere Bedingungen ............................................................................................... 8 
-
 3.1.4 
-
 Todesopfer, Verletzte und Sachschäden ................................................................. 8 
-
 3.2 
-
 Sachliche Beschreibung der Vorkommnisse ......................................................... 10 
-
 3.2.1 
-
 Hergangsbeschreibung .......................................................................................... 10 
-
 3.2.2 
-
 Notfallmanagement .............................................................................................. 11 
-
 4 
 4.1 
-
 Auswertung des Ereignisses ................................................................................ 12 
-
 Aufgaben und Pflichten ......................................................................................... 12 
-
 4.1.1 
 Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers ................. 12 
 I 
+
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 20.05.2020, Bf Wengern Ost 
 4.1.2 
 Untersuchung der betrieblichen Abläufe des EVU LTE-NL ................................... 13 
 4.2 
-
 Fahrzeuge und technische Einrichtungen ............................................................. 15 
-
 4.2.1 
-
 Untersuchung von Fahrzeugen ............................................................................. 16 
-
 4.2.2 
 Untersuchung der bautechnischen Infrastruktur ................................................. 24 
 4.2.3 
-
 Untersuchung der Leit- und Sicherungstechnik .................................................... 24 
-
 4.3 
-
 Menschliche Faktoren ........................................................................................... 24 
-
 4.3.1 
-
 Beteiligte des Infrastrukturbetreibers ................................................................... 24 
-
 4.3.2 
-
 Beteiligte des EVU ................................................................................................. 25 
-
 4.3.3 
-
 Beteiligte des Fahrzeugherstellers TVP ................................................................. 26 
-
 4.4 
-
 Feedback- und Kontrollmechanismen .................................................................. 27 
-
 4.4.1 
-
 SMS des EVU .......................................................................................................... 27 
-
 4.4.2 
-
 Qualitätssicherung des Fahrzeugherstellers ......................................................... 27 
-
 4.5 
 5 
 5.1 
 5.2 
 5.3 
-
 Frühere Ereignisse ähnlicher Art ........................................................................... 31 
-
 Schlussfolgerungen ............................................................................................. 32 
-
 Zusammenfassung und Schlussfolgerung ............................................................. 32 
-
 Seit dem Ereignis getroffene Maßnahmen ........................................................... 34 
-
 Zusätzliche Bemerkungen ..................................................................................... 36 
-
 6 
-
 Sicherheitsempfehlungen ................................................................................... 37 
-
 I.  Änderungsverzeichnis:	
 Änderung 
 Stand 
 II 
+
  
  
  
@@ -204,48 +150,31 @@ II
 	
 	
 Untersuchungsbericht 
+
 Zugentgleisung, 20.05.2020, Bf Wengern Ost 
 II.  Abbildungsverzeichnis:	
-
 Abbildung 1: Lageplan ................................................................................................................ 6 
-
 Abbildung 2: Gleislageskizze ...................................................................................................... 6 
-
 Abbildung 3: Entgleister Radsatz mit zerstörtem Radsatzlagersteg .......................................... 9 
-
 Abbildung 4: Beschädigter Pkw .................................................................................................. 9 
-
 Abbildung 5: Entgleisungsstelle in km 67,54 der Strecke 2400 ............................................... 11 
-
 Abbildung 6: Grafische Auswertung der EFR-Daten ................................................................ 15 
-
 Abbildung 7: Technische Zeichnung eines Autotransportwagen Laaeffrs 561 ........................ 16 
-
 Abbildung 8: Entgleister Radsatz .............................................................................................. 18 
-
 Abbildung 9: Durchtrenntes Bodenblech ................................................................................. 18 
-
 Abbildung 10: Schnittzeichnung Radsatzlager ......................................................................... 20 
-
 Abbildung 11: Defektes Radsatzlager ...................................................................................... 21 
-
 Abbildung 12: Übersicht der Ergebnisse aus der Untersuchung des Wellenverschlusses ...... 22 
 III.
   Tabellenverzeichnis:	
-
 Tabelle 1: Übersicht der äußeren Bedingungen ........................................................................ 8 
-
 Tabelle 2: Übersicht der Personenschäden ............................................................................... 8 
-
 Tabelle 3: Übersicht der geschätzten Schadenshöhe .............................................................. 10 
-
 Tabelle 4: Technische Daten Autotransportwagen 25 80 4382 051-7 .................................... 17 
-
 Tabelle 5: Daten der Radsätze des Autotransportwagens 25 80 438 2 051-7......................... 19 
-
 Tabelle 6: Übersicht ermittelter Qualitätsprüfungen bei TVP ................................................. 30 
-
 III 
+
  
  
  
@@ -256,6 +185,7 @@ III
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 20.05.2020, Bf Wengern Ost 
 IV.  Abkürzungsverzeichnis:	
 AEG 
@@ -281,8 +211,10 @@ EVU
 Fdl 
 Entity in Charge of Maintenance 
 Elektronische Fahrtenregistrierung 
+
 Verordnung über die Erteilung von Inbetriebnahmegenehmigungen für 
 das Eisenbahnsystem 
+
 Eisenbahninfrastrukturunternehmen 
 Eisenbahnagentur der Europäischen Union 
 Europäische Union 
@@ -312,9 +244,11 @@ Sicherheitsbescheinigung
 Safety Information System 
 Sicherheitsmanagementsystem 
 IV 
+
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 20.05.2020, Bf Wengern Ost 
 Tf 
 TfV 
@@ -329,15 +263,15 @@ Vereinigung der Privatgüterwagen-Interessenten
 ZNTK 
 Zaklady Naprawcze Tabouru Kolejoego Paterek S.A 
 V 
+
  
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 20.05.2020, Bf Wengern Ost 
 0  Vorbemerkung	
-
 Auf der Grundlage des Artikel 24 der Richtlinie (EU) 2016/798 hat die europäische Kommission 
-
 mit 
 der 
 Inkraftsetzung 
@@ -348,16 +282,16 @@ die
 Untersuchungsberichtsstruktur festgelegt. Diese Vorgaben sind grundsätzlich einzuhalten und 
 müssen der Art und Schwere des gefährlichen Ereignisses angepasst sein. 
 Mit  Verkündung  der  Verordnung  und  Inkraftsetzung  am  zwanzigsten  Tag  nach  der 
-
 Veröffentlichung  im  Amtsblatt  der  Europäischen  Union  (EU)  ist  diese  verbindlich  und 
-
 unmittelbar auf alle ab dem 17.05.2020 eingeleiteten Untersuchungen anzuwenden. 
 Seite 1 von 37 
+
  
  
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 20.05.2020, Bf Wengern Ost 
 1  Zusammenfassung	
 Das erste Kapitel enthält eine Kurzbeschreibung des Ereignisses sowie Informationen zu den 
@@ -377,17 +311,17 @@ des Achsschenkels. Die nun fehlende Spurhaltefähigkeit führte zur Entgleisung.
 Am  28.07.2020  wurde  durch  die  Bundesstelle  für  Eisenbahnunfalluntersuchung  (BEU)  ein 
 erster  Zwischenbericht  veröffentlicht.  Dieser  enthielt  die  Sicherheitsempfehlung,  weitere 
 möglicherweise  betroffene  Radsatzlager  an  Autotransportwagen  der  Wagengattung 
-
 Laaeffrs 561  des  Herstellers  TATRAVAGÓNKA  a.s.  (TVP)  zu  identifizieren,  um  Lieferketten 
-
 nachzuvollziehen und Eisenbahnverkehrsunternehmen (EVU) sowie Fahrzeughalter über ein 
 möglicherweise bestehendes Risiko zu informieren. 
 Seite 2 von 37 
+
  
  
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 20.05.2020, Bf Wengern Ost 
 2  Die	Untersuchung	und	ihr	Kontext	
 Die BEU ist für die Untersuchung von gefährlichen Ereignissen im Eisenbahnbetrieb im Sinne 
@@ -397,27 +331,19 @@ nicht  bundeseigenen  Eisenbahninfrastrukturen  des  übergeordneten  Netzes  ge
 Ziel  und  Zweck  der  eingeleiteten  Untersuchungen  ist  es,  die  Ursachen  des  gefährlichen 
 Ereignisses  aufzuklären  und  hieraus  Hinweise  zur  Verbesserung  der  Sicherheit  abzuleiten. 
 Untersuchungen der BEU dienen nicht dazu, ein Verschulden festzustellen oder Fragen der 
-
 Haftung oder sonstiger zivilrechtlicher Ansprüche zu klären und werden unabhängig von jeder 
-
 gerichtlichen Untersuchung durchgeführt. 
 Sicherheitsempfehlungen  der  BEU  zur  Vermeidung  von  gefährlichen  Ereignissen  und 
 Verbesserung der Eisenbahnsicherheit werden an die nationale Sicherheitsbehörde, sofern es 
 die Art der Empfehlung erfordert an die Eisenbahnagentur der Europäischen Union und an 
 andere Stellen oder Behörden adressiert. Im Allgemeinen sind die Sicherheitsempfehlungen 
 auch an die betroffenen Eisenbahnunternehmen gerichtet. 
-
 Zu  schweren  Unfällen  leitet  die  BEU  stets  Untersuchungen  gem.  Artikel 20 Abs. 1  Richtlinie 
-
 (EU)  2016/798  ein.  Unter  einem  schweren  Unfall  sind  insbesondere  Zugkollisionen  oder 
 Zugentgleisungen mit mindestens einem Todesopfer oder mindestens fünf Schwerverletzten 
-
 oder  mit  beträchtlichem  Schaden  (≥ 2  Mio.  Euro)  sowie  sonstige  Unfälle  mit  den  gleichen 
-
 Folgen und mit offensichtlichen Auswirkungen auf die Regelung der Eisenbahnsicherheit oder 
-
 das  Sicherheitsmanagementsystem  (SMS)  zu  verstehen.  Bei  allen  sonstigen  gefährlichen 
-
 Ereignissen im Eisenbahnbetrieb liegt es im Ermessen der BEU Untersuchungen einzuleiten. 
 Bei  der  Entscheidung  werden  neben  den  zum  Ereigniszeitpunkt  verfügbaren  Ressourcen 
 weitere Kriterien gem. Artikel 20 Abs. 2 Richtlinie (EU) 2016/798 herangezogen. 
@@ -431,9 +357,11 @@ abgeschlossen  werden.
 Zur 
 Ursachenermittlung werden ergebnisoffene Untersuchungen im Ausschlussverfahren in allen 
 Seite 3 von 37 
+
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 20.05.2020, Bf Wengern Ost 
 beteiligten  Fachdisziplinen  angestellt  und  hierbei  insbesondere  Fehler-Ursachen-Analysen 
 und Soll-Ist-Vergleiche durchgeführt. 
@@ -465,9 +393,7 @@ gefährliche
 Ereignisse 
 ordnungsgemäß  melden  sowie  die  Informationen  auf  dem  neuesten  Stand  halten.  Auf 
 Grundlage  des  § 5a  AEG  werden  i. d. R.  weitergehende  zur  Untersuchungsdurchführung 
-
 erforderliche  Informationen,  Auskünfte  und  Nachweise  abgefordert.  Diese  notwendigen 
-
 Zuarbeiten konnten mittels Auskunftsersuchen gewonnen werden. 
 Darüber hinaus können nach § 5b Abs. 4 AEG von den an gefährlichen Ereignissen beteiligten 
 Eisenbahnen  Unterstützungsleistungen  eingefordert  werden.  Bei  dem  vorliegenden 
@@ -478,21 +404,19 @@ durchgesetzt:
 entgleisten Eisenbahnfahrzeuges. 
   Bereitstellung von Werkstattkapazitäten der DB Fahrzeuginstandhaltung GmbH zur 
 Untersuchung der Radsätze des entgleisten Eisenbahnfahrzeuges. 
-
 Die infrastrukturseitige Freigabe der Unfallstelle erfolgte durch die BEU am 20.05.2020 gegen 
-
 20:00 Uhr. 
 Seite 4 von 37 
+
  
  
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 20.05.2020, Bf Wengern Ost 
 3  Beschreibung	des	Ereignisses	
-
 Im  dritten  Kapitel  wird  das  gefährliche  Ereignis  in  zwei  vorgegebenen  Unterkapiteln  näher 
-
 beschrieben.  In  Kapitel 3.1  sind  neben  den  Grunddaten  weitere  Informationen  zum 
 Ereignisort,  den  äußeren  Bedingungen,  den  Folgen  und  den  Beteiligten  enthalten.  Die 
 Ereignisrekonstruktion  sowie 
@@ -508,33 +432,26 @@ im  Sinne  der  Richtlinie
 Die BEU führt das Ereignis national unter der Ereignisart Zugentgleisung. 
 3.1.1  Lage	und	Beschreibung	des	Ereignisortes	
 Die  Zugentgleisung  ereignete  sich  zwischen  den  Betriebsstellen  Bf Hagen-Vorhalle  Rbf  und 
-
 dem  Bf Witten  Hbf,  etwa  in  km 67,54.  Diese  zweigleisige,  elektrifizierte  Hauptbahn  des 
-
 Eisenbahninfrastrukturunternehmens  (EIU)  DB Netz AG  war  im  Verzeichnis  der  örtlich 
 zulässigen  Geschwindigkeiten  mit  der  Streckennummer 2400  geführt  und  verlief  von 
 Hagen Hbf  nach  Düsseldorf Hbf.  Die  Höchstgeschwindigkeit  auf  dem  betroffenen 
-
 Streckenabschnitt betrug 80 km/h, bei einem Bremsweg von 700 m. Unmittelbar hinter der 
-
 Entgleisungsstelle wechselte der Güterzug auf die Strecke 2144 in Richtung Witten Hbf. Diese 
-
 Strecke war für eine maximal zulässige Geschwindigkeit von 100 km/h und einen Bremsweg 
 von 1.000 m ausgelegt. Beide Strecken waren mit digitalem Zugfunk Global System for Mobile 
-
 Communications - Rail (GSM-R) und punktförmiger Zugbeeinflussung (PZB) ausgerüstet. Die 
-
 Betriebsdurchführung  auf  den  Strecken  erfolgte  nach  den  Regeln  der  Fahrdienstvorschrift, 
-
 Richtlinie (Ril) 408. Die Ereignisstelle lag im Zuständigkeitsbereich des Stellwerks Witten Hbf, 
-
 das mit der Stellwerkstechnik Sp Dr S 60 ausgerüstet war. 
 Seite 5 von 37 
+
  
  
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 20.05.2020, Bf Wengern Ost 
 Die  beiden  folgenden  Abbildungen  geben  einen  Überblick  über  die  gefahrene  Strecke  des 
 Güterzug DGS 43982, die Position des Achsschenkelbruchs und den Verlust des Radsatzlagers 
@@ -544,12 +461,14 @@ Abbildung 2: Gleislageskizze2
 1 Quelle: Geobasisdaten: © GeoBasis-DE / BKG 2020, bearbeitet durch BEU 
 2 Quelle: DB Netz AG bearbeitet durch BEU 
 Seite 6 von 37 
+
  
  
  
  
                                                        
 Untersuchungsbericht 
+
 Zugentgleisung, 20.05.2020, Bf Wengern Ost 
 3.1.2  Beteiligte	
 Am Ereignis waren folgende Personen und Funktionen beteiligt: 
@@ -572,11 +491,13 @@ Das  verantwortliche  EIU DB Netz AG  verfügte  über  eine  Sicherheitsgenehmi
 Das  durchführende  EVU LTE-NL  verfügte  über  eine  Sicherheitsbescheinigung  (SiBe)  gemäß 
 §7 a AEG mit einer Gültigkeitsdauer bis zum 01.05.2024. 
 Seite 7 von 37 
+
  
  
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 20.05.2020, Bf Wengern Ost 
 3.1.3  Äußere	Bedingungen	
 Zum Zeitpunkt des Ereignisses herrschten folgende Bedingungen: 
@@ -607,8 +528,10 @@ Anzahl Tote
 Anzahl schwer Verletzte  Anzahl leicht Verletzte 
 Reisende 
 Mitarbeiter 
+
 Benutzer von 
 Bahnübergängen 
+
 Dritte 
 Summe 
 - 
@@ -631,14 +554,17 @@ Die  nachfolgenden  Abbildungen  geben  einen  Eindruck  über  die  entstandene
 Radsatz  sowie  an  der  Ladung  des  betroffenen  Autotransportwagens  des  Güterzuges 
 DGS 43982. 
 Seite 8 von 37 
+
  
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 20.05.2020, Bf Wengern Ost 
 Abbildung 3: Entgleister Radsatz mit zerstörtem Radsatzlagersteg 
 Abbildung 4: Beschädigter Pkw 
 Seite 9 von 37 
+
  
  
  
@@ -646,6 +572,7 @@ Seite 9 von 37
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 20.05.2020, Bf Wengern Ost 
 Die geschätzte Höhe der Sachschäden in Euro setzt sich wie folgt zusammen: 
 Fahrzeuge 
@@ -668,9 +595,7 @@ Der  am  Ereignis  beteiligte  Tf  begann  die  Zugfahrt  des  Güterzuges  DGS 
 Personalwechsel im Bf Gießen-Bergwald. Die um 13:15 Uhr begonnene Dienstschicht sah vor, 
 dass er den Güterzug bis zum Zielbahnhof Bochum-Langendreer fahren sollte. Der Güterzug 
 DGS 43982 des EVU LTE-NL verkehrte am 20.05.2020 von Passau nach Bochum-Langendreer. 
-
 Im Bf Hagen-Vorhalle Rbf, etwa in km 75,56 der Strecke 2400, führte ein fehlerhaft montiertes 
-
 Radsatzlager  zu  einem  Achsschenkelbruch  an  dem  an  vierter  Stelle  des  Zuges  laufenden 
 Autotransportwagen mit der Wagennummer 25 80 4382 051-7. In der Folge führte dies am 
 zweiten  Radsatz  dieses  Wagens  zum  Verlust  des  rechten  Radsatzlagers.  Mit  dem  defekten 
@@ -680,16 +605,13 @@ der  Entgleisung  wurden  auf  der  Strecke 2400
 in  km 67,54  des  Bf Wengern Ost 
 im 
 durchgehenden Hauptgleis 102 direkt vor dem Ausfahrsignal (Asig) N 102 festgestellt, siehe 
-
 folgende Abbildung. Unmittelbar hinter der Entgleisungsstelle wechselte der Güterzug auf die 
-
 Strecke 2144  in  Richtung  Witten  Hbf.  Der  Tf  bemerkte  die  Zugentgleisung  erst,  als  es  nach 
-
 einer weiteren gefahrenen Strecke von ca. 2,1 km zu einer Trennung der Hauptluftleitung (HL) 
-
 am entgleisten Autotransportwagen kam. Die daraufhin ausgelöste Zwangsbremsung brachte 
 den Güterzug DGS 43982 etwa in km 2,25 auf der Strecke 2144 zum Halten. 
 Seite 10 von 37 
+
  
  
  
@@ -699,6 +621,7 @@ Seite 10 von 37
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 20.05.2020, Bf Wengern Ost 
 Abbildung 5: Entgleisungsstelle in km 67,54 der Strecke 24003 
 3.2.2  Notfallmanagement	
@@ -712,6 +635,7 @@ Untersuchung des Notfallmanagements war bei diesem Ereignis nicht erforderlich, 
 Personen gerettet, noch schwere Folgen, bspw. für die Umwelt, abzuwenden waren. 
 3 Quelle: DB Netz AG 
 Seite 11 von 37 
+
  
  
  
@@ -719,24 +643,19 @@ Seite 11 von 37
 	
                                                        
 Untersuchungsbericht 
+
 Zugentgleisung, 20.05.2020, Bf Wengern Ost 
 4  Auswertung	des	Ereignisses	
 In diesem Kapitel werden insbesondere, die im Rahmen der Unfalluntersuchung ermittelten 
-
 maßgeblichen  sicherheitskritischen  Faktoren  in  bis  zu  vier  zugehörigen  Unterkapiteln 
-
 dargestellt.  Hierbei  wird  im  jeweiligen  Einzelfall  auf  die  Aufgaben  und  Pflichten  einzelner 
-
 Personen  und  Stellen,  auf  beteiligte  Fahrzeuge  und  technische  Einrichtungen  genauso 
 eingegangen  wie  auf  konkrete  menschliche  Handlungen  sowie  auf  Feedback-  und 
 Kontrollmechanismen. Sofern Informationen zu früheren Ereignissen vorliegen, werden diese 
 in einem weiteren Unterkapitel dargestellt. 
 4.1  Aufgaben	und	Pflichten	
-
 In diesem Kapitel werden unbeschadet des Artikels 20 Abs. 4 der Richtlinie (EU) 2016/798 die 
-
 Aufgaben  und  Pflichten  von  Personen  und  Stellen  behandelt,  die  an  dem  Ereignis  beteiligt 
-
 waren. Untersuchungen zu Schuld- oder Haftungsfragen sind explizit ausgeschlossen und nicht 
 Untersuchungsgegenstand. 
 4.1.1  Untersuchung	der	betrieblichen	Abläufe	des	Infrastrukturbetreibers	
@@ -757,23 +676,19 @@ Zur sicheren Durchführung der Fahrten auf der Infrastruktur der DB Netz AG hatt
 Arbeitsplatz  auf  dem  Stellwerk  Witten Hbf  unter  anderem  unternehmensinterne 
 Arbeitsvorgaben wie die Ril 408 und das Betriebsstellenbuch zu beachten und umzusetzen. 
 Die  Rekonstruktion  der  betrieblichen  Handlungen  des  zum  Zeitpunkt  des  Ereignisses 
-
 zuständigen Fdl in Witten Hbf basierte auf der Auswertung der betrieblichen Unterlagen sowie 
-
 der aufgezeichneten GSM-R-Gespräche. 
 Seite 12 von 37 
+
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 20.05.2020, Bf Wengern Ost 
-
 Der Fdl Witten Hbf hatte für den Güterzug DGS 43982 in Richtung Witten Hbf die Fahrstraße
-
 durch  Gleis 102  des  Bf Wengern Ost  mit  Fahrtstellung  des  Einfahrsignals A192/n  und  des
 Asig N102 eingestellt. Um ca. 16:48 Uhr informierte der Tf des Güterzugs DGS 43982 den Fdl
-
 Witten Hbf  mittels  eines  GSM-R  Anrufes  darüber,  dass  der  Güterzug  wegen  Luftverlustes
-
 liegengeblieben  und  Rauch  zu  erkennen  sei.  Die  Anfrage  des  Tf  nach  einer  Gleissperrung,
 wegen  der  bevorstehenden  Zuguntersuchung,  wurde  durch  den  Fdl,  abweichend  von  der
 Ril 408.0471 (1) c)  und g),  abgelehnt.  Erst  nachdem  der  Tf  im  weiteren  Verlauf  den  Fdl
@@ -784,9 +699,7 @@ Auswertung der Daten der HOA
 Nach  der  TSI  OPE  2019/773  muss  der 
 Infrastrukturbetreiber  Aufzeichnungen  zu
 Heißläuferortungsanlagen (HOA) vornehmen, soweit HOA vorhanden sind. Die Daten müssen
-
 sicher  gespeichert  und  aufbewahrt  werden  und  den  zuständigen  Behörden,  einschließlich
-
 nationaler Untersuchungsstellen, die ihre Aufgaben nach Art. 22 der Richtlinie (EU) 2016/798
 wahrnehmen, zugänglich sein. 
 Unmittelbar nach dem Ereignis wurden durch die BEU beim EIU die Daten der beiden zuletzt
@@ -795,19 +708,18 @@ HOA befand sich im Bf Lennestadt-Grevenbrück, Strecke  2800 in km 66,3. Zuvor w
 HOA im Bf Sinn, km 134,0 der Strecke 2651 durch den Güterzug DGS 43982 durchfahren. Die
 Auswertung anhand der bestehenden Alarmtemperaturen ergab für den Güterzug DGS 43982
 keine Auffälligkeiten im Sinne der Ril 819. 
-4.1.2  Untersuchung	der	betrieblichen	Abläufe	des	EVU	LTE‐NL	
+4.1.2  Untersuchung	der	betrieblichen	Abläufe	des	EVU	LTE-NL	
 Das  EVU LTE-NL  war  das  betriebsverantwortliche  EVU  für  die  Zugfahrt  DGS 43982  und
 verfügte zum Ereigniszeitpunkt über eine SiBe gemäß § 7a AEG. Die Trassenbestellung erfolgte
 durch das Schwesterunternehmen LTE-DE. 
 Gemäß  § 4 Abs. 3 Nr. 1 AEG  ist  ein  EVU  dazu  verpflichtet,  den  Betrieb  sicher  zu  führen,
 einschließlich  der  sicheren  Durchführung  von  Zugfahrten.  Zur  Gewährleistung  der
-
 systematisch  sicheren  Betriebsführung  gehört  u. a.  das  Aufstellen  und  Einhalten  eines  den
-
 gesetzlichen  Anforderungen  genügenden  SMS  entsprechend  § 4 Abs. 4  AEG  i. V. m.  der
 Richtlinie (EU) 2016/798.  Inhaltliche  Maßstäbe  für  ein  SMS  sind  die  Aufstellung  und
 Einhaltung der in der Verordnung (EU) 2018/762 genannten Anforderungen. Zudem waren die
 Seite 13 von 37 
+
  
  
  
@@ -836,6 +748,7 @@ Seite 13 von 37
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 20.05.2020, Bf Wengern Ost 
 vom  EIU  zur  Benutzung  der  Infrastruktur  erstellten  Betriebsregeln  zu  beachten  und 
 umzusetzen. Regeln für die Durchführung von Zugfahrten und zur Planung und Überwachung 
@@ -874,9 +787,11 @@ zunächst
 in  die  Schnellbremsstellung  verlegt.  Zeitgleich  mit  der  Rückstellung  des 
 Führerbremsventils in die Lösestellung wurde um 16:48:19 Uhr ein mehrmaliges Bedienen der 
 Seite 14 von 37 
+
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 20.05.2020, Bf Wengern Ost 
 Taste  „Frei“  aufgezeichnet.  Ca. 4 Sek.  später  wurde  das  Führerbremsventil  bei  einer 
 Geschwindigkeit  von  ca. 30 km/h  erneut  in  die  Schnellbremsstellung  verlegt.  Im  Anschluss 
@@ -899,10 +814,12 @@ In  diesem  Kapitel  sind  die  Erkenntnisse  aus  der  Untersuchung  beteiligte
 Eisenbahninfrastruktur und weiterer technischer Einrichtungen einschließlich damit eventuell 
 verbundener Tätigkeiten und Entscheidungen dargestellt. 
 Seite 15 von 37 
+
  
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 20.05.2020, Bf Wengern Ost 
 4.2.1  Untersuchung	von	Fahrzeugen	
 Die  folgenden  Unterkapitel  geben  die  Ergebnisse  der  Untersuchung  der  beteiligten 
@@ -912,37 +829,31 @@ Das entgleiste Fahrzeug war Teil einer Flotte von 173 vierachsigen Autotransport
 Eigentümers  und  Halters  DB Cargo Logistics GmbH.  Der  Fahrzeugbau  mit  Montage  der 
 Radsätze  und  Radsatzlager  wurde  beim  slowakischen  Hersteller  TVP  durchgeführt. 
 Autotransportwagen  der  Wagengattung  Laaeffrs 561  bestehen  aus  einem  A-  und  einem  B-
-
 Wagen,  die  mittels  einer  Kurzkupplung  miteinander  verbunden  sind,  siehe  nachfolgende 
-
 Abbildung.  
 Abbildung 7: Technische Zeichnung eines Autotransportwagen Laaeffrs 5614 
-
 Die  Ermittlungen  konzentrierten  sich  auf  den  entgleisten,  an  vierter  Stelle  laufenden 
-
 Autotransportwagen mit der Fahrzeugnummer 25 80 4382 051-7. Es handelte sich dabei um 
 ein Neufahrzeug, das seit seiner Auslieferung am 17.09.2019 eine Laufleistung von 19.580 km 
 erreicht hatte.  
 Grundlage für die Inbetriebnahme des Autotransportwagens Laaeffrs 561 der Bauart (BA) N-
 506-00 war eine mit Datum vom 22.10.2018 erteilte Inbetriebnahmegenehmigung auf Basis 
 der seinerzeit gültigen „Verordnung über die Erteilung von Inbetriebnahmegenehmigungen 
-
 für  das  Eisenbahnsystem“  (EIGV).  Gleichzeitig  mit  der  Inbetriebnahmegenehmigung  wurde 
-
 eine Serienzulassung und eine Genehmigung des Fahrzeugtyps zur Eintragung des Typs in das 
 Europäisches Register genehmigter Fahrzeugtypen erteilt. Der Autotransportwagen mit der 
 Fahrzeugnummer  25 80 4382 051-7  wurde  auf  Basis  einer  Konformitätserklärung  des 
 Herstellers  mit  der  genehmigten  Fahrzeugserie  in  Betrieb  genommen.  Ausweislich  der 
-
 nationalen  Zulassungsentscheidung  ist  der  regelgerechte  Bau  (Materialien,  Verbindungen 
-
 4Quelle: DB Cargo Logistics GmbH bearbeitet durch BEU 
 Seite 16 von 37 
+
  
  
  
                                                        
 Untersuchungsbericht 
+
 Zugentgleisung, 20.05.2020, Bf Wengern Ost 
 etc.) nicht Gegenstand der behördlichen Entscheidung. Mit Datum vom 08.08.2019 erteilte 
 die  Eisenbahnagentur  der  Europäischen  Union  (ERA)  eine  Genehmigung  auf  der  Grundlage 
@@ -952,9 +863,7 @@ e) Durchführungsverordnung (EU) 2018/545.
 Zugkonfiguration, entstandene Schäden 
 Entsprechend der Angaben aus dem Bremszettel und der Wagenliste bestand der Güterzug 
 DGS 43982  aus  17 beladenen  Autotransportwagen  der  Wagengattung  Laaeffrs 561.  Der 
-
 Güterzug  hatte  eine  Gesamtlänge  von  526 m,  ein  Gesamtzuggewicht  von  1.139 t  und  ein 
-
 Gesamtbremsgewicht  von  1.043 t.  In  der  Bremsstellung P  verfügte  der  Güterzug  über 
 91 Bremshundertstel,  gegenüber  den 
 laut  Fahrplan  geforderten  66 Mindestbremshundertstel.  Die  Traktion  erfolgte  durch  ein  Tfz  der  Baureihe  (BR) 193  mit  der 
@@ -991,9 +900,11 @@ Tabelle 4: Technische Daten Autotransportwagen 25 80 4382 051-7
 Die folgenden Abbildungen zeigen den betroffenen Radsatz sowie die Schäden, die aufgrund 
 der abgesenkten Ladefläche entstanden sind. 
 Seite 17 von 37 
+
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 20.05.2020, Bf Wengern Ost 
 Abbildung 8: Entgleister Radsatz 
 Abbildung 9: Durchtrenntes Bodenblech 
@@ -1002,16 +913,16 @@ Parabelfeder auf den Radsatz abstützen. Unter dem Einfluss der Gewichtskräfte 
 trat eine Verwindung des Aufbaus ein. Das obere Deck des Autotransportwagens senkte sich 
 soweit  ab,  dass  es  auf  den  im  unteren  Deck  befindlichen  Pkw  zum  Liegen  kam.  Ohne  das 
 Auflager auf dem Radsatz senkte sich das untere Deck bis auf das Rad des defekten Radsatzes 
-
 ab.  In  der  Folge  konnte  sich  das  linke  Rad  des  defekten  Radsatzes  durch  das  Bodenblech 
-
 hindurcharbeiten. 
 Seite 18 von 37 
+
  
  
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 20.05.2020, Bf Wengern Ost 
 Aufgrund des Neuzustandes und der geringen Laufleistung des Fahrzeugs bis zum Zeitpunkt 
 des Ereignisses hatte es noch keine Werkstattzuführungen gegeben. 
@@ -1030,12 +941,14 @@ Bonatrans GmbH. Die finale Montage der Radsatzlager erfolgte im Werk von TVP in 
 Slowakei. Die folgende Tabelle enthält die Daten der Radsätze des Autotransportwagens mit 
 der Fahrzeugnummer 25 80 438 2 051-7. 
 Fahrzeugdaten 
-Radsatzdaten (Datenband/‐bank) 
+Radsatzdaten (Datenband/-bank) 
 Fahrzeugnummer 
 25 80 438 2 051-7 
 Radsatznummer 
+
 292 686 + 18  
 (Schadradsatz) 
+
 292 665 + 19 
 293 018 + 19 
 293 019 + 19 
@@ -1047,8 +960,10 @@ Laaeffrs
 Fahrzeugbauart 
 561.0 
 Halter  
+
 DB Cargo 
 GmbH 
+
 Radsatzbauart 
 Lagerbauart  
 Logistics 
@@ -1058,16 +973,16 @@ TVP 09/19
 Tabelle 5: Daten der Radsätze des Autotransportwagens 25 80 438 2 051-75 
 5 Quelle: DB Systemtechnik GmbH, Bericht 20-61152-TT.TVE33(2) -54-001 
 Seite 19 von 37 
+
  
  
  
  
                                                        
 Untersuchungsbericht 
+
 Zugentgleisung, 20.05.2020, Bf Wengern Ost 
-
 Die  Position  der  einzelnen  Bauteile  des  Radsatzlagers  sind  der  folgenden  Abbildung  zu 
-
 entnehmen. 
 Abbildung 10: Schnittzeichnung Radsatzlager6 
 Bericht der DB Systemtechnik GmbH 
@@ -1087,22 +1002,22 @@ eine Fettprobe zu entnehmen. Da im hinteren Dichtbereich des Gehäuses noch star
 verschmutze Fettreste vorhanden waren, kann davon ausgegangen werden, dass das 
 6 Quelle: DB Systemtechnik GmbH, Bericht 20-61152-TT.TVE33(2) -54-001 
 Seite 20 von 37 
+
  
  
  
                                                        
 Untersuchungsbericht 
+
 Zugentgleisung, 20.05.2020, Bf Wengern Ost 
-
 Lager befettet eingebaut war. Bei der Begutachtung der Nutmutter zeigte sich, dass beide 
-
 Sicherungsschrauben abgeschert waren und noch Restgewinde in der Nutmutter 
 steckte.“ 7 
 Die nachfolgende Abbildung zeigt das beschädigte Radsatzlager. 
 Abbildung 11: Defektes Radsatzlager 
 Der  Bericht  führte  zur  Untersuchung  der  übrigen  drei  Radsätze  des  verunfallten  Wagens 
 folgendes aus: 
-„Die Prüfung der Wellenverschlüsse ergab, dass bei allen drei Radsätzen auf der B‐Seite 
+„Die Prüfung der Wellenverschlüsse ergab, dass bei allen drei Radsätzen auf der B-Seite 
 die Verschraubungen nicht bedingungsgemäß waren.“8 
 In der folgenden Abbildung ist eine Zusammenstellung der beschriebenen Mängel aufgeführt. 
 „In dieser Darstellung bedeutet „mit Befund“, dass das Losbrechmoment der 
@@ -1111,13 +1026,15 @@ ordnungsgemäßen Verschraubungen des Wellenverschlusses einschließlich des
 7 Quelle: DB Systemtechnik GmbH, Bericht 20-61152-TT.TVE33(2) -54-001 
 8 Quelle: DB Systemtechnik GmbH, Bericht 20-61152-TT.TVE33(2) -54-001 
 Seite 21 von 37 
+
  
  
  
                                                        
 Untersuchungsbericht 
+
 Zugentgleisung, 20.05.2020, Bf Wengern Ost 
-Wellenschenkelbruches waren stets auf der B‐Seite des jeweiligen Radsatzes und es betra
+Wellenschenkelbruches waren stets auf der B-Seite des jeweiligen Radsatzes und es betra
 f 
 somit alle Radsätze des entgleisten Fahrzeuges“9 
 Die  nachfolgende  Abbildung  zeigt  den  Zustand  der  einzelnen  Wellenverschlüsse  d
@@ -1127,6 +1044,7 @@ Abbildung 12: Übersicht der Ergebnisse aus der Untersuchung des Wellenverschlus
 9 Quelle: DB Systemtechnik GmbH, Bericht 20-61152-TT.TVE33(2) -54-001 
 10 Quelle: DB Systemtechnik GmbH, Bericht 20-61152-TT.TVE33(2) -54-001 
 Seite 22 von 37 
+
  
  
  
@@ -1135,6 +1053,7 @@ Seite 22 von 37
  
                                                        
 Untersuchungsbericht 
+
 Zugentgleisung, 20.05.2020, Bf Wengern Ost 
 Fazit hinsichtlich der Erkenntnisse aus dem Gutachten: 
 Die aus dem Gutachten ersichtlichen Feststellungen lassen das letztendliche Schadensbild der 
@@ -1144,9 +1063,7 @@ Der Achsschenkel als Teil der Radsatzwelle scherte vom Radsatzlager ab, da das G
 Welle instabil wurde. Diese Instabilität war auf einen übermäßigen Hitzeeintrag in die Welle 
 zurückzuführen. Dieser Hitzeeintrag entstammte einer erheblich erhöhten Reibung zwischen 
 der  Welle  und  dem  Radsatzlager.  Dieser  Hitzeeintrag  folgerte  sich  aus  dem  Versagen  der 
-
 Funktion  des  Radsatzlagers,  die  horizontale  und  vertikale  Kraftübertragung  bei  gleichzeitig 
-
 nahezu reibungsfreiem Drehen der Welle sicherzustellen. 
 Die  Reibungserhöhung  hatte  sich  aus  einer  Blockade  der  Wälzkörper  des  Radsatzlagers 
 ergeben.  Diese  Blockade  war  durch  abgescherte  Sicherungsschrauben  der  Nutmutter 
@@ -1156,9 +1073,7 @@ Das  Lösen  dieser  Schraubverbindungen  konnte  aufgrund  der  betriebsüblich
 eintreten,  da  deren  Verspannungen  nicht  durch  ein  zum  Sichern  dauerhaft  ausreichendes 
 Anzugsmoment gewährleistet waren. 
 Die im Gutachten dargestellte Kausalkette erscheint der BEU soweit plausibel und eröffnet 
-
 auch  keine  Zweifel  hinsichtlich  anderweitiger  Zusammenhänge.  Daher  schließt  die  BEU 
-
 daraus,  dass 
 infolge  ungenügender  Anzugsmomente  der  Nutmutter  und  deren 
 Sicherungsschrauben im Radsatzlager dieses letztlich in seinen Funktionen versagte, und es 
@@ -1168,16 +1083,16 @@ Herstellungsprozess und Qualitätsabnahme
 Der Herstellungsprozess wurde von der Firma TVP durchgeführt und dabei durch die DB AG 
 begleitet  und  die  Qualitätsabnahme  (TVP,  Qualitätssicherung  DB AG)  mit  protokolliert.  Die 
 Inbetriebnahme  eines  Neufahrzeugs  durch  die  DB AG  unterlag  ebenfalls  einem 
-
 dokumentierten  Prozess,  der  auf  die  Einhaltung  von  Qualitätsstandards  abzielte.  Die 
-
 vorliegenden  Abnahmedokumente  zeigten  initial  keinen  Qualitätsmangel  auf,  der  eine 
 erneute  Überprüfung  der  durchgeführten  Arbeiten  notwendig  gemacht  hätte.  Allerdings 
 widersprachen  diese  Ergebnisse  den  im  Audit  vom  13.08.2020  durch  die  DB AG,  Abteilung 
 Seite 23 von 37 
+
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 20.05.2020, Bf Wengern Ost 
 Beschaffung  Schienenfahrzeuge,  aufgezeigten  Mängeln,  wie  in  Kapitel 4.4.2  dargestellt. 
 Bereits  vor  dem  Ereignis  wurden  die  Montageprozesse  durch  DB Systemtechnik GmbH 
@@ -1185,9 +1100,7 @@ stichprobenweise  begutachtet,
 soweit  Mängel 
 identifiziert  wurden,  wurden 
 in 
-
 Zusammenarbeit  mit  dem  Hersteller  die  Prozesse  kontinuierlich  verbessert.  Die  Diskrepanz 
-
 zwischen den vorliegenden Abnahmedokumenten und den später festgestellten Mängeln im 
 Audit  verdeutlichte  den  Stellenwert  einer  genaueren  Überprüfung  und  Verbesserung  der 
 Qualitätskontrollprozesse  während  des  Herstellungsprozesses  und  vor  der  Abnahme  und 
@@ -1197,7 +1110,7 @@ eisenbahnrechtlichen Normadressaten.
 Aufgrund der Erkenntnisse zum Ereignishergang und der Sachverhaltsermittlung konnte auf 
 weiterführende oberbautechnische Untersuchungen der Gleisanlagen verzichtet werden. In 
 Folge der Entgleisung kam es zu Schäden an der Infrastruktur. 
-4.2.3  Untersuchung	der	Leit‐	und	Sicherungstechnik	
+4.2.3  Untersuchung	der	Leit-	und	Sicherungstechnik	
 Hinsichtlich der  LST-Anlagen  lagen keine Hinweise  auf  Unregelmäßigkeiten  oder  Störungen 
 vor. Arbeiten an den Signalanlagen wurden unmittelbar vor dem Ereignis nicht durchgeführt. 
 Die  Zugfahrt  des  Güterzuges  DGS 43982  erfolgte  auf  einer  gesicherten  Fahrstraße  unter 
@@ -1210,35 +1123,27 @@ Merkmale sowie organisatorischer und Arbeitsplatzfaktoren ergeben.
 4.3.1  Beteiligte	des	Infrastrukturbetreibers	
 Der Fdl absolvierte eine dreijährige Ausbildung zum Eisenbahner im Betriebsdienst mit der 
 Fachrichtung Fahrweg. Diese Ausbildung beendete er erfolgreich am 28.01.2019. Die für den 
-
 Einsatz auf dem Stellwerk Wif des Bf Witten Hbf notwendigen Kenntnisse und Fertigkeiten für 
-
 Bediener  von  Signalanlagen  wurden  gemäß  Ril 482.0046V02  am  26.03.2019  durch  den  Fdl 
 nachgewiesen. 
 Seite 24 von 37 
+
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 20.05.2020, Bf Wengern Ost 
 Die  Nachweise  gemäß  Ril 412.9111  über  die  im  Anschluss  an  die  Verwendungsprüfung  auf 
-
 dem  Stellwerk  Witten Hbf  in  den  Jahren  2019  und  2020  bis  zum  Tag  des  Ereignisses 
-
 durchgeführten Fortbildungen mit Inhalten gemäß Themenkatalog Ril 046.2002A05 in Form 
-
 von  fachlicher  Information  und  Training  konnten  durch  das  EIU  nachgewiesen  werden. 
-
 Thematisiert wurde bei diesen Unterrichten u. a. Maßnahmen bei gefährlichen Ereignissen 
 sowie das Liegenbleiben von Zügen. 
 Abweichend von der Ril 408.0471 (1) c) und g) führte der Fdl die Gleissperrung erst durch, als 
 der  Tf  bereits  am  Zug  entlanggegangen  war  und  ihm  die  Zugentgleisung  meldete.  Die 
-
 Handlungen  des  Fdl  Witten Hbf  waren  nicht  dazu  geeignet,  der  vom  Tf  des  Güterzuges 
-
 DGS 43982  gemeldeten  Gefahr  entgleister  Fahrzeuge  während  des  laufenden  Betriebs 
-
 qualifiziert  entgegenzuwirken.  Sie  hätten  bei  leicht  veränderten  Bedingungen  ein  weitaus 
-
 größeres Schadensausmaß begünstigen können. 
 4.3.2  Beteiligte	des	EVU		
 Der Tf des Güterzuges DGS 43982 war im Besitz eines gültigen EU-Triebfahrzeugführerscheins, 
@@ -1255,9 +1160,7 @@ vom
 betriebsdurchführenden EVU LTE-NL mit Datum vom 18.03.2020 eine Zusatzbescheinigung. In 
 dieser  waren  die  Klassen  A  (Rangierfahrten)  und  B 2  (Zugfahrten  im  Güterverkehr)  sowie 
 Zusatzqualifikationen wie z. B. Zugsicherungssysteme und Betriebsverfahren eingetragen. Des 
-
 Weiteren  wurde  im  Abschnitt 7  der  Zusatzbescheinigung  die  Qualifikation  zum  Führen  der 
-
 BR 193  bescheinigt.  Die  vorgelegten  Schichtpläne  belegten  die  Einhaltung  der  Ruhe-  und 
 Einsatzzeiten.  Die  Nachweise  über  regelmäßige  Fortbildungen  sowie  der  Streckenkenntnis 
 wurden 
@@ -1277,32 +1180,26 @@ aktuellen
 Tauglichkeitsnachweis einer nach § 16 TfV anerkannten Stelle nachgewiesen. Nachweise der 
 letzten  drei  durchgeführten  Überwachungen  bei  der  Dienstausübung  wurden  ebenfalls 
 vorgelegt. 
-Fazit der EFR‐Datenauswertung 
+Fazit der EFR-Datenauswertung 
 Die PZB-Bedienhandlungen zum Zeitpunkt des Ereignisses zeigten, dass der Tf nicht gemäß 
 der  Ril 915.0105 Abschnitt 3 Abs. 3 a)  handelte,  da  er  die  Zwangsbremsung  nicht  wie 
 vorgegeben  mit  einer  Schnellbremsung  unterstützte.  Stattdessen  versuchte  er,  die 
 Seite 25 von 37 
+
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 20.05.2020, Bf Wengern Ost 
-
 Zwangsbremsung  vorzeitig  aufzulösen.  Diese  Annahme  wurde,  resultierend  aus  der  
-
 EFR-Auswertung  aufgrund  der  dort  registrierten,  mehrmaligen  Bedienung  der  Taste  „Frei“, 
 noch während der Güterzug in Bewegung war, getroffen. Offenbar ging der Tf davon aus, eine 
 Zwangsbremsung  aufgrund  einer  möglichen  Fehlbedienung  der  Taste  „Wachsam“  am 
-
 Einfahrvorsignal des Bf Witten Hbf erhalten zu haben. Auch nach dem Stillstand des Zuges und 
-
 einem  Blick  aus  dem  Fenster,  bei  dem  er  die  Staubbildung  am  Zug  erkannt  haben  könnte, 
-
 informierte er den Fdl mittels eines einfachen GSM-R Gesprächs, anstatt nach Ril 408.2581 
-
 Abs. 2 und 3 einen Notruf mit anschließendem Nothaltauftrag abzusetzen. Das Betreten der 
-
 Gleise  zur  Ermittlung  der  Ursache  für  die  Staubbildung,  ohne  zuvor  eine  Sperrung  des 
-
 Nachbargleises beim zuständigen Fdl durchzusetzen, zeigte weitere Handlungsdefizite des Tf 
 in dieser Situation. 
 Bereits am 17.04.2020 wurden bei einer Begleitfahrt durch einen Kontrolleur des EVU LTE-NL 
@@ -1315,33 +1212,27 @@ vorgesehen.
 Laut den Angaben des Fahrzeugherstellers TVP waren die Mitarbeiter für die Radsatzmontage 
 qualifiziert.  Entsprechende  Unterlagen  wurden  der  BEU  zur  Verfügung  gestellt.  Diese 
 Dokumente zeigten, dass die Mitarbeiter die Anleitung zur Radsatzlagermontage DB (BA388) 
-
 zur Kenntnis genommen hatten. Durch ihre Unterschrift erklärten die Mitarbeiter, dass ihnen 
-
 die Technologische Anweisung TN 26-0073/18b bekannt und der Arbeitsablauf, insbesondere 
-
 zur  Montage  von  Muttern,  für  sie  klar  und  verständlich  war  und  sie  ihn  bei  der 
-
 Arbeitsausführung befolgen würden.  
 Die Untersuchung der montierten Radsatzlager am verunfallten Fahrzeug sowie an weiteren 
 Fahrzeugen derselben Bauserie ergab, dass die Ursache für dieses Ereignis auf Fehler in der 
 Montage zurückzuführen war. Darüber hinaus ließ die Häufigkeit von Montagefehlern, die bei 
 der späteren Untersuchung aller Fahrzeuge dieser Serie entdeckt wurden, auf Mängel in der 
-
 Qualitätskontrolle  schließen.  Es  blieb  unklar,  ob  Mängel  an  Arbeitsmitteln,  die  bereits  bei 
-
 Seite 26 von 37 
+
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 20.05.2020, Bf Wengern Ost 
 einem außerplanmäßigen Audit durch die DB AG identifiziert wurden, zu den Montagefehlern 
 beigetragen hatten.  
-4.4  Feedback‐	und	Kontrollmechanismen	
+4.4  Feedback-	und	Kontrollmechanismen	
 In diesem Kapitel wird insbesondere auf Bedingungen, Feedback- und Kontrollmechanismen 
-
 im  Eisenbahnsystem  eingegangen,  denen  ein  aktiver  Einfluss  auf  die  Entstehung  ähnlicher 
-
 Ereignisse zugeschrieben werden könnte. Diese Mechanismen schließen Faktoren des Risiko- 
 und Sicherheitsmanagements sowie Überwachungsverfahren mit ein. 
 4.4.1  SMS	des	EVU		
@@ -1359,34 +1250,28 @@ Konformitätsbewertung
 in  Bezug  auf  die  Anforderungen  und  die  Ausstellung  von 
 Eisenbahnsicherheitsbescheinigungen“.  Während  des  Verfahrens  erfolgte  eine  jährliche 
 Auditierung durch die niederländische Aufsichtsbehörde. 
-
 Um  sicherzustellen,  dass  Personal  mit  sicherheitsrelevanten  Tätigkeiten  die  übertragenen 
-
 Aufgaben ordnungsgemäß erfüllte, musste ein Verfahren eingerichtet sein, in dem regelmäßig 
 die  Erfüllung  sicherheitsrelevanter  Aufgaben  überwacht  wurde.  Die  niederländische 
-
 Aufsichtsbehörde  bestätigte,  dass  das  EVU LTE-NL  bereits  während  des  oben  genannten 
-
 Verfahrens  über  durchgehende  Prozesse  der  Personalüberwachung  von  Mitarbeitern  mit 
 sicherheitsrelevanten Aufgaben verfügte. Mittels direkter und indirekter Überwachung wurde 
 die  Fachkompetenz  der  Mitarbeiter  gemessen.  Bei 
 festgestellten  Mängel  waren 
 Abhilfemaßnahmen vorgesehen.  
 4.4.2  Qualitätssicherung	des	Fahrzeugherstellers		
-
 Der Fahrzeughersteller TVP mit Firmensitz in der Slowakei war seit 1928 in der Fertigung von 
-
 Schienenfahrzeugen  tätig.  TVP  erhielt  erstmals  im  November  1994  eine  Zertifizierung  des 
-
 Qualitätsmanagements  nach  der  Norm  DIN EN ISO 9001  in  der  seinerzeit  gültigen  Fassung. 
-
 Laut  Angaben  der  Unternehmensvertretung  erfolgte  seitdem  alle  drei  Jahre  eine 
 Rezertifizierung, vor dem Ereignis zuletzt am 24.09.2019. Zusätzlich wurden alle zwei Jahre 
 zwei Aufsichtsaudits durchgeführt. 
 Seite 27 von 37 
+
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 20.05.2020, Bf Wengern Ost 
 Die Auflistung der seit 1994 durchgeführten Qualitätskontrollen (siehe Tabelle 6) zeigte auf, 
 dass wiederholt Mängel bei der Radsatzmontage festgestellt wurden. Dies bestätigten auch 
@@ -1401,9 +1286,7 @@ Radsatzmontage fortgesetzt werden.
 Vor  diesem  Hintergrund  wurde  die  Güte  der  Fertigungsprozesse  bei  TVP  weitergehend 
 betrachtet: 
 Im Zusammenhang mit anderen Fahrzeugprojekten fand von weiteren Organisationen eine 
-
 Anzahl von Auditierungen bei TVP in zeitlich engen Abständen statt. Deren Ergebnisse standen 
-
 ebenfalls  mit  der  Radsatzlagermontage  sowie  dem  Zusammenbau  von  Radsatz  und 
 Radsatzlager  in  Zusammenhang.  Sie  offenbarten  dabei  schwankende  Qualitätsresultate.  So 
 wurde bereits am 13.02.2019 ein Zwischenaudit zur Lagermontage an Radsätzen durch die 
@@ -1425,9 +1308,11 @@ fehlende Dokumentationen zu verschiedenen Arbeitsschritten,
 falsches bzw. beschädigtes Werkzeug bei der Montage, 
 lediglich 5 % Vermessungsquote der verwendeten Innenringe, 
 Seite 28 von 37 
+
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 20.05.2020, Bf Wengern Ost 
 
 verschmutzter Arbeitsplatz bei der Verwendung von Fettgebinden, 
@@ -1435,20 +1320,16 @@ verschmutzter Arbeitsplatz bei der Verwendung von Fettgebinden,
   unplausible Schulungsnachweise der Mitarbeiter hinsichtlich der Anzahl der 
 geschulten Mitarbeiter, der Schulungstermine sowie der Schulungsinhalte, sowie 
   unvollständiger Zeichensatz bei der Montage. 
-
 Am  14.08.2020  wurde  bei  der  TVP  zudem  ein  Audit  im  Bereich  der  Fertigung  bzw.  des 
-
 Zusammenbaus  von  Radsätzen  und  Radsatzlagern  durch  die  Firma  Zaklady  Naprawcze 
-
 Tabouru  Kolejoego  Paterek S.A  (ZNTK),  einer  Tochtergesellschaft  der  TVP,  durchgeführt. 
-
 Hierbei wurden keine signifikanten Mängel festgestellt. 
 Seite 29 von 37 
- 
- 
+
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 20.05.2020, Bf Wengern Ost 
 Die nachfolgende Tabelle gibt eine Übersicht der zur Verfügung stehenden Unterlagen von 
 durchgeführten Audits und Zwischenaudits sowie Qualitätskontrollen beim Hersteller TVP, die 
@@ -1456,92 +1337,145 @@ sowohl  vor  als  auch  nach  der
 im  Jahr  2019  ergangenen  Zertifizierung  gemäß 
 DIN EN ISO 9001:2015 durchgeführt wurden.  
 Datum 
+
 Durchführung 
 nach: 
+
 Art 
+
 Durchführende 
 Organisation  
+
 Bereich 
+
 Ergebnis  Abhilfema
-ß‐nahmen 
+ß-nahmen 
+
 01.11.1994  Qualitäts-
 Zertifizierung 
 management 
+
 DNV Business 
 Assurance SE 
+
 Montage von 
 Radsätzen 
+
 Keine 
 Angaben 
+
 Erfolgreich 
 durchgeführt 
+
 15.08.2018 
+
 Interne 
 Vorgaben 
+
 Lieferantenaudit 
+
 RailQ 
+
 Lagermontage 
 an Radsätzen 
+
 Mängel  Wurden 
 beseitigt 
-17.10.2018  Fachtechnische 
+
+17.10.2018  Fachtech-
+
+nische 
 Begutachtung 
-02.11.2018  Fachtechnische 
+
+02.11.2018  Fachtech-
+
+nische 
 Begutachtung 
+
 Qualitätskontrolle 
+
 Qualitätskontrolle 
+
 13.02.2019 
+
 Interne 
 Vorgaben 
+
 Lieferantenaudit 
+
 Qualitätskontrolle 
+
 12.07.2019  Prüfung der 
+
 Rückmeldung 
 zur fachtechnischen 
 Begutachtung 
 vom 
 17.10.2018  
+
 DB 
 Systemtechnik 
 GmbH 
+
 DB 
 Systemtechnik 
 GmbH 
+
 VTG Cargo AG 
+
 DB 
 Systemtechnik 
 GmbH 
+
 Wellenverschluss 
 Nutmutter 
+
 mit 
+
 Lagermontage 
 an Radsätzen 
+
 Lagermontage 
 an Radsätzen 
+
 Lagermontage 
 an Radsätzen 
+
 24.09.2019  DIN EN ISO 
 9001:2015 
+
 Zertifizierung 
+
 DNV Business 
 Assurance SE 
+
 Keine 
 Angaben 
+
 04.08.2020 
+
 Interne 
 Vorgaben 
+
 Lieferantenaudit 
+
 VTG Cargo AG 
+
 Zusammenbau Radsatz 
 und 
 Radsatzlager 
+
 Mängel 
+
 Keine 
 Angaben 
+
 Mängel  Wurden 
 zum Teil 
 beseitigt 
+
 Mängel  
+
 Keine 
 Angaben 
 
@@ -1558,81 +1492,102 @@ angepasst
 
 Ohne 
 Mängel 
+
 Mängel 
+
 Keine 
 Angaben 
+
 Keine 
 Angaben 
+
 13.08.2020 
+
 Interne 
 Vorgaben 
+
 Lieferantenaudit  
+
 14.08.2020 
+
 Interne 
 Vorgaben 
+
 Internes Audit 
 der 
 Tochtergesellschaft 
+
 DB AG 
 Abteilung 
 Beschaffung 
 Schienenfahrzeuge  
+
 ZNTK 
+
 Lagermontage 
 an Radsätzen 
+
 Mängel 
+
 Rückäusserung 
 durch TVP 
+
 Ohne 
 Mängel 
+
 Keine 
 Angaben 
+
 Zusammenbau Radsatz 
 und 
 Radsatzlager 
+
 03.08.2022  DIN EN ISO 
 9001:2015 
+
 Rezertifizierung 
+
 DNV Business 
 Assurance SE 
+
 Keine 
 Angaben 
+
 ohne 
 Mängel 
+
 Keine 
 Angaben 
+
 Tabelle 6: Übersicht ermittelter Qualitätsprüfungen bei TVP 
 Seite 30 von 37 
+
  
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 20.05.2020, Bf Wengern Ost 
-
 Der  Prozess  gemäß  DIN EN ISO 9001:2015  zur  Zertifizierung  am  24.09.2019  ermöglichte  es 
-
 dem verantwortlichen Zertifizierer, auch von Dritten durchgeführte Audits auf ihre Ergebnisse 
-
 hin  zu  überprüfen  und  in  die  Prozesse  der  zwischenzeitlichen  Überwachung  und  in  eine 
-
 folgende  Rezertifizierung  einfließen  zu  lassen.  Die  im  betrachteten  Zeitraum  vorliegenden 
-
 Ergebnisse  von  verschiedenen  Dritten  schienen  dazu  geeignet,  Ansätze 
 für  eine 
 Qualitätsverbesserung der Radsatzlagermontage sowie des Zusammenbaus von Radsatz und 
 Radsatzlager aufzuzeigen. Daraus abgeleitete Maßnahmen zur kontinuierlichen Verbesserung 
-
 der Produktion und der Qualifikation der Mitarbeiter, wie sie gemäß DIN EN ISO 9001:2015 
-
 als Teil eines Lern- und Verbesserungskreislaufs vorgesehen sind, sind jedoch nicht erkennbar. 
 4.5  Frühere	Ereignisse	ähnlicher	Art	
 Ein vergleichbarer Fall lag der BEU nicht vor. 
 Seite 31 von 37 
+
  
  
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 20.05.2020, Bf Wengern Ost 
 5  Schlussfolgerungen	
 Das  folgende  Kapitel  enthält  eine  Zusammenfassung  der  ermittelten  ursächlichen, 
@@ -1641,13 +1596,9 @@ vorgesehen,  um  Informationen  zu  bereits  ergriffenen  Maßnahmen  und  zu  z
 Bemerkungen zu teilen. 
 5.1  Zusammenfassung	und	Schlussfolgerung	
 Fdl Witten Hbf 
-
 Trotz  der  dargelegten  Qualifizierung  des  Fdl  erfolgte  in  der  Situation  des  Ereignisses  eine 
-
 inkorrekte  Anwendung  betrieblicher  Regelungen.  Weshalb  der  Fdl  der  Anfrage  des  Tf  zur 
-
 Sperrung  des  Gleises  nicht  unterstützend  nachkam  konnte  nicht  ermittelt  werden.  Daraus 
-
 folgt,  dass  die  oben  genannten  Betriebskontrollen  und  weiteren  Schulungsmaßnahmen 
 grundsätzlich erforderlich scheinen, um die Handlungen zu kontrollieren und das Fachwissen 
 zu festigen. Jedoch blieben sie hinsichtlich einer Beachtung in der Praxis wirkungslos. 
@@ -1657,9 +1608,7 @@ wenngleich dadurch das Unfallgeschehen nicht beeinflusst wurde. Die genannten De
 Tf hätten unter leicht veränderten Umständen, wie beispielsweise nach der Entgleisung ins 
 Profil  des  Nachbargleises  hineinragende  Fahrzeuge  oder  Ladung,  ein  Ereignis  mit 
 möglicherweise  höherem  Schadensausmaß  begünstigen  können,  was  umso  mehr  ein 
-
 sachgerechtes  Handeln  im  Gefahrfall  verlangt  hätte.  Das  in  der  Vergangenheit  bei  einer 
-
 Überwachung  des  Tf  aufgetretene  Defizit  im  Handeln  bei  „gefährlichen  Ereignissen  im 
 Bahnbetrieb“  wurde  seitens  des  EVU LTE-NL  durch  das  genannte  Verfahren  eines 
 anlassbezogenen  Lehrgespräches 
@@ -1680,36 +1629,31 @@ gemäß
 der 
 Richtlinie (EU) 2016/798 des Europäischen Parlaments und des Rates und zur Aufhebung der 
 Seite 32 von 37 
+
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 20.05.2020, Bf Wengern Ost 
 Verordnungen (EU) Nr. 1158/2010  und 
 (EU) Nr. 1169/2010,  Anhang I, 
 insbesondere 
 Kapitel 4.2.1 e) und f)). 
 Autotransportwagen Laaeffrs 561 
-
 Ein  mangelhaft  auf  der  Radsatzwelle  montiertes  Radsatzlager  war  Ursache  für  die 
-
 Zugentgleisung  am  20.05.2020. 
 Infolge  der  ersten  Ermittlungen  verdichteten  sich 
 Erkenntnisse, dass weitere Fahrzeuge dieses Typs bzw. der Fertigungsserie ähnliche Mängel 
 vorweisen konnten und daher der Eisenbahnbetrieb im Weiteren gefährdet war. Im Juli 2020 
-
 wurde  durch  die  BEU  eine  Sicherheitsempfehlung  zur  Identifizierung  und  Überprüfung  der 
-
 Radsatzlagerbefestigung an Wagen der betroffenen Wagengattung herausgegeben. Durch das 
-
 EBA wurde über das ERA Safety Information System (SIS) ein Safety Alert ausgelöst. Ferner 
 wurden  durch  den  Fahrzeughalter  branchenrelevante  europäische  Gremien  über  die 
 Erkenntnisse zur weiteren Veranlassung informiert. 
 Fahrzeughersteller TVP 
 Beim Hersteller TVP konnte der rekonstruierte Arbeitsfehler eintreten, obwohl vorgewiesene 
 Qualifizierungen  der  vorhandenen  Mitarbeiter  dem  entgegenwirken  sollten  und  frühere, 
-
 ähnlich  gelagerte  Mängelhinweise  aus  Auditierungen  Dritter  bereits  bekannt  waren.  Der 
-
 Arbeitsfehler  wurde  auch  in  der  anschließenden  Qualitätskontrolle  nicht  erkannt.  Des 
 Weiteren ist zu benennen, dass trotz überlagerter Qualitätsprozesse bei der Abnahme von 
 Schienenfahrzeugen  durch  die  DB AG  Abteilung  Beschaffung  Schienenfahrzeuge  die 
@@ -1718,16 +1662,16 @@ Darüber hinaus war es Aufgabe der zertifizierenden Stelle DNV Business Assuranc
 Qualitätsmanagement  des  Fahrzeugherstellers  TVP  hinsichtlich  Konformität  gemäß 
 DIN EN ISO 9001:2015  zu  bewerten.  Offen  blieb,  wie  die  zu  diesem  Zeitpunkt  vorliegenden 
 Hinweise  aus  externen  fachtechnischen  Begutachtungen  und  Audits  durch  DNV  Business 
-
 Assurance  SE  berücksichtigt  wurden,  da  die  Rezertifizierung  ohne  festgestellte  Mängel 
-
 erfolgte. 
 Seite 33 von 37 
+
  
  
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 20.05.2020, Bf Wengern Ost 
 5.2  Seit	dem	Ereignis	getroffene	Maßnahmen	
 Autotransportwagen Laaeffrs 561 
@@ -1739,15 +1683,10 @@ Lieferantenaudits ließen zunächst noch Mängel bei der Radsatzlagermontage erk
 Die bis zum 10.07.2020 aus 173 Fahrzeugen ausgelieferten Autotransportwagen bestehende 
 Flotte  der  DB Cargo Logistics GmbH  wurde  aufgrund  einer 
 intern  angesetzten 
-
 Stichprobenprüfung vorübergehend außer Betrieb gesetzt. Diese Stichprobenprüfung, die an 
-
 insgesamt  20 Autotransportwagen  durchgeführt  wurde,  erbrachte  das  Ergebnis  lockerer 
-
 Nutmuttern.  Dies  führte  zur  Entscheidung,  dass  der  Sitz  der  Wellenverschlüsse  bei  allen 
-
 Fahrzeugen  der  Bauart  Laaeffrs 561  überprüft  wurde.  Nach  dem  Unfallereignis  wurde  die 
-
 Flotte  der  Güterwagen  der  Laaeffrs 561  vorübergehend  außer  Betrieb  genommen. 
 DB Cargo Logistics GmbH teilte der BEU mit, dass alle Radsätze (100%) der zu dem Zeitpunkt 
 des Ereignisses bereits ausgelieferten Güterwagen im Vorfeld zur Radsatzüberprüfung (IS-LU) 
@@ -1761,29 +1700,25 @@ einen Radsatztausch ohne Vorprüfung erhalten. Die Radsätze wurden vor Einbau n
 gültigem Regelwerk der DB Cargo AG behandelt, damit auch der Wellenverschluss.  
 In  der  Neufertigung  wurde  durch  den  Hersteller  TVP  ab  dem  Wagen 174 
 jede 
-
 Radsatzlagermontage  in  der  Produktion  durch  eine  Videoaufnahme  dokumentiert.  Jede 
-
 einzelne  Videoaufnahme  wurde  gemeinsam  durch  den  Fachdienst  Radsatzlager  der 
 DB Systemtechnik GmbH und DB Cargo AG als ECM 2 geprüft und auf dieser Basis die jeweilige 
 Radsatzlagermontage im Sinne des Beschaffungsvertrages akzeptiert. Somit wurden bei allen, 
 zum  Zeitpunkt  der  Entgleisung  ausgelieferten  Güterwagen  der  Bauart  Laaeffrs 561  die 
-
 Radsätze  geprüft  und  ggf.  überarbeitet  sowie  bei  allen,  nach  dem  Ereignis  ausgelieferten 
-
 Seite 34 von 37 
+
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 20.05.2020, Bf Wengern Ost 
 Wagen die Montage, wie oben beschrieben, überprüft. Es sind seitdem keine der genannten 
 Auffälligkeiten  mehr  aufgetreten.  Die 
 im  Gutachten  der  DB  Systemtechnik  GmbH 
 festgestellten  Mängel  bei  der  Montage  der  Radsatzlager  haben  in  den  Ergebnissen  der 
 Überprüfung ausgelieferter Fahrzeuge durch den Fahrzeughalter ihre Bestätigung gefunden.  
-
 Als  Folge  des  Ereignisses  wurde  durch  den  Fahrzeughalter  DB Cargo Logistics GmbH  eine 
-
 Fachinformation an weitere Marktbeteiligte angestoßen: 
   EVU,  die  Transporte  mit  den  Autotransportwagen  der  Gattung  Laaeffrs 561 
 durchführen.  
@@ -1804,28 +1739,30 @@ Gegenstand haben. Auch die Durchführungsverordnung (EU) 2018/545 „über die p
 Modalitäten für die Genehmigung für das Inverkehrbringen von Schienenfahrzeugen und die 
 Genehmigung von Schienenfahrzeugtypen“ richtet keine Anforderungen zum Beispiel an das 
 Kompetenzmanagement, an die interne Überwachung und an eine stetige Verbesserung. 
-EVU LTE‐NL 
+EVU LTE-NL 
 Das  EVU  LTE-NL  gab  an,  dass  das  Ereignis  mit  dem  Tf  gemeinsam  ausgewertet  wurde.  In 
 diesem Zusammenhang wurde er belehrt, dass bei einem plötzlichen Druckabfall in der HL 
 unbekannter  Ursache  grundsätzlich  von  der  größten  anzunehmenden  Gefahr,  d.  h.  einer 
 Entgleisung,  ausgegangen  werden  sollte  und  folglich  zur  Vermeidung  noch  schlimmerer 
 Seite 35 von 37 
+
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 20.05.2020, Bf Wengern Ost 
-
 Ereignisfolgen  stets  ein  Nothaltauftrag  mittels  Notruf  zu  geben  ist.  Zusätzlich  wurde  das 
-
 Ereignis im RFU 2020 thematisiert. 
 5.3  Zusätzliche	Bemerkungen	
 Die durchgeführten Untersuchungen lieferten keinen Beitrag zu diesem Punkt. 
 Seite 36 von 37 
+
  
  
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 20.05.2020, Bf Wengern Ost 
 6  Sicherheitsempfehlungen	
 Eine 
@@ -1850,6 +1787,7 @@ Fahrzeughalter über ein möglicherweise
 bestehendes Risiko zu informieren. 
 
 Seite 37 von 37 
+
  
  
  

@@ -119,9 +119,12 @@ Bauakte und Dokumentation ......................................................
 
 Untersuchung der Untergrundverhältnisse im Erdbau......................................... 31
 
+
 Untersuchung der Entwässerungsanlagen.......................................................... 32
 
+
  1 
+
  1.1 
  1.2 
  1.3 
@@ -153,6 +156,7 @@ Seite 3 von 67
  
  
  
+
  
  
  
@@ -186,13 +190,14 @@ Seite 3 von 67
  
  
 Untersuchungsbericht 
+
 Zugentgleisung,  09.06.2013,  Kaub - Lorch (Rhein) Üst 
 4.5.6 
-
 Untersuchung des Oberbaus............................................................................... 36
 
 
 4.6 
+
 4.6.1 
 4.6.2 
 4.6.3 
@@ -205,11 +210,11 @@ Untersuchung des Oberbaus.......................................................
 5.5 
 6 
 7 
-
 Untersuchung von Fahrzeugen ........................................................................... 54
 
 
 Zugbildung, Bremsverhältnisse und Wagenuntersuchung des DGS 90636........ 54
+
 
 Auswertung der Elektronischen-Fahrten-Registrierung....................................... 55
 
@@ -245,11 +250,7 @@ Sicherheitsempfehlungen.........................................................
 
 
 Seite 4 von 67 
- 
- 
- 
- 
- 
+
  
  
  
@@ -279,6 +280,7 @@ Seite 4 von 67
  
  
 Untersuchungsbericht 
+
 Zugentgleisung,  09.06.2013,  Kaub - Lorch (Rhein) Üst 
 Anlagen: 
 1: Bericht „Simulationsrechnungen zur Zugentgleisung in Lorch vom 09.06.2013 sowie Variantenrechnungen zu verschiedenen Gleislagen“, Zeichen SIM042015BE vom 03.07.2015 
@@ -286,11 +288,14 @@ Seite 5 von 67
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  09.06.2013,  Kaub - Lorch (Rhein) Üst 
 Abbildungsverzeichnis: 
 Abb. 1: Entgleisungsstelle in km 76,950 zwischen Hp Lorch und Üst Lorch..........................10
+
 
 Abb. 2: Entgleiste Wagen am Zugschluss im Einfahrabschnitt des Bf Rüdesheim (Rh.).......10
 
@@ -308,6 +313,7 @@ Abb. 6: Sperrzeitenübersicht ..................................................
 
 
 Abb. 7: Grenzen der Gleisfreimeldeanlage (Steuerbezirk Oberlahnstein-Süd)......................21
+
 
 Abb. 8: Lupenplan (Störmeldeübersicht aus der Historie des ESTW Oberlahnstein) ............23 
 
@@ -367,31 +373,7 @@ Abb. 26: entgleister Radsatz eines Laaers-Wagen ................................
 
 
 Seite 6 von 67 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
 Untersuchungsbericht 
 Zugentgleisung,  09.06.2013,  Kaub - Lorch (Rhein) Üst 
 Abkürzungsverzeichnis 
@@ -554,8 +536,10 @@ Seite 10 von 67
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  09.06.2013,  Kaub - Lorch (Rhein) Üst 
 2 
 Vorbemerkungen 
@@ -650,9 +634,12 @@ Zugentgleisung,  09.06.2013,  Kaub - Lorch (Rhein) Üst
 ca. in km 65,900. 
 Abb. 4: Lageplan Bf Rüdesheim (Rhein) 
 
+
 Quelle: IVL-Plan DB Netz AG, bearbeitet durch EUB 
 
+
 3.2 
+
 Todesopfer, Verletzte und Sachschäden 
 Personen  werden  bei  dem  Ereignis  nicht  verletzt.  Die  Sachschäden  setzen  sich  wie  folgt 
 zusammen: 
@@ -664,9 +651,12 @@ ca.
 ca. 
 50.000 € 
 
+
 250.000 € 
 
+
 9.400.000 € 
+
 3.3 
 Wetterbedingungen 
 Wolkig mit leichtem bis teilweise starkem Niederschlag. 
@@ -700,10 +690,7 @@ zurückgekehrt.  Er  habe  eine  Auffahrmeldung  und  eine  Rotausleuchtung  an 
 31W4  angezeigt  bekommen.  Der  Zug  90636  habe  sich  zu  diesem  Zeitpunkt  auf  der  freien 
 Strecke im Gleis zwischen Lorch und Assmannshausen befunden. In Assmannshausen sei 
 die Zugfahrt ganz normal verlaufen, bis dann weitere Auffahrmeldungen der Weichen im Bf 
-Assmannshausen  angezeigt  wurden.  Er  habe  den  Fahrdiensteiter  in  Rüdesheim  (Rh.)  ver-
-
-ständigt  und  ihm  mitgeteilt,  er  solle  sich  den  Zug  genauer  anschauen,  um  Auffälligkeiten 
-
+Assmannshausen  angezeigt  wurden.  Er  habe  den  Fahrdiensteiter  in  Rüdesheim  (Rh.)  verständigt  und  ihm  mitgeteilt,  er  solle  sich  den  Zug  genauer  anschauen,  um  Auffälligkeiten 
 festzustellen. Im Verlauf dieses Gespräches habe er gehört, dass der Fdl Rüdesheim (Rh.) 
 den Zug mit Nothaltauftrag stellte. 
 BÜ Beobachterin in Assmannshausen 
@@ -716,9 +703,7 @@ Diensthabender Fahrdienstleiter Rüdesheim (Rh.)
 Gegen 5:27 Uhr habe er einen Anruf des Fdl Oberlahnstein-Süd erhalten. Dieser habe ihm 
 mitgeteilt, dass etwas mit dem Zug 90636 nicht stimme. Gemeinsam mit dem Ablöser habe 
 er den einfahrenden Zug beobachtet. Während der Einfahrt habe die W 40 im Nachbargleis 
-
 plötzlich  rot  angezeigt  und  der  Wecker  sei  ertönt.  Außerdem  sei  während  der  Einfahrt  des 
-
 Zuges nach Gleis 2 das Signal N3 umgerissen worden. Er habe sofort das Zwischensignal 
 Seite 15 von 67 
  
@@ -759,8 +744,10 @@ Seite 16 von 67
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  09.06.2013,  Kaub - Lorch (Rhein) Üst 
 Wagenmeister der Train Group (Niederlande) 
 Er habe am Samstagnachmittag am Terminal der Cobelfret Gesellschaft eine Ausgangsuntersuchung  (Departure-Control)  sowie  eine  volle  Bremsprobe  durchgeführt.  Bei  dieser  Prüfung habe er keine Mängel festgestellt. 
@@ -818,11 +805,16 @@ von
 bis 
 Datum/Uhrzeit 
 Datum/ Uhrzeit 
+
 VZG  Strecke 
+
 Kaub – Lorch (Rh. ) - Assmannshausen - Rüdesheim (Rh.) 
+
 Bf Assmannshausen, Gleis 2 und 
 3 
+
 Kaub  - Lorch  (Rh.)  -  Assmannshausen 
+
 09.06./5:40 Uhr 
 30.06./20:00 Uhr 
 3507 
@@ -836,8 +828,10 @@ Bf Assmannshausen, Gleis 2
 01.07. / 8:00 Uhr 
 02.07. / 5:00 Uhr 
 3507 
+
 Assmannshausen  –  Rüdesheim 
 (Rh.) 
+
 02.07. / 20:00 Uhr 
 03.07. / 5:00 Uhr 
 04.07. / 0:30 Uhr 
@@ -857,9 +851,12 @@ Bf Assmannshausen, Gleis 3
 30.06. / 20:00 Uhr 
 05.07. / 4:30 Uhr 
 3507 
+
 Rüdesheim  (Rh.)  -  Assmannshausen – Lorch (Rh.) - Kaub 
+
 Bf Rüdesheim (Rh.), Gleise 1 – 4, 
 7 und 10 
+
 Bf Rüdesheim (Rh.), Gleis 7 
 Abb. 6: Sperrzeitenübersicht 
 09.06. / 5:40 Uhr 
@@ -874,15 +871,19 @@ Abb. 6: Sperrzeitenübersicht
 09.06. / 5:30 Uhr 
 10.06. / 17:06 Uhr 
 3507 
+
 Anschl. 
 Sperrungen 
 Gleise  bis 
 05.07. 
+
 zeitweise 
 der 
 zum 
+
 bis  11.11.  /  16:00 
 Uhr 
+
 3507 
 4.3 
 Untersuchung der betrieblichen Handlungen 
@@ -897,8 +898,10 @@ Seite 18 von 67
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  09.06.2013,  Kaub - Lorch (Rhein) Üst 
 heim  (Rh.).  Einschränkende  Maßnahmen  bezüglich  der  durchzuführenden  Zugfahrt  liegen 
 nicht  vor.  Zählpflichtige  Handlungen  seitens  der  Fahrdienstleitungen  werden  nicht  vorgenommen. 
@@ -943,10 +946,7 @@ die Weichen 3 und 2 des Bf Assmannshausen und offenbart Auffahrmeldungen an den 
 Störmeldung  im  Gleisfreimeldeabschnitt  26B204  von  km  68,408  und  km  67,671  angezeigt. 
 Der Gleisfreimeldeabschnitt 26B202 von km 67,611 bis km 66,611 meldet um 5:28 Uhr eine 
 Störung. 
-Zwischen 5:26 Uhr und 5:27 Uhr passiert DGS 90636 laut ESTW Historie den Gefahrraumüberwachungsbereich der BÜ-Beobachterin in Assmannshausen. Die EFR (DSK-Zeit) regis-
-
-triert  den  Halt  des  führenden  Fahrzeuges  um  5:28  Uhr  im  Bf  Rüdesheim  (Rh.)  unmittelbar 
-
+Zwischen 5:26 Uhr und 5:27 Uhr passiert DGS 90636 laut ESTW Historie den Gefahrraumüberwachungsbereich der BÜ-Beobachterin in Assmannshausen. Die EFR (DSK-Zeit) registriert  den  Halt  des  führenden  Fahrzeuges  um  5:28  Uhr  im  Bf  Rüdesheim  (Rh.)  unmittelbar 
 nach den Oberbaubeschädigungen im Einfahrbereich sowie der Zerstörung des Signal N3 im 
 Bf Rüdesheim (Rh). 
 4.4 
@@ -963,8 +963,10 @@ Seite 20 von 67
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  09.06.2013,  Kaub - Lorch (Rhein) Üst 
 Der Streckenabschnitt (VZG 3507) im Bedienbereich des ESTW A - Assmannshausen ist mit 
 einer  selbsttätigen  Gleisfreimeldeanlage  mit  Achszählern  für  alle  Weichen-  und  Gleisabschnitte ausgerüstet. Die Gleisfreimeldeeinrichtungen dienen zur Überprüfung der Belegung 
@@ -1150,8 +1152,10 @@ Seite 23 von 67
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  09.06.2013,  Kaub - Lorch (Rhein) Üst 
 Systemzeit) fast ausschließlich gleisbezogene Meldungen, beginnend mit Gleisfreimeldeabschnitt 31B3210 und endend mit Gleisfreimeldeabschnitt 26B202, angezeigt wurden. 
 Das  Absetzen  eines  Nothaltauftrages  für  Zug  DGS  90636  vom  Bedienplatz  des  BÜ-
@@ -1162,13 +1166,8 @@ keine verwertbaren Daten.
 Untersuchung der Infrastruktur 
 4.5.1 
 Allgemeine Angaben zur Infrastruktur 
-
-Bei  der  Strecke  3507  handelt  sich  um  die  zweigleisige,  elektrifizierte  Hauptbahn von Wies-
-
-baden-Ost  (km  36,2)  bis  Niederlahnstein  (km  127,5),  die  als  konventionelle  Strecke  (TEN-
-
+Bei  der  Strecke  3507  handelt  sich  um  die  zweigleisige,  elektrifizierte  Hauptbahn von Wiesbaden-Ost  (km  36,2)  bis  Niederlahnstein  (km  127,5),  die  als  konventionelle  Strecke  (TEN-
 Kategorie  VII)  des  transeuropäischen  Eisenbahnsystems  eingestuft  ist.  Die  Strecke  ist  mit 
-
 „D4“ klassifiziert, womit die maximal zulässige Radsatzlast mit 22,5 t und das maximal zulässige Fahrzeuggewicht je Längeneinheit mit 8,0 t/m angegeben wird. Der Bremswegabstand 
 der Strecke beträgt 1.000 m, die zulässige Höchstgeschwindigkeit liegt bei Vmax = 130 km/h 
 und sie ist mit punktförmiger Zugbeeinflussung (PZB) und Zugfunk (GSM-R) ausgerüstet. 
@@ -1199,17 +1198,16 @@ Seite 25 von 67
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  09.06.2013,  Kaub - Lorch (Rhein) Üst 
 waren  vor  Ort  weiße  Stellen  im  Schotter  erkennbar,  die  auf  Bewegungen  des  Gleises  mit 
 entsprechendem Schotterabrieb hindeuten. 
 Abb. 10: „weiße Stellen“ im Schotter deuten auf Störstellen im Gleis hin 
 Im  Entgleisungsbereich  durchgeführte  Schürfungen  lassen  oberflächennahe  Wasseransammlungen  erkennen.  Zudem  offenbarten  die  Schürfen,  dass  der  Oberbauschotter  unter 
-
-der  Betonschwelle  derart  mit  bindigen  Stoffen  durchsetzt  ist,  dass  eine  kontrollierte  Was-
-
-serableitung auf dem Planum nicht mehr ausreichend gewährleistet ist. Als Folge der Verunreinigung  und  des  nicht  abgeleiteten  Wassers,  entstehen  unter  den  Belastungen  aus  dem 
+der  Betonschwelle  derart  mit  bindigen  Stoffen  durchsetzt  ist,  dass  eine  kontrollierte  Wasserableitung auf dem Planum nicht mehr ausreichend gewährleistet ist. Als Folge der Verunreinigung  und  des  nicht  abgeleiteten  Wassers,  entstehen  unter  den  Belastungen  aus  dem 
 Eisenbahnbetrieb die vorgefundenen Schlammstellen. 
 Seite 26 von 67 
  
@@ -1226,8 +1224,10 @@ Seite 26 von 67
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  09.06.2013,  Kaub - Lorch (Rhein) Üst 
 Abb. 11: Schürfstelle an der Entgleisungsstelle in km 76,950 
 Ca. 11 Stunden nach dem Ereignis wurde von der DB Netz AG eine unbelastete Gleislagemessung mit dem Messkleinwagen Krabbe durchgeführt. Bei dieser Messung wurden mehrere  hintereinanderliegende  SR100-Überschreitungen  in  der  Längshöhe  aufgezeichnet  und 
@@ -1278,8 +1278,10 @@ Seite 28 von 67
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  09.06.2013,  Kaub - Lorch (Rhein) Üst 
 Siehe  graphische  Darstellung 
 Abb. 12 
@@ -1309,8 +1311,10 @@ Seite 29 von 67
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  09.06.2013,  Kaub - Lorch (Rhein) Üst 
 4.5.3 
 Bauakte und Dokumentation 
@@ -1321,25 +1325,13 @@ Elemente einer Struktur, mit denen man aus Instandhaltungssicht individuelle Dat
 Instandhaltungsmaßnahmen  führen  und  technische  Daten  über  längere  Zeiträume  hinweg 
 sammeln und auswerten kann. 
 Im Anlagenbestand der DB Station&Service AG wurden keine Entwässerungseinrichtungen 
-
-des  Gleises  im  entsprechenden  Abschnitt  vorgefunden.  Damit  ist  die  flach  verlegte  Tiefen-
-
-entwässerung eindeutig DB Netz AG zuzuordnen. Dem ALV KIB obliegt die Anlagenverantwortung  im  konstruktiven  Ingenieurbau  (KIB).  Bei  der  Zuordnung  in  einem  größeren  Bau-
-
-werk,  im  vorliegenden  Fall  der  „Bahnkörper  insgesamt“,  ist  für  die  flach  verlegte  Tiefenent-
-
-wässerung ein Entwässerungsheft zu führen. Folglich hätte die flach verlegte Tiefenentwässerung  eine  eigene  Anlagennummer  und  einen  eigenen  technischen  Platz  im  SAP-System 
+des  Gleises  im  entsprechenden  Abschnitt  vorgefunden.  Damit  ist  die  flach  verlegte  Tiefenentwässerung eindeutig DB Netz AG zuzuordnen. Dem ALV KIB obliegt die Anlagenverantwortung  im  konstruktiven  Ingenieurbau  (KIB).  Bei  der  Zuordnung  in  einem  größeren  Bauwerk,  im  vorliegenden  Fall  der  „Bahnkörper  insgesamt“,  ist  für  die  flach  verlegte  Tiefenentwässerung ein Entwässerungsheft zu führen. Folglich hätte die flach verlegte Tiefenentwässerung  eine  eigene  Anlagennummer  und  einen  eigenen  technischen  Platz  im  SAP-System 
 erhalten  müssen.  Hierdurch  hätten  Regelinspektionsaufträge  generiert  und  dementsprechende  Inspektionen  durchgeführt  werden  können.  Unter  Einhaltung  der  entsprechenden 
 Inspektionsfristen für Entwässerungen wäre somit eine regelkonforme Überwachung zu gewährleisten. 
 Feststellungen: 
-
-Es  wurde  festgestellt,  dass  es  sowohl  keinen  techn.  Platz  für  die  flach  verlegte  Tiefenent-
-
-wässerung  gab,  als  auch  keine  Anlagennummer  für  die  Entwässerungsleitung  als  Einzelbauwerk  vorlag.  Für  den  Bahnkörper  gibt  es  über  einen  größeren  Streckenabschnitt  eine 
+Es  wurde  festgestellt,  dass  es  sowohl  keinen  techn.  Platz  für  die  flach  verlegte  Tiefenentwässerung  gab,  als  auch  keine  Anlagennummer  für  die  Entwässerungsleitung  als  Einzelbauwerk  vorlag.  Für  den  Bahnkörper  gibt  es  über  einen  größeren  Streckenabschnitt  eine 
 Anlagennummer.  Diese  bildet  den  Bahnkörper  insgesamt  ab,  wobei  die  Entwässerung  nur 
-
 einen  sehr  geringen  Anteil  davon  darstellt.  Da  die  flach  verlegte  Tiefenentwässerung  nicht 
-
 mit  einem  eigenen  technischen  Platz  belegt  ist,  wurden  demzufolge  auch  keine  separaten 
 Inspektionen und Inspektionsfristen generiert und durchgeführt. 
 Seite 30 von 67 
@@ -1348,8 +1340,10 @@ Seite 30 von 67
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  09.06.2013,  Kaub - Lorch (Rhein) Üst 
 4.5.4 
 Untersuchung der Untergrundverhältnisse im Erdbau 
@@ -1357,10 +1351,7 @@ Mit dem Bauvorhaben Hp Lorch (Rh.), “Errichtung eines Außenbahnsteigs mit Per
 der  Strecke  Wiesbaden  Ost  –  Niederlahnstein  (3507)“  wurden  im  Entgleisungsbereich  im 
 Jahre  2010  Baumaßnahmen  durchgeführt.  Die  Gesamtmaßnahme  dient  der  Verbesserung 
 der  Betriebssicherheit  der  Eisenbahnstrecke  und  der  Verbesserung  des  öffentlichen  Schienenpersonennahverkehrs. Für das Bauvorhaben (BV) wurde im Bereich des Bahnsteiges ein 
-geotechnischer  Bericht  zur  Bewertung  der  Untergrundverhältnisse  angefertigt.  Da  die  Ent-
-
-gleisungsstelle  lediglich  ca.  150  m  vom  damaligen  BV  entfernt  liegt,  ist  anzunehmen,  dass 
-
+geotechnischer  Bericht  zur  Bewertung  der  Untergrundverhältnisse  angefertigt.  Da  die  Entgleisungsstelle  lediglich  ca.  150  m  vom  damaligen  BV  entfernt  liegt,  ist  anzunehmen,  dass 
 sich die Baugrundverhältnisse aufgrund der relativen Nähe der Entgleisungsstelle zum Umbauabschnitt  im  geotechnischen  Bericht  der  DE-Consult  vom  20.12.2005  nicht  wesentlich 
 unterscheiden. Ziel eines geotechnischen Berichtes ist die Darstellung der Baugrundverhältnisse  im  Untersuchungsbereich,  um  Rückschlüsse  auf  deren  Einfluss  für  das  BV  zu  erlangen. Für den geotechnischen Bericht wurden an verschiedenen Stellen fünf Rammkernsondierungen  ausgeführt.  Die  Bestimmung  der  Lagerungsverhältnisse  erfolgte  mittels  einer 
 schweren und einer leichten Rammsondierung. Die Aufschlüsse wurden zwischen den vorhandenen Gleisen, sowie bahnrechts an der Dammschulter und am Dammfuß durchgeführt. 
@@ -1387,9 +1378,7 @@ des  Untergrundes  kommt  es  zur  Durchmischung  mit  den  bindigen  Schichten 
 zur Erhöhung des Feinkornanteils in den wasserdurchlässigen Schichten. Bei Erhöhung des 
 Feinkornanteils  kann  die  Durchlässigkeit  derart  abnehmen,  dass  es  zur  Schicht-  und  Stauwasserbildung kommen kann. Durch die hohe Feuchtigkeit in Verbindung mit der Verkehrsbelastung, sowie durch die einsetzenden Kapillarwirkungen, dringen feinkörnige Bestandteile 
 des Unterbaus immer weiter in den Gleisschotter ein. Die Mischzone zwischen Planum und 
-
 Gleisschotter  nimmt  weiter  zu  und  entwickelt  sich  ohne  geeignete  Instandsetzung  zu  einer 
-
 „Schlammstelle“ (siehe Abb. 11). 
 Der Zwischenbericht über das Ergebnis der technischen Untersuchung des Oberbaus nach 
 der  Entgleisung  vom  09.06.2013  enthält  auch  die  Stellungnahme  des  Fachbeauftragten 
@@ -1455,17 +1444,17 @@ Seite 33 von 67
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  09.06.2013,  Kaub - Lorch (Rhein) Üst 
 zum  Tag  der  Entgleisung  kein  Entwässerungsheft  vor.  Das  Entwässerungsheft  wurde  von 
 der  DB  Netz  AG  erst  nach  dem  Auskunftsersuchen  der  EUB  vom  15.05.2014  nachträglich 
 erstellt.  Hierbei  wurde  dokumentiert,  dass  die  Entwässerungsleitung  am  19.09.2011  mittels 
 TV-Befahrung  untersucht  wurde.  Die  Originalunterlagen  dieser  TV-Befahrung  konnten  von 
 DB Netz nicht vorgelegt werden. Alle Angaben im nachgeführten Entwässerungsheft beziehen  sich  auf  eine  Kopie  der  ausführenden  Firma,  die  der  DB  Netz  AG  im  Dezember  2014 
-
 überstellt  wurden.  Folglich  ist  es  nicht  nachvollziehbar,  ob  die  Prüfung  und  Bewertung  der 
-
 Bilder  durch  den  zuständigen  ALV  KIB  durchgeführt  wurde,  da  hierzu  keinerlei  Unterlagen 
 vorgelegt wurden. Bei der nachfolgenden Bilddokumentation (Bilder 4 - 6) der TV-Befahrung 
 vom 19.09.2011 wurde die Fließrichtung falsch angegeben. 
@@ -1521,8 +1510,10 @@ Seite 35 von 67
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  09.06.2013,  Kaub - Lorch (Rhein) Üst 
 4.5.6 
 Untersuchung des Oberbaus 
@@ -1535,17 +1526,12 @@ Abb. 15: Lageplanausschnitt Hp Lorch
 Quelle: DB Netz AG 
 Bei den Senken handelt es sich um Längshöhenfehler auf der rechten und linken Schiene. 
 Innerhalb dieses Gleisabschnitts wurden zudem mehrere „weiße Stellen“ festgestellt, die auf 
-
 eine  verminderte  Tragfähigkeit  hinweisen.  Die  „weißen  Stellen“  im  Schotter  entwickeln  sich 
-
 durch anhaftendes Gesteinsmehl an den Schottersteinen, was bei unruhiger Gleislage durch 
 Reiben  aneinander  entsteht.  Zur  weiteren  Ursachenermittlung  wurden  die  durchgeführten 
 Gleisüberwachungen mit in die Untersuchungen einbezogen. 
-
 Die  Soll-Vorgaben  für  die  Überwachung  der  Gleise  sind  in  der  DB  Richtlinie  821  „Oberbau 
-
 inspizieren“  hinterlegt.  So  werden  gemäß  dieser  Ril  die  Gleise  der  DB  Netz  AG  mehrmals 
-
 pro  Jahr  durch  unterschiedliche  Inspektionen  überwacht.  Die  Regelinspektionen  zur  Gleisbegehung  finden  entsprechend  dem  Prüfplan  im  SAP-System  für  das  betroffene  Gleis  2  in 
 den  Monaten  Februar,  Juni  und  im  Oktober  statt.  In  begründeten  Fällen  kann  diese  ausnahmsweise  bis  zu  zwei  Monate  später  erfolgen.  Die  Regelinspektionen  Gleisgeometriemessung,  die  durch  den  ALV  Oberbau  begleitet  werden,  finden  in  den  Monaten  März  und 
 September statt. In begründeten Fällen kann diese ausnahmsweise bis zu zwei Monate spä-
@@ -1641,10 +1627,7 @@ Seite 38 von 67
 Untersuchungsbericht 
 Zugentgleisung,  09.06.2013,  Kaub - Lorch (Rhein) Üst 
 Die Überwachung der Entwässerung stellt eine visuelle Prüfung vom Gleis aus dar, die der 
-Inspizierende während der Streckenbegehung durchführt. Bei dieser regelmäßigen Sichtprü-
-
-fung  vom  Gleis  aus  ist  es  nicht  vorgesehen,  die  Schächte,  bzw.  die  Haltungen  genauer  zu 
-
+Inspizierende während der Streckenbegehung durchführt. Bei dieser regelmäßigen Sichtprüfung  vom  Gleis  aus  ist  es  nicht  vorgesehen,  die  Schächte,  bzw.  die  Haltungen  genauer  zu 
 untersuchen  und  hineinzuschauen.  Die Überwachung vom Gleis aus wird in der Regel von 
 der  Meisterebene  oder  Personalen  mit  Befähigungsnachweis  gem.  Ril 046.2703  des  Fachgebietes  Oberbau  durchgeführt  und  demzufolge  liegt  der  Schwerpunkt  der  Überwachung 
 auch  auf  dem  Oberbau.  Der  ALV  Oberbau  hat  das  Gleis  im  Zeitraum  von  24  Monaten  zu 
@@ -1710,8 +1693,10 @@ Seite 40 von 67
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  09.06.2013,  Kaub - Lorch (Rhein) Üst 
 Abb. 16: Messschrieb  
 des GMFZ vom 
@@ -1737,8 +1722,10 @@ Seite 41 von 67
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  09.06.2013,  Kaub - Lorch (Rhein) Üst 
 Abb. 18: SR100-Überschreitungsprotokoll vom 11.04.2013 
 Die Ril 821 regelt, welche Grenzwerte bei der Einzelfehlerausprägung einzuhalten sind und 
@@ -1872,8 +1859,10 @@ Seite 44 von 67
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  09.06.2013,  Kaub - Lorch (Rhein) Üst 
 Dezember 2011  Zusätzliche  Gleisbe- Ohne Befund 
 Maßnahme  nachweislich  im  SAP 
@@ -1973,8 +1962,10 @@ Seite 46 von 67
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  09.06.2013,  Kaub - Lorch (Rhein) Üst 
 Durch  Ausfall  des  Mehrkanalschreibers  wurde  keine  Maßnahme  durchgeführt.  Die  Anmeldung der Maßnahme war für Juli 2012 geplant, da aber erst am 10.09.12 eine GSM/SSP vorhanden war, wurde die DUA nach der Messfahrt durchgeführt. 
 Seite 47 von 67 
@@ -2004,20 +1995,28 @@ ORE-Verw.
 76,9+75 
 77,0+0 
 GH Hochpass: 
+
 Überschreitung 
 SR 100+ 
+
 101 
 (3,65‰ bei 1,5m) 
+
 112 
 (5,00‰ bei 1,5m) 
+
 100 
 10.09.2012 
+
 (SR100 
 (GW2)/3,50‰)) 
+
 100 
 10.09.2012 
+
 (SR100 
 (GW2)/3,50‰)) 
+
 12mm 
 11mm 
 10.09.2012 
@@ -2064,8 +2063,10 @@ Seite 48 von 67
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  09.06.2013,  Kaub - Lorch (Rhein) Üst 
 11.04.2013 
 Strecke 3507-2 
@@ -2085,8 +2086,10 @@ Seite 49 von 67
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  09.06.2013,  Kaub - Lorch (Rhein) Üst 
 Auszug aus dem Überschreitungsprotokoll vom 11.04.2013  
 76,8+50 
@@ -2132,8 +2135,10 @@ Seite 50 von 67
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  09.06.2013,  Kaub - Lorch (Rhein) Üst 
 Am  12.06.2013  erfolgte  ergänzend  eine  Sonderinspektion  mit  dem  Messwagen  für  die 
 Gleisinspektion (GMTZ). Die Messergebnisse zeigen im relevanten Streckenabschnitt bei km 
@@ -2187,8 +2192,10 @@ Seite 52 von 67
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  09.06.2013,  Kaub - Lorch (Rhein) Üst 
 Verbindung mit Fehlern bei der Verwindung und der gegenseitigen Höhenlage als kombiniert 
 auftretende Einzelfehler der Gleislage anzusehen und zu bewerten. 
@@ -2199,10 +2206,7 @@ Verkürzung der Inspektionsfrist bei der Gleislagemessung wurde nicht in Betrach
 Der  Nachweis  der  gleichen  Sicherheit  durch  Verkürzung  der  Inspektionsintervalle  beim 
 Gleisbegang  konnte  nicht  erbracht  werden.  Das  vorliegende  Schadensbild  im  Oberbau  basiert  eindeutig  aus  den  Schäden  im  Unterbau.  Eine funktionierende Entwässerung gewährleistet  unter  anderem  die  Dauerhaftigkeit  und  Gebrauchstauglichkeit  des  Gleises.  Ist  die 
 Entwässerung schadhaft oder nicht funktionsfähig, führt dies nach und nach zur Durchfeuchtung des Unterbaus. Dies wiederum führt zwangsläufig zu Gleislagefehlern im Oberbau. Bei 
-
-der  visuellen  Prüfung  der  Gleislage  am  09.  und  10.06.2013  wurden  mehrere  dicht  hinterei-
-
-nander  liegende  LH-Fehler  auf  beiden  Schienensträngen  im  Gleisabschnitt  der  Strecke 
+der  visuellen  Prüfung  der  Gleislage  am  09.  und  10.06.2013  wurden  mehrere  dicht  hintereinander  liegende  LH-Fehler  auf  beiden  Schienensträngen  im  Gleisabschnitt  der  Strecke 
 3507-2 von km 77,000 bis 76,950 vorgefunden. 
 Die  nach  dem  Ereignis  am  09.06.2013  durchgeführte  unbelastete  Aufmessung  mit  dem 
 Messkleinwagen „Krabbe“ zeigt zwischen km 77,000 und km 76,955 mehrere hintereinander 
@@ -2294,9 +2298,7 @@ induktiven  Zugsicherungsanlage,  System  PZB  90  ausgerüstet.  Am  09.06.2014
 Uhr  (DSK-Zeit)  registrierte  die  EFR  des  führenden  Fahrzeuges  91  81  1216  950-6  in  km 
 76,500  eine  Geschwindigkeit  von  96  km/h.  Um  3:20:24  Uhr  (DSK-Zeit)  befindet  sich  das 
 Triebfahrzeug bei einer registrierten Geschwindigkeit von 104 km/h in ca. km 76,300. Gegen 
-
 3:20:47  Uhr  durchfährt  der  Zug  den  Weichenbereich  der  Üst  Lorch.  Die  EFR  registriert  um 
-
 3:24:10  Uhr  (DSK-Zeit)  bei  kontinuierlich  fallender  Geschwindigkeit  die  Durchfahrt  im  Bf 
 Assmannshausen mit 87 km/h. Die EFR des führenden Fahrzeuges registriert ab km 66,000 
 bei 92 km/h um 3:26:29 (DSK-Zeit) eine stetig abfallende Geschwindigkeit bis zum Stillstand 
@@ -2313,16 +2315,16 @@ Seite 55 von 67
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  09.06.2013,  Kaub - Lorch (Rhein) Üst 
 Feststellungen: 
 Um 5:20:24 Uhr (korrigierte Zeitangabe, Echtzeit) passierte der am Schluss des DGS 90636 
 laufende  Autotransportwagen  23  88  4371  080-3  den  Entgleisungsbereich  in  km  76,950  mit 
 einer  beim  führenden  Fahrzeug  91  81  1216  950-6  registrierten  Geschwindigkeit  von  104 
-
 km/h.  Ca.  44  sec.  nach  der  Entgleisung  passiert  der  Zug  mit  zumindest  einem  entgleisten 
-
 Wagen  den  Weichenbereich  der  Üst.  Assmannshausen  mit  einer  Geschwindigkeit  von  108 
 km/h. Den Einfahrweichenbereich des Bf Assmannshausen in km 69,7 erreicht DGS 90636 
 spätestens nach weiteren 3 min und 20 sec. Die Bahnübergänge in km 69,7, 69,8 und 69,9 
@@ -2367,13 +2369,13 @@ Seite 57 von 67
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  09.06.2013,  Kaub - Lorch (Rhein) Üst 
 Abb. 24: Flachstelle des Radsatzes 10003405 
-
 Da  sich  die  Fehlergröße  der  Flachstelle  unterhalb  der  von  nach  AVV  Anlage  9  definierten 
-
 Eingreifschwelle  von  60  mm  bei  Raddurchmessern  größer  630  mm  befindet,  ist  diese  als 
 nicht entgleisungsrelevant einzustufen. 
 Die Ladebühnenverriegelung der entgleisten Wagen befand sich in einem Zwischenzustand 
@@ -2393,8 +2395,10 @@ Seite 58 von 67
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  09.06.2013,  Kaub - Lorch (Rhein) Üst 
 Um  das  Fahrverhalten  der  Wagen  genau  simulieren  zu  können,  wurde  auch  die  Kennlinie 
 der  Parabelfedern  bei  der  Firma  Langen  &  Sondermann  in  Lünen  aufgenommen.  Hierbei 
@@ -2407,9 +2411,7 @@ Die Autotransportwagen waren technisch in einem guten Zustand. Die vorgefundenen
 4.7 
 Simulationsuntersuchung 
 Aufgrund der vermuteten aber nicht eindeutig belegbaren Entgleisungsursache wurden weitere  Untersuchungen  eingeleitet.  Ziel  war  es,  die  Wechselwirkung  zwischen  Fahrzeug  und 
-
 Fahrweg  im  Bereich  der  Entgleisungsstelle  detaillierter  darzustellen.  Am  Institut  der  Firma 
-
 SIMTES  wurden hierzu der Fahrweg mit den Gleislagefehlern und das entgleiste Fahrzeug 
 umfangreich modelliert und die Zugfahrt im Abschnitt der Entgleisungsstelle simuliert. Hierfür 
 wurde  von  dem  Fahrzeug  ein  Mehrkörpermodell  in  SIMPACK  Version  9.5/9.6  aufgebaut, 
@@ -2445,14 +2447,9 @@ gestört angezeigt. Um 5:25 Uhr trat bei der Durchfahrt des DGS 90636 an der Wei
 Assmannshausen  eine  weitere  Weichenstörmeldung  (Auffahrmeldung)  auf.  Zwischen  5:25 
 Uhr und 5:26 Uhr offenbarten die signaltechnischen Meldungen mehrere Auffahrmeldungen 
 der  Weichen  auf  der  Betriebsstelle  Assmannshausen.  Die  Störmeldeanzeigen  setzten  sich 
-
 beim  özF  Oberlahnstein-Süd  bis  5:28  Uhr  mit  der  zeitlich  zuletzt  angezeigten  Störmeldung 
-
 des Gleisfreimeldeabschnittes 26B202 fort. 
-Grundsätzlich  können  Störmeldungen  sowohl  auf  zugbewirkte  bzw.  signaltechnische  Stö-
-
-rungsursachen  oder  auf  einen  Eingriff  Dritter  zurückzuführen  sein.  Unter  Berücksichtigung, 
-
+Grundsätzlich  können  Störmeldungen  sowohl  auf  zugbewirkte  bzw.  signaltechnische  Störungsursachen  oder  auf  einen  Eingriff  Dritter  zurückzuführen  sein.  Unter  Berücksichtigung, 
 dass die erste Störmeldung um 5:22 Uhr als eine signaltechnische Störung gewertet werden 
 Seite 60 von 67 
  
@@ -2464,10 +2461,7 @@ Seite 60 von 67
 Zugentgleisung,  09.06.2013,  Kaub - Lorch (Rhein) Üst 
 konnte, hätte spätestens um 5:26 Uhr bei der Durchfahrt des DGS 90636 aufgrund der weiteren  Störmeldungen,  insbesondere  der  fortlaufenden  Auffahrmeldungen  von  Weichen,  die 
 Störungsursache  als  zugbewirkte  Störung  erkannt  werden  müssen.  Die  Auswertung  des 
-Meldebildes von Gleisfreimeldestörungen und Weichenstörungen im zeitlichem Zusammenhang  mit  dem  Laufweg  des  DGS  90636,  der  als  einziger  Zug  im  relevanten  Streckenab-
-
-schnitt  zu  dieser  Zeit  unterwegs  war,  lassen  keinen  anderen  Schluss  zu.  Folglich  wäre  es 
-
+Meldebildes von Gleisfreimeldestörungen und Weichenstörungen im zeitlichem Zusammenhang  mit  dem  Laufweg  des  DGS  90636,  der  als  einziger  Zug  im  relevanten  Streckenabschnitt  zu  dieser  Zeit  unterwegs  war,  lassen  keinen  anderen  Schluss  zu.  Folglich  wäre  es 
 spätestens  um  5:26  Uhr  erforderlich  gewesen  einen  Nothaltauftrag  gemäß  Ril  408.0581  3 
 abzusetzen. 
 Sowohl der özF Oberlahnstein-Süd als auch die BÜ Beobachterin in Assmannshausen nahmen in der Zeit von 5:25 Uhr bis 5:27 Uhr mit dem Fdl Rüdesheim (Rh.) Kontakt zur Sachverhaltsermittlung  auf.  Es  ist  anzunehmen,  dass  der  özF  Oberlahnstein-Süd  die  Störungsmeldungen  aus  seiner  subjektiven  Sicht  als  signaltechnische  Störungsmeldung  deutete. 
@@ -2496,11 +2490,8 @@ Seite 61 von 67
 Zugentgleisung,  09.06.2013,  Kaub - Lorch (Rhein) Üst 
 eine  Spiegelung  oder  Kamerabefahrung  der  einzelnen  Haltungen,  deren  Ergebnisse  systematisch auf Datenträgern zu dokumentieren sind. Bei Verschmutzung der TE durch Schwebstoffe, wie z.B. Schlamm oder Sand soll die TE nach Bedarf gespült werden. Der Wartungsbedarf ermittelt sich anhand regelmäßiger Inspektionen und deren Auswertung. Aufgrund der 
 vorliegenden  TV-Inspektion  hätte  offensichtlich  erkennbar  sein  müssen,  dass  der  Großteil 
-
 der  Haltungen  defekt  und  der  Anschluss  an  eine  Vorflut  nicht  gegeben  war.  Inwieweit  eine 
-
 Auswertung  der  TV-Inspektion  stattgefunden  hat,  lässt  sich  abschließend  nicht  feststellen. 
-
 Gründe  für  die  Vernachlässigung  der  Überwachung  der  Entwässerung  liegen  offensichtlich 
 darin, dass den Entwässerungsanlagen einschließlich der zu führenden Entwässerungshefte 
 nicht die notwendige Bedeutung beigemessen wird. Weiterhin ist festzustellen, dass die vorhandenen Entwässerungsanlagen häufig nicht oder nicht vollständig erfasst wurden und somit dem ALV kein Kataster über den tatsächlichen Anlagenbestand und dessen Zustand zur 
@@ -2533,17 +2524,10 @@ belegen,  dass  die  durchgeführten  Instandsetzungsmaßnahmen  nicht  nachhalt
 Grund  für  die  häufigen  Instandsetzungsversuche  des  Oberbaus  ist  die  fehlende  Ursachenermittlung  durch  die  Anlagenverantwortlichen.  Das  Erkennen  von  Zusammenhängen 
 der verschiedenen Fachsparten, wie z.B. Oberbau und konstruktiver Ingenieurbau incl. Entwässerung, sowie Erdbau finden sich in der gesamten Bandbreite nur im Aufgaben-spektrum 
 eines Ingenieurs wieder. Die Fehlinterpretierung der Mängelursache durch den ALV Oberbau 
-
-bei  den  häufig  durchgeführten  Inspektionen  lässt  darauf  schließen,  dass  Defizite  beim  Er-
-
-kennen  der  Gesamtzusammenhänge  vorlagen.  Im  Rahmen  durchgeführter  Unfalluntersuchungen wurde das Fehlinterpretieren der Ursachen bei Oberbaumängeln bereits mehrfach 
+bei  den  häufig  durchgeführten  Inspektionen  lässt  darauf  schließen,  dass  Defizite  beim  Erkennen  der  Gesamtzusammenhänge  vorlagen.  Im  Rahmen  durchgeführter  Unfalluntersuchungen wurde das Fehlinterpretieren der Ursachen bei Oberbaumängeln bereits mehrfach 
 festgestellt. Insbesondere wird hier auf die Untersuchungsberichte zu den Zugentgleisungen 
 am 11.02.2011 zwischen Gröbers – Großkugel und am 13.12.2012 in Löhne (Westf) verwiesen. Da die Überschreitungsprotokolle lediglich Einzelfehler ausgeben, obliegt es allein dem 
-ALV Oberbau bei kombiniert auftretenden Einzelfehlern den im Regelwerk unpräzise formu-
-
-lierten  Begriff  „besonders  zu  berücksichtigen“  fachlich  eindeutig  zu  bewerten  und  in  Maß-
-
-nahmen umzusetzen. 
+ALV Oberbau bei kombiniert auftretenden Einzelfehlern den im Regelwerk unpräzise formulierten  Begriff  „besonders  zu  berücksichtigen“  fachlich  eindeutig  zu  bewerten  und  in  Maßnahmen umzusetzen. 
 Die  Formulierung  „besonders  zu  berücksichtigen“  billigt  dem  ALV  Oberbau  bezüglich  der 
 Bewertung  und  Abarbeitung  der  kombinierten  Einzelfehler  der  Gleislage  einen  erheblichen 
 Ermessungsspielraum zu. Bewertungsgrundlage für die Abarbeitung von sicherheitsrelevanten Aufgaben kann, allein schon wegen der Einheitlichkeit der Behandlung, nur das Regelwerk  sein.  Folglich  muss  der  Regelwerkstext  so  gefasst  sein,  dass  dieser  eindeutig  und 
@@ -2579,9 +2563,7 @@ sich Möglichkeiten, auch an den Fahrzeugen Veränderungen vorzunehmen, die die 
 2. Größeres Spiel der Achsen bis zum Anschlag an den Haltesteg. 
 Zu 1.) Eine stärkere Dämpfung in den Federn würde die Amplitude des Hubes verkleinern, 
 aber auch gleichzeitig durch die Straffung des Federsystems größere Kräfte in den Gleiskörper einleiten. 
-
 Zu  2.)  Ein  größeres  Spiel  bewirkt,  dass  die  Achse  durch  den  Haltesteg  erst  bei  größeren 
-
 Amplituden beeinflusst wird und somit der Spielraum der einwirkenden Amplituden bis zum 
 Abheben  des  Rades  vergrößert  wird.  Zu  berücksichtigen  sind  hierbei  größere  Wankbewegungen des Fahrzeuges, die im Zulassungsprozess des Fahrzeuges zu bewerten sind (z. B. 
 Lichtraumprofil). 
@@ -2600,18 +2582,14 @@ Seite 64 von 67
 Untersuchungsbericht 
 Zugentgleisung,  09.06.2013,  Kaub - Lorch (Rhein) Üst 
 genschaften Einfluss auf Abstand und Ausprägung dieser Gleislagefehler. Werden derartige 
-
 Gleislagefehler  nicht  nachhaltig  instand  gesetzt,  erhöht  sich  mit  der  Zeit  die  Fehleranzahl 
-
 und  Fehlerausprägung.  Die  speziell  aus  gleichförmigen  Gleislagefehlern  resultierende  dynamische Anregung, die insbesondere leichte unbeladene Wagen beeinflusst, steigt an. Die 
 Wagen verformen den Untergrund anlog zur Eigenfrequenz. Treffen dann alle ungünstig wirkenden Faktoren zusammen, kommt es zur Entgleisung. 
 Die durchgeführten Untersuchungen belegen, dass die entgleisten Autotransportwagen unter 
 den vorgefundenen Bedingungen zu markanten Hubbewegungen angeregt werden. Hierbei 
 ist das Einfedern der Wagen als erste Reaktion auf die Längshöhenfehler unkritischer als die 
 Gegenreaktion  des  Ausfederns,  die  einen  Hub  erzeugt.  Ist  dieser  Hub  so  groß,  dass  der 
-
 Achshaltersteg  an  das  Achslager  anschlägt,  lässt  dieser  Impuls  den  Hub  der  Achse  weiter 
-
 ansteigen, was in der Summe zum kritischen Radanheben führt. Die Autotransportwagen der 
 Gattung  Laaers  konnten  diese  zusätzlich  wirkenden  Anregungen  aus  den  vorgefundenen 
 Gleislagefehlern bei der gefahrenen Geschwindigkeit von 104 km/h aufgrund ihrer konstruktiven  Eigenschaften  nicht  mehr  ausreichend  kompensieren  und  entgleisten.  Eine  weitere 
@@ -2619,14 +2597,8 @@ Ursache ist in der Fehleinschätzung des Gefahrenpotentials der aufgetretenen ko
 (zyklischen)  Einzelfehler  durch  das  Inspektionspersonal  und  der  fehlenden  Regelung  mit 
 deren Umgang in den Richtlinien der DB AG zu sehen. 
 Abschließend ist anzumerken, dass die vorgefundene Störstelle im Gleis bestimmte Wagengattungen  derart  zusätzlich  anregt,  dass  es  zu  einer  Entgleisung  kommen  kann.  Zum  Zeitpunkt  der  Entgleisung  haben  offensichtlich  Wechselwirkungen  zwischen  den  Fahrzeugen, 
-dem  Fahrweg  und  ggf.  auch  Witterungseinflüsse  dazu  geführt,  dass  sich  die  ohnehin  vorhandenen Anregungen noch veränderten und es dadurch zur Entgleisung kam. Die Berechnungen von SIMTES belegen, dass die vorgefundenen Gleislagefehler das Entgleisungsrisi-
-
-ko  zwar  erhöhen,  aber  nicht  zwangsläufig  auch  zu  einer  Entgleisung  führen.  Erst  die  kom-
-
-plexen  Wechselwirkungen,  die  in  vollem  Umfang  auch  durch  die  verwendeten  Simulationsmodelle nicht erfasst werden konnten, haben offenbar zur Entgleisung des Fahrzeugs beigetragen.  Welchen  Anteil  hierbei  die  einzelnen  Komponenten  haben,  lässt  sich  im  Einzelnen 
-
+dem  Fahrweg  und  ggf.  auch  Witterungseinflüsse  dazu  geführt,  dass  sich  die  ohnehin  vorhandenen Anregungen noch veränderten und es dadurch zur Entgleisung kam. Die Berechnungen von SIMTES belegen, dass die vorgefundenen Gleislagefehler das Entgleisungsrisiko  zwar  erhöhen,  aber  nicht  zwangsläufig  auch  zu  einer  Entgleisung  führen.  Erst  die  komplexen  Wechselwirkungen,  die  in  vollem  Umfang  auch  durch  die  verwendeten  Simulationsmodelle nicht erfasst werden konnten, haben offenbar zur Entgleisung des Fahrzeugs beigetragen.  Welchen  Anteil  hierbei  die  einzelnen  Komponenten  haben,  lässt  sich  im  Einzelnen 
 nicht  beziffern.  Vielmehr  ist  hier  das  Gesamtsystem  Eisenbahn  zu  betrachten,  in  dem  alle 
-
 daran  beteiligten  Akteure  gehalten  sind,  für  einen  sicheren  Eisenbahnbetrieb  zu  sorgen. 
 Möglichkeiten hierzu werden in diesem Bericht sowohl auf der Seite des EIU als auch auf der 
 Seite des EVU aufgezeigt. 
@@ -2670,8 +2642,10 @@ Seite 66 von 67
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  09.06.2013,  Kaub - Lorch (Rhein) Üst 
 Es  wird  empfohlen  alle  Entwässerungsanlagen  separat  zu  erfassen, um regelmäßige Inspektionen auf Funktionsfähigkeit der 
 jeweiligen  Entwässerungsanlage  zu  planen  und  zeitnah  durchführen zu können. 
@@ -2695,10 +2669,13 @@ Seite 67 von 67
  
  
  
+
  
 SIMTES 
 
+
 Simulation technischer Systeme 
+
 Berich~ 
 
 Simulationsrechnungen zur Zugentgleisung in Lorch vom 
@@ -2713,14 +2690,15 @@ Auftraggeber: 	 Eißenbahn-Bundesamt
 Zentrale der Eisenbahn-Unfall untersuchungsstelle des Bundes 
 Verfasser: 	
 Prof.  Dr.-lng.  Rolf Naumann 
+
 simtes - Simulation technischer Systeme 
 Senner Waldweg 18 
 33659 Sielefeld 
+
 SIM042015BE 
 Bericht 
 Seite 2 von 37 
 Inhaltsverzeichnis 
-
 1.  Aufgaben und allgemeine Angaben ............................................................................. 5 
 
 
@@ -2730,6 +2708,7 @@ Inhaltsverzeichnis
 
 
 3.1. 
+
 3.2. 
 3.3. 
 GMTZ Messungen: Auswertung und Vergleich  mit Fahrzeugmoden .................. 7 
@@ -2748,6 +2727,7 @@ Gleislagen nach ERRI  B176 .....................................................
 
 
 5.1. 
+
 5.2. 
 5.3. 
 5.3.1. 
@@ -2758,7 +2738,6 @@ Gleislagen nach ERRI  B176 .....................................................
 5.3.6. 
 5.4. 
 5.5. 
-
 Koordinatensystem .............................................................................................. 16 
 
 
@@ -2796,9 +2775,9 @@ Aufbau 2-Wagen-Modell ..........................................................
 
 
 6.1 . 
+
 6.2. 
 6.3. 
-
 Radsatzlasten ...................................................................................................... 27 
 
 
@@ -2821,7 +2800,9 @@ Eigenverhalten .................................................................
 
 
 2014-09-19_Unfaii_Lorch_Final.docx 
+
 SIM042015BE 
+
 Bericht 
 Seite 3 von 37 
 Quellenverzeichnis 
@@ -2859,39 +2840,22 @@ ORE Bericht ORE C  138 Bericht Nr.  8,  1984 Zulässige Höchstwefte der Y- und 
 und Entgleisungskriterium,  Utrecht, September 1984. 
 
 Abbildungsverzeichnis 
-
 Abbildung 2-1: Unfallfahrzeug Laaers Typ 1215A ............................................................................. 6 
-
 Abbildung 2~2: Entgleisungsstelle im Bogen bei km 76,950 ............................................................. 6 
-
 Abbildung 2-3:  Beschädigungen am Radsatzhalter des Unfallfahrzeugs ......................................... 7 
-
 Abbildung 3-1: Ausschnitt Überschreitungsprotokoll GMTZ Messung vom 12.06.13 ...................... 8 
-
 Abbildung 3-2: GMTZ Gleislage vom 12.06.2013 km 77- km 76,8 .............................................. ... 8 
-
 Abbildung 3-3: Ausschnitt GMTZ Gleislage vom 12.06.13 km 77,05- km 76,80 ............................ 9 
-
 Abbildung 3-4: Eigenfrequenzen des Fahrzeugs und Anregungsfrequenzen durch die Gleislage13 
-
 Abbildung 3-5: Trassierungsentwurf an der Entgleisungsstelle aus (lvlg 2507 km 76,0) ............... 14 
-
 Abbildung 5-1: Zeichnung Gesamtansicht Wagon Laaers Type 1215 A 1215/02.00.00 ............... 15 
-
 Abbildung 5-2: Definition des Koordinatensystemes aus EN 14067-1  [3] ...................................... 16 
-
 Abbildung 5-3: Zeichnung Wagen Laaers ........................................................................................ 17 
-
 Abbildung 5-4: Modell Wagenkasten ................................................................................................ 17 
-
 ' 
-
 Abbildung 5-5: UIC Doppelschakenaufhängung aus Fwg 637.0.02.000.001  ................................ 18 
-
 Abbildung 5-6: SIMPACK Submodell Fahrwerk ..................................................... : ........................ 18 
-
 Abbildung 5-7:  Radsatz Type 9073 aus Zeichnung SNCF 10-4022 180 ........................................ 19 
-
 2014-09-19 _ Unfaii_Lorch_Final.docx 
 SIM042015BE 
 - - - - ..- - - - - -
@@ -2966,12 +2930,12 @@ Laaers 1215A mit Hysterese, simtes Frequenzen, ohne RS-Halter ..................
 
 
 2014-09-19 _ Unfaii_Lorch_Final.docx 
+
 SIM042015BE 
 Bericht 
 Seite 5 von 37 
 1.  Aufgaben und allgemeine Angaben 
 Es  sollen  Simulationsrechnungen  zur  Zugentgleisung  Lorch  am  09.06.13  durchgeführt werden. 
-
 Die  Unfallursache  konnte  nicht  eindeutig  geklärt werden.  Hinsichtlich  der Zugentgleisung  sollen 
 
 die 
@@ -2994,20 +2958,29 @@ Untersuchungsbezirk Essen
 
 Herschelstraße 3 
 30159 Hannover 
+
 Ansprechpartner: Herr Frank Wolther 
 Mail: woltherf@eba.bund.de 
+
 durchgeführt von 
+
 simtes- Simulation technischer Systeme 
 Prof. Dr.-lng. Rolf Naumann 
+
 Senner Waldweg 18 
 33659 Sielefeld 
+
 Bearbeiter:  Dr.  Naumann, Hr. Lück 
 Mail: rolf.naumann@simtes.de 
+
 Umfang des Berichtes und der Anlagen: 
+
 Bericht: 
 Anlagen: 
+
 Seiten 32 
 Seiten 2 
+
 2014-09-19 _ Unfaii_Lorch_Final.docx 
 SIM042015BE 
 Bericht 
@@ -3076,7 +3049,9 @@ belegt
 79,918 +000 
 l
 
+
 f~+~ 
+
 76,950+000 
 76,951  +000 
 76,850+000 
@@ -3085,8 +3060,10 @@ f~+~
 LH Ii/re 
 Dieipunkl 
 >SRIOO 
+
 GH 
 Hochpass 
+
 >SRIOO 
 (mm] 
 rmm} 
@@ -3096,8 +3073,10 @@ ORE- Vw
 14 
 15 
 14 
+
 ,. . , 
 l&'ll  Z'!!  · lll'll 
+
 1111. 
 -
 !1!.'!1 
@@ -3125,7 +3104,9 @@ Entgleisungsstelle  bei  km 76,978  eine  gleichzeitige  Erhöhung  des  Längsh
 Schienen zu erkennen. 
 
 Gleislage Lorch GMTZ Messung  km  77992- km  76633 
+
 - -
+
 -
 
 resutt.$RWP _Left.Pair.z_irreg Vertical rail  irreg u lar~y 
@@ -3165,15 +3146,19 @@ reuh.SR W P _R ig ht. Pair.z_irreg V!!Orlica  ra l  irll!Q  arily
 
 Längshöhenfehler 
 3  4
+
 1  2 
 •  +  •  + 
+
 - -
 :0. 
 -
 '{ J' 
 ....  _  . 
+
 . -
 .... 
+
 /  '  I 
 '~ ., 
 -'iloo 
@@ -3305,8 +3290,10 @@ ers
 Schlingern um zAchse 
 Wanken um  x-Achse 
 ISway 
+
 Nicken um  y-Achse 
 I Pitch 
+
 Wanken um y-Achse 
 Torsion um x-Achse 
 Fre 
@@ -3335,8 +3322,10 @@ Wellenlänge von  ca.  11  m  im  Wegbereich.  Durch  die  Fahrt  des  Fahrzeugs
 einer  bestimmten  Geschwindigkeit wird  daraus  eine  periodische  Anregung  im  Zeitbereich.  Fällt 
 
 2014-09-19 _Unfall_ Lorch_Final.docx 
+
 SIM042015BE 
 - - - - - - - - - - - - - - - - -
+
 Bericht 
 Seite .12 von 37 
 
@@ -3351,6 +3340,7 @@ Seite 13 von 37
 Tabelle 3-3: Anregungsfrequenzen der Gleislage bei verschiedenen Geschwindigkeiten 
 v in km/h 
 mittlere Anregungsfrequenz in Hz 
+
 60 
 70 
 80 
@@ -3362,6 +3352,7 @@ mittlere Anregungsfrequenz in Hz
 140 
 150 
 160 
+
 1,52 
 1,78 
 2,03 
@@ -3385,6 +3376,7 @@ Ejgenfrequenzen und Anregungsfrequenzen durch Längshöhenfehler
 2,0 
 1,5 
 1,0 
+
 N 
 ::z::: 
 ...... 
@@ -3393,8 +3385,10 @@ c
 GJ 
 :;, 
 tr 
+
 GJ... 
 ""' 
+
 -Anregung 
 ___._ Nicken 
 - - Huben 
@@ -3407,8 +3401,10 @@ Torsion  z-Achse
 - t - - - - - - - - - - - - - - - - - - - - - - ------- Unfallgeschwindigkeit 
 0,0 
 
+
 -
 60 
+
 65 
 70 
 75 
@@ -3422,9 +3418,12 @@ Torsion  z-Achse
 115 
 120 
 
+
 Fahrzeuggeschwindigkeit/ km/h 
+
 Abbildung  3-4:  Eigenfrequenzen  des  Fahrzeugs  und  Anregungsfrequenzen  durch  di
 Gleislage 
+
 e 
 
 Im  relevanten  Geschwindigkeitsbereich  um  100 km/h  liegen  die  Starrkörpereigenmoden  des 
@@ -3435,8 +3434,10 @@ Eigenfrequenzen  der Hubbewegung  {2,26  Hz)  und  der Torsion  um  die  x-Achse
 des Fahrzeugs, die damit etwas angeregt werden können. 
 
 2014-09-19 _ Unfaii_Lorch_FinaLdocx 
+
  
 SIM042015BE 
+
 Bericht 	
 Seite 14 von 37 
 3.2. 
@@ -3463,8 +3464,10 @@ Gleislage verwendet.
 i  I 
 I 
 : 
+
 : I  
 i5<  06 
+
 i: 	 ; 9  ; -. 
 Bj 	
 '.11  1"4 
@@ -3472,21 +3475,27 @@ Bj
 9j 
 • 	
 • 
+
 : 
 I 
 :  I 
 i : 
+
 .1!;.. : •:-"'",,~ ''"  ~:;·~ , , •L~.* .~ 
 t,i -~t, 
+
 , 
 .: 
 i 
+
 II'J 
 I 
 : 	
+
 : 
 : 
 i 
+
 I] 
 10 
 15 
@@ -3498,7 +3507,9 @@ i 16
 16 
 6  ••: 
 
+
 mr:,x  v=110 
+
 7~ . 0 
 : H.• hr~~~."fJ 
 feH  r 
@@ -3513,14 +3524,19 @@ I
 ,'T~ t  :.~~0 
 . 
 
+
 ~~~-·..··-::.~~. 
+
 : 
 : 
+
 : 
 i 
 <o  ~9  176-n ~ 
+
 I 	
 105 	
+
 I 
 .
 42.96 
@@ -3533,8 +3549,10 @@ I
 
 9.• .~~  ln-{s  I 
 1 
+
 ~
 l~h••• ~ 
+
 Abbildung 3-5: Trassierungsentwurf an der Entgleisungsstelle aus (lvlg 2507 km 76,0) 
 3.3.  Gleislagen nach ERRI 8176 
 
@@ -3550,9 +3568,7 @@ ERRI  low z:
 ERRI  low y:  2,5 mm 
 ERRI  high z:  5,5 mm 
 ERRI  high y: 4,2 mm 
-
 Die Diagramme zu  den Gleislagedaten sind  in  Abbildung A-4 dargestellt.  Für die linke und  rechte 
-
 · Schiene werden jeweils unterschiedliche Anregungen erzeugt. 
 4.  Kontaktgeometrie 
 
@@ -3566,12 +3582,15 @@ Kontaktgeometrien  mit  SIMPACK  ausgewertet  dargestellt.  Für  alle  Simulati
 eine Spurweite von 1435 mm und eine Schieneneinbauneigung von  1/40 verwendet. 
 
 2014-09-19_Unfall_Lorch_Final.docx 
+
  
 SIM042015BE 
+
 Bericht 
 Seite 15 von 37 
 5.  Modellerstellung 
 Das Unfallfahrzeug (Einzelfahrzeug) besitzt folgende Daten: 
+
 Gattung: 
 Bauart: · 
 Baujahr: 
@@ -3603,34 +3622,45 @@ Breite ü.  a.:
 3140 mm 
 
 A 
+
 /  J,, 
 I  14 
 "-' 
 I
+
 (  20  l
 ,J 
 \ 
+
 ,i/  i 
 - ~ - 6 \ 
+
 - - -t - -(  16  . 
+
 - -
 -
+
 - .'-: - -
 (  13  \ 
+
 '· 
 \ 
 4. 
 - - - _,__  -
+
 (OUPE  B- 8 
 lCHl~U VIO 
+
 Abbildung 5-1:  Zeichnung Gesamtansicht Wagon Laaers Type 1215 A 1215/02.00.00 
 
 Für die  Modellerstellung  werden  das Verhalten  und  die  Eigenschaften  der wichtigsten  Elemente 
 durch Körper,  Kraftelemente oder Gelenke abgebildet. 
 
 20J4-09-19_Unfaii_Lorch_Final.docx 
+
 SIM042015BE 
 - - · - - - - - - -
+
 Bericht 
 - - - · .  - - - - - - - - --- ---- -·  -· 
 Seite 16 von 37 
@@ -3651,12 +3681,15 @@ Elemente  notwendig.  ln  den  Unterlagen  nicht  enthaltene  Daten  wurden  (ve
 oder plausibel abgeschätzt. 
 
 Für die unabgefederten Wagenteile ergeben sich folgende Massen: 
+
 2 Radsätze 
 4 Radsatzlager 
 4 Parabelfedern 
+
 1962 kg 
 312 kg 
 328kg 
+
 
 Summe: 2600 kg Ue  Fahrwerk 1300 kg) 
 
@@ -3671,7 +3704,9 @@ Für die  Modeliierung  und  die  anschließende  Auswertung  wird  das  Koordin
 ( 
 -f-----i,- ----3---. 
 
+
 y 
+
 Abbildung 5-2:  Definition des Koordinatensystemes aus EN 14067-1  [3] 
 5.2.  Wagenkasten 
 
@@ -3682,8 +3717,10 @@ den Puffern montiert.
 
 2014-09-19 _Unfall_ Lorch_Final.docx 
  
+
  
 SIM042015BE 
+
 Bericht 
 Seite 17 von 37 
 Abbildung 5-3: Zeichnung Wagen Laaers 
@@ -3694,6 +3731,7 @@ besteht.
 
 ~1 
 X 
+
 ~  ~--
 p-___ _..,-----· 
 A
@@ -3706,7 +3744,9 @@ Mass = 7571  kg
 Schwerpunkt CG [x, y, z]  = [8.75, 0, -1.552] m 
 Inertia [Ixx, Iyy, Izz] Ixy, Ixz, lyz = [17580, 233000, 233000] 0, 0, 0 kg m2 
 
+
 Daraus ergibt sich für den gesamten Wagenkasten: 
+
 Mass = 15142 kg 
 Schwerpunkt CG [x, y, z]  = [4.5, 0, -1.552] m 
 Inertia [Ixx, Iyy, Izz] Ixy, Ixz, Iyz = [35160, 739502, 739502] 0, 0, 0 kg m 2 
@@ -3741,8 +3781,10 @@ durch Anschläge zum Achshalter und Radsatzhalter in seiner Bewegung eingeschrä
 M itte .~ --
 \ 
 -
+
 I 
 I 
+
 "' ..,, 
 r---  -  - - - 1-- 1730 )-
 -
@@ -3752,6 +3794,7 @@ _ __...,.___ ·  _
 - -
 -
 - ---! 650:~ 1-~-
+
 Abbildung 5-5: UIC Doppelschakenaufhängung aus Fwg 637.0.02.000.001 
 
 ln  Abbildung  5-6  ist  das  SIMPACK  Modell  des  Fahrwerks  mit  den  Elementen  Radsatzwelle, 
@@ -3773,8 +3816,10 @@ ln  dem  Fahrzeug  sind  Radsätze  der  Type  9073  mit  einem  nominellen  Rad
 
 ___ 
 ~?CO l _ 
+
 --------
 .  ~----------·- . 
+
 En t r cll< <'  -dl!~- - - - fu'~"~  (20~) ) 
 1360 
 -·  --------- - -·-
@@ -3804,8 +3849,10 @@ modelliert.
 
 2014-09-19_Unfall_Lorch_Final.docx 
 SIM042015BE 
+
 Bericht 
 - - - - - ----~ ---- - -
+
 5.3.3.  Achshalter und Anschläge 
 Seite 20 von 37 
 
@@ -3813,8 +3860,10 @@ Durch den Achshalter erfolgt eine Beschränkung der Wege in  lateraler Richtung 
 longitudinaler Richtung auf 22 mm (Anschläge). 
 
 Schnitt  B-B 
+
 c 
 N 
+
 Abbildung 5-9:  Beschränkung durch Achshalter aus Fwg 637.0.02.000.001 
 
 Die Anschläge werden  in  SIMPACK durch  einseitige Feder-Dämpfer-Elemente (Contact-Eiement 
@@ -3875,9 +3924,11 @@ Schaken  aufgehängt  wird  und  sich  über  eine  Feder  auf  dem  Federbolzen
 SIM042015BE 
 Bericht 
 Seite 22 von 37 
+
 Radsatzlager  abstützt 
 Schakenaufhängung gut abgebildet4 
 . 
+
 (s. Abbildung  5-12).  Somit  wird  die  Kinematik  durch  die 
 Abbildung 5-12:  SIMPACK Modeliierung Blattfeder 
 
@@ -3901,25 +3952,32 @@ Kennlinien für das Fahrzeug Laaers (Unfall Lorch) gemittelt und modelliert (Abb
 I 	
 Federsteifigkeit Parabelfeder 
 200 
+
 .....	Steifigkeit Laae rs 
 Messungen 
+
 .. 
 /
 /
 / 
 /
 /
+
 / 
 ~ 
+
 ~ 
 20 
+
 40 
 60 
 80 
 100 
+
 ..------. 
 140 
 120 
+
 Hysterese Reibung Parabelfeder 
 ...... 
 ..."....,. 
@@ -3931,10 +3989,12 @@ Hysterese Reibung Parabelfeder
 ..._ Einhülle~_de_unten 
 (_j 
 r.~ 
+
 4 
 -5 
 -6 
 -7 
+
 -8
 .."..",.,.. 
 ..."....,. 
@@ -3964,7 +4024,9 @@ Federlänge  von  1000 mm  verwendet.  Diese  Anpassung  ist  minimal  und  hat 
 Vertikaldynamik (Huben, Wanken,  Nicken des Wagenkastens). 
 
 2014-09-19 _Unfall_ Lorch_Final.docx 
+
 SIM042015BE 
+
 Bericht 
 Seite 23 von 37 
 
@@ -3977,9 +4039,7 @@ force output.$S_Fahrwerk_7.$F _Biattfeder_c_re.Total force
 X  103 
 Diagram 
 10D-r - - - - - - - - - - - - - - - - -  -  - - - - -
-
 o+--~-----=1o--.------::r:-------.------:J3r::-o-,----:r:4o--.,..---:r--____,.---::~:--~---::I::--~---:l80  x
-
 3 
 10-
 Federweg [m] 
@@ -4001,9 +4061,11 @@ notwendig, hierzu gehören die Puffer und der Zughaken (s. Abbildung 5-15).
 l 
 I 
 --~: 
+
 j 
 i 
 . 1 
+
 I 
 I 
 
@@ -4022,28 +4084,38 @@ COUR!3E5  L  l t.IITE.S  OE  C OM PR ESS!ON  STATIOUE
 1000 
 I 
 -
+
 L 
 j 
 1/ 
+
 : - -f -· 1--
 2 
 Ul 
+
 "" z 
 ... 
 0 ... 
+
 0: 
+
 u. 
 w 
+
 500 
 400 
 300 
 ? 0 0 
+
 ! 3 0 
 100 
+
 50 
 10 
+
 -I 
 I 
+
 tffr -
 '--· ·-
 --
@@ -4053,12 +4125,15 @@ I
 I 
 I 
 V 
+
 ~ ,. i-
 .. 
 /
 ./ 
+
 I-I 
 --
+
 -· 
 ·-
 -· 
@@ -4066,15 +4141,19 @@ I-I
 ·-· 
 -
 - ·r__.....  - -·  7 
+
 I 
 I 
+
 ----
 ; 
 -
 -
 - ·· 
+
 I 
 V 
+
 V 
 / 
 / 
@@ -4083,6 +4162,7 @@ w ~ ,.  /  V
 / 
 10  20  25  30  40  50  GO  7fl  80  90  lOO  105 
 fLE X ION  E.N  MM 
+
 Abbildung  5-16:  Arbeitsdiagramm  Hülsenpuffer  aus  SNCF  10-8  016  579  und  SIMPACK 
 Modell 
 
@@ -4094,10 +4174,14 @@ berechnet wird.  Für die Pufferreibung wird eine mittlere Schmierung angenommen
 
 Abbildung 5-17:  Pufferpaar 
 
+
 ln Abbildung 5-17 ist die Pufferkennlinie dargestellt. 
 
+
 2014-09-19_Unfaii_Lorch_Final.docx 
+
 SIM042015BE 
+
 Bericht 
 Seite 25 von 37 
 Kennlinien Steifigkeit SNCF  Puffer 
@@ -4105,12 +4189,15 @@ Kennlinien Steifigkeit SNCF  Puffer
 -
 normal 
 + - - - - - - - - - - - - - - - . 
+
 z  800
 .lll: 
 ....... 
+
 = "'  600
 J2... 
 GI = =  400
+
 Q. 
 200 
 0 
@@ -4138,17 +4225,20 @@ Statisches  Federdiagramm
 
 llfor~ 
 I!Wd,  ( -fl241 
+
 du Vl!tspa:JMrm• 
 Fl IIN  I 
 1000  ~ ~-- ----,-·,r 
 I 
 h , 
 ''I  ---
+
 I 
 ~ 
 I. ~ I 
 II 
 ~~ 
+
 9110 
 1100 
 010 
@@ -4158,6 +4248,7 @@ St
 0  -
 400 
 -- -
+
 3DO 
 ,' 
 m 
@@ -4167,14 +4258,17 @@ m
 0 P"' 
 10 
 0 
+
 ~ 
 sl -
 J 
 to  30  40  50  60  10 
 - ~I 
 \ 
+
 \ 
 10 
+
 Abbildung 5-19: Zugeinrichtung und Kennlinie nach ST-9-2/160 
 Bei dem 2-Wagen-Modell wurden die Wagen auf Berührung gekuppelt. 
 5.4.  Aufbau Einzelfahrzeug 
@@ -4188,7 +4282,9 @@ Masse =  18432 kg
 Schwerpunktlage CG [x, y, z]  =  [9.98347,  1.51868e-005, -1.36666] m 
 Inertia [Ixx, Iyy, Izz] =  [413 57.4, 831 081, 831266] kg m2 
 
+
 2014-09-19_Unfaii_Lorch_Final.docx 
+
 SIM042015BE 
 Bericht 
 Seite 26 von 37 
@@ -4217,7 +4313,9 @@ Blattfeder (Kennlinie)
 Puffer 
 Zugeinrichtung 
 
+
 2014-09-19_Unfaii_Lorch_Final.docx 
+
 SIM042015BE 
 Bericht 
 Seite 27 von 37 
@@ -4226,7 +4324,9 @@ Auswertung der Radsatzlasten im Ruhezustand
 Bestimmung der Fahrstabilität 
 Eigenverhalten (siehe auch Kapitel6.3) 
 
+
 Im Folgenden werden diese erläutert. 
+
 6.1.  Radsatzlasten 
 
 Für die Berechnung der Radlasten wird da/s Modell  im  Ruhezustand simuliert.  Es ergibt sich eine 
@@ -4238,23 +4338,31 @@ Laaers 1215A Ruhelage
 Q-Kräfte 
 -
 -
+
 -
 -
+
 result.$RWP _Right.Pair.Q Vertical wheel force 
 resu~.$RWP_Right_2.Pair.Q Vertical wheel force 
+
 resu~.$RWP_Left_2.Pair.Q Vertical wheel force 
 resu~.$RWP_Left.Pair.Q Vertical wheel force 
 
+
 ~, 
+
 4 
+
 i~,w 
 1 
 1 4  ;~ 
 ; 1'1 
+
 '5l  42  I 
 >  40  I 
 0.0 
 0 
+
 - - -
 o'z 
 o'4 
@@ -4264,6 +4372,7 @@ time[s)
 V-Kräfte 
 I
 ,IQ
+
 -
 -
 -
@@ -4275,14 +4384,18 @@ resu~.$RWP_Right__2.Pair.Y Lateral wheel force
 
 -
 - result.$RWP _Right.Pair.Y Lateral wheel force 
+
 20 
 ~  150: 
+
 ~  100:
+
 .2 
 5v: 
 "$ 
 "i 
 -5(}~  -100: 
+
 ~  -150: 
 >-20 0.0 
 2.5 
@@ -4314,22 +4427,29 @@ Seite 28 von  37
 Stabilität Laaers  1215A 
 Q-Kratte v= 1 00 km/h 
 Q-Kratte v=120 kmlh 
+
 - - resu~ . $RWP_Left.Pair.Q Vertical wheel force 
 -
 -
 -
+
 resu~ . $RWP_Left_2.Pair.Q Vertical wheel force 
 resu~ . $RWP_Right_2.Pair.Q·Vertical wheel force 
+
 - resu~.$RWP Right.Pair.Q Vertical wheel force 
+
 -
 -
+
 -
 _ 
 x103 
 II 
 5 
+
 1
 10 
+
 1
 15 
 time [s] 
@@ -4341,16 +4461,22 @@ resu~ . $RWP_Left_2.Pair.Q Vertical wheel force
 resu~. $RWP_Right_2.Pair.Q Vertical wheel force 
 
 - resu~ . $RWP Right.Pair.Q Vertical wheel force 
+
+-
+-
+
+-
+
 -
 -
 -
--
--
--
+
 _ 
 x10 3 
+
 zl 
 Il!
+
 I
 j
 5 
@@ -4362,25 +4488,35 @@ io
 25 
 Y -Kratte v= 1 00 km/h 
 Y-Kratte v=120 km/h 
+
 - - resu~ . $RWP_Left.Pair.Y Lateral wheel forca 
 -
 -
 -
+
 resu~ . $RWP_Left_2.Pair.Y Lateral wheel force 
 resu~.$RWP_Right_2.Pair.Y Lateral wheel force 
+
 - resu~ . $RWP Right.Pair.Y  Lateral wheel force 
+
 - -
 -
+
 -
+
 - - resu~.$RWP_Right.Pair.Y  Lateral wheel force 
 -
 -
 -
+
 resu~.$RWP_Right_2.Pair.Y Lateral wheel force 
 resu~ . $RWP_Left_2.Pair.Y Lateral wheel force 
+
 - resu~ . $RWP Left.Pair.Y Lateral wheel force 
+
 -
 -
+
 -
 time [s] 
 time [s] 
@@ -4389,10 +4525,13 @@ bbildung 6-2:  Laufstabilität Q-, Y -Kräfte v=1 00 km/h v=120 km/h
 Stabilität Laaers  1215A 
 Q-Kratte v=140 km/h 
 Q-Kratte v=160 kmlh 
+
 - -
 -
 -
+
 -
+
 -
 -
 
@@ -4401,10 +4540,13 @@ resu~.$RWP_Left_2.Pair.Q Vertical wheel force
 resutt.$RWP _Right_2.Pair.Q Vertical wheel force 
 
 - resutt.$RWP  Right.Pair.Q Vertical wheel force 
+
 - -
 -
 -
+
 -
+
 -
 -
 
@@ -4415,10 +4557,13 @@ resutt.$RWP _Right_2.Pair.Q Vertical wheel force
 - resutt.$RWP  Right.Pair.Q Vertical wheel force 
 time[s] 
 Y-Kratte v=140 km/h 
+
 - -
 -
 -
+
 -
+
 -
 -
 
@@ -4429,10 +4574,13 @@ resutt.$RWP _Right_2.Pair.Y Lateral wheel force
 - resutt.$RWP  Right.Pair.Y Lateral wheel force 
 time[s] 
 Y-Kratte v=160 km/h 
+
 - -
 -
 -
+
 -
+
 -
 -
 
@@ -4442,6 +4590,7 @@ resutt.$RWP _Right_2.Pair.Y Lateral wheel force
 
 - resutt.$RWP  Right.Pair.Y Lateral wheel force 
 Q; 
+
 .. 
 ~ 
 ~ .e 
@@ -4569,6 +4718,7 @@ Laaers,  Hysterese,  RS-Halter
 ln Abbildung 8-1  sind die Simulationsergebnisse für das Radanheben dargestellt. 
 Wagen 3  mit Hystere mit RS-Halter dz wheel  raise 
 Wagen 4  mit Hystere mit RS-Halter dz wheel raise 
+
 - - -
 -
 -
@@ -4579,10 +4729,13 @@ result.$RWP_Left_6.Pair.Dz Wheel raise
 - result.$RWP _Right_6.Pair.Dz Wheel raise 
 
 -
+
 - -
 -
 -
+
 -
+
 -
 -
 
@@ -4593,16 +4746,20 @@ result.$RWP _Left_B.Pair.Dz Wheel raise
 
 X 10-J 
 1~----------------. 
+
 I 
 ., "' 
 ·e 
 a; 
 ~ 
+
 I 
 ., 
 "i! "'
+
 a; 
 ~ 
+
 time[s] 
 time[s] 
 
@@ -4640,9 +4797,11 @@ resu~ . SRWP_Left_6.Pair.Dz Wheel raise
 
 -
 -
+
 -
 X  10-3 
 1~---------------------------. 
+
 -
 -
 
@@ -4681,10 +4840,13 @@ Leer,  ERRIIow Gleislage
 Leer,  ERRI high Gleislage 
 Beladen, GMTZ Gleislage 
 v I km/h 
+
 Y/Qmax 
 ungefiltert 
+
 Y/Qmax 
 gefiltert 
+
 dz/mm 
 Var. 
 104 
@@ -4728,8 +4890,10 @@ Kontaktpunkte
 woraus 
 und 
 2014-09-19 _Unfall_ Lorch_Final.docx 
+
 SIM042015BE 
 - - - - - - - - - - - ---- - - - - - - - - - - - -
+
 Bericht 
 Seite 32 von 37 
 Fazit: 
@@ -4800,10 +4964,13 @@ Seite 34 von 37
 Anlagen: 
 Wagen  3  mit Hystere mit RS-Halter Q-Kräfte 20 Hz gefiltert 
 Wagen 4  mit Hystere mit RS-Halter Q-Kräfte 20 Hz gefiltert 
+
 - -
 -
 -
+
 -
+
 -
 -
 
@@ -4813,6 +4980,7 @@ result.$RWP _Left_6.Pair.Q Vertical wheel force
 - result.$RWP _Right_6.Pair.Q Vertical wheel force 
 
 X  103 
+
 ~ 
 ~  ~ 
 .e 
@@ -4822,7 +4990,9 @@ j
 t 
 ~ 
 0 
+
 time[s] 
+
 - -
 - -
 -
@@ -4834,14 +5004,17 @@ result.$RWP _Left_B.Pair.Q Vertical wheel force
 
 X  103 
 ~ 
+
 l ~ 
 ~~~.e 
+
 äi 
 j 
 ~ 
 t 
 ~ 
 0 
+
 time[s] 
 20 
 10 
@@ -4856,11 +5029,14 @@ result.$RWP _Left_6.Pair.a  Vertical wheel force
 
 -
 -
+
 - -
 -
 -
+
 -
 -
+
 - -
 --
 
@@ -4872,18 +5048,23 @@ result.$RWP _Left_B.Pair.Q Vertical wheel force
 X  103 
 
 X  103 
+
 ~ 
 ., 
+
 ~~~ ~ .e 
 ., 
+
 l ~ 
 ~~~~ .e 
+
 äi 
 j 
 ~ 
 t: 
 ~ 
 0 
+
 time[s] 
 ~ 
 4 
@@ -4893,12 +5074,14 @@ time[s]
 0 
 30 
 40 
+
 äi 
 j 
 ~ 
 t 
 ~ 
 0 
+
 time[s] 
 l
 l
@@ -4908,6 +5091,7 @@ GMTZ, Fahrzeug mit Hysterese, mit RS-Halter
 
 Wagen 3  mit Hystere mit RS-Halter Y/Q  20  Hz gefiltert + gl.  Mittelwert 
 Wagen 4  mit Hystere mit RS-Halter Y/Q  20  Hz gefiltert + gl.  Mittelwert 
+
 - - result.$RWP _Left_5.Pair.Y/Q Derailment coefficient 
 -
 -
@@ -4919,8 +5103,10 @@ result.$RWP _Left_6.Pair.Y/Q Derailment coefficient
 
 -
 -
+
 -
 -
+
 - - result.$RWP _Left_7.Pair.Y/Q Derailment coefficient 
 -
 
@@ -4929,6 +5115,7 @@ result.$RWP _Left_B.Pair.Y/Q  Derailment coefficient
 - result.$RWP _Right_B.Pair.Y/Q Derailment coefficient 
 
 -
+
 ~ 
 'ü 
 7i 
@@ -4941,7 +5128,9 @@ c:
 ~  -0. 
 0 
 >= 
+
 -1 . 
+
 0.2
 ~ 
 0.1 
@@ -4954,14 +5143,19 @@ c
 ~
 0 
 >= 
+
 -0. 
 -0.
 -0.
+
 Wagen 3  mit Hystere ohne RS-Halter 20Hz gefiltert+ gl.  Mittelwert 
 
+
 Wagen 4  mit Hystere ohne RS-Halter Y/Q  20Hz gefiltert+ gl.  Mittelwert 
+
 time[s] 
 . time[s] 
+
 
 - - resuii.$RWP_Left_5.Pair.Y/Q Derailment coefficient 
 -
@@ -4972,8 +5166,10 @@ result.$RWP _Left_6.Pair.Y/Q Derailment coefficient
 
 -
 -
+
 -
 -
+
 - - result.$RWP_Left:].Pair.Y/Q  Derailment coeffiCient 
 -
 -
@@ -4985,8 +5181,10 @@ result.$RWP _Left_B.Pair.Y/Q Derailment coefficient
 
 -
 -
+
 -
 0. 
+
 ~ 
 'ü 
 7i 
@@ -5009,6 +5207,7 @@ result.$RWP _Left_B.Pair.Y/Q Derailment coefficient
 0 
 0 
 >=  -O.ö+--.~-1-r:0--.,.----,----.----:3r0---,--4,...0--,----1 
+
 time(s] 
 time(s] 
 
@@ -5038,13 +5237,17 @@ force output.$5_Fahrwerk_5 .$F_Ans_rechts_z_re_li_R5Halter.F_z given in M_i
 force output.$5_Fahrwerk_5 .$F_Ans_rechts_z_li_re_R5Halter. F_z given in  M_i 
 
 - force output.$5  Fahrwerk  5 .$F  Ans  rechts  z  Ii  Ii  R5Halter.F  z given in  M_i 
+
 -
 -
 -
+
 -
 -
+
 -
 -
+
 -
 -
 -
@@ -5066,10 +5269,13 @@ r_l2i
 =~====~~==4o=
 ~===~===~l
 
+
 I
+
 Wagen 3 Fahrwerk 6 RS  Halter Anschläge 
 Wagen 3 Fahrwerk 8 RS  Halter Anschläge 
 -
+
 -
 -
 -
@@ -5081,6 +5287,7 @@ force output.$5_Fahrwerk_6.$F_Ans_rechts_z_li_re_R5Halter.F_z given in  M_i
 
 -
 -
+
 -
 -
 -
@@ -5110,8 +5317,10 @@ resu~. $RWP_Right.Pair.z_irreg Vertical rail  irrE;~gularity
 
 resu~.$RWP_Right.Pair.z_irreg Vertical rail irregularity 
 -
+
 - - resu~.$RWP_Left.Pair.y_irreg Lateral  rail  irregularity 
 -
+
 result.$RWP_Right.Pair.y_irreg  Lateral rail  irregularity 
 -
 Querlagenfehler 
@@ -5128,7 +5337,9 @@ X 103
 Bericht 
 Seite 36 von 37 
 Gleislagestörung nach ERRI  8176 high 
+
 - -
+
 -
 
 resutt.$RWP_Left.Pair.z_irreg Vertical  rail irregularity 
@@ -5136,16 +5347,20 @@ resutt.$RWP_Right.Pair.z_irreg Vertical rail  irregularity
 
 Längshöhenfehler 
 ·~ 
+
 ~  -2
 'E 
 ~ 
 "' ~ 
 ·~· 
+
 0.0 
 0.2 
 Weg[m] 
 Querlagenfehler 
+
 - -
+
 -
 
 resutt.$RWP_Left.Pair.y_irreg Lateral rail irregularity 
@@ -5158,30 +5373,39 @@ X 103
 X  103 
 1.0 
 2014-09-19 _Unfall_ Lorch_Final.docx 
+
 SIM042015BE 
 Bericht 
 - - - - - - - - - · - - - - -~----
+
 - - - - - - - - - -
 Seite 37 von 37 
 Contacl geometry 
 - - - Equlval 
 t - - Höilrtno  Ir: 
 Equivalent Conicity 
+
 Mt;;Jel; 
 Wteel ::~el: 
+
 rm121M  S  bilil;lL  '0'3 
+
 L 
 Whee5et 
+
 1).9,-----------------:~ 
 [), 
+
 Whi!el pn:fil!) L: 
 Wh""I Jlralil"  R: 
 '1'\il""'' dtatneter L. 
 Wh11t'l di~m~lor R: 
+
 Ra I ptul  e  L. 
 Rls l prof eR: 
 Rls l """' l 
 R>o l  t8tll R. 
+
 S  C02 
 5  C02 
 0.84 
@@ -5190,8 +5414,10 @@ U C60
 U CöO 
 :~0 
 1.40 
+
 T~~e r line: di!:l!Bf'lt:e:  1.5 m 
 Tr""'k g~ug... 
+
 (Lif. SJ'!!L lt...:.t'" 
 Q: 
 t<, ,roll ang., tc,..idert:d 
@@ -5213,9 +5439,11 @@ y [111rn
 Contact connectiotls (lefl) 
 Contact cof'ltlections (righl) 
 2~------------~--------------~ 
+
 E' 
 .§. 
 't 
+
 -1 
 -2 
 -3 

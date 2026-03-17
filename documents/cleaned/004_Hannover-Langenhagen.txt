@@ -29,27 +29,37 @@ Im Auftrag
  
  
  
+
 Untersuchungsbericht zum 
 Zusammenstoß im Bf Flughafen Hannover-Langenhagen 
+
 I N H A L T S V E R Z E I C H N I S
 
+
 1. 
+
 Vorbemerkungen 
 2. 
 Verzeichnis der verwendeten Abkürzungen 
 3. 
 Der Ort des Ereignisses 
+
 3.1 
 3.2 
+
 Infrastruktur/Signalanlagen 
 Betriebsprogramm 
+
 4. 
 Das Unfallereignis 
+
 4.1  Geplanter Ablauf der Zugfahrten 
 4.2 
 4.3 
+
 Tatsächlicher Ablauf der Zugfahrten 
 Folgen des Ereignisses 
+
 Seite(n) 
 3 - 4 
 5 
@@ -170,9 +180,11 @@ Fahrtverlaufsauswertung  (Geschäftszeichen 4012 Uuf 403/00 v. 31.08.2000)
  
  
  
+
  
 Untersuchungsbericht zum 
 Zusammenstoß im Bf Flughafen Hannover-Langenhagen 
+
 1. 
 Vorbemerkungen 
 1.1 
@@ -362,8 +374,10 @@ b)  die DB Regio AG als Eisenbahnverkehrsunternehmen (i.S. des § 2 Abs. 2 AEG).
  
  
  
+
 Untersuchungsbericht zum 
 Zusammenstoß im Bf Flughafen Hannover-Langenhagen 
+
 1.3 
 Besonderheiten der Untersuchung 
 
@@ -514,8 +528,10 @@ den Textteil integriert.
  
  
  
+
 Untersuchungsbericht zum 
 Zusammenstoß im Bf Flughafen Hannover-Langenhagen 
+
 Kurzbeschreibung des Ereignisses 
 
 Am 29.06.2000 um 10:10 Uhr stieß im unterirdischen Teil des Bahnhofs Flughafen Hannover-Langenhagen in km 15,100 die aus  dem Bahnhof ausfahrende S-Bahn 5711 mit 
@@ -597,6 +613,7 @@ Infrastruktur/Signalanlagen
  
  
  
+
  
 Untersuchungsbericht zum 
 Zusammenstoß im Bf Flughafen Hannover-Langenhagen 
@@ -618,6 +635,7 @@ Bild 1
 Erläuterung:
 Einfahrt in den Bf Flughafen;
 Sicht aus Höhe des Esig 37A
+
 
 (im Hintergrund Gleisbogen 
 nach links) 
@@ -727,8 +745,10 @@ Sitz der Niederlassung Netz Nord in der dort ansässigen Betriebszentrale.
  
  
  
+
 Untersuchungsbericht zum 
 Zusammenstoß im Bf Flughafen Hannover-Langenhagen 
+
 Der  zuständige  Fahrdienstleiter  (Fdl)  führt  die  Bezeichnung  „Fdl  Langenhagen  Nord“.
 
 Der  Bf  Flughafen  Hannover-Langenhagen  bildet  den  ESTW-Stellbereich  37;  alle  Elemente des Stellbereichs (Signale, Weichen usw.) erhalten in ihrer Bezeichnung deshalb
@@ -965,14 +985,18 @@ Innerhalb  des  Bf  Flughafen  Hannover-Langenhagen  sind  nachstehende  Geschwi
  
  
  
+
 Untersuchungsbericht zum 
 Zusammenstoß im Bf Flughafen Hannover-Langenhagen 
+
 einfahrende Züge: 
 - ab Esig 37A bis km 15,1 = 50 km/h 
 - ab km 15,1 = 30 km/h * 
+
 ausfahrende Züge: 
 - ab Asig 37P1 bis km 14,9 = 50 km/h 
 - ab km 14,9 = 120 km/h 
+
 *  signalisiert durch alleinstehendes Zusatzsignal in km 15,120 
 
 Alle die Zugfahrten im Bf Flughafen Hannover-Langenhagen regelnden Signale 
@@ -989,6 +1013,7 @@ i.V.m.  Zs 3 „5“ und
 Zs 3v „3“ 
 „Halt“ 
 „Halt erwarten“ 
+
 Anhalten bzw. Stehenbleiben vor dem Signal ist zwingend gefordert. 
 
 Das Signal erlaubt die Vorbeifahrt am Esig 
@@ -998,13 +1023,18 @@ sowie die Einfahrt in ein Stumpfgleis an.
 
 b) Asig 37P1
 
+
 Signal gem. ESO 
+
 Bedeutung gem. ESO  Erläuterung 
 Hp 0 
+
 Ks 1 
 i.V.m.  Zs 3 „5“ 
+
 „Halt“ 
 „Fahrt“ 
+
 Anhalten bzw. Stehenbleiben vor dem Signal ist zwingend gefordert. 
 
 Das Signal erlaubt die Vorbeifahrt am Asig 
@@ -1174,6 +1204,7 @@ sind nicht vorhanden4) .
  
  
  
+
  
 Untersuchungsbericht zum 
 Zusammenstoß im Bf Flughafen Hannover-Langenhagen 
@@ -1184,6 +1215,7 @@ das Züge selbsttätig zum Halten gebracht werden, wenn
 - Halt zeigende Hauptsignale, 
 - Vorsignale in Warnstellung oder 
 - Geschwindigkeitsbeschränkungen 
+
 vom Triebfahrzeugführer nicht beachtet werden. 
 
 Die  Beinflussung  der  Fahrzeuge  erfolgt  durch  Indusi-Gleismagnete  verschiedener  Frequenzen  (2000,  1000  und  500  Hz),  wobei  die  Beeinflussung  durch  einen  2000  Hz-
@@ -1199,16 +1231,21 @@ Evsig 37a
 immer 
 Esig 37A 
 1000/2000 Hz 
+
 1000 Hz-Funktion, wenn Esig in Stellung 
 „Ks 2“ 
+
 2000 Hz-Funktion, wenn Esig in Stellung 
 „Hp 0“ 
+
 km 14,968 
 500 Hz 
 wenn Esig 37A in Stellung „Ks 2“ 
 b) ausfahrende Züge
 
+
 Ort 
+
 Magnet mit Frequenz ...  wann wirksam geschaltet  ? 
 Asig 37P1 
 2000 Hz * 
@@ -1316,6 +1353,7 @@ Betriebsprogramm
  
  
  
+
  
 Untersuchungsbericht zum 
 Zusammenstoß im Bf Flughafen Hannover-Langenhagen 
@@ -1542,6 +1580,7 @@ musste die im Gleis 3711 stehende, abfahrbereite S-Bahn 5711 die Ankunft der S-B
  
  
  
+
  
 Untersuchungsbericht zum 
 Zusammenstoß im Bf Flughafen Hannover-Langenhagen 
@@ -1781,6 +1820,7 @@ An  den  Bahnanlagen  und  Fahrzeugen  entstand  ein  Sachschaden  von  insgesam
  
  
  
+
 Untersuchungsbericht zum 
 Zusammenstoß im Bf Flughafen Hannover-Langenhagen 
 
@@ -1792,47 +1832,66 @@ etwa 1 – 1,5 m ineinander. Weiterhin kam es zu Entgleisungen mehrerer Drehgest
 beiden Zugverbänden, die nachstehend dargestellt sind: 
 
 ausfahrende S-Bahn 5711 
+
 423 
 423 
 118-9  118-7  618-6  618-8 
+
 433 
 433 
+
 423 
 423 
 523-0  523-8  023-9  023-1 
+
 433 
 433 
+
 423 
 423 
 025-6  025-4  525-3  525-5 
+
 433 
 433 
+
 letztes Drehgestell 
 entgleist 
+
 letztes Drehgestell 
 entgleist 
+
 einfahrende S-Bahn 5712 
+
 423 
 423 
 601-4  601-2  101-3  101-5 
+
 433 
 433 
+
 423 
 423 
 603-0  603-8  103-9  103-1 
+
 433 
 433 
+
 423 
 423 
 530-5  530-3  030-4  030-6 
+
 433 
 433 
+
 erstes Drehgestell 
 entgleist (angehoben) 
+
 letztes Drehgestell 
 entgleist 
+
 letztes Drehgestell 
 entgleist 
+
 5.	 
 Die Unfallursache 
 5.1	 
@@ -1908,8 +1967,10 @@ x  am Donnerstag, 29.06.2000 in der Zeit von 11:45 Uhr bis 15:00 Uhr.
  
  
  
+
 Untersuchungsbericht zum 
 Zusammenstoß im Bf Flughafen Hannover-Langenhagen 
+
 x  am Dienstag, 08.08.2000 in der Zeit von 09:30 Uhr bis 11:00 Uhr. 
 
 Dabei  diente  die  Untersuchung  am  08.08.2000  unter  Beteiligung  der  Bundesgrenzschutzinspektion – VB - Hannover vorrangig dem Ausmessen der für das Unfallereignis 
@@ -1941,6 +2002,7 @@ Langenhagen (vgl. Seite 9 unten) wurden am Ereignistag um Stunde 14 technisch ü
 nachstehend auszugweise dargestellt ist: 
 
 Gesamtbefund 
+
 Detailergebnisse 
 - Seite 13  
  
@@ -2058,26 +2120,37 @@ Detailergebnisse
  
  
  
+
  
 Untersuchungsbericht zum 
 Zusammenstoß im Bf Flughafen Hannover-Langenhagen 
+
 Nr.  am Signal 
 / in km ... 
+
 Funktion 
 (in Hz) 
+
 f  Q  R 
+
 f 
 (Soll) 
+
 f 
 (Ist) 
+
 Q 
 (Soll) 
+
 Q 
 (Ist) 
+
 R 
 (Soll) 
+
 R 
 (Ist) 
+
 01 
 37P1 
 2000 
@@ -2092,12 +2165,16 @@ R
 500 
 + 
 + 
+
 +  1963  bis 
 2048 
+
 +  1973  bis 
 2048 
+
 +  508  bis 
 518 
+
 2017.7 
 24.0 
 31.6 
@@ -2115,11 +2192,13 @@ R
 650.0 
 Erläuterungen: 
 *) Anm.: tatsächlicher Verlegeort = km 14,968 (vgl. Lageplan) 
+
 f 
 Q 
 R 
 + 
 -
+
 =  Resonanz-Frequenz (in Hz)
 =  Güte
 =  Isolationswiderstand
@@ -2241,13 +2320,17 @@ Monitorbild der Lupe 5  (= Bereich Bf Flughafen Han-Langenhagen)
  
  
  
+
  
 Untersuchungsbericht zum 
 Zusammenstoß im Bf Flughafen Hannover-Langenhagen 
+
 Festlegeüberwachungsmelder 
 zeigt grünes Ruhelicht 
+
 Zielfestlegemelder 
 zeigt grünes Ruhelicht 
+
 Flankenschutzüberwachungsmelder 
 der Weiche 3701 zeigt grünes Ruhelicht 
 
@@ -2349,6 +2432,7 @@ kommende S-Bahn 5711 zuzuordnen.
  
  
  
+
 Untersuchungsbericht zum 
 Zusammenstoß im Bf Flughafen Hannover-Langenhagen 
 
@@ -2562,6 +2646,7 @@ Neben  den  vorgenannten  Registrierungen  werden  in  allen  bewegten  Einheite
  
  
  
+
  
 Untersuchungsbericht zum 
 Zusammenstoß im Bf Flughafen Hannover-Langenhagen 
@@ -2579,18 +2664,25 @@ Zugteil  Registrierung
 Kommt-Zeit  Geht-Zeit 
 29.06.00  S 5712 
 29.06.00  S 5712 
+
 423 101  V ist > 8 km/h 
 423 601  Antrieb 2 gestört 
+
 29.06.00  S 5712 
 29.06.00  S 5711 
+
 423 030  Antrieb 1 gestört 
 423 023  V ist > 8 km/h 
+
 10:06:45 
 10:10:51 
+
 10:10:51 
 10:10:33 
+
 10:10:51 
 00:00:00 
+
 14:37:42 
 10:10:51 
 
@@ -2771,6 +2863,7 @@ Zwangsbremsung vorausgehende Sachverhalt, mit der S-Bahn 5711 am Asig 37P1 ohne 
  
  
  
+
 Untersuchungsbericht zum 
 Zusammenstoß im Bf Flughafen Hannover-Langenhagen 
 
@@ -2976,8 +3069,10 @@ Vermeidbarkeit des Zusammenstoßes war insoweit objektiv nicht zu erwarten.
  
  
  
+
 Untersuchungsbericht zum 
 Zusammenstoß im Bf Flughafen Hannover-Langenhagen 
+
 Bild 3  Einfahrt in den Bf Flughafen; Sicht aus 
 Bild 4  Ausfahrt aus dem Bf Flughafen; Sicht von 
 km 15,0 (= 100 m vor Unfallstelle)	 
@@ -3077,6 +3172,7 @@ Zug nur mit dem planmäßigen Tf besetzt, so dass sich keine weiteren Personen i
  
  
  
+
 Untersuchungsbericht zum 
 Zusammenstoß im Bf Flughafen Hannover-Langenhagen 
 
@@ -3286,6 +3382,7 @@ Führerraum.
  
  
  
+
  
 Untersuchungsbericht zum 
 Zusammenstoß im Bf Flughafen Hannover-Langenhagen 
@@ -3463,6 +3560,7 @@ Das  Führen  der  S-Bahn  5712  durch  diesen  Tf  trotz  fehlender  Berechtigu
  
  
  
+
  
 Untersuchungsbericht zum 
 Zusammenstoß im Bf Flughafen Hannover-Langenhagen 
@@ -3680,6 +3778,7 @@ Stehen zu bringen.
  
  
  
+
 Untersuchungsbericht zum 
 Zusammenstoß im Bf Flughafen Hannover-Langenhagen 
 
@@ -3962,9 +4061,11 @@ erst nach Verständigung und Zustimmung des Fdl fortsetzt oder aber
  
  
  
+
  
 Untersuchungsbericht zum 
 Zusammenstoß im Bf Flughafen Hannover-Langenhagen 
+
 x	  bei  individueller  Nichtzuordnung  der  Zwangsbremsung  zu  einem  Hauptsignal  die 
 Fahrt ohne Verständigung und Zustimmung des Fdl fortsetzt. 
 
@@ -4128,5 +4229,6 @@ Hauptsignalen in technische Abhängigkeit zum Fahrdienstleiter gebracht werden k
  
  
  
+
  
 

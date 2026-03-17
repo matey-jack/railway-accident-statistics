@@ -17,6 +17,7 @@ Streckennummer:
 Kilometer: 
 6307 
 40,8 
+
  
 	
  
@@ -32,30 +33,26 @@ Kilometer:
  
  
 Untersuchungsbericht 
+
 Zugkollision, 19.05.2017, Papiermühle (Kr Stadtroda) – Stadtroda 
 Veröffentlicht durch: 
 Bundesstelle für Eisenbahnunfalluntersuchung 
 Heinemannstraße 6 
 53175 Bonn 
+
  
 Untersuchungsbericht 
+
 Zugkollision, 19.05.2017, Papiermühle (Kr Stadtroda) – Stadtroda 
 Inhaltsverzeichnis	
 I. 
 II. 
-
 Änderungsverzeichnis: .......................................................................................... II 
-
 Abbildungsverzeichnis: ........................................................................................ III 
-
 III. 
-
 Tabellenverzeichnis: ............................................................................................ IV 
-
 IV. 
-
 Abkürzungsverzeichnis: ........................................................................................ V 
-
 1 
 1.1 
 1.2 
@@ -73,61 +70,38 @@ Abkürzungsverzeichnis: ........................................................
 4.1 
 4.2 
 4.3 
-
 Vorbemerkungen .................................................................................................. 1 
-
 Organisatorischer Hinweis ...................................................................................... 1 
-
 Ziel der Eisenbahnunfalluntersuchung .................................................................... 2 
-
 Zusammenfassung ................................................................................................ 3 
-
 Kurzbeschreibung des Ereignisses ........................................................................... 3 
-
 Folgen ...................................................................................................................... 3 
-
 Ursachen .................................................................................................................. 3 
-
 Sicherheitsempfehlungen ....................................................................................... 3 
-
 Allgemeine Angaben ............................................................................................. 4 
-
 Lage und Beschreibung des Ereignisortes ............................................................... 4 
-
 Beteiligte und Mitwirkende ..................................................................................... 6 
-
 Äußere Bedingungen ............................................................................................... 7 
-
 Todesopfer, Verletzte und Sachschäden ................................................................. 8 
-
 Untersuchungsprotokoll ..................................................................................... 11 
-
 Zusammenfassung von Aussagen und Stellungnahmen ....................................... 11 
-
 Notfallmanagement .............................................................................................. 11 
-
 Untersuchung der bautechnischen Infrastruktur ................................................. 12 
 4.3.1 
-
 Vorhandene Gleisanlagen ..................................................................................... 12 
-
 4.3.2 
-
 Randbereiche der Gleisanlagen ............................................................................ 12 
-
 4.3.3 
-
 Entwässerungsanlagen .......................................................................................... 13 
-
 I 
+
  
  
 Untersuchungsbericht 
+
 Zugkollision, 19.05.2017, Papiermühle (Kr Stadtroda) – Stadtroda 
 4.3.4 
-
 Anlagen im Eigentum Dritter ................................................................................. 17 
-
 4.4 
 4.5 
 4.6 
@@ -138,29 +112,21 @@ Anlagen im Eigentum Dritter ....................................................
 5.2 
 6 
 7 
-
 Untersuchung der Leit- und Sicherungstechnik .................................................... 23 
-
 Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers ................. 23 
 Regelungen des EIU zu extremen Wettersituationen ........................................... 24 
 Untersuchung der betrieblichen Abläufe des EVU ............................................... 26 
-
 Untersuchung von Fahrzeugen ............................................................................. 27 
-
 Auswertung ........................................................................................................ 28 
-
 Ereignisrekonstruktion .......................................................................................... 28 
-
 Bewertung und Schlussfolgerung .......................................................................... 29 
-
 Bisher getroffene Maßnahmen ........................................................................... 33 
-
 Sicherheitsempfehlungen ................................................................................... 33 
-
 I.  Änderungsverzeichnis:	
 Änderung 
 Stand 
 II 
+
  
  
  
@@ -170,73 +136,52 @@ II
 	
 	
 Untersuchungsbericht 
+
 Zugkollision, 19.05.2017, Papiermühle (Kr Stadtroda) – Stadtroda 
 II.  Abbildungsverzeichnis:	
-
 Abbildung 1: Lageplan ................................................................................................................ 4 
-
 Abbildung 2: Gleislageskizze ...................................................................................................... 5 
-
 Abbildung 3: Unfallstelle nach der Beräumung ......................................................................... 6 
-
 Abbildung 4: Luftbild nach der Entgleisung ............................................................................... 9 
-
 Abbildung 5: Unfallzug in Fahrtrichtung aufgenommen ............................................................ 9 
-
 Abbildung 6: Beschädigungen an der Gleisanlage ................................................................... 10 
-
 Abbildung 7: Durch die Gerölllawine beschädigte Felsböschung ............................................ 12 
-
 Abbildung 8: Weg mit Entwässerungsanlagen oberhalb der Bahnstrecke .............................. 14 
-
 Abbildung 9: Zulaufkaskade aus Naturstein ............................................................................. 15 
-
 Abbildung 10: Auslauf des Rohrdurchlasses mit anschließender Ablaufkaskade ................... 16 
-
 Abbildung 11: Ablaufkaskade mit Bauschutt ........................................................................... 16 
-
 Abbildung 12: Auslaufbereich der Ablaufkaskade mit Bauschuttablagerung ......................... 17 
-
 Abbildung 13: Weg oberhalb des Waldstreifens mit Spuren eines starken Wasserflusses .... 19 
-
 Abbildung 14: Stelle mit starker Erosion des Bodens im Bereich der Ackerflächen ................ 19 
-
 Abbildung 15: Der Weg im Übergangsbereich von den Ackerflächen zum Wald ................... 20 
 Abbildung 16: Weg (Blickrichtung zu den Ackerflächen) am Beginn der Abtragungen .......... 20 
-
 Abbildung 17: Zerstörter Weg im Wald, Blickrichtung Bahnstrecke ....................................... 21 
-
 Abbildung 18: Zerstörter Weg im Wald mit Bauschuttablagerungen ..................................... 21 
-
 Abbildung 19: Auszug aus der Gefahrenhinweiskarte ............................................................. 25 
-
 Abbildung 20: Grafische Darstellung des Fahrtverlaufes des RE 3666 .................................... 26 
-
 Abbildung 21: Neu errichtete Winkelstützwände an der Böschungskante ............................. 33 
-
 III 
+
  
  
  
  
 Untersuchungsbericht 
+
 Zugkollision, 19.05.2017, Papiermühle (Kr Stadtroda) – Stadtroda 
 III.  Tabellenverzeichnis:	
-
 Tabelle 1: Übersicht der äußeren Bedingungen ........................................................................ 7 
-
 Tabelle 2: Übersicht der Personenschäden ............................................................................... 8 
-
 Tabelle 3: Übersicht der geschätzten Schadenshöhe ................................................................ 8 
-
 Tabelle 4: Technische Daten der Triebzüge ............................................................................. 28 
-
 IV 
+
  
  
  
  
 Untersuchungsbericht 
+
 Zugkollision, 19.05.2017, Papiermühle (Kr Stadtroda) – Stadtroda 
 IV.  Abkürzungsverzeichnis:	
 AEG 
@@ -274,9 +219,11 @@ Sicherheitsmanagementsystem
 Triebfahrzeugführer / Triebfahrzeugführerin 
 Verzeichnis der örtlich zulässigen Geschwindigkeiten 
 V 
+
  
  
 Untersuchungsbericht 
+
 Zugkollision, 19.05.2017, Papiermühle (Kr Stadtroda) – Stadtroda 
 1  Vorbemerkungen	
 Das Kapitel Vorbemerkungen befasst sich mit allgemeinen Informationen zur Bundesstelle für 
@@ -297,9 +244,11 @@ VVG errichtet. Die Aufgaben zur Untersuchung bestimmter gefährlicher Ereignisse
 Da das gefährliche Ereignis vor der Errichtung der BEU eintrat, wurden bestimmte Untersuchungshandlungen noch durch die EUB vorgenommen, auf die im Bericht entsprechend verwiesen wird. Alle während der Untersuchung gewonnenen Erkenntnisse wurden kontinuierlich mit den betroffenen Eisenbahnen und der Sicherheitsbehörde geteilt und einzelfallbezogene Sicherheitsempfehlungen ausgesprochen. 
 Näheres hierzu ist im Internet unter www.beu.bund.de eingestellt. 
 Seite 1 von 33 
+
  
  
 Untersuchungsbericht 
+
 Zugkollision, 19.05.2017, Papiermühle (Kr Stadtroda) – Stadtroda 
 1.2  Ziel	der	Eisenbahnunfalluntersuchung	
 Ziel und Zweck der Untersuchungen ist es, die Ursachen von gefährlichen Ereignissen aufzuklären und hieraus Hinweise zur Verbesserung der Sicherheit abzuleiten. Untersuchungen der 
@@ -309,11 +258,13 @@ Die Untersuchung umfasst die Sammlung und Auswertung von Informationen, die Erar
 von Schlussfolgerungen einschließlich der Feststellung der Ursachen und gegebenenfalls die 
 Abgabe von Sicherheitsempfehlungen. Die Vorschläge der Untersuchungsstelle zur Vermeidung von Unfällen und Verbesserung der Sicherheit im Eisenbahnverkehr werden der Sicherheitsbehörde und, soweit erforderlich, anderen Stellen und Behörden oder anderen Mitgliedstaaten der EU in Form von Sicherheitsempfehlungen mitgeteilt. 
 Seite 2 von 33 
+
  
  
  
  
 Untersuchungsbericht 
+
 Zugkollision, 19.05.2017, Papiermühle (Kr Stadtroda) – Stadtroda 
 2  Zusammenfassung	
 Das Kapitel befasst sich mit einer kurzen Darstellung des Ereignisherganges, den Folgen und 
@@ -325,18 +276,18 @@ auf dem Weg von Glauchau (Sachsen) nach Göttingen zwischen den Betriebsstellen 
 Acht Personen erlitten leichte Verletzungen. Auf Grund der Kollision entgleiste der Zug mit 
 allen Drehgestellen des führenden Triebzuges. Es entstanden Sachschäden an der Infrastruktur und an den Fahrzeugen in Höhe von ca. 1.663.700 Euro. 
 2.3  Ursachen	
-
 Über der Bahnstrecke hatte sich durch ein Starkregenereignis eine Mure gebildet, die in Teilen 
-
 über einen Abhang auf die Gleisanlage stürzte. 
 2.4  Sicherheitsempfehlungen	
 Es ergehen keine Sicherheitsempfehlungen. 
 Seite 3 von 33 
+
  
  
  
  
 Untersuchungsbericht 
+
 Zugkollision, 19.05.2017, Papiermühle (Kr Stadtroda) – Stadtroda 
 3  Allgemeine	Angaben	
 Das Kapitel beinhaltet allgemeine Angaben zur Beschreibung des Ereignisortes und der relevanten  Bahnanlagen.  Des  Weiteren  werden  die  an  der  Unfalluntersuchung  beteiligten  und 
@@ -348,19 +299,17 @@ Gera, die im Verzeichnis der örtlich zulässigen Geschwindigkeiten (VzG) mit de
 (Kr Stadtroda) und Stadtroda etwa in km 40,8. Der betreffende Abschnitt darf gemäß VzG von 
 Zügen mit aktiver Neigetechnik nach streckenbezogener Zulassung der Fahrzeugbaureihe mit 
 einer maximalen Geschwindigkeit von 110 km/h, von anderen Zügen mit maximal 90 km/h 
-befahren werden. Die Strecke ist mit dem Zugfunksystem Global System for Mobile Commu-
-
-nications Rail ausgerüstet. Als Zugsicherungssysteme kommen die punktförmige Zugbeeinflus-
-
-sung und die Geschwindigkeitsüberwachung für Neigetechnik zur Anwendung. 
+befahren werden. Die Strecke ist mit dem Zugfunksystem Global System for Mobile Communications Rail ausgerüstet. Als Zugsicherungssysteme kommen die punktförmige Zugbeeinflussung und die Geschwindigkeitsüberwachung für Neigetechnik zur Anwendung. 
 Abbildung 1: Lageplan1 
 1 Quelle: Geobasisdaten © GeoBasis-DE / BKG [2020], bearbeitet durch BEU 
 Seite 4 von 33 
+
  
  
  
                                                        
 Untersuchungsbericht 
+
 Zugkollision, 19.05.2017, Papiermühle (Kr Stadtroda) – Stadtroda 
 Der Unfallort liegt im Saale-Holzland-Kreis im Freistaat Thüringen ca. 20 km östlich von Jena 
 und ca. 30 km westlich von Gera. Hermsdorf befindet sich ca. 15 km östlich der Unfallstelle. 
@@ -368,18 +317,18 @@ Die Abbildung 2 verdeutlicht den Ablauf des Ereignisses.
 Abbildung 2: Gleislageskizze2 
 Die Abbildung 3 zeigt die Unfallstelle nachdem der Unfallzug abgezogen worden war. 
 Rechts neben dem Gleis in Fahrtrichtung Papiermühle (Kr Stadtroda) – Stadtroda befindet sich 
-
 die  ca.  15 m  hohe  Felsböschung,  über  die  das  Murenmaterial  auf  die  Gleisanlagen  stürzte. 
-
 Rechts neben dem Gleis in Fahrtrichtung Stadtroda – Papiermühle (Kr Stadtroda) geht es ca. 
 15 m in die Tiefe. 
 2 Quelle: DB Netz AG, bearbeitet durch BEU 
 Seite 5 von 33 
+
  
  
  
                                                        
 Untersuchungsbericht 
+
 Zugkollision, 19.05.2017, Papiermühle (Kr Stadtroda) – Stadtroda 
 Abbildung 3: Unfallstelle nach der Beräumung 
 3.2  Beteiligte	und	Mitwirkende	
@@ -393,12 +342,14 @@ Das EVU verfügte über eine Sicherheitsbescheinigung gemäß § 7a AEG vom 21.0
 bis zum 20.12.2020 und war damit zur Teilnahme am Eisenbahnbetrieb berechtigt. 
 Im Rahmen der Sachverhaltsermittlung und Ursachenerforschung wurde neben den o. g. Beteiligten die Bundespolizeiinspektion Erfurt einbezogen. 
 Seite 6 von 33 
+
  
  
  
  
  
 Untersuchungsbericht 
+
 Zugkollision, 19.05.2017, Papiermühle (Kr Stadtroda) – Stadtroda 
 3.3  Äußere	Bedingungen	
 Zum Zeitpunkt des Ereignisses herrschten folgende Bedingungen: 
@@ -423,20 +374,18 @@ In den drei Wochen vor dem Ereignis herrschte Trockenheit mit Regenspenden von i
 weniger als zehn Liter je Quadratmeter. Das führte zu einer Austrocknung der Böden. Unmittelbar darauf fielen bei einem Starkregenereignis am 19.05.2017 zwischen ca. 17:30 Uhr und 
 18:30 Uhr innerhalb von weniger als einer Stunde Niederschlagsmengen zwischen 28 l/m² und 
 40 l/m². 
-
-Für die fragliche Zeit hatte der Deutsche Wetterdienst für das Gebiet, in dem sich die Zug-
-
-kollision ereignete, eine Unwetterwarnung mit Gewittern, Hagel, Starkregen und Sturmböen 
-
+Für die fragliche Zeit hatte der Deutsche Wetterdienst für das Gebiet, in dem sich die Zugkollision ereignete, eine Unwetterwarnung mit Gewittern, Hagel, Starkregen und Sturmböen 
 mit bis zu 80 km/h herausgegeben. 
 Feststellung zu den äußeren Bedingungen 
 Lfd. Nr. 1 
 Lange Trockenheit und ein Starkregenereignis folgten unmittelbar aufeinander. 
 Eine Unwetterwarnung des Deutschen Wetterdienstes lag vor. 
 Seite 7 von 33 
+
  
  
 Untersuchungsbericht 
+
 Zugkollision, 19.05.2017, Papiermühle (Kr Stadtroda) – Stadtroda 
 3.4  Todesopfer,	Verletzte	und	Sachschäden	
 Es traten folgend aufgeführte Personenschäden ein: 
@@ -444,8 +393,10 @@ Anzahl Tote
 Anzahl schwer Verletzte  Anzahl leicht Verletzte 
 Reisende 
 Mitarbeiter 
+
 Benutzer von 
 Bahnübergängen 
+
 Dritte 
 Summe 
 - 
@@ -475,50 +426,47 @@ geschätzte Kosten in Euro
 Gesamtschadenshöhe 
  1.663.700 
 Tabelle 3: Übersicht der geschätzten Schadenshöhe 
-
 Die folgende Abbildung zeigt eine Luftbildaufnahme von der Situation nach dem Ereignis. 
-
 Seite 8 von 33 
+
  
  
  
  
 Untersuchungsbericht 
+
 Zugkollision, 19.05.2017, Papiermühle (Kr Stadtroda) – Stadtroda 
 Abbildung 4: Luftbild nach der Entgleisung3 
 Die Abbildung 5 zeigt das entgleiste führende Fahrzeug des RE 3666. Die Fahrzeugfront war 
 zerstört, die Mittelpufferkupplung war stark beschädigt und deren Halterungen gerissen. 
 Abbildung 5: Unfallzug in Fahrtrichtung aufgenommen4 
-
 Das Gleis Papiermühle (Kr Stadtroda) – Stadtroda war im Abschnitt ca. von km 40,8 bis km 40,6 
-
-aufgrund der entstandenen Schäden nicht mehr befahrbar. Viele Schwellen und Befestigungs-
-
-mittel waren, wie in der nächsten Abbildung zu erkennen, zerstört oder stark beschädigt. Die 
-
+aufgrund der entstandenen Schäden nicht mehr befahrbar. Viele Schwellen und Befestigungsmittel waren, wie in der nächsten Abbildung zu erkennen, zerstört oder stark beschädigt. Die 
 3 Quelle: BPol, bearbeitet durch BEU 
 4 Quelle: DB Netz AG 
 Seite 9 von 33 
+
  
  
  
  
                                                        
 Untersuchungsbericht 
+
 Zugkollision, 19.05.2017, Papiermühle (Kr Stadtroda) – Stadtroda 
-
 Schotterbettung  war  verunreinigt  und  der  Vorkopfschotter  streckenweise  abgetragen.  Das 
-
 Gleis Stadtroda – Papiermühle (Kr Stadtroda) wies nur geringe Schäden auf, sodass es nach 
 der Räumung der Unfallstelle wieder befahren werden konnte. 
 Abbildung 6: Beschädigungen an der Gleisanlage 
 Seite 10 von 33 
+
  
  
  
  
  
 Untersuchungsbericht 
+
 Zugkollision, 19.05.2017, Papiermühle (Kr Stadtroda) – Stadtroda 
 4  Untersuchungsprotokoll	
 In diesem Kapitel werden die ermittelten Ergebnisse zu einzelnen in Zusammenhang mit dem 
@@ -533,10 +481,7 @@ Nach § 4 Abs. 3 AEG haben die Eisenbahnen die Verpflichtung, an Maßnahmen des 
 Innenministerien der Länder und der DB AG hat man sich auf eine Verfahrensweise verständigt. Für die DB Netz AG gelten die entsprechenden Brand- und Katastrophenschutzgesetze 
 der Länder. Das Notfallmanagement der DB AG ist in der Konzernrichtlinie 123, das der DB 
 Netz AG in der Richtlinie (Ril) 423 näher beschrieben und geregelt. 
-Bei diesem Ereignis wurde die Notfallleitstelle der DB Netz AG um 19:25 Uhr durch den zu-
-
-ständigen Fahrdienstleiter (Fdl) verständigt. Der Notfallmanager sowie die Einsatzkräfte der 
-
+Bei diesem Ereignis wurde die Notfallleitstelle der DB Netz AG um 19:25 Uhr durch den zuständigen Fahrdienstleiter (Fdl) verständigt. Der Notfallmanager sowie die Einsatzkräfte der 
 Feuerwehr, des Rettungsdienstes und der Landespolizei trafen um ca. 20:00 Uhr an der Unfallstelle ein. Ab 20:30 Uhr war die Bundespolizei vor Ort. 
 Der Zug RE 3666 war mit 40 Reisenden besetzt. Die Evakuierung des Unfallzuges erfolgte zeitnah mit Hilfe des Zugpersonals und unter Nutzung der Fahrzeuge des Gegenzuges RE 3665, 
 der kurz nach der Entgleisung an der Unfallstelle eingetroffen war, und verlief ohne Probleme. 
@@ -544,20 +489,18 @@ Feststellungen zum Notfallmanagement
 Lfd. Nr. 2 
 Unregelmäßigkeiten oder Verzögerungen in Bezug auf das Einleiten von Rettungsmaßnahmen wurden der BEU im Rahmen der Unfalluntersuchung nicht bekannt. 
 Seite 11 von 33 
+
  
  
  
  
 Untersuchungsbericht 
+
 Zugkollision, 19.05.2017, Papiermühle (Kr Stadtroda) – Stadtroda 
 4.3  Untersuchung	der	bautechnischen	Infrastruktur	
 Dieses Kapitel erläutert die Ergebnisse der Untersuchungen an der Infrastruktur der Schienenwege und an Anlagen Dritter, die Einfluss auf das Ereignis hatten. 
 4.3.1  Vorhandene	Gleisanlagen	
-Die im VzG unter der Nummer 6307 geführte Eisenbahnstrecke ist eine Hauptbahn des kon-
-
-ventionellen Verkehrs. Die Strecke ist mit einem Schotteroberbau ausgestattet und der Stre-
-
-ckenklasse D4 zugeordnet. Sie darf von Zügen mit einer maximalen Radsatzlast von 22,5 t befahren werden. 
+Die im VzG unter der Nummer 6307 geführte Eisenbahnstrecke ist eine Hauptbahn des konventionellen Verkehrs. Die Strecke ist mit einem Schotteroberbau ausgestattet und der Streckenklasse D4 zugeordnet. Sie darf von Zügen mit einer maximalen Radsatzlast von 22,5 t befahren werden. 
 Die Überprüfung der vorgelegten Unterlagen zur Unterhaltung der Gleisanlagen ergab keine 
 Hinweise auf Unregelmäßigkeiten. 
 4.3.2  Randbereiche	der	Gleisanlagen	
@@ -566,10 +509,12 @@ Die Felsböschung über den Gleisanlagen wurde gemäß den vorliegenden Unterlag
 Abbildung 7: Durch die Gerölllawine beschädigte Felsböschung 
 Aus der Abbildung 7 ist erkennbar, dass durch das Ereignis die Böschung oberhalb der Gleisanlagen an den Absturzstellen der Mure stark beschädigt wurde. Große Felsblöcke und Teile 
 Seite 12 von 33 
+
  
  
  
 Untersuchungsbericht 
+
 Zugkollision, 19.05.2017, Papiermühle (Kr Stadtroda) – Stadtroda 
 des Bewuchses wurden herausgerissen und lagerten sich vor der Stirnwand des Durchlasses 
 in ca. km 40,8 und im Seitenbereich der Bahnstrecke ab oder blieben im Bereich der Felsböschung liegen. 
@@ -595,9 +540,11 @@ ein Stahlrohr mit Nenndurchmesser (DN) 600 mm, das den Weg oberhalb der Felsbös
 unterquert und das Niederschlagswasser einer Zulaufkaskade zuleitet. Die nächste Abbildung 
 verdeutlicht die Lage der vorhandenen Entwässerungsanlagen auf den Grundstücken im Eigentum Dritter oberhalb der Gleisanlagen. 
 Seite 13 von 33 
+
  
  
 Untersuchungsbericht 
+
 Zugkollision, 19.05.2017, Papiermühle (Kr Stadtroda) – Stadtroda 
 Abbildung 8: Weg mit Entwässerungsanlagen oberhalb der Bahnstrecke 
 Diese Entwässerungsanlagen erwiesen sich bei der Untersuchung nach dem Ereignis als weitgehend unzerstört. Der Graben war als solcher jedoch kaum zu erkennen, da er nur wenig 
@@ -605,18 +552,18 @@ profiliert und stark bewachsen war. Der Eigentümer des Weges erklärte, dass di
 letztmalig vier bis fünf Jahre vor dem Ereignis das Stahlrohr zur Kaskade von Unrat gereinigt 
 habe. 
 Unterlagen zur Instandhaltung und Inspektion dieser Anlagen oberhalb der Felsböschung wurden durch die DB Netz AG nicht vorgelegt. 
-
 Die Zulaufkaskade, die in die Felsböschung oberhalb der Bahnstrecke eingebettet ist, besteht 
-
 aus Naturstein. Sie bewältigt den Höhenunterschied zur Bahnstrecke und soll der kontrollierten Zuleitung des Niederschlagswassers in Richtung Rohrdurchlass unter der Bahnstrecke dienen. Sie beginnt, wie in der folgenden Abbildung erkennbar ist, mit der Einmündung des Stahlrohres DN 600 an der Oberkante der Felsböschung und endet an der Stirnwand des Durchlasses westlich der Gleise. 
 Die Kaskade war durch die Mure nur wenig betroffen, weil diese links davon niederging. Bei 
 der Untersuchung waren keine Schäden zu erkennen. 
 Teilweise war der aus der Felsböschung herausgerissene Bewuchs in der Kaskade liegen geblieben. 
 Seite 14 von 33 
+
  
  
  
 Untersuchungsbericht 
+
 Zugkollision, 19.05.2017, Papiermühle (Kr Stadtroda) – Stadtroda 
 Abbildung 9: Zulaufkaskade aus Naturstein 
 Der Unterhaltungszustand der Kaskade war augenscheinlich gut. 
@@ -627,20 +574,24 @@ Der  Zulauf des Durchlasses war  während der  Ortsbesichtigung durch große Fel
 Der Ablauf des Durchlasses ist in der folgenden Abbildung dargestellt. 
 Danach schließt sich eine Ablaufkaskade aus Betongitterplatten an, die das anfallende Niederschlagswasser in das Tal des Zeitzbaches ableiten soll. Sie ist in den Hang unter der Bahnstrecke eingebettet und gegen das anstehende Erdreich abgestützt. 
 Seite 15 von 33 
+
  
  
  
 Untersuchungsbericht 
+
 Zugkollision, 19.05.2017, Papiermühle (Kr Stadtroda) – Stadtroda 
 Abbildung 10: Auslauf des Rohrdurchlasses mit anschließender Ablaufkaskade 
 Die gesamte Ablaufkaskade war augenscheinlich unbeschädigt und in einem guten Erhaltungszustand. 
 Abbildung 11: Ablaufkaskade mit Bauschutt 
 Seite 16 von 33 
+
  
  
  
  
 Untersuchungsbericht 
+
 Zugkollision, 19.05.2017, Papiermühle (Kr Stadtroda) – Stadtroda 
 Die Abbildungen 11 und 12 zeigen, dass sich im gesamten Bereich der Ablaufkaskade, vor allem in deren Auslaufbereich und in der Niederung am Zeitzbach große Mengen von Bauschutt 
 befanden. 
@@ -651,16 +602,15 @@ im Zulauf zur Kaskade, im April 2016. Die Regelinspektion ergab weder hinsichtli
 unlängst gereinigt worden seien. 
 Anzeichen für ein Versagen der vorhandenen Entwässerungsanlagen konnten bei der Untersuchung am Unfallort nicht festgestellt werden. 
 4.3.4  Anlagen	im	Eigentum	Dritter	
-Oberhalb der Felsböschung westlich der Bahnstrecke schließt sich ein ca. 150 m breiter Wald-
-
-streifen  an,  der  in  landwirtschaftlich  genutzte  Flächen  übergeht.  Das  gesamte  Gebiet  wird 
-
+Oberhalb der Felsböschung westlich der Bahnstrecke schließt sich ein ca. 150 m breiter Waldstreifen  an,  der  in  landwirtschaftlich  genutzte  Flächen  übergeht.  Das  gesamte  Gebiet  wird 
 durch einen privaten Weg erschlossen, der im Gelände eine Rinne bildet. Er ist nicht für den 
 Seite 17 von 33 
+
  
  
  
 Untersuchungsbericht 
+
 Zugkollision, 19.05.2017, Papiermühle (Kr Stadtroda) – Stadtroda 
 öffentlichen Verkehr gewidmet und in den Flurkarten nicht als separates Flurstück ausgewiesen. Eigentümer sind jeweils die Grundeigentümer der Acker- bzw. Waldflächen, über die der 
 Weg führt. 
@@ -679,20 +629,24 @@ Im Anschluss an die Durchführung der Ausbaumaßnahme wurden die im Bereich der 
 Waldstreifens erfolgte der Rückbau dieser Schichten jedoch nicht. 
 Der Weg wies im Bereich der Ackerflächen keinerlei erkennbare Beschädigungen auf. Es waren aber Spuren von Erosion auf Grund starken Wasserflusses in den Übergängen zu den angrenzenden Ackerflächen vorhanden, die in den Abbildungen 13 und 14 erkennbar sind. 
 Seite 18 von 33 
+
  
  
 Untersuchungsbericht 
+
 Zugkollision, 19.05.2017, Papiermühle (Kr Stadtroda) – Stadtroda 
 Abbildung 13: Weg oberhalb des Waldstreifens mit Spuren eines starken Wasserflusses 
 Abbildung 14: Stelle mit starker Erosion des Bodens im Bereich der Ackerflächen 
 Wie aus der Abbildung 15 zu ersehen ist, war im Übergangsbereich von den Ackerflächen zu 
 dem Waldstreifen lediglich ein leichter Abtrag der obersten Schicht des Weges zu erkennen. 
 Seite 19 von 33 
+
  
  
  
  
 Untersuchungsbericht 
+
 Zugkollision, 19.05.2017, Papiermühle (Kr Stadtroda) – Stadtroda 
 Abbildung 15: Der Weg im Übergangsbereich von den Ackerflächen zum Wald 
 Die Abbildungen 16 bis 18 veranschaulichen, wie mit zunehmender Wegstrecke und Steilheit 
@@ -700,11 +654,13 @@ des Geländes die Mächtigkeit und Breite der abgetragenen Schichten des Weges s
 größer wurden. Die Abtragungen erreichten abschnittsweise eine Tiefe von ca. einem Meter. 
 Abbildung 16: Weg (Blickrichtung zu den Ackerflächen) am Beginn der Abtragungen 
 Seite 20 von 33 
+
  
  
  
  
 Untersuchungsbericht 
+
 Zugkollision, 19.05.2017, Papiermühle (Kr Stadtroda) – Stadtroda 
 Abbildung 17: Zerstörter Weg im Wald, Blickrichtung Bahnstrecke 
 Abbildung 18: Zerstörter Weg im Wald mit Bauschuttablagerungen 
@@ -712,11 +668,13 @@ Im Rahmen der Untersuchung wurde festgestellt, dass der in der Umgebung der Unfa
 vorgefundene  Bauschutt  aus  den  Schichten  der  ehemaligen  Befestigung  des  Waldweges 
 stammte. Nach den durch die DB Netz AG vorgelegten Unterlagen entsprachen die Befestigungsmaterialien des Weges nach ihrer Beschaffenheit in keiner Weise den nach den Zusätzlichen  Technischen  Vertragsbedingungen  und  der  Richtlinie  für  die  Befestigung  ländlicher 
 Seite 21 von 33 
+
  
  
  
  
 Untersuchungsbericht 
+
 Zugkollision, 19.05.2017, Papiermühle (Kr Stadtroda) – Stadtroda 
 Wege und den im Arbeitsblatt Abwasser und Abfall der Deutschen Vereinigung für Wasserwirtschaft geforderten Materialien für Wegeaufbauten. 
 Der Eigentümer des Wegabschnitts im Bereich des Waldstreifens ist die Waldgenossenschaft 
@@ -733,42 +691,31 @@ Mängel an den Gleisanlagen, die ursächlich oder begünstigend für das Ereigni
 Die vorhandenen Entwässerungsanlagen dienen nicht in erster Linie der Entwässerung der 
 Bahnanlagen,  sondern  vorrangig  der  Durchleitung  von  Niederschlagswasser,  das  auf  angrenzenden Flächen Dritter mit einem Einzugsgebiet von ca. einem Quadratkilometer anfällt 
 und dort nicht versickert. 
-
 Vor der Stirnwand des Durchlasses in km 40,780 hatten sich Schutt und Felsblöcke aus der 
-
 Böschung über der Bahnstrecke abgelagert und blockierten die Durchlassöffnung. 
 Die Entwässerungsanlagen waren weitgehend intakt und im Wesentlichen in einem guten 
 Erhaltungszustand. 
-Der Weg oberhalb der Bahnstrecke ist nicht dem öffentlichen Verkehr gewidmet und befin-
-
-det sich im Bereich des Waldstreifens im Eigentum der Waldgenossenschaft Ruttersdorf En-
-
-gere Altgemeinde. 
+Der Weg oberhalb der Bahnstrecke ist nicht dem öffentlichen Verkehr gewidmet und befindet sich im Bereich des Waldstreifens im Eigentum der Waldgenossenschaft Ruttersdorf Engere Altgemeinde. 
 Am Übergang zwischen Acker- und Waldflächen ist die Topographie des Weges ähnlich einem Hohlweg. Gleichzeitig vergrößert sich das Gefälle der Gradiente bis auf ca. 13,5 %. 
 Seite 22 von 33 
+
  
  
 Untersuchungsbericht 
+
 Zugkollision, 19.05.2017, Papiermühle (Kr Stadtroda) – Stadtroda 
-
-Die  Wegbefestigung  aus  verschiedenen  Bauschuttmaterialien  entsprach  zum  Unfallzeit-
-
-punkt nicht mehr den gültigen Regeln der Technik im Straßen- und Wegebau. 
+Die  Wegbefestigung  aus  verschiedenen  Bauschuttmaterialien  entsprach  zum  Unfallzeitpunkt nicht mehr den gültigen Regeln der Technik im Straßen- und Wegebau. 
 Die Befestigung des Weges war nach dem Starkregenereignis im Bereich des Waldes vollständig zerstört. 
-4.4  Untersuchung	der	Leit‐	und	Sicherungstechnik	
-
+4.4  Untersuchung	der	Leit-	und	Sicherungstechnik	
 Der  betroffene  Abschnitt  der  Strecke  6307  ist  in  das  elektronische  Stellwerk  Unterzentrale 
-
 Gera eingebunden und wird von einem Bedienplatz in der Betriebszentrale Leipzig aus ferngesteuert. 
 Die Untersuchung der Anlagen der Leit- und Sicherungstechnik ergab keine Unregelmäßigkeiten. 
-Feststellung zur Untersuchung der Leit‐ und Sicherungstechnik 
+Feststellung zur Untersuchung der Leit- und Sicherungstechnik 
 Lfd. Nr. 4 
 Die Einflüsse aus der Leit- und Sicherungstechnik sind somit weder als ereignisursächlich 
 noch als ereignisbegünstigend einzustufen. 
 4.5  Untersuchung	der	betrieblichen	Abläufe	des	Infrastrukturbetreibers	
-
 Der Betrieb auf der Strecke wird nach den Bestimmungen der Fahrdienstvorschrift der DB Netz 
-
 AG, Ril 408 abgewickelt. 
 Die fahrdienstlichen Handlungen für die Zugfahrt RE 3666 von Glauchau (Sachsen) nach Göttingen  wurde,  für  den  relevanten  Streckenabschnitt  zwischen  den  Betriebsstellen  Papiermühle (Kr Stadtroda) und Stadtroda, durch den Fdl an einem Bedienplatz in der Betriebszentrale in Leipzig durchgeführt. 
 Der Fdl absolvierte eine Ausbildung zum Eisenbahner im Betriebsdienst. Seine Einweisung am 
@@ -776,11 +723,13 @@ Arbeitsplatz war im Zeitraum vom 01.02.2016 bis zum 04.04.2016 erfolgt. Er war s
 2016 regelmäßig auf dem Arbeitsplatz eingesetzt. 
 Die letzte Tauglichkeitsfeststellung, datiert vom 04.01.2016, war gültig bis zum 15.06.2017. 
 Seite 23 von 33 
+
  
  
  
  
 Untersuchungsbericht 
+
 Zugkollision, 19.05.2017, Papiermühle (Kr Stadtroda) – Stadtroda 
 Der Fdl nahm regelmäßig an Fortbildungsmaßnahmen teil, vor dem Unfall letztmalig im Oktober und November 2016 sowie im März 2017. Die letzten örtlichen Überwachungen fanden 
 am 10.03.2017, am 11.04.2017 und am 08.05.2017 statt. Er trat am Unfalltag seinen Dienst 
@@ -803,10 +752,12 @@ Im SMS der DB AG sind für den Hauptprozess LN 26-01-04 – Zug- und Rangierfahr
 Starkregen an von Geröllabgängen bedrohten Strecken festlegen. Die Maßnahmen gelten jedoch ausschließlich für namentlich genannte Streckenabschnitte im RB Mitte der DB Netz AG. 
 Für den RB Südost der DB Netz AG waren diese Regelungen zum Unfallzeitpunkt nicht eingeführt. 
 Seite 24 von 33 
+
  
  
  
 Untersuchungsbericht 
+
 Zugkollision, 19.05.2017, Papiermühle (Kr Stadtroda) – Stadtroda 
 Das Deutsche Zentrum für Schienenverkehrsforschung sah auf Basis der bis zum März 2017 
 vorliegenden Daten bei der Erstellung einer Gefahrenhinweiskarte für Massenschwerebewegungen entlang des deutschen Schienennetzes im Rahmen des Forschungsberichtes 2018-13 
@@ -814,26 +765,21 @@ keine Veranlassung, den Abschnitt der VzG-Strecke 6307 zwischen den Betriebsstel
 auszuweisen. Dies geht aus dem nachstehenden Auszug aus der Gefahrenhinweiskarte, der 
 die Umgebung der Unfallstelle darstellt, hervor. 
 Abbildung 19: Auszug aus der Gefahrenhinweiskarte5 
-
 Feststellung zu den Regelungen des Infrastrukturbetreibers zu extremen Wettersituationen 
-
 Lfd. Nr. 6 
 Laut Ril 408.0541 ist Starkregen als gefahrdrohender Umstand nicht explizit benannt. 
 Die im SMS der DB AG vorgenommenen regionalen Prozessuntersetzungen, die Maßnahmen bei Starkregen an von Geröllabgängen bedrohten Strecken beinhalten, bezogen sich 
-
-ausschließlich auf Streckenabschnitte im RB Mitte der DB Netz AG. Eine generelle Risikobe-
-
-wertung für alle Strecken im Bereich des Infrastrukturbetreibers DB Netz AG wurde nicht 
+ausschließlich auf Streckenabschnitte im RB Mitte der DB Netz AG. Eine generelle Risikobewertung für alle Strecken im Bereich des Infrastrukturbetreibers DB Netz AG wurde nicht 
 vorgenommen. 
-
 5 Quelle: Gefahrenhinweiskarte des Deutschen Zentrums für Schienenverkehrsforschung, bearbeitet durch BEU 
-
 Seite 25 von 33 
+
  
  
  
                                                        
 Untersuchungsbericht 
+
 Zugkollision, 19.05.2017, Papiermühle (Kr Stadtroda) – Stadtroda 
 4.7  Untersuchung	der	betrieblichen	Abläufe	des	EVU	
 Der Tf des RE 3666 besaß seit 2012 einen Führerschein der Klasse 3 und war gemäß Beiblatt 
@@ -841,10 +787,7 @@ berechtigt, Fahrzeuge der Baureihe 612 zu führen. Die letzte Tauglichkeitsunter
 dem Ereignis, datiert vom 19.10.2016, bescheinigte die Tauglichkeit ohne Einschränkungen 
 bis zum 05.08.2017. Am Unfalltag trat er seinen Dienst um 14:43 Uhr an und hatte davor 20 
 Stunden Ruhe. 
-
-Die  Überprüfung  der  beteiligten  Betriebspersonale  ergab  hinsichtlich  der  Aus-  und  Fortbil-
-
-dung, Tauglichkeit und Dienstabläufe keine Unregelmäßigkeiten. 
+Die  Überprüfung  der  beteiligten  Betriebspersonale  ergab  hinsichtlich  der  Aus-  und  Fortbildung, Tauglichkeit und Dienstabläufe keine Unregelmäßigkeiten. 
 Der Tf sagte nach dem Ereignis aus, er hätte zwischen Papiermühle und Stadtroda eine Gleisüberspülung mit Wasser und Geröll bemerkt und daraufhin eine Schnellbremsung mit Sanden 
 eingeleitet, sei aber nicht mehr vor dem Gefahrpunkt zum Halten gekommen. 
 Diese Aussage wurde durch die elektronische Fahrtregistrierung im Wesentlichen bestätigt. 
@@ -854,10 +797,12 @@ Abbildung 20: Grafische Darstellung des Fahrtverlaufes des RE 3666
 Gemäß den Daten aus der elektronischen Fahrtregistrierung, deren grafische Darstellung in 
 der  Abbildung  20  wiedergegeben  ist,  leitete  der  Tf  eine  Schnellbremsung  ein,  die  um 
 Seite 26 von 33 
+
  
  
  
 Untersuchungsbericht 
+
 Zugkollision, 19.05.2017, Papiermühle (Kr Stadtroda) – Stadtroda 
 19:25:12 Uhr (Systemzeit) ca. in km 40,97 bei einer Geschwindigkeit von 106 km/h wirksam 
 wurde.  Etwa  in  km 40,8  setzte  eine  abrupte  Verzögerung  infolge  der  Schnellbremsung  ein. 
@@ -868,10 +813,7 @@ RE 3665 erkannte die Gefahr und setzte einen Nothaltauftrag um 19:26:50 Uhr ab. 
 Höhe des RE 3666 zum Halten und übernahm im Anschluss die Reisenden.  
 Feststellung zur Untersuchung der betrieblichen Abläufe des EVU 
 Lfd. Nr. 6 
-Die Überprüfung der betrieblichen Handlungen des Tf des RE 3666 ergab keine Unregelmä-
-
-ßigkeiten, die Einfluss auf den Eintritt des Ereignisses hatten oder dieses begünstigten. Er 
-
+Die Überprüfung der betrieblichen Handlungen des Tf des RE 3666 ergab keine Unregelmäßigkeiten, die Einfluss auf den Eintritt des Ereignisses hatten oder dieses begünstigten. Er 
 setzte nach Eintritt des Ereignisses keinen Nothaltauftrag ab. 
 Durch den im Nachbargleis verkehrenden RE 3665 wurde ein Nothaltauftrag abgegeben. Die 
 Reisenden aus dem RE 3666 wurden vom RE 3665 aufgenommen. 
@@ -891,10 +833,12 @@ hydraulisch
 2x560 kW 
 51.700 mm 
 Seite 27 von 33 
+
  
  
  
 Untersuchungsbericht 
+
 Zugkollision, 19.05.2017, Papiermühle (Kr Stadtroda) – Stadtroda 
 Masse 
 Höchstgeschwindigkeit 
@@ -904,7 +848,9 @@ Tabelle 4: Technische Daten der Triebzüge
 116.000 kg 
 160 km/h 
 2’B+B‘2 
+
 punktförmige Zugbeeinflussung, Geschwindigkeitsüberwachung für Neigetechnik 
+
 Gemäß den vorliegenden Unterlagen wurde die Instandhaltung der Fahrzeuge durch das Werk 
 Erfurt der DB Regio AG durchgeführt. 
 Die Laufleistung des führenden Triebzuges wurde bei der letzten Frist vor der Zugentgleisung 
@@ -923,9 +869,11 @@ Das Kapitel 5 Auswertung befasst sich mit der Ereignisrekonstruktion. Anhand der
 Die Zugfahrt RE 3666 von Glauchau (Sachsen) nach Göttingen befuhr am 19.05.2017 ca. eine 
 Stunde nach einem Starkregenereignis, welches ca. zwischen 17:30 Uhr und 18:30 Uhr nieder 
 Seite 28 von 33 
+
  
  
 Untersuchungsbericht 
+
 Zugkollision, 19.05.2017, Papiermühle (Kr Stadtroda) – Stadtroda 
 ging, auf der VzG-Strecke 6307 den Streckenabschnitt zwischen den Betriebsstellen Papiermühle (Kr Stadtroda) und Stadtroda. 
 Im Bereich der Gleisanlagen zwischen km 40,8 und km 40,6 befanden sich infolge des Starkregenereignisses Schlamm- und Geröllmassen aus einer Mure, die sich auf dem Gelände über 
@@ -949,9 +897,11 @@ und nicht sofort in der Fläche versickern konnten, waren nicht vorhanden.
 Am 19.05.2017 herrschten im Saale-Holzland-Kreis außergewöhnliche Wetterumstände. Zwei 
 ungewöhnliche  Wettersituationen  folgten  ohne  Übergang  aufeinander.  Vor  dem  Ereignis 
 Seite 29 von 33 
+
  
  
 Untersuchungsbericht 
+
 Zugkollision, 19.05.2017, Papiermühle (Kr Stadtroda) – Stadtroda 
 herrschte wochenlange Trockenheit, die den Boden der Ackerflächen austrocknen ließ. Aufgrund des Starkregenereignisses gingen in der Zeit von ca. 17:30 Uhr bis ca. 18:30 Uhr Niederschläge mit Regenspenden zwischen 28 l/m² und 40 l/m², davon der überwiegende Teil in nur 
 30 Minuten, nieder. 
@@ -975,9 +925,11 @@ Gefälle  der  Gradiente.  Dadurch  vergrößerte  sich  der  Fließquerschnitt 
 sich die Fließgeschwindigkeit des Wassers stark verringerte. Daher lagerten sich Bestandteile 
 der Mure an der Böschung und auf dem Weg ab. 
 Seite 30 von 33 
+
  
  
 Untersuchungsbericht 
+
 Zugkollision, 19.05.2017, Papiermühle (Kr Stadtroda) – Stadtroda 
 Ein Teil der mitgeführten Bestandteile der Wegebefestigung schoss jedoch auf Grund der Trägheit über die Böschungskante hinaus und fiel auf die Streckengleise zwischen Papiermühle (Kr 
 Stadtroda) und Stadtroda sowie in dessen Seitenbereich. 
@@ -1006,23 +958,18 @@ Beschwerden über dessen Beschaffenheit. Es ist also davon auszugehen, dass der 
 Erfordernissen des dort stattfindenden Verkehrs entsprach. Insofern bestand für den Eigentümer keine Veranlassung Änderungen der Beschaffenheit oder einen grundhaften Ausbau 
 vorzunehmen. 
 Seite 31 von 33 
+
  
  
 Untersuchungsbericht 
+
 Zugkollision, 19.05.2017, Papiermühle (Kr Stadtroda) – Stadtroda 
 Die Tatsache, dass das Deutsche Zentrum für Schienenverkehrsforschung kein Gefährdungspotential  durch  Massenschwerebewegungen  im  betreffenden  Streckenabschnitt  sah,  lässt 
 vermuten, dass ausschließlich das Zusammentreffen zweier ungewöhnlicher und gegensätzlicher Wettersituationen, die lange Trockenheit und das unmittelbar darauffolgende Starkregenereignis,  in  Verbindung  mit  einer  unzureichenden  Befestigung  des  Waldweges  den 
 Schlamm- und Geröllabgang bewirken konnten. 
-Ob und ggf. inwieweit solche Ereignisse auf sich generell ändernde Umweltbedingungen zu-
-
-rückzuführen  sind  und  künftig  mit  höheren  Eintrittswahrscheinlichkeiten  zu  rechnen  sein 
-
+Ob und ggf. inwieweit solche Ereignisse auf sich generell ändernde Umweltbedingungen zurückzuführen  sind  und  künftig  mit  höheren  Eintrittswahrscheinlichkeiten  zu  rechnen  sein 
 könnte, sollte mittels einer Risikobetrachtung weiter untersucht werden. Nach Abschätzung 
-
-der Eintrittswahrscheinlichkeiten und Mengen künftiger zu erwartender Regenspenden soll-
-
-ten Entwässerungseinrichtungen hinsichtlich ihrer Funktionalität unter Berücksichtigung der 
-
+der Eintrittswahrscheinlichkeiten und Mengen künftiger zu erwartender Regenspenden sollten Entwässerungseinrichtungen hinsichtlich ihrer Funktionalität unter Berücksichtigung der 
 Verhältnisse in den zugehörigen Einzugsgebieten einer Überprüfung unterzogen und evtl. notwendige  weitergehende  Sicherungsmaßnahmen  identifiziert  und  umgesetzt  werden  (siehe 
 auch  Sicherheitsempfehlung  Nr. 1  aus  dem  Untersuchungsbericht  zur  Zugentgleisung  am 
 11.09.2011  zwischen  Werlau  und  St.  Goar,  AZ:  60uu2011-09/059-3323#007-001  vom 
@@ -1032,11 +979,13 @@ Mitte der DB Netz AG im SMS der DB AG eine regionale Prozessuntersetzung für de
 LN 26-01-04 (Zug- und Rangierfahrt durchführen) erlassen. Diese sieht für ausgewiesene Streckenabschnitte  betriebliche  Maßnahmen  nach  Unwetterwarnungen  durch  den  Deutschen 
 Wetterdienst vor. Für den RB Südost der DB Netz AG wurde eine solche regionale Prozessuntersetzung nicht vorgenommen. 
 Seite 32 von 33 
+
  
  
  
  
 Untersuchungsbericht 
+
 Zugkollision, 19.05.2017, Papiermühle (Kr Stadtroda) – Stadtroda 
 6  Bisher	getroffene	Maßnahmen	
 Die DB Netz AG hat an der Böschungskante oberhalb der Bahnstrecke, beginnend bei der Kaskade, Winkelstützwände als Barriere eingebaut, um einen weiteren Absturz von Geröllmaterial aus dem angrenzenden Bereich oberhalb der Bahnstrecke zu verhindern. Diese sind in Abbildung 21 zu erkennen. 
@@ -1045,6 +994,7 @@ Abbildung 21: Neu errichtete Winkelstützwände an der Böschungskante6
 Es wurden keine Sicherheitsempfehlungen ausgesprochen. 
 6 Quelle: DB Netz AG 
 Seite 33 von 33 
+
  
  
  

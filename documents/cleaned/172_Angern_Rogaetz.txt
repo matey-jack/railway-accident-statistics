@@ -1,6 +1,6 @@
 Untersuchungsbericht 
 Aktenzeichen: 
-60uu2015‐09/002‐3323 
+60uu2015-09/002-3323 
 Stand: 
 07.12.2021   Version:  1.0 
 Erstveröffentlichung:  14.12.2021 
@@ -14,9 +14,10 @@ Gleis:
 Weiche: 
 08.09.2015 
 23:47 Uhr 
-Angern‐Rogätz 
+Angern-Rogätz 
 1 
 S3 
+
 	
  
  
@@ -33,30 +34,26 @@ S3
  
  
 Untersuchungsbericht 
-Zugentgleisung, 08.09.2015, Angern‐Rogätz 
+
+Zugentgleisung, 08.09.2015, Angern-Rogätz 
 Veröffentlicht durch: 
 Bundesstelle für Eisenbahnunfalluntersuchung 
 Heinemannstraße 6 
 53175 Bonn 
+
  
 Untersuchungsbericht 
-Zugentgleisung, 08.09.2015, Angern‐Rogätz 
+
+Zugentgleisung, 08.09.2015, Angern-Rogätz 
 Inhaltsverzeichnis	
 I. 
 II. 
-
 Änderungsverzeichnis: .......................................................................................... II 
-
 Abbildungsverzeichnis: ........................................................................................ III 
-
 III. 
-
 Tabellenverzeichnis: ............................................................................................ III 
-
 IV. 
-
 Abkürzungsverzeichnis: ....................................................................................... IV 
-
 1 
 1.1 
 1.2 
@@ -76,50 +73,34 @@ Abkürzungsverzeichnis: ........................................................
 4.3 
 4.4 
 4.5 
-
 Vorbemerkungen .................................................................................................. 1 
-
 Organisatorischer Hinweis ...................................................................................... 1 
-
 Ziel der Eisenbahnunfalluntersuchung .................................................................... 2 
-
 Zusammenfassung ................................................................................................ 3 
-
 Kurzbeschreibung des Ereignisses ........................................................................... 3 
-
 Folgen ...................................................................................................................... 3 
-
 Ursachen .................................................................................................................. 3 
-
 Sicherheitsempfehlungen ....................................................................................... 3 
-
 Allgemeine Angaben ............................................................................................. 4 
-
 Lage und Beschreibung des Ereignisortes ............................................................... 4 
-
 Beteiligte und Mitwirkende ..................................................................................... 6 
-
 Äußere Bedingungen ............................................................................................... 6 
-
 Todesopfer, Verletzte und Sachschäden ................................................................. 6 
-
 Untersuchungsprotokoll ....................................................................................... 8 
-
 Zusammenfassung von Aussagen und Stellungnahmen ......................................... 8 
-
 Notfallmanagement ................................................................................................ 8 
-
 Untersuchung der bautechnischen Infrastruktur ................................................... 8 
-
-Untersuchung der Leit‐ und Sicherungstechnik (LST) ............................................. 9 
+Untersuchung der Leit- und Sicherungstechnik (LST) ............................................. 9 
 Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers ................... 9 
 4.5.1 
 Handlungen der Fdl auf dem Befehlsstellwerk B1 ................................................ 10 
 I 
+
  
  
 Untersuchungsbericht 
-Zugentgleisung, 08.09.2015, Angern‐Rogätz 
+
+Zugentgleisung, 08.09.2015, Angern-Rogätz 
 4.5.2 
 Handlungen der Ww auf dem Wärterstellwerk W2 ............................................. 14 
 4.6 
@@ -130,24 +111,19 @@ Handlungen der Ww auf dem Wärterstellwerk W2 ..................................
 6 
 7 
 Untersuchung der betrieblichen Abläufe der EVU ................................................ 15 
-
 Untersuchung von Fahrzeugen ............................................................................. 17 
-
 Auswertung ...................................................................................
 ..................... 19 
 Ereignisrekonstruktion ...................................................................
 ....................... 19 
-
 Bewertung und Schlussfolgerung .......................................................................... 20 
-
 Bisher getroffene Maßnahmen ........................................................................... 22 
-
 Sicherheitsempfehlungen ................................................................................... 22 
-
 I.  Änderungsverzeichnis:	
 Änderung 
 Stand 
 II 
+
  
  
  
@@ -157,51 +133,39 @@ II
 	
 	
 Untersuchungsbericht 
-Zugentgleisung, 08.09.2015, Angern‐Rogätz 
+
+Zugentgleisung, 08.09.2015, Angern-Rogätz 
 II.  Abbildungsverzeichnis:	
-
 Abbildung 1: Lageplan ................................................................................................................ 4 
-
 Abbildung 2: Gleislageskizze ...................................................................................................... 5 
-
-Abbildung 3 Aufnahme des Bf Angern‐Rogätz vom Stw B1 ....................................................... 6 
-
+Abbildung 3 Aufnahme des Bf Angern-Rogätz vom Stw B1 ....................................................... 6 
 Abbildung 4: entgleiste Triebzugeinheit an der Unfallstelle ...................................................... 7 
-
 Abbildung 5: Gleisbildpult auf Stw B1 ...................................................................................... 11 
-
 Abbildung 6: Auszug aus dem Verzeichnis der Zugschlussstellen Stw B1 ............................... 12 
-
 Abbildung 7: Zugschluss RB 17842, Weiche S3 in Linkslage .................................................... 13 
-
 Abbildung 8: Gleisbildpult, Ausschnitt Weichen S3 und S4 ..................................................... 14 
-
 Abbildung 9: Grafische Darstellung des Fahrtverlaufs ............................................................. 16 
-
 Abbildung 10: Fahrtverlauf, tabellarische Darstellung ............................................................ 17 
-
 Abbildung 11: Systemskizze Triebzugeinheit 425 008 ............................................................. 17 
-
 III.  Tabellenverzeichnis:	
-
 Tabelle 1: Übersicht der geschätzten Schadenshöhe ................................................................ 7 
-
-Tabelle 2: Technische Daten Triebzugeinheit 425 008‐0 ......................................................... 18 
-
+Tabelle 2: Technische Daten Triebzugeinheit 425 008-0 ......................................................... 18 
 III 
+
  
  
  
  
  
 Untersuchungsbericht 
-Zugentgleisung, 08.09.2015, Angern‐Rogätz 
+
+Zugentgleisung, 08.09.2015, Angern-Rogätz 
 IV.  Abkürzungsverzeichnis:	
 AEG 
 Betra 
 BEU 
 Allgemeines Eisenbahngesetz 
-Betriebs‐ und Bauanweisung 
+Betriebs- und Bauanweisung 
 Bundesstelle für Eisenbahnunfalluntersuchung 
 BEVVG 
 Bundeseisenbahnverkehrsverwaltungsgesetz 
@@ -216,10 +180,10 @@ Bahnhof
 Bundespolizei 
 Eisenbahninfrastrukturunternehmen 
 Europäische Union 
-Eisenbahn‐Unfalluntersuchungsstelle des Bundes 
+Eisenbahn-Unfalluntersuchungsstelle des Bundes 
 Eisenbahnverkehrsunternehmen 
 Fahrdienstleiter / Fahrdienstleiterin 
-GSM‐R 
+GSM-R 
 Global System for Mobile Communications Rail 
 Hbf 
 LST 
@@ -231,7 +195,7 @@ VzG
 Ww 
 ZAS 
 Hauptbahnhof 
-Leit‐ und Sicherungstechnik 
+Leit- und Sicherungstechnik 
 punktförmige Zugbeeinflussung 
 Richtlinie 
 Stellwerk 
@@ -240,166 +204,149 @@ Verzeichnis der örtlich zulässigen Geschwindigkeiten
 Weichenwärter / Weichenwärterin 
 Zentrale Auswertestelle 
 IV 
+
  
  
  
 Untersuchungsbericht 
-Zugentgleisung, 08.09.2015, Angern‐Rogätz 
+
+Zugentgleisung, 08.09.2015, Angern-Rogätz 
 1  Vorbemerkungen	
 Das Kapitel Vorbemerkungen befasst sich mit allgemeinen Informationen zur Bundesstelle für 
 Eisenbahnunfalluntersuchung (BEU). Dabei wird die gesetzliche Grundlage genannt und die 
 Aufbauorganisation kurz umrissen. 
 1.1  Organisatorischer	Hinweis	
-Mit der Richtlinie 2004/49/EG des Europäischen Parlaments und des Rates, über Eisenbahnsi‐
-cherheit (Eisenbahnsicherheitsrichtlinie), wurden die Mitgliedstaaten der Europäischen Union 
-(EU) erstmals verpflichtet, unabhängige Untersuchungsstellen für die Untersuchung bestimm‐
-ter gefährlicher Ereignisse einzurichten. 
+Mit der Richtlinie 2004/49/EG des Europäischen Parlaments und des Rates, über Eisenbahnsicherheit (Eisenbahnsicherheitsrichtlinie), wurden die Mitgliedstaaten der Europäischen Union 
+(EU) erstmals verpflichtet, unabhängige Untersuchungsstellen für die Untersuchung bestimmter gefährlicher Ereignisse einzurichten. 
 Die Richtlinie wurde mit dem 5. Gesetz zur Änderung eisenbahnrechtlicher Vorschriften vom 
-16.04.2007 umgesetzt und die Eisenbahn‐Unfalluntersuchungsstelle des Bundes (EUB) einge‐
-richtet. 
+16.04.2007 umgesetzt und die Eisenbahn-Unfalluntersuchungsstelle des Bundes (EUB) eingerichtet. 
 Mit dem Gesetz zur Neuordnung der Eisenbahnunfalluntersuchung vom 27.06.2017 wurden 
-u. a. die rechtlichen Grundlagen zur Errichtung der Bundesstelle für Eisenbahnunfalluntersu‐
-chung  (BEU)  geschaffen.  Hierdurch  wurde  das  Allgemeine  Eisenbahngesetz  (AEG)  und  das 
+u. a. die rechtlichen Grundlagen zur Errichtung der Bundesstelle für Eisenbahnunfalluntersuchung  (BEU)  geschaffen.  Hierdurch  wurde  das  Allgemeine  Eisenbahngesetz  (AEG)  und  das 
 Bundeseisenbahnverkehrsverwaltungsgesetz (BEVVG) geändert, wobei Zuständigkeiten und 
 Kompetenzen  auf  die  neue  Behörde,  die  BEU,  übertragen  wurden.  Mit  Errichtung  der  BEU 
 wurde die EUB, bestehend aus der Leitung der EUB im Bundesministerium für Verkehr und 
-digitale Infrastruktur (BMVI) und der Untersuchungszentrale der EUB im Eisenbahn‐Bundes‐
-amt (EBA), aufgelöst. Mit dem Organisationserlass des Bundesministeriums für Verkehr und 
+digitale Infrastruktur (BMVI) und der Untersuchungszentrale der EUB im Eisenbahn-Bundesamt (EBA), aufgelöst. Mit dem Organisationserlass des Bundesministeriums für Verkehr und 
 digitale Infrastruktur zur Errichtung der Bundesstelle für Eisenbahnunfalluntersuchung vom 
 14.07.2017  wurde die BEU als selbstständige Bundesoberbehörde im Geschäftsbereich des 
 BMVI zur Erfüllung der Aufgaben nach § 7 BEVVG errichtet. Die Aufgaben zur Untersuchung 
 bestimmter gefährlicher Ereignisse im Eisenbahnbetrieb gingen dabei nahtlos von der EUB auf 
 die BEU über. 
-Da das gefährliche Ereignis vor der Errichtung der BEU eintrat, wurden bestimmte Untersu‐
-chungshandlungen noch durch die EUB vorgenommen, auf die im Bericht entsprechend ver‐
-wiesen wird. Alle während der Untersuchung gewonnenen Erkenntnisse wurden kontinuier‐
-lich mit den betroffenen Eisenbahnen und der Sicherheitsbehörde geteilt und einzelfallbezo‐
-gene Sicherheitsempfehlungen ausgesprochen. 
+Da das gefährliche Ereignis vor der Errichtung der BEU eintrat, wurden bestimmte Untersuchungshandlungen noch durch die EUB vorgenommen, auf die im Bericht entsprechend verwiesen wird. Alle während der Untersuchung gewonnenen Erkenntnisse wurden kontinuierlich mit den betroffenen Eisenbahnen und der Sicherheitsbehörde geteilt und einzelfallbezogene Sicherheitsempfehlungen ausgesprochen. 
 Näheres hierzu ist im Internet unter www.beu.bund.de eingestellt. 
 Seite 1 von 22 
+
  
  
 Untersuchungsbericht 
-Zugentgleisung, 08.09.2015, Angern‐Rogätz 
+
+Zugentgleisung, 08.09.2015, Angern-Rogätz 
 1.2  Ziel	der	Eisenbahnunfalluntersuchung	
-Ziel und Zweck der Untersuchungen ist es, die Ursachen von gefährlichen Ereignissen aufzu‐
-klären und hieraus Hinweise zur Verbesserung der Sicherheit abzuleiten. Untersuchungen der 
+Ziel und Zweck der Untersuchungen ist es, die Ursachen von gefährlichen Ereignissen aufzuklären und hieraus Hinweise zur Verbesserung der Sicherheit abzuleiten. Untersuchungen der 
 BEU dienen nicht dazu, ein Verschulden festzustellen oder Fragen der Haftung oder sonstiger 
-zivilrechtlicher Ansprüche zu klären und werden unabhängig von jeder gerichtlichen Untersu‐
-chung durchgeführt. 
+zivilrechtlicher Ansprüche zu klären und werden unabhängig von jeder gerichtlichen Untersuchung durchgeführt. 
 Die Untersuchung umfasst die Sammlung und Auswertung von Informationen, die Erarbeitung 
 von Schlussfolgerungen einschließlich der Feststellung der Ursachen und gegebenenfalls die 
-Abgabe von Sicherheitsempfehlungen. Die Vorschläge der Untersuchungsstelle zur Vermei‐
-dung von Unfällen und Verbesserung der Sicherheit im Eisenbahnverkehr werden der Sicher‐
-heitsbehörde und, soweit erforderlich, anderen Stellen und Behörden oder anderen Mitglied‐
-staaten der EU in Form von Sicherheitsempfehlungen mitgeteilt. 
+Abgabe von Sicherheitsempfehlungen. Die Vorschläge der Untersuchungsstelle zur Vermeidung von Unfällen und Verbesserung der Sicherheit im Eisenbahnverkehr werden der Sicherheitsbehörde und, soweit erforderlich, anderen Stellen und Behörden oder anderen Mitgliedstaaten der EU in Form von Sicherheitsempfehlungen mitgeteilt. 
 Seite 2 von 22 
+
  
  
  
  
 Untersuchungsbericht 
-Zugentgleisung, 08.09.2015, Angern‐Rogätz 
+
+Zugentgleisung, 08.09.2015, Angern-Rogätz 
 2  Zusammenfassung	
 Das Kapitel befasst sich mit einer kurzen Darstellung des Ereignisherganges, den Folgen und 
-den Primärursachen. Abschließend werden eventuell erteilte Sicherheitsempfehlungen auf‐
-geführt. 
+den Primärursachen. Abschließend werden eventuell erteilte Sicherheitsempfehlungen aufgeführt. 
 2.1  Kurzbeschreibung	des	Ereignisses	
-Am 08.09.2015 gegen 23:47 Uhr entgleiste die Zugfahrt RB 17842 von Magdeburg Hauptbahn‐
-hof (Hbf) nach Stendal. Beim Vorziehen des Zuges von Gleis 1 nach Gleis 3 im Bahnhof (Bf) 
-Angern‐Rogätz fuhr dieser auf der Weiche S3 mit den beiden Radsätzen des zweiten Drehge‐
-stells der Triebzugeinheit zweigleisig und entgleiste anschließend. 
+Am 08.09.2015 gegen 23:47 Uhr entgleiste die Zugfahrt RB 17842 von Magdeburg Hauptbahnhof (Hbf) nach Stendal. Beim Vorziehen des Zuges von Gleis 1 nach Gleis 3 im Bahnhof (Bf) 
+Angern-Rogätz fuhr dieser auf der Weiche S3 mit den beiden Radsätzen des zweiten Drehgestells der Triebzugeinheit zweigleisig und entgleiste anschließend. 
 2.2  Folgen	
-Es kamen keine Personen zu Schaden. Der Oberbau wurde erheblich beschädigt. An der Trieb‐
-zugeinheit entstanden geringe Sachschäden. 
+Es kamen keine Personen zu Schaden. Der Oberbau wurde erheblich beschädigt. An der Triebzugeinheit entstanden geringe Sachschäden. 
 2.3  Ursachen	
 Die Fahrstraße des Zuges RB 17842 wurde entgegen den Regelungen gemäß Richtlinie (Ril) 
-408 –Züge fahren und Rangieren – aufgelöst, bevor der Zug die Fahrstraßen‐Zugschlussstelle 
-
-passiert hatte. Durch unzeitiges Umstellen der Weiche S3 unter dem Zug kam es zum zweispu‐
-
-rigen Lauf und damit zur Entgleisung der Triebzugeinheit. 
+408 –Züge fahren und Rangieren – aufgelöst, bevor der Zug die Fahrstraßen-Zugschlussstelle 
+passiert hatte. Durch unzeitiges Umstellen der Weiche S3 unter dem Zug kam es zum zweispurigen Lauf und damit zur Entgleisung der Triebzugeinheit. 
 2.4  Sicherheitsempfehlungen	
 Es wurden keine Sicherheitsempfehlungen ausgesprochen. 
 Seite 3 von 22 
+
  
  
  
  
 Untersuchungsbericht 
-Zugentgleisung, 08.09.2015, Angern‐Rogätz 
+
+Zugentgleisung, 08.09.2015, Angern-Rogätz 
 3  Allgemeine	Angaben	
-Das Kapitel beinhaltet allgemeine Angaben zur Beschreibung des Ereignisortes und der rele‐
-vanten  Bahnanlagen.  Des  Weiteren  werden  die  an  der  Unfalluntersuchung  beteiligten  und 
+Das Kapitel beinhaltet allgemeine Angaben zur Beschreibung des Ereignisortes und der relevanten  Bahnanlagen.  Des  Weiteren  werden  die  an  der  Unfalluntersuchung  beteiligten  und 
 mitwirkenden Stellen, die äußeren Bedingungen, die Anzahl der bei dem Ereignis verletzten 
 und getöteten Personen sowie Art und Höhe der Folgeschäden benannt. 
 3.1  Lage	und	Beschreibung	des	Ereignisortes	
 Die Zugentgleisung ereignete sich auf der zweigleisigen elektrifizierten Hauptbahn Magdeburg 
-Hbf ‐ Stendal im Bf Angern‐Rogätz. Die Strecke wurde gemäß Verzeichnis der örtlich zulässigen 
+Hbf - Stendal im Bf Angern-Rogätz. Die Strecke wurde gemäß Verzeichnis der örtlich zulässigen 
 Geschwindigkeiten (VzG) mit der Streckennummer 6402 geführt. 
-
 Die  Strecke  war  mit  dem  digitalen  Zugfunk  Global  System  for  Mobile  Communications  Rail 
-
-(GSM‐R) ausgerüstet. Als Zugsicherungssystem kam die punktförmige Zugbeeinflussung (PZB) 
+(GSM-R) ausgerüstet. Als Zugsicherungssystem kam die punktförmige Zugbeeinflussung (PZB) 
 zur Anwendung. 
 Abbildung 1: Lageplan1 
-1 Quelle: Geobasisdaten: © GeoBasis‐DE / BKG [2020], bearbeitet durch BEU 
+1 Quelle: Geobasisdaten: © GeoBasis-DE / BKG [2020], bearbeitet durch BEU 
 Seite 4 von 22 
+
  
  
  
  
                                                        
 Untersuchungsbericht 
-Zugentgleisung, 08.09.2015, Angern‐Rogätz 
 
-Der  Bf  Angern‐Rogätz  erstreckte  sich  von  km  27,830  bis  km  29,676.  Er  verfügte  über  zwei 
-
-durchgehende Hauptgleise und ein Überholungsgleis. Die Unfallstelle befand sich auf der Wei‐
-
-che S3 im Bf Angern‐Rogätz, etwa in Streckenkilometer 28,4. Dieser Abschnitt durfte gemäß 
-
+Zugentgleisung, 08.09.2015, Angern-Rogätz 
+Der  Bf  Angern-Rogätz  erstreckte  sich  von  km  27,830  bis  km  29,676.  Er  verfügte  über  zwei 
+durchgehende Hauptgleise und ein Überholungsgleis. Die Unfallstelle befand sich auf der Weiche S3 im Bf Angern-Rogätz, etwa in Streckenkilometer 28,4. Dieser Abschnitt durfte gemäß 
 VzG mit einer maximal zulässigen Geschwindigkeit von 120 km/h befahren werden und war 
 auf einen Bremsweg von 1.000 m ausgelegt. Die benachbarten Betriebsstellen waren der Bf 
 Zielitz und der Bf Tangerhütte. 
-Die Gleislageskizze in der folgenden Abbildung stellt die Situation im Bf Angern‐Rogätz zum 
+Die Gleislageskizze in der folgenden Abbildung stellt die Situation im Bf Angern-Rogätz zum 
 Unfallzeitpunkt dar. 
 Abbildung 2: Gleislageskizze2 
-Die Abbildung 3 zeigt einen Blick vom Stellwerk (Stw) B1 auf den Bf Angern‐Rogätz am Morgen 
+Die Abbildung 3 zeigt einen Blick vom Stellwerk (Stw) B1 auf den Bf Angern-Rogätz am Morgen 
 nach dem Ereignis. 
 Die Richtungen der zum Zeitpunkt des Ereignisses stattfindenden Zugfahrten sind eingetragen. 
-2 Quelle: DB Netz AG Lageplan aus den örtlichen Richtlinien Bf Angern‐Rogätz, bearbeitet durch BEU 
+2 Quelle: DB Netz AG Lageplan aus den örtlichen Richtlinien Bf Angern-Rogätz, bearbeitet durch BEU 
 Seite 5 von 22 
+
  
  
  
                                                        
 Untersuchungsbericht 
-Zugentgleisung, 08.09.2015, Angern‐Rogätz 
-Abbildung 3 Aufnahme des Bf Angern‐Rogätz vom Stw B1 
+
+Zugentgleisung, 08.09.2015, Angern-Rogätz 
+Abbildung 3 Aufnahme des Bf Angern-Rogätz vom Stw B1 
 3.2  Beteiligte	und	Mitwirkende	
 Am Ereignis waren folgende Stellen beteiligt: 
   DB Netz AG als Eisenbahninfrastrukturunternehmen (EIU) 
   DB Regio AG als Eisenbahnverkehrsunternehmen (EVU) 
-Im Rahmen der Sachverhaltsermittlung und Ursachenerforschung wurden neben den o. g. Be‐
-teiligten folgende weitere Stellen einbezogen: 
+Im Rahmen der Sachverhaltsermittlung und Ursachenerforschung wurden neben den o. g. Beteiligten folgende weitere Stellen einbezogen: 
  
  
  Bundespolizei (BPol), Inspektion Magdeburg 
  DB AG, Zentrale Auswertestelle (ZAS) Nürnberg 
 3.3  Äußere	Bedingungen		
-Die äußeren Bedingungen, wie z. B. das Wetter, standen in keinem erkennbaren kausalen Zu‐
-sammenhang mit der Ereignisursache. 
+Die äußeren Bedingungen, wie z. B. das Wetter, standen in keinem erkennbaren kausalen Zusammenhang mit der Ereignisursache. 
 3.4  Todesopfer,	Verletzte	und	Sachschäden	
 Bei dem Ereignis traten keine Personenschäden ein. 
 Seite 6 von 22 
+
  
  
  
  
  
 Untersuchungsbericht 
-Zugentgleisung, 08.09.2015, Angern‐Rogätz 
+
+Zugentgleisung, 08.09.2015, Angern-Rogätz 
 Die geschätzte Höhe der Sachschäden in Euro setzt sich wie folgt zusammen: 
 geschätzte Kosten in Euro 
 Fahrzeuge 
@@ -415,6 +362,7 @@ Die Abbildung 4 zeigt den entgleisten Triebwagen, der in der Weiche S3 zum Stehe
 Abbildung 4: entgleiste Triebzugeinheit an der Unfallstelle3 
 3 Quelle: Bpol 
 Seite 7 von 22 
+
  
  
  
@@ -424,153 +372,133 @@ Seite 7 von 22
  
                                                        
 Untersuchungsbericht 
-Zugentgleisung, 08.09.2015, Angern‐Rogätz 
+
+Zugentgleisung, 08.09.2015, Angern-Rogätz 
 4  Untersuchungsprotokoll	
 In diesem Kapitel werden die ermittelten Ergebnisse zu einzelnen in Zusammenhang mit dem 
 Ereignis stehenden Teilbereichen des Eisenbahnwesens dargestellt. Daneben wurden auch die 
-entsprechenden Schnittstellen sowie das Sicherheitsmanagementsystem im betroffenen Be‐
-reich betrachtet. Die jeweilig relevanten Erkenntnisse werden fortlaufend aufgeführt. 
+entsprechenden Schnittstellen sowie das Sicherheitsmanagementsystem im betroffenen Bereich betrachtet. Die jeweilig relevanten Erkenntnisse werden fortlaufend aufgeführt. 
 4.1  Zusammenfassung	von	Aussagen	und	Stellungnahmen	
 Der BEU vorliegende Aussagen oder Stellungnahmen am Ereignis beteiligter Personen sind in 
-die Ermittlungen mit eingeflossen. Auf einen gesonderten Abdruck wird an dieser Stelle ver‐
-zichtet. 
+die Ermittlungen mit eingeflossen. Auf einen gesonderten Abdruck wird an dieser Stelle verzichtet. 
 4.2  Notfallmanagement	
 Nach § 4 Abs. 3 Allgemeines Eisenbahngesetz (AEG) haben die Eisenbahnen die Verpflichtung, 
 an Maßnahmen des Brandschutzes und der technischen Hilfeleistung mitzuwirken. In einer 
 Vereinbarung zwischen den Innenministerien der Länder und der DB AG hat man sich auf eine 
-Verfahrensweise verständigt. Für die DB Netz AG gelten die entsprechenden Brand‐ und Ka‐
-tastrophenschutzgesetze der Länder. Das Notfallmanagement der DB AG ist in der Konzern‐
-richtlinie 123, das der DB Netz AG in der Ril 423 näher beschrieben und geregelt. 
+Verfahrensweise verständigt. Für die DB Netz AG gelten die entsprechenden Brand- und Katastrophenschutzgesetze der Länder. Das Notfallmanagement der DB AG ist in der Konzernrichtlinie 123, das der DB Netz AG in der Ril 423 näher beschrieben und geregelt. 
 Unregelmäßigkeiten oder Verzögerungen in Bezug auf das Einleiten von Rettungsmaßnahmen 
 wurden der BEU im Rahmen der Unfalluntersuchung nicht bekannt. 
 4.3  Untersuchung	der	bautechnischen	Infrastruktur	
-Die Weiche S3 hatte die Bauform EW 49‐500‐1:12. Im Arbeits‐ und Störungsbuch waren keine 
+Die Weiche S3 hatte die Bauform EW 49-500-1:12. Im Arbeits- und Störungsbuch waren keine 
 Störungen an der Weiche S3 verzeichnet. Im Bereich der Weichenspitze waren an den Zungen 
 keine Auffälligkeiten erkennbar. Die Schäden, die an den Oberbaukomponenten der Weiche 
 festgestellt wurden (ein Schienenfußbruch, eine ausgeknickte Zungenverbindungsstange am 
-Mittelverschluss sowie beschädigte Stützknaggen, Kleineisen und Schwellen), wurden eindeu‐
-tig als Folgen der Entgleisung und nicht als deren Ursache identifiziert. 
-Daher und wegen der Umstände des ermittelten Ereignishergangs wurden Mängel an der Wei‐
-che S3 als Unfallursache ausgeschlossen und weitere Untersuchungen an der bautechnischen 
+Mittelverschluss sowie beschädigte Stützknaggen, Kleineisen und Schwellen), wurden eindeutig als Folgen der Entgleisung und nicht als deren Ursache identifiziert. 
+Daher und wegen der Umstände des ermittelten Ereignishergangs wurden Mängel an der Weiche S3 als Unfallursache ausgeschlossen und weitere Untersuchungen an der bautechnischen 
 Infrastruktur nicht vorgenommen. 
-Die bautechnische Infrastruktur hatte keinen ursächlichen Einfluss auf die Entstehung des Er‐
-eignisses. 
+Die bautechnische Infrastruktur hatte keinen ursächlichen Einfluss auf die Entstehung des Ereignisses. 
 Seite 8 von 22 
+
  
  
 Untersuchungsbericht 
-Zugentgleisung, 08.09.2015, Angern‐Rogätz 
-4.4  Untersuchung	der	Leit‐	und	Sicherungstechnik	(LST)	
-Der Bf Angern‐Rogätz verfügte über zwei mechanische Stw der Bauform Jüdel, die nachträg‐
-lich mit Gleisbildpulten der Bauform GS II ergänzt worden. Das Befehlsstellwerk B1 befand sich 
+
+Zugentgleisung, 08.09.2015, Angern-Rogätz 
+4.4  Untersuchung	der	Leit-	und	Sicherungstechnik	(LST)	
+Der Bf Angern-Rogätz verfügte über zwei mechanische Stw der Bauform Jüdel, die nachträglich mit Gleisbildpulten der Bauform GS II ergänzt worden. Das Befehlsstellwerk B1 befand sich 
 auf der westlichen Seite des Bf südlich des Gleises 2 ca. im km 28,2 und das Wärterstellwerk 
 W2 auf der östlichen Seite des Bf nördlich des Gleises 3 ca. im km 29,2. 
-Alle Hauptsignale waren Lichtsignale und mit PZB‐Magneten versehen. 
+Alle Hauptsignale waren Lichtsignale und mit PZB-Magneten versehen. 
 Eine Gleisfreimeldeanlage war nicht vorhanden. 
 Der Bf und die angrenzenden Streckenabschnitte waren mit einer Zugnummernmeldeanlage 
-ZNS 801 ausgerüstet. GSM‐R Zugfunk und Streckenfernsprechverbindungen für die Strecken 
-Zielitz – Angern‐Rogätz und Angern‐Rogätz – Tangerhütte waren vorhanden. 
+ZNS 801 ausgerüstet. GSM-R Zugfunk und Streckenfernsprechverbindungen für die Strecken 
+Zielitz – Angern-Rogätz und Angern-Rogätz – Tangerhütte waren vorhanden. 
 Auf den Stw wurden zum Zeitpunkt der Untersuchung am Unfallort keine Störungen an der 
-Stellwerkstechnik festgestellt. Das Arbeits‐ und Störungsbuch wies keine Einträge auf, die auf 
-
+Stellwerkstechnik festgestellt. Das Arbeits- und Störungsbuch wies keine Einträge auf, die auf 
 Störungen in der LST als mögliche Ursache für den Unfall hätten schließen lassen. Eine Ursache 
-
-in  der  LST  konnte  somit  ausgeschlossen  werden.  Weitere  Untersuchungen  der  sicherungs‐
-technischen Anlagen erfolgten daher nicht. 
-Die LST‐Anlagen hatten keinen ursächlichen Einfluss auf die Entstehung des Ereignisses. 
+in  der  LST  konnte  somit  ausgeschlossen  werden.  Weitere  Untersuchungen  der  sicherungstechnischen Anlagen erfolgten daher nicht. 
+Die LST-Anlagen hatten keinen ursächlichen Einfluss auf die Entstehung des Ereignisses. 
 4.5  Untersuchung	der	betrieblichen	Abläufe	des	Infrastrukturbetreibers	
-Der Betrieb im Bf Angern‐Rogätz erfolgte nach den Regelungen der Ril 408 – Züge fahren und 
+Der Betrieb im Bf Angern-Rogätz erfolgte nach den Regelungen der Ril 408 – Züge fahren und 
 Rangieren – und wurde durch eine Fahrdienstleiterin (Fdl) auf dem Befehlsstellwerk B1 und 
 eine Weichenwärterin (Ww) auf dem Wärterstellwerk W2 gesteuert. 
-Auf der Strecke Magdeburg – Stendal fanden in der Zeit vom 04.09.2015 bis 11.09.2015 Bau‐
-arbeiten statt. Dazu wurde eine Betriebs‐ und Bauanweisung (Betra) Nr. F 450900 15 erarbei‐
-tet. 
-Das Richtungsgleis Tangerhütte – Angern‐Rogätz war aufgrund dieser Betra zwischen dem Ein‐
-
-fahrsignal  78AA  des  Bf  Tangerhütte  und  dem  Einfahrsignal  H  des  Bf  Angern‐Rogätz  in  den 
-
+Auf der Strecke Magdeburg – Stendal fanden in der Zeit vom 04.09.2015 bis 11.09.2015 Bauarbeiten statt. Dazu wurde eine Betriebs- und Bauanweisung (Betra) Nr. F 450900 15 erarbeitet. 
+Das Richtungsgleis Tangerhütte – Angern-Rogätz war aufgrund dieser Betra zwischen dem Einfahrsignal  78AA  des  Bf  Tangerhütte  und  dem  Einfahrsignal  H  des  Bf  Angern-Rogätz  in  den 
 Nächten 07./08.09.2015 bis 10./11.09.2015 jeweils von 20:30 Uhr bis 04:00 Uhr durchgehend 
 gesperrt. Während dieser Zeiten wurde das gesperrte Gleis gemäß Ril 408.0902 Abschnitt 3 
 zum Baugleis erklärt. 
-
-Züge in der Relation Tangerhütte – Angern‐Rogätz verkehrten während der Zeiten der Gleis‐
-
-sperrung auf dem Gegengleis. 
+Züge in der Relation Tangerhütte – Angern-Rogätz verkehrten während der Zeiten der Gleissperrung auf dem Gegengleis. 
 Seite 9 von 22 
+
  
  
 Untersuchungsbericht 
-Zugentgleisung, 08.09.2015, Angern‐Rogätz 
+
+Zugentgleisung, 08.09.2015, Angern-Rogätz 
 4.5.1  Handlungen	der	Fdl	auf	dem	Befehlsstellwerk	B1	
 Die Fdl hatte eine Ausbildung als Eisenbahnerin im Betriebsdienst durchlaufen. Sie war seit 
-dem Jahre 2010 auf dem Stw B1 in Angern‐Rogätz eingewiesen und wurde dort regelmäßig 
+dem Jahre 2010 auf dem Stw B1 in Angern-Rogätz eingewiesen und wurde dort regelmäßig 
 eingesetzt. 
-
 Sie hatte entsprechend den gültigen Regelungen kontinuierlich, zuletzt vor dem Ereignis im 
-
 April 2015, an Fortbildungen und Schulungen für Betriebspersonal teilgenommen. 
 Ihre Tauglichkeit für die Tätigkeit als Fdl war nachgewiesen und ohne Einschränkung bis zum 
 Jahre 2018 gültig. 
-In die am Unfalltag für den Bf Angern‐Rogätz gültigen Regelungen der Betra Nr. F 450900 15 
+In die am Unfalltag für den Bf Angern-Rogätz gültigen Regelungen der Betra Nr. F 450900 15 
 war sie eingewiesen. 
 Die Fdl befand sich am Unfalltag seit 21:00 Uhr im Dienst. Die Zugentgleisung ereignete sich 
-
 demnach in ihrer dritten Dienststunde. Die Ruhezeit vor der Unfallschicht betrug 15 Stunden. 
-
-Das Gleis 2 im Bf Angern‐Rogätz war am 08.09.2015 gegen 23:43 Uhr durch einen Güterzug 
+Das Gleis 2 im Bf Angern-Rogätz war am 08.09.2015 gegen 23:43 Uhr durch einen Güterzug 
 besetzt, der am Halt zeigenden Ausfahrsignal F wartete. 
 Am Halt zeigenden Einfahrsignal Hl stand zudem der verspätete Zug RB 17839, der über die 
 Weichen 22 und 21 nach Gleis 1 einfahren sollte. 
 Aufgrund der betrieblichen Situation konnte der Zug RB 17842 nicht wie im Regelbetrieb nach 
-Gleis 2 im Bf Angern‐Rogätz einfahren. 
+Gleis 2 im Bf Angern-Rogätz einfahren. 
 Die Fdl stellte daher die Zugstraße a/3 für die Zugfahrt RB 17842 vom Einfahrsignal A über das 
 Gleis 2 und die Weichen S1 und S2 nach Gleis 1 und weiter über die Weichen S3 und S4 nach 
 Gleis 3 ein und legte sie fest. 
-In der folgenden Abbildung, aufgenommen am Morgen nach dem Ereignis, ist das Gleisbild‐
-pult auf dem Stw B1 dargestellt. Grün markiert ist die Fahrstraße a/3, die vor der Entgleisung 
+In der folgenden Abbildung, aufgenommen am Morgen nach dem Ereignis, ist das Gleisbildpult auf dem Stw B1 dargestellt. Grün markiert ist die Fahrstraße a/3, die vor der Entgleisung 
 für den Zug RB 17842 eingestellt und festgelegt war. 
 Seite 10 von 22 
+
  
  
 Untersuchungsbericht 
-Zugentgleisung, 08.09.2015, Angern‐Rogätz 
+
+Zugentgleisung, 08.09.2015, Angern-Rogätz 
 Abbildung 5: Gleisbildpult auf Stw B1 
-Wegen des besetzten Gleises 2 in Angern‐Rogätz hielt die RB 17842 zunächst zum Zwecke des 
-Fahrgastwechsels in Gleis 1 an. Nach Abschluss der Ein‐ und Aussteigevorgänge erteilte die Fdl 
-dem Tf mündlich mittels GSM‐R die Zustimmung zum Vorziehen bis zum Ausfahrsignal G. 
+Wegen des besetzten Gleises 2 in Angern-Rogätz hielt die RB 17842 zunächst zum Zwecke des 
+Fahrgastwechsels in Gleis 1 an. Nach Abschluss der Ein- und Aussteigevorgänge erteilte die Fdl 
+dem Tf mündlich mittels GSM-R die Zustimmung zum Vorziehen bis zum Ausfahrsignal G. 
 Die Fdl erteilte gemäß ihrer eigenen Aussage unmittelbar nach Abfahrt des Zuges RB 17842 
-aus Gleis 1 an die Ww auf Stw W2 die Aufforderung, die Fahrstraße a/3 aufzulösen. Die Zug‐
-fahrt hatte zu diesem Zeitpunkt die Fahrstraßen‐Zugschlussstelle, wie aus der folgenden Ab‐
-bildung ersichtlich die Spitze der Weiche S4, noch nicht passiert. 
+aus Gleis 1 an die Ww auf Stw W2 die Aufforderung, die Fahrstraße a/3 aufzulösen. Die Zugfahrt hatte zu diesem Zeitpunkt die Fahrstraßen-Zugschlussstelle, wie aus der folgenden Abbildung ersichtlich die Spitze der Weiche S4, noch nicht passiert. 
 Seite 11 von 22 
+
  
  
  
 Untersuchungsbericht 
-Zugentgleisung, 08.09.2015, Angern‐Rogätz 
+
+Zugentgleisung, 08.09.2015, Angern-Rogätz 
 Abbildung 6: Auszug aus dem Verzeichnis der Zugschlussstellen Stw B14 
 Gemäß Ril 408.0251 Abschnitt 4 darf die Einrichtung für die Fahrstraßenauflösung erst dann 
 betätigt werden, wenn 
 „… der Zug am gewöhnlichen Halteplatz - wenn im Fahrweg mehrere gewöhnliche Halteplätze liegen - am letzten gewöhnlichen Halteplatz, zum Halten gekommen oder an der 
 Fahrstraßen-Zugschlussstelle vorbeigefahren ist…“ 
-Die Vor‐Ort‐Untersuchung auf dem Stw B1 des Bf Angern‐Rogätz ergab, dass aus dieser Posi‐
-
-tion gut erkennbar war, ob aus Richtung Zielitz kommende Züge mit aktiven Schlusssignalen 
-
-die Fahrstraßen‐Zugschlussstelle an der Spitze der Weiche S4 passiert hatten oder nicht. 
+Die Vor-Ort-Untersuchung auf dem Stw B1 des Bf Angern-Rogätz ergab, dass aus dieser Position gut erkennbar war, ob aus Richtung Zielitz kommende Züge mit aktiven Schlusssignalen 
+die Fahrstraßen-Zugschlussstelle an der Spitze der Weiche S4 passiert hatten oder nicht. 
 Durch die Auflösung der Fahrstraße war es der Fdl möglich, die Weiche S3 umzustellen. 
-
 Die Fdl schloss nicht aus, dass sie die Weiche S3 kurzzeitig in Grundstellung gebracht habe, 
-
 konnte sich daran aber, ihrer eigenen Aussage zufolge, nicht mehr erinnern. 
-4 Quelle: DB Netz AG Örtliche Richtlinie für den Bf Angern‐Rogätz, bearbeitet durch BEU 
+4 Quelle: DB Netz AG Örtliche Richtlinie für den Bf Angern-Rogätz, bearbeitet durch BEU 
 Seite 12 von 22 
+
  
  
  
                                                        
 Untersuchungsbericht 
-Zugentgleisung, 08.09.2015, Angern‐Rogätz 
+
+Zugentgleisung, 08.09.2015, Angern-Rogätz 
 Als die BPol am Unfallort eintraf, war die Weiche S3, wie in der anschließenden Abbildung 
 erkennbar, für eine Fahrt in den abzweigenden Strang (Linkslage) gestellt. 
 Abbildung 7: Zugschluss RB 17842, Weiche S3 in Linkslage5 
@@ -579,116 +507,95 @@ zwei Stunden nach dem Ereignis. Die Weichen befanden sich jeweils in Linkslage f
 in den abzweigenden Strang. 
 5 Quelle: BPol 
 Seite 13 von 22 
+
  
  
  
  
                                                        
 Untersuchungsbericht 
-Zugentgleisung, 08.09.2015, Angern‐Rogätz 
+
+Zugentgleisung, 08.09.2015, Angern-Rogätz 
 Abbildung 8: Gleisbildpult, Ausschnitt Weichen S3 und S46 
 4.5.2  Handlungen	der	Ww	auf	dem	Wärterstellwerk	W2	
 Für die Einstellung und Auflösung der Fahrstraße a/3 bedurfte es der Mitwirkung der Ww auf 
 Stw W2. Sie musste gemäß der Ril 408 – Züge fahren und Rangieren – den Fahrwegprüfbezirk 
-ihres Stw auf das Freisein prüfen. Nach Feststellung des Freiseins des Fahrweges und der rich‐
-
-tigen Lage der Weichen, durfte sie die Zustimmung a/3 für die Einfahrt aus Richtung Zielitz 
-
+ihres Stw auf das Freisein prüfen. Nach Feststellung des Freiseins des Fahrweges und der richtigen Lage der Weichen, durfte sie die Zustimmung a/3 für die Einfahrt aus Richtung Zielitz 
 geben. 
 Als die Ww nach der Einfahrt des Zuges von der Fdl den Auftrag erhielt, ihr die Fahrstraße 
-aufzulösen, blockte die Ww das Fahrstraßenauflösefeld a/3 und gab damit der Fdl den Fahr‐
-straßenhebel a/3 frei. Selber legte sie ihren Fahrstraßenhebel in Grundstellung und sicherte 
-das Gleis 3 durch eine Hilfssperre. Der Zug RB 17842 hatte zu diesem Zeitpunkt die Fahrstra‐
-ßen‐Zugschlussstelle im Gleis 3, die Spitze der Weiche S4, noch nicht erreicht. Die Spitze der 
-Weiche S4 befand sich in ca. 700 m Entfernung vom Stw W2 außerhalb des Fahrwegprüfbe‐
-zirks der Ww gemäß der Örtlichen Richtlinie für den Bf Angern‐Rogätz. 
-
+aufzulösen, blockte die Ww das Fahrstraßenauflösefeld a/3 und gab damit der Fdl den Fahrstraßenhebel a/3 frei. Selber legte sie ihren Fahrstraßenhebel in Grundstellung und sicherte 
+das Gleis 3 durch eine Hilfssperre. Der Zug RB 17842 hatte zu diesem Zeitpunkt die Fahrstraßen-Zugschlussstelle im Gleis 3, die Spitze der Weiche S4, noch nicht erreicht. Die Spitze der 
+Weiche S4 befand sich in ca. 700 m Entfernung vom Stw W2 außerhalb des Fahrwegprüfbezirks der Ww gemäß der Örtlichen Richtlinie für den Bf Angern-Rogätz. 
 Das Handeln der Ww erfolgte entsprechend dem Auftrag der Fdl. Ob die Ww hätte erkennen 
-
-können wo sich der Zug zum Zeitpunkt der Auflösung befand, konnte am Folgetag nicht fest‐
-gestellt  werden.  Weitere  Untersuchungen  hinsichtlich  des  eingesetzten  Personals  auf  dem 
+können wo sich der Zug zum Zeitpunkt der Auflösung befand, konnte am Folgetag nicht festgestellt  werden.  Weitere  Untersuchungen  hinsichtlich  des  eingesetzten  Personals  auf  dem 
 Stw W2 wurden daher nicht vorgenommen. 
 6 Quelle: DB Netz AG, bearbeitet durch BEU 
 Seite 14 von 22 
+
  
  
  
                                                        
 Untersuchungsbericht 
-Zugentgleisung, 08.09.2015, Angern‐Rogätz 
+
+Zugentgleisung, 08.09.2015, Angern-Rogätz 
 4.6  Untersuchung	der	betrieblichen	Abläufe	der	EVU	
-Der Fahrtverlauf, die grafische Darstellung ist in Abbildung 9 zu sehen, zeigt keinerlei Anhalts‐
-
-punkte für betriebliche Handlungen des Tf, die ursächlich oder begünstigend für das Ereignis 
-
+Der Fahrtverlauf, die grafische Darstellung ist in Abbildung 9 zu sehen, zeigt keinerlei Anhaltspunkte für betriebliche Handlungen des Tf, die ursächlich oder begünstigend für das Ereignis 
 gewesen sein könnten. 
 Die Auswertung der elektronischen Fahrtenregistrierung erfolgte durch die ZAS Nürnberg. 
-In den Kopfdaten ist die Zugnummer fälschlicherweise mit 17837 angegeben. Der aufgezeich‐
-
-nete  Fahrtverlauf  ist  jedoch  im  Kontext  des  Ablaufes  der  Zugentgleisung  plausibel.  Daher 
-
-konnte von einer fehlerhaften bzw. vergessenen Eingabe des Tf ausgegangen und die Fahrda‐
-ten der Zugfahrt RB 17842 zugeordnet werden. 
+In den Kopfdaten ist die Zugnummer fälschlicherweise mit 17837 angegeben. Der aufgezeichnete  Fahrtverlauf  ist  jedoch  im  Kontext  des  Ablaufes  der  Zugentgleisung  plausibel.  Daher 
+konnte von einer fehlerhaften bzw. vergessenen Eingabe des Tf ausgegangen und die Fahrdaten der Zugfahrt RB 17842 zugeordnet werden. 
 Die Zugfahrt RB 17842 fuhr am 08.09.2015 nach einem Halt am Einfahrsignal A gegen 23:46:40 
-Uhr (Systemzeit) auf dem Regelgleis aus Richtung Zielitz kommend in den Bf Angern‐Rogätz 
+Uhr (Systemzeit) auf dem Regelgleis aus Richtung Zielitz kommend in den Bf Angern-Rogätz 
 ein. Da zu diesem Zeitpunkt ein Güterzug auf dem Bahnhofsgleis 2 stand, fand die Einfahrt 
-
 über die Weichen S1 und S2 nach Gleis 1 statt. Am Bahnsteig hielt der Zug planmäßig. Laut der 
-
 elektronischen Fahrtenregistrierung betrug die Standzeit ca. 28 Sekunden. 
-
 Der Tf hatte von der Fdl über Zugfunk den Auftrag erhalten, nach dem planmäßigen Halt im Bf 
-
-Angern‐Rogätz selbständig nach Gleis 3 bis zum Halt zeigenden Ausfahrsignal G vorzuziehen. 
+Angern-Rogätz selbständig nach Gleis 3 bis zum Halt zeigenden Ausfahrsignal G vorzuziehen. 
 Seite 15 von 22 
+
  
  
 Untersuchungsbericht 
-Zugentgleisung, 08.09.2015, Angern‐Rogätz 
+
+Zugentgleisung, 08.09.2015, Angern-Rogätz 
 Abbildung 9: Grafische Darstellung des Fahrtverlaufs7 
-Aus der  tabellarischen Darstellung des Fahrtverlaufs, ein Auszug ist in  Abbildung 10 darge‐
-
-stellt, ist zu erkennen, dass der Zug RB 17842 um 23:47:08 Uhr (Systemzeit) unter restriktiver 
-
-Überwachung losfuhr und innerhalb einer Zeit von ca. 10 Sekunden auf 27 km/h beschleu‐
-nigte. Danach kam es zu einer abrupten Verzögerung, die mit hoher Wahrscheinlichkeit als 
+Aus der  tabellarischen Darstellung des Fahrtverlaufs, ein Auszug ist in  Abbildung 10 dargestellt, ist zu erkennen, dass der Zug RB 17842 um 23:47:08 Uhr (Systemzeit) unter restriktiver 
+Überwachung losfuhr und innerhalb einer Zeit von ca. 10 Sekunden auf 27 km/h beschleunigte. Danach kam es zu einer abrupten Verzögerung, die mit hoher Wahrscheinlichkeit als 
 Folge der Entgleisung des zweiten Drehgestells in Weiche S3 eintrat. Laut Fahrtaufzeichnung 
-legte der Zug bis zum Stillstand innerhalb von 8 Sekunden einen Weg von ca. 35 m Länge zu‐
-rück. Um 23:47:29 Uhr kam der Zug zum Stehen. Eine Schnellbremsung leitete der Tf laut der 
-
+legte der Zug bis zum Stillstand innerhalb von 8 Sekunden einen Weg von ca. 35 m Länge zurück. Um 23:47:29 Uhr kam der Zug zum Stehen. Eine Schnellbremsung leitete der Tf laut der 
 elektronischen  Fahrtenregistrierung  nicht  ein.  Insgesamt  legte  der  Zug  nach  seiner  Abfahrt 
-
 vom Bahnsteig einen Weg von ca. 88 m zurück. 
 7 Quelle: ZAS Nürnberg, bearbeitet durch BEU 
 Seite 16 von 22 
+
  
  
  
                                                        
 Untersuchungsbericht 
-Zugentgleisung, 08.09.2015, Angern‐Rogätz 
+
+Zugentgleisung, 08.09.2015, Angern-Rogätz 
 Abbildung 10: Fahrtverlauf, tabellarische Darstellung8 
-Das Handeln der am Ereignis beteiligten Mitarbeiter des EVU hatte keinen ursächlichen Ein‐
-fluss auf die Entstehung des Unfalls. 
+Das Handeln der am Ereignis beteiligten Mitarbeiter des EVU hatte keinen ursächlichen Einfluss auf die Entstehung des Unfalls. 
 4.7  Untersuchung	von	Fahrzeugen	
-
 Der  Zug  RB  17842  bestand  aus  einer  vierteiligen  Triebzugeinheit  der  Baureihe  425  mit  der 
-
-Nummer 425 008. Die Triebzugeinheit bestand aus den Fahrzeugen mit den Fahrzeug‐Num‐
-mern 94 80 0425 008‐0/ 94 80 0435 008‐8/ 94 80 0435 508‐7/ 94 80 0425 508‐9 (führend). 
+Nummer 425 008. Die Triebzugeinheit bestand aus den Fahrzeugen mit den Fahrzeug-Nummern 94 80 0425 008-0/ 94 80 0435 008-8/ 94 80 0435 508-7/ 94 80 0425 508-9 (führend). 
 Die Abbildung 11 stellt eine Systemskizze der Triebzugeinheit dar. 
 Abbildung 11: Systemskizze Triebzugeinheit 425 0089 
 Der Halter der Triebzugeinheit war die DB Regio AG, Region Südost. 
 8 Quelle: ZAS Nürnberg, bearbeitet durch BEU 
 9 Quelle: DB Netz AG, bearbeitet durch BEU 
 Seite 17 von 22 
+
  
  
  
  
                                                        
 Untersuchungsbericht 
-Zugentgleisung, 08.09.2015, Angern‐Rogätz 
+
+Zugentgleisung, 08.09.2015, Angern-Rogätz 
 Aus der folgenden Tabelle lassen sich die technischen Fahrzeugdaten entnehmen: 
 Antriebsart 
 Kraftübertragung 
@@ -706,112 +613,86 @@ Bogenzahnkupplung
 Bo’(Bo)(2)(Bo)Bo’ 
 Zugsicherungssystem 
 PZB 
-Tabelle 2: Technische Daten Triebzugeinheit 425 008‐0 
-Der Abstand zwischen dem hinteren Radsatz des ersten Drehgestells und dem vorderen Rad‐
-satz des entgleisten zweiten Drehgestells betrug ca. 12,9 m. Der Abstand zwischen dem hin‐
-
-teren Radsatz des entgleisten Drehgestells und dem vorderen Radsatz des dritten Drehgestells 
-
+Tabelle 2: Technische Daten Triebzugeinheit 425 008-0 
+Der Abstand zwischen dem hinteren Radsatz des ersten Drehgestells und dem vorderen Radsatz des entgleisten zweiten Drehgestells betrug ca. 12,9 m. Der Abstand zwischen dem hinteren Radsatz des entgleisten Drehgestells und dem vorderen Radsatz des dritten Drehgestells 
 betrug ca. 12,8 m. 
 Als die BPol an der Unfallstelle eintraf, befand sich der Zugschluss ca. einen Meter hinter der 
 Zungenspitze der Weiche S3. Die Zugspitze stand ca. 15 Meter hinter dem Weichenende. 
-Ereignisursächliche oder ereignisbegünstigende Einflüsse durch die beteiligten Fahrzeuge wa‐
-ren nicht erkennbar. Im Rahmen der Unfalluntersuchung ergaben sich keine Anhaltspunkte, 
+Ereignisursächliche oder ereignisbegünstigende Einflüsse durch die beteiligten Fahrzeuge waren nicht erkennbar. Im Rahmen der Unfalluntersuchung ergaben sich keine Anhaltspunkte, 
 die auf einen technischen Defekt hinwiesen. Die festgestellten Schäden wurden eindeutig als 
 Folge der Entgleisung identifiziert. Eine weitergehende Untersuchung der Fahrzeuge erfolgte 
 daher nicht. 
 Seite 18 von 22 
+
  
  
  
  
 Untersuchungsbericht 
-Zugentgleisung, 08.09.2015, Angern‐Rogätz 
+
+Zugentgleisung, 08.09.2015, Angern-Rogätz 
 5  Auswertung	
-Das Kapitel 5 Auswertung befasst sich mit der Ereignisrekonstruktion. Anhand der oben ge‐
-nannten Feststellungen wird ein plausibler Ablauf des gefährlichen Ereignisses zusammenge‐
-tragen. Relevante Erkenntnisse werden anschließend bewertet und führen ggf. zu entspre‐
-chenden Schlussfolgerungen. 
+Das Kapitel 5 Auswertung befasst sich mit der Ereignisrekonstruktion. Anhand der oben genannten Feststellungen wird ein plausibler Ablauf des gefährlichen Ereignisses zusammengetragen. Relevante Erkenntnisse werden anschließend bewertet und führen ggf. zu entsprechenden Schlussfolgerungen. 
 5.1  Ereignisrekonstruktion	
-Am  08.09.2015  galten  für  den  Bf  Angern‐Rogätz  zusätzlich  die  Regelungen  der  Betra  Nr. 
-F 450900 15. Aufgrund dieser Betra war das Richtungsgleis Tangerhütte – Angern‐Rogätz zur 
-Unfallzeit gesperrt und Züge von Tangerhütte in Richtung Angern‐Rogätz verkehrten im Ge‐
-gengleis. 
+Am  08.09.2015  galten  für  den  Bf  Angern-Rogätz  zusätzlich  die  Regelungen  der  Betra  Nr. 
+F 450900 15. Aufgrund dieser Betra war das Richtungsgleis Tangerhütte – Angern-Rogätz zur 
+Unfallzeit gesperrt und Züge von Tangerhütte in Richtung Angern-Rogätz verkehrten im Gegengleis. 
 Der verspätete Zug RB 17839 aus Richtung Tangerhütte wartete im Gegengleis vor dem Halt 
 zeigenden Einfahrsignal Hl auf seine Einfahrt über die Weichen 22 und 21 nach Gleis 1 im Bf 
-Angern‐Rogätz. Gleichzeitig besetzte ein Güterzug, der vor dem Halt zeigenden Ausfahrsignal 
-F stand, das Gleis 2 im Bf Angern‐Rogätz. 
-
+Angern-Rogätz. Gleichzeitig besetzte ein Güterzug, der vor dem Halt zeigenden Ausfahrsignal 
+F stand, das Gleis 2 im Bf Angern-Rogätz. 
 Die Zugfahrt RB 17842 bekam aufgrund dieser Situation am Einfahrsignal A zunächst das Signal 
-
 Hp 0. Abweichend vom Fahrplan für Zugmeldestellen sollte der Zug nach Gleis 3 fahren und 
-zwischenzeitlich seinen planmäßigen Halt mit Aus‐ und Einsteigevorgängen am Bahnsteig in 
+zwischenzeitlich seinen planmäßigen Halt mit Aus- und Einsteigevorgängen am Bahnsteig in 
 Gleis 1 durchführen. Anschließend sollte er weiter über die Weichen S3 und S4 nach Gleis 3 
 zum Ausfahrsignal G vorziehen. 
 Die Fdl auf dem Stw B1 stellte daher die Fahrstraße a/3 für die RB 17842 ein nachdem die Ww 
-
-dieser Fahrt in ihren Stellwerksbezirk mittels Zustimmungsabgabe zugestimmt hatte. Die Fahr‐
-
-straße führte über die Weichen S1 und S2 nach Gleis 1 und weiter über die Weichen S3 und 
+dieser Fahrt in ihren Stellwerksbezirk mittels Zustimmungsabgabe zugestimmt hatte. Die Fahrstraße führte über die Weichen S1 und S2 nach Gleis 1 und weiter über die Weichen S3 und 
 S4 nach Gleis 3 bis zum Ausfahrsignal G. Hier sollte die Zugkreuzung mit dem Gegenzug RB 
 17839 erfolgen. 
-Dieser sollte über die Weichen 22 und 21 nach Gleis 1 in den Bf Angern‐Rogätz fahren, dort 
+Dieser sollte über die Weichen 22 und 21 nach Gleis 1 in den Bf Angern-Rogätz fahren, dort 
 seinen planmäßigen Halt durchführen, und anschließend auf dem Regelgleis in Richtung Zielitz 
 ausfahren. 
 Nach dem planmäßigen Halt erteilte die Fdl dem Zug RB 17842 den mündlichen Auftrag zum 
 Ausfahrsignal G vorzuziehen. Die Fdl forderte die Ww auf, die Fahrstraße a/3 aufzulösen. Nach 
 Seite 19 von 22 
+
  
  
 Untersuchungsbericht 
-Zugentgleisung, 08.09.2015, Angern‐Rogätz 
-dem Bedienen der Fahrstraßenauflösung durch die Ww, konnte die Fdl ihren Fahrstraßenhe‐
-bel wieder in Grundstellung bringen. 
+
+Zugentgleisung, 08.09.2015, Angern-Rogätz 
+dem Bedienen der Fahrstraßenauflösung durch die Ww, konnte die Fdl ihren Fahrstraßenhebel wieder in Grundstellung bringen. 
 Durch die Fahrstraßenauflösung und die anschließende Grundstellung des Fahrstraßenhebels 
 war es der Fdl möglich, die Weiche S3 umzustellen und in die Rechtslage zu bringen. 
 Der Weichenumlauf begann, nachdem das erste Drehgestell der Triebzugeinheit die Spitze der 
-
 Weiche S3 in Linkslage passiert hatte. Das zweite Drehgestell der Triebzugeinheit befuhr die 
-
 Weiche während diese umlief und fuhr daher zweispurig. Danach stellte die Fdl die Weiche 
-wieder in die Linkslage zurück. Die nachfahrenden drei Drehgestelle fuhren wieder in den ab‐
-zweigenden Strang der Weiche ohne zu entgleisen. 
+wieder in die Linkslage zurück. Die nachfahrenden drei Drehgestelle fuhren wieder in den abzweigenden Strang der Weiche ohne zu entgleisen. 
 5.2  Bewertung	und	Schlussfolgerung	
-Die Ursache für die Entgleisung war eine betriebliche Fehlhandlung. Die Fdl erteilte den Auf‐
-trag zur Fahrstraßenauflösung an die Ww zu früh. Die eingestellte und festgelegte Fahrstraße 
-a/3 für die Zugfahrt wurde dadurch entgegen den Regelungen der Ril 408.0251 aufgelöst, be‐
-vor der Zug an der Fahrstraßen‐Zugschlussstelle, der Spitze der Weiche S4 im Gleis 3, vorbei‐
-gefahren war. Deshalb war es für die Fdl möglich, die Weiche S3 umzustellen, während diese 
+Die Ursache für die Entgleisung war eine betriebliche Fehlhandlung. Die Fdl erteilte den Auftrag zur Fahrstraßenauflösung an die Ww zu früh. Die eingestellte und festgelegte Fahrstraße 
+a/3 für die Zugfahrt wurde dadurch entgegen den Regelungen der Ril 408.0251 aufgelöst, bevor der Zug an der Fahrstraßen-Zugschlussstelle, der Spitze der Weiche S4 im Gleis 3, vorbeigefahren war. Deshalb war es für die Fdl möglich, die Weiche S3 umzustellen, während diese 
 durch den Zug befahren wurde. 
-Laut Fahrtverlauf hatte der Zug nach seinem Betriebshalt am Bahnsteig ca. 88 Meter zurück‐
-gelegt bevor er ereignisbedingt zum Halt kam. 
-Um die Fahrstraßen‐Zugschlussstelle, die Spitze der Weiche S4, zu passieren, hätte der Zug 
+Laut Fahrtverlauf hatte der Zug nach seinem Betriebshalt am Bahnsteig ca. 88 Meter zurückgelegt bevor er ereignisbedingt zum Halt kam. 
+Um die Fahrstraßen-Zugschlussstelle, die Spitze der Weiche S4, zu passieren, hätte der Zug 
 von seinem Halteplatz am Bahnsteig ca. 175 m zurücklegen müssen. Für diese Strecke hätte 
-
 er mindestens 25 Sekunden benötigt. Die Fdl hatte die Fahrstraße bereits früher aufgelöst. 
-
 Das erste Drehgestell der Triebzugeinheit erreichte die Weichenspitze ca. sieben Sekunden 
 nachdem der Zug losgefahren war. Aufgrund fehlender Anschlagspuren an der Zungenspitze 
-ist davon auszugehen, dass die rechte Weichenzunge zu diesem Zeitpunkt noch an der Ba‐
-ckenschiene anlag. 
-
+ist davon auszugehen, dass die rechte Weichenzunge zu diesem Zeitpunkt noch an der Backenschiene anlag. 
 Das zweite Drehgestell fuhr bereits zweigleisig und entgleiste anschließend. Aufkletterspuren 
-
 oder Anschlagspuren waren an beiden Zungenspitzen nicht erkennbar. Diese Tatsache lässt 
-
 darauf schließen, dass sich beide Zungen der Weiche in Mittelposition befanden und die Räder 
-
 des zweiten Drehgestells nicht berührten. 
 Seite 20 von 22 
+
  
  
 Untersuchungsbericht 
-Zugentgleisung, 08.09.2015, Angern‐Rogätz 
+
+Zugentgleisung, 08.09.2015, Angern-Rogätz 
 Die Drehgestelle drei, vier und fünf befuhren die Weiche dann wieder in Linkslage ohne zu 
-
-entgleisen. Die Weiche muss sich also wieder in Linkslage befunden haben, als das dritte Dreh‐
-
-gestell die Zungenspitzen passierte. 
+entgleisen. Die Weiche muss sich also wieder in Linkslage befunden haben, als das dritte Drehgestell die Zungenspitzen passierte. 
 Diese Abfolge lässt darauf schließen, dass die Fdl die Weiche S3 nach Abfahrt des Zuges in die 
 Rechtslage  umstellte,  die  Bewegung  der  anliegenden  Zunge  jedoch  noch  nicht  begonnen 
 hatte, als das erste Drehgestell der Triebzugeinheit die Zungenspitze erreichte. 
@@ -819,33 +700,27 @@ Als das zweite Drehgestell die Weiche danach befuhr, befand sich die Weiche mitt
 Umlaufphase. 
 Die Fdl brach den Umstellvorgang kurz darauf ab und stellte die Weiche zurück in die Linkslage. 
 Seite 21 von 22 
+
  
  
  
  
 Untersuchungsbericht 
-Zugentgleisung, 08.09.2015, Angern‐Rogätz 
+
+Zugentgleisung, 08.09.2015, Angern-Rogätz 
 6  Bisher	getroffene	Maßnahmen	
-
 Durch den Bereich Betrieb der Produktionsdurchführung Magdeburg wurde eine schriftliche 
-
-Weisung  an  alle  Mitarbeiter  auf  den  Betriebsstellen  im  Zuständigkeitsbereich  erteilt  (Maß‐
-
-nahme zur Stabilisierung der Betriebssicherheit). Die Mitarbeiterinnen und Mitarbeiter wur‐
-den über das gefährliche Ereignis informiert und auf die aufmerksame und konzentrierte Ar‐
-beitsweise auf der Grundlage der vorgegebenen Regelwerke zur Gewährleistung der Betriebs‐
-sicherheit hingewiesen. 
+Weisung  an  alle  Mitarbeiter  auf  den  Betriebsstellen  im  Zuständigkeitsbereich  erteilt  (Maßnahme zur Stabilisierung der Betriebssicherheit). Die Mitarbeiterinnen und Mitarbeiter wurden über das gefährliche Ereignis informiert und auf die aufmerksame und konzentrierte Arbeitsweise auf der Grundlage der vorgegebenen Regelwerke zur Gewährleistung der Betriebssicherheit hingewiesen. 
 Das gefährliche Ereignis wurde kurzfristig mit der Verursacherin vollumfänglich ausgewertet 
 und arbeitsrechtlich geahndet. Der Mitarbeiterin wurde befristet die Einsatzerlaubnis für die 
 Tätigkeit als Fdl entzogen. Vor dem Wiedereinsatz wurde die Eignung neu geprüft. 
-Durch den Bezirksleiter Betrieb wurde das Ereignis im Rahmen der Betriebskontrollen mit al‐
-len auf dem Stw B1 im Bf Angern‐Rogätz eingesetzten Fdl ausgewertet. 
+Durch den Bezirksleiter Betrieb wurde das Ereignis im Rahmen der Betriebskontrollen mit allen auf dem Stw B1 im Bf Angern-Rogätz eingesetzten Fdl ausgewertet. 
 Im Rahmen des regelmäßigen Fortbildungsunterrichts wurden mit allen Fdl, die im Bereich 
-des Bf Angern‐Rogätz und der benachbarten Betriebsstellen zum Einsatz kamen, Lehrgesprä‐
-che zur Fahrwegsicherung und Fahrstraßenauflösung geführt. 
+des Bf Angern-Rogätz und der benachbarten Betriebsstellen zum Einsatz kamen, Lehrgespräche zur Fahrwegsicherung und Fahrstraßenauflösung geführt. 
 7  Sicherheitsempfehlungen	
 Es wurden keine Sicherheitsempfehlungen ausgesprochen. 
 Seite 22 von 22 
+
  
  
 

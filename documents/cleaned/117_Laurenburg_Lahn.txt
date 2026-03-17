@@ -36,12 +36,16 @@ Laurenburg (Lahn)
  
  
  
+
  
 Untersuchungsbericht
 
+
 Fahrzeugbrand, 28.09.2014, Laurenburg (Lahn)
 
+
 Veröffentlicht durch:  
+
 Bundesstelle für Eisenbahnunfalluntersuchung  
 Heinemannstraße 6  
 53175 Bonn  
@@ -62,12 +66,16 @@ Seite 2 von 21
  
  
  
+
  
 Untersuchungsbericht
 
+
 Fahrzeugbrand, 28.09.2014, Laurenburg (Lahn)
 
+
 Inhaltsverzeichnis: 
+
 Seite 
 1 
 1.1 
@@ -90,7 +98,6 @@ Seite
 4.5.1 
 4.5.2 
 4.5.3 
-
 Zusammenfassung ............................................................................................6
 
 
@@ -138,6 +145,7 @@ Untersuchung der Infrastruktur .................................................
 
 Untersuchung der Leit- und Sicherungstechnik..................................................10
 
+
 Untersuchung der betrieblichen Handlungen .....................................................10
 
 
@@ -146,12 +154,17 @@ Untersuchung von Fahrzeugen ....................................................
 
 Allgemeine Angaben zum Dieseltriebwagen ......................................................10
 
+
 Untersuchung des Drehgestells und des betreffenden Radlagers......................11
+
 
 Demontage des defekten Radlagers im Werk Limburg (Lahn)...........................11
 
+
 4.5.4 
+
 Revisionsunterlagen Drehgestell und Radlager..................................................18
+
 
 4.5.5 
 
@@ -164,6 +177,7 @@ Interpretation der Unfallspuren.................................................
 
 
 5 
+
 6 
 Auswertung und Schlussfolgerungen............................................................19
 
@@ -172,79 +186,13 @@ Bisher getroffene Maßnahmen....................................................
 
 
 Seite 3 von 21 
- 
- 
- 
- 
- 
- 
- 
- 
-         
- 
- 
- 
- 
- 
-   
- 
- 
-   
- 
-   
- 
- 
- 
-   
- 
- 
-   
- 
-   
-   
- 
- 
-   
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
  
 Untersuchungsbericht
 
+
 Fahrzeugbrand, 28.09.2014, Laurenburg (Lahn)
+
 
 Abbildungsverzeichnis: 
 
@@ -294,6 +242,7 @@ Abb. 15: Gültigkeit Montageanleitung...........................................
 
 
 Änderungsverzeichnis 
+
 Änderung 
 Stand 
 Seite 4 von 21 
@@ -342,8 +291,10 @@ Seite 4 von 21
  
  
  
+
  
 Untersuchungsbericht 
+
 Fahrzeugbrand, 28.09.2014, Laurenburg (Lahn)  
 Abkürzungsverzeichnis 
 AEG 
@@ -391,12 +342,16 @@ Seite 5 von 21
    
  
  
+
  
 Untersuchungsbericht
 
+
 Fahrzeugbrand, 28.09.2014, Laurenburg (Lahn)
 
+
 1 
+
 Zusammenfassung 
 1.1 
       Kurzbeschreibung des Ereignisses 
@@ -483,20 +438,19 @@ Seite 6 von 21
  
 Untersuchungsbericht
 
+
 Fahrzeugbrand, 28.09.2014, Laurenburg (Lahn)
 
+
 2  
+
 Vorbemerkungen  
 2.1 
       Organisatorischer Hinweis 
 Mit  der Richtlinie  2004/49/EG  zur Eisenbahnsicherheit  in der  Gemeinschaft (Eisenbahnsicherheitsrichtlinie) wurden  die  Mitgliedstaaten  der Europäischen  Union verpflichtet,  unabhängige Untersuchungsstellen  für die Untersuchung bestimmter gefährlicher Ereignisse einzurichten.  
-
 Diese   Richtlinie  wurde  mit   dem   5.  Gesetz   zur  Änderung   eisenbahnrechtlicher   Vorschriften  
-
 vom 16.04.2007  umgesetzt  und die Eisenbahnunfalluntersuchungsstelle des Bundes (EUB)  
-
 eingerichtet.   Die  weitere  Umsetzung   der   Sicherheitsrichtlinie  erfolgte  durch  die  Eisenbahn-
-
 Unfalluntersuchungsverordnung  (EUV)  vom 05.07.2007.  
 Mit dem Gesetz zur Neuordnung der Eisenbahnunfalluntersuchung vom 27.06.2017 wurden 
 die rechtlichen Grundlagen zur Errichtung der Bundesstelle für Eisenbahnunfalluntersuchung 
@@ -509,9 +463,7 @@ Die  Aufgaben   zur  Untersuchung   bestimmter  gefährlicher   Ereignisse  im  
 gingen  dabei  nahtlos von  der  EUB au 
 f  die BEU  über.  
 Da das vorliegende  Ereignis vor dem  Tag  der  Errichtung  der  BEU  am 14.07.2017  lag,  wurden Aufgaben,  wie die Untersuchung  vor Ort,  durch die EUB  durchgeführt.  Andere Arbeiten,  
-
 wie  bspw.   die  Erstellung   dieses  Untersuchungsberichts,   erfolgten   nach  der   Errichtung   und 
-
 wurden deshalb von  der  BEU  übernommen.  Aus diesem  Grund wird im  vorliegenden Bericht  
 sowohl  die Bezeichnung  „EUB“  als auch „BEU“  verwendet.   
 Näheres hierzu ist im  Internet  unter >>  www.beu.bund.de  <<  zu finden.  
@@ -565,22 +517,17 @@ Seite 7 von 21
  
 Untersuchungsbericht
 
+
 Fahrzeugbrand, 28.09.2014, Laurenburg (Lahn)
 
+
  2.2 
+
       Ziel der Eisenbahn-Unfalluntersuchung 
 Ziel  und Zweck  der  Untersuchungen  ist  es, die  Ursachen  von  gefährlichen Ereignissen  aufzuklären und daraus Hinweise zur Verbesserung  der  Sicherheit  abzuleiten.  Untersuchungen  
-
 der   BEU   dienen   nicht  dazu,  ein  Verschulden  festzustellen   oder  Fragen   der   Haftung   oder 
-
-sonstiger  zivilrechtlicher   Ansprüche  zu  klären,   und  werden  unabhängig   von   jeder  gerichtli-
-
-chen Untersuchung  durchgeführt.   
-Die  Untersuchung   umfasst  die  Sammlung   und  Auswertung   von   Informationen,  die  Erarbeitung  von  Schlussfolgerungen  einschließlich der  Feststellung  der  Ursachen  und ggf.  die Abgabe  von   Sicherheitsempfehlungen.   Die  Vorschläge  der   Untersuchungsstelle  zur  Vermei-
-
-dung   von   Unfällen   und  Verbesserung   der   Sicherheit   im   Eisenbahnverkehr   werden  der   Si-
-
-cherheitsbehörde   und,  soweit   erforderlich,  anderen   Stellen   und  Behörden  oder  Mitglied
+sonstiger  zivilrechtlicher   Ansprüche  zu  klären,   und  werden  unabhängig   von   jeder  gerichtlichen Untersuchung  durchgeführt.   
+Die  Untersuchung   umfasst  die  Sammlung   und  Auswertung   von   Informationen,  die  Erarbeitung  von  Schlussfolgerungen  einschließlich der  Feststellung  der  Ursachen  und ggf.  die Abgabe  von   Sicherheitsempfehlungen.   Die  Vorschläge  der   Untersuchungsstelle  zur  Vermeidung   von   Unfällen   und  Verbesserung   der   Sicherheit   im   Eisenbahnverkehr   werden  der   Sicherheitsbehörde   und,  soweit   erforderlich,  anderen   Stellen   und  Behörden  oder  Mitglied
 -
 staaten  der  EU  in Form  von  Sicherheitsempfehlungen  mitgeteilt.  
 2.3 
@@ -594,18 +541,12 @@ Ereignis
  3.1 
       Hergang 
 Am   28.09.2014   war  der   Triebwagen   VT   251  (Fahrzeugregisternummer  95  80  0648151-8)  
-
 der   Vectus  Verkehrsgesellschaft   mbH   als  Zugfahrt   DPN   25582  (Limburg   (Lahn)   –   Koblenz  
-
 Hbf)  im  Einsatz.  Beim  Verkehrshalt  in Laurenburg  (Lahn)  (VzG-Strecke 3710  Wetzlar –  Koblenz  Hbf)  wurde wegen  der  Lage im  Bogen  die Überprüfung  der Abfahrbereitschaft  durch die 
 diensthabende Blockwärterin  unterstützt.  Dabei  beobachtete  sie  eine  Rauchentwicklung  am 
 ersten  Drehgestell  und informierte den Triebfahrzeugführer (Tf).  
-
 Bei   der   näheren   Untersuchung   der   Rauchentwicklung   wurden  offene  Flammen   unter  dem  
-
-Zug   festgestellt   und  umgehend  mit   dem   in  der   Blockstelle  vorhandenen   Feuerlöscher  be-
-
-kämpft.  Die Reisenden wurden evakuiert.  
+Zug   festgestellt   und  umgehend  mit   dem   in  der   Blockstelle  vorhandenen   Feuerlöscher  bekämpft.  Die Reisenden wurden evakuiert.  
 Seite 8 von 21 
  
  
@@ -623,9 +564,12 @@ Seite 8 von 21
  
 Untersuchungsbericht
 
+
 Fahrzeugbrand, 28.09.2014, Laurenburg (Lahn)
 
+
 Das  Drehgestell  war  durch  den  Schaden  blockiert,  eine  Weiterfahrt  des  Fahrzeugs  daher 
+
 nicht möglich. Der Triebwagen konnte erst am Folgetag nach Anbringen eines Hilfsdrehgestells aus eigener Kraft (zweiter Powerblock) in die Werkstatt nach Limburg (Lahn) fahren. 
 Der Lageplan stellt den Unfallort im Streckenband dar. 
 Abb. 1: Lageplan 
@@ -702,17 +646,15 @@ Seite 9 von 21
  
 Untersuchungsbericht
 
+
 Fahrzeugbrand, 28.09.2014, Laurenburg (Lahn)
+
 
 Brand- und Katastrophenschutzgesetze der  Länder.  Das Notfallmanagement  der  DB  AG  ist  
 
-in der  Richtlinie (Ril)  123 mit  Präzisierung  für die DB  Netz  AG  in der  Ril  423 näher  beschrie-
-
-ben und geregelt.  
+in der  Richtlinie (Ril)  123 mit  Präzisierung  für die DB  Netz  AG  in der  Ril  423 näher  beschrieben und geregelt.  
 Da bei   diesem   Ereignis  weder  Personen   geschädigt   wurden noch die Umwelt  gefährdende 
-
 Stoffe austraten,  war ein dringender  Einsatz  von  Rettungskräften  nicht erforderlich. Auf  eine  
-
 Untersuchung  der  Handlungen  im  Zusammenhang  mit  dem  Notfallmanagement  wurde deshalb verzichtet.  
 4.2 
       Untersuchung der Infrastruktur 
@@ -728,8 +670,10 @@ Die Leit- und Sicherungstechnik hat keine Bedeutung für diesen fahrzeugtechnisc
 den. Auf tiefgreifende Untersuchungen der LST-Anlagen wurde deshalb verzichtet.  
 4.4 
       Untersuchung der betrieblichen Handlungen 
+
 Die betrieblichen Handlungen des Triebfahrzeugführers oder anderer an der Zugfahrt Betei
 -
+
 ligter wurden nicht weiter untersucht, da sie nach derzeitigem Erkenntnisstand ohne Einfluss 
 auf den fahrzeugtechnischen Schaden sind.  
  4.5 
@@ -737,13 +681,8 @@ Untersuchung von Fahrzeugen
 4.5.1  
 Allgemeine Angaben zum Dieseltriebwagen  
 Der Dieseltriebwagen  LINT41  der  Baureihe  648 besteht  aus zwei  Wagenhälften,  die sich in 
-
 der   Fahrzeugmitte  auf   ein  Jakobs-Drehgestell   stützen.   Angetrieben   werden  sie  von   zwei   
-
-315   kW   leistenden  Dieselmotoren,   die  jeweils  zwischen  den  Drehgestellen   unterflur  einge-
-
-baut  sind   und  von   dort   die  Achsen  des  End-  Drehgestells  über  Kardanwellen   und Achsge-
-
+315   kW   leistenden  Dieselmotoren,   die  jeweils  zwischen  den  Drehgestellen   unterflur  eingebaut  sind   und  von   dort   die  Achsen  des  End-  Drehgestells  über  Kardanwellen   und Achsge-
 Seite 10 von 21 
  
  
@@ -775,6 +714,7 @@ Seite 10 von 21
  
  
 Untersuchungsbericht
+
 
 Fahrzeugbrand, 28.09.2014, Laurenburg (Lahn)
 
@@ -823,21 +763,29 @@ Seite 11 von 21
  
  
  
+
  
 Untersuchungsbericht
 
+
 Fahrzeugbrand, 28.09.2014, Laurenburg (Lahn)
+
 
 Abb. 3: schadhaftes Radlager
 
-Nach  der  Demontage  des  Radsatzlagerdeckels  wurde  ersichtlich,  dass  das  Lager  beschädigt war.
+
+Nach  der  Demontage  des  Radsatzlagerdeckels  wurde  ersichtlich,  dass  das  Lager  beschä-
+
+digt war.
 
 
 Die  Abbildung  4  zeigt  das  geöffnete  Radsatzlager.  Der  Lager-Innenring  ist  auf  der  Welle 
 
 nach außen verschoben.
 
+
 Abb. 4: schadhaftes Radlager geöffnet 
+
 Seite 12 von 21 
  
  
@@ -857,12 +805,16 @@ Seite 12 von 21
  
  
  
+
  
 Untersuchungsbericht
 
+
 Fahrzeugbrand, 28.09.2014, Laurenburg (Lahn)
 
+
 In der Abbildung 5 ist der Radlagerdeckel mit der sich abgelösten Druckkappe zu erkennen. 
+
 Abb. 5: Innenansicht Lagerdeckel 
 Nach Öffnen des Radlagerdeckels wurde festgestellt, dass alle vier Befestigungsschrauben 
 der Druckkappe aus ihren Gewinden gelöst waren. Die Schraubenköpfe wiesen Deformationen auf, die entstanden sind, als sie sich nach dem Lösen aus den Gewinden in den Lagerdeckel gefräst haben. Im Lagerdeckel ist eine eingefräste Nut in Verlängerung der Schrauben sichtbar, die im unbeschädigten Deckel nicht vorhanden ist. Drei Schrauben waren vollständig  herausgelöst,  die  vierte  bereits  vollständig  aus  dem  Gewinde  gelöste  Schraube 
@@ -919,6 +871,7 @@ Seite 13 von 21
   
 Untersuchungsbericht
 
+
 Fahrzeugbrand, 28.09.2014, Laurenburg (Lahn)
 
 
@@ -928,7 +881,9 @@ Schrauben sichtbar.
 Abb. 7: Innenansicht 2  
 Dies sind die beschädigten und gereinigten Befestigungsschrauben der Druckkappe.
 
+
 Abb. 8:  Befestigungsschrauben 
+
 Seite 14 von 21 
  
  
@@ -949,16 +904,22 @@ Seite 14 von 21
  
  
  
+
  
 Untersuchungsbericht
 
+
 Fahrzeugbrand, 28.09.2014, Laurenburg (Lahn)
 
+
 Die folgende Abbildung zeigt die beschädigte und gereinigte Druckkappe. 
+
 Abb. 9: Druckkappe  
 Zu sehen ist auf der Abbildung 10 der stark deformierte Abstandring (gereinigt)
 
+
 Abb. 10: Abstandring 
+
 Seite 15 von 21 
  
  
@@ -979,17 +940,23 @@ Seite 15 von 21
  
  
  
+
   
 Untersuchungsbericht
 
+
 Fahrzeugbrand, 28.09.2014, Laurenburg (Lahn)
 
+
 Unten abgebildet ist die beschädigte Druckkappe mit den von losen Schrauben verursachten 
+
 Riefen zu sehen. 
 Abb. 11: Druckkappe  
 Nach dem Öffnen des Rollenlagers wurden die aus Abbildung 12 ersichtlichen Schäden.
 
+
 Abb. 12:  Rollenlager 
+
 Seite 16 von 21 
  
  
@@ -1014,15 +981,16 @@ Seite 16 von 21
  
 Untersuchungsbericht
 
+
 Fahrzeugbrand, 28.09.2014, Laurenburg (Lahn)
 
-Durch  das  Blockieren  der  Lagerrollen  wurde  auch  die  Laufbahn  der  Radsatzwelle  beschädigt. 
+
+Durch  das  Blockieren  der  Lagerrollen  wurde  auch  die  Laufbahn  der  Radsatzwelle  beschä-
+
+digt. 
 Abb. 13: Radsatzwelle 
 Eine   Messung   der   Anzugdrehmomente  an   den  Druckkappenschrauben  des  linken   Lagers 
-
-der   Schadachse   ergaben   Anzugs-Drehmomente  von   60,   60,   70   und  80   N/m.   Eine   Ver-
-
-gleichsmessung  an  einem  dritten  Radsatzlager lieferte Werte von  80,  90,  90  und 110 N/m.  
+der   Schadachse   ergaben   Anzugs-Drehmomente  von   60,   60,   70   und  80   N/m.   Eine   Vergleichsmessung  an  einem  dritten  Radsatzlager lieferte Werte von  80,  90,  90  und 110 N/m.  
 Der ab  Werk  geforderte Wert  für das Anzugs-Drehmoment  beträgt  120 N/m.  
 Trotz  der  zu geringen  Anzugs-Drehmomente am zweiten  Lager der  Schadachse  zeigten  die 
 Lackmarkierungen  an  den Schrauben  keine  Verdrehung.  
@@ -1045,9 +1013,12 @@ Seite 17 von 21
  
 Untersuchungsbericht
 
+
 Fahrzeugbrand, 28.09.2014, Laurenburg (Lahn)
 
+
 Abb. 14: Druckkappenschrauben 
+
 4.5.4  
 Revisionsunterlagen Drehgestell und Radlager  
 Durch das DB-Werk  Kassel,  das die Instandhaltungsarbeiten  an  den Drehgestellen  durchgeführt  hat,  wurden die Arbeitsprotokolle zur Verfügung  gestellt.  
@@ -1056,9 +1027,7 @@ Anziehen  mit  zunächst  75  N/m  und anschließend mit  120 N/m  durchgeführt
 4.5.5  
 Radlager-Montageanleitung FAG  
 Die in den Triebwagen  der  Baureihe  648 verbauten Radlager der  Firma FAG  sind  nach der  
-
 zum  Zeitpunkt   der   Revision   des  VT   251  gültigen   Montageanleitung,   Ausgabe  2001   vom 
-
 22.02.2000,  eingebaut  worden.  
 Abb. 15: Gültigkeit Montageanleitung
 Die auf der Radsatzwelle zu montierenden Elemente werden vorgewärmt dabei in folgender 
@@ -1082,21 +1051,18 @@ Seite 18 von 21
  
 Untersuchungsbericht
 
+
 Fahrzeugbrand, 28.09.2014, Laurenburg (Lahn)
 
 
 Zunächst   wird  der   Labyrinthring   satt   an   die  Schulter  der   Achswelle  gedrückt,   nach  dessen  
 
 Abkühlung   werden  die  beiden  Lamellenringe  montiert.   Anschließend  werden  der   innere  Innenring,  der  Zwischenring  und der  äußere Innenring  mit  schraubenden  Bewegungen  auf  die 
-
 Welle  montiert.   Nach   Abkühlung   können  die  Elemente  nur   noch  mit   großem  Kraftaufwand 
-
 bewegt  werden. Daher sollen  die Teile rechtzeitig  mittels Hammerschlägen  auf  eine  Schlagkappe  soweit  zusammengedrückt  werden, dass die Abstände  untereinander unter 0,03 mm  
 liegen.  
 Die Druckkappe  wird erst  zum Schluss  nach vollständiger Montage des gesamten  Radlagers 
-
 auf   den  Wellenkopf   aufgeschraubt  und  hindert   so  die  Innenschalen   am  Verschieben   nach 
-
 außen.  
 4.6 
       Interpretation der Unfallspuren 
@@ -1106,26 +1072,16 @@ de  möglich,  da  die  Schrauben  offensichtlich  zu  geringe  Anzugs-Drehmomen
 wie diese auch an den beiden ergänzend überprüften Lagern festgestellt wurden.  
 Aufgrund der  Untersuchungsergebnisse ist  davon  auszugehen,  dass es sich um einen Montagefehler  beim   Zusammenbauen der  Lager im  Rahmen  der  Revision  handelt  (verminderte  
 Vorspannung  der  Druckkappe  durch Nachsetzung  der  Lagerinnenschalen).  
-
-Vermutlich  waren  die  Innenschalen   nicht  weit   genug   auf   die  Radsatzwelle  nach  innen   ge-
-
-presst,   sodass  sich  die  Druckkappe   auf   die  zu  weit   herausstehenden   Innenschalen   abge-
-
-stützt   hat.   Dadurch  wurde   die  Vorspannung   der   Befestigungsschrauben  der   Druckkappe  
+Vermutlich  waren  die  Innenschalen   nicht  weit   genug   auf   die  Radsatzwelle  nach  innen   gepresst,   sodass  sich  die  Druckkappe   auf   die  zu  weit   herausstehenden   Innenschalen   abgestützt   hat.   Dadurch  wurde   die  Vorspannung   der   Befestigungsschrauben  der   Druckkappe  
 nicht  aufrechterhalten,  sodass sie  sich nach dem  Setzen  des Innenrings lösen konnten.  
 5  
 Auswertung  und  Schlussfolgerungen  
-
 Ausgelöst  wurde  der   vorliegende   Lagerschaden   offenbar   durch   einen  Montagefehler  beim  
-
 Zusammenbauen  der   Lager  im   Rahmen   der   Revision   (unzureichende  Vorspannung   der  
 Schrauben   der   Druckkappe).   Vermutlich waren die Innenschalen   des  Lagers  nicht weit  genug  auf  die Radsatzwelle nach innen  gepresst,  sodass sich die Druckkappe  auf  die zu weit  
 herausstehenden Innenschalen  abgestützt  hat.  Dadurch wurde die Druckkappe  nicht bündig  
 mit  dem  Wellenkopf  verschraubt.  Durch das Nachsetzen  der  Lagerinnenschalen  in die korrekte Position  konnte sich in der  Folge die Druckkappe  längs der  Schrauben  bewegen  und 
-die Schrauben verloren  so die ursprünglich korrekte  Vorspannung.  Aufgrund der  verminder-
-
-ten   Vorspannung   war  es  in  der   Folge  möglich,  dass  sich  die  Schrauben  der   Druckkappe  
-
+die Schrauben verloren  so die ursprünglich korrekte  Vorspannung.  Aufgrund der  verminderten   Vorspannung   war  es  in  der   Folge  möglich,  dass  sich  die  Schrauben  der   Druckkappe  
 Seite 19 von 21 
  
  
@@ -1145,9 +1101,13 @@ Seite 19 von 21
  
 Untersuchungsbericht
 
+
 Fahrzeugbrand, 28.09.2014, Laurenburg (Lahn)
 
-vollständig aus den Schraubenlöchern des Wellenkopfes lösen konnten. Durch den nun fehlenden  Anschlag  konnten  sich  die  Lagerinnenschalen  in  der  Folge  nach  außen  bewegen 
+
+vollständig aus den Schraubenlöchern des Wellenkopfes lösen konnten. Durch den nun feh-
+
+lenden  Anschlag  konnten  sich  die  Lagerinnenschalen  in  der  Folge  nach  außen  bewegen 
 (vgl. Abb.4), was zu weiteren Schäden an den Wälzkörpern des Lagers führte. 
 Derartige  Montagefehler  sind dem  Fahrzeughersteller  ALSTOM seit  2012 bekannt,  woraufhin  die  Flotte  der  LINT41-Unterbaureihen  648.3  und  648.4  werksseitig  überprüft  und  entsprechende  Hinweise  an  andere  Instandhaltungsbetriebe  der  Fahrzeugbaureihe  herausgegeben wurden. 
 Es ist somit festzustellen, dass es hinsichtlich der Montage der Radlager ein wiederholtes 
@@ -1239,9 +1199,12 @@ Seite 20 von 21
  
 Untersuchungsbericht
 
+
 Fahrzeugbrand, 28.09.2014, Laurenburg (Lahn)
 
+
 Seit Einführung dieser Maßnahme sind an den entsprechend behandelten Fahrzeugen keine 
+
 neuen Fälle mit gelösten Druckkappenverschraubungen aufgetreten. Die letzte Revision des 
 Vectus-VT 251 lag jedoch vor diesem Einführungsdatum. 
 Das ursächliche Problem, das zu diesem Montagefehler und anderen ähnlichen Fällen führte, wurde 2012 erkannt. Der Fahrzeughersteller Alstom hat daraufhin zum August 2012 entsprechende  Empfehlungen  herausgegeben.  Die  Aufarbeitung  der  hier  betroffenen  Achse 
@@ -1283,5 +1246,6 @@ Seite 21 von 21
  
  
  
+
   
 

@@ -28,41 +28,23 @@ Seite 2 von 25
 Zugentgleisung,  25.03.2010,  Üst Voerde - Bf. Dinslaken 
 Inhaltsverzeichnis: 
 Seite
-
 Zusammenfassung .............................................................................................. 8 
-
 Kurzbeschreibung des Ereignisses ....................................................................... 8 
-
 Folgen .................................................................................................................... 8 
-
 Ursachen ............................................................................................................... 8 
-
 Vorbemerkungen ............................................................................................... 10 
-
 Organisatorischer Hinweis ................................................................................... 10 
-
 Ziel der Eisenbahn-Unfalluntersuchung ............................................................... 10 
-
 Beteiligte und Mitwirkende ................................................................................... 10 
-
 Ereignis ............................................................................................................... 11 
-
 Hergang ............................................................................................................... 11 
-
 Todesopfer, Verletzte und Sachschäden ............................................................. 13 
-
 Wetterbedingungen ............................................................................................. 13 
-
 Untersuchungsprotokoll ................................................................................... 13 
-
 Notfallmanagement .............................................................................................. 13 
-
 Interpretation der Unfallspuren ............................................................................ 13 
-
 Untersuchung der Infrastruktur ............................................................................ 15 
-
 Untersuchung der Leit- und Sicherungstechnik ................................................... 16 
-
 1 
 1.1 
 1.2 
@@ -81,81 +63,54 @@ Untersuchung der Leit- und Sicherungstechnik ...................................
 4.3 
 4.4 
 4.4.1 
-
 Stellwerksanlagen ................................................................................................ 16 
-
 4.4.2 
 Heißläufer- und Festbremsortungsanlagen (HOA/FBOA) ................................... 16 
 4.5 
-
 Untersuchung der betrieblichen Handlungen ...................................................... 17 
-
 4.5.1 
-
 Beteiligte Fahrdienstleiter (Fdl) ............................................................................ 17 
-
 4.5.2 
-
 Triebfahrzeugführer (Tf) des Zuges CIL 48741 ................................................... 17 
-
 4.6 
-
 Untersuchung der Eisenbahnfahrzeuge .............................................................. 20 
-
 4.6.1 
-
 Angaben zum Zug ............................................................................................... 20 
-
 4.6.2 
-
 Wagen 81 80 6643 352-0 .................................................................................... 20 
-
 Seite 3 von 25 
 Untersuchungsbericht 
 Zugentgleisung,  25.03.2010,  Üst Voerde - Bf. Dinslaken 
 4.6.3 
-
 Untersuchung Drehgestell ................................................................................... 21 
-
 5 
 6 
 Auswertung und Schlussfolgerungen ............................................................. 23 
-
 Bisher getroffene Maßnahmen ......................................................................... 24 
-
 Seite 4 von 25 
 Untersuchungsbericht 
 Zugentgleisung,  25.03.2010,  Üst Voerde - Bf. Dinslaken 
 Abbildungsverzeichnis: 
-
 Abb. 1: Erste Entgleisungsstelle in km 15,600 ......................................................................... 9 
-
 Abb. 2: Zweite Entgleisungsstelle in Oberhausen West ........................................................... 9 
-
 Abb. 3: Lageplan .................................................................................................................... 12 
-
 Abb. 4: Entgleisungsspuren in km 15,6 .................................................................................. 14 
-
 Abb. 5: abgefallenes Achslager .............................................................................................. 14 
-
 Abb. 6: Anschlagspuren an Gleismagnet und Drehgestellrahmen ......................................... 15 
-
 Abb. 7: Entgleisungsspuren in Oberhausen West .................................................................. 15 
-
 Abb. 8: Auszug HOA-Messprotokoll ....................................................................................... 17 
-
 Abb. 9: Grafische Darstellung der EFR-Daten - gesamt ........................................................ 18 
-
 Abb. 10: Grafische Darstellung der EFR-Daten Oberhausen-West ....................................... 19 
-
 Seite 5 von 25 
  
  
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  25.03.2010,  Üst Voerde - Bf. Dinslaken 
 Abkürzungsverzeichnis 
 AEG 
@@ -252,8 +207,10 @@ Seite 7 von 25
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  25.03.2010,  Üst Voerde - Bf. Dinslaken 
 1 
 Zusammenfassung 
@@ -294,9 +251,7 @@ Diese  Richtlinie  wurde  mit  dem  5.  Gesetz  zur  Änderung  eisenbahnrechtli
 vom  16.  April  2007  umgesetzt  und  die  Eisenbahn-Unfalluntersuchungsstelle  des  Bundes 
 (EUB) eingerichtet. Die weitere Umsetzung der Sicherheitsrichtlinie erfolgte durch die Eisenbahn-Unfalluntersuchungsverordnung (EUV) vom 05.07.2007. 
 Die Leitung der Eisenbahn-Unfalluntersuchungsstelle des Bundes (EUB) liegt beim Bundesministerium  für  Verkehr  und  digitale  Infrastruktur  (BMVI).  Zur  Durchführung  der  Untersuchungen  greift  die  Leitung  der  EUB  auf  die  Untersuchungszentrale  beim  Eisenbahn-
-
 Bundesamt  -  die  fachlich  ausschließlich  und  unmittelbar  dem  Leiter  der  EUB  untersteht  - 
-
 zurück. 
 Näheres hierzu ist im Internet unter >> www.eisenbahn-unfalluntersuchung.de << eingestellt. 
 2.2 
@@ -335,9 +290,7 @@ nach Dillingen im Saarland. Der Zug bestand aus 44 beladenen Kohlenstaubwagen (F
 und zwei Zuglokomotiven der Baureihe 189. Als sich der Zug auf der Strecke 2270 dem Bf 
 Dinslaken  im  Regelgleis  näherte,  entgleiste  der  vorlaufende  Radsatz  am  vorderen  Drehgestells des 13. Wagens (81 80 6643 352-0) im km 15,600, infolge eines Bruchs des rechten 
 Wellenschenkels,  in  Fahrtrichtung  nach  rechts.  Dabei  fiel  das  zugehörige  Achslager  vom 
-
 Fahrzeug  ab  und  blieb  ca.  65  m  hinter  der  Entgleisungsstelle  rechts  neben  dem  Gleis,  nur 
-
 wenige Meter hinter der Straßenüberführung „Dianastraße“, liegen. Der Triebfahrzeugführer 
 (Tf) bemerkte die Entgleisung nicht. Offenbar gleiste sich im Bereich der Weiche 365 des Bf 
 Dinslaken der Radsatz nach einem Fahrweg von ca. 1500 m, ca. in km 14,1, selbsttätig wieder ein, so dass zunächst keine weiteren Entgleisungsspuren erkennbar waren. Im Bereich 
@@ -363,8 +316,10 @@ Seite 12 von 25
  
  
    
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  25.03.2010,  Üst Voerde - Bf. Dinslaken 
 3.2 
 Todesopfer, Verletzte und Sachschäden 
@@ -388,10 +343,7 @@ einer Vereinbarung zwischen den Innenministerien der Länder und der DB AG hat m
 auf eine Verfahrensweise verständigt. Für die DB Netz AG gelten die entsprechenden Brand- 
 und Katastrophenschutzgesetze der Länder. Das Notfallmanagement der DB AG war in der 
 Richtlinie (Ril) 123 näher beschrieben und geregelt.  
-Da  bei  diesem  Ereignis  weder  Personen  geschädigt  worden,  noch  für  die  Umwelt  gefähr-
-
-dende  Stoffe  austraten,  war  ein  dringender  Einsatz  von  Rettungskräften  nicht  erforderlich. 
-
+Da  bei  diesem  Ereignis  weder  Personen  geschädigt  worden,  noch  für  die  Umwelt  gefährdende  Stoffe  austraten,  war  ein  dringender  Einsatz  von  Rettungskräften  nicht  erforderlich. 
 Auf  eine  Untersuchung  der  Handlungen  im  Zusammenhang  mit  dem  Notfallmanagement 
 wurde deshalb verzichtet. 
 4.2 
@@ -423,8 +375,10 @@ Seite 14 von 25
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  25.03.2010,  Üst Voerde - Bf. Dinslaken 
 erkennen. So auch am Gleismagneten des Einfahrsignals F 206 des Bahnhofs Oberhausen 
 West. Diese Spuren waren mit großer Wahrscheinlichkeit auf ein Anstoßen des Drehgestells 
@@ -457,9 +411,7 @@ Untersuchung der Leit- und Sicherungstechnik
 4.4.1 
 Stellwerksanlagen 
 Ein Zusammenhang zwischen der Sicherungstechnik der Stellwerke und der Entgleisungsursache konnte anhand der Unfallspuren (siehe Abschnitt 4.3) von vornherein ausgeschlossen 
-
 werden.  Die  primäre  Entgleisung  im  km  15,6  der  Strecke  2270  fand  zudem  auf  der  freien 
-
 Strecke  statt.  Auf  tiefgreifende  Untersuchungen  der  Stellwerksanlagen  wurde  deshalb  verzichtet. 
 4.4.2 
 Heißläufer- und Festbremsortungsanlagen (HOA/FBOA) 
@@ -480,8 +432,10 @@ Seite 16 von 25
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  25.03.2010,  Üst Voerde - Bf. Dinslaken 
 Abb. 8: Auszug HOA-Messprotokoll 
 4.5 
@@ -494,9 +448,7 @@ betrieblichen Handlungen der an der Zugfahrt beteiligten Fdl verzichtet. Im Nach
 jedoch  das  Thema  Zugbeobachtung  näher  beleuchtet.  Hierzu  war  festzustellen,  dass  zum 
 Zeitpunkt des Unfalls die an der Strecke 2270 liegenden Stellwerke der Bahnhöfe Emmerich, 
 Empel-Rees, Wesel, Dinslaken und Oberhausen-Sterkrade mit Fdl besetzt waren. 
-
 Bis  zum  Eintritt  des  Primärereignisses  in  km  15,6  passierte  der  Zug  demnach  die  drei  erst 
-
 genannten Bahnhöfe. Dem Grunde nach waren die Fdl entsprechend Richtlinie 408.0262 zur 
 Zugbeobachtung  verpflichtet.  Die  Stellwerke  in  Emmerich  und  Empel-Ress  hatten  hierfür 
 jedoch eine eher ungünstige Lage zum Gleis, so dass das Erkennen eines Heißläufers fast 
@@ -525,15 +477,10 @@ konkreten  Wegpunktes  möglich  war.  In  der  grafischen  Darstellung  der  Da
 Wegangaben  ein  negatives  Vorzeichen,  da  der  Zug  entgegen  der  Streckenkilometrierung 
 fuhr.  Wegen  des  Streckenwechsels  der  Strecken  2270  auf  2321  stimmen  die  abgebildeten 
 Kilometerangaben jedoch nur von Abzw. Obn bis zum Halt in Oberhausen West mit den tatsächlichen Wegpunkten überein. 
-
 Die  Abbildung  5  zeigt  die  grafische  Darstellung  des  Fahrtverlaufs  vom  Bereich  der  ersten 
-
 Entgleisungsstelle in km 15,6 bis zum Halt des Zuges in Oberhausen West. 
 Abb. 9: Grafische Darstellung der EFR-Daten - gesamt 
-Die Auswertung ließ unter Berücksichtigung der Tatsache, dass der Zug von der ersten Ent-
-
-gleisungsstelle  bis  zum  endgültigen  Halt  von  ca.  15,1  km  zurücklegte,  erkennen,  dass  CIL 
-
+Die Auswertung ließ unter Berücksichtigung der Tatsache, dass der Zug von der ersten Entgleisungsstelle  bis  zum  endgültigen  Halt  von  ca.  15,1  km  zurücklegte,  erkennen,  dass  CIL 
 48741 zum Zeitpunkt der ersten Entgleisung mit einer Geschwindigkeit von ca. 82 km/h fuhr. 
 Die Geschwindigkeit lag damit unterhalb der für den Zug zulässigen Höchstgeschwindigkeit 
 von 90 km/h und deutlich unter der zulässigen Streckenhöchstgeschwindigkeit von 160 km/h. 
@@ -554,10 +501,7 @@ Die Auswertung der Daten in diesem Bereich zeigt, dass sich der Zug dem Signal F
 einer Geschwindigkeit von ca. 39 km/h näherte. Am Standort des Signals kam es wegen des 
 Signalbegriffs „Halt erwarten“ zu einer Beeinflussung durch einen 1000 Hz Gleismagnet, die 
 der  Tf  mit  Bedienung  der  Taste  „Wachsam“  quittierte.  Im  weiteren  Verlauf  wurde  die  Geschwindigkeit  des  Zuges zunächst geringfügig und dann kontinuierlich durch eine Betriebsbremsung reduziert. Während dieser Bremsfahrt entgleiste dann der 13. Wagen mit der vorlaufenden  Achse  in  ca.  km  13,110. Die Entgleisung selbst ist aus den EFR-Daten nicht ersichtlich. Zum Zeitpunkt der Entgleisung des 13. Wagens befand sich die Zugspitze bereits 
-
-ca.  190  m  weiter  vorn.  Daraus  lässt  sich  bezüglich  der  Geschwindigkeit,  die  der  Zug  wäh-
-
-rend  der  Entgleisung  dieses  Wagens  fuhr,  ein  Wert von ca. 25 km/h ermitteln. Kurz darauf 
+ca.  190  m  weiter  vorn.  Daraus  lässt  sich  bezüglich  der  Geschwindigkeit,  die  der  Zug  während  der  Entgleisung  dieses  Wagens  fuhr,  ein  Wert von ca. 25 km/h ermitteln. Kurz darauf 
 trat dann eine Zwangsbremsung infolge der durch die Entgleisung verursachten Zugtrennung 
 ein. Die Charakteristik der steil abfallenden Geschwindigkeitslinie spricht dafür. Nach einem 
 Weg von ca. 55 m ab Entgleisung des 13. Wagens kam Zug 48741 daraufhin zum Stillstand. 
@@ -571,12 +515,8 @@ Seite 19 von 25
 Untersuchungsbericht 
 Zugentgleisung,  25.03.2010,  Üst Voerde - Bf. Dinslaken 
 Die Auswertung der EFR-Daten zeigt, dass die jeweils zulässige Geschwindigkeit des Zuges 
-nicht überschritten wurde. Nach der ersten Entgleisung waren keine Auffälligkeiten im Zug-
-
-lauf  feststellbar.  Der  Tf  konnte  diese  Entgleisung  nicht  bemerken.  Er  setzte  deshalb  seine 
-
+nicht überschritten wurde. Nach der ersten Entgleisung waren keine Auffälligkeiten im Zuglauf  feststellbar.  Der  Tf  konnte  diese  Entgleisung  nicht  bemerken.  Er  setzte  deshalb  seine 
 Fahrt  folgerichtig  fort.  Sein  betriebliches  Handeln  hatte  weder  Einfluss  auf  die  Entstehung 
-
 des Unfalls, noch auf dessen Folgen. 
 4.6 
 Untersuchung der Eisenbahnfahrzeuge  
@@ -590,15 +530,10 @@ Aufgrund der an der ersten Entgleisungsstelle vorgefundenen Unfallspuren (siehe 
 der Untersuchungen lag demnach ausschließlich auf dem 13. Wagen. 
 4.6.2  Wagen 81 80 664 3 352-0 
 Als unfallverursachendes Fahrzeug wurde der an 13. Stelle des Wagenzuges laufende „offene  Drehgestell-Schüttgutwagen  mit  schlagartiger  Schwerkraftentladung“  erkannt.  Bei  einer 
-ersten Inaugenscheinnahme war festzustellen, dass am in Fahrtrichtung vorlaufenden Dreh-
-
-gestell,  am  vorderen  Radsatz  (Radsatz  1)  das  rechte  Radsatzlager  (1R)  fehlte.  Der  rechte 
-
+ersten Inaugenscheinnahme war festzustellen, dass am in Fahrtrichtung vorlaufenden Drehgestell,  am  vorderen  Radsatz  (Radsatz  1)  das  rechte  Radsatzlager  (1R)  fehlte.  Der  rechte 
 Wellenschenkel  dieses  Radsatzes  war  abgeschert.  Der  am  Radsatz  verbliebene  Wellenstumpf hatte sich in den Drehgestellrahmen eingeschliffen. Die Laufflächen und Spurkränze 
 der Räder dieses Radsatzes wiesen grobe Beschädigungen auf, die infolge der Entgleisungen entstanden waren. 
-
 Beim  Blick  in  den  Wagen  vom  Stellwerk  Oro  aus  waren  keine  Auffälligkeiten  bezüglich  der 
-
 Ladung,  soweit  dies  möglich  war,  erkennbar.  Ein  Überladen  oder  einseitiges  Beladen  des 
 Fahrzeugs erschien als unwahrscheinlich. 
 Zur  weiteren  Klärung  der  Unfallursache  wurde  das  betreffende  Drehgestell  zum  IFS  der 
@@ -626,10 +561,7 @@ der Lager untersucht. Es wurde eine Fettanalyse des linken (Referenz-) Lagers (L
 Einhaltung geltender Instandhaltungsregeln geprüft.  
 Angaben zum Drehgestell, Radsatz 1 und Lager: 
 Informationen zu Radsatzwelle, Rädern und Lager beinhalten die Instandhaltungsunterlagen 
-
-(.-.)    bzw.  sind  teilweise  auf  der  Wellenstirnseite  und  der  Radsatzmarke  (kodifiziert)  einge-
-
-prägt. 
+(.-.)    bzw.  sind  teilweise  auf  der  Wellenstirnseite  und  der  Radsatzmarke  (kodifiziert)  eingeprägt. 
 Halter des Wagens:    
 DB Schenker 
 Wagen-Nr.: 
@@ -671,8 +603,10 @@ Seite 21 von 25
  
   
   
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  25.03.2010,  Üst Voerde - Bf. Dinslaken 
 Fettsorte Radsatzlager:  
 D2 
@@ -687,19 +621,14 @@ Lagers 1R, bei welchem das Schmiermittel verbrannte und die innere Reibung stark
 musste die Radsatzwelle ein deutlich erhöhtes Torsionsmoment übertragen, welches infolge 
 der abnehmenden Materialfestigkeit durch die Temperaturerhöhung schließlich zum Abscheren der Welle führte. 
 Die  Vorschriftsmäßigkeit  der  Befettung  des  zerstörten  Radsatzlagers  kann  weder  eindeutig 
-
 belegt  noch  bestritten  werden.  Es  trat  kein  Fett  infolge  der  Erhitzung  am  Deckel  oder  zur 
-
 Welle hin aus. Im Lager selbst war das Fett verbrannt. 
 Wie schon bemerkt, kann der Zustand des Fettes im intakten Radsatzlager lediglich als ein 
 Indiz zur Beurteilung des Fettzustandes im Schadlager gelten. Beide Lager sind mutmaßlich 
 gleich alt und vom gleichen Typ. Es ist anzunehmen, dass beide Lager in der Instandsetzung 
 gleich behandelt worden sind und dementsprechend Fett gleicher Sorte und gleichen Alters 
 enthielten. 
-
-Die  erhöhten  Anteile  an  Eisen-  und  Kupferpartikel  im  untersuchten  Fett  könnten  einen  zu-
-
-nehmenden Verschleiß der Lagerbauteile, und im Besonderen des Messingkäfigs beim Referenzlager 1L, repräsentieren. Angesichts dessen gibt es eine Berechtigung zu der Annahme, dass das zerstörte Lager 1R ebenfalls einem fortgeschrittenen Verschleiß unterlag.  
+Die  erhöhten  Anteile  an  Eisen-  und  Kupferpartikel  im  untersuchten  Fett  könnten  einen  zunehmenden Verschleiß der Lagerbauteile, und im Besonderen des Messingkäfigs beim Referenzlager 1L, repräsentieren. Angesichts dessen gibt es eine Berechtigung zu der Annahme, dass das zerstörte Lager 1R ebenfalls einem fortgeschrittenen Verschleiß unterlag.  
 Bei der Untersuchung gab es keine Indizien für einen unvorschriftsmäßigen Zusammenbau 
 des Lagers oder gar fehlende Bauteile. Angesichts der Zerstörungen wurden etwaige Spuren 
 überdeckt,  die  Materialfehler  bei  den  Wälzkörpern,  den  Lagerringen  oder  dem  Käfig  angezeigt hätten. 
@@ -710,8 +639,10 @@ Seite 22 von 25
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  25.03.2010,  Üst Voerde - Bf. Dinslaken 
 Die  Prüfung  der  Instandhaltungsnachweise  durch  die  Gutachter  ließ  keine  Auffälligkeiten 
 erkennen. Entsprechende Wartungsvorgaben und Interwalle wurden eingehalten: 
@@ -742,13 +673,13 @@ Seite 23 von 25
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  25.03.2010,  Üst Voerde - Bf. Dinslaken 
 hier untersuchten Ereignis, nicht mit absoluter Sicherheit benannt werden. Die beauftragten 
-
 Gutachter  identifizierten  jedoch  einen  Verschleiß  von  Lagerteilen,  insbesondere  bei  Lagern 
-
 mit  vernieteten  Messingkäfigen,  als  eine  wahrscheinliche  Ursache  für  die  Entstehung  der 
 Heißläufer. 
 Die EUB hatte bereits in ihrer Sicherheitsempfehlung vom 08.02.2010 nach ersten Untersuchungsergebnissen aus der Zugentgleisung in Bünde empfohlen: 

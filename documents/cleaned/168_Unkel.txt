@@ -17,6 +17,7 @@ Kilometer:
 Unkel 
 2 
 107,0 
+
 	
  
  
@@ -33,30 +34,26 @@ Unkel
  
  
 Untersuchungsbericht 
+
 Fahrzeugbrand, 06.02.2019, Unkel 
 Veröffentlicht durch: 
 Bundesstelle für Eisenbahnunfalluntersuchung 
 Heinemannstraße 6 
 53175 Bonn 
+
  
 Untersuchungsbericht 
+
 Fahrzeugbrand, 06.02.2019, Unkel 
 Inhaltsverzeichnis	
 I. 
 II. 
-
 Änderungsverzeichnis: .......................................................................................... II 
-
 Abbildungsverzeichnis: ........................................................................................ III 
-
 III. 
-
 Tabellenverzeichnis: ............................................................................................ III 
-
 IV. 
-
 Abkürzungsverzeichnis: ....................................................................................... IV 
-
 1 
 1.1 
 1.2 
@@ -72,58 +69,37 @@ Abkürzungsverzeichnis: ........................................................
 3.4 
 4 
 4.1 
-
 Vorbemerkungen .................................................................................................. 1 
-
 Organisatorischer Hinweis ...................................................................................... 1 
-
 Ziel der Eisenbahnunfalluntersuchung .................................................................... 1 
-
 Zusammenfassung ................................................................................................ 3 
-
 Kurzbeschreibung des Ereignisses ........................................................................... 3 
-
 Folgen ...................................................................................................................... 3 
-
 Ursachen .................................................................................................................. 3 
-
 Sicherheitsempfehlungen ....................................................................................... 3 
-
 Allgemeine Angaben ............................................................................................. 4 
-
 Lage und Beschreibung des Ereignisortes ............................................................... 4 
-
 Beteiligte und Mitwirkende ..................................................................................... 5 
-
 Äußere Bedingungen ............................................................................................... 6 
-
 Todesopfer, Verletzte und Sachschäden ................................................................. 6 
-
 Untersuchungsprotokoll ....................................................................................... 8 
-
 Zusammenfassung von Aussagen und Stellungnahmen ......................................... 8 
 4.1.1 
-
 Stellungnahme des Triebfahrzeugführers (Tf) ........................................................ 8 
-
 4.1.2 
-
 Stellungnahme des Fdl Oberlahnstein .................................................................... 9 
-
 4.2 
 4.3 
 4.4 
-
 Notfallmanagement ................................................................................................ 9 
-
 Untersuchung der bautechnischen Infrastruktur ................................................. 11 
-
 Untersuchung der Leit- und Sicherungstechnik .................................................... 11 
-
 I 
+
  
  
 Untersuchungsbericht 
+
 Fahrzeugbrand, 06.02.2019, Unkel 
 4.5 
 4.6 
@@ -134,17 +110,11 @@ Gefahrguttransport einzelner Wagenladungen .....................................
 4.6.2 
 Auswertung der elektronischen Fahrtenregistrierung (EFR) ................................ 15 
 4.6.3 
-
 Qualifikation und Tauglichkeit .............................................................................. 17 
-
 4.7 
-
 Untersuchung von Fahrzeugen ............................................................................. 18 
-
 4.7.1 
-
 Fahrzeugtechnische Untersuchung vor Ort .......................................................... 19 
-
 4.7.2 
 Untersuchung des brandauslösenden Wagens ..................................................... 20 
 5 
@@ -152,21 +122,16 @@ Untersuchung des brandauslösenden Wagens ......................................
 5.2 
 6 
 7 
-
 Auswertung ........................................................................................................ 23 
-
 Ereignisrekonstruktion .......................................................................................... 23 
-
 Bewertung und Schlussfolgerung .......................................................................... 24 
-
 Bisher getroffene Maßnahmen ........................................................................... 28 
-
 Sicherheitsempfehlungen ................................................................................... 28 
-
 I.  Änderungsverzeichnis:	
 Änderung 
 Stand 
 II 
+
  
  
  
@@ -176,47 +141,34 @@ II
 	
 	
 Untersuchungsbericht 
+
 Fahrzeugbrand, 06.02.2019, Unkel 
 II.  Abbildungsverzeichnis:	
-
 Abbildung 1: Lageplan ................................................................................................................ 4 
-
 Abbildung 2: Systemskizze Bf Unkel ........................................................................................... 5 
-
 Abbildung 3: Ansicht des Zuges nach den Löscharbeiten .......................................................... 7 
-
 Abbildung 4: Gemessene Temperaturen der FBOA Nr. 194 .................................................... 12 
-
 Abbildung 5: Wagenliste DGS 59970 ....................................................................................... 14 
-
 Abbildung 6: Grafische Darstellung der EFR-Auswertung, Teil 1 ............................................. 16 
-
 Abbildung 7: Grafische Darstellung der EFR-Auswertung, Teil 2 ............................................. 16 
-
 Abbildung 8: Seitenansicht Laais-Wagen ................................................................................. 19 
-
 Abbildung 9: Übersichtsskizze der Wagen 12 bis 14 ................................................................ 19 
-
 Abbildung 10: Bremssohlen des linken und rechten Rades des vorauslaufenden Radsatzes . 21 
 III.  Tabellenverzeichnis:	
-
 Tabelle 1: Übersicht der äußeren Bedingungen ........................................................................ 6 
-
 Tabelle 2: Übersicht der Personenschäden ............................................................................... 6 
-
 Tabelle 3: Übersicht der geschätzten Schadenshöhe ................................................................ 7 
-
 Tabelle 4: Zeitliche Abfolge der Meldungen und Arbeitsschritte ............................................ 10 
-
 Tabelle 5: Technische Wagendaten ......................................................................................... 18 
-
 III 
+
  
  
  
  
  
 Untersuchungsbericht 
+
 Fahrzeugbrand, 06.02.2019, Unkel 
 IV.  Abkürzungsverzeichnis:	
 AEG 
@@ -263,8 +215,10 @@ Tfz
 Notfallmanager / Notfallmanagerin 
 Notfallleitstelle 
 Punktförmige Zugbeeinflussung 
+
 Regelung zur internationalen Beförderung gefährlicher Güter 
 im Schienenverkehr 
+
 Richtlinie 
 Sicherheitsmanagementsystem 
 Triebfahrzeugführer / Triebfahrzeugführerin 
@@ -272,9 +226,11 @@ Triebfahrzeug
 VDV 
 Verband Deutscher Verkehrsunternehmen 
 IV 
+
  
  
 Untersuchungsbericht 
+
 Fahrzeugbrand, 06.02.2019, Unkel 
 1  Vorbemerkungen	
 Das Kapitel Vorbemerkungen befasst sich mit allgemeinen Informationen zur Bundesstelle für 
@@ -299,18 +255,22 @@ Die Untersuchung umfasst die Sammlung und Auswertung von Informationen, die Erar
 von Schlussfolgerungen einschließlich der Feststellung der Ursachen und gegebenenfalls die 
 Abgabe von Sicherheitsempfehlungen. Die Vorschläge der Untersuchungsstelle zur Vermei-
 Seite 1 von 28 
+
  
  
 Untersuchungsbericht 
+
 Fahrzeugbrand, 06.02.2019, Unkel 
 dung von Unfällen und Verbesserung der Sicherheit im Eisenbahnverkehr werden der Sicherheitsbehörde und, soweit erforderlich, anderen Stellen und Behörden oder anderen Mitgliedstaaten der EU in Form von Sicherheitsempfehlungen mitgeteilt. 
 Seite 2 von 28 
+
  
  
  
  
 	
 Untersuchungsbericht 
+
 Fahrzeugbrand, 06.02.2019, Unkel 
 2  Zusammenfassung	
 Das Kapitel befasst sich mit einer kurzen Darstellung des Ereignisherganges, den Folgen und 
@@ -328,17 +288,16 @@ völlig zerstört bzw. stark beschädigt. Infolge des Ereignisses kam es zu mass
 Ereignisursächlich war eine feste Bremse am 13. Wagen des DGS 59970. Durch diese kam es 
 zum Funkenflug in Richtung des Bodenbleches des Güterwagens, wodurch dieses stark erhitzt 
 wurde. Durch die Wärmeleitung über das Bodenblech erfolgte anschließend eine Erhitzung 
-
-der auf diesem Wagen transportierten Paletten mit Hygieneartikeln, bis sich diese entzünde-
-
-ten. 
+der auf diesem Wagen transportierten Paletten mit Hygieneartikeln, bis sich diese entzündeten. 
 2.4  Sicherheitsempfehlungen	
 Es wurden keine Sicherheitsempfehlungen ausgesprochen. 
 Seite 3 von 28 
+
  
  
  
 Untersuchungsbericht 
+
 Fahrzeugbrand, 06.02.2019, Unkel 
 3  Allgemeine	Angaben	
 Das Kapitel beinhaltet allgemeine Angaben zur Beschreibung des Ereignisortes und der relevanten  Bahnanlagen.  Des  Weiteren  wurden  die  an  der  Unfalluntersuchung  beteiligten  und 
@@ -354,11 +313,13 @@ Die folgende Abbildung zeigt die Fahrtrichtung des DGS 59970 mit der Ereignisste
 Abbildung 1: Lageplan1  
 1 Quelle: Geobasisdaten: © GeoBasis-DE / BKG [2019], bearbeitet durch BEU 
 Seite 4 von 28 
+
  
  
  
                                                        
 Untersuchungsbericht 
+
 Fahrzeugbrand, 06.02.2019, Unkel 
 Die nachfolgende Abbildung zeigt eine Systemskizze des Bf Unkel. 
 Abbildung 2: Systemskizze Bf Unkel2 
@@ -372,11 +333,13 @@ Das EVU verfügte über eine Sicherheitsbescheinigung gemäß § 7a AEG mit Gül
 27.04.2020 und war damit zur Teilnahme am Eisenbahnbetrieb berechtigt. 
 2 Quelle: DB Netz AG, bearbeitet durch BEU 
 Seite 5 von 28 
+
  
  
  
                                                        
 Untersuchungsbericht 
+
 Fahrzeugbrand, 06.02.2019, Unkel 
 3.3  Äußere	Bedingungen		
 Zum Zeitpunkt des Ereignisses herrschten folgende Bedingungen: 
@@ -408,8 +371,10 @@ Anzahl Tote
 Anzahl schwer Verletzte  Anzahl leicht Verletzte 
 Reisende 
 Mitarbeiter 
+
 Benutzer von 
 Bahnübergängen 
+
 Dritte 
 Summe 
 - 
@@ -429,12 +394,14 @@ Tabelle 2: Übersicht der Personenschäden
 1 
 1 
 Seite 6 von 28 
+
  
  
  
  
  
 Untersuchungsbericht 
+
 Fahrzeugbrand, 06.02.2019, Unkel 
 Die geschätzte Höhe der Sachschäden in Euro setzt sich wie folgt zusammen: 
 Fahrzeuge 
@@ -452,6 +419,7 @@ Güterwagens nach den Löscharbeiten der Feuerwehren abgebildet.
 Abbildung 3: Ansicht des Zuges nach den Löscharbeiten3 
 3 Quelle: Kreisverwaltung Neuwied, Brand- und Katastrophenschutz 
 Seite 7 von 28 
+
  
  
  
@@ -460,15 +428,14 @@ Seite 7 von 28
  
                                                        
 Untersuchungsbericht 
+
 Fahrzeugbrand, 06.02.2019, Unkel 
 4  Untersuchungsprotokoll	
 In diesem Kapitel werden die ermittelten Ergebnisse zu einzelnen in Zusammenhang mit dem 
 Ereignis stehenden Teilbereichen des Eisenbahnwesens dargestellt. Daneben wurden auch die 
 entsprechenden Schnittstellen sowie das Sicherheitsmanagement (SMS) im betroffenen Bereich betrachtet. Die jeweilig relevanten Erkenntnisse werden fortlaufend aufgeführt. 
 4.1  Zusammenfassung	von	Aussagen	und	Stellungnahmen	
-
 In den folgenden Abschnitten werden die wichtigsten Aussagen und Stellungnahmen einiger 
-
 Beteiligter  zusammengefasst  dargestellt.  Diese  wurden  dem  jeweiligen  Arbeitgeber  gegenüber abgegeben. Verschiedene Ergänzungen wurden im Rahmen der Unfalluntersuchung im 
 Nachgang bei den Beteiligten abgefragt. 
 4.1.1  Stellungnahme	des	Triebfahrzeugführers	(Tf)	
@@ -480,25 +447,21 @@ würde. Nach Rücksprache mit dem Fdl habe man sich darauf verständigt den Zug 
 Bf Unkel nach Gleis 2 einzufahren und anschließend die Untersuchung durchzuführen. Nachdem er den Zug bis ca. 40 m vor das Ausfahrsignal vorgezogen hatte, habe er mit der Wagenuntersuchung begonnen. Bei der Annäherung an den vorletzten Wagen habe er einzelne laute 
 Knallgeräusche wahrgenommen sowie unter der Seitenwand des Wagens vereinzelte Flammen erkennen können. Er habe sich sofort zurück auf die Lok begeben und einen Notruf abgesetzt. Anschließend habe er festgestellt, dass Flammen aus dem Fahrzeugdach des betroffenen Wagens schlugen. Dies habe er dem Fdl mitgeteilt und vorgeschlagen die Oberleitung abzuschalten.  Kurz  danach  seien  die  ersten  Feuerwehrfahrzeuge  eingetroffen.  Löschversuche 
 konnten durch die Feuerwehren nicht sofort durchgeführt werden, da zuerst die Oberleitung 
-
 durch  den  Notfallmanager  (Nmg)  geerdet  werden  musste.  Beim  Öffnen  der  Seitentür  des 
-
 Laais-Wagens sei die überschaubare Situation außer Kontrolle geraten, die Flammen aus dem 
 Inneren des Wagens seien schlagartig hochgeschlagen. 
 Seite 8 von 28 
+
  
  
 Untersuchungsbericht 
+
 Fahrzeugbrand, 06.02.2019, Unkel 
 4.1.2  Stellungnahme	des	Fdl	Oberlahnstein	
 Am 06.02.2019 gegen 22:55 Uhr sei er von einem örtlichen Rangierer aus Linz (Rhein) [red. 
 Anm.: dieser befand sich zu diesem Zeitpunkt nicht im Dienst] über Mobiltelefon informiert 
 worden, dass es an einem gerade vorbeigefahrenen Güterzug Unregelmäßigkeiten gegeben 
-habe. Daraufhin habe er den Tf des DGS 59970 informiert, dass er in Unkel seinen Zug unter-
-
-suchen solle. Zur selben Zeit sei er auch von der Notfallleitstelle (NFLS) über Unregelmäßigkei-
-
-ten am betroffenen Zug informiert worden. Nach Rückmeldung des Tf, dass sein letzter Wagen 
+habe. Daraufhin habe er den Tf des DGS 59970 informiert, dass er in Unkel seinen Zug untersuchen solle. Zur selben Zeit sei er auch von der Notfallleitstelle (NFLS) über Unregelmäßigkeiten am betroffenen Zug informiert worden. Nach Rückmeldung des Tf, dass sein letzter Wagen 
 brennen würde, habe er alle Gleise im Bf Unkel gesperrt und alle Schaltgruppen abgeschaltet. 
 Dies habe er gegen 23:20 Uhr der NFLS gemeldet. Anschließend habe er auf das Eintreffen des 
 Nmg und der Hilfskräfte gewartet. 
@@ -511,21 +474,18 @@ Die Alarmierung der Feuerwehren durch die NFLS erforderte auch den sofortigen Ei
 Nmg,  um  den  Schutz  vor  elektrischen  Gefahren  im  Ereignisfall  herzustellen.  Gemäß 
 Ril 123.0141 waren Maßnahmen zur Herstellung und Sicherstellung des spannungsfreien Zustandes von Anlagen der elektrischen Zugförderung erforderlich, um die an dem Ereignisort 
 anwesenden bzw. tätigen Personen vor den elektrischen Gefahren zu schützen. Die erforderlichen Maßnahmen dienten der Abwehr einer Gefahr aus dem Bahnbetrieb und waren somit 
-
 Aufgabe  des  jeweiligen  Anlagenbetreibers.  Die  DB  Netz  AG  als  Infrastrukturbetreiber  hatte 
-
 diese Aufgabe an den Nmg übertragen. 
 Seite 9 von 28 
+
  
  
  
  
 Untersuchungsbericht 
+
 Fahrzeugbrand, 06.02.2019, Unkel 
-
-In der nachfolgenden Tabelle ist die zeitliche Abfolge der Meldungen und Arbeitsschritte dar-
-
-gestellt. 
+In der nachfolgenden Tabelle ist die zeitliche Abfolge der Meldungen und Arbeitsschritte dargestellt. 
 22:58 Uhr  Meldung über eine Unregelmäßigkeit 
 an einem Güterzug durch einen Zugbegleiter im Bf Linz (Rhein) an die NFLS 
 23:00 Uhr  DGS 59970 wird vor Esig des 
@@ -551,12 +511,14 @@ Feststellungen zum Notfallmanagement
 Lfd. Nr. 2 
 Unregelmäßigkeiten und Verzögerungen in Bezug auf das Einleiten von Rettungsmaßnahmen wurden nicht festgestellt. 
 Seite 10 von 28 
+
  
  
  
  
  
 Untersuchungsbericht 
+
 Fahrzeugbrand, 06.02.2019, Unkel 
 4.3  Untersuchung	der	bautechnischen	Infrastruktur	
 Aufgrund der Erkenntnisse zum Ereignishergang und der Sachverhaltsermittlung konnte auf 
@@ -564,7 +526,7 @@ weiterführende oberbautechnische Untersuchungen der Gleise verzichtet werden.
 Feststellung zur der bautechnischen Infrastruktur 
 Lfd. Nr. 3 
 Die bautechnische Infrastruktur hatte keinen Einfluss auf das Unfallgeschehen. 
-4.4  Untersuchung	der	Leit‐	und	Sicherungstechnik	
+4.4  Untersuchung	der	Leit-	und	Sicherungstechnik	
 Der Bf Unkel wurde durch die Unterzentrale des elektronischen Stellwerks (ESTW-UZ) Oberlahnstein Süd/Nord der Bauform El L90 gesteuert. Dieses gehörte zum Steuerbezirk 06 „Rechter Rhein“ der Betriebszentrale (BZ) Frankfurt (Main), in der sich ebenfalls der Arbeitsplatz des 
 für den Bf Unkel zuständigen Fdl Oberlahnstein 3 befand. 
 Heißläufer- und Festbremsortungsanlagen (HOA und FBOA) dienen der Erkennung einer unzulässig  hohen  Erwärmung  von  Radsatzlagern  (Heißläufer)  oder  Bremseinrichtungen  (feste 
@@ -581,21 +543,19 @@ und einer FBOA in einer Anlage vereinen. Bei Strecken mit zulässigen Geschwindi
 größer 200 km/h sind HOA/FBOA im Abstand von max. 35 km vorgesehen, bei allen übrigen 
 Strecken im Abstand von max. 70 km. 
 Seite 11 von 28 
+
  
  
  
 Untersuchungsbericht 
+
 Fahrzeugbrand, 06.02.2019, Unkel 
 Bei seiner Fahrt passierte der DGS 59970 mehrere HOA/FBOA. Die gegen 22:48 Uhr zuletzt 
 befahrene  HOA/FBOA  Nr.  194  am  Standort  in  Leutesdorf-Rheinbrohl  in  km 127,104  lag 
-
 ca. 20 km  von  der  Ereignisstelle  im  Bf  Unkel  entfernt.  Die  HOA/FBOA  wurde  letztmalig  am 
-
 22.10.2018 regulär inspiziert. 
 Bei der Vorbeifahrt des DGS 59970 wurden für 60 Achsen Messwerte durch die FBOA erfasst. 
-
 Hierbei  wurden  systembedingt  die  Achsen  des  Triebfahrzeuges  (Tfz)  mit  berücksichtigt.  An 
-
 den  vier  Achsen  des  vorletzten  Fahrzeuges  wurde  eine  höhere  Temperatur  registriert.  Die 
 Messwerte  lagen  zwischen  120°C  und  176°C  und  damit  noch  unterhalb  der  Regelalarmschwellwerte, so dass keine Meldung beim zuständigen Fdl einging. 
 Die folgende Abbildung zeigt die durch die FBOA gemessenen Temperaturwerte bezogen auf 
@@ -604,30 +564,25 @@ Abbildung 4: Gemessene Temperaturen der FBOA Nr. 194
 Die zuvor gegen 22:19 Uhr zwischen den Bf Kamp-Bornhofen und Oberlahnstein befahrene 
 HOA/FBOA Nr. 87 detektierte keine erhöhten Temperaturwerte. 
 Seite 12 von 28 
+
  
  
  
  
  
 Untersuchungsbericht 
+
 Fahrzeugbrand, 06.02.2019, Unkel 
-Feststellung zur Untersuchung der Leit‐ und Sicherungstechnik 
+Feststellung zur Untersuchung der Leit- und Sicherungstechnik 
 Lfd. Nr. 4 
 Die Überprüfung der relevanten Anlagen der Leit-und Sicherungstechnik, insbesondere der 
 HOA/FBOA Nr. 194 ergab keine Hinweise auf Fehlfunktionen. 
 An den Achsen 53-56 wurden erhöhte Messwerte registriert. Die Regelalarmschwellen für 
 „Feste Bremse Warm“ und „Feste Bremse Heiß“ wurden nicht überschritten. 
 4.5  Untersuchung	der	betrieblichen	Abläufe	des	Infrastrukturbetreibers	
-Die Betriebsabwicklung auf der Strecke 2324 wurde nach den Bestimmungen der Fahrdienst-
-
-vorschrift Ril 408 der DB Netz AG durchgeführt. Der Zuständigkeitsbereich des in der BZ Frank-
-
-furt (Main) sitzenden Fdl Oberlahnstein 3 erstreckte sich auf alle Betriebsstellen und Streckengleise vom Bf Unkel bis zum Bf Leutesdorf (Rhein). 
+Die Betriebsabwicklung auf der Strecke 2324 wurde nach den Bestimmungen der Fahrdienstvorschrift Ril 408 der DB Netz AG durchgeführt. Der Zuständigkeitsbereich des in der BZ Frankfurt (Main) sitzenden Fdl Oberlahnstein 3 erstreckte sich auf alle Betriebsstellen und Streckengleise vom Bf Unkel bis zum Bf Leutesdorf (Rhein). 
 Der diensthabende Fdl war nachweislich Betriebsbeamter gemäß § 47 Abs. 1 Nr. 3 EBO. Die 
-nach § 48 EBO gestellten Anforderungen an die Tauglichkeit konnten durch Vorlage entspre-
-
-chender Dokumente bestätigt werden. Er war für die Tätigkeit ausgebildet und geprüft. Im 
-
+nach § 48 EBO gestellten Anforderungen an die Tauglichkeit konnten durch Vorlage entsprechender Dokumente bestätigt werden. Er war für die Tätigkeit ausgebildet und geprüft. Im 
 Rahmen der Sachverhaltsermittlung wurden keine Einschränkungen bekannt, die dem Einsatz 
 des Fdl entgegenstanden. 
 Der Fdl wurde nach eigener Aussage durch einen Rangierer, der sich privat in Linz (Rhein) aufhielt, sowie annähernd zeitgleich durch die NFLS der BZ Frankfurt (Main) über Unregelmäßigkeiten am Zug DGS 59970 informiert. Nach Eingang der Meldung wurde der Zug um ca. 23:00 
@@ -639,11 +594,13 @@ Nach der Meldung durch Dritte und die NFLS wurde der Zug zunächst am Esig des B
 gestellt und nach Rücksprache mit dem Tf zur Untersuchung in den Bf eingelassen. 
 Maßnahmen bei Gefahr wurden nicht eingeleitet. 
 Seite 13 von 28 
+
  
  
  
  
 Untersuchungsbericht 
+
 Fahrzeugbrand, 06.02.2019, Unkel 
 4.6  Untersuchung	der	betrieblichen	Abläufe	des	EVU	
 Die  Zugbildung  erfolgte  am  06.02.2019  im  Bf  Wassertrüdingen.  Dort  wurde  der  Wagenzug 
@@ -656,11 +613,13 @@ Anhand  der  Wagenliste  ist  ersichtlich,  dass  der  Wagenzug  aus  14  Wagen 
 1.015 t bei einem Bremsgewicht von 922 t in Bremsstellung P. 
 4 Quelle: Bayernbahn GmbH, bearbeitet durch BEU 
 Seite 14 von 28 
+
  
  
  
                                                        
 Untersuchungsbericht 
+
 Fahrzeugbrand, 06.02.2019, Unkel 
 Von Wassertrüdingen bis Gunzenhausen verkehrte der Zug als DGS 59968. Im Bf Gunzenhausen wurde ein Triebfahrzeugwechsel ohne Richtungswechsel vollzogen. Nach Angaben der an 
 dem  Triebfahrzeugwechsel  beteiligten  Betriebspersonale  wurde  eine  vereinfachte  Bremsprobe durchgeführt. Weitere Behandlungen des Zuges seien nicht erfolgt. Im Anschluss erfolgte die Weiterfahrt als DGS 59970 in Richtung Langenfeld. 
@@ -670,19 +629,11 @@ des  Bremsgewichtes  um  25%  von  Fahrzeugen,  die  in  der Bremsstellung  G  v
 arbeitenden Tfz nicht berücksichtigt. 
 4.6.1  Gefahrguttransport	einzelner	Wagenladungen	
 Alle beladenen Wagen des Zugverbandes beförderten gemäß den ausgestellten Frachtpapieren Güter in Kleingebinden. Die Güter waren nach Gefahrgutliste numerisch in der Tabelle A 
-
 der Regelung zur internationalen Beförderung gefährlicher Güter im Schienenverkehr (RID) als 
-
-„Druckgaspackungen, entzündbar“ mit UN-Nummer 1950 gekennzeichnet. Eine Druckgaspackung des Gebindes durfte nach RID Tabelle A Spalte 7a einen Liter betragen. Die Wagen wa-
-
-ren nach RID Abschnitt 3.4.13 gekennzeichnet, da die Gesamtbruttomenge der beförderten 
-
+„Druckgaspackungen, entzündbar“ mit UN-Nummer 1950 gekennzeichnet. Eine Druckgaspackung des Gebindes durfte nach RID Tabelle A Spalte 7a einen Liter betragen. Die Wagen waren nach RID Abschnitt 3.4.13 gekennzeichnet, da die Gesamtbruttomenge der beförderten 
 Versandstücke, die begrenzte Menge je Wagen von 8 Tonnen überschritt. Daher wurden die 
 Wagen nach RID Abbildung 3.4.7.1 mit einem auf der Spitze stehenden Quadrat gekennzeichnet, dessen oberer und unterer Teilbereich und die Umrandung schwarz waren. Die in der 
-
-Wagenliste  angegebene  Bemerkung  LQ  verwies  auf  „Limited  Quantities“,  was  der  Kurzbe-
-
-zeichnung für den Begriff „in begrenzten Mengen verpackte gefährliche Güter“ aus dem Gefahrgutrecht entsprach. 
+Wagenliste  angegebene  Bemerkung  LQ  verwies  auf  „Limited  Quantities“,  was  der  Kurzbezeichnung für den Begriff „in begrenzten Mengen verpackte gefährliche Güter“ aus dem Gefahrgutrecht entsprach. 
 4.6.2  Auswertung	der	elektronischen	Fahrtenregistrierung	(EFR)	
 Zur Untersuchung des Fahrtverlaufs wurden die registrierten Fahrdaten der EFR des führenden Tfz ausgewertet. Das PZB-Fahrzeuggerät war eingeschaltet. Die Rohdaten waren vollständig und fehlerfrei aufgezeichnet. 
 Im  Betrachtungszeitraum  wurden  die  im  Fahrplan  angegebenen  Höchstgeschwindigkeiten 
@@ -690,29 +641,30 @@ nicht überschritten. Es waren mehrere Brems- und Anfahrvorgänge registriert wo
 folgenden Abbildung ist zu sehen, dass DGS 59970 im Bf Kaub zum Halten kam. Dieser Halt 
 dauerte von ca. 21:52 Uhr bis 21:53 Uhr. 
 Seite 15 von 28 
+
  
  
 Untersuchungsbericht 
+
 Fahrzeugbrand, 06.02.2019, Unkel 
 Abbildung 6: Grafische Darstellung der EFR-Auswertung, Teil 1 
 Anschließend setzte der Zug seine Fahrt fort. Im Bf St. Goarshausen (um ca. 22:03 Uhr) und im 
 Bf Niederlahnstein (um ca. 22:22 Uhr) kam es jeweils zu einer Geschwindigkeitsreduzierung, 
 ohne dass der Zug zum Halten kam. 
 In  der  nachfolgenden  Abbildung  ist  erkennbar,  dass  DGS 59970 um  ca. 22:41  Uhr  vor  dem 
-
 Bf Leutesdorf hielt. Der Tf verringerte die Geschwindigkeit mittels einer Betriebsbremsung von 
-
 ca. 81 km/h bis zum Stillstand. Nach einer Standzeit von ca. 40 s setzte der Zug seine Fahrt 
-
 fort. Der Halt vor dem Esig Bf Unkel wurde von ca. 23:00 Uhr bis 23:01 Uhr registriert. Der 
 letzte Halt im Bf Unkel wurde um 23:04 Uhr aufgezeichnet. 
 Abbildung 7: Grafische Darstellung der EFR-Auswertung, Teil 2 
 Seite 16 von 28 
+
  
  
  
  
 Untersuchungsbericht 
+
 Fahrzeugbrand, 06.02.2019, Unkel 
 4.6.3  Qualifikation	und	Tauglichkeit	
 Im folgenden Kapitel werden die Ergebnisse der Untersuchung von Qualifikation und Tauglichkeit der beteiligten Betriebsbeamten dargestellt. 
@@ -736,10 +688,12 @@ einzustufen wären.
 Auf den letzten ca. 100 km vor dem Ereignisort wurden mehrere betriebsbedingte Brems- 
 und Lösevorgänge, teilweise bis zum Stillstand, verzeichnet. 
 Seite 17 von 28 
+
  
  
  
 Untersuchungsbericht 
+
 Fahrzeugbrand, 06.02.2019, Unkel 
 4.7  Untersuchung	von	Fahrzeugen	
 Der  Zug  DGS 59970  wurde  aus  dem  arbeitenden  elektrischen  Tfz  91 80 6 140 438-2  und 
@@ -777,49 +731,44 @@ Tabelle 5: Technische Wagendaten
 100 km/h 
 KE-GP-A 
 Seite 18 von 28 
+
  
  
  
  
 Untersuchungsbericht 
+
 Fahrzeugbrand, 06.02.2019, Unkel 
 In der nachfolgenden Abbildung ist der Laais-Wagen in einer skizzierten Seitenansicht zu sehen. 
 Abbildung 8: Seitenansicht Laais-Wagen5 
 Wagen der Gattung Laais bestehen aus den zwei Wagenteilen A und B. Im Wagenteil A sind 
-
 sowohl die Feststellbremse als auch das Steuerventil der pneumatischen Bremse verbaut. Die 
-
 pneumatische Bremse im Wagenteil B wird durch das Steuerventil im Wagenteil A gesteuert. 
-
 Beide Wagenteile verfügen über ein jeweils unabhängig arbeitendes Wiegeventil zur Steuerung der automatischen Lastabbremsung. 
 4.7.1  Fahrzeugtechnische	Untersuchung	vor	Ort	
 Am 11.02.2019 wurden die letzten vier Wagen des am Ereignis beteiligten Zuges durch die 
 Untersuchungsbeauftragten der BEU in Augenschein genommen. 
-
-Bei den an elfter und zwölfter Stelle im Wagenzug eingestellten Wagen mit den Wagennum-
-
-mern 24 74 4359 066-3 und 24 74 4359 054-9 sowie dem am Schluss des Zuges gelaufenen 
+Bei den an elfter und zwölfter Stelle im Wagenzug eingestellten Wagen mit den Wagennummern 24 74 4359 066-3 und 24 74 4359 054-9 sowie dem am Schluss des Zuges gelaufenen 
 Kesselwagen mit der Wagennummer 37 80 7932 032-1 konnten keine Hinweise auf eine übermäßige Wärmeentwicklung an den Radsätzen und Bremsen festgestellt werden. 
 Zur Verdeutlichung zeigt die nachfolgende Abbildung die skizzierten Wagen 12 bis 14. 
 Abbildung 9: Übersichtsskizze der Wagen 12 bis 14 
 5 Quelle: BayernBahn GmbH 
 Seite 19 von 28 
+
  
  
  
  
                                                        
 Untersuchungsbericht 
+
 Fahrzeugbrand, 06.02.2019, Unkel 
 Der Laais-Wagen mit der Wagennummer 24 74 4359 054-9, der sich an der zwölften Stelle im 
 Wagenzug befand, wies am Wagenteil A starke Brandschäden auf. Längs- und Querträger des 
 Wagens sowie der Holzboden, der an der Unterseite mit Blech beplankt war, waren verkohlt. 
 Die begutachteten Brandschäden konnten als Folgeschäden identifiziert werden. Am Wagenteil B waren keine Beschädigungen feststellbar. 
 4.7.2  Untersuchung	des	brandauslösenden	Wagens	
-Der Laais-Wagen mit der Wagennummer 24 74 4359 141-4 lief an der 13. Stelle des Wagen-
-
-zuges  und  war  mit  einem  Steuerventil  der  Bauart  KE 1ad SL  (C=3,6)  ausgerüstet.  Die  letzte 
-
+Der Laais-Wagen mit der Wagennummer 24 74 4359 141-4 lief an der 13. Stelle des Wagenzuges  und  war  mit  einem  Steuerventil  der  Bauart  KE 1ad SL  (C=3,6)  ausgerüstet.  Die  letzte 
 Bremsrevision  Br 0  wurde  im  Rahmen  eines  Wechsels  aller  Bremssohlen  am  14.11.2018 
 durchgeführt. Die letzte Prüfung der Radsätze erfolgte am 27.06.2018, die letzte Instandhaltung der Stufe IS 2 am 26.10.2017. 
 Der Wagenteil A war vom Brand augenscheinlich am stärksten betroffen, am Wagenteil B entstanden  nur  geringe  Brandschäden.  Die  Holzbohlen  unter  dem  Wagenkasten  waren  angebrannt und verkohlt, da brennende Ladungsteile schon vor den Löscharbeiten unter den Wagen gerieten. 
@@ -832,9 +781,11 @@ werden.
 Die Bremssohlen an dem vorauslaufenden Radsatz waren vom Hersteller EWA Eisenwerk Arnstadt und bestanden aus dem Werkstoff P10 nach UIC 832-V. Dessen Schmelztemperatur lag 
 bei ca. 1.000°C. Die Bremssohlen wiesen stark unterschiedliche Abnutzungen auf. Die auf dem 
 Seite 20 von 28 
+
  
  
 Untersuchungsbericht 
+
 Fahrzeugbrand, 06.02.2019, Unkel 
 rechten Rad verbauten Bremssohlen hatten noch annähernd die volle Stärke, die auf dem linken Rad verbauten Bremssohlen waren durch den Wärmeeintrag und die Reibung nahezu vollständig  abgetragen  worden.  Gemäß  den  vorgelegten  Instandhaltungsprotokollen  vom 
 14.11.2018 wurden alle Bremssohlen an diesen Wagen gleichzeitig gewechselt. 
@@ -849,16 +800,15 @@ Die  mechanischen  Bauteile  der  Bremsanlage  wiesen  Spuren  starker  thermisc
 auf. Das Bremsgestänge sowie die Handbremse im Wagenteil A waren durch die Hitzeeinwirkung beschädigt. Der Bremsgestängesteller des Wagenteils A war ebenfalls stark thermisch 
 belastet worden, er war jedoch nach dem Brand noch beweglich und die Bremsen wurden bei 
 der Begutachtung im gelösten Zustand vorgefunden. 
-Die pneumatischen Bauteile der Bremsanlage des Wagenteils A, insbesondere das Steuerven-
-
-til  und  das  Wiegeventil,  waren  durch  den  Brand  so  starker  Hitze  ausgesetzt,  dass  auf  eine 
-
+Die pneumatischen Bauteile der Bremsanlage des Wagenteils A, insbesondere das Steuerventil  und  das  Wiegeventil,  waren  durch  den  Brand  so  starker  Hitze  ausgesetzt,  dass  auf  eine 
 nachträgliche Untersuchung der Bauteile verzichtet werden musste. Eine belastbare Funktionsprüfung wäre durch die Beschädigungen nicht mehr möglich gewesen. 
 Seite 21 von 28 
+
  
  
  
 Untersuchungsbericht 
+
 Fahrzeugbrand, 06.02.2019, Unkel 
 Feststellung zur Untersuchung der Fahrzeuge 
 Lfd. Nr. 7 
@@ -874,11 +824,13 @@ beweglich. Die Bremsen waren alle gelöst.
 Aufgrund des Brandschadens war eine Überprüfung der Funktion des Steuerventils sowie 
 der einzelnen Wiegeventile nicht mehr möglich. 
 Seite 22 von 28 
+
  
  
  
  
 Untersuchungsbericht 
+
 Fahrzeugbrand, 06.02.2019, Unkel 
 5  Auswertung	
 Das Kapitel 5 Auswertung befasst sich mit der Ereignisrekonstruktion. Anhand der oben genannten Feststellungen wird ein plausibler Ablauf des gefährlichen Ereignisses zusammengetragen. Relevante Erkenntnis werden anschließend bewertet und führen ggf. zu entsprechenden Schlussfolgerungen. 
@@ -896,21 +848,19 @@ gegen 22:48 Uhr die HOA/FBOA Nr. 194 bei Leutesdorf-Rheinbrohl in km 127,104. Be
 wurden durch die FBOA an den vier Achsen des vorletzten Wagens erhöhte Temperaturwerte 
 zwischen 120°C und 176°C festgestellt. Da die Werte jedoch noch unterhalb der Regelalarmschwellen für „Feste Bremse Warm“ sowie „Feste Bremse Heiß“ lagen, erfolgte keine Meldung 
 an den zuständigen Fdl. Die Detektion der erhöhten Temperaturwerte blieb daher unerkannt. 
-
 Im weiteren Fahrtverlauf stellten ein Rangierer, der sich privat in Linz (Rhein) aufhielt, und ein 
-
 Zugbegleiter in Linz (Rhein) Funkenflug an einem Wagen des DGS 59970 fest und informierten 
 daraufhin gegen 22:55 Uhr den zuständigen Fdl Oberlahnstein 3 bzw. die NFLS in der BZ Frankfurt (Main) über die Unregelmäßigkeit. Der Zug wurde zunächst am Esig des Bf Unkel gestellt 
 und nach Rücksprache zwischen Fdl und Tf zur Untersuchung nach Gleis 2 des Bf Unkel eingelassen. Gegen 23:04 Uhr kam der Zug hier zum Stehen und der Tf begann nach der Sicherung 
 gegen unbeabsichtigtes Bewegen mit der Untersuchung des Zuges. 
 Um 23:23 Uhr meldete der Tf dem Fdl Oberlahnstein 3 einen Brand am drittletzten Wagen. 
-
 Dieser informierte daraufhin die NFLS, welche anschließend um 23:24 Uhr die Rettungskräfte 
-
 Seite 23 von 28 
+
  
  
 Untersuchungsbericht 
+
 Fahrzeugbrand, 06.02.2019, Unkel 
 und den Nmg alarmierte. Im selben Zeitraum wurden durch den Fdl alle Gleise des Bf Unkel 
 gesperrt und die Oberleitung abgeschaltet. 
@@ -923,25 +873,20 @@ Einflüsse durch äußere Bedingungen, die das Ereignis verursacht oder begünst
 Im Rahmen der Untersuchungen konnten keine Hinweise auf eine Fehlfunktion der Leit- und 
 Sicherungstechnik festgestellt werden. Ein Einfluss der bautechnischen Infrastruktur auf das 
 Unfallgeschehen wurde nicht festgestellt. 
-
 Die  am  Ereignis  beteiligten  Betriebspersonale  waren  grundsätzlich  befähigt  und  qualifiziert 
-
 ihre Tätigkeiten auszuführen. Eine Überprüfung der betrieblichen Abläufe des Infrastrukturbetreibers offenbarte keine Fehler, die ereignisursächlich waren. Obwohl dem Fdl Unregelmäßigkeiten am Zug durch einen Rangierer sowie durch die NFLS der BZ Frankfurt (Main) gemeldet worden, leitete er keine Maßnahmen bei Gefahr ein. Dies wäre gemäß Ril 408.0553 jedoch 
 erforderlich gewesen, sobald eine Unregelmäßigkeit an einem Zug festgestellt oder gemeldet 
 wird. Im Rahmen dessen hätte der Zug DGS 59970 sowie eventuell im Nachbargleis verkehrende Züge durch Nothaltauftrag und das auf Halt stellen von Hauptsignalen angehalten werden müssen. 
-
 Grundsätzlich  hätte  der  Fdl  nach  der  eingegangenen  Meldung  über  die  Unregelmäßigkeit 
-
-Maßnahmen bei Gefahr einleiten müssen. Es ist davon auszugehen, dass der Fdl die Zuglauf-
-
-überwachung in seinem Stellbezirk entsprechend der Gefahrensituation richtig eingeschätzt 
-
+Maßnahmen bei Gefahr einleiten müssen. Es ist davon auszugehen, dass der Fdl die Zuglaufüberwachung in seinem Stellbezirk entsprechend der Gefahrensituation richtig eingeschätzt 
 hat. Ein Einfluss auf das Schadensausmaß durch den Brand ist daher auszuschließen. 
 Im Rahmen der Zugvorbereitung wurden am Zugabgangsbahnhof eine wagentechnische Untersuchung sowie eine volle Bremsprobe durch Mitarbeiter des EVU durchgeführt. Bei diesen 
 Seite 24 von 28 
+
  
  
 Untersuchungsbericht 
+
 Fahrzeugbrand, 06.02.2019, Unkel 
 Tätigkeiten, sowie bei einer im Rahmen eines Triebfahrzeugwechsels durchgeführten vereinfachten Bremsprobe, konnten keine Hinweise auf eine fehlerhafte Durchführung festgestellt 
 werden. 
@@ -949,15 +894,10 @@ Der nach dem Triebfahrzeugwechsel in Gunzenhausen erstellte Bremszettel wies ein
 bei der Anrechnung des Bremsgewichtes des arbeitenden Tfz auf. Der Zug verkehrte gemäß 
 den Angaben im Fahrplan in Bremsstellung R/P, an den Fahrzeugen des Wagenzuges war daher die Bremsstellung P einzustellen. Aufgrund des Gesamtwagenzuggewichtes von 1.015 t 
 war am arbeitenden Tfz an der Spitze des Zuges die Bremsstellung G einzustellen. Im Rahmen 
-
-der Ermittlung des Bremsgewichtes und der Erstellung des Bremszettels hätte gemäß den Re-
-
-geln der Ril 915.0101Z01 Abschn. 3 Abs. 2 bei Fahrzeugen in der Bremsstellung G ein Abzug 
+der Ermittlung des Bremsgewichtes und der Erstellung des Bremszettels hätte gemäß den Regeln der Ril 915.0101Z01 Abschn. 3 Abs. 2 bei Fahrzeugen in der Bremsstellung G ein Abzug 
 von 25% des vorhandenen Bremsgewichtes erfolgen müssen. Auf dem Bremszettel für den 
 Zug DGS 59970 wurde jedoch das volle Bremsgewicht des arbeitenden Tfz in der Bremsstellung G angerechnet. Hierdurch ergab sich ein geringfügig höheres ermitteltes Bremsvermögen 
-
 von  88 BrH,  gegenüber  dem  rechnerisch  unter  Berücksichtigung  des  Abzuges  ermittelten 
-
 Bremsvermögen von 87 BrH. Da das für die Zugfahrt geforderte Mindestbremsvermögen von 
 67 BrH dennoch erreicht wurde, hatte der Fehler in der Bremsberechnung keinen Einfluss auf 
 die sichere Durchführung der Zugfahrt und auf das Ereignis. 
@@ -966,40 +906,31 @@ Bremse am Laais-Wagen mit der Wagennummer 24 74 4359 141-4 festgestellt.
 Bereits etwa 20 km vor dem Ereignisort wurden beim Befahren einer FBOA an diesem Fahrzeug erhöhte Temperaturwerte an allen vier Radsätzen detektiert. Die spätere Untersuchung 
 ergab, dass die Bremssohlen an allen vier Radsätzen über eine längere Fahrtstrecke angelegt 
 gewesen sein mussten. 
-Da der betroffene Wagen aus zwei Wagenteilen bestand, die bremstechnisch lediglich pneu-
-
-matisch  miteinander  verbunden  waren,  konnte  ein  ursächlicher  Mangel  am  mechanischen 
-
+Da der betroffene Wagen aus zwei Wagenteilen bestand, die bremstechnisch lediglich pneumatisch  miteinander  verbunden  waren,  konnte  ein  ursächlicher  Mangel  am  mechanischen 
 Bremsgestänge ausgeschlossen werden. Die Beschädigungen, die die mechanische Bremseinrichtung bei der Untersuchung des Fahrzeuges aufwies, konnten den starken thermischen Belastungen durch den Brand zugeordnet werden. 
 Der Wagen verfügte über eine bodenbedienbare Handbremse als Feststellbremse, die nur auf 
 das Bremsgestänge des Wagenteils A wirkte. Obwohl aufgrund der Beschädigung der Handbremse  als  Folge  des  Brandes  der  ordnungsgemäße  Zustand  nicht  mehr  beurteilt  werden 
 Seite 25 von 28 
+
  
  
 Untersuchungsbericht 
+
 Fahrzeugbrand, 06.02.2019, Unkel 
 konnte, konnte aufgrund der Tatsache, dass auch die Bremsen im Wagenteil B eindeutige Spuren einer angelegten Bremse aufwiesen, eine feste Handbremse als Ursache ausgeschlossen 
 werden. 
 Bremstechnisch waren die beiden Wagenteile des Laais-Wagens nur pneumatisch miteinander verbunden, das Steuerventil der Bauart KE 1ad SL (C=3,6) befand sich dabei im Wagenteil 
-
-A. Das Steuerventil arbeitet nach dem Dreidruckprinzip, wobei der Druck in einer etwa 4 l gro-
-
-ßen Steuerkammer A als Referenz gegenüber dem Hauptluftleitungsdruck dient. Diese Steuerkammer A wird aus der Hauptluftleitung auf den Regelbetriebsdruck von 5 bar gefüllt. Eine 
+A. Das Steuerventil arbeitet nach dem Dreidruckprinzip, wobei der Druck in einer etwa 4 l großen Steuerkammer A als Referenz gegenüber dem Hauptluftleitungsdruck dient. Diese Steuerkammer A wird aus der Hauptluftleitung auf den Regelbetriebsdruck von 5 bar gefüllt. Eine 
 Überladung der Hauptluftleitung, wie sie zum Beispiel durch Angleicherbedienung oder einen 
 Füllstoß entstehen kann, führt ebenfalls zu einem Anstieg des Referenzdruckes in der Steuerkammer A. Bei einem langsamen Druckabbau in der Hauptluftleitung wird der Druck in der 
 Steuerkammer A über eine Empfindlichkeitsbohrung dem Druck in der Hauptluftleitung angepasst. Ein schneller Druckabfall in der Hauptluftleitung führt hingegen zu einem Umsteuern 
-
-des Steuerventils und zum Anlegen der Bremse. Um die Bremse zu lösen, muss der Hauptluft-
-
-leitungsdruck in der Folge wieder bis auf den Referenzwert des Druckes in der Steuerkammer 
+des Steuerventils und zum Anlegen der Bremse. Um die Bremse zu lösen, muss der Hauptluftleitungsdruck in der Folge wieder bis auf den Referenzwert des Druckes in der Steuerkammer 
 A erhöht werden. Wird dieser Wert nicht erreicht, löst die Bremse nicht vollständig aus. 
 Bei der Fahrt des DGS 59770 erfolgten auf den letzten ca. 100 km vor dem Ereignisort mehrere 
 betriebsbedingte Brems- und Lösevorgänge, teilweise bis zum Stillstand. Über die genauen 
 Druckverläufe in der Hauptluftleitung liegen keine Aufzeichnungen vor, es ist jedoch davon 
 auszugehen, dass bei einer ordnungsgemäßen Bedienung der Bremse durch den Tf mindestens am Halt in Kaub sowie vor dem Esig des Bf Leutesdorf eine Anhebung des HL-Druckes 
-
 durch Angleichen erfolgte. Die daraus resultierende Überladung der Steuerkammer A hätte 
-
 über die Empfindlichkeitsbohrung im Steuerventil ausgeglichen werden müssen. Das nur an 
 diesem Wagen die Bremsen nicht vollständig gelöst waren, lässt den Schluss zu, dass dieser 
 Ausgleich beim betroffenen Steuerventil nicht oder nicht ausreichend schnell erfolgte. Wurde 
@@ -1010,17 +941,15 @@ Aufgrund der Beschädigungen des Steuerventils war eine Untersuchung nicht mehr 
 Eine belastbare Aussage zum technischen Zustand der Steuerkammer A konnte daher nicht 
 getroffen werden. 
 Seite 26 von 28 
+
  
  
 Untersuchungsbericht 
+
 Fahrzeugbrand, 06.02.2019, Unkel 
 Im Rahmen der Untersuchung der einzelnen Radsätze und Bremssohlen des betroffenen Wagens wurde festgestellt, dass die thermische Belastung durch die feste Bremse am vorauslaufenden Radsatz 1 auf der in Fahrtrichtung linken Seite besonders hoch war. Der Abrieb der 
 Bremssohlen führte zu einem Funkenflug in Richtung des Wagenkastens, der an dieser Stelle 
-eine Beplankung aus Blech aufwies. Diese Beplankung wurde durch den dauernden Hitzeein-
-
-trag zum Glühen angeregt. Die Hitze hatte sich dann über das Stahlblech auf die dort befindli-
-
-chen Paletten übertragen, bis diese Feuer fingen. 
+eine Beplankung aus Blech aufwies. Diese Beplankung wurde durch den dauernden Hitzeeintrag zum Glühen angeregt. Die Hitze hatte sich dann über das Stahlblech auf die dort befindlichen Paletten übertragen, bis diese Feuer fingen. 
 Infolge der besonders stark abgenutzten Bremssohlen auf der in Fahrtrichtung linken Seite 
 des Radsatzes 1 in Verbindung mit den dort an der Blechbeplankung am Wagenboden vorgefundenen Spuren von Funkenspritzern konnte diese Stelle am Wagenteil A des Wagens mit 
 der Nr. 24 74 4359 141-4 als Entstehungsort des Brandes ermittelt werden. 
@@ -1029,11 +958,13 @@ ausgesetzt. Eine detailliertere Untersuchung war infolge der erheblichen Brandsc
 mehr  möglich.  Eine  mögliche  weitere  Wärmequelle  durch  ein  beschädigtes  Radsatzlager 
 konnte ausgeschlossen werden. 
 Seite 27 von 28 
+
  
  
  
  
 Untersuchungsbericht 
+
 Fahrzeugbrand, 06.02.2019, Unkel 
 6  Bisher	getroffene	Maßnahmen	
 Als Sofortmaßnahme wurde durch das EVU das Verladeschema in Abstimmung mit dem Verlader angepasst und keine entzündlichen Stoffe mehr direkt auf dem Wagenboden platziert. 
@@ -1042,6 +973,7 @@ Funkenschutzblechen und Komposit-Bremssohlen ausgetauscht.
 7  Sicherheitsempfehlungen	
 Es wurden keine Sicherheitsempfehlungen ausgesprochen. 
 Seite 28 von 28 
+
  
  
 

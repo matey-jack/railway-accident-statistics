@@ -113,6 +113,7 @@ Bisher getroffene Maßnahmen ...................................................
 
 
  1 
+
  1.1 
  1.2 
  1.3 
@@ -141,6 +142,7 @@ Seite 3 von 22
  
  
  
+
  
  
  
@@ -163,9 +165,9 @@ Seite 3 von 22
  
  
 Untersuchungsbericht 
+
 Zugentgleisung,  02.07.2014,  Hagen Gbf 
 Abbildungsverzeichnis: 
-
 Abb.: 1 Aufgleisung Tfz 152 147-0 ...........................................................................................7
 
 
@@ -206,26 +208,14 @@ Tabelle 3 Auszug aus dem Prüfblatt für Weichen mit Klammerverschluss .........
 
 
 Vers. 1.0 
+
 Seite 4 von 22 
 
  
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
 Untersuchungsbericht 
 Zugentgleisung,  02.07.2014,  Hagen Gbf 
 ABW 
@@ -285,8 +275,10 @@ Seite 5 von 22
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  02.07.2014,  Hagen Gbf 
 1  Zusammenfassung 
 1.1  Kurzbeschreibung des Ereignisses 
@@ -313,7 +305,9 @@ Seite 6 von 22
 Zugentgleisung,  02.07.2014,  Hagen Gbf 
 Abb.: 1 Aufgleisung Tfz 152 147-0 
 
+
 Abb.: 2 Folgeschäden am Oberbau 
+
 Vers. 1.0 
 Seite 7 von 22 
 
@@ -324,8 +318,10 @@ Seite 7 von 22
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  02.07.2014,  Hagen Gbf 
 2  Vorbemerkungen 
 2.1  Organisatorischer Hinweis 
@@ -351,8 +347,10 @@ Seite 8 von 22
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  02.07.2014,  Hagen Gbf 
 3  Ereignis 
 3.1  Hergang 
@@ -385,14 +383,19 @@ Seite 9 von 22
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  02.07.2014,  Hagen Gbf 
 Abb.: 3 Entgleisungsstelle Gleis 216, Weiche 446 
 
+
 Quelle: Lageplan DB Netz AG bearbeitet durch EUB 
 
+
 Vers. 1.0 
+
 Seite 10 von 22 
 
  
@@ -439,7 +442,6 @@ zu gelangen. Für das Zurückrangieren des Zuges wurde der Tf von einem Rangierb
 
 unterstützt. Weiterhin gab der Tf an, dass er im Anschluss den Auftrag zum Vorziehen nach 
 Gleis  216  Fahrt  am  Sperrsignal  190V  erhielt.  Mündlich  wurde  ihm  mitgeteilt,  dass  die  Ausfahrt  erneut  auf  Ersatzsignal  Zs1  stattfinden  würde.  Nach  Erhalt  des  Ersatzsignals  Zs1  in 
-
 Gleis 216 setzte der Tf den Zug in Bewegung. Er sagte aus, dass die Entgleisung hinter dem 
 Vers. 1.0 
 Seite 11 von 22 
@@ -451,8 +453,10 @@ Seite 11 von 22
  
  
    
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  02.07.2014,  Hagen Gbf 
 Standort  des  Ersatzsignals  in  der  ersten  Weiche  stattfand.  Er  leitete  umgehend  eine 
 Schnellbremsung ein und verständigte den Fdl. 
@@ -494,9 +498,7 @@ Abb.: 5 beschädigte Stützknaggen
 Stammgleis Weiche 446 
 Nach  vorliegendem  Überschreitungsprotokoll  wurden  bei  der  Regelinspektion  vom  27.06. 
 2013  zwei  SRlim  Überschreitungen  bei  der  Spurweitenmessung  im  Stammgleis  festgestellt. 
-
 Die  festgestellten  Fehler  wurden  unmittelbar  beseitigt.  In  den  folgenden  Regelinspektionen 
-
 vom 03.12.2013 und 03.06.2014 wurden keine Mängel am Stammgleis der Weiche 446 festgestellt. 
 Auszug aus dem Weichenprüfblatt (Überschreitungsprotokoll) der Weiche 446 Stammgleis 
 Regelinspektion Datum 
@@ -568,23 +570,26 @@ LST  Fachkräften  nach  Prüfblatt  892.9302V51  überprüft.  Dabei  wurden  k
 
 Auszug aus dem Prüfblatt für Weichen mit Spitzenklammerverschluss DB 258 
 Weichengrundform 
-Stellwerk Hgf ‐
+Stellwerk Hgf -
 S49 
 Ost 
 
 Weichennr. 446 
 Verschluss 
-Spitzenver‐
-schluss 
-Zungenaufschlag Durchfahrril‐
-le/weite (mm) 
+
+Spitzenverschluss 
+
+Zungenaufschlag Durchfahrrille/weite (mm) 
+
 Soll 
 Ist 
 L 
 R 
 Überdeckung (mm) 
+
 4/5mm Probe 
 erfüllt? 
+
 Soll 
 Ist 
 (j/n) 
@@ -600,30 +605,31 @@ ja
 158 
 49 ± 10 
 48 
+
 *Umstellwiderstand der Weiche (Ist) 
 [N] (Umstellen der Weiche für Fahrtrichtung 
 nach…) 
+
 L 
 200 
+
 R 
 *000 
+
 Stellkraft des Antriebs (Ist) 
-[N] (Umstellen der Weiche für Fahrt‐
-richtung nach …) 
+[N] (Umstellen der Weiche für Fahrtrichtung nach …) 
 L 
 4100 
+
 R 
 2900 
+
 min 
 2800 
 Tabelle 3 Auszug aus dem Prüfblatt für Weichen mit Klammerverschluss 
-
 *Der Umstellwiderstand beschreibt die Kraft die notwendig ist um die Weichenzunge über Reibungswiderstände wie Gleitstuhl 
-
 etc. hinweg zu bewegen. Dieser Widerstand kann in erster Linie mittels Weichenschmierung reguliert werden. Der Wert 000 N 
-
 beim Umstellwiderstand ergibt sich durch die Skalierung des Messgerätes. Hiernach wird, nach einem tatsächlichen Messwert 
-
 unter 100 N, der Messwert 000 N ausgegeben. 
 Abb.: 6 Weichenantrieb Weiche 446 
 Vers. 1.0 
@@ -635,6 +641,7 @@ Seite 15 von 22
 
  
 Untersuchungsbericht 
+
 Zugentgleisung,  02.07.2014,  Hagen Gbf 
 Signalanlagen 
 Die  Weichen  445  und  457  waren  wegen  eines  Kabelschaden  in  Linkslage  (445)  bzw. 
@@ -644,18 +651,14 @@ Weiche 457 nicht möglich.
 4.5  Untersuchung der betrieblichen Handlungen 
 Ausfahrt aus Gleis 224 
 Verantwortlich für die betrieblichen Handlungen war der Fahrdienstleiter auf Stellwerk Hagen 
-
 Gbf.  Bei  dem  Mitarbeiter  handelt  es  sich  um  einen  erfahrenen  Fdl  der  auf  dem  Stellwerk 
-
 nach vorliegenden Unterlagen vorschriftsmäßig eingewiesen und geprüft wurde. Der Fortbildungsunterricht  wurde  regelmäßig  besucht.  Überwachungen  am  Arbeitsplatz  nach  Ril 
 408.1111 wurden durchgeführt. 
 Bei  der  Sachverhaltsermittlung  wurde  festgestellt,  dass  die  Zugfahrt KT 50017 abweichend 
 vom  Regelfahrweg,  wegen  Personalaufnahme  durch  den Bf Hagen Gbf geführt wurde. Der 
 Triebfahrzeugführer  war  darüber  informiert  und  hatte  entsprechende  Fahrplanunterlagen 
 vorliegen. 
-
 Die  Zugfahrt  endete  vor  dem  Ls  190V  in  Gleis  190.  Nach  Personalaufnahme  erhielt  der  Tf 
-
 den  Auftrag  als  Rangierfahrt  nach  Gleis  224  vorzuziehen  um  von  dort  aus  wieder  als  Zugfahrt KT 50017 seine Fahrt fortzusetzen. Nach vorliegenden GSM-R Aufzeichnungen wurde 
 der Tf entsprechend über Ziel, Zweck und etwaige Besonderheiten nach Ril 408.0811 durch 
 den zuständigen Fdl informiert. 
@@ -673,8 +676,10 @@ Seite 16 von 22
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  02.07.2014,  Hagen Gbf 
 Wegen der im Fahrweg liegenden und wegen technischer Störung festgelegten Weiche 457, 
 sollte die Zugfahrt auf Ersatzsignal Zs1 stattfinden. 
@@ -687,9 +692,7 @@ Gemäß Richtlinie 408 „Züge fahren und Rangieren“ Modul 0231 ist eine Vora
 eine  bevorstehende  Zugfahrt  die  Durchführung  einer  Fahrwegprüfung.  Bei  korrekter  Fahrwegprüfung wäre die falsche Stellung der Weiche 457 bemerkt worden. 
 Weiterhin kann bei „Zugfahrt mit besonderem Auftrag“ über die Stellwerkstechnik DrS nicht 
 festgestellt werden, ob der Zugfolgeabschnitt frei ist. Wie entsprechend zu verfahren ist wird 
-
 in  der  Ril  408.0241  beschrieben.  Hiernach  ist  das  Freisein  des  Zugfolgeabschnittes  durch 
-
 eine Räumungsprüfung sicherzustellen. Diese Räumungsprüfung wird durch den Fahrdienstleiter  der  nächsten  Zugmeldestelle  durchgeführt  und  dem  rückliegenden  Fahrdienstleiter 
 durch  das  Verfahren  Rückmelden  telefonisch  gemeldet.  Diese  Zugmeldeverfahren  sind  im 
 Zugmeldebuch einzutragen. Entsprechende Einträge wurden nicht gefunden. 
@@ -712,29 +715,29 @@ Seite 17 von 22
 Zugentgleisung,  02.07.2014,  Hagen Gbf 
 Abb.: 7 Einfahrt und versuchte Ausfahrt durch Gleis 224 
 
+
 Quelle: Lageplan DB Netz AG bearbeitet durch EUB 
 
+
 Vers. 1.0 
+
 Seite 18 von 22 
  
  
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  02.07.2014,  Hagen Gbf 
 Ausfahrt aus Gleis 216 
 Nach dem der Zug KT 50017 als Rangierfahrt hinter das Ls 190V  zurückgesetzt hatte, bekam 
-
 der  Tf  durch  den  verantwortlichen  Fdl  den  Auftrag  nach  Gleis  216  bis  zum  Ausfahrsignal 
-
 N216  vorzuziehen  und  von  dort  als  Zugfahrt  die  Fahrt  fortzusetzen.  Wegen  der  Länge  von 
-
 fast  700  m  blockierte  der  Zug  notwendige  Fahrwegelemente  für  das  Einstellen  einer  Zugfahrstraße. Deshalb konnte keine Zugfahrstraße eingestellt werden und die Fahrtstellung des 
-
 Asig  war  nicht  möglich.  Für  den  Fdl  bestand  nur  die  Möglichkeit  den  Zug  auf  Ersatzsignal 
-
 Zs1 ausfahren zulassen. 
 Bei der Verwendung des Ersatzsignals Zs1 wurden gravierende Fehler festgestellt: 
 	  nach  dem  alle  Fahrwegelemente  in  die  richtige  Stellung  gebracht  wurden  hätte  eine 
@@ -760,14 +763,19 @@ Seite 19 von 22
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  02.07.2014,  Hagen Gbf 
 Abb.: 8 Rangierfahrt zur Ausfahrt in Gleis 216 
 
+
 Quelle: Lageplan DB Netz AG bearbeitet durch EUB 
 
+
 Vers. 1.0 
+
 Seite 20 von 22 
 
  

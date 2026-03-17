@@ -100,6 +100,7 @@ Untersuchung der Infrastruktur .................................................
 
 
  1 
+
  1.1	 
  1.2	 
  1.3	 
@@ -116,14 +117,16 @@ Untersuchung der Infrastruktur .................................................
  4.2	 
  4.3	 
 4.3.1	 
-
 Feststellungen an der Unfallstelle........................................................................ 15
 
 
 4.3.2	 
+
 Feststellungen zum Unterhaltungszustand der Infrastruktur ............................... 20
 
+
  4.4	 
+
  4.5	 
 Untersuchung der Leit- und Sicherungstechnik................................................... 20
 
@@ -132,6 +135,7 @@ Untersuchung der betrieblichen Handlungen ......................................
 
 
 4.5.1	 
+
 Bedienplatz des örtlich zuständigen Fahrdienstleiters in der 
 
 
@@ -159,12 +163,7 @@ Untersuchung von Fahrzeugen ....................................................
 
 
 Seite 3 von 35 
- 
- 
- 
- 
- 
- 
+
  
  
  
@@ -197,9 +196,9 @@ Seite 3 von 35
  
  
 Untersuchungsbericht 
+
 Zugentgleisung,  13.05.2013,  Berlin Hauptbahnhof 
 4.6.1 
-
 Werkstattbericht................................................................................................... 30
 
 
@@ -219,6 +218,7 @@ Interpretation der Unfallspuren ................................................
 
 
 5 
+
 6 
 Auswertung und Schlussfolgerungen ............................................................. 34
 
@@ -227,11 +227,7 @@ Bisher getroffene Maßnahmen ...................................................
 
 
 Seite 4 von 35 
- 
- 
- 
- 
- 
+
  
  
  
@@ -245,10 +241,10 @@ Seite 4 von 35
  
  
 Untersuchungsbericht 
+
 Zugentgleisung,  13.05.2013,  Berlin Hauptbahnhof 
 Abbildungsverzeichnis: 
 Abb. 1:   
-
 Aufnahmen an der Unfallstelle...................................................................................9
 
 
@@ -262,9 +258,12 @@ Abb. 3:   Die Weiche befand sich bei der Besichtigung nicht in Endlage. ........
 
 Abb. 4:  Das Fehlen von Aufkletter- bzw. Abgleitspuren und sichtbare Schleifspuren an den 
 
+
 Außenseiten der Zungen lassen darauf schließen, dass die Weiche sich bereits 
 
+
 beim Befahren durch das Triebfahrzeug nicht in Endlage befunden hatte. .............16 
+
 
 Abb. 5:   Die in Fahrtrichtung linke Schiene der Weiche wies einen Schienenbruch auf, der 
 
@@ -274,6 +273,7 @@ jedoch Folge und nicht Ursache der Entgleisung war. ............................
 
 Abb. 6:   Die Knaggen der Weiche 102 waren stark beschädigt bzw. abgeschert. Auf dem 
 
+
 Fahrspiegeln sind die Aufschlagspuren der Chassis der entgleisten Wagen 
 
 
@@ -282,8 +282,11 @@ erkennbar ......................................................................
 
 Abb. 7:   Durch die zweigleisige Fahrt stark beschädigte Schwellen im Weichenbereich......18 
 
+
 Abb. 8:   
+
 Die Schienen wiesen infolge der Entgleisung starke Verformungen auf .................19
+
 
 Abb. 9:   
 
@@ -298,7 +301,9 @@ Fahrdienstleiter................................................................
 
 Abb. 11: Ausdruck des Protokoll- und Störungsdruckers (PSD) des ESTWs ........................22
 
+
 Abb. 12: Ausdruck aus dem Busmithörrechner in der ESTW- Unterzentrale Papestraße für 
+
 
 den vom LFP 178 zwischen 11:25 und 11:39 befahrenen Streckenabschnitt .........24 
 
@@ -322,24 +327,7 @@ Abb. 17: graphische Darstellung des Fahrverlaufs ...............................
 
 
 Seite 5 von 35 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
 Untersuchungsbericht 
 Zugentgleisung,  13.05.2013,  Berlin Hauptbahnhof 
 Abkürzungsverzeichnis 
@@ -417,8 +405,10 @@ Seite 7 von 35
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  13.05.2013,  Berlin Hauptbahnhof 
 1 
 Zusammenfassung 
@@ -486,8 +476,10 @@ Seite 10 von 35
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  13.05.2013,  Berlin Hauptbahnhof 
   DB Fernverkehr AG 
 Im  Rahmen  der  Sachverhaltsermittlung  und  Ursachenerforschung  wurden folgende externe 
@@ -505,22 +497,16 @@ gültige Fahrplanordnung (Fplo) 10168 für den Leerpark jedoch einen geänderten
 Richtung Grunewald über Moabit vor. 
 Die Abweichung von der gültigen Fahrplanordnung wurde erst bemerkt, als sich der Zug bereits in Bewegung gesetzt und das Signal 51ZU5 passiert hatte. Der özF fragte beim Triebfahrzeugführer (Tf) an, ob dieser vor dem Sperrsignal 51L325Y (vor Weiche 51W108) halten 
 könne. Dies wurde bejaht. 
-
 Der  Fahrdienstleiter  stellte  nach  Bestätigung  des  Halts  durch  den  Triebfahrzeugführer  das 
-
 Sperrsignal auf Halt, löste die Fahrstraße zum Streckenziel 51LUWE1 mit Hilfstastenbedienung  (FHA)  auf  und  stellte  eine  neue  Fahrstraße  vom  Signal  51ZU5  (für  diese  Fahrstraße 
-
 ein  Zwischensignal)  in  Richtung  Grunewald  bis  zum  Streckenziel  51LUMA6  ein.  Für  diese 
 Fahrstraße musste sich die Weiche 51W102 in Rechtslage befinden. 
 Die  Fahrstraße  lief  vom Zwischensignal 51ZU5 bis zum Ausfahrsignal 51P28 ein. Die Weiche 51W102 lief nach Plus (Rechtslage) und das Signal 51P28 ging auf Fahrt. Am Bedienplatz wurde in der Lupendarstellung BL1 ein blinkender Festlegeüberwachungsmelder (FÜM) 
 am Signal 51ZU5 angezeigt, da noch Abschnitte dieser (Teil-)Fahrstraße durch den LPF 178 
-
 besetzt  waren.  Laut  Ril  482.9090  blinkt  der  FÜM  an  Signalen  Grün,  wenn  die  Weichen  im 
-
 Fahrweg bis zum nächsten Signal gesichert sind. 
 Gemäß Aussage der DB Netz AG wird bei Schulungen des Stellwerkspersonals empfohlen, 
 in Fällen mit blinkendem FÜM eine Fahrwegprüfung (FP) durchzuführen, um die Ursache für 
-
 den  blinkenden  FÜM  zu  ermitteln.  In  der  einschlägigen  Ril  482.9090  ist  jedoch  eine  Fahrwegprüfung nicht zwingend vorgeschrieben. 
 Seite 11 von 35 
  
@@ -529,8 +515,10 @@ Seite 11 von 35
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  13.05.2013,  Berlin Hauptbahnhof 
 Der özF führte in diesem Falle keine Fahrstraßenprüfung durch, weil ihm die Ursache für den 
 blinkenden FÜM (besetzter Gleisabschnitt) bekannt war. 
@@ -544,15 +532,12 @@ beseitigt werden musste. Deshalb wurden vor der Abfahrt des Leerparks zunächst 
 Zwischenzeitlich fuhr der RE 18348 nach Gleis 6 ein. 
 Inzwischen war der LPF 178 mit Einverständnis des özF weiter gefahren. Nachdem er den 
 Abschnitt  51G325  zwischen  dem  Signal  51ZU5  und  dem  Sperrsignal  51L325Y  verlassen 
-
 hatte,  wurde  auf  dem  Bild  der  Lupe  BL2  dieser  Abschnitt  als  frei  gefahrener  Teil  der  Zugstraße angezeigt. 
 Nachdem der Durchrutschweg für den RE 18348 aufgelöst war, wollte der özF den ICE 1514 
 aus Gleis 7 fahren lassen. 
 Für  diese  Ausfahrt  musste  die  Fahrstraße  des  LPF  178  von  Signal  51ZU5  bis  zum  Signal 
 51P28 aufgelöst werden. Mit einer FA- Bedienung wurde die Auflösung der Fahrstraße vollzogen, ohne dass der Zug die entsprechende Fahrstraßenzugschlussstelle 51W101 passiert 
-
 hatte.  Durch  die  vorzeitige  Auflösung  der  Fahrstraße  für  den  LPF  178  lief  Weiche  51W102 
-
 als Flankenschutz in die projektierte Grundstellung (Linkslage) um. 
 Der LPF 178 befuhr die Weiche 51W102 während des Umlaufes von der Rechtslage in die 
 Grundstellung. 
@@ -588,25 +573,19 @@ ca.
 ca. 
 543.000 € 
 
+
 57.000 € 
 
+
 350.000 € 
+
 25.000 € 
+
 
 160.000 € 
 
+
 Seite 13 von 35 
- 
- 
- 
- 
- 
-   
- 
- 
- 
- 
- 
 
 Untersuchungsbericht 
 Zugentgleisung,  13.05.2013,  Berlin Hauptbahnhof 
@@ -627,9 +606,7 @@ Nachdem das Sperrsignal erneut Sh1 gezeigt hätte, habe er über GSM- R beim Fdl
 Fahrweg nun in Richtung Moabit eingestellt sei. Dann sei der Anfahrversuch an der Steigung 
 jedoch  auf  Grund  einer  Triebfahrzeugstörung  fehlgeschlagen  und  er  hätte  den  Fdl  darüber 
 informiert. Danach habe er an der Beseitigung der Störung gearbeitet. Das Sperrsignal habe 
-
 dabei  weiterhin  Sh1  gezeigt.  Nach  der  Störungsbeseitigung  hätte  er  sich  wieder  beim  Fdl 
-
 gemeldet  und  von  diesem  die  Zustimmung  zur  Abfahrt  erhalten.  Nun  hätte  er  den  Zug  in 
 Richtung Ausfahrt, die KS 2 (Halt erwarten) gezeigt habe, in Bewegung gesetzt. In der zweiten Weiche nach dem Sperrsignal seien dann das Triebfahrzeug und die ersten beiden Wagen  entgleist.  Noch  bevor  er  hätte  Maßnahmen  ergreifen  können,  habe  sich  der  Fdl  über 
 GSM- R bei Ihm erkundigt, ob sein Zug entgleist sei. 
@@ -642,9 +619,7 @@ Seite 14 von 35
  
 Untersuchungsbericht 
 Zugentgleisung,  13.05.2013,  Berlin Hauptbahnhof 
-
 Haltebremse  hätte  jedoch  nicht  zum  festhalten  des  Zuges  in  der  Steigung  ausgereicht,  so 
-
 dass der Zug um ca. 2 bis 3 Meter zurück gerollt sei. Er habe den Zug sofort wieder eingebremst. Beim Anfahrversuch hätte das Tfz eine Störung in einem ASG „Drehrichtungserkennung fehlerhaft“ angezeigt. Daraufhin hätte er das ASG aus- und wieder eingeschaltet. Nach 
 Rücksprache  und  Zustimmung  des  Fdl  hätte  er  einen  weiteren  Anfahrversuch  ohne  AFB 
 unternommen. 
@@ -657,11 +632,8 @@ und  Katastrophenschutzgesetze  der  Länder.  Das  Notfallmanagement  der  DB  
 Richtlinie (Ril) 123 näher beschrieben und geregelt. Erkenntnisse, dass es beim Notfallmanagement zu Verzögerungen, Störungen etc. gekommen sein könnte liegen nicht vor. 
 4.3 
 Untersuchung der Infrastruktur 
-
 Die  Entgleisung  ereignete  sich  auf  der  Strecke  6171  in  km  1,400  innerhalb  des Bahnhofes 
-
 Berlin  Hbf.  Die  Strecke  6171  ist  der  TEN-  Kategorie  III  –  HGV  zugeordnet.  Im  Bereich  der 
-
 Entgleisungsstelle  ist  ein  Schotteroberbau  mit  Betonschwellen  vorhanden.  Die  Strecke  ist 
 elektrifiziert. Die örtlich zulässige Geschwindigkeit beträgt im für die Entgleisung relevanten 
 Streckenabschnitt v ≤ 90 km/h. 
@@ -680,8 +652,10 @@ Seite 15 von 35
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  13.05.2013,  Berlin Hauptbahnhof 
 Gleislagefehler  waren  auf  dem  Abschnitt  vor  der  Weiche  102  augenscheinlich  nicht  wahrnehmbar. 
 Abb. 3: Die Weiche befand sich bei der Besichtigung nicht in Endlage. 
@@ -709,24 +683,27 @@ Im  Weichenbereich  wurde  ein  Schienenbruch  festgestellt,  welcher  jedoch  a
 
 Lage nicht als Ursache, sondern als Folge der Entgleisung angesehen werden muss. 
 
+
 Die  Knaggen  der  Weiche  102  waren  stark  beschädigt,  teilweise  abgeschert.  Auf  den  Fahrspiegeln  waren  Aufschlagspuren  und  Schleifmarken,  verursacht  durch  das  Schleifen  von  
+
 
 Teilen der Chassis auf den Schienen nach der Entgleisung, deutlich sichtbar. Zudem waren 
 
+
 viele Schwellen durch die Spurkränze der entgleisten Radsätze erheblich beschädigt. 
+
 
 Die Schienen waren durch die Entgleisung stark verformt und die Gleise verschoben. 
 
+
 Die Anlagen der Leit- und Sicherungstechnik waren teilweise zerstört. 
 
+
 Seite 17 von 35 
- 
- 
- 
- 
- 
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  13.05.2013,  Berlin Hauptbahnhof 
 Abb. 6: Die Knaggen der Weiche 102 waren stark beschädigt bzw. abgeschert. Auf dem Fahrspiegeln 
 sind die Aufschlagspuren der Chassis der entgleisten Wagen erkennbar 
@@ -738,8 +715,10 @@ Seite 18 von 35
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  13.05.2013,  Berlin Hauptbahnhof 
 Abb. 8: Die Schienen wiesen infolge der Entgleisung starke Verformungen auf 
 Abb. 9: Die LST- Einrichtungen waren größtenteils zerstört 
@@ -766,9 +745,7 @@ Die letzten vier Messfahrten wurden am 03.05.2012, am 20.08.2012, am 07.11.2012 
 30.03.2013 durchgeführt. Die Ergebnisse lagen für den Bereich der Entgleisungsstelle in km 
 1,400 im zulässigen Bereich. Überschreitungen der zulässigen Abweichungen der Gleislage 
 für  die  Parameter  Längshöhe,  Richtung,  gegenseitige  Höhenlage  oder  ORE-  Verwindung 
-
 wurden  nicht  registriert.  Die  Spurweite  bewegte  sich  ebenfalls  im  zulässigen  Bereich.  Die 
-
 Weichenprüfblätter für die Weiche 102 wiesen für die letzten drei Prüfungen am 20.02.2012, 
 am 23.07.2012 und am 29.01.2013 keine Auffälligkeiten aus. 
 Diese  Feststellungen  bestätigen  die  Beobachtungen  bei  der  Ortsbegehung  am  13.  und 
@@ -792,9 +769,7 @@ Zugentgleisung,  13.05.2013,  Berlin Hauptbahnhof
 Untersuchung der betrieblichen Handlungen 
 4.5.1 	
 Bedienplatz des örtlich zuständigen Fahrdienstleiters in der Betriebszentrale 
-
 Am  14.05.2013  erfolgte  Einsicht  in  die  Betriebsunterlagen  am  Bedienplatz  des  özF  in  der 
-
 Betriebszentrale. Der özF ist zuständig für den Bereich zwischen den Bahnhöfen Berlin Hbf 
 und Ludwigsfelde Blf, der unter anderem auch die Bahnhöfe Potsdamer Platz, Südkreuz und 
 Lichterfelde Ost umfasst. 
@@ -808,8 +783,10 @@ Seite 21 von 35
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  13.05.2013,  Berlin Hauptbahnhof 
 dern (BPAF 1, BPAF 2, BPOF, BL1 und BL2) diejenigen aufschalten, welche für die Abwicklung von Zug- und Rangierfahrten in seinem Steuerbezirk erforderlich sind. 
 4.5.2 
@@ -839,12 +816,12 @@ Seite 22 von 35
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  13.05.2013,  Berlin Hauptbahnhof 
-
 Handlungen,  die  nicht  die  Betätigung  einer  Hilfstaste  erfordern,  werden  ausschließlich  im 
-
 Busmithörrechner der Unterzentrale gespeichert und sind nur dort verifizierbar. 
 Die abgerufenen Aufzeichnungen zeigen zunächst, dass der Bereich 51ZU5 durch den LFP 
 178  besetzt  wurde.  Die  Fahrstraßeneinstellung  (51ZU5.51LUWE1)  erfolgte  durch  den  özF 
@@ -852,9 +829,7 @@ um 11.24 Uhr. Diese Fahrstraße wich von der gültigen Fahrplanordnung ab.
 LFP 178 befuhr um 11:25 den Bereich der Weiche 51W115 und danach den des Sperrsignals 51L325Y. 
 Nach Anfrage durch den özF, ob er vor dem Sperrsignal 51L325Y halten könne, stand der 
 LPF 178 um 11.25 Uhr und 57 Sekunden vor dem genannten Signal. 
-
 Der  Fahrdienstleiter  stellte  nach  Bestätigung  des  Halts  durch  den  Triebfahrzeugführer  das 
-
 Sperrsignal auf Halt, löste die Fahrstraße von Signal 51ZU5 nach 51LUWE1 mit Hilfstastenbedienung  auf  und  stellte  eine  neue  Fahrstraße,  beginnend  von  51ZU5,  in  Richtung 
 51LUMA6 ein. Die Weiche 51W102 lief in die Rechtslage um. Um 11.26 Uhr und 41 Sekunden ging das Sperrsignal 51L325Y auf Fahrt. 
 Der LPF 178 befuhr um 11.36 und 6 Sekunden den Bereich der Weiche 51W108 unmittelbar 
@@ -862,9 +837,7 @@ hinter den Signal 51L325Y und um 11.36 Uhr und 33 Sekunden den der Weiche 51W105
 Die Freimeldung für den Bereich des Signals 51L325Y erfolgte um 11.36 Uhr und 38 Sekunden. Drei Sekunden zuvor hatte der özF die Fahrstraße nach 51LUMA6 in Richtung Signal 
 51P28 aufgelöst. 
 Die  Weiche  51W102  lief  um  11.36  Uhr  und  41  Sekunden  in  Grundstellung  (Linkslage)  um. 
-
 Vier  Sekunden  später  fuhr  der  LPF  178  in  den  Weichenbereich  ein.  Um  11.36  Uhr  und  55 
-
 Sekunden wurde eine Störung der Weiche gemeldet. 
 Diese Abläufe, welche den Inhalt der Aufzeichnungen der Gespräche zwischen dem özF und 
 dem  Tf  im  Wesentlichen  bestätigen, lassen den Schluss zu, dass der LPF 178 die Weiche 
@@ -875,8 +848,10 @@ Seite 23 von 35
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  13.05.2013,  Berlin Hauptbahnhof 
 Der özF stellt eine 
 neue Fahrstraße von 
@@ -908,8 +883,10 @@ Seite 24 von 35
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  13.05.2013,  Berlin Hauptbahnhof 
 Der relevante Abschnitt der Strecke 6171 ist in den Bereich der ESTW- UZ Papestraße integriert,  welcher  vom  zuständigen  özF  an  einem  Bedienplatz  in  der  Betriebszentrale  Berlin 
 gesteuert wird. 
@@ -926,8 +903,10 @@ Seite 25 von 35
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  13.05.2013,  Berlin Hauptbahnhof 
 „(…) Wenn Sie die Arbeit übergeben, müssen Sie den übernehmenden Mitarbeiter auf Besonderheiten hinweisen. Als übernehmender Mitarbeiter müssen Sie die Unterlagen und das 
 Auftragsbuch sofort nach Arbeitsaufnahme einsehen.(…)“ 
@@ -942,28 +921,34 @@ Seite 26 von 35
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  13.05.2013,  Berlin Hauptbahnhof 
 Die Übergabe erfolgt mit Hilfe der Anordnungen für den Zugverkehr für jeden Tag, die im 
 
+
 Bereich des ESTWs Papestraße gültig sind.
+
 
 Die  Sprachaufzeichnungen  des  Gesprächs  zwischen  dem  Fahrdienstleiter  und  dem  Triebfahrzeugführer bestätigen, dass der özF einen falschen Fahrweg eingestellt hatte. 
 
+
 Gemäß  der  Ril  408.0458  „Züge  fahren  Zustimmung  des  Fahrdienstleiters  zurücknehmen“,  
+
 
 Abschnitt  1  „Hauptsignal  auf  Halt  stellen,  Signal  Sh1  (DS301)  zurücknehmen“,  muss  der  
 
+
 Fahrdienstleiter ein Signal auf Halt stellen 
+
 
 „(…) 2. sofort, wenn vermieden werden soll, dass ein Zug in eine Strecke eingelassen wird, die nicht seinem Fahrplan entspricht (Fehlleitung)“ 
 Weiter heißt es dann in der Richtlinie: 
 „die Fahrstraße dürfen Sie jedoch erst auflösen, wenn 
 - Der Zug zum Halten gekommen ist (…)“ 
-
 Im  Abschnitt  2  „Wann  darf  ein  Hauptsignal  auf  Halt  gestellt  werden?“  der  Ril  408.0458  ist 
-
 ausgeführt: 
 „Der Fahrdienstleiter darf über die in Abschnitt 1 genannten Anlässe hinaus ein Hauptsignal 
 in folgenden Fällen auf Halt stellen: 
@@ -973,30 +958,36 @@ und die Fahrstraße auflösen, wenn folgende Bedingungen erfüllt sind:
 halten bleibt(…)“ 
 Der özF nahm die eingestellte Fahrstraße zum Streckenziel 51LUWE1 unter Bedienung der 
 
+
 Hilfstaste erst zurück, nachdem der sich über GSM- R vergewissert hatte, dass der Zug vor 
+
 
 dem Sperrsignal 51L325Y zum Halt gekommen war. 
 
+
 Insofern war der Ril 408.0458 genüge getan. 
+
 
 Danach stellte er eine neue Fahrstraße vom Signal 51ZU5 über das Ausfahrsignal 51P28 in 
 
+
 Richtung Grunewald (über Moabit) mit Streckenziel 51LUMA6. 
+
 
 Dabei wurde wegen des noch durch den LPF 178 besetzten Gleisabschnittes zwischen Weiche 51W115 und Sperrsignal 51L325Y für den Abschnitt zwischen Signal 51ZU5 und Signal 
 
+
 51P28 ein blinkender FÜM angezeigt. 
+
 
 In der Ril 482.9090 ist für einen blinkenden FÜM ausgeführt: 
 
+
 Seite 27 von 35 
- 
- 
- 
- 
- 
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  13.05.2013,  Berlin Hauptbahnhof 
 „Blinkt  der  FÜM  grün,  sind  die  Weichen  im  Fahrweg  gesichert.  Für die einzelne Weiche ist 
 Flankenschutz vorhanden, wenn er angezeigt wird.“ 
@@ -1013,7 +1004,6 @@ Die Darstellung der Lupe BL2 erfasst den Bereich bis zur Weiche 51W115, jedoch n
 ab der Weiche 51W108 bis zum Signal 51P28. 
 Auf Grund der Tatsache, dass der Abschnitt der Fahrstraße nach 51LUMA6 beginnend mit 
 dem  Signal  51ZU5  bis  zur  Weiche  51W115  durch  den  LPF  178  nicht  befahren  wurde  sondern  bereits  durch  ihn  passiert  worden  war,  bevor  die  neue  Fahrstraße  eingestellt  wurde, 
-
 erschien dieser Abschnitt in der Lupendarstellung BL2 als freigefahren. 
 Bei Einstellung ohne Festlegung erfolgt keine Regelauflösung der Fahrstraße. Somit konnte 
 und musste der Teilabschnitt der Fahrstraße zwischen den Signalen 51ZU5 und 51P28 von 
@@ -1028,8 +1018,10 @@ Seite 28 von 35
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  13.05.2013,  Berlin Hauptbahnhof 
 Die Fahrstraßen- Zugschlussstelle für den LPF 178 befand sich hinter der Weiche 51W101, 
 welche im Zuge des Fahrweges erst hinter der Weiche 51W102, in der sich die Entgleisung 
@@ -1049,20 +1041,21 @@ bis  hinter  der  Weiche  51W115
 (51G325) ist freigefahren 
 Abb. 15: Lupenbild BL2 (beispielhaft) 
 
+
 Quelle: DB Netz AG, bearbeitet durch die EUB 
 
+
 Seite 29 von 35 
- 
- 
- 
- 
- 
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  13.05.2013,  Berlin Hauptbahnhof 
 Hierzu ist die Lupe BL1 erforderlich. 
 
+
 Durch  die  Auflösung  der  Teilfahrstraße  zwischen  51ZU5  und  51P28  in  Richtung  51LUMA6  
+
 
 lief die Weiche 51W102 um und der LPF 178 befuhr sie während des Umlaufes. 
 
@@ -1085,8 +1078,10 @@ Seite 30 von 35
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  13.05.2013,  Berlin Hauptbahnhof 
 während  beim  dritten  Radsatz  der  Impulsgeber  FM  3  und  am  vierten  Radsatz  das  Entlüftungsventil für die Federspeicherbremse abgerissen war. 
 An den Drehgestellen waren die Rahmen (vermutlich durch das Hebezeug beim Eingleisen 
@@ -1107,7 +1102,6 @@ Bahnhof  zunächst ca. 470 m zurück und kam danach vor dem Sperrsignal L 325Y z
 Nach  einer  Standzeit  von  2  Minuten  und  7  Sekunden  rollte  er  wegen  hoher  Längsneigung 
 der Strecke zurück (missglückter Anfahrversuch s. Aussage des Tf). Weitere 7 Minuten und 
 42 Sekunden später fuhr der LPF 178 wieder los und beschleunigte auf einer Streckenlänge 
-
 von  ca.  370  m  auf  maximal  42  km/h  bevor  er,  vermutlich  wegen  durch  die  Entgleisung bedingten erhöhten Laufwiderständen, innerhalb von 7 Sekunden auf 50 m Länge bis zum Stillstand abgebremst wurde. Während der Abbremsung wurde eine Schnellbremsung registriert, 
 für welche gemäß Gutachten nicht feststellbar ist, ob sie eine Entgleisungsfolge war oder ob 
 eine  Handlung  des  Tf  vorlag.  Der  Stellungnahme  des  Tf  gegenüber dem EVU ist kein Hinweis zu entnehmen, dass der Tf eine Schnellbremsung einleitete. 
@@ -1117,8 +1111,10 @@ Seite 31 von 35
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  13.05.2013,  Berlin Hauptbahnhof 
 Abb. 17: graphische Darstellung des Fahrverlaufs 
 Quelle: Zentrale Auswertestelle (ZAS) der DB AG 
@@ -1138,8 +1134,10 @@ Seite 32 von 35
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  13.05.2013,  Berlin Hauptbahnhof 
 und  dem  03.06.2013  insgesamt  870:03  Arbeitsstunden  aus.  Seine  letzten  Ruhetage  lagen 
 am Unfalltag drei Tage zurück. Am 13.05.2013 war der Triebfahrzeugführer gemäß dem Einsatzplan seit 08:16 Uhr im Einsatz. Die Entgleisung ereignete sich demnach in seiner vierten 
@@ -1154,9 +1152,7 @@ Interpretation der Unfallspuren
 Die an der Entgleisungsstelle und am Bedienplatz des örtlich zuständigen Fahrdienstleiters 
 getroffenen  Feststellungen  lassen  den  Schluss  zu,  dass  die  Unfallursache  weder  in  einer 
 mangelhaften Infrastruktur noch in Fahrzeugmängeln zu suchen ist. 
-
 Es  wurde  festgestellt,  dass  der  özF  den  Fahrweg  für  den  LPF  178  nicht  entsprechend  der 
-
 gültigen  Fahrplanordnung  gestellt hatte. Der Irrtum wurde jedoch erst bemerkt, als der Zug 
 abgefahren und den Bereich des Signals 51ZU5 bereits verlassen hatte. 
 Der özF ließ den LPF 178 vor dem Sperrsignal 51L325Y halten, nahm die eingestellte Fahrstraße in Richtung 51LUWE1 zurück und stellte eine neue Fahrstraße in Richtung 51LUMA6, 
@@ -1191,13 +1187,10 @@ dem Signal 51P28 nicht fest. Dadurch konnte er diesen Fahrstraßenteil später o
 Die  Fahrstraßenauflösung  erfolgte,  bevor  der  LPF  178  die  Fahrstraßenzugschlussstelle  in 
 Weiche 51W101 passiert hatte. Daraus lässt sich schließen, dass der özF nicht darüber orientiert war, wo sich der LPF 178 zum Zeitpunkt der Fahrstraßenauflösung befand. 
 Dieser  Umstand  wäre  erklärbar,  wenn  der  özF  eine  für  diese  Zugfahrt  das  Lupenbild  BL2 
-
 herangezogen  und  die  BL1  nicht  genutzt  hätte.  Die  BL2  erfasst  lediglich  den  Bereich  der 
-
 Fahrstraße bis zum Gleisabschnitt 51G325 hinter der Weiche 51W115. Der für das Ereignis 
 relevante Bereich hinter dem Sperrsignal 51L325Y ist ausschließlich in der Lupe BL1 und in 
 der BERÜ dargestellt. 
-
 Im  Ergebnis  der  Untersuchung  ist  festzustellen,  dass  der  özF  den  Teil  der  Fahrstraße  zwischen  den  Signalen  51ZU5  und  51P28  auflöste,  bevor  der  LPF  178  die  Fahrstraßenzugschlussstelle  in  Weiche  51W101  passiert  hatte.  Dies  war  möglich,  weil  die  Fahrstraße  zwischen den genannten Signalen nicht festgelegt war (blinkender FÜM) und von Hand aufgelöst werden konnte, ohne die Hilfstaste zu bedienen. Es ist in diesem Fall von einem Bedienfehler durch den özF auszugehen. 
 Die Unfalldatenbank weist für die letzten 10 Jahre im gesamten Stellbezirk der UZ Papestraße keine weiteren Unfallereignisse mit ähnlicher Symptomatik aus, so dass von einem Systemfehler nicht gesprochen werden kann. 
 Seite 34 von 35 
@@ -1219,5 +1212,6 @@ Seite 35 von 35
  
  
  
+
  
 

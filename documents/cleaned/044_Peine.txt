@@ -44,8 +44,10 @@ Seite 2 von 53
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung, 16.06.2010, Peine 
 Inhaltsverzeichnis: 
 Seite 
@@ -59,78 +61,46 @@ Seite
  2.3 
  3 
  3.1 
-
 Zusammenfassung .............................................................................................. 9 
-
 Hergang ................................................................................................................. 9 
-
 Folgen.................................................................................................................... 9 
-
 Ursachen ............................................................................................................... 9 
-
 Vorbemerkungen ............................................................................................... 11 
-
 Mitwirkende.......................................................................................................... 11 
-
 Organisatorischer Hinweis................................................................................... 11 
-
 Ziel der Eisenbahn-Unfalluntersuchung............................................................... 12 
-
 Ereignis............................................................................................................... 12 
-
 Hergang ............................................................................................................... 12 
-
 3.1.1 
 Fahrt des Zuges 93274 zwischen Braunschweig und Peine ............................... 12 
 3.1.2 
-
 Entgleisung des Zuges 93274 ............................................................................. 14 
-
 3.1.3 
 Zugkollision des Regionalexpress RE-D 14019 .................................................. 16 
  3.2 
  3.3 
  4 
  4.1 
-
 Todesopfer, Verletzte und Sachschäden............................................................. 17 
-
 Wetterbedingungen ............................................................................................. 17 
-
 Untersuchungsprotokoll ................................................................................... 17 
-
 Zusammenfassung von Aussagen ...................................................................... 17 
-
 4.1.1 
-
 Triebfahrzeugführer DSG 93274 ......................................................................... 17 
-
 4.1.2 
-
 Fahrgast des RE-D 14019 ................................................................................... 18 
-
  4.2 
-
 Notfallmanagement.............................................................................................. 19 
-
 4.2.1 
-
 Fremdrettung ....................................................................................................... 19 
-
 4.2.2 
-
 Selbstrettung, Flucht- und Rettungswege............................................................ 19 
-
  4.3 
 Untersuchung der Infrastruktur und des Signalsystems ...................................... 23 
 4.3.1 
-
 Stellwerksanlage.................................................................................................. 23 
-
 4.3.2 
-
 Oberbau............................................................................................................... 23 
-
 Seite 3 von 53 
  
  
@@ -171,20 +141,14 @@ Seite 3 von 53
 Untersuchungsbericht 
 Zugentgleisung, 16.06.2010, Peine 
 4.4 
-
 Untersuchung von Fahrzeugen ........................................................................... 24 
-
 4.4.1 
 Untersuchung des Wagens 23 84 6437 917-7 .................................................... 24 
 4.4.2 
-
 Zustand der Beladung der Güterwagen............................................................... 30 
-
 4.5 
 Auswertung der Dokumentationen vom Unfallort und der Registrierung einzelner 
-
 Steuergeräte ........................................................................................................ 30 
-
 4.5.1 
 Auswertung der Gesprächsaufzeichnungen........................................................ 30 
 4.5.2 
@@ -192,13 +156,9 @@ Heißläufer- und Festbremsortungsanlagen (HOA/FBOA) ...........................
 4.5.3 
 Auswertung der Elektronischen Fahrten-Registrierung (EFR) ............................ 35 
 4.6 
-
 Untersuchung der betrieblichen Handlungen ...................................................... 41 
-
 4.6.1 
-
 Zugvorbereitung in Quedlinburg .......................................................................... 41 
-
 4.6.2 
 Außerplanmäßiger Halt an der Abzweigstelle Braunschweig Gabelung ............. 42 
 4.6.3 
@@ -207,21 +167,13 @@ Betriebliche Handlungen des Fahrdienstleiters Vechelde .........................
 Betriebliche Handlungen des Fahrdienstleiters Peine ......................................... 44 
 4.6.5 
 Betriebliche Handlungen des Triebfahrzeugführers des DGS 93274 während der 
-
 Durchfahrt in Peine .............................................................................................. 47 
-
 4.7 
-
 Interpretation der Unfallspuren ............................................................................ 48 
-
 4.7.1 
-
 Unfallspuren – DGS 93274.................................................................................. 48 
-
 4.7.2 
-
 Unfallspuren – RE-D 14019................................................................................. 51 
-
 5 
 Auswertung und Schlussfolgerungen ............................................................. 52 
 Seite 4 von 53 
@@ -247,101 +199,41 @@ Seite 4 von 53
  
  
  
- 
-	 
- 
-	 
- 
-	 
- 
-	 
 
- 
-	 
- 
-	 
- 
-	 
- 
-	 
- 
-	 
- 
-	 
- 
-	 
- 
-	 
- 
-	 
-
- 
-	 
- 
-	 
- 
-	 
- 
-	 
- 
- 
- 
  
 Untersuchungsbericht 
+
 Zugentgleisung, 16.06.2010, Peine 
 Abbildungsverzeichnis: 
-
 Abbildung 1: Unfallstelle; Luftbild Bundespolizei bearbeitet durch EUB ................................10 
-
 Abbildung 2: Unfallstelle......................................................................................................... 10 
-
 Abbildung 3: Sytemskizze (DB Netz AG) ...............................................................................13 
-
 Abbildung 4: Luftbild Bundespolizei (bearbeitet durch EUB)..................................................15 
-
 Abbildung 5: vorderer Güterzugteil (rechts) ...........................................................................15 
-
 Abbildung 6: Trennstelle Wagen 9 .........................................................................................15 
-
 Abbildung 7: RE-D 14019.......................................................................................................16 
-
 Abbildung 8: Tfz des RE-D 14019..........................................................................................16 
-
 Abbildung 9: Wagen eins im Werk, letztes Fenster in Fahrtrichtung rechts...........................20 
-
 Abbildung 10: Nothammer und Piktogramme in Wagen eins.................................................20 
-
 Abbildung 11: Wagen 1, NEA hinten rechts geöffnet .............................................................21 
-
 Abbildung 12: Wagen 2 .......................................................................................................... 21 
-
 Abbildung 13: Wagen 2, Piktogramme am NEA ....................................................................21 
-
 Abbildung 14: Vordere, innere Achslagerführung rechts........................................................26 
-
 Abbildung 15: Hintere, innere Achslagerführung rechts.........................................................26 
-
 Abbildung 16: Radsatz 46275, B-Seite, loser Radreifen ........................................................26 
-
 Abbildung 17: Radsatz 46275, B-Seite,    
 außen ...................................................................26 
-
 Abbildung 18: Aufbau eines bereiften Rades (Skizze DB Systemtechnik).............................28 
-
 Abbildung 19: Sitzfläche des Radreifens auf dem Felgenkranz nach Wölbung 
+
 
 des Radreifens (Foto DB Systemtechnik) ........................................................29 
 
 Abbildung 20: HOA/FBOA "Sierße" Protokollausdruck ..........................................................34 
-
 Abbildung 21: grafische Darstellung des Fahrtverlaufs zwischen Braunschweig und Peine . 37 
-
 Abbildung 22: grafische Darstellung des Fahrtverlaufs im Bahnhof Peine ............................37 
-
 Abbildung 23: grafische Darstellung des Fahrtverlaufs zwischen Vöhrum und Peine ...........41 
-
 Abbildung 24: Herzstück, Weiche 202 ...................................................................................48 
-
 Seite 5 von 53 
  
  
@@ -372,26 +264,19 @@ Seite 5 von 53
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung, 16.06.2010, Peine 
-
 Abbildung 25: Herzstück, Weiche 202 (Seitenansicht) ..........................................................48 
-
 Abbildung 26: Spuren vom linken Rad ...................................................................................49 
-
 Abbildung 27: Spuren vom rechten Rad ................................................................................49 
-
 Abbildung 28: Entgleisungsspur.............................................................................................50 
-
 Abbildung 29: Prellbock..........................................................................................................50 
-
 Abbildung 30: Wagen 10 ........................................................................................................50 
-
 Abbildung 31: Entgleisungsspuren des RE-D 14019 .............................................................51 
-
 Abbildung 32: Triebfahrzeug des RE-D 14019.......................................................................51 
-
 Seite 6 von 53 
  
  
@@ -411,8 +296,10 @@ Seite 6 von 53
 
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung, 16.06.2010, Peine 
 Abkürzungsverzeichnis 
 AEG 
@@ -485,8 +372,10 @@ Seite 8 von 53
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung, 16.06.2010, Peine 
 1 
 Zusammenfassung 
@@ -561,8 +450,10 @@ Seite 11 von 53
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung, 16.06.2010, Peine 
 2.3 
 Ziel der Eisenbahn-Unfalluntersuchung 
@@ -585,7 +476,6 @@ Am 16.06.2010 fuhr der Güterzug DSG 93274 von Quedlinburg nach Meppen. Der Zug 
 Fccpps. Das Gesamtzuggewicht betrug 2.054 t. 
 Bei der Durchfahrt im Bahnhof Braunschweig Hbf fiel gegen 22:35 Uhr einem Lokrangierführer  im  Stellwerksbezirk  Ba,  im  vorderen  Zugteil  in  Fahrtrichtung  rechts,  Funkenflug  im  Bereich eines Rades auf. Diese Feststellung meldete er dem Weichenwärter Ba, der den für die 
 Zugfahrt  des  DSG  93274  zuständigen  Fahrdienstleiter  verständigte.  Der  Fahrdienstleiter 
-
 teilte  daraufhin  dem  Triebfahrzeugführer  mittels  Zugfunk  mit,  dass  sich  vorn  im  Zug  wahrscheinlich eine feste Bremse befinde und er den Zug deshalb vor dem Blocksignal der Abzweigstelle Braunschweig Gabelung anhalten werde. 
 Seite 12 von 53 
  
@@ -596,7 +486,6 @@ Seite 12 von 53
 Untersuchungsbericht 
 Zugentgleisung, 16.06.2010, Peine 
 Nachdem der Zug gegen 22:39 Uhr zum Halten gekommen war, untersuchte der Triebfahrzeugführer  den  Zug.  Er  konnte  dabei  jedoch  keine  feste  Bremse  im  Zug  feststellen.  Dies 
-
 meldete der Triebfahrzeugführer dem Fahrdienstleiter. Die Fahrt des Zuges wurde daraufhin 
 gegen 22:58 Uhr fortgesetzt. 
 Um 23:12 Uhr durchfuhr der Zug den Bahnhof Vechelde. Dabei bemerkte der Fahrdienstleiter  in  Vechelde  ebenfalls  eine  starke  Funkenbildung  im  Zug.  Auch  er  zog  daraus  den 
@@ -608,7 +497,6 @@ Fahrdienstleiter in Peine, den Zug bis nach Hämelerwald fahren zu lassen und di
 Abbildung 3: Systemskizze (DB Netz AG) 
 Gegen 23:22 Uhr fuhr Zug 93274 am Stellwerk des Fahrdienstleiters in Peine vorbei. Dabei 
 stellte auch dieser den Funkenflug an einem rechten Rad im vorderen Zugteil fest. Der Fahrdienstleiter  beauftrage  daraufhin  seinen  Helfer,  den  Fahrdienstleiter  in  Hämelerwald  zu  informieren,  dass  dieser  den  Zug  anhalten  soll.  Unmittelbar  danach  informierte  er  auch  den 
-
 Triebfahrzeugführer mittels Zugfunk. 
 Seite 13 von 53 
  
@@ -616,14 +504,13 @@ Seite 13 von 53
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung, 16.06.2010, Peine 
-
 Im  Verlauf  dieses  Gesprächs  stellte  der  Fahrdienstleiter  eine  Signalstörung  fest  und  wenig 
-
 später  registrierte  der  Triebfahrzeugführer  einen  Druckabfall  in  der  Hauptluftleitung  seines 
-
 Zuges.  Nachdem  der  Güterzug  dadurch  zum  Halten  gekommen  war,  teilte  der  Triebfahrzeugführer dem Fahrdienstleiter mit, dass sein Zug stehe und er deshalb den Zug nochmals 
 untersuchen wolle. Kurz bevor beide das Zugfunkgespräch beendeten fuhr der Regionalexpress 14019 am Triebfahrzeug des Güterzuges vorbei. 
 3.1.2  Entgleisung des Zuges 93274 
@@ -631,18 +518,13 @@ Noch  während  des  Zugfunkgesprächs  zwischen  dem  Fahrdienstleiter  in  Pei
 Triebfahrzeugführer des Güterzuges war der vorlaufende Radsatz des 10. Wagen des Wagenzuges in der spitz befahrenen Weiche 202 des Bahnhofs Peine entgleist. Die Weiche 202 
 ist  aufgrund  der  topografischen  Gegebenheit  vom  Standort  des  Fahrdienstleiters  nicht  einsehbar. 
 Beim Befahren der Weiche war das rechte Rad infolge des losen Radreifens im führungslosen  Teil  des  Herzstücks  in  Fahrtrichtung  nach  rechts  in  den  abzeigenden  Strang  abgeirrt. 
-
 Anschließend wurde das Rad gewaltsam über die linke Schiene des abzweigenden Gleises 
 zurück  in  Richtung  der  ursprünglichen  Fahrbahn  gezogen  und  lief  mit  dem  nunmehr  ebenfalls entgleisten linken Rad parallel rechtsseitig neben dem Gleis her. 
-
 Im  weiteren  Verlauf  der  Fahrt  prallte  der  im  Schotterbett  laufende  und  immer  weiter  nach 
-
 rechts driftende Wagen mit der rechten vorderen Fahrzeugecke gegen einen im gesperrten 
 Streckengleis Richtung Stederdorf stehenden Prellbock. Dabei wurde der umstürzende Wagen quer zur Fahrtrichtung gedreht. Der nachfolgende 11. Wagen kippte daraufhin ebenfalls 
 um und wurde in das Gegengleis gedrückt. Die Wagen 12 und 13 entgleisten. Die Wagen 14 
-
 und  15  kippten  nach  links  in  den  Regellichtraum  des  Gegengleises.  Die  Wagen  16  und  17 
-
 entgleisten in Fahrtrichtung nach rechts und gerieten in Schräglage. Der 18. Wagen entgleiste und blieb aufrecht stehen. 
 Seite 14 von 53 
  
@@ -670,11 +552,8 @@ Seite 15 von 53
 Zugentgleisung, 16.06.2010, Peine 
 3.1.3  Zugkollision des Regionalexpress RE-D 14019 
 Der Regionalexpress RE-D 14019 verließ gegen 23:22 Uhr den Haltepunkt Vöhrum in Richtung Peine. Gegen 23:24 Uhr fuhr der Zug am Einfahrsignal A 152 des Bahnhofs Peine vorbei. Mit einer Geschwindigkeit von 98 km/h prallte das Triebfahrzeug frontal, ca. 100 Meter 
-
 hinter  dem  Einfahrsignal,  in  km  34,03,  auf  den  im  Gleis  stehenden  11.  Wagen  des  Güterzugs. Infolge der Kollision entgleisten das Triebfahrzeug und die beiden folgenden Doppelstockwagen in Fahrtrichtung nach rechts. Die Lokomotive und der erste Wagen stürzten die 
-
 Böschung  hinab  und  kippten  fast  vollständig  nach  rechts  auf  die  Seite.  Der  zweite  Wagen 
-
 geriet in Schräglage. Die Wagen drei bis fünf entgleisten nicht. 
 Die Zugspitze des Regionalexpresses kam ca. 90 Meter nach der Kollision, im Garten eines 
 Wohnhauses und nur wenige Meter vor einer Straßenbrücke, zum Stillstand. 
@@ -691,8 +570,10 @@ Seite 16 von 53
  
  
  
+
    
 Untersuchungsbericht 
+
 Zugentgleisung, 16.06.2010, Peine 
 3.2 
 Todesopfer, Verletzte und Sachschäden 
@@ -736,9 +617,7 @@ Während  der  Durchfahrt  in  Peine  wurde  ihm  dann  vom  Fahrdienstleiter  e
 dass im vorderen Zugdrittel eine feste Bremse durch Funkenflug auffiel. Er habe dem Fahrdienstleiter darauf geantwortet, dass er den Zug bereits kurz hinter Braunschweig untersucht 
 habe und dort keine feste Bremse feststellte. Noch während des Gesprächs mit dem Fahrdienstleiter in Peine stellte er dann einen Druckverlust in der Hauptluftleitung fest, worauf der 
 Zug anhielt. Wenig später fuhr im Gegengleis dann der Regionalexpress an ihm vorbei. 
-
 Von  der  Entgleisung  seines  Zuges  habe  er  während  der  Fahrt  nichts  bemerkt.  Erst  als  er 
-
 sein Triebfahrzeug verlassen hatte, um den Zug erneut zu untersuchen, habe er die Folgen 
 des Unfalls gesehen. 
 4.1.2 
@@ -754,7 +633,6 @@ seiner Vermutung zu Folge, offensichtlich nicht in dem Wagen. Erst nach geraumer
 es  einem  Fahrgast  gelungen,  ein  Notausstiegsfenster  aufzuhebeln.  Durch  dieses  Fenster 
 konnten dann die Fahrgäste dieses Wagens den Zug verlassen. 
 Gleiche  Feststellungen  machte  er  auch  an  dem  umgestürzten,  ersten  Wagen.  Auch  hier 
-
 konnte  ebenfalls  erst  nach  geraumer  Zeit  ein  Fenster  geöffnet  werden,  durch  das  die  Reisenden dann schließlich den Zug verließen. 
 Der Fahrgast gab weiterhin an, dass er als häufiger Bahnfahrer die Erfahrung habe, dass es 
 an den Notausstiegsfenstern „durchgängig an Hinweisen und Markierungen dieser Fenster“ 
@@ -765,8 +643,10 @@ Seite 18 von 53
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung, 16.06.2010, Peine 
 4.2 
 Notfallmanagement 
@@ -777,16 +657,12 @@ einer Vereinbarung zwischen den Innenministerien der Länder und der DB AG hat m
 auf eine Verfahrensweise verständigt. Für die DB Netz AG gelten die entsprechenden Brand- 
 und  Katastrophenschutzgesetze  der  Länder.  Das  Notfallmanagement  der  DB  AG  ist  in  der 
 Richtlinie (Ril) 123 näher beschrieben und geregelt. 
-
 Die  Notfallleitstelle  der  DB  Netz  AG  erhielt  gegen  23:30  Uhr  von  der  Rettungsleitstelle  die 
-
 Meldung,  dass  Reisende  in  einem  Zug  zwischen  Vöhrum  und  Peine  verunfallt  waren.  Die 
 Rettungsleitstelle  alarmierte  daraufhin  die  erforderlichen  Rettungskräfte.  Zur  Bergung  und 
 Versorgung  der  Verletzten  kamen  Feuerwehr,  medizinisches  Personal,  Kräfte  von  Landes- 
 und Bundespolizei, sowie Kräfte des Technischen Hilfswerks zum Einsatz. 
-
 Durch  die  Notfallleitstelle  der  DB  Netz  AG  wurde  um  23:32  Uhr  der  Notfallmanager  (Nmg) 
-
 über das Ereignis verständigt. Dieser bergab sich daraufhin zur Unfallstelle. Die Ankunftszeit 
 des Nmg an der Unfallstelle wurde im Protokoll der Notfallleitstelle nicht dokumentiert. Den 
 Angaben zufolge soll dieser innerhalb von 30 Minuten den Ereignisort erreicht haben. 
@@ -795,13 +671,10 @@ Nach  der  Kollision  des  Regionalexpresses  haben  Fahrgäste  der  ersten  be
 Zug durch die Notein- und Ausstiegsfenster (NEA) verlassen. Dazu konnten sie, wegen der 
 starken Schräglage des ersten Wagens und der entgleisten Güterwagen neben dem zweiten 
 Wagen, nur die Fluchtwege auf der rechten Fahrzeugseite benutzen. 
-
 Die  Fahrgäste  der  Wagen  drei  –  fünf  verließen  den  Zug  über  die  rechten  Außentüren,  die 
-
 sich normal öffnen ließen. 
 Feststellungen: 
 An den Wagen eins und zwei waren die jeweils vorderen Türen in Fahrtrichtung rechts geöffnet.  Ob  diese  durch  Fahrgäste  von  innen  mittels  Notentriegelung  oder  von  außen  durch 
-
 Hilfskräfte geöffnet wurden, konnte nicht zweifelsfrei festgestellt werden. 
 Im ersten Wagen befanden sich auf der rechten Fahrzeugseite drei NEA. Hierbei handelte es 
 sich  um  Fenster,  deren  Scheiben  auf  einer  gekennzeichneten  Fläche  (roter  Punkt)  mittels 
@@ -816,10 +689,13 @@ Seite 19 von 53
 Zugentgleisung, 16.06.2010, Peine 
 Fenster waren mit den üblichen Piktogrammen und den entsprechenden Nothämmern ausgerüstet. Zusätzliche Hinweise auf die Notausstiege waren im Eingangsbereich des Wagens 
 angebracht. 
+
 Abbildung 9: Wagen eins im Werk, letztes 
 Fenster in Fahrtrichtung rechts 
+
 Abbildung 10: Nothammer und Piktogramme 
 in Wagen eins 
+
 Bei dem in Fahrtrichtung ersten Fenster waren deutliche Schlagspuren im Bereich des roten 
 Punktes erkennbar. Die Scheibe war vollständig gesplittert jedoch nicht heraus gedrückt. Ob 
 das Herausdrücken der Scheibe nicht möglich war, oder ob davon abgelassen wurde nachdem ein anderer Fluchtweg zur Verfügung stand, konnte nicht festgestellt werden. 
@@ -837,8 +713,10 @@ Seite 20 von 53
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung, 16.06.2010, Peine 
 Abbildung 11: Wagen 1, NEA hinten rechts geöffnet 
 In Wagen zwei befanden sich im unteren Abteil zwei NEA, eins auf jeder Fahrzeugseite. 
@@ -848,8 +726,10 @@ des  Wagens,  neben  den  beiden  NEA  in  Form  von  Piktogrammen  und  auf  de
 Gummieinfassung.  Die  Piktogramme  neben  den  Fenstern  wurden  unterhalb  der  Kleiderhaken angebracht und könnten durch angehängte Kleidung für die Reisenden nicht erkennbar 
 gewesen sein. 
 Abbildung 12: Wagen 2 
+
 Abbildung 13: Wagen 2, Piktogramme am 
 NEA 
+
 Das NEA der rechten Fahrzeugseite war das dritte Fenster von vorn. Die Fensterscheibe war 
 aus  der  Einfassung  herausgelöst.  Die  Stahlseile,  die  die  Scheibe  nach  dem  Herausziehen 
 Seite 21 von 53 
@@ -880,16 +760,12 @@ roten Punkt notwendig waren, bis die Scheibe vollständig durchschlagen war und 
 können,  waren  aus  dem  Piktogramm  nicht  ableitbar.  Auch  war  keine  zusätzliche,  kurze, 
 mehrsprachige  Handlungsanleitung  bspw.  der  Form  „Scheibe  vollständig  durchschlagen“ 
 vorhanden.  Auf  diesen  Schwachpunkt  wurde  bereits  in  einer  Sicherheitsempfehlung  am 
-
 29.01.2010  zu  einer  Zugkollision  in  km  4,3  auf  der  Strecke  Braunschweig  –  Bad  Harzburg 
-
 vom 20.01.2010 hingewiesen. 
 Beim  Öffnen  des  NEA mit der herausziehbaren Gummieinfassung war erkennbar, dass die 
 nach  innen  fallende  Fensterscheibe  von  Stahlseilen  aufgefangen  wurde  und  dabei  vor  der 
 Fensteröffnung hängen blieb. Um das Fahrzeug über diesen Notausgang verlassen zu können, ist es notwendig, die schwere Scheibe von unten her anzuheben. Dies ist, in Anbetracht 
-
 der  Tatsache,  dass  das  Fahrzeug  nach  der  Entgleisung  stark  nach  rechts  geneigt  war,  als 
-
 zusätzlich  erschwerender  Faktor  zu  bewerten.  Ein  offener,  ungehinderter  Notausstieg  war 
 demnach  durch  dieses  Fenster  nicht  gegeben.  Da  das  Notausstiegsfenster  auf  der  linken 
 Seite des Wagens durch die Trümmerteile des Güterzuges blockiert war, stand den Reisenden im zweiten Wagen des Regionalexpresses RE-D 14019 nur dieses eine NEA zur Verfügung. 
@@ -929,8 +805,10 @@ Seite 23 von 53
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung, 16.06.2010, Peine 
 Spur- Leit- und Rillenweiten, sowie der Zustand der Weichenzunge der Weiche 202 wiesen 
 ebenfalls keine Mängel auf. Bei der Durchsicht der Dokumentation zur letzten Weichenprüfung der Weiche 202 wurden keine Unregelmäßigkeiten festgestellt. 
@@ -944,9 +822,7 @@ Oberbaumängel sind somit als Ursache für die Entgleisung des Güterzuges auszu
 Untersuchung von Fahrzeugen 
 4.4.1 
 Untersuchung des Wagens 23 84 6437 917-7 
-
 Aufgrund  der  Unfallspuren  und  des  Schadbildes  an  der  Unfallstelle,  loser  Radreifen,  wird 
-
 davon ausgegangen, dass der 10. Wagen des Zuges, mit der Wagen Nr. 23 84 6437 917-7 
 als erstes Fahrzeug entgleist ist. 
 Der Wagen gehört zum Bestand der niederländischen Firma Voestalpine Railpro BV in 1200 
@@ -1004,22 +880,29 @@ Seite 25 von 53
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung, 16.06.2010, Peine 
+
 Abbildung 14: Vordere, innere Achslagerführung rechts 
+
 Abbildung  15:  Hintere,  innere  Achslagerführung rechts 
+
 Die Radsätze wiesen folgende Schäden auf: 
 Radsatz 46275 (in Fahrtrichtung erster Radsatz): 
 Der Radreifen des rechten Rades (B-Seite des Radsatzes) war lose. Zwischen dem Radreifen  und  dem  Radkörper  war  im  oberen  Bereich  ein  Luftspalt  von  ca.  15  mm  zu  erkennen. 
-
 Der  Sprengring  war  mit  der  Radreifeninnenseite  glatt  abgeschert.  An  der  Außenseite  des 
 Radreifens  waren  Schleifspuren  zu  erkennen.  Diese  Spuren  sind  durch  das  Schleifen  des 
 Radreifens am Fahrzeugrahmen und der Lagerführung entstanden. Am linken Rad und Radreifen (A- Seite) des Radsatzes wurden nur unfallbedingte Schäden festgestellt. 
+
 Abbildung  16:  Radsatz  46275,  B-Seite,  loser 
 Radreifen 
+
 Abbildung 17: Radsatz 46275, B-Seite, 
 außen 
+
 Seite 26 von 53 
  
  
@@ -1032,8 +915,10 @@ Seite 26 von 53
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung, 16.06.2010, Peine 
 Radsatz 6073 (in Fahrtrichtung zweiter Radsatz): 
 An  diesem  Radsatz  waren  im  Bereich  der  Laufflächen,  der  Spurkränze  und  der  Radkörper 
@@ -1042,9 +927,7 @@ der Eisenbahn Bau- und Betriebsordnung (EBO) § 21 und Anlage 6 vorgegebenen Ma�
 An  beiden  Radsätzen  waren  die  Verdrehmarkierungen  nur  schlecht  bzw.  überhaupt  nicht 
 erkennbar. Untersuchungen der Bundespolizei und der Sicherheitsbehörde am 28.07.2010 in 
 Verden  (Aller)  führten  darüber  hinaus  zu  dem  Ergebnis,  dass  von  den  weiteren  21  Wagen 
-
 mit  bereiften  Rädern  im  verunfallten  Zugverband,  19  Wagen  teils  erhebliche  Mängel  in  der 
-
 Erkennbarkeit der Verdrehmarkierungen aufwiesen. 
 Im Zuge der weiteren Untersuchung wurde die DB Systemtechnik mit weiteren Untersuchungen beauftragt. 
 Resümee aus dem Prüfbericht 10-P-12415-TTZ35-PR-1540 vom 15.11.2010 (Untersuchung 
@@ -1080,7 +963,6 @@ Abbildung 18: Aufbau eines bereiften Rades (Skizze DB Systemtechnik)
 Beim Abkühlen des Radreifens entsteht die kraftschlüssige Verbindung zwischen Radreifen 
 und Radkörper wobei der Radreifen nach außen aufgeweitet und der Radkörper zusammengedrückt  wird.  Somit  entsteht  ein  Druck  zwischen  Radreifen  und  zylindrischer  Felge  des 
 Radkörpers.  Durch Verringerung der Radreifendicke wird der Druck auf den Radreifen größer.  Dieser  größer  werdende  Druck  auf  die  Innenfläche  des  Radreifens  bewirkt,  dass  sich 
-
 der  Radreifen  über  die  beiden  äußeren  Kanten  der  zylindrischen  Fläche  des  Radkörpers 
 wölbt und somit ein mittig umlaufender Luftspalt zwischen Radreifen und Radkörper entsteht. 
 Der Felgenkranz wird an den äußeren Kanten durch den Radreifen umklammert. 
@@ -1091,32 +973,45 @@ Seite 28 von 53
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung, 16.06.2010, Peine 
 Abbildung 19: Sitzfläche des Radreifens auf dem Felgenkranz nach Wölbung des Radreifens 
 (Foto DB Systemtechnik) 
 Durch Versuche wurde festgestellt, dass diese Radreifenwölbungen ab einer Radreifendicke 
 
+
 von 35 mm entstanden. 
+
 
 Bei den intakten Rädern der Unfallfahrzeuge wurde dieser umlaufende Luftspalt ebenfallsfest 
 
+
 gestellt. 
+
 
 Es kann davon ausgegangen werden, dass die Umklammerung des Felgenkranzes wirksam 
 
+
 war. In dem Luftspalt wurde Passungsrost diagnostiziert, was darauf schließen lässt, dass es 
+
 
 zu Kontakt- und Relativbewegungen zwischen dem Felgenkranz und dem Radreifen, sowie 
 
+
 zu Materialabtragungen und somit zur Verringerung des Schrumpfsitzübermaßes gekommen 
+
 
 ist. 
 
+
 Ursächlich für diesen Schadensverlauf können bspw. sein: 
 
+
 •  	  zu kleine oder zu große Schrumpfsitzübermaße, 
+
 •  	 
 raue Oberfläche der Reifenbohrung bzw. des Felgenkranzes mit Reduzierung des 
 Schrumpfsitzübermaßes durch Abplattung der Gratkanten der Drehriefen, 
@@ -1129,8 +1024,10 @@ Seite 29 von 53
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung, 16.06.2010, Peine 
 4.4.2  Zustand der Beladung der Güterwagen 
 Die Wagen des Güterzuges waren mit Kies beladen. Den Angaben der Wagenliste zufolge, 
@@ -1143,7 +1040,9 @@ Es  wird  deshalb  davon  ausgegangen,  dass  auch  der  unfallverursachende  10
 Angaben der Wagenliste entsprechend beladen war, und dass eine Überladung des Wagens 
 als mögliche begünstigende Ursache mit großer Wahrscheinlichkeit auszuschließen ist. 
 4.5 
+
 Auswertung der Dokumentationen vom Unfallort und der Registrierung einzelner Steuergeräte 
+
 4.5.1       Auswertung der Gesprächsaufzeichnungen 
 Die  Gespräche  wurden  im  bahnspezifischen  digitalen  Funknetz  Global  System  for  Mobile 
 Communication – Railway (GSM-R) geführt und entsprechend den Regeln der DB internen 
@@ -1154,11 +1053,15 @@ Fdl:  „...  unser  Stellwerk  Ba  hat  gemeldet,  dass  du  `ne  feste  Bremse
 hast,  vorne  im  Zug,  recht  weit  vorne,  da  sprüht`s  Funken  –  an  der  rechten  Seiten, 
 denn  sonst  hätte  er  es  nicht  sehen  können.  Also  ich  halt  dich  jetzt  mal  vor  der  Abzweig  Gabelung  an  und  dann  hältst  du  dich  rechts,  denn  ich  würd`  im  Nachbargleis  
 
+
 ganz gern noch fahren...“ 
+
 
 Tf: „... ja....ja... alles klar, ja ist gut... alles klar... danke“ 
 
+
 • 	   22:56 Uhr: Triebfahrzeugführer DGS 93274 - Fahrdienstleiter Braunschweig Hbf 
+
 Tf: „Ja, 93274 bei mir ist alles in Ordnung. Ich war den ganzen Zug lang.“ 
 Fdl: „Was hast du bei dir?“ 
 Tf: „Ich sagte bei mir ist alles in Ordnung. Ich war den ganzen Zug lang, alles lose.“ 
@@ -1178,49 +1081,63 @@ Notrufverbindung (Priorität 0) aufgezeichnet.
 •  	  23:13 Uhr: Fahrdienstleiter Vechelde – Fahrdienstleiter Peine 
 Fdl Vechelde: „... hier ist Vechelde, der 93274 hat `ne feste Bremse, du, aber wie. Ich 
 
+
 versuch den schon zu erreichen, aber den krieg ich nicht. Der kommt jetzt gerade auf 
+
 
 dich zu, der 93274,... aber richtig Hammer, das hat richtig geschliffen hier.“ 
 
+
 Fdl Peine: „Ja das ist ja in Ordnung, meine Anlage sagt noch nichts, dann werde ich 
 
+
 mir das nämlich angucken,... ist das ein Längerer, 106 Achsen vielleicht...“ 
+
 
 Fdl Vechelde: „Ja das ist er.“ 
 
 
 Fdl  Peine:  „Das  ist  in  Ordnung,  so  was  kann  ich  hier  nämlich  jetzt  gar  nicht  gebrauchen,... ja ich werde mir das angucken und dann werd ich Hämelerwald Bescheid sagen“. 
 
+
 Fdl Vechelde: „Versuch ihn aber wenigstens anzusprechen, dass er die Bremse löst, 
+
 
 das  bringt  vielleicht  schon mal was, dass er mal so`n Füllstoß rein gibt da. Ich habe 
 
+
 versucht  ihn  anzusprechen  aber  keine  Verbindung.  Da  ist  `ne  Cargo-Lok  drauf  also  
+
 
 und der zieht so`n Ding da noch mit...“ 
 
+
 Fdl Peine: „ Hm, Hm das ist ja interessant hier,... der hat 106 Achsen, das Ding hätte 
+
 
 eigentlich schön plärren müssen,... hier ist nämlich alles friedlich...“ (Pause) „Guck mal 
 
+
 in die Betra so ungefähr von 0:15 Uhr bis 4:50 Uhr haben wir eingleisigen Betrieb von 
+
 
 Hämelerwald bis zu dir. So der kommt da gerade rüber, jetzt mach ich erst mal ganz 
 
+
 normal hier weiter, hinein da, zack, alles klar“. 
+
 
 Fdl Vechelde: „ ja gut, da musst du mal gucken“ 
 
+
 Fdl Peine: „Ja, ja ist gut.“ 
+
 
 Das Gespräch dauerte ca. zwei Minuten. 
 
+
 Seite 31 von 53 
- 
- 
- 
- 
- 
+
 Untersuchungsbericht 
 Zugentgleisung, 16.06.2010, Peine 
 • 	   Um 23:16 Uhr versuchte der Fahrdienstleiter Vechelde erneut den Triebfahrzeugführer 
@@ -1265,29 +1182,42 @@ Seite 32 von 53
 Zugentgleisung, 16.06.2010, Peine 
 Tf: „Nee, nee ich steh. “ 
 
+
 Fdl: „Du stehst?“ 
+
 
 Tf: „Ja, ja muss ich mal gucken gehen ne?“ 
 
+
 In diesem Moment ist im Hintergrund das Fahrgeräusch des RE-D 14019 hörbar, der 
+
 
 am Triebfahrzeug des Güterzuges vorbeifuhr. 
 
+
 Fdl: „Du musst mal gucken gehen“ 
+
 
 Tf: „Ja.“ 
 
+
 Fdl: „Alles klar, bevor du weiterfährst, musst du dich dann mal bei mir melden.“ 
+
 
 Tf: „Das ist klar, alles klar“ 
 
+
 Das Gespräch dauerte ca. 1:45 Minute. Vom Zeitpunkt der Aussage des Triebfahrzeugführers „Jetzt geht mir die Luft weg“ bis zur Vorbeifahrt des RE-D 14019 vergingen ca. 40 Sekunden. Vom Zeitpunkt des Aussage gegenüber dem Fahrdienstleiter, 
+
 
 dass der Zug stehe, bis zur Vorbeifahrt des Regionalexpress am Triebfahrzeug des 
 
+
 Güterzuges vergingen lediglich ca. fünf Sekunden. 
 
+
 Ein Notruf wurde vom Triebfahrzeugführer nicht abgesetzt. 
+
 
 •  	  Um 23:36 Uhr versuchte der Fahrdienstleiter Peine den Triebfahrzeugführer des Regionalexpress mittels Zugfunk zu erreichen. Während er auf Antwort wartete sagte er: 
 „Das bisschen funken, das kann ihn doch nicht an die Seite fetzen.“ 
@@ -1307,8 +1237,10 @@ Seite 33 von 53
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung, 16.06.2010, Peine 
 stellen  und  bei  Überschreitung  festgelegter  Regelalarmschwellen  einen  entsprechenden 
 Alarm in der Melde- und Registriereinheit im Stellwerk auszulösen. 
@@ -1316,13 +1248,9 @@ Der  Güterzug  DGS  93274 befuhr gegen 21:59 Uhr die HOA/FBOA Nr.138 in km 8,71
 Strecke 6400 bei Marienborn. Die Auswertung der Protokolldatei für diese Zugfahrt ließ keine 
 Unregelmäßigkeiten erkennen. Die von der FBOA gemessene Temperatur an einer Bremse 
 der 27. Achse (erste Achse des 10. Wagens) lag bei 27°C. Ob dabei die Bremse am defekten Rad, also in Fahrtrichtung rechts, gemessen wurde, ist unklar. FBOA messen im Gegensatz  zu  HOA  die  Temperatur  nur  an  einer  Seite  der  Fahrzeuge,  da  Klotzbremsen  immer 
-
 paarweise  wirken.  Für  die  Entstehung  des  Unfalls  ist  die  zweifelfreie  Feststellung,  welche 
-
 Fahrzeugseite gemessen wurde, von untergeordneter Bedeutung, da die Zugfahrt im weiteren  Verlauf  gegen  22:39  Uhr  nach  Durchfahrt  in  Braunschweig  wegen  des  Verdachts  auf 
-
 eine  feste  Bremse  angehalten  und  untersucht  wurde.  Darüber  hinaus  ist  nicht  belegt,  dass 
-
 der  Radreifen  bereits  beim  Passieren  der  HOA/FBOA  in  Marienborn  lose  war  und  am  Wagenunterbau schliff. 
 Gegen  23:14  befuhr  Zug  93274,  zwischen  den  Bahnhöfen  Vechelde  und  Peine,  die 
 HOA/FBOA Nr. 70 „Sierße“ in km 44,097. Die Aufzeichnungen der Protokolldatei lassen erkennen, dass die FBOA an der 27. Achse eine Temperatur von 265°C gemessen hat. 
@@ -1349,19 +1277,14 @@ der Fahrdaten erfolgte durch einen Mitarbeiter der EUB an der Unfallstelle.
 Die abgebildete Uhrzeit ist systemintern und kann von der tatsächlichen Uhrzeit abweichen. 
 Im  Rahmen  der  Fahrdatenauswertung  wurde  festgestellt,  dass  die  eingestellte  Uhrzeit  um 
 ca. 60 Minuten von der realen Uhrzeit abwich. Auf die Aussagefähigkeit der Daten hat dies 
-
 keinen  Einfluss.  Die  im  Folgenden  angegeben  Uhrzeiten  beziehen  sich  auf  die  in  der  DSK 
-
 abgebildete  Systemzeit.  In  Bezug  auf  die  tatsächliche  Uhrzeit  sind  dieser  Zeit  60  Minuten 
-
 hinzu zurechnen. 
 Für die Auswertung der Fahrdaten wurden die Angaben zum aufgezeichneten Weg normiert, 
 d.h. die  Wegdaten  wurden  der  Streckenkilometrierung  angepasst.  Als  Bezugspunkt  wurde 
 der  Standort  des  Triebfahrzeugs  nach  dem  Unfall  (km  33,8)  gewählt.  Zug  93274  fuhr  aus 
 Richtung Braunschweig entgegen der Streckenkilometrierung. 
-
 Die  Entgleisung  selbst  ist  aus  den  aufgezeichneten  Daten  nicht  ersichtlich.  Innerhalb  der 
-
 Wegaufzeichnungen können die Entgleisungsstelle im km 34,2 und die dabei gefahrene Geschwindigkeit relativ genau bestimmt werden. Zu beachten ist hierbei, dass nicht das Triebfahrzeug, sondern erst das 12. Fahrzeug im Zug (zwei Triebfahrzeuge + 10 Wagen des Wagenzuges) entgleist ist. Das Triebzeug befand sich demzufolge ca. 120 m hinter der Entgleisungsstelle. 
 Die Auswertung der EFR – Daten ergeben folgenden Sachverhalt: 
 Zug  93274  wurde  aus  Richtung  Braunschweig  kommend  um  21:39:05  Uhr  (DSK  Zeit)  aus 
@@ -1372,17 +1295,15 @@ Seite 35 von 53
  
  
  
+
       
 Untersuchungsbericht 
+
 Zugentgleisung, 16.06.2010, Peine 
-
 Die  Weiterfahrt  erfolgte  um  21:58:04  Uhr.  Der  Zug  wurde  danach  zunächst  bis  auf  ca.  48 
-
 km/h, dann bis auf ca. 72 km/h und weiter bis auf 82 km/h beschleunigt. Nach kurzzeitiger 
 Geschwindigkeitsreduzierung  bis  auf  72  km/h  wurde  die  Geschwindigkeit  des  Zuges  dann 
-
 bis  auf  87  km/h  erhöht.  Gleich  darauf  erfolgt  wiederum  ein  Absenken  der  Geschwindigkeit 
-
 bis auf 77 km/h.  In ca. km 38,5 setzte dann eine Bremswirkung ein, welche die Geschwindigkeit des Zuges auf ca. 40 km/h reduzierte. 
 Um  22:18  Uhr  wurde  bei  einer  Geschwindigkeit  von  63  km/h  eine  1000  Hz  -Beeinflussung 
 registriert, die der Triebfahrzeugführer mit der Bedienung der Taste Wachsam quittierte. 
@@ -1404,8 +1325,10 @@ Seite 36 von 53
  
  
  
+
         
 Untersuchungsbericht 
+
 Zugentgleisung, 16.06.2010, Peine 
 Abbildung 21: grafische Darstellung des Fahrtverlaufs zwischen Braunschweig und Peine 
 Abbildung 22: grafische Darstellung des Fahrtverlaufs im Bahnhof Peine 
@@ -1539,9 +1462,11 @@ Seite 41 von 53
  
  
  
+
  
 	 
 Untersuchungsbericht 
+
 Zugentgleisung, 16.06.2010, Peine 
 rer einen Wagen wegen Undichtigkeiten am Achslagerdeckel aus dem Zugverband aussetzte. 
 Bewertung: 
@@ -1573,8 +1498,10 @@ Seite 42 von 53
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung, 16.06.2010, Peine 
 raum war ausreichend um zumindest den vorderen Zugteil, über den 10. Wagen hinaus, zu 
 untersuchen. 
@@ -1601,9 +1528,7 @@ erreichen.  Auch  bei  diesem  dritten  Versuch  kam  keine  Verständigung  zus
 drei  Verbindungsversuchen  verwendete  der  Fahrdienstleiter  den  Einzelruf  des  GSM-R  – 
 Zugfunks. Einen Nothaltauftrag mittels Notruf gab er nicht ab. 
 Der Grund für das Nichtzustandekommen der Zugfunkverbindung zwischen Fahrdienstleiter 
-
 und  Triebfahrzeugführer  ist  nicht  bekannt.  Eine  Störung  lag  den  Angaben  der  DB  Netz  AG 
-
 zufolge zu diesem Zeitpunkt im Bereich zwischen Vechelde und Peine nicht vor. 
 Bewertung: 
 Der Fahrdienstleiter Vechelde bemerkte während der Zugdurchfahrt das zu diesem Zeitpunkt 
@@ -1617,9 +1542,7 @@ Seite 43 von 53
 Untersuchungsbericht 
 Zugentgleisung, 16.06.2010, Peine 
 Peine zufolge, hat er den gefahrdrohenden Umstand erkannt, denn er sagte: “Der 93274 hat 
-
 eine  feste  Bremse,  aber  wie...,  richtig  Hammer,  das  hat  richtig  geschliffen  hier.“  Demnach 
-
 hätte der Fahrdienstleiter Vechelde entsprechend den Regeln der Richtlinie 408.0581 „Verhalten bei Gefahr“ den Zug sofort anhalten müssen. Hierzu hätte er einen mittels Notruf des 
 Zugfunks  angekündigten  Nothaltauftrag  mit  den  Worten  „Betriebsgefahr,  Zug  93274  sofort 
 anhalten (…)“ geben müssen. Hätte der Triebfahrzeugführer darauf nicht reagiert, dann hätte 
@@ -1627,14 +1550,11 @@ der Fahrdienstleiter Vechelde den Nothaltauftrag an den Fahrdienstleiter in Pein
 mit  dem  Wortlaut  „Betriebsgefahr,  Zug  93274  sofort  anhalten“,  geben  müssen.  Der  Fahrdienstleiter Peine hätte daraufhin den Zug sofort durch das Haltstellen des nächsten Block- 
 oder  Einfahrsignals  anhalten  müssen.  Stattdessen  aber  ließ  sich  der  Fahrdienstleiter 
 Vechelde auf ein fast zweiminütiges Gespräch ein, mit dessen Ausgang, der Fahrdienstleiter 
-
 Peine  wolle  den  Zug  selbst  beobachten,  er  letztendlich  angesichts  der  von  ihm  erkannten 
-
 Gefahr  nicht  zufrieden  war.  Seine  Äußerungen  „versuch  ihn  aber  wenigstens  anzusprechen..., da musst du mal gucken“ und der Versuch, den Triebfahrzeugführer nach dem Gespräch erneut zu erreichen, stützen diesen Verdacht. 
 Durch einen konsequenten Nothaltauftrag des Fahrdienstleiters Vechelde, wäre der spätere 
 Unfall  in  Peine  womöglich  zu  verhindern  gewesen,  vorausgesetzt,  der  Triebfahrzeugführer 
 hätte bei einer erneuten Untersuchung des Zuges die Betriebsgefahr durch den losen Radreifen erkannt. Die Möglichkeit, die Unregelmäßigkeit am vorderen rechten Rad des 10. Wagens  zu  entdecken,  war  auf  jeden  Fall  gegeben  und  offensichtlich  größer  als  beim  Halt  an 
-
 der Abzweigstelle Braunschweig Gabelung. Die Temperatur am Rad war zwischenzeitlich bis 
 auf 265°C, gemessen durch die FBOA „Sierße“, angestiegen. 
 4.6.4 
@@ -1664,9 +1584,7 @@ Gegen 23:23 Uhr, also kurz nachdem der Zug an seinem Stellwerk vorbei fuhr, beme
 Fahrdienstleiter eine Signalstörung, die er sich aber nicht erklären konnte (,...was plärrt denn 
 jetzt, jetzt habe ich hier ein Signalstörwecker, wieso das denn? Weiß ich auch nicht warum, 
 muss  da  erst  mal  suchen“).  Einen  Zusammenhang  der  Störung  mit  der  Zugfahrt  stellte  er 
-
 nicht  her,  auch  nicht,  als  ihm  der  Triebfahrzeugführer  sagte,  dass  dessen  Zug  wegen  des 
-
 Luftverlusts in der Hauptluftleitung aus nicht erkennbarem Grund zum Halten gekommen sei. 
 Die nach Richtlinie 408.0581 notwendigen Maßnahmen bei Gefahr setzte er nicht um. Hiernach wären Züge, auch Züge in Nachbargleisen, sofort anzuhalten. 
 Bewertung: 
@@ -1674,11 +1592,8 @@ Der Fahrdienstleiter in Peine hätte, nachdem er vom Fahrdienstleiter Vechelde �
 anhalten müssen. Auch wenn der Fahrdienstleiter in Vechelde nicht ausdrücklich von einer 
 Betriebsgefahr und einem Nothaltauftrag sprach, waren dessen Schilderungen: „...der 93274 
 hat `ne feste Bremse, du, aber wie,... aber richtig Hammer, das hat richtig geschliffen hier“ 
-
 für  den  Fahrdienstleiter  in  Peine  deutlich  genug,  um  hieraus  eine  Betriebsgefahr  oder  wenigstens die Rückfrage, wie er sich denn nun verhalten solle, ableiten zu können. 
-
 Stattdessen  aber,  ließ  der  Fahrdienstleiter  Peine  wertvolle  Zeit  verstreichen,  in  dem  er  das 
-
 Gespräch mit dem Vechelder Fahrdienstleiter auf ca. zwei Minuten ausdehnte, und an dessen Ende er entschied, den Zug weiterzufahren. 
 Bei dieser Entscheidung spielte zunächst sicherlich der ausbleibende Alarm der HOA/FBOA 
 „Sierße“ eine Rolle. Dass er aber über die Frage, warum denn der Alarm ausblieb, nicht weiter nachdachte, nachdem ihm sein Kollege den Zustand doch recht dramatisch beschrieben 
@@ -1705,7 +1620,6 @@ Triebfahrzeugführer  („...da  funkt  `ne  Bremse  so  ein  bisschen  rum“) 
 locker lang, mit so einem kleinem Funkenflug...“)  stützen diese Annahme. 
 Mit der Information des Triebfahrzeugführers, dass dessen Zug aus nicht erkennbarem Anlass zum Halten kam, hätte der Fahrdienstleiter entsprechend Richtlinie 408.0581 von einer 
 Gefahr ausgehen, und insbesondere den Regionalexpress, der sich aus Richtung Hämelerwald im Nachbargleis näherte, anhalten müssen. 
-
 Dass  jedoch  das  sofortige  Haltstellen  des  Einfahrsignals  und  die  Abgabe  eines  Nothaltauftrages die Folgen des Unfalls gemindert oder die Zugkollision des Regionalexpress mit den 
 entgleisten  Güterwagen  gänzlich  verhindert  hätten,  ist  auszuschließen.  Da  der  Triebfahrzeugführer  die  Aussage,  dass  sein  Zug  stehe,  nur  zögerlich  und  nur  auf  Nachfrage  des 
 Fahrdienstleiters  machte,  blieb  dem  Fahrdienstleiter  kaum  Zeit  den  Regionalexpress  noch 
@@ -1728,9 +1642,7 @@ vorderen  Zugteil  informiert.  Im  weiteren  Verlauf  des  zähfließenden  Ges
 Triebfahrzeugführer dann den Luftverlust in der Hauptluftleitung fest. Der Zug hielt daraufhin 
 selbsttätig an. Ein Nothaltauftrag wurde durch den Triebfahrzeugführer nicht abgesetzt. 
 Bewertung: 
-
 Der  Triebfahrzeugführer  hatte  zunächst  nach  der  Information  des  Fahrdienstleiters,  „...  da 
-
 funkt `ne Bremse so ein bisschen rum“, keine Veranlassung, den Zug sofort anzuhalten, da 
 diese Aussage nicht auf eine unmittelbare Gefahr schließen ließ. 
 Den  anschließenden  Luftverlust  in  der  Hauptluftleitung  und  die  daraus  resultierende 
@@ -1741,15 +1653,11 @@ die Zwangsbremsung seines Zuges schon deutlich früher erkennbar als für den Fa
 Regionalexpress an seinem Triebfahrzeug, vergingen noch ca. 40 Sekunden. Der Regionalexpress  war  demnach  bei  einer  mittleren  Geschwindigkeit  von  115  km/h  noch  knapp  1500 
 Meter von der späteren Unfallstelle entfernt. Hätte der Triebfahrzeugführer des DGS 93274 
 umgehend  auf  die  Zwangsbremsung  seines  Zuges  entsprechend  dem  Regelwerk  reagiert 
-
 und  einen  Nothaltauftrag  mittels  Notruf  abgesetzt,  so  wäre  es  durchaus  möglich,  dass  der 
-
 Triebfahrzeugführer  des  RE-D  14019  durch  Einleiten einer Schnellbremsung zumindest die 
 Geschwindigkeit  seines  Zuges  noch  hätte  mindern  können.  Stattdessen  war  der  Triebfahrzeugführer  des  Güterzuges,  der  den  herannahenden  Regionalexpress  wegen  des  geraden 
 Streckengleises  auch  hätte  sehen  können,  im  Gespräch  mit  dem  Fahrdienstleiter  vertieft. 
-
 Somit  verstrich  wertvolle  Zeit,  die  bei  konsequentem  Handeln,  eventuell  ausgereicht  hätte, 
-
 zumindest die Unfallfolgen für den Regionalexpress abzuschwächen. 
 Seite 47 von 53 
  
@@ -1757,9 +1665,11 @@ Seite 47 von 53
  
  
  
+
  
 	
 Untersuchungsbericht 
+
 Zugentgleisung, 16.06.2010, Peine 
 4.7 
 Interpretation der Unfallspuren 
@@ -1793,9 +1703,7 @@ Seite 48 von 53
 Untersuchungsbericht 
 Zugentgleisung, 16.06.2010, Peine 
 Das linke Rad des vorderen Radsatzes war zu diesem Zeitpunkt noch nicht entgleist. 
-
 Im  weiteren  Verlauf  der  Fahrt  wurde  dann  das  rechte  Rad  über  die  linke  Fahrschiene  des 
-
 nach rechts abzweigenden Gleises gezogen. Zeitgleich setzen in diesem Bereich erste Entgleisungsspuren des nach rechts entgleisten linken Rades ein. 
 Abbildung 26: Spuren vom linken Rad 
 Abbildung 27: Spuren vom rechten Rad 
@@ -1840,7 +1748,6 @@ Zugentgleisung, 16.06.2010, Peine
 Unfallspuren – RE-D 14019 
 Der Regionalexpress fuhr frontal auf den nahezu vollständig im Gleis liegenden 11. Wagen 
 des Güterzuges auf. Durch die Wucht des Aufpralls wurde wahrscheinlich das vordere Drehgestell  des  Triebfahrzeuges  entlastet  und  sprang  nach  rechts  aus  dem  Gleis.  Im  weiteren 
-
 Verlauf kam das Triebfahrzeug zunehmend nach rechts vom Gleiskörper ab, geriet durch die 
 abschüssige  Böschung  in  Schräglage  und  kam  in  einem  angrenzenden  Garten,  fast  vollständig auf der rechten Seite liegend, zum Stillstand. Die beiden nachlaufenden Wagen entgleisten ebenfalls, wobei auch der erste Wagen sehr stark nach rechts kippte. 
 Abbildung  31:  Entgleisungsspuren  des  RE-D 
@@ -1896,7 +1803,6 @@ Seite 52 von 53
 Zugentgleisung, 16.06.2010, Peine 
 umgehend  nach  Feststellung  des  Luftverlusts  in  der  Hauptluftleitung  einen  Nothaltauftrag 
 mittels Notruf abgesetzt hätte. Der Regionalexpress war zu diesem Zeitpunkt noch ca. 1500 
-
 Meter  von  der  Unfallstelle  entfernt.  Vermutlich  hätte  der  Triebfahrzeugführer  des  Regionalexpress  bei  Aufnahme  des  Nothaltauftrages  und  sofortigem  Einleiten  einer  Schnellbremsung, die Geschwindigkeit seines Zuges vor der Kollision noch verringern können. 
 Das  mit  dem  Regelwerk  nicht  konforme  Handeln  beim  Erkennen  einer  Gefahr  durch  die 
 Fahrdienstleiter in Vechelde und Peine und durch den Triebfahrzeugführer des Güterzuges 

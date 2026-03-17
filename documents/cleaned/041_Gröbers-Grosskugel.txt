@@ -22,8 +22,10 @@ Gefährliches Ereignis im Eisenbahnbbetrieb
  
   
     
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  11.02.2011,  Gröbers - Großkugel 
 Veröffentlicht durch: 
 Bundesministerium für Verkehr, Bau und Stadtentwicklung, 
@@ -47,39 +49,22 @@ Seite 2 von 34
 Zugentgleisung,  11.02.2011,  Gröbers - Großkugel 
 Inhaltsverzeichnis: 
 Seite 
-
 Zusammenfassung .............................................................................................. 8 
-
 Hergang ................................................................................................................. 8 
-
 Folgen .................................................................................................................... 8 
-
 Ursachen ...............................................................................................................8 
-
 Vorbemerkungen ...............................................................................................10
-
 Organisatorischer Hinweis ...................................................................................10 
-
 Ziel der Eisenbahn-Unfalluntersuchung ...............................................................10 
-
 Mitwirkende .......................................................................................................... 11 
-
 Ereignis ...............................................................................................................11 
-
 Hergang ...............................................................................................................11 
-
 Todesopfer, Verletzte und Sachschäden .............................................................12 
-
 Wetterbedingungen .............................................................................................12
-
 Untersuchungsprotokoll ...................................................................................12 
-
 Zusammenfassung von Aussagen ......................................................................12 
-
 Notfallmanagement ..............................................................................................13 
-
 Untersuchung der Infrastruktur ............................................................................13 
-
 1 
 1.1 
 1.2 
@@ -97,9 +82,7 @@ Untersuchung der Infrastruktur .................................................
 4.2 
 4.3 
 4.3.1 
-
 Oberbau ...............................................................................................................13 
-
 4.4 
 4.5 
 4.5.1 
@@ -111,90 +94,59 @@ Oberbau ........................................................................
 7 
 Untersuchung der Leit- und Sicherungstechnik ...................................................24 
 Untersuchung der betrieblichen Handlungen ......................................................25 
-
 Meldebuch ...........................................................................................................25 
-
 Fahrverlaufsauswertung ......................................................................................26 
-
 Buchfahrplan ........................................................................................................27 
-
 Untersuchung von Fahrzeugen ...........................................................................28 
-
 Auswertung und Schlussfolgerungen .............................................................30 
-
 Bisher getroffene Maßnahmen .........................................................................33 
-
 Sicherheitsempfehlungen .................................................................................33 
-
 Seite 3 von 34 
  
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  11.02.2011,  Gröbers - Großkugel 
 Abbildungsverzeichnis: 
-
 Abb. 1: Standort des restlichen Zugverbandes in km 95,400 .................................................. 9 
-
 Abb. 2: Entgleisungsstelle in km 100,000; Foto entgegen Fahrtrichtung des FIR 51380 ....... 9 
-
 Abb. 3: Lageplan ....................................................................................................................  11 
-
 Abb. 4: Auszug aus dem zum Unfallzeitpunkt gültigen VzG für die Strecke 6403 .................14 
-
 Abb. 5 Die Gleislagefehler sind ohne Hilfsmittel visuell erkennbar ........................................15 
-
 Abb. 6: Lose Befestigungsschraube vor der Entgleisungsstelle ............................................15 
-
 Abb. 7: Fehlende Befestigungselemente ...............................................................................16 
-
 Abb. 8: Im Bereich der Schienenbefestigung gerissene Schwelle .........................................16 
-
 Abb. 9: Kennzeichnung des Aufkletterns und Abgleitens des Radkranzes am Schienenkopf
-
  ................................................................................................................................. 17 
-
 Abb. 10: Erste beschädigte Kleineisen linke Schiene km ca. 99,990 ..................................... 18 
-
 Abb. 11: Zerstörte Schwelle an Weiche 21 ............................................................................19 
-
 Abb. 12: Auszug Messschrieb Railab vom 12.01.2011 ..........................................................20 
-
 Abb. 13: Überschreitungsprotokoll der Messfahrt am 12.01.2011 .........................................21 
-
 Abb. 14: Auszug aus Ril 821.2001 Beurteilungsmaßstäbe für Einzelfehler der Gleislage .....22 
-
 Abb. 15 Auszug aus Ril 821.2001 Grenzwerte der Spurweite ...............................................22 
-
 Abb. 16: Darstellung der Standardabweichung des Gesamtsignals 2008 (vordere Säule) bis 
-
 2011 (hintere Säule) .................................................................................................24 
-
 Abb. 17: Zerstörter PZB- Magnet ...........................................................................................25 
-
 Abb. 18: Meldebuch Meldung Luftverlust, Zugtrennung ......................................................... 26 
-
 Abb. 19: graphische Darstellung des Fahrverlaufes ..............................................................27 
-
 Abb. 20: Auszug aus dem Buchfahrplan des FIR 51380 .......................................................28 
-
 Abb. 21: Kerbe im Spurkranz des linken Rades im vorderen Radsatz des entgleisten 
-
 Wagens .................................................................................................................... 29 
-
 Abb. 22: Das Radsatzlager des Radsatzes 2 wurde verdreht und ohne Distanzringe 
-
 aufgefunden ............................................................................................................. 30 
-
 Seite 4 von 34 
  
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  11.02.2011,  Gröbers - Großkugel 
 Abb. 23 Schematische Darstellung der Längshöhenabweichung beider Schienen im 
 kritischen Streckenabschnitt von km 100,150 bis 100,010 ....................................... 32 
@@ -211,18 +163,22 @@ Allgemeines Eisenbahngesetz
 BMVBS 
 Bundesministerium für Verkehr, Bau und Stadtentwicklung 
 BPol 
+
 BÜ 
 BZ 
 EBA 
+
 EBL 
 EBO 
 EIU 
 ERA 
 ESO 
 Bundespolizei 
+
 Bahnübergang 
 Betriebszentrale 
 Eisenbahn-Bundesamt 
+
 Eisenbahnbetriebsleiter 
 Eisenbahn Bau- und Betriebsordnung 
 Eisenbahninfrastrukturunternehmen 
@@ -241,13 +197,17 @@ Lgns
 NE 
 Nmg 
 Ril 
+
 SB 
 SMS 
 SR100 
+
 SRA 
 SRlim 
+
 Tf 
 UZ 
+
 Eisenbahn-Unfalluntersuchungsstelle des Bundes 
 Eisenbahn-Unfalluntersuchungsverordnung 
 Eisenbahnverkehrsunternehmen 
@@ -280,17 +240,22 @@ Seite 6 von 34
  
 Untersuchungsbericht 
 Zugentgleisung,  11.02.2011,  Gröbers - Großkugel 
+
 VzG 
 ZAS 
+
 Verzeichnis der zulässigen Geschwindigkeiten 
 Zentrale Auswertestelle 
+
 Seite 7 von 34 
  
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  11.02.2011,  Gröbers - Großkugel 
 1  Zusammenfassung 
 1.1  Hergang 
@@ -300,9 +265,7 @@ Durchfahrt am Hp Großkugel stieg der Wagen im km 100,000 auf die Schienenoberka
 und glitt im km 99,990 mit zwei Radsätzen vom Gleis ab. Nachdem der Zug die Weichen 20 
 und 21 passiert und beschädigt hatte, kam es im km 95,800 zur Zugtrennung zwischen dem 
 letzten und dem vorletzten Wagen. Danach fuhr der Zug bis zum Halt noch ca. 400 m. 
-
 Nach  der  Kontrolle  seines  Zuges  meldete  der  Tf,  dass  der  vorletzte  Wagen  (21  80  442  6 
-
 113-7, leerer Lgs) mit zwei Achsen entgleist ist und sich vom drittletzten Wagen (21 80 443 8 
 161-5, leerer Lgns) nicht trennen ließe (Kupplung unter Spannung).  
 Der letzte Wagen stand im km 95,8, der restliche Zugverband mit dem entgleisten Wagen im 
@@ -322,8 +285,10 @@ Seite 8 von 34
  
  
  
+
  
 Untersuc
+
 chungsberich
 ht 
 Zugentgl
@@ -349,9 +314,7 @@ Diese  Richtlinie  wurde  mit  dem  5.  Gesetz  zur  Änderung  eisenbahnrechtli
 vom  16.  April  2007  umgesetzt  und  die  Eisenbahn-Unfalluntersuchungsstelle  des  Bundes 
 (EUB) eingerichtet. Die weitere Umsetzung der Sicherheitsrichtlinie erfolgte durch die Eisenbahn-Unfalluntersuchungsverordnung (EUV) vom 05.07.2007. 
 Die Leitung der Eisenbahn-Unfalluntersuchungsstelle des Bundes (EUB) liegt beim Bundesministerium  für  Verkehr,  Bau  und  Stadtentwicklung  (BMVBS).  Zur  Durchführung  der  Untersuchungen  greift  die  Leitung  der  EUB  auf  die  Untersuchungszentrale  beim  Eisenbahn-
-
 Bundesamt  -  die  fachlich  ausschließlich  und  unmittelbar  dem  Leiter  der  EUB  untersteht  - 
-
 zurück. 
 Näheres hierzu ist im Internet unter >> www.eisenbahn-unfalluntersuchung.de << eingestellt. 
 2.2  Ziel der Eisenbahn-Unfalluntersuchung 
@@ -367,8 +330,10 @@ Seite 10 von 34
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  11.02.2011,  Gröbers - Großkugel
 2.3  Mitwirkende 
 Im  Rahmen  der  Sachverhaltsermittlung  und  Ursachenerforschung  wurden  folgende externe 
@@ -387,9 +352,7 @@ zwei Achsen entgleist sei und sich vom drittletzten Wagen (21 80 443 8  161-5, l
 nicht trennen ließe (Kupplung unter Spannnung).  
 Abb. 3: Lageplan 
 Quelle: IVL-Plan DB Netz AG bearbeitet durch EUB 
-
 Es  stellte  sich  heraus,  dass  der  vorletzte  Wagen  des  FIR  51380  bei  km  100,000  mit  zwei 
-
 Radsätzen entgleist war. Nach der Durchfahrt am Hp Großkugel kletterte der vorletzte Wagen, im km 100,000 auf die Schienenoberkante auf und glitt in km 99,990 mit zwei Radsät-
 Seite 
 11 von 34 
@@ -398,18 +361,14 @@ Seite
  
 Untersuchungsbericht 
 Zugentgleisung,  11.02.2011,  Gröbers - Großkugel 
-
 zen  nach  in  Fahrtrichtung  rechts  von  den  Schienenköpfen  ab.  Der  Tf  setzte  seine  Fahrt  in 
-
 Richtung Gröbers fort, ohne die Entgleisung zu bemerken. 
 Im  km  95,800  kam  es  beim  Befahren  der  Weichenverbindung  (Weiche  20/21)  zur  Zugtrennung zwischen dem letzten und dem vorletzten Wagen. Dabei wechselte der entgleiste Wagen von der rechten Seite nach links. Nach der Zugtrennung bis zum Halt fuhr der Zug noch 
 ca. 400 m. 
 Der letzte Wagen stand im km 95,8, der restliche Zugverband mit dem entgleisten Wagen im 
 km 95,4. 
 3.2  Todesopfer, Verletzte und Sachschäden 
-
 Todesopfer  oder  Verletzte  sind  nicht  zu  beklagen.  Die  Sachschäden  setzen  sich  wie  folgt 
-
 zusammen: 
 • 
 • 
@@ -429,19 +388,14 @@ ca.
   16.500 € 
 3.3  Wetterbedingungen 
 Zum  Unfallzeitpunkt  waren  keine  für  den  Unfallhergang  relevanten  Wetterbesonderheiten 
-
-feststellbar.  Bei  Temperaturen  leicht  unter  dem  Gefrierpunkt  herrschte  klare  Sicht.  Nieder-
-
-schläge wurden zum Unfallzeitpunkt nicht registriert.  
+feststellbar.  Bei  Temperaturen  leicht  unter  dem  Gefrierpunkt  herrschte  klare  Sicht.  Niederschläge wurden zum Unfallzeitpunkt nicht registriert.  
 4 
 Untersuchungsprotokoll 
 4.1  Zusammenfassung von Aussagen 
 Der  Triebfahrzeugführer  sagte  aus,  er  hätte  beim  Durchfahren  des  Bahnhofs  Gröbers  den 
 Druckabfall  in  der  Hauptluftleitung  des  Zuges  bemerkt.  Er  habe  die  Bremsung  unterstützt 
 und den Fahrdienstleiter verständigt. In km 94,9 sei er zum Halten gekommen. Nach Sperrung des Nachbargleises hätte er die Ursache des Luftverlustes untersucht und festgestellt, 
-
 dass  der  vorletzte  Wagen  entgleist  gewesen  sei  und  das  letzte  Fahrzeug  ca.  400  m  weiter 
-
 weg gestanden habe.  
 Der Triebfahrzeugführer hat zum Zeitpunkt der Entgleisung keine Angaben gemacht.  
 4.2  Notfallmanagement  
@@ -463,10 +417,7 @@ Uhr. Der Notfallmanager war 14 Minuten später vor Ort.
 4.3  Untersuchung der Infrastruktur 
 4.3.1  Oberbau 
 Die Strecke 6403 Magdeburg – Leipzig Messe Süd ist eine Strecke des konventionellen Verkehrs der TEN-Kategorie VII. Sie ist auf dem Abschnitt Gröbers – Großkugel zweigleisig und 
-
-wird  vom  Personen-  und  Güterverkehr  mit  8  t/m  bzw.  22,5  t  Achslast  frequentiert.  Die  Ein-
-
-ordnung erfolgt dem zu Folge in Streckenklasse D4.  
+wird  vom  Personen-  und  Güterverkehr  mit  8  t/m  bzw.  22,5  t  Achslast  frequentiert.  Die  Einordnung erfolgt dem zu Folge in Streckenklasse D4.  
 Der Oberbau ist in der Bauart W60 1667 B70 Schotter ausgeführt und wurde im Jahre 1992 
 eingebaut.  
 Das zum Zeitpunkt des Unfalls gültige Verzeichnis der zulässigen Geschwindigkeiten (VzG) 
@@ -493,8 +444,10 @@ Seite
 14 von 34 
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  11.02.2011,  Gröbers - Großkugel
 Abb. 5 Die Gleislagefehler sind ohne Hilfsmittel visuell erkennbar 
 Quelle: DB Netz AG 
@@ -505,8 +458,10 @@ Seite
 15 von 34 
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  11.02.2011,  Gröbers - Großkugel
 Abb. 7: Fehlende Befestigungselemente 
 Fehlende Befestigungselemente vor der Entgleisungsstelle 
@@ -522,8 +477,10 @@ Abb. 9: Kennzeichnung des Aufkletterns und Abgleitens des Radkranzes am Schienen
 Markierung auf Fahrspiegel 
 Seite 
 17 von 34 
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  11.02.2011,  Gröbers - Großkugel
 Erste Entgleisungsspur am 
 Kleineisen der linken Schiene 
@@ -551,14 +508,14 @@ Messfahrt  zur  Zugentgleisung  am  11.02.2011  wurde  auf  die  Durchführung  
 Messfahrt mit dem Gleismessfahrzeug (Railab) verzichtet.  
 Für den Bereich von km 100,100 bis zum km 99,650 zeigt die Aufzeichnung bei allen Messfahrten  seit  dem  20.07.2009  für  den  Parameter  Längshöhe  verstärkte  Bewegung  in  den 
 Messkurven auf beiden Schienen des betreffenden Gleises mit der Tendenz zur Verschlechterung von Messfahrt zu Messfahrt. Die  Messung am 20.07.2009 zeigt von km 100,100 bis 
-
 km  1000,020  zwar  bereits  auffällige  Ausschläge  vor  der  späteren  Entgleisungsstelle  bei  der 
-
 Längshöhenkurve, jedoch noch keine Überschreitung der SR100- Marke. Seit der Messung 
 Seite 
 19 von 34 
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  11.02.2011,  Gröbers - Großkugel
 vom  18.05.2010  wurden  in  diesem  Bereich  Überschreitungen der  SR100-  Werte  registriert. 
 Bei der Fahrt am 12.01.2011 traten dann Überschreitungen des SRlim –Wertes zwischen km 
@@ -574,10 +531,7 @@ Zugentgleisung,  11.02.2011,  Gröbers - Großkugel
 Abb. 13: Überschreitungsprotokoll der Messfahrt am 12.01.2011 
 In der Ril 821.1000 „Grundlagen der Oberbauinspektion“, Abschnitt 2 „Grundsätze und Beurteilungsmaßstäbe“, ist in Bezug auf den SR100- Wert folgendes ausgeführt: 
 „…  Bei  dessen  Überschreitung  ist  eine  Instandsetzung  bis  zur  nächsten  Regelinspektion 
-
-erforderlich.  Der  späteste  Zeitpunkt  der  Instandsetzung  ist  durch  das  Maß  der  Überschrei-
-
-tung von SR100 in Verbindung mit der Fehlerentwicklung bestimmt. Bei einer Überschreitung 
+erforderlich.  Der  späteste  Zeitpunkt  der  Instandsetzung  ist  durch  das  Maß  der  Überschreitung von SR100 in Verbindung mit der Fehlerentwicklung bestimmt. Bei einer Überschreitung 
 von SR100 kann ohne eine zwischenzeitliche Instandsetzung eine Überschreitung SRlim bis 
 zur nächsten Regelinspektion nicht ausgeschlossen werden. ...“  
 Die  Durchführung  von 
@@ -589,8 +543,10 @@ Seite
 21 von 34 
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  11.02.2011,  Gröbers - Großkugel
 vor  der  Entgleisung  des  FIR  51380  (Stopfarbeiten  von  km  101,867  bis  km  99,227)  am 
 28.06.2008 durchgeführt. 
@@ -607,8 +563,10 @@ Seite
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  11.02.2011,  Gröbers - Großkugel 
 Eine Unterschreitung des Grenzwertes für die Spurweite hätte gemäß Ril 821.100 unmittelbar eine Sperrung des Oberbaus nach sich ziehen und eine sofortige Instandsetzung hätte in 
 die Wege geleitet werden müssen 
@@ -616,10 +574,7 @@ Es ist seit der Messfahrt vom 12.01.2011 jedoch keine Unterhaltungsmaßnahme nac
 Bei der Vor- Ort- Untersuchung durch die EUB wurden zudem keine Vorkehrungen für eine 
 Geschwindigkeitsreduzierung  auf  v  ≤  80km/h  (Einrichtung  einer  Langsamfahrstelle)  vorgefunden. 
 Zur  Beurteilung  des  Gesamtzustandes  von  Gleisabschnitten  wird  gemäß  der  Ril  821.2001, 
-Abschnitt 5 (10) die Standardabweichung s des Gesamtsignals der Längshöhe, der gegen-
-
-seitigen  Höhenlage  und  der  Pfeilhöhe  jeweils  berechnet  über  250  m  mit  einer  Schrittweite 
-
+Abschnitt 5 (10) die Standardabweichung s des Gesamtsignals der Längshöhe, der gegenseitigen  Höhenlage  und  der  Pfeilhöhe  jeweils  berechnet  über  250  m  mit  einer  Schrittweite 
 von 25 m ermittelt. Dieser Wert kann bereits einen schlechten Zustand des Gleisabschnittes 
 aufzeigen, wenn noch keine Überschreitungen von SR100- oder SRlim- Werten vorliegen. Er 
 wird gemäß Richtlinie jedoch lediglich als zusätzliche Entscheidungshilfe für die Beurteilung 
@@ -641,17 +596,15 @@ Seite 23 von 34
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  11.02.2011,  Gröbers - Großkugel
-
 Abb. 16: Darstellung der Standardabweichung des Gesamtsignals 2008 (vordere Säule) bis 2011 (hintere Säule) 
-
 Quelle: DB Netz AG 
 4.4  Untersuchung der Leit- und Sicherungstechnik 
-
 Die  Strecke  6403  ist  integriert  in  die  Stellbereiche  der  ESTW-  A  Schkeuditz  und  Gröbers, 
-
 welche der Unterzentrale (UZ) Leipzig Waren zugeoordnet sind. Gemäß Historie bewegte sich 
 der FIR 51380 im Bereich der UZ Leipzig Waren, als sich die Entgleisung ereignete. Die UZ 
 Leipzig Waren wird aus der Betriebszentrale Leipzig gesteuert.
@@ -666,8 +619,10 @@ Seite
 24 von 34 
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  11.02.2011,  Gröbers - Großkugel
 Abb. 17: Zerstörter PZB- Magnet 
 Quelle: DB Netz AG 
@@ -676,9 +631,7 @@ Quelle: DB Netz AG
 Gemäß  Meldebuch wurde durch den Tf des FIR 51380 um 15.50 Uhr Luftverlust in km 95,4 
 gemeldet. Fünf Minuten später meldete  der Tf des 1744 die Entgleisung des FIR 51380 im 
 Nachbargleis mit dem Hinweis, dass keine Gefahr vom entgleisten Zug ausgehen würde. 
-
 Um  15.55  Uhr  wurde  die  Zugtrennung  und  Entgleisung  durch  die  BZ  an  die  Notfallleitstelle 
-
 gemeldet. Der Notfallmanager war um 16.09 Uhr vor Ort. 
 Seite 
 25 von 34 
@@ -761,10 +714,7 @@ Quelle: DB Netz AG
 5  Auswertung und Schlussfolgerungen 
 Der  FIR  51380  bewegte  sich  mit  einer  Geschwindigkeit  von  ca.  91  km/h  auf  der  Strecke 
 6403 Schkeuditz – Gröbers aus Richtung des Haltepunktes Großkugel kommend in Richtung 
-Gröbers. Das Aufsteigen des entgleisten Wagens erfolgte bei km 100,000 hinter einem Stre-
-
-ckenabschnitt  mit  einer  Vielzahl  von  Gleislagefehlern,  die  teilweise  ohne  Hilfsmittel  visuell 
-
+Gröbers. Das Aufsteigen des entgleisten Wagens erfolgte bei km 100,000 hinter einem Streckenabschnitt  mit  einer  Vielzahl  von  Gleislagefehlern,  die  teilweise  ohne  Hilfsmittel  visuell 
 wahrnehmbar waren, in km 99,990 glitt  er dann von den Schienenköpfen nach in Fahrtrichtung rechts ab. Fahrzeug Nr. 21804426113 – 7, das vorletzte in der Zugfolge ist ein Lgs, war 
 Seite 
 30 von 34 
@@ -786,15 +736,9 @@ Es liegt nahe anzunehmen, dass die erforderlichen Unterhaltungsmaßnahmen mit Bl
 die im Rahmen des Konjunkturpaketes II vorgesehene und im April 2011 durchgeführte Erneuerung des Gleises unterblieben. 
 Die  hier  behandelte  Zugentgleisung  ist  durch  einzeln  auftretende  Überschreitungen  der 
 SRlim- Werte oder Grenzwerte allein nicht erklärbar. Vielmehr ist ausschlaggebend, dass für 
-
-den  später  entgleisten  sowie  die  vor-  bzw.  nachlaufenden  leeren  Wagen  infolge  der  allge-
-
-mein schlechten Gleislage vor der Entgleisungsstelle und der relativ geringen Eigengewichte 
+den  später  entgleisten  sowie  die  vor-  bzw.  nachlaufenden  leeren  Wagen  infolge  der  allgemein schlechten Gleislage vor der Entgleisungsstelle und der relativ geringen Eigengewichte 
 der Resonanzfall eintrat, das heißt die genannten Fahrzeuge sich aufschaukelten. Eines von 
-
-ihnen  entgleiste  schließlich  an  einer  Stelle,  wo  die  Gleislagefehler  in  einer  SRlim-  Über-
-
-schreitung kulminierten.  
+ihnen  entgleiste  schließlich  an  einer  Stelle,  wo  die  Gleislagefehler  in  einer  SRlim-  Überschreitung kulminierten.  
 Seite 31 von 34 
  
  
@@ -802,16 +746,21 @@ Seite 31 von 34
  
 Untersuchungsbericht 
 Zugentgleisung,  11.02.2011,  Gröbers - Großkugel 
+
 Längshöhenabweichung Strecke 6403, km 100,150 bis km 
 100,010
+
 n
 i
+
 g
 n
 u
 h
 c
+
 i
+
 e
 w
 b
@@ -826,10 +775,14 @@ g
 n
 ä
 L
+
 ]
+
 m
 m
+
 [
+
 e
 n
 h
@@ -841,9 +794,11 @@ d
 n
 a
 W
+
 r
 e
 d
+
 20,0
 15,0
 10,0
@@ -853,195 +808,237 @@ d
 -10,0
 -15,0
 -20,0
+
 0
 5
 1
 0
 0
 1
+
 ,
+
 4
 4
 1
 0
 0
 1
+
 ,
+
 8
 3
 1
 0
 0
 1
+
 ,
+
 2
 3
 1
 0
 0
 1
+
 ,
+
 6
 2
 1
 0
 0
 1
+
 ,
+
 0
 2
 1
 0
 0
 1
+
 ,
+
 4
 1
 1
 0
 0
 1
+
 ,
+
 8
 0
 1
 0
 0
 1
+
 ,
+
 2
 0
 1
 0
 0
 1
+
 ,
+
 6
 9
 0
 0
 0
 1
+
 ,
+
 0
 9
 0
 0
 0
 1
+
 ,
+
 4
 8
 0
 0
 0
 1
+
 ,
+
 8
 7
 0
 0
 0
 1
+
 ,
+
 2
 7
 0
 0
 0
 1
+
 ,
+
 6
 6
 0
 0
 0
 1
+
 ,
+
 0
 6
 0
 0
 0
 1
+
 ,
+
 4
 5
 0
 0
 0
 1
+
 ,
+
 8
 4
 0
 0
 0
 1
+
 ,
+
 2
 4
 0
 0
 0
 1
+
 ,
+
 6
 3
 0
 0
 0
 1
+
 ,
+
 0
 3
 0
 0
 0
 1
+
 ,
+
 4
 2
 0
 0
 0
 1
+
 ,
+
 8
 1
 0
 0
 0
 1
+
 ,
+
 2
 1
 0
 0
 0
 1
+
 ,
 Streckenkilometer
 Längshöhe linke Schiene
 Längshöhe rechte Schiene
-
 Abb. 23 Schematische Darstellung der Längshöhenabweichung beider Schienen im kritischen Streckenabschnitt 
-
 von km 100,150 bis 100,010 
 Auf  Grund  der  Sachlage  bei  dieser  und  bei  anderen  ähnlich  gelagerten  Zugentgleisungen 
 erscheint es unerlässlich, der Beurteilung des Gesamtzustandes eines Gleisabschnittes größere Beachtung zu schenken als dies bislang geschieht. 
 Die Angaben zu den Standardabweichungen der Längshöhe, der gegenseitigen Höhenlage 
 und der Pfeilhöhe werden bei den Messfahrten registriert und zentral abgelegt. SR100- oder 
 SRlim-  Werte,  welche  Sofortmaßnahmen  oder  Maßnahmen,  die  zwingend  eine  terminierte 
-
 Abarbeitung  erfordern,  sind  für  die  Resultate  der  Gleisabschnittsbeurteilung  mittels  dieser 
-
 Standardabweichungen in der Ril 821.2001 nicht hinterlegt, können also daraus nicht abgeleitet werden.  
 Sie  sind  in  den  Detailmessschrieben  im  Regelfall  nicht  ausgewiesen,  da  sie  gemäß  Ril 
 821.2001  lediglich  als  zusätzliche  Entscheidungshilfe  für  die  Beurteilung,  welche  zusammenhängenden  Instandsetzungsmaßnahmen  zur  Verbesserung  der  Gleislage  bei  Überschreitung eines Richtwertes (SRA- Wert) eventuell einzuleiten sind, dienen. 
-
 Für  die  letzten  3  Messfahrten  vor  dem  Ereignis  liegen  die  Detailmessschriebe  im  Maßstab 
-
 1:500 (Ril 821.2001A02) vor. Die Standardabweichungen der Längshöhe, der gegenseitigen 
 Höhenlage sowie der Richtung manifestieren sich dort lediglich im Gesamtsignal Gleislage, 
 welches in Prozent von SR100 angegeben ist. 
@@ -1050,8 +1047,10 @@ Seite 32 von 34
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  11.02.2011,  Gröbers - Großkugel 
 In den Übersichtsschrieben im Maßstab 1:100.000 (Ril 821.2001A01), welche in der zentralen  Inspektionsdatenbank  und  beim  Anlagenverantwortlichen  abgelegt  werden,  sind  die 
 Standardabweichungen  der  Längshöhe,  der  gegenseitigen  Höhenlage  sowie  der  Richtung 
@@ -1067,11 +1066,7 @@ können,  sofern  die  Entgleisung  unbemerkt  bleibt,  in  das  Lichtraumprofil
 solchen Falle nicht auszuschließen. 
 6 
 Bisher getroffene Maßnahmen 
-Im Rahmen des Konjunkturpaketes II wurde im April 2011 auf der Strecke 6403 für den Ab-
-
-schnitt  von  km  101,900  bis  km  98,900  der  Oberbau  erneuert  und  mittels  Einbau  einer  Pla-
-
-numschutzschicht der Unterbau ertüchtigt. So konnte der Geschwindigkeitseinbruch im VzG 
+Im Rahmen des Konjunkturpaketes II wurde im April 2011 auf der Strecke 6403 für den Abschnitt  von  km  101,900  bis  km  98,900  der  Oberbau  erneuert  und  mittels  Einbau  einer  Planumschutzschicht der Unterbau ertüchtigt. So konnte der Geschwindigkeitseinbruch im VzG 
 beseitigt und die Gleislage dauerhaft stabilisiert werden. Die zulässige Geschwindigkeit wurde mit dem Fahrplanwechsel  2011 auf 120 km/h angehoben. 
 7 
 Sicherheitsempfehlungen  

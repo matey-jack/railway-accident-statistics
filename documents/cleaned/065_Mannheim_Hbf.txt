@@ -3,10 +3,14 @@ der Eisenbahn-Unfalluntersuchungsstelle
 des Bundes  
 Aktenzeichen:  60uu2014-08/002-3323 
 
+
 Datum: 
+
 23.09.2015 Version: 1.0
 
+
 Gefährliches Ereignis im Eisenbahnbetrieb 
+
 Ereignisart: 
 Datum: 
 Zeit: 
@@ -45,8 +49,10 @@ Seite 2 von 47
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugkollision, 01.08.2014, Mannheim Hbf 
 Inhaltsverzeichnis: 
 Seite
@@ -107,6 +113,7 @@ Untersuchung des Eisenbahnbetriebes.............................................
 
 
  1 
+
  1.1 
  1.2 
  1.3 
@@ -125,12 +132,13 @@ Untersuchung des Eisenbahnbetriebes.............................................
  4.4 
  4.5 
 4.5.1 
-
 Personal Infrastrukturunternehmen ..................................................................... 20
 
 
 4.5.2 
+
 Personal Eisenbahnverkehrsunternehmen.......................................................... 22
+
 
 4.5.3 
 
@@ -138,13 +146,16 @@ Auswertung der EFR-Daten........................................................
 
 
  4.6 
+
  4.7 
  5 
  5.1 
  5.2 
 Untersuchung von Fahrzeugen / Zugbildung....................................................... 36
 
+
 Sicherheitsmanagementsystem der ERS Railways B.V. ..................................... 38
+
 
 Auswertung und Schlussfolgerungen ............................................................. 42
 
@@ -156,12 +167,7 @@ Leit-und Sicherungstechnik .....................................................
 
 
 Seite 3 von 47 
- 
- 
- 
- 
- 
- 
+
  
  
  
@@ -192,10 +198,10 @@ Seite 3 von 47
  
  
 Untersuchungsbericht 
+
 Zugkollision, 01.08.2014, Mannheim Hbf 
 5.3 
 5.4 
-
 Fahrzeuge............................................................................................................ 43
 
 
@@ -228,11 +234,7 @@ Sicherheitsempfehlungen.........................................................
 
 
 Seite 4 von 47 
- 
- 
- 
- 
- 
+
  
  
  
@@ -248,14 +250,15 @@ Seite 4 von 47
  
  
 Untersuchungsbericht 
+
 Zugkollision, 01.08.2014, Mannheim Hbf 
 Abbildungsverzeichnis: 
 Abb. 1: 
-
 Aufnahmen an der Unfallstelle.............................................................................10
 
 
 Abb. 2: 
+
 Ansicht aus dem Führerstand eines Tfz 1116 bei Annäherung an das Signal 
 
 
@@ -268,21 +271,32 @@ Lageplanskizze Mannheim Hbf.....................................................
 
 
 Abb. 4:  
+
 Fahrstraßeneinstellung für S 38244 und EC 216 ................................................19
 
+
 Abb. 5:  
+
 Prüfergebnisse der Gleismagnetprüfungen .........................................................20
 
+
 Abb. 6: 
+
 Leuchtmelderdarstellung des Triebfahrzeuges 1116 (18:43:34–18:52:18) .........26 
 
+
 Abb. 7: 
+
 Displayanzeige einer PZB-Zwangsbremsung aufgrund 2000 Hz-Beeinflussung 26 
 
+
 Abb. 8: 
+
 graf. Darstellung der EFR-Daten DGS 40635 .....................................................28
 
+
 Abb. 9: 
+
 graf.  Darstellung  der  EFR-Daten  DGS  40635  ab  Zsig  S  183  (Ausschnittvergrößerung) ......................................................................................................29
 
 
@@ -292,7 +306,9 @@ graf. Darstellung der EFR-Daten EC 216 .........................................
 
 
 Abb. 11: 
+
 Wagenliste des DGS 40635 mit Angaben zu Ladung und Gefahrgut .................37
+
 
 Abb. 12: 
 
@@ -300,6 +316,7 @@ Wagenliste des EuroCity 216 ....................................................
 
 
 Abb. 13:  
+
 Tabelle SMS Teil B - sicherheitsrelevantes Personal..........................................42
 
 
@@ -322,38 +339,7 @@ Tabelle 6: tabellarische Darstellung der EFR Daten Steuerwagen .................
 
 
 Seite 5 von 47 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
 Untersuchungsbericht 
 Zugkollision, 01.08.2014, Mannheim Hbf 
 Abkürzungsverzeichnis 
@@ -448,8 +434,10 @@ Seite 7 von 47
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugkollision, 01.08.2014, Mannheim Hbf 
 1 
 Zusammenfassung 
@@ -473,7 +461,6 @@ Fahrweg  gültigen  Signalstandorte  im  zuvor  auf  der  freien  Strecke  befah
 links und im Bahnhof rechts des Gleises aufgestellt sind. 
 Das nach der Einfahrt nächste zu beachtende Zwischensignal S 183 zeigte Hp 0 „Halt“. Die 
 durchgeführten Untersuchungen ergaben, dass der Tf des DGS 40635 nicht das Signal 183 
-
 (rechts)  sondern  das  Signal  184  (links)  des  Fahrweges  beachtete.  Das  Signal  184  war  jedoch für den einfahrenden EC 216 gültig. 
 Durch  die  Vorbeifahrt  am  Halt  zeigenden  Zwischensignal  S  183  erhielt  der  Güterzug  eine 
 2000 Hz-Beeinflussung und wurde zwangsgebremst. Die Zwangsbremsung wurde durch den 
@@ -503,8 +490,10 @@ Seite 9 von 47
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugkollision, 01.08.2014, Mannheim Hbf 
 Abb. 1: 
 Aufnahmen an der Unfallstelle 
@@ -562,7 +551,6 @@ Ansicht aus dem Führerstand eines Tfz 1116 bei Annäherung an das Signal S 183 
 Das führende Triebfahrzeug wird durch die 2000 Hz-Zugbeeinflussung bei einer registrierten 
 Geschwindigkeit  von  16  km/h  zwangsgebremst.  Nach  einer  Standzeit  von  23  s  setzt  DGS 
 40635 seine Fahrt fort. Die am weiteren Fahrweg haltzeigenden Lichtsperrsignale Ls 173 in 
-
 km  0,644  und  Ls  111  in  km  0,576  passiert  der  Güterzug  ohne  Halt.  In  der  Weichenverbindung 154/155 fährt DGS 40635 dem parallel auf Hauptsignal (Hp2) S 184 einfahrenden EC 
 Seite 12 von 47 
  
@@ -571,8 +559,10 @@ Seite 12 von 47
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugkollision, 01.08.2014, Mannheim Hbf 
 216 in die Flanke. Das Triebfahrzeug des Güterzuges wird an der Weiche 155 in Fahrtrichtung nach links in die Fahrstraße des EC 216 abgelenkt und kollidiert mit dem 1. Reisezugwagen hinter dem führenden Steuerwagen des Reisezuges. Die beiden Reisezugwagen des 
 EC 216 unmittelbar hinter dem Steuerwagen entgleisen und kippen in Fahrtrichtung des Zuges nach links um. Der führende Steuerwagen des EC 216 kommt ca. 8 m vor dem Ls 106 in 
@@ -650,19 +640,14 @@ Der Triebfahrzeugführer des DGS 40635 habe sich 15 Minuten vor dem Unfall nach 
 Ablöser über Zugfunk bei ihm erkundigt. Er habe dem Tf nach der Ausfahrt aus Mannheim 
 Käfertal  mitgeteilt,  dass  sein  Ablöser  in  Mannheim  Hbf  am  Gleis  3  den  Zug  übernehmen 
 werde. Er habe die Einfahrt des Güterzuges nach der Durchfahrt der RB 38776 bis zum Zwischensignal S 183 zugelassen. Das Signal habe Halt gezeigt. Anschließend habe er die Einfahrt  für  die  S-Bahn  38244  bis  zum  Zwischensignal  S  182  eingestellt.  Im  Anschluss  habe 
-
 sein  Kollege  (Fdl  West  I)  die  Weiterfahrt  der  S-Bahn  nach  Gleis  1  zugelassen.  Zeitgleich 
-
 habe  er  die  Einfahrt  des  EC  216  von  der  Fernbahn  bis  zum  S 184 eingestellt. Der Kollege 
-
 (Fdl West I) habe auch hier die Weiterfahrt ab Zwischensignal S 184 bis zum Bahnsteig zugelassen. Die beiden Einfahrten S 182 und S 184 hatten Fahrtbegriff. Das Signal S 183 habe 
 Halt gezeigt. Beim Hinschauen auf die Stelltafel habe er festgestellt, dass der Gleisabschnitt 
 hinter dem Zwischensignal S 183 eine Rotausleuchtung aufwies. Er sei zuerst von einer Störung ausgegangen. Die Rotausleuchtung habe sich jedoch in Richtung Ls 173 und letztendlich bis zum Ls 111 fortgesetzt. Er habe sofort den Triebfahrzeugführer des DGS 40635 direkt angefunkt. Die Gesprächsverbindung sei sofort zustande gekommen. Er habe in seiner 
 Aufregung den Triebfahrzeugführer des DGS 40635 angeschrien, sofort anzuhalten. Infolge 
 der Zugkollision sei es auch zur Rotausleuchtung des Gleisabschnittes für die S-Bahn nach 
-
 Gleis  1  gekommen.  Das  Signal  S  182  sei  auf  Halt  gefallen  und  die  S-Bahn sei vor diesem 
-
 Signal zum Halten gekommen. 
 Seite 15 von 47 
  
@@ -674,14 +659,11 @@ Seite 15 von 47
 Zugkollision, 01.08.2014, Mannheim Hbf 
 Fdl Mannheim (Ost) II (auszugsweise) 
 Er habe auf der Stelltafel festgestellt, dass der Güterzug 40635 am haltzeigenden Zwischensignal  S  183  vorbeigefahren  sei.  Die  nachfolgenden  Lichtsperrsignale  im  Fahrweg  seien  in 
-
 Haltstellung gewesen. Zeitgleich habe er den Notruf des Fdl West I und das Funkgespräch 
 des Fdl Ost I mitbekommen. Unmittelbar darauf sei es zum Unfall gekommen. 
 Betriebsüberwachung Mannheim Hbf (auszugsweise) 
 Der  Fahrdienstleiter  Mannheim  Ost  (I)  habe  eine  Rotausleuchtung  des  Gleises  173  festgestellt. Der Fdl Ost I habe einen Notruf abgesetzt. Hierbei sei der Güterzug 40635 bereits auf 
-
 der  Weiche  163  gewesen.  Er  habe  die  Flankenfahrt  gesehen  und  die  Nflst  verständigt.  Er 
-
 habe mit dem Fdl Mannheim West II die Gleise für den Zugverkehr gesperrt und die Oberleitung über die ZES Karlsruhe abschalten lassen. 
 Fdl Mannheim Hbf (Ost) II (auszugsweise) 
 Er habe nach dem Absetzen des Notrufes durch den Fdl Ost I den Aufprall wahrgenommen. 
@@ -693,16 +675,13 @@ Hbf habe er den Signalbegriff - Halt erwarten – aufgenommen. Bei der Annäheru
 Zwischensignal habe er den Signalbegriff Hp2 - Langsamfahrt – mit 40 km/h erkannt. Ohne 
 PZB 500-Hz Beeinflussung habe er seine Fahrt, parallel zu einem einfahrenden Güterzug, in 
 Richtung Bahnsteig fortgesetzt. Etwa 100 m vor dem Bahnsteiganfang habe er einen Druckabfall in der Hauptluftleitung und ein unruhiges Fahrverhalten seines Zuges festgestellt. Bevor  er  einen  Notruf  absetzen  konnte,  habe  ihn  bereits  der  Fahrdienstleiter  Mannheim  Hbf 
-
 über  GSM-R  Funk  angerufen.  Durch  die  gestörte  IS-Leitung  habe  er  keine  Kommunikation 
 mit  dem  Zugbegleitpersonal  aufnehmen  können.  Im  Bereich  der  Zwischensignale  habe  er 
 den  Güterzug  bemerkt.  Eine  Erinnerung  an  die  Signalstellung  des  Zwischensignals  S  183 
 und das Fahrverhalten des Güterzuges habe er nicht. 
 Triebfahrzeugführer des DGS 40635 
 Der Triebfahrzeugführer des DGS 40635 gab an, dass er davon ausgegangen sei, dass das 
-
 links  von  ihm  stehende  Signal  (S  184)  „Grün“  zeigte  und  für  seinen  Zug  gelte.  Er  habe  in 
-
 diesem Moment nicht daran gedacht, dass er auf die rechts vom Gleis stehenden Signale zu 
 achten habe. Dies sei auf die Gegengleisfahrt von Mannheim Käfertal bis Mannheim Hbf, in 
 welchem die links neben dem Gleis stehenden Signale zu beachten seien, zurückzuführen. 
@@ -712,8 +691,10 @@ Seite 16 von 47
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugkollision, 01.08.2014, Mannheim Hbf 
 Er habe die anschließende Zwangsbremsung des Zuges am Signal als einen Irrtum betrachtet und die Zwangsbremsung aufgehoben. Er sei nicht davon ausgegangen ein Signal überfahren  zu  haben.  Die  auf  dem  weiteren  Fahrweg  vorhandenen  Lichtsperrsignale  habe  er 
 nicht wahrgenommen. Er könne sich auch nicht mehr daran erinnern, dass er unmittelbar vor 
@@ -722,9 +703,7 @@ Triebfahrzeugführerin der S-Bahn 35244 (auszugsweise)
 Sie  habe  am  01.08.2015  eine  Schichtleistung  mit  der  Fahrt  von  Bruchsal  nach  Mannheim 
 Hbf gehabt. Die Einfahrt in den Bf Mannheim sei am Esig in km 3,0 mit Hp1 und Zs 3 Kennziffer 12 signalisiert worden. Das Zwischensignal in km 1,8 habe Hp 1 mit Zs 3 Kennziffer 8 
 angezeigt.  Das  am  Mast  des  Zwischensignals  angebrachte  Vorsignal  habe  Halt  erwarten 
-
 signalisiert  (Vr0).  Das  Zwischensignal  in  km  0,9  habe  Hp  0  angezeigt.  Sie  habe  vor  dem 
-
 haltzeigenden  Signal  angehalten.  Im  Anschluss  sei  nach  der  Verständigung  mit  dem  Fdl 
 Mannheim das Umsetzen nach Gleis 9 vereinbart worden. 
 4.2 
@@ -734,13 +713,9 @@ einer Vereinbarung zwischen den Innenministerien der Länder und der DB AG hat m
 auf eine Verfahrensweise verständigt. Für die DB Netz AG gelten die entsprechenden Brand- 
 und  Katastrophenschutzgesetze  der  Länder.  Das  Notfallmanagement  der  DB  AG  ist  in  der 
 Richtlinie (Ril) 123 näher beschrieben und geregelt. 
-
 Laut  Erfassungsblatt  der  Nflst  Karlsruhe  wurde  unter  der  Störfallnummer  239  das  Ereignis 
-
 der Nflst um 20:53 Uhr gemeldet. In der nachfolgenden Tabelle sind die Meldezeiten sowie 
-
 die  Einsatzzeiten,  sofern  registriert,  externer  und  interner  Einsatzkräfte  dokumentiert.  Im 
-
 Rahmen der technischen Hilfe wurden zwei Hilfszüge und ein Kran angefordert. 
 Organisation 
 Ort / Name 
@@ -789,11 +764,8 @@ Tabelle 2: Erfassungsblatt Rettungsdienste und technische Hilfe
 4.3 
 Untersuchung der Infrastruktur 
 Bei der VzG-Strecke 4000 (TEN-Streckenkategorie V - konventionell und der Verkehrsart M) 
-
 handelt  es  sich  um  eine  elektrifizierte  (15  kV,  16,7  Hz,  AC),  zweigleisige  Hauptbahn.  Die 
-
 zulässige  Geschwindigkeit  liegt  bei  vmax.  =  160  km/h.  Die  Strecke  ist  mit  „D4“  klassifiziert, 
-
 deren maximal zulässige Radsatzlast mit 22,5 t und deren maximal zulässiges Fahrzeuggewicht je Längeneinheit mit 8,0 t/m angegeben ist. Sie ist mit punktförmiger Zugbeeinflussung 
 (PZB) und Zugfunk (GSM-R) ausgerüstet. 
 Der Oberbau wurde aufgrund der vorliegenden Messschriebe und Weichenprüfblätter überprüft.  In  den  Messschrieben  der  Gleise  183  und  184  konnten  keine  Überschreitungen  der 
@@ -803,7 +775,6 @@ Regelwerk.
 Aufgrund eines Brückenschadens an der Neckarbrücke in km 4,140 der Strecke Mannheim – 
 Frankfurt/M im Gleis Mannheim Käfertal (RMKL) – Abzweigstelle Rennplatz (RRE) wurde ab 
 dem  29.07.1989  das  Gleis  Mannheim  Käfertal  (RMKL)  –  Mannheim  Hbf  (RM)  für  den Zugverkehr  stillgelegt  und  gleichzeitig  zum  Baugleis  erklärt.  Im  Baugleis  befindet  sich  von  km 
-
 4,360 bis km 4,038 eine Gleislücke, die jeweils mit einer Sh-2 Scheibe abgesichert ist. Das 
 Betriebsgleis wird in für Züge der Fahrrichtung Mannheim-Käfertal – Mannheim Hbf im Gegengleis befahren. Die für Zugfahrten auf dem Gegengleis gültigen Signale sind links aufgestellt und zu beachten. 
 4.4 
@@ -820,8 +791,10 @@ Seite 18 von 47
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugkollision, 01.08.2014, Mannheim Hbf 
 Abb. 4: 
 Fahrstraßeneinstellung für S 38244 und EC 216 
@@ -829,9 +802,7 @@ Quelle: DB Netz AG, bearbeitet durch EUB
 Die Weiche 155b ist eine Zwieschutzweiche (eine Zwieschutzweiche bietet in unterschiedlichen  Stellungen  Flankenschutz  für  zwei  voneinander  unabhängige  Fahrstraßen)  für  die 
 Fahrstraßen in den Gleisen 172 und 174. Da beide Fahrstraßen gleichberechtigt sind, wurde 
 keine  Vorranglage  festgelegt.  Beim  Einstellen  der  ersten  Fahrstraße  für  die  S-Bahn  von 
-
 S182  nach  P001  (Gleis  1)  ist  die  Zwieschutzweiche  155b  in  die  Linkslage  (Flankenschutz) 
-
 eingelaufen.  Beim  Einstellen  der  zweiten  Fahrstraße  für  den  EC  216  von  S184  nach  P002 
 (Gleis 2) ist die Zwieschutzweiche 155b in der Linkslage regelkonform geblieben. Den Flankenschutz für die nicht schützende Lage der Zwieschutzweiche 155b hat das Signal Ls 111 
 übernommen.  Mit  Belegung  der  Weiche  159  fallen  beide  Zwischensignale  S182  und  S184 
@@ -914,8 +885,10 @@ Seite 21 von 47
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugkollision, 01.08.2014, Mannheim Hbf 
 4.5.1.2  	 Untersuchung  der  Stellwerksdokumentation  und  der  GSM-R  Sprachaufzeichnungen 
 Die Auswertung des Nachweises der Zählwerke sowie des Störungsdruckers und der Einträge  im  Arbeits-  und  Störungsbuch  ergaben  keine  Hinweise,  die  Rückschlüsse  auf  Unregelmäßigkeiten  in  der  betrieblichen  Abwicklung  im  Stellwerksbereich  Mannheim  Hbf  zulassen. 
@@ -956,7 +929,6 @@ Jahre 2014 wurden jeweils 2 örtliche Dienstüberwachungen nachweislich vorgenom
 4.5.2.1 	 Anforderungsprofil einzusetzender Betriebspersonale der EVU 
 Laut „Allgemeinen Geschäftsbedingungen für die Nutzung der Eisenbahninfrastruktur der DB 
 Netz  AG“  muss  das  eingesetzte  Personal  der  EVU,  soweit  es  sich  um  Betriebsbeamte  im 
-
 Sinne  des  §  47  der  EBO  handelt,  die  Anforderungen  der  EBO  erfüllen.  Bei  den  Triebfahrzeugführern des DGS 40635 und des EC 216 handelt es sich um Triebfahrzeugführer nach § 
 47 (1) 9. der EBO. 
 Seite 22 von 47 
@@ -965,8 +937,10 @@ Seite 22 von 47
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugkollision, 01.08.2014, Mannheim Hbf 
 4.5.2.2  Qualifikation/Tauglichkeit der Triebfahrzeugführer 
 Der  Triebfahrzeugführer  des  EC  216  ist  im  Besitz  eines  gültigen  Eisenbahnfahrzeugführerscheines.  Die  Nachweise  der  Streckenkunde,  der  Baureihenbefähigung  sowie  Unterlagen 
@@ -998,9 +972,7 @@ Zugkollision, 01.08.2014, Mannheim Hbf
 zug von 17:36 Uhr bis 18:49 Uhr. Ab Mannheim Käfertal (Abzweigstelle Rennplatz) befährt 
 DGS 40635 das Gegengleis bis zum haltzeigenden Einfahrsignal F 353 Mannheim Hbf. Der 
 Triebfahrzeugführer  hält  den  Güterzug  vor  dem  in  Fahrtrichtung  links  stehenden Signal an. 
-
 Die  Einfahrt  in  den  Bf  Mannheim  Hbf  erfolgt  bei  gleichmäßiger  Beschleunigung  bis  auf  15 
-
 km/h.  Ca.  50  m  vor  dem  für  seinen  Zug  gültigen  Zwischensignal  S  183  beträgt  die  Geschwindigkeit  des  DGS  40635  noch  4  km/h.  Im  Anschluss  erfolgt  eine  Beschleunigung  bis 
 auf  16  km/h  und  in  Folge  die  Zwangsbremsung  am  Zwischensignal  S  183.  Zur  Verdeutlichung  des  Arbeitsumfeldes  des  Triebfahrzeugführers  wurde  die  Führerstandanzeige  des 
 Triebfahrzeuges 1116 (ES64U2 mit ETCS-Ausrüstung) mit Erläuterungen in der Abb. 6 dargestellt. Die Leuchtmelder auf dem Führerstand zeigen von 18:43:34 Uhr – 18:52:13 Uhr die 
@@ -1027,14 +999,14 @@ Seite 25 von 47
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugkollision, 01.08.2014, Mannheim Hbf 
 Abb. 6: 
 Leuchtmelderdarstellung des Triebfahrzeuges 1116 (18:43:34–18:52:18) 
-
 Zu  den  in  Abbildung  6  dargestellten  Leuchtmelderdarstellungen  ist  speziell  zur  blinkenden 
-
 Anzeige  „PZB-Zwangsbremsung“  anzumerken,  dass  diese  in  dem  aktuellen  Lastenheft  für 
 Displayanzeigen  der  DB  Zugbeeinflussungssysteme  Hauptheft,  Version  2.6.1  vom 
 10.04.2012 wie in der folgenden Abbildung dargestellt angezeigt wird: 
@@ -1045,9 +1017,7 @@ Die  Auswertung  der  nachfolgenden  EFR-Daten  wurde  vor  Ort  durch  die  Eis
 Unfalluntersuchungsstelle des Bundes (EUB) vorgenommen. Ausgewertet wurden die Daten 
 des  Triebfahrzeuges  1116  des  DGS  40635  sowie  die  Daten  des  führenden  Steuerwagens 
 738080-91 300-2 des EC 216. Auf die Darstellung der Datenauswertung der S-Bahn 35244 
-
 wurde  verzichtet,  da  die  S-Bahn  bereits  am  Zwischensignal  S  182  durch  den  Haltfall  des 
-
 Signals mit einer Betriebsbremsung angehalten wurde. 
 Seite 26 von 47 
  
@@ -1056,23 +1026,32 @@ Seite 26 von 47
  
  
  
+
   
 Untersuchungsbericht 
+
 Zugkollision, 01.08.2014, Mannheim Hbf 
 Triebfahrzeug 1116 des DGS 40635 
 Ausgewertet wurden die Daten des führenden Triebfahrzeugs (Tfz) 1116 074 (Fahrzeughalter Rail Cargo Austria des ÖBB Konzerns). Das Fahrzeug ist u. a. mit einer Einrichtung der 
 
+
 punktförmigen  Zugbeeinflussung  (PZB)  ausgerüstet.  Die  Fahrdaten  wurden  auf  einer  elektronischen Datenspeichereinheit (DSE 3240) aufgezeichnet. 
+
 
 Die abgebildete Uhrzeit ist systemintern und kann von der tatsächlichen Uhrzeit abweichen. 
 
+
 Die Zeitangaben wurden in der DSE 3240 als UTC-Zeit (MESZ minus 2 h) gespeichert. Die 
+
 
 im Folgenden gemachten Zeitangaben geben immer die UTC-Zeit an. 
 
+
 Für die Auswertung der Fahrdaten wurden die Angaben zum aufgezeichneten Weg normiert, 
 
+
 d.h.  die  Wegdaten  wurden  der  Streckenkilometrierung  angepasst.  Als  Bezugspunkt  wurde 
+
 der Standort des Zsig S183 des Bahnhofs Mannheim Hbf in km 0,906 gewählt. Der Zug fuhr 
 entgegen der Streckenkilometrierung. Aus diesem Grund werden die Angaben zum Weg in 
 der  grafischen  Darstellung  mit  negativem  Vorzeichen  dargestellt.  Grundsätzlich  beziehen 
@@ -1093,49 +1072,54 @@ Seite 27 von 47
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugkollision, 01.08.2014, Mannheim Hbf 
 Abb. 8: 
 graf. Darstellung der EFR-Daten DGS 40635 
 
+
 Seite 28 von 47 
 
  
- 
- 
- 
- 
 Untersuchungsbericht 
+
 Zugkollision, 01.08.2014, Mannheim Hbf 
 Abb. 9: 
 graf. Darstellung der EFR-Daten DGS 40635 ab Zsig S 183 (Ausschnittvergrößerung) 
 
+
 Die in diesem Fahrtabschnitt entstandenen und für das Ereignis wesentlichen Aufzeichnungen werden in der folgenden Tabelle zusammengefasst.
 
+
 Seite 29 von 47 
- 
- 
- 
- 
- 
+
  
 Untersuchungsbericht 
+
 Zugkollision, 01.08.2014, Mannheim Hbf 
+
 Uhrzeit 
 (UTC) 
+
 V ist 
 in 
 km/h  
+
 Wegpunkt 
 in m 
+
 Registrierung 
 Erläuterung 
 18:40:49 
 73 
 3510 
 1000 Hz und Bedienung Wachsam 
+
 Standort Bk374/Vf 353; Halt erwarten am Esig F353 
+
 18:42:18 
 23 
 2522 
@@ -1155,7 +1139,9 @@ Ablauf 1250 m
 6 
 2219 
 Überwachung restriktiv 
+
 nach Unterfahren Umschaltgeschwindigkeit 
+
 18:43:34 
 0 
 2213 
@@ -1173,7 +1159,9 @@ Halt erwarten am Zsig S183
 15 
 2185 
 1000 Hz 
+
 Standort Esig F353, Halt erwarten am Zsig 
+
 18:49:29 
 14 
 1098 
@@ -1183,7 +1171,9 @@ Halt am Zsig S183
 5 
 956 
 Überwachung restriktiv 
+
 nach Unterfahren Umschaltgeschwindigkeit 
+
 18:50:29 
 9 
 935 
@@ -1197,10 +1187,12 @@ Wachsam
 16 
 906 
 2000 Hz und Zwangsbremsung 
+
 vor Vorbeifahrt am Zsig S183 
 (ohne Wirkung) 
 Zwangsbremsung infolge 2000 
 Hz am Zsig S183 
+
 18:50:40 
 16 
 896 
@@ -1210,7 +1202,9 @@ infolge der Zwangsbremsung
 1 
 885 
 Bedienung Wachsam und Frei 
+
 Frei zum Aufheben der Zwangsbremsung, Dauer 3 s 
+
 18:50:44 
 0 
 885 
@@ -1231,10 +1225,13 @@ Weiterfahrt
 18:52:08 
 33 
 473 
+
 Ende Überwachung 500 Hz restriktiv 
 HLL < 1,5 bar 
+
 vermutlich Schnellbremsung kurz 
 vor Kollision 
+
 18:52:18 
 0 
 436 
@@ -1251,8 +1248,10 @@ Seite 30 von 47
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugkollision, 01.08.2014, Mannheim Hbf 
 Zug  DGS  40635  befuhr  aus  Richtung  Mannheim-Käfertal  kommend  die  Strecke  4010  nach 
 Mannheim  Hbf  im  Gegengleis.  Am  Blocksignal  (Bk)  374  wurde  die  Stellung  des  Esig  F353 
@@ -1267,16 +1266,11 @@ einem Fahrweg von 1250 m ab Beeinflussung 1000 Hz am Vorsignal Vf. Nach Unterfah
 der Umschaltgeschwindigkeit wurde bei einer Fahrgeschwindigkeit des Zuges von 6 km/h die 
 mit  der  500Hz-Beeinflussung  ausgelöste  Geschwindigkeitsüberwachung  restriktiv.  Um 
 18:43:34 Uhr hielt der Zug ca. 28 m vor dem Esig F353 an. Nach einer Standzeit von knapp 
-
 drei  Minuten  wurde  die  Fahrt  um  18:46:44  Uhr  fortgesetzt.  Unmittelbar  vor  Vorbeifahrt  am 
-
 Esig  F353  wurde  die  Taste  „Wachsam“  bedient.  Durch  den  am  Signal  befindlichen  Gleismagnet kam es daraufhin bei einer Geschwindigkeit von 15 km/h um 18:46:58 Uhr zu einer 
-
 1000  Hz-Beeinflussung.  Ursächlich  hierfür  war  die  Stellung  des  am  Esig  F353  befindlichen 
-
 Vorsignals Vs, das für das folgende Zsig S183 „Halt erwarten“ signalisierte. Im weiteren Verlauf wurde die Geschwindigkeit des Zuges auf ca. 30 bis max. 35 km/h nahezu konstant gehalten.  Danach  wurde  die  Geschwindigkeit  nach  ca.  780  m  Fahrweg  durch  eine  Betriebsbremsung zunächst stärker bis auf ca. 20 km/h und im weiteren Verlauf allmählicher gesenkt. 
 Bei einer Geschwindigkeit von 14 km/h wurde dann um 18:49:29 Uhr die Beeinflussung eines  500  Hz-Gleismagnet  registriert.  Dieser  war  aktiv,  da  das  Zsig  S183  „Halt“  zeigte.  Anschließend  wurde  die  Geschwindigkeit  weiter  bis  auf  ca.  4  km/h  reduziert.  Da  hierbei  die 
-
 Umschaltgeschwindigkeit unterfahren wurde, wurde die Geschwindigkeitsüberwachung kurz 
 zuvor erneut restriktiv. Ab einer Entfernung von ca. 38 m zum Zsig S183 wurde Zug 40635 
 wieder beschleunigt. Hierbei wurde eine Geschwindigkeit von 16 km/h erreicht. Unmittelbar 
@@ -1284,9 +1278,7 @@ vor  dem  Passieren  des  Zsig  S183  wurde  um  18:50:36  Uhr  die  Taste  „W
 Nur eine Sekunde später kam es bei einer Geschwindigkeit von 16 km/h zu einer Beeinflussung  durch  einen  2000  Hz-Gleismagnet  mit  anschließender  Zwangsbremsung.  Daraufhin 
 kam der Zug um 18:50:44 Uhr, ca. 21 m hinter dem Zsig S183, zum Stillstand. Der 2000 Hz-
 Gleismagnet war wegen der Haltstellung des Signals aktiv. 
-
 Noch  unmittelbar  bevor  der  Zug  vollends  zum  Stillstand  kam,  wurde  bereits  die  Bedienung 
-
 Seite 31 von 47 
  
  
@@ -1295,15 +1287,10 @@ Seite 31 von 47
  
 Untersuchungsbericht 
 Zugkollision, 01.08.2014, Mannheim Hbf 
-
 der  Tasten  „Wachsam“  und  „Frei“  für  die  Dauer  von  3  s  aufgezeichnet.  Mit  Bedienung  der 
-
 Taste „Frei“ wurde die Zwangsbremsung aufgehoben. Gleich darauf wurde ca. 2 s nach dem 
-
 Stillstand  der  Schwellwert  für  die  Registrierung  „Hauptluftleitung  gefüllt“  überschritten  und 
-
 somit  ein  Anstieg  der  Druckluft  in  der  Hauptluftleitung  registriert.  Mit  dem  Füllen  der  HLL 
-
 wurden  die  infolge  der  Zwangsbremsung  angelegten  Bremsen  im  Zug  gelöst.  Bereits  23  s 
 nach Erreichen des Stillstands wurde der Zug um 18:51:07 Uhr wieder in Bewegung gesetzt. 
 Hierbei wurde nach einer kurzen Beschleunigungsphase eine Geschwindigkeit von max. 34 
@@ -1312,7 +1299,6 @@ konstant gehalten. In diesem Fahrtabschnitt fuhr der Zug an den halt- zeigenden 
 wurden in diesem Zusammenhang nicht aufgezeichnet. 
 Um 18:52:08 Uhr wurde dann bei einer Geschwindigkeit von 33 km/h ein starker Druckabfall 
 in der HLL unter 1,5 bar registriert. Die Aufzeichnungen deuten darauf hin, dass der Tf unmittelbar  vor  der  Kollision  eine  Schnellbremsung  eingeleitet  hat.  Der  Zug  kam  dann  innerhalb 
-
 von ca. 38 m um 18:52:18 Uhr und einem Fahrweg von ca. 470 m hinter dem Zsig S183 zum 
 Stillstand. Der registrierte Bremsweg kann jedoch, infolge des veränderten Reibwerts an der 
 Geberachse nach der Entgleisung des Tfz, fehlerbehaftet sein und vom tatsächlich zurückgelegten Weg abweichen. Die Kollision mit dem EC 216 ist in den Daten nicht aufgezeichnet. 
@@ -1320,9 +1306,7 @@ Der Verlauf der Geschwindigkeitskurve lässt jedoch den Schluss zu, dass die Ges
 dürfte. 
 Führender Steuerwagen des EC 216 
 Die  EFR-Daten  des  führenden  Steuerwagens  738080-91  300-2  (Fahrzeughalter:  DB  Fernverkehr  AG)  wurden  an  der  Unfallstelle  durch  einen  Mitarbeiter  der  EUB  ausgelesen.  Ausgewertet  wurden  die  Daten  im  Abschnitt  von  Höhe  des  Einfahrsignals  (Esig)  H374  bis  zur 
-
 Unfallstelle.  Das  Fahrzeug  ist  mit  einer  Einrichtung  der  linienförmigen  und  punktförmigen 
-
 Zugbeeinflussung  (LZB/PZB)  ausgerüstet.  Die  Fahrdaten  wurden  auf  einer  elektronischen 
 Datenspeicherkassette (DSK 10) aufgezeichnet. Die abgebildete Uhrzeit (DSK Zeit) ist systemintern und kann von der tatsächlichen Uhrzeit abweichen. Die im Folgenden gemachten 
 Zeitangaben beziehen sich immer auf die DSK-Zeit. 
@@ -1338,49 +1322,49 @@ Seite 32 von 47
  
 Untersuchungsbericht 
 Zugkollision, 01.08.2014, Mannheim Hbf 
-
 Die  aufgezeichneten  Daten  sind  plausibel  und  lassen  in  Bezug  auf  die  Registrierung  keine  
 
 
 Unregelmäßigkeiten erkennen. 
 
+
 Die PZB-Fahrzeugeinrichtung war während der Einfahrt in den Bahnhof Mannheim Hbf eingeschaltet. Am Zugdatensteller waren die Bremsart 9 (sehr schnell und sehr stark wirkend) 
+
 
 und  180  Bremshundertstel  eingegeben.  Die  zulässige  Höchstgeschwindigkeit  betrug  200  
 
+
 km/h. Für die Zuglänge waren 260 m eingestellt. 
+
 
 Die im o.g. Abschnitt ausgewerteten EFR-Daten sind in Abbildung 10 grafisch dargestellt. 
 
+
 Seite 33 von 47 
- 
- 
- 
- 
- 
+
 Untersuchungsbericht 
 Zugkollision, 01.08.2014, Mannheim Hbf 
 Abb. 10: 
 graf. Darstellung der EFR-Daten EC 216 
 
+
 Seite 34 von 47 
 
- 
- 
- 
- 
- 
 Untersuchungsbericht 
 Zugkollision, 01.08.2014, Mannheim Hbf 
+
 Uhrzeit 
 (DSK-
 Zeit) 
+
 V ist 
 in 
 km/ 
 h 
+
 Wegpunkt in 
 m 
+
 Registrierung 
 Erläuterung 
 20:49:01 
@@ -1392,12 +1376,16 @@ Erläuterung
 20:50:37 
 31 
 906 
+
 Beeinflussung 1000 HZ 
 und Bedienung Wachsam 
 Beeinflussung 1000 HZ 
 und Bedienung Wachsam 
+
 Standort Esig H374, Halt erwarten am Zsig S184 
+
 Standort Zsig S184, Halt erwarten am Zsig P002 
+
 34 
 431  Abfall Geschwindigkeit 
 vermtl. nach Kollision 
@@ -1416,12 +1404,11 @@ km/h  tendenziell  stark  fallend.  Um  20:49:01  Uhr  wurde  das  Ende  des  LZ
 Bei einer Geschwindigkeit von 79 km/h kam es um 20:49:09 Uhr am Standort des Esig H374 
 zu einer 1000 Hz Beeinflussung, die der Triebfahrzeugführer (Tf) mit dem Bedienen der Taste „Wachsam“ quittierte. Am Esig H374 wird die Stellung des Zsig S184 vorsignalisiert. Das 
 Vorsignal zeigte „Halt erwarten“. 
-
 Im  weiteren  Verlauf  wurde  die  Geschwindigkeit  des  Zuges  bis  auf  ca.  23  km/h  reduziert. 
-
 Nach einer Wegstrecke von ca. 920 m ab Beeinflussung 1000 Hz wurde der Zug geringfügig 
 bis  auf  ca.  33  km/h  beschleunigt.  Während  dieser  Beschleunigungsphase  wurde  um 
 20:50:37  Uhr  bei  einer  Geschwindigkeit  von  31  km/h  eine  erneute  1000  Hz  Beeinflussung  
+
 
 registriert, die der Tf wieder mit Bedienen der Taste „Wachsam“ quittierte. Die Zugspitze war 
 
@@ -1431,21 +1418,18 @@ zu  diesem  Zeitpunkt  am  Zsig  S184,  das  zwischenzeitlich  in  einen  Fahrtb
 
 vorbeigefahren. Am Zsig S184 wird die Stellung des folgenden Signals P002 vorsignalisiert. 
 
+
 Das Vorsignal zeigte „Halt erwarten“. 
+
 
 Bei  einer  nahezu  konstanten  Geschwindigkeit  von  max.  37  km/h  setzte,  nach  einem  Fahr-
 
+
 Seite 35 von 47 
- 
- 
- 
- 
- 
- 
- 
- 
+
  
 Untersuchungsbericht 
+
 Zugkollision, 01.08.2014, Mannheim Hbf 
 weg  von  ca.  465  m,  ab  Beeinflussung  1000  Hz  am  Zsig  S184,  eine  starke  Bremsverzögerung  ein,  die  den  Zug  nach  ca.  45  m  zum  Stillstand  brachte.  Die  drastische  Geschwindigkeitsreduzierung ist mit großer Wahrscheinlichkeit die Folge der Zugkollision. 
 Während  des  Bremsvorgangs  wurde  um  20:51:31  Uhr  bei  einer  Geschwindigkeit  von  23 
@@ -1455,9 +1439,7 @@ Tf, oder durch die mit dem Umstürzen der Wagen verbundene Trennung der Hauptluf
 entstanden sein. 
 Die  zulässige  Höchstgeschwindigkeit  des  Zuges  wurde  im  untersuchten  Abschnitt  nicht 
 überschritten. 
-
 Die  Zugkollision  wurde  in  den  EFR-Daten  nicht  registriert.  Die  Aufzeichnungscharakteristik 
-
 lässt darauf schließen, dass die Geschwindigkeit des EC 216 zum Zeitpunkt der Kollision bei 
 ca. 35 bis 37 km/h lag. 
 4.6 
@@ -1490,38 +1472,31 @@ Der  EC  216  bestand  aus  9  Reisezugwagen  sowie  dem  schiebenden  Triebfahr
 
 könnten, sind auszuschließen. 
 
+
 Abb. 12:  Wagenliste des EuroCity 216 
+
 
 Seite 37 von 47 
 
- 
- 
- 
- 
- 
 Untersuchungsbericht 
 Zugkollision, 01.08.2014, Mannheim Hbf 
 4.7 
 Sicherheitsmanagementsystem der ERS Railways B.V.  
 Im Rahmen der Unfalluntersuchung wurde das Sicherheitsmanagementsystem (SMS) Teil B 
 des Eisenbahnverkehrsunternehmens ERS Railways B.V. mit Sitz in Rotterdam/ Niederlande 
-
 betrachtet.  Am  14.06.2013  stellte  die  ERS  Railways  B.V.  einen  Antrag  auf  Erteilung  einer 
-
 Sicherheitsbescheinigung gem. § 7a Abs. 4 AEG. Die Erteilung einer nationalen Bescheinigung  gemäß  §  7a  Abs.4  AEG  durch  das  Eisenbahn-Bundesamt  erfolgte  mit  Bescheid  vom 
 20.12.2013. 
 Das  Unternehmen  ERS  Railways  B.V.  ist  ein  100%  -  Tochterunternehmen  der  Freightliner 
 Group LTD mit Sitz in London. Die ERS Railways B.V. ist seit 2001 in den Niederlanden als 
 Eisenbahnverkehrsunternehmen  für  den  internationalen  Güterverkehr  zugelassen.  Das  Unternehmen  ist  u.a.  bei  Verkehren  in  Deutschland  verantwortliches  EVU.  Das  Unternehmen 
 ERS Railways B.V. hat in Frankfurt/M eine 100% - Tochtergesellschaft ERS European Railways GmbH gegründet. Für die ERS European Railways GmbH ist ein Eisenbahnbetriebsleiter  sowie  ein  stellvertretender  Eisenbahnbetriebsleiter  bestellt.  Auf  der  Basis  vertraglicher 
-
 Regelungen übt die Eisenbahnbetriebsleitung des EVU ERS European Railways GmbH beratende  und  unterstützende  Aufgaben  für  das  in  den  Niederlanden  ansässige  EVU  ERS 
 Railways  B.V.  aus.  Als  Gesamtverantwortlicher  des  SMS  zeichnet  der  HSSE-Manager 
 (Health,  Safety,  Security,  Environment  - Manager)  der  ERS.  Die  Untersuchung  des  Sicherheitsmanagementsystems beschränkt sich auf Passagen des SMS Teil B, deren Inhalte sich 
 auf Mitarbeiter mit sicherheitsrelevanten Tätigkeiten beziehen. Formell wurde das SMS Teil 
 B nach dem Leitfaden des Eisenbahn-Bundesamtes gegliedert. 
 Die nachfolgende Tabelle zeigt die untersuchten Einzelpositionen des SMS Teil B Deutschland  im  Soll-/Ist-  Vergleich  für  den  Bereich  Personal  mit  sicherheitsrelevanten  Aufgaben. 
-
 Abweichungen der SMS Vorgaben, die am Ereignistag relevant waren, sind kursiv hinterlegt. 
 SMS InhaltsverSoll 
 Ist 
@@ -1647,8 +1622,10 @@ Seite 40 von 47
  
  
  
+
    
 Untersuchungsbericht 
+
 Zugkollision, 01.08.2014, Mannheim Hbf 
 10.  Nachweis vorhandeIm Rahmen des Prozesses 2.4 
 Vorlage einzelner Nachweise und 
@@ -1731,9 +1708,7 @@ eine  ununterbrochene  Ruhezeit  von  mindestens  11  Stunden  gewährleistet  s
 1 Stunde gekürzt werden. Am 01.08.2014 um 3:00 Uhr wurde das Triebfahrzeug abgerüstet 
 und  um  8:30  Uhr  erneut  durch  diesen  Triebfahrzeugführer  wieder  aufgerüstet.  Vor  Abfahrt 
 des Zuges DGS 40635 gegen 14:30 Uhr wurden Rangierbewegungen in geringem Umfang 
-
 durchgeführt.  Somit  ist  festzustellen,  dass  die  geforderte  Mindestruhezeit  nicht  eingehalten 
-
 wurde. 
 5 
 Auswertung und Schlussfolgerungen 
@@ -1743,7 +1718,6 @@ Abweichungen  an  den  vom  Güterzug  genutzten  Infrastrukturanlagen  wurden  
 5.2 
 Leit-und Sicherungstechnik 
 Die Zugfahrten EC 216 und der S 38244 erfolgten unter ordnungsgemäßer Signalbedienung. 
-
 Bedingt  durch  das  Einstellen  der  ersten  Zugstraße  für  S  38244  nach  Gleis  1  lief  die  Zwieschutzweiche  155b  in  die  Linkslage.  Dies  entspricht  den  Vorgaben  der  Planungsrichtlinie 
 819.0505. Das Einstellen der zweiten Zugstraße für EC 216 veränderte die Weichenlage der 
 Weiche  155b  zwangsläufig  nicht.  Folglich  konnte  die  Weiche,  bezogen  auf  die  unzulässige 
@@ -1758,7 +1732,6 @@ Seite 42 von 47
  
 Untersuchungsbericht 
 Zugkollision, 01.08.2014, Mannheim Hbf 
-
 hergestellt.  In  Verbindung  mit  der  zulässigen  Einfahrgeschwindigkeit  ist  dieser  als  ausreichend  zu  betrachten.  Fehlbedienungen  oder  Störungen  an  der  signaltechnischen  Anlage 
 sind auszuschließen. 
 5.3 
@@ -1770,11 +1743,9 @@ Betriebliches Verfahren
 5.4.1 
 Fahrdienstleiter 
 Die  beiden  Zugfahrten  EC  216  und  DGS  40635  wurden  von  den  beteiligten  Fdl  mit  Bedienung  der  entsprechenden  Hauptsignale  zugelassen  und  fanden  auf  gesicherten  Zugfahrstraßen statt. Der EC 216 sollte nach Gleis 2 einfahren und zum Fahrgastwechsel am Bahnsteig  anhalten.  Für  den  DGS  40635  war  die  Fahrt  lediglich  bis  zum  Zwischensignal  S  183 
-
 zugelassen.  Ein  kausaler  Zusammenhang  zwischen  den  betrieblichen  Handlungen  der  Fdl 
 und der Unfallursache besteht nicht. 
 Die Fahrdienstleiter haben ca. 20 s vor der Zugkollision, die drohende Gefahr durch die fortschreitende Besetztanzeige der Gleisabschnitte 173 und 111 erkannt. Daraufhin forderte der 
-
 Fdl  Ost  I  den  –Tf  über  GSM-R  Zugfunk  (Einzelruf)  zum  sofortigen  Anhalten  auf.  Eine  Abwendung  der  Gefahr  war  trotz  Einleitung  einer  Schnellbremsung  nicht  mehr  möglich.  Auch 
 wenn in solchen Situationen der Notruf und nicht der Einzelruf die vorzusehende Maßnahme 
 zur Abwendung einer Betriebsgefahr ist, war die Zugkollision zu diesem Zeitpunkt nicht mehr 
@@ -1797,8 +1768,10 @@ Seite 43 von 47
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugkollision, 01.08.2014, Mannheim Hbf 
 letztlich in der Zugkollision mündeten. 
 Der  Triebfahrzeugführer  des  DGS  40635  bestätigte  am  Standort  des  Esig  F  353  durch  die 
@@ -1807,24 +1780,19 @@ Bedienung  der  Wachsamkeitstaste  die  Signalstellung  „Halt  erwarten“  am
 4 km/h lässt darauf schließen, dass der Tf die Signalstellung Hp 0 am S 183 oder S 184 aufgenommen hatte. Die anschließende Geschwindigkeitserhöhung von 4 km/h auf 16 km/h 38 
 m vor dem Zwischensignal S 183 zeigt, dass der Tf die zwischenzeitlich in einen Fahrtbegriff 
 wechselnde Stellung des S 184 mit gleichzeitiger Vorsignalisierung Vr 0 als für seinen Fahrweg  geltende  Signale  interpretierte.  Aus  diesem  Grund  bediente  der  Tf  bei  der  Vorbeifahrt 
-
 am Zwischensignal die Wachsamkeitstaste. 
 Die PZB-Zwangsbremsung, aufgrund der unzulässigen Vorbeifahrt am haltzeigenden Hauptsignal S 183, hat der Tf um 20:50:43 Uhr (DSK-Zeit) durch Bedienen der Freitaste aufgehoben. Eine nach Ril 408.0531 und 408.0652 zwingende Kontaktaufnahme mit dem zuständigen Fahrdienstleiter wurde unterlassen. Stattdessen fuhr der Tf ohne den erforderlichen Befehl Nr. 2 weiter. 
 Zur Erklärung der betrieblichen Handlungen des Triebfahrzeugführers wurden mögliche Einflussfaktoren, wie Aus- und Fortbildung, Tauglichkeit, Streckenkenntnis, Arbeitszeitdauer und 
 auch eine Ablenkung durch die unmittelbar bevorstehende Ablösung sowie die zugehörigen 
 Dispositionsgespräche, in die Untersuchungen einbezogen. 
-
 So  kann  es  durchaus  sein,  dass  das  vorherige  Befahren  der  freien  Strecke  im  Gegengleis 
-
 dazu führte, dass der Tf die im Bf links stehenden Signale weiterhin auf seine Zugfahrt bezog. Hierbei könnte das letzte im Bereich des Einfahrsignals geführte Ablösetelefonat sowie 
 die bevorstehende Ablösung selbst zur Ablenkung des Tf beigetragen haben. 
 Die Information des Fdl an den Tf, die Ablösung solle an Gleis 3 erfolgen, führte möglicherweise bei dem Tf zu der Erwartung, ohne Halt an den Bahnsteig fahren zu dürfen. Das bei 
 der Annäherung an die Zwischensignale in Fahrtbegriff wechselnde Signal S 184 bezog der 
 Tf ohne jeden Zweifel auf seine Zugfahrt. 
 Da  die  vorhandenen  Zugbeeinflussungseinrichtungen  wie  vorgesehen  zur  sicheren  Seite 
-
 funktionierten  und  der  Zug  zunächst  zum  Halten  kam,  stellt  sich  die  weitergehende  Frage, 
-
 warum  die  technische  Sicherungseinrichtung  unterlaufen  und  die  Zwangsbremsung  nicht 
 gemäß Ril 408.0531 und Ril 408.0652 abgearbeitet wurde. 
 Im vorliegenden Fall ging der Tf offensichtlich davon aus, einen eindeutigen Fahrtbegriff aufgenommen  zu  haben  und  sah  daher  die  Ursache  der  PZB-Zwangsbremsung  nicht  in  einer 
@@ -1839,11 +1807,8 @@ Zugkollision, 01.08.2014, Mannheim Hbf
 unzulässigen Vorbeifahrt am Haupt- oder Sperrsignal, sondern vielmehr in einer fehlerhaften 
 Wachsamkeitsbedienung.  Diese  Einschätzung  könnte  durch  die  links  noch  vor  ihm  stehenden und Sh 1 zeigenden Sperrsignale bestärkt worden sein. 
 Auch wenn die Ril 408.0652 für jede PZB-Zwangsbremsung eine Kontaktaufnahme mit dem 
-
 Fdl  vorschreibt  zielt  diese  Regel  augenscheinlich  darauf  ab,  Haupt-  oder  Sperrsignale  zu 
-
 identifizieren.  Nur  für  diese  Fälle  ist  vor  der  Weiterfahrt  ein  schriftlicher  Befehl  erforderlich. 
-
 Bei  sonstigen  PZB-Zwangsbremsungen,  wie  auch  einer  fehlerhaften  Wachsamkeitsbedienung an einem in Warnstellung befindlichen alleinstehenden Vorsignal, sieht diese Regel für 
 die Weiterfahrt lediglich eine mündliche Zustimmung des Fdl vor. Dies könnte offensichtlich 
 zu  der  fehlerhaften  Einschätzung  führen,  dass  die  übrigen  PZB-Zwangsbremsungen  von 
@@ -1872,9 +1837,7 @@ Seite 45 von 47
  
 Untersuchungsbericht 
 Zugkollision, 01.08.2014, Mannheim Hbf 
-
 steht  jedoch  die  Gefahr,  dass  der  Tf  bei  Ausbleiben  dieses  Hinweises  die  Bedeutung  der 
-
 PZB-Zwangsbremsung wie oben beschrieben abwägt. 
 Da sich durch weitere gezielte Trainingsmaßnahmen, die zuvor beschriebenen Handlungen 
 auch unter Berücksichtigung der Anzahl der am Markt befindlichen Eisenbahnunternehmen 
@@ -1900,8 +1863,10 @@ Seite 46 von 47
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugkollision, 01.08.2014, Mannheim Hbf 
 6 
 Sicherheitsempfehlungen 
@@ -1928,5 +1893,6 @@ Seite 47 von 47
  
  
  
+
  
 

@@ -18,6 +18,7 @@ Streckennummer:
 Kilometer: 
 6107 
 208,92 
+
 	
  
  
@@ -33,30 +34,26 @@ Kilometer:
  
  
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
 Veröffentlicht durch: 
 Bundesstelle für Eisenbahnunfalluntersuchung 
 Heinemannstraße 6 
 53175 Bonn 
+
  
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
 Inhaltsverzeichnis	
 I. 
 II. 
-
 Änderungsverzeichnis: .......................................................................................... II 
-
 Abbildungsverzeichnis: ........................................................................................ III 
-
 III. 
-
 Tabellenverzeichnis: ............................................................................................ III 
-
 IV. 
-
 Abkürzungsverzeichnis: ........................................................................................ V 
-
 0 
 1 
 1.1 
@@ -65,73 +62,47 @@ Abkürzungsverzeichnis: ........................................................
 1.4 
 2 
 3 
-
 Vorbemerkung ...................................................................................................... 1 
-
 Zusammenfassung ................................................................................................ 2 
-
 Kurzbeschreibung des Ereignisses ........................................................................... 2 
-
 Folgen ...................................................................................................................... 2 
-
 Ursachen .................................................................................................................. 2 
-
 Sicherheitsempfehlungen ....................................................................................... 5 
-
 Die Untersuchung und ihr Kontext ........................................................................ 6 
-
 Beschreibung des Ereignisses ................................................................................ 8 
-
 3.1 
 Informationen über das Ereignis und seine Hintergründe ..................................... 8 
 3.1.1 
-
 Lage und Beschreibung des Ereignisortes ............................................................... 8 
-
 3.1.2 
-
 Beteiligte.................................................................................................................. 9 
-
 3.1.3 
-
 Äußere Bedingungen ............................................................................................. 10 
-
 3.1.4 
-
 Todesopfer, Verletzte und Sachschäden ............................................................... 10 
-
 3.2 
-
 Sachliche Beschreibung der Vorkommnisse ......................................................... 13 
-
 3.2.1 
-
 Hergangsbeschreibung .......................................................................................... 13 
-
 3.2.2 
-
 Notfallmanagement .............................................................................................. 14 
-
 4 
 4.1 
-
 Auswertung des Ereignisses ................................................................................ 16 
-
 Aufgaben und Pflichten ......................................................................................... 16 
-
 4.1.1 
 Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers ................. 16 
 I 
+
  
  
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
 4.1.2 
 Untersuchung der betrieblichen Abläufe der EVU ................................................ 27 
 4.2 
-
 Fahrzeuge und technische Einrichtungen ............................................................. 36 
-
 4.2.1 
 Untersuchung von Fahrzeugen des DGS 42593 .................................................... 37 
 4.2.2 
@@ -139,57 +110,38 @@ Untersuchung von Fahrzeugen des DGS 90977 ......................................
 4.2.3 
 Untersuchung der bautechnischen Infrastruktur ................................................. 41 
 4.2.4 
-
 Untersuchung der Leit- und Sicherungstechnik .................................................... 41 
-
 4.3 
-
 Menschliche Faktoren ........................................................................................... 47 
-
 4.3.1 
-
 Beteiligte des Infrastrukturbetreibers ................................................................... 47 
-
 4.3.2 
-
 Beteiligte der EVU ................................................................................................. 51 
-
 4.4 
-
 Feedback- und Kontrollmechanismen .................................................................. 51 
-
 4.4.1 
 Bewusstsein, Überwachung Stellwerkspersonal ................................................... 52 
 4.4.2 
-
 Monitoring der LZB-Übertragungsausfälle ............................................................ 56 
-
 4.5 
 5 
 5.1 
 5.2 
 5.3 
-
 Frühere Ereignisse ähnlicher Art ........................................................................... 58 
-
 Schlussfolgerungen ............................................................................................. 60 
-
 Zusammenfassung und Schlussfolgerung ............................................................. 60 
-
 Seit dem Ereignis getroffene Maßnahmen ........................................................... 68 
-
 Zusätzliche Bemerkungen ..................................................................................... 69 
-
 6 
-
 Sicherheitsempfehlungen ................................................................................... 71 
-
 I.  Änderungsverzeichnis:	
 Änderung 
 Redaktionelle Änderung 
 Stand 
 04.02.2025 
 II 
+
  
  
  
@@ -197,83 +149,56 @@ II
 	
 	
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
 II.  Abbildungsverzeichnis:	
-
 Abbildung 1: Ereignisort ............................................................................................................. 9 
-
 Abbildung 2: Schematischer Übersichtsplan der Zugkollision ................................................... 9 
-
 Abbildung 3: Luftbildaufnahme der Unfallstelle ...................................................................... 11 
-
 Abbildung 4: Propangasaustritt an einem Kesselwagen des DGS 42593 ................................ 12 
-
 Abbildung 5: Tfz des DGS 42593 .............................................................................................. 12 
-
 Abbildung 6: Betriebssituation bei LZB-Übertragungsausfall des DGS 42593 ......................... 19 
-
 Abbildung 7: Zu prüfender Bereich für die Erp ........................................................................ 20 
-
 Abbildung 8: Ausschnitt aus der Lupenansicht Bf Meinersen – Üst Leiferde (b Gifhorn) ....... 22 
 Abbildung 9: Lupenansicht L_HLFG (links, Monitor 9) und L_HMRS1 (rechts, Monitor 8) ..... 27 
-
 Abbildung 10: Kopfangaben des Fahrplans von DGS 42593 .................................................... 28 
-
 Abbildung 11: Ausschnitt aus dem Fahrplan von DGS 42593 .................................................. 29 
-
 Abbildung 12: Grafische Auswertung der EFR-Daten von Zug DGS 42593 .............................. 32 
-
 Abbildung 13: Gespeicherte technische Meldungen zu Tfz 91 88 7186 226-7 ....................... 38 
-
 Abbildung 14: Positionen der beschädigten Wagen des DGS 90977....................................... 40 
-
 Abbildung 15: LZB-Bereichskennzeichen (links) und Blockkennzeichen (rechts) .................... 43 
-
 Abbildung 16: Liste der Zugausfälle (Auszug) .......................................................................... 44 
-
 III.  Tabellenverzeichnis:	
-
 Tabelle 1: Zusammenfassung Einflussfaktoren .......................................................................... 4 
-
 Tabelle 2: Übersicht der äußeren Bedingungen ...................................................................... 10 
-
 Tabelle 3: Übersicht der Personenschäden ............................................................................. 11 
-
 Tabelle 4: Übersicht der geschätzten Schadenshöhe .............................................................. 13 
-
 Tabelle 5: GSM-R Gespräch zwischen Fdl-in und Tf des DGS 90977 von 03:34:56 Uhr bis 
-
 03:35:43 Uhr ............................................................................................................................. 25 
-
 III 
+
  
  
  
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
-
 Tabelle 6: Eingegebene EFR-Zugdaten DGS 42593 .................................................................. 31 
-
 Tabelle 7: Eingegebene EFR-Zugdaten DGS 90977 .................................................................. 35 
-
 Tabelle 8: Grafische Auswertung der EFR-Daten von Zug DGS 90977 ..................................... 36 
-
 Tabelle 9: Technische Daten Tfz 91 88 7186 226-7 .................................................................. 37 
-
 Tabelle 10: Übersicht der beschädigten Wagen des DGS 42593 ............................................. 38 
-
 Tabelle 11: Technische Daten Tfz 91 80 6192 060-2................................................................ 39 
-
 Tabelle 12: Technische Daten der beschädigten Wagen des DGS 90977 ................................ 40 
-
 Tabelle 13: LZB-Übertragungsausfälle Kanal 4 ......................................................................... 45 
-
 IV 
+
  
  
  
  
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
 IV.  Abkürzungsverzeichnis:	
 Abzw 
@@ -329,9 +254,11 @@ LZB-Blockkennzeichen
 PZB 
 Punktförmige Zugbeeinflussung 
 V 
+
  
  
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
 Ril 
 SMS 
@@ -354,6 +281,7 @@ zulässige Höchstgeschwindigkeit
 Sollgeschwindigkeit 
 Zielgeschwindigkeit 
 VI 
+
  
  
  
@@ -361,11 +289,10 @@ VI
  
  
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
 0  Vorbemerkung	
-
 Auf der Grundlage des Artikel 24 der Richtlinie (EU) 2016/798 hat die europäische Kommission 
-
 mit 
 der 
 Inkraftsetzung 
@@ -376,25 +303,23 @@ die
 Untersuchungsberichtsstruktur festgelegt. Diese Vorgaben sind grundsätzlich einzuhalten. Die 
 Berichtsstruktur muss der Art und Schwere des gefährlichen Ereignisses angepasst sein. 
 Mit  Verkündung  der  Verordnung  und  Inkraftsetzung  am  zwanzigsten  Tag  nach  der 
-
 Veröffentlichung  im  Amtsblatt  der  Europäischen  Union  (EU)  ist  diese  verbindlich  und 
-
 unmittelbar auf alle ab dem 17.05.2020 eingeleiteten Untersuchungen anzuwenden. 
 Seite 1 von 71 
+
  
  
  
  
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
 1  Zusammenfassung	
 Das erste Kapitel enthält eine Kurzbeschreibung des Ereignisses sowie Informationen zu den 
 Folgen, Primärursachen sowie zu im Einzelfall ausgesprochenen Sicherheitsempfehlungen. 
 1.1  Kurzbeschreibung	des	Ereignisses	
 Am  17.11.2022  gegen  03:26 Uhr  kollidierte  der  Güterzug  DGS 42593  auf  der  Fahrt  von 
-
 Antwerpen-Noord  (Belgien)  nach  Köthen  Mitte  zwischen  dem  Bahnhof  (Bf)  Meinersen  und 
-
 dem Haltepunkt (Hp) Leiferde (b Gifhorn) mit dem vor dem LZB-Block 86 stehenden Güterzug 
 DGS 90977. 
 1.2  Folgen	
@@ -402,59 +327,65 @@ Bei der Kollision wurde der Triebfahrzeugführer (Tf) des Güterzuges DGS 42593 
 Es entstanden Sachschäden in geschätzter Höhe von ca. 4.000.000 Euro. 
 1.3  Ursachen	
 Im  Rahmen  der  Untersuchung  des  Ereignisses  wurden  die  folgenden  Handlungen, 
-
 Unterlassungen, Vorkommnisse oder Umstände als sicherheitskritische Faktoren identifiziert. 
-
 Diese werden gemäß Durchführungsverordnung 2020/572 in ursächliche oder beitragende, 
 und systemische Faktoren eingeordnet. 
-
 Eine  detaillierte  Auswertung  des  Ereignisses  unter  Einordnung  als  sicherheitskritischer 
-
 Faktoren ist in den folgenden Kapiteln gegeben. 
 Zur  direkten  Zuordnung  wird  den  sicherheitskritischen  Faktoren  eine  Kurzbezeichnung 
 zugewiesen. Jedem ursächlichen oder beitragenden Faktor wird der Buchstabe F und einer 
 fortlaufenden  Nummerierung  beigestellt.  Beispiel:  [F1].  Zugehörige  systemische  Faktoren 
 erhalten bei derselben Nummer den Buchstabe S; hier können ggf. weitere Unterscheidungen 
 mittels eines Kleinbuchstaben erforderlich werden. Beispiel: [S1a] und [S1b] zu [F1]  
-
 Erkannte Aspekte, welche nach dem Ereigniseintritt die Raschheit oder Leistungsfähigkeit des 
-
 Notfallmanagements  beeinträchtigt  und  dadurch  das  Schadensausmaß  vergrößert  haben, 
-
 werden mit dem Buchstaben N fortlaufend nummeriert. Beispiel: [N2]. 
 Seite 2 von 71 
+
  
  
  
  
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
 Geschehen: 
 Datum/Uhrzeit, sowie 
+
 Handlung / 
 Unterlassen / 
 Umstand / 
 Vorkommnis 
+
 17.11.2022/03:16 Uhr 
+
 LZB-
 Übertragungsausfall 
 mit Meldung Nr. 333 
 bei Zug DGS 42593. 
+
 17.11.2022/03:21 
 Uhr 
+
 Auftrag zur 
 Weiterfahrt trotz 
 fehlender 
 Feststellungen zur 
 erteilt. 
+
 Erp 
+
 Ursächlicher 
 Faktor 
+
 Beitragender 
 Faktor 
+
 Systemischer 
 Faktor 
+
 [F1] 
+
 LZB-
 Übertragungsausfall bei Zug 
 DGS 42593 mit 
@@ -474,26 +405,34 @@ Blockabschnitts
 - 
 - 
 [S1] 
+
 Angemessenheit der 
 Informationskanäle 
 hinsichtlich 
 Leistungsniveau der 
 LZB 
+
 [S2a] 
+
 Handlungssicherheit 
 der Fahrdienstleiter 
 (Fdl) bei der Erp. 
+
 [S2b] 
+
 Vollständig 
 risikoorientiertes 
 Kompetenzmanage
 ment 
+
 Teil der Ausgangslage: 
+
 Darstellung und 
 Bezeichnung des 
 Streckenbandes auf 
 der Lupenansicht des 
 Fdl-Bedienplatzes. 
+
 Teil der Ausgangslage: 
 
 Keine Einordnung des 
@@ -505,19 +444,23 @@ Fahrdienstvorschrift
 Richtlinie (Ril) 408. 
 
 17.11.2022/03:23 Uhr 
+
 Tf des DGS 42593 
 setzt seine Fahrt 
 unter Überschreitung 
  fort. 
 der 
+
 𝑣(cid:3040)(cid:3028)(cid:3051)
 - 
 - 
 - 
+
 [F3] 
 Anzeigeergonomie 
 um Entscheidung für 
 Erp zu unterstützen 
+
 [F4] 
 
 Keine Einordnung 
@@ -527,36 +470,47 @@ besonderem Auftrag
 innerhalb der Ril 408 
 
 [F5] 
+
 Übermäßige 
 Kollisionsgeschwindi
 gkeit führte zu 
+
 - 
 - 
 - 
 Seite 3 von 71 
+
  
  
  
  
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
 Geschehen: 
 Datum/Uhrzeit, 
 sowie 
+
 Handlung / 
 Unterlassen / 
 Umstand / 
 Vorkommnis 
+
 Ursächlicher 
 Faktor 
+
 Beitragender 
 Faktor 
+
 Systemischer 
 Faktor 
+
 - 
 - 
+
 Vergrößerung des 
 Schadensausmaßes 
+
 [N6] 
 
 Verzögerter Ablauf 
@@ -567,27 +521,35 @@ Maßnahmen der
 Fremdrettung 
 
 [N7] 
+
 Fehlender 
 Nothaltauftrag 
 beitragend auf 
 Maßnahmen der 
 Fremdrettung 
+
 17.11.2022/03:30 Uhr 
+
 Verhalten bei Gefahr 
 durch Fdl-in. 
+
 17.11.2022/03:28 Uhr 
+
 Verhalten bei Gefahr 
 durch Tf des DGS 
 90977. 
+
 - 
 - 
 Tabelle 1: Zusammenfassung Einflussfaktoren 
 Seite 4 von 71 
+
  
  
  
 	
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
 1.4  Sicherheitsempfehlungen	
 Gemäß § 6 Eisenbahn-Unfalluntersuchungsverordnung (EUV) und Art. 26 Abs. 2 der Richtlinie 
@@ -596,8 +558,10 @@ Lfd.
 Nr. 
 Adressat und Sicherheitsempfehlung 
 Betrifft Unternehmen 
+
 DB Netz AG (umfirmiert 
 zu DB InfraGO AG) 
+
 04/2025 
 Sicherheitsbehörde: 
 
@@ -625,18 +589,24 @@ durch alle Beteiligte gemeinsam die Häufigkeit von
 LZB-Übertragungsausfällen zu reduzieren. 
 
 (Betreffend 
+
 EVU: Verordnung (EU) 2018/762, Anhang I, Punkt 
 4.4.1; 
+
 EIU: Verordnung (EU) 2018/762, Anhang II, Punkt 
 4.4.1; 
+
 ECM: Verordnung (EU) 2019/779, Anhang II, Punkt 
 7.1) 
+
 Seite 5 von 71 
+
  
  
  
  
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
 2  Die	Untersuchung	und	ihr	Kontext	
 Die  Bundesstelle  für  Eisenbahnunfalluntersuchung  (BEU)  ist  für  die  Untersuchung  von 
@@ -652,9 +622,7 @@ Allgemeines Eisenbahngesetz (AEG) zuständig.
 Ziel  und  Zweck  der  eingeleiteten  Untersuchungen  ist  es,  die  Ursachen  des  gefährlichen 
 Ereignisses  aufzuklären  und  hieraus  Hinweise  zur  Verbesserung  der  Sicherheit  abzuleiten. 
 Untersuchungen der BEU dienen nicht dazu, ein Verschulden festzustellen oder Fragen der 
-
 Haftung oder sonstiger zivilrechtlicher Ansprüche zu klären und werden unabhängig von jeder 
-
 gerichtlichen Untersuchung durchgeführt. 
 Sicherheitsempfehlungen  der  BEU  zur  Vermeidung  von  gefährlichen  Ereignissen  und 
 Verbesserung der Eisenbahnsicherheit werden an die nationale Sicherheitsbehörde, sofern es 
@@ -665,9 +633,7 @@ Eisenbahnunternehmen gerichtet.
 Zu schweren Unfällen leitet die BEU stets Untersuchungen gem. Artikel 20 Abs. 1 Richtlinie 
 (EU)  2016/798  ein.  Unter  einem  schweren  Unfall  sind  insbesondere  Zugkollisionen  oder 
 Zugentgleisungen mit mindestens einem Todesopfer oder mindestens fünf Schwerverletzten 
-
 oder  mit  beträchtlichem  Schaden  (≥ 2  Mio.  Euro)  sowie  sonstige  Unfälle  mit  den  gleichen 
-
 Folgen und mit offensichtlichen Auswirkungen auf die Regelung der Eisenbahnsicherheit oder 
 das Sicherheitsmanagementsystem zu verstehen. Bei allen sonstigen gefährlichen Ereignissen 
 im  Eisenbahnbetrieb  liegt  es  im  Ermessen  der  BEU  Untersuchungen  einzuleiten.  Bei  der 
@@ -682,9 +648,11 @@ des  Untersuchungsberichtes
 abgeschlossen  werden. 
 Zur 
 Seite 6 von 71 
+
  
  
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
 Ursachenermittlung  werden  ergebnisoffene  Untersuchungen 
 in  allen  beteiligten 
@@ -707,9 +675,7 @@ Beteiligten  den  jeweiligen  Meldeverpflichtungen  gem.  § 2  Abs. 3  EUV  nac
 relevanten Informationen sind durch die zur Meldung Verpflichteten auf dem neuesten Stand 
 zu halten. 
 Auf Grundlage des § 5b AEG werden i. d. R. weitergehende zur Untersuchungsdurchführung 
-
 erforderliche  Informationen,  Auskünfte  und  Nachweise  abgefordert.  Diese  notwendigen 
-
 Zuarbeiten konnten mittels Auskunftsersuchen gewonnen werden. 
 Darüber hinaus können nach § 5b Abs. 4 AEG von den an gefährlichen Ereignissen beteiligten 
 Eisenbahnen  Unterstützungsleistungen  eingefordert  werden.  Bei  dem  vorliegenden 
@@ -717,23 +683,21 @@ gefährlichen Ereignis wurden keine Unterstützungsleistungen eingefordert.
 Die infrastrukturseitige Freigabe der Unfallstelle erfolgte durch die BEU am 17.11.2022 um 
 17:20 Uhr. 
 Seite 7 von 71 
+
  
  
  
  
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
 3  Beschreibung	des	Ereignisses	
-
 Im  dritten  Kapitel  wird  das  gefährliche  Ereignis  in  zwei  vorgegebenen  Unterkapiteln  näher 
-
 beschrieben.  In  Kapitel  3.1  sind  neben  den  Grunddaten  weitere  Informationen  zum 
 Ereignisort,  den  äußeren  Bedingungen,  den  Beteiligten  und  den  Folgen  enthalten.  Die 
 Ereignisrekonstruktion  sowie 
 Informationen  zur  Auslösung  und  dem  Ablauf  der 
-
 Rettungsmaßnahmen  sind  im  Kapitel  3.2  dargestellt.  Die  Beschreibungen  beziehen  sich 
-
 grundsätzlich  auf  die 
 zum  Ereigniszeitpunkt  vorherrschenden  Bedingungen  und 
 vorgefundenen Sachverhalte. 
@@ -758,14 +722,14 @@ eingerichtet. Bei dem Stellwerk handelte es sich um ein elektronisches Stellwerk
 Bauform Siemens SIMIS C. Das ESTW wurde 1997 in Betrieb genommen. In der Ereignisnacht 
 1 Seit dem 01.01.2024 ist Infrastrukturbetreiberin die DB InfraGO AG 
 Seite 8 von 71 
+
  
  
                                                        
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
-
 war  das  ESTW  Fallersleben  planmäßig  mit  zwei  Fdl  für  die  Stellbereiche  Mitte  und  West 
-
 besetzt. 
 Die  nachfolgende  Abbildung  zeigt  einen  Lageplan  mit  den  relevanten  Betriebsstellen,  der 
 Ereignisstelle und den beteiligten Zugfahrten. 
@@ -783,12 +747,14 @@ Seitens der Eisenbahnverkehrsunternehmen (EVU) waren beteiligt:
   Tf des DGS 90977 des EVU LOCON Logistik & Consulting AG 
 2 Quelle: Geobasisdaten: © GeoBasis-DE / BKG 2022, bearbeitet durch BEU 
 Seite 9 von 71 
+
  
  
  
  
                                                        
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
 Halter: 
   Alpha Trains Luxembourg S.à r.l. für Triebfahrzeug (Tfz) 91 88 7186 226-7 
@@ -815,29 +781,29 @@ In Folge der Zugkollision entgleiste das Tfz des Güterzuges DGS 42593 mit allen
 erlitt einen technischen Totalschaden. Der Oberbau und die Oberleitung wurden über eine 
 Länge von ca. 200 m beschädigt. Die ersten vier Wagen des Güterzuges DGS 42593 entgleisten 
 mit allen vier Achsen, wobei die ersten beiden Güterwagen bei dem Ereignis im Sinne eines 
-
 technischen  Totalschadens  beschädigt  wurden.  Die  an  dritter  und  vierter  Stelle  laufenden 
-
 Güterwagen wurden stark beschädigt. Es kam zum Austritt des Ladegutes. Hierbei handelte es 
 sich um den Gefahrstoff Propangas mit der UN-Nummer 1978. 
-
 Die  an  22.  bis  25.  Stelle  laufenden  Wagen  des  Güterzuges  DGS  90977  erlitten  in  Folge  der 
-
 Kollision einen technischen Totalschaden. 
 Seite 10 von 71 
+
  
  
  
  
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
 Bei dem Ereignis traten folgend aufgeführte Personenschäden ein: 
 Anzahl Tote 
 Anzahl schwer Verletzte  Anzahl leicht Verletzte 
 Reisende 
 Mitarbeiter 
+
 Benutzer von 
 Bahnübergängen 
+
 Dritte 
 Summe 
 - 
@@ -861,16 +827,19 @@ entstandenen Schäden sowie den Gefahrgutaustritt an den Kesselwagen des DGS 425
 Abbildung 3: Luftbildaufnahme der Unfallstelle3 
 3 Quelle: Bundespolizeidirektion Hannover, bearbeitet durch BEU 
 Seite 11 von 71 
+
  
  
  
  
                                                        
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
 Abbildung 4: Propangasaustritt an einem Kesselwagen des DGS 42593 
 Abbildung 5: Tfz des DGS 42593 
 Seite 12 von 71 
+
  
  
  
@@ -878,6 +847,7 @@ Seite 12 von 71
  
  
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
 Die geschätzte Höhe der Sachschäden in Euro setzt sich wie folgt zusammen: 
 Fahrzeuge 
@@ -896,29 +866,26 @@ zur  Beschreibung  der
 Notfallmaßnahmen werden insbesondere auch die in Kapitel 4 enthaltenen Aufzeichnungen, 
 Auswertungen und Feststellungen etc. herangezogen. 
 3.2.1  Hergangsbeschreibung	
-Der  anzeigegeführte  Güterzug  DGS  90977  kam  zugfolgebedingt  vor  dem  LZB‐
-
-Blockkennzeichen  (LZB‐Bk)  86  auf  der  Strecke  6107  vor  dem  Hp  Leiferde  (b  Gifhorn)  zum 
-
+Der  anzeigegeführte  Güterzug  DGS  90977  kam  zugfolgebedingt  vor  dem  LZB-
+Blockkennzeichen  (LZB-Bk)  86  auf  der  Strecke  6107  vor  dem  Hp  Leiferde  (b  Gifhorn)  zum 
 Halten. Der ebenfalls anzeigegeführte Güterzug DGS 42593 folgte dem DGS 90977 auf dieser 
-Strecke.  Bei  Zug  DGS  42593  kam  es  bei  der  Fahrt  im  LZB‐Teilblockmodus  zu  einem  LZB‐
+Strecke.  Bei  Zug  DGS  42593  kam  es  bei  der  Fahrt  im  LZB-Teilblockmodus  zu  einem  LZB-
 Übertragungsausfall. Der Zug wurde hierdurch zum Stillstand geführt und kam in km 210,4 der 
-Strecke  zum  Halten.  Der  Tf  des  DGS  42593  meldete  sich  über  GSM‐R  Zugfunk  bei  der 
-zuständigen  Fdl‐in  Fallersleben  West  und 
-informierte  sie,  dass  er  einen  LZB‐
-Übertragungsausfall habe und zum Halten gekommen sei. Die Fdl‐in erteilte dem Tf für die 
+Strecke  zum  Halten.  Der  Tf  des  DGS  42593  meldete  sich  über  GSM-R  Zugfunk  bei  der 
+zuständigen  Fdl-in  Fallersleben  West  und 
+informierte  sie,  dass  er  einen  LZB-
+Übertragungsausfall habe und zum Halten gekommen sei. Die Fdl-in erteilte dem Tf für die 
 signalgeführte Weiterfahrt den schriftlichen Befehl 10 und 10.1. Der DGS 42593 sollte seine 
 Fahrt  demnach  die  nächsten  2.000  m  mit  einer  Höchstgeschwindigkeit  von  40  km/h 
 fortsetzen.  
-Weil die Fdl‐in die notwendige Erp nur unzureichend durchführte, stellte sie nicht fest, dass 
+Weil die Fdl-in die notwendige Erp nur unzureichend durchführte, stellte sie nicht fest, dass 
 der folgende Teilblock 86 noch von dem Güterzug DGS 90977 besetzt war. Mit Befehlserhalt 
 nahm der Tf des DGS 42593 die Fahrt signalgeführt wieder auf und überschritt die zulässige 
 Höchstgeschwindigkeit in der Spitze um 10 km/h. Etwa nach einer zurückgelegten Strecke von 
-
-1.500  m  kollidierte  er  in  km  208,92  mit  dem  letzten  Wagen  des  dort  vor  dem  LZB‐Bk 86 
-
+1.500  m  kollidierte  er  in  km  208,92  mit  dem  letzten  Wagen  des  dort  vor  dem  LZB-Bk 86 
 stehenden DGS 90977. 
 Seite 13 von 71 
+
  
  
  
@@ -928,6 +895,7 @@ Seite 13 von 71
  
  
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
 3.2.2  Notfallmanagement	
 Nach  § 4  Abs. 3  AEG  haben  die  Eisenbahnen  die  Verpflichtung,  an  Maßnahmen  des 
@@ -936,62 +904,42 @@ Länder und die DB AG haben sich auf folgende Verfahrensweise verständigt. Für
 AG  gelten  die  entsprechenden  Brand-  und  Katastrophenschutzgesetze  der  Länder.  Das 
 Notfallmanagement der DB AG ist in der Konzernrichtlinie 123, das der DB Netz AG in der Ril 
 423 näher beschrieben und geregelt. 
-
 Die Zugkollision ereignete sich gegen 03:26 Uhr. Unmittelbar folgend auf die Kollision wurde 
-
 der  Kurzschluss  der  Oberleitung  registriert.  Um  03:27:35  Uhr  wurde  durch  den  Tf  des 
 DGS 90977 an die Fdl-in Fallersleben West per GSM-R eine mögliche Zugkollision gemeldet. 
-
 Der Tf wählte im weiteren Verlauf die Nummer des Polizeinotrufes „110“, um Rettungskräfte 
-
 zu alarmieren. 
-
 Um 03:30:07 Uhr wurde durch den Fdl Fallersleben Mitte der Nothaltauftrag für die betroffene 
-
 Strecke in beiden Fahrtrichtungen abgesetzt [N6]. Die Information des Fdl Fallersleben Mitte 
-
 an die Notfallleitstelle Hannover der DB Netz AG erfolgte um 03:36 Uhr. Um 03:38 Uhr wurde 
-
 die Rettungsleitstelle durch die Notfallleitstelle Hannover informiert. Die Sperrung der Strecke 
-
 erfolgte gegen 03:38 Uhr. Der Notfallmanager der DB Netz AG wurde um 03:43 Uhr telefonisch 
 alarmiert. 
-
 Der  Einsatz  der  Rettungskräfte  wurde  von  der  Feuerwehr-  und  Rettungsleitstelle  des 
-
 Landkreises  Gifhorn  angestoßen.  Gegen  03:55  Uhr  trafen  die  ersten  Einsatzkräfte  der 
-
 Freiwilligen  Feuerwehr  Meinersen  vor  Ort  ein.  Aufgrund  des  hohen  Schadensumfanges 
 wurden weitere Ortsfeuerwehren, u. a. Leiferde (b Gifhorn) und Hillerse, hinzugerufen. Der 
-
 Streckenabschnitt zwischen dem Bf Meinersen und dem Hp Leiferde (b Gifhorn), in dem sich 
-
 die  Zugkollision  ereignete, 
 führte  durch  bewaldetes  Gebiet.  Die  Trassierung  der 
-
 Eisenbahnstrecke verlief gerade. Künstliche Lichtquellen existierten nicht. Die Zufahrt an den 
-
 Ereignisort  war  für  die  Einsatzkräfte  ausschließlich  über  wassergebundene  Waldwege 
 möglich. 
-
 Die  Tür  des  Tfz  des  Güterzuges  DGS  42593  war  beim  Eintreffen  der  Einsatzkräfte  bereits 
-
 geöffnet.  Der  Tf  befand  sich  noch  in  seinem  Führerstand  und  konnte  sein  Fahrzeug  mit 
-
 Unterstützung der Rettungskräfte alleine verlassen und in einem Rettungswagen medizinisch 
-
 erstversorgt werden. 
 Seite 14 von 71 
+
  
  
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
 Durch die Kollision trat aus einem havarierten Kesselwagen des DGS 42593 Gefahrgut in Form 
 von  Propangas,  welches  durch  die  Gefahrnummer  23  und  die  UN-Nummer  1978 
 gekennzeichnet ist, aus. Die Werksfeuerwehr des Chemiepark Marl wurde über das Transport-
-
 Unfall-Informations-  und  Hilfeleistungssystem  (TUIS)  am  17.11.2022  um  10:10  Uhr  über 
-
 diesen Gefahrgutaustritt alarmiert. Eine Abdichtung des Lecks war vor Ort nicht möglich. So 
 wurden  zur  Sicherung  der  Unfallstelle  Brandschutzmaßnahmen  eingeleitet  und  die 
 Gaskonzentration gemessen. Das Propangas aus dem havarierten Kesselwagen wurde vor Ort 
@@ -1004,46 +952,35 @@ im  Rahmen  der  Unfalluntersuchung  und  Ereignisrekonstruktion
 Unregelmäßigkeiten und Verzögerungen in Bezug auf das Einleiten von Rettungsmaßnahmen 
 fest  und  wertete  diese  als  einen  beitragenden  Faktor  in  Bezug  auf  das  Einleiten  von 
 Maßnahmen der Fremdrettung durch die Fdl-in [N6]. Die Bekanntgabe des Ereignisses durch 
-
 den Fdl Fallersleben Mitte an die Notfallleitstelle der DB Netz AG in Hannover geschah ca. zehn 
-
 Minuten nach der Zugkollision, sodass die Rettungskräfte ca. zwölf Minuten nach der Kollision 
-
 alarmiert wurden. Einen Nothaltauftrag setzte der Tf des DGS 90977 nach der Kollision nicht 
-
 ab [N7]. Das Absetzen eines Nothaltauftrages für die Strecke, ebenfalls unterstützend vom Fdl 
-
 Fallersleben Mitte initiiert, wurde ca. vier Minuten nach der Zugkollision per GSM-R registriert. 
-
 Die zuständige Fdl-in Fallersleben West führte die nach Ril 42380 vorgesehenen Handlungen 
 des Notfallmanagements für Stellwerkspersonal der DB Netz AG nicht selbstständig durch. Die 
-
 weiteren Schritte im Notfallmanagement gemäß Ril 42380 wurden durch die Unterstützung 
-
 des Fdl Fallersleben Mitte eingeleitet. Weitere Untersuchungsergebnisse zum betrieblichen 
 Ablauf im Notfallmanagement enthalten die folgenden Kapitel 4.1.1 und 4.1.2. 
 Seite 15 von 71 
+
  
  
  
  
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
 4  Auswertung	des	Ereignisses	
 In diesem Kapitel werden insbesondere die im Rahmen der Unfalluntersuchung ermittelten 
-
 maßgeblichen sicherheitskritischen Faktoren dargestellt. Hierbei wird im jeweiligen Einzelfall 
-
 auf die Aufgaben und Pflichten einzelner Personen und Stellen, auf beteiligte Fahrzeuge und 
 technische  Einrichtungen  genauso  eingegangen  wie  auf  konkrete  menschliche  Handlungen 
 sowie auf Feedback- und Kontrollmechanismen. Sofern Informationen zu früheren Ereignissen 
 vorliegen, werden diese in einem weiteren Unterkapitel dargestellt. 
 4.1  Aufgaben	und	Pflichten	
-
 In diesem Kapitel werden unbeschadet des Artikels 20 Abs. 4 der Richtlinie (EU) 2016/798 die 
-
 Aufgaben  und  Pflichten  von  Personen  und  Stellen  behandelt,  die  an  dem  Ereignis  beteiligt 
-
 waren. Untersuchungen zu Schuld- oder Haftungsfragen sind explizit ausgeschlossen und nicht 
 Untersuchungsgegenstand. 
 4.1.1  Untersuchung	der	betrieblichen	Abläufe	des	Infrastrukturbetreibers	
@@ -1051,9 +988,7 @@ Das  gemäß  §  2  Abs.  1  AEG  verantwortliche  EIU  DB  Netz  AG  verfügte
 Sicherheitsgenehmigung  gemäß  §  7c  AEG,  die  bis  zum  19.10.2021  gültig  war.  Das 
 Unternehmen beantragte am 12.04.2021 die Verlängerung der Sicherheitsgenehmigung, die 
 zwischenzeitlich bis zum 19.10.2026 erteilt wurde. 
-
 Gemäß  §  4  Abs.  3  AEG  sind  Eisenbahnen  verpflichtet,  ihren  Betrieb  sicher  zu  führen,  die 
-
 Eisenbahninfrastruktur  sicher  zu  bauen  und  in  betriebssicherem  Zustand  zu  halten.  Zudem 
 muss gemäß § 4 Abs. 4 AEG i. V. m. der Richtlinie (EU) 2016/798 ein SMS eingerichtet sein. 
 Inhaltliche Maßstäbe für ein SMS waren die Aufstellung und Einhaltung der in der Verordnung 
@@ -1067,16 +1002,16 @@ Einer der im Kontext des Ereignisses wesentlichen Grundsätze gemäß TSI OPE An
 B.1 Nr. 1 lautete: „Das Verfahren zur Zulassung einer Zugfahrt muss einen sicheren Abstand 
 zwischen den Zügen gewährleisten“. 
 Seite 16 von 71 
+
  
  
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
 Zur sicheren Durchführung der Fahrten auf der Infrastruktur der DB Netz AG hatte die Fdl-in 
 als  Bedienerin  des  Stellwerks  Fallersleben  hierzu  untersetzende  und  ergänzende 
 unternehmensinterne  Arbeitsvorgaben  zu  beachten  und  umzusetzen,  unter  anderem  die 
-
 Ril 408, das Betriebsstellenbuch und im Auftragsbuch ausliegende Aufträge sowie betriebliche 
-
 Mitteilungen (BM). 
 Im ESTW Fallersleben verrichteten der Fdl Mitte und der Fdl West gemeinsam die betriebliche 
 Tätigkeit. Dem Fdl Fallersleben West waren folgende Tätigkeiten zugeordnet: 
@@ -1095,15 +1030,15 @@ Die Rekonstruktion der betrieblichen Handlungen der in der Ereignisnacht zustän
 Fallersleben  West  basierte  auf  der  Auswertung  der  Stellwerksdokumentation,  der 
 betrieblichen Unterlagen und den aufgezeichneten GSM-R-Gesprächen. 
 Seite 17 von 71 
+
  
  
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
 Betriebssituation 
 Aufgrund von Baumaßnahmen auf der Strecke 1900 zwischen Braunschweig und Magdeburg 
-
 war  die  Strecke  6107  in  der  Ereignisnacht  durch  Umleiterverkehre  stark  frequentiert. 
-
 Zeitgleich  fanden  Arbeiten  auf  der  Strecke  6399  und  1956  zwischen  Fallersleben  und 
 Abzweigstelle  (Abzw)  Weddel  statt.  Zum  Ereigniszeitraum  kam  es  aufgrund  der  hohen 
 Streckenbelastung zu einem Rückstau von Zügen in Richtung Wolfsburg. 
@@ -1112,52 +1047,38 @@ Streckenabschnittes  Bf Meinersen  –  Hp  Leiferde
 (b  Gifhorn)  anzeigegeführt 
 im 
 Teilblockmodus  der  LZB.  Ein  weiterer  Güterzug  mit  der  Zugnummer  45387  befand  sich  im 
-
 Teilblock 86 vor dem Blocksignal (Bksig) 502 der Üst Leiferde (b Gifhorn). Zugfolgebedingt kam 
-
 der Güterzug DGS 90977 um 03:01:14 Uhr vor dem LZB-Bk 86 in ca. km 208,4 der Strecke zum 
-
 Halten.  In  der  Stellwerksdokumentation  war  die  Ausfahrt  des  auf  diesen  Zug  folgenden 
-
 Güterzuges DGS 42593 aus dem Bf Meinersen um 03:15 Uhr dokumentiert.  
-
 Im  Teilblockabschnitt  94  der  Strecke  kam  es  bei  dem  Güterzug  DGS 42593  zu  einem  LZB-
-
 Übertragungsausfall.  Nach  einem  LZB-Übertragungsausfall  im  Teilblockmodus  muss  die 
 Zugfahrt  bei  der  Weiterfahrt  zunächst  bis  zur  Wiederaufnahme  in  die  LZB  signalgeführt 
 fortgesetzt werden. Der LZB-Übertragungsausfall hat zur Folge, dass nur bei Beachtung einer 
-
 in  der  Ril  408  geregelten  Abfolge  von  Handlungen  eines  Fdl,  der  weitere,  sichere  Betrieb 
-
 gewährleistet  wird.  Durch  die  nach  dem  LZB-Übertragungsausfall  im  Teilblockmodus  nach 
 Regelwerk  erforderliche  Mitwirkung  eines  Fdl  an  der  Weiterfahrt  eines  Zuges  wird  die 
 Sicherheitsverantwortung  der  Technik  über  die  Regelung  des  Raumabstandes  zunächst  auf 
-
 den  Fdl  verlagert,  bis  dies  die  Hauptsignale  übernehmen  können.  Eine  Weiterfahrt  als  nun 
-
 signalgeführte Zugfahrt ist deswegen an die Durchführung einer Erp durch den zuständigen 
 Fdl geknüpft, bevor die Erteilung eines Befehl 10 und 10.1 zur Weiterfahrt erfolgen darf. 
-
 Der  eingetretene  Übertragungsausfall  bei  Zug  DGS 42593  stellte  in  der  Ereigniskette  ein 
-
 wesentliches  Vorkommnis  dar,  da  diese  Betriebssituation  erst  das  Folgegeschehen 
 ermöglichte.  Die  BEU  wertet  den  LZB-Übertragungsausfall  bei  Zug  DGS  42593  daher  als 
 ursächlichen  Faktor 
 [F1].  Zu  den  betrieblich-technischen  Zusammenhängen  siehe 
 Kapitel 4.2.4. 
 Bedingt  durch  die  Fahrt  im  Teilblockmodus  der  LZB  wurde  der  Zug  DGS 42593  durch  das 
-
 Zugsicherungssystem  der  LZB  infolge  des  Übertragungsausfalls  als  Sicherheitsreaktion  zum 
-
 Seite 18 von 71 
+
  
  
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
 Stillstand geführt und kam in ca. km 210,40 der Strecke zum Halten. Der Güterzug DGS 42593 
-
 befand sich nach dem Stillstand im Teilblockabschnitt 92, ca. 100 m vor der LZB-Bk 90, siehe 
-
 nachfolgende Abbildung. 
 Abbildung 6: Betriebssituation bei LZB-Übertragungsausfall des DGS 42593 
 Der 
@@ -1170,40 +1091,31 @@ LZB-
 Durchführung der Erp 
 Um  die  Fahrt  des  DGS  42593  im  Raumabstand  als  von  nun  an  signalgeführter  Zug 
 sicherzustellen,  sollten  gemäß  Regelwerk  durch  die  Fdl-in  zwingend  die  im  folgenden 
-
 beschriebenen Prüftätigkeiten zur Feststellung des Freiseins des vor dem Güterzug DGS 42593 
-
 liegenden  Blockabschnitts  bis  zum  Bksig  502  der  Üst Leiferde  (b  Gifhorn)  durchgeführt 
-
 werden. 
-
 Die  Fdl-in  hatte  hierzu  im  Anschluss  an  die  Standortmeldung  eines  Tf  die  Anwendung  der 
-
 Regelungen  aus  der  Ril  408.0652  Abschnitt  1  Abs.  2  bis  4  zu  prüfen.  Im  vorliegenden  Fall 
-
 handelte es sich bei Zug DGS 42593 um einen Zug, der in einem Zugfolgeabschnitt zum Halten 
 kam, dessen Ende durch ein Blockkennzeichen der freien Strecke, hier durch das LZB-Bk 90, 
 gekennzeichnet war. Demzufolge war nach Ril 408.0652 Abschnitt 1 Abs. 4 zunächst eine Erp 
-
 durchzuführen und im Zugmeldebuch zu dokumentieren. Der zu prüfende Streckenabschnitt 
-
 umfasste  in  diesem  Fall  den  Bereich  von  der  Spitze  des  DGS  42593  bis  zum  nächsten 
 Hauptsignal, dem Bksig 502. Dies ist in der nachfolgenden Abbildung dargestellt. 
 Seite 19 von 71 
+
  
  
  
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
 Abbildung 7: Zu prüfender Bereich für die Erp4 
-
 Im Anschluss an eine erfolgreiche Erp wird nach Ril 408.0652 Abschnitt 1 Abs. 5 der Befehl 10 
-
 und 10.1 durch den Fdl erteilt, um einem Zug so die signalgeführte Weiterfahrt zu gestatten. 
-
 Die Feststellungen, welche ein Fdl bei einer solchen Erp zu treffen hat, sind in der Ril 408.0241 
 Abschnitt 4 wie folgt funktional festgelegt: 
-„a) Der Zug ist an der Signal‐Zugschlussstelle des Hauptsignals oder des Signals Ne 14 auf 
+„a) Der Zug ist an der Signal-Zugschlussstelle des Hauptsignals oder des Signals Ne 14 auf 
 der Räumungsprüfstelle vorbeigefahren. 
 b) Der Zug hat mindestens ein Zeichen des Schlusssignals. Im Betriebsstellenbuch können 
 zusätzliche Regeln gegeben sein. 
@@ -1216,17 +1128,17 @@ Diese funktionalen Regelungen müssen im individuellen Störungsfall zunächst p
 relevanten  Örtlichkeiten  transferiert  werden,  bevor  das  Vorliegen  der  einzelnen  Kriterien 
 festgestellt und zur insgesamt erfolgreichen Erp zusammengefasst werden können. 
 Die Räumungsprüfstelle zur Feststellung des Freiseins des durch den DGS 42593 befahrenen 
-
 Zugfolgeabschnitts  war  das  Bksig  502  der  Überleitstelle  (Üst)  Leiferde  (b  Gifhorn).  Der  zu 
-
 4 DB Netz AG, bearbeitet durch BEU 
 5 Ril 408.0241 Abschnitt 4 
 Seite 20 von 71 
+
  
  
  
                                                        
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
 prüfende  Zugfolgeabschnitt  für  die  Erp  umfasste  alle  dem  DGS  42593  bis  dorthin 
 vorausliegenden LZB-Teilblockabschnitte 92 bis 86. 
@@ -1236,9 +1148,7 @@ sicheren  Anzeigen  ihres  Bedienplatzsystems  auswerten.  Hierzu  mussten  die 
 werden, um die vor dem Güterzug DGS 42593 liegenden Zugfolgeabschnitte bis zum Bksig 502 
 der  Üst  Leiferde  (b  Gifhorn)  anhand  der  angezeigten  Ausleuchtungen 
 in  den  LZB-
-
 Teilblockabschnitten  92  bis  86  auf  Freisein  zu  prüfen.  Die  von  der  Fdl-in  tatsächlich 
-
 durchgeführten Aufschaltungen der Lupen konnten durch das EIU auf Anfrage der BEU nicht 
 mehr rekonstruiert werden. 
 Dieser  Arbeitsablauf  umfasste 
@@ -1250,56 +1160,41 @@ Bedienung am Bedienplatz des Fdl zu erzeugen. Die erfolgreiche Durchführung ein
 BEFA-Bedienung  wird  anschließend 
 in  der  Kommunikationsanzeige  der 
 integrierten 
-
 Bedienerführung  mit  Angabe  einer  Uhrzeit  in  der  elektronischen  Stellwerksdokumentation 
-
 registriert.  
 In dem durch die Fdl-in zu prüfenden Blockabschnitt ab der Spitze des DGS 42593  bis zum 
-
 Bksig  502  der  Üst  Leiferde  (b  Gifhorn)  befanden  sich  um  03:18:32  Uhr,  zum  Zeitpunkt  der 
-
 Meldung des LZB-Übertragungsausfalls, folgende drei Züge: 
   der Zug 45387 vor dem Bksig 502 im Teilblockabschnitt 86, danach 
   der Zug DGS 90977 vor dem LZB-Bk 86 im Teilblockabschnitt 88, danach  
   der Zug DGS 42593 im km 210,40 im Teilblockabschnitt 92 (vgl. Abb. 6).  
 Durch die Züge DGS 45387 und DGS 90977 war der durch die Fdl-in zu prüfende 
-
 Blockabschnitt bis zum Bksig 502 der Üst Leiferde (b Gifhorn) folglich noch belegt. Diese 
-
 Belegung wurde der Fdl-in durch Rotausleuchtungen beider Teilblöcke innerhalb der 
 Lupenansichten in den rot ausgeleuchteten Teilblockabschnitten 86 und 88 auf dem Monitor 
 ihres Bedienplatzsystems angezeigt, siehe nachfolgende Abbildung. 
 Seite 21 von 71 
+
  
  
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
-
 Abbildung 8: Ausschnitt aus der Lupenansicht Bf Meinersen – Üst Leiferde (b Gifhorn)6 
-
 Die nach Ril 408 zwingend notwendigen Feststellungen zur erfolgreichen Durchführung der 
 Erp im durch das Bksig 502 begrenztem Blockabschnitt konnten somit zum Zeitpunkt des GSM-
 R-Gesprächs mit dem Tf des DGS 42593 um 03:18 Uhr wegen der bestehenden Belegungen 
 der  Teilblöcke  86  und  88  noch  nicht  getroffen  werden.  Das  ersatzweise  Auswerten  der 
-
 sicheren  Anzeige  mittels  BEFA-Bedienung  war  zu  diesem  Zeitpunkt  ebenfalls  noch  nicht 
-
 möglich,  da  der  Fahrstraßenfestlegeüberwachungsmelder  am  LZB-Bk  86  durch  die 
-
 vorhandene  Gleisbelegung  in  diesem  Abschnitt  noch  nicht  angezeigt  wurde.  Die  in  der  FV 
-
 geforderten  Voraussetzungen  zur  Ausfertigung  des  Befehls  10  und  10.1  an  den  Tf  des 
-
 Güterzuges DGS 42593 waren folglich nicht gegeben.  
 Vor  der  Befehlsübermittlung  an  den  DGS  42593  war  keine  BEFA-Bedienung  durch  das 
 Dokumentationssystem  des  ESTW  registriert  worden.  Im  Zugmeldebuch  als  relevante 
-
 betriebliche  Unterlage  zur  Nachweisführung  einer  Erp  erfolgte  kein  schriftlicher  Nachweis 
-
 über  deren  Durchführung  vor  der  Zulassung  der  Zugfahrt  DGS  42593.  Unter  Betrachtung 
-
 dieser  Untersuchungsergebnisse  resultiert  die  Feststellung,  dass  die  nicht  regelkonform 
-
 durchgeführte Erp durch die Fdl-in als ein ursächlicher Faktor dieses Ereignisses zu werten ist 
 [F2]. 
 Das Ausstellen des Befehls an den Tf des DGS 42593 wäre bei regelkonformer Handlungsweise 
@@ -1308,11 +1203,13 @@ Räumungsprüfstelle  und  anschließend  erfolgreich  durchgeführter  Erp  zu 
 Zeitpunkt zulässig gewesen. 
 6 DB Netz AG, bearbeitet durch BEU 
 Seite 22 von 71 
+
  
  
  
                                                        
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
 Befehlsübermittlung an den Tf der Zugfahrt DGS 42593 
 Bei einem LZB-Übertragungsausfall muss ein Tf dem Fdl nach den Vorgaben der Ril 408.0652 
@@ -1324,10 +1221,7 @@ Das GSM-R-Gespräch zwischen der Fdl-in Fallersleben West und dem Tf des DGS 425
 welchem der Tf den Standort seines Zuges nannte, wurde von 03:18:15 Uhr bis 03:23:23 Uhr 
 aufgezeichnet. 
 Der Befehl zur signalgeführten Weiterfahrt des Zuges mittels der Befehlsziffern 10 und 10.1 
-wurde in diesem GSM-R-Gespräch um 03:21 Uhr als gültig gekennzeichnet. Der durch die Fdl-
-
-in  ausgestellte  und  auf  dem  Stellwerk  ausliegende  Befehl  stimmte  mit  dem  Wortlaut  des 
-
+wurde in diesem GSM-R-Gespräch um 03:21 Uhr als gültig gekennzeichnet. Der durch die Fdlin  ausgestellte  und  auf  dem  Stellwerk  ausliegende  Befehl  stimmte  mit  dem  Wortlaut  des 
 aufgezeichneten  GSM-R-Gesprächs 
 überein.  Übermittlungsfehler 
 durch 
@@ -1337,9 +1231,7 @@ Missverständnisse in der Kommunikation konnten durch die BEU ausgeschlossen wer
 die Fdl-in war dieser Befehl der erste Befehl, den sie bis zu diesem Zeitpunkt während ihrer 
 Arbeitsschicht ausfertigte.  
 Einordnung einer Zugfahrt mit Befehl 10 im Kontext der Ril 408 
-
 Durch  den  Befehl  Nr.  10  wechselte  der  Güterzug  DGS  42593  hinsichtlich  des  Prinzips  zur 
-
 Regelung  des  Fahrens 
 im  Raumabstands  von  einem  anzeigegeführten  zu  einem 
 signalgeführten 
@@ -1351,74 +1243,59 @@ in
 der 
 Tabelle 
 der 
-
 Ril 408.0455 Abschnitt 1 Abs. 1  war  die  Erteilung  des  Befehls  10  nicht  als  eine  Zugfahrt  mit 
-
 besonderem  Auftrag  definiert  [F4].  Zugfahrten,  die  mittels  Befehl  Nr.  10  und  10.1  vom  Fdl 
-
 zugelassen  werden,  wurden  durch  das  zum  Ereigniszeitpunkt  in  der  aktuellsten  Fassung 
-
 gültige betriebliche Regelwerk somit nicht als Zugfahrten mit besonderem Auftrag gewertet. 
-
 Aus  den  Begriffsbestimmungen  der  Ril 408.0101A01,  Seite  14,  wurden  Zugfahrten  mit 
 besonderem Auftrag wie folgt definiert: 
 „Eine Zugfahrt mit besonderem Auftrag ist eine Zugfahrt, die der Fdl nicht durch 
-Fahrtstellung eines Hauptsignals oder einem daraus abgeleitetem Auftrag LZB‐Fahrt bzw. 
-einer ETCS‐Fahrterlaubnis in der ETCS‐Betriebsart FS zulassen kann oder darf. An einer 
+Fahrtstellung eines Hauptsignals oder einem daraus abgeleitetem Auftrag LZB-Fahrt bzw. 
+einer ETCS-Fahrterlaubnis in der ETCS-Betriebsart FS zulassen kann oder darf. An einer 
 Seite 23 von 71 
+
  
  
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
 virtuellen Blockstelle entspricht der Fahrtstellung des Hauptsignals der entsprechende 
 Fahrtmelder.“7 
 Durch  diese  fehlende  Zuordnung  des  Befehls  10  und  10.1  zum  „Fahren  mit  besonderem 
-
 Auftrag“ in der Tabelle des Regelwerks der DB Netz AG in der Ril 408.0455 Abschnitt 1 Abs. 1 
-
 fand für die Befehlsübermittlung der Fdl-in an den Tf des DGS 42593 die im Auftragsbuch auf 
-
 dem  Stellwerk  Fallersleben  ausliegende  BM  2018-037/B-BW  (A02)  keine  Anwendung.  Die 
 genannte BM mit dem Titel „Zusätzliche Maßnahmen bei der ersten Zugfahrt im Übergang 
-
 Regelbetrieb zu Zugfahrten mit besonderem Auftrag“ mit Gültigkeit ab dem 20.07.2018 sieht 
-
 vor,  dass  ein  Fdl,  der  eine  Fahrt  aufgrund  Unregelmäßigkeiten  an  den  Signalanlagen  nur 
-
 mittels  besonderem  Auftrag  zulassen  kann,  dem  Tf  des  ersten  Zuges  nach  Eintritt  der 
-
 Unregelmäßigkeit zusätzlich zu den Regeln der Ril 408 mit Befehl 12 Grund Nr. 1 beauftragen 
-
 muss,  im  betroffenen  Abschnitt  auf  Sicht  zu  fahren.  Dieser  Grundsatz  soll  dazu  dienen,  in 
-
 Szenarien nicht wirkender, hochzuverlässiger Signalanlagen ein eventuelles Schadensausmaß 
 aus den Folgen menschlicher Fehlhandlungen zu reduzieren. Ein solches Vorgehen wurde dem 
 EIU DB Netz AG sowohl von der BEU als auch von der Sicherheitsbehörde, dem Eisenbahn-
 Bundesamt (EBA), nach einer Serie schwerer Unfälle im Januar 2018 dringend empfohlen. 
 Die  Erteilung  des  Befehls  10  und  10.1  an  den  Tf  des  DGS  42593  fiel  nicht  unter  den 
-
 Regelungscharakter  der  o.  g.  BM.  Resultierend  wurde  dieser  Umstand  als  ein  beitragender 
-
 Faktor  mit  Einfluss  auf  die  betriebliche  Abwicklung  der  Situation  eines  LZB-
 Übertragungsausfalls gewertet [F4]. 
-Handlungen der Fdl‐in im Notfallmanagement 
+Handlungen der Fdl-in im Notfallmanagement 
 Um 03:27:35 Uhr wurde die Fdl-in durch den aufgeregt wirkenden Tf des DGS 90977 über eine 
 seiner Wahrnehmung nach geschehene Auffahrt eines Zuges auf seinen stehenden Güterzug 
 informiert. Um 03:28:35 Uhr erfolgte der erste Versuch der Fdl-in, den Tf des aufgefahrenen 
 DGS 42539 per GSM-R zu erreichen. Um 03:30:07 Uhr wurde vom Fdl Fallersleben Mitte per 
-
 GSM-R  ein  Nothaltauftrag  für  den  Bf  Fallersleben  sowie  die  Strecke  Immensen  Arpke  - 
-
 Fallersleben  ausgesprochen.  Dieser  Fdl  war  für  den  Ereignisort  nicht  zuständig.  Es  ist  aber 
-
 davon auszugehen, dass er von seinem zur Fdl-in Fallersleben West benachbarten Arbeitsplatz 
 auf das Geschehen aufmerksam wurde und eingriff. 
 7 Ril 408.0101A01, Seite 14, Begriffsbestimmungen 
 Seite 24 von 71 
+
  
  
                                                        
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
 Danach erfolgten zwischen 03:32:15 Uhr und 03:34:56 Uhr fünf weitere erfolglose Versuche 
 der Fdl-in Fallersleben West, den Tf des DGS 42593 per GSM-R zu erreichen, bevor sie sich um 
@@ -1430,15 +1307,19 @@ der nachfolgenden Tabelle aufgeführt.
 Funktion 
 Inhalt 
 Fdl-in 
+
 Du, ich versuche ihn die ganze Zeit dahinten zu erreichen – der 
 geht nicht dran. 
+
 Tf 
 Dann ist ihm was passiert. 
 Fdl-in 
 Wie bitte? 
 Tf 
+
 Dann ist ihm was passiert. Der hat sich den Kopf gestoßen. Na 
 schick da einen Notarzt hin!  
+
 Fdl-in 
 -kurzes Schweigen- 
 Tf 
@@ -1458,9 +1339,7 @@ Tabelle 5: GSM-R Gespräch zwischen Fdl-in und Tf des DGS 90977 von 03:34:56 Uhr
 Daraufhin erfolgten von 03:35:45 Uhr bis 03:38:50 Uhr vier weitere Versuche der Fdl-in, einen 
 Kontakt  zum  Tf  des  DGS  42593  herzustellen.  Um  03:38:55  Uhr  meldete  sich  der  Tf  des 
 DGS 90977 erneut bei der Fdl-in und teilte ihr mit, dass er die Lage nun erkunden wolle. Zu 
-
 diesem  Zweck  rückversicherte  der  Tf  sich  bei  ihr,  dass  das  Gleis  gesperrt  sei  und  beide 
-
 tauschten  die  jeweiligen  Handynummern  aus.  Weitere  GSM-R-Gespräche  zwischen  dem  Tf 
 des DGS 90977 und der Fdl-in wurden per GSM-R nicht aufgezeichnet. Insgesamt versuchte 
 die Fdl-in nach dem Ereigniseintritt vierzehn Mal den Tf des DGS 42593 per GSM-R-Zugfunk zu 
@@ -1468,13 +1347,13 @@ erreichen. Der Nothaltauftrag für die Strecke wurde um 03:30:42 Uhr vom Fdl Fal
 Mitte abgesetzt. Die weiteren Schritte im Notfallmanagement wurden ebenfalls durch den Fdl 
 Fallersleben Mitte in der BZ Hannover eingeleitet. Um 03:36 Uhr und damit ca. zehn Minuten 
 Seite 25 von 71 
+
  
  
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
-
 nach  der  Kollision  wurde  durch  ihn  die  Notfallleitstelle  informiert,  sodass  Rettungskräfte 
-
 alarmiert werden konnten. 
 Das verzögerte Handeln im Notfallmanagement durch die Fdl-in Fallersleben West wurde im 
 Rahmen der Untersuchungen des Ereignisablaufs als ein beitragender Faktor mit Auswirkung 
@@ -1489,26 +1368,22 @@ Monitorkante des Monitors 8 fort, um dann auf dem Monitor 9 überzugehen. Auf de
 links befindlichen Monitor 9 setzt sie sich wiederum in der untersten Zeile von rechts nach 
 links fort. Das Streckenband ist einmal auf der oberen Zeile des Monitors 8 und nochmals auf 
 der unteren Zeile des Monitors 9 mit der Bezeichnung „Üst Leiferde (HLFG 05)“ überschrieben, 
-
 wenngleich die Üst Leiferde (b Gifhorn) streckenseitig erst in km 205,7, und damit auf Monitor 
-
 9 in der oberen Zeile, angeordnet war. 
-
 Durch  diese  Doppelung  der  Bezeichnung  erschienen  die  beiden  Zeilen  mit  den  für  die  Erp 
-
 maßgeblichen  LZB-Teilblöcken  sehr  ähnlich.  Weitere  vorhandene,  ähnliche  Grafikelemente 
 wie die der Hauptsignale und LZB-Bk können begünstigen, dass die Zeilen verwechselt werden. 
 Dieser Umstand der Anzeigeergonomie wurde durch die BEU als ein beitragender Faktor [F3] 
 auf die Ereigniskette gewertet, da die Bezeichnung des Streckenbandes dem/der Bediener/in 
 im Zweifel die Orientierung erschwert und eine Prüfung der Anzeigen dadurch unvollständig 
-
 erfolgen  könnte.  Ob  Lupenbilder  tatsächlich  aufgeschaltet  wurden,  ließ  sich  durch  das  EIU 
-
 nicht mehr rekonstruieren.  
 Seite 26 von 71 
+
  
  
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
 Abbildung 9: Lupenansicht L_HLFG (links, Monitor 9) und L_HMRS1 (rechts, Monitor 8) 
 4.1.2  Untersuchung	der	betrieblichen	Abläufe	der	EVU	
@@ -1517,9 +1392,7 @@ beteiligten Zugfahrten DGS 42593 und DGS 90977 dargestellt. Neben der Auswertung
 erfolgt jeweils eine Darstellung der relevanten Regelungen zum Ereignishergang. 
 Gemäß § 4 Abs. 3 AEG ist ein EVU verpflichtet, den Betrieb sicher zu führen. Insbesondere 
 besteht eine Verpflichtung zur sicheren Durchführung von Zugfahrten. Zur Gewährleitung der 
-
 systematisch  sicheren  Betriebsführung  gehört  u. a.  das  Aufstellen  und  Einhalten  eines  den 
-
 gesetzlichen  Anforderungen  genügenden  SMS  entsprechend  §  4  Abs.  4  AEG  i. V. m.  der 
 Richtlinie  (EU)  2016/798.  Inhaltliche  Maßstäbe  für  ein  SMS  waren  die  Aufstellung  und 
 Einhaltung der in der Verordnung (EU) 2018/762 genannten Anforderungen. Zudem waren die 
@@ -1528,18 +1401,18 @@ umzusetzen.
 4.1.2.1  EVU	Crossrail	Benelux	N.V.	
 Die Crossrail Benelux N.V. war das zum Ereigniszeitpunkt verantwortliche EVU für die Zugfahrt 
 DGS 42593  und  verfügte  über  eine  Sicherheitsbescheinigung  gemäß  § 7a AEG  mit  einer 
-
 Gültigkeit  bis  zum  18.10.2027.  Das  EVU  war  damit  zur  Teilnahme  am  Eisenbahnbetrieb 
-
 berechtigt. 
 Regeln für die Durchführung von Zugfahrten und zur Planung und Überwachung des Betriebes 
 durch den Unternehmer waren im BRW umgesetzt. 
 Betrieblicher Ablauf der Zugfahrt DGS 42593 
 Seite 27 von 71 
+
  
  
  
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
 Für  den  Güterzug  DGS  42593  war  gemäß  der  Kopfangabe  des  Fahrplans  eine 
 Höchstgeschwindigkeit von 90 km/h vorgegeben, siehe nachfolgende Abbildung. 
@@ -1552,87 +1425,63 @@ Sollgeschwindigkeit
 (𝑣(cid:3046)(cid:3042)(cid:3039)(cid:3039))  gemäß  Ril  408.2341  Abschnitt  2  Abs.  2 
 in  der  LZB-
 Führerraumanzeige angezeigt. 
-
 Die  nachfolgende  Abbildung  zeigt  einen  Ausschnitt  aus  dem  Fahrplan  des  DGS  42593  für 
-
 diesen Streckenabschnitt. Der Standort des Zuges nach dem LZB-Übertragungsausfall ist in der 
-
 Abbildung markiert. 
 Seite 28 von 71 
+
  
  
  
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
 Abbildung 11: Ausschnitt aus dem Fahrplan von DGS 42593 
 Nach  der  anzeigegeführten  Ausfahrt  des  DGS  42593  aus  dem  Bf  Meinersen  kam  es  im 
-
 Teilblockabschnitt 94, ca. in km 211,5 der Strecke Bf Meinersen – Überleitstelle (Üst) Leiferde 
-
 (b Gifhorn) zu einem LZB-Übertragungsausfall im Teilblockmodus mit der Zielgeschwindigkeit 
-
 (𝑣(cid:3053)(cid:3036)(cid:3032)(cid:3039)(cid:4667) = 000. Entsprechend einer zeitabhängigen Überwachungsbremskurve lief in der für den 
-
 Tf relevanten Führerraumanzeige die Führungsgröße 𝑣(cid:3046)(cid:3042)(cid:3039)(cid:3039) auf 0 km/h zurück, der Güterzug 
-
 DGS  42593  wurde  zur  Ausfallgeschwindigkeit  nach  „000“  bis  zum  Stillstand  durch  die  LZB 
-
 herunter  geführt.  Optisch  und  akustisch  wurde  der  LZB-Übertragungsausfall  für  den  Tf 
-
 unmittelbar durch das Dauerlicht des Leuchtmelders „Stör“ sowie den akustischen Signalgeber 
-
 erkennbar. Nach Zeitablauf von drei Sekunden wurde dem Tf der LZB-Übertragungsausfall in 
-
 der Führerraumanzeige durch den blinkenden Leuchtmelder „Ü“ und die Anzeige „𝑣(cid:3053)(cid:3036)(cid:3032)(cid:3039) = 000“ 
-
 in  Verbindung  mit  der  Meldung  „Zielentfernung  =  abgeschaltet“  visualisiert.  Die 
 Seite 29 von 71 
+
  
  
  
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
 Wahrnehmung  des  LZB-Übertragungsausfalls  musste  der  Tf  innerhalb  von  10 Sekunden 
 mittels Bedienung der Taste „Frei“ betätigen, wodurch der Leuchtmelder „Ü“ erlosch. 
 Bei einem solchen LZB-Übertragungsausfall im Teilblockmodus muss ein Tf nach dem Anhalten 
-
 seines  Zuges  gemäß  den  Regelungen  der  Ril  zu  408.2652  Abschnitt  1  Abs.  2  den  Fdl 
-
 verständigen. Der Tf muss dem Fdl den Standort der Spitze seines Zuges angeben. Hält der Zug 
 vor einem Hauptsignal oder Blockkennzeichen, so muss er dieses nennen, andernfalls gilt als 
 Standort das erste Hektometerzeichen, das sich nach dem Anhalten vor der Spitze des Zuges 
 befindet. Die Weiterfahrt erfolgt mittels Bedienung der Taste „Befehl“ unter der Bedingung, 
-
 dass zuvor gemäß Ril 408.2652 Abschnitt 1 Abs. 2 letzter Satz als nun signalgeführter Zug ein 
-
 schriftlicher Befehl 10 und 10.1 durch den zuständigen Fdl ausgestellt wurde. 
-
 Der Güterzug DGS 42593 kam im Teilblockabschnitt 92, ca. 100 m entfernt von der LZB-Bk 90, 
-
 zum Halten. Die Auswertung der GSM-R-Gesprächsaufzeichnungen ergab, dass sich der Tf des 
 DGS 42593  um  03:18:15  Uhr  bei  der  zuständigen  Fdl-in  Fallersleben  West  zwecks  der 
 Mitteilung des LZB-Übertragungsausfalls und seiner Standortnennung meldete. Als Standort 
-seines Zuges gab er den km 210,40 an. In diesem GSM-R Gespräch erhielt der Tf von der Fdl-
-
-in  mittels  Übermittlung  eines  Befehls  10  und  10.1  die  Erlaubnis,  signalgeführt  über  eine 
-
+seines Zuges gab er den km 210,40 an. In diesem GSM-R Gespräch erhielt der Tf von der Fdlin  mittels  Übermittlung  eines  Befehls  10  und  10.1  die  Erlaubnis,  signalgeführt  über  eine 
 Distanz  von  2.000  m  mit  maximal  40  km/h  weiter  zu  fahren.  Der  Befehl  wurde  nach  der 
 Wiederholung des Wortlautes durch den Tf um 03:21 Uhr gültig und der Tf setzte die Fahrt 
-
 des  Zuges  in  Richtung  des  Hp  Leiferde  (b  Gifhorn)  fort.  Der  vom  Tf  erstellte  Befehl  war 
-
 deckungsgleich  zu  dem  Befehl  auf  dem  Stellwerk,  Missverständnisse  oder  Fehler  bei  der 
 Übermittlung per GSM-R-Zugfunk konnten ausgeschlossen werden. 
 Stellungnahme des Tf 
-
 Der  Tf  gab  in  seiner  Stellungnahme  an,  dass  er  nach  der  Befehlsübermittlung  seine  Fahrt 
-
 signalgeführt 
 im  Zugsicherungssystem  PZB 
 fortgesetzt  habe.  Der  zu  befahrene 
-
 Streckenabschnitt  sei  dunkel  gewesen,  zudem  habe  es  leicht  geregnet.  Er  habe  sich  in  der 
-
 Dunkelheit  darauf  konzentriert,  das  nächste  für 
 ihn  gültige  Signal  an  der  Strecke 
 wahrzunehmen.  Als  er  während  der  Fahrt  in  einer  Entfernung  von  ca.  100  m  die 
@@ -1640,13 +1489,15 @@ Schlussscheiben  eines  Güterzuges  wahrgenommen  habe,  habe  er  unmittelbar 
 Schnellbremsung  eingeleitet.  Ihm  sei  bewusst  gewesen,  dass  diese  Schnellbremsung, 
 aufgrund  der  Beladung  der  Wagen  seines  Zuges,  die  Zugkollision  nicht  mehr  verhindern 
 Seite 30 von 71 
+
  
  
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
 würde. Er sei eine unbestimmte Zeit bewusstlos gewesen und habe dann die Stimmen der 
 Ersthelfer wahrgenommen, die ihm dabei geholfen hätten, sein Tfz zu verlassen. 
-Auswertung der EFR‐Daten 
+Auswertung der EFR-Daten 
 Zur Rekonstruktion der betrieblichen Abläufe des EVU wertete die BEU die Daten aus, die das 
 führende Tfz 186 226-7 des DGS 42593 gespeichert hatte. Die Auslesung der Daten erfolgte 
 durch einen Mitarbeiter des EVU. Im Fahrzeug der Baureihe 186 war ein Aufzeichnungssystem 
@@ -1683,23 +1534,19 @@ U
 460 
 Tabelle 6: Eingegebene EFR-Zugdaten DGS 42593 
 Seite 31 von 71 
+
  
  
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
 Die  Auswertung  der  tabellarisch  aufgezeichneten  EFR-Daten  ergab,  dass  der  Tf  die 
 Wahrnehmung des LZB-Übertragungsausfalls um 03:16:38 Uhr bei einer Geschwindigkeit von 
-
 70 km/h mittels Bedienung der Taste „Frei“ bestätigte. Der Güterzug DGS 42593 wurde zur 
-
 Ausfallgeschwindigkeit  nach  „000“  über  eine  Distanz  von  ca.  einem  Kilometer  bis  zum 
-
 registrierten Stillstand um 03:18:25 Uhr durch die LZB heruntergeführt. Es schloss sich eine 
-
 Standzeit von 05:28 Minuten an, die der Tf für die Kontaktaufnahme über GSM-R zur Fdl-in 
-
 nutzte. Um 03:23:43 Uhr wurde die Zugfahrt mittels Bedienung der Taste „Befehl“ fortgesetzt. 
-
 In den EFR-Daten war eine kontinuierliche Beschleunigung des Fahrzeugs registriert, sodass 
 der  Zug  um  03:26:01  Uhr,  nach  einer  zurückgelegten  Wegstrecke  von  ca.  760 m,  eine 
 Geschwindigkeit  von  ca.  40 km/h  erreichte.  Der  Zug  wurde  weiterhin  kontinuierlich 
@@ -1708,9 +1555,7 @@ Geschwindigkeit von ca. 50 km/h in den EFR-Daten registriert wurde. Diese Geschw
 wurde über eine Strecke von 139 m und eine Dauer von 7 Sekunden beibehalten. Das Einleiten 
 der  Schnellbremsung  durch  den  Tf  war  um  02:26:48  Uhr  bei  einer  Geschwindigkeit  von 
 ca. 50 km/h aufgezeichnet. Die Schnellbremsung wurde umgehend wirksam, dies war an dem 
-
 registrierten, unmittelbaren Druckabfall in der HL von 5,00 bar auf 1,75 bar ersichtlich. Nach 
-
 dem Einleiten der Schnellbremsung legte der Zug noch eine Wegstrecke von 140 m zurück, 
 bevor  der  Abriss  der  Aufzeichnung  bei  einer  Geschwindigkeit  von  ca.  36 km/h  um 
 03:26:56 Uhr  registriert  wurde.  Dieser  Abriss  der  Datenaufzeichnung  war  eine  Folge  der 
@@ -1721,15 +1566,15 @@ DGS 42593.  Anhand  der  Standortmeldung  des  Tf  wurden  die  Wegdaten  für  
 EFR-Auswertung durch die BEU normiert. 
 Abbildung 12: Grafische Auswertung der EFR-Daten von Zug DGS 42593 
 Seite 32 von 71 
+
  
  
  
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
 Die  Auswertung  der  EFR-Daten  zeigte,  dass  der  Tf  des  DGS  42593  seine  Fahrt  unter 
-
 Überschreitung  der  zulässigen  𝑣(cid:3040)(cid:3028)(cid:3051)  fortsetzte.  In  Anbetracht  der  beförderten  Tonnage  ist 
-
 nach  allgemeinem  Erfahrungsschatz  nicht  auszuschließen,  dass  sich  dieser  Umstand 
 beitragend auf die Vergrößerung des Schadensausmaßes durch die Aufprallgeschwindigkeit 
 von 36 km/h auswirkte. Bei regelkonformer Fahrweise wäre die Schnellbremsung bereits bei 
@@ -1743,39 +1588,30 @@ für  die
 Instandhaltung  des 
 Tfz 91 88 7186 226-7  wurde  durch  Alstom  Belgium  sa  ausgeführt.  Hierzu  zählten  auch  die 
 vorbeugende  und  anlassbezogene  Instandhaltung  des  Fahrzeugs  und  seiner  Bordsysteme. 
-
 Hierbei  ergeben  sich  jedoch  Schnittstellen  in  der  Zusammenarbeit  mit  dem  EVU  und  dem 
-
 Fahrzeughalter,  da  die  Instandhaltung  von  den  Einsatzbedingungen  und  den  auftretenden 
-
 Mängeln im Betrieb abhängig ist. Entsprechend ergab sich auch für den LZB-Rechner und für 
-
 die Funktionsfähigkeit der LZB auf dem Fahrzeug ein erforderlicher Informationsaustausch mit 
-
 dem EVU Crossrail Benelux N.V. Da das EVU der BEU keine Regelungen der Zusammenarbeit 
 erläuterte, wurde die Aufgabenerfüllung der ECM durch die BEU nicht weiter analysiert.  
 Der  Fahrzeughalter  Alpha  Trains  Luxembourg  S.à  r.l.  teilte  der  BEU  mit,  dass  „die 
 Zusammenarbeit zwischen den Akteuren (EVU, Halter und ECM) im „Master Lease Agreement“ 
-
 sowie in der „Lease Confirmation“ eindeutig geregelt sei.“ Diese Verträge würden weiter die 
-
 Anforderungen der Verordnung (EU) 779/2019 erfüllen, einschließlich der Verpflichtung zum 
 Austausch von Informationen und Dokumentationen zwischen den Beteiligten. 
-
 Bezüglich der betrieblichen und technischen Feststellungen zur Funktionsbereitschaft der LZB 
-
 siehe auch Kapitel 4.2.4. 
 4.1.2.3  EVU	Locon	Logistik	&	Consulting	AG	
-
 Die LOCON Logistik & Consulting AG war das zum Ereigniszeitpunkt verantwortliche EVU für 
-
 die Zugfahrt DGS 90977 und verfügte über eine Sicherheitsbescheinigung gemäß § 7a AEG mit 
 einer Gültigkeit bis zum 16.11.2023. Das EVU war damit zur Teilnahme am Eisenbahnbetrieb 
 berechtigt. 
 Seite 33 von 71 
+
  
  
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
 Regeln für die Durchführung von Zugfahrten und zur Planung und Überwachung des Betriebes 
 durch den Unternehmer waren im BRW umgesetzt.  
@@ -1784,9 +1620,7 @@ Gemäß dem durch das EVU bestellten Fahrplan befand sich der Güterzug DGS 9097
 Weg  von  Gütersloh  nach  Schwedt 
 (Oder).  Zugfolgebedingt  kam  der 
 in  diesem 
-
 Streckenabschnitt  anzeigegeführte  Zug  um  03:01  Uhr  vor  dem  LZB-Bk  86  in  km  208,4  des 
-
 Streckenabschnittes Bf Meinersen – Hp Leiferde (b Gifhorn) zum Halten. 
 Der Tf meldete der Fdl-in nach dem Ereignis um 03:28:31 Uhr per GSM-R Einzelruf eine seiner 
 Meinung  nach  geschehene  Zugkollision,  erklärbar  durch  den  von  ihm  wahrgenommenen 
@@ -1794,26 +1628,17 @@ Vorschub seines Zuges. Einen Nothaltauftrag gemäß Ril 408.2581 setzte er nicht
 die Wucht der Kollision sein Triebfahrzeug um ca. 10 m nach vorne geschoben hatte. Dieser 
 Umstand  wurde  durch  die  BEU  als  ein  beitragender  Faktor 
 in  Bezug  auf  das 
-
 Notfallmanagement nach Ereigniseintritt gewertet [N7]. Wird ein Nothaltauftrag nach einem 
-
 Ereignis  nicht  unverzüglich  abgesetzt,  kann  dies  Folgeereignisse  nach  sich  ziehen.  Die 
-
 Ril 408.2581  schreibt  vor,  dass  grundsätzlich  in  eigener  Verantwortung  umsichtig  und 
-
 entschlossen alles getan werden muss, um eine Gefahr abzuwenden oder zu mindern. 
 Stellungnahme des Tf 
 Der Tf gab in seiner Stellungnahme an, dass sein Zug gegen 03:30 Uhr einige Meter nach vorne 
 geschoben  worden  sei.  Es  habe  eine  Sifa-Zwangsbremsung  eingesetzt,  die  er  mittels 
-
 Schnellbremsung unterstützt habe. Daraufhin habe er die Fdl-in Fallersleben West über diesen 
-
 Sachverhalt informiert. Er habe in diesem Gespräch bereits eine Zugkollision vermutet. Gegen 
-
 03:30 Uhr habe er die Notfallleitstelle des EVU LOCON Logistik & Consulting AG verständigt. 
-
 Ungefähr zeitgleich erfolgte der Nothaltauftrag des Fdl. Die Fdl-in habe sich erneut bei ihm 
-
 gemeldet und ihm mitgeteilt, dass eine Kontaktaufnahme zum Tf des DGS 42593 nicht möglich 
 gewesen sei. Er habe um Zustimmung gebeten, das Gleis zu erkunden und sich auf den Weg 
 zu machen um dem Tf des DGS 42593 erste Hilfe zu leisten. Gegen 03:39 Uhr habe er den 
@@ -1822,17 +1647,17 @@ erkannt.  Er  sei  zum  Eigenschutz  sofort  in  Richtung  seines  Tfz  umgekehr
 Polizeinotrufnummer „110“ gewählt. In diesem Gespräch mit der Notfallleitstelle der Polizei 
 habe er auch auf erforderliche Rettungsmaßnahmen hingewiesen. Gegen 03:50 Uhr seien die 
 Seite 34 von 71 
+
  
  
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
-
 ersten Rettungskräfte der  freiwilligen  Feuerwehr  an  seinem  Standort  eingetroffen.  Er  habe 
-
 diese über die Lage informiert und auf seinem Tfz auf weitere Anweisungen gewartet. 
 Ein weiteres GSM-R Gespräch erfolgte dann um 04:01:47 Uhr mit dem Güterzugdisponenten 
 der BZ Hannover, der sich nach der aktuellen Situation vor Ort beim Tf erkundigte. 
-Auswertung der EFR‐Daten 
+Auswertung der EFR-Daten 
 Zur Rekonstruktion der betrieblichen Abläufe des EVU wertete die BEU die Daten aus, die das 
 führende Tfz 192 060-2 des DGS 90977 gespeichert hatte. Die Auslesung der Daten erfolgte 
 durch einen Mitarbeiter des EVU. Im Fahrzeug der Baureihe 192 war ein Datenrekorder des 
@@ -1867,22 +1692,18 @@ Die Auswertung der tabellarischen EFR-Daten des Tfz ergab, dass der Güterzug DG
 03:01:14 Uhr zum Halten kam. Dieser registrierte Halt des Güterzuges war vor dem LZB-Bk 86 
 in km 208,3 der Strecke zu verorten. Das Führerbremsventil befand sich in der Bremsstellung 
 Seite 35 von 71 
+
  
  
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
-
 und  der  Druck  in  der  Hauptluftleitung  (HL)  des  Zuges  betrug  laut  EFR-Daten  ab  diesem 
-
 Zeitpunkt 4,6 bar. In der Folge führte dies zum Anlegen der Bremsen des Zuges. 
-
 Um  03:26:47  Uhr  wurde  nach  einer  Standzeit  von  25:32  Minuten  ein  kontinuierliches 
-
 Ansteigen  der  Geschwindigkeit  bei  weiterhin  bestehendem  4,6  bar  HL-Druck  über  einen 
 Zeitraum von ca. 10 Sekunden registriert. Um 03:26:51 Uhr wurde bei einer Geschwindigkeit 
-
 von  5,0  km/h  der  Abriss  der  Spur  HL  in  den  Daten  deutlich.  Um  03:26:52  Uhr  betrug  der 
-
 registrierte  Druck 
 in  der  HL  dann  weniger  als  3,2  bar,  dies  resultierte  aus  der 
 Schnellbremsstellung des Führerbremsventils, welche der Tf herbeiführte. In den EFR-Daten 
@@ -1897,10 +1718,12 @@ In  diesem  Kapitel  sind  die  Erkenntnisse  aus  der  Untersuchung  beteiligte
 Eisenbahninfrastruktur und weiterer technischer Einrichtungen einschließlich damit eventuell 
 verbundener Tätigkeiten und Entscheidungen dargestellt. 
 Seite 36 von 71 
+
  
  
  
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
 4.2.1  Untersuchung	von	Fahrzeugen	des	DGS	42593	
 Der  Güterzug  DGS  42593  verkehrte  gemäß  Fahrplan  von  Aachen  West  nach  Köthen.  Im 
@@ -1910,9 +1733,7 @@ Mindestbremshundertsteln  vorgegeben.  Der  Zug  erfüllte  mit  77  vorhandenen
 Vorgaben. 
 Entsprechend der Angaben aus Bremszettel und Wagenliste bestand der Güterzug DGS 42593 
 aus 24 Druckgaskesselwagen der Bauart Zags. Alle Kesselwagen waren mit dem gasförmigen 
-
 Gefahrstoff  Propan,  wagenseitig  gekennzeichnet  durch  die  Gefahrnummer  23  und  die  UN-
-
 Nummer  1978,  beladen.  Der  Güterzug  hatte  eine  Gesamtlänge  von  455 m  und  ein 
 Gesamtzuggewicht von 1.973 t. 
 Aus der folgenden Tabelle lassen sich die technischen Fahrzeugdaten des Tfz entnehmen: 
@@ -1939,22 +1760,22 @@ elektrisch
 Bo’Bo‘ 
 PZB / LZB 
 Tabelle 9: Technische Daten Tfz 91 88 7186 226-7  
-LZB‐Übertragungsausfall des Tfz 186 226‐7 
+LZB-Übertragungsausfall des Tfz 186 226-7 
 Der  LZB-Übertragungsausfall  wurde 
 infrastrukturseitig  mittels  der  Meldung  mit  der 
 Nummer „333“ 
 registriert.  Diese  ausgegebene  Meldung 
 zeigte  an,  dass  der 
-
 Telegrammverkehr  zwischen  der  infrastrukturseitigen  LZB-Einrichtung  und  dem  Tfz  nicht 
-
 ordnungsgemäß  beendet  wurde.  Hinweise  auf  die  Ursache  des  LZB-Übertragungsausfalls 
 enthielt die Nummer der Meldung nicht. Als mögliche Ursachen kamen allgemeinhin z. B. eine 
 gestörte Kreuzungsstellenerkennung, Fehler in der Weg-/Geschwindigkeitsermittlung durch 
 Seite 37 von 71 
+
  
  
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
 z. B.  ein  Schleudern  des  Tfz  oder  Ausfälle  des  LZB-Fahrzeuggerätes  in  Betracht.  Wie  in 
 Kapitel 4.1.1 benannt, wurde dieses Vorkommnis durch die BEU als ursächlicher Faktor [F1] 
@@ -1962,22 +1783,16 @@ gewertet. Durch das EVU Crossrail Benelux N.V. konnte auf Nachfrage der BEU kein
 zu  der  konkreten  Ursache  des  LZB-Übertragungsausfalls  des  Tfz  getroffen  werden.  Der 
 Fahrzeughalter teilte mit, dass der Wartungsplan des EBICab, einschließlich des STM PZB/LZB, 
 im Anhang zur „Lease Confirmation“ enthalten sei. Darüber hinaus bestehe eine rund um die 
-
 Uhr  besetzte  Hotline  zur  Meldung  von  Defekten  an  Lokomotiven.  Ein  LZB-Fehler  wurde  im 
-
 Zusammenhang mit dem Ereignis nicht gemeldet. Für November 2022 konnten seitens des 
 Halters folgende Meldungen in Bezug auf das Tfz nachgewiesen werden, siehe nachfolgende 
 Abbildung. 
 Abbildung 13: Gespeicherte technische Meldungen zu Tfz 91 88 7186 226-7 
-
 Seitens  des  EVU  wurden  keine  darüber  hinaus  gehenden,  konkretisierenden  Angaben  zum 
-
 Instandhaltungskonzept  des  Tfz  und  Intervallen,  in  welchen  der  LZB-Rechner  des  Tfz 
 planmäßig ausgewertet wird, sowie zum zugehörigen Informationsaustausch erbracht.  
 Untersuchung der Fahrzeuge des DGS 42593 
-
 Durch  das  Ereignis  entgleisten  die  an  erster  bis  fünfter  Stelle  im  Zugverband  eingestellten 
-
 Wagen. Auch die übrigen Wagen wurden im Anschluss an das Ereignis durch das EVU einer 
 Werkstatt zugeführt. Die Fahrzeugnummern der entgleisten Wagen des DGS 42593 sind in der 
 untenstehenden Tabelle aufgeführt. 
@@ -2007,10 +1822,12 @@ Zagkks
 Zagkks 
 Tabelle 10: Übersicht der beschädigten Wagen des DGS 42593 
 Seite 38 von 71 
+
  
  
  
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
 In  Folge  der  Zugkollision  kam  es  zu  Schäden  an  den  Fahrzeugen.  Auf  weiterführende 
 Untersuchungen der Fahrzeuge des DGS 42593 konnte verzichtet werden. 
@@ -2054,25 +1871,35 @@ Fahrzeughalters TRANSWAGGON AG. Die Position dieser Wagen nach dem Ereignis ist 
 untenstehenden  Abbildung  zu  erkennen.  Der  24.  Wagen  wurde  durch  die  Kollision  nahezu 
 vollständig zerstört. 
 Seite 39 von 71 
+
  
  
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
 Abbildung 14: Positionen der beschädigten Wagen des DGS 909778 
 Die untenstehende Tabelle enthält die technischen Daten der beschädigten Fahrzeuge. 
 Wagennummer 
 2740 
+
 33 85 
 451-5 
+
 2740 
+
 33 85 
 450-7 
+
 2740 
+
 33 85 
 520-7 
+
 2740 
+
 33 85 
 639-5 
+
 Halter 
 TRANSWAGGON AG 
 Gattungszeichen 
@@ -2089,30 +1916,31 @@ Anzahl der Radsätze
 4 
 Lastgrenzen 
 A 37,0 t, B 45,0 t, C 55,0 t 
+
 Max. zul. 
 Fahrzeuggeschwindigkeit 
+
 120 km/h 
 Bremsbauart 
 KE-GP-A (K) 
 Tabelle 12: Technische Daten der beschädigten Wagen des DGS 90977 
 8 Quelle: Bundespolizeidirektion Hannover, bearbeitet durch BEU 
 Seite 40 von 71 
+
  
  
  
                                                        
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
 In Folge der Zugkollision kam es zu Schäden an den Fahrzeugen. Die im Ereignis beteiligten 
 Fahrzeuge  wurden  hinsichtlich  rechtlicher  und  zustandsbezogener  Anforderungen  soweit 
 untersucht,  dass  das  Vorliegen  von  ereignisrelevanten  Faktoren  an  ihnen  ausgeschlossen 
 werden konnte. 
 4.2.3  Untersuchung	der	bautechnischen	Infrastruktur	
-
 Die  Infrastruktur  war  mit  Schotteroberbau  mit  Spannbetonschwellen  ausgerüstet.  Beide 
-
 Gleise  waren  mit  elektrischer  Oberleitung  ausgestattet.  Die  eingetretenen  Beschädigungen 
-
 am  Oberbau  sowie  an  der  Oberleitungsanlage  waren  als  Folgen  der  Zugkollision 
 identifizierbar. 
 Aufgrund 
@@ -2124,7 +1952,7 @@ und
 der 
 Sachverhaltsermittlung konnte auf weiterführende oberbautechnische Untersuchungen der 
 Gleise verzichtet werden. 
-4.2.4  Untersuchung	der	Leit‐	und	Sicherungstechnik	
+4.2.4  Untersuchung	der	Leit-	und	Sicherungstechnik	
 Die Bedienoberfläche des ESTW war in der BZ Hannover im Steuerbezirk 12 eingerichtet. Bei 
 dem Bedienplatzsystem handelte es sich um das System „BPS 901“. 
 Die Unterzentrale des Stellwerks mit dem gemeinsamen Stellbereich Fallersleben/Wolfsburg 
@@ -2132,9 +1960,7 @@ Hbf befand sich im Bf Fallersleben in Höhe des Streckenkilometers 185,450 der z
 Hauptbahn Berlin Lehrter Bf – Fallersleben - Lehrte mit der VzG-Nummer 6107 sowie in km 
 17,124  der  eingleisigen  Hauptbahn  Oebisfelde  –  Fallersleben  –  Abzw  Süllfeld,  VzG-Strecke 
 6399. 
-
 Der Überleitstelle (Üst.) Leiferde (b Gifhorn) war die Bereichskennziffer 05, dem Bf Meinersen 
-
 die Bereichskennziffer 06 zugeordnet.  
 Die  durchgehenden  Hauptgleise  der  Strecke  Oebisfelde  –  Lehrte  und  deren 
 Verbindungsweichen  sowie  die  direkt  angrenzenden  Überholungsgleise  im  Stellbereich  des 
@@ -2142,34 +1968,27 @@ ESTW Fallersleben waren mit LZB ausgerüstet. Die Streckengleise der Strecke 610
 dem Zugbeeinflussungssystem LZB L72 CE ausgerüstet. 
 Die zwei LZB-Zentralen mit den Bezeichnungen „Fallersleben 2“ und „Fallersleben 3“ befanden 
 sich in der Unterzentrale Fallersleben. Die Bedien- und Anzeigeeinrichtung war in der BZ mit 
-
 einer  Umschaltmöglichkeit  zum  Notbedienplatz  eingerichtet.  Der  Fdl  Fallersleben  Mitte 
-
 überwachte  und  bediente  die  LZB-Zentrale  „Fallersleben  2“,  der  Fdl  Fallersleben  West 
 überwachte  und  bediente  die  LZB-Zentrale  „Fallersleben  3“.  Grundsätzlich  sind  keine 
 Seite 41 von 71 
+
  
  
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
 Bedienhandlungen an einer LZB-Zentrale durch den Fdl notwendig. Für besondere Aufgaben 
 steht dem Fdl ein Bedienplatz mit Bedienrechner zur Verfügung. Über diesen Rechner können 
 Daten in das laufende System eingespeist werden. Ein Fdl kann zeitweilige Langsamfahrstellen 
 eingeben oder löschen, Meldungen über den Betriebszustand des Systems abfragen oder sich 
-
 Ausdrucke von Unregelmäßigkeiten (Fehlerstatistik) anfordern. Von der LZB-Zentrale werden 
-
 kontinuierlich Suchtelegramme an die Einfahrorte der Kurzschleifen gesendet. Wird durch das 
-
 System  die  Antwort  eines  Zuges  auf  ein  solches  Telegramm  registriert,  so  wird  dieser  Zug 
-
 einschließlich  seines  Fahrortes  geortet.  Dieses  erste  Zugantworttelegramm  enthält  im 
-
 Wesentlichen Zugnummer und Zuglänge. Vom nächsten Aufruf an sendet das Fahrzeuggerät 
 dann laufend die für die Berechnung der Soll-Geschwindigkeit erforderlichen Zugdaten an den 
-
 Rechner  der  LZB-Zentrale.  Die  LZB-Zentrale  für  den  Streckenabschnitt  Bf  Meinersen  –  Hp 
-
 Leiferde (b Gifhorn) war beim Fdl Fallersleben West eingerichtet 
 Die Bereichskennungswechsel (BKW) der jeweiligen LZB-Zentralen befanden sich an folgenden 
 Stellen: 
@@ -2181,9 +2000,7 @@ Wirkungsweise der LZB
 Die  LZB  L72  CE 
 ist  eine  Weiterentwicklung  der  LZB  und  dient  der  Erhöhung  der 
 Leistungsfähigkeit  von  Bestandsstrecken.  Die  Streckeneinrichtung  besteht  aus  der  LZB-
-
 Zentrale  mit  Schnittstellen  zu  den  Stellwerken  und  den  Außenanlagen.  Die  Außenanlage 
-
 besteht 
 aus 
 Streckengeräten 
@@ -2191,29 +2008,22 @@ Streckengeräten
 mit 
 angeschlossenen 
 Linienleiterschleifen.  Die  Linienleiterschleifen  können  Längen  von  max.  12,7  km  aufweisen 
-
 und  sind  wiederum  in  Kurzschleifenbereiche  von  ca.  300  m  Länge  unterteilt.  Zu  einer  LZB-
-
 Zentrale gehören mehrere Linienleiterschleifenbereiche. Die Linienleiter bestehen aus zwei 
-
 Linienleiterkabeln, wovon eines in der Gleismitte und das andere am Schienenfuß verlegt ist. 
-
 Die  Linienleiterkabel  sind  alle  100 m  gekreuzt,  wodurch  ein  Zug  geortet  werden  kann 
 (Grobortung). Über den Linienleiter und eine am Tfz vorhandene Fahrzeugantenne werden 
-
 kontinuierlich alle für die Zugfahrt relevanten Informationen induktiv ausgetauscht, woraus 
-
 eine lückenlose Überwachung und Steuerung des Zuges resultiert. 
 Seite 42 von 71 
+
  
  
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
-
 Die  Blockstrecke  zwischen  Bf  Meinersen  und  Hp  Leiferde  (b  Gifhorn)  war  in  mehrere  LZB-
-
 Teilblöcke  unterteilt.  Diese  waren  vor  Ort  durch  LZB-Bk  gekennzeichnet.  Streckenseitig 
-
 dienten LZB-Bk, siehe rechts in der untenstehenden Abbildung, der Orientierung. Durch diese 
 wird  es  u. a.  ermöglicht,  dass  ein  Tf  dem  Fdl  nach  dem  Halt  seines  Zuges  eine 
 Standortmitteilung  geben  kann.  Bereichskennungswechsel  sind  vor  Ort  mit  LZB-
@@ -2223,15 +2033,11 @@ Abbildung 15: LZB-Bereichskennzeichen (links) und Blockkennzeichen (rechts)
 Der nächste BKW im Fahrweg des Güterzuges DGS 42593 in Richtung Üst Leiferde (b Gifhorn) 
 war  in  km  204,200  vorhanden.  Ein  Kurzschleifenwechsel  befand  sich  im  Fahrweg  des 
 DGS 42593 u. a. in km 211,213 und km 210,613. 
-
 Um  größere  betriebliche  Auswirkungen  aufgrund  kurzzeitiger  Kommunikationsausfälle  und 
-
 Störungen  zu  vermeiden,  wird  seitens  der  LZB-Technik  bei  Verbindungsstörungen  zunächst 
 ein erneuter Verbindungsaufbau z. B. in der nächsten Kurzschleife versucht. Erst wenn dies 
 wiederholt  misslingt,  werden  Störungsmeldungen  an  den  Bediener  in  der  LZB-Zentrale 
-
 ausgegeben.  Bei  einer  Unterbrechung  der  Kommunikation  zwischen  der  LZB-Zentrale  und 
-
 einem LZB geführten Zug kommt es zu einem Übertragungsausfall und der Zug wechselt in die 
 PZB als Zugsicherungssystem zurück. Ein Übertragungsausfall kann allgemein durch Einflüsse 
 wie  Beschädigung  des  Linienleiters,  Beschädigung  der  Fahrzeugantenne,  fehlerhafte 
@@ -2239,20 +2045,18 @@ Odometrie des Fahrzeugs, mangelnde Wartung, Instandhaltung oder Inspektion der A
 ausgelöst  werden.  In  diesem  Fall  kann  die  Wiederaufnahme  in  die  LZB  frühestens  ab  dem 
 nächsten BKW erfolgen. 
 Die mit LZB streckenseitig ausgerüsteten Gleisanlagen werden technisch in sogenannte Grob- 
-
 und  Feinorte  und  weiter  in  „Tracks“  unterteilt.  Die  „Tracks“  werden  zur  eindeutigen 
-
 Seite 43 von 71 
+
  
  
  
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
-
 Identifikation der Grob- und Feinorte nummeriert. Jeder „Track“ wird durch einen BKW, einen 
-
 Schleifenübergang bzw. von Weichen oder Kreuzungen begrenzt. 
-LZB‐Übertragungsausfall des DGS 42593 
+LZB-Übertragungsausfall des DGS 42593 
 In Grobort 74 und Feinort 3 des Kanals 4, also in km 211,551, kam es um 03:16:46 Uhr im 
 Teilblockabschnitt 94 zu einem LZB-Übertragungsausfall des DGS 42593 [F1]. Der Zug kam in 
 km 210,40 zum Halten und befand sich ca. 100 m vor dem LZB-Bk 92, siehe Abbildung 6 in 
@@ -2270,12 +2074,14 @@ Die  DB  Netz  AG  stellte  der  BEU  eine  Auswertung  der  LZB-Übertragungsau
 November  2022  zur  Verfügung.  Die  Anzahl  der  Übertragungsausfälle  in  Kanal  4  kann  der 
 nachfolgenden Tabelle entnommen werden: 
 Seite 44 von 71 
+
  
  
  
  
  
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
 Datum 
 Uhrzeit  Meldung 
@@ -2399,24 +2205,24 @@ gemäß Ril 892.9307A17 durch die anlagenverantwortliche Stelle. Die DB Netz AG 
 mit, dass 
 „darüber hinaus gemäß Ril 892.9307A17, lfd. Nr. 13 durch die anlagenverantwortlichen 
 Stellen eine regelmäßige Auswertung von Daten erfolgte. Die regelmäßigen 
-Auswertungen erfolgen monatlich auf Basis der in den LZB‐Datenerfassungsgeräten (kurz: 
+Auswertungen erfolgen monatlich auf Basis der in den LZB-Datenerfassungsgeräten (kurz: 
 DAG) registrierten Daten. Eine webbasierte Arbeitshilfe ermöglichte es der 
 anlagenverantwortlichen Stelle, die hinterlegten Datensätze aus den DAG systematisch 
-auszuwerten und auf diese Weise mehrfach wiederkehrende auffällige LZB‐Zentralen, 
-
-Tracks oder auch Fahrorte zu identifizieren, um eine gezielte Fehlersuche und ‐beseitigung 
-
+auszuwerten und auf diese Weise mehrfach wiederkehrende auffällige LZB-Zentralen, 
+Tracks oder auch Fahrorte zu identifizieren, um eine gezielte Fehlersuche und -beseitigung 
 zu ermöglichen. Neben diesen datenbasierten Auswertemöglichkeiten geben auch die Fdl 
-als Bediener der LZB‐Einrichtungen den anlagenverantwortlichen Stellen unmittelbar eine 
-Rückmeldung über mehrfach wiederkehrende Ausfälle der Übertragung der LZB‐Daten (u. 
+als Bediener der LZB-Einrichtungen den anlagenverantwortlichen Stellen unmittelbar eine 
+Rückmeldung über mehrfach wiederkehrende Ausfälle der Übertragung der LZB-Daten (u. 
 a. über die EVZS, siehe auch Ril 482.7199 in Verbindung mit Prozess I.01.03 „Entstörung 
 durchführen).9“ 
 9 Schreiben der DB Netz AG an die BEU 
 Seite 45 von 71 
+
  
  
                                                        
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
 Diese webbasierte Arbeitshilfe mit der Bezeichnung „Disa-Web-Tool“ wird seit einigen Jahren 
 seitens des EIU für die Datenauswertung genutzt. Gespeist wird das Tool durch die DAG-Daten 
@@ -2426,17 +2232,13 @@ grafisch
 aufbereitet  und 
 sollen  die 
 Bauartverantwortlichen und die Anlagenverantwortlichen bei der Lokalisierung von Fehlern 
-
 und systematischen Schwachstellen und der zielgerichteten Fehlerbeseitigung unterstützen. 
-
 Die DB Netz AG teilte hierzu ergänzend mit: 
-„Zusätzlich zu den LZB‐Meldungsdaten werden Stammdaten zu den Standorten der LZB‐
+„Zusätzlich zu den LZB-Meldungsdaten werden Stammdaten zu den Standorten der LZB-
 Zentrale erfasst. Diese basieren auf den Informationen aus SAP R3/Netz und werden 
-manuell in der LZB‐Datenbank aktualisiert. Der Instandhalter kann sich daher im Sinne der 
+manuell in der LZB-Datenbank aktualisiert. Der Instandhalter kann sich daher im Sinne der 
 Umsetzung der Ril 892.9307A17, lfd. Nr. 13 in diesem Tool bspw. eine 
-
 Übertragungsausfallstatistik oder auch die Liste von Fahrorten anzeigen lassen, bei denen 
-
 Mehrfachausfälle registriert wurden. Zusätzlich erhält er in einem zweiten Schritt 
 Detailinformationen, wie etwa Angaben zur zeitlichen Verteilung der Einzelfehler.“ 
 Durch  die 
@@ -2450,23 +2252,20 @@ Abbruch der LZB-Führung gekommen, was eine vorübergehende Unwirksamkeit der LZ
 Zugbeeinflussungssystem für die anzeigegeführte Fahrt des DGS 42593 bedeutete. Tatsächlich 
 sei  aber  keine  vollständige  Unterbrechung  der  Kommunikation  zwischen  der  LZB-
 Fahrzeugausrüstung  und  der  LZB-Streckeneinrichtung  eingetreten.  Diese  vorübergehende 
-
 Unwirksamkeit  bei  gleichzeitig  fortbestehender  Kommunikationsverbindung  zwischen 
-
 Streckenausrüstung  und  Fahrzeug  sei  als  eine  definierte  Sicherheitsreaktion  zu  verstehen, 
-
 nach deren Eintritt der DGS 42593, bis zur Wiederaufnahme in die LZB, in der Rückfallebene 
 als signalgeführte Fahrt weiterfahren sollte. 
-
 Die  regelmäßigen  Inspektionen  gemäß  Ril  892.9307  der  betroffenen  LZB-Anlagen  in  den 
-
 Jahren 2021 und 2022 wurden durch das EIU gegenüber der BEU nachgewiesen. 
 Seite 46 von 71 
+
  
  
  
  
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
 4.3  Menschliche	Faktoren	
 In diesem Kapitel werden Untersuchungserkenntnisse zu menschlichen Handlungen und/oder 
@@ -2475,9 +2274,7 @@ Erkenntnisse  können  sich  hierbei  insbesondere  im  Bereich  menschlicher  u
 Merkmale sowie organisatorischer und Arbeitsplatzfaktoren ergeben. 
 4.3.1  Beteiligte	des	Infrastrukturbetreibers	
 Ein Nachweis über die gesundheitliche Eignung als Fdl-in wurde der BEU vorgelegt. Im Rahmen 
-
 einer Untersuchung von 19.05.2022 wurde festgestellt, dass die Fdl-in für ihre Tätigkeit ohne 
-
 Einschränkungen geeignet war. 
 In  den  folgenden  Unterkapiteln  wird  auf  die  berufliche  Ausbildung,  Fortbildung  und 
 Überwachung der Fdl-in als eine Beteiligte des Infrastrukturunternehmens eingegangen. 
@@ -2490,18 +2287,18 @@ zur  Bedienung  von  Stellwerkseinrichtungen  und  Leiten  des  Fahrdienstes  im
 Abweichungen  vom  Regelbetrieb  vermittelt.  Der  Ausbildungsplan  beinhaltete  auch  den 
 Themenblock „Ergreifen von Maßnahmen bei gefährlichen Ereignissen“ sowie „Bedienen von 
 Stellwerkseinrichtungen und Leiten des Fahrdienstes bei Störungen“. 
-
 Im  Rahmen  dieser  Ausbildung  zur  EiB  F  durchlief  die  Fdl-in  vom  06.05.  bis  11.10.2019  das 
-
 Seminar  „ESTW-Ausbildung  für  Azubis  zum  Eisenbahner  im  Betriebsdienst  (Fahrweg)  in 
 15 Tagen“.  Themen  des  Seminars  waren  unter  anderem  die  Einrichtung  eines  ESTWs,  die 
 Bedien-  und  Anzeigeeinrichtungen,  sowie  das  Verhalten  bei  Unregelmäßigkeiten  und 
 Störungen.  Am  20.11.2019  nahm  die  Fdl-in  an  einer  Fortbildung  für  Fdl  zum  Thema 
 „LZB L 72/CE“ teil. Die DB Netz AG teilte hierzu mit, dass 
 Seite 47 von 71 
+
  
  
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
 „im Rahmen der Anpassungsfortbildung LZB auch die Störungsszenarien der LZB mit den 
 entsprechenden Abhandlungsschritten in der Stellwerkstechnik [red. Anmerkung: hier 
@@ -2527,46 +2324,34 @@ nicht  in  einem  bewusst  erwogenen  Zusammenhang  bei  der  Planung  der  Fort
 berücksichtigt wurden. Hierdurch konnten die Fdl auch durch eine regelmäßige Teilnahme an 
 den Fortbildungen entsprechende Kenntnisse nicht systematisch erwerben und auffrischen. 
 Entsprechend  Verordnung  (EU)  2018/762  Anhang  II  Punkt  4.2.1  sind  Mitarbeitern  mit 
-
 sicherheitsrelevanten  Aufgaben  die  notwendigen  Kompetenzen  zu  vermitteln.  Diese  sind 
-
 gemäß  Punkt  4.2.1  der  Verordnung  vorab  im  SMS  zu  definieren  und  gemäß  Punkt  4.2.2 
 regelmäßig und nachweislich zu schulen. 
 Bei der Durchführung der regelmäßigen Fortbildungen wurde in Bezug auf die Fdl-in teilweise 
-
 ein Simulator genutzt. Allerdings erging für die Fdl-in anhand der Simulation ebenfalls kein 
-
 Training unter Einbeziehung von Themen bezüglich der LZB. 
 10 Schreiben DB Netz AG an die BEU 
 Seite 48 von 71 
+
  
  
                                                        
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
 Überwachung der Dienstausübung 
-
 Die  Fdl-in  war  gemäß  Ril  412.9111  Abschnitt  4  Abs.  3  der  Funktionsstufe  „A“  zugeordnet. 
-
 Betriebspersonal wird in diese Funktionsstufe eingeordnet, wenn eine 
 „hohe Wahrscheinlichkeit eines gefährlichen Ereignisses bei Fehlhandlungen des 
 Mitarbeiters und hohe Wahrscheinlichkeit eines größeren Schadens je Ereignisfall“.11 
 durch das EIU identifiziert wurde. 
-
 Aus  dieser  Zuordnung  resultierte,  dass  die  Überwachungshäufigkeit  durch  die  sogenannte 
-
 Betriebskontrolle des Arbeitsplatzes eines Fdl im Stellwerk Fallersleben durch das EIU gemäß 
-
 Ril 412.9111  Abschnitt  4  Abs.  5  auf  acht  Überwachungen  pro  Jahr  festgelegt  wurde.  Als 
-
 Betriebskontrolle  wurde  laut  Ril  412.9111  Abschnitt  2  Abs.  4  die  direkte  Überwachung  der 
-
 Mitarbeiter  oder  das  Training  an  einer  Simulationsanlage  im  Rahmen  der  Fortbildung 
-
 definiert. Bei der direkten Überwachung sollen u. a. die Handlungen des Stellwerkspersonals, 
-
 die  Einträge  in  betrieblichen  Unterlagen  und  das  Fachwissen  mittels  Durchführung  von 
-
 Lehrgesprächen  durch  eine  Aufsichtsführende  Person  überprüft  werden.  Laut  genanntem 
 Regelwerk sind 
 „Einträge in Betrieblichen Unterlagen zu betrieblichen Ereignissen 
@@ -2576,24 +2361,20 @@ Die der BEU vorgelegten Protokolle der Betriebskontrollen ließen keine Dokument
 durchgeführte Querkontrollen in Bezug auf die Handlungsweise der Fdl-in nach einem LZB-
 Übertragungsausfall erkennen. 
 In den Jahren von Februar 2020 bis November 2022 wurden 24 Betriebskontrollen durch einen 
-
 Bezirksleiter  Betrieb  und  eine  Teilnahme  am  Training  an  einer  Simulationsanlage  im 
-
 Oktober 2022  dokumentiert.  Die  gemäß  Ril  412.9111  Abschnitt  4  Abs.  5  jährlich  im 
-
 Unternehmen vorgeschriebene Anzahl an Überwachungen der Fdl-in war quantitativ erfüllt. 
-
 Die letzte Betriebskontrolle vor dem Ereignis wurde am 11.10.2022 durchgeführt. Thema des 
-
 freien Lehrgesprächs war die „Nennung meldepflichtiger Ereignisse bei der Notfallleitstelle“. 
-
 11 DB-Ril 412.9111 Abschnitt 4 Abs. 3 
 12 DB-Ril 412.9111 Abschnitt 5 Abs. 9 
 Seite 49 von 71 
+
  
  
                                                        
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
 In  der  zuvor 
 im  August  2022  durchgeführten  Betriebskontrolle  war  Thema  des 
@@ -2609,9 +2390,7 @@ aufgetretenen LZB-Übertragungsausfälle und damit verbundener Risiken ein zu er
 Szenario  darstellt.  Mängel  aus  anderen  Betriebskontrollen  waren  in  drei  der  vorgelegten 
 Protokolle dokumentiert. Diese festgestellten Mängel bezogen sich auf betriebliche Einträge 
 im Arbeits- und Störungs- sowie Zugmeldebuch. 
-
 Der  gemäß  Ril 481.0205Z01  einmal  jährlich  durchzuführende  Nothaltauftrag  wurde  in  den 
-
 vorgelegten Protokollen als Pflichtthema im jährlichen Turnus nachgewiesen, letztmalig vor 
 dem Ereignis am 26.08.2022. 
 Entsprechend der Vorgabe aus Ril 412.9111 Abschnitt 5 Abs. 2 wurden jährlich mindestens 
@@ -2626,17 +2405,16 @@ Arbeiten,  Maßnahmen  bei  Funkenflug  an  einem  Fahrzeug,  Maßnahmen  bei  A
 Vorbeifahrt  an  einem  haltzeigenden  Signal  und  zur  Fahrwegprüfung  und  -sicherung 
 thematisiert. 
 Durch die während einer Betriebskontrolle durchzuführenden freien Lehrgespräche sollte ein 
-
 Aufsichtsführender  auch  auf  die  Charakteristik  des  jeweiligen  Arbeitsplatzes  eingehen  und 
-
 hierauf  aufbauend  die  Themen  eines  solchen  freien  Lehrgesprächs  bestimmen.  Dieses 
-
 Vorgehen ist derzeit, mit Ausnahme der durch das EIU festgelegten Pflichtthemen, alleine von 
 individuellen Kenntnissen und Fertigkeiten des Aufsichtsführenden abhängig. Auf diese Weise 
 Seite 50 von 71 
+
  
  
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
 ist nicht anhand von objektiven Maßstäben sichergestellt, dass eine Überwachung möglichst 
 reproduzierbar die arbeitsplatzbezogenen Risiken berücksichtigt. 
@@ -2647,14 +2425,10 @@ im  EIU  Defizite  bezüglich  eines  vollständig
 risikoorientierten Kompetenzmanagements bestehen. Dieser Umstand wurde durch die BEU 
 als systemischer Faktor [2b] gewertet. 
 4.3.2  Beteiligte	der	EVU	
-
 Im Folgenden wird auf die Qualifikation und medizinische Tauglichkeit des am Ereignis für das 
-
 EVU Crossrail N.V. beteiligten Tf des DGS 42593 eingegangen.  
 Der  Tf  war  im  Besitz  eines  gültigen  EU-Führerscheins,  der  am  14.05.2018  von  der 
-
 Triebfahrzeugführerscheinstelle  des  EBA  ausgestellt  worden  und  bis  zum  13.05.2028  gültig 
-
 war.  Von  dem  verantwortlichen  EVU  Crossrail  Benelux  N.V.  erhielt  er  eine 
 Zusatzbescheinigung  der  Klassen  A 
 (Rangierfahrten)  und  B 
@@ -2671,19 +2445,17 @@ Nachweise  über  regelmäßige  Fortbildungen  und  Überwachungsfahrten  liege
 und waren ohne Auffälligkeiten. 
 In der Arbeitsschicht der Ereignisnacht wurden die Arbeits- und Ruhezeiten eingehalten. Die 
 letzte  Arbeitsschicht  des  Tf  vor  dem  Ereignis  endete  am  16.11.2022  um  13:44  Uhr.  Am 
-
 17.11.2022  begann  seine  Arbeitsschicht  um  02:50  Uhr.  Seine  Ruhezeit  vor  Dienstantritt 
-
 umfasste somit 13 Stunden. 
-4.4  Feedback‐	und	Kontrollmechanismen	
+4.4  Feedback-	und	Kontrollmechanismen	
 In diesem Kapitel wird insbesondere auf Bedingungen, Feedback- und Kontrollmechanismen 
-
 im  Eisenbahnsystem  eingegangen,  denen  ein  aktiver  Einfluss  auf  die  Entstehung  ähnlicher 
-
 Seite 51 von 71 
+
  
  
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
 Ereignisse zugeschrieben werden könnte. Diese Mechanismen schließen Faktoren des Risiko- 
 und Sicherheitsmanagement sowie Überwachungsverfahren mit ein. 
@@ -2697,17 +2469,12 @@ schwindet  und  das  Risiko  nicht
 vorschriftengerechten Handelns steigt. Gemäß Kap. 2.1.1 e) i. V. m. Kap. 2.3.2 vorgenannter 
 Verordnung müssen hierfür die notwendigen Ressourcen zur Verfügung gestellt werden. 
 Entsprechend  Verordnung  (EU)  2018/762  Anhang  II  Punkt  4.2.1  sind  Mitarbeitern  mit 
-
 sicherheitsrelevanten  Aufgaben  die  notwendigen  Kompetenzen  zu  vermitteln.  Diese  sind 
-
 gemäß  Punkt  4.2.1  der  Verordnung  vorab  im  SMS  zu  definieren,  sowie  ihr  Vorliegen  zu 
 bewerten und ihre Erhaltung ist dauerhaft sicherzustellen. Ergänzend ist gemäß Punkt 4.2.2 
 regelmäßig und nachweislich zu schulen. Dies bedeutet auch, dass sie erstmals ausreichend 
-
 vorliegen  vor  Zuweisung  einer  Tätigkeit.  Nach  § 54 Abs. 1  EBO  sind  Betriebsbeamten  die 
-
 Kenntnisse  und  Fertigkeiten  zu  vermitteln,  die  sie  zur  ordnungsgemäßen  Ausübung  ihres 
-
 Dienstes befähigen. Nach § 54 Abs. 2 EBO haben sich die Eisenbahnen durch Prüfungen oder 
 in sonst geeigneter Weise vor dem Einsatz vom Vorhandensein der geforderten Kenntnisse 
 und Fertigkeiten zu überzeugen.  
@@ -2718,35 +2485,27 @@ Handlungssicherheit auf individueller Ebene können daneben nicht ausgeschlossen
 Die DB Netz AG teilte auf Nachfrage der BEU mit, dass die sogenannten „Prüfblicke“ wie sie 
 zum  Beispiel  im  Rahmen  der  Durchführung  der  Erp  erforderlich  sind,  Bestandteil  der 
 Ausbildung zum EiB F seien. Zudem werden den Fdl die nötigen Bedienungen und Prüfungen 
-
 für die sichere Anzeige in der Ril 482.2013 Abschnitt 4 und Ril 482.2013 Z31 vorgegeben. Das 
-
 EIU teilte weiter mit, dass in den entsprechenden Schulungen zum Bediener von LZB-Zentralen 
-
 die  Vermittlung  der  Kenntnisse  der  Prüfblicke  ein  fester  Bestandteil  vor  dem  Einsatz  des 
-
 Stellwerkpersonals seien. 
 Seite 52 von 71 
+
  
  
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
 Die  BEU 
 stellte 
 in  den  Untersuchungen 
 fest,  dass  Verbesserungsbedarf  der 
 Handlungssicherheit eines Fdl bei der Erp besteht [S2a]. 
-
 Bei einer Erp soll der betroffene Blockabschnitt, der ggf. aus mehreren Teilblockabschnitten 
-
 besteht, durch einen Fdl vollständig identifiziert und das Freisein fehlerfrei bewertet werden. 
-
 Diese Prozedur des Identifizierens aller maßgeblichen Zugfolgeabschnitte muss das richtige 
-
 Ergebnis  mit  zukünftig  höherer  Sicherheit  liefern.  Zum  Treffen  dieser  Feststellung  müssen 
-
 einem  Fdl  die  hierfür  notwendigen  Kenntnisse  systematisch  sicher  vermittelt  und  durch 
-
 geeignete Maßnahmen aufrechterhalten werden. 
 Seitens  des  EIU  bestanden  keine  für  die  handelnden  Funktionen  unterstützenden, 
 risikomindernden Vorgaben  
@@ -2774,9 +2533,11 @@ betriebliche  Situationen  des  Stellwerkspersonals  dienen.  Die  sogenannten
 freien 
 Lehrgespräche wurden laut der vorliegenden Dokumentation des EIU 20 Mal innerhalb der 
 Seite 53 von 71 
+
  
  
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
 regelmäßigen  Betriebskontrollen  zwischen  dem  Bezirksleiter  Betrieb  und  der  Fdl-in 
 durchgeführt und fanden ohne Bezug zu LZB-spezifischen Themen statt [S2b]. Bezüglich der 
@@ -2810,27 +2571,21 @@ gemäß Ril 046.3000. Er absolvierte der Ril 046.2841 entsprechend die praktisch
 zum Bezirksleiter Betrieb. Seine Prüfung legte er am 10.11.2020 erfolgreich ab und war ab 
 13 Schreiben DB Netz AG an die BEU 
 Seite 54 von 71 
+
  
  
                                                        
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
-
 diesem  Zeitpunkt  als  Bezirksleiter  Betrieb  für  das  Stellwerk  Fallersleben  im  Einsatz  und  in 
-
 dieser Funktion auch für die Durchführung der Betriebskontrollen der Fdl verantwortlich. 
-
 Die  BEU  stellte  als  Ergebnis  der  Untersuchung  zu  den  Beteiligten  des  EIU  fest,  dass  die 
-
 vorgelegte  Dokumentation  zu  den  durchgeführten  Betriebskontrollen  der  Fdl-in  nicht  die 
-
 typischen  betrieblichen  Besonderheiten  des  Bedienplatzes  Fallersleben  berücksichtigten 
-
 [S2b]. Bezüglich des Themenkomplexes der LZB fanden in den Jahren von 2020 bis 2022 weder 
 freie  Lehrgespräche  noch  (praktische)  Übungen  oder  Schulungen,  z.  B.  an  einer 
-
 Simulationsanlage, statt. Die Inhalte der freien Lehrgespräche können, laut Vorgaben der Ril 
-
 412.9111, mit Ausnahme der seitens des EIU festgelegten Schwerpunktthemen, durch einen 
 Bezirksleiter  Betrieb  eigenverantwortlich  ausgewählt  werden.  Somit  ist  die  Auswahl  der 
 Themen  für  ein  freies  Lehrgespräch  derzeit  eine  eigenverantwortliche  Transferleistung  des 
@@ -2851,53 +2606,57 @@ den Arbeitsgebietsleiter Fahrdienst der Betriebszentrale erfolgt. Im Rahmen dies
 Betriebskontrollen begleitet. Zudem erfolgt eine sekundäre Überwachung durch den 
 Eisenbahnbetriebsleiter der Region. Diese Überwachung erfolgt alle drei Jahre und 
 beinhaltet u. a. den Besuch eines betreuten Stellwerks, die Überprüfung der 
-durchzuführenden Überwachungs‐ und Kontrolltätigkeiten, die Sichtung der relevanten 
+durchzuführenden Überwachungs- und Kontrolltätigkeiten, die Sichtung der relevanten 
 Richtlinien und Unterlagen sowie ein Abschlussgespräch.“14 
 In  Bezug  auf  den  zum  Ereigniszeitpunkt  verantwortlichen  Bezirksleiter  Betrieb  konnte  die 
 Durchführung dieses beschriebenen Verfahrens nicht nachgewiesen werden, folglich wurden 
 durch das EIU keine Korrekturmaßnahmen eingeleitet. 
 14 Schreiben der DB Netz AG an die BEU 
 Seite 55 von 71 
+
  
  
                                                        
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
-4.4.2  Monitoring	der	LZB‐Übertragungsausfälle	
+4.4.2  Monitoring	der	LZB-Übertragungsausfälle	
 Die DB Netz AG teilte der BEU bezüglich der Zuverlässigkeit der LZB-Datenübertragung mit, 
 dass  
-„der Erhalt der Zuverlässigkeit der LZB‐Datenübertragung (zwischen Strecke und 
-Fahrzeug) im SMS dem Prozess I.01.01 „Instandsetzungs‐, Inspektions‐ und 
-Wartungsmaßnahme durchführen“ zugeordnet ist. Die turnusmäßige Inspektion der LZB‐
+„der Erhalt der Zuverlässigkeit der LZB-Datenübertragung (zwischen Strecke und 
+Fahrzeug) im SMS dem Prozess I.01.01 „Instandsetzungs-, Inspektions- und 
+Wartungsmaßnahme durchführen“ zugeordnet ist. Die turnusmäßige Inspektion der LZB-
 Streckeneinrichtung gewährleistet die streckenseitigen Voraussetzungen für eine 
-zuverlässige Übertragung der LZB‐Daten zum Fahrzeug. Gegenstand der Überprüfung des 
-Übertragungsweges LZB‐Linienleiter – LZB‐Zentrale sind dabei insbesondere die 
+zuverlässige Übertragung der LZB-Daten zum Fahrzeug. Gegenstand der Überprüfung des 
+Übertragungsweges LZB-Linienleiter – LZB-Zentrale sind dabei insbesondere die 
 Maßnahmen gemäß Ril 892.9307V10 lfd. Nummern 24 bis 28.“ 
 Die Beurteilung des Anlagenzustandes wird im Rahmen der Inspektion durch die 
 anlagenverantwortliche Stelle durchgeführt.  
-Für die Anzahl an LZB‐Übertragungsausfälle ist kein konkreter Zielwert als „erträgliches 
-Maß“ definiert. Im LZB‐System werden sehr wohl Übertragungsausfälle mit Angabe des 
+Für die Anzahl an LZB-Übertragungsausfälle ist kein konkreter Zielwert als „erträgliches 
+Maß“ definiert. Im LZB-System werden sehr wohl Übertragungsausfälle mit Angabe des 
 Ereignisortes und der Fahrzeugnummer erfasst. Allerdings kann bei den klassischen 
 Übertragungsausfällen nicht immer eine klare Zuordnung des Fehlers zum konkreten 
 Verursacher vorgenommen werden. Es ist somit bei Übertragungsausfällen nicht immer 
 ersichtlich, ob der Verursacher die streckenseitige Infrastruktur oder das Fahrzeug ist. 
-Neben den damit einhergehenden Schwierigkeiten, überhaupt aussagefähige Ist‐Werte 
+Neben den damit einhergehenden Schwierigkeiten, überhaupt aussagefähige Ist-Werte 
 abzuleiten, ergeben sich aus den bereits oben geschilderten Parametern 
 - 
-Streckenseitige LZB‐Ausrüstung 
--  Betriebsprogramm (Anteil LZB‐geführter Zugfahrten) 
--  Abweichungen zwischen Soll‐ und Istfahrplanlagen der Zugfahrten 
-Schwierigkeiten, geeignete Soll‐Werte, z. B. mit Bezug auf gefahrene LZB‐Zugkilometer 
+Streckenseitige LZB-Ausrüstung 
+-  Betriebsprogramm (Anteil LZB-geführter Zugfahrten) 
+-  Abweichungen zwischen Soll- und Istfahrplanlagen der Zugfahrten 
+Schwierigkeiten, geeignete Soll-Werte, z. B. mit Bezug auf gefahrene LZB-Zugkilometer 
 o. ä., zu definieren. Durch das regelmäßige Auswerten von Auffälligkeiten in den DAG und 
-den damit einhergehenden Maßnahmen zur Fehleranalyse und ‐beseitigung hat sich für 
+den damit einhergehenden Maßnahmen zur Fehleranalyse und -beseitigung hat sich für 
 die DB Netz AG in der Vergangenheit kein Bedarf ergeben, konkrete Zielwerte zu 
 definieren und zu monitoren.“15 
 15 Schreiben DB Netz AG an die BEU 
 Seite 56 von 71 
+
  
  
                                                        
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
 Die  Einschätzung,  ob  eine  Häufung  von  LZB-Übertragungsausfällen  vorliegt,  beruhte  im 
 vorgefundenen  Prozess 
@@ -2908,15 +2667,10 @@ zuständigen,
 anlagenverantwortlichen  Stelle.  Es  oblag  bislang  mithin  der  Einzeleinschätzung  eines 
 zuständigen  Anlagenverantwortlichen  zu  definieren,  was  das  kritische  Maß  der  LZB-
 Übertragungsausfälle in seinem Zuständigkeitsbereich darstellte. Eine Spiegelung der durch 
-
 diese  Stelle  erhobenen  Daten  an  einem  vom  verantwortlichen  Unternehmen  systematisch 
-
 und strukturiert ermittelten Akzeptanzwert im Hinblick auf das zu erhaltende Leistungsniveau 
-
 der  LZB  als  Sachanlage,  sowie  die  systematische  Einordnung  des  Leistungsniveaus  der 
-
 Sachanlage als Funktion für ein Sicherheitsziel auf relevanter Ebene waren hingegen nicht zu 
-
 beobachten. Grundsätzlich würde eine durchgängige Herangehensweise dem Verständnis der 
 BEU  hinsichtlich  der  Verordnung  (EU)  2018/762,  Anhang  II,  Punkte  3.2.1  und  3.2.2  sowie 
 5.2.2a) entsprechen. 
@@ -2926,34 +2680,27 @@ registrierten Protokolldaten hinsichtlich gesamthafter Defizite des LZB-Systems 
 werden. Hierzu konnte durch die BEU eingesehen werden, dass aufgrund der Baureihencodes 
 und  Seriennummern  der  LZB-Fahrzeuggeräte  durchaus  Rückschlüsse  auf  gehäufte, 
 fahrzeugseitige Defizite zu ziehen sind. 
-
 Allerdings ist ein umfangreicheres Einbeziehen aller Beteiligten derzeit dadurch limitiert, dass 
-
 aus  der  Fülle  der  Daten  nicht  systematisch  auf  zu  beteiligende  EVU  und  ECM  geschlossen 
-
 werden  kann.  Nach  Schilderung  des  EIU  müssten  diese  Daten  mit  den  relevanten 
 Marktbeteiligten  zwecks  Analyse  ausgetauscht  werden.  Hierzu  zählen  neben  den  EVU  als 
 Kunden  im  Netzzugang  des  EIU  auch  die  ECM  sowie  die  vielfältigen  Fahrzeug-  und 
 Bordgerätehersteller. 
 Hingegen sollen in den SMS der EIU gemäß Verordnung (EU) 2018/762, Anhang II, Punkt 4.4.1 
 sowie SMS der EVU gemäß Verordnung (EU) 2018/762, Anhang I, Punkte 4.4.1 angemessene 
-
 Kommunikationskanäle  verfügbar  sein,  so  dass  sicherheitsrelevante  Informationen  mit 
-
 externen Beteiligten, einschließlich Auftragnehmern, Partnern und Zulieferern bzw. anderen 
 Akteuren ausgetauscht werden. 
-
 Entsprechend  übereinstimmend  sollen  für  die  Managementfunktion  der  ECM  gemäß 
-
 Verordnung  (EU)  2019/779,  Anhang  II,  Punkt  7.1,  Berichtswege  festgelegt  sein,  damit 
 Seite 57 von 71 
+
  
  
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
-
 sichergestellt  ist,  dass  innerhalb  der  Stelle  selbst  und  in  ihren  Transaktionen  mit  anderen 
-
 Akteuren  einschließlich  Infrastrukturbetreibern,  Eisenbahnverkehrsunternehmen,  Haltern 
 sowie Konstrukteuren und Herstellern von Fahrzeugen oder Komponenten auf prompte und 
 eindeutige  Weise 
@@ -2961,9 +2708,7 @@ Informationen  über  alle  einschlägigen  Prozesse  ordnungsgemäß
 ausgetauscht oder vorgelegt werden. 
 Im betrachteten Fall lagen Informationen über Fehlerzustände in Bezug zu Fahrzeugsystemen 
 im Rahmen technisch erzeugter Protokolldaten beim EIU DB Netz AG vor. Diese Daten hätten 
-
 verknüpft  mit  Daten  zum  Fahrzeugeinsatz  des  EVU  Crossrail  Benelux  N.V.  zu  Zwecken  der 
-
 Untersuchung  des  LZB-Übertragungsausfalls  und  einer  Verbesserung  des  Fahrzeugdesigns 
 oder der Fahrzeuginstandhaltung durch den Halter Alpha Trains Luxembourg S.à r.l. oder die 
 ECM Alstom Belgium sa dienen können. 
@@ -2977,9 +2722,7 @@ Der  BEU  sind  aus  der  Vergangenheit  ähnliche  Fälle,  in  denen  eine  Er
 unzureichend durchgeführt wurde, bekannt. 
 Am 09.02.2016 kollidierten die beiden Züge DPN 79505 und DPN 79506 zwischen den Bf Bad 
 Aibling und Kolbermoor. Die Zugkollision war auf mehrere betriebliche Fehlhandlungen des 
-
 Fdl  bei  der  Abwicklung  der  Fahrten  auf  Ersatzsignal  (Zs  1)  zurückzuführen,  unter  anderem 
-
 wurde das betriebliche Regelwerk zur Durchführung der Erp nicht korrekt angewandt. 
 Am 05.12.2017 kollidierte der Personenzug DPN 32547 zwischen Abzw Weißenberg und dem 
 Bf  Meerbusch-Osterath  mit  dem  Güterzug  GM  48714.  Der  Personenzug  DPN  32547  wurde 
@@ -2990,24 +2733,26 @@ Das EIU DB Netz AG wertete diese und weitere gefährlichen Ereignisse bis zum Ja
 und  gab  am  20.07.2018 
 in  der  Folge  der  Zugkollision  vom  05.12.2017  zwischen 
 Seite 58 von 71 
+
  
  
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
 Abzw Weißenberg - Bf Meerbusch-Osterath eine BM für Mitarbeiter im Bahnbetrieb –außer 
 für  das  Zugpersonal-  heraus.  Diese  BM  2018-037/B-BW  (A02)  trug  den  Titel  „Zusätzliche 
 Maßnahmen  bei  der  ersten  Zugfahrt 
 im  Übergang  Regelbetrieb  zu  Zugfahrten  mit 
-
 besonderem Auftrag“. Seit der Veröffentlichung lag sie in den Auftragsbüchern der Fdl auf den 
-
 Stellwerken der DB Netz AG aus. 
 Seite 59 von 71 
+
  
  
  
  
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
 5  Schlussfolgerungen	
 Das  folgende  Kapitel  enthält  eine  Zusammenfassung  der  ermittelten  ursächlichen, 
@@ -3020,17 +2765,12 @@ in  diesem  Untersuchungsbericht  dargelegten  Handlungen,  Unterlassungen,
 Vorkommnisse  oder  Umstände  um  den  Ereigniszeitpunkt  herum  führten  zur  Zugkollision 
 zwischen dem Bf Meinersen und dem Hp Leiferde (b Gifhorn). 
 Es wurden zwei ursächliche, drei beitragende und drei systemische Faktoren mit Einfluss auf 
-
 das  Ereignis  durch  die  BEU  ermittelt.  Des  Weiteren  wurden  in  Bezug  auf  Abläufe  im 
-
 Notfallmanagement nach Ereigniseintritt zwei Faktoren herausgestellt. 
-Zu  ursächlichem  Faktor  „LZB‐Übertragungsausfall  bei  Zug  DGS  42593  mit  unbekannter 
+Zu  ursächlichem  Faktor  „LZB-Übertragungsausfall  bei  Zug  DGS  42593  mit  unbekannter 
 technischer Ursache“ [F1]: 
-
 Bei der Entwicklung der LZB wurde eine Sicherheitsreaktion in der LZB implementiert, wonach 
-
 zur Berücksichtigung im Betrieb nicht auszuschließender Einflüsse auf die Funktionen der LZB 
-
 der definierte Zustand „LZB-Übertragungsausfall“ mit Anhalten des Zuges herbeigeführt wird. 
 Dies war im Fall des DGS 42593 zunächst der Fall. Das Herbeiführen eines solchen, technisch 
 definierten  Betriebszustandes  dient  der  kontrollierten  Beachtung  des  in  Kapitel  4.1.1. 
@@ -3047,25 +2787,21 @@ Vorbeifahrt am nächsten Hauptsignal als signalgeführter Zug bei korrekter Anwe
 der Ril 408 festgelegten Regelungen gewährleistet. Damit bleibt auch die Anforderung TSI OPE 
 durchgehend erfüllt. 
 Seite 60 von 71 
+
  
  
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
 Die  Untersuchungen  ergaben,  dass  durch  einen  LZB-Übertragungsausfall  das  durch 
 Automatisierung erreichte, hohe Leistungsniveau der LZB bzgl. sicherer Gewährleistung des 
-
 Abstands zweier Züge punktuell beeinträchtigt sein kann. Dies gilt für Vorkommnisse, in denen 
-
 die  alleinige  Anzeigeführung  durch  die  LZB  aufgrund  technischer  Einflüsse  vorübergehend 
 keine  sichere  Betriebsführung  mehr  zulässt.  Entsprechend  kommt  der  Vermeidung  dieser 
-
 technischen  Einflüsse  auf  das  Leistungsniveau  der  LZB  ebenfalls  eine  Bedeutung  zu,  da  bei 
-
 jedem  Vorkommnis  eines  LZB-Übertragungsausfalls  im  Teilblockmodus  der  Betrieb  in 
 Rückfallebenen und daher vorübergehend im Sicherheitsniveau reduziert fortgeführt wird. 
-
 In  Bezug  auf  das  konkrete  Ereignis  gab  es  nach  Aussage  der  DB  Netz  AG  keine  auffälligen 
-
 Häufungen  von  LZB-Übertragungsausfällen 
 in  dem  als  relevante  Betrachtungseinheit 
 definierten  Systemteils  Grobort  74  und  Feinort  3  des  Kanals  4„Track  67“  bzw.  den  sich 
@@ -3075,13 +2811,9 @@ technischen  Einflüsse  auf  die
 Zugsicherung wurden beim EIU zwar grob automatisch protokolliert. Jedoch konnte bei den 
 Ermittlungen der BEU nicht auf die Umstände des Einzelfalls im Design und Betrieb der LZB-
 Fahrzeugeinrichtung des Tfz des DGS 42593 geschlossen werden. 
-
 Anhand  entsprechender  Codierungen  hätte  eine  vertiefte  Diagnose  unter  Betrachtung  der 
-
 Betriebsparameter  des  Tfz  und  der  Bordsysteme  zur  Zeit  des  LZB-Übertragungsausfalls 
-
 erfolgen  können.  Jedoch  wurden  seitens  des  EVU  und  des  ECM  hierzu  keine  Aktivitäten 
-
 mitgeteilt. 
 Zu 
 systemischem  Faktor 
@@ -3091,29 +2823,24 @@ Leistungsniveau der LZB“ [S1]:
 Die Untersuchungen ergaben, dass dem ursächlichen Faktor „LZB-Übertragungsausfall bei Zug 
 DGS  42593  mit  unbekannter  technischer  Ursache“  [F1]  auch  ein  systemischer  Faktor  [S1] 
 zugeordnet werden kann. Durch einen LZB-Übertragungsausfall wird das Leistungsniveau der 
-
 LZB beeinträchtigt. Die Fortführung des Betriebs erfolgt vorübergehend in der Rückfallebene 
-
 signalgeführter Züge und verlangt eine erhöhte Beteiligung des Menschen zur Regelung des 
 sicheren Abstands zweier Züge. Entsprechend steigt das Risiko von gefährlichen Ereignissen. 
-
 Auf  die  Eintrittswahrscheinlichkeit  kann  jedoch  eingewirkt  werden,  wenn  bereits  aus 
-
 vorliegenden  Erkenntnissen  zu  LZB-Übertragungsausfällen  auf  eine  Verbesserung  der 
 Seite 61 von 71 
+
  
  
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
 Instandhaltung  oder  das  Design  bzw.  die  Integration  der  LZB-Komponenten 
 in  die 
 Betriebsmittel hingewirkt wird. 
 Aus den Erläuterungen des EIU im Untersuchungsprozess war zu entnehmen, dass in Richtung 
-
 der  EVU  und  ECM  gegenwärtig  keine  systematisch  betätigten  Kommunikationskanäle 
-
 bestehen, um die fahrwegseitig zur LZB protokollierten Daten zur fahrzeugseitigen Diagnose 
-
 strukturiert und regelmäßig weiterzugeben und zu analysieren. 
 Zwar  wurde  berichtet,  dass  innerhalb  des  Konzerns  Deutsche  Bahn  AG  zwischen  dem  EIU 
 DB Netz AG und den konzerneigenen EVU bzw. deren paralleler Rolle als ECM Erkenntnisse zu 
@@ -3139,13 +2866,13 @@ Luxembourg S.à r.l. teilte mit, „dass die Berichtswege durch das „Master Le
 sowie die „Lease Confirmation“ festgelegt und dokumentiert seien.“ 
 Insgesamt  bleiben  die  Fähigkeiten  der  EVU  und  ECM,  Untersuchungen  zu  LZB-
 Übertragungsausfällen zu leisten bereits beschränkt, wenn beginnend beim EIU und seinen 
-
 Quellen  zu  relevanten  Diagnoseinformationen  kein  Kommunikationskanal  eingerichtet  ist 
-
 Seite 62 von 71 
+
  
  
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
 oder betätigt werden kann. Ein solcher Kanal erscheint aber aufgrund der Anforderungen an 
 das EIU gemäß Verordnung (EU) 2018/762, Anhang II, Punkt 4.4.1 gefordert. 
@@ -3156,9 +2883,7 @@ Beispiele wie vom EIU DB Netz AG hervorgehoben.
 Aufgrund der gesetzlichen Anforderungen an die Sicherheitsorganisation besteht bereits eine 
 Verpflichtung für EIU, EVU und ECM, über entsprechende Kommunikationswege zu verfügen 
 bzw.  Berichtswege  festzulegen.  Die  vorgefundenen  Gegebenheiten  infolge  der  Zugkollision 
-
 zeigen  jedoch,  dass  daraus  möglicher  Informationsprozess  nicht  durchgängig  und  nicht 
-
 umfänglich etabliert ist, obwohl EIU und EVU das System der LZB gemeinsam betreiben und 
 auch der Instandhaltung durch ECM sowie der Design- und Integrationsverbesserung durch 
 Hersteller hierbei eine Bedeutung zukommt. 
@@ -3166,31 +2891,25 @@ Die  BEU  spricht  daher  die  Sicherheitsempfehlung  Nr.  05/2025  aus,  die  g
 obligatorischen Kommunikationskanäle und Berichtswege in den Managementsystemen der 
 EIU,  EVU  und  ECM  auszuprägen  bzw.  zu  verbessern,  mit  dem  Ziel,  durch  alle  Beteiligte 
 gemeinsam die Häufigkeit von LZB-Übertragungsausfällen zu reduzieren. 
-
 Aus  Sicht  der  BEU  erscheint  auch  vorteilhaft,  wenn  die  für  Aufsicht  und  Zulassung  sowie 
-
 Regulierung  zuständigen  Behörden  die  Förderung  eines  sektorweiten  Ansatzes  begleiten, 
 bspw. betreffend den Austausch von Informationen zwischen EIU und EVU sowie Mitwirkung 
 der Hersteller von zugelassenen LZB-Komponenten. 
-
-Zu ursächlichem Faktor „Auftrag zur Weiterfahrt trotz nicht‐Vorliegen der Kriterien der Erp“ 
-
+Zu ursächlichem Faktor „Auftrag zur Weiterfahrt trotz nicht-Vorliegen der Kriterien der Erp“ 
 [F2]: 
 Abgeleitet aus den Untersuchungen stellte sich ebenfalls als ein ursächlicher Faktor für das 
-
 Ereignis  heraus,  dass  die  zuständige  Fdl-in  Fallersleben  West  die  erforderliche  Erp  gemäß 
-
 Ril 408.0241 Abschnitt 4 unzureichend durchführte und dem Güterzug DGS 42593 somit die 
-
 Weiterfahrt in einen noch von zwei weiteren Güterzügen besetzten Blockabschnitt gestattet 
-
 wurde. 
 Die  Untersuchungen  stellten  zu  diesem  ursächlichen  Faktor  zwei  zugehörige  systemische 
 Faktoren [S2a] und [S2b] mit Einfluss auf das Ereignis heraus. 
 Seite 63 von 71 
+
  
  
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
 Zu systemischem Faktor „Handlungssicherheit der Fdl bei der Erp“ [S2a]: 
 Die Untersuchungen ergaben, dass seitens des EIU keine Vorgaben für den Arbeitsablauf im 
@@ -3202,21 +2921,14 @@ richtig transferiert,
 vornimmt. 
 Im  Nachgang  zur  Untersuchung  führte  die  BEU  zu  diesem  Aspekt  Gespräche  mit 
 Fachvorgesetzten des EIU. Dabei kam zum Ausdruck, dass im Unternehmen das Bewusstsein 
-
 über den hohen Stellenwert der richtigen Durchführung einer Erp bestand. Die Fähigkeit, eine 
-
 Erp  immer  fehlerfrei  durchzuführen  gehöre  zu  den  Grundvoraussetzungen  an  die  Funktion 
-
 eines Fdl. 
 Dennoch könnten die handelnden Menschen beim Transfer der Regeln auf ein individuelles 
 Störungsszenario durch entsprechende Arbeitsprozessgestaltung unterstützt werden, um das 
-
 richtige Feststellen der Kriterien für eine Erp auch unter Stress und Einflüssen wie Müdigkeit 
-
 zuverlässig zu leisten.  Auch sollten die handelnden Menschen anschließend im Arbeitsprozess 
-
 aktiv gelenkt werden, um die Erp erfolgreich durchzuführen, bevor weitere Arbeitsschritte wie 
-
 die Zustimmung zu einer folgenden Fahrt anschließen. 
 Als diesbezügliche Unterstützungen kommen alle Maßnahmen in Betracht, welche die richtige 
 Ausführung und Abfolge eines solchen Arbeitsablaufs verifizieren. Dies können z. B. händisch 
@@ -3224,50 +2936,40 @@ zu
 führende  Checklisten, 
 in  Bedienoberflächen  bereitgestellte 
 Informationen  oder 
-
 implementierte Interaktionen bzw. Erledigungszwänge durch Zeitstempelfunktion  sein. Aus 
-
 Sicht der BEU kann bspw. kein Hinderungsgrund für eine solche Arbeitsprozessverbesserung 
-
 sein,  dass  derartige  Maßnahmen  zur  Verifizierung  der  Richtigkeit  und  Reihenfolge  der 
-
 Arbeitsabläufe  generell  nicht  verwirklicht  werden,  weil  der  unternehmerische  Aufwand  in 
 Bezug auf unterschiedliche Örtlichkeiten oder Stellwerksanlagen zu hoch erscheint oder nicht 
 verallgemeinert werden kann. Mindestens könnten in der nahen Zukunft übliche Bildschirmunterstützte Bedienplätze mit solchen erweiterten Funktionen ausgerüstet werden. 
 Aufgrund der beim EIU wiederholt vorgefundenen Defizite im Kompetenzmanagement [S2b] 
 werden jedoch diese vorrangig zum Gegenstand einer Sicherheitsempfehlung. 
 Seite 64 von 71 
+
  
  
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
 Zu systemischem Faktor „Vollständig risikoorientiertes Kompetenzmanagement“ [S2b]: 
 Die  Untersuchungen  der  BEU  ergaben,  dass  die  Inhalte  der  freien  Lehrgespräche  bei 
 Durchführung  der  Betriebskontrollen  der  Fdl-in  einen  systemischen  Faktor  innerhalb  des 
 Ereignisses darstellten.  
 Nach den Vorgaben des EIU waren Inhalte der Lehrgespräche frei wählbar. Sie orientierten 
-
 sich erkennbar nicht an den hinsichtlich Risiken kritischen Tätigkeiten des Arbeitsplatzes am 
-
 Bedienplatz Fallersleben. Demnach war es im Rahmen der Aufsichtsführung Zufall, ob dieses 
 Instrument  zum  Erkennen  von  Kompetenzdefiziten  erfolgreich  war.  Der  für  Lehrgespräche 
 zuständige  Bezirksleiter  Betrieb  wurde  von  der  laut  Prozess  des  SMS  vorgesehenen  Stelle 
-
 dabei  auch  nicht  bei  der  Arbeitsausführung  überwacht,  so  dass  seitens  des  EIU  auf  keiner 
-
 Ebene Korrekturmaßnahmen eingeleitet werden konnten und auch nicht wurden. 
 In Bezug auf die Durchführung der regelmäßigen Fortbildungen der Fdl-in wurde deutlich, dass 
 die  durchgeführten  Maßnahmen  zum  Training  sicherheitsrelevanter  Handlungsabläufe  am 
 Bedienplatz ohne Bezug zu LZB-spezifischen Themen durchgeführt wurden. 
-
 Durch  diese  Vorgehensweisen  war  durch  das  EIU  nicht  sichergestellt,  dass  die  der  Fdl-in 
-
 grundlegend  vermittelten,  zwingend  erforderlichen  Kenntnisse  und  Fähigkeiten  zur 
 Beherrschung risikoreicher Handlungen am Bedienplatz Fallersleben West entsprechend der 
 Anforderungen der Einordnung ihres Arbeitsplatzes gemäß Ril 412.9111 Abschnitt 4 Abs. 3 in 
-
 die Funktionsstufe „A“ dauerhaft vorhanden waren. Es war in der Organisation des EIU nicht 
-
 sichergestellt, dass rechtzeitig ein Verlust zuvor erlernter Kompetenzen erkannt wurde, um 
 Maßnahmen zu treffen. 
 Gesamthaft ist damit festzuhalten, dass Defizite im Kompetenzmanagement des EIU in Bezug 
@@ -3279,162 +2981,112 @@ vorlagen.
 Gemäß 
 Delegierter 
 Verordnung (EU) 2016/762 Anhang II Kapitel 4.2.1e) sind solche regelmäßigen Bewertungen 
-
 der  Befähigung  sowie  das  Sicherstellen,  dass  Qualifikationen  und  Fähigkeiten  auf  Dauer 
-
 erhalten  bleiben,  Teil  des  Kompetenzmanagements.  Dabei  kommt  dem  Management  der 
-
 Kompetenzen  zur  jederzeit  handlungssicheren  Ausführung  risikoreicher  Tätigkeiten  eine 
-
 besondere Bedeutung zu. Dies betrifft auch wie ersichtlich mehr als nur die direkt vorgesetzte 
-
 Leitungsebene. 
 Seite 65 von 71 
+
  
  
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
 Aufgrund der Feststellungen spricht die BEU die Sicherheitsempfehlung Nr. 04/2025 aus, zur 
 Verstärkung des risikoorientierten Ansatzes in allen Phasen des Kompetenzmanagements die 
 Verfahren  zum  Erhalt  und  Aktualisierung  der  sicherheitsrelevanten  Kenntnisse  und 
 Fertigkeiten arbeitsplatzbezogen zu überprüfen und soweit notwendig zu verbessern. Hierbei 
-
 sind die Tätigkeiten der Mitarbeiter mit sicherheitsrelevanten Funktionen und mit leitenden 
-
 Aufgaben auf allen relevanten Ebenen einzubeziehen. 
 Zu  beitragendem  Faktor  „Darstellung  und  Bezeichnung  des  Streckenbandes  auf  der 
-Lupenansicht des Fdl‐Bedienplatzes“ [F3]: 
-
+Lupenansicht des Fdl-Bedienplatzes“ [F3]: 
 Möglicherweise prüfte die Fdl-in lediglich den nach dem LZB-Übertragungsausfall unmittelbar 
-
 vor  dem  DGS  42593  liegenden  Teilblock  90  auf  Freisein,  anstatt  regelwerkskonform  den 
-
 gesamten vor dem DGS 42593 liegenden Blockabschnitt bis zum Bksig 502 der Üst Leiferde (b 
 Gifhorn) auf Freisein zu überprüfen. Inwieweit die Darstellung des Streckenbandes über die 
-
 Monitorkante  des  Monitors  8  diese  fehlerhafte  Einschätzung  der  Fdl-in  begünstigte,  ist 
-
 spekulativ. Zum Zeitpunkt der Befehlsübermittlung 10 und 10.1 an den Tf des DGS 42593 war 
-
 der  vor  dem  DGS  42593  liegende  Teilblock  90  grün,  somit  frei,  ausgeleuchtet.  Diese 
-
 Identifikation  des  DGS  42593  im  Rahmen  der  Standortmeldung  des  Tf  erfolgte  auf  dem 
-
 Monitor 8 in der aufgeschalteten Lupenansicht „L_HMRS1“. Hätte die Fdl-in ihren Prüfblick im 
-
 Rahmen  der  Erp  über  die  Monitorkante  auf  dem  Monitor  9  in  der  Fortsetzung  des 
-
 Streckenbandes  durchgeführt,  so  hätte  sie  die  rot  ausgeleuchteten  und  somit  belegten 
-
 Blockabschnitte 88 und 86 in der Lupenansicht „L_HLFG“ erkennen können. Auch die doppelte 
 Anordnung  der  Streckenbezeichnung,  überschrieben  mit  „Üst  Leiferde“,  auf  beiden 
 dargestellten Streckenbändern auf den Monitoren 8 und 9 könnte einen „Fehlblick“ der Fdlin in der konkreten Betriebssituation begünstigt haben. 
 Zu  beitragendem  Faktor  „Keine  Einordnung  des  Befehls  10  und  10.1  als  Fahrt  mit 
 besonderem Auftrag innerhalb der Ril 408“ [F4]: 
-
 Die  Übermittlung  des  Befehls  Nr. 10  ohne  Beachtung  der  BM 2018-037/B-BW  (A02)  in  der 
-
 vorliegenden  Situation  des  LZB-Übertragungsausfalls  an  den  Tf  des  DGS  42593  war  nach 
-
 internem  Regelwerk  grundsätzlich  zulässig,  jedoch  an  vorher  zwingend  zu  tätigende 
-
 Prüfkriterien zur Durchführung der Erp gemäß Ril 408 geknüpft. Diese Vorgehensweise hatte 
-
 zur Folge, dass dem Zug DGS 42593 die Weiterfahrt mit 40 km/h über eine Distanz von 2.000 
-
 m durch die Fdl-in gestattet wurde. Eine Anwendung der BM 2018-037/B-BW (A02) hätte das 
-
 Seite 66 von 71 
+
  
  
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
 Fahren auf Sicht erforderlich gemacht und die Chancen erhöht, dass der Tf des DGS 42593 den 
 Zugschluss des DGS 90977 trotz Dunkelheit rechtzeitig hätte wahrnehmen können. 
 Zu beitragendem Faktor „Tf des DGS 42593 setzt seine Fahrt unter Überschreitung der 𝒗𝒎𝒂𝒙 
 fort“ [F5]: 
 Beitragend  auf  die  Vergrößerung  des  Schadensausmaßes  wirkte  die  Überschreitung  der 
-
 zulässigen 𝑣(cid:3040)(cid:3028)(cid:3051) von 40 km/h um 10 km/h durch den Tf. Eine regelkonforme Geschwindigkeit 
-
 von  40  km/h  hätte  möglicherweise  Einfluss  auf  das  Schadensausmaß  im  Rahmen  der 
 Zugkollision gehabt. Genauere Ermittlungen hierzu waren aufgrund des von der BEU gesetzten 
 Schwerpunktes der Untersuchung nicht erforderlich. 
-Zum Verhalten bei Gefahr durch die Fdl‐in [N6]: 
-
+Zum Verhalten bei Gefahr durch die Fdl-in [N6]: 
 Beitragend  auf  Maßnahmen  der  Fremdrettung  war  das  verzögerte  Einleiten  der  weiteren 
-
-Schritte im Notfallmanagement gemäß Ril 42380 durch die Fdl-in Fallersleben West. Die Fdl-
-
-in setzte nach Erhalt der Information über eine Zugkollision durch den Tf des DGS 90977 weder 
-
+Schritte im Notfallmanagement gemäß Ril 42380 durch die Fdl-in Fallersleben West. Die Fdlin setzte nach Erhalt der Information über eine Zugkollision durch den Tf des DGS 90977 weder 
 einen  unmittelbaren  Nothaltauftrag  ab,  noch 
 leitete 
 sie  weitere  Schritte 
 im 
-
 Notfallmanagement  gemäß  Ril 42380  ein.  Stattdessen  versuchte  sie  mehrfach  vergeblich 
-
 Verbindung zu dem Tf des DGS 42593 aufzubauen, insgesamt 14 Mal. Erst um 03:30:07 Uhr, 
-
 ca. vier Minuten nach dem Ereignis, setzte der Fdl Fallersleben Mitte den Nothaltauftrag für 
-
 die Strecke ab und es wurden die weiteren Schritte der Fremdrettung durch die Weitergabe 
-
 der  Meldung  an  die  Notfallleitstelle  der  DB  Netz  AG  in  Hannover  eingeleitet.  Durch  das 
-
 unentschlossene Handeln der Fdl-in nach der Zugkollision wurden die Rettungsmaßnahmen 
-
 mit zeitlicher Verzögerung und nur mit Unterstützung des Fdl Fallersleben Mitte, eingeleitet. 
-
 Zum Verhalten bei Gefahr durch den Tf des DGS 90977 [N7]: 
-
 Wird  ein  Nothaltauftrag  nach  einem  Ereignis  nicht  unverzüglich  abgesetzt,  kann  dies 
-
 Folgeereignisse nach sich ziehen. Die Ril 408.2581 schreibt vor, dass grundsätzlich in eigener 
 Verantwortung  umsichtig  und  entschlossen  alles  getan  werden  muss,  um  eine  Gefahr 
 abzuwenden oder zu mindern.  
 Zwar  drängte  der  Tf  in  der  Folge  des  Ereignisses  entschlossen  auf  das  Einleiten  der 
 notwendigen  Rettungsmaßnahmen  und  war  selbst  gewillt,  dem  Tf  des  hinteren  Zuges 
-
 umgehend erste Hilfe zu leisten. Durch ein sofortiges und korrektes Handeln in Bezug auf das 
-
 Seite 67 von 71 
+
  
  
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
-
 Absetzen des Nothaltauftrages wäre unter Umständen jedoch auch bei der Fdl-in zeitiger ein 
-
 entsprechendes Situationsbewusstsein entstanden. 
 Durch  seine  Beharrlichkeit  gegenüber  der  Fdl-in  wurden  schlussendlich  jedoch  erst  die 
-
 weiteren Schritte im Notfallmanagement des EIU angestoßen. Da es ihm in Folge der örtlichen 
-
 Umstände nach dem Ereignis selbst nicht möglich war, dem Tf des DGS 42593 erste Hilfe zu 
 leisten, wählte er die Nummer des Polizeinotrufes „110“ um das Ereignis mitzuteilen und auf 
 diesem Wege selbst Rettungsmaßnahmen einzuleiten. 
 5.2  Seit	dem	Ereignis	getroffene	Maßnahmen	
 Die zum Ereigniszeitpunkt zuständige Fdl-in wurde nach dem  Ereignis nicht mehr als Fdl-in 
 eingesetzt. 
-
 Die  DB  Netz  AG  teilte  weiterhin  mit,  dass  die  Dokumentationen  der  Fdl  auf  dem  Stellwerk 
-
 Fallersleben nach dem Ereignis über einen rückliegenden Zeitraum von ca. zwei Monaten zum 
 Thema  LZB-Übertragungsausfälle  per  Querprüfung  der  betrieblichen  Unterlagen  auf  dem 
-
 Stellwerk  intensiv  überprüft  wurde.  Hierbei  wurden  auch  einige  Unregelmäßigkeiten,  das 
-
 nicht vollständig regelkonforme Handeln der Fdl betreffend, festgestellt. Ob die DB Netz AG 
-
 die  Ergebnisse  dieser  Betriebskontrollen  zum  Anlass  nahm,  künftig  auch  LZB-spezifische 
-
 Themen in den Betriebskontrollen aufzugreifen wurde nicht bekannt. 
 Durch die DB Netz AG, Regionalbereich Nord, wurde nach dem Ereignis am 18.11.2022 ein 
-
 Dienstauftrag erstellt, der die Einhaltung der entsprechenden Regelungen der Ril 408 bei LZB-
-
 Übertragungsausfällen fordert. Zudem wurden alle Fdl des ESTW Fallersleben zum Thema LZB-
 Übertragungsausfall einzeln nachgeschult. 
 Nicht bekannt wurde, ob sich das EIU zwischenzeitlich über den Regionalbereich Nord hinaus 
@@ -3442,22 +3094,19 @@ zu  vergleichbaren  Verbesserungen  an  den  Prozessen  zur  Auswertung  von  LZ
 Übertragungsausfälle  im  Teilblock  und  verstärkter  Überwachung  des  Stellwerkspersonals 
 entschlossen hat. 
 Nach Überprüfung von schriftlichen Weisungen des EIU gemäß § 47 Abs. 4 EBO in Form der 
-
 Regeln für Zugfahrten mit besonderem Auftrag gemäß Ril 408.0455 Abschnitt 1 Absatz 1 erließ 
-
 das  EBA  mit  Bescheid  Gz.  58411-333an/008-1438#007  vom  13.09.2023  eine 
 gefahrenabwehrrechtliche Anweisung gemäß § 5a Abs. 2 S. 1 AEG. 
 Seite 68 von 71 
+
  
  
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
 Mit diesem Bescheid wurde durch das EBA angeordnet, dass die Tabelle des Regelwerks der 
-
 DB  Netz  AG  in  der  Richtlinie  Modul  408.0455  Abschnitt  1  Abs.  1  um  den  „Befehl  10“  für 
-
 anzeigegeführte  Züge  in  LZB  ergänzt  wird.  Weiterhin  wurde  angeordnet,  dass  die  Fdl  über 
-
 diese  Ergänzung  mit  Verweis  auf  die  BM  2018-037/B-BW  (A02)  bis  drei  Monate  nach 
 Bekanntgabe des Bescheids zu unterweisen sind. 
 Die  DB  Netz  AG  bestätigte  am  12.10.2023  die  Umsetzung  dieser  Anordnung  und  die 
@@ -3471,9 +3120,7 @@ anzeigegeführten Zuges ist nach Übertragungsausfall und Zustimmung durch Befeh
 Zugfahrt mit besonderem Auftrag technologisch gleichzusetzen. Hierdurch wird in betrieblich 
 ähnlichen Szenarien eine Reduzierung eines möglichen Schadensausmaßes durch vorsorgliche 
 Maßnahmen gleichwertig angewendet. 
-
 Das  EVU  LOCON  Logistik  &  Consulting  AG  teilte  der  BEU  mit,  dass  im  Rahmen  der  ersten 
-
 Untersuchungen am Ereignisort der Sachverhalt der verzögerten Abgabe des Notrufes durch 
 den Tf des DGS 90977 bekannt wurde. Dies wurde seitens des EVU zum Anlass genommen, 
 das  Thema  „Verhalten  bei  Gefahr“  als  Sonderthema  in  die  bereits  geplante  jährliche 
@@ -3483,16 +3130,16 @@ Meinersen und dem Hp Leiferde (b Gifhorn) in der fallbezogenen Darstellung der k
 Handlungsweise bei Gefahr.  
 5.3  Zusätzliche	Bemerkungen	
 Bei der Untersuchung der betrieblichen Abläufe des DGS 42593 wurde festgestellt, dass der 
-
 Tf  durch  die  Eingabe  des  Wertes  100  als  VMZ  in  den  Zugdaten  die  Geschwindigkeit  seines 
-
 Zuges abweichend zum Fahrplan um 10 km/h erhöhte. Diese Einstellung hatte zur Folge, dass 
 in  den  anzeigegeführten  Bereichen  der  Zugfahrt  die  zulässige  Höchstgeschwindigkeit  des 
 Zuges  mit  einer  Geschwindigkeit  von  100  km/h  überschritten  wurde.  Auch  nach  dem 
 Seite 69 von 71 
+
  
  
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
 Fortsetzen der Zugfahrt mit Befehlserhalt nach dem LZB-Übertragungsausfall überschritt der 
 Tf die dann zulässige Geschwindigkeit von 40 km/h wiederum um 10 km/h. 
@@ -3509,11 +3156,13 @@ Telefonieren ohne Freisprecheinrichtungen untersagt ist, wäre zu prüfen, ob di
 der Fdl, in sinngemäßer Anwendung des § 23 Abs. 1 StVO, mit Headsets ausgerüstet werden 
 sollten. 
 Seite 70 von 71 
+
  
  
  
  
 Untersuchungsbericht 
+
 Zugkollision, 17.11.2022, Bf Meinersen – Hp Leiferde (b Gifhorn) 
 6  Sicherheitsempfehlungen	
 Gemäß  § 6 EUV  und  Art. 26  Abs. 2  der  Richtlinie  (EU) 2016/798  ergehen  nachfolgende 
@@ -3522,8 +3171,10 @@ Lfd.
 Nr. 
 Adressat und Sicherheitsempfehlung 
 Betrifft Unternehmen 
+
 DB Netz AG (umfirmiert 
 zu DB InfraGO AG) 
+
 04/2025 
 Sicherheitsbehörde: 
 
@@ -3548,16 +3199,21 @@ Kommunikationskanäle und Berichtswege in den
 Managementsystemen der EIU, EVU und ECM 
 auszuprägen bzw. zu verbessern, mit dem Ziel, 
 durch alle Beteiligte gemeinsam die Häufigkeit von 
-LZB‐Übertragungsausfällen zu reduzieren. 
+LZB-Übertragungsausfällen zu reduzieren. 
 
 (Betreffend 
+
 EVU: Verordnung (EU) 2018/762, Anhang I, Punkt 
 4.4.1; 
+
 EIU: Verordnung (EU) 2018/762, Anhang II, Punkt 
 4.4.1; 
+
 ECM: Verordnung (EU) 2019/779, Anhang II, Punkt 
 7.1) 
+
 Seite 71 von 71 
+
  
  
  

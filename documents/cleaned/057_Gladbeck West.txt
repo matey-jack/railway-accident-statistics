@@ -100,7 +100,9 @@ Untersuchung der Infrastruktur .................................................
 
 Untersuchung der Leit- und Sicherungstechnik................................................... 15
 
+
  1 
+
  1.1 
  1.2 
  1.3 
@@ -119,13 +121,16 @@ Untersuchung der Leit- und Sicherungstechnik....................................
 4.4.1 
 Stellwerk ESTW-A Gelsenkirchen-Buer Nord...................................................... 15
 
+
 4.4.2 
 
 PZB-Streckeneinrichtung..................................................................................... 17
 
 
  4.5 
+
 Untersuchung der betrieblichen Handlungen ...................................................... 17
+
 
 4.5.1 
 
@@ -133,10 +138,14 @@ Betriebliche Handlungen des Fdl.................................................
 
 
 4.5.2 
+
 Betriebliche Handlungen des Tf von Zug XP 63174 ............................................ 18
 
+
 4.5.3 
+
 Betriebliche Handlungen des Tf von Zug DGS 89025......................................... 21
+
 
  4.6 
 
@@ -154,6 +163,7 @@ Triebfahrzeug  203 162..........................................................
 
 
 Version:  1.0 
+
 Seite 3 von 39 
 
  
@@ -161,6 +171,7 @@ Seite 3 von 39
  
  
  
+
  
  
  
@@ -195,9 +206,9 @@ Seite 3 von 39
  
  
 Untersuchungsbericht 
+
 Zugkollision,  26.10.2013,  Gladbeck West 
 4.6.3 
-
 Der Wagenzug 89025.......................................................................................... 31
 
 
@@ -207,6 +218,7 @@ Interpretation der Unfallspuren ................................................
 
 
 5 
+
 6 
 7 
 Auswertung und Schlussfolgerungen ............................................................. 35
@@ -219,12 +231,14 @@ Sicherheitsempfehlungen.........................................................
 
 
 Version:  1.0 
+
 Seite 4 von 39 
 
  
  
  
  
+
  
  
  
@@ -237,9 +251,9 @@ Seite 4 von 39
  
  
 Untersuchungsbericht 
+
 Zugkollision,  26.10.2013,  Gladbeck West 
 Abbildungsverzeichnis: 
-
 Abb. 1: Aufnahmen von der Unfallstelle ...................................................................................9
 
 
@@ -301,7 +315,14 @@ Abb. 20: Luftabsperrhahn Wagen 2 ...............................................
 
 
 Version:  1.0 
+
 Seite 5 von 39 
+
+ 
+ 
+ 
+ 
+ 
 
  
  
@@ -321,12 +342,8 @@ Seite 5 von 39
  
  
  
- 
- 
- 
- 
- 
 Untersuchungsbericht 
+
 Zugkollision,  26.10.2013,  Gladbeck West 
 Abkürzungsverzeichnis 
 AEG 
@@ -389,8 +406,10 @@ Seite 6 von 39
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugkollision,  26.10.2013,  Gladbeck West 
 PZB 
 SB 
@@ -415,8 +434,10 @@ Seite 7 von 39
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugkollision,  26.10.2013,  Gladbeck West 
 1 
 Zusammenfassung 
@@ -429,18 +450,14 @@ dann mit den letzten 6 Wagen des aus der Gegenrichtung einfahrenden Zuges XP 631
 EVU: RBH Logistics GmbH. 
 1.2 
 Folgen 
-
 Der  Triebfahrzeugführer  (Tf)  von  Zug  89025  wurde  bei  dem  Unfall  schwer  verletzt.  An  den 
-
 Fahrzeugen  beider  Züge,  an  Bahnanlagen  und  an  den  Einrichtungen  der  Leit-  und  Sicherungstechnik  (LST)  entstanden  erhebliche  Sachschäden.  Die  Höhe  der  gesamten  Sachschäden  wurde  zum  Zeitpunkt  der  Berichterstellung  von  den  beteiligten  Eisenbahnunternehmen auf ca. 2,2 Mio. Euro geschätzt. 
 1.3 
 Ursachen 
 Zug DGS 89025 fuhr aufgrund ungenügender Bremswirkung am Halt zeigenden Asig 50 P2 
 vorbei. Die ungenügende Bremswirkung ist auf einen geschlossenen Luftabsperrhahn in der 
 Hauptluftleitung (HLL - Luftversorgungs- und Steuerleitung der Zugbremse) zurückzuführen. 
-
 Die  zur  Verfügung  stehende  Bremskraft  reichte  nicht  aus,  den  Zug  weder  vor  dem  Signal, 
-
 noch vor dem eigentlichen Gefahrpunkt, dem Ende des Durchrutschweges am Grenzzeichen 
 der Weiche 3, anzuhalten. 
 Version:  1.0 
@@ -450,8 +467,10 @@ Seite 8 von 39
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugkollision,  26.10.2013,  Gladbeck West 
 Abb. 1: Aufnahmen von der Unfallstelle 
 Version:  1.0 
@@ -462,8 +481,10 @@ Seite 9 von 39
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugkollision,  26.10.2013,  Gladbeck West 
 2 
 Vorbemerkungen 
@@ -510,9 +531,7 @@ Gegen 09:20 Uhr verließ der Zug die Anschlussbahn CWH und fuhr zunächst auf di
 98 km/h.  Die  Einfahrt  nach  Gleis  2  wurde  durch  den  örtlich  zuständigen  Fahrdienstleiter 
 (özF) durch Fahrtstellung des Einfahrsignals 50F (Ks1) zugelassen. Nach der Einfahrt in den 
 Bahnhof  passierte  der  Zug  das  Ausfahrvorsignal  Avsig  50Vp2,  das  dem  Tf  „Halt  erwarten“ 
-
 (Ks2)  signalisierte.  Der  Tf  des  DGS  89025  leitete  eine  Betriebsbremsung  ein,  stellte  dann 
-
 aber offensichtlich fest, dass die gewünschte Bremswirkung nicht eintrat. Daraufhin leitete er 
 eine Schnellbremsung ein, deren Wirkung jedoch sehr gering war. Der Zug verlangsamte nur 
 mäßig seine Geschwindigkeit. Die im Folgenden durch die PZB-Fahrzeugeinrichtung einsetzende Zwangsbremsung konnte ebenfalls keine Erhöhung der Bremskraft bewirken. Der Zug 
@@ -523,9 +542,7 @@ Fahrtstellung des Esig 50A (Ks2) zugelassen. Zug 63174 durchfuhr den Weichenbere
 westlichen Bahnhofskopfs mit einer Geschwindigkeit von ca. 40 km/h auf 30 km/h fallend. 
 Auf der Weiche 3 kreuzten sich die Fahrwege beider Züge. Da es dem Tf des 89025 nicht 
 gelang,  seinen  Zug  noch  vor  dem  Ende  des  Durchrutschweges  anzuhalten,  kollidierte  das 
-
 Tfz  seines  Zuges  im  Bereich  der  Weiche  3  bei  einer  Geschwindigkeit  von  ca.  42  km/h  mit 
-
 den letzten sechs Wagen des XP 63174.  
 Version:  1.0 
 Seite 11 von 39 
@@ -534,8 +551,10 @@ Seite 11 von 39
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugkollision,  26.10.2013,  Gladbeck West 
 Abb. 2: Lageplan 
 Quelle: IVL-Plan DB Netz AG bearbeitet durch EUB 
@@ -544,9 +563,7 @@ Abb. 3: Lageskizze
 Todesopfer, Verletzte und Sachschäden 
 Der Tf des Zuges DGS 89025 sprang kurz vor der Kollision von seinem Tfz ab und verletzte 
 sich dabei schwer. 
-
 Infolge  der  Kollision  entgleiste  das  Tfz  203  162,  der  erste  Kesselwagen  stürzte  um,  der  2. 
-
 Wagen entgleiste, stellte sich quer und geriet in leichte Schräglage. Der 3. Wagen entgleiste 
 ebenfalls. Gefahrgut trat aus den leeren, ungereinigten Kesselwagen nicht aus. Von dem aus 
 der  Gegenrichtung  einfahrenden  Zug  XP  63174  wurden  die  letzten  sechs  Wagen  (Fals Version:  1.0 
@@ -557,15 +574,14 @@ Seite 12 von 39
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugkollision,  26.10.2013,  Gladbeck West 
 Wagen  beladen  mit  Kohlenstaub)  sehr  stark  beschädigt.  Dabei  wurden  an  den  Wagen  19 
-
 bis  21  die  Ladeklappen  rechtsseitig  auf-  und  teilweise  abgerissen.  Die  Wagen  22  und  23 
-
 entgleisten  und  stürzten  um.  Der  am  Schluss  laufende  24.  Wagen  entgleiste  ebenfalls  und 
-
 geriet in Schräglage. Es traten große Mengen des Ladeguts aus. 
 Durch  umherliegende  Fahrzeuge,  verschüttete  Ladung  und  teils  erhebliche  Schäden  am 
 Oberbau und an den LST-Anlagen, war der gesamte Westkopf des Bahnhofs über mehrere 
@@ -623,9 +639,7 @@ Seite 13 von 39
 Untersuchungsbericht 
 Zugkollision,  26.10.2013,  Gladbeck West 
 während der Einfahrt in den Bahnhof den im Gleis 2 einfahrenden Zug bemerkt habe. Dabei 
-
 hatte  er  den  Eindruck,  dass  der  auf  das  Asig  50P2  zufahrende  Zug  zu  schnell  sei.  Seine 
-
 Handzeichen an den Tf des Gegenzuges seien, wie auch das Signal Zp 1, offensichtlich unbeachtet geblieben. 
 4.2 
 Notfallmanagement 
@@ -645,16 +659,13 @@ elektrifizierten  Hauptbahn  Oberhausen-Osterfeld  West  −  Hamm  Pbf  (Streck
 Strecke  ist  mit  PZB-Einrichtungen  und  Zugfunk  ausgestattet.  Bremswege  bis  1.000  m  sind 
 zulässig. 
 Im Bahnhof zweigt außerdem die Strecke 2251 in Richtung Abzw Gladbeck-Zweckel ab. 
-
 Die  durchgehenden  Hauptgleise  des  Bahnhofs  sind  die  Gleise  1  und  2,  sie  dürfen  lt.  dem 
-
 Verzeichnis der örtlich zulässigen Geschwindigkeiten (VzG) mit einer Höchstgeschwindigkeit 
 von 100 km/h in der Fahrtrichtung Bottrop – Gelsenkirchen-Buer Nord und mit 110 km/h in 
 der Gegenrichtung befahren werden. Das Gleis 2 hat in Richtung Bottrop (Fahrtrichtung des 
 DGS 89025) ein Gefälle von 1,487 ‰. Der Durchrutschweg hinter dem Asig 50P2 hat eine 
 Länge von 268 m und endet am Grenzzeichen der Weiche 3. 
 Der Bahnhof ist nicht mit örtlichem Betriebspersonal besetzt. Für die Durchführung der Zug- 
-
 und  Rangierfahrten  ist  der  Fahrdienstleiter  (Fdl)  1  Nordstrecke  des  Stellwerks  Of  in  Oberhausen-Osterfeld verantwortlich. 
 Version:  1.0 
 Seite 14 von 39 
@@ -663,8 +674,10 @@ Seite 14 von 39
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugkollision,  26.10.2013,  Gladbeck West 
 4.4 
 Untersuchung der Leit- und Sicherungstechnik 
@@ -690,7 +703,6 @@ registriert (es wurden keine Sekundenangaben aufgezeichnet)
 Die folgende Abbildung 3 zeigt ein durch die Firma Siemens AG anhand der aufgezeichneten  Daten  simuliertes  Lupenbild.  Hieraus  wird  nochmals  deutlich,  dass  die  Zugstraße  aus 
 Richtung Bottrop nach Gleis 4 eingestellt ist. Das Einfahrsignal 50A zeigt Ks2. Der Abschnitt 
 vor dem Einfahrsignal 50A ist bereits durch Zug XP 63174 besetzt. Das Asig 50P2 ist in dieser  Darstellung  nicht  sichtbar.  Der  grüne  Gleismelder  im  Abschnitt  50G202  zeigt,  dass  die 
-
 Einfahrzugstraße einschließlich Durchrutschweg bis zum Grenzzeichen der Weiche 3 für Zug 
 89025 eingestellt und gesichert ist. 
 Version:  1.0 
@@ -700,8 +712,10 @@ Seite 15 von 39
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugkollision,  26.10.2013,  Gladbeck West 
 Abb. 4: simuliertes Lupenbild (1) 
 Quelle: Siemens AG 
@@ -805,8 +819,10 @@ Seite 19 von 39
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugkollision,  26.10.2013,  Gladbeck West 
 	  Die  Beeinflussungen  1000  Hz  sind  auf  die  Vorsignalisierungen  am  Evsig  50Va  (Ks1 
 mit Zs3v) und am Esig 50A (Ks2 „Vorbeifahrt erlaubt und Halt erwarten“) zurückzuführen. 
@@ -844,8 +860,10 @@ Seite 20 von 39
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugkollision,  26.10.2013,  Gladbeck West 
 4.5.3 
 Betriebliche Handlungen des Tf von Zug DGS 89025 
@@ -859,9 +877,7 @@ das  Thema  Bremsen  im  Betrieb  Bedienen  und  Prüfen  einschließlich  Brems
 wurde. Im Ergebnis dieser Fortbildungsmaßnahme durfte der Tf seine Tätigkeit weiter uneingeschränkt verrichten. 
 Die Bahnen der Stadt Monheim GmbH haben als EVU und Arbeitgeber des Tf dessen Aufgaben, innerhalb des betrieblichen Sicherheitsmanagementsystems (SMS) durch schriftliche 
 Funktionsbeschreibungen,  geregelt  und  den  jeweiligen  Mitarbeitern  zur  Kenntnis  gegeben. 
-
 Dem  Tf  wurde  in  dieser  Funktion  die  Verantwortung  für  die  sichere  Durchführung  der  Zug-
-
 und Rangierfahrten auf der Basis der betrieblichen Regeln nach Ril 408, FV-NE und Sammlung betrieblicher Vorschriften (SbV) für die Infrastruktur des eigenen Unternehmens und der 
 der DB Netz AG übertragen. Zu seinen Aufgaben gehörten u.a. die Zugbildung und Zugfertigstellung.  Im  Rahmen  seiner  Tätigkeit  als  Bremsprobeberechtigter  wurden  u.a. die Aufgaben: 
   Durchführung der vereinfachten Bremsprobe 
@@ -886,13 +902,9 @@ Seite 21 von 39
  
 Untersuchungsbericht 
 Zugkollision,  26.10.2013,  Gladbeck West 
-
 des  EVU  stehen  in  der  Regel  alle  Wagen  für  die  geplante  Zugfahrt  in  diesem  Gleis  bereit. 
-
 Abweichungen hiervon wurden für den 26.10.2013 nicht bekannt. Nach dem Erreichen des 
-
 Gleises  hatte  der  Tf  mit  seinem  Tfz  gegen  die  bereitstehenden  Wagen  zu  fahren,  das  Tfz 
-
 und die einzelnen Wagen zu kuppeln und dabei die HLL der einzelnen Fahrzeuge zu verbinden.  Danach  hatte  er  die  volle  Bremsprobe  entsprechend  VDV-Schrift 757  durchzuführen, 
 Bremszettel und Wagenliste zu erstellen, die Zugsignale anzubringen und den Zug fertig zu 
 melden. Entsprechend der Auskunft des EVU hat der Tf die genannten Aufgaben eigenverantwortlich durchzuführen. Demnach bestehen keine Vereinbarungen, wonach Teilprozesse 
@@ -927,7 +939,6 @@ Zugkollision,  26.10.2013,  Gladbeck West
 Abb. 7: graf. Darstellung der EFR-Daten DGS 89025 
 Das Tfz 203 162 kam zunächst um 07:35 Uhr mit der Zugleistung 89026 im Chemiepark an. 
 Danach wurden mehrere Rangierbewegungen, unterbrochen von teils längeren Stillstandzeiten  aufgezeichnet.  Während  der  Stillstandphasen  wurde  dreimal  ein  Absenken  des  Luftdrucks  in  der  HLL  auf  unter  2,2  bar  (Schwellwert  für  die  Registrierung)  aufgezeichnet.  Das 
-
 letzte  Anlegen  der  Bremsen  vor  Beginn  der  Zugfahrt  89025  wurde  in  dieser  Form  von 
 09:08:23 Uhr bis 09:12:02 Uhr aufgezeichnet. 
 Die  Zugfahrt  89025  begann  um  09:20:45  Uhr.  Am  Zugdatensteller  waren  die  Zugnummer 89025,  die  Bremsart  8  (schnell  wirkend),  101  Bremshundertstel  und  als  Höchstgeschwindigkeit 100 km/h eingestellt. Der Zug wurde in drei Phasen bis auf eine Geschwindigkeit um 90 km/h (max. bis 95 km/h) beschleunigt. Mit dieser Geschwindigkeit durchfuhr der 
@@ -950,56 +961,78 @@ Seite 23 von 39
 Zugkollision,  26.10.2013,  Gladbeck West 
 der Zug wieder bis auf ca. 98 km/h beschleunigt. Mit dieser Geschwindigkeit erfolgte dann 
 
+
 auch die Einfahrt in den Bahnhof Gladbeck West. 
+
 
 Die grafische Darstellung des Fahrtverlaufs im Bahnhof Gladbeck West zeigt Abbildung 8. 
 
+
 Abb. 8: graf. Darstellung der EFR-Daten DGS 89025 im Bf. Gladbeck West. 
+
 Die in diesem Fahrtabschnitt entstandenen Aufzeichnungen werden in der folgenden Tabelle 
 zusammengefasst. 
+
 Nr.  DSK-
 Zeit 
+
 Km 
+
 v 
 km/h 
+
 1 
 09:36:36  12,790 
 95 
 Registrierung 
 Erläuterung 
+
 Beeinflussung 1000 Hz, 
 Bedienung Taste „wachsam“ 
+
 Vorsignal 50Vp2 zeigte Ks2 
 „Halt erwarten“; durch Tf quittiert 
+
 2 
 09:36:57  12,260 
 84 
 HLL-Druck < 2,2 bar 
+
 vmtl. Schnellbremsung durch 
 Tf 
+
 3 
 09:37:00  12,190 
 80 
+
 Überwachungsgeschw. 
 aus 1000 Hz Beeinflussung überschritten, 
 Zwangsbremsung 
+
 durch PZB-
 Fahrzeugeinrichtung vorgegebene Bremskurve nicht 
 unterfahren 
+
 4 
 09:37:07  12,055 
 76 
+
 Bedienung Taste „frei“ 
 und „wachsam“ 
+
 nicht plausibel, Bedienhandlungen des Tf ohne Wirkung 
+
 5 
 09:37:11  11,970 
 73 
+
 Beeinflussung 500 Hz,
 Überwachungsgeschw. 
 aus 500 Hz überschritten 
+
 Prüfgeschwindigkeit überschritten, Zwangsbremsung 
 bereits aus 1000 Hz aktiv 
+
 Version:  1.0 
 Seite 24 von 39 
   
@@ -1014,6 +1047,7 @@ Zugkollision,  26.10.2013,  Gladbeck West
 6 
 09:37:24  11,720 
 63 
+
 Beeinflussung 2000 Hz, 
 Bedienung Taste „frei“ 
 
@@ -1030,15 +1064,22 @@ wirkungslos
 Bedienung Taste „Befehl“  Nicht plausibel, ohne Wir8 
 09:37:42  11,455 
 49 
+
 Führerpult 2 aus, Taste 
 „wachsam“ 
+
 kung, Zwangsbremsung aktiv 
+
 Deaktivierung Führerpultübernahme durch Schlüssel in Stellung 0, nicht plausibel 
+
 9 
 11,445 
 42 
+
 Abknicken der Geschwindigkeitskurve 
+
 Kollision mit entgegenkommenden Zug 
+
 10  09:37:49  11,430 
 0 
 Halt 
@@ -1102,22 +1143,21 @@ Seite 26 von 39
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugkollision,  26.10.2013,  Gladbeck West 
 4.5.3.3  Auswertung der betrieblichen Unterlagen 
 Im Zuge der Unfalluntersuchung wurden die auf dem Tfz von Zug 89025 befindlichen Unterlagen  geprüft.  Diese  waren  infolge  des  Unfalls  im  Führerraum  weit  verstreut  und  teils  beschädigt. 
 Anhand des vorgefundenen Bremszettels war erkennbar, dass dieser zweifelsfrei vom Tf des 
-
 Zuges  ausgefüllt  wurde.  Der  Tf  hatte  darauf  ein  Gesamtzuggewicht  von  341  t  und  ein  Gesamtbremsgewicht von 347 t errechnet. Daraus ermittelte er einen Wert für die vorhandenen 
 Bremshundertstel von 101. Für die erforderlichen Mindestbremshundertstel trug er den Wert 
 68  ein.  Des  Weiteren  vermerkte  er  auf  dem  Bremszettel,  dass  alle  32  Achsen  des  Zuges 
 gebremst waren. 
 Abb. 9: Bremszettel 89025 (Ausschnitt) 
 Ein Fahrplan bzw. eine Fahrplananordnung (Fplo) für die Zugfahrt wurde auf dem Tfz nicht 
-
 gefunden.  Dies  kann  mehrere  Gründe  haben.  Entweder  trug  der  Tf  die  Fplo  noch  bei  sich, 
-
 als er verletzt ins Krankenhaus verbracht wurde, oder die Fplo wurde im Durcheinander der 
 umherliegenden Unterlagen, Ausrüstungsgestände und persönlichen Sachen im Führerstand 
 des  Tfz  nicht  gefunden.  Außerdem  kann  nicht  ausgeschlossen  werden,  dass  der  Tf  die 
@@ -1143,9 +1183,7 @@ Zuges  offenbar  100  km/h,  statt  der  angegebenen  70  km/h  annahm,  und  da
 schneller fuhr als es der Fahrplan zuließ. 
 Was letztendlich zu diesen Abweichungen führte, konnte im Rahmen der Unfalluntersuchung 
 nicht  zweifelsfrei  geklärt  werden.  Die  Bahnen  der  Stadt  Monheim  GmbH  als  EVU  vermutet 
-
 hierfür  folgenden  Hintergrund:  Offensichtlich  wurde  beim  Bestellen  der  Trasse  eine  für  die 
-
 geplante  Zugfahrt  89025  unzutreffende  Fahrplanvorlage  verwendet.  Dadurch  wurde  ein 
 Version:  1.0 
 Seite 28 von 39 
@@ -1155,17 +1193,17 @@ Seite 28 von 39
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugkollision,  26.10.2013,  Gladbeck West 
 Fahrplan für den Zug mit einem Triebfahrzeug vom Typ DG 2000 (nach Umbau: Revita Twin 
 1700 CC) mit einer zulässigen Höchstgeschwindigkeit von 70 km/h bestellt. Wäre die Trasse 
 für den Zug mit dem Tfz der Baureihe 203 mit einer zulässigen Höchstgeschwindigkeit von 
 100  km/h  bestellt  worden,  so  würde  die  fahrplanmäßige  Höchstgeschwindigkeit  des  DGS 
 89025 100 km/h betragen. 
-
 Der  Tf,  der  üblicherweise  ähnliche  Zugleistungen  mit  einem  Tfz  der  Baureihe  203  erbringt, 
-
 nahm anscheinend die ihm geläufigen Fahrplandaten als Grundlage für seinen Zug an, ohne 
 auf die tatsächlichen Angaben des Fahrplans zu achten. 
 4.6 
@@ -1202,21 +1240,15 @@ Zug 89025 bestand aus dem Tfz 203 162 und acht Wagen. Der Fahrzeughalter des die
 seit dem 29.05.2012 an die LaS - Logistik auf Schienen GmbH - vermietet. Seit dieser Zeit 
 war  die  Lokomotive  ununterbrochen  für  die  Bahnen  der  Stadt  Monheim  GmbH  im  Einsatz, 
 die als EVU Transporte für die LaS GmbH durchführt. 
-
 Das  Tfz  wurde  1975  in  Dienst  gestellt.  Im  Jahr  2009  wurde  das  Fahrzeug  bei  der  Alstom 
-
 Lokomotiven  Service  GmbH  grundlegend  umgerüstet.  Am  16.10.2009  wurde  die  Genehmigung zur Inbetriebnahme nach umfangreicher Umrüstung gemäß § 9 Abs. 1 TEIV durch das 
 Eisenbahn-Bundesamt erteilt. 
 Die  letzte  Bremsuntersuchung  am  Tfz  fand  am  10.08.2013  bei  der  NBE  Railway  Service 
 GmbH statt. Danach war das Fahrzeug bis zum Unfall ohne Einschränkungen im Einsatz. 
-
 Bei  der  ersten  Inaugenscheinnahme  des  Tfz  vor  Ort  fielen  zunächst  die  teils  erheblichen 
-
 Schäden an der rechten Fahrzeugseite und der Unterseite auf, die infolge der Kollision und 
 der  nachfolgenden  Entgleisung  entstanden  sind.  Dabei  wurden  auch  Teile  des  Laufwerks 
-
 und  der  Bremseinrichtung  teils  stark  beschädigt.  Wegen  der  Lage  des  Tfz  im  Schotterbett, 
-
 war  eine  umfassende  Prüfung  dieser  Fahrzeugteile  nicht  möglich. Der Luftabsperrhahn der 
 HLL auf der rechten Seite war zum ersten Wagen hin geöffnet. Die linken Absperrhähne von 
 Hauptluft- und Hauptluftbehälterleitung (HBL) waren abgerissen. Die Klotzbremsen waren bis 
@@ -1247,9 +1279,7 @@ wurden. Bei der Besichtigung der Wagen, ca. drei Stunden nach dem Ereignis, war 
 Der erste Wagen hinter dem Tfz war entgleist und nach links auf die Seite gekippt. Der Kessel war nicht leck geschlagen. Am unteren Teil wies das Fahrzeug unfallbedingt erhebliche 
 Schäden  insbesondere  an  Laufwerks-  und  Bremseinrichtungen,  sowie  an  den  Zug-  und 
 Stoßvorrichtungen  auf.  Belastbare  Aussagen  in  Bezug  auf  die  Bremseinstellungen  an  diesem  Fahrzeug  sind  deshalb  nicht  möglich.  Der  rechte  vordere  Luftabsperrhahn  war  durch 
-
 den  abgeknickten  Puffer  des  Tfz  zerstört.  Somit  konnte  die  Stellung  des  Luftabsperrhahns 
-
 nicht festgestellt werden. 
 Version:  1.0 
 Seite 31 von 39 
@@ -1258,8 +1288,10 @@ Seite 31 von 39
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugkollision,  26.10.2013,  Gladbeck West 
 Abb. 14: Wagen 1 und 2 des DGS 89025 
 Der an zweiter Stelle laufende Wagen war entgleist und in leichte Schräglage geraten. Infolge der Entgleisung kam es auch an diesem Fahrzeug zu teils erheblichen Beschädigungen 
@@ -1305,8 +1337,10 @@ Seite 33 von 39
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugkollision,  26.10.2013,  Gladbeck West 
 4.7 
 Interpretation der Unfallspuren 
@@ -1338,9 +1372,7 @@ tig aus den Gleisen bis einige Wagen umstürzten.
 Entlang des Gleises 2 waren zwischen dem Vorsignal und dem Asig 50P2 keine Spuren von 
 Bremssand erkennbar. Die Vorratsbehälter am Tfz des 89025 waren, soweit feststellbar, mit 
 Sand  gefüllt.  Offensichtlich  hatte  der  Tf  während  der  Bremsphase  seines  Zuges  die  Sandstreueinrichtung nicht bedient. Ob dies Auswirkungen auf die Länge des Bremsweges hatte 
-
 ist  jedoch  ungewiss,  da  keine  ausreichende  Klarheit  darüber  besteht,  ob  es  zum  Zeitpunkt 
-
 des Unfalls geregnet hatte, bzw. die Schienen nass waren. 
 Beim  näheren  Betrachten  der  Unfallstelle  wurde  unter  dem  verstreuten  Ladegut  eine 
 Schlauchverbindung  der  HLL  gefunden.  Die  beiden  Kupplungsköpfe  der  Schlauchenden 
@@ -1357,7 +1389,6 @@ Seite 34 von 39
 Zugkollision,  26.10.2013,  Gladbeck West 
 Wagen abgerissen. Wegen der auffällig frischen Lackierung des einen Absperrhahns konnte 
 dieser  recht  eindeutig  dem  zweiten  Wagen  des  DGS  89025  zugeordnet  werden.  Der  Fahrzeugrahmen  dieses  Wagens  besaß  die  gleiche  relativ  frische  schwarze  Lackierung.  Demnach gehörte der Absperrhahn am anderen Ende der Schlauchverbindung zum ersten Wagen dieses Zuges. An diesem Luftabsperrhahn war der Handgriff abgebrochen. Wahrscheinlich in Folge der nicht spezifizierbaren Krafteinwirkung wurde dieser aufgeschlagen und abgebrochen. Der Absperrhahn des zweiten Wagens war geschlossen. Der Handgriff war nahezu unbeschädigt. Es waren keine wesentlichen Anschlagspuren erkennbar. Dies lässt den 
-
 Schluss  zu,  dass  mit  hoher  Wahrscheinlichkeit  dieser  Luftabsperrhahn  nicht  durch  die  Folgen des Unfalls zugeschlagen wurde, sondern vielmehr mit Beginn der Zugfahrt 89025 bereits geschlossen war. 
 Abb. 19: Luftabsperrhahn Wagen 1 
 Abb. 20: Luftabsperrhahn Wagen 2 
@@ -1368,14 +1399,10 @@ Zug XP 63174 fuhr aus Richtung Bottrop nach Gleis 4 ein. Gleichzeitig fuhr Zug D
 aus der Gegenrichtung kommend nach Gleis 2. Dort sollte der Zug vor dem Halt zeigenden 
 Asig 50P2 halten. Die signaltechnischen Anlagen wurden für die Zugfahrten ordnungsgemäß 
 bedient und arbeiteten störungsfrei. 
-
 Während  der  Einfahrt  erkannte  der  Tf  des  89025  die  Warnstellung  des  Vorsignals  und  die 
-
 Haltstellung des Asig 50P2. Er leitete daraufhin eine Betriebsbremsung ein. Als er feststellte, 
 dass diese nahezu ohne Wirkung blieb, versuchte er den Zug mittels Schnellbremsung zum 
-
 Halten  zu  bringen.  Dies  gelang  ihm  ebenfalls  nicht,  der  Zug  verlangsamte  nur  mäßig.  Die 
-
 nachfolgenden durch die PZB-Einrichtungen initiierten Zwangsbremsungen blieben ebenfalls 
 Version:  1.0 
 Seite 35 von 39 
@@ -1424,9 +1451,7 @@ Zugkollision,  26.10.2013,  Gladbeck West
 Die Erkenntnis, dass die Druckluftbremsen der letzten sieben Wagen bereits von Beginn der 
 Zugfahrt 89025 ohne Wirkung waren, wirft natürlich zwangsläufig die Frage nach den Handlungen  des  Tf  während  der  vollen  Bremsprobe  im  Rahmen  der  Zugfertigstellung  auf.  Auch 
 wenn der EUB die einzelnen tatsächlichen Handlungsabläufe während der Bildung und Fertigstellung des Zuges 89025 im Chemiepark Marl nicht bekannt sind, so lässt sich dennoch 
-
 mit  hoher  Wahrscheinlichkeit  schlussfolgern,  dass  der  Tf  die  erforderlichen  Arbeitsschritte, 
-
 die  im  Regelwerk  entsprechend  VDV-Schrift  757detailliert  beschrieben  sind,  nicht  durchgeführt haben kann. Hätte er dies getan, so hätte er festgestellt, dass weder die Druckluft bis 
 am letzten Wagen anliegt, noch die Bremsen ab dem zweiten Wagen arbeiten. Es entsteht 
 der  Verdacht,  dass  der  Tf,  wenn  überhaupt,  das  Anlegen  und  Lösen  der  Bremsen  nur  am 
@@ -1440,9 +1465,7 @@ wieder erweitert, konkretisiert und präzisiert worden, und obwohl die einzelnen
 Prüfschritte im Zusammenhang mit der Bremsprobe darin explizit dargestellt werden, kam es 
 in der Vergangenheit immer wieder zu betrieblichen Unregelmäßigkeiten und schweren Unfällen,  die  auf  eine  mangelhafte  Durchführung  der  Bremsprobe  zurückzuführen  waren.  Seit 
 dem  Jahr  2000  sind  der  EUB  15  Ereignisse  im  Netz  der  Deutschen Bahn AG bekannt, bei 
-
 denen  in  erster  Linie  die  hier  identifizierte  Ursache,  eine  unterbrochene  HLL  durch  einen 
-
 geschlossenen  Luftabsperrhahn  infolge  menschlichen  Fehlverhaltens,  zu  Gefährdungen  im 
 Bahnbetrieb (Vorbeifahrt am Halt zeigenden Signal) und zu Unfällen führte. Neben dem hier 
 untersuchten  Ereignis  sind  in  diesem  Zeitraum  noch  zwei  weitere  Bahnbetriebsunfälle  als 
@@ -1458,8 +1481,10 @@ Seite 37 von 39
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugkollision,  26.10.2013,  Gladbeck West 
 den Signalen frei war. 
 Nicht unerwähnt sollte in diesem Zusammenhang auch die Zugentgleisung vom 20.11.1997 
@@ -1469,9 +1494,7 @@ ein Wagen explodierte. Dabei wurden zwei Personen getötet und mehrere verletzt.
 lag die Ursache im menschlichen Fehlverhalten bei der zuvor durchgeführten Bremsprobe. 
 Die Folgen der hier aufgezählten Unfälle zeigen besonders deutlich die hohe Sicherheitsverantwortung, die beim Prüfen der Bremsen auf den handelnden Personen liegt. Das liegt auch 
 daran, weil hier kein technisches System die menschlichen Fehler bei der Bremsprobe zweifelsfrei offenbart oder gar die Abfahrt des Zuges verhindern würde. 
-
 Noch  kritischer  sind  die  Fälle  zu  betrachten,  bei  denen,  wie  im  hier  untersuchten  Ereignis, 
-
 die  Aufgaben  des  bedienenden  Bremsprobenberechtigen  und  die  Aufgaben  des  prüfenden 
 Bremsprobenberechtigten  vom  „Bremsprobenberechtigten  am  Zug“  nach  Ril 915.0101 Abs. 
 2  (4)  und  VDV-Schrift  757,  also  von  einer  Person,  wahrgenommen  werden.  Hierbei  kann, 
@@ -1529,5 +1552,6 @@ Seite 39 von 39
  
  
  
+
  
 

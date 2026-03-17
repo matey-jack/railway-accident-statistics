@@ -33,8 +33,10 @@ Eilenburg
  
  
     
+
  
 Zugentgleisung 04.05.2015 Eilenburg 
+
 Veröffentlicht durch:  
 Bundesstelle für Eisenbahnunfalluntersuchung  
 Heinemannstraße 6  
@@ -71,7 +73,6 @@ Seite
 3.3 
 4 
 4.1 
-
 Zusammenfassung ............................................................................................5
 
 
@@ -125,11 +126,11 @@ Aussage des Rangierbegleiters ..................................................
 
 
 4.2 
+
 4.3 
 4.4 
 4.5 
 4.6 
-
 Notfallmanagement ............................................................................................12
 
 
@@ -137,6 +138,7 @@ Untersuchung der Infrastruktur .................................................
 
 
 Untersuchung der Leit- und Sicherungstechnik..................................................13
+
 
 Untersuchung der betrieblichen Handlungen .....................................................13
 
@@ -155,11 +157,11 @@ Instandhaltungszustand .........................................................
 
 
 4.6.3 
+
 4.6.4 
 4.7 
 5 
 6 
-
 Gutachterliche Fahrzeuginspektion ....................................................................17
 
 
@@ -176,81 +178,11 @@ Bisher getroffene Maßnahmen....................................................
 
 
 Seite 2 von 25 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-   
- 
- 
-   
- 
-   
- 
- 
- 
-   
- 
- 
-   
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
  
 Zugentgleisung 04.05.2015 Eilenburg 
-Abbildungsverzeichnis: 
 
+Abbildungsverzeichnis: 
 Abb. 1: Aufnahmen an der Unfallstelle .................................................................................. 6
 
 
@@ -261,9 +193,12 @@ Abb. 3: Beschädigter PZB-Magnet ...............................................
 
 
 Abb. 4: Wagenanschriften – 
+
 Fahrzeuguntersuchungen und Halterschaft.............................15
 
+
 Abb. 5: Plan der Fristenfolge nach der Instandhaltungsstufe G2.0 für Güterwagen .............16
+
 
 Abb. 6: Auszug Fahrdatenregistrierung, Quelle: DB Netz AG bearbeitet durch BEU............20
 
@@ -276,39 +211,9 @@ Abb. 8: Beschädigte Schienenfüße ............................................
 
 Abb. 9: Trümmerspuren durch den aufgeschlagenen Spurkranz auf den Schwellen............22
 
+
 Seite 3 von 25 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
 Zugentgleisung 04.05.2015 Eilenburg 
 Abkürzungsverzeichnis
 AEG  
@@ -376,8 +281,10 @@ Seite 4 von 25
  
  
  
+
  
 Zugentgleisung 04.05.2015 Eilenburg 
+
 1  
 Zusammenfassung  
 1.1  
@@ -388,16 +295,12 @@ s 11.  Wagens auf  der  Weiche  114.
 Folgen  
 Es entstand ein Sachschaden an  den Gleisanlagen  von  ca. 94.000 Euro.  Der Oberbau und 
 Anlagen  der  Leit- und Sicherungstechnik  (LST)  wurden auf  einer  Länge von  ca. 300 m  beschädigt.  Personen w  urden nicht verletzt.  
-
 Der  Wagen   erhielt   nach  der   Entgleisung   einen  Ersatzradsatz   und  eine   Instandsetzung   bei  
-
 EuroMaint Rail  GmbH  Werk  Leipzig.  Die Schadenshöhe am  Fahrzeug  beträgt  ca. 9910,00  €.  
 1.3  
 Ursachen  
 Als Ursache für die Entgleisung  wurden zwei  lose  Radreifen  an  der  hinteren  Achse  des 11.  
-
 Wagens  festgestellt.   Ein  Radreifen   war  bereits  vom  Radkörper  abgerutscht,   so  dass  das 
-
 Spurmaß ni
   cht mehr  gehalten  wurde.  
 Seite 5 von 25 
@@ -425,33 +328,16 @@ Seite 6 von 25
 Vorbemerkungen  
 2.1  
 Organisatorischer Hinweis  
-Mit  der  Richtlinie RL  2004/49/EG  zur Eisenbahnsicherheit  in der  Gemeinschaft  (Eisenbahn-
-
-sicherheitsrichtlinie)  wurden  die  Mitgliedstaaten   der   europäischen  Union   verpflichtet,   unab-
-
-hängige Untersuchungsstellen  für die Untersuchung  bestimmter gefährlicher  Ereignisse einzurichten.  
-
+Mit  der  Richtlinie RL  2004/49/EG  zur Eisenbahnsicherheit  in der  Gemeinschaft  (Eisenbahnsicherheitsrichtlinie)  wurden  die  Mitgliedstaaten   der   europäischen  Union   verpflichtet,   unabhängige Untersuchungsstellen  für die Untersuchung  bestimmter gefährlicher  Ereignisse einzurichten.  
 Diese   Richtlinie  wurde  mit   dem   5.  Gesetz   zur  Änderung   eisenbahnrechtlicher   Vorschriften  
-
 vom  16.   April   2007   umgesetzt   und  die  Eisenbahn-Unfalluntersuchungsstelle  des  Bundes 
 (EUB)   eingerichtet.   Näheres  regelt   die  Eisenbahn-Unfalluntersuchungsverordnung   (EUV)  
 vom 05.07.2007.  
-Mit  dem  Gesetz  zur Neuordnung  der  Eisenbahnunfalluntersuchung  vom 27.  Juni  2017  wurden die rechtlichen Grundlagen  zur Errichtung  der  Bundesstelle für Eisenbahnunfalluntersu-
-
-chung   (BEU)   geschaffen.   Durch  das  Gesetz   sind   das  Allgemeine   Eisenbahngesetz   (AEG)  
-
+Mit  dem  Gesetz  zur Neuordnung  der  Eisenbahnunfalluntersuchung  vom 27.  Juni  2017  wurden die rechtlichen Grundlagen  zur Errichtung  der  Bundesstelle für Eisenbahnunfalluntersuchung   (BEU)   geschaffen.   Durch  das  Gesetz   sind   das  Allgemeine   Eisenbahngesetz   (AEG)  
 und  das  Bundeseisenbahnverkehrsverwaltungsgesetz   (BEVVG)   geändert   worden,  wobei  
 Zuständigkeiten  und Kompetenzen  auf  die  neue  Behörde,  der  BEU, übertragen  wurden.  Mit  
-Errichtung  der  BEU  wurde die EUB,  bestehend aus der  Leitung  der  EUB  im  Bundesministe-
-
-rium  für  Verkehr   und  digitale  Infrastruktur  und  der   Untersuchungszentrale  der   EUB   im   Ei-
-
-senbahn-Bundesamt   aufgelöst.   Mit   dem   Organisationserlass  des  Bundesministeriums  für 
-
-Verkehr   und  digitale  Infrastruktur  (BMVI)   zur  Errichtung   der   Bundesstelle für  Eisenbahnun-
-
-falluntersuchung   vom  14.   Juli   2017   wurde  die  BEU   als  selbstständige  Bundesoberbehörde  
-
+Errichtung  der  BEU  wurde die EUB,  bestehend aus der  Leitung  der  EUB  im  Bundesministerium  für  Verkehr   und  digitale  Infrastruktur  und  der   Untersuchungszentrale  der   EUB   im   Eisenbahn-Bundesamt   aufgelöst.   Mit   dem   Organisationserlass  des  Bundesministeriums  für 
+Verkehr   und  digitale  Infrastruktur  (BMVI)   zur  Errichtung   der   Bundesstelle für  Eisenbahnunfalluntersuchung   vom  14.   Juli   2017   wurde  die  BEU   als  selbstständige  Bundesoberbehörde  
 im  Geschäftsbereich des BMVI  zur Erfüllung  der  Aufgaben  nach  §7  BEVVG  errichtet.  
 Die  Aufgaben   zur  Untersuchung   bestimmter  gefährlicher   Ereignisse  im   Eisenbahnbetrieb  
 gingen  dabei  nahtlos von  der  EUB an 
@@ -464,9 +350,7 @@ Näheres hierzu ist im  Internet  unter >>  www.beu.bund.de  <<  eingestellt.
 2.2  
 Ziel der Eisenbahn-Unfalluntersuchung  
 Ziel  und Zweck  der  Untersuchungen  ist  es, die Ursachen  von  gefährlichen Ereignissen  aufzuklären und hieraus Hinweise zur Verbesserung  der  Sicherheit  abzuleiten.  Untersuchungen  
-
 der   BEU   dienen   nicht  dazu,  ein  Verschulden  festzustellen   oder  Fragen   der   Haftung   oder 
-
 Seite 7 von 25 
  
  
@@ -474,17 +358,14 @@ Seite 7 von 25
  
  
  
+
  
 Zugentgleisung 04.05.2015 Eilenburg 
 
-sonstiger  zivilrechtlicher   Ansprüche  zu  klären  und  werden  unabhängig   von   jeder  gerichtli-
-
-chen Untersuchung  durchgeführt.   
+sonstiger  zivilrechtlicher   Ansprüche  zu  klären  und  werden  unabhängig   von   jeder  gerichtlichen Untersuchung  durchgeführt.   
 Die  Untersuchung   umfasst  die  Sammlung   und  Auswertung   von   Informationen,  die  Erarbeitung  von  Schlussfolgerungen  einschließlich der  Feststellung  der  Ursachen  und gegebenenfalls die Abgabe von  Sicherheitsempfehlungen.  Die Vorschläge der  Untersuchungsstelle zur 
 Vermeidung  von  Unfällen  und Verbesserung  der  Sicherheit  im  Eisenbahnverkehr  werden der 
-
 Sicherheitsbehörde   und,  soweit   erforderlich,  anderen   Stellen   und  Behörden  oder  anderen  
-
 Mitgliedstaaten  der  EU  in Form  von  Sicherheitsempfehlungen  mitgeteilt.  
 2.3  
 Beteiligte und Mitwirkende  
@@ -507,27 +388,17 @@ Ereignis
 3.1  
 Hergang  
 Im  Bahnhof  Eilenburg  kam es am 04.05.2015  gegen  7.32 Uhr während der  Fahrt  des DGS  
-
 95495  aus  Gleis  6  in  den  Streckenanschluss  nach  Lüptitz   zur  Entgleisung   in  der   Weiche  
-
 114.  Dabei  entgleiste die in  Fahrtrichtung  hintere Achse de 
 s 11.  Wagens.  
 Abb. 2: Lageplan - Quelle: IVL-Plan DB Netz AG bearbeitet durch EUB / BEU 
 Der Zugverband  des DGS  95495 bestand aus 16  leeren  Fcs-Wagen,  die in den Streckenanschluss der  Sächsischen Quarzporphyr-Werke GmbH  Lüptitz  gefahren  werden sollten.  Fcs-
 Wagen   sind   offene  Güterwagen   der   Sonderbauart,   ausgerüstet  mit   einer   dosierbaren 
 Schwerkraftentladung.   Der  Zug   wurde im   Bahnhof   Espenhain gebildet,   wobei  eine  Wagenprüfung  mit  einer  vollen  Bremsprobe durchgeführt  wurde.  Der Zug  fuhr  vom Bahnhof  Espenhain  (VzG-Strecke  6822)   bis  Leipzig-Schönefeld  (VzG-Strecke  6362)   als  DGS   88960  auf  
-
 einer   Regeltrasse  und  weiter  bis  in  den  Bahnhof   Eilenburg   (VzG-Strecke  6360)   als  DGS  
-
-95495 als Gelegenheitsverkehr.  Nach  einem  kurzen  Halt  im  Gleis 6 zur Aufnahme des Ran-
-
-gierbegleiters  (Rb)  fuhr   der   Zug   in  Richtung   des  Streckenanschlusses  der   Sächsischen 
-
+95495 als Gelegenheitsverkehr.  Nach  einem  kurzen  Halt  im  Gleis 6 zur Aufnahme des Rangierbegleiters  (Rb)  fuhr   der   Zug   in  Richtung   des  Streckenanschlusses  der   Sächsischen 
 Quarzporphyr-Werke  GmbH  und entgleiste am Herzstück  der  Weiche  114 im  Streckenkilometer  19,900 der  VzG  Strecke 6825 (  von  und nach Lüptitz).   
-Nachdem  der  Fahrdienstleiter (Fdl)  über GSM-R-Funk  den Triebfahrzeugführer (Tf)  verstän-
-
-digt   hatte,  kam  der   Zug   ca.  300  Meter   hinter   der   Weiche   114  zum  Stehen.   Anlass  für  die 
-
+Nachdem  der  Fahrdienstleiter (Fdl)  über GSM-R-Funk  den Triebfahrzeugführer (Tf)  verständigt   hatte,  kam  der   Zug   ca.  300  Meter   hinter   der   Weiche   114  zum  Stehen.   Anlass  für  die 
 Seite 9 von 25 
  
  
@@ -541,33 +412,19 @@ Seite 9 von 25
  
    
 Zugentgleisung 04.05.2015 Eilenburg 
-
 Kontaktaufnahme  durch  den  Fdl   war  die  Feststellung   einer   Rauchentwicklung   im   hinteren  
-
 Teil  des Zuges durch den Weichenwärter (Ww).  Es wurde eine  feste Bremse vermutet.  
-
 Nach   dem   Stillstand  des  Zuges  wurden  die  Wagen   untersucht   und  dabei   die  Entgleisung  
-
 und  lose   Radreifen   an   beiden  Rädern  der   hinteren   Achse   des  11.   Wagens  festgestellt.  
-
 Durch  die  Ablösung   der   Radreifen   hatte  sich  das  Spurmaß   der   Achse   erweitert.   Der  linke 
-
 Radreifen  fuhr  an  der  Herzstückspitze der  Weiche  114 nicht in den nach rechts abzweigenden Bogen  der  Weiche  ein, sondern geriet  in den linken  geraden  Strang  der  Weiche.  Durch 
 den Radlenker an  der  Seite des rechten  Rades wurde das linke Rad  wieder in die Richtung  
-
 des  rechten   Stranges  der   Weiche   gezwungen,   so  dass  es  kurz   hinter   der   Herzstückspitze 
-
-über  die  Schiene kletterte  und  links  neben   der   linken   Schiene  des nach rechts abzweigen-
-
-den  Stranges  der   Weiche   auftraf.   Daher  entgleiste  auch  das  rechte  Rad   der   Achse,   nach-
-
-dem  es den Bereich des Radlenkers verlassen  hatte. Die Entgleisungsspuren  am Oberbau 
+über  die  Schiene kletterte  und  links  neben   der   linken   Schiene  des nach rechts abzweigenden  Stranges  der   Weiche   auftraf.   Daher  entgleiste  auch  das  rechte  Rad   der   Achse,   nachdem  es den Bereich des Radlenkers verlassen  hatte. Die Entgleisungsspuren  am Oberbau 
 erstreckten  sich bis zum Ort  des Stillstandes des Zuges.  
 3.2  
 Todesopfer, Verletzte und Sachschäden  
-
 Todesopfer  und  Verletzte  sind   keine   zu  beklagen.   Die  Sachschäden  setzen   sich  wie  folgt  
-
 zusammen:  
    Fcs-Wagen   
    Gleisanlage  
@@ -577,18 +434,22 @@ ca.
 ca.  
     9.910 € 
 
+
   92.000 €
+
 
     2.000 € 
 
+
    Betriebserschwernisse    
+
 keine  Angaben
 
+
 3.3  
+
 Wetterbedingungen  
-
 Zum   Zeitpunkt   des  Ereignisses  war  es  sonnig   und  trocken   und  es  herrschten  sehr   gute 
-
 Sichtverhältnisse. Die Lufttemperatur  betrug  5 °C.  
 Seite 10 von 25 
  
@@ -606,29 +467,17 @@ Untersuchungsprotokoll
 Zusammenfassung von Aussagen  
 4.1.1  
 Aussage des Triebfahrzeugführers  
-Der Tf  sagte aus,  er habe  am 04.05.2015  um 4.30 Uhr in Espenhain seinen Dienst  begonnen. Nach  dem  Vorbereitungsdienst  am Triebfahrzeug  Nr.  346 025 habe  er die Zugvorbereitung  und Wagenprüfung  durch den Rb unterstützt,  insbesondere die Durchführung  der  vol-
-
-len   Bremsprobe.  Hierbei   seien   keine   Unregelmäßigkeiten   aufgetreten.   Das  Wetter  sei  son-
-
-nig  gewesen und die Sichtverhältnisse sehr  gut.  Gegen  6.00 Uhr wäre die Abfahrbereitschaft  
+Der Tf  sagte aus,  er habe  am 04.05.2015  um 4.30 Uhr in Espenhain seinen Dienst  begonnen. Nach  dem  Vorbereitungsdienst  am Triebfahrzeug  Nr.  346 025 habe  er die Zugvorbereitung  und Wagenprüfung  durch den Rb unterstützt,  insbesondere die Durchführung  der  vollen   Bremsprobe.  Hierbei   seien   keine   Unregelmäßigkeiten   aufgetreten.   Das  Wetter  sei  sonnig  gewesen und die Sichtverhältnisse sehr  gut.  Gegen  6.00 Uhr wäre die Abfahrbereitschaft  
 hergestellt  gewesen und gegen  6.10 Uhr die Abfahrt  erfolgt.   
-In Böhlen  habe  es einen kurzen  Halt  wegen  eines anderen  Zuges gegeben.  Bei  der  Weiter-
-
-fahrt  habe  er keine  Unregelmäßigkeiten  am Zug  festgestellt.  Gegen  7.25 Uhr sei  der  Zug  in 
-
+In Böhlen  habe  es einen kurzen  Halt  wegen  eines anderen  Zuges gegeben.  Bei  der  Weiterfahrt  habe  er keine  Unregelmäßigkeiten  am Zug  festgestellt.  Gegen  7.25 Uhr sei  der  Zug  in 
 Eilenburg   angekommen   und  habe  kurz  wegen  der  Rangierarbeiten  in Lüptitz  gehalten.  Die 
 Weiterfahrt   sei   gegen   7.30 Uhr aus Gleis 6 auf  Hp 2 mit  einer  maximalen  Geschwindigkeit  
 von  40  km/h in Richtung  Lüptitz  erfolgt.  An der  Muldebrücke habe  er eine  Langsamfahrstelle 
-mit  einer  Geschwindigkeit  von  30  km/h quittiert.  In den Abzweig  nach Lüptitz  über die Wei-
-
-che   114  sei   er  mit   25   km/h  gegen   7.33  Uhr  eingefahren.   Auch   zu  diesem   Zeitpunkt   seien  
-
+mit  einer  Geschwindigkeit  von  30  km/h quittiert.  In den Abzweig  nach Lüptitz  über die Weiche   114  sei   er  mit   25   km/h  gegen   7.33  Uhr  eingefahren.   Auch   zu  diesem   Zeitpunkt   seien  
 durch ihn noch keine  Unregelmäßigkeiten  festgestellt  worden.  
 Gegen 7.38 Uhr habe  er einen Funkspruch vom Fahrdienstleiter Eilenburg  mit  der  Aufforderung   zum  Halten   entgegengenommen,   da   dem   Weichenwärter  des  Stellwerkes  Aw   eine  
 Rauchentwicklung  aufgefallen  sei  und dieser  eine  feste Bremse vermutet  hätte. Nach  sofortigem Halt  und der  Besichtigung  des Wagenzuges hätten  er und der  Rb die Entgleisung  am 
-
 12.   Wagen   festgestellt.   (Anmerkung   BEU:   Es  stellte  sich  nach  genauerer   Untersuchung  
-
 heraus,  dass es sich bei  dem  entgleisten  Fahrzeug  um den 11.  Wagen  handelte.)  Nach  der  
 Rückkehr   zum  Triebfahrzeug   hätte er gegen  7.44 Uhr die Sperrung  der  Strecke Eilenburg-
 Lüptitz  beim  Fahrdienstleiter veranlasst.  
@@ -636,11 +485,8 @@ Lüptitz  beim  Fahrdienstleiter veranlasst.
 Aussage des Rangierbegleiters  
 Nach  Aussage des Rb wäre er am 04.05.2015  dem  DGS  95495 zu Rangierarbeiten  zugeteilt  
 gewesen und hätte  um 4.30 Uhr seinen Dienst  in Espenhain begonnen. Er  hätte gemeinsam  
-
 mit   dem   Triebfahrzeugführer  die Aufgabe gehabt,   16   leere Schotterwagen   zur  Beladung   in 
-
 das  Schotterwerk   nach  Lüptitz   zu  fahren.   Der  Zug   hätte  im   Gleis  9  bereitgestanden.  Das 
-
 Wetter sei  sonnig  und die Sichtverhältnisse sehr  gut gewesen. Die Wagenliste sei  vom Wagenmeister bereits vorbereitet gewesen. Durch den Rangierbegleiter wäre dann  die Wagenprüfung  und die Bremsprobe durchgeführt  worden. Dabei  hätte er  den Zug  auf  beiden Seiten  
 Seite 11 von 25 
  
@@ -652,34 +498,23 @@ Seite 11 von 25
 Zugentgleisung 04.05.2015 Eilenburg 
 abgelaufen.  Ihm seien  bei  der  Prüfung  keine  verdrehten  Radreifenmarkierungen  oder andere Unregelmäßigkeiten  an  den Radsätzen  aufgefallen.  
 Gegen  6.00 Uhr sei  der  Zug  in Espenhain abgefahren.  Der Rb sei  mit  dem  Dienstauto nach 
-
 Eilenburg  gefahren,  von  wo er dann  bis  Lüptitz  auf  dem  Triebfahrzeug  mitfahren  sollte. Bei  
-
 der   Einfahrt   des  Zuges  in  Eilenburg   hätte  er  keine   Besonderheiten,   wie  Geräusche   oder 
-
 Qualm   festgestellt.   Nach   einem   kurzen   Halt   sei   der   Zug   dann   wieder  weitergefahren.   Kurz  
-
 hinter  Eilenburg  hätte der  Fdl  gerufen,  dass die Bremsen qualmen  würden. Er  wäre am Zug  
-
 entlang   gelaufen   und  hätte  am  12.   Wagen   eine   entgleiste  Achse   festgestellt.   Der  Tf   hätte 
-
 daraufhin den Fdl  und die Dispo  informiert.  
 4.2  
 Notfallmanagement   
 Nach  § 4 Abs. 3  Allgemeines Eisenbahngesetz  (AEG)  haben die Eisenbahnen  die Verpflichtung,  an  Maßnahmen des Brandschutzes und der  technischen Hilfeleistung  mitzuwirken.  In 
 einer  Vereinbarung  zwischen den Innenministerien der  Länder und der  DB  AG  hat  man  sich 
-
 auf   eine   Verfahrensweise  verständigt.   Für   die  DB   Netz   AG   gelten   die  entsprechenden 
-
 Brand- und Katastrophenschutzgesetze der  Länder.  Das Notfallmanagement der  DB  AG  ist  
 in der  Richtlinie (Ril)  423  näher  beschrieben und geregelt.   
 Bei  diesem  Ereignis erfolgte die Benachrichtigung  aller benötigten  Stellen  durch die Notfallleitstelle der  DB N  etz  AG.  
 4.3  
 Untersuchung der Infrastruktur  
-
-Der  Bahnhof   Eilenburg   ist   eine   Betriebsstelle  der   DB   Netz   AG   und  befindet  sich  am  Stre-
-
-ckenkilometer 49,270 der  zweigleisigen  elektrifizierten  Hauptbahn  Halle (Saale)-Falkenberg-
+Der  Bahnhof   Eilenburg   ist   eine   Betriebsstelle  der   DB   Netz   AG   und  befindet  sich  am  Streckenkilometer 49,270 der  zweigleisigen  elektrifizierten  Hauptbahn  Halle (Saale)-Falkenberg-
 Guben  (VzG-Strecke 6345).  Außerdem mündet  die ebenfalls zweigleisige elektrifizierte VzG-
 Strecke 6360 v  on  Leipzig  in den westlichen Teil  des Bahnhofes Eilenburg.   
 Weiterhin zweigen  im  Bahnhof  ab:   
@@ -687,10 +522,7 @@ Weiterhin zweigen  im  Bahnhof  ab:
 -  die eingleisige Stichbahn Eilenburg-Lüptitz  (VzG  Strecke 6825),  verpachtet  an  Sächsische  Quarzporphyr-Werke GmbH.  
 Das Einfahrsignal  V  aus Richtung  Lüptiz  im  Streckenkilometer 19,928 bildet  die Grenze zum 
 Streckenanschluss.  Die Geschwindigkeit  im  Weichenbereich war gemäß zusätzlichen Feststellungen  zum Oberbau auf  30  km/h festgesetzt.  Der Zug  ist  im  Weichenbereich mit  durchschnittlich 27  km/h  gefahren.  Am  Oberbau konnten keine  Mängel  festgestellt  werden, die zur 
-
-Entgleisung   geführt   hätten.   Die  Einmessung   der   Weiche   ergab   keine   signifikanten   Abwei-
-
-chungen.  
+Entgleisung   geführt   hätten.   Die  Einmessung   der   Weiche   ergab   keine   signifikanten   Abweichungen.  
 Seite 12 von 25 
  
  
@@ -702,25 +534,15 @@ Seite 12 von 25
 4.4  
 Untersuchung der Leit- und Sicherungstechnik  
 Auf   dem   Bahnhof   Eilenburg   werden  die  Zugstraßen   vom  Fdl-Stellwerk   und  vom  Ww-
-
-Stellwerk   mit   mechanischer   Sicherungstechnik   eingestellt,   wobei   die  Signalstellung   aus-
-
-schließlich  vom  Fdl   mittels  GS   II-Relaistechnik   (gemischte  Stellwerksbauformen   mechanisch/Gleisbild) erfolgt.  Hierzu fordert  der  Fdl  den Ww  zur Abgabe der  Zustimmung  für eine  
-
-Ausfahrt   aus  Gleis  6  auf   Ausfahrsignal   R   auf.   Voraussetzung   für  die  Abgabe  der   Zustim-
-
-mung   ist   die  Prüfung   des  Fahrweges  durch  den  Ww   in  seinem   Fahrwegprüfbezirk   hinter  
-
+Stellwerk   mit   mechanischer   Sicherungstechnik   eingestellt,   wobei   die  Signalstellung   ausschließlich  vom  Fdl   mittels  GS   II-Relaistechnik   (gemischte  Stellwerksbauformen   mechanisch/Gleisbild) erfolgt.  Hierzu fordert  der  Fdl  den Ww  zur Abgabe der  Zustimmung  für eine  
+Ausfahrt   aus  Gleis  6  auf   Ausfahrsignal   R   auf.   Voraussetzung   für  die  Abgabe  der   Zustimmung   ist   die  Prüfung   des  Fahrweges  durch  den  Ww   in  seinem   Fahrwegprüfbezirk   hinter  
 dem  Ausfahrsignal  R.  Zum  Zeitpunkt  des Ereignisses lagen  keine  Störungen  im  Bereich der  
 Sicherungstechnik  vor,  so dass die Anlagen  im  Regelbetrieb  bedient  werden konnten.  
 An  der   Leit-  und  Sicherungstechnik   wurden  ausschließlich  Sachschäden  nach  der   Entgleisung  im  Außenbereich an  einem  Kabel,  an  einem  PZB-Magneten  und an  einer  Achszählanlage festgestellt.  
 Abb. 3: Beschädigter PZB-Magnet 
 4.5  
 Untersuchung der betrieblichen Handlungen  
-Die Untersuchung  auf  den Stellwerken  Ew  (Fdl)  und Aw  (Ww)  hat  ergeben,  dass die Siche-
-
-rungstechnik   einwandfrei   funktionierte   und  die  Weiche   114 nicht  unter  dem   fahrenden Zug  
-
+Die Untersuchung  auf  den Stellwerken  Ew  (Fdl)  und Aw  (Ww)  hat  ergeben,  dass die Sicherungstechnik   einwandfrei   funktionierte   und  die  Weiche   114 nicht  unter  dem   fahrenden Zug  
 Seite 13 von 25 
  
  
@@ -775,9 +597,7 @@ s,  **  (lt.  Wagenanschrift)
    Fahrwerkstandard:  
 KE-GP  
 UIC  517  
-
 *Fahrzeuggeschwindigkeit lt. Zulassung 120 km/h (**), aus bremstechnischen  Gründen jedoch nur 100 km/h (s)  
-
 Seite 14 von 25 
  
  
@@ -1191,8 +1011,10 @@ Seite 18 von 25
  
  
  
+
  
 Zugentgleisung 04.05.2015 Eilenburg 
+
 lung  des  Schadensbildes  auf  die  hier  zuletzt  genannten  anerkannten  Regeln  der  Technik. 
 Der  Fcs-Wagen  war  lauftechnisch  für  eine  Geschwindigkeit  bis  zu  120  Km/h  zugelassen, 
 verkehrte  jedoch  gemäß  der  Wagenanschriften  mit  einer  Höchstgeschwindigkeit  von  100 
@@ -1302,15 +1124,14 @@ Seite 19 von 25
  
  
  
+
  
 Zugentgleisung 04.05.2015 Eilenburg 
+
 Abb. 6: Auszug Fahrdatenregistrierung, Quelle: DB Netz AG bearbeitet durch BEU 
 4.7 
 Interpretation der Unfallspuren 
-Die Spurenlage an der hinteren Achse des entgleisten Wagens ließ eindeutig auf die Ursa-
-
-che  für  die  Entgleisung  schließen.  Der  Radreifen  des  in  Fahrtrichtung  linken  Rades  hatte 
-
+Die Spurenlage an der hinteren Achse des entgleisten Wagens ließ eindeutig auf die Ursache  für  die  Entgleisung  schließen.  Der  Radreifen  des  in  Fahrtrichtung  linken  Rades  hatte 
 sich vom Radkörper gelöst und verdreht, so dass eine Spurführung der Achse innerhalb von 
 Weichen nicht mehr gewährleistet war. 
 Die in der Folge entstandenen Spuren am Oberbau stellten sich wie folgt dar: 
@@ -1365,9 +1186,7 @@ Seite 20 von 25
 Abb. 7: Einritzung am Ende der Herzstückspitze 
 Abb. 8: Beschädigte Schienenfüße 
 Über  die  Entfernung  von  der  Entgleisungsstelle  bis  zum  Stillstand  des  Zuges  wurden  die 
-
 Betonschwellen  beschädigt.  An  der  Stelle,  an  der  die  entgleisten  Räder  auf  die  Schwellen 
-
 auftrafen, war der Beton ausgebrochen. Die Außenseite der linken Schiene wies Schleifspuren des linken Rades am Schienenkopf auf. 
 Seite 21 von 25
 Zugentgleisung 04.05.2015 Eilenburg 
@@ -1391,9 +1210,7 @@ von vergleichsweise geringer Werkstofffestigkeit.
 Bremsstörungen  wurden  anhand  des  Untersuchungsergebnisses  ausgeschlossen.  Die 
 thermische  Beanspruchung  der  abgefahrenen  und  gewölbten  Radreifen  durch  Bremsvorgänge  im  Betrieb  begünstigte  jedoch  das  Lösen,  da  die Wärme nicht  mehr  ausreichend in 
 den  Radkörper  abgeleitet  werden  konnte.  Dadurch  dehnte  sich  der  Radreifen  aus  und  der 
-
 Pressverband  löste  sich.  Die  vollständige  Ablösung  des  einen  Radreifens  trat  infolge  des 
-
 Verlustes des abgescherten Sprengrings ein, wobei nach der Entgleisung eine Verdrehung 
 des Radreifens um 40° gemessen wurde. 
 Ein  Nachweis  der  fristgerechten  Abarbeitung  der  Fahrzeuginstandhaltungsstufen  gemäß 
@@ -1408,14 +1225,10 @@ nach dem Prinzip für Revisionsfristen nach dem Kriterium „Zeit“ gemäß UIC
 aufgebaut.  Nach  diesem  Prinzip  wurde  eine  maximale  Einsatzzeit  der  Güterwagen  von  6 
 Jahren für die Revisionsfrist  gemäß VPI-Modul 04-3 i. V. m. VPI-Modul 01 zugrunde gelegt. 
 Damit  werden  die  Anforderungen  an  die  Untersuchung  der  Fahrzeuge  gemäß  EBO  §  32 
-
 erfüllt.  Nach  dem  AVV  zeichnet  der  Wagenhalter  für  die  präventive  Instandhaltung  in  der 
-
 Form verantwortlich, dass die Wagen bei normaler Beanspruchung bis zur nächsten Revision betriebssicher und voll verkehrsfähig bleiben. Dieser Grundsatz des AVV liegt der Gestaltung  der  Instandhaltungsinhalte  in  den  VPI-Modulen  und  dem  Instandhaltungsplan  in  der 
 Form zugrunde, dass die Beanspruchung der Güterwagen in die Zeitintervalle des Einsatzes 
-
 mit  einfließt.  Daher  ist  die  zerstörungsfreie  Prüfung  der  Radreifendicken  durch  Ultraschall 
-
 ausschließlich für die Revisionstermine nach 6 Jahren festgelegt worden. Die Sichtkontrollen 
 Seite 23 von 25 
  
@@ -1521,9 +1334,7 @@ Seite 23 von 25
  
 Zugentgleisung 04.05.2015 Eilenburg 
 während der Instandhaltungsstufen G 2.0 und IN, zuletzt drei Monate vor dem Ereignis, hatten keine augenscheinlichen Mängel an den Radreifen ergeben, so dass der Wagen als betriebssicher  und  voll verkehrsfähig  wieder  in den Betriebseinsatz ging. Er hätte erst ausgesetzt werden müssen, wenn das Grenzmaß von 35 Millimetern gemäß AVV Anhang 1 unterschritten worden wäre. 
-
 Im  Betriebseinsatz  erfolgt  regelmäßig  bei  der  Zugbildung  eine  Sichtkontrolle  der  Radsätze 
-
 durch  den  Wagenmeister,  bei  der  insbesondere  auch  auf  Veränderungen an den Verdrehmarkierungen  zwischen  Radreifen  und  Radkörper  geachtet  werden  soll.  Ob  zum  Zeitpunkt 
 der Kontrolle der Wagen nach der Zugbildung und vor Abfahrt des Zuges bereits erkennbare 
 Verdrehungen vorhanden waren, lässt sich nicht mehr ermitteln. 
@@ -1661,22 +1472,15 @@ Seite 24 von 25
 bare  Kontrollmarken   festgestellt   werden,  sind   die  Radsätze  auszubauen   und  vollständig   nach  ggf.   zu  erweiternden   Beurteilungskriterien  (z.B.   Ultraschallprüfung   zur 
 Feststellung  der  Spaltbildung  zwischen Radkörper und Radreifen)  zu untersuchen.  
 -  Vergrößerung  des Mindestmaßes für die Radreifendicke.  
-
 Der   Gutachter   des  hier  untersuchten   Schadensereignisses  weist   explizit   darauf   hin,  dass 
-
 das vorliegende  Schadensbild identisch zu den zuvor beschriebenen Ereignissen  ist.   
-
 Im   Fall   der   hier  untersuchten   Entgleisung   konnte   nicht  ermittelt   werden,  dass   die  Ursache  
-
 maßgeblich  auf   Mängel   am  Oberbau  oder  der   Leit-  und  Sicherungstechnik   zurückzuführen  
-
 war.  
 6  
 Bisher  getroffene Maßnahmen  
 Zwischenzeitlich wurde eine  Untersuchung  der  Radsätze an  der  gesamten  Flotte der  bei  der  
-
 PRESS   im   Einsatz   befindlichen  Fcs-Wagen   durchgeführt.   Die  Untersuchung   ergab   keine  
-
 weiteren Auffälligkeiten.  
 Seite 25 von 25 
  

@@ -21,12 +21,16 @@ Kilometer:
  
  
  
+
     
 Untersuchungsbericht 
 
+
 Zugentgleisung,  11.09.2015,  Duisburg-Wedau - Lintorf (Bz. Düsseldorf) 
 
+
 Veröffentlicht durch: 
+
 Bundesstelle für Eisenbahnunfalluntersuchung 
 Heinemannstraße 6 
 53175 Bonn 
@@ -46,9 +50,12 @@ Seite 2 von 33
  
 Untersuchungsbericht 
 
+
 Zugentgleisung,  11.09.2015,  Duisburg-Wedau - Lintorf (Bz. Düsseldorf) 
 
+
 Inhaltsverzeichnis: 
+
 Seite
 
 
@@ -102,9 +109,12 @@ Untersuchung der Infrastruktur .................................................
 
 Untersuchung der Leit- und Sicherungstechnik................................................... 16
 
+
 Prozesse, Qualifikationen und Kompetenzen...................................................... 16
 
+
  1 
+
  1.1 
  1.2 
  1.3 
@@ -123,7 +133,6 @@ Prozesse, Qualifikationen und Kompetenzen.......................................
  4.4 
  4.5 
 4.5.1 
-
 Instandhaltungspersonal...................................................................................... 17
 
 
@@ -133,9 +142,11 @@ Betriebspersonale...............................................................
 
 
  4.6 
+
  4.7 
  4.8 
 Untersuchung der betrieblichen Handlungen ...................................................... 18
+
 
 Wagentechnische Untersuchung auf freier Strecke ............................................ 18
 
@@ -154,44 +165,13 @@ Triebfahrzeug Fzgnr.: 9180 6140 590-1 ..........................................
 
 
 Seite 3 von 33 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
  
 Untersuchungsbericht 
 
+
 Zugentgleisung,  11.09.2015,  Duisburg-Wedau - Lintorf (Bz. Düsseldorf) 
+
 
 4.8.3 
 
@@ -204,6 +184,7 @@ Interpretation der Unfallspuren ................................................
 
 
 5 
+
 6 
 Auswertung und Schlussfolgerungen ............................................................. 30
 
@@ -212,22 +193,12 @@ Sicherheitsempfehlungen.........................................................
 
 
 Seite 4 von 33 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
 Untersuchungsbericht 
 
+
 Zugentgleisung,  11.09.2015,  Duisburg-Wedau - Lintorf (Bz. Düsseldorf) 
+
 
 Abbildungsverzeichnis: 
 
@@ -286,33 +257,17 @@ Tabelle 2: Fahrzeugdaten .......................................................
 
  23
 
+
 Seite 5 von 33 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
 Untersuchungsbericht 
+
 
 Zugentgleisung,  11.09.2015,  Duisburg-Wedau - Lintorf (Bz. Düsseldorf) 
 
+
 Abkürzungsverzeichnis 
+
 AEG 
 Abzw 
 BEU 
@@ -337,7 +292,9 @@ Betriebszentrale
 Eisenbahn-Bundesamt 
 Eisenbahnbetriebsleiter 
 Eisenbahn- Bau- und Betriebsordnung 
+
 Entity  in  Charge  of  Maintenance  (ECM)  „Für  die  Instandhaltung  zuständige Stelle” 
+
 Eisenbahninfrastrukturunternehmen 
 Europäische Eisenbahn Agentur 
 Eisenbahnsignalordnung 
@@ -372,9 +329,12 @@ Seite 6 von 33
  
 Untersuchungsbericht 
 
+
 Zugentgleisung,  11.09.2015,  Duisburg-Wedau - Lintorf (Bz. Düsseldorf) 
 
+
 SB 
+
 Sbk 
 SiBe 
 SMS 
@@ -394,12 +354,16 @@ Seite 7 von 33
  
  
  
+
  
 Untersuchungsbericht 
 
+
 Zugentgleisung,  11.09.2015,  Duisburg-Wedau - Lintorf (Bz. Düsseldorf) 
 
+
 1 
+
 Zusammenfassung 
 1.1 
 Kurzbeschreibung des Ereignisses 
@@ -425,11 +389,15 @@ Seite 8 von 33
  
 Untersuchungsbericht 
 
+
 Zugentgleisung,  11.09.2015,  Duisburg-Wedau - Lintorf (Bz. Düsseldorf) 
+
 
             Abb.1: entgleiste Achse von Wagen Samms 31 80 4865 548-0 
 
+
 Abb.2: zerstörtes Radsatzlager 
+
 Seite 9 von 33 
 
  
@@ -440,9 +408,12 @@ Seite 9 von 33
  
 Untersuchungsbericht 
 
+
 Zugentgleisung,  11.09.2015,  Duisburg-Wedau - Lintorf (Bz. Düsseldorf) 
 
+
 2 
+
 Vorbemerkungen 
 2.1 
 Organisatorischer Hinweis 
@@ -471,9 +442,12 @@ Seite 10 von 33
  
 Untersuchungsbericht 
 
+
 Zugentgleisung,  11.09.2015,  Duisburg-Wedau - Lintorf (Bz. Düsseldorf) 
 
+
 der  BEU  dienen  nicht  dazu,  ein  Verschulden  festzustellen  oder  Fragen  der  Haftung  oder 
+
 sonstiger  zivilrechtlicher  Ansprüche  zu  klären  und  werden  unabhängig  von  jeder  gerichtlichen Untersuchung durchgeführt. 
 Die  Untersuchung  umfasst  die  Sammlung  und  Auswertung  von  Informationen,  die  Erarbeitung von Schlussfolgerungen einschließlich der Feststellung der Ursachen und gegebenenfalls die Abgabe von Sicherheitsempfehlungen. Die Vorschläge der Untersuchungsstelle zur 
 Vermeidung von Unfällen und Verbesserung der Sicherheit im Eisenbahnverkehr werden der 
@@ -507,6 +481,7 @@ Seite 11 von 33
  
 Untersuchungsbericht 
 
+
 Zugentgleisung,  11.09.2015,  Duisburg-Wedau - Lintorf (Bz. Düsseldorf) 
 
 
@@ -515,9 +490,7 @@ Nach  Abfahrt  des  Zuges  vom  Bf  Wanne-Eickel  wurde  dieser,  bereits  nach 
 durchfahrenen  Strecke  von  ca.  37  km,  zwischen  Abzw.  Duisburg-Rhurtal  und  Abzw.  Duisburg-Lotharstraße wegen Funkenflugs an der vierten Achse des zweiten Wagens zum ersten 
 Mal  gestellt.  Vorliegende  GSM-R  Aufzeichnungen  geben  wieder,  dass  der  Tf  eines  entgegenkommenden Zuges Funkenflug am Zug EZ 52075 bemerkt hatte und dies dem Fdl Abzw. 
 Oberhausen-Mathilde  mitteilte.  Daraufhin  gab  der  Fdl  Abzw.  Oberhausen-Mathilde  diese 
-
 Information  mittels  GSM-R  Einzelruf  an  den  Tf  des  Zuges  EZ  52075  weiter.  Ein  Notruf  mit 
-
 anschließendem Nothaltauftrag nach Ril 408.0581 wurde nicht gegeben. 
 Der  Tf  hielt  daraufhin  den  Zug  etwa  auf  halber  Strecke  zwischen  Abzw.  Duisburg-Ruhrtal 
 und Abzw. Lotharstraße auf der VzG-Strecke 2321 an. Ohne dass der Tf eine UV-Sperrung 
@@ -527,9 +500,7 @@ Kurze Zeit später erkannte der Tf des aus der Gegenrichtung kommenden Zuges 512
 Zug EZ 52075 Funkenflug sowie umherfliegende Teile und setzte daraufhin einen Notruf mit 
 anschließendem  Nothaltauftrag  ab.  Als  der  Nothaltauftrag  vom  Tf  EZ  52075  aufgenommen 
 wurde, befand sich der Zug bereits im Bf Lintorf. 
-
 Bei  der  Untersuchung  des  Ereignisses  wurde  festgestellt,  dass  sich  die  Entgleisungsstelle 
-
 von Zug EZ 52075 in km 10,200 der VzG-Strecke 2324 befand. In unmittelbarer Nähe wurden der Achsschenkel sowie verschiedene Bauteile des Radsatzlagergehäuses des entgleisten Radsatzes gefunden. Der Zug legte von der Entgleisungsstelle bis zum Halt im Bf Lintorf 
 noch eine Strecke von ca. 2800 m zurück. 
 Seite 12 von 33 
@@ -540,7 +511,9 @@ Seite 12 von 33
  
 Untersuchungsbericht 
 
+
 Zugentgleisung,  11.09.2015,  Duisburg-Wedau - Lintorf (Bz. Düsseldorf) 
+
 
 u
 a
@@ -556,8 +529,10 @@ s
 i
 u
 D
+
 f
 B
+
 f
 r
 o
@@ -565,6 +540,7 @@ t
 n
 L
 f
+
 i
 B
 Abb.3: IVL Plan 
@@ -581,12 +557,16 @@ Seite 13 von 33
  
  
  
+
  
 Untersuchungsbericht 
 
+
 Zugentgleisung,  11.09.2015,  Duisburg-Wedau - Lintorf (Bz. Düsseldorf) 
 
+
 3.2 
+
 Todesopfer, Verletzte und Sachschäden 
 Bei  dem  Ereignis  kam  es  weder  zu  verletzten  noch  getöteten  Personen.  Die  Sachschäden 
 setzen sich wie folgt zusammen: 
@@ -599,9 +579,12 @@ ca.
 850.000 € 
 10.000 € 
 
+
 100.000 € 
 
+
    Betriebserschwernisse    
+
 keine Angaben 
 3.3 
 Wetterbedingungen 
@@ -635,15 +618,16 @@ Seite 14 von 33
 
 Untersuchungsbericht 
 
+
 Zugentgleisung,  11.09.2015,  Duisburg-Wedau - Lintorf (Bz. Düsseldorf) 
 
+
 4.3 
+
 Untersuchung der Infrastruktur 
 Die  Zugentgleisung  ereignete  sich  auf  der  VzG-Strecke  2324  in  km  10,200  zwischen  den 
 Betriebsstellen Bf Duisburg-Wedau und Bf Lintorf des EIU DB Netz AG. Dieser Streckenabschnitt  ist  als  zweigleisige  Hauptbahn  ausgeführt  und  wurde  zum  Ereigniszeitpunkt  nach 
-
 dem  Betriebsverfahren  der  Ril  408  „Züge  fahren  und  Rangieren“  befahren.  Die  Strecke  ist 
-
 mit induktiver Zugbeeinflussung ausgerüstet. Bis zum Zeitpunkt des Ereignisses gab es keinerlei Störungen. Die Bahnhöfe Duisburg-Wedau und Lintorf sowie die dazwischenliegende 
 freie Strecke befinden sich in der Zuständigkeit des özF Bf Duisburg-Wedau mit Sitz in der 
 Betriebszentrale (Bz) Duisburg. Das elektronische Stellwerk (ESTW) selbst befindet sich im 
@@ -664,9 +648,12 @@ Seite 15 von 33
  
 Untersuchungsbericht 
 
+
 Zugentgleisung,  11.09.2015,  Duisburg-Wedau - Lintorf (Bz. Düsseldorf) 
 
+
                  Abb.5: zerstörtes Herzstück an Weiche 5 des Bf Lintorf 
+
 4.4 
 Untersuchung der Leit- und Sicherungstechnik 
 Die VzG-Strecke 2324 ist als zweigleisige Hauptbahn mit Ks-Signalisierung ausgeführt und 
@@ -678,13 +665,10 @@ Prozesse, Qualifikationen und Kompetenzen
 Sicherheitsmanagementsystem, SMS 
 In der Sicherheitsrichtlinie 2004/49/EG Artikel 9 Abs. 2 u. 3 sind die Mindestanforderungen  
 an ein SMS formuliert. Als Anforderung gilt, dass die Kontrolle aller Risiken die mit der Tätigkeit  des  EVU  bzw.  des  Halters  verbunden  sind  gewährleistet  wird.  Dazu  gehören  u.a.  die 
-
 Instandhaltung der Fahrzeuge, Materialbeschaffung und Schulungsprogramme zur Aufrechterhaltung der Kompetenz des Personals. 
 Entity in Charge of Maintenance, ECM 
 Mit  der  Veröffentlichung  der  Richtlinie  2008/110/EG  des  europäischen  Parlaments  und  des 
-
 Rates  wird  gefordert,  dass  jedem  Fahrzeug  eine  „für  die  Instandhaltung  zuständige  Stelle“ 
-
 (engl. Entity in Charge of Maintenance) zugewiesen wird. Entsprechend des Geltungsbereiches der Verordnung gilt diese b.a.w. für Güterwagen. Das ECM beschreibt die Umsetzung 
 der  Forderungen  der  Verordnung  2011/445  der  europäischen  Kommission  vom  10.  Mai 
 Seite 16 von 33 
@@ -693,12 +677,16 @@ Seite 16 von 33
  
  
  
+
  
 Untersuchungsbericht 
 
+
 Zugentgleisung,  11.09.2015,  Duisburg-Wedau - Lintorf (Bz. Düsseldorf) 
 
+
 2011. Danach ist die „für die Instandhaltung zuständige Stelle“ für den betriebssicheren 
+
 Zustand  eines  Fahrzeuges  zuständig  und  als  solche  im  nationalen  Fahrzeugregister 
 (NVR) – in Deutschland im Fahrzeugeinstellungsregister - zu jedem Fahrzeug registriert. Als 
 „für die Instandhaltung verantwortliche Stelle“ (ECM) hat DB Schenker Rail AG die Anforderungen  der  Richtlinie  2008/110/EG  und  der  Verordnung  2011/445  umzusetzen.  Zur  Unterstützung dieser Anforderungen wurde ein entsprechendes ECM Handbuch erstellt. 
@@ -730,12 +718,14 @@ Seite 17 von 33
  
 Untersuchungsbericht 
 
+
 Zugentgleisung,  11.09.2015,  Duisburg-Wedau - Lintorf (Bz. Düsseldorf) 
 
+
 Fdl Abzw Oberhausen-Mathilde, Fdl Duisburg-Wedau, Fdl Wanheimer Bahn 
+
 Bei der Überprüfung der am Ereignis beteiligten Mitarbeiter auf Qualifikation, regelmäßigen 
 Fortbildung (RFU) sowie Tauglichkeit wurden keine Unregelmäßigkeiten festgestellt. 
-
 Trotz  entsprechender  Nachweise  ist  festzustellen,  dass  die  beteiligten  Fdl  die  Regeln  entsprechend der Richtlinie 408.0553 und 408.0583 nicht angewendet haben. 
 4.6 
 Untersuchung der betrieblichen Handlungen 
@@ -757,10 +747,8 @@ m gefahren war und dabei erhebliche Schäden verursachte.
 Wagentechnische Untersuchung auf freier Strecke 
 Nachdem der Tf wegen des gemeldeten Funkenfluges auf freier Strecke zwischen den Betriebsstellen  Abzw  Oberhausen-Mathilde  und  Abzw  Lotharstraße  angehalten  hatte,  verließ 
 der  Tf  das  Tfz  um  die  Ursache  für  den  Funkenflug  zu  erkunden.  Eine  UV-Sperrung  des 
-
 Nachbargleises  wurde  nicht  beantragt.  In  der  Zeit  von  22:03:50  Uhr  bis  22:09:37  Uhr  versuchte  der  Fdl  Abzw Oberhausen-Mathilde insgesamt viermal den Tf zu erreichen ohne zu 
 wissen wo sich dieser aufhielt. Auf Grundlage der zeitlichen Abstände zwischen den einzelnen  GSM-R  Gesprächen  konnte  so  rekonstruiert  werden,  dass  der  Tf  in  einer  Zeit  von  ca. 
-
 Seite 18 von 33 
  
  
@@ -770,13 +758,13 @@ Seite 18 von 33
   
 Untersuchungsbericht 
 
+
 Zugentgleisung,  11.09.2015,  Duisburg-Wedau - Lintorf (Bz. Düsseldorf) 
+
 
 5:47 min, die ersten acht Wagen mit insgesamt 42 Achsen auf beiden Seiten des Zuges untersuchte. Dies entspricht einer Wegstrecke von ca. 265 m die bei Dunkelheit im Schotterbett 
 zurückgelegt wurde. Bei einer Untersuchungszeit von ca. 10 s je Achse an, hätte er allein für 
-
 die  Untersuchung  ca.  07:00  min  benötigt.  Berücksichtigt  man  nun,  das  Auf-  und  Absteigen 
-
 von  der  Lokomotive,  die  Untersuchung  auf  freier  Strecke  bei  Dunkelheit,  sowie  das  Wechseln auf die andere Zugseite hinter dem achten Wagen, ist die benötigte Zeit für die Suche 
 nach einer festen Bremse bzw. eines Heißläufers zu kurz. 
 Die  Untersuchung  blieb  ohne  Befund  was  auf  Grund  des  Schadbildes,  das  sich  nach  dem 
@@ -805,9 +793,12 @@ Seite 19 von 33
  
 Untersuchungsbericht 
 
+
 Zugentgleisung,  11.09.2015,  Duisburg-Wedau - Lintorf (Bz. Düsseldorf) 
 
+
 Wagen 
+
 Achsen 
 WagenzugGewicht der 
 WagenzugBremshunlänge [m] 
@@ -849,9 +840,12 @@ Seite 20 von 33
  
 Untersuchungsbericht 
 
+
 Zugentgleisung,  11.09.2015,  Duisburg-Wedau - Lintorf (Bz. Düsseldorf) 
 
+
 EFR Daten 
+
 Die Rekonstruktion des Fahrtverlaufes ergab, dass Zug EZ 52075 vom Abgangsbahnhof 
 Wanne-Eickel Wof eine Strecke von ca. 36,700 km in einer Zeit von 01:01:19 h bis zum Halt 
 wegen Funkenflugs zurücklegte. Nach einer Standzeit von 08:06 min setzte der Zug seine 
@@ -869,12 +863,16 @@ Seite 21 von 33
  
  
  
+
  
 Untersuchungsbericht 
 
+
 Zugentgleisung,  11.09.2015,  Duisburg-Wedau - Lintorf (Bz. Düsseldorf) 
 
+
 Zustandsbeschreibung des Wagens 
+
 Bei  dem  entgleisten  Wagen  handelte  es  sich  um  einen  Drehgestellflachwagen  der  Fahrzeuggattung  Samms  709  mit  sechs  Radsätzen  die  in  zwei  dreiachsigen  Drehgestellen  der 
 Bauart 711.5 angeordnet waren. Der Wagen war mit Rungen, Stirnwandklappen und klappbaren  Ladeschwellen  ausgerüstet.  Halter  und  für  die  Instandhaltung  zuständige  Stelle  des 
 Fahrzeuges war das EVU DB Schenker Rail AG 
@@ -892,12 +890,16 @@ Seite 22 von 33
  
  
  
+
  
 Untersuchungsbericht 
 
+
 Zugentgleisung,  11.09.2015,  Duisburg-Wedau - Lintorf (Bz. Düsseldorf) 
 
+
 EVU 
+
 Fahrzeugnummer 
 Hersteller 
 Wagengattung 
@@ -936,8 +938,10 @@ Seite 23 von 33
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  11.09.2015,  Duisburg-Wedau - Lintorf (Bz. Düsseldorf) 
 Heißläufer am 
 Radsatz 1L 
@@ -953,9 +957,12 @@ Quelle: DB AG, Handbuch 93905
  
 Untersuchungsbericht 
 
+
 Zugentgleisung,  11.09.2015,  Duisburg-Wedau - Lintorf (Bz. Düsseldorf) 
 
+
 Untersuchung des Schadradsatzlagers (1L) 
+
 Bei der Untersuchung des Radsatzlagergehäuses waren Deformationen zu erkennen die 
 durch das Heißlaufen und den Bruch der Radsatzwelle zu erklären waren. Auf Grund starker 
 Hitzeeinwirkung war der Farbauftrag des Gehäuses abgebrannt. Im oberen Bereich des inneren Lagerringes war, durch den sich dort abstützenden, drehenden Wellenstumpf, eine 
@@ -976,12 +983,16 @@ Seite 25 von 33
  
  
  
+
  
 Untersuchungsbericht 
 
+
 Zugentgleisung,  11.09.2015,  Duisburg-Wedau - Lintorf (Bz. Düsseldorf) 
 
+
 Schmiermittelanhaftungen 
+
 Die gesamte Fläche der Radscheibe war auf der Schadseite gleichmäßig mit einem Fettfilm 
 versehen. Es wurde daraus geschlossen, dass sich ein erheblicher Teil des ursprünglich im 
 Lager befindlichen Fettes auf der Radscheibe niedergeschlagen hatte. 
@@ -1001,9 +1012,12 @@ Seite 26 von 33
  
 Untersuchungsbericht 
 
+
 Zugentgleisung,  11.09.2015,  Duisburg-Wedau - Lintorf (Bz. Düsseldorf) 
 
+
 SAP-Liste 
+
 Dafür,  dass  sich  bereits  über  einen  längeren  Zeitraum  ein  Schmiermittelverlust  zeigte, 
 sprach  die  Tatsache,  dass  laut  einer  Untersuchungshistorie  (Auszug  aus  SAP-Liste,  ECM, 
 DB  Schenker  Rail  AG)  bereits  am  20.03.2015  Schmiermittelaustritt  festgestellt  wurde.  Es 
@@ -1019,12 +1033,16 @@ Seite 27 von 33
  
  
  
+
  
 Untersuchungsbericht 
 
+
 Zugentgleisung,  11.09.2015,  Duisburg-Wedau - Lintorf (Bz. Düsseldorf) 
 
+
 Laut 
+
 Instandhaltungsweisung 
 IW-C 
 (GW) 
@@ -1042,26 +1060,24 @@ Seite 28 von 33
  
  
  
+
  
 Untersuchungsbericht 
 
+
 Zugentgleisung,  11.09.2015,  Duisburg-Wedau - Lintorf (Bz. Düsseldorf) 
 
+
 Untersuchung des Referenzlagers (1R) 
+
 Da das zerstörte Radsatzlager besonders aufgrund der Hitzeeinwirkung nicht mehr in allen 
-
 Fällen  aussagekräftige  Fakten  liefern  konnte,  ist  es  ein  bewährtes  Vorgehen,  das  zweite, 
-
 gewöhnlich nicht zerstörte Lager des Radsatzes zu untersuchen. 
-
 Beide  Lager  hatten  die  gleiche  Laufleistung  seit  der  letzten  Aufarbeitung.  Sie  wurden  auch 
-
 gleichzeitig  befettet.  Die  Erkenntnisse,  die  somit  gewonnen  wurden,  konnten  als  Indizien 
 aufgefasst werden. 
 Schmiermittelaustritt 
-
                        Abb.16: geöffnetes Referenzlager. Lage um 180° gedreht zum eingebauten Zustand 
-
 Quelle: A. Daniel, IFS 
 Der  erste  Eindruck  beim  Öffnen  des  Lagers  war  das  mäßige  Vorhandensein  von  Fett.  Im 
 Allgemeinen  konnte  davon  ausgegangen  werden,  dass  sich  im  Lagerdeckel  eines  regelgerecht befetteten Lagers die Menge einer „guten Faust“ befand. Bei Neubefettung beträgt die 
@@ -1076,12 +1092,16 @@ Seite 29 von 33
  
  
  
+
  
 Untersuchungsbericht 
 
+
 Zugentgleisung,  11.09.2015,  Duisburg-Wedau - Lintorf (Bz. Düsseldorf) 
 
+
 4.9 
+
 Interpretation der Unfallspuren 
 Als Ursache wurde ein Heißläufer am Radsatzlager der in FR ersten Achse (1L) des dritten 
 Wagens  festgestellt.  In  Folge  kam  es  zum  Bruch  des  Achsschenkels  und  dem  Verlust  des 
@@ -1098,7 +1118,6 @@ Feststellung  von  Funkensprühen  einen  Notruf  mit  Nothaltauftrag  gemäß  
 408.0581/408.0553 abgeben müssen. Ebenso hätte der informierte Fdl reagieren müssen. 
 Zwar  konnte  bei  diesem  Ereignis  kein  direkter  Zusammenhang  zwischen  nicht  gegebenem 
 Nothaltauftrag und späterer Zugentgleisung festgestellt werden, zumal der Zug zwischenzeitlich  angehalten  wurde.  Dennoch  ist  grundsätzlich  ein  restriktiver  Gebrauch  von  Notruf  und 
-
 Nothaltauftrag  festzustellen.  Die  Untersuchungsstelle  hat  bereits  mehrfach  auf  die  mangelhafte  Anwendung  von  Nothaltaufträgen  hingewiesen.  Insbesondere  das  Ereignis  von  Bad 
 Endorf vom 08.04.2011 zeigt einige Parallelen zum aktuellen Ereignis. 
 Das Verfahren „Unregelmäßigkeiten an Fahrzeugen oder Ladungen“, „Verhalten bei Gefahr“  
@@ -1116,7 +1135,9 @@ Seite 30 von 33
  
 Untersuchungsbericht 
 
+
 Zugentgleisung,  11.09.2015,  Duisburg-Wedau - Lintorf (Bz. Düsseldorf) 
+
 
 Grundsätzlich ist eine wagentechnische Untersuchung auf freier Strecke eine potentielle Gefahrensituation. Ein Abschreiten des Zuges im Schotterbett dazu bei Dunkelheit ist entsprechend zu sichern. In diesem Zusammenhang ist es nicht nachvollziehbar warum der Tf auf 
 eine Gleissperrung aus UV Gründen verzichtete, in dem er diese nicht beim Fdl beantragte. 
@@ -1125,7 +1146,6 @@ Nach  Aussage  des  Tf  wurde  der  Zug  von  ihm  beidseitig  bis  zum  achten 
 hatte. Laut Wagenliste ergeben die ersten acht Wagen (42 Achsen) eine Gesamtlänge von 
 ca. 116,1 m inclusive einer Loklänge von ca. 16,4 m hätte der Tf zweimal eine Strecke von 
 ca.  132,5  m  in  einer  Zeit  ca.  05:47  min  zurücklegen  müssen.  Nimmt  man  eine  Untersuchungszeit von ca. 10 s je Achse an, hätte er allein für die Untersuchung ca. 07:00 min benötigt.  In  der  benötigten  Zeit  von  05:47  min  war  eine  präzise  Untersuchung  der  Wagen  nicht 
-
 möglich 
 Die relativ kurze Distanz von ca. 9,1 km zwischen dem Untersuchungshalt und der Entgleisungsstelle lässt den Schluss zu, dass es bereits beim Untersuchungshalt zu einem erheblichen Hitzeeintrag am betroffenen Radsatzlagergehäuse gekommen war der mit einer „Handrückenprobe“ feststellbar gewesen wäre. Dies korrespondiert mit dem Gutachten wonach die 
 Art  des  Abbrandes  der  Anstrichfarbe  aufgrund  der  massiven  Hitzeentwicklung  über  einen 
@@ -1144,9 +1164,12 @@ Seite 31 von 33
  
 Untersuchungsbericht 
 
+
 Zugentgleisung,  11.09.2015,  Duisburg-Wedau - Lintorf (Bz. Düsseldorf) 
 
+
 Fahrzeuginstandhaltung 
+
 Es  ist  davon  auszugehen,  dass  der  Schmiermittelverlust  allmählich  mit  einem  Defekt  des 
 Filzringes einherging. Dafür spricht, dass die Radscheibe vollflächig außer mit Schmiermittel 
 auch  mit  Staub-  und  Rußpartikeln  beschichtet  war.  Nach  weitest  gehendem  Verlust  des 
@@ -1157,9 +1180,7 @@ Drehgestellrahmen  könnte  möglicherweise  die  Werkstattuntersuchung,  insbes
 Blick auf die Radscheibe, beeinflusst haben da nur ein geringer Teil der Radscheibe, um den 
 Wellenschenkel  herum,  zu  erkennen  war  (siehe  Abb.12).  Gleichwohl  ist  eine  ausreichende 
 Sicht auf die Radscheibe aus der Instandhaltungsgrube wie auch seitlich, vorbei am Drehgestellrahmen, möglich. 
-
 Auffällig  war,  dass  auch  das  Referenzlager  (1R)  bereits  Schmiermittelverlust  zeigte  (siehe 
-
 Abb.16). Das Versagen auch dieses Radsatzlagers war absehbar. 
 Da  bei  den  gutachterlichen  Untersuchungen  festgestellt  worden  ist,  dass  das  verwendete 
 Schmiermittel zumindest „nicht mehr“ den benötigen Anforderungen der NGLI-Klasse 2 entspricht zeigt ebenfalls auf, dass die werkstattseitige Untersuchung der Radsatzlagergehäuse 
@@ -1174,12 +1195,16 @@ Seite 32 von 33
  
  
  
+
  
 Untersuchungsbericht 
 
+
 Zugentgleisung,  11.09.2015,  Duisburg-Wedau - Lintorf (Bz. Düsseldorf) 
 
+
 6 
+
 Sicherheitsempfehlungen 
 Gemäß § 6 Eisenbahn-Unfalluntersuchungsverordnung (EUV) und Art. 26 Abs. 2 der Richtlinie (EU) 2016/798 ergehen nachfolgende Sicherheitsempfehlungen: 
 lfd. Nr. 

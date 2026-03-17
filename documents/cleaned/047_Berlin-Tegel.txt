@@ -49,7 +49,6 @@ Seite 2 von 27
 Zugentgleisung,  21.08.2012,  Berlin-Tegel 
 Inhaltsverzeichnis: 
 Seite 
-
 Zusammenfassung .............................................................................................. 6
 
 
@@ -100,36 +99,50 @@ Untersuchung der Infrastruktur .................................................
 
  1 
  1.1 
+
  1.2 
  1.3 
+
  2 
  2.1 
+
  2.2 
  2.3 
+
  3 
  3.1 
+
  3.2 
  3.3 
+
  4 
  4.1 
+
  4.2 
  4.3 
 4.3.1 
-
 Allgemein, Lage im Netz...................................................................................... 11
 
 
  4.4 
+
 Untersuchung der Leit- und Sicherungstechnik................................................... 12
 
+
 4.4.1 
+
 Vorhandene Anlagen – Regelfall – gemäß Örtliche Regelungen 408.01 ............ 12
 
+
 4.4.2 
+
 Beschreibung der Anlagensituation zum Zeitpunkt der Zugentgleisung.............. 13
 
+
  4.5 
+
 Untersuchung der betrieblichen Handlungen ...................................................... 14
+
 
 4.5.1 
 
@@ -147,9 +160,9 @@ Fahrverlaufsauswertung .........................................................
 
 
  4.7 
+
  5 
  6 
-
 Interpretation der Unfallspuren ............................................................................ 23
 
 
@@ -160,32 +173,10 @@ Bisher getroffene Maßnahmen ...................................................
 
 
 Seite 3 von 27 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
 Untersuchungsbericht 
 Zugentgleisung,  21.08.2012,  Berlin-Tegel 
 Abbildungsverzeichnis:  
-
 Abb. 1: Aufnahmen an der Unfallstelle.....................................................................................7 
 
 
@@ -211,6 +202,7 @@ Abb. 6: Auszug aus dem Zugmeldebuch Berlin-Tegel ...............................
 
 
 Abb. 7: Auszug aus dem Fernsprechbuch Berlin-Tegel, Nachweis der erteilten Befehle ......18
+
 
 Abb. 8: Auszug aus Teil B Geschwindigkeitsheft, Örtliche Richtlinien zur Ril 408.01 – 09 für 
 
@@ -246,13 +238,10 @@ Abb. 18: Aufnahmen an der Unfallstelle, Weiche 74...............................
 
 
 Seite 4 von 27 
- 
- 
- 
- 
- 
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  21.08.2012,  Berlin-Tegel 
 Abkürzungsverzeichnis 
 AEG 
@@ -299,8 +288,10 @@ Seite 5 von 27
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  21.08.2012,  Berlin-Tegel 
 1 
 Zusammenfassung 
@@ -309,9 +300,7 @@ Am 21.08.2012 um 11:42 Uhr kam es auf der Strecke 630, Berlin-Schönholz – Teg
 S25068 der Linie 25/5. Dabei entgleisten die beiden in der Zugmitte befindlichen Wagen auf 
 der Weiche 74 im Gleis 1 in km 11, 214. 
 1.2  Folgen 
-
 6  Personen  wurden  durch  die  Entgleisung  leicht  verletzt  und  zur  weiteren  Untersuchung  in 
-
 Krankenhäuser eingeliefert. 
 Von dem aus 6 Wagen bestehenden Zug, sind die Wagen 3 und 4 entgleist und im Entgleisungsbereich wurde der Oberbau beschädigt. 
 1.3  Ursachen 
@@ -334,8 +323,10 @@ Seite 7 von 27
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  21.08.2012,  Berlin-Tegel 
 2 
 Vorbemerkungen 
@@ -362,8 +353,10 @@ Seite 8 von 27
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  21.08.2012,  Berlin-Tegel 
 2.3  Mitwirkende 
 Im  Rahmen  der  Sachverhaltsermittlung  und  Ursachenerforschung  wurden folgende externe 
@@ -379,24 +372,19 @@ sowie die Bahnübergangssicherungsanlage an der Gorkistraße gestört, so dass d
 (Linie S 25) im Bf Berlin-Tegel von Gleis 1 auf Signal Zs 1 und mit Befehl 8 zur Sicherung 
 des BÜ Po 5 in Richtung Bf Hennigsdorf ausfuhr. Nach dem Befahren der Weiche 74 mit den 
 ersten beiden Wagen lief die Weiche 74 unter dem fahrenden Zug vollständig in die Linkslage um, wodurch die nachfolgenden Fahrzeuge in Richtung Stumpfgleis der Niederbarnimer 
-
 Eisenbahn  abgeleitet  wurden.  Dabei  entgleisten  der  3.  und  4.  Wagen  des  Zuges  mit  allen 
-
 Radsätzen und der 3. Wagen kam in Schräglage. Der Triebfahrzeugführer setzte einen Notruf ab. 
 Abb. 2: Übersichtsplan Berlin-Tegel, 
 
+
 Quelle: Streckenatlas der S-Bahn Berlin GmbH bearbeitet durch EUB 
 
+
 Seite 9 von 27 
- 
- 
- 
- 
- 
- 
- 
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  21.08.2012,  Berlin-Tegel 
 3.2  Todesopfer, Verletzte und Sachschäden 
 Todesopfer sind keine zu beklagen. 6 Reisende wurden durch die Entgleisung leicht verletzt. 
@@ -412,10 +400,14 @@ ca.
 ca. 
 741.000 € 
 
+
 500.000 € 
+
 65.000 € 
 
+
 3.3  Wetterbedingungen 
+
 Zum  Unfallzeitpunkt  waren  keine  für  den  Unfallhergang  relevanten  Wetterbesonderheiten 
 feststellbar. Es herrschte klare Sicht es war sonnig und sehr warm. 
 4 
@@ -465,8 +457,10 @@ Seite 11 von 27
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  21.08.2012,  Berlin-Tegel 
 Abb. 4: Auszug aus der Örtlichen Richtlinie Berlin-Tegel, Örtliche Regelungen zur Ril 408.01 
 Quelle: S-Bahn Berlin GmbH, bearbeitet EUB 
@@ -489,8 +483,10 @@ Seite 12 von 27
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  21.08.2012,  Berlin-Tegel 
 Auf dem Bahnhof ist Zugbeeinflussung, in Form von PZB für die Züge der Deutschen Bahn 
 AG  und  mechanisch  wirkende  Streckenanschläge  an  allen  Haupt-  und  Rangiersignalen  für 
@@ -503,17 +499,13 @@ erfolgt  durch  den  Fahrdienstleiter  Stellwerk  Tegel.  Die  Einschaltung  aus
 Heiligensee erfolgt mittels Radsensoren im km 14,650. Eine Auto-HET ist nicht vorhanden. 
 4.4.2  Beschreibung der Anlagensituation zum Zeitpunkt der Zugentgleisung 
 Am  20.08.2012  trat  um  16.00  im  Stellwerk  Tegel  des  Bahnhofes  Berlin-Tegel  eine  Störung 
-
 der  Sicherungsanlagen  ein,  die  offensichtlich  durch  einen  Blitzschlag  ausgelöst  wurde.  Die 
-
 zu  dieser  Zeit  arbeitende  Fahrdienstleiterin  meldete  die  Störung  der  Betriebszentrale  S-
 Bahn. 
 Der Netzkoordinator S-Bahn meldete 16.13 Uhr an die Entstörungsveranlassung zuständige 
 Stelle der DB Netz AG (EVzS), dass nach Blitzeinschlag alle Gleisfreimeldeabschnitte im Bf 
 Tegel in Richtung Heiligensee gestört sind. Diese Meldung wurde durch die Fahrdienstleiterin im Arbeits- und Störungsbuch das Stellwerk Tegel mit Uhrzeit 16.20 Uhr mit der laufenden Nummer 49 nachgewiesen. 
-
 Alle  Gleisfreimeldeabschnitte  nördlich  der  Bahnsteiggleise  waren  gestört.  Alle  Gleise,  auch 
-
 freie Gleise wurden rot ausgeleuchtet und somit „besetzt“ angezeigt. 
 Um 17.10 Uhr dokumentiert ein Mitarbeiter der DB Netz AG (Fachkraft LST) im Arbeitsbuch 
 des Stw Tgl: „Entstörung Sig Vt, Abschnitt Weichen 72, 73, 74, 75, 76, 1 VI, StHI, „R“ ja Gleis 
@@ -551,8 +543,10 @@ Seite 14 von 27
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  21.08.2012,  Berlin-Tegel 
 Fahrdienstleiter, eingeteilt für den Frühdienst (06.00 bis 14.00 Uhr) und eine Fahrdienstleiterin in Einweisung, die am Tag zuvor mit der Einweisungsschicht beauftragt wurde. 
 Der Fahrdienstleiter auf dem Stellwerk Berlin-Tegel ist das für die ordnungsgemäße Arbeitsausführung notwendige Regelwerk auf dem Stellwerk beigegeben. Dazu zählen insbesondere  auch  die  Richtlinie  408.01-09  (Züge  fahren  und  Rangieren)  sowie  die  zugehörigen  Örtlichen Richtlinien für Mitarbeiter auf Betriebsstellen, die weitergehende Regelungen bezogen 
@@ -570,9 +564,7 @@ Dienstausübung auf diesem Stellwerk dienen (Ril. 482.9001, Seite 14 – Bahnbet
 Handlungen durch den diensthabenden Fahrdienstleiter zu überwachen sind. 
 4.5.1.2  Betriebliche Handlungen des Stellwerkspersonals 
 Infolge  der  Störungen  an  den  sicherungstechnischen  Stellwerksanlagen  galten  für  die  Bedienung  der  Anlagen  die  Regelungen  der  Örtlichen  Richtlinie  für  den  Störungsfall.  Für  die 
-
 betreffende  Fahrt  S  25068  und  für  die  Fahrten  zuvor  seit  Eintritt  der  Störung  über  Gleis  1 
-
 musste auf Grund der gestörten Gleisfreimeldeanlage auf Ersatzsignal Zs 1 ein- und ausge-
 Seite 15 von 27 
  
@@ -582,31 +574,22 @@ Seite 15 von 27
  
 Untersuchungsbericht 
 Zugentgleisung,  21.08.2012,  Berlin-Tegel 
-
 fahren  werden.  Außerdem  war  für  den  gestörten  BÜ  Gorkistraße  der  Befehl  8  erforderlich. 
-
 Die  Bedienungen  der  Ersatzsignale  sowie  die  Auflösungen  von  Fahrstraßen  über  diesen 
 Bereich  als  Voraussetzung  für  das  Umstellen  der  Weichen  sind  nachweispflichtig.  Ein  Abgleich  nach  dem  Unfall  beim  Eintreffen  ergab  aber  keine  Übereinstimmung  mit  der  Dokumentation. Es war daher nicht möglich die Bedienungshandlungen eindeutig den Zugfahrten 
 zu  zuordnen.  Aus  den  vorhandenen  Fahrplandaten  und  weiteren  Dokumentationen  sollte 
 nun in Abstimmung mit der Bundespolizei ein entsprechender Ablauf durch den zuständigen 
 Verantwortlichen Mitarbeiter der S-Bahn Berlin GmbH erarbeitet werden. 
-
 Nach  den  vorliegenden  Fakten  der  Dokumentationen  ist  der  betriebliche  Ablauf  wie  in  der 
-
 folgenden Darstellung ermittelt: 
 Nach dokumentierten Abläufen (Befehl 8, Funkgesprächsaufzeichnungen): 
-
 Der  Zug  S  25068  von  Reinickendorf  fährt  im  Bf  Tegel  zur  Kreuzung  mit  dem  Zug  S 25073 
-
 von Berlin-Heiligensee ein und bleibt am Bahnsteig stehen. 
 Nach  Rückmelden  des  Zuges  S  25073  an  den  Fdl  BHLS  (Nachweis  11.30  Uhr)  erfolgt  die 
 Vorausmeldung S 25068. Der Nachweis wird im Zugmeldebuch geführt. Dem Triebfahrzeugführer wird nach Meldung der Abfahrbereitschaft vom Fdl Berlin-Tegel über Betriebsfunk der 
 Befehl 8 übermittelt (wg. nicht gesichertem BÜ, ebenfalls durch Aussage Tf bestätigt).Wegen 
-
 einer  hilflosen  Person  (Aussage  Tf)  im  S  25068  verzögerte  sich  die  Abfahrt  um  ca.  7  min, 
-
 wodurch  die  voraussichtliche  Abfahrt  des  S  25068  um  11.37  Uhr  vom  Fdl.  Berlin-Tegel  an 
-
 den Fdl. Berlin-Heiligensee gemeldet wird. 
 Die Tasten der gestörten Gleisfreimeldeabschnitte sind mit Hilfssperren versehen. 
 Nach  Ankunft  des  Zuges  S  25073  am  Bahnsteig  Gleis  5  Bahnhof  Tegel  konnte  der  Fahrdienstleiter  unter  Anwendung  der  Hilfstasten  die  Fahrstraße  des  Zuges  S  25073  auflösen 
@@ -635,8 +618,10 @@ Seite 17 von 27
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  21.08.2012,  Berlin-Tegel 
 Abb. 7: Auszug aus dem Fernsprechbuch Berlin-Tegel, Nachweis der erteilten Befehle 
 Quelle: Bundespolizeiinspektion Berlin Hbf, bearbeitet EUB 
@@ -645,9 +630,7 @@ Die betrieblichen Handlungen des Triebfahrzeugführers werden mit der Fahrverlau
 4.6  Untersuchung von Fahrzeugen 
 4.6.1  Fahrverlaufsauswertung 
 Bei der entgleisten S-Bahn, Zug-Nr. S 25068, der Linie S 25 handelte es sich um ein Fahrzeug  der  Baureihe  481,  Fahrzeug-Nr.  481039,  ausgerüstet  mit  analogem  Zugfunk.  Gemäß 
-
 Teil  B  Geschwindigkeitsheft,  Örtliche  Richtlinien  zur  Ril  408.01  –  09  für  das  Zugpersonal 
-
 (VzG  S-Bahn)  beträgt  die  zugelassene  Streckengeschwindigkeit  in  dem Bereich des Haltepunktes Tegel (bis km 11,35 hinter Weiche 76) 80 km/h. Da zum Zeitpunkt der Entgleisung 
 auf Ersatzsignal Zs 1 gefahren werden musste, betrug die maximal zulässige Geschwindigkeit gemäß Signalbuch in dem Bereich 40 km/h bis unmittelbar hinter den Weichenbereich. 
 Seite 18 von 27 
@@ -656,8 +639,10 @@ Seite 18 von 27
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  21.08.2012,  Berlin-Tegel 
 
 Abb. 8: Auszug aus Teil B Geschwindigkeitsheft, Örtliche Richtlinien zur Ril 408.01 – 09 für das Zugpersonal 
@@ -669,8 +654,10 @@ Seite 19 von 27
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  21.08.2012,  Berlin-Tegel 
 Weiche74  Entgleisungsstelle 
 Abb. 9: Fahrverlauf – Grafik, Fzg. Nr.: 481039 
@@ -681,9 +668,7 @@ AEG Westinghouse Transport-Systeme GmbH aufgezeichnet.
 Die  Auswertung  des  Fahrtverlaufs  orientiert  sich  an  der  plangemäßen  Kilometrierung  an 
 Hand der Signalstandorte im Spurplan. Die Auswertung erfolgt dann bis zum Aufzeichnungsende  ca.  12,4  Sekunden  nach  dem  Passieren  der  Weichenspitze  W74.  Der  S-Bahnzug  S 
 25068 wird demnach bis zur Entgleisung in der Weiche 74 auf eine Geschwindigkeit von ca. 
-
 38,5  km/h  beschleunigt.  Die  Spitze  der  Weiche  74  befindet  sich  im  km  11,214,  ab  hier  ist 
-
 eine weitere Geschwindigkeitserhöhung ausgewiesen auf ca. 48,2 km/h die danach in ca. 79 
 m erreicht wird. Das Ende der Aufzeichnung mit ausgewiesenen 0 km/h wird dann nach weiteren ca. 69 m erreicht. 
 Seite 20 von 27 
@@ -692,8 +677,10 @@ Seite 20 von 27
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  21.08.2012,  Berlin-Tegel 
 Abb. 10: Fahrverlauf – KSB Spurplan, Fzg. Nr.: 481039; 
 Quelle: S-Bahn GmbH 
@@ -725,9 +712,7 @@ Zugentgleisung,  21.08.2012,  Berlin-Tegel
 Ungenauigkeiten bei der Aufzeichnung können nach der Entgleisung der Fahrzeugeinheit mit 
 der Nr.: 481355, die sich in der Mitte des Zuges befand durchaus durch ein „Durchdrehen“ 
 der  Antriebsachsen  an  der  führenden  Fahrzeugeinheit  aufgetreten sein, da sich infolge der 
-
 Entgleisung  die  mittlere  Fahrzeugeinheit  quer  zum  Gleis  stellte  und  so  im  weiteren  Verlauf 
-
 einen erheblichen Widerstand bot. 
 4.7 
 Interpretation der Unfallspuren 
@@ -754,7 +739,6 @@ Störungen aufgezeigt. Darauf wurden weiter folgende Feststellungen gemacht:
 Im Nachweis der Zählwerke des Stellwerks Tegel fehlten sehr viele Eintragungen. Der letzte 
 Eintrag war um 04.39 Uhr für das Bedienen des Zs 1 am Einfahrsignal T mit Hinweis auf die 
 Störung  Nr.  49  vom  Vortag  vorgenommen  worden.  Weitere  Hilfsbedienungen  nachweispflichtiger  Einrichtungen  waren  nicht  vorhanden,  so  dass  kein  Abgleich  auf  die  erfolgten 
-
 nachweispflichtigen Bedienhandlungen in Bezug auf die Zugentgleisung der S-Bahn S 25068 
 möglich war. 
 Eine nachträgliche Überprüfung der S-Bahn GmbH ergab, dass 218 nachweispflichtige Bedienhandlungen nicht eingetragen waren. 
@@ -790,13 +774,13 @@ Seite 25 von 27
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  21.08.2012,  Berlin-Tegel 
 ren  Eingriffen  durch  Hilfsmittel/Werkzeug)  an  anderen  Relaisgruppen,  insbesondere  der 
-
 Weiche  74.  Darüber  hinaus  wurde  durch  den  Bezirksleiter  LST  schriftlich  erklärt,  dass  sich 
-
 zum  Zeitpunkt  der  Entgleisung  niemand  im  Relaisraum  aufgehalten  habe  und  dieser  verschlossen gewesen sei. 
 Es wurde nachvollziehbar dargelegt, dass das Einstellen der Fahrstraße bis zur Fahrstraßenfestlegung möglich war und lediglich die BÜ-Störung die Signalfahrtstellung verhinderte. 
 Auf Grund des Ablaufes des Ereignisses und der Feststellung auf dem Stellwerk war eindeutig, dass die Weiche 74 einwandfrei funktionstüchtig war. Die Weiche 74 muss sich in einer 
@@ -818,22 +802,19 @@ Seite 26 von 27
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung,  21.08.2012,  Berlin-Tegel 
-
 Die  Handlungsweise  im  Störungsfall  ist  in  der  örtlichen  Richtlinie  festgelegt,  diese  lag  mit 
-
 allen aktuellen Berichtigungen vor. 
-
 Da  das  Freisein  des  Gleises  1  und  der  Weichen  für  die  eingestellte  Fahrstraße  für  Zug  S 
-
 25068 nicht durch Hinsehen unmittelbar möglich war, muss die Rückmeldung des Zuges zur 
 Durchführung der mittelbaren Fahrwegprüfung abgewartet werden. 
 Also erst nach Ankunft des S 25068 im Bf Berlin-Heiligensee erhält der Fdl. Berlin-Tegel die 
 Rückmeldung wodurch das Freisein der Weichen im nicht einsehbaren Nordbereich des Bf. 
 Berlin-Tegel bestätigt wird. Der Fdl löst dann die Fahrstraße mit nachweispflichtiger Hilfsbedienung  (FHT)  der  einzelnen  Gleisfreimeldeabschnitte  auf,  wonach  die  Weichen  bei  Erfordernis  (für  die  nächste  Zugfahrt  oder  für  Entstörarbeiten)  umgestellt  werden  können.  Die 
-
 Weichenumstellung wird mit der nachweispflichtigen WHT-Taste vorgenommen. 
 6 
 Bisher getroffene Maßnahmen 

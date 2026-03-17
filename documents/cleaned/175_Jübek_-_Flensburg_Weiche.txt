@@ -17,6 +17,7 @@ Streckennummer:
 Kilometer: 
 1040 
 162,0 
+
 	
  
  
@@ -32,30 +33,26 @@ Kilometer:
  
  
 Untersuchungsbericht 
+
 Bahnübergangsunfall, 07.11.2015, Jübek – Flensburg Weiche 
 Veröffentlicht durch: 
 Bundesstelle für Eisenbahnunfalluntersuchung 
 Heinemannstraße 6 
 53175 Bonn 
+
  
 Untersuchungsbericht 
+
 Bahnübergangsunfall, 07.11.2015, Jübek – Flensburg Weiche 
 Inhaltsverzeichnis	
 I. 
 II. 
-
 Änderungsverzeichnis: .......................................................................................... II 
-
 Abbildungsverzeichnis: ........................................................................................ III 
-
 III. 
-
 Tabellenverzeichnis: ............................................................................................ III 
-
 IV. 
-
 Abkürzungsverzeichnis: ....................................................................................... IV 
-
 1 
 1.1 
 1.2 
@@ -74,61 +71,39 @@ Abkürzungsverzeichnis: ........................................................
 4.2 
 4.3 
 4.4 
-
 Vorbemerkungen .................................................................................................. 1 
-
 Organisatorischer Hinweis ...................................................................................... 1 
-
 Ziel der Eisenbahnunfalluntersuchung .................................................................... 2 
-
 Zusammenfassung ................................................................................................ 3 
-
 Kurzbeschreibung des Ereignisses ........................................................................... 3 
-
 Folgen ...................................................................................................................... 3 
-
 Ursachen .................................................................................................................. 3 
-
 Sicherheitsempfehlungen ....................................................................................... 3 
-
 Allgemeine Angaben ............................................................................................. 4 
-
 Lage und Beschreibung des Ereignisortes ............................................................... 4 
-
 Beteiligte und Mitwirkende ..................................................................................... 5 
-
 Äußere Bedingungen ............................................................................................... 6 
-
 Todesopfer, Verletzte und Sachschäden ................................................................. 6 
-
 Untersuchungsprotokoll ....................................................................................... 8 
-
 Zusammenfassung von Aussagen und Stellungnahmen ......................................... 8 
-
 Notfallmanagement ................................................................................................ 8 
-
 Untersuchung der bautechnischen Infrastruktur ................................................... 8 
-
 Untersuchung der Leit- und Sicherungstechnik (LST) ............................................. 9 
 4.4.1 
-
 TH BÜP-Anlage Typ Flex Mobil ................................................................................ 9 
-
 4.5 
 Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers ................. 12 
 I 
+
  
  
 Untersuchungsbericht 
+
 Bahnübergangsunfall, 07.11.2015, Jübek – Flensburg Weiche 
 4.5.1 
-
 Handlungen des Fdl ............................................................................................... 12 
-
 4.5.2 
-
 Handlungen des BÜP ............................................................................................. 14 
-
 4.6 
 4.7 
 5 
@@ -137,24 +112,19 @@ Handlungen des BÜP ............................................................
 6 
 7 
 Untersuchung der betrieblichen Abläufe der EVU ................................................ 17 
-
 Untersuchung von Fahrzeugen ............................................................................. 19 
-
 Auswertung ..................................................................................
 ...................... 20 
 Ereignisrekonstruktion ..................................................................
 ........................ 20 
-
 Bewertung und Schlussfolgerung .......................................................................... 21 
-
 Bisher getroffene Maßnahmen ........................................................................... 22 
-
 Sicherheitsempfehlungen ................................................................................... 22 
-
 I.  Änderungsverzeichnis:	
 Änderung 
 Stand 
 II 
+
  
  
  
@@ -164,43 +134,32 @@ II
 	
 	
 Untersuchungsbericht 
+
 Bahnübergangsunfall, 07.11.2015, Jübek – Flensburg Weiche 
 II.  Abbildungsverzeichnis:	
-
 Abbildung 1: Lageplan ................................................................................................................ 4 
-
 Abbildung 2: Gleislageskizze ...................................................................................................... 5 
-
 Abbildung 3: BÜ nach dem Zusammenprall gegen die Fahrtrichtung des KT 40549 ................ 7 
-
 Abbildung 4: Aufnahme in Fahrtrichtung des KT 40549 ............................................................ 7 
-
 Abbildung 5: Schematische Darstellung der Flex Mobil-Anlagen am BÜ in km 162,0 ............ 11 
 Abbildung 6: Bedienbox Flex Mobil Schlüsselschalter mit Warnband zweiter Zug ................. 11 
-
 Abbildung 7: Auszug Zugnummerndrucker .............................................................................. 13 
-
 Abbildung 8: Auszug aus dem Fahrplan für BÜP ...................................................................... 15 
-
 Abbildung 9: Nachweis der Benachrichtigungen  .................................................................... 16 
-
 Abbildung 10: Graphische Darstellung des Fahrtverlaufs des KT 40549 ................................. 18 
-
 III.  Tabellenverzeichnis:	
-
 Tabelle 1: Übersicht der Personenschäden ............................................................................... 6 
-
 Tabelle 2: Übersicht der geschätzten Schadenshöhe ................................................................ 6 
-
 Tabelle 3: Technische Daten Tfz Fz-Nr. 91 86 0103 104-3 ....................................................... 19 
-
 III 
+
  
  
  
  
  
 Untersuchungsbericht 
+
 Bahnübergangsunfall, 07.11.2015, Jübek – Flensburg Weiche 
 IV.  Abkürzungsverzeichnis:	
 AEG 
@@ -250,10 +209,12 @@ VzG
 Technische Mitteilung 
 Verzeichnis der örtlich zulässigen Geschwindigkeiten 
 IV 
+
  
  
  
 Untersuchungsbericht 
+
 Bahnübergangsunfall, 07.11.2015, Jübek – Flensburg Weiche 
 1  Vorbemerkungen	
 Das Kapitel Vorbemerkungen befasst sich mit allgemeinen Informationen zur Bundesstelle für 
@@ -278,9 +239,11 @@ die BEU über.
 Da das gefährliche Ereignis vor der Errichtung der BEU eintrat, wurden bestimmte Untersuchungshandlungen noch durch die EUB vorgenommen, auf die im Bericht entsprechend verwiesen wird. Alle während der Untersuchung gewonnenen Erkenntnisse wurden kontinuierlich mit den betroffenen Eisenbahnen und der Sicherheitsbehörde geteilt und einzelfallbezogene Sicherheitsempfehlungen ausgesprochen. 
 Näheres hierzu ist im Internet unter www.beu.bund.de eingestellt. 
 Seite 1 von 22 
+
  
  
 Untersuchungsbericht 
+
 Bahnübergangsunfall, 07.11.2015, Jübek – Flensburg Weiche 
 1.2  Ziel	der	Eisenbahnunfalluntersuchung	
 Ziel und Zweck der Untersuchungen ist es, die Ursachen von gefährlichen Ereignissen aufzuklären und hieraus Hinweise zur Verbesserung der Sicherheit abzuleiten. Untersuchungen der 
@@ -290,11 +253,13 @@ Die Untersuchung umfasst die Sammlung und Auswertung von Informationen, die Erar
 von Schlussfolgerungen einschließlich der Feststellung der Ursachen und gegebenenfalls die 
 Abgabe von Sicherheitsempfehlungen. Die Vorschläge der Untersuchungsstelle zur Vermeidung von Unfällen und Verbesserung der Sicherheit im Eisenbahnverkehr werden der Sicherheitsbehörde und, soweit erforderlich, anderen Stellen und Behörden oder anderen Mitgliedstaaten der EU in Form von Sicherheitsempfehlungen mitgeteilt. 
 Seite 2 von 22 
+
  
  
  
  
 Untersuchungsbericht 
+
 Bahnübergangsunfall, 07.11.2015, Jübek – Flensburg Weiche 
 2  Zusammenfassung	
 Das Kapitel befasst sich mit einer kurzen Darstellung des Ereignisherganges, den Folgen und 
@@ -312,11 +277,13 @@ nicht befahren hatte.
 2.4  Sicherheitsempfehlungen	
 Es wurden keine Sicherheitsempfehlungen ausgesprochen. 
 Seite 3 von 22 
+
  
  
  
  
 Untersuchungsbericht 
+
 Bahnübergangsunfall, 07.11.2015, Jübek – Flensburg Weiche 
 3  Allgemeine	Angaben	
 Das Kapitel beinhaltet allgemeine Angaben zur Beschreibung des Ereignisortes und der relevanten  Bahnanlagen.  Des  Weiteren  werden  die  an  der  Unfalluntersuchung  beteiligten  und 
@@ -324,31 +291,24 @@ mitwirkenden Stellen, die äußeren Bedingungen, die Anzahl der bei dem Ereignis
 und getöteten Personen sowie Art und Höhe der Folgeschäden benannt. 
 3.1  Lage	und	Beschreibung	des	Ereignisortes	
 Der Unfall ereignete sich auf der zweigleisigen elektrifizierten Hauptbahn Neumünster – Flensburg, die im Verzeichnis der örtlich zulässigen Geschwindigkeiten (VzG) unter der Streckennummer 1040 geführt wird. 
-
 Im relevanten Abschnitt zwischen Jübek und Flensburg Weiche durfte die Strecke gemäß VzG 
-
 mit  einer  maximalen  Geschwindigkeit  von  160  km/h  befahren  werden  und  war  für  einen 
 Bremsweg von 1.000 m ausgelegt. 
 Abbildung 1: Lageplan1 
 1 Quelle: Geobasisdaten © GeoBasis-DE / BKG [2020], bearbeitet durch BEU 
 Seite 4 von 22 
+
  
  
  
                                                        
 Untersuchungsbericht 
+
 Bahnübergangsunfall, 07.11.2015, Jübek – Flensburg Weiche 
-Sie war mit digitalem Zugfunk Global System for Mobile Communications Rail (GSM-R) ausge-
-
-rüstet.  Als  Zugsicherungssystem  kam  die  punktförmige  Zugbeeinflussung  (PZB)  zur  Anwen-
-
-dung. 
+Sie war mit digitalem Zugfunk Global System for Mobile Communications Rail (GSM-R) ausgerüstet.  Als  Zugsicherungssystem  kam  die  punktförmige  Zugbeeinflussung  (PZB)  zur  Anwendung. 
 Der BÜ befindet sich in km 162,0 unweit des Hp Tarp (siehe Gleislageskizze Abbildung 2). Die 
 benachbarten Betriebsstellen sind der Bahnhof Jübek und der Bahnhof Flensburg Weiche. 
-
-Die nachfolgend dargestellte Gleislageskizze bildet die Richtungen der unmittelbar und mittel-
-
-bar am Ereignis beteiligten Zugfahrten RE 21072 und KT 40549 und Straßenfahrzeuge ab. Die 
+Die nachfolgend dargestellte Gleislageskizze bildet die Richtungen der unmittelbar und mittelbar am Ereignis beteiligten Zugfahrten RE 21072 und KT 40549 und Straßenfahrzeuge ab. Die 
 Zugfahrt DGS 41504 befuhr zwar bereits den Abschnitt von Jübek in Richtung Flensburg Weiche, hatte aber keinen Einfluss auf das Ereignis. 
 Abbildung 2: Gleislageskizze2 
 3.2  Beteiligte	und	Mitwirkende	
@@ -361,6 +321,7 @@ Am Ereignis waren folgende Stellen beteiligt:
  POND Security Bahn Service GmbH Berlin als Sicherungsunternehmen 
 2 Quelle: DB Netz AG, bearbeitet durch BEU 
 Seite 5 von 22 
+
  
  
  
@@ -368,6 +329,7 @@ Seite 5 von 22
  
                                                        
 Untersuchungsbericht 
+
 Bahnübergangsunfall, 07.11.2015, Jübek – Flensburg Weiche 
 Im Rahmen der Sachverhaltsermittlung und Ursachenerforschung wurden neben den o. g. Beteiligten folgende weitere Stellen einbezogen: 
   DB AG Zentrale Auswertestelle Nürnberg 
@@ -380,8 +342,10 @@ Anzahl Tote
 Anzahl schwer Verletzte  Anzahl leicht Verletzte 
 Reisende 
 Mitarbeiter 
+
 Benutzer von 
 Bahnübergängen 
+
 Dritte 
 Summe 
 - 
@@ -416,17 +380,20 @@ KT 40549 aufgenommen.
 Die Abbildung 4 ist aus Richtung des BÜ mit Blick in Fahrtrichtung des KT 40549 aufgenommen. 
 Im Vordergrund ist jeweils der zweite verunfallte PKW, der auf den Bahnsteig am Hp Tarp geschleudert wurde, zu sehen. 
 Seite 6 von 22 
+
  
  
  
  
 Untersuchungsbericht 
+
 Bahnübergangsunfall, 07.11.2015, Jübek – Flensburg Weiche 
 Abbildung 3: BÜ nach dem Zusammenprall gegen die Fahrtrichtung des KT 405493 
 Abbildung 4: Aufnahme in Fahrtrichtung des KT 405494 
 3 Quelle: DB Netz AG, bearbeitet durch BEU 
 4 Quelle: DB Netz AG, bearbeitet durch BEU 
 Seite 7 von 22 
+
  
  
  
@@ -434,6 +401,7 @@ Seite 7 von 22
  
                                                        
 Untersuchungsbericht 
+
 Bahnübergangsunfall, 07.11.2015, Jübek – Flensburg Weiche 
 4  Untersuchungsprotokoll	
 In diesem Kapitel werden die ermittelten Ergebnisse zu einzelnen in Zusammenhang mit dem 
@@ -451,9 +419,7 @@ Unregelmäßigkeiten oder Verzögerungen in Bezug auf das Einleiten von Rettungs
 wurden der BEU im Rahmen der Unfalluntersuchung nicht bekannt. 
 4.3  Untersuchung	der	bautechnischen	Infrastruktur	
 Die Strecke 1040 Neumünster – Flensburg war eine zweigleisige elektrifizierte Hauptbahn und 
-
 mit einem Schotteroberbau ausgestattet. Die Streckenklasse war D4. Die maximal zulässige 
-
 Radsatzlast  betrug  22,5 t  und  das  maximal  zulässige  Fahrzeuggewicht  je  Längeneinheit 
 8,0 t/m. 
 Der betroffene BÜ befand sich in unmittelbarer Nähe des Hp Tarp. 
@@ -463,15 +429,15 @@ ausgestattet. Im Umfeld des BÜ mündeten auf die Bahnhofstraße beiderseits der
 zwei weitere Straßen ein. 
 Die bautechnische Infrastruktur hatte keinen ursächlichen Einfluss auf die Entstehung des Ereignisses. 
 Seite 8 von 22 
+
  
  
 Untersuchungsbericht 
+
 Bahnübergangsunfall, 07.11.2015, Jübek – Flensburg Weiche 
-4.4  Untersuchung	der	Leit‐	und	Sicherungstechnik	(LST)	
+4.4  Untersuchung	der	Leit-	und	Sicherungstechnik	(LST)	
 Der Streckenabschnitt zwischen Flensburg Weiche und Jübek ist in den Stellbereich des elektronischen Stellwerks Flensburg integriert. 
-
 Der  BÜ  in  km  162,0  war  im  Regelzustand  durch  eine  Signalanlage  der  Bauform  EBÜT  80  – 
-
 LzH/F-Fü mit fünf Schranken und fünf Lichtzeichen gesichert. 
 Die technische Einrichtung zur Sicherung des BÜ wurde bereits am 01.10.2015 für die Arbeiten 
 laut Betriebs- und Bauanweisung (Betra) F 240747 außer Betrieb genommen. Für Arbeiten, 
@@ -481,7 +447,7 @@ Schleswig und Flensburg gültig.
 Die Sicherung des BÜ erfolgte gemäß den Betren für die Dauer der Außerbetriebnahme der 
 EBÜT 80 LzH/F- Fü durch Bahnübergangsposten (BÜP). Dem BÜP standen zwei Stück technische Hilfsmittel für BÜP (TH BÜP) vom Typ Flex Mobil der Firma Schweizer Electronic AG mit 
 zwei separaten, dezentral vor den beiden Schrankenantrieben östlich der Bahnstrecke aufgestellten Steuereinheiten sowie ein Absperrband für die Sicherung des Gehweges auf der Nordseite der Straße zur Verfügung. 
-4.4.1  TH	BÜP‐Anlage	Typ	Flex	Mobil	
+4.4.1  TH	BÜP-Anlage	Typ	Flex	Mobil	
 Die TH BÜP-Anlage vom Typ Flex Mobil wurde mit der Technischen Mitteilung (TM) 4-2015-
 10111 I.NPF 2 für den Einsatz im Bereich der DB Netz AG eingeführt. Laut der TM war der 
 Einsatz  einer  solchen  Anlage  auf  maximal  zwei  Halbschranken  und  vier  Lichtzeichen  beschränkt. An diesem BÜ war wegen der vorhandenen Geh- bzw. Geh-/Radwege der Einsatz 
@@ -493,9 +459,11 @@ gesichert werden.
 Die Möglichkeit einer gemeinsamen Bedienung zweier TH BÜP der Bauart Flex Mobil über eine 
 Steuereinheit bestand nicht. Daher mussten die eingesetzten TH BÜP über zwei separate, dezentral angeordnete Steuereinheiten bedient werden. 
 Seite 9 von 22 
+
  
  
 Untersuchungsbericht 
+
 Bahnübergangsunfall, 07.11.2015, Jübek – Flensburg Weiche 
 In der TM 4-2015-10111 I.NPF 2 war ausschließlich vom Einsatz eines TH BÜP der Bauart Flex 
 Mobil als singuläre Anlage die Rede. Zum Einsatz mehrerer Flex Mobil-Anlagen an einem BÜ 
@@ -511,47 +479,41 @@ Die Anordnung der beiden TH BÜP ist in Abbildung 5 dargestellt. Die in der sche
 Darstellung enthaltenen Ziffern an den Symbolen für die Lichtzeichen, Schranken und Steuereinheiten bezeichnen Zugehörigkeiten zu den Anlagen (1 für Nr. 010.0355.01 bzw. 3 für Nr. 
 010.0355.03). Es waren vier Schranken vorhanden, von denen jeweils zwei jeder der aufgestellten Anlagen zugeordnet waren. 
 Erkennbar ist, dass die Sicherung beider Richtungsfahrstreifen der Straße mit den Schranken 
-
 der  Anlage  3  erfolgte.  Die  Schranken  der  Anlage  1  sicherten  ausschließlich  die  Geh-  bzw. 
-
 Geh- /Radwege. 
-
 Die  fünf  aufgestellten  Lichtzeichen  sind  als  Dreiecke  dargestellt.  Es  ist  ersichtlich, dass  vier 
-
 einer Anlage (Anlage 3) zugeordnet waren und lediglich eine der zweiten Anlage (Anlage 1). 
 Die beiden Steuereinheiten, durch Rechtecke mit integriertem Blitz dargestellt, befanden sich 
 östlich der Gleise und waren auf den Geh- bzw. Geh-/Radwegen, nördlich für Anlage 3 und 
 südlich für Anlage 1, dezentral angeordnet. 
 Seite 10 von 22 
+
  
  
 Untersuchungsbericht 
+
 Bahnübergangsunfall, 07.11.2015, Jübek – Flensburg Weiche 
 Abbildung 5: Schematische Darstellung der Flex Mobil-Anlagen am BÜ in km 162,05 
-
 Für  den  Fall,  dass  während  einer  Sperrung  ein  zweiter  Zug  angemeldet  wurde,  war  an  der 
-
 Bedienbox jeder Flex Mobil-Steuereinheit auf Höhe des Schlüsselschalters ein Warnband mit 
-
 der Aufschrift „Zweiter Zug“, wie es in Abbildung 6 dargestellt ist, angebracht, welches dann 
-
 gemäß der Bedienungsanleitung über den Schlüssel gelegt werden sollte. 
 Abbildung 6: Bedienbox Flex Mobil Schlüsselschalter mit Warnband zweiter Zug6 
 5 Quelle: Schweizer Electronic AG, bearbeitet durch BEU 
 6 Quelle: Bedienungsanleitung Flex Mobil der Schweizer Electronic AG 
 Seite 11 von 22 
+
  
  
  
  
                                                        
 Untersuchungsbericht 
+
 Bahnübergangsunfall, 07.11.2015, Jübek – Flensburg Weiche 
 Eine zeitnahe Auslesung der TH BÜP-Anlagen unmittelbar nach dem Ereignis erfolgte nicht. 
 Die Protokolle wurden erst am 20.11.2015 auf Antrag der Landespolizei Schleswig-Holstein, 
-
 Polizeistation Tarp, ausgelesen. Dabei wurde festgestellt, dass während der gesamten Zeit des 
-
 Einsatzes der Anlagen an diesem BÜ keine sicherheitsrelevanten Störungen aufgetreten waren. 
 Daten für das Öffnen und Schließen der Schranken wurden beim eingesetzten Anlagentyp in 
 der Log-Datei jedoch nur für 200 Zugfahrten gespeichert und danach überschrieben. Daher 
@@ -560,10 +522,7 @@ waren 13 Tage nach dem Unfall die Handlungen des BÜP zum Unfallzeitpunkt aus de
 Der Betrieb auf der VzG-Strecke 1040 wurde im relevanten Abschnitt durch den zuständigen 
 Fahrdienstleiter (Fdl) Ff von einem Bedienplatz im elektronischen Stellwerk Flensburg nach 
 den Regelungen der Ril 408 – Züge fahren und Rangieren – durchgeführt. 
-
-Er war somit für alle Zugfahrten, die unmittelbar oder mittelbar an dem Ereignis beteiligt wa-
-
-ren, zuständig. 
+Er war somit für alle Zugfahrten, die unmittelbar oder mittelbar an dem Ereignis beteiligt waren, zuständig. 
 Die im Regelbetrieb an dem BÜ eingesetzte Sicherungsanlage der Bauart EBÜT 80 – LzH/F-Fü 
 war bereits seit dem 01.10.2015 außer Betrieb. Ab diesem Zeitpunkt erfolgte die Sicherung 
 durch BÜP. 
@@ -577,15 +536,15 @@ korrekt abgemeldet. Im Nachweis der Benachrichtigungen fanden sich dieselben Abm
 Der RE 21072 fuhr gemäß dem Ausdruck des Zugmeldedruckers, der in Abbildung 7 dargestellt 
 ist, erst um 17:46 Uhr, also vier Minuten später als gemeldet, aus dem Bahnhof Jübek und der 
 Seite 12 von 22 
+
  
  
 Untersuchungsbericht 
+
 Bahnübergangsunfall, 07.11.2015, Jübek – Flensburg Weiche 
 KT 40549 bereits um 17:48 Uhr, also eine Minute früher als gemeldet aus dem Bahnhof Flensburg Weiche aus.  
 Abbildung 7: Auszug Zugnummerndrucker7 
-
 Die Zugmeldung für den RE 21072 hätte gemäß Ril 408.0221 Abschnitt. 3, Absatz 8, demnach 
-
 berichtigt werden müssen. 
 „…Wenn die tatsächliche Ab- oder Durchfahrtszeit um zwei Minuten oder mehr von der 
 gemeldeten Zeit abweicht, muss die Zugmeldung möglichst frühzeitig berichtigt werden….“8  
@@ -593,14 +552,11 @@ Weder Im Zugmeldebuch noch im Nachweis der Benachrichtigungen beim BÜP war eine
 Gemäß dem Ausdruck des Zugnummerndruckers betrug der Abstand der zwischen den Zügen 
 bei der Abfahrt aus den Bahnhöfen Jübek bzw. Flensburg Weiche statt der gemeldeten sieben 
 Minuten lediglich zwei Minuten. 
-
-Die beiden Züge, die unter Berücksichtigung der Mindestfahrzeiten mit einem zeitlichen Ab-
-
-stand von ca. vier Minuten den BÜ in km 162,0 passiert hätten, trafen etwa zeitgleich dort ein. 
-
+Die beiden Züge, die unter Berücksichtigung der Mindestfahrzeiten mit einem zeitlichen Abstand von ca. vier Minuten den BÜ in km 162,0 passiert hätten, trafen etwa zeitgleich dort ein. 
 7 Quelle: DB Netz AG, bearbeitet durch BEU 
 8 Quelle: Ril 408.0221 Abschnitt. 3 Absatz. 8 
 Seite 13 von 22 
+
  
  
  
@@ -608,6 +564,7 @@ Seite 13 von 22
  
                                                        
 Untersuchungsbericht 
+
 Bahnübergangsunfall, 07.11.2015, Jübek – Flensburg Weiche 
 4.5.2  Handlungen	des	BÜP	
 Eingesetztes Personal 
@@ -615,21 +572,13 @@ Der BÜP wurde durch die Firma POND Security Bahn Service GmbH, Berlin eingesetz
 Ausbildung zum Schrankenwärter/BÜP absolvierte er bei der DB AG. Die Prüfungsbescheinigung war datiert vom 08.02.2008. Seine letzten Schulungen für BÜP vor dem Ereignis absolvierte er im Januar 2014 und im Januar 2015. 
 Die letzte Tauglichkeitsuntersuchung erfolgte 2014. Die Feststellung der Tauglichkeit enthielt 
 keine Einschränkungen und war gültig bis 2017. Die Einweisung des BÜP am BÜ wurde gemäß 
-Nachweis am 01.10.2015 durchgeführt. Seine eintägige Ausbildung zum TH BÜP-Bediener ab-
-
-solvierte er am 09.03.2015 bei der Zöllner Signal GmbH, Kiel. Ein Zertifikat für eine Einweisung 
-
+Nachweis am 01.10.2015 durchgeführt. Seine eintägige Ausbildung zum TH BÜP-Bediener absolvierte er am 09.03.2015 bei der Zöllner Signal GmbH, Kiel. Ein Zertifikat für eine Einweisung 
 in das System Flex Mobil, datiert vom 02.10.2015, lag vor. 
 Betriebliche Handlungen des BÜP 
 Der BÜP übernahm den Dienst am Unfalltag gemäß Fernsprechbuch um 06:34 Uhr. Zum Unfallzeitpunkt war er demnach am Tag des Ereignisses mehr als elf Stunden im Einsatz. Im Fernsprechbuch  war  während  der  Dienstzeit  keine Unterbrechung  oder  Übergabe  des  Dienstes 
-
 dokumentiert.  Aus  dem  Fernsprechbuch  ging  hervor,  dass  der  BÜP  bereits  am  Vortag  von 
-
 06:36 Uhr bis 18:15 Uhr ebenfalls ohne erkennbare Unterbrechung an demselben BÜ eingesetzt worden war. 
-
-Ein BÜP hat in seiner Tätigkeit unterschiedlich ausgerichtete Aufgaben zu erfüllen. Keine die-
-
-ser Aufgaben ist für sich genommen sehr komplex. Die Problematik liegt eher in der Vielfalt 
+Ein BÜP hat in seiner Tätigkeit unterschiedlich ausgerichtete Aufgaben zu erfüllen. Keine dieser Aufgaben ist für sich genommen sehr komplex. Die Problematik liegt eher in der Vielfalt 
 und den unterschiedlichen Formen der Beanspruchung für den BÜP. 
 Er musste 
   mit dem Fdl Ff in Flensburg kommunizieren 
@@ -639,42 +588,36 @@ Er musste
   die durchgefahrenen Züge im Nachweis der Benachrichtigungen wieder streichen und 
 die Sicherung des BÜ wieder aufheben. 
 Seite 14 von 22 
+
  
  
 Untersuchungsbericht 
+
 Bahnübergangsunfall, 07.11.2015, Jübek – Flensburg Weiche 
 Der BÜP hatte während seiner Dienstzeit den BÜ gemäß dem Zugmeldebuch für insgesamt 38 
-
 Zugfahrten zu sichern. Davon entfielen gemäß dem Nachweis der Benachrichtigungen auf den 
-
 Zeitraum zwischen 15:07 Uhr und 17:55 Uhr (Unfallzeitpunkt) insgesamt 14 und auf die letzten 
 20 Minuten vor dem Zusammenprall fünf Zugfahrten. 
-
 Der BÜP hatte als Hilfsmittel zwei TH BÜP vom Typ Flex Mobil der Firma Schweizer Electronic 
-
 AG zur Verfügung, die über separate Steuereinheiten bedient werden mussten. 
 Der zuständige Fdl Ff in Flensburg gab die Zugmeldungen an den BÜP über die analoge Streckenfernsprechverbindung Flensburg Weiche – Jübek. Diese wurden durch den Fdl in das Zugmeldebuch und durch den BÜP in den Nachweis der Benachrichtigungen eingetragen. 
 Der BÜP war mit einem Fahrplan für BÜP ausgestattet, dessen relevanter Auszug in der folgenden Abbildung 8 zu sehen ist und der eine Übersicht über die Mindestfahrzeiten der Züge 
 beinhaltete. Für Züge aus Richtung Flensburg Weiche waren als Mindestfahrzeit drei Minuten 
-
 ausgewiesen, für Züge aus Richtung Jübek lag die Mindestfahrzeit bei vier Minuten. Dabei lag 
-
-für  die  Ermittlung  der  Mindestfahrzeiten  eine  zulässige  Geschwindigkeit  von  160 km/h  zu-
-
-grunde. Eine Untersetzung für langsamere Züge wurde nicht vorgenommen. 
+für  die  Ermittlung  der  Mindestfahrzeiten  eine  zulässige  Geschwindigkeit  von  160 km/h  zugrunde. Eine Untersetzung für langsamere Züge wurde nicht vorgenommen. 
 Abbildung 8: Auszug aus dem Fahrplan für BÜP9 
 Die Meldung der Züge erfolgte gemäß Zugmeldebuch ohne Geschwindigkeitsangabe. 
-
 Der  BÜ  hätte  für  den  RE 21072  gemäß  der  Meldung  des  Fdl  um  17:46  Uhr  durch  den  BÜP 
-
 gesichert sein müssen. 
 9 Quelle: DB Netz AG 
 Seite 15 von 22 
+
  
  
  
                                                        
 Untersuchungsbericht 
+
 Bahnübergangsunfall, 07.11.2015, Jübek – Flensburg Weiche 
 Der RE 21072 fuhr gemäß der Zeitangabe laut Zugnummerndrucker jedoch erst um 17:46 Uhr, 
 vier Minuten nach der dem BÜP gemeldeten Zeit, in Jübek los. Die Ankunft am BÜ in km 162,0 
@@ -686,11 +629,13 @@ Dieser Zug war im Nachweis der Benachrichtigungen, wie aus Abbildung 9 ersichtli
 Abbildung 9: Nachweis der Benachrichtigungen 10 
 10 Quelle: DB Netz AG, bearbeitet durch BEU 
 Seite 16 von 22 
+
  
  
  
                                                        
 Untersuchungsbericht 
+
 Bahnübergangsunfall, 07.11.2015, Jübek – Flensburg Weiche 
 Er wurde aus Richtung Flensburg Weiche für 17:49 Uhr abgemeldet. Der berechnete Zeitpunkt 
 für die Sicherung des BÜ wäre also um 17:52 Uhr gewesen. 
@@ -706,23 +651,21 @@ Die Zugfahrt KT 40549 des EVU DB Schenker Rail Danmark war unmittelbar am Zusamm
 beteiligt. 
 Laut Buchfahrplan war dem Zug KT 40549 zwischen dem Bahnhof Flensburg Weiche und der 
 Unfallstelle eine Geschwindigkeit von 100 km/h vorgegeben, die gemäß der elektronischen 
-
 Fahrtenregistrierung  deren  graphische  Darstellung  in  der  Abbildung  10  zu  sehen  ist,  nicht 
-
 überschritten wurde. 
 11 Quelle: Ril 456.0020 Abschnitt 12 Absatz 1 
 Seite 17 von 22 
+
  
  
                                                        
 Untersuchungsbericht 
+
 Bahnübergangsunfall, 07.11.2015, Jübek – Flensburg Weiche 
 Abbildung 10: Graphische Darstellung des Fahrtverlaufs des KT 40549 
 Vor dem BÜ betätigte der Triebfahrzeugführer mehrfach die Wachsamkeitstaste. 
 Bei einer Geschwindigkeit von ca. 95 km/h wurde dann ca. in km 161,9 eine Druckabsenkung 
-
 auf unter 2,2 bar in der Hauptluftleitung des Zuges registriert. Nach dem Druckabfall bremste 
-
 der Zug auf einer Strecke von ca. 575 m Länge und in einer Zeit von 39 Sekunden bis zum 
 Stillstand ca. in km 161,3 ab. 
 Der Druckabfall in der Hauptluftleitung begann in Höhe des BÜ in ca. km 162,0. Dieser kann 
@@ -734,10 +677,12 @@ Eine unmittelbare Beteiligung am Unfallgeschehen war nicht gegeben. Daher wurde 
 Die betrieblichen Handlungen von Mitarbeitern der DB Regio Nord AG und der DB Schenker 
 Rail Danmark AG hatten keinen ursächlichen Einfluss auf die Entstehung des Unfalls. 
 Seite 18 von 22 
+
  
  
  
 Untersuchungsbericht 
+
 Bahnübergangsunfall, 07.11.2015, Jübek – Flensburg Weiche 
 4.7  Untersuchung	von	Fahrzeugen	
 Das führende Fahrzeug des Zuges KT 40549 war ein Triebfahrzeug (Tfz) der Baureihe DSB EG 
@@ -760,16 +705,16 @@ Co’Co‘
 Zugsicherungssystem 
 DK- ATC, S- ATC, PZB 
 Tabelle 3: Technische Daten Tfz Fz-Nr. 91 86 0103 104-3 
-
 Die  beteiligten  Eisenbahnfahrzeuge  hatten  keinen  ursächlichen  Einfluss  auf  die  Entstehung 
-
 des Ereignisses. 
 Seite 19 von 22 
+
  
  
  
  
 Untersuchungsbericht 
+
 Bahnübergangsunfall, 07.11.2015, Jübek – Flensburg Weiche 
 5  Auswertung	
 Das Kapitel 5 Auswertung befasst sich mit der Ereignisrekonstruktion. Anhand der oben genannten Feststellungen wird ein plausibler Ablauf des gefährlichen Ereignisses zusammengetragen. Relevante Erkenntnisse werden anschließend bewertet und führen ggf. zu entsprechenden Schlussfolgerungen. 
@@ -778,10 +723,7 @@ Auf Grund von Bauarbeiten zur Einrichtung eines Gleiswechselbetriebes zwischen S
 und Flensburg wurde die technische Einrichtung zur Sicherung des BÜ in km 162,0 gemäß Betra F 240747 am 01.10.2015 außer Betrieb genommen und der BÜ durch einen BÜP, dem zwei 
 TH BÜP vom Typ Flex Mobil der Firma Schweizer Electronic AG zur Verfügung standen, gesichert. Im Rahmen weiterer Betren wurde die Sicherung durch BÜP fortgesetzt. Am Unfalltag 
 war die Betra F 240796 in Kraft. 
-
-Zum Zeitpunkt des Ereigniseintritts befanden sich drei Züge in dem Streckenabschnitt Flens-
-
-burg Weiche – Jübek. 
+Zum Zeitpunkt des Ereigniseintritts befanden sich drei Züge in dem Streckenabschnitt Flensburg Weiche – Jübek. 
 Zwei dieser Züge, der RE 21072 (Neumünster – Flensburg mit Halt in Tarp) aus Richtung Jübek 
 und der KT 40549 von Padborg nach Neumünster aus Richtung Flensburg Weiche, hatten mitelbaren bzw. unmittelbaren Einfluss auf das Unfallgeschehen. 
 Den RE 21072 meldete der Fdl Ff in Flensburg mit voraussichtlicher Abfahrt-/ Durchfahrtzeit 
@@ -796,25 +738,20 @@ Ein  PKW  wurde  zur  Seite  geschleudert  und  blieb  im  Bahnsteigbereich  am 
 Jübek – Flensburg Weiche liegen. Der zweite PKW wurde vom Zug mitgeschleift und verkeilte 
 sich unter dem Tfz. 
 Seite 20 von 22 
+
  
  
 Untersuchungsbericht 
+
 Bahnübergangsunfall, 07.11.2015, Jübek – Flensburg Weiche 
 5.2  Bewertung	und	Schlussfolgerung	
 Der Unfall war auf einen Arbeitsfehler des BÜP zurückzuführen, der die Sicherung des BÜ für 
-
 den Zug KT 40549 unzeitig aufhob. Im Nachweis der Benachrichtigungen war dieser Zug nicht 
-
 durchgestrichen und befand sich folglich noch auf dem Streckenabschnitt zwischen Flensburg 
 Weiche und dem BÜ km 162,0. Der BÜP hätte gemäß Ril 456.0020 also die Sicherung des BÜ 
 nach dem Passieren des RE 21072 aus der Gegenrichtung nicht aufheben dürfen. 
-
 Als begünstigend für das Ereignis sind eine ungünstige Konfiguration der BÜ-Sicherung und 
-
-eine nicht korrigierte Zugmeldung zu bewerten. Es ist zudem anzunehmen, dass eine verdich-
-
-tete Zugfolge und damit relativ lange Schließzeiten am BÜ und die unmittelbare Nähe zu den 
-
+eine nicht korrigierte Zugmeldung zu bewerten. Es ist zudem anzunehmen, dass eine verdichtete Zugfolge und damit relativ lange Schließzeiten am BÜ und die unmittelbare Nähe zu den 
 wartenden Benutzern des BÜ zu einer zusätzlichen Verstärkung der Stresssituation für den 
 BÜP führten. 
 Für Bauarbeiten wurde die bestehende sicherungstechnische Anlage an dem BÜ außer Betrieb 
@@ -826,37 +763,32 @@ Einsatz von BÜP, der Gestaltung der BÜP-Arbeitsplätze und der betrieblichen R
 den Einsatz von BÜP auf. 
 Es wurde u. a. angeregt, den Einsatz technischer Lösungen zur Minimierung der Risiken des 
 Einsatzes von BÜP zu forcieren, Mindestanforderungen zur Gestaltung der BÜP-Arbeitsplätze 
-
 zu definieren und das Verfahren zur Selbstbestimmung der Sicherungszeiten restriktiver zu 
-
 handhaben bzw. durch klare Zeitvorgaben, wann ein BÜ zu sichern ist, zu ersetzen. 
 Seite 21 von 22 
+
  
  
 Untersuchungsbericht 
+
 Bahnübergangsunfall, 07.11.2015, Jübek – Flensburg Weiche 
 6  Bisher	getroffene	Maßnahmen	
 Das Sicherungsunternehmen Pont Security Bahn Service GmbH erteilte seinen Mitarbeitern 
 mit Bezug auf zwei Ereignisse, das hier untersuchte und ein weiteres (nicht gemeldetes) vom 
-
 25.11.2015,  an  dem  BÜ  als  Sofortmaßnahme  die  Weisung, dass  die  Mindestfahrzeiten  laut 
-
 Fahrplan für BÜP nicht mehr anzurechnen und der BÜ sofort zu schließen sei. 
 Die DB Netz AG hat in Umsetzung der Sicherheitsempfehlungen, die in Auswertung des Bahnübergangsunfalls Neustadt a. Rbge – Hagen (Han), AZ 60uu2017-05/017-3323 durch die BEU 
 erteilt wurden, seit dem Jahre 2018 Nachwarnsysteme für BÜP zugelassen. 
-
 Diese  Systeme  dienen dazu,  die  BÜP  in  ihren  Handlungen  zu  unterstützen  und  sie  im  Falle 
-
 eines nicht gesicherten BÜ an eine anstehende Fahrt zu erinnern und ggf. eine Notschließung 
-
 eines angeschlossenen TH BÜP einzuleiten bzw. eine unzeitige Aufhebung der BÜ- Sicherung 
-
 zu verhindern. 
 Bei  BÜP-Einsätzen  über  einen Zeitraum  von  mehr  als  drei Tagen  soll  nach  Möglichkeit  und 
 Verfügbarkeit ein Nachwarnsystem für BÜP eingesetzt werden. 
 7  Sicherheitsempfehlungen	
 Es wurden keine Sicherheitsempfehlungen ausgesprochen. 
 Seite 22 von 22 
+
  
  
 

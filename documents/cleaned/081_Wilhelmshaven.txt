@@ -3,10 +3,14 @@ der Eisenbahn-Unfalluntersuchungsstelle
 des Bundes  
 Aktenzeichen:  60uu2015-04/012-3323 
 
+
 Stand: 
+
 07.06.2016  Version:  1.0 
 
+
 Gefährliches Ereignis im Eisenbahnbetrieb 
+
 Ereignisart: 
 Datum: 
 Zeit: 
@@ -47,8 +51,10 @@ Seite 2 von 27
  
  
  
+
  
 Untersuchungsbericht 
+
 Fahrzeugbrand,  25.04.2015,  Bf Wilhelmshaven 
 Inhaltsverzeichnis: 
 Seite
@@ -112,6 +118,7 @@ Untersuchung von Fahrzeugen ....................................................
 
 
  1 
+
  1.1 
  1.2 
  1.3 
@@ -131,7 +138,6 @@ Untersuchung von Fahrzeugen ....................................................
  4.5 
  4.6 
 4.6.1 
-
 Dieseltriebzug, Fz-Nr. 9580 0648 084-1.............................................................. 15
 
 
@@ -141,11 +147,11 @@ Bewertung des Personenrisikos ..................................................
 
 
  4.7 
+
  4.8 
  5 
  6 
  7 
-
 Interpretation der Unfallspuren ............................................................................ 25
 
 
@@ -162,36 +168,7 @@ Sicherheitsempfehlungen.........................................................
 
 
 Seite 3 von 27 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
 Abbildungsverzeichnis 
 Abb.: 1 Rußbildung durch austretenden Qualm an der Fahrzeugaußenseite..........................7
 
@@ -243,24 +220,9 @@ Tabelle 1: Fahrzeugkenndaten....................................................
 
 Tabelle 2: Beschriftungen zum Schema Antriebsmotor Typ 6R 183 TD 13H ........................18
 
+
 Seite 4 von 27 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
 Untersuchungsbericht 
 Fahrzeugbrand,  25.04.2015,  Bf Wilhelmshaven 
 Abkürzungsverzeichnis 
@@ -318,8 +280,10 @@ Seite 5 von 27
  
  
  
+
  
 Untersuchungsbericht 
+
 Fahrzeugbrand,  25.04.2015,  Bf Wilhelmshaven 
 1 
 Zusammenfassung 
@@ -338,9 +302,7 @@ sich eine Verspätungszeit von 56 Minuten.
 Ursachen 
 Bei  der  Rekonstruktion  des  Ereignisses  stellte  sich  heraus,  dass  sich  der  Brandherd  am 
 Powerpack  B  des  B-Wagens  befand.  Ausgelöst  durch  eine  undichte  Stelle  der  Diesel-
-
 Leckleitung  konnte  sich  ein  Aerosol  mit  sehr  hohem  thermischem  Energieanteil  bilden.  Die 
-
 Abdrift erfolgte in Richtung Abgasrohr/Turbolader an welchem es zur Zündung kam und einen andauernden Abbrand des permanent austretenden Kraftstoffs nach sich zog. 
 Seite 6 von 27 
  
@@ -411,8 +373,10 @@ Seite 9 von 27
  
  
  
+
  
 Untersuchungsbericht 
+
 Fahrzeugbrand,  25.04.2015,  Bf Wilhelmshaven 
 3 
 Ereignis 
@@ -462,7 +426,6 @@ geführten Zugeinheit um die weitere Entwicklung zu beobachten. Beim planmäßig
 Bf Rastede in km 12,200 wurde der Zug erneut von den beiden Tf untersucht. Dabei wurde 
 eine  vermeintliche  Störung  des  Heizgerätes  am  hinteren  Motor  des  führenden  Fahrzeuges 
 (9580 0648 087-4, A-Wagen) festgestellt. Auf Nachfrage des Tf beim EVU NWB wurde ihm 
-
 mitgeteilt,  dass  dieses  Heizgerät  bereits  in  der  Vergangenheit  störanfällig  war.  In  der  Annahme, dass dieses Gerät wieder defekt sei, schaltete der Tf das Heizgerät samt dem zugehörigem Antriebsmotor ab. Vermutet wurde zu diesem Zeitpunkt, dass die Geruchsentwicklung  durch  das  defekte  Heizgerät  verursacht  und  durch  den  Fahrtwind  in  die  geführte  Zugeinheit geblasen wurde. Erst im weiteren Fahrtverlauf wurde durch den, im geführten Zugteil  verbliebenen  Tf,  Rauchentwicklung  im  Bereich  des  Powerpack  B  des  B-Wagen  festgestellt. Unmittelbar nach Ankunft des Zuges im Bf Wilhelmshaven Gleis 2 in km°52,200 wurde 
 der Zug geräumt und auf den für die Feuerwehr zugänglichen Bahnübergang Luisenstraße in 
 km 51,850 rangiert. Dort wurde der Brand durch die Feuerwehr gelöscht. Gleis 2 und Gleis 3 
@@ -473,8 +436,10 @@ Seite 11 von 27
  
  
  
+
  
 Untersuchungsbericht 
+
 Fahrzeugbrand,  25.04.2015,  Bf Wilhelmshaven 
 Abb.: 4
  IVL Plan bearbeitet 
@@ -496,8 +461,10 @@ Seite 12 von 27
  
  
  
+
  
 Untersuchungsbericht 
+
 Fahrzeugbrand,  25.04.2015,  Bf Wilhelmshaven 
 3.2 
 Todesopfer, Verletzte und Sachschäden 
@@ -601,9 +568,7 @@ Seite 15 von 27
 Untersuchungsbericht 
 Fahrzeugbrand,  25.04.2015,  Bf Wilhelmshaven 
 4.6.1.1  Antriebsmotor 
-
 Der  betroffene  Antriebsmotor  vom  Typ  6R  183  TD  13H  der  Firma  MTU  ist  horizontal  unter 
-
 dem  Wagenkasten  am  Fahrzeugende  eingebaut  und  verfügt  über  eine  Motorleistung  von 
 315 kW. Der Motor ist Teil des Powerpacks in dem alle Einzelkomponenten des Antriebes in 
 einem gemeinsamen Tragrahmen zu einer funktionsfähigen Einheit zusammengeführt sind.  
@@ -632,29 +597,36 @@ Komponente,  „Diesel-Leckleitung“  abgehend  vom  Zylinder  6  identifiziert
 Vorortanalyse (08.-09.06.2015) wurden folgende Fehlermöglichkeiten ausgeschlossen: 
   Austritt von Hydraulik- und Motoröl, 
 
+
   elektrischer Defekt, 
+
   sonstige mechanische Defekte. 
+
 
 Ergänzende  Analysen  wurden  durch  die  Firma  MTU  unter  Mitwirkung  des  TÜV  Süd  Rail  
 
+
 GmbH am 26.06.2015 durchgeführt: 
+
 
   Dichtigkeitsprüfung der Hochdruckleitungen, 
 
+
   Dichtigkeitsprüfung der Einspritzpumpe. 
+
 
 Es wurden keine Undichtigkeiten festgestellt. 
 
+
 Abb.: 6 Prüfung der Hochdruckleitung 
+
 Abb.: 7 Prüfung der Niederdruckleitung 
 Quelle: Ingenieurbüro Hege 
 Quelle: Ingenieurbüro Hege 
 4.6.1.4  Diesel-Leckleitung 
 Im Moment der eigentlichen Einspritzung in den Verbrennungsraum kann es zu einem sehr 
 geringen  Überschuss  an  Dieselkraftstoff  kommen.  Die  Rückführung  in  den  Dieselkraftstofftank  wird,  bis  zur  Zusammenführung  mit  der  Rückführungsleitung,  über  eine  Diesel-
-
 Leckleitung  in  Form  einer  Schlauchleitung  realisiert.  Die  Diesel-Leckleitung  wird  dabei  an 
-
 jeder Einspritzdüse von Zylinder 1 bis 6 vorbeigeführt in dem sie an jedem Zylinder auf einen 
 dafür vorgesehenen Anschlussnippel gesteckt wird. Nach Zylinder 6 ist die Leitung frei verlegt und wird mit der Rückführungsleitung verbunden. 
 Seite 17 von 27 
@@ -682,11 +654,8 @@ Fahrzeugbrand,  25.04.2015,  Bf Wilhelmshaven
 Laut  Fahrzeugbetreiber  wurden  bereits  in  der  Vergangenheit Scheuerstellen an der Diesel-
 Leckleitung festgestellt. Die betroffenen Leitungen wurden daraufhin ausgetauscht. 
 Nähere  Untersuchungen  zur  Widerstandsfähigkeit  der  Diesel-Leckleitung  aus  der  eine  maximale Einsatzzeit hätte abgeleitet werden können, konnten nicht ermittelt werden. 
-
 Ob  die  Leitung  sich  bei  dem  vorliegenden  Ereignis  vom  Sitz  an  der  Einspritzpumpe  gelöst 
-
 hatte  oder  im  Verlauf  eine  Undichtheit  aufwies,  ließ  sich  aufgrund  der  Brandschäden  nicht 
-
 mehr ermitteln. 
 1. 
 2. 
@@ -712,8 +681,10 @@ Tabelle 2: Beschriftungen zum Schema Antriebsmotor Typ 6R 183 TD 13H
  
  
  
+
  
 Untersuchungsbericht 
+
 Fahrzeugbrand,  25.04.2015,  Bf Wilhelmshaven 
 4.6.1.5  Rückführungsleitung 
 Durch  die  Kraftstoffförderpumpe  wird  der  Einspritzpumpe  kontinuierlich  Kraftstoff  für  den 
@@ -733,8 +704,10 @@ Seite 19 von 27
  
  
  
+
  
 Untersuchungsbericht 
+
 Fahrzeugbrand,  25.04.2015,  Bf Wilhelmshaven 
 4.6.1.6  Abflussmengenprüfung 
 Auf Grund der bisherigen Untersuchungsergebnisse, wurde am 26.06.2015 zur Klärung der 
@@ -750,8 +723,10 @@ Seite 20 von 27
  
  
  
+
  
 Untersuchungsbericht 
+
 Fahrzeugbrand,  25.04.2015,  Bf Wilhelmshaven 
 1.Messung 
 Bei der ersten Messung wurde die Diesel-Leckleitung von Zylinder 6 abgehend zur Rückführungsleitung unterbrochen und in ein Messgefäß umgelenkt. Der weitere Verlauf zur gemeinsamen Rücklaufleitung wurde abgesperrt. 
@@ -766,8 +741,10 @@ Seite 21 von 27
  
  
  
+
  
 Untersuchungsbericht 
+
 Fahrzeugbrand,  25.04.2015,  Bf Wilhelmshaven 
 2.Messung 
 Bei der zweiten Messung wurde die Verbindung zwischen Diesel-Leckleitung und Rückführungsleitung  unterbrochen  und  in  ein  Messgefäß  umgelenkt.  Die  Diesel-Leckleitung  wurde 
@@ -798,7 +775,6 @@ Volllast ca. 960 ml/min Kraftstoffaustrittmenge gemessen. Diese Menge war dazu g
 	  Nach  theoretischer  Analyse  der  Firma  MTU  ergab  sich  beim  Motorleerlauf  insgesamt 
 eine Durchflussmenge von 1700ml/min und bei Volllast von 3200 ml/min in der Rückführungsleitung. Somit würden ca. 1/3 der gesamten Durchflussmenge der Rückführungsleitung bei einem Defekt der Diesel-Leckleitung austreten. 
 	  Unter  Berücksichtigung  des  sich  allmählich  entwickelnden  Defektes  und  der  zeitlichen 
-
 Anteile  an  Leerlauf  und  Volllast  ergibt  sich  eine  Austrittsmenge  an  Dieselkraftstoff  zwischen 35-40 Litern pro Stunde. 
 Entscheidend  für  die  Messergebnisse  war,  dass  die  Diesel-Leckleitung  und  die  Rückführungsleitung, aus der Einspritzpumpe kommend, eine gemeinsame Leitung zum Dieselkraftstofftank haben. 
 Durch den vorhandenen Leitungsdruck in der Rückführungsleitung konnte so, bei einer Undichtheit der Diesel-Leckleitung, der Rückleitungskraftstoff über die Undichtheit in der Diesel-
@@ -814,11 +790,13 @@ Seite 23 von 27
  
  
  
+
 	 
 	 
 	 
 	 
 Untersuchungsbericht 
+
 Fahrzeugbrand,  25.04.2015,  Bf Wilhelmshaven 
 Abb.: 15 Anweisung A-154.1, 
 durch EUB anonymisier 
@@ -874,9 +852,7 @@ Der  Einbau  sowie  die  Verlegung  der  Diesel-Leckleitung  wie  auch  die  Üb
 Schlauchmaterials  sind  angeraten.  Eine  verschleißresistente  und  feuerfeste  Ummantelung 
 würde  das  Gefährdungspotenzial  erheblich  reduzieren.  Eine  generelle  Nutzungsdauer  des 
 Schlauchmaterials sollte Berücksichtigung finden. 
-
 Gleichwohl,  wenn  der  defekte  Schlauch  isoliert  betrachtet  wird,  entsteht  aufgrund  der  sehr 
-
 geringen Durchflussmenge an Dieselkraftstoff kein zündfähiges Aerosol. Erst durch die konstruktionsbedingte Verbindung, mit der unter Leitungsdruck stehenden Rückführungsleitung, 
 entsteht die eigentliche Gefährdung. Um zu vermeiden, dass große Mengen an Kraftstoff aus 
 der  Rückführungsleitung  in  Freie  gelangen  ist  eine  konstruktive  Anpassung  der  Kraftstoffrückführung notwendig. 
@@ -895,12 +871,12 @@ Seite 26 von 27
  
  
  
+
   
 Untersuchungsbericht 
+
 Fahrzeugbrand,  25.04.2015,  Bf Wilhelmshaven 
-
  	 	  Nach  Aussage  des  Herstellers  sind  Brandetektoren  bereits  in  einigen  Fahrzeugen  der 
-
 Gattung LINT eingebaut worden. 
 7 
 Sicherheitsempfehlungen  

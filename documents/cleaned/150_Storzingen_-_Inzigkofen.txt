@@ -30,25 +30,20 @@ Veröffentlicht durch:
 Bundesstelle für Eisenbahnunfalluntersuchung 
 Heinemannstraße 6 
 53175 Bonn 
+
  
 Untersuchungsbericht 
+
 Störung am Fahrzeug, 24.10.2019, Storzingen – Inzigkofen 
 Inhaltsverzeichnis 
 I. 
 II. 
-
 Änderungsverzeichnis: ........................................................................................ II 
-
 Abbildungsverzeichnis: ...................................................................................... III 
-
 III. 
-
 Tabellenverzeichnis: .......................................................................................... III 
-
 IV. 
-
 Abkürzungsverzeichnis: ...................................................................................... IV 
-
 1 
 1.1 
 1.2 
@@ -64,54 +59,31 @@ Abkürzungsverzeichnis: ........................................................
 3.4 
 4 
 4.1 
-
 Vorbemerkungen ................................................................................................ 1 
-
 Organisatorischer Hinweis ...................................................................................... 1 
-
 Ziel der Eisenbahnunfalluntersuchung .................................................................... 1 
-
 Zusammenfassung .............................................................................................. 3 
-
 Kurzbeschreibung des Ereignisses ........................................................................... 3 
-
 Folgen ...................................................................................................................... 3 
-
 Ursachen .................................................................................................................. 3 
-
 Sicherheitsempfehlungen ....................................................................................... 3 
-
 Allgemeine Angaben ........................................................................................... 4 
-
 Lage und Beschreibung des Ereignisortes ............................................................... 4 
-
 Beteiligte und Mitwirkende ..................................................................................... 6 
-
 Äußere Bedingungen ............................................................................................... 7 
-
 Todesopfer, Verletzte und Sachschäden ................................................................. 7 
-
 Untersuchungsprotokoll ..................................................................................... 9 
-
 Zusammenfassung von Aussagen und Stellungnahmen ......................................... 9 
 4.1.1 
-
 Stellungnahme des Tf .............................................................................................. 9 
-
 4.1.2 
-
 Stellungnahme der Zugbegleiterin ........................................................................ 10 
-
 4.2 
 4.3 
 4.4 
-
 Notfallmanagement .............................................................................................. 10 
-
 Untersuchung der bautechnischen Infrastruktur ................................................. 12 
-
 Untersuchung der Leit- und Sicherungstechnik .................................................... 12 
-
 I 
  
 Untersuchungsbericht 
@@ -121,40 +93,25 @@ Störung am Fahrzeug, 24.10.2019, Storzingen – Inzigkofen
 Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers ................. 12 
 Untersuchung der betrieblichen Abläufe des EVU ............................................... 13 
 4.6.1 
-
 Auswertung EFR führendes Fahrzeug ................................................................... 13 
-
 4.6.2 
-
 Auswertung EFR geführtes Fahrzeug .................................................................... 15 
-
 4.6.3 
 Auswertung Diagnosespeicher führendes Fahrzeug ............................................. 16 
 4.6.4 
-
 Störungsanzeige und -beseitigung ........................................................................ 17 
-
 4.6.5 
-
 Qualifikation des Tf ............................................................................................... 18 
-
 4.7 
 5 
 5.1 
 5.2 
-
 Untersuchung von Fahrzeugen ............................................................................. 19 
-
 Auswertung .......................................................................................................22 
-
 Ereignisrekonstruktion .......................................................................................... 23 
-
 Bewertung und Schlussfolgerung .......................................................................... 24 
-
 6 
-
 Bisher getroffene Maßnahmen ..........................................................................27 
-
 I.  Änderungsverzeichnis: 
 Änderung 
 Stand 
@@ -166,36 +123,25 @@ II
 Untersuchungsbericht 
 Störung am Fahrzeug, 24.10.2019, Storzingen – Inzigkofen 
 II.  Abbildungsverzeichnis: 
-
 Abbildung 1: Lageplan ................................................................................................................ 5 
-
 Abbildung 2: Gleislageskizze ...................................................................................................... 6 
-
 Abbildung 3: Standort geführter VT vor dem Hönbergtunnel ................................................... 8 
-
 Abbildung 4: Standort entlaufener führender VT, Blick in Fahrtrichtung ................................. 8 
-
 Abbildung 5: EFR-Geschwindigkeit führendes Fahrzeug ......................................................... 14 
-
 Abbildung 6: EFR-Spuren führendes Fahrzeug......................................................................... 15 
-
 Abbildung 7: Auszug Diagnosespeicher führendes Fahrzeug .................................................. 16 
-
 Abbildung 8: Meldung MTD ..................................................................................................... 17 
-
 Abbildung 9: Scharfenbergkupplung BR 612 (E-Kupplung geöffnet) ....................................... 21 
-
 III.  Tabellenverzeichnis: 
-
 Tabelle 1: Übersicht der äußeren Bedingungen ........................................................................ 7 
-
 Tabelle 2: Technische Daten BR 612 ........................................................................................ 20 
-
 III 
  
  
+
  
 Untersuchungsbericht 
+
 Störung am Fahrzeug, 24.10.2019, Storzingen – Inzigkofen 
 IV.  Abkürzungsverzeichnis: 
 Abzw 
@@ -310,10 +256,7 @@ Das Kapitel beinhaltet allgemeine Angaben zur Beschreibung des Ereignisortes und
 mitwirkenden Stellen, die äußeren Bedingungen, die Anzahl der bei dem Ereignis verletzten 
 und getöteten Personen sowie Art und Höhe der Folgeschäden benannt. 
 3.1  Lage und Beschreibung des Ereignisortes 
-
-Bei  der  Strecke  Tübingen –  Sigmaringen  handelte  es  sich  um  eine  eingleisige  nichtelektrifi-
-
-zierte Hauptbahn mit einer maximal zulässigen Höchstgeschwindigkeit von 120 km/h. Sie war 
+Bei  der  Strecke  Tübingen –  Sigmaringen  handelte  es  sich  um  eine  eingleisige  nichtelektrifizierte Hauptbahn mit einer maximal zulässigen Höchstgeschwindigkeit von 120 km/h. Sie war 
 für bogenschnelles Fahren, d. h. für Züge mit ak�ver Neigetechnik ausgelegt. Entsprechend 
 war sie durchgehend mit einer Geschwindigkeitsüberwachung für Neigetechnikzüge (GNT) so-
 wie mit Punk�örmiger Zugbeeinflussung (PZB) und digitalem Zugfunk GSM-R ausgestatet. Die 
@@ -377,8 +320,10 @@ Die folgenden Abbildungen zeigen die Strecken- und Neigungsverhältnisse an den 
 Standorten der Triebwageneinheiten nach dem Ereignis. 
 Seite 7 von 27 
  
+
  
 Untersuchungsbericht 
+
 Störung am Fahrzeug, 24.10.2019, Storzingen – Inzigkofen 
 Abbildung 3: Standort geführter VT vor dem Hönbergtunnel  3
 Abbildung 4: Standort entlaufener führender VT, Blick in Fahrtrichtung4 
@@ -387,8 +332,10 @@ Abbildung 4: Standort entlaufener führender VT, Blick in Fahrtrichtung4
 Seite 8 von 27 
  
  
+
                                                       
 Untersuchungsbericht 
+
 Störung am Fahrzeug, 24.10.2019, Storzingen – Inzigkofen 
 4  Untersuchungsprotokoll 
 In diesem Kapitel werden die ermitelten Ergebnisse zu einzelnen in Zusammenhang mit dem 
@@ -409,9 +356,7 @@ und wieder ak�viert. Die HLL habe er weiterhin nicht gefüllt bekommen. Danach
 Störliste verwendet, was auch nicht zum Erfolg geführt habe.  
 Danach sei ihm der Gedanke gekommen, dass die Bremse überladen sei. In der Meinung, dass 
 die  Federspeicherbremse  angelegt  sei,  habe  er  die  Drucklu�bremse  [red.  Anmerkung:  mit 
-
 dem  Lösezug  außen  am  Fahrzeug]  ausgelöst.  Da  sei  der  Triebwagen  plötzlich  losgerollt.  Er 
-
 habe  noch  schnell  in  den  Triebwagen einsteigen  wollen,  aber  die Türen seien  verschlossen 
 gewesen. Er sei zurück zum Tunnelmund gelaufen und habe von dort die Zugbegleiterin angerufen. Diese habe den Triebwagen trotz aller Versuche nicht zum Halten bringen können. Nun 
 sei er durch den Tunnel dem Triebwagen hinterhergelaufen. Kurz nach dem Tunnel habe es 
@@ -422,9 +367,7 @@ Störung am Fahrzeug, 24.10.2019, Storzingen – Inzigkofen
 die Zugbegleiterin gescha�, die Türen freizugeben. Er sei einges�egen und habe den Triebwagen mit der Federspeicherbremse anhalten können. Danach hab er den Fdl informiert und 
 weitere Anweisungen abgewartet. 
 4.1.2  Stellungnahme der Zugbegleiterin 
-
 Sie  sei  als  Zugbegleiterin  auf  dem  Zug  IRE  3257  im  ersten  Zugteil  gewesen.  Als  der  Zug  im 
-
 Tunnelmund zum Stehen gekommen sei, habe sie der Tf angerufen. Der Tf habe ihr mitgeteilt, 
 dass er eine Störung am Fahrzeug häte und habe sie aufgefordert, wegen der Durchsagen 
 nach vorne zu kommen. Der Tf sei dann nach draußen gegangen und habe die Störung gesucht. Ihrer Meinung nach habe der Tf den zweiten VT abgekuppelt. Anschließend sei er wieder in den Führerstand gekommen und habe ihr mitgeteilt, dass er keine Lu� [red. Anmerkung: in der HLL] habe. Sie habe darau�in die Notbremsen überprü�. Der Tf sei dann wieder 
@@ -464,8 +407,10 @@ Weitere Unregelmäßigkeiten oder Verzögerungen in Bezug auf das Einleiten von 
 Seite 11 von 27 
  
  
+
  
 Untersuchungsbericht 
+
 Störung am Fahrzeug, 24.10.2019, Storzingen – Inzigkofen 
 4.3  Untersuchung der bautechnischen Infrastruktur 
 Aufgrund der Erkenntnisse zum Ereignishergang und der Sachverhaltsermitlung konnte auf 
@@ -516,18 +461,17 @@ Das Fahrzeuggerät des führenden Fahrzeugs 612 020 war eingeschaltet. Die Rohda
 vollständig und fehlerfrei aufgezeichnet. Die im Fahrzeug registrierten Uhrzeiten entsprachen 
 Seite 13 von 27 
  
+
  
 Untersuchungsbericht 
+
 Störung am Fahrzeug, 24.10.2019, Storzingen – Inzigkofen 
 den dokumen�erten Zeiten in den betrieblichen Unterlagen sowie den Zeitangaben der aufgezeichneten Zugfunkgespräche. Die intern registrierten En�ernungsangaben wurden auf die 
 Streckenkilometer der Strecke normiert. Das Fahrzeug fuhr mit eingeschalteter Neigetechnik 
 nach den zulässigen Geschwindigkeiten der Spalte 2b des Buchfahrplans. 
 Abbildung 5: EFR-Geschwindigkeit führendes Fahrzeug 
 Um 14:01:36 Uhr war die Abfahrt am letzten Haltebahnhof Albstadt-Ebingen registriert. Die 
-zulässigen Höchstgeschwindigkeiten wurden im folgenden Streckenabschnit nicht überschrit-
-
-ten.  Um  14:14:04  Uhr  wurde  bei  einer  Geschwindigkeit  von  99  km/h  ca.  in  km  79,36  eine 
-
+zulässigen Höchstgeschwindigkeiten wurden im folgenden Streckenabschnit nicht überschritten.  Um  14:14:04  Uhr  wurde  bei  einer  Geschwindigkeit  von  99  km/h  ca.  in  km  79,36  eine 
 starke Druckabsenkung in der HLL registriert. Die Ursache dieser Zwangsbremsung ist aus dieser Datenspeicherung heraus nicht erkennbar. In der Folge kam der Zug nach 280 m ca. bei 
 Streckenkilometer 79,6 um 14:14:41 Uhr zum S�llstand. Nachdem der Druck der HLL wieder 
 aufgefüllt war, wurde die Fahrt um 14:16:06 Uhr wieder fortgesetzt. 
@@ -537,8 +481,10 @@ unter 3,5 bar. Um 14:31:59 Uhr wurde der Führerstand deak�viert, um 14:32:07 
 ak�viert.  
 Seite 14 von 27 
  
+
  
 Untersuchungsbericht 
+
 Störung am Fahrzeug, 24.10.2019, Storzingen – Inzigkofen 
 Ab 14:41:09 Uhr wurde dann der Beginn einer erneuten Fahrzeugbewegung registriert. Das 
 Fahrzeug rollte über einen Zeitraum von 9 Minuten und 16 Sekunden mit regelmäßig zwischen 
@@ -600,9 +546,7 @@ der Ril 493.0612Z10 im Abschn. 8.5 vorgegeben. Grundsätzlich galt gemäß Betri
 BRW.6101 Abschn. 6 (1), dass vor dem Verlassen von Führerräumen zum Kuppeln, zur Störungssuche sowie zu betrieblichen oder technischen Handlungen der Tf das Triebfahrzeug gegen unbeabsich�gte Bewegung zu sichern hat. In Ril 915.0107 Abschn. 6 (24) war ergänzend 
 geregelt,  dass  der  Tf  beim  Verlassen  des  Führerstandes  zum  Suchen  und  Beheben  einer 
 Bremsstörung die Feststellbremse anzulegen hat. In der Bedienungsanweisung der Baureihe 
-
 612  Ril  493.0612  war  in  Abschn.  3.10  festgelegt,  dass  zum  Sichern  gegen  unbeabsich�gtes 
-
 Bewegen die Federspeicherbremse des VT zu benutzen ist.  
 4.6.5  Qualifikation des Tf 
 Der Tf war im Besitz eines gül�gen EU-Führerscheins. Für das Führen von Eisenbahnfahrzeugen erhielt er von der RAB eine Zusatzbescheinigung der Klassen A (Rangierfahrten) und B1 
@@ -688,8 +632,10 @@ Ab einer Geschwindigkeit von 3 km/h erhalten die Türen dieser Baureihe einen Sc
 Dieser  bewirkte  das  automa�sche  Schließen  geöffneter  Türen,  sofern  die  Notentriegelung 
 Seite 21 von 27 
  
+
  
 Untersuchungsbericht 
+
 Störung am Fahrzeug, 24.10.2019, Storzingen – Inzigkofen 
 über den Vierkant nicht dauerha� eingeschaltet ist. Wenn ein Tf das Fahrzeug verlassen muss, 
 dürfen  nicht  alle  Türen über  die Türfreigabe freigeben  werden. Das Zugpersonal  ist  gemäß 
@@ -709,8 +655,10 @@ Neigungsverhältnisse verhindert.
 Das Kapitel 5 Auswertung befasst sich mit der Ereignisrekonstruk�on. Anhand der oben genannten Feststellungen wird ein plausibler Ablauf des gefährlichen Ereignisses zusammengetragen. Relevante Erkenntnis werden anschließend bewertet und führen ggf. zu entsprechenden Schlussfolgerungen. 
 Seite 22 von 27 
  
+
  
 Untersuchungsbericht 
+
 Störung am Fahrzeug, 24.10.2019, Storzingen – Inzigkofen 
 5.1  Ereignisrekonstruktion 
 Der in Doppeltrak�on verkehrende IRE 3257 erhielt bei seiner Fahrt von Stutgart nach Sigmaringen auf dem Streckenabschnit Storzingen – Inzigkofen aufgrund einer Kontaktstörung in 
@@ -741,9 +689,7 @@ Notentriegelung wieder zurück um den akus�schen Dauersignalton auszuschalten.
 Nachdem die Drucklu�bremse durch die Betä�gung des Lösezuges auslöste, begann das Fahrzeug um 14:41 Uhr hangabwärts zu Rollen. Offensichtlich war die Federspeicherbremse nicht 
 angelegt. Durch die Rollbewegung erhielt die vom Tf geöffnete Türe einen Schließbefehl, da 
 zuvor von ihm der Schalter der Notentriegelung wieder zurückgenommen wurde. Da die Türfreigabe nicht ak�viert war, konnte der Tf die Eins�egstüre von außen nicht mehr öffnen.  
-
 Der  sich  noch  im  Führerstand  befindlichen  Zugbegleiterin  gelang  es  auch  mit  telefonischer 
-
 Hilfe der Dispostelle in Ulm nicht, das langsam abrollende Fahrzeug zum Halten zubringen. 
 Bedingt durch den fehlenden Druck in der HLL blieb die Bedienung der Notbremsen wirkungslos. Um 14:46 Uhr wurde durch die Zugbegleiterin der Führerstand deak�viert. Auf die Rollbewegung  hate  dies  keinen  Einfluss.  Die  intermi�erend  anlegende  Mg-Bremse  verhinderte, 
 dass das Fahrzeug im Gefälle weiter Fahrt aufnahm.  

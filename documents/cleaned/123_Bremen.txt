@@ -50,25 +50,18 @@ Folgen .........................................................................
 .................................8 
 Ursachen ............................................................................
 .................................8 
-
 Vorbemerkungen .............................................................................................. 10 
-
 Organisatorischer Hinweis ..................................................
 ...............................10 
-
 Ziel der Eisenbahn-Unfalluntersuchung ............................................................. 10 
-
 Beteiligte und Mitwirkende ..................................................
 ...............................11 
 Ereignis ..............................................................................
 ...............................12 
 Hergang ..............................................................................
 ...............................12 
-
 Todesopfer, Verletzte und Sachschäden ........................................................... 13 
-
 Wetterbedingungen............................................................................................ 15 
-
 Untersuchungsprotokoll ...............................................
 ...................................15 
 Zusammenfassung von Aussagen ..................................
@@ -96,9 +89,7 @@ Untersuchung der Leit- und Sicherungstechnik ...................................
 4.3 
 4.4 
 4.4.1 
-
 Stellwerksanlage ................................................................................................ 17 
-
 4.4.2 
 Heißläufer- und Festbremsortungsanlagen (HOA/FBOA) .................................. 17 
 4.5 
@@ -114,9 +105,7 @@ Betriebliche Handlungen des Tf des DGS 88963 ...................................
 Untersuchung von Fahrzeugen .......................................
 ...................................21 
 4.6.1 
-
 Angaben zum primär entgleisten Wagen ........................................................... 21 
-
 Seite 3 von 28 
  
  
@@ -130,8 +119,10 @@ Seite 3 von 28
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung, Bremen Hbf, 30.11.2017 
 4.6.2 
 Fahrzeuginstandhaltung .......................................................
@@ -152,31 +143,22 @@ Seite 4 von 28
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung, Bremen Hbf, 30.11.2017 
 Abbildungsverzeichnis: 
-
 Abb. 1: Aufnahmen an der Unfallstelle .................................................................................. 9 
-
 Abb. 2: Lageplan Bremen Hbf (Auszug) ...............................................................................12 
-
 Abb. 3: Beschädigungsspuren am Gleis und Weiche 11W110 ............................................14 
-
 Abb. 4: Fortsetzung der Entgleisungsspuren hinter der Brücke ............................................14 
-
 Abb. 5: Beginn der Entgleisungsspuren ...............................................................................16 
-
 Abb. 6: HOA „Bookholzberg“, Messkurve „Heiß“ an für die Achse 173 .................................18 
-
 Abb. 7: Grafische Darstellung der EFR-Daten ......................................................................21 
-
 Abb. 8: Spuren im Bereich der Unfallstelle (1) ......................................................................25 
-
 Abb. 9: Suren im Bereich der Unfallstelle (2) ........................................................................25 
-
 Abb. 10: glühendes Radsatzlager mit Wellenstupf, Wagen 42 .............................................26 
-
 Seite 5 von 28 
  
  
@@ -225,8 +207,10 @@ Betriebszentrale
 Güterzug externer Eisenbahnverkehrsunternehmen 
 Eisenbahnbetriebsleiter 
 Eisenbahn- Bau- und Betriebsordnung 
+
 Entity  in  charge  of  maintenance  (für  die  Instandhaltung  zuständige 
 Stelle) 
+
 Elektronische Fahrtenregistrierung 
 Eisenbahninfrastrukturunternehmen 
 Europäische Eisenbahn Agentur 
@@ -296,8 +280,10 @@ Seite 7 von 28
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung, Bremen Hbf, 30.11.2017 
 1 
 Zusammenfassung 
@@ -316,9 +302,7 @@ und Sicherungstechnik  (LST).  Die Sachschäden  am  Oberbau,  den LST-Anlagen  
 es nach ca. 1,6 Kilometer zur Entgleisung des 43. Wagens und zur Zugtrennung. 
 1.3 
 Ursachen 
-
 Als  primäre  Ursache  für  die  Entgleisung  konnte  ein  Heißläufer  und  ein  damit  verbundener 
-
 Achsschenkelbruch  am  hinteren  Drehgestell  des  42.  Wagens  ermittelt  werden.  Durch  die 
 thermische Überbeanspruchung des Radsatzlagers glühte dieses aus und der Achsschenkel 
 wurde abgeschert. Das Radsatzlager fiel dabei ab und wurde wenige Meter nach den ersten 
@@ -341,8 +325,10 @@ Seite 9 von 28
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung, Bremen Hbf, 30.11.2017 
 2 
 Vorbemerkungen 
@@ -406,9 +392,7 @@ Bahnhofs  Bremen  Hbf  und  setzte  danach  seine  Fahrt,  vorbei  am  Zwischens
 rechts in Fahrtrichtung des Zuges. Zum Zeitpunkt des Halts am Asig 11P1 befand sich der 
 Wagen  ca.  in Kilometer  44,560.  Nur  wenige Meter  davon  entfernt  wurden später  Teile  des 
 abgescherten Radsatzlagers und Tragfedern gefunden. 
-
 Im  weiteren  Verlauf  wurde  der  entgleiste  Radsatz  noch  ca.  1600  Meter  bis  zum  Stillstand 
-
 des  Zuges  mitgezogen.  Dadurch  wurden  an  der  Infrastruktur  erhebliche  Schäden  an  Weichen, Holz- und Betonschwellen und Kleineisen, sowie an LST-Anlagen verursacht. 
 Unfallstelle 
 Fahrtrichtung 
@@ -421,30 +405,24 @@ Seite 12 von 28
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung, Bremen Hbf, 30.11.2017 
-
 Zeitgleich  verständigte  der  technische  Berechtigte  der  Betra  F  216244,  der  sich  zufällig  im 
-
 Bereich  der  Unfallstelle  aufhielt,  den  örtlich  zuständigen  Fahrdienstleiter  (Fdl)  des  ESTW 
-
 Bremen Süd über eine Unregelmäßigkeit am ausfahrenden DGS 88963. Daraufhin forderte 
 der Fdl den Triebfahrzeugführer (Tf) des DGS 88963 über GSM-R Zugfunk auf, wegen des 
 Verdachts auf eine feste Bremse sofort anzuhalten. Der Tf beschrieb in seiner Stellungnahme während des  Gesprächs  mit  dem  Fdl  das Entweichen der Luft aus der Hauptluftleitung 
 wahrgenommen  zu  haben.  Ursache  für  die  vollständige  Entlüftung  war  die  Zugtrennung  in 
 Kilometer  3,4  im  Streckengleis  Bremen  Hbf  –  Abzw  Bremen-Vahr.  Ermittlungen  ergaben, 
-dass  die  Zugtrennung  durch  eine  weitere  Entgleisung  des  43.  Wagens  maßgeblich  verur-
-
-sacht  wurde.  Vor  der  Zugtrennung  verkeilte  sich  der  dritte  Radsatz  des  42.  Wagens  unter 
-
+dass  die  Zugtrennung  durch  eine  weitere  Entgleisung  des  43.  Wagens  maßgeblich  verursacht  wurde.  Vor  der  Zugtrennung  verkeilte  sich  der  dritte  Radsatz  des  42.  Wagens  unter 
 dem  Wagen,  da  er  zuvor  mit  Teilen  einer Eisenbahnbrücke kollidierte. Daraufhin löste sich 
 auch  der  vierte  Radsatz  aus  dem  Drehgestell  und  wurde  nach  der  Entgleisung  unter  dem 
 Wagen  43  aufgefunden.  Wie  in  Abb.  1  erkennbar,  entgleiste  der  43.  Wagen  mit  dem  in 
 Fahrtrichtung  vorderen  Drehgestell  und  geriet  in  das  Lichtraumprofil  des  Nachbargleises. 
-
 Der  Zug  kam  mit  der  Spitze  in  Kilometer  2,77,  ca.  263  Meter  hinter  dem  Sbk  11176,  zum 
-
 Halten. 
 3.2 
 Todesopfer, Verletzte und Sachschäden 
@@ -475,8 +453,10 @@ Seite 13 von 28
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung, Bremen Hbf, 30.11.2017 
 Abb. 3: Beschädigungsspuren am Gleis und Weiche 11W110  
 Abb. 4: Fortsetzung der Entgleisungsspuren hinter der Brücke 
@@ -491,11 +471,7 @@ Seite 14 von 28
 Zugentgleisung, Bremen Hbf, 30.11.2017 
 3.3 
 Wetterbedingungen 
-In der Ereignisnacht vom 30.11.2017 lag die Temperatur, gemessen an der HOA „Bookholz-
-
-berg“,  bei  +2°  C.  Es  war  der  Jahreszeit  entsprechend  feucht  mit  vereinzelten  Niederschlä-
-
-gen, Nebel oder Hochnebel im Raum Bremen. Zur Ereigniszeit regnete es nicht. Die Wetterbedingungen hatten keinen Einfluss auf das Ereignis. 
+In der Ereignisnacht vom 30.11.2017 lag die Temperatur, gemessen an der HOA „Bookholzberg“,  bei  +2°  C.  Es  war  der  Jahreszeit  entsprechend  feucht  mit  vereinzelten  Niederschlägen, Nebel oder Hochnebel im Raum Bremen. Zur Ereigniszeit regnete es nicht. Die Wetterbedingungen hatten keinen Einfluss auf das Ereignis. 
 4 
 Untersuchungsprotokoll 
 4.1 
@@ -504,16 +480,11 @@ Der  Tf  des  DGS  88963  machte  gegenüber  seinem  Arbeitgeber  folgende  Ang
 Sachverhalt. Er sei mit dem Zug am Ereignistag von Wilhelmshaven kommend in Richtung 
 Minden  gefahren.  Im  Bahnhof  Bremen  Hbf  habe  er  nach  Absprache  mit  dem  Fdl  kurz  am 
 Bahnsteig 1 angehalten, um einen Auszubildenden abzusetzen. An das nächste haltzeigende  Hauptsignal  sei  er  langsam  herangefahren. Nach der Weiterfahrt  habe er witterungsbedingt nur mühsam beschleunigen können. Nach ca. 500 Metern sei er vom Fdl aufgefordert 
-
 worden  zu  halten,  da  der  Verdacht  auf  eine  feste  Bremse  bestand  und  auf  dem  Stellwerk 
-
 eine  Weiche  rot  ausgeleuchtet  war.  Während des  Gespräches  habe  der  Tf  den Bremsvorgang eingeleitet und dabei bemerkt, dass die Luft vollständig aus der Hauptluftleitung entwichen sei. Nach der Sperrung der Nachbargleise und der Sicherung des Zuges sei der Tf mit 
 einem  weiteren  Auszubildenden  zur  Ursachenermittlung  am  Zug  entlanggegangen.  Dabei 
 bemerkten beide im letzten Drittel des Zuges eine Zugtrennung und zwei entgleiste Wagen. 
-
-Daraufhin  habe  er  den  Notfallmanager  und  ein  Mitarbeiter  aus  der  Leitstelle der  HHPI  ver-
-
-ständigt,  die  dann  zum  Ereignisort  fuhren.  Der  Kurzwegspeicher  des  Triebfahrzeuges  sei 
+Daraufhin  habe  er  den  Notfallmanager  und  ein  Mitarbeiter  aus  der  Leitstelle der  HHPI  verständigt,  die  dann  zum  Ereignisort  fuhren.  Der  Kurzwegspeicher  des  Triebfahrzeuges  sei 
 gesperrt und die Wagenliste sowie der Bremszettel an den Eisenbahnbetriebsleiter der HHPI 
 gesendet worden. Der Tf habe danach, nach Rücksprache mit der Betriebsleitung des EVU, 
 den Unfallort verlassen. 
@@ -532,10 +503,7 @@ Seite 15 von 28
  
 Untersuchungsbericht 
 Zugentgleisung, Bremen Hbf, 30.11.2017 
-
-Die  BEU  wurde  von  der  Notfallleit-stelle  der  DB  Netz  AG  zeitnah  nach  dem  Ereignis  infor-
-
-miert, ebenso die weiteren Einsatzkräfte des Infrastrukturbetreibers und des beteiligten EVU. 
+Die  BEU  wurde  von  der  Notfallleit-stelle  der  DB  Netz  AG  zeitnah  nach  dem  Ereignis  informiert, ebenso die weiteren Einsatzkräfte des Infrastrukturbetreibers und des beteiligten EVU. 
 Infolge  des  Ereignisses  waren  weder  Personen  zu  retten,  noch  waren  Folgeschäden  für 
 Menschen und  Umwelt  zu befürchten. Aus diesem Grund wurde auf die Untersuchung des 
 Notfallmanagements verzichtet. 
@@ -554,8 +522,10 @@ Seite 16 von 28
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung, Bremen Hbf, 30.11.2017 
 der VzG-Strecke 1500 innerhalb des Bahnhofs Bremen Hbf und weiter nach der Überleitung 
 auf die VZG-Strecke 1401 bis zur finalen Entgleisungsstelle betrugen die Bremswegabstände 700 Meter. 
@@ -565,9 +535,7 @@ Zugtrennung und Stillstand der Zugteile in Kilometer 3,4 der VzG-Strecke 1401 hi
 Die Oberleitungsanlage  wurde nicht beschädigt.  Bei den hier aufgeführten Schäden an der 
 Infrastruktur handelt es sich zweifelsfrei um Folgeschäden, die durch den Unfall entstanden 
 sind.  Auf  eine  umfangreiche  Untersuchung  der  Fahrbahn  hinsichtlich  der  Gleislage  im  Bereich der Entgleisungsstelle konnte aufgrund der Gegebenheiten verzichtet werden. Mängel 
-
 an  den  Infrastruktureinrichtungen,  die  zur  Entgleisung  geführt  oder  eine  solche  begünstigt 
-
 hätten, wurden nicht festgestellt. 
 4.4 
 Untersuchung der Leit- und Sicherungstechnik 
@@ -580,10 +548,7 @@ dem Bedienplatzsystem BPS 901 ausgerüstet. Gemäß den Aufzeichnungen des Dokum
 mit Fahrtstellung des Asig 11P1 (Ks 1 mit Zs 3 Kennziffer 5). 
 Durch  die  Beschädigung  der  Weiche  11W110  registrierte  der  Bedienplatz  der  ESTW-UZ 
 Bremen  eine  Auffahrmeldung  für  diese  Weiche.  Auch  hierbei  handelte  es  sich  um  Folgen 
-
-des  Unfalls.  Die  Stellwerkstechnik  arbeitete  zum  Ereigniszeitpunkt  fehlerfrei  und  steht  zu-
-
-dem mit der Unfallursache in keinem Zusammenhang. 
+des  Unfalls.  Die  Stellwerkstechnik  arbeitete  zum  Ereigniszeitpunkt  fehlerfrei  und  steht  zudem mit der Unfallursache in keinem Zusammenhang. 
 4.4.2 
 Heißläufer- und Festbremsortungsanlagen (HOA/FBOA) 
 Vor dem Ereignis im Bahnhof Bremen Hbf befuhr der DGS 88963 zwei Heißläuferortungsanlagen,  bei  denen  unterschiedliche  Messergebnisse  an  dem  betroffenen  Radsatz  registriert 
@@ -603,11 +568,7 @@ und ca. 61 Kilometer von der späteren Entgleisungsstelle entfernt.
 Die HOA/FBOA „Bookholzberg“ lag auf der VzG-Strecke 1500 in Kilometer 23,220 und wurde vom Fdl Delmenhorst überwacht. Gemäß den Messdaten an dieser Anlage lag die Temperatur am betroffenen Radsatz bei 174° C. Die als Regelalarmschwelle eingestellte Temperatur  von  102°  C  (100°  C  +2°  C  Außentemperatur)  wurde  demnach  überschritten.  Daher 
 hätte  der  Fdl  Delmenhorst  von  diesem  Ergebnis  über  einen  Alarm  informiert  werden  müssen, was jedoch ausblieb.  
 Den Angaben der DB Netz AG zufolge habe die Software der Anlage den gemessenen Wert 
-
-als  Fehler  klassifiziert  und  diesen  auf  2°  C  gesetzt.  Ursächlich  sei  hierfür der s.g. Sonnen-
-
-klassifikator,  also  die  Möglichkeit,  die  Anlagensoftware  auf  gewisse  äußere  Faktoren,  wie 
-
+als  Fehler  klassifiziert  und  diesen  auf  2°  C  gesetzt.  Ursächlich  sei  hierfür der s.g. Sonnenklassifikator,  also  die  Möglichkeit,  die  Anlagensoftware  auf  gewisse  äußere  Faktoren,  wie 
 Sonneneinstrahlung  oder  häufiges Bremsen der Züge zu programmieren. Hierdurch sollten 
 unnötige Fehlalarme vermieden werden.  
 Abb. 6: HOA „Bookholzberg“, Messkurve „Heiß“ an für die Achse 173 
@@ -621,8 +582,10 @@ Seite 18 von 28
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung, Bremen Hbf, 30.11.2017 
 die DB Netz AG als Sofortmaßnahme die Ausschaltung der Funktion „Sonnenklassifikation“ 
 an allen HOA der Bauformen FÜS 1, FÜS 2 und FÜS-EPOS unverzüglich angewiesen. 
@@ -666,24 +629,14 @@ Betriebliche Handlungen des Fdl
 Gemäß  der  Zuglaufanalyse  erhielt  der  DGS  88963  nach  der  Abfahrt  im  Bf  Wilhelmshaven 
 Ölweiche um 22.49 Uhr noch einen kurzen Betriebshalt im Bf Sande, um dann ohne Halt bis 
 zum  Bahnhof  Bremen  Hbf  weiterzufahren.  Entsprechend  der  Dokumentation  des  Betriebsablaufes ließ der Fdl ESTW Bremen Süd in der Bz Hannover die Einfahrt des Zuges in 
-den Bahnhof Bremen Hbf aus Richtung Bremen-Neustadt über die Zugstraßen des Einfahr-
-
-signals  (Esig)  11E,  Zsig  11ZW1,  Zsig  11ZV1  mit  Fahrtstellung  der  jeweiligen  Signale  bis 
-
+den Bahnhof Bremen Hbf aus Richtung Bremen-Neustadt über die Zugstraßen des Einfahrsignals  (Esig)  11E,  Zsig  11ZW1,  Zsig  11ZV1  mit  Fahrtstellung  der  jeweiligen  Signale  bis 
 zum haltzeigenden Ausfahrsignal Asig 11P1 zu. Gegen 01:12:21 Uhr stellte er die Ausfahrzugstraße  für  Zug  88963  in  das  Güterzuggleis  in  Richtung  Abzweigstelle  Vahr  ein  und 
 stimmte der Weiterfahrt am Asig mit Signal Ks1 und Zs 3, Kennziffer 5 zu.  
 Nachdem  der  Fdl  nur  wenige  Minuten  nach  Abfahrt  des  Zuges  eine  nicht  ganz  eindeutige 
 Information  vom  Technisch  Berechtigten  nach  4.2  der  Betra  F  216244  über  eine  Unregelmäßigkeit an Zug 88963 erhielt, forderte er den Tf des Zuges um 01:17:48 Uhr auf, seinen 
-Zug wegen des Verdachts auf eine feste Bremse sofort anzuhalten und diesen zu untersu-
-
-chen.  Gegen  01:37  Uhr  erfuhr  der  Fdl,  der  die  Folgen  des  Unfalls  bereits  durch  entspre-
-
-chende  Störmeldungen  auf  dem  Lupenbild  seines  Monitors  wahrnahm,  vom  Tf,  dass  der 
+Zug wegen des Verdachts auf eine feste Bremse sofort anzuhalten und diesen zu untersuchen.  Gegen  01:37  Uhr  erfuhr  der  Fdl,  der  die  Folgen  des  Unfalls  bereits  durch  entsprechende  Störmeldungen  auf  dem  Lupenbild  seines  Monitors  wahrnahm,  vom  Tf,  dass  der 
 Zug getrennt und zwei Wagen entgleist waren. Der Fdl sperrte daraufhin das Streckengleis 
-
-und  setzte  eine  entsprechende  Unfallmeldung  an  die  Notfallleitstelle  ab.  Betriebliche  Fehl-
-
-handlungen  des  Fdl,  die  zur  Begünstigung  der  Zugentgleisung  beigetragen  hätten,  wurden 
+und  setzte  eine  entsprechende  Unfallmeldung  an  die  Notfallleitstelle  ab.  Betriebliche  Fehlhandlungen  des  Fdl,  die  zur  Begünstigung  der  Zugentgleisung  beigetragen  hätten,  wurden 
 nicht nachgewiesen. 
 4.5.3 
 Betriebliche Handlungen des Tf des DGS 88963 
@@ -720,8 +673,10 @@ Seite 21 von 28
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung, Bremen Hbf, 30.11.2017 
 ausgewählten  technischen  Daten  besitzt  vier  Seitenklappen  zur  schlagartigen  Schwerkraftentladung. 
 Technische Fahrzeugdaten 
@@ -753,20 +708,12 @@ Ereignistag wurde der Wagen mit 62,45 Tonnen Kohle netto beladen. Die Analyse de
 keine Auffälligkeiten in Bezug auf eine Überladung. 
 4.6.2 
 Fahrzeuginstandhaltung 
-Halter  des  betroffenen  Falns-Wagens  ist  die LINEAS  NV  mit  Sitz  in  Brüssel, die das Fahr-
-
-zeug  an  die  HHPI,  mit  Sitz  in  Erfurt  vermietet  hat.  Die HHPI  war  am  Ereignistag  auch  das 
-
+Halter  des  betroffenen  Falns-Wagens  ist  die LINEAS  NV  mit  Sitz  in  Brüssel, die das Fahrzeug  an  die  HHPI,  mit  Sitz  in  Erfurt  vermietet  hat.  Die HHPI  war  am  Ereignistag  auch  das 
 befördernde EVU. 
 Die Firma Lineas NV ist auch die für die Instandhaltung zuständige Stelle (Entity in charge of 
-
 maintenance  –  ECM).  In  Ihrer  Funktion  als  ECM  ist  die  LINEAS  NV  verantwortlich  für  die 
-
 Beaufsichtigung  und  Koordination  der  ausführenden  Funktionen  der  Instandhaltung.  Der 
-HHPI  obliegt  hierbei  das  Flottenmanagement  in  Bezug  auf  die  Überwachung  der  Laufleis-
-
-tung,  sowie  die  Zuführung  zur  Instandhaltung.  Die  TRW  NV,  ebenfalls  mit  Sitz  in  Brüssel, 
-
+HHPI  obliegt  hierbei  das  Flottenmanagement  in  Bezug  auf  die  Überwachung  der  Laufleistung,  sowie  die  Zuführung  zur  Instandhaltung.  Die  TRW  NV,  ebenfalls  mit  Sitz  in  Brüssel, 
 Seite 22 von 28 
  
  
@@ -791,8 +738,10 @@ Seite 22 von 28
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung, Bremen Hbf, 30.11.2017 
 übernimmt  im  Rahmen  der  Aufgabenteilung  einer  ECM  die  Durchführung  der  Fahrzeuginstandhaltung.  
 Auswertung der präventiven und korrektiven Instandhaltung 
@@ -806,11 +755,7 @@ Radsätze erfolgte im November 2013 nach der Instandhaltungsstufe IS 2 für Rads
 vier  Radsätze  in  den  Jahren  2003  und  2005  erfolgte.  Bestandteil  dieser  Radsätze  waren 
 thermisch  stark  beanspruchbare  Monoblockräder  der  Bauart  BA  004,  was  durch die Kennzeichnung  mit  zwei  senkrechten  weißen  Strichen  gemäß  AVV  Anlage  11  am  Lagerdeckel 
 ersichtlich war. 
-Bestandteil einer G 4.0 ist gemäß VPI-Modul 04 auch die zerstörungsfreie Prüfung der Rad-
-
-satzlager.  Die  nächste  Kontrolle  der  Teile  der  Radsatzlager  mittels  Ultraschall  wäre  dem-
-
-nach erst wieder im Mai 2020 fällig gewesen. 
+Bestandteil einer G 4.0 ist gemäß VPI-Modul 04 auch die zerstörungsfreie Prüfung der Radsatzlager.  Die  nächste  Kontrolle  der  Teile  der  Radsatzlager  mittels  Ultraschall  wäre  demnach erst wieder im Mai 2020 fällig gewesen. 
 Entsprechend der Laufleistung des Wagens wurden als planmäßige Friststufe G 2.0 gemäß 
 VPI-Modul  01  weitere  jährliche  Untersuchungen  eingeplant.  Die  Laufleistung  für  die  betroffene  Wagengattung  wurde  mit  jährlich  100.000  Kilometer  festgelegt.  Diese  Festlegung 
 entsprach  den  Vorgaben  des  VPI-Moduls  04  mit  einer  Laufleistung  von  maximal 
@@ -883,16 +828,14 @@ Seite 26 von 28
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung, Bremen Hbf, 30.11.2017 
 5 
 Auswertung und Schlussfolgerungen 
-Die Zugentgleisung des DGS 88963 am 30.11.2017 wurde durch ein heiß gelaufenes Rad-
-
-satzlager,  ein  s.g.  Heißläufer,  verursacht.  Dieser  führte  zum  Bruch  der  vorlaufenden  Rad-
-
-satzwelle  im  hinteren  Drehgestell  des  an  42.  Stelle  laufenden Wagens.  Da  durch das  Verschmelzen  der  Bestandteile  des  Lagers  keine  Aussage  zum  Zustand  des  Lagers  vor  dem 
+Die Zugentgleisung des DGS 88963 am 30.11.2017 wurde durch ein heiß gelaufenes Radsatzlager,  ein  s.g.  Heißläufer,  verursacht.  Dieser  führte  zum  Bruch  der  vorlaufenden  Radsatzwelle  im  hinteren  Drehgestell  des  an  42.  Stelle  laufenden Wagens.  Da  durch das  Verschmelzen  der  Bestandteile  des  Lagers  keine  Aussage  zum  Zustand  des  Lagers  vor  dem 
 Ereignis getroffen werden konnte, war eine eindeutige Ermittlung der Ursache des Heißläufers nicht mehr möglich. Zur Entwicklung eines Heißläufers kommt es in der Regel, wenn die 
 Schmierung der beweglichen Teile innerhalb eines Radsatzlagers beeinträchtigt wurde. Zum 
 einen kann hier die Verwendung eines ungeeigneten Schmiermittels oder auch eine langzeitige  unsachgemäße  Abstellung  nicht  verbauter  Achsen  die  Ursachen  sein.  Bei  einer  Langzeitabstellung kann durch das Eindringen von Wasser in das Lagergehäuse Rost einen negativen  Effekt  auf  die  Reibungsverhältnisse  innerhalb  des  Lagers  entwickeln.  Die  Verwendung eines zugelassenen Schmiermittels war aus den Instandhaltungsunterlagen ersichtlich. 

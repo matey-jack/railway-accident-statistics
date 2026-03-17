@@ -4,7 +4,9 @@ Stand:
 06.05.2020  Version:  1.0 
 Gefährliches Ereignis im Eisenbahnbetrieb 
 
+
 Ereignisart: 
+
 Datum: 
 Zeit: 
 Bahnhof: 
@@ -48,6 +50,7 @@ Seite 2 von 32
 Untersuchungsbericht 
 Zugentgleisung, 05.01.2013, Recklinghausen Ost 
 Inhaltsverzeichnis: 
+
 
 Seite
 
@@ -101,6 +104,7 @@ Untersuchung der Infrastruktur .................................................
 
 
  1 
+
  1.1 
  1.2 
  1.3 
@@ -117,11 +121,11 @@ Untersuchung der Infrastruktur .................................................
  4.2 
  4.3 
 4.3.1 
-
 Untersuchung des Oberbaus............................................................................... 12
 
 
  4.4 
+
  4.5 
  4.6 
 Untersuchung der Leit- und Sicherungstechnik................................................... 26
@@ -144,6 +148,7 @@ Entgleiste Kesselwagen..........................................................
 
 
  5 
+
  6 
 Auswertung und Schlussfolgerungen ............................................................. 31
 
@@ -152,12 +157,6 @@ Bisher getroffene Maßnahmen ...................................................
 
 
 Seite 3 von 32 
- 
- 
- 
- 
- 
- 
 
 	
  
@@ -215,7 +214,6 @@ Seite 3 von 32
 
 Zugentgleisung, 05.01.2013, Recklinghausen Ost 
 Abbildungsverzeichnis: 
-
 Abbildung 1: Gleislagefehler am Brückenbauwerk Ovelgönnestraße ......................................8
 
 
@@ -269,54 +267,16 @@ Abbildung 17: entgleister Radsatz Fahrzeugnummer 37 80 797 8017-7 ..............
 
 Abbildung 18: ausgerissener Radsatz Fahrzeugnummer 37 87 7881 885-0 .........................31
 
+
 Seite 4 von 32 
- 
- 
- 
- 
- 
- 
- 
-	
- 
-	
- 
-	
- 
-	
- 
-	
- 
-	
- 
-	
- 
-	
- 
-	
- 
-	
- 
-	
- 
-	
- 
-	
- 
-	
- 
-	
- 
-	
- 
-	
- 
-	
+
 Untersuchungsbericht 
 Zugentgleisung, 05.01.2013, Recklinghausen Ost 
 Abkürzungsverzeichnis 
 
+
 AEG 
+
 BEU 
 Allgemeines Eisenbahngesetz 
 Bundesstelle für Eisenbahnunfalluntersuchung 
@@ -400,8 +360,10 @@ Seite 6 von 32
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung, 05.01.2013, Recklinghausen Ost 
 1.2  Ziel der Eisenbahn-Unfalluntersuchung 
 Ziel und Zweck der Untersuchungen ist es, die Ursachen von gefährlichen Ereignissen aufzuklären und hieraus Hinweise zur Verbesserung der Sicherheit abzuleiten. Untersuchungen 
@@ -428,8 +390,10 @@ Seite 7 von 32
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung, 05.01.2013, Recklinghausen Ost 
 2 
 Zusammenfassung 
@@ -451,23 +415,19 @@ Gleislage. Im Zusammenwirken mit einer weiteren Gleislagestörung, resultierend 
 der beiden Wagen. 
 Abbildung 1: Gleislagefehler am Brückenbauwerk Ovelgönnestraße 
 
+
 Seite 8 von 32 
- 
- 
- 
- 
- 
+
  
 Untersuchungsbericht 
+
 Zugentgleisung, 05.01.2013, Recklinghausen Ost 
 3 
 Ereignis 
 3.1 
 Hergang 
 Der Güterzug DGS 95748 des EVU HSL Logistik GmbH befand sich am  05.01.2013 auf der 
-
 Fahrt  von  Neuss  Gbf  nach  Bad  Schandau  Ost.  Seit  der  Abfahrt  in Neuss  Gbf  war  der  Zug 
-
 eine  Strecke  von  ca.  68  km  ohne  Auffälligkeiten  gefahren.  Während  der  Einfahrt  in  den 
 Bahnhof  Recklinghausen  Ost  entgleisten  gegen  16:32  Uhr,  bei  einer  Geschwindigkeit  von 
 ca. 55 km/h, zwei leere Kesselwagen, die sich in Fahrtrichtung an sechster und siebter  Stelle 
@@ -486,8 +446,10 @@ Seite 9 von 32
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung, 05.01.2013, Recklinghausen Ost 
 3.2 
 Todesopfer, Verletzte und Sachschäden 
@@ -516,9 +478,7 @@ Blick aus dem Seitenfenster sei ihm dann die Entgleisung aufgefallen. Er habe de
 sich einen Überblick von dem Ereignis zu verschaffen. 
 Aussage  örtlich  zuständiger  Fahrdienstleiter  (özF)  Nordstrecke  im  Elektronisches  Stellwerk 
 (ESTW) Oberhausen-Osterfeld 
-
 Der  özF  sagte  in  einer  schriftlichen  Stellungnahme  aus,  er  habe   die  Fahrstraße  für  Zug 
-
 DGS 95748 vom Esig 58B durch Gleis 2001 des Bf Recklinghausen Ost zum Asig 58N1 in 
 Richtung Datteln eingestellt. Nachdem der Zug die Weiche 58W201  befahren habe, sei eine 
 Auffahrmeldung angezeigt worden. Unmittelbar danach seien weitere Auffahrmeldungen an 
@@ -602,9 +562,7 @@ Inspektionsmessfahrt Gleislagefehler bei der Verwindung und in der gegenseitigen
 nach Auskunft DB Netz AG eine Sofortmeldung herausgegeben und eine Langsamfahrstelle 
 mit 20 km/h eingerichtet. Dies stellt einen Verstoß gegen die DB Richtlinie 821 dar, gemäß 
 der ein Gleis bei Überschreitung des Grenzwertes zu sperren ist. Noch am selben Tag wurden  Handstopfarbeiten  am  westlichen  Widerlager  durchgeführt  und  in  der  Folge  die  Langsamfahrstelle  wieder  aufgehoben.  Das  Ausmaß  und  das  Erscheinungsbild  der  vor  Ort  festgestellten Verschmutzung des Gleisbettes deuteten auf eine Herabsetzung der Tragfähigkeit 
-
 des  Untergrundes  hin.  Angesicht  dieser  Feststellung  ist  fraglich,  ob  Handstopfarbeiten  als 
-
 Instandsetzungsmaßnahme  zur  nachhaltigen  Beseitigung  der  festgestellten  Grenzwertüberschreitung geeignet waren. 
 Seite 13 von 32 
  
@@ -613,8 +571,10 @@ Seite 13 von 32
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung, 05.01.2013, Recklinghausen Ost 
 Die  Durchführung  von  weiteren  Korrekturmaßnahmen  auf  der  Brücke  konnte  nicht  nachgewiesen werden. Somit bleibt offen, ob die durchgeführte Instandsetzungsmaßnahme erfolgreich war und zulässige Gleislagewerte hergestellt werden konnten. 
 Abbildung 5: Messschrieb GMTZ vom 10.04.2012 
@@ -626,8 +586,10 @@ Seite 14 von 32
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung, 05.01.2013, Recklinghausen Ost 
 Abbildung 6: Überschreitungsprotokoll GMTZ vom 10.04.2012 
 Quelle: DB Netz AG 
@@ -637,19 +599,18 @@ Seite 15 von 32
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung, 05.01.2013, Recklinghausen Ost 
 Gemäß  Regelwerk  821.2001  Tabelle  2  „Beurteilungsmaßstäbe  für  Einzelfehler  der  Gleislage“  werden  für  die  Prüfgröße  GH  keine  SRlim  bzw.  Grenzwerte  für  Geschwindigkeiten 
 ≤ 80 km/h angegeben, was aber nicht heißt, dass es hier keine Grenzen gibt. 
 Tabelle 1: Auszug Beurteilungsmaßstäbe für Gleislagefehler 
 Brückenbauwerk Ovelgönnestraße am 05.01.2013 
 Das  konstruktive  Ingenieurbauwerk  Ovelgönnestraße  wurde  1922 errichtet und als dreigleisige  Eisenbahnüberführung  ausgeführt.  Das  Einzelbauwerk  besteht  aus  zwei  massiv  gemauerten Widerlagern auf denen die Längsträger aus Stahl aufliegen. Das Gleis wurde darauf  auf  Querträgern  aus  Holz  montiert.  Über  das  Brückenbauwerk  wird  die  Strecke  2250 
-
 zweigleisig  sowie  die  Strecke  2222  eingleisig  geführt.  Der  verunfallte  Zug  befuhr  das  in 
-
 Fahrtrichtung  rechte  Gleis.  Bei  der  Durchsicht  der  Inspektionsunterlagen  des  konstruktiven 
-
 Ingenieurbaues konnten keine Mängel erkannt werden. 
 Der Oberbau des Brückenbauwerks bestand aus S54 Schienen die mit Kleineisen und Rippenplatten  auf  den  Holzbrückenbalken  verschraubt  wurden.  Laut  Trassierungsplan  befand 
 sich das Brückenbauwerk in einem Gleisbogen mit einem Radius von r=1860 m. Eine Überhöhung war lt. Trassierungsplan nicht vorgesehen. 
@@ -662,8 +623,10 @@ Seite 16 von 32
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung, 05.01.2013, Recklinghausen Ost 
 Abbildung 7: Gleislagefehler westliches Brückenwiderlager 
 Entgleisungsbereich in km 4,750 am Ereignistag 05.01.2013 
@@ -680,8 +643,10 @@ Seite 17 von 32
  
  
  
+
   
 Untersuchungsbericht 
+
 Zugentgleisung, 05.01.2013, Recklinghausen Ost 
 Abbildung 8: Ausschnitt 2 Trassierungsplan Strecke 2222 
 Quelle: DB Netz AG 
@@ -701,8 +666,10 @@ Seite 18 von 32
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung, 05.01.2013, Recklinghausen Ost 
 Abbildung 9: Nachträglich eingebaute Zwischenlagen 
 Messfahrt vom 11.01.2013 
@@ -715,8 +682,10 @@ Seite 19 von 32
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung, 05.01.2013, Recklinghausen Ost 
 Abbildung 10: Messschrieb RAILab vom 11.01.2013 
 Quelle: DB Netz AG 
@@ -726,8 +695,10 @@ Seite 20 von 32
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung, 05.01.2013, Recklinghausen Ost 
 Abbildung 11: Überschreitungsprotokoll RAILab vom 11.01.2013 
 Quelle: DB Netz AG 
@@ -737,8 +708,10 @@ Seite 21 von 32
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung, 05.01.2013, Recklinghausen Ost 
 Konstruktion des Brückenbauwerks Ovelgönnestraße 
 Die  untenstehende  Abb.  12  zeigt die Konstruktion des Brückenbauwerks Ovelgönnestraße. 
@@ -771,35 +744,26 @@ Seite 23 von 32
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung, 05.01.2013, Recklinghausen Ost 
 Die vorher beschriebenen unzulässigen Maßnahmen zum Höhenausgleich der Schiene waren  auch  auf  dem  Brückenbauwerk  erkennbar.  Ein  Protokoll  der  durchgeführten  Arbeiten 
 wurde von der DB Netz AG nicht vorgelegt. 
 Weitere  Untersuchungen  zeigten,  dass  nach  der  Zugentgleisung  vom  05.01.2013  trotz 
 Gleissperrung auch Oberbauarbeiten auf dem Brückenbauwerk stattgefunden hatten. Um die 
 Gleislagemängel  aus  dem  falschen  Einbau  der  Brückenbalken  zu  beheben,  wurde  die  in 
-Fahrtrichtung rechte Schiene im Bereich der Schwellen 1-17 mit mehreren Einzelzwischen-
-
-lagen  unterfüttert,  wobei  der  Maximalwert  bei  40  mm  lag  (siehe  Abb.  14  und  Abb. 15). Die 
-
+Fahrtrichtung rechte Schiene im Bereich der Schwellen 1-17 mit mehreren Einzelzwischenlagen  unterfüttert,  wobei  der  Maximalwert  bei  40  mm  lag  (siehe  Abb.  14  und  Abb. 15). Die 
 Ausführung  dieser  Maßnahme  ist  nicht  als  qualifiziert  anzusehen.  Durch  die  Unterfütterung 
-
 der rechten Schiene mit Kunststoffzwischenlagen wurde versucht, das Gleis wieder in einen 
-nach  Regelwerk  befahrbaren  Zustand  zu  bringen,  was  sich  allerdings  nicht  erfolgreich  gestaltete. Die beschriebenen Maßnahmen lassen anhand der Messergebnisse darauf schließen, dass zum Zeitpunkt der Zugentgleisung eine unzulässige Überhöhung des linken Glei-
-
-ses  von  mind.  40  mm  vorlag.  Weiterhin  wurde  nun  bei  der  Trassierung  ein  Hochpunkt  mit 
-
+nach  Regelwerk  befahrbaren  Zustand  zu  bringen,  was  sich  allerdings  nicht  erfolgreich  gestaltete. Die beschriebenen Maßnahmen lassen anhand der Messergebnisse darauf schließen, dass zum Zeitpunkt der Zugentgleisung eine unzulässige Überhöhung des linken Gleises  von  mind.  40  mm  vorlag.  Weiterhin  wurde  nun  bei  der  Trassierung  ein  Hochpunkt  mit 
 Neigungswechsel festgestellt. 
 Abbildung 14: Unterfütterung der Brückenbalken 
 
+
 Seite 24 von 32 
- 
- 
- 
- 
- 
- 
+
 Untersuchungsbericht 
 Zugentgleisung, 05.01.2013, Recklinghausen Ost 
 Abbildung 15: Brückenschwellenaufmaß 
@@ -815,8 +779,10 @@ Seite 25 von 32
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung, 05.01.2013, Recklinghausen Ost 
 Dabei wurde folgender Ist-Zustand im Bereich des Brückenbauwerkes festgestellt: 
 Alle Angaben in Kilometrierungsrichtung. 
@@ -835,9 +801,7 @@ Anhand der Ermittlungen konnte schlüssig belegt werden, dass bereits seit Oktob
 qualitativ  schlechter  Oberbau  im  bezeichneten  Abschnitt  vorhanden  war.  Demgegenüber 
 steht  eine  Stellungnahme  des  Fachbeauftragten  Fahrbahn  vom  17.01.2013  mit  folgendem 
 Wortlaut: 
-
 „Bei  einer  Ortsbesichtigung  am  Unfallort,  die  am   07.01.2013  (…)  stattfand  konnten  visuell 
-
 keine  gravierenden  Oberbaumängel  festgestellt  werden.  Bei  einer  anschließend  durchgeführten Handmessung waren sowohl in der GH als auch in der Vw Abweichung von den Soll-
 Größen feststellbar. Eine Messwagenfahrt mit GMTZ die am 11.01.2013 stattfand, bestätigte 
 die  Ergebnisse  der  Handmessung.  Die  ersten  Entgleisungsspuren  liegen  etwa  15  m   hinter 
@@ -867,9 +831,7 @@ zur Fahrt von Neuss Gbf nach Bf Bad Schandau Ost. Die Zugfahrt wurde mit Fahrpla
 und  einem  beladenen  Kesselwagen.  Die  Wagen  der  Gattungen  Zaes,  Zacens  und  Zaces 
 sind für den Transport von Heizöl, UN-Nummer 1202, vorgesehenen. Die beiden entgleisten 
 Kesselwagen befanden sich an der sechsten und siebten Stelle im Zugverband. 
-
 Der  Zug  hatte  eine  Gesamtmasse  von  723  t,  eine  Länge  von  379  m  und  verfügte  über  98 
-
 Bremshundertstel gegenüber 54 im Fahrplan geforderten Mindesbremshundertstel. Der Zug 
 95748 lief in der Bremsstellung P. 
 Seite 27 von 32 
@@ -878,8 +840,10 @@ Seite 27 von 32
  
  
  
+
  
 Untersuchungsbericht 
+
 Zugentgleisung, 05.01.2013, Recklinghausen Ost 
 4.6.1  Triebfahrzeug des DGS 95748 
 Bei dem Triebfahrzeug des Zuges 95748 handelte es sich um ein Mehrsystemtriebfahrzeug 
@@ -918,23 +882,19 @@ Seite 28 von 32
 Zugentgleisung, 05.01.2013, Recklinghausen Ost 
 Abbildung 16: grafische Darstellung der EFR 
 
+
 Seite 29 von 32 
- 
- 
- 
- 
- 
+
  
 Untersuchungsbericht 
+
 Zugentgleisung, 05.01.2013, Recklinghausen Ost 
 4.6.2 
 Entgleiste Kesselwagen 
 Bei  den  verunfallten  Kesselwagen  handelte  es  sich  um  Gattung  Zaes.  Die  Wagen  mit  den 
 Fahrzeugnummern 37 80 797 8017-7, Halter VTG und 33 87 7881 885-0, Halter ERMEWA 
 befanden sich an sechster und siebter Stelle im Zug. Während der sechste Wagen lediglich 
-
 mit  dem  in  Fahrtrichtung  hinteren  Drehgestell  entgleiste,  entgleiste  der  siebte  Wagen  mit 
-
 beiden Drehgestellen. Der nachlaufende Radsatz des vorderen Drehgestells wurde aus seiner Verankerung gerissen. Die Wagen waren zum Zeitpunkt der Entgleisung nicht beladen. 
 Bei den Untersuchungen vor Ort, sowie der Durchsicht der durch die Fahrzeughalter vorgelegten Instandhaltungsunterlagen, konnten keine Rückschlüsse auf Unregelmäßigkeiten, die 
 im Zusammenhang mit der Zugentgleisung in Zusammenhang standen, ermittelt werden. Die 
@@ -943,15 +903,12 @@ Zugentgleisung zu bewerten. Das beauftragte Ingenieurbüro Bräunert konnte eben
 Anhaltspunkte für eine ursächliche Beteiligung der Kesselwagen erkennen.  
 Abbildung 17: entgleister Radsatz Fahrzeugnummer 37 80 797 8017-7 
 
+
 Seite 30 von 32 
- 
- 
- 
- 
- 
- 
+
  
 Untersuchungsbericht 
+
 Zugentgleisung, 05.01.2013, Recklinghausen Ost 
 Abbildung 18: ausgerissener Radsatz Fahrzeugnummer 37 87 7881 885-0 
 5 
@@ -992,5 +949,6 @@ Seite 32 von 32
  
  
  
+
  
 

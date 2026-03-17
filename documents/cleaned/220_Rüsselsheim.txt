@@ -18,6 +18,7 @@ Gleis:
 Weiche: 
 1 / 27 
 W 74 
+
 	
  
  
@@ -34,13 +35,16 @@ W 74
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 23.02.2022, Bf Rüsselsheim 
 Veröffentlicht durch: 
 Bundesstelle für Eisenbahnunfalluntersuchung 
 Heinemannstraße 6 
 53175 Bonn 
+
  
 Untersuchungsbericht 
+
 Zugentgleisung, 23.02.2022, Bf Rüsselsheim 
 Inhaltsverzeichnis	
 I.
@@ -55,68 +59,38 @@ IV.
 1.4 
 2 
 3 
-
 Änderungsverzeichnis: .......................................................................................... II 
-
 Abbildungsverzeichnis: ........................................................................................ III 
-
 Tabellenverzeichnis: ............................................................................................ III 
-
 Abkürzungsverzeichnis: ....................................................................................... IV 
-
 Vorbemerkung ...................................................................................................... 1 
-
 Zusammenfassung ................................................................................................ 2 
-
 Kurzbeschreibung des Ereignisses ........................................................................... 2 
-
 Folgen ...................................................................................................................... 2 
-
 Ursachen .................................................................................................................. 2 
-
 Sicherheitsempfehlungen ....................................................................................... 2 
-
 Die Untersuchung und ihr Kontext ........................................................................ 3 
-
 Beschreibung des Ereignisses ................................................................................ 5 
-
 3.1 
 Informationen über das Ereignis und seine Hintergründe ..................................... 5 
 3.1.1 
-
 Lage und Beschreibung des Ereignisortes ............................................................... 5 
-
 3.1.2 
-
 Beteiligte.................................................................................................................. 7 
-
 3.1.3 
-
 Äußere Bedingungen ............................................................................................... 7 
-
 3.1.4 
-
 Todesopfer, Verletzte und Sachschäden ................................................................. 8 
-
 3.2 
-
 Sachliche Beschreibung der Vorkommnisse ........................................................... 9 
-
 3.2.1 
-
 Hergangsbeschreibung ............................................................................................ 9 
-
 3.2.2 
-
 Notfallmanagement .............................................................................................. 10 
-
 4 
 4.1 
-
 Auswertung des Ereignisses ................................................................................ 12 
-
 Aufgaben und Pflichten ......................................................................................... 12 
-
 4.1.1 
 Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers ................. 12 
 I 
@@ -125,54 +99,33 @@ Zugentgleisung, 23.02.2022, Bf Rüsselsheim
 4.1.2 
 Untersuchung der betrieblichen Abläufe der EVU ................................................ 18 
 4.2 
-
 Fahrzeuge und technische Einrichtungen ............................................................. 20 
-
 4.2.1 
-
 Untersuchung von Fahrzeugen ............................................................................. 20 
-
 4.2.2 
 Untersuchung der bautechnischen Infrastruktur ................................................. 21 
 4.2.3 
-
 Untersuchung der Leit- und Sicherungstechnik .................................................... 22 
-
 4.3 
-
 Menschliche Faktoren ........................................................................................... 26 
-
 4.3.1 
-
 Beteiligte des Infrastrukturbetreibers ................................................................... 26 
-
 4.3.2 
-
 Beteiligte der EVU ................................................................................................. 28 
-
 4.4 
 4.5 
 5 
 5.1 
 5.2 
 5.3 
-
 Feedback- und Kontrollmechanismen .................................................................. 28 
-
 Frühere Ereignisse ähnlicher Art ........................................................................... 30 
-
 Schlussfolgerungen. ............................................................................................ 32 
-
 Zusammenfassung und Schlussfolgerung ............................................................. 32 
-
 Seit dem Ereignis getroffene Maßnahmen ........................................................... 36 
-
 Zusätzliche Bemerkungen ..................................................................................... 37 
-
 6 
-
 Sicherheitsempfehlungen ................................................................................... 37 
-
 I.
 Änderungsverzeichnis:
 Änderung 
@@ -181,44 +134,30 @@ II
 Untersuchungsbericht 
 Zugentgleisung, 23.02.2022, Bf Rüsselsheim 
 II.  Abbildungsverzeichnis:	
-
 Abbildung 1: Lageplan ................................................................................................................ 6 
-
 Abbildung 2: Gleislageskizze ...................................................................................................... 7 
-
 Abbildung 3: Entgleiste S 35968 ................................................................................................. 9 
-
 Abbildung 4: Fahrstraßensignalhebel Hebelbank Fdl .............................................................. 16 
-
 Abbildung 5: Blick vom Stw Rf .................................................................................................. 17 
-
 Abbildung 6: grafische EFR Auswertung .................................................................................. 20 
-
 Abbildung 7: Fahrzeugaufbau ET 430 ...................................................................................... 21 
-
 Abbildung 8: Meldetafel Stw Rf ............................................................................................... 23 
-
 III.  Tabellenverzeichnis:	
-
 Tabelle 1: Übersicht der äußeren Bedingungen ........................................................................ 8 
-
 Tabelle 2: Übersicht der Personenschäden ............................................................................... 8 
-
 Tabelle 3: Übersicht der geschätzten Schadenshöhe ................................................................ 8 
-
 Tabelle 4: Technische Daten .................................................................................................... 21 
-
 Tabelle 5: offene Einträge Nachweis der vorübergehenden Änderungen .............................. 24 
-
 Tabelle 6: Zusammenstellung der Einflussfaktoren ................................................................. 33 
-
 III 
+
  
  
  
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 23.02.2022, Bf Rüsselsheim 
 IV.  Abkürzungsverzeichnis:	
 AEG 
@@ -277,9 +216,11 @@ Technische Spezifikation für die Interoperabilität Teilsystem
 „Verkehrsbetrieb und Verkehrssteuerung“ 
 
 IV 
+
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 23.02.2022, Bf Rüsselsheim 
 W 
 Ww 
@@ -290,15 +231,15 @@ Weichenwärter
 Zugnummernmeldeanlage 
 Zwischensignal 
 V 
+
  
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 23.02.2022, Bf Rüsselsheim 
 0  Vorbemerkung	
-
 Auf der Grundlage des Artikel 24 der Richtlinie (EU) 2016/798 hat die europäische Kommission 
-
 mit 
 der 
 Inkraftsetzung 
@@ -309,16 +250,16 @@ die
 Untersuchungsberichtsstruktur festgelegt. Diese Vorgaben sind grundsätzlich einzuhalten. Die 
 Berichtsstruktur muss der Art und Schwere des gefährlichen Ereignisses angepasst sein. 
 Mit  Verkündung  der  Verordnung  und  Inkraftsetzung  am  zwanzigsten  Tag  nach  der 
-
 Veröffentlichung  im  Amtsblatt  der  Europäischen  Union  (EU)  ist  diese  verbindlich  und 
-
 unmittelbar auf alle ab dem 17.05.2020 eingeleiteten Untersuchungen anzuwenden. 
 Seite 1 von 37 
+
  
  
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 23.02.2022, Bf Rüsselsheim 
 1  Zusammenfassung	
 Das erste Kapitel enthält eine Kurzbeschreibung des Ereignisses sowie Informationen zu den 
@@ -332,17 +273,11 @@ Durch  die  Entgleisung  wurden  fünf  Reisende  leicht  verletzt.  Sowohl  an 
 Elektrotriebwagen (ET) als auch an den Anlagen der Infrastruktur entstanden Sachschäden in 
 Höhe von ca. 4,3 Mio Euro.  
 1.3  Ursachen	
-
 Als  ein  ursächlicher  Faktor  wurde  eine  vorzeitige  Fahrstraßenauflösung  in  Verbindung  mit 
-
 einer unzeitigen Weichenbedienung durch den Fahrdienstleiter (Fdl) identifiziert. Ein weiterer 
-
 ursächlicher Faktor war eine vorausgegangene Störung der Gleisfreimeldeanlage im Gleis 27, 
-
 die  eine  Fahrt  der  S 35968  mit  besonderem  Auftrag  erforderlich  machte.  Als  beitragende 
-
 Faktoren  wurden  eine  starke  Belastungssituation  des  Fdl  durch  umfangreiche  Bauarbeiten 
-
 und eine technisch nicht eingerichtete Hebelsperre an der betroffenen W 74 identifiziert. Die 
 nicht vorhandene Hebelsperre sowie eine unzureichende Personalausstattung im Bereich der 
 Aufsichtsführung werden als systemische Faktoren angesehen.  
@@ -353,11 +288,13 @@ Es wird empfohlen, zur Reduzierung der in Verordnung (EU) 2018/762 Anhang II Pun
 genannten  Risiken  aus  menschlichen  Fehlhandlungen  in  elektromechanischen  Stellwerken 
 mindestens die Weichen in Hauptgleisen mit einer Weichenhebelsperre auszurüsten. 
 Seite 2 von 37 
+
  
  
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 23.02.2022, Bf Rüsselsheim 
 2  Die	Untersuchung	und	ihr	Kontext	
 Die  Bundesstelle  für  Eisenbahnunfalluntersuchung  (BEU)  ist  für  die  Untersuchung  von 
@@ -373,9 +310,7 @@ Allgemeines Eisenbahngesetz (AEG) zuständig.
 Ziel  und  Zweck  der  eingeleiteten  Untersuchungen  ist  es,  die  Ursachen  des  gefährlichen 
 Ereignisses  aufzuklären  und  hieraus  Hinweise  zur  Verbesserung  der  Sicherheit  abzuleiten. 
 Untersuchungen der BEU dienen nicht dazu, ein Verschulden festzustellen oder Fragen der 
-
 Haftung oder sonstiger zivilrechtlicher Ansprüche zu klären und werden unabhängig von jeder 
-
 gerichtlichen Untersuchung durchgeführt. 
 Sicherheitsempfehlungen  der  BEU  zur  Vermeidung  von  gefährlichen  Ereignissen  und 
 Verbesserung der Eisenbahnsicherheit werden an die nationale Sicherheitsbehörde, sofern es 
@@ -389,13 +324,9 @@ fünf
 Schwerverletzten oder mit beträchtlichem Schaden (≥ 2 Mio. Euro) sowie sonstige Unfälle mit 
 den  gleichen  Folgen  und  mit  offensichtlichen  Auswirkungen  auf  die  Regelung  der 
 Eisenbahnsicherheit  oder  das  Sicherheitsmanagementsystem  (SMS)  zu  verstehen.  Bei  allen 
-
 sonstigen  gefährlichen  Ereignissen  im  Eisenbahnbetrieb  liegt  es  im  Ermessen  der  BEU 
-
 Untersuchungen einzuleiten. Bei der Entscheidung werden neben den zum Ereigniszeitpunkt 
-
 verfügbaren  Ressourcen  weitere  Kriterien  gem.  Artikel  20  Abs. 2  Richtlinie (EU)  2016/798 
-
 herangezogen. 
 Bei  dem  vorliegenden  gefährlichen  Ereignis  wurden  Untersuchungen  auf  Grundlage  des 
 Artikels 20 Abs. 2 Richtlinie (EU) 2016/798 eingeleitet. 
@@ -406,9 +337,11 @@ des  Untersuchungsberichtes
 abgeschlossen  werden. 
 Zur 
 Seite 3 von 37 
+
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 23.02.2022, Bf Rüsselsheim 
 Ursachenermittlung werden ergebnisoffene Untersuchungen im Ausschlussverfahren in allen 
 beteiligten  Fachdisziplinen  angestellt  und  hierbei  insbesondere  Fehler-Ursachen-Analysen 
@@ -427,39 +360,33 @@ Neben den beteiligten Unternehmen wirkte an der Untersuchung die Bundespolizeiin
 Frankfurt (Main) als Ermittlungsbehörde der Strafverfolgung mit. 
 Die Durchführung der Unfalluntersuchung setzt voraus, dass alle an dem gefährlichen Ereignis 
 Beteiligten  den  jeweiligen  Meldeverpflichtungen  gem.  § 2  Abs. 3  EUV  nachkommen  und 
-
 gefährliche  Ereignisse  ordnungsgemäß  melden  sowie  die  Informationen  auf  dem  neuesten 
-
 Stand  halten.  Auf  Grundlage  des  § 5a  AEG  werden 
 i. d. R.  weitergehende  zur 
 Untersuchungsdurchführung  erforderliche 
 Informationen,  Auskünfte  und  Nachweise 
-
 abgefordert.  Diese  notwendigen  Zuarbeiten  konnten  mittels  Auskunftsersuchen  gewonnen 
-
 werden. 
 Darüber hinaus können nach § 5b Abs. 4 AEG von den an gefährlichen Ereignissen beteiligten 
 Eisenbahnen  Unterstützungsleistungen  eingefordert  werden.  Bei  dem  vorliegenden 
 gefährlichen Ereignis wurden keine Unterstützungsleistungen eingefordert. 
 Die infrastrukturseitige Freigabe der Unfallstelle erfolgte durch die BEU am 24.02.2022. 
 Seite 4 von 37 
+
  
  
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 23.02.2022, Bf Rüsselsheim 
 3  Beschreibung	des	Ereignisses	
-
 Im  dritten  Kapitel  wird  das  gefährliche  Ereignis  in  zwei  vorgegebenen  Unterkapiteln  näher 
-
 beschrieben.  In  Kapitel  3.1  sind  neben  den  Grunddaten  weitere  Informationen  zum 
 Ereignisort,  den  äußeren  Bedingungen,  den  Folgen  und  den  Beteiligten  enthalten.  Die 
 Ereignisrekonstruktion  sowie 
 Informationen  zur  Auslösung  und  dem  Ablauf  der 
-
 Rettungsmaßnahmen  sind  im  Kapitel  3.2  dargestellt.  Die  Beschreibungen  beziehen  sich 
-
 grundsätzlich  auf  die 
 zum  Ereigniszeitpunkt  vorherrschenden  Bedingungen  und 
 vorgefundenen Sachverhalte. 
@@ -474,49 +401,42 @@ Der Ereignisort befand sich im Bf Rüsselsheim auf der Strecke von Mainz Hbf nac
 am Main Hbf. Die Strecke wurde im Verzeichnis der örtlich zulässigen Geschwindigkeiten unter 
 der Streckennummer 3520 geführt. Hierbei handelte es sich um eine zweigleisige Hauptbahn, 
 welche mit punktförmiger Zugbeeinflussung (PZB) als Zugsicherungssystem und dem digitalen 
-
 Zugfunk  Global  System  for  Mobile  Communications  –  Rail  (GSM-R)  ausgerüstet  war.  Der 
-
 Bremswegabstand  betrug  1.000 m  bei  einer  zulässigen  Streckenhöchstgeschwindigkeit  von 
 160 km/h.  Die  benachbarten  Betriebsstellen  waren  die  Bahnhöfe  Mainz-Bischofsheim  und 
 Raunheim. 
 Die nachfolgende Abbildung zeigt die verkehrsgeographische Lage des Bf Rüsselsheim und der 
 Ereignisstelle mit dem Laufweg der S 35968. 
 Seite 5 von 37 
+
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 23.02.2022, Bf Rüsselsheim 
 Abbildung 1: Lageplan1 
 Der Bf Rüsselsheim war in die Bahnhofsteile (Bft) Stadtbahnhof und Opelwerk unterteilt. Im 
-
 Bft Stadtbahnhof befand sich das Stellwerk (Stw) Rf mit dem Fdl. Im Bft Opelwerk befand sich 
-
 das Wärterstellwerk Rw mit dem Weichenwärter (Ww) und zudem der Gleisanschluss zur Fa. 
 Adam Opel AG Rüsselsheim. Bei beiden Stw handelte es sich um elektromechanische Stw der 
-
 Bauart  E 43  mit  Farbscheibenüberwachung.  Bis  auf  einzelne  Gleisabschnitte  waren  alle 
-
 Hauptgleise  und  die  Mehrzahl  der  Weichen  des  Bf  Rüsselsheim  mit  einer  selbsttätigen 
-
 Gleisfreimeldeanlage  ausgerüstet.  Weiterhin  war  im  Stw  Rf  eine  Zugnummernmeldeanlage 
-
 (ZNL) der Bauform ZNL 800 vorhanden. Sowohl im Bft Stadtbahnhof als auch im Bft Opelwerk 
-
 waren jeweils zwei Bahnsteige vorhanden. 
 Die nachfolgende Abbildung zeigt eine Gleislageskizze mit dem für das Ereignis relevanten Teil 
-
 des Bf Rüsselsheim. Grün dargestellt ist der beabsichtigte Fahrweg der Zugfahrt S 35968, rot 
-
 gestrichelt  der  Laufweg  des  entgleisten  letzten  Wagenteils  und  blau  gestrichelt  der 
 beabsichtigte Fahrweg der Rangierfahrt.  
 1 Quelle: Geobasisdaten: © GeoBasis-DE / BKG [2022], bearbeitet durch BEU 
 Seite 6 von 37 
+
  
  
  
                                                        
 Untersuchungsbericht 
+
 Zugentgleisung, 23.02.2022, Bf Rüsselsheim 
 Abbildung 2: Gleislageskizze2 
 3.1.2  Beteiligte	
@@ -542,12 +462,14 @@ stark bewölkt
 Nein 
 2 Quelle: DB Netz AG, bearbeitet durch BEU 
 Seite 7 von 37 
+
  
  
  
  
                                                        
 Untersuchungsbericht 
+
 Zugentgleisung, 23.02.2022, Bf Rüsselsheim 
 Niederschlagshäufigkeit 
 -- 
@@ -560,8 +482,10 @@ Anzahl Tote
 Anzahl schwer Verletzte  Anzahl leicht Verletzte 
 Reisende 
 Mitarbeiter 
+
 Benutzer von 
 Bahnübergängen 
+
 Dritte 
 Summe 
 - 
@@ -598,10 +522,9 @@ Sachschaden.  In  Folge  der  Entgleisung  wurden  der  Oberbau  und  Anlagen  d
 Sicherungstechnik (LST) auf einer Länge von ca. 125 m zerstört. Der Bf Rüsselsheim konnte bis 
 zum Abschluss der Instandsetzungsarbeiten am 22.03.2022 nicht von Zugfahrten durchfahren 
 werden. 
-
 Die nachfolgende Abbildung zeigt den entgleisten hinteren Zugteil der S 35968 nach Stillstand. 
-
 Seite 8 von 37 
+
  
  
  
@@ -612,6 +535,7 @@ Seite 8 von 37
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 23.02.2022, Bf Rüsselsheim 
 Abbildung 3: Entgleiste S 359683 
 3.2  Sachliche	Beschreibung	der	Vorkommnisse	
@@ -622,38 +546,31 @@ Notfallmaßnahmen werden insbesondere auch die in Kapitel 4 enthaltenen Aufzeich
 Auswertungen und Feststellungen etc. herangezogen. 
 3.2.1  Hergangsbeschreibung	
 Am  Ereignistag  fanden  umfangreiche  Bauarbeiten  im  Bf  Rüsselsheim  statt,  die  neben 
-
 vermehrten  Rangierfahrten  eine  zusätzliche  dispositive  und  betriebliche  Kommunikation 
-
 zwischen  dem  Fdl  im  Stw  Rf,  dem  Ww  im  Stw  Rw,  dem  Technisch  Berechtigten  (TB)  der 
-
 Baustelle  und  dem  Flankenschutzposten  erforderte.  Ab  18:22 Uhr  war  zudem  die 
 Gleisfreimeldeanlage des Gleises 27 gestört, so dass u. a. die Zugfahrten von Rüsselsheim in 
 Richtung Mainz-Bischofsheim mit besonderem Auftrag durchgeführt werden mussten.  
 3 Quelle: DB Netz AG, bearbeitet durch BEU 
 Seite 9 von 37 
+
  
  
  
                                                        
 Untersuchungsbericht 
+
 Zugentgleisung, 23.02.2022, Bf Rüsselsheim 
 Um 21:35 Uhr erreichte die S 35968 den Bft Rüsselsheim-Stadtbahnhof mit einer Verspätung 
-
 von ca. 28 Minuten. Zeitgleich bat der TB von Seiten der Baustelle um die Zustimmung für eine 
-
 Rangierfahrt von Gleis 23 über Gleis 3 nach Gleis 30. Der Fdl ließ die Rangierfahrt zunächst 
 warten,  um  die  aktuell  fahrende  S 29531  in  Richtung  Gleis 3  und  weiter  nach  Raunheim 
 verkehren zu lassen. Für die dann durchzuführende Zugfahrt S 35968 beauftragte der Fdl um 
 21:36 Uhr aufgrund der Störung der Gleisfreimeldeanlage des Gleises 27 den Ww zur Abgabe 
 einer  Fahrwegsicherungsmeldung  für  dessen  Stellbereich  und  Fahrwegprüfbezirk.  Ab 
-
 21:37 Uhr  diktierte  der  Fdl  einen  Befehl  an  den  Triebfahrzeugführer  (Tf)  der  S 35968  zur 
-
 Vorbeifahrt am Zwischensignal (Zsig) T1 und zum Fahren auf Sicht bis zum Ausfahrsignal (Asig) 
-
 P27. Der Befehl wurde mit 21:41 Uhr als gültig gezeichnet, woraufhin S 35968 um 21:42 Uhr 
-
 vom Bahnsteig am Gleis 1 langsam mit ca. 9 km/h am Halt zeigenden Zsig T1 vorbei in Richtung 
 Gleis 27 fuhr. Um 21:42 Uhr erteilte der Fdl der im Gleis 23 wartenden Rangierfahrt zunächst 
 die Erlaubnis zur Fahrt bis nach Gleis 3 im Stadtbahnhof, um von dort nach Richtungswechsel 
@@ -669,48 +586,41 @@ Nach  § 4  Abs. 3  AEG  haben  die  Eisenbahnen  die  Verpflichtung,  an  Maßn
 Brandschutzes  und  der  technischen  Hilfeleistung  mitzuwirken.  Die  Innenministerien  der 
 Länder und die DB AG haben sich auf folgende Verfahrensweise verständigt. Für die DB Netz 
 AG  gelten  die  entsprechenden  Brand-  und  Katastrophenschutzgesetze  der  Länder.  Das 
-
 Notfallmanagement  der  DB  AG  ist  in  der  Konzernrichtlinie 123,  das  der  DB  Netz  AG  in  der 
-
 Richtlinie (Ril) 423 näher beschrieben und geregelt. 
-
 Das Ereignis wurde um 21:48 Uhr durch den Fdl Rüsselsheim an die zuständige Notfallleitstelle 
-
 (NFLS)  Frankfurt  am  Main  gemeldet.  Die  NFLS  informierte  daraufhin  um  21:50 Uhr  den 
-
 Notfallmanager.  Um  21:52 Uhr  teilte  der  Fdl  Rüsselsheim  der  NFLS  ergänzend  mit,  dass  es 
-
 Verletzte geben könnte. Um 21:54 Uhr wurde von der NFLS die zuständige Rettungsleitstelle 
 informiert, die die Rettungskette aufrief.  
 Seite 10 von 37 
+
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 23.02.2022, Bf Rüsselsheim 
 Unregelmäßigkeiten oder Verzögerungen in Bezug auf das Einleiten von Rettungsmaßnahmen 
 wurden der BEU im Rahmen der Unfalluntersuchung nicht bekannt. 
 Seite 11 von 37 
+
  
  
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 23.02.2022, Bf Rüsselsheim 
 4  Auswertung	des	Ereignisses	
 In diesem Kapitel werden insbesondere die im Rahmen der Unfalluntersuchung ermittelten 
-
 maßgeblichen sicherheitskritischen Faktoren dargestellt. Hierbei wird im jeweiligen Einzelfall 
-
 auf die Aufgaben und Pflichten einzelner Personen und Stellen, auf beteiligte Fahrzeuge und 
 technische Einrichtungen genauso eingegangen, wie auf konkrete menschliche Handlungen 
 sowie auf Feedback- und Kontrollmechanismen. Sofern Informationen zu früheren Ereignissen 
 vorliegen, werden diese in einem weiteren Unterkapitel dargestellt. 
 4.1  Aufgaben	und	Pflichten	
-
 In diesem Kapitel werden unbeschadet des Artikels 20 Abs. 4 der Richtlinie (EU) 2016/798 die 
-
 Aufgaben  und  Pflichten  von  Personen  und  Stellen  behandelt,  die  an  dem  Ereignis  beteiligt 
-
 waren. Untersuchungen zu Schuld- oder Haftungsfragen sind explizit ausgeschlossen und nicht 
 Untersuchungsgegenstand. 
 4.1.1  Untersuchung	der	betrieblichen	Abläufe	des	Infrastrukturbetreibers	
@@ -735,14 +645,14 @@ Interoperabilität  des  Teilsystems
 „Verkehrsbetrieb  und  Verkehrssteuerung“  des 
 Eisenbahnsystems in der Europäischen Union (TSI OPE) umzusetzen. Einer der im Kontext des 
 Seite 12 von 37 
+
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 23.02.2022, Bf Rüsselsheim 
 Ereignisses wesentlichen Grundsätze gemäß TSI OPE Anlage B Kapitel B.1 Nr. 5 lautete: „Ein 
-
 Zug  muss  am  Befahren  eines  Streckenabschnitts  gehindert  werden,  wenn  bekannt  ist  oder 
-
 vermutet wird, dass das Befahren nicht sicher wäre, bis Maßnahmen getroffen worden sind, 
 die eine sichere Fortsetzung der Zugfahrt ermöglichen“.  
 Zur sicheren Durchführung der Fahrten auf der Infrastruktur der DB Netz AG hatte der Fdl im 
@@ -750,9 +660,7 @@ Bf Rüsselsheim als Bediener des Stw untersetzende, unternehmensinterne Arbeitsv
 zu beachten und umzusetzen, unter anderem die Fahrdienstvorschrift Ril 408.  
 Betriebssituation 
 Am Ereignistag war die Betriebs- und Bauanweisung (Betra) Nr. F 545076 22 im Bf Rüsselsheim 
-
 in Kraft. Diese wurde für Gleiserneuerungen im Bft Rüsselsheim-Opelwerk inklusive der Vor- 
-
 und  Nacharbeiten  aufgelegt  und  galt  vom  13.02.2022  bis  zum  15.03.2022.  Im  Rahmen  der 
 Betra waren für die Durchführung der Bauarbeiten mehrere Gleissperrungen in bestimmten 
 Zeiträumen  vorgesehen,  wodurch  die  Nutzung  verschiedener  Gleise  nicht  möglich  war. 
@@ -760,53 +668,37 @@ Zugfahrten  mussten  teilweise  abweichend  vom  Fahrplan  für  Zugmeldestellen
 werden.  Für  bestimmte  Fahrstraßen  war  die  Freimeldung  eines  Flankenschutzpostens 
 erforderlich.  
 Die Zugfahrt S 35968 sollte nach ihrem Halt am Bahnsteig im Bft Rüsselsheim-Stadtbahnhof 
-
 von  Gleis 1  vorbei  am  Zsig  T1  nach  Gleis 27  zum  Bahnsteig 1  im  Bft  Rüsselsheim-Opelwerk 
-
 fahren. Die im Fahrweg liegende W 74 wurde dabei im geraden Strang (Linkslage) befahren. 
-
 Zudem  sollte  im  Ereigniszeitraum  ein  Arbeitszug  als  Rangierfahrt  von  Gleis 23  über  Gleis 3 
-
 nach Gleis 30 umsetzen. 
 Störungen, Besonderheiten 
-
 Gemäß Eintrag im Arbeits- und Störungsbuch im Stw Rf war seit 18:22 Uhr die selbsttätige 
-
 Gleisfreimeldeanlage des Gleises 27 gestört und zeigte eine dauerhafte Besetztanzeige durch 
 Rotausleuchtung. Ab 19:47 Uhr befasste sich ein Mitarbeiter der LST mit der Störungssuche. 
-
 Aufgrund  dieser  Störung  der  Gleisfreimeldeanlage  des  Gleises 27  war  es  für  den  Fdl  nicht 
-
 möglich, Zugfahrten durch Fahrtstellung des Zsig T1 in das Gleis 27 einfahren zu lassen. Der 
-
 entsprechende  Fahrstraßensignalhebel  T1_2_7  konnte  technisch  bedingt  nicht  festgelegt 
-
 sondern nur bis in die 30°-Stellung (Hilfsstellung) umgelegt werden.  
 Seite 13 von 37 
+
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 23.02.2022, Bf Rüsselsheim 
 Gemäß Eintrag im Nachweis der vorübergehenden Änderungen vom 23.02.2022 durften im 
 Stw Rf keine Zusatzsignale, d. h., auch das Ersatzsignal am Zsig T1 nicht bedient werden. Den 
-
 Zugfahrten war daher ein schriftlicher Befehl als besonderer Auftrag zur Vorbeifahrt am Halt 
-
 zeigenden Zsig T1 zu erteilen.  
-Fahrwegprüfung, ‐sicherung und Durchführung der Zugfahrt 
+Fahrwegprüfung, -sicherung und Durchführung der Zugfahrt 
 Der  für  das  Ereignis  relevante  Teil  des  Fahrwegs  für  die  Zugfahrt  S 35968  sowie  die 
-
 Entgleisungsstelle  auf  der  W 74  befanden  sich  im  Stellbereich  des  Stw  Rf  bzw.  in  dessen 
-
 Fahrwegprüfbezirk.  
 Nach  Ril  408.0625  Abschn. 1  Abs. 1  war  für  die  Dauer  der  Störung  für  Gleis  27  eine 
-
 Abschnittsprüfung erforderlich. Am Fahrstraßensignalhebel T1_2_7 war ein Merkhinweis „AP“ 
-
 nach  Ril  408.0402  Nr.  11  anzubringen.  Entsprechend  Ril  408.0231  war  vor  Zulassung  einer 
-
 Zugfahrt  die  richtige  Stellung  der  Fahrwegelemente  zu  prüfen  sowie  der  Fahrweg,  der 
-
 Durchrutschweg,  die  einmündenden  Gleisabschnitte  bis  zum  Grenzzeichen  und  der 
 Flankenschutzraum  auf  das  Freisein  von  Fahrzeugen  durch  Hinsehen  zu  prüfen.  Nach  Ril 
 408.0232 Abschn. 3 war der Fahrweg zu sichern.  
@@ -817,30 +709,23 @@ galt auch für die 30°-Stellung des Fahrstraßensignalhebels. In dieser Stellun
 alle  notwendigen  Weichen  und 
 Flankenschutzeinrichtungen  mechanisch 
 gegen 
-
 unbeabsichtigtes Umstellen gesichert (Ril 408.0232 Abschn. 3). Da der Fahrstraßensignalhebel 
-
 in der 30°-Stellung nicht festgelegt werden konnte, musste an diesem eine Hilfssperre nach 
-
 Ril  408.0403  Abschn.  1  Nr.  5  angebracht  werden,  um  ein  unbeabsichtigtes  oder  unzeitiges 
-
 Rückstellen zu verhindern. 
-
 Da das Gleis 27 nicht ausschließlich im Fahrwegprüfbezirk des Fdl, sondern auch im Prüfbezirk 
-
 des  Ww  lag,  musste  der  Ww  die  Feststellungen  nach  Ril  408.0231  ff  für  seinen  Prüfbezirk 
-
 ebenfalls treffen und dies dem Fdl über eine Fahrwegsicherungsmeldung nach Ril 408.0233 
 Abschn. 3 Abs. 3 melden. Diese Fahrwegsicherungsmeldung des Ww ging um 21:37 Uhr ein 
 und war im Meldebuch für Sicherungsmeldungen beim Fdl dokumentiert. 
 Die Vorbeifahrt am Zsig T1 erfolgte mit Befehl. Dieser wurde dem Tf vom Fdl über Zugfunk 
-
 übermittelt,  war  ordnungsgemäß  ausgestellt  und  mit  21:41 Uhr  als  gültig  gezeichnet.  Der 
-
 Seite 14 von 37 
+
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 23.02.2022, Bf Rüsselsheim 
 Befehl 2 erlaubte zum einen die Vorbeifahrt am Halt zeigenden Zsig T1. Zum anderen war mit 
 Befehl 12 das Fahren auf Sicht bis zum Asig P27 angeordnet.  
@@ -852,9 +737,7 @@ Entsprechend Ril 408.0131 Abschn. 2 musste der Bediener generell vor dem Umstell
 Weiche feststellen, dass die Weiche nicht mit Fahrzeugen besetzt war.  
 Das zum Unfallereignis auf dem Stw Rf aufliegende Betriebsstellenbuch des Bf Rüsselsheim 
 mit dem Aktualisierungsstand „Bekanntgabe 2 vom 30.11.2016“ enthielt bezüglich der durch 
-
 Hinsehen  zu  prüfenden  Abschnitten  bzw.  der  selbsttätigen  Gleisfreimeldeanlage 
-
 widersprüchliche Angaben:  
   Zu Fundstelle 408.0231 Abschn. 3 Abs. 1a wurden Abschnitte genannt, die nicht in die 
 Gleisfreimeldeanlage einbezogen waren. Hier war Fahrwegprüfung durch Hinsehen 
@@ -868,28 +751,24 @@ Lageplan waren alle Weichen, also auch die W 74, des Fahrwegprüfbezirks Rf (au�
 Bahnhofskopf Richtung Raunheim) sowie die Gleise 30 und 31 farbig markiert, 
 unabhängig davon, ob diese mit Gleisfreimeldeanlage ausgerüstet waren. Ein Teil der 
 genannten Weichen waren zudem vom Stw Rf aus nicht einsehbar. 
-
 Augenscheinlich  spiegelten  die  Regelungen  des  Betriebsstellenbuchs  zur  selbsttätigen 
-
 Gleisfreimeldeanlage nicht mehr die örtlichen Gegebenheiten wieder. Die W 74 war mit einer 
-
 selbsttätigen  Gleisfreimeldeanlage  ausgerüstet.  Die  Gleisfreimeldeanlage  der  W 74 
-
 funktionierte  ordnungsgemäß.  Entsprechend  Ril  408.0231  Abschn.  3  Abs. 1a)  dürfen 
 Feststellungen auf Freisein durch Auswerten der sicheren Anzeigen der Gleisfreimeldeanlage 
 getroffen werden. Dies wäre dem Fdl möglich gewesen. Unklar bleibt, ob es örtlich zulässig 
 Seite 15 von 37 
+
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 23.02.2022, Bf Rüsselsheim 
 gewesen  wäre.  Entsprechend  Verordnung  (EU)  2018/762  Anhang  II  Punkt  4.4.3  c)  und  d) 
 müssen sicherheitsrelevante Informationen konsistent und korrekt sein. 
-Hebelbank Fdl‐Stw 
+Hebelbank Fdl-Stw 
 Die nachfolgende Abbildung zeigt den Teil der Hebelbank im Stw Rf mit dem für die Zugfahrt 
-
 der  S 35968  relevanten  Fahrstraßensignalhebel  T1_2_7  im  Zustand  nach  dem  Ereignis.  Die 
-
 Fotografie wurde von der Bundespolizei angefertigt und neben anderen Aufnahmen der BEU 
 zur Verfügung gestellt.  
 Abbildung 4: Fahrstraßensignalhebel Hebelbank Fdl4 
@@ -901,11 +780,13 @@ nach  Gleis 27.  Die  Farbscheibe  der  W 74  zeigte  Ordnungsstellung,  die  de
 Störstellung an. 
 4 Quelle: Bundespolizei, bearbeitet durch BEU 
 Seite 16 von 37 
+
  
  
  
                                                        
 Untersuchungsbericht 
+
 Zugentgleisung, 23.02.2022, Bf Rüsselsheim 
 Im Rahmen der Untersuchungen vor Ort wurden alle für den Fahrweg der S 35968 relevanten 
 Weichen 
@@ -921,27 +802,23 @@ umgelegt werden.
 Die Auswertung der Unfallspuren ergab, dass die W 74 unter dem fahrenden Zug umgestellt 
 wurde. Eine Störung am Weichenmelder der Innenanlage der W 74 wurde nicht angezeigt. An 
 der Außenanlage der W 74 lag ebenfalls keine Störung vor. Eine Hilfsbedieneinrichtung für die 
-
 W 74  wurde  nicht  betätigt.  Alle  Siegel  waren  vorhanden.  Die  im  Nachweis  der  Zählwerke 
-
 dokumentierten Zählwerksstände entsprachen den Zählwerken an der Hebelbank.   
 Sichtverhältnisse 
-
 Die  nachfolgende  Abbildung  zeigt  die  Sicht  aus  dem  Stw  Rf  auf  den  Fahrwegprüfbezirk  in 
-
 Richtung Bft Rüsselsheim-Opelwerk am Tage und bei sichtigem Wetter.  
 Abbildung 5: Blick vom Stw Rf 
 Seite 17 von 37 
+
  
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 23.02.2022, Bf Rüsselsheim 
 Die  ereignisrelevante  W 74  sowie  die  nachfolgende  W 69  waren  beide vom  Stw  Rf  aus  gut 
 erkennbar.  Für  die  Durchführung  von  Zugfahrten  bei  Dunkelheit  oder  schlechter  Sicht  im 
-
 Zusammenhang  mit  dem  Erfordernis  einer  Abschnittsprüfung  war  der  Bf  Rüsselsheim  mit 
-
 einer  Gleisfeldbeleuchtung 
 ausgestattet.  Nach 
 dem  Unfallereignis  war 
@@ -952,59 +829,45 @@ im
 Nachhinein  nicht  zweifelsfrei  geklärt  werden,  ob  dies  baubedingt  begründet  oder  durch 
 Unfallauswirkungen verursacht wurde. Insofern bleibt unklar, ob der Fdl zum Zeitpunkt der 
 Zugfahrt S 35968 ausreichende Sicht auf seinen Fahrwegprüfbezirk hatte. 
-Auswertung der GSM‐R Gespräche 
+Auswertung der GSM-R Gespräche 
 Die Gesprächsdateien aus der GSM-R Aufzeichnung wurden von der DB Netz AG gesichert und 
 der BEU übersandt. Im Zeitraum von 20:45 Uhr bis zum Ereigniszeitpunkt wurden durch den 
 Fdl 25 Einzelgespräche mit einer Dauer von insgesamt 26 Minuten und 52 Sekunden geführt. 
 Dies entspricht etwa 46% der ihm zur Verfügung stehenden Zeit.  
-
 Betrieblich  kommunizierte  der  Fdl  vor  allem  mit  dem  Ww.  Gründe  für  die  Kommunikation 
-
 zwischen beiden Betriebsbeamten waren die Fahrwegsicherungsmeldungen sowie dispositive 
 Gespräche  zum  Betriebsablauf.  Neben  der  Kommunikation  mit  dem  Ww  musste  der  Fdl 
-
 mehreren Zugfahrten je einen Befehl zur Vorbeifahrt am Halt zeigenden Zsig T1 diktieren. Die 
-
 Befehlsübermittlung nahm jeweils einen Zeitraum von ca. vier bis fünf Minuten in Anspruch. 
-
 Baustellenseitig kontaktierte der Fdl sowohl den Flankenschutzposten als auch mehrfach den 
-
 TB zwecks Rangieren des Arbeitszuges. Um 21:32 Uhr bat der TB, den Arbeitszug von Gleis 23 
 nach Gleis 30 umsetzen zu dürfen. Der Fdl teilte mit, dass der Arbeitszug zunächst bis nach 
 der Durchführung von Zugfahrten warten müsse. Um 21:42 Uhr, also unmittelbar nach der 
-
 Befehlserteilung an die verunfallte S 35968, stimmte der Fdl zu, dass der Arbeitszug zunächst 
-
 bis  in  das  Gleis  3  rangieren  und  nach  der  Zugfahrt  S 35968  von  dort  nach  Gleis  30  fahren 
-
 durfte. 
 4.1.2  Untersuchung	der	betrieblichen	Abläufe	der	EVU	
 Die DB Regio AG war gemäß § 2 Abs. 1 AEG das für die Zugfahrt S 35968 verantwortliche EVU. 
-
 Dazu verfügte sie über eine Sicherheitsbescheinigung gemäß § 7a AEG mit einer Gültigkeit bis 
-
 zum 20.12.2025. Das EVU war damit zur Teilnahme am Eisenbahnbetrieb berechtigt.  
 Gemäß § 4  Abs. 3 AEG ist ein EVU  verpflichtet, den Betrieb sicher zu führen. Insbesondere 
 besteht eine Verpflichtung zur sicheren Durchführung von Zugfahrten. Zur Gewährleistung der 
 Seite 18 von 37 
+
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 23.02.2022, Bf Rüsselsheim 
-
 systematisch  sicheren  Betriebsführung  gehört  u. a.  das  Aufstellen  und  Einhalten  eines  den 
-
 gesetzlichen  Anforderungen  genügenden  SMS  entsprechend  § 4  Abs. 4  AEG  i. V. m.  der 
 Richtlinie (EU)  2016/798.  Inhaltliche  Maßstäbe  für  ein  SMS  waren  die  Aufstellung  und 
 Einhaltung der in der Verordnung (EU) 2018/762 genannten Anforderungen. Zudem waren die 
 vom  EIU  zur  Benutzung  der  Infrastruktur  erstellten  Betriebsregeln  zu  beachten  und 
 umzusetzen. 
 Die Zugfahrt S 35968 sollte am Ereignistag von Hanau Hbf nach Wiesbaden Hbf verkehren und 
-
 im  Bft  Rüsselsheim-Stadtbahnhof  um  21:07 Uhr  sowie  im  Bft  Rüsselsheim-Opelwerk  um 
-
 21:11 Uhr halten. Die S-Bahn hatte bei Ankunft im Stadtbahnhof bereits eine Verspätung von 
-
 28  Minuten.  Entsprechend  dem  Fahrplan  war  die  Zugfahrt  aus  drei  ET  der  Baureihe  430 
 gebildet  und  hatte  somit  eine  Gesamtlänge  von  204,9  m.  Die  geforderten  149 
 Mindestbremshundertstel  wurden  gemäß  dem  Dauerbremszettel  mit  150  vorhandenen 
@@ -1016,33 +879,28 @@ dem  Ereignis  durch  die  DB  Regio  AG  gesichert,  ausgelesen  und  der  BEU 
 Auswertung  wurden  die  Daten  des  führenden  ET  verwendet.  Die  Normierung  der 
 Streckenkilometrierung erfolgte anhand der 2.000 Hz-Beeinflussung am Zsig T1 in km 12,077. 
 Die in der EFR gespeicherten Zeitdaten passten zu den Daten der ZNL. Vom EVU war festgelegt, 
-
 dass beim Fahren auf Sicht bei Nacht und sichtigem Wetter mit max. 15 km/h gefahren werden 
-
 durfte.  Die  zulässigen  Höchstgeschwindigkeiten  wurden  im  betrachteten  Zeitraum  nicht 
-
 überschritten. 
 Die nachfolgende Abbildung zeigt eine grafische Darstellung der Daten der EFR im relevanten 
 Bereich. 
 Seite 19 von 37 
+
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 23.02.2022, Bf Rüsselsheim 
 Abbildung 6: grafische EFR Auswertung 
 Nach einem Halt von ca. sieben Minuten am Bahnsteig im Bft Rüsselsheim-Stadtbahnhof fuhr 
 der  Zug  um  21:42 Uhr  wieder  an.  Nach  acht  Metern  waren  bei  der  Vorbeifahrt  am  Halt 
 zeigenden  Zsig  T1  eine  2.000  Hz-Beeinflussung  sowie  die  Bedienung  der  Befehlstaste 
-
 registriert.  Im  Anschluss  daran  beschleunigte  der  Tf  die  Zugfahrt  auf  bis  zu  9  km/h.  Die 
-
 Zugfahrt verlangsamte sich ab 21:45:09 Uhr EFR-Zeit bei km 11,705 ohne Bedienung des Fahr- 
 und Bremshebels. Unter Berücksichtigung der Zuglänge befanden sich in diesem Moment die 
 letzten Drehgestelle des Zugverbands auf der (umlaufenden) W 74. Der Zug fuhr daraufhin 
 noch ca. 125 m mit einer abfallenden Geschwindigkeit weiter um dann um 21:46:49 Uhr mit 
-
 Einleitung  einer  Schnellbremsung  durch  den  Tf  endgültig  zum  Stillstand  zu  kommen.  Die 
-
 zuletzt genannte Strecke entsprach in etwa der vor Ort gemessenen Entgleisungsstrecke der 
 letzten Drehgestelle von der W 74 bis zum Stillstand.  
 4.2  Fahrzeuge	und	technische	Einrichtungen	
@@ -1054,10 +912,12 @@ Die Zugfahrt S 35968 war aus drei ET der Baureihe 430 gebildet. Diese Baureihe w
 der Fa. Bombardier hergestellt und war für den S-Bahn Betrieb konzipiert.  
 Aus der folgenden Tabelle lassen sich die technischen Fahrzeugdaten entnehmen: 
 Seite 20 von 37 
+
  
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 23.02.2022, Bf Rüsselsheim 
 Fahrzeugnummer erster ET 
 Fahrzeugnummer zweiter ET 
@@ -1090,29 +950,24 @@ Abbildung 7: Fahrzeugaufbau ET 4305
 Es entgleisten die beiden letzten Drehgestelle des am Schluss laufenden ET 430 164. An diesen 
 Radsätzen waren keine augenscheinlichen Mängel erkennbar, die die Entgleisung verursacht 
 oder  dazu  beigetragen  haben  könnten.  Am  Fahrzeug  wurden  die  vorgeschriebenen 
-
 regelmäßigen  Inspektionen  durchgeführt.  Auf  eine  genauere  Untersuchung  des  Fahrzeugs 
-
 wurde aufgrund der Erkenntnisse zum Unfallhergang verzichtet. 
 4.2.2  Untersuchung	der	bautechnischen	Infrastruktur	
-
 Die  Entgleisung  ereignete  sich  auf  der  W 74.  Bei  dieser  handelte  es  sich  um  eine  einfache 
-
 Weiche  mit 
 starrem  Herzstück  des  Weichentyps  EW 60-500-1:12-WITEC.  Der 
 5 Quelle: DB Regio AG, bearbeitet durch BEU 
 Seite 21 von 37 
+
  
  
  
                                                        
 Untersuchungsbericht 
+
 Zugentgleisung, 23.02.2022, Bf Rüsselsheim 
-
 Regelinspektionsabstand nach Ril 812.2005 betrug sechs Monate. Die letzten Inspektionen vor 
-
 dem Ereignis fanden am 11.05.2021 und am 08.11.2021 statt. Bei beiden Inspektionen wurden 
-
 keine vom Regelwerk abweichenden Maße festgestellt. Anhand der Entgleisungsspuren war 
 erkennbar,  dass  die  W 74  vor  dem  letzten  Endtriebdrehgestell  umlief.  Durch  den  daraus 
 folgenden zweispurigen Lauf wurde auch das davor laufende Jakobstriebdrehgestell aus der 
@@ -1120,30 +975,26 @@ Spur gedrängt. Die Entgleisungsspuren verlaufen über eine Entfernung von ca. 1
 W 74 bis zum entgleisten Endtriebdrehgestell am Schluss des Zuges. 
 Auf eine weitergehende Untersuchung der bautechnischen Infrastruktur wurde aufgrund der 
 Erkenntnisse zum Unfallhergang verzichtet. 
-4.2.3  Untersuchung	der	Leit‐	und	Sicherungstechnik		
-
+4.2.3  Untersuchung	der	Leit-	und	Sicherungstechnik		
 Bei  der  selbsttätigen  Gleisfreimeldeanlage  im  Bf  Rüsselsheim  handelte  es  sich  um  100 Hz 
-
 Gleisstromkreise der Fa. Siemens. Die Anzeige erfolgte im Stw Rf sowohl durch eine besondere 
 Meldetafel  über  dem  Hebelwerksaufbau  als  auch  durch  Meldelampen  im  Hebelwerk.  Die 
 nachfolgende  Abbildung  zeigt  die  Meldetafel  nach  dem  Unfallereignis.  Die  relevante  W 74 
-
 zeigte  eine  Besetztanzeige  (Rotausleuchtung).  Die  Rangierfahrt  wartete  im  Gleis  3  des  Bft 
-
 Rüsselsheim-Stadtbahnhof. 
 Seite 22 von 37 
+
  
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 23.02.2022, Bf Rüsselsheim 
 Abbildung 8: Meldetafel Stw Rf6 
 Zusätzlich  zur  Gleisfreimeldeanlage  war  im  Stw  Rf  ein  Teil  der  Weichenhebel  mit  einer 
 Hebelsperre ausgerüstet. Diese verhinderte technisch ein Umstellen, wenn sich ein Fahrzeug 
 im Isolierbereich der Weiche befand. Die ereignisrelevante W 74 war nicht mit einer solchen 
-
 Hebelsperre  ausgerüstet.  Die  DB  Netz  AG  begründete  dies  damit,  dass  sich  die  Weiche  im 
-
 unmittelbaren  Sichtbereich  des  Stw  Rf  befand.  Das  bedeutet,  dass  eine  durch  die 
 Gleisfreimeldung detektierte Belegung der Weiche nicht verhinderte, dass der Weichenhebel 
 bedient und somit die Weiche unter Fahrzeugen umgestellt werden konnte. 
@@ -1158,17 +1009,23 @@ haben.  Ursache  waren  jeweils  Unzulänglichkeiten  an  der  signaltechnischen
 kurzfristig nicht zu beseitigen waren: 
 6 Quelle: Bundespolizei, bearbeitet durch BEU 
 Seite 23 von 37 
+
  
  
  
                                                        
 Untersuchungsbericht 
+
 Zugentgleisung, 23.02.2022, Bf Rüsselsheim 
+
 Eintrag 
 lfd. Nr. 
+
 Datum 
+
 Betriebliche 
 Maßnahme 
+
 Ursache lt. Eintrag 
 16 
 17 
@@ -1178,65 +1035,66 @@ Ursache lt. Eintrag
 03.11.2021 
 19.02.2022 
 23.02.2022 
+
 Bedienung Zsig 
 nicht möglich 
+
 T3 nach Gl. 24 
+
 Schaltungsfehler 
 Wärter-Stw 
+
 im 
+
 Fahrstraßensignalhebel S30_3 
 darf nicht bedient werden 
+
 Nicht ermittelbare 
 Unregelmäßigkeit 
+
 Fahrstraßensignalhebel 
 T3_2_8
  darf nicht bedient 
 werden 
+
 T1_2_8 / 
 Relais defekt 
+
 Bedienung aller Zusatzsignale 
 im Bf Rüsselsheim untersagt 
+
 Nicht durchgeführte 
 Inspektion 
+
 Tabelle 5: offene Einträge Nachweis der vorübergehenden Änderungen 
 Der Eintrag Nr. 20 erfolgte am Ereignistag um 09:35 Uhr. Gemäß diesem wurde die Bedienung 
 aller  Zusatzsignale  Zs 1  und  Zs 8  im  Bf  Rüsselsheim  untersagt.  Der  zum  Zeitpunkt  der 
 Anordnung  zuständige  Fdl  nahm  dies  um  10:00 Uhr  entsprechend  seinem  angefügten 
 Kommentar im Nachweis der vorübergehenden Änderungen unter „Vorbehalt und Zwang“ zur 
 Kenntnis. Des Weiteren vermerkte er, dass eine sofortige Rücksprache mit dem Bezirksleiter 
-
 Betrieb (BezL B) aufgrund des Eintrages und seiner Auswirkung nötig sei. Die Rücksprache fand 
-
 statt.  Der  BezL  B  konnte  kurzfristig  keine  Lösung  herbeiführen.  Der  zum  Zeitpunkt  der 
-
 Entgleisung  zuständige  Fdl  nahm  den  Eintrag  nach  Beginn  seiner  Schicht  um  19:20 Uhr  zur 
-
 Kenntnis. 
 Grund  für  die  Maßnahme  der  LST  waren  nach  Angaben  der  DB  Netz  AG  Zweifel  des 
 Anlagenverantwortlichen  (ALV)  an  der  ordnungsgemäß  durchgeführten  Inspektion  der 
-
 Ersatzsignale,  nachdem  es  bei  einer  Störung  zu  einem  zweifelhaften  Signalbild  gekommen 
-
 war. Gemäß Ril 892.0101 Abschn. 1 hat der ALV die uneingeschränkte Verantwortung für die 
 sichere  und  ordnungsgemäße  Funktion  der  zugewiesenen  Anlagen.  Gemäß  Ril  892.0103 
 Abschn. 1 dienen Inspektionen der Feststellung und Beurteilung des Ist-Zustandes einer LST-
-
 Anlage.  Da  Zweifel  an  der  ordnungsgemäßen  Funktion  der  Anlagenteile  bestanden,  wurde 
-
 deren  Bedienung  untersagt.  Gemäß  Ril  892.0103  Abschn.  3  Abs. 48  wurde  eine 
-
 Zusatzinspektion  für  die  Kalenderwoche  10,  also  ca.  10  Tage  nach  dem  Ereigniszeitpunkt, 
-
 angesetzt.  
-
 Technische  Voraussetzung  für  das  erfolgreiche  Bedienen  des  Ersatzsignals  am  Zsig  T1  war, 
-
 dass  sich  der  Fahrstraßensignalhebel  mindestens  in  der  30°-Stellung  befand.  Damit  sollte 
 Seite 24 von 37 
+
  
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 23.02.2022, Bf Rüsselsheim 
 primär  erreicht  werden,  dass  beim  Bedienen  des  Ersatzsignals  das  am  selben  Standort 
 befindliche Lichtsperrsignal Ls T1 keinen anderslautenden Signalbegriff zeigte, sondern dunkel 
@@ -1254,20 +1112,14 @@ dem EBA wurde seitens des EIU nicht nachgekommen.
 Störungen 
 Bereits  am  Vortag,  dem  22.02.2022,  kam  es  um  ca.  23:43 Uhr  zu  einer  Störung  der 
 Gleisfreimeldeanlage im Gleis 27 des Bf Rüsselsheim. Hierüber wurde die für die Entstörung 
-
 zuständige Stelle unterrichtet. Am 23.02.2022 erfolgte die Störungsbeseitigung von 08:28 Uhr 
-
 bis  12:12 Uhr  durch  eine  Fachkraft  LST.  Gemäß  dem  Eintrag  im  Arbeits-  und  Störungsbuch 
-
 unter der lfd. Nummer 92 wurde die Gleisfreimeldeanlage des Gleises 27 neu eingestellt. Am 
 Ereignistag um 18:22 Uhr erfolgte unter der lfd. Nummer 93 ein erneuter Eintrag bezüglich 
 der Gleisfreimeldeanlage des Gleises 27. Demnach traten sporadisch Rotausleuchtungen auf, 
 wodurch keine Fahrtstellung des Signales T1 nach Gleis 27 möglich war. Um 19:49 Uhr begann 
-
 die  erneute  Störungssuche  durch  eine  Fachkraft  LST.  Bis  zum  Ereigniszeitpunkt  war  die 
-
 Störung nicht beseitigt, so dass keine Signalstellung vom Zsig T1 nach Gleis 27 möglich war. 
-
 Die  Ursache  der  Gleisfreimeldestörung  war  nach  dem  Unfallereignis  nicht  mehr 
 nachvollziehbar.  Nach  Angaben  der  DB  Netz  AG  wurden  die  Ein-  und  Ausspeisung  des 
 Gleisstromkreises getauscht.  
@@ -1277,9 +1129,11 @@ laut  Betra  F 545076 22.  Die
 Weichengleisfreimeldungen  der  Weichen  77  und  72-75  werden  auf  ständiges  Freisein 
 simuliert …“. Die W 74 wäre somit ebenfalls von dieser Maßnahme betroffen. Auf Nachfrage 
 Seite 25 von 37 
+
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 23.02.2022, Bf Rüsselsheim 
 teilte die DB Netz AG mit, dass der Eintrag „unsauber formuliert“ sei. Es seien gemäß Betra 
 Punkt 5.1.4 nur die Weichen 77, 72 und 75 betroffen gewesen. In der Betra war jedoch nur die 
@@ -1311,9 +1165,7 @@ nachgewiesen.
 Ein 
 aktueller 
 Tauglichkeitsnachweis  wurde  zur  Einsichtnahme  vorgelegt.  Der  Fdl  war  wegen 
-
 Personalausfalls  kurzfristig  für  die  aktuelle  Schicht  eingeteilt.  Die  vorgeschriebenen 
-
 Ruhezeiten waren eingehalten. 
 Überwachung der Dienstausübung 
 Die  Überwachungshäufigkeit  des  Arbeitsplatzes  des  Fdl  im  Stw  Rf  war  gemäß  Ril  412.9111 
@@ -1322,22 +1174,20 @@ acht  Betriebskontrollen  durch  einen  BezL  B  für  den  Fdl  nachgewiesen.  
 wurden  nicht  festgestellt.  Jedoch  waren  entsprechend  Ril  412.9111  Abschn.  5  Abs. 1  die 
 Betriebskontrollen gleichmäßig über das gesamte Jahr zu verteilen. Eine Konzentration von 
 Seite 26 von 37 
+
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 23.02.2022, Bf Rüsselsheim 
 mehr  als  50%  der  Anzahl  der  Betriebskontrollen  in  einem  Zeitraum  von  drei  Monaten  war 
 nicht zulässig. Entgegen diesen Vorgaben zeigte sich neben einer einzelnen Überwachung im 
 Monat März eine Konzentration der restlichen Überwachungen in den Monaten September 
-
 bis November (sieben von acht). Weiterhin hätten nach Ril 412.9111 Abschn. 5 Abs. 2 zwei der 
-
 Betriebskontrollen  als  besondere  Betriebskontrollen 
 (Wochenende,  Nachtstunden) 
 durchgeführt  werden  müssen.  Entsprechend  der  Definition  einer  besonderen 
-
 Betriebskontrolle  konnte  nur  eine  Überwachung  im  November  2021  als  solche  identifiziert 
-
 werden. Die letzte Überwachung des Fdl vor dem Ereignis war am 25.11.2021 nachgewiesen. 
 Bei  der  Betriebskontrolle  am  28.10.2021  war  die  Zugfahrt  mit  besonderem  Auftrag 
 Gegenstand des Lehrgesprächs. 
@@ -1364,17 +1214,17 @@ offensichtlich kein Gebrauch gemacht. Mit diesem Prüfverfahren sollten Zusatzbe
 aus Bauarbeiten erkannt und ggf. Abhilfemaßnahmen geplant werden. Diese Prüfung hätte 
 vom BezL B angestoßen werden müssen. 
 Die vorgelegte Belastungskurve eines Regelwerktags zeigt für den relevanten Zeitraum von 
-
 21 Uhr  bis  22 Uhr  eine  jeweils  durchschnittliche  Belastung  zwischen  92%,  63%  und  79%. 
-
 Während der Dauer der Bauarbeiten wurden einige Züge umgeleitet bzw. waren im Ausfall. 
 Nach  einer  eigenen  Einschätzung  der  DB  Netz  AG  verblieben  ca.  75%  der  Zugfahrten. 
 Demgegenüber  ergaben  sich  im  Ereigniszeitraum  deutliche  vorhersehbare  und  nicht 
 vorhersehbare Mehrbelastungen des Fdl aus  
 Seite 27 von 37 
+
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 23.02.2022, Bf Rüsselsheim 
   Mehraufwand für die Durchführung von Zugfahrten (Gleiswechsel, Disposition, 
 Kommunikation mit Ww und Flankenschutzposten), 
@@ -1389,9 +1239,7 @@ Zeitraum  bis  zu  einer  Stunde  vor  dem  Ereignis  einer  deutlich  erhöhten
 ausgesetzt war. 
 In  einem  aufgezeichneten  GSM-R-Gespräch  mit  dem  Ww  und  dem  dort  anwesenden 
 Mitarbeiter LST äußerte sich der Fdl, dass von der Baustelle am Vortag erheblicher Druck auf 
-
 ihn  ausgeübt  worden  sei.  Zudem  habe  er  aktuell  eigentlich  frei  und  sei  heute  für  eine 
-
 Zusatzschicht eingeteilt worden. 
 4.3.2  Beteiligte	der	EVU	
 Seitens des EVU war der Tf der S 35968 am Ereignis beteiligt. Die Erfüllung der Anforderung 
@@ -1404,25 +1252,23 @@ sowie  die
 vorgeschriebenen  Überprüfungen  der 
 Dienstausübungen  am  Arbeitsplatz  nachgewiesen  werden.  Die  überprüften  Anforderungen 
 gemäß Triebfahrzeugführerscheinverordnung waren erfüllt. 
-4.4  Feedback‐	und	Kontrollmechanismen	
+4.4  Feedback-	und	Kontrollmechanismen	
 In diesem Kapitel wird insbesondere auf Bedingungen, Feedback- und Kontrollmechanismen 
-
 im  Eisenbahnsystem  eingegangen,  denen  ein  aktiver  Einfluss  auf  die  Entstehung  ähnlicher 
-
 Ereignisse zugeschrieben werden könnte. Diese Mechanismen schließen Faktoren des Risiko- 
 und Sicherheitsmanagements sowie Überwachungsverfahren mit ein. 
 Aufsichtsführung 
 Seite 28 von 37 
+
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 23.02.2022, Bf Rüsselsheim 
 Analog  zu  den  Lücken  bzw.  der  Konzentration  der  durchgeführten  Überwachungen  des 
 betroffenen  Fdl  fanden  sich  deutliche  Lücken  bei  der  nachweislichen  Überprüfung  von 
 betrieblichen Unterlagen insbesondere in den ersten acht Monaten des Jahres 2021. Bezüglich 
-
 der  Gründe  für  diese  unzureichende  Aufsichtsführung  teilte  die  DB  Netz  AG  mit,  dass  der 
-
 Arbeitsplatz des BezL B für den Bereich Rüsselsheim seit Januar 2021 unbesetzt gewesen sei. 
 Ab  Juli  2021  waren  hilfsweise  zwei  BezL  B  aus  anderen  Bezirken  zusätzlich  zu  ihren 
 angestammten  Aufgaben  für  den  Überwachungsbezirk  zuständig.  Von  September  2021  bis 
@@ -1431,9 +1277,7 @@ BezL B unterstützt. Zum Ereigniszeitpunkt war die Stelle des BezL B für Rüsse
 vakant  und  wurde  von  einem  BezL  B  eines  anderen  Bezirks  zusätzlich  vertreten.  Die 
 DB Netz AG  räumte  ein,  „dass  es  im  gesamten  Betrachtungszeitraum  zu  zeitweiligen 
 Unterbesetzungen im Bereich der BezL B im Netzbezirk Mainz gekommen sei.“ Nicht weiter 
-
 ermittelt  wurde,  ob  eine  geordnete  Arbeitsverteilung  zwischen  den  verbliebenen  BezL  B 
-
 geregelt war. 
 Am  18.08.2021  fand  eine  Betriebsüberwachung  im  Stw  Rf  des  Bf  Rüsselsheim  durch  den 
 Betriebsüberwacher  des  ständigen  Stellvertreters  des  Eisenbahnbetriebsleiters  der  Region 
@@ -1451,44 +1295,30 @@ sicheren  Durchführung  des  Betriebs  erforderlichen  Anzahl  einzusetzen.  En
 § 47 Abs. 1 zählen Leitende und Aufsichtsführende zu den Betriebsbeamten im Sinne dieser 
 Verordnung. 
 Für  den  zum  Ereigniszeitpunkt  für  den  Bf  Rüsselsheim  verantwortlichen  BezL  B  wurden 
-
 Qualifikationsunterlagen  zur  Einsichtnahme  angefordert.  Zunächst  wurden  Unterlagen  für 
-
 einen  nicht  mehr  zuständigen  BezL  B  vorgelegt.  Auf  genauere  Nachfrage  hin  teilte  die 
-
 DB Netz AG  mit,  dass  der  Nachweis  einer  Funktionsausbildung  für  den  vertretungsweise 
-
 Seite 29 von 37 
+
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 23.02.2022, Bf Rüsselsheim 
 aktuell zuständigen BezL B nicht vorgelegt werden könne. Der betreffende BezL B habe seine 
 Qualifikation im Rahmen der Laufbahnausbildung zum gehobenen Dienst bei der damaligen 
 Deutschen Bundesbahn im Jahr 1990 erworben. Nach Ansicht der DB Netz AG bedürfe es für 
-
 diesen Mitarbeiter keiner weiteren Prüfung oder Qualifikation zum BezL B. Unberücksichtigt 
-
 blieb bei dieser Aussage, dass es zum Zeitpunkt der damaligen Prüfung zum einen die Funktion 
-
 des  BezL B  in  dieser  Form  nicht  gab  und  zum  anderen  der  Mitarbeiter  seit  seiner 
-
 Laufbahnprüfung auch über längere Zeiträume hinweg in anderen Funktionen tätig war.  
-
 Entsprechend  Verordnung  (EU)  2018/762  Anhang  II  Punkt  4.2.1  sind  Mitarbeitern  mit 
-
 sicherheitlichen  Aufgaben  die  notwendigen  Kompetenzen  zu  vermitteln.  Diese  sind  gemäß 
-
 Punkt 4.2.1 der Verordnung vorab im SMS zu definieren und gemäß Punkt 4.2.2 regelmäßig 
-
 und  nachweislich  zu  schulen.  Zudem  ist  sicherzustellen,  dass  die  Qualifikationen  und 
-
 Fähigkeiten auf Dauer  erhalten bleiben. Dies bedeutet auch, dass sie erstmals ausreichend 
-
 vorliegen  vor  Zuweisung  einer  Tätigkeit.  Analog  gilt  entsprechend  EBO  § 54  Abs. 1,  dass 
-
 Betriebsbeamten  die  Kenntnisse  und  Fertigkeiten  zu  vermitteln  sind,  die  sie  zur 
-
 ordnungsgemäßen  Ausübung 
 ihres  Dienstes  befähigen.  Nach  Abs. 2  haben  sich  die 
 Eisenbahnen  durch  Prüfungen  oder  in  sonst  geeigneter  Weise  vor  dem  Einsatz  vom 
@@ -1496,37 +1326,35 @@ Vorhandensein der geforderten Kenntnisse und Fertigkeiten zu überzeugen.
 4.5  Frühere	Ereignisse	ähnlicher	Art	
 Im Zusammenhang mit elektromechanischen Stw wurden durch die BEU folgende Ereignisse 
 ähnlicher Art untersucht:  
-
 Am 08.09.2021 entgleiste RB 18344 bei der Einfahrt in den Bf Senftenberg nach vorzeitiger 
-
 Fahrstraßenauflösung in Verbindung mit unzeitiger Weichenbedienung einer noch durch die 
 Zugfahrt belegten Fahrwegweiche. 
 Am 23.01.2020 entgleiste IC 2382 bei der Fahrt auf besonderem Auftrag im Bf Horb aufgrund 
-
 unzeitiger  Weichenbedienung  einer  noch  durch  die  Zugfahrt  belegten  Fahrwegweiche  in 
-
 Verbindung mit fehlender Sicherung der Hilfsfahrstraße durch den Ww. 
 Am 27.04.2018 entgleiste DGS 43638 bei der Einfahrt in den Bf Freiburg Gbf nach vorzeitiger 
 Fahrstraßenauflösung in Verbindung mit unzeitiger Weichenbedienung einer noch durch die 
 Zugfahrt belegten Fahrwegweiche. 
 Seite 30 von 37 
+
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 23.02.2022, Bf Rüsselsheim 
 Am  29.06.2015  entgleiste  S  5130  bei  der  Einfahrt  in  den  Bf  Hoppegarten  (Mark)  nach 
-
 vorzeitiger  Hilfsauflösung  der  Fahrstraße  in  Verbindung  mit  unzeitiger  Weichenbedienung 
-
 einer noch durch die Zugfahrt belegten Fahrwegweiche. 
 Weitere  Ereignisse  ähnlicher  Art  wurden  im  Zusammenhang  mit  mechanischen  Stw 
 untersucht. 
 Seite 31 von 37 
+
  
  
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 23.02.2022, Bf Rüsselsheim 
 5  Schlussfolgerungen	
 Das  folgende  Kapitel  enthält  eine  Zusammenfassung  der  ermittelten  ursächlichen, 
@@ -1534,24 +1362,16 @@ beitragenden  und  systemischen  Faktoren  Zusätzlich  sind  zwei  weitere  Unt
 vorgesehen,  um  Informationen  zu  bereits  ergriffenen  Maßnahmen  und  zu  zusätzlichen 
 Bemerkungen zu teilen. 
 5.1  Zusammenfassung	und	Schlussfolgerung	
-
 Das EIU hatte in den für das Stw Rf geltenden Arbeitsvorgaben u. a. auch eine folgerichtige 
-
 Schutzfunktion zu dem in Kapitel 4.1.1. genannten, wesentlichen betrieblichen Grundsatz der 
 TSI OPE verwirklicht. Demnach waren die Voraussetzungen für die Zulassung einer Zugfahrt 
 solange weiter aufrecht zu erhalten, wie dies zur Gewährleistung der Sicherheit der Zugfahrt 
-
 erforderlich  war.  Dies  wurde  durch  zum  Teil  technisch  unterstützte,  im  Wesentlichen  aber 
-
 durch  organisatorische  Bedienregeln  erreicht,  damit  kein  Zug  mit  bereits  vorliegender 
-
 Zustimmung zur Fahrt durch das unzeitige Umstellen einer Weiche gefährdet werden könnte. 
-
 Die  ermittelten  Handlungen,  Unterlassungen,  Vorkommnisse  oder  Umstände  um  den 
 Ereigniszeitpunkt herum führten dennoch zur Entgleisung der S 35968 im Bf Rüsselsheim. 
-
 Ursächlich  für  die  Entgleisung  war  die  unzeitige  Bedienung  der  noch  durch  die  Zugfahrt 
-
 S 35968 belegten Fahrwegweiche W 74 nach einer vorzeitigen Auflösung der Hilfsfahrstraße 
 durch den Fdl. 
 Ebenfalls als ursächlich für das Ereignis anzusehen war die Störung der Gleisfreimeldeanlage 
@@ -1560,9 +1380,7 @@ Beitragender Faktor zum Ereignis war die hohe Arbeitsbelastung des Fdl im Bf Rü
 zum  einen  durch  die  laufende  Betra  und  zum  anderen  durch  die  überlagerte  Störung  der 
 Gleisfreimeldeanlage. Als systemischer Faktor wurde die unzureichende Personalausstattung 
 im  Bereich  der  Aufsichtsführung  angesehen,  wodurch  möglicherweise  die  zumutbare 
-
 Arbeitsbelastung  nicht  näher  überprüft  sowie  die  korrekte  Arbeitsausführung  nicht  im 
-
 vorgesehenen  Maße  überwacht  wurde.  Als  beitragender  sowie  als  systemischer  Faktor 
 anzusehen war die nicht vorhandene Hebelsperre an der W 74, wodurch trotz detektierter 
 Belegung der W 74 durch die Gleisfreimeldeanlage eine (unzeitige) Weichenbedienung durch 
@@ -1570,79 +1388,93 @@ den Fdl möglich war.
 Die  nachfolgende  Tabelle  enthält  die  Zusammenstellung  der  für  das  Ereignis  relevanten 
 Einflussfaktoren.  Diese  wurden  entsprechend  Durchführungsverordnung  (EU)  2020/572 
 Seite 32 von 37 
+
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 23.02.2022, Bf Rüsselsheim 
 Artikel 2 ursächlichen, beitragenden und systemischen Faktoren zugeordnet. Die in Klammern 
 gesetzte Nummerierung der Faktoren dient der besseren Zuordnung zu den Erläuterungen im 
 den nachfolgenden Kapitel. 
+
 Handlung/Unterlassung/ 
 Umstand/Vorkommnis 
+
 Ursächlicher 
 Faktor 
+
 Beitragender 
 Faktor 
+
 Systemischer Faktor 
 21:45 Uhr: 
+
 Vorzeitige Auflösung 
 Hilfsfahrstraße/unzeitige 
 Weichenbedienung 
+
 [F1] Umstellen 
 W 74 
+
 Ab 18:22 Uhr: 
+
 Störung 
 Gleisfreimeldeanlage 
+
 [F2] Fahrt mit 
 besonderem 
 Auftrag;  
+
 Arbeitsbelastung, 
 Personaleinsatz 
+
 Nicht vorhandene 
 Hebelsperre 
+
 Tabelle 6: Zusammenstellung der Einflussfaktoren 
 Zu ursächlichem Faktor „Umstellen W 74“ [F1]:  
+
 [S2] Häufigkeit 
 Störungen der 
 Anlage 
+
 von 
 Stw-
+
 [F3] Erhöhte 
 Arbeitsbelastung 
 Fdl  
+
 [S3] unzureichende 
 Ausübung der 
 Aufsichtsführung:  
+
 [F4] keine 
 technische 
 Abhängigkeit 
 Weichenhebel zur 
 Besetztanzeige  
+
 [S4] 
 Ausrüstungskonzept 
 der Stw-Anlage mit 
 Hebelsperren  
+
 Da keine technischen Mängel an der Stw-Anlage vorgefunden wurden, ist davon auszugehen, 
-
 dass  der  nach  der  Entgleisung  in  Abbildung  3  fotografisch  dokumentierte  Zustand  der 
-
 Bedienelemente an der Hebelbank im Stw Rf nicht der Sachlage zum Zeitpunkt der Entgleisung 
 entsprach. Um die (unzeitige) Bedienung des Weichenhebels der W 74 zu ermöglichen, wurde 
-
 entweder  die  eingestellte  Hilfsfahrstraße  vorzeitig  aufgelöst  oder  die  Sicherung  der 
-
 Hilfsfahrstraße wurde nicht regelkonform durchgeführt. Welcher Sachverhalt zutreffend war, 
 kann  aufgrund  fehlender  Aufzeichnungen  bei  dieser  Stw-Bauart  nicht  mehr  nachvollzogen 
 werden. In beiden Fällen ist davon auszugehen, dass der vorgefundene richtlinienkonforme 
-
 Zustand  an  der  Hebelbank  erst  nach  dem  Ereignis  hergestellt  wurde.  Somit  ist  von  einem 
-
 Arbeitsfehler des Fdl auszugehen.  
-
 Die  vorzeitige  Auflösung  der  Hilfsfahrstraße  für  die  S 35968  sowie  die  damit  verbundene 
-
 unzeitige Bedienung der W 74 sind als ursächliche Faktoren für die Entgleisung anzusehen. 
 Seite 33 von 37 
+
  
  
  
@@ -1651,20 +1483,15 @@ Seite 33 von 37
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 23.02.2022, Bf Rüsselsheim 
 Unabhängig  von  der  eventuell  erfolgten  Sicherung  der  Hilfsfahrstraße  mit  dem 
 Fahrstraßensignalhebel hätte der Fdl jedoch spätestens vor dem Umstellen der W 74 für die 
-
 Rangierfahrt entweder durch Hinsehen oder durch Auswertung der Anzeige der selbsttätigen 
-
 Gleisfreimeldeanlage prüfen müssen, ob die Weiche frei von Fahrzeugen war. Die Regelungen 
-
 in  den  betrieblichen  Unterlagen  des  Stw  Rf  zur  Befugnis  für  den  Fdl,  die  selbsttätige 
-
 Gleisfreimeldeanlage auszuwerten war entgegen Verordnung (EU) 2018/762 Anhang II Punkt 
-
 4.4.3 c) und d) nicht eindeutig. Danach müssen sicherheitsrelevante Informationen konsistent 
-
 und korrekt sein.  
 Das funktionsfähige Vorhandensein der Gleisfreimeldeanlage der W 74 ermöglichte es dem 
 Fdl  dennoch,  das  Freisein  der  W 74  neben  dem  Prüfen  durch  Hinsehen  auf  einem  zweiten 
@@ -1673,13 +1500,9 @@ Insofern ist es auch weniger von Bedeutung, ob die Gleisfeldbeleuchtung für das
 Hinsehen tatsächlich funktionsfähig war.  
 Zu ursächlichem Faktor „Fahrt mit besonderem Auftrag“ [F2]:  
 Ein weiterer ursächlicher Faktor für das Ereignis war die Störung der Gleisfreimeldeanlage im 
-
 Gleis  27,  da  hierdurch  erst  die  Fahrt  mit  besonderem  Auftrag  erforderlich  wurde,  und 
-
 gleichzeitig  technische  Sicherungsfunktionen  im  Stw  nicht  wirken  konnten.  Insgesamt  ist 
-
 festzustellen,  dass  die  Störanfälligkeit  und  damit  auch  der  Instandhaltungsaufwand  für  die 
-
 Stw-Anlage  in  Rüsselsheim  sehr  hoch  war.  Bei  Störungen  wird  häufig  die  signaltechnische 
 Sicherungsebene  ganz  oder  teilweise  auf  die  Verfahrensebene  und  damit 
 in  die 
@@ -1689,50 +1512,39 @@ musste die Fahrwegsicherung über die 30°-Stellung des Fahrstraßensignalhebels
 der  S 35968  nicht  mehr  technisch  zwingend  zum  Einsatz  kommen.  Auch  das  Verbot  der 
 Verwendung des Ersatzsignals resultierte aus vorhergehenden Störungen in Verbindung mit 
 unzureichender Instandhaltung.  
-Zu systemischem Faktor „Häufigkeit der Störung der Stw‐Anlage“ [S2]:  
+Zu systemischem Faktor „Häufigkeit der Störung der Stw-Anlage“ [S2]:  
 Insofern ist die Störanfälligkeit der Stw-Anlage auch als systemischer Faktor anzusehen, da das 
 vorgesehene,  sicherheitsgerichtete  Leistungsniveau  der  Anlage  entgegen  Verordnung  (EU) 
 2018/762  Anhang  II  Punkt  5.2.2  a)  reduziert  war.  Durch  die  daraus  resultierende 
 Nichtverfügbarkeit  von  sicherungstechnischen  Schutzfunktionen  des  Stw  wurde  vermehrt 
 Seite 34 von 37 
+
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 23.02.2022, Bf Rüsselsheim 
-
 Betrieb mit Hilfsbedienhandlungen erforderlich. Entsprechend stieg das Risiko für gefährliche 
-
 Ereignisse  durch  die  signifikant  höhere  Wahrscheinlichkeit  von  Fehlern  aus  menschlichem 
-
 Handeln.  Der  störungsfreie  und  sichere  Betrieb  derartiger  Altanlagen  ist  abhängig  von 
-
 angemessener 
 Instandhaltung.  Die  Eintragung 
 im  Nachweis  der  vorübergehenden 
 Änderungen zu fehlenden oder unvollständig durchgeführten Inspektionen zeigt jedoch, dass 
 dieser Unterhaltungsaufwand nicht vollumfänglich gewährleistet wurde. 
 Zu beitragendem Faktor „erhöhte Arbeitsbelastung Fdl“ [F3]:  
-
 Die unzeitigen Bedienhandlungen des Fdl resultierten aus menschlichen Fehlhandlungen. Bei 
-
 einer hohen Arbeitsbelastung steigt das Risiko von menschlichen Fehlhandlungen signifikant. 
-
 Die  aus  der  Betra  resultierende  Arbeitsbelastung  war  im  betrachteten  Zeitraum  trotz  der 
-
 Maßnahmen  zur  Reduzierung  der  Planzugfahrten  bereits  deutlich  erhöht.  Hinzu  kamen 
 weitere betriebliche Ersatzmaßnahmen aufgrund der Störung der Gleisfreimeldeanlage.  
 Am Vortag wurde nach Angaben des Fdl erheblicher Druck seitens der Verantwortlichen für 
 die Bauarbeiten auf den Fdl bezüglich der zeitnahen Durchführung von Rangierfahrten usw. 
-
 ausgeübt. Der Versuch, die zum Ereigniszeitpunkt anstehende Rangierfahrt für die Baulogistik 
-
 rasch  durchzuführen,  könnte  die  Handlungen  zur  vorzeitigen  Fahrstraßenauflösung  und 
 Weichenbedienung ausgelöst haben.  
-
 Weiterhin  ist  es  denkbar,  dass  die  vom  Fdl  zu  absolvierende  Zusatzschicht  die  persönliche 
-
 Beanspruchung  und  damit  verbunden  die  Arbeitsqualität  und  insbesondere  das  situative 
-
 Konzentrationsvermögen beeinträchtigte. 
 Insofern 
 ist  die  hohe  Arbeitsbelastung 
@@ -1741,22 +1553,20 @@ individuellen
 Arbeitsbeanspruchung als beitragender Faktor zu werten, da sie die Wahrscheinlichkeit einer 
 Fehlhandlung des Fdl erhöhte. 
 Zu systemischem Faktor „unzureichende Ausübung der Aufsichtsführung“ [S3]:  
-
 Ob  die  aus  der  Betra  resultierende  zusätzliche  Arbeitsbelastung  die  Kapazitäten  des  Fdl 
-
 überstieg, wurde seitens der Aufsichtsführung mit dem dafür vorgesehenen Instrumentarium 
-
 SOB  möglicherweise  nicht  näher  überprüft.  Dieses  war  u. a.  dafür  vorgesehen,  Risiken  aus 
-
 besonderen  betrieblichen  Zuständen  für  die  Arbeitsbelastung  der  Betriebspersonale  vorab 
 einzuschätzen  und  ggf.  abhelfende  Maßnahmen 
 zu  ergreifen.  Die 
 fehlende 
 Personalausstattung im Bereich der Aufsichtsführung (BezL B) könnte diese Vorgehensweise 
 Seite 35 von 37 
+
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 23.02.2022, Bf Rüsselsheim 
 begünstigt haben. Zudem wurde die Arbeitsausführung der eingesetzten Betriebspersonale 
 vor dem Ereignis nicht im vorgesehenen Rahmen überwacht.  
@@ -1766,20 +1576,15 @@ kann. Diese technische Einrichtung ist eine die Sicherheit erhöhende Stellwerks
 Risiken aus menschlichen Fehlhandlungen auf den sicheren Eisenbahnbetrieb zu reduzieren. 
 Insofern hat die fehlende Ausrüstung des Bedienhebels der W 74 mit einer Hebelsperre die zu 
 erwartende Fehlhandlung begünstigt und somit zum Ereignis beigetragen.  
-Zu systemischem Faktor „Ausrüstungskonzept der Stw‐Anlage mit Hebelsperren“ [S4]:  
+Zu systemischem Faktor „Ausrüstungskonzept der Stw-Anlage mit Hebelsperren“ [S4]:  
 Ein Teil der nicht einsehbaren Weichen im Stw Rf wurde bereits mit Hebelsperren ausgerüstet. 
 Die  Ausrüstung  von  Weichen  in  elektromechanischen  Stw  war  demnach  grundsätzlich 
 technisch machbar. Im Stw Rf war für die betroffenen einsehbaren Weichen zudem bereits 
-
 eine selbsttätige Gleisfreimeldeanlage vorhanden, die Voraussetzung für die Ausrüstung mit 
-
 Hebelsperren war. Eine technische Abhängigkeit der Gleisfreimeldeanlage zum Bedienhebel 
 der relevanten Weichen mittels Hebelsperre wurde jedoch nicht realisiert.  
-
 Entsprechend  Verordnung  (EU)  2018/762  Anhang  II  Punkt  4.6.1  muss  eine  Organisation 
-
 nachweisen,  dass  sie  innerhalb  des  SMS  einen  systematischen  Ansatz  zur  Integration 
-
 menschlicher Faktoren verfolgt. Dieser Ansatz muss u. a. den menschlichen Fähigkeiten und 
 Grenzen Rechnung tragen. Nicht ermittelt werden konnte im Rahmen dieser Untersuchung, 
 inwieweit  das  EIU  einen  schlüssigen  Ansatz  zur  generellen  Ausrüstung  von  Weichen  mit 
@@ -1790,28 +1595,24 @@ umgestellt  werden,  ist  die  Aus-  bzw.  Nachrüstung  von  Weichen  mindesten
 befahrenen  Zugstraßen  mit  Hebelsperren  zumutbar  bzw.  sogar  dringend  geboten.  Eine 
 Gleisfreimeldeanlage ist dabei technischer Bestandteil zur Wirksamkeit der Hebelsperren.  
 5.2  Seit	dem	Ereignis	getroffene	Maßnahmen	
-
 Der  zuständige  Fdl  wurde  nach  dem  Ereignis  zunächst  nicht  mehr  als  Fdl  eingesetzt.  Nach 
-
 einem Sicherheitsgespräch im Juli 2022 war der Mitarbeiter zunächst als Ww im Einsatz. Nach 
 einer Wiederholungsprüfung im Dezember 2022 wurde er wieder als Fdl eingesetzt. 
 Seite 36 von 37 
+
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 23.02.2022, Bf Rüsselsheim 
 Verantwortliche BezL B für den Bf Rüsselsheim waren bis zum September 2022 weiterhin zwei 
 BezL  B,  welche  diese  Aufgabe  zusätzlich  neben  ihren  eigenen  Überwachungsbezirken 
 übernahmen. Ab Oktober 2022 wurde bis auf weiteres wieder ein fest zugewiesener BezL B 
 für diese Tätigkeit eingesetzt. 
 Das Betriebsstellenbuch des Bf Rüsselsheim wurde zwischenzeitlich aktualisiert. 
-
 Bereits  vor  dem  Ereignis  hatte  die  DB  Netz  AG  mit  der  Planung  eines  elektronischen  Stw 
-
 begonnen,  welches  die  beiden  vorhandenen  elektromechanischen  Stw  im  Bf  Rüsselsheim 
-
 ersetzen soll. Nach Auskunft der DB Netz AG ist die Inbetriebnahme für das Jahr 2025 geplant. 
-
 5.3  Zusätzliche	Bemerkungen	
 Keine. 
 6  Sicherheitsempfehlungen	
@@ -1833,6 +1634,7 @@ Hauptgleisen mit einer Weichenhebelsperre
 auszurüsten. 
 
 Seite 37 von 37 
+
  
  
  

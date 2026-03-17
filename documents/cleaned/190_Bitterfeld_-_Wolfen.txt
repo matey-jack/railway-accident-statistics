@@ -17,6 +17,7 @@ Streckennummer:
 Kilometer: 
 6411 
 45,1 
+
  
 	
  
@@ -32,30 +33,26 @@ Kilometer:
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 26.01.2014, Bf Bitterfeld – Bf Wolfen 
 Veröffentlicht durch: 
 Bundesstelle für Eisenbahnunfalluntersuchung 
 Heinemannstraße 6 
 53175 Bonn 
+
  
 Untersuchungsbericht 
+
 Zugentgleisung, 26.01.2014, Bf Bitterfeld – Bf Wolfen 
 Inhaltsverzeichnis	
 I. 
 II. 
-
 Änderungsverzeichnis: .......................................................................................... II 
-
 Abbildungsverzeichnis: ........................................................................................ III 
-
 III. 
-
 Tabellenverzeichnis: ............................................................................................ III 
-
 IV. 
-
 Abkürzungsverzeichnis: ....................................................................................... IV 
-
 1 
 1.1 
 1.2 
@@ -76,54 +73,36 @@ Abkürzungsverzeichnis: ........................................................
 4.4 
 4.5 
 4.6 
-
 Vorbemerkungen .................................................................................................. 1 
-
 Organisatorischer Hinweis ...................................................................................... 1 
-
 Ziel der Eisenbahnunfalluntersuchung .................................................................... 2 
-
 Zusammenfassung ................................................................................................ 3 
-
 Kurzbeschreibung des Ereignisses ........................................................................... 3 
-
 Folgen ...................................................................................................................... 3 
-
 Ursachen .................................................................................................................. 3 
-
 Sicherheitsempfehlungen ....................................................................................... 3 
-
 Allgemeine Angaben ............................................................................................. 4 
-
 Lage und Beschreibung des Ereignisortes ............................................................... 4 
-
 Beteiligte und Mitwirkende ..................................................................................... 5 
-
 Äußere Bedingungen ............................................................................................... 5 
-
 Todesopfer, Verletzte und Sachschäden ................................................................. 6 
-
 Untersuchungsprotokoll ....................................................................................... 8 
-
 Zusammenfassung von Aussagen und Stellungnahmen ......................................... 8 
-
 Notfallmanagement ................................................................................................ 8 
-
 Untersuchung der bautechnischen Infrastruktur ................................................... 8 
-
 Untersuchung der Leit- und Sicherungstechnik (LST) ............................................. 9 
 Untersuchung der betrieblichen Abläufe des Infrastrukturbetreibers ................... 9 
 Untersuchung der betrieblichen Abläufe der EVU ................................................ 10 
 I 
+
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 26.01.2014, Bf Bitterfeld – Bf Wolfen 
 4.6.1 
 Betriebliche Handlungen des Tf für die Fahrt von Dresden-Friedrichstadt nach 
-
 Leipzig-Engelsdorf ................................................................................................. 11 
-
 4.6.2 
 Betriebliche-/ technische Handlungen des Wgm im Bf Leipzig-Engelsdorf .......... 11 
 4.6.3 
@@ -134,23 +113,17 @@ Betriebliche Handlungen des Tf ab Leipzig-Engelsdorf ...........................
 5.2 
 6 
 7 
-
 Untersuchung von Fahrzeugen ............................................................................. 14 
-
 Auswertung ........................................................................................................ 21 
-
 Ereignisrekonstruktion .......................................................................................... 21 
-
 Bewertung und Schlussfolgerung .......................................................................... 22 
-
 Bisher getroffene Maßnahmen ........................................................................... 24 
-
 Sicherheitsempfehlungen ................................................................................... 24 
-
 I.  Änderungsverzeichnis:	
 Änderung 
 Stand 
 II 
+
  
  
  
@@ -160,40 +133,30 @@ II
 	
 	
 Untersuchungsbericht 
+
 Zugentgleisung, 26.01.2014, Bf Bitterfeld – Bf Wolfen 
 II.  Abbildungsverzeichnis:	
-
 Abbildung 1: Lageplan ................................................................................................................ 4 
-
 Abbildung 2: Gleislageskizze ...................................................................................................... 5 
-
 Abbildung 3: Zug GA 49382 mit entgleisten Fahrzeugen ........................................................... 6 
-
 Abbildung 4: Weiche 2811 im Bf Wolfen ................................................................................... 7 
-
 Abbildung 5: Grafische Darstellung des Fahrtverlaufs des GA 49382 ..................................... 14 
-
 Abbildung 6: Radsatzlagergehäuse mit beschädigtem Zylinderrollenlager ............................. 16 
-
 Abbildung 7: Prinzipskizze des Radsatzlagers .......................................................................... 18 
-
 Abbildung 8: Schnitt durch das beschädigte Radsatzlager ...................................................... 19 
-
 Abbildung 9: Deformierter und gebrochener Wellenschenkel ................................................ 20 
-
 III.  Tabellenverzeichnis:	
-
 Tabelle 1: Übersicht der geschätzten Schadenshöhe ................................................................ 6 
-
 Tabelle 2: Technische Daten Wagen 43 87 4272 721-9 ........................................................... 15 
-
 III 
+
  
  
  
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 26.01.2014, Bf Bitterfeld – Bf Wolfen 
 IV.  Abkürzungsverzeichnis:	
 AEG 
@@ -233,10 +196,12 @@ Triebfahrzeug
 Verzeichnis der zulässigen Geschwindigkeiten 
 Wagenmeister 
 IV 
+
  
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 26.01.2014, Bf Bitterfeld – Bf Wolfen 
 1  Vorbemerkungen	
 Das Kapitel Vorbemerkungen befasst sich mit allgemeinen Informationen zur Bundesstelle für 
@@ -261,9 +226,11 @@ die BEU über.
 Da das gefährliche Ereignis vor der Errichtung der BEU eintrat, wurden bestimmte Untersuchungshandlungen noch durch die EUB vorgenommen, auf die im Bericht entsprechend verwiesen wird. Alle während der Untersuchung gewonnenen Erkenntnisse wurden kontinuierlich mit den betroffenen Eisenbahnen und der Sicherheitsbehörde geteilt und einzelfallbezogene Sicherheitsempfehlungen ausgesprochen. 
 Näheres hierzu ist im Internet unter www.beu.bund.de eingestellt. 
 Seite 1 von 24 
+
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 26.01.2014, Bf Bitterfeld – Bf Wolfen 
 1.2  Ziel	der	Eisenbahnunfalluntersuchung	
 Ziel und Zweck der Untersuchungen ist es, die Ursachen von gefährlichen Ereignissen aufzuklären und hieraus Hinweise zur Verbesserung der Sicherheit abzuleiten. Untersuchungen der 
@@ -273,11 +240,13 @@ Die Untersuchung umfasst die Sammlung und Auswertung von Informationen, die Erar
 von Schlussfolgerungen einschließlich der Feststellung der Ursachen und gegebenenfalls die 
 Abgabe von Sicherheitsempfehlungen. Die Vorschläge der Untersuchungsstelle zur Vermeidung von Unfällen und Verbesserung der Sicherheit im Eisenbahnverkehr werden der Sicherheitsbehörde und, soweit erforderlich, anderen Stellen und Behörden oder anderen Mitgliedstaaten der EU in Form von Sicherheitsempfehlungen mitgeteilt. 
 Seite 2 von 24 
+
  
  
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 26.01.2014, Bf Bitterfeld – Bf Wolfen 
 2  Zusammenfassung	
 Das Kapitel befasst sich mit einer kurzen Darstellung des Ereignisherganges, den Folgen und 
@@ -296,11 +265,13 @@ Folge zu einem Radsatzwellenschenkelbruch sowie dem Verlust des Radsatzlagers.
 2.4  Sicherheitsempfehlungen	
 Es wurden keine Sicherheitsempfehlungen ausgesprochen. 
 Seite 3 von 24 
+
  
  
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 26.01.2014, Bf Bitterfeld – Bf Wolfen 
 3  Allgemeine	Angaben	
 Das Kapitel beinhaltet allgemeine Angaben zur Beschreibung des Ereignisortes und der relevanten  Bahnanlagen.  Des  Weiteren  werden  die  an  der  Unfalluntersuchung  beteiligten  und 
@@ -315,11 +286,13 @@ und digitalem Zugfunk Global System for Mobile Communications – Rail (GSM-R) a
 Abbildung 1: Lageplan1 
 1 Quelle:  Geobasisdaten: © GeoBasis-DE / BKG [2021], bearbeitet durch BEU 
 Seite 4 von 24 
+
  
  
  
                                                        
 Untersuchungsbericht 
+
 Zugentgleisung, 26.01.2014, Bf Bitterfeld – Bf Wolfen 
 Der in der folgenden Abbildung dargestellte Lageplan zeigt den Ablauf der Zugfahrt von der 
 Stelle des Verlustes des Radlagergehäuses etwa in km 46,5 bis zum ereignisbedingten Halt ca. 
@@ -339,10 +312,12 @@ zeitweise verbunden mit Schneefall. Daher können Einflüsse aus den äußeren B
 insbesondere für das Erwärmungs- und Abkühlverhalten des Radsatzlagers und damit auf die 
 Feststellungen  bei  der  Überprüfung  des  Fahrzeuges  im  Bf  Leipzig-Engelsdorf  nicht  ausgeschlossen werden. 
 Seite 5 von 24 
+
  
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 26.01.2014, Bf Bitterfeld – Bf Wolfen 
 3.4  Todesopfer,	Verletzte	und	Sachschäden	
 Bei dem Ereignis traten keine Personenschäden ein: 
@@ -363,21 +338,25 @@ Zuges aufgenommen.
 Abbildung 3: Zug GA 49382 mit entgleisten Fahrzeugen 
 Die Abbildung 4 zeigt das Ende des Zuges, in Fahrtrichtung fotografiert, etwa in Höhe der Weiche 2811 im Bf Wolfen. Die Gleise 2 und 3 wurden durch die Entgleisung des siebten Fahrzeuges im Zugverband gegeneinander verschoben. Der Oberleitungsmast 43-21a ca. in km 43,6 
 Seite 6 von 24 
+
  
  
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 26.01.2014, Bf Bitterfeld – Bf Wolfen 
 wurde ebenso wie der Oberleitungsmast 43-15 ca. in km 43,4 (in der Abbildung nicht erkennbar) beschädigt. 
 Abbildung 4: Weiche 2811 im Bf Wolfen 
 Seite 7 von 24 
+
  
  
  
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 26.01.2014, Bf Bitterfeld – Bf Wolfen 
 4  Untersuchungsprotokoll	
 In diesem Kapitel werden die ermittelten Ergebnisse zu einzelnen in Zusammenhang mit dem 
@@ -394,30 +373,25 @@ Verfahrensweise verständigt. Für die DB Netz AG gelten die entsprechenden Bran
 Unregelmäßigkeiten oder Verzögerungen in Bezug auf das Einleiten von Rettungsmaßnahmen 
 wurden der BEU im Rahmen der Unfalluntersuchung nicht bekannt. 
 4.3  Untersuchung	der	bautechnischen	Infrastruktur	
-
-In dem für die Zugentgleisung relevanten Gleisabschnitt ca. von km 45,9 bis zur Entgleisungs-
-
-stelle ca. in km 45,1 waren augenscheinlich keine Gleislagefehler zu erkennen. Eine unbelastete Messung mit dem System Krabbe, die durch die EUB veranlasst wurde, bestätigte den 
+In dem für die Zugentgleisung relevanten Gleisabschnitt ca. von km 45,9 bis zur Entgleisungsstelle ca. in km 45,1 waren augenscheinlich keine Gleislagefehler zu erkennen. Eine unbelastete Messung mit dem System Krabbe, die durch die EUB veranlasst wurde, bestätigte den 
 regelgerechten Unterhaltungszustand der bautechnischen Infrastruktur und ergab keine unzulässigen Abweichungen von der Solllage des Streckengleises Hp Greppin – Bf Wolfen. Erste 
 Entgleisungsspuren fanden sich ca. in km 45,1.  
 Die zwischen den Betriebsstellen Hp Geppin und Bf Wolfen sowie im Bf Wolfen festgestellten 
 Schäden an der bautechnischen Infrastruktur, insbesondere an den Gleisanlagen und an den 
 Weichen 2812 und 2811 wurden ausschließlich als Folgen des Ereignisses identifiziert und als 
-
 Ereignisursache  ausgeschlossen.  Die  bautechnische  Infrastruktur  hatte  keinen  ursächlichen 
-
 Einfluss auf die Entstehung des Ereignisses. 
 Seite 8 von 24 
+
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 26.01.2014, Bf Bitterfeld – Bf Wolfen 
-4.4  Untersuchung	der	Leit‐	und	Sicherungstechnik	(LST)	
+4.4  Untersuchung	der	Leit-	und	Sicherungstechnik	(LST)	
 Auf dem Laufweg der Zugfahrt GA 49382 von Bf Děčin východ nach Bf Wolfen befanden sich 
 zwei Heißläuferortungsanlagen (HOA) je eine in Obervogelgesang und Machern. Beide HOA 
-
 detektierten jeweils für die an 26. Stelle [Anm.: sechste Wagen] laufende Achse des Zuges, im 
-
 Vergleich zu den anderen Radsatzlagern, erhöhte Temperaturen, wobei an der HOA Vogelsang 
 mit 49 °C die Alarmtemperatur von 66 °C für Warmläufer nicht überschritten wurde. Bei der 
 Vorbeifahrt des Zuges an der HOA Machern wurde ein Warmalarm für die 26. Achse [Anm.: 
@@ -430,27 +404,21 @@ Ursprünglich wurde der Zug am 25.01.2014 in Trnava (Slowakische Republik) gebil
 dort fuhr er über Lanžhot, wo er an das tschechische Unternehmen ČDC übergeben wurde, 
 weiter  nach  Brno  (Tschechische  Republik).  Auf  dem  Wege  von  Lanžhot  nach  Brno  wurden 
 durch  die  Detektoranlage  in  Vojkovice  (Tschechische  Republik)  Unregelmäßigkeiten  am 
-
-27. Radsatz ermittelt. Im Bf Brno-Maloměřice wurde der detektierte Radsatz durch einen Wa-
-
-genmeister (Wgm) untersucht, der dabei Flachstellen feststellte, die gemäß dem am Fahrzeug 
-
+27. Radsatz ermittelt. Im Bf Brno-Maloměřice wurde der detektierte Radsatz durch einen Wagenmeister (Wgm) untersucht, der dabei Flachstellen feststellte, die gemäß dem am Fahrzeug 
 angebrachten Zettel Muster K kleiner als 30 mm gewesen sein sollen. Daraufhin wurde die 
-
 Bremse  am  betreffenden  Radsatz  ausgeschaltet.  Der  Zettel  Muster  K  war  in  tschechischer 
-
 Sprache ausgefüllt und zweisprachig (tschechisch und deutsch) mit der Bemerkung „Nicht wieder beladen/nach Entladung zur Reparatur“ versehen. Danach fuhr der Zug weiter nach Děčin 
 východ,  wo  er  an  die  DB  Schenker  Rail  AG  übergeben  wurde  und  unter  der  Zugnummer 
 GA 49382 weiterfuhr. Auf slowakischem und tschechischem Territorium hatte das später entgleiste Fahrzeug in verschiedenen Zügen zuvor eine Strecke von ca. 500 km zurückgelegt. 
-
 Die  Zugfahrt  GA  49382  erfolgte  am  Ereignistag  von  Děčin  východ  bis  zur  Ereignisstelle  mit 
-
 mehrfachem Streckenwechsel. Der Betrieb auf den Abschnitten, auf denen für das Ereignis 
 relevante betriebliche Handlungen erfolgten, wurde von verschiedenen Fdl nach den Regelungen der Ril 408 – Züge fahren und Rangieren – durchgeführt. 
 Seite 9 von 24 
+
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 26.01.2014, Bf Bitterfeld – Bf Wolfen 
 Die HOA Obervogelgesang registrierte ca. 40 km nach Beginn der Zugfahrt für den 26. Radsatz 
 eine erhöhte Temperatur, die jedoch die Alarmtemperatur nicht erreichte und somit nicht zu 
@@ -460,9 +428,7 @@ Veranlassung, diesen Radsatz näher zu untersuchen.
 Nach  der  Weiterfahrt  des  Zuges  lief  auf  dem  Bedienplatz  des  zuständigen  Fdl  Wurzen  am 
 26.01.2014 um 12:42:46 Uhr ein Warmalarm der HOA Machern für den 26. Radsatz am Zug 
 GA 49382 auf. Um 12:44:04 Uhr informierte der Fdl den Triebfahrzeugführer (Tf) des Zuges 
-
 mittels des GSM-R-Zugfunks unter Angabe des detektierten Radsatzes darüber und wies ihn 
-
 an, nach Bf Leipzig-Engelsdorf weiterzufahren um dort eine Überprüfung vornehmen zu lassen. Gegen 12:51 Uhr kam der Zug im Bf Leipzig-Engelsdorf an. Er hatte seit dem Lokwechsel 
 in Dresden-Friedrichstadt ca. 107 km zurückgelegt. Es erfolgte erneut ein Zugpersonalwechsel. Aus den GSM-R-Zugfunk-Gesprächen ist zu entnehmen, dass der Tf eine Überprüfung des 
 Radsatzes durch einen Wgm der DB Schenker AG hatte vornehmen lassen. Um 13:31:03 Uhr 
@@ -472,26 +438,25 @@ Nach weiteren ca. 44 km Fahrt meldete sich der zuständige Fdl Dessau 1 um 14:27
 den GSM-R-Zugfunk beim Tf des GA 49382 und informierte diesen über mehrere Auffahrmeldungen für Weichen im Bf Wolfen. Der Tf erklärte, gegenüber dem Fdl, dass er Luftverlust 
 gehabt habe und daher am Bahnsteig im Bf Wolfen stehe. Daraufhin wies der Fdl den Tf an, 
 stehen zu bleiben und die Ursache für den Luftverlust zu ergründen. Um 14:29:27 Uhr meldete 
-
-sich der Tf beim Fdl Dessau 1 zurück mit der Information über die Entgleisung. Zu diesem Zeit-
-
-punkt hatte der Fdl die Gleise im Bf Wolfen bereits gesperrt. 
+sich der Tf beim Fdl Dessau 1 zurück mit der Information über die Entgleisung. Zu diesem Zeitpunkt hatte der Fdl die Gleise im Bf Wolfen bereits gesperrt. 
 Das Handeln der am Ereignis beteiligten Mitarbeiter im Bahnbetrieb hatte keinen erkennbaren ursächlichen Einfluss auf die Entstehung des Ereignisses. 
 4.6  Untersuchung	der	betrieblichen	Abläufe	der	EVU	
 Die Zugfahrt GA 49382 wurde am 26.01.2014 von Děčin východ bis zum Ereignisort durch die 
 DB  Schenker  AG  durchgeführt.  Unterlagen  zur  Übergabe/Übernahme  des  Zuges  durch  die 
 Seite 10 von 24 
+
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 26.01.2014, Bf Bitterfeld – Bf Wolfen 
 DB Schenker Rail AG in Děčin východ lagen der EUB nicht vor. Somit war nicht erkennbar, ob 
 und inwieweit bei der Übernahme des Zuges eine genauere Überprüfung des Zustandes des 
 bezettelten sechsten Fahrzeugs im Zugverband erfolgte. 
 An den weiteren für das Ereignis relevanten betrieblichen Handlungen waren zwei Tf und ein 
 Wgm der DB Schenker Rail AG beteiligt. 
-4.6.1  Betriebliche	 Handlungen	 des	 Tf	 für	 die	 Fahrt	 von	 Dresden‐Friedrichstadt	
-nach	Leipzig‐Engelsdorf	
+4.6.1  Betriebliche	 Handlungen	 des	 Tf	 für	 die	 Fahrt	 von	 Dresden-Friedrichstadt	
+nach	Leipzig-Engelsdorf	
 Der  Tf,  der  die  Zugleistung  von  Dresden-Friedrichstadt  nach  Leipzig-Engelsdorf  ausführte, 
 übernahm den Zug GA 49382 im Bf Dresden-Friedrichstadt. Gemäß seiner Aussage wurde dort 
 ein Tfz-Wechsel und eine vereinfachte Bremsprobe durchgeführt. Während der Zugfahrt in 
@@ -502,7 +467,7 @@ Der Tf stellte bei seiner Untersuchung ein warmes, aber nicht heißes Lager am 2
 fest. Er stellte einen Störmeldezettel aus und übergab diesen dem Wgm, der mit der Untersuchung des Fahrzeuges beauftragt worden war. Danach war er bei der anschließenden Untersuchung durch den Wgm zeitweise anwesend. Er übergab den Zug dann an den Tf welcher die 
 Zugfahrt fortsetzte. 
 Die betrieblichen Handlungen des ersten Tf hatten keinen erkennbaren Einfluss auf den Eintritt des Ereignisses. 
-4.6.2  Betriebliche‐/	technische	Handlungen	des	Wgm	im	Bf	Leipzig‐Engelsdorf	
+4.6.2  Betriebliche-/	technische	Handlungen	des	Wgm	im	Bf	Leipzig-Engelsdorf	
 Der Wgm des EVU, der die Untersuchung an dem Fahrzeug vornahm, wurde in den Jahren 
 1976 bis 1979 als Wgm ausgebildet und war seit1979 als Wgm tätig. Hinweise auf Unregelmäßigkeiten hinsichtlich des Einsatzes des Wgm ergab die Untersuchung nicht. 
 Aufgrund einer durch die HOA Machern detektierten Meldung, einer Warmanzeige für den 
@@ -511,9 +476,11 @@ der Ril 936.1301, Abschnitt 11, zu untersuchen. Dies geschah bei einem Halt im B
 Engelsdorf durch den Wgm im Beisein des Tf. Die Entfernung zwischen der HOA Machern und 
 Bf Leipzig-Engelsdorf betrug ca. 14,1 km. 
 Seite 11 von 24 
+
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 26.01.2014, Bf Bitterfeld – Bf Wolfen 
 Gemäß der Ril 936.1311 musste der Wgm am durch die HOA detektierten Radsatz prüfen, ob 
 er das Lagergehäuse mit dem Handrücken berühren konnte und ob Oxidationsspuren erkennbar  waren.  Das  erwärmte  Radsatzlager  wurde  durch  den  Wgm  gemäß  dessen  Aussage  erkannt. Er stellte eine erhöhte Temperatur am Lager fest, konnte es aber mit dem Handrücken 
@@ -521,10 +488,7 @@ berühren. Oxidationsspuren nahm er nicht wahr.
 Gemäß  Ril  936.1311,  Code  1.8.3,  Heißes  Lager,  wäre  das  Fahrzeug  auszusetzen  gewesen, 
 wenn die Temperatur des Lagers so hoch gewesen wäre, dass man das Lagergehäuse nicht 
 mehr mit dem Handrücken hätte berühren können oder wenn Oxidationsspuren wahrnehmbar gewesen wären. Gemäß der Aussage des Wgm und des Tf trafen diese Kriterien bei dem 
-untersuchten Lagergehäuse nicht zu. Auch andere Hinweise auf eine unzulässig starke Erwär-
-
-mung des Radsatzlagers, etwa ein Fettaustritt aus dem Radlagerdeckel oder an der Rückseite 
-
+untersuchten Lagergehäuse nicht zu. Auch andere Hinweise auf eine unzulässig starke Erwärmung des Radsatzlagers, etwa ein Fettaustritt aus dem Radlagerdeckel oder an der Rückseite 
 des Radlagers, gab es laut Aussage des Wgm nicht. 
 Eine Überprüfung, ob die auf tschechischem Territorium festgestellte Flachstelle < 30 mm die 
 zulässige  Größe  laut  dem  Allgemeinen  Vertrag  für  die  Verwendung  von  Güterwagen  (AVV) 
@@ -532,19 +496,18 @@ zulässige  Größe  laut  dem  Allgemeinen  Vertrag  für  die  Verwendung  von
 Durch den Wgm wurde nach der  Überprüfung des durch die  HOA detektierten Fahrzeuges 
 entschieden, dass dieses im Zugverband verbleiben sollte. Vor der Weiterfahrt des Zuges markierte der Wgm den von erwärmten Radsatz am Längsträger des Wagens mit zwei nach unten 
 weisenden Pfeilen. Er ergänzte zudem die fehlende Bezettelung auf der linken Seite des Fahrzeuges mit einem Zettel Muster R1. 
-4.6.3  Betriebliche	Handlungen	des	Tf	ab	Leipzig‐Engelsdorf	
+4.6.3  Betriebliche	Handlungen	des	Tf	ab	Leipzig-Engelsdorf	
 Der Tf übernahm den Zug im Bf Leipzig-Engelsdorf, nachdem die Untersuchung des betreffenden Radsatzlagers am sechsten Fahrzeug bereits erfolgt war. 
 Personenbezogene Daten zum Tf des Zuges GA 49382 wurden durch die BEU nicht erhoben, 
-
-da ein direkter ursächlicher Einfluss von dessen Handlungen auf den Ereigniseintritt nicht er-
-
-kennbar war. 
+da ein direkter ursächlicher Einfluss von dessen Handlungen auf den Ereigniseintritt nicht erkennbar war. 
 Die betrieblichen Handlungen des Tf spiegelten sich in den Aufzeichnungen der elektronischen 
 Fahrtenregistrierung (EFR) wider. Die im Folgenden aufgeführten Zeiten sind die auf der Datenspeicherkassette gespeicherten Systemzeiten. 
 Seite 12 von 24 
+
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 26.01.2014, Bf Bitterfeld – Bf Wolfen 
 Aus den EFR-Daten ist ersichtlich, dass der Zug nach dem Lokwechsel im Bf Dresden-Friedrichstadt um 11:21:26 Uhr abfuhr. Die Fahrt erfolgte vom Führerstand 2, die Zuglänge war mit 
 610  m,  die  Mindestbremshundertstel  mit  70,  die  Bremsart  mit  4  und  die  maximale  Zuggeschwindigkeit mit 100 km/h eingegeben. Die vorgegebene Höchstgeschwindigkeit wurde im 
@@ -560,45 +523,38 @@ km 46,5  gefunden  wurde,  noch  die  Entgleisung  des  sechsten  Wagens  ca.  i
 99 km/h zu einer Reduzierung der Geschwindigkeit des Zuges führten. Für den Tf machten sich 
 also weder der  Verlust des Radsatzlagers noch die Entgleisung im Fahrverhalten des Zuges 
 bemerkbar. Eine abrupte Geschwindigkeitsreduzierung setzte ca. in km 43,49 ein. Der siebte 
-Wagen hatte zu diesem Zeitpunkt etwa die Weiche 2811 im Bf Wolfen, ca. bei km 43,75, befahren und war entgleist. Es ist also davon auszugehen, dass diese Folgeentgleisung zur Ge-
-
-schwindigkeitsminderung bis zum Stillstand führte. Der Druckabfall unter 2,2 bar in der Haupt-
-
-luftleitung, der etwa um 14:26:32 Uhr ca. in km 43,12 bei einer Geschwindigkeit von 28 km/h 
+Wagen hatte zu diesem Zeitpunkt etwa die Weiche 2811 im Bf Wolfen, ca. bei km 43,75, befahren und war entgleist. Es ist also davon auszugehen, dass diese Folgeentgleisung zur Geschwindigkeitsminderung bis zum Stillstand führte. Der Druckabfall unter 2,2 bar in der Hauptluftleitung, der etwa um 14:26:32 Uhr ca. in km 43,12 bei einer Geschwindigkeit von 28 km/h 
 eintrat, war vermutlich auf die Zugtrennung zwischen dem sechsten und siebten Fahrzeug im 
 Zugverband zurückzuführen. Eine Schnellbremsung leitete der Tf, wie aus den GSM-R Gesprächen hervorgeht, nicht ein. 
 Seite 13 von 24 
+
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 26.01.2014, Bf Bitterfeld – Bf Wolfen 
 Abbildung 5: Grafische Darstellung des Fahrtverlaufs des GA 49382 
-
 Die betrieblichen Handlungen des Tf hatten keinen erkennbaren Einfluss auf den Eintritt des 
-
 Ereignisses. Aufgrund der Tatsache, dass im Fahrverhalten des Zuges weder nach dem Verlust 
 des Radsatzlagers noch nach der Entgleisung des sechsten Fahrzeuges bis zur Einfahrt in den 
 Bf Wolfen wesentliche Änderungen eintraten, erkannte der Tf die Entgleisung nicht. Daher 
-erfolgten durch ihn keine Handlungen. welche die Folgeentgleisungen und die daraus resul-
-
-tierenden Schäden an den Fahrzeugen und an der Infrastruktur hätten vermeiden können. 
-
+erfolgten durch ihn keine Handlungen. welche die Folgeentgleisungen und die daraus resultierenden Schäden an den Fahrzeugen und an der Infrastruktur hätten vermeiden können. 
 4.7  Untersuchung	von	Fahrzeugen	
 Entsprechend den Angaben des Bremszettels und der Wagenliste bestand der Autotransportzug GA 49382 aus einem Tfz, vier beladenen Autotransportwagen der Gattung Laaers, zwei 
 beladenen Autotransportwagen der Gattung Laaeks sowie 15 beladenen Autotransportwagen 
-
 der Gattung Laeks. Bei dem Tfz handelte es sich um eine Elektrolokomotive der Baureihe 155. 
-
 Halter des Tfz war die DB Schenker Rail AG. Der Zug hatte eine Gesamtlänge von 601 m. Das 
 Gesamtzuggewicht lag bei 1.010 t, das Gesamtbremsgewicht bei 707 t. Der GA 49382 verfügte 
 über 70 Bremshundertstel, gegenüber 69 Mindestbremshundertstel. Bei den an sechster bis 
 achter Stelle laufenden, entgleisten Wagen handelte es sich um drei Fahrzeuge der Gattung 
 Laeks mit den Fahrzeugnummern: 43 87 4272 721-9, 23 87 4272 308-9 und 23 87 4270 725-6. 
 Seite 14 von 24 
+
  
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 26.01.2014, Bf Bitterfeld – Bf Wolfen 
 Die in der folgenden Tabelle enthaltenen Daten beziehen sich auf das an sechster Stelle im 
 Zugverband laufende Fahrzeug, an dem der Schaden auftrat, welcher für das Ereignis ursächlich war. 
@@ -631,25 +587,19 @@ KE-GP
 Tabelle 2: Technische Daten Wagen 43 87 4272 721-9 
 Die letzte Revision des  Fahrzeuges vor dem  Ereignis wurde im Zeitraum  vom Mai 2010 bis 
 September 2010 bei der in Frankreich ansässigen Firma SOGEEFER im Auftrag des Fahrzeughalters durchgeführt. 
-Im Rahmen dieser Revision wurden alle drei Radsätze des Fahrzeuges ausgetauscht. Der mitt-
-
-lere  Radsatz  hatte  gemäß  dem  Revisionsprotokoll  die  Nummer  495428,  war  hergestellt  im 
-
+Im Rahmen dieser Revision wurden alle drei Radsätze des Fahrzeuges ausgetauscht. Der mittlere  Radsatz  hatte  gemäß  dem  Revisionsprotokoll  die  Nummer  495428,  war  hergestellt  im 
 Monat Oktober 2004 und mit Radsatzlagern des Typs ISNR WE7 ausgerüstet. Die Radsatzlager 
 waren mit zwei nebeneinander auf den Achsschenkeln angeordneten Zylinderrollenlagern der 
-Typen WJR 130x240x80 (vorderes Lager) und WJ 130x240x80 (hinteres Lager) aus französi-
-
-scher  Produktion  ausgestattet.  Gemäß  den  Unterlagen  war  der  Radsatz  in  einem  anderen 
-
+Typen WJR 130x240x80 (vorderes Lager) und WJ 130x240x80 (hinteres Lager) aus französischer  Produktion  ausgestattet.  Gemäß  den  Unterlagen  war  der  Radsatz  in  einem  anderen 
 Fahrzeug gelaufen, bevor er in das Fahrzeug Nr. 43 87 4272 721-9 eingebaut wurde. Das Protokoll zur Revision des Radsatzes ist datiert vom 15.09.2010. Im Rahmen der Revision wurde 
-
 eine Reprofilierung des Laufkranzes vorgenommen. Der Laufkranzdurchmesser betrug danach 
-
 an beiden Radscheiben 791 mm. Ein Austausch von Radsatzlagern erfolgte am mittleren Radsatz gemäß dem Fristprotokoll nicht. 
 Seite 15 von 24 
+
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 26.01.2014, Bf Bitterfeld – Bf Wolfen 
 Im Rahmen der Untersuchung am Unfallort wurde festgestellt, dass an diesem Radsatz des 
 Fahrzeuges Nr. 43 87 4272 721-9 das in Fahrtrichtung rechte Radsatzlager fehlte. Es wurde 
@@ -657,9 +607,7 @@ neben der Strecke etwa auf Höhe des km 46,5 gefunden. Die folgende Abbildung ze
 Radsatzlager mit Sicht auf das hintere Zylinderrollenlager in dem Zustand, wie es aufgefunden 
 wurde. 
 Der Käfig des hinteren Lagers, der die Wälzkörper gleichmäßig auf dem Umfang der Lagerringe 
-
 verteilen und in Position halten sollte, war zerstört. Dadurch hatten sich die Zylinderrollen auf 
-
 dem Umfang einseitig in Ihrer Lage verschoben. Infolge dessen befand sich der Innenring des 
 Lagers nicht mehr in seiner zentrierten Solllage. Er war stark deformiert und berührte stellenweise den Außenring. Am in Einbaulage oberen Teil war er teilweise ausgewalzt., was auf ein 
 Fließverhalten des Materials unter hoher Hitzeeinwirkung mit Temperaturen zwischen 800 °C 
@@ -667,56 +615,45 @@ und 1.200 °C schließen ließ. Das Radsatzlagergehäuse erschien weitgehend int
 Spuren von Hitzeeinwirkung, wie oberflächliche Korrosion und Farbabbrand auf. 
 Abbildung 6: Radsatzlagergehäuse mit beschädigtem Zylinderrollenlager 
 Seite 16 von 24 
+
  
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 26.01.2014, Bf Bitterfeld – Bf Wolfen 
 Nach der Entgleisung wurde die DB Systemtechnik GmbH durch die DB Schenker Rail AG mit 
 einer Untersuchung des Radsatzes mit der Radsatz-Nr. 495428 beauftragt. Zu diesem Zweck 
 wurde  der  Radsatz  einschließlich  des  Einachsfahrwerkes  zur  DB  Fahrzeuginstandhaltung GmbH Werk Paderborn überführt. Dort fand im Beisein der EUB am 17.03.2014 die Untersuchung Radsatzes durch Mitarbeiter der DB Systemtechnik GmbH statt. Der daraus resultierende  Untersuchungsbericht  Nr.14-20742-T.TVI22-054-002  wurde  der  EUB  durch  die 
 DB Schenker Rail AG  zur  Verfügung  gestellt.  Nachfolgend  wird  bezüglich  der  Feststellungen 
 am untersuchten Radsatz auf diesen Untersuchungsbericht Bezug genommen. 
-Im Rahmen der Untersuchung wurde der Radsatz vermessen. Der Laufkranzdurchmesser betrug 788 mm auf beiden Radscheiben gegenüber 791 mm laut dem Protokoll der letzten Revi-
-
-sion.  Dies  ließ  auf  eine  Laufleistung  von  100.000  bis  200.000  km  seit  der  letzten  Revision 
-
+Im Rahmen der Untersuchung wurde der Radsatz vermessen. Der Laufkranzdurchmesser betrug 788 mm auf beiden Radscheiben gegenüber 791 mm laut dem Protokoll der letzten Revision.  Dies  ließ  auf  eine  Laufleistung  von  100.000  bis  200.000  km  seit  der  letzten  Revision 
 schließen. Die bei der Untersuchung durch den Wgm in Brno festgestellten Flachstellen schlugen sich in Abweichungen an den Umfängen der Radscheiben des Radsatzes nieder. Sie wurden mit 0,8 mm auf Seite mit dem intakten Radsatzlager, nachfolgend A-Seite genannt, und 
 mit 6,5 mm auf der Seite mit dem beschädigten Radlager, nachfolgend als B-Seite bezeichnet, 
 gemessen. Im Bereich der ausgeprägten singulären Abplattung, die auf der Lauffläche der B-
 Seite festgestellt wurde und deren Länge ca. 185 mm betrug, wurde der Durchmessereinbruch 
-
 mit ca. 5,5 mm ermittelt. Diese singuläre Abplattung überschritt die Grenzlänge für Fehler auf 
-
 der Lauffläche gemäß des AVV um mehr als das Dreifache. 
 In der Folge wurden Untersuchungen an beiden Radsatzlagern des Radsatzes durchgeführt, 
 wobei das noch intakte Lager auf der in Fahrtrichtung des entgleisten Wagens linken Seite als 
 Referenzobjekt begutachtet wurde. 
-
-Die Schmiermittelmenge wurde für das intakte Radsatzlager mit 320 g ermittelt und liegt da-
-
-mit  deutlich  unter  den 600  g  entsprechend  dem  Regelwerk  der  DB  AG.  Die  für  die  hier  im 
-
+Die Schmiermittelmenge wurde für das intakte Radsatzlager mit 320 g ermittelt und liegt damit  deutlich  unter  den 600  g  entsprechend  dem  Regelwerk  der  DB  AG.  Die  für  die  hier  im 
 Einsatz befindlichen Radsatzlager französischer Bauart vorgeschriebene Schmiermittelmenge 
 war aus den durch den Fahrzeughalter GEFCO vorgelegten Unterlagen nicht ersichtlich. Somit 
-
 konnte nicht ermittelt werden, ob die im Lager enthaltene Schmiermittelmenge den Vorgaben 
-
 des Herstellers entsprach. 
-
 Die im zerstörten Radsatzlager vorhandene Schmiermittelmenge war nicht mehr zu ermitteln, 
-
 da die ereignisbedingte Wärmeentwicklung in dem Lager zu einer vollständigen Umsetzung 
 des Schmiermittels führte. 
 Seite 17 von 24 
+
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 26.01.2014, Bf Bitterfeld – Bf Wolfen 
 Das Radsatzlager auf der unbeschädigten Seite des Radsatzes wies Schädigungen auf, die, gemäß dem Untersuchungsbericht, sehr wahrscheinlich auf eine nicht ordnungsgemäße Montage der Lagereinheit zurückzuführen gewesen sein sollen. Der Wellenverschluss war verformt 
-
 und  nicht  ordnungsgemäß  befestigt.  Die  Schraubenverbindungen  der  drei  Schrauben  M  20 
-
 waren lose. Damit wäre die erforderliche Vorspannkraft zur Sicherung des Lagers nicht gewährleistet gewesen. Die Schrauben kamen von unterschiedlichen Herstellern und waren um 
 zehn Millimeter kürzer als die üblicherweise verwendeten. Zudem waren die Spaltmaße zwischen den Innenringen der Wälzlager sowie zwischen dem Labyrinthring und dem hinteren 
 Innenring größer, als laut dem Instandhaltungsregelwerk erlaubt. Die in der folgenden Abbildung dargestellte Prinzipskizze verdeutlicht den Aufbau der Lagereinheit. 
@@ -724,16 +661,16 @@ Abbildung 7: Prinzipskizze des Radsatzlagers2
 Bei der Bewertung der festgestellten Abweichungen vom Regelwerk ist zu berücksichtigen, 
 dass der Radsatz infolge des Verlustes eines Radsatzlagers für eine Fahrstrecke von mehr als 
 zwei Kilometern bei einer Geschwindigkeit von mindestens 90 km/h einseitig nicht abgestützt 
-
 war, was nicht nur die Belastung für das intakte Lager erhöhte, sondern durch unbeabsichtigte 
-
 2 Quelle DB Schenker Rail AG, bearbeitet durch die BEU 
 Seite 18 von 24 
+
  
  
  
                                                        
 Untersuchungsbericht 
+
 Zugentgleisung, 26.01.2014, Bf Bitterfeld – Bf Wolfen 
 Bewegungen  des  Wagenkastens  auch  Lasteinträge  in  Längsrichtung  der  Radsatzwelle  bewirkte, für die ein Radsatzlager nicht ausgelegt ist. Es kann also nicht völlig ausgeschlossen 
 werden, dass Einflüsse aus dem Ereignis zu den nachträglich festgestellten Unzulänglichkeiten 
@@ -741,33 +678,26 @@ am intakten Radsatzlager führten oder hinsichtlich deren Größenordnung beitru
 Zur Untersuchung des beschädigten Radsatzlagers musste das Gehäuse aufgetrennt werden. 
 Danach  ergab  sich  das  in  der  folgenden  Abbildung  erkennbare  Schadbild  des  abgefallenen 
 Radsatzlagers.  Am  vorderen  Zylinderrollenlager  waren  die  Wälzkörper  größtenteils  noch  in 
-
 Sollposition, einige hatten sich aber verschoben. Der Käfig wies Beschädigungen auf, war aber 
-
 weitgehend intakt. Es ist nicht auszuschließen, dass die festgestellten Unregelmäßigkeiten zumindest teilweise auf den Trennschnitt während der Untersuchung oder auf die Umstände 
 des Ereignisses zurückzuführen waren. Das hintere Zylinderrollenlager wies hingegen massive 
-
 Beeinträchtigungen auf, die eindeutig im Zusammenhang mit der Ereignisursache stehen. Der 
-
 Innenring war deformiert und teilweise aufgeschmolzen bzw. aufgewalzt. Die Zylinderrollen 
-
 waren  ebenfalls  teilweise  deformiert  bzw.  hatten  sich  in  den  Innenring  eingearbeitet.  Sie 
-
 konnten somit ihre Funktion nicht mehr erfüllen. Der Stahlkäfig fehlte im aufgeschnittenen 
-
 Segment des Lagers völlig. 
 Abbildung 8: Schnitt durch das beschädigte Radsatzlager3 
 3 Quelle: DB Schenker Rail AG, Untersuchungsbericht DB Systemtechnik, bearbeitet durch die BEU 
 Seite 19 von 24 
+
  
  
  
                                                        
 Untersuchungsbericht 
+
 Zugentgleisung, 26.01.2014, Bf Bitterfeld – Bf Wolfen 
-
 Das Schadbild lässt den Schluss zu, dass es zu einer Fehlfunktion des hinteren Wälzlagers kam, 
-
 während das vordere Lager noch weitgehend funktionstüchtig war. 
 Die folgende Abbildung zeigt den noch vorhandenen Stumpf des Wellenschenkels. Die Kegelförmige Bruchstelle lässt auf ein Fließverhalten des Materials durch massiven Wärmeeintrag 
 und, damit verbunden, eine sukzessive Reduzierung des belastbaren Querschnitts des Wellenschenkels schließen. Der Wellenschenkel brach während der Zugfahrt, als Wellenquerschnitt 
@@ -775,6 +705,7 @@ soweit reduziert war, dass die für ihn ertragbare Belastung überschritten wurd
 Abbildung 9: Deformierter und gebrochener Wellenschenkel4 
 4 Quelle: DB Schenker Rail AG, Untersuchungsbericht DB Systemtechnik, bearbeitet durch die BEU 
 Seite 20 von 24 
+
  
  
  
@@ -782,6 +713,7 @@ Seite 20 von 24
  
                                                        
 Untersuchungsbericht 
+
 Zugentgleisung, 26.01.2014, Bf Bitterfeld – Bf Wolfen 
 5  Auswertung	
 Das Kapitel 5 Auswertung befasst sich mit der Ereignisrekonstruktion. Anhand der oben genannten Feststellungen wird ein plausibler Ablauf des gefährlichen Ereignisses zusammengetragen. Relevante Erkenntnisse werden anschließend bewertet und führen ggf. zu entsprechenden Schlussfolgerungen. 
@@ -801,73 +733,47 @@ Tf erklärte dem Fdl, dass sein Zug im Gleis 302 des Bf Wolfen mit Luftverlust z
 43 87 4272 721-9 mit drei Radsätzen, das siebte Fahrzeug Nr. 23 87 4272 308-9 mit drei Radsätzen sowie das achte Fahrzeug Nr. 23 87 4270 725-6 mit zwei Radsätzen. Bei allen drei Fahrzeugen  handelte  es  sich  um  zweigliedrige  Doppelstock-Autotransportwagen-Einheiten  der 
 Gattung Laeks mit jeweils drei Radsätzen. 
 Seite 21 von 24 
+
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 26.01.2014, Bf Bitterfeld – Bf Wolfen 
 5.2  Bewertung	und	Schlussfolgerung	
 Die Zugentgleisung des GA 49382 ist auf ein Versagen des hinteren Wälzlagers im in Fahrtrichtung rechten Radsatzlager am mittleren Drehgestell des Fahrzeugs Nr. 43 87 4272 721-9 zurückzuführen.  
-
 Es kam zunächst zu einer Beeinträchtigung der Funktion des Zylinderrollenlagers, was zu einer 
-
 Erhöhung der Temperatur führte. Die HOA Obervogelgesang registrierte eine Temperaturerhöhung  ohne  Überschreitung  der  Alarmschwelle.  An  der  HOA  Machern  gab  es  dann  einen 
 Warmalarm. Die Überprüfung des Radsatzlagers durch einen Wgm im Bf Leipzig-Engelsdorf 
 ergab keine Abweichungen, die eine Aussetzung des Fahrzeuges erforderten. Der Wgm handelte insofern bezüglich seines Prüfauftrags regelkonform, als er den Wagen im Zugverband 
 beließ. Allerdings lassen die Resultate der Radsatzvermessung nach dem Ereignis vermuten, 
-
-dass die Abplattung auf dem Laufkranz bereits bei dem Halt in Leipzig-Engelsdorf das Betriebs-
-
-grenzmaß laut AVV bei Weitem überschritt. Die erheblichen Unterschiede bei der Ausprägung 
+dass die Abplattung auf dem Laufkranz bereits bei dem Halt in Leipzig-Engelsdorf das Betriebsgrenzmaß laut AVV bei Weitem überschritt. Die erheblichen Unterschiede bei der Ausprägung 
 der Rundlaufabweichungen auf den beiden Laufkreisen des Radsatzes lassen den Schluss zu, 
-
 dass die dafür ursächliche Flachstelle bereits lange vor deren Detektion auf dem tschechischen 
-
 Bahnnetz bestanden hatte und vermutlich, entgegen den Angaben auf dem Zettel Muster K, 
-
 bereits dort eine Größe von mehr als 40 mm hatte. Dies hätte entsprechend des AVV schon 
-
 dort eine sofortige Aussetzung des Fahrzeuges erfordert. Eine diesbezügliche Überprüfung des 
-
 Radsatzes nahm der Wgm mit hoher Wahrscheinlichkeit nicht vor. 
-
 Die singuläre Abplattung auf den Radscheiben führten durch stoßartige Belastungen zu hohen 
-
 Beanspruchungen in den Wälzlagern des Radsatzlagers. Bei einer für das Fahrzeug maximal 
 zulässigen Geschwindigkeit von 120 km/h war bei dem  vorhandenen Laufkreisdurchmesser 
-mit einer Frequenz von mehr als 13 Stößen je Sekunde zu rechnen. Während der hier betrach-
-
-teten Zugfahrt, die wahrscheinlich mit einem bereits beeinträchtigen Radsatzlager stattfand, 
-
+mit einer Frequenz von mehr als 13 Stößen je Sekunde zu rechnen. Während der hier betrachteten Zugfahrt, die wahrscheinlich mit einem bereits beeinträchtigen Radsatzlager stattfand, 
 wurde der größte Teil der Strecke mit Geschwindigkeiten zwischen 80 km/h und 100 km/h 
 zurückgelegt. Das bedeutete eine Frequenz von ca. 9 bis 11 Stößen je Sekunde, die immer 
 wieder denselben Bereich am Umfang der Wälzlager des betreffenden Radsatzlagers belasteten. Der Käfig aus Stahl, der verhältnismäßig spröde war und bei dem durch scharfe Kanten in 
 den Durchbrüchen für die Wälzkörper mit hoher Kerbwirkung gerechnet werden musste, war 
-
-bezüglich stoßartiger Belastungen besonders anfällig. Notlaufeigenschaften fehlen bei den La-
-
-gern  mit  solchen  Käfigen  aufgrund  von  deren  Beschaffenheit.  Nach  dem  Bruch  des  Käfigs 
+bezüglich stoßartiger Belastungen besonders anfällig. Notlaufeigenschaften fehlen bei den Lagern  mit  solchen  Käfigen  aufgrund  von  deren  Beschaffenheit.  Nach  dem  Bruch  des  Käfigs 
 Seite 22 von 24 
+
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 26.01.2014, Bf Bitterfeld – Bf Wolfen 
 musste es daher zum Versagen des Lagers kommen. Wann genau der Käfig brach, war im Rahmen der Untersuchung nicht feststellbar. Es ist jedoch zu  vermuten, dass die Funktion des 
-Zylinderrollenlagers bereits an der HOA Obervogelgesang beeinträchtigt war und sich im Verlauf der Zugfahrt bis zum Bf Leipzig-Engelsdorf stetig verschlechterte. Während der Fortsetzung der Zugfahrt nach dem Halt in Leipzig-Engelsdorf muss sich dann eine wesentliche Ände-
-
-rung der Situation im Lager ergeben haben. Das hintere Zylinderrollenlager blockierte. Die Ur-
-
-sache hierfür war wahrscheinlich, dass sich ein Teil des gebrochenen Käfigs in dem Zylinder-
-
-rollenlager  verklemmte.  Daraus  resultierte  letztendlich  die  Auflösung  der  Pressverbindung 
-
-zwischen dem Innenring des Lagers und dem Achsschenkel am Lagersitz und durch Gleitrei-
-
-bung  ein  starker  Wärmeeintrag,  der  sich  in  einem  Heißläufer  manifestierte.  Dieser  führte 
-
+Zylinderrollenlagers bereits an der HOA Obervogelgesang beeinträchtigt war und sich im Verlauf der Zugfahrt bis zum Bf Leipzig-Engelsdorf stetig verschlechterte. Während der Fortsetzung der Zugfahrt nach dem Halt in Leipzig-Engelsdorf muss sich dann eine wesentliche Änderung der Situation im Lager ergeben haben. Das hintere Zylinderrollenlager blockierte. Die Ursache hierfür war wahrscheinlich, dass sich ein Teil des gebrochenen Käfigs in dem Zylinderrollenlager  verklemmte.  Daraus  resultierte  letztendlich  die  Auflösung  der  Pressverbindung 
+zwischen dem Innenring des Lagers und dem Achsschenkel am Lagersitz und durch Gleitreibung  ein  starker  Wärmeeintrag,  der  sich  in  einem  Heißläufer  manifestierte.  Dieser  führte 
 durch Fließverhalten am Umfang zunächst zu einem Abtrag des Materials am Wellenschenkel, 
-
 verbunden  mit  einer  Querschnittsreduzierung  und  letztendlich  zu  einem  Gewaltbruch  des 
-
 Wellenschenkels und zum Verlust des Radsatzlagers etwa in km 46,5 ca. 41 km nach dem Halt 
 in Leipzig-Engelsdorf. 
 Die Entgleisung erfolgte etwa 1.400 m nach dem Verlust des Radsatzlagers in km 45,1. Danach 
@@ -876,11 +782,13 @@ und die Schäden an den Gleisanlagen im Bf Wolfen hätten vermieden werden könn
 die Entgleisung und die für diese ursächlichen Beeinträchtigungen am Radsatz früher erkannt 
 worden wären. 
 Seite 23 von 24 
+
  
  
  
  
 Untersuchungsbericht 
+
 Zugentgleisung, 26.01.2014, Bf Bitterfeld – Bf Wolfen 
 6  Bisher	getroffene	Maßnahmen	
 Der BEU wurden keine Maßnahmen bekannt, die infolge des Ereignisses durch die beteiligten 
@@ -888,6 +796,7 @@ Eisenbahnunternehmen oder durch die Sicherheitsbehörde getroffen wurden.
 7  Sicherheitsempfehlungen	
 Es wurden keine Sicherheitsempfehlungen ausgesprochen. 
 Seite 24 von 24 
+
  
  
 
