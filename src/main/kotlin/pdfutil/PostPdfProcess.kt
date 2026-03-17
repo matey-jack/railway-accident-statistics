@@ -58,7 +58,11 @@ val unicodeLigatures = mapOf(
     'ﬆ' to "st",
 )
 
+private const val SINGLE_LINE_LENGTH = 160
+
 fun joinOneLineParagraphs(content: String): String {
+    fun isShortLine(line: String): Boolean = line.length < SINGLE_LINE_LENGTH && !line.contains('\n')
+
     val paras = content
         .replace("\r\n", "\n")
         .split(Regex("\n *\n"))
@@ -69,7 +73,7 @@ fun joinOneLineParagraphs(content: String): String {
         if (paras[i].isBlank()) {
             paras.removeAt(i)
             merged = false
-        } else if ((merged || paras[i].length < 100) && paras[i+1].length < 100) {
+        } else if ((merged || isShortLine(paras[i])) && isShortLine(paras[i+1])) {
             paras[i] = paras[i] + "\n" + paras[i+1]
             paras.removeAt(i+1)
             merged = true
