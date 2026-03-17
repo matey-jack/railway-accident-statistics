@@ -114,7 +114,8 @@ fun main() {
                     ligatureMap[code] ?: match.value
                 }
             val afterLigs = afterCid.map { ch -> unicodeLigatures[ch] ?: ch.toString() }.joinToString("")
-            val afterSoftHyphens = softHyphenPattern.replace(afterLigs, "")
+            val afterHyphenNorm = afterLigs.replace('\u2010', '-')
+            val afterSoftHyphens = softHyphenPattern.replace(afterHyphenNorm, "")
             val afterPlainHyphens = lineBreakHyphenPattern.replace(afterSoftHyphens) { it.groupValues[1] }
             val cleaned = afterPlainHyphens.replace(NBSP, ' ')
             content.forEach { ch ->

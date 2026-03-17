@@ -1,4 +1,4 @@
 fun main() {
-    "�".forEach { print(it.code); print(" ") }
+    "‐".forEach { print(it.code.toHexString()); print(" ") }
     println()
 }
