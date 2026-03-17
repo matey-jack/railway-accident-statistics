@@ -58,6 +58,7 @@ dependencies {
     implementation("software.amazon.awssdk:sts")
     implementation("software.amazon.awssdk:sso")
     implementation("software.amazon.awssdk:ssooidc")
+    implementation("software.amazon.awssdk:textract")
 
     // the ktlint task also uses this, but in app runtime, we don't use it yet
     // implementation("io.github.oshai:kotlin-logging-jvm")
