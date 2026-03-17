@@ -42,6 +42,8 @@ val lineBreakHyphenPattern = Regex(
     // letter before hyphen, lowercase letter after newline, next word is not a conjunction
     "(?<=[\\wäöüÄÖÜß])-\n(?!(?:$conjunctions)(?:\\s|[^a-zA-ZäöüÄÖÜß]))([a-zäöüß])"
 )
+const val NBSP = '\u00A0'
+
 val sourceDir = File("documents")
 val cleanedDir = File(sourceDir, "cleaned")
 
@@ -109,7 +111,8 @@ fun main() {
                 }
             val afterLigs = afterCid.map { ch -> unicodeLigatures[ch] ?: ch.toString() }.joinToString("")
             val afterSoftHyphens = softHyphenPattern.replace(afterLigs, "")
-            val cleaned = lineBreakHyphenPattern.replace(afterSoftHyphens) { it.groupValues[1] }
+            val afterPlainHyphens = lineBreakHyphenPattern.replace(afterSoftHyphens) { it.groupValues[1] }
+            val cleaned = afterPlainHyphens.replace(NBSP, ' ')
             content.forEach { ch ->
                 if (ch.code > 255) {
                     highUnicodeCounts[ch] = (highUnicodeCounts[ch] ?: 0) + 1

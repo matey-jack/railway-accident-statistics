@@ -88,7 +88,7 @@ Result with ability to sum and filter: https://docs.google.com/spreadsheets/d/17
 
 ## Stage Two Processing: extracting damages and causes sections.
 
-I don't use this any more, all the logic is now integrated into the classification stage which reads directly from `summaries.md`.
+I don't use this anymore, all the logic is now integrated into the classification stage which reads directly from `summaries.md`.
 
 Code: [ExtractDamagesAndCauses.kt](src/main/kotlin/ebuparser/ExtractDamagesAndCauses.kt)
 Gradle task: `runExtractDamages`
@@ -127,21 +127,8 @@ Code: `src/main/kotlin/ebustats/`
 Input: `EBU-lists/` CSVs (open data from BEU — Bundesstelle für Eisenbahnunfalluntersuchung)
 
  - **EventTypeStats.kt**: Groups events by quarter and normalises event-type aliases
-   (e.g., "Zugentgleisung" → "Entgleisung"). Output: `grouped-events-by-quarter.csv`
- - **RecommendationStats.kt** (Gradle task `runRecommendationStats`): Groups safety recommendations
-   by key columns with counts. Output: `SicherheitsempfehlungenGrouped.csv`
+   (e.g., "Zugentgleisung" → "Entgleisung"). 
+   Output: `grouped-events-by-quarter.csv`
 
-## Gradle Tasks Reference
-
-| Task | Class | Description |
-|------|-------|-------------|
-| `run` | `ExtractSummaries` | Main pipeline: extract summaries from cleaned text files |
-| `runTestAws` | `TestAws` | Verify AWS credentials (STS GetCallerIdentity) |
-| `runExtractDamages` | `ExtractDamagesAndCauses` | Extract damages/causes sections from summaries.md |
-| `runRecommendationStats` | `RecommendationStats` | Group safety recommendations CSV |
-| `runExtractDates` | `ExtractDates` | (See build.gradle.kts) |
-
-Run with: `./gradlew <taskName>`
-
-JVM toolchain: Java 25. JVM args set for UTF-8 stdout and file I/O (required for German text).
-
+ - **RecommendationStats.kt**: Groups safety recommendations by key columns with counts. 
+   Output: `SicherheitsempfehlungenGrouped.csv`

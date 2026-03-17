@@ -106,24 +106,24 @@ Untersuchung der Leit- und Sicherungstechnik....................................
 Untersuchung des Eisenbahnbetriebes............................................................... 20
 
 
- 1 
- 1.1 
- 1.2 
- 1.3 
- 2 
- 2.1 
- 2.2 
- 2.3 
- 3 
- 3.1 
- 3.2 
- 3.3 
- 4 
- 4.1 
- 4.2 
- 4.3 
- 4.4 
- 4.5 
+ 1 
+ 1.1 
+ 1.2 
+ 1.3 
+ 2 
+ 2.1 
+ 2.2 
+ 2.3 
+ 3 
+ 3.1 
+ 3.2 
+ 3.3 
+ 4 
+ 4.1 
+ 4.2 
+ 4.3 
+ 4.4 
+ 4.5 
 4.5.1 
 
 Personal Infrastrukturunternehmen ..................................................................... 20
@@ -137,11 +137,11 @@ Personal Eisenbahnverkehrsunternehmen...........................................
 Auswertung der EFR-Daten................................................................................. 26
 
 
- 4.6 
- 4.7 
- 5 
- 5.1 
- 5.2 
+ 4.6 
+ 4.7 
+ 5 
+ 5.1 
+ 5.2 
 Untersuchung von Fahrzeugen / Zugbildung....................................................... 36
 
 Sicherheitsmanagementsystem der ERS Railways B.V. ..................................... 38
@@ -162,35 +162,35 @@ Seite 3 von 47
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 Untersuchungsbericht 
 Zugkollision, 01.08.2014, Mannheim Hbf 
 5.3 
@@ -233,20 +233,20 @@ Seite 4 von 47
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 Untersuchungsbericht 
 Zugkollision, 01.08.2014, Mannheim Hbf 
 Abbildungsverzeichnis: 
@@ -267,17 +267,17 @@ Abb. 3:
 Lageplanskizze Mannheim Hbf............................................................................13
 
 
-Abb. 4:  
+Abb. 4:  
 Fahrstraßeneinstellung für S 38244 und EC 216 ................................................19
 
-Abb. 5:  
+Abb. 5:  
 Prüfergebnisse der Gleismagnetprüfungen .........................................................20
 
 Abb. 6: 
-Leuchtmelderdarstellung des Triebfahrzeuges 1116 (18:43:34–18:52:18) .........26 
+Leuchtmelderdarstellung des Triebfahrzeuges 1116 (18:43:34–18:52:18) .........26 
 
 Abb. 7: 
-Displayanzeige einer PZB-Zwangsbremsung aufgrund 2000 Hz-Beeinflussung 26 
+Displayanzeige einer PZB-Zwangsbremsung aufgrund 2000 Hz-Beeinflussung 26 
 
 Abb. 8: 
 graf. Darstellung der EFR-Daten DGS 40635 .....................................................28
@@ -299,7 +299,7 @@ Abb. 12:
 Wagenliste des EuroCity 216 ..............................................................................37
 
 
-Abb. 13:  
+Abb. 13:  
 Tabelle SMS Teil B - sicherheitsrelevantes Personal..........................................42
 
 
@@ -312,7 +312,7 @@ Tabelle 2: Erfassungsblatt Rettungsdienste und technische Hilfe ................
 Tabelle 3: Zuständigkeitsübersicht Fahrdienstleitung Mannheim Hbf....................................21
 
 
-Tabelle 4: GSM-R Zugfunkgespräche Mannheim Hbf (auszugsweise) .................................22 
+Tabelle 4: GSM-R Zugfunkgespräche Mannheim Hbf (auszugsweise) .................................22 
 
 
 Tabelle 5: tabellarische Darstellung der EFR Auswertung.....................................................30
@@ -328,32 +328,32 @@ Seite 5 von 47
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 Untersuchungsbericht 
 Zugkollision, 01.08.2014, Mannheim Hbf 
 Abkürzungsverzeichnis 
