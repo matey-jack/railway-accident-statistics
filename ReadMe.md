@@ -30,28 +30,7 @@ Es hängt wohl auch mit den Personalkapazitäten der Behörde zusammen.
 
 ## Preprocessing: PDF to Text
 
-For downloading the PDFs see `documents/originals/download-all.ps1`
-It's done in Powershell by accident; your local AI agent can surely rewrite it for any other environment.
-
-For pdf to text conversion, I tried poppler-utils first (because it easily installs using `apt`), but it's not unpacking ligatures and hyphenation.
-Therefore, I switched to pdfminer.six:
-
-    sudo apt install pipx
-    pipx install pdfminer.six
-    for p in originals/*.pdf
-    do
-        pdf2txt.py "$p" --outfile "$(basename "$p" .pdf)".txt
-    done
-
-Note that:
-- I need `pipx`, because the local Python installation is locked.
-  Luckily, it's just one line more, no big deal.
-- all the quotes are needed because some filenames contain spaces.
-  (At least Bash manages to handle the quotes-in-command-in-quotes correctly.)
-- Unlike poppler-utils pdfminer.six doesn't just ignore the ligatures and can even decode some, but not all, thus the next section.
-- But there's actually a regression: poppler-utils somehow handles soft hyphens and fuses the words again. It also removes a lot of superfluous whitespace.  
-- there are 13 files (039, 148, 151 to 160, and 162) where pdfminer can't see the n and sometimes the u, leading to words like "Unters ch ngsbericht" and sentences like "Es  trate   kei e  Perso e schäde   ei ."
-   At least pdf2txt seems to have the same problem, so it's not getting worse. 
+This is now in a separate project, because I used datalab.io which has a Python API client.
 
 # Kotlin scripts and LLM calling
 
@@ -61,13 +40,7 @@ Each step can be run manually using `gradle run -DmainClass=ebuparser.ExtractSum
 
 Code: [kotlin/pdfutil/PostPdfProcess.kt](kotlin/pdfutil/PostPdfProcess.kt)
 
-Even after switching to pdfminer.six, some PDFs still emit raw CID character codes for ligatures (e.g. ff, fi, fl, ft).
-`PostPdfProcess.kt` maps those CID codes to the correct character sequences.
-
-Input: `documents/*.txt`
-Output: `documents/cleaned/*.txt`
-
-The cleaned files are what Stage One consumes.
+This is obsolete since we use Datalab.io.
 
 ## Stage One Processing: getting summaries from text files.
 
