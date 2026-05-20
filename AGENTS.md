@@ -11,8 +11,7 @@ Document *why* something is done, not *what* the code does.
 Multi-stage Kotlin pipeline for analysing German railway accident investigation reports (BEU open data).
 
 Pipeline in order:
-1. PDF → text (`pdfminer.six`)
-2. Ligature cleaning (`HandleLigatures.kt`) — reads `documents/originals/`, writes `documents/cleaned/`
+1. PDF to Markdown is done by datalab.io and the client code is Python and in another project
 3. Summarisation (`ExtractSummaries.kt`) — reads `documents/cleaned/`, writes `results/<provider>/summaries.md`
 4. Classification (`Classifier.kt`) — reads `summaries.md`, writes `results/bedrock/classifications.csv`
 
