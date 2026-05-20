@@ -111,8 +111,10 @@ enum class SectionCategory {
 
 val testReports = listOf(
     // some famous or interesting reports
-    "114", "023", "002", "007", "231", "238", "199", "009", "047", "034",
+    "114", "023", "001", "002", "007", "008", "231", "238", "199", "009", "047", "034",
     // five shortest and five longest reports (minus the ones listed in other already)
-    "179", "191", "012", "032", "201",
-    "116", "001", "226", "089", "237",
+    "179", "181", "191", "196", "012", "032", "201", "203",
+    "116", "226", "089", "237", "015", "082", "125", "126",
+    // some random ones to round it up
+    "123", "234", "101", "055", "042", "180", "200", "096",
 )
