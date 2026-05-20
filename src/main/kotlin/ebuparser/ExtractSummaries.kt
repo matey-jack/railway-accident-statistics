@@ -142,7 +142,8 @@ fun extractWithBedrock(
                     .builder()
                     .type(ServiceTierType.FLEX)
                     .build(),
-            ).build()
+            ).additionalModelRequestFields(enableReasoning("low"))
+            .build()
 
     val response = bedrockClient.converse(request)
     val localLatencyMs = TimeUnit.NANOSECONDS.toMillis(System.nanoTime() - startNs)
@@ -279,8 +280,8 @@ fun normalizeHeadingLevels(text: String): String {
 }
 
 fun isFileInSubsetForTest(filename: String): Boolean {
-    val number = filename.take(3).toIntOrNull() ?: return false
-    return number <= 10 || number % 10 == 0
+    val number = filename.take(3)
+    return testReports.contains(number)
 }
 
 fun main() {
@@ -335,7 +336,7 @@ fun main() {
             .listFiles { file ->
                 file.isFile && file.extension == "md"
                         && file.name !in processedFiles
-//                    && isFileInSubsetForTest(file.name)
+                        && isFileInSubsetForTest(file.name)
             }
             ?.sortedBy { it.name }
             ?: emptyList()
@@ -346,7 +347,7 @@ fun main() {
 
     var errorCount = 0
     bedrockClient.use { bedrock ->
-        for (file in files.take(1)) {
+        for (file in files) {
             try {
                 val content = file.readText()
                 println("Starting: ${file.name}")

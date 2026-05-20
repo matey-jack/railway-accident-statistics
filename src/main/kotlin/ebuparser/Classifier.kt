@@ -360,7 +360,7 @@ class Classifier(
     }
 }
 
-private fun enableReasoning(effort: String): Document = Document
+fun enableReasoning(effort: String): Document = Document
     .mapBuilder()
     .putMap(
         "reasoningConfig",
@@ -378,14 +378,6 @@ fun parseSummaries(path: String): List<Summary> {
         .filter { section -> section.isNotBlank() }
         .mapNotNull(::parseSummarySection)
 }
-
-val testReports = listOf(
-    // some famous or interesting reports
-    "114", "023", "002", "007", "231", "238", "199", "009", "047", "034",
-    // five shortest and five longest reports (minus the ones listed in other already)
-    "179", "191", "012", "032", "201",
-    "116", "001", "226", "089", "237",
-)
 
 fun main() {
     val identity =

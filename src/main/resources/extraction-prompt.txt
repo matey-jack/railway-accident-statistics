@@ -35,9 +35,10 @@ einem `#` als Überschrift, in der folgenden Reihenfolge.
 
  - bereits umgesetzte Maßnahmen
 
-Unter jeder Überschrift folgen die wörtlich zitierten Sätze aus dem
-Originaldokument. Bei der Schadenshöhe übernimm alle Zahlen exakt —
-sowohl monetäre Beträge als auch Personenzahlen.
+Unter jeder Überschrift folgen die wörtlich zitierten Sätze aus dem Originaldokument.
+Beim Titel entferne jegliche Markdown-Formatierung aus dem Original-Dokument, ebenso unnötige Zeilenumbrüche.
+Bei der Schadenshöhe übernimm alle Zahlen exakt — sowohl monetäre Beträge als auch Personenzahlen.
+Für aus dem Text extrahierte Überschriften verwende Markdown mit mindestens zwei # Zeichen.
 
 # Umgang mit langen Schilderungen
 
