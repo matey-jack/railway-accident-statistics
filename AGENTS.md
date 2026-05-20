@@ -20,7 +20,7 @@ Pipeline in order:
 ## Running things
 
 Don't add extra Gradle run tasks. Use the existing one like this:
-`gradle run -DmainClass=ebuparser.ExtractSummaries` — put the class name with package as shown.
+`./gradlew run "-DmainClass=ebuparser.ExtractSummaries"` — put the class name with package as shown.
 
 ## Language
 

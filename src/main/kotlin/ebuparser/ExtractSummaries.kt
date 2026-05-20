@@ -7,21 +7,12 @@ import io.github.sashirestela.openai.domain.chat.ChatRequest
 import okhttp3.OkHttpClient
 import okhttp3.Request
 import software.amazon.awssdk.auth.credentials.ProfileCredentialsProvider
-import software.amazon.awssdk.regions.Region
 import software.amazon.awssdk.services.bedrockruntime.BedrockRuntimeClient
-import software.amazon.awssdk.services.bedrockruntime.model.ContentBlock
-import software.amazon.awssdk.services.bedrockruntime.model.ConversationRole
-import software.amazon.awssdk.services.bedrockruntime.model.ConverseRequest
-import software.amazon.awssdk.services.bedrockruntime.model.InferenceConfiguration
-import software.amazon.awssdk.services.bedrockruntime.model.Message
-import software.amazon.awssdk.services.bedrockruntime.model.ServiceTier
-import software.amazon.awssdk.services.bedrockruntime.model.ServiceTierType
-import software.amazon.awssdk.services.bedrockruntime.model.SystemContentBlock
+import software.amazon.awssdk.services.bedrockruntime.model.*
 import windows.SleepPreventer
 import java.io.File
 import java.nio.charset.Charset
 import java.util.concurrent.TimeUnit
-import kotlin.collections.emptyList
 import kotlin.io.path.Path
 
 const val LEMONADE_URL = "http://127.0.0.1:8000"
@@ -165,12 +156,13 @@ fun extractWithBedrock(
 
     val usage = response.usage()
     val resolvedTier = response.serviceTier()?.typeAsString() ?: BEDROCK_SERVICE_TIER
-    val inputTokens = usage?.inputTokens() ?: 0
+    // '_' in name is to get input_ and output aligned, so cost constants below compare better.
+    val input_Tokens = usage?.inputTokens() ?: 0
     val outputTokens = usage?.outputTokens() ?: 0
     val totalTokens = usage?.totalTokens() ?: 0
-    val inputCost = inputTokens * 0.000195 / 1000.0
+    val input_Cost = input_Tokens * 0.000195 / 1000.0
     val outputCost = outputTokens * 0.001635 / 1000.0
-    val totalCost = inputCost + outputCost
+    val totalCost = input_Cost + outputCost
     val statsText =
         listOf(
             fileName,
@@ -182,11 +174,11 @@ fun extractWithBedrock(
             resolvedTier,
             localLatencyMs.toString(),
             (response.metrics()?.latencyMs() ?: "").toString(),
-            inputTokens.toString(),
+            input_Tokens.toString(),
             outputTokens.toString(),
             totalTokens.toString(),
             response.stopReasonAsString(),
-            "%.6f".format(inputCost),
+            "%.6f".format(input_Cost),
             "%.6f".format(outputCost),
             "%.6f".format(totalCost),
         ).joinToString(",")
@@ -327,12 +319,12 @@ fun main() {
 
         println(
             "Using Bedrock model '$BEDROCK_MODEL' via inference profile '$BEDROCK_INFERENCE_PROFILE' " +
-                "with service tier '$BEDROCK_SERVICE_TIER' in region '${region.id()}'.",
+                    "with service tier '$BEDROCK_SERVICE_TIER' in region '${region.id()}'.",
         )
     }
     val statsFile = Path(outputDirectory).resolve("stats.csv").toFile()
 
-    val documentsDir = File("documents/cleaned")
+    val documentsDir = File("documents")
     val outputFile = Path(outputDirectory).resolve(OUTPUT_FILENAME).toFile()
     outputFile.parentFile?.mkdirs()
 
@@ -340,9 +332,9 @@ fun main() {
 
     val files =
         documentsDir
-            .listFiles {
-                file -> file.isFile && file.extension == "txt"
-                    && file.name !in processedFiles
+            .listFiles { file ->
+                file.isFile && file.extension == "md"
+                        && file.name !in processedFiles
 //                    && isFileInSubsetForTest(file.name)
             }
             ?.sortedBy { it.name }
@@ -354,7 +346,7 @@ fun main() {
 
     var errorCount = 0
     bedrockClient.use { bedrock ->
-        for (file in files) {
+        for (file in files.take(1)) {
             try {
                 val content = file.readText()
                 println("Starting: ${file.name}")
