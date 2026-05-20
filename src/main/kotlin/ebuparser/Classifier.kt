@@ -342,18 +342,8 @@ class Classifier(
                         .builder()
                         .type(ServiceTierType.FLEX)
                         .build(),
-                ).additionalModelRequestFields(
-                    Document
-                        .mapBuilder()
-                        .putMap(
-                            "reasoningConfig",
-                            mapOf(
-                                "type" to Document.fromString("enabled"),
-                                "maxReasoningEffort" to Document.fromString("low"),
-                            ),
-                        )
-                        .build(),
-                ).toolConfig(toolConfig)
+                ).additionalModelRequestFields(enableReasoning("low"))
+                .toolConfig(toolConfig)
                 .build()
 
         val response = bedrockClient.converse(request)
@@ -369,6 +359,16 @@ class Classifier(
         return parseClassification(toolInput.asMap())
     }
 }
+
+private fun enableReasoning(effort: String): Document = Document
+    .mapBuilder()
+    .putMap(
+        "reasoningConfig",
+        mapOf(
+            "type" to Document.fromString("enabled"),
+            "maxReasoningEffort" to Document.fromString(effort),
+        ),
+    ).build()
 
 fun parseSummaries(path: String): List<Summary> {
     val normalizedContent = File(path).readText().replace("\r\n", "\n")
