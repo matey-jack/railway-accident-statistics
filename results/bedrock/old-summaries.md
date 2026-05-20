@@ -633,25 +633,8 @@ Bundesministerium für Verkehr,
 Bau und Stadtentwicklung 
 
 # Hergang des Unfalls
-Am  26.04.2008,  um  21:06  Uhr  prallte  der  ICE  885  auf  der  Fahrt  von  Hamburg  nach  München  am  
-
-Nordportal   des  Landrückentunnels  in   km   251,325   auf   eine   im   Gleisbereich   stehende   Schafherde  
-
-(ca.   20   –   30  Tiere).   Die   Geschwindigkeit   zum   Zeitpunkt   des  Aufpralls  betrug   210  km/h.   Das füh
-
-rende  Fahrzeug  des ICE  885  entgleiste  mit  der  vorderen  Achse  des ersten  Drehgestells und  prallte  
-
-auf  die  Flügelschiene  der  anschließenden  Weiche  602.  Der  Zug  kam  mit  der  Zugspitze  in  ca.  km  
-
-252.  432  innerhalb  des Landrückentunnels  zum  Stehen. Zur  Rettung  der  Zuginsassen  waren  örtli
-
-che  Rettungskräfte  als auch  die  Rettungszüge  Fulda  und  Würzburg  im  Einsatz.   
-
-Zum  besseren  Verständnis der  betrieblichen  Abläufe und  Zusammenhänge  wird  die  Zugfahrt  der  
-
-Gegenrichtung  (ICE  782)  vorweg  beschrieben.  Dieser  Zug  passierte  nur  wenige  Minuten  vor  dem  
-
-Unfallzug  die  Unfallstelle.   
+Am  26.04.2008,  um  21:06  Uhr  prallte  der  ICE  885  auf  der  Fahrt  von  Hamburg  nach  München  am  Nordportal   des  Landrückentunnels  in   km   251,325   auf   eine   im   Gleisbereich   stehende   Schafherde (ca.   20   –   30  Tiere).   Die   Geschwindigkeit   zum   Zeitpunkt   des  Aufpralls  betrug   210  km/h.   Das führende  Fahrzeug  des ICE  885  entgleiste  mit  der  vorderen  Achse  des ersten  Drehgestells und  prallte auf  die  Flügelschiene  der  anschließenden  Weiche  602.  Der  Zug  kam  mit  der  Zugspitze  in  ca.  km  252.432  innerhalb  des Landrückentunnels  zum  Stehen. Zur  Rettung  der  Zuginsassen  waren  örtliche  Rettungskräfte  als auch  die  Rettungszüge  Fulda  und  Würzburg  im  Einsatz.   
+Zum  besseren  Verständnis der  betrieblichen  Abläufe und  Zusammenhänge  wird  die  Zugfahrt  der  Gegenrichtung  (ICE  782)  vorweg  beschrieben.  Dieser  Zug  passierte  nur  wenige  Minuten  vor  dem  Unfallzug  die  Unfallstelle.   
 
 Der  ICE  782  auf  der  Fahrt  von  München  nach  Hamburg  prallte um  20:58  Uhr  im  Gleis Üst  Landrü-
 
