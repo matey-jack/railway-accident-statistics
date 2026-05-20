@@ -21,7 +21,8 @@ const val LEMONADE_MODEL = "Qwen3-14B-GGUF"
 const val BEDROCK_MODEL = "amazon.nova-2-lite-v1:0"
 const val BEDROCK_INFERENCE_PROFILE = "global.amazon.nova-2-lite-v1:0"
 const val BEDROCK_SERVICE_TIER = "flex"
-const val BEDROCK_MAX_TOKENS = 3000
+// this includes reasoning tokens!
+const val BEDROCK_MAX_TOKENS = 8000
 const val OUTPUT_FILENAME = "summaries.md"
 const val LEMONADE_OUTPUT_DIR = "results/lemonade"
 const val BEDROCK_OUTPUT_DIR = "results/bedrock"
