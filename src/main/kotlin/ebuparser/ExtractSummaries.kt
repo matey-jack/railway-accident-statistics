@@ -167,11 +167,7 @@ fun extractWithBedrock(
     val statsText =
         listOf(
             fileName,
-            "bedrock",
-            BEDROCK_MODEL,
             BEDROCK_INFERENCE_PROFILE,
-            BEDROCK_MAX_TOKENS.toString(),
-            BEDROCK_SERVICE_TIER,
             resolvedTier,
             localLatencyMs.toString(),
             (response.metrics()?.latencyMs() ?: "").toString(),
@@ -239,8 +235,7 @@ fun fetchLemonadeStatsJson(): String? {
 }
 
 const val STATS_CSV_HEADER =
-    "file,provider,model_id,inference_profile_id,max_tokens_requested," +
-        "service_tier_requested,service_tier_resolved,local_call_duration_ms," +
+    "file,inference_profile_id,service_tier_resolved,local_call_duration_ms," +
         "bedrock_latency_ms,input_tokens,output_tokens,total_tokens," +
         "stop_reason,input_cost_usd,output_cost_usd,total_cost_usd"
 
