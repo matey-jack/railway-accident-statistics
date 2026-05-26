@@ -134,4 +134,12 @@ fun main() {
             writer.write("\n")
         }
     }
+
+    val countsByYear = grouped.groupingBy { it.startDate.year }.aggregate { key, accumulator: Int?, element, first ->
+        val s = element.counts.values.sum()
+        if (accumulator == null) s else s + accumulator
+    }.toSortedMap()
+    countsByYear.forEach { year, count -> print("${year.toString().padStart(4)}  ") }
+    println()
+    countsByYear.forEach { year, count -> print("${count.toString().padStart(4)}  ") }
 }

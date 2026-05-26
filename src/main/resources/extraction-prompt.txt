@@ -22,7 +22,8 @@ Die Ausgabe besteht aus den folgenden Abschnitten, jeweils mit genau
 einem `#` als Überschrift, in der folgenden Reihenfolge.
 
  - Titel des Untersuchungsberichts
-   + Mit Ereignisart, Ort und Zeit des Ereignisses; falls vorhanden.
+   + Der Titel soll Ereignisart (Zusammenstoß, Aufprall, Entgleisung, etc.), Ort und Zeit des Ereignisses enthalten.
+   + Falls diese nicht in einem Satz vorliegen, extrahiere sie aus der Tabelle oder der Zusammen und formuliere selbst einen Titel der Form "Zusammenstoß im Bahnhof Erfurt am 24.10.2010". Anderes Beispiel: "Entgleisung auf der Strecke Berlin - Cottbus am 10.12.2022"
 
  - Hergang des Unfalls
 
@@ -34,7 +35,7 @@ einem `#` als Überschrift, in der folgenden Reihenfolge.
    + Extrahiere nur einen Satz pro Stellwerk, in dem die Bauart (Spurplan, SpDr, Gleisbildstellwerk, mechanisch, elektro-mechanisch, Relais, elektronisch, EStW, oder ähnlich) genannt ist.
    + Falls eine solche Stellwerksbezeichnung fehlt, lasse den Abschnitt weg.
 
- - Baureihe der beteiligten Schienenfahrzeuge (entfällt wenn nicht vorhanden)
+ - Baureihe der beteiligten Schienenfahrzeuge
    + Extrahiere nur einen Satz pro Fahrzeug, in dem die Baureihe (z.B. BR 640, Baureihe 403, Siemens Desiro, Stadler KISS, etc) oder der Fahrzeugtyp (Lok-bespannter Personenzug, Arbeitszug, Stopfmaschine, etc.) genannt ist.
    + Falls eine solche Baureihe oder Typ-Bezeichnung fehlt, lasse den Abschnitt weg.
 
