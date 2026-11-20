@@ -1,46 +1,29 @@
 
-## Notes on the data
+## Project overview
 
-Scheinbar wurde im Jahr 2005 bzw. 2006 mit den regelmäßigen Untersuchungen und Veröffentlichungen begonnen.
-Lediglich die Berichte 1, 2, sowie 4 bis 8 stammen aus den Jahren 2000 bis 2004 und sind scheinbar besonders schwere Unfälle.
-1. Bad Münder, 2002 – keine Toten, aber Feuer und Gefahrstoffe betroffen.
-2. Brühl, 2000 – 9 Tote, 150 Verletzte
-3. Fichtenberg, 2005** – 1 Toter Fahrgast im Zug, Ursache LKW und der Fahrer rannte vorher noch weg.
-4. Hannover-Langenhagen, 2000 – 16 Verletzte
-5. Holzdorf, 2003 – 1 Toter, Kollision durch Fehlhandlungen Fdl und Tf.
-6. Osnabrück, 2004 – nur Sachschaden, aber ebenfalls Gefahrgut beteiligt.
-7. Schrozberg, 2003 – 6 Tote durch Kollision auf eingleisiger Strecke, Fehlhandlungen Fdl.
-8. Vilseck, 2001 – 3 Tote, davon 2 Fahrgäste im Zug, wegen LKW im BÜ. Außerdem Brand des Tfz, einer BR 612.
-9. Berlin Südkreuz, 2006** – 37 Verletzte (Claude hat wohl doppelt gezählt.)
-10. Gremberg, 2006** – Güterzüge leicht angeeckt ;)
+Multi-stage Kotlin pipeline for analysing German railway accident investigation reports (BEU open data).
 
-** erste "regulär" durchgeführte Untersuchungen.
+Each of the steps is useful in itself: reading the (step 2) summaries of the accident reports is interesting.
 
-Beachte, dass die Nummerierung nach dem Veröffentlichungsdatum erfolgt, da manche Untersuchungen auch wegen Geringfügigkeit eingestellt werden 
-und das viele Lücken in der Nummerierung hinterließe.
-Möglicherweise aber auch nur deshalb veröffentlicht, weil sie länger dauerten und bei Fertigstellung schon die Veröffentlichung Regel war.
-Der erste Bericht zur Entgleisung in Brühl im Jahr 2000 gehört zu den größten Unfällen seit 1990. Ebenfalls Schrozberg. 
-Damit liegen zwei der sechs schwersten Unfälle in der Anfangszeit der Untersuchungen.
-Der bekannteste und schwerste Unfall dieser Zeit (und sogar der schwerste seit 1939) war Eschede 1998 und ist nicht im Datensatz enthalten.
+And the data from step 3 is tabular, so it can be aggregated, grouped, etc.
 
-Siehe auch: https://www.wikiwand.com/de/Bundesstelle_f%C3%BCr_Eisenbahnunfalluntersuchung#Geschichte
+Pipeline in order:
+1. PDF → text – done via datalab.io – I only had a subscription there for one month, so this step won't be repeated.
+2. Summarization (`ExtractSummaries.kt`) — reads `documents/cleaned/`, writes `results/<provider>/summaries.md`
+3. Classification (`Classifier.kt`) — reads `summaries.md`, writes `results/bedrock/classifications.csv`
 
-Übrigens gab es die meisten Untersuchungen im Jahr 2015: https://docs.google.com/spreadsheets/d/1AKGIQ_Rnb0rPJ3cBZlvwLmmHchG7lMsiYXamlT_GnHU/edit?usp=sharing
-Es hängt wohl auch mit den Personalkapazitäten der Behörde zusammen.
+`ExtractDamagesAndCauses.kt` (Stage Two) is no longer actively used; classification now reads summaries directly.
+
+Each step can be run manually using `gradle run -DmainClass=ebuparser.ExtractSummaries` or any other file with a `fun main()`.
+
+Shortcut for verifying AWS credentials before a Bedrock run
+
+        ./gradlew runTestAws 
+
 
 ## Preprocessing: PDF to Text
 
 This is now in a separate project, because I used datalab.io which has a Python API client.
-
-# Kotlin scripts and LLM calling
-
-Each step can be run manually using `gradle run -DmainClass=ebuparser.ExtractSummaries` or any other file with a `fun main()`.
-
-## Preprocessing: Ligature Cleaning, De-hyphenation, Whitespace removal
-
-Code: [kotlin/pdfutil/PostPdfProcess.kt](kotlin/pdfutil/PostPdfProcess.kt)
-
-This is obsolete since we use Datalab.io.
 
 ## Stage One Processing: getting summaries from text files.
 
@@ -82,6 +65,47 @@ Telling it to use subagents, to actually read and understand the text.
 Prompt: [classification-prompt.txt](src/main/resources/classification-prompt.txt)
 Code: [Classifier.kt](src/main/kotlin/ebuparser/Classifier.kt)
 Output: `results/bedrock/classifications.csv`
+
+
+## Language
+
+All prompts and domain text are in German. Key abbreviations:
+- Fdl = Fahrdienstleiter (signaller/dispatcher)
+- Tf = Triebfahrzeugführer (train driver)
+- BÜ = Bahnübergang (level crossing)
+- Bf = Bahnhof (station)
+
+Our cheap workhorse model on Bedrock might not know those abbreviations, maybe they need to go into its prompts.
+
+
+## Notes on the data
+
+Scheinbar wurde im Jahr 2005 bzw. 2006 mit den regelmäßigen Untersuchungen und Veröffentlichungen begonnen.
+Lediglich die Berichte 1, 2, sowie 4 bis 8 stammen aus den Jahren 2000 bis 2004 und sind scheinbar besonders schwere Unfälle.
+1. Bad Münder, 2002 – keine Toten, aber Feuer und Gefahrstoffe betroffen.
+2. Brühl, 2000 – 9 Tote, 150 Verletzte
+3. Fichtenberg, 2005** – 1 Toter Fahrgast im Zug, Ursache LKW und der Fahrer rannte vorher noch weg.
+4. Hannover-Langenhagen, 2000 – 16 Verletzte
+5. Holzdorf, 2003 – 1 Toter, Kollision durch Fehlhandlungen Fdl und Tf.
+6. Osnabrück, 2004 – nur Sachschaden, aber ebenfalls Gefahrgut beteiligt.
+7. Schrozberg, 2003 – 6 Tote durch Kollision auf eingleisiger Strecke, Fehlhandlungen Fdl.
+8. Vilseck, 2001 – 3 Tote, davon 2 Fahrgäste im Zug, wegen LKW im BÜ. Außerdem Brand des Tfz, einer BR 612.
+9. Berlin Südkreuz, 2006** – 37 Verletzte (Claude hat wohl doppelt gezählt.)
+10. Gremberg, 2006** – Güterzüge leicht angeeckt ;)
+
+** erste "regulär" durchgeführte Untersuchungen.
+
+Beachte, dass die Nummerierung nach dem Veröffentlichungsdatum erfolgt, da manche Untersuchungen auch wegen Geringfügigkeit eingestellt werden 
+und das viele Lücken in der Nummerierung hinterließe.
+Möglicherweise aber auch nur deshalb veröffentlicht, weil sie länger dauerten und bei Fertigstellung schon die Veröffentlichung Regel war.
+Der erste Bericht zur Entgleisung in Brühl im Jahr 2000 gehört zu den größten Unfällen seit 1990. Ebenfalls Schrozberg. 
+Damit liegen zwei der sechs schwersten Unfälle in der Anfangszeit der Untersuchungen.
+Der bekannteste und schwerste Unfall dieser Zeit (und sogar der schwerste seit 1939) war Eschede 1998 und ist nicht im Datensatz enthalten.
+
+Siehe auch: https://www.wikiwand.com/de/Bundesstelle_f%C3%BCr_Eisenbahnunfalluntersuchung#Geschichte
+
+Übrigens gab es die meisten Untersuchungen im Jahr 2015: https://docs.google.com/spreadsheets/d/1AKGIQ_Rnb0rPJ3cBZlvwLmmHchG7lMsiYXamlT_GnHU/edit?usp=sharing
+Es hängt wohl auch mit den Personalkapazitäten der Behörde zusammen.
 
 
 ## Utilities
