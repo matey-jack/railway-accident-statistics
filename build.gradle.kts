@@ -4,7 +4,7 @@ plugins {
     id("org.jetbrains.kotlin.jvm") version "2.3.21"
     application
 
-    id("com.github.ben-manes.versions") version "0.67.0"
+    id("io.github.ben-manes.versions") version "0.67.0"
     id("io.gitlab.arturbosch.detekt") version "1.23.8"
     id("org.jlleitschuh.gradle.ktlint") version "14.0.1"
 }
