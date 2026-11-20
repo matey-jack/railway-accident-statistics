@@ -1,10 +1,10 @@
 import com.github.benmanes.gradle.versions.updates.DependencyUpdatesTask
 
 plugins {
-    id("org.jetbrains.kotlin.jvm") version "2.3.10"
+    id("org.jetbrains.kotlin.jvm") version "2.3.21"
     application
 
-    id("com.github.ben-manes.versions") version "0.53.0"
+    id("com.github.ben-manes.versions") version "0.67.0"
     id("io.gitlab.arturbosch.detekt") version "1.23.8"
     id("org.jlleitschuh.gradle.ktlint") version "14.0.1"
 }
@@ -52,7 +52,7 @@ dependencies {
     // implementation("org.apache.commons:commons-csv:1.14.1")
     implementation("net.java.dev.jna:jna-platform:5.18.1")
 
-    implementation(platform("software.amazon.awssdk:bom:2.42.7"))
+    implementation(platform("software.amazon.awssdk:bom:2.59.5"))
     implementation("software.amazon.awssdk:bedrockruntime")
     implementation("software.amazon.awssdk:s3")
     implementation("software.amazon.awssdk:sts")
@@ -64,7 +64,7 @@ dependencies {
     // slf4j comes indirectly with kotlin-logging
     // implementation("ch.qos.logback:logback-classic:1.5.32")
 
-    testImplementation("org.junit.jupiter:junit-jupiter:5.10.2")
+    testImplementation("org.junit.jupiter:junit-jupiter:5.14.4")
     testRuntimeOnly("org.junit.platform:junit-platform-launcher")
     testImplementation("org.assertj:assertj-core:3.27.7")
 }
