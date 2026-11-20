@@ -162,8 +162,8 @@ fun extractWithBedrock(
     val inputTokens = usage?.inputTokens() ?: 0
     val outputTokens = usage?.outputTokens() ?: 0
     val totalTokens = usage?.totalTokens() ?: 0
-    val inputCost = inputTokens * 0.000195 / 1000.0
-    val outputCost = outputTokens * 0.001635 / 1000.0
+    val inputCost = inputTokens * 0.195 / 1_000_000.0
+    val outputCost = outputTokens * 1.635 / 1_000_000.0
     val totalCost = inputCost + outputCost
     val statsText =
         listOf(
