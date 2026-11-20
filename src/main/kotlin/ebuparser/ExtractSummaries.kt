@@ -159,13 +159,12 @@ fun extractWithBedrock(
 
     val usage = response.usage()
     val resolvedTier = response.serviceTier()?.typeAsString() ?: BEDROCK_SERVICE_TIER
-    // '_' in name is to get input_ and output aligned, so cost constants below compare better.
-    val input_Tokens = usage?.inputTokens() ?: 0
+    val inputTokens = usage?.inputTokens() ?: 0
     val outputTokens = usage?.outputTokens() ?: 0
     val totalTokens = usage?.totalTokens() ?: 0
-    val input_Cost = input_Tokens * 0.000195 / 1000.0
+    val inputCost = inputTokens * 0.000195 / 1000.0
     val outputCost = outputTokens * 0.001635 / 1000.0
-    val totalCost = input_Cost + outputCost
+    val totalCost = inputCost + outputCost
     val statsText =
         listOf(
             fileName,
@@ -173,11 +172,11 @@ fun extractWithBedrock(
             resolvedTier,
             localLatencyMs.toString(),
             (response.metrics()?.latencyMs() ?: "").toString(),
-            input_Tokens.toString(),
+            inputTokens.toString(),
             outputTokens.toString(),
             totalTokens.toString(),
             response.stopReasonAsString(),
-            "%.6f".format(input_Cost),
+            "%.6f".format(inputCost),
             "%.6f".format(outputCost),
             "%.6f".format(totalCost),
         ).joinToString(",")

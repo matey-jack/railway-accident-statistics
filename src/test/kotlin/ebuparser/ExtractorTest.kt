@@ -11,7 +11,9 @@ class ExtractorTest {
     fun test001() {
         val statsWriter = StatsWriter(LEMONADE_URL, "test-stats.txt")
         // I make it long hoping to get some non-ascii characters in the output.
-        val content = "Translate this message to French: `Hello, I love you; won't you tell me your name. Let's have coffee sometime and get to know each other well.`'`"
+        val content =
+            "Translate this message to French: `Hello, I love you; won't you tell me your name. " +
+                "Let's have coffee sometime and get to know each other well.`'`"
         val summary = extract("müßiger Test", content)
         println(summary)
         File("test-summary.md").writeText(summary.asOutput)
