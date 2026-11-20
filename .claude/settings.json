@@ -1,0 +1,16 @@
+{
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Edit|Write|MultiEdit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "grep -qE '\"file_path\": *\"[^\"]*\\.kts?\"' || exit 0; cd \"$CLAUDE_PROJECT_DIR\" && out=$(./gradlew -q ktlintFormat 2>&1) || { echo \"$out\" >&2; exit 2; }",
+            "timeout": 300
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,5 @@
+root = true
+
+[*.{kt,kts}]
+# The AWS SDK's bedrockruntime.model package needs a dozen imports otherwise.
+ktlint_standard_no-wildcard-imports = disabled
