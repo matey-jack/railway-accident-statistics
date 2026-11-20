@@ -269,7 +269,7 @@ private fun writeClassificationsCsv(
             val valueByProperty = classificationValueByProperty(classification)
 
             buildList {
-                add(summary.filename.removeSuffix(".txt"))
+                add(summary.filename.substringBeforeLast('.'))
                 add(summary.date)
                 classificationFieldMetadata.forEach { field ->
                     add(renderCsvValue(valueByProperty[field.propertyName]))

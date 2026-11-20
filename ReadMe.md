@@ -8,46 +8,51 @@ Each of the steps is useful in itself: reading the (step 2) summaries of the acc
 And the data from step 3 is tabular, so it can be aggregated, grouped, etc.
 
 Pipeline in order:
-1. PDF → text – done via datalab.io – I only had a subscription there for one month, so this step won't be repeated.
-2. Summarization (`ExtractSummaries.kt`) — reads `documents/cleaned/`, writes `results/<provider>/summaries.md`
-3. Classification (`Classifier.kt`) — reads `summaries.md`, writes `results/bedrock/classifications.csv`
+1. PDF → Markdown – done via datalab.io – I only had a subscription there for one month, so this step won't be repeated.
+2. Summarization (`ExtractSummaries.kt`) — reads `documents/*.md`, writes `results/<provider>/summaries.md`
+3. Classification (`Classifier.kt`) — reads `results/bedrock/summaries.md`, writes `results/bedrock/classifications.csv`
 
-`ExtractDamagesAndCauses.kt` (Stage Two) is no longer actively used; classification now reads summaries directly.
+Both LLM steps only process the reports listed in `testReports` (`model.kt`),
+so prompt changes can be evaluated on a varied sample before paying for a full run.
 
-Each step can be run manually using `gradle run -DmainClass=ebuparser.ExtractSummaries` or any other file with a `fun main()`.
+Each step can be run with Gradle, using the name of the file's JVM class (file name plus `Kt`),
+e.g. `./gradlew run "-DmainClass=ebuparser.ExtractSummariesKt"`.
+The quotes are needed in PowerShell.
 
-Shortcut for verifying AWS credentials before a Bedrock run
+## Preprocessing: PDF to Markdown
 
-        ./gradlew runTestAws 
+This is in a separate project, because I used datalab.io which has a Python API client.
 
+`documents/originals/` and `documents/cleaned/` hold PDFs and a plain-text extraction (pdfminer.six) of them.
+The pipeline doesn't read them.
 
-## Preprocessing: PDF to Text
-
-This is now in a separate project, because I used datalab.io which has a Python API client.
-
-## Stage One Processing: getting summaries from text files.
+## Step 2: getting summaries from the reports
 
 Prompt: [extraction-prompt.txt](src/main/resources/extraction-prompt.txt)
 Code: [ExtractSummaries.kt](src/main/kotlin/ebuparser/ExtractSummaries.kt)
 Resulting file: `results/<provider>/summaries.md` and `results/<provider>/stats.csv`
 
-Works with local Lemonade Server or AWS Bedrock and should work with any other LLM provider.
+Uses a local Lemonade Server if one is running, otherwise AWS Bedrock. It should work with any other LLM provider.
+Reports already in `summaries.md` are skipped, so an interrupted run can just be restarted.
 
 Setting up all the permissions for Bedrock is a bit of work in the AWS console.
 If you don't have AWS experience, you might want to use another provider.
-Use `TestAws.kt` (Gradle task `runTestAws`) to verify your AWS credentials are working before running the main pipeline.
+Use `./gradlew runTestAws` to verify your AWS credentials are working before a Bedrock run.
 
-To extract damages.csv I gave the complete damages.md to the consumer Claude app (using Opus 4.6 and the basic monthly plan).
-I asked it to chop the data up and give it to subagents.
+## Step 3: classifying accidents
 
-Result with ability to sum and filter: https://docs.google.com/spreadsheets/d/17yDhgDWlU_UmKKtV8QbFC6YdbPXS_EWGbCWQX6XlItQ/edit?usp=sharing
+Prompt: [classification-prompt.txt](src/main/resources/classification-prompt.txt)
+Code: [Classifier.kt](src/main/kotlin/ebuparser/Classifier.kt)
+Output: `results/bedrock/classifications.csv`
 
-## Stage Two Processing: extracting damages and causes sections.
+Bedrock only. The classification categories are the annotated fields of `Classification` in `model.kt`;
+they become both the tool schema for the LLM and the CSV columns.
 
-I don't use this anymore, all the logic is now integrated into the classification stage which reads directly from `summaries.md`.
+## Damages and causes: extracting sections from the summaries
+
+Not part of the pipeline; the classification step reads `summaries.md` directly.
 
 Code: [ExtractDamagesAndCauses.kt](src/main/kotlin/ebuparser/ExtractDamagesAndCauses.kt)
-Gradle task: `runExtractDamages`
 
 Reads `results/bedrock/summaries.md`, extracts specific sections by heading keyword matching (German):
  - Damages sections: headings containing "schaden", "tote", and "verletzte"
@@ -57,14 +62,8 @@ Outputs: `results/damages.md` and `results/causes.md`
 
 Also extracts dates (dd.mm.yyyy) found within each section.
 
-First pass for damages: I fed the resulting file to Claude Opus 4.6 in an interactive session.
-Telling it to use subagents, to actually read and understand the text.
-
-## Stage Three Processing: classifying accidents.
-
-Prompt: [classification-prompt.txt](src/main/resources/classification-prompt.txt)
-Code: [Classifier.kt](src/main/kotlin/ebuparser/Classifier.kt)
-Output: `results/bedrock/classifications.csv`
+First result of this – but insufficient quality: 
+https://docs.google.com/spreadsheets/d/17yDhgDWlU_UmKKtV8QbFC6YdbPXS_EWGbCWQX6XlItQ/edit?usp=sharing
 
 
 ## Language
@@ -110,10 +109,11 @@ Es hängt wohl auch mit den Personalkapazitäten der Behörde zusammen.
 
 ## Utilities
 
-**DeduplicateSummaries.kt**: Removes duplicate file entries from a `summaries.md` file.
-Useful if a run was interrupted and restarted, producing duplicate blocks.
+**DeduplicateSummaries.kt**: Removes duplicate file entries from a `summaries.md` file
+in the working directory and writes `distinct-summaries.md`.
 
-**StatsWriter.kt**: Helper used by `ExtractSummaries.kt` to persist Lemonade server stats to a file.
+**StatsCompare.kt** (`src/main/kotlin/llmstats/`): Compares token counts per report between two Bedrock runs
+(`old-stats.csv` vs. `stats.csv`), to see how a prompt change affects input and output size.
 
 **SleepPreventer.kt** (`src/main/kotlin/windows/`): JNA wrapper around Windows `SetThreadExecutionState`
 to prevent the OS from sleeping during long LLM processing runs.
