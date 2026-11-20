@@ -18,8 +18,22 @@ import kotlin.io.path.Path
 const val LEMONADE_URL = "http://127.0.0.1:8000"
 const val LEMONADE_STATS_URL = "$LEMONADE_URL/api/v1/stats"
 const val LEMONADE_MODEL = "Qwen3-14B-GGUF"
-const val BEDROCK_MODEL = "amazon.nova-2-lite-v1:0"
-const val BEDROCK_INFERENCE_PROFILE = "global.amazon.nova-2-lite-v1:0"
+
+data class BedrockModel(
+    val name: String,
+    val inputDollarPer1m: Double,
+    val outputDollarPer1m: Double,
+)
+
+// this is the listed flex price
+val novaModel = BedrockModel("amazon.nova-2-lite-v1:0", 0.195, 1.635)
+
+// this is the listed standard price with 50% discount
+// TODO: this needs the Bedrock Mantle endpoint and API
+val gemma31Model = BedrockModel("google.gemma-4-31b:0", 0.17/2, 0.48/2)
+
+val BEDROCK_MODEL = gemma31Model
+val BEDROCK_INFERENCE_PROFILE = "global" + BEDROCK_MODEL.name
 const val BEDROCK_SERVICE_TIER = "flex"
 
 // this includes reasoning tokens!
@@ -162,8 +176,8 @@ fun extractWithBedrock(
     val inputTokens = usage?.inputTokens() ?: 0
     val outputTokens = usage?.outputTokens() ?: 0
     val totalTokens = usage?.totalTokens() ?: 0
-    val inputCost = inputTokens * 0.195 / 1_000_000.0
-    val outputCost = outputTokens * 1.635 / 1_000_000.0
+    val inputCost = inputTokens * BEDROCK_MODEL.inputDollarPer1m / 1_000_000.0
+    val outputCost = outputTokens * BEDROCK_MODEL.outputDollarPer1m / 1_000_000.0
     val totalCost = inputCost + outputCost
     val statsText =
         listOf(
