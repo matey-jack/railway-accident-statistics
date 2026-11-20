@@ -139,7 +139,7 @@ private fun buildClassificationInput(summary: Summary): String {
         summary.sections
             .filter { section ->
                 section.category == SectionCategory.WHAT_HAPPENED ||
-                        section.category == SectionCategory.CAUSES
+                    section.category == SectionCategory.CAUSES
             }.ifEmpty { summary.sections }
 
     val sectionsText =
@@ -191,9 +191,10 @@ private fun parseRoadVehicleType(value: String?): RoadVehicleType? {
         return null
     }
 
-    RoadVehicleType.entries.firstOrNull { entry ->
-        entry.name.equals(value, ignoreCase = true)
-    }?.let { return it }
+    RoadVehicleType.entries
+        .firstOrNull { entry ->
+            entry.name.equals(value, ignoreCase = true)
+        }?.let { return it }
 
     val normalized = value.lowercase()
     return when {
@@ -298,25 +299,23 @@ class Classifier(
                         .description("Unfallkategorisierung")
                         .inputSchema(
                             ToolInputSchema.fromJson(
-                                Document.mapBuilder()
+                                Document
+                                    .mapBuilder()
                                     .putString("type", "object")
                                     .putMap("properties", buildToolSchemaProperties())
                                     .putList("required", buildRequiredProperties())
-                                    .build()
-                            )
-                        )
-                        .build()
-                )
-            )
-            .toolChoice(
+                                    .build(),
+                            ),
+                        ).build(),
+                ),
+            ).toolChoice(
                 ToolChoice.fromTool(
                     SpecificToolChoice
                         .builder()
                         .name("classify")
                         .build(),
-                )
-            )
-            .build()
+                ),
+            ).build()
 
     fun classify(summary: Summary): Classification {
         println("Classifying ${summary.filename}...")
@@ -360,15 +359,16 @@ class Classifier(
     }
 }
 
-fun enableReasoning(effort: String): Document = Document
-    .mapBuilder()
-    .putMap(
-        "reasoningConfig",
-        mapOf(
-            "type" to Document.fromString("enabled"),
-            "maxReasoningEffort" to Document.fromString(effort),
-        ),
-    ).build()
+fun enableReasoning(effort: String): Document =
+    Document
+        .mapBuilder()
+        .putMap(
+            "reasoningConfig",
+            mapOf(
+                "type" to Document.fromString("enabled"),
+                "maxReasoningEffort" to Document.fromString(effort),
+            ),
+        ).build()
 
 fun parseSummaries(path: String): List<Summary> {
     val normalizedContent = File(path).readText().replace("\r\n", "\n")

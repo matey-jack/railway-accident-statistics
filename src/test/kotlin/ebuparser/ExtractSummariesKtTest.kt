@@ -17,7 +17,9 @@ class ExtractSummariesKtTest {
     }
 
     @Test
-    fun testGetAlreadyProcessedFilenames_FileDoesNotExist(@TempDir tempDir: Path) {
+    fun testGetAlreadyProcessedFilenames_FileDoesNotExist(
+        @TempDir tempDir: Path,
+    ) {
         val outputFile = tempDir.resolve("nonexistent.md").toFile()
         val processedFilenames = getAlreadyProcessedFilenames(outputFile)
 

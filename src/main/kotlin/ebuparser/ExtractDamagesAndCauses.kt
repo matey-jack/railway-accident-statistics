@@ -38,7 +38,10 @@ object ExtractDamages {
         println("Extracted ${extractedSections.size} sections to ${output.path}")
     }
 
-    private fun extractSection(section: String, headingMatcher: (String) -> Boolean): String? {
+    private fun extractSection(
+        section: String,
+        headingMatcher: (String) -> Boolean,
+    ): String? {
         val lines = section.lines()
         val fileLine = lines.firstOrNull { it.startsWith("file:") } ?: return null
 

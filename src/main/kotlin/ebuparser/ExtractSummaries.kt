@@ -21,6 +21,7 @@ const val LEMONADE_MODEL = "Qwen3-14B-GGUF"
 const val BEDROCK_MODEL = "amazon.nova-2-lite-v1:0"
 const val BEDROCK_INFERENCE_PROFILE = "global.amazon.nova-2-lite-v1:0"
 const val BEDROCK_SERVICE_TIER = "flex"
+
 // this includes reasoning tokens!
 const val BEDROCK_MAX_TOKENS = 8000
 const val OUTPUT_FILENAME = "summaries.md"
@@ -240,7 +241,11 @@ const val STATS_CSV_HEADER =
         "bedrock_latency_ms,input_tokens,output_tokens,total_tokens," +
         "stop_reason,input_cost_usd,output_cost_usd,total_cost_usd"
 
-fun appendStats(statsFile: File, taskId: String, statsText: String) {
+fun appendStats(
+    statsFile: File,
+    taskId: String,
+    statsText: String,
+) {
     statsFile.parentFile?.mkdirs()
     if (!statsFile.exists() || statsFile.length() == 0L) {
         statsFile.appendText(STATS_CSV_HEADER + "\n")
@@ -294,8 +299,9 @@ fun main() {
         bedrockClient = null
     } else {
         println("Lemonade is not running. Checking AWS profile '$AWS_PROFILE'.")
-        val identity = getCallerIdentityForProfile(AWS_PROFILE)
-            ?: error("Neither Lemonade nor a logged-in AWS profile '$AWS_PROFILE' is available.")
+        val identity =
+            getCallerIdentityForProfile(AWS_PROFILE)
+                ?: error("Neither Lemonade nor a logged-in AWS profile '$AWS_PROFILE' is available.")
 
         printCallerIdentity(identity)
         val region = resolveAwsRegion()
@@ -316,7 +322,7 @@ fun main() {
 
         println(
             "Using Bedrock model '$BEDROCK_MODEL' via inference profile '$BEDROCK_INFERENCE_PROFILE' " +
-                    "with service tier '$BEDROCK_SERVICE_TIER' in region '${region.id()}'.",
+                "with service tier '$BEDROCK_SERVICE_TIER' in region '${region.id()}'.",
         )
     }
     val statsFile = Path(outputDirectory).resolve("stats.csv").toFile()
@@ -330,11 +336,11 @@ fun main() {
     val files =
         documentsDir
             .listFiles { file ->
-                file.isFile && file.extension == "md"
-                        && file.name !in processedFiles
-                        && isFileInSubsetForTest(file.name)
-            }
-            ?.sortedBy { it.name }
+                file.isFile &&
+                    file.extension == "md" &&
+                    file.name !in processedFiles &&
+                    isFileInSubsetForTest(file.name)
+            }?.sortedBy { it.name }
             ?: emptyList()
 
     if (System.getProperty("os.name").lowercase().contains("win")) {

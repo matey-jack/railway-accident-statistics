@@ -32,4 +32,3 @@ fun groupRecommendations() {
 fun main() {
     groupRecommendations()
 }
-

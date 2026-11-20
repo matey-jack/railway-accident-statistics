@@ -32,11 +32,12 @@ fun main() {
     }
     println("Written ${out.path}")
 
-    val rows = old.keys.intersect(new.keys).map { file ->
-        val (oldIn, oldOut) = old[file]!!
-        val (newIn, newOut) = new[file]!!
-        Pair((newIn - oldIn).toDouble()/oldIn*100, (newOut - oldOut).toDouble()/oldOut*100)
-    }
+    val rows =
+        old.keys.intersect(new.keys).map { file ->
+            val (oldIn, oldOut) = old[file]!!
+            val (newIn, newOut) = new[file]!!
+            Pair((newIn - oldIn).toDouble() / oldIn * 100, (newOut - oldOut).toDouble() / oldOut * 100)
+        }
 
     val n = rows.size.toDouble()
     val avgInputDiff = rows.sumOf { it.first } / n
@@ -51,14 +52,15 @@ fun main() {
     println("Most grown: " + outputDiffs.take(10).joinToString(", ") { it.toString() })
     println("Most shrunk: " + outputDiffs.reversed().take(10).joinToString(", ") { it.toString() })
 
-    val shrunkFiles = old.keys.intersect(new.keys)
-        .map { file ->
-            val (oldIn, oldOut) = old[file]!!
-            val (newIn, newOut) = new[file]!!
-            Triple(file, (newOut - oldOut).toDouble() / oldOut * 100, newOut - oldOut)
-        }
-        .filter { (_, rel, _) -> rel < 0 }
-        .sortedBy { (_, _, abs) -> abs }
+    val shrunkFiles =
+        old.keys
+            .intersect(new.keys)
+            .map { file ->
+                val (oldIn, oldOut) = old[file]!!
+                val (newIn, newOut) = new[file]!!
+                Triple(file, (newOut - oldOut).toDouble() / oldOut * 100, newOut - oldOut)
+            }.filter { (_, rel, _) -> rel < 0 }
+            .sortedBy { (_, _, abs) -> abs }
     println("\nFiles with smaller output token count (biggest absolute decrease last):")
     for ((file, rel, absDiff) in shrunkFiles) {
         println("  $file  rel: ${"%.1f".format(rel)}%  abs: $absDiff")
