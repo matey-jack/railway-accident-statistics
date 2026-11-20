@@ -21,4 +21,3 @@ Don't add Gradle run tasks for the main classes; use `./gradlew run "-DmainClass
 Only run them when asked. `./gradlew runTestAws` is a free check that the AWS SSO login is still valid.
 
 Tests: `./gradlew test`.
-Lint is not a usable gate: `detekt` 1.23 rejects JVM target 25, and `ktlintCheck` fails on many existing violations.
