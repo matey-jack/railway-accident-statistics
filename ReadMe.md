@@ -10,7 +10,7 @@ And the data from step 3 is tabular, so it can be aggregated, grouped, etc.
 Pipeline in order:
 1. PDF → Markdown – done via datalab.io – I only had a subscription there for one month, so this step won't be repeated.
 2. Summarization (`ExtractSummaries.kt`) — reads `documents/*.md`, writes `results/<provider>/summaries.md`
-3. Classification (`Classifier.kt`) — reads `results/bedrock/summaries.md`, writes `results/bedrock/classifications.csv`
+3. Classification (`Classifier.kt`) — reads `results/bedrock/summaries-Nova-2-Lite.md`, writes `results/bedrock/classifications.csv`
 
 Both LLM steps only process the reports listed in `testReports` (`model.kt`),
 so prompt changes can be evaluated on a varied sample before paying for a full run.
@@ -37,6 +37,9 @@ Reports already in `summaries.md` are skipped, so an interrupted run can just be
 
 Setting up all the permissions for Bedrock is a bit of work in the AWS console.
 If you don't have AWS experience, you might want to use another provider.
+Models on the bedrock-mantle endpoint (Gemma 4) additionally need `bedrock-mantle:CreateInference` and
+`bedrock-mantle:CallWithBearerToken`, because the SSO credentials are turned into short-term Bedrock API keys.
+`runTestAws` doesn't check these.
 Use `./gradlew runTestAws` to verify your AWS credentials are working before a Bedrock run.
 
 ## Step 3: classifying accidents
@@ -54,7 +57,7 @@ Not part of the pipeline; the classification step reads `summaries.md` directly.
 
 Code: [ExtractDamagesAndCauses.kt](src/main/kotlin/ebuparser/ExtractDamagesAndCauses.kt)
 
-Reads `results/bedrock/summaries.md`, extracts specific sections by heading keyword matching (German):
+Reads `results/bedrock/summaries-Nova-2-Lite.md`, extracts specific sections by heading keyword matching (German):
  - Damages sections: headings containing "schaden", "tote", and "verletzte"
  - Causes sections: headings containing "ursachen" and "unfall"
 

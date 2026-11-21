@@ -7,8 +7,10 @@ import io.github.sashirestela.openai.domain.chat.ChatRequest
 import okhttp3.OkHttpClient
 import okhttp3.Request
 import software.amazon.awssdk.auth.credentials.ProfileCredentialsProvider
+import software.amazon.awssdk.regions.Region
 import software.amazon.awssdk.services.bedrockruntime.BedrockRuntimeClient
 import software.amazon.awssdk.services.bedrockruntime.model.*
+import software.amazon.bedrock.token.BedrockTokenGenerator
 import windows.SleepPreventer
 import java.io.File
 import java.nio.charset.Charset
@@ -19,21 +21,31 @@ const val LEMONADE_URL = "http://127.0.0.1:8000"
 const val LEMONADE_STATS_URL = "$LEMONADE_URL/api/v1/stats"
 const val LEMONADE_MODEL = "Qwen3-14B-GGUF"
 
+enum class BedrockApi {
+    CONVERSE,
+    MANTLE,
+}
+
 data class BedrockModel(
     val name: String,
     val inputDollarPer1m: Double,
     val outputDollarPer1m: Double,
+    val api: BedrockApi,
 )
 
 // this is the listed flex price
-val novaModel = BedrockModel("amazon.nova-2-lite-v1:0", 0.195, 1.635)
+val novaModel = BedrockModel("amazon.nova-2-lite-v1:0", 0.195, 1.635, BedrockApi.CONVERSE)
 
-// this is the listed standard price with 50% discount
-// TODO: this needs the Bedrock Mantle endpoint and API
-val gemma31Model = BedrockModel("google.gemma-4-31b:0", 0.17 / 2, 0.48 / 2)
+// this is the listed standard price with 50% discount.
+// Gemma 4 is only served by the OpenAI-compatible bedrock-mantle endpoint, which has no cross-region inference profiles.
+val gemma31Model = BedrockModel("google.gemma-4-31b", 0.17 / 2, 0.48 / 2, BedrockApi.MANTLE)
 
 val BEDROCK_MODEL = gemma31Model
-val BEDROCK_INFERENCE_PROFILE = "global." + BEDROCK_MODEL.name
+val BEDROCK_MODEL_ID =
+    when (BEDROCK_MODEL.api) {
+        BedrockApi.CONVERSE -> "global." + BEDROCK_MODEL.name
+        BedrockApi.MANTLE -> BEDROCK_MODEL.name
+    }
 const val BEDROCK_SERVICE_TIER = "flex"
 
 // this includes reasoning tokens!
@@ -60,15 +72,16 @@ val llmServer =
 
 val summarizationPrompt = File("src/main/resources/extraction-prompt.txt").readText()
 
+// The format rules are in the system prompt, but reports are long, and the model follows them more reliably
+// when they are repeated right where it starts writing.
+val formatReminder = File("src/main/resources/extraction-format-reminder.txt").readText()
+
+fun reportMessage(fullText: String): String = "<bericht>\n$fullText\n</bericht>\n\n$formatReminder"
+
 data class ExtractResult(
     val summary: SimpleSummary,
     val statsText: String,
 )
-
-enum class LlmProvider {
-    LEMONADE,
-    BEDROCK,
-}
 
 fun getAlreadyProcessedFilenames(outputFile: File): Set<String> {
     if (!outputFile.exists()) {
@@ -106,7 +119,7 @@ fun extractWithLemonade(
             .builder()
             .model(LEMONADE_MODEL)
             .message(ChatMessage.SystemMessage.of(prompt))
-            .message(ChatMessage.UserMessage.of(fullText))
+            .message(ChatMessage.UserMessage.of(reportMessage(fullText)))
             .build()
 
     val streamResponse = llmServer.chatCompletions().createStream(chatRequest).join()
@@ -140,13 +153,13 @@ fun extractWithBedrock(
     val request =
         ConverseRequest
             .builder()
-            .modelId(BEDROCK_INFERENCE_PROFILE)
+            .modelId(BEDROCK_MODEL_ID)
             .system(SystemContentBlock.builder().text(prompt).build())
             .messages(
                 Message
                     .builder()
                     .role(ConversationRole.USER)
-                    .content(ContentBlock.builder().text(fullText).build())
+                    .content(ContentBlock.builder().text(reportMessage(fullText)).build())
                     .build(),
             ).inferenceConfig(
                 InferenceConfiguration
@@ -172,30 +185,108 @@ fun extractWithBedrock(
             .joinToString("")
 
     val usage = response.usage()
-    val resolvedTier = response.serviceTier()?.typeAsString() ?: BEDROCK_SERVICE_TIER
-    val inputTokens = usage?.inputTokens() ?: 0
-    val outputTokens = usage?.outputTokens() ?: 0
-    val totalTokens = usage?.totalTokens() ?: 0
-    val inputCost = inputTokens * BEDROCK_MODEL.inputDollarPer1m / 1_000_000.0
-    val outputCost = outputTokens * BEDROCK_MODEL.outputDollarPer1m / 1_000_000.0
-    val totalCost = inputCost + outputCost
     val statsText =
-        listOf(
-            fileName,
-            BEDROCK_INFERENCE_PROFILE,
-            resolvedTier,
-            localLatencyMs.toString(),
-            (response.metrics()?.latencyMs() ?: "").toString(),
-            inputTokens.toString(),
-            outputTokens.toString(),
-            totalTokens.toString(),
-            response.stopReasonAsString(),
-            "%.6f".format(inputCost),
-            "%.6f".format(outputCost),
-            "%.6f".format(totalCost),
-        ).joinToString(",")
+        bedrockStatsRow(
+            fileName = fileName,
+            resolvedTier = response.serviceTier()?.typeAsString(),
+            localLatencyMs = localLatencyMs,
+            bedrockLatencyMs = response.metrics()?.latencyMs(),
+            inputTokens = usage?.inputTokens() ?: 0,
+            outputTokens = usage?.outputTokens() ?: 0,
+            totalTokens = usage?.totalTokens() ?: 0,
+            stopReason = response.stopReasonAsString(),
+        )
 
     return ExtractResult(SimpleSummary(fileName, content), statsText)
+}
+
+private val mantleHttpClient =
+    OkHttpClient
+        .Builder()
+        .connectTimeout(30, TimeUnit.SECONDS)
+        .readTimeout(0, TimeUnit.SECONDS)
+        .writeTimeout(30, TimeUnit.SECONDS)
+        .build()
+
+// simple-openai appends /v1/... to this, and Gemma 4 is served under /openai/v1.
+fun mantleBaseUrl(region: Region): String = "https://bedrock-mantle.${region.id()}.api.aws/openai"
+
+fun extractWithMantle(
+    tokenGenerator: BedrockTokenGenerator,
+    region: Region,
+    fileName: String,
+    fullText: String,
+    prompt: String = summarizationPrompt,
+): ExtractResult {
+    val startNs = System.nanoTime()
+    // A short-term API key can't outlive the SSO session it is derived from, so each request gets a fresh one.
+    val client =
+        SimpleOpenAI
+            .builder()
+            .apiKey(tokenGenerator.getToken())
+            .baseUrl(mantleBaseUrl(region))
+            .clientAdapter(OkHttpClientAdapter(mantleHttpClient))
+            .build()
+    val chatRequest =
+        ChatRequest
+            .builder()
+            .model(BEDROCK_MODEL_ID)
+            .message(ChatMessage.SystemMessage.of(prompt))
+            .message(ChatMessage.UserMessage.of(reportMessage(fullText)))
+            .maxCompletionTokens(BEDROCK_MAX_TOKENS)
+            .reasoningEffort(ChatRequest.ReasoningEffort.LOW)
+            .serviceTier(ChatRequest.ServiceTier.FLEX)
+            .build()
+
+    val chat = client.chatCompletions().create(chatRequest).join()
+    val localLatencyMs = TimeUnit.NANOSECONDS.toMillis(System.nanoTime() - startNs)
+
+    val usage = chat.usage
+    val statsText =
+        bedrockStatsRow(
+            fileName = fileName,
+            resolvedTier = chat.serviceTier?.name?.lowercase(),
+            localLatencyMs = localLatencyMs,
+            bedrockLatencyMs = null,
+            inputTokens = usage?.promptTokens ?: 0,
+            outputTokens = usage?.completionTokens ?: 0,
+            totalTokens = usage?.totalTokens ?: 0,
+            stopReason =
+                chat.choices
+                    .firstOrNull()
+                    ?.finishReason
+                    .orEmpty(),
+        )
+
+    return ExtractResult(SimpleSummary(fileName, chat.firstContent().orEmpty()), statsText)
+}
+
+fun bedrockStatsRow(
+    fileName: String,
+    resolvedTier: String?,
+    localLatencyMs: Long,
+    bedrockLatencyMs: Long?,
+    inputTokens: Int,
+    outputTokens: Int,
+    totalTokens: Int,
+    stopReason: String,
+): String {
+    val inputCost = inputTokens * BEDROCK_MODEL.inputDollarPer1m / 1_000_000.0
+    val outputCost = outputTokens * BEDROCK_MODEL.outputDollarPer1m / 1_000_000.0
+    return listOf(
+        fileName,
+        BEDROCK_MODEL_ID,
+        resolvedTier ?: BEDROCK_SERVICE_TIER,
+        localLatencyMs.toString(),
+        bedrockLatencyMs?.toString().orEmpty(),
+        inputTokens.toString(),
+        outputTokens.toString(),
+        totalTokens.toString(),
+        stopReason,
+        "%.6f".format(inputCost),
+        "%.6f".format(outputCost),
+        "%.6f".format(inputCost + outputCost),
+    ).joinToString(",")
 }
 
 fun printDebugInfo() {
@@ -314,15 +405,15 @@ fun isFileInSubsetForTest(filename: String): Boolean {
 fun main() {
     printDebugInfo()
 
-    val provider: LlmProvider
     val outputDirectory: String
     val bedrockClient: BedrockRuntimeClient?
+    val extractor: (fileName: String, fullText: String) -> ExtractResult
 
     if (isLemonadeRunning()) {
         println("Lemonade is running. Continuing with local processing.")
-        provider = LlmProvider.LEMONADE
         outputDirectory = LEMONADE_OUTPUT_DIR
         bedrockClient = null
+        extractor = { fileName, fullText -> extractWithLemonade(fileName, fullText) }
     } else {
         println("Lemonade is not running. Checking AWS profile '$AWS_PROFILE'.")
         val identity =
@@ -337,17 +428,33 @@ fun main() {
                 .profileName(AWS_PROFILE)
                 .build()
 
-        provider = LlmProvider.BEDROCK
         outputDirectory = BEDROCK_OUTPUT_DIR
-        bedrockClient =
-            BedrockRuntimeClient
-                .builder()
-                .region(region)
-                .credentialsProvider(credentialsProvider)
-                .build()
+        when (BEDROCK_MODEL.api) {
+            BedrockApi.CONVERSE -> {
+                val converseClient =
+                    BedrockRuntimeClient
+                        .builder()
+                        .region(region)
+                        .credentialsProvider(credentialsProvider)
+                        .build()
+                bedrockClient = converseClient
+                extractor = { fileName, fullText -> extractWithBedrock(converseClient, fileName, fullText) }
+            }
+
+            BedrockApi.MANTLE -> {
+                val tokenGenerator =
+                    BedrockTokenGenerator
+                        .builder()
+                        .region(region)
+                        .credentialsProvider(credentialsProvider)
+                        .build()
+                bedrockClient = null
+                extractor = { fileName, fullText -> extractWithMantle(tokenGenerator, region, fileName, fullText) }
+            }
+        }
 
         println(
-            "Using Bedrock model '$BEDROCK_MODEL' via inference profile '$BEDROCK_INFERENCE_PROFILE' " +
+            "Using Bedrock model '$BEDROCK_MODEL_ID' via the ${BEDROCK_MODEL.api} API " +
                 "with service tier '$BEDROCK_SERVICE_TIER' in region '${region.id()}'.",
         )
     }
@@ -374,17 +481,13 @@ fun main() {
     }
 
     var errorCount = 0
-    bedrockClient.use { bedrock ->
+    bedrockClient.use {
         for (file in files) {
             try {
                 val content = file.readText()
                 println("Starting: ${file.name}")
 
-                val result =
-                    when (provider) {
-                        LlmProvider.LEMONADE -> extractWithLemonade(file.name, content)
-                        LlmProvider.BEDROCK -> extractWithBedrock(requireNotNull(bedrock), file.name, content)
-                    }
+                val result = extractor(file.name, content)
                 val cleanedSummary = result.summary.copy(summary = cleanSummary(result.summary.summary))
                 missingSectionHeadings(cleanedSummary.summary).takeIf { it.isNotEmpty() }?.let {
                     println("WARNING: ${file.name} is missing the sections $it")

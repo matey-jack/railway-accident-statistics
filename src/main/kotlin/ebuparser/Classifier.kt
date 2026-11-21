@@ -324,13 +324,14 @@ class Classifier(
                 ),
             ).build()
 
+    // TODO: change to Mantle API when using with Gemma.
     fun classify(summary: Summary): Classification {
         println("Classifying ${summary.filename}...")
         val modelInput = buildClassificationInput(summary)
         val request =
             ConverseRequest
                 .builder()
-                .modelId(BEDROCK_INFERENCE_PROFILE)
+                .modelId(BEDROCK_MODEL_ID)
                 .system(SystemContentBlock.builder().text(classificationPrompt).build())
                 .messages(
                     Message

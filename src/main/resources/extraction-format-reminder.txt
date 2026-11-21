@@ -1,0 +1,4 @@
+Extrahiere jetzt aus diesem Bericht die acht Abschnitte nach den Anweisungen im Systemprompt.
+Beginne direkt mit "# Titel des Untersuchungsberichts" und schreibe alle acht Überschriften
+in der vorgegebenen Reihenfolge, jede mit genau einem `#`.
+Übernimm die Sätze wörtlich; Überschriften aus dem Original schreibst du mit mindestens zwei `#`.

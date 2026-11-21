@@ -8,7 +8,7 @@ Ausnahmen:
 - Aus Tabellen, von denen nur einzelne Einträge relevant sind, übernimmst du nur diese Einträge
   und die Zeilen- und Spaltenüberschriften, die zu ihrem Verständnis nötig sind.
 
-Der Bericht folgt in der nächsten Nachricht als Markdown-Text.
+Der Bericht folgt in der nächsten Nachricht als Markdown-Text zwischen <bericht> und </bericht>.
 Deine Ausgabe wird anschließend automatisch weiterverarbeitet:
 Aus "Hergang des Unfalls" und "Ursachen des Unfalls" wird der Unfall in Kategorien eingeordnet.
 Alles, was für diese Einordnung wichtig ist, muss deshalb in diesen beiden Abschnitten stehen.
