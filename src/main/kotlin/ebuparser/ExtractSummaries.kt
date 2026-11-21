@@ -17,8 +17,13 @@ import software.amazon.awssdk.services.bedrockruntime.model.*
 import software.amazon.bedrock.token.BedrockTokenGenerator
 import windows.SleepPreventer
 import java.io.File
+import java.io.FileOutputStream
+import java.io.OutputStream
+import java.io.PrintStream
 import java.nio.charset.Charset
 import java.time.Duration
+import java.time.LocalDateTime
+import java.time.temporal.ChronoUnit
 import java.util.concurrent.TimeUnit
 import kotlin.io.path.Path
 import kotlin.jvm.optionals.getOrNull
@@ -57,6 +62,7 @@ const val BEDROCK_SERVICE_TIER = "flex"
 // this includes reasoning tokens!
 const val BEDROCK_MAX_TOKENS = 8000
 const val OUTPUT_FILENAME = "summaries.md"
+const val LOG_FILENAME = "extraction-log.txt"
 const val LEMONADE_OUTPUT_DIR = "results/lemonade"
 const val BEDROCK_OUTPUT_DIR = "results/bedrock"
 
@@ -416,9 +422,13 @@ fun cleanSummary(summary: String): String {
 
 private val HEADING_REGEX = Regex("""^(#+)[ \t]+(.+?)[ \t]*$""", RegexOption.MULTILINE)
 
+// The model occasionally misspells a prescribed heading (e.g. "Verlette").
+// The section headings differ from each other far more than this.
+private const val MAX_HEADING_TYPOS = 2
+
 private fun sectionHeadingOf(headingText: String): String? {
-    val bare = headingText.trim('*', ' ', ':')
-    return SUMMARY_SECTION_HEADINGS.firstOrNull { it.equals(bare, ignoreCase = true) }
+    val bare = headingText.trim('*', ' ', ':').lowercase()
+    return SUMMARY_SECTION_HEADINGS.firstOrNull { editDistance(it.lowercase(), bare) <= MAX_HEADING_TYPOS }
 }
 
 // The parsers split summaries at H1 headings, but the model doesn't reliably keep the prescribed levels:
@@ -452,16 +462,50 @@ fun isFileInSubsetForTest(filename: String): Boolean {
     return testReports.contains(number)
 }
 
+private class TeeOutputStream(
+    private val first: OutputStream,
+    private val second: OutputStream,
+) : OutputStream() {
+    override fun write(b: Int) {
+        first.write(b)
+        second.write(b)
+    }
+
+    override fun write(
+        b: ByteArray,
+        off: Int,
+        len: Int,
+    ) {
+        first.write(b, off, len)
+        second.write(b, off, len)
+    }
+
+    override fun flush() {
+        first.flush()
+        second.flush()
+    }
+}
+
+// Tees at the stream level, so that output of libraries and uncaught exceptions also end up in the log file.
+fun alsoLogTo(logFile: File) {
+    logFile.parentFile?.mkdirs()
+    val fileStream = FileOutputStream(logFile, true)
+    System.setOut(PrintStream(TeeOutputStream(System.out, fileStream), true, Charsets.UTF_8))
+    System.setErr(PrintStream(TeeOutputStream(System.err, fileStream), true, Charsets.UTF_8))
+    println("\n=== Run started ${LocalDateTime.now().truncatedTo(ChronoUnit.SECONDS)} ===")
+}
+
 fun main() {
+    val useLemonade = isLemonadeRunning()
+    val outputDirectory = if (useLemonade) LEMONADE_OUTPUT_DIR else BEDROCK_OUTPUT_DIR
+    alsoLogTo(Path(outputDirectory).resolve(LOG_FILENAME).toFile())
     printDebugInfo()
 
-    val outputDirectory: String
     val bedrockClient: BedrockRuntimeClient?
     val extractor: (fileName: String, fullText: String) -> ExtractResult
 
-    if (isLemonadeRunning()) {
+    if (useLemonade) {
         println("Lemonade is running. Continuing with local processing.")
-        outputDirectory = LEMONADE_OUTPUT_DIR
         bedrockClient = null
         extractor = { fileName, fullText -> extractWithLemonade(fileName, fullText) }
     } else {
@@ -478,7 +522,6 @@ fun main() {
                 .profileName(AWS_PROFILE)
                 .build()
 
-        outputDirectory = BEDROCK_OUTPUT_DIR
         when (BEDROCK_MODEL.api) {
             BedrockApi.CONVERSE -> {
                 val converseClient =
@@ -529,7 +572,7 @@ fun main() {
     bedrockClient.use {
         for (file in files) {
             try {
-                val content = file.readText()
+                val content = squeezeTablePadding(file.readText())
                 println("Starting: ${file.name}")
 
                 val result = extractor(file.name, content)
@@ -540,6 +583,7 @@ fun main() {
                 outputFile.appendText("\n\n---\n" + cleanedSummary.asOutput)
                 appendStats(statsFile, file.name, result.statsText)
                 println("Processed: ${file.name}")
+                assessSummary(file.name, cleanedSummary.summary, content).logLines().forEach(::println)
             } catch (e: Exception) {
                 println("Error processing ${file.name}: ${e.message}")
                 errorCount++
