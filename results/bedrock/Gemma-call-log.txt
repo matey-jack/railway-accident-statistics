@@ -1,0 +1,82 @@
+
+Starting: 001.md
+Processed: 001.md
+Starting: 002.md
+Processed: 002.md
+Starting: 007.md
+Processed: 007.md
+Starting: 008.md
+Processed: 008.md
+Starting: 009.md
+Processed: 009.md
+Starting: 012.md
+Processed: 012.md
+Starting: 015.md
+Processed: 015.md
+Starting: 023.md
+Processed: 023.md
+Starting: 032.md
+Processed: 032.md
+Starting: 034.md
+Processed: 034.md
+Starting: 042.md
+Processed: 042.md
+Starting: 047.md
+Processed: 047.md
+Starting: 055.md
+Processed: 055.md
+Starting: 082.md
+Processed: 082.md
+Starting: 089.md
+WARNING: 089.md is missing the sections [bereits umgesetzte Maßnahmen]
+Processed: 089.md
+Starting: 096.md
+Processed: 096.md
+Starting: 101.md
+Processed: 101.md
+Starting: 114.md
+[OkHttp https://bedrock-mantle.eu-central-1.api.aws/...] ERROR io.github.sashirestela.cleverclient.client.HttpClientAdapter - Response : {"error":{"code":"validation_error","message":"prompt tokens (266553) exceed model maximum (262144) for google.gemma-4-31b","param":null,"type":"invalid_request_error"}}
+Error processing 114.md: io.github.sashirestela.cleverclient.support.CleverClientException: Calling failed after 1 attempts
+Starting: 116.md
+Processed: 116.md
+Starting: 123.md
+Processed: 123.md
+Starting: 125.md
+Processed: 125.md
+Starting: 126.md
+Processed: 126.md
+Starting: 179.md
+Fixing heading: # Höhe des Schadens, Anzahl Tote und Verlette
+WARNING: 179.md is missing the sections [Höhe des Schadens, Anzahl Tote und Verletzte]
+Processed: 179.md
+Starting: 180.md
+Processed: 180.md
+Starting: 181.md
+Processed: 181.md
+Starting: 191.md
+Processed: 191.md
+Starting: 196.md
+Fixing heading: # Höhe des Schadens, Anzahl Tote und Verlette
+WARNING: 196.md is missing the sections [Höhe des Schadens, Anzahl Tote und Verletzte]
+Processed: 196.md
+Starting: 199.md
+Processed: 199.md
+Starting: 200.md
+Processed: 200.md
+Starting: 201.md
+Processed: 201.md
+Starting: 203.md
+Processed: 203.md
+Starting: 226.md
+WARNING: 226.md is missing the sections [Bauart der beteiligten Stellwerke, Baureihe der beteiligten Schienenfahrzeuge, Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle, bereits umgesetzte Maßnahmen]
+Processed: 226.md
+Starting: 231.md
+WARNING: 231.md is missing the sections [Bauart der beteiligten Stellwerke, Baureihe der beteiligten Schienenfahrzeuge, Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle, bereits umgesetzte Maßnahmen]
+Processed: 231.md
+Starting: 234.md
+Processed: 234.md
+Starting: 237.md
+Processed: 237.md
+Starting: 238.md
+Processed: 238.md
+Summary written to results\bedrock\summaries.md
