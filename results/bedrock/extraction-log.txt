@@ -1,0 +1,203 @@
+
+=== Run started 2026-11-21T19:12:28 ===
+Default charset: UTF-8
+file.encoding: UTF-8
+stdout.encoding: UTF-8
+Encoding test: äöüß
+Lemonade is not running. Checking AWS profile 'llm-user'.
+SLF4J(W): No SLF4J providers were found.
+SLF4J(W): Defaulting to no-operation (NOP) logger implementation
+SLF4J(W): See https://www.slf4j.org/codes.html#noProviders for further details.
+
+Using Bedrock model 'google.gemma-4-31b' via the MANTLE API with service tier 'flex' in region 'eu-central-1'.
+'results\bedrock\summaries.md' doesn't exist. Creating it.
+Starting: 001.md
+Processed: 001.md
+Assessment 001.md: 25/29 sentences verbatim (86%)
+  not verbatim: Die Fahrt des IRC 51219 nach dem Ereignis „Empelde“ wurde jedoch ohne Veranlassung der erforderlichen „volle Bremsprobe“, die den Grund für die ungenügende Bremswirkung offenbart hätte, fortgesetzt.
+  not verbatim: DS 915 01 § 7 durchzufuhrende vereinfachte Bremsprobe um einen zusätzlichen Arbeitsschritt zu ergänzen, durch den der freie Durchgang der Hauptluftleitung (d.h. die lufttechnische Verbindung vom führe
+  not verbatim: Es ergeben sich Handlungsbedarf, die Bestimmungen im Modul 423.0170 zu modifizieren, um eine anwendergerechte Vorgabe zu gewährleisten.
+  not verbatim: Sollte eine Intensivierung der Schulung und Fortbildung der Triebfahrzeugführer in diesem Themenbereich sichergestellt werden.
+Starting: 002.md
+Processed: 002.md
+Assessment 002.md: 15/18 sentences verbatim (83%)
+  not verbatim: Die Entgleisung des D 203 am 06. Februar 2000 wäre vermieden worden, wenn innerhalb des Bahnhofs Brühl die zulässige Geschwindigkeit von 40 km/h eingehalten, oder im Zusammenhang mit der Baumaßnahme e
+  not verbatim: Das Eisenbahn-Bundesamt hält es für notwendig, die »Weichenbereichsregel« in Frage zu stellen.
+  not verbatim: Es erscheint geboten, die DB Netz AG zur Erarbeitung verbindlicher Grundsätze für die Sicherung von Baustellen aufzufordern.
+Starting: 007.md
+Processed: 007.md
+Assessment 007.md: 26/28 sentences verbatim (92%)
+  not verbatim: Als Folge des Zusammenstoßes entgleisen das Triebfahrzeug (Tfz) des RE 19534, eine Diesellok der Baureihe 218, und ein Reisezugwagen.
+  not verbatim: In Wahrnehmung seiner Verantwortung für die Sicherheit des Eisenbahnverkehrs sollte der Vorstand der DB Netz AG prüfen, inwieweit die Weiterbildung der Fahrdienstleiter durch Simulatoren ergänzt und d
+  keine Angabe im Bericht: [bereits umgesetzte Maßnahmen]
+Starting: 008.md
+Processed: 008.md
+Assessment 008.md: 16/17 sentences verbatim (94%)
+  not verbatim: Unterstellt man eine Reaktionszeit von ca 1 Sekunde, so hat der Triebfahrzeugführer den US-LKW etwa 4 Sekunden und ca. 170 Meter vor dem Zusammenprall als Hindernis auf dem BÜ erkannt und eine Schnell
+Starting: 009.md
+Processed: 009.md
+Assessment 009.md: 35/37 sentences verbatim (94%)
+  not verbatim: Das ESTW-Wkp ist ein elektronisches Stellwerk der Bauform EI S (Firma Siemens) und dient allein der Steuerung des S-Bahnverkehrs.
+  not verbatim: Der Zug S 25066 wurde aus 3 Viertelzügen der Baureihe (BR) 481 (A-Wagen mit Führerstand) / 482 (B-Wagen) mit nachfolgender Reihung gebildet.
+Starting: 012.md
+Processed: 012.md
+Assessment 012.md: 20/20 sentences verbatim (100%)
+  keine Angabe im Bericht: [Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle]
+Starting: 015.md
+Processed: 015.md
+Assessment 015.md: 25/28 sentences verbatim (89%)
+  not verbatim: Das Einfahrsignal 136 wurde also erneut auf Fahrt gestellt und das Ausfahrsignal 132 stand noch für den FTZ 53185 auf Fahrt.
+  not verbatim: Das führende Fahrzeug des Güterzuges FTZ 53185 war mit einem Triebfahrzeug 155 144 der DB Schenker Rail Deutschland GmbH und 24 beladenen Güterwagen (Gefahrgut).
+  not verbatim: Der Zug bestand aus einem Triebfahrzeug 114 019 der DB Regio AG, Region Nordost (mit zweitem Drehgestell entgleist) und 4 Doppelstock- Reisezugwagen.
+Starting: 023.md
+Processed: 023.md
+Assessment 023.md: 15/15 sentences verbatim (100%)
+Starting: 032.md
+Processed: 032.md
+Assessment 032.md: 10/11 sentences verbatim (90%)
+  not verbatim: In der Folge des Zusammenpralls entgleisen alle Fahrzeuge (Doppeltraktion der Baureihe 612), wobei der erste Teil der ersten Einheit auf die Seite kippte.
+  keine Angabe im Bericht: [Bauart der beteiligten Stellwerke, Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle, bereits umgesetzte Maßnahmen]
+Starting: 034.md
+Processed: 034.md
+Assessment 034.md: 17/17 sentences verbatim (100%)
+  keine Angabe im Bericht: [Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle]
+Starting: 042.md
+Processed: 042.md
+Assessment 042.md: 15/16 sentences verbatim (93%)
+  not verbatim: Reisezugwagen vom Typ Steuerwagen (STW) mit der Fahrzeugnummer D- NOB 55 80 80- 75007- 5 und den Versorgungswagen (MW_V) mit der Fahrzeugnummer D- NOB 55 80 22- 75013- 4.
+  keine Angabe im Bericht: [Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle, bereits umgesetzte Maßnahmen]
+Starting: 047.md
+Processed: 047.md
+Assessment 047.md: 13/13 sentences verbatim (100%)
+  keine Angabe im Bericht: [Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle]
+Starting: 055.md
+Processed: 055.md
+Assessment 055.md: 19/21 sentences verbatim (90%)
+  not verbatim: Durch die Flankenfahrt des DGS 49325 entgleisen mehrere Güterwagen sowie das Triebfahrzeug des DGS 49325.
+  not verbatim: Das Triebfahrzeug des DGS 92505 ist ein Triebfahrzeug 285 109 der ITL Eisenbahngesellschaft.
+  keine Angabe im Bericht: [Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle]
+Starting: 082.md
+Processed: 082.md
+Assessment 082.md: 37/40 sentences verbatim (92%)
+  not verbatim: Es ist wahrscheinlich anzunehmen, dass der Fdl Forchheim die Fehlleitung nach Zulassung der Einfahrt 39198 auf Ersatzsignal bemerkte und die Weiche 7 dabei noch nicht als belegt angezeigt war.
+  not verbatim: evtl. mangelhafte Ausbildung bzw. mangelnde Praxis (die Grundkenntnisse und Erfahrungen für ein FdI waren sicher gegeben, ob die Einarbeitungszeit für die tech- nisch andere und praktisch neue Stellwe
+  not verbatim: Regionalbahn DPN 87092 (Laufweg Ebermannstadt – Forchheim) des EVU agilis Verkehrsgesellschaft mbH & Co.KG.
+Starting: 089.md
+Processed: 089.md
+Assessment 089.md: 17/17 sentences verbatim (100%)
+Starting: 096.md
+Processed: 096.md
+Assessment 096.md: 18/19 sentences verbatim (94%)
+  not verbatim: Nach Durchfahren eines Rechtsbogens erkannte er das Zugschlusssignal des nach wie vor in Gleis 507 stehenden DPN 32490 und leitete bei einer Geschwindigkeit von ca. 78 km/h eine Schnellbremsung ein.
+  keine Angabe im Bericht: [bereits umgesetzte Maßnahmen]
+Starting: 101.md
+Processed: 101.md
+Assessment 101.md: 20/21 sentences verbatim (95%)
+  not verbatim: Mit dem Ausfall dieser Anlage (gegen 15:20 Uhr), der in keinem technischen Zusammenhang mit der Störung der Achszählanlagen stand, verlor dieser vermutlich den Überblick über die Standorte der jeweili
+  keine Angabe im Bericht: [Baureihe der beteiligten Schienenfahrzeuge, Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle]
+Starting: 114.md
+
+=== Run started 2026-11-21T21:13:26 ===
+Default charset: UTF-8
+file.encoding: UTF-8
+stdout.encoding: UTF-8
+Encoding test: äöüß
+Lemonade is not running. Checking AWS profile 'llm-user'.
+SLF4J(W): No SLF4J providers were found.
+SLF4J(W): Defaulting to no-operation (NOP) logger implementation
+SLF4J(W): See https://www.slf4j.org/codes.html#noProviders for further details.
+aws sts get-caller-identity --profile llm-user
+{"UserId":"AROAQHNW5G6VTSEBGTMY2:llm-user","Account":"015952852907","Arn":"arn:aws:sts::015952852907:assumed-role/AWSReservedSSO_BedrockAndMarketplace_1f8049e51d5b3b17/llm-user"}
+Using Bedrock model 'google.gemma-4-31b' via the MANTLE API with service tier 'flex' in region 'eu-central-1'.
+Skipping 17 already processed files.
+Starting: 114.md
+Processed: 114.md
+Assessment 114.md: 29/35 sentences verbatim (82%)
+  not verbatim: Kollision der beiden Züge am 09.02.2016 gegen 06:47 Uhr.
+  not verbatim: Es wird eingeschätzt, indirekt beeinflusst hat, dass der Fdl die Melder, die ihm die eingestellte Fahrstraße anzeigen, nicht wahrgenommen hat.
+  not verbatim: Sowohl die Erlaubnisabgabetasten, die eine aktive Handlung des Fdl erfordern, als auch die fahrtrichtungsbezogenen Melder (Richtungspfeile) hätten das betriebliche Handeln beeinflusst und folglich zur
+  not verbatim: Mit Auftrag 12/2016 vom 19.05.2016 wurde den Fdl mitgeteilt, dass auf der Strecke 5622 keine GSM-R-Funkversorgungslücken mehr bestehen, dementsprechend müssen GSM-R-Notrufe nicht mehr zweimal abgesetz
+  not verbatim: In einer Sonderaktion musste mit allen Fdl je ein Probegespräch Zugfunknotruf und Streckennotruf geführt werden.
+  not verbatim: Sicherung von Reisendenübergängen: Mangel bestand bis zur Neuausgabe der Angaben für das Streckenbuch zum Fahrplanwechsel im Dezember 2016. Ab diesem Zeitpunkt muss der Fdl in allen Fällen den Tf beau
+Starting: 116.md
+Processed: 116.md
+Assessment 116.md: 19/19 sentences verbatim (100%)
+Starting: 123.md
+Processed: 123.md
+Assessment 123.md: 22/23 sentences verbatim (95%)
+  not verbatim: Aufgrund des Fehlerbildes an der HOA „Bookholzberg“ hatte die DB Netz AG als Sofortmaßnahme die Ausschaltung der Funktion „Sonnenklassifikation“ an allen HOA der Bauformen FÜS 1, FÜS 2 und FÜS-EPOS un
+Starting: 125.md
+Processed: 125.md
+Assessment 125.md: 18/21 sentences verbatim (85%)
+  not verbatim: Das Triebfahrzeug (223 156-1) ist mit einer punktförmigen Zugbeeinflussung (PZB) ausgerüstet.
+  not verbatim: Die DB Netz AG als Infrastrukturbetreiber reagierte darauf und regelte den Umgang zur Thematik „Beurteilung periodischer Längshöhenfehler“ durch die Technische Mitteilung (TM) 1-2017-10135 I.NPF 1.
+  not verbatim: In der Folge beabsichtigt die DB Netz AG eine Änderung der TM dahingehend, dass der Mindestabstand von drei aufeinanderfolgenden SR100 Überschreitungen von 25 m auf 18 m reduziert werden soll, und die
+Starting: 126.md
+Processed: 126.md
+Assessment 126.md: 26/26 sentences verbatim (100%)
+  keine Angabe im Bericht: [Bauart der beteiligten Stellwerke]
+Starting: 179.md
+Fixing heading: # Höhe des Schadens, Anzahl Tote und Verlette
+Processed: 179.md
+Assessment 179.md: 17/17 sentences verbatim (100%)
+  keine Angabe im Bericht: [Bauart der beteiligten Stellwerke]
+Starting: 180.md
+Processed: 180.md
+Assessment 180.md: 15/16 sentences verbatim (93%)
+  not verbatim: Es ist davon auszugehen, dass für Fdl eine gewisse Hemmschwelle besteht, die Maßnahmen bei gefahrdrohenden Umständen nach Ril 408 umzusetzen.
+Starting: 181.md
+Processed: 181.md
+Assessment 181.md: 17/19 sentences verbatim (89%)
+  not verbatim: Personenzug RB 58043 des Eisenbahnverkehrsunternehmens (EVU) DB Regio AG.
+  not verbatim: Güterzug DGS 69235 des EVU boxXpress.de GmbH.
+Starting: 191.md
+Processed: 191.md
+Assessment 191.md: 12/12 sentences verbatim (100%)
+  keine Angabe im Bericht: [Baureihe der beteiligten Schienenfahrzeuge]
+Starting: 196.md
+Fixing heading: # Höhe des Schadens, Anzahl Tote und Verlette
+Processed: 196.md
+Assessment 196.md: 15/15 sentences verbatim (100%)
+  keine Angabe im Bericht: [Baureihe der beteiligten Schienenfahrzeuge]
+Starting: 199.md
+Processed: 199.md
+Assessment 199.md: 24/29 sentences verbatim (82%)
+  not verbatim: Die Fdl Meerbusch-Osterath überschrieb die Fehlnummer mit der Zugnummer des folgenden Zuges 48714, der zu diesem Zeitpunkt noch im Abschnitt 200 auf dem ZN-Monitor angezeigt wurde.
+  not verbatim: Die Fdl in Meerbusch-Osterath meldete Zug 48714 auch irrtümlicher Weise zurück, obwohl dieser noch immer vor dem Esig stand.
+  not verbatim: Die Fdl in Weißenberg ließ die Zugfahrt DPN 32547 mit Fahrtstellung des Blocksignals A und, aufgrund der Rotausleuchtung, am folgenden Sbk 201 mittels Ersatzsignal Zs 1 zu.
+  not verbatim: Die Handlungen der Fdl in Weißenberg und Meerbusch-Osterath waren ursächlich für die Entstehung des Unfalls.
+  not verbatim: Die Fdl der Abzw Weißenberg ließ den Zug 95307 durch eine Fehleingabe in die ZN mit falscher Zugnummer 66365 in Richtung Meerbusch-Osterath abfahren.
+Starting: 200.md
+Processed: 200.md
+Assessment 200.md: 13/13 sentences verbatim (100%)
+Starting: 201.md
+Processed: 201.md
+Assessment 201.md: 15/16 sentences verbatim (93%)
+  not verbatim: Die Güterzugfahrt DGS 42722, bestehend aus einem Triebfahrzeug der Baureihe E 186 und 19 Wagen, fuhr am 17.12.2019 gegen 23:00 Uhr in die östliche Einfahrgruppe des Stellwerkbezirks B8 ein.
+Starting: 203.md
+Processed: 203.md
+Assessment 203.md: 19/19 sentences verbatim (100%)
+  keine Angabe im Bericht: [Bauart der beteiligten Stellwerke]
+Starting: 226.md
+Processed: 226.md
+Assessment 226.md: 19/20 sentences verbatim (95%)
+  not verbatim: In dem Fahrzeug der Baureihe 186 war ein Aufzeichnungssystem TELOC2500 der Firma HaslerRail vorhanden.
+Starting: 231.md
+Processed: 231.md
+Assessment 231.md: 21/22 sentences verbatim (95%)
+  not verbatim: Infolge der Entgleisung rutschten der dritte und vierte Wagen die Böschung in Richtung der parallel verlaufenden Bundesstraße herunter.
+Starting: 234.md
+Processed: 234.md
+Assessment 234.md: 27/31 sentences verbatim (87%)
+  not verbatim: Am 500 Hz Gleismagneten des Esig ZII wurde bei einer Geschwindigkeit von ca. 62,8 km/h eine Zwangsbremsung ausgelöst, die der Tf mit einer Schnellbremsung unterstützte.
+  not verbatim: Die weiterhin unzureichende Bremswirkung des Güterzuges führte zu einer Vorbeifahrt am Haltbegriff des Esig ZII und anschließend zur Kollision mit denen im Gleis 815 stehenden Wagen aus Güterzuges EZ 
+  not verbatim: Im Ergebnis wurde festgestellt, dass der zum Ereigniszeitpunkt zuständige Tf trotz der nachweisweislich durchgeführten Überwachungen und regelmäßigen Fortbildungen kein Situationsbewusstsein für das E
+  not verbatim: Das für Einfahrten in die Einfahrgruppe Ost-West und Ausfahrten aus der Ausfahrgruppe West-Ost zuständige Stellwerk Seelze Rbf „Sof“ war mit elektromechanischer Stellwerkstechnik des Herstellers Sieme
+  keine Angabe im Bericht: [Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle]
+Starting: 237.md
+Processed: 237.md
+Assessment 237.md: 24/24 sentences verbatim (100%)
+Starting: 238.md
+Processed: 238.md
+Assessment 238.md: 22/22 sentences verbatim (100%)
+Summary written to results\bedrock\summaries.md
