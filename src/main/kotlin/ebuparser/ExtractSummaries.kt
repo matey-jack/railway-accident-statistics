@@ -66,7 +66,7 @@ const val LOG_FILENAME = "extraction-log.txt"
 const val LEMONADE_OUTPUT_DIR = "results/lemonade"
 const val BEDROCK_OUTPUT_DIR = "results/bedrock"
 
-// Local inference and the flex tier can take many minutes for a long report.
+// Local inference can take many minutes for a long report.
 private val noReadTimeout =
     Timeout
         .builder()
@@ -74,6 +74,18 @@ private val noReadTimeout =
         .write(Duration.ofSeconds(30))
         .read(Duration.ZERO)
         .request(Duration.ZERO)
+        .build()
+
+// Bedrock calls take well under a minute, even on the flex tier.
+// A request that Bedrock silently drops would otherwise block the run forever,
+// because there are no response headers to wait for and no HTTP/2 pings to detect a dead connection.
+private val bedrockTimeout =
+    Timeout
+        .builder()
+        .connect(Duration.ofSeconds(30))
+        .write(Duration.ofSeconds(30))
+        .read(Duration.ofMinutes(5))
+        .request(Duration.ofMinutes(5))
         .build()
 
 val llmServer: OpenAIClient =
@@ -235,7 +247,7 @@ class MantleClient(
             .builder()
             .apiKey(tokenGenerator.getToken())
             .baseUrl(mantleBaseUrl(region))
-            .timeout(noReadTimeout)
+            .timeout(bedrockTimeout)
             .build()
 
     // A short-term API key can't outlive the SSO session it is derived from, so each request gets a fresh one.
