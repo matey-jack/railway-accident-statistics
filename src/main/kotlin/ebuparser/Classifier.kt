@@ -12,7 +12,6 @@ import kotlin.reflect.full.primaryConstructor
 import kotlin.reflect.jvm.jvmErasure
 
 private val SUMMARY_DATE_REGEX = Regex("""\d\d\.\d\d\.\d\d\d\d""")
-private val SUMMARY_TITLE_REGEX = Regex("""^#{2,}\s+.+$""")
 
 private data class ClassificationFieldMeta(
     val propertyName: String,
@@ -99,11 +98,10 @@ private fun categoryFromHeading(heading: String): SectionCategory {
 }
 
 private fun parseSummarySection(rawSection: String): Summary? {
-    val lines = rawSection.lines()
+    val lines = normalizeSectionHeadings(rawSection).lines()
     val fileLine = lines.firstOrNull { it.startsWith("file:") } ?: return null
     val filename = fileLine.substringAfter(':').trim()
     val date = SUMMARY_DATE_REGEX.find(rawSection)?.value.orEmpty()
-    val title = lines.firstOrNull { SUMMARY_TITLE_REGEX.matches(it.trim()) }?.trim().orEmpty()
 
     val parsedSections = mutableListOf<Section>()
     var currentHeading: String? = null
@@ -130,6 +128,15 @@ private fun parseSummarySection(rawSection: String): Summary? {
         }
     }
     flushCurrentSection()
+
+    val title =
+        parsedSections
+            .firstOrNull { it.title == TITLE_HEADING }
+            ?.text
+            ?.lines()
+            ?.map { it.trim('#', '*', ' ') }
+            ?.firstOrNull { it.isNotEmpty() }
+            .orEmpty()
 
     return Summary(filename = filename, date = date, title = title, sections = parsedSections)
 }

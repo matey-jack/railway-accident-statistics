@@ -30,10 +30,10 @@ val novaModel = BedrockModel("amazon.nova-2-lite-v1:0", 0.195, 1.635)
 
 // this is the listed standard price with 50% discount
 // TODO: this needs the Bedrock Mantle endpoint and API
-val gemma31Model = BedrockModel("google.gemma-4-31b:0", 0.17/2, 0.48/2)
+val gemma31Model = BedrockModel("google.gemma-4-31b:0", 0.17 / 2, 0.48 / 2)
 
 val BEDROCK_MODEL = gemma31Model
-val BEDROCK_INFERENCE_PROFILE = "global" + BEDROCK_MODEL.name
+val BEDROCK_INFERENCE_PROFILE = "global." + BEDROCK_MODEL.name
 const val BEDROCK_SERVICE_TIER = "flex"
 
 // this includes reasoning tokens!
@@ -269,28 +269,41 @@ fun appendStats(
 fun cleanSummary(summary: String): String {
     var cleaned = summary.replace(SECTION_SEPARATOR, "\n")
     cleaned = cleaned.replace(Regex("""^(#+) \*\*(.+?)\*\*""", RegexOption.MULTILINE), "$1 $2")
-    cleaned = normalizeHeadingLevels(cleaned)
+    cleaned = normalizeSectionHeadings(cleaned)
     return cleaned
 }
 
-// Reduces heading levels so the shallowest heading in the text becomes H1.
-// Sub-headings are reduced by the same amount but clamped to H2 (##) so they remain sub-headings.
-fun normalizeHeadingLevels(text: String): String {
-    val headingRegex = Regex("""^(#+) (.+)""", RegexOption.MULTILINE)
-    val minLevel = headingRegex.findAll(text).map { it.groupValues[1].length }.minOrNull() ?: return text
-    val reduction = minLevel - 1
-    if (reduction == 0) return text
+private val HEADING_REGEX = Regex("""^(#+)[ \t]+(.+?)[ \t]*$""", RegexOption.MULTILINE)
 
-    return headingRegex.replace(text) { match ->
-        val currentLevel = match.groupValues[1].length
-        val newLevel = if (currentLevel == minLevel) 1 else maxOf(currentLevel - reduction, 2)
-        if (newLevel == currentLevel) {
-            match.value
-        } else {
-            println("Fixing line ${match.value}")
-            "#".repeat(newLevel) + " " + match.groupValues[2]
-        }
+private fun sectionHeadingOf(headingText: String): String? {
+    val bare = headingText.trim('*', ' ', ':')
+    return SUMMARY_SECTION_HEADINGS.firstOrNull { it.equals(bare, ignoreCase = true) }
+}
+
+// The parsers split summaries at H1 headings, but the model doesn't reliably keep the prescribed levels:
+// it sometimes nests all sections under a heading copied from the report.
+// So the known section headings become H1, and every other heading becomes at least H2.
+fun normalizeSectionHeadings(text: String): String =
+    HEADING_REGEX.replace(text) { match ->
+        val sectionHeading = sectionHeadingOf(match.groupValues[2])
+        val replacement =
+            if (sectionHeading != null) {
+                "# $sectionHeading"
+            } else {
+                "#".repeat(maxOf(match.groupValues[1].length, 2)) + " " + match.groupValues[2]
+            }
+        if (replacement != match.value) println("Fixing heading: ${match.value}")
+        replacement
     }
+
+fun missingSectionHeadings(summary: String): List<String> {
+    val present =
+        HEADING_REGEX
+            .findAll(summary)
+            .filter { it.groupValues[1] == "#" }
+            .map { it.groupValues[2] }
+            .toSet()
+    return SUMMARY_SECTION_HEADINGS - present
 }
 
 fun isFileInSubsetForTest(filename: String): Boolean {
@@ -373,6 +386,9 @@ fun main() {
                         LlmProvider.BEDROCK -> extractWithBedrock(requireNotNull(bedrock), file.name, content)
                     }
                 val cleanedSummary = result.summary.copy(summary = cleanSummary(result.summary.summary))
+                missingSectionHeadings(cleanedSummary.summary).takeIf { it.isNotEmpty() }?.let {
+                    println("WARNING: ${file.name} is missing the sections $it")
+                }
                 outputFile.appendText("\n\n---\n" + cleanedSummary.asOutput)
                 appendStats(statsFile, file.name, result.statsText)
                 println("Processed: ${file.name}")

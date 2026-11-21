@@ -4,6 +4,20 @@ import java.time.LocalDate
 
 const val SECTION_SEPARATOR = "\n---\n"
 
+// Must match the headings prescribed in extraction-prompt.txt.
+const val TITLE_HEADING = "Titel des Untersuchungsberichts"
+val SUMMARY_SECTION_HEADINGS =
+    listOf(
+        TITLE_HEADING,
+        "Hergang des Unfalls",
+        "Höhe des Schadens, Anzahl Tote und Verletzte",
+        "Ursachen des Unfalls",
+        "Bauart der beteiligten Stellwerke",
+        "Baureihe der beteiligten Schienenfahrzeuge",
+        "Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle",
+        "bereits umgesetzte Maßnahmen",
+    )
+
 data class Summary(
     val filename: String,
     val date: String, // format dd.mm.yyyy

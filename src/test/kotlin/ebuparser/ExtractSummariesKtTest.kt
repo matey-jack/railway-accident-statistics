@@ -26,4 +26,59 @@ class ExtractSummariesKtTest {
         assertEquals(0, processedFilenames.size)
         assertEquals(emptySet<String>(), processedFilenames)
     }
+
+    @Test
+    fun testNormalizeSectionHeadings_NestedUnderCopiedHeading() {
+        val input =
+            """
+            # Untersuchungsbericht
+
+            ## **Titel des Untersuchungsberichts**
+            Zusammenstoß, Bf Bad Münder, 09.09.2002
+
+            ## Hergang des Unfalls
+            Text.
+
+            ### 2.1 Hergang
+            Mehr Text.
+            """.trimIndent()
+
+        val expected =
+            """
+            ## Untersuchungsbericht
+
+            # Titel des Untersuchungsberichts
+            Zusammenstoß, Bf Bad Münder, 09.09.2002
+
+            # Hergang des Unfalls
+            Text.
+
+            ### 2.1 Hergang
+            Mehr Text.
+            """.trimIndent()
+
+        assertEquals(expected, normalizeSectionHeadings(input))
+    }
+
+    @Test
+    fun testMissingSectionHeadings() {
+        val summary = SUMMARY_SECTION_HEADINGS.drop(1).joinToString("\n\n") { "# $it\nText." }
+        assertEquals(listOf(TITLE_HEADING), missingSectionHeadings(summary))
+    }
+
+    @Test
+    fun testParseSummaries_TitleFromTitleSection(
+        @TempDir tempDir: Path,
+    ) {
+        val file = tempDir.resolve("summaries.md").toFile()
+        file.writeText(
+            "\n---\nfile: 001.md\n\n# Untersuchungsbericht\n\n## Titel des Untersuchungsberichts\n" +
+                "**Zusammenstoß, Bf Bad Münder, 09.09.2002**\n\n## Hergang des Unfalls\nText.\n",
+        )
+
+        val summary = parseSummaries(file.path).single()
+
+        assertEquals("Zusammenstoß, Bf Bad Münder, 09.09.2002", summary.title)
+        assertEquals(listOf(TITLE_HEADING, "Hergang des Unfalls"), summary.sections.map { it.title })
+    }
 }
