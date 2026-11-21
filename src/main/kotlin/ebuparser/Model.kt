@@ -147,6 +147,9 @@ enum class SectionCategory {
     MEASURES,
 }
 
+// just to test the new table handling
+val testReportsWithWideTables = listOf("089", "114", "226", "231")
+
 val testReports =
     listOf(
         // some famous or interesting reports
