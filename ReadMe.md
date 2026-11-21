@@ -48,7 +48,8 @@ Prompt: [classification-prompt.txt](src/main/resources/classification-prompt.txt
 Code: [Classifier.kt](src/main/kotlin/ebuparser/Classifier.kt)
 Output: `results/bedrock/classifications.csv`
 
-Bedrock only. The classification categories are the annotated fields of `Classification` in `model.kt`;
+Only for models on the bedrock-mantle endpoint (see the permissions in step 2). 
+The classification categories are the annotated fields of `Classification` in `model.kt`;
 they become both the tool schema for the LLM and the CSV columns.
 
 ## Damages and causes: extracting sections from the summaries

@@ -42,10 +42,9 @@ repositories {
 dependencies {
     implementation(kotlin("reflect"))
 
-    implementation("io.github.sashirestela:simple-openai:3.22.2")
-    // indirect dependency of simple-openai, but we'll upgrade it this way.
+    implementation("com.openai:openai-java:4.111.0")
     implementation("com.fasterxml.jackson.module:jackson-module-kotlin:2.21.0")
-    // optional dep'cy of simple-openai that needs explicit loading (also we use it directly for the /stats API call)
+    // for the Lemonade /stats call
     implementation("com.squareup.okhttp3:okhttp:5.3.2")
 
     // implementation("org.apache.commons:commons-csv:1.14.1")

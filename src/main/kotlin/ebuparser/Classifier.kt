@@ -1,9 +1,13 @@
 package ebuparser
 
+import com.fasterxml.jackson.module.kotlin.jacksonObjectMapper
+import com.fasterxml.jackson.module.kotlin.readValue
+import com.openai.core.JsonValue
+import com.openai.models.FunctionDefinition
+import com.openai.models.FunctionParameters
+import com.openai.models.chat.completions.ChatCompletionCreateParams
+import com.openai.models.chat.completions.ChatCompletionNamedToolChoice
 import software.amazon.awssdk.auth.credentials.ProfileCredentialsProvider
-import software.amazon.awssdk.core.document.Document
-import software.amazon.awssdk.services.bedrockruntime.BedrockRuntimeClient
-import software.amazon.awssdk.services.bedrockruntime.model.*
 import java.io.File
 import kotlin.reflect.KType
 import kotlin.reflect.full.findAnnotation
@@ -31,60 +35,50 @@ private val classificationFieldMetadata: List<ClassificationFieldMeta> =
         )
     }
 
-private fun buildFieldSchema(field: ClassificationFieldMeta): Document {
-    val builder =
-        Document
-            .mapBuilder()
-            .putString("title", field.llmField.name)
-            .putString("description", field.llmField.description)
-            .putString("type", "string")
+private const val TOOL_NAME = "classify"
 
-    if (field.type.jvmErasure == Boolean::class) {
-        builder.putList(
-            "enum",
-            listOf(
-                Document.fromString("ja"),
-                Document.fromString("nein"),
+private fun buildFieldSchema(field: ClassificationFieldMeta): Map<String, Any> =
+    buildMap {
+        put("title", field.llmField.name)
+        put("description", field.llmField.description)
+        put("type", "string")
+
+        if (field.type.jvmErasure == Boolean::class) {
+            put("enum", listOf("ja", "nein"))
+        }
+
+        val enumValues =
+            field.type.jvmErasure.java
+                .takeIf { it.isEnum }
+                ?.enumConstants
+                ?.map { (it as Enum<*>).name }
+                .orEmpty()
+
+        if (enumValues.isNotEmpty()) {
+            put("enum", enumValues)
+        }
+    }
+
+private fun buildToolSchemaProperties(): Map<String, Map<String, Any>> =
+    buildMap {
+        put(
+            "reasoning",
+            mapOf(
+                "type" to "string",
+                "description" to "Kurze Begründung der Kategorisierung.",
             ),
         )
+        classificationFieldMetadata.forEach { field ->
+            put(field.propertyName, buildFieldSchema(field))
+        }
     }
 
-    val enumValues =
-        field.type.jvmErasure.java
-            .takeIf { it.isEnum }
-            ?.enumConstants
-            ?.map { (it as Enum<*>).name }
-            .orEmpty()
-
-    if (enumValues.isNotEmpty()) {
-        builder.putList("enum", enumValues.map(Document::fromString))
-    }
-
-    return builder.build()
-}
-
-private fun buildToolSchemaProperties(): Map<String, Document> {
-    val properties = mutableMapOf<String, Document>()
-    properties["reasoning"] =
-        Document
-            .mapBuilder()
-            .putString("type", "string")
-            .putString("description", "Kurze Begründung der Kategorisierung.")
-            .build()
-
-    classificationFieldMetadata.forEach { field ->
-        properties[field.propertyName] = buildFieldSchema(field)
-    }
-
-    return properties
-}
-
-private fun buildRequiredProperties(): List<Document> =
+private fun buildRequiredProperties(): List<String> =
     buildList {
-        add(Document.fromString("reasoning"))
+        add("reasoning")
         classificationFieldMetadata
             .filter { it.llmField.required }
-            .forEach { add(Document.fromString(it.propertyName)) }
+            .forEach { add(it.propertyName) }
     }
 
 private fun categoryFromHeading(heading: String): SectionCategory {
@@ -159,39 +153,14 @@ private fun buildClassificationInput(summary: Summary): String {
         .joinToString("\n\n")
 }
 
-private fun parseBooleanValue(document: Document?): Boolean {
-    if (document == null || document.isNull) {
-        return false
+private fun parseBooleanValue(value: Any?): Boolean =
+    when (value) {
+        is Boolean -> value
+        is String -> value.trim().lowercase() in setOf("ja", "true", "x", "1")
+        else -> false
     }
 
-    if (document.isBoolean) {
-        return document.asBoolean()
-    }
-
-    if (document.isString) {
-        return when (document.asString().trim().lowercase()) {
-            "ja", "true", "x", "1" -> true
-            "nein", "false", "", "0" -> false
-            else -> false
-        }
-    }
-
-    return false
-}
-
-private fun parseOptionalStringValue(document: Document?): String? {
-    if (document == null || document.isNull) {
-        return null
-    }
-
-    val value =
-        when {
-            document.isString -> document.asString()
-            else -> document.unwrap().toString()
-        }.trim()
-
-    return value.takeIf { it.isNotEmpty() }
-}
+private fun parseOptionalStringValue(value: Any?): String? = value?.toString()?.trim()?.takeIf { it.isNotEmpty() }
 
 private fun parseRoadVehicleType(value: String?): RoadVehicleType? {
     if (value.isNullOrBlank()) {
@@ -212,7 +181,7 @@ private fun parseRoadVehicleType(value: String?): RoadVehicleType? {
     }
 }
 
-private fun parseClassification(toolInput: Map<String, Document>): Classification {
+private fun parseClassification(toolInput: Map<String, Any?>): Classification {
     println("Reasoning: ${toolInput["reasoning"]}")
     println()
     return Classification(
@@ -293,90 +262,64 @@ private fun writeClassificationsCsv(
 }
 
 class Classifier(
-    private val bedrockClient: BedrockRuntimeClient,
+    private val mantleClient: MantleClient,
 ) {
-    val toolConfig =
-        ToolConfiguration
+    val tool: FunctionDefinition =
+        FunctionDefinition
             .builder()
-            .tools(
-                Tool.fromToolSpec(
-                    ToolSpecification
-                        .builder()
-                        .name("classify")
-                        .description("Unfallkategorisierung")
-                        .inputSchema(
-                            ToolInputSchema.fromJson(
-                                Document
-                                    .mapBuilder()
-                                    .putString("type", "object")
-                                    .putMap("properties", buildToolSchemaProperties())
-                                    .putList("required", buildRequiredProperties())
-                                    .build(),
-                            ),
-                        ).build(),
-                ),
-            ).toolChoice(
-                ToolChoice.fromTool(
-                    SpecificToolChoice
-                        .builder()
-                        .name("classify")
-                        .build(),
-                ),
+            .name(TOOL_NAME)
+            .description("Unfallkategorisierung")
+            .parameters(
+                FunctionParameters
+                    .builder()
+                    .putAdditionalProperty("type", JsonValue.from("object"))
+                    .putAdditionalProperty("properties", JsonValue.from(buildToolSchemaProperties()))
+                    .putAdditionalProperty("required", JsonValue.from(buildRequiredProperties()))
+                    .build(),
             ).build()
 
-    // TODO: change to Mantle API when using with Gemma.
+    private val toolChoice =
+        ChatCompletionNamedToolChoice
+            .builder()
+            .function(
+                ChatCompletionNamedToolChoice.Function
+                    .builder()
+                    .name(TOOL_NAME)
+                    .build(),
+            ).build()
+
     fun classify(summary: Summary): Classification {
         println("Classifying ${summary.filename}...")
-        val modelInput = buildClassificationInput(summary)
-        val request =
-            ConverseRequest
+        val params =
+            ChatCompletionCreateParams
                 .builder()
-                .modelId(BEDROCK_MODEL_ID)
-                .system(SystemContentBlock.builder().text(classificationPrompt).build())
-                .messages(
-                    Message
-                        .builder()
-                        .role(ConversationRole.USER)
-                        .content(ContentBlock.builder().text(modelInput).build())
-                        .build(),
-                ).inferenceConfig(
-                    InferenceConfiguration
-                        .builder()
-                        .maxTokens(BEDROCK_MAX_TOKENS)
-                        .build(),
-                ).serviceTier(
-                    ServiceTier
-                        .builder()
-                        .type(ServiceTierType.FLEX)
-                        .build(),
-                ).additionalModelRequestFields(enableReasoning("low"))
-                .toolConfig(toolConfig)
+                .withBedrockSettings()
+                .addSystemMessage(classificationPrompt)
+                .addUserMessage(buildClassificationInput(summary))
+                .addFunctionTool(tool)
+                .toolChoice(toolChoice)
                 .build()
 
-        val response = bedrockClient.converse(request)
-        val toolInput =
-            response
-                .output()
-                .message()
-                .content()
-                .firstNotNullOfOrNull { contentBlock ->
-                    contentBlock.toolUse()?.takeIf { it.name() == "classify" }?.input()
-                } ?: error("No classify tool output for ${summary.filename}.")
+        val chat = mantleClient.createChatCompletion(params)
+        val arguments =
+            chat
+                .choices()
+                .firstOrNull()
+                ?.message()
+                ?.toolCalls()
+                ?.orElse(null)
+                ?.firstNotNullOfOrNull { toolCall ->
+                    toolCall
+                        .function()
+                        .orElse(null)
+                        ?.function()
+                        ?.takeIf { it.name() == TOOL_NAME }
+                        ?.arguments()
+                } ?: error("No $TOOL_NAME tool output for ${summary.filename}.")
 
-        return parseClassification(toolInput.asMap())
+        return parseClassification(jacksonObjectMapper().readValue<Map<String, Any?>>(arguments))
     }
 }
-
-fun enableReasoning(effort: String): Document =
-    Document
-        .mapBuilder()
-        .putMap(
-            "reasoningConfig",
-            mapOf(
-                "type" to Document.fromString("enabled"),
-                "maxReasoningEffort" to Document.fromString(effort),
-            ),
-        ).build()
 
 fun parseSummaries(path: String): List<Summary> {
     val normalizedContent = File(path).readText().replace("\r\n", "\n")
@@ -393,6 +336,10 @@ fun main() {
             ?: error("AWS profile '$AWS_PROFILE' is not ready.")
     printCallerIdentity(identity)
 
+    require(BEDROCK_MODEL.api == BedrockApi.MANTLE) {
+        "The classifier only talks to the bedrock-mantle endpoint, but $BEDROCK_MODEL_ID uses ${BEDROCK_MODEL.api}."
+    }
+
     val region = resolveAwsRegion()
     val credentialsProvider =
         ProfileCredentialsProvider
@@ -400,23 +347,16 @@ fun main() {
             .profileName(AWS_PROFILE)
             .build()
 
-    BedrockRuntimeClient
-        .builder()
-        .region(region)
-        .credentialsProvider(credentialsProvider)
-        .build()
-        .use { bedrockClient ->
-            val classifier = Classifier(bedrockClient)
-            println("INFO tool config: ${classifier.toolConfig}")
+    val classifier = Classifier(MantleClient(region, credentialsProvider))
+    println("INFO tool: ${classifier.tool}")
 
-            val summaries = parseSummaries("results/bedrock/summaries.md")
-            val classifications =
-                summaries
-                    .filter { summary -> testReports.contains(summary.filename.take(3)) }
-                    .map { summary -> summary to classifier.classify(summary) }
+    val summaries = parseSummaries("results/bedrock/summaries.md")
+    val classifications =
+        summaries
+            .filter { summary -> testReports.contains(summary.filename.take(3)) }
+            .map { summary -> summary to classifier.classify(summary) }
 
-            val outputPath = "results/bedrock/classifications.csv"
-            writeClassificationsCsv(classifications, outputPath)
-            println("Wrote ${classifications.size} classifications to $outputPath")
-        }
+    val outputPath = "results/bedrock/classifications.csv"
+    writeClassificationsCsv(classifications, outputPath)
+    println("Wrote ${classifications.size} classifications to $outputPath")
 }

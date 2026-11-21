@@ -1,12 +1,16 @@
 package ebuparser
 
-import io.github.sashirestela.cleverclient.client.OkHttpClientAdapter
-import io.github.sashirestela.openai.SimpleOpenAI
-import io.github.sashirestela.openai.domain.chat.ChatMessage
-import io.github.sashirestela.openai.domain.chat.ChatRequest
+import com.openai.client.OpenAIClient
+import com.openai.client.okhttp.OpenAIOkHttpClient
+import com.openai.core.Timeout
+import com.openai.models.ReasoningEffort
+import com.openai.models.chat.completions.ChatCompletion
+import com.openai.models.chat.completions.ChatCompletionCreateParams
 import okhttp3.OkHttpClient
 import okhttp3.Request
+import software.amazon.awssdk.auth.credentials.AwsCredentialsProvider
 import software.amazon.awssdk.auth.credentials.ProfileCredentialsProvider
+import software.amazon.awssdk.core.document.Document
 import software.amazon.awssdk.regions.Region
 import software.amazon.awssdk.services.bedrockruntime.BedrockRuntimeClient
 import software.amazon.awssdk.services.bedrockruntime.model.*
@@ -14,8 +18,10 @@ import software.amazon.bedrock.token.BedrockTokenGenerator
 import windows.SleepPreventer
 import java.io.File
 import java.nio.charset.Charset
+import java.time.Duration
 import java.util.concurrent.TimeUnit
 import kotlin.io.path.Path
+import kotlin.jvm.optionals.getOrNull
 
 const val LEMONADE_URL = "http://127.0.0.1:8000"
 const val LEMONADE_STATS_URL = "$LEMONADE_URL/api/v1/stats"
@@ -54,21 +60,23 @@ const val OUTPUT_FILENAME = "summaries.md"
 const val LEMONADE_OUTPUT_DIR = "results/lemonade"
 const val BEDROCK_OUTPUT_DIR = "results/bedrock"
 
-val llmServer =
-    SimpleOpenAI
+// Local inference and the flex tier can take many minutes for a long report.
+private val noReadTimeout =
+    Timeout
+        .builder()
+        .connect(Duration.ofSeconds(30))
+        .write(Duration.ofSeconds(30))
+        .read(Duration.ZERO)
+        .request(Duration.ZERO)
+        .build()
+
+val llmServer: OpenAIClient =
+    OpenAIOkHttpClient
         .builder()
         .apiKey("lemonade")
-        .baseUrl(LEMONADE_URL)
-        .clientAdapter(
-            OkHttpClientAdapter(
-                OkHttpClient
-                    .Builder()
-                    .connectTimeout(30, TimeUnit.SECONDS)
-                    .readTimeout(0, TimeUnit.SECONDS)
-                    .writeTimeout(30, TimeUnit.SECONDS)
-                    .build(),
-            ),
-        ).build()
+        .baseUrl("$LEMONADE_URL/v1")
+        .timeout(noReadTimeout)
+        .build()
 
 val summarizationPrompt = File("src/main/resources/extraction-prompt.txt").readText()
 
@@ -114,21 +122,23 @@ fun extractWithLemonade(
     prompt: String = summarizationPrompt,
 ): ExtractResult {
     val startNs = System.nanoTime()
-    val chatRequest =
-        ChatRequest
+    val params =
+        ChatCompletionCreateParams
             .builder()
             .model(LEMONADE_MODEL)
-            .message(ChatMessage.SystemMessage.of(prompt))
-            .message(ChatMessage.UserMessage.of(reportMessage(fullText)))
+            .addSystemMessage(prompt)
+            .addUserMessage(reportMessage(fullText))
             .build()
 
-    val streamResponse = llmServer.chatCompletions().createStream(chatRequest).join()
     val content =
-        streamResponse
-            .filter { it.choices.isNotEmpty() && it.firstContent() != null }
-            .map { it.firstContent().orEmpty() }
-            .toList()
-            .joinToString("")
+        llmServer.chat().completions().createStreaming(params).use { stream ->
+            stream
+                .stream()
+                .toList()
+                .flatMap { it.choices() }
+                .mapNotNull { it.delta().content().getOrNull() }
+                .joinToString("")
+        }
 
     val localLatencyMs = TimeUnit.NANOSECONDS.toMillis(System.nanoTime() - startNs)
     val lemonadeStats = fetchLemonadeStatsJson() ?: "unavailable"
@@ -191,84 +201,124 @@ fun extractWithBedrock(
             resolvedTier = response.serviceTier()?.typeAsString(),
             localLatencyMs = localLatencyMs,
             bedrockLatencyMs = response.metrics()?.latencyMs(),
-            inputTokens = usage?.inputTokens() ?: 0,
-            outputTokens = usage?.outputTokens() ?: 0,
-            totalTokens = usage?.totalTokens() ?: 0,
+            inputTokens = usage?.inputTokens()?.toLong() ?: 0,
+            outputTokens = usage?.outputTokens()?.toLong() ?: 0,
+            totalTokens = usage?.totalTokens()?.toLong() ?: 0,
             stopReason = response.stopReasonAsString(),
         )
 
     return ExtractResult(SimpleSummary(fileName, content), statsText)
 }
 
-private val mantleHttpClient =
-    OkHttpClient
-        .Builder()
-        .connectTimeout(30, TimeUnit.SECONDS)
-        .readTimeout(0, TimeUnit.SECONDS)
-        .writeTimeout(30, TimeUnit.SECONDS)
-        .build()
+// Gemma 4 is served under /openai/v1.
+fun mantleBaseUrl(region: Region): String = "https://bedrock-mantle.${region.id()}.api.aws/openai/v1"
 
-// simple-openai appends /v1/... to this, and Gemma 4 is served under /openai/v1.
-fun mantleBaseUrl(region: Region): String = "https://bedrock-mantle.${region.id()}.api.aws/openai"
+class MantleClient(
+    region: Region,
+    credentialsProvider: AwsCredentialsProvider,
+) {
+    private val tokenGenerator =
+        BedrockTokenGenerator
+            .builder()
+            .region(region)
+            .credentialsProvider(credentialsProvider)
+            .build()
+
+    private val client =
+        OpenAIOkHttpClient
+            .builder()
+            .apiKey(tokenGenerator.getToken())
+            .baseUrl(mantleBaseUrl(region))
+            .timeout(noReadTimeout)
+            .build()
+
+    // A short-term API key can't outlive the SSO session it is derived from, so each request gets a fresh one.
+    fun createChatCompletion(params: ChatCompletionCreateParams): ChatCompletion =
+        client
+            .withOptions { it.apiKey(tokenGenerator.getToken()) }
+            .chat()
+            .completions()
+            .create(params)
+}
+
+fun ChatCompletionCreateParams.Builder.withBedrockSettings(): ChatCompletionCreateParams.Builder =
+    model(BEDROCK_MODEL_ID)
+        .maxCompletionTokens(BEDROCK_MAX_TOKENS.toLong())
+        .reasoningEffort(ReasoningEffort.LOW)
+        .serviceTier(ChatCompletionCreateParams.ServiceTier.FLEX)
+
+fun mantleStatsRow(
+    fileName: String,
+    chat: ChatCompletion,
+    localLatencyMs: Long,
+): String {
+    val usage = chat.usage().getOrNull()
+    return bedrockStatsRow(
+        fileName = fileName,
+        resolvedTier = chat.serviceTier().getOrNull()?.asString(),
+        localLatencyMs = localLatencyMs,
+        bedrockLatencyMs = null,
+        inputTokens = usage?.promptTokens() ?: 0,
+        outputTokens = usage?.completionTokens() ?: 0,
+        totalTokens = usage?.totalTokens() ?: 0,
+        stopReason =
+            chat
+                .choices()
+                .firstOrNull()
+                ?.finishReason()
+                ?.asString()
+                .orEmpty(),
+    )
+}
 
 fun extractWithMantle(
-    tokenGenerator: BedrockTokenGenerator,
-    region: Region,
+    mantleClient: MantleClient,
     fileName: String,
     fullText: String,
     prompt: String = summarizationPrompt,
 ): ExtractResult {
     val startNs = System.nanoTime()
-    // A short-term API key can't outlive the SSO session it is derived from, so each request gets a fresh one.
-    val client =
-        SimpleOpenAI
+    val params =
+        ChatCompletionCreateParams
             .builder()
-            .apiKey(tokenGenerator.getToken())
-            .baseUrl(mantleBaseUrl(region))
-            .clientAdapter(OkHttpClientAdapter(mantleHttpClient))
-            .build()
-    val chatRequest =
-        ChatRequest
-            .builder()
-            .model(BEDROCK_MODEL_ID)
-            .message(ChatMessage.SystemMessage.of(prompt))
-            .message(ChatMessage.UserMessage.of(reportMessage(fullText)))
-            .maxCompletionTokens(BEDROCK_MAX_TOKENS)
-            .reasoningEffort(ChatRequest.ReasoningEffort.LOW)
-            .serviceTier(ChatRequest.ServiceTier.FLEX)
+            .withBedrockSettings()
+            .addSystemMessage(prompt)
+            .addUserMessage(reportMessage(fullText))
             .build()
 
-    val chat = client.chatCompletions().create(chatRequest).join()
+    val chat = mantleClient.createChatCompletion(params)
     val localLatencyMs = TimeUnit.NANOSECONDS.toMillis(System.nanoTime() - startNs)
+    val content =
+        chat
+            .choices()
+            .firstOrNull()
+            ?.message()
+            ?.content()
+            ?.getOrNull()
+            .orEmpty()
 
-    val usage = chat.usage
-    val statsText =
-        bedrockStatsRow(
-            fileName = fileName,
-            resolvedTier = chat.serviceTier?.name?.lowercase(),
-            localLatencyMs = localLatencyMs,
-            bedrockLatencyMs = null,
-            inputTokens = usage?.promptTokens ?: 0,
-            outputTokens = usage?.completionTokens ?: 0,
-            totalTokens = usage?.totalTokens ?: 0,
-            stopReason =
-                chat.choices
-                    .firstOrNull()
-                    ?.finishReason
-                    .orEmpty(),
-        )
-
-    return ExtractResult(SimpleSummary(fileName, chat.firstContent().orEmpty()), statsText)
+    return ExtractResult(SimpleSummary(fileName, content), mantleStatsRow(fileName, chat, localLatencyMs))
 }
+
+fun enableReasoning(effort: String): Document =
+    Document
+        .mapBuilder()
+        .putMap(
+            "reasoningConfig",
+            mapOf(
+                "type" to Document.fromString("enabled"),
+                "maxReasoningEffort" to Document.fromString(effort),
+            ),
+        ).build()
 
 fun bedrockStatsRow(
     fileName: String,
     resolvedTier: String?,
     localLatencyMs: Long,
     bedrockLatencyMs: Long?,
-    inputTokens: Int,
-    outputTokens: Int,
-    totalTokens: Int,
+    inputTokens: Long,
+    outputTokens: Long,
+    totalTokens: Long,
     stopReason: String,
 ): String {
     val inputCost = inputTokens * BEDROCK_MODEL.inputDollarPer1m / 1_000_000.0
@@ -442,14 +492,9 @@ fun main() {
             }
 
             BedrockApi.MANTLE -> {
-                val tokenGenerator =
-                    BedrockTokenGenerator
-                        .builder()
-                        .region(region)
-                        .credentialsProvider(credentialsProvider)
-                        .build()
+                val mantleClient = MantleClient(region, credentialsProvider)
                 bedrockClient = null
-                extractor = { fileName, fullText -> extractWithMantle(tokenGenerator, region, fileName, fullText) }
+                extractor = { fileName, fullText -> extractWithMantle(mantleClient, fileName, fullText) }
             }
         }
 
