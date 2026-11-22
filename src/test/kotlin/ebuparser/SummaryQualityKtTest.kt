@@ -2,6 +2,8 @@ package ebuparser
 
 import org.junit.jupiter.api.Assertions.assertEquals
 import org.junit.jupiter.api.Test
+import org.junit.jupiter.api.io.TempDir
+import java.nio.file.Path
 
 class SummaryQualityKtTest {
     @Test
@@ -52,9 +54,32 @@ class SummaryQualityKtTest {
     }
 
     @Test
-    fun testAssessSummary_RunawayLine() {
+    fun testAssessSummary_Runaway() {
         val summary = "# Hergang des Unfalls\n| a " + " ".repeat(100) + "|"
-        val assessment = assessSummary("x.md", summary, "| a | b |")
-        assertEquals(true, assessment.logLines().any { it.contains("WARNING") })
+        val assessment = assessSummary("x.md", summary, "| a" + " ".repeat(50) + "| b |")
+        assertEquals(true, assessment.isRunaway)
+    }
+
+    @Test
+    fun testAssessSummary_JoinedParagraphsAreNoRunaway() {
+        val report = "Erster Satz im Bericht.\nZweiter Satz im Bericht."
+        val assessment = assessSummary("x.md", "# Hergang des Unfalls\n" + report.replace("\n", " "), report)
+        assertEquals(false, assessment.isRunaway)
+    }
+
+    @Test
+    fun testReadSummaryFile_OldHeadingLevels(
+        @TempDir tempDir: Path,
+    ) {
+        val file = tempDir.resolve("summaries.md").toFile()
+        file.writeText(
+            "\n---\nfile: 001.md\n\n# Untersuchungsbericht\n\n## Hergang des Unfalls\nText.\n" +
+                "\n\n---\nfile: 002.md\n\n# Hergang des Unfalls\nAnderer Text.\n",
+        )
+
+        val summaries = readSummaryFile(file)
+
+        assertEquals(listOf("001.md", "002.md"), summaries.keys.toList())
+        assertEquals("Text.", summarySections(summaries.getValue("001.md"))["Hergang des Unfalls"]?.trim())
     }
 }

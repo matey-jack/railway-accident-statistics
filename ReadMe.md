@@ -37,6 +37,11 @@ After each report it contains an automatic assessment of the summary,
 to help with reviewing a run: the sentences that aren't verbatim from the report,
 the sections with "keine Angabe im Bericht", and a warning when the model got stuck repeating table padding.
 
+To compare runs, `ScoreSummariesKt` writes the same assessment for existing summary files
+(`--args="<summaries.md> ..."`, each to `<name>-assessment.txt`),
+and `CompareSummariesKt` compares two or more summary files pairwise, including the sentences only one run has,
+and writes `comparison.md` next to the first file.
+
 Uses a local Lemonade Server if one is running, otherwise AWS Bedrock. It should work with any other LLM provider.
 Reports already in `summaries.md` are skipped, so an interrupted run can just be restarted.
 

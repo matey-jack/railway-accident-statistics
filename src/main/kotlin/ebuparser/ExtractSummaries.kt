@@ -425,10 +425,13 @@ fun appendStats(
     statsFile.appendText(statsText + "\n")
 }
 
-fun cleanSummary(summary: String): String {
+fun cleanSummary(
+    summary: String,
+    onHeadingFix: (String) -> Unit = { println("Fixing heading: $it") },
+): String {
     var cleaned = summary.replace(SECTION_SEPARATOR, "\n")
     cleaned = cleaned.replace(Regex("""^(#+) \*\*(.+?)\*\*""", RegexOption.MULTILINE), "$1 $2")
-    cleaned = normalizeSectionHeadings(cleaned)
+    cleaned = normalizeSectionHeadings(cleaned, onHeadingFix)
     return cleaned
 }
 
@@ -446,7 +449,10 @@ private fun sectionHeadingOf(headingText: String): String? {
 // The parsers split summaries at H1 headings, but the model doesn't reliably keep the prescribed levels:
 // it sometimes nests all sections under a heading copied from the report.
 // So the known section headings become H1, and every other heading becomes at least H2.
-fun normalizeSectionHeadings(text: String): String =
+fun normalizeSectionHeadings(
+    text: String,
+    onHeadingFix: (String) -> Unit = { println("Fixing heading: $it") },
+): String =
     HEADING_REGEX.replace(text) { match ->
         val sectionHeading = sectionHeadingOf(match.groupValues[2])
         val replacement =
@@ -455,7 +461,7 @@ fun normalizeSectionHeadings(text: String): String =
             } else {
                 "#".repeat(maxOf(match.groupValues[1].length, 2)) + " " + match.groupValues[2]
             }
-        if (replacement != match.value) println("Fixing heading: ${match.value}")
+        if (replacement != match.value) onHeadingFix(match.value)
         replacement
     }
 
@@ -584,7 +590,8 @@ fun main() {
     bedrockClient.use {
         for (file in files) {
             try {
-                val content = squeezeTablePadding(file.readText())
+                val report = file.readText()
+                val content = squeezeTablePadding(report)
                 println("Starting: ${file.name}")
 
                 val result = extractor(file.name, content)
@@ -595,7 +602,7 @@ fun main() {
                 outputFile.appendText("\n\n---\n" + cleanedSummary.asOutput)
                 appendStats(statsFile, file.name, result.statsText)
                 println("Processed: ${file.name}")
-                assessSummary(file.name, cleanedSummary.summary, content).logLines().forEach(::println)
+                assessSummary(file.name, cleanedSummary.summary, report).logLines().forEach(::println)
             } catch (e: Exception) {
                 println("Error processing ${file.name}: ${e.message}")
                 errorCount++

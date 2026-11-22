@@ -1,0 +1,89 @@
+Assessment 001.md: 22/24 sentences verbatim (91%)
+  not verbatim: Triebfahrzeug Nr. 152 075-8 sowie 41 mit Kalisalz beladenen Schüttgutwagen.
+  not verbatim: Triebfahrzeug Nr. 140 635-4 sowie 3 leere und 15 beladene Güterwagen, davon ein Kesselwagen beladen mit Epichlorhydrin.
+Assessment 002.md: 15/18 sentences verbatim (83%)
+  not verbatim: Die Entgleisung des D 203 am 06. Februar 2000 wäre vermieden worden, wenn innerhalb des Bahnhofs Brühl die zulässige Geschwindigkeit von 40 km/h eingehalten, oder im Zusammenhang mit der Baumaßnahme e
+  not verbatim: Das Eisenbahn-Bundesamt hält es für notwendig, die »Weichenbereichsregel« in Frage zu stellen.
+  not verbatim: es erscheint geboten, die DB Netz AG zur Erarbeitung verbindlicher Grundsätze für die Sicherung von Baustellen aufzufordern.
+Assessment 007.md: 22/25 sentences verbatim (88%)
+  not verbatim: Kritisch erscheint im Zusammenhang mit dem Unglück, dass – bedingt von der Bauform des Stellwerks - die Störung eines Vorsignalwiederholers eine weitere, weitaus gravierendere Störung erzeugt, indem z
+  not verbatim: Das Triebfahrzeug (Tfz) des RE 19534, eine Diesellok der Baureihe 218.
+  not verbatim: In Wahrnehmung seiner Verantwortung für die Sicherheit des Eisenbahnverkehrs sollte der Vorstand der DB Netz AG prüfen, inwieweit die Weiterbildung der Fahrdienstleiter durch Simulatoren ergänzt und d
+  keine Angabe im Bericht: [bereits umgesetzte Maßnahmen]
+Assessment 008.md: 17/17 sentences verbatim (100%)
+Assessment 009.md: 34/36 sentences verbatim (94%)
+  not verbatim: Das ESTW-Wkp ist ein elektronisches Stellwerk der Bauform EI S (Firma Siemens) und dient allein der Steuerung des S-Bahnverkehrs.
+  not verbatim: Der Zug S 25066 wurde aus 3 Viertelzügen der Baureihe (BR) 481 (A-Wagen mit Führerstand) / 482 (B-Wagen) mit nachfolgender Reihung gebildet.
+Assessment 012.md: 17/17 sentences verbatim (100%)
+  keine Angabe im Bericht: [Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle]
+Assessment 015.md: 26/28 sentences verbatim (92%)
+  not verbatim: Das Einfahrsignal 136 wurde also erneut auf Fahrt gestellt und das Ausfahrsignal 132 stand noch für den FTZ 53185 auf Fahrt.
+  not verbatim: Der Zug bestand aus einem Triebfahrzeug 114 019 der DB Regio AG, Region Nordost (mit zweitem Drehgestell entgleist) und 4 Doppelstock- Reisezugwagen.
+Assessment 023.md: 15/16 sentences verbatim (93%)
+  not verbatim: Der Güterzug fuhr in einen besetzten Gleisabschnitt und kollidierte in Folge mit dem im eingleisigen Streckenabschnitt entgegenkommenden Personenzug.
+  WARNING: the output repeats a character 449 times in a row, the input at most 299 times
+Assessment 032.md: 10/11 sentences verbatim (90%)
+  not verbatim: In der Folge des Zusammenpralls entgleisen alle Fahrzeuge (Doppeltraktion der Baureihe 612), wobei der erste Teil der ersten Einheit auf die Seite kippte.
+  keine Angabe im Bericht: [Bauart der beteiligten Stellwerke, Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle, bereits umgesetzte Maßnahmen]
+Assessment 034.md: 17/17 sentences verbatim (100%)
+  keine Angabe im Bericht: [Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle]
+Assessment 042.md: 14/15 sentences verbatim (93%)
+  not verbatim: Reisezugwagen vom Typ Steuerwagen (STW) mit der Fahrzeugnummer D- NOB 55 80 80- 75007- 5 und den Versorgungswagen (MW_V) mit der Fahrzeugnummer D- NOB 55 80 22- 75013- 4.
+  keine Angabe im Bericht: [Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle, bereits umgesetzte Maßnahmen]
+Assessment 047.md: 13/13 sentences verbatim (100%)
+  keine Angabe im Bericht: [Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle]
+Assessment 055.md: 20/22 sentences verbatim (90%)
+  not verbatim: Durch die Flankenfahrt des DGS 49325 entgleisen mehrere Güterwagen sowie das Triebfahrzeug des DGS 49325.
+  not verbatim: Das Triebfahrzeug ist mit einer induktiven Zugsicherungsanlage der Bauform I60R mit Betriebsprogramm PZB 90 ausgerüstet. (DGS 92505)
+  keine Angabe im Bericht: [Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle]
+Assessment 082.md: 36/36 sentences verbatim (100%)
+Assessment 089.md: 17/18 sentences verbatim (94%)
+  not verbatim: Die Autotransportwagen vom Typ Laers 1215A.
+  WARNING: the output repeats a character 217403 times in a row, the input at most 1282 times
+  missing sections: [bereits umgesetzte Maßnahmen]
+Assessment 096.md: 21/21 sentences verbatim (100%)
+  keine Angabe im Bericht: [bereits umgesetzte Maßnahmen]
+Assessment 101.md: 19/20 sentences verbatim (95%)
+  not verbatim: Mit dem Ausfall dieser Anlage (gegen 15:20 Uhr), der in keinem technischen Zusammenhang mit der Störung der Achszählanlagen stand, verlor dieser vermutlich den Überblick über die Standorte der jeweili
+  keine Angabe im Bericht: [Baureihe der beteiligten Schienenfahrzeuge, Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle]
+Assessment 116.md: 21/21 sentences verbatim (100%)
+  WARNING: the output repeats a character 2199 times in a row, the input at most 899 times
+Assessment 123.md: 21/22 sentences verbatim (95%)
+  not verbatim: Aufgrund des Fehlerbildes an der HOA „Bookholzberg“ hatte die DB Netz AG als Sofortmaßnahme die Ausschaltung der Funktion „Sonnenklassifikation“ an allen HOA der Bauformen FÜS 1, FÜS 2 und FÜS-EPOS un
+Assessment 125.md: 17/19 sentences verbatim (89%)
+  not verbatim: Hierbei wurde der an 17. Stelle hinter dem Triebfahrzeug (Tfz) laufende, unbeladene Güterwagen der Gattung Uiks an dem in Fahrtrichtung ersten Radsatz Entgleisungsschäden aufwies.
+  not verbatim: Die DB Netz AG als Infrastrukturbetreiber reagierte darauf und regelte den Umgang zur Thematik „Beurteilung periodischer Längshöhenfehler“ durch die Technische Mitteilung (TM) 1-2017-10135 I.NPF 1.
+  WARNING: the output repeats a character 12375 times in a row, the input at most 1282 times
+Assessment 126.md: 27/29 sentences verbatim (93%)
+  not verbatim: Aus fachlicher Sicht ist es nicht nachvollziehbar, dass die Empfehlungen des Gutachtens, den Einbau einer PSS aufgrund der Untergrundbeschaffenheit vorzunehmen, nicht umgesetzt wurden.
+  not verbatim: Es wurde ein Verbrennungsturtriebwagen (TVT) 99970 zur Erkundung beauftragt.
+  keine Angabe im Bericht: [Bauart der beteiligten Stellwerke]
+Assessment 179.md: 20/20 sentences verbatim (100%)
+  keine Angabe im Bericht: [Bauart der beteiligten Stellwerke]
+Assessment 180.md: 16/16 sentences verbatim (100%)
+Assessment 181.md: 19/19 sentences verbatim (100%)
+Assessment 191.md: 12/13 sentences verbatim (92%)
+  not verbatim: Daraufhin entgleisen der elfte und auch der zwölfte Wagen, ebenfalls ein Fahrzeug der Gattung Laaeke, mit der Fahrzeugnummer 25 80 4367 127-4.
+Assessment 196.md: 13/13 sentences verbatim (100%)
+  keine Angabe im Bericht: [Baureihe der beteiligten Schienenfahrzeuge]
+Assessment 199.md: 27/29 sentences verbatim (93%)
+  not verbatim: Das Spurplanstellwerk [im Bahnhof Meerbusch-Osterath] wurde in der Bauform Sp Dr L 60 ausgeführt.
+  not verbatim: Der Zug [DPN 32547] war aus zwei Triebwagen der BR 442 gebildet.
+Assessment 200.md: 13/13 sentences verbatim (100%)
+Assessment 201.md: 14/15 sentences verbatim (93%)
+  not verbatim: Die Güterzugfahrt DGS 42722, bestehend aus einem Triebfahrzeug der Baureihe E 186 und 19 Wagen, fuhr am 17.12.2019 gegen 23:00 Uhr in die östliche Einfahrgruppe des Stellwerkbezirks B8 ein.
+Assessment 203.md: 19/19 sentences verbatim (100%)
+  keine Angabe im Bericht: [Bauart der beteiligten Stellwerke]
+Assessment 226.md: 6/7 sentences verbatim (85%)
+  not verbatim: Summe 0 Tote, 0 schwer Verletzte, 1 leicht Verletzte.
+  WARNING: the output repeats a character 122096 times in a row, the input at most 526 times
+  missing sections: [Bauart der beteiligten Stellwerke, Baureihe der beteiligten Schienenfahrzeuge, Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle, bereits umgesetzte Maßnahmen]
+Assessment 231.md: 8/8 sentences verbatim (100%)
+  WARNING: the output repeats a character 119872 times in a row, the input at most 505 times
+  missing sections: [Bauart der beteiligten Stellwerke, Baureihe der beteiligten Schienenfahrzeuge, Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle, bereits umgesetzte Maßnahmen]
+Assessment 234.md: 28/31 sentences verbatim (90%)
+  not verbatim: Am 500 Hz Gleismagneten des Esig ZII wurde bei einer Geschwindigkeit von ca. 62,8 km/h eine Zwangsbremsung ausgelöst, die der Tf mit einer Schnellbremsung unterstützte.
+  not verbatim: Die weiterhin unzureichende Bremswirkung des Güterzuges führte zu einer Vorbeifahrt am Haltbegriff des Esig ZII und anschließend zur Kollision mit denen im Gleis 815 stehenden Wagen aus Güterzuges EZ 
+  not verbatim: Das für Einfahrten in die Einfahrgruppe Ost-West und Ausfahrten aus der Ausfahrgruppe West-Ost zuständige Stellwerk Seelze Rbf „Sof“ war mit elektromechanischer Stellwerkstechnik des Herstellers Sieme
+Assessment 237.md: 18/18 sentences verbatim (100%)
+Assessment 238.md: 20/20 sentences verbatim (100%)
