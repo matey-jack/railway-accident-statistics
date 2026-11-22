@@ -2,12 +2,19 @@ package ebuparser
 
 import com.fasterxml.jackson.module.kotlin.jacksonObjectMapper
 import com.fasterxml.jackson.module.kotlin.readValue
-import com.openai.core.JsonValue
-import com.openai.models.FunctionDefinition
-import com.openai.models.FunctionParameters
-import com.openai.models.chat.completions.ChatCompletionCreateParams
-import com.openai.models.chat.completions.ChatCompletionNamedToolChoice
 import software.amazon.awssdk.auth.credentials.ProfileCredentialsProvider
+import software.amazon.awssdk.core.document.Document
+import software.amazon.awssdk.services.bedrockruntime.BedrockRuntimeClient
+import software.amazon.awssdk.services.bedrockruntime.model.ContentBlock
+import software.amazon.awssdk.services.bedrockruntime.model.ConversationRole
+import software.amazon.awssdk.services.bedrockruntime.model.ConverseRequest
+import software.amazon.awssdk.services.bedrockruntime.model.InferenceConfiguration
+import software.amazon.awssdk.services.bedrockruntime.model.Message
+import software.amazon.awssdk.services.bedrockruntime.model.SystemContentBlock
+import software.amazon.awssdk.services.bedrockruntime.model.Tool
+import software.amazon.awssdk.services.bedrockruntime.model.ToolConfiguration
+import software.amazon.awssdk.services.bedrockruntime.model.ToolInputSchema
+import software.amazon.awssdk.services.bedrockruntime.model.ToolSpecification
 import java.io.File
 import kotlin.reflect.KType
 import kotlin.reflect.full.findAnnotation
@@ -17,6 +24,8 @@ import kotlin.reflect.jvm.jvmErasure
 const val CLASSIFICATION_INPUT = "results/bedrock/summaries.md"
 const val CLASSIFICATION_DIR = "results/classification"
 const val CLASSIFICATIONS_JSONL = "$CLASSIFICATION_DIR/classifications.jsonl"
+
+val CLASSIFICATION_MODEL = haiku55Model
 
 internal data class ClassificationFieldMeta(
     val propertyName: String,
@@ -148,70 +157,110 @@ private fun buildClassificationInput(summary: Summary): String {
         .joinToString("\n\n")
 }
 
+private fun toDocument(value: Any?): Document =
+    when (value) {
+        null -> Document.fromNull()
+        is String -> Document.fromString(value)
+        is Boolean -> Document.fromBoolean(value)
+        is Int -> Document.fromNumber(value)
+        is List<*> -> Document.fromList(value.map(::toDocument))
+        is Map<*, *> -> Document.fromMap(value.entries.associate { (key, item) -> key as String to toDocument(item) })
+        else -> error("No Document conversion for ${value::class}.")
+    }
+
+private fun fromDocument(document: Document): Any? =
+    when {
+        document.isNull() -> null
+        document.isString() -> document.asString()
+        document.isBoolean() -> document.asBoolean()
+        document.isNumber() -> {
+            val number = document.asNumber().bigDecimalValue()
+            if (number.stripTrailingZeros().scale() <= 0) number.longValueExact() else number.toDouble()
+        }
+        document.isList() -> document.asList().map(::fromDocument)
+        document.isMap() -> document.asMap().mapValues { (_, item) -> fromDocument(item) }
+        else -> error("Unknown Document type: $document")
+    }
+
+// Claude-specific settings, passed through Converse unchanged.
+private val claudeRequestFields =
+    toDocument(
+        mapOf(
+            "thinking" to mapOf("type" to "adaptive", "display" to "summarized"),
+            "output_config" to mapOf("effort" to "medium"),
+        ),
+    )
+
 class Classifier(
-    private val mantleClient: MantleClient,
+    private val bedrockClient: BedrockRuntimeClient,
 ) {
-    val tool: FunctionDefinition =
-        FunctionDefinition
+    val toolSpec: ToolSpecification =
+        ToolSpecification
             .builder()
             .name(TOOL_NAME)
             .description("Unfallkategorisierung")
-            .parameters(
-                FunctionParameters
-                    .builder()
-                    .putAdditionalProperty("type", JsonValue.from("object"))
-                    .putAdditionalProperty("properties", JsonValue.from(buildToolSchemaProperties()))
-                    .putAdditionalProperty("required", JsonValue.from(buildRequiredProperties()))
-                    .build(),
+            .inputSchema(
+                ToolInputSchema.fromJson(
+                    toDocument(
+                        mapOf(
+                            "type" to "object",
+                            "properties" to buildToolSchemaProperties(),
+                            "required" to buildRequiredProperties(),
+                        ),
+                    ),
+                ),
             ).build()
 
-    private val toolChoice =
-        ChatCompletionNamedToolChoice
+    // No forced tool choice: with a forced tool call, Claude skips thinking. The prompt asks for the tool instead.
+    private val toolConfig =
+        ToolConfiguration
             .builder()
-            .function(
-                ChatCompletionNamedToolChoice.Function
-                    .builder()
-                    .name(TOOL_NAME)
-                    .build(),
-            ).build()
+            .tools(Tool.fromToolSpec(toolSpec))
+            .build()
 
     fun classify(summary: Summary): ClassificationRecord {
         println("Classifying ${summary.filename}...")
-        val params =
-            ChatCompletionCreateParams
+        val request =
+            ConverseRequest
                 .builder()
-                .withBedrockSettings()
-                .addSystemMessage(classificationPrompt)
-                .addUserMessage(buildClassificationInput(summary))
-                .addFunctionTool(tool)
-                .toolChoice(toolChoice)
+                .modelId(CLASSIFICATION_MODEL.inferenceId)
+                .system(SystemContentBlock.builder().text(classificationPrompt).build())
+                .messages(
+                    Message
+                        .builder()
+                        .role(ConversationRole.USER)
+                        .content(ContentBlock.builder().text(buildClassificationInput(summary)).build())
+                        .build(),
+                ).toolConfig(toolConfig)
+                .inferenceConfig(
+                    InferenceConfiguration
+                        .builder()
+                        .maxTokens(BEDROCK_MAX_TOKENS)
+                        .build(),
+                ).additionalModelRequestFields(claudeRequestFields)
                 .build()
 
-        val chat = mantleClient.createChatCompletion(params)
-        val arguments =
-            chat
-                .choices()
-                .firstOrNull()
-                ?.message()
-                ?.toolCalls()
-                ?.orElse(null)
-                ?.firstNotNullOfOrNull { toolCall ->
-                    toolCall
-                        .function()
-                        .orElse(null)
-                        ?.function()
-                        ?.takeIf { it.name() == TOOL_NAME }
-                        ?.arguments()
-                } ?: error("No $TOOL_NAME tool output for ${summary.filename}.")
+        val converseResponse = bedrockClient.converse(request)
+        val content = converseResponse.output().message().content()
+        val thinking = content.mapNotNull { it.reasoningContent()?.reasoningText()?.text() }.joinToString("\n\n")
+        val toolInput =
+            content.firstNotNullOfOrNull { block -> block.toolUse()?.takeIf { it.name() == TOOL_NAME }?.input() }
+                ?: error(
+                    "No $TOOL_NAME tool output for ${summary.filename}, " +
+                        "stop reason ${converseResponse.stopReasonAsString()}.",
+                )
 
-        val response = jsonMapper.readValue<Map<String, Any?>>(arguments)
+        @Suppress("UNCHECKED_CAST")
+        val response = fromDocument(toolInput) as Map<String, Any?>
+        println("Thinking: $thinking")
         println("Reasoning: ${response[REASONING_PROPERTY]}")
         println()
         return ClassificationRecord(
             report = summary.reportNumber,
             title = summary.title,
-            model = BEDROCK_MODEL_ID,
+            model = CLASSIFICATION_MODEL.inferenceId,
             response = response,
+            thinking = thinking,
         )
     }
 }
@@ -244,19 +293,19 @@ fun appendClassificationRecord(
 }
 
 fun main() {
-    require(BEDROCK_MODEL.api == BedrockApi.MANTLE) {
-        "The classifier only talks to the bedrock-mantle endpoint, but $BEDROCK_MODEL_ID uses ${BEDROCK_MODEL.api}."
+    require(CLASSIFICATION_MODEL.api == BedrockApi.CONVERSE) {
+        "The classifier only uses the Converse API, but ${CLASSIFICATION_MODEL.name} uses ${CLASSIFICATION_MODEL.api}."
     }
 
-    val region = resolveAwsRegion()
-    val credentialsProvider =
-        ProfileCredentialsProvider
+    val bedrockClient =
+        BedrockRuntimeClient
             .builder()
-            .profileName(AWS_PROFILE)
+            .region(resolveAwsRegion())
+            .credentialsProvider(ProfileCredentialsProvider.builder().profileName(AWS_PROFILE).build())
             .build()
 
-    val classifier = Classifier(MantleClient(region, credentialsProvider))
-    println("INFO tool: ${classifier.tool}")
+    val classifier = Classifier(bedrockClient)
+    println("INFO tool: ${classifier.toolSpec}")
 
     val alreadyClassified = readClassificationRecords(CLASSIFICATIONS_JSONL).map { it.report }.toSet()
     val pending =

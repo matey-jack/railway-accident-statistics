@@ -173,6 +173,7 @@ data class ClassificationRecord(
     val title: String,
     val model: String,
     val response: Map<String, Any?>,
+    val thinking: String? = null,
 )
 
 data class SimpleSummary(

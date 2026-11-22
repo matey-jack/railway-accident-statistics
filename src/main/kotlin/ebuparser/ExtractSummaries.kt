@@ -42,7 +42,14 @@ data class BedrockModel(
     val inputDollarPer1m: Double,
     val outputDollarPer1m: Double,
     val api: BedrockApi,
-)
+) {
+    val inferenceId: String
+        get() =
+            when (api) {
+                BedrockApi.CONVERSE -> "global.$name"
+                BedrockApi.MANTLE -> name
+            }
+}
 
 // this is the listed flex price
 val novaModel = BedrockModel("amazon.nova-2-lite-v1:0", 0.195, 1.635, BedrockApi.CONVERSE)
@@ -51,12 +58,12 @@ val novaModel = BedrockModel("amazon.nova-2-lite-v1:0", 0.195, 1.635, BedrockApi
 // Gemma 4 is only served by the OpenAI-compatible bedrock-mantle endpoint, which has no cross-region inference profiles.
 val gemma31Model = BedrockModel("google.gemma-4-31b", 0.17 / 2, 0.48 / 2, BedrockApi.MANTLE)
 
+// this is the listed standard price; Bedrock offers no flex tier for this model.
+// Its bedrock-mantle endpoint isn't available in the EU regions.
+val haiku55Model = BedrockModel("anthropic.claude-haiku-5-5", 0.10, 0.50, BedrockApi.CONVERSE)
+
 val BEDROCK_MODEL = gemma31Model
-val BEDROCK_MODEL_ID =
-    when (BEDROCK_MODEL.api) {
-        BedrockApi.CONVERSE -> "global." + BEDROCK_MODEL.name
-        BedrockApi.MANTLE -> BEDROCK_MODEL.name
-    }
+val BEDROCK_MODEL_ID = BEDROCK_MODEL.inferenceId
 const val BEDROCK_SERVICE_TIER = "flex"
 
 // this includes reasoning tokens!

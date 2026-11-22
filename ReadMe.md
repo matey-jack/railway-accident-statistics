@@ -10,7 +10,7 @@ And the data from step 3 is tabular, so it can be aggregated, grouped, etc.
 Pipeline in order:
 1. PDF → Markdown – done via datalab.io – I only had a subscription there for one month, so this step won't be repeated.
 2. Summarization (`ExtractSummaries.kt`) — reads `documents/*.md`, writes `results/<provider>/summaries.md`
-3. Classification (`Classifier.kt`) — reads `results/bedrock/summaries-Nova-2-Lite.md`, writes `results/bedrock/classifications.csv`
+3. Classification (`Classifier.kt`) — reads `results/bedrock/summaries.md`, writes `results/bedrock/classifications.csv`
 
 Both LLM steps only process the reports listed in `testReports` (`model.kt`),
 so prompt changes can be evaluated on a varied sample before paying for a full run.
@@ -59,7 +59,7 @@ Code: [Classifier.kt](src/main/kotlin/ebuparser/Classifier.kt), [ClassificationC
 Input: `results/bedrock/summaries.md`
 Output: `results/classification/classifications.jsonl` and `results/classification/classifications.csv`
 
-Only for models on the bedrock-mantle endpoint (see the permissions in step 2). 
+Uses the Converse API of Bedrock, so only for models that Converse serves.
 The classification categories are the annotated fields of `Classification` in `model.kt`;
 they become both the tool schema for the LLM and the CSV columns.
 

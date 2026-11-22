@@ -4,7 +4,7 @@ Goal: a table with fine-grained information to find patterns
 (which vehicle or signal box types have more accidents, what goes along with high damage or loss of life),
 but with uniform values so that a spreadsheet can group and aggregate them.
 
-## Open question: several calls to a small model, or one call to a larger model?
+## Decision: several calls to a small model, or one call to a larger model?
 
 The input is small: `summaries.md` has about 250k tokens for all 241 reports,
 so with Gemma 4 31B a full run costs about 2 cents, and even a model 30–50 times as expensive costs a few dollars.
@@ -23,12 +23,7 @@ so with Gemma 4 31B a full run costs about 2 cents, and even a model 30–50 tim
   - domain knowledge (BR 612 is a diesel multiple unit, SpDrS 60 is a relay signal box)
   - reading amounts like "ca. 50.000.000.- DM"
 
-  Larger models on Bedrock (Claude, Qwen3-235B, DeepSeek, Mistral Large) may only be reachable through the Converse API,
-  which `Classifier` doesn't support yet. `ExtractSummaries` already has a Converse path for Nova.
-
-How to decide: classify the test reports with both, compare the answers field by field,
-and check the disagreements against hand-labelled reports (see below).
-If the small model is kept, also try a higher reasoning effort than `withBedrockSettings` sets.
+DECISION: use a bigger model and a single call.
 
 ## Uniform but detailed values
 
