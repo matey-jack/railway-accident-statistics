@@ -331,11 +331,6 @@ fun parseSummaries(path: String): List<Summary> {
 }
 
 fun main() {
-    val identity =
-        getCallerIdentityForProfile(AWS_PROFILE)
-            ?: error("AWS profile '$AWS_PROFILE' is not ready.")
-    printCallerIdentity(identity)
-
     require(BEDROCK_MODEL.api == BedrockApi.MANTLE) {
         "The classifier only talks to the bedrock-mantle endpoint, but $BEDROCK_MODEL_ID uses ${BEDROCK_MODEL.api}."
     }

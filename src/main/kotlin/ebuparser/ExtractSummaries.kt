@@ -527,12 +527,7 @@ fun main() {
         bedrockClient = null
         extractor = { fileName, fullText -> extractWithLemonade(fileName, fullText) }
     } else {
-        println("Lemonade is not running. Checking AWS profile '$AWS_PROFILE'.")
-        val identity =
-            getCallerIdentityForProfile(AWS_PROFILE)
-                ?: error("Neither Lemonade nor a logged-in AWS profile '$AWS_PROFILE' is available.")
-
-        printCallerIdentity(identity)
+        println("Lemonade is not running. Using AWS profile '$AWS_PROFILE'.")
         val region = resolveAwsRegion()
         val credentialsProvider =
             ProfileCredentialsProvider
