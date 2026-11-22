@@ -28,45 +28,6 @@ class ExtractSummariesKtTest {
     }
 
     @Test
-    fun testNormalizeSectionHeadings_NestedUnderCopiedHeading() {
-        val input =
-            """
-            # Untersuchungsbericht
-
-            ## **Titel des Untersuchungsberichts**
-            Zusammenstoß, Bf Bad Münder, 09.09.2002
-
-            ## Hergang des Unfalls
-            Text.
-
-            ### 2.1 Hergang
-            Mehr Text.
-            """.trimIndent()
-
-        val expected =
-            """
-            ## Untersuchungsbericht
-
-            # Titel des Untersuchungsberichts
-            Zusammenstoß, Bf Bad Münder, 09.09.2002
-
-            # Hergang des Unfalls
-            Text.
-
-            ### 2.1 Hergang
-            Mehr Text.
-            """.trimIndent()
-
-        assertEquals(expected, normalizeSectionHeadings(input))
-    }
-
-    @Test
-    fun testMissingSectionHeadings() {
-        val summary = SUMMARY_SECTION_HEADINGS.drop(1).joinToString("\n\n") { "# $it\nText." }
-        assertEquals(listOf(TITLE_HEADING), missingSectionHeadings(summary))
-    }
-
-    @Test
     fun testParseSummaries_TitleFromTitleSection(
         @TempDir tempDir: Path,
     ) {

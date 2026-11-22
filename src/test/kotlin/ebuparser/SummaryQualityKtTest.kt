@@ -13,19 +13,6 @@ class SummaryQualityKtTest {
     }
 
     @Test
-    fun testNormalizeSectionHeadings_Typo() {
-        assertEquals(
-            "# Höhe des Schadens, Anzahl Tote und Verletzte",
-            normalizeSectionHeadings("# Höhe des Schadens, Anzahl Tote und Verlette"),
-        )
-    }
-
-    @Test
-    fun testNormalizeSectionHeadings_OtherHeadingStaysSubheading() {
-        assertEquals("## Ursachen", normalizeSectionHeadings("# Ursachen"))
-    }
-
-    @Test
     fun testAssessSummary() {
         val report =
             "Der Zug fuhr mit **ca. 54 km/h** am Signal<sup>3)</sup> vorbei. Danach entgleiste er.\n" +

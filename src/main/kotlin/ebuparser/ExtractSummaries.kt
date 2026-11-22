@@ -32,42 +32,10 @@ const val LEMONADE_URL = "http://127.0.0.1:8000"
 const val LEMONADE_STATS_URL = "$LEMONADE_URL/api/v1/stats"
 const val LEMONADE_MODEL = "Qwen3-14B-GGUF"
 
-enum class BedrockApi {
-    CONVERSE,
-    MANTLE,
-}
-
-data class BedrockModel(
-    val name: String,
-    val inputDollarPer1m: Double,
-    val outputDollarPer1m: Double,
-    val api: BedrockApi,
-) {
-    val inferenceId: String
-        get() =
-            when (api) {
-                BedrockApi.CONVERSE -> "global.$name"
-                BedrockApi.MANTLE -> name
-            }
-}
-
-// this is the listed flex price
-val novaModel = BedrockModel("amazon.nova-2-lite-v1:0", 0.195, 1.635, BedrockApi.CONVERSE)
-
-// this is the listed standard price with 50% discount.
-// Gemma 4 is only served by the OpenAI-compatible bedrock-mantle endpoint, which has no cross-region inference profiles.
-val gemma31Model = BedrockModel("google.gemma-4-31b", 0.17 / 2, 0.48 / 2, BedrockApi.MANTLE)
-
-// this is the listed standard price; Bedrock offers no flex tier for this model.
-// Its bedrock-mantle endpoint isn't available in the EU regions.
-val haiku55Model = BedrockModel("anthropic.claude-haiku-5-5", 0.10, 0.50, BedrockApi.CONVERSE)
-
 val BEDROCK_MODEL = gemma31Model
 val BEDROCK_MODEL_ID = BEDROCK_MODEL.inferenceId
 const val BEDROCK_SERVICE_TIER = "flex"
 
-// this includes reasoning tokens!
-const val BEDROCK_MAX_TOKENS = 8000
 const val OUTPUT_FILENAME = "summaries.md"
 const val LOG_FILENAME = "extraction-log.txt"
 const val LEMONADE_OUTPUT_DIR = "results/lemonade"
@@ -442,46 +410,6 @@ fun cleanSummary(
     return cleaned
 }
 
-private val HEADING_REGEX = Regex("""^(#+)[ \t]+(.+?)[ \t]*$""", RegexOption.MULTILINE)
-
-// The model occasionally misspells a prescribed heading (e.g. "Verlette", "Verletjekte", "Verhidung").
-// The section headings differ from each other far more than this.
-private const val MAX_HEADING_TYPOS = 3
-
-private fun sectionHeadingOf(headingText: String): String? {
-    val bare = headingText.trim('*', ' ', ':').lowercase()
-    return SUMMARY_SECTION_HEADINGS.firstOrNull { editDistance(it.lowercase(), bare) <= MAX_HEADING_TYPOS }
-}
-
-// The parsers split summaries at H1 headings, but the model doesn't reliably keep the prescribed levels:
-// it sometimes nests all sections under a heading copied from the report.
-// So the known section headings become H1, and every other heading becomes at least H2.
-fun normalizeSectionHeadings(
-    text: String,
-    onHeadingFix: (String) -> Unit = { println("Fixing heading: $it") },
-): String =
-    HEADING_REGEX.replace(text) { match ->
-        val sectionHeading = sectionHeadingOf(match.groupValues[2])
-        val replacement =
-            if (sectionHeading != null) {
-                "# $sectionHeading"
-            } else {
-                "#".repeat(maxOf(match.groupValues[1].length, 2)) + " " + match.groupValues[2]
-            }
-        if (replacement != match.value) onHeadingFix(match.value)
-        replacement
-    }
-
-fun missingSectionHeadings(summary: String): List<String> {
-    val present =
-        HEADING_REGEX
-            .findAll(summary)
-            .filter { it.groupValues[1] == "#" }
-            .map { it.groupValues[2] }
-            .toSet()
-    return SUMMARY_SECTION_HEADINGS - present
-}
-
 fun isFileInSubsetForTest(filename: String): Boolean {
     val number = filename.take(3)
     return testReports.contains(number)
@@ -544,12 +472,7 @@ fun main() {
 
         when (BEDROCK_MODEL.api) {
             BedrockApi.CONVERSE -> {
-                val converseClient =
-                    BedrockRuntimeClient
-                        .builder()
-                        .region(region)
-                        .credentialsProvider(credentialsProvider)
-                        .build()
+                val converseClient = converseClient(region, credentialsProvider)
                 bedrockClient = converseClient
                 extractor = { fileName, fullText -> extractWithBedrock(converseClient, fileName, fullText) }
             }

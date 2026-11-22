@@ -298,11 +298,7 @@ fun main() {
     }
 
     val bedrockClient =
-        BedrockRuntimeClient
-            .builder()
-            .region(resolveAwsRegion())
-            .credentialsProvider(ProfileCredentialsProvider.builder().profileName(AWS_PROFILE).build())
-            .build()
+        converseClient(resolveAwsRegion(), ProfileCredentialsProvider.builder().profileName(AWS_PROFILE).build())
 
     val classifier = Classifier(bedrockClient)
     println("INFO tool: ${classifier.toolSpec}")
