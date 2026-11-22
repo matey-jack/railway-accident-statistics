@@ -1,44 +1,47 @@
 package ebuparser
 
-import java.time.LocalDate
-
 const val SECTION_SEPARATOR = "\n---\n"
 
-// Must match the headings prescribed in extraction-prompt.txt.
 const val TITLE_HEADING = "Titel des Untersuchungsberichts"
-val SUMMARY_SECTION_HEADINGS =
-    listOf(
-        TITLE_HEADING,
-        "Hergang des Unfalls",
-        "Höhe des Schadens, Anzahl Tote und Verletzte",
-        "Ursachen des Unfalls",
-        "Bauart der beteiligten Stellwerke",
-        "Baureihe der beteiligten Schienenfahrzeuge",
-        "Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle",
-        "bereits umgesetzte Maßnahmen",
-    )
+
+// The headings must match those prescribed in extraction-prompt.txt, in the same order.
+enum class SectionCategory(
+    val heading: String,
+) {
+    TITLE(TITLE_HEADING),
+    WHAT_HAPPENED("Hergang des Unfalls"),
+    DAMAGES("Höhe des Schadens, Anzahl Tote und Verletzte"),
+    CAUSES("Ursachen des Unfalls"),
+    SIGNAL_BOXES("Bauart der beteiligten Stellwerke"),
+    VEHICLES("Baureihe der beteiligten Schienenfahrzeuge"),
+    RECOMMENDATIONS("Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle"),
+    MEASURES_TAKEN("bereits umgesetzte Maßnahmen"),
+}
+
+val SUMMARY_SECTION_HEADINGS = SectionCategory.entries.map { it.heading }
 
 data class Summary(
     val filename: String,
-    val date: String, // format dd.mm.yyyy
     val title: String,
     val sections: List<Section>,
-)
+) {
+    val reportNumber: String
+        get() = filename.substringBeforeLast('.')
+}
 
 data class Section(
-    val title: String,
     val category: SectionCategory,
     val text: String,
-)
+) {
+    val title: String
+        get() = category.heading
+}
 
-data class DamagesSummary(
-    val fileName: String,
-    val title: String,
-    val published: LocalDate,
-    val totalDamage: Int,
-    val totalInjured: Int,
-    val totalCasualties: Int,
-    val sections: List<Section>,
+// The title has the form "<Ereignisart>, <Ort oder Strecke>, <TT.MM.JJJJ>", as prescribed in extraction-prompt.txt.
+data class ReportTitle(
+    val eventType: String,
+    val location: String,
+    val date: String,
 )
 
 enum class RoadVehicleType {
@@ -130,6 +133,46 @@ data class Classification(
         "Eine wesentliche Unfallursache ist nicht eine der vorgenannten Kategorien.",
     )
     val otherCause: Boolean,
+    @LlmField(
+        "Tote",
+        "Anzahl der beim Unfall getöteten Personen. Weglassen, wenn die Zusammenfassung keine Anzahl nennt.",
+        required = false,
+    )
+    val deaths: Int?,
+    @LlmField(
+        "Verletzte",
+        "Anzahl der beim Unfall verletzten Personen (schwer und leicht verletzte zusammen). " +
+            "Weglassen, wenn die Zusammenfassung keine Anzahl nennt.",
+        required = false,
+    )
+    val injured: Int?,
+    @LlmField(
+        "Sachschaden",
+        "Gesamthöhe des Sachschadens mit Währung, z.B. \"10.883.000 €\" oder \"50.000.000 DM\". " +
+            "Wenn nur Einzelbeträge genannt sind, deren Summe. Weglassen, wenn die Zusammenfassung keinen Betrag nennt.",
+        required = false,
+    )
+    val propertyDamage: String?,
+    @LlmField(
+        "Stellwerke",
+        "Je beteiligtem Stellwerk ein Eintrag mit seiner Bauart, z.B. \"mechanisch\", \"SpDrS 60\" oder \"ESTW\". " +
+            "Leer, wenn die Zusammenfassung kein Stellwerk nennt.",
+    )
+    val signalBoxes: List<String>,
+    @LlmField(
+        "Schienenfahrzeuge",
+        "Je beteiligtem Schienenfahrzeug ein Eintrag mit Baureihe oder Fahrzeugtyp, " +
+            "z.B. \"BR 612\", \"Kesselwagen\" oder \"Stopfmaschine\". Leer, wenn die Zusammenfassung keines nennt.",
+    )
+    val railVehicles: List<String>,
+)
+
+// The model's answer for one report, as stored in CLASSIFICATIONS_JSONL.
+data class ClassificationRecord(
+    val report: String,
+    val title: String,
+    val model: String,
+    val response: Map<String, Any?>,
 )
 
 data class SimpleSummary(
@@ -138,13 +181,6 @@ data class SimpleSummary(
 ) {
     val asOutput: String
         get() = "file: $filename\n\n$summary"
-}
-
-enum class SectionCategory {
-    WHAT_HAPPENED,
-    DAMAGES,
-    CAUSES,
-    MEASURES,
 }
 
 // just to test the new table handling

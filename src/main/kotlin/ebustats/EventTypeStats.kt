@@ -25,6 +25,8 @@ val aliases =
         Pair("Zusammenstoß", "Kollision"),
         // not to all: "Aufprall" bezieht sich auf Objekte, die keine Züge sind. Aber später wurde dies auch als Kollision gezählt und so machen wir es nun auch.
         Pair("Aufprall", "Kollision"),
+        Pair("Zusammenprall am BÜ", "Bahnübergangsunfall"),
+        Pair("Zusammenprall am Bahnübergang", "Bahnübergangsunfall"),
         Pair("Brandereignis", "Fahrzeugbrand"),
         Pair("Unregelmäßigkeit an Eisenbahnfahrzeugen", "Störung am Fahrzeug"),
     )

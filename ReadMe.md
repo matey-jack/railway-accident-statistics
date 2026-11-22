@@ -55,12 +55,22 @@ Use `./gradlew runTestAws` to verify your AWS credentials are working before a B
 ## Step 3: classifying accidents
 
 Prompt: [classification-prompt.txt](src/main/resources/classification-prompt.txt)
-Code: [Classifier.kt](src/main/kotlin/ebuparser/Classifier.kt)
-Output: `results/bedrock/classifications.csv`
+Code: [Classifier.kt](src/main/kotlin/ebuparser/Classifier.kt), [ClassificationCsv.kt](src/main/kotlin/ebuparser/ClassificationCsv.kt)
+Input: `results/bedrock/summaries.md`
+Output: `results/classification/classifications.jsonl` and `results/classification/classifications.csv`
 
 Only for models on the bedrock-mantle endpoint (see the permissions in step 2). 
 The classification categories are the annotated fields of `Classification` in `model.kt`;
 they become both the tool schema for the LLM and the CSV columns.
+
+`ClassifierKt` appends the model's answer for each report to `classifications.jsonl`
+and skips reports that are already in it, so an interrupted run can just be restarted.
+To reclassify, move the file away.
+`ClassificationCsvKt` then turns the answers into the CSV, without calling the LLM,
+so changes to the parsing or the columns don't need a new paid run.
+Event type, location and date come from the summary's title; list fields are joined with "; ".
+
+Ideas for better classification results: [classification-improvements.md](classification-improvements.md).
 
 ## Damages and causes: extracting sections from the summaries
 

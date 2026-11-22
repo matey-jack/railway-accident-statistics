@@ -11,13 +11,14 @@ import software.amazon.awssdk.auth.credentials.ProfileCredentialsProvider
 import java.io.File
 import kotlin.reflect.KType
 import kotlin.reflect.full.findAnnotation
-import kotlin.reflect.full.memberProperties
 import kotlin.reflect.full.primaryConstructor
 import kotlin.reflect.jvm.jvmErasure
 
-private val SUMMARY_DATE_REGEX = Regex("""\d\d\.\d\d\.\d\d\d\d""")
+const val CLASSIFICATION_INPUT = "results/bedrock/summaries.md"
+const val CLASSIFICATION_DIR = "results/classification"
+const val CLASSIFICATIONS_JSONL = "$CLASSIFICATION_DIR/classifications.jsonl"
 
-private data class ClassificationFieldMeta(
+internal data class ClassificationFieldMeta(
     val propertyName: String,
     val type: KType,
     val llmField: LlmField,
@@ -25,7 +26,7 @@ private data class ClassificationFieldMeta(
 
 private val classificationPrompt = File("src/main/resources/classification-prompt.txt").readText()
 
-private val classificationFieldMetadata: List<ClassificationFieldMeta> =
+internal val classificationFieldMetadata: List<ClassificationFieldMeta> =
     Classification::class.primaryConstructor!!.parameters.mapNotNull { parameter ->
         val llmField = parameter.findAnnotation<LlmField>() ?: return@mapNotNull null
         ClassificationFieldMeta(
@@ -36,33 +37,48 @@ private val classificationFieldMetadata: List<ClassificationFieldMeta> =
     }
 
 private const val TOOL_NAME = "classify"
+internal const val REASONING_PROPERTY = "reasoning"
+
+// The recommendations and measures were made after the accident, so they say nothing about the accident itself.
+private val classificationInputSections =
+    SectionCategory.entries - SectionCategory.TITLE - SectionCategory.RECOMMENDATIONS - SectionCategory.MEASURES_TAKEN
+
+private val jsonMapper = jacksonObjectMapper()
 
 private fun buildFieldSchema(field: ClassificationFieldMeta): Map<String, Any> =
     buildMap {
         put("title", field.llmField.name)
         put("description", field.llmField.description)
-        put("type", "string")
 
-        if (field.type.jvmErasure == Boolean::class) {
-            put("enum", listOf("ja", "nein"))
-        }
+        when (field.type.jvmErasure) {
+            Boolean::class -> {
+                put("type", "string")
+                put("enum", listOf("ja", "nein"))
+            }
 
-        val enumValues =
-            field.type.jvmErasure.java
-                .takeIf { it.isEnum }
-                ?.enumConstants
-                ?.map { (it as Enum<*>).name }
-                .orEmpty()
+            Int::class -> {
+                put("type", "integer")
+            }
 
-        if (enumValues.isNotEmpty()) {
-            put("enum", enumValues)
+            List::class -> {
+                put("type", "array")
+                put("items", mapOf("type" to "string"))
+            }
+
+            else -> {
+                put("type", "string")
+                val enumConstants = field.type.jvmErasure.java.enumConstants
+                if (enumConstants != null) {
+                    put("enum", enumConstants.map { (it as Enum<*>).name })
+                }
+            }
         }
     }
 
 private fun buildToolSchemaProperties(): Map<String, Map<String, Any>> =
     buildMap {
         put(
-            "reasoning",
+            REASONING_PROPERTY,
             mapOf(
                 "type" to "string",
                 "description" to "Kurze Begründung der Kategorisierung.",
@@ -75,40 +91,24 @@ private fun buildToolSchemaProperties(): Map<String, Map<String, Any>> =
 
 private fun buildRequiredProperties(): List<String> =
     buildList {
-        add("reasoning")
+        add(REASONING_PROPERTY)
         classificationFieldMetadata
             .filter { it.llmField.required }
             .forEach { add(it.propertyName) }
     }
 
-private fun categoryFromHeading(heading: String): SectionCategory {
-    val normalized = heading.lowercase()
-    return when {
-        normalized.contains("hergang") -> SectionCategory.WHAT_HAPPENED
-        normalized.contains("ursachen") -> SectionCategory.CAUSES
-        normalized.contains("schaden") -> SectionCategory.DAMAGES
-        else -> SectionCategory.MEASURES
-    }
-}
-
 private fun parseSummarySection(rawSection: String): Summary? {
     val lines = normalizeSectionHeadings(rawSection).lines()
     val fileLine = lines.firstOrNull { it.startsWith("file:") } ?: return null
     val filename = fileLine.substringAfter(':').trim()
-    val date = SUMMARY_DATE_REGEX.find(rawSection)?.value.orEmpty()
 
     val parsedSections = mutableListOf<Section>()
-    var currentHeading: String? = null
+    var currentCategory: SectionCategory? = null
     val currentBody = mutableListOf<String>()
 
     fun flushCurrentSection() {
-        val heading = currentHeading ?: return
-        parsedSections +=
-            Section(
-                title = heading,
-                category = categoryFromHeading(heading),
-                text = currentBody.joinToString("\n").trim(),
-            )
+        val category = currentCategory ?: return
+        parsedSections += Section(category = category, text = currentBody.joinToString("\n").trim())
         currentBody.clear()
     }
 
@@ -116,8 +116,10 @@ private fun parseSummarySection(rawSection: String): Summary? {
         val trimmed = line.trim()
         if (trimmed.startsWith("# ")) {
             flushCurrentSection()
-            currentHeading = trimmed.removePrefix("# ").trim()
-        } else if (currentHeading != null) {
+            val heading = trimmed.removePrefix("# ").trim()
+            // normalizeSectionHeadings has turned every other H1 heading into a subheading.
+            currentCategory = SectionCategory.entries.single { it.heading == heading }
+        } else if (currentCategory != null) {
             currentBody += line
         }
     }
@@ -125,140 +127,25 @@ private fun parseSummarySection(rawSection: String): Summary? {
 
     val title =
         parsedSections
-            .firstOrNull { it.title == TITLE_HEADING }
+            .firstOrNull { it.category == SectionCategory.TITLE }
             ?.text
             ?.lines()
             ?.map { it.trim('#', '*', ' ') }
             ?.firstOrNull { it.isNotEmpty() }
             .orEmpty()
 
-    return Summary(filename = filename, date = date, title = title, sections = parsedSections)
+    return Summary(filename = filename, title = title, sections = parsedSections)
 }
 
 private fun buildClassificationInput(summary: Summary): String {
-    val relevantSections =
-        summary.sections
-            .filter { section ->
-                section.category == SectionCategory.WHAT_HAPPENED ||
-                    section.category == SectionCategory.CAUSES
-            }.ifEmpty { summary.sections }
-
     val sectionsText =
-        relevantSections.joinToString("\n\n") { section ->
-            "# ${section.title}\n\n${section.text.trim()}"
-        }
+        summary.sections
+            .filter { it.category in classificationInputSections }
+            .joinToString("\n\n") { section -> "# ${section.title}\n\n${section.text}" }
 
-    return listOf(summary.title.trim(), sectionsText.trim())
+    return listOf(summary.title, sectionsText)
         .filter { it.isNotBlank() }
         .joinToString("\n\n")
-}
-
-private fun parseBooleanValue(value: Any?): Boolean =
-    when (value) {
-        is Boolean -> value
-        is String -> value.trim().lowercase() in setOf("ja", "true", "x", "1")
-        else -> false
-    }
-
-private fun parseOptionalStringValue(value: Any?): String? = value?.toString()?.trim()?.takeIf { it.isNotEmpty() }
-
-private fun parseRoadVehicleType(value: String?): RoadVehicleType? {
-    if (value.isNullOrBlank()) {
-        return null
-    }
-
-    RoadVehicleType.entries
-        .firstOrNull { entry ->
-            entry.name.equals(value, ignoreCase = true)
-        }?.let { return it }
-
-    val normalized = value.lowercase()
-    return when {
-        normalized.contains("pkw") || normalized.contains("car") || normalized.contains("auto") -> RoadVehicleType.CAR
-        normalized.contains("lkw") || normalized.contains("truck") || normalized.contains("liefer") -> RoadVehicleType.TRUCK
-        normalized.contains("bus") -> RoadVehicleType.BUS
-        else -> RoadVehicleType.OTHER
-    }
-}
-
-private fun parseClassification(toolInput: Map<String, Any?>): Classification {
-    println("Reasoning: ${toolInput["reasoning"]}")
-    println()
-    return Classification(
-        railwayCrossing = parseBooleanValue(toolInput["railwayCrossing"]),
-        roadVehicleType = parseRoadVehicleType(parseOptionalStringValue(toolInput["roadVehicleType"])),
-        constructionWork = parseBooleanValue(toolInput["constructionWork"]),
-        degradedMode = parseBooleanValue(toolInput["degradedMode"]),
-        naturalDisaster = parseBooleanValue(toolInput["naturalDisaster"]),
-        signallerError = parseBooleanValue(toolInput["signallerError"]),
-        driverError = parseBooleanValue(toolInput["driverError"]),
-        infrastructureDeficiency = parseBooleanValue(toolInput["infrastructureDeficiency"]),
-        infrastructureDeficiencyDescription = parseOptionalStringValue(toolInput["infrastructureDeficiencyDescription"]).orEmpty(),
-        vehicleDeficiency = parseBooleanValue(toolInput["vehicleDeficiency"]),
-        vehicleDeficiencyDescription = parseOptionalStringValue(toolInput["vehicleDeficiencyDescription"]).orEmpty(),
-        insufficientBrakes = parseBooleanValue(toolInput["insufficientBrakes"]),
-        fire = parseBooleanValue(toolInput["fire"]),
-        collision = parseBooleanValue(toolInput["collision"]),
-        otherCause = parseBooleanValue(toolInput["otherCause"]),
-    )
-}
-
-private fun classificationValueByProperty(classification: Classification): Map<String, Any?> {
-    val propertiesByName = Classification::class.memberProperties.associateBy { it.name }
-    return classificationFieldMetadata.associate { field ->
-        field.propertyName to propertiesByName.getValue(field.propertyName).getter.call(classification)
-    }
-}
-
-private fun renderCsvValue(value: Any?): String =
-    when (value) {
-        null -> ""
-        is Boolean -> if (value) "x" else ""
-        is Enum<*> -> value.name
-        else -> value.toString()
-    }
-
-private fun escapeCsv(value: String): String {
-    val escaped = value.replace("\"", "\"\"")
-    return if (escaped.contains(',') || escaped.contains('"') || escaped.contains('\n')) {
-        "\"$escaped\""
-    } else {
-        escaped
-    }
-}
-
-private fun writeClassificationsCsv(
-    classifications: List<Pair<Summary, Classification>>,
-    outputPath: String,
-) {
-    val outputFile = File(outputPath)
-    outputFile.parentFile?.mkdirs()
-
-    val header =
-        buildList {
-            add("Bericht")
-            add("Datum")
-            classificationFieldMetadata.forEach { field -> add(field.llmField.name) }
-        }
-
-    val rows =
-        classifications.map { (summary, classification) ->
-            val valueByProperty = classificationValueByProperty(classification)
-
-            buildList {
-                add(summary.filename.substringBeforeLast('.'))
-                add(summary.date)
-                classificationFieldMetadata.forEach { field ->
-                    add(renderCsvValue(valueByProperty[field.propertyName]))
-                }
-            }
-        }
-
-    val csv =
-        (listOf(header) + rows)
-            .joinToString("\n") { row -> row.joinToString(",") { value -> escapeCsv(value) } } + "\n"
-
-    outputFile.writeText(csv)
 }
 
 class Classifier(
@@ -288,7 +175,7 @@ class Classifier(
                     .build(),
             ).build()
 
-    fun classify(summary: Summary): Classification {
+    fun classify(summary: Summary): ClassificationRecord {
         println("Classifying ${summary.filename}...")
         val params =
             ChatCompletionCreateParams
@@ -317,7 +204,15 @@ class Classifier(
                         ?.arguments()
                 } ?: error("No $TOOL_NAME tool output for ${summary.filename}.")
 
-        return parseClassification(jacksonObjectMapper().readValue<Map<String, Any?>>(arguments))
+        val response = jsonMapper.readValue<Map<String, Any?>>(arguments)
+        println("Reasoning: ${response[REASONING_PROPERTY]}")
+        println()
+        return ClassificationRecord(
+            report = summary.reportNumber,
+            title = summary.title,
+            model = BEDROCK_MODEL_ID,
+            response = response,
+        )
     }
 }
 
@@ -328,6 +223,24 @@ fun parseSummaries(path: String): List<Summary> {
         .map { section -> section.trim() }
         .filter { section -> section.isNotBlank() }
         .mapNotNull(::parseSummarySection)
+}
+
+fun readClassificationRecords(path: String): List<ClassificationRecord> {
+    val file = File(path)
+    if (!file.exists()) return emptyList()
+    return file
+        .readLines()
+        .filter { it.isNotBlank() }
+        .map { jsonMapper.readValue<ClassificationRecord>(it) }
+}
+
+fun appendClassificationRecord(
+    record: ClassificationRecord,
+    path: String,
+) {
+    val file = File(path)
+    file.parentFile?.mkdirs()
+    file.appendText(jsonMapper.writeValueAsString(record) + "\n")
 }
 
 fun main() {
@@ -345,13 +258,22 @@ fun main() {
     val classifier = Classifier(MantleClient(region, credentialsProvider))
     println("INFO tool: ${classifier.tool}")
 
-    val summaries = parseSummaries("results/bedrock/summaries.md")
-    val classifications =
-        summaries
-            .filter { summary -> testReports.contains(summary.filename.take(3)) }
-            .map { summary -> summary to classifier.classify(summary) }
+    val alreadyClassified = readClassificationRecords(CLASSIFICATIONS_JSONL).map { it.report }.toSet()
+    val pending =
+        parseSummaries(CLASSIFICATION_INPUT)
+            .filter { summary -> testReports.contains(summary.reportNumber.take(3)) }
+            .filterNot { summary -> summary.reportNumber in alreadyClassified }
+    println("${alreadyClassified.size} reports already in $CLASSIFICATIONS_JSONL, ${pending.size} to classify.")
 
-    val outputPath = "results/bedrock/classifications.csv"
-    writeClassificationsCsv(classifications, outputPath)
-    println("Wrote ${classifications.size} classifications to $outputPath")
+    // A failed report is just skipped: it is retried on the next run, like the reports never attempted.
+    var failures = 0
+    pending.forEach { summary ->
+        try {
+            appendClassificationRecord(classifier.classify(summary), CLASSIFICATIONS_JSONL)
+        } catch (e: Exception) {
+            failures++
+            println("ERROR classifying ${summary.filename}: $e")
+        }
+    }
+    println("Classified ${pending.size - failures} reports, $failures failed.")
 }

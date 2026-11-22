@@ -437,9 +437,9 @@ fun cleanSummary(
 
 private val HEADING_REGEX = Regex("""^(#+)[ \t]+(.+?)[ \t]*$""", RegexOption.MULTILINE)
 
-// The model occasionally misspells a prescribed heading (e.g. "Verlette").
+// The model occasionally misspells a prescribed heading (e.g. "Verlette", "Verletjekte", "Verhidung").
 // The section headings differ from each other far more than this.
-private const val MAX_HEADING_TYPOS = 2
+private const val MAX_HEADING_TYPOS = 3
 
 private fun sectionHeadingOf(headingText: String): String? {
     val bare = headingText.trim('*', ' ', ':').lowercase()
