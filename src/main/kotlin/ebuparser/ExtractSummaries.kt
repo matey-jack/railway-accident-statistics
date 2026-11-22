@@ -148,6 +148,7 @@ fun extractWithLemonade(
 
 fun extractWithBedrock(
     bedrockClient: BedrockRuntimeClient,
+    prices: TokenPrices,
     fileName: String,
     fullText: String,
     prompt: String = summarizationPrompt,
@@ -190,6 +191,7 @@ fun extractWithBedrock(
     val usage = response.usage()
     val statsText =
         bedrockStatsRow(
+            prices = prices,
             fileName = fileName,
             resolvedTier = response.serviceTier()?.typeAsString(),
             localLatencyMs = localLatencyMs,
@@ -241,12 +243,14 @@ fun ChatCompletionCreateParams.Builder.withBedrockSettings(): ChatCompletionCrea
         .serviceTier(ChatCompletionCreateParams.ServiceTier.FLEX)
 
 fun mantleStatsRow(
+    prices: TokenPrices,
     fileName: String,
     chat: ChatCompletion,
     localLatencyMs: Long,
 ): String {
     val usage = chat.usage().getOrNull()
     return bedrockStatsRow(
+        prices = prices,
         fileName = fileName,
         resolvedTier = chat.serviceTier().getOrNull()?.asString(),
         localLatencyMs = localLatencyMs,
@@ -266,6 +270,7 @@ fun mantleStatsRow(
 
 fun extractWithMantle(
     mantleClient: MantleClient,
+    prices: TokenPrices,
     fileName: String,
     fullText: String,
     prompt: String = summarizationPrompt,
@@ -290,7 +295,7 @@ fun extractWithMantle(
             ?.getOrNull()
             .orEmpty()
 
-    return ExtractResult(SimpleSummary(fileName, content), mantleStatsRow(fileName, chat, localLatencyMs))
+    return ExtractResult(SimpleSummary(fileName, content), mantleStatsRow(prices, fileName, chat, localLatencyMs))
 }
 
 fun enableReasoning(effort: String): Document =
@@ -305,6 +310,7 @@ fun enableReasoning(effort: String): Document =
         ).build()
 
 fun bedrockStatsRow(
+    prices: TokenPrices,
     fileName: String,
     resolvedTier: String?,
     localLatencyMs: Long,
@@ -314,8 +320,8 @@ fun bedrockStatsRow(
     totalTokens: Long,
     stopReason: String,
 ): String {
-    val inputCost = inputTokens * BEDROCK_MODEL.inputDollarPer1m / 1_000_000.0
-    val outputCost = outputTokens * BEDROCK_MODEL.outputDollarPer1m / 1_000_000.0
+    val inputCost = prices.inputCost(inputTokens)
+    val outputCost = prices.outputCost(outputTokens)
     return listOf(
         fileName,
         BEDROCK_MODEL_ID,
@@ -469,18 +475,19 @@ fun main() {
                 .builder()
                 .profileName(AWS_PROFILE)
                 .build()
+        val prices = fetchAndPrintTokenPrices(BEDROCK_MODEL, region)
 
         when (BEDROCK_MODEL.api) {
             BedrockApi.CONVERSE -> {
                 val converseClient = converseClient(region, credentialsProvider)
                 bedrockClient = converseClient
-                extractor = { fileName, fullText -> extractWithBedrock(converseClient, fileName, fullText) }
+                extractor = { fileName, fullText -> extractWithBedrock(converseClient, prices, fileName, fullText) }
             }
 
             BedrockApi.MANTLE -> {
                 val mantleClient = MantleClient(region, credentialsProvider)
                 bedrockClient = null
-                extractor = { fileName, fullText -> extractWithMantle(mantleClient, fileName, fullText) }
+                extractor = { fileName, fullText -> extractWithMantle(mantleClient, prices, fileName, fullText) }
             }
         }
 

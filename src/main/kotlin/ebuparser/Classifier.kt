@@ -23,6 +23,7 @@ import kotlin.reflect.jvm.jvmErasure
 const val CLASSIFICATION_INPUT = "results/bedrock/summaries.md"
 const val CLASSIFICATION_DIR = "results/classification"
 const val CLASSIFICATIONS_JSONL = "$CLASSIFICATION_DIR/classifications.jsonl"
+const val CLASSIFICATION_COST_LOG = "$CLASSIFICATION_DIR/cost-log.txt"
 
 val CLASSIFICATION_MODEL = haiku55Model
 
@@ -181,6 +182,7 @@ private val claudeRequestFields =
 
 class Classifier(
     private val bedrockClient: BedrockRuntimeClient,
+    private val costLog: CostLog,
 ) {
     val toolSpec: ToolSpecification =
         ToolSpecification
@@ -222,6 +224,7 @@ class Classifier(
                 .build()
 
         val converseResponse = bedrockClient.converse(request)
+        converseResponse.usage()?.let { costLog.add(it.inputTokens().toLong(), it.outputTokens().toLong()) }
         val content = converseResponse.output().message().content()
         val thinking = content.mapNotNull { it.reasoningContent()?.reasoningText()?.text() }.joinToString("\n\n")
         val toolInput =
@@ -278,10 +281,13 @@ fun main() {
         "The classifier only uses the Converse API, but ${CLASSIFICATION_MODEL.name} uses ${CLASSIFICATION_MODEL.api}."
     }
 
+    val region = resolveAwsRegion()
+    val costLog = CostLog(File(CLASSIFICATION_COST_LOG), fetchAndPrintTokenPrices(CLASSIFICATION_MODEL, region))
+    costLog.start(CLASSIFICATION_MODEL)
     val bedrockClient =
-        converseClient(resolveAwsRegion(), ProfileCredentialsProvider.builder().profileName(AWS_PROFILE).build())
+        converseClient(region, ProfileCredentialsProvider.builder().profileName(AWS_PROFILE).build())
 
-    val classifier = Classifier(bedrockClient)
+    val classifier = Classifier(bedrockClient, costLog)
     println("INFO tool: ${classifier.toolSpec}")
 
     val alreadyClassified = readClassificationRecords(CLASSIFICATIONS_JSONL).map { it.report }.toSet()
@@ -302,4 +308,5 @@ fun main() {
         }
     }
     println("Classified ${pending.size - failures} reports, $failures failed.")
+    costLog.writeTotals()
 }

@@ -52,12 +52,19 @@ Models on the bedrock-mantle endpoint (Gemma 4) additionally need `bedrock-mantl
 `runTestAws` doesn't check these.
 Use `./gradlew runTestAws` to verify your AWS credentials are working before a Bedrock run.
 
+At the start, the Bedrock programs fetch the model's current token prices from the AWS price list
+([BedrockPrices.kt](src/main/kotlin/ebuparser/BedrockPrices.kt)) and print them.
+The costs in `stats.csv` are calculated from these prices.
+
 ## Step 3: classifying accidents
 
 Prompt: [classification-prompt.txt](src/main/resources/classification-prompt.txt)
 Code: [Classifier.kt](src/main/kotlin/ebuparser/Classifier.kt), [ClassificationCsv.kt](src/main/kotlin/ebuparser/ClassificationCsv.kt)
 Input: `results/bedrock/summaries.md`
 Output: `results/classification/classifications.jsonl` and `results/classification/classifications.csv`
+
+`ClassifierKt` appends the token prices and each run's total input, output and overall cost to
+`results/classification/cost-log.txt`.
 
 Uses the Converse API of Bedrock, so only for models that Converse serves.
 One call per report to a capable model, with all sections that describe the accident:
