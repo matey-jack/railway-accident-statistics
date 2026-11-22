@@ -1,0 +1,36 @@
+
+=== Run started 2026-11-22T19:29:38 ===
+Model 'global.anthropic.claude-haiku-5-5': input $0.1, output $0.5 per 1M tokens
+Input: 0 tokens, $0.000000
+Output: 0 tokens, $0.000000
+Total: $0.000000
+
+=== Run started 2026-11-22T19:34:31 ===
+Model 'global.anthropic.claude-haiku-5-5': input $0.1, output $0.5 per 1M tokens
+
+=== Run started 2026-11-22T19:36:06 ===
+Model 'eu.anthropic.claude-haiku-5-5': input $0.1, output $0.5 per 1M tokens
+
+=== Run started 2026-11-22T19:43:14 ===
+Model 'eu.anthropic.claude-haiku-5-5': input $0.1, output $0.5 per 1M tokens
+Input: 0 tokens, $0.000000
+Output: 0 tokens, $0.000000
+Total: $0.000000
+
+=== Run started 2026-11-22T21:32:27 ===
+Model 'global.amazon.nova-2-lite-v1:0': input $0.195, output $1.635 per 1M tokens
+Input: 0 tokens, $0.000000
+Output: 0 tokens, $0.000000
+Total: $0.000000
+
+=== Run started 2026-11-22T21:34:54 ===
+Model 'global.amazon.nova-2-lite-v1:0': input $0.195, output $1.635 per 1M tokens
+Input: 4988 tokens, $0.000973
+Output: 1867 tokens, $0.003053
+Total: $0.004025
+
+=== Run started 2026-11-22T21:53:19 ===
+Model 'global.amazon.nova-2-lite-v1:0': input $0.195, output $1.635 per 1M tokens
+Input: 166153 tokens, $0.032400
+Output: 67843 tokens, $0.110923
+Total: $0.143323

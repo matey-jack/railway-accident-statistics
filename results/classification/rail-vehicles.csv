@@ -1,0 +1,62 @@
+Bericht,Ereignisart,Ort,Datum,Tote,Verletzte,Sachschaden EUR,Zugart grob,Zugart,Fahrzeugart grob,Fahrzeugart,Baureihe
+001,Kollision,Bf Bad Münder,09.09.2002,,2,10883000,Güterzug,Güterzug,Triebfahrzeug,Elektrolok,BR 140
+001,Kollision,Bf Bad Münder,09.09.2002,,2,10883000,Güterzug,Güterzug,Triebfahrzeug,Elektrolok,BR 152
+002,Entgleisung,Bf Brühl,06.02.2000,,149,25564594,Reisezug,Fernverkehr,Triebfahrzeug,Elektrolok,101
+007,Kollision,Strecke Crailsheim – Bad Mergentheim,11.06.2003,,24,700000,Reisezug,Nahverkehr,Triebfahrzeug,Dieseltriebwagen,628
+007,Kollision,Strecke Crailsheim – Bad Mergentheim,11.06.2003,,24,700000,Reisezug,Nahverkehr,Triebfahrzeug,Diesellok,218
+008,Zusammenprall,Bahnstrecke Weiden (Oberpf) – Neukirchen b.S.R.,22.06.2001,,22,3067751,Reisezug,Nahverkehr,Triebfahrzeug,Elektrotriebwagen,612
+009,Kollision,Berlin-Südkreuz,20.11.2006,,37,100000,Reisezug,S-Bahn,Triebfahrzeug,Elektrotriebwagen,481/482
+009,Kollision,Berlin-Südkreuz,20.11.2006,,37,100000,sonstige,sonstige,Nebenfahrzeug,Nebenfahrzeug oder Baumaschine,SPERRY SRS 200
+012,Entgleisung,Brannenburg - Raubling,19.12.2007,,0,903280,Güterzug,Güterzug,Triebfahrzeug,Elektrolok,1016 025-7
+012,Entgleisung,Brannenburg - Raubling,19.12.2007,,0,903280,Güterzug,Güterzug,Wagen,Güterwagen,
+015,Kollision,Berlin-Karow,16.04.2009,,13,800000,Güterzug,Güterzug,Triebfahrzeug,Elektrolok,155
+015,Kollision,Berlin-Karow,16.04.2009,,13,800000,Reisezug,Nahverkehr,Triebfahrzeug,Elektrolok,114
+023,Kollision,Hordorf,29.01.2011,,23,7000000,Reisezug,Nahverkehr,Triebfahrzeug,Elektrotriebwagen,LINT 41
+023,Kollision,Hordorf,29.01.2011,,23,7000000,Güterzug,Güterzug,Triebfahrzeug,Diesellok,Vossloh G 1700-2 BB
+032,Bahnübergangsunfall,Bad Lausick - Belgershain,20.09.2011,,22,1936600,Reisezug,Nahverkehr,Triebfahrzeug,Dieseltriebwagen,612
+034,Kollision,Schlüchtern,12.11.2007,,2,1000,Reisezug,Fernverkehr,Triebfahrzeug,Hochgeschwindigkeitszug,BR 401
+042,Kollision,Stedesand - Langenhorn,13.01.2012,,4,2000000,Reisezug,Nahverkehr,Triebfahrzeug,Dieseltriebwagen,ER 20
+042,Kollision,Stedesand - Langenhorn,13.01.2012,,4,2000000,Reisezug,Nahverkehr,Wagen,Reisezugwagen,D- NOB 55 80 80- 75007- 5
+042,Kollision,Stedesand - Langenhorn,13.01.2012,,4,2000000,Reisezug,Nahverkehr,Wagen,Reisezugwagen,D- NOB 55 80 22- 75013- 4
+047,Entgleisung,Berlin Tegel,21.08.2012,,6,1306000,Reisezug,Nahverkehr,Triebfahrzeug,Elektrotriebwagen,481
+055,Kollision,Hosena,26.07.2012,,3,7214000,Güterzug,Güterzug,Triebfahrzeug,Elektrolok,186
+055,Kollision,Hosena,26.07.2012,,3,7214000,Güterzug,Güterzug,Wagen,Güterwagen,
+055,Kollision,Hosena,26.07.2012,,3,7214000,Güterzug,Güterzug,Triebfahrzeug,Elektrolok,285
+082,Entgleisung,Forchheim (Oberfranken),11.04.2014,,2,240000,Reisezug,Nahverkehr,Triebfahrzeug,Elektrotriebwagen,442
+082,Entgleisung,Forchheim (Oberfranken),11.04.2014,,2,240000,Reisezug,Nahverkehr,Triebfahrzeug,Elektrotriebwagen,442
+089,Entgleisung,Kaub - Lorch (Rhein) Üst,09.06.2013,,0,9700000,Güterzug,Güterzug,Triebfahrzeug,Elektrolok,90-81 1216 950-6
+089,Entgleisung,Kaub - Lorch (Rhein) Üst,09.06.2013,,0,9700000,Güterzug,Güterzug,Wagen,Güterwagen,23-88 4371 080-3
+096,Einfahrt in besetzten Abschnitt,Gruiten,01.02.2017,,0,,Reisezug,Fernverkehr,Triebfahrzeug,Hochgeschwindigkeitszug,411
+114,Kollision,Bad Aibling - Kolbermoor,09.02.2016,,90,20000000,Reisezug,Nahverkehr,Triebfahrzeug,Elektrotriebwagen,ET 325
+114,Kollision,Bad Aibling - Kolbermoor,09.02.2016,,90,20000000,Reisezug,Nahverkehr,Triebfahrzeug,Elektrotriebwagen,ET 355
+116,Entgleisung,Dortmund Hbf,01.05.2017,,2,4680000,Reisezug,Fernverkehr,Triebfahrzeug,Hochgeschwindigkeitszug,402
+123,Entgleisung,Bremen Hbf,30.11.2017,,0,2450000,Güterzug,Güterzug,Triebfahrzeug,Diesellok,266
+123,Entgleisung,Bremen Hbf,30.11.2017,,0,2450000,Güterzug,Güterzug,Wagen,Güterwagen,Falns
+125,Entgleisung,Kayhauserfeld -Oldenburg Hbf,29.06.2013,,0,972000,Güterzug,Güterzug,Triebfahrzeug,Elektrolok,223
+125,Entgleisung,Kayhauserfeld -Oldenburg Hbf,29.06.2013,,0,972000,Güterzug,Güterzug,Wagen,Güterwagen,Uiks
+126,Entgleisung,Burgstall (Murr),08.08.2014,,0,683000,Güterzug,Güterzug,Triebfahrzeug,Elektrolok,185
+126,Entgleisung,Burgstall (Murr),08.08.2014,,0,683000,Güterzug,Güterzug,Wagen,Güterwagen,Hbbill 305
+179,Kollision,Willroth - Siegburg/Bonn,06.05.2015,,0,80000,Reisezug,Fernverkehr,Triebfahrzeug,Hochgeschwindigkeitszug,ICE 728
+180,Kollision,Bitburg-Erdorf - Kyllburg,01.06.2018,,0,5561000,Reisezug,Nahverkehr,Triebfahrzeug,Dieseltriebwagen,620
+181,Einfahrt in besetzten Abschnitt,Jossa - Burgsinn,18.02.2015,,0,,Reisezug,Nahverkehr,Triebfahrzeug,Elektrotriebwagen,
+181,Einfahrt in besetzten Abschnitt,Jossa - Burgsinn,18.02.2015,,0,,Güterzug,Güterzug,Wagen,Güterwagen,
+191,Entgleisung,Treben-Lehma,11.11.2015,,0,114600,Güterzug,Güterzug,Wagen,Güterwagen,
+199,Kollision,Weißenberg (Abzw) – Meerbusch-Osterath,05.12.2017,,35,21208100,Güterzug,Güterzug,Triebfahrzeug,Diesellok,BR 271
+199,Kollision,Weißenberg (Abzw) – Meerbusch-Osterath,05.12.2017,,35,21208100,Güterzug,Güterzug,Triebfahrzeug,Elektrolok,BR 189
+199,Kollision,Weißenberg (Abzw) – Meerbusch-Osterath,05.12.2017,,35,21208100,Reisezug,Nahverkehr,Triebfahrzeug,Elektrotriebwagen,BR 442
+200,Entgleisung,Frankfurt (Oder) Oderbrücke,22.03.2017,,0,180000,Güterzug,Güterzug,Triebfahrzeug,Elektrolok,Gravita 10 BB
+200,Entgleisung,Frankfurt (Oder) Oderbrücke,22.03.2017,,0,180000,Güterzug,Güterzug,Wagen,Güterwagen,Sggmrss90'
+201,Kollision,Leipzig-Engelsdorf,18.12.2019,,19,982000,Güterzug,Güterzug,Triebfahrzeug,Elektrolok,E 186
+201,Kollision,Leipzig-Engelsdorf,18.12.2019,,19,982000,Reisezug,S-Bahn,Triebfahrzeug,Elektrotriebwagen,unbekannt
+203,Störung am Fahrzeug,Blankenberg (Sieg),06.04.2017,,0,58000,Reisezug,Nahverkehr,Triebfahrzeug,Elektrotriebwagen,423
+226,Kollision,Meinersen - Leiferde (b Gifhorn),17.11.2022,,1,4000000,Güterzug,Güterzug,Triebfahrzeug,Elektrolok,186
+226,Kollision,Meinersen - Leiferde (b Gifhorn),17.11.2022,,1,4000000,Güterzug,Güterzug,Triebfahrzeug,Elektrolok,192
+231,Entgleisung,Garmisch-Partenkirchen – Farchant,03.06.2022,,78,4750000,Reisezug,Nahverkehr,Triebfahrzeug,Elektrolok,BR 111
+231,Entgleisung,Garmisch-Partenkirchen – Farchant,03.06.2022,,78,4750000,Reisezug,Nahverkehr,Wagen,Reisezugwagen,
+234,Kollision,Seelze Ost,07.09.2022,,1,5000000,Güterzug,Güterzug,Triebfahrzeug,Elektrolok,BR 192
+234,Kollision,Seelze Ost,07.09.2022,,1,5000000,Güterzug,Güterzug,Triebfahrzeug,Diesellok,BR 214
+234,Kollision,Seelze Ost,07.09.2022,,1,5000000,Güterzug,Güterzug,Wagen,Güterwagen,MFS
+237,Kollision,Dorsfeld,22.11.2024,,3,4900000,Güterzug,Güterzug,Triebfahrzeug,Elektrolok,186
+237,Kollision,Dorsfeld,22.11.2024,,3,4900000,Bauzug,Bau- oder Arbeitszug,Triebfahrzeug,Diesellok,0650
+238,Kollision,Ebenhausen-Schäftlarn,14.02.2022,,57,3300000,Reisezug,S-Bahn,Triebfahrzeug,Elektrotriebwagen,423
+238,Kollision,Ebenhausen-Schäftlarn,14.02.2022,,57,3300000,Reisezug,S-Bahn,Triebfahrzeug,Elektrotriebwagen,423

@@ -1,0 +1,36 @@
+Bericht,Ereignisart,Ort,Datum,Tote,Verletzte,Sachschaden EUR,Bauform,Stellwerkstyp
+001,Kollision,Bf Bad Münder,09.09.2002,,2,10883000,mechanisch,SpDrS 60
+002,Entgleisung,Bf Brühl,06.02.2000,,149,25564594,Relais,SpDrS 60
+007,Kollision,Strecke Crailsheim – Bad Mergentheim,11.06.2003,,24,700000,Relais,DrS 2
+007,Kollision,Strecke Crailsheim – Bad Mergentheim,11.06.2003,,24,700000,mechanisch,Einheit
+008,Zusammenprall,Bahnstrecke Weiden (Oberpf) – Neukirchen b.S.R.,22.06.2001,,22,3067751,Relais,DrS 2
+009,Kollision,Berlin-Südkreuz,20.11.2006,,37,100000,elektronisch,EI S
+012,Entgleisung,Brannenburg - Raubling,19.12.2007,,0,903280,elektronisch,ESTW Siemens
+015,Kollision,Berlin-Karow,16.04.2009,,13,800000,elektromechanisch,E 12/78
+015,Kollision,Berlin-Karow,16.04.2009,,13,800000,Relais,II
+023,Kollision,Hordorf,29.01.2011,,23,7000000,mechanisch,Einheitsstellwerk
+034,Kollision,Schlüchtern,12.11.2007,,2,1000,ferngesteuert,SpDrS 60
+047,Entgleisung,Berlin Tegel,21.08.2012,,6,1306000,Relais,SpDrS 60
+055,Kollision,Hosena,26.07.2012,,3,7214000,elektronisch,B1
+082,Entgleisung,Forchheim (Oberfranken),11.04.2014,,2,240000,Relais,SpDrS 60
+096,Einfahrt in besetzten Abschnitt,Gruiten,01.02.2017,,0,,Relais,SpDrS 59
+101,Einfahrt in besetzten Abschnitt,Pinneberg - Hamburg-Eidelstedt,23.02.2016,,0,0,Relais,SpDrS 60
+114,Kollision,Bad Aibling - Kolbermoor,09.02.2016,,90,20000000,Relais,SpDrS 60
+116,Entgleisung,Dortmund Hbf,01.05.2017,,2,4680000,Relais,SpDrS 60
+123,Entgleisung,Bremen Hbf,30.11.2017,,0,2450000,elektronisch,Siemens ESTW-ELS
+125,Entgleisung,Kayhauserfeld -Oldenburg Hbf,29.06.2013,,0,972000,Relais,SpDrL 30
+180,Kollision,Bitburg-Erdorf - Kyllburg,01.06.2018,,0,5561000,Relais,SpDrL 60
+181,Einfahrt in besetzten Abschnitt,Jossa - Burgsinn,18.02.2015,,0,,Relais,
+191,Entgleisung,Treben-Lehma,11.11.2015,,0,114600,Relais,Gs II
+199,Kollision,Weißenberg (Abzw) – Meerbusch-Osterath,05.12.2017,,35,21208100,elektromechanisch,SpDrL 60
+200,Entgleisung,Frankfurt (Oder) Oderbrücke,22.03.2017,,0,180000,elektronisch,Siemens
+201,Kollision,Leipzig-Engelsdorf,18.12.2019,,19,982000,Relais,Bruchsal (unbestimmte Bauform) und Gleisbildstellwerk der Bauform II der ehem. Deutschen Reichsbahn
+226,Kollision,Meinersen - Leiferde (b Gifhorn),17.11.2022,,1,4000000,elektronisch,Siemens SIMIS C
+231,Entgleisung,Garmisch-Partenkirchen – Farchant,03.06.2022,,78,4750000,elektronisch,SIMIS C
+231,Entgleisung,Garmisch-Partenkirchen – Farchant,03.06.2022,,78,4750000,elektronisch,SIMIS C
+231,Entgleisung,Garmisch-Partenkirchen – Farchant,03.06.2022,,78,4750000,elektronisch,SIMIS D
+234,Kollision,Seelze Ost,07.09.2022,,1,5000000,elektromechanisch,
+237,Kollision,Dorsfeld,22.11.2024,,3,4900000,elektronisch,ESTW Köln-Ehrenfeld
+238,Kollision,Ebenhausen-Schäftlarn,14.02.2022,,57,3300000,Relais,SpDrS 60
+238,Kollision,Ebenhausen-Schäftlarn,14.02.2022,,57,3300000,Relais,SpDrS 60
+238,Kollision,Ebenhausen-Schäftlarn,14.02.2022,,57,3300000,Relais,SpDrS 60
