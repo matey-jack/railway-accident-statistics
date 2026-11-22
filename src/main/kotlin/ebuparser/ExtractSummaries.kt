@@ -566,32 +566,30 @@ fun main() {
             }?.sortedBy { it.name }
             ?: emptyList()
 
-    if (System.getProperty("os.name").lowercase().contains("win")) {
-        SleepPreventer.preventSleep()
-    }
+    SleepPreventer.keepAwake {
+        var errorCount = 0
+        client.use {
+            for (file in files) {
+                try {
+                    val report = file.readText()
+                    val content = squeezeTablePadding(report)
+                    println("Starting: ${file.name}")
 
-    var errorCount = 0
-    client.use {
-        for (file in files) {
-            try {
-                val report = file.readText()
-                val content = squeezeTablePadding(report)
-                println("Starting: ${file.name}")
-
-                val result = extractor(file.name, content)
-                val cleanedSummary = result.summary.copy(summary = cleanSummary(result.summary.summary))
-                missingSectionHeadings(cleanedSummary.summary).takeIf { it.isNotEmpty() }?.let {
-                    println("WARNING: ${file.name} is missing the sections $it")
-                }
-                outputFile.appendText("\n\n---\n" + cleanedSummary.asOutput)
-                appendStats(statsFile, file.name, result.statsText)
-                println("Processed: ${file.name}")
-                assessSummary(file.name, cleanedSummary.summary, report).logLines().forEach(::println)
-            } catch (e: Exception) {
-                println("Error processing ${file.name}: ${e.message}")
-                errorCount++
-                if (errorCount == 3) {
-                    throw e
+                    val result = extractor(file.name, content)
+                    val cleanedSummary = result.summary.copy(summary = cleanSummary(result.summary.summary))
+                    missingSectionHeadings(cleanedSummary.summary).takeIf { it.isNotEmpty() }?.let {
+                        println("WARNING: ${file.name} is missing the sections $it")
+                    }
+                    outputFile.appendText("\n\n---\n" + cleanedSummary.asOutput)
+                    appendStats(statsFile, file.name, result.statsText)
+                    println("Processed: ${file.name}")
+                    assessSummary(file.name, cleanedSummary.summary, report).logLines().forEach(::println)
+                } catch (e: Exception) {
+                    println("Error processing ${file.name}: ${e.message}")
+                    errorCount++
+                    if (errorCount == 3) {
+                        throw e
+                    }
                 }
             }
         }

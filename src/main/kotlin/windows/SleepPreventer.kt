@@ -8,13 +8,15 @@ import com.sun.jna.platform.win32.WinBase
     It will only show java.exe, but at least with the full path, so you can see it's the JDK of your app.
  */
 object SleepPreventer {
-    fun preventSleep() {
-        Kernel32.INSTANCE.SetThreadExecutionState(
-            WinBase.ES_CONTINUOUS or WinBase.ES_SYSTEM_REQUIRED,
-        )
-    }
+    private val isWindows = System.getProperty("os.name").lowercase().contains("win")
 
-    fun allowSleep() {
-        Kernel32.INSTANCE.SetThreadExecutionState(WinBase.ES_CONTINUOUS)
+    fun <T> keepAwake(block: () -> T): T {
+        if (!isWindows) return block()
+        Kernel32.INSTANCE.SetThreadExecutionState(WinBase.ES_CONTINUOUS or WinBase.ES_SYSTEM_REQUIRED)
+        try {
+            return block()
+        } finally {
+            Kernel32.INSTANCE.SetThreadExecutionState(WinBase.ES_CONTINUOUS)
+        }
     }
 }

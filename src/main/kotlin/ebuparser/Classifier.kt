@@ -24,6 +24,7 @@ import software.amazon.awssdk.services.bedrockruntime.model.SystemContentBlock
 import software.amazon.awssdk.services.bedrockruntime.model.ToolConfiguration
 import software.amazon.awssdk.services.bedrockruntime.model.ToolInputSchema
 import software.amazon.awssdk.services.bedrockruntime.model.ToolSpecification
+import windows.SleepPreventer
 import java.io.File
 import java.time.Duration
 import java.util.concurrent.TimeUnit
@@ -479,17 +480,19 @@ fun main() {
     // A failed report is just skipped: it is retried on the next run, like the reports never attempted.
     var failures = 0
     var consecutiveFailures = 0
-    pending.forEach { summary ->
-        val startNs = System.nanoTime()
-        try {
-            appendClassificationRecord(classifier.classify(summary), CLASSIFICATIONS_JSONL)
-            consecutiveFailures = 0
-        } catch (e: Exception) {
-            failures++
-            consecutiveFailures++
-            val seconds = TimeUnit.NANOSECONDS.toSeconds(System.nanoTime() - startNs)
-            println("ERROR classifying ${summary.filename} after $seconds s: $e")
-            pauseAfterFailures(consecutiveFailures)
+    SleepPreventer.keepAwake {
+        pending.forEach { summary ->
+            val startNs = System.nanoTime()
+            try {
+                appendClassificationRecord(classifier.classify(summary), CLASSIFICATIONS_JSONL)
+                consecutiveFailures = 0
+            } catch (e: Exception) {
+                failures++
+                consecutiveFailures++
+                val seconds = TimeUnit.NANOSECONDS.toSeconds(System.nanoTime() - startNs)
+                println("ERROR classifying ${summary.filename} after $seconds s: $e")
+                pauseAfterFailures(consecutiveFailures)
+            }
         }
     }
     println("Classified ${pending.size - failures} reports, $failures failed.")
