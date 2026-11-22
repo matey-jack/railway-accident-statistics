@@ -17,4 +17,6 @@ Some history:
   have some spare time, it would be worth actually reading some of the summaries.)
 - Switch classification to Haiku and much more elaborate prompting. Answer categories are given and even an eval 
   mechanism that can read hand-labeled classifications.
+- Haiku 5.5 on Bedrock didn't work. Haiku 4.5 is more expensive (and probably less smart) and needs API tweaks, so I didn't try it. Sonnet 5 also didn't work. Qwen and another open-weights model are unclear about their thinking mode abilities, so I didn't try them. 
+- It works with Nova 2 Lite... but we'll see about the quality...
 

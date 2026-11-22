@@ -73,7 +73,7 @@ Output: `results/classification/classifications.jsonl` and `results/classificati
 `ClassifierKt` appends the token prices and each run's total input, output and overall cost to
 `results/classification/cost-log.txt`.
 
-Uses the Anthropic API, so only for Claude models.
+Uses the Anthropic API or the Bedrock Converse API, whichever the configured model is served by.
 One call per report to a capable model, with all sections that describe the accident:
 the summaries don't always put information in the section meant for it,
 and the step needs judgement (causal or contributing, who was responsible, fitting wording to a fixed list).
