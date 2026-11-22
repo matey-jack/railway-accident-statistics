@@ -16,9 +16,8 @@ import software.amazon.awssdk.services.bedrockruntime.model.ToolConfiguration
 import software.amazon.awssdk.services.bedrockruntime.model.ToolInputSchema
 import software.amazon.awssdk.services.bedrockruntime.model.ToolSpecification
 import java.io.File
+import kotlin.reflect.KClass
 import kotlin.reflect.KType
-import kotlin.reflect.full.findAnnotation
-import kotlin.reflect.full.primaryConstructor
 import kotlin.reflect.jvm.jvmErasure
 
 const val CLASSIFICATION_INPUT = "results/bedrock/summaries.md"
@@ -27,23 +26,11 @@ const val CLASSIFICATIONS_JSONL = "$CLASSIFICATION_DIR/classifications.jsonl"
 
 val CLASSIFICATION_MODEL = haiku55Model
 
-internal data class ClassificationFieldMeta(
-    val propertyName: String,
-    val type: KType,
-    val llmField: LlmField,
-)
-
-private val classificationPrompt = File("src/main/resources/classification-prompt.txt").readText()
-
-internal val classificationFieldMetadata: List<ClassificationFieldMeta> =
-    Classification::class.primaryConstructor!!.parameters.mapNotNull { parameter ->
-        val llmField = parameter.findAnnotation<LlmField>() ?: return@mapNotNull null
-        ClassificationFieldMeta(
-            propertyName = parameter.name!!,
-            type = parameter.type,
-            llmField = llmField,
-        )
-    }
+// The abbreviations are kept in the extraction prompt, which needs them as well.
+private val classificationPrompt =
+    File("src/main/resources/classification-prompt.txt")
+        .readText()
+        .replace("{{ABBREVIATIONS}}", markdownSection(summarizationPrompt, "# Abkürzungen in den Berichten"))
 
 private const val TOOL_NAME = "classify"
 internal const val REASONING_PROPERTY = "reasoning"
@@ -54,57 +41,58 @@ private val classificationInputSections =
 
 private val jsonMapper = jacksonObjectMapper()
 
-private fun buildFieldSchema(field: ClassificationFieldMeta): Map<String, Any> =
-    buildMap {
-        put("title", field.llmField.name)
-        put("description", field.llmField.description)
+// The section from its heading up to the next heading of the same or a higher level.
+internal fun markdownSection(
+    text: String,
+    heading: String,
+): String {
+    val lines = text.lines()
+    val start = lines.indexOfFirst { it.trim() == heading }
+    require(start >= 0) { "No heading '$heading'." }
+    val level = heading.takeWhile { it == '#' }.length
+    val end =
+        (start + 1 until lines.size).firstOrNull { index ->
+            val hashes = lines[index].takeWhile { it == '#' }.length
+            hashes in 1..level && lines[index].getOrNull(hashes) == ' '
+        } ?: lines.size
+    return lines.subList(start, end).joinToString("\n").trim()
+}
 
-        when (field.type.jvmErasure) {
-            Boolean::class -> {
-                put("type", "string")
-                put("enum", listOf("ja", "nein"))
-            }
+// Strict tool use needs every property required and no additional ones,
+// so "not known" is a value of its own: `unbekannt` in the lists and null for numbers.
+internal fun objectSchema(
+    kClass: KClass<*>,
+    extraProperties: Map<String, Map<String, Any>> = emptyMap(),
+): Map<String, Any> {
+    val properties = extraProperties + llmFields(kClass).associate { it.propertyName to fieldSchema(it) }
+    return mapOf(
+        "type" to "object",
+        "properties" to properties,
+        "required" to properties.keys.toList(),
+        "additionalProperties" to false,
+    )
+}
 
-            Int::class -> {
-                put("type", "integer")
-            }
+private fun fieldSchema(field: LlmFieldMeta): Map<String, Any> =
+    typeSchema(field.type) + ("description" to "${field.llmField.name}: ${field.llmField.description}")
 
-            List::class -> {
-                put("type", "array")
-                put("items", mapOf("type" to "string"))
-            }
-
-            else -> {
-                put("type", "string")
-                val enumConstants = field.type.jvmErasure.java.enumConstants
-                if (enumConstants != null) {
-                    put("enum", enumConstants.map { (it as Enum<*>).name })
-                }
-            }
-        }
+private fun typeSchema(type: KType): Map<String, Any> {
+    val kClass = type.jvmErasure
+    return when {
+        kClass == Int::class -> mapOf("type" to listOf("integer", "null"))
+        kClass == Double::class -> mapOf("type" to listOf("number", "null"))
+        kClass == String::class -> mapOf("type" to "string")
+        kClass == List::class -> mapOf("type" to "array", "items" to typeSchema(type.arguments.single().type!!))
+        isLabeledEnum(kClass) -> mapOf("type" to "string", "enum" to labeledEntries(kClass).map { it.label })
+        else -> objectSchema(kClass)
     }
+}
 
-private fun buildToolSchemaProperties(): Map<String, Map<String, Any>> =
-    buildMap {
-        put(
-            REASONING_PROPERTY,
-            mapOf(
-                "type" to "string",
-                "description" to "Kurze Begründung der Kategorisierung.",
-            ),
-        )
-        classificationFieldMetadata.forEach { field ->
-            put(field.propertyName, buildFieldSchema(field))
-        }
-    }
-
-private fun buildRequiredProperties(): List<String> =
-    buildList {
-        add(REASONING_PROPERTY)
-        classificationFieldMetadata
-            .filter { it.llmField.required }
-            .forEach { add(it.propertyName) }
-    }
+internal val classificationSchema: Map<String, Any> =
+    objectSchema(
+        Classification::class,
+        mapOf(REASONING_PROPERTY to mapOf("type" to "string", "description" to "Kurze Begründung der Einordnung.")),
+    )
 
 private fun parseSummarySection(rawSection: String): Summary? {
     val lines = normalizeSectionHeadings(rawSection).lines()
@@ -200,16 +188,9 @@ class Classifier(
             .name(TOOL_NAME)
             .description("Unfallkategorisierung")
             .inputSchema(
-                ToolInputSchema.fromJson(
-                    toDocument(
-                        mapOf(
-                            "type" to "object",
-                            "properties" to buildToolSchemaProperties(),
-                            "required" to buildRequiredProperties(),
-                        ),
-                    ),
-                ),
-            ).build()
+                ToolInputSchema.fromJson(toDocument(classificationSchema)),
+            ).strict(true)
+            .build()
 
     // No forced tool choice: with a forced tool call, Claude skips thinking. The prompt asks for the tool instead.
     private val toolConfig =

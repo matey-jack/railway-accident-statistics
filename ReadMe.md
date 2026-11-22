@@ -60,17 +60,39 @@ Input: `results/bedrock/summaries.md`
 Output: `results/classification/classifications.jsonl` and `results/classification/classifications.csv`
 
 Uses the Converse API of Bedrock, so only for models that Converse serves.
-The classification categories are the annotated fields of `Classification` in `model.kt`;
-they become both the tool schema for the LLM and the CSV columns.
+One call per report to a capable model, with all sections that describe the accident:
+the summaries don't always put information in the section meant for it,
+and the step needs judgement (causal or contributing, who was responsible, fitting wording to a fixed list).
+
+The classification categories are the annotated fields of `Classification` in
+[Classification.kt](src/main/kotlin/ebuparser/Classification.kt);
+they become the strict tool schema for the LLM and the CSV columns.
+Everything that is to be aggregated has a closed list of values, with `unbekannt` wherever the summary may not say,
+with a free-text field next to it where detail matters (signal box type, vehicle series).
 
 `ClassifierKt` appends the model's answer for each report to `classifications.jsonl`
 and skips reports that are already in it, so an interrupted run can just be restarted.
 To reclassify, move the file away.
-`ClassificationCsvKt` then turns the answers into the CSV, without calling the LLM,
-so changes to the parsing or the columns don't need a new paid run.
-Event type, location and date come from the summary's title; list fields are joined with "; ".
+`ClassificationCsvKt` then turns the answers into CSV files, without calling the LLM,
+so changes to the parsing or the columns don't need a new paid run:
+- `classifications.csv`: one row per report.
+  Yes/no fields are `1`/`0`, so that `SUM` and `AVERAGE` work in pivot tables; unknown is empty.
+  The cause columns grade the factors (nein / beitragend / ursächlich) by actor and category.
+  Property damage is converted to EUR.
+  `Prüfhinweise` lists invalid answers and inconsistencies, e.g. a road vehicle for an accident away from a level crossing;
+  an invalid value is left empty rather than replaced by a default.
+- `factors.csv`, `signal-boxes.csv`, `rail-vehicles.csv`: one row per factor, signal box or vehicle,
+  with a few columns of the report, for pivot tables by vehicle or signal box type.
 
-Ideas for better classification results: [classification-improvements.md](classification-improvements.md).
+The code normalises the spellings of signal box types and vehicle series (e.g. "Sp Dr S 60" → "SpDrS 60",
+"612 123-4" → "BR 612").
+Event type, location, line number and kilometre come from the EBU list in `EBU-lists/`,
+found by the date in the summary's title; without a unique match, event type and location come from the title.
+
+To measure the accuracy, label some reports by hand in `classification-labels.csv`:
+a column `Bericht` and any columns of `classifications.csv` with the expected values; empty cells are not compared.
+`EvaluateClassificationsKt` prints the accuracy per column and the mismatches.
+Once the results are good enough on the test reports, classify all reports, not only `testReports`.
 
 ## Damages and causes: extracting sections from the summaries
 
@@ -98,7 +120,8 @@ All prompts and domain text are in German. Key abbreviations:
 - BÜ = Bahnübergang (level crossing)
 - Bf = Bahnhof (station)
 
-Our cheap workhorse model on Bedrock might not know those abbreviations, maybe they need to go into its prompts.
+The models might not know these abbreviations, so the extraction prompt has a list of them,
+which the classifier inserts into its own prompt.
 
 
 ## Notes on the data

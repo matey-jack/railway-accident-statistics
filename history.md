@@ -15,7 +15,6 @@ Some history:
 - Finally recreated "summaries.md" with this better prompt (and also a cheaper LLM). 
   (Apparently this was also the first full summarization run since introducing Datalab Markdown files. So yeah, when I 
   have some spare time, it would be worth actually reading some of the summaries.)
+- Switch classification to Haiku and much more elaborate prompting. Answer categories are given and even an eval 
+  mechanism that can read hand-labeled classifications.
 
-todo:
- - the classification hasn't run since introducing Datalab and the new summaries. So that alone will be a big boost; 
-   anyway it should be THE boost, because I didn't plan any other improvement to the summarization code.
