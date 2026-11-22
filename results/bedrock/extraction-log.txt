@@ -201,3 +201,912 @@ Starting: 238.md
 Processed: 238.md
 Assessment 238.md: 22/22 sentences verbatim (100%)
 Summary written to results\bedrock\summaries.md
+
+=== Run started 2026-11-22T08:58:06 ===
+Default charset: UTF-8
+file.encoding: UTF-8
+stdout.encoding: UTF-8
+Encoding test: äöüß
+Lemonade is not running. Using AWS profile 'llm-user'.
+SLF4J(W): No SLF4J providers were found.
+SLF4J(W): Defaulting to no-operation (NOP) logger implementation
+SLF4J(W): See https://www.slf4j.org/codes.html#noProviders for further details.
+Using Bedrock model 'google.gemma-4-31b' via the MANTLE API with service tier 'flex' in region 'eu-central-1'.
+Skipping 36 already processed files.
+Summary written to results\bedrock\summaries.md
+
+=== Run started 2026-11-22T08:59:45 ===
+Default charset: UTF-8
+file.encoding: UTF-8
+stdout.encoding: UTF-8
+Encoding test: äöüß
+Lemonade is not running. Using AWS profile 'llm-user'.
+SLF4J(W): No SLF4J providers were found.
+SLF4J(W): Defaulting to no-operation (NOP) logger implementation
+SLF4J(W): See https://www.slf4j.org/codes.html#noProviders for further details.
+Using Bedrock model 'google.gemma-4-31b' via the MANTLE API with service tier 'flex' in region 'eu-central-1'.
+Skipping 36 already processed files.
+Starting: 003.md
+Processed: 003.md
+Assessment 003.md: 13/14 sentences verbatim (92%)
+  not verbatim: Durch die Wucht des Aufpralls entgleiste die Lok und die ersten beiden Reisezugwagen, die zusätzlich seitlich stark beschädigt wurden.
+Starting: 004.md
+Processed: 004.md
+Assessment 004.md: 16/17 sentences verbatim (94%)
+  not verbatim: Auslösende Ursache für den Zusammenstoß war zweifelsfrei die unerlaubte Weiterfahrt der S-Bahn 5711 nach erfolgter Zwangsbremsung durch die PZB am Hp 0 „Halt“ zeigenden Ausfahrsignal 37P1.
+Starting: 005.md
+Processed: 005.md
+Assessment 005.md: 24/24 sentences verbatim (100%)
+  keine Angabe im Bericht: [Bauart der beteiligten Stellwerke]
+Starting: 006.md
+Processed: 006.md
+Assessment 006.md: 22/24 sentences verbatim (91%)
+  not verbatim: Der Triebfahrzeugführer leitete die Bremsung des Zuges mittels Druckluftbremse ein.
+  not verbatim: An seinem vorgesehenen Zielsignal, dem Ls 112 ||, fuhr der Zug noch mit ca. 75 km/h vorbei.
+  keine Angabe im Bericht: [Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle]
+Starting: 010.md
+Processed: 010.md
+Assessment 010.md: 25/27 sentences verbatim (92%)
+  not verbatim: Darauf hin entgleisen insgesamt 11 Wagen des Zuges 51245 und gerieten zum Teil in Schräglage.
+  not verbatim: Zug 51245: Tfz 189 053 - 2
+Starting: 011.md
+Processed: 011.md
+Assessment 011.md: 15/15 sentences verbatim (100%)
+  keine Angabe im Bericht: [Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle, bereits umgesetzte Maßnahmen]
+Starting: 013.md
+Processed: 013.md
+Assessment 013.md: 22/22 sentences verbatim (100%)
+  keine Angabe im Bericht: [Bauart der beteiligten Stellwerke, Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle]
+Starting: 014.md
+Processed: 014.md
+Assessment 014.md: 24/26 sentences verbatim (92%)
+  not verbatim: Etwa um 21:04:45* Uhr in km 251,622 wurde bei einer Geschwindigkeit von ca. 205 km/h die Schnellbremsung durch den Tf wirksam.
+  not verbatim: Landrücken Nord Bauart: MCL 84-N (1988).
+  keine Angabe im Bericht: [bereits umgesetzte Maßnahmen]
+Starting: 016.md
+Processed: 016.md
+Assessment 016.md: 16/19 sentences verbatim (84%)
+  not verbatim: Der Tf erhält keinen systemseitig generierten Hinweis oder Warnung über eine möglicherweise nicht oder nicht vollständig gelöste Zusatzbremse.
+  not verbatim: Der Ansaugschacht der Klimaanlage ist so angebracht, dass die hierdurch entstandenen Rauchgase durch die Klimaanlage in die Wagen gesogen und gelangten auf diesem Wege in die Fahrgasträume.
+  not verbatim: Der Zug fuhr mit dem Doppelstocksteuerwagen DBpbzfa 765.5 – Fzg-Nr. 50 80 86-75090-0 - voraus.
+Starting: 017.md
+Processed: 017.md
+Assessment 017.md: 14/15 sentences verbatim (93%)
+  not verbatim: Der Güterzug FIR 51629 entgleiste auf der Fahrt von Nürnberg-Stein-Abzweigstelle Hohe Marter in km 4,1 der Strecke 5951 Nürnberg Rbf – Nürnberg-Stein.
+  keine Angabe im Bericht: [Bauart der beteiligten Stellwerke]
+Starting: 018.md
+Processed: 018.md
+Assessment 018.md: 26/26 sentences verbatim (100%)
+  keine Angabe im Bericht: [Bauart der beteiligten Stellwerke]
+Starting: 019.md
+Processed: 019.md
+Assessment 019.md: 16/16 sentences verbatim (100%)
+  keine Angabe im Bericht: [Bauart der beteiligten Stellwerke]
+Starting: 020.md
+Fixing heading: # Höhe des Schadens, Anzahl Tote und Verlette
+Processed: 020.md
+Assessment 020.md: 14/15 sentences verbatim (93%)
+  not verbatim: Durch die DB Netz AG, wurde durch den Bereich Produktionsdurchführung (PD) Duisburg als Konsequenz aus den Prozessmängeln beim Umgang mit der Signalstörung veranlasst, dass durch das Arbeitsgebiet Bet
+  keine Angabe im Bericht: [Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle]
+Starting: 021.md
+Processed: 021.md
+Assessment 021.md: 20/20 sentences verbatim (100%)
+  keine Angabe im Bericht: [Bauart der beteiligten Stellwerke, Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle]
+Starting: 022.md
+Processed: 022.md
+Assessment 022.md: 25/26 sentences verbatim (96%)
+  not verbatim: Aus konstruktionsbedingten Gründen von Stopfmashinen sind Stopf-Richtarbeiten in Weichen nur mit einer Weichenstopfmashine (WSM), nicht aber mit einer Gleisstopfmachine (GSM) möglich.
+  keine Angabe im Bericht: [Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle, bereits umgesetzte Maßnahmen]
+Starting: 024.md
+Processed: 024.md
+Assessment 024.md: 22/24 sentences verbatim (91%)
+  not verbatim: Das Tfz 811 wurde im Gleis 5 bis zum Sh 0 (Halt!
+  not verbatim: Der Zug war gebildet aus zwei Triebfahrzeugen der BR 140 und 26 Güterwagen.
+Starting: 025.md
+Processed: 025.md
+Assessment 025.md: 13/14 sentences verbatim (92%)
+  not verbatim: Das Tfz der BR 214 020-0 (BBL 3) ist nach folgenden Fristen gemäß Fristenplan zu warten bzw. instand zu setzen.
+  keine Angabe im Bericht: [Bauart der beteiligten Stellwerke, Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle, bereits umgesetzte Maßnahmen]
+Starting: 026.md
+Processed: 026.md
+Assessment 026.md: 23/23 sentences verbatim (100%)
+  keine Angabe im Bericht: [Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle]
+Starting: 027.md
+Processed: 027.md
+Assessment 027.md: 22/23 sentences verbatim (95%)
+  not verbatim: Von den 10 abgestellten Triebwagen entgleisen die ersten drei Einheiten.
+  keine Angabe im Bericht: [Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle]
+Starting: 028.md
+Processed: 028.md
+Assessment 028.md: 17/17 sentences verbatim (100%)
+  keine Angabe im Bericht: [Bauart der beteiligten Stellwerke, bereits umgesetzte Maßnahmen]
+Starting: 029.md
+Fixing heading: # Sicherheitsempfehlungen zur Verhidung zukünftiger Unfälle
+WARNING: 029.md is missing the sections [Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle]
+Processed: 029.md
+Assessment 029.md: 14/15 sentences verbatim (93%)
+  not verbatim: Bei dem Stellwerk (Stw) „Bf“ des Bf Bacharach handelt es sich um ein Stellwerk der Bauart DrS2.
+  keine Angabe im Bericht: [bereits umgesetzte Maßnahmen]
+Starting: 030.md
+Processed: 030.md
+Assessment 030.md: 19/19 sentences verbatim (100%)
+  keine Angabe im Bericht: [Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle, bereits umgesetzte Maßnahmen]
+Starting: 031.md
+Processed: 031.md
+Assessment 031.md: 12/12 sentences verbatim (100%)
+  keine Angabe im Bericht: [Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle]
+Starting: 033.md
+Processed: 033.md
+Assessment 033.md: 20/21 sentences verbatim (95%)
+  not verbatim: Die Rangierabteilung kam im Bereich des Grenzzeichens der Kreuzung I zum Stehen.
+  keine Angabe im Bericht: [Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle, bereits umgesetzte Maßnahmen]
+Starting: 035.md
+Processed: 035.md
+Assessment 035.md: 15/15 sentences verbatim (100%)
+  keine Angabe im Bericht: [Bauart der beteiligten Stellwerke, bereits umgesetzte Maßnahmen]
+Starting: 036.md
+Processed: 036.md
+Assessment 036.md: 13/16 sentences verbatim (81%)
+  not verbatim: Der vordere Zugteil mit den an 1. bis 16. Stelle laufenden Wagen kommt nach der zugtrennungsbedingten Zwangsbremsung in km 237,824 zum Stillstand.
+  not verbatim: Es handelt sich um ein Gleisbildstellwerk der Stellwerksbauform „Spurplan Dr L 60 mit LZB CIR ELKE**“ und Teilblock innerhalb des Bahnhofs Müllheim (Baden).
+  not verbatim: Containertragwagen Sgns 3385 4556 820-0.
+  keine Angabe im Bericht: [Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle]
+Starting: 037.md
+Processed: 037.md
+Assessment 037.md: 26/28 sentences verbatim (92%)
+  not verbatim: Der ICE 105 (Amsterdam – Basel SBB), bestehend aus zwei Triebzügen (Tz) der Baureihe 406 und 403.
+  not verbatim: ICE 612 (München - Dortmund).
+Starting: 038.md
+Processed: 038.md
+Assessment 038.md: 16/17 sentences verbatim (94%)
+  not verbatim: Ausgelöst wurde die Ereigniskette durch eine betriebli-che Fehlhandlung des Fdl B 2.
+  keine Angabe im Bericht: [bereits umgesetzte Maßnahmen]
+Starting: 039.md
+Processed: 039.md
+Assessment 039.md: 15/15 sentences verbatim (100%)
+  keine Angabe im Bericht: [Bauart der beteiligten Stellwerke]
+Starting: 040.md
+Processed: 040.md
+Assessment 040.md: 19/19 sentences verbatim (100%)
+  keine Angabe im Bericht: [Bauart der beteiligten Stellwerke]
+Starting: 041.md
+Processed: 041.md
+Assessment 041.md: 20/20 sentences verbatim (100%)
+Starting: 043.md
+Processed: 043.md
+Assessment 043.md: 16/17 sentences verbatim (94%)
+  not verbatim: Hierbei wurde der Unterbau des Gleises im Bereich der Schlammstelle auf ca. 24 m Länge ausgetauscht und eine geneigte Planumsschutz-schicht (PSS) aus KG 1 mit einer Tiefenentwässerung (TE) eingebaut.
+  keine Angabe im Bericht: [Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle]
+Starting: 044.md
+Processed: 044.md
+Assessment 044.md: 21/23 sentences verbatim (91%)
+  not verbatim: føhrendes Triebfahrzeug 421 388 [Güterzug]
+  not verbatim: führendes Triebfahrzeug 111 090 [Regionalexpress]
+  keine Angabe im Bericht: [Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle, bereits umgesetzte Maßnahmen]
+Starting: 045.md
+Processed: 045.md
+Assessment 045.md: 33/33 sentences verbatim (100%)
+Starting: 046.md
+Processed: 046.md
+Assessment 046.md: 16/19 sentences verbatim (84%)
+  not verbatim: (evtl. durch Abweichungen in den Formtoleranzen $\rightarrow$ z.
+  not verbatim: Rauhe Oberfläche der Radreifenbohrung und/oder des Felgenkranzes $\rightarrow$ zu großer Durchmesser z.
+  not verbatim: Thermische Belastung des Radreifens durch Bremsen $\rightarrow$ Wärmeableitung ist nicht gewährleistet $\rightarrow$ Vergrößerung der Durchwölbung und dadurch des Luftspaltes am Radreifen
+  keine Angabe im Bericht: [Bauart der beteiligten Stellwerke, Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle]
+Starting: 048.md
+Processed: 048.md
+Assessment 048.md: 16/16 sentences verbatim (100%)
+  keine Angabe im Bericht: [Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle]
+Starting: 049.md
+Processed: 049.md
+Assessment 049.md: 33/33 sentences verbatim (100%)
+  keine Angabe im Bericht: [Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle]
+Starting: 050.md
+Processed: 050.md
+Assessment 050.md: 16/16 sentences verbatim (100%)
+  keine Angabe im Bericht: [Bauart der beteiligten Stellwerke, Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle]
+Starting: 051.md
+Processed: 051.md
+Assessment 051.md: 16/17 sentences verbatim (94%)
+  not verbatim: Dadurch entgleisen die beiden Tfz des Zuges.
+  keine Angabe im Bericht: [Bauart der beteiligten Stellwerke, bereits umgesetzte Maßnahmen]
+Starting: 052.md
+Processed: 052.md
+Assessment 052.md: 22/22 sentences verbatim (100%)
+  keine Angabe im Bericht: [Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle, bereits umgesetzte Maßnahmen]
+Starting: 053.md
+Processed: 053.md
+Assessment 053.md: 17/17 sentences verbatim (100%)
+Starting: 054.md
+Processed: 054.md
+Assessment 054.md: 24/24 sentences verbatim (100%)
+  keine Angabe im Bericht: [bereits umgesetzte Maßnahmen]
+Starting: 056.md
+Processed: 056.md
+Assessment 056.md: 18/23 sentences verbatim (78%)
+  not verbatim: Der öZF führte in diesem Falle keine Fahrstraßenauflösung durch, weil ihm die Ursache für den blinkenden FÜM (besetzter Gleisabschnitt) bekannt war.
+  not verbatim: Durch das Befahren der Weiche während dem Umstellvorgangs fuhr das Triebfahrzeug (Fz-Nr. 101 010- 7) und zwei nachfahrende Reisezugwagen (Fz- Nr.
+  not verbatim: Das Triebfahrzeug (Fz-Nr. 101 010- 7) [baureihe 101].
+  not verbatim: Drei nachfahrende Reisezugwagen (Fz- Nr.
+  not verbatim: CD 73 54 10- 91 011- 2 und CD 73 54 88- 91 010- 1 sowie Fz- Nr.
+  keine Angabe im Bericht: [Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle]
+Starting: 057.md
+Processed: 057.md
+Assessment 057.md: 20/20 sentences verbatim (100%)
+Starting: 058.md
+Processed: 058.md
+Assessment 058.md: 27/27 sentences verbatim (100%)
+  keine Angabe im Bericht: [Bauart der beteiligten Stellwerke, Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle]
+Starting: 059.md
+Processed: 059.md
+Assessment 059.md: 17/18 sentences verbatim (94%)
+  not verbatim: Nachdem das Sbk 11175 nach einer Standzeit des Zuges von etwa 40 Sekunden in die Fahrtstellung (Wechsel von Hp 0 in Ks 2) wechselte, setzte der Tf die Fahrt fort und beschleunigte den Zug bis auf etwa
+  keine Angabe im Bericht: [Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle, bereits umgesetzte Maßnahmen]
+Starting: 060.md
+Processed: 060.md
+Assessment 060.md: 15/15 sentences verbatim (100%)
+  keine Angabe im Bericht: [Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle, bereits umgesetzte Maßnahmen]
+Starting: 061.md
+Processed: 061.md
+Assessment 061.md: 22/23 sentences verbatim (95%)
+  not verbatim: Im Zuge der Umbauten wurden in diesem Abschnitt die HOA/FBOA in km 7,0 km (Fahrtrichtung Emmerich), 10,2 (Fahrtrichtung Oberhausen) und km 53,612 (beide Fahrtrichtungen) in Betrieb genommen.
+  keine Angabe im Bericht: [Bauart der beteiligten Stellwerke]
+Starting: 062.md
+Processed: 062.md
+Assessment 062.md: 13/14 sentences verbatim (92%)
+  not verbatim: Der Fdl erteilte daraufhin die Ausfahrt auf Ersatzsignal Zs1.
+Starting: 063.md
+Processed: 063.md
+Assessment 063.md: 17/18 sentences verbatim (94%)
+  not verbatim: Ein auf die Wachstumsperioden abgestimmter Vegetationsrückschnitt ist zu überprüfen und gegebenenfalls zwischen dem EIU und der für den Straßenverkehr zuständigen Stelle abzustimmen.
+  keine Angabe im Bericht: [Bauart der beteiligten Stellwerke]
+Starting: 064.md
+Processed: 064.md
+Assessment 064.md: 16/16 sentences verbatim (100%)
+  keine Angabe im Bericht: [Bauart der beteiligten Stellwerke]
+Starting: 065.md
+Processed: 065.md
+Assessment 065.md: 25/27 sentences verbatim (92%)
+  not verbatim: Triebfahrzeug 1116 074-6.
+  not verbatim: Der führende Steuerwagen 738080-91 300-2 des EC 216.
+  keine Angabe im Bericht: [bereits umgesetzte Maßnahmen]
+Starting: 066.md
+Fixing heading: # Höhe des Schadens, Anzahl Tote und Verletjekte
+WARNING: 066.md is missing the sections [Höhe des Schadens, Anzahl Tote und Verletzte]
+Processed: 066.md
+Assessment 066.md: 20/21 sentences verbatim (95%)
+  not verbatim: In diesem Zusammenhang kann man davon ausgehen, dass das verwendete Schmiermittel versagte.
+  keine Angabe im Bericht: [Bauart der beteiligten Stellwerke, bereits umgesetzte Maßnahmen]
+Starting: 067.md
+Processed: 067.md
+Assessment 067.md: 15/16 sentences verbatim (93%)
+  not verbatim: Nach Überprüfung der Weiche festgestellt, dass die Gleitstühle der Weiche unzureichend geschmiert waren.
+  keine Angabe im Bericht: [Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle]
+Starting: 068.md
+Processed: 068.md
+Assessment 068.md: 16/16 sentences verbatim (100%)
+  keine Angabe im Bericht: [bereits umgesetzte Maßnahmen]
+Starting: 069.md
+Processed: 069.md
+Assessment 069.md: 19/20 sentences verbatim (95%)
+  not verbatim: Möglicherweise beeinflusste das Bestreben, die Fahrstraße für den kreuzenden Personenzug zur Einhaltung des Fahrplanes frühzeitig einzustellen, die gedankliche Arbeitsreihenfolge der Fdl'in so, dass s
+  keine Angabe im Bericht: [Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle]
+Starting: 070.md
+Processed: 070.md
+Assessment 070.md: 18/18 sentences verbatim (100%)
+  keine Angabe im Bericht: [Bauart der beteiligten Stellwerke, Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle]
+Starting: 071.md
+Processed: 071.md
+Assessment 071.md: 14/14 sentences verbatim (100%)
+  keine Angabe im Bericht: [Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle]
+Starting: 072.md
+Processed: 072.md
+Assessment 072.md: 28/28 sentences verbatim (100%)
+  keine Angabe im Bericht: [Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle]
+Starting: 073.md
+Processed: 073.md
+Assessment 073.md: 28/28 sentences verbatim (100%)
+  keine Angabe im Bericht: [Bauart der beteiligten Stellwerke]
+Starting: 074.md
+Processed: 074.md
+Assessment 074.md: 18/18 sentences verbatim (100%)
+  keine Angabe im Bericht: [Bauart der beteiligten Stellwerke]
+Starting: 075.md
+Processed: 075.md
+Assessment 075.md: 17/17 sentences verbatim (100%)
+  keine Angabe im Bericht: [Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle]
+Starting: 076.md
+Processed: 076.md
+Assessment 076.md: 13/13 sentences verbatim (100%)
+  keine Angabe im Bericht: [Bauart der beteiligten Stellwerke, Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle, bereits umgesetzte Maßnahmen]
+Starting: 077.md
+Processed: 077.md
+Assessment 077.md: 17/17 sentences verbatim (100%)
+  keine Angabe im Bericht: [Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle]
+Starting: 078.md
+Processed: 078.md
+Assessment 078.md: 25/25 sentences verbatim (100%)
+  keine Angabe im Bericht: [Bauart der beteiligten Stellwerke, Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle, bereits umgesetzte Maßnahmen]
+Starting: 079.md
+Processed: 079.md
+Assessment 079.md: 11/11 sentences verbatim (100%)
+  keine Angabe im Bericht: [Bauart der beteiligten Stellwerke, Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle, bereits umgesetzte Maßnahmen]
+Starting: 080.md
+Processed: 080.md
+Assessment 080.md: 23/23 sentences verbatim (100%)
+  keine Angabe im Bericht: [Bauart der beteiligten Stellwerke, Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle]
+Starting: 081.md
+Processed: 081.md
+Assessment 081.md: 22/22 sentences verbatim (100%)
+  keine Angabe im Bericht: [Bauart der beteiligten Stellwerke]
+Starting: 083.md
+Processed: 083.md
+Assessment 083.md: 18/19 sentences verbatim (94%)
+  not verbatim: Der entgleiste Wagen wurde insgesamt etwa 2,6 km neben dem Gleis herangezogen, wobei er Gleisschwellen, Schienenbefestigungen, zwei Weichen, und zwei Weichenantriebe beschädigte, sowie drei Schienenbr
+  keine Angabe im Bericht: [Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle]
+Starting: 084.md
+Processed: 084.md
+Assessment 084.md: 20/20 sentences verbatim (100%)
+  keine Angabe im Bericht: [Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle]
+Starting: 085.md
+Processed: 085.md
+Assessment 085.md: 20/21 sentences verbatim (95%)
+  not verbatim: Zum Zeitpunkt der Übernahme der beiden Schadtriebfahrzeuge war dem Triebfahrzeugführer wahrscheinlich nicht bekannt, dass diese beiden Triebfahrzeuge keine funktionierenden Bremsen mehr haben.
+  keine Angabe im Bericht: [Bauart der beteiligten Stellwerke, Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle]
+Starting: 086.md
+Processed: 086.md
+Assessment 086.md: 20/20 sentences verbatim (100%)
+  keine Angabe im Bericht: [Bauart der beteiligten Stellwerke, Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle]
+Starting: 087.md
+Processed: 087.md
+Assessment 087.md: 19/19 sentences verbatim (100%)
+  keine Angabe im Bericht: [Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle]
+Starting: 088.md
+Processed: 088.md
+Assessment 088.md: 10/11 sentences verbatim (90%)
+  not verbatim: Ein von rechts kommender Pkw, besetzt nur mit dem Fahrer, beachtete die roten Blinklichter nicht und prallte auf dem BÜ mit DPN 87085 zusammen.
+  keine Angabe im Bericht: [Bauart der beteiligten Stellwerke]
+Starting: 090.md
+Processed: 090.md
+Assessment 090.md: 10/15 sentences verbatim (66%)
+  not verbatim: Unmittelbar vor Zulassung der Zugfahrt bewegt sich die geschobene Rabt vom Gleis 25 am Lichtsperrsignal Ls 25II in Richtung Weiche 78.
+  not verbatim: Während des Zurücksetzens der Rabt nach Gleis 26 kollidiert RB 13765 auf der Weiche 78 in km 19,834 mit dem Facs124 Wagen.
+  not verbatim: Der Triebfahrzeugführer [des RB 13765] sei unter der Brücke Industriestraße hindurchgefahren als er einen Güterwagen eines Bauzuges in seinem Fahrweg erkannte.
+  not verbatim: Der Facs124 - Wagen der Rangierabteilung stand bei der signalmäßig durchgeführten Einfahrt des RB 13765 nach Gleis 1 nicht grenzenzeichenfrei auf der Weiche 78.
+  not verbatim: Facs124 - Wagen 31 80 6941 190-4.
+  keine Angabe im Bericht: [Bauart der beteiligten Stellwerke, Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle, bereits umgesetzte Maßnahmen]
+Starting: 091.md
+Processed: 091.md
+Assessment 091.md: 24/26 sentences verbatim (92%)
+  not verbatim: Als Reaktion leitete er eine Schnellbremsung ein und kam zufällig unmittelbar unter dem herhängenden Geäst zum Stehen.
+  not verbatim: Hierdurch kam es über das Geäst zum Kontakt zwischen der spannungsführenden Oberleitung und dem Wagenkastendach.
+  keine Angabe im Bericht: [Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle, bereits umgesetzte Maßnahmen]
+Starting: 092.md
+Processed: 092.md
+Assessment 092.md: 12/13 sentences verbatim (92%)
+  not verbatim: Es ist davon auszugehen, dass der Pkw – Fahrer das Rotlicht missachtete und die geschlossene Halbschranke aus Richtung B41 umfuhr.
+  keine Angabe im Bericht: [Bauart der beteiligten Stellwerke, Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle, bereits umgesetzte Maßnahmen]
+Starting: 093.md
+Processed: 093.md
+Assessment 093.md: 22/23 sentences verbatim (95%)
+  not verbatim: Die grundlegenden Vorbedingungen für das Zulassen der Zugfahrten DPN 82971 und DPN 82975 hatte der Fdl nicht erfüllt.
+  keine Angabe im Bericht: [Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle]
+Starting: 094.md
+Processed: 094.md
+Assessment 094.md: 16/16 sentences verbatim (100%)
+  keine Angabe im Bericht: [Bauart der beteiligten Stellwerke]
+Starting: 095.md
+Processed: 095.md
+Assessment 095.md: 18/18 sentences verbatim (100%)
+  keine Angabe im Bericht: [Baureihe der beteiligten Schienenfahrzeuge, Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle]
+Starting: 097.md
+Processed: 097.md
+Assessment 097.md: 23/23 sentences verbatim (100%)
+  keine Angabe im Bericht: [Baureihe der beteiligten Schienenfahrzeuge, Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle]
+Starting: 098.md
+Processed: 098.md
+Assessment 098.md: 19/20 sentences verbatim (95%)
+  not verbatim: Der Weichenwärter gab dem Fahrdienstleiter die Zustimmung z4 zur Einfahrt in das Gleis 4, obwohl das Gleis 4 in seinem Fahrwegprüfbezirk noch besetzt war.
+  keine Angabe im Bericht: [Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle]
+Starting: 099.md
+Processed: 099.md
+Assessment 099.md: 19/19 sentences verbatim (100%)
+  keine Angabe im Bericht: [Bauart der beteiligten Stellwerke, Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle]
+Starting: 100.md
+Processed: 100.md
+Assessment 100.md: 15/15 sentences verbatim (100%)
+  keine Angabe im Bericht: [Bauart der beteiligten Stellwerke, Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle]
+Starting: 102.md
+Processed: 102.md
+Assessment 102.md: 25/25 sentences verbatim (100%)
+Starting: 103.md
+Processed: 103.md
+Assessment 103.md: 17/17 sentences verbatim (100%)
+  keine Angabe im Bericht: [Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle, bereits umgesetzte Maßnahmen]
+Starting: 104.md
+Processed: 104.md
+Assessment 104.md: 18/20 sentences verbatim (90%)
+  not verbatim: Denn obwohl der Schmiermittelaustritt dokumentiert war (siehe hierzu Kapitel 4.8.3, Abbildungen 14 und 15), wurden keine Maßnahmen ergriffen.
+  not verbatim: Es handelte sich dabei um einen mit zwei dreiachsigen Drehgestellen ausgerüsteten Wagen der Wagengattung Samms Fzgnr. 31 80 4865 548-0 des Fahrzeughalters DB Schenker Rail AG.
+  keine Angabe im Bericht: [bereits umgesetzte Maßnahmen]
+Starting: 105.md
+Processed: 105.md
+Assessment 105.md: 17/17 sentences verbatim (100%)
+  keine Angabe im Bericht: [bereits umgesetzte Maßnahmen]
+Starting: 106.md
+Processed: 106.md
+Assessment 106.md: 18/18 sentences verbatim (100%)
+  keine Angabe im Bericht: [Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle]
+Starting: 107.md
+Processed: 107.md
+Assessment 107.md: 19/21 sentences verbatim (90%)
+  not verbatim: Das Ende der Baumaschine wurde vom RE-D 69552 beim Durchfahren des Weichenbereiches hinter dem Ausfahrsignal N803 erfasst.
+  not verbatim: Es war eine Wärterhaltscheibe in der Weiche 816 und nicht 10 m vor dem Grenzzeichen der Weiche 816 aufgestellt.
+  keine Angabe im Bericht: [Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle]
+Starting: 108.md
+Processed: 108.md
+Assessment 108.md: 20/20 sentences verbatim (100%)
+  keine Angabe im Bericht: [Bauart der beteiligten Stellwerke]
+Starting: 109.md
+Processed: 109.md
+Assessment 109.md: 22/24 sentences verbatim (91%)
+  not verbatim: Die thermische Belastung während einer Betriebsbremsung begünstigte jedoch das Lösen, da die Wärme nicht mehr ausreichend in den Radkörper abgeleitet werden konnte.
+  not verbatim: An Wagen mit bereiften Rädern, bei denen thermische Überlastungen des Radreifens oder nicht vollständig vorhandenen Kontrollmarken bzw. nicht eindeutig erkennbare Kontrollmarken festgestellt werden, s
+Starting: 110.md
+Processed: 110.md
+Assessment 110.md: 20/20 sentences verbatim (100%)
+  keine Angabe im Bericht: [Bauart der beteiligten Stellwerke, Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle]
+Starting: 111.md
+Processed: 111.md
+Assessment 111.md: 20/22 sentences verbatim (90%)
+  not verbatim: Der Fdl des mechanischen Stellwerks Cf stellte hierfür die Einfahrzugstraße nach Gleis 28 ein und das Einfahrsignal (Esig) B auf Fahrt.
+  not verbatim: Zu Beginn seines Dienstes (Schicht 20:15 Uhr bis 05:30 Uhr) habe der Tf beide Tfz der BR 261 in Doppeltraktion aufgerüstet, um diese als Zuglokomotiven für den EK 53681 zu verwenden.
+Starting: 112.md
+Processed: 112.md
+Assessment 112.md: 19/20 sentences verbatim (95%)
+  not verbatim: Wagenbauart: Laaers; Autotransportwagen mit 4 Einzelachsen
+  keine Angabe im Bericht: [Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle]
+Starting: 113.md
+Processed: 113.md
+Assessment 113.md: 18/19 sentences verbatim (94%)
+  not verbatim: Die Baureihe ist BR 648.4.
+  keine Angabe im Bericht: [Bauart der beteiligten Stellwerke, Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle]
+Starting: 115.md
+Processed: 115.md
+Assessment 115.md: 22/22 sentences verbatim (100%)
+Starting: 117.md
+Processed: 117.md
+Assessment 117.md: 19/21 sentences verbatim (90%)
+  not verbatim: Aufgrund der verminderten Vorspannung war es in der Folge möglich, dass sich die Schrauben der Druckkappe vollständig aus den Schraubenlöchern des Wellenkopfes lösen konnten.
+  not verbatim: Triebwagen VT 251 (Fahrzeugregisternummer 95 80 0648151-8).
+  keine Angabe im Bericht: [Bauart der beteiligten Stellwerke, Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle]
+Starting: 118.md
+Processed: 118.md
+Assessment 118.md: 18/20 sentences verbatim (90%)
+  not verbatim: So merkte er [der Rb] nicht, dass die Wagen 16 und 17 weder mittels Schraubenkupplung, noch über die HL miteinander verbunden waren.
+  not verbatim: Da er [der Tf des nachschiebenden Tfz] dies offensichtlich nicht tat, bemerkte er auch nicht, dass die Bremsen seines Tfz, wegen der getrennten HL, auf die Bremssteuerung vom führenden Tfz nicht reagi
+  keine Angabe im Bericht: [Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle]
+Starting: 119.md
+Processed: 119.md
+Assessment 119.md: 23/23 sentences verbatim (100%)
+  keine Angabe im Bericht: [Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle]
+Starting: 120.md
+Processed: 120.md
+Assessment 120.md: 27/28 sentences verbatim (96%)
+  not verbatim: Während der Ausfahrt um 16:12 Uhr aus Köln Hbf, entgleiste der Wagen 403 710-7 (Stromrichterwagen 2. Klasse) bei einer Geschwindigkeit von ca. 19 km/h und einer zurückgelegten Fahrstrecke von 206 Mete
+Starting: 121.md
+Processed: 121.md
+Assessment 121.md: 18/19 sentences verbatim (94%)
+  not verbatim: Er habe völlig übersehen, dass der Fahrweg ins Stumpfgleis an den Prellblock führt.
+  keine Angabe im Bericht: [Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle]
+Starting: 122.md
+Processed: 122.md
+Assessment 122.md: 15/16 sentences verbatim (93%)
+  not verbatim: Der an der Spitze der Rangierfahrt befindliche Rangierbegleiter (Rb) hat nach einem Fahrtrichtungswechsel das für die Rangierfahrt maßgebliche und haltzeigende Lichtsperrsignal (Ls) 660¹ von seiner Po
+  keine Angabe im Bericht: [Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle]
+Starting: 124.md
+Processed: 124.md
+Assessment 124.md: 20/20 sentences verbatim (100%)
+  keine Angabe im Bericht: [bereits umgesetzte Maßnahmen]
+Starting: 127.md
+Processed: 127.md
+Assessment 127.md: 19/19 sentences verbatim (100%)
+  keine Angabe im Bericht: [Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle]
+Starting: 128.md
+Processed: 128.md
+Assessment 128.md: 12/13 sentences verbatim (92%)
+  not verbatim: Im Anschluss wurde durch die Fdl-in dem Zug 4550 über Zugfunk / Global System for Mobile Communications (GSM-R) ein Befehl zur Vorbeifahrt am Halt zeigenden Esig A 328 und zur Vorbeifahrt am Halt zeig
+  keine Angabe im Bericht: [Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle]
+Starting: 129.md
+Processed: 129.md
+Assessment 129.md: 17/19 sentences verbatim (89%)
+  not verbatim: EZ 45023: Doppeltraktion BR 185
+  not verbatim: EZ 44663: Kesselwagen 33 80 7932 080-4
+  keine Angabe im Bericht: [Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle]
+Starting: 130.md
+Processed: 130.md
+Assessment 130.md: 23/24 sentences verbatim (95%)
+  not verbatim: Re485 012 des entgleisten Güterzuges.
+  keine Angabe im Bericht: [Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle]
+Starting: 131.md
+Processed: 131.md
+Assessment 131.md: 13/14 sentences verbatim (92%)
+  not verbatim: Infolgedessen entgleisen die drei letzten Wagen.
+  keine Angabe im Bericht: [Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle, bereits umgesetzte Maßnahmen]
+Starting: 132.md
+Processed: 132.md
+Assessment 132.md: 19/19 sentences verbatim (100%)
+  keine Angabe im Bericht: [Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle]
+Starting: 133.md
+Processed: 133.md
+Assessment 133.md: 35/36 sentences verbatim (97%)
+  not verbatim: Abweichend von den Zugstangen mit Ø 18 mm waren die Gewinde der Zugstangen mit Ø 24 mm nicht zeichnungsgerecht gewalzt, sondern geschnitten.
+Starting: 134.md
+Processed: 134.md
+Assessment 134.md: 12/12 sentences verbatim (100%)
+  keine Angabe im Bericht: [Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle, bereits umgesetzte Maßnahmen]
+Starting: 135.md
+Processed: 135.md
+Assessment 135.md: 20/21 sentences verbatim (95%)
+  not verbatim: Der letzte Wagen des Zuges mit der Wagennummer 2580 4367 415-3 kollidierte nach einer Fahrtstrecke von ca. 235 Meter und einer Fahrzeit von 1 Minute und 5 Sekunden mit dem im Stumpfgleis 179 stehenden
+Starting: 136.md
+Processed: 136.md
+Assessment 136.md: 20/20 sentences verbatim (100%)
+Starting: 137.md
+Processed: 137.md
+Assessment 137.md: 12/15 sentences verbatim (80%)
+  not verbatim: Um ca. 13:22 Uhr erteilte der zuständige Fdl des Stw Af seine Zustimmung zur Fahrt für Zug DLr 92365 mit Fahrtstellung, Sh1, des Formsperrsignals Hs191 und Fahrtstellung, Hp2, des Gruppenausfahrsignal
+  not verbatim: Trotz des haltzeigenden Formsperrsignals Hs171 beschleunigte er den Zug auf ca. 40 km/h.
+  not verbatim: Zug RE D-5106 hatte jedoch bereits soweit beschleunigt, dass dieser trotz Zwangsbremsung am Hs171 nicht mehr rechtzeitig zum Halten kam und mit dem zweiten Wagen des DLr 92365 auf der Weiche 17 seitli
+  keine Angabe im Bericht: [bereits umgesetzte Maßnahmen]
+Starting: 138.md
+Processed: 138.md
+Assessment 138.md: 20/21 sentences verbatim (95%)
+  not verbatim: Baureihe 650 (Regio Shuttle)
+Starting: 139.md
+Processed: 139.md
+Assessment 139.md: 19/19 sentences verbatim (100%)
+Starting: 140.md
+Processed: 140.md
+Assessment 140.md: 18/18 sentences verbatim (100%)
+  keine Angabe im Bericht: [Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle]
+Starting: 141.md
+Processed: 141.md
+Assessment 141.md: 17/17 sentences verbatim (100%)
+  keine Angabe im Bericht: [Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle]
+Starting: 142.md
+Processed: 142.md
+Assessment 142.md: 16/19 sentences verbatim (84%)
+  not verbatim: Die Fdl-in ließ zunächst den GS 60762 aus Richtung Herne-Rottbruch in das Gleis 4 ost einfahren, wo dieser um ca. 17:05 Uhr, ca. 10 m vor dem Zielsignal Ls 4oII, zum Halten kam.
+  not verbatim: Der letzte Wagen des GS 60762 stand beim Einstellen der Ausfahrgangstraße für den Zug DPN-G 89399 nicht grenzzeichenfrei in dieser Weiche, sodass er in den Gefahrenraum des eingestellten Fahrweges rag
+  not verbatim: Aus diesem Grunde hätte diese Zugfahrt, mit der bestellten Zuglänge, nicht planmäßig stattfinden dürfen.
+Starting: 143.md
+Processed: 143.md
+Assessment 143.md: 17/17 sentences verbatim (100%)
+  keine Angabe im Bericht: [Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle]
+Starting: 144.md
+Processed: 144.md
+Assessment 144.md: 23/23 sentences verbatim (100%)
+  keine Angabe im Bericht: [Bauart der beteiligten Stellwerke]
+Starting: 145.md
+Processed: 145.md
+Assessment 145.md: 18/18 sentences verbatim (100%)
+  keine Angabe im Bericht: [Bauart der beteiligten Stellwerke]
+Starting: 146.md
+Processed: 146.md
+Assessment 146.md: 17/17 sentences verbatim (100%)
+  keine Angabe im Bericht: [Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle]
+Starting: 147.md
+Processed: 147.md
+Assessment 147.md: 18/18 sentences verbatim (100%)
+  keine Angabe im Bericht: [Bauart der beteiligten Stellwerke]
+Starting: 148.md
+Processed: 148.md
+Assessment 148.md: 23/23 sentences verbatim (100%)
+  keine Angabe im Bericht: [Bauart der beteiligten Stellwerke]
+Starting: 149.md
+Processed: 149.md
+Assessment 149.md: 19/19 sentences verbatim (100%)
+Starting: 150.md
+Processed: 150.md
+Assessment 150.md: 21/22 sentences verbatim (95%)
+  not verbatim: Ursächlich für das Ereignis waren mehrere Arbeitsfehler des Triebfahrzeugführer (Tf) beim Versuch, eine Störmeldung „unerlaubte Zugtrennung“ abzuarbeiten.
+  keine Angabe im Bericht: [Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle]
+Starting: 151.md
+Processed: 151.md
+Assessment 151.md: 27/28 sentences verbatim (96%)
+  not verbatim: Der Fdl entschied sich, den Zug 85890 mit Ersatzsignal ausfahren zu lassen.
+Starting: 152.md
+Processed: 152.md
+Assessment 152.md: 23/23 sentences verbatim (100%)
+Starting: 153.md
+Processed: 153.md
+Assessment 153.md: 19/19 sentences verbatim (100%)
+Starting: 154.md
+Processed: 154.md
+Assessment 154.md: 14/14 sentences verbatim (100%)
+  keine Angabe im Bericht: [Bauart der beteiligten Stellwerke]
+Starting: 155.md
+Processed: 155.md
+Assessment 155.md: 21/21 sentences verbatim (100%)
+Starting: 156.md
+Processed: 156.md
+Assessment 156.md: 14/14 sentences verbatim (100%)
+  keine Angabe im Bericht: [Bauart der beteiligten Stellwerke]
+Starting: 157.md
+Processed: 157.md
+Assessment 157.md: 18/18 sentences verbatim (100%)
+  keine Angabe im Bericht: [Bauart der beteiligten Stellwerke]
+Starting: 158.md
+Processed: 158.md
+Assessment 158.md: 12/12 sentences verbatim (100%)
+  keine Angabe im Bericht: [Bauart der beteiligten Stellwerke]
+Starting: 159.md
+Processed: 159.md
+Assessment 159.md: 16/20 sentences verbatim (80%)
+  not verbatim: Gesamtschadenshöhe 2.000.000
+  not verbatim: Maßgebend für die Entgleisung war die Entlastung des Radsatzes bedingt durch den Bruch der Tragfeder und die daraus resultierende Verminderung der Radaufstandskraft Q .
+  not verbatim: Die Abnutzungen des Schienenkopfes auf der Bogenaußenseite sowie der höhere Reibungskoeffizient der trockenen Schiene führten ereignisbegünstigend zu einer Vergrößerung der Führungskraft Y .
+  not verbatim: Es handelte es sich um Wagen der Gattung Hccrrs 5.833M.
+  keine Angabe im Bericht: [Bauart der beteiligten Stellwerke]
+Starting: 160.md
+Processed: 160.md
+Assessment 160.md: 17/17 sentences verbatim (100%)
+Starting: 161.md
+Processed: 161.md
+Assessment 161.md: 15/15 sentences verbatim (100%)
+Starting: 162.md
+Processed: 162.md
+Assessment 162.md: 18/19 sentences verbatim (94%)
+  not verbatim: Obwohl mit GSM-R ein speziell auf die Belange der Eisenbahnen zugeschnittenes digitales Mobilfunknetz existierte, wurden Gespräche im Vorfeld des Ereignisses über das öffentliche Mobilfunknetz durchge
+  keine Angabe im Bericht: [Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle]
+Starting: 163.md
+Processed: 163.md
+Assessment 163.md: 24/24 sentences verbatim (100%)
+Starting: 164.md
+Processed: 164.md
+Assessment 164.md: 22/22 sentences verbatim (100%)
+Starting: 165.md
+Processed: 165.md
+Assessment 165.md: 17/18 sentences verbatim (94%)
+  not verbatim: Die Ursache für die Zugkollision lag in einer Mure, die sich aufgrund eines Starkregenereignis nach zuvor lange anhaltender Trockenheit im Gelände über den Gleisanlagen gebildet hatte.
+Starting: 166.md
+Processed: 166.md
+Assessment 166.md: 26/26 sentences verbatim (100%)
+Starting: 167.md
+Processed: 167.md
+Assessment 167.md: 24/24 sentences verbatim (100%)
+Starting: 168.md
+Processed: 168.md
+Assessment 168.md: 19/19 sentences verbatim (100%)
+Starting: 169.md
+Processed: 169.md
+Assessment 169.md: 14/14 sentences verbatim (100%)
+  keine Angabe im Bericht: [Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle]
+Starting: 170.md
+Processed: 170.md
+Assessment 170.md: 21/21 sentences verbatim (100%)
+  keine Angabe im Bericht: [Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle]
+Starting: 171.md
+Processed: 171.md
+Assessment 171.md: 18/18 sentences verbatim (100%)
+Starting: 172.md
+Processed: 172.md
+Assessment 172.md: 25/25 sentences verbatim (100%)
+Starting: 173.md
+Processed: 173.md
+Assessment 173.md: 25/25 sentences verbatim (100%)
+  keine Angabe im Bericht: [Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle]
+Starting: 174.md
+Processed: 174.md
+Assessment 174.md: 19/22 sentences verbatim (86%)
+  not verbatim: Dabei entgleisen beide Kla auf der stumpf befahrenen Weiche 884.
+  not verbatim: Typ Schweres Nebenfahrzeug Nr. 53 531 5, Gleiskraftwagen.
+  not verbatim: Typ Gleiskraftwagenanhänger Kla 03 Nummer: 03 0812 5 und 03 0725 5.
+Starting: 175.md
+Processed: 175.md
+Assessment 175.md: 16/16 sentences verbatim (100%)
+Starting: 176.md
+Processed: 176.md
+Assessment 176.md: 23/23 sentences verbatim (100%)
+Starting: 177.md
+Processed: 177.md
+Assessment 177.md: 11/12 sentences verbatim (91%)
+  not verbatim: Tf hält den Zug wegen auffälliger Geräusche an.
+  keine Angabe im Bericht: [Bauart der beteiligten Stellwerke]
+Starting: 178.md
+Fixing heading: # Höhe des Schadens, Anzahl Tote und Verlette
+Processed: 178.md
+Assessment 178.md: 15/15 sentences verbatim (100%)
+  keine Angabe im Bericht: [Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle]
+Starting: 182.md
+Processed: 182.md
+Assessment 182.md: 23/23 sentences verbatim (100%)
+  keine Angabe im Bericht: [Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle]
+Starting: 183.md
+Fixing heading: # Höhe des Schadens, Anzahl Tote und Verlette
+Processed: 183.md
+Assessment 183.md: 32/32 sentences verbatim (100%)
+Starting: 184.md
+Processed: 184.md
+Assessment 184.md: 20/20 sentences verbatim (100%)
+Starting: 185.md
+Processed: 185.md
+Assessment 185.md: 20/20 sentences verbatim (100%)
+  keine Angabe im Bericht: [Bauart der beteiligten Stellwerke]
+Starting: 186.md
+Processed: 186.md
+Assessment 186.md: 12/12 sentences verbatim (100%)
+Starting: 187.md
+Processed: 187.md
+Assessment 187.md: 26/26 sentences verbatim (100%)
+Starting: 188.md
+Processed: 188.md
+Assessment 188.md: 22/22 sentences verbatim (100%)
+  keine Angabe im Bericht: [Baureihe der beteiligten Schienenfahrzeuge]
+Starting: 189.md
+Processed: 189.md
+Assessment 189.md: 21/22 sentences verbatim (95%)
+  not verbatim: Ebenfalls nachteilig wirkte sich aus, dass durch die nach DB-Regelwerk nicht vorgesehene Gleisgeometrie und weitere ungünstige Veränderungen der Gleislage durch regelmäßige betriebliche Beanspruchunge
+Starting: 190.md
+Processed: 190.md
+Assessment 190.md: 20/20 sentences verbatim (100%)
+  keine Angabe im Bericht: [Bauart der beteiligten Stellwerke]
+Starting: 192.md
+Processed: 192.md
+Assessment 192.md: 16/17 sentences verbatim (94%)
+  not verbatim: Am 02.04.2019 gegen 19:26 Uhr entgleiste die Zugfahrt RB 18479 des Eisenbahnverkehrsunternehmens DB Regio AG bei der Einfahrt in den Bahnhof (Bf) Birkenwerder (b.
+  keine Angabe im Bericht: [Baureihe der beteiligten Schienenfahrzeuge]
+Starting: 193.md
+Processed: 193.md
+Assessment 193.md: 12/13 sentences verbatim (92%)
+  not verbatim: Die ursprüngliche Ursache für die Zugentgleisung war die nicht erfolgte Festlegung der Fahrstraße a2.
+Starting: 194.md
+Processed: 194.md
+Assessment 194.md: 27/27 sentences verbatim (100%)
+Starting: 195.md
+Processed: 195.md
+Assessment 195.md: 15/15 sentences verbatim (100%)
+  keine Angabe im Bericht: [Baureihe der beteiligten Schienenfahrzeuge]
+Starting: 197.md
+Processed: 197.md
+Assessment 197.md: 19/19 sentences verbatim (100%)
+  keine Angabe im Bericht: [Baureihe der beteiligten Schienenfahrzeuge]
+Starting: 198.md
+Processed: 198.md
+Assessment 198.md: 15/15 sentences verbatim (100%)
+  keine Angabe im Bericht: [Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle, bereits umgesetzte Maßnahmen]
+Starting: 202.md
+Processed: 202.md
+Assessment 202.md: 24/24 sentences verbatim (100%)
+  keine Angabe im Bericht: [Bauart der beteiligten Stellwerke]
+Starting: 204.md
+Processed: 204.md
+Assessment 204.md: 17/17 sentences verbatim (100%)
+  keine Angabe im Bericht: [Baureihe der beteiligten Schienenfahrzeuge]
+Starting: 205.md
+Processed: 205.md
+Assessment 205.md: 23/23 sentences verbatim (100%)
+Starting: 206.md
+Processed: 206.md
+Assessment 206.md: 26/26 sentences verbatim (100%)
+Starting: 207.md
+Processed: 207.md
+Assessment 207.md: 19/19 sentences verbatim (100%)
+Starting: 208.md
+Processed: 208.md
+Assessment 208.md: 18/18 sentences verbatim (100%)
+  keine Angabe im Bericht: [Bauart der beteiligten Stellwerke]
+Starting: 209.md
+Processed: 209.md
+Assessment 209.md: 19/19 sentences verbatim (100%)
+Starting: 210.md
+Processed: 210.md
+Assessment 210.md: 18/18 sentences verbatim (100%)
+  keine Angabe im Bericht: [Bauart der beteiligten Stellwerke]
+Starting: 211.md
+Processed: 211.md
+Assessment 211.md: 22/24 sentences verbatim (91%)
+  not verbatim: Die Stellwerke Orw und Stellwerk 1 waren mit elektromechanischer Technik der Bauform S&H 1912 ausgerüstet.
+  not verbatim: Die volle Bremsprobe wurde unter Zuhilfenahme eines Rangier-Tfz der Baureihe (BR) 294 durchgeführt.
+Starting: 212.md
+Processed: 212.md
+Assessment 212.md: 20/21 sentences verbatim (95%)
+  not verbatim: Sachschäden in Höhe von ca. 3.130.000 €.
+Starting: 213.md
+Processed: 213.md
+Assessment 213.md: 24/24 sentences verbatim (100%)
+Starting: 214.md
+Processed: 214.md
+Assessment 214.md: 14/14 sentences verbatim (100%)
+Starting: 215.md
+Processed: 215.md
+Assessment 215.md: 27/28 sentences verbatim (96%)
+  not verbatim: Der Fahrdienstleiter (Fdl) Dieburg stellte schließlich die Grundstellung für den noch durch DGS 42174 unerkannt belegten Blockabschnitt her.
+Starting: 216.md
+Processed: 216.md
+Assessment 216.md: 20/20 sentences verbatim (100%)
+  keine Angabe im Bericht: [Sicherheitsempfehlungen zur Verhinderung zukünftiger Unfälle]
+Starting: 217.md
+Processed: 217.md
+Assessment 217.md: 22/24 sentences verbatim (91%)
+  not verbatim: Der Zug RB 5523 verließ den Bf Ehrwald Zugspitzbahn in Richtung Griesen (Oberbay) und kam gegen 16:40 Uhr vor dem Halt zeigenden Esig F des Bf Griesen (Oberbay) zum Halten.
+  not verbatim: Eine Rücknahme der alten Zugmeldung sowie eine erneute Zugmeldung für den Zug RB 5522 erfolgten hierbei nicht.
+Starting: 218.md
+Processed: 218.md
+Assessment 218.md: 17/18 sentences verbatim (94%)
+  not verbatim: In Gleis 11 erhielt der GS 60711 aufgrund der restriktiven Überwachung der PZB eine Zwangsbremsung infolge der 500 Hz-Beeinflussung, resultierend aus der angehängten Überwachungskurve der PZB in der e
+Starting: 219.md
+Processed: 219.md
+Assessment 219.md: 21/23 sentences verbatim (91%)
+  not verbatim: Ohne eine Zustimmung zur Fahrt erhalten zu haben, setzte er die Rangierfahrt in Bewegung in Richtung des Ls 363 R.
+  not verbatim: Infolgedessen entgleisen das T fz des Güterzuges EZK 53810 sowie beide T fz der Rangierfahrt.
+Starting: 220.md
+Processed: 220.md
+Assessment 220.md: 21/21 sentences verbatim (100%)
+Starting: 221.md
+Processed: 221.md
+Assessment 221.md: 15/16 sentences verbatim (93%)
+  not verbatim: Im Ausfahrbereich dieses Bf öffnete sich die vordere Entladeklappe auf der in Fahrtrichtung rechten Seite selbsttätig und kollidierte mit dem Mast des Einfahrsignals (Esig) B in km 39,620.
+Starting: 222.md
+Processed: 222.md
+Assessment 222.md: 28/31 sentences verbatim (90%)
+  not verbatim: Erste Anzeichen der Entgleisung wurden auf der Strecke 2400 in km 67,54 des Bf Wengern Ost im durchgehenden Hauptgleis 102 direkt vor dem Ausfahrsignal (Asig) N 102 festgestellt.
+  not verbatim: Der entgleiste Autotransportwagen war Teil einer Flotte von 173 vierachsigen Autotransportwagen des Eigentümers und Halters DB Cargo Logistics GmbH.
+  not verbatim: Autotransportwagen der Wagengattung Laaeffrs 561 bestehen aus einem A- und einem B-Wagen, die mittels einer Kurzkupplung miteinander verbunden sind.
+Starting: 223.md
+Processed: 223.md
+Assessment 223.md: 30/30 sentences verbatim (100%)
+Starting: 224.md
+Processed: 224.md
+Assessment 224.md: 17/22 sentences verbatim (77%)
+  not verbatim: Das unmittelbar seitlich unterhalb der Spitze der Rf stehende Halt gebietende Ls 231II war aus der gewohnten Arbeitsposition des Tf nicht einsehbar, da es durch die Fahrzeugaufbauten verdeckt war.
+  not verbatim: Die Kollision ist darauf zurückzuführen, dass der Triebfahrzeugführer (Tf) der Rf das für ihn gültige „Halt“ signalisierende Lichtsperrsignal (Ls) 231II nicht wahrgenommen hatte.
+  not verbatim: Da er die darauffolgenden Ls, die für die Fahrstraße des Güterzuges DGS 48959 die Signalstellung Sh 1 – „Fahrverbot aufgehoben“ signalisierten, für sich gültig interpretierte, missachtete er in der Fo
+  not verbatim: Für die Kollision ursächlich war die Vorbeifahrt der Rf am weiterhin „Halt“ signalisierenden Ls 231II nach der erfolgten Wende in Gleis 231.
+  not verbatim: Es ist davon auszugehen, dass die Position des Fz in Bezug auf die Gleislänge und die begrenzenden Ls eine direkte Einsehbarkeit des Ls 231II vom Arbeitsplatz des Tf aus verhinderten.
+Starting: 225.md
+Processed: 225.md
+Assessment 225.md: 16/16 sentences verbatim (100%)
+Starting: 227.md
+Processed: 227.md
+Assessment 227.md: 20/20 sentences verbatim (100%)
+Starting: 228.md
+Processed: 228.md
+Assessment 228.md: 9/9 sentences verbatim (100%)
+Starting: 229.md
+Processed: 229.md
+Assessment 229.md: 18/19 sentences verbatim (94%)
+  not verbatim: Der DbZ 24259 bestand aus drei Dieseltriebzügen der Baureihe (BR) 648.
+Starting: 230.md
+Processed: 230.md
+Assessment 230.md: 16/16 sentences verbatim (100%)
+Starting: 232.md
+Processed: 232.md
+Assessment 232.md: 23/24 sentences verbatim (95%)
+  not verbatim: Das bedeutet, dass die bis zur Entwicklung der neuen Ril 816 vorhandenen Altanlagen nach Auffassung des EIU ohne bauliche Veränderungen auch über den Ereignistag hinweg weiter betrieben durften.
+Starting: 233.md
+Processed: 233.md
+Assessment 233.md: 22/22 sentences verbatim (100%)
+  keine Angabe im Bericht: [Bauart der beteiligten Stellwerke]
+Starting: 235.md
+Processed: 235.md
+Assessment 235.md: 20/21 sentences verbatim (95%)
+  not verbatim: Der Umstand dieser kombinierten Einzelfehler im Entgleisungsbereich der Weiche W62 wird als weiterer ursächlicher Faktor [F2] bewertet.
+Starting: 236.md
+Processed: 236.md
+Assessment 236.md: 14/16 sentences verbatim (87%)
+  not verbatim: Mit hoher Wahrscheinlichkeit wurde unterlassen den Absperrhahn der Hauptluftbehälterleitung (HBL) am Tfz zu öffnen.
+  not verbatim: Der Wagenpark bestand aus den zwei überführten Elektro-Tz des Typs „Coradia Stream“ in der Ausführung InterCity Nieuwe Generatie (ICNG).
+Starting: 239.md
+Processed: 239.md
+Assessment 239.md: 25/27 sentences verbatim (92%)
+  not verbatim: Durch die Schnellbremsung konnte die Kollision mit der auf dem Ablaufberg A stehenden Rangierlok A2 jedoch nicht mehr verhindert werden.
+  not verbatim: Bei der am Ereignis beteiligten Rangierlok A2 handelte es sich um ein Tfz der BR 296 mit einer Masse von 80 t.
+Starting: 240.md
+Processed: 240.md
+Assessment 240.md: 13/13 sentences verbatim (100%)
+Starting: 241.md
+Processed: 241.md
+Assessment 241.md: 17/17 sentences verbatim (100%)
+Summary written to results\bedrock\summaries.md
