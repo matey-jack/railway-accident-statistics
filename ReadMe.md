@@ -9,8 +9,8 @@ And the data from step 3 is tabular, so it can be aggregated, grouped, etc.
 
 Pipeline in order:
 1. PDF → Markdown – done via datalab.io – I only had a subscription there for one month, so this step won't be repeated.
-2. Summarization (`ExtractSummaries.kt`) — reads `documents/*.md`, writes `results/<provider>/summaries.md`
-3. Classification (`Classifier.kt`) — reads `results/bedrock/summaries.md`, writes `results/bedrock/classifications.csv`
+2. Summarization (`ExtractSummaries.kt`) — reads `documents/*.md`, writes `results/<model>/summaries.md`
+3. Classification (`Classifier.kt`) — reads `results/<model>/summaries.md` of the summarization model, writes `results/classification/classifications.csv`
 
 Both LLM steps only process the reports listed in `testReports` (`model.kt`),
 so prompt changes can be evaluated on a varied sample before paying for a full run.
@@ -30,9 +30,11 @@ The pipeline doesn't read them.
 
 Prompt: [extraction-prompt.txt](src/main/resources/extraction-prompt.txt)
 Code: [ExtractSummaries.kt](src/main/kotlin/ebuparser/ExtractSummaries.kt)
-Resulting file: `results/<provider>/summaries.md` and `results/<provider>/stats.csv`
+Resulting file: `results/<model>/summaries.md` and `results/<model>/stats.csv`.
+Each model has its own directory, so that a run with another model can be compared with the earlier ones.
+`results/bedrock/` holds the files of runs from before that.
 
-The console output is also appended to `results/<provider>/extraction-log.txt`.
+The console output is also appended to `results/<model>/extraction-log.txt`.
 After each report it contains an automatic assessment of the summary,
 to help with reviewing a run: the sentences that aren't verbatim from the report,
 the sections with "keine Angabe im Bericht", and a warning when the model got stuck repeating table padding.
@@ -42,7 +44,8 @@ To compare runs, `ScoreSummariesKt` writes the same assessment for existing summ
 and `CompareSummariesKt` compares two or more summary files pairwise, including the sentences only one run has,
 and writes `comparison.md` next to the first file.
 
-Uses a local Lemonade Server if one is running, otherwise AWS Bedrock. It should work with any other LLM provider.
+Uses a local Lemonade Server if one is running, otherwise the configured model on AWS Bedrock or the Anthropic API.
+It should work with any other LLM provider.
 Reports already in `summaries.md` are skipped, so an interrupted run can just be restarted.
 
 Setting up all the permissions for Bedrock is a bit of work in the AWS console.
@@ -52,21 +55,25 @@ Models on the bedrock-mantle endpoint (Gemma 4) additionally need `bedrock-mantl
 `runTestAws` doesn't check these.
 Use `./gradlew runTestAws` to verify your AWS credentials are working before a Bedrock run.
 
-At the start, the Bedrock programs fetch the model's current token prices from the AWS price list
+At the start, the programs fetch a Bedrock model's current token prices from the AWS price list
 ([BedrockPrices.kt](src/main/kotlin/ebuparser/BedrockPrices.kt)) and print them.
+Anthropic has no such price list, so the prices of its models are copied into
+[LlmModels.kt](src/main/kotlin/ebuparser/LlmModels.kt) and need updating when Anthropic changes them.
 The costs in `stats.csv` are calculated from these prices.
+
+The Anthropic API needs an API key from https://platform.claude.com in the environment variable `ANTHROPIC_API_KEY`.
 
 ## Step 3: classifying accidents
 
 Prompt: [classification-prompt.txt](src/main/resources/classification-prompt.txt)
 Code: [Classifier.kt](src/main/kotlin/ebuparser/Classifier.kt), [ClassificationCsv.kt](src/main/kotlin/ebuparser/ClassificationCsv.kt)
-Input: `results/bedrock/summaries.md`
+Input: `results/<model>/summaries.md` of the summarization model
 Output: `results/classification/classifications.jsonl` and `results/classification/classifications.csv`
 
 `ClassifierKt` appends the token prices and each run's total input, output and overall cost to
 `results/classification/cost-log.txt`.
 
-Uses the Converse API of Bedrock, so only for models that Converse serves.
+Uses the Anthropic API, so only for Claude models.
 One call per report to a capable model, with all sections that describe the accident:
 the summaries don't always put information in the section meant for it,
 and the step needs judgement (causal or contributing, who was responsible, fitting wording to a fixed list).
@@ -107,7 +114,7 @@ Not part of the pipeline; the classification step reads `summaries.md` directly.
 
 Code: [ExtractDamagesAndCauses.kt](src/main/kotlin/ebuparser/ExtractDamagesAndCauses.kt)
 
-Reads `results/bedrock/summaries-Nova-2-Lite.md`, extracts specific sections by heading keyword matching (German):
+Reads `results/<model>/summaries.md` of the summarization model, extracts specific sections by heading keyword matching (German):
  - Damages sections: headings containing "schaden", "tote", and "verletzte"
  - Causes sections: headings containing "ursachen" and "unfall"
 
@@ -166,8 +173,8 @@ Es hängt wohl auch mit den Personalkapazitäten der Behörde zusammen.
 **DeduplicateSummaries.kt**: Removes duplicate file entries from a `summaries.md` file
 in the working directory and writes `distinct-summaries.md`.
 
-**StatsCompare.kt** (`src/main/kotlin/llmstats/`): Compares token counts per report between two Bedrock runs
-(`old-stats.csv` vs. `stats.csv`), to see how a prompt change affects input and output size.
+**StatsCompare.kt** (`src/main/kotlin/llmstats/`): Compares token counts per report between two runs
+(`--args="<old stats.csv> <new stats.csv>"`), to see how a prompt change affects input and output size.
 
 **SleepPreventer.kt** (`src/main/kotlin/windows/`): JNA wrapper around Windows `SetThreadExecutionState`
 to prevent the OS from sleeping during long LLM processing runs.

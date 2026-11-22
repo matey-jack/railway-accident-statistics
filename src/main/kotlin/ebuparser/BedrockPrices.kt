@@ -17,29 +17,51 @@ private const val PRICE_LIST_URL = "https://pricing.us-east-1.amazonaws.com/offe
 // Each provider names its models and usage types differently, so a model names its own.
 // The marketplace models (Claude) share their usage types, so the model attribute is needed as well.
 // `{region}` stands for the region's usage-type prefix, e.g. EUC1 for eu-central-1.
+sealed interface PriceSource
+
 data class PriceListEntry(
     val offerCode: String,
     val model: String,
     val inputUsageType: String,
     val outputUsageType: String,
-)
+) : PriceSource
+
+// Anthropic charges the higher long-prompt prices for the whole request, input and output.
+private const val LONG_PROMPT_TOKENS = 100_000
 
 data class TokenPrices(
     val inputDollarPer1m: Double,
     val outputDollarPer1m: Double,
-) {
-    fun inputCost(tokens: Long): Double = tokens * inputDollarPer1m / 1_000_000.0
+    val longPrompt: TokenPrices? = null,
+) : PriceSource {
+    fun forPrompt(inputTokens: Long): TokenPrices = if (longPrompt != null && inputTokens > LONG_PROMPT_TOKENS) longPrompt else this
 
-    fun outputCost(tokens: Long): Double = tokens * outputDollarPer1m / 1_000_000.0
+    fun inputCost(tokens: Long): Double = tokens * forPrompt(tokens).inputDollarPer1m / 1_000_000.0
 
-    override fun toString(): String = "input $$inputDollarPer1m, output $$outputDollarPer1m per 1M tokens"
+    fun outputCost(
+        inputTokens: Long,
+        outputTokens: Long,
+    ): Double = outputTokens * forPrompt(inputTokens).outputDollarPer1m / 1_000_000.0
+
+    override fun toString(): String =
+        "input $$inputDollarPer1m, output $$outputDollarPer1m per 1M tokens" +
+            longPrompt?.let { "; for prompts over $LONG_PROMPT_TOKENS tokens: $it" }.orEmpty()
 }
 
+// Only the Bedrock models need the region, for their price list.
+fun tokenPrices(
+    model: LlmModel,
+    region: Region?,
+): TokenPrices =
+    when (val source = model.prices) {
+        is TokenPrices -> source
+        is PriceListEntry -> fetchTokenPrices(source, requireNotNull(region) { "${model.name} needs an AWS region." })
+    }
+
 fun fetchTokenPrices(
-    model: BedrockModel,
+    entry: PriceListEntry,
     region: Region,
 ): TokenPrices {
-    val entry = model.priceListEntry
     val url = "$PRICE_LIST_URL/${entry.offerCode}/current/${region.id()}/index.json"
     val request =
         Request
@@ -58,12 +80,12 @@ fun fetchTokenPrices(
     )
 }
 
-fun fetchAndPrintTokenPrices(
-    model: BedrockModel,
-    region: Region,
+fun printedTokenPrices(
+    model: LlmModel,
+    region: Region?,
 ): TokenPrices {
-    val prices = fetchTokenPrices(model, region)
-    println("Price of '${model.inferenceId}' in '${region.id()}': $prices")
+    val prices = tokenPrices(model, region)
+    println("Price of '${model.inferenceId}'${region?.let { " in '${it.id()}'" }.orEmpty()}: $prices")
     return prices
 }
 
@@ -103,8 +125,10 @@ class CostLog(
 ) {
     private var inputTokens = 0L
     private var outputTokens = 0L
+    private var inputCost = 0.0
+    private var outputCost = 0.0
 
-    fun start(model: BedrockModel) {
+    fun start(model: LlmModel) {
         logFile.parentFile?.mkdirs()
         logFile.appendText(
             "\n=== Run started ${LocalDateTime.now().truncatedTo(ChronoUnit.SECONDS)} ===\n" +
@@ -118,11 +142,11 @@ class CostLog(
     ) {
         this.inputTokens += inputTokens
         this.outputTokens += outputTokens
+        inputCost += prices.inputCost(inputTokens)
+        outputCost += prices.outputCost(inputTokens, outputTokens)
     }
 
     fun writeTotals() {
-        val inputCost = prices.inputCost(inputTokens)
-        val outputCost = prices.outputCost(outputTokens)
         val totals =
             "Input: $inputTokens tokens, $%.6f\n".format(inputCost) +
                 "Output: $outputTokens tokens, $%.6f\n".format(outputCost) +

@@ -4,30 +4,36 @@ import software.amazon.awssdk.auth.credentials.AwsCredentialsProvider
 import software.amazon.awssdk.regions.Region
 import software.amazon.awssdk.services.bedrockruntime.BedrockRuntimeClient
 
-enum class BedrockApi {
+enum class LlmApi {
     CONVERSE,
     MANTLE,
+    ANTHROPIC,
 }
 
-data class BedrockModel(
+data class LlmModel(
     val name: String,
-    val api: BedrockApi,
-    val priceListEntry: PriceListEntry,
+    val api: LlmApi,
+    val prices: PriceSource,
 ) {
     val inferenceId: String
         get() =
             when (api) {
-                BedrockApi.CONVERSE -> "global.$name"
-                BedrockApi.MANTLE -> name
+                LlmApi.CONVERSE -> "global.$name"
+                LlmApi.MANTLE, LlmApi.ANTHROPIC -> name
             }
+
+    // Each model gets its own directory, so that runs of different models can be compared.
+    // Windows doesn't allow ':' in file names, and Bedrock model names can contain a version suffix like ':0'.
+    val resultsDir: String
+        get() = "results/${name.replace(':', '-')}"
 }
 
 // The price list entries are those of the service tier the model is called with.
 
 val novaModel =
-    BedrockModel(
+    LlmModel(
         "amazon.nova-2-lite-v1:0",
-        BedrockApi.CONVERSE,
+        LlmApi.CONVERSE,
         PriceListEntry(
             "AmazonBedrock",
             "Nova 2.0 Lite",
@@ -38,9 +44,9 @@ val novaModel =
 
 // Gemma 4 is only served by the OpenAI-compatible bedrock-mantle endpoint, which has no cross-region inference profiles.
 val gemma31Model =
-    BedrockModel(
+    LlmModel(
         "google.gemma-4-31b",
-        BedrockApi.MANTLE,
+        LlmApi.MANTLE,
         PriceListEntry(
             "AmazonBedrock",
             "google.gemma-4-31b",
@@ -51,10 +57,10 @@ val gemma31Model =
 
 // Bedrock offers no flex tier for this model, so it is called with the standard tier.
 // Its bedrock-mantle endpoint isn't available in the EU regions.
-val haiku55Model =
-    BedrockModel(
+val bedrockHaiku55Model =
+    LlmModel(
         "anthropic.claude-haiku-5-5",
-        BedrockApi.CONVERSE,
+        LlmApi.CONVERSE,
         PriceListEntry(
             "AmazonBedrockFoundationModels",
             "Claude Haiku 5.5",
@@ -63,8 +69,20 @@ val haiku55Model =
         ),
     )
 
+// Anthropic has no machine-readable price list, so these are copied from https://platform.claude.com/docs/en/about-claude/pricing
+val haiku55Model =
+    LlmModel(
+        "claude-haiku-5-5",
+        LlmApi.ANTHROPIC,
+        TokenPrices(
+            inputDollarPer1m = 0.10,
+            outputDollarPer1m = 0.50,
+            longPrompt = TokenPrices(inputDollarPer1m = 0.50, outputDollarPer1m = 2.50),
+        ),
+    )
+
 // this includes reasoning tokens!
-const val BEDROCK_MAX_TOKENS = 8000
+const val MAX_TOKENS = 8000
 
 fun converseClient(
     region: Region,

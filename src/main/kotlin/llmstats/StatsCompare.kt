@@ -1,11 +1,14 @@
 package llmstats
 
+import ebuparser.SUMMARIZATION_MODEL
 import java.io.File
 import kotlin.math.abs
 
-fun main() {
-    val oldStats = File("results/bedrock/old-stats.csv").readLines()
-    val newStats = File("results/bedrock/stats.csv").readLines()
+fun main(args: Array<String>) {
+    val oldStatsFile = File(args.getOrElse(0) { "results/bedrock/old-stats.csv" })
+    val newStatsFile = File(args.getOrElse(1) { "${SUMMARIZATION_MODEL.resultsDir}/stats.csv" })
+    val oldStats = oldStatsFile.readLines()
+    val newStats = newStatsFile.readLines()
 
     fun parseTokens(lines: List<String>): Map<String, Pair<Int, Int>> {
         val header = lines.first().split(",")
@@ -21,7 +24,7 @@ fun main() {
     val old = parseTokens(oldStats)
     val new = parseTokens(newStats)
 
-    val out = File("results/bedrock/joined-stats.csv")
+    val out = newStatsFile.resolveSibling("joined-stats.csv")
     out.bufferedWriter().use { w ->
         w.write("file,old_input_tokens,input_tokens,old_output_tokens,output_tokens\n")
         for (file in (old.keys.intersect(new.keys)).toSortedSet()) {

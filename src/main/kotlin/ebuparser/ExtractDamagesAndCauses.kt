@@ -2,7 +2,7 @@ package ebuparser
 
 import java.io.File
 
-private const val INPUT_FILE = "results/bedrock/summaries.md"
+private val INPUT_FILE = "${SUMMARIZATION_MODEL.resultsDir}/$OUTPUT_FILENAME"
 private const val DAMAGES_OUTPUT_FILE = "results/damages.md"
 private const val CAUSES_OUTPUT_FILE = "results/causes.md"
 private val DATE_REGEX = Regex("""\d\d\.\d\d\.\d\d\d\d""")

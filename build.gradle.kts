@@ -42,6 +42,7 @@ repositories {
 dependencies {
     implementation(kotlin("reflect"))
 
+    implementation("com.anthropic:anthropic-java:3.12.0")
     implementation("com.openai:openai-java:4.111.0")
     implementation("com.fasterxml.jackson.module:jackson-module-kotlin:2.21.0")
     // for the Lemonade /stats call

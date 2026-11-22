@@ -1,5 +1,9 @@
 package ebuparser
 
+import com.anthropic.client.AnthropicClient
+import com.anthropic.client.okhttp.AnthropicOkHttpClient
+import com.anthropic.models.messages.MessageCreateParams
+import com.anthropic.models.messages.OutputConfig
 import com.openai.client.OpenAIClient
 import com.openai.client.okhttp.OpenAIOkHttpClient
 import com.openai.core.Timeout
@@ -32,14 +36,12 @@ const val LEMONADE_URL = "http://127.0.0.1:8000"
 const val LEMONADE_STATS_URL = "$LEMONADE_URL/api/v1/stats"
 const val LEMONADE_MODEL = "Qwen3-14B-GGUF"
 
-val BEDROCK_MODEL = gemma31Model
-val BEDROCK_MODEL_ID = BEDROCK_MODEL.inferenceId
+val SUMMARIZATION_MODEL = gemma31Model
 const val BEDROCK_SERVICE_TIER = "flex"
 
 const val OUTPUT_FILENAME = "summaries.md"
 const val LOG_FILENAME = "extraction-log.txt"
-const val LEMONADE_OUTPUT_DIR = "results/lemonade"
-const val BEDROCK_OUTPUT_DIR = "results/bedrock"
+const val LEMONADE_OUTPUT_DIR = "results/$LEMONADE_MODEL"
 
 // Local inference can take many minutes for a long report.
 private val noReadTimeout =
@@ -157,7 +159,7 @@ fun extractWithBedrock(
     val request =
         ConverseRequest
             .builder()
-            .modelId(BEDROCK_MODEL_ID)
+            .modelId(SUMMARIZATION_MODEL.inferenceId)
             .system(SystemContentBlock.builder().text(prompt).build())
             .messages(
                 Message
@@ -168,7 +170,7 @@ fun extractWithBedrock(
             ).inferenceConfig(
                 InferenceConfiguration
                     .builder()
-                    .maxTokens(BEDROCK_MAX_TOKENS)
+                    .maxTokens(MAX_TOKENS)
                     .build(),
             ).serviceTier(
                 ServiceTier
@@ -190,16 +192,60 @@ fun extractWithBedrock(
 
     val usage = response.usage()
     val statsText =
-        bedrockStatsRow(
+        statsRow(
             prices = prices,
             fileName = fileName,
             resolvedTier = response.serviceTier()?.typeAsString(),
             localLatencyMs = localLatencyMs,
-            bedrockLatencyMs = response.metrics()?.latencyMs(),
+            providerLatencyMs = response.metrics()?.latencyMs(),
             inputTokens = usage?.inputTokens()?.toLong() ?: 0,
             outputTokens = usage?.outputTokens()?.toLong() ?: 0,
             totalTokens = usage?.totalTokens()?.toLong() ?: 0,
             stopReason = response.stopReasonAsString(),
+        )
+
+    return ExtractResult(SimpleSummary(fileName, content), statsText)
+}
+
+fun extractWithAnthropic(
+    client: AnthropicClient,
+    prices: TokenPrices,
+    fileName: String,
+    fullText: String,
+    prompt: String = summarizationPrompt,
+): ExtractResult {
+    val startNs = System.nanoTime()
+    val params =
+        MessageCreateParams
+            .builder()
+            .model(SUMMARIZATION_MODEL.inferenceId)
+            .maxTokens(MAX_TOKENS.toLong())
+            .system(prompt)
+            .addUserMessage(reportMessage(fullText))
+            .outputConfig(OutputConfig.builder().effort(OutputConfig.Effort.LOW).build())
+            .build()
+
+    val message = client.messages().create(params)
+    val localLatencyMs = TimeUnit.NANOSECONDS.toMillis(System.nanoTime() - startNs)
+    val content = message.content().mapNotNull { it.text().getOrNull()?.text() }.joinToString("")
+
+    val usage = message.usage()
+    val statsText =
+        statsRow(
+            prices = prices,
+            fileName = fileName,
+            resolvedTier = usage.serviceTier().getOrNull()?.asString(),
+            localLatencyMs = localLatencyMs,
+            providerLatencyMs = null,
+            inputTokens = usage.inputTokens(),
+            outputTokens = usage.outputTokens(),
+            totalTokens = usage.inputTokens() + usage.outputTokens(),
+            stopReason =
+                message
+                    .stopReason()
+                    .getOrNull()
+                    ?.asString()
+                    .orEmpty(),
         )
 
     return ExtractResult(SimpleSummary(fileName, content), statsText)
@@ -237,8 +283,8 @@ class MantleClient(
 }
 
 fun ChatCompletionCreateParams.Builder.withBedrockSettings(): ChatCompletionCreateParams.Builder =
-    model(BEDROCK_MODEL_ID)
-        .maxCompletionTokens(BEDROCK_MAX_TOKENS.toLong())
+    model(SUMMARIZATION_MODEL.inferenceId)
+        .maxCompletionTokens(MAX_TOKENS.toLong())
         .reasoningEffort(ReasoningEffort.LOW)
         .serviceTier(ChatCompletionCreateParams.ServiceTier.FLEX)
 
@@ -249,12 +295,12 @@ fun mantleStatsRow(
     localLatencyMs: Long,
 ): String {
     val usage = chat.usage().getOrNull()
-    return bedrockStatsRow(
+    return statsRow(
         prices = prices,
         fileName = fileName,
         resolvedTier = chat.serviceTier().getOrNull()?.asString(),
         localLatencyMs = localLatencyMs,
-        bedrockLatencyMs = null,
+        providerLatencyMs = null,
         inputTokens = usage?.promptTokens() ?: 0,
         outputTokens = usage?.completionTokens() ?: 0,
         totalTokens = usage?.totalTokens() ?: 0,
@@ -309,25 +355,25 @@ fun enableReasoning(effort: String): Document =
             ),
         ).build()
 
-fun bedrockStatsRow(
+fun statsRow(
     prices: TokenPrices,
     fileName: String,
     resolvedTier: String?,
     localLatencyMs: Long,
-    bedrockLatencyMs: Long?,
+    providerLatencyMs: Long?,
     inputTokens: Long,
     outputTokens: Long,
     totalTokens: Long,
     stopReason: String,
 ): String {
     val inputCost = prices.inputCost(inputTokens)
-    val outputCost = prices.outputCost(outputTokens)
+    val outputCost = prices.outputCost(inputTokens, outputTokens)
     return listOf(
         fileName,
-        BEDROCK_MODEL_ID,
+        SUMMARIZATION_MODEL.inferenceId,
         resolvedTier ?: BEDROCK_SERVICE_TIER,
         localLatencyMs.toString(),
-        bedrockLatencyMs?.toString().orEmpty(),
+        providerLatencyMs?.toString().orEmpty(),
         inputTokens.toString(),
         outputTokens.toString(),
         totalTokens.toString(),
@@ -456,17 +502,24 @@ fun alsoLogTo(logFile: File) {
 
 fun main() {
     val useLemonade = isLemonadeRunning()
-    val outputDirectory = if (useLemonade) LEMONADE_OUTPUT_DIR else BEDROCK_OUTPUT_DIR
+    val outputDirectory = if (useLemonade) LEMONADE_OUTPUT_DIR else SUMMARIZATION_MODEL.resultsDir
     alsoLogTo(Path(outputDirectory).resolve(LOG_FILENAME).toFile())
     printDebugInfo()
 
-    val bedrockClient: BedrockRuntimeClient?
+    val client: AutoCloseable?
     val extractor: (fileName: String, fullText: String) -> ExtractResult
 
     if (useLemonade) {
         println("Lemonade is running. Continuing with local processing.")
-        bedrockClient = null
+        client = null
         extractor = { fileName, fullText -> extractWithLemonade(fileName, fullText) }
+    } else if (SUMMARIZATION_MODEL.api == LlmApi.ANTHROPIC) {
+        println("Lemonade is not running. Using the Anthropic API.")
+        val prices = printedTokenPrices(SUMMARIZATION_MODEL, null)
+        val anthropicClient = AnthropicOkHttpClient.fromEnv()
+        client = AutoCloseable { anthropicClient.close() }
+        extractor = { fileName, fullText -> extractWithAnthropic(anthropicClient, prices, fileName, fullText) }
+        println("Using model '${SUMMARIZATION_MODEL.inferenceId}'.")
     } else {
         println("Lemonade is not running. Using AWS profile '$AWS_PROFILE'.")
         val region = resolveAwsRegion()
@@ -475,24 +528,20 @@ fun main() {
                 .builder()
                 .profileName(AWS_PROFILE)
                 .build()
-        val prices = fetchAndPrintTokenPrices(BEDROCK_MODEL, region)
+        val prices = printedTokenPrices(SUMMARIZATION_MODEL, region)
 
-        when (BEDROCK_MODEL.api) {
-            BedrockApi.CONVERSE -> {
-                val converseClient = converseClient(region, credentialsProvider)
-                bedrockClient = converseClient
-                extractor = { fileName, fullText -> extractWithBedrock(converseClient, prices, fileName, fullText) }
-            }
-
-            BedrockApi.MANTLE -> {
-                val mantleClient = MantleClient(region, credentialsProvider)
-                bedrockClient = null
-                extractor = { fileName, fullText -> extractWithMantle(mantleClient, prices, fileName, fullText) }
-            }
+        if (SUMMARIZATION_MODEL.api == LlmApi.CONVERSE) {
+            val converseClient = converseClient(region, credentialsProvider)
+            client = converseClient
+            extractor = { fileName, fullText -> extractWithBedrock(converseClient, prices, fileName, fullText) }
+        } else {
+            val mantleClient = MantleClient(region, credentialsProvider)
+            client = null
+            extractor = { fileName, fullText -> extractWithMantle(mantleClient, prices, fileName, fullText) }
         }
 
         println(
-            "Using Bedrock model '$BEDROCK_MODEL_ID' via the ${BEDROCK_MODEL.api} API " +
+            "Using Bedrock model '${SUMMARIZATION_MODEL.inferenceId}' via the ${SUMMARIZATION_MODEL.api} API " +
                 "with service tier '$BEDROCK_SERVICE_TIER' in region '${region.id()}'.",
         )
     }
@@ -519,7 +568,7 @@ fun main() {
     }
 
     var errorCount = 0
-    bedrockClient.use {
+    client.use {
         for (file in files) {
             try {
                 val report = file.readText()

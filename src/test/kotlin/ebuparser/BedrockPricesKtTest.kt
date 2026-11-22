@@ -4,9 +4,20 @@ import com.fasterxml.jackson.databind.JsonNode
 import com.fasterxml.jackson.module.kotlin.jacksonObjectMapper
 import org.assertj.core.api.Assertions.assertThat
 import org.assertj.core.api.Assertions.assertThatThrownBy
+import org.assertj.core.api.Assertions.within
 import org.junit.jupiter.api.Test
 
 class BedrockPricesKtTest {
+    @Test
+    fun `a long prompt makes the whole request use the long-prompt prices`() {
+        val prices = haiku55Model.prices as TokenPrices
+
+        assertThat(prices.inputCost(100_000)).isCloseTo(0.01, within(1e-12))
+        assertThat(prices.outputCost(100_000, 1_000_000)).isCloseTo(0.5, within(1e-12))
+        assertThat(prices.inputCost(200_000)).isCloseTo(0.1, within(1e-12))
+        assertThat(prices.outputCost(200_000, 1_000_000)).isCloseTo(2.5, within(1e-12))
+    }
+
     private data class Product(
         val model: String,
         val usageType: String,

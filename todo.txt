@@ -3,3 +3,6 @@ enable Claude Haiku in my AWS account
 
 run the new classifier, then add some hand-labeled values to classification-labels.csv to check the results.
 
+use Anthropic's Message Batches API for the Anthropic models (half the price):
+submit all pending reports, wait for the batch to end, then collect the results by report (custom_id; they come back in any order).
+

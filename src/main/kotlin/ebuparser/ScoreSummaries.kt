@@ -31,7 +31,7 @@ fun scoreSummaryFile(file: File): Map<String, ScoredSummary> =
 
 // Writes the same assessment that ExtractSummaries logs, for summary files from earlier runs.
 fun main(args: Array<String>) {
-    val paths = args.ifEmpty { arrayOf("$BEDROCK_OUTPUT_DIR/$OUTPUT_FILENAME") }
+    val paths = args.ifEmpty { arrayOf("${SUMMARIZATION_MODEL.resultsDir}/$OUTPUT_FILENAME") }
     for (path in paths) {
         val file = File(path)
         val lines =

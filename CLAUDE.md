@@ -17,7 +17,7 @@ Differences to the previous state belong only in the commit message (if at all).
 
 Don't add Gradle run tasks for the main classes; use `./gradlew run "-DmainClass=<package>.<File>Kt"` as described in the ReadMe.
 
-`ExtractSummaries` and `Classifier` call paid LLM APIs (Bedrock) and append to or overwrite files under `results/`.
+`ExtractSummaries` and `Classifier` call paid LLM APIs (Bedrock, Anthropic) and append to or overwrite files under `results/`.
 Only run them when asked. `./gradlew runTestAws` is a free check that the AWS SSO login is still valid.
 
 Tests: `./gradlew test`.
