@@ -71,7 +71,10 @@ Input: `results/<model>/summaries.md` of the summarization model
 Output: `results/classification/classifications.jsonl` and `results/classification/classifications.csv`
 
 `ClassifierKt` appends the token prices and each run's total input, output and overall cost to
-`results/classification/cost-log.txt`.
+`results/classification/cost-log.txt`, and one row per call to `results/classification/stats.csv`,
+with the same columns as in step 2.
+The call durations there show when the flex tier is busy.
+After several failures in a row, the run pauses for a few minutes, and longer each time, rather than failing the rest.
 
 Uses the Anthropic API or the Bedrock Converse API, whichever the configured model is served by.
 One call per report to a capable model, with all sections that describe the accident:

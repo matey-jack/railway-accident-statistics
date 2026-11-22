@@ -121,7 +121,7 @@ internal fun dollarPer1mTokens(
 
 class CostLog(
     private val logFile: File,
-    private val prices: TokenPrices,
+    val prices: TokenPrices,
 ) {
     private var inputTokens = 0L
     private var outputTokens = 0L

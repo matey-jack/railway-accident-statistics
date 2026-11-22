@@ -25,6 +25,8 @@ import software.amazon.awssdk.services.bedrockruntime.model.ToolConfiguration
 import software.amazon.awssdk.services.bedrockruntime.model.ToolInputSchema
 import software.amazon.awssdk.services.bedrockruntime.model.ToolSpecification
 import java.io.File
+import java.time.Duration
+import java.util.concurrent.TimeUnit
 import kotlin.jvm.optionals.getOrNull
 import kotlin.reflect.KClass
 import kotlin.reflect.KType
@@ -34,6 +36,7 @@ val CLASSIFICATION_INPUT = "${SUMMARIZATION_MODEL.resultsDir}/$OUTPUT_FILENAME"
 const val CLASSIFICATION_DIR = "results/classification"
 const val CLASSIFICATIONS_JSONL = "$CLASSIFICATION_DIR/classifications.jsonl"
 const val CLASSIFICATION_COST_LOG = "$CLASSIFICATION_DIR/cost-log.txt"
+const val CLASSIFICATION_STATS_CSV = "$CLASSIFICATION_DIR/stats.csv"
 
 val CLASSIFICATION_MODEL = novaModel
 
@@ -236,10 +239,15 @@ class ModelAnswer(
     val toolInput: Map<String, Any?>?,
     val thinking: String,
     val stopReason: String?,
+    val inputTokens: Long,
+    val outputTokens: Long,
+    val serviceTier: String?,
+    val providerLatencyMs: Long?,
 )
 
 abstract class Classifier(
-    protected val costLog: CostLog,
+    private val costLog: CostLog,
+    private val statsFile: File,
 ) : AutoCloseable {
     abstract val tool: Any
 
@@ -248,7 +256,28 @@ abstract class Classifier(
 
     fun classify(summary: Summary): ClassificationRecord {
         println("Classifying ${summary.filename}...")
+        val startNs = System.nanoTime()
         val answer = ask(buildClassificationInput(summary))
+        val localLatencyMs = TimeUnit.NANOSECONDS.toMillis(System.nanoTime() - startNs)
+        println("Answer after ${localLatencyMs / 1000} s.")
+        // Before the answer is checked, so that the stats include every paid call.
+        costLog.add(answer.inputTokens, answer.outputTokens)
+        appendStats(
+            statsFile,
+            summary.filename,
+            statsRow(
+                model = CLASSIFICATION_MODEL,
+                prices = costLog.prices,
+                fileName = summary.filename,
+                resolvedTier = answer.serviceTier,
+                localLatencyMs = localLatencyMs,
+                providerLatencyMs = answer.providerLatencyMs,
+                inputTokens = answer.inputTokens,
+                outputTokens = answer.outputTokens,
+                totalTokens = answer.inputTokens + answer.outputTokens,
+                stopReason = answer.stopReason.orEmpty(),
+            ),
+        )
         val response =
             answer.toolInput
                 ?: error("No $TOOL_NAME tool output for ${summary.filename}, stop reason ${answer.stopReason}.")
@@ -268,7 +297,8 @@ abstract class Classifier(
 class AnthropicClassifier(
     private val client: AnthropicClient,
     costLog: CostLog,
-) : Classifier(costLog) {
+    statsFile: File,
+) : Classifier(costLog, statsFile) {
     override val tool = anthropicTool
 
     override fun ask(input: String): ModelAnswer {
@@ -285,7 +315,7 @@ class AnthropicClassifier(
                 .build()
 
         val message = client.messages().create(params)
-        message.usage().let { costLog.add(it.inputTokens(), it.outputTokens()) }
+        val usage = message.usage()
         val content = message.content()
         return ModelAnswer(
             toolInput =
@@ -299,6 +329,10 @@ class AnthropicClassifier(
                     }?.convert(object : TypeReference<Map<String, Any?>>() {}),
             thinking = content.mapNotNull { it.thinking().getOrNull()?.thinking() }.joinToString("\n\n"),
             stopReason = message.stopReason().getOrNull()?.asString(),
+            inputTokens = usage.inputTokens(),
+            outputTokens = usage.outputTokens(),
+            serviceTier = usage.serviceTier().getOrNull()?.asString(),
+            providerLatencyMs = null,
         )
     }
 
@@ -308,7 +342,8 @@ class AnthropicClassifier(
 class BedrockClassifier(
     private val client: BedrockRuntimeClient,
     costLog: CostLog,
-) : Classifier(costLog) {
+    statsFile: File,
+) : Classifier(costLog, statsFile) {
     override val tool = bedrockToolSpec(strict = CLASSIFICATION_MODEL.isClaude)
 
     private val toolConfig =
@@ -349,7 +384,7 @@ class BedrockClassifier(
                 }.build()
 
         val response = client.converse(request)
-        response.usage()?.let { costLog.add(it.inputTokens().toLong(), it.outputTokens().toLong()) }
+        val usage = response.usage()
         val content = response.output().message().content()
 
         @Suppress("UNCHECKED_CAST")
@@ -360,6 +395,10 @@ class BedrockClassifier(
                     ?.let { fromDocument(it) as Map<String, Any?> },
             thinking = content.mapNotNull { it.reasoningContent()?.reasoningText()?.text() }.joinToString("\n\n"),
             stopReason = response.stopReasonAsString(),
+            inputTokens = usage?.inputTokens()?.toLong() ?: 0,
+            outputTokens = usage?.outputTokens()?.toLong() ?: 0,
+            serviceTier = response.serviceTier()?.typeAsString(),
+            providerLatencyMs = response.metrics()?.latencyMs(),
         )
     }
 
@@ -393,18 +432,38 @@ fun appendClassificationRecord(
     file.appendText(jsonMapper.writeValueAsString(record) + "\n")
 }
 
+private const val FAILURES_BEFORE_PAUSE = 3
+private val firstPause = Duration.ofMinutes(2)
+private val longestPause = Duration.ofMinutes(30)
+
+// Failures in a row mostly mean that the flex tier is busy, and that the SDK has used up its own retries.
+// Instead of failing the remaining reports as well, the run waits for the busy time to pass.
+internal fun pauseDuration(consecutiveFailures: Int): Duration? {
+    if (consecutiveFailures < FAILURES_BEFORE_PAUSE) return null
+    val doublings = (consecutiveFailures - FAILURES_BEFORE_PAUSE).coerceAtMost(10)
+    return minOf(firstPause.multipliedBy(1L shl doublings), longestPause)
+}
+
+private fun pauseAfterFailures(consecutiveFailures: Int) {
+    val pause = pauseDuration(consecutiveFailures) ?: return
+    println("$consecutiveFailures failures in a row, pausing for ${pause.toMinutes()} minutes.")
+    Thread.sleep(pause)
+}
+
 fun main() {
     val region = if (CLASSIFICATION_MODEL.api == LlmApi.ANTHROPIC) null else resolveAwsRegion()
     val costLog = CostLog(File(CLASSIFICATION_COST_LOG), printedTokenPrices(CLASSIFICATION_MODEL, region))
     costLog.start(CLASSIFICATION_MODEL)
+    val statsFile = File(CLASSIFICATION_STATS_CSV)
 
     val classifier =
         when (CLASSIFICATION_MODEL.api) {
-            LlmApi.ANTHROPIC -> AnthropicClassifier(AnthropicOkHttpClient.fromEnv(), costLog)
+            LlmApi.ANTHROPIC -> AnthropicClassifier(AnthropicOkHttpClient.fromEnv(), costLog, statsFile)
             LlmApi.CONVERSE ->
                 BedrockClassifier(
                     converseClient(region!!, ProfileCredentialsProvider.builder().profileName(AWS_PROFILE).build()),
                     costLog,
+                    statsFile,
                 )
             LlmApi.MANTLE -> error("The classifier has no bedrock-mantle client, which ${CLASSIFICATION_MODEL.name} needs.")
         }
@@ -413,18 +472,24 @@ fun main() {
     val alreadyClassified = readClassificationRecords(CLASSIFICATIONS_JSONL).map { it.report }.toSet()
     val pending =
         parseSummaries(CLASSIFICATION_INPUT)
-            .filter { summary -> testReports.contains(summary.reportNumber.take(3)) }
+            // .filter { summary -> testReports.contains(summary.reportNumber.take(3)) }
             .filterNot { summary -> summary.reportNumber in alreadyClassified }
     println("${alreadyClassified.size} reports already in $CLASSIFICATIONS_JSONL, ${pending.size} to classify.")
 
     // A failed report is just skipped: it is retried on the next run, like the reports never attempted.
     var failures = 0
+    var consecutiveFailures = 0
     pending.forEach { summary ->
+        val startNs = System.nanoTime()
         try {
             appendClassificationRecord(classifier.classify(summary), CLASSIFICATIONS_JSONL)
+            consecutiveFailures = 0
         } catch (e: Exception) {
             failures++
-            println("ERROR classifying ${summary.filename}: $e")
+            consecutiveFailures++
+            val seconds = TimeUnit.NANOSECONDS.toSeconds(System.nanoTime() - startNs)
+            println("ERROR classifying ${summary.filename} after $seconds s: $e")
+            pauseAfterFailures(consecutiveFailures)
         }
     }
     println("Classified ${pending.size - failures} reports, $failures failed.")

@@ -53,7 +53,6 @@ private val noReadTimeout =
         .request(Duration.ZERO)
         .build()
 
-// Bedrock calls take well under a minute, even on the flex tier.
 // A request that Bedrock silently drops would otherwise block the run forever,
 // because there are no response headers to wait for and no HTTP/2 pings to detect a dead connection.
 private val bedrockTimeout =
@@ -193,6 +192,7 @@ fun extractWithBedrock(
     val usage = response.usage()
     val statsText =
         statsRow(
+            model = SUMMARIZATION_MODEL,
             prices = prices,
             fileName = fileName,
             resolvedTier = response.serviceTier()?.typeAsString(),
@@ -232,6 +232,7 @@ fun extractWithAnthropic(
     val usage = message.usage()
     val statsText =
         statsRow(
+            model = SUMMARIZATION_MODEL,
             prices = prices,
             fileName = fileName,
             resolvedTier = usage.serviceTier().getOrNull()?.asString(),
@@ -296,6 +297,7 @@ fun mantleStatsRow(
 ): String {
     val usage = chat.usage().getOrNull()
     return statsRow(
+        model = SUMMARIZATION_MODEL,
         prices = prices,
         fileName = fileName,
         resolvedTier = chat.serviceTier().getOrNull()?.asString(),
@@ -356,6 +358,7 @@ fun enableReasoning(effort: String): Document =
         ).build()
 
 fun statsRow(
+    model: LlmModel,
     prices: TokenPrices,
     fileName: String,
     resolvedTier: String?,
@@ -370,7 +373,7 @@ fun statsRow(
     val outputCost = prices.outputCost(inputTokens, outputTokens)
     return listOf(
         fileName,
-        SUMMARIZATION_MODEL.inferenceId,
+        model.inferenceId,
         resolvedTier ?: BEDROCK_SERVICE_TIER,
         localLatencyMs.toString(),
         providerLatencyMs?.toString().orEmpty(),

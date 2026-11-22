@@ -53,6 +53,7 @@ dependencies {
 
     implementation(platform("software.amazon.awssdk:bom:2.59.5"))
     implementation("software.amazon.awssdk:bedrockruntime")
+    implementation("software.amazon.awssdk:apache5-client")
     implementation("software.amazon.awssdk:s3")
     implementation("software.amazon.awssdk:sts")
     implementation("software.amazon.awssdk:sso")
