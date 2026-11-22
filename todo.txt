@@ -1,8 +1,11 @@
 
-enable Claude Haiku in my AWS account
+- enable Claude Haiku in my AWS account ==> this failed for now, but I can try writing a support ticket.
 
-run the new classifier, then add some hand-labeled values to classification-labels.csv to check the results.
+- sign up for the Anthropic Claude API
 
-use Anthropic's Message Batches API for the Anthropic models (half the price):
-submit all pending reports, wait for the batch to end, then collect the results by report (custom_id; they come back in any order).
+- run the new classifier, then add some hand-labeled values to classification-labels.csv to check the results.
+
+- use Anthropic's Message Batches API for the Anthropic models (half the price):
+  submit all pending reports, wait for the batch to end, then collect the results by report
+  (custom_id; they come back in any order).
 
