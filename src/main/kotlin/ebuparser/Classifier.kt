@@ -95,14 +95,17 @@ private fun fieldSchema(field: LlmFieldMeta): Map<String, Any> =
 private fun typeSchema(type: KType): Map<String, Any> {
     val kClass = type.jvmErasure
     return when {
-        kClass == Int::class -> mapOf("type" to listOf("integer", "null"))
-        kClass == Double::class -> mapOf("type" to listOf("number", "null"))
+        // anyOf instead of a type list: see llm-behavior-notes.md.
+        kClass == Int::class -> nullable("integer")
+        kClass == Double::class -> nullable("number")
         kClass == String::class -> mapOf("type" to "string")
         kClass == List::class -> mapOf("type" to "array", "items" to typeSchema(type.arguments.single().type!!))
         isLabeledEnum(kClass) -> mapOf("type" to "string", "enum" to labeledEntries(kClass).map { it.label })
         else -> objectSchema(kClass)
     }
 }
+
+private fun nullable(type: String): Map<String, Any> = mapOf("anyOf" to listOf(mapOf("type" to type), mapOf("type" to "null")))
 
 internal val classificationSchema: Map<String, Any> =
     objectSchema(

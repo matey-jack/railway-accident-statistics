@@ -12,6 +12,7 @@ Differences to the previous state belong only in the commit message (if at all).
 ## Project documentation
 
 [ReadMe.md](ReadMe.md) describes the pipeline, how to run each step, and the German domain abbreviations.
+[llm-behavior-notes.md](llm-behavior-notes.md) records observed model quirks that shape prompts and schemas.
 
 ## Working in this project
 
