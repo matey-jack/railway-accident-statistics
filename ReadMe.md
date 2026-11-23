@@ -23,10 +23,17 @@ The quotes are needed in PowerShell.
 
 This is in a separate project, because I used datalab.io which has a Python API client.
 
-`documents/originals/` and `documents/cleaned/` hold PDFs and a plain-text extraction (pdfminer.six) of them.
-The pipeline doesn't read them.
+`documents/originals/` has the original PDFs just for manual verification.
+The programs here directly start from `documents/*.md`.
 
 ## Step 2: getting summaries from the reports
+
+This has been implemented to use LLMs served on a local Lemonade Server (which will be preferred if one is running), 
+otherwise the configured model on AWS Bedrock or the Anthropic API.
+Lemonade did fine for the smaller documents, but I never had the patience to let my computer run for many hours to 
+process all documents. And for the Anthropic API I never bought tokens, so the regular work is done on the AWS code 
+path. Log in with `aws sso login --profile llm-user --no-browser`. If you use another profile, replace the value in 
+`AwsConfig.kt`.
 
 Prompt: [extraction-prompt.txt](src/main/resources/extraction-prompt.txt)
 Code: [ExtractSummaries.kt](src/main/kotlin/ebuparser/ExtractSummaries.kt)
@@ -44,8 +51,6 @@ To compare runs, `ScoreSummariesKt` writes the same assessment for existing summ
 and `CompareSummariesKt` compares two or more summary files pairwise, including the sentences only one run has,
 and writes `comparison.md` next to the first file.
 
-Uses a local Lemonade Server if one is running, otherwise the configured model on AWS Bedrock or the Anthropic API.
-It should work with any other LLM provider.
 Reports already in `summaries.md` are skipped, so an interrupted run can just be restarted.
 
 Setting up all the permissions for Bedrock is a bit of work in the AWS console.
