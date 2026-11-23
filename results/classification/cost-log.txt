@@ -1,0 +1,15 @@
+
+=== Run started 2026-11-23T19:16:08 ===
+Model 'global.amazon.nova-2-lite-v1:0': input $0.195, output $1.635 per 1M tokens
+
+=== Run started 2026-11-23T19:16:45 ===
+Model 'global.amazon.nova-2-lite-v1:0': input $0.195, output $1.635 per 1M tokens
+Input: 1137574 tokens, $0.221827
+Output: 528324 tokens, $0.863810
+Total: $1.085637
+
+=== Run started 2026-11-23T21:12:10 ===
+Model 'global.amazon.nova-2-lite-v1:0': input $0.195, output $1.635 per 1M tokens
+Input: 4660 tokens, $0.000909
+Output: 1328 tokens, $0.002171
+Total: $0.003080
