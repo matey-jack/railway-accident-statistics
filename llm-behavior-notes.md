@@ -20,3 +20,16 @@ fields in every call, even though the input states the number and Nova's own `re
   reports (002, 007, 008, 032, 042, 114, 191, 231), so the classification schema uses that form.
 
 Gemma 4 31B (bedrock-mantle, OpenAI-style function tools) filled all fields with either form.
+
+## Nova 2 Lite's cause judgements vary between runs
+
+Observed 2026-11-23 by comparing two full classification runs of `amazon.nova-2-lite-v1:0` over the same 241 summaries
+(reasoning effort medium). Between the runs only the schema of the numeric fields changed.
+
+In 94 of the 241 reports at least one of the cause columns (`Fehlhandlung …`, `Ursache …`) differs. The judgements
+flip in every direction between `ursächlich`, `beitragend` and `nein`. `Ursache Organisation` is the least stable
+(47 reports differ), `Fehlhandlung Straßenverkehr` the only stable one (0). The per-report values of these columns are
+therefore not reliable from a single run; only aggregates over many reports, or values confirmed by a second run, are.
+
+Factual flags vary too, though less for the obvious ones: `Ereignisart` and `Brand` never differed, while
+`Zugbeeinflussung` (88 reports) and `Zugleitbetrieb` (85) often did.
